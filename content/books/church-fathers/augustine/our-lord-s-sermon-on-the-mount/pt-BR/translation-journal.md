@@ -184,3 +184,50 @@ Verdict: 0 meaning-level, 0 minor. Full read of ch002 (§1–87) against en-US, 
 - Rejected: pt-BR/ch002.md [43] — 'pela massa de uma corporeidade' renders 'by the mass of His corporeity'. — The sentence denies that God has any corporeity. 'uma' keeps that sense and avoids implying that God has a body. The meaning is unchanged.
 - Rejected: pt-BR/ch002.md [17] — The final rhetorical question is split, and its second half becomes a statement. — The content and logic are intact. Splitting the sentence is a syntax choice.
 - Rejected: pt-BR/ch002.md [107] — Possible omissions in the lists from Galatians 5. — All 17 works of the flesh and all 9 fruits of the Spirit are present and in the source's order.
+
+### Part terms 1 of 2, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 20 minor. 56 parágrafos sinalizados lidos; 15 sinalizações apresentaram desvio, corrigido em 20 trechos.
+- `pt-BR/ch001.md` [41]: “com espírito suplicante” → “com mente suplicante” — mind → “mente” (Key Terms); estava “espírito”.
+- `pt-BR/ch001.md` [54]: “se procura levar alguém a uma heresia perigosa” → “se procura conduzir alguém a uma heresia perigosa” — lead → “conduzir” (Key Terms); estava “levar”.
+- `pt-BR/ch001.md` [79]: “da fraqueza do espírito” → “da fraqueza da mente” — mind → “mente” (Key Terms); estava “espírito”.
+- `pt-BR/ch001.md` [83]: “estejas preparado no espírito para fazê-lo” → “estejas com a mente preparada para fazê-lo” — mind → “mente” (Key Terms); estava “espírito”.
+- `pt-BR/ch001.md` [83]: “com espírito tranquilo” → “com mente tranquila” — mind → “mente” (Key Terms); estava “espírito”.
+- `pt-BR/ch001.md` [85]: “um espírito agitado deseja” → “uma mente agitada deseja” — mind → “mente” (Key Terms); estava “espírito”.
+- `pt-BR/ch001.md` [85]: “a um espírito são e firme; antes, ele julga” → “a uma mente sã e firme; antes, ela julga” — A elipse retoma mind → “mente” (Key Terms); ajustados o substantivo e sua retomada.
+- `pt-BR/ch001.md` [89]: “o espírito não se deixe elevar ao ódio” → “a mente não se deixe elevar ao ódio” — mind → “mente” (Key Terms); estava “espírito”.
+- `pt-BR/ch001.md` [91]: “à disposição do espírito” → “à disposição da mente” — mind → “mente” (Key Terms); estava “espírito”.
+- `pt-BR/ch001.md` [99]: “essa disposição de espírito” → “essa disposição da mente” — mind → “mente” (Key Terms); estava “espírito”.
+- `pt-BR/ch002.md` [34]: “com tão grande fervor de espírito” → “com tão grande fervor da mente” — mind → “mente” (Key Terms); estava “espírito”.
+- `pt-BR/ch002.md` [38]: “que esteja preparado interiormente para perder” → “que esteja com a mente preparada para perder” — prepared in mind foi parafraseado como “preparado interiormente”; restabelecido “mente” (Key Terms).
+- `pt-BR/ch002.md` [39]: “nessa disposição de espírito” → “nessa disposição da mente” — mind → “mente” (Key Terms); estava “espírito”.
+- `pt-BR/ch002.md` [44]: “embora insensato e dominado” → “embora tolo e dominado” — foolish, derivado de fool → “tolo” (Key Terms); estava “insensato”.
+- `pt-BR/ch002.md` [44]: “um espírito humano insensato” → “um espírito humano tolo” — foolish, derivado de fool → “tolo” (Key Terms); estava “insensato”.
+- `pt-BR/ch002.md` [44]: “cuja avareza tão insensata” → “cuja avareza tão tola” — foolish, derivado de fool → “tolo” (Key Terms); estava “insensata”.
+- `pt-BR/ch002.md` [44]: ““Insensato, nesta noite” → ““Tolo, nesta noite” — fool → “tolo” (Key Terms); estava “Insensato” na citação.
+- `pt-BR/ch002.md` [81]: “à reta disposição de espírito” → “à reta disposição da mente” — mind → “mente” (Key Terms); estava “espírito”.
+- `pt-BR/ch002.md` [84]: “nasce do orgulho ou da inveja” → “nasce da soberba ou da inveja” — pride → “soberba” (Key Terms); estava “orgulho”.
+- `pt-BR/ch002.md` [94]: “saúde e força de espírito” → “saúde e força da mente” — mind → “mente” (Key Terms); estava “espírito”.
+
+### Part terms 1 of 2, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 1 minor. Delta read of 20 changes in ch001–ch002 and their neighbours: one concord slip introduced in [89]; a quotation in ch002 [80] departs from the source “aims”.
+- `pt-BR/ch001.md` [89]: “mas esteja pronto, por compaixão” → “mas esteja pronta, por compaixão” — the fix made “mente” (feminine) the subject; the predicate “pronto” was left masculine and must agree
+- `pt-BR/ch002.md` [80]: ““Os pecados de alguns homens são manifestos” → ““Os propósitos de alguns homens são manifestos” — source quotes “Some men's aims are manifest”; the translation substituted the familiar biblical “pecados”, contradicting the source and the journal decision (§60 “aims” → “propósitos”) *(meaning)*
+- Rejected: pt-BR/ch001.md [85] — “a sua própria” after the change to “mente” — it refers to “fraqueza” (the mind's own), matching the source; agreement is correct
+- Rejected: journal Key Terms “offend / fazer tropeçar” — audit counts 0 occurrences — the text uses the conjugated form “te faz tropeçar”; the row is accurate
+- Rejected: pt-BR/ch002.md [44] — “avareza tão tola” for “most foolish covetousness” — intensity is kept by “tão”; it follows the fool → tolo row; not a defect
+
+### Part terms 1 of 2, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente os seis parágrafos apresentados e as três notas do tradutor; ambas as correções estão corretas, sem novos defeitos.
+- Rejected: pt-BR/ch001.md [88] — Ausência dos parênteses presentes na fonte. — Os dois conteúdos parentéticos foram integralmente preservados, com travessões e vírgulas.
+- Rejected: pt-BR/ch002.md [80] — A citação fala de “propósitos”, mas a explicação subsequente fala de “pecados”. — A alternância reproduz exatamente a fonte: “aims” na citação e “sins” na explicação.
+
+### Part terms 2 of 2, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 2 minor. 4 flags examinados; 1 apresentou desvio, com 2 ocorrências corrigidas.
+- `pt-BR/ch002.md` [110]: “exprime sua vontade e seu pensamento pelo som da voz” → “exprime sua vontade e sua mente pelo som da voz” — mind → “mente” (Key Terms); estava “pensamento”
+- `pt-BR/ch002.md` [110]: “aquele arrebatamento de um espírito que faz” → “aquele arrebatamento de uma mente que faz” — mind → “mente” (Key Terms); estava “espírito”
+
+### Part terms 2 of 2, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of ch002 [109]–[111]: both mind → mente fixes in [110] are correct and the shown paragraphs have no defects.
+- Rejected: pt-BR/ch002.md [110] — Round 1 changes: “sua mente” for “mind” and “uma mente” for “a mind” — Both follow the source and the Key Terms row mind → mente; concord (“sua mente”, “uma mente que faz”) and the sentence remain sound.
+- Rejected: pt-BR/ch002.md [111] — “em vosso nome” addressed to the Lord — Reverent vós for Christ follows the journal's address decision and is consistent within the file.
+- Rejected: Key Terms rows “offend” and “searcher of the conscience” — The audit flags 0 occurrences of the pt-BR forms — The occurrences are not in the paragraphs shown in this delta read, so the rows cannot be checked here.
