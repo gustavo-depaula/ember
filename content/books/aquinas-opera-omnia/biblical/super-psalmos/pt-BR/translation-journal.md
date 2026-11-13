@@ -246,7 +246,7 @@ Destino: pt-BR.
 | gentes | gentios | Salmo 21:28–29. |
 | assumptio (título) | assunção | Salmo 21:1; n. 176. |
 | cervus / cerva | cervo / corça | Título do Salmo 21; n. 176. |
-| regere / pascere | governar / apascentar | Salmo 22:1; Jerônimo *pascit* (n. 203). |
+| regere / pascere | governar / apascentar | Salmo 22:1; Jerônimo *pascit* (n. 203). No uso reflexivo de ch036, “pascere fide” = “alimenta-te da fé”. |
 | aqua refectionis | água do refrigério | Salmo 22:2; *super* vertido “junto à” (cf. n. 206, *super maria, id est juxta*). |
 | educavit me | me criou | Salmo 22:2. |
 | umbra mortis | sombra da morte | Salmo 22:4; n. 204. |
@@ -286,7 +286,7 @@ Destino: pt-BR.
 | vox laudis | voz de louvor | Salmo 25:7; n. 229. |
 | decor / pulchritudo / pulchrum | formosura / beleza / belo | Salmo 25:8; n. 230. |
 | viri sanguinum | homens de sangue | Salmo 25:9, Salmo 54:24; serve aos três sangues (n. 231). |
-| munera | presentes | Salmo 25:10; Jó 15:34. |
+| munera | presentes | Salmo 25:10; Jó 15:34. No sentido de oferendas cultuais: “oblações” ou “ofertas” (Isaías 19:21; Gênesis 4:4). |
 | stetit in directo | permaneceu no caminho reto | Salmo 25:12. |
 | miserere mei | tende misericórdia de mim | Salmo 25:11, 26:7; guarda o vínculo com *miseria* (n. 231, 239). |
 | illuminatio mea | a minha luz | Salmo 26:1, conforme o título; no comentário, *illuminatio* = “iluminação”. |
@@ -342,7 +342,7 @@ Destino: pt-BR.
 | civitas circumstantiae | cidade em redor | Variante citada no n. 290. |
 | sors (consultoria, divinatoria, derisoria) | sorte (consultória, divinatória, lúdica) | n. 284. |
 | viriliter agite | agi varonilmente | Salmo 30:25; Salmo 26:14. |
-| quarta deca primae quinquagenae | quarta dezena da primeira cinquentena | ch031, n. 295. |
+| quarta deca primae quinquagenae | quarta década da primeira cinquentena | ch031, n. 295; *deca* como *decas*: “década”. |
 | intellectus (título do Salmo 31; Salmo 31:8–9) | entendimento | Jerônimo: *eruditio* = “instrução”. |
 | reatus poenae | reato da pena | ch031, n. 295. |
 | conversus sum in aerumna mea | converti-me na minha aflição | Salmo 31:4; o comentário lê “conversão” (n. 296). |
@@ -383,7 +383,7 @@ Destino: pt-BR.
 | exprobraverunt / opprobrium | exprobraram / opróbrio | Salmo 34:7; n. 349. |
 | coarctans | acosse | Salmo 34:5. |
 | egenus, pauper | necessitado, pobre | Salmo 34:10; n. 351 (*pera* = alforje). |
-| lugens et contristatus | enlutado e contristado | Salmo 34:14; n. 354: *luctus* = pranto pelos mortos. |
+| lugens et contristatus | enlutado e contristado | Salmo 34:14; n. 354: *luctus* = lamento (*planctus*) pelos mortos. |
 | complacebam | eu comprazia | Salmo 34:14; ambíguo de propósito (n. 354: comprazer-se neles / agradar a Deus). |
 | ignoravi / ignorabant | ignorei / ignoravam | Salmo 34:15; n. 355. |
 | subsannatio | escárnio | Salmo 34:16; n. 356. |
@@ -402,7 +402,7 @@ Destino: pt-BR.
 | in tegmine alarum tuarum | sob o abrigo das vossas asas | Salmo 35:8. |
 | torrens voluptatis | torrente do vosso deleite | Salmo 35:9. |
 | apud te | junto de vós | Salmo 35:10; n. 366 liga a João 1:1 (“o Verbo estava junto de Deus”). |
-| refectio / reficere | refeição / refazer | n. 366. |
+| refectio / reficere | refeição / refazer | n. 366. Em *aqua refectionis* (Salmo 22:2), *refectio* = “refrigério”. |
 | praetende | estendei | Salmo 35:11; n. 368 glosa *amplia, extende*. |
 | scientibus te | aos que vos conhecem | Salmo 35:11; n. 368 anota *scientibus te* entre parênteses. |
 | pes superbiae | pé da soberba | Salmo 35:12. |
@@ -418,7 +418,7 @@ Destino: pt-BR.
 | fac bonitatem / fac bonum | pratica a bondade / pratica o bem | Salmo 36:3 e 36:27. |
 | pusillum | um pouquinho | Salmo 36:10; Ageu 2:7 no n. 376. |
 | irridebit | zombará | Salmo 36:13. |
-| confirmare | confirmar | Salmo 36:17; n. 382 joga com *confirmare* nas citações. |
+| confirmare | confirmar | Salmo 36:17; n. 382 joga com *confirmare* nas citações. Em ch037, “confirmare super me manum” = “firmar sobre mim a mão”, indicando a permanência do golpe; em ch048, “confirmare nomen” = “firmar o nome”. |
 | apud Dominum | junto do Senhor | Salmo 36:23, como *apud te* em 35:10. |
 | collidetur / casus | não será esmagado / queda | Salmo 36:24; n. 386. |
 | viator / comprehensor | viandante / compreensor | n. 386; ch036 nota [^6]. |
@@ -433,7 +433,7 @@ Destino: pt-BR.
 | arguere / corripere | repreender / corrigir | Salmo 37:2; n. 395 (repreender com palavras, corrigir com atos). |
 | a facie | à vista de | Salmo 37:4, 6; n. 396, Orígenes glosa *a consideratione*. |
 | ingrediebar / ingressus | avançava / um entrar | Salmo 37:7; n. 397; ch037 nota [^2]. |
-| lumbi / illusiones / illudere | lombos / ilusões / iludir | Salmo 37:8; n. 397; Provérbios 14:9. |
+| lumbi / illusiones / illudere | lombos / ilusões / iludir | Salmo 37:8; n. 397; Provérbios 14:9. No sentido de zombaria, *illudere* = “escarnecer” e *illusio* = “escárnio” (ch021, n. 189). |
 | virtus (executiva) | força | Salmo 37:11; n. 400; Isaías 50:2. |
 | steterunt / de longe steterunt | mantiveram-se firmes / mantiveram-se de longe | Salmo 37:12; n. 401 lê perseverança na oposição. |
 | redargutiones | réplicas | Salmo 37:15; n. 402. |
@@ -476,7 +476,7 @@ Destino: pt-BR.
 | ly (*quia*, *non*) | o (***porque***, ***não***) | o artigo escolástico vira artigo português diante do lema. |
 | Core / Dathan / Abiron | Coré / Datã / Abirão | ch040. |
 | in tertia (hora) | na Terça | n. 425. |
-| deca / quinquagena | dezena / cinquentena | n. 432. |
+| deca / quinquagena | década / cinquentena | n. 432; *deca* como *decas*: “década”. |
 | intellectus (título) | entendimento | Salmo 41:1; n. 432 joga com *intellectu*. |
 | desiderat cervus ad fontes | o cervo deseja as fontes | Salmo 41:2; “desejar” acompanha *desiderium* do comentário. |
 | Deus fons vivus | Deus, fonte viva | Salmo 41:3. |
@@ -564,7 +564,7 @@ Destino: pt-BR.
 | interitus | perdição | Salmo 48:11; n. 483 (*id est damnationem*). |
 | insipiens / stultus | insensato / estulto | Salmo 48:11; n. 483. |
 | tabernacula | tabernáculos | Salmo 48:12; n. 484 (tendas de pouca duração). |
-| jumenta insipientia | jumentos insensatos | Salmo 48:13, 21; n. 485, 489. |
+| jumenta insipientia | animais insensatos | Salmo 48:13, 21; n. 485, 489. |
 | in ore suo complacebunt | agradarão com a sua boca | Salmo 48:14; n. 486. |
 | depascet | pastará | Salmo 48:15; n. 487 (consumir sem aniquilar; levar de pasto em pasto). |
 | a gloria eorum | a partir da sua glória | Salmo 48:15; n. 487 (*juxta gloriam*). |
@@ -590,7 +590,7 @@ Destino: pt-BR.
 | statuam contra faciem tuam | porei contra a tua face | Salmo 49:21; n. 499 (“tu mesmo te condenarás”). |
 | Nathan / Bethsabee (Bersabee) / Urias / Jesse | Natã / Betsabé / Urias / Jessé | ch050, título e n. 501–503. |
 | intravit ad Bethsabee | entrou a Betsabé | Salmo 50:2; n. 501 (*nominat culpam… eloquia casta*): conserva “entrou”. |
-| miserere / misericordia / miserationes | tende piedade / misericórdia / comiserações | Salmo 50:3; n. 501; nota do tradutor sobre *miser*. |
+| miserere / misericordia / miserationes | tende piedade / misericórdia / comiserações | Salmo 50:3; n. 501; nota do tradutor sobre *miser*. Fora da invocação, “misereri” = “compadecer-se”, “ter misericórdia”; no uso descritivo de ch036 n. 387, “miseratio” = “compaixão”. |
 | amplius lava me | lavai-me mais ainda | Salmo 50:4; serve às duas leituras do n. 501. |
 | reatus poenae / culpae | reato da pena / da culpa | n. 501, 507. |
 | exaggerare / exaggeratio | agravar / agravamento | n. 502. |
@@ -633,7 +633,7 @@ Destino: pt-BR.
 | despexit oculus meus | o meu olho olhou de cima | Salmo 53:9; serve às duas leituras do n. 527. |
 | exaudi (Salmo 54) | escutai | Salmo 54:2–3, 18, 20, como no título do toc; no comentário, *exaudiri* / *exauditus* = “ser atendido” / “atendido”. |
 | intende mihi / intende in me | atendei-me | Salmo 54:3; n. 529. |
-| in carminibus / intellectus David | nos cânticos / inteligência de Davi | título do Salmo 54; n. 528. |
+| in carminibus / intellectus David | nos cânticos / entendimento de Davi | título do Salmo 54; n. 528. |
 | exercitatio | exercício | Salmo 54:3; n. 530. |
 | propassio | propaixão | n. 530; nota do tradutor. |
 | ex certa malitia | por malícia deliberada | n. 530. |
@@ -922,7 +922,7 @@ Destino: pt-BR.
 - ch045, [35]: a marcação partida do lema (`***...nimi**s*`) foi normalizada. ch045, [67]: a ordem de palavras corrompida *Spiritus impetu Sanctus amoris* foi lida como *Spiritus Sanctus impetu amoris*.
 - ch045, [98]: a nota da edição *(Parma: *si*.)* foi mantida no mesmo lugar, sem alteração.
 - ch046, [71]: *in voce turbae* lido como *tubae* (“trombeta”), como no versículo.
-- ch046, Salmo 46:2: *omnes gentes* vertido por “povos todos”, para acompanhar o título já fixado no book.json.
+- ch046, Salmo 46:2: *omnes gentes* vertido por “nações todas”, distinto de *populos* (Salmo 46:4, “povos”).
 - ch047, Salmo 47:2: *laudabilis nimis* vertido por “sobremaneira digno de louvor” (e não “digníssimo”, como no título), porque o n. 474 argumenta a partir de *nimis*.
 - ch045–047: as notas que o inglês insere (*Suma Teológica*, Glosa ordinária, Pedro Lombardo, Agostinho) não estão no latim e não foram trazidas. Os lugares que o latim cita sem referência (Jó 15:4 no n. 471; Salmo 24:10 no n. 478; Provérbios 12:21 no n. 463) ficaram sem referência.
 - Notas do tradutor ch045: [^1] a etimologia *civitas* = *civium unitas* (n. 464); [^2] Otaviano = César Augusto (n. 468).
@@ -1243,3 +1243,753 @@ Verdict: 0 meaning-level, 1 minor. Full read of ch045–ch054 and the prologue a
 
 ### Part 6 of 6, Round 4 (codex, delta read)
 Verdict: 0 meaning-level, 0 minor. Revistos os parágrafos 116–118 de ch047, as notas fornecidas e os metadados pertinentes: a correção para «Modo confitebor Domino» está correta; nenhum novo defeito encontrado.
+
+### Part terms 1 of 4, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 148 minor. 376 registros sinalizados lidos; 137 parágrafos com deriva de glossário, além de uma correção de sentido.
+- `pt-BR/ch001.md` [33]: “caridade, alegria, paz” → “caridade, gozo, paz” — gaudium → “gozo” (Key Terms).
+- `pt-BR/ch001.md` [42]: “entre os ramos espessos” → “nas espessuras” — condensa → “espessuras” (Key Terms).
+- `pt-BR/ch002.md` [102]: “hão de ser esmagados” → “hão de ser quebrados” — conterere → “quebrar” (Key Terms).
+- `pt-BR/ch002.md` [102]: “como se despedaça o cântaro” → “como se quebra o cântaro” — conteritur → “se quebra” (Key Terms).
+- `pt-BR/ch002.md` [115]: “aquele que permanece santo e não deixa pecar” → “o temor que permanece santo e não deixa pecar” — qui refere-se ao temor, não a uma pessoa. *(meaning)*
+- `pt-BR/ch002.md` [119]: “não é de miséria, mas de alegria” → “não é de miséria, mas de gozo” — gaudii → “gozo”; a alegria seguinte corresponde a laetitia.
+- `pt-BR/ch004.md` [91]: “justiça, paz e alegria no Espírito Santo” → “justiça, paz e gozo no Espírito Santo” — gaudium → “gozo” (Key Terms).
+- `pt-BR/ch004.md` [100]: “na formosura da paz” → “na beleza da paz” — pulchritudo → “beleza” (Key Terms).
+- `pt-BR/ch005.md` [143]: “na formosura da paz” → “na beleza da paz” — pulchritudo → “beleza” (Key Terms).
+- `pt-BR/ch005.md` [146]: “a vossa alegria seja plena” → “o vosso gozo seja pleno” — gaudium → “gozo”, com ajuste de concordância.
+- `pt-BR/ch005.md` [146]: “a minha alegria esteja em vós” → “o meu gozo esteja em vós” — gaudium → “gozo” (Key Terms).
+- `pt-BR/ch006.md` [13]: “pelo pranto da penitência” → “pelo lamento da penitência” — planctus → “lamento” (Key Terms).
+- `pt-BR/ch006.md` [119]: “objeto de opróbrio” → “objeto de afronta” — improperium → “afronta”; “opróbrio” corresponde a opprobrium.
+- `pt-BR/ch007.md` [94]: “sou manso e humilde” → “sou brando e humilde” — mitis → “brando” (Key Terms).
+- `pt-BR/ch007.md` [116]: “para ter misericórdia de vós” → “para ter piedade de vós” — misereatur → “tenha piedade”, conforme miserere = “tende piedade”.
+- `pt-BR/ch007.md` [138]: “auxiliador no tempo oportuno” → “auxiliador nas ocasiões oportunas” — in opportunitatibus → “nas ocasiões oportunas” (Key Terms).
+- `pt-BR/ch007.md` [149]: “para ter misericórdia de vós” → “para ter piedade de vós” — misereatur → “tenha piedade”, conforme miserere = “tende piedade”.
+- `pt-BR/ch007.md` [155]: “como o raio” → “como o relâmpago” — fulgur → “relâmpago” (Key Terms).
+- `pt-BR/ch007.md` [158]: “como o raio” → “como o relâmpago” — fulgur → “relâmpago” (Key Terms).
+- `pt-BR/ch008.md` [47]: “as coisas loucas do mundo” → “as coisas estultas do mundo” — stulta → “estultas” (Key Terms).
+- `pt-BR/ch009.md` [42]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [69]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [71]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [89]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [102]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [105]: “firmará o nome” → “confirmará o nome” — confirmabit → “confirmará” (Key Terms).
+- `pt-BR/ch009.md` [122]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [126]: “O segundo, onde diz:” → “O segundo, em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [126]: “O terceiro, onde diz:” → “O terceiro, em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [142]: “explica estes desvelos onde diz:” → “explica estes desvelos em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [152]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [165]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [166]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [167]: “tivestes misericórdia” → “tivestes piedade” — misertus es → “tivestes piedade”, conforme miserere = “tende piedade”.
+- `pt-BR/ch009.md` [167]: “tenhais misericórdia” → “tenhais piedade” — miserearis → “tenhais piedade”, conforme miserere = “tende piedade”.
+- `pt-BR/ch009.md` [173]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [187]: “as cordas, os grilhões e os tormentos” → “as cordas, os vínculos e os tormentos” — vincula → “vínculos” (Key Terms).
+- `pt-BR/ch009.md` [194]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [197]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [211]: “com grandes misericórdias” → “com grandes comiserações” — miserationibus → “comiserações” (Key Terms).
+- `pt-BR/ch009.md` [211]: “me compadeci de ti” → “tive piedade de ti” — misertus sum → “tive piedade”, conforme miserere = “tende piedade”.
+- `pt-BR/ch009.md` [211]: “de ter misericórdia” → “de ter piedade” — misereri → “ter piedade”, conforme miserere = “tende piedade”.
+- `pt-BR/ch009.md` [227]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [228]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [231]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [244]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [253]: “o outro verso começa onde diz:” → “o outro verso começa em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [261]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [264]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [268]: “insensato, esta noite” → “estulto, esta noite” — stulte → “estulto” (Key Terms).
+- `pt-BR/ch009.md` [272]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [278]: “de uma gente a outra” → “de uma nação a outra” — gente → “nação”, conforme gentes = “nações”; trata-se de povos distintos.
+- `pt-BR/ch009.md` [301]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [319]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [333]: “O segundo, onde diz:” → “O segundo, em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [333]: “O terceiro, onde diz:” → “O terceiro, em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [343]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [344]: “não ter compaixão do filho” → “não ter piedade do filho” — misereatur → “tenha piedade”, conforme miserere = “tende piedade”.
+- `pt-BR/ch009.md` [348]: “a um fim insensato” → “a um fim estulto” — stultum → “estulto” (Key Terms).
+- `pt-BR/ch009.md` [356]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [367]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [368]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch009.md` [369]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch010.md` [21]: “a altura de inteligência” → “a altura do intelecto” — intellectus, como faculdade → “intelecto” (Key Terms).
+- `pt-BR/ch010.md` [27]: “rompeste as cadeias” → “rompeste os vínculos” — vincula → “vínculos” (Key Terms).
+- `pt-BR/ch010.md` [32]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch010.md` [44]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch010.md` [45]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch010.md` [51]: “tenho compaixão desta multidão” → “tenho piedade desta multidão” — misereor → “tenho piedade”, conforme miserere = “tende piedade”.
+- `pt-BR/ch010.md` [57]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch011.md` [17]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch011.md` [18]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch011.md` [21]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch011.md` [24]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch011.md` [28]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch011.md` [29]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch011.md` [32]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch011.md` [60]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch011.md` [61]: “com dupla destruição destruí-os” → “com dupla destruição quebrai-os” — contere → “quebrai” (Key Terms).
+- `pt-BR/ch011.md` [65]: “o néscio será mais sábio” → “o estulto será mais sábio” — stultus → “estulto” (Key Terms).
+- `pt-BR/ch011.md` [79]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch011.md` [80]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch012.md` [11]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch012.md` [12]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch012.md` [17]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch012.md` [18]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch012.md` [27]: “do lago em que” → “da cova em que” — lacus → “cova”; aqui designa o cárcere de onde são retirados os cativos.
+- `pt-BR/ch012.md` [41]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch012.md` [47]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch012.md` [48]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch012.md` [56]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch012.md` [61]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch012.md` [62]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch013.md` [13]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch013.md` [16]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch013.md` [29]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch013.md` [30]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch013.md` [31]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch013.md` [49]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch013.md` [70]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch013.md` [73]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch013.md` [76]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch013.md` [96]: “caminhos formosos” → “caminhos belos” — pulchrae → “belos” (Key Terms).
+- `pt-BR/ch013.md` [101]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch013.md` [104]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch014.md` [9]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch014.md` [13]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch014.md` [18]: “os que são unânimes” → “os que são de um só ânimo” — unanimes → “de um só ânimo” (Key Terms).
+- `pt-BR/ch014.md` [19]: “formosura de justiça” → “beleza de justiça” — pulchritudo → “beleza” (Key Terms).
+- `pt-BR/ch014.md` [22]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch014.md` [22]: “não será movido eternamente” → “não será abalado eternamente” — commovebitur → “será abalado” (Key Terms).
+- `pt-BR/ch014.md` [28]: “onde diz:” → “em:” — ibi, em remissão ao lema → “em:” (Key Terms).
+- `pt-BR/ch014.md` [50]: “para tirar a inveja” → “para tirar a emulação” — aemulationem → “emulação” (Key Terms).
+- `pt-BR/ch014.md` [51]: “se acampar contra mim um exército” → “se se postarem contra mim acampamentos” — castra → “acampamentos” (Key Terms), preservando o plural.
+- `pt-BR/ch014.md` [57]: “as tendas dos que” → “os tabernáculos dos que” — tabernacula → “tabernáculos” (Key Terms).
+- `pt-BR/ch014.md` [59]: “Não será movido eternamente” → “Não será abalado eternamente” — commovebitur → “será abalado” (Key Terms).
+- `pt-BR/ch015.md` [8]: “não deixareis a minha alma” → “não abandonareis a minha alma” — derelinques → “abandonareis” (Key Terms).
+- `pt-BR/ch015.md` [8]: “delícias à vossa direita” → “deleites à vossa direita” — delectationes → “deleites” (Key Terms).
+- `pt-BR/ch015.md` [66]: “do fosso em que” → “da cova em que” — lacus → “cova” (Key Terms).
+- `pt-BR/ch015.md` [84]: “mostra a alegria que tem” → “mostra o gozo que tem” — gaudium → “gozo” (Key Terms).
+- `pt-BR/ch015.md` [102]: “com a alegria exterior” → “com o gozo exterior” — gaudio → “gozo” (Key Terms).
+- `pt-BR/ch015.md` [108]: “porque não deixareis” → “porque não abandonareis” — derelinques → “abandonareis” (Key Terms).
+- `pt-BR/ch015.md` [115]: “a vossa alegria seja plena” → “o vosso gozo seja pleno” — gaudium → “gozo”, com ajuste de concordância.
+- `pt-BR/ch015.md` [116]: “as delícias são indefectíveis” → “os deleites são indefectíveis” — delectationes → “deleites” (Key Terms).
+- `pt-BR/ch016.md` [6]: “antecipai-vos a ele” → “preveni-o” — praeveni → “preveni”, no sentido de anteceder (Key Terms).
+- `pt-BR/ch016.md` [41]: “arguirá com equidade” → “repreenderá com equidade” — arguet → “repreenderá” (Key Terms).
+- `pt-BR/ch016.md` [92]: “antecipai-vos a ele” → “preveni-o” — praeveni → “preveni”, no sentido de anteceder (Key Terms).
+- `pt-BR/ch016.md` [148]: “os olhos dos insensatos” → “os olhos dos estultos” — stultorum → “estultos” (Key Terms).
+- `pt-BR/ch016.md` [148]: “o insensato*” → “o estulto*” — stultus → “estulto” (Key Terms).
+- `pt-BR/ch016.md` [159]: “antecipai-vos a ele” → “preveni-o” — praeveni → “preveni”, no sentido de anteceder (Key Terms).
+- `pt-BR/ch017.md` [19]: “imaculado é o seu caminho” → “incontaminado é o seu caminho” — impolluta → “incontaminado” (Key Terms).
+- `pt-BR/ch017.md` [22]: “a vossa destra me amparou” → “a vossa direita me amparou” — dextera → “direita” (Key Terms).
+- `pt-BR/ch017.md` [25]: “fizestes tropeçar debaixo de mim” → “derrubastes debaixo de mim” — supplantasti → “derrubastes”, conforme a linha específica do Salmo 17:40.
+- `pt-BR/ch017.md` [28]: “Os filhos estrangeiros” → “Os filhos estranhos” — filii alieni → “filhos estranhos” (Key Terms).
+- `pt-BR/ch017.md` [28]: “os filhos estrangeiros” → “os filhos estranhos” — filii alieni → “filhos estranhos” (Key Terms).
+- `pt-BR/ch017.md` [28]: “coxearam, afastando-se das suas veredas” → “claudicaram fora das suas veredas” — claudicaverunt a semitis suis → “claudicaram fora das suas veredas” (Key Terms).
+- `pt-BR/ch017.md` [69]: “dispersaremos com o chifre” → “aventaremos com o chifre” — ventilabimus cornu → “aventaremos com o chifre” (Key Terms).
+- `pt-BR/ch017.md` [150]: “***arde***” → “***se inflama***” — exardescit → “se inflama”; “arde” corresponde a ardet.
+- `pt-BR/ch017.md` [218]: “o granizo e o raio” → “o granizo e o relâmpago” — fulgur → “relâmpago” (Key Terms).
+- `pt-BR/ch017.md` [294]: “tirareis com alegria” → “tirareis com gozo” — gaudio → “gozo” (Key Terms).
+- `pt-BR/ch017.md` [319]: “ela te fará a alegria dos teus inimigos” → “ela te fará o gozo dos teus inimigos” — gaudium → “gozo” (Key Terms).
+- `pt-BR/ch017.md` [350]: “imaculado é o seu caminho” → “incontaminado é o seu caminho” — impolluta → “incontaminado” (Key Terms).
+- `pt-BR/ch017.md` [410]: “está gravada sobre nós” → “está assinalada sobre nós” — signatum est → “está assinalada” (Key Terms).
+- `pt-BR/ch017.md` [446]: “o insensato não se extravie” → “o estulto não se extravie” — stultus → “estulto” (Key Terms).
+- `pt-BR/ch017.md` [447]: “és toda formosa” → “és toda bela” — pulchra → “bela” (Key Terms).
+- `pt-BR/ch017.md` [469]: “nos combates” → “nas batalhas” — praeliis → “batalhas” (Key Terms).
+- `pt-BR/ch017.md` [476]: “palavras de formosura” → “palavras de beleza” — pulchritudinis → “beleza” (Key Terms).
+- `pt-BR/ch017.md` [485]: “a vossa destra” → “a vossa direita” — dextera → “direita” (Key Terms).
+- `pt-BR/ch017.md` [486]: “a vossa destra” → “a vossa direita” — dextera → “direita” (Key Terms).
+
+### Part terms 1 of 4, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 5 minor. Delta read das 148 alterações e dos parágrafos vizinhos: 2 remissões ibi ainda com “onde diz” em ch009, 2 correções em ch014 contrárias à linha específica do Key Terms, 1 verso de ch017 em desacordo com o comentário.
+- `pt-BR/ch009.md` [70]: “acrescenta o fruto, onde diz:” → “acrescenta o fruto, em:” — ibi, em remissão ao lema → “em:” (Key Terms), como nos parágrafos vizinhos já corrigidos.
+- `pt-BR/ch009.md` [243]: “o desprezo de Deus, onde diz:” → “o desprezo de Deus, em:” — ibi, em remissão ao lema → “em:” (Key Terms), como nos parágrafos vizinhos já corrigidos.
+- `pt-BR/ch014.md` [22]: “não será abalado eternamente” → “não será movido eternamente” — O Key Terms tem a linha específica do Salmo 14:5: non commovebitur in aeternum = “não será movido eternamente”; a correção anterior aplicou a linha geral de commovere contra a específica.
+- `pt-BR/ch014.md` [59]: “Não será abalado eternamente” → “Não será movido eternamente” — O Key Terms tem a linha específica do Salmo 14:5: non commovebitur in aeternum = “não será movido eternamente”.
+- `pt-BR/ch017.md` [22]: “a vossa direita me amparou” → “a vossa direita me acolheu” — suscepit me (Salmo 17:36) → “acolheu-me” (Key Terms); o comentário em [485]–[487] usa “acolheu”.
+- Rejected: pt-BR/ch014.md [51] — “isto é, os pecadores” foi deslocado para antes de “não temerá o meu coração” — A glosa refere-se a castra; a posição em português esclarece o referente sem alterar o sentido.
+- Rejected: pt-BR/ch017.md [150] — “se inflama” por exardescit — Está de acordo com a linha do Key Terms exardescet = “se inflamará”.
+- Rejected: pt-BR/ch015.md [115] — “A plena alegria” seguido de “o vosso gozo” — O latim tem laetitiam no comentário e gaudium na citação; a distinção está correta.
+
+### Part terms 1 of 4, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as cinco alterações e lidos integralmente os parágrafos e as notas apresentados; nenhum novo defeito identificado.
+- Rejected: pt-BR/ch014.md [22], [59] — “não será movido eternamente” por non commovebitur in aeternum — Tradução defensável e conforme à linha específica do glossário para Salmo 14:5.
+- Rejected: pt-BR/ch017.md [22] — “me acolheu” em vez de “acolheu-me” — A colocação pronominal é gramatical e preserva a equivalência lexical estabelecida no glossário.
+
+### Part terms 2 of 4, Round 1 (codex, terms read)
+Verdict: 3 meaning-level, 197 minor. 374 sinalizações lidas; 198 desvios corrigidos e 2 linhas de glossário complementadas.
+- `pt-BR/ch017.md` [519]: “***derrubastes***” → “***fizestes tropeçar***” — *supplantare* → “fazer tropeçar” (Key Terms).
+- `pt-BR/ch017.md` [521]: “E derrubastes debaixo de mim” → “E fizestes tropeçar debaixo de mim” — *supplantare* → “fazer tropeçar” (Key Terms).
+- `pt-BR/ch017.md` [527]: “e se cansarão” → “e se afadigarão” — *laborare* → “afadigar-se” (Key Terms).
+- `pt-BR/ch017.md` [527]: “e derrubastes debaixo de mim” → “e fizestes tropeçar debaixo de mim” — *supplantare* → “fazer tropeçar” (Key Terms).
+- `pt-BR/ch017.md` [546]: “para as tuas tendas” → “para os teus tabernáculos” — *tabernacula* → “tabernáculos” (Key Terms).
+- `pt-BR/ch017.md` [548]: “chamarás gentes que não conhecias, e as gentes” → “chamarás nações que não conhecias, e as nações” — *gentes* → “nações” (Key Terms).
+- `pt-BR/ch017.md` [567]: “em vós está a fonte” → “junto de vós está a fonte” — *apud te* → “junto de vós” (Key Terms).
+- `pt-BR/ch018.md` [37]: “sereis resgatados sem dinheiro” → “sereis redimidos sem dinheiro” — *redimere* → “redimir” (Key Terms).
+- `pt-BR/ch018.md` [72]: “a letra de São Jerônimo” → “a versão de São Jerônimo” — *littera Hieronymi* → “versão de Jerônimo” (Key Terms).
+- `pt-BR/ch018.md` [138]: “vossa sabedoria e inteligência” → “vossa sabedoria e intelecto” — *intellectus* → “intelecto” (Key Terms).
+- `pt-BR/ch018.md` [140]: “é alegria para o justo” → “é gozo para o justo” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch018.md` [166]: “não perecerá para sempre” → “não perecerá até o fim” — *in finem*, na citação do Salmo 9, → “até o fim” (Key Terms).
+- `pt-BR/ch018.md` [176]: “quanto aos prazeres corporais” → “quanto aos deleites corporais” — *delectatio* → “deleite” (Key Terms).
+- `pt-BR/ch018.md` [176]: “Os prazeres corporais” → “Os deleites corporais” — *delectatio* → “deleite” (Key Terms).
+- `pt-BR/ch019.md` [6]: “salvação da sua destra” → “salvação da sua direita” — *dextera* → “direita” (Key Terms).
+- `pt-BR/ch019.md` [8]: “e ouvi-nos no dia” → “e escutai-nos no dia” — *exaudi*, no salmo, → “escutai” (Key Terms).
+- `pt-BR/ch019.md` [58]: “a vossa alegria seja plena” → “o vosso gozo seja pleno” — *gaudium* → “gozo” (Key Terms), com ajuste de concordância.
+- `pt-BR/ch019.md` [60]: “buscava em si a alegria” → “buscava em si o gozo” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch019.md` [70]: “salvação da vossa destra” → “salvação da vossa direita” — *dextera* → “direita” (Key Terms).
+- `pt-BR/ch019.md` [71]: “salvação da vossa destra” → “salvação da vossa direita” — *dextera* → “direita” (Key Terms).
+- `pt-BR/ch019.md` [72]: “***destra***” → “***direita***” — *dextera* → “direita” (Key Terms).
+- `pt-BR/ch019.md` [74]: “salvação da destra” → “salvação da direita” — *dextera* → “direita” (Key Terms).
+- `pt-BR/ch019.md` [95]: “finalmente serão esmagados” → “finalmente serão quebrados” — *conterere* → “quebrar” (Key Terms).
+- `pt-BR/ch019.md` [95]: “cairão e serão esmagados” → “cairão e serão quebrados” — *conterere* → “quebrar” (Key Terms).
+- `pt-BR/ch019.md` [100]: “***Ouvi-nos no dia” → “***Escutai-nos no dia” — *exaudi*, no salmo, → “escutai” (Key Terms).
+- `pt-BR/ch019.md` [100]: “vos invocar, ouvi-me” → “vos invocar, escutai-me” — *exaudi*, na citação do salmo, → “escutai” (Key Terms).
+- `pt-BR/ch020.md` [18]: “a alegria do rei” → “o gozo do rei” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch020.md` [19]: “a causa da alegria” → “a causa do gozo” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch020.md` [24]: “uma dupla alegria” → “um duplo gozo” — *gaudium* → “gozo” (Key Terms), com ajuste de concordância.
+- `pt-BR/ch020.md` [30]: “a causa da alegria” → “a causa do gozo” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch020.md` [30]: “o desejo está para a alegria” → “o desejo está para o gozo” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch020.md` [52]: “uma coisa pedi ao Senhor” → “uma só coisa pedi ao Senhor” — *unam petii* → “uma só coisa pedi” (Key Terms).
+- `pt-BR/ch020.md` [66]: “a vossa alegria ninguém vo-la tirará” → “o vosso gozo ninguém vo-lo tirará” — *gaudium* → “gozo” (Key Terms), com ajuste de concordância.
+- `pt-BR/ch020.md` [68]: “a esperança em Deus é firmeza” → “a esperança em Deus é firmamento” — *firmamentum* → “firmamento” (Key Terms).
+- `pt-BR/ch020.md` [93]: “a discussão do juízo” → “a disputa do juízo” — *disceptatio* → “disputa” (Key Terms).
+- `pt-BR/ch020.md` [107]: “A letra de Jerônimo” → “A versão de Jerônimo” — *littera Hieronymi* → “versão de Jerônimo” (Key Terms).
+- `pt-BR/ch020.md` [107]: “a firmeza dos vossos confins” → “o firmamento dos vossos confins” — *firmamentum* → “firmamento” (Key Terms).
+- `pt-BR/ch020.md` [111]: “a firmeza dos vossos confins” → “o firmamento dos vossos confins” — *firmamentum* → “firmamento” (Key Terms).
+- `pt-BR/ch020.md` [112]: “na nossa letra” → “na nossa versão” — *littera nostra* → “a nossa versão” (Key Terms).
+- `pt-BR/ch021.md` [35]: “a terceira ali:” → “a terceira em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch021.md` [38]: “ali, Salmo 22:1:” → “em: Salmo 22:1:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch021.md` [42]: “O terceiro está ali:” → “O terceiro está em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch021.md` [46]: “Na nossa letra:” → “Na nossa versão:” — *nostra littera* → “a nossa versão” (Key Terms).
+- `pt-BR/ch021.md` [51]: “da cova da morte” → “da fossa da morte” — *fovea* → “fossa” (Key Terms).
+- `pt-BR/ch021.md` [54]: “ali:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch021.md` [55]: “ali:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch021.md` [58]: “ali:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch021.md` [59]: “ali:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch021.md` [74]: “a letra de Jerônimo” → “a versão de Jerônimo” — *littera Hieronymi* → “versão de Jerônimo” (Key Terms).
+- `pt-BR/ch021.md` [76]: “aos homens e aos jumentos” → “aos homens e aos animais” — *jumenta* designa os animais irracionais em geral, não apenas jumentos; Key Terms: “animais”. *(meaning)*
+- `pt-BR/ch021.md` [76]: “Homens e jumentos salvareis” → “Homens e animais salvareis” — *jumenta* → “animais” (Key Terms); “jumentos” restringe indevidamente o referente. *(meaning)*
+- `pt-BR/ch021.md` [85]: “A letra de Jerônimo” → “A versão de Jerônimo” — *littera Hieronymi* → “versão de Jerônimo” (Key Terms).
+- `pt-BR/ch021.md` [109]: “ali:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch021.md` [110]: “ali:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch021.md` [148]: “ali:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch021.md` [163]: “ali:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch021.md` [164]: “ali:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch021.md` [168]: “a minha tenda” → “o meu tabernáculo” — *tabernaculum* → “tabernáculo” (Key Terms).
+- `pt-BR/ch021.md` [173]: “ali:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch021.md` [214]: “ali:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch021.md` [225]: “ali:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch021.md` [237]: “ali:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch021.md` [240]: “ali:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch021.md` [254]: “ali:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch021.md` [257]: “ali:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch021.md` [292]: “ali:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch021.md` [304]: “ali:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch021.md` [307]: “ali:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch021.md` [318]: “ali:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch021.md` [319]: “ali:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch021.md` [331]: “ali:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch022.md` [4]: “por longos dias” → “por longura de dias” — *longitudo dierum* → “longura de dias” (Key Terms).
+- `pt-BR/ch022.md` [43]: “pela caligem dos pecados” → “pela escuridão dos pecados” — *caligo* → “escuridão” (Key Terms).
+- `pt-BR/ch022.md` [43]: “dele a caligem” → “dele a escuridão” — *caligo* → “escuridão” (Key Terms).
+- `pt-BR/ch022.md` [44]: “a pedra da caligem” → “a pedra da escuridão” — *caligo* → “escuridão” (Key Terms).
+- `pt-BR/ch022.md` [63]: “óleo de alegria” → “óleo de gozo” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch022.md` [74]: “por longos dias” → “por longura de dias” — *longitudo dierum* → “longura de dias” (Key Terms).
+- `pt-BR/ch023.md` [32]: “é habitação dos homens” → “é morada dos homens” — *habitaculum* → “morada” (Key Terms).
+- `pt-BR/ch023.md` [38]: “é fundada ou firmada” → “é fundada ou confirmada” — *confirmare* → “confirmar” (Key Terms).
+- `pt-BR/ch023.md` [77]: “Deus que tem misericórdia” → “Deus que tem piedade” — *misereri* → “ter piedade”, conforme *miserere* = “tende piedade” (Key Terms).
+- `pt-BR/ch024.md` [49]: “por figura de opróbrio” → “por figura de afronta” — *improperium* → “afronta”, distinto de *opprobrium* = “opróbrio” (Key Terms).
+- `pt-BR/ch024.md` [101]: “Quando, pois, Deus tem misericórdia em ato” → “Quando, pois, Deus tem piedade em ato” — *misereri* → “ter piedade” (Key Terms).
+- `pt-BR/ch024.md` [101]: “esquecer-se quando não tem misericórdia em ato” → “esquecer-se quando não tem piedade em ato” — *misereri* → “ter piedade” (Key Terms).
+- `pt-BR/ch024.md` [101]: “Deus de ter misericórdia?” → “Deus de ter piedade?” — *misereri* → “ter piedade” (Key Terms).
+- `pt-BR/ch024.md` [101]: “adiar a misericórdia” → “adiar o exercício da piedade” — *differt misereri* conserva a ação de ter piedade, conforme Key Terms.
+- `pt-BR/ch024.md` [101]: “pareça esquecido quando não tem misericórdia em ato” → “pareça esquecido quando não tem piedade em ato” — *misereri* → “ter piedade” (Key Terms).
+- `pt-BR/ch024.md` [141]: “Destes Deus se compadece” → “Destes Deus tem piedade” — *misereri* → “ter piedade” (Key Terms).
+- `pt-BR/ch024.md` [209]: “de ter misericórdia” → “de ter piedade” — *misereri* → “ter piedade” (Key Terms).
+- `pt-BR/ch024.md` [227]: “arrancai-me das minhas necessidades” → “livrai-me das minhas necessidades” — *eripere* → “livrar” (Key Terms).
+- `pt-BR/ch024.md` [233]: “quando orares” → “quando suplicares” — *deprecari* → “suplicar” (Key Terms).
+- `pt-BR/ch024.md` [243]: “tenhais misericórdia deles” → “tenhais piedade deles” — *misereri* → “ter piedade” (Key Terms).
+- `pt-BR/ch025.md` [7]: “tende misericórdia de mim” → “tende piedade de mim” — *miserere* → “tende piedade” (Key Terms).
+- `pt-BR/ch025.md` [16]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch025.md` [41]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch025.md` [44]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch025.md` [56]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch025.md` [59]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch025.md` [60]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch025.md` [82]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch025.md` [96]: “tende misericórdia de mim” → “tende piedade de mim” — *miserere* → “tende piedade” (Key Terms).
+- `pt-BR/ch026.md` [8]: “Ouvi, Senhor, a minha voz” → “Escutai, Senhor, a minha voz” — *exaudi*, no salmo, → “escutai” (Key Terms).
+- `pt-BR/ch026.md` [8]: “tende misericórdia de mim” → “tende piedade de mim” — *miserere* → “tende piedade” (Key Terms).
+- `pt-BR/ch026.md` [8]: “e ouvi-me.” → “e escutai-me.” — *exaudi*, no salmo, → “escutai” (Key Terms).
+- `pt-BR/ch026.md` [18]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch026.md` [34]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch026.md` [35]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch026.md` [35]: “***ouvi, Senhor***” → “***escutai, Senhor***” — *exaudi*, no lema do salmo, → “escutai” (Key Terms).
+- `pt-BR/ch026.md` [38]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch026.md` [39]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch026.md` [42]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch026.md` [53]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch026.md` [65]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch026.md` [72]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch026.md` [75]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch026.md` [76]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch026.md` [101]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch026.md` [104]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch026.md` [107]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch026.md` [115]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch026.md` [139]: “***Ouvi***” → “***Escutai***” — *exaudi*, no lema do salmo, → “escutai” (Key Terms).
+- `pt-BR/ch026.md` [141]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch026.md` [142]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch026.md` [146]: “***ouvi***” → “***escutai***” — *exaudi*, no lema do salmo, → “escutai” (Key Terms).
+- `pt-BR/ch026.md` [147]: “tende misericórdia de mim” → “tende piedade de mim” — *miserere* → “tende piedade” (Key Terms).
+- `pt-BR/ch026.md` [147]: “e ouvi-me***” → “e escutai-me***” — *exaudi*, no lema do salmo, → “escutai” (Key Terms).
+- `pt-BR/ch026.md` [147]: “pertence ter misericórdia” → “pertence ter piedade” — *misereri* → “ter piedade” (Key Terms).
+- `pt-BR/ch026.md` [147]: “*Ouvi-me, a mim, miserável” → “*Escutai-me, a mim, miserável” — *exaudi* → “escutai” (Key Terms).
+- `pt-BR/ch026.md` [150]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch026.md` [151]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch026.md` [160]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch026.md` [168]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch026.md` [187]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch026.md` [190]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch026.md` [198]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch026.md` [200]: “ela te fará a alegria dos teus inimigos” → “ela te fará o gozo dos teus inimigos” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch026.md` [219]: “onde diz:” → “em:” — *ibi*, como remissão, → “em:” (Key Terms).
+- `pt-BR/ch027.md` [49]: “da gente não santa” → “da nação não santa” — *gens* → “nação”, conforme *gentes* = “nações” (Key Terms).
+- `pt-BR/ch028.md` [7]: “a um bezerro do Líbano” → “a um novilho do Líbano” — *vitulus* → “novilho” (Key Terms).
+- `pt-BR/ch028.md` [73]: “amorreus e outros povos” → “amorreus e outras nações” — *gentes* → “nações” (Key Terms).
+- `pt-BR/ch028.md` [73]: “a um bezerro do Líbano” → “a um novilho do Líbano” — *vitulus* → “novilho” (Key Terms).
+- `pt-BR/ch028.md` [74]: “a um bezerro do Líbano” → “a um novilho do Líbano” — *vitulus* → “novilho” (Key Terms).
+- `pt-BR/ch028.md` [74]: “havia ali bezerros e bois” → “havia ali novilhos e bois” — *vituli* → “novilhos” (Key Terms).
+- `pt-BR/ch028.md` [74]: “um bezerro de Sarom” → “um novilho de Sarom” — *vitulus* → “novilho” (Key Terms).
+- `pt-BR/ch028.md` [74]: “ou ao bezerro” → “ou ao novilho” — *vitulus* → “novilho” (Key Terms).
+- `pt-BR/ch028.md` [97]: “a um bezerro” → “a um novilho” — *vitulus* → “novilho” (Key Terms).
+- `pt-BR/ch028.md` [98]: “os despedaçará como a um bezerro do Líbano” → “os despedaçará como a um novilho do Líbano” — *vitulus* → “novilho” (Key Terms).
+- `pt-BR/ch028.md` [98]: “humilhá-los-á como a um bezerro do Líbano” → “humilhá-los-á como a um novilho do Líbano” — *vitulus* → “novilho” (Key Terms).
+- `pt-BR/ch028.md` [98]: “se oferece o bezerro” → “se oferece o novilho” — *vitulus* → “novilho” (Key Terms).
+- `pt-BR/ch028.md` [111]: “A letra de Jerônimo” → “A versão de Jerônimo” — *littera Hieronymi* → “versão de Jerônimo” (Key Terms).
+- `pt-BR/ch028.md` [112]: “segundo a nossa letra” → “segundo a nossa versão” — *littera nostra* → “a nossa versão” (Key Terms).
+- `pt-BR/ch028.md` [131]: “Outra letra tem:” → “Outra versão tem:” — *alia littera* → “outra versão” (Key Terms).
+- `pt-BR/ch029.md` [2]: “Salmo de cântico” → “Salmo do cântico” — *psalmus cantici* → “salmo do cântico” (Key Terms).
+- `pt-BR/ch029.md` [12]: “Salmo de cântico” → “Salmo do cântico” — *psalmus cantici* → “salmo do cântico” (Key Terms).
+- `pt-BR/ch029.md` [12]: “salmos de cântico” → “salmos do cântico” — *psalmi cantici* → “salmos do cântico” (Key Terms).
+- `pt-BR/ch029.md` [35]: “motivo de alegria para os teus inimigos” → “motivo de gozo para os teus inimigos” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch029.md` [36]: “motivo de alegria para os inimigos” → “motivo de gozo para os inimigos” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch029.md` [76]: “Que alegria haverá” → “Que gozo haverá” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch029.md` [77]: “se dispõe à alegria” → “se dispõe ao gozo” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch029.md` [97]: “Tem misericórdia de quem quer” → “Tem piedade de quem quer” — *misereri* → “ter piedade” (Key Terms).
+- `pt-BR/ch029.md` [98]: “tende misericórdia de mim” → “tende piedade de mim” — *miserere* → “tende piedade” (Key Terms).
+- `pt-BR/ch029.md` [98]: “para não terdes misericórdia de mim” → “para não terdes piedade de mim” — *misereri* → “ter piedade” (Key Terms).
+- `pt-BR/ch029.md` [99]: “a letra de Jerônimo” → “a versão de Jerônimo” — *littera Hieronymi* → “versão de Jerônimo” (Key Terms).
+- `pt-BR/ch029.md` [102]: “por que me desamparastes?” → “por que me abandonastes?” — *dereliquisti* → “abandonastes” (Key Terms).
+- `pt-BR/ch030.md` [14]: “arrancai-me da mão” → “livrai-me da mão” — *eripere* → “livrar” (Key Terms).
+- `pt-BR/ch030.md` [157]: “As riquezas fortalecem os homens” → “As riquezas confirmam os homens” — *confirmare* → “confirmar” (Key Terms).
+- `pt-BR/ch030.md` [188]: “arrancai-me da mão” → “livrai-me da mão” — *eripere* → “livrar” (Key Terms).
+- `pt-BR/ch030.md` [215]: “***arrancai-me***” → “***livrai-me***” — *eripere* → “livrar” (Key Terms).
+- `pt-BR/ch030.md` [222]: “Arrancai-me dos meus inimigos” → “Livrai-me dos meus inimigos” — *eripere* → “livrar” (Key Terms).
+- `pt-BR/ch030.md` [231]: “Gravada está sobre nós” → “Assinalada está sobre nós” — *signatum est* → “está assinalada” (Key Terms).
+- `pt-BR/ch030.md` [241]: “a morte os devorará” → “a morte os pastará” — *depascet* → “pastará” (Key Terms); preserva a imagem do pastoreio.
+- `pt-BR/ch030.md` [250]: “iniquidade e engano” → “iniquidade e dolo” — *dolus* → “dolo” (Key Terms).
+- `pt-BR/ch031.md` [79]: “enquanto ardia a seara” → “enquanto se inflamava a seara” — *exardescere* → “inflamar-se”, distinto de *ardere* = “arder” (Key Terms).
+- `pt-BR/ch031.md` [105]: “a oração assídua do justo” → “a súplica assídua do justo” — *deprecatio* → “súplica” (Key Terms).
+- `pt-BR/ch031.md` [152]: “porei diante da tua face” → “porei contra a tua face” — *statuam contra faciem tuam* → “porei contra a tua face” (Key Terms); preserva o sentido adversativo de *contra*. *(meaning)*
+- `pt-BR/ch032.md` [27]: “a razão da alegria e do louvor” → “a razão do gozo e do louvor” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch032.md` [67]: “a imensa amplidão das alegrias” → “a imensa amplidão dos gozos” — *gaudia* → “gozos” (Key Terms); mantém *laetitia* como “alegria”.
+- `pt-BR/ch032.md` [71]: “a razão da alegria e do louvor” → “a razão do gozo e do louvor” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch032.md` [72]: “do louvor e da alegria” → “do louvor e do gozo” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch032.md` [78]: “há grande alegria” → “há grande gozo” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch032.md` [88]: “Deus que se compadece” → “Deus que tem piedade” — *misereri* → “ter piedade” (Key Terms).
+- `pt-BR/ch032.md` [90]: “a causa da alegria” → “a causa do gozo” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch032.md` [122]: “foram firmados” → “foram confirmados” — *confirmare* → “confirmar” (Key Terms).
+- `pt-BR/ch032.md` [125]: “Deus, porém, firma os céus” → “Deus, porém, confirma os céus” — *confirmare* → “confirmar” (Key Terms).
+- `pt-BR/ch032.md` [153]: “a um fim insensato” → “a um fim estulto” — *stultus* → “estulto”, distinto de *insipiens* = “insensato” (Key Terms).
+- `pt-BR/ch032.md` [195]: “um rei insensato” → “um rei estulto” — *stultus* → “estulto” (Key Terms).
+- `pt-BR/ch032.md` [195]: “não pudesse reger o reino” → “não pudesse governar o reino” — *regere* → “governar” (Key Terms).
+- `pt-BR/ch032.md` [201]: “Seria insensato dizer” → “Seria estulto dizer” — *stultus* → “estulto” (Key Terms).
+- `pt-BR/ch032.md` [258]: “E esta alegria aqui é imperfeita, mas lá, isto é, na pátria, é perfeita.” → “E este gozo aqui é imperfeito, mas lá, isto é, na pátria, é perfeito.” — *gaudium* → “gozo” (Key Terms), com ajuste de concordância.
+- `pt-BR/ch033.md` [14]: “Desvia-te do mal e faze o bem” → “Desvia-te do mal e pratica o bem” — *fac bonum* → “pratica o bem” (Key Terms).
+- `pt-BR/ch033.md` [166]: “***e faze o bem***” → “***e pratica o bem***” — *fac bonum* → “pratica o bem” (Key Terms).
+- `pt-BR/ch033.md` [166]: “***E faze o bem***” → “***E pratica o bem***” — *fac bonum* → “pratica o bem” (Key Terms).
+- `pt-BR/ch033.md` [169]: “na formosura da paz” → “na beleza da paz” — *pulchritudo* → “beleza”, distinto de *decor* = “formosura” (Key Terms).
+- `pt-BR/ch033.md` [193]: “não podem compadecer-se” → “não podem ter piedade” — *misereri* → “ter piedade” (Key Terms).
+- `pt-BR/ch033.md` [229]: “quando cair, não se despedaçará” → “quando cair, não será esmagado” — *non collidetur* → “não será esmagado” (Key Terms).
+- `pt-BR/ch034.md` [6]: “exprobraram a minha alma” → “insultaram a minha alma” — *exprobrare* → “insultar” (Key Terms).
+- `pt-BR/ch034.md` [126]: “***em vão exprobraram***” → “***em vão insultaram***” — *exprobrare* → “insultar” (Key Terms).
+- `pt-BR/ch034.md` [126]: “Diz ***exprobraram***” → “Diz ***insultaram***” — *exprobrare* → “insultar” (Key Terms).
+- `pt-BR/ch034.md` [128]: “os opróbrios dos que vos insultavam” → “as afrontas dos que vos insultavam” — *improperia* → “afrontas”, distinto de *opprobria* = “opróbrios” (Key Terms).
+- `pt-BR/translation-journal.md`: “| lumbi / illusiones / illudere | lombos / ilusões / iludir | Salmo 37:8; n. 397; Provérbios 14:9. |” → “| lumbi / illusiones / illudere | lombos / ilusões / iludir | Salmo 37:8; n. 397; Provérbios 14:9. No sentido de zombaria, *illudere* = “escarnecer” e *illusio* = “escárnio” (ch021, n. 189). |” — A linha não contempla o sentido de zombaria, corretamente traduzido em ch021 [208–209].
+- `pt-BR/translation-journal.md`: “| refectio / reficere | refeição / refazer | n. 366. |” → “| refectio / reficere | refeição / refazer | n. 366. Em *aqua refectionis* (Salmo 22:2), *refectio* = “refrigério”. |” — Acrescenta o sentido restaurador de *refectio* na expressão traduzida consistentemente como “água do refrigério”.
+
+### Part terms 2 of 4, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 14 minor. Delta round 2 of part 2: 10 corrections. Two agreement slips after “gozo” (ch020 [25], [29]), one leftover “nossa letra” (ch018 [73]), and reverts to three verse-specific Key Terms rows: supplantasti, miserere mei in Salmo 25:11 and 26:7, exprobraverunt.
+- `pt-BR/ch017.md` [519]: “***fizestes tropeçar***” → “***derrubastes***” — Key Terms fixa para Salmo 17:40 a linha específica *supplantasti* = “derrubastes”; o verso do salmo no capítulo e o par *dejectio* = “derrota” seguem essa forma.
+- `pt-BR/ch017.md` [521]: “E fizestes tropeçar debaixo de mim” → “E derrubastes debaixo de mim” — *supplantasti* (Salmo 17:40) = “derrubastes” segundo a linha específica do Key Terms.
+- `pt-BR/ch017.md` [527]: “e fizestes tropeçar debaixo de mim” → “e derrubastes debaixo de mim” — *supplantasti* (Salmo 17:40) = “derrubastes” segundo a linha específica do Key Terms.
+- `pt-BR/ch018.md` [73]: “A nossa letra, porém, tem:” → “A nossa versão, porém, tem:” — *nostra littera* = “a nossa versão” (Key Terms); o par. 72 vizinho já diz “a versão de São Jerônimo”.
+- `pt-BR/ch020.md` [25]: “uma por Deus,” → “um por Deus,” — *unum de Deo*; após a troca para “um duplo gozo” (par. 24), o feminino “uma” ficou sem concordância.
+- `pt-BR/ch020.md` [29]: “Quanto à segunda, diz:” → “Quanto ao segundo, diz:” — *Quantum ad secundum* retoma o segundo gozo; com “gozo” masculino, “à segunda” ficou sem antecedente.
+- `pt-BR/ch025.md` [7]: “redimi-me e tende piedade de mim” → “redimi-me e tende misericórdia de mim” — Key Terms: *miserere mei* = “tende misericórdia de mim” no Salmo 25:11, para guardar o vínculo com *miseria* (n. 231).
+- `pt-BR/ch025.md` [96]: “***tende piedade de mim***” → “***tende misericórdia de mim***” — Key Terms (Salmo 25:11); o comentário liga *miserere* a *miseria* na mesma frase.
+- `pt-BR/ch026.md` [8]: “tende piedade de mim e escutai-me” → “tende misericórdia de mim e escutai-me” — Key Terms: *miserere mei* = “tende misericórdia de mim” no Salmo 26:7 (vínculo com *miseria*, n. 239).
+- `pt-BR/ch026.md` [147]: “***tende piedade de mim e escutai-me***” → “***tende misericórdia de mim e escutai-me***” — Key Terms (Salmo 26:7); o comentário segue com *me miserum et meam miseriam*.
+- `pt-BR/ch026.md` [147]: “pertence ter piedade” → “pertence ter misericórdia” — *tuum est misereri* conclui o jogo com *miseria*; Key Terms guarda esse vínculo nos versículos 26:7.
+- `pt-BR/ch034.md` [6]: “em vão insultaram a minha alma” → “em vão exprobraram a minha alma” — Key Terms tem linha específica para Salmo 34:7: *exprobraverunt* = “exprobraram”, ligada a *opprobrium* = “opróbrio” (n. 349).
+- `pt-BR/ch034.md` [126]: “***em vão insultaram***” → “***em vão exprobraram***” — Key Terms (Salmo 34:7): “exprobraram”.
+- `pt-BR/ch034.md` [126]: “Diz ***insultaram*** porque” → “Diz ***exprobraram*** porque” — O comentário explica *exprobraverunt* por *opprobria intulerunt*; “exprobraram / opróbrios” conserva o nexo, como fixa o Key Terms.
+- Rejected: pt-BR/ch029.md [98]; ch023 [77]; ch024 [101], [141], [209], [243]; ch032 [88]; ch033 [193] — *misereri* → “ter piedade” fora dos versículos 25:11 e 26:7 — Nenhuma linha específica do Key Terms cobre esses lugares; a forma é coerente com *miserere* = “tende piedade” (Salmo 50:3).
+- Rejected: pt-BR/ch028.md [73] — “amorreus e outras nações, que não puderam ser exterminados” — Antecedente misto (amorreus + nações) admite o masculino plural.
+- Rejected: pt-BR/ch034.md [128] — “as afrontas dos que vos insultavam” — *improperia* = “afronta” e *exprobrare* = “insultar” constam da linha do Salmo 41:11; não é o versículo 34:7.
+
+### Part terms 2 of 4, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 1 minor. Verificadas as 14 alterações e lidos integralmente os parágrafos e as notas apresentados; encontrado um deslize residual de concordância.
+- `pt-BR/ch020.md` [26]: “outra pelo benefício de Deus.” → “outro pelo benefício de Deus.” — O segundo membro, aliud, retoma «gozo», masculino, como «um» no parágrafo 25; restou a concordância feminina da redação anterior.
+- Rejected: pt-BR/ch017.md [519], [521], [527]; ch025.md [7], [96]; ch026.md [8], [147]; ch034.md [6], [126] — As formas restauradas divergem de equivalências gerais do glossário. — As linhas específicas dos respectivos versículos autorizam «derrubastes», «tende misericórdia de mim» e «exprobraram».
+- Rejected: pt-BR/ch017.md [521] — A quantidade de marcadores de ênfase difere da fonte. — O diário documenta a separação correta do lema do salmo, indevidamente incluído no itálico da citação de Isaías na fonte.
+
+### Part terms 2 of 4, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta ch020 [25]–[27]: verified the [26] fix («outro»); found one residual agreement slip in [27] («Quanto à primeira» → «Quanto ao primeiro»).
+- `pt-BR/ch020.md` [27]: “Quanto à primeira, diz:” → “Quanto ao primeiro, diz:” — Quantum ad primum retoma o primeiro gozo (masculino, como «um» no par. 25 e «Quanto ao segundo» no par. 29); restou o feminino da redação anterior.
+- Rejected: pt-BR/ch020.md [27] — Salmo 71:2 para Deus judicium tuum regi da — Na Vulgata Clementina o título é o versículo 1; a citação está em 71:2.
+
+### Part terms 2 of 4, Round 5 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificada a correção em ch020 [27] e lidos integralmente os parágrafos [26]–[28] e as duas notas apresentados; nenhum novo defeito encontrado.
+
+### Part terms 3 of 4, Round 1 (codex, terms read)
+Verdict: 10 meaning-level, 225 minor. 406 parágrafos sinalizados lidos; 192 apresentaram drift, com 224 correções textuais e 3 complementos de glossário.
+- `pt-BR/ch034.md` [139]: “e serão esmagados, e enredados” → “e serão quebrados, e enredados” — *conterentur* → “serão quebrados” (Key Terms).
+- `pt-BR/ch034.md` [221]: “o luto é o pranto pelos mortos” → “o luto é o lamento pelos mortos” — *planctus* → “lamento” (Key Terms).
+- `pt-BR/ch034.md` [232]: “os príncipes reuniram-se em um só” → “os príncipes reuniram-se como um só” — Citação do Salmo 2:2: *convenerunt in unum* → “reuniram-se como um só”.
+- `pt-BR/ch034.md` [235]: “não conhecia os seus planos” → “não conhecia os seus desígnios” — *consilia* → “desígnios” (Key Terms).
+- `pt-BR/ch034.md` [260]: “olhai e atendei-me, Senhor meu Deus” → “olhai e escutai-me, Senhor meu Deus” — *exaudi* no lema do salmo → “escutai” (Key Terms).
+- `pt-BR/ch034.md` [280]: “até quando sereis graves de coração?” → “até quando sereis de coração pesado?” — *gravi corde* → “de coração pesado” (Key Terms).
+- `pt-BR/ch034.md` [281]: “se opõe à leveza e não se move” → “se opõe à leveza e não se abala” — *commovetur* → “se abala” (Key Terms).
+- `pt-BR/ch034.md` [287]: “a alegria deles converteu-se em confusão” → “o gozo deles converteu-se em confusão” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch034.md` [304]: “No coração tinham enganos, isto é, palavras enganosas” → “No coração tinham dolos, isto é, palavras dolosas” — *dolos* e *dolosa* → “dolos” e “dolosas” (Key Terms).
+- `pt-BR/ch034.md` [304]: “falou o engano” → “falou o dolo” — *dolum* → “dolo” (Key Terms).
+- `pt-BR/ch034.md` [304]: “tramavam enganos” → “tramavam dolos” — *dolos* → “dolos” (Key Terms).
+- `pt-BR/ch034.md` [310]: “Mostra a alegria deles” → “Mostra o gozo deles” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch034.md` [348]: “nasce da alegria interior” → “nasce do gozo interior” — *gaudio* → “gozo” (Key Terms).
+- `pt-BR/ch034.md` [349]: “se reprima a alegria interior deles” → “se reprima o gozo interior deles” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch034.md` [352]: “O insulto, como a alegria, se dá” → “O insulto, como o gozo, se dá” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch034.md` [352]: “A alegria é ou dos bens presentes” → “O gozo é ou dos bens presentes” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch034.md` [362]: “esmagai-os com dupla contrição” → “quebrai-os com dupla contrição” — *contere* → “quebrai” (Key Terms).
+- `pt-BR/ch034.md` [366]: “este fruto é a alegria dos santos” → “este fruto é o gozo dos santos” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch034.md` [367]: “significa a alegria interior” → “significa o gozo interior” — *gaudium* → “gozo”; preserva a distinção explícita entre *laetitia* e *gaudium*. *(meaning)*
+- `pt-BR/ch034.md` [368]: “indica a alegria que irrompe” → “indica o gozo que irrompe” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch034.md` [374]: “participa desta alegria” → “participa deste gozo” — *gaudii* → “gozo” (Key Terms).
+- `pt-BR/ch034.md` [374]: “não só aqueles têm alegria” → “não só aqueles têm gozo” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch034.md` [374]: “participo da alegria dos santos” → “participo do gozo dos santos” — *gaudii* → “gozo” (Key Terms).
+- `pt-BR/ch035.md` [9]: “descreve a perversidade dos pecadores” → “descreve a maldade dos pecadores” — *nequitiam* → “maldade” (Key Terms).
+- `pt-BR/ch035.md` [39]: “o pensamento do insensato” → “o pensamento do estulto” — *stulti* → “estulto”, distinto de *insipiens* (Key Terms).
+- `pt-BR/ch035.md` [101]: “foi selada sobre nós a luz” → “está assinalada sobre nós a luz” — *signatum est* → “está assinalada” (Key Terms).
+- `pt-BR/ch035.md` [117]: “estão firmados em vós pela caridade” → “estão confirmados em vós pela caridade” — *confirmati* → “confirmados” (Key Terms).
+- `pt-BR/ch036.md` [14]: “os braços dos pecadores serão despedaçados” → “os braços dos pecadores serão quebrados” — *conterentur* → “serão quebrados”, distinto de *confringere* (Key Terms).
+- `pt-BR/ch036.md` [23]: “o Senhor não o deixará nas mãos dele” → “o Senhor não o abandonará nas mãos dele” — *derelinquet* → “abandonará” (Key Terms).
+- `pt-BR/ch036.md` [59]: “A primeira é a beleza” → “A primeira é a formosura” — *decor* → “formosura”; “esplendor” é a escolha específica do Salmo 44.
+- `pt-BR/ch036.md` [59]: “viver em alegrias” → “viver em gozos” — *gaudiis* → “gozos” (Key Terms).
+- `pt-BR/ch036.md` [60]: “a beleza da alegria cedo desfalece” → “a formosura do gozo cedo desfalece” — *decor gaudii* → “formosura do gozo” (Key Terms).
+- `pt-BR/ch036.md` [60]: “a alegria do hipócrita” → “o gozo do hipócrita” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch036.md` [128]: “a prosperidade dos insensatos” → “a prosperidade dos estultos” — *stultorum* → “estultos” (Key Terms).
+- `pt-BR/ch036.md` [180]: “na formosura da paz” → “na beleza da paz” — *pulchritudine* → “beleza” (Key Terms).
+- `pt-BR/ch036.md` [181]: “a tua tenda terá paz” → “o teu tabernáculo terá paz” — *tabernaculum* → “tabernáculo” (Key Terms).
+- `pt-BR/ch036.md` [286]: “serão despedaçados os braços dos pecadores” → “serão quebrados os braços dos pecadores” — *conterentur* → “serão quebrados” (Key Terms).
+- `pt-BR/ch036.md` [291]: “despedaçará muitos e inumeráveis” → “quebrará muitos e inumeráveis” — *conteret* → “quebrará” (Key Terms).
+- `pt-BR/ch036.md` [338]: “dirigi-me pela senda reta” → “dirigi-me pela vereda reta” — *semitam* → “vereda” (Key Terms).
+- `pt-BR/ch036.md` [352]: “a vossa destra me segurará” → “a vossa direita me segurará” — *dextera* → “direita” (Key Terms).
+- `pt-BR/ch036.md` [395]: “não se romperão as cordas” → “não se romperão os cordéis” — *funiculi* → “cordéis” (Key Terms).
+- `pt-BR/ch036.md` [438]: “o Senhor não o deixará nas mãos dele” → “o Senhor não o abandonará nas mãos dele” — *derelinquet* → “abandonará” (Key Terms).
+- `pt-BR/ch036.md` [465]: “*o insensato*, isto é, o pecador” → “*o estulto*, isto é, o pecador” — *stultum* → “estulto” (Key Terms).
+- `pt-BR/ch036.md` [484]: “o prêmio, ali:” → “o prêmio, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch036.md` [485]: “expõe o que dissera, ali:” → “expõe o que dissera, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch037.md` [11]: “enquanto vacilam os meus pés” → “enquanto se abalam os meus pés” — *commoventur* → “se abalam” (Key Terms).
+- `pt-BR/ch037.md` [14]: “contra os perseguidores, ali:” → “contra os perseguidores, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch037.md` [14]: “a perversidade deles, ali:” → “a maldade deles, em:” — *nequitiam* → “maldade”; *ibi* remissivo → “em:” (Key Terms).
+- `pt-BR/ch037.md` [17]: “a cautela para o futuro, ali:” → “a cautela para o futuro, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch037.md` [23]: “expõe a miséria, ali:” → “expõe a miséria, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch037.md` [32]: “não seja corrigido na ira, ali:” → “não seja corrigido na ira, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch037.md` [36]: “pede o auxílio divino, ali:” → “pede o auxílio divino, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch037.md` [38]: “da consciência que o remorde, ali:” → “da consciência que o remorde, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch037.md` [39]: “do homem que o despreza, ali:” → “do homem que o despreza, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch037.md` [42]: “o efeito do golpe, ali:” → “o efeito do golpe, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch037.md` [75]: “apodreceram os jumentos no seu esterco” → “apodreceram os animais no seu esterco” — *jumenta* → “animais”; “jumentos” restringe indevidamente o referente. *(meaning)*
+- `pt-BR/ch037.md` [80]: “da consolação e da esperança, ali:” → “da consolação e da esperança, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch037.md` [83]: “à comoção do concupiscível, ali:” → “à comoção do concupiscível, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch037.md` [89]: “por muitas cadeias de ferro” → “por muitos vínculos de ferro” — *vinculo* → “vínculo” (Key Terms), ajustando a concordância.
+- `pt-BR/ch037.md` [105]: “o pecado ilude os insensatos” → “o pecado ilude os estultos” — *stultis* → “estultos” (Key Terms).
+- `pt-BR/ch037.md` [111]: “apresenta o sinal dela, ali:” → “apresenta o sinal dela, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch037.md` [145]: “por que causa, ali:” → “por que causa, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch037.md` [148]: “a sua paciência neles, ali:” → “a sua paciência neles, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch037.md` [152]: “da parte dos inimigos, ali:” → “da parte dos inimigos, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch037.md` [181]: “o efeito da paciência, ali:” → “o efeito da paciência, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch037.md` [198]: “recorda a alegria corporal dos inimigos” → “recorda o gozo corporal dos inimigos” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch037.md` [201]: “enquanto vacilam os meus pés” → “enquanto se abalam os meus pés” — *commoventur* → “se abalam” (Key Terms).
+- `pt-BR/ch037.md` [226]: “à estabilidade do coração, ali:” → “à estabilidade do coração, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch037.md` [227]: “à grandeza do poder, ali:” → “à grandeza do poder, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch037.md` [228]: “quanto à multidão, ali:” → “quanto à multidão, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch038.md` [6]: “entesoura, e não sabe para quem” → “entesoura, e ignora para quem” — *ignorat* → “ignora” (Key Terms).
+- `pt-BR/ch038.md` [12]: “chamou-lhes Asafe, Itamar e Iditum” → “chamou-lhes Asaf, Itamar e Iditum” — *Asaph* → “Asaf” (Key Terms).
+- `pt-BR/ch038.md` [46]: “não soa a virtude, mas a falta” → “não soa a virtude, mas a delito” — *delictum* → “delito” (Key Terms).
+- `pt-BR/ch038.md` [103]: “entesoura, e não sabe para quem” → “entesoura, e ignora para quem” — *ignorat* → “ignora” (Key Terms).
+- `pt-BR/ch038.md` [103]: “porque não sabeis para quem os ajuntais” → “porque ignorais para quem os ajuntais” — *ignoratis* → “ignorais” (Key Terms).
+- `pt-BR/ch038.md` [125]: “o mérito para ser escutado” → “o mérito para ser ouvido” — *exauditionis* → “ser ouvido”, conforme a forma prevista no glossário.
+- `pt-BR/ch038.md` [148]: “e pôr-te-ei diante da tua face” → “e porei contra a tua face” — *statuam contra faciem tuam* → “porei contra a tua face” (Key Terms).
+- `pt-BR/ch038.md` [177]: “o sinal de ter sido escutado” → “o sinal de ter sido ouvido” — *exauditionis* → “ser ouvido” (Key Terms).
+- `pt-BR/ch038.md` [184]: “que se apresse o ser escutado” → “que se apresse o ser ouvido” — *exauditionis* → “o ser ouvido” (Key Terms).
+- `pt-BR/ch039.md` [8]: “Sejam confundidos e envergonhados juntamente” → “Sejam confundidos e tomados de temor juntamente” — *revereantur* → “sejam tomados de temor”; “envergonhados” troca temor por vergonha. *(meaning)*
+- `pt-BR/ch039.md` [8]: “voltem atrás e envergonhem-se os que” → “voltem atrás e sejam tomados de temor os que” — *revereantur* → “sejam tomados de temor” (Key Terms). *(meaning)*
+- `pt-BR/ch039.md` [52]: “novas as alegrias” → “novos os gozos” — *gaudia* → “gozos” (Key Terms).
+- `pt-BR/ch039.md` [96]: “o número dos insensatos é infinito” → “o número dos estultos é infinito” — *stultorum* → “estultos” (Key Terms).
+- `pt-BR/ch039.md` [100]: “dá esta recompensa a Deus” → “dá esta retribuição a Deus” — *recompensationem* → “retribuição” (Key Terms).
+- `pt-BR/ch039.md` [124]: “o povo, caindo, adorou o bezerro” → “o povo, caindo, adorou o novilho” — *vitulum* → “novilho” (Key Terms).
+- `pt-BR/ch039.md` [126]: “Outra letra tem” → “Outra versão tem” — *alia littera* → “outra versão” (Key Terms).
+- `pt-BR/ch039.md` [187]: “o número dos insensatos é infinito” → “o número dos estultos é infinito” — *stultorum* → “estultos” (Key Terms).
+- `pt-BR/ch039.md` [209]: “e envergonhem-se juntamente” → “e sejam tomados de temor juntamente” — *revereantur* → “sejam tomados de temor”; a glosa explicita o temor das penas. *(meaning)*
+- `pt-BR/ch039.md` [228]: “sendo rico, se fez pobre por nós” → “sendo rico, se fez necessitado por nós” — *egenus* → “necessitado”, preservando a distinção de *pauper* (Key Terms).
+- `pt-BR/ch040.md` [4]: “Senhor, tende misericórdia de mim” → “Senhor, tende piedade de mim” — *miserere* na invocação → “tende piedade” (Key Terms).
+- `pt-BR/ch040.md` [8]: “Senhor, tende misericórdia de mim” → “Senhor, tende piedade de mim” — *miserere* na invocação → “tende piedade” (Key Terms).
+- `pt-BR/ch040.md` [71]: “eu disse: tende misericórdia de mim” → “eu disse: tende piedade de mim” — *miserere* na invocação → “tende piedade” (Key Terms).
+- `pt-BR/ch040.md` [101]: “ela te fará a alegria dos teus inimigos” → “ela te fará o gozo dos teus inimigos” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch040.md` [113]: “na letra de Jerônimo” → “na versão de Jerônimo” — *littera Hieronymi* → “versão de Jerônimo” (Key Terms).
+- `pt-BR/ch040.md` [135]: “tentou triturar-me totalmente” → “tentou quebrar-me totalmente” — *contereret* → “quebrar” (Key Terms).
+- `pt-BR/ch040.md` [139]: “Senhor, tende misericórdia de mim” → “Senhor, tende piedade de mim” — *miserere* na invocação → “tende piedade” (Key Terms).
+- `pt-BR/ch040.md` [140]: “tende misericórdia de mim” → “tende piedade de mim” — *miserere* na invocação → “tende piedade” (Key Terms).
+- `pt-BR/ch040.md` [162]: “eu, porém, entrei na minha inocência” → “eu, porém, andei na minha inocência” — *ingressus sum in innocentia* → “andei na minha inocência” (Key Terms).
+- `pt-BR/ch041.md` [7]: “insultaram-me os meus inimigos” → “exprobraram-me os meus inimigos” — *exprobraverunt* → “exprobraram” (Key Terms).
+- `pt-BR/ch041.md` [17]: “pede perdão do pecado, ali (Salmo 50:3):” → “pede perdão do pecado, em: (Salmo 50:3)” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch041.md` [20]: “pela glória do reino, ali (Salmo 44:2):” → “pela glória do reino, em: (Salmo 44:2)” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch041.md` [23]: “acrescenta a oração, ali (Salmo 43:2):” → “acrescenta a oração, em: (Salmo 43:2)” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch041.md` [26]: “o cumprimento do desejo, ali (Salmo 42:1):” → “o cumprimento do desejo, em: (Salmo 42:1)” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch041.md` [31]: “a tristeza que incita o desejo, ali:” → “a tristeza que incita o desejo, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch041.md` [34]: “a razão da semelhança, ali:” → “a razão da semelhança, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch041.md` [35]: “expõe a coisa desejada, ali:” → “expõe a coisa desejada, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch041.md` [56]: “o remédio que tem contra ela, ali:” → “o remédio que tem contra ela, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch041.md` [80]: “o impedimento da tristeza, ali:” → “o impedimento da tristeza, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch041.md` [82]: “o deleite da mente, ali:” → “o deleite da mente, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch041.md` [83]: “dá a razão disto, ali:” → “dá a razão disto, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch041.md` [91]: “e como, ali:” → “e como, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch041.md` [99]: “iam com alegria” → “iam com gozo” — *gaudio* → “gozo” (Key Terms).
+- `pt-BR/ch041.md` [99]: “vai alegremente” → “vai com gozo” — *gaudenter* → forma derivada de “gozo”, mantendo a distinção de *laetitia*.
+- `pt-BR/ch041.md` [99]: “E com alegria, porque” → “E com gozo, porque” — *gaudio* → “gozo” (Key Terms).
+- `pt-BR/ch041.md` [100]: “nos banquetes há o som da alegria” → “nos banquetes há o som do gozo” — *gaudii* → “gozo”; as outras “alegrias” traduzem *laetitias*.
+- `pt-BR/ch041.md` [110]: “é sobretudo matéria de alegria” → “é sobretudo matéria de gozo” — *gaudii* → “gozo” (Key Terms).
+- `pt-BR/ch041.md` [113]: “segundo Jerônimo, *salutare* está” → “segundo Jerônimo, o *salutare* está” — *ly* → artigo português diante do lema (Key Terms).
+- `pt-BR/ch041.md` [130]: “à lembrança de Deus, ali:” → “à lembrança de Deus, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch041.md` [144]: “afundaram como chumbo” → “foram submersos como chumbo” — *submersi sunt* → “foram submersos” (Key Terms).
+- `pt-BR/ch041.md` [150]: “e a confiança, ali:” → “e a confiança, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch041.md` [154]: “acrescenta a oração, ali:” → “acrescenta a oração, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch041.md` [179]: “sinais de uma e causa de outra, ali:” → “sinais de uma e causa de outra, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch041.md` [188]: “***Insultaram***. Aqui” → “***Exprobraram***. Aqui” — *exprobraverunt* → “exprobraram” (Key Terms).
+- `pt-BR/ch041.md` [188]: “***insultaram-me***, isto é” → “***exprobraram-me***, isto é” — *exprobraverunt mihi* → “exprobraram-me” (Key Terms).
+- `pt-BR/ch042.md` [6]: “o seu efeito, ali:” → “o seu efeito, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch042.md` [43]: “a direção no aproximar-se, ali:” → “a direção no aproximar-se, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch042.md` [63]: “alcançamos aquelas alegrias do alto” → “alcançamos aqueles gozos do alto” — *gaudia* → “gozos” (Key Terms).
+- `pt-BR/ch043.md` [2]: “a vossa destra e o vosso braço” → “a vossa direita e o vosso braço” — *dextera* → “direita” (Key Terms).
+- `pt-BR/ch043.md` [12]: “ajudai-nos e resgatai-nos” → “ajudai-nos e redimi-nos” — *redime* → “redimi”, flexão de “redimir” (Key Terms).
+- `pt-BR/ch043.md` [21]: “da adversidade presente, onde diz:” → “da adversidade presente, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch043.md` [22]: “pede-se auxílio contra elas, onde diz:” → “pede-se auxílio contra elas, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch043.md` [24]: “esperança de coisas maiores, onde diz:” → “esperança de coisas maiores, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch043.md` [27]: “a do tempo, onde diz:” → “a do tempo, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch043.md` [28]: “o próprio benefício, onde diz:” → “o próprio benefício, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch043.md` [32]: “invoca a Deus com alegria” → “invoca a Deus com gozo” — *gaudio* → “gozo” (Key Terms).
+- `pt-BR/ch043.md` [32]: “o sedento vai com alegria à fonte” → “o sedento vai com gozo à fonte” — *gaudio* → “gozo” (Key Terms).
+- `pt-BR/ch043.md` [41]: “esmagará muitos e inumeráveis” → “quebrará muitos e inumeráveis” — *conteret* → “quebrará” (Key Terms).
+- `pt-BR/ch043.md` [52]: “mas a vossa destra” → “mas a vossa direita” — *dextera* → “direita” (Key Terms).
+- `pt-BR/ch043.md` [59]: “se significa na ***destra***” → “se significa na ***direita***” — *dextera* → “direita” (Key Terms).
+- `pt-BR/ch043.md` [59]: “a vossa destra foi engrandecida” → “a vossa direita foi engrandecida” — *dextera* → “direita” (Key Terms).
+- `pt-BR/ch043.md` [61]: “dirigiu-os, onde diz:” → “dirigiu-os, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch043.md` [103]: “a sua paciência e firmeza, onde diz:” → “a sua paciência e firmeza, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch043.md` [105]: “toca a ordem, onde diz:” → “toca a ordem, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch043.md` [152]: “acrescenta a causa, onde diz:” → “acrescenta a causa, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch043.md` [164]: “Insultaram também a Cristo” → “Exprobraram também a Cristo” — *exprobraverunt* → “exprobraram” (Key Terms).
+- `pt-BR/ch043.md` [176]: “segundo os dois sentidos ditos no lugar” → “segundo os dois sentidos ditos em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch043.md` [214]: “aceitastes com alegria a rapina” → “aceitastes com gozo a rapina” — *gaudio* → “gozo” (Key Terms).
+- `pt-BR/ch043.md` [225]: “e resgatai-nos por causa do vosso nome” → “e redimi-nos por causa do vosso nome” — *redime* → “redimi”, flexão de “redimir” (Key Terms).
+- `pt-BR/ch044.md` [2]: “para a inteligência. Cântico” → “para o entendimento. Cântico” — *intellectus* no título → “entendimento” (Key Terms).
+- `pt-BR/ch044.md` [5]: “a vossa destra vos conduzirá” → “a vossa direita vos conduzirá” — *dextera* → “direita” (Key Terms).
+- `pt-BR/ch044.md` [9]: “implorarão o teu semblante” → “suplicarão ao teu semblante” — *deprecabuntur* → “suplicarão” (Key Terms), ajustando a regência.
+- `pt-BR/ch044.md` [15]: “convida os outros povos a servir” → “convida as outras nações a servir” — *gentes* → “nações” (Key Terms).
+- `pt-BR/ch044.md` [15]: “onde diz ***povos todos***” → “em: ***nações todas***” — *ibi* remissivo → “em:”; *gentes* → “nações” (Key Terms).
+- `pt-BR/ch044.md` [18]: “onde diz, no Salmo 45:” → “em: Salmo 45,” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch044.md` [20]: “para a inteligência, cântico” → “para o entendimento, cântico” — *intellectus* no título → “entendimento” (Key Terms).
+- `pt-BR/ch044.md` [28]: “o louvor do esposo, onde diz” → “o louvor do esposo, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch044.md` [29]: “o louvor da esposa, onde diz” → “o louvor da esposa, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch044.md` [32]: “o seu fim, onde diz” → “o seu fim, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch044.md` [33]: “designa o autor, onde diz” → “designa o autor, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch044.md` [46]: “a sua virtude, onde diz” → “a sua virtude, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch044.md` [47]: “a sua operação, onde diz” → “a sua operação, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch044.md` [64]: “A segunda parte está onde diz” → “A segunda parte está em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch044.md` [65]: “A terceira, onde diz” → “A terceira, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch044.md` [66]: “a quarta, onde diz” → “a quarta, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch044.md` [69]: “a causa ou o efeito, onde diz” → “a causa ou o efeito, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch044.md` [75]: “nem se achou engano em sua boca” → “nem se achou dolo em sua boca” — *dolus* → “dolo” (Key Terms).
+- `pt-BR/ch044.md` [92]: “E assim a palavra ***por isso*** denota” → “E assim o ***por isso*** denota” — *ly* → artigo português diante do lema (Key Terms).
+- `pt-BR/ch044.md` [96]: “o seu avanço na guerra, onde diz” → “o seu avanço na guerra, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch044.md` [97]: “o efeito, onde diz” → “o efeito, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch044.md` [114]: “a sua causa, onde diz” → “a sua causa, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch044.md` [115]: “rumo à formosura robusta” → “rumo à beleza robusta” — *pulchritudinem* → “beleza” (Key Terms).
+- `pt-BR/ch044.md` [130]: “não convêm ao insensato palavras” → “não convêm ao estulto palavras” — *stultum* → “estulto” (Key Terms).
+- `pt-BR/ch044.md` [133]: “segundo a nossa lição” → “segundo o nosso texto” — *littera nostra* → “o nosso texto” (Key Terms).
+- `pt-BR/ch044.md` [142]: “a vossa destra vos ensinará” → “a vossa direita vos ensinará” — *dextera* → “direita” (Key Terms).
+- `pt-BR/ch044.md` [143]: “a sua destra e a do Pai” → “a sua direita e a do Pai” — *dextera* → “direita” (Key Terms).
+- `pt-BR/ch044.md` [143]: “E ***a sua destra*** conduziu” → “E ***a sua direita*** conduziu” — *dextera* → “direita” (Key Terms).
+- `pt-BR/ch044.md` [143]: “a vossa destra, Senhor, engrandeceu-se” → “a vossa direita, Senhor, engrandeceu-se” — *dextera* → “direita” (Key Terms).
+- `pt-BR/ch044.md` [143]: “a vossa destra, Senhor, feriu” → “a vossa direita, Senhor, feriu” — *dextera* → “direita” (Key Terms).
+- `pt-BR/ch044.md` [144]: “a destra do Senhor fez proezas” → “a direita do Senhor fez proezas” — *dextera* → “direita” (Key Terms).
+- `pt-BR/ch044.md` [163]: “a execução do poder, onde diz” → “a execução do poder, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch044.md` [164]: “a razão, onde diz” → “a razão, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch044.md` [199]: “pela habitação,” → “pela morada,” — *habitaculo* → “morada” (Key Terms).
+- `pt-BR/ch044.md` [209]: “aprendei de mim, que sou manso” → “aprendei de mim, que sou brando” — *mitis* → “brando”, distinto de *mansuetus* (Key Terms).
+- `pt-BR/ch044.md` [235]: “segundo a nossa lição” → “segundo o nosso texto” — *nostra littera* → “o nosso texto” (Key Terms).
+- `pt-BR/ch044.md` [243]: “pela excelência da glória, onde diz” → “pela excelência da glória, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch044.md` [244]: “pela companhia, onde diz” → “pela companhia, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch044.md` [247]: “da própria graciosidade, onde diz” → “da própria graciosidade, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch044.md` [263]: “onde diz ***implorarão o teu semblante***” → “em: ***suplicarão ao teu semblante***” — *ibi* remissivo → “em:”; *deprecabuntur* → “suplicarão” (Key Terms).
+- `pt-BR/ch044.md` [271]: “implorarão o teu semblante” → “suplicarão ao teu semblante” — *deprecabuntur* → “suplicarão” (Key Terms), ajustando a regência.
+- `pt-BR/ch044.md` [272]: “implorarão o teu semblante” → “suplicarão ao teu semblante” — *deprecabuntur* → “suplicarão” (Key Terms), ajustando a regência.
+- `pt-BR/ch044.md` [273]: “todos os que estão em angústia te implorarão” → “todos os que estão em angústia te suplicarão” — *deprecabuntur* → “suplicarão” (Key Terms).
+- `pt-BR/ch044.md` [278]: “A palavra ***dela*** é supérflua” → “O ***dela*** é supérfluo” — *ly* → artigo português diante do lema (Key Terms), ajustando a concordância.
+- `pt-BR/ch044.md` [286]: “a senda dos justos” → “a vereda dos justos” — *semita* → “vereda” (Key Terms).
+- `pt-BR/ch044.md` [291]: “como se chega à sua companhia, onde diz” → “como se chega à sua companhia, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch044.md` [292]: “mas onde termina, onde diz” → “mas onde termina, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch044.md` [332]: “Do primeiro, onde diz” → “Do primeiro, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch044.md` [333]: “Do segundo, onde diz” → “Do segundo, em:” — *ibi* remete ao lema: “em:” (Key Terms).
+- `pt-BR/ch045.md` [39]: “E assim a palavra ***sobremaneira*** refere-se” → “E assim o ***sobremaneira*** refere-se” — *ly* → artigo português diante do lema (Key Terms).
+- `pt-BR/ch045.md` [70]: “justiça, paz e alegria no Espírito Santo” → “justiça, paz e gozo no Espírito Santo” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch045.md` [70]: “o fruto do Espírito é paz, alegria” → “o fruto do Espírito é paz, gozo” — *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch045.md` [97]: “o enchereis de alegria com o vosso rosto” → “o alegrareis no gozo com o vosso rosto” — Preserva *laetificabis* como “alegrareis” e *gaudio* como “gozo” (Key Terms).
+- `pt-BR/ch046.md` [2]: “Povos todos, batei palmas” → “Nações todas, batei palmas” — *gentes* → “nações” (Key Terms).
+- `pt-BR/ch046.md` [24]: “Diz, pois: ***povos todos***” → “Diz, pois: ***nações todas***” — *gentes* → “nações” (Key Terms); “povos” fica reservado a *populi*.
+- `pt-BR/ch046.md` [34]: “como disseram alguns insensatos” → “como disseram alguns estultos” — *stulti* → “estultos” (Key Terms).
+- `pt-BR/ch046.md` [55]: “A lição de Jerônimo traz” → “A versão de Jerônimo traz” — *littera Hieronymi* → “versão de Jerônimo” (Key Terms).
+- `pt-BR/ch047.md` [6]: “a vossa destra está cheia de justiça” → “a vossa direita está cheia de justiça” — *dextera* → “direita” (Key Terms).
+- `pt-BR/ch047.md` [10]: “a segunda-feira se chamava segundo dia do sábado” → “a segunda-feira se chamava segundo dia da semana” — *secunda sabbati* → “segundo dia da semana” (Key Terms).
+- `pt-BR/ch047.md` [35]: “germine com a alegria de toda a terra” → “germine com o gozo de toda a terra” — *gaudio* → “gozo” (Key Terms).
+- `pt-BR/ch047.md` [49]: “Outra lição, a de Jerônimo, traz” → “Outra versão, a de Jerônimo, traz” — *littera Hieronymi* → “versão de Jerônimo” (Key Terms).
+- `pt-BR/ch047.md` [89]: “a vossa destra está cheia de justiça” → “a vossa direita está cheia de justiça” — *dextera* → “direita” (Key Terms).
+- `pt-BR/ch047.md` [107]: “A vossa destra está cheia de justiça” → “A vossa direita está cheia de justiça” — *dextera* → “direita” (Key Terms).
+- `pt-BR/ch047.md` [110]: “a vossa destra está cheia de justiça” → “a vossa direita está cheia de justiça” — *dextera* → “direita” (Key Terms).
+- `pt-BR/ch047.md` [113]: “A vossa destra” → “A vossa direita” — *dextera* → “direita” (Key Terms).
+- `pt-BR/ch047.md` [114]: “a justiça que a destra fez” → “a justiça que a direita fez” — *dextera* → “direita” (Key Terms).
+- `pt-BR/ch048.md` [2]: “Ouvi isto, povos todos” → “Ouvi isto, nações todas” — *gentes* → “nações” (Key Terms).
+- `pt-BR/ch048.md` [7]: “aos jumentos insensatos” → “aos animais insensatos” — *jumentis* → “animais”; “jumentos” restringe indevidamente o referente. *(meaning)*
+- `pt-BR/ch048.md` [11]: “aos jumentos insensatos” → “aos animais insensatos” — *jumentis* → “animais” (Key Terms). *(meaning)*
+- `pt-BR/ch048.md` [12]: “convidou os povos à alegria” → “convidou as nações ao gozo” — *gentes* → “nações”; *gaudium* → “gozo” (Key Terms).
+- `pt-BR/ch048.md` [26]: “ouvi isto, povos todos***, e não só o dos judeus” → “ouvi isto, nações todas***, e não só a dos judeus” — *gentes* → “nações” (Key Terms), ajustando a referência elíptica à nação dos judeus.
+- `pt-BR/ch048.md` [29]: “ouvi isto, povos todos” → “ouvi isto, nações todas” — *gentes* → “nações” (Key Terms).
+- `pt-BR/ch048.md` [70]: “esmagará a tua cabeça” → “quebrará a tua cabeça” — *conteret* → “quebrará” (Key Terms).
+- `pt-BR/ch048.md` [70]: “ela esmagará a cabeça da serpente” → “ela quebrará a cabeça da serpente” — *conteret* → “quebrará” (Key Terms).
+- `pt-BR/ch048.md` [91]: “não pode arrancar ninguém da mão de Deus” → “não pode livrar ninguém da mão de Deus” — *eripere* → “livrar” (Key Terms).
+- `pt-BR/ch048.md` [98]: “tampouco aceita os seus dons” → “tampouco aceita os seus presentes” — *munera* → “presentes” (Key Terms).
+- `pt-BR/ch048.md` [219]: “aos jumentos insensatos” → “aos animais insensatos” — *jumentis* → “animais” (Key Terms). *(meaning)*
+- `pt-BR/ch048.md` [219]: “porque age como os jumentos” → “porque age como os animais” — *jumenta* → “animais” (Key Terms). *(meaning)*
+- `pt-BR/ch049.md` [6]: “os jumentos nos montes” → “os animais nos montes” — *jumenta* → “animais”; “jumentos” restringe indevidamente o referente. *(meaning)*
+- `pt-BR/ch049.md` [13]: “convidou os povos a confiar em Deus; aqui os instrui” → “convidou as nações a confiar em Deus; aqui as instrui” — *gentes* → “nações” (Key Terms), ajustando o pronome.
+- `pt-BR/ch049.md` [49]: “com o resplendor da sua vinda” → “com a iluminação da sua vinda” — *illustratione* → “iluminação” (Key Terms).
+- `pt-BR/ch049.md` [53]: “perfeita em beleza” → “perfeita em formosura” — *decore* → “formosura” (Key Terms).
+- `pt-BR/ch049.md` [53]: “perfeita na beleza do Espírito Santo” → “perfeita na formosura do Espírito Santo” — *decore* → “formosura” (Key Terms).
+- `pt-BR/ch049.md` [80]: “A palavra ***sobre*** toma-se” → “O ***sobre*** toma-se” — *ly* → artigo português diante do lema (Key Terms).
+- `pt-BR/translation-journal.md`: “| regere / pascere | governar / apascentar | Salmo 22:1; Jerônimo *pascit* (n. 203). |” → “| regere / pascere | governar / apascentar | Salmo 22:1; Jerônimo *pascit* (n. 203). No uso reflexivo de ch036, “pascere fide” = “alimenta-te da fé”. |” — Completa a linha com o sentido reflexivo de alimentar-se, corretamente usado nas duas ocorrências de ch036 [83].
+- `pt-BR/translation-journal.md`: “| miserere / misericordia / miserationes | tende piedade / misericórdia / comiserações | Salmo 50:3; n. 501; nota do tradutor sobre *miser*. |” → “| miserere / misericordia / miserationes | tende piedade / misericórdia / comiserações | Salmo 50:3; n. 501; nota do tradutor sobre *miser*. Fora da invocação, “misereri” = “compadecer-se”, “ter misericórdia”; no uso descritivo de ch036 n. 387, “miseratio” = “compaixão”. |” — Registra os usos descritivos corretamente recorrentes, distinguindo-os da invocação “tende piedade”.
+- `pt-BR/translation-journal.md`: “| confirmare | confirmar | Salmo 36:17; n. 382 joga com *confirmare* nas citações. |” → “| confirmare | confirmar | Salmo 36:17; n. 382 joga com *confirmare* nas citações. Em ch037, “confirmare super me manum” = “firmar sobre mim a mão”, indicando a permanência do golpe; em ch048, “confirmare nomen” = “firmar o nome”. |” — Registra sentidos distintos, corretamente traduzidos por “firmar”, sem alterar “confirmar” no argumento do Salmo 36.
+
+### Part terms 3 of 4, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 19 minor. Delta read of round-1 changes in ch034–ch049 and the journal: reverted 'segundo dia da semana' inside the explanation of the sabbath-based day names (meaning), fixed a pronoun broken by 'nações', restored terms where the changes contradicted psalm-specific Key Terms rows or broke the misericordia and exprobrans echoes, completed three missed dextera/ibi spots, and corrected three journal entries made false by the changes.
+- `pt-BR/ch047.md` [10]: “a segunda-feira se chamava segundo dia da semana” → “a segunda-feira se chamava segundo dia do sábado” — source: dies lunae vocabatur secunda sabbati; the sentence explains that all days were named from the sabbath (omnes ferias a sabbato vocabant), and 'da semana' breaks that explanation and its parallel with 'primeiro dia do sábado'; the Key Terms row applies to the title, not to this gloss *(meaning)*
+- `pt-BR/ch048.md` [12]: “exorta-os a confiar em Deus” → “exorta-as a confiar em Deus” — the antecedent is now 'as nações' (eas = gentes); the pronoun must be feminine
+- `pt-BR/ch043.md` [164]: “Exprobraram também a Cristo” → “Insultaram também a Cristo” — picks up exprobrantis from [163] ('do que insulta'); the Key Terms row for Ps 43 gives exprobrans = 'o que insulta', and the change broke the echo
+- `pt-BR/ch041.md` [7]: “exprobraram-me os meus inimigos” → “insultaram-me os meus inimigos” — the Key Terms row specific to Ps 41:11 gives exprobrare = 'insultar'
+- `pt-BR/ch041.md` [188]: “***Exprobraram***. Aqui” → “***Insultaram***. Aqui” — Key Terms row for Ps 41:11: exprobrare = 'insultar'
+- `pt-BR/ch041.md` [188]: “***exprobraram-me***, isto é” → “***insultaram-me***, isto é” — Key Terms row for Ps 41:11: exprobrare = 'insultar'
+- `pt-BR/ch040.md` [4]: “Senhor, tende piedade de mim; sarai” → “Senhor, tende misericórdia de mim; sarai” — n. 427 and 429 argue from misericordia/miseria (non recurro ad justitiam, sed ad misericordiam; misericordia debet esse ubi est miseria); the Key Terms row 'miserere mei = tende misericórdia de mim' exists to keep that link; 'tende piedade' is fixed for Ps 50
+- `pt-BR/ch040.md` [8]: “tende piedade de mim e ressuscitai-me” → “tende misericórdia de mim e ressuscitai-me” — same as [4]: the commentary at n. 429 builds on misericordia
+- `pt-BR/ch040.md` [71]: “eu disse: tende piedade de mim” → “eu disse: tende misericórdia de mim” — the gloss continues 'não recorro à justiça, mas à misericórdia'; the link with misericordia must stay visible
+- `pt-BR/ch040.md` [139]: “Senhor, tende piedade de mim” → “Senhor, tende misericórdia de mim” — the surrounding paragraphs [138] and [141] speak of 'em que pede misericórdia'
+- `pt-BR/ch040.md` [140]: “E por isso, ***tende piedade de mim***” → “E por isso, ***tende misericórdia de mim***” — the argument is 'A misericórdia deve estar onde está a miséria … E por isso, miserere mei'; 'piedade' loses the link
+- `pt-BR/ch049.md` [53]: “perfeita em formosura, Deus aparecerá” → “perfeita em beleza, Deus aparecerá” — Key Terms row for Ps 49:2: decor = 'beleza' (Jerônimo: 'perfeita em beleza', n. 491); the change contradicts it
+- `pt-BR/ch049.md` [53]: “na formosura do Espírito Santo” → “na beleza do Espírito Santo” — Key Terms row for Ps 49:2: decor = 'beleza'
+- `pt-BR/ch037.md` [149]: “a causa da paciência, ali:” → “a causa da paciência, em:” — ibi in the divisions = 'em:' (Key Terms), as in the neighbours [148] and [152]; missed by the previous round
+- `pt-BR/ch044.md` [141]: “***A vossa destra vos conduzirá maravilhosamente***” → “***A vossa direita vos conduzirá maravilhosamente***” — dextera = 'direita' (Key Terms); the verse [5] and the neighbours [142]–[143] were changed but this lemma was not
+- `pt-BR/ch044.md` [141]: “***A vossa destra vos conduzirá***. E fala” → “***A vossa direita vos conduzirá***. E fala” — dextera = 'direita' (Key Terms)
+- `pt-BR/ch044.md` [245]: “e pela prole, onde diz ***em lugar” → “e pela prole, a partir de ***em lugar” — ibi = 'em:' as in [243]–[244]; 'a partir de' avoids 'em: em', following the journal's ch028 decision
+- `pt-BR/translation-journal.md`: “| jumenta insipientia | jumentos insensatos | Salmo 48:13, 21; n. 485, 489. |” → “| jumenta insipientia | animais insensatos | Salmo 48:13, 21; n. 485, 489. |” — ch048 [7], [11] and [219] now read 'animais insensatos' throughout; the row stated a form that no longer occurs
+- `pt-BR/translation-journal.md`: “*luctus* = pranto pelos mortos” → “*luctus* = lamento (*planctus*) pelos mortos” — ch034 [221] now reads 'o luto é o lamento pelos mortos'
+- `pt-BR/translation-journal.md`: “ch046, Salmo 46:2: *omnes gentes* vertido por “povos todos”, para acompanhar o título já fixado no book.json.” → “ch046, Salmo 46:2: *omnes gentes* vertido por “nações todas”, distinto de *populos* (Salmo 46:4, “povos”).” — ch046 [2] and [24] now read 'nações todas'; the decision described a rendering that no longer occurs
+- Rejected: pt-BR/ch048.md [7], [11], [219] — 'animais insensatos' contradicts the Key Terms row 'jumentos insensatos' — the text is consistent in all four places and 'animais' is defensible for jumenta (Ps 35 row); the row was updated instead of reverting
+- Rejected: pt-BR/ch038.md [46] — 'mas a delito' may look ungrammatical — 'soar a' + noun without article is regular and parallels 'soa a virtude'
+- Rejected: pt-BR/ch044.md [209] — Mateus 11:29 'brando' instead of the familiar 'manso' — follows the Key Terms distinction mitis/mansuetus; not a defect
+
+### Part terms 3 of 4, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 1 minor. Verificadas todas as alterações da rodada anterior e lidos integralmente os parágrafos e notas apresentados; encontrada uma divergência terminológica menor.
+- `pt-BR/ch041.md` [8]: “quinta década da primeira cinquentena” → “quinta dezena da primeira cinquentena” — A linha específica de Key Terms para deca / quinquagena no n. 432 fixa “dezena / cinquentena”.
+- Rejected: pt-BR/ch047.md [10] — “segundo dia do sábado” diverge da equivalência “segundo dia da semana” registrada no glossário. — Aqui Tomás explica a formação dos nomes a partir do sábado; a tradução preserva essa explicação e o paralelo com “primeiro dia do sábado”.
+
+### Part terms 3 of 4, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read of ch041 [7]–[9] and its notes: the “dezena” change is correct; fixed the remaining “década” for prima deca in [9] within the same n. 432.
+- `pt-BR/ch041.md` [9]: “contra isto foi a primeira década” → “contra isto foi a primeira dezena” — source: prima deca, in the same n. 432 as [8]; the Key Terms row deca / quinquagena (n. 432) gives “dezena”, and [8] now reads “quinta dezena”
+- Rejected: pt-BR/ch041.md [7] — “insultaram-me” for exprobraverunt instead of “exprobraram” — the Key Terms row specific to Salmo 41:11 gives exprobrare = “insultar”; round 2 restored it deliberately
+- Rejected: pt-BR/ch041.md footnotes [^1], [^3] — factual claims (Plínio on the deer and the serpent; Hermon and ḥrm/ḥerem) — both are accurate: Pliny, Natural History VIII, 50; the ḥrm root and its rendering as anáthema are standard
+
+### Part terms 3 of 4, Round 5 (codex, delta read)
+Verdict: 0 meaning-level, 1 minor. Verificada a alteração em [9] e lidos integralmente ch041 [8]–[10] e as notas apresentadas; encontrada uma divergência terminológica menor em [10].
+- `pt-BR/ch041.md` [10]: “contra isto, a segunda década” → “contra isto, a segunda dezena” — Secunda deca pertence ao mesmo n. 432; a linha específica do glossário fixa deca como “dezena”, conforme os parágrafos [8] e [9].
+
+### Part terms 3 of 4, Round 6 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read of ch041 [9]–[11] and notes: the [10] change is correct; fixed the remaining “terceira década” in [11] to “dezena”.
+- `pt-BR/ch041.md` [11]: “a terceira década” → “a terceira dezena” — source: tertia deca, same n. 432 as [8]–[10]; the Key Terms row deca / quinquagena (n. 432) gives “dezena”, and [9] and [10] now read “primeira dezena”, “segunda dezena”
+- Rejected: pt-BR/ch041.md [10] — “segunda dezena” replacing “segunda década” — correct against secunda deca and the n. 432 Key Terms row; the sentence is intact
+- Rejected: pt-BR/ch041.md footnotes [^1]–[^3] — factual claims (Plínio, salutare, Hermon/ḥrm) — already confirmed in round 4; nothing new
+
+### Part terms 4 of 4, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 43 minor. 106 parágrafos sinalizados lidos; 37 apresentaram desvio terminológico; uma linha do glossário ampliada.
+- `pt-BR/ch049.md` [113]: “tratar do culto de Deus” → “tratar da face de Deus” — *vultu Dei* → “face de Deus”; o texto-fonte diz “face”, não “culto”. *(meaning)*
+- `pt-BR/ch049.md` [122]: “eis a alegria: imolar vítimas” → “eis o gozo: imolar vítimas” — *gaudium* → “gozo” (Key Terms); estava “alegria”.
+- `pt-BR/ch049.md` [179]: “não parece ser de alegria, mas de tristeza” → “não parece ser de gozo, mas de tristeza” — *gaudii* → “gozo” (Key Terms); estava “alegria”.
+- `pt-BR/ch049.md` [183]: “põe a perversidade deles” → “põe a maldade deles” — *nequitiam* → “maldade” (Key Terms); estava “perversidade”.
+- `pt-BR/ch050.md` [54]: “o efeito do compadecer-se” → “o efeito de ter piedade” — *miserendi* → “ter piedade”, adequando gramaticalmente “tende piedade” (Key Terms); estava “compadecer-se”.
+- `pt-BR/ch050.md` [78]: “na sua alegria não se mistura” → “no seu gozo não se mistura” — *gaudio* → “gozo” (Key Terms); estava “alegria”.
+- `pt-BR/ch050.md` [197]: “uma coisa pedi ao Senhor” → “uma só coisa pedi ao Senhor” — *unam petii* → “uma só coisa pedi” (Key Terms).
+- `pt-BR/ch050.md` [228]: “promete em troca uma recompensa” → “promete em troca uma retribuição” — *recompensationem* → “retribuição” (Key Terms); estava “recompensa”.
+- `pt-BR/ch050.md` [285]: “para estardes firmes no combate” → “para estardes firmes na batalha” — *praelio* → “batalha” (Key Terms); estava “combate”.
+- `pt-BR/ch051.md` [2]: “Inteligência de Davi” → “Entendimento de Davi” — *Intellectus* no título → “entendimento” (Key Terms); estava “inteligência”.
+- `pt-BR/ch051.md` [2]: “praticaste o engano” → “praticaste o dolo” — *dolum* → “dolo” (Key Terms); estava “engano”.
+- `pt-BR/ch051.md` [16]: “o afastamento de Deus” → “a aversão a Deus” — *aversio a Deo* → “aversão a Deus” (Key Terms); estava “afastamento de Deus”.
+- `pt-BR/ch051.md` [27]: “para o fim, inteligência de Davi” → “para o fim, entendimento de Davi” — *intellectus* no título → “entendimento” (Key Terms); estava “inteligência”.
+- `pt-BR/ch051.md` [55]: “praticaste o engano” → “praticaste o dolo” — *dolum* → “dolo” (Key Terms); estava “engano”.
+- `pt-BR/ch051.md` [58]: “aguçam o engano contra os justos” → “aguçam o dolo contra os justos” — *dolum* → “dolo” (Key Terms); estava “engano”.
+- `pt-BR/ch051.md` [61]: “trata da afeição do mau” → “trata do afeto do mau” — *affectu* → “afeto” (Key Terms); estava “afeição”.
+- `pt-BR/ch051.md` [62]: “E esta afeição consiste” → “E este afeto consiste” — *affectus* → “afeto” (Key Terms); estava “afeição”.
+- `pt-BR/ch051.md` [66]: “falou o engano” → “falou o dolo” — *dolum* → “dolo” (Key Terms); estava “engano”.
+- `pt-BR/ch051.md` [83]: “vi o insensato” → “vi o estulto” — *stultum* → “estulto” (Key Terms), preservando a distinção de *insipiens* = “insensato”.
+- `pt-BR/ch051.md` [83]: “amaldiçoei a sua formosura” → “amaldiçoei a sua beleza” — *pulchritudini* → “beleza” (Key Terms); “formosura” corresponde a *decor*.
+- `pt-BR/ch051.md` [103]: “oliveira fértil, formosa, frutífera” → “oliveira fértil, bela, frutífera” — *pulchram* → “bela” (Key Terms); estava “formosa”.
+- `pt-BR/ch052.md` [2]: “inteligência de Davi” → “entendimento de Davi” — *intellectus* no título → “entendimento” (Key Terms); estava “inteligência”.
+- `pt-BR/ch052.md` [10]: “arguiu a perversidade dos pecadores” → “arguiu a maldade dos pecadores” — *nequitiam* → “maldade” (Key Terms); estava “perversidade”.
+- `pt-BR/ch052.md` [10]: “argui a perversidade deles” → “argui a maldade deles” — *nequitiam* → “maldade” (Key Terms); estava “perversidade”.
+- `pt-BR/ch052.md` [11]: “para o fim, inteligência de Davi” → “para o fim, entendimento de Davi” — *intellectus* no título → “entendimento” (Key Terms); estava “inteligência”.
+- `pt-BR/ch052.md` [12]: “lambem com a afeição as coisas carnais” → “lambem com o afeto as coisas carnais” — *affectu* → “afeto” (Key Terms); estava “afeição”.
+- `pt-BR/ch053.md` [2]: “Inteligência de Davi” → “Entendimento de Davi” — *Intellectus* no título → “entendimento” (Key Terms); estava “inteligência”.
+- `pt-BR/ch053.md` [7]: “quanto à afeição ao pecado” → “quanto ao afeto ao pecado” — *affectum* → “afeto” (Key Terms); estava “afeição”.
+- `pt-BR/ch053.md` [8]: “para o fim, inteligência de Davi” → “para o fim, entendimento de Davi” — *intellectus* no título → “entendimento” (Key Terms); estava “inteligência”.
+- `pt-BR/ch053.md` [31]: “que acolha as suas palavras com os ouvidos” → “que perceba as suas palavras com os ouvidos” — *percipiat auribus* → “perceba com os ouvidos” (Key Terms); estava “acolha”.
+- `pt-BR/ch053.md` [31]: “acolhei em vossos ouvidos as palavras da minha boca” → “percebei com os ouvidos as palavras da minha boca” — *auribus percipe* → “percebei com os ouvidos” (Key Terms); estava “acolhei em vossos ouvidos”.
+- `pt-BR/ch053.md` [33]: “primeiro, pela afeição deles” → “primeiro, pelo afeto deles” — *affectu* → “afeto” (Key Terms); estava “afeição”.
+- `pt-BR/ch053.md` [36]: “Pela afeição, porque” → “Pelo afeto, porque” — *affectu* → “afeto” (Key Terms); estava “afeição”.
+- `pt-BR/ch054.md` [2]: “Inteligência de Davi” → “Entendimento de Davi” — *Intellectus* no título → “entendimento” (Key Terms); estava “inteligência”.
+- `pt-BR/ch054.md` [12]: “a usura e o engano” → “a usura e o dolo” — *dolus* → “dolo” (Key Terms); estava “engano”.
+- `pt-BR/ch054.md` [15]: “Resgatará em paz a minha alma” → “Redimirá em paz a minha alma” — *Redimet* → “redimirá” (Key Terms); estava “resgatará”.
+- `pt-BR/ch054.md` [26]: “nos cânticos, inteligência de Davi” → “nos cânticos, entendimento de Davi” — *intellectus* no título → “entendimento” (Key Terms); estava “inteligência”.
+- `pt-BR/ch054.md` [26]: “o sentido de ***inteligência de Davi***” → “o sentido de ***entendimento de Davi***” — A explicação retoma *intellectus* do título: “entendimento” (Key Terms).
+- `pt-BR/ch054.md` [26]: “esta é a inteligência de Davi” → “este é o entendimento de Davi” — A explicação retoma *intellectus* do título: “entendimento” (Key Terms).
+- `pt-BR/ch054.md` [27]: “é intitulado pela inteligência” → “é intitulado pelo entendimento” — *intellectu* explica o título: “entendimento” (Key Terms); estava “inteligência”.
+- `pt-BR/ch054.md` [156]: “fatigaram-se para agir iniquamente” → “afadigaram-se para agir iniquamente” — *laboraverunt* → “afadigaram-se” (Key Terms), em continuidade com “fadiga” no mesmo parágrafo.
+- `pt-BR/ch054.md` [158]: “***e o engano***” → “***e o dolo***” — *dolus* → “dolo” (Key Terms); estava “engano”.
+- `pt-BR/prologue.md` [26]: “a minha língua é um cálamo” → “a minha língua é uma pena” — *calamus* de escriba → “pena” (Key Terms); estava “cálamo”.
+- `pt-BR/translation-journal.md`: “| munera | presentes | Salmo 25:10; Jó 15:34. |” → “| munera | presentes | Salmo 25:10; Jó 15:34. No sentido de oferendas cultuais: “oblações” ou “ofertas” (Isaías 19:21; Gênesis 4:4). |” — A linha não contempla o sentido cultual de *munera*, corretamente traduzido como “oblações” em ch049 [149] e “ofertas” em ch054 [41].
+
+### Part terms 4 of 4, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 3 minor. Delta read of the 44 changes from round 1 in ch049–ch054, prologue and the journal: reverted 2 (the face/worship reading in ch049 [113] and the aversion parallel in ch051 [16]), aligned the verse in ch053 [2] with its lemma, and updated the Key Terms row for the title of Psalm 54; the other changes are correct.
+- `pt-BR/ch049.md` [113]: “estando para tratar da face de Deus” → “estando para tratar do culto de Deus” — O diário registra a leitura de *cultu* por *vultu* neste parágrafo (n. 494). O nexo da frase o exige: os sacrifícios são protestações de fé, por isso antes do culto trata da fé. “Face de Deus” deixa a frase sem sentido e contradiz a decisão registrada. *(meaning)*
+- `pt-BR/ch051.md` [16]: “a aversão a Deus e a conversão ao pecado” → “o afastamento de Deus e a conversão ao pecado” — *aversio a peccato* / *aversio a Deo* formam um par por oposição; com “afastamento do pecado” na mesma frase, “aversão a Deus” desfaz o paralelo. A linha de Key Terms do n. 510 fixa *aversio* = “afastamento”, como em [17].
+- `pt-BR/ch053.md` [2]: “acolhei em vossos ouvidos as palavras da minha boca” → “percebei com os ouvidos as palavras da minha boca” — O lema em [31] passou a “percebei com os ouvidos”; o versículo *auribus percipe* do salmo deve coincidir com ele.
+- `pt-BR/translation-journal.md`: “| in carminibus / intellectus David | nos cânticos / inteligência de Davi |” → “| in carminibus / intellectus David | nos cânticos / entendimento de Davi |” — O título do Salmo 54 e o n. 528 passaram a “entendimento de Davi”; a linha ainda diz “inteligência”.
+- Rejected: pt-BR/ch052.md [10] — “afeição ao pecado” não foi trocado por “afeto” — O latim é *affectionis*, não *affectus*; a distinção é aceitável.
+- Rejected: pt-BR/ch049.md [122] — “eis o gozo” omite *et laetitia* de Isaías 22:13 — A fonte cita só *ecce gaudium immolare victimas*; a tradução segue a fonte.
+
+### Part terms 4 of 4, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as quatro alterações, os nove parágrafos exibidos, suas sete notas e a linha corrigida do diário; nenhum novo defeito encontrado.
+- Rejected: pt-BR/ch049.md [113] — “culto de Deus” diverge de vultu Dei no SRC. — A leitura cultu por vultu já está registrada no diário e é sustentada pelo contexto dos sacrifícios como protestações de fé; a correção da rodada anterior é válida.
