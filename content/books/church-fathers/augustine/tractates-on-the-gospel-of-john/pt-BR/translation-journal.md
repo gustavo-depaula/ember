@@ -16,11 +16,11 @@ Destino: pt-BR.
 | apud Deum | junto de Deus | Mantido nas repetições da abertura do Evangelho. |
 | Sapientia Dei | Sabedoria de Deus | Designação do Filho. |
 | Unigenitus | Unigênito | Distinto de “único”, conforme a formulação latina. |
-| animalis homo | homem natural | Homem que ainda não compreende espiritualmente as coisas de Deus. |
+| animalis homo | homem animal | Homem que ainda não compreende espiritualmente as coisas de Deus. |
 | spiritalis intellectus | inteligência espiritual | |
 | Caritas vestra | Vossa Caridade | Forma coletiva de tratamento da assembleia. |
 | iustitia | justiça | |
-| fides | fé | |
+| fides | fé | Também “fidelidade” quando designa a constância de Deus ou a lealdade de um amigo. |
 | gratia | graça | |
 | caro | carne | Conservada nas imagens da encarnação e na oposição a espírito. |
 | mens rationalis | mente racional | |
@@ -67,7 +67,7 @@ Destino: pt-BR.
 | baptizare per ministerium / baptizare per potestatem | batizar pelo ministério / batizar pelo poder | Distinção entre a ação do ministro e o poder que Cristo conserva para si. |
 | columba / accipiter / milvus | pomba / gavião / milhafre | Imagens da Igreja e de seus adversários em V. |
 | traditor | traidor | Sentido histórico específico esclarecido na nota [^5]. |
-| spiritalis virtus Sacramenti | força espiritual do sacramento | |
+| spiritalis virtus Sacramenti | eficácia espiritual do sacramento | |
 | cathedra Moysi | cátedra de Moisés | |
 | Stephanаs / Apollo / Bartholomaeus | Estéfanas / Apolo / Bartolomeu | |
 | zabolus | diabo | Forma latina variante de *diabolus*. |
@@ -121,11 +121,11 @@ Destino: pt-BR.
 | Aenon / Salim | Enon / Salim | Conservada a identificação de Enon como lago feita pelo autor. |
 | Pontius / Simon Magus | Pôncio / Simão Mago | XIII, 17. |
 | character | marca | Marca militar na comparação do desertor, em XIII, 17. |
-| arrhae | penhor | Imagem do compromisso nupcial, em XIII, 13 e 16. |
+| arrhae | sinal | Imagem do compromisso nupcial, em XIII, 13 e 16. |
 | lumen illuminans / lumen illuminatum | luz que ilumina / luz iluminada | Distinção entre a fonte divina da luz e quem a recebe. |
 | Verbum / verbum | Verbo / palavra | Em XIV, 7, a analogia entre a palavra interior e o Filho exige explicitar a identidade do vocábulo latino. |
 | ad mensuram | com medida | Na distribuição do Espírito e dos dons, em XIV, 10–11. |
-| signavit quia Deus verax est | atestou que Deus é verdadeiro | Conservada a repetição da fórmula e sua aplicação a Cristo em XIV, 8. |
+| signavit quia Deus verax est | atestou que Deus é veraz | Conservada a repetição da fórmula e sua aplicação a Cristo em XIV, 8. |
 | filii irae | filhos da ira | Em XIV, 13, relacionada à mortalidade herdada de Adão. |
 | intellectus / mens / ratio | intelecto / mente / razão | Distinções mantidas na interpretação do marido da samaritana, em XV, 18–22. |
 | hydria / cupiditas / voluptas | cântaro / cobiça / prazer | Vocabulário da interpretação espiritual do poço, em XV, 16 e 30. |
@@ -134,9 +134,9 @@ Destino: pt-BR.
 | patria | terra; terra natal | Mantida a fórmula “um profeta não tem honra em sua própria terra”. |
 | punica / syra | púnico / siríaco | Línguas mencionadas em XV, 27. |
 | piscina / porticus / grabatum | piscina / pórtico / leito | Vocabulário da cura do enfermo, em XVII. |
-| caritas / dilectio | caridade / amor | Mantida a alternância lexical do latim na exposição dos dois preceitos. |
+| caritas / dilectio | caridade / amor | Mantida a alternância lexical do latim na exposição dos dois preceitos. Como forma de tratamento dos ouvintes, Dilectio vestra recebe “vossa dileção”. |
 | quadragenarius / quinquagenarius / denarius | quarenta / cinquenta / denário | Preservada a argumentação numérica; “denário” designa a moeda e participa da associação ao número dez. |
-| Quinquagesima | Quinquagesima | Em XVII, 4, os cinquenta dias depois da Páscoa. |
+| Quinquagesima | Quinquagésima | Em XVII, 4, os cinquenta dias depois da Páscoa. |
 | Ariani | arianos | Nome da corrente herética discutida em XVII–XVIII. |
 | forma Dei / forma servi / substantia | forma de Deus / forma de servo / substância | Vocabulário cristológico mantido de modo uniforme. |
 | homo interior / oculus cordis | homem interior / olho do coração | Vocabulário da interioridade e do conhecimento de Deus, em XVIII. |
@@ -262,7 +262,7 @@ Destino: pt-BR.
 | gemina substantia Christi | dupla substância de Cristo | Em LXXVIII, 3, divina e humana; mantida a formulação do autor. |
 | Eunomiani | eunomianos | Grupo mencionado juntamente com os arianos em LXXVIII, 2. |
 | liberum arbitrium | livre-arbítrio | Em LXXXI, preservada a distinção entre a necessidade da graça para viver e o poder de escolher a morte. |
-| dilectio / caritas | amor / caridade | Conservada a alternância lexical, especialmente em LXXXIII e LXXXVII, onde o autor explicita sua equivalência. |
+| dilectio / caritas | amor / caridade | Conservada a alternância lexical, especialmente em LXXXIII e LXXXVII, onde o autor explicita sua equivalência. Como forma de tratamento dos ouvintes, Dilectio vestra recebe “vossa dileção”. |
 | timor castus / servitus | temor casto / servidão | Em LXXXV e LXXXVIII, preservada a distinção entre o temor permanente e aquele que a caridade lança fora. |
 | electio gratiae | eleição da graça | Em LXXXVI–LXXXVII, a graça produz os méritos, não os encontra previamente. |
 | susceptionem hominis | assunção do homem | Em LXXXII, 4, refere-se à natureza humana assumida na pessoa do Filho unigênito. |
@@ -281,7 +281,7 @@ Destino: pt-BR.
 | procedere / nasci | proceder / nascer | Mantida a distinção terminológica na exposição trinitária de XCIX. |
 | virtus | poder | Em XCIX, 7, empregado uniformemente nas citações que fundamentam a aplicação do termo ao Espírito Santo. |
 | clarificabit / glorificabit | tornará ilustre / glorificará | Formas latinas conservadas na discussão lexical de C, 1; nas citações corridas, *clarificabit* é traduzido por “glorificará”. |
-| rogare | pedir / interrogar | Em CI, 4, mantido o vocábulo latino na explicação de sua ambiguidade; nota [^80]. |
+| rogare | pedir / interrogar | Em CI, 4, mantido o vocábulo latino na explicação de sua ambiguidade; nota [^80]. “Rogar” também é usado no sentido de dirigir uma súplica ao Pai. |
 | proverbia | provérbios | Em CII, conserva a designação das palavras cujo sentido ainda não é compreendido pelos ouvintes. |
 | claritas / gloria; clarificatio / glorificatio | glória; glorificação | Em CIV–CVI, conservadas as formas latinas nas explicações lexicais, com “esplendor” e “tornar ilustre” quando necessários para distinguir as famílias vocabulares. |
 | praedestinatio / perfectio | predestinação / realização | Em CV, 6, distingue-se o estabelecimento anterior aos tempos de seu cumprimento temporal. |
@@ -314,7 +314,7 @@ Destino: pt-BR.
 - As citações bíblicas latinas foram traduzidas, com os itálicos da fonte. Formas latinas discutidas como palavras, como *Sanguina*, foram conservadas em itálico.
 - Preservadas as alternâncias entre “vós”, dirigido à assembleia, e “tu”, dirigido ao ouvinte singular ou ao interlocutor de um diálogo. Nas citações de oração a Deus, adotado “vós”; na fala do Pai ao Filho, conservado “tu”.
 - Em I, 8, *verbum* foi vertido por “palavra” na analogia humana e por “Verbo” quando designa o Filho. A nota [^1] explica por que a fonte atribui duas sílabas a *Deus*.
-- Em I, 8, *carnalem et animalem*, aplicado à criatura, foi traduzido por “carnal ou anímica”, distinguindo o âmbito corporal do âmbito da alma.
+- Em I, 8, *carnalem et animalem*, aplicado à criatura, foi traduzido por “carnal ou animal”, no sentido técnico relativo à alma, distinto do âmbito corporal.
 - Em I, 12, conservada a sequência “feito”, “refeito”, “desfazes”, “recrie” e “criou”, para transmitir a aproximação verbal entre criação e restauração.
 - Em I, 15, mantido “nesta vida” para *in vita ista*, conforme o latim, e “pulgas” para *pulicibus*, sem seguir as formulações divergentes da referência inglesa.
 - Em I, 16 e II, 1, mantida a leitura “O que foi feito, nele é vida”. Em I, 16, a alternativa “O que foi feito nele, é vida” conserva a diferença de pausa sobre a qual se apoia o argumento.
@@ -411,7 +411,7 @@ Destino: pt-BR.
 - A nota [^27], em XIX, 18, identifica a alusão ao animal de carga e à hospedaria da parábola do bom samaritano.
 - Em XIX, 4, removido o asterisco isolado após a primeira citação, entendido como resíduo de formatação.
 - Em XIX, 12, *claritas* foi traduzido por “claridade”, sem confundi-lo com *caritas*, “caridade”, empregado anteriormente no mesmo parágrafo.
-- Em XIX, 13, *nascendo* foi vertido por “por ser gerado”, em continuidade com a explicação de *dedit* por *genuit*.
+- Em XIX, 13, *nascendo* foi vertido por “por nascer”, conforme *nasci* / “nascer” na tabela de termos.
 - Em XIX, 15, preservada a formulação concreta *Verbum Dei habens hominem*, “o Verbo de Deus que tem o homem”, e sua analogia com a alma que tem um corpo.
 - Em XIX, 18, mantido “juízo” também onde o próprio autor esclarece que o termo significa pena; preservada a variação entre “na ressurreição da vida” e “para a ressurreição do juízo”.
 - Conservados os 14 blocos de ch020 e os 18 de ch021, contando os títulos; acrescentadas duas notas do tradutor, sem alterar os parágrafos correspondentes ao original.
@@ -870,3 +870,337 @@ Verdict: 0 meaning-level, 0 minor. Delta read of ch120 [6]-[8]: the two round-2 
 - Rejected: pt-BR/ch120.md [8] — 'quem seipsum significat' is split into a separate sentence, 'Refere-se a si mesmo' — The subject is the evangelist, as in the preceding 'mostra'. The sense ('by whom he means himself, but narrates all as of another') is kept.
 - Rejected: pt-BR/ch120.md [6] — 'usitatius' rendered 'costumam chamar' rather than as a comparative — The sense is the same: the Jews commonly call it 'coena pura'. No content is lost.
 - Rejected: audit: emphasis markers ch120 [6]-[8] — More italics in PT than in the source — The extra italics come from the retained Latin terms (*coena pura*, *Una sabbati*, *prima sabbati*), as the house rule requires.
+
+### Part terms 1 of 12, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 8 minor. 69 parágrafos sinalizados lidos; 8 ocorrências de desvio em 6 parágrafos.
+- `pt-BR/ch001.md` [2]: “o homem natural não compreende as coisas” → “o homem animal não compreende as coisas” — *animalis* → “animal” (Key Terms); estava “natural”.
+- `pt-BR/ch001.md` [2]: “há muitos homens naturais” → “há muitos homens animais” — *animales* → “animais” (Key Terms); estava “naturais”.
+- `pt-BR/ch001.md` [2]: “pois isso o homem natural não compreende” → “pois isso o homem animal não compreende” — *animalis* → “animal” (Key Terms); estava “natural”.
+- `pt-BR/ch001.md` [5]: “aos carnais e naturais” → “aos carnais e animais” — *animalibus* → “animais” (Key Terms); estava “naturais”.
+- `pt-BR/ch001.md` [9]: “criatura mutável, carnal ou anímica” → “criatura mutável, carnal ou animal” — *animalem* → “animal” (Key Terms), no sentido técnico relativo à alma; estava “anímica”.
+- `pt-BR/ch005.md` [13]: “Os ladrões querem despojar” → “Os salteadores querem despojar” — *latrones* → “salteadores” (Key Terms); estava “ladrões”, equivalente reservado a *fur*.
+- `pt-BR/ch005.md` [16]: “a força espiritual do sacramento” → “a eficácia espiritual do sacramento” — *virtus Sacramenti* → “eficácia do sacramento” (Key Terms); estava “força do sacramento”.
+- `pt-BR/ch006.md` [4]: “os santificados pelo Espírito não tenham falsidade” → “os santificados pelo Espírito não tenham dolo” — *dolum* → “dolo” (Key Terms); estava “falsidade”.
+
+### Part terms 1 of 12, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 4 minor. Verifiquei as 8 correções de termos (todas corretas) e li os parágrafos mostrados; corrigi três itens do diário invalidados por elas e uma regência quebrada em V, 13.
+- `pt-BR/translation-journal.md`: “| animalis homo | homem natural |” → “| animalis homo | homem animal |” — ch001 [2] e [5] usam agora “homem animal”/“animais”, conforme a linha *animalis / spiritalis*; a linha afirmava uma forma que não ocorre
+- `pt-BR/translation-journal.md`: “foi traduzido por “carnal ou anímica”, distinguindo o âmbito corporal do âmbito da alma.” → “foi traduzido por “carnal ou animal”, no sentido técnico relativo à alma, distinto do âmbito corporal.” — ch001 [9] diz agora “carnal ou animal”; a decisão descrevia a forma substituída
+- `pt-BR/translation-journal.md`: “| spiritalis virtus Sacramenti | força espiritual do sacramento |” → “| spiritalis virtus Sacramenti | eficácia espiritual do sacramento |” — ch005 [16] diz agora “eficácia espiritual do sacramento”, conforme a linha *virtus Sacramenti*; a linha afirmava uma forma que não ocorre
+- `pt-BR/ch005.md` [14]: “Para alcançar aquilo a que outrora o perseguidor recorria à chama, tu recorres à língua” → “Para o mesmo fim pelo qual outrora o perseguidor recorria à chama, tu recorres à língua” — latim *Ad quod … proferebat flammam, ad hoc tu producis linguam*; “aquilo a que … recorria à chama” tem regência quebrada (dois complementos com “a”)
+- Rejected: pt-BR/ch001.md [2], [5] — “homem animal” pode soar estranho ao leitor em I sem a nota [^76], que só aparece em XCIV — forma tradicional de *animalis homo* (1Cor 2,14) e coerente com a linha *animalis / spiritalis* da tabela de termos; é escolha defensável, não defeito
+- Rejected: pt-BR/ch001.md [6] — pergunta latina *Qualis ergo iste mons…?* vertida como exclamação — pergunta retórica admirativa; a exclamação conserva o sentido
+
+### Part terms 1 of 12, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as quatro alterações, relidos integralmente os três parágrafos apresentados e examinadas as duas notas; nenhum novo defeito objetivo encontrado.
+- Rejected: pt-BR/ch005.md [13]–[15] — Diferença na contagem de marcadores de ênfase. — Os quatro asteriscos adicionais pertencem à numeração autoral em negrito, conforme a regra de formatação; os itálicos das citações foram preservados.
+
+### Part terms 2 of 12, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 5 minor. 62 parágrafos sinalizados examinados; 6 ocorrências de deriva em 5 parágrafos.
+- `pt-BR/ch007.md` [13]: “pois a força se aperfeiçoa na fraqueza” → “pois o poder se aperfeiçoa na fraqueza” — *virtus* → “poder” (Key Terms); era “força”, na citação sobre o poder divino.
+- `pt-BR/ch008.md` [4]: “honrando a Deus, louvando sua majestade e amando sua poderosíssima misericórdia” → “com honra a Deus, com louvor à sua majestade e com caridade por sua poderosíssima misericórdia” — *caritas* → “caridade” (Key Terms); estava parafraseado como “amando”.
+- `pt-BR/ch009.md` [4]: “o que está encoberto nos sinais sagrados” → “o que está encoberto nos mistérios” — *sacramenta* → “mistérios” (Key Terms), no sentido sagrado das figuras proféticas; era “sinais sagrados”.
+- `pt-BR/ch009.md` [12]: “fosse libertado pelo lenho” → “fosse libertado pelo madeiro” — *lignum* → “madeiro” (Key Terms), na imagem da travessia; era “lenho”.
+- `pt-BR/ch009.md` [12]: “já que no lenho haveria” → “já que no madeiro haveria” — *lignum* → “madeiro” (Key Terms), na imagem da cruz; era “lenho”.
+- `pt-BR/ch011.md` [3]: “E ele: Sou eu.” → “E ele: Eu sou.” — *Ego sum* → “eu sou” (Key Terms); “Sou eu” perde a formulação absoluta preservada pelo glossário. *(meaning)*
+
+### Part terms 2 of 12, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Leitura de delta: verifiquei as 6 alterações em ch007, ch008, ch009 e ch011 e os parágrafos vizinhos frente ao latim; todas estão corretas e não há defeitos novos.
+- Rejected: pt-BR/ch009.md [4] — *cum transieris ad Dominum* vertido por “quando te voltares/voltas para o Senhor”, possivelmente aproximado da redação bíblica corrente em vez de “passares” — *transire ad* também significa passar para o lado de alguém, aderir; “voltar-se para” é tradução defensável e mantém o sentido de conversão do argumento
+- Rejected: pt-BR/ch011.md [3] — “Eu sou” em lugar de “Sou eu” na resposta aos guardas — verte *Ego sum* literalmente, segue a linha *ego sum* da tabela de Termos e combina com o argumento do poder demonstrado pela resposta
+- Rejected: pt-BR/ch008.md [4] — “com caridade por sua poderosíssima misericórdia” soa pouco usual — é gramatical, fiel a *cum caritate* e coerente com a linha *caritas* da tabela de Termos
+- Rejected: pt-BR/ch008.md [3] — “Anjos, as Virtudes, as Potestades, as Dominações” em maiúsculas, e a tabela de Termos as dá em minúsculas — é capitalização reverencial; a regra é não normalizá-la
+
+### Part terms 3 of 12, Round 1 (codex, terms read)
+Verdict: 11 meaning-level, 13 minor. 62 parágrafos sinalizados examinados; 11 apresentaram desvio terminológico, com 24 correções.
+- `pt-BR/ch013.md` [12]: “pois és meu amigo querido,” → “pois és meu caro amigo,” — *carus* → “caro” (Key Terms); estava “querido”.
+- `pt-BR/ch013.md` [14]: “vê de quem recebes o penhor.” → “vê de quem recebes o sinal.” — *arrhas* → “sinal” (Key Terms); estava “penhor”, reservado a *pignus*.
+- `pt-BR/ch013.md` [17]: “se sou a esposa, se recebi o penhor,” → “se sou a esposa, se recebi o sinal,” — *arrhas* → “sinal” (Key Terms); estava “penhor”, reservado a *pignus*.
+- `pt-BR/ch014.md` [9]: “que significa o que segue: *Mas quem recebeu o seu testemunho atestou que Deus é verdadeiro*?” → “que significa o que segue: *Mas quem recebeu o seu testemunho atestou que Deus é veraz*?” — *verax* → “veraz” (Key Terms): trata-se da veracidade de Deus, em oposição à mentira. *(meaning)*
+- `pt-BR/ch014.md` [9]: “se tu mesmo dizes: *Quem recebeu o seu testemunho atestou que Deus é verdadeiro*.” → “se tu mesmo dizes: *Quem recebeu o seu testemunho atestou que Deus é veraz*.” — *verax* → “veraz” (Key Terms); estava “verdadeiro”. *(meaning)*
+- `pt-BR/ch014.md` [9]: “e continuou: *Quem recebeu o seu testemunho atestou que Deus é verdadeiro*.” → “e continuou: *Quem recebeu o seu testemunho atestou que Deus é veraz*.” — *verax* → “veraz” (Key Terms); estava “verdadeiro”. *(meaning)*
+- `pt-BR/ch014.md` [9]: “Que significa *atestou que Deus é verdadeiro*,” → “Que significa *atestou que Deus é veraz*,” — *verax* → “veraz” (Key Terms); estava “verdadeiro”. *(meaning)*
+- `pt-BR/ch014.md` [9]: “o homem é mentiroso e Deus é verdadeiro?” → “o homem é mentiroso e Deus é veraz?” — *verax* → “veraz” (Key Terms), preservando a oposição explícita a “mentiroso”. *(meaning)*
+- `pt-BR/ch014.md` [9]: “Portanto, Deus é verdadeiro, e Cristo é Deus.” → “Portanto, Deus é veraz, e Cristo é Deus.” — *verax* → “veraz” (Key Terms); estava “verdadeiro”. *(meaning)*
+- `pt-BR/ch014.md` [9]: “*Pois quem recebeu o seu testemunho atestou que Deus é verdadeiro*.” → “*Pois quem recebeu o seu testemunho atestou que Deus é veraz*.” — *verax* → “veraz” (Key Terms); estava “verdadeiro”. *(meaning)*
+- `pt-BR/ch014.md` [9]: “está acima de todos é Deus verdadeiro.” → “está acima de todos é Deus veraz.” — *Deus verax* → “Deus veraz”; “Deus verdadeiro” desloca a afirmação da veracidade para a autenticidade da divindade. *(meaning)*
+- `pt-BR/ch014.md` [9]: “reconheces com certeza que Deus é verdadeiro.” → “reconheces com certeza que Deus é veraz.” — *verax* → “veraz” (Key Terms); estava “verdadeiro”. *(meaning)*
+- `pt-BR/ch014.md` [10]: “Ele próprio é Deus verdadeiro,” → “Ele próprio é Deus veraz,” — *Deus verax* → “Deus veraz” (Key Terms), retomando a exposição sobre a veracidade divina. *(meaning)*
+- `pt-BR/ch014.md` [10]: “um só Deus, Deus verdadeiro enviado por Deus.” → “um só Deus, Deus veraz enviado por Deus.” — *Deus verax* → “Deus veraz” (Key Terms); estava “Deus verdadeiro”. *(meaning)*
+- `pt-BR/ch015.md` [2]: “grandes mistérios e imagens de grandes realidades,” → “grandes mistérios e semelhanças de grandes realidades,” — *similitudines* → “semelhanças” (Key Terms), aqui no sentido de representações figuradas.
+- `pt-BR/ch015.md` [7]: “não é sem motivo que se cansa a Força de Deus;” → “não é sem motivo que se cansa o Poder de Deus;” — *Virtus Dei* → “Poder de Deus” (Key Terms); estava “Força de Deus”.
+- `pt-BR/ch015.md` [16]: “agradou-lhe a ideia de não ter sede,” → “deleitou-se com a ideia de não ter sede,” — *delectata est* → “deleitou-se”, conservando o vocabulário de “deleite” (Key Terms).
+- `pt-BR/ch015.md` [16]: “Encantada, pois, com semelhante dom,” → “Deleitada, pois, com semelhante dom,” — *delectata* → “deleitada”, conservando o vocabulário de “deleite” (Key Terms).
+- `pt-BR/ch017.md` [3]: “*Se tivesse sido dada uma lei que pudesse dar vida,” → “*Se tivesse sido dada uma lei que pudesse vivificar,” — *vivificare* → “vivificar” (Key Terms); estava “dar vida”.
+- `pt-BR/ch017.md` [3]: “*se tivesse sido dada uma lei que pudesse dar vida,” → “*se tivesse sido dada uma lei que pudesse vivificar,” — *vivificare* → “vivificar” (Key Terms), também na repetição da citação.
+- `pt-BR/ch017.md` [11]: “de tê-lo curado no sábado,” → “de tê-lo tornado são no sábado,” — *sanum eum fecerat* → “tê-lo tornado são”, conservando “são” (Key Terms).
+- `pt-BR/ch017.md` [11]: “que um homem tivesse sido curado no sábado,” → “que um homem tivesse ficado são no sábado,” — *sanus factus esset homo* → “um homem tivesse ficado são” (Key Terms).
+- `pt-BR/ch017.md` [11]: “*que me curou, ele mesmo me disse:” → “*que me tornou são, ele mesmo me disse:” — *me fecit sanum* → “me tornou são”, conservando “são” (Key Terms).
+- `pt-BR/ch017.md` [13]: “que era Jesus quem o havia curado*.” → “que era Jesus quem o havia tornado são*.” — *eum sanum fecerat* → “o havia tornado são”, conservando “são” (Key Terms).
+
+### Part terms 3 of 12, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 3 minor. Leitura delta de ch013, ch014, ch015 e ch017: as 24 correções do round 1 estão corretas; três linhas do Key Terms (arrhae, signavit quia Deus verax est, Quinquagesima) foram ajustadas para coincidir com o texto.
+- `pt-BR/translation-journal.md`: “| arrhae | penhor |” → “| arrhae | sinal |” — Depois da correção do round 1, ch013 [14] e [17] trazem “sinal” para *arrhas*, de acordo com a linha “pignus / arrha | penhor / sinal”; a linha do diário afirmava “penhor” em XIII, 13 e 16.
+- `pt-BR/translation-journal.md`: “| signavit quia Deus verax est | atestou que Deus é verdadeiro |” → “| signavit quia Deus verax est | atestou que Deus é veraz |” — Depois da correção do round 1, ch014 [9] traz “atestou que Deus é veraz” em todas as ocorrências; “verdadeiro” não ocorre mais. A linha passa a concordar com “verax / veritas | veraz / verdade”.
+- `pt-BR/translation-journal.md`: “| Quinquagesima | Quinquagesima |” → “| Quinquagesima | Quinquagésima |” — A nota [^24] de ch017 escreve “Quinquagésima”, com acento, que é a forma correta em português; a forma sem acento declarada na linha não ocorre no texto.
+- Rejected: pt-BR/ch013.md [14], [17] — “sinal” para *arrhas* poderia ser lido como “indício” — No contexto nupcial e de compra, “sinal” tem o sentido corrente de arras, e é o termo que o Key Terms fixa para *arrha*. A correção está certa.
+- Rejected: pt-BR/ch017.md [12] — “aquele que fora curado” não segue o padrão “são” adotado em [11] e [13] — O trecho não foi tocado no round anterior e a escolha é defensável: o sentido é o mesmo.
+
+### Part terms 3 of 12, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Leitura delta das três alterações no diário: “sinal”, “atestou que Deus é veraz” e “Quinquagésima” estão corretos e coerentes com as evidências fornecidas; nenhum defeito encontrado.
+
+### Part terms 4 of 12, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 18 minor. 56 parágrafos sinalizados conferidos; 9 apresentavam deriva terminológica; corrigida também 1 inversão de sentido.
+- `pt-BR/ch019.md` [13]: “contudo, não é nada, nem é desprovida de toda vida” → “contudo, não é um nada, nem é desprovida de toda vida” — “Non tamen nihil est” nega que a alma seja um nada; “não é nada” inverte essa afirmação. *(meaning)*
+- `pt-BR/ch019.md` [14]: “mas é vida por ser gerado. O Pai é vida sem ser gerado; o Filho é vida por ser gerado.” → “mas é vida por nascer. O Pai é vida sem nascer; o Filho é vida por nascer.” — *nascendo* → “nascer” (Key Terms); estava “ser gerado”.
+- `pt-BR/ch021.md` [5]: “Pois foi gerado vendo e vê por ser gerado.” → “Pois nasceu vendo e vê ao nascer.” — *natus / nascendo* → “nascer” (Key Terms); estava “ser gerado”.
+- `pt-BR/ch021.md` [5]: “Mas não houve um tempo em que ainda não fosse gerado e depois tenha sido gerado” → “Mas não houve um tempo em que ainda não tivesse nascido e depois tenha nascido” — *natus* → “nascer” (Key Terms); estava “ser gerado”.
+- `pt-BR/ch021.md` [13]: “nem se encontrou engano em sua boca” → “nem se encontrou dolo em sua boca” — *dolus* → “dolo” (Key Terms); estava “engano”.
+- `pt-BR/ch022.md` [15]: “Assim também o Filho dá vida àqueles que quer” → “Assim também o Filho vivifica aqueles que quer” — *vivificat* → “vivifica” (Key Terms); estava “dá vida”.
+- `pt-BR/ch023.md` [2]: “até chegar ao fundamento firme da rocha” → “até chegar ao fundamento firme da pedra” — *petrae* → “pedra” (Key Terms); estava “rocha”.
+- `pt-BR/ch023.md` [2]: “até chegarmos à rocha” → “até chegarmos à pedra” — *petram* → “pedra” (Key Terms); estava “rocha”.
+- `pt-BR/ch023.md` [2]: “A rocha, porém, era Cristo” → “A pedra, porém, era Cristo” — *Petra* → “pedra” (Key Terms); estava “rocha”.
+- `pt-BR/ch023.md` [5]: “levará a construção até a rocha” → “levará a construção até a pedra” — *petram* → “pedra” (Key Terms); estava “rocha”.
+- `pt-BR/ch023.md` [7]: “cavando segundo nossas forças até chegarmos à rocha” → “cavando segundo nossas forças até chegarmos à pedra” — *petram* → “pedra” (Key Terms); estava “rocha”.
+- `pt-BR/ch023.md` [14]: “Pois, assim como o Pai ressuscita os mortos e lhes dá vida, assim também o Filho dá vida àqueles que quer*, mas segundo o espírito.” → “Pois, assim como o Pai ressuscita os mortos e os vivifica, assim também o Filho vivifica aqueles que quer*, mas segundo o espírito.” — *vivificat* → “vivifica” (Key Terms); estava “dá vida” nas duas ocorrências.
+- `pt-BR/ch023.md` [14]: “O Pai dá vida, o Filho dá vida; àqueles que o Pai quer, àqueles que o Filho quer; mas o Pai dá vida aos mesmos a quem o Filho dá” → “O Pai vivifica, o Filho vivifica; àqueles que o Pai quer, àqueles que o Filho quer; mas o Pai vivifica os mesmos que o Filho vivifica” — *vivificat* → “vivifica” (Key Terms); estava “dá vida”, também retomado por elipse.
+- `pt-BR/ch023.md` [14]: “Pois, assim como o Pai ressuscita os mortos e lhes dá vida, assim também o Filho dá vida àqueles que quer.*” → “Pois, assim como o Pai ressuscita os mortos e os vivifica, assim também o Filho vivifica aqueles que quer.*” — *vivificat* → “vivifica” (Key Terms); estava “dá vida” nas duas ocorrências.
+- `pt-BR/ch023.md` [14]: “*Assim como o Pai ressuscita os mortos e lhes dá vida, assim também o Filho dá vida àqueles que quer*.” → “*Assim como o Pai ressuscita os mortos e os vivifica, assim também o Filho vivifica aqueles que quer*.” — *vivificat* → “vivifica” (Key Terms); estava “dá vida” nas duas ocorrências.
+- `pt-BR/ch023.md` [14]: “o Filho dá vida assim como o Pai.” → “o Filho vivifica assim como o Pai.” — *vivificat* → “vivifica” (Key Terms); estava “dá vida”.
+- `pt-BR/ch023.md` [15]: “recebe, porém, a vida do Pai, em quem crê” → “é, porém, vivificado pelo Pai, em quem crê” — *ex Patre vivificatur* → “é vivificado pelo Pai” (Key Terms); estava “recebe a vida do Pai”.
+- `pt-BR/ch023.md` [15]: “Vós não dais vida?” → “Vós não vivificais?” — *non vivificas* → “não vivificais” (Key Terms); estava “não dais vida”.
+- `pt-BR/ch023.md` [15]: “também o Filho dá vida àqueles que quer.” → “também o Filho vivifica aqueles que quer.” — *vivificat* → “vivifica” (Key Terms); estava “dá vida”.
+
+### Part terms 4 of 12, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta read de ch019, ch021, ch022 e ch023: as 19 alterações conferem com o latim; corrigidos a crase quebrada em ch023 [14] e a decisão do diário sobre XIX, 13, que ficou desatualizada.
+- `pt-BR/ch023.md` [14]: “O Pai vivifica, o Filho vivifica; àqueles que o Pai quer, àqueles que o Filho quer;” → “O Pai vivifica, o Filho vivifica; aqueles que o Pai quer, aqueles que o Filho quer;” — “vivificar” é transitivo direto; a crase de “àqueles”, herdada de “dar vida a”, ficou sem regência depois da troca.
+- `pt-BR/translation-journal.md`: “- Em XIX, 13, *nascendo* foi vertido por “por ser gerado”, em continuidade com a explicação de *dedit* por *genuit*.” → “- Em XIX, 13, *nascendo* foi vertido por “por nascer”, conforme *nasci* / “nascer” na tabela de termos.” — ch019 [14] traz agora “por nascer”; a decisão registrada no diário ficou falsa.
+- Rejected: pt-BR/ch021.md [5] — “ainda não tivesse nascido e depois tenha nascido”: mistura de tempos — Segue o paralelo já existente na mesma frase, “não visse e depois tenha visto”; a construção é aceitável e o sentido está correto.
+- Rejected: pt-BR/ch023.md [15] — “é, porém, vivificado pelo Pai” e “Vós não vivificais?” — Correspondem a *ex Patre vivificatur* e *tu non vivificas*; o tratamento “vós” a Cristo segue a decisão do diário.
+
+### Part terms 4 of 12, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Conferidas as duas alterações, os três parágrafos apresentados e as notas [^31] e [^32]; nenhum defeito encontrado.
+- Rejected: pt-BR/ch023.md [13–15] — Diferenças na contagem de marcadores de ênfase. — Decorrem da numeração em negrito e da união de trechos contíguos em itálico; as ênfases do conteúdo foram preservadas.
+
+### Part terms 5 of 12, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 23 minor. 62 parágrafos sinalizados lidos; 22 ocorrências com deriva e uma linha do glossário ampliada.
+- `pt-BR/translation-journal.md`: “| fides | fé | |” → “| fides | fé | Também “fidelidade” quando designa a constância de Deus ou a lealdade de um amigo. |” — Os usos de fides em XXV, 14 e XXXII, 2 significam corretamente “fidelidade”; acrescentado esse sentido à linha.
+- `pt-BR/ch025.md` [8]: “Cristo fala: *Sou eu, não temais.*” → “Cristo fala: *Eu sou, não temais.*” — ego sum absoluto → “eu sou” (Key Terms); estava “Sou eu”.
+- `pt-BR/ch025.md` [8]: “*Sou eu, não temais. Quiseram, então,” → “*Eu sou, não temais. Quiseram, então,” — ego sum absoluto → “eu sou” (Key Terms); estava “Sou eu”.
+- `pt-BR/ch025.md` [13]: “a fé que opera pela caridade.” → “a fé que opera pelo amor.” — dilectio → “amor” (Key Terms); estava “caridade”.
+- `pt-BR/ch025.md` [18]: “da torrente de vossas delícias.” → “da torrente de vosso prazer.” — voluptas → “prazer” (Key Terms), também aplicado ao coração; estava “delícias”.
+- `pt-BR/ch026.md` [12]: “E de que se orgulhavam eles?” → “E de que se ensoberbeciam eles?” — superbiebant → “se ensoberbeciam”, conservando o vocabulário de superbia → “soberba” (Key Terms).
+- `pt-BR/ch026.md` [12]: “De que vos orgulhais?” → “De que vos ensoberbeceis?” — superbitis → “vos ensoberbeceis”, conservando o vocabulário de superbia → “soberba” (Key Terms).
+- `pt-BR/ch028.md` [3]: “E ele: Sou eu*;” → “E ele: Eu sou*;” — ego sum absoluto → “eu sou” (Key Terms); estava “Sou eu”.
+- `pt-BR/ch029.md` [2]: “*sedutores e, no entanto, verdadeiros*” → “*sedutores e, no entanto, verazes*” — veraces → “verazes” (Key Terms); estava “verdadeiros”.
+- `pt-BR/ch029.md` [9]: “esse é verdadeiro, e nele não há injustiça” → “esse é veraz, e nele não há injustiça” — verax → “veraz” (Key Terms); estava “verdadeiro”.
+- `pt-BR/ch029.md` [9]: “ele não é verdadeiro, porque buscará” → “ele não é veraz, porque buscará” — verax → “veraz” (Key Terms); estava “verdadeiro”.
+- `pt-BR/ch030.md` [2]: “tanto os verdadeiros como os mentirosos” → “tanto os verazes como os mentirosos” — veraces → “verazes” (Key Terms); estava “verdadeiros”.
+- `pt-BR/ch030.md` [4]: “outro o tivesse curado” → “outro o tivesse tornado são” — sanum fecisset → “tivesse tornado são”, conservando sanus → “são” (Key Terms).
+- `pt-BR/ch030.md` [6]: “o despojamento dos desejos carnais do coração” → “o despojamento das cobiças carnais do coração” — cupiditatum → “cobiças” (Key Terms); estava “desejos”.
+- `pt-BR/ch030.md` [6]: “foi curado para ter saúde no corpo” → “foi curado para estar são no corpo” — sanus → “são” (Key Terms); estava parafraseado como “ter saúde”.
+- `pt-BR/ch030.md` [6]: “creu para ter saúde na alma.” → “creu para estar são na alma.” — sanus → “são” (Key Terms); estava parafraseado como “ter saúde”.
+- `pt-BR/ch031.md` [6]: “onde já não há mudança dos tempos.” → “onde já não há mutabilidade dos tempos.” — mutabilitas → “mutabilidade” (Key Terms); estava “mudança”.
+- `pt-BR/ch031.md` [7]: “encontraram os ladrões vivos.” → “encontraram os salteadores vivos.” — latrones → “salteadores” (Key Terms); estava “ladrões”.
+- `pt-BR/ch031.md` [7]: “disse aos que o procuravam: *Sou eu*” → “disse aos que o procuravam: *Eu sou*” — ego sum absoluto → “eu sou” (Key Terms); estava “Sou eu”.
+- `pt-BR/ch031.md` [12]: “O ladrão escapou;” → “O salteador escapou;” — latro → “salteador” (Key Terms); estava “ladrão”.
+- `pt-BR/ch031.md` [12]: “um ladrão que creu foi libertado” → “um salteador que creu foi libertado” — latro → “salteador” (Key Terms); estava “ladrão”.
+- `pt-BR/ch031.md` [12]: “aquele ladrão era semelhante” → “aquele salteador era semelhante” — latro → “salteador” (Key Terms); estava “ladrão”.
+- `pt-BR/ch033.md` [5]: “É considerado verdadeiro, mostra-se manso;” → “É considerado veraz, mostra-se manso;” — verax → “veraz” (Key Terms); estava “verdadeiro”.
+
+### Part terms 5 of 12, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta de ch025, ch026, ch028–ch031, ch033 e do diário: as 23 correções estão certas e não quebram vizinhos; corrigido um Deus a mais na citação do Salmo em XXV, 11.
+- `pt-BR/ch025.md` [12]: “*Deus, o vosso Deus, vos ungiu, ó Deus, com o óleo da exultação” → “*Ó Deus, o vosso Deus vos ungiu com o óleo da exultação” — o latim *Unxit te, Deus, Deus tuus* tem duas ocorrências de Deus (vocativo e sujeito); a tradução tem três
+- Rejected: pt-BR/ch025.md [8], ch028.md [3], ch031.md [7] — “Eu sou” no lugar de “Sou eu” poderia soar forçado nas cenas narrativas — a tabela fixa *ego sum* absoluto como “eu sou”, e Agostinho lê essas falas como manifestação de poder; a mudança está correta
+- Rejected: pt-BR/ch030.md [5], [7] — a auditoria aponta parênteses da fonte ausentes — os parênteses viraram travessões, com todo o conteúdo mantido; é escolha de pontuação
+- Rejected: pt-BR/ch028.md [4] — a forma “jazeu” — é o pretérito regular de jazer, aceito na norma; “jouve” é arcaico
+- Rejected: pt-BR/ch031.md [12] — *exspectatio gentium* vertido como “esperança dos gentios” — tradução usual e defensável de *exspectatio* nesse contexto messiânico
+
+### Part terms 5 of 12, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 1 minor. Conferida a correção anterior e lidos integralmente os três parágrafos apresentados e as duas notas; encontrado um erro menor de acentuação.
+- `pt-BR/ch025.md` [13]: “Observando o quê poderemos” → “Observando o que poderemos” — O pronome interrogativo não encerra a frase nem antecede uma pausa; escreve-se «que», sem acento.
+- Rejected: pt-BR/ch025.md [12] — Possível alteração de sentido na correção da citação «Ó Deus, o vosso Deus vos ungiu». — A correção preserva corretamente o vocativo e o sujeito de «Unxit te, Deus, Deus tuus», eliminando apenas a ocorrência excedente.
+
+### Part terms 5 of 12, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of ch025 [12]–[14] and notes [^33]–[^34]: the previous correction is right and no new defect was found.
+- Rejected: pt-BR/ch025.md [13] — Check of the change “Observando o que poderemos cumprir esse preceito?” — The change is correct. *quid observando* is an interrogative “que” in the middle of the sentence, so it takes no accent. The sentence and its neighbours are intact.
+- Rejected: pt-BR/ch025.md [14] — The Samaritan woman addresses Jesus as “vós” (“Dai-me, Senhor”), while the journal records “tu” for her lines in XV. — That decision covers XV. Here the quotation sits inside Augustine's exposition, alongside the crowd's reverent address in the same chapter. Inside ch025 the usage is consistent, so this is a defensible style choice.
+- Rejected: pt-BR/ch025.md [12] — “Pedro recordava” makes explicit the second *ille* in *ille commemorabat quod in claritate permanebat*. — This follows the contrast the source states just before it: Christ calls himself Son of man, Peter calls him Son of God. The interpretation is correct.
+
+### Part terms 6 of 12, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 7 minor. 59 parágrafos sinalizados lidos; 8 ocorrências com desvio em 5 parágrafos.
+- `pt-BR/ch033.md` [8]: “por último: *e verdadeiro*” → “por último: *e veraz*” — *verax* → “veraz” (Key Terms); estava “verdadeiro”.
+- `pt-BR/ch033.md` [8]: “o Senhor também é justo e o Senhor é verdadeiro.” → “o Senhor também é justo e o Senhor é veraz.” — *verax* → “veraz” (Key Terms); estava “verdadeiro”.
+- `pt-BR/ch034.md` [5]: “*Embriagar-se-ão da abundância de vossa casa, e lhes dareis de beber da torrente de vossa delícia*” → “*Embriagar-se-ão da abundância de vossa casa, e lhes dareis de beber da torrente de vosso prazer*” — *voluptas* → “prazer” (Key Terms), também aplicado ao coração; estava “delícia”.
+- `pt-BR/ch034.md` [5]: “*Da abundância de vossa casa, e lhes dareis de beber da torrente de vossa delícia*” → “*Da abundância de vossa casa, e lhes dareis de beber da torrente de vosso prazer*” — *voluptas* → “prazer” (Key Terms); repetição da mesma citação.
+- `pt-BR/ch036.md` [12]: “o poder de fazer morrer e dar vida” → “o poder de fazer morrer e vivificar” — *vivificare* → “vivificar” (Key Terms); estava “dar vida”.
+- `pt-BR/ch037.md` [10]: “aqueles ladrões crucificados ao seu lado” → “aqueles salteadores crucificados ao seu lado” — *latro* → “salteador” (Key Terms); estava “ladrões”.
+- `pt-BR/ch037.md` [10]: “E ele: *Sou eu.*” → “E ele: *Eu sou.*” — *Ego sum* → “Eu sou” (Key Terms); conserva a fórmula absoluta de Cristo, cuja força a passagem demonstra. *(meaning)*
+- `pt-BR/ch038.md` [8]: “na cruz foi salvo o ladrão” → “na cruz foi salvo o salteador” — *latro* → “salteador” (Key Terms); estava “ladrão”.
+
+### Part terms 6 of 12, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of ch033, ch034, ch036, ch037 and ch038: the 8 fixes (veraz, prazer, vivificar, salteador, Eu sou) agree with the source and the Key Terms; the paragraphs and their neighbours have no defects.
+- Rejected: pt-BR/ch034.md [4] — Audit flag “salva salva”. — “Aquele que te salva salva também teu cavalo” is correct: a relative clause followed by the main verb, matching *Qui salvum facit te, ipse salvum facit equum tuum*.
+- Rejected: pt-BR/ch037.md [10] — “Eu sou” for *Ego sum* in Jo 18,5 instead of the usual “Sou eu”. — The Key Terms row fixes *ego sum* as “eu sou”. The paragraph uses the phrase as a proof of Christ's power, so the absolute form is justified.
+- Rejected: pt-BR/ch038.md [9] — Audit flag: source parenthesis replaced by dashes. — The aside *legistis quod audistis… commemoro tamen* is kept whole and marked off by dashes. This is equivalent punctuation, not a loss of content.
+- Rejected: pt-BR/ch034.md [6] — The question *Quomodo te abstulit…?* is rendered as an exclamation. — The question is rhetorical and the meaning is kept. This is a defensible style choice.
+
+### Part terms 7 of 12, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 9 minor. 67 parágrafos sinalizados lidos; 10 ocorrências com desvio terminológico.
+- `pt-BR/ch042.md` [6]: “enxertou o humilde zambujeiro” → “enxertou a humilde oliveira brava” — *oleaster* → “oliveira brava” (Key Terms); estava “zambujeiro”.
+- `pt-BR/ch043.md` [3]: “caiu nas mãos de ladrões” → “caiu nas mãos de salteadores” — *latrones* → “salteadores” (Key Terms); estava “ladrões”, reservado a *fures*.
+- `pt-BR/ch043.md` [8]: “também o ladrão mais cruel” → “também o salteador mais cruel” — *latro* → “salteador” (Key Terms); estava “ladrão”.
+- `pt-BR/ch044.md` [14]: “Falou com liberdade, firmeza e verdade.” → “Falou com liberdade, firmeza e veracidade.” — *veraciter* é derivado de *verax*; “veracidade” conserva a família de “veraz” estabelecida nos Key Terms.
+- `pt-BR/ch045.md` [8]: “Jesus lhes disse essa parábola” → “Jesus lhes disse esse provérbio” — *proverbium* → “provérbio” (Key Terms); designa aqui palavras ainda não compreendidas pelos ouvintes.
+- `pt-BR/ch045.md` [9]: “aqueles que foram verdadeiros” → “aqueles que foram verazes” — *veraces* → “verazes” (Key Terms): os profetas dizem a verdade; “verdadeiros” pode indicar autenticidade e enfraquece a relação explícita com Cristo, verdade. *(meaning)*
+- `pt-BR/ch045.md` [16]: “Mas agrada-me mais o que” → “Mas deleita-me mais o que” — *delectat* → “deleita”, conservando a família de “deleite” (Key Terms), aqui aplicado ao coração.
+- `pt-BR/ch045.md` [16]: “a fé que opera pela caridade” → “a fé que opera pelo amor” — *dilectionem* → “amor” (Key Terms); estava “caridade”, equivalente estabelecido para *caritas*.
+- `pt-BR/ch047.md` [8]: “ele lhes disse: *Sou eu;” → “ele lhes disse: *Eu sou;” — *Ego sum* → “Eu sou” (Key Terms), conservando o uso absoluto na resposta de Cristo.
+- `pt-BR/ch049.md` [12]: “costuma ser sinal de recuperação.” → “costuma ser sinal de recuperação da saúde.” — *salutis* → “saúde” no sentido corporal (Key Terms); estava apenas “recuperação”.
+
+### Part terms 7 of 12, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read of ch042–ch049: the 10 terminology changes are correct and break nothing nearby; one minor fix for singular *putas* rendered as plural in ch043 [8].
+- `pt-BR/ch043.md` [8]: “Pensais que encontro alguém” → “Pensas que encontro alguém” — source has *Putas*, second person singular; the paragraph later returns to *tu* (“do que tu, do dinheiro”), and the journal keeps the vós/tu alternation of the source
+- Rejected: pt-BR/ch049.md [12] — “sinal de recuperação da saúde” may say more than *salutis indicium* — *salvus erit* speaks of a sick man recovering, so “recuperação da saúde” gives the bodily sense of *salus* correctly
+- Rejected: pt-BR/ch043.md [8] — “Teme, sim: não incorrer na pena, mas perder a justiça” could be read as fearing not incurring the penalty — the contrast “não … mas” with the verb understood is plain Portuguese and matches *non ne incidat … sed ne amittat*
+- Rejected: pt-BR/ch047.md [8] — “Então, não poderíeis ressuscitar por vós mesmo?” renders *tu* with “vós” — the speaker is addressing Christ, and the journal sets reverent “vós” for this; the singular “mesmo” is the correct agreement for reverential address
+- Rejected: pt-BR/ch042.md [5] — “louvando Abraão para condená-los” renders *cum illorum damnatione* — the praise of Abraham is the means of their condemnation, so the meaning holds; this is a style choice
+
+### Part terms 7 of 12, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente ch043.md [7–9]; a correção para “Pensas” corresponde ao singular latino e não introduz problemas. Nenhum defeito encontrado.
+
+### Part terms 8 of 12, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 11 minor. 75 parágrafos sinalizados lidos; 9 ocorrências com desvio terminológico e 2 linhas do glossário ampliadas.
+- `pt-BR/ch050.md` [10]: “Ouve a testemunha verdadeira:” → “Ouve a testemunha veraz:” — *veracem* → “veraz” (Key Terms); estava “verdadeira”.
+- `pt-BR/ch050.md` [13]: “disse ao ladrão:” → “disse ao salteador:” — *latroni* → “salteador” (Key Terms); estava “ladrão”.
+- `pt-BR/ch052.md` [3]: “se a rocha cede?” → “se a pedra cede?” — *petra* → “pedra” (Key Terms); estava “rocha”.
+- `pt-BR/ch052.md` [7]: “pelo título de dívida dos pecados” → “pelo documento escrito dos pecados” — *chirographo* → “documento escrito” (Key Terms); estava “título de dívida”.
+- `pt-BR/ch053.md` [9]: “a fé que age pela caridade” → “a fé que age pelo amor” — *dilectionem* → “amor” (Key Terms), conservando a alternância entre *dilectio* e *caritas*.
+- `pt-BR/ch055.md` [2]: “o reino do Filho de seu amor” → “o reino do Filho de sua caridade” — *caritatis* → “caridade” (Key Terms); estava “amor”.
+- `pt-BR/ch057.md` [4]: “meu espírito se concentra nos afetos divinos” → “minha alma se concentra nos afetos divinos” — *animus* → “alma” (Key Terms); aqui designa o princípio interior que ama.
+- `pt-BR/ch059.md` [2]: “escolheu para participar dessa bem-aventurança” → “escolheu para a comunhão nessa bem-aventurança” — *societatem* → “comunhão” (Key Terms); estava parafraseado como “participar”.
+- `pt-BR/ch066.md` [3]: “presumiu orgulhosamente de si” → “presumiu soberbamente de si” — *superbe* corresponde à forma adverbial de “soberba” (Key Terms); estava “orgulhosamente”.
+- `pt-BR/translation-journal.md`: “| caritas / dilectio | caridade / amor | Mantida a alternância lexical do latim na exposição dos dois preceitos. |” → “| caritas / dilectio | caridade / amor | Mantida a alternância lexical do latim na exposição dos dois preceitos. Como forma de tratamento dos ouvintes, Dilectio vestra recebe “vossa dileção”. |” — A tradução emprega corretamente “vossa dileção” como tratamento em LVIII, 1 e LXIII, 3; acrescenta-se esse uso à linha.
+- `pt-BR/translation-journal.md`: “| dilectio / caritas | amor / caridade | Conservada a alternância lexical, especialmente em LXXXIII e LXXXVII, onde o autor explicita sua equivalência. |” → “| dilectio / caritas | amor / caridade | Conservada a alternância lexical, especialmente em LXXXIII e LXXXVII, onde o autor explicita sua equivalência. Como forma de tratamento dos ouvintes, Dilectio vestra recebe “vossa dileção”. |” — Acrescenta-se à linha correspondente o tratamento “vossa dileção”, empregado corretamente em LVIII, 1 e LXIII, 3.
+
+### Part terms 8 of 12, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta read de ch050, ch052, ch053, ch055, ch057, ch059, ch066 e do diário: 8 das 9 correções estão certas; revertida a de ch052 [7], que contrariava a linha específica do Key Terms, e desfeita uma ambiguidade de pronome no mesmo parágrafo.
+- `pt-BR/ch052.md` [7]: “pelo documento escrito dos pecados” → “pelo título de dívida dos pecados” — O Key Terms tem uma linha própria para este trecho: “chirographum peccatorum | título de dívida dos pecados | Imagem jurídica em LII, 6”. A linha “documento escrito” vale para as imagens jurídicas de VII, 10–11. A correção anterior contrariou a linha específica, que é a correta aqui.
+- `pt-BR/ch052.md` [7]: “a essa expulsão do diabo daqueles que ele redimiu” → “a essa expulsão do diabo daqueles que Cristo redimiu” — *a suis redemptis*: os redimidos são de Cristo. Em “daqueles que ele redimiu”, o pronome fica logo depois de “diabo” e pode ser lido como referido a ele.
+- Rejected: pt-BR/ch053.md [9] — “a fé que age pelo amor” se afasta da forma conhecida de Gl 5,6 (“pela caridade”) — O texto-fonte traz *dilectionem*, e o Key Terms manda verter *dilectio* por “amor”. A correção segue a fonte, não a Bíblia familiar.
+- Rejected: pt-BR/ch055.md [2] — “Filho de sua caridade” se afasta da forma conhecida de Cl 1,13 — O texto-fonte traz *caritatis*, que o Key Terms verte por “caridade”.
+- Rejected: pt-BR/ch050.md [13] — “salteador” no lugar do tradicional “bom ladrão” — O texto-fonte traz *latroni*, e o Key Terms distingue fur (“ladrão”) de latro (“salteador”).
+- Rejected: pt-BR/ch059.md [3] — futuro do subjuntivo duplicado em “se subordinardes … com que subordinardes” — O futuro do subjuntivo na oração relativa de uma hipótese é aceitável em português e não altera o sentido.
+- Rejected: pt-BR/ch050.md [9] — a auditoria aponta um parêntese ausente — O parêntese latino foi vertido entre travessões, com o conteúdo completo.
+
+### Part terms 8 of 12, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente os três parágrafos apresentados e a nota do tradutor; ambas as correções estão corretas, sem novos defeitos.
+- Rejected: pt-BR/ch052.md [6–8] — Diferenças na contagem de marcadores de ênfase. — A numeração em negrito e o agrupamento dos trechos em itálico explicam as diferenças; as citações apresentadas conservam a ênfase.
+
+### Part terms 9 of 12, Round 1 (codex, terms read)
+Verdict: 2 meaning-level, 17 minor. 59 parágrafos sinalizados examinados; 14 apresentam desvios, corrigidos em 20 trechos.
+- `pt-BR/ch069.md` [4]: “Deus é verdadeiro, e todo homem” → “Deus é veraz, e todo homem” — verax → “veraz” (Key Terms); estava “verdadeiro”.
+- `pt-BR/ch071.md` [3]: “ressuscita os mortos e lhes dá vida” → “ressuscita os mortos e os vivifica” — vivificat → “vivifica”; conserva a distinção entre ressuscitar e vivificar.
+- `pt-BR/ch071.md` [3]: “assim também o Filho dá vida a quem quer” → “assim também o Filho vivifica quem quer” — vivificat → “vivifica” (Key Terms); estava “dá vida”.
+- `pt-BR/ch071.md` [4]: “Senhor, minha força” → “Senhor, meu poder” — virtus → “poder” (Key Terms); estava “força”.
+- `pt-BR/ch073.md` [2]: “na desobediência obstinada e no desejo desordenado” → “na desobediência obstinada e na cobiça desordenada” — cupiditatem → “cobiça” (Key Terms); estava “desejo”.
+- `pt-BR/ch074.md` [2]: “com o espírito, a palavra, o ato” → “com a alma, a palavra, o ato” — animo é flexão de animus, “alma” no glossário; “espírito” introduz outro termo antropológico. *(meaning)*
+- `pt-BR/ch074.md` [4]: “Deus não dá o Espírito por medida” → “Deus não dá o Espírito com medida” — ad mensuram → “com medida” (Key Terms).
+- `pt-BR/ch074.md` [4]: “a quem o Espírito não foi dado por medida” → “a quem o Espírito não foi dado com medida” — ad mensuram → “com medida” (Key Terms).
+- `pt-BR/ch074.md` [4]: “o Espírito é dado por medida” → “o Espírito é dado com medida” — ad mensuram → “com medida” (Key Terms).
+- `pt-BR/ch077.md` [5]: “porque nos comprazemos na lei de Deus” → “porque nos deleitamos na lei de Deus” — condelectamur exprime o deleite na lei de Deus; harmonização com “deleite” (Key Terms).
+- `pt-BR/ch077.md` [5]: “a mim, porém, agrada —” → “a mim, porém, causa deleite —” — delectat → “causa deleite”; conserva o vocabulário de delectatio.
+- `pt-BR/ch079.md` [3]: “para o reino do Filho de seu amor” → “para o reino do Filho de sua caridade” — caritatis → “caridade” (Key Terms); estava “amor”.
+- `pt-BR/ch080.md` [4]: “De onde vem à água tamanha força” → “De onde vem à água tamanho poder” — virtus → “poder” (Key Terms); trata-se do poder da água pela palavra.
+- `pt-BR/ch080.md` [4]: “outra a força que permanece” → “outra o poder que permanece” — virtus → “poder” (Key Terms); estava “força”.
+- `pt-BR/ch090.md` [2]: “Mas, se a fama é verdadeira” → “Mas, se a fama é veraz” — verax → “veraz” (Key Terms); qualifica a fama como digna de crédito.
+- `pt-BR/ch090.md` [4]: “minha alma habita sempre no amor à castidade” → “minha alma habita sempre na caridade da castidade” — in caritate pudicitiae → “na caridade da castidade”; caritas recebe “caridade” no glossário.
+- `pt-BR/ch091.md` [5]: “tão grandes milagres de cura” → “tão grandes milagres de restituição da saúde” — salutis designa aqui a saúde corporal; ajustado ao equivalente “saúde” do glossário.
+- `pt-BR/ch092.md` [3]: “Se alguém deseja contemplar esse espetáculo” → “Se alguém sente deleite em contemplar esse espetáculo” — delectat exprime deleite na contemplação, não apenas desejo de contemplar. *(meaning)*
+- `pt-BR/ch093.md` [2]: “sustentado pela força necessária” → “sustentado pelo poder necessário” — virtute → “poder” (Key Terms); refere-se ao auxílio recebido pelo Espírito Santo.
+
+### Part terms 9 of 12, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read dos tratados 69–93: as 19 correções conferem com o latim e a tabela de termos, e os parágrafos mostrados não têm defeitos.
+- Rejected: pt-BR/ch090.md [4] — “na caridade da castidade” soa menos natural que “no amor à castidade” — Verte fielmente *in caritate pudicitiae* e segue o glossário (caritas → caridade); o sentido continua claro.
+- Rejected: pt-BR/ch080.md [4] — “tem tamanha força na Igreja” logo depois de *virtus* passar a “poder” — Aqui o latim é *tantum valet*, não *virtus*; “força” não contradiz a tabela.
+- Rejected: pt-BR/ch071.md [3] — “nem tu eliminarás, nem tu diminuirás” em futuro, contra o presente *tollis*/*minuis* — Dá a consequência da adesão ao meio-termo ortodoxo e não altera o sentido.
+
+### Part terms 10 of 12, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 6 minor. 59 parágrafos sinalizados lidos; 6 ocorrências com desvio em 3 parágrafos.
+- `pt-BR/ch093.md` [5]: “fosse enxertada a oliveira silvestre” → “fosse enxertada a oliveira brava” — *oleaster* → “oliveira brava” (Key Terms); estava “oliveira silvestre”.
+- `pt-BR/ch098.md` [6]: “o fundamento do arrependimento das obras mortas” → “o fundamento da penitência das obras mortas” — *poenitentia* → “penitência” (Key Terms); estava “arrependimento”.
+- `pt-BR/ch107.md` [2]: “Eu rogo por eles” → “Eu peço por eles” — *rogo* → “peço” (Key Terms: *rogare*, “pedir”); estava “rogo”.
+- `pt-BR/ch107.md` [2]: “não rogo pelo mundo” → “não peço pelo mundo” — *rogo* → “peço” (Key Terms: *rogare*, “pedir”); estava “rogo”.
+- `pt-BR/ch107.md` [2]: “diz que roga não pelo mundo” → “diz que pede não pelo mundo” — *rogare* → “pedir” (Key Terms); estava “roga”.
+- `pt-BR/ch107.md` [2]: “mundo pelo qual não roga” → “mundo pelo qual não pede” — *rogat* → “pede” (Key Terms: *rogare*, “pedir”); estava “roga”.
+
+### Part terms 10 of 12, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read of ch093 [4–5], ch098 [5–7], ch107 [1–3]: all six prior fixes verified; one missed *rogo* → “peço” in ch107 [3].
+- `pt-BR/ch107.md` [3]: “*Não rogo pelo mundo, mas por aqueles” → “*Não peço pelo mundo, mas por aqueles” — source repeats *Non pro mundo rogo*; Key Terms *rogare* → “pedir”, and [2] now renders the same verse with “peço”
+- Rejected: pt-BR/ch098.md [6] — audit: source parenthesis “(quod pertinet ad solidum cibum)” not kept as parentheses — rendered as an appositive clause set off by a comma, with full content; punctuation choice, not a defect
+- Rejected: pt-BR/ch093.md [5], ch098.md [6], ch107.md [2] — audit: emphasis marker counts differ — the extra markers are the paragraph numbers in bold (**n.**); the italics match the source quotations
+
+### Part terms 10 of 12, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente ch107 [2–4] contra o latim; confirmada a correção de «rogo» para «peço» em [3], sem novos defeitos.
+- Rejected: pt-BR/ch107.md [2–4] — Diferença na contagem dos marcadores de ênfase. — Os quatro asteriscos adicionais em cada parágrafo pertencem à numeração em negrito; os itálicos das citações correspondem à fonte.
+
+### Part terms 11 of 12, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 25 minor. 62 parágrafos sinalizados lidos; deriva em 18 deles; uma linha do glossário ampliada.
+- `pt-BR/ch109.md` [5]: “aquele ladrão, cruel no crime” → “aquele salteador, cruel no crime” — latro → “salteador” (Key Terms); estava “ladrão”.
+- `pt-BR/ch109.md` [5]: “Aquele ladrão, por sua vez” → “Aquele salteador, por sua vez” — latro → “salteador” (Key Terms); estava “ladrão”.
+- `pt-BR/ch109.md` [6]: “também aquele ladrão tinha” → “também aquele salteador tinha” — latro → “salteador” (Key Terms); estava “ladrão”.
+- `pt-BR/translation-journal.md`: “| rogare | pedir / interrogar | Em CI, 4, mantido o vocábulo latino na explicação de sua ambiguidade; nota [^80]. |” → “| rogare | pedir / interrogar | Em CI, 4, mantido o vocábulo latino na explicação de sua ambiguidade; nota [^80]. “Rogar” também é usado no sentido de dirigir uma súplica ao Pai. |” — A linha não registra “rogar”, variante correta e reiterada nas súplicas de Cristo ao Pai.
+- `pt-BR/ch110.md` [4]: “ressuscita os mortos e lhes dá vida” → “ressuscita os mortos e os vivifica” — vivificare → “vivificar” (Key Terms); estava “dar vida”.
+- `pt-BR/ch110.md` [4]: “assim também o Filho dá vida àqueles a quem quer” → “assim também o Filho vivifica aqueles a quem quer” — vivificare → “vivificar” (Key Terms); estava “dar vida”.
+- `pt-BR/ch111.md` [3]: “a alma do ladrão, absolvida” → “a alma do salteador, absolvida” — latro → “salteador” (Key Terms); estava “ladrão”.
+- `pt-BR/ch112.md` [2]: “a narrativa não menos verdadeira de outro” → “a narrativa não menos veraz de outro” — verax → “veraz” (Key Terms); estava “verdadeira”.
+- `pt-BR/ch113.md` [3]: “uma inumerável multidão de santos mártires” → “uma inumerável comunhão de santos mártires” — societas → “comunhão” (Key Terms), aqui dos santos mártires; estava “multidão”.
+- `pt-BR/ch113.md` [4]: “essas coisas em figuras” → “essas coisas em provérbios” — proverbia → “provérbios” (Key Terms); retoma as palavras ainda não compreendidas pelos discípulos.
+- `pt-BR/ch113.md` [4]: “já não vos falarei em figuras” → “já não vos falarei em provérbios” — proverbia → “provérbios” (Key Terms); estava “figuras”.
+- `pt-BR/ch114.md` [5]: “Saístes como contra um ladrão” → “Saístes como contra um salteador” — latro → “salteador” (Key Terms); estava “ladrão”.
+- `pt-BR/ch115.md` [3]: “para o reino do Filho de seu amor” → “para o reino do Filho de sua caridade” — caritas → “caridade” (Key Terms); estava “amor”.
+- `pt-BR/ch115.md` [6]: “Ora, Barrabás era ladrão” → “Ora, Barrabás era salteador” — latro → “salteador” (Key Terms); estava “ladrão”.
+- `pt-BR/ch115.md` [6]: “por uma admirável disposição da sabedoria divina” → “por uma admirável dispensação da sabedoria divina” — dispensatio → “dispensação” (Key Terms), no cumprimento temporal da missão salvadora; estava “disposição”.
+- `pt-BR/ch116.md` [2]: “mas Barrabás, o ladrão” → “mas Barrabás, o salteador” — latro → “salteador” (Key Terms); estava “ladrão”.
+- `pt-BR/ch116.md` [5]: “a comparação com o cordeiro foi feita” → “a semelhança com o cordeiro foi apresentada” — similitudo → “semelhança” (Key Terms), na designação figurada de Cristo como cordeiro; estava “comparação”.
+- `pt-BR/ch116.md` [6]: “o Mestre verdadeiro não diz” → “o Mestre veraz não diz” — verax → “veraz” (Key Terms); estava “verdadeiro”.
+- `pt-BR/ch117.md` [4]: “Esses dois eram ladrões” → “Esses dois eram salteadores” — latro → “salteador” (Key Terms); estava “ladrões”.
+- `pt-BR/ch118.md` [6]: “é larga na trave transversal” → “é larga no madeiro transversal” — lignum → “madeiro” nas imagens da cruz (Key Terms); estava “trave”.
+- `pt-BR/ch118.md` [6]: “desde a trave transversal até o chão” → “desde o madeiro transversal até o chão” — lignum → “madeiro” nas imagens da cruz (Key Terms); estava “trave”.
+- `pt-BR/ch118.md` [6]: “acima da trave transversal” → “acima do madeiro transversal” — lignum → “madeiro” nas imagens da cruz (Key Terms); estava “trave”.
+- `pt-BR/ch119.md` [4]: “recebera o cêntuplo naquela comunidade” → “recebera o cêntuplo naquela comunhão” — societas → “comunhão” (Key Terms), aqui a comunhão dos apóstolos; estava “comunidade”.
+- `pt-BR/ch120.md` [7]: “um afeto mais intenso de amor ou de serviço” → “um afeto mais intenso de caridade ou de serviço” — caritas → “caridade” (Key Terms); estava “amor”.
+- `pt-BR/ch121.md` [5]: “sobre o perdão e a retenção dos pecados” → “sobre a remissão e a retenção dos pecados” — remissio peccatorum → “remissão dos pecados” (Key Terms); estava “perdão”.
+
+### Part terms 11 of 12, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read das 25 mudanças em ch109–ch121 e no diário: 24 corretas; a troca para “madeiro” em CXVIII, 5 deixou “na qual” sem concordância, corrigido para “no qual”.
+- `pt-BR/ch118.md` [6]: “é larga no madeiro transversal, na qual se estendem” → “é larga no madeiro transversal, no qual se estendem” — latim *in transverso ligno, quo extenduntur*; com a troca de “trave” por “madeiro”, o relativo deve ir para o masculino
+- Rejected: pt-BR/ch113.md [3] — “inumerável comunhão de santos mártires” soa menos natural que “multidão” — segue a linha *societas* → “comunhão” do glossário; é escolha defensável e não muda o sentido
+- Rejected: pt-BR/ch110.md [4] — “E a *quem*, senão aos mesmos a quem o Pai?” depois de “vivifica aqueles a quem quer” — retoma o “a quem quer”, um objeto de pessoa com preposição; a frase continua gramatical e clara
+- Rejected: pt-BR/ch114.md [5] — “aos que tinham vindo contra ele” para *qui venerant ad se* — conserva o dado de que eles vieram, que é o ponto do argumento; não há perda de sentido
+
+### Part terms 11 of 12, Round 3 (codex, delta read)
+Verdict: 1 meaning-level, 0 minor. Verificada a mudança e lidos integralmente os dois parágrafos apresentados; correção confirmada e encontrada uma perda de sentido em ch118.md [5].
+- `pt-BR/ch118.md` [5]: “e é ordenada acima de tudo” → “e está acima de todos os preceitos” — O latim «super omnia praecepta est» afirma que a caridade está acima de todos os preceitos; a tradução omite «preceitos» e introduz «ordenada». *(meaning)*
+- Rejected: pt-BR/ch118.md [6] — A correção de «na qual» para «no qual» poderia mudar o referente. — A correção está certa: o relativo retoma «madeiro transversal», correspondente a «in transverso ligno, quo».
+- Rejected: pt-BR/ch118.md [5–6] — Contagem diferente de marcadores de ênfase. — Os itálicos das citações estão preservados; os quatro asteriscos adicionais por parágrafo pertencem à numeração autoral em negrito.
+
+### Part terms 11 of 12, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read de ch118.md [4]–[6]: a correção em [5] está certa e não foram encontrados novos defeitos.
+- Rejected: pt-BR/ch118.md [5] — “repartida pelas quatro regiões, isto é,” parece acréscimo à fonte — Desdobra *quadripartitam*, e “isto é” corresponde a *scilicet*; nenhum conteúdo foi acrescentado.
+- Rejected: pt-BR/ch118.md [5] — A repetição de “está acima … e está acima” depois da correção — A frase segue a enumeração do latim (*supereminet … et super omnia praecepta est*); está gramatical e clara.
+- Rejected: pt-BR/ch118.md [6] — Em “ninguém o faz senão pelo espírito bom”, o agente difere de *nisi … spiritus bonus* — O sentido se mantém: só o espírito bom realiza a crucifixão da carne. É escolha defensável.
+
+### Part terms 12 of 12, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 5 minor. 14 parágrafos e 31 sinalizações examinados; 6 sinalizações com desvio, correspondentes a 5 ocorrências distintas.
+- `pt-BR/ch122.md` [10]: “não pertencerá à comunidade dos que fazem o que ensinam” → “não pertencerá à comunhão dos que fazem o que ensinam” — *societas* → “comunhão” (Key Terms); era “comunidade”, referindo-se à comunhão dos santos.
+- `pt-BR/ch123.md` [5]: “daquele que já comprovaste ser verdadeiro” → “daquele que já comprovaste ser veraz” — *verax* → “veraz” (ambas as linhas de Key Terms); era “verdadeiro”, aqui no sentido de alguém cujas palavras se comprovam.
+- `pt-BR/ch123.md` [6]: “por desejo de vanglória, de domínio ou de ganho” → “por cobiça de vanglória, de domínio ou de ganho” — *cupiditas* → “cobiça” (Key Terms); era “desejo”, designando o desejo desordenado contraposto à caridade.
+- `pt-BR/ch123.md` [6]: “nem deixem sem freio os desejos mais perversos” → “nem deixem sem freio as cobiças mais perversas” — *cupiditates* → “cobiças” (Key Terms); era “desejos”, no mesmo sentido moral desordenado.
+- `pt-BR/ch123.md` [6]: “nem ponham a serviço de seus desejos aquelas pelas quais” → “nem ponham a serviço de suas cobiças aquelas pelas quais” — *cupiditatum* → “cobiças” (Key Terms); era “desejos”, referindo-se à exploração das ovelhas para satisfazer desejos desordenados.
+
+### Part terms 12 of 12, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of ch122 [9–10] and ch123 [4–6]: the five Key Terms fixes (comunhão, veraz, cobiça/cobiças) are correct and fit their sentences; no new defects found.
+- Rejected: pt-BR/ch123.md [6] — “do que a Vida presente” capitalizes *vita praesens* — This is a defensible reading: Christ, now risen and present as the Life, set against the death that threatened him. It is an interpretive choice, not an error.
+- Rejected: pt-BR/ch123.md [6] — *concupiscentiam dissolvi* rendered as “desejo” instead of “concupiscência” (Key Terms) — The Key Terms row covers disordered desire in XLI. Here Paul's desire to be with Christ is good, and “concupiscência” would misinform the reader.
+- Rejected: Mechanical audit, ch122–ch123 — Emphasis counts differ from the source — The extra markers are the italics on quotations and on Latin words such as *assus*/*passus* and the vice names in [6]. Nothing is dropped and no span is malformed.
