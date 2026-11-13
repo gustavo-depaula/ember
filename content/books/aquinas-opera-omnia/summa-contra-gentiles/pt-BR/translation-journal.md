@@ -22,20 +22,20 @@ Destino: pt-BR.
 | Eccli. / Sap. / Iac. | Eclesiástico / Sabedoria / Tiago | Conforme as convenções das obras próximas |
 | esse / Deum esse | ser; existir / que Deus existe | Conforme o Compêndio de Teologia |
 | ens / non ens | ente / não ente | |
-| essentia / substantia / quidditas | essência / substância / quididade | |
+| essentia / substantia / quidditas | essência / substância / quididade | “Substantia” em sentido patrimonial: “bens” ou “riqueza” |
 | actus / potentia / actus purus | ato / potência / ato puro | |
 | potentia activa / passiva | potência ativa / passiva | |
 | educere, reducere in actum | levar ao ato | |
-| virtus (força ativa) | poder | Conforme o Compêndio de Teologia |
-| intellectus / intelligere / intelligentia | intelecto / entender / intelecção | |
+| virtus (força ativa) | poder | Conforme o Compêndio de Teologia; “potência” quando designa uma faculdade cognoscitiva, apetitiva ou motora. |
+| intellectus / intelligere / intelligentia | intelecto / entender / intelecção | “Inteligência” quando intelligentia designa a capacidade de entender nas citações bíblicas ou uma substância intelectual separada na exposição da doutrina de Avicena. |
 | ratio naturalis | razão natural | |
 | ratio (argumentação) / ratio (conteúdo conceitual) | argumento / noção; significado | Conforme o contexto |
 | phantasma | fantasma | Imagem sensível; nota no cap. 4 |
 | per se / per accidens | por si / por acidente | Conforme o Compêndio de Teologia |
 | per se notum / quoad nos | conhecido por si / para nós | |
-| simpliciter | absolutamente | |
+| simpliciter | em sentido absoluto | |
 | genus / species / differentia | gênero / espécie / diferença | |
-| primum movens / primus motor | primeiro motor | |
+| primum movens / primus motor | primeiro motor | “Primeiro ser que move a si mesmo” quando primum movens vem determinado por se ou seipsum, designando o primeiro automotor. |
 | movens / motum / mobile | motor; aquilo que move / movido / móvel | |
 | motus / mutatio | movimento / mudança | |
 | immobile / immutabile | imóvel / imutável | Distinção preservada |
@@ -109,7 +109,7 @@ Destino: pt-BR.
 | necessitas suppositionis / necessitas ex suppositione | necessidade de suposição / necessidade por suposição | Distinta da necessidade absoluta |
 | passiones affectuum / affectiva passio | paixões afetivas / paixão afetiva | |
 | gaudium / delectatio | alegria / deleite | Conservada a distinção explicitada no cap. 90 |
-| amor / unitiva virtus | amor / força unitiva | |
+| amor / unitiva virtus | amor / poder unitivo | |
 | veritas, como virtude | veracidade | Distinta de “verdade” como propriedade do conhecimento ou do ente |
 | liberalitas / magnificentia | liberalidade / magnificência | Nomes das virtudes |
 | fortitudo / magnanimitas / mansuetudo | fortaleza / magnanimidade / mansidão | |
@@ -342,7 +342,7 @@ Destino: pt-BR.
 | pignus | penhor | Na exposição dos dons do Espírito Santo e da esperança da herança celeste |
 | missio | missão | Envio visível ou invisível do Filho e do Espírito Santo |
 | idiota | pessoa sem instrução | Em 1 Coríntios 14, citado no cap. 17; sem o sentido pejorativo moderno |
-| innascibilitas / innascibilis | inascibilidade / inascível | Propriedade do Pai; distinguida de *ingenitus*, “ingênito” |
+| innascibilitas / innascibilis | inascibilidade / inascível | Propriedade do Pai; distinguida de *ingenitus*, “não gerado” |
 | oppositio relativa | oposição relativa | Oposição das relações, especialmente das relações de origem |
 | privatio et habitus | privação e posse | *Habitus* designa aqui a presença de uma perfeição; nota [^78] |
 | corpus phantasticum | corpo aparente | Corpo sem realidade, apenas apresentado à percepção; *phantasma* traduzido por “fantasma” |
@@ -1009,3 +1009,496 @@ Verdict: 0 meaning-level, 0 minor. Delta read of b4-ch083 [22–24], b4-ch084 [4
 - Rejected: pt-BR/b4-ch084.md [6] — “parece que deve ter a mesma matéria” for videtur quod habeat eandem materiam adds a modal — In this context “deve ter” reads as an inference, not as an obligation; the argument and its conclusion are unchanged.
 - Rejected: pt-BR/b4-ch097.md [8] — “destruição” for consumptio loses the link to consumptivum (“o que consome”) — The sense is right: fire destroys what will not remain in the future state. The earlier “consumação” said the opposite; keeping the same root in both words is a style choice, not a defect.
 - Rejected: pt-BR/b4-ch097.md [9] — “criação corporal” for creatura corporalis — Taken collectively, “criação corporal” means the corporeal creation and does not change the sense.
+
+### Part terms 1 of 9, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 36 minor. 203 parágrafos sinalizados lidos; 24 casos de desvio, com 34 correções textuais e 2 ajustes de glossário.
+- `pt-BR/translation-journal.md`: “| primum movens / primus motor | primeiro motor | |” → “| primum movens / primus motor | primeiro motor | “Primeiro ser que move a si mesmo” quando primum movens vem determinado por se ou seipsum, designando o primeiro automotor. |” — Registra a tradução recorrente que distingue o primeiro automotor de seu motor.
+- `pt-BR/translation-journal.md`: “| virtus (força ativa) | poder | Conforme o Compêndio de Teologia; quando designa uma faculdade corporal ou da alma, “potência” ou “faculdade” |” → “| virtus (força ativa) | poder | Conforme o Compêndio de Teologia; “potência” quando designa uma faculdade cognoscitiva, apetitiva ou motora. |” — Registra o uso recorrente e correto de “potência” para faculdades, distinguindo-o da força ativa.
+- `pt-BR/b1-ch004.md` [6]: “pela má disposição de sua constituição” → “pela má disposição de sua compleição” — *complexio* → “compleição” (Key Terms); era “constituição”.
+- `pt-BR/b1-ch006.md` [9]: “quando uma obra visível” → “quando uma operação visível” — *operatio* → “operação” (Key Terms); era “obra”.
+- `pt-BR/b1-ch008.md` [5]: “compreender o ápice do entendimento” → “compreender o ápice da intelecção” — *intelligentia* → “intelecção” (Key Terms); era “entendimento”.
+- `pt-BR/b1-ch018.md` [4]: “tornar-se absolutamente uma só” → “tornar-se algo uno em sentido absoluto” — *simpliciter unum* → “uno em sentido absoluto” (Key Terms).
+- `pt-BR/b1-ch018.md` [4]: “e assim não são absolutamente uma só” → “e assim não são algo uno em sentido absoluto” — *unum simpliciter* → “uno em sentido absoluto” (Key Terms).
+- `pt-BR/b1-ch022.md` [9]: “pois, segundo o entendimento,” → “pois, segundo o intelecto,” — *intellectus* → “intelecto” (Key Terms); era “entendimento”.
+- `pt-BR/b1-ch029.md` [7]: “pertence a Deus de modo absoluto” → “pertence a Deus em sentido absoluto” — *simpliciter* → “em sentido absoluto” (Key Terms).
+- `pt-BR/b1-ch042.md` [22]: “é absolutamente uno” → “é uno em sentido absoluto” — *unum simpliciter* → “uno em sentido absoluto” (Key Terms).
+- `pt-BR/b1-ch043.md` [8]: “nem em cada coisa nem de modo absoluto” → “nem em cada coisa nem em sentido absoluto” — *simpliciter* → “em sentido absoluto” (Key Terms).
+- `pt-BR/b1-ch044.md` [5]: “por objeto o bem de modo absoluto” → “por objeto o bem em sentido absoluto” — *simpliciter* → “em sentido absoluto” (Key Terms).
+- `pt-BR/b1-ch044.md` [5]: “bom e apetecível de modo absoluto” → “bom e apetecível em sentido absoluto” — *simpliciter* → “em sentido absoluto” (Key Terms).
+- `pt-BR/b1-ch048.md` [4]: “seu intelecto passe da consideração de si mesmo à consideração dessa coisa” → “seu intelecto mude da consideração de si mesmo para a consideração dessa coisa” — *mutetur* exprime mudança; preserva o vocabulário de “mudança” (Key Terms).
+- `pt-BR/b1-ch049.md` [7]: “como objeto conhecido primeira e essencialmente” → “como objeto conhecido em primeiro lugar e por si” — *per se notum* → “conhecido por si” (Key Terms), preservando também *primo*.
+- `pt-BR/b1-ch059.md` [4]: “por sua simples inteligência” → “por sua simples intelecção” — *intelligentia* → “intelecção” (Key Terms).
+- `pt-BR/b1-ch059.md` [5]: “ou simplesmente falsa” → “ou falsa em sentido absoluto” — *simpliciter* → “em sentido absoluto” (Key Terms), em contraste com a falsidade relativa a determinada coisa.
+- `pt-BR/b1-ch059.md` [6]: “segundo sua simples inteligência” → “segundo sua simples intelecção” — *intelligentia* → “intelecção” (Key Terms).
+- `pt-BR/b1-ch059.md` [6]: “na própria inteligência simples de Deus” → “na própria intelecção simples de Deus” — *intelligentia* → “intelecção” (Key Terms).
+- `pt-BR/b1-ch060.md` [4]: “certa perfeição da inteligência” → “certa perfeição da intelecção” — *intelligentia* → “intelecção” (Key Terms); o próprio texto a identifica com a operação intelectual.
+- `pt-BR/b1-ch066.md` [12]: “segundo o conhecimento de simples inteligência” → “segundo o conhecimento de simples intelecção” — *intelligentia* → “intelecção” (Key Terms).
+- `pt-BR/b1-ch068.md` [7]: “pelas potências dessas causas” → “pelos poderes dessas causas” — *virtutes* como forças causais ativas → “poderes” (Key Terms).
+- `pt-BR/b1-ch068.md` [7]: “por suas potências ativas” → “por seus poderes ativos” — *virtutes activae* → “poderes ativos” (Key Terms).
+- `pt-BR/b1-ch069.md` [9]: “infinito de modo absoluto” → “infinito em sentido absoluto” — *simpliciter* → “em sentido absoluto” (Key Terms).
+- `pt-BR/b1-ch069.md` [13]: “um intelecto que abrange simultaneamente as diversas partes” → “um intelecto que compreende simultaneamente as diversas partes” — *comprehendere* → “compreender” (Key Terms); era “abranger”.
+- `pt-BR/b1-ch069.md` [18]: “pela ciência de simples inteligência” → “pela ciência de simples intelecção” — *intelligentia* → “intelecção” (Key Terms).
+- `pt-BR/b1-ch070.md` [4]: “quanto mais forte é uma potência ativa” → “quanto mais forte é um poder ativo” — *virtus activa* → “poder ativo” (Key Terms).
+- `pt-BR/b1-ch070.md` [4]: “assemelha-se a uma potência ativa” → “assemelha-se a um poder ativo” — *virtus activa* → “poder ativo” (Key Terms).
+- `pt-BR/b1-ch070.md` [4]: “como tem potência infinita no entender” → “como tem poder infinito no entender” — *virtus* como força do entender → “poder” (Key Terms).
+- `pt-BR/b1-ch070.md` [4]: “por causa da máxima potência de seu intelecto” → “por causa do máximo poder de seu intelecto” — *virtus* como força do intelecto → “poder” (Key Terms).
+- `pt-BR/b1-ch070.md` [8]: “não se julga pequena uma potência” → “não se julga pequeno um poder” — *virtus* como capacidade de produzir efeitos → “poder” (Key Terms).
+- `pt-BR/b1-ch070.md` [8]: “pois a potência capaz de coisas grandes” → “pois o poder capaz de coisas grandes” — *virtus* como capacidade de produzir efeitos → “poder” (Key Terms).
+- `pt-BR/b1-ch071.md` [14]: “sua relação com essa espécie” → “sua proporção com essa espécie” — *proportio* → “proporção” (Key Terms), inclusive como relação em sentido amplo.
+- `pt-BR/b1-ch071.md` [14]: “como a relação da potência com o ato” → “como a proporção da potência com o ato” — *proportio* → “proporção” (Key Terms).
+- `pt-BR/b1-ch075.md` [8]: “quanto mais perfeita é a potência de algo” → “quanto mais perfeito é o poder de algo” — *virtus* como força causal ativa → “poder” (Key Terms).
+- `pt-BR/b1-ch075.md` [8]: “segundo toda a sua potência” → “segundo todo o seu poder” — *virtus* → “poder” (Key Terms); aqui exprime a força da essência divina.
+
+### Part terms 1 of 9, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 5 minor. Delta read of 37 changes. Found 2 reversions owed to the specific Key Terms row for simplicis intelligentiae, 1 broken agreement in ch070 [8], 1 virtus left as “potência” in ch069 [10], and 1 contradictory simpliciter row in the journal.
+- `pt-BR/b1-ch066.md` [12]: “segundo o conhecimento de simples intelecção” → “segundo o conhecimento de simples inteligência” — notitia simplicis intelligentiae: the Key Terms row gives the specific term “conhecimento de simples inteligência” for cap. 66, which overrides the general intelligentia → intelecção; the previous fix contradicted it
+- `pt-BR/b1-ch069.md` [18]: “pela ciência de simples intelecção” → “pela ciência de simples inteligência” — scientia simplicis intelligentiae: the Key Terms row and the Decisões entry for cap. 69 give “simples inteligência”; the previous fix contradicted them
+- `pt-BR/b1-ch070.md` [8]: “mas por estar limitada a elas” → “mas por estar limitado a elas” — the previous fix changed the subject to “um poder” (masc.); the participle must agree
+- `pt-BR/b1-ch069.md` [10]: “assim como toda potência, quanto mais forte, tanto mais unificada é” → “assim como todo poder, quanto mais forte, tanto mais unificado é” — omnis virtus as an active force → “poder” (Key Terms), as in the neighbouring corrected passages
+- `pt-BR/translation-journal.md`: “| simpliciter | absolutamente | |” → “| simpliciter | em sentido absoluto | |” — the row contradicts the later row “simpliciter / secundum quid | em sentido absoluto” and the rendering now used throughout
+- Rejected: pt-BR/b1-ch059.md [4], [6] — “simples intelecção” for simplici intelligentia, after reverting chs. 66/69 — here it names the divine act of understanding itself, not the formula notitia simplicis intelligentiae, so the general term intelligentia → intelecção applies
+- Rejected: pt-BR/b1-ch049.md [7] — “em primeiro lugar e por si” instead of “primeira e essencialmente” — the Key Terms table limits “primeira e essencialmente” to cap. 48; elsewhere per se keeps “por si”
+- Rejected: pt-BR/b1-ch071.md [14] — regency of “proporção com” — acceptable regency; the sense is preserved
+
+### Part terms 1 of 9, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 1 minor. Verificadas as cinco alterações, todos os parágrafos mostrados e a nota do tradutor; encontrado um desvio terminológico menor. Os demais alertas mecânicos não são verificáveis nos trechos fornecidos.
+- `pt-BR/b1-ch069.md` [11]: “o intelecto divino é absolutamente perfeito” → “o intelecto divino é perfeito em sentido absoluto” — Perfectus simpliciter: o sentido está correto, mas a forma diverge de “em sentido absoluto”, agora estabelecida nas duas entradas do glossário para simpliciter.
+- Rejected: pt-BR/b1-ch066.md [12]; pt-BR/b1-ch069.md [18] — “Simples inteligência” poderia contrariar intelligentia → intelecção. — A expressão técnica tem tradução específica no glossário e nas decisões, que justifica as duas correções.
+
+### Part terms 1 of 9, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of b1-ch069 [10]–[12] and note [^15]: the simpliciter fix is correct and no defects were found.
+- Rejected: pt-BR/b1-ch069.md [11] — “perfeito em sentido absoluto” for perfectus simpliciter — Matches the source and the Key Terms row for simpliciter; the sentence and its concord are intact.
+- Rejected: pt-BR/b1-ch069.md [11] — “uma perfeição inteligível dele” for eius perfectio intelligibilis is ambiguous — The Latin eius is equally open, and the argument reads correctly either way.
+- Rejected: pt-BR/translation-journal.md — Audit: “ciência ou conhecimento” ×0 in pt-BR — The row lists two alternative renderings, not a literal phrase, so a zero count is not a false claim.
+- Rejected: pt-BR/translation-journal.md — Audit: rows for intensio et remissio, praeventio, idiota, conversio substantialis have zero hits — Those chapters were not shown in this delta read, so the hits cannot be checked here.
+- Rejected: pt-BR/b1-ch069.md [13] — Audit: length outlier (163%) — Paragraph [13] was not shown in this delta read.
+
+### Part terms 2 of 9, Round 1 (codex, terms read)
+Verdict: 5 meaning-level, 27 minor. 189 parágrafos sinalizados lidos; 26 apresentam deriva terminológica, com uma correção adicional de sentido e uma complementação do glossário.
+- `pt-BR/b1-ch082.md` [4]: “toda potência que está aberta” → “todo poder que está aberto” — *virtus* → “poder”; distingue o poder da potencialidade mencionada a seguir. *(meaning)*
+- `pt-BR/b1-ch082.md` [9]: “imperfeição da potência” → “imperfeição do poder” — *virtutis* → “poder”; preserva a distinção em relação à potencialidade. *(meaning)*
+- `pt-BR/b1-ch082.md` [11]: “os enunciados são possíveis” → “os enunciáveis são possíveis” — *enuntiabilia* → “enunciáveis” (Key Terms).
+- `pt-BR/b1-ch082.md` [11]: “um enunciado não necessário” → “um enunciável não necessário” — *enuntiabile* → “enunciável” (Key Terms).
+- `pt-BR/b1-ch082.md` [11]: “um enunciado possível” → “um enunciável possível” — *enuntiabile* → “enunciável” (Key Terms).
+- `pt-BR/b1-ch085.md` [4]: “quando a potência agente é forte” → “quando o poder agente é forte” — *virtus agens* → “poder agente” (Key Terms).
+- `pt-BR/b1-ch086.md` [8]: “a necessidade que decorre de uma suposição” → “a necessidade por suposição” — *necessitatem quae est ex suppositione* → “necessidade por suposição” (Key Terms).
+- `pt-BR/b1-ch089.md` [15]: “aquilo que é simplesmente bom” → “aquilo que é bom em sentido absoluto” — *simpliciter* → “em sentido absoluto” (Key Terms).
+- `pt-BR/b1-ch090.md` [5]: “o bem ou o mal de modo absoluto” → “o bem ou o mal em sentido absoluto” — *malum simpliciter* e *simpliciter* → “mal em sentido absoluto” e “em sentido absoluto” (Key Terms).
+- `pt-BR/b1-ch091.md` [6]: “o amor é uma força unitiva” → “o amor é um poder unitivo” — *virtus* como força ativa → “poder” (Key Terms).
+- `pt-BR/b1-ch102.md` [11]: “a primazia e o governo de todos os entes” → “a primazia e a direção de todos os entes” — *regimen* → “direção” (Key Terms).
+- `pt-BR/b2-ch002.md` [5]: “compreendam que aquele que fez” → “entendam que aquele que fez” — *intelligant*, forma de *intelligere* → “entendam” (Key Terms).
+- `pt-BR/b2-ch002.md` [6]: “não puderam conhecer aquele que é” → “não puderam entender aquele que é” — *intelligere* → “entender” (Key Terms).
+- `pt-BR/b2-ch003.md` [5]: “ou a realização de milagres” → “ou a operação de milagres” — *operationem* → “operação” (Key Terms).
+- `pt-BR/b2-ch004.md` [7]: “vossa sabedoria e vosso entendimento” → “vossa sabedoria e vosso intelecto” — *intellectus* → “intelecto” (Key Terms).
+- `pt-BR/b2-ch006.md` [8]: “não lhe faltará a virtude de comunicar” → “não lhe faltará o poder de comunicar” — *virtus* designa o poder ativo de comunicar o ser, não uma virtude. *(meaning)*
+- `pt-BR/b2-ch007.md` [8]: “Vosso poder, ó Deus” → “Vossa potência, ó Deus” — *potentiam* → “potência” (Key Terms).
+- `pt-BR/b2-ch013.md` [6]: “somente segundo o modo de entender” → “somente segundo o modo de intelecção” — *intelligentiae* → “intelecção” (Key Terms).
+- `pt-BR/b2-ch014.md` [3]: “tanto maior é sua virtude” → “tanto maior é seu poder” — *virtutis* designa poder causal, não virtude. *(meaning)*
+- `pt-BR/b2-ch015.md` [6]: “causa universal do governo no reino” → “causa universal da direção no reino” — *regiminis* → “direção” (Key Terms).
+- `pt-BR/b2-ch025.md` [12]: “Deus não pode fazer tudo o que é contrário” → “Deus não pode fazer nada do que é contrário” — *non posse quicquid est contra* exclui cada coisa contrária à razão de ente; “não pode fazer tudo” enfraquece a negação. *(meaning)*
+- `pt-BR/b2-ch028.md` [3]: “Deus não agiu por necessidade” → “Deus não operou por necessidade” — *operatus est* → “operou” (Key Terms).
+- `pt-BR/b2-ch028.md` [9]: “ele não produz as coisas por uma dívida” → “ele não opera as coisas por uma dívida” — *operatur* → “opera” (Key Terms).
+- `pt-BR/b2-ch030.md` [3]: “algumas que devem existir de modo absoluto e sem restrição” → “algumas que devem existir em sentido absoluto e de modo absoluto” — Preserva *simpliciter* → “em sentido absoluto” e a coordenação com *absolute*.
+- `pt-BR/b2-ch030.md` [4]: “devem existir de modo absoluto e sem restrição aquelas coisas” → “devem existir em sentido absoluto e de modo absoluto aquelas coisas” — Preserva *simpliciter* → “em sentido absoluto” e a coordenação com *absolute*.
+- `pt-BR/b2-ch030.md` [4]: “Logo, devem existir de modo absoluto e sem restrição.” → “Logo, devem existir de modo absoluto e em sentido absoluto.” — Preserva *simpliciter* → “em sentido absoluto”, após *absolute*.
+- `pt-BR/b2-ch032.md` [8]: “o aperfeiçoamento de sua capacidade de agir” → “o aperfeiçoamento de seu poder de agir” — *virtutis* → “poder” (Key Terms); a ocorrência seguinte está representada pelo pronome “a”.
+- `pt-BR/b2-ch033.md` [8]: “não se pode conceber que haja tempo” → “não se pode entender que haja tempo” — *intelligi*, forma de *intelligere* → “entender” (Key Terms).
+- `pt-BR/b2-ch033.md` [8]: “não se pode conceber uma linha” → “não se pode entender uma linha” — *intelligi*, forma de *intelligere* → “entender” (Key Terms).
+- `pt-BR/b2-ch035.md` [5]: “a ação da potência motora” → “a ação do poder motor” — *virtutis motivae* → “poder motor” (Key Terms).
+- `pt-BR/b2-ch037.md` [7]: “não se pode conceber a transformação” → “não se pode entender a transformação” — *intelligi*, forma de *intelligere* → “entender” (Key Terms).
+- `pt-BR/translation-journal.md`: “| intellectus / intelligere / intelligentia | intelecto / entender / intelecção | Quando intelligentia designa a faculdade intelectual ou uma substância intelectual separada, “inteligência” |” → “| intellectus / intelligere / intelligentia | intelecto / entender / intelecção | “Inteligência” quando intelligentia designa a capacidade de entender nas citações bíblicas ou uma substância intelectual separada na exposição da doutrina de Avicena. |” — A linha omite dois sentidos distintos do ato de intelecção, corretamente vertidos por “inteligência” em b1-ch093 [12], b1-ch094 [6] e b2-ch042 [13].
+
+### Part terms 2 of 9, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 15 minor. Delta read das 32 correções da rodada 1 e seus vizinhos. A maioria está correta; 15 ajustes menores: concordâncias quebradas, reversão contrária à tabela em b2-ch035, “virtude” restante para virtus e linha do diário desatualizada.
+- `pt-BR/b1-ch082.md` [8]: “uma potência pode estar aberta a qualquer” → “um poder pode estar aberto a qualquer” — alicui virtuti; alinha com “poder” introduzido em [4] e [9], evitando confusão com a potencialidade
+- `pt-BR/b1-ch082.md` [8]: “por parte de si mesma; de outro” → “por parte de si mesmo; de outro” — concordância com “um poder”
+- `pt-BR/b1-ch082.md` [9]: “Por parte de si mesma, quando” → “Por parte de si mesmo, quando” — concordância com “poder” de [8]
+- `pt-BR/b1-ch082.md` [9]: “manifesta que nela há potencialidade” → “manifesta que nele há potencialidade” — in ipsa refere-se a virtus, agora “poder”; “nela” ficou sem antecedente
+- `pt-BR/b1-ch082.md` [10]: “uma potência se encontra aberta” → “um poder se encontra aberto” — aliqua virtus; coerência com [8]–[9]
+- `pt-BR/b1-ch082.md` [10]: “não pertence à imperfeição da potência” → “não pertence à imperfeição do poder” — imperfectionem virtutis; mesma expressão já corrigida em [9]
+- `pt-BR/b1-ch082.md` [10]: “estando aberta a ambos” → “estando aberto a ambos” — concordância com “um poder”
+- `pt-BR/b2-ch032.md` [8]: “remoção de algo que a impede” → “remoção de algo que o impede” — impedientis virtutem; o pronome retoma “seu poder”, masculino após a correção anterior
+- `pt-BR/b2-ch035.md` [5]: “a ação do poder motor” → “a ação da potência motora” — Key Terms: virtus → “potência” quando designa faculdade motora; a correção anterior contrariou a tabela
+- `pt-BR/b2-ch002.md` [5]: “altíssima virtude de Deus” → “altíssimo poder de Deus” — virtus como poder ativo → “poder” (Key Terms)
+- `pt-BR/b2-ch002.md` [5]: “a virtude de quem faz é superior” → “o poder de quem faz é superior” — virtus facientis → “poder” (Key Terms)
+- `pt-BR/b2-ch002.md` [5]: “sua virtude eterna” → “seu poder eterno” — sempiterna virtus → “poder” (Key Terms)
+- `pt-BR/b2-ch003.md` [6]: “a virtude divina que opera” → “o poder divino que opera” — divinae virtuti operanti → “poder” (Key Terms)
+- `pt-BR/b1-ch102.md` [11]: “possui uma virtude infinita” → “possui um poder infinito” — infinitam virtutem, poder ativo → “poder” (Key Terms)
+- `pt-BR/translation-journal.md`: “| amor / unitiva virtus | amor / força unitiva | |” → “| amor / unitiva virtus | amor / poder unitivo | |” — b1-ch091 [6] agora traz “poder unitivo”
+- Rejected: pt-BR/b2-ch002.md [5] — audit: 10 marcadores de ênfase na fonte e 8 no pt-BR — *mirati sunt* foi incorporado ao primeiro trecho itálico pela reordenação; todo o texto citado continua em itálico
+- Rejected: pt-BR/b2-ch037.md [7] — audit: palavra repetida “nada nada” — “do nada nada se faz” é correto
+- Rejected: pt-BR/b2-ch028.md [9] — “opera as coisas” é regência incomum — segue res operatur e o termo da tabela; compreensível
+- Rejected: journal Key Terms — audit: formas sem ocorrência (ciência ou conhecimento, intensificação e diminuição etc.) — as linhas descrevem alternativas ou ocorrências em outras partes; nada a verificar no trecho mostrado
+
+### Part terms 2 of 9, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 2 minor. Conferidas as 15 alterações e lidos integralmente os 21 parágrafos mostrados e a nota do tradutor; encontrados dois defeitos menores.
+- `pt-BR/b2-ch002.md` [5]: “à admiração da altíssimo poder de Deus” → “à admiração do altíssimo poder de Deus” — A substituição por “poder” exige a contração masculina “do”.
+- `pt-BR/translation-journal.md`: “A maioria está correta; 17 ajustes menores:” → “A maioria está correta; 15 ajustes menores:” — A rodada 2 enumera 15 correções, conforme também informa seu veredito.
+
+### Part terms 2 of 9, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read: both round 3 changes (the “do” contraction in b2-ch002 [5] and the count of 15 in the journal) are correct; b2-ch002 [4]–[6] read whole with no defects.
+- Rejected: pt-BR/b2-ch002.md [5] — Check of “do altíssimo poder de Deus” — “poder” is masculine, so the contraction “do” is correct; the sentence stays grammatical and faithful to *in admirationem altissimae Dei virtutis*.
+- Rejected: pt-BR/translation-journal.md — Check of “15 ajustes menores” — Round 2 lists exactly 15 fixes, and its verdict line says the same.
+- Rejected: pt-BR/b2-ch002.md [5] — *virtutem* in Wisdom 13:4 is rendered “força”, not “poder” as in the Key Terms — This is Bible wording, and it pairs with *fortior* (“mais forte”). The Key Terms row covers *virtus* as an agent's active power in the exposition. The sense is unchanged.
+- Rejected: pt-BR/b2-ch002.md [5] — Audit flag: source has 10 emphasis markers, pt-BR has 8 — Already rejected in round 2. The reordering merged *mirati sunt* into the first italic span, and all quoted text is still in italics.
+- Rejected: pt-BR/b2-ch002.md [6] — *animos hominum* rendered “os corações humanos” — A defensible idiomatic choice, kept distinct from *animas* (“almas”) in the same sentence. It is not a defect.
+
+### Part terms 3 of 9, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 23 minor. 173 parágrafos sinalizados lidos; deriva em 15 parágrafos, com 21 correções textuais e 2 complementos de glossário.
+- `pt-BR/translation-journal.md`: “| virtus (força ativa) | poder | Conforme o Compêndio de Teologia; quando designa uma faculdade da alma, “potência” ou “faculdade” |” → “| virtus (força ativa) | poder | Conforme o Compêndio de Teologia; quando designa uma faculdade corporal ou da alma, “potência” ou “faculdade” |” — As ocorrências distinguem consistentemente as faculdades do sentido de força ativa.
+- `pt-BR/translation-journal.md`: “| intellectus / intelligere / intelligentia | intelecto / entender / intelecção | Intelligentia: “inteligência” quando designa uma substância intelectual, como nas citações do Livro das causas; “concepção intelectual” quando designa o conteúdo concebido, como no livro II, cap. 92 |” → “| intellectus / intelligere / intelligentia | intelecto / entender / intelecção | Quando intelligentia designa a faculdade intelectual ou uma substância intelectual separada, “inteligência” |” — “Inteligência”, especialmente na expressão aviceniana “inteligência agente”, designa a faculdade ou a substância, enquanto “intelecção” designa o ato.
+- `pt-BR/b2-ch049.md` [4]: “contenha algo senão por uma correspondência de quantidade” → “contenha algo senão por uma comensuração de quantidade” — *commensuratio* → “comensuração” (Key Terms); estava “correspondência”.
+- `pt-BR/b2-ch049.md` [4]: “coisa entendida por uma correspondência de quantidade” → “coisa entendida por uma comensuração de quantidade” — *commensuratio* → “comensuração” (Key Terms); estava “correspondência”.
+- `pt-BR/b2-ch050.md` [6]: “como a virtude do primeiro agente no instrumento” → “como o poder do primeiro agente no instrumento” — *virtus* como força ativa → “poder” (Key Terms); estava “virtude”.
+- `pt-BR/b2-ch053.md` [4]: “a relação de uma com a outra é como a relação da potência com o ato” → “a proporção de uma com a outra é como a proporção da potência com o ato” — *proportio* → “proporção” (Key Terms), nas duas ocorrências; estava “relação”.
+- `pt-BR/b2-ch055.md` [16]: “segundo a capacidade de seus princípios naturais” → “segundo o poder de seus princípios naturais” — *virtus* dos princípios naturais que resistem à corrupção → “poder” (Key Terms).
+- `pt-BR/b2-ch055.md` [16]: “cujos princípios têm capacidade para conservar” → “cujos princípios têm poder para conservar” — *virtus* de conservar o ser → “poder” (Key Terms); estava “capacidade”.
+- `pt-BR/b2-ch055.md` [16]: “cujos princípios não têm capacidade para isso” → “cujos princípios não têm poder para isso” — *virtus* de conservar o ser → “poder” (Key Terms); estava “capacidade”.
+- `pt-BR/b2-ch057.md` [8]: “a ação se segue à forma e à potência” → “a ação se segue à forma e ao poder” — *virtus* como força ativa do agente → “poder” (Key Terms); estava “potência”.
+- `pt-BR/b2-ch057.md` [8]: “cujas formas e potências são diversas” → “cujas formas e poderes são diversos” — *virtutes* como forças ativas dos agentes → “poderes” (Key Terms).
+- `pt-BR/b2-ch058.md` [10]: “três almas distintas em substância” → “três almas diferentes em substância” — *differentes* → “diferentes”, derivação de “diferença” (Key Terms); estava “distintas”.
+- `pt-BR/b2-ch059.md` [8]: “haja num corpo uma potência infinita” → “haja num corpo um poder infinito” — *virtutem infinitam* → “poder infinito” (Key Terms).
+- `pt-BR/b2-ch059.md` [8]: “tem, de certo modo, potência infinita” → “tem, de certo modo, poder infinito” — *virtutis infinitae* → “poder infinito” (Key Terms).
+- `pt-BR/b2-ch059.md` [16]: “foi enganado por um equívoco” → “foi enganado por uma equivocidade” — *aequivocatio* → “equivocidade” (Key Terms); estava “equívoco”.
+- `pt-BR/b2-ch068.md` [8]: “o corpo humano, de temperamento equilibrado” → “o corpo humano, de compleição equilibrada” — *aequaliter complexionatum* corresponde à forma adjetival de “equilíbrio da compleição” (Key Terms).
+- `pt-BR/b2-ch073.md` [21]: “quanto ao entendimento de espécies diversas” → “quanto à intelecção de espécies diversas” — *intelligentia* como ato → “intelecção” (Key Terms); estava “entendimento”.
+- `pt-BR/b2-ch077.md` [4]: “em potência sob um aspecto e em ato sob outro” → “em potência sob certo aspecto e em ato sob outro” — *secundum quid* → “sob certo aspecto” (Key Terms).
+- `pt-BR/b2-ch079.md` [8]: “mas de modo absoluto” → “mas em sentido absoluto” — *simpliciter* → “em sentido absoluto” (Key Terms).
+- `pt-BR/b2-ch079.md` [8]: “apreende o ser de modo absoluto” → “apreende o ser em sentido absoluto” — *simpliciter* → “em sentido absoluto” (Key Terms).
+- `pt-BR/b2-ch081.md` [6]: “Alguns concederam simplesmente a conclusão” → “Alguns concederam a conclusão em sentido absoluto” — *simpliciter* indica a concessão sem restrição → “em sentido absoluto” (Key Terms).
+- `pt-BR/b2-ch081.md` [7]: “a matéria primeira é ingênita e incorruptível” → “a matéria primeira é não gerada e incorruptível” — *ingenitus* → “não gerado” (Key Terms), com concordância feminina; estava “ingênita”.
+- `pt-BR/b2-ch081.md` [11]: “pelo conhecimento intelectual das coisas que alguém conheceu antes. Esse conhecimento” → “pela intelecção das coisas que alguém conheceu antes. Essa intelecção” — *intelligentia* como ato de entender → “intelecção” (Key Terms), ajustando também a retomada.
+
+### Part terms 3 of 9, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of the 23 changes from round 1 (journal rows and paragraphs in b2-ch049 through ch081) and their neighbours. All changes are correct and nothing new was found.
+- Rejected: pt-BR/b2-ch053.md [4] — “proporção de uma com a outra” might be a regency slip for “proporção de uma para a outra” — “proporção com” is acceptable Portuguese regency, and both occurrences render *proportio* faithfully.
+- Rejected: pt-BR/b2-ch068.md [8] — “compleição equilibrada” departs from the Key Terms row “complexio | temperamento” (cap. 63) — The table also has “complexio | compleição” and “aequalitas complexionis | equilíbrio da compleição”; the change follows the most specific row, and the sense is unchanged.
+- Rejected: pt-BR/b2-ch077.md [4] — “virtus activa” is rendered “potência ativa” rather than “poder” — Here *virtus* names a faculty of the soul (the agent intellect). The Key Terms row allows “potência” or “faculdade” for that sense.
+- Rejected: pt-BR/b2-ch059.md [17] — In “operação pertencente à vida mais elevada”, the phrase “mais elevada” could be read as qualifying “vida” — The context (“mais elevada do que no animal”) resolves it toward “operação”, and the conclusion stands as written. This is a style question, not a defect.
+
+### Part terms 4 of 9, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 39 minor. 160 flags lidos; desvios em 24 parágrafos, com 37 correções textuais e 2 linhas de glossário ampliadas.
+- `pt-BR/translation-journal.md`: “| virtus (força ativa) | poder | Conforme o Compêndio de Teologia |” → “| virtus (força ativa) | poder | Conforme o Compêndio de Teologia; quando designa uma faculdade da alma, “potência” ou “faculdade” |” — A linha não contempla o sentido de faculdade da alma, corretamente traduzido por “potência” ou “faculdade” em várias ocorrências.
+- `pt-BR/translation-journal.md`: “| intellectus / intelligere / intelligentia | intelecto / entender / intelecção | “Inteligência” quando designa uma substância intelectual separada ou sua faculdade cognoscitiva, como em “inteligência agente” e “inteligência angélica”. |” → “| intellectus / intelligere / intelligentia | intelecto / entender / intelecção | Intelligentia: “inteligência” quando designa uma substância intelectual, como nas citações do Livro das causas; “concepção intelectual” quando designa o conteúdo concebido, como no livro II, cap. 92 |” — Intelligentia também designa uma substância intelectual ou um conteúdo concebido; nesses sentidos, as traduções encontradas são adequadas.
+- `pt-BR/b2-ch083.md` [29]: “um impedimento ao entendimento” → “um impedimento à intelecção” — *intelligentiae* → “intelecção” (Key Terms); aqui designa a operação de entender.
+- `pt-BR/b2-ch083.md` [31]: “aplicar a força dos primeiros princípios” → “aplicar o poder dos primeiros princípios” — *virtutem* → “poder” (Key Terms); estava “força”.
+- `pt-BR/b2-ch086.md` [6]: “em ato no sêmen separado” → “em ato no sêmen emitido” — *semine deciso* refere-se à emissão do sêmen, não à divisão de animais.
+- `pt-BR/b2-ch086.md` [7]: “começa de modo absoluto” → “começa em sentido absoluto” — *simpliciter* → “em sentido absoluto” (Key Terms).
+- `pt-BR/b2-ch090.md` [13]: “a potência motora dessa substância” → “o poder motor dessa substância” — *virtutem motivam* → “poder motor”; trata-se da força ativa do motor.
+- `pt-BR/b2-ch090.md` [13]: “a potência de qualquer motor próprio” → “o poder de qualquer motor próprio” — *virtus* → “poder” (Key Terms); estava “potência”.
+- `pt-BR/b2-ch090.md` [13]: “a potência de uma substância intelectual” → “o poder de uma substância intelectual” — *virtus* → “poder” (Key Terms); designa sua força ativa para mover.
+- `pt-BR/b2-ch091.md` [10]: “recebendo das imagens da imaginação” → “recebendo dos fantasmas” — *phantasmatibus* → “fantasmas” (Key Terms); estava parafraseado.
+- `pt-BR/b2-ch091.md` [11]: “pelas observações dos astrônomos” → “pelas considerações dos astrônomos” — *considerationes* → “considerações” (Key Terms); estava “observações”.
+- `pt-BR/b2-ch094.md` [7]: “recebendo das imagens da imaginação” → “recebendo dos fantasmas” — *phantasmatibus* → “fantasmas” (Key Terms).
+- `pt-BR/b2-ch094.md` [7]: “necessariamente se encontram essas imagens” → “necessariamente se encontram esses fantasmas” — *phantasmata* → “fantasmas” (Key Terms); ajustada a concordância.
+- `pt-BR/b2-ch096.md` [5]: “é a imagem da imaginação” → “é o fantasma” — *phantasma* → “fantasma” (Key Terms).
+- `pt-BR/b2-ch096.md` [5]: “nem a imagem da imaginação” → “nem o fantasma” — *phantasma* → “fantasma” (Key Terms).
+- `pt-BR/b2-ch096.md` [5]: “algo mais elevado que a imagem da imaginação” → “algo mais elevado que o fantasma” — *phantasmate* → “fantasma” (Key Terms).
+- `pt-BR/b2-ch096.md` [5]: “nada é mais elevado que essa imagem” → “nada é mais elevado que esse fantasma” — *phantasmate* → “fantasma” (Key Terms); ajustada a concordância.
+- `pt-BR/b2-ch096.md` [7]: “nossos inteligíveis nas imagens da imaginação” → “nossos inteligíveis nos fantasmas” — *phantasmatibus* → “fantasmas” (Key Terms).
+- `pt-BR/b2-ch096.md` [12]: “recebemos o conhecimento das imagens da imaginação” → “recebemos o conhecimento dos fantasmas” — *phantasmatibus* → “fantasmas” (Key Terms).
+- `pt-BR/b2-ch098.md` [18]: “vista por outra mediante sua essência” → “vista por outra por sua essência” — *per essentiam* → “por essência” (Key Terms), conservando o possessivo do original.
+- `pt-BR/b2-ch098.md` [20]: “por essência, presença e poder” → “por essência, presença e potência” — *potentiam* → “potência” (Key Terms); estava “poder”.
+- `pt-BR/b2-ch099.md` [6]: “no livro Da Trindade” → “no livro Sobre a Trindade” — *De Trinitate* → “Sobre a Trindade” (Key Terms).
+- `pt-BR/b3-ch001.md` [7]: “se isente de seu governo” → “se isente de sua direção” — *regimine* → “direção” (Key Terms); estava “governo”.
+- `pt-BR/b3-ch001.md` [8]: “O efeito desse governo” → “O efeito dessa direção” — *regiminis* → “direção” (Key Terms).
+- `pt-BR/b3-ch001.md` [8]: “submetem-se ao governo divino” → “submetem-se à direção divina” — *divino regimini* → “direção divina” (Key Terms).
+- `pt-BR/b3-ch001.md` [8]: “por esse governo admitidas” → “por essa direção admitidas” — *ex divino regimine* → “direção” (Key Terms).
+- `pt-BR/b3-ch001.md` [9]: “ao governo do primeiro governante” → “à direção do primeiro governante” — *regimini* → “direção” (Key Terms).
+- `pt-BR/b3-ch001.md` [10]: “da ordem do primeiro governo” → “da ordem da primeira direção” — *primi regiminis* → “primeira direção” (Key Terms).
+- `pt-BR/b3-ch001.md` [11]: “manifestar o governo divino” → “manifestar a direção divina” — *divinum regimen* → “direção divina” (Key Terms).
+- `pt-BR/b3-ch001.md` [11]: “sujeitos ao seu governo” → “sujeitos à sua direção” — *eius regimini* → “sua direção” (Key Terms).
+- `pt-BR/b3-ch001.md` [12]: “o modo desse governo” → “o modo dessa direção” — *regiminis* → “direção” (Key Terms).
+- `pt-BR/b3-ch001.md` [12]: “seguindo seu governo” → “seguindo sua direção” — *eius regimen* → “sua direção” (Key Terms).
+- `pt-BR/b3-ch001.md` [12]: “a ordem reta do governo divino” → “a ordem reta da direção divina” — *divini regiminis* → “direção divina” (Key Terms).
+- `pt-BR/b3-ch001.md` [13]: “a razão desse governo universal” → “a razão dessa direção universal” — *universalis regiminis* → “direção universal” (Key Terms).
+- `pt-BR/b3-ch001.md` [14]: “de seu governo universal” → “de sua direção universal” — *de regimine universali* → “direção universal” (Key Terms).
+- `pt-BR/b3-ch001.md` [14]: “de seu governo especial” → “de sua direção especial” — *de speciali regimine* → “direção especial” (Key Terms).
+- `pt-BR/b3-ch004.md` [9]: “não tem a forma apreendida” → “não tem a espécie apreendida” — *speciem apprehensam* → “espécie apreendida” (Key Terms); estava “forma”.
+- `pt-BR/b3-ch006.md` [6]: “da devida proporção na ação” → “da devida comensuração na ação” — *commensurationis* → “comensuração” (Key Terms), preservando a distinção de *proportio*.
+- `pt-BR/b3-ch006.md` [6]: “alguma ordem e alguma proporção” → “alguma ordem e alguma comensuração” — *commensuratio* → “comensuração” (Key Terms); estava “proporção”.
+
+### Part terms 4 of 9, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of the 39 changes from round 1 (journal, b2-ch083 to b3-ch006) and their neighbours: all correct, with no defects in concord, regency or content.
+- Rejected: pt-BR/b2-ch090.md [13] — “poder motor” for *virtutem motivam* may clash with the current virtus row, which gives “potência” for a motor faculty — Here *virtus motiva* is the active power by which a separate substance moves a body, not a faculty of the soul; “poder” follows the main rule of the row.
+- Rejected: pt-BR/b2-ch086.md [7]–[8] — *virtus activa quae est in semine* is rendered “potência ativa”, not “poder” — The previous round did not touch it, and the journal records that *virtus* is also rendered “potência” depending on context. It is a defensible choice that does not change the sense.
+- Rejected: pt-BR/b2-ch098.md [20] — “mediante sua essência” remains even though [18] was standardized to “por sua essência” — “Por essência” in the same sentence already follows the table, and “mediante” is not wrong. Changing it would be style only.
+- Rejected: pt-BR/b2-ch096.md [5] — “esse fantasma” adds a demonstrative absent from *phantasmate* — The demonstrative refers back to the phantasm just mentioned and changes neither the sense nor the argument.
+- Rejected: pt-BR/translation-journal.md (virtus and intelligentia rows) — The text of these rows differs from the “new” text recorded by the previous round — The journal is shared by the whole book, and another part may have edited these rows since. Their current content is not false for the chapters in this part, and their claims about other parts cannot be verified from here.
+- Rejected: pt-BR/b3-ch004.md [9] — “espécie apreendida” may sound odd where *species* means appearance — “Espécie” is the table term and fits the scholastic sense of apprehended form, so it is not a defect.
+
+### Part terms 5 of 9, Round 1 (codex, terms read)
+Verdict: 17 meaning-level, 27 minor. 189 parágrafos sinalizados lidos; 27 apresentaram desvio terminológico; uma linha do glossário foi ampliada.
+- `pt-BR/translation-journal.md`: “| intellectus / intelligere / intelligentia | intelecto / entender / intelecção | “Intelligentia” como substância intelectual separada: “inteligência”; “intellectus” como dom espiritual: “entendimento” |” → “| intellectus / intelligere / intelligentia | intelecto / entender / intelecção | “Inteligência” quando designa uma substância intelectual separada ou sua faculdade cognoscitiva, como em “inteligência agente” e “inteligência angélica”. |” — A linha não contempla intelligentia como substância intelectual ou faculdade cognoscitiva, sentidos corretamente traduzidos por “inteligência”.
+- `pt-BR/b3-ch036.md` [2]: “no exercício da arte” → “na operação da arte” — operatio → “operação” (Key Terms); estava “exercício”.
+- `pt-BR/b3-ch037.md` [9]: “todo o governo da vida civil” → “toda a direção da vida civil” — regimen → “direção” (Key Terms); estava “governo”.
+- `pt-BR/b3-ch046.md` [9]: “como algo existente em ato” → “como um ente em ato” — ens → “ente” (Key Terms); estava “algo existente”.
+- `pt-BR/b3-ch047.md` [2]: “ver Deus em sua essência” → “ver Deus por essência” — per essentiam → “por essência” (Key Terms); estava “em sua essência”.
+- `pt-BR/b3-ch048.md` [3]: “ele seja conhecido em sua essência” → “ele seja conhecido por essência” — per essentiam → “por essência” (Key Terms); estava “em sua essência”.
+- `pt-BR/b3-ch049.md` [2]: “não veem Deus em sua essência” → “não veem Deus por essência” — per essentiam → “por essência” (Key Terms); estava “em sua essência”.
+- `pt-BR/b3-ch049.md` [10]: “Deus possa ser visto em sua essência” → “Deus possa ser visto por essência” — per essentiam → “por essência” (Key Terms); estava “em sua essência”.
+- `pt-BR/b3-ch051.md` [2]: “Deus pode ser visto em sua essência” → “Deus pode ser visto por essência” — per essentiam → “por essência” (Key Terms); estava “em sua essência”.
+- `pt-BR/b3-ch052.md` [2]: “ver Deus em sua essência” → “ver Deus por essência” — per essentiam → “por essência” (Key Terms); estava “em sua essência”.
+- `pt-BR/b3-ch053.md` [2]: “ver Deus em sua essência” → “ver Deus por essência” — per essentiam → “por essência” (Key Terms); estava “em sua essência”.
+- `pt-BR/b3-ch054.md` [2]: “Deus não pode ser visto em sua essência” → “Deus não pode ser visto por essência” — per essentiam → “por essência” (Key Terms); estava “em sua essência”.
+- `pt-BR/b3-ch063.md` [6]: “para as atividades civis” → “para as operações civis” — operatio → “operação” (Key Terms); estava “atividades”.
+- `pt-BR/b3-ch063.md` [9]: “de alguma inquietação que perturbe” → “de alguma preocupação que perturbe” — sollicitudo → “preocupação” quando designa inquietação (Key Terms).
+- `pt-BR/b3-ch063.md` [10]: “a perfeita perpetuidade” → “a perfeita sempiternidade” — sempiternitas → “sempiternidade” (Key Terms); estava “perpetuidade”.
+- `pt-BR/b3-ch067.md` [4]: “decorre de alguma potência é atribuída” → “decorre de algum poder é atribuída” — virtus, força ativa, → “poder” (Key Terms); “potência” confunde a terminologia de virtus e potentia. *(meaning)*
+- `pt-BR/b3-ch067.md` [4]: “deu essa potência” → “deu esse poder” — virtus → “poder” (Key Terms), conservando a referência à força ativa. *(meaning)*
+- `pt-BR/b3-ch067.md` [4]: “toda potência de qualquer agente” → “todo poder de qualquer agente” — virtus, força ativa, → “poder” (Key Terms); estava “potência”. *(meaning)*
+- `pt-BR/b3-ch067.md` [4]: “como toda operação decorre de alguma potência,” → “como toda operação decorre de algum poder,” — virtus, força ativa, → “poder” (Key Terms); estava “potência”. *(meaning)*
+- `pt-BR/b3-ch067.md` [6]: “aplica uma potência ativa à ação” → “aplica um poder ativo à ação” — virtus activa → “poder ativo” (Key Terms); estava “potência ativa”. *(meaning)*
+- `pt-BR/b3-ch067.md` [6]: “aplica a potência de uma coisa natural” → “aplica o poder de uma coisa natural” — virtus, força ativa, → “poder” (Key Terms); estava “potência”. *(meaning)*
+- `pt-BR/b3-ch067.md` [6]: “toda aplicação de uma potência à operação” → “toda aplicação de um poder à operação” — virtus, força ativa, → “poder” (Key Terms); estava “potência”. *(meaning)*
+- `pt-BR/b3-ch067.md` [6]: “as potências operativas são aplicadas” → “os poderes operativos são aplicados” — virtutes operativae → “poderes operativos” (Key Terms); estava “potências operativas”. *(meaning)*
+- `pt-BR/b3-ch067.md` [6]: “algumas potências são aplicadas à operação” → “alguns poderes são aplicados à operação” — virtutes, forças ativas, → “poderes” (Key Terms), com ajuste de concordância. *(meaning)*
+- `pt-BR/b3-ch069.md` [7]: “nenhuma potência ativa senão” → “nenhum poder ativo senão” — virtus activa → “poder ativo” (Key Terms); estava “potência ativa”. *(meaning)*
+- `pt-BR/b3-ch069.md` [11]: “que a potência ativa chegue” → “que o poder ativo chegue” — virtus activa → “poder ativo” (Key Terms); estava “potência ativa”. *(meaning)*
+- `pt-BR/b3-ch071.md` [5]: “a possibilidade de faltar ao bem” → “a potência de faltar ao bem” — potentia → “potência” (Key Terms); estava “possibilidade”.
+- `pt-BR/b3-ch071.md` [5]: “a essa possibilidade segue-se o mal” → “a essa potência segue-se o mal” — potentia → “potência” (Key Terms); estava “possibilidade”.
+- `pt-BR/b3-ch071.md` [6]: “nisso consiste a justiça do governo” → “nisso consiste a justiça da direção” — regimen → “direção” (Key Terms); estava “governo”.
+- `pt-BR/b3-ch071.md` [6]: “à razão do governo humano” → “à razão da direção humana” — regimen → “direção” (Key Terms); estava “governo”.
+- `pt-BR/b3-ch071.md` [6]: “à razão do governo divino” → “à razão da direção divina” — regimen → “direção” (Key Terms); estava “governo”.
+- `pt-BR/b3-ch072.md` [9]: “o enfraquecimento da potência de alguma substância” → “o enfraquecimento do poder de alguma substância” — virtus, força ativa, → “poder” (Key Terms); estava “potência”. *(meaning)*
+- `pt-BR/b3-ch072.md` [9]: “o enfraquecimento de sua potência” → “o enfraquecimento de seu poder” — virtus, força ativa, → “poder” (Key Terms); estava “potência”. *(meaning)*
+- `pt-BR/b3-ch072.md` [9]: “da fraqueza de uma potência” → “da fraqueza de um poder” — virtus, força ativa, → “poder” (Key Terms); estava “potência”. *(meaning)*
+- `pt-BR/b3-ch074.md` [5]: “nenhuma potência pudesse falhar” → “nenhum poder pudesse falhar” — virtus, força ativa, → “poder” (Key Terms); estava “potência”. *(meaning)*
+- `pt-BR/b3-ch075.md` [13]: “primeira e propriamente consiste” → “primeira e essencialmente consiste” — primo et per se → “primeira e essencialmente” (Key Terms); estava “primeira e propriamente”.
+- `pt-BR/b3-ch076.md` [9]: “as regras de seu governo” → “as regras de sua direção” — regimen → “direção” (Key Terms); estava “governo”.
+- `pt-BR/b3-ch076.md` [9]: “regras universais de governo” → “regras universais de direção” — regimen → “direção” (Key Terms); estava “governo”.
+- `pt-BR/b3-ch076.md` [9]: “sobretudo nas coisas mutáveis” → “sobretudo nas coisas móveis” — mobile → “móvel” (Key Terms); estava “mutáveis”.
+- `pt-BR/b3-ch077.md` [5]: “mais forte é a potência de algum agente” → “mais forte é o poder de algum agente” — virtus, força ativa, → “poder” (Key Terms); estava “potência”. *(meaning)*
+- `pt-BR/b3-ch077.md` [5]: “a potência da providência divina é máxima, ela” → “o poder da providência divina é máximo, ele” — virtus, força ativa, → “poder” (Key Terms), com ajuste de concordância e pronome. *(meaning)*
+- `pt-BR/b3-ch077.md` [6]: “diversos executores de seu governo” → “diversos executores de sua direção” — regimen → “direção” (Key Terms); estava “governo”.
+- `pt-BR/b3-ch077.md` [6]: “à dignidade do governo divino” → “à dignidade da direção divina” — regimen → “direção” (Key Terms); estava “governo”.
+- `pt-BR/b3-ch077.md` [7]: “a execução do governo divino” → “a execução da direção divina” — regimen → “direção” (Key Terms); estava “governo”.
+
+### Part terms 5 of 9, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read of the round-1 fixes in Book III, ch. 36–77: all correct; one leftover “potências operativas” in ch. 67 § 5 aligned with the fix in § 6.
+- `pt-BR/b3-ch067.md` [5]: “lhes deu potências operativas apenas quando foram criadas, mas sempre as causa nas coisas” → “lhes deu poderes operativos apenas quando foram criadas, mas sempre os causa nas coisas” — virtutes operativas → “poderes operativos” (Key Terms: virtus, força ativa, → poder), como já corrigido no § 6 do mesmo capítulo; pronome ajustado ao masculino
+- Rejected: pt-BR/b3-ch071.md [4] — “potência motriz” para virtus motiva, contra virtus → “poder” — a linha de virtus nos Key Terms prevê “potência” quando designa faculdade motora
+- Rejected: pt-BR/translation-journal.md (linha intellectus / intelligere / intelligentia) — a nota exibida difere do texto da correção da rodada anterior — a nota atual também cobre intelligentia como substância intelectual separada (inteligência agente) e não contradiz o texto revisado; não há afirmação falsa
+- Rejected: pt-BR/b3-ch077.md [5] — pronome “ele” após a troca para “o poder” — retoma corretamente “o poder da providência divina”, sujeito de debet no latim
+
+### Part terms 5 of 9, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente os §§ 4–6 de b3-ch067 e verificada a correção do § 5: tradução fiel, terminologia e concordância corretas; nenhum defeito encontrado. As cinco flags mecânicas não são verificáveis nos parágrafos exibidos.
+
+### Part terms 6 of 9, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 69 minor. 175 parágrafos sinalizados lidos; 46 apresentaram deriva terminológica.
+- `pt-BR/b3-ch078.md` [4]: “da potência do primeiro provedor” → “do poder do primeiro provedor” — virtus → “poder” (Key Terms); estava “potência”.
+- `pt-BR/b3-ch078.md` [4]: “da potência do agente principal” → “do poder do agente principal” — virtus → “poder” (Key Terms).
+- `pt-BR/b3-ch078.md` [4]: “da potência da providência divina” → “do poder da providência divina” — virtus → “poder” (Key Terms).
+- `pt-BR/b3-ch078.md` [4]: “pela potência cognoscitiva” → “pelo poder cognoscitivo” — virtus cognoscitiva → “poder cognoscitivo” (Key Terms).
+- `pt-BR/b3-ch078.md` [4]: “se realiza pela potência operativa” → “se realiza pelo poder operativo” — virtus operativa → “poder operativo” (Key Terms).
+- `pt-BR/b3-ch078.md` [4]: “de ambas as potências” → “de ambos os poderes” — utramque virtutem → “ambos os poderes” (Key Terms).
+- `pt-BR/b3-ch078.md` [4]: “somente da potência operativa” → “somente do poder operativo” — virtus operativa → “poder operativo” (Key Terms).
+- `pt-BR/b3-ch078.md` [6]: “as potências particulares” → “os poderes particulares” — virtutes → “poderes” (Key Terms).
+- `pt-BR/b3-ch078.md` [6]: “naturalmente movidas pelas potências universais” → “naturalmente movidos pelos poderes universais” — virtutes → “poderes” (Key Terms), com concordância ajustada ao sujeito corrigido.
+- `pt-BR/b3-ch078.md` [6]: “a potência intelectiva é mais universal” → “o poder intelectivo é mais universal” — virtus intellectiva → “poder intelectivo” (Key Terms).
+- `pt-BR/b3-ch078.md` [6]: “qualquer outra potência operativa” → “qualquer outro poder operativo” — virtus operativa → “poder operativo” (Key Terms).
+- `pt-BR/b3-ch078.md` [6]: “a potência intelectiva contém” → “o poder intelectivo contém” — virtus intellectiva → “poder intelectivo” (Key Terms).
+- `pt-BR/b3-ch078.md` [6]: “toda potência operativa procede” → “todo poder operativo procede” — virtus operativa → “poder operativo” (Key Terms).
+- `pt-BR/b3-ch078.md` [6]: “pelas potências intelectuais” → “pelos poderes intelectuais” — virtutes intellectuales → “poderes intelectuais” (Key Terms).
+- `pt-BR/b3-ch079.md` [4]: “as potências mais universais” → “os poderes mais universais” — virtutes → “poderes” (Key Terms).
+- `pt-BR/b3-ch079.md` [4]: “as potências particulares” → “os poderes particulares” — virtutes → “poderes” (Key Terms).
+- `pt-BR/b3-ch079.md` [5]: “da potência intelectual que está mais distante” → “do poder intelectual que está mais distante” — intellectualis virtutis → “poder intelectual” (Key Terms); a primeira “potência” traduz potentia e permanece.
+- `pt-BR/b3-ch080.md` [4]: “uma potência mais universal” → “um poder mais universal” — virtus → “poder” (Key Terms).
+- `pt-BR/b3-ch080.md` [17]: “a passagem do domínio” → “a mudança do domínio” — mutatio → “mudança” (Key Terms); estava “passagem”.
+- `pt-BR/b3-ch080.md` [17]: “à administração de seu governo” → “à administração de sua direção” — regimen → “direção” (Key Terms); estava “governo”.
+- `pt-BR/b3-ch080.md` [23]: “a todas as potências ordenadas” → “a todos os poderes ordenados” — virtutes → “poderes” (Key Terms).
+- `pt-BR/b3-ch080.md` [23]: “da potência superior” → “do poder superior” — virtus → “poder” (Key Terms).
+- `pt-BR/b3-ch080.md` [23]: “pela potência dessa ordem” → “pelo poder dessa ordem” — virtus → “poder” (Key Terms).
+- `pt-BR/b3-ch081.md` [6]: “sentidos e potência corporal” → “sentidos e poder corporal” — corporalis virtus → “poder corporal” (Key Terms).
+- `pt-BR/b3-ch081.md` [6]: “a potência corpórea está sujeita” → “o poder corpóreo está sujeito” — virtus corporea → “poder corpóreo” (Key Terms), com concordância ajustada.
+- `pt-BR/b3-ch081.md` [6]: “à potência sensitiva e à intelectiva, como executora” → “ao poder sensitivo e ao intelectivo, como executor” — sensitiva et intellectiva virtus → “poder sensitivo e intelectivo” (Key Terms); “executor” concorda com o poder corpóreo.
+- `pt-BR/b3-ch081.md` [8]: “seguir a potência sensitiva” → “seguir o poder sensitivo” — sensualis virtus → “poder sensitivo” (Key Terms).
+- `pt-BR/b3-ch081.md` [8]: “de a potência sensitiva, por causa de uma indisposição do corpo, ser arrastada” → “de o poder sensitivo, por causa de uma indisposição do corpo, ser arrastado” — sensualis virtus → “poder sensitivo” (Key Terms), com concordância ajustada.
+- `pt-BR/b3-ch084.md` [5]: “ou alguma potência corpórea” → “ou algum poder corpóreo” — virtus corporea → “poder corpóreo” (Key Terms).
+- `pt-BR/b3-ch084.md` [5]: “nem potência corpórea” → “nem poder corpóreo” — virtus corporea → “poder corpóreo” (Key Terms).
+- `pt-BR/b3-ch084.md` [11]: “uma potência corpórea que acompanha” → “um poder corpóreo que acompanha” — virtus corporea → “poder corpóreo” (Key Terms).
+- `pt-BR/b3-ch084.md` [13]: “uma potência superior aos corpos” → “um poder superior aos corpos” — virtus → “poder” (Key Terms).
+- `pt-BR/b3-ch084.md` [16]: “a causa de nossa inteligência” → “a causa de nossa intelecção” — intelligentia → “intelecção” (Key Terms); estava “inteligência”.
+- `pt-BR/b3-ch084.md` [17]: “causas diretas de nossa inteligência” → “causas diretas de nossa intelecção” — intelligentia → “intelecção” (Key Terms).
+- `pt-BR/b3-ch084.md` [18]: “para a boa qualidade da inteligência” → “para a boa qualidade da intelecção” — intelligentia → “intelecção” (Key Terms).
+- `pt-BR/b3-ch084.md` [18]: “concede uma inteligência capaz” → “concede uma intelecção capaz” — intelligentia → “intelecção” (Key Terms).
+- `pt-BR/b3-ch085.md` [5]: “causa de nossa inteligência” → “causa de nossa intelecção” — intelligentia → “intelecção” (Key Terms).
+- `pt-BR/b3-ch085.md` [18]: “Nenhuma potência ativa” → “Nenhum poder ativo” — virtus activa → “poder ativo” (Key Terms).
+- `pt-BR/b3-ch086.md` [4]: “das formas e das potências” → “das formas e dos poderes” — virtutes → “poderes” (Key Terms).
+- `pt-BR/b3-ch087.md` [5]: “manifesta seu pensamento” → “manifesta sua intelecção” — suam intelligentiam → “sua intelecção” (Key Terms); estava “seu pensamento”.
+- `pt-BR/b3-ch087.md` [7]: “de nossos atos de inteligência” → “de nossas intelecções” — intelligentiarum → “intelecções” (Key Terms); estava “atos de inteligência”.
+- `pt-BR/b3-ch089.md` [3]: “não compreendendo como Deus” → “não entendendo como Deus” — intelligere → “entender” (Key Terms); estava “compreender”.
+- `pt-BR/b3-ch089.md` [5]: “a potência de querer” → “o poder de querer” — virtus → “poder” (Key Terms).
+- `pt-BR/b3-ch091.md` [7]: “nossa inteligência apresenta multiplicidade” → “nossa intelecção apresenta multiplicidade” — intelligentia → “intelecção” (Key Terms).
+- `pt-BR/b3-ch094.md` [13]: “perfeito de modo absoluto e universal” → “perfeito em sentido absoluto e universal” — simpliciter → “em sentido absoluto” (Key Terms).
+- `pt-BR/b3-ch095.md` [2]: “a imutabilidade da providência divina” → “a imobilidade da providência divina” — immobilitas deriva de immobile → “imóvel” (Key Terms), distinto de immutabile.
+- `pt-BR/b3-ch095.md` [3]: “a imutabilidade da providência” → “a imobilidade da providência” — immobilitas → “imobilidade”, preservando a distinção do glossário.
+- `pt-BR/b3-ch095.md` [4]: “movam o Deus imutável” → “movam o Deus imóvel” — immobilem → “imóvel” (Key Terms); o argumento contrapõe expressamente mover e ser imóvel. *(meaning)*
+- `pt-BR/b3-ch096.md` [17]: “a imutabilidade da ordem divina” → “a imobilidade da ordem divina” — immobilitas → “imobilidade”, preservando a distinção do glossário.
+- `pt-BR/b3-ch099.md` [4]: “ele próprio, produzir algum efeito” → “ele próprio, operar algum efeito” — operetur → “operar”, conforme operatio → “operação” (Key Terms).
+- `pt-BR/b3-ch099.md` [4]: “Ora, Deus age por vontade” → “Ora, Deus opera por vontade” — operatur → “opera”, conforme operatio → “operação” (Key Terms).
+- `pt-BR/b3-ch099.md` [12]: “ele mesmo realizar às vezes algo” → “ele mesmo operar às vezes algo” — operatur → “operar”, conforme operatio → “operação” (Key Terms).
+- `pt-BR/b3-ch101.md` [4]: “as coisas que Deus realiza” → “as coisas que Deus opera” — operatur → “opera”, conforme operatio → “operação” (Key Terms).
+- `pt-BR/b3-ch101.md` [5]: “Deus às vezes o realize milagrosamente” → “Deus às vezes o opere milagrosamente” — operatur → “opere”, conforme operatio → “operação” (Key Terms).
+- `pt-BR/b3-ch102.md` [5]: “alguma potência finita produz o efeito próprio” → “alguma potência finita opera o efeito próprio” — operatur → “opera”, conforme operatio → “operação” (Key Terms).
+- `pt-BR/b3-ch102.md` [6]: “pois o agente age sobre algum sujeito” → “pois o agente opera sobre algum sujeito” — operatur → “opera”, conforme operatio → “operação” (Key Terms).
+- `pt-BR/b3-ch103.md` [11]: “recebem certa potência” → “recebem certo poder” — virtus → “poder” (Key Terms).
+- `pt-BR/b3-ch104.md` [13]: “sem a intervenção da arte” → “sem a operação da arte” — artis operatio → “operação da arte” (Key Terms); estava “intervenção”.
+- `pt-BR/b3-ch107.md` [9]: “nem sob algum aspecto” → “nem sob certo aspecto” — secundum quid → “sob certo aspecto” (Key Terms).
+- `pt-BR/b3-ch109.md` [7]: “a potência apetitiva ordenava” → “o poder apetitivo ordenava” — virtus appetitiva → “poder apetitivo” (Key Terms).
+- `pt-BR/b3-ch109.md` [12]: “persevera imutavelmente na bondade” → “permanece imóvel na bondade” — immobiliter deriva de immobile → “imóvel” (Key Terms), distinto de immutabile.
+- `pt-BR/b3-ch111.md` [4]: “no governo da cidade” → “na direção da cidade” — regimen → “direção” (Key Terms).
+- `pt-BR/b3-ch111.md` [4]: “estão sujeitos ao governo” → “estão sujeitos à direção” — regimen → “direção” (Key Terms).
+- `pt-BR/b3-ch112.md` [4]: “em qualquer governo” → “em qualquer direção” — regimen → “direção” (Key Terms).
+- `pt-BR/b3-ch112.md` [7]: “Deus cuide das outras coisas” → “Deus proveja às outras coisas” — providentur retoma o exercício da providência; “prover” preserva a família terminológica do glossário.
+- `pt-BR/b3-ch123.md` [4]: “é natural que a solicitude do pai” → “é natural que o cuidado do pai” — sollicitudo → “cuidado” para a diligência devida (Key Terms).
+- `pt-BR/b3-ch123.md` [4]: “Se, pois, a solicitude do pai” → “Se, pois, o cuidado do pai” — sollicitudo → “cuidado” para a diligência devida (Key Terms).
+- `pt-BR/b3-ch123.md` [5]: “e mais forte pelo vigor” → “e tem maior poder” — virtus → “poder” (Key Terms), preservando o comparativo fortior.
+- `pt-BR/b3-ch123.md` [6]: “afastar-se de seu governo” → “afastar-se de sua direção” — regimen → “direção” (Key Terms).
+- `pt-BR/b3-ch123.md` [7]: “certa solicitude natural pela certeza” → “certo cuidado natural pela certeza” — sollicitudo → “cuidado” para a diligência devida (Key Terms).
+
+### Part terms 6 of 9, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 8 minor. Delta read dos 70 ajustes da rodada 1 e dos vizinhos: uma concordância quebrada (ch080 [23]) e três uniformizações de virtus em argumentos contíguos (ch078 [5], ch084 [17], ch089 [3]).
+- `pt-BR/b3-ch080.md` [23]: “que todas as inferiores ajam” → “que todos os inferiores ajam” — omnes inferiores retoma virtutes, agora “poderes”; a concordância ficou no feminino após a correção anterior
+- `pt-BR/b3-ch078.md` [5]: “Deus dá alguma potência, ela é dada em ordem ao efeito dessa potência” → “Deus dá algum poder, ele é dado em ordem ao efeito desse poder” — aliqua virtus; o argumento seguinte ([6]) passou a usar “poder” para as mesmas virtutes; uniformiza o capítulo
+- `pt-BR/b3-ch078.md` [5]: “a potência intelectiva é por si ordenadora e diretiva” → “o poder intelectivo é por si ordenador e diretivo” — virtus intellectiva, vertida “poder intelectivo” em [6]
+- `pt-BR/b3-ch078.md` [5]: “quando ambas estão reunidas num mesmo ser, a potência operativa segue a direção da potência intelectiva” → “quando ambos estão reunidos num mesmo ser, o poder operativo segue a direção do poder intelectivo” — virtus operativa / intellectivae virtutis, como em [4] e [6]; concordância ajustada
+- `pt-BR/b3-ch078.md` [5]: “quando elas existem em seres diversos” → “quando eles existem em seres diversos” — concordância com “poderes” após a uniformização
+- `pt-BR/b3-ch078.md` [5]: “pela potência operativa devem ser dirigidos pelos que se distinguem pela potência intelectiva” → “pelo poder operativo devem ser dirigidos pelos que se distinguem pelo poder intelectivo” — in virtute operativa / intellectiva, como em [4] e [6]
+- `pt-BR/b3-ch084.md` [17]: “o intelecto não seja uma potência corpórea” → “o intelecto não seja um poder corpóreo” — intellectus non sit virtus corporea; é a mesma tese de [5], agora “nem poder corpóreo”
+- `pt-BR/b3-ch089.md` [3]: “causa em nós a potência de querer” → “causa em nós o poder de querer” — virtutem volendi; em [5] a mesma expressão passou a “o poder de querer”, e o argumento contrapõe as duas passagens
+- Rejected: pt-BR/b3-ch080.md [3], b3-ch099.md [4]-[5], b3-ch102.md [5]-[7], b3-ch109.md [13] — virtus ainda vertido por “potência” ao lado de passagens agora com “poder” — a tabela de termos admite “potência” para faculdades e “potência ou força, conforme o contexto”; não há mudança de sentido nem mesma expressão repetida em forma diferente
+- Rejected: pt-BR/b3-ch080.md [17] — “administração de sua direção” soa pesado — fiel a sui regiminis e conforme a tabela (regimen → direção); questão de estilo
+- Rejected: pt-BR/b3-ch112.md [7] — “proveja às outras coisas” — regência “prover a” correta; preserva a família de providentia
+
+### Part terms 6 of 9, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificados os oito ajustes, os 12 parágrafos apresentados e a nota do tradutor; nenhum defeito objetivo encontrado.
+- Rejected: pt-BR/b3-ch084.md [17] — Alternância entre “poder corpóreo” e “potências corpóreas”. — Ambas as formas são admitidas pelo diário; “potências” designa aqui as faculdades enumeradas. Não há alteração de sentido.
+- Rejected: Auditoria mecânica — cinco linhas de termos — Equivalentes portugueses com contagem zero. — As ocorrências pertinentes não foram mostradas neste delta; as contagens indicativas não demonstram defeito nas linhas do diário.
+
+### Part terms 7 of 9, Round 1 (codex, terms read)
+Verdict: 5 meaning-level, 37 minor. 169 parágrafos sinalizados lidos; 27 com desvio terminológico; 2 ajustes de glossário.
+- `pt-BR/translation-journal.md`: “| essentia / substantia / quidditas | essência / substância / quididade | |” → “| essentia / substantia / quidditas | essência / substância / quididade | “Substantia” em sentido patrimonial: “bens” ou “riqueza” |” — As ocorrências sobre pobreza usam corretamente “bens” e “riqueza” para substantia em sentido patrimonial.
+- `pt-BR/translation-journal.md`: “| intellectus / intelligere / intelligentia | intelecto / entender / intelecção | |” → “| intellectus / intelligere / intelligentia | intelecto / entender / intelecção | “Intelligentia” como substância intelectual separada: “inteligência”; “intellectus” como dom espiritual: “entendimento” |” — A inteligência separada de Avicena e o dom espiritual do entendimento são sentidos distintos da intelecção e do intelecto como faculdade.
+- `pt-BR/b3-ch130.md` [4]: “a solicitude do homem se ocupa” → “a preocupação do homem se ocupa” — sollicitudo → “preocupação” (Key Terms); era “solicitude”.
+- `pt-BR/b3-ch130.md` [4]: “eliminar a solicitude pelos bens exteriores” → “eliminar a preocupação pelos bens exteriores” — sollicitudo → “preocupação” (Key Terms); designa uma ocupação que se procura eliminar.
+- `pt-BR/b3-ch130.md` [4]: “envolvido em alguma solicitude” → “envolvido em alguma preocupação” — sollicitudo → “preocupação” (Key Terms); era “solicitude”.
+- `pt-BR/b3-ch130.md` [4]: “eliminar a solicitude pela esposa” → “eliminar a preocupação pela esposa” — sollicitudo → “preocupação” (Key Terms); era “solicitude”.
+- `pt-BR/b3-ch130.md` [4]: “eliminar a solicitude do homem também por si mesmo” → “eliminar a preocupação do homem também por si mesmo” — sollicitudo → “preocupação” (Key Terms); era “solicitude”.
+- `pt-BR/b3-ch132.md` [15]: “a capacidade ou o ofício que lhes permita” → “a capacidade ou a arte que lhes permita” — ars → “arte” (Key Terms), expressamente no sentido amplo de saber produzir; era “ofício”.
+- `pt-BR/b3-ch135.md` [25]: “não de modo absoluto, mas conforme a necessidade” → “não em sentido absoluto, mas conforme a necessidade” — simpliciter → “em sentido absoluto” (Key Terms); era “de modo absoluto”.
+- `pt-BR/b3-ch136.md` [12]: “a força para combater” → “o poder para combater” — virtus como força ativa → “poder” (Key Terms); era “força”.
+- `pt-BR/b3-ch136.md` [12]: “a potência generativa e aquilo” → “o poder generativo e aquilo” — virtus generativa → “poder generativo” (Key Terms); era “potência generativa”.
+- `pt-BR/b3-ch138.md` [10]: “permanece por sua força” → “permanece por seu poder” — virtute designa a eficácia persistente da vontade; “poder” é a forma assentada para virtus como força ativa.
+- `pt-BR/b3-ch139.md` [17]: “consistem em certa proporção” → “consistem em certa comensuração” — commensuratio → “comensuração” (Key Terms), preservando a distinção de proportio.
+- `pt-BR/b3-ch139.md` [17]: “se afasta da proporção devida” → “se afasta da comensuração devida” — commensuratio → “comensuração” (Key Terms); era “proporção”.
+- `pt-BR/b3-ch139.md` [17]: “na devida proporção dos humores” → “na devida comensuração dos humores” — commensuratio → “comensuração” (Key Terms); a proporção dos membros traduz, distintamente, proportio.
+- `pt-BR/b3-ch139.md` [17]: “na correspondência do intelecto ou do discurso à coisa” → “na comensuração do intelecto ou do discurso com a coisa” — commensuratio → “comensuração” (Key Terms); era “correspondência”.
+- `pt-BR/b3-ch139.md` [17]: “consiste em certa proporção” → “consiste em certa comensuração” — commensuratio → “comensuração” (Key Terms); era “proporção”.
+- `pt-BR/b3-ch139.md` [18]: “se segue de outra em termos absolutos” → “se segue de outra em sentido absoluto” — simpliciter → “em sentido absoluto” (Key Terms); era “em termos absolutos”.
+- `pt-BR/b3-ch141.md` [5]: “das faculdades naturais da alma para agir bem” → “dos poderes naturais da alma para agir bem” — naturalium virtutum designa poderes naturais, distintos da virtude moral mencionada antes; virtus como força ativa → “poder”.
+- `pt-BR/b3-ch141.md` [8]: “Isso não deve parecer estranho” → “Isso não deve parecer admirável” — mirum → “admirável” (Key Terms); era “estranho”.
+- `pt-BR/b3-ch146.md` [7]: “o médico, em sua atividade” → “o médico, em sua operação” — operatio → “operação” (Key Terms); era “atividade”.
+- `pt-BR/b3-ch146.md` [7]: “o governante da cidade, em sua atividade” → “o governante da cidade, em sua operação” — operatio → “operação” (Key Terms); era “atividade”.
+- `pt-BR/b3-ch154.md` [4]: “tanto maior seja sua virtude” → “tanto maior seja seu poder” — virtuosius designa maior poder decorrente da proximidade ao primeiro princípio, não maior virtude moral. *(meaning)*
+- `pt-BR/b3-ch154.md` [8]: “as forças dos elementos” → “os poderes dos elementos” — virtutes como forças ativas → “poderes” (Key Terms); era “forças”.
+- `pt-BR/b3-ch154.md` [16]: “abusam da realização de milagres” → “abusam da operação de milagres” — operatio → “operação” (Key Terms); era “realização”.
+- `pt-BR/b3-ch154.md` [17]: “por causa da liberdade do arbítrio” → “por causa do livre-arbítrio” — arbitrii libertatem designa o livre-arbítrio, cuja forma assentada é “livre-arbítrio”.
+- `pt-BR/b3-ch154.md` [20]: “por cuja virtude os referidos movimentos” → “por cujo poder os referidos movimentos” — virtus designa o poder causal da substância intelectual, não uma virtude moral. *(meaning)*
+- `pt-BR/b3-ch154.md` [24]: “na realização de sinais” → “na operação de sinais” — operatio → “operação” (Key Terms); era “realização”.
+- `pt-BR/b3-ch154.md` [25]: “a realização de prodígios” → “a operação de prodígios” — operatio → “operação” (Key Terms); era “realização”. Virtutum tem aqui o sentido de prodígios.
+- `pt-BR/b3-ch154.md` [28]: “em cada realização de milagres” → “em cada operação de milagres” — operatio → “operação” (Key Terms); era “realização”.
+- `pt-BR/b3-ch155.md` [6]: “permaneça imutavelmente voltada” → “permaneça imovelmente voltada” — immobiliter deriva de immobile; preserva-se “imóvel”, distinto de “imutável” (Key Terms).
+- `pt-BR/b3-ch155.md` [6]: “a vontade permaneça imutavelmente no bem” → “a vontade permaneça imóvel no bem” — immobiliter → “imóvel”, preservando a distinção de immutabile (Key Terms).
+- `pt-BR/b3-ch162.md` [7]: “da virtude motora” → “do poder motor” — virtus motiva é o poder que causa o movimento, não uma virtude moral. *(meaning)*
+- `pt-BR/b4-ch001.md` [8]: “tanto maior virtude e dignidade possui” → “tanto maior poder e dignidade possui” — virtuosum designa poder ou eficácia decorrente da unidade, não virtude moral. *(meaning)*
+- `pt-BR/b4-ch001.md` [11]: “nas demais coisas sujeitas a movimento” → “nas demais coisas móveis” — mobilibus → “móveis” (Key Terms); era a paráfrase “sujeitas a movimento”.
+- `pt-BR/b4-ch005.md` [3]: “recebera o nome de Filho” → “recebera o nome de filiação” — filiationis → “filiação” (Key Terms); era “Filho”.
+- `pt-BR/b4-ch006.md` [11]: “receber uma ordem” → “receber um preceito” — praeceptum → “preceito” (Key Terms); era “ordem”.
+- `pt-BR/b4-ch006.md` [16]: “os discípulos fossem um pela essência” → “os discípulos fossem um por essência” — per essentiam → “por essência” (Key Terms); era “pela essência”.
+- `pt-BR/b4-ch006.md` [16]: “o Pai e o Filho não são um pela essência” → “o Pai e o Filho não são um por essência” — per essentiam → “por essência” (Key Terms); era “pela essência”.
+- `pt-BR/b4-ch008.md` [8]: “ao corpo de sua glória” → “ao corpo de sua claridade” — claritas refere-se aqui ao corpo glorificado; “claridade” é a propriedade corporal assentada no glossário, enquanto “glória” é mais ampla. *(meaning)*
+- `pt-BR/b4-ch008.md` [13]: “é também comunicação do entendimento” → “é também comunicação da intelecção” — intelligentia → “intelecção” (Key Terms); aqui designa o entender divino, identificado ao ser.
+- `pt-BR/b4-ch008.md` [13]: “a comunicação do entendimento pode ser chamada” → “a comunicação da intelecção pode ser chamada” — intelligentia → “intelecção” (Key Terms); era “entendimento”.
+
+### Part terms 7 of 9, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 4 minor. Delta de 42 mudanças e vizinhos lidos: 4 correções menores (concordância quebrada em b3-ch136, desvio do glossário em libertas arbitrii, “admirável” ambíguo, “nome de filiação”); demais mudanças corretas.
+- `pt-BR/b3-ch136.md` [12]: “aquilo que se ordena ao ato dela” → “aquilo que se ordena ao ato dele” — ad actum eius refere-se a virtus generativa, agora vertida por “o poder generativo” (masculino); “dela” perdeu o antecedente após a correção anterior
+- `pt-BR/b3-ch154.md` [17]: “por causa do livre-arbítrio” → “por causa da liberdade do arbítrio” — propter arbitrii libertatem; o Key Terms fixa libertas arbitrii → “liberdade do arbítrio”, distinta de liberum arbitrium; a correção anterior contrariou o glossário
+- `pt-BR/b3-ch141.md` [8]: “Isso não deve parecer admirável aos que consideram” → “Isso não deve causar admiração aos que consideram” — mirum videri non debet = não deve parecer surpreendente; “parecer admirável” lê-se em português como “digno de louvor”. A forma proposta conserva o vínculo com admirari sem esse equívoco
+- `pt-BR/b4-ch005.md` [3]: “recebera o nome de filiação” → “recebera o nome de Filho” — filiationis nomen accepit = passou a ser chamado Filho; “receber o nome de filiação” diz em português que foi chamado “filiação”. A linha generatio/paternitas/filiatio do glossário trata do termo relacional, não deste uso
+- Rejected: pt-BR/b3-ch162.md [7] — virtus motiva → “poder motor”, e não “potência”/“faculdade motora” — Designa a força que move a perna no exemplo; “poder” é defensável e corrige o erro de “virtude motora”
+- Rejected: pt-BR/b3-ch155.md [5] — “a virtude do livre-arbítrio” para virtus liberi arbitrii — Trocar por “poder” apagaria a distinção com potestas (“o poder do livre-arbítrio”) nas frases seguintes; o sentido de capacidade fica claro pelo contexto
+- Rejected: pt-BR/b3-ch155.md [6] — “imovelmente” como forma rara — Advérbio registrado em português e fiel a immobiliter, conforme a distinção imóvel/imutável
+- Rejected: pt-BR/b4-ch008.md [12] — claritate → “glória” em João 17:5, enquanto [8] usa “claridade” — Aqui o autor glosa a palavra com gloria; o glossário reserva “claridade” para a propriedade do corpo glorificado
+
+### Part terms 7 of 9, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Conferidas as quatro correções e lidos integralmente os 12 blocos e as três notas apresentados; nenhum defeito objetivo encontrado.
+
+### Part terms 8 of 9, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 23 minor. 144 parágrafos sinalizados lidos; deriva em 16 deles, com 23 correções.
+- `pt-BR/b4-ch008.md` [17]: “pela realização de milagres” → “pela operação de milagres” — *operationem* → “operação” (Key Terms); estava “realização”.
+- `pt-BR/b4-ch009.md` [5]: “tivesse sido feito de modo absoluto” → “tivesse sido feito em sentido absoluto” — *simpliciter* → “em sentido absoluto” (Key Terms).
+- `pt-BR/b4-ch011.md` [15]: “é simplesmente um em Deus” → “é uno em sentido absoluto em Deus” — *simpliciter unum* → “uno em sentido absoluto” (Key Terms).
+- `pt-BR/b4-ch011.md` [25]: “mediante uma virtude ativa e uma passiva” → “mediante um poder ativo e um passivo” — *virtutem activam et passivam* designa poderes da geração; harmoniza o termo e a concordância com “poder” (Key Terms).
+- `pt-BR/b4-ch011.md` [25]: “em razão da virtude ativa, alguém se chama pai e, em razão da passiva, mãe” → “em razão do poder ativo, alguém se chama pai e, em razão do passivo, mãe” — *activa virtute* → “poder ativo” (Key Terms), com ajuste da referência elíptica ao poder passivo.
+- `pt-BR/b4-ch011.md` [25]: “mediante alguma virtude passiva, mas como que ativa” → “mediante algum poder passivo, mas como que ativo” — *virtutem passivam … activam* designa poder, em continuidade com a distinção anterior; estava “virtude”.
+- `pt-BR/b4-ch013.md` [11]: “Meu Pai trabalha, e eu trabalho” → “Meu Pai opera, e eu opero” — *operatur … operor* exprime a operação divina discutida no parágrafo; preserva a família de “operação” (Key Terms).
+- `pt-BR/b4-ch024.md` [13]: “diferenças que dividam por si aquilo que é proceder de outro” → “diferenças que dividam por si o ente que procede de outro” — *ens ab alio* → “ente que procede de outro”; recupera “ente” (Key Terms).
+- `pt-BR/b4-ch026.md` [9]: “há Deus ingênito, que é princípio” → “há Deus não gerado, que é princípio” — *ingenitum* → “não gerado” (Key Terms); estava “ingênito”.
+- `pt-BR/b4-ch034.md` [29]: “repletos de inteligência pela participação” → “repletos de intelecção pela participação” — *intelligentia* → “intelecção” (Key Terms); estava “inteligência”.
+- `pt-BR/b4-ch040.md` [4]: “Deus não é corpo nem potência num corpo” → “Deus não é corpo nem poder num corpo” — *virtus in corpore* → “poder num corpo” (Key Terms); estava “potência”.
+- `pt-BR/b4-ch040.md` [4]: “ou se transformou em corpo” → “ou foi mudado em corpo” — *sit mutatus* pertence à família de *mutatio*, “mudança” (Key Terms); estava “se transformou”.
+- `pt-BR/b4-ch040.md` [4]: “ou é uma potência num corpo” → “ou é um poder num corpo” — *virtus in corpore* → “poder num corpo” (Key Terms); estava “potência”.
+- `pt-BR/b4-ch043.md` [7]: “na geração humana, a potência ativa age” → “na geração humana, o poder ativo age” — *virtus activa* → “poder ativo” (Key Terms); estava “potência ativa”.
+- `pt-BR/b4-ch043.md` [7]: “a potência ativa na geração teria ordenado” → “o poder ativo na geração teria ordenado” — *virtus activa* → “poder ativo” (Key Terms); estava “potência ativa”.
+- `pt-BR/b4-ch046.md` [5]: “a potência ativa que existe no sêmen humano” → “o poder ativo que existe no sêmen humano” — *virtus activa* → “poder ativo” (Key Terms); estava “potência ativa”.
+- `pt-BR/b4-ch046.md` [5]: “essa potência se funda no sopro vital” → “esse poder se funda no sopro vital” — *huiusmodi virtus* retoma o poder ativo; mantém “poder” (Key Terms).
+- `pt-BR/b4-ch049.md` [4]: “um corpo ou uma potência num corpo” → “um corpo ou um poder num corpo” — *virtus in corpore* → “poder num corpo” (Key Terms); estava “potência”.
+- `pt-BR/b4-ch049.md` [11]: “diminuição de sua potência” → “diminuição de seu poder” — *minorationem virtutis* → “diminuição de seu poder” (Key Terms); estava “potência”.
+- `pt-BR/b4-ch052.md` [20]: “seu ato foi simplesmente pessoal” → “seu ato foi pessoal em sentido absoluto” — *simpliciter* → “em sentido absoluto” (Key Terms); estava “simplesmente”.
+- `pt-BR/b4-ch053.md` [8]: “é o entendimento da verdade” → “é a intelecção da verdade” — *intelligentia veritatis* → “intelecção da verdade” (Key Terms); estava “entendimento”.
+- `pt-BR/b4-ch053.md` [19]: “à morte por uma ordem” → “à morte por um preceito” — *praecepto* → “preceito” (Key Terms); estava “ordem”.
+- `pt-BR/b4-ch053.md` [19]: “a morte por ordem de Deus Pai” → “a morte por preceito de Deus Pai” — *praecepto Dei patris* → “preceito de Deus Pai” (Key Terms); estava “ordem”.
+
+### Part terms 8 of 9, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 3 minor. Delta read: os 23 ajustes estão corretos e não quebram as frases vizinhas; corrigidas duas derivas de Key Terms em parágrafos vizinhos (b4-ch024 [14], b4-ch026 [8]) e uma linha contraditória do diário.
+- `pt-BR/b4-ch024.md` [14]: “somente pela potência ativa do sol, e outros, juntamente com ela, pela potência ativa do sêmen” → “somente pelo poder ativo do sol, e outros, juntamente com ele, pelo poder ativo do sêmen” — *virtute activa* → “poder ativo” (Key Terms), como em b4-ch043 [7] e b4-ch046 [5]; ajusta o pronome “ela” para “ele”
+- `pt-BR/b4-ch026.md` [8]: “começara pela intenção entendida” → “começara pela intenção inteligida” — *intentionem intellectam* → “intenção inteligida” (Key Terms)
+- `pt-BR/translation-journal.md`: “Propriedade do Pai; distinguida de *ingenitus*, “ingênito”” → “Propriedade do Pai; distinguida de *ingenitus*, “não gerado”” — contradiz a linha *ingenitus* → “não gerado” e a correção feita em b4-ch026 [9]
+- Rejected: pt-BR/b4-ch049.md [11] — “diminuição de seu poder”: o antecedente de “seu” é ambíguo — o latim *minorationem virtutis* também não diz de quem é o poder; a forma anterior tinha a mesma ambiguidade
+- Rejected: pt-BR/b4-ch034.md [29] — *intelligentia* poderia ser “inteligência” como capacidade — o Key Terms restringe “inteligência” a citações bíblicas e a Avicena; “intelecção” é defensável aqui
+
+### Part terms 8 of 9, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente os seis parágrafos exibidos e a nota do tradutor; verificados os três ajustes da rodada anterior. Nenhum defeito objetivo encontrado; os alertas mecânicos não demonstram problemas no trecho apresentado.
+
+### Part terms 9 of 9, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 17 minor. 127 parágrafos sinalizados lidos; 17 ocorrências com deriva terminológica e 1 omissão corrigidas.
+- `pt-BR/b4-ch055.md` [9]: “sua escolha não se dirige de modo imutável” → “sua escolha não se dirige de modo imóvel” — *immobiliter* → “de modo imóvel”, preservando a distinção entre imóvel e imutável do glossário.
+- `pt-BR/b4-ch055.md` [9]: “tem uma apreensão imutável” → “tem uma apreensão imóvel” — *immobilem* → “imóvel” (Key Terms); estava “imutável”.
+- `pt-BR/b4-ch055.md` [9]: “conhece de modo imutável por simples intelecção” → “conhece de modo imóvel por simples intelecção” — *immobiliter* → “de modo imóvel”, conforme a distinção do glossário.
+- `pt-BR/b4-ch055.md` [9]: “também tem uma escolha imutável” → “também tem uma escolha imóvel” — *immobilem* → “imóvel” (Key Terms); estava “imutável”.
+- `pt-BR/b4-ch055.md` [9]: “o faz de modo imutável” → “o faz de modo imóvel” — *immobiliter* → “de modo imóvel”, conforme a distinção do glossário.
+- `pt-BR/b4-ch055.md` [21]: “ter passado do estado de carne passível e mortal à impassibilidade e à imortalidade da carne” → “ter mudado do estado de carne passível e mortal para a impassibilidade e a imortalidade da carne” — *mutatus est* → “ter mudado”, da família de “mudança” (Key Terms); estava “ter passado”.
+- `pt-BR/b4-ch058.md` [7]: “segundo o governo político” → “segundo a direção política” — *regimen politicum* → “direção política” (Key Terms); estava “governo político”.
+- `pt-BR/b4-ch071.md` [6]: “a imutabilidade da vontade” → “a imobilidade da vontade” — *immobilitas* → “imobilidade”, derivação de “imóvel” (Key Terms); estava “imutabilidade”.
+- `pt-BR/b4-ch071.md` [6]: “não tem a vontade imutavelmente fixada no mal” → “não tem a vontade imóvel no mal” — *immobilem voluntatem in malo* → “vontade imóvel no mal”, preservando a distinção do glossário.
+- `pt-BR/b4-ch072.md` [13]: “sem o batismo, recebido de fato” → “sem o batismo, no qual opera a paixão de Cristo, recebido de fato” — Restitui a oração omitida *in quo operatur passio Christi*, que explica a eficácia do batismo. *(meaning)*
+- `pt-BR/b4-ch074.md` [10]: “Esse poder é significado pelas chaves” → “Esse poder é o que se entende pelas chaves” — *intelligitur* → “se entende” (Key Terms); estava “é significado”.
+- `pt-BR/b4-ch076.md` [3]: “o governo supremo do povo fiel” → “a direção suprema do povo fiel” — *summa regiminis fidelis populi* → “direção suprema do povo fiel” (Key Terms); estava “governo supremo”.
+- `pt-BR/b4-ch076.md` [6]: “o governo da Igreja esteja ordenado da melhor maneira, pois foi disposto” → “a direção da Igreja esteja ordenada da melhor maneira, pois foi disposta” — *Ecclesiae regimen* → “direção da Igreja” (Key Terms), com ajuste de concordância.
+- `pt-BR/b4-ch076.md` [6]: “o melhor governo de uma multidão é aquele” → “a melhor direção de uma multidão é aquela” — *optimum regimen multitudinis* → “melhor direção de uma multidão” (Key Terms), com ajuste de concordância.
+- `pt-BR/b4-ch076.md` [6]: “pelo fim do governo, que é a paz” → “pelo fim da direção, que é a paz” — *finem regiminis* → “fim da direção” (Key Terms); estava “fim do governo”.
+- `pt-BR/b4-ch076.md` [6]: “o governo da Igreja foi disposto de modo” → “a direção da Igreja foi disposta de modo” — *regimen Ecclesiae* → “direção da Igreja” (Key Terms), com ajuste de concordância.
+- `pt-BR/b4-ch078.md` [4]: “sujeita ao governo eclesiástico” → “sujeita à direção eclesiástica” — *regimini ecclesiastico* → “direção eclesiástica” (Key Terms); estava “governo eclesiástico”.
+- `pt-BR/b4-ch097.md` [6]: “em razão da imutabilidade da bondade divina” → “em razão da imobilidade da bondade divina” — *immobilitate* → “imobilidade”, derivação de “imóvel” (Key Terms); estava “imutabilidade”.
+
+### Part terms 9 of 9, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta read of the 18 changes and their neighbours (b4-ch055–ch097): 2 minor issues introduced by the changes (concordance and an ambiguous pronoun); the other changes are correct.
+- `pt-BR/b4-ch058.md` [7]: “segundo a direção política, pelo qual se conserva” → “segundo a direção política, pela qual se conserva” — *per quod* refere-se a *regimen politicum*, agora vertido por “direção política”; o relativo deve concordar no feminino.
+- `pt-BR/b4-ch076.md` [6]: “é aquela em que ela é governada por um só” → “é aquela em que a multidão é governada por um só” — *ut regatur per unum*: o sujeito é a multidão; com “direção” no feminino, “ela” passou a admitir também “direção” como antecedente.
+- Rejected: pt-BR/b4-ch055.md [21] — “ter mudado do estado de… para a impassibilidade” poderia soar forçado — Regência correta (“mudar de… para…”) e fiel a *mutatus est de… in…*.
+- Rejected: pt-BR/b4-ch055.md [9] — “imóvel” aplicado à apreensão e à escolha do anjo — Traduz *immobilis*/*immobiliter* conforme a distinção imóvel/imutável do glossário; o sentido de fixidez se mantém.
+
+### Part terms 9 of 9, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente os seis parágrafos apresentados e verificadas as duas correções da rodada anterior; nenhum defeito encontrado.
