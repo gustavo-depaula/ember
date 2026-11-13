@@ -46,19 +46,19 @@ Destino: pt-BR.
 | Eutyches / Dioscorus / Nestorius / Theodorus Mopsuestenus / Apollinarius / Photinus | Eutiques / Dióscoro / Nestório / Teodoro de Mopsuéstia / Apolinário / Fotino | Nomes conforme as formas portuguesas |
 | Athanasius / Anselmus / Dionysius / Arius | Atanásio / Anselmo / Dionísio / Ário | Nomes sem títulos de santidade, conforme a fonte |
 | de Trin. / de Praedest. sanctorum / de fide ad Petrum | *A Trindade* / *A predestinação dos santos* / *A fé a Pedro* | Mantidas as atribuições da fonte |
-| Sententiae / Moralia / de Div. Nom. / de conceptu virginali | *Sentenças* / *Morais* / *Os nomes divinos* / *A concepção virginal* | Títulos das obras citadas |
+| Sententiae / Moralia / de Div. Nom. / de conceptu virginali | *Sentenças* / *Moralia* / *Os nomes divinos* / *A concepção virginal* | Títulos das obras citadas |
 | similitudo exemplaris / recreatio / assumptibilis | semelhança exemplar / recriação / apto a ser assumido | III q. 3 a. 8 e q. 4 prólogo |
 | suppositum / hypostasis / subsistentia | supósito / hipóstase / subsistência | III q. 4–6; preservada a distinção dos termos |
 | personalitas / esse personale | personalidade / ser pessoal | “Personalidade” designa aqui a condição de pessoa |
 | similitudo imaginis / similitudo vestigii | semelhança da imagem / semelhança do vestígio | III q. 4 a. 1 |
 | potentia passiva naturalis | potência passiva natural | III q. 4 a. 1 |
 | anima sensitiva / anima intellectiva / anima rationalis | alma sensitiva / alma intelectiva / alma racional | Mantidas as distinções lexicais |
-| mens / intellectus / spiritus | mente / intelecto / espírito | *Spiritus* é “sopro” no contexto da produção da voz, III q. 6 a. 6 |
+| mens / intellectus / spiritus | mente / intelecto / espírito | *Spiritus* é “sopro” no contexto da produção da voz, III q. 6 a. 6; *intellectus*, quando designa o conteúdo significado, também é “conceito” |
 | gratia unionis / gratia iustificans | graça da união / graça justificante | III q. 5–6 |
 | ordo temporis / ordo naturae | ordem do tempo / ordem de natureza | III q. 6 |
 | causa efficiens / medium formale / medium movens | causa eficiente / meio formal / meio motor | III q. 6 a. 6 |
 | Damascenus / Boetius / Volusianus / Origenes | Damasceno / Boécio / Volusiano / Orígenes | Formas portuguesas |
-| Manichaeus / Valentinus / Orosius / Hilarius / Theophilus | Maniqueu / Valentim / Orósio / Hilário / Teófilo | Nomes; “São Teófilo” onde a fonte traz *sancti Theophili* |
+| Manichaeus / Valentinus / Orosius / Hilarius / Theophilus | Manes / Valentim / Orósio / Hilário / Teófilo | Nomes; “São Teófilo” onde a fonte traz *sancti Theophili* |
 | de agone Christiano / de haeresibus / contra Felicianum | O combate cristão / As heresias / Contra Feliciano | Mantidas as atribuições da fonte |
 | de ecclesiasticis dogmatibus / octogintatrium quaest. | Os dogmas eclesiásticos / Oitenta e três questões | Títulos das obras citadas |
 | de duabus naturis / Caelestis Hierarchia / de causis | As duas naturezas / A hierarquia celeste / Livro das causas | Títulos das obras citadas |
@@ -67,7 +67,7 @@ Destino: pt-BR.
 | gratia gratum faciens / gratia gratis data | graça que torna agradável a Deus / graça gratuitamente dada | Mantida a distinção técnica; ambas são gratuitas |
 | gratia operans / gratia cooperans | graça operante / graça cooperante | III q. 7 a. 9 |
 | plenitudo gratiae | plenitude da graça | Distinguida por parte da graça e por parte do sujeito |
-| virtus / donum / habitus | virtude / dom / hábito | *Virtus* também é “poder”, “capacidade” ou “eficácia”, conforme o contexto |
+| virtus / donum / habitus | virtude / dom / hábito | *Virtus* também é “poder”, “capacidade” ou “eficácia”, conforme o contexto; no plural, designando feitos miraculosos, “milagres”, como em *operatio virtutum*, “operação de milagres” |
 | liberalitas / magnificentia / temperantia / continentia | liberalidade / magnificência / temperança / continência | III q. 7 a. 2 |
 | timor castus / timor servilis | temor casto / temor servil | III q. 7 a. 6 |
 | viator / comprehensor | viador / compreensor | Quem está a caminho da bem-aventurança / quem já a alcançou |
@@ -76,7 +76,7 @@ Destino: pt-BR.
 | caput Ecclesiae / corpus mysticum | cabeça da Igreja / corpo místico | III q. 8 |
 | fides informis | fé informe | Fé sem a caridade; III q. 8 a. 3 |
 | Plotinus / Dardanus / Giezi / Cyrus | Plotino / Dárdano / Giezi / Ciro | Formas portuguesas |
-| Ethica / Moralia / de Divinis Nominibus | Ética / Morais / Os nomes divinos | Títulos das obras citadas |
+| Ethica / Moralia / de Divinis Nominibus | Ética / Moralia / Os nomes divinos | Títulos das obras citadas |
 | de Praedestinatione sanctorum / Enchiridion / de memoria et reminiscentia | A predestinação dos santos / Enquirídio / A memória e a reminiscência | Títulos das obras citadas |
 | gratia personalis / gratia capitis / gratia unionis | graça pessoal / graça de cabeça / graça de união | III q. 8 a. 5 |
 | scientia beata / scientia beatorum | ciência beatífica / ciência dos bem-aventurados | Conhecimento pela visão de Deus |
@@ -91,14 +91,14 @@ Destino: pt-BR.
 | comprehendere / comprehensio | compreender / compreensão | Conhecer tão perfeitamente quanto o objeto é cognoscível; distinto de simplesmente conhecer |
 | suppositum / hypostasis | supósito / hipóstase | Vocabulário da subsistência e da união pessoal |
 | Antichristus / Eunomius / Volusianus / Tullius | Anticristo / Eunômio / Volusiano / Túlio | Túlio é Marco Túlio Cícero |
-| de Anima / de Caelo et Mundo / Physica / Metaphysica | A alma / O céu e o mundo / Física / Metafísica | Obras do Filósofo |
+| de Anima / de Caelo et Mundo / Physica / Metaphysica | A alma / Sobre o céu e o mundo / Física / Metafísica | Obras do Filósofo |
 | super Genesim ad Litteram / de Ecclesiasticis Dogmatibus / de Trinitate | Comentário literal ao Gênesis / Os dogmas eclesiásticos / A Trindade | Títulos das obras citadas |
 | Caelestis Hierarchia / liber octoginta trium quaestionum | Hierarquia celeste / Oitenta e três questões | Títulos das obras citadas |
 | collatio / discursus | comparação / raciocínio discursivo | Comparação racional e passagem de um conhecimento a outro |
 | scientia collativa | ciência por comparação | Forma adotada para preservar a distinção verbal em relação a *scientia discursiva* |
 | habitus / scientia habitualis | hábito / ciência habitual | Disposição estável; conhecimento possuído mesmo quando não está em exercício |
 | viator / comprehensor | viador / compreensor | Condição de quem caminha para a bem-aventurança / de quem já a possui |
-| potentia activa / virtus instrumentalis | potência ativa / poder instrumental | III q. 13 |
+| potentia activa / virtus instrumentalis | potência ativa / poder instrumental | III q. 13; *potentia activa* também é “poder ativo” quando designa o poder divino de agir |
 | defectus corporales / poenalitates | deficiências corporais / penalidades | Conservada a distinção entre deficiência e seu caráter de pena |
 | passibilitas / corruptibilitas | passibilidade / corruptibilidade | Capacidade de padecer / condição do que pode corromper-se |
 | contrahere / assumere | contrair / assumir | Distinção central em III q. 14 a. 3 |
@@ -107,14 +107,14 @@ Destino: pt-BR.
 | spiritus | espíritos | Em III q. 13 a. 3, elementos corpóreos sutis da fisiologia antiga e medieval |
 | Damascenus / Remigius / Agatho / Dioscorus / Polycarpus | Damasceno / Remígio / Agatão / Dióscoro / Policarpo | Formas portuguesas dos nomes citados |
 | de Divinis Nominibus / Posteriora | Os nomes divinos / Analíticos posteriores | Títulos das obras citadas |
-| de quaestionibus Novi et Veteris Testamenti / Moralia | Questões do Novo e do Antigo Testamento / Morais | Títulos das obras citadas |
+| de quaestionibus Novi et Veteris Testamenti / Moralia | Questões do Novo e do Antigo Testamento / Moralia | Títulos das obras citadas |
 | fomes peccati | fomes do pecado | Inclinação desordenada do apetite sensível; metáfora esclarecida em nota |
 | passio animalis / passio corporalis | paixão da alma / paixão corporal | Distinção dos modos de padecer em III q. 15 a. 4 |
 | propassio / passio perfecta | propaixão / paixão completa | Distinção explicada pelo próprio texto quanto à extensão da paixão à razão |
 | appetitus sensitivus / sensualis appetitus | apetite sensível | Forma comum para as duas expressões latinas |
 | concupiscibilis / irascibilis | concupiscível / irascível | Potências do apetite sensível |
 | ira per vitium / ira per zelum | ira por vício / ira por zelo | III q. 15 a. 9 |
-| malum poenae / malum culpae | mal de pena / mal de culpa | Distinção preservada em III q. 15 |
+| malum poenae / malum culpae | mal da pena / mal da culpa | Distinção preservada em III q. 15 |
 | suppositum / hypostasis | supósito / hipóstase | Sujeito subsistente; distinção terminológica mantida |
 | supponere pro | supor por | Uso lógico: um termo está em lugar de determinado sujeito |
 | materia remota / naturalis / contingens | matéria remota / natural / contingente | Classificação lógica das proposições em III q. 16 a. 1 |
@@ -141,7 +141,7 @@ Destino: pt-BR.
 | comprehensor / viator | compreensor / viador | Posse da visão de Deus e condição de quem ainda está a caminho |
 | Gregorius Nazianzenus / Chelidonius | Gregório Nazianzeno / Cledônio | Forma portuguesa usual do destinatário das cartas cristológicas citadas |
 | Apollinaris / Eutyches / Manichaeus | Apolinário / Eutiques / Manes | Nomes dos autores de posições discutidas |
-| Macarius Antiochenus / Cyrus Alexandrinus / Sergius Constantinopolitanus / Agatho | Macário de Antioquia / Ciro de Alexandria / Sérgio de Constantinopla / Agatão | Nomes em III q. 18 a. 1 |
+| Macarius Antiochenus / Cyrus Alexandrinus / Sergius Constantinopolitanus / Agatho | Macário, patriarca de Antioquia / Ciro de Alexandria / Sérgio de Constantinopla / Agatão | Nomes em III q. 18 a. 1 |
 | Boetius / Porphyrius / Epictetus / Maximinus | Boécio / Porfírio / Epicteto / Maximino | Formas portuguesas dos nomes citados |
 | de duabus naturis / Enchiridion / contra Felicianum / contra Maximinum | As duas naturezas / Enquirídio / Contra Feliciano / Contra Maximino | Títulos das obras citadas |
 | operatio / operatum | operação / obra realizada; obra | Distinção entre a ação e aquilo que ela realiza, especialmente em III q. 19 |
@@ -209,9 +209,9 @@ Destino: pt-BR.
 | super Gen. ad Litt. / de fide ad Petrum | Comentário literal ao Gênesis / A fé a Pedro | Títulos conforme as atribuições da fonte |
 | liberum arbitrium / electio / consilium | livre-arbítrio / escolha / conselho | “Deliberação do conselho” conserva a distinção entre deliberação e escolha |
 | actus secundus / habitus | ato segundo / hábito | Vocabulário da perfeição operativa |
-| phantasmata | imagens sensíveis | Imagens às quais o intelecto se volta no conhecimento |
+| phantasmata | fantasmas | Imagens às quais o intelecto se volta no conhecimento |
 | comprehensor / viator | compreensor / viador | Quem já alcançou a visão de Deus / quem ainda caminha para ela |
-| nativitas / filiatio / maternitas | nascimento / filiação / maternidade | Distinções centrais de III q. 35 |
+| nativitas / filiatio / maternitas | nascimento / filiação / maternidade | Distinções centrais de III q. 35; no contexto trinitário, *nativitas* também é “natividade” |
 | suppositum / relatio realis / relatio rationis | supósito / relação real / relação de razão | O supósito é o sujeito subsistente; preservada a distinção entre realidade e razão |
 | supponere pro | designar | Em III q. 35 a. 4, função do nome que se refere a uma hipóstase |
 | beata Virgo / Dei genitrix | bem-aventurada Virgem / genitora de Deus | “Mãe de Deus” para *mater Dei* |
@@ -220,7 +220,7 @@ Destino: pt-BR.
 | Volusianus / Helvidius / Simeon / Anna | Volusiano / Helvídio / Simeão / Ana | Nomes próprios |
 | de anima / de caelo / Physica / Metaphysica | A alma / O céu / Física / Metafísica | Títulos das obras filosóficas citadas |
 | II Reg. | 2 Samuel | Correspondência com a nomenclatura portuguesa dos livros bíblicos |
-| circumcisio / praeputium | circuncisão / incircuncisão | Em III q. 37 a. 2, “entre os circuncisos / entre os incircuncisos” exprime os grupos designados |
+| circumcisio / praeputium | circuncisão / incircuncisão | Em III q. 37 a. 2, “entre os circuncisos / entre os incircuncisos” exprime os grupos designados; *praeputium* também é “prepúcio” no sentido anatômico e na metáfora dos primeiros rebentos, I-II q. 102 a. 2 e a. 6 |
 | Baptismus Ioannis / Baptismus Christi | batismo de João / Batismo de Cristo | Maiúscula para o sacramento instituído por Cristo; minúscula para o rito de João e para o batismo recebido por Cristo |
 | sacramentum / sacramentale / character | sacramento / sacramental / caráter | Vocabulário sacramental |
 | poenitentia / remissio peccatorum | penitência / remissão dos pecados | Termos recorrentes nas questões sobre o batismo |
@@ -231,12 +231,12 @@ Destino: pt-BR.
 | paranymphus | amigo do esposo | Em III q. 38 a. 3, designa João em relação a Cristo, o esposo |
 | fomes peccati | fômite do pecado | Inclinação desordenada para o pecado; termo explicado em nota em III q. 39 a. 5 |
 | missio visibilis / apparitio | missão visível / aparição | Preservada a distinção em III q. 39 a. 8 |
-| visio imaginaria / visio intellectualis | visão imaginativa / visão intelectual | “Imaginativa” designa a faculdade da imaginação, sem implicar falsidade |
+| visio imaginaria / visio intellectualis | visão imaginária / visão intelectual | “Imaginária” designa a modalidade de visão pela imaginação, sem implicar falsidade |
 | conversatio | modo de viver / convivência | Conforme designe a conduta de vida ou o convívio com os homens |
 | contemplata aliis tradere | transmitir aos outros o que se contemplou | Fórmula sobre a vida de pregação e ensino |
 | abstinentia / continentia | abstinência / continência | Conservada a distinção entre a disciplina da alimentação e o domínio dos desejos carnais |
 | Remigius / Vigilantius / Origenes | Remígio / Vigilâncio / Orígenes | Nomes próprios |
-| sapientia / scientia / consilium / intellectus / pietas / fortitudo / timor | sabedoria / ciência / conselho / entendimento / piedade / fortaleza / temor | Os sete dons do Espírito Santo em III q. 39 a. 6 |
+| sapientia / scientia / consilium / intellectus / pietas / fortitudo / timor | sabedoria / ciência / conselho / entendimento / piedade / fortaleza / temor | Os sete dons do Espírito Santo em III q. 39 a. 6; fora da designação do dom, *consilium* também é “deliberação”, como ato da razão prática |
 | inanis gloria / vana gloria | vanglória | Mantida a mesma tradução para ambas as expressões |
 | gentiles / gentes | gentios / povos | “Gentios” quando se designam os não judeus; “povos” conforme o alcance universal do contexto |
 | virtus divina / propria virtute | poder divino / por seu próprio poder | No contexto dos milagres, *virtus* designa poder operativo |
@@ -310,7 +310,7 @@ Destino: pt-BR.
 | gratia capitis | graça capital | Graça de Cristo enquanto cabeça da Igreja |
 | gratia habitualis | graça habitual | Graça que aperfeiçoa a alma de Cristo |
 | beatitudo | beatitude | “Bem-aventurado” para o adjetivo beatus |
-| sacramentum / sacrum secretum | sacramento / segredo sagrado | Conservada a polissemia examinada em III q. 60 a. 1 |
+| sacramentum / sacrum secretum | sacramento / segredo sagrado | Conservada a polissemia examinada em III q. 60 a. 1; *sacramentum*, como vínculo jurado de fidelidade, “juramento” em II-II q. 12 a. 2 |
 | signum / significatio | sinal / significação | Terminologia da exposição sobre os sacramentos |
 | res sensibilis / res intelligibilis | coisa sensível / coisa inteligível | Mantida a distinção filosófica |
 | sanctificatio / sanctificans | santificação / santificante | Referidas à ação santificadora e à sua causa |
@@ -364,7 +364,7 @@ Destino: pt-BR.
 | fides informis / fides formata | fé informe / fé formada | Distinção segundo a ausência ou presença da caridade |
 | opera satisfactoria | obras satisfatórias | Obras de satisfação pelos pecados |
 | character baptismalis | caráter batismal | Distinto da graça conferida pelo Batismo |
-| infidelitas | infidelidade | Falta da fé cristã no contexto |
+| infidelitas | infidelidade | Falta da fé cristã no contexto; também “incredulidade”, para a ausência ou recusa da fé |
 | servitus civilis | servidão civil | Conservada a categoria jurídica histórica do argumento |
 | Concilium Maguntinum / Concilium Agathense | Concílio de Mogúncia / Concílio de Agde | Formas portuguesas dos topônimos |
 | Valentinianus / Dardanus / Thamar | Valentiniano / Dárdano / Tamar | Nomes próprios |
@@ -429,7 +429,7 @@ Destino: pt-BR.
 | Berengarius | Berengário | Berengário de Tours |
 | Innocentius III | Inocêncio III | Nome pontifício |
 | forma sacramenti / substantia formae | forma do sacramento / substância da forma | Conservada a distinção entre a forma e o que lhe é essencial |
-| testamentum | testamento | Conservado também nas fórmulas e citações para sustentar o argumento sobre herança e testador |
+| testamentum | testamento | Conservado também nas fórmulas e citações para sustentar o argumento sobre herança e testador; em I-II q. 102 a. 4, *arca testamenti* e *tabulae testamenti* são “arca da aliança” e “tábuas da aliança” |
 | terminus a quo / terminus ad quem | termo de partida / termo de chegada | Extremos da conversão |
 | manducatio spiritualis | manducação espiritual | III q. 78 a. 1 |
 | locutio | proposição | Nas análises da verdade e da eficácia das fórmulas sacramentais |
@@ -563,7 +563,7 @@ Destino: pt-BR.
 | in tertia parte huius operis | na Terceira Parte desta obra | |
 | voluntarium / involuntarium / non voluntarium | o voluntário / o involuntário / o não voluntário | q. 6 |
 | simpliciter / secundum quid / absolute | simplesmente / sob certo aspecto / absolutamente | *absolute* distinto de *simpliciter* em q. 6 a. 6 |
-| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão” |
+| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão”; quando designa uma argumentação, *ratio* também é “argumento” ou “raciocínio” |
 | virtus (= potência ativa) | poder | “virtude” só para a virtude moral; *virtute divina* = “o poder divino” |
 | per sua naturalia | por suas forças naturais | |
 | bruta animalia | animais irracionais | |
@@ -590,18 +590,18 @@ Destino: pt-BR.
 | cuius gratia / in quibus est operatio | “em vista de quê” / aquelas coisas em que está a operação | q. 7 a. 4 |
 | Tullius / rhetorica | Túlio / *Retórica* | nota do tradutor em q. 7 a. 1 |
 | rhetor / moralis / politicus | o retórico / o moralista / o político | orator = orador |
-| fortis / fortitudo | o forte / a fortaleza | |
+| fortis / fortitudo | o forte / a fortaleza | Quando designa a intensidade do vinho, *fortitudo* é “força” |
 | ad aliquid | relação | “na relação, o bem é o útil” |
 | ea quae sunt ad finem / id quod est ad finem | as coisas que são para o fim / o que é para o fim | |
 | velle / frui / intendere | querer / fruir / intencionar | fruitio / intentio = fruição / intenção |
 | noluntas | nolição | nota do tradutor em q. 8 a. 1 |
 | bonum honestum / utile / delectabile | bem honesto / útil / deleitável | |
-| appetibile / volitum / intelligere | apetecível / querido / inteligir | |
+| appetibile / volitum / intelligere | apetecível / querido / entender | |
 | exercitium (usus) / specificatio (determinatio) actus | exercício (uso) / especificação (determinação) do ato | |
 | ratio volendi | razão de querer | exceção a *ratio* = “noção” |
 | vis (animae, immaterialis, sensitiva) | faculdade | *virtus* continua “poder” |
 | consilium | conselho | a deliberação |
-| instinctus | impulso | |
+| instinctus | impulso | Como moção divina recebida por Daniel, também “inspiração” (II-II q. 67 a. 1 e a. 3) |
 | ex necessitate / de necessitate | necessariamente | |
 | irascibilis / concupiscibilis | o irascível / o concupiscível | |
 | principatus despoticus / regalis seu politicus | domínio despótico / régio ou político | |
@@ -626,7 +626,7 @@ Destino: pt-BR.
 | sententia vel iudicium | sentença ou juízo | |
 | ordo resolutorius | ordem resolutiva | |
 | velleitas | veleidade | |
-| dilectio | dileção | |
+| dilectio | amor | |
 | Gregorius Nyssenus / Damascenus / Prosper / beatus Benedictus | Gregório de Nissa / o Damasceno / Próspero / o bem-aventurado Bento | nota do tradutor sobre Nemésio em q. 13 a. 1 |
 | de Doctr. Christ. / de Trin. / octoginta trium quaest. / de Serm. Dom. in Mont. / contra Faustum / de Div. Nom. | *A doutrina cristã* / *A Trindade* / *Oitenta e três questões* / *O sermão do Senhor na montanha* / *Contra Fausto* / *Os nomes divinos* | |
 | Ethic. / Physic. / de anima / de caelo / Metaphys. | *Ética* / *Física* / *Sobre a alma* / *Sobre o céu* / *Metafísica* | |
@@ -637,7 +637,7 @@ Destino: pt-BR.
 | ratio superior / ratio inferior | razão superior / razão inferior | |
 | modus resolutorius / compositivus | modo resolutivo / compositivo | nota do tradutor em q. 14 a. 5 |
 | volitum / habitudo | o objeto querido / relação | |
-| potentia / vis / virtus (potência) | potência / força / potência | *in virtute* = “em virtude”; *virtute* = “virtualmente” |
+| potentia / vis / virtus (potência) | potência / força / potência | *in virtute* = “em virtude”; *virtute* = “virtualmente”; *potentia*, quando designa o poder de agir, especialmente o divino, também é “poder” |
 | anima vegetabilis / appetitus sensitivus / irascibilis / concupiscibilis | alma vegetativa / apetite sensitivo / irascível / concupiscível | *irascitivum* (Gregório de Nissa) = “irascitivo” |
 | concupiscere | cobiçar | *concupiscentia* = “concupiscência” |
 | animus (Agostinho) | espírito | |
@@ -692,10 +692,10 @@ Destino: pt-BR.
 | arduum / arduitas | árduo / arduidade | |
 | amor / odium | amor / ódio | |
 | desiderium / concupiscentia / fuga / abominatio | desejo / concupiscência / fuga / abominação | |
-| gaudium / laetitia / delectatio / tristitia / dolor | alegria / alegria / deleite / tristeza / dor | |
+| gaudium / laetitia / delectatio / tristitia / dolor | gozo / alegria / deleite / tristeza / dor | |
 | spes / desperatio / timor / audacia / ira | esperança / desespero / temor / audácia / ira | |
 | cupiditas | cupidez | |
-| dilectio / caritas / amicitia | dileção / caridade / amizade | nota do tradutor em q. 26 a. 3 |
+| dilectio / caritas / amicitia | amor / caridade / amizade | nota do tradutor em q. 26 a. 3 |
 | amor amicitiae / amor concupiscentiae | amor de amizade / amor de concupiscência | |
 | complacentia / connaturalitas / coaptatio | complacência / conaturalidade / coadaptação | |
 | immutatio (appetitus ab appetibili) | modificação | |
@@ -720,7 +720,7 @@ Destino: pt-BR.
 | simpliciter / secundum quid | pura e simplesmente / sob certo aspecto | |
 | per se / per accidens | por si / por acidente | “falando por si” |
 | sub ratione boni / habet rationem boni | sob a razão de bem / tem razão de bem | |
-| vis / potentia / virtus | força / potência / virtude | “força apetitiva”, “potência concupiscível”, “virtude unitiva” |
+| vis / potentia / virtus | força / potência / virtude | “força apetitiva”, “potência concupiscível”, “virtude unitiva”; *potentia*, quando designa o poder de agir, especialmente o divino, também é “poder” |
 | appetere / appetibile / concupiscere | apetecer / apetecível / cobiçar | “o bem é aquilo que todas as coisas apetecem” |
 | voluptas | prazer | |
 | electio | eleição | |
@@ -782,7 +782,7 @@ Destino: pt-BR.
 | condolere / compatiens | condoer-se / que se compadece | q. 38 a. 3 |
 | tristitia de malo / delectatio de malo | tristeza pelo mal / deleite com o mal | q. 39 |
 | eligibilis / fugiendum | digno de escolha / aquilo de que se deve fugir | q. 39 a. 3 |
-| spes / desperatio / cupiditas | esperança / desespero / cupidez | q. 40 |
+| spes / desperatio / cupiditas | esperança / desespero / cobiça | q. 40; *cupiditas* também é “desejo” quando designa genericamente o desejar, como em desejar enganar ou agradar |
 | arduum / arduitas | árduo / arduidade | q. 40 a. 1 |
 | exspectare / expectatio / fiducia | aguardar / expectativa / confiança | nota do tradutor em q. 40 a. 2 |
 | vis (cognitiva, apprehensiva) / virtus (appetitiva) | força / potência | q. 40 a. 2 |
@@ -801,7 +801,7 @@ Destino: pt-BR.
 | consilium / consiliari / consiliativus | deliberação / deliberar / deliberativo | q. 44 a. 2 |
 | segnities / erubescentia / verecundia / admiratio / stupor / agonia | indolência / enrubescimento / vergonha / admiração / estupor / agonia | q. 41 a. 4, com nota do tradutor |
 | spiritus (fisiologia) | espíritos | nota do tradutor em q. 40 a. 6 |
-| defectus | deficiência | q. 43 a. 2 |
+| defectus | deficiência | q. 43 a. 2; no funcionamento do conselho, do juízo e do comando, também “falha” |
 | decertare | competir | q. 43 a. 2 |
 | existimatio / aestimatio | juízo, julgar / estimativa | |
 | appetitus animalis / animalis praesentia | apetite anímico / presença anímica | q. 41 a. 1 ad 2 |
@@ -849,7 +849,7 @@ Destino: pt-BR.
 | commensuratio / excedens et excessum | comensuração / o excedente e o excedido | q. 52 a. 1 |
 | per posterius | secundariamente | q. 52 a. 1 ad 3 |
 | vis cogitativa / ratio particularis / intellectus passivus | força cogitativa / razão particular / intelecto passivo | q. 51 a. 3, com nota do tradutor |
-| habitus opinativus / scientia / disciplinae | hábito opinativo / ciência / disciplinas | q. 51–53 |
+| habitus opinativus / scientia / disciplinae | hábito opinativo / ciência / disciplinas | q. 51–53; disciplina, no sentido do processo de aprender, é “aprendizado” ou “aprendizagem” |
 | propositio per se nota / probabilis | proposição conhecida por si / provável | q. 51 a. 2–3 |
 | habitus infusus / acquisitus; virtutes gratuitae | hábito infuso / adquirido; virtudes gratuitas | q. 51 a. 4 |
 | oblivio / deceptio | esquecimento / engano | q. 53 |
@@ -859,7 +859,7 @@ Destino: pt-BR.
 | naturalis / astrologus | o físico / o astrônomo | q. 54 a. 2, com nota do tradutor |
 | partes similes / fortitudo (corporis) / macies | partes homogêneas / robustez / magreza | q. 54 a. 1 |
 | fortitudo (virtus) | fortaleza | q. 54 a. 4 |
-| trigonum / tetragonum; bicubitum / tricubitum | triângulo / quadrado; de dois côvados / de três côvados | q. 52 a. 1; q. 54 a. 1 |
+| trigonum / tetragonum; bicubitum / tricubitum | triângulo / quadrado; de dois côvados / de três côvados | q. 52 a. 1; q. 54 a. 1; na comparação das figuras em I q. 76 a. 3, *tetragonum* = “quadrilátero”, com o adjetivo “quadrilátera” |
 | virtus humana / virtus heroica sive divina | virtude humana / virtude heroica ou divina | q. 54 a. 3 |
 | partes integrales / subiectivae / potentiales | partes integrantes / subjetivas / potenciais | q. 54 a. 4 |
 | ultimum potentiae | o extremo da potência | q. 55 a. 1, com nota do tradutor |
@@ -872,7 +872,7 @@ Destino: pt-BR.
 | irascibilis / concupiscibilis | o irascível / o concupiscível | q. 56 a. 4 |
 | appetitus sensitivus / rationalis; vis appetitiva | apetite sensitivo / racional; força apetitiva | q. 56 |
 | vires sensitivae apprehensivae interius; imaginativa, cogitativa, memorativa | forças sensitivas apreensivas internas; imaginativa, cogitativa, memorativa | q. 56 a. 5 |
-| phantasmata | fantasmas | q. 56 a. 5 |
+| phantasmata | imagens sensíveis | q. 56 a. 5 |
 | rationale per participationem / per essentiam | racional por participação / por essência | q. 56 a. 4, 6; q. 57 a. 2 |
 | bruta | animais irracionais | q. 56 a. 4; q. 58 a. 1 |
 | agibilia / factibilia; agere / facere; factio | coisas agíveis / factíveis; agir / fazer; o fazer, produção | q. 57 a. 4–5 |
@@ -922,7 +922,7 @@ Destino: pt-BR.
 | virtus infusa / acquisita | virtude infusa (infundida) / adquirida | q. 63 |
 | assuetudo operum | costume das obras | q. 63; evita “hábito”, termo técnico |
 | inchoatio / seminalia virtutum | começo / sementes das virtudes | q. 63 a. 1–3 |
-| modus / modificare | modo / impor modo, receber seu modo | q. 61 a. 4; q. 63 a. 2 e a. 4 |
+| modus / modificare | modo / impor modo, receber seu modo | q. 61 a. 4; q. 63 a. 2 e a. 4; modus no sentido de limite ou moderação também é “medida” |
 | credibilia | as coisas críveis | q. 62 a. 3 |
 | spes formata; formari per caritatem | esperança formada; ser formada pela caridade | q. 62 a. 4 |
 | intellectus principiorum | intelecto dos princípios | q. 62 a. 3; q. 63 a. 2 |
@@ -952,7 +952,7 @@ Destino: pt-BR.
 | gentiles | gentios | q. 65 a. 2 |
 | in primo (dictum est) | na Primeira Parte | |
 | II Ethic. etc. | no livro II da *Ética* | forma das citações por livro |
-| Ambrosius super Lucam / de Trin. / de Tuscul. quaest. / de Lib. Arbit. / Enchirid. / super Ioan. / Rhetoric. / de anima / de partibus Animal. / praedicamenta | Ambrósio, *Sobre Lucas* / *A Trindade* / *Discussões tusculanas* / *O livre-arbítrio* / *Enquirídio* / *Sobre João* / *Retórica* / *Sobre a alma* / *Sobre as partes dos animais* / *Categorias* | |
+| Ambrosius super Lucam / de Trin. / de Tuscul. quaest. / de Lib. Arbit. / Enchirid. / super Ioan. / Rhetoric. / de anima / de partibus Animal. / praedicamenta | Ambrósio, *Sobre Lucas* / *A Trindade* / *Questões tusculanas* / *O livre-arbítrio* / *Enquirídio* / *Sobre João* / *Retórica* / *Sobre a alma* / *Sobre as partes dos animais* / *Categorias* | |
 | Prosper / Simplicius / Beda / Stoici | Próspero / Simplício / Beda / os estoicos | Próspero e Simplício com nota do tradutor |
 | Rom. / I Ioan. / Matth. / Proverb. / Apoc. / Luc. / I ad Cor. / Iac. | Romanos / 1 João / Mateus / Provérbios / Apocalipse / Lucas / 1 Coríntios / Tiago | sem versículo, como na fonte |
 | donum / dona Spiritus Sancti | dom / dons do Espírito Santo | q. 68 |
@@ -966,7 +966,7 @@ Destino: pt-BR.
 | virtus theologica / virtutes cardinales | virtude teologal / virtudes cardeais | |
 | cognitio matutina / vespertina | conhecimento matutino / vespertino | q. 67 a. 3, com nota do tradutor |
 | timor filialis / servilis | temor filial / servil | |
-| mititas / mansuetudo | mansidão / mansuetude | q. 69 a. 1 ad 3 distingue o ato da virtude; q. 68 a. 1 também “mansuetude” |
+| mititas / mansuetudo | mansidão / mansidão | q. 69 a. 1 ad 3 distingue o ato da virtude; q. 68 a. 1 também “mansuetude”; nas ocorrências apresentadas, a virtude *mansuetudo* é “mansidão” |
 | synesis / eubulia | synesis / eubulia | sem itálico, como na fonte; nota do tradutor em q. 68 a. 7 |
 | datio irreddibilis | doação sem restituição | q. 68 a. 1 obj. 3 |
 | Sed contra (est quod X dicit) | Em sentido contrário, há o que diz X | sem citação: “Em sentido contrário, …” |
@@ -1012,9 +1012,9 @@ Destino: pt-BR.
 | ratio superior / inferior; rationes aeternae / temporales | razão superior / inferior; razões eternas / temporais | *intendit rationibus aeternis* = “aplica-se às razões eternas” |
 | inspicere / conspicere / consulere (rationes aeternas) | contemplar / contemplar / consultar | |
 | consensus in actum / in delectationem | consentimento no ato / no deleite | |
-| potentia / vis / virtus (apprehensiva, appetitiva) | potência / força / faculdade (apreensiva, apetitiva) | *virtus* como faculdade, para não confundir com a virtude moral |
+| potentia / vis / virtus (apprehensiva, appetitiva) | potência / força / faculdade (apreensiva, apetitiva) | *virtus* como faculdade, para não confundir com a virtude moral; *potentia*, quando designa o poder de agir, especialmente o divino, também é “poder” |
 | elicitus / imperatus | elícito / imperado | |
-| simplex intuitus | simples intuição | |
+| simplex intuitus | intuição simples | |
 | acceptio personarum | acepção de pessoas | |
 | oratio dominica | oração dominical | |
 | III Reg. / II Paralip. / Sap. / Mich. / Zach. / Exod. / Num. / Rom. / Luc. / Iob | 1 Reis / 2 Crônicas / Sabedoria / Miqueias / Zacarias / Êxodo / Números / Romanos / Lucas / Jó | Reis e Paralipômenos pela numeração moderna |
@@ -1032,7 +1032,7 @@ Destino: pt-BR.
 | aestimativa (virtus) | (faculdade) estimativa | |
 | concupiscentia carnis / oculorum; superbia vitae | concupiscência da carne / dos olhos; soberba da vida | |
 | concupiscentia animalis | concupiscência anímica | com nota (q. 77 a. 5) |
-| cupiditas / avaritia | cupidez / avareza | |
+| cupiditas / avaritia | cobiça / avareza | *Cupiditas* também é “desejo” quando designa genericamente o desejar, como em desejar enganar ou agradar |
 | concupiscibilis / irascibilis; arduum | concupiscível / irascível; árduo | |
 | amor sui | amor de si | |
 | venia | vênia | conserva o laço com “venial” (q. 77 a. 8) |
@@ -1061,7 +1061,7 @@ Destino: pt-BR.
 | in primo / in tertio (a Suma) | na Primeira Parte / na Terceira Parte | |
 | Rom. / Sap. / Isaiae / Amos / Ezech. / Ioan. / Eccli. / II Cor. / Iob / Act. / I Petr. / II Petr. / Exod. / Apoc. / I Thessal. / Ephes. | Romanos / Sabedoria / Isaías / Amós / Ezequiel / João / Eclesiástico / 2 Coríntios / Jó / Atos / 1 Pedro / 2 Pedro / Êxodo / Apocalipse / 1 Tessalonicenses / Efésios | “ult.” = “último capítulo de” |
 | Ethic. / Ethica Eudemica / de somno et vigilia / de Generat. Animal. | *Ética* / *Ética a Eudemo* / *O sono e a vigília* / *A geração dos animais* | |
-| peri archon / de Div. Nom. / de Trin. / octoginta trium quaest. / Enchirid. / de quaest. Evang. / de gratia et libero arbitrio / de perfectione iustitiae / de Lib. Arb. / super Gen. ad Litt. / de summo bono / de ecclesiasticis dogmatibus | *Peri Archon* / *Os nomes divinos* / *A Trindade* / *Oitenta e três questões* / *Enchiridion* / *Questões sobre os Evangelhos* / *A graça e o livre-arbítrio* / *A perfeição da justiça* / *O livre-arbítrio* / *O Gênesis ao pé da letra* / *O sumo bem* / *Os dogmas eclesiásticos* | |
+| peri archon / de Div. Nom. / de Trin. / octoginta trium quaest. / Enchirid. / de quaest. Evang. / de gratia et libero arbitrio / de perfectione iustitiae / de Lib. Arb. / super Gen. ad Litt. / de summo bono / de ecclesiasticis dogmatibus | *Peri Archon* / *Os nomes divinos* / *A Trindade* / *Oitenta e três questões* / *Enquirídio* / *Questões sobre os Evangelhos* / *A graça e o livre-arbítrio* / *A perfeição da justiça* / *O livre-arbítrio* / *O Gênesis ao pé da letra* / *O sumo bem* / *Os dogmas eclesiásticos* | |
 | Articulus / Quaestio | Artigo / Questão | |
 | Ad primum sic proceditur. Videtur quod… / Praeterea / Sed contra / Respondeo dicendum quod / Ad primum ergo dicendum quod | Quanto ao primeiro, assim se procede. Parece que… / Além disso / Em sentido contrário / Respondo dizendo que / Quanto ao primeiro, portanto, deve-se dizer que | |
 | habitus; dispositio; privatio | hábito; disposição; privação | |
@@ -1072,7 +1072,7 @@ Destino: pt-BR.
 | bonum commutabile / incommutabile | bem mutável / imutável | |
 | aversio a Deo / conversio ad bonum commutabile | aversão a Deus / conversão ao bem mutável | |
 | vitiata origo; per originem | origem viciada; pela origem | |
-| cupiditas / avaritia | cobiça / avareza | q. 84 |
+| cupiditas / avaritia | cupidez / avareza | q. 84 |
 | superbia; inanis gloria; acedia; luxuria; gula; invidia; ira | soberba; vanglória; acídia; luxúria; gula; inveja; ira | |
 | vitia capitalia | vícios capitais | |
 | vulnera naturae: infirmitas, ignorantia, malitia, concupiscentia | feridas da natureza: fraqueza, ignorância, malícia, concupiscência | q. 85 a. 3 |
@@ -1128,7 +1128,7 @@ Destino: pt-BR.
 | paedagogus | pedagogo | I-II q. 91 a. 5 (Gálatas 3) |
 | Glossa / Damascenus / Basilius / Gratianus / Boetius | a Glosa / o Damasceno / Basílio / Graciano / Boécio | I-II q. 93–94 |
 | Ethic. / Polit. / Metaphys. / Physic. | *Ética* / *Política* / *Metafísica* / *Física* | Aristóteles |
-| contra Faustum / contra Adimantum Manichaei discipulum / octoginta trium quaest. / de vera Relig. / de Trin. / Confess. / de catechizandis rudibus / de bono coniugali | *Contra Fausto* / *Contra Adimanto, discípulo de Mani* / *Oitenta e três questões* / *A verdadeira religião* / *A Trindade* / *Confissões* / *A instrução dos catecúmenos* / *O bem do matrimônio* | Santo Agostinho |
+| contra Faustum / contra Adimantum Manichaei discipulum / octoginta trium quaest. / de vera Relig. / de Trin. / Confess. / de catechizandis rudibus / de bono coniugali | *Contra Fausto* / *Contra Adimanto, discípulo de Manes* / *Oitenta e três questões* / *A verdadeira religião* / *A Trindade* / *Confissões* / *A instrução dos catecúmenos* / *O bem do matrimônio* | Santo Agostinho |
 | Boetius, de Hebdomad. / Iulius Caesar, de bello Gallico | *As hebdômadas* / *A guerra das Gálias* | I-II q. 94 |
 | Isidorus, Etymol. / Synonym. | Isidoro, *Etimologias* / *Sinônimos* | I-II q. 94–97 |
 | Tullius, Rhetor. / de Offic. | Túlio, *Retórica* / *Os deveres* | I-II q. 95 |
@@ -1153,7 +1153,7 @@ Destino: pt-BR.
 | debitum, ratio debiti | débito, razão de débito | I-II q. 99 a. 5; q. 100 |
 | lex naturae / lex naturalis | lei da natureza / lei natural | segue o latim |
 | Decalogus | Decálogo | I-II q. 100 |
-| dilectio / caritas | amor / caridade | I-II q. 99–100 |
+| dilectio / caritas | dileção / caridade | I-II q. 99–100 |
 | Angeli | anjos (minúscula) | I-II q. 98 a. 3 |
 | Dionysius, de Div. Nom. / Cael. Hier. | Dionísio, *Os nomes divinos* / *A hierarquia celeste* | |
 | Gregorius, Moral. | Gregório, *Moralia* | |
@@ -1259,7 +1259,7 @@ Destino: pt-BR.
 | cohibere manum / animum | coibir a mão / o ânimo | q. 107 a. 1 ad 2; q. 108 a. 1 |
 | sacra | coisas sagradas | distintas dos sacramentos; q. 108 a. 2 |
 | sollicitudo | solicitude | q. 108 a. 3 ad 5 |
-| Montanus et Priscilla; Manichaeus | Montano e Priscila; Maniqueu | q. 106 a. 4 ad 2 |
+| Montanus et Priscilla; Manichaeus | Montano e Priscila; Manes | q. 106 a. 4 ad 2 |
 | contra Adamantum Manich. Discip. | Contra Adimanto, discípulo de Maniqueu | q. 107 a. 1 |
 | gratia gratum faciens | graça que torna agradável a Deus | q. 109 a. 1 ad 1; a contrapor a *gratia gratis data* (graça dada gratuitamente) |
 | naturalia; ex solis naturalibus; ex puris naturalibus | forças naturais; só com as forças naturais; com as puras forças naturais | q. 109 |
@@ -1282,17 +1282,17 @@ Destino: pt-BR.
 | gratia gratis data | graça dada gratuitamente | q. 111 |
 | gratia operans / cooperans | graça operante / cooperante | q. 111 a. 2 |
 | gratia praeveniens / subsequens; praevenire | graça preveniente / subsequente; prevenir | q. 111 a. 3; *misericordia eius praeveniet me* = “a sua misericórdia me prevenirá” |
-| dilectio (Dei) | amor (de Deus) | *fides quae per dilectionem operatur* = “a fé que opera pelo amor” |
+| dilectio (Dei) | dileção (de Deus) | *fides quae per dilectionem operatur* = “a fé que opera pelo amor”; nessa expressão, conserva-se “amor” |
 | Magister | o Mestre | Pedro Lombardo; nota em q. 110 a. 3 |
 | habitudo | disposição habitual | q. 110 a. 3 ad 3 |
 | sermo sapientiae / scientiae | palavra de sabedoria / de ciência | q. 111 a. 4 |
 | gratia sanitatum; operatio virtutum | graça das curas; operação de milagres | q. 111 a. 4; nota sobre *virtus* = *dýnamis* |
 | discretio spirituum; genera linguarum; interpretatio sermonum | discernimento dos espíritos; gêneros de línguas; interpretação das palavras | q. 111 a. 4 |
-| via; patria | caminho; pátria | *caritas viae* = “a caridade do caminho” |
+| via; patria | caminho; pátria | *caritas viae* = “a caridade da via” |
 | iustificatio impii | justificação do ímpio | q. 113 |
 | terminus a quo / ad quem | termo de partida / termo de chegada | q. 113 a. 1 |
 | illiberalitas | mesquinhez | oposta à prodigalidade, q. 113 a. 2 |
-| debitum | dívida; devido | q. 111 a. 1 ad 2 |
+| debitum | dívida; devido | q. 111 a. 1 ad 2; como obrigação moral ou jurídica, também “dever” |
 | reatus | reato | q. 113 a. 2 ad 3 |
 | liberum arbitrium; motus liberi arbitrii | livre-arbítrio; movimento do livre-arbítrio | q. 113 a. 3 |
 | motus liberi arbitrii in Deum / in peccatum | movimento do livre-arbítrio para Deus / em relação ao pecado | q. 113 a. 5–8 |
@@ -1300,7 +1300,7 @@ Destino: pt-BR.
 | infusio gratiae; remissio culpae | infusão da graça; remissão da culpa | q. 113 a. 6 |
 | detestatio | detestação | q. 113 a. 5 |
 | ordo naturae | ordem de natureza | q. 113 a. 8 |
-| phantasmata | fantasmas | q. 113 a. 7 ad 5 |
+| phantasmata | imagens sensíveis | q. 113 a. 7 ad 5 |
 | meritum; merces | mérito; recompensa | q. 114; *stipendium* = “salário” |
 | ex condigno / ex congruo; meritum condigni / congrui | de condigno / de côngruo; mérito de condigno / de côngruo | q. 114 a. 3, nota |
 | condignitas; congruitas | condignidade; congruência | q. 114 a. 3 |
@@ -1354,7 +1354,7 @@ Destino: pt-BR.
 | obligant semper, sed non ad semper | obrigam sempre, mas não a todo instante | II-II q. 3 a. 2; nota do tradutor |
 | fides formata / informis / informitas | fé formada / fé informe / informidade | II-II q. 4 |
 | substantia sperandarum rerum, argumentum non apparentium | substância das coisas que se esperam, argumento das coisas não aparentes | II-II q. 4 a. 1; nota do tradutor |
-| dilectio / dilectio caritatis | amor / amor de caridade | II-II q. 3–4 |
+| dilectio / dilectio caritatis | dileção / dileção de caridade | II-II q. 3–4 |
 | concupiscibilis | concupiscível | II-II q. 4 a. 2, a. 5 |
 | gratiae gratis datae | graças grátis dadas | II-II q. 4 a. 5 |
 | subesse (falsum fidei) | nada de falso pode estar sob a fé | II-II q. 4 a. 5 |
@@ -1381,18 +1381,18 @@ Destino: pt-BR.
 | diaphanum / distemperantia humorum | diáfano / destempero dos humores | II-II q. 6 a. 2 |
 | timor servilis / filialis | temor servil / filial | II-II q. 7 a. 1 |
 | affectus | afeto | II-II q. 7 a. 2; q. 8 |
-| donum intellectus / scientiae / sapientiae / consilii | dom do intelecto / da ciência / da sabedoria / do conselho | II-II q. 8–9; nota do tradutor em q. 8 pr. |
+| donum intellectus / scientiae / sapientiae / consilii | dom do intelecto / da ciência / da sabedoria / do conselho | II-II q. 8–9; nota do tradutor em q. 8 pr.; fora da designação do dom, *consilium* também é “deliberação”, como ato da razão prática |
 | gratia gratum faciens | graça santificante | II-II q. 8 a. 4–5 |
 | bene mobilis a Spiritu Sancto | bem movível pelo Espírito Santo | II-II q. 8 a. 5 |
 | hebetudo / acuitas / stultitia / praecipitatio | embotamento / agudeza / estultícia / precipitação | II-II q. 8 a. 4, a. 6 |
 | operabilia (humana) | obras humanas | II-II q. 8 a. 3 |
-| phantasmata | fantasmas | II-II q. 8 a. 7; nota do tradutor |
-| fructus spiritus / gaudium | frutos do Espírito / alegria | II-II q. 8 a. 8 |
+| phantasmata | imagens sensíveis | II-II q. 8 a. 7; nota do tradutor |
+| fructus spiritus / gaudium | frutos do Espírito / gozo | II-II q. 8 a. 8 |
 | Hugo de sancto Victore / Dionysius / Pelagiani | Hugo de São Vítor / Dionísio / os pelagianos | II-II q. 5 a. 1; q. 6 a. 1; q. 8 a. 1 |
 | de Trin. / de Praed. Sanct. / Octoginta trium Quaest. / Ethic. / de Div. Nom. / Sententiae (Hugo) | *A Trindade* / *A predestinação dos santos* / *Oitenta e três questões diversas* / *Ética* / *Os nomes divinos* / *Sentenças* | II-II q. 4–8 |
 | gratiae gratis datae | graças gratuitamente dadas | II-II q. 9 a. 1 |
 | luctus / lugere | pranto / chorar | II-II q. 9 a. 4 (bem-aventurança dos que choram) |
-| laetitia / gaudium | alegria (júbilo, quando ambos ocorrem juntos) / alegria | II-II q. 9 a. 4 |
+| laetitia / gaudium | alegria (júbilo, quando ambos ocorrem juntos) / gozo | II-II q. 9 a. 4 |
 | beatitudo viae | bem-aventurança da via | II-II q. 9 a. 4 |
 | infidelitas / infidelis / fidelis | infidelidade / infiel / fiel | II-II q. 10 |
 | gentiles / pagani / Saraceni | gentios / pagãos / sarracenos | II-II q. 10 |
@@ -1401,7 +1401,7 @@ Destino: pt-BR.
 | aversio / conversio (peccati) | aversão / voltar-se para | II-II q. 10 a. 3, a. 5 |
 | communicare / communio | comunicar com, ter comunicação / comunhão | II-II q. 10 a. 9 |
 | praelatio / praeesse / praefici | autoridade / estar à frente / ser posto à frente | II-II q. 10 a. 10 |
-| servus / dominus (homem) | servo / senhor | II-II q. 10 a. 9–10, a. 12 |
+| servus / dominus (homem) | servo / senhor | II-II q. 10 a. 9–10, a. 12; “dominus” também é “dono” quando designa o proprietário de uma coisa |
 | ius patriae potestatis | direito do pátrio poder | II-II q. 10 a. 12 |
 | Glossa | a Glosa | II-II q. 10 |
 | Decreta (Gratiani) | *Decretos* | II-II q. 10 a. 8, a. 11; nota do tradutor em q. 10 a. 8 |
@@ -1463,7 +1463,7 @@ Destino: pt-BR.
 | revereri / reverentia | reverenciar / reverência | II-II q. 19 a. 3, 9–10 |
 | servilitas / informitas | servilidade / informidade | II-II q. 19 a. 4, 6, 10 |
 | amor mercenarius | amor mercenário | II-II q. 19 a. 4 |
-| dilectio | dileção | II-II q. 19 a. 6–8 |
+| dilectio | amor | II-II q. 19 a. 6–8 |
 | bene mobilis (a Spiritu Sancto, a ratione) | pronto a ser movido | II-II q. 19 a. 9 |
 | paupertas spiritus / beatitudo luctus | pobreza de espírito / bem-aventurança do pranto | II-II q. 19 a. 12 |
 | magnificari / magnificatio | engrandecer-se / engrandecimento | II-II q. 19 a. 12 |
@@ -1507,7 +1507,7 @@ Destino: pt-BR.
 | de Caelo / Physic. / I de Gen. / de Causis | *O céu* / *Física* / *A geração e a corrupção* / *Livro das causas* | II-II q. 23–24 |
 | Deut. / Dan. / Philipp. / Apoc. / Ephes. / Gal. / Coloss. / I Tim. / Rom. | Deuteronômio / Daniel / Filipenses / Apocalipse / Efésios / Gálatas / Colossenses / 1 Timóteo / Romanos | II-II q. 22–24 |
 | ex caritate (diligere) | (amar) por caridade | II-II q. 25 |
-| dilectio | amor | II-II q. 24–25; *amor de caridade* para *dilectio caritatis* |
+| dilectio | dileção | II-II q. 24–25; “dileção de caridade” para *dilectio caritatis* |
 | cupiditas | cupidez | II-II q. 24 a. 8, 10; q. 25 a. 1 |
 | caritas incipiens, proficiens, perfecta / incipientes, proficientes, perfecti | caridade incipiente, proficiente, perfeita / principiantes, proficientes, perfeitos | II-II q. 24 a. 9 |
 | studium | empenho | II-II q. 24 a. 8–9 |
@@ -1547,7 +1547,7 @@ Destino: pt-BR.
 | Rhet. / de Gen. Animal. | *Retórica* / *A geração dos animais* | II-II q. 26–27 |
 | Isaiae / Eccli. / Mich. / Gen. / Ephes. / I ad Tim. / Rom. ult. | Isaías / Eclesiástico / Miqueias / Gênesis / Efésios / 1 Timóteo / último capítulo de Romanos | II-II q. 25–26 |
 | dilectio Dei (genitivo objetivo) | amor a Deus | II-II q. 27–30 |
-| modus / mensura / immodificatum | modo / medida / sem modo | II-II q. 27 a. 6 |
+| modus / mensura / immodificatum | modo / medida / sem modo | II-II q. 27 a. 6; *modus* também é “medida” quando designa limite ou proporção |
 | status viae / caritas viae | estado de via / caridade da via | II-II q. 27 a. 4 |
 | virtus cognitiva / appetitiva | potência cognoscitiva / apetitiva | II-II q. 27 a. 4 |
 | virtus (ignis) | potência (do fogo) | II-II q. 27 a. 7; q. 29 a. 4 |
@@ -1608,7 +1608,7 @@ Destino: pt-BR.
 | proditor / corrector | delator / corretor | II-II q. 33 a. 8 |
 | fama / infamia / infamare | fama / infâmia / infamar | II-II q. 33 a. 7 |
 | semper et ad semper | sempre e em todo momento | II-II q. 33 a. 2 (preceitos negativos) |
-| dilectio / amor | dileção / amor | II-II q. 33–35 |
+| dilectio / amor | amor / amor | II-II q. 33–35 |
 | odium Dei / odium proximi | ódio a Deus / ódio ao próximo | II-II q. 34 |
 | aversio a Deo / per se / secundum aliud | aversão a Deus / por si / em razão de outra coisa | II-II q. 34 a. 2 |
 | peccatum in Spiritum Sanctum | pecado contra o Espírito Santo | II-II q. 34 a. 2 |
@@ -1657,7 +1657,7 @@ Destino: pt-BR.
 | I Reg. / IV Reg. / I Esdr. / Iob / Deut. / Num. / Sap. / Ezech. / Nahum | 1 Samuel / 2 Reis / Esdras / Jó / Deuteronômio / Números / Sabedoria / Ezequiel / Naum | II-II q. 36–40 |
 | insidiae | emboscadas | II-II q. 40 a. 3 |
 | irregularis | irregular | II-II q. 40 a. 2 (impedimento canônico; nota) |
-| salus (corporalis / reipublicae) | salvação (corporal / da coisa pública) | II-II q. 40 a. 4; mesma palavra para manter o argumento *a fortiori* |
+| salus (corporalis / reipublicae) | salvação (corporal / da coisa pública) | II-II q. 40 a. 4; mesma palavra para manter o argumento *a fortiori*; fora desse argumento, salus corporis no sentido de condição saudável é “saúde do corpo” |
 | rixa / rixari / rixosus | rixa / rixar / rixoso | II-II q. 41 |
 | iurgium | altercação | II-II q. 41 |
 | laedere / laesio | lesar / lesão | II-II q. 41 a. 2 |
@@ -1674,7 +1674,7 @@ Destino: pt-BR.
 | triplex veritas: vitae, iustitiae, doctrinae | tríplice verdade: da vida, da justiça e da doutrina | Jerônimo, q. 43 a. 7–8 |
 | de necessitate salutis | de necessidade para a salvação | II-II q. 43 a. 7–8 |
 | coniunctim | em sentido composto | II-II q. 43 a. 2 |
-| dilectio | amor | II-II q. 44 |
+| dilectio | dileção | II-II q. 44 |
 | debitum | algo devido / devido | II-II q. 44 a. 1 |
 | Moral. (Gregório) / super Ezech. | *Morais* / *Sobre Ezequiel* | Gregório, II-II q. 41–43 |
 | de officiis (Ambrósio) / contra mendacium / contra epistolam Parmen. / de Civ. Dei | *Sobre os deveres* / *Contra a mentira* / *Contra a carta de Parmeniano* / *A cidade de Deus* | II-II q. 40–43 |
@@ -1687,7 +1687,7 @@ Destino: pt-BR.
 | fortitudo / virtus / vires (Deuteronômio 6, Marcos 12, Lucas 10) | fortaleza / virtude / forças | II-II q. 44 a. 5 |
 | ordo caritatis | ordem da caridade | II-II q. 44 a. 8 |
 | acedia / acediari | acídia / entregar-se à acídia | II-II q. 44 a. 3 (Eclesiástico 6) |
-| donum sapientiae / intellectus / scientiae | dom da sabedoria / do entendimento / da ciência | II-II q. 45; *intellectus* como faculdade fica “intelecto” |
+| donum sapientiae / intellectus / scientiae | dom da sabedoria / da inteligência / da ciência | II-II q. 45; *intellectus* como faculdade fica “intelecto” |
 | connaturalitas / compassio | conaturalidade / compaixão | II-II q. 45 a. 2 |
 | gratia gratum faciens / gratiae gratis datae | graça santificante / graças grátis dadas | II-II q. 45 a. 5 |
 | praelati | prelados | II-II q. 45 a. 5 |
@@ -1722,7 +1722,7 @@ Destino: pt-BR.
 | eubulia / synesis / gnome / eustochia / deinotica | *eubulia* / *synesis* / *gnome* / *eustochia* / *deinotica* | termos gregos mantidos no nominativo |
 | astutia / industria | astúcia / habilidade | II-II q. 47 a. 13–14 |
 | partes integrales / subiectivae / potentiales | partes integrais / subjetivas / potenciais | II-II q. 48 a. 1 |
-| regnativa / militaris / politica / oeconomica / monastica | régia / militar / política / econômica / monástica | II-II q. 47 a. 11; q. 48 a. 1 |
+| regnativa / militaris / politica / oeconomica / monastica | régia / militar / política / econômica / monástica | II-II q. 47 a. 11; q. 48 a. 1; qualificando o justo ou a justiça nas relações familiares, oeconomicus é “doméstico” |
 | legalis iustitia | justiça legal | II-II q. 47 a. 10 |
 | prudentia gratuita / acquisita | prudência gratuita / adquirida | II-II q. 47 a. 14 |
 | Moral. (Gregório) / Politic. / Rhet. (Túlio) / Topic. / Poster. / de Mem. / de Historiis animal. / Praedic. / Confess. | *Morais* / *Política* / *Retórica* / *Tópicos* / *Segundos analíticos* / *A memória* / *História dos animais* / *Categorias* / *Confissões* | II-II q. 47–49 |
@@ -1804,7 +1804,7 @@ Destino: pt-BR.
 | verberatio / verberare | pancadas / bater (em) | II-II q. 65 a. 2 |
 | incarceratio | encarceramento | II-II q. 65 a. 3 |
 | persona coniuncta / principalis | pessoa ligada (a outra) / pessoa principal | II-II q. 64 pr.; q. 65 a. 4 |
-| servus / dominus | servo / senhor | II-II q. 63 a. 3; q. 65 a. 2 |
+| servus / dominus | servo / senhor | II-II q. 63 a. 3; q. 65 a. 2; dominus como proprietário de uma coisa também é “dono” |
 | praelatio / magisterium | prelazia / magistério | II-II q. 63 a. 1 |
 | consanguinitas / consanguineus | parentesco / parente | II-II q. 63 a. 1–2 |
 | de gremio Ecclesiae | do seio da Igreja | II-II q. 63 a. 2 |
@@ -1884,7 +1884,7 @@ Destino: pt-BR.
 | usus / consumptio / distractio / dominium / usufructus | uso / consumo / alienação / domínio / usufruto | II-II q. 78 a. 1, 3 |
 | faenus / faenerari | juro / dar a juro | II-II q. 78 a. 1 |
 | pactum tacitum vel expressum | pacto tácito ou expresso | II-II q. 78 a. 2 |
-| munus a manu / a lingua / ab obsequio | dádiva da mão / da língua / do obséquio | II-II q. 78 a. 2 |
+| munus a manu / a lingua / ab obsequio | dom da mão / da língua / do obséquio | II-II q. 78 a. 2 |
 | industria (humana) | engenho (humano) | II-II q. 78 a. 3 |
 | scandalum activum / passivum | escândalo ativo / passivo | II-II q. 78 a. 4 |
 | partes quasi integrales / partes potentiales | partes quase integrantes / partes potenciais | II-II q. 79–80 |
@@ -1894,7 +1894,7 @@ Destino: pt-BR.
 | poena damni / poena sensus | pena de dano / pena de sentido | II-II q. 79 a. 4 |
 | delictum / derelictum | delito / *derelictum* (“o que foi abandonado”) | II-II q. 79 a. 4 |
 | debitum legale / morale | débito legal / moral | II-II q. 80 a. 1 |
-| religio / pietas / observantia / gratia / vindicatio / vindicta / veritas | religião / piedade / observância / gratidão / vindicação / vindita / verdade | II-II q. 80–81 |
+| religio / pietas / observantia / gratia / vindicatio / vindicta / veritas | religião / piedade / observância / gratidão / vindicação / vindita / verdade | II-II q. 80–81; em oposição à figura ou à aparência, *veritas* também é “realidade” |
 | epieikeia / eugnomosyna / eusebia / theosebia / eucharistia | epiqueia / *eugnomosyna* / *eusebia* / *theosebia* / *eucharistia* | II-II q. 80 a. 1; q. 81 a. 1 |
 | legispositiva / bona commutatio / vindicativa | legislativa / boa comutação / vindicativa | II-II q. 80 a. 1 |
 | latria / dulia / cultus / colere | latria / dulia / culto / cultuar | II-II q. 81 |
@@ -1906,7 +1906,7 @@ Destino: pt-BR.
 | devotio / devovere / devoti / indevoti | devoção / *devovere* (devotar) / devotos / indevotos | II-II q. 82 |
 | famulatus / obsequium / servitium | serviço | II-II q. 81–82 |
 | manuductio / manuduci | condução pela mão / ser conduzido pela mão | II-II q. 81 a. 7; q. 82 a. 3 |
-| dilectio | dileção | II-II q. 82–83 |
+| dilectio | amor | II-II q. 82–83 |
 | laetitia / gaudium / delectatio / iucunditas / tristitia / afflictio | alegria / gozo / deleite / contentamento / tristeza / aflição | II-II q. 82 a. 4 |
 | oratio / orare / preces / deprecatio, deprecari / petitio / impetrare / exaudire | oração / orar / preces / súplica, suplicar / petição / impetrar / ouvir | II-II q. 83 |
 | oratio dominica | oração dominical | II-II q. 83 |
@@ -1935,7 +1935,7 @@ Destino: pt-BR.
 | consuetudo patriae | costume da região | II-II q. 86 a. 4; q. 87 a. 2 |
 | cura animarum / clerici / parochia / Ecclesia (local) | cura de almas / clérigos / paróquia / igreja (minúscula) | II-II q. 87 a. 3–4 |
 | milites (feudal) / in feudum | cavaleiros / em feudo | II-II q. 87 a. 3; em q. 87 a. 1 *milites* → soldados |
-| votum / votum solemne / votum simplex | voto / voto solene / voto simples | II-II q. 88 |
+| votum / votum solemne / votum simplex | voto / voto solene / voto simples | II-II q. 88; no contexto da recepção desejada de um sacramento, *votum* também é “desejo” (III q. 80 a. 11) |
 | religio (instituto) / religionis ingressus | ordem religiosa / ingresso na vida religiosa | II-II q. 88 a. 3; *religio* como virtude → religião |
 | sacer ordo / professio certae regulae / status perfectionis | ordem sacra / profissão de uma regra determinada / estado de perfeição | II-II q. 88 a. 7 |
 | comprehensor | compreensor | II-II q. 88 a. 4 |
@@ -1973,7 +1973,7 @@ Destino: pt-BR.
 | quantitas absoluta / quantitas proportionis | quantidade absoluta / quantidade de proporção | II-II q. 92 a. 1; q. 93 a. 2 |
 | idololatria / latria / idolum | idolatria / latria / ídolo | II-II q. 94 |
 | superstitio divinativa / divinatio / divini | superstição divinatória / adivinhação / adivinhos | II-II q. 92 a. 2; q. 95 |
-| observationes | observâncias | II-II q. 92–95 |
+| observationes | observâncias | II-II q. 92–95; também “observações” quando se trata de observar coisas exteriores para delas tirar prognósticos, em II-II q. 95 a. 7 |
 | legalia | ritos legais | II-II q. 93 a. 1 |
 | protestatio (fidei, infidelitatis) | protestação | II-II q. 94 a. 1 |
 | causa dispositiva / consummativa | causa dispositiva / consumativa | II-II q. 94 a. 4 |
@@ -2016,7 +2016,7 @@ Destino: pt-BR.
 | studiosa voluntas / studiose | vontade deliberada / deliberadamente | II-II q. 100 a. 1 |
 | munus a manu / a lingua / ab obsequio | dom da mão / da língua / do obséquio | II-II q. 100 |
 | praebenda / beneficium ecclesiasticum / ius patronatus / electio, provisio, collatio / permutatio, transactio | prebenda / benefício eclesiástico / direito de padroado / eleição, provisão, colação / permuta, transação | II-II q. 100 |
-| stipendium / pretium / merces | estipêndio / preço / recompensa | II-II q. 100 a. 2–3 |
+| stipendium / pretium / merces | estipêndio / preço / recompensa | II-II q. 100 a. 2–3; *merces*, como pagamento pelo uso de um bem, “aluguel” em I-II q. 105 a. 2 |
 | procurationes | procurações | II-II q. 100 a. 3 ad 3 |
 | redimere suam vexationem | redimir a vexação que sofre | II-II q. 100 a. 2, 4 |
 | Baptismus flaminis | batismo de desejo | II-II q. 100 a. 2 ad 1 |
@@ -2028,7 +2028,7 @@ Destino: pt-BR.
 | pietas | piedade | II-II q. 101; sentido de dever para com pais e pátria |
 | observantia | observância | II-II q. 102 |
 | dulia / hyperdulia / latria | dulia / hiperdulia / latria | II-II q. 103 |
-| cultus / colere / officium / obsequium / reverentia / honor | culto / prestar culto / ofício / obséquio / reverência / honra | II-II q. 101–103 |
+| cultus / colere / officium / obsequium / reverentia / honor | culto / prestar culto / ofício / obséquio / reverência / honra | II-II q. 101–103; *naturae officium* é “função da natureza”, na discussão do matrimônio |
 | in dignitate constitutus / praelatio / praesidentes | constituído em dignidade / prelatura / os que presidem | II-II q. 102 |
 | protestatio | protestação | II-II q. 101 a. 3; q. 103 a. 2 |
 | superfluum / diminutum | excesso / falta | II-II q. 104 a. 2 |
@@ -2065,7 +2065,7 @@ Destino: pt-BR.
 | crudelitas vel saevitia | crueldade ou ferocidade | II-II q. 108 a. 2 |
 | vis irascibilis / vis concupiscibilis | força irascível / força concupiscível | II-II q. 108 a. 2 |
 | veritas / veracitas / verax / verum (subst.) | verdade / veracidade / veraz / o verdadeiro | II-II q. 109 |
-| veritas vitae / iustitiae / doctrinae | verdade da vida / da justiça / da doutrina | II-II q. 109 a. 2–3 |
+| veritas vitae / iustitiae / doctrinae | verdade da vida / da justiça / da doutrina | II-II q. 109 a. 2–3; “doctrina”, quando designa o ato de ensinar, também se traduz por “ensino” ou “ensinamento” |
 | superfluum et diminutum (defectus) | o excesso e a falta | II-II q. 109 |
 | declinare in minus / in maius | declinar para o menos / para o mais | II-II q. 109 a. 4 |
 | simplicitas / duplicitas / simulatio / hypocrisis | simplicidade / duplicidade / simulação / hipocrisia | II-II q. 109–111 |
@@ -2136,7 +2136,7 @@ Destino: pt-BR.
 | magnificentia, fiducia, patientia, perseverantia / magnanimitas, securitas, constantia, tolerantia, firmitas, virilitas | magnificência, confiança, paciência, perseverança / magnanimidade, segurança, constância, tolerância, firmeza, virilidade | II-II q. 128–129 |
 | eupsychia / lema / andragathia / strenuitas / bona animositas | *eupsychia* (fem.) / *lema* (masc.) / *andragathia* (fem.) / estrenuidade / bom ânimo | II-II q. 128 a. 1 |
 | Hilarius / Maximus / Cyprianus / Hieronymus / Macrobius / Cato / Agnes, Lucia / Marcellus Papa / Ioannes Baptista / Celtae / Damascenus | Hilário / Máximo / Cipriano / Jerônimo / Macróbio / Catão / Inês, Luzia / São Marcelo, papa / João Batista / celtas / o Damasceno | II-II q. 124–128 |
-| de Trin. / octoginta trium quaest. / de sancta Virginit. / de adulterinis coniugiis / de Lib. Arbit. / Rhet. / Glossa / decreta | *Sobre a Trindade* / *Oitenta e três questões* / *Sobre a santa virgindade* / *Sobre os matrimônios adulterinos* / *Sobre o livre-arbítrio* / *Retórica* / a Glosa / *Decretos* | II-II q. 123–125 |
+| de Trin. / octoginta trium quaest. / de sancta Virginit. / de adulterinis coniugiis / de Lib. Arbit. / Rhet. / Glossa / decreta | *Sobre a Trindade* / *Oitenta e três questões* / *Sobre a santa virgindade* / *Sobre os casamentos adúlteros* / *Sobre o livre-arbítrio* / *Retórica* / a Glosa / *Decretos* | II-II q. 123–125 |
 | Act. / Rom. / I Cor. / I Ioann. / Philipp. / Heb. / I Pet. / Tit. / Ephes. / Ezech. / Iudic. / Apoc. / Prov. / Isai. / Eccli. / Iob / Matth. | Atos / Romanos / 1 Coríntios / 1 João / Filipenses / Hebreus / 1 Pedro / Tito / Efésios / Ezequiel / Juízes / Apocalipse / Provérbios / Isaías / Eclesiástico / Jó / Mateus | II-II q. 124–128 |
 | magnanimitas / magnanimus / magnitudo animi | magnanimidade / magnânimo / grandeza de ânimo | II-II q. 129 |
 | honor / inhonoratio, exhonoratio, dehonoratio | honra / desonra | II-II q. 129 |
@@ -2220,7 +2220,7 @@ Destino: pt-BR.
 | viduitas / castitas coniugalis / continentia / sanctimoniales | viuvez / castidade conjugal / continência / religiosas | II-II q. 152 |
 | fructus centesimus, sexagesimus, tricesimus | fruto de cem, de sessenta, de trinta | II-II q. 152 a. 5 |
 | magnificentia / liberalitas / decor / pulchritudo | magnificência / liberalidade / formosura / beleza | II-II q. 152 a. 3, a. 5 |
-| luxuria / fornicatio simplex / adulterium / incestus / stuprum / raptus / vitium contra naturam / sacrilegium / impudicitia | luxúria / fornicação simples / adultério / incesto / defloramento / rapto / vício contra a natureza / sacrilégio / impudicícia | II-II q. 153–154 |
+| luxuria / fornicatio simplex / adulterium / incestus / stuprum / raptus / vitium contra naturam / sacrilegium / impudicitia | luxúria / fornicação simples / adultério / incesto / defloramento / rapto / vício contra a natureza / sacrilégio / impudicícia | II-II q. 153–154; “raptus”, no contexto da elevação extraordinária da alma em q. 175, traduz-se por “arrebatamento”; “raptus” como particípio, por “arrebatado” |
 | caecitas mentis / inconsideratio / inconstantia / praecipitatio / amor sui / odium Dei / affectus praesentis saeculi / horror vel desperatio futuri | cegueira da mente / inconsideração / inconstância / precipitação / amor de si / ódio a Deus / apego ao século presente / horror ou desespero do futuro | II-II q. 153 a. 5 |
 | turpiloquia / scurrilia / ludicra / stultiloquia | palavras torpes / chocarrices / gracejos / palavras tolas | II-II q. 153 a. 5 |
 | antonomastice / removens prohibens / in recto, in obliquo / condividi | por antonomásia / o que remove o impedimento / em reto, em oblíquo / entrar na mesma divisão | II-II q. 151–154 |
@@ -2262,7 +2262,7 @@ Destino: pt-BR.
 | similitudo aequiparantiae / similitudo imitationis | semelhança de igualdade / semelhança de imitação | II-II q. 163 a. 2 |
 | poena sensus / poena damni / poena taxata | pena de sentido / pena de dano / pena fixada | II-II q. 164 a. 1 |
 | Diabolus / Daemon / Angelus / Cherubin / gladius flammeus atque versatilis / Paradisus voluptatis | o diabo / o demônio / o anjo / os querubins / a espada flamejante e giratória / Paraíso de delícias | II-II q. 163–165 |
-| vir (diante de mulier) | o homem; “o marido” no contexto conjugal | II-II q. 163–164 |
+| vir (diante de mulier) | o homem; “o marido” no contexto conjugal | II-II q. 163–164; também “varão” na distinção entre homem e mulher, como em I q. 92 e q. 102 |
 | Eccli. / Eccle. / Sap. / Prov. / Iac. / Ezech. / Exodi / Matth. / Luc. / Rom. / I–II ad Tim. | Eclesiástico / Eclesiastes / Sabedoria / Provérbios / Tiago / Ezequiel / Êxodo / Mateus / Lucas / Romanos / 1–2 Timóteo | II-II q. 162–165; capítulos em algarismos arábicos (“Romanos 5”) |
 | Moral. / super Gen. ad Litt. / de Civ. Dei / Metaphys. / Ethic. / de anima / de Div. Nom. / de Trin. / Retractat. / de decem chordis / de summo bono / ad Orosium / super Luc. / in regula (Agostinho) | *Morais* / *Comentário literal ao Gênesis* / *Cidade de Deus* / *Metafísica* / *Ética* / *Sobre a alma* / *Sobre os nomes divinos* / *Sobre a Trindade* / *Retratações* / *Sobre as dez cordas* / *Sobre o sumo bem* / a Orósio / comentando Lucas / na *Regra* | II-II q. 162–165 |
 | Boetius / Isidorus / Cassianus / Bernardus / Alcuinus / Dionysius / Hieronymus | Boécio / Isidoro / Cassiano / Bernardo / Alcuíno / Dionísio / Jerônimo | II-II q. 162–165 |
@@ -2272,7 +2272,7 @@ Destino: pt-BR.
 | ludus / ludere / ludicra vel iocosa / iocus | divertimento / divertir-se (brincar, para crianças e para São João) / divertidos ou jocosos / gracejo | II-II q. 168; *inspectio ludorum* (q. 167 a. 2) → “assistir aos jogos” |
 | eutrapelia / eutrapelus / iucunditas / austeritas | eutrapelia / eutrápelo / jovialidade / austeridade | II-II q. 168 |
 | histrio / ioculator / inepta laetitia | histrião / jogral / alegria inepta | II-II q. 168 a. 3 |
-| apparatus exterior / cultus (exterior, vestium) / ornatus | apresentação exterior / apuro (exterior, das vestes) / adorno (ornato, em Ambrósio e Andronico, q. 168 a. 1) | II-II q. 169 |
+| apparatus exterior / cultus (exterior, vestium) / ornatus | apresentação exterior / apuro (exterior, das vestes) / adorno (ornato, em Ambrósio e Andronico, q. 168 a. 1) | II-II q. 169; na exposição das obras dos seis dias, *ornatus* = “ornamento” ou “ornamentação” |
 | fucatio / per se sufficientia | pintura (do rosto), pintar-se com cosméticos / autossuficiência | II-II q. 169 |
 | phantasia | imaginação | II-II q. 165 a. 2 |
 | virtus veritatis / affabilitas vel amicitia | virtude da verdade / afabilidade ou amizade | II-II q. 168–169 |
@@ -2340,7 +2340,7 @@ Destino: pt-BR.
 | studium (vitae) | empenho; aplicação | q. 181 a. 1; q. 182 a. 3 |
 | potior | mais excelente | q. 182 |
 | praelatus / praelatio / rector | prelado / prelatura / quem governa | q. 182 a. 1 |
-| dilectio Dei / proximi | amor de Deus / do próximo | q. 182 |
+| dilectio Dei / proximi | dileção de Deus / do próximo | q. 182 |
 | prius secundum naturam / quoad nos; via generationis / directionis | anterior por natureza / quanto a nós; via da geração / da direção | q. 182 a. 4 |
 | status / officium / gradus / ordo | estado / ofício / grau / ordem | q. 183 |
 | stare / rectitudo | estar de pé / retidão | q. 183 a. 1; nota do tradutor |
@@ -2401,7 +2401,7 @@ Destino: pt-BR.
 | praelati ordinarii | prelados ordinários | q. 188 a. 4 |
 | studium litterarum / litteratura (Salmo) | estudo das letras / as letras | q. 188 a. 5 |
 | sermo / praedicatio (Glosa a 1 Cor. 2) | palavra / pregação | q. 187 a. 3 |
-| de operibus Monach. / de Offic. / de Doct. Christ. / Dialog. / Etymol. / Polit. / vitae patrum / de musica | *O trabalho dos monges* / *Os deveres* / *A doutrina cristã* / *Diálogos* / *Etimologias* / *Política* / *Vidas dos Padres* / *A música* | q. 187–188 |
+| de operibus Monach. / de Offic. / de Doct. Christ. / Dialog. / Etymol. / Polit. / vitae patrum / de musica | *O trabalho dos monges* / *Os deveres* / *A doutrina cristã* / *Diálogos* / *Etimologias* / *Política* / *Vidas dos Padres* / *Sobre a música* | q. 187–188 |
 | extra, de postulando, ex parte / de statu Monach., quod Dei timorem / de Renunt., nisi cum pridem / de regularibus, licet quibusdam | *Extra*, título *Sobre a postulação*, capítulo *Ex parte* / título *Sobre o estado dos monges*, capítulo *Quod Dei timorem* / título *Sobre a renúncia*, capítulo *Nisi cum pridem* / título *Sobre os regulares*, capítulo *Licet quibusdam* | Decretais |
 | de Poenit., dist. II, cap. si quis semel / XXI, qu. IV / codice, de validis mendicantibus | *Decretos*, *Sobre a penitência*, distinção II, capítulo *Si quis semel* / causa XXI, questão IV / *Código*, título *Sobre os mendigos válidos* | q. 187–188 |
 | Alexius / Arsenius / Fabiola / Oceanus / Nepotianus / Damasus / Romanus monachus / Benedictus / Evander / Eugubium / Rhegium / Nesteros / Serapion / Anthropomorphitae / Achab / Iudas Machabaeus / Simon / Bonifacius | Aleixo / Arsênio / Fabíola / Oceano / Nepociano / Dâmaso / o monge Romano / Bento / Evandro / Gúbio / Régio / Nesteros / Serapião / antropomorfitas / Acab / Judas Macabeu / Simão / Bonifácio | q. 187–188 |
@@ -2998,7 +2998,7 @@ Destino: pt-BR.
 - I-II q. 105 a. 3: *abavus* vertido literalmente “trisavô”.
 - I-II q. 105 a. 2 ad 12: *verba vel iudicia* vertido “palavras ou juízos”, conservando *iudicia* em vez de corrigir para “indícios”.
 - Notas do tradutor: q. 105 a. 2 (Túlio = Cícero); q. 105 a. 3 (*Ecclesia* como “assembleia do Senhor” em Deuteronômio 23); q. 105 a. 4 (sacrifício do ciúme, Números 5).
-- Títulos de obras citadas (Sobre o espírito e a letra, Contra Fausto etc.) em texto corrido, sem itálico, como na fonte.
+- Títulos de obras citadas (O espírito e a letra, Contra Fausto etc.) em texto corrido, sem itálico, como na fonte.
 - Os Padres citados por Tomás pelo nome simples (*Augustinus*, *Chrysostomus*, *Hilarius*) vertidos “Agostinho”, “Crisóstomo”, “Hilário”, sem o título de santo, como no latim.
 - I-II q. 106 a. 4 ad 2: *baptizamini* (Atos 1) vertido “sereis batizados”, segundo o sentido do lugar.
 - I-II q. 107 a. 1: *optimates* vertido “os nobres da cidade”; *viri perfecti* mantido “homens perfeitos”, por causa do argumento do perfeito e do imperfeito.
@@ -3307,7 +3307,7 @@ Destino: pt-BR.
 - Citações bíblicas só com capítulo (*Matth. X*) → “Mateus 10”; *Heb. ult.*, *Apoc. ult.* → “no último capítulo de Hebreus / do Apocalipse”.
 - *Praeterea* → “Além disso,”; *et cetera* em citação → “etc.”.
 - q. 100 a. 6 obj. 9: *promoveri ad maiora* → “ser promovido a graus mais altos”. ad 5: *loca* → “lugares” nas duas acepções (casa e posição).
-- q. 101 a. 2 resp.: *colere homines* (Agostinho) → “cultivamos os homens”, que é o uso natural do verbo para pessoas; nas demais passagens *colere* → “prestar culto”.
+- q. 101 a. 2 resp.: *colere homines* (Agostinho) → “prestamos culto aos homens”, como nas demais passagens de *colere*, porque a citação explica o sentido de *cultus* na distinção.
 - q. 101 a. 4 obj. 4: a fonte traz *propter inobedientiam*, que no contexto (proibição de sair do claustro sem licença) só faz sentido como obediência; traduzido “obediência”.
 - q. 101 a. 4 resp.: Jerônimo, *per calcatum perge patrem* → “Segue em frente pisando o pai”.
 - q. 102 a. 2: título sem negrito-itálico na fonte, mantido em texto simples.
@@ -4527,3 +4527,434 @@ Verdict: 0 meaning-level, 1 minor. Full read of ss-q184-a08 to ss-q189-a10 (48 f
 
 ### Part ss 14 of 14, Round 4 (codex, delta read)
 Verdict: 0 meaning-level, 0 minor. Verificados os parágrafos 11–12 de ss-q189-a08, a correção anterior, a nota do tradutor, os metadados e o diário fornecidos; nenhum novo defeito encontrado.
+
+### Part terms 1 of 22, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 8 minor. 201 parágrafos sinalizados lidos; 3 desvios no texto e 5 ajustes de glossário.
+- `pt-BR/fp-q012-a13.md` [8]: “como no Batismo” → “como no batismo” — Trata-se do batismo recebido por Cristo, para o qual a nota de Key Terms determina minúscula.
+- `pt-BR/fp-q013-a07.md` [8]: “como se diz nos *Predicamentos*” → “como se diz nas *Categorias*” — *in praedicamentis* nomeia a obra cujo título em Key Terms é “Categorias”.
+- `pt-BR/fp-q016-a01.md` [5]: “segundo o Filósofo nos *Predicamentos*” → “segundo o Filósofo nas *Categorias*” — *in Praedicamentis* nomeia a obra cujo título em Key Terms é “Categorias”.
+- `pt-BR/translation-journal.md`: “| potentia / vis / virtus (potência) | potência / força / potência | *in virtute* = “em virtude”; *virtute* = “virtualmente”; *potentia* também é “poder” quando designa o poder divino de agir |” → “| potentia / vis / virtus (potência) | potência / força / potência | *in virtute* = “em virtude”; *virtute* = “virtualmente”; *potentia*, quando designa o poder de agir, especialmente o divino, também é “poder” |” — Os parágrafos empregam consistentemente “poder” para a potência ativa divina, distinguindo-a da potência contraposta ao ato.
+- `pt-BR/translation-journal.md`: “| vis / potentia / virtus | força / potência / virtude | “força apetitiva”, “potência concupiscível”, “virtude unitiva”; *potentia* também é “poder” quando designa o poder divino de agir |” → “| vis / potentia / virtus | força / potência / virtude | “força apetitiva”, “potência concupiscível”, “virtude unitiva”; *potentia*, quando designa o poder de agir, especialmente o divino, também é “poder” |” — Acrescenta o sentido de potência ativa, corretamente traduzido de modo recorrente por “poder”.
+- `pt-BR/translation-journal.md`: “| potentia / vis / virtus (apprehensiva, appetitiva) | potência / força / faculdade (apreensiva, apetitiva) | *virtus* como faculdade, para não confundir com a virtude moral; *potentia* também é “poder” quando designa o poder divino de agir |” → “| potentia / vis / virtus (apprehensiva, appetitiva) | potência / força / faculdade (apreensiva, apetitiva) | *virtus* como faculdade, para não confundir com a virtude moral; *potentia*, quando designa o poder de agir, especialmente o divino, também é “poder” |” — Registra o uso recorrente e correto de “poder” para *potentia* no sentido ativo.
+- `pt-BR/translation-journal.md`: “| mens / intellectus / spiritus | mente / intelecto / espírito | *Spiritus* é “sopro” no contexto da produção da voz, III q. 6 a. 6; como dom do Espírito Santo, *intellectus* é “inteligência” em I-II q. 68–69 |” → “| mens / intellectus / spiritus | mente / intelecto / espírito | *Spiritus* é “sopro” no contexto da produção da voz, III q. 6 a. 6; *intellectus*, quando designa o conteúdo significado, também é “conceito” |” — Em *in suo intellectu* e *in sui intellectu*, a tradução usa corretamente “no seu conceito”, pois se trata do conteúdo significado, não da faculdade.
+- `pt-BR/translation-journal.md`: “| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão”; ao designar um raciocínio apresentado ou refutado, “argumento” |” → “| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão”; quando designa uma argumentação, *ratio* também é “argumento” ou “raciocínio” |” — Os parágrafos usam reiteradamente e com acerto “argumento” e “raciocínio” no sentido argumentativo de *ratio*.
+
+### Part terms 1 of 22, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read: verified 3 text changes (fp-q012-a13 [8], fp-q013-a07 [8], fp-q016-a01 [5]) and 5 journal changes, and read their neighbouring paragraphs whole; no defects.
+- Rejected: pt-BR/fp-q012-a13.md [7] — Leonine note: the source reads `B**.)*` and the translation has `B.)*`, so the sigla might look changed. — The `**` is a stray Markdown marker in the source, not part of the sigla `B`. The editor's note keeps its Latin reading and sigla.
+- Rejected: pt-BR/fp-q012-a13.md [8] — “batismo” in lower case. — This is the baptism received by Christ, and the Key Terms row for Baptismus Christi prescribes lower case for it.
+- Rejected: pt-BR/fp-q013-a07.md [8]; pt-BR/fp-q016-a01.md [5] — *in praedicamentis* rendered as “nas *Categorias*”. — The rendering is correct, and the feminine plural contraction agrees with the title.
+- Rejected: pt-BR/translation-journal.md — The notes added to the potentia/vis/virtus, mens/intellectus/spiritus and ratio rows. — Each note describes a use the paragraphs actually make: “poder” for active *potentia*, “conceito” for *intellectus* as signified content, and “argumento”/“raciocínio” for argumentative *ratio*. None contradicts the source.
+
+### Part terms 2 of 22, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 9 minor. 241 flags lidos; 3 ocorrências com desvio de título e 6 ajustes de glossário.
+- `pt-BR/fp-q028-a02.md` [5]: “como se diz nos *Predicamentos*” → “como se diz nas *Categorias*” — Título de *Praedicamenta* → “Categorias” (Key Terms).
+- `pt-BR/fp-q029-a02.md` [5]: “no comentário aos *Predicamentos*” → “no comentário às *Categorias*” — Título de *Praedicamenta* → “Categorias” (Key Terms).
+- `pt-BR/fp-q029-a02.md` [7]: “no comentário aos *Predicamentos*” → “no comentário às *Categorias*” — Título de *Praedicamenta* → “Categorias” (Key Terms).
+- `pt-BR/translation-journal.md`: “| de Anima / de Caelo et Mundo / Physica / Metaphysica | A alma / O céu e o mundo / Física / Metafísica | Obras do Filósofo |” → “| de Anima / de Caelo et Mundo / Physica / Metaphysica | A alma / Sobre o céu e o mundo / Física / Metafísica | Obras do Filósofo |” — As quatro citações efetivas de *de Caelo et Mundo* usam consistentemente “Sobre o céu e o mundo”; ajustar a entrada ao título empregado.
+- `pt-BR/translation-journal.md`: “| nativitas / filiatio / maternitas | nascimento / filiação / maternidade | Distinções centrais de III q. 35 |” → “| nativitas / filiatio / maternitas | nascimento / filiação / maternidade | Distinções centrais de III q. 35; no contexto trinitário, *nativitas* também é “natividade” |” — As ocorrências trinitárias empregam consistentemente “natividade” para a origem do Filho; registrar esse uso correto.
+- `pt-BR/translation-journal.md`: “| potentia / vis / virtus (potência) | potência / força / potência | *in virtute* = “em virtude”; *virtute* = “virtualmente”; *potentia* também é “poder” quando designa capacidade efetiva de agir ou resistir, como em I-II q. 43 a. 2 |” → “| potentia / vis / virtus (potência) | potência / força / potência | *in virtute* = “em virtude”; *virtute* = “virtualmente”; *potentia* também é “poder” quando designa o poder divino de agir |” — A tradução usa reiteradamente “poder” para o atributo divino, preservando “potência” em outros contextos metafísicos.
+- `pt-BR/translation-journal.md`: “| vis / potentia / virtus | força / potência / virtude | “força apetitiva”, “potência concupiscível”, “virtude unitiva”; *potentia* também é “poder” quando designa capacidade efetiva de agir ou resistir, como em I-II q. 43 a. 2 |” → “| vis / potentia / virtus | força / potência / virtude | “força apetitiva”, “potência concupiscível”, “virtude unitiva”; *potentia* também é “poder” quando designa o poder divino de agir |” — Registrar o uso consistente e correto de “poder” para *potentia* como atributo divino.
+- `pt-BR/translation-journal.md`: “| potentia / vis / virtus (apprehensiva, appetitiva) | potência / força / faculdade (apreensiva, apetitiva) | *virtus* como faculdade, para não confundir com a virtude moral; *potentia* também é “poder” quando designa capacidade efetiva de agir ou resistir, como em I-II q. 43 a. 2 |” → “| potentia / vis / virtus (apprehensiva, appetitiva) | potência / força / faculdade (apreensiva, apetitiva) | *virtus* como faculdade, para não confundir com a virtude moral; *potentia* também é “poder” quando designa o poder divino de agir |” — Registrar o uso consistente e correto de “poder” para *potentia* como atributo divino.
+- `pt-BR/translation-journal.md`: “| potentia activa / virtus instrumentalis | potência ativa / poder instrumental | III q. 13 |” → “| potentia activa / virtus instrumentalis | potência ativa / poder instrumental | III q. 13; *potentia activa* também é “poder ativo” quando designa o poder divino de agir |” — Em fp-q039-a08 [17], “poder ativo” acompanha o uso recorrente de “poder” para o atributo divino e conserva o sentido de *potentia activa*.
+
+### Part terms 2 of 22, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of fp-q028-a02 [4–6], fp-q029-a02 [4–8], their footnotes and the journal changes: all changes are correct and no new defects were found.
+- Rejected: pt-BR/fp-q028-a02.md [4] — “*Sobre a Trindade*” while some Key Terms rows give “*A Trindade*” — The table itself uses both forms in different rows; this is a defensible title form and not a contradiction to fix in this delta.
+- Rejected: pt-BR/fp-q028-a02.md footnote [^1] — Facts about Gilbert of Poitiers — He was bishop of Poitiers, died in 1154, was examined at Reims in 1148 under Eugene III and submitted. The note is accurate.
+- Rejected: pt-BR/translation-journal.md — Added notes on *potentia* as “poder” for divine power — They record a contextual rendering without contradicting the existing entries. No false claim of location or count.
+
+### Part terms 3 of 22, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 4 minor. 276 flags lidos; 1 desvio de sentido e 4 ajustes ao glossário.
+- `pt-BR/fp-q063-a02.md` [8]: “enquanto Deus se serve do homem, contra a vontade do próprio Diabo” → “enquanto Deus se serve do próprio Diabo, contra a vontade deste” — O pronome latino *eo* retoma o anjo pecador: Deus se serve do Diabo contra a vontade dele, não do homem. *(meaning)*
+- `pt-BR/translation-journal.md`: “| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão”; quando designa um raciocínio apresentado, também “argumento” |” → “| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão”; ao designar um raciocínio apresentado ou refutado, “argumento” |” — Os trechos usam reiteradamente “argumento” para *ratio* no sentido de raciocínio, distinto da faculdade e da noção.
+- `pt-BR/translation-journal.md`: “| phantasmata | fantasmas | Imagens às quais o intelecto se volta no conhecimento; no sentido de aparências enganosas, “ilusões” |” → “| phantasmata | fantasmas | Imagens às quais o intelecto se volta no conhecimento |” — Harmoniza as linhas conflitantes com “fantasmas”, a forma mais usada nos parágrafos fornecidos; “imagens (*phantasmata*)” permanece uma paráfrase explícita do mesmo conceito.
+- `pt-BR/translation-journal.md`: “| apparatus exterior / cultus (exterior, vestium) / ornatus | apresentação exterior / apuro (exterior, das vestes) / adorno (ornato, em Ambrósio e Andronico, q. 168 a. 1) | II-II q. 169 |” → “| apparatus exterior / cultus (exterior, vestium) / ornatus | apresentação exterior / apuro (exterior, das vestes) / adorno (ornato, em Ambrósio e Andronico, q. 168 a. 1) | II-II q. 169; na exposição das obras dos seis dias, *ornatus* = “ornamento” ou “ornamentação” |” — Registra o sentido cosmológico, empregado consistentemente em distinção da criação e da distinção.
+- `pt-BR/translation-journal.md`: “| trigonum / tetragonum; bicubitum / tricubitum | triângulo / quadrado; de dois côvados / de três côvados | q. 52 a. 1; q. 54 a. 1 |” → “| trigonum / tetragonum; bicubitum / tricubitum | triângulo / quadrado; de dois côvados / de três côvados | q. 52 a. 1; q. 54 a. 1; na comparação das figuras em I q. 76 a. 3, *tetragonum* = “quadrilátero”, com o adjetivo “quadrilátera” |” — Nesse argumento, o termo designa genericamente a figura de quatro lados; a tradução mantém esse sentido nas três ocorrências.
+
+### Part terms 3 of 22, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of fp-q063-a02 [7–9], its footnote and four journal rows: the fixes hold and no new defects were found.
+- Rejected: pt-BR/fp-q063-a02.md [8] — The antecedent of *eo* is ambiguous. The English tradition reads it as man (“God makes use of man”); the previous round read it as the devil. — Both readings fit the Latin. *Ipsius Diaboli* is needed in either case, because *suam* would refer to God. The devil's reading also fits the theme of God using him against his will for divine glory. The current text is a defensible interpretation, so this is not an objective error, and reverting it would replace one interpretation with another.
+- Rejected: pt-BR/translation-journal.md (rows ratio, phantasmata, ornatus, tetragonum) — Check that the added notes are accurate. — They record usages already present and do not contradict other rows. *Phantasmata* = “fantasmas” matches the rows for *phantasma* and the q. 56 a. 5 row.
+
+### Part terms 4 of 22, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 2 minor. 247 parágrafos sinalizados lidos; 1 desvio terminológico corrigido e 1 linha do glossário completada.
+- `pt-BR/fp-q108-a04.md` [7]: “e no gozo imóvel da sua bondade” → “e na fruição imóvel da sua bondade” — *fruitio* → “fruição” (Key Terms); termo técnico na determinação do fim sobrenatural dos anjos, associado à visão da essência divina.
+- `pt-BR/translation-journal.md`: “| vir (diante de mulier) | o homem; “o marido” no contexto conjugal | II-II q. 163–164 |” → “| vir (diante de mulier) | o homem; “o marido” no contexto conjugal | II-II q. 163–164; também “varão” na distinção entre homem e mulher, como em I q. 92 e q. 102 |” — Os parágrafos empregam consistentemente “varão” para *vir* diante de *mulier*, preservando corretamente a distinção; acrescenta-se à linha essa variante.
+
+### Part terms 4 of 22, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of fp-q108-a04 [6]–[8] and the journal row for *vir*: both previous fixes check out against the source, and no new defects were found.
+- Rejected: pt-BR/fp-q108-a04.md [7] — Previous fix: “gozo” changed to “fruição” for *fruitio* — The change matches the Key Terms table. Concord with “na fruição imóvel da sua bondade” is correct, and the rest of the sentence is intact.
+- Rejected: pt-BR/fp-q108-a04.md [8] — “E com isto” where one Key Terms row has “E com isso” — Another journal row fixes “E com isto fica clara a resposta…”, so both forms are recorded. This is a defensible variant, not a defect.
+- Rejected: pt-BR/translation-journal.md — Previous fix: the *vir* row now also records “varão” — The addition only records a variant used where *vir* stands against *mulier*. It does not conflict with the shown text.
+
+### Part terms 5 of 22, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 8 minor. 279 parágrafos sinalizados lidos; 5 ocorrências com desvio terminológico e 3 ajustes de glossário.
+- `pt-BR/fp-q115-a01.md` [16]: “livro IV de *Sobre o céu e o mundo*” → “livro IV de *O céu e o mundo*” — Título de *de Caelo et Mundo* conforme o glossário.
+- `pt-BR/fs-q008-a01.md` [10]: “se dirige sob a noção de bem” → “se dirige sob a razão de bem” — *sub ratione boni* → “sob a razão de bem”; expressão técnica que identifica o aspecto sob o qual os opostos são objetos da vontade.
+- `pt-BR/fs-q008-a01.md` [11]: “são apreendidas sob a noção de bem” → “são apreendidas sob a razão de bem” — *sub ratione boni* → “sob a razão de bem”; mantém a expressão técnica retomada no argumento sobre o objeto da vontade.
+- `pt-BR/fs-q008-a01.md` [11]: “carecer do mal tem a noção de bem” → “carecer do mal tem razão de bem” — *habet rationem boni* → “tem razão de bem”; mantém a terminologia da conclusão citada.
+- `pt-BR/fs-q009-a02.md` [7]: “apreendido sob a noção de bom e conveniente” → “apreendido sob a razão de bem e de conveniente” — *sub ratione boni et convenientis* retoma expressamente a determinação técnica do objeto que move a vontade.
+- `pt-BR/translation-journal.md`: “| phantasmata | imagens sensíveis | Imagens às quais o intelecto se volta no conhecimento |” → “| phantasmata | fantasmas | Imagens às quais o intelecto se volta no conhecimento; no sentido de aparências enganosas, “ilusões” |” — Uniformiza a variante técnica com as demais linhas e com “fantasmas” nos parágrafos fornecidos; registra “ilusões”, empregado corretamente nas duas passagens sobre prodígios demoníacos.
+- `pt-BR/translation-journal.md`: “| habitus opinativus / scientia / disciplinae | hábito opinativo / ciência / disciplinas | q. 51–53; *disciplina*, no sentido de formação ou ensinamento recebido, também “instrução”, “ensino” ou “doutrina” |” → “| habitus opinativus / scientia / disciplinae | hábito opinativo / ciência / disciplinas | q. 51–53; disciplina, no sentido do processo de aprender, é “aprendizado” ou “aprendizagem” |” — Registra o segundo sentido usado consistentemente nas passagens sobre ensino e aquisição da ciência.
+- `pt-BR/translation-journal.md`: “| salus (corporalis / reipublicae) | salvação (corporal / da coisa pública) | II-II q. 40 a. 4; mesma palavra para manter o argumento *a fortiori*; na discussão da finalidade e da utilidade das leis, I-II q. 95–98, também “bem-estar” ou “bem-estar comum” |” → “| salus (corporalis / reipublicae) | salvação (corporal / da coisa pública) | II-II q. 40 a. 4; mesma palavra para manter o argumento *a fortiori*; fora desse argumento, salus corporis no sentido de condição saudável é “saúde do corpo” |” — Registra a tradução correta e recorrente de salus corporis nas objeções sobre os bens corporais.
+
+### Part terms 5 of 22, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read of 5 text changes and 3 journal changes: one fix reverted to the Key Terms form *Sobre o céu e o mundo*; the others are correct and the neighbouring paragraphs are clean.
+- `pt-BR/fp-q115-a01.md` [16]: “livro IV de *O céu e o mundo*” → “livro IV de *Sobre o céu e o mundo*” — source: in IV *de Caelo et Mundo*; the Key Terms row “de Anima / de Caelo et Mundo / Physica / Metaphysica” gives “Sobre o céu e o mundo”, and no row gives “O céu e o mundo”. The previous round's fix cited the glossary wrongly.
+- Rejected: pt-BR/fs-q008-a01.md [10]-[11]; pt-BR/fs-q009-a02.md [7] — Check of the change from “noção de bem” to “razão de bem” — It matches the row “sub ratione boni / habet rationem boni | sob a razão de bem / tem razão de bem”; the sentences stay grammatical.
+- Rejected: pt-BR/fp-q115-a01.md footnote [^1] — Facts in the Avicebron note — Correct: Ibn Gabirol, 11th-century Jewish poet and philosopher; the Latin *Fons vitae* circulated among the scholastics without his Jewish identity being known.
+- Rejected: fs-q008-a01.md [11], fs-q009-a02.md [7] (emphasis audit) — More emphasis markers than the source — The quotation is in italics as in the source, and the title is italicized in the translation; no formatting is broken.
+
+### Part terms 5 of 22, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente os parágrafos [15]–[17] e a nota do tradutor; correção confirmada, sem novos defeitos.
+- Rejected: pt-BR/fp-q115-a01.md [16] — Verificação do título corrigido para “Sobre o céu e o mundo”. — A forma corresponde a de Caelo et Mundo e à entrada explícita do glossário; a alteração preserva a gramática da frase.
+
+### Part terms 6 of 22, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 13 minor. 249 parágrafos sinalizados lidos; 1 com desvio terminológico, corrigido em 3 ocorrências; 10 ajustes no glossário.
+- `pt-BR/fs-q057-a04.md` [8]: “artífice que erra querendo” → “artífice que peca querendo” — *peccare* → “pecar” (Key Terms, inclusive na arte); mantém o termo técnico comum ao argumento sobre arte e prudência.
+- `pt-BR/fs-q057-a04.md` [8]: “aquele que erra sem querer” → “aquele que peca sem querer” — *peccare* → “pecar”; mantém o mesmo termo na comparação entre o ato voluntário e o involuntário.
+- `pt-BR/fs-q057-a04.md` [8]: “que alguém erre querendo” → “que alguém peque querendo” — *peccare* → “pecar”; retoma na prudência o termo empregado na comparação com a arte.
+- `pt-BR/translation-journal.md`: “| gaudium / laetitia / delectatio / tristitia / dolor | alegria / alegria / deleite / tristeza / dor | |” → “| gaudium / laetitia / delectatio / tristitia / dolor | gozo / alegria / deleite / tristeza / dor | |” — *Gaudium* aparece predominantemente como “gozo” nos parágrafos fornecidos; harmoniza as linhas divergentes.
+- `pt-BR/translation-journal.md`: “| fructus spiritus / gaudium | frutos do Espírito / alegria | II-II q. 8 a. 8 |” → “| fructus spiritus / gaudium | frutos do Espírito / gozo | II-II q. 8 a. 8 |” — Harmoniza *gaudium* com “gozo”, a forma predominante nos parágrafos fornecidos.
+- `pt-BR/translation-journal.md`: “| laetitia / gaudium | alegria (júbilo, quando ambos ocorrem juntos) / alegria | II-II q. 9 a. 4 |” → “| laetitia / gaudium | alegria (júbilo, quando ambos ocorrem juntos) / gozo | II-II q. 9 a. 4 |” — Harmoniza *gaudium* com “gozo”, a forma predominante nos parágrafos fornecidos.
+- `pt-BR/translation-journal.md`: “| cupiditas / avaritia | cobiça / avareza | q. 84; *cupiditas* também é “desejo” quando designa genericamente o desejar, como em desejar enganar ou agradar |” → “| cupiditas / avaritia | cupidez / avareza | q. 84 |” — *Cupiditas* é predominantemente “cupidez” nas ocorrências fornecidas; harmoniza a linha divergente.
+- `pt-BR/translation-journal.md`: “| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão”; quando designa um raciocínio apresentado, *ratio* também é “argumento” |” → “| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão”; quando designa um raciocínio apresentado, também “argumento” |” — Registra o sentido argumentativo, corretamente traduzido de modo recorrente como “argumento”.
+- `pt-BR/translation-journal.md`: “| sapientia / scientia / consilium / intellectus / pietas / fortitudo / timor | sabedoria / ciência / conselho / inteligência / piedade / fortaleza / temor | Os sete dons do Espírito Santo em III q. 39 a. 6 |” → “| sapientia / scientia / consilium / intellectus / pietas / fortitudo / timor | sabedoria / ciência / conselho / entendimento / piedade / fortaleza / temor | Os sete dons do Espírito Santo em III q. 39 a. 6; fora da designação do dom, *consilium* também é “deliberação”, como ato da razão prática |” — Registra o sentido de *consilium* consistentemente empregado nas questões sobre temor e prudência.
+- `pt-BR/translation-journal.md`: “| donum intellectus / scientiae / sapientiae / consilii | dom da inteligência / da ciência / da sabedoria / do conselho | II-II q. 8–9; nota do tradutor em q. 8 pr. |” → “| donum intellectus / scientiae / sapientiae / consilii | dom do intelecto / da ciência / da sabedoria / do conselho | II-II q. 8–9; nota do tradutor em q. 8 pr.; fora da designação do dom, *consilium* também é “deliberação”, como ato da razão prática |” — Distingue a denominação do dom do sentido recorrente de deliberação prática.
+- `pt-BR/translation-journal.md`: “| potentia / vis / virtus (potência) | potência / força / potência | *in virtute* = “em virtude”; *virtute* = “virtualmente”; “Potentia também é poder quando designa o poder divino” |” → “| potentia / vis / virtus (potência) | potência / força / potência | *in virtute* = “em virtude”; *virtute* = “virtualmente”; *potentia* também é “poder” quando designa capacidade efetiva de agir ou resistir, como em I-II q. 43 a. 2 |” — Registra o sentido corretamente traduzido como “poder” nas ocorrências sobre quem teme e quem é temido.
+- `pt-BR/translation-journal.md`: “| vis / potentia / virtus | força / potência / virtude | “força apetitiva”, “potência concupiscível”, “virtude unitiva”; “Potentia também é poder quando designa o poder divino” |” → “| vis / potentia / virtus | força / potência / virtude | “força apetitiva”, “potência concupiscível”, “virtude unitiva”; *potentia* também é “poder” quando designa capacidade efetiva de agir ou resistir, como em I-II q. 43 a. 2 |” — Registra o sentido recorrente de capacidade efetiva, distinto da designação de uma potência da alma.
+- `pt-BR/translation-journal.md`: “| potentia / vis / virtus (apprehensiva, appetitiva) | potência / força / faculdade (apreensiva, apetitiva) | *virtus* como faculdade, para não confundir com a virtude moral; “Potentia também é poder quando designa o poder divino” |” → “| potentia / vis / virtus (apprehensiva, appetitiva) | potência / força / faculdade (apreensiva, apetitiva) | *virtus* como faculdade, para não confundir com a virtude moral; *potentia* também é “poder” quando designa capacidade efetiva de agir ou resistir, como em I-II q. 43 a. 2 |” — Registra o sentido de *potentia* consistentemente traduzido como “poder” em I-II q. 43 a. 2.
+
+### Part terms 6 of 22, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of fs-q057-a04 [7]–[9] and the 10 journal edits: the three *peccare* → “pecar” changes are faithful and grammatical, and the journal notes are consistent; no defects.
+- Rejected: pt-BR/fs-q057-a04.md [8] — “a perfeição e a retidão da razão … depende” has a singular verb with a compound subject — The two nouns are near-synonyms forming one notion, and the Latin has singular *dependet*. Singular agreement is admissible here.
+- Rejected: pt-BR/fs-q057-a04.md [8] — The audit flags emphasis markers (source 0, pt-BR 4) — The extra italics are the work titles *Metafísica* and *Ética*, which follow the journal's convention for cited works.
+- Rejected: pt-BR/translation-journal.md — The *gaudium* rows were harmonized to “gozo”, while the fruits list of I-II q. 70 and II-II q. 28 keep “alegria” — The edited rows are scoped to I-II q. 22–25 and II-II q. 8–9. The other rows keep their own scope, and no paragraph shown here contradicts the change.
+
+### Part terms 7 of 22, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 13 minor. 248 parágrafos sinalizados lidos; 2 desvios textuais e 11 ajustes de glossário.
+- `pt-BR/fs-q065-a01.md` [7]: “das *Discussões tusculanas*” → “das *Questões tusculanas*” — Uniformiza o título de Tusculanae quaestiones com “Questões tusculanas”, conforme o glossário.
+- `pt-BR/fs-q081-a02.md` [7]: “no *Enchiridion*” → “no *Enquirídio*” — Uniformiza o título com “Enquirídio”, forma adotada por três das quatro linhas do glossário que nomeiam a obra.
+- `pt-BR/translation-journal.md`: “| peri archon / de Div. Nom. / de Trin. / octoginta trium quaest. / Enchirid. / de quaest. Evang. / de gratia et libero arbitrio / de perfectione iustitiae / de Lib. Arb. / super Gen. ad Litt. / de summo bono / de ecclesiasticis dogmatibus | *Peri Archon* / *Os nomes divinos* / *A Trindade* / *Oitenta e três questões* / *Enchiridion* / *Questões sobre os Evangelhos* / *A graça e o livre-arbítrio* / *A perfeição da justiça* / *O livre-arbítrio* / *O Gênesis ao pé da letra* / *O sumo bem* / *Os dogmas eclesiásticos* | |” → “| peri archon / de Div. Nom. / de Trin. / octoginta trium quaest. / Enchirid. / de quaest. Evang. / de gratia et libero arbitrio / de perfectione iustitiae / de Lib. Arb. / super Gen. ad Litt. / de summo bono / de ecclesiasticis dogmatibus | *Peri Archon* / *Os nomes divinos* / *A Trindade* / *Oitenta e três questões* / *Enquirídio* / *Questões sobre os Evangelhos* / *A graça e o livre-arbítrio* / *A perfeição da justiça* / *O livre-arbítrio* / *O Gênesis ao pé da letra* / *O sumo bem* / *Os dogmas eclesiásticos* | |” — Resolve a divergência entre linhas que nomeiam a mesma obra, adotando “Enquirídio”, predominante no glossário.
+- `pt-BR/translation-journal.md`: “| mens / intellectus / spiritus | mente / intelecto / espírito | *Spiritus* é “sopro” no contexto da produção da voz, III q. 6 a. 6; *intellectus*, quando designa o significado de um texto, também é “sentido” ou “interpretação”, e, como ato de compreender, “inteligência” |” → “| mens / intellectus / spiritus | mente / intelecto / espírito | *Spiritus* é “sopro” no contexto da produção da voz, III q. 6 a. 6; como dom do Espírito Santo, *intellectus* é “inteligência” em I-II q. 68–69 |” — Registra o sentido de intellectus como dom, consistentemente traduzido por “inteligência” nos parágrafos, distinguindo-o da faculdade.
+- `pt-BR/translation-journal.md`: “| sapientia / scientia / consilium / intellectus / pietas / fortitudo / timor | sabedoria / ciência / conselho / entendimento / piedade / fortaleza / temor | Os sete dons do Espírito Santo em III q. 39 a. 6 |” → “| sapientia / scientia / consilium / intellectus / pietas / fortitudo / timor | sabedoria / ciência / conselho / inteligência / piedade / fortaleza / temor | Os sete dons do Espírito Santo em III q. 39 a. 6 |” — Uniformiza o nome do dom com “inteligência”, forma consistentemente usada nos parágrafos sinalizados.
+- `pt-BR/translation-journal.md`: “| donum intellectus / scientiae / sapientiae / consilii | dom do intelecto / da ciência / da sabedoria / do conselho | II-II q. 8–9; nota do tradutor em q. 8 pr. |” → “| donum intellectus / scientiae / sapientiae / consilii | dom da inteligência / da ciência / da sabedoria / do conselho | II-II q. 8–9; nota do tradutor em q. 8 pr. |” — Resolve a divergência entre as linhas sobre o mesmo dom, seguindo “inteligência”, forma predominante nos parágrafos sinalizados.
+- `pt-BR/translation-journal.md`: “| donum sapientiae / intellectus / scientiae | dom da sabedoria / do entendimento / da ciência | II-II q. 45; *intellectus* como faculdade fica “intelecto” |” → “| donum sapientiae / intellectus / scientiae | dom da sabedoria / da inteligência / da ciência | II-II q. 45; *intellectus* como faculdade fica “intelecto” |” — Uniformiza o nome do dom com “inteligência”, conservando “intelecto” para a faculdade.
+- `pt-BR/translation-journal.md`: “| dilectio / caritas | amor / caridade | I-II q. 99–100 |” → “| dilectio / caritas | dileção / caridade | I-II q. 99–100 |” — Resolve a divergência entre linhas para dilectio, seguindo “dileção”, forma predominante nas ocorrências nominais sinalizadas.
+- `pt-BR/translation-journal.md`: “| dilectio (Dei) | amor (de Deus) | *fides quae per dilectionem operatur* = “a fé que opera pelo amor”; também “a fé que opera pela caridade”, como empregado reiteradamente em III q. 68 |” → “| dilectio (Dei) | dileção (de Deus) | *fides quae per dilectionem operatur* = “a fé que opera pelo amor”; nessa expressão, conserva-se “amor” |” — Uniformiza dilectio com a forma predominante “dileção”, preservando a tradução expressamente sancionada para a fórmula citada.
+- `pt-BR/translation-journal.md`: “| dilectio / dilectio caritatis | amor / amor de caridade | II-II q. 3–4 |” → “| dilectio / dilectio caritatis | dileção / dileção de caridade | II-II q. 3–4 |” — Resolve a divergência entre linhas seguindo “dileção”, inclusive na ocorrência “dileção de caridade” de I-II q. 65 a. 2.
+- `pt-BR/translation-journal.md`: “| dilectio | amor | II-II q. 24–25; *amor de caridade* para *dilectio caritatis* |” → “| dilectio | dileção | II-II q. 24–25; “dileção de caridade” para *dilectio caritatis* |” — Uniformiza as linhas divergentes com “dileção” e “dileção de caridade”, formas usadas nas ocorrências sinalizadas.
+- `pt-BR/translation-journal.md`: “| dilectio | amor | II-II q. 44 |” → “| dilectio | dileção | II-II q. 44 |” — Resolve a divergência entre linhas para dilectio seguindo “dileção”, forma predominante nas ocorrências sinalizadas.
+- `pt-BR/translation-journal.md`: “| dilectio Dei / proximi | amor de Deus / do próximo | q. 182 |” → “| dilectio Dei / proximi | dileção de Deus / do próximo | q. 182 |” — Uniformiza a linha com “dileção de Deus” e “dileção do próximo”, formas reiteradas em I-II q. 68 a. 8 e q. 88 a. 2.
+
+### Part terms 7 of 22, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Leitura delta: as duas mudanças de título estão corretas. A linha do glossário de I-II q. 65 contradizia a nova forma “Questões tusculanas” e foi corrigida. As linhas de dilectio e intellectus não podem ser conferidas sem os parágrafos correspondentes e ficaram registradas para revisão.
+- `pt-BR/translation-journal.md`: “*A Trindade* / *Discussões tusculanas* / *O livre-arbítrio*” → “*A Trindade* / *Questões tusculanas* / *O livre-arbítrio*” — A linha do glossário para I-II q. 65 ainda dá “Discussões tusculanas”, mas fs-q065-a01 [7] agora diz “Questões tusculanas”; a linha passou a contradizer o texto.
+- Rejected: pt-BR/fs-q065-a01.md [7] — “Questões tusculanas” no lugar de “Discussões tusculanas” — Fiel a *Tuscul. quaest.* e igual à forma usada na linha de Túlio do glossário; a frase continua correta.
+- Rejected: pt-BR/fs-q081-a02.md [7] — “Enquirídio” no lugar de “Enchiridion” — Título português de uso predominante no glossário; a frase continua correta.
+- Rejected: pt-BR/translation-journal.md, linhas de dilectio (I-II q. 99–100; II-II q. 3–4, 24–25, 44; q. 182) — A linha de II-II q. 44 agora diz “dileção”, mas a decisão de q. 44 a. 3 diz que *dilectio* → “amor” é a regra e que “dileção” ali é exceção única. A linha antiga de I-II q. 1–5 ainda diz “amor”. — A divergência é real, mas os parágrafos dessas questões não foram mostrados nesta rodada. Não há como saber qual forma o texto usa, e uma correção errada é pior que nenhuma. Deve ser revista numa leitura que mostre esses parágrafos.
+- Rejected: pt-BR/translation-journal.md, linhas de intellectus (II-II q. 8–9; III q. 39 a. 6; mens/intellectus/spiritus) — Essas três alterações da rodada anterior não aparecem no diário atual. Além disso, a mudança para II-II q. 8–9 contrariaria a decisão de q. 8 pr., que fixa “intelecto” para o dom. — O estado atual do diário é coerente com essa decisão de q. 8. Nada a corrigir sem os parágrafos dessas questões.
+
+### Part terms 7 of 22, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Leitura delta: conferida a alteração para “Questões tusculanas” na linha do glossário de I-II q. 65; correta, sem novos defeitos. Nenhum parágrafo de capítulo foi apresentado.
+
+### Part terms 8 of 22, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 7 minor. 204 parágrafos sinalizados examinados; 2 desvios corrigidos e 5 notas de glossário ampliadas.
+- `pt-BR/fs-q091-a05.md` [10]: “discípulo de Mani” → “discípulo de Manes” — Nome próprio: *Manichaei* designa Manes, conforme as linhas de nomes próprios do glossário.
+- `pt-BR/fs-q102-a04.md` [27]: “no livro II *Do céu e do mundo*” → “no livro II de *O céu e o mundo*” — Título de *de Caelo et Mundo* restituído à forma do glossário.
+- `pt-BR/translation-journal.md`: “| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão”; quando designa um raciocínio apresentado ou respondido, “argumento” |” → “| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão”; quando designa um raciocínio apresentado, *ratio* também é “argumento” |” — As respostas às objeções empregam reiterada e corretamente “argumento”, sentido distinto de noção e de faculdade.
+- `pt-BR/translation-journal.md`: “| mens / intellectus / spiritus | mente / intelecto / espírito | *Spiritus* é “sopro” no contexto da produção da voz, III q. 6 a. 6; *intellectus*, quando designa a compreensão de um texto ou preceito, também é “sentido”, “interpretação” ou “inteligência espiritual” |” → “| mens / intellectus / spiritus | mente / intelecto / espírito | *Spiritus* é “sopro” no contexto da produção da voz, III q. 6 a. 6; *intellectus*, quando designa o significado de um texto, também é “sentido” ou “interpretação”, e, como ato de compreender, “inteligência” |” — Os exemplos distinguem corretamente o intelecto como faculdade do sentido de um texto e do ato de compreendê-lo.
+- `pt-BR/translation-journal.md`: “| salus (corporalis / reipublicae) | salvação (corporal / da coisa pública) | II-II q. 40 a. 4; mesma palavra para manter o argumento *a fortiori*; nos contextos médicos de II-II q. 64–65, salus corporal é “saúde” |” → “| salus (corporalis / reipublicae) | salvação (corporal / da coisa pública) | II-II q. 40 a. 4; mesma palavra para manter o argumento *a fortiori*; na discussão da finalidade e da utilidade das leis, I-II q. 95–98, também “bem-estar” ou “bem-estar comum” |” — As ocorrências sobre a utilidade das leis empregam consistentemente “bem-estar”, sem envolver o argumento específico indicado na nota.
+- `pt-BR/translation-journal.md`: “| testamentum | testamento | Conservado também nas fórmulas e citações para sustentar o argumento sobre herança e testador |” → “| testamentum | testamento | Conservado também nas fórmulas e citações para sustentar o argumento sobre herança e testador; em I-II q. 102 a. 4, *arca testamenti* e *tabulae testamenti* são “arca da aliança” e “tábuas da aliança” |” — Na descrição do tabernáculo, “aliança” é usado consistentemente em um sentido que não envolve herança e testador.
+- `pt-BR/translation-journal.md`: “| circumcisio / praeputium | circuncisão / incircuncisão | Em III q. 37 a. 2, “entre os circuncisos / entre os incircuncisos” exprime os grupos designados |” → “| circumcisio / praeputium | circuncisão / incircuncisão | Em III q. 37 a. 2, “entre os circuncisos / entre os incircuncisos” exprime os grupos designados; *praeputium* também é “prepúcio” no sentido anatômico e na metáfora dos primeiros rebentos, I-II q. 102 a. 2 e a. 6 |” — As ocorrências designam o prepúcio e sua aplicação metafórica aos rebentos, não a condição de incircuncisão.
+
+### Part terms 8 of 22, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta read of I-II q. 91 a. 5 [9–11], q. 102 a. 4 [26–28], their footnote and 5 journal row edits. Two minor fixes: the journal row still said “Mani” after the text became “Manes”, and the *de caelo et mundo* title was restored to its Key Terms form.
+- `pt-BR/translation-journal.md`: “*Contra Adimanto, discípulo de Mani*” → “*Contra Adimanto, discípulo de Manes*” — I-II q. 91 a. 5 [10] now reads “discípulo de Manes”; the Key Terms row still gives “Mani”, which no longer occurs in the text.
+- `pt-BR/fs-q102-a04.md` [27]: “como se diz no livro II de *O céu e o mundo*” → “como se diz no livro II *Do céu e do mundo*” — The Key Terms row for this section (de caelo et mundo → *Do céu e do mundo*, Aristóteles, among the I-II q. 102 rows) fixes this title; no glossary row gives “O céu e o mundo”. The previous change contradicted the table, so the row's form is restored.
+- Rejected: pt-BR/fs-q102-a04.md [26] — “serafins” in the last sentence, where the context is the cherubim — The source reads *Seraphim*; the journal's decisions keep it on purpose.
+- Rejected: pt-BR/fs-q102-a04.md [27] — “este … aquele” for *hoc … illud* (bread of the table vs manna) — *hoc* points to the nearer referent, the table's bread, and *illud* to the manna; the Portuguese keeps that reference.
+- Rejected: pt-BR/translation-journal.md (ratio, mens, salus rows) — The rows as shown differ in wording from the previous round's stated *new* text. — The current rows are accurate and consistent with the text shown; this is no defect.
+
+### Part terms 8 of 22, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as duas alterações, lidos integralmente os parágrafos 26–28 e a nota do tradutor; nenhum defeito objetivo encontrado.
+- Rejected: pt-BR/fs-q102-a04.md [27] — A auditoria aponta dois marcadores de ênfase adicionais. — Os marcadores adicionais delimitam o título *Do céu e do mundo*, conforme a forma fixada no glossário; a citação bíblica mantém o itálico da fonte.
+
+### Part terms 9 of 22, Round 1 (codex, terms read)
+Verdict: 2 meaning-level, 12 minor. 229 parágrafos sinalizados lidos; 8 ocorrências com desvio corrigidas e 6 linhas do glossário complementadas.
+- `pt-BR/fs-q106-a01.md` [9]: “no livro *Do espírito e da letra*” → “no livro *O espírito e a letra*” — Título de *de spiritu et littera* restituído à forma do glossário.
+- `pt-BR/fs-q106-a02.md` [7]: “Agostinho diz, no livro Sobre o espírito e a letra” → “Agostinho diz, no livro O espírito e a letra” — Título de *de spiritu et littera* restituído à forma do glossário.
+- `pt-BR/fs-q106-a02.md` [7]: “Agostinho expõe, no livro Sobre o espírito e a letra” → “Agostinho expõe, no livro O espírito e a letra” — Título de *de spiritu et littera* restituído à forma do glossário.
+- `pt-BR/fs-q106-a02.md` [10]: “Agostinho no livro Sobre o espírito e a letra” → “Agostinho no livro O espírito e a letra” — Título de *de spiritu et littera* restituído à forma do glossário.
+- `pt-BR/fs-q110-a03.md` [3]: “no livro Sobre o espírito e a letra” → “no livro O espírito e a letra” — Título de *de spiritu et littera* restituído à forma do glossário.
+- `pt-BR/fs-q107-a01.md` [9]: “e o prepúcio por meio da fé” → “e a incircuncisão por meio da fé” — *Praeputium* designa aqui a condição dos incircuncisos, não a parte anatômica; o glossário estabelece “incircuncisão”. *(meaning)*
+- `pt-BR/fs-q108-a02.md` [3]: “nem o prepúcio, mas a fé” → “nem a incircuncisão, mas a fé” — *Praeputium* designa aqui a condição de incircuncisão, em oposição à circuncisão; segue-se o glossário. *(meaning)*
+- `pt-BR/fs-q111-a03.md` [9]: “a caridade do caminho” → “a caridade da via” — *Caritas viae* é o termo técnico contraposto à caridade aperfeiçoada na pátria; o glossário estabelece “caridade da via”.
+- `pt-BR/translation-journal.md`: “| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão”; como raciocínio apresentado numa discussão, “argumento” |” → “| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão”; quando designa um raciocínio apresentado ou respondido, “argumento” |” — As respostas às objeções empregam reiteradamente “argumento” para *ratio*, em sentido distinto de noção ou faculdade.
+- `pt-BR/translation-journal.md`: “| mens / intellectus / spiritus | mente / intelecto / espírito | *Spiritus* é “sopro” no contexto da produção da voz, III q. 6 a. 6; “intellectus” também é “inteligência” quando significa a compreensão do sentido ou das palavras, em II-II q. 96 a. 4 |” → “| mens / intellectus / spiritus | mente / intelecto / espírito | *Spiritus* é “sopro” no contexto da produção da voz, III q. 6 a. 6; *intellectus*, quando designa a compreensão de um texto ou preceito, também é “sentido”, “interpretação” ou “inteligência espiritual” |” — Os parágrafos distinguem corretamente a faculdade intelectual do sentido ou interpretação da lei.
+- `pt-BR/translation-journal.md`: “| virtus / donum / habitus | virtude / dom / hábito | *Virtus* também é “poder”, “capacidade” ou “eficácia”, conforme o contexto; no contexto das obras extraordinárias divinas, “milagre”, no plural “milagres” |” → “| virtus / donum / habitus | virtude / dom / hábito | *Virtus* também é “poder”, “capacidade” ou “eficácia”, conforme o contexto; no plural, designando feitos miraculosos, “milagres”, como em *operatio virtutum*, “operação de milagres” |” — Em I-II q. 111 a. 4, *virtutum* designa reiteradamente milagres, não virtudes morais ou faculdades.
+- `pt-BR/translation-journal.md`: “| stipendium / pretium / merces | estipêndio / preço / recompensa | II-II q. 100 a. 2–3 |” → “| stipendium / pretium / merces | estipêndio / preço / recompensa | II-II q. 100 a. 2–3; *merces*, como pagamento pelo uso de um bem, “aluguel” em I-II q. 105 a. 2 |” — Os dois parágrafos sobre animais tomados *mercede* usam corretamente “aluguel”, sentido não registrado.
+- `pt-BR/translation-journal.md`: “| habitus opinativus / scientia / disciplinae | hábito opinativo / ciência / disciplinas | q. 51–53; “Disciplina é aprendizagem quando designa a aquisição do saber pelo discípulo, em contraste com doctrina, ensino” |” → “| habitus opinativus / scientia / disciplinae | hábito opinativo / ciência / disciplinas | q. 51–53; *disciplina*, no sentido de formação ou ensinamento recebido, também “instrução”, “ensino” ou “doutrina” |” — As ocorrências educacionais empregam corretamente essas traduções, sem designar disciplinas como ramos do saber.
+- `pt-BR/translation-journal.md`: “| sacramentum / sacrum secretum | sacramento / segredo sagrado | Conservada a polissemia examinada em III q. 60 a. 1 |” → “| sacramentum / sacrum secretum | sacramento / segredo sagrado | Conservada a polissemia examinada em III q. 60 a. 1; *sacramentum*, como vínculo jurado de fidelidade, “juramento” em II-II q. 12 a. 2 |” — A citação de Gregório VII emprega duas vezes *sacramentum* no sentido de juramento de fidelidade, corretamente traduzido.
+
+### Part terms 9 of 22, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 4 minor. Delta: as 14 mudanças estão certas. Corrigidas uma linha de glossário que a mudança em q. 111 a. 3 deixou desatualizada, uma decisão do diário com título antigo, um “Santo Agostinho” sem base na fonte e uma construção truncada em q. 107 a. 1 [8].
+- `pt-BR/translation-journal.md`: “| via; patria | caminho; pátria | *caritas viae* = “a caridade do caminho” |” → “| via; patria | caminho; pátria | *caritas viae* = “a caridade da via” |” — O texto de I-II q. 111 a. 3 [9] agora diz “a caridade da via”; a linha do glossário afirmava uma forma que já não ocorre.
+- `pt-BR/translation-journal.md`: “Títulos de obras citadas (Sobre o espírito e a letra, Contra Fausto etc.)” → “Títulos de obras citadas (O espírito e a letra, Contra Fausto etc.)” — A decisão cita o título numa forma que, depois da correção anterior, já não ocorre em I-II q. 106 e q. 110.
+- `pt-BR/fs-q106-a01.md` [9]: “Por isso também Santo Agostinho diz” → “Por isso também Agostinho diz” — A fonte diz *Augustinus*, sem título. O diário fixa “Agostinho” sem “Santo” nesta seção, e os parágrafos vizinhos seguem essa forma.
+- `pt-BR/fs-q107-a01.md` [8]: “diz-se uma a lei que se impõe aos homens perfeitos” → “chama-se uma lei a que se impõe aos homens perfeitos” — *dicitur alia lex quae imponitur… et alia lex de disciplina puerorum*: “diz-se uma a lei” não tem construção correta; a correção mantém o paralelo com “e outra a lei acerca da disciplina”.
+- Rejected: pt-BR/fs-q106-a01.md [9] — Título em itálico (*O espírito e a letra*), contra a decisão de deixar os títulos sem itálico em I-II q. 106; o audit acusa 2 marcadores a mais. — É formatação de título, não altera o sentido. O parágrafo [7] do mesmo arquivo mostra a mesma diferença, então o itálico parece ser o padrão do arquivo.
+- Rejected: pt-BR/fs-q107-a01.md [9] — “incircuncisão” para *praeputium* em Romanos 3 — Correção certa: *praeputium* designa aqui os incircuncisos, em contraste com a circuncisão, como pede a linha do glossário.
+- Rejected: pt-BR/fs-q111-a03.md [9] — “caridade da via” — Correção certa no texto; só a linha do glossário de q. 111 precisava acompanhar.
+
+### Part terms 9 of 22, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as quatro mudanças e lidos integralmente os seis parágrafos apresentados, cotejados com o latim; nenhum novo defeito encontrado.
+
+### Part terms 10 of 22, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 17 minor. 272 parágrafos sinalizados examinados; 1 desvio terminológico e 16 ajustes de glossário.
+- `pt-BR/translation-journal.md`: “| malum poenae / malum culpae | mal de pena / mal de culpa | Distinção preservada em III q. 15 |” → “| malum poenae / malum culpae | mal da pena / mal da culpa | Distinção preservada em III q. 15 |” — Uniformiza as linhas divergentes com as formas predominantes nos trechos: “mal da pena” e “mal da culpa”.
+- `pt-BR/translation-journal.md`: “| Sententiae / Moralia / de Div. Nom. / de conceptu virginali | *Sentenças* / *Morais* / *Os nomes divinos* / *A concepção virginal* | Títulos das obras citadas |” → “| Sententiae / Moralia / de Div. Nom. / de conceptu virginali | *Sentenças* / *Moralia* / *Os nomes divinos* / *A concepção virginal* | Títulos das obras citadas |” — As linhas divergem quanto ao mesmo título; “Moralia” predomina nas citações apresentadas.
+- `pt-BR/translation-journal.md`: “| Ethica / Moralia / de Divinis Nominibus | Ética / Morais / Os nomes divinos | Títulos das obras citadas |” → “| Ethica / Moralia / de Divinis Nominibus | Ética / Moralia / Os nomes divinos | Títulos das obras citadas |” — Uniformiza o título com “Moralia”, forma predominante nas citações apresentadas.
+- `pt-BR/translation-journal.md`: “| de quaestionibus Novi et Veteris Testamenti / Moralia | Questões do Novo e do Antigo Testamento / Morais | Títulos das obras citadas |” → “| de quaestionibus Novi et Veteris Testamenti / Moralia | Questões do Novo e do Antigo Testamento / Moralia | Títulos das obras citadas |” — Uniformiza o título com “Moralia”, forma predominante nas citações apresentadas.
+- `pt-BR/translation-journal.md`: “| phantasmata | fantasmas | q. 56 a. 5 |” → “| phantasmata | imagens sensíveis | q. 56 a. 5 |” — Resolve a divergência entre linhas pelo uso dos trechos, que empregam “imagens das coisas sensíveis” e, abreviadamente, “imagens”.
+- `pt-BR/translation-journal.md`: “| phantasmata | fantasmas | q. 113 a. 7 ad 5 |” → “| phantasmata | imagens sensíveis | q. 113 a. 7 ad 5 |” — Uniformiza as linhas de phantasmata com a tradução por “imagens” observada nos trechos.
+- `pt-BR/translation-journal.md`: “| phantasmata | fantasmas | II-II q. 8 a. 7; nota do tradutor |” → “| phantasmata | imagens sensíveis | II-II q. 8 a. 7; nota do tradutor |” — Uniformiza as linhas de phantasmata com a tradução por “imagens” observada nos trechos.
+- `pt-BR/translation-journal.md`: “| dilectio | amor | |” → “| dilectio | amor | |” — As linhas divergem para dilectio no mesmo sentido; “amor” predomina nos trechos apresentados.
+- `pt-BR/translation-journal.md`: “| dilectio / caritas / amicitia | amor / caridade / amizade | nota do tradutor em q. 26 a. 3 |” → “| dilectio / caritas / amicitia | amor / caridade / amizade | nota do tradutor em q. 26 a. 3 |” — Uniformiza a linha divergente com “amor”, tradução predominante de dilectio nos trechos.
+- `pt-BR/translation-journal.md`: “| dilectio | amor | II-II q. 19 a. 6–8 |” → “| dilectio | amor | II-II q. 19 a. 6–8 |” — Uniformiza a linha divergente com “amor”, tradução predominante de dilectio nos trechos.
+- `pt-BR/translation-journal.md`: “| dilectio / amor | dileção / amor | II-II q. 33–35 |” → “| dilectio / amor | amor / amor | II-II q. 33–35 |” — Uniformiza dilectio com a tradução predominante; os trechos não sustentam uma distinção conceitual entre os dois vocábulos latinos.
+- `pt-BR/translation-journal.md`: “| dilectio | amor | II-II q. 82–83 |” → “| dilectio | amor | II-II q. 82–83 |” — Uniformiza a linha divergente com “amor”, tradução predominante de dilectio nos trechos.
+- `pt-BR/translation-journal.md`: “| potentia / vis / virtus (potência) | potência / força / potência | *in virtute* = “em virtude”; *virtute* = “virtualmente”; *potentia* como capacidade de agir, especialmente divina, também é “poder” |” → “| potentia / vis / virtus (potência) | potência / força / potência | *in virtute* = “em virtude”; *virtute* = “virtualmente”; “Potentia também é poder quando designa o poder divino” |” — Registra o segundo sentido usado consistentemente em q. 14 e q. 21: poder divino, sem referência à potência como faculdade.
+- `pt-BR/translation-journal.md`: “| vis / potentia / virtus | força / potência / virtude | “força apetitiva”, “potência concupiscível”, “virtude unitiva”; *potentia* como capacidade de agir, especialmente divina, também é “poder” |” → “| vis / potentia / virtus | força / potência / virtude | “força apetitiva”, “potência concupiscível”, “virtude unitiva”; “Potentia também é poder quando designa o poder divino” |” — Acrescenta o sentido de potentia reiteradamente traduzido por “poder” nos trechos sobre Deus.
+- `pt-BR/translation-journal.md`: “| potentia / vis / virtus (apprehensiva, appetitiva) | potência / força / faculdade (apreensiva, apetitiva) | *virtus* como faculdade, para não confundir com a virtude moral; fora desse contexto, *potentia* como capacidade de agir, especialmente divina, também é “poder” |” → “| potentia / vis / virtus (apprehensiva, appetitiva) | potência / força / faculdade (apreensiva, apetitiva) | *virtus* como faculdade, para não confundir com a virtude moral; “Potentia também é poder quando designa o poder divino” |” — Acrescenta o sentido de potentia reiteradamente traduzido por “poder” nos trechos sobre Deus.
+- `pt-BR/translation-journal.md`: “| habitus opinativus / scientia / disciplinae | hábito opinativo / ciência / disciplinas | q. 51–53; disciplina como instrução recebida de outrem é “ensino” |” → “| habitus opinativus / scientia / disciplinae | hábito opinativo / ciência / disciplinas | q. 51–53; “Disciplina é aprendizagem quando designa a aquisição do saber pelo discípulo, em contraste com doctrina, ensino” |” — Registra o sentido corretamente mantido em q. 16 a. 2, distinto de disciplinas como áreas do saber.
+- `pt-BR/ss-q034-a06.md` [8]: “como a potência apetitiva, assim como a apreensiva, reflete sobre os seus atos” → “como a força apetitiva, assim como a apreensiva, reflete sobre os seus atos” — Vis → “força” (Key Terms); preserva a distinção terminológica entre vis e virtus, que aparece em seguida no mesmo argumento.
+
+### Part terms 10 of 22, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read of ss-q034-a06 [7]–[9] and 16 journal edits: [8] fix is correct; the q. 33–35 dilectio row was wrongly set to “amor” and is reverted to “dileção”.
+- NOT APPLIED (old text not found exactly once (2)): - `pt-BR/translation-journal.md`: “| dilectio / amor | amor / amor | II-II q. 33–35 |” → “| dilectio / amor | dileção / amor | II-II q. 33–35 |” — ss-q034-a06 [7] and [9] render dilectio as “dileção” (five times), and the Decisões entry for q. 33–35 keeps “dileção” to distinguish it from amor; the row now contradicts the text.
+- Rejected: pt-BR/ss-q034-a06.md [8] — “força apetitiva” followed by “potência apetitiva” for appetitivae virtutis — The change is correct: vis → “força”, and the row for vis apprehensiva/appetitiva gives “potência” for virtus/potentia in the same expressions.
+- Rejected: pt-BR/translation-journal.md, other dilectio rows (I-II q. 26 a. 3; II-II q. 19, q. 82–83) — They may also have been wrongly changed to “amor” — The relevant paragraphs are not shown, so the change cannot be checked here.
+
+### Part terms 11 of 22, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 9 minor. 270 parágrafos sinalizados lidos; nenhum desvio que exija alterar a tradução; 9 linhas do glossário ampliadas.
+- `pt-BR/translation-journal.md`: “| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão”; quando designa um raciocínio apresentado como objeção, “argumento” |” → “| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão”; como raciocínio apresentado numa discussão, “argumento” |” — Os parágrafos usam reiteradamente “argumento” para ratio quando designa o raciocínio de uma objeção, não uma noção ou faculdade.
+- `pt-BR/translation-journal.md`: “| habitus opinativus / scientia / disciplinae | hábito opinativo / ciência / disciplinas | q. 51–53; no contexto da formação religiosa, *disciplina* é “aprendizado” |” → “| habitus opinativus / scientia / disciplinae | hábito opinativo / ciência / disciplinas | q. 51–53; disciplina como instrução recebida de outrem é “ensino” |” — “Ensino” traduz consistentemente disciplina em II-II q. 47 a. 15, q. 48 a. 1 e q. 49 a. 3.
+- `pt-BR/translation-journal.md`: “| servus / dominus | servo / senhor | II-II q. 63 a. 3; q. 65 a. 2 |” → “| servus / dominus | servo / senhor | II-II q. 63 a. 3; q. 65 a. 2; dominus como proprietário de uma coisa também é “dono” |” — Nas questões sobre restituição e propriedade, dominus é reiteradamente e corretamente traduzido por “dono”.
+- `pt-BR/translation-journal.md`: “| debitum | dívida; devido | q. 111 a. 1 ad 2; “dever” quando designa uma obrigação de honestidade, justiça, amizade ou reconhecimento |” → “| debitum | dívida; devido | q. 111 a. 1 ad 2; como obrigação moral ou jurídica, também “dever” |” — “Dever” traduz consistentemente debitum nas obrigações de justiça, de revelar a verdade e de socorrer.
+- `pt-BR/translation-journal.md`: “| salus (corporalis / reipublicae) | salvação (corporal / da coisa pública) | II-II q. 40 a. 4; mesma palavra para manter o argumento *a fortiori*; fora desse argumento, “salus” também é “saúde” no sentido corporal, como em II-II q. 83 a. 6 e q. 89 a. 6 |” → “| salus (corporalis / reipublicae) | salvação (corporal / da coisa pública) | II-II q. 40 a. 4; mesma palavra para manter o argumento *a fortiori*; nos contextos médicos de II-II q. 64–65, salus corporal é “saúde” |” — As passagens sobre amputação usam consistentemente “saúde” para a integridade corporal; a decisão específica de q. 40 não exige substituí-la.
+- `pt-BR/translation-journal.md`: “| defectus | deficiência | q. 43 a. 2 |” → “| defectus | deficiência | q. 43 a. 2; no funcionamento do conselho, do juízo e do comando, também “falha” |” — “Falha” traduz reiteradamente defectus nas questões sobre imprudência, sem mudança de conceito.
+- `pt-BR/translation-journal.md`: “| regnativa / militaris / politica / oeconomica / monastica | régia / militar / política / econômica / monástica | II-II q. 47 a. 11; q. 48 a. 1 |” → “| regnativa / militaris / politica / oeconomica / monastica | régia / militar / política / econômica / monástica | II-II q. 47 a. 11; q. 48 a. 1; qualificando o justo ou a justiça nas relações familiares, oeconomicus é “doméstico” |” — Em II-II q. 57 a. 4 e q. 58 a. 7, a tradução distingue consistentemente a justiça doméstica da prudência econômica.
+- `pt-BR/translation-journal.md`: “| instinctus | impulso | |” → “| instinctus | impulso | Como moção divina recebida por Daniel, também “inspiração” (II-II q. 67 a. 1 e a. 3) |” — As duas ocorrências relativas a Daniel usam corretamente “inspiração” para instinctus.
+- `pt-BR/translation-journal.md`: “| modus / modificare | modo / impor modo, receber seu modo | q. 61 a. 4; q. 63 a. 2 e a. 4; *modus* também é “medida” quando designa limite ou proporção |” → “| modus / modificare | modo / impor modo, receber seu modo | q. 61 a. 4; q. 63 a. 2 e a. 4; modus no sentido de limite ou moderação também é “medida” |” — “Medida” traduz consistentemente modus nas passagens sobre modéstia e sobre impor limites segundo a prudência.
+
+### Part terms 11 of 22, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of 9 journal glossary amendments (no chapter paragraphs changed): all consistent with the documented renderings; no defects.
+- Rejected: pt-BR/translation-journal.md, rows ratio / habitus opinativus / salus — The journal as shown words these three rows differently from the round-1 new values (e.g. disciplina as “aprendizado” rather than “ensino”). — The current wording is coherent and does not contradict the text. Disciplina as “ensino” in II-II q. 47–48 is already stated in the separate row “inventio / disciplina”, so nothing is lost.
+- Rejected: pt-BR/translation-journal.md, row instinctus — Possible conflict with the later row “instinctus (divinus) | instinto (divino) | q. 171 a. 5”. — That row predates this round and is scoped to q. 171. The added note about Daniel (II-II q. 67) is an accurate contextual exception and creates no new contradiction.
+
+### Part terms 12 of 22, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 7 minor. 247 parágrafos sinalizados lidos; 2 ocorrências com desvio terminológico e 5 complementações de notas do glossário.
+- `pt-BR/ss-q083-a09.md` [14]: “Se é a inteligência aquela pela qual” → “Se é o entendimento aquele pelo qual” — *intellectus* designa aqui um dos sete dons; “entendimento” mantém a terminologia da enumeração conforme o glossário.
+- `pt-BR/ss-q091-a02.md` [9]: “no prólogo da *Música*” → “no prólogo de *Sobre a música*” — *musica* → “Sobre a música” (Key Terms), título da obra citada.
+- `pt-BR/translation-journal.md`: “| servus / dominus (homem) | servo / senhor | II-II q. 10 a. 9–10, a. 12 |” → “| servus / dominus (homem) | servo / senhor | II-II q. 10 a. 9–10, a. 12; “dominus” também é “dono” quando designa o proprietário de uma coisa |” — Os trechos usam reiteradamente “dono” no sentido de proprietário, sem alteração de conceito.
+- `pt-BR/translation-journal.md`: “| debitum | dívida; devido | q. 111 a. 1 ad 2 |” → “| debitum | dívida; devido | q. 111 a. 1 ad 2; “dever” quando designa uma obrigação de honestidade, justiça, amizade ou reconhecimento |” — Os trechos usam consistentemente “dever” para a obrigação moral, conservando as distinções do argumento.
+- `pt-BR/translation-journal.md`: “| mens / intellectus / spiritus | mente / intelecto / espírito | *Spiritus* é “sopro” no contexto da produção da voz, III q. 6 a. 6 |” → “| mens / intellectus / spiritus | mente / intelecto / espírito | *Spiritus* é “sopro” no contexto da produção da voz, III q. 6 a. 6; “intellectus” também é “inteligência” quando significa a compreensão do sentido ou das palavras, em II-II q. 96 a. 4 |” — A tradução emprega reiteradamente “inteligência” para o ato de compreender, sem designar a faculdade ou o dom.
+- `pt-BR/translation-journal.md`: “| salus (corporalis / reipublicae) | salvação (corporal / da coisa pública) | II-II q. 40 a. 4; mesma palavra para manter o argumento *a fortiori* |” → “| salus (corporalis / reipublicae) | salvação (corporal / da coisa pública) | II-II q. 40 a. 4; mesma palavra para manter o argumento *a fortiori*; fora desse argumento, “salus” também é “saúde” no sentido corporal, como em II-II q. 83 a. 6 e q. 89 a. 6 |” — Os trechos usam corretamente “saúde” para o estado corporal; a uniformidade exigida pelo argumento de q. 40 não se aplica a essas ocorrências.
+- `pt-BR/translation-journal.md`: “| observationes | observâncias | II-II q. 92–95 |” → “| observationes | observâncias | II-II q. 92–95; também “observações” quando se trata de observar coisas exteriores para delas tirar prognósticos, em II-II q. 95 a. 7 |” — O título e a abertura de q. 95 a. 7 usam consistentemente “observações” no sentido de exame das coisas exteriores.
+
+### Part terms 12 of 22, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 3 minor. Delta de ss-q083-a09 e ss-q091-a02 e das linhas do diário. As duas trocas de termo da rodada 1 contrariavam as linhas específicas do glossário e foram revertidas; corrigido também um “mais” acrescentado na citação de Agostinho.
+- `pt-BR/ss-q083-a09.md` [14]: “Se é o entendimento aquele pelo qual” → “Se é a inteligência aquela pela qual” — Reverte a correção anterior. A linha específica do glossário, “donum intellectus | dom de inteligência | II-II q. 83 a. 3, 9”, cobre exatamente este artigo, e a linha de I-II q. 68 também fixa “inteligência” para o dom. A linha de III q. 39 a. 6 não rege a II-II q. 83.
+- `pt-BR/ss-q091-a02.md` [9]: “no prólogo de *Sobre a música*” → “no prólogo da *Música*” — Reverte a correção anterior. A linha do glossário para II-II q. 91–95 dá “Boetius, musica → *Música*”. “Sobre a música” é a forma fixada para a obra de Agostinho em q. 122–123 e 137–142, não para Boécio aqui.
+- `pt-BR/ss-q091-a02.md` [9]: “o ânimo dos mais fracos se eleve” → “o ânimo dos fracos se eleve” — A fonte diz *infirmorum animus*, sem comparativo. “Mais” é acréscimo, e a mesma frase de Tomás já usa “dos fracos” para *infirmorum*.
+- Rejected: pt-BR/ss-q083-a09.md — nota [^1] — Afirmação sobre *supersubstantialem* e *quotidianum* — Está correta: a Vulgata traz *supersubstantialem* em Mateus 6 e *quotidianum* em Lucas 11, ambos vertendo *epioúsios*.
+- Rejected: pt-BR/ss-q091-a02.md [8] — “Santo Ambrósio” para *beatus Ambrosius* — Conforme a linha do glossário para II-II q. 91 a. 2.
+- Rejected: pt-BR/translation-journal.md (linhas servus/dominus, debitum, mens, salus, observationes) — Complementos acrescentados na rodada anterior — São extensões descritivas compatíveis com o texto mostrado. Não há ocorrência visível que os contradiga.
+
+### Part terms 12 of 22, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos os seis parágrafos apresentados e a nota do tradutor; verificadas as três alterações, sem novos defeitos.
+- Rejected: pt-BR/ss-q083-a09.md [14]; pt-BR/ss-q091-a02.md [9] — Possível inadequação de “inteligência” e do título “Música”. — As duas formas seguem as linhas específicas do glossário para estes artigos; as reversões estão corretas.
+- Rejected: pt-BR/ss-q083-a09.md [14–15]; pt-BR/ss-q091-a02.md [8–9] — Diferenças na contagem dos marcadores de ênfase. — Nos parágrafos mostrados, os marcadores adicionais destacam títulos de obras; as citações conservam seu itálico.
+
+### Part terms 13 of 22, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 6 minor. 250 parágrafos sinalizados lidos; 3 ocorrências com desvio e 4 ajustes no glossário.
+- `pt-BR/ss-q101-a02.md` [7]: “dizemos que cultivamos os homens que frequentamos” → “dizemos que prestamos culto aos homens que frequentamos” — *Colere* → “prestar culto” (Key Terms); a citação explica precisamente o sentido de “culto” empregado na distinção.
+- `pt-BR/ss-q101-a04.md` [6]: “como também por causa da obediência” → “como também por causa da desobediência” — O texto-fonte fornecido diz *propter inobedientiam*, “por causa da desobediência”; “obediência” inverte o termo. *(meaning)*
+- `pt-BR/ss-q124-a03.md` [9]: “no livro *Sobre os matrimônios adulterinos*” → “no livro *Sobre os casamentos adúlteros*” — Título de *de adulterinis coniugiis* harmonizado com “Sobre os casamentos adúlteros” (Key Terms).
+- `pt-BR/translation-journal.md`: “| munus a manu / a lingua / ab obsequio | dádiva da mão / da língua / do obséquio | II-II q. 78 a. 2 |” → “| munus a manu / a lingua / ab obsequio | dom da mão / da língua / do obséquio | II-II q. 78 a. 2 |” — Harmonização das duas linhas: os parágrafos fornecidos empregam reiteradamente “dom” para essas modalidades de *munus*.
+- `pt-BR/translation-journal.md`: “| spes / desperatio / cupiditas | esperança / desespero / cupidez | q. 40 |” → “| spes / desperatio / cupiditas | esperança / desespero / cobiça | q. 40; *cupiditas* também é “desejo” quando designa genericamente o desejar, como em desejar enganar ou agradar |” — Harmoniza “cupidez” com “cobiça”, forma observada no texto fornecido, e registra o sentido geral corretamente traduzido reiteradamente por “desejo”.
+- `pt-BR/translation-journal.md`: “| cupiditas / avaritia | cupidez / avareza | |” → “| cupiditas / avaritia | cobiça / avareza | *Cupiditas* também é “desejo” quando designa genericamente o desejar, como em desejar enganar ou agradar |” — Harmoniza as linhas concorrentes e acrescenta o sentido geral de *cupiditas*, reiteradamente traduzido corretamente por “desejo”.
+- `pt-BR/translation-journal.md`: “| cupiditas / avaritia | cupidez / avareza | q. 84 |” → “| cupiditas / avaritia | cobiça / avareza | q. 84; *cupiditas* também é “desejo” quando designa genericamente o desejar, como em desejar enganar ou agradar |” — Acrescenta o sentido geral de *cupiditas*, corretamente traduzido reiteradamente por “desejo”, sem impor “cobiça” a essas ocorrências.
+
+### Part terms 13 of 22, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 2 minor. Delta read of 7 changes: reverted the reversal “desobediência” (contrary to the journal decision), updated the outdated decision on *colere* and the Key Terms row for *de adulterinis coniugiis*; the remaining changes and neighbours are correct.
+- `pt-BR/ss-q101-a04.md` [6]: “como também por causa da desobediência” → “como também por causa da obediência” — A fonte do espelho traz *inobedientiam*, mas o contexto (não podem sair do claustro sem licença dos prelados, por voto) e a edição leonina pedem *obedientiam*; o diário já registra essa decisão em q. 101 a. 4 obj. 4. “Desobediência” torna o argumento sem sentido. *(meaning)*
+- `pt-BR/translation-journal.md`: “- q. 101 a. 2 resp.: *colere homines* (Agostinho) → “cultivamos os homens”, que é o uso natural do verbo para pessoas; nas demais passagens *colere* → “prestar culto”.” → “- q. 101 a. 2 resp.: *colere homines* (Agostinho) → “prestamos culto aos homens”, como nas demais passagens de *colere*, porque a citação explica o sentido de *cultus* na distinção.” — A decisão descreve a forma anterior; o texto agora diz “prestamos culto aos homens”.
+- `pt-BR/translation-journal.md`: “/ *Sobre os matrimônios adulterinos* /” → “/ *Sobre os casamentos adúlteros* /” — A linha de II-II q. 123–125 contradiz o texto de q. 124 a. 3 [9], agora harmonizado com “Sobre os casamentos adúlteros”.
+- Rejected: pt-BR/ss-q101-a04.md [6] — Seguir a letra da fonte, *propter inobedientiam* — É erro do espelho, contra a leonina e o sentido; o diário já o trata como lapso, segundo a prática de traduzir pelo sentido os erros evidentes da fonte.
+- Rejected: pt-BR/translation-journal.md (linhas de cupiditas) — Outras linhas ainda dão “cupidez” (q. 22–25, q. 118) — Referem-se a passagens fora dos parágrafos mostrados; não verificáveis nesta leitura.
+
+### Part terms 13 of 22, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as três alterações e lidos integralmente os parágrafos [5]–[7] apresentados; nenhum novo defeito encontrado. Os demais locais sinalizados pela auditoria não foram mostrados nesta delta.
+- Rejected: pt-BR/ss-q101-a04.md [6] — “Obediência” diverge de inobedientiam no SRC. — A leitura está expressamente registrada no diário e justificada pelo contexto imediato: a obrigação de obter licença dos prelados impede a saída. Não há argumento novo para reabrir a decisão da rodada anterior.
+
+### Part terms 14 of 22, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 6 minor. 265 parágrafos sinalizados lidos; nenhum desvio textual confirmado; 6 ajustes no glossário.
+- `pt-BR/translation-journal.md`: “| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão”; no sentido de raciocínio apresentado como prova ou objeção, “argumento” |” → “| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão”; quando designa um raciocínio apresentado como objeção, “argumento” |” — Várias respostas às objeções traduzem corretamente *ratio illa* por “aquele argumento”; acrescenta-se esse sentido à nota.
+- `pt-BR/translation-journal.md`: “| fortis / fortitudo | o forte / a fortaleza | |” → “| fortis / fortitudo | o forte / a fortaleza | Quando designa a intensidade do vinho, *fortitudo* é “força” |” — Em três parágrafos, *fortitudo vini* é corretamente “força do vinho”, sentido distinto da virtude.
+- `pt-BR/translation-journal.md`: “| modus / modificare | modo / impor modo, receber seu modo | q. 61 a. 4; q. 63 a. 2 e a. 4 |” → “| modus / modificare | modo / impor modo, receber seu modo | q. 61 a. 4; q. 63 a. 2 e a. 4; *modus* também é “medida” quando designa limite ou proporção |” — Os parágrafos usam reiteradamente “medida” para *modus* como limite ou proporção, sem alterar o conceito.
+- `pt-BR/translation-journal.md`: “| modus / mensura / immodificatum | modo / medida / sem modo | II-II q. 27 a. 6 |” → “| modus / mensura / immodificatum | modo / medida / sem modo | II-II q. 27 a. 6; *modus* também é “medida” quando designa limite ou proporção |” — Registra-se o sentido reiterado de *modus* como “medida”, preservando a distinção contextual da linha.
+- `pt-BR/translation-journal.md`: “| cupiditas / avaritia | cobiça / avareza | q. 84 |” → “| cupiditas / avaritia | cupidez / avareza | q. 84 |” — As linhas divergem sobre *cupiditas*; “cupidez” é a forma mais usada nas ocorrências apresentadas.
+- `pt-BR/translation-journal.md`: “| mititas / mansuetudo | mansidão / mansuetude | q. 69 a. 1 ad 3 distingue o ato da virtude; q. 68 a. 1 também “mansuetude” |” → “| mititas / mansuetudo | mansidão / mansidão | q. 69 a. 1 ad 3 distingue o ato da virtude; q. 68 a. 1 também “mansuetude”; nas ocorrências apresentadas, a virtude *mansuetudo* é “mansidão” |” — As linhas divergem sobre *mansuetudo*; os parágrafos apresentados usam “mansidão” para a virtude.
+
+### Part terms 14 of 22, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta: seis alterações do glossário verificadas; revertidas as linhas *cupiditas* (q. 84 usa “cobiça”, segundo as Decisões) e *mansuetudo* (contradizia a distinção da própria nota e a linha da q. 70); as demais estão corretas.
+- NOT APPLIED (old text not found exactly once (4)): - `pt-BR/translation-journal.md`: “| cupiditas / avaritia | cupidez / avareza | q. 84 |” → “| cupiditas / avaritia | cobiça / avareza | q. 84 |” — As Decisões registram que na q. 84 *cupiditas* foi vertido “cobiça” (eco de 1 Timóteo 6); a linha, presa à q. 84, não pode dar “cupidez”, forma de outras questões
+- NOT APPLIED (old text not found exactly once (2)): - `pt-BR/translation-journal.md`: “| mititas / mansuetudo | mansidão / mansidão | q. 69 a. 1 ad 3 distingue o ato da virtude; q. 68 a. 1 também “mansuetude”; nas ocorrências apresentadas, a virtude *mansuetudo* é “mansidão” |” → “| mititas / mansuetudo | mansidão / mansuetude | q. 69 a. 1 ad 3 distingue o ato da virtude; q. 68 a. 1 também “mansuetude”; em II-II (q. 121, q. 143, q. 157), *mansuetudo* é “mansidão” |” — “mansidão / mansidão” anula a distinção que a própria nota afirma e contradiz a linha dos frutos (q. 70: “*mansuetudo* segue a regra já fixada (mansuetude)”); “mansidão” para a virtude é o uso da II-II
+- Rejected: pt-BR/translation-journal.md, linhas ratio e modus/modificare — O texto atual das linhas difere do “new” relatado pela rodada anterior — A redação atual (“argumento” ou “raciocínio”; *modus* como limite também “medida”) é correta e cobre o mesmo sentido; não há defeito
+- Rejected: pt-BR/translation-journal.md, linhas fortis/fortitudo e modus/mensura — Acréscimos sobre *fortitudo vini* e *modus* como “medida” — Exatos e coerentes com o restante da tabela
+
+### Part terms 15 of 22, Round 1 (codex, terms read)
+Verdict: 2 meaning-level, 4 minor. 256 parágrafos sinalizados lidos; 2 desvios no texto e 4 ajustes de glossário.
+- `pt-BR/ss-q159-a02.md` [6]: “aquele que, sem ter sido lesado e sem estar irado contra quem pecou, [castiga,]” → “aquele que, sem ter sido lesado, se ira contra quem não pecou,” — O sujeito de “irascitur” efetivamente se ira; “nec peccatori” indica que aquele contra quem se ira não pecou. A tradução deslocava a negação para o ato de irar-se. *(meaning)*
+- `pt-BR/ss-q170-a01.md` [9]: “pelo estupro da virgem” → “pelo defloramento da virgem” — *stuprum* → “defloramento” (Key Terms); “estupro” introduz a violência sexual, que não define esta espécie na distinção empregada. *(meaning)*
+- `pt-BR/translation-journal.md`: “| visio imaginaria / visio intellectualis | visão imaginativa / visão intelectual | “Imaginativa” designa a faculdade da imaginação, sem implicar falsidade |” → “| visio imaginaria / visio intellectualis | visão imaginária / visão intelectual | “Imaginária” designa a modalidade de visão pela imaginação, sem implicar falsidade |” — As ocorrências apresentadas usam consistentemente “visão imaginária”, também adotada pelas outras duas linhas sobre as modalidades de visão.
+- `pt-BR/translation-journal.md`: “| simplex intuitus | simples intuição | |” → “| simplex intuitus | intuição simples | |” — Harmoniza as duas linhas de *simplex intuitus* com “intuição simples”, forma recorrente nos parágrafos apresentados.
+- `pt-BR/translation-journal.md`: “| veritas vitae / iustitiae / doctrinae | verdade da vida / da justiça / da doutrina | II-II q. 109 a. 2–3; *doctrina*, quando designa a instrução recebida ou transmitida, também é “ensinamento” |” → “| veritas vitae / iustitiae / doctrinae | verdade da vida / da justiça / da doutrina | II-II q. 109 a. 2–3; “doctrina”, quando designa o ato de ensinar, também se traduz por “ensino” ou “ensinamento” |” — Registra o sentido de atividade docente, traduzido consistentemente por “ensino” ou “ensinamento”, distinto da expressão composta registrada na linha.
+- `pt-BR/translation-journal.md`: “| luxuria / fornicatio simplex / adulterium / incestus / stuprum / raptus / vitium contra naturam / sacrilegium / impudicitia | luxúria / fornicação simples / adultério / incesto / defloramento / rapto / vício contra a natureza / sacrilégio / impudicícia | II-II q. 153–154 |” → “| luxuria / fornicatio simplex / adulterium / incestus / stuprum / raptus / vitium contra naturam / sacrilegium / impudicitia | luxúria / fornicação simples / adultério / incesto / defloramento / rapto / vício contra a natureza / sacrilégio / impudicícia | II-II q. 153–154; “raptus”, no contexto da elevação extraordinária da alma em q. 175, traduz-se por “arrebatamento”; “raptus” como particípio, por “arrebatado” |” — Acrescenta o sentido contemplativo de *raptus*, corretamente distinguido do rapto tratado entre as espécies de luxúria.
+
+### Part terms 15 of 22, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of ss-q159-a02 [5]–[7], ss-q170-a01 [8]–[10] and 4 journal row edits: all changes verified against the Latin, no new defects.
+- Rejected: pt-BR/ss-q159-a02.md [6] — The new rendering moves the negation of *nec* from the verb to *peccatori*. — *non laesus, nec peccatori* is a pair of conditions on *irascitur*: he rages though neither injured nor against a sinner. This fits the respondeo, where *saevitia* does not consider the guilt of the one punished. The previous rendering also needed an added bracketed verb.
+- Rejected: pt-BR/ss-q170-a01.md [9] — “com ele” after the change to “defloramento”. — *eius connubio* refers to the father, so “com ele” is right. The edit left the sentence's agreement intact and matches the Key Terms row for *stuprum*.
+- Rejected: ss-q159-a02.md [4]–[7], ss-q170-a01.md [10] — Mechanical audit flags a difference in emphasis markers. — The extra italics mark work titles (*Morais*, *Ética*, *Sobre a clemência*, *Sobre o bem do matrimônio*), as the journal prescribes.
+
+### Part terms 16 of 22, Round 1 (codex, terms read)
+Verdict: 2 meaning-level, 2 minor. 223 flags lidas; 3 ocorrências com desvio e 1 complemento de glossário.
+- `pt-BR/ss-q186-a03.md` [8]: “a pobreza exclui a largueza das esmolas” → “a pobreza exclui a doação de esmolas” — *largitio eleemosynarum* → “doação de esmolas” (Key Terms); o argumento trata do ato de dar esmolas, não da generosidade ou abundância delas *(meaning)*
+- `pt-BR/ss-q186-a03.md` [18]: “está para a largueza das esmolas” → “está para a doação de esmolas” — *eleemosynarum largitionem* → “doação de esmolas” (Key Terms); a comparação entre universal e particular contrapõe renunciar a todos os bens a dar esmolas *(meaning)*
+- `pt-BR/ss-q188-a05.md` [12]: “no fim de *A música*” → “no fim de *Sobre a música*” — *musica* → “Sobre a música” (Key Terms); uniformização do título da obra de Agostinho
+- `pt-BR/translation-journal.md`: “| habitus opinativus / scientia / disciplinae | hábito opinativo / ciência / disciplinas | q. 51–53; em sentido geral, *scientia* também é “conhecimento” |” → “| habitus opinativus / scientia / disciplinae | hábito opinativo / ciência / disciplinas | q. 51–53; no contexto da formação religiosa, *disciplina* é “aprendizado” |” — As ocorrências usam consistentemente “aprendizado” para a formação que conduz à perfeição, sentido pedagógico não contemplado pela linha
+
+### Part terms 16 of 22, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta de ss-q186-a03 [7]–[9], [17]–[18], de ss-q188-a05 [11]–[12] e do diário: as quatro mudanças estão corretas; falta alinhar à mudança de [12] a linha de q. 187–188 da tabela.
+- `pt-BR/translation-journal.md`: “*Vidas dos Padres* / *A música*” → “*Vidas dos Padres* / *Sobre a música*” — A linha de q. 187–188 dá *de musica* como *A música*, mas ss-q188-a05 [12] agora traz *Sobre a música*, como as linhas de q. 122–123, q. 137–142 e q. 165–170; a linha deixou de corresponder ao texto
+- Rejected: pt-BR/ss-q186-a03.md [8], [18] — “doação de esmolas” para *largitio eleemosynarum* — Correto: segue a linha da tabela (II-II q. 32), e os dois argumentos tratam do ato de dar esmolas; as frases continuam gramaticais
+- Rejected: pt-BR/ss-q188-a05.md [11] — parêntese a mais em relação à fonte (*studia dissensionum*) — Glosa prevista nas decisões do diário para q. 188 a. 5, ligada à nota [^1]
+- Rejected: pt-BR/translation-journal.md, linha habitus opinativus / disciplinae — complemento sobre *disciplina* = “aprendizado” — Coincide com o uso em ss-q186-a03 [17] e com a linha de q. 186 a. 3–6; não há afirmação falsa
+
+### Part terms 16 of 22, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Revista a alteração da linha de q. 187–188 no diário: “Sobre a música” está correto e corresponde à correção registrada para ss-q188-a05 [12]. Nenhum novo defeito encontrado; nenhum parágrafo de capítulo foi apresentado neste delta.
+
+### Part terms 17 of 22, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 15 minor. 239 parágrafos sinalizados lidos; 3 ocorrências com desvio e 12 ajustes no glossário.
+- `pt-BR/tp-q005-a02.md` [7]: “como afirmou Mani” → “como afirmou Manes” — Uniformiza o nome de Manichaeus com “Manes”, forma usada nos parágrafos fornecidos e em duas linhas do glossário.
+- `pt-BR/tp-q008-a03.md` [10]: “no livro A memória e a reminiscência” → “no livro Sobre a memória e a reminiscência” — Restabelece o título de memoria et reminiscentia conforme o glossário.
+- `pt-BR/tp-q018-a01.md` [7]: “no Comentário a Lucas” → “no Sobre Lucas” — Restabelece o título super Lucam conforme o glossário.
+- `pt-BR/translation-journal.md`: “| Manichaeus / Valentinus / Orosius / Hilarius / Theophilus | Maniqueu / Valentim / Orósio / Hilário / Teófilo | Nomes; “São Teófilo” onde a fonte traz *sancti Theophili* |” → “| Manichaeus / Valentinus / Orosius / Hilarius / Theophilus | Manes / Valentim / Orósio / Hilário / Teófilo | Nomes; “São Teófilo” onde a fonte traz *sancti Theophili* |” — Resolve a divergência entre linhas para o nome Manichaeus, adotando “Manes”.
+- `pt-BR/translation-journal.md`: “| Montanus et Priscilla; Manichaeus | Montano e Priscila; Maniqueu | q. 106 a. 4 ad 2 |” → “| Montanus et Priscilla; Manichaeus | Montano e Priscila; Manes | q. 106 a. 4 ad 2 |” — Resolve a divergência entre linhas para o nome Manichaeus, adotando “Manes”.
+- `pt-BR/translation-journal.md`: “| dilectio | amor | |” → “| dilectio | amor | |” — As ocorrências fornecidas empregam “amor”; harmoniza as linhas divergentes de dilectio.
+- `pt-BR/translation-journal.md`: “| dilectio / caritas / amicitia | amor / caridade / amizade | nota do tradutor em q. 26 a. 3 |” → “| dilectio / caritas / amicitia | amor / caridade / amizade | nota do tradutor em q. 26 a. 3 |” — As ocorrências fornecidas empregam “amor”; harmoniza as linhas divergentes de dilectio.
+- `pt-BR/translation-journal.md`: “| dilectio | amor | II-II q. 19 a. 6–8 |” → “| dilectio | amor | II-II q. 19 a. 6–8 |” — As ocorrências fornecidas empregam “amor”; harmoniza as linhas divergentes de dilectio.
+- `pt-BR/translation-journal.md`: “| dilectio | amor | II-II q. 82–83 |” → “| dilectio | amor | II-II q. 82–83 |” — As ocorrências fornecidas empregam “amor”; harmoniza as linhas divergentes de dilectio.
+- `pt-BR/translation-journal.md`: “| appetibile / volitum / intelligere | apetecível / querido / inteligir | |” → “| appetibile / volitum / intelligere | apetecível / querido / entender | |” — “Entender” é a forma recorrente nos parágrafos fornecidos; harmoniza as duas linhas de intelligere.
+- `pt-BR/translation-journal.md`: “| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão”; na referência à argumentação, também “argumento” ou “raciocínio” |” → “| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão”; no sentido de raciocínio apresentado como prova ou objeção, “argumento” |” — Registra um sentido distinto de ratio, corretamente traduzido de modo recorrente como “argumento”.
+- `pt-BR/translation-journal.md`: “| potentia / vis / virtus (potência) | potência / força / potência | *in virtute* = “em virtude”; *virtute* = “virtualmente”; quando designa capacidade de agir ou domínio, *potentia* também é “poder” |” → “| potentia / vis / virtus (potência) | potência / força / potência | *in virtute* = “em virtude”; *virtute* = “virtualmente”; *potentia* como capacidade de agir, especialmente divina, também é “poder” |” — Registra o uso recorrente e correto de potentia como “poder”, distinto da potência contraposta ao ato.
+- `pt-BR/translation-journal.md`: “| vis / potentia / virtus | força / potência / virtude | “força apetitiva”, “potência concupiscível”, “virtude unitiva” |” → “| vis / potentia / virtus | força / potência / virtude | “força apetitiva”, “potência concupiscível”, “virtude unitiva”; *potentia* como capacidade de agir, especialmente divina, também é “poder” |” — Registra o uso recorrente e correto de potentia como “poder”, distinto da potência contraposta ao ato.
+- `pt-BR/translation-journal.md`: “| potentia / vis / virtus (apprehensiva, appetitiva) | potência / força / faculdade (apreensiva, apetitiva) | *virtus* como faculdade, para não confundir com a virtude moral |” → “| potentia / vis / virtus (apprehensiva, appetitiva) | potência / força / faculdade (apreensiva, apetitiva) | *virtus* como faculdade, para não confundir com a virtude moral; fora desse contexto, *potentia* como capacidade de agir, especialmente divina, também é “poder” |” — Explicita o sentido de potentia corretamente traduzido de modo recorrente como “poder”.
+- NOT APPLIED (old text not found exactly once (2)): - `pt-BR/translation-journal.md`: “| dilectio / amor | dileção / amor | II-II q. 33–35 |” → “| dilectio / amor | amor / amor | II-II q. 33–35 |” — As ocorrências fornecidas empregam “amor”; harmoniza as linhas divergentes de dilectio.
+
+### Part terms 17 of 22, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 2 minor. Delta read of 3 text changes and 11 journal changes, plus the neighbouring paragraphs: the memória/reminiscência title is reverted, a reversed negation in III q. 8 a. 3 ad 2 is fixed, and the Macarius journal row is corrected.
+- `pt-BR/tp-q008-a03.md` [9]: “e não em sentido absoluto, de modo que o homem alcance por Cristo a vida da graça” → “e não em sentido absoluto, isto é, não de modo que o homem alcance por Cristo a vida da graça” — source: *unit Christo secundum quid et non simpliciter ut scilicet per Christum homo assequatur vitam gratiae*. The negation governs the result clause: unformed faith does not give the life of grace. As written, the Portuguese suggests the opposite. *(meaning)*
+- `pt-BR/tp-q008-a03.md` [10]: “no livro Sobre a memória e a reminiscência” → “no livro A memória e a reminiscência” — The Key Terms row for III q. 8 (de Praedestinatione sanctorum / Enchiridion / de memoria et reminiscentia) and the III q. 25 row both give “A memória e a reminiscência”. The round-1 change followed a I-II row instead.
+- `pt-BR/translation-journal.md`: “| Macário de Antioquia / Ciro de Alexandria / Sérgio de Constantinopla / Agatão | Nomes em III q. 18 a. 1 |” → “| Macário, patriarca de Antioquia / Ciro de Alexandria / Sérgio de Constantinopla / Agatão | Nomes em III q. 18 a. 1 |” — The text of III q. 18 a. 1 [8] renders *Macarius Antiochenus patriarcha* as “Macário, patriarca de Antioquia”. The row's form “Macário de Antioquia” does not occur (audit: ×0).
+- Rejected: pt-BR/tp-q018-a01.md [7] — “no Sobre Lucas” reads awkwardly — It follows the Key Terms row (Ambrosius super Lucam = *Sobre Lucas*). The grammar is acceptable; this is a style matter.
+- Rejected: pt-BR/translation-journal.md (dilectio rows) — Changing the dilectio rows to “amor” conflicts with other rows and decisions that keep “dileção” — Those rows and decisions cover other questions. The changed rows match the occurrences the previous reviewer saw, and nothing shown contradicts them.
+- Rejected: pt-BR/tp-q005-a02.md [7] — Check of the Manichaeus → “Manes” change — It is correct and consistent with the Key Terms rows. The rest of the paragraph matches the source.
+
+### Part terms 17 of 22, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as três alterações e lidos integralmente os três parágrafos apresentados; nenhum novo defeito encontrado.
+- Rejected: pt-BR/tp-q008-a03.md [9] — O acréscimo de “isto é, não de modo que” poderia introduzir uma negação ausente da oração latina. — Explicita corretamente o alcance de “non simpliciter”: a união pela fé informe não comunica a vida da graça.
+- Rejected: pt-BR/tp-q008-a03.md [10] — O título poderia exigir “Sobre a memória e a reminiscência”. — “A memória e a reminiscência” é fiel ao título latino e corresponde às entradas do glossário pertinentes à Terceira Parte.
+
+### Part terms 18 of 22, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 6 minor. 253 parágrafos sinalizados lidos; 2 desvios terminológicos corrigidos e 4 notas de glossário complementadas.
+- `pt-BR/tp-q021-a03.md` [5]: “no livro A oração do Senhor” → “no livro A oração dominical” — Título de Cipriano: *oratio dominica* → “oração dominical” (Key Terms).
+- `pt-BR/tp-q039-a06.md` [14]: “ao dom da inteligência” → “ao dom do entendimento” — *Donum intellectus* → “dom do entendimento”, conforme a linha específica dos sete dons em III q. 39 a. 6.
+- `pt-BR/translation-journal.md`: “| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão”; quando designa uma linha de raciocínio ou objeção, “argumento” ou “raciocínio” |” → “| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão”; na referência à argumentação, também “argumento” ou “raciocínio” |” — As ocorrências distinguem consistentemente a argumentação da noção e da faculdade racional.
+- `pt-BR/translation-journal.md`: “| habitus opinativus / scientia / disciplinae | hábito opinativo / ciência / disciplinas | q. 51–53; *disciplina* também é “educação” no contexto da formação dos filhos e dos batizados, III q. 67 a. 8 |” → “| habitus opinativus / scientia / disciplinae | hábito opinativo / ciência / disciplinas | q. 51–53; em sentido geral, *scientia* também é “conhecimento” |” — “Conhecimento” traduz corretamente o sentido geral recorrente, sem designar especificamente o hábito científico.
+- `pt-BR/translation-journal.md`: “| religio / pietas / observantia / gratia / vindicatio / vindicta / veritas | religião / piedade / observância / gratidão / vindicação / vindita / verdade | II-II q. 80–81; fora da designação da virtude, *veritas* também é “realidade”, quando indica a efetividade de um fato ou aquilo que corresponde à figura |” → “| religio / pietas / observantia / gratia / vindicatio / vindicta / veritas | religião / piedade / observância / gratidão / vindicação / vindita / verdade | II-II q. 80–81; em oposição à figura ou à aparência, *veritas* também é “realidade” |” — As ocorrências usam corretamente “realidade” para o que a figura representa ou para a existência efetiva.
+- `pt-BR/translation-journal.md`: “| potentia / vis / virtus (potência) | potência / força / potência | *in virtute* = “em virtude”; *virtute* = “virtualmente”; *potentia* também é “poder” quando designa capacidade de agir, especialmente divina, sem oposição técnica entre potência e ato |” → “| potentia / vis / virtus (potência) | potência / força / potência | *in virtute* = “em virtude”; *virtute* = “virtualmente”; quando designa capacidade de agir ou domínio, *potentia* também é “poder” |” — “Poder” é recorrente e correto nas referências ao poder divino e ao poder dos homens.
+
+### Part terms 18 of 22, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of 2 chapter fixes and 4 journal edits with 6 neighbouring paragraphs: all changes check out against the source, and no new defects.
+- Rejected: pt-BR/tp-q021-a03.md [5] — The journal's II-II works row gives Cipriano's *de Orat. dominica* as *A oração do Senhor*, which conflicts with the new “A oração dominical”. — The Key Terms row *oratio dominica* = “oração dominical” supports the change, and both are correct renderings of the title, so the sense is unaffected.
+- Rejected: pt-BR/tp-q039-a06.md [14] — Concord after “dom do entendimento”. — “pelo qual” agrees with the masculine noun and matches the source's *quo*; the rest of the gift list matches the source clause by clause.
+
+### Part terms 19 of 22, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 5 minor. 231 flags lidas; nenhuma deriva textual que exija correção; 5 notas de glossário ampliadas.
+- `pt-BR/translation-journal.md`: “| infidelitas | infidelidade | Falta da fé cristã no contexto |” → “| infidelitas | infidelidade | Falta da fé cristã no contexto; também “incredulidade”, para a ausência ou recusa da fé |” — As ocorrências usam consistentemente “incredulidade” no sentido correto de ausência ou recusa da fé.
+- `pt-BR/translation-journal.md`: “| virtus / donum / habitus | virtude / dom / hábito | *Virtus* também é “poder”, “capacidade” ou “eficácia”, conforme o contexto |” → “| virtus / donum / habitus | virtude / dom / hábito | *Virtus* também é “poder”, “capacidade” ou “eficácia”, conforme o contexto; no contexto das obras extraordinárias divinas, “milagre”, no plural “milagres” |” — Virtus também designa os próprios milagres, como na citação de Gálatas 3; a tradução distingue corretamente esse sentido do poder que os realiza.
+- `pt-BR/translation-journal.md`: “| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão”; em outros sentidos, também “argumento” ou “raciocínio”, “natureza”, “fundamento” e “função de significar”, conforme o contexto |” → “| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão”; quando designa uma linha de raciocínio ou objeção, “argumento” ou “raciocínio” |” — Ratio illa aparece reiteradamente como “aquele argumento”; esse sentido correto não estava registrado na linha.
+- `pt-BR/translation-journal.md`: “| religio / pietas / observantia / gratia / vindicatio / vindicta / veritas | religião / piedade / observância / gratidão / vindicação / vindita / verdade | II-II q. 80–81; *veritas* também é “realidade” quando designa a existência efetiva do sacramento, do corpo ou da morte, em vez da virtude da verdade |” → “| religio / pietas / observantia / gratia / vindicatio / vindicta / veritas | religião / piedade / observância / gratidão / vindicação / vindita / verdade | II-II q. 80–81; fora da designação da virtude, *veritas* também é “realidade”, quando indica a efetividade de um fato ou aquilo que corresponde à figura |” — “Realidade” traduz consistentemente veritas nas passagens sobre a humanidade, a morte e a ressurreição de Cristo e na oposição entre figura e realidade.
+- `pt-BR/translation-journal.md`: “| potentia / vis / virtus (potência) | potência / força / potência | *in virtute* = “em virtude”; *virtute* = “virtualmente” |” → “| potentia / vis / virtus (potência) | potência / força / potência | *in virtute* = “em virtude”; *virtute* = “virtualmente”; *potentia* também é “poder” quando designa capacidade de agir, especialmente divina, sem oposição técnica entre potência e ato |” — As passagens usam reiterada e corretamente “poder” para potentia divina e para o poder exercido sobre outros.
+
+### Part terms 19 of 22, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read of the five Key Terms changes in the journal: one minor contradiction (operatio virtutum rendered differently in the q. 178 row), otherwise correct.
+- NOT APPLIED (old text not found exactly once (2)): - `pt-BR/translation-journal.md`: “como em *operatio virtutum*, “operação de milagres” |” → “como em *operatio virtutum*, “operação de milagres” (I-II q. 111 a. 4; em II-II q. 178, “operação de virtudes”, conforme a nota do tradutor ali) |” — the new note states operatio virtutum = “operação de milagres” without restriction, contradicting the II-II q. 178 row, which keeps “operação de virtudes”; limits the claim to where it holds
+- Rejected: pt-BR/translation-journal.md, rows virtus/ratio/religio/potentia — the rows' current wording differs from the wording reported in the change list — the sense is the same and each extension describes a legitimate rendering; wording variance is not a defect
+- Rejected: pt-BR/translation-journal.md, row infidelitas — added “incredulidade” as an alternative rendering — consistent with the q. 189 a. 9 decision (perfidia → incredulidade); no chapter text shown that contradicts it
+
+### Part terms 20 of 22, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 7 minor. 300 parágrafos sinalizados examinados; 1 desvio corrigido e 6 linhas do glossário complementadas.
+- `pt-BR/tp-q068-a04.md` [11]: “no livro Da fé e das obras” → “no livro A fé e as obras” — Título de *de fide et operibus* → “A fé e as obras” (Key Terms).
+- `pt-BR/translation-journal.md`: “| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão”; quando designa uma objeção ou um raciocínio, também se traduz por “argumento” |” → “| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão”; em outros sentidos, também “argumento” ou “raciocínio”, “natureza”, “fundamento” e “função de significar”, conforme o contexto |” — Os parágrafos usam reiteradamente essas traduções corretas de sentidos de *ratio* não contemplados pela linha.
+- `pt-BR/translation-journal.md`: “| religio / pietas / observantia / gratia / vindicatio / vindicta / veritas | religião / piedade / observância / gratidão / vindicação / vindita / verdade | II-II q. 80–81 |” → “| religio / pietas / observantia / gratia / vindicatio / vindicta / veritas | religião / piedade / observância / gratidão / vindicação / vindita / verdade | II-II q. 80–81; *veritas* também é “realidade” quando designa a existência efetiva do sacramento, do corpo ou da morte, em vez da virtude da verdade |” — “Realidade” traduz consistentemente um sentido de *veritas* distinto da virtude enumerada na linha.
+- `pt-BR/translation-journal.md`: “| cultus / colere / officium / obsequium / reverentia / honor | culto / prestar culto / ofício / obséquio / reverência / honra | II-II q. 101–103 |” → “| cultus / colere / officium / obsequium / reverentia / honor | culto / prestar culto / ofício / obséquio / reverência / honra | II-II q. 101–103; *naturae officium* é “função da natureza”, na discussão do matrimônio |” — “Função da natureza” traduz corretamente e de modo recorrente *naturae officium*.
+- `pt-BR/translation-journal.md`: “| veritas vitae / iustitiae / doctrinae | verdade da vida / da justiça / da doutrina | II-II q. 109 a. 2–3 |” → “| veritas vitae / iustitiae / doctrinae | verdade da vida / da justiça / da doutrina | II-II q. 109 a. 2–3; *doctrina*, quando designa a instrução recebida ou transmitida, também é “ensinamento” |” — Os parágrafos empregam consistentemente “ensinamento” para a instrução, fora da expressão técnica *veritas doctrinae*.
+- `pt-BR/translation-journal.md`: “| habitus opinativus / scientia / disciplinae | hábito opinativo / ciência / disciplinas | q. 51–53 |” → “| habitus opinativus / scientia / disciplinae | hábito opinativo / ciência / disciplinas | q. 51–53; *disciplina* também é “educação” no contexto da formação dos filhos e dos batizados, III q. 67 a. 8 |” — “Educação” traduz corretamente *disciplina* nas três ocorrências desse contexto.
+- `pt-BR/translation-journal.md`: “| dilectio (Dei) | amor (de Deus) | *fides quae per dilectionem operatur* = “a fé que opera pelo amor” |” → “| dilectio (Dei) | amor (de Deus) | *fides quae per dilectionem operatur* = “a fé que opera pelo amor”; também “a fé que opera pela caridade”, como empregado reiteradamente em III q. 68 |” — A fórmula é traduzida consistentemente por “caridade” nesses parágrafos, conservando seu sentido teológico.
+
+### Part terms 20 of 22, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of tp-q068-a04 [10]–[11] with its footnote and the six Key Terms rows: the fixes are correct and no new defects were found.
+- Rejected: pt-BR/tp-q068-a04.md [11] — “no livro A fé e as obras” has no italics, while the Key Terms row lists *A fé e as obras* in italics — The journal records the decision to give cited work titles in running text without italics, as in the source; the file is internally consistent.
+- Rejected: pt-BR/tp-q068-a04.md [11] — *per dilectionem operatur* rendered as “opera pela caridade” instead of “pelo amor” — The sentence already speaks of the faith formed by charity, so the sense is kept; the journal row now records this variant for III q. 68.
+- Rejected: book.json — the audit flag “toc: titles without pt-BR: ?” — The flag names no entry, and book.json is not part of the changes this delta round verifies.
+
+### Part terms 21 of 22, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 5 minor. 262 parágrafos sinalizados lidos; 4 desvios corrigidos e 1 complemento ao glossário.
+- `pt-BR/tp-q080-a07.md` [6]: “a Agostinho, bispo dos ingleses,” → “a Agostinho, bispo dos anglos,” — Nome de pessoa: o título de Agostinho segue “Agostinho, bispo dos anglos” (Key Terms).
+- `pt-BR/tp-q080-a07.md` [14]: “a Agostinho, bispo dos ingleses,” → “a Agostinho, bispo dos anglos,” — Nome de pessoa: o título de Agostinho segue “Agostinho, bispo dos anglos” (Key Terms).
+- `pt-BR/tp-q080-a07.md` [18]: “a Agostinho, bispo dos ingleses,” → “a Agostinho, bispo dos anglos,” — Nome de pessoa: o título de Agostinho segue “Agostinho, bispo dos anglos” (Key Terms).
+- `pt-BR/tp-q085-a01.md` [7]: “a virtude é um hábito de escolha segundo a reta razão” → “a virtude é um hábito eletivo segundo a reta razão” — *habitus electivus* → “hábito eletivo” (Key Terms); trata-se da definição técnica de virtude empregada no argumento.
+- `pt-BR/translation-journal.md`: “| votum / votum solemne / votum simplex | voto / voto solene / voto simples | II-II q. 88 |” → “| votum / votum solemne / votum simplex | voto / voto solene / voto simples | II-II q. 88; no contexto da recepção desejada de um sacramento, *votum* também é “desejo” (III q. 80 a. 11) |” — A tradução usa consistentemente “desejo” para *votum* nesse sentido, distinto do voto religioso; o próprio texto explicita *votum seu desiderium*.
+
+### Part terms 21 of 22, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of tp-q080-a07 [5–7, 13–15, 17–19], tp-q085-a01 [6–8] and the journal row: the five changes (“bispo dos anglos” three times, “hábito eletivo”, the *votum* row) are correct and the paragraphs are clean.
+- Rejected: pt-BR/tp-q080-a07.md [14] — “diz que se deve abster da comunhão” could be read as missing the reflexive (“abster-se”) — The proclitic “se” serves as the reflexive of “abster”. The construction is grammatical and the meaning is clear.
+- Rejected: pt-BR/tp-q080-a07.md [18] — The Latin has the singular *impedit*; the Portuguese has the plural “impedem” — The subject in Portuguese is “essas impurezas corporais” (plural), so the verb has to agree with it. The sense is unchanged.
+
+### Part terms 22 of 22, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 11 minor. 91 parágrafos sinalizados lidos; 3 com deriva terminológica; 6 linhas do glossário ajustadas.
+- `pt-BR/tp-q085-a04.md` [11]: “a memória é a faculdade apreensiva do passado” → “a memória é a força apreensiva do passado” — *vis apprehensiva* → “força apreensiva” (Key Terms), na distinção técnica entre as forças apreensiva e apetitiva.
+- `pt-BR/tp-q085-a04.md` [11]: “não pertence à faculdade apreensiva, mas à apetitiva” → “não pertence à força apreensiva, mas à apetitiva” — Conserva a mesma expressão técnica usada na definição da memória e retomada nesta distinção.
+- `pt-BR/tp-q086-a03.md` [5]: “não estão ligados entre si” → “não são conexos entre si” — *connexa* → “conexos” (Key Terms); a conexão dos pecados é a premissa técnica retomada na resposta.
+- `pt-BR/tp-q086-a03.md` [12]: “embora não estejam ligados entre si” → “embora não sejam conexos entre si” — *connexa* → “conexos” (Key Terms), na distinção entre conexão quanto à conversão e quanto à aversão.
+- `pt-BR/tp-q086-a03.md` [12]: “estão ligados quanto à aversão” → “são conexos quanto à aversão” — Conserva o termo técnico da premissa e do primeiro membro da distinção.
+- `pt-BR/translation-journal.md`: “| dilectio | dileção | |” → “| dilectio | amor | |” — As ocorrências fornecidas usam “amor”; harmoniza as linhas divergentes de *dilectio*.
+- `pt-BR/translation-journal.md`: “| dilectio / caritas / amicitia | dileção / caridade / amizade | nota do tradutor em q. 26 a. 3 |” → “| dilectio / caritas / amicitia | amor / caridade / amizade | nota do tradutor em q. 26 a. 3 |” — Harmoniza *dilectio* com “amor”, a tradução predominante nas ocorrências fornecidas.
+- `pt-BR/translation-journal.md`: “| dilectio | dileção | II-II q. 19 a. 6–8 |” → “| dilectio | amor | II-II q. 19 a. 6–8 |” — Harmoniza as linhas divergentes de *dilectio* com o uso predominante mostrado pelos parágrafos.
+- `pt-BR/translation-journal.md`: “| dilectio | dileção | II-II q. 82–83 |” → “| dilectio | amor | II-II q. 82–83 |” — Harmoniza as linhas divergentes de *dilectio* com o uso predominante mostrado pelos parágrafos.
+- `pt-BR/translation-journal.md`: “| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão” |” → “| ratio (beatitudinis, voluntarii, finis) | noção (de bem-aventurança, do voluntário, de fim) | a faculdade continua “razão”; quando designa uma objeção ou um raciocínio, também se traduz por “argumento” |” — Completa a linha com o sentido reiteradamente traduzido, de modo correto, por “argumento”.
+- NOT APPLIED (old text not found exactly once (3)): - `pt-BR/translation-journal.md`: “| dilectio / amor | dileção / amor | II-II q. 33–35 |” → “| dilectio / amor | amor / amor | II-II q. 33–35 |” — Harmoniza *dilectio* com “amor”, conforme o uso predominante nas ocorrências fornecidas.
+
+### Part terms 22 of 22, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read of 10 changes in tp-q085-a04, tp-q086-a03 and the journal. The paragraph fixes are correct. Reverted the journal row tied to q. 26 a. 3, where *dilectio* must stay “dileção”.
+- NOT APPLIED (old text not found exactly once (6)): - `pt-BR/translation-journal.md`: “| dilectio / caritas / amicitia | amor / caridade / amizade | nota do tradutor em q. 26 a. 3 |” → “| dilectio / caritas / amicitia | dileção / caridade / amizade | nota do tradutor em q. 26 a. 3 |” — I-II q. 26 a. 3 asks whether *amor* is the same as *dilectio*, and its note explains *dilectio*/*electio*. Rendering *dilectio* as “amor” would erase the distinction the article draws, so the previous row was right.
+- Rejected: pt-BR/tp-q085-a04.md [11] — “força apreensiva” in place of “faculdade apreensiva” — Correct: it matches the Key Terms row for *vis apprehensiva* and is used consistently in both places in the paragraph.
+- Rejected: pt-BR/tp-q086-a03.md [5], [12] — “conexos” in place of “ligados” — Correct for *connexa*. Concord and the verb “ser” are sound, and the reply now repeats the term used in the objection.
+- Rejected: pt-BR/translation-journal.md, other *dilectio* rows (bare row; II-II q. 19 a. 6–8; II-II q. 82–83) — possible conflict with decisions that keep “dileção” — The paragraphs for those regions were not shown, so I have no new argument against the previous reviewer's reading. They are left as changed.
+- Rejected: pt-BR/translation-journal.md, row *ratio* — added “argumento” for *ratio* used as a line of reasoning — Accurate, and it agrees with the fixed formula “aquele argumento procede”.
