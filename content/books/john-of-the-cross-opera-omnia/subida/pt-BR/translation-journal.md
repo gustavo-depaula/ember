@@ -204,3 +204,6 @@ Verdict: 0 meaning-level, 0 minor. Delta read of l3-c23 [5–7] and l3-c31 [3–
 - Rejected: pt-BR/l3-c23.md [5] — "atraída", "enlaçada", "feita" are feminine where the source has masculine "atraído", "enlazado", "hecho" — The implicit subject can be read as the soul (alma), which is the topic of the preceding clause. The feminine agreement is coherent in Portuguese and does not change the sense.
 - Rejected: pt-BR/l3-c23.md [7] — "que se veem prezar-se" for "que son vistos preciarse" might read as reflexive ("who see themselves") — Here "se veem" works as a passive with "se", as the context makes clear: the clause is about the low esteem others hold such people in. The construction is defensible.
 - Rejected: pt-BR/l3-c31.md [4] — "lhes dá a luz deles" uses the masculine where the source has "de ellas" — The antecedent is "dons e graças", a mixed-gender pair. Portuguese agreement with it in the masculine is correct.
+
+### Part terms 1 of 1, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 0 minor. 160 parágrafos sinalizados lidos; nenhum desvio confirmado.
