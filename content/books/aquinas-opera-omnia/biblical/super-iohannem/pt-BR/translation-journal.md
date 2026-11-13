@@ -23,7 +23,7 @@ Destino: pt-BR.
 | seducere / seductor | seduzir / sedutor | “Levar à parte” (*seorsum ducere*), n. 1031. |
 | murmur | murmúrio | Nota do tradutor 1 da Lição 2 do cap. 10. |
 | principes sacerdotum | príncipes dos sacerdotes | |
-| doctrina | doutrina | |
+| doctrina | doutrina | Quando designa o ato de ensinar, “ensino” (n. 1770). |
 | verax | verídico | |
 | forma Dei / forma servi | forma de Deus / forma de servo | |
 | praeiudicare | derrogar | Sentido jurídico, n. 1049. |
@@ -39,7 +39,7 @@ Destino: pt-BR.
 | principes (sem *sacerdotum*) | chefes | Na narrativa de João 7; “príncipes” mantido em outras citações bíblicas (Salmo 32:10). |
 | pontifices | sumos sacerdotes | João 7:45. |
 | ministri (João 7:32–46) | guardas | |
-| apprehendere | prender; tomar para si; alcançar | Nota do tradutor 2 da Lição 3 do cap. 10. |
+| apprehendere | prender; tomar para si; alcançar | Nota do tradutor 2 da Lição 3 do cap. 10. No sentido cognitivo de captar a luz ou chegar ao seu conhecimento, “apreender” (n. 103, 141). |
 | palam | abertamente | João 7:26; 18:20. |
 | scientia (Christi) | ciência | Termo teológico; *scio eum* = “eu o conheço”. |
 | comprehensio / visio comprehensionis | compreensão / visão de compreensão | Conhecimento que esgota o seu objeto. |
@@ -126,7 +126,7 @@ Destino: pt-BR.
 | praedestinati / praesciti | predestinados / previstos | N. 1443. |
 | virtus Paterna | a força do Pai | N. 1450. |
 | deus nuncupative / participative / per essentiam | deus só de nome / por participação / por essência | N. 1459–1460. |
-| sermo Dei / Verbum Dei | palavra de Deus / Verbo de Deus | N. 1460; nota do tradutor. |
+| sermo Dei / Verbum Dei | palavra de Deus / Verbo de Deus | N. 1460; nota do tradutor. Quando *verbum Dei* designa a mensagem divina, e não a Pessoa do Filho, “palavra de Deus”. |
 | apprehendere | prender (com nota do duplo sentido) | João 10:39; n. 1468, 1470. |
 | castellum (Bethania) / villa | aldeia / povoação | João 11:1; n. 1473. |
 | ly ‘pro’ / ly ‘ut’ | a preposição ‘para’ / a conjunção ‘para que’ | N. 1478. |
@@ -182,7 +182,7 @@ Destino: pt-BR.
 | credere in / credere ei | crer em / dar crédito a | N. 1712. |
 | ego lux in mundum veni | Eu, a luz, vim ao mundo | João 12:46; n. 1713 argumenta com a identidade “eu = luz”. |
 | sermo (João 12:48) | palavra | N. 1720 (Cristo é a palavra que falou). |
-| mandatum | mandamento | João 12:49–50. |
+| mandatum | mandamento | João 12:49–50. Para determinações de autoridades humanas ou instruções concretas, também “ordem”. |
 | rationes agendorum / ideae | razões do que se deve fazer / ideias | N. 1723. |
 | Sabellius; Arius; Dionysius; Theodorus Mopsuestenus; Faustus | Sabélio; Ário; Dionísio; Teodoro de Mopsuéstia; Fausto | *Contra Faustum* → *Contra Fausto*; *de Quaestionibus Evangel.* → *Das questões sobre os Evangelhos*. |
 | Pascha / phase | Páscoa, *pascha* / *phase* (passagem) | N. 1728, 1731. Na discussão etimológica, *pascha* e *phase* em itálico; nota do tradutor em g16-c001 [^1]. |
@@ -194,13 +194,13 @@ Destino: pt-BR.
 | mittere in cor; immissiones | pôr no coração; envios | N. 1742. |
 | vis imaginativa; species | faculdade imaginativa; imagens | N. 1742. |
 | passio promotiva et exaltativa | elevação e exaltação | N. 1732, 1734. |
-| linteum | toalha (lençol de linho, no sepulcro) | João 13:4–5; n. 1746. |
+| linteum | toalha (pano de linho, no sepulcro) | João 13:4–5; n. 1746. |
 | exinanitio / exinanivit | esvaziamento / esvaziou-se | Filipenses 2:7; n. 1746. |
 | minister / ministerium / obsequium | servidor / serviço / serviço | N. 1745, 1747. |
 | mundus / mundare / mundatio | limpo / purificar / purificação | João 13:10–11. |
 | zelus indiscretus | zelo sem discernimento | N. 1758 (“indiscreto” evitado pelo sentido moderno). |
 | ratio superior / inferior; sensualitas | razão superior / inferior; sensualidade | N. 1762. |
-| baptismus sanguinis / flaminis | batismo de sangue / do Espírito | N. 1765; nota do tradutor em g16-c002 [^2]. |
+| baptismus sanguinis / flaminis | batismo de sangue / de desejo | N. 1765; nota do tradutor em g16-c002 [^2]. |
 | Itinerarium Clementis | *Itinerário* de Clemente | N. 1761; nota do tradutor em g16-c002 [^1]. |
 | Origenes; Chrysostomus; Augustinus | Orígenes; Crisóstomo; Agostinho | |
 | I–IV Regum | 1–2 Samuel, 1–2 Reis | N. 1759: *I Reg.* → 1 Samuel. |
@@ -267,7 +267,7 @@ Destino: pt-BR.
 | poena damni; poena sensus | pena de dano; pena de sentido | N. 1994. |
 | Pelagiani; Manichaei | pelagianos; maniqueus | N. 1993, 1975. |
 | Eccli. | Eclesiástico | N. 1945, 1962, 1995. |
-| saeculum | século | N. 1941, 1947, 1962. |
+| saeculum | século | N. 1941, 1947, 1962. Na cosmologia de Valentim, “éon” (n. 80). |
 | dilectio; diligere | amor; amar | João 15:9–13; *dilectio proximi* → “amor do próximo”; *caritas* fica “caridade”. |
 | praeceptum; mandatum | mandamento | Para os de Cristo e de Deus; *finis praecepti* (1 Timóteo 1:5) → “o fim do preceito”. |
 | animam ponere | dar a vida | João 15:13; nota do tradutor em g18-c002 [^1]. |
@@ -280,7 +280,7 @@ Destino: pt-BR.
 | amatores mundi | amantes do mundo | N. 2032–2037. |
 | purgatio | limpeza | N. 2030; segue *purgare* → “limpar”. |
 | Origenes; Ariani | Orígenes; arianos | N. 2022, 1999. |
-| excusatio; excusare; inexcusabilis | desculpa (no lema); escusa; escusar; inescusável | João 15:22; no comentário, “escusa”, “escusar” (n. 2044–2049). |
+| excusatio; excusare; inexcusabilis | desculpa (no lema); escusa; escusar; inescusável | João 15:22; no comentário, “escusa”, “escusar” (n. 2044–2049). Na resposta de Cristo à acusação de blasfêmia, “defesa” e “defender-se”. |
 | peccatum infidelitatis | pecado de infidelidade | N. 2046, 2095. |
 | Paraclitus | Paráclito | Glosado “Consolador” (n. 2060). |
 | Spiritus veritatis | Espírito da verdade | João 15:26; 16:13. |
@@ -288,7 +288,7 @@ Destino: pt-BR.
 | suppositum | supósito | N. 2063. |
 | innascibilitas; paternitas | inascibilidade; paternidade | N. 2063. |
 | Graeci; Macedoniani | gregos; macedonianos | N. 2063–2065, 2089. |
-| obsequium (Deo) | culto (a Deus) | João 16:2; n. 2073–2074, 2081. |
+| obsequium (Deo) | culto (a Deus) | João 16:2; n. 2073–2074, 2081. Nos serviços e homenagens pessoais prestados a Cristo ou aos seus fiéis, também “obséquio”. |
 | absque synagogis facere | expulsar das sinagogas | João 16:2. |
 | arguere | arguir | João 16:8; Agostinho glosa “repreender”, Crisóstomo “convencer” (n. 2093, 2098). |
 | de peccato, de iustitia, de iudicio | quanto ao pecado, quanto à justiça, quanto ao juízo | João 16:8–11. |
@@ -299,10 +299,10 @@ Destino: pt-BR.
 | modicum | um pouco; pouco tempo | João 16:16–19; “a palavra ***um pouco***” no comentário (n. 2118–2124). |
 | pressura | aflição | João 16:21, 33; Eclesiástico 51:6 (n. 2133, 2175–2176). |
 | plorare; flere | lamentar-se; chorar | João 16:20; Tomás distingue a voz dolorosa (*plorare*) das lágrimas (*flere*) (n. 2128). |
-| rogare; interrogare; petere | rogar; perguntar; pedir | João 16:23; Agostinho sobre o verbo grego de duplo sentido (n. 2136). |
+| rogare; interrogare; petere | rogar; perguntar; pedir | João 16:23; Agostinho sobre o verbo grego de duplo sentido (n. 2136). Em contexto de interrogatório judicial, *interrogare* também se traduz por “interrogar”. |
 | Amen, amen dico vobis | Em verdade, em verdade vos digo | João 16:20, 23. |
 | in proverbiis; palam | em provérbios; abertamente | João 16:25, 29 (n. 2148–2152, 2165). |
-| interpellare; mediator | interceder; mediador | N. 2138, 2155–2156. |
+| interpellare; mediator | interceder; mediador | N. 2138, 2155–2156. Quando designa a oração de quem pede a Deus, sem indicar mediação por outrem, “suplicar” (n. 1904). |
 | exire a Patre; exitus | sair do Pai; saída | João 16:27–28 (n. 2160–2162). |
 | animalis homo | homem animal | 1 Coríntios 2:14 (n. 2152). |
 | de meo accipiet; ly *de* | receberá do que é meu; a partícula “de” | João 16:14–15 (n. 2108, 2115). |
@@ -445,7 +445,7 @@ Destino: pt-BR.
 | gratia gratum faciens | graça santificante | n. 150, 156; nota do tradutor. |
 | fides caritate formata; fides informis | fé formada pela caridade; fé informe | n. 159. |
 | suppositum; hypostasis | supósito; hipóstase | n. 170-172, 175. |
-| conversatio | convívio | n. 177-178. |
+| conversatio | convívio | n. 177-178. Quando significa conduta ou modo de vida, também “procedimento”, “modo de viver” ou “conversação”. |
 | exinanitio | esvaziamento | n. 176, Filipenses 2:7. |
 | sacramentum pietatis | mistério da piedade | n. 169, 1 Timóteo 3:16. |
 | Photinus; Eutiches; Apollinaris; Nestorius; Pelagius | Fotino; Êutiques; Apolinário; Nestório; Pelágio | n. 126, 166, 168, 170, 174. |
@@ -487,7 +487,7 @@ Destino: pt-BR.
 | Alcuinus; Glossa | Alcuíno; a Glosa | n. 299, 322. |
 | nuptiae (João 2:1) | bodas; casamento / núpcias no sentido do matrimônio | g5-c001, n. 336, 341. |
 | quid mihi et tibi est, mulier? | Que há entre mim e ti, mulher? | João 2:4; n. 349-353. |
-| hydriae; metretae | talhas; metretas | João 2:6; n. 356-357. |
+| hydriae; metretae | talhas; metretas | João 2:6; n. 356-357. Para o recipiente portátil da samaritana em João 4, hydria = “cântaro”. |
 | ministri (João 2:5-9) | serventes | n. 354, 358. |
 | architriclinus | arquitriclino | João 2:8-9; mantido pela etimologia de *triclinium* (n. 360). |
 | mystice | no sentido místico | todas as lições. |
@@ -579,7 +579,7 @@ Destino: pt-BR.
 | usque modo (nunc) operatur | opera até agora | João 5:17; oposto a “operou” (n. 739). |
 | a se facere | fazer por si mesmo | João 5:19; serve à origem (n. 747) e à conformidade (n. 751). |
 | similiter | do mesmo modo | João 5:19; liga com *non similiter* (n. 752). |
-| demonstrare | mostrar | João 5:20; *demonstratio* = demonstração (n. 754). |
+| demonstrare | mostrar | João 5:20; *demonstratio* = demonstração (n. 754). Na exibição de uma pessoa, “apresentar” e “apresentação”; na manifestação da glória aos membros de Cristo, “manifestação”. |
 | notionaliter / essentialiter | nocionalmente / essencialmente | n. 753. |
 | Tullius | Túlio | n. 706; nota do tradutor. |
 | potestas (virtus) vivificativa | poder vivificante | n. 755, 761, 770, 781. |
@@ -607,7 +607,7 @@ Destino: pt-BR.
 | discumbere / homines / viri | recostar-se / as pessoas / os homens | João 6:10; n. 856, 858. |
 | foenum | erva | João 6:10; Isaías 40:6 (n. 857). |
 | cophinus | cesto | João 6:13; n. 865. |
-| filius reguli | filho do funcionário real | n. 844. |
+| filius reguli | filho do régulo | n. 844. |
 | Tullius | Túlio (Cícero) | n. 832; nota do tradutor. |
 | Manichaei | os maniqueus | n. 860. |
 | Genesareth / Zenereth | Genesaré / Zenereth | n. 839; forma da fonte mantida para Zenereth. |
@@ -1425,3 +1425,581 @@ Verdict: 0 meaning-level, 1 minor. Full read of g8-c003 to g9-c008 with notes an
 - Rejected: pt-BR/g9-c003.md [62] — faith counted “entre as obras exteriores”, where the argument seems to call for interior works — the source reads *exteriora*; the author or the edition is not corrected
 - Rejected: pt-BR/g9-c004.md [60] — “própria e distinta, por natureza, da vontade do Pai” for the corrupt *et natura, et voluntate Patris* — reasonable rendering of a damaged clause; the sense agrees with the two-wills doctrine stated in the paragraph
 - Rejected: pt-BR/g9-c001.md [61] — Isaiah 55:2 clause moved out of the Ecclesiasticus italics — repairs a source italic boundary; no content lost
+
+### Part terms 1 of 8, Round 1 (codex, terms read)
+Verdict: 3 meaning-level, 73 minor. 211 parágrafos sinalizados lidos; 76 ocorrências com desvio terminológico corrigidas.
+- `pt-BR/g1-pr.md` [33]: “a própria divindade de nosso Senhor” → “a própria deidade de nosso Senhor” — *deitas* → “deidade” (Key Terms); estava “divindade”.
+- `pt-BR/g10-c001.md` [6]: “procura ele mesmo estar em público” → “procura ele mesmo aparecer abertamente” — *palam* → “abertamente” (Key Terms), também no sentido público.
+- `pt-BR/g10-c001.md` [39]: “a advertência deles” → “a exortação deles” — *admonitio* → “exortação” (Key Terms); estava “advertência”.
+- `pt-BR/g10-c001.md` [40]: “a razão da advertência” → “a razão da exortação” — *admonitio* → “exortação” (Key Terms); estava “advertência”.
+- `pt-BR/g10-c001.md` [47]: “procura ele mesmo estar em público” → “procura ele mesmo aparecer abertamente” — *palam* → “abertamente” (Key Terms), também no sentido público.
+- `pt-BR/g10-c003.md` [38]: “conheceis-me de rosto” → “conheceis-me segundo a aparência” — *secundum faciem* → “segundo a aparência” (Key Terms); estava “de rosto”.
+- `pt-BR/g10-c003.md` [48]: “foi quem o deu a conhecer” → “foi quem o narrou” — *enarravit* → “narrou” (Key Terms); estava “deu a conhecer”.
+- `pt-BR/g10-c004.md` [18]: “para demonstrar o seu poder” → “para mostrar o seu poder” — *demonstrare* → “mostrar” (Key Terms); estava “demonstrar”.
+- `pt-BR/g10-c004.md` [22]: “podeis gozar da minha doutrina” → “podeis fruir da minha doutrina” — *frui* → “fruir” (Key Terms); estava “gozar”.
+- `pt-BR/g10-c005.md` [43]: “movido pelo instinto e pelo fervor” → “movido pelo impulso e pelo fervor” — *instinctus* → “impulso” (Key Terms); “instinto” sugere uma faculdade natural em lugar da moção do Espírito Santo. *(meaning)*
+- `pt-BR/g10-c005.md` [110]: “isto é, para as suas coisas” → “isto é, para o que é seu” — *in propria* → “para o que é seu” (Key Terms); estava “para as suas coisas”.
+- `pt-BR/g11-c001.md` [18]: “por um milagre, onde diz:” → “por um milagre, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c001.md` [21]: “da doutrina de Cristo, onde diz:” → “da doutrina de Cristo, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c001.md` [24]: “repele os adversários, onde diz:” → “repele os adversários, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c001.md` [35]: “a repulsa dos caluniadores, onde diz:” → “a repulsa dos caluniadores, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c001.md` [39]: “a intenção dos tentadores, onde diz:” → “a intenção dos tentadores, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c001.md` [56]: “não se afastou da misericórdia, onde diz:” → “não se afastou da misericórdia, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c001.md` [59]: “o efeito da sentença, onde diz:” → “o efeito da sentença, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c001.md` [67]: “persistissem em interrogá-lo” → “persistissem em perguntar-lhe” — *interrogare* → “perguntar” (Key Terms); estava “interrogar”.
+- `pt-BR/g11-c002.md` [14]: “esclarece o que diz dela, onde diz:” → “esclarece o que diz dela, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c002.md` [18]: “o seu fruto, onde diz:” → “o seu fruto, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c002.md` [37]: “a verdade do que dissera, onde diz:” → “a verdade do que dissera, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c002.md` [42]: “a contradição surgida acerca do Pai, onde diz:” → “a contradição surgida acerca do Pai, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c002.md` [45]: “o seu testemunho é verdadeiro, onde diz:” → “o seu testemunho é verdadeiro, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c002.md` [48]: “a causa do engano deles, onde diz:” → “a causa do engano deles, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c002.md` [56]: “não está só no testemunhar, onde diz:” → “não está só no testemunhar, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c002.md` [67]: “conclui o que se propunha, onde diz:” → “conclui o que se propunha, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c002.md` [86]: “ele o deu a conhecer***” → “ele o narrou***” — *enarravit* → “narrou” (Key Terms); estava “deu a conhecer”.
+- `pt-BR/g11-c003.md` [15]: “sejam libertados delas, onde diz:” → “sejam libertados delas, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c003.md` [25]: “na exclusão deles da glória, onde diz:” → “na exclusão deles da glória, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c003.md` [35]: “o modo de chegar a isso, onde diz:” → “o modo de chegar a isso, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c003.md` [38]: “a indicação do remédio, onde diz:” → “a indicação do remédio, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c003.md` [43]: “conclui disso o que se propunha, onde diz:” → “conclui disso o que se propunha, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c003.md` [51]: “mostra-lhes o remédio, onde diz:” → “mostra-lhes o remédio, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c003.md` [60]: “a cegueira do entendimento deles, onde diz:” → “a cegueira do entendimento deles, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c003.md` [65]: “pela verdade do Pai, onde diz:” → “pela verdade do Pai, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c003.md` [80]: “crer a respeito dele, onde diz:” → “crer a respeito dele, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c004.md` [18]: “a constância para perseverar” → “a constância para permanecer” — *permanere* → “permanecer”, conforme o vocabulário permitido pela linha; estava “perseverar”.
+- `pt-BR/g11-c004.md` [35]: “da sua origem, onde diz:” → “da sua origem, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c004.md` [55]: “a verdadeira origem deles, onde diz:” → “a verdadeira origem deles, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c004.md` [66]: “ele o deu a conhecer***” → “ele o narrou***” — *enarravit* → “narrou” (Key Terms); estava “deu a conhecer”.
+- `pt-BR/g11-c005.md` [18]: “conclui o que se propusera, onde diz:” → “conclui o que se propusera, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c005.md` [49]: “carecem do referido sinal, onde diz:” → “carecem do referido sinal, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c006.md` [7]: “esclarece a razão dada, onde diz:” → “esclarece a razão dada, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c006.md` [41]: “eu clamei, porque me ouviste” → “eu clamei, porque me atendeste” — *exaudire* → “atender” (Key Terms): trata-se do atendimento da oração, distinto de simplesmente ouvir. *(meaning)*
+- `pt-BR/g11-c006.md` [41]: “porque foi ouvido” → “porque foi atendido” — *exauditus* → “atendido” (Key Terms), preservando a distinção entre ouvir e atender à oração. *(meaning)*
+- `pt-BR/g11-c007.md` [12]: “a verdadeira causa do afastamento, onde diz” → “a verdadeira causa do afastamento, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c008.md` [28]: “terceiro, perguntam, onde diz” → “terceiro, perguntam, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c008.md` [29]: “por instigação do demônio” → “por impulso do demônio” — *instinctus* → “impulso” (Key Terms); estava “instigação”.
+- `pt-BR/g11-c008.md` [41]: “uma e outra coisa que propunham, onde diz” → “uma e outra coisa que propunham, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g11-c008.md` [60]: “expõe o que diz, onde diz” → “expõe o que diz, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g12-c001.md` [14]: “dos judeus acerca da cura, onde diz” → “dos judeus acerca da cura, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g12-c001.md` [23]: “os discípulos interrogaram Cristo” → “os discípulos perguntaram a Cristo” — *interrogare* → “perguntar” (Key Terms); estava “interrogar”.
+- `pt-BR/g12-c001.md` [23]: “foram movidos a interrogá-lo” → “foram movidos a perguntar-lhe” — *interrogare* → “perguntar” (Key Terms); estava “interrogar”.
+- `pt-BR/g12-c001.md` [48]: “terceiro, expõe-na, onde diz” → “terceiro, expõe-na, em” — *ibi* nas divisões → “em” (Key Terms).
+- `pt-BR/g12-c001.md` [62]: “acerca do amor do Criador” → “acerca da caridade do Criador” — *caritas* → “caridade” (Key Terms); estava “amor”.
+- `pt-BR/g12-c002.md` [14]: “e interrogaram-nos, dizendo” → “e perguntaram-lhes, dizendo” — *interrogare* → “perguntar” (Key Terms); estava “interrogar”.
+- `pt-BR/g12-c002.md` [16]: “interrogai-o a ele; tem idade” → “perguntai a ele; tem idade” — *interrogare* → “perguntar” (Key Terms); estava “interrogar”.
+- `pt-BR/g12-c002.md` [18]: “Tem idade, interrogai-o a ele” → “Tem idade, perguntai a ele” — *interrogare* → “perguntar” (Key Terms); estava “interrogar”.
+- `pt-BR/g12-c002.md` [40]: “indica a pessoa que o iluminou” → “mostra a pessoa que o iluminou” — *demonstrare* → “mostrar” (Key Terms); estava “indicar”.
+- `pt-BR/g12-c002.md` [57]: “primeiro, interrogam sobre o fato” → “primeiro, perguntam sobre o fato” — *interrogare* → “perguntar” (Key Terms); estava “interrogar”.
+- `pt-BR/g12-c002.md` [59]: “a interrogação deles” → “a pergunta deles” — *interrogatio*, derivado de *interrogare* → “pergunta”, conforme “perguntar” (Key Terms).
+- `pt-BR/g12-c002.md` [61]: “que o interrogavam sem perigo” → “que lhe perguntavam sem perigo” — *interrogare* → “perguntar” (Key Terms); estava “interrogar”.
+- `pt-BR/g12-c002.md` [77]: “acrescenta-se a interrogação” → “acrescenta-se a pergunta” — *interrogatio*, derivado de *interrogare* → “pergunta”, conforme “perguntar” (Key Terms).
+- `pt-BR/g12-c002.md` [77]: “***e interrogaram-nos***” → “***e perguntaram-lhes***” — *interrogare* → “perguntar” (Key Terms); estava “interrogar”.
+- `pt-BR/g12-c002.md` [84]: “Os fariseus tinham-nos interrogado sobre três coisas” → “Os fariseus tinham-lhes perguntado sobre três coisas” — *interrogare* → “perguntar” (Key Terms); estava “interrogar”.
+- `pt-BR/g12-c002.md` [84]: “Interrogai-o a ele; tem idade” → “Perguntai a ele; tem idade” — *interrogare* → “perguntar” (Key Terms); estava “interrogar”.
+- `pt-BR/g12-c003.md` [10]: “é adorador de Deus” → “é cultor de Deus” — *cultor Dei* → “cultor de Deus” (Key Terms); estava “adorador de Deus”.
+- `pt-BR/g12-c003.md` [21]: “como o interrogam de novo” → “como lhe perguntam de novo” — *interrogare* → “perguntar” (Key Terms); estava “interrogar”.
+- `pt-BR/g12-c003.md` [26]: “os pais, interrogados, os tinham remetido ao cego” → “os pais, a quem tinham perguntado, os tinham remetido ao cego” — *interrogare* → “perguntar” (Key Terms); estava “interrogar”.
+- `pt-BR/g12-c003.md` [29]: “Aqui interrogam de novo” → “Aqui perguntam de novo” — *interrogare* → “perguntar” (Key Terms); estava “interrogar”.
+- `pt-BR/g12-c003.md` [56]: “é adorador de Deus” → “é cultor de Deus” — *cultor Dei* → “cultor de Deus” (Key Terms); estava “adorador de Deus”.
+- `pt-BR/g12-c003.md` [63]: “é adorador de Deus” → “é cultor de Deus” — *cultor Dei* → “cultor de Deus” (Key Terms); estava “adorador de Deus”.
+- `pt-BR/g12-c003.md` [64]: “é adorador de Deus” → “é cultor de Deus” — *cultor Dei* → “cultor de Deus” (Key Terms); estava “adorador de Deus”.
+- `pt-BR/g12-c003.md` [70]: “desprezando o ensinamento do cego” → “desprezando a doutrina do cego” — *doctrina* → “doutrina” (Key Terms); estava “ensinamento”.
+- `pt-BR/g12-c003.md` [70]: “rejeitar o ensinamento de quem quer que seja” → “rejeitar a doutrina de quem quer que seja” — *doctrina* → “doutrina” (Key Terms); estava “ensinamento”.
+
+### Part terms 1 of 8, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 22 minor. Delta read of the round-1 changes and their neighbours (g1-pr to g12-c003): reverted *Dei cultor* to “adorador de Deus” in 4 places, per the Key Terms row for n. 1346–1350; changed 18 remaining *ibi* divisions from “onde diz” to “em”.
+- `pt-BR/g12-c003.md` [10]: “se alguém é cultor de Deus e faz” → “se alguém é adorador de Deus e faz” — Key Terms: *Dei cultor* (João 9:31, n. 1346–1350) → “adorador de Deus”, ligado a *colent eum in hostiis* (“adorá-lo-ão”); a linha “cultor de Deus” vale para n. 1981–1982
+- `pt-BR/g12-c003.md` [56]: “mas, se alguém é cultor de Deus” → “mas, se alguém é adorador de Deus” — Key Terms: *Dei cultor* nesta passagem → “adorador de Deus”
+- `pt-BR/g12-c003.md` [63]: “mas, se alguém é cultor de Deus” → “mas, se alguém é adorador de Deus” — Key Terms: *Dei cultor* nesta passagem → “adorador de Deus”
+- `pt-BR/g12-c003.md` [64]: “mas, se alguém é cultor de Deus***” → “mas, se alguém é adorador de Deus***” — Key Terms: *Dei cultor* → “adorador de Deus”; mantém o elo com Isaías 19:21 “Adorá-lo-ão”, que vem logo em seguida
+- `pt-BR/g11-c001.md` [38]: “descreve-se a própria tentação, onde diz: ***” → “descreve-se a própria tentação, em ***” — *ibi* nas divisões → “em” (Key Terms), como nos membros vizinhos
+- `pt-BR/g11-c002.md` [17]: “o seu efeito, onde diz: ***” → “o seu efeito, em ***” — *ibi* nas divisões → “em” (Key Terms), como em [18]
+- `pt-BR/g11-c003.md` [34]: “obter este remédio, onde diz: ***” → “obter este remédio, em ***” — *ibi* nas divisões → “em” (Key Terms), como em [35]
+- `pt-BR/g11-c003.md` [59]: “a resposta de Cristo, onde diz: ***” → “a resposta de Cristo, em ***” — *ibi* nas divisões → “em” (Key Terms), como em [60]
+- `pt-BR/g11-c003.md` [64]: “seu poder de juiz, onde diz: ***” → “seu poder de juiz, em ***” — *ibi* nas divisões → “em” (Key Terms), como em [65]
+- `pt-BR/g11-c004.md` [34]: “da sua libertação, onde diz: ***” → “da sua libertação, em ***” — *ibi* nas divisões → “em” (Key Terms), como em [35]
+- `pt-BR/g11-c004.md` [54]: “a origem presumida, onde diz: ***” → “a origem presumida, em ***” — *ibi* nas divisões → “em” (Key Terms), como em [55]
+- `pt-BR/g11-c005.md` [17]: “não está nos judeus, onde diz: ***” → “não está nos judeus, em ***” — *ibi* nas divisões → “em” (Key Terms), como em [18]
+- `pt-BR/g11-c005.md` [48]: “a razão do sinal, onde diz: ***” → “a razão do sinal, em ***” — *ibi* nas divisões → “em” (Key Terms), como em [49]
+- `pt-BR/g11-c006.md` [6]: “dá-lhes a razão, onde diz: ***” → “dá-lhes a razão, em ***” — *ibi* nas divisões → “em” (Key Terms), como em [7]
+- `pt-BR/g11-c007.md` [11]: “que poderiam alegar, onde diz ***” → “que poderiam alegar, em ***” — *ibi* nas divisões → “em” (Key Terms), como em [12]
+- `pt-BR/g11-c008.md` [27]: “propõem um fato, onde diz ***” → “propõem um fato, em ***” — *ibi* nas divisões → “em” (Key Terms), como em [28]
+- `pt-BR/g11-c008.md` [30]: “as palavras de Cristo, onde diz ***” → “as palavras de Cristo, em ***” — *ibi* nas divisões → “em” (Key Terms)
+- `pt-BR/g11-c008.md` [40]: “a verdade que ignoravam, onde diz ***” → “a verdade que ignoravam, em ***” — *ibi* nas divisões → “em” (Key Terms), como em [41]
+- `pt-BR/g11-c008.md` [59]: “declarar este conhecimento, onde diz ***” → “declarar este conhecimento, em ***” — *ibi* nas divisões → “em” (Key Terms), como em [60]
+- `pt-BR/g12-c001.md` [13]: “a cura da enfermidade, onde diz ***” → “a cura da enfermidade, em ***” — *ibi* nas divisões → “em” (Key Terms), como em [14]
+- `pt-BR/g12-c001.md` [22]: “Cristo manifesta-a, onde diz ***” → “Cristo manifesta-a, em ***” — *ibi* nas divisões → “em” (Key Terms)
+- `pt-BR/g12-c001.md` [47]: “ou da necessidade, onde diz ***” → “ou da necessidade, em ***” — *ibi* nas divisões → “em” (Key Terms), como em [48]
+- Rejected: pt-BR/g12-c002.md [60] — “Interrogam-no” ficou ao lado de “perguntavam” depois das trocas *interrogare* → “perguntar” — A linha “perguntar” do Key Terms trata de João 16:23; “interrogar” é correto aqui e não altera o sentido
+- Rejected: pt-BR/g10-c003.md [38] — “conheceis-me segundo a aparência” para *secundum faciem noscitis* — Fiel ao latim e conforme o Key Terms; o sentido de conhecer pelo aspecto exterior se mantém
+- Rejected: pt-BR/g11-c004.md [18] — “constância para permanecer” para *constantia ad permanendum* — Correto: mantém o eco com *non permanebit* de Eclesiástico 6:21 e com ***se permanecerdes***
+
+### Part terms 1 of 8, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as 22 alterações, todos os parágrafos e notas apresentados; nenhum defeito objetivo encontrado. Alertas relativos a trechos não apresentados não puderam ser avaliados.
+- Rejected: pt-BR/g12-c003.md [10, 56, 63, 64] — Possível desvio ao substituir “cultor de Deus” por “adorador de Deus”. — A substituição corresponde à linha específica de Dei cultor no diário e preserva o vínculo com o culto de latria explicado no n. 1350.
+- Rejected: pt-BR/g12-c003.md [56, 63] — Espaços antes dos pontos nas reticências. — As reticências reproduzem a forma da fonte, expressamente mantida nas decisões do diário.
+- Rejected: pt-BR/g11-c008.md [29] — Parênteses ausentes na fonte. — Delimitam a explicação intercalada sem acrescentar ou retirar conteúdo.
+
+### Part terms 2 of 8, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 40 minor. 200 parágrafos sinalizados lidos; 37 ocorrências com deriva corrigidas e 4 linhas do glossário completadas.
+- `pt-BR/g13-c002.md` [12]: “os discípulos interrogavam Cristo à parte” → “os discípulos perguntavam a Cristo à parte” — *interrogare* → “perguntar” (Key Terms); estava “interrogar”.
+- `pt-BR/g13-c002.md` [31]: “um covil de salteadores” → “uma gruta de salteadores” — *spelunca* → “gruta” (Key Terms); estava “covil”.
+- `pt-BR/g13-c005.md` [39]: “as encênias eram a festa da dedicação das igrejas” → “as encênias eram a festividade da dedicação das igrejas” — *festivitas* → “festividade” (Key Terms); as demais ocorrências de “festa” traduzem *festum*.
+- `pt-BR/g13-c005.md` [56]: “E por isso são indesculpáveis” → “E por isso são inescusáveis” — *inexcusabilis* → “inescusável” (Key Terms); estava “indesculpável”.
+- `pt-BR/g13-c005.md` [76]: “Deu-lhe o poder de julgar” → “Deu-lhe o poder de exercer o juízo” — *iudicium facere* → “exercer o juízo” (Key Terms); estava “julgar”.
+- `pt-BR/g13-c005.md` [82]: “Segundo, pelo que dissera antes” → “Segundo, pelo que dissera acima” — *supra*, em referência interna a João, → “acima” (Key Terms).
+- `pt-BR/g13-c006.md` [55]: “as próprias obras demonstram que” → “as próprias obras mostram que” — *demonstrare* → “mostrar” (Key Terms); estava “demonstrar”.
+- `pt-BR/g14-c002.md` [37]: “Importa-me fazer as obras” → “É preciso que eu opere as obras” — *me oportet operari* → “é preciso que eu opere” (Key Terms).
+- `pt-BR/g14-c003.md` [30]: “insinua o seu afeto acerca da morte dele” → “insinua o seu efeito acerca da morte dele” — O texto canônico traz *effectum*, “efeito”, não *affectum*, “afeto”. *(meaning)*
+- `pt-BR/g14-c003.md` [35]: “Com amor eterno te amei” → “Com caridade eterna te amei” — *caritas* → “caridade”; a linha inclui expressamente Jeremias 31:3.
+- `pt-BR/g14-c004.md` [41]: “Se alguém é adorador de Deus” → “Se alguém é cultor de Deus” — *cultor Dei* → “cultor de Deus” (Key Terms); estava “adorador de Deus”.
+- `pt-BR/g14-c004.md` [41]: “a este ele ouve” → “a este ele atende” — *exaudire* → “atender” (Key Terms); estava “ouvir”.
+- `pt-BR/g14-c005.md` [31]: “quando queremos gozar de Cristo” → “quando queremos fruir de Cristo” — *frui* → “fruir” (Key Terms); estava “gozar”.
+- `pt-BR/g14-c005.md` [39]: “Estando tu ainda no mundo” → “Estando tu ainda no século” — *saeculum* → “século” (Key Terms); estava “mundo”.
+- `pt-BR/g14-c005.md` [64]: “Com amor eterno te amei” → “Com caridade eterna te amei” — *caritas* → “caridade”; a linha inclui expressamente Jeremias 31:3.
+- `pt-BR/g14-c005.md` [65]: “até chorava pela sua morte” → “até derramava lágrimas pela sua morte” — *lacrymari* → “derramar lágrimas” (Key Terms), distinto de *plorare*, “chorar”.
+- `pt-BR/g14-c006.md` [46]: “O Senhor ouviu o desejo dos pobres” → “O Senhor atendeu ao desejo dos pobres” — *exaudire* → “atender” (Key Terms); estava “ouvir”.
+- `pt-BR/g14-c006.md` [46]: “de modo que ouve o desejo” → “de modo que atende ao desejo” — *exaudiat* → “atenda”, aqui subordinado traduzido no indicativo; mantém-se a construção da tradução com “atende”.
+- `pt-BR/g14-c006.md` [46]: “antecipando-se à sua oração, o ouviu” → “antecipando-se à sua oração, o atendeu” — *exaudierit* → “atendeu” (Key Terms); estava “ouviu”.
+- `pt-BR/g14-c006.md` [48]: “e ser ouvido por ele” → “e ser atendido por ele” — *exaudiri* → “ser atendido” (Key Terms); estava “ser ouvido”.
+- `pt-BR/g14-c006.md` [48]: “não lhe convém orar nem ser ouvido” → “não lhe convém orar nem ser atendido” — *exaudiri* → “ser atendido” (Key Terms); estava “ser ouvido”.
+- `pt-BR/g14-c006.md` [48]: “mas antes ouvir as orações dos outros” → “mas antes atender às orações dos outros” — *exaudire* → “atender” (Key Terms); estava “ouvir”.
+- `pt-BR/g14-c006.md` [50]: “Em tudo foi ouvido pela sua reverência” → “Em tudo foi atendido pela sua reverência” — *exauditus* → “atendido” (Key Terms); estava “ouvido”.
+- `pt-BR/g14-c006.md` [65]: “com a mente, sirvo à lei de Deus” → “com a mente, sou escravo da lei de Deus” — *servire* → “ser escravo” (Key Terms); a segunda relação com a lei do pecado permanece elíptica.
+- `pt-BR/g14-c006.md` [71]: “pela força do batismo” → “pelo poder do batismo” — *virtus* como eficácia de uma causa → “poder” (Key Terms); estava “força”.
+- `pt-BR/g14-c007.md` [20]: “já não andava publicamente entre os judeus” → “já não andava abertamente entre os judeus” — *palam* → “abertamente”; a linha cobre expressamente o sentido público.
+- `pt-BR/g14-c007.md` [63]: “que não são deste aprisco” → “que não são deste redil” — *ovile* → “redil” (Key Terms); estava “aprisco”.
+- `pt-BR/g14-c007.md` [63]: “e haverá um só aprisco” → “e haverá um só redil” — *ovile* → “redil” (Key Terms); estava “aprisco”.
+- `pt-BR/g14-c008.md` [3]: “já não andava publicamente entre os judeus” → “já não andava abertamente entre os judeus” — *palam* → “abertamente”; a linha cobre expressamente o sentido público.
+- `pt-BR/g14-c008.md` [10]: “já não andava publicamente entre os judeus” → “já não andava abertamente entre os judeus” — *palam* → “abertamente”; a linha cobre expressamente o sentido público.
+- `pt-BR/g14-c008.md` [11]: “conviveria publicamente entre os judeus” → “conviveria abertamente entre os judeus” — *palam* → “abertamente”; a linha cobre expressamente o sentido público.
+- `pt-BR/g15-c003.md` [39]: “Como o rugido do leão” → “Como o frêmito do leão” — *fremitus* → “frêmito”; a linha exige preservar precisamente o elo com Provérbios 19:12.
+- `pt-BR/g15-c004.md` [31]: “com que publicamente, em si mesmo, triunfou” → “com que abertamente, em si mesmo, triunfou” — *palam* → “abertamente”; a linha cobre expressamente o sentido público.
+- `pt-BR/g15-c004.md` [41]: “O que ceifa recebe salário” → “O que ceifa recebe recompensa” — *merces* → “recompensa” em todas as ocorrências (Key Terms); estava “salário”.
+- `pt-BR/g15-c005.md` [20]: “Jesus estremeceu em espírito” → “Jesus fremiu no espírito” — *infremuit spiritu* → “fremiu no espírito” (Key Terms); estava “estremeceu em espírito”.
+- `pt-BR/g15-c005.md` [56]: “foi escrito para nosso ensinamento” → “foi escrito para nossa doutrina” — *doctrina* → “doutrina” (Key Terms); estava “ensinamento”.
+- `pt-BR/g15-c006.md` [21]: “terceiro, explica a admoestação” → “terceiro, explica a exortação” — *admonitio* → “exortação” (Key Terms); estava “admoestação”.
+- `pt-BR/translation-journal.md`: “| conversatio | convívio | n. 177-178. |” → “| conversatio | convívio | n. 177-178. Quando significa conduta ou modo de vida, também “procedimento”, “modo de viver” ou “conversação”. |” — As ocorrências sobre o bom procedimento, a vida no pecado e a conversação nos céus empregam legitimamente o sentido de conduta, distinto de convívio.
+- `pt-BR/translation-journal.md`: “| mandatum | mandamento | João 12:49–50. Em instruções pontuais, como as relativas à pesca ou ao ofício confiado a Pedro, “ordem” ou “mandato”. |” → “| mandatum | mandamento | João 12:49–50. Para determinações de autoridades humanas ou instruções concretas, também “ordem”. |” — A tradução usa consistentemente “ordem” para determinações dos chefes e instruções concretas, como remover a pedra, sem confundi-las com o mandamento de João 12:49–50.
+- `pt-BR/translation-journal.md`: “| excusatio; excusare; inexcusabilis | desculpa (no lema); escusa; escusar; inescusável | João 15:22; no comentário, “escusa”, “escusar” (n. 2044–2049). |” → “| excusatio; excusare; inexcusabilis | desculpa (no lema); escusa; escusar; inescusável | João 15:22; no comentário, “escusa”, “escusar” (n. 2044–2049). Na resposta de Cristo à acusação de blasfêmia, “defesa” e “defender-se”. |” — Em João 10, as ocorrências descrevem consistentemente a defesa de Cristo contra uma acusação, sentido distinto da escusa do pecado em João 15.
+- `pt-BR/translation-journal.md`: “| obsequium (Deo) | culto (a Deus) | João 16:2; n. 2073–2074, 2081. |” → “| obsequium (Deo) | culto (a Deus) | João 16:2; n. 2073–2074, 2081. Nos serviços e homenagens pessoais prestados a Cristo ou aos seus fiéis, também “obséquio”. |” — Nas cenas da ceia e da unção, “obséquio” traduz consistentemente um serviço ou homenagem pessoal, distinto do culto mencionado em João 16:2.
+
+### Part terms 2 of 8, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 2 minor. Delta: verifiquei as 41 mudanças da rodada 1. Revertidas três: *effectum* em g14-c003 [30], contra decisão do journal; “cultor de Deus” em João 9:31, contra a linha específica; e Romanos 7:25 em g14-c006 [65], que perdeu a concordância. As demais estão corretas.
+- `pt-BR/g14-c003.md` [30]: “insinua o seu efeito acerca da morte dele” → “insinua o seu afeto acerca da morte dele” — O journal (Decisões) registra que *effectum* do n. 1500 é erro da fonte por *affectum* (cf. n. 1502). O membro anunciado é a alegria de Cristo (*gaudeo propter vos*), um afeto. A mudança da rodada anterior desfez essa decisão sem argumento novo. *(meaning)*
+- `pt-BR/g14-c004.md` [41]: “Se alguém é cultor de Deus” → “Se alguém é adorador de Deus” — O texto citado é João 9:31. A linha específica dos Key Terms fixa *Dei cultor* → “adorador de Deus” para esse versículo (n. 1350). A linha “cultor de Deus” vale para João 15 (n. 1981–1982). A citação deve casar com o lema já traduzido.
+- `pt-BR/g14-c006.md` [65]: “com a mente, sou escravo da lei de Deus” → “com a mente, sirvo à lei de Deus” — A troca quebrou a elipse: “sou escravo da lei de Deus, mas, com a carne, à lei do pecado” deixa de concordar. A linha *servire* → “ser escravo” vale para João 8:33–35, não para Romanos 7:25.
+- Rejected: pt-BR/g14-c005.md [39] — “no século” por *in saeculo* soa arcaico — Segue a linha *saeculum* → “século” dos Key Terms; o sentido continua claro.
+- Rejected: pt-BR/translation-journal.md (obsequium) — A nota nova sobre “obséquio” pode conflitar com a linha *minister / ministerium / obsequium* → “serviço” (n. 1745, 1747) — Essas ocorrências ficam fora desta parte; não há como verificar aqui.
+
+### Part terms 2 of 8, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as três alterações, os nove parágrafos apresentados e as três notas do tradutor; nenhum defeito objetivo encontrado.
+- Rejected: pt-BR/g14-c003.md [30] — “afeto” diverge de effectum na fonte apresentada — A decisão registrada identifica o lapso por affectum e o sustenta pelo paralelo do n. 1502 e pela alegria de Cristo anunciada nesta divisão.
+- Rejected: pt-BR/g14-c004.md [41] — “adorador de Deus” e espaços nas reticências — “Adorador de Deus” segue a linha específica de João 9:31; as reticências espaçadas reproduzem a fonte e são expressamente mantidas pelo journal.
+- Rejected: pt-BR/g14-c006.md [65] — “sirvo à lei de Deus” diverge da linha servire → ser escravo — A linha se restringe a João 8:33–35. Aqui, “sirvo” traduz corretamente servio e permite a elipse “com a carne, à lei do pecado”.
+
+### Part terms 3 of 8, Round 1 (codex, terms read)
+Verdict: 2 meaning-level, 32 minor. 190 parágrafos sinalizados lidos; 32 ocorrências com deriva em 31 parágrafos; 2 notas de glossário ampliadas.
+- `pt-BR/g15-c008.md` [35]: “Quem é incrédulo ao Filho” → “Quem é incrédulo para com o Filho” — *incredulus est Filio* → “é incrédulo para com o Filho” (Key Terms).
+- `pt-BR/g15-c008.md` [36]: “pela condenação do juízo” → “pelo juízo de condenação” — Uniformiza a expressão referente ao juízo condenatório com os Key Terms.
+- `pt-BR/g15-c008.md` [58]: “Deu-lhe o poder de julgar, porque é Filho do homem” → “Deu-lhe o poder de exercer o juízo, porque é Filho do homem” — *iudicium facere* → “exercer o juízo” (Key Terms).
+- `pt-BR/g16-c001.md` [16]: “induz à imitação, onde diz:” → “induz à imitação, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g16-c001.md` [39]: “Com amor eterno te amei” → “Com caridade eterna te amei” — *in caritate perpetua* → “com caridade eterna”; a linha inclui expressamente Jeremias 31:3.
+- `pt-BR/g16-c001.md` [39]: “Ninguém tem maior amor do que este” → “Ninguém tem maior caridade do que esta” — *maiorem caritatem* → “maior caridade” (Key Terms), com ajuste de concordância.
+- `pt-BR/g16-c001.md` [43]: “Com amor te amei” → “Com caridade te amei” — *in caritate* → “com caridade” (Key Terms).
+- `pt-BR/g16-c001.md` [48]: “humildade do fato, onde diz:” → “humildade do fato, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g16-c001.md` [51]: “iniquidade de Judas, onde diz:” → “iniquidade de Judas, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g16-c002.md` [18]: “no sepulcro com um lençol de linho” → “no sepulcro com um pano de linho” — *linteo*, neste uso funerário, → “pano de linho”; “lençol” corresponde a *sindon* nos Key Terms.
+- `pt-BR/g16-c002.md` [26]: “é necessário, onde diz:” → “é necessário, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g16-c002.md` [36]: “sou Simão Bar-Jonas” → “sou Simão Barjonas” — *Simon Bariona* → “Simão Barjonas” (Key Terms).
+- `pt-BR/g16-c002.md` [55]: “palavras de Cristo, onde diz:” → “palavras de Cristo, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g16-c002.md` [60]: “que é o batismo do Espírito” → “que é o batismo de desejo” — *baptismus flaminis* → “batismo de desejo” (Key Terms); “batismo do Espírito” identifica diferentemente o conceito. *(meaning)*
+- `pt-BR/translation-journal.md`: “| doctrina | doutrina | |” → “| doctrina | doutrina | Quando designa o ato de ensinar, “ensino” (n. 1770). |” — Em n. 1770, *doctrina debet esse in tranquillitate* trata do ato de ensinar; “ensino” exprime corretamente esse sentido.
+- `pt-BR/g16-c003.md` [20]: “o ensinamento perfeito” → “a doutrina perfeita” — *perfectam doctrinam* designa aqui o conteúdo transmitido aos discípulos: “doutrina” (Key Terms).
+- `pt-BR/g16-c003.md` [24]: “primeiro, interroga;” → “primeiro, pergunta;” — *interrogare* → “perguntar” (Key Terms).
+- `pt-BR/g16-c003.md` [48]: “essa obra, ali:” → “essa obra, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g16-c003.md` [66]: “põe a exceção, ali:” → “põe a exceção, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g16-c004.md` [34]: “efeito da designação, ali:” → “efeito da designação, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g16-c004.md` [42]: “sua pergunta, ali:” → “sua pergunta, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g16-c004.md` [45]: “ele o deu a conhecer” → “ele narrou” — *ipse enarravit* → “ele narrou”; o glossário determina “narrou” para preservar o vínculo com n. 221–222.
+- `pt-BR/g16-c007.md` [26]: “Cristo, interrogado por um doutor da Lei sobre qual era o primeiro mandamento, respondeu:” → “Cristo, a quem um doutor da Lei perguntou qual era o primeiro mandamento, respondeu:” — *interrogare* → “perguntar” (Key Terms), com ajuste da construção.
+- `pt-BR/g17-c002.md` [49]: “Ário, interrogado sobre como se vai ao Pai pelo Filho, responde” → “Ário, a quem se perguntou como se vai ao Pai pelo Filho, responde” — *interrogare* → “perguntar” (Key Terms), com ajuste da construção.
+- `pt-BR/translation-journal.md`: “| interpellare; mediator | interceder; mediador | N. 2138, 2155–2156. |” → “| interpellare; mediator | interceder; mediador | N. 2138, 2155–2156. Quando designa a oração de quem pede a Deus, sem indicar mediação por outrem, “suplicar” (n. 1904). |” — Em n. 1904 e na explicação seguinte, “suplicando” traduz corretamente a petição dos próprios fiéis, distinguindo-a da intercessão por outrem.
+- `pt-BR/g17-c007.md` [17]: “ao gozo quieto e pacífico” → “à fruição quieta e pacífica” — *fruitionem* → “fruição” (Key Terms), com ajuste de concordância.
+- `pt-BR/g18-c001.md` [23]: “a este ele ouve” → “a este ele atende” — *hunc exaudit* → “a este ele atende” (Key Terms); trata-se de atender à oração, e não apenas ouvi-la. *(meaning)*
+- `pt-BR/g18-c001.md` [41]: “e de refutar os que contradizem” → “e de arguir os que contradizem” — *arguere* → “arguir” (Key Terms); aqui não se trata das glosas expressamente autorizadas.
+- `pt-BR/g18-c002.md` [11]: “seu mandamento, onde diz:” → “seu mandamento, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g18-c002.md` [15]: “Com amor perpétuo te amei” → “Com caridade perpétua te amei” — *in caritate perpetua* → “com caridade perpétua”; a linha inclui expressamente Jeremias 31:3.
+- `pt-BR/g18-c002.md` [32]: “recorda um benefício, onde diz:” → “recorda um benefício, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g18-c003.md` [12]: “outro da sua parte, onde diz:” → “outro da sua parte, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g18-c004.md` [10]: “desculpas dos perseguidores, onde diz:” → “desculpas dos perseguidores, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g18-c004.md` [21]: “por exemplo, homicidas e ladrões” → “por exemplo, homicidas e salteadores” — *latrones* → “salteadores” (Key Terms), preservando a distinção de *fures*.
+
+### Part terms 3 of 8, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 15 minor. Delta read: as 34 alterações da ronda 1 estão corretas; duas linhas do glossário contradiziam as novas formas e treze divisões vizinhas ainda traziam “onde diz:”/“ali:” em vez de “em”.
+- `pt-BR/translation-journal.md`: “| baptismus sanguinis / flaminis | batismo de sangue / do Espírito |” → “| baptismus sanguinis / flaminis | batismo de sangue / de desejo |” — g16-c002 [60] passou a dizer “batismo de desejo”; a linha do glossário para n. 1765 ainda diz “do Espírito” e contradiz o texto e a outra linha *baptismus flaminis*.
+- `pt-BR/translation-journal.md`: “| linteum | toalha (lençol de linho, no sepulcro) |” → “| linteum | toalha (pano de linho, no sepulcro) |” — g16-c002 [18] passou a dizer “pano de linho”; a linha do glossário ainda diz “lençol de linho”.
+- `pt-BR/g16-c001.md` [15]: “utilidade do exemplo, onde diz:” → “utilidade do exemplo, em” — *ibi* nas divisões do texto → “em” (Key Terms); [16] já usa “em”.
+- `pt-BR/g16-c001.md` [47]: “de quem o faz, onde diz:” → “de quem o faz, em” — *ibi* nas divisões do texto → “em” (Key Terms); [48] e [51] já usam “em”.
+- `pt-BR/g16-c002.md` [27]: “que é conveniente, onde diz:” → “que é conveniente, em” — *ibi* nas divisões do texto → “em” (Key Terms); [26] já usa “em”.
+- `pt-BR/g16-c002.md` [54]: “aplica-o ao propósito, onde diz:” → “aplica-o ao propósito, em” — *ibi* nas divisões do texto → “em” (Key Terms); [55] já usa “em”.
+- `pt-BR/g16-c003.md` [47]: “a partir da autoridade, ali:” → “a partir da autoridade, em” — *ibi* nas divisões do texto → “em” (Key Terms); [48] já usa “em”.
+- `pt-BR/g16-c003.md` [49]: “cujos pés lava, ali:” → “cujos pés lava, em” — *ibi* nas divisões do texto → “em” (Key Terms); [48] já usa “em”.
+- `pt-BR/g16-c003.md` [65]: “a razão da exceção, ali:” → “a razão da exceção, em” — *ibi* nas divisões do texto → “em” (Key Terms); [66] já usa “em”.
+- `pt-BR/g16-c004.md` [33]: “a designação da pessoa, ali:” → “a designação da pessoa, em” — *ibi* nas divisões do texto → “em” (Key Terms); [34] já usa “em”.
+- `pt-BR/g16-c004.md` [41]: “o estímulo para perguntar, ali:” → “o estímulo para perguntar, em” — *ibi* nas divisões do texto → “em” (Key Terms); [42] já usa “em”.
+- `pt-BR/g18-c002.md` [10]: “permanecer no seu amor, onde diz:” → “permanecer no seu amor, em” — *ibi* nas divisões do texto → “em” (Key Terms); [11] já usa “em”.
+- `pt-BR/g18-c002.md` [14]: “exorta-os a perseverar, onde diz:” → “exorta-os a perseverar, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g18-c002.md` [31]: “apresenta um exemplo, onde diz:” → “apresenta um exemplo, em” — *ibi* nas divisões do texto → “em” (Key Terms); [32] já usa “em”.
+- `pt-BR/g18-c004.md` [9]: “expõe essas razões, onde diz:” → “expõe essas razões, em” — *ibi* nas divisões do texto → “em” (Key Terms); [10] já usa “em”.
+- Rejected: pt-BR/g16-c001.md [39] / pt-BR/g18-c002.md [15] — *in caritate perpetua* vertido “caridade eterna” num arquivo e “caridade perpétua” no outro — Ambas as formas são fiéis e cada arquivo é coerente em si; o glossário fixa só “caridade”.
+- Rejected: pt-BR/g16-c002.md [^2] — A nota, depois da mudança para “batismo de desejo”, poderia ficar redundante — A nota explica *flamen* = Espírito e por que se chama “batismo de desejo”; continua informativa e exata.
+- Rejected: pt-BR/g15-c008.md [36] — “pelo juízo de condenação” por *per iudicii condemnationem* — Exprime o mesmo sentido e segue os Key Terms (*iudicium condemnationis*).
+
+### Part terms 3 of 8, Round 3 (codex, delta read)
+Verdict: 1 meaning-level, 0 minor. Verificadas as 15 alterações, todos os parágrafos e notas apresentados; encontrada uma omissão de possessivo.
+- `pt-BR/g18-c004.md` [9]: “***Lembrai-vos da palavra***” → “***Lembrai-vos da minha palavra***” — O lema latino traz «sermonis mei»; falta traduzir o possessivo. *(meaning)*
+- Rejected: pt-BR/g16-c001.md [16] — Espaços antes dos pontos em «. . .». — As reticências reproduzem a fonte e seguem a decisão expressa do diário.
+
+### Part terms 3 of 8, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read: a correção em g18-c004 [9] (“minha palavra” por *sermonis mei*) está certa; [8], [10] e a nota [^1] estão corretos; sem novas correções.
+- Rejected: pt-BR/g18-c004.md [^1] — Precisão da nota sobre Hesíodo e Aristóteles — O verso de Hesíodo (*Os trabalhos e os dias* 25) é citado por Aristóteles em *Ética a Nicômaco* VIII, 1, entre os que dizem que os semelhantes se hostilizam; a nota está exata.
+- Rejected: audit: g18-c004.md [19], [26]; Key Terms rows — Sinais da auditoria mecânica — Os parágrafos [19] e [26] não foram mostrados nesta leitura delta. Os termos sinalizados (*plorare*, *abs te sunt*, *calvariae locus* etc.) pertencem a capítulos fora deste trecho e não indicam erro aqui.
+
+### Part terms 4 of 8, Round 1 (codex, terms read)
+Verdict: 11 meaning-level, 47 minor. 224 parágrafos sinalizados lidos; 53 com deriva, corrigidos em 55 alterações; 3 linhas do glossário ampliadas.
+- `pt-BR/g18-c005.md` [13]: “por causa do ensino da verdade” → “por causa da doutrina da verdade” — *doctrina* → “doutrina” (Key Terms); estava “ensino”.
+- `pt-BR/g19-c004.md` [8]: “da razão, onde diz:” → “da razão, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g19-c005.md` [12]: “à dúvida, onde diz:” → “à dúvida, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g19-c005.md` [21]: “não ousavam interrogá-lo” → “não ousavam perguntar-lhe” — *interrogare* → “perguntar” (Key Terms); estava “interrogar”.
+- `pt-BR/g19-c005.md` [27]: “uma comparação, onde diz:” → “uma comparação, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g19-c006.md` [17]: “***e este, que será?***” → “***e quanto a este?***” — *hic autem quid?* → “e quanto a este?” (Key Terms).
+- `pt-BR/g19-c006.md` [31]: “as preces de muitos não sejam ouvidas” → “as preces de muitos não sejam atendidas” — *exaudire* → “atender” (Key Terms), distinto de simplesmente ouvir.
+- `pt-BR/g19-c006.md` [35]: “às vezes não se é ouvido em favor dos outros” → “às vezes não se é atendido em favor dos outros” — *exaudire* → “atender” (Key Terms); estava “ouvir”.
+- `pt-BR/g19-c008.md` [11]: “do que foi dito, onde diz:” → “do que foi dito, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g19-c008.md` [16]: “não é próprio de quem sabe interrogar, mas ser interrogado: como, pois, não tem necessidade de que alguém o interrogue?” → “não é próprio de quem sabe perguntar, mas receber perguntas: como, pois, não tem necessidade de que alguém lhe pergunte?” — *interrogare* → “perguntar” (Key Terms), com ajuste da construção passiva.
+- `pt-BR/g19-c008.md` [17]: “antes de ser interrogado, lhes respondeu” → “antes de lhe perguntarem, lhes respondeu” — *interrogare* → “perguntar” (Key Terms).
+- `pt-BR/g19-c008.md` [17]: “Cristo interroga e é interrogado” → “Cristo pergunta e recebe perguntas” — *interrogare* → “perguntar” (Key Terms), preservando as vozes ativa e passiva.
+- `pt-BR/g19-c008.md` [37]: “quando for elevado da terra” → “quando for exaltado da terra” — *exaltare* em João 12:32 → “exaltar” (Key Terms), preservando o elo entre elevação e glória.
+- `pt-BR/g2-pr.md` [6]: “a Deus, o ensino do magistério” → “a Deus, a doutrina do magistério” — *doctrina* → “doutrina” (Key Terms); estava “ensino”.
+- `pt-BR/g20-c001.md` [11]: “por todo o povo fiel, ali:” → “por todo o povo fiel, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g20-c001.md` [15]: “o pedido deve ser atendido, ali:” → “o pedido deve ser atendido, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g20-c001.md` [50]: “no *De Trinitate*” → “em *A Trindade*” — O título de Agostinho deve aparecer em português, conforme os Key Terms.
+- `pt-BR/g20-c002.md` [20]: “no seio do Pai, ele o deu a conhecer” → “no seio do Pai, ele o narrou” — *enarravit* em João 1:18 → “narrou” (Key Terms); estava parafraseado.
+- `pt-BR/g20-c002.md` [30]: “assinala a razão disto, ali:” → “assinala a razão disto, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g20-c003.md` [18]: “se o Senhor não guardar a cidade, em vão vigia quem a guarda” → “se o Senhor não proteger a cidade, em vão vigia quem a protege” — *custodire* → “proteger” (Key Terms), preservando a distinção de *servare*.
+- `pt-BR/g20-c003.md` [30]: “proferiu estas palavras, ali:” → “proferiu estas palavras, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g20-c003.md` [36]: “como pastor, guarda o seu rebanho” → “como pastor, protege o seu rebanho” — *custodire* → “proteger” (Key Terms); o substantivo *custos* continua “guarda”.
+- `pt-BR/g20-c003.md` [37]: “o guarda é obrigado a guardar os que foram confiados à sua guarda” → “o guarda é obrigado a proteger os que foram confiados à sua guarda” — *custodire* → “proteger” (Key Terms), mantendo “guarda” para os substantivos.
+- `pt-BR/g20-c003.md` [37]: “*guarda este homem*” → “*protege este homem*” — *custodi* → “protege” (Key Terms).
+- `pt-BR/g20-c003.md` [46]: “para que os proteja, ali:” → “para que os proteja, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g20-c004.md` [9]: “o começo desta santificação, ali:” → “o começo desta santificação, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g20-c005.md` [22]: “E o ladrão na cruz” → “E o salteador na cruz” — *latro* → “salteador” (Key Terms), distinto de *fur*, “ladrão”. *(meaning)*
+- `pt-BR/g20-c005.md` [23]: “a Paulo e ao ladrão na cruz” → “a Paulo e ao salteador na cruz” — *latro* → “salteador” (Key Terms), distinto de *fur*. *(meaning)*
+- `pt-BR/g20-c005.md` [24]: “como Paulo, o ladrão na cruz” → “como Paulo, o salteador na cruz” — *latro* → “salteador” (Key Terms), distinto de *fur*. *(meaning)*
+- `pt-BR/g20-c005.md` [30]: “o fruto da unidade, onde diz” → “o fruto da unidade, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g20-c005.md` [46]: “mostra o fim da unidade, onde diz” → “mostra o fim da unidade, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g20-c005.md` [56]: “O fim da unidade põe-se onde diz” → “O fim da unidade põe-se em” — *ibi* na divisão do texto → “em” (Key Terms).
+- `pt-BR/g20-c006.md` [29]: “assinala a razão da glória, onde diz” → “assinala a razão da glória, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g20-c006.md` [52]: “no seio do Pai, ele mesmo o deu a conhecer” → “no seio do Pai, ele mesmo o narrou” — *enarravit* em João 1:18 → “narrou” (Key Terms); estava parafraseado.
+- `pt-BR/g21-c001.md` [21]: “diante do governador, onde diz” → “diante do governador, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g21-c001.md` [25]: “para suportar a traição, onde diz” → “para suportar a traição, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g21-c001.md` [37]: “como contra um ladrão, com espadas” → “como contra um salteador, com espadas” — *latro* → “salteador” (Key Terms), distinto de *fur*. *(meaning)*
+- `pt-BR/g21-c001.md` [43]: “para demonstrar a sua paciência” → “para mostrar a sua paciência” — *demonstrare* → “mostrar” (Key Terms); não se trata de demonstração argumentativa.
+- `pt-BR/g21-c001.md` [47]: “o efeito da manifestação, onde diz” → “o efeito da manifestação, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g21-c001.md` [57]: “preservou os seus discípulos, muito mais poderia ter-se preservado a si mesmo” → “guardou os seus discípulos, muito mais poderia ter-se guardado a si mesmo” — *servare* → “guardar” (Key Terms); estava “preservar” nas duas ocorrências.
+- `pt-BR/g21-c004.md` [14]: “Querendo, pois, justificar-se aqui” → “Querendo, pois, escusar-se aqui” — *excusare* no comentário → “escusar” (Key Terms).
+- `pt-BR/g21-c004.md` [15]: “Jesus justifica-se razoavelmente” → “Jesus escusa-se razoavelmente” — *excusare* no comentário → “escusar” (Key Terms).
+- `pt-BR/g21-c004.md` [17]: “o que parece contrário, justificou-se” → “o que parece contrário, escusou-se” — *excusare* no comentário → “escusar” (Key Terms).
+- `pt-BR/g21-c004.md` [18]: “a justificação do Senhor foi útil” → “a escusa do Senhor foi útil” — *excusatio* no comentário → “escusa” (Key Terms).
+- `pt-BR/g21-c004.md` [27]: “*feliz o homem que não andou” → “*bem-aventurado o homem que não andou” — *beatus* → “bem-aventurado” (Key Terms); estava “feliz”.
+- `pt-BR/g21-c006.md` [10]: “Barrabás era um ladrão” → “Barrabás era um salteador” — *latro* → “salteador” (Key Terms), distinto de *fur*. *(meaning)*
+- `pt-BR/g21-c006.md` [55]: “no seio do Pai, ele o deu a conhecer” → “no seio do Pai, ele o narrou” — *enarravit* em João 1:18 → “narrou” (Key Terms); estava parafraseado.
+- `pt-BR/g21-c006.md` [72]: “Barrabás era um ladrão” → “Barrabás era um salteador” — *latro* → “salteador” (Key Terms), preservando “ladrões” para *furum* na citação seguinte. *(meaning)*
+- `pt-BR/g22-c003.md` [53]: “a saber, ladrões, como se diz” → “a saber, salteadores, como se diz” — *latrones* → “salteadores” (Key Terms), distinto de *fures*. *(meaning)*
+- `pt-BR/g22-c003.md` [54]: “à causa da morte dos ladrões” → “à causa da morte dos salteadores” — *latronum* → “salteadores” (Key Terms), distinto de *fures*. *(meaning)*
+- `pt-BR/g22-c003.md` [55]: “o ladrão da direita, que creu” → “o salteador da direita, que creu” — *latro* → “salteador” (Key Terms), distinto de *fur*. *(meaning)*
+- `pt-BR/g22-c004.md` [23]: “estes três povos reivindicam” → “estas três nações reivindicam” — *gentes* → “nações” (Key Terms), com ajuste de concordância.
+- `pt-BR/g22-c005.md` [18]: “o conhecimento que Cristo tinha da própria consumação” → “a ciência de Cristo acerca da própria consumação” — *scientia Christi* → “ciência de Cristo” (Key Terms); estava “conhecimento”.
+- `pt-BR/g22-c005.md` [49]: “do ladrão a que chegaram primeiro” → “do salteador a que chegaram primeiro” — *latro* → “salteador” (Key Terms), distinto de *fur*. *(meaning)*
+- `pt-BR/g22-c005.md` [51]: “as pernas de um ladrão” → “as pernas de um salteador” — *latro* → “salteador” (Key Terms), distinto de *fur*. *(meaning)*
+- `pt-BR/translation-journal.md`: “| sermo Dei / Verbum Dei | palavra de Deus / Verbo de Deus | N. 1460; nota do tradutor. Verbum Dei também se traduz por “palavra de Deus” quando designa a mensagem ou palavra inspirada, e não a pessoa do Filho. |” → “| sermo Dei / Verbum Dei | palavra de Deus / Verbo de Deus | N. 1460; nota do tradutor. Quando *verbum Dei* designa a mensagem divina, e não a Pessoa do Filho, “palavra de Deus”. |” — Em 1 Tessalonicenses 2:13, *verbum Dei* designa a mensagem recebida; “palavra de Deus” está correto e esse sentido faltava na linha.
+- `pt-BR/translation-journal.md`: “| rogare; interrogare; petere | rogar; perguntar; pedir | João 16:23; Agostinho sobre o verbo grego de duplo sentido (n. 2136). |” → “| rogare; interrogare; petere | rogar; perguntar; pedir | João 16:23; Agostinho sobre o verbo grego de duplo sentido (n. 2136). Em contexto de interrogatório judicial, *interrogare* também se traduz por “interrogar”. |” — Nos interrogatórios de Jesus e Pedro, “interrogar” é uma tradução consistente e apropriada a esse sentido específico.
+- `pt-BR/translation-journal.md`: “| demonstrare | mostrar | João 5:20; *demonstratio* = demonstração (n. 754). |” → “| demonstrare | mostrar | João 5:20; *demonstratio* = demonstração (n. 754). Na exibição de uma pessoa, “apresentar” e “apresentação”; na manifestação da glória aos membros de Cristo, “manifestação”. |” — Os trechos distinguem a demonstração argumentativa da apresentação visível de Jesus e da manifestação da sua glória; a linha não registrava esses sentidos.
+
+### Part terms 4 of 8, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 19 minor. Delta: as 58 alterações estão corretas. Restavam 17 *ibi* com “onde diz”/“ali” e 2 *interrogare* com “interrogar” nos parágrafos vizinhos; corrigidos.
+- `pt-BR/g19-c004.md` [7]: “a sua razão, onde diz: ***porque” → “a sua razão, em ***porque” — *ibi* nas divisões do texto → “em” (Key Terms), como no [8] já corrigido.
+- `pt-BR/g19-c005.md` [11]: “dos discípulos, onde diz: ***disseram” → “dos discípulos, em ***disseram” — *ibi* nas divisões do texto → “em” (Key Terms), como no [12] já corrigido.
+- `pt-BR/g19-c005.md` [26]: “de que se duvida, onde diz: ***em verdade” → “de que se duvida, em ***em verdade” — *ibi* nas divisões do texto → “em” (Key Terms), como no [27] já corrigido.
+- `pt-BR/g19-c005.md` [28]: “***que queriam interrogá-lo***” → “***que queriam perguntar-lhe***” — *interrogare* fora de interrogatório judicial → “perguntar” (Key Terms), como no [21] já corrigido.
+- `pt-BR/g19-c008.md` [10]: “a sua condição, onde diz: ***respondeu” → “a sua condição, em ***respondeu” — *ibi* nas divisões do texto → “em” (Key Terms), como no [11] já corrigido.
+- `pt-BR/g19-c008.md` [15]: “de que alguém te interrogue” → “de que alguém te pergunte” — *interrogare* → “perguntar” (Key Terms). O [16] retoma o lema como “de que alguém lhe pergunte”, e o lema deve concordar com ele.
+- `pt-BR/g20-c001.md` [10]: “dos discípulos, ali: ***manifestei” → “dos discípulos, em ***manifestei” — *ibi* nas divisões do texto → “em” (Key Terms), como no [11] já corrigido.
+- `pt-BR/g20-c001.md` [14]: “o fruto do pedido, ali:” → “o fruto do pedido, em” — *ibi* nas divisões do texto → “em” (Key Terms), como no [15] já corrigido.
+- `pt-BR/g20-c002.md` [29]: “na glória do Pai, ali:” → “na glória do Pai, em” — *ibi* nas divisões do texto → “em” (Key Terms), como no [30] já corrigido.
+- `pt-BR/g20-c003.md` [29]: “volta ao Pai, ali:” → “volta ao Pai, em” — *ibi* nas divisões do texto → “em” (Key Terms), como no [30] já corrigido.
+- `pt-BR/g20-c003.md` [45]: “tinham incorrido, ali:” → “tinham incorrido, em” — *ibi* nas divisões do texto → “em” (Key Terms), como no [46] já corrigido.
+- `pt-BR/g20-c004.md` [8]: “da santificação, ali:” → “da santificação, em” — *ibi* nas divisões do texto → “em” (Key Terms), como no [9] já corrigido.
+- `pt-BR/g20-c005.md` [29]: “da unidade, onde diz ***assim” → “da unidade, em ***assim” — *ibi* nas divisões do texto → “em” (Key Terms), como no [30] já corrigido.
+- `pt-BR/g20-c005.md` [45]: “da unidade, onde diz ***eu neles” → “da unidade, em ***eu neles” — *ibi* nas divisões do texto → “em” (Key Terms), como no [46] já corrigido.
+- `pt-BR/g20-c006.md` [28]: “da glória, onde diz ***que” → “da glória, em ***que” — *ibi* nas divisões do texto → “em” (Key Terms), como no [29] já corrigido.
+- `pt-BR/g21-c001.md` [20]: “aos príncipes, onde diz ***a coorte” → “aos príncipes, em ***a coorte” — *ibi* nas divisões do texto → “em” (Key Terms), como no [21] já corrigido.
+- `pt-BR/g21-c001.md` [24]: “o aparato, onde diz” → “o aparato, em” — *ibi* nas divisões do texto → “em” (Key Terms), como no [25] já corrigido.
+- `pt-BR/g21-c001.md` [43]: “a sua paciência, onde diz” → “a sua paciência, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g21-c001.md` [46]: “de si mesmo, onde diz” → “de si mesmo, em” — *ibi* nas divisões do texto → “em” (Key Terms), como no [47] já corrigido.
+- Rejected: pt-BR/g20-c003.md [37] — *custodientes vigilias* em Lucas 2:8 ficou “guardavam as vigílias”, e não “protegiam” — Locução fixa (“fazer a vigília”): “proteger as vigílias” não faz sentido em português, e a tradução não perde o sentido.
+- Rejected: pt-BR/g19-c008.md [16]–[17] — “receber perguntas” e “recebe perguntas” como passiva de *interrogari* — A construção conserva o contraste ativo/passivo de que depende o argumento, e a gramática está correta.
+
+### Part terms 4 of 8, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 2 minor. Verificadas as 19 alterações e lidos integralmente os parágrafos e notas apresentados: alterações corretas; duas derivas terminológicas menores. Os locais do alerta de ênfase não foram apresentados.
+- `pt-BR/g21-c001.md` [20]: “pelos guardas aos príncipes” → “pelos guardas aos chefes” — O latim traz principibus sem sacerdotum; a tabela de termos determina «chefes» para principes isolado.
+- `pt-BR/g21-c001.md` [21]: “acusado pelos príncipes diante” → “acusado pelos chefes diante” — O latim traz a principibus; a tabela de termos determina «chefes» para principes isolado.
+- Rejected: pt-BR/g20-c002.md [29] — «vem de vós» diverge de «vêm de vós» na linha abs te sunt do glossário. — O singular concorda corretamente com «tudo o que»; a adaptação de número não constitui deriva terminológica.
+
+### Part terms 4 of 8, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of g21-c001 [19]–[22]: both “príncipes” → “chefes” changes match the Latin (*principibus* without *sacerdotum*) and the Key Terms table; the neighbouring paragraphs are intact and no defects were found.
+- Rejected: pt-BR/g21-c001.md [20]–[21] — “chefes” for *principibus*, when the journal has a row “princeps Iudaeorum; principes | príncipe dos judeus; príncipes” — That row covers João 3:1. The later rows for *principes* standing alone (João 7, 12:42, and the general row) fix “chefes”, and *pontifices* and *principes sacerdotum* are rendered separately. Here *principes* stands alone, so “chefes” follows the table.
+- Rejected: pt-BR/g21-c001.md [32], [33], [57] — emphasis-marker count flags from the mechanical audit — These paragraphs were not shown in this delta read and were not touched by the changes under review.
+
+### Part terms 5 of 8, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 38 minor. 216 parágrafos sinalizados lidos; 37 ocorrências com deriva, corrigidas em 36 substituições; 3 linhas de glossário ampliadas.
+- `pt-BR/g23-c001.md` [18]: “quanto à visão de Cristo, onde diz” → “quanto à visão de Cristo, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g23-c001.md` [22]: “a investigação da coisa anunciada, onde diz” → “a investigação da coisa anunciada, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g23-c001.md` [23]: “isto é, no primeiro dia da semana” → “isto é, na primeira féria” — *prima feria* → “primeira féria” (Key Terms).
+- `pt-BR/g23-c001.md` [28]: “segundo o preceito” → “segundo o mandamento” — *mandatum* → “mandamento” (Key Terms); trata-se da observância religiosa do sábado.
+- `pt-BR/g23-c002.md` [10]: “descreve-se a fala dos anjos, onde diz” → “descreve-se a fala dos anjos, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g23-c002.md` [19]: “por instinto divino” → “por impulso divino” — *instinctus* → “impulso” (Key Terms); aqui designa a moção divina.
+- `pt-BR/g23-c003.md` [26]: “a opinião que tinha de quem a interrogava” → “a opinião que tinha de quem lhe perguntava” — *interrogare* → “perguntar” (Key Terms).
+- `pt-BR/g23-c003.md` [28]: “regarei o meu horto de plantas” → “regarei o meu jardim de plantas” — *hortus* → “jardim” (Key Terms); o substantivo ocorre na citação, diferentemente de *hortulanus*.
+- `pt-BR/g23-c004.md` [18]: “a concessão do dom espiritual, onde diz” → “a concessão do dom espiritual, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g23-c004.md` [22]: “as consequências da aparição, onde diz” → “as consequências da aparição, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g23-c004.md` [38]: “entrarão para as núpcias” → “entrarão para as bodas” — *nuptiae* → “bodas” no sentido da celebração; a variante “núpcias” está prevista para o matrimônio.
+- `pt-BR/g23-c004.md` [44]: “porque viveu entre eles como um deles” → “porque conviveu com eles como um deles” — *conversatus est* exprime aqui o “convívio” (Key Terms).
+- `pt-BR/g23-c005.md` [8]: “a sua dúvida obstinada, onde diz” → “a sua dúvida obstinada, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g24-c001.md` [8]: “à direita do barco e achareis” → “à direita do barco e encontrareis” — *invenire* → “encontrar” (Key Terms).
+- `pt-BR/g24-c001.md` [45]: “Terceiro, a refeição familiar” → “Terceiro, o comer em familiaridade” — *comestio* → “o comer” (Key Terms), preservando o qualificativo *familiarem*.
+- `pt-BR/g24-c001.md` [48]: “a agitação do mundo presente” → “a agitação do século presente” — *saeculum* → “século” (Key Terms).
+- `pt-BR/g24-c001.md` [53]: “e realizar a sua obra” → “e aperfeiçoar a sua obra” — *ut perficiam opus eius* → “aperfeiçoar a sua obra” (Key Terms); “realizar” apaga a ideia de aperfeiçoamento preservada no comentário. *(meaning)*
+- `pt-BR/g24-c002.md` [20]: “a tribulação do mundo presente” → “a tribulação do século presente” — *saeculum* → “século” (Key Terms).
+- `pt-BR/g24-c002.md` [53]: “De bom grado o teriam interrogado” → “De bom grado lhe teriam perguntado” — *interrogare* → “perguntar” (Key Terms).
+- `pt-BR/g24-c002.md` [53]: “não ousavam interrogá-lo” → “não ousavam perguntar-lhe” — *interrogare* → “perguntar” (Key Terms).
+- `pt-BR/g24-c002.md` [53]: “os impedia de interrogá-lo” → “os impedia de perguntar-lhe” — *interrogare* → “perguntar” (Key Terms).
+- `pt-BR/g24-c003.md` [41]: “Pedro, interrogado pela terceira vez, entristeceu-se” → “Pedro, a quem se perguntou pela terceira vez, entristeceu-se” — *interrogare* → “perguntar” (Key Terms), com ajuste da construção passiva.
+- `pt-BR/g24-c003.md` [41]: “Vendo, pois, que é interrogado tantas vezes sobre o amor” → “Vendo, pois, que lhe perguntam tantas vezes sobre o amor” — *interrogare* → “perguntar” (Key Terms).
+- `pt-BR/g24-c003.md` [41]: “é por isso que os batizandos são interrogados três vezes no batismo” → “é por isso que se fazem perguntas três vezes aos batizandos no batismo” — *interrogare* → “perguntar” (Key Terms), com ajuste da construção passiva.
+- `pt-BR/g24-c005.md` [30]: “o interrogava com mais confiança” → “lhe perguntava com mais confiança” — *interrogare* → “perguntar” (Key Terms).
+- `pt-BR/g24-c006.md` [12]: “o que interrogava com fidelidade” → “o que perguntava com fidelidade” — *interrogare* → “perguntar” (Key Terms).
+- `pt-BR/g3-pr.md` [6]: “*o chamou das núpcias*, isto é, daquelas núpcias às quais” → “*o chamou das bodas*, isto é, daquelas bodas às quais” — *nuptiae* → “bodas” para a celebração de Caná; “núpcias” está previsto para o sentido de matrimônio.
+- `pt-BR/g3-pr.md` [7]: “e não das núpcias” → “e não das bodas” — *nuptiae* → “bodas”; refere-se à celebração da qual João teria sido chamado.
+- `pt-BR/g3-pr.md` [8]: “João foi chamado das núpcias à familiaridade de Cristo” → “João foi chamado das bodas à familiaridade de Cristo” — *nuptiae* → “bodas”; refere-se à celebração de Caná.
+- `pt-BR/g3-pr.md` [15]: “pelo milagre que Deus mostrou nas núpcias” → “pelo milagre que Deus mostrou nas bodas” — *nuptiae* → “bodas” para a celebração de Caná.
+- `pt-BR/g3-pr.md` [15]: “nas quais faltou o vinho das núpcias” → “nas quais faltou o vinho das bodas” — *nuptiae* → “bodas”; aqui se narra a falta literal de vinho na celebração.
+- `pt-BR/g3-pr.md` [15]: “*que o Senhor faz nas núpcias, pondo-o*” → “*que o Senhor faz nas bodas, pondo-o*” — *nuptiae* → “bodas” para a celebração de Caná.
+- `pt-BR/g4-c001.md` [108]: “o nome da divindade se atribui à criatura” → “o nome da deidade se atribui à criatura” — *deitas* → “deidade” (Key Terms); “divindade” corresponde a *divinitas*.
+- `pt-BR/g4-c005.md` [8]: “o modo da vinda, onde diz:” → “o modo da vinda, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g4-c006.md` [9]: “o fruto trazido pela vinda da luz, onde diz:” → “o fruto trazido pela vinda da luz, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g4-c006.md` [38]: “ao insinuar falsos dogmas sobre Cristo” → “ao sugerir falsos dogmas sobre Cristo” — *suggerere* → “sugerir” (Key Terms).
+- `pt-BR/translation-journal.md`: “| mandatum | mandamento | João 12:49–50. Quando designa uma ordem pontual, e não um preceito, admite “ordem”. |” → “| mandatum | mandamento | João 12:49–50. Em instruções pontuais, como as relativas à pesca ou ao ofício confiado a Pedro, “ordem” ou “mandato”. |” — Completa a distinção entre o mandamento religioso e uma instrução concreta, para a qual a tradução emprega consistentemente “ordem” ou “mandato”.
+- `pt-BR/translation-journal.md`: “| saeculum | século | N. 1941, 1947, 1962. |” → “| saeculum | século | N. 1941, 1947, 1962. Na cosmologia de Valentim, “éon” (n. 80). |” — “Éon” designa corretamente as entidades da cosmologia valentiniana, sentido distinto do século presente.
+- `pt-BR/translation-journal.md`: “| apprehendere | prender; tomar para si; alcançar | Nota do tradutor 2 da Lição 3 do cap. 10. |” → “| apprehendere | prender; tomar para si; alcançar | Nota do tradutor 2 da Lição 3 do cap. 10. No sentido cognitivo de captar a luz ou chegar ao seu conhecimento, “apreender” (n. 103, 141). |” — As duas ocorrências cognitivas empregam corretamente “apreender”; a linha deve registrar esse sentido.
+
+### Part terms 5 of 8, Round 2 (claude, delta read)
+Verdict: 2 meaning-level, 9 minor. Delta read of round 2: all listed changes are correct. Two references the journal records as corrected were still wrong in the text (Jeremias 5:22, Mateus 4:21). The first-member *ibi* drift was left next to the fixed third members (8 places), and one leftover *interrogare*.
+- `pt-BR/g24-c001.md` [48]: “Jeremias 22:5: *pôs a areia” → “Jeremias 5:22: *pôs a areia” — a citação (*posuit arenam terminum mari*) é Jeremias 5:22; o diário já registra a correção de n. 2585, que não foi aplicada no texto *(meaning)*
+- `pt-BR/g3-pr.md` [7]: “o que se diz em Mateus 6:21: que foi chamado” → “o que se diz em Mateus 4:21: que foi chamado” — o chamado de Tiago e João do barco está em Mateus 4:21; o diário registra a correção de n. 14, que não foi aplicada no texto *(meaning)*
+- `pt-BR/g24-c005.md` [31]: “não ousava interrogar, mas” → “não ousava perguntar, mas” — *interrogare* → “perguntar” (Key Terms), como nas correções de [30] e no resto do parágrafo
+- `pt-BR/g23-c001.md` [17]: “quanto à aparição do anjo, onde diz” → “quanto à aparição do anjo, em” — *ibi* nas divisões do texto → “em” (Key Terms); igual ao terceiro membro já corrigido em [18]
+- `pt-BR/g23-c001.md` [21]: “o anúncio da coisa vista, onde diz” → “o anúncio da coisa vista, em” — *ibi* nas divisões do texto → “em” (Key Terms); igual a [22]
+- `pt-BR/g23-c002.md` [9]: “a visão dos anjos, onde diz” → “a visão dos anjos, em” — *ibi* nas divisões do texto → “em” (Key Terms); igual a [10]
+- `pt-BR/g23-c004.md` [17]: “a incumbência do ofício, onde diz” → “a incumbência do ofício, em” — *ibi* nas divisões do texto → “em” (Key Terms); igual a [18]
+- `pt-BR/g23-c004.md` [21]: “o conteúdo da aparição, onde diz” → “o conteúdo da aparição, em” — *ibi* nas divisões do texto → “em” (Key Terms); igual a [22]
+- `pt-BR/g23-c005.md` [7]: “o anúncio que lhe foi feito, onde diz” → “o anúncio que lhe foi feito, em” — *ibi* nas divisões do texto → “em” (Key Terms); igual a [8]
+- `pt-BR/g4-c005.md` [7]: “nos trouxe, onde diz: ***” → “nos trouxe, em ***” — *ibi* nas divisões do texto → “em” (Key Terms); igual a [8]
+- `pt-BR/g4-c006.md` [8]: “a resposta dos homens, onde diz: ***” → “a resposta dos homens, em ***” — *ibi* nas divisões do texto → “em” (Key Terms); igual a [9]
+- Rejected: pt-BR/g3-pr.md [15] — “vinho das bodas” e “vinho das núpcias” no mesmo parágrafo — distinção intencional: a festa de Caná (“bodas”) e o deleite do matrimônio na citação de Jerônimo (“núpcias”), conforme a linha *nuptiae* dos Key Terms
+- Rejected: pt-BR/g24-c001.md [53] — *perficere bonum* (Romanos 7:18) vertido “realizar”, ao lado de “aperfeiçoar” em João 4:34 — a linha dos Key Terms cobre só João 4:34; em Romanos 7:18 “realizar o bem” é fiel
+
+### Part terms 5 of 8, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as 11 alterações e lidos integralmente os parágrafos e as notas apresentados; nenhum defeito adicional encontrado.
+- Rejected: pt-BR/g24-c001.md [48]; pt-BR/g3-pr.md [7] — As referências corrigidas divergem dos números impressos no latim. — Jeremias 5:22 e Mateus 4:21 identificam corretamente as passagens citadas; ambas as correções já estão registradas no diário.
+
+### Part terms 6 of 8, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 53 minor. 213 parágrafos sinalizados lidos; 53 correções de desvio vocabular.
+- `pt-BR/g4-c008.md` [29]: “o nome de divindade também” → “o nome de deidade também” — *deitas* → “deidade” (Key Terms); distingue-se de *divinitas*, “divindade”.
+- `pt-BR/g4-c010.md` [12]: “o seu ventre foi sobrenaturalmente fecundado” → “o seu seio foi sobrenaturalmente fecundado” — *uterus* → “seio” (Key Terms); *venter* permanece “ventre”.
+- `pt-BR/g4-c012.md` [14]: “o primeiro deu-o interrogado” → “o primeiro deu-o em resposta a uma pergunta” — *interrogare* → “perguntar” (Key Terms); estava “interrogado”.
+- `pt-BR/g4-c012.md` [15]: “Primeiro, foi interrogado sobre a pessoa;” → “Primeiro, perguntaram-lhe sobre a pessoa;” — *interrogare* → “perguntar” (Key Terms); estava “interrogado”.
+- `pt-BR/g4-c012.md` [57]: “o grande dia da festa” → “o grande dia da festividade” — *festivitas* → “festividade” (Key Terms); estava “festa”.
+- `pt-BR/g4-c013.md` [4]: “e interrogaram-no e disseram-lhe” → “e perguntaram-lhe e disseram-lhe” — *interrogare* → “perguntar” (Key Terms); estava “interrogaram”.
+- `pt-BR/g4-c013.md` [8]: “João, interrogado, deu testemunho” → “João, em resposta a uma pergunta, deu testemunho” — *interrogare* → “perguntar” (Key Terms); estava “interrogado”.
+- `pt-BR/g4-c013.md` [10]: “os que interrogam;” → “os que perguntam;” — *interrogare* → “perguntar” (Key Terms); estava “interrogam”.
+- `pt-BR/g4-c013.md` [12]: “deu testemunho, ali:” → “deu testemunho, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g4-c013.md` [14]: “Os que interrogam são” → “Os que perguntam são” — *interrogare* → “perguntar” (Key Terms); estava “interrogam”.
+- `pt-BR/g4-c013.md` [14]: “interrogam João com humildade” → “perguntam a João com humildade” — *interrogare* → “perguntar” (Key Terms); estava “interrogam”.
+- `pt-BR/g4-c013.md` [29]: “adiante, em 5:39” → “mais adiante, em 5:39” — *infra* em referências internas → “mais adiante, em” (Key Terms).
+- `pt-BR/g4-c013.md` [34]: “diz adiante, em 3:30” → “diz mais adiante, em 3:30” — *infra* em referências internas → “mais adiante, em” (Key Terms).
+- `pt-BR/g4-c013.md` [38]: “Adiante, em 3:29:” → “Mais adiante, em 3:29:” — *infra* em referências internas → “mais adiante, em” (Key Terms).
+- `pt-BR/g4-c014.md` [9]: “João, interrogado, deu testemunho” → “João, em resposta a uma pergunta, deu testemunho” — *interrogare* → “perguntar” (Key Terms); estava “interrogado”.
+- `pt-BR/g4-c014.md` [14]: “sobre a testemunha, ali:” → “sobre a testemunha, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g4-c014.md` [17]: “como diz adiante.” → “como diz mais adiante.” — *infra* em referências internas → “mais adiante” (Key Terms).
+- `pt-BR/g4-c014.md` [21]: “a sua dignidade, ali:” → “a sua dignidade, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g4-c014.md` [29]: “ao alimento, adiante, em 6:52” → “ao alimento, mais adiante, em 6:52” — *infra* em referências internas → “mais adiante, em” (Key Terms).
+- `pt-BR/g4-c014.md` [35]: “se diz adiante, em 3:30” → “se diz mais adiante, em 3:30” — *infra* em referências internas → “mais adiante, em” (Key Terms).
+- `pt-BR/g4-c014.md` [40]: “se diz adiante, em 2:11” → “se diz mais adiante, em 2:11” — *infra* em referências internas → “mais adiante, em” (Key Terms).
+- `pt-BR/g4-c014.md` [41]: “ele não era a luz, mas para dar testemunho da luz” → “ele não era a luz, mas para que desse testemunho da luz” — Restabelece a formulação de João 1:8 fixada nos Key Terms, preservando a inicial minúscula.
+- `pt-BR/g4-c014.md` [43]: “que ele demonstrou ao querer” → “que ele mostrou ao querer” — *demonstrare* → “mostrar” (Key Terms); estava “demonstrou”.
+- `pt-BR/g4-c014.md` [48]: “da própria visão, ali:” → “da própria visão, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g4-c014.md` [50]: “manifesta o Pai, adiante, em 17:6” → “manifesta o Pai, mais adiante, em 17:6” — *infra* em referências internas → “mais adiante, em” (Key Terms).
+- `pt-BR/g4-c014.md` [50]: “Adiante, em 16:14:” → “Mais adiante, em 16:14:” — *infra* em referências internas → “mais adiante, em” (Key Terms).
+- `pt-BR/g4-c014.md` [54]: “se diz adiante, em 3:8” → “se diz mais adiante, em 3:8” — *infra* em referências internas → “mais adiante, em” (Key Terms).
+- `pt-BR/g4-c014.md` [60]: “as suas servas admiravam-se” → “as suas criadas admiravam-se” — *ancilla* → “criada” (Key Terms); estava “servas”.
+- `pt-BR/g4-c015.md` [7]: “e ficaram com ele naquele dia” → “e permaneceram com ele naquele dia” — *manere* → “permanecer” (Key Terms); estava “ficaram”.
+- `pt-BR/g4-c015.md` [19]: “o modo do seu ensino” → “o modo da sua doutrina” — *doctrina* → “doutrina” (Key Terms); estava “ensino”.
+- `pt-BR/g4-c015.md` [19]: “do modo de ensinar de Cristo e de seus discípulos” → “do modo da doutrina de Cristo e de seus discípulos” — *doctrina* → “doutrina” (Key Terms); estava “ensinar”.
+- `pt-BR/g4-c015.md` [52]: “E, interrogados sobre uma coisa, respondem duas.” → “E, quando lhes perguntam uma coisa, respondem duas.” — *interrogare* → “perguntar” (Key Terms); estava “interrogados”.
+- `pt-BR/g4-c015.md` [54]: “não queriam interrogá-lo de passagem” → “não queriam fazer-lhe perguntas de passagem” — *interrogare* → “perguntar” (Key Terms); estava “interrogá-lo”.
+- `pt-BR/g5-c001.md` [26]: “milagre realizado, onde diz:” → “milagre realizado, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g5-c001.md` [44]: “e isto onde diz:” → “e isto em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g5-c001.md` [45]: “o testemunho do milagre, onde diz:” → “o testemunho do milagre, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g5-c001.md` [46]: “fez o papel de medianeira” → “fez o papel de mediadora” — *mediator*, aqui no feminino *mediatrix*, → “mediadora” (Key Terms); estava “medianeira”.
+- `pt-BR/g5-c001.md` [76]: “a aprovação do milagre, onde diz:” → “a aprovação do milagre, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g5-c001.md` [91]: “embotados pela comida” → “embotados pelo comer” — *comestio* → “o comer” (Key Terms); estava “comida”.
+- `pt-BR/g5-c002.md` [32]: “deixou a mãe virgem aos cuidados do discípulo virgem” → “deixou a mãe virgem ao discípulo virgem para que a protegesse” — *custodire* → “proteger” (Key Terms); estava parafraseado como “aos cuidados”.
+- `pt-BR/g5-c002.md` [40]: “em muitos discursos de Cristo” → “em muitas palavras de Cristo” — *sermones* → “palavras” (Key Terms); estava “discursos”.
+- `pt-BR/g5-c002.md` [60]: “o oráculo da profecia, onde diz:” → “o oráculo da profecia, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g5-c002.md` [79]: “a razão da admoestação” → “a razão da exortação” — *admonitio* → “exortação” (Key Terms); estava “admoestação”.
+- `pt-BR/g5-c002.md` [82]: “um covil de” → “uma gruta de” — *spelunca* → “gruta” (Key Terms); estava “covil”.
+- `pt-BR/g5-c002.md` [82]: “de ladrões*,” → “de salteadores*,” — *latro* → “salteador” (Key Terms); estava “ladrões”.
+- `pt-BR/g5-c002.md` [82]: “não os chama ladrões, mas negociantes” → “não os chama salteadores, mas negociantes” — *latro* → “salteador” (Key Terms); estava “ladrões”.
+- `pt-BR/g6-c003.md` [18]: “senão gozar de Deus” → “senão fruir de Deus” — *frui* → “fruir” (Key Terms); estava “gozar”.
+- `pt-BR/g6-c004.md` [43]: “que se manifestou no batismo” → “que foi mostrada no batismo” — *demonstrare* → “mostrar” (Key Terms); estava “manifestou”.
+- `pt-BR/g6-c005.md` [27]: “a correia das sandálias de Jesus” → “a correia dos calçados de Jesus” — *corrigia calceamenti* → “correia do calçado” (Key Terms), aqui com *calceamentorum* no plural; estava “sandálias”.
+- `pt-BR/g6-c005.md` [28]: “lhes foi confiada para guardar” → “lhes foi confiada para proteger” — *custodire* → “proteger” (Key Terms); estava “guardar”.
+- `pt-BR/g6-c005.md` [30]: “se permanecer firme” → “se perdurar firme” — *permanere* → “perdurar” (Key Terms); estava “permanecer”.
+- `pt-BR/g6-c006.md` [31]: “Cada uma destas Cristo recebeu sem medida.” → “Cada uma destas Cristo recebeu não por medida.” — *non ad mensuram* → “não por medida”, conforme “por medida” nos Key Terms; estava “sem medida”.
+- `pt-BR/g6-c006.md` [32]: “recebeu sem medida o Espírito Santo” → “recebeu não por medida o Espírito Santo” — *non ad mensuram* → “não por medida”, conforme “por medida” nos Key Terms; estava “sem medida”.
+
+### Part terms 6 of 8, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 11 minor. Delta: 53 changes checked, all correct except g6-c006 [31]-[32], reverted to “sem medida” to match [30], [33] and the footnote; the g4-c013 [11] lemma is aligned with the verse, and 9 more *ibi* divisions still using “ali:”/“onde diz:” are corrected.
+- `pt-BR/g6-c006.md` [31]: “Cada uma destas Cristo recebeu não por medida.” → “Cada uma destas Cristo recebeu sem medida.” — Reverte a mudança anterior: [30] e [33] dizem “sem medida” para *non ad mensuram*, e a nota [^1] liga *immensus* a “sem medida”; o Key Terms fixa só *ad mensuram* = “por medida”.
+- `pt-BR/g6-c006.md` [32]: “recebeu não por medida o Espírito Santo” → “recebeu sem medida o Espírito Santo” — Mesma razão: coerência com [30], [33] e a nota sobre *immensus*.
+- `pt-BR/g4-c013.md` [11]: “segundo, a pergunta, ali: ***e interrogaram-no***;” → “segundo, a pergunta, em ***e perguntaram-lhe***;” — O lema deve reproduzir o versículo [4], agora “e perguntaram-lhe”; *ibi* → “em” (Key Terms).
+- `pt-BR/g4-c013.md` [13]: “aconteceram, ali: ***estas” → “aconteceram, em ***estas” — *ibi* nas divisões do texto → “em” (Key Terms), como em [12].
+- `pt-BR/g4-c014.md` [10]: “o testemunho dado, ali: ***e João” → “o testemunho dado, em ***e João” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g4-c014.md` [13]: “o próprio testemunho, ali: ***eis” → “o próprio testemunho, em ***eis” — *ibi* nas divisões do texto → “em” (Key Terms), como em [14].
+- `pt-BR/g4-c014.md` [47]: “inteligência da visão, ali: ***e eu” → “inteligência da visão, em ***e eu” — *ibi* nas divisões do texto → “em” (Key Terms), como em [48].
+- `pt-BR/g5-c001.md` [25]: “tomaram parte, onde diz: ***ora” → “tomaram parte, em ***ora” — *ibi* nas divisões do texto → “em” (Key Terms), como em [26].
+- `pt-BR/g5-c001.md` [75]: “matéria do milagre, onde diz: ***disse-lhes” → “matéria do milagre, em ***disse-lhes” — *ibi* nas divisões do texto → “em” (Key Terms), como em [76].
+- `pt-BR/g5-c002.md` [59]: “remédio de Cristo, onde diz: ***e,” → “remédio de Cristo, em ***e,” — *ibi* nas divisões do texto → “em” (Key Terms), como em [60].
+- `pt-BR/g5-c002.md` [79]: “da exortação, onde diz: ***e não” → “da exortação, em ***e não” — *ibi* nas divisões do texto → “em” (Key Terms).
+- Rejected: pt-BR/g4-c014.md [60] — *ancilla* → “criadas” contraria a linha do Key Terms *ancilla* = “escrava” — O Key Terms tem também *ancilla* = “criada” (João 18); em Naum 2:7 “criadas” é defensável.
+- Rejected: pt-BR/g4-c012.md [14] — “a própria interrogação” depois de “em resposta a uma pergunta” — *interrogatio* como substantivo; “interrogação” é correto e não contraria o Key Terms, que trata o verbo.
+
+### Part terms 6 of 8, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as 11 mudanças e lidos integralmente os 30 parágrafos apresentados e as 13 notas do tradutor; nenhum defeito encontrado. Os demais locais sinalizados pela auditoria não foram apresentados nesta delta.
+- Rejected: pt-BR/g6-c006.md [31]-[32] — “Sem medida” diverge de “por medida” nos Key Terms. — “Sem medida” traduz corretamente non ad mensuram; a tabela fixa ad mensuram, sem exigir uma tradução literal da negação.
+
+### Part terms 7 of 8, Round 1 (codex, terms read)
+Verdict: 3 meaning-level, 39 minor. 198 parágrafos sinalizados examinados; 39 ocorrências com desvio vocabular corrigidas e 3 linhas do glossário complementadas.
+- `pt-BR/translation-journal.md`: “| hydriae; metretae | talhas; metretas | João 2:6; n. 356-357. |” → “| hydriae; metretae | talhas; metretas | João 2:6; n. 356-357. Para o recipiente portátil da samaritana em João 4, hydria = “cântaro”. |” — A linha não contempla o cântaro portátil da samaritana, distinto das talhas de João 2.
+- `pt-BR/translation-journal.md`: “| mandatum | mandamento | João 12:49–50. |” → “| mandatum | mandamento | João 12:49–50. Quando designa uma ordem pontual, e não um preceito, admite “ordem”. |” — As ocorrências distinguem corretamente ordens pontuais de mandamentos.
+- `pt-BR/translation-journal.md`: “| sermo Dei / Verbum Dei | palavra de Deus / Verbo de Deus | N. 1460; nota do tradutor. |” → “| sermo Dei / Verbum Dei | palavra de Deus / Verbo de Deus | N. 1460; nota do tradutor. Verbum Dei também se traduz por “palavra de Deus” quando designa a mensagem ou palavra inspirada, e não a pessoa do Filho. |” — As ocorrências distinguem corretamente a palavra inspirada do Verbo pessoal.
+- `pt-BR/g7-c001.md` [68]: “na sexta idade do mundo” → “na sexta idade do século” — *saeculi* → “século” (Key Terms); estava “mundo”.
+- `pt-BR/g7-c001.md` [88]: “gentes trazidas de diversos lugares” → “gentios trazidos de diversos lugares” — *gentes* → “gentios” (Key Terms); estava “gentes”.
+- `pt-BR/g7-c001.md` [88]: “contra essas gentes leões” → “contra esses gentios leões” — *gentibus* → “gentios” (Key Terms); estava “gentes”.
+- `pt-BR/g7-c002.md` [29]: “o Senhor ouviu o desejo dos pobres” → “o Senhor atendeu o desejo dos pobres” — *exaudivit* → “atendeu” (Key Terms); estava “ouviu”.
+- `pt-BR/g7-c002.md` [107]: “os judeus permaneciam na verdade” → “os judeus perduravam na verdade” — *permanebant* → “perduravam” (Key Terms); estava “permaneciam”.
+- `pt-BR/g7-c003.md` [50]: “trabalham na palavra e no ensino” → “trabalham na palavra e na doutrina” — *doctrina* → “doutrina” (Key Terms); estava “ensino”.
+- `pt-BR/g7-c004.md` [14]: “é preciso que eu realize as obras” → “é preciso que eu opere as obras” — *me oportet operari* → “é preciso que eu opere” (Key Terms); estava “é preciso que eu realize”.
+- `pt-BR/g7-c006.md` [20]: “no fim do mundo, uma vez confirmados” → “no fim do século, uma vez confirmados” — *saeculi* → “século” (Key Terms); estava “mundo”.
+- `pt-BR/g8-c001.md` [24]: “a restituição da saúde, onde diz:” → “a restituição da saúde, em” — *ibi* na divisão do texto → “em” (Key Terms); estava “onde diz:”.
+- `pt-BR/g8-c002.md` [19]: “a calúnia levantada contra Cristo, onde diz:” → “a calúnia levantada contra Cristo, em” — *ibi* na divisão do texto → “em” (Key Terms); estava “onde diz:”.
+- `pt-BR/g8-c002.md` [36]: “da sua perseguição, onde diz:” → “da sua perseguição, em” — *ibi* na divisão do texto → “em” (Key Terms); estava “onde diz:”.
+- `pt-BR/g8-c002.md` [46]: “depois do ensinamento é manifestado” → “depois da doutrina é manifestado” — *doctrinam* → “doutrina” (Key Terms); estava “ensinamento”.
+- `pt-BR/g8-c003.md` [15]: “a razão de uma e de outra, onde diz:” → “a razão de uma e de outra, em” — *ibi* na divisão do texto → “em” (Key Terms); estava “onde diz:”.
+- `pt-BR/g8-c004.md` [19]: “o efeito que daí provém, onde diz:” → “o efeito que daí provém, em” — *ibi* na divisão do texto → “em” (Key Terms); estava “onde diz:”.
+- `pt-BR/g8-c006.md` [37]: “homem separado da divindade” → “homem separado da deidade” — *deitate* → “deidade” (Key Terms); estava “divindade”.
+- `pt-BR/g8-c006.md` [66]: “pelas Escrituras, onde diz:” → “pelas Escrituras, em” — *ibi* na divisão do texto → “em” (Key Terms); estava “onde diz:”.
+- `pt-BR/g9-c001.md` [24]: “a sua realização, onde diz:” → “a sua realização, em” — *ibi* na divisão do texto → “em” (Key Terms); estava “onde diz:”.
+- `pt-BR/g9-c001.md` [35]: “nascido dos discursos anteriores” → “nascido das palavras anteriores” — *sermonibus* → “palavras” (Key Terms); estava “discursos”.
+- `pt-BR/g9-c001.md` [42]: “o do filho do funcionário real” → “o do filho do régulo” — *reguli* → “régulo” (Key Terms); estava “funcionário real”.
+- `pt-BR/g9-c001.md` [63]: “teria interrogado Filipe” → “teria perguntado a Filipe” — *interrogasset* → “perguntado” (Key Terms); estava “interrogado”.
+- `pt-BR/g9-c001.md` [68]: “interrogava frequentemente o Senhor” → “perguntava frequentemente ao Senhor” — *interrogabat* → “perguntava” (Key Terms); estava “interrogava”.
+- `pt-BR/g9-c001.md` [68]: “na interrogação destes dois” → “na pergunta destes dois” — *interrogatione*, derivado de *interrogare*, → “pergunta” conforme o vocabulário da linha; estava “interrogação”.
+- `pt-BR/g9-c001.md` [77]: “o recolhimento dos pedaços, onde diz:” → “o recolhimento dos pedaços, em” — *ibi* na divisão do texto → “em” (Key Terms); estava “onde diz:”.
+- `pt-BR/g9-c002.md` [14]: “quanto à diligente procura, onde diz:” → “quanto à diligente procura, em” — *ibi* na divisão do texto → “em” (Key Terms); estava “onde diz:”.
+- `pt-BR/g9-c002.md` [50]: “o efeito da aparição, onde diz:” → “o efeito da aparição, em” — *ibi* na divisão do texto → “em” (Key Terms); estava “onde diz:”.
+- `pt-BR/g9-c003.md` [8]: “mas pelo que permanece para a vida eterna” → “mas pelo que perdura para a vida eterna” — *permanet* → “perdura” (Key Terms); estava “permanece”.
+- `pt-BR/g9-c003.md` [16]: “a própria procura, onde diz:” → “a própria procura, em” — *ibi* na divisão do texto → “em” (Key Terms); estava “onde diz:”.
+- `pt-BR/g9-c003.md` [23]: “tendo-o encontrado, o interroga” → “tendo-o encontrado, lhe faz perguntas” — *interrogat* → “faz perguntas”, conforme *interrogare* → “perguntar” (Key Terms); estava “interroga”.
+- `pt-BR/g9-c003.md` [25]: “tendo-o encontrado, interrogam-no” → “tendo-o encontrado, fazem-lhe perguntas” — *interrogant* → “fazem perguntas”, conforme *interrogare* → “perguntar” (Key Terms); estava “interrogam”.
+- `pt-BR/g9-c003.md` [28]: “as que se dispõem pela razão permanecem mais” → “as que se dispõem pela razão perduram mais” — *permanent* → “perduram” (Key Terms); estava “permanecem”.
+- `pt-BR/g9-c003.md` [28]: “O homem sábio permanece na sua sabedoria” → “O homem sábio perdura na sua sabedoria” — *permanet* → “perdura” (Key Terms); estava “permanece”.
+- `pt-BR/g9-c003.md` [35]: “o modo de receber esse alimento, onde diz:” → “o modo de receber esse alimento, em” — *ibi* na divisão do texto → “em” (Key Terms); estava “onde diz:”.
+- `pt-BR/g9-c003.md` [49]: “quem beber da água que eu lhe darei jamais terá sede” → “quem beber da água que eu lhe darei não terá sede eternamente” — *non sitiet in aeternum* → “não terá sede eternamente” (Key Terms); “jamais” elimina a leitura literal preservada para a distinção do comentário. *(meaning)*
+- `pt-BR/g9-c003.md` [59]: “o alimento espiritual permanece para a vida eterna” → “o alimento espiritual perdura para a vida eterna” — *permaneat* → “perdura” (Key Terms); estava “permanece”.
+- `pt-BR/g9-c003.md` [72]: “o alimento que permanece para a vida eterna” → “o alimento que perdura para a vida eterna” — *permanet* → “perdura” (Key Terms); estava “permanece”.
+- `pt-BR/g9-c004.md` [6]: “quem crê em mim jamais terá sede” → “quem crê em mim não terá sede eternamente” — *non sitiet in aeternum* → “não terá sede eternamente” (Key Terms); “jamais” elimina a leitura literal preservada para a distinção do comentário. *(meaning)*
+- `pt-BR/g9-c004.md` [32]: “a necessidade de expor, onde diz:” → “a necessidade de expor, em” — *ibi* na divisão do texto → “em” (Key Terms); estava “onde diz:”.
+- `pt-BR/g9-c004.md` [36]: “quem crê em mim jamais terá sede” → “quem crê em mim não terá sede eternamente” — *non sitiet in aeternum* → “não terá sede eternamente” (Key Terms); “jamais” elimina a leitura literal preservada para a distinção do comentário. *(meaning)*
+- `pt-BR/g9-c004.md` [44]: “manifesta o que diz, onde diz:” → “manifesta o que diz, em” — *ibi* na divisão do texto → “em” (Key Terms); estava “onde diz:”.
+
+### Part terms 7 of 8, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 16 minor. Delta de 42 mudanças verificado e correto; uniformizadas as divisões com *ibi* nos 15 parágrafos vizinhos e corrigida a linha *filius reguli* do diário.
+- `pt-BR/g8-c001.md` [23]: “a enfermidade, onde diz:” → “a enfermidade, em” — *ibi* na divisão do texto → “em” (Key Terms); o membro seguinte [24] já usa “em”
+- `pt-BR/g8-c002.md` [18]: “contra o curado, onde diz:” → “contra o curado, em” — *ibi* → “em” (Key Terms); [19] já usa “em”
+- `pt-BR/g8-c002.md` [35]: “do seu encontro, onde diz:” → “do seu encontro, em” — *ibi* → “em” (Key Terms); [36] já usa “em”
+- `pt-BR/g8-c003.md` [14]: “desse poder, onde diz:” → “desse poder, em” — *ibi* → “em” (Key Terms); [15] já usa “em”
+- `pt-BR/g8-c004.md` [18]: “a razão do que disse, onde diz:” → “a razão do que disse, em” — *ibi* → “em” (Key Terms); [19] já usa “em”
+- `pt-BR/g8-c006.md` [65]: “por si mesmo, onde diz:” → “por si mesmo, em” — *ibi* → “em” (Key Terms); [66] já usa “em”
+- `pt-BR/g9-c001.md` [67]: “a resposta de André, onde diz:” → “a resposta de André, em” — *ibi* → “em” (Key Terms)
+- `pt-BR/g9-c001.md` [76]: “a sua refeição, onde diz:” → “a sua refeição, em” — *ibi* → “em” (Key Terms); [77] já usa “em”
+- `pt-BR/g9-c002.md` [13]: “prestar-lhe, onde diz:” → “prestar-lhe, em” — *ibi* → “em” (Key Terms); [14] já usa “em”
+- `pt-BR/g9-c002.md` [49]: “o tempo da aparição, onde diz:” → “o tempo da aparição, em” — *ibi* → “em” (Key Terms); [50] já usa “em”
+- `pt-BR/g9-c003.md` [15]: “a ocasião de procurar, onde diz:” → “a ocasião de procurar, em” — *ibi* → “em” (Key Terms); [16] já usa “em”
+- `pt-BR/g9-c003.md` [34]: “a sua origem, onde diz:” → “a sua origem, em” — *ibi* → “em” (Key Terms); [35] já usa “em”
+- `pt-BR/g9-c003.md` [58]: “de Jesus Cristo, onde diz:” → “de Jesus Cristo, em” — *ibi* → “em” (Key Terms)
+- `pt-BR/g9-c004.md` [31]: “a razão da exposição, onde diz:” → “a razão da exposição, em” — *ibi* → “em” (Key Terms); [32] já usa “em”
+- `pt-BR/g9-c004.md` [43]: “a certeza da chegada, onde diz:” → “a certeza da chegada, em” — *ibi* → “em” (Key Terms); [44] já usa “em”
+- `pt-BR/translation-journal.md`: “| filius reguli | filho do funcionário real | n. 844. |” → “| filius reguli | filho do régulo | n. 844. |” — O n. 844 agora diz “filho do régulo”, conforme a linha *regulus* → “régulo”; a linha afirmava uma forma que não ocorre
+- Rejected: pt-BR/g7-c001.md [68] — “sexta idade do século” pode soar como “século” = cem anos — Segue a linha *saeculum* → “século” do Key Terms; sentido arcaico de “mundo/era” defensável
+- Rejected: pt-BR/translation-journal.md (sermo Dei / Verbum Dei) — O texto atual da linha difere do “new” relatado — A linha contém nota equivalente sobre a palavra inspirada; nada a corrigir
+- Rejected: pt-BR/g9-c003.md [49] — Lema *qui manet* vertido “que permanece”, ao lado de “perdura” em 6:27 — O lema usa *manet*, não *permanet*; “permanecer” corresponde ao Key Terms
+
+### Part terms 7 of 8, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as 16 mudanças, todos os parágrafos e notas exibidos: nenhum defeito objetivo encontrado. Os alertas mecânicos referentes a parágrafos não exibidos não puderam ser avaliados neste delta.
+
+### Part terms 8 of 8, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 14 minor. Lidos os 41 parágrafos sinalizados; encontrados 14 desvios de terminologia.
+- `pt-BR/g9-c004.md` [57]: “cumprimento final da vontade, onde diz:” → “cumprimento final da vontade, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g9-c005.md` [14]: “Os judeus, pois, discutiam” → “Os judeus, pois, discutiam entre si” — *litigabant* → “discutiam entre si” (Key Terms).
+- `pt-BR/g9-c005.md` [41]: “demonstrando que ele é seu Filho” → “mostrando que ele é seu Filho” — *demonstrare* → “mostrar” (Key Terms); estava “demonstrando”.
+- `pt-BR/g9-c005.md` [41]: “Simão Bar-Jonas” → “Simão Barjonas” — *Simon Bariona* → “Simão Barjonas” (Key Terms).
+- `pt-BR/g9-c005.md` [43]: “tem força de atrair” → “tem poder de atrair” — *virtus* no sentido de eficácia causal → “poder” (Key Terms); estava “força”.
+- `pt-BR/g9-c005.md` [58]: “um modo de atração que se poderia supor, onde diz:” → “um modo de atração que se poderia supor, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g9-c005.md` [68]: “em todo ensinamento da fé” → “em toda doutrina da fé” — *doctrina* → “doutrina” (Key Terms); estava “ensinamento”.
+- `pt-BR/g9-c006.md` [13]: “apresenta a conclusão, onde diz:” → “apresenta a conclusão, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g9-c007.md` [22]: “acrescenta a sua verdade, onde diz:” → “acrescenta a sua verdade, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g9-c007.md` [26]: “nem o batismo de desejo[^2]” → “nem o batismo do Espírito[^2]” — *baptismus flaminis* → “batismo do Espírito” (Key Terms); estava “batismo de desejo”.
+- `pt-BR/g9-c007.md` [32]: “para os que a abraçam” → “para os que a tomam para si” — *apprehendere* → “tomar para si” (Key Terms), aqui referido à sabedoria; estava “abraçam”.
+- `pt-BR/g9-c007.md` [42]: “infere a conclusão, onde diz:” → “infere a conclusão, em” — *ibi* nas divisões do texto → “em” (Key Terms).
+- `pt-BR/g9-c007.md` [50]: “pois disputavam acerca de duas coisas” → “pois discutiam entre si acerca de duas coisas” — *litigabant* → “discutiam entre si” (Key Terms); estava “disputavam”.
+- `pt-BR/g9-c008.md` [30]: “podiam interrogar o Senhor” → “podiam perguntar ao Senhor” — *interrogare* → “perguntar” (Key Terms); estava “interrogar”.
+
+### Part terms 8 of 8, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 8 minor. Verificadas as 14 mudanças da rodada 1 e os vizinhos: uma reversão (batismo de desejo, conforme o Key Terms do n. 969) e sete “onde diz:” restantes alinhados a “em”.
+- `pt-BR/g9-c007.md` [26]: “nem o batismo do Espírito[^2]” → “nem o batismo de desejo[^2]” — Key Terms: baptismus flaminis → “batismo de desejo”, com o n. 969 citado na própria linha; a mudança da rodada anterior contrariou a tabela
+- `pt-BR/g9-c004.md` [56]: “qual é a vontade do Pai, onde diz: ***Esta” → “qual é a vontade do Pai, em ***Esta” — ibi nas divisões do texto → “em” (Key Terms); o [57] já usa “em”
+- `pt-BR/g9-c005.md` [14]: “sobre o comer do alimento espiritual, onde diz: ***Os” → “sobre o comer do alimento espiritual, em ***Os” — ibi nas divisões do texto → “em” (Key Terms)
+- `pt-BR/g9-c005.md` [57]: “a eficácia da atração, onde diz: ***Todo” → “a eficácia da atração, em ***Todo” — ibi nas divisões do texto → “em” (Key Terms); o [58] já usa “em”
+- `pt-BR/g9-c006.md` [12]: “deve dar a vida, onde diz: ***Vossos” → “deve dar a vida, em ***Vossos” — ibi nas divisões do texto → “em” (Key Terms); o [13] já usa “em”
+- `pt-BR/g9-c007.md` [21]: “a sua utilidade, onde diz: ***Quem” → “a sua utilidade, em ***Quem” — ibi nas divisões do texto → “em” (Key Terms); o [22] já usa “em”
+- `pt-BR/g9-c007.md` [31]: “quanto ao corpo, onde diz: ***E” → “quanto ao corpo, em ***E” — ibi nas divisões do texto → “em” (Key Terms)
+- `pt-BR/g9-c007.md` [41]: “e prova-a, onde diz: ***Assim” → “e prova-a, em ***Assim” — ibi nas divisões do texto → “em” (Key Terms); o [42] já usa “em”
+- Rejected: pt-BR/g9-c005.md [40] — “como vimos a Cristo crendo” pode ser lido como pretérito de “ver” — “vimos” é o presente de “vir”, regido por “a Cristo”, e a frase seguinte (“vir a Cristo é crer nele”) desfaz a ambiguidade
+- Rejected: pt-BR/g9-c005.md [68] — doctrina fidei talvez designe o ato de ensinar (“ensino”) — “doutrina da fé” é leitura defensável; não é defeito objetivo
+- Rejected: pt-BR/g9-c005.md [14] — “reprime” para mitigat — a escolha é próxima o bastante e não altera o sentido da divisão
+
+### Part terms 8 of 8, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as oito mudanças, todos os parágrafos apresentados e suas notas: nenhum defeito objetivo encontrado. Os locais dos alertas mecânicos não foram apresentados nesta delta.
+- Rejected: pt-BR/g9-c007.md [26] — “Batismo de desejo” para baptismus flaminis poderia apagar a referência ao Espírito Santo. — É a denominação portuguesa estabelecida na tabela para o n. 969; a nota existente explicita a referência ao Espírito Santo.
