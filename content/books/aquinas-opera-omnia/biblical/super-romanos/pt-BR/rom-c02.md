@@ -552,7 +552,7 @@ Lição 6
 
 ^1:16^ Pois não me envergonho do Evangelho. Ele é, com efeito, o poder de Deus para a salvação de todo aquele que crê, primeiro do judeu e também do grego. [n. 97]
 
-> ^1:17^ Pois nele se revela a justiça de Deus, a partir da fé para a fé, como está escrito: *o justo, porém, vive a partir da fé*. [n. 102]
+> ^1:17^ Pois nele se revela a justiça de Deus, da fé para a fé, como está escrito: *o justo, porém, vive da fé*. [n. 102]
 
 > ^1:18^ Pois a ira de Deus se revela do céu contra toda impiedade e injustiça daqueles homens que detêm a verdade de Deus na injustiça: [n. 109]
 
@@ -600,23 +600,23 @@ Mas, como adiante, em 10:10, se diz que ***não há distinção entre judeu e gr
 
 Deve-se dizer, portanto, que, quanto à consecução do fim da salvação, não há distinção entre eles, pois ambos alcançam igual recompensa, assim como, pelo trabalho na vinha, os primeiros e os últimos receberam o mesmo denário, conforme se diz em Mateus 20:1–16. Mas, quanto à ordem da salvação, os judeus são os primeiros, porque a eles foram feitas as promessas, como se diz adiante, em 3:2, e os gentios foram admitidos a participar de sua graça, como se um ramo de oliveira silvestre fosse enxertado numa boa oliveira, conforme se diz adiante, em 11:24. Deles também nasceu nosso Salvador. João 4:22: *a salvação vem dos judeus*.
 
-**102.** Em seguida, explica como o Evangelho conduz à salvação, quando diz: ***pois nele se revela a justiça de Deus, a partir da fé para a fé***.
+**102.** Em seguida, explica como o Evangelho conduz à salvação, quando diz: ***pois nele se revela a justiça de Deus, da fé para a fé***.
 
 Isso pode ser entendido de dois modos.
 
-De um modo, da justiça pela qual Deus é justo, segundo o Salmo 10:8: *o Senhor é justo e amou as obras de justiça*. Nesse sentido, ***a justiça de Deus***, pela qual é justo ao cumprir as promessas, ***nele se revela***, isto é, no homem que crê no Evangelho, porque crê que Deus cumpriu o que prometeu sobre o envio de Cristo; e isso ***a partir da fé***, isto é, da fidelidade de Deus que promete — Salmo 144:13: *o Senhor é fiel em todas as suas palavras* —, ***para a fé***, isto é, do homem que crê.
+De um modo, da justiça pela qual Deus é justo, segundo o Salmo 10:8: *o Senhor é justo e amou as obras de justiça*. Nesse sentido, ***a justiça de Deus***, pela qual é justo ao cumprir as promessas, ***nele se revela***, isto é, no homem que crê no Evangelho, porque crê que Deus cumpriu o que prometeu sobre o envio de Cristo; e isso ***da fé***, isto é, da fidelidade de Deus que promete — Salmo 144:13: *o Senhor é fiel em todas as suas palavras* —, ***para a fé***, isto é, do homem que crê.
 
-Ou, de outro modo, entende-se da justiça de Deus pela qual Deus justifica os homens. Pois se chama justiça dos homens aquela pela qual os homens presumem justificar-se com suas próprias forças, conforme se diz adiante, em 10:3: ***ignorando a justiça de Deus e procurando estabelecer a sua, não se submeteram à justiça de Deus***. Essa justiça se revela no Evangelho, enquanto pela fé do Evangelho os homens são justificados em qualquer tempo; por isso, acrescenta: ***a partir da fé para a fé***, isto é, a partir da fé do Antigo Testamento, avançando para a fé do Novo Testamento, porque, em ambos, os homens são justificados e salvos pela fé em Cristo, pois creram que ele viria com a mesma fé com que nós cremos que veio; por isso, diz-se em 2 Coríntios 4:13: *tendo a mesma espécie de fé, cremos e por isso falamos*.
+Ou, de outro modo, entende-se da justiça de Deus pela qual Deus justifica os homens. Pois se chama justiça dos homens aquela pela qual os homens presumem justificar-se com suas próprias forças, conforme se diz adiante, em 10:3: ***ignorando a justiça de Deus e procurando estabelecer a sua, não se submeteram à justiça de Deus***. Essa justiça se revela no Evangelho, enquanto pela fé do Evangelho os homens são justificados em qualquer tempo; por isso, acrescenta: ***da fé para a fé***, isto é, passando da fé do Antigo Testamento à fé do Novo Testamento, porque, em ambos, os homens são justificados e salvos pela fé em Cristo, pois creram que ele viria com a mesma fé com que nós cremos que veio; por isso, diz-se em 2 Coríntios 4:13: *tendo a mesma espécie de fé, cremos e por isso falamos*.
 
-**103.** Ou pode ser entendido ***a partir da fé*** dos pregadores *para a fé* dos ouvintes; adiante, em 10:14: ***como crerão naquele que não ouviram?***
+**103.** Ou pode ser entendido ***da fé*** dos pregadores *para a fé* dos ouvintes; adiante, em 10:14: ***como crerão naquele que não ouviram?***
 
-Ou ***a partir da fé*** em um artigo ***para a fé*** em outro, porque para a justificação se requer a fé em todos os artigos. Apocalipse 1:3: *bem-aventurado aquele que lê e ouve as palavras desta profecia*.
+Ou ***da fé*** em um artigo ***para a fé*** em outro, porque para a justificação se requer a fé em todos os artigos. Apocalipse 1:3: *bem-aventurado aquele que lê e ouve as palavras desta profecia*.
 
-De outro modo, pode ser entendido ***a partir da fé*** presente ***para a fé*** futura, isto é, para a plena visão de Deus, que se chama fé em razão do conhecimento certo e firme, ao passo que a presente assim se chama em razão do conhecimento evangélico. 1 Coríntios 13:12: *agora vemos por um espelho, em enigma; então, porém, face a face*.
+De outro modo, pode ser entendido ***da fé*** presente ***para a fé*** futura, isto é, para a plena visão de Deus, que se chama fé em razão do conhecimento certo e firme, ao passo que a presente assim se chama em razão do conhecimento evangélico. 1 Coríntios 13:12: *agora vemos por um espelho, em enigma; então, porém, face a face*.
 
-**104.** Prova essa explicação quando acrescenta: ***como está escrito: o meu justo, porém, vive a partir da fé***. Isso é tomado segundo o texto dos Setenta. Pois em nosso texto, que segue a verdade hebraica, se diz: *o justo vive a partir de sua fé*.
+**104.** Prova essa explicação quando acrescenta: ***como está escrito: o meu justo, porém, vive da fé***. Isso é tomado segundo o texto dos Setenta. Pois em nosso texto, que segue a verdade hebraica, se diz: *o justo vive de sua fé*.
 
-Diz-se ***meu justo***, isto é, justificado por mim e considerado justo diante de mim; adiante, em 4:2 e seguintes: ***se Abraão foi justificado pelas obras*** da Lei, ***tem de que se gloriar, mas não diante de Deus. Pois que diz a Escritura? Abraão creu em Deus, e isso lhe foi reputado como justiça***. Por isso, acrescenta: ***vive a partir da fé***, isto é, da vida da graça. Gálatas 2:20: *a vida que agora vivo na carne, vivo-a na fé do Filho de Deus*.
+Diz-se ***meu justo***, isto é, justificado por mim e considerado justo diante de mim; adiante, em 4:2 e seguintes: ***se Abraão foi justificado pelas obras*** da Lei, ***tem de que se gloriar, mas não diante de Deus. Pois que diz a Escritura? Abraão creu em Deus, e isso lhe foi reputado como justiça***. Por isso, acrescenta: ***vive da fé***, isto é, da vida da graça. Gálatas 2:20: *a vida que agora vivo na carne, vivo-a na fé do Filho de Deus*.
 
 **105.** Aqui, porém, é preciso considerar quatro coisas a respeito da fé.
 
@@ -630,7 +630,7 @@ Com efeito, a virtude é princípio de um ato perfeito. Ora, um ato que depende 
 
 **107.** Terceiro, deve-se considerar que o mesmo hábito de fé, numericamente, que sem a caridade era informe, torna-se virtude com a chegada da caridade; pois, como a caridade está fora da essência da fé, sua chegada e sua perda não mudam a substância da fé.
 
-**108.** Quarto, deve-se considerar que, assim como o corpo vive pela alma com a vida natural, assim a alma vive por Deus com a vida da graça. Ora, Deus habita primeiramente na alma pela fé; Efésios 3:17: *que Cristo habite pela fé em vossos corações*. Essa habitação, porém, não é perfeita se a fé não for formada pela caridade, que nos une a Deus pelo vínculo da perfeição, como se diz em Colossenses 3:14. Por isso, o que aqui diz, ***vive a partir da fé***, deve ser entendido da fé formada.
+**108.** Quarto, deve-se considerar que, assim como o corpo vive pela alma com a vida natural, assim a alma vive por Deus com a vida da graça. Ora, Deus habita primeiramente na alma pela fé; Efésios 3:17: *que Cristo habite pela fé em vossos corações*. Essa habitação, porém, não é perfeita se a fé não for formada pela caridade, que nos une a Deus pelo vínculo da perfeição, como se diz em Colossenses 3:14. Por isso, o que aqui diz, ***vive da fé***, deve ser entendido da fé formada.
 
 **109.** Depois, quando diz: ***pois a ira de Deus se revela***, prova o que dissera, a saber, que o poder da graça evangélica é para a salvação de todos os homens.
 
@@ -938,7 +938,7 @@ De outro modo, diz-se que algo é contra a natureza do homem em razão do gêner
 
 **151.** Depois, quando diz: ***e a recompensa***, mostra que essa pena é conveniente à culpa, dizendo: ***recebendo em si mesmos***, isto é, na deformação de sua natureza, ***a recompensa de seu erro***, a saber, daquele pelo qual trocaram a verdade de Deus pela mentira; ***a recompensa***, isto é, a retribuição, ***devida***, ou seja, que lhes cabia receber segundo a ordem da justiça, pela qual era devido que aqueles que haviam injuriado a natureza de Deus, atribuindo às criaturas o que lhe é próprio, desonrassem sua própria natureza.
 
-Embora ***recompensa*** pareça propriamente significar algo bom, aqui, porém, é tomada por qualquer retribuição, mesmo nos males, do modo como se diz adiante, em 6:23: ***os estipêndios do pecado são a morte***. Miqueias 1:7: *suas recompensas serão queimadas no fogo*.
+Embora ***recompensa*** pareça propriamente significar algo bom, aqui, porém, é tomada por qualquer retribuição, mesmo nos males, do modo como se diz adiante, em 6:23: ***o salário do pecado é a morte***. Miqueias 1:7: *suas recompensas serão queimadas no fogo*.
 
 Deve-se notar que o Apóstolo apresenta, com bastante razão, os vícios contra a natureza, que são os mais graves entre os pecados carnais, como pena da idolatria, porque parecem ter começado juntamente com a idolatria, a saber, no tempo de Abraão, quando se crê que a idolatria começou. Por isso, também então se lê pela primeira vez que foram punidos nos sodomitas, como em Gênesis 19. Também esses vícios cresceram à medida que crescia a idolatria. Por isso, diz-se em 2 Macabeus 4:12 e seguintes que Jasão *ousou colocar nos prostíbulos, sob a própria cidadela, os melhores dentre os jovens*. Isso, porém, não era o início, mas certo crescimento e avanço dos costumes gentios e estrangeiros.
 
@@ -1034,7 +1034,7 @@ A esse respeito, devem-se considerar três coisas.
 
 Primeiro, seu afeto natural, porque, embora conhecessem Deus como justo e dotado de todas as demais perfeições, não acreditaram que ele infligisse pena pelos pecados. Sofonias 1:12: *dizem em seus corações: o Senhor não fará mal*. É isso o que diz: ***os quais, tendo conhecido a justiça de Deus, não entenderam***.
 
-**167.** Segundo, a pena devida a seus pecados, quando diz: ***são dignos de morte***. Adiante, em 6:23: ***os estipêndios do pecado são a morte***.
+**167.** Segundo, a pena devida a seus pecados, quando diz: ***são dignos de morte***. Adiante, em 6:23: ***o salário do pecado é a morte***.
 
 Pois é justo que a alma que abandona Deus seja abandonada por seu corpo pela morte corporal e, finalmente, seja abandonada por Deus pela morte eterna, da qual se diz no Salmo 33:22: *a morte dos pecadores é péssima*; e em Apocalipse 20:6: *sobre estes a segunda morte não terá poder*.
 

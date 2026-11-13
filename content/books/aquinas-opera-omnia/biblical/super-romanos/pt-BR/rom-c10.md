@@ -500,7 +500,7 @@ Lição 5
 
 > ^9:29^ e, como predisse Isaías: *Se o Senhor dos Exércitos não nos tivesse deixado uma descendência, teríamos nos tornado como Sodoma e seríamos semelhantes a Gomorra*. [n. 806]
 
-> ^9:30^ Que diremos, então? Que os gentios, que não buscavam a justiça, alcançaram a justiça, mas a justiça que se origina a partir da fé. [n. 807]
+> ^9:30^ Que diremos, então? Que os gentios, que não buscavam a justiça, alcançaram a justiça, mas a justiça que vem da fé. [n. 807]
 
 > ^9:31^ Israel, porém, buscando a lei da justiça, não chegou à lei da justiça. [n. 809]
 
@@ -590,7 +590,7 @@ em segundo lugar, quanto aos judeus, onde diz: ***Israel, porém***, etc.
 
 Primeiro, conclui o que pretende, dizendo: ***Que diremos, então***, considerando o que foi dito? Diremos isto: ***Que os gentios alcançaram***, isto é, obtiveram, a justiça, a saber, aquela pela qual são chamados filhos. 1 Coríntios 6:11: *E isso é o que fostes, mas fostes justificados*. E isso se deu pelo chamado da eleição divina, não pelos méritos, como fica claro pelo que diz: ***Os quais não buscavam a justiça***, segundo aquilo de Efésios 2:12: *Naquele tempo estáveis sem Cristo, alheios à comunidade de Israel*.
 
-Em segundo lugar, explica o que havia dito: ***A justiça, porém, que se origina a partir da fé***, não aquela que consiste nas obras. Pois os gentios não se converteram para observar a justiça da Lei, mas para serem justificados pela fé em Cristo. Acima, Romanos 3:22: ***A justiça de Deus pela fé em Jesus Cristo***.
+Em segundo lugar, explica o que havia dito: ***A justiça, porém, que vem da fé***, não aquela que consiste nas obras. Pois os gentios não se converteram para observar a justiça da Lei, mas para serem justificados pela fé em Cristo. Acima, Romanos 3:22: ***A justiça de Deus pela fé em Jesus Cristo***.
 
 **809.** Em seguida, quando diz: ***Israel, porém***, etc., apresenta a conclusão quanto aos judeus.
 

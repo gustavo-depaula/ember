@@ -16,7 +16,7 @@
 
 > ^10:5^ Pois Moisés escreveu que, quanto à justiça que vem da Lei, *o homem que a praticar viverá nela*. [n. 820]
 
-> ^10:6^ Mas a justiça que se origina a partir da fé diz assim: *Não digas* em teu coração: *Quem subirá ao céu?* Isto é, para fazer Cristo descer; [n. 823]
+> ^10:6^ Mas a justiça que vem da fé diz assim: *Não digas* em teu coração: *Quem subirá ao céu?* Isto é, para fazer Cristo descer; [n. 823]
 
 > ^10:7^ ou: *Quem descerá ao abismo?* Isto é, para trazer Cristo de volta dentre os mortos.
 
@@ -42,7 +42,7 @@ em segundo lugar, mostra que não é inteiramente desculpável, onde diz: ***Mas
 
 Quanto ao primeiro ponto, faz duas coisas.
 
-Primeiro, mostra que tem um afeto de compaixão pelos judeus;
+Primeiro, mostra que tem um sentimento de compaixão pelos judeus;
 
 em segundo lugar, mostra a causa dessa compaixão, onde diz: ***Pois dou testemunho a respeito deles***, etc.
 
@@ -50,7 +50,7 @@ em segundo lugar, mostra a causa dessa compaixão, onde diz: ***Pois dou testemu
 
 E não é apenas o desejo que se dirige à salvação deles, mas também o efeito desse desejo; por isso acrescenta: ***E a súplica***, a saber, a minha, ***é feita a Deus por eles, para sua salvação***. 1 Samuel 12:23: *Longe de mim este pecado contra o Senhor: deixar de orar por vós*. Tiago, último capítulo: *Orai uns pelos outros para que sejais salvos*.
 
-Disso fica claro que se deve orar pelos infiéis para que sejam salvos, porque também a própria fé é dom de Deus. Efésios 2:8: *Fostes salvos pela graça, pela fé, e isso não vem de vós, pois é dom de Deus*.
+Disso fica claro que se deve orar pelos infiéis para que sejam salvos, porque também a própria fé é dom de Deus. Efésios 2:8: *Fostes salvos pela graça, mediante a fé, e isso não vem de vós, pois é dom de Deus*.
 
 **815.** Em seguida, quando diz: ***Testemunho***, etc., apresenta a causa de sua compaixão, a saber, que pecavam não por malícia deliberada, mas por ignorância.
 
@@ -86,7 +86,7 @@ Contudo, a Lei não podia realizar essa justiça por si mesma, porque *a Lei nã
 
 Primeiro, portanto, mostra por suas palavras a condição da justiça da Lei;
 
-em segundo lugar, a condição da justiça da fé, onde diz: ***Mas a que se origina a partir da fé***, etc.
+em segundo lugar, a condição da justiça da fé, onde diz: ***Mas a que vem da fé***, etc.
 
 **821.** Diz, portanto, primeiro: distingui com razão a justiça humana da justiça de Deus, ***pois Moisés escreveu***, em Levítico 18:5, ***que o homem que praticar a justiça que vem da Lei viverá nela***. Nesse lugar, nosso texto traz: *Guardai minhas leis e meus juízos, que o homem, praticando-os, viverá neles*. E Ezequiel 20:13: *Rejeitaram meus juízos, que o homem, praticando-os, viverá neles*, porque o homem alcançava esta vantagem pela observância da Lei: não ser morto como transgressor da Lei. Hebreus 10:28: *Quem viola a Lei de Moisés morre sem nenhuma misericórdia*. Levítico 20:9: *Quem amaldiçoar o pai ou a mãe seja condenado à morte*, e assim quanto aos demais preceitos.
 
@@ -96,13 +96,13 @@ Mas parece contrário a isso o que o Senhor diz em Mateus 19:16 e seguintes, qua
 
 Essas coisas, porém, devem ser entendidas segundo o sentido espiritual da Lei, que diz respeito à fé em Cristo. Mas o que se diz aqui se refere ao sentido interior da Lei, segundo o qual a Lei não fazia menção da vida eterna.
 
-**823.** Em seguida, quando diz: ***Mas a justiça que se origina a partir da fé***, etc., apresenta uma passagem de Moisés sobre a justiça da fé.
+**823.** Em seguida, quando diz: ***Mas a justiça que vem da fé***, etc., apresenta uma passagem de Moisés sobre a justiça da fé.
 
 E primeiro Moisés mostra a certeza da fé que deve existir no coração do homem;
 
 em segundo lugar, o efeito da fé, onde diz: ***Mas que diz a Escritura***, etc.
 
-**824.** Diz, portanto, primeiro: Moisés não fala somente da justiça da Lei, mas ele mesmo também fala assim da justiça que se origina a partir da fé. ***Mas a justiça que se origina a partir da fé diz assim***, isto é, assim fala no coração do homem: ***Não digas em teu coração***, a saber, duvidando: ***Quem subiu ao céu?***, como se considerasses isso impossível, assim como se pergunta em Provérbios 30:4: *Quem subiu ao céu e desceu?* Pois considerar isso impossível é ***fazer Cristo descer*** do céu, isto é, afirmar que Cristo não está no céu, contra o que se diz em João 3:13: *Ninguém subiu ao céu, senão aquele que desceu do céu, o Filho do homem que está no céu*. Efésios 4:9: *Aquele que desceu é o mesmo que também subiu acima de todos os céus*.
+**824.** Diz, portanto, primeiro: Moisés não fala somente da justiça da Lei, mas ele mesmo também fala assim da justiça que vem da fé. ***Mas a justiça que vem da fé diz assim***, isto é, assim fala no coração do homem: ***Não digas em teu coração***, a saber, duvidando: ***Quem subiu ao céu?***, como se considerasses isso impossível, assim como se pergunta em Provérbios 30:4: *Quem subiu ao céu e desceu?* Pois considerar isso impossível é ***fazer Cristo descer*** do céu, isto é, afirmar que Cristo não está no céu, contra o que se diz em João 3:13: *Ninguém subiu ao céu, senão aquele que desceu do céu, o Filho do homem que está no céu*. Efésios 4:9: *Aquele que desceu é o mesmo que também subiu acima de todos os céus*.
 
 Ou ainda, ***não digas***: ***Quem desceu ao abismo***, isto é, à morada dos mortos, como se considerasses isso impossível; pois negar isso ***é trazer Cristo de volta dentre os mortos***, a saber, negar que ele tenha morrido. Pois, ao morrer, ele desceu ao abismo. Eclesiástico 24:45: *Penetrarei as partes inferiores da terra*.
 
@@ -202,7 +202,7 @@ Em segundo lugar, prova por um argumento que se apoia em duas razões, a primeir
 
 Em terceiro lugar, prova o mesmo pela autoridade de Joel 2:32: *Todo aquele que invocar o nome do Senhor será salvo*. Ora, invocar é chamar para dentro de si pelo afeto e pelo culto devoto. Salmo 90:15: *Ele me invocará, e eu o atenderei*.
 
-**835.** Em seguida, quando diz: ***Como, então, invocarão***, etc., apresenta a ordem pela qual alguém é chamado à salvação que se origina a partir da fé.
+**835.** Em seguida, quando diz: ***Como, então, invocarão***, etc., apresenta a ordem pela qual alguém é chamado à salvação que vem da fé.
 
 E, a esse respeito, faz duas coisas.
 
@@ -218,7 +218,7 @@ em segundo lugar, confirma pela autoridade o que havia pressuposto, onde diz: **
 
 **836.** Apresenta primeiro cinco coisas em ordem, começando pela invocação, à qual, segundo a autoridade do profeta, se segue a salvação.
 
-Diz, portanto: ***Como, então, invocarão aquele em quem não creram?*** Como se dissesse: sem dúvida, a invocação não pode produzir a salvação se a fé não a preceder. Ora, a invocação pertence à confissão da boca que procede a partir da fé do coração. Salmo 115:10: *Cri, por isso falei*. 2 Coríntios 4:13: *Nós cremos, por isso também falamos*.
+Diz, portanto: ***Como, então, invocarão aquele em quem não creram?*** Como se dissesse: sem dúvida, a invocação não pode produzir a salvação se a fé não a preceder. Ora, a invocação pertence à confissão da boca que procede da fé do coração. Salmo 115:10: *Cri, por isso falei*. 2 Coríntios 4:13: *Nós cremos, por isso também falamos*.
 
 **837.** Em segundo lugar, sobe ou passa da fé ao ouvir, dizendo: ***Ou como crerão naquele a quem não ouviram?*** Pois se diz que o homem crê naquilo que lhe é dito por outros e que ele próprio não vê. João 4:42: *Já não cremos por causa de tuas palavras; pois nós mesmos ouvimos e sabemos que este é verdadeiramente o Salvador do mundo*, etc.
 

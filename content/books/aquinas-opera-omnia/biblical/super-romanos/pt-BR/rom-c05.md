@@ -104,7 +104,7 @@ Diz, pois: ***Ora, àquele que trabalha***, isto é, se alguém fosse justificad
 
 E essa explicação é literal e conforme à intenção do Apóstolo, que põe a força do argumento no que foi dito em Gênesis 15:6: ***Isso lhe foi considerado como justiça***, expressão que se costuma empregar quando aquilo que alguém fez a menos lhe é levado em conta gratuitamente, como se tivesse feito tudo.
 
-Por isso, o Apóstolo diz que essa consideração não teria lugar se a justiça viesse das obras, mas somente tem lugar enquanto se origina a partir da fé.
+Por isso, o Apóstolo diz que essa consideração não teria lugar se a justiça viesse das obras, mas somente tem lugar enquanto vem da fé.
 
 **332.** Em seguida, ao dizer: ***Assim também Davi***, demonstra a afirmação condicional anterior pela autoridade do Salmo.
 
@@ -326,7 +326,7 @@ terceiro, por quem deve ser cumprida, ao dizer: ***Que vivifica os mortos***, et
 
 Pois parece necessário que a promessa se cumpra ou pela fé ou pela Lei; mas não pela Lei, porque a promessa seria abolida. Daí conclui: ***Por isso, a partir da fé***, isto é, alcançamos a promessa de sermos herdeiros do mundo. João 5:4: *Esta é a vitória que vence o mundo*, etc.
 
-E confirma isso por um termo médio contrário àquele que havia empregado acima. Pois foi dito que, se a justiça viesse da Lei, a promessa seria abolida; mas, se se origina a partir da fé, a promessa permanece firme em virtude da graça divina que justifica o homem pela fé. É isso que diz: ***Para que a promessa*** de Deus ***seja firme***, não pelas obras dos homens, que podem falhar, mas ***segundo a graça***, que é infalível. 2 Coríntios 12:9: *Basta-te minha graça*, etc. 2 Coríntios 1:20: *Todas as promessas, nele*, isto é, em Cristo, *são*, isto é, têm verdade.
+E confirma isso por um termo médio contrário àquele que havia empregado acima. Pois foi dito que, se a justiça viesse da Lei, a promessa seria abolida; mas, se vem da fé, a promessa permanece firme em virtude da graça divina que justifica o homem pela fé. É isso que diz: ***Para que a promessa*** de Deus ***seja firme***, não pelas obras dos homens, que podem falhar, mas ***segundo a graça***, que é infalível. 2 Coríntios 12:9: *Basta-te minha graça*, etc. 2 Coríntios 1:20: *Todas as promessas, nele*, isto é, em Cristo, *são*, isto é, têm verdade.
 
 **361.** Em seguida, ao dizer: ***Para toda a descendência***, etc., mostra em quem se cumpre a referida promessa.
 
@@ -338,7 +338,7 @@ Há, com efeito, uma descendência carnal, segundo aquilo de João 8:33: *Somos 
 
 Assim, se a promessa viesse somente pela Lei, não se cumpriria em toda a descendência, mas somente na carnal. Como, porém, se cumpre pela fé, que é comum a todos, é claro que se cumpre em toda a descendência.
 
-**363.** Terceiro, ao dizer: ***Que é pai***, etc., demonstra o que havia suposto, isto é, que a descendência de Abraão não é somente a que vem da Lei, mas também a que se origina a partir da fé, pela autoridade da Escritura, cujo sentido apresenta primeiro, dizendo: ***Que***, isto é, Abraão, ***é pai de todos nós***, ou seja, de todos os que creem, tanto judeus como gentios. Acima, neste mesmo capítulo: ***Para ser pai de todos os que creem***. Isaías 51:2: *Olhai para Abraão, vosso pai*.
+**363.** Terceiro, ao dizer: ***Que é pai***, etc., demonstra o que havia suposto, isto é, que a descendência de Abraão não é somente a que vem da Lei, mas também a que vem da fé, pela autoridade da Escritura, cujo sentido apresenta primeiro, dizendo: ***Que***, isto é, Abraão, ***é pai de todos nós***, ou seja, de todos os que creem, tanto judeus como gentios. Acima, neste mesmo capítulo: ***Para ser pai de todos os que creem***. Isaías 51:2: *Olhai para Abraão, vosso pai*.
 
 Segundo, apresenta a autoridade, dizendo: ***Como está escrito***, em Gênesis 17:4: ***Eu te fiz pai de muitas nações***. Outra versão tem: ***Eu te constituí***, o que não muda o sentido. Eclesiástico 44:20: *Abraão, grande pai de uma multidão de nações*.
 

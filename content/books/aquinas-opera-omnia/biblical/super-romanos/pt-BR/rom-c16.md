@@ -146,7 +146,7 @@ Lição 2
 
 ***Paulo é apóstolo dos gentios***
 
-^15:14^ Eu mesmo, meus irmãos, estou certo a vosso respeito de que também vós estais cheios de amor, repletos de toda ciência, de modo que podeis admoestar-vos uns aos outros. [n. 1163]
+^15:14^ Eu mesmo, meus irmãos, estou certo a vosso respeito de que também vós estais cheios de amor, repletos de todo conhecimento, de modo que podeis admoestar-vos uns aos outros. [n. 1163]
 
 > ^15:15^ Escrevi-vos, porém, irmãos, com maior ousadia, em parte, como quem vos faz recordar, por causa da graça [n. 1165] que me foi dada por Deus, [n. 1167]
 
@@ -186,9 +186,9 @@ segundo, apresenta a verdadeira razão, onde diz: ***Escrevi-vos, com efeito, ir
 
 Para que alguém admoeste corretamente, requerem-se duas coisas, a primeira das quais é que admoeste não por ódio ou ira, mas por amor, segundo aquilo do Salmo 140:6: *O justo me corrigirá com misericórdia*. E Gálatas 6:1: *Vós, que sois espirituais, instruí tal pessoa com espírito de mansidão*. Quanto a isso, diz: ***De que também vós estais cheios de amor***. Ezequiel 10:2: *Enche tua mão com as brasas de fogo que estão entre os querubins*, que é o fogo da caridade.
 
-Segundo, requer-se a ciência da verdade, porque alguns têm zelo por Deus ao corrigir, mas não segundo a ciência, como foi dito acima, em 10:2. Por isso, acrescenta: ***Repletos de toda ciência***, isto é, humana e divina, tanto da antiga como da nova Lei. 1 Coríntios 1:5: *Em tudo fostes enriquecidos nele, em toda palavra e em toda ciência*.
+Segundo, requer-se o conhecimento da verdade, porque alguns têm zelo por Deus ao corrigir, mas não segundo o conhecimento, como foi dito acima, em 10:2. Por isso, acrescenta: ***Repletos de todo conhecimento***, isto é, humano e divino, tanto da antiga como da nova Lei. 1 Coríntios 1:5: *Em tudo fostes enriquecidos nele, em toda palavra e em todo conhecimento*.
 
-E disso conclui assim: ***De modo que podeis***, convenientemente, por causa do amor e da ciência, ***admoestar-vos uns aos outros***. Com efeito, porque *todos tropeçamos em muitas coisas*, como se diz em Tiago 3:2, é necessário que nos admoestemos mutuamente, pois, como se diz em Eclesiástico 17:12, *Deus deu a cada um um mandamento acerca do seu próximo*.
+E disso conclui assim: ***De modo que podeis***, convenientemente, por causa do amor e do conhecimento, ***admoestar-vos uns aos outros***. Com efeito, porque *todos tropeçamos em muitas coisas*, como se diz em Tiago 3:2, é necessário que nos admoestemos mutuamente, pois, como se diz em Eclesiástico 17:12, *Deus deu a cada um um mandamento acerca do seu próximo*.
 
 **1165.** Depois, quando diz: ***Com maior ousadia***, etc., apresenta a verdadeira razão pela qual os havia admoestado e corrigido.
 

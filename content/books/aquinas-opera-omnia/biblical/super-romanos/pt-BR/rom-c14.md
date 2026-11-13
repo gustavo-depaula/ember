@@ -158,7 +158,7 @@ segundo, exorta a manifestá-lo, onde diz ***dai, portanto***, etc.
 
 **1039.** Segundo, indica a razão, dizendo: ***Pois são ministros de Deus, dedicados a esse mesmo serviço***, isto é, em troca disso, a saber, de receber os tributos, prestam serviço a Deus e ao povo.
 
-Como se dissesse: cada um deve viver de seu ministério, segundo aquilo de 1 Coríntios 9:7: *Quem apascenta um rebanho e não se alimenta de seu leite?* Por isso, como nossos governantes servem a Deus por seu governo, devem receber tributos do povo como estipêndios de seu ministério, sem, contudo, considerá-los seu prêmio. Com efeito, o prêmio próprio do governante é o louvor e a honra, como diz o Filósofo no livro V da *Ética*. E, quando isso não lhe basta, torna-se tirano. Mas isso não deve ser entendido apenas do louvor ou da honra humanos, porque tal prêmio seria vão, e sim do louvor e da honra divinos, concedidos aos governantes que governam bem. Sabedoria 6:22: *Ó reis do povo, amai a sabedoria, para que reineis perpetuamente*.
+Como se dissesse: cada um deve viver de seu ministério, segundo aquilo de 1 Coríntios 9:7: *Quem apascenta um rebanho e não se alimenta de seu leite?* Por isso, como nossos governantes servem a Deus por seu governo, devem receber tributos do povo como remuneração de seu ministério, sem, contudo, considerá-los seu prêmio. Com efeito, o prêmio próprio do governante é o louvor e a honra, como diz o Filósofo no livro V da *Ética*. E, quando isso não lhe basta, torna-se tirano. Mas isso não deve ser entendido apenas do louvor ou da honra humanos, porque tal prêmio seria vão, e sim do louvor e da honra divinos, concedidos aos governantes que governam bem. Sabedoria 6:22: *Ó reis do povo, amai a sabedoria, para que reineis perpetuamente*.
 
 Ora, recebem esses tributos para seu sustento, e os governantes trabalham pela paz de todos. Por isso se diz em 1 Timóteo 2:1 e seguinte: *Peço, antes de tudo, que se façam súplicas pelos reis e por todos os constituídos em posições elevadas, para que levemos uma vida quieta e tranquila*. Baruc 1:11 e seguinte: *Orai pela vida de Nabucodonosor, rei da Babilônia, para que vivamos à sua sombra*.
 
@@ -166,7 +166,7 @@ Ora, recebem esses tributos para seu sustento, e os governantes trabalham pela p
 
 Isso é justo porque, assim como os reis cuidam do bem público nas coisas temporais, assim os ministros de Deus o fazem nas espirituais; e, desse modo, pelo serviço que prestam a Deus nas coisas espirituais, retribuem ao rei o trabalho que ele realiza pela paz deles.
 
-**1041.** Deve-se observar, porém, que, como o Apóstolo diz que os tributos são devidos aos reis como estipêndio de seu trabalho, os governantes podem pecar de dois modos ao recebê-los.
+**1041.** Deve-se observar, porém, que, como o Apóstolo diz que os tributos são devidos aos reis como remuneração de seu trabalho, os governantes podem pecar de dois modos ao recebê-los.
 
 Primeiro, se não procuram a utilidade do povo, mas visam somente a saquear seus bens. Por isso se diz em Ezequiel 34:3: *Comíeis o leite e vos cobríeis com a lã, e matáveis o que era gordo, mas não apascentáveis meu rebanho*.
 

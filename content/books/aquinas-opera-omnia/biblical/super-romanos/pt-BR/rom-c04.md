@@ -380,7 +380,7 @@ Lição 3
 
 > ^3:25^ a quem Deus propôs como propiciação, pela fé em seu sangue, para manifestar sua justiça, em razão da remissão dos delitos anteriores, [n. 310]
 
-> ^3:26^ na tolerância de Deus, para manifestar sua justiça neste tempo, a fim de que ele seja justo e justifique aquele que vive a partir da fé de Jesus Cristo. [n. 311]
+> ^3:26^ na tolerância de Deus, para manifestar sua justiça neste tempo, a fim de que ele seja justo e justifique aquele que vive da fé de Jesus Cristo. [n. 311]
 
 > **299.** Depois de mostrar que judeus e gentios são iguais quanto ao estado de culpa anterior, o Apóstolo mostra aqui que são iguais quanto ao estado de graça subsequente.
 
@@ -446,7 +446,7 @@ Aqui, primeiro, mostra que essa justificação se dá ***sem a Lei***, isto é, 
 
 **307.** Segundo, mostra qual é a causa da justificação. Primeiro, apresenta a própria causa, ao dizer: ***Pela redenção***.
 
-Pois, como se diz em João 8:34: *Quem comete pecado é servo do pecado*. O homem é resgatado dessa servidão se satisfaz pelo pecado. Assim, se alguém, por uma culpa cometida, estivesse obrigado a pagar uma quantia ao rei, dir-se-ia que o resgatava dessa obrigação aquele que pagasse a quantia por ele. Ora, essa obrigação recaía sobre todo o gênero humano, que estava contaminado pelo pecado do primeiro pai. Por isso, nenhum outro podia satisfazer pelo pecado de todo o gênero humano, senão somente Cristo, que era imune a todo pecado.
+Pois, como se diz em João 8:34: *Quem comete pecado é servo do pecado*. O homem é resgatado dessa escravidão se satisfaz pelo pecado. Assim, se alguém, por uma culpa cometida, estivesse obrigado a pagar uma quantia ao rei, dir-se-ia que o resgatava dessa obrigação aquele que pagasse a quantia por ele. Ora, essa obrigação recaía sobre todo o gênero humano, que estava contaminado pelo pecado do primeiro pai. Por isso, nenhum outro podia satisfazer pelo pecado de todo o gênero humano, senão somente Cristo, que era imune a todo pecado.
 
 Por isso acrescenta: ***Que há em Cristo Jesus***. Como se dissesse: em nenhum outro podia haver redenção para nós. 1 Pedro 1:18: *Não por coisas corruptíveis, ouro ou prata*.
 
@@ -482,7 +482,7 @@ Foi necessário, porém, que os pecados anteriores permanecessem até esse tempo
 
 Por isso acrescenta: ***A fim de que ele seja justo***, isto é, para que, pela remissão dos pecados, Deus apareça como justo em si mesmo, tanto porque perdoa os pecados como prometera, como porque pertence à justiça de Deus destruir os pecados, reconduzindo os homens à justiça de Deus. Salmo 10:8: *O Senhor é justo e amou as ações justas*.
 
-E também ***para que justifique aquele que vive a partir da fé de Jesus Cristo***, isto é, que pela fé de Jesus Cristo se aproxima de Deus. Hebreus 11:6: *Pois é necessário que aquele que se aproxima de Deus creia*.
+E também ***para que justifique aquele que vive da fé de Jesus Cristo***, isto é, que pela fé de Jesus Cristo se aproxima de Deus. Hebreus 11:6: *Pois é necessário que aquele que se aproxima de Deus creia*.
 
 Lição 4
 
