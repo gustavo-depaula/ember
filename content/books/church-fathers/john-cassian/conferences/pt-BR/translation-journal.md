@@ -28,7 +28,7 @@ Destino: pt-BR.
 | practical life / contemplation | vida prática / contemplação | |
 | self-denial | renúncia a si mesmo | Ajustada sintaticamente ao contexto. |
 | compunction | compunção | |
-| free will | livre-arbítrio | |
+| free will | livre-arbítrio | Na locução “of one's own free will”, admitem-se “por livre vontade” e “de livre vontade”, no sentido de voluntariamente. |
 | kingdom of God / kingdom of heaven | reino de Deus / reino dos céus | |
 | natural body / spiritual body | corpo natural / corpo espiritual | Vocabulário da fonte em 1 Coríntios 15:44. |
 | dispensation | dispensação | Ordenação divina dos dons e da salvação. |
@@ -192,7 +192,7 @@ Destino: pt-BR.
 | chastity / purity | castidade / pureza | Mantida a distinção lexical da fonte. |
 | sevenfold spirit | Espírito septiforme | Expressão da exposição de Isaías 11:2-3. |
 | grace / free grace | graça / graça gratuita | Preservado o caráter gratuito explicitado pela fonte. |
-| free will / freedom of the will | livre-arbítrio / liberdade da vontade | Mantida a alternância da fonte. |
+| free will / freedom of the will | livre-arbítrio / liberdade da vontade | Mantida a alternância da fonte. Na locução “of one's own free will”, admitem-se “por livre vontade” e “de livre vontade”, no sentido de voluntariamente. |
 | good will | boa vontade | Disposição da vontade para o bem. |
 | Divine protection / Providence | proteção divina / providência | Termos centrais da Conferência 13. |
 | original or actual sin | pecado original ou pecados pessoais | “Actual” designa os pecados praticados pela pessoa. |
@@ -652,3 +652,91 @@ Verdict: 2 meaning-level, 0 minor. Leitura integral dos 260 blocos de ch020–ch
 Verdict: 0 meaning-level, 0 minor. Delta read of ch022 [29]–[31] and [59]–[61]: both previous fixes ([30] purpose clause, [60] dangling participle) are correct and their sentences intact; no defects found.
 - Rejected: pt-BR/ch022.md [60] — 'persuadindo-os … e pintando-os em seu coração' could read as if the second 'os' meant the persons rather than the deserts — 'como se estivessem semeados de delícias maravilhosas' fixes the referent as the deserts, matching the source's 'portraying them'; the sentence is understood correctly
 - Rejected: pt-BR/ch022.md [60] — 'como já não estará sujeito' uses the future where the source has the present 'is liable' — the whole consequence in the source is future ('will not even allow', 'will never suffer'); the future keeps the sequence coherent without changing the sense
+
+### Part terms 1 of 5, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 12 minor. 65 flags lidos em 40 parágrafos; 10 flags com desvio, corrigidos em 12 substituições.
+- `pt-BR/ch002.md` [43]: “mas o entregaste, abatido e num desespero destrutivo,” → “mas o entregaste, na tristeza e num desespero destrutivo,” — *dejection* → “tristeza” (Key Terms); estava “abatido”
+- `pt-BR/ch003.md` [15]: “para nos entregarmos a esse propósito e a essa vocação” → “para nos entregarmos a esse objetivo e a essa vocação” — *aim* → “objetivo” (Key Terms), aqui referente à vida monástica; estava “propósito”
+- `pt-BR/ch003.md` [18]: “ter-se convertido não por vontade própria, mas por força e coação” → “ter-se convertido não por seu próprio livre-arbítrio, mas por força e coação” — *free will* → “livre-arbítrio” (Key Terms); estava “vontade própria”
+- `pt-BR/ch003.md` [18]: “a Judas ter abraçado por vontade própria o mais alto grau do apostolado” → “a Judas ter abraçado por seu próprio livre-arbítrio o mais alto grau do apostolado” — *free will* → “livre-arbítrio” (Key Terms); estava “vontade própria”
+- `pt-BR/ch003.md` [42]: “antes, pediam-na ao Senhor, dizendo:” → “antes, oravam ao Senhor por ela, dizendo:” — *prayed* → “oravam”, forma verbal correspondente a “oração” (Key Terms); estava “pediam-na”
+- `pt-BR/ch003.md` [48]: “e ainda assim pedia ao Senhor que os pudesse aprender mais profundamente” → “e ainda assim orava ao Senhor para que os pudesse aprender mais profundamente” — *prayed* → “orava”, forma verbal correspondente a “oração” (Key Terms); estava “pedia”
+- `pt-BR/ch003.md` [48]: “E Davi, sabendo disso, pede igualmente que a mesma coisa lhe seja concedida” → “E Davi, sabendo disso, ora igualmente para que a mesma coisa lhe seja concedida” — *prays* → “ora”, forma verbal correspondente a “oração” (Key Terms); estava “pede”
+- `pt-BR/ch003.md` [51]: “Mas eu roguei a meu Pai para que tua fé não desfaleça.” → “Mas eu orei a meu Pai para que tua fé não desfaleça.” — *prayed* → “orei”, forma verbal correspondente a “oração” (Key Terms); estava “roguei”
+- `pt-BR/ch003.md` [51]: “que pediam que ela fosse auxiliada ou concedida pelo Senhor” → “que oravam para que ela fosse auxiliada ou concedida pelo Senhor” — *prayed* → “oravam”, forma verbal correspondente a “oração” (Key Terms); estava “pediam”
+- `pt-BR/ch004.md` [8]: “da alegria inexprimível ao extremo abatimento da alma” → “da alegria inexprimível à extrema tristeza da alma” — *dejection* → “tristeza” (Key Terms); estava “abatimento”
+- `pt-BR/ch004.md` [42]: “seja pelo arrependimento que surge” → “seja pela penitência que surge” — *penitence* → “penitência” (Key Terms); estava “arrependimento”
+- `pt-BR/ch005.md` [48]: “Pois o profeta não teria rezado com estas palavras:” → “Pois o profeta não teria orado com estas palavras:” — *prayed* → “orado”, forma verbal correspondente a “oração” (Key Terms); estava “rezado”
+
+### Part terms 1 of 5, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read das 12 mudanças em ch002–ch005: todas corretas; 1 desvio menor da tabela de termos (“vaso escolhido” → “vaso de eleição”) em ch003 [48].
+- `pt-BR/ch003.md` [48]: “como também o “vaso escolhido” declara” → “como também o “vaso de eleição” declara” — source “chosen vessel”; Key Terms fixa “vaso de eleição” como designação de São Paulo
+- Rejected: pt-BR/ch002.md [42] — “rezou com lágrimas” para *prayed*, quando a rodada anterior trocou “rezado” por “orado” em ch005 [48] — “rezar” é verbo correto e não contradiz o termo nominal “oração” da tabela; não é defeito objetivo
+- Rejected: pt-BR/ch002.md [43] — parêntese da fonte em torno da citação “He makes sorry and cures…” virou travessões (flag do audit) — o conteúdo está íntegro; trocar parênteses por travessões é escolha de pontuação
+- Rejected: pt-BR/ch004.md [42] — parêntese “(owing to the fact that…)” omitido (flag do audit) — o conteúdo foi integrado como oração adverbial (“tendo sempre a oportunidade…”), sem perda de sentido
+
+### Part terms 1 of 5, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente os parágrafos 47–49 de ch003.md; a alteração para “vaso de eleição” está correta e não foram encontrados novos defeitos.
+- Rejected: pt-BR/ch003.md [48] — O número de marcadores de ênfase difere da fonte. — Os marcadores põem a expressão grega em itálico, conforme a regra editorial, sem alterar seu conteúdo.
+
+### Part terms 2 of 5, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 1 minor. 45 parágrafos sinalizados lidos; 1 desvio de glossário confirmado.
+- `pt-BR/ch009.md` [90]: “pois deles é o reino do céu” → “pois deles é o reino dos céus” — *kingdom of heaven* → “reino dos céus” (Key Terms); estava “reino do céu”.
+
+### Part terms 2 of 5, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read of ch009 [89]–[91]: the previous round's fix is correct; one minor fix for a repeated “leito” in the Psalm 6 quotation.
+- `pt-BR/ch009.md` [90]: “regarei meu leito com minhas lágrimas” → “regarei minha cama com minhas lágrimas” — source distinguishes “bed” and “couch”; the PT repeats “leito” in consecutive clauses
+- Rejected: pt-BR/ch009.md [90] — “pois deles é o reino dos céus” (previous round's fix) — matches the source and the Key Terms row; the sentence's concord and the Mateus 5:3 placement are intact
+- Rejected: pt-BR/ch009.md [90] — “misturei minha bebida com pranto” for “mingled my cup with weeping” — metonymy rendered by its sense; the meaning is kept
+- Rejected: translation-journal Key Terms (audit: royal road, canonical allowance, original or actual sin, prevent, memorial and oblation) — rows with zero occurrences in pt-BR — these terms belong to chapters outside this delta; this round does not show their text, so there is nothing here to verify
+
+### Part terms 2 of 5, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente os parágrafos ch009.md [89]–[91]; alteração validada, sem novos defeitos.
+- Rejected: pt-BR/ch009.md [90] — “regarei minha cama com minhas lágrimas” para “I will water my couch with my tears” — “Cama” é adequado ao contexto; a alteração preserva o sentido e mantém a variação lexical em relação a “leito” na oração anterior.
+
+### Part terms 3 of 5, Round 1 (codex, terms read)
+Verdict: 2 meaning-level, 4 minor. 31 parágrafos sinalizados lidos, com 61 flags de termos; 6 flags eram desvios.
+- `pt-BR/ch011.md` [40]: “passará à comunhão da amizade” → “passará ao companheirismo da amizade” — companionship → “companheirismo” (Key Terms); estava “comunhão”.
+- `pt-BR/ch012.md` [42]: “foi o arrependimento expresso naquela única palavra” → “foi a penitência expressa naquela única palavra” — penitence → “penitência” (Key Terms); estava “arrependimento”.
+- `pt-BR/ch012.md` [54]: “discutir exaustivamente a disposição de Deus” → “discutir exaustivamente a dispensação de Deus” — dispensation → “dispensação” (Key Terms), na ordenação divina da salvação; estava “disposição”.
+- `pt-BR/ch013.md` [14]: “entre muitas vocações e ocupações diferentes” → “entre muitas profissões e ocupações diferentes” — professions → “profissões” (Key Terms): modos de vida e compromissos ascéticos; “vocações” introduz o conceito distinto de chamado. *(meaning)*
+- `pt-BR/ch013.md` [15]: “entre muitas vocações e ocupações diferentes” → “entre muitas profissões e ocupações diferentes” — professions → “profissões” (Key Terms): modos de vida e compromissos ascéticos; estava “vocações”. *(meaning)*
+- `pt-BR/ch013.md` [15]: “o único alvo de seus esforços” → “o único objetivo de seus esforços” — aim → “objetivo” (Key Terms), aqui aplicado à vida anacorética; estava “alvo”.
+
+### Part terms 3 of 5, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of ch011 [39–41], ch012 [41–43, 53–55] and ch013 [13–16]: the six changes (companheirismo, penitência, dispensação, profissões ×2, objetivo) are correct and keep concord; no new defects.
+- Rejected: pt-BR/ch012.md [54] — “forces some even against their will” rendered “impele outros”; “impelir” may seem weaker than “force” — With “mesmo contra sua vontade e apesar de sua resistência”, “impele” keeps the sense of acting against the will. This is a defensible style choice.
+- Rejected: pt-BR/ch012.md [54] — “nothing dearer” rendered “nada mais terno” — The context is the mother's affection, and “terno” keeps the sense of the comparison without misinforming the reader.
+- Rejected: pt-BR/ch012.md [42] — The long source sentence is split at “as it seeks opportunities” — Nothing is lost and the subject (the grace) stays clear. This is a legitimate syntactic restructuring.
+
+### Part terms 4 of 5, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 8 minor. Lidos os 44 parágrafos sinalizados; identificados 8 desvios terminológicos.
+- `pt-BR/ch016.md` [9]: “uma vida e um propósito mais perfeitos” → “uma vida e um objetivo mais perfeitos” — *aim* → “objetivo” (Key Terms); estava “propósito”.
+- `pt-BR/ch016.md` [24]: “pela concentração de tua mente e de teu propósito” → “pela concentração de tua mente e de teu objetivo” — *aim* → “objetivo” (Key Terms); estava “propósito”.
+- `pt-BR/ch016.md` [30]: “orientar nosso caminho e nosso propósito” → “orientar nosso caminho e nosso objetivo” — *aim* → “objetivo” (Key Terms); estava “propósito”.
+- `pt-BR/ch016.md` [45]: “o fim, isto é, o propósito de buscar o bem” → “o fim, isto é, o objetivo de buscar o bem” — *aim* → “objetivo” (Key Terms); estava “propósito”.
+- `pt-BR/ch016.md` [60]: “segundo aquela disposição dos tempos” → “segundo aquela dispensação dos tempos” — *dispensation* → “dispensação” (Key Terms); estava “disposição”, neste contexto de ordenação divina da história da salvação.
+- `pt-BR/ch017.md` [52]: “na companhia dos santos” → “no companheirismo dos santos” — *companionship* → “companheirismo” (Key Terms); estava “companhia”.
+- `pt-BR/ch017.md` [52]: “é apaziguado por uma humilde reparação” → “é apaziguado quando se lhe dá humilde satisfação” — *satisfaction* → “satisfação” (Key Terms); estava “reparação”, no sentido reparador abrangido pela linha.
+- `pt-BR/ch018.md` [9]: “conforme determina nossa própria vontade” → “conforme determina nosso livre-arbítrio” — *free will* → “livre-arbítrio” (Key Terms); estava “própria vontade”.
+
+### Part terms 4 of 5, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of ch016 [9][24][30][45][60], ch017 [52][53] and ch018 [9] with their neighbours: the eight terminology fixes are correct and fit their sentences; no new defects.
+- Rejected: pt-BR/ch017.md [52] — “no companheirismo dos santos” sounds less natural than “na companhia” — It follows the Key Terms row friendship / companionship → amizade / companheirismo, and the sentence stays grammatical and accurate.
+- Rejected: pt-BR/ch017.md [52] — “we need never be shaken” rendered “nunca devemos abandonar” — In context the exhortation has the same sense; a defensible choice, not a mistranslation.
+- Rejected: pt-BR/ch017.md [52] — Eclesiastes 10:2 for the serpent quotation — Kept from the source, as the journal records.
+
+### Part terms 5 of 5, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 6 minor. Lidas 56 sinalizações em 31 parágrafos: 4 desvios de vocabulário e 2 complementos de linhas do glossário.
+- `pt-BR/ch020.md` [27]: “a vã confiança na juventude” → “a vã esperança na juventude” — hope → “esperança” (Key Terms); estava “confiança”.
+- `pt-BR/ch020.md` [102]: “todo o seu propósito e todo o seu desejo” → “todo o seu objetivo e todo o seu desejo” — aim → “objetivo” (Key Terms); estava “propósito”, para o objetivo espiritual da vida de perfeição.
+- `pt-BR/ch021.md` [18]: “Pois que empenho dos santos pode ser tão constante” → “Pois que objetivo dos santos pode ser tão constante” — aim → “objetivo” (Key Terms); estava “empenho”, para o objetivo de permanecer na contemplação.
+- `pt-BR/ch022.md` [81]: “se passar à condição de filho adotivo de Deus” → “se passar à adoção de filhos de Deus” — adoption of sons → “adoção de filhos” (Key Terms); estava parafraseado como “condição de filho adotivo”.
+- `pt-BR/translation-journal.md`: “| free will | livre-arbítrio | |” → “| free will | livre-arbítrio | Na locução “of one's own free will”, admitem-se “por livre vontade” e “de livre vontade”, no sentido de voluntariamente. |” — As ocorrências em ch020 [90] e [102] usam corretamente a locução adverbial de ação voluntária; explicitar esse uso na linha.
+- `pt-BR/translation-journal.md`: “| free will / freedom of the will | livre-arbítrio / liberdade da vontade | Mantida a alternância da fonte. |” → “| free will / freedom of the will | livre-arbítrio / liberdade da vontade | Mantida a alternância da fonte. Na locução “of one's own free will”, admitem-se “por livre vontade” e “de livre vontade”, no sentido de voluntariamente. |” — As ocorrências em ch020 [90] e [102] usam corretamente a locução adverbial de ação voluntária; explicitar esse uso também nesta linha.
+
+### Part terms 5 of 5, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of ch020 [26–28, 101–103], ch021 [17–19] and ch022 [80–82] with their footnotes, plus the journal rows: all six changes are correct against the source and no new defects were found.
+- Rejected: pt-BR/ch021.md [18] — “não pode deixar de nos separar da união com Cristo” adds “nos” to “cannot help separating from union with Christ”. — The English verb needs an object in Portuguese. “Nos” makes the sense explicit without changing it: the body draws the mind away from union with Christ.
+- Rejected: pt-BR/ch022.md [82] — “como Vós quereis” is capitalized, but “daquele que me enviou” in the same paragraph is not. — Reverential capitalization is not normalized under the house rules.
+- Rejected: pt-BR/ch022.md [^3] — The note's claim about counting on the fingers (units and tens on the left hand, hundreds and thousands on the right) needed checking. — It matches the ancient finger-counting system, so the claim is correct.
