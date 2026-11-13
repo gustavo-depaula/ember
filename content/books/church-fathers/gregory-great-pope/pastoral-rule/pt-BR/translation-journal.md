@@ -226,3 +226,35 @@ Verdict: 0 meaning-level, 0 minor. Full read of ch003 [1]-[195] and ch004 [1]-[5
 - Rejected: pt-BR/ch003.md [123] — 'não deixem de atentar apenas para aquilo que nela se diz contra os soberbos' could read as a misplaced 'apenas'. — The sentence correctly says that this is the only part of Scripture they neglect, which matches the source's 'this only thing they attend not to'.
 - Rejected: pt-BR/ch003.md [189] — 'Queres não temer a autoridade?' looks unlike the English 'Will you not be afraid of the power?' — The English 'will' means 'do you wish' (Vulgate 'Vis autem non timere potestatem?'). The Portuguese renders that sense correctly.
 - Rejected: pt-BR/ch003.md [77] — Possible inversion of Titus and Timothy in 'Ao primeiro inflama… ao segundo modera'. — 'Primeiro' refers to Titus, named first in the preceding clause, as 'the former' does in the source.
+
+### Part terms 1 of 2, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 4 minor. 62 sinalizações lidas em 41 parágrafos; 4 desvios.
+- `pt-BR/ch001.md` [19]: “se os castigos não o tivessem chamado” → “se os flagelos não o tivessem chamado” — *scourges* → “flagelos” (Key Terms); estava “castigos”.
+- `pt-BR/ch003.md` [8]: “Os mansos e os irascíveis.” → “Os mansos e os iracundos.” — *the passionate* → “os iracundos” (Key Terms); estava “os irascíveis”.
+- `pt-BR/ch003.md` [8]: “Os glutões e os abstinentes.” → “Os gulosos e os abstinentes.” — *the gluttonous* → “os gulosos” (Key Terms); estava “os glutões”.
+- `pt-BR/ch003.md` [8]: “os pecados cometidos por atos” → “os pecados de ação” — *sins of deed* → “pecados de ação” (Key Terms); estava “pecados cometidos por atos”.
+
+### Part terms 1 of 2, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of ch001 [18–20] and ch003 [7–9]: the four Key Terms fixes are correct and the shown paragraphs are clean.
+- Rejected: pt-BR/ch003.md [8] — “Os sadios e os enfermos” differs from the Key Terms row “os sadios / os doentes” — Same sense. The chapter heading that the list mirrors is not in this delta, so changing the list alone could make it disagree with that heading.
+- Rejected: pt-BR/ch003.md [8] — “Os que vivem em discórdia e os que vivem em paz” differs from the Key Terms row “os que estão em discórdia / os que estão em paz” — Same sense, and the two halves of the pair stay parallel. It is not an objective defect.
+- Rejected: pt-BR/ch001.md [19] — “tendo-se abandonado sem freio ao desejo pela mulher, tornou-se cruelmente inflexível” loosens the image of the running and the hardened sore — Both states (laxity toward the woman, cruel hardness in killing the man) are kept. The sore image is already carried by “chaga inchada”. This is a defensible rendering.
+
+### Part terms 2 of 2, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 3 minor. 23 sinalizações examinadas em 17 parágrafos; 4 sinalizações correspondiam a 3 ocorrências de desvio.
+- `pt-BR/ch003.md` [123]: “um médico ruim e sem habilidade” → “um médico ruim e despreparado” — *unskilful* → “despreparado” (Key Terms); a imagem do médico se aplica à aptidão pastoral do pregador.
+- `pt-BR/ch004.md` [3]: “abandonando a união de um leito legítimo” → “abandonando o matrimônio e seu leito legítimo” — *wedlock* → “matrimônio” (Key Terms); estava “união”.
+- `pt-BR/ch004.md` [4]: “não eleves teu coração em orgulho” → “não eleves teu coração em soberba” — *elation* → “soberba” (Key Terms), no contexto da exaltação de si mesmo; estava “orgulho”.
+
+### Part terms 2 of 2, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 4 minor. Delta read de ch003 [122]–[124] e ch004 [2]–[5]: os três ajustes anteriores estão corretos; corrigidos dois restos de “orgulho” para *elation*, um superlativo omitido e uma construção ambígua.
+- `pt-BR/ch003.md` [122]: “transformam para si um salutar gole de vinho numa taça de veneno” → “transformam para si um gole de vinho salutaríssimo numa taça de veneno” — source: “a most wholesome draught”; o superlativo havia sido omitido.
+- `pt-BR/ch003.md` [123]: “não deixem de atentar apenas para aquilo que nela se diz contra os soberbos” → “não deixem de atentar justamente para aquilo que nela se diz contra os soberbos” — source: “this only thing they attend not to”; “não deixem de atentar apenas para” pode ser lido como “não atentem só para isso”, e “justamente” mantém o sentido de que só esse ponto é negligenciado.
+- `pt-BR/ch004.md` [3]: “por causa do orgulho de fazer o bem” → “por causa da soberba de fazer o bem” — *elation* → “soberba” (Key Terms), no contexto da exaltação de si mesmo, como já corrigido em [4].
+- `pt-BR/ch004.md` [3]: “esse orgulho pela virtude” → “essa soberba pela virtude” — *elation in virtue* → “soberba” (Key Terms); a concordância do demonstrativo foi ajustada.
+- Rejected: pt-BR/ch004.md [3] — “abandonando o matrimônio e seu leito legítimo” por “forsaking the wedlock of a lawful bed” — Segue o Key Terms (*wedlock* → “matrimônio”) e preserva o sentido.
+- Rejected: pt-BR/ch004.md [5] — “margem da perfeição” por “shore of perfection” — Escolha defensável que não altera o sentido da imagem náutica.
+- Rejected: pt-BR/ch003.md [122] — “Lei sagrada” com minúscula, contra “Lei Sagrada” no Key Terms — A fonte traz “sacred Law” em minúscula, e a capitalização reverencial não é normalizada.
+
+### Part terms 2 of 2, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente ch003 [121]–[124] e ch004 [2]–[4]; os quatro ajustes estão corretos, sem novos defeitos. As sinalizações mecânicas remetem a trechos não mostrados neste delta.
