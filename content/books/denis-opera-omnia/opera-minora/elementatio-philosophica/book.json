@@ -13,14 +13,14 @@
   },
   "description": {
     "la": "Elementatio philosophica.",
-    "en-US": "One of Denis the Carthusian's minor works. Uncorrected OCR text: not yet proofread against the scans.",
-    "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+    "en-US": "One of Denis the Carthusian's minor works.",
+    "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo."
   },
   "sources": [
     {
       "language": "la",
       "url": "https://archive.org/details/doctorisecstati05unkngoog",
-      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
     }
   ],
   "languages": [
@@ -694,13 +694,21 @@
     {
       "id": "c084",
       "title": {
+        "la": "Propositio 82",
+        "en-US": "Proposition 82",
+        "pt-BR": "Proposição 82"
+      }
+    },
+    {
+      "id": "c085",
+      "title": {
         "la": "Propositio 83",
         "en-US": "Proposition 83",
         "pt-BR": "Proposição 83"
       }
     },
     {
-      "id": "c085",
+      "id": "c086",
       "title": {
         "la": "Propositio 84",
         "en-US": "Proposition 84",
@@ -708,7 +716,7 @@
       }
     },
     {
-      "id": "c086",
+      "id": "c087",
       "title": {
         "la": "Propositio 85",
         "en-US": "Proposition 85",
@@ -716,7 +724,7 @@
       }
     },
     {
-      "id": "c087",
+      "id": "c088",
       "title": {
         "la": "Propositio 86",
         "en-US": "Proposition 86",
@@ -724,7 +732,7 @@
       }
     },
     {
-      "id": "c088",
+      "id": "c089",
       "title": {
         "la": "Propositio 87",
         "en-US": "Proposition 87",
@@ -732,7 +740,7 @@
       }
     },
     {
-      "id": "c089",
+      "id": "c090",
       "title": {
         "la": "Propositio 88",
         "en-US": "Proposition 88",
@@ -740,7 +748,7 @@
       }
     },
     {
-      "id": "c090",
+      "id": "c091",
       "title": {
         "la": "Propositio 89",
         "en-US": "Proposition 89",
@@ -748,7 +756,7 @@
       }
     },
     {
-      "id": "c091",
+      "id": "c092",
       "title": {
         "la": "Propositio 90",
         "en-US": "Proposition 90",
@@ -756,7 +764,7 @@
       }
     },
     {
-      "id": "c092",
+      "id": "c093",
       "title": {
         "la": "Propositio 91",
         "en-US": "Proposition 91",
@@ -764,7 +772,7 @@
       }
     },
     {
-      "id": "c093",
+      "id": "c094",
       "title": {
         "la": "Propositio 92",
         "en-US": "Proposition 92",
@@ -772,7 +780,7 @@
       }
     },
     {
-      "id": "c094",
+      "id": "c095",
       "title": {
         "la": "Propositio 93",
         "en-US": "Proposition 93",
@@ -780,7 +788,7 @@
       }
     },
     {
-      "id": "c095",
+      "id": "c096",
       "title": {
         "la": "Propositio 94",
         "en-US": "Proposition 94",
@@ -788,7 +796,7 @@
       }
     },
     {
-      "id": "c096",
+      "id": "c097",
       "title": {
         "la": "Propositio 95",
         "en-US": "Proposition 95",
@@ -796,7 +804,7 @@
       }
     },
     {
-      "id": "c097",
+      "id": "c098",
       "title": {
         "la": "Propositio 96",
         "en-US": "Proposition 96",
@@ -804,7 +812,7 @@
       }
     },
     {
-      "id": "c098",
+      "id": "c099",
       "title": {
         "la": "Propositio 97",
         "en-US": "Proposition 97",
@@ -812,7 +820,7 @@
       }
     },
     {
-      "id": "c099",
+      "id": "c100",
       "title": {
         "la": "Propositio 98",
         "en-US": "Proposition 98",
@@ -820,7 +828,7 @@
       }
     },
     {
-      "id": "c100",
+      "id": "c101",
       "title": {
         "la": "Propositio 99",
         "en-US": "Proposition 99",
@@ -828,7 +836,7 @@
       }
     },
     {
-      "id": "c101",
+      "id": "c102",
       "title": {
         "la": "Propositio 100",
         "en-US": "Proposition 100",
@@ -836,7 +844,7 @@
       }
     },
     {
-      "id": "c102",
+      "id": "c103",
       "title": {
         "la": "Propositio 101",
         "en-US": "Proposition 101",
@@ -844,7 +852,7 @@
       }
     },
     {
-      "id": "c103",
+      "id": "c104",
       "title": {
         "la": "Propositio 102",
         "en-US": "Proposition 102",
@@ -852,7 +860,7 @@
       }
     },
     {
-      "id": "c104",
+      "id": "c105",
       "title": {
         "la": "Propositio 103",
         "en-US": "Proposition 103",
@@ -860,15 +868,12 @@
       }
     },
     {
-      "id": "c105",
+      "id": "c106",
       "title": {
         "la": "Propositio 104",
         "en-US": "Proposition 104",
         "pt-BR": "Proposição 104"
       }
     }
-  ],
-  "arrived": {
-    "la": "2026-10-21"
-  }
+  ]
 }

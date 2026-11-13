@@ -13,14 +13,14 @@
   },
   "description": {
     "la": "De lumine christianæ theoriæ.",
-    "en-US": "One of Denis the Carthusian's minor works. Uncorrected OCR text: not yet proofread against the scans.",
-    "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+    "en-US": "One of Denis the Carthusian's minor works.",
+    "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo."
   },
   "sources": [
     {
       "language": "la",
       "url": "https://archive.org/details/doctorisecstati05unkngoog",
-      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
     }
   ],
   "languages": [
@@ -1328,13 +1328,21 @@
         {
           "id": "c161",
           "title": {
+            "la": "Articulus 43",
+            "en-US": "Article 43",
+            "pt-BR": "Artigo 43"
+          }
+        },
+        {
+          "id": "c162",
+          "title": {
             "la": "Articulus 44",
             "en-US": "Article 44",
             "pt-BR": "Artigo 44"
           }
         },
         {
-          "id": "c162",
+          "id": "c163",
           "title": {
             "la": "Articulus 45",
             "en-US": "Article 45",
@@ -1342,7 +1350,7 @@
           }
         },
         {
-          "id": "c163",
+          "id": "c164",
           "title": {
             "la": "Articulus 46",
             "en-US": "Article 46",
@@ -1350,7 +1358,7 @@
           }
         },
         {
-          "id": "c164",
+          "id": "c165",
           "title": {
             "la": "Articulus 47",
             "en-US": "Article 47",
@@ -1358,7 +1366,7 @@
           }
         },
         {
-          "id": "c165",
+          "id": "c166",
           "title": {
             "la": "Articulus 48",
             "en-US": "Article 48",
@@ -1366,7 +1374,7 @@
           }
         },
         {
-          "id": "c166",
+          "id": "c167",
           "title": {
             "la": "Articulus 49",
             "en-US": "Article 49",
@@ -1374,7 +1382,7 @@
           }
         },
         {
-          "id": "c167",
+          "id": "c168",
           "title": {
             "la": "Articulus 50",
             "en-US": "Article 50",
@@ -1382,7 +1390,7 @@
           }
         },
         {
-          "id": "c168",
+          "id": "c169",
           "title": {
             "la": "Articulus 51",
             "en-US": "Article 51",
@@ -1390,7 +1398,7 @@
           }
         },
         {
-          "id": "c169",
+          "id": "c170",
           "title": {
             "la": "Articulus 52",
             "en-US": "Article 52",
@@ -1398,7 +1406,7 @@
           }
         },
         {
-          "id": "c170",
+          "id": "c171",
           "title": {
             "la": "Articulus 53",
             "en-US": "Article 53",
@@ -1406,7 +1414,7 @@
           }
         },
         {
-          "id": "c171",
+          "id": "c172",
           "title": {
             "la": "Articulus 54",
             "en-US": "Article 54",
@@ -1414,7 +1422,7 @@
           }
         },
         {
-          "id": "c172",
+          "id": "c173",
           "title": {
             "la": "Articulus 55",
             "en-US": "Article 55",
@@ -1422,7 +1430,7 @@
           }
         },
         {
-          "id": "c173",
+          "id": "c174",
           "title": {
             "la": "Articulus 56",
             "en-US": "Article 56",
@@ -1430,7 +1438,7 @@
           }
         },
         {
-          "id": "c174",
+          "id": "c175",
           "title": {
             "la": "Articulus 57",
             "en-US": "Article 57",
@@ -1438,7 +1446,7 @@
           }
         },
         {
-          "id": "c175",
+          "id": "c176",
           "title": {
             "la": "Articulus 58",
             "en-US": "Article 58",
@@ -1446,7 +1454,7 @@
           }
         },
         {
-          "id": "c176",
+          "id": "c177",
           "title": {
             "la": "Articulus 59",
             "en-US": "Article 59",
@@ -1454,7 +1462,7 @@
           }
         },
         {
-          "id": "c177",
+          "id": "c178",
           "title": {
             "la": "Articulus 60",
             "en-US": "Article 60",
@@ -1462,7 +1470,7 @@
           }
         },
         {
-          "id": "c178",
+          "id": "c179",
           "title": {
             "la": "Articulus 61",
             "en-US": "Article 61",
@@ -1470,7 +1478,7 @@
           }
         },
         {
-          "id": "c179",
+          "id": "c180",
           "title": {
             "la": "Articulus 62",
             "en-US": "Article 62",
@@ -1478,7 +1486,7 @@
           }
         },
         {
-          "id": "c180",
+          "id": "c181",
           "title": {
             "la": "Articulus 63",
             "en-US": "Article 63",
@@ -1486,7 +1494,7 @@
           }
         },
         {
-          "id": "c181",
+          "id": "c182",
           "title": {
             "la": "Articulus 64",
             "en-US": "Article 64",
@@ -1494,7 +1502,7 @@
           }
         },
         {
-          "id": "c182",
+          "id": "c183",
           "title": {
             "la": "Articulus 65",
             "en-US": "Article 65",
@@ -1502,7 +1510,7 @@
           }
         },
         {
-          "id": "c183",
+          "id": "c184",
           "title": {
             "la": "Articulus 66",
             "en-US": "Article 66",
@@ -1510,7 +1518,7 @@
           }
         },
         {
-          "id": "c184",
+          "id": "c185",
           "title": {
             "la": "Articulus 67",
             "en-US": "Article 67",
@@ -1518,7 +1526,7 @@
           }
         },
         {
-          "id": "c185",
+          "id": "c186",
           "title": {
             "la": "Articulus 68",
             "en-US": "Article 68",
@@ -1526,7 +1534,7 @@
           }
         },
         {
-          "id": "c186",
+          "id": "c187",
           "title": {
             "la": "Articulus 69",
             "en-US": "Article 69",
@@ -1534,7 +1542,7 @@
           }
         },
         {
-          "id": "c187",
+          "id": "c188",
           "title": {
             "la": "Articulus 70",
             "en-US": "Article 70",
@@ -1542,7 +1550,7 @@
           }
         },
         {
-          "id": "c188",
+          "id": "c189",
           "title": {
             "la": "Articulus 71",
             "en-US": "Article 71",
@@ -1550,7 +1558,7 @@
           }
         },
         {
-          "id": "c189",
+          "id": "c190",
           "title": {
             "la": "Articulus 72",
             "en-US": "Article 72",
@@ -1558,7 +1566,7 @@
           }
         },
         {
-          "id": "c190",
+          "id": "c191",
           "title": {
             "la": "Articulus 74",
             "en-US": "Article 74",
@@ -1566,7 +1574,7 @@
           }
         },
         {
-          "id": "c191",
+          "id": "c192",
           "title": {
             "la": "Articulus 73",
             "en-US": "Article 73",
@@ -1574,7 +1582,7 @@
           }
         },
         {
-          "id": "c192",
+          "id": "c193",
           "title": {
             "la": "Articulus 75",
             "en-US": "Article 75",
@@ -1582,7 +1590,7 @@
           }
         },
         {
-          "id": "c193",
+          "id": "c194",
           "title": {
             "la": "Articulus 76",
             "en-US": "Article 76",
@@ -1590,7 +1598,7 @@
           }
         },
         {
-          "id": "c194",
+          "id": "c195",
           "title": {
             "la": "Articulus 77",
             "en-US": "Article 77",
@@ -1598,7 +1606,7 @@
           }
         },
         {
-          "id": "c195",
+          "id": "c196",
           "title": {
             "la": "Articulus 78",
             "en-US": "Article 78",
@@ -1606,7 +1614,7 @@
           }
         },
         {
-          "id": "c196",
+          "id": "c197",
           "title": {
             "la": "Articulus 79",
             "en-US": "Article 79",
@@ -1614,7 +1622,7 @@
           }
         },
         {
-          "id": "c197",
+          "id": "c198",
           "title": {
             "la": "Articulus 80",
             "en-US": "Article 80",
@@ -1622,7 +1630,7 @@
           }
         },
         {
-          "id": "c198",
+          "id": "c199",
           "title": {
             "la": "Articulus 81",
             "en-US": "Article 81",
@@ -1630,7 +1638,7 @@
           }
         },
         {
-          "id": "c199",
+          "id": "c200",
           "title": {
             "la": "Articulus 82",
             "en-US": "Article 82",
@@ -1638,7 +1646,7 @@
           }
         },
         {
-          "id": "c200",
+          "id": "c201",
           "title": {
             "la": "Articulus 83",
             "en-US": "Article 83",
@@ -1646,7 +1654,7 @@
           }
         },
         {
-          "id": "c201",
+          "id": "c202",
           "title": {
             "la": "Articulus 84",
             "en-US": "Article 84",
@@ -1654,7 +1662,7 @@
           }
         },
         {
-          "id": "c202",
+          "id": "c203",
           "title": {
             "la": "Articulus 85",
             "en-US": "Article 85",
@@ -1662,7 +1670,7 @@
           }
         },
         {
-          "id": "c203",
+          "id": "c204",
           "title": {
             "la": "Articulus 86",
             "en-US": "Article 86",
@@ -1670,7 +1678,7 @@
           }
         },
         {
-          "id": "c204",
+          "id": "c205",
           "title": {
             "la": "Articulus 87",
             "en-US": "Article 87",
@@ -1678,7 +1686,7 @@
           }
         },
         {
-          "id": "c205",
+          "id": "c206",
           "title": {
             "la": "Articulus 88",
             "en-US": "Article 88",
@@ -1686,7 +1694,7 @@
           }
         },
         {
-          "id": "c206",
+          "id": "c207",
           "title": {
             "la": "Articulus 89",
             "en-US": "Article 89",
@@ -1694,7 +1702,7 @@
           }
         },
         {
-          "id": "c207",
+          "id": "c208",
           "title": {
             "la": "Articulus 90",
             "en-US": "Article 90",
@@ -1702,7 +1710,7 @@
           }
         },
         {
-          "id": "c208",
+          "id": "c209",
           "title": {
             "la": "Articulus 91",
             "en-US": "Article 91",
@@ -1710,7 +1718,7 @@
           }
         },
         {
-          "id": "c209",
+          "id": "c210",
           "title": {
             "la": "Articulus 92",
             "en-US": "Article 92",
@@ -1718,7 +1726,7 @@
           }
         },
         {
-          "id": "c210",
+          "id": "c211",
           "title": {
             "la": "Articulus 93",
             "en-US": "Article 93",
@@ -1726,7 +1734,7 @@
           }
         },
         {
-          "id": "c211",
+          "id": "c212",
           "title": {
             "la": "Articulus 94",
             "en-US": "Article 94",
@@ -1734,7 +1742,7 @@
           }
         },
         {
-          "id": "c212",
+          "id": "c213",
           "title": {
             "la": "Articulus 95",
             "en-US": "Article 95",
@@ -1742,7 +1750,7 @@
           }
         },
         {
-          "id": "c213",
+          "id": "c214",
           "title": {
             "la": "Articulus 96",
             "en-US": "Article 96",
@@ -1750,7 +1758,7 @@
           }
         },
         {
-          "id": "c214",
+          "id": "c215",
           "title": {
             "la": "Articulus 98",
             "en-US": "Article 98",
@@ -1758,7 +1766,7 @@
           }
         },
         {
-          "id": "c215",
+          "id": "c216",
           "title": {
             "la": "Articulus 97",
             "en-US": "Article 97",
@@ -1766,7 +1774,7 @@
           }
         },
         {
-          "id": "c216",
+          "id": "c217",
           "title": {
             "la": "Articulus 99",
             "en-US": "Article 99",
@@ -1774,7 +1782,7 @@
           }
         },
         {
-          "id": "c217",
+          "id": "c218",
           "title": {
             "la": "Articulus 100",
             "en-US": "Article 100",
@@ -1782,7 +1790,7 @@
           }
         },
         {
-          "id": "c218",
+          "id": "c219",
           "title": {
             "la": "Articulus 101",
             "en-US": "Article 101",
@@ -1790,7 +1798,7 @@
           }
         },
         {
-          "id": "c219",
+          "id": "c220",
           "title": {
             "la": "Articulus 102",
             "en-US": "Article 102",
@@ -1799,8 +1807,5 @@
         }
       ]
     }
-  ],
-  "arrived": {
-    "la": "2026-10-21"
-  }
+  ]
 }

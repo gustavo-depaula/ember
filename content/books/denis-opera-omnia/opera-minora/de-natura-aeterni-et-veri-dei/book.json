@@ -13,14 +13,14 @@
   },
   "description": {
     "la": "De natura æterni et veri Dei.",
-    "en-US": "One of Denis the Carthusian's minor works. Uncorrected OCR text: not yet proofread against the scans.",
-    "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+    "en-US": "One of Denis the Carthusian's minor works.",
+    "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo."
   },
   "sources": [
     {
       "language": "la",
       "url": "https://archive.org/details/doctorisecstati10unkngoog",
-      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXIV (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXIV (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
     }
   ],
   "languages": [
@@ -374,13 +374,21 @@
     {
       "id": "c044",
       "title": {
+        "la": "Articulus 42",
+        "en-US": "Article 42",
+        "pt-BR": "Artigo 42"
+      }
+    },
+    {
+      "id": "c045",
+      "title": {
         "la": "Articulus 43",
         "en-US": "Article 43",
         "pt-BR": "Artigo 43"
       }
     },
     {
-      "id": "c045",
+      "id": "c046",
       "title": {
         "la": "Articulus 44",
         "en-US": "Article 44",
@@ -388,7 +396,7 @@
       }
     },
     {
-      "id": "c046",
+      "id": "c047",
       "title": {
         "la": "Articulus 45",
         "en-US": "Article 45",
@@ -396,7 +404,7 @@
       }
     },
     {
-      "id": "c047",
+      "id": "c048",
       "title": {
         "la": "Articulus 46",
         "en-US": "Article 46",
@@ -404,7 +412,7 @@
       }
     },
     {
-      "id": "c048",
+      "id": "c049",
       "title": {
         "la": "Articulus 47",
         "en-US": "Article 47",
@@ -412,7 +420,7 @@
       }
     },
     {
-      "id": "c049",
+      "id": "c050",
       "title": {
         "la": "Articulus 48",
         "en-US": "Article 48",
@@ -420,7 +428,7 @@
       }
     },
     {
-      "id": "c050",
+      "id": "c051",
       "title": {
         "la": "Articulus 49",
         "en-US": "Article 49",
@@ -428,7 +436,7 @@
       }
     },
     {
-      "id": "c051",
+      "id": "c052",
       "title": {
         "la": "Articulus 50",
         "en-US": "Article 50",
@@ -436,7 +444,7 @@
       }
     },
     {
-      "id": "c052",
+      "id": "c053",
       "title": {
         "la": "Articulus 51",
         "en-US": "Article 51",
@@ -444,7 +452,7 @@
       }
     },
     {
-      "id": "c053",
+      "id": "c054",
       "title": {
         "la": "Articulus 52",
         "en-US": "Article 52",
@@ -452,7 +460,7 @@
       }
     },
     {
-      "id": "c054",
+      "id": "c055",
       "title": {
         "la": "Articulus 53",
         "en-US": "Article 53",
@@ -460,7 +468,7 @@
       }
     },
     {
-      "id": "c055",
+      "id": "c056",
       "title": {
         "la": "Articulus 54",
         "en-US": "Article 54",
@@ -468,7 +476,7 @@
       }
     },
     {
-      "id": "c056",
+      "id": "c057",
       "title": {
         "la": "Articulus 55",
         "en-US": "Article 55",
@@ -476,7 +484,7 @@
       }
     },
     {
-      "id": "c057",
+      "id": "c058",
       "title": {
         "la": "Articulus 56",
         "en-US": "Article 56",
@@ -484,7 +492,7 @@
       }
     },
     {
-      "id": "c058",
+      "id": "c059",
       "title": {
         "la": "Articulus 57",
         "en-US": "Article 57",
@@ -492,7 +500,7 @@
       }
     },
     {
-      "id": "c059",
+      "id": "c060",
       "title": {
         "la": "Articulus 58",
         "en-US": "Article 58",
@@ -500,7 +508,7 @@
       }
     },
     {
-      "id": "c060",
+      "id": "c061",
       "title": {
         "la": "Articulus 59",
         "en-US": "Article 59",
@@ -508,7 +516,7 @@
       }
     },
     {
-      "id": "c061",
+      "id": "c062",
       "title": {
         "la": "Articulus 60",
         "en-US": "Article 60",
@@ -516,7 +524,7 @@
       }
     },
     {
-      "id": "c062",
+      "id": "c063",
       "title": {
         "la": "Articulus 61",
         "en-US": "Article 61",
@@ -524,15 +532,12 @@
       }
     },
     {
-      "id": "c063",
+      "id": "c064",
       "title": {
         "la": "Articulus 62",
         "en-US": "Article 62",
         "pt-BR": "Artigo 62"
       }
     }
-  ],
-  "arrived": {
-    "la": "2026-10-21"
-  }
+  ]
 }
