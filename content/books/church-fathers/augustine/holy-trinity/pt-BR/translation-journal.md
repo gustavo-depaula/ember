@@ -113,7 +113,7 @@ Destino: pt-BR.
 | consubstantial / co-eternal | consubstancial / coeterno | Termos aplicados à comunhão do Pai e do Filho. |
 | essence / substance / person | essência / substância / pessoa | Preservadas as distinções terminológicas e a diferença entre os usos latino e grego examinadas no Livro 7. |
 | hypostases / prosopa | hipóstases / *prosopa* | “Hipóstases” recebe a forma portuguesa; preservada em itálico a transliteração grega *prosopa* citada no §11. |
-| relatively / in respect to Himself | em sentido relativo / em relação a si mesmo | Fórmulas da distinção entre predicação relativa e predicação segundo a essência. |
+| relatively / in respect to Himself | em sentido relativo / em relação a si mesmo | Fórmulas da distinção entre predicação relativa e predicação segundo a essência. “Relatively to”, com complemento explícito, também recebe “em relação a”. |
 | unbegotten / begotten | ingênito / gerado | Na oposição entre o Pai e o Filho; *born* também recebe “gerado” quando designa a geração divina. |
 | to subsist / subject | subsistir / sujeito | “Sujeito” no sentido filosófico de suporte de qualidades, especialmente no §10. |
 | genus / species / individual | gênero / espécie / indivíduo | Vocabulário lógico do exame dos nomes aplicados à Trindade. |
@@ -485,3 +485,160 @@ Verdict: 0 meaning-level, 0 minor. Full read of ch014–ch015 (140 blocks, footn
 - Rejected: pt-BR/ch015.md [44] — 'Why so?' rendered 'Por que seria assim?' before reasons that deny the parallel — This mirrors the source's own rhetorical structure. The reasons that follow make the denial clear.
 - Rejected: pt-BR/ch015.md [58] — The Samaritan woman addresses Jesus with 'vós' while He uses 'tu' — This is a defensible choice of respectful address inside the quotation, not an objective error.
 - Rejected: pt-BR/ch014.md, ch015.md (emphasis and parentheses audit) — Italics and parentheses counts differ from the source — Already rejected in round 1. The italics fall on Greek terms and on 'isto é' and similar phrases. Parentheses rendered as dashes lose no content.
+
+### Part terms 1 of 6, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 8 minor. Lidos 43 parágrafos com 79 flags; encontrados 10 flags de desvio, correspondentes a 8 ocorrências corrigidas.
+- `pt-BR/ch001.md` [15]: “de compreensão mais lenta” → “de entendimento mais lento” — *understanding* → “entendimento” (Key Terms); estava “compreensão”.
+- `pt-BR/ch001.md` [43]: “o primogênito de toda a criação” → “o primogênito de toda criatura” — *creature* → “criatura” (Key Terms); a variante coletiva prevista na nota refere-se a “whole creature”.
+- `pt-BR/ch002.md` [4]: “à compreensão da Trindade” → “ao entendimento da Trindade” — *understanding* → “entendimento” (Key Terms); estava “compreensão”.
+- `pt-BR/ch002.md` [4]: “pelo próprio olhar da mente” → “pela própria visão da mente” — *sight* → “visão” (Key Terms); estava “olhar”, aqui designando a visão interior.
+- `pt-BR/ch002.md` [5]: “Esses modos de falar são de três tipos.” → “Esses modos de falar são de natureza tríplice.” — *threefold* → “tríplice” (Key Terms); estava parafraseado como “de três tipos”.
+- `pt-BR/ch002.md` [45]: “minha capacidade de compreensão” → “minha capacidade de entendimento” — *understanding* → “entendimento” (Key Terms); estava “compreensão”.
+- `pt-BR/ch002.md` [47]: “ele sabia que via corporalmente” → “ele sabia que via corporeamente” — *corporeally* → “corporeamente”, derivado de “corpóreo” (Key Terms); estava “corporalmente”.
+- `pt-BR/ch002.md` [50]: “de toda a alma e de todo o entendimento” → “de toda a alma e de toda a mente” — *mind* → “mente” (Key Terms); estava “entendimento”.
+
+### Part terms 1 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of ch001 [14–16, 42–44] and ch002 [3–6, 44–51]: all 8 terminology fixes verified correct; no new defects.
+- Rejected: pt-BR/ch001.md [14], pt-BR/ch002.md [50] — The mechanical audit flags a parenthesis count that differs from the source. — The parentheses were turned into dashes and the parenthetical content is complete. This is a defensible punctuation choice.
+- Rejected: pt-BR/ch002.md [45] — “e este pousou sobre cada um deles”: the antecedent of “este” is unclear. — “Este” refers to “fogo”, the nearest masculine noun. This matches the source (“it sat upon each of them”) and reads unambiguously.
+- Rejected: pt-BR/ch002.md [44] — “o Verbo e a Sabedoria de Deus … esteve” has a singular verb with a compound subject. — Both names designate one person, as the source's “in His own substance stood” shows, so the singular is correct.
+- Rejected: Mechanical audit, Key Terms rows (quick and dead, proximate cause, informed, one in number) — Each row's form has 0 occurrences in pt-BR. — These are other books' terms and fall outside ch001–ch015 as shown. They are not checkable in this delta.
+
+### Part terms 2 of 6, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 22 minor. Lidos os 48 parágrafos sinalizados; encontrados desvios em 8 deles, com 22 correções pontuais.
+- `pt-BR/ch003.md` [2]: “manifestar Deus à vista humana” → “manifestar Deus à visão humana” — sight → “visão” (Key Terms); estava “vista”.
+- `pt-BR/ch003.md` [8]: “Deus se manifestaria à vista humana” → “Deus se manifestaria à visão humana” — sight → “visão” (Key Terms); estava “vista”.
+- `pt-BR/ch003.md` [15]: “nem essa seria a primeira causa” → “nem essa seria a causa primeira” — first cause → “causa primeira” (Key Terms); estava “primeira causa”.
+- `pt-BR/ch003.md` [15]: “que a primeira causa daquela doença” → “que a causa primeira daquela doença” — first cause → “causa primeira” (Key Terms); estava “primeira causa”.
+- `pt-BR/ch003.md` [22]: “por uma mudança incomum” → “por uma mutabilidade incomum” — changeableness → “mutabilidade” (Key Terms); estava “mudança”.
+- `pt-BR/ch003.md` [26]: “se apresenta à nossa vista” → “se apresenta à nossa visão” — sight → “visão” (Key Terms); estava “vista”.
+- `pt-BR/ch004.md` [53]: “foi certamente uma disposição cheia de significado” → “foi certamente uma economia cheia de significado” — economy → “economia” (Key Terms); “disposição” corresponde a dispensation.
+- `pt-BR/ch005.md` [2]: “ou recebe qualquer outro predicado que se refira a ele em si mesmo” → “ou recebe qualquer outro predicado em relação a si mesmo” — in respect to Himself → “em relação a si mesmo” (Key Terms); estava “em si mesmo”.
+- `pt-BR/ch005.md` [2]: “não em referência a ele mesmo, mas a algo distinto dele” → “não em relação a si mesmo, mas a algo distinto dele” — in respect to Himself → “em relação a si mesmo” (Key Terms); estava “em referência a ele mesmo”.
+- `pt-BR/ch005.md` [15]: “ingênito e gerado em referência a si mesmos” → “ingênito e gerado em relação a si mesmos” — A fórmula de predicação em relação ao próprio sujeito recebe “em relação a si mesmo” (Key Terms), aqui no plural.
+- `pt-BR/ch005.md` [15]: “ingênito se diz em referência a ele mesmo” → “ingênito se diz em relação a si mesmo” — in relation to Himself → “em relação a si mesmo” (Key Terms); estava “em referência a ele mesmo”.
+- `pt-BR/ch005.md` [15]: “e gerado em referência a ele mesmo” → “e gerado em relação a si mesmo” — in relation to Himself → “em relação a si mesmo” (Key Terms); estava “em referência a ele mesmo”.
+- `pt-BR/ch005.md` [15]: “portanto, se tudo o que se diz em referência a si mesmo” → “portanto, se tudo o que se diz em relação a si mesmo” — in relation to oneself → “em relação a si mesmo” (Key Terms); estava “em referência a si mesmo”.
+- `pt-BR/ch005.md` [15]: “mas em referência a si mesmo. Por outro lado” → “mas em relação a si mesmo. Por outro lado” — in respect to himself → “em relação a si mesmo” (Key Terms); estava “em referência a si mesmo”.
+- `pt-BR/ch005.md` [15]: “afirmam eles, é dito em referência a ele mesmo” → “afirmam eles, é dito em relação a si mesmo” — in respect to Himself → “em relação a si mesmo” (Key Terms); estava “em referência a ele mesmo”.
+- `pt-BR/ch005.md` [15]: “se algo é chamado pai em referência a si mesmo” → “se algo é chamado pai em relação a si mesmo” — in respect to itself → “em relação a si mesmo” (Key Terms); estava “em referência a si mesmo”.
+- `pt-BR/ch005.md` [15]: “o que não pode ser chamado filho em referência a si mesmo” → “o que não pode ser chamado filho em relação a si mesmo” — in respect to itself → “em relação a si mesmo” (Key Terms); estava “em referência a si mesmo”.
+- `pt-BR/ch005.md` [15]: “e tudo o que se diz em referência a si mesmo” → “e tudo o que se diz em relação a si mesmo” — in respect to self → “em relação a si mesmo” (Key Terms); estava “em referência a si mesmo”.
+- `pt-BR/ch005.md` [15]: “e se ele é chamado ingênito em referência a si mesmo” → “e se ele é chamado ingênito em relação a si mesmo” — in respect to Himself → “em relação a si mesmo” (Key Terms); estava “em referência a si mesmo”.
+- `pt-BR/ch005.md` [15]: “se segundo aquilo que se diz em referência a ele mesmo” → “se segundo aquilo que se diz em relação a si mesmo” — in relation to Himself → “em relação a si mesmo” (Key Terms); estava “em referência a ele mesmo”.
+- `pt-BR/ch005.md` [15]: “resta, portanto, que seja igual segundo aquilo que se diz em referência a ele mesmo” → “resta, portanto, que seja igual segundo aquilo que se diz em relação a si mesmo” — in relation to Himself → “em relação a si mesmo” (Key Terms); estava “em referência a ele mesmo”.
+- `pt-BR/ch005.md` [15]: “Mas tudo o que se diz em referência a si mesmo” → “Mas tudo o que se diz em relação a si mesmo” — in relation to self → “em relação a si mesmo” (Key Terms); estava “em referência a si mesmo”.
+
+### Part terms 2 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of 22 Key Terms fixes in ch003–ch005 and their neighbouring paragraphs: all fixes are correct against the source and no new defects were found.
+- Rejected: pt-BR/ch003.md [22] — “por uma mutabilidade incomum” might read stiffly in place of “mudança”. — The source says “unusual changeableness”. “Mutabilidade” matches it and the Key Terms row, and the sentence stays grammatical.
+- Rejected: pt-BR/ch005.md [2] — “em referência a algo distinto dele” was left unchanged next to the corrected “em relação a si mesmo”. — The source says “in respect to something not Himself”. That is not the reflexive formula the Key Terms row covers, and the rendering is faithful.
+- Rejected: pt-BR/ch004.md [53] — “nascer… significa proceder do Pai” uses “proceder” for the Son. — The journal records this choice for “to be from the Father” as a construction-dependent rendering. The sense is not altered.
+- Rejected: pt-BR/ch003.md [15] — The audit row “proximate cause” → “causa próxima” is flagged with 0 occurrences. — The plural “causas próximas” occurs in [15], so the row holds.
+- Rejected: pt-BR/ch004.md [52], pt-BR/ch005.md [15] — The audit flags a parentheses count mismatch. — The source parenthetical asides were rendered with dashes, and the Latin glosses (*genitum*), (*natum*) are kept. No content is lost.
+
+### Part terms 3 of 6, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 17 minor. Lidas 71 sinalizações em 38 parágrafos; 9 sinalizações apresentam deriva; ampliada uma linha do glossário.
+- `pt-BR/ch005.md` [19]: “em referência a si mesma é dito” → “em relação a si mesma é dito” — “In respect to itself” → “em relação a si mesma” (Key Terms); estava “em referência a si mesma”.
+- `pt-BR/ch005.md` [19]: “de cada um em referência a si mesmo” → “de cada um em relação a si mesmo” — “In respect to themselves” → “em relação a si mesmo” (Key Terms), com concordância distributiva.
+- `pt-BR/ch005.md` [19]: “de Deus em referência a si mesmo” → “de Deus em relação a si mesmo” — “In respect to Himself” → “em relação a si mesmo” (Key Terms).
+- `pt-BR/ch005.md` [24]: “dele se fala em referência a si mesmo” → “dele se fala em relação a si mesmo” — “In respect to Himself” → “em relação a si mesmo” (Key Terms).
+- `pt-BR/ch005.md` [26]: “sua própria divindade” → “sua própria deidade” — “Deity” → “Deidade” (Key Terms), preservando a distinção lexical em relação a “Divinity”.
+- `pt-BR/ch005.md` [26]: “sua unidade, divindade, grandeza” → “sua unidade, deidade, grandeza” — “Deity” → “Deidade” (Key Terms).
+- `pt-BR/ch005.md` [34]: “entre um dom e uma coisa que foi dada” → “entre um dom e algo que foi dado” — “A thing that has been given” → “algo que foi dado” (Key Terms).
+- `pt-BR/ch005.md` [34]: “chamado coisa que foi dada” → “chamado algo que foi dado” — “A thing that has been given” → “algo que foi dado” (Key Terms).
+- `pt-BR/ch006.md` [12]: “é de uma só e mesma substância” → “é de uma única e mesma substância” — “Of one and the same substance” → “de uma única e mesma substância” (Key Terms).
+- `pt-BR/ch007.md` [4]: “por aquela divindade (*deitas*)” → “por aquela deidade (*deitas*)” — “Deity” → “Deidade” (Key Terms); a fonte explicita também “deitas”.
+- `pt-BR/ch007.md` [4]: “juntamente com aquela divindade que gerou” → “juntamente com aquela deidade que gerou” — “Deity” → “Deidade” (Key Terms).
+- `pt-BR/ch007.md` [4]: “o Filho é a divindade do Pai” → “o Filho é a deidade do Pai” — “Deity” → “Deidade” (Key Terms).
+- `pt-BR/ch008.md` [7]: “Toda concepção corpórea deve ser rejeitada” → “Todo pensamento corpóreo deve ser rejeitado” — “Conception” → “pensamento” (Key Terms), aqui no sentido de representação mental corpórea.
+- `pt-BR/ch008.md` [16]: “Nossa concepção se forma” → “Nosso pensamento se forma” — “Conception” → “pensamento” (Key Terms), na análise das representações mentais.
+- `pt-BR/ch008.md` [16]: “formamos concepções acerca de ações” → “formamos pensamentos acerca de ações” — “Conceptions” → “pensamentos” (Key Terms).
+- `pt-BR/ch009.md` [33]: “só ela é a genitora de seu próprio conhecimento” → “só ela é a progenitora de seu próprio conhecimento” — “Parent” → “progenitor” (Key Terms), com o gênero ajustado à mente.
+- `pt-BR/translation-journal.md`: “| relatively / in respect to Himself | em sentido relativo / em relação a si mesmo | Fórmulas da distinção entre predicação relativa e predicação segundo a essência. |” → “| relatively / in respect to Himself | em sentido relativo / em relação a si mesmo | Fórmulas da distinção entre predicação relativa e predicação segundo a essência. “Relatively to”, com complemento explícito, também recebe “em relação a”. |” — Registra a construção corretamente usada de modo recorrente quando a fonte explicita o termo da relação.
+
+### Part terms 3 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta read of 17 changes in ch005–ch009 and the journal: all correct; two further minor fixes for “Godhead” in ch007 [5].
+- `pt-BR/ch007.md` [5]: “simplicidade absoluta na divindade” → “simplicidade absoluta na deidade” — source “in the Godhead”; Key Terms “Godhead | Deidade”, consistent with “deidade” in [4]
+- `pt-BR/ch007.md` [5]: “pois na divindade há, de fato” → “pois na deidade há, de fato” — source “in the Godhead”; Key Terms “Godhead | Deidade”
+- Rejected: pt-BR/ch008.md [7] — “pensamento corpóreo” for “Corporeal Conception” may read oddly — it matches the Key Terms row conception → pensamento, and the sense of a corporeal mental representation is clear
+- Rejected: pt-BR/ch005.md [34] — “não pode ser chamado algo que foi dado” after the change — grammatical, and it keeps the distinction between a gift and something given
+
+### Part terms 3 of 6, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente ch007 [4–6] e a nota apresentada; as duas alterações para «deidade» estão corretas, sem novos defeitos identificados.
+- Rejected: pt-BR/ch007.md [4–5] — Diferenças nas contagens de ênfase e parênteses. — A numeração autoral em negrito explica os marcadores adicionais; os parênteses foram substituídos por travessões e pontuação equivalente, sem perda de conteúdo.
+
+### Part terms 4 of 6, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 15 minor. 47 parágrafos sinalizados examinados; 15 ocorrências com desvio terminológico em 9 parágrafos.
+- `pt-BR/ch011.md` [2]: “imprime na vista de quem vê” → “imprime na visão de quem vê” — *sight* → “visão” (Key Terms); estava “vista”.
+- `pt-BR/ch011.md` [9]: “mais moldáveis são as sementes primordiais” → “mais formáveis são as sementes primordiais” — *formable* → “formável” (Key Terms); estava “moldáveis”.
+- `pt-BR/ch011.md` [13]: “mas de uma só e mesma substância” → “mas de uma única e mesma substância” — *of one and the same substance* → “de uma única e mesma substância” (Key Terms); estava “de uma só e mesma substância”.
+- `pt-BR/ch012.md` [15]: “significam que o Pai fez o homem à imagem do Filho” → “significam que o Pai fez o homem segundo a imagem do Filho” — *after the image* → “segundo a imagem” (Key Terms); estava “à imagem”.
+- `pt-BR/ch012.md` [15]: “Com efeito, se o Pai fez o homem à imagem do Filho” → “Com efeito, se o Pai fez o homem segundo a imagem do Filho” — *after the image* → “segundo a imagem” (Key Terms); estava “à imagem”.
+- `pt-BR/ch012.md` [15]: “Façamos o homem à vossa imagem e semelhança” → “Façamos o homem segundo a vossa imagem e semelhança” — *after Your image* → “segundo a vossa imagem” (Key Terms); estava “à vossa imagem”.
+- `pt-BR/ch012.md` [15]: “embora fosse mais habitual dizer: à sua própria imagem” → “embora fosse mais habitual dizer: segundo a sua própria imagem” — *after His own image* → “segundo a sua própria imagem” (Key Terms); estava “à sua própria imagem”.
+- `pt-BR/ch012.md` [15]: “e à cuja imagem o homem foi feito” → “e segundo cuja imagem o homem foi feito” — *after whose image* → “segundo cuja imagem” (Key Terms); estava “à cuja imagem”.
+- `pt-BR/ch012.md` [16]: “então o homem não foi feito à imagem de Deus” → “então o homem não foi feito segundo a imagem de Deus” — *after the image* → “segundo a imagem” (Key Terms); estava “à imagem”.
+- `pt-BR/ch012.md` [16]: “Deus fez o homem à imagem de Deus” → “Deus fez o homem segundo a imagem de Deus” — *after the image* → “segundo a imagem” (Key Terms); estava “à imagem”.
+- `pt-BR/ch012.md` [16]: “à natureza humana feita à imagem de Deus” → “à natureza humana feita segundo a imagem de Deus” — *after the image* → “segundo a imagem” (Key Terms); estava “à imagem”.
+- `pt-BR/ch012.md` [19]: “ela tanto mais se forma à imagem de Deus” → “ela tanto mais se forma segundo a imagem de Deus” — *after the image* → “segundo a imagem” (Key Terms); estava “à imagem”.
+- `pt-BR/ch012.md` [36]: “seja feito tendo em vista alcançar as coisas eternas” → “seja feito com a contemplação voltada a alcançar as coisas eternas” — *contemplation* → “contemplação” (Key Terms); estava parafraseado como “tendo em vista”.
+- `pt-BR/ch013.md` [17]: “uma mente prudente, temperante, corajosa e reta” → “uma mente prudente, temperante, dotada de fortaleza e reta” — *courageous* designa a virtude da “fortaleza” (Key Terms); estava “corajosa”.
+- `pt-BR/ch013.md` [28]: “chegamos ao sumo bem de uma bem-aventurança imortal” → “chegamos ao bem supremo de uma bem-aventurança imortal” — *chief good* → “bem supremo” (Key Terms); estava “sumo bem”.
+
+### Part terms 4 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta read of ch011–ch013: 14 of the 15 previous fixes are correct and the [36] change is defensible; added 2 minor fixes (“Segundo a nossa imagem” in ch012 [14], an unresolved pronoun in ch013 [27]).
+- `pt-BR/ch012.md` [14]: “por isso se diz: “À nossa imagem”” → “por isso se diz: “Segundo a nossa imagem”” — source says “After our image”; Key Terms gives after the image → “segundo a imagem”, applied to the other occurrences in round 1
+- `pt-BR/ch013.md` [27]: “antes, precedendo-os até mesmo nossos maus merecimentos?” → “antes, precedidos até mesmo por nossos maus merecimentos?” — source: “nay, with our evil deserts too going before”; the pronoun “-os” has no clear antecedent, while “precedidos” refers back to “nós”
+- Rejected: pt-BR/ch012.md [36] — “com a contemplação voltada a alcançar” reads awkwardly, since here *contemplation* means aim — the sentence stays grammatical and keeps the source's word as the Key Terms table asks; this is a style matter, not a defect
+- Rejected: pt-BR/ch012.md [15] — “não à sua própria imagem, mas à imagem de seu Filho” left as “à” — source has “in His own image … in the image”, not “after”, so “à” is correct
+- Rejected: pt-BR/ch011.md [14] — “progenitora” for *Parent* — agrees with the feminine referent “forma”; the journal records this gender adjustment
+
+### Part terms 4 of 6, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente os seis blocos apresentados e as cinco notas do tradutor; verificadas as duas alterações, sem novos defeitos objetivos.
+- Rejected: pt-BR/ch012.md [14] — Alteração para “Segundo a nossa imagem”. — Corresponde a “After our image” e segue a distinção registrada na tabela de termos.
+- Rejected: pt-BR/ch013.md [27] — Alteração para “precedidos até mesmo por nossos maus merecimentos”. — Preserva a anterioridade dos maus merecimentos e concorda com “nós”, sem introduzir perda de sentido.
+
+### Part terms 5 of 6, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 12 minor. 71 flags lidos em 42 parágrafos; 9 flags apresentavam deriva, corrigida em 12 ocorrências.
+- `pt-BR/ch014.md` [10]: “feita à imagem de seu Criador” → “feita segundo a imagem de seu Criador” — “after the image” → “segundo a imagem” (Key Terms); estava “à imagem”.
+- `pt-BR/ch014.md` [13]: “foi feita à imagem de Deus” → “foi feita segundo a imagem de Deus” — “after the image” → “segundo a imagem” (Key Terms); estava “à imagem”.
+- `pt-BR/ch014.md` [13]: “nos fez à sua própria imagem” → “nos fez segundo a sua própria imagem” — “after His own image” → “segundo a sua própria imagem” (Key Terms); estava “à sua própria imagem”.
+- `pt-BR/ch014.md` [22]: “abertamente diante do olhar da mente” → “abertamente diante da visão da mente” — “sight” → “visão” (Key Terms); estava “olhar” na descrição da visão mental.
+- `pt-BR/ch014.md` [23]: “o que gera precede por um intervalo de tempo” → “o progenitor precede por um intervalo de tempo” — “parent” → “progenitor” (Key Terms); estava “o que gera” na analogia da origem das formas.
+- `pt-BR/ch014.md` [23]: “une o que é gerado e o que gera” → “une o que é gerado e o progenitor” — “parent” → “progenitor” (Key Terms); estava “o que gera” na mesma analogia.
+- `pt-BR/ch014.md` [34]: “feita à imagem daquele que a criou” → “feita segundo a imagem daquele que a criou” — “after the image” → “segundo a imagem” (Key Terms); estava “à imagem”.
+- `pt-BR/ch014.md` [34]: “foi feita à sua imagem” → “foi feita segundo a sua imagem” — “after His image” → “segundo a sua imagem” (Key Terms); estava “à sua imagem”.
+- `pt-BR/ch015.md` [2]: “acerca da processão do Espírito Santo” → “acerca da procedência do Espírito Santo” — “procession” → “procedência” (Key Terms); estava “processão”.
+- `pt-BR/ch015.md` [18]: “o homem é feito à imagem de Deus” → “o homem é feito segundo a imagem de Deus” — “after the image” → “segundo a imagem” (Key Terms); estava “à imagem”.
+- `pt-BR/ch015.md` [27]: “adequadas à compreensão de Deus” → “adequadas ao entendimento de Deus” — “understanding” → “entendimento” (Key Terms); estava “compreensão” ao designar o conhecimento intelectual de Deus.
+- `pt-BR/ch015.md` [31]: “falar de algum modo à vista” → “falar de algum modo à visão” — “sight” → “visão” (Key Terms); estava “vista”.
+
+### Part terms 5 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read of ch014 and ch015: the 12 round-1 changes are correct; one missed “after whose image” occurrence in ch014 [33] is fixed.
+- `pt-BR/ch014.md` [33]: “de seu Deus, à imagem do qual foi feita” → “de seu Deus, segundo cuja imagem foi feita” — source “after whose image it is made”; Key Terms “after the image” → “segundo a imagem”, as in the round 1 fixes to [10], [13] and [34]
+- Rejected: pt-BR/ch015.md [18] — “segundo a qual o homem é feito segundo a imagem de Deus” repeats “segundo” — grammatical and clear; the second “segundo” is the Key Terms rendering and the repetition is a style matter
+- Rejected: pt-BR/ch014.md [23] — “o que é gerado” for “offspring” where Key Terms has “prole” — not part of the round's change; the sense is the same and the translation consistently uses “aquilo que é gerado” in this analogy
+- Rejected: pt-BR/ch014.md [22] — imperfect tense “se lembrava… compreendia e amava” for present “remembers, understands, loves” — follows the tense sequence after “mesmo quando não pensava em si”; the meaning is unchanged
+
+### Part terms 5 of 6, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente ch014 [32–34] e as três notas do tradutor fornecidas; a alteração está correta e não foram encontrados novos defeitos.
+- Rejected: pt-BR/ch014.md [33], [34] — Diferença na contagem de marcadores de ênfase. — Os quatro marcadores adicionais formatam os números autorais em negrito, conforme a regra editorial; o itálico explicativo de [34] foi preservado.
+
+### Part terms 6 of 6, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 8 minor. Lidos 18 parágrafos com 34 sinalizações de termos; 12 sinalizações apresentavam desvio, corrigidas em 8 substituições.
+- `pt-BR/ch015.md` [41]: “naquele conhecimento do qual nasce” → “naquele conhecimento do qual é gerado” — “Born”, referido ao Verbo na geração divina, recebe “gerado” segundo o glossário.
+- `pt-BR/ch015.md` [41]: “mas um gerando, o outro nascendo” → “mas um gerando, o outro sendo gerado” — “Being born” designa a geração divina do Filho; o glossário prescreve “gerado”.
+- `pt-BR/ch015.md` [52]: “Aquele de quem nasce o Verbo” → “Aquele de quem é gerado o Verbo” — “Born” designa a geração divina do Verbo; o glossário prescreve “gerado”.
+- `pt-BR/ch015.md` [54]: “tanto o Filho nasce de Deus Pai” → “tanto o Filho é gerado por Deus Pai” — “Born” designa a geração divina do Filho; o glossário prescreve “gerado”.
+- `pt-BR/ch015.md` [62]: “aquele que nasceu de sua substância” → “aquele que foi gerado de sua substância” — “Born” designa a geração divina do Filho; o glossário prescreve “gerado”.
+- `pt-BR/ch015.md` [64]: “*isto é*, nascido da substância do Pai” → “*isto é*, gerado da substância do Pai” — “Born” designa a geração divina do Verbo; o glossário prescreve “gerado”.
+- `pt-BR/ch015.md` [65]: “criatura racional ou intelectual, feita à imagem de Deus” → “criatura racional ou intelectual, feita segundo a imagem de Deus” — “After the image” → “segundo a imagem” (Key Terms), preservando a formulação da distinção terminológica.
+- `pt-BR/ch015.md` [86]: “Mas não podes fixar ali o olhar” → “Mas não podes fixar ali a visão” — “Sight” → “visão” (Key Terms); estava “olhar”.
+
+### Part terms 6 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of ch015.md [40]–[42], [51]–[55], [61]–[66], [85]–[87]: the eight round-1 changes are correct and no new defects were found.
+- Rejected: pt-BR/ch015.md [42] — “assim como Ele nasce do conhecimento do Pai” uses “nascer” for the Word's divine birth, unlike the round-1 fixes that use “gerado”. — The source sets the two births side by side (“this too is born … as that also is born”). Keeping “nasce” in both clauses holds the comparison between the human word and the Verbo. The table says “born” may also take “gerado”; it does not require it.
+- Rejected: pt-BR/ch015.md [85] — “the sight of the human mind” is rendered “o olhar da mente humana”, not “visão”. — The Key Terms table gives “olhar da mente” for the mind's inner seeing (“mind’s eye”), and “visão” appears in the same sentence for “a certain sight of things invisible”. The choice is defensible.
+- Rejected: pt-BR/ch015.md [86] — In the quotation “Let my eyes behold the things that are equal”, “equal” is rendered “as coisas justas”. — “Justas” keeps the equity sense of the quoted verse. It is not a familiar Portuguese Bible wording replacing the source's, and “iguais” would read obscurely.
+- Rejected: pt-BR/ch015.md [41] — “Luz da Luz” does not match the Key Terms row “Luz de Luz”. — The table has two rows for this formula, one with each form. The variation is not a defect for this part.
