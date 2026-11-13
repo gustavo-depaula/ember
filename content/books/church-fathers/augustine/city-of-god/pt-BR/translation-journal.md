@@ -14,7 +14,7 @@ Destino: pt-BR.
 | divine providence | providência divina | |
 | grace | graça | |
 | humility / pride | humildade / soberba | “Orgulho” apenas quando o contexto exigir outro matiz. |
-| lust | paixão | Segue a convenção de *Sobre a Graça de Cristo e o Pecado Original*. |
+| lust | paixão | Segue a convenção de *Sobre a Graça de Cristo e o Pecado Original*. Nos Livros 14–15, “concupiscência” nos usos nominais genérico e sexual; no uso verbal, “cobiçar”. |
 | lust of rule | paixão de dominar | Conserva a relação entre o domínio exercido e a paixão que governa seu agente. |
 | lust of the flesh | paixão da carne | |
 | godliness / piety | piedade | |
@@ -434,7 +434,7 @@ Destino: pt-BR.
 | Porphyry | Porfírio | Filósofo platônico. |
 | Romulus | Rômulo | Fundador de Roma. |
 | first death; second death | primeira morte; segunda morte | Distingue-se a morte da alma, a do corpo e a morte eterna do homem inteiro. |
-| lust; concupiscence | concupiscência | Conforme o diário das Confissões; no uso verbal de Gálatas 5:17, “cobiçar”. |
+| lust; concupiscence | concupiscência | Conforme o diário das Confissões; no uso verbal de Gálatas 5:17 e Mateus 5:28, “cobiçar”. |
 | regeneration | regeneração | Contexto batismal. |
 | seminal nature | natureza seminal | Natureza humana presente no primeiro homem e transmitida à descendência. |
 | Jove; Jupiter | Júpiter | Conforme o diário das Confissões. |
@@ -815,7 +815,7 @@ Destino: pt-BR.
 - Conservadas as menções a Ceres no relato de Átis e a formulação “cada um dos dois grupos” no parágrafo 73, conforme a fonte fornecida.
 - No capítulo 22, mantido “tu” para a interpelação individual a Varrão e adotado “vós” quando a interpelação inclui também os leitores de suas obras.
 - Acrescentadas as notas do tradutor [^3], sobre a aproximação entre Cronos e “tempo”; [^4], sobre os galos como sacerdotes eunucos; e [^5], sobre o jogo latino entre *mundus* e *immundus*.
-- Traduzido “republic”, no capítulo 32, por “comunidade política”, segundo o sentido institucional amplo do contexto.
+- Traduzido “republic”, no capítulo 32, por “república”, conforme a tabela de termos.
 - Interpretado “Sacred Rights”, no título do capítulo 34, como erro por “Sacred Rites”, em conformidade com o conteúdo do capítulo, e traduzido por “ritos sagrados”.
 - Traduzido o parágrafo 97 do Livro 7 em uma única unidade, preservando o termo grego *νεκρομαντείαν* em itálico.
 - Acrescentada a nota do tradutor `[^1]` ao resumo do Livro 8 para explicar a expressão latina *facile princeps*, conservada no texto.
@@ -844,7 +844,7 @@ Destino: pt-BR.
 - No capítulo 27, conservada a indicação da fonte de que a citação da quarta Écloga se encontra “quase no último verso”, sem corrigir silenciosamente a localização.
 - No capítulo 28, mantida a diferença entre “virtude de Deus”, na interpelação a Porfírio, e “poder de Deus”, na citação de 1 Coríntios, conforme o vocabulário da fonte.
 - No parágrafo 68, empregado “vós” para a interpelação coletiva aos platônicos, explicitada pelas referências a Porfírio em terceira pessoa e aos discípulos de Platão.
-- Conservada a grafia do título latino *De Regressu Animœ* tal como aparece na fonte.
+- O título latino *De Regressu Animœ* da fonte foi grafado *De Regressu Animæ*, forma latina correta.
 - No encerramento do parágrafo 78, o jogo com os dois sentidos de “storm” foi vertido por “investir contra nossa posição” e “tomá-la de assalto”, preservando a metáfora militar.
 - No parágrafo 11, “creational beginning” foi vertido por “princípio apenas quanto à criação”, em oposição ao princípio temporal; conservado “incerta” para “uncertain” na descrição da nova felicidade da alma.
 - No parágrafo 21, preservada a oposição entre “primeiro dia” e “um dia”, da qual depende a interpretação da unidade do dia da criação.
@@ -1371,3 +1371,276 @@ Verdict: 0 meaning-level, 0 minor. Delta read of ch022 [50]-[52], [66]-[68], [85
 - Rejected: pt-BR/ch022.md [51] — “negou que ela fosse um corpo” drops “at all” — The denial is already total in Portuguese; no content is lost.
 - Rejected: pt-BR/ch022.md [68] — Heading “O homem perfeito…” lacks the “Do/Dos” used in neighbouring headings — Style choice; the content of the heading is complete and correct.
 - Rejected: pt-BR/ch022.md [88] — “como posso chamá-lo” for “as I may call it” — With no question mark it reads as a concessive aside; defensible.
+
+### Part terms 1 of 14, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 9 minor. 61 parágrafos sinalizados lidos; 7 apresentaram deriva terminológica, com 9 ocorrências corrigidas.
+- `pt-BR/ch001.md` [35]: “com que firmeza de confiança piedosa” → “com que fortaleza de confiança piedosa” — *fortitude* → “fortaleza” (Key Terms); estava “firmeza”
+- `pt-BR/ch001.md` [50]: “uma sorte muito lastimável” → “um destino muito lastimável” — *fate* → “destino” (Key Terms); estava “sorte”
+- `pt-BR/ch001.md` [52]: “superior a tão terrível sorte” → “superior a tão terrível destino” — *fate* → “destino” (Key Terms); estava “sorte”
+- `pt-BR/ch001.md` [53]: “gozar da felicidade de uma alma virtuosa” → “gozar da bem-aventurança de uma alma virtuosa” — *blessedness* → “bem-aventurança”, derivação de “bem-aventurados” (Key Terms); estava “felicidade”
+- `pt-BR/ch001.md` [53]: “também uma cidade pode ser feliz” → “também uma cidade pode ser bem-aventurada” — *blessed* → “bem-aventurada” (Key Terms); estava “feliz”
+- `pt-BR/ch001.md` [53]: “Pois a felicidade de uma comunidade” → “Pois a bem-aventurança de uma comunidade” — *blessedness* → “bem-aventurança”, derivação de “bem-aventurados” (Key Terms); estava “felicidade”
+- `pt-BR/ch002.md` [16]: “veneno ardente da luxúria” → “veneno ardente da paixão” — *lust* → “paixão” (Key Terms, convenção empregada nestes livros iniciais); estava “luxúria”
+- `pt-BR/ch002.md` [26]: “estimulasse a luxúria dos jovens” → “estimulasse a paixão dos jovens” — *lust* → “paixão” (Key Terms, convenção empregada nestes livros iniciais); estava “luxúria”
+- `pt-BR/ch002.md` [46]: “não pela retidão deles” → “não pela justiça deles” — *righteousness* → “justiça” (Key Terms); estava “retidão”
+
+### Part terms 1 of 14, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of ch001 [34–36, 49–54] and ch002 [15–17, 25–27, 45–47]: the 9 terminology fixes (fortaleza, destino, bem-aventurança, paixão, justiça) are correct, concord holds, and no new defects were found.
+- Rejected: pt-BR/ch001.md [34] — Audit flag: the source parenthesis “(or desire to have them)” is not kept as a parenthesis — It is rendered between commas with the content complete; this is punctuation style, not a loss.
+- Rejected: pt-BR/ch002.md [46] — “the rustling of dancers” rendered as “o roçar das vestes dos dançarinos” — This makes the image explicit without changing the sense; it is a defensible choice.
+- Rejected: pt-BR/ch002.md [46] — “than of that done to one's own person” rendered as “do que aquele que alguém causa à própria pessoa” — It correctly reads the harm as done by someone to himself, which matches the argument and the original.
+
+### Part terms 2 of 14, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 10 minor. 53 parágrafos sinalizados examinados; 9 apresentam drift, com 10 correções.
+- `pt-BR/ch002.md` [65]: “conhecedores dos acontecimentos futuros” → “prescientes dos acontecimentos futuros” — *prescient* → “prescientes”, derivação de “presciência” (Key Terms); estava “conhecedores”.
+- `pt-BR/ch003.md` [26]: “a ávida sede de lucro” → “a ávida paixão pelo lucro” — *lust* → “paixão” (Key Terms); estava “sede”.
+- `pt-BR/ch003.md` [37]: “pela sede de poder” → “pela paixão pelo poder” — *lust* → “paixão” (Key Terms); estava “sede”.
+- `pt-BR/ch003.md` [42]: “estabelecido um terceiro refúgio” → “estabelecido um terceiro asilo” — *asylum* → “asilo” (Key Terms); estava “refúgio”.
+- `pt-BR/ch003.md` [44]: “agora de seu terceiro refúgio” → “agora de seu terceiro asilo” — *asylum* → “asilo” (Key Terms); estava “refúgio”.
+- `pt-BR/ch003.md` [50]: “E fará seu próprio sangue rebelde” → “E fará sua própria descendência rebelde” — *seed* designa os filhos → “descendência” (Key Terms); estava “sangue”.
+- `pt-BR/ch004.md` [4]: “colocou os jogos cênicos” → “colocou os espetáculos teatrais” — *scenic plays* → “espetáculos teatrais” (Key Terms); “jogos cênicos” corresponde a *scenic games*.
+- `pt-BR/ch004.md` [4]: “os jogos cênicos nem sequer” → “os espetáculos teatrais nem sequer” — *scenic plays* → “espetáculos teatrais” (Key Terms); “jogos cênicos” corresponde a *scenic games*.
+- `pt-BR/ch004.md` [10]: “respondeu com ousada altivez” → “respondeu com ousada soberba” — *pride* → “soberba” (Key Terms); estava “altivez”.
+- `pt-BR/ch004.md` [18]: “Libentina, cujo nome vem da libido” → “Libentina, cujo nome vem da paixão” — *lust* → “paixão” (Key Terms); estava “libido”.
+
+### Part terms 2 of 14, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Leitura delta de ch002–ch004 (10 alterações e parágrafos vizinhos): todas as alterações estão corretas e não foi encontrado nenhum defeito novo.
+- Rejected: pt-BR/ch004.md [18] — “cujo nome vem da paixão” perde a ligação etimológica de Libentina com *libido*, que “libido” conservava — A fonte inglesa diz apenas “lust” e também não explicita a etimologia. “Paixão” segue a linha *lust* da tabela de termos, e o sentido não muda.
+- Rejected: pt-BR/ch003.md [37] — “pela paixão pelo poder” difere de “sede de domínio” (*lust of sovereignty*) e de “paixão de dominar” (*lust of rule*) — A fonte diz “Lust of Power”, expressão que não tem linha própria na tabela. A tradução segue a linha geral *lust* → “paixão” e é correta.
+- Rejected: pt-BR/ch003.md [44] — “o terceiro refúgio dos deuses troianos” não foi uniformizado para “asilo” — Aqui a fonte diz “third retreat”, não “asylum”, e “refúgio” é a tradução adequada.
+- Rejected: pt-BR/ch003.md [50] — “descendência” para *seed* num contexto não bíblico — *Seed* designa os filhos de Bruto. “Descendência” é exato, segue a tabela e mantém a frase “fará sua própria descendência rebelde / Sangrar” gramatical.
+
+### Part terms 3 of 14, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 4 minor. 45 parágrafos sinalizados examinados; 4 ocorrências com desvio terminológico.
+- `pt-BR/ch004.md` [72]: “cujo maior desejo é enganar” → “cuja maior paixão é enganar” — *lust* → “paixão” (Key Terms); era “desejo”.
+- `pt-BR/ch005.md` [43]: “não entregue ao crime nem à luxúria” → “não entregue ao crime nem à paixão” — *lust* → “paixão” (Key Terms); era “luxúria”.
+- `pt-BR/ch005.md` [53]: “declaravam crime nem à luxúria” → “declaravam crime nem à paixão” — *lust* → “paixão” (Key Terms); era “luxúria”, na retomada da formulação de Catão.
+- `pt-BR/ch005.md` [60]: “a própria prole rebelde” → “a própria descendência rebelde” — *seed* → “descendência” (Key Terms); era “prole”.
+
+### Part terms 3 of 14, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta read: os 4 ajustes de 'lust'/'seed' estão corretos; 2 defeitos menores nos parágrafos exibidos (negação mal construída em ch004 [72], atribuição apagada em ch005 [42]).
+- `pt-BR/ch004.md` [72]: “Isso certamente parece ter sido feito por nenhuma outra razão senão porque” → “Isso certamente parece não ter sido feito por outra razão senão porque” — source: “for no other cause except”; “nenhuma” posposto ao verbo exige negação anteposta na norma culta
+- `pt-BR/ch005.md` [42]: “pois dele se diz:” → “pois diz dele:” — source: “for he says of him”; o sujeito é Salústio, já introduzido como “o mesmo autor”, e a impessoal apaga a atribuição
+- Rejected: pt-BR/ch005.md [60] — “descendência” para “seed”, referindo-se aos filhos de Bruto — coerente com a tabela de termos; o sentido de filhos se mantém no contexto
+- Rejected: pt-BR/ch005.md [44] — “pais” para “fathers” (patrícios) — tradução literal defensável; o contexto opõe os pais ao povo
+- Rejected: pt-BR/ch005.md [53] — audit: emphasis markers differ — itálico em λατρεία segue a regra para termos gregos mantidos
+- Rejected: pt-BR/ch005.md [61] — audit: parentheses differ — o parêntese da fonte foi integrado à frase com o conteúdo completo
+
+### Part terms 3 of 14, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente os seis parágrafos exibidos e as notas do tradutor; os dois ajustes estão corretos, sem novos defeitos objetivos.
+
+### Part terms 4 of 14, Round 1 (codex, terms read)
+Verdict: 2 meaning-level, 6 minor. 48 parágrafos sinalizados lidos; 6 apresentavam desvio, com 8 correções.
+- `pt-BR/ch006.md` [37]: “o vinho para excitar a luxúria” → “o vinho para excitar a concupiscência” — *lust* → “concupiscência” (Key Terms, sentidos genérico e sexual); estava “luxúria”.
+- `pt-BR/ch006.md` [39]: “Que o desejo da carne e do sangue” → “Que a concupiscência da carne e do sangue” — *lust* → “concupiscência” (Key Terms, sentidos genérico e sexual); estava “desejo”.
+- `pt-BR/ch006.md` [43]: “Para satisfazer a luxúria dos reis” → “Para satisfazer a concupiscência dos reis” — *lust* → “concupiscência” (Key Terms, sentidos genérico e sexual); estava “luxúria”.
+- `pt-BR/ch007.md` [66]: “pela luxúria da alma” → “pela concupiscência da alma” — *lust* → “concupiscência” (Key Terms, sentido genérico); aqui é a avidez da alma por mais demônios, não especificamente o vício sexual da luxúria. *(meaning)*
+- `pt-BR/ch007.md` [66]: “a própria luxúria insana” → “a própria concupiscência insana” — *lust* → “concupiscência” (Key Terms, sentido genérico); designa a avidez por muitas deidades, não especificamente a luxúria sexual. *(meaning)*
+- `pt-BR/ch007.md` [77]: “para viver feliz depois da morte” → “para viver bem-aventurado depois da morte” — *blessedly* → “bem-aventurado” (Key Terms); estava “feliz”.
+- `pt-BR/ch007.md` [91]: “numa única comunidade política” → “numa única república” — *republic* → “república” (Key Terms); estava “comunidade política”, variante não prevista.
+- `pt-BR/ch007.md` [91]: “e nessa comunidade foi predito” → “e nessa república foi predito” — *republic* → “república” (Key Terms); a segunda ocorrência estava “comunidade”.
+
+### Part terms 4 of 14, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read of ch006 [36–44] and ch007 [65–67, 76–78, 90–92]. The eight lust, blessedly and republic changes are correct. One stale journal entry about “comunidade política” is fixed.
+- `pt-BR/translation-journal.md`: “- Traduzido “republic”, no capítulo 32, por “comunidade política”, segundo o sentido institucional amplo do contexto.” → “- Traduzido “republic”, no capítulo 32, por “república”, conforme a tabela de termos.” — The previous round changed both occurrences in ch007 [91] to “república”; the journal entry still claims “comunidade política”, which no longer occurs.
+- Rejected: pt-BR/ch007.md [77] — “viver bem-aventurado” as a rendering of “live blessedly” — A predicative adjective after “viver” is idiomatic Portuguese and keeps the Key Terms rendering “bem-aventurado”.
+- Rejected: pt-BR/ch006.md [43] — “Túlio Hostílio” against “Tulo Hostílio” in another Key Terms row — The Key Terms row for Book 6 (Titus Tatius / Tullus Hostilius) gives “Túlio Hostílio”, so the file follows its own row.
+- Rejected: pt-BR/ch006.md [37], [39], [43]; ch007.md [66] — The Key Terms row “lust | paixão” conflicts with the later row “lust | concupiscência” — The later row covers these books, and the changes follow it. The earlier row belongs to other parts of the book.
+
+### Part terms 4 of 14, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificada a alteração no diário: a decisão sobre “republic” agora corresponde a “república”, conforme a tabela de termos e as correções registradas. Nenhum defeito encontrado no delta apresentado.
+
+### Part terms 5 of 14, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 7 minor. 42 parágrafos sinalizados examinados; 4 com desvios terminológicos, totalizando 7 ocorrências corrigidas.
+- `pt-BR/ch008.md` [19]: “muitos são infelizes por amar” → “muitos são miseráveis por amar” — *miserable* → “miseráveis”, derivação de “miséria” (Key Terms), na contraposição à bem-aventurança.
+- `pt-BR/ch008.md` [19]: “e ainda mais infelizes quando dele fruem” → “e ainda mais miseráveis quando dele fruem” — *miserable* → “miseráveis”, mantendo a contraposição entre miséria e bem-aventurança.
+- `pt-BR/ch008.md` [19]: “senão o mais infeliz dos homens” → “senão o mais miserável dos homens” — *most miserable* → “mais miserável”, conforme “miséria” (Key Terms).
+- `pt-BR/ch008.md` [29]: “opinião de Platão acerca dos jogos cênicos” → “opinião de Platão acerca dos espetáculos teatrais” — *scenic plays* → “espetáculos teatrais” (Key Terms); “jogos cênicos” corresponde a *scenic games*.
+- `pt-BR/ch008.md` [29]: “a respeito desses jogos cênicos” → “a respeito desses espetáculos teatrais” — *scenic plays* → “espetáculos teatrais” (Key Terms).
+- `pt-BR/ch008.md` [48]: “um demônio que finge ser divino” → “um demônio que finge divindade” — *divinity* → “divindade” (Key Terms); estava parafraseado como “ser divino”.
+- `pt-BR/ch008.md` [62]: “na posse de uma vontade boa” → “na posse de uma boa vontade” — *good will* → “boa vontade” (Key Terms); estava “vontade boa”.
+
+### Part terms 5 of 14, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Leitura delta de ch008 [18]–[63]: as sete correções da rodada anterior estão corretas; uma correção nova, menor (“beatific” → “beatificante”, conforme Key Terms, em [19]).
+- `pt-BR/ch008.md` [19]: “Esse bem que torna bem-aventurado, portanto,” → “Esse bem beatificante, portanto,” — source: “This beatific good”; Key Terms: beatific → “beatificante”. A paráfrase “que torna bem-aventurado” não segue a tabela.
+- Rejected: pt-BR/ch008.md [30] — “these plays” e “with plays” vertidos por “jogos”, e não por “espetáculos teatrais” — Aqui “plays” designa os jogos instituídos por ordem dos deuses no episódio de Tito Latínio e as celebrações festivas de Labeão, não “scenic plays”. “Jogos” é correto.
+- Rejected: pt-BR/ch008.md [29] — “scenic displays” vertido por “espetáculos cênicos” — A fonte usa expressão distinta de “scenic plays”, e a tabela não a fixa. A tradução é fiel.
+- Rejected: pt-BR/ch008.md [19], [29], [30] — Auditoria: parênteses da fonte ausentes — Os parênteses foram trocados por travessões, sem perda de conteúdo. É escolha de pontuação, não defeito.
+- Rejected: pt-BR/ch008.md [19] — Auditoria: marcas de ênfase a mais — O itálico marca o termo grego *ἠθική* conservado, conforme a regra da casa.
+
+### Part terms 5 of 14, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente ch008.md [18]–[20] e as notas fornecidas; a correção para “bem beatificante” está correta e não foram encontrados novos defeitos.
+
+### Part terms 6 of 14, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 6 minor. 45 parágrafos sinalizados examinados; 6 ocorrências com desvio.
+- `pt-BR/ch010.md` [4]: “àquele único bem supremo” → “àquele único sumo bem” — *supreme good* → “sumo bem” (Key Terms); estava “bem supremo”.
+- `pt-BR/ch010.md` [16]: “àquele bem e fim supremo” → “àquele sumo bem e fim supremo” — *supreme good* → “sumo bem” (Key Terms); o adjetivo compartilhado em “bem e fim supremo” não preservava a expressão fixada.
+- `pt-BR/ch010.md` [38]: “é sumamente infeliz” → “é sumamente miserável” — *miserable*, derivado de *misery*, integra a contraposição filosófica à bem-aventurança; preservar “miséria” (Key Terms) pela forma “miserável”.
+- `pt-BR/ch010.md` [45]: “os dons da pureza da mente” → “as graças da pureza da mente” — *graces* → “graças” (Key Terms); estava “dons”.
+- `pt-BR/ch010.md` [77]: “cuja organização política foi” → “cujo Estado foi” — *commonwealth* → “Estado”, variante autorizada nas notas para a comunidade política em sentido genérico; estava “organização política”.
+- `pt-BR/ch010.md` [77]: “curaram deformidades e doenças” → “curaram deformidades e enfermidades” — *sicknesses* → “enfermidades” (Key Terms); estava “doenças”.
+
+### Part terms 6 of 14, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta read of ch010 [3–5, 15–17, 37–39, 44–46, 76–78] and its 6 fixes: 5 correct; one left a concord error in [77] (consagrada→consagrado); one false journal claim about *Animœ*.
+- `pt-BR/ch010.md` [77]: “cujo Estado foi, por assim dizer, consagrada a prefigurar” → “cujo Estado foi, por assim dizer, consagrado a prefigurar” — a troca de “organização política” por “Estado” deixou o particípio no feminino; a concordância com “Estado” exige “consagrado”
+- `pt-BR/translation-journal.md`: “- Conservada a grafia do título latino *De Regressu Animœ* tal como aparece na fonte.” → “- O título latino *De Regressu Animœ* da fonte foi grafado *De Regressu Animæ*, forma latina correta.” — o diário afirma que a grafia da fonte foi conservada, mas ch010 [76] traz *Animæ*
+- Rejected: pt-BR/ch010.md [4] — parênteses da fonte (“an error I have already exploded”) ausentes — o conteúdo está presente, entre travessões; a mudança é só de pontuação
+- Rejected: pt-BR/ch010.md [77] — “vosso caminho” misturado com a terceira pessoa (“Deus tenha misericórdia”) na citação do salmo — a fonte faz a mesma alternância (“God be merciful… Your way”)
+
+### Part terms 6 of 14, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente ch010 [76–78] e as três notas do tradutor; verificadas as duas correções da rodada anterior, ambas corretas. Nenhum novo defeito encontrado no trecho apresentado.
+
+### Part terms 7 of 14, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 8 minor. 42 parágrafos verificados; 8 ocorrências com desvio em 4 parágrafos.
+- `pt-BR/ch011.md` [49]: “como a uma comunidade” → “como a uma república” — *commonwealth* → “república” (Key Terms); preserva a comparação com uma comunidade política.
+- `pt-BR/ch011.md` [60]: “mas a sua infelicidade.” → “mas a sua miséria.” — *misery* → “miséria” (Key Terms), na contraposição filosófica à bem-aventurança.
+- `pt-BR/ch011.md` [60]: “na qual sua infelicidade não pudesse morrer” → “na qual sua miséria não pudesse morrer” — *misery* → “miséria” (Key Terms); estava “infelicidade”.
+- `pt-BR/ch011.md` [60]: “existir eternamente na mesma infelicidade” → “existir eternamente na mesma miséria” — *misery* → “miséria” (Key Terms); estava “infelicidade”.
+- `pt-BR/ch011.md` [60]: “viver um pouco mais na mesma infelicidade” → “viver um pouco mais na mesma miséria” — *misery* → “miséria” (Key Terms); estava “infelicidade”.
+- `pt-BR/ch013.md` [40]: “que sejam declarados infelizes” → “que sejam declarados miseráveis” — *miserable*, derivado de *misery* → “miseráveis”, conforme “miséria” (Key Terms), em oposição à bem-aventurança.
+- `pt-BR/ch013.md` [40]: “têm infelizes por deuses” → “têm miseráveis por deuses” — *wretches* retoma os anteriormente chamados *miserable*; mantém a mesma designação derivada de “miséria” (Key Terms).
+- `pt-BR/ch013.md` [42]: “quando estão consumidos pela doença” → “quando estão consumidos pela enfermidade” — *sickness* → “enfermidade” (Key Terms); estava “doença”.
+
+### Part terms 7 of 14, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of ch011 [48–50, 59–61] and ch013 [39–43]: all 8 Key Terms fixes are correct and leave concord and the neighbouring text intact; no new defects.
+- Rejected: pt-BR/ch011.md [60] — “adiar o fim que a morte lhe daria”: the pronoun's antecedent after “infelicidade” became “miséria” — “lhe” is a dative with no gender, so it still refers back to “miséria” and the sentence stays correct.
+- Rejected: pt-BR/ch013.md [42] — “enfermidade” (sickness) and “doença” (disease) now both appear in the paragraph — This is right: the source also distinguishes sickness from disease, and the Key Terms table gives “enfermidade” for sickness.
+- Rejected: pt-BR/ch011.md [49] — The parenthesis “(which does not exist)” was rendered between commas — This is a style choice; the content is complete (“que não possuem”).
+- Rejected: pt-BR/ch013.md [40] — “Jupiter from earth to sky” was rendered “Júpiter abandone tudo, da terra ao céu” — This is a defensible way to fill in the elliptical source: Jupiter would leave the elements that reach from earth to heaven, as the paragraph has already said.
+
+### Part terms 8 of 14, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 14 minor. 45 parágrafos sinalizados examinados; 8 apresentavam deriva terminológica; 2 linhas do glossário complementadas.
+- `pt-BR/translation-journal.md`: “| lust | paixão | Segue a convenção de *Sobre a Graça de Cristo e o Pecado Original*. Na oposição paulina entre carne e espírito, também “concupiscência” como substantivo e “cobiçar” como verbo. |” → “| lust | paixão | Segue a convenção de *Sobre a Graça de Cristo e o Pecado Original*. Nos Livros 14–15, “concupiscência” nos usos nominais genérico e sexual; no uso verbal, “cobiçar”. |” — A tradução emprega consistentemente “concupiscência” nos Livros 14–15, conforme as outras entradas do glossário; falta explicitar esse âmbito nesta linha.
+- `pt-BR/translation-journal.md`: “| lust; concupiscence | concupiscência | Conforme o diário das Confissões; no uso verbal de Gálatas 5:17, “cobiçar”. |” → “| lust; concupiscence | concupiscência | Conforme o diário das Confissões; no uso verbal de Gálatas 5:17 e Mateus 5:28, “cobiçar”. |” — O sentido verbal também ocorre em Mateus 5:28; “cobiçar” preserva naturalmente esse uso.
+- `pt-BR/ch013.md` [44]: “vivem em repouso tranquilo” → “vivem em paz e repouso” — *peaceful rest* → “paz e repouso”; preserva “paz” (Key Terms), em vez da paráfrase “tranquilo”.
+- `pt-BR/ch013.md` [53]: “mas por mudar sua condição” → “mas por mudar sua qualidade” — *quality* → “qualidade” (Key Terms); era “condição”, no contraste entre natureza e qualidade.
+- `pt-BR/ch014.md` [39]: “olha para uma mulher para desejá-la” → “olha para uma mulher para cobiçá-la” — *lust after her* → “cobiçá-la”, forma verbal correspondente a “concupiscência”.
+- `pt-BR/ch014.md` [56]: “o mal-estar da doença revela” → “o mal-estar da enfermidade revela” — *sickness* → “enfermidade” (Key Terms); era “doença”.
+- `pt-BR/ch014.md` [68]: “completar esta cidade beatíssima” → “completar esta cidade sumamente bem-aventurada” — *most blessed* → “sumamente bem-aventurada” (Key Terms); era “beatíssima”.
+- `pt-BR/ch014.md` [70]: “livremente e sem receio de parecer obscenos” → “livremente e sem temor de parecer obscenos” — *fear* → “temor” (Key Terms); era “receio”.
+- `pt-BR/ch015.md` [13]: ““a carne deseja contra o espírito” → ““a carne cobiça contra o espírito” — *lusts* → “cobiça”; o glossário prescreve “cobiçar” no uso verbal de Gálatas 5:17.
+- `pt-BR/ch015.md` [13]: “Esse desejo espiritual pode, portanto,” → “Essa concupiscência espiritual pode, portanto,” — *spiritual lusting* → “concupiscência espiritual”; preserva o termo genérico usado no argumento.
+- `pt-BR/ch015.md` [13]: “combater o desejo carnal de outro homem” → “combater a concupiscência carnal de outro homem” — *carnal lust* → “concupiscência carnal” (Key Terms); era “desejo carnal”.
+- `pt-BR/ch015.md` [13]: “ou o desejo carnal pode combater” → “ou a concupiscência carnal pode combater” — *carnal lust* → “concupiscência carnal” (Key Terms); era “desejo carnal”.
+- `pt-BR/ch015.md` [13]: “os desejos carnais de dois homens bons” → “as concupiscências carnais de dois homens bons” — *carnal lusts* → “concupiscências carnais” (Key Terms); era “desejos carnais”.
+- `pt-BR/ch015.md` [17]: “mas pelo desejo de dominar” → “mas pela paixão de dominar” — *lust of rule* → “paixão de dominar” (Key Terms); era “desejo de dominar”.
+
+### Part terms 8 of 14, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read of 14 changes in ch013–ch015 and the journal: all correct; one leftover “deseja” in Gálatas 5:17 in ch015 [18] aligned with the Key Terms.
+- `pt-BR/ch015.md` [18]: ““A carne deseja contra o espírito”” → ““A carne cobiça contra o espírito”” — source: “The flesh lusts against the spirit” (Gálatas 5:17); the Key Terms table prescribes “cobiçar” for the verbal use in Gálatas 5:17, and [13] now uses “cobiça” for the same quotation
+- Rejected: pt-BR/ch015.md [18] — “para realizá-lo em seus desejos” for “in the lusts thereof” instead of “concupiscências” — allusion to Romans 6:12 inside the author's paraphrase; “desejos” keeps the sense and the table does not cover this use
+- Rejected: pt-BR/ch013.md [44] — “quer estejam prestes a ficar” leaves “livres” implied — acceptable ellipsis after the parallel “já estejam livres do corpo”; the sense is clear
+
+### Part terms 8 of 14, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente ch015.md [17–19] e a nota do tradutor fornecida; a alteração para “cobiça” está correta e conforme o glossário. Nenhum novo defeito encontrado.
+
+### Part terms 9 of 14, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 9 minor. 53 parágrafos sinalizados lidos; 9 ocorrências de desvio corrigidas em 7 parágrafos.
+- `pt-BR/ch015.md` [65]: “satisfeito nelas sua luxúria” → “satisfeito nelas sua concupiscência” — *lust* → “concupiscência” (Key Terms, sentido sexual); estava “luxúria”.
+- `pt-BR/ch015.md` [65]: “capazes de sentir desejo carnal” → “capazes de sentir concupiscência” — *lust* → “concupiscência” (Key Terms, sentido sexual); estava “desejo carnal”.
+- `pt-BR/ch015.md` [66]: “não movidos pela luxúria da união carnal” → “não movidos pela concupiscência da união carnal” — *lust* → “concupiscência” (Key Terms, sentido sexual); estava “luxúria”.
+- `pt-BR/ch016.md` [67]: “não para satisfazer a luxúria” → “não para satisfazer a concupiscência” — *lust* → “concupiscência” (Key Terms, sentido sexual); estava “luxúria”.
+- `pt-BR/ch016.md` [67]: “Aqui não há luxúria desenfreada” → “Aqui não há concupiscência desenfreada” — *lust* → “concupiscência” (Key Terms, sentido sexual); estava “luxúria”.
+- `pt-BR/ch016.md` [77]: “cuja luxúria não pôde prejudicar” → “cuja concupiscência não pôde prejudicar” — *lust* → “concupiscência” (Key Terms, sentido sexual); estava “luxúria”.
+- `pt-BR/ch016.md` [78]: “escapar ao último juízo” → “escapar ao juízo final” — *last judgment* → “juízo final” (Key Terms); estava “último juízo”.
+- `pt-BR/ch016.md` [83]: “acerca do chamado das nações” → “acerca da vocação das nações” — *calling of the nations* → “vocação das nações” (Key Terms); estava “chamado das nações”.
+- `pt-BR/ch016.md` [108]: “pois seu caráter divino foi atestado” → “pois sua divindade foi atestada” — *divinity* → “divindade” (Key Terms); estava “caráter divino”.
+
+### Part terms 9 of 14, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 0 minor. Delta read of ch015 [64–67] and ch016 [66–68, 76–79, 82–84, 107–109]: the nine Key Terms fixes are correct; one meaning fix in ch016 [108], where the plagues were attributed to Moses instead of God.
+- `pt-BR/ch016.md` [108]: “ele lhes infligiu dez pragas memoráveis” → “Deus lhes infligiu dez pragas memoráveis” — source says “ten memorable plagues were brought by Him upon them”, with capital H, so the agent is God; “ele” follows “venceu os magos do Faraó”, whose subject is Moses, so the plagues read as Moses' doing *(meaning)*
+- Rejected: pt-BR/ch015.md [65], [66]; pt-BR/ch016.md [67], [77] — “concupiscência” for *lust* in Books 15–16, while the first Key Terms row limits it to Books 14–15 — the later row (“lust | concupiscência”, same term in the generic and sexual senses) and the Confissões row support it; the sense is unchanged and the file is consistent
+- Rejected: pt-BR/ch016.md [82] — “quando, então, reconhece o dom de Deus, ela é piedosa” renders “when, if it has acknowledged…” without an explicit “se” — “quando” here reads as a general condition (“whenever”); the dependence of piety on acknowledging the gift is kept
+- Rejected: pt-BR/ch015.md [65], [66] — mechanical audit: parentheses differ — the source parentheses were replaced by dashes or commas; no content was lost
+- Rejected: pt-BR/ch015.md [65] — mechanical audit: emphasis markers differ — these are the house italics for the Greek *ἄγγελος* and the Latin *angelus*
+
+### Part terms 9 of 14, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente ch016.md [107–109] e as três notas do tradutor fornecidas; a correção para atribuir as pragas a Deus está correta. Nenhum novo defeito encontrado.
+
+### Part terms 10 of 14, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 4 minor. 44 parágrafos sinalizados lidos; 3 com desvio terminológico, totalizando 4 correções.
+- `pt-BR/ch017.md` [48]: “a concordância racional e bem ordenada de sons diversos” → “a concórdia racional e bem ordenada de sons diversos” — *well-ordered concord* → “concórdia bem ordenada” (Key Terms); estava “concordância racional e bem ordenada”.
+- `pt-BR/ch017.md` [67]: “como estirpe régia” → “como descendência régia” — *seed* → “descendência” (Key Terms); estava “estirpe”.
+- `pt-BR/ch018.md` [6]: “seus próprios interesses e desejos” → “seus próprios interesses e concupiscências” — *lusts* → “concupiscências” (Key Terms, que inclui o sentido genérico); estava “desejos”.
+- `pt-BR/ch018.md` [6]: “por interesse ou desejo terreno” → “por interesse ou concupiscência terrena” — *lust* → “concupiscência” (Key Terms, que inclui o sentido genérico); estava “desejo”.
+
+### Part terms 10 of 14, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of ch017 [47–49, 66–68] and ch018 [5–7]: the four terminology changes are correct and broke nothing in their sentences or neighbouring paragraphs; no defects found.
+- Rejected: pt-BR/ch018.md [6] — “concupiscências”/“concupiscência terrena” for *lusts*/*lust* in a non-sexual, generic sense, where one Key Terms row gives “paixão” — Another Key Terms row explicitly covers the generic sense with “concupiscência”. The change is defensible, and the concord “concupiscência terrena” is correct.
+- Rejected: pt-BR/ch018.md [6] — Source parenthesis rendered with dashes (audit flag) — The parenthetical content is fully kept. The dashes are a punctuation choice and do not drop anything.
+- Rejected: pt-BR/ch017.md [67] — “voltasse à linhagem de Davi como descendência régia” for *return to David's line as the seed royal* — It is faithful to the source and agrees with the Key Terms row *seed* → “descendência”. The sentence remains grammatical.
+
+### Part terms 11 of 14, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 12 minor. Lidas 82 sinalizações em 45 parágrafos; encontrados desvios em 6 parágrafos, com 11 ocorrências corrigidas e uma linha do glossário esclarecida.
+- `pt-BR/translation-journal.md`: “| lust | paixão | Segue a convenção de *Sobre a Graça de Cristo e o Pecado Original*. |” → “| lust | paixão | Segue a convenção de *Sobre a Graça de Cristo e o Pecado Original*. Na oposição paulina entre carne e espírito, também “concupiscência” como substantivo e “cobiçar” como verbo. |” — Esclarece o sentido paulino, para o qual as outras linhas do glossário estabelecem “concupiscência” e “cobiçar”.
+- `pt-BR/ch018.md` [116]: “enquanto nos Setenta se reduz” → “enquanto na Septuaginta se reduz” — *Septuagint* → “Septuaginta” (Key Terms); era “Setenta”, designando a versão.
+- `pt-BR/ch018.md` [119]: “os tradutores dos Setenta,” → “os tradutores da Septuaginta,” — *Septuagint* → “Septuaginta” (Key Terms); era “Setenta”.
+- `pt-BR/ch018.md` [127]: “segundo a interpretação dos Setenta” → “segundo a interpretação da Septuaginta” — *Septuagint* → “Septuaginta” (Key Terms); era “Setenta”.
+- `pt-BR/ch018.md` [129]: “dores que a atormentam” → “tristezas que a atormentam” — *sorrows* → “tristezas” (Key Terms); era “dores”, no elenco de aflições da Igreja.
+- `pt-BR/ch019.md` [14]: “se alguma doença faz os membros tremerem” → “se alguma enfermidade faz os membros tremerem” — *sickness* → “enfermidade” (Key Terms); era “doença”.
+- `pt-BR/ch019.md` [15]: “refreia os desejos carnais e os impede” → “refreia as concupiscências carnais e as impede” — *carnal lusts* → “concupiscências carnais” (Key Terms); era “desejos carnais”.
+- `pt-BR/ch019.md` [15]: “a carne deseja contra o espírito” → “a carne cobiça contra o espírito” — *lusts* → “cobiça”, conforme a nota de Key Terms para Gálatas 5:17; era “deseja”.
+- `pt-BR/ch019.md` [15]: “o espírito deseja contra a carne” → “o espírito cobiça contra a carne” — *lusts* → “cobiça”, conforme a nota de Key Terms para Gálatas 5:17; era “deseja”.
+- `pt-BR/ch019.md` [15]: “a carne deixe de desejar contra o espírito” → “a carne deixe de cobiçar contra o espírito” — *lust* → “cobiçar” (Key Terms), na continuação da oposição paulina; era “desejar”.
+- `pt-BR/ch019.md` [15]: “contra o qual o espírito deva desejar” → “contra o qual o espírito deva cobiçar” — *lust* → “cobiçar” (Key Terms), na continuação da oposição paulina; era “desejar”.
+- `pt-BR/ch019.md` [15]: “à carne que deseja contra ela” → “à carne que cobiça contra ela” — *lusts* → “cobiça” (Key Terms), na continuação da oposição paulina; era “deseja”.
+
+### Part terms 11 of 14, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read of ch018 [115–130] and ch019 [13–16]: all 12 round-1 changes verified; one neighbouring instance of “lusts against the spirit” in ch019 [16] aligned to “cobiça”.
+- `pt-BR/ch019.md` [16]: “quanto mais veementemente deseja contra ele” → “quanto mais veementemente cobiça contra ele” — source: “as it lusts more vehemently against the spirit”, the Pauline flesh/spirit opposition; Key Terms and the fixes in [15] render this verb “cobiçar”
+- Rejected: pt-BR/ch018.md [115], [117], [120] — “Setenta” / “versão dos Setenta” left beside the new “Septuaginta” in [116], [119], [127] — the Key Terms row “Septuagint; the Seventy” allows “tradução/versão dos Setenta” by context; not a defect
+- Rejected: pt-BR/translation-journal.md, row “lust | paixão” — the journal as shown has different wording from the round 1 fix — the current row states the same Pauline convention; there is no exact old text to correct and no factual error
+- Rejected: pt-BR/ch019.md [14] — “quando a doença faz um homem delirar” not changed to “enfermidade” — source says “disease”, not “sickness”; the Key Terms row covers only “sickness”
+
+### Part terms 11 of 14, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente ch019 [15–17] e as três notas do tradutor; alteração de [16] confirmada, sem novos defeitos.
+- Rejected: pt-BR/ch019.md [15] — Itálico em σωφροσυνη ausente na fonte. — O destaque identifica o termo grego conservado e segue a decisão expressa no diário; não altera o conteúdo.
+
+### Part terms 12 of 14, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 4 minor. 83 sinalizações lidas em 42 parágrafos; 5 eram desvio, contando as linhas duplicadas do glossário, com 4 alterações.
+- `pt-BR/ch019.md` [37]: “por sua própria infelicidade” → “por sua própria miséria” — misery → “miséria” (Key Terms), na contraposição à bem-aventurança; estava “infelicidade”.
+- `pt-BR/ch019.md` [37]: “qualquer mistura de infelicidade é impossível” → “qualquer mistura de miséria é impossível” — misery → “miséria” (Key Terms); estava “infelicidade”.
+- `pt-BR/ch020.md` [92]: “as palavras que os Setenta traduziram” → “as palavras que a Septuaginta traduziu” — Septuagint → “Septuaginta” (Key Terms); estava “os Setenta”.
+- `pt-BR/ch020.md` [92]: “os tradutores dos Setenta preferiram” → “os tradutores da Septuaginta preferiram” — Septuagint → “Septuaginta” (Key Terms); estava “dos Setenta”.
+
+### Part terms 12 of 14, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read of ch019 [36–38] and ch020 [91–93]: the four Key Terms fixes are correct; one minor fix in ch020 [93], where “Septuagint translators” was still “dos Setenta”.
+- `pt-BR/ch020.md` [93]: “mas os tradutores dos Setenta, querendo” → “mas os tradutores da Septuaginta, querendo” — source says “the Septuagint translators”, the same phrase as in [92], which the previous round changed to “os tradutores da Septuaginta”; this keeps the two adjacent paragraphs consistent with the Septuagint → Septuaginta row
+- Rejected: pt-BR/ch019.md [37] — “miserable”/“wretched” still rendered “infelizes”/“desgraçados” after misery → “miséria” — the Key Terms row covers the noun “misery”; the adjectives keep a defensible rendering and the wretched/miserable contrast stays clear
+- Rejected: pt-BR/ch020.md [91] — repeated word “toca toca” flagged by the audit — it renders “he that touches you touches”; the repetition is in the source
+- Rejected: pt-BR/ch020.md [91] — “menina de seu olho” and later “pupila do olho de Deus” — the source also varies the wording (“apple of His eye” / “pupil of God's eye”)
+
+### Part terms 12 of 14, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente ch020.md [92–94]; a alteração para “tradutores da Septuaginta” está correta e não foram encontrados defeitos nos parágrafos apresentados.
+
+### Part terms 13 of 14, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 10 minor. 49 parágrafos sinalizados lidos; 10 ocorrências de desvio terminológico em 7 parágrafos.
+- `pt-BR/ch020.md` [93]: “Ele manifestará o juízo às nações.” → “Ele manifestará o juízo aos gentios.” — *Gentiles* → “gentios” (Key Terms); estava “nações”.
+- `pt-BR/ch020.md` [93]: “Ele manifestou o juízo às nações,” → “Ele manifestou o juízo aos gentios,” — *Gentiles* → “gentios” (Key Terms); estava “nações”.
+- `pt-BR/ch021.md` [34]: “dignos, de fato, de tal sorte” → “dignos, de fato, de tal destino” — *fate* → “destino” (Key Terms); estava “sorte”.
+- `pt-BR/ch021.md` [50]: “sem experimentar sequer a mais leve doença” → “sem experimentar sequer a mais leve enfermidade” — *sickness* → “enfermidade” (Key Terms); estava “doença”.
+- `pt-BR/ch021.md` [52]: “conservar todo o bem que ele havia implantado em nossa natureza, agora aperfeiçoado” → “conservar toda boa qualidade que ele havia implantado em nossa natureza, agora aperfeiçoada” — *good quality* → “boa qualidade” (Key Terms); estava parafraseado como “bem”.
+- `pt-BR/ch021.md` [73]: “Vinde, benditos de meu Pai,” → “Vinde, bem-aventurados de meu Pai,” — *blessed* → “bem-aventurados” (Key Terms); estava “benditos”, designando os que recebem o reino.
+- `pt-BR/ch021.md` [86]: “aos quais se dirá: “Vinde, benditos de meu Pai,” → “aos quais se dirá: “Vinde, bem-aventurados de meu Pai,” — *blessed* → “bem-aventurados” (Key Terms); estava “benditos”, designando os que recebem o reino.
+- `pt-BR/ch021.md` [86]: “a sentença: “Vinde, benditos de meu Pai,” → “a sentença: “Vinde, bem-aventurados de meu Pai,” — *blessed* → “bem-aventurados” (Key Terms); estava “benditos”, designando os que recebem o reino.
+- `pt-BR/ch022.md` [14]: “o caráter divino da própria realidade” → “a divindade da própria realidade” — *divinity* → “divindade” (Key Terms); estava parafraseado como “caráter divino”.
+- NOT APPLIED (old text not found exactly once (0)): - `pt-BR/ch020.md` [93]: “os tradutores dos Setenta” → “os tradutores da Septuaginta” — *Septuagint* → “Septuaginta” (Key Terms); estava “Setenta”.
+
+### Part terms 13 of 14, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of ch020 [92–94], ch021 [33–35, 49–53, 72–74, 85–87] with notes, and ch022 [13–15]: all nine prior fixes are correct, no new defects.
+- Rejected: pt-BR/ch021.md [52] — “agora aperfeiçoada” now agrees with “natureza” or “boa qualidade”, where it used to agree with “bem” — The source “perfected now” is ambiguous between the good quality and the nature. The feminine form fits both readings, so the concord holds.
+- Rejected: pt-BR/ch021.md [50] — “enfermidade” comes from a Key Terms row scoped to Book 14 — The change is accurate for “sickness” and reads well. It is not a defect either way.
+- Rejected: pt-BR/ch021.md [73]/[86] — Matthew 25:34 has “recebei por herança” in [73] and “herdai” in [86] — Both render “inherit” faithfully. This is a style variation, not an error.
+
+### Part terms 14 of 14, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 4 minor. 21 parágrafos sinalizados lidos, com 43 flags; 4 ocorrências apresentavam desvio terminológico.
+- `pt-BR/ch022.md` [83]: “satisfazer a luxúria do opressor” → “satisfazer a concupiscência do opressor” — *lust* → “concupiscência” (Key Terms, inclusive no sentido sexual); estava “luxúria”.
+- `pt-BR/ch022.md` [102]: “com Deus, nosso bem supremo” → “com Deus, nosso sumo bem” — *chief good* → “sumo bem” (Key Terms); estava “bem supremo”.
+- `pt-BR/ch022.md` [109]: “Essa expansão do amor” → “Essa expansão do afeto” — *affection* → “afeto”, singular de “afetos” (Key Terms); estava “amor”.
+- `pt-BR/ch022.md` [112]: “se não soubessem que foram infelizes” → “se não soubessem que foram miseráveis” — *miserable* → “miseráveis”, derivado de “miséria” (Key Terms), na contraposição entre os males passados e a bem-aventurança futura; estava “infelizes”.
+
+### Part terms 14 of 14, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of ch022 [82]–[84], [101]–[103], [108]–[113]: the four terminology fixes are correct and the paragraphs shown have no defects.
+- Rejected: pt-BR/ch022.md [83] — “concupiscência” for *lust*, while the first Key Terms row gives “paixão” — The later rows for Books 14 onward (“lust; concupiscence”, “lust”) set “concupiscência”, including the sexual sense; the fix follows the table that governs this part.
+- Rejected: pt-BR/ch022.md [113] — Audit flag: the source parenthesis “(who shall be the seventh day)” is missing — It is rendered as an aside between dashes with the full content kept; a punctuation choice, not a defect.
+- Rejected: pt-BR/ch022.md [109] — *leisure* rendered “repouso” — Consistent with “eterno repouso” in [112] and with the Sabbath-rest image of the chapter; it does not change the sense.
