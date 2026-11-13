@@ -15,7 +15,7 @@ Destino: pt-BR.
 | corpus / magnitudo | corpo / grandeza | Distintos de substância e quantidade. |
 | corpus simplex / corpus mixtum / corpus compositum | corpo simples / corpo misto / corpo composto | Conservadas as distinções vocabulares do latim. |
 | corpus caeleste | corpo celeste | |
-| continuum / continuitas | contínuo / continuidade | |
+| continuum / continuitas | contínuo / continuidade | Também “contíguo” para a união imediata entre corpos ou esferas distintos, conforme a glosa do § 352. |
 | passio | afecção | Em g1-c001, o comentário explicita seus diferentes sentidos. |
 | substantia / quantitas | substância / quantidade | Categorias aristotélicas. |
 | subiectum | sujeito | Aquilo de que se predica algo ou em que algo se encontra. |
@@ -23,8 +23,8 @@ Destino: pt-BR.
 | materia / forma | matéria / forma | |
 | actus / potentia | ato / potência | |
 | per se / per accidens | por si / por acidente | Conforme a construção, “propriamente” para o valor de pertença por si. |
-| ratio | noção; razão; argumento | Conforme o contexto: definição, fundamento ou raciocínio. |
-| species | espécie | Mantido inclusive na discussão da integridade do universo. |
+| ratio | noção; razão; argumento | Conforme o contexto: definição, fundamento ou raciocínio. Também “definição” quando designa a formulação da essência de uma coisa. |
+| species | espécie | Mantido inclusive na discussão da integridade do universo. “Forma” quando species designa a forma contraposta à privação, como em contrarietatem privationis et speciei. |
 | omne / totum / perfectum | tudo / todo / perfeito | Distinção explicada na nota [^1]; flexões adaptadas à sintaxe. |
 | universum / universitas | universo / totalidade | “Totalidade” designa o caráter de abranger todas as coisas. |
 | motus localis / latio | movimento local / translação | Ambos designam mudança de lugar; “translação” não se restringe ao movimento retilíneo. |
@@ -70,7 +70,7 @@ Destino: pt-BR.
 | latio / motus localis | movimento local | |
 | concavum / convexum / gibbosum | côncavo / convexo / convexo ou abaulado | “Abaulado” conserva a glosa lexical no § 81. |
 | terminus a quo / terminus in quem | termo de partida / termo de chegada | |
-| magnitudo / quantitas / multitudo | grandeza / quantidade / multiplicidade | |
+| magnitudo / quantitas / multitudo | grandeza / quantidade / multiplicidade | “Magnitudo” também como “intensidade” do som; “multitudo” como “massa” quando designa uma quantidade contínua de ar ou fogo. |
 | probatio ostensiva | prova direta | Em oposição à redução ao impossível. |
 | orbis / firmamentum | esfera / firmamento | Terminologia da cosmologia exposta no comentário. |
 | aspectus trinus / aspectus rectae oppositionis | aspecto trígono / aspecto de oposição direta | |
@@ -98,16 +98,16 @@ Destino: pt-BR.
 | prima philosophia | filosofia primeira | Identificada pelo comentário com a metafísica. |
 | subiecto / ratione | quanto ao sujeito / quanto à razão | Distinção explicada na nota [^7]. |
 | corpus continens / corpus contentum | corpo continente / corpo contido | Na definição aristotélica do lugar. |
-| sempiternitas | sempiternidade | |
+| sempiternitas | eternidade | Duração por tempo infinito; o adjetivo *sempiternum* recebe “eterno”. |
 | materia signata | matéria designada | Matéria determinada que constitui o princípio de individuação. |
 | simitas / simum | camusidade / camuso | Conforme o diário de *Peri hermeneias*; explicação na nota [^8]. |
 | exemplar / exemplatum | exemplar / reprodução do exemplar | Conforme a construção, “aquilo que reproduz o exemplar”; preservada a relação entre modelo e reprodução. |
-| aeternum / saeculum | eternidade / século | Em g1-c021, “século” designa a duração de uma coisa, não necessariamente cem anos. |
+| aeternum / saeculum | eternidade / século | Em g1-c021, “século” designa a duração de uma coisa, não necessariamente cem anos. “Eterno” quando aeternum é adjetivo, como em esse suum sit aeternum. |
 | latio | translação | Movimento local; mantida a distinção vocabular comentada em g1-c021. |
 | Empedocles / Heraclitus / Alexander / Simplicius | Empédocles / Heráclito / Alexandre / Simplício | Alexandre é o comentador de Afrodísias; formas conforme as obras irmãs. |
 | Orpheus / Hesiodus | Orfeu / Hesíodo | |
 | amicitia / lis | amizade / discórdia | Princípios de reunião e separação na exposição da doutrina de Empédocles. |
-| encyclia / syntagmatica / acroamatica / philosophemata | ensinamentos gerais / ensinamentos coordenados / ensinamentos destinados à audição / ensinamentos filosóficos | Conservadas as formas citadas em itálico na explicação terminológica de g1-c021, § 217. |
+| encyclia / syntagmatica / acroamatica / philosophemata | ensinamentos gerais / ensinamentos coordenados / ensinamentos destinados à audição / ensinamentos filosóficos | Conservadas as formas citadas em itálico na explicação terminológica de g1-c021, § 217. Em g2-c022, *philosophema* designa uma questão ou ocasião para filosofar: “questão filosófica” ou “filosofema”. |
 | genitum / ingenitum | gerado / não gerado | Conservada a distinção em relação a “gerável / ingerável”, inclusive na exposição dos diversos sentidos. |
 | generabile / ingenerabile | gerável / ingerável | |
 | corruptibile / incorruptibile | corruptível / incorruptível | |
@@ -244,7 +244,7 @@ Destino: pt-BR.
 ## Decisões
 
 - Tradução feita diretamente do latim fornecido, com um parágrafo de tradução para cada parágrafo-fonte. Conservados títulos, destaques, blocos de citação e subdivisões do comentário; as definições das notas do tradutor são acréscimos identificados.
-- Os lemas aristotélicos retomados por Tomás foram traduzidos, mantendo seus destaques e sua correspondência com os trechos comentados. Conservados *aetherem* e *hypeccauma* como formas lexicais citadas; o primeiro designa o éter, e o segundo é explicado pelo próprio texto como fogo.
+- Os lemas aristotélicos retomados por Tomás foram traduzidos, mantendo seus destaques e sua correspondência com os trechos comentados. Conservado *hypeccauma* como forma lexical citada, explicada pelo próprio texto como fogo; *aetherem* foi traduzido por *éter*, em itálico.
 - A distinção entre *praeter naturam*, *contra naturam* e *supra naturam* exige três expressões diferentes: “fora da ordem natural”, “contra a natureza” e “acima da natureza”. O § 47 discute expressamente seus possíveis alcances.
 - Nota [^1], em g1-c002, § 15: explica a distinção entre *omne* e *totum*, que as formas portuguesas de “todo” não reproduzem integralmente.
 - Nota [^2], em g1-c004, § 41: explica a relação etimológica grega entre “perfeito” e “fim”, necessária ao argumento.
@@ -329,7 +329,7 @@ Destino: pt-BR.
 - Em g2-c026, acrescentada a nota [^27] para explicar “esfera reta” e “esfera oblíqua”, termos astronômicos necessários à compreensão do argumento.
 - Em g2-c026, preservada a diferença entre o lema, que fala de lançamento “ao infinito”, e a interpretação do comentário, que fala de lançamentos repetidos infinitas vezes.
 - Em g2-c027, preservado o “[ou]” entre colchetes do lema, correspondente a “[aut]”, sem suprimir a dificuldade de construção.
-- Em g2-c028, mantido *amphicurtos* em itálico; o próprio comentário explica o termo. *Conus*, na descrição das sombras piramidais, foi traduzido por “vértice”.
+- Em g2-c028, *amphicurtos* foi traduzido por *anficurta*, em itálico, conforme o glossário; o próprio comentário explica o termo. *Conus*, na descrição das sombras piramidais, foi traduzido por “vértice”.
 - Em g2-c028, preservados todos os valores e equivalências numéricas transmitidos, inclusive a aproximação entre os cálculos de Alfragano e Simplício, sem corrigir as discrepâncias.
 - Em g3-c001, *historia* foi traduzido no lema por “investigação”; no comentário que explica o vocábulo, manteve-se “história (isto é, exposição)”.
 - Em g3-c003, acrescentada a nota [^28] para esclarecer o sentido gramatical de “positivo” no argumento sobre os comparativos.
@@ -541,3 +541,348 @@ Verdict: 0 meaning-level, 1 minor. Conferidas as cinco alterações e relidos in
 
 ### Part 5 of 5, Round 5 (claude, delta read)
 Verdict: 0 meaning-level, 0 minor. Delta read of part 5: checked the one journal change (Round 3 summary now counts five meaning fixes, matching its entries); it is correct, and nothing else was shown or changed.
+
+### Part terms 1 of 6, Round 1 (codex, terms read)
+Verdict: 3 meaning-level, 43 minor. 153 parágrafos sinalizados lidos; 34 apresentam desvios; 2 linhas do glossário complementadas.
+- `pt-BR/g1-c002.md` [12]: “segundo sua definição” → “segundo sua noção” — *rationem* → “noção” (Key Terms); estava “definição”.
+- `pt-BR/g1-c002.md` [36]: “têm caráter de matéria” → “têm a noção de matéria” — *rationem materiae* → “noção de matéria” (Key Terms).
+- `pt-BR/g1-c002.md` [43]: “três têm o caráter de ser tudo” → “três têm a razão de ser tudo” — *rationem* → “razão” (Key Terms).
+- `pt-BR/g1-c002.md` [43]: “têm o caráter de certa totalidade” → “têm a noção de certa totalidade” — *rationem* → “noção” (Key Terms).
+- `pt-BR/g1-c002.md` [52]: “não teria caráter de grandeza” → “não teria a noção de grandeza” — *rationem magnitudinis* → “noção de grandeza” (Key Terms).
+- `pt-BR/g1-c004.md` [14]: “a frente e a retaguarda, por sua vez” → “a frente e o dorso, por sua vez” — *retro* → “dorso” na distinção espacial dos animais (Key Terms).
+- `pt-BR/g1-c004.md` [14]: “a frente e a retaguarda.” → “a frente e o dorso.” — *retro* → “dorso” (Key Terms).
+- `pt-BR/g1-c004.md` [15]: “não têm a mesma natureza” → “não têm a mesma noção” — *non sint eiusdem rationis* → “não têm a mesma noção” (Key Terms).
+- `pt-BR/g1-c004.md` [15]: “sob o mesmo aspecto” → “segundo a mesma noção” — *secundum eandem rationem* → “segundo a mesma noção” (Key Terms).
+- `pt-BR/g1-c004.md` [22]: “as cinco figuras sólidas” → “as cinco figuras corpóreas” — *figuras corporales* → “figuras corpóreas” (Key Terms).
+- `pt-BR/g1-c004.md` [23]: “pelo movimento da estrela com cauda” → “pelo movimento do cometa” — *stellae comatae* → “cometa” (Key Terms).
+- `pt-BR/g1-c004.md` [24]: “a um único vício se opõem tanto a virtude quanto o vício contrário, como à avareza se opõem a prodigalidade e a liberalidade” → “a um único vício são contrários tanto a virtude quanto o vício contrário, como à avareza são contrárias a prodigalidade e a liberalidade” — *contrariatur* designa contrariedade técnica; conserva-se “contrário” (Key Terms).
+- `pt-BR/g1-c004.md` [24]: “à avareza se opõe a virtude da liberalidade” → “à avareza é contrária a virtude da liberalidade” — *contrariatur* → “é contrária”, conservando a distinção entre contrariedade e oposição.
+- `pt-BR/g1-c006.md` [20]: “às coisas sempiternas” → “às coisas eternas” — *sempiternis* → “eternas” (Key Terms).
+- `pt-BR/g1-c006.md` [21]: “um movimento sempiterno” → “um movimento eterno” — *motum sempiternum* → “movimento eterno” (Key Terms).
+- `pt-BR/g1-c006.md` [22]: “é outra e de outra natureza que a matéria” → “é outra e de outra noção que a matéria” — *alterius rationis* → “de outra noção” (Key Terms).
+- `pt-BR/g1-c006.md` [31]: “não tem fundamento a afirmação” → “não tem razão a afirmação” — *non habet rationem* → “não tem razão” (Key Terms).
+- `pt-BR/g1-c007.md` [4]: “é sempiterno, não possui” → “é eterno, não possui” — *sempiternum* → “eterno” (Key Terms).
+- `pt-BR/g1-c007.md` [5]: “o lugar superior, tanto” → “o lugar no alto, tanto” — *locum qui sursum* → “lugar no alto”; trata-se de posição (Key Terms).
+- `pt-BR/g1-c007.md` [7]: “por um tempo sempiterno” → “por um tempo eterno” — *sempiterno tempore* → “tempo eterno” (Key Terms).
+- `pt-BR/g1-c007.md` [9]: “pertence ao mesmo raciocínio” → “pertence ao mesmo argumento” — *eiusdem rationis* → “mesmo argumento” neste contexto (Key Terms).
+- `pt-BR/g1-c007.md` [10]: “é sempiterno, por não” → “é eterno, por não” — *sempiternum* → “eterno” (Key Terms).
+- `pt-BR/g1-c007.md` [18]: “por um tempo sempiterno” → “por um tempo eterno” — *sempiterno tempore* → “tempo eterno” (Key Terms).
+- `pt-BR/g1-c008.md` [10]: “a frente e o atrás” → “a frente e o dorso” — *ante et retro* → “frente e dorso” nas contrariedades espaciais (Key Terms).
+- `pt-BR/g1-c008.md` [32]: “segundo a medida da linha curva” → “segundo a quantidade da linha curva” — *quantitatem* → “quantidade” (Key Terms).
+- `pt-BR/g1-c008.md` [34]: “determinam a medida da linha curva” → “determinam a quantidade da linha curva” — *quantitatem* → “quantidade” (Key Terms).
+- `pt-BR/g1-c008.md` [34]: “demonstram a medida da corda pelo arco” → “demonstram a quantidade da corda pelo arco” — *quantitatem chordae* → “quantidade da corda” (Key Terms).
+- `pt-BR/g1-c008.md` [34]: “a medida do arco pela corda” → “a quantidade do arco pela corda” — *quantitatem arcus* → “quantidade do arco” (Key Terms).
+- `pt-BR/g1-c008.md` [35]: “segundo a medida do diâmetro” → “segundo a quantidade do diâmetro” — *quantitatem diametri* → “quantidade do diâmetro” (Key Terms).
+- `pt-BR/g1-c008.md` [35]: “segundo a medida do semicírculo” → “segundo a quantidade do semicírculo” — *quantitatem semicirculi* → “quantidade do semicírculo” (Key Terms).
+- `pt-BR/g1-c008.md` [46]: “a frente e o atrás” → “a frente e o dorso” — *ante et retro* → “frente e dorso” nas contrariedades espaciais (Key Terms).
+- `pt-BR/g1-c009.md` [6]: “coisas finitas em número e em grandeza” → “coisas finitas em multiplicidade e em grandeza” — *multitudine* → “multiplicidade” (Key Terms).
+- `pt-BR/g1-c009.md` [6]: “é finito em número e em grandeza” → “é finito em multiplicidade e em grandeza” — *multitudine* → “multiplicidade” (Key Terms).
+- `pt-BR/g1-c009.md` [8]: “o mesmo raciocínio vale” → “o mesmo argumento vale” — *eadem ratio* → “mesmo argumento” (Key Terms).
+- `pt-BR/g1-c009.md` [36]: “até onde se estende a grandeza do corpo” → “até onde se estende a quantidade do corpo” — *corporis quantitas* → “quantidade do corpo” (Key Terms).
+- `pt-BR/g1-c012.md` [23]: “***Com efeito, os movimentos***” → “***Com efeito, os movimentos contrários***” — Restitui *contrariae*, omitido na identificação dos movimentos. *(meaning)*
+- `pt-BR/g1-c015.md` [6]: “nenhum corpo será absolutamente leve” → “nenhum corpo será leve em sentido absoluto” — *leve simpliciter* → “leve em sentido absoluto” (Key Terms).
+- `pt-BR/g1-c015.md` [8]: “nem uma parte superior e outra inferior” → “nem uma parte no alto e outra embaixo” — *sursum / deorsum* indicam posições: “alto / baixo” (Key Terms).
+- `pt-BR/g1-c015.md` [8]: “segundo a natureza ou contra a natureza” → “segundo a natureza ou fora da ordem natural” — *praeter naturam* não é *contra naturam*; o glossário conserva essa distinção. *(meaning)*
+- `pt-BR/g1-c015.md` [9]: “se desloca contra a natureza” → “se desloca fora da ordem natural” — *praeter naturam* não é *contra naturam*; restaura a distinção do glossário. *(meaning)*
+- `pt-BR/g1-c015.md` [9]: “é necessariamente o lugar natural de alguma outra coisa” → “é necessariamente o lugar de alguma outra coisa segundo a natureza” — *secundum naturam* → “segundo a natureza” (Key Terms).
+- `pt-BR/g1-c015.md` [18]: “são movidos pelo que os gera” → “são movidos pelo gerador” — *a generante* → “pelo gerador” (Key Terms).
+- `pt-BR/g1-c015.md` [23]: “nenhum corpo será absolutamente leve” → “nenhum corpo será leve em sentido absoluto” — *simpliciter leve* → “leve em sentido absoluto” (Key Terms).
+- `pt-BR/g1-c016.md` [7]: “se têm natureza semelhante” → “se são semelhantes segundo a natureza” — *similiter existentes secundum naturam* conserva a expressão “segundo a natureza” (Key Terms).
+- `pt-BR/translation-journal.md`: “| aeternum / saeculum | eternidade / século | Em g1-c021, “século” designa a duração de uma coisa, não necessariamente cem anos. Como adjetivo, aeternum é traduzido por “eterno”, com as flexões exigidas pela sintaxe. |” → “| aeternum / saeculum | eternidade / século | Em g1-c021, “século” designa a duração de uma coisa, não necessariamente cem anos. “Eterno” quando aeternum é adjetivo, como em esse suum sit aeternum. |” — A linha precisa contemplar o emprego adjetival de *aeternum*, corretamente traduzido por “eterno” em g1-c006 [26].
+- `pt-BR/translation-journal.md`: “| species | espécie | Mantido inclusive na discussão da integridade do universo. |” → “| species | espécie | Mantido inclusive na discussão da integridade do universo. “Forma” quando species designa a forma contraposta à privação, como em contrarietatem privationis et speciei. |” — Em g1-c006 [33], *species* designa a forma, não a espécie classificatória; a tradução está correta e falta esse sentido na linha.
+
+### Part terms 1 of 6, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 2 minor. Delta read of 46 changes in g1-c002 to g1-c016 plus their neighbours. The changes are correct; fixed one remaining praeter naturam rendered as “contra a natureza” (g1-c015 [19]), a lost italic on *éter*, and the journal's false claim that *aetherem* was kept.
+- `pt-BR/g1-c015.md` [19]: “tanto segundo a natureza como contra a natureza” → “tanto segundo a natureza como fora da ordem natural” — A fonte diz *secundum naturam et praeter naturam*. *Praeter naturam* não é *contra naturam*; o glossário e as correções da rodada anterior em [8] e [9] mantêm essa distinção. *(meaning)*
+- `pt-BR/g1-c004.md` [22]: “chamando o quinto corpo de éter” → “chamando o quinto corpo de *éter*” — A fonte destaca *aetherem* em itálico como nome citado; o destaque foi perdido.
+- `pt-BR/translation-journal.md`: “Conservados *aetherem* e *hypeccauma* como formas lexicais citadas; o primeiro designa o éter, e o segundo é explicado pelo próprio texto como fogo.” → “Conservado *hypeccauma* como forma lexical citada, explicada pelo próprio texto como fogo; *aetherem* foi traduzido por *éter*, em itálico.” — O diário afirma que *aetherem* foi conservado, mas g1-c004 [22] traduz o termo por “éter”.
+- Rejected: pt-BR/g1-c006.md [22] — “de outra noção que a matéria” soa pouco natural. — Traduz fielmente *alterius rationis* conforme o glossário; o sentido fica claro.
+- Rejected: pt-BR/g1-c008.md [10] — *non motum eodem motu* traduzido como “por não se mover com seu próprio movimento”. — A leitura segue a explicação do próprio comentário em [46]; o paragráfo não foi tocado pela rodada anterior.
+- Rejected: pt-BR/g1-c015.md [9] — A auditoria aponta diferença de parênteses. — O parêntese da fonte foi vertido entre travessões, com o conteúdo completo.
+
+### Part terms 1 of 6, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as três alterações, os seis parágrafos apresentados e a nota do tradutor; nenhum defeito objetivo encontrado.
+
+### Part terms 2 of 6, Round 1 (codex, terms read)
+Verdict: 2 meaning-level, 57 minor. 163 parágrafos sinalizados lidos; 38 apresentam desvio vocabular; uma linha do glossário foi complementada.
+- `pt-BR/translation-journal.md`: “| ratio | noção; razão; argumento | Conforme o contexto: definição, fundamento ou raciocínio. Também “proporção” nas relações quantitativas, “método” no procedimento de determinação das grandezas, “natureza” na classificação dos acidentes e “caráter” na caracterização de uma demonstração. |” → “| ratio | noção; razão; argumento | Conforme o contexto: definição, fundamento ou raciocínio. Também “definição” quando designa a formulação da essência de uma coisa. |” — A tradução emprega consistentemente “definição” para ratio no sentido definicional; essa variante adequada falta na lista de renderizações.
+- `pt-BR/g1-c016.md` [9]: “se deslocaria naturalmente para longe do centro” → “se deslocaria segundo a natureza para longe do centro” — secundum naturam → “segundo a natureza” (Key Terms).
+- `pt-BR/g1-c016.md` [31]: “a contrária lhe é natural” → “a contrária lhe é segundo a natureza” — secundum naturam → “segundo a natureza” (Key Terms).
+- `pt-BR/g1-c016.md` [33]: “lhe é natural. E isso” → “lhe é segundo a natureza. E isso” — secundum naturam → “segundo a natureza” (Key Terms).
+- `pt-BR/g1-c016.md` [33]: “a terra nunca se move naturalmente” → “a terra nunca se move segundo a natureza” — secundum naturam → “segundo a natureza” (Key Terms).
+- `pt-BR/g1-c016.md` [34]: “ela se mova naturalmente para longe” → “ela se mova segundo a natureza para longe” — secundum naturam → “segundo a natureza” (Key Terms).
+- `pt-BR/g1-c016.md` [34]: “se deslocará naturalmente daquele centro” → “se deslocará segundo a natureza daquele centro” — secundum naturam → “segundo a natureza” (Key Terms).
+- `pt-BR/g1-c016.md` [34]: “o movimento ou a mudança de lugar natural da terra é um só” → “o movimento ou a mudança de lugar da terra segundo a natureza é um só” — secundum naturam → “segundo a natureza” (Key Terms).
+- `pt-BR/g1-c016.md` [46]: “se deslocaria naturalmente do centro deste mundo” → “se deslocaria segundo a natureza do centro deste mundo” — secundum naturam → “segundo a natureza” (Key Terms).
+- `pt-BR/g1-c017.md` [3]: “há algum movimento natural desses corpos” → “há algum movimento desses corpos segundo a natureza” — secundum naturam → “segundo a natureza” (Key Terms).
+- `pt-BR/g1-c017.md` [31]: “o corpo esférico inteiro não muda” → “todo o corpo esférico não muda” — totum → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g1-c017.md` [31]: “se se toma o movimento circular inteiro” → “se se toma todo o movimento circular” — totus → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g1-c017.md` [31]: “nada é contrário à rotação inteira” → “nada é contrário a toda a rotação” — toti → “toda” (Key Terms); estava “inteira”.
+- `pt-BR/g1-c017.md` [32]: “se aproxima do lugar superior” → “se aproxima do lugar do alto” — sursum → “alto” na designação do lugar, conforme a linha contextual dos Key Terms.
+- `pt-BR/g1-c018.md` [7]: “necessariamente é sempiterno” → “necessariamente é eterno” — sempiternum → “eterno” (Key Terms).
+- `pt-BR/g1-c018.md` [13]: “por aquilo que os gera” → “pelo gerador” — generante → “gerador” (Key Terms); estava parafraseado.
+- `pt-BR/g1-c018.md` [15]: “que receberam daquilo que os gerou” → “que receberam do gerador” — generante → “gerador” (Key Terms); estava parafraseado.
+- `pt-BR/g1-c018.md` [22]: “o movimento circular é sempiterno” → “o movimento circular é eterno” — sempiternus → “eterno” (Key Terms).
+- `pt-BR/g1-c018.md` [22]: “concluiu a sempiternidade do movimento” → “concluiu a eternidade do movimento” — sempiternitatem → “eternidade” (Key Terms).
+- `pt-BR/g1-c018.md` [22]: “o movimento do céu é sempiterno” → “o movimento do céu é eterno” — sempiternus → “eterno” (Key Terms).
+- `pt-BR/g1-c018.md` [22]: “e, por conseguinte, o mundo inteiro” → “e, por conseguinte, todo o mundo” — totus → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g1-c019.md` [3]: “que ele é sempiterno” → “que ele é eterno” — sempiternus → “eterno” (Key Terms).
+- `pt-BR/g1-c019.md` [20]: “que o mundo é sempiterno” → “que o mundo é eterno” — sempiternus → “eterno” (Key Terms).
+- `pt-BR/g1-c020.md` [4]: “à substância da revolução extrema do todo” → “à substância da rotação extrema do todo” — circulationis → “rotação” (Key Terms); estava “revolução”.
+- `pt-BR/g1-c020.md` [4]: “ao corpo contíguo à circunferência extrema do todo” → “ao corpo contínuo com a circunferência extrema do todo” — continuum → “contínuo” (Key Terms); “contíguo” introduz uma relação física distinta. *(meaning)*
+- `pt-BR/g1-c020.md` [11]: “pois o mundo inteiro é constituído” → “pois todo o mundo é constituído” — totus → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g1-c020.md` [17]: “pertence à revolução extrema do todo” → “pertence à rotação extrema do todo” — circulationis → “rotação” (Key Terms); estava “revolução”.
+- `pt-BR/g1-c020.md` [19]: “ao mundo inteiro e ao ***todo***” → “a todo o mundo e a ***tudo***” — totum → “todo” e omne → “tudo” (Key Terms), preservando a distinção lexical do original.
+- `pt-BR/g1-c020.md` [20]: “pela contiguidade que possuem” → “pela continuidade que possuem” — continuitate → “continuidade” (Key Terms); “contiguidade” designa uma relação física distinta. *(meaning)*
+- `pt-BR/g1-c020.md` [41]: “nas coisas sempiternas” → “nas coisas eternas” — sempiternis → “eternas” (Key Terms).
+- `pt-BR/g1-c020.md` [42]: “porque o mundo inteiro é constituído” → “porque todo o mundo é constituído” — totus → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g1-c021.md` [31]: “fora do mundo inteiro” → “fora de todo o mundo” — totum → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g1-c021.md` [47]: “e o ser sempiterno” → “e o ser eterno” — sempiternum → “eterno” (Key Terms).
+- `pt-BR/g1-c021.md` [47]: “àquelas que possuem ser sempiterno” → “àquelas que possuem ser eterno” — sempiternum → “eterno” (Key Terms).
+- `pt-BR/g1-c021.md` [47]: “àquelas que são sempiternas” → “àquelas que são eternas” — sempiterna → “eternas” (Key Terms).
+- `pt-BR/g1-c022.md` [8]: “uns dizem que é sempiterno” → “uns dizem que é eterno” — sempiternum → “eterno” (Key Terms).
+- `pt-BR/g1-c022.md` [9]: “e, contudo, é sempiterno” → “e, contudo, é eterno” — sempiternum → “eterno” (Key Terms).
+- `pt-BR/g1-c022.md` [27]: “duraria, contudo, para sempre” → “duraria, contudo, eternamente” — in sempiternum → “eternamente”, forma adverbial de “eterno” (Key Terms).
+- `pt-BR/g1-c022.md` [29]: “o mundo inteiro seria consumido” → “todo o mundo seria consumido” — totus → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g1-c022.md` [29]: “o mundo inteiro seria novamente gerado” → “todo o mundo seria novamente gerado” — totus → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g1-c022.md` [39]: “e que depois dure para sempre” → “e que depois dure eternamente” — in sempiternum → “eternamente”, forma adverbial de “eterno” (Key Terms).
+- `pt-BR/g1-c023.md` [15]: “se o corpo inteiro do mundo” → “se todo o corpo do mundo” — totum → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g1-c025.md` [14]: “comensurável com o lado do quadrado” → “comensurada com o lado do quadrado” — commensuratum → “comensurado” (Key Terms), com concordância com “diagonal”.
+- `pt-BR/g1-c029.md` [38]: “sobre a totalidade do ente” → “sobre todo o ente” — totum ens → “todo o ente” (Key Terms); estava “a totalidade do ente”.
+- `pt-BR/g1-c029.md` [38]: “que a totalidade do ente depende” → “que todo o ente depende” — totum ens → “todo o ente” (Key Terms); estava “a totalidade do ente”.
+- `pt-BR/g1-pr.md` [17]: “o universo corpóreo inteiro é anterior” → “todo o universo corpóreo é anterior” — totum → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g1-pr.md` [18]: “dizem respeito ao universo inteiro” → “dizem respeito a todo o universo” — totum → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g1-pr.md` [24]: “o livro inteiro recebe seu nome” → “todo o livro recebe seu nome” — totus → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g1-pr.md` [24]: “dizem respeito ao universo inteiro” → “dizem respeito a todo o universo” — totum → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g2-c001.md` [3]: “Que o céu inteiro não foi feito” → “Que todo o céu não foi feito” — omne → “todo”, conforme a adaptação sintática prevista nos Key Terms.
+- `pt-BR/g2-c001.md` [30]: “podemos admitir que o céu inteiro não foi feito” → “podemos admitir que todo o céu não foi feito” — totum → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g2-c001.md` [30]: “Diz, porém, que o céu inteiro é não gerado” → “Diz, porém, que todo o céu é não gerado” — totum → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g2-c001.md` [30]: “o mundo inteiro, contudo, permanece” → “todo o mundo, contudo, permanece” — totus → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g2-c001.md` [30]: “***o céu inteiro não foi feito***” → “***todo o céu não foi feito***” — omne → “todo”, conforme a adaptação sintática prevista nos Key Terms.
+- `pt-BR/g2-c001.md` [31]: “que é eterno como um só em espécie, mas não em número” → “que é eterno como um só em espécie, mas sem ser numericamente uno” — unum numero → “numericamente uno” (Key Terms), preservando a negação do original.
+- `pt-BR/g2-c001.md` [31]: “O mundo inteiro, porém, não tem” → “Todo o mundo, porém, não tem” — totus → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g2-c001.md` [31]: “o tempo é contido pelo mundo inteiro” → “o tempo é contido por todo o mundo” — toto → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g2-c002.md` [24]: “ao corpo do mundo inteiro” → “ao corpo de todo o mundo” — totius → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g2-c002.md` [24]: “que contém o mundo inteiro” → “que contém todo o mundo” — totum → “todo” (Key Terms); estava “inteiro”.
+
+### Part terms 2 of 6, Round 2 (claude, delta read)
+Verdict: 2 meaning-level, 3 minor. Delta read das 59 mudanças da rodada 1 e dos parágrafos vizinhos. Corrigidas duas ambiguidades de leitura criadas em g1-c016 [34] e [46], a inconsistência entre contínuo e contíguo em g1-c020 [18] e o lema de g1-c020 [4] citado em [19].
+- `pt-BR/g1-c016.md` [34]: “que se deslocará segundo a natureza daquele centro para cá” → “que se deslocará daquele centro para cá segundo a natureza” — ab illo medio feretur huc secundum naturam; na ordem atual, “segundo a natureza daquele centro” se lê como “a natureza do centro” *(meaning)*
+- `pt-BR/g1-c016.md` [46]: “se deslocaria segundo a natureza do centro deste mundo para o centro daquele mundo” → “se deslocaria, segundo a natureza, do centro deste mundo para o centro daquele mundo” — ferretur secundum naturam a medio huius mundi; sem as vírgulas, “segundo a natureza do centro deste mundo” se lê como “a natureza do centro” *(meaning)*
+- `pt-BR/g1-c020.md` [18]: “que é contíguo à circunferência extrema de todo o universo” → “que é contínuo com a circunferência extrema de todo o universo” — continuatur cum; o lema deve coincidir com o texto de [4], já corrigido para “contínuo com”
+- `pt-BR/g1-c020.md` [18]: “esses corpos são contíguos à esfera suprema” → “esses corpos são contínuos com a esfera suprema” — continuari; Tomás contrapõe essa continuidade por afinidade de natureza ao “unum corpus continuum”; deve coincidir com “continuidade” em [20]
+- `pt-BR/g1-c020.md` [4]: “chamar céu ao todo e ao universo” → “chamar céu ao todo e a tudo” — totum et omne; omne → “tudo” (Key Terms); o comentário em [19] cita esse lema como ***tudo*** e o glosa como universo
+- Rejected: pt-BR/g1-c016.md [31], [33] — “lhe é segundo a natureza” soa forçado — a construção é gramatical no registro escolástico e segue os Key Terms
+- Rejected: pt-BR/translation-journal.md — a linha “sempiternitas | sempiternidade” contradiz a linha “sempiternum / sempiternitas | eterno / eternidade” — não é possível verificar o uso no livro inteiro a partir desta parte; fica para a leitura das demais partes
+- Rejected: pt-BR/g2-c001.md [31] — “eterno como um só em espécie, mas sem ser numericamente uno” inverteria a ordem do latim — o sentido de “non unum numero, sed specie” se mantém
+
+### Part terms 2 of 6, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as cinco alterações e lidos integralmente os 12 parágrafos apresentados; nenhum defeito encontrado.
+- Rejected: pt-BR/g1-c020.md [17], [18] — Ausência dos parênteses registrados na fonte. — O conteúdo dos parênteses foi integralmente preservado, entre travessões em [17] e em frases próprias em [18].
+- Rejected: pt-BR/translation-journal.md — Três equivalências terminológicas sem ocorrências exatas segundo a auditoria. — Os trechos correspondentes não foram apresentados nesta delta; a contagem literal, isoladamente, não demonstra erro nas equivalências do diário.
+
+### Part terms 3 of 6, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 72 minor. 132 parágrafos sinalizados lidos; 68 correções de deriva terminológica e 3 complementos de glossário.
+- `pt-BR/translation-journal.md`: “| ratio | noção; razão; argumento | Conforme o contexto: definição, fundamento ou raciocínio. |” → “| ratio | noção; razão; argumento | Conforme o contexto: definição, fundamento ou raciocínio. Também “proporção” nas relações quantitativas, “método” no procedimento de determinação das grandezas, “natureza” na classificação dos acidentes e “caráter” na caracterização de uma demonstração. |” — Acrescenta sentidos distintos, corretamente empregados de modo recorrente, que a linha não contempla.
+- `pt-BR/translation-journal.md`: “| continuum / continuitas | contínuo / continuidade | |” → “| continuum / continuitas | contínuo / continuidade | Também “contíguo” para a união imediata entre corpos ou esferas distintos, conforme a glosa do § 352. |” — O comentário explica esse uso como união imediata; “contíguo” preserva a distinção entre contato e continuidade estrita.
+- `pt-BR/translation-journal.md`: “| magnitudo / quantitas / multitudo | grandeza / quantidade / multiplicidade | Para uma massa contínua, *multitudo* pode ser “quantidade”, como nos trechos sobre o ar sob a terra. |” → “| magnitudo / quantitas / multitudo | grandeza / quantidade / multiplicidade | “Magnitudo” também como “intensidade” do som; “multitudo” como “massa” quando designa uma quantidade contínua de ar ou fogo. |” — Registra dois sentidos corretamente empregados que diferem da grandeza espacial e da multiplicidade de coisas discretas.
+- `pt-BR/g2-c002.md` [42]: “que é aquilo que os gera ou que remove o impedimento” → “que é o gerador ou aquilo que remove o impedimento” — *generans* → “gerador” (Key Terms); era “aquilo que os gera”.
+- `pt-BR/g2-c003.md` [38]: “pois a extensão de nossa região habitável” → “pois a quantidade de extensão de nossa região habitável” — *quantitas* → “quantidade” (Key Terms), conservando a indicação de que se trata de extensão espacial.
+- `pt-BR/g2-c004.md` [12]: “cujo movimento natural não pode ser eterno” → “cujo movimento segundo a natureza não pode ser eterno” — *secundum naturam* → “segundo a natureza” (Key Terms); era “natural”.
+- `pt-BR/g2-c005.md` [10]: “o corpo que se move circularmente” → “o corpo que se move por rotação” — *circulatione* → “rotação” (Key Terms); era “circularmente”.
+- `pt-BR/g2-c005.md` [11]: “os corpos que estão no interior destes” → “os corpos que estão mais próximos do centro do que estes” — *ad medium* → “centro” (Key Terms); era “no interior”.
+- `pt-BR/g2-c006.md` [3]: “fora da revolução extrema” → “fora da rotação extrema” — *circulationis* → “rotação” (Key Terms); era “revolução”.
+- `pt-BR/g2-c006.md` [4]: “contínuo, regular e sempiterno” → “contínuo, regular e eterno” — *sempiterna* → “eterno” (Key Terms); era “sempiterno”.
+- `pt-BR/g2-c006.md` [12]: “fora da revolução extrema” → “fora da rotação extrema” — *circulationem* → “rotação” (Key Terms); era “revolução”.
+- `pt-BR/g2-c007.md` [4]: “sua revolução” → “sua rotação” — *circulatio* → “rotação” (Key Terms); era “revolução”.
+- `pt-BR/g2-c007.md` [4]: “nas coisas sempiternas” → “nas coisas eternas” — *sempiternis* → “eternas” (Key Terms); era “sempiternas”.
+- `pt-BR/g2-c007.md` [4]: “são sempiternos” → “são eternos” — *sempiternum* → “eternos” (Key Terms); era “sempiternos”.
+- `pt-BR/g2-c007.md` [7]: “o lugar de cima é mais divino que o de baixo” → “o lugar alto é mais divino que o baixo” — *sursum / deorsum* → “alto / baixo” nas posições (Key Terms).
+- `pt-BR/g2-c007.md` [17]: “nas coisas sempiternas” → “nas coisas eternas” — *sempiternis* → “eternas” (Key Terms); era “sempiternas”.
+- `pt-BR/g2-c007.md` [17]: “o céu é sempiterno” → “o céu é eterno” — *sempiternum* → “eterno” (Key Terms); era “sempiterno”.
+- `pt-BR/g2-c007.md` [20]: “as coisas sempiternas não podem” → “as coisas eternas não podem” — *sempiterna* → “eternas” (Key Terms); era “sempiternas”.
+- `pt-BR/g2-c007.md` [20]: “nem todas as coisas sempiternas” → “nem todas as coisas eternas” — *sempiterna* → “eternas” (Key Terms); era “sempiternas”.
+- `pt-BR/g2-c007.md` [20]: “há algo sempiterno” → “há algo eterno” — *sempiternum* → “eterno” (Key Terms); era “sempiterno”.
+- `pt-BR/g2-c007.md` [20]: “da sempiternidade do céu” → “da eternidade do céu” — *sempiternitate* → “eternidade” (Key Terms); era “sempiternidade”.
+- `pt-BR/g2-c007.md` [24]: “o lugar de cima é mais digno que o de baixo” → “o lugar alto é mais digno que o baixo” — *sursum / deorsum* → “alto / baixo” nas posições (Key Terms).
+- `pt-BR/g2-c007.md` [24]: “a cabeça, que está em cima” → “a cabeça, que está no alto” — *sursum* → “alto” nas posições (Key Terms); era “em cima”.
+- `pt-BR/g2-c008.md` [5]: “Na revolução circular” → “Na rotação” — *Circulationis* → “rotação” (Key Terms); era “revolução circular”.
+- `pt-BR/g2-c008.md` [5]: “é sempiterna no tempo” → “é eterna no tempo” — *sempiterna* → “eterna” (Key Terms); era “sempiterna”.
+- `pt-BR/g2-c008.md` [14]: “isto é, aumento de velocidade” → “isto é, crescimento da velocidade” — *augmentum* → “crescimento” (Key Terms), inclusive no sentido amplo.
+- `pt-BR/g2-c008.md` [18]: “pois é sempiterno” → “pois é eterno” — *sempiternus* → “eterno” (Key Terms); era “sempiterno”.
+- `pt-BR/g2-c008.md` [18]: “da revolução do céu” → “da rotação do céu” — *circulatione* → “rotação” (Key Terms); era “revolução”.
+- `pt-BR/g2-c009.md` [8]: “não gerado e sempiterno” → “não gerado e eterno” — *sempiternum* → “eterno” (Key Terms); era “sempiterno”.
+- `pt-BR/g2-c009.md` [10]: “a velhice, o declínio” → “a velhice, a diminuição” — *decrementum* → “diminuição” (Key Terms); era “declínio”.
+- `pt-BR/g2-c009.md` [10]: “não podem ser sempiternas” → “não podem ser eternas” — *sempiterna* → “eternas” (Key Terms); era “sempiternas”.
+- `pt-BR/g2-c009.md` [10]: “isto é, aumento da velocidade” → “isto é, crescimento da velocidade” — *augmentum* → “crescimento” (Key Terms), inclusive no sentido amplo.
+- `pt-BR/g2-c009.md` [20]: “uma revolução do céu” → “uma rotação do céu” — *circulatio* → “rotação” (Key Terms); era “revolução”.
+- `pt-BR/g2-c009.md` [20]: “as diversas revoluções” → “as diversas rotações” — *circulationes* → “rotações” (Key Terms); era “revoluções”.
+- `pt-BR/g2-c009.md` [26]: “não gerado e sempiterno” → “não gerado e eterno” — *sempiternum* → “eterno” (Key Terms); era “sempiterno”.
+- `pt-BR/g2-c010.md` [49]: “mais unida e como que concentrada” → “mais unida e como que adensada” — *commassata* → forma derivada de “adensamento” (Key Terms); era “concentrada”.
+- `pt-BR/g2-c010.md` [54]: “segundo o comprimento das linhas traçadas” → “segundo a quantidade de extensão das linhas traçadas” — *quantitatem* → “quantidade” (Key Terms), explicitando que se trata da extensão das linhas.
+- `pt-BR/g2-c010.md` [61]: “O raro e o denso” → “O rarefeito e o denso” — *Rarum* → “rarefeito” (Key Terms); era “raro”.
+- `pt-BR/g2-c010.md` [61]: “mais densos e mais concentrados” → “mais densos e mais adensados” — *commassata* → forma derivada de “adensamento” (Key Terms); era “concentrados”.
+- `pt-BR/g2-c011.md` [3]: “como o céu inteiro se deslocam” → “como todo o céu se deslocam” — *totum* → “todo” (Key Terms); era “inteiro”.
+- `pt-BR/g2-c011.md` [13]: “como o céu inteiro se movem” → “como todo o céu se movem” — *totum* → “todo” (Key Terms); era “inteiro”.
+- `pt-BR/g2-c011.md` [14]: “os astros e o céu inteiro estão” → “os astros e todo o céu estão” — *totum* → “todo” (Key Terms); era “inteiro”.
+- `pt-BR/g2-c011.md` [14]: “ao redor dos polos equinociais” → “ao redor dos polos do equador” — *aequinoctiales* refere-se ao equador celeste, conforme a distinção dos Key Terms.
+- `pt-BR/g2-c011.md` [15]: “situada no círculo equinocial” → “situada no equador” — *circulo aequinoctiali* → “equador” (Key Terms); era “círculo equinocial”.
+- `pt-BR/g2-c011.md` [28]: “nos corpos que se movem circularmente” → “nos corpos que se movem por movimento circular” — *motu circulari* → “movimento circular” (Key Terms); era “circularmente”.
+- `pt-BR/g2-c011.md` [29]: “O mesmo raciocínio vale” → “O mesmo argumento vale” — *ratio* → “argumento” no contexto de raciocínio (Key Terms); era “raciocínio”.
+- `pt-BR/g2-c011.md` [30]: “correspondente ao tamanho do astro” → “correspondente à quantidade de extensão do astro” — *quantitatem* → “quantidade” (Key Terms), mantendo explícito o sentido espacial.
+- `pt-BR/g2-c011.md` [30]: “o céu inteiro é contíguo” → “todo o céu é contíguo” — *totum* → “todo” (Key Terms); era “inteiro”.
+- `pt-BR/g2-c011.md` [31]: “pela grandeza das porções” → “pela quantidade das porções” — *quantitatem* → “quantidade” (Key Terms); era “grandeza”.
+- `pt-BR/g2-c012.md` [12]: “o raciocínio é o mesmo” → “o argumento é o mesmo” — *ratio* → “argumento” no contexto de raciocínio (Key Terms); era “raciocínio”.
+- `pt-BR/g2-c013.md` [13]: “chamadas nós, ou cabeça e cauda” → “chamadas nodos, ou cabeça e cauda” — *nodi* → “nodos” (Key Terms); era “nós”.
+- `pt-BR/g2-c013.md` [13]: “de algum dos referidos nós” → “de algum dos referidos nodos” — *nodorum* → “nodos” (Key Terms); era “nós”.
+- `pt-BR/g2-c014.md` [4]: “dada a multidão e a grandeza” → “dada a multiplicidade e a grandeza” — *multitudinem* → “multiplicidade” (Key Terms); era “multidão”.
+- `pt-BR/g2-c014.md` [22]: “de seu movimento e sua multidão” → “de seu movimento e sua multiplicidade” — *multitudinem* → “multiplicidade” (Key Terms); era “multidão”.
+- `pt-BR/g2-c014.md` [22]: “a multidão dos astros” → “a multiplicidade dos astros” — *multitudo* → “multiplicidade” (Key Terms); era “multidão”.
+- `pt-BR/g2-c014.md` [27]: “são de tão grande dimensão” → “são de tão grande quantidade de extensão” — *quantitatis* → “quantidade” (Key Terms), preservando o sentido espacial.
+- `pt-BR/g2-c014.md` [29]: “não são destrutivos” → “não são corruptivos” — *corruptivi* → forma derivada de “corrupção” (Key Terms); era “destrutivos”.
+- `pt-BR/g2-c014.md` [35]: “como destrutiva da visão” → “como corruptora da visão” — *corruptivum* → forma derivada de “corrupção” (Key Terms); era “destrutiva”.
+- `pt-BR/g2-c014.md` [35]: “ou destruíssem sua audição” → “ou corrompessem sua audição” — *corrumperent* → forma verbal de “corrupção” (Key Terms); era “destruíssem”.
+- `pt-BR/g2-c015.md` [4]: “a revolução extrema do céu” → “a rotação extrema do céu” — *circulationem* → “rotação” (Key Terms); era “revolução”.
+- `pt-BR/g2-c015.md` [4]: “da revolução simples e primeira” → “da rotação simples e primeira” — *circulationi* → “rotação” (Key Terms); era “revolução”.
+- `pt-BR/g2-c015.md` [9]: “a revolução suprema do céu” → “a rotação suprema do céu” — *circulatio* → “rotação” (Key Terms); era “revolução”.
+- `pt-BR/g2-c015.md` [9]: “As revoluções dos planetas” → “As rotações dos planetas” — *Circulationes* → “rotações” (Key Terms); era “revoluções”.
+- `pt-BR/g2-c015.md` [9]: “da revolução simples e primeira” → “da rotação simples e primeira” — *circulationi* → “rotação” (Key Terms); era “revolução”.
+- `pt-BR/g2-c015.md` [10]: “de duração sempiterna” → “de duração eterna” — *sempiternae* → “eterna” (Key Terms); era “sempiterna”.
+- `pt-BR/g2-c015.md` [10]: “pode ser sempiterno” → “pode ser eterno” — *sempiternum* → “eterno” (Key Terms); era “sempiterno”.
+- `pt-BR/g2-c015.md` [16]: “de permanência sempiterna” → “de permanência eterna” — *sempiternae* → “eterna” (Key Terms); era “sempiterna”.
+- `pt-BR/g2-c015.md` [16]: “de duração sempiterna” → “de duração eterna” — *sempiternae* → “eterna” (Key Terms); era “sempiterna”.
+- `pt-BR/g2-c016.md` [12]: “pelas formas que a lua muda ao crescer e minguar” → “pelas formas que a lua muda ao crescer e diminuir” — *decremento* → forma verbal de “diminuição” (Key Terms); era “minguar”.
+- `pt-BR/g2-c016.md` [12]: “não se tornaria, ao crescer e minguar” → “não se tornaria, ao crescer e diminuir” — *decremento* → forma verbal de “diminuição” (Key Terms); era “minguar”.
+- `pt-BR/g2-c016.md` [13]: “começa a ser iluminado na mesma proporção” → “começa a ser iluminado em igual quantidade” — *eandem quantitatem* → “igual quantidade” (Key Terms); era “mesma proporção”.
+- `pt-BR/g2-c017.md` [7]: “há tamanha multidão de astros” → “há tamanha multiplicidade de astros” — *multitudo* → “multiplicidade” (Key Terms); era “multidão”.
+
+### Part terms 3 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta read of the 71 round-1 changes and their neighbours: all correct against the Latin; fixed the false sempiternitas row in the journal and reapplied the ratio row addition that had not been applied.
+- `pt-BR/translation-journal.md`: “| sempiternitas | sempiternidade | |” → “| sempiternitas | eternidade | Duração por tempo infinito; o adjetivo *sempiternum* recebe “eterno”. |” — “sempiternidade” já não ocorre na tradução (0 ocorrências, segundo a auditoria); o texto usa “eternidade”/“eterno”, conforme a outra linha da tabela.
+- NOT APPLIED (old text not found exactly once (2)): - `pt-BR/translation-journal.md`: “Também “definição” quando designa a formulação da essência de uma coisa. |” → “Também “definição” quando designa a formulação da essência de uma coisa. Também “proporção” nas relações quantitativas, “método” no procedimento de determinação das grandezas, “natureza” na classificação dos acidentes e “caráter” na caracterização de uma demonstração. |” — A ampliação da linha feita na rodada anterior não foi aplicada, porque o trecho citado não correspondia à linha atual. Os usos registrados ocorrem, por exemplo, em g2-c015 [4] (“segundo a proporção”) e [8] (“o método de determinar”).
+- Rejected: pt-BR/g2-c010.md [54], g2-c011.md [30], g2-c014.md [27] — “quantidade de extensão” é pesado — Está gramatical e fiel a *quantitas* com sentido espacial; é escolha de estilo.
+- Rejected: pt-BR/g2-c010.md [61] — “mais densos e mais adensados” soa redundante — Corresponde a *spissiora et magis commassata* e segue a linha *commassatio* → “adensamento”.
+- Rejected: pt-BR/g2-c009.md [26]; g2-c010.md [49] — “céu inteiro” permanece onde outras passagens passaram a “todo o céu” — As duas formas traduzem *totum* sem alterar o sentido; não há defeito objetivo.
+- Rejected: pt-BR/g2-c011.md [14] — “polos do equador” para *polos aequinoctiales* — Os polos do círculo equinocial são os polos do equador celeste; a tradução está correta.
+
+### Part terms 3 of 6, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificada a alteração de sempiternitas no diário: correta e coerente com a linha sempiternum / sempiternitas. Nenhum parágrafo de capítulo foi apresentado nesta rodada; nenhum novo defeito encontrado.
+
+### Part terms 4 of 6, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 47 minor. 138 flags de parágrafo lidos; 31 parágrafos com deriva terminológica; 2 linhas do glossário ampliadas.
+- `pt-BR/translation-journal.md`: “| magnitudo / quantitas / multitudo | grandeza / quantidade / multiplicidade | |” → “| magnitudo / quantitas / multitudo | grandeza / quantidade / multiplicidade | Para uma massa contínua, *multitudo* pode ser “quantidade”, como nos trechos sobre o ar sob a terra. |” — Nos trechos sobre o ar, *multitudo* designa quantidade de matéria contínua, não multiplicidade de unidades.
+- `pt-BR/translation-journal.md`: “| encyclia / syntagmatica / acroamatica / philosophemata | ensinamentos gerais / ensinamentos coordenados / ensinamentos destinados à audição / ensinamentos filosóficos | Conservadas as formas citadas em itálico na explicação terminológica de g1-c021, § 217. |” → “| encyclia / syntagmatica / acroamatica / philosophemata | ensinamentos gerais / ensinamentos coordenados / ensinamentos destinados à audição / ensinamentos filosóficos | Conservadas as formas citadas em itálico na explicação terminológica de g1-c021, § 217. Em g2-c022, *philosophema* designa uma questão ou ocasião para filosofar: “questão filosófica” ou “filosofema”. |” — O próprio comentário explica esse outro sentido de *philosophema*, distinto de ensinamento filosófico.
+- `pt-BR/g2-c017.md` [28]: “tamanha multidão de esferas” → “tamanha multiplicidade de esferas” — *multitudo* → “multiplicidade” (Key Terms); estava “multidão”.
+- `pt-BR/g2-c017.md` [33]: “tamanha multidão de astros” → “tamanha multiplicidade de astros” — *multitudo* → “multiplicidade” (Key Terms); estava “multidão”.
+- `pt-BR/g2-c018.md` [42]: “quanto ao maior ou menor número de seus movimentos” → “quanto à multiplicidade ou escassez de seus movimentos” — *multitudinem vel paucitatem* → “multiplicidade ou escassez”; recupera a forma estabelecida para *multitudo*.
+- `pt-BR/g2-c018.md` [60]: “sobressai pela multidão dos astros” → “sobressai pela multiplicidade dos astros” — *multitudo* → “multiplicidade” (Key Terms); estava “multidão”.
+- `pt-BR/g2-c019.md` [3]: “uma grande multidão de astros” → “uma grande multiplicidade de astros” — *multitudo* → “multiplicidade” (Key Terms); estava “multidão”.
+- `pt-BR/g2-c019.md` [9]: “uma grande multidão de astros” → “uma grande multiplicidade de astros” — *multitudo* → “multiplicidade” (Key Terms); estava “multidão”.
+- `pt-BR/g2-c019.md` [9]: “tenha abundância de astros” → “tenha uma grande multiplicidade de astros” — *abundet in multitudine stellarum* conserva a multiplicidade explicitada no original e no glossário.
+- `pt-BR/g2-c020.md` [4]: “ser finito o céu inteiro” → “ser finito todo o céu” — *totum* → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g2-c020.md` [32]: “ser infinito o universo inteiro” → “ser infinito todo o universo” — *totum* → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g2-c020.md` [32]: “ser finito o mundo inteiro” → “ser finito todo o mundo” — *totum* → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g2-c020.md` [32]: “o corpo inteiro da terra está sempre interposto” → “todo o corpo da terra está sempre interposto” — *totum* → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g2-c020.md` [34]: “a natureza de seu raciocínio” → “a natureza de seu argumento” — *ratio* → “argumento” (Key Terms), aqui referido ao argumento dos pitagóricos.
+- `pt-BR/g2-c020.md` [42]: “quanto ao ***céu*** inteiro” → “quanto a todo o ***céu***” — *toto caelo* → “todo o céu” (Key Terms); estava “céu inteiro”.
+- `pt-BR/g2-c020.md` [42]: “isto é, ao universo inteiro” → “isto é, a todo o universo” — *toto universo* → “todo o universo” (Key Terms); estava “universo inteiro”.
+- `pt-BR/g2-c020.md` [42]: “ter receio quanto ao universo inteiro” → “ter receio quanto a todo o universo” — *totum universum* → “todo o universo” (Key Terms); estava “universo inteiro”.
+- `pt-BR/g2-c021.md` [22]: “cuja grandeza é como que nula” → “cuja quantidade é como que nula” — *quantitas* → “quantidade” (Key Terms); estava “grandeza”, correspondente a *magnitudo*.
+- `pt-BR/g2-c024.md` [9]: “três explicações do repouso da terra” → “três razões do repouso da terra” — *rationes* → “razões” (Key Terms); estava “explicações”.
+- `pt-BR/g2-c024.md` [9]: “outras explicações, tomadas do corpo celeste” → “outras razões, tomadas do corpo celeste” — *rationes* → “razões” (Key Terms); estava “explicações”.
+- `pt-BR/g2-c024.md` [10]: “a quarta explicação do repouso da terra” → “a quarta razão do repouso da terra” — *ratio* → “razão” (Key Terms); estava “explicação”.
+- `pt-BR/g2-c024.md` [13]: “refuta a explicação mencionada” → “refuta a razão mencionada” — *ratio* → “razão” (Key Terms); estava “explicação”.
+- `pt-BR/g2-c025.md` [8]: “não, porém, inteiro, mas dividido” → “não, porém, todo ele, mas dividido” — *totum* → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g2-c025.md` [8]: “Não, porém, inteiro para um único ponto” → “Não, porém, todo ele para um único ponto” — *totum* → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g2-c025.md` [24]: “excede em grandeza o lugar central” → “excede em quantidade o lugar central” — *quantitas* → “quantidade” (Key Terms); estava “grandeza”.
+- `pt-BR/g2-c026.md` [50]: “no aumento e na diminuição dos dias e das noites” → “no crescimento e na diminuição dos dias e das noites” — *augmentum* → “crescimento” (Key Terms), inclusive no sentido amplo previsto na nota.
+- `pt-BR/g2-c028.md` [4]: “reta, *amphicurtos* e côncava” → “reta, *anficurta* e côncava” — *amphicurtos* → “anficurta” (Key Terms); a forma original ficou sem tradução.
+- `pt-BR/g2-c028.md` [7]: “tampouco têm grandeza considerável” → “tampouco têm quantidade considerável” — *quantitas* → “quantidade” (Key Terms); estava “grandeza”.
+- `pt-BR/g2-c028.md` [7]: “embora a terra não seja inteiramente esférica por alguma circunstância acidental” → “embora, por acidente, a terra não seja inteiramente esférica por alguma circunstância acidental” — Recupera *per accidens* como “por acidente”; a circunstância acidental traduz o outro segmento, *ex aliquo accidente*.
+- `pt-BR/g2-c028.md` [9]: “torna-se *amphicurtos*” → “torna-se *anficurta*” — *amphicurtos* → “anficurta” (Key Terms); a forma original ficou sem tradução.
+- `pt-BR/g2-c028.md` [12]: “estrelas próximas do polo sul” → “estrelas próximas do polo Antártico” — *polo Antarctico* → “polo Antártico” (Key Terms), conservando a nomenclatura da fonte.
+- `pt-BR/g2-c028.md` [14]: “tem a grandeza mencionada” → “tem a quantidade mencionada” — *quantitas* → “quantidade” (Key Terms); estava “grandeza”.
+- `pt-BR/g2-c028.md` [15]: “a grandeza da terra não é apenas esférica” → “a quantidade da terra não é apenas esférica” — *quantitas* → “quantidade” (Key Terms); conserva a distinção em relação às *magnitudines* dos outros astros, mencionadas na sequência.
+- `pt-BR/g3-c001.md` [4]: “também o céu inteiro e suas partes” → “também todo o céu e suas partes” — *totum* → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g3-c001.md` [18]: “que é o céu inteiro e suas partes” → “que é todo o céu e suas partes” — *totum* → “todo” (Key Terms); estava “inteiro”.
+- `pt-BR/g3-c003.md` [4]: “pertence ao mesmo raciocínio” → “pertence ao mesmo argumento” — *ratio* → “argumento” (Key Terms); estava “raciocínio”.
+- `pt-BR/g3-c004.md` [4]: “pelo maior número de superfícies” → “pela maior multiplicidade de superfícies” — *multitudo* → “multiplicidade” (Key Terms); estava “número”.
+- `pt-BR/g3-c004.md` [12]: “isto é, pelo número de superfícies” → “isto é, pela multiplicidade de superfícies” — *multitudo* → “multiplicidade” (Key Terms); estava “número”.
+- `pt-BR/g3-c004.md` [14]: “o que pertence inteiramente ao mesmo raciocínio” → “o que, como um todo, pertence ao mesmo raciocínio” — *quod totum* → “o que, como um todo”; recupera “todo”, estabelecido para *totum*.
+- `pt-BR/g3-c007.md` [19]: “ao longo da distância gd” → “ao longo da grandeza gd” — *magnitudo* → “grandeza” (Key Terms); estava “distância”.
+- `pt-BR/g3-c007.md` [19]: “uma distância maior, que seja ge” → “uma grandeza maior, que seja ge” — *magnitudo* → “grandeza” (Key Terms); estava “distância”.
+- `pt-BR/g3-c007.md` [19]: “sua parte percorra, no mesmo tempo, a distância gd” → “sua parte percorra, no mesmo tempo, a grandeza gd” — *magnitudo* → “grandeza” (Key Terms); estava “distância”.
+- `pt-BR/g3-c007.md` [19]: “percorria a mesma distância” → “percorria a mesma grandeza” — *magnitudo* → “grandeza” (Key Terms); estava “distância”.
+- `pt-BR/g3-c007.md` [19]: “percorram a mesma distância em tempo igual” → “percorram a mesma grandeza em tempo igual” — *magnitudo* → “grandeza” (Key Terms); estava “distância”.
+- `pt-BR/g3-c008.md` [59]: “as causas próprias deles e de suas propriedades” → “as causas próprias deles e de suas afecções” — *passiones* → “afecções” (Key Terms); estava “propriedades”.
+- `pt-BR/g3-c008.md` [59]: “ou são agregados dessas grandezas que permanecem intactas” → “ou são compostos pela reunião dessas grandezas que permanecem intactas” — *congregata* conserva o vocabulário de “reunião” estabelecido para *congregatio*.
+- `pt-BR/g3-c008.md` [59]: “as figuras planas retilíneas” → “as figuras superficiais retilíneas” — *figurae superficiales* → “figuras superficiais” (Key Terms); estava “figuras planas”.
+
+### Part terms 4 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta da parte 4: as 46 alterações estão corretas e não quebraram os vizinhos; uma correção menor no diário, cuja decisão sobre g2-c028 ainda descrevia *amphicurtos*, já traduzido por “anficurta”.
+- `pt-BR/translation-journal.md`: “Em g2-c028, mantido *amphicurtos* em itálico; o próprio comentário explica o termo.” → “Em g2-c028, *amphicurtos* foi traduzido por *anficurta*, em itálico, conforme o glossário; o próprio comentário explica o termo.” — O texto de g2-c028 [4] e [9] agora traz *anficurta*; a decisão descrevia a forma latina conservada, o que não é mais verdade.
+- Rejected: pt-BR/g2-c020.md [43]; g2-c021.md [22]; g2-c025.md [23]; g2-c028.md [7] — Restam ocorrências de “inteiro” para *totum* (“universo inteiro”, “céu inteiro”, “esfera inteira”, “terra inteira”, “inteiro para um único ponto”). — A linha *omne / totum* do glossário prevê flexões adaptadas à sintaxe. Em “a terra inteira não é o centro”, “toda a terra” seria até ambíguo. O sentido não muda.
+- Rejected: pt-BR/g2-c028.md [7] — “por acidente … por alguma circunstância acidental” parece redundante. — Reproduz o latim, que também é redundante: *per accidens … ex aliquo accidente*.
+- Rejected: pt-BR/g3-c007.md [19]–[20] — No [19] coexistem “grandeza gd” e “toda a distância ge”; o [20] usa “distância” para *magnitudo*. — Nos trechos com “toda a distância” o latim traz só *totum ge*, sem *magnitudo*. A variação não altera o sentido da demonstração.
+- Rejected: pt-BR/translation-journal.md, linha magnitudo / quantitas / multitudo — A nota atual (“massa”) não coincide com a nota que a rodada anterior diz ter aplicado (“quantidade”). — A nota presente está correta e coerente. Não há base no texto mostrado para alterá-la.
+
+### Part terms 4 of 6, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificada a alteração do diário sobre g2-c028: coerente com o glossário e com as correções registradas para “anficurta”. Nenhum defeito encontrado; nenhum parágrafo de capítulo foi apresentado nesta rodada.
+
+### Part terms 5 of 6, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 7 minor. 15 flags lidos; 6 apresentavam desvio, contando as duas flags de secundum naturam para a mesma ocorrência; 1 linha do glossário ampliada.
+- `pt-BR/g3-c008.md` [60]: “é anterior por natureza aos que são constituídos de partes mais espessas” → “é anterior segundo a natureza aos que são constituídos de partes mais espessas” — *secundum naturam* → “segundo a natureza” (Key Terms); estava “por natureza”.
+- `pt-BR/translation-journal.md`: “| aeternum / saeculum | eternidade / século | Em g1-c021, “século” designa a duração de uma coisa, não necessariamente cem anos. |” → “| aeternum / saeculum | eternidade / século | Em g1-c021, “século” designa a duração de uma coisa, não necessariamente cem anos. Como adjetivo, aeternum é traduzido por “eterno”, com as flexões exigidas pela sintaxe. |” — A linha omitia o uso adjetivo de *aeternum*, corretamente traduzido por “eterno” neste parágrafo.
+- `pt-BR/g3-c008.md` [62]: “haverá partes de água infinitas em número” → “haverá partes de água infinitas segundo a multiplicidade” — *multitudinem* → “multiplicidade” (Key Terms); estava “número”.
+- `pt-BR/g3-c008.md` [62]: “os das coisas sempiternas, sempiternos” → “os das coisas eternas, eternos” — *sempiternorum sempiterna* → “eternas, eternos” (Key Terms); estava “sempiternas, sempiternos”.
+- `pt-BR/g3-c008.md` [63]: “nada do que é contrário à natureza é sempiterno” → “nada do que está fora da natureza é eterno” — *sempiternum* → “eterno” (Key Terms). Na mesma sentença, *praeter naturam* significa “fora da natureza”; “contrário à natureza” corresponde à expressão distinta *contra naturam*. *(meaning)*
+- `pt-BR/g4-pr.md` [2]: “a terra e o fogo, ou o raro e o denso” → “a terra e o fogo, ou o rarefeito e o denso” — *rarum* → “rarefeito” (Key Terms); estava “raro”.
+- `pt-BR/g4-pr.md` [2]: “o vazio e o pleno ou o raro e o denso” → “o vazio e o pleno ou o rarefeito e o denso” — *rarum* → “rarefeito” (Key Terms); estava “raro”.
+- `pt-BR/g4-pr.md` [2]: “o vazio ou o raro são leves” → “o vazio ou o rarefeito são leves” — *rarum* → “rarefeito” (Key Terms); estava “raro”.
+
+### Part terms 5 of 6, Round 2 (claude, delta read)
+Verdict: 2 meaning-level, 0 minor. Delta read of g3-c008 [59–63] and g4-pr [1–3]: all eight changes check out against the Latin, but the [63] praeter naturam fix left two premises of the same syllogism with 'contrário à natureza'; aligned them.
+- `pt-BR/g3-c008.md` [63]: “e o lugar natural de um é contrário à natureza do outro” → “e o lugar natural de um está fora da natureza do outro” — source: locus naturalis unius est praeter naturam alterius; praeter naturam is 'fora da natureza' (Key Terms). The fix to 'nada do que está fora da natureza é eterno' left this premise with 'contrário à natureza' (contra naturam), so the middle term of the syllogism no longer matches. *(meaning)*
+- `pt-BR/g3-c008.md` [63]: “isso lhe será contrário à natureza” → “isso lhe será fora da natureza” — source: hoc erit ei praeter naturam; same middle term as the next sentence, now 'fora da natureza'; 'contrário à natureza' renders contra naturam, which the text uses separately a few lines later. *(meaning)*
+- Rejected: pt-BR/g3-c008.md [61] — sempiterna rendered 'sempiternos' several times, against the Key Terms row sempiternum → 'eterno', now used in [62] — In [61] the same paragraph also uses aeterna ('não são eternos em absoluto'), so 'sempiterno' keeps a lexical distinction visible. The row is limited to 'neste argumento'. A defensible choice, not changed.
+
+### Part terms 5 of 6, Round 3 (codex, delta read)
+Verdict: 1 meaning-level, 1 minor. Lidos integralmente os parágrafos 62–63 e as notas fornecidas; verificadas as duas alterações, com um ajuste gramatical e uma inversão de sentido identificados.
+- `pt-BR/g3-c008.md` [63]: “isso lhe será fora da natureza” → “isso será, para ele, algo fora da natureza” — A alteração preserva praeter naturam, mas a construção resultante com «lhe será fora» é inadequada; falta um predicativo compatível com «ser».
+- `pt-BR/g3-c008.md` [63]: “tampouco os naturais aquecerão por isso, mas por serem materiais” → “tampouco os naturais aquecerão por serem materiais” — O latim diz «nec naturalia calefacient, quia materialia». A tradução acrescenta «por isso, mas», convertendo a negação recebida em uma explicação afirmativa pela materialidade, apesar da decisão expressa no diário de conservar essa dificuldade. *(meaning)*
+- Rejected: pt-BR/g3-c008.md [63] — Afirmações geometricamente incorretas sobre os ângulos do triângulo e do pentágono. — Reproduzem as leituras latinas fornecidas, explicitamente assinaladas na nota [^5]; não cabe corrigir a demonstração do original.
+- Rejected: pt-BR/g3-c008.md [63] — A auditoria aponta dois marcadores de ênfase adicionais. — Correspondem ao itálico de omophilon, forma lexical retida e imediatamente explicada; a marcação é adequada.
+
+### Part terms 5 of 6, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read of g3-c008 [62]–[63] and footnotes: both round-3 changes are correct; restored «secundam» dropped from [62].
+- `pt-BR/g3-c008.md` [62]: “Na primeira parte, diz: se os corpos primeiros” → “Na primeira parte, apresenta a segunda: se os corpos primeiros” — source: «In prima dicit secundam: si corpora prima…»; the translation dropped «secundam», although the journal records that «na primeira parte, apresenta a segunda» was kept as a difficulty of the received text
+- Rejected: pt-BR/g3-c008.md [63] — «isso será, para ele, algo fora da natureza» for «hoc erit ei praeter naturam» — Faithful to the Latin and grammatical. It keeps «fora da natureza» as the middle term of the syllogism, matching the next sentence.
+- Rejected: pt-BR/g3-c008.md [63] — «tampouco os naturais aquecerão por serem materiais» could be read either way — It reproduces the Latin «nec naturalia calefacient, quia materialia» with its own ambiguity. The journal keeps this difficulty on purpose, and the next clause («não, portanto, em razão de suas formas») still follows.
+- Rejected: pt-BR/g3-c008.md [63] — audit: emphasis markers 2 vs 4 — The difference is the italic on the retained Greek form *omophilon*, which the text explains right after. Already rejected in round 3.
+
+### Part terms 6 of 6, Round 1 (codex, terms read)
+Verdict: 2 meaning-level, 5 minor. 8 apontamentos lidos; 3 apresentavam desvio, com 7 correções de ocorrências.
+- `pt-BR/g4-pr.md` [4]: “adquire certo peso alheio à sua natureza” → “adquire certo peso fora da ordem natural que lhe é própria” — *praeter naturam suam* → “fora da ordem natural” (Key Terms); estava “alheio à sua natureza”.
+- `pt-BR/g4-pr.md` [4]: “pelo calor que o torna sutil, além de sua natureza” → “pelo calor que o torna sutil, fora da ordem natural que lhe é própria” — *praeter naturam ejus* → “fora da ordem natural” (Key Terms); “além de sua natureza” pode sugerir estar acima da natureza, distinção que a nota exige preservar. *(meaning)*
+- `pt-BR/g4-pr.md` [4]: “pelo frio que o engrossa, igualmente além de sua natureza” → “pelo frio que o engrossa, igualmente fora da ordem natural que lhe é própria” — *praeter naturam suam* → “fora da ordem natural” (Key Terms); “além de sua natureza” pode sugerir estar acima da natureza. *(meaning)*
+- `pt-BR/g4-pr.md` [4]: “segundo sua disposição alheia à natureza” → “segundo sua disposição fora da ordem natural” — *dispositionem praeternaturalem ejus* exprime uma disposição “fora da ordem natural” (Key Terms); estava “alheia à natureza”.
+- `pt-BR/g4-pr.md` [4]: “e sua disposição alheia à natureza” → “e sua disposição fora da ordem natural” — *dispositionem ejus praeternaturalem* → disposição “fora da ordem natural” (Key Terms); estava “alheia à natureza”.
+- `pt-BR/g4-pr.md` [4]: “e outra alheia à natureza, pela qual” → “e outra fora da ordem natural, pela qual” — *praeternaturalem* qualifica a qualidade como “fora da ordem natural” (Key Terms); estava “alheia à natureza”.
+- `pt-BR/g4-pr.md` [4]: “admitir uma grande quantidade de cada um” → “admitir uma grande multiplicidade de cada um” — *multitudinem* → “multiplicidade” (Key Terms); estava “quantidade”, reservada na mesma linha a *quantitas*.
+
+### Part terms 6 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta de g4-pr.md [3]–[4]: seis das sete correções conferem com o latim; a troca de *multitudinem* por “multiplicidade” foi corrigida para “massa”, conforme o Key Terms.
+- `pt-BR/g4-pr.md` [4]: “admitir uma grande multiplicidade de cada um” → “admitir uma grande massa de cada um” — *multitudinem utriusque* designa uma quantidade contínua de água e de ar; a linha de Key Terms *magnitudo / quantitas / multitudo* prevê “massa” quando *multitudo* designa quantidade contínua de ar ou fogo. “Multiplicidade” sugere número de itens.
+- Rejected: pt-BR/g4-pr.md [4] — “fora de sua natureza” permanece duas vezes (*praeter naturam ejus* / *suam*, no trecho sobre o ar engrossado pela frieza), ao lado de “fora da ordem natural” no mesmo parágrafo — A linha *secundum naturam / praeter naturam* do Key Terms admite “fora da natureza”, e o sentido não se confunde com “acima da natureza”. Não há defeito objetivo.
+- Rejected: pt-BR/g4-pr.md [4] — repetição de “fora da ordem natural que lhe é própria” em duas orações seguidas — A frase segue o paralelismo do latim (*praeter naturam ejus… similiter praeter naturam suam*) e é gramatical.
+
+### Part terms 6 of 6, Round 3 (codex, delta read)
+Verdict: 1 meaning-level, 0 minor. Lidos integralmente g4-pr.md [3]–[4] e as notas fornecidas; correção anterior confirmada e uma omissão identificada.
+- `pt-BR/g4-pr.md` [4]: “Disse também que alguém antes dele escrevera ter encontrado o odre vazio com um peso um pouco maior que o cheio;” → “Disse também que alguém antes dele escrevera que o odre vazio tinha um peso um pouco maior que o cheio, e que ele próprio encontrara esse resultado;” — O latim acrescenta «et se invenisse»: Simplício também afirma ter encontrado esse resultado pessoalmente; essa informação foi omitida. *(meaning)*
+- Rejected: pt-BR/g4-pr.md [4] — A substituição por «uma grande massa de cada um» poderia alterar o sentido de multitudinem utriusque. — A expressão designa quantidade contínua dos elementos e conserva o sentido do latim.
+- Rejected: pt-BR/g4-pr.md [4] — O número de marcadores de ênfase difere da fonte. — A diferença corresponde aos itálicos acrescentados às formas latinas mineus e seyn, adequadamente conservadas como vocábulos citados.
+
+### Part terms 6 of 6, Round 4 (claude, delta read)
+Verdict: 1 meaning-level, 0 minor. Delta de g4-pr.md [3]–[4]: a correção da rodada 3 atribuía a Simplício o resultado do autor anterior e contradizia o texto; restaurada a forma original.
+- `pt-BR/g4-pr.md` [4]: “escrevera que o odre vazio tinha um peso um pouco maior que o cheio, e que ele próprio encontrara esse resultado;” → “escrevera ter encontrado o odre vazio com um peso um pouco maior que o cheio;” — «scripsisse … et se invenisse»: o *se* remete ao autor anterior (o mesmo que adiante se atribui a Ptolomeu), não a Simplício, que acabara de afirmar ter encontrado pesos iguais; a correção anterior atribui a Simplício um resultado que contradiz a frase precedente *(meaning)*
+- Rejected: pt-BR/g4-pr.md [4] — Omissão de «et se invenisse» (achado da rodada 3) — A forma original «escrevera ter encontrado» já traduz o *se invenisse*, referido ao autor anterior; nada foi omitido
