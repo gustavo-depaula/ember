@@ -272,7 +272,7 @@ De outro modo, diz-se que padece tudo aquilo que é de algum modo impedido em se
 
 Com efeito, não é contrário à natureza do espírito estar ligado a um corpo, visto que vemos a alma naturalmente ligada ao corpo para vivificá-lo; também os demônios, pela necromancia e pelo poder de demônios superiores, são ligados a certas imagens ou a outras coisas. Por isso, com muito maior razão, os espíritos podem, pelo poder divino, ser ligados ao fogo corpóreo, não para dar *vida*, mas para receber *pena*, como diz Agostinho.
 
-Mas, como aquilo que tem menor poder não pode, por seu próprio poder, prender aquilo que tem maior poder, segue-se que nenhum corpo pode prender um espírito, que tem maior poder, senão por algum poder superior; por isso se diz que o fogo corpóreo age sobre a alma separada não por sua virtude própria, mas na medida em que é *instrumento da justiça divina punitiva*.
+Mas, como aquilo que tem menor poder não pode, por seu próprio poder, prender aquilo que tem maior poder, segue-se que nenhum corpo pode prender um espírito, que tem maior poder, senão por algum poder superior; por isso se diz que o fogo corpóreo age sobre a alma separada não por seu próprio poder, mas na medida em que é *instrumento da justiça divina punitiva*.
 
 À primeira objeção, portanto, deve-se dizer que o fogo toca a alma, não por um contato de grandeza, considerado segundo os limites quantitativos, mas antes por um contato de potência: não de seu poder próprio, mas daquele que possui enquanto instrumento da justiça divina.
 
