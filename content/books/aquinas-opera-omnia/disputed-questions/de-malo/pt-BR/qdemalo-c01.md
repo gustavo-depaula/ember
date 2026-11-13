@@ -104,7 +104,7 @@ Quanto ao décimo quinto, deve-se dizer que o sujeito indicado por uma afirmaç�
 
 Quanto ao décimo sexto, deve-se dizer que, como resolve Dionísio, o mal é corruptivo enquanto é mal, mas não é gerador enquanto mal, e sim enquanto conserva algo de bem.
 
-Quanto ao décimo sétimo, deve-se dizer que o não ser nunca é apetecido senão enquanto, por algum não ser, se conserva o próprio ser, como a ovelha apetece a ausência do lobo para conservar a própria vida, e só foge da presença do lobo enquanto esta é corruptiva de sua vida. Daí se vê que o ente é apetecido por si mesmo, mas evitado por acidente; já o não ente é evitado por si e apetecido por acidente. E, por isso, o bem, enquanto bem, é algo; o mal, porém, enquanto mal, é privação.
+Quanto ao décimo sétimo, deve-se dizer que o não ser nunca é apetecido senão enquanto, por algum não ser, se conserva o próprio ser, como a ovelha apetece a ausência do lobo para conservar a própria vida, e só foge da presença do lobo enquanto esta é destrutiva de sua vida. Daí se vê que o ente é apetecido por si mesmo, mas evitado por acidente; já o não ente é evitado por si e apetecido por acidente. E, por isso, o bem, enquanto bem, é algo; o mal, porém, enquanto mal, é privação.
 
 Quanto ao décimo oitavo, deve-se dizer que a pena, enquanto pena, é um mal para alguém; enquanto justa, é um bem absolutamente. Ora, nada impede que aquilo que é bom absolutamente seja mau para alguma coisa, como a forma do fogo é boa absolutamente, mas é má para a água.
 
