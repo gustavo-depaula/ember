@@ -18,13 +18,19 @@
   },
   "composed": "1897",
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "therese-of-lisieux/derniers-entretiens",
   "editions": {
     "fr-FR": {
       "editor": "Carmel de Lisieux (Nouvelle Édition du Centenaire), notes of Mother Agnès de Jésus",
       "year": 1992
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -49,49 +55,57 @@
     {
       "id": "carnet-jaune",
       "title": {
-        "fr-FR": "Le Carnet jaune de Mère Agnès"
+        "fr-FR": "Le Carnet jaune de Mère Agnès",
+        "pt-BR": "O Caderno amarelo de Madre Inês"
       },
       "children": [
         {
           "id": "cj-avril",
           "title": {
-            "fr-FR": "Carnet jaune, avril 1897"
+            "fr-FR": "Carnet jaune, avril 1897",
+            "pt-BR": "Caderno amarelo, abril de 1897"
           }
         },
         {
           "id": "cj-mai",
           "title": {
-            "fr-FR": "Carnet jaune, mai 1897"
+            "fr-FR": "Carnet jaune, mai 1897",
+            "pt-BR": "Caderno amarelo, maio de 1897"
           }
         },
         {
           "id": "cj-juin",
           "title": {
-            "fr-FR": "Carnet jaune, juin 1897"
+            "fr-FR": "Carnet jaune, juin 1897",
+            "pt-BR": "Caderno amarelo, junho de 1897"
           }
         },
         {
           "id": "cj-juillet",
           "title": {
-            "fr-FR": "Carnet jaune, juillet 1897"
+            "fr-FR": "Carnet jaune, juillet 1897",
+            "pt-BR": "Caderno amarelo, julho de 1897"
           }
         },
         {
           "id": "cj-août",
           "title": {
-            "fr-FR": "Carnet jaune, août 1897"
+            "fr-FR": "Carnet jaune, août 1897",
+            "pt-BR": "Caderno amarelo, agosto de 1897"
           }
         },
         {
           "id": "cj-septembre",
           "title": {
-            "fr-FR": "Carnet jaune, septembre 1897"
+            "fr-FR": "Carnet jaune, septembre 1897",
+            "pt-BR": "Caderno amarelo, setembro de 1897"
           }
         },
         {
           "id": "cj-feuillets",
           "title": {
-            "fr-FR": "Feuillets ajoutés et attestation de Mère Agnès"
+            "fr-FR": "Feuillets ajoutés et attestation de Mère Agnès",
+            "pt-BR": "Folhas acrescentadas e atestado de Madre Inês"
           }
         }
       ]
@@ -99,25 +113,29 @@
     {
       "id": "autres-temoins",
       "title": {
-        "fr-FR": "Paroles recueillies par d’autres sœurs"
+        "fr-FR": "Paroles recueillies par d’autres sœurs",
+        "pt-BR": "Palavras recolhidas por outras irmãs"
       },
       "children": [
         {
           "id": "dp-celine",
           "title": {
-            "fr-FR": "Dernières paroles à Céline"
+            "fr-FR": "Dernières paroles à Céline",
+            "pt-BR": "Últimas palavras a Celina"
           }
         },
         {
           "id": "dp-marie",
           "title": {
-            "fr-FR": "Dernières paroles à Marie du Sacré-Cœur"
+            "fr-FR": "Dernières paroles à Marie du Sacré-Cœur",
+            "pt-BR": "Últimas palavras a Maria do Sagrado Coração"
           }
         },
         {
           "id": "dp-soeurs",
           "title": {
-            "fr-FR": "Dernières paroles à d’autres sœurs"
+            "fr-FR": "Dernières paroles à d’autres sœurs",
+            "pt-BR": "Últimas palavras a outras irmãs"
           }
         }
       ]
