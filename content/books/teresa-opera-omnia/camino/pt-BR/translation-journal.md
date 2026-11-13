@@ -66,7 +66,7 @@ Destino: pt-BR.
 | oración mental / oración vocal | oração mental / oração vocal | |
 | meditación / contemplación | meditação / contemplação | Mantida a distinção explícita de c16. |
 | gustos | gostos | Deleites espirituais; distingue-se de “regalos”, consolações. |
-| perlada / perlado | superiora / superior | |
+| perlada / perlado | superiora / superior | “Prelado” quando designa uma autoridade da hierarquia eclesiástica, como o bispo, em vez de um superior da comunidade religiosa. |
 | dar profesión / hacer profesión | admitir à profissão / fazer profissão | Conforme o sujeito da ação. |
 | probación | provação | Período de prova anterior à profissão religiosa. |
 | Santa Marta / la Madalena | Santa Marta / Madalena | Mantidas as identificações da autora. |
@@ -235,3 +235,15 @@ Verdict: 0 meaning-level, 1 minor. Full read of c23–prólogo with notes, audit
 
 ### Part 2 of 2, Round 4 (codex, delta read)
 Verdict: 0 meaning-level, 0 minor. Leitura delta de c42.md [11–13]: a correção preserva exatamente as variantes espanholas e as traduz corretamente; nenhum defeito encontrado.
+
+### Part terms 1 of 1, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 2 minor. 39 flags lidos em 36 parágrafos; 1 desvio de tradução e 1 linha de glossário incompleta.
+- `pt-BR/translation-journal.md`: “| perlada / perlado | superiora / superior | |” → “| perlada / perlado | superiora / superior | “Prelado” quando designa uma autoridade da hierarquia eclesiástica, como o bispo, em vez de um superior da comunidade religiosa. |” — Os usos de “prelado” referem-se à hierarquia eclesiástica e estão corretos; falta registrar esse sentido na linha.
+- `pt-BR/c12.md` [7]: “se há apego à honra ou aos bens” → “se há ponto de honra ou apego aos bens” — *punto de honra* → “ponto de honra” (Key Terms); estava “apego à honra”.
+
+### Part terms 1 of 1, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of c12 [6]–[8] and the journal row: both previous fixes are correct against the Spanish and left their sentences intact; no new defects.
+- Rejected: pt-BR/c12.md [7] — “ponto de honra ou apego aos bens” for “punto de honra, u de hacienda”: the second member is not a literal “ponto de fazenda” — “Ponto de honra” follows the Key Terms table. “Apego aos bens” renders the parallel “de hacienda” faithfully, and the parenthesis that follows (“e isso também pode haver”) still agrees.
+- Rejected: pt-BR/translation-journal.md (perlada / perlado row) — The new note overlaps the earlier “prelado / perlado | prelado” row — The note only states when “prelado” is used for “perlado”. It agrees with the earlier row and contradicts nothing.
+- Rejected: pt-BR/translation-journal.md (letrado; propio conocimiento rows) — The audit counts 0 occurrences of “homem de estudo” and “conhecimento de si mesmo” in pt-BR — Both rows list variants by context (“instruído”; adjusted to the speaker, e.g. “vós mesmas”). Their accuracy cannot be checked from the paragraphs shown in this delta, so no change is made.
+- Rejected: pt-BR/c12.md [16] — The audit flags different parentheses — The paragraph is not among those shown in this delta read, so it is outside this round's scope.
