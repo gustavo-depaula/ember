@@ -17,7 +17,7 @@ Destino: pt-BR.
 | ibi / Deinde cum dicit / Circa primum duo facit / epilogat | onde diz / Em seguida, quando diz / Acerca do primeiro, faz duas coisas / recapitula | Conforme as obras irmãs. |
 | bonum / summum bonum / optimum | bem / sumo bem / ótimo; o melhor | |
 | finis / ultimus finis / ea quae sunt ad finem | fim / fim último / coisas que se ordenam ao fim | |
-| felicitas / felix / beatus | felicidade / feliz / bem-aventurado | Conforme a *Tábua do Livro da Ética*. |
+| felicitas / felix / beatus | felicidade / feliz / bem-aventurado | Conforme a *Tábua do Livro da Ética*. No tratamento aristotélico da felicidade humana, *beatus* e seus derivados também admitem “feliz”, conforme o contexto. |
 | virtus / habitus / prudentia / sapientia | virtude / hábito / prudência / sabedoria | *Virtus* também designa, no contexto das artes, um hábito operativo ou capacidade, conforme a glosa do autor. |
 | ars / doctrina / disciplina | arte / ensino; doutrina / disciplina | “Ciência” quando exigido pelo contexto; conservada a distinção explicada pelo autor. |
 | scientia civilis / politica / civilis vita | ciência política / política / vida política | Conforme a *Tábua do Livro da Ética*. |
@@ -25,8 +25,8 @@ Destino: pt-BR.
 | monastica / oeconomica / politica | monástica / econômica; economia doméstica / política | Divisão da filosofia moral; nota sobre “monástica” em g1-c001. |
 | architectonicus / architector | arquitetônico / arquiteto | Conservadas as glosas sobre a direção das artes subordinadas. |
 | intellectus / ratio / appetitus / voluntas | intelecto / razão / apetite / vontade | |
-| ratio (conteúdo definidor) | noção | “Razão” ou “argumento” nos demais contextos explicativos e demonstrativos. |
-| electio / executio / actus / actio | escolha / execução / ato / ação | |
+| ratio (conteúdo definidor) | noção | “Razão” ou “argumento” nos demais contextos explicativos e demonstrativos. “Raciocínio” quando designa o processo discursivo; “demonstração” quando contraposto à apreensão imediata dos princípios pelo intelecto. |
+| electio / executio / actus / actio | escolha / execução / ato / ação | “Ação” também traduz *actus* quando designa o agir prático, especialmente em sua distinção da produção. |
 | operatio / opus / operata / factio | operação / obra / produtos / o fazer | Conforme a *Tábua do Livro da Ética*. |
 | operabilia / factibilia | coisas operáveis / coisas factíveis | |
 | speculatio / contemplatio / speculativus | contemplação / contemplação / especulativo | Conforme a *Tábua do Livro da Ética*. |
@@ -89,7 +89,7 @@ Destino: pt-BR.
 | per se bonum | bem por si | Em g10-c002, o comentário explicita o sentido platônico de essência da bondade. |
 | bonum ut nunc | bem para o momento presente | Contraposto ao bem de modo absoluto. |
 | De anima / De physico auditu | Sobre a alma / Sobre a lição de física | Títulos traduzidos no texto; a relação de *auditus* com a audição é esclarecida em nota. |
-| repletio / defectus | repleção / deficiência | Conservada a amplitude dos termos, que não se restringem à alimentação. |
+| repletio / defectus | repleção / deficiência | Conservada a amplitude dos termos, que não se restringem à alimentação. “Defeito” para defectus quando designa uma imperfeição corporal censurável ou não censurável. |
 | commensuratio / contemperantia | proporção / combinação equilibrada | Nos argumentos acerca da saúde e dos deleites misturados. |
 | complexio / humores | compleição / humores | Terminologia da medicina antiga. |
 | generatio / corruptio | geração / corrupção | Termos filosóficos relativos ao vir a ser e ao deixar de ser. |
@@ -109,11 +109,11 @@ Destino: pt-BR.
 | Anacharsis / Simonides / Endimion | Anacársis / Simônides / Endimião | |
 | Solon / Anaxagoras / Stoici | Sólon / Anaxágoras / estoicos | |
 | legispositio / legispositiva / legispositivus | legislação / arte de legislar / capaz de legislar | Distinguida a atividade de legislar da arte e da capacidade de exercê-la, inclusive no âmbito doméstico. |
-| consuetudo / assuetudo / habitus | costume / costume, habituação / hábito | “Hábito” reservado preferencialmente à disposição adquirida; o costume designa a prática reiterada que a produz. |
+| consuetudo / assuetudo / habitus | costume / costume, habituação / hábito | “Hábito” reservado preferencialmente à disposição adquirida; o costume designa a prática reiterada que a produz. *Consuetudo* e *assuetudo* também se traduzem por “familiaridade” quando designam a convivência reiterada pela qual os amigos se conhecem. |
 | bonum honestum / honestas | bem honesto / honestidade | Sentido moral de bem digno de escolha por si mesmo. |
 | politia / civilitas | regime político | “Politia” conservado quando designa especificamente uma das três formas retas de governo. |
 | fortitudo / fortitudo corporalis | fortaleza / força corporal | Distinção entre a virtude moral e a capacidade física. |
-| medietas / superabundantia / defectus | meio-termo / excesso / deficiência | Terminologia da geração e corrupção das virtudes. |
+| medietas / superabundantia / defectus | meio-termo / excesso / deficiência | Terminologia da geração e corrupção das virtudes. Fora desse contexto, “falta” quando defectus designa ausência de proporção; “falha” quando designa o descumprimento de uma prestação prometida. |
 | recta ratio / vis appetitiva | reta razão / potência apetitiva | |
 | scriptores | pintores | No contexto das artes práticas em g10-c016. |
 | cholerici / humores | coléricos / humores | Vocabulário da antiga medicina humoral. |
@@ -121,7 +121,7 @@ Destino: pt-BR.
 | citharista / citharizare | citarista / tocar cítara | Preservado o instrumento mencionado no latim. |
 | delectatio / delectabile / delectari | deleite / deleitável / deleitar-se | Conforme a terminologia de *Tabula Ethicorum* e *De sensu*; *voluptas* vertido por “prazer”. |
 | tristitia / triste | tristeza / penoso | “Penoso” quando designa o objeto oposto ao deleitável. |
-| passio / pati / patiens | paixão / padecer / paciente | “Padecer” no sentido de receber uma ação; não implica necessariamente sofrimento. |
+| passio / pati / patiens | paixão / padecer / paciente | “Padecer” no sentido de receber uma ação; não implica necessariamente sofrimento. “Receber o bem” para bene pati, em oposição a benefacere, “fazer o bem”. |
 | potentia / appetitus sensitivus / appetitus intellectivus | potência / apetite sensitivo / apetite intelectivo | |
 | concupiscibilis / irascibilis / concupiscentia | concupiscível / irascível / concupiscência | Conforme os tratados irmãos *De sensu* e *Tabula Ethicorum*. |
 | habitus electivus / electio | hábito eletivo / escolha | “Eletivo” conserva a definição do hábito por seu ato. |
@@ -156,7 +156,7 @@ Destino: pt-BR.
 | Lacedaemonii / Scythae | lacedemônios / citas | |
 | Commentator | Comentador | Averróis. |
 | fortuna / casus | fortuna / acaso | Conservada a distinção terminológica em g3-c007. |
-| resolutio / resolutive | resolução / por resolução | Método que remonta do fim ou da conclusão aos princípios; conservada a relação com a ordem inversa da operação ou geração. |
+| resolutio / resolutive | resolução / de modo resolutivo | Método que remonta do fim ou da conclusão aos princípios; conservada a relação com a ordem inversa da operação ou geração. |
 | voluntabile | objeto da vontade | Evita confundir o objeto da vontade com “voluntário”, qualificação dos atos e hábitos. |
 | phantasia / fantasia | representação | Em g3-c013, o modo como o bem aparece ao sujeito, segundo a explicação do próprio comentário. |
 | complexio | compleição | Constituição corporal no vocabulário da teoria dos humores. |
@@ -168,7 +168,7 @@ Destino: pt-BR.
 | audacia / audax | audácia / audaz; temerário | “Temerário” quando designa o vício por excesso; “audaz” quando designa a paixão ou a disposição sem censura moral. |
 | timidus | covarde | Na oposição moral à fortaleza; não “tímido”. |
 | fortitudo politica / civilis | fortaleza política / cívica | “Cívica” explicita a disposição dos cidadãos em relação às honras e às penas da cidade. |
-| mollities animi | moleza de ânimo | Incapacidade de suportar o penoso; não se adotou “efeminação” da referência inglesa. |
+| mollities animi | molície de ânimo | Incapacidade de suportar o penoso; não se adotou “efeminação” da referência inglesa. |
 | Diomedes / Hector / Polidamas / Titides | Diomedes / Heitor / Polidamante / Tidida | Formas portuguesas; “Tidida” é o patronímico de Diomedes. |
 | Vegetius | Vegécio | Autor do tratado militar citado em g3-c016. |
 | Argeny / Lacones / Syconii | argivos / lacedemônios / siciônios | Identificação dos povos mencionados em g3-c017. |
@@ -205,9 +205,9 @@ Destino: pt-BR.
 | magnanimitas / magnanimus | magnanimidade / magnânimo | Virtude relativa às grandes honras e à grandeza dos atos virtuosos. |
 | pusillanimitas / pusillanimus | pusilanimidade / pusilânime | Vício por deficiência oposto à magnanimidade. |
 | chaymus / caymus / cayrnus; chaymotes / caymotis | presunçoso; presunção | Formas conservadas em itálico quando acompanhadas da explicação terminológica do comentário. |
-| dignitas | mérito; dignidade | “Mérito” na correspondência entre o valor da pessoa e aquilo de que é digna; “dignidade” para posição ou condição de honra. |
+| dignitas | mérito; dignidade | “Mérito” na correspondência entre o valor da pessoa e aquilo de que é digna; “dignidade” para posição ou condição de honra. “Valor” quando designa o valor de bens, serviços ou ensinamentos e a retribuição correspondente. |
 | inhonoratio | desonra | Oposto da honra; distinguido de *contumelia* e *iniuria*, conforme o contexto. |
-| philotimus / amator honoris | amante da honra | Expressão que pode receber louvor ou censura; evitado “ambicioso”, que anteciparia um juízo negativo. |
+| philotimus / amator honoris | amante da honra | Expressão que pode receber louvor ou censura; evitado “ambicioso”, que anteciparia um juízo negativo. Nos trechos que discutem a denominação grega e sua relação com *aphilotimus* e *philotimia*, conserva-se “*philotimus*”. |
 | microkindinos / philokindinos / megalokindinos | *microkindinos* / *philokindinos* / *megalokindinos* | Conservados os termos e as explicações do próprio comentário; mantida também a variante *megalokindinus*. |
 | Thetis / Iupiter / Homerus | Tétis / Júpiter / Homero | Nomes da passagem mitológica em g4-c010. |
 | Lacones / Athenienses | espartanos / atenienses | Povos mencionados no exemplo histórico de g4-c010. |
@@ -241,12 +241,12 @@ Destino: pt-BR.
 | euechia / cathechia | *euechia* / *cathechia* | Termos preservados, com as explicações “boa disposição” e “má disposição” do comentário. |
 | commutatio | comutação | Abrange relações voluntárias e involuntárias, incluindo danos e sua reparação. |
 | mutatio / fideiussio / usus / depositio / conductio | permuta / fiança / empréstimo de uso / depósito / locação | Traduções conforme as definições do § 929. |
-| dignitas / proportionalitas | dignidade / proporcionalidade | “Dignidade” conserva o critério de merecimento relativo à distribuição. |
+| dignitas / proportionalitas | dignidade / proporcionalidade | “Dignidade” conserva o critério de merecimento relativo à distribuição. “Valor” quando dignitas designa o valor de bens, serviços ou ensinamentos e a retribuição correspondente. |
 | Bias / Hesperus / Lucifer | Bias / Héspero / Lúcifer | Os dois últimos nomes têm sentido astronômico neste trecho. |
 | proportio / proportionalitas | proporção / proporcionalidade | Conservada a distinção entre a relação de duas quantidades e a igualdade de proporções. |
 | proportionalitas disiuncta / continua | proporcionalidade descontínua / contínua | A primeira não possui termo comum; a segunda emprega duas vezes um mesmo termo. |
 | proportionalitas geometrica / arithmetica | proporcionalidade geométrica / aritmética | Distintas pela igualdade de proporção e pela igualdade de diferenças quantitativas. |
-| lucrum / damnum | ganho / perda | No contraste técnico da justiça comutativa; *damnum* também é “dano” quando designa a lesão causada. |
+| lucrum / damnum | ganho / perda | No contraste técnico da justiça comutativa; *damnum* também é “dano” quando designa a lesão causada. “Lucro” quando lucrum designa o proveito financeiro buscado, sem o contraste técnico entre ganho e perda. |
 | actio / passio | ação / paixão | “Paixão” como recepção de uma ação, não como emoção. |
 | contrapassum / contrapassio | reciprocidade | Abrange sofrer em retorno o que se fez e receber proporcionalmente em troca. |
 | indigentia | necessidade | Medida dos bens trocáveis em relação ao uso humano. |
@@ -307,9 +307,9 @@ Destino: pt-BR.
 | dinoches / dini | *dinoches* / *dini* | Variantes preservadas nas exposições; *dini* é explicado como “engenhosos”; no lema, *dinos* é vertido por “hábeis”. |
 | continentia / incontinentia | continência / incontinência | Permanência no juízo reto da razão ou afastamento dele sob a paixão. |
 | perseverantia / mollities | perseverança / molície | Disposições opostas quanto à resistência às tristezas. |
-| deliciae | vida de delícias | Disposição ligada à molície e à dificuldade de suportar as tristezas. |
+| deliciae | vida de delícias | Disposição ligada à molície e à dificuldade de suportar as tristezas. Em g7-c001, lema [1304], “mimo”, conforme *delicia / delicatus*. |
 | bestialitas / virtus heroica | bestialidade / virtude heroica | Disposições que ultrapassam, respectivamente, a malícia e a virtude humanas comuns. |
-| contemperantia | equilíbrio | Proporção devida dos humores ou das afeições, conforme o contexto. |
+| contemperantia | equilíbrio | Proporção devida dos humores ou das afeições, conforme o contexto. “Moderação” quando designa a mitigação clemente ou indulgente da sentença; *contemperanter* corresponde a “com moderação” nesse contexto. |
 | Homerus / Priamus / Hector | Homero / Príamo / Heitor | Formas portuguesas. |
 | Lacones | lacedemônios | Designação do povo mencionado no exemplo do homem divino. |
 | Sophocles / Neoptolemus / Philotethes / Odriscus | Sófocles / Neoptólemo / Filoctetes / Ulisses | Normalizadas as variantes dos nomes no episódio de Filoctetes. |
@@ -319,7 +319,7 @@ Destino: pt-BR.
 | simpliciter / secundum quid | em sentido absoluto / sob certo aspecto | Distinção recorrente na atribuição de continência e incontinência. |
 | molles | os dados à molície | Corresponde ao termo “molície” já estabelecido. |
 | complexio / cholerici / phlegmatici | compleição / coléricos / fleumáticos | Terminologia da antiga teoria dos humores. |
-| aegritudinalis | devido a doença; doentio | Conforme a construção; evitada a atribuição de diagnósticos modernos. |
+| aegritudinalis | devido a doença; doentio | Conforme a construção; evitada a atribuição de diagnósticos modernos. Também “que causa doença” no sentido causativo, explicitado pela glosa do autor. |
 | Heraclitus / Empedocles / Socrates | Heráclito / Empédocles / Sócrates | Formas portuguesas. |
 | Niobes / Sathirus / Philopator | Níobe / Sátiro / Filopátor | Mantida a explicação autoral de Filopátor como “amante do pai”. |
 | Phalaris / Scitae / mare Ponticum | Fálaris / citas / mar do Ponto | Formas portuguesas. |
@@ -352,8 +352,8 @@ Destino: pt-BR.
 | Euripides / Heraclitus / Empedocles / Sortes | Eurípides / Heráclito / Empédocles / Sócrates | Formas portuguesas dos nomes. |
 | philantropos / philophilos / philophilia / epiikes | *philantropos* / *philophilos* / *philophilia* / *epiikes* | Conservados os vocábulos gregos transliterados nos lemas e nas explicações explícitas; *epiikes* vertido por “virtuosos” quando não é objeto de glosa. |
 | superabundantia | superabundância / superioridade | “Superabundância” quanto à intensidade do amor; “superioridade” nas amizades entre pessoas desiguais. |
-| dignitas / secundum dignitatem | dignidade / segundo a dignidade | Conservado na proporção do amor, na justiça e na distribuição de funções. |
-| communicatio / politica communicatio / oeconomica communicatio | associação / associação política / associação doméstica | Conforme o contexto, *communicare* e *communicatio* exprimem também “ter algo em comum”. |
+| dignitas / secundum dignitatem | dignidade / segundo a dignidade | Conservado na proporção do amor, na justiça e na distribuição de funções. “Valor” e “segundo o valor” quando se trata da avaliação de bens, serviços ou ensinamentos e da retribuição correspondente. |
+| communicatio / politica communicatio / oeconomica communicatio | associação / associação política / associação doméstica | Conforme o contexto, *communicare* e *communicatio* exprimem também “ter algo em comum”. Também “relações de troca” nas transações entre artífices, “relações” nas interações entre pessoas e “intercâmbio” de palavras e obras. |
 | regnum / monarchia | realeza / monarquia | “Realeza” designa o regime reto; “monarquia”, o gênero comum ao governo régio e ao tirânico, isto é, governo de um só. |
 | aristocratia / oligarchia / timocratia / democratia | aristocracia / oligarquia / timocracia / democracia | Conservadas as denominações da classificação política do texto. |
 | pretium / timos | recompensa / *timos* | Seguida a explicação latina da timocracia pelas recompensas concedidas aos pobres. |
@@ -411,7 +411,7 @@ Destino: pt-BR.
 - Preservadas e traduzidas as inserções editoriais entre sinais angulares: `<quia>`, `<in>`, `<studium>`, `<non>`, `<nec>` e `<beatos dicemus>`; conservado o sinal de lacuna `< . . . >` em g1-c016.
 - Em g1-c013, parágrafo 37, conservada a alternativa geográfica do latim, *Delos vel Deluos*, como “Delos ou Delfos”.
 - Em g1-c014, *divina particula* foi traduzido por “participação divina”, conforme a explicação imediata do comentário; *naturaliter stulti*, por “os que têm por natureza limitações intelectuais”.
-- Em g1-c015, traduzido *mortuum* como “morto”, sem reproduzir o erro “mad man” da referência inglesa; *maximus defectus*, como “a maior privação”, sem convertê-lo em “o maior dos males”.
+- Em g1-c015, traduzido *mortuum* como “morto”, sem reproduzir o erro “mad man” da referência inglesa; *maximus defectus*, como “a maior deficiência”, sem convertê-lo em “o maior dos males”.
 - Em g1-c016, preservada a afirmação de que o infeliz não se torna feliz pela prosperidade exterior, conforme o desenvolvimento do comentário no número 199; “mania”, “furor” e “privação da razão” não foram equiparados a diagnósticos clínicos atuais.
 - Acrescentada a nota do tradutor `[^1]` em g1-c018, após o parágrafo 45, esclarecendo o sentido retórico de “gênero demonstrativo”.
 - Acrescentada a nota do tradutor `[^1]` em g1-c019, após o parágrafo 34, esclarecendo a relação entre *auditus*, os ouvintes e o título *De physico auditu*.
@@ -595,7 +595,7 @@ Destino: pt-BR.
 - Em g7-c009, §§ 1437–1439, conservada a distinção entre o objeto pretendido por si e o escolhido por acidente, inclusive no exemplo da razão falsa tomada por verdadeira.
 - Mantidos os títulos breves do latim: “Lição 10”, “Lição 11”, “Lição 12”, “Lição 13” e “Lição 14”.
 - Preservada a divisão dos parágrafos latinos, inclusive os segmentos de enumerações e os períodos que continuam no parágrafo seguinte, sem seguir as redistribuições da referência inglesa.
-- Em g7-c011, acrescentada a nota [^1] ao lema [1472], esclarecendo que a derivação do nome do feliz a partir de alegrar-se diz respeito ao grego e não se reproduz em português.
+- Em g7-c011, acrescentada a nota [^1] ao lema [1472], esclarecendo que a derivação do nome do bem-aventurado a partir de alegrar-se diz respeito ao grego e não se reproduz em português.
 - Em g7-c012, parágrafo [12], *praetermittit* foi traduzido por “deixa de lado”, conforme o latim, sem seguir a afirmação divergente da referência inglesa.
 - Em g7-c013, mantidos os colchetes de *[simpliciter]* no § 1498 e a afirmação latina de que a felicidade é boa por si no parágrafo [56].
 - Em g7-c014, parágrafo [12], mantida a afirmação latina *habent superabundantiam* (“têm excesso”), embora o comentário do § 1533 afirme que esses deleites não têm excesso; não se introduziu silenciosamente a negação presente na referência inglesa.
@@ -901,3 +901,1328 @@ Verdict: 2 meaning-level, 4 minor. Full read of g8-c007 to g9-c014: one misreadi
 Verdict: 0 meaning-level, 0 minor. Verificadas as seis alterações e lidos integralmente os 18 parágrafos apresentados, a nota e os metadados pertinentes; nenhum defeito objetivo encontrado.
 - Rejected: pt-BR/g8-c008.md [33] — Possível discordância em «serem amados também em si mesmo». — «Em si mesmo» refere-se ao substantivo singular «fato», não aos homens; preserva o sentido de que ser amado é apreciado em si.
 - Rejected: pt-BR/g8-c008.md [32]; pt-BR/g8-c012.md [13] — Marcadores de ênfase adicionais em relação à fonte. — Os itálicos adicionais assinalam os termos retidos epiikibus, etairi e etayricae, conforme as regras.
+
+### Part terms 1 of 11, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 33 minor. 216 parágrafos sinalizados lidos; 31 apresentam deriva terminológica; corrigidos também um erro de sentido e uma lacuna do glossário.
+- `pt-BR/translation-journal.md`: “| felicitas / felix / beatus | felicidade / feliz / bem-aventurado | Conforme a *Tábua do Livro da Ética*. Como título hagiográfico de santo canonizado, *beatus* também pode ser “São”, como em São Lourenço. |” → “| felicitas / felix / beatus | felicidade / feliz / bem-aventurado | Conforme a *Tábua do Livro da Ética*. No tratamento aristotélico da felicidade humana, *beatus* e seus derivados também admitem “feliz”, conforme o contexto. |” — As ocorrências empregam consistentemente “feliz” para a felicidade humana aristotélica; a nota deve admitir esse sentido de *beatus*.
+- `pt-BR/g1-c003.md` [2]: “outros, por causa da força.” → “outros, por causa da força corporal.” — *fortitudo* designa aqui a capacidade física: “força corporal” (Key Terms).
+- `pt-BR/g1-c004.md` [39]: “que ultrapasse seu entendimento.” → “que ultrapasse seu intelecto.” — *intellectus* → “intelecto” (Key Terms); estava “entendimento”.
+- `pt-BR/g1-c005.md` [13]: “sofra males e seja” → “padeça males e seja” — *pati* → “padecer” (Key Terms); estava “sofrer”.
+- `pt-BR/g1-c005.md` [58]: “***e, além disso, sofrer males***” → “***e, além disso, padecer males***” — *pati* → “padecer” (Key Terms); estava “sofrer”.
+- `pt-BR/g1-c005.md` [58]: “<sofra males>” → “<padeça males>” — *pati* → “padecer” (Key Terms); estava “sofrer”.
+- `pt-BR/g1-c010.md` [28]: “nem na força, nem na elevada estatura” → “nem na força corporal, nem na elevada estatura” — *fortitudo* designa aqui a capacidade física: “força corporal” (Key Terms).
+- `pt-BR/g1-c012.md` [9]: “nossa definição concorda” → “nossa noção concorda” — *ratio* como conteúdo definidor → “noção” (Key Terms); estava “definição”.
+- `pt-BR/g1-c012.md` [17]: “pela falta de qualquer condição devida.” → “pela deficiência em qualquer condição devida.” — *defectus* → “deficiência” (Key Terms); estava “falta”.
+- `pt-BR/g1-c012.md` [21]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g1-c012.md` [24]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g1-c012.md` [59]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g1-c012.md` [62]: “a definição da felicidade apresentada acima” → “a noção da felicidade apresentada acima” — *ratio* como conteúdo definidor → “noção” (Key Terms); estava “definição”.
+- `pt-BR/g1-c013.md` [11]: “enquanto outros a identificam com a virtude.” → “enquanto outros identificam a virtude com a felicidade.” — A elipse latina mantém a felicidade como termo da identificação; o comentário em [164] confirma que os outros identificam felicidade e virtude, não boa fortuna e virtude. *(meaning)*
+- `pt-BR/g1-c013.md` [16]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g1-c014.md` [8]: “a partir da definição.” → “a partir da noção.” — *ratio* como conteúdo definidor → “noção” (Key Terms); estava “definição”.
+- `pt-BR/g1-c014.md` [39]: “devido à insuficiência da idade” → “devido à deficiência própria da idade” — *defectus* → “deficiência” (Key Terms); estava “insuficiência”.
+- `pt-BR/g1-c015.md` [6]: “uma vida condizente com sua dignidade” → “uma vida segundo sua dignidade” — *secundum dignitatem* → “segundo a dignidade” (Key Terms); estava parafraseado como “condizente com”.
+- `pt-BR/g1-c015.md` [20]: “a morte é a maior privação” → “a morte é a maior deficiência” — *defectus* → “deficiência” (Key Terms); estava “privação”.
+- `pt-BR/g1-c015.md` [23]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g1-c015.md` [27]: “do bem ou do mal da vida civil” → “do bem ou do mal da vida política” — *vita civilis* → “vida política” (Key Terms); estava “vida civil”.
+- `pt-BR/g1-c015.md` [28]: “segundo a definição de felicidade apresentada” → “segundo a noção de felicidade apresentada” — *ratio* como conteúdo definidor → “noção” (Key Terms); estava “definição”.
+- `pt-BR/g1-c015.md` [28]: “vivem de acordo com a dignidade do pai” → “vivem segundo a dignidade do pai” — *secundum dignitatem* → “segundo a dignidade” (Key Terms); estava “de acordo com a dignidade”.
+- `pt-BR/g1-c016.md` [13]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g1-c016.md` [37]: “Por fim, conclui dizendo” → “Por fim, recapitula dizendo” — *epilogat* → “recapitula” (Key Terms); estava “conclui”.
+- `pt-BR/g1-c017.md` [5]: “seja em si mesmo, seja para eles.” → “seja em sentido absoluto, seja para eles.” — *simpliciter* → “em sentido absoluto” (Key Terms); estava “em si mesmo”.
+- `pt-BR/g1-c017.md` [11]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g1-c017.md` [27]: “seja em si mesmo, seja quanto a eles.” → “seja em sentido absoluto, seja quanto a eles.” — *simpliciter* → “em sentido absoluto” (Key Terms); estava “em si mesmo”.
+- `pt-BR/g1-c018.md` [21]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g1-c018.md` [24]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g1-c018.md` [40]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g1-c019.md` [17]: “a partir da natureza própria desta ciência.” → “a partir da noção própria desta ciência.” — *ratio* como conteúdo definidor → “noção” (Key Terms); estava “natureza”.
+- `pt-BR/g1-c019.md` [21]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g1-c019.md` [31]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+
+### Part terms 1 of 11, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read das 34 correções da rodada 1, que estão corretas; corrigida uma decisão do diário que ainda registrava “a maior privação” em g1-c015.
+- `pt-BR/translation-journal.md`: “*maximus defectus*, como “a maior privação”, sem convertê-lo em “o maior dos males”.” → “*maximus defectus*, como “a maior deficiência”, sem convertê-lo em “o maior dos males”.” — O texto de g1-c015 [20] traz agora “a maior deficiência”, conforme a linha *defectus* → “deficiência” da tabela de termos; a decisão do diário descrevia a forma anterior.
+- Rejected: pt-BR/g1-c003.md [2] — *fortitudinem* no lema aristotélico poderia designar a coragem, e não a força física — O diário registra a decisão de usar “força corporal” em g1-c003; a correção alinha o texto a essa decisão.
+- Rejected: pt-BR/g1-c013.md [12] — “definição” mantida, e não “noção” — O latim traz *definitione*, não *ratio*; “definição” está correto.
+- Rejected: pt-BR/g1-c004.md [39] — o possessivo “seu” em “ultrapasse seu intelecto” é ambíguo — A ambiguidade já existia antes da correção e o contexto aponta o referente de *eorum*; não é defeito novo desta rodada.
+
+### Part terms 1 of 11, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificada a única alteração do diário: “a maior deficiência” está coerente com a tabela de termos e com a correção registrada para g1-c015 [20]. Nenhum defeito encontrado.
+
+### Part terms 2 of 11, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 81 minor. 209 parágrafos sinalizados examinados; 70 apresentaram desvio terminológico, com 81 correções.
+- `pt-BR/g1-c020.md` [7]: “no sóbrio e no corajoso” → “no sóbrio e no forte” — *fortis* → “forte” (Key Terms); estava “corajoso”.
+- `pt-BR/g1-c020.md` [15]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g1-c020.md` [31]: “bom de modo absoluto” → “bom absolutamente” — *simpliciter* → “absolutamente” (Key Terms).
+- `pt-BR/g1-c020.md` [36]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g1-c020.md` [39]: “para o corajoso e para qualquer pessoa” → “para o forte e para qualquer pessoa” — *fortis* → “forte” (Key Terms); estava “corajoso”.
+- `pt-BR/g10-c001.md` [11]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c001.md` [14]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c001.md` [17]: “Quanto ao primeiro ponto, faz duas coisas.” → “Acerca do primeiro, faz duas coisas.” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c001.md` [33]: “Por fim, conclui, a modo de epílogo,” → “Por fim, recapitulando, conclui” — *epilogando* → “recapitulando”, conforme “recapitula” (Key Terms).
+- `pt-BR/g10-c002.md` [15]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c002.md` [18]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c002.md` [21]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c002.md` [24]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c002.md` [38]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c002.md` [41]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c002.md` [53]: “inclina ao desejo do bem conveniente” → “inclina ao apetite do bem conveniente” — *appetitum* → “apetite” (Key Terms); estava “desejo”.
+- `pt-BR/g10-c004.md` [2]: “julgá-las deleitáveis de modo absoluto” → “julgá-las deleitáveis absolutamente” — *simpliciter* → “absolutamente” (Key Terms).
+- `pt-BR/g10-c004.md` [2]: “tampouco são de modo absoluto saudáveis” → “tampouco são absolutamente saudáveis” — Mantém a mesma terminologia na explicitação portuguesa da comparação com *simpliciter*.
+- `pt-BR/g10-c004.md` [9]: “tais coisas vergonhosas não são deleitáveis de modo absoluto” → “tais coisas vergonhosas não são deleitáveis absolutamente” — *simpliciter* → “absolutamente” (Key Terms).
+- `pt-BR/g10-c004.md` [9]: “por isso sejam deleitáveis de modo absoluto” → “por isso sejam deleitáveis absolutamente” — *simpliciter* → “absolutamente” (Key Terms).
+- `pt-BR/g10-c004.md` [9]: “não são saudáveis de modo absoluto” → “não são saudáveis absolutamente” — *simpliciter* → “absolutamente” (Key Terms).
+- `pt-BR/g10-c004.md` [9]: “nem são doces ou amargas de modo absoluto” → “nem são doces ou amargas absolutamente” — *simpliciter* → “absolutamente” (Key Terms).
+- `pt-BR/g10-c004.md` [9]: “nem são brancas de modo absoluto” → “nem são brancas absolutamente” — *simpliciter* → “absolutamente” (Key Terms).
+- `pt-BR/g10-c004.md` [9]: “se chama deleitável de modo absoluto para o homem” → “se chama deleitável absolutamente para o homem” — *simpliciter* → “absolutamente” (Key Terms).
+- `pt-BR/g10-c005.md` [12]: “Quanto ao primeiro ponto, faz duas coisas.” → “Acerca do primeiro, faz duas coisas.” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c006.md` [17]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c006.md` [20]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c006.md` [27]: “Quanto ao primeiro ponto, faz duas coisas.” → “Acerca do primeiro, faz duas coisas.” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c006.md` [37]: “E o mesmo raciocínio vale para o intelecto.” → “E a mesma razão vale para o intelecto.” — *ratio* → “razão” no contexto explicativo (Key Terms).
+- `pt-BR/g10-c007.md` [10]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c007.md` [13]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c008.md` [12]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c008.md` [16]: “agir justa ou corajosamente” → “agir com justiça ou fortaleza” — *fortiter* conserva a referência à fortaleza, correspondente a *fortis* → “forte” (Key Terms).
+- `pt-BR/g10-c008.md` [35]: “não são deleitáveis de modo absoluto” → “não são deleitáveis absolutamente” — *simpliciter* → “absolutamente” (Key Terms).
+- `pt-BR/g10-c009.md` [7]: “eles se mostram agradáveis” → “eles se mostram deleitáveis” — *delectabiles* → “deleitáveis” (Key Terms); estava “agradáveis”.
+- `pt-BR/g10-c009.md` [9]: “e suportasse males durante” → “e padecesse males durante” — *pati* → “padecer” (Key Terms); estava “suportasse”.
+- `pt-BR/g10-c009.md` [16]: “isto é, de modo esquemático” → “isto é, em esboço” — *figuraliter* → “em esboço” (Key Terms).
+- `pt-BR/g10-c009.md` [31]: “Quanto ao primeiro ponto, faz duas coisas.” → “Acerca do primeiro, faz duas coisas.” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c009.md` [36]: “por causa dos gastos feitos com as diversões” → “por causa das despesas feitas com as diversões” — *expensas* → “despesas” (Key Terms); estava “gastos”.
+- `pt-BR/g10-c009.md` [42]: “se mostram agradáveis aos tiranos” → “se mostram deleitáveis aos tiranos” — *delectabiles* → “deleitáveis” (Key Terms); estava “agradáveis”.
+- `pt-BR/g10-c009.md` [47]: “que é o último fim” → “que é o fim último” — *ultimus finis* → “fim último” (Key Terms).
+- `pt-BR/g10-c009.md` [50]: “qualquer homem excelente” → “qualquer homem ótimo” — *optimus* → “ótimo” (Key Terms); estava “excelente”.
+- `pt-BR/g10-c010.md` [18]: “não é algo divino de modo absoluto” → “não é algo divino absolutamente” — *simpliciter* → “absolutamente” (Key Terms).
+- `pt-BR/g10-c010.md` [24]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c010.md` [27]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c010.md` [30]: “Quanto ao primeiro ponto, faz duas coisas.” → “Acerca do primeiro, faz duas coisas.” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c011.md` [6]: “que é o último fim” → “que é o fim último” — *ultimus finis* → “fim último” (Key Terms).
+- `pt-BR/g10-c011.md` [8]: “não está o último fim” → “não está o fim último” — *ultimus finis* → “fim último” (Key Terms).
+- `pt-BR/g10-c011.md` [9]: “pelo desejo de outro fim” → “pelo apetite de outro fim” — *appetitum* → “apetite” (Key Terms); estava “desejo”.
+- `pt-BR/g10-c011.md` [10]: “que baste a si mesmo” → “que seja suficiente por si” — *per se sufficiens* → “suficiente por si” (Key Terms).
+- `pt-BR/g10-c012.md` [5]: “não será incômodo o elogio” → “não será incômodo o louvor” — *laus* → “louvor” (Key Terms); estava “elogio”.
+- `pt-BR/g10-c012.md` [20]: “como se realizassem trocas” → “como se realizassem comutações” — *commutationes* → “comutações” (Key Terms); estava “trocas”.
+- `pt-BR/g10-c012.md` [21]: “usam dinheiro ou algo semelhante” → “usam um denário ou algo semelhante” — *denarium* → “denário” (Key Terms); estava “dinheiro”.
+- `pt-BR/g10-c013.md` [2]: “a natureza não basta a si mesma para contemplar” → “a natureza não é suficiente por si para contemplar” — *per se sufficiens* → “suficiente por si” (Key Terms).
+- `pt-BR/g10-c013.md` [11]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c013.md` [14]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c013.md` [17]: “a natureza humana não basta a si mesma para contemplar” → “a natureza humana não é suficiente por si para contemplar” — *per se sufficiens* → “suficiente por si” (Key Terms).
+- `pt-BR/g10-c013.md` [17]: “porém, basta a si mesma para contemplar” → “porém, é suficiente por si para contemplar” — *per se sufficiens* → “suficiente por si” (Key Terms).
+- `pt-BR/g10-c013.md` [19]: “Pois bastar a si mesmo,” → “Pois ser suficiente por si,” — *sibi per se sufficiens* → “suficiente por si” (Key Terms).
+- `pt-BR/g10-c013.md` [19]: “torna os homens menos autossuficientes” → “torna os homens menos suficientes por si” — *per se sufficientes* → “suficientes por si” (Key Terms).
+- `pt-BR/g10-c013.md` [24]: “Quanto ao primeiro ponto, faz duas coisas.” → “Acerca do primeiro, faz duas coisas.” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c014.md` [2]: “concluído o nosso propósito” → “concluída a nossa escolha” — *electionem* → “escolha” (Key Terms); o comentário explicita a escolha de tratar do bem humano.
+- `pt-BR/g10-c014.md` [9]: “sob a direção de uma inteligência” → “sob a direção de um intelecto” — *intellectum* → “intelecto” (Key Terms); estava “inteligência”.
+- `pt-BR/g10-c014.md` [9]: “certa prudência e inteligência” → “certa prudência e intelecto” — *intellectu* → “intelecto” (Key Terms); estava “inteligência”.
+- `pt-BR/g10-c014.md` [16]: “Quanto ao primeiro ponto, faz duas coisas.” → “Acerca do primeiro, faz duas coisas.” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c014.md` [17]: “de maneira esquemática e figurada” → “de maneira esquemática e em esboço” — *figuraliter* → “em esboço” (Key Terms); estava “figurada”.
+- `pt-BR/g10-c014.md` [17]: “chegou ao fim e se completou o nosso propósito de tratar” → “chegou ao fim e se completou a nossa escolha de tratar” — *electio nostra* → “nossa escolha” (Key Terms); estava “nosso propósito”.
+- `pt-BR/g10-c014.md` [43]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c014.md` [46]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c014.md` [54]: “dirigida por uma inteligência que tenha” → “dirigida por um intelecto que tenha” — *intellectum* → “intelecto” (Key Terms); estava “inteligência”.
+- `pt-BR/g10-c014.md` [54]: “certa prudência e inteligência que dirige” → “certa prudência e intelecto que dirige” — *intellectu* → “intelecto” (Key Terms); estava “inteligência”.
+- `pt-BR/g10-c016.md` [9]: “a escolha não dependesse da inteligência” → “a escolha não dependesse do intelecto” — *intellectus* → “intelecto” (Key Terms); estava “inteligência”.
+- `pt-BR/g10-c016.md` [18]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g10-c016.md` [21]: “nas outras ciências práticas” → “nas outras ciências operativas” — *operativis scientiis* → “ciências operativas” (Key Terms), preservando a distinção de *practica*.
+- `pt-BR/g10-c016.md` [40]: “como nas deliberações” → “como nos conselhos” — *consiliis* → “conselhos” (Key Terms), no sentido de deliberação.
+- `pt-BR/g10-c016.md` [53]: “isto é, à ciência prática” → “isto é, à ciência operativa” — *scientiam operativam* → “ciência operativa” (Key Terms), preservando a distinção de *practica*.
+- `pt-BR/g2-c001.md` [5]: “essa é a intenção de todo legislador” → “essa é a vontade de todo legislador” — *voluntas* → “vontade” (Key Terms); estava “intenção”.
+- `pt-BR/g2-c001.md` [29]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g2-c002.md` [5]: “tomados na medida devida” → “tomados na devida proporção” — *commensurata* conserva “proporção”, conforme *commensuratio* (Key Terms).
+- `pt-BR/g2-c002.md` [15]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g2-c002.md` [18]: “nas ciências práticas, cujo fim” → “nas ciências operativas, cujo fim” — *scientiis operativis* → “ciências operativas” (Key Terms), preservando a distinção de *practica*.
+
+### Part terms 2 of 11, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 1 minor. Delta read of 81 terminology fixes and their neighbouring paragraphs: all verified. Found 1 meaning defect (g10-c014 [9], misparse of the lemma) and 1 minor one (laus → “louvor” missing in g10-c012 [21]).
+- `pt-BR/g10-c014.md` [9]: “sob a direção de um intelecto e de uma ordem dotada de retidão e força” → “sob a direção de certo intelecto que tenha ordem reta e força” — secundum quendam intellectum, et ordinem rectum habentem et fortitudinem: o intelecto é que tem ordem reta e força, como explica o § 2153 (intellectum qui habeat et rectum ordinem... et habeat fortitudinem); a tradução fazia da ordem um segundo diretor *(meaning)*
+- `pt-BR/g10-c012.md` [21]: “esse elogio será mais incômodo” → “esse louvor será mais incômodo” — huiusmodi laus: laus → “louvor” (Key Terms), como já corrigido no lema [5]
+- Rejected: pt-BR/g10-c004.md [9], g10-c008.md [35], g10-c010.md [18] — “não são deleitáveis absolutamente” pode ser lido como “de modo algum” — a ressalva seguinte (“mas apenas para…”, “mas é o que há de mais divino”) desfaz a ambiguidade; segue a Key Terms
+- Rejected: pt-BR/g10-c009.md [50] — “qualquer homem ótimo” soa coloquial — segue a Key Terms (optimum → ótimo); escolha de estilo defensável
+- Rejected: pt-BR/g10-c002.md [52] — “bom de modo absoluto” não foi uniformizado — parágrafo não alterado; a forma coincide com a nota da linha bonum ut nunc da Key Terms
+
+### Part terms 2 of 11, Round 3 (codex, delta read)
+Verdict: 1 meaning-level, 0 minor. Lidos os seis parágrafos apresentados e as duas notas; verificadas as duas correções anteriores e encontrado um defeito de sentido na negação.
+- `pt-BR/g10-c012.md` [22]: “pois não lhes convém nada operar, como os que dormem” → “pois não lhes convém ficar sem operar, como os que dormem” — Non enim convenit eis quod nihil operentur nega que lhes convenha ficar inativos; a construção portuguesa inverte o sentido ao negar que lhes convenha operar. *(meaning)*
+
+### Part terms 2 of 11, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of g10-c012 [21]–[23] and its footnote: the negation fix in [22] is correct and nothing else is wrong.
+- Rejected: pt-BR/g10-c012.md [22] — “pois não lhes convém ficar sem operar, como os que dormem” (previous round's fix) — It renders *non enim convenit eis quod nihil operentur sicut dormientes* correctly: it denies that inactivity befits them. The sentence and its neighbours remain intact.
+- Rejected: pt-BR/g10-c012.md [22] — *est speculativa* → “é contemplativa”, whereas the Key Terms give speculativus → “especulativo” — Here *speculativa* qualifies the divine operation, which the text identifies with *speculatio*. A later Key Terms row maps *speculatio* to “contemplação”, so “contemplativa” is consistent and defensible.
+- Rejected: pt-BR/g10-c012.md [16] — The mechanical audit flags a repeated word, “menos menos”. — Paragraph [16] was not among the paragraphs shown in this delta read, so it cannot be checked here.
+
+### Part terms 3 of 11, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 93 minor. 217 parágrafos sinalizados lidos; 91 correções de deriva vocabular e 2 linhas do glossário ampliadas.
+- `pt-BR/g2-c002.md` [28]: “a falta desses exercícios” → “a deficiência desses exercícios” — defectus → “deficiência” (Key Terms); estava “falta”.
+- `pt-BR/g2-c002.md` [28]: “por falta de exercício” → “por deficiência de exercício” — defectus → “deficiência” (Key Terms); estava “falta”.
+- `pt-BR/g2-c003.md` [6]: “porque falam de modo absoluto” → “porque falam em sentido absoluto” — simpliciter → “em sentido absoluto” (Key Terms).
+- `pt-BR/g2-c003.md` [24]: “retirar as agradáveis” → “retirar as deleitáveis” — delectabiles → “deleitáveis” (Key Terms); estava “agradáveis”.
+- `pt-BR/g2-c004.md` [7]: “refugiando-se no raciocínio” → “refugiando-se na razão” — ratio → “razão” (Key Terms); estava “raciocínio”.
+- `pt-BR/g2-c004.md` [26]: “da natureza do hábito” → “da noção de hábito” — ratio, como conteúdo definidor → “noção” (Key Terms).
+- `pt-BR/g2-c005.md` [10]: “por podermos experimentar paixões” → “por podermos padecer” — pati → “padecer” (Key Terms); estava “experimentar paixões”.
+- `pt-BR/g2-c005.md` [23]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g2-c005.md` [35]: “pertence à natureza do paciente” → “pertence à noção de paciente” — ratio, como conteúdo definidor → “noção” (Key Terms).
+- `pt-BR/g2-c005.md` [36]: “requerida para a natureza da paixão propriamente dita” → “requerida para a noção de paixão propriamente dita” — ratio, como conteúdo definidor → “noção” (Key Terms).
+- `pt-BR/g2-c005.md` [37]: “sob o aspecto de certa elevação” → “sob a noção de certa elevação” — ratio, como conteúdo formal do objeto → “noção” (Key Terms).
+- `pt-BR/g2-c005.md` [38]: “sob o aspecto de algo árduo” → “sob a noção de algo árduo” — ratio, como conteúdo formal do objeto → “noção” (Key Terms).
+- `pt-BR/g2-c005.md` [54]: “por poder experimentar alguma paixão” → “por poder padecer segundo alguma paixão” — pati → “padecer” (Key Terms); estava “experimentar”.
+- `pt-BR/g2-c006.md` [27]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g2-c006.md` [37]: “encarregado de regular a alimentação” → “encarregado de ordenar a alimentação” — ordinare → “ordenar” (Key Terms); estava “regular”.
+- `pt-BR/g2-c006.md` [38]: “segundo toda ciência prática” → “segundo toda ciência operativa” — scientia operativa → “ciência operativa” (Key Terms), que distingue a expressão de scientia practica.
+- `pt-BR/g2-c006.md` [39]: “Toda ciência prática aperfeiçoa” → “Toda ciência operativa aperfeiçoa” — scientia operativa → “ciência operativa” (Key Terms).
+- `pt-BR/g2-c007.md` [6]: “a definição que exprime sua essência” → “a noção que exprime sua essência” — ratio, como conteúdo definidor → “noção” (Key Terms).
+- `pt-BR/g2-c007.md` [9]: “à prática da injustiça” → “ao ato de cometer injustiça” — iniustum facere → “cometer injustiça” (Key Terms).
+- `pt-BR/g2-c007.md` [12]: “um mal da constituição corporal” → “um mal da compleição corporal” — complexio → “compleição” no contexto dos humores (Key Terms).
+- `pt-BR/g2-c007.md` [23]: “sábio de modo absoluto” → “sábio em sentido absoluto” — simpliciter → “em sentido absoluto” (Key Terms).
+- `pt-BR/g2-c007.md` [33]: “é simplesmente pecado” → “é pecado em sentido absoluto” — simpliciter → “em sentido absoluto” (Key Terms); afirmação sem qualificação pelas circunstâncias.
+- `pt-BR/g2-c007.md` [34]: “à prática da injustiça” → “ao ato de cometer injustiça” — iniustum facere → “cometer injustiça” (Key Terms).
+- `pt-BR/g2-c008.md` [13]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g2-c008.md` [28]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g2-c008.md` [31]: “por falta de temor” → “por deficiência de temor” — defectus → “deficiência” (Key Terms).
+- `pt-BR/g2-c008.md` [32]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g2-c008.md` [33]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g2-c008.md` [39]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g2-c008.md` [43]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/translation-journal.md`: “| philotimus / amator honoris | amante da honra | Expressão que pode receber louvor ou censura; evitado “ambicioso”, que anteciparia um juízo negativo. |” → “| philotimus / amator honoris | amante da honra | Expressão que pode receber louvor ou censura; evitado “ambicioso”, que anteciparia um juízo negativo. Nos trechos que discutem a denominação grega e sua relação com *aphilotimus* e *philotimia*, conserva-se “*philotimus*”. |” — A transliteração é usada consistentemente na discussão dos próprios nomes gregos; a linha não explicitava esse emprego metalinguístico.
+- `pt-BR/g2-c009.md` [14]: “pertence ao desejo de honra” → “pertence ao apetite de honra” — appetitus → “apetite” (Key Terms); estava “desejo”.
+- `pt-BR/g2-c009.md` [15]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g2-c009.md` [15]: “deficiente no desejo de honra” → “deficiente no apetite de honra” — appetitus → “apetite” (Key Terms); desiderium na oração anterior continua corretamente como “desejo”.
+- `pt-BR/g2-c009.md` [18]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g2-c009.md` [19]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g2-c009.md` [24]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g2-c009.md` [28]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g2-c010.md` [20]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g2-c010.md` [23]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g2-c010.md` [24]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g2-c010.md` [27]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g2-c010.md` [32]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g2-c011.md` [14]: “Quanto ao primeiro ponto, faz duas coisas.” → “Acerca do primeiro, faz duas coisas.” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g2-c011.md` [17]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g2-c011.md` [29]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g2-c011.md` [34]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g2-c011.md` [35]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c001.md` [6]: “todos os que têm entendimento” → “todos os que têm intelecto” — intellectus → “intelecto” (Key Terms).
+- `pt-BR/g3-c001.md` [16]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g3-c001.md` [23]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c001.md` [31]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c001.md` [39]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c001.md` [44]: “o entendimento bem disposto” → “o intelecto bem disposto” — intellectus → “intelecto” (Key Terms).
+- `pt-BR/g3-c001.md` [45]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/translation-journal.md`: “| felicitas / felix / beatus | felicidade / feliz / bem-aventurado | Conforme a *Tábua do Livro da Ética*. |” → “| felicitas / felix / beatus | felicidade / feliz / bem-aventurado | Conforme a *Tábua do Livro da Ética*. Como título hagiográfico de santo canonizado, *beatus* também pode ser “São”, como em São Lourenço. |” — beatus Laurentius é corretamente traduzido como “São Lourenço”; a linha não distinguia o título hagiográfico da atribuição de bem-aventurança.
+- `pt-BR/g3-c002.md` [21]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c002.md` [23]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c002.md` [28]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c003.md` [22]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c003.md` [29]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c003.md` [34]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c004.md` [13]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c005.md` [20]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g3-c005.md` [21]: “ao presente estudo” → “à presente doutrina” — doctrina → “doutrina” (Key Terms); estava “estudo”.
+- `pt-BR/g3-c005.md` [23]: “pertence a este estudo” → “pertence a esta doutrina” — doctrina → “doutrina” (Key Terms); estava “estudo”.
+- `pt-BR/g3-c005.md` [25]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c005.md` [32]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c005.md` [36]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c005.md` [46]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c005.md` [47]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c005.md` [52]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c005.md` [54]: “do que àquilo que conduz ao fim” → “do que àquilo que se ordena ao fim” — eius quod est ad finem → forma singular de “coisas que se ordenam ao fim” (Key Terms).
+- `pt-BR/g3-c005.md` [54]: “queremos as coisas que conduzem ao fim” → “queremos as coisas que se ordenam ao fim” — ea quae sunt ad finem → “coisas que se ordenam ao fim” (Key Terms).
+- `pt-BR/g3-c005.md` [54]: “apenas às coisas que conduzem ao fim” → “apenas às coisas que se ordenam ao fim” — ea quae sunt ad finem → “coisas que se ordenam ao fim” (Key Terms).
+- `pt-BR/g3-c005.md` [54]: “as coisas que conduzem ao fim, porém” → “as coisas que se ordenam ao fim, porém” — ea quae sunt ad finem → “coisas que se ordenam ao fim” (Key Terms).
+- `pt-BR/g3-c005.md` [55]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c006.md` [19]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c006.md` [25]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c006.md` [26]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c007.md` [3]: “quem tem entendimento” → “quem tem intelecto” — intellectus → “intelecto” (Key Terms).
+- `pt-BR/g3-c007.md` [21]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g3-c007.md` [24]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g3-c007.md` [27]: “Quanto ao primeiro ponto, faz duas coisas.” → “Acerca do primeiro, faz duas coisas.” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g3-c007.md` [29]: “o entendimento bem disposto” → “o intelecto bem disposto” — intellectus → “intelecto” (Key Terms).
+- `pt-BR/g3-c007.md` [30]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c007.md` [41]: “ocorrem com maior frequência no verão” → “ocorrem na maioria dos casos no verão” — ut frequentius → “na maioria dos casos” (Key Terms).
+- `pt-BR/g3-c007.md` [45]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c007.md` [46]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c007.md` [47]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c007.md` [53]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c007.md` [54]: “submeter à deliberação” → “submeter ao conselho” — consilium → “conselho” (Key Terms); o substantivo designa aqui o ato racional de deliberação.
+- `pt-BR/g3-c008.md` [14]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+
+### Part terms 3 of 11, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of the 93 changes from round 1 and their neighbouring paragraphs in g2-c002 to g3-c008: every change is correct against the Latin, concord and regency are intact, and no new defects were found.
+- Rejected: pt-BR/g2-c005.md [10] — *simpliciter* is rendered “simplesmente”, not “em sentido absoluto”. — *pati simpliciter* here means the bare capacity to be affected. “Simplesmente” says exactly that; “em sentido absoluto” would be awkward and would not change the sense.
+- Rejected: pt-BR/g2-c004.md [7] — “refugiando-se na razão” may obscure that Aristotle means theory or argument. — The Latin says *ad rationem confugientes*, and the Key Terms row gives *ratio* → “razão”. The contrast with practice stays clear in context.
+- Rejected: pt-BR/g2-c007.md [33] — “é pecado em sentido absoluto” could read as a misplaced *simpliciter*. — In the Latin, *simpliciter* qualifies the statement without circumstances (*qualitercumque … fiat*). The rendering keeps that sense.
+- Rejected: pt-BR/g2-c009.md [14]-[17], [25], [29] — The audit flags more emphasis markers than in the source. — The added italics mark retained Greek transliterations (*chaumotes*, *philotimus*, *yronia*, *cataplex*), as the journal decision requires.
+- Rejected: pt-BR/g2-c008.md [43] — The audit flags the Key Terms row bannausia → “ostentação”, which has no occurrence here. — In this passage the term is the object of an etymological gloss, so the italic form *banausia* is kept as the row and the decisions allow. The other indicative rows (sesquiquarta, scientificum, aegritudinalis, etayrica) concern chapters outside this part.
+- Rejected: pt-BR/g2-c011.md [15] / g2-c006.md [40] — The verb takes an object in [15] (“visa o meio-termo”) and the preposition in [40] (“vise ao meio-termo”). — Both constructions are accepted in the sense of “to aim at”, and each file is consistent within itself.
+
+### Part terms 4 of 11, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 133 minor. 213 parágrafos sinalizados lidos; deriva em 115 deles; 2 complementos de glossário.
+- `pt-BR/g3-c008.md` [21]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c008.md` [26]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c008.md` [26]: “aquele que delibera investiga por resolução” → “aquele que delibera investiga de modo resolutivo” — resolutive → “de modo resolutivo”, conforme resolutivus no glossário.
+- `pt-BR/g3-c008.md` [27]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c008.md` [31]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c008.md` [32]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c009.md` [11]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g3-c009.md` [15]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c009.md` [17]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c010.md` [16]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c010.md` [20]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c011.md` [5]: “nem feliz contra a vontade” → “nem bem-aventurado contra a vontade” — beatus → “bem-aventurado” (Key Terms); estava “feliz”.
+- `pt-BR/g3-c011.md` [5]: “pois ninguém é feliz contra a vontade” → “pois ninguém é bem-aventurado contra a vontade” — beatus → “bem-aventurado” (Key Terms); estava “feliz”.
+- `pt-BR/g3-c011.md` [19]: “aos meios para o fim, segue-se” → “às coisas que se ordenam ao fim, segue-se” — ea quae sunt ad finem → “coisas que se ordenam ao fim” (Key Terms).
+- `pt-BR/g3-c011.md` [19]: “a saber, aos meios para o fim,” → “a saber, às coisas que se ordenam ao fim,” — ea quae sunt ad finem → “coisas que se ordenam ao fim” (Key Terms).
+- `pt-BR/g3-c011.md` [20]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c011.md` [22]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c011.md` [23]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c011.md` [30]: “ninguém é mau voluntariamente, nem feliz ou bom contra a vontade” → “ninguém é mau voluntariamente, nem bem-aventurado ou bom contra a vontade” — beatus → “bem-aventurado” (Key Terms); estava “feliz”.
+- `pt-BR/g3-c011.md` [30]: “que ninguém é feliz ou bom contra a vontade” → “que ninguém é bem-aventurado ou bom contra a vontade” — beatus → “bem-aventurado” (Key Terms); estava “feliz”.
+- `pt-BR/g3-c011.md` [31]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c011.md` [32]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c011.md` [36]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c011.md` [41]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c012.md` [11]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g3-c012.md` [15]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c012.md` [21]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g3-c012.md` [24]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g3-c012.md` [27]: “que pertencem aos deleites do tato” → “que pertencem às coisas deleitáveis ao tato” — delectabilia designa os objetos deleitáveis, não os deleites; o glossário conserva essa distinção. *(meaning)*
+- `pt-BR/g3-c012.md` [28]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c012.md` [31]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c012.md` [32]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c013.md` [14]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c013.md` [22]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c013.md` [25]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c013.md` [25]: “mas também sobre os meios para o fim,” → “mas também sobre as coisas que se ordenam ao fim,” — ea quae sunt ad finem → “coisas que se ordenam ao fim” (Key Terms).
+- `pt-BR/g3-c013.md` [25]: “isto é, os meios para o fim,” → “isto é, as coisas que se ordenam ao fim,” — ea quae sunt ad finem → “coisas que se ordenam ao fim” (Key Terms).
+- `pt-BR/g3-c013.md` [27]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c013.md` [31]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c014.md` [5]: “quem a teme é decente e pudoroso” → “quem a teme é decente e tem vergonha” — verecundus → forma correspondente a “vergonha” (Key Terms); estava “pudoroso”.
+- `pt-BR/g3-c014.md` [5]: “quem não a teme é despudorado” → “quem não a teme é alguém sem vergonha” — inverecundus → forma correspondente a “falta de vergonha” (Key Terms).
+- `pt-BR/g3-c014.md` [10]: “no maior e mais nobre perigo” → “no maior e melhor perigo” — optimum → “o melhor” (Key Terms); estava “mais nobre”.
+- `pt-BR/g3-c014.md` [32]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c014.md` [38]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c014.md` [44]: “ordenado em seus costumes, e pudoroso” → “ordenado em seus costumes, e dotado de vergonha” — verecundus → forma correspondente a “vergonha” (Key Terms); estava “pudoroso”.
+- `pt-BR/g3-c014.md` [44]: “é censurado como despudorado” → “é censurado como alguém sem vergonha” — inverecundus → forma correspondente a “falta de vergonha” (Key Terms).
+- `pt-BR/g3-c014.md` [45]: “são chamados covardes sem mais” → “são chamados covardes em sentido absoluto” — simpliciter → “em sentido absoluto” (Key Terms); estava “sem mais”.
+- `pt-BR/g3-c014.md` [46]: “não é chamado forte sem mais” → “não é chamado forte em sentido absoluto” — simpliciter → “em sentido absoluto” (Key Terms); estava “sem mais”.
+- `pt-BR/g3-c014.md` [47]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c014.md` [47]: “é chamado forte sem mais” → “é chamado forte em sentido absoluto” — simpliciter → “em sentido absoluto” (Key Terms); estava “sem mais”.
+- `pt-BR/g3-c014.md` [48]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c014.md` [55]: “os homens morrem pelo bem com maior frequência” → “os homens morrem pelo bem na maioria dos casos” — ut frequentius → “na maioria dos casos” (Key Terms); estava “com maior frequência”.
+- `pt-BR/g3-c014.md` [56]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c014.md` [59]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c014.md` [64]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c014.md` [65]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c015.md` [2]: “todo aquele que tem entendimento” → “todo aquele que tem intelecto” — intellectus → “intelecto” (Key Terms); estava “entendimento”.
+- `pt-BR/g3-c015.md` [4]: “segundo o que é digno e conforme a razão” → “segundo a dignidade e conforme a razão” — secundum dignitatem → “segundo a dignidade” (Key Terms).
+- `pt-BR/g3-c015.md` [12]: “pois é moleza fugir das coisas penosas” → “pois é molície fugir das coisas penosas” — mollities → “molície” (Key Terms); estava “moleza”.
+- `pt-BR/g3-c015.md` [26]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c015.md` [26]: “se tiver entendimento, temerá” → “se tiver intelecto, temerá” — intellectus → “intelecto” (Key Terms); estava “entendimento”.
+- `pt-BR/g3-c015.md` [28]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c015.md` [43]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c015.md` [45]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c015.md` [50]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c015.md` [51]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c015.md` [52]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c015.md` [53]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c015.md` [54]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c015.md` [58]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c015.md` [59]: “certa moleza de ânimo” → “certa molície de ânimo” — mollities → “molície” (Key Terms); estava “moleza”.
+- `pt-BR/g3-c016.md` [7]: “muito capazes de agir e de não sofrer” → “muito capazes de agir e de não padecer” — pati → “padecer” (Key Terms), na oposição entre agir e receber a ação.
+- `pt-BR/g3-c016.md` [7]: “tanto para agir como para não sofrer” → “tanto para agir como para não padecer” — pati → “padecer” (Key Terms), na oposição entre agir e receber a ação.
+- `pt-BR/g3-c016.md` [30]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c016.md` [31]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c016.md` [32]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c016.md` [39]: “e não sofrer, isto é, não sofrer dano” → “e não padecer, isto é, não sofrer dano” — pati → “padecer” (Key Terms); conserva-se a explicação de gravari como sofrer dano.
+- `pt-BR/g3-c016.md` [41]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c017.md` [16]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c017.md` [22]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c017.md` [24]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c017.md` [25]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c017.md` [31]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c017.md` [32]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c017.md` [33]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c017.md` [34]: “perigosas sem mais e em si mesmas” → “perigosas em sentido absoluto e em si mesmas” — simpliciter → “em sentido absoluto” (Key Terms); estava “sem mais”.
+- `pt-BR/g3-c018.md` [19]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c018.md` [21]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c018.md` [28]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c018.md` [36]: “de sua vida excelente” → “de sua ótima vida” — optimum → “ótimo” (Key Terms); estava “excelente”.
+- `pt-BR/g3-c018.md` [38]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c018.md` [39]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c018.md` [40]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c018.md` [41]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c019.md` [5]: “sem que o corpo sofra alguma afecção” → “sem que o corpo padeça coisa alguma” — pati → “padecer” (Key Terms); nihil patiente corpore significa que o corpo nada padece.
+- `pt-BR/g3-c019.md` [11]: “a lembrança das coisas que desejam” → “a lembrança das coisas concupiscíveis” — concupiscibilium → “das coisas concupiscíveis” (Key Terms); estava em paráfrase.
+- `pt-BR/g3-c019.md` [11]: “pois elas são objeto de seu desejo” → “pois elas lhe são concupiscíveis” — concupiscibile → “concupiscível” (Key Terms); estava “objeto de seu desejo”.
+- `pt-BR/g3-c019.md` [21]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c019.md` [24]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g3-c019.md` [31]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c019.md` [36]: “a natureza da temperança” → “a noção da temperança” — ratio, como conteúdo definidor, → “noção” (Key Terms); estava “natureza”.
+- `pt-BR/g3-c019.md` [37]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c019.md` [37]: “em alguma afecção corporal de um sentido exterior” → “em alguma paixão corporal de um sentido exterior” — passio → “paixão” (Key Terms), como recepção de uma ação.
+- `pt-BR/g3-c019.md` [37]: “por alguma afecção do corpo” → “por alguma paixão do corpo” — passio → “paixão” (Key Terms), como recepção de uma ação.
+- `pt-BR/g3-c019.md` [38]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c019.md` [43]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c019.md` [60]: “quando estão saciados” → “quando estão repletos” — repleti → “repletos”, forma correspondente a repletio → “repleção” (Key Terms).
+- `pt-BR/g3-c019.md` [60]: “para quem são desejáveis as coisas representadas pelos odores” → “para quem são concupiscíveis as coisas representadas pelos odores” — concupiscibilia → “concupiscíveis” (Key Terms); estava “desejáveis”.
+- `pt-BR/g3-c019.md` [61]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c019.md` [66]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c020.md` [8]: “a concupiscência natural é o suprimento da necessidade” → “a concupiscência natural é a repleção da necessidade” — repletio → “repleção” (Key Terms); estava “suprimento”.
+- `pt-BR/g3-c020.md` [17]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c020.md` [18]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c020.md` [20]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c020.md` [28]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g3-c020.md` [36]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c020.md` [38]: “tais objetos de desejo parecem ser nossos” → “tais concupiscíveis parecem ser nossos” — concupiscibilia → “concupiscíveis” (Key Terms); estava “objetos de desejo”.
+- `pt-BR/g3-c020.md` [39]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c020.md` [39]: “até uma saciedade excessiva” → “até uma repleção excessiva” — repletio → “repleção” (Key Terms); estava “saciedade”.
+- `pt-BR/g3-c021.md` [13]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c021.md` [15]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c021.md` [17]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c021.md` [25]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c022.md` [14]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g3-c022.md` [17]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g3-c022.md` [24]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c022.md` [28]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c022.md` [32]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c022.md` [34]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c022.md` [38]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g3-c022.md` [44]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/translation-journal.md`: “| repletio / defectus | repleção / deficiência | Conservada a amplitude dos termos, que não se restringem à alimentação. Fora do contraste com a repleção, *defectus* também admite “falta” quando designa a ausência do ato, “defeito” quando designa imperfeições humanas e “inferioridade” quando designa uma condição relativa entre amigos desiguais. |” → “| repletio / defectus | repleção / deficiência | Conservada a amplitude dos termos, que não se restringem à alimentação. “Defeito” para defectus quando designa uma imperfeição corporal censurável ou não censurável. |” — As ocorrências sobre imperfeições corporais empregam consistentemente “defeito”; acrescenta-se esse sentido distinto da deficiência oposta à repleção ou ao excesso.
+- `pt-BR/translation-journal.md`: “| passio / pati / patiens | paixão / padecer / paciente | “Padecer” no sentido de receber uma ação; não implica necessariamente sofrimento. Nas trocas entre artífices, *patiens* e *pati* também são “aquele que recebe” e “receber”, referindo-se à recepção da obra. |” → “| passio / pati / patiens | paixão / padecer / paciente | “Padecer” no sentido de receber uma ação; não implica necessariamente sofrimento. “Receber o bem” para bene pati, em oposição a benefacere, “fazer o bem”. |” — bene pati é corretamente vertido por “receber o bem” nas duas ocorrências de g4-c001 [11]; explicita-se essa construção no glossário.
+- NOT APPLIED (old text not found exactly once (3)): - `pt-BR/g3-c014.md` [46]: “é chamado forte sem mais” → “é chamado forte em sentido absoluto” — simpliciter → “em sentido absoluto” (Key Terms); estava “sem mais”.
+
+### Part terms 4 of 11, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 7 minor. Delta read de g3-c008 a g3-c022: as mudanças da rodada anterior estão corretas; aplica-se a substituição de simpliciter que faltava em g3-c014 [46], uniformizam-se optimum e ea quae sunt ad finem e alinham-se ao texto duas linhas do glossário.
+- `pt-BR/g3-c014.md` [46]: “é chamado forte sem mais porque é forte” → “é chamado forte em sentido absoluto porque é forte” — fortis simpliciter → “em sentido absoluto” (Key Terms); esta é a ocorrência que a rodada anterior não aplicou
+- `pt-BR/g3-c014.md` [57]: “dá-se também no mais nobre perigo” → “dá-se também no melhor perigo” — in optimo periculo → “melhor”, como no lema [10] já corrigido e no restante do parágrafo (“o melhor”, “maior e melhor”)
+- `pt-BR/g3-c008.md` [20]: “mas acerca dos meios para os fins” → “mas acerca das coisas que se ordenam aos fins” — de his quae sunt ad fines → “coisas que se ordenam ao fim” (Key Terms)
+- `pt-BR/g3-c009.md` [18]: “ela diz respeito aos meios para o fim” → “ela diz respeito às coisas que se ordenam ao fim” — eorum quae sunt ad finem → “coisas que se ordenam ao fim” (Key Terms)
+- `pt-BR/g3-c015.md` [44]: “a razão das coisas que são para o fim” → “a razão das coisas que se ordenam ao fim” — eorum quae sunt ad finem → “coisas que se ordenam ao fim” (Key Terms)
+- `pt-BR/translation-journal.md`: “| mollities animi | moleza de ânimo |” → “| mollities animi | molície de ânimo |” — o texto (g3-c015 [59]) passou a “molície de ânimo”, conforme a linha mollities → molície; a linha não correspondia a nenhuma ocorrência
+- `pt-BR/translation-journal.md`: “| resolutio / resolutive | resolução / por resolução |” → “| resolutio / resolutive | resolução / de modo resolutivo |” — g3-c008 [26] traduz agora resolutive por “de modo resolutivo”, em linha com modus resolutivus; a linha contradizia o texto
+- Rejected: pt-BR/g3-c019.md [5] — “sem que o corpo padeça coisa alguma, mas antes a mente” parece estranho — reproduz o paralelo de nihil patiente corpore, sed magis mente
+- Rejected: pt-BR/g3-c020.md [38] — “tais concupiscíveis parecem ser nossos” usa um adjetivo como substantivo — huiusmodi concupiscibilia; o uso substantivado é legítimo e segue o glossário
+- Rejected: pt-BR/g3-c009.md [15] — “por resolução” para resolvendo — é gerúndio, não o advérbio resolutive; a tradução é adequada
+
+### Part terms 4 of 11, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 1 minor. Lidos integralmente os 16 parágrafos apresentados e verificadas as sete alterações; encontrada uma falha de concordância decorrente da substituição em g3-c009 [18].
+- `pt-BR/g3-c009.md` [18]: “coisas que se ordenam ao fim, acerca dos quais” → “coisas que se ordenam ao fim, acerca das quais” — O relativo retoma «coisas», correspondente a de quibus, e deve concordar no feminino plural.
+- Rejected: pt-BR/g3-c009.md [17] — Espaços antes de pontuação no sinal de lacuna. — Os espaços pertencem à lacuna editorial preservada do latim.
+- Rejected: pt-BR/g3-c014.md [47]; pt-BR/g3-c015.md [43] — Quantidade diferente de marcadores de ênfase. — A diferença decorre do itálico legítimo nos títulos De caelo e De memoria.
+
+### Part terms 4 of 11, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of g3-c009 [17]–[18]: the agreement fix “acerca das quais” is correct and broke nothing nearby; no new defects.
+- Rejected: pt-BR/g3-c009.md [18] — “em esboço, isto é, figurativamente” does not render *figuraliter* as “em esboço”, as the Key Terms row says — The journal's decisions render *tipo* as “em esboço”. Here *tipo* and its gloss *figuraliter* sit side by side, so using “em esboço” for both would be redundant. The rendering keeps the author's gloss and is defensible.
+- Rejected: pt-BR/g3-c009.md [17] — Space before punctuation in “\<. . .\>,” (mechanical audit) — The spacing belongs to the editorial lacuna kept from the Latin. Round 3 already rejected this.
+
+### Part terms 5 of 11, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 57 minor. 274 parágrafos sinalizados lidos; 57 correções de deriva terminológica e 1 correção de sentido.
+- `pt-BR/g4-c001.md` [19]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g4-c001.md` [22]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g4-c001.md` [25]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g4-c001.md` [28]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g4-c001.md` [31]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g4-c001.md` [34]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g4-c001.md` [42]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g4-c001.md` [47]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g4-c001.md` [48]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g4-c001.md` [54]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g4-c001.md` [59]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g4-c001.md` [62]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g4-c001.md` [71]: “fazer o bem do que recebê-lo” → “fazer o bem do que padecer bem” — Bene pati → “padecer bem”; conserva o contraste técnico entre agir e receber uma ação.
+- `pt-BR/g4-c001.md` [71]: “pertence receber o bem,” → “pertence padecer bem,” — Bene pati → “padecer bem” (Key Terms).
+- `pt-BR/g4-c002.md` [17]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g4-c002.md` [20]: “Quanto ao primeiro ponto, faz duas coisas.” → “Acerca do primeiro, faz duas coisas.” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g4-c002.md` [32]: “o que é receber uma ação benéfica.” → “o que é padecer bem.” — Bene pati → “padecer bem”; a paráfrase substituía a expressão técnica.
+- `pt-BR/g4-c003.md` [13]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g4-c003.md` [16]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g4-c003.md` [23]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g4-c004.md` [22]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g4-c004.md` [25]: “Quanto ao primeiro ponto, faz duas coisas.” → “Acerca do primeiro, faz duas coisas.” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g4-c006.md` [3]: “uma despesa conveniente” → “um gasto conveniente” — Sumptus → “gasto” (Key Terms); estava “despesa”.
+- `pt-BR/g4-c006.md` [12]: “com igual despesa,” → “com igual gasto,” — Sumptus → “gasto” (Key Terms); estava “despesa”.
+- `pt-BR/g4-c006.md` [17]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g4-c006.md` [38]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g4-c007.md` [2]: “às despesas que chamamos honrosas” → “aos gastos que chamamos honrosos” — Sumptuum → “gastos” (Key Terms), com ajuste da concordância.
+- `pt-BR/g4-c007.md` [6]: “em tais despesas,” → “em tais gastos,” — Sumptibus → “gastos” (Key Terms).
+- `pt-BR/g4-c007.md` [9]: “fazer despesas sobretudo” → “fazer gastos sobretudo” — Sumptus → “gastos” (Key Terms).
+- `pt-BR/g4-c007.md` [10]: “nas despesas, cada coisa” → “nos gastos, cada coisa” — Sumptibus → “gastos” (Key Terms).
+- `pt-BR/g4-c007.md` [10]: “do que é grande na despesa;” → “do que é grande no gasto;” — Sumptu → “gasto” (Key Terms).
+- `pt-BR/g4-c007.md` [10]: “com uma despesa correspondente” → “com um gasto correspondente” — Sumptus → “gasto” (Key Terms).
+- `pt-BR/g4-c007.md` [18]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g4-c007.md` [34]: “se é príncipe ou particular,” → “se é governante ou particular,” — Princeps → “governante” (Key Terms); estava “príncipe”.
+- `pt-BR/g4-c007.md` [40]: “consiste em tais despesas,” → “consiste em tais gastos,” — Sumptibus → “gastos” (Key Terms).
+- `pt-BR/g4-c007.md` [51]: “é simplesmente grande na despesa” → “é absolutamente grande na despesa” — Simpliciter → “absolutamente” (Key Terms); trata-se da grandeza sem qualificação.
+- `pt-BR/g4-c008.md` [10]: “Mesmo sem raciocínio,” → “Mesmo sem argumento,” — Ratio demonstrativa → “argumento”, conforme as notas dos Key Terms.
+- `pt-BR/g4-c008.md` [20]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g4-c008.md` [23]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g4-c008.md` [52]: “Primeiro, por um raciocínio,” → “Primeiro, por um argumento,” — Ratio demonstrativa → “argumento”, conforme as notas dos Key Terms.
+- `pt-BR/g4-c008.md` [53]: “***mesmo sem raciocínio***” → “***mesmo sem argumento***” — Ratio demonstrativa → “argumento”, conforme as notas dos Key Terms.
+- `pt-BR/g4-c008.md` [53]: “mesmo sem raciocínio, fica evidente” → “mesmo sem argumento, fica evidente” — Ratio demonstrativa → “argumento”, conforme as notas dos Key Terms.
+- `pt-BR/g4-c008.md` [59]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g4-c008.md` [68]: “pelo desejo de alguma coisa;” → “pelo apetite de alguma coisa;” — Appetitus → “apetite” (Key Terms); estava “desejo”.
+- `pt-BR/g4-c009.md` [12]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g4-c009.md` [15]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g4-c009.md` [18]: “Quanto ao primeiro ponto, faz duas coisas.” → “Acerca do primeiro, faz duas coisas.” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g4-c009.md` [23]: “não se abate pelas ofensas,” → “não se abate pelos insultos,” — Contumelia → “insulto” (Key Terms); estava “ofensas”.
+- `pt-BR/g4-c010.md` [28]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g4-c012.md` [3]: “também no desejo da honra” → “também no apetite da honra” — Appetitus → “apetite” (Key Terms); estava “desejo”.
+- `pt-BR/g4-c012.md` [17]: “por um raciocínio tomado” → “por um argumento tomado” — Ratio demonstrativa → “argumento”, conforme as notas dos Key Terms.
+- `pt-BR/g4-c012.md` [19]: “também no desejo da honra” → “também no apetite da honra” — Appetitus → “apetite” (Key Terms); estava “desejo”.
+- `pt-BR/g4-c012.md` [19]: “quanto à intensidade do desejo,” → “quanto à intensidade do apetite,” — Appetitus → “apetite” (Key Terms); estava “desejo”.
+- `pt-BR/g4-c012.md` [31]: “relativo ao desejo da honra” → “relativo ao apetite da honra” — Appetitus → “apetite” (Key Terms); estava “desejo”.
+- `pt-BR/g4-c013.md` [62]: “Por fim, conclui que se falou dos hábitos relativos à ira.” → “Por fim, recapitula o que foi dito dos hábitos relativos à ira.” — Epilogat → “recapitula” (Key Terms); o objeto é quod dictum est, o que foi dito.
+- `pt-BR/g4-c015.md` [70]: “pelo desejo de glória ou de honra;” → “pelo apetite de glória ou de honra;” — Appetitus → “apetite” (Key Terms); estava “desejo”.
+- `pt-BR/g4-c015.md` [72]: “pelo desejo de glória ou de lucro.” → “pelo apetite de glória ou de lucro.” — Appetitus → “apetite” (Key Terms); estava “desejo”.
+- `pt-BR/g4-c016.md` [13]: “Talvez fosse conveniente, porém, também fazer troça;” → “Talvez fosse conveniente, porém, proibir também a troça;” — Oportebat autem forte et conviciari retoma elipticamente a proibição anterior: sugere proibir também a troça, não recomendar fazê-la. *(meaning)*
+
+### Part terms 5 of 11, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 5 minor. Delta read of the round 1 changes in g4-c001–g4-c016: one broken pronoun agreement in g4-c009 [23], the bene pati Key Terms row updated to the new “padecer bem” text, and three remaining term drifts (sumptus twice, Circa primum tria facit once).
+- `pt-BR/g4-c009.md` [23]: “porque considera que elas lhe são infligidas injustamente” → “porque considera que eles lhe são infligidos injustamente” — eas retoma contumelias; após a troca por “insultos” (masculino), o pronome e o particípio ficaram no feminino de “ofensas”
+- `pt-BR/g4-c006.md` [4]: “pois não é a mesma a despesa de um trierarca” → “pois não é o mesmo o gasto de um trierarca” — sumptus → “gasto” (Key Terms), como nos parágrafos 3 e 12 do mesmo capítulo
+- `pt-BR/g4-c007.md` [11]: “pois gasta muito em despesas pequenas” → “pois consome muito em gastos pequenos” — in parvis sumptuum multa consumit; sumptus → “gasto” (Key Terms); consumit → “consome”, evitando “gasta … gastos”
+- `pt-BR/g4-c012.md` [30]: “Quanto ao primeiro ponto, faz três coisas.” → “Acerca do primeiro, faz três coisas.” — Circa primum tria facit; mesma fórmula de divisão que os Key Terms fixam como “Acerca do primeiro, faz …”
+- NOT APPLIED (old text not found exactly once (2)): - `pt-BR/translation-journal.md`: ““Receber o bem” para bene pati, em oposição a benefacere, “fazer o bem”.” → ““Padecer bem” para bene pati em g4-c001 e g4-c002, em oposição a benefacere, “fazer o bem”.” — a linha afirma “receber o bem”, mas g4-c001 [71] e g4-c002 [32] trazem agora “padecer bem”, que conserva o contraste ativo/passivo do § 670
+- Rejected: pt-BR/g4-c016.md [13] — “proibir também a troça” poderia ser acréscimo — Oportebat … et conviciari retoma elipticamente prohibent; a leitura corresponde ao grego (ἔδει … καὶ σκώπτειν, sc. κωλύειν)
+- Rejected: pt-BR/g4-c007.md [3], [34], [51] — “despesa(s)” onde a Key Terms fixa “gasto” — o latim traz expensae/expensa (Key Terms: “despesas”) ou nenhum substantivo; não se trata de sumptus
+
+### Part terms 5 of 11, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 1 minor. Verificadas as quatro alterações e lidos integralmente os 12 parágrafos apresentados e a nota: alterações corretas; uma inconsistência terminológica remanescente no diário.
+- NOT APPLIED (old text not found exactly once (2)): - `pt-BR/translation-journal.md`: ““Padecer” no sentido de receber uma ação; não implica necessariamente sofrimento. “Receber o bem” para bene pati, em oposição a benefacere, “fazer o bem”.” → ““Padecer” no sentido de receber uma ação; não implica necessariamente sofrimento. “Padecer bem” para bene pati em g4-c001 e g4-c002, em oposição a benefacere, “fazer o bem”.” — A correção anterior desta linha não foi aplicada; o registro das revisões confirma “padecer bem” nesses capítulos. O trecho ampliado distingue a linha da tabela de sua citação no histórico.
+
+### Part terms 6 of 11, Round 1 (codex, terms read)
+Verdict: 5 meaning-level, 137 minor. Lidos os 255 parágrafos sinalizados; 136 apresentam deriva; propostas também duas ampliações de linhas do glossário.
+- `pt-BR/translation-journal.md`: “| communicatio / politica communicatio / oeconomica communicatio | associação / associação política / associação doméstica | Conforme o contexto, *communicare* e *communicatio* exprimem também “ter algo em comum”. “Troca” nas relações de prestação e retribuição; “partilha”, “comunhão” ou “comunicação” quando designa o pôr em comum bens, palavras, conhecimentos ou virtude. |” → “| communicatio / politica communicatio / oeconomica communicatio | associação / associação política / associação doméstica | Conforme o contexto, *communicare* e *communicatio* exprimem também “ter algo em comum”. Também “relações de troca” nas transações entre artífices, “relações” nas interações entre pessoas e “intercâmbio” de palavras e obras. |” — A linha não contempla sentidos relacionais e comerciais reiteradamente empregados de modo adequado.
+- `pt-BR/translation-journal.md`: “| passio / pati / patiens | paixão / padecer / paciente | “Padecer” no sentido de receber uma ação; não implica necessariamente sofrimento. |” → “| passio / pati / patiens | paixão / padecer / paciente | “Padecer” no sentido de receber uma ação; não implica necessariamente sofrimento. Nas trocas entre artífices, *patiens* e *pati* também são “aquele que recebe” e “receber”, referindo-se à recepção da obra. |” — A recepção comercial da obra aparece adequadamente com essa segunda tradução em g5-c007 e g5-c008.
+- `pt-BR/g4-c017.md` [17]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g4-c017.md` [20]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c001.md` [6]: “capazes de praticar ações injustas” → “capazes de praticar coisas injustas” — *Operativi iniustorum* conserva a expressão material “praticar coisas injustas” dos Key Terms.
+- `pt-BR/g5-c001.md` [12]: “a boa e a má fortuna” → “a fortuna e o infortúnio” — *Fortuna et infortunium* → “fortuna e infortúnio” (Key Terms).
+- `pt-BR/g5-c001.md` [19]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c001.md` [22]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c001.md` [25]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c001.md` [39]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c001.md` [50]: “capazes de praticar ações injustas” → “capazes de praticar coisas injustas” — *Operativi iniustorum* conserva a expressão material “praticar coisas injustas” dos Key Terms.
+- `pt-BR/g5-c001.md` [52]: “com querer e praticar ações injustas” → “com querer e praticar coisas injustas” — *Operandum iniusta* → “praticar coisas injustas” (Key Terms).
+- `pt-BR/g5-c001.md` [72]: “a boa e a má fortuna” → “a fortuna e o infortúnio” — *Fortuna et infortunium* → “fortuna e infortúnio” (Key Terms).
+- `pt-BR/g5-c002.md` [3]: “na comunidade política” → “na associação política” — *Politica communicatione* → “associação política” (Key Terms).
+- `pt-BR/g5-c002.md` [7]: “em relação com outro na comunidade” → “em relação com outro na associação” — *In communicatione* → “na associação” (Key Terms).
+- `pt-BR/g5-c002.md` [13]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c002.md` [41]: “em relação com outro na comunidade” → “em relação com outro na associação” — *In communicatione* → “na associação” (Key Terms).
+- `pt-BR/g5-c003.md` [5]: “em todas as outras ações injustas” → “em todos os outros atos de injustiça” — *Iniustificationes* → “atos de injustiça” (Key Terms).
+- `pt-BR/g5-c003.md` [35]: “a comunicação entre os homens” → “a associação entre os homens” — *Communicatio* → “associação” (Key Terms).
+- `pt-BR/g5-c004.md` [13]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c004.md` [17]: “participam da comunidade civil” → “participam da associação civil” — *Communicatione* → “associação” (Key Terms).
+- `pt-BR/g5-c004.md` [21]: “para receber algo equivalente” → “para receber algo igual” — *Aequale* → “igual” (Key Terms).
+- `pt-BR/g5-c004.md` [28]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c004.md` [31]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c004.md` [34]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c004.md` [37]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c004.md` [40]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c005.md` [11]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c005.md` [14]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c005.md` [15]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c005.md` [19]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c005.md` [26]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c006.md` [7]: “no caso daquele que sofre” → “no caso do paciente” — *Patienti* → “paciente” (Key Terms), como termo correlato ao agente.
+- `pt-BR/g5-c006.md` [12]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c006.md` [13]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c006.md` [18]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c006.md` [20]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c006.md` [25]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c006.md` [26]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c006.md` [31]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c006.md` [36]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c007.md` [10]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c007.md` [11]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c007.md` [13]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c007.md` [14]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c007.md` [16]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c007.md` [17]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c007.md` [19]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c007.md` [24]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [14]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [15]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [18]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [19]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [20]: “a simples reciprocidade não corresponde à justiça” → “a reciprocidade em sentido absoluto não corresponde à justiça” — *Simpliciter* → “em sentido absoluto” (Key Terms).
+- `pt-BR/g5-c008.md` [21]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [25]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [26]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [27]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c008.md` [29]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c008.md` [34]: “nas outras artes, quando diz:” → “nas outras artes, onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [11]: “quantas camas equivalem a uma casa” → “quantas camas são iguais em valor a uma casa” — *Aequale* → “igual” (Key Terms), aqui quanto ao valor.
+- `pt-BR/g5-c009.md` [15]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [16]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c009.md` [18]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [21]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [22]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [27]: “por meio de termos, quando diz:” → “por meio de termos, onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [31]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [32]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c009.md` [34]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [41]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c009.md` [42]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c010.md` [6]: “Quanto à injustiça,” → “Quanto ao ato de injustiça,” — *Iniustificationis* designa o ato de injustiça, distinto da injustiça como hábito (Key Terms). *(meaning)*
+- `pt-BR/g5-c010.md` [11]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c010.md` [12]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c010.md` [13]: “quanto ao primeiro ponto faz duas coisas” → “acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c010.md` [21]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c010.md` [21]: “***quanto à injustiça***” → “***quanto ao ato de injustiça***” — *Iniustificationis* → “ato de injustiça”, distinto do hábito da injustiça (Key Terms). *(meaning)*
+- `pt-BR/g5-c010.md` [22]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c010.md` [24]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c010.md` [31]: “***quanto à injustiça***” → “***quanto ao ato de injustiça***” — *Iniustificationis* → “ato de injustiça”, distinto do hábito da injustiça (Key Terms). *(meaning)*
+- `pt-BR/g5-c010.md` [31]: “há duas formas de injustiça:” → “há dois tipos de ato de injustiça:” — *Duplex est iniustificatio* distingue tipos de ato, não formas do hábito da injustiça. *(meaning)*
+- `pt-BR/g5-c010.md` [31]: “a outra forma de injustiça consiste” → “o outro tipo de ato de injustiça consiste” — *Alia iniustificatio* → outro ato de injustiça, preservando a distinção terminológica. *(meaning)*
+- `pt-BR/g5-c011.md` [5]: “voltada para a autossuficiência” → “voltada para a suficiência por si” — *Per se sufficientiam* → “suficiência por si” (Key Terms).
+- `pt-BR/g5-c011.md` [18]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c011.md` [21]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c011.md` [22]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c011.md` [23]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c011.md` [25]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c011.md` [27]: “alguém pode fazer o que é injusto de muitos modos” → “alguém pode cometer injustiça de muitos modos” — *Facere iniustum* → “cometer injustiça” (Key Terms).
+- `pt-BR/g5-c011.md` [31]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c011.md` [32]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c011.md` [34]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c011.md` [38]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c011.md` [39]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c011.md` [41]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c011.md` [42]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c011.md` [44]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c011.md` [45]: “ordenada à autossuficiência” → “ordenada à suficiência por si” — *Per se sufficientia* → “suficiência por si” (Key Terms).
+- `pt-BR/g5-c011.md` [50]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c011.md` [51]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c011.md` [53]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c011.md` [58]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c011.md` [59]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c011.md` [62]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c011.md` [65]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c011.md` [66]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c012.md` [15]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c012.md` [18]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c012.md` [19]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c012.md` [31]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c012.md` [45]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c012.md` [52]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c012.md` [57]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c012.md` [64]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c013.md` [10]: “o outro sofre injustamente” → “o outro sofre injustiça” — *Iniuste pati* corresponde aqui a “sofrer injustiça” (Key Terms).
+- `pt-BR/g5-c013.md` [15]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c013.md` [16]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c013.md` [18]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c013.md` [19]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c013.md` [21]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c013.md` [27]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c013.md` [34]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c013.md` [35]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c013.md` [39]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c013.md` [40]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c013.md` [47]: “cometem faltas fazem o injusto,” → “cometem faltas cometem injustiça,” — *Faciunt iniustum* → “cometem injustiça” (Key Terms).
+- `pt-BR/g5-c013.md` [50]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c013.md` [51]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c013.md` [53]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c013.md` [53]: “aquele a quem prejudica sofre injustamente” → “aquele a quem prejudica sofre injustiça” — *Iniuste pati* corresponde aqui a “sofrer injustiça” (Key Terms).
+- `pt-BR/g5-c014.md` [18]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c014.md` [20]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c014.md` [21]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c014.md` [23]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c014.md` [24]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — *Circa primum duo facit* → fórmula dos Key Terms.
+- `pt-BR/g5-c014.md` [26]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c014.md` [32]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c014.md` [36]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c014.md` [37]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c014.md` [42]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c014.md` [43]: “quando diz:” → “onde diz:” — *Ibi* → “onde diz” (Key Terms).
+
+### Part terms 6 of 11, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read: conferidas as correções de termos em g4-c017 e g5-c001 a g5-c014 e lidos os parágrafos vizinhos; corrigida uma falha de concordância introduzida em g5-c010 [31].
+- `pt-BR/g5-c010.md` [31]: “uma consiste em ter menos dos bens, à qual se refere” → “um consiste em ter menos dos bens, ao qual se refere” — A troca de “duas formas de injustiça” por “dois tipos de ato de injustiça” deixou “uma” e “à qual” no feminino; concordam agora com “tipos”, como já faz “o outro tipo” adiante.
+- Rejected: pt-BR/g5-c013.md [47] — “cometem faltas cometem injustiça” repete o verbo. — A frase é gramatical e fiel a *peccant, faciunt iniustum*. A repetição é questão de estilo.
+- Rejected: pt-BR/g5-c011.md [5], [45] — “suficiência por si” contraria a linha “per se sufficientia / autarchia → autossuficiência”. — O glossário tem duas linhas para o termo e a correção segue uma delas, “suficiente por si / suficiência por si”. Não é defeito objetivo.
+- Rejected: pt-BR/g5-c011.md [27] — *Facere iniustum* como “cometer injustiça” num caso em que o agente não é injusto. — O comentário trata o ato como *iniustificatio* (ato de injustiça) sem hábito injusto. “Cometer injustiça” está correto.
+
+### Part terms 6 of 11, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Conferida a correção de concordância e lidos integralmente os parágrafos 30–32 de pt-BR/g5-c010.md contra o latim; nenhum defeito encontrado.
+
+### Part terms 7 of 11, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 154 minor. 244 parágrafos sinalizados examinados; 117 com deriva vocabular; 3 linhas do glossário complementadas.
+- `pt-BR/translation-journal.md`: “| electio / executio / actus / actio | escolha / execução / ato / ação | |” → “| electio / executio / actus / actio | escolha / execução / ato / ação | “Ação” também traduz *actus* quando designa o agir prático, especialmente em sua distinção da produção. |” — *Actus* é consistentemente traduzido por “ação” no sentido aristotélico de agir prático; a linha omitia esse sentido.
+- `pt-BR/translation-journal.md`: “| ratio (conteúdo definidor) | noção | “Razão” ou “argumento” nos demais contextos explicativos e demonstrativos. Também “raciocínio” para o encadeamento de proposições e “explicação” para a exposição de uma causa. |” → “| ratio (conteúdo definidor) | noção | “Razão” ou “argumento” nos demais contextos explicativos e demonstrativos. “Raciocínio” quando designa o processo discursivo; “demonstração” quando contraposto à apreensão imediata dos princípios pelo intelecto. |” — A linha omitia dois sentidos em que as traduções “raciocínio” e “demonstração” são adequadas.
+- `pt-BR/translation-journal.md`: “| contemperantia | equilíbrio | Proporção devida dos humores ou das afeições, conforme o contexto. |” → “| contemperantia | equilíbrio | Proporção devida dos humores ou das afeições, conforme o contexto. “Moderação” quando designa a mitigação clemente ou indulgente da sentença; *contemperanter* corresponde a “com moderação” nesse contexto. |” — A linha omitia o sentido jurídico de mitigação da sentença, corretamente traduzido por “moderação”.
+- `pt-BR/g5-c014.md` [46]: “a dificuldade, quando diz:” → “a dificuldade, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c014.md` [50]: “Segundo, quando diz:” → “Segundo, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c014.md` [50]: “se segue o sofrer injustiça” → “se segue o padecer injustiça” — *pati* → “padecer” (Key Terms); estava “sofrer”.
+- `pt-BR/g5-c014.md` [50]: “ele sofre voluntariamente injustiça” → “ele padece voluntariamente injustiça” — *patiatur* → “padece” (Key Terms).
+- `pt-BR/g5-c014.md` [50]: “nem todo sofrer injustiça” → “nem todo padecer injustiça” — *pati* → “padecer” (Key Terms).
+- `pt-BR/g5-c014.md` [51]: “Terceiro, quando diz:” → “Terceiro, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c014.md` [52]: “a segunda razão quando diz:” → “a segunda razão onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c014.md` [52]: “é possível alguém sofrer injustiça” → “é possível alguém padecer injustiça” — *patiatur* → “padecer” (Key Terms).
+- `pt-BR/g5-c014.md` [52]: “nem todo sofrer injustiça” → “nem todo padecer injustiça” — *pati* → “padecer” (Key Terms).
+- `pt-BR/g5-c014.md` [56]: “Segundo, quando diz:” → “Segundo, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c014.md` [56]: “com vontade plena, sofrer injustiça” → “com vontade plena, padecer injustiça” — *pati* → “padecer” (Key Terms).
+- `pt-BR/g5-c014.md` [57]: “Terceiro, quando diz:” → “Terceiro, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g5-c014.md` [57]: “não sofre injustiça, falando por si” → “não padece injustiça, falando por si” — *patitur* → “padece” (Key Terms).
+- `pt-BR/g5-c014.md` [57]: “Tal homem não sofre injustiça” → “Tal homem não padece injustiça” — *patitur* → “padece” (Key Terms).
+- `pt-BR/g5-c014.md` [57]: “mas sofrer injustiça não está no poder daquele que a sofre” → “mas padecer injustiça não está no poder daquele que a padece” — *pati / patitur* → “padecer / padece” (Key Terms).
+- `pt-BR/g5-c014.md` [57]: “Portanto, sofrer injustiça é involuntário” → “Portanto, padecer injustiça é involuntário” — *pati* → “padecer” (Key Terms).
+- `pt-BR/g5-c014.md` [57]: “não está naquele que a sofre” → “não está no paciente” — *in patiente* → “no paciente” (Key Terms); estava uma paráfrase.
+- `pt-BR/g5-c014.md` [58]: “que sofrer injustiça é involuntário” → “que padecer injustiça é involuntário” — *pati* → “padecer” (Key Terms).
+- `pt-BR/g5-c015.md` [27]: “contra a vontade de quem sofre” → “contra a vontade do paciente” — *patientis* → “do paciente” (Key Terms); estava uma paráfrase.
+- `pt-BR/g5-c015.md` [43]: “as coisas legalmente justas” → “as coisas justas legais” — *iusta legalia* → “coisas justas legais”, preservando a designação do justo legal (Key Terms).
+- `pt-BR/g5-c016.md` [3]: “ser simplesmente o mesmo” → “ser o mesmo em sentido absoluto” — *simpliciter* → “em sentido absoluto” (Key Terms).
+- `pt-BR/g5-c016.md` [21]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g5-c016.md` [24]: “sejam simplesmente o mesmo” → “sejam o mesmo em sentido absoluto” — *simpliciter* → “em sentido absoluto” (Key Terms).
+- `pt-BR/g5-c016.md` [24]: “ser simplesmente o mesmo que o justo” → “ser o mesmo que o justo em sentido absoluto” — *simpliciter* → “em sentido absoluto” (Key Terms).
+- `pt-BR/g5-c017.md` [11]: “estaria sofrendo injustiça voluntariamente” → “estaria padecendo injustiça voluntariamente” — *pati* → “padecer” (Key Terms).
+- `pt-BR/g5-c017.md` [13]: “relativa a sofrer injustiça voluntariamente” → “relativa a padecer injustiça voluntariamente” — *pati* → “padecer” (Key Terms).
+- `pt-BR/g5-c017.md` [14]: “más: sofrer injustiça e cometer injustiça” → “más: padecer injustiça e cometer injustiça” — *pati* → “padecer” (Key Terms).
+- `pt-BR/g5-c017.md` [15]: “Sofrer injustiça, porém, não envolve” → “Padecer injustiça, porém, não envolve” — *pati* → “padecer” (Key Terms).
+- `pt-BR/g5-c017.md` [15]: “Portanto, sofrer injustiça é” → “Portanto, padecer injustiça é” — *pati* → “padecer” (Key Terms).
+- `pt-BR/g5-c017.md` [16]: “é possível sofrer algo” → “é possível padecer algo” — *pati* → “padecer” (Key Terms).
+- `pt-BR/g5-c017.md` [20]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g5-c017.md` [21]: “ou sofrer injustiça de si mesmo” → “ou padecer injustiça de si mesmo” — *pati* → “padecer” (Key Terms).
+- `pt-BR/g5-c017.md` [22]: “ou sofrer injustiça, onde diz:” → “ou padecer injustiça, onde diz:” — *pati* → “padecer” (Key Terms).
+- `pt-BR/g5-c017.md` [34]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g5-c017.md` [37]: “Quanto ao primeiro ponto, faz duas coisas.” → “Acerca do primeiro, faz duas coisas.” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g5-c017.md` [46]: “anterior a sofrer injustiça” → “anterior a padecer injustiça” — *pati* → “padecer” (Key Terms).
+- `pt-BR/g5-c017.md` [46]: “primeiro sofreu injustiça” → “primeiro padeceu injustiça” — *passus est* → “padeceu” (Key Terms).
+- `pt-BR/g5-c017.md` [46]: “sofre e faz simultaneamente” → “padece e faz simultaneamente” — *patitur* → “padece” (Key Terms).
+- `pt-BR/g5-c017.md` [47]: “***além disso, estaria sofrendo***” → “***além disso, estaria padecendo***” — Uniformiza a citação da ocorrência de *pati* com “padecer” (Key Terms).
+- `pt-BR/g5-c017.md` [47]: “tal pessoa sofre injustiça de si mesma” → “tal pessoa padece injustiça de si mesma” — *patitur* → “padece” (Key Terms).
+- `pt-BR/g5-c017.md` [47]: “que sofrer injustiça é voluntário” → “que padecer injustiça é voluntário” — *pati* → “padecer” (Key Terms).
+- `pt-BR/g5-c017.md` [49]: “de alguém sofrer injustiça voluntariamente” → “de alguém padecer injustiça voluntariamente” — *pati* → “padecer” (Key Terms).
+- `pt-BR/g5-c017.md` [55]: “cometer injustiça e sofrer injustiça, são más” → “cometer injustiça e padecer injustiça, são más” — *pati* → “padecer” (Key Terms).
+- `pt-BR/g5-c017.md` [55]: “a saber, sofrer injustiça, é ter menos” → “a saber, padecer injustiça, é ter menos” — *pati* → “padecer” (Key Terms).
+- `pt-BR/g5-c017.md` [56]: “é pior do que sofrê-la” → “é pior do que padecê-la” — *pati* → “padecer” (Key Terms).
+- `pt-BR/g5-c017.md` [56]: “Sofrer injustiça, porém, não envolve” → “Padecer injustiça, porém, não envolve” — *pati* → “padecer” (Key Terms).
+- `pt-BR/g5-c017.md` [56]: “aquele que sofre injustiça” → “aquele que padece injustiça” — *patitur* → “padece” (Key Terms).
+- `pt-BR/g5-c017.md` [56]: “que sofrer injustiça é, em si” → “que padecer injustiça é, em si” — *pati* → “padecer” (Key Terms).
+- `pt-BR/g5-c017.md` [57]: “que sofrer injustiça seja” → “que padecer injustiça seja” — *pati* → “padecer” (Key Terms).
+- `pt-BR/g5-c017.md` [57]: “por sofrer injustiça, é provocado” → “por padecer injustiça, é provocado” — *patitur* → “padecer” (Key Terms).
+- `pt-BR/g5-c017.md` [59]: “que alguém sofra por causa dos próprios apetites” → “que alguém padeça por causa dos próprios apetites” — *pati* → “padecer” (Key Terms).
+- `pt-BR/g6-c001.md` [31]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g6-c002.md` [18]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g6-c002.md` [43]: “consistem simplesmente no verdadeiro e no falso” → “consistem em sentido absoluto no verdadeiro e no falso” — *simpliciter* → “em sentido absoluto” (Key Terms).
+- `pt-BR/g6-c002.md` [44]: “o fim e os meios para o fim” → “o fim e as coisas que se ordenam ao fim” — *ea quae sunt ad finem* → “coisas que se ordenam ao fim” (Key Terms).
+- `pt-BR/g6-c002.md` [44]: “os meios para o fim, porém, não nos são determinados” → “as coisas que se ordenam ao fim, porém, não nos são determinadas” — *ea quae sunt ad finem* → “coisas que se ordenam ao fim” (Key Terms), com ajuste de concordância.
+- `pt-BR/g6-c002.md` [44]: “quanto aos meios para o fim” → “quanto às coisas que se ordenam ao fim” — *ea quae sunt ad finem* → “coisas que se ordenam ao fim” (Key Terms).
+- `pt-BR/g6-c003.md` [15]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g6-c003.md` [23]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g6-c003.md` [26]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g6-c003.md` [29]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g6-c003.md` [48]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g6-c004.md` [16]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g6-c004.md` [19]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g6-c005.md` [18]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g6-c006.md` [12]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g6-c007.md` [12]: “sua essência não lhes é obscura” → “o que a coisa é não lhes é obscuro” — *quod quid est* → “o que a coisa é” (Key Terms); estava “sua essência”.
+- `pt-BR/g6-c007.md` [19]: “havia dito acima, quando diz:” → “havia dito acima, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c007.md` [22]: “manifesta o que propôs, quando diz:” → “manifesta o que propôs, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c007.md` [23]: “exclui certo erro, quando diz:” → “exclui certo erro, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c007.md` [27]: “trata da política, quando diz:” → “trata da política, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c007.md` [28]: “trata da prudência, quando diz:” → “trata da prudência, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c007.md` [30]: “das coisas legalmente justas” → “das coisas justas legais” — *iusta legalia* → “coisas justas legais”, preservando a designação do justo legal (Key Terms).
+- `pt-BR/g6-c007.md` [34]: “do que foi dito, quando diz:” → “do que foi dito, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c007.md` [39]: “pela investigação da deliberação” → “pela investigação do conselho” — *consilium* → “conselho” (Key Terms); estava “deliberação”.
+- `pt-BR/g6-c007.md` [45]: “aduz sua prova, quando diz:” → “aduz sua prova, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c007.md` [46]: “refutando o erro, quando diz:” → “refutando o erro, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c007.md` [49]: “Segundo, quando diz:” → “Segundo, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c007.md` [55]: “à ciência e ao intelecto, quando diz:” → “à ciência e ao intelecto, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c007.md` [59]: “a esse respeito uma questão, quando diz:” → “a esse respeito uma questão, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c007.md` [62]: “sua essência não lhes é obscura” → “o que a coisa é não lhes é obscuro” — *quod quid est* → “o que a coisa é” (Key Terms); estava “sua essência”.
+- `pt-BR/g6-c007.md` [68]: “a segunda razão quando diz:” → “a segunda razão onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c007.md` [74]: “ao intelecto, quando diz:” → “ao intelecto, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c007.md` [78]: “a diferença, quando diz:” → “a diferença, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c008.md` [3]: “a eubulia é uma espécie de deliberação” → “a eubulia é uma espécie de conselho” — *consilium* → “conselho” (Key Terms).
+- `pt-BR/g6-c008.md` [9]: “certa retidão da deliberação” → “certa retidão do conselho” — *consilii* → “do conselho” (Key Terms).
+- `pt-BR/g6-c008.md` [9]: “o que é a deliberação e a que diz respeito” → “o que é o conselho e a que diz respeito” — *consilium* → “conselho” (Key Terms).
+- `pt-BR/g6-c008.md` [10]: “aquela retidão da deliberação” → “aquela retidão do conselho” — *consilii* → “do conselho” (Key Terms).
+- `pt-BR/g6-c008.md` [16]: “entre si e à prudência, quando diz:” → “entre si e à prudência, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c008.md` [19]: “da sínese, quando diz:” → “da sínese, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c008.md` [20]: “da *gnome*, quando diz:” → “da *gnome*, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c008.md` [23]: “de que ela é retidão, quando diz:” → “de que ela é retidão, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c008.md` [24]: “que espécie de retidão ela é, quando diz:” → “que espécie de retidão ela é, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c008.md` [25]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g6-c008.md` [27]: “desenvolve-o, quando diz:” → “desenvolve-o, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c008.md` [31]: “qual é seu gênero, quando diz:” → “qual é seu gênero, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c008.md` [34]: “não é *eustochia*, quando diz:” → “não é *eustochia*, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c008.md` [35]: “não é opinião, quando diz:” → “não é opinião, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c008.md` [36]: “sendo uma espécie de deliberação” → “sendo uma espécie de conselho” — *consilium* → “conselho” (Key Terms).
+- `pt-BR/g6-c008.md` [38]: “o que foi determinado na deliberação” → “o que foi determinado no conselho” — *in consilio* → “no conselho” (Key Terms).
+- `pt-BR/g6-c008.md` [39]: “a segunda razão quando diz:” → “a segunda razão onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c008.md` [39]: “não há deliberação sobre o fim” → “não há conselho sobre o fim” — *consilium* → “conselho” (Key Terms).
+- `pt-BR/g6-c008.md` [44]: “de que ela é retidão, quando diz:” → “de que ela é retidão, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c008.md` [45]: “Quanto ao primeiro ponto, faz duas coisas.” → “Acerca do primeiro, faz duas coisas.” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g6-c008.md` [47]: “Segundo, quando diz:” → “Segundo, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c008.md` [49]: “Segundo, quando diz:” → “Segundo, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c008.md` [51]: “a segunda razão quando diz:” → “a segunda razão onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c008.md` [52]: “seja certa retidão da deliberação” → “seja certa retidão do conselho” — *consilii* → “do conselho” (Key Terms).
+- `pt-BR/g6-c008.md` [52]: “o que é a deliberação e a que diz respeito” → “o que é o conselho e a que diz respeito” — *consilium* → “conselho” (Key Terms).
+- `pt-BR/g6-c008.md` [59]: “nem toda retidão da deliberação é eubulia” → “nem toda retidão do conselho é eubulia” — *consilii* → “do conselho” (Key Terms).
+- `pt-BR/g6-c008.md` [59]: “não é retidão da deliberação nas coisas más” → “não é retidão do conselho nas coisas más” — *consilii* → “do conselho” (Key Terms).
+- `pt-BR/g6-c008.md` [59]: “aquela retidão da deliberação pela qual” → “aquela retidão do conselho pela qual” — *consilii* → “do conselho” (Key Terms).
+- `pt-BR/g6-c008.md` [60]: “a segunda condição quando diz:” → “a segunda condição onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c008.md` [62]: “a terceira condição quando diz:” → “a terceira condição onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c008.md` [62]: “emprega muito tempo na deliberação” → “emprega muito tempo no conselho” — *in consilio* → “no conselho” (Key Terms).
+- `pt-BR/g6-c008.md` [62]: “aquela retidão da deliberação que considera” → “aquela retidão do conselho que considera” — *consilii* → “do conselho” (Key Terms).
+- `pt-BR/g6-c008.md` [63]: “a quarta condição quando diz:” → “a quarta condição onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c008.md` [63]: “dirige a deliberação ao fim comum” → “dirige o conselho ao fim comum” — *consilium* → “conselho” (Key Terms).
+- `pt-BR/g6-c008.md` [63]: “seja retidão da deliberação em ordem” → “seja retidão do conselho em ordem” — *consilii* → “do conselho” (Key Terms).
+- `pt-BR/g6-c008.md` [64]: “a retidão da deliberação em vista” → “a retidão do conselho em vista” — *consilii* → “do conselho” (Key Terms).
+- `pt-BR/g6-c009.md` [16]: “à prudência, quando diz:” → “à prudência, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c009.md` [17]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g6-c009.md` [19]: “nenhuma ciência é sínese, quando diz:” → “nenhuma ciência é sínese, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c009.md` [24]: “Segundo, quando diz:” → “Segundo, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c009.md` [26]: “a geração da prudência, quando diz:” → “a geração da prudência, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c009.md` [31]: “cuja investigação é a deliberação” → “cuja investigação é o conselho” — *consilium* → “conselho” (Key Terms).
+- `pt-BR/g6-c009.md` [35]: “acerca da retificação do justo legal” → “acerca da correção do justo legal” — *directio iusti legalis* → “correção do justo legal” (Key Terms); estava “retificação”.
+- `pt-BR/g6-c009.md` [40]: “prova-a, quando diz:” → “prova-a, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c009.md` [41]: “do que foi dito, quando diz:” → “do que foi dito, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c009.md` [45]: “por um sinal, quando diz:” → “por um sinal, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c009.md` [46]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g6-c009.md` [48]: “acerca do intelecto, quando diz:” → “acerca do intelecto, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c009.md` [60]: “o segundo corolário quando diz:” → “o segundo corolário onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c010.md` [17]: “resolve-as, quando diz:” → “resolve-as, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c010.md` [18]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g6-c010.md` [20]: “dessas duas entre si, quando diz:” → “dessas duas entre si, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c010.md` [21]: “Quanto ao primeiro ponto, faz duas coisas.” → “Acerca do primeiro, faz duas coisas.” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g6-c010.md` [23]: “Segundo, quando diz:” → “Segundo, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c010.md` [25]: “Segundo, quando diz:” → “Segundo, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c010.md` [27]: “exclui certa resposta, quando diz:” → “exclui certa resposta, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c010.md` [33]: “a segunda razão quando diz:” → “a segunda razão onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c010.md` [38]: “a comparação entre ambas, quando diz:” → “a comparação entre ambas, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c010.md` [39]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g6-c010.md` [41]: “especialmente quanto à prudência, quando diz:” → “especialmente quanto à prudência, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c010.md` [44]: “negando a premissa, quando diz:” → “negando a premissa, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c010.md` [47]: “que o homem seja virtuoso, quando diz:” → “que o homem seja virtuoso, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c010.md` [51]: “bem disposto acerca das coisas que conduzem ao fim” → “bem disposto acerca das coisas que se ordenam ao fim” — *ea quae sunt ad finem* → “coisas que se ordenam ao fim” (Key Terms).
+- `pt-BR/g6-c010.md` [51]: “ordena bem acerca das coisas que conduzem ao fim” → “ordena bem acerca das coisas que se ordenam ao fim” — *eorum quae sunt ad finem* → “coisas que se ordenam ao fim” (Key Terms).
+- `pt-BR/g6-c010.md` [56]: “não pode existir sem a prudência, quando diz:” → “não pode existir sem a prudência, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c010.md` [59]: “qual é esse princípio, quando diz:” → “qual é esse princípio, onde diz:” — *ibi* → “onde diz” (Key Terms).
+- `pt-BR/g6-c010.md` [60]: “a união com a virtude moral, quando diz:” → “a união com a virtude moral, onde diz:” — *ibi* → “onde diz” (Key Terms).
+
+### Part terms 7 of 11, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 34 minor. Delta de g5-c014 a g6-c010 verificado: revertidas as trocas de “sofrer injustiça” por “padecer injustiça”, que contrariavam a linha iniustum pati do Key Terms e o Diário; corrigida a concordância “investigadas” em g6-c002 [44]; as demais trocas estão corretas.
+- `pt-BR/g6-c002.md` [44]: “mas são investigados pela razão” → “mas são investigadas pela razão” — Depois da troca de “os meios” por “as coisas que se ordenam ao fim”, o particípio precisa concordar no feminino.
+- `pt-BR/g5-c014.md` [50]: “se segue o padecer injustiça” → “se segue o sofrer injustiça” — Key Terms: iniustum pati → “sofrer injustiça”; a troca da rodada anterior contrariava a linha específica e o Diário.
+- `pt-BR/g5-c014.md` [50]: “ele padece voluntariamente injustiça” → “ele sofre voluntariamente injustiça” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c014.md` [50]: “nem todo padecer injustiça” → “nem todo sofrer injustiça” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c014.md` [52]: “alguém padecer injustiça voluntariamente” → “alguém sofrer injustiça voluntariamente” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c014.md` [52]: “nem todo padecer injustiça” → “nem todo sofrer injustiça” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c014.md` [56]: “com vontade plena, padecer injustiça” → “com vontade plena, sofrer injustiça” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c014.md` [57]: “não padece injustiça, falando por si” → “não sofre injustiça, falando por si” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c014.md` [57]: “Tal homem não padece injustiça” → “Tal homem não sofre injustiça” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c014.md` [57]: “mas padecer injustiça não está no poder daquele que a padece” → “mas sofrer injustiça não está no poder daquele que a sofre” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c014.md` [57]: “Portanto, padecer injustiça é involuntário” → “Portanto, sofrer injustiça é involuntário” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c014.md` [58]: “que padecer injustiça é involuntário” → “que sofrer injustiça é involuntário” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c017.md` [11]: “estaria padecendo injustiça” → “estaria sofrendo injustiça” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c017.md` [13]: “relativa a padecer injustiça” → “relativa a sofrer injustiça” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c017.md` [14]: “más: padecer injustiça” → “más: sofrer injustiça” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c017.md` [15]: “Padecer injustiça, porém, não envolve” → “Sofrer injustiça, porém, não envolve” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c017.md` [15]: “Portanto, padecer injustiça é” → “Portanto, sofrer injustiça é” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c017.md` [21]: “ou padecer injustiça de si mesmo” → “ou sofrer injustiça de si mesmo” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c017.md` [22]: “ou padecer injustiça, onde diz” → “ou sofrer injustiça, onde diz” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c017.md` [46]: “anterior a padecer injustiça” → “anterior a sofrer injustiça” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c017.md` [46]: “primeiro padeceu injustiça” → “primeiro sofreu injustiça” — Key Terms: iniustum pati → “sofrer injustiça”; acompanha o lema [10], “primeiro sofreu”.
+- `pt-BR/g5-c017.md` [46]: “padece e faz simultaneamente” → “sofre e faz simultaneamente” — Retoma o lema [10], “sofre e faz simultaneamente”.
+- `pt-BR/g5-c017.md` [47]: “estaria padecendo***” → “estaria sofrendo***” — A citação do lema precisa coincidir com [11].
+- `pt-BR/g5-c017.md` [47]: “tal pessoa padece injustiça” → “tal pessoa sofre injustiça” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c017.md` [47]: “que padecer injustiça é voluntário” → “que sofrer injustiça é voluntário” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c017.md` [49]: “alguém padecer injustiça voluntariamente” → “alguém sofrer injustiça voluntariamente” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c017.md` [55]: “cometer injustiça e padecer injustiça, são más” → “cometer injustiça e sofrer injustiça, são más” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c017.md` [55]: “a saber, padecer injustiça, é ter menos” → “a saber, sofrer injustiça, é ter menos” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c017.md` [56]: “pior do que padecê-la” → “pior do que sofrê-la” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c017.md` [56]: “Padecer injustiça, porém, não envolve” → “Sofrer injustiça, porém, não envolve” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c017.md` [56]: “aquele que padece injustiça” → “aquele que sofre injustiça” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c017.md` [56]: “que padecer injustiça é, em si” → “que sofrer injustiça é, em si” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c017.md` [57]: “que padecer injustiça seja” → “que sofrer injustiça seja” — Key Terms: iniustum pati → “sofrer injustiça”.
+- `pt-BR/g5-c017.md` [57]: “por padecer injustiça, é provocado” → “por sofrer injustiça, é provocado” — Key Terms: iniustum pati → “sofrer injustiça”.
+- Rejected: pt-BR/g5-c017.md [16], [59] — “padecer algo” e “padeça” também vieram da rodada anterior — Traduzem pati aliquid, não iniustum pati; vale a linha passio / pati / patiens → “padecer”.
+- Rejected: pt-BR/g5-c014.md [57]; pt-BR/g5-c015.md [27] — “no paciente” e “do paciente” — Seguem a linha patiens → “paciente” e estão corretos.
+- Rejected: pt-BR/translation-journal.md (linhas actus, ratio, contemperantia) — Complementos acrescentados às notas — Correspondem ao uso real: “ação” para actum em g6-c002 [42], “demonstração” em g6-c007 [79], “moderação” em g6-c009 [36] e [49].
+- Rejected: pt-BR/g6-c008.md [3], [38], [62] — “conselho” por consilium no lema e no provérbio — Segue a linha electio / consilium → “conselho”; o sentido se mantém.
+
+### Part terms 7 of 11, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente os 34 parágrafos apresentados e verificadas as 34 correções da rodada anterior; nenhum novo defeito identificado.
+- Rejected: pt-BR/g5-c017.md [48] — A auditoria aponta mais marcadores de ênfase na tradução. — A diferença corresponde aos itálicos de moechia e moechatur, conservados com suas glosas conforme decisão expressa no diário; não há defeito de formatação.
+
+### Part terms 8 of 11, Round 1 (codex, terms read)
+Verdict: 8 meaning-level, 88 minor. 238 parágrafos sinalizados examinados; 82 com deriva terminológica, além de uma correção de sentido e duas complementações do glossário.
+- `pt-BR/translation-journal.md`: “| ratio (conteúdo definidor) | noção | “Razão” ou “argumento” nos demais contextos explicativos e demonstrativos. |” → “| ratio (conteúdo definidor) | noção | “Razão” ou “argumento” nos demais contextos explicativos e demonstrativos. Também “raciocínio” para o encadeamento de proposições e “explicação” para a exposição de uma causa. |” — A tradução usa corretamente “raciocínio” e “explicação” em sentidos não definidores de ratio; completar a nota.
+- `pt-BR/translation-journal.md`: “| aegritudinalis | devido a doença; doentio | Conforme a construção; evitada a atribuição de diagnósticos modernos. |” → “| aegritudinalis | devido a doença; doentio | Conforme a construção; evitada a atribuição de diagnósticos modernos. Também “que causa doença” no sentido causativo, explicitado pela glosa do autor. |” — Em g7-c011 e g7-c012, aegritudinalia designa coisas que causam doença, conforme a glosa; completar a nota.
+- `pt-BR/g6-c011.md` [45]: “por falta de matéria” → “por deficiência de matéria” — defectus → “deficiência” (Key Terms); estava “falta”.
+- `pt-BR/g6-c011.md` [45]: “fazer grandes despesas” → “fazer grandes gastos” — sumptus → “gasto” (Key Terms); estava “despesas”.
+- `pt-BR/g6-c011.md` [46]: “dirige quanto aos meios para o fim” → “dirige quanto às coisas que se ordenam ao fim” — ea quae sunt ad finem → “coisas que se ordenam ao fim” (Key Terms); estava “meios para o fim”.
+- `pt-BR/g7-c001.md` [8]: “da molície[^1] e da vida de delícias” → “da molície[^1] e do mimo” — delicia → “mimo” (Key Terms), espécie de molície; “vida de delícias” confunde essa disposição com os deleites. *(meaning)*
+- `pt-BR/g7-c001.md` [32]: “se chamará simplesmente incontinência” → “se chamará incontinência em sentido absoluto” — simpliciter → “em sentido absoluto” (Key Terms); estava “simplesmente”.
+- `pt-BR/g7-c001.md` [48]: “chamamos simplesmente virtude” → “chamamos virtude em sentido absoluto” — simpliciter → “em sentido absoluto” (Key Terms); estava “simplesmente”.
+- `pt-BR/g7-c001.md` [48]: “chamamos simplesmente malícia” → “chamamos malícia em sentido absoluto” — simpliciter → “em sentido absoluto” (Key Terms); estava “simplesmente”.
+- `pt-BR/g7-c002.md` [15]: “buscando e escolhendo os deleites” → “buscando e escolhendo as coisas deleitáveis” — delectabilia → “coisas deleitáveis”; preservar a distinção entre os objetos buscados e o deleite que causam. *(meaning)*
+- `pt-BR/g7-c002.md` [58]: “busca e escolhe os deleites como bens em si mesmos” → “busca e escolhe as coisas deleitáveis como bens em si mesmos” — delectabilia → “coisas deleitáveis”; preservar a distinção entre os objetos escolhidos e o deleite. *(meaning)*
+- `pt-BR/g7-c003.md` [5]: “por simplesmente se dispor em relação a essas coisas” → “por se dispor em sentido absoluto em relação a essas coisas” — simpliciter → “em sentido absoluto” (Key Terms); estava “simplesmente”.
+- `pt-BR/g7-c003.md` [31]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g7-c003.md` [66]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g7-c003.md` [74]: “ocorre a falha no incontinente” → “ocorre a deficiência no incontinente” — defectus → “deficiência” (Key Terms); estava “falha”.
+- `pt-BR/g7-c003.md` [79]: “este objeto de concupiscência deve ser evitado” → “este objeto concupiscível deve ser evitado” — concupiscibile → “concupiscível” (Key Terms); estava parafraseado como “objeto de concupiscência”.
+- `pt-BR/g7-c004.md` [6]: “busca os excessos dos deleites” → “busca os excessos das coisas deleitáveis” — delectabilium → “das coisas deleitáveis”; o texto distingue os objetos buscados do deleite. *(meaning)*
+- `pt-BR/g7-c004.md` [6]: “contra a escolha e o entendimento” → “contra a escolha e o intelecto” — intellectus → “intelecto” (Key Terms); estava “entendimento”.
+- `pt-BR/g7-c004.md` [16]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g7-c004.md` [27]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g7-c004.md` [30]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g7-c004.md` [43]: “contra o entendimento reto que neles existe” → “contra o intelecto reto que neles existe” — intellectus → “intelecto” (Key Terms); estava “entendimento”.
+- `pt-BR/g7-c005.md` [19]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g7-c006.md` [13]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g7-c006.md` [26]: “furtou o intelecto do homem intensamente, isto é, muito sábio” → “furtou intensamente, isto é, muito, o intelecto do sábio” — spisse, id est multum modifica o furto do intelecto, não sapientis; a tradução ligava indevidamente os advérbios a “sábio”. *(meaning)*
+- `pt-BR/g7-c006.md` [31]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c006.md` [37]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c006.md` [39]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c007.md` [16]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g7-c007.md` [19]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g7-c007.md` [22]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g7-c007.md` [25]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g7-c007.md` [31]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c007.md` [33]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c007.md` [37]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c007.md` [41]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c007.md` [47]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c007.md` [50]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c007.md` [51]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c007.md` [53]: “se antecipa à deliberação” → “se antecipa ao conselho” — consilium → “conselho” (Key Terms); estava “deliberação”.
+- `pt-BR/g7-c007.md` [55]: “não é refreada pela deliberação” → “não é refreada pelo conselho” — consilium → “conselho” (Key Terms); estava “deliberação”.
+- `pt-BR/g7-c008.md` [13]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g7-c008.md` [16]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g7-c008.md` [23]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c008.md` [28]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c008.md` [31]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c008.md` [37]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c009.md` [15]: “ambos buscam os deleites corporais” → “ambos buscam as coisas deleitáveis corporais” — corporalia delectabilia → “coisas deleitáveis corporais”; preservar a distinção entre os objetos buscados e o deleite. *(meaning)*
+- `pt-BR/g7-c009.md` [20]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g7-c009.md` [27]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g7-c009.md` [34]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c009.md` [40]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c009.md` [45]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c009.md` [46]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c009.md` [47]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c009.md` [59]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c009.md` [67]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c009.md` [67]: “ambos buscam, isto é, procuram, os deleites corporais” → “ambos buscam, isto é, procuram, as coisas deleitáveis corporais” — delectabilia corporalia → “coisas deleitáveis corporais”; preservar a distinção entre os objetos buscados e o deleite. *(meaning)*
+- `pt-BR/g7-c009.md` [67]: “se devem buscar esses deleites” → “se devem buscar essas coisas deleitáveis” — huiusmodi delectabilia designa as coisas deleitáveis, não os deleites. *(meaning)*
+- `pt-BR/g7-c010.md` [9]: “disse em tom de censura” → “disse em tom de troça” — convicium → “troça” (Key Terms); conviciatus estava parafraseado como “em tom de censura”.
+- `pt-BR/g7-c010.md` [23]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c010.md` [27]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g7-c010.md` [29]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g7-c010.md` [37]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c010.md` [37]: “como quem o pratica por deliberação e escolha” → “como quem o pratica por conselho e escolha” — consilium → “conselho” (Key Terms); estava “deliberação”.
+- `pt-BR/g7-c010.md` [37]: “nenhum dos dois grupos pratica o mal por deliberação e escolha” → “nenhum dos dois grupos pratica o mal por conselho e escolha” — consilium → “conselho” (Key Terms); estava “deliberação”.
+- `pt-BR/g7-c010.md` [39]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c010.md` [42]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c010.md` [43]: “curados mediante a deliberação” → “curados mediante o conselho” — consilium → “conselho” (Key Terms); estava “deliberação”.
+- `pt-BR/g7-c011.md` [4]: “deram ao feliz um nome” → “deram ao bem-aventurado um nome” — beatus → “bem-aventurado” (Key Terms); estava “feliz”.
+- `pt-BR/g7-c011.md` [17]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g7-c011.md` [22]: “entre os gregos o feliz recebe seu nome” → “entre os gregos o bem-aventurado recebe seu nome” — beatus → “bem-aventurado” (Key Terms); estava “feliz”.
+- `pt-BR/g7-c011.md` [23]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c011.md` [26]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g7-c011.md` [37]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c011.md` [48]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c011.md` [49]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c012.md` [6]: “más para os recursos financeiros” → “más para o dinheiro” — pecunia → “dinheiro” (Key Terms); estava “recursos financeiros”.
+- `pt-BR/g7-c012.md` [33]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c012.md` [41]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c012.md` [41]: “prejudicam os recursos financeiros que neles se gastam” → “prejudicam o dinheiro que neles se gasta” — pecunia → “dinheiro” (Key Terms); estava “recursos financeiros”.
+- `pt-BR/g7-c012.md` [41]: “os remédios, os recursos financeiros” → “os remédios, o dinheiro” — pecunia → “dinheiro” (Key Terms); estava “recursos financeiros”.
+- `pt-BR/g7-c012.md` [42]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c012.md` [47]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c012.md` [48]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c013.md` [19]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g7-c013.md` [22]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g7-c013.md` [29]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c013.md` [33]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c013.md` [38]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g7-c013.md` [41]: “Quanto ao primeiro ponto, faz duas coisas” → “Acerca do primeiro, faz duas coisas” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g7-c013.md` [42]: “por algum defeito que possuem” → “por alguma deficiência que possuem” — defectus → “deficiência” (Key Terms); estava “defeito”.
+- `pt-BR/g7-c013.md` [42]: “por um defeito dos princípios” → “por uma deficiência dos princípios” — defectus → “deficiência” (Key Terms); estava “defeito”.
+- `pt-BR/g7-c013.md` [42]: “por um defeito da matéria” → “por uma deficiência da matéria” — defectus → “deficiência” (Key Terms); estava “defeito”.
+- `pt-BR/g7-c013.md` [44]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c013.md` [46]: “para que a falta deles não impeça” → “para que a deficiência deles não impeça” — defectus → “deficiência” (Key Terms); estava “falta”.
+
+### Part terms 8 of 11, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 4 minor. Delta read das correções de terms 8/11. A correção de g7-c006 [26] invertia o sentido e foi revertida; corrigidas também uma nota e uma entrada do diário que ainda citavam “feliz”, a inconsistência “censura”/“troça” em g7-c010 e a linha deliciae do glossário. As demais correções conferem com a fonte.
+- `pt-BR/g7-c006.md` [26]: “furtou intensamente, isto é, muito, o intelecto do sábio” → “furtou o intelecto daquele que é intensamente, isto é, muito, sábio” — spisse, id est multum modifica sapientis, como confirma a glosa seguinte do autor, eorum qui sunt multum sapientes; a correção anterior ligou os advérbios ao furto *(meaning)*
+- `pt-BR/g7-c011.md` [4]: “nos termos portugueses “feliz” e “alegrar-se”” → “nos termos portugueses “bem-aventurado” e “alegrar-se”” — o lema agora traz “bem-aventurado” (beatus); a nota do tradutor ainda cita “feliz”
+- `pt-BR/g7-c010.md` [40]: “como Anaxândrides disse em tom de censura:” → “como Anaxândrides disse em tom de troça:” — convitiando retoma o conviciatus do lema [9], agora vertido por “em tom de troça”; manter a mesma tradução no comentário
+- `pt-BR/translation-journal.md`: “| deliciae | vida de delícias | Disposição ligada à molície e à dificuldade de suportar as tristezas. |” → “| deliciae | vida de delícias | Disposição ligada à molície e à dificuldade de suportar as tristezas. Em g7-c001, lema [1304], “mimo”, conforme *delicia / delicatus*. |” — g7-c001 [8] agora traduz deliciis por “mimo”; a linha afirmava “vida de delícias”
+- `pt-BR/translation-journal.md`: “esclarecendo que a derivação do nome do feliz a partir de alegrar-se” → “esclarecendo que a derivação do nome do bem-aventurado a partir de alegrar-se” — o lema [1472] agora traz “bem-aventurado” para beatus
+- Rejected: pt-BR/g7-c010.md [37] — “mau absolutamente” para simpliciter, em vez de “em sentido absoluto” — o próprio Key Terms registra as duas formas para simpliciter; não é uma alteração deste round
+- Rejected: pt-BR/translation-journal.md (praevolatio) — a nota diz “se antecipa à deliberação”, mas o texto agora traz “ao conselho” — a nota descreve o sentido e não declara uma forma do texto; o próprio Key Terms define “conselho” como o ato de deliberação
+
+### Part terms 8 of 11, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 1 minor. Verificadas as cinco alterações, os nove parágrafos exibidos e a nota do tradutor; encontrada uma omissão parentética menor.
+- `pt-BR/g7-c006.md` [27]: “é incontinência em sentido absoluto” → “é (incontinência) incontinência em sentido absoluto” — A fonte traz a repetição editorial «(incontinentia) incontinentia»; conservar também o termo parentético.
+- Rejected: pt-BR/g7-c006.md [26] — Ligação de «intensamente, isto é, muito» a «sábio». — A glosa «eorum qui sunt multum sapientes» confirma essa ligação; a correção está correta.
+
+### Part terms 8 of 11, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of g7-c006 [26]–[28]: the parenthetical “(incontinência)” restored in [27] matches the source; no defects found.
+- Rejected: pt-BR/g7-c006.md [28] — “falando por si” for *per se loquendo* could read as “speaking for himself”. — It follows the Key Terms row (per se → “por si”), and the parenthesis contrasts it with “por acidente”, so the sense is clear.
+- Rejected: pt-BR/g7-c006.md [26] — “impede” for *ligat*, which means “binds”. — It fits the sense of an impeded judgment and agrees with the Key Terms row “hábito impedido” (*habitus ligatus*); a defensible choice.
+- Rejected: mechanical audit (g7-c006 [8], [37]; Key Terms rows) — Emphasis markers differ; some Key Terms rows have zero occurrences. — Those paragraphs and terms are not in the touched text shown in this delta read; they are left to their own reads.
+
+### Part terms 9 of 11, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 126 minor. Lidos os 256 parágrafos sinalizados; identificadas 124 ocorrências de deriva terminológica e completadas 2 linhas do glossário. (Round 2: a alteração da linha repletio / defectus não fora aplicada e foi refeita; as alterações de g8-c002 [8] e g8-c008 [35] foram revertidas aos termos da tabela.)
+- `pt-BR/g7-c013.md` [48]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c013.md` [54]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c013.md` [55]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c014.md` [22]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c014.md` [27]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c014.md` [32]: “pela menor falta de coisas deleitáveis” → “por uma pequena deficiência de coisas deleitáveis” — *defectus* → “deficiência” (Key Terms); *modico* indica uma deficiência pequena.
+- `pt-BR/g7-c014.md` [33]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c014.md` [37]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c014.md` [42]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g7-c014.md` [47]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c014.md` [50]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c014.md` [55]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c014.md` [61]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c014.md` [62]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c014.md` [63]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c014.md` [67]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g7-c014.md` [70]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c001.md` [3]: “Na pobreza e nas demais adversidades,” → “Na pobreza e nos demais infortúnios,” — *infortuniis* → “infortúnios” (Key Terms); estava “adversidades”.
+- `pt-BR/g8-c001.md` [15]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g8-c001.md` [29]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c001.md` [33]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g8-c001.md` [37]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c001.md` [39]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c001.md` [40]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c002.md` [8]: “a amizade é benevolência correspondida” → “a amizade é benevolência recíproca” — *in contrapassis* exprime reciprocidade (Key Terms); conserva-se o conceito com o adjetivo “recíproca”.
+- `pt-BR/g8-c002.md` [15]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g8-c002.md` [25]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c002.md` [26]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c002.md` [30]: “a saber, o bom, o deleitável e o útil” → “a saber, o bem, o deleitável e o útil” — *bonum* substantivado → “bem” (Key Terms); estava “o bom”.
+- `pt-BR/g8-c002.md` [35]: “certa troca de amor” → “certa comutação de amor” — *commutationem* → “comutação” (Key Terms), explicitamente segundo a justiça comutativa.
+- `pt-BR/g8-c002.md` [37]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c003.md` [25]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g8-c003.md` [28]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g8-c003.md` [35]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g8-c003.md` [40]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c003.md` [45]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g8-c003.md` [48]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g8-c003.md` [52]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c003.md` [53]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c003.md` [60]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c003.md` [66]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c003.md` [76]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c003.md` [81]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c004.md` [15]: “Quanto ao primeiro ponto, faz duas coisas.” → “Acerca do primeiro, faz duas coisas.” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g8-c004.md` [21]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g8-c004.md` [27]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c004.md` [28]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c004.md` [29]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c004.md` [33]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c005.md` [21]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c005.md` [29]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c005.md` [30]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c005.md` [31]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c006.md` [23]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c006.md` [32]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c006.md` [35]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c006.md` [41]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c006.md` [47]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c007.md` [18]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g8-c007.md` [26]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c007.md` [33]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c007.md` [41]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c007.md` [42]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c007.md` [46]: “se fará a troca segundo a igualdade” → “se fará a comutação segundo a igualdade” — *commutatio* → “comutação” (Key Terms), no contexto técnico da justiça.
+- `pt-BR/g8-c007.md` [48]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c007.md` [56]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c008.md` [16]: “O desejo dirige-se ao meio-termo” → “O apetite dirige-se ao meio-termo” — *Appetitus* → “apetite” (Key Terms); estava “desejo”.
+- `pt-BR/g8-c008.md` [29]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c008.md` [35]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c008.md` [35]: “ser amado é antes como que receber bem uma ação” → “ser amado é antes como que padecer bem” — *bene pati* → “padecer bem” (Key Terms), no sentido técnico de receber uma ação.
+- `pt-BR/g8-c008.md` [37]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c008.md` [42]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c008.md` [46]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c008.md` [53]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c009.md` [22]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g8-c009.md` [29]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c009.md` [35]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c009.md` [43]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c009.md` [49]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c010.md` [18]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g8-c010.md` [21]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g8-c010.md` [29]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c010.md` [30]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c010.md` [34]: “Quanto ao primeiro ponto, faz duas coisas.” → “Acerca do primeiro, faz duas coisas.” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g8-c010.md` [38]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c010.md` [39]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c010.md` [44]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c010.md` [56]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c010.md` [62]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c011.md` [25]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g8-c011.md` [29]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c011.md` [41]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c011.md` [42]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c011.md` [43]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c011.md` [49]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c011.md` [55]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c011.md` [57]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c011.md` [58]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c012.md` [32]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c012.md` [35]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g8-c012.md` [55]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c012.md` [58]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c012.md` [59]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c012.md` [63]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c012.md` [64]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c012.md` [65]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c012.md` [72]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c012.md` [77]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c012.md` [78]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c012.md` [83]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g8-c012.md` [86]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g8-c012.md` [93]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c012.md` [95]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c012.md` [96]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c012.md` [97]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c013.md` [16]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c013.md` [20]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c013.md` [31]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c013.md` [32]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c013.md` [33]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c013.md` [36]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g8-c013.md` [39]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g8-c013.md` [42]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — *Circa primum duo facit* → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g8-c013.md` [51]: “quando a troca de utilidade” → “quando a comutação de utilidade” — *commutatio* → “comutação” (Key Terms), na reciprocidade das prestações.
+- `pt-BR/translation-journal.md`: “| consuetudo / assuetudo / habitus | costume / costume, habituação / hábito | “Hábito” reservado preferencialmente à disposição adquirida; o costume designa a prática reiterada que a produz. “Convivência” ou “familiaridade” quando consuetudo designa o trato habitual entre pessoas. |” → “| consuetudo / assuetudo / habitus | costume / costume, habituação / hábito | “Hábito” reservado preferencialmente à disposição adquirida; o costume designa a prática reiterada que a produz. *Consuetudo* e *assuetudo* também se traduzem por “familiaridade” quando designam a convivência reiterada pela qual os amigos se conhecem. |” — As ocorrências em g8-c003 e g8-c006 empregam consistentemente “familiaridade” no sentido próprio de convivência e conhecimento mútuo; a nota deve registrar esse sentido.
+- `pt-BR/translation-journal.md`: “| repletio / defectus | repleção / deficiência | Conservada a amplitude dos termos, que não se restringem à alimentação. “Falta” quando defectus designa ausência de proporção; “falha” quando designa o descumprimento de uma prestação prometida. |” → “| repletio / defectus | repleção / deficiência | Conservada a amplitude dos termos, que não se restringem à alimentação. Fora do contraste com a repleção, *defectus* também admite “falta” quando designa a ausência do ato, “defeito” quando designa imperfeições humanas e “inferioridade” quando designa uma condição relativa entre amigos desiguais. |” — Os usos recorrentes de *defectus* como ausência do ato, imperfeição humana e inferioridade relativa são distintos da deficiência contraposta à repleção; os equivalentes empregados são adequados.
+
+### Part terms 9 of 11, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 5 minor. Delta read of round 1's changes in g7-c013 to g8-c013 and the journal: 2 changes reverted to the Key Terms, 1 occurrence of “onde diz” missed, the defectus row completed and the review log corrected.
+- `pt-BR/g8-c002.md` [8]: “a amizade é benevolência recíproca” → “a amizade é benevolência correspondida” — Key Terms: benevolentia in contrapassis → “benevolência correspondida”, as the commentary in [35] still has; the round-1 change made the lemma and its commentary disagree
+- `pt-BR/g8-c008.md` [35]: “ser amado é antes como que padecer bem” → “ser amado é antes como que receber o bem” — Key Terms, row passio / pati: “Receber o bem” for bene pati, as opposed to fazer o bem; the round-1 change went against that row
+- `pt-BR/g8-c013.md` [52]: “Em seguida, onde diz:” → “Em seguida, quando diz:” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms); occurrence missed in round 1
+- `pt-BR/translation-journal.md`: “Verdict: 0 meaning-level, 126 minor. Lidos os 256 parágrafos sinalizados; identificadas 124 ocorrências de deriva terminológica e completadas 2 linhas do glossário.” → “Verdict: 0 meaning-level, 126 minor. Lidos os 256 parágrafos sinalizados; identificadas 124 ocorrências de deriva terminológica e completadas 2 linhas do glossário. (Round 2: a alteração da linha repletio / defectus não fora aplicada e foi refeita; as alterações de g8-c002 [8] e g8-c008 [35] foram revertidas aos termos da tabela.)” — The review log stated an edit that did not take effect
+- NOT APPLIED (old text not found exactly once (2)): - `pt-BR/translation-journal.md`: ““Defeito” para defectus quando designa uma imperfeição corporal censurável ou não censurável. |” → ““Defeito” para defectus quando designa uma imperfeição corporal censurável ou não censurável. Fora do contraste com a repleção, *defectus* também admite “falta” quando designa a ausência do ato (g8-c005, § 1597) e “inferioridade” quando designa a condição relativa entre amigos desiguais (g8-c008, § 1649; g8-c013, § 1727). |” — Round 1 says this row was completed, but the row as it stands lacks the text; the renderings “falta” and “inferioridade” occur in the places cited
+- Rejected: pt-BR/g8-c002.md [37] — “por causa do bom” after [30] was changed to “o bem” — bonum used adjectivally beside delectabile / utile is acceptable; no Key Terms row is violated
+- Rejected: pt-BR/g8-c007.md [46], g8-c002 [35], g8-c013 [51] — “comutação” for commutatio — Matches the commutatio row and the technical context of commutative justice
+- Rejected: pt-BR/g8-c010.md [34] — period after “faz duas coisas”, where the source has a comma — The next paragraph opens with a capital letter (“Primeiro”), so the sentence is consistent
+
+### Part terms 9 of 11, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 1 minor. Verificadas as quatro alterações, os nove parágrafos apresentados e a nota do tradutor; texto sem novos defeitos, com um complemento do glossário ainda não aplicado.
+- NOT APPLIED (old text not found exactly once (2)): - `pt-BR/translation-journal.md`: “| repletio / defectus | repleção / deficiência | Conservada a amplitude dos termos, que não se restringem à alimentação. “Defeito” para defectus quando designa uma imperfeição corporal censurável ou não censurável. |” → “| repletio / defectus | repleção / deficiência | Conservada a amplitude dos termos, que não se restringem à alimentação. “Defeito” para defectus quando designa uma imperfeição corporal censurável ou não censurável. Fora do contraste com a repleção, *defectus* também admite “falta” quando designa a ausência do ato e “inferioridade” quando designa uma condição relativa entre amigos desiguais. |” — O histórico registra esses sentidos e afirma que a linha foi completada, mas também documenta que a tentativa não foi aplicada. A linha atual ainda carece do complemento; copiar a linha inteira distingue-a das citações no histórico.
+- Rejected: pt-BR/g8-c002.md [9] — Itálico em epiikes sem destaque correspondente na fonte. — O destaque segue a decisão expressa de conservar em itálico os termos gregos transliterados.
+
+### Part terms 10 of 11, Round 1 (codex, terms read)
+Verdict: 7 meaning-level, 153 minor. 236 parágrafos sinalizados examinados; 139 continham deriva terminológica; 8 linhas do glossário receberam acepções adicionais.
+- `pt-BR/translation-journal.md`: “| dignitas | mérito; dignidade | “Mérito” na correspondência entre o valor da pessoa e aquilo de que é digna; “dignidade” para posição ou condição de honra. |” → “| dignitas | mérito; dignidade | “Mérito” na correspondência entre o valor da pessoa e aquilo de que é digna; “dignidade” para posição ou condição de honra. “Valor” quando designa o valor de bens, serviços ou ensinamentos e a retribuição correspondente. |” — As ocorrências distinguem corretamente o valor de coisas e serviços do mérito ou da dignidade pessoal.
+- `pt-BR/translation-journal.md`: “| dignitas / proportionalitas | dignidade / proporcionalidade | “Dignidade” conserva o critério de merecimento relativo à distribuição. |” → “| dignitas / proportionalitas | dignidade / proporcionalidade | “Dignidade” conserva o critério de merecimento relativo à distribuição. “Valor” quando dignitas designa o valor de bens, serviços ou ensinamentos e a retribuição correspondente. |” — Acrescenta a acepção de avaliação de coisas e serviços, reiterada nestas ocorrências.
+- `pt-BR/translation-journal.md`: “| dignitas / secundum dignitatem | dignidade / segundo a dignidade | Conservado na proporção do amor, na justiça e na distribuição de funções. |” → “| dignitas / secundum dignitatem | dignidade / segundo a dignidade | Conservado na proporção do amor, na justiça e na distribuição de funções. “Valor” e “segundo o valor” quando se trata da avaliação de bens, serviços ou ensinamentos e da retribuição correspondente. |” — Registra a acepção econômica de valor, corretamente empregada de modo consistente.
+- `pt-BR/translation-journal.md`: “| repletio / defectus | repleção / deficiência | Conservada a amplitude dos termos, que não se restringem à alimentação. |” → “| repletio / defectus | repleção / deficiência | Conservada a amplitude dos termos, que não se restringem à alimentação. “Falta” quando defectus designa ausência de proporção; “falha” quando designa o descumprimento de uma prestação prometida. |” — As ocorrências apresentam acepções de ausência e descumprimento, corretamente diferenciadas de deficiência.
+- `pt-BR/translation-journal.md`: “| medietas / superabundantia / defectus | meio-termo / excesso / deficiência | Terminologia da geração e corrupção das virtudes. |” → “| medietas / superabundantia / defectus | meio-termo / excesso / deficiência | Terminologia da geração e corrupção das virtudes. Fora desse contexto, “falta” quando defectus designa ausência de proporção; “falha” quando designa o descumprimento de uma prestação prometida. |” — Explicita as acepções de defectus presentes na discussão da retribuição entre amigos.
+- `pt-BR/translation-journal.md`: “| communicatio / politica communicatio / oeconomica communicatio | associação / associação política / associação doméstica | Conforme o contexto, *communicare* e *communicatio* exprimem também “ter algo em comum”. Na amizade entendida como partilha de vida, *communicatio* também é “comunhão”; na partilha de atividades, “participação”. |” → “| communicatio / politica communicatio / oeconomica communicatio | associação / associação política / associação doméstica | Conforme o contexto, *communicare* e *communicatio* exprimem também “ter algo em comum”. “Troca” nas relações de prestação e retribuição; “partilha”, “comunhão” ou “comunicação” quando designa o pôr em comum bens, palavras, conhecimentos ou virtude. |” — Registra acepções reiteradas que não designam uma associação constituída.
+- `pt-BR/translation-journal.md`: “| consuetudo / assuetudo / habitus | costume / costume, habituação / hábito | “Hábito” reservado preferencialmente à disposição adquirida; o costume designa a prática reiterada que a produz. |” → “| consuetudo / assuetudo / habitus | costume / costume, habituação / hábito | “Hábito” reservado preferencialmente à disposição adquirida; o costume designa a prática reiterada que a produz. “Convivência” ou “familiaridade” quando consuetudo designa o trato habitual entre pessoas. |” — Consuetudo designa corretamente convivência ou familiaridade nas ocorrências sobre amizade.
+- `pt-BR/translation-journal.md`: “| lucrum / damnum | ganho / perda | No contraste técnico da justiça comutativa; *damnum* também é “dano” quando designa a lesão causada. |” → “| lucrum / damnum | ganho / perda | No contraste técnico da justiça comutativa; *damnum* também é “dano” quando designa a lesão causada. “Lucro” quando lucrum designa o proveito financeiro buscado, sem o contraste técnico entre ganho e perda. |” — As ocorrências empregam consistentemente lucro para o proveito financeiro esperado.
+- `pt-BR/g8-c013.md` [59]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c013.md` [59]: “a troca não ocorrer” → “a comutação não ocorrer” — commutatio → “comutação” (Key Terms); estava “troca”.
+- `pt-BR/g8-c013.md` [61]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c013.md` [61]: “um amigo contra a vontade” → “um amigo involuntário” — involuntarium → “involuntário” (Key Terms).
+- `pt-BR/g8-c013.md` [63]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c014.md` [3]: “numa associação de capitais” → “numa associação em que se põe dinheiro em comum” — pecunia → “dinheiro” (Key Terms), conservando a associação indicada por communicatione.
+- `pt-BR/g8-c014.md` [18]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c014.md` [22]: “nos negócios com capital comum” → “nos negócios com dinheiro comum” — pecunia → “dinheiro” (Key Terms); estava “capital”.
+- `pt-BR/g8-c014.md` [23]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c014.md` [24]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c014.md` [29]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c014.md` [34]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c014.md` [36]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g8-c014.md` [37]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c001.md` [17]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g9-c001.md` [20]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g9-c001.md` [28]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c001.md` [30]: “numa troca regulada pela justiça” → “numa comutação regulada pela justiça” — commutatio → “comutação” (Key Terms).
+- `pt-BR/g9-c001.md` [30]: “nas trocas entre cidadãos” → “nas comutações entre cidadãos” — commutationibus → “comutações” (Key Terms).
+- `pt-BR/g9-c001.md` [30]: “a saber, o dinheiro, ao qual” → “a saber, o denário, ao qual” — denarius → “denário” (Key Terms).
+- `pt-BR/g9-c001.md` [30]: “pelo dinheiro se mede o seu preço” → “pelos denários se mede o seu preço” — per denarios → “pelos denários” (Key Terms).
+- `pt-BR/g9-c001.md` [34]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g9-c001.md` [40]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c001.md` [41]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c001.md` [43]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c001.md` [47]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g9-c001.md` [50]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g9-c001.md` [54]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c001.md` [55]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c001.md` [60]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c001.md` [66]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c001.md` [70]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c001.md` [71]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c002.md` [6]: “não há igualdade de valor” → “não há igualdade de dignidade” — dignitas → “dignidade” na comparação do merecimento dos beneficiários (Key Terms).
+- `pt-BR/g9-c002.md` [7]: “os raciocínios acerca das paixões” → “os argumentos acerca das paixões” — rationes → “argumentos” no contexto explicativo (Key Terms).
+- `pt-BR/g9-c002.md` [8]: “para os atos a elas relacionados” → “para as ações a elas relacionadas” — actiones → “ações” (Key Terms); estava “atos”.
+- `pt-BR/g9-c002.md` [18]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c002.md` [22]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c002.md` [36]: “não têm o mesmo valor retribuir-lhe” → “não têm a mesma dignidade retribuir-lhe” — dignitas → “dignidade” na comparação do merecimento dos beneficiários (Key Terms).
+- `pt-BR/g9-c002.md` [37]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c002.md` [37]: “os raciocínios acerca das ações” → “os argumentos acerca das ações” — rationes → “argumentos” no contexto explicativo (Key Terms).
+- `pt-BR/g9-c002.md` [38]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c002.md` [41]: “o mesmo raciocínio vale” → “o mesmo argumento vale” — ratio → “argumento” no contexto explicativo (Key Terms).
+- `pt-BR/g9-c002.md` [42]: “para os atos relacionados às núpcias” → “para as ações relacionadas às núpcias” — actiones → “ações” (Key Terms); estava “atos”.
+- `pt-BR/g9-c002.md` [43]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c002.md` [48]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c003.md` [3]: “por causa da utilidade ou do deleite” → “por causa do útil ou do deleitável” — utile / delectabile → “útil / deleitável”; o deleitável é o objeto que causa deleite, conforme a distinção do glossário. *(meaning)*
+- `pt-BR/g9-c003.md` [4]: “por causa da utilidade ou do deleite” → “por causa do útil ou do deleitável” — utile / delectabile → “útil / deleitável”; conserva a distinção entre o objeto amável e o deleite que causa. *(meaning)*
+- `pt-BR/g9-c003.md` [8]: “quanto aos costumes do que quanto aos bens” → “quanto aos costumes do que quanto ao patrimônio” — substantia → “patrimônio” no contexto econômico (Key Terms).
+- `pt-BR/g9-c003.md` [10]: “um homem excelente” → “um homem ótimo” — optimus → “ótimo” (Key Terms).
+- `pt-BR/g9-c003.md` [17]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g9-c003.md` [25]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c003.md` [28]: “por causa da utilidade ou do deleite” → “por causa do útil ou do deleitável” — utile / delectabile → “útil / deleitável”; conserva a distinção entre o objeto amável e o deleite que causa. *(meaning)*
+- `pt-BR/g9-c003.md` [29]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c003.md` [31]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c003.md` [34]: “Quanto ao primeiro ponto, faz duas coisas.” → “Acerca do primeiro, faz duas coisas.” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g9-c003.md` [39]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c003.md` [41]: “recuperar os bens perdidos” → “recuperar o patrimônio perdido” — substantia → “patrimônio” no contexto econômico (Key Terms).
+- `pt-BR/g9-c003.md` [42]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c003.md` [44]: “um homem excelente” → “um homem ótimo” — optimus → “ótimo” (Key Terms).
+- `pt-BR/g9-c003.md` [45]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c004.md` [13]: “a amizade em grau eminente” → “a superabundância de amizade” — superabundantia → “superabundância” quanto à intensidade da amizade (Key Terms).
+- `pt-BR/g9-c004.md` [15]: “por timidez e preguiça” → “por covardia e preguiça” — timiditas → “covardia” (Key Terms); timidez pode designar inibição social, outro conceito. *(meaning)*
+- `pt-BR/g9-c004.md` [19]: “esses deleites lhe tivessem ocorrido” → “essas coisas deleitáveis lhe tivessem ocorrido” — delectabilia → “coisas deleitáveis”; conserva a distinção entre os objetos e o deleite causado. *(meaning)*
+- `pt-BR/g9-c004.md` [28]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g9-c004.md` [32]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c004.md` [41]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c004.md` [50]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c004.md` [51]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c004.md` [57]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c004.md` [59]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c004.md` [67]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c004.md` [68]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c004.md` [68]: “temos amizade por alguém em grau eminente” → “temos amizade por alguém de modo superabundante” — superabundanter → “de modo superabundante”, conservando a terminologia da intensidade do amor.
+- `pt-BR/g9-c004.md` [68]: “convém em grau eminente ao homem” → “convém de modo superabundante ao homem” — superabundanter → “de modo superabundante”, conservando a terminologia da intensidade do amor.
+- `pt-BR/g9-c004.md` [69]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c004.md` [72]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g9-c004.md` [76]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c004.md` [80]: “por timidez e preguiça” → “por covardia e preguiça” — timiditas → “covardia” (Key Terms); timidez pode designar inibição social, outro conceito. *(meaning)*
+- `pt-BR/g9-c004.md` [83]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c004.md` [84]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c004.md` [87]: “não ter recebido tais deleites” → “não ter recebido tais coisas deleitáveis” — delectabilia → “coisas deleitáveis”; conserva a distinção entre os objetos e o deleite causado. *(meaning)*
+- `pt-BR/g9-c004.md` [88]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c005.md` [4]: “tensão nem desejo” → “tensão nem apetite” — appetitus → “apetite” (Key Terms), aqui como componente do amor.
+- `pt-BR/g9-c005.md` [9]: “bom, corajoso ou algo semelhante” → “bom, forte ou algo semelhante” — fortis → “forte” (Key Terms).
+- `pt-BR/g9-c005.md` [14]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g9-c005.md` [17]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g9-c005.md` [20]: “Quanto ao primeiro ponto, faz duas coisas.” → “Acerca do primeiro, faz duas coisas.” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g9-c005.md` [25]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c005.md` [28]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c005.md` [34]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c005.md` [37]: “Quanto ao primeiro ponto, faz duas coisas.” → “Acerca do primeiro, faz duas coisas.” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g9-c005.md` [41]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c006.md` [7]: “uma parte excessiva das vantagens” → “uma parte excessiva das coisas úteis” — utilia → “coisas úteis” (Key Terms); estava “vantagens”.
+- `pt-BR/g9-c006.md` [11]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g9-c006.md` [14]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g9-c006.md` [18]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c006.md` [28]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c006.md` [29]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c006.md` [34]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c007.md` [11]: “os que adquirem riquezas” → “os que adquirem dinheiro” — pecunia → “dinheiro” (Key Terms), cuja acepção ampla é expressamente conservada.
+- `pt-BR/g9-c007.md` [20]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c007.md` [23]: “amam excessivamente seus próprios poemas” → “amam de modo superabundante seus próprios poemas” — superabundanter conserva “superabundância” quanto à intensidade do amor (Key Terms).
+- `pt-BR/g9-c007.md` [24]: “naquilo que é movido e que recebe a ação” → “naquilo que é movido e que padece” — patiens → forma de “padecer” no sentido técnico de receber uma ação (Key Terms).
+- `pt-BR/g9-c008.md` [9]: “uma parte maior das riquezas” → “uma parte maior do dinheiro” — pecunia → “dinheiro” (Key Terms), cuja acepção ampla é expressamente conservada.
+- `pt-BR/g9-c008.md` [14]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g9-c008.md` [22]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c008.md` [29]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c008.md` [33]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c008.md` [34]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c008.md` [38]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c008.md` [41]: “Quanto ao primeiro ponto, faz duas coisas:” → “Acerca do primeiro, faz duas coisas:” — Circa primum duo facit → “Acerca do primeiro, faz duas coisas” (Key Terms).
+- `pt-BR/g9-c008.md` [44]: “isto é, das riquezas, das honras” → “isto é, do dinheiro, das honras” — pecunia → “dinheiro” (Key Terms), cuja acepção ampla é expressamente conservada.
+- `pt-BR/g9-c008.md` [46]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c009.md` [12]: “abrirá mão das riquezas” → “abrirá mão do dinheiro” — pecunia → “dinheiro” (Key Terms), cuja acepção ampla é expressamente conservada.
+- `pt-BR/g9-c009.md` [14]: “abrem mão das riquezas” → “abrem mão do dinheiro” — pecunia → “dinheiro” (Key Terms).
+- `pt-BR/g9-c009.md` [14]: “as riquezas ficam para o amigo” → “o dinheiro fica para o amigo” — pecunia → “dinheiro” (Key Terms).
+- `pt-BR/g9-c009.md` [35]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c009.md` [36]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c009.md` [40]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c009.md` [49]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c009.md` [53]: “conclui, em forma de epílogo,” → “conclui, recapitulando,” — epilogando → “recapitulando”, conforme epilogat → “recapitula” (Key Terms).
+- `pt-BR/g9-c009.md` [54]: “Quanto às riquezas, às honras” → “Quanto ao dinheiro, às honras” — pecunia → “dinheiro” (Key Terms), cuja acepção ampla é expressamente conservada.
+- `pt-BR/g9-c009.md` [55]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c009.md` [57]: “Também abrem mão das riquezas” → “Também abrem mão do dinheiro” — pecunia → “dinheiro” (Key Terms).
+- `pt-BR/g9-c009.md` [61]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c009.md` [61]: “Também abrem mão das riquezas” → “Também abrem mão do dinheiro” — pecunia → “dinheiro” (Key Terms).
+- `pt-BR/g9-c009.md` [62]: “E primeiro quanto às riquezas.” → “E primeiro quanto ao dinheiro.” — pecunia → “dinheiro” (Key Terms).
+- `pt-BR/g9-c009.md` [62]: “abrem mão das riquezas, isto é, desprezam-nas ou as distribuem” → “abrem mão do dinheiro, isto é, desprezam-no ou o distribuem” — pecunia → “dinheiro” (Key Terms), com ajuste dos pronomes.
+- `pt-BR/g9-c009.md` [62]: “recebam mais riquezas” → “recebam mais dinheiro” — pecunia → “dinheiro” (Key Terms).
+- `pt-BR/g9-c009.md` [62]: “concede riquezas ao amigo” → “concede dinheiro ao amigo” — pecunia → “dinheiro” (Key Terms).
+- `pt-BR/g9-c009.md` [64]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c009.md` [65]: “conclui, em forma de epílogo,” → “conclui, recapitulando,” — epilogando → “recapitulando”, conforme epilogat → “recapitula” (Key Terms).
+- `pt-BR/g9-c010.md` [7]: “do que na adversidade” → “do que no infortúnio” — infortunium → “infortúnio” (Key Terms).
+- `pt-BR/g9-c010.md` [18]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c010.md` [24]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c010.md` [28]: “do que (na) adversidade” → “do que (no) infortúnio” — infortunium → “infortúnio” (Key Terms).
+- `pt-BR/g9-c010.md` [30]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c010.md` [34]: “recorrer à diversão para descansar” → “recorrer aos divertimentos para descansar” — ludicra → “divertimentos” (Key Terms).
+- `pt-BR/g9-c010.md` [35]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c011.md` [29]: “Depois, quando diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c011.md` [30]: “Depois, quando diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c011.md` [31]: “Depois, quando diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c011.md` [34]: “Depois, quando diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c012.md` [32]: “pois é provável que aconteça” → “pois é verossímil que aconteça” — verisimiliter → forma de “verossímil” (Key Terms), preservando a construção da frase.
+- `pt-BR/g9-c012.md` [34]: “Depois, quando diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c012.md` [36]: “Depois, quando diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c013.md` [2]: “na prosperidade ou na adversidade” → “na prosperidade ou no infortúnio” — infortunium → “infortúnio” (Key Terms).
+- `pt-BR/g9-c013.md` [3]: “mais necessário na adversidade” → “mais necessário no infortúnio” — infortunium → “infortúnio” (Key Terms).
+- `pt-BR/g9-c013.md` [4]: “tanto na prosperidade como na adversidade” → “tanto na prosperidade como no infortúnio” — infortunium → “infortúnio” (Key Terms).
+- `pt-BR/g9-c013.md` [9]: “Para a adversidade, porém,” → “Para o infortúnio, porém,” — infortunium → “infortúnio” (Key Terms).
+- NOT APPLIED (old text not found exactly once (3)): - `pt-BR/g8-c013.md` [52]: “Em seguida, onde diz” → “Em seguida, quando diz” — Deinde cum dicit → “Em seguida, quando diz” (Key Terms).
+
+### Part terms 10 of 11, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 6 minor. Delta read das mudanças da rodada 1 em g8-c013 a g9-c013 e no diário; seis correções menores: duas concordâncias quebradas pelas trocas, duas derivas entre lema e comentário em g9-c005, uma ocorrência de commutatio e uma conjunção.
+- `pt-BR/g9-c007.md` [11]: “os que adquirem dinheiro as amam mais do que os que as recebem” → “os que adquirem dinheiro o amam mais do que os que o recebem” — pecunias possidentes accipientibus; após a troca “riquezas” → “dinheiro”, os pronomes femininos plurais ficaram sem antecedente correto
+- `pt-BR/g9-c013.md` [2]: “Pois são procurados em ambas:” → “Pois são procurados em ambos os casos:” — In ambobus; após “adversidade” → “infortúnio”, o feminino “ambas” não concorda com prosperidade/infortúnio
+- `pt-BR/g9-c005.md` [26]: “tensão do ânimo nem desejo, isto é” → “tensão do ânimo nem apetite, isto é” — appetitum; o lema [4] passou a “apetite” e o comentário que o retoma deve acompanhá-lo (Key Terms appetitus → apetite)
+- `pt-BR/g9-c005.md` [41]: “é bom, corajoso ou algo semelhante” → “é bom, forte ou algo semelhante” — bonus aut fortis; o lema [9] passou a “forte” (Key Terms fortis → forte), e o comentário retoma a mesma fórmula
+- `pt-BR/g8-c013.md` [58]: “conservam a fidelidade nas trocas” → “conservam a fidelidade nas comutações” — in commutationibus; commutatio → “comutação” (Key Terms), como no parágrafo [59] corrigido
+- `pt-BR/g9-c009.md` [62]: “de modo que seus amigos recebam mais dinheiro. Também nisso” → “de modo que seus amigos recebam mais dinheiro; e também nisso” — et in hoc etiam magis se amant; o período latino continua com et, e a conjunção caiu na separação da frase
+- Rejected: pt-BR/g9-c003.md [10], [44] — “um homem ótimo” para optimus soa coloquial — Conforme a linha bonum/optimum do Key Terms; escolha defensável, não erro objetivo
+- Rejected: pt-BR/g9-c002.md [8] — Auditoria: parênteses de (his enim commune genus) ausentes — O parêntese é pontuação do lema aristotélico, não suplemento editorial; o conteúdo está traduzido integralmente
+- Rejected: pt-BR/g9-c002.md [36] — “não têm a mesma dignidade retribuir-lhe e dar ao homem bom” com sujeito infinitivo plural — Construção gramatical e fiel a non est aequalis dignitas; dignitas aqui compara o merecimento dos beneficiários
+- Rejected: pt-BR/translation-journal.md (communicatio, consuetudo) — O texto atual das linhas difere do descrito na mudança da rodada anterior — As linhas como estão descrevem corretamente as acepções empregadas; não há afirmação falsa
+
+### Part terms 10 of 11, Round 3 (codex, delta read)
+Verdict: 1 meaning-level, 0 minor. Verificadas as seis mudanças e lidos integralmente os 17 parágrafos apresentados; encontrado um defeito de sentido.
+- `pt-BR/g9-c005.md` [40]: “que outro esteja bem e prospere” → “que outro esteja bem e aja bem” — Bene operetur significa agir bem, não prosperar; o latim distingue estar bem de agir bem. *(meaning)*
+- Rejected: pt-BR/g9-c005.md [41] — Auditoria: dois marcadores de ênfase adicionais. — Correspondem ao itálico de epiikiam, forma transliterada conservada conforme o diário.
+
+### Part terms 10 of 11, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read: checked the change to g9-c005 [40] (correct) and read [39]–[41] in full; no defects.
+- Rejected: pt-BR/g9-c005.md [41] — Audit flag: two more emphasis markers than the source — They are the italics on *epiikiam*, the transliteration the journal keeps; round 3 already rejected this.
+- Rejected: pt-BR/g9-c005.md [39] — “não se transforma naquela amizade” for *in illam amicitiam transit* — A defensible rendering of *transire in*, matching the commentary's account of benevolence becoming friendship; the sense is unchanged.
+
+### Part terms 11 of 11, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 13 minor. 27 flags lidos em 21 parágrafos; 12 desvios terminológicos corrigidos e 1 linha do glossário ampliada.
+- `pt-BR/g9-c013.md` [17]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c013.md` [17]: “na adversidade, na qual precisa” → “nos infortúnios, nos quais precisa” — *infortuniis* → “infortúnios” (Key Terms); estava “adversidade”.
+- `pt-BR/g9-c013.md` [18]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c013.md` [19]: “tanto na prosperidade como na adversidade” → “tanto na prosperidade como nos infortúnios” — *infortuniis* → “infortúnios” (Key Terms); estava “adversidade”.
+- `pt-BR/g9-c013.md` [21]: “quanto à adversidade” → “quanto aos infortúnios” — *infortunia* → “infortúnios” (Key Terms); estava “adversidade”.
+- `pt-BR/g9-c013.md` [37]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c013.md` [39]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c013.md` [43]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c013.md` [50]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c013.md` [51]: “dos amigos que estão na adversidade” → “dos amigos que estão nos infortúnios” — *infortuniis* → “infortúnios” (Key Terms); estava “adversidade”.
+- `pt-BR/g9-c014.md` [15]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/g9-c014.md` [20]: “Depois, quando diz:” → “Em seguida, quando diz:” — *Deinde cum dicit* → “Em seguida, quando diz” (Key Terms).
+- `pt-BR/translation-journal.md`: “| communicatio / politica communicatio / oeconomica communicatio | associação / associação política / associação doméstica | Conforme o contexto, *communicare* e *communicatio* exprimem também “ter algo em comum”. |” → “| communicatio / politica communicatio / oeconomica communicatio | associação / associação política / associação doméstica | Conforme o contexto, *communicare* e *communicatio* exprimem também “ter algo em comum”. Na amizade entendida como partilha de vida, *communicatio* também é “comunhão”; na partilha de atividades, “participação”. |” — A linha está incompleta: “comunhão” traduz consistentemente a partilha de vida própria da amizade; “participação” traduz a partilha das atividades em 1949.
+
+### Part terms 11 of 11, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 3 minor. Delta read of 12 text changes and 1 journal change in g9-c013 and g9-c014: the changes are correct; fixed two remaining “adversidade” in g9-c013 [16] and the journal row on *communicatio*, whose earlier fix is not in the current text.
+- `pt-BR/g9-c013.md` [16]: “na prosperidade ou na adversidade” → “na prosperidade ou nos infortúnios” — source *infortuniis*; Key Terms *infortunium* → “infortúnio”, as in [17]–[21] after the previous fixes
+- `pt-BR/g9-c013.md` [16]: “na adversidade, o homem precisa” → “nos infortúnios, o homem precisa” — source *in infortuniis*; Key Terms “infortúnio”; consistency with [17]
+- NOT APPLIED (old text not found exactly once (2)): - `pt-BR/translation-journal.md`: ““intercâmbio” de palavras e obras. |” → ““intercâmbio” de palavras e obras. Na amizade entendida como partilha de vida, também “comunhão”; na partilha de atividades, “participação”. |” — the row omits renderings used in g9-c014 [15]–[16] (“comunhão”) and [19] (“participação”); the previous round's fix of this row is not in the current text
+- Rejected: pt-BR/g9-c013.md [16] — “infortúnios … contra os infortúnios” repeats the word after the change — the source repeats it too (*in infortuniis … contra infortunia*)
+- Rejected: pt-BR/g9-c013.md [51] — “amigos que estão nos infortúnios” sounds awkward — it is grammatical and follows the Key Terms rendering of *in infortuniis existentes*
+
+### Part terms 11 of 11, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente os parágrafos [15]–[17] de pt-BR/g9-c013.md; as duas alterações estão corretas e não introduziram defeitos.
