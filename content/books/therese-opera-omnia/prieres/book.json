@@ -14,17 +14,23 @@
   "description": {
     "fr-FR": "Les vingt et une prières de Thérèse (Pri 1–21), de la petite prière à la Vierge de son enfance à « Si j’étais la Reine du Ciel » (8 septembre 1897), son dernier écrit : le billet de profession, l’Offrande à l’Amour miséricordieux (1895), la Consécration à la Sainte Face, les prières pour l’abbé Bellière et pour obtenir l’humilité. Texte authentique de l’édition du Centenaire, d’après les archives du Carmel de Lisieux.",
     "en-US": "The twenty-one prayers of Thérèse (Pri 1–21), from the little prayer to the Virgin of her childhood to “If I were the Queen of Heaven” (8 September 1897), her last writing: the profession note, the Offering to Merciful Love (1895), the Consecration to the Holy Face, the prayers for Abbé Bellière and for humility. The authentic text of the Centenary edition, from the archives of the Carmel of Lisieux.",
-    "pt-BR": "As vinte e uma orações de Teresinha (Pri 1–21), da pequena oração à Virgem de sua infância a «Se eu fosse a Rainha do Céu» (8 de setembro de 1897), seu último escrito: o bilhete de profissão, a Oferenda ao Amor Misericordioso (1895), a Consagração à Santa Face, as orações pelo abade Bellière e para obter a humildade."
+    "pt-BR": "As vinte e uma orações de Teresinha (Pri 1–21), da pequena oração à Virgem de sua infância a «Se eu fosse a Rainha do Céu» (8 de setembro de 1897), seu último escrito: o bilhete de profissão, a Oferenda ao Amor Misericordioso (1895), a Consagração à Santa Face, as orações pelo abade Bellière e para obter a humildade. Texto autêntico da edição do Centenário, segundo os arquivos do Carmelo de Lisieux."
   },
   "composed": "1888–1897",
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "therese-of-lisieux/prieres",
   "editions": {
     "fr-FR": {
       "editor": "Carmel de Lisieux (Nouvelle Édition du Centenaire)",
       "year": 1992
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,127 +47,148 @@
     {
       "id": "pri-01",
       "title": {
-        "fr-FR": "Pri 1. Ma bonne Sainte Vierge"
+        "fr-FR": "Pri 1. Ma bonne Sainte Vierge",
+        "pt-BR": "Pri 1. Minha boa Santíssima Virgem"
       }
     },
     {
       "id": "pri-02",
       "title": {
-        "fr-FR": "Pri 2. Billet de Profession"
+        "fr-FR": "Pri 2. Billet de Profession",
+        "pt-BR": "Pri 2. Bilhete de Profissão"
       }
     },
     {
       "id": "pri-03",
       "title": {
-        "fr-FR": "Pri 3. Regards d'amour vers Jésus"
+        "fr-FR": "Pri 3. Regards d'amour vers Jésus",
+        "pt-BR": "Pri 3. Olhares de amor para Jesus"
       }
     },
     {
       "id": "pri-04",
       "title": {
-        "fr-FR": "Pri 4. Hommage à la Très Sainte Trinité"
+        "fr-FR": "Pri 4. Hommage à la Très Sainte Trinité",
+        "pt-BR": "Pri 4. Homenagem à Santíssima Trindade"
       }
     },
     {
       "id": "pri-05",
       "title": {
-        "fr-FR": "Pri 5. Fleurs Mystiques"
+        "fr-FR": "Pri 5. Fleurs Mystiques",
+        "pt-BR": "Pri 5. Flores Místicas"
       }
     },
     {
       "id": "pri-06",
       "title": {
-        "fr-FR": "Pri 6. Offrande à l'Amour Miséricordieux"
+        "fr-FR": "Pri 6. Offrande à l'Amour Miséricordieux",
+        "pt-BR": "Pri 6. Oferenda ao Amor Misericordioso"
       }
     },
     {
       "id": "pri-07",
       "title": {
-        "fr-FR": "Pri 7. Prière à Jésus au Tabernacle"
+        "fr-FR": "Pri 7. Prière à Jésus au Tabernacle",
+        "pt-BR": "Pri 7. Oração a Jesus no Tabernáculo"
       }
     },
     {
       "id": "pri-08",
       "title": {
-        "fr-FR": "Pri 8. Prière pour l'abbé Bellière"
+        "fr-FR": "Pri 8. Prière pour l'abbé Bellière",
+        "pt-BR": "Pri 8. Oração pelo abade Bellière"
       }
     },
     {
       "id": "pri-09",
       "title": {
-        "fr-FR": "Pri 9. Prière de Céline et de Thérèse"
+        "fr-FR": "Pri 9. Prière de Céline et de Thérèse",
+        "pt-BR": "Pri 9. Oração de Celina e de Teresa"
       }
     },
     {
       "id": "pri-10",
       "title": {
-        "fr-FR": "Pri 10. Offrande de la journée"
+        "fr-FR": "Pri 10. Offrande de la journée",
+        "pt-BR": "Pri 10. Oferecimento do dia"
       }
     },
     {
       "id": "pri-11",
       "title": {
-        "fr-FR": "Pri 11. Fais que je te Ressemble, Jésus!..."
+        "fr-FR": "Pri 11. Fais que je te Ressemble, Jésus!...",
+        "pt-BR": "Pri 11. Faze que eu me Assemelhe a ti, Jesus!..."
       }
     },
     {
       "id": "pri-12",
       "title": {
-        "fr-FR": "Pri 12. Consécration à la Sainte Face"
+        "fr-FR": "Pri 12. Consécration à la Sainte Face",
+        "pt-BR": "Pri 12. Consagração à Santa Face"
       }
     },
     {
       "id": "pri-13",
       "title": {
-        "fr-FR": "Pri 13. Père éternel, votre fils unique"
+        "fr-FR": "Pri 13. Père éternel, votre fils unique",
+        "pt-BR": "Pri 13. Pai eterno, vosso filho único"
       }
     },
     {
       "id": "pri-14",
       "title": {
-        "fr-FR": "Pri 14. À l'Enfant Jésus"
+        "fr-FR": "Pri 14. À l'Enfant Jésus",
+        "pt-BR": "Pri 14. Ao Menino Jesus"
       }
     },
     {
       "id": "pri-15",
       "title": {
-        "fr-FR": "Pri 15. Père éternel, puisque vous m'avez donné..."
+        "fr-FR": "Pri 15. Père éternel, puisque vous m'avez donné...",
+        "pt-BR": "Pri 15. Pai eterno, já que me destes..."
       }
     },
     {
       "id": "pri-16",
       "title": {
-        "fr-FR": "Pri 16. À la Sainte Face"
+        "fr-FR": "Pri 16. À la Sainte Face",
+        "pt-BR": "Pri 16. À Santa Face"
       }
     },
     {
       "id": "pri-17",
       "title": {
-        "fr-FR": "Pri 17. Seigneur, Dieu des armées"
+        "fr-FR": "Pri 17. Seigneur, Dieu des armées",
+        "pt-BR": "Pri 17. Senhor, Deus dos exércitos"
       }
     },
     {
       "id": "pri-18",
       "title": {
-        "fr-FR": "Pri 18. O Saints Innocents... O Saint Sébastien..."
+        "fr-FR": "Pri 18. O Saints Innocents... O Saint Sébastien...",
+        "pt-BR": "Pri 18. Ó Santos Inocentes... Ó São Sebastião..."
       }
     },
     {
       "id": "pri-19",
       "title": {
-        "fr-FR": "Pri 19. Acte de foi"
+        "fr-FR": "Pri 19. Acte de foi",
+        "pt-BR": "Pri 19. Ato de fé"
       }
     },
     {
       "id": "pri-20",
       "title": {
-        "fr-FR": "Pri 20. Prière pour obtenir l'humilité"
+        "fr-FR": "Pri 20. Prière pour obtenir l'humilité",
+        "pt-BR": "Pri 20. Oração para obter a humildade"
       }
     },
     {
       "id": "pri-21",
       "title": {
-        "fr-FR": "Pri 21. Si j'étais la Reine du Ciel"
+        "fr-FR": "Pri 21. Si j'étais la Reine du Ciel",
+        "pt-BR": "Pri 21. Se eu fosse a Rainha do Céu"
       }
     }
   ]
