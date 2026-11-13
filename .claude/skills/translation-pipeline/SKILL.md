@@ -80,6 +80,10 @@ Codex's weekly usage is in its newest `~/.codex/sessions/*/*/*/rollout-*.jsonl` 
   - Every Codex round falling straight back to Claude (`no usable answer from codex`) means the round's prompt is too long for Codex. Check the `review-N.codex.md` size: about 1 MB is too long, and the book should have been split into parts.
 - **`FAILED` in translate.** Read `translate-uK.problems`, and the usage in `translate-uK.json`. Output tokens at the 128k cap mean the answer was cut off. A span that gave one paragraph too many or too few twice usually meets an OCR flaw in the source (a garbage line, a sentence split by a page break): fix the source, then rerun only that span (delete its `translate-uK.ok`, keep the others). Delete `DONE`, and the heartbeat restarts the driver. The whole-book agent session that used to follow two failed calls is opt-in (`AGENT_FALLBACK=1`): it retranslates the book from scratch and is the costliest step there is.
 
+## Term-consistency check
+
+A book translated in many calls drifts: a later span renders a term otherwise than the journal's Key Terms table settled. `terms-check.sh <book>` finds and fixes those places in a book already committed. `terms.py` flags each paragraph whose source has a table term and whose pt-BR lacks every rendering the row allows. The flags go in chunks to one Codex call each (`terms.system.md`), which fixes a drift only where the other word names a different concept, breaks a term of art the argument turns on, or misnames a person or work; a plain synonym stays, since a stiffer glossary word is no gain (`terms.system.md` says how). It also completes rows whose notes miss a sanctioned sense. Delta review rounds then verify the fixes, and the book is committed and pushed. State lives in `terms-runs/<book>/`, outside `runs/`. It spends claude-work only on the verifying rounds, so keep the watchdog running. Read `status` there; a `DONE` of `NEEDS_REVIEW` says why in its last lines.
+
 ## Rules
 
 - claude-work's session must never reach 100%. The watchdog is what guarantees it, so keep it running; at 98% or more, kill the heartbeat, the pools and every driver.

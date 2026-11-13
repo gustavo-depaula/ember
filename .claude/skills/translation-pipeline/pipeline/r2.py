@@ -177,10 +177,11 @@ def prompt(book, out, rnd, mode, prev=None):
             body += [pair(book, ch, i - 1, src, tgt) for i in sorted(want[ch]) if i - 1 < max(len(src), len(tgt))]
             if notesBlock(book, ch): body.append(notesBlock(book, ch))
         fixes = "\n".join("- `%s`%s (%s): “%s” → “%s” — %s" % (f["file"], " [%s]" % f["para"] if f.get("para") else "", f.get("class", "?"), f["old"], f["new"], f.get("why", "")) for f in changes["fixes"])
+        # book.json only when a change touched it: a long book's toc is a megabyte.
+        bj = ["## book.json", "", "```json", bookJson(book), "```", ""] if any(c["file"] == "book.json" for c in changes["changed"]) else []
         parts += ["## The changes to verify (made by the previous round's reviewer)", "", fixes or "(none)", "",
                   "## The paragraphs those changes touched, with their neighbours, as they now stand", "", "\n\n".join(body) or "(no chapter paragraph changed)", "",
-                  "## The mechanical audit of the touched chapters", "", audit(book, sorted(want)), "",
-                  "## book.json", "", "```json", bookJson(book), "```", "", "## The translation journal", "", journal(book)]
+                  "## The mechanical audit of the touched chapters", "", audit(book, sorted(want)), ""] + bj + ["## The translation journal", "", journal(book)]
     open(out, "w").write("\n".join(parts) + "\n")
 
 
@@ -239,7 +240,8 @@ def apply(book, ans, rnd, engine, mode, changesOut):
     print("meaning=%d minor=%d applied=%d failed=%d" % (meaning, minor, len(applied), len(failed)))
 
 
-cmd, a = sys.argv[1], sys.argv[2:]
-if cmd == "prompt": prompt(a[0], a[1], a[2], a[3], a[4] if len(a) > 4 else None)
-elif cmd == "apply": apply(*a[:6])
-elif cmd == "parts": parts(a[0], a[1])
+if __name__ == "__main__":
+    cmd, a = sys.argv[1], sys.argv[2:]
+    if cmd == "prompt": prompt(a[0], a[1], a[2], a[3], a[4] if len(a) > 4 else None)
+    elif cmd == "apply": apply(*a[:6])
+    elif cmd == "parts": parts(a[0], a[1])
