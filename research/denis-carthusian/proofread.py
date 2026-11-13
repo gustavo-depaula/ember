@@ -2,24 +2,25 @@
 
     .venv/bin/python proofread.py            # the whole queue, from where it left off
     .venv/bin/python proofread.py --tier 2   # stop after tier 2
-    .venv/bin/python proofread.py --tier 5 --weekly-cap 90   # leave 10% of the week for other work
+    .venv/bin/python proofread.py --tier 5 --session-cap 85 --weekly-cap 85   # leave room for other work
 
 For each work: check_pages.py over every part's leaves, a second pass for any
 page that failed, then catalogue.py (which drops the draft label once every page
 has its fix list) and assemble.py for that work. Exits 75, like check_pages.py,
 when the usage limit is reached; run it again after the reset and it resumes.
-With --weekly-cap it also stops (exit 76) before a work once the week's usage
-reaches that percentage, so the subscription keeps room for other work.
+With --session-cap and --weekly-cap it also stops once the session's (exit 75)
+or the week's (exit 76) usage reaches that percentage, checked every two minutes
+while pages are being checked, so the subscription keeps room for other work.
 """
 
 import argparse
 import json
-import re
 import subprocess
 import sys
 import time
 from pathlib import Path
 
+from check_pages import over_cap
 from run_volumes import data
 
 here = Path(__file__).parent
@@ -86,13 +87,6 @@ def log(message: str) -> None:
         f.write(line + "\n")
 
 
-def weekly_used() -> int | None:
-    """The week's usage in percent, as `claude /usage` reports it."""
-    out = subprocess.run(["claude", "-p", "/usage"], cwd="/tmp", capture_output=True, text=True).stdout
-    m = re.search(r"Current week \(all models\): (\d+)% used", out)
-    return int(m.group(1)) if m else None
-
-
 def unchecked(work: dict) -> int:
     return sum(1 for p in work["parts"] for leaf in p["leaves"]
                if (data / "dots" / p["volume"] / f"{leaf}.md").exists() and not (data / "checked" / p["volume"] / f"{leaf}.jsonl").exists())
@@ -101,7 +95,8 @@ def unchecked(work: dict) -> int:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--tier", type=int, default=len(tiers))
-    parser.add_argument("--weekly-cap", type=int, help="stop once the week's usage reaches this percentage")
+    parser.add_argument("--session-cap", type=int, help="stop (exit 75) once the session's usage reaches this percentage")
+    parser.add_argument("--weekly-cap", type=int, help="stop (exit 76) once the week's usage reaches this percentage")
     args = parser.parse_args()
     for n, slugs in enumerate(tiers[:args.tier], 1):
         for slug in slugs:
@@ -109,17 +104,18 @@ def main() -> None:
             work = json.loads(work_path.read_text())
             if not work.get("draft") and not unchecked(work):
                 continue
-            if args.weekly_cap and (used := weekly_used()) is not None and used >= args.weekly_cap:
-                log(f"weekly usage at {used}%, cap {args.weekly_cap}%; stopping")
-                sys.exit(76)
+            if reason := over_cap(args.session_cap, args.weekly_cap):
+                log(f"{reason}; stopping")
+                sys.exit(76 if reason.startswith("weekly") else 75)
             log(f"tier {n}: {slug}, {unchecked(work)} pages to check")
             for attempt in range(2):  # the second pass retries pages that failed
                 for part in work["parts"]:
                     leaves = f"{part['leaves'][0]}-{part['leaves'][-1]}"
-                    code = subprocess.run([python, "check_pages.py", "--volume", part["volume"], "--leaves", leaves], cwd=here).returncode
-                    if code == 75:
-                        log("usage limit reached; stopping")
-                        sys.exit(75)
+                    caps = [f"--{k}-cap={v}" for k, v in (("session", args.session_cap), ("weekly", args.weekly_cap)) if v]
+                    code = subprocess.run([python, "check_pages.py", "--volume", part["volume"], "--leaves", leaves, *caps], cwd=here).returncode
+                    if code in (75, 76):
+                        log("usage limit or cap reached; stopping")
+                        sys.exit(code)
                 if not unchecked(work):
                     break
             if unchecked(work):

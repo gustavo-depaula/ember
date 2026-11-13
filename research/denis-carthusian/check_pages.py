@@ -6,7 +6,7 @@
     .venv/bin/python check_pages.py --images scans/*.jpg --drafts out/dots --out out/check
 
 One headless `claude -p` call per page, stripped to the fix-list instructions and
-the Read tool (to view the image). A subagent carries a ~60k-token system prompt
+the page image sent inline. A subagent carries a ~60k-token system prompt
 before it reads a page; this carries ~3.5k, which is what makes the subscription
 go far enough for 25k pages. Each reply goes to <leaf>.jsonl, its usage to
 <leaf>.usage.json.
@@ -18,9 +18,11 @@ the limit resets (check-volume.service retries every 30 minutes).
 """
 
 import argparse
+import base64
 import io
 import json
 import os
+import re
 import subprocess
 import tempfile
 import threading
@@ -40,8 +42,40 @@ workdir = Path(tempfile.gettempdir()) / "denis-check"
 limit_reached = threading.Event()
 
 
+stop_code = 75  # 76 when it is the weekly cap that stopped the run
+
+
 class LimitReached(Exception):
     pass
+
+
+def usage() -> dict[str, int]:
+    """The current session's and week's usage in percent, as `claude /usage` reports them."""
+    out = subprocess.run(["claude", "-p", "/usage"], cwd="/tmp", capture_output=True, text=True).stdout
+    found = {"session": re.search(r"Current session: (\d+)% used", out),
+             "week": re.search(r"Current week \(all models\): (\d+)% used", out)}
+    return {k: int(m.group(1)) for k, m in found.items() if m}
+
+
+def over_cap(session_cap: int | None, weekly_cap: int | None) -> str | None:
+    """Why to stop now, if a cap is reached; the session cap stops with 75, the weekly one with 76."""
+    global stop_code
+    used = usage()
+    if weekly_cap and used.get("week", 0) >= weekly_cap:
+        stop_code = 76
+        return f"weekly usage at {used['week']}%, cap {weekly_cap}%"
+    if session_cap and used.get("session", 0) >= session_cap:
+        stop_code = 75
+        return f"session usage at {used['session']}%, cap {session_cap}%"
+    return None
+
+
+def watch_caps(session_cap: int | None, weekly_cap: int | None) -> None:
+    # Checked every two minutes rather than per work: one book of the Sentences is a thousand pages.
+    while not limit_reached.wait(120):
+        if reason := over_cap(session_cap, weekly_cap):
+            print(f"{reason}; stopping", flush=True)
+            limit_reached.set()
 
 
 def write_atomic(path: Path, text: str) -> None:
@@ -53,7 +87,7 @@ def write_atomic(path: Path, text: str) -> None:
     os.replace(tmp, path)
 
 
-def cropped(page: Image.Image, raw: str, stem: str, height: int) -> Path:
+def cropped(page: Image.Image, raw: str, height: int) -> bytes:
     """The page cut to its text and margin notes, from the draft's layout boxes.
 
     The image is most of what a check costs, and the page's blank border and
@@ -69,26 +103,31 @@ def cropped(page: Image.Image, raw: str, stem: str, height: int) -> Path:
                       min(page.width, round(x1 / scale)), min(page.height, round(y1 / scale))))
     if crop.height > height:
         crop = crop.resize((round(crop.width * height / crop.height), height), Image.Resampling.LANCZOS)
-    path = workdir / f"{stem}.crop{height}.jpg"
-    crop.convert("RGB").save(path, quality=90)
-    return path
+    jpeg = io.BytesIO()
+    crop.convert("RGB").save(jpeg, "JPEG", quality=90)
+    return jpeg.getvalue()
 
 
-def ask_claude(image: Path, draft: str, effort: str, prompt: Path) -> dict:
+def ask_claude(image: bytes, draft: str, model: str, effort: str, prompt: Path) -> dict:
+    # The scan goes in the message itself: handing the model a path to Read costs a
+    # round trip, a tool call and the whole prefix read again, on every page.
+    message = {"type": "user", "message": {"role": "user", "content": [
+        {"type": "image", "source": {"type": "base64", "media_type": "image/jpeg",
+                                     "data": base64.b64encode(image).decode()}},
+        {"type": "text", "text": f"Draft transcription:\n\n{draft}"},
+    ]}}
     reply = subprocess.run(
         [
-            "claude", "-p", "--model", "sonnet", "--effort", effort,
-            "--system-prompt", prompt.read_text(),
-            "--tools", "Read", "--allowedTools", "Read",
+            "claude", "-p", "--model", model, "--effort", effort,
+            "--system-prompt", prompt.read_text(), "--tools", "",
             "--strict-mcp-config", "--setting-sources", "", "--disable-slash-commands",
-            "--no-session-persistence", "--output-format", "json",
-            f"Page image: {image.resolve()} (view it with Read). Draft transcription:\n\n{draft}",
+            "--no-session-persistence", "--input-format", "stream-json", "--output-format", "stream-json", "--verbose",
         ],
-        cwd=workdir, capture_output=True, text=True,
+        input=json.dumps(message), cwd=workdir, capture_output=True, text=True,
     )
     try:
-        result = json.loads(reply.stdout)
-    except json.JSONDecodeError:
+        result = json.loads(reply.stdout.strip().splitlines()[-1])
+    except (json.JSONDecodeError, IndexError):
         result = {"is_error": True, "result": (reply.stderr or reply.stdout).strip()[:500]}
     if result.get("is_error") or reply.returncode != 0:
         message = str(result.get("result", ""))
@@ -98,7 +137,7 @@ def ask_claude(image: Path, draft: str, effort: str, prompt: Path) -> dict:
     return result
 
 
-def check(stem: str, load_page, drafts: Path, out: Path, effort: str, crop: int, prompt: Path) -> dict | None:
+def check(stem: str, load_page, drafts: Path, out: Path, model: str, effort: str, crop: int, prompt: Path) -> dict | None:
     if limit_reached.is_set() or (out / f"{stem}.jsonl").exists():
         return None
     draft_path = drafts / f"{stem}.md"
@@ -111,7 +150,7 @@ def check(stem: str, load_page, drafts: Path, out: Path, effort: str, crop: int,
         write_atomic(out / f"{stem}.jsonl", "")  # a blank page
         return None
     try:
-        result = ask_claude(cropped(load_page(), raw, stem, crop), draft, effort, prompt)
+        result = ask_claude(cropped(load_page(), raw, crop), draft, model, effort, prompt)
     except LimitReached as error:
         limit_reached.set()
         print(f"{stem}: usage limit reached ({error}); stopping", flush=True)
@@ -164,7 +203,10 @@ def main() -> None:
     parser.add_argument("--images", nargs="*", type=Path)
     parser.add_argument("--drafts", type=Path)
     parser.add_argument("--out", type=Path)
-    parser.add_argument("--effort", default="high")
+    parser.add_argument("--model", default="claude-opus-5-5")
+    parser.add_argument("--effort", default="low")
+    parser.add_argument("--session-cap", type=int, help="stop (exit 75) once the session's usage reaches this percentage")
+    parser.add_argument("--weekly-cap", type=int, help="stop (exit 76) once the week's usage reaches this percentage")
     parser.add_argument("--crop", type=int, default=1600, help="crop to the text and scale to this height")
     parser.add_argument("--parallel", type=int, default=4)
     parser.add_argument("--prompt", type=Path, default=here / "fix-prompt.md", help="the fix-list instructions (another book's, e.g. ../ocr-books/fix-prompt.md)")
@@ -179,14 +221,19 @@ def main() -> None:
     out.mkdir(parents=True, exist_ok=True)
     workdir.mkdir(exist_ok=True)
     print(f"{time.strftime('%Y-%m-%d %H:%M:%S')} checking {len(pages)} pages into {out}", flush=True)
+    if args.session_cap or args.weekly_cap:
+        if reason := over_cap(args.session_cap, args.weekly_cap):
+            print(f"{reason}; stopping", flush=True)
+            raise SystemExit(stop_code)
+        threading.Thread(target=watch_caps, args=(args.session_cap, args.weekly_cap), daemon=True).start()
     with ThreadPoolExecutor(args.parallel) as pool:
-        usages = [u for u in pool.map(lambda p: check(p[0], p[1], drafts, out, args.effort, args.crop, args.prompt.resolve()), pages) if u]
+        usages = [u for u in pool.map(lambda p: check(p[0], p[1], drafts, out, args.model, args.effort, args.crop, args.prompt.resolve()), pages) if u]
     if usages:
         n = len(usages)
         total = {k: sum(u[k] for u in usages) for k in ("cache_creation_input_tokens", "cache_read_input_tokens", "output_tokens", "total_cost_usd")}
         print(f"{n} pages checked this run · per page: " + ", ".join(f"{k} {v / n:,.4g}" for k, v in total.items()), flush=True)
     if limit_reached.is_set():
-        raise SystemExit(75)
+        raise SystemExit(stop_code)
 
 
 if __name__ == "__main__":

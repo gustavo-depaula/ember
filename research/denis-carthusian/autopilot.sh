@@ -5,7 +5,7 @@
 #
 # PATH must reach pnpm: the repository's pre-commit hook runs it, and a commit fails without it.
 #
-# proofread.py exits 75 at the session limit and 76 at the weekly cap (90%, leaving
+# proofread.py exits 75 at the session cap and 76 at the weekly cap (85% each, leaving
 # room for other work); either way this waits and runs it again, and it resumes
 # where it stopped. Only the books and work files it rebuilt are committed.
 cd "$(dirname "$0")" || exit 1
@@ -33,7 +33,7 @@ Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>" || return 1
 tier=${1:-5}
 last=$(.venv/bin/python -c "from proofread import tiers; print(len(tiers))")
 while [ "$tier" -le "$last" ]; do
-  .venv/bin/python proofread.py --tier "$tier" --weekly-cap 90 >> "$HOME/ember-data/denis-carthusian/proofread.out" 2>&1
+  .venv/bin/python proofread.py --tier "$tier" --session-cap 85 --weekly-cap 85 >> "$HOME/ember-data/denis-carthusian/proofread.out" 2>&1
   code=$?
   case $code in
     0)
