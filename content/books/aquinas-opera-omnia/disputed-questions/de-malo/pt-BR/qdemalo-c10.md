@@ -78,7 +78,7 @@ Além disso, assim como as coisas boas por seu gênero podem ser feitas de modo 
 
 Além disso, no mesmo gênero, o pecado de ação é mais grave que o pecado do coração. Ora, impedir por uma ação o bem do próximo nem sempre é pecado mortal. Portanto, nem sempre é pecado mortal sentir dor pelo bem do próximo, o que é ter inveja.
 
-Além disso, nos homens perfeitos não pode haver pecado mortal. Ora, neles pode haver algum movimento de inveja que surge inadvertidamente. Portanto, a inveja não é pecado mortal.
+Além disso, nos homens perfeitos não pode haver pecado mortal. Ora, neles pode haver algum movimento súbito e irrefletido de inveja. Portanto, a inveja não é pecado mortal.
 
 Além disso, nas crianças que ainda não falam não pode haver pecado mortal, porque ainda não têm o uso da razão, na qual somente há pecado mortal. Ora, pode haver inveja nas crianças; pois Santo Agostinho diz no livro I das Confissões: *Eu vi e conheci uma criança ciumenta; ainda não falava e, pálida, fitava com olhar amargo seu irmão de leite*. Portanto, a inveja não é pecado mortal.
 
@@ -92,7 +92,7 @@ Além disso, no Itinerário de Clemente se narra que Pedro disse que três pecad
 
 Além disso, Santo Isidoro diz no livro Sobre o sumo bem: *Não há virtude à qual a inveja não se oponha, pois somente a miséria está livre da inveja*. Ora, nada se opõe a toda virtude senão o pecado mortal. Portanto, a inveja é pecado mortal.
 
-Além disso, como diz Santo Agostinho a respeito daquilo do Salmo 104:25, *mudou-lhes o coração para que odiassem seu povo*, a inveja é o ódio da felicidade alheia. Ora, o ódio é uma ira inveterada, como ele mesmo diz no livro XI do Comentário literal ao Gênesis. Portanto, toda inveja é algo inveterado; e assim não pode ser pecado venial como algo que surge inadvertidamente.
+Além disso, como diz Santo Agostinho a respeito daquilo do Salmo 104:25, *mudou-lhes o coração para que odiassem seu povo*, a inveja é o ódio da felicidade alheia. Ora, o ódio é uma ira inveterada, como ele mesmo diz no livro XI de Sobre o Gênesis ao pé da letra. Portanto, toda inveja é algo inveterado; e assim não pode ser pecado venial como algo súbito e irrefletido.
 
 Além disso, nada mata espiritualmente senão o pecado mortal. Ora, a inveja mata espiritualmente, segundo aquilo de Jó 5:2: *A inveja mata o pequenino*. E, sobre aquilo de 2 Coríntios 2:15, *somos o bom odor de Cristo*, a Glosa diz: *O odor vivifica os que amam e mata os que invejam*. Portanto, a inveja é pecado mortal.
 

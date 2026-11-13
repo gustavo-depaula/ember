@@ -19,7 +19,7 @@ Destino: pt-BR.
 | bonum / malum | bem / mal; bom / mau | Substantivo ou adjetivo conforme a construção. |
 | bonitas / malitia | bondade / malícia | “Malícia” no sentido técnico de qualidade moral má, sem restringir a intenção ardilosa. |
 | privatio / habitus | privação / hábito | Na oposição privativa, “hábito” significa posse de uma forma; também designa disposição estável nos contextos morais. |
-| defectus / deficiens / defectibilitas | deficiência / deficiente / defectibilidade | “Falta” e “falhar” onde a sintaxe pede; defectibilidade é a possibilidade de falhar. |
+| defectus / deficiens / defectibilitas | deficiência / deficiente / defectibilidade | “Falta” e “falhar” onde a sintaxe pede; defectibilidade é a possibilidade de falhar. “Decair” e “diminuir” quando o termo designa diminuição da caridade ou declínio, em oposição a progredir. |
 | perfectio / debita perfectio | perfeição / perfeição devida | |
 | simpliciter / secundum quid | absolutamente / sob certo aspecto | Convenção das obras próximas. |
 | secundum se / in quantum huiusmodi | em si mesmo / enquanto tal | |
@@ -31,13 +31,13 @@ Destino: pt-BR.
 | materia prima / forma / substantia | matéria-prima / forma / substância | |
 | subiectum / accidens | sujeito / acidente | Sujeito como suporte de formas ou privações. |
 | genus / species / differentia | gênero / espécie / diferença | |
-| ratio | razão | “Argumento” quando designa uma argumentação. |
+| ratio | razão | “Argumento” quando designa uma argumentação. “Noção” quando designa o conteúdo definidor ou a caracterização formal de algo. |
 | appetitus / appetere / appetibile | apetite / apetecer / apetecível | |
 | finis / ordo / ordinari in finem | fim / ordem / ordenar-se ao fim | |
 | agens / movens / motus | agente / motor / movimento | |
 | generatio / corruptio | geração / corrupção | Termos da filosofia natural. |
 | corrumpere / corruptivum | corromper / corruptivo | |
-| virtus / virtus activa | virtude / virtude ativa | Também para eficácia causal natural. |
+| virtus / virtus activa | virtude / virtude ativa | Também para eficácia causal natural. “Faculdade” ou “potência” quando virtus designa uma faculdade da alma. |
 | ultimum potentiae | extremo da potência | Convenção de Sobre as Virtudes. |
 | virtus / vitium | virtude / vício | No contexto moral. |
 | voluntas / electio / voluntarium | vontade / escolha / voluntário | |
@@ -103,7 +103,7 @@ Destino: pt-BR.
 | Iacob / Rom. / Exod. / Matth. | Tiago / Romanos / Êxodo / Mateus | |
 | uti / frui | usar / fruir | |
 | meritorius / demeritorius | meritório / demeritório | |
-| privatio et habitus | privação e posse | Nesta oposição lógica, *habitus* designa a presença da perfeição, não o hábito como disposição estável. |
+| privatio et habitus | privação e hábito | Nesta oposição lógica, *habitus* designa a presença da perfeição, não o hábito como disposição estável; nota [^1]. |
 | opposita mediata / immediata | opostos que admitem intermediário / opostos sem intermediário | |
 | liberalitas / illiberalitas / prodigalitas | liberalidade / falta de liberalidade / prodigalidade | |
 | temperantia / fortitudo / magnificentia | temperança / fortaleza / magnificência | |
@@ -158,7 +158,7 @@ Destino: pt-BR.
 | per prius | primeiro; antes | Prioridade qualificada pelo contexto: natureza, geração ou tempo. |
 | libido | libido | Concupiscência atual desordenada, conforme a definição do artigo 6. |
 | vetustas Adae / novitas Christi | condição antiga de Adão / novidade de Cristo | Conservada a oposição entre a condição herdada de Adão e a renovação recebida de Cristo. |
-| poenalitas | condição penal | Condição de quem permanece sujeito às consequências do pecado. |
+| poenalitas | condição penal | Condição de quem permanece sujeito às consequências do pecado. “Sofrimentos penais” quando, no plural, designa as aflições associadas a certos pecados. |
 | passibilis / passibilitas | passível / passibilidade | Suscetibilidade ao sofrimento. |
 | generans univocum | gerador unívoco | Aquele que gera um ser da mesma espécie; nota [^20]. |
 | fides formata | fé formada | Fé vivificada pela caridade; nota [^21]. |
@@ -172,7 +172,7 @@ Destino: pt-BR.
 | corpus animale | corpo animal | Corpo animado na condição da vida natural; nota [^23]. |
 | medie complexionatum | de constituição equilibrada | Equilíbrio das qualidades contrárias na constituição corporal. |
 | humidum nutrimentale | umidade nutritiva | Termo da fisiologia antiga e medieval; nota [^24]. |
-| virtus speciei | força da espécie | Capacidade de conservar a constituição própria do ser vivo, no contexto fisiológico do artigo 5. |
+| virtus speciei | virtude da espécie | Capacidade de conservar a constituição própria do ser vivo, no contexto fisiológico do artigo 5. |
 | Seneca / Origenes / Isidorus | Sêneca / Orígenes / Santo Isidoro | Formas portuguesas dos nomes. |
 | electio / libera electio | escolha / livre escolha | Distinta da deliberação que a precede. |
 | liberum arbitrium | livre-arbítrio | Conservada a distinção entre liberdade da coação e liberdade da culpa e da miséria. |
@@ -279,7 +279,7 @@ Destino: pt-BR.
 | certitudo prolis | certeza da paternidade | No argumento sobre a identificação do pai e seu cuidado com a prole. |
 | debitum uxoris | débito conjugal devido à esposa | No artigo 1, resposta à nona objeção. |
 | caecitas mentis / inconsideratio / inconstantia / praecipitatio | cegueira da mente / inconsideração / inconstância / precipitação | Quatro filhas da luxúria relativas aos atos da razão. |
-| amor sui / odium Dei / affectus praesentis saeculi / desperatio futuri saeculi | amor de si / ódio de Deus / afeição pelo mundo presente / desespero do mundo futuro | Quatro filhas da luxúria relativas à desordem do afeto. |
+| amor sui / odium Dei / affectus praesentis saeculi / desperatio futuri saeculi | amor de si / ódio de Deus / afeto pelo mundo presente / desespero do mundo futuro | Quatro filhas da luxúria relativas à desordem do afeto. |
 | consilium / iudicium / praeceptum | deliberação / juízo / preceito | Atos da razão distinguidos no artigo 4. |
 | daemon / Diabolus / Satan / Lucifer | demônio / Diabo / Satanás / Lúcifer | Conservada a distinção entre o nome comum e as designações individuais. |
 | corpus naturaliter unitum / corpus assumptum | corpo naturalmente unido / corpo assumido | Distinção entre união natural e assunção de um corpo para uma operação. |
@@ -316,9 +316,9 @@ Destino: pt-BR.
 | Commentator / Glossa | o Comentador / a Glosa | Formas estabelecidas nas obras irmãs. |
 | De divinatione Daemonum / Retractationes | Sobre a adivinhação dos demônios / Retratações | Obras de Agostinho citadas na discussão do conhecimento dos demônios. |
 | spiritus sensitivi / humores | espíritos sensitivos / humores | Termos da fisiologia antiga; esclarecidos na nota [^56]. |
-| contactus virtualis | contato de potência | Contato entendido pela ação de uma potência, distinto do contato corporal. |
+| contactus virtualis | contato por sua virtude | Contato entendido pela ação da *virtus* do agente, distinto do contato corporal. |
 | intellectus agens / intellectus possibilis | intelecto agente / intelecto possível | Distinção conservada na explicação do conhecimento intelectual. |
-| intentio | intenção | Direcionamento da potência apetitiva para algo; não se restringe à vontade, pois também se atribui ao apetite sensitivo. |
+| intentio | intenção | Direcionamento da potência apetitiva para algo; não se restringe à vontade, pois também se atribui ao apetite sensitivo. “Atenção” quando designa a aplicação da alma aos atos de suas potências. |
 | Themistius | Temístio | Comentador citado no artigo 12. |
 
 ## Decisões
@@ -351,7 +351,7 @@ Destino: pt-BR.
 - As citações latinas integradas ao discurso latino foram traduzidas com o mesmo destaque da fonte; títulos não destacados na fonte permaneceram sem destaque, salvo o latinismo *Enchiridion*.
 - Traduzidos os parágrafos 158–332 de qdemalo-c02.md, preservando as 175 unidades da fonte, além das duas definições de notas do tradutor.
 - A nota [^9], após o parágrafo 218, conserva o verso latino sobre as espécies da gula e esclarece “com esmero”; a nota [^10], após o parágrafo 244, explica os sentidos técnicos de “aversão” e “conversão”.
-- Mantida a distinção entre *habitus* como disposição estável (“hábito”) e como oposto lógico de privação (“posse”, no parágrafo 183).
+- Mantida a distinção entre *habitus* como disposição estável (“hábito”) e como oposto lógico de privação (“hábito” no sentido de posse, no parágrafo 183).
 - Nos parágrafos 218 e 219, os versos mnemônicos foram traduzidos, conservando o itálico; no parágrafo 251, suas palavras retomadas foram igualmente traduzidas.
 - Conservadas sem emenda a oposição entre liberalidade e prodigalidade em 200, a expressão “e não da condição do objeto” em 225 e a indicação “pelos sacerdotes” em 277.
 - Conservadas a ordem da citação de Tiago em 307 e a referência a Números 25:4 em 332, conforme a fonte.
@@ -398,7 +398,7 @@ Destino: pt-BR.
 - Em 256, “lite etiam non contestata cum patre” foi traduzido por “que o litígio nem sequer tenha sido formalmente estabelecido com o pai”, conservando o sentido processual da expressão.
 - Em 262, “physicus” foi traduzido por “filósofo da natureza”; em 279, “corporis resolutio” por “descarga corporal”, conforme o contexto fisiológico.
 - Traduzidos os parágrafos 1–159 de qdemalo-c05.md, conservando as 159 unidades da fonte, além de três definições de notas do tradutor.
-- Acrescentadas as notas [^22], [^23] e [^24], após os parágrafos 57, 112 e 150, para esclarecer “supósito”, “corpo animal” e a terminologia fisiológica da umidade nutritiva e da força da espécie.
+- Acrescentadas as notas [^22], [^23] e [^24], após os parágrafos 57, 112 e 150, para esclarecer “supósito”, “corpo animal” e a terminologia fisiológica da umidade nutritiva e da virtude da espécie.
 - Em 42, conservada a distinção entre “não lhe ser devido tê-la” e “ser-lhe devido não a ter”, essencial ao argumento sobre a razão de pena.
 - Em 48, conservada sem correção conjectural a formulação “a culpa originali sacramenta non liberant”: “os sacramentos não libertam da culpa original”.
 - Em 96, a indicação “Rom. VI, V, 23” foi normalizada como “Romanos 6:23”, entendendo-se o “V” intermediário como indicação de versículo.
@@ -426,7 +426,7 @@ Destino: pt-BR.
 - Em 177, a permanência da iracúndia foi distinguida de sua manutenção voluntária, preservando a possibilidade de resistir pela razão a um movimento que continua a durar.
 - Conservadas sem emenda as leituras “a sensualidade não é pecado venial” em 220, “não terem concupiscência” em 284, a distância infinita entre anjo e homem em 297 e a primeira ocorrência de “mortali” em 317, embora o encadeamento desta última sugira “originali”.
 - Em 214, conservada a referência à “unidade” de Deus na última parte da resposta, embora a primeira parte mencione Deus “trino e uno”.
-- Conservadas as referências e numerações fornecidas, inclusive Eclesiastes 7:30 em 249, o livro XII do Comentário literal ao Gênesis em 255, Romanos 7:15 em 284, Salmo 76:10 em 315 e 2 Crônicas 30:19 em 328.
+- Conservadas as referências e numerações fornecidas, inclusive Eclesiastes 7:30 em 249, o livro XII de Sobre o Gênesis ao pé da letra em 255, Romanos 7:15 em 284, Salmo 76:10 em 315 e 2 Crônicas 30:19 em 328.
 - Em 337, mantida a ausência de negrito e itálico da fonte, diferentemente das fórmulas introdutórias dos artigos anteriores.
 - Traduzidos os parágrafos 346–398 de qdemalo-c07.md, conservando as 53 unidades da fonte, além de uma definição de nota do tradutor.
 - Acrescentada a nota [^33], após o parágrafo 351, para identificar “extrema-unção” com a denominação “unção dos enfermos”.
@@ -442,7 +442,7 @@ Destino: pt-BR.
 - Em 61, conservado o verbo “punido” para “punitur”, sem emendá-lo para “ponitur”.
 - Em 96, a construção irregular “super celsitudinem imitatur” foi entendida como referência à soberba que imita a sublimidade, explicitando-se “A soberba” como sujeito na tradução.
 - Conservadas a alternância entre furtar para cometer adultério e cometer adultério para furtar em 20 e 57, a ordem das respostas à décima primeira e à décima segunda objeções em 111–112 e a distribuição de irascível e concupiscível da formulação irregular em 161.
-- Em 128 e 181, preservadas as diferenças entre as duas citações de São Gregório: “imaginam ter” para “coniectant se habere” na primeira, “se vangloriam de ter” para “iactant se habere” na segunda, sem completar a segunda com as palavras finais da primeira.
+- Em 128 e 181, preservadas as diferenças entre as duas citações de São Gregório: “imaginam ter” para “coniectant se habere” na primeira, “se jactam de ter” para “iactant se habere” na segunda, sem completar a segunda com as palavras finais da primeira.
 - Mantidos os títulos e seus níveis de marcação, inclusive “Artigo 2”, “Artigo 3” e “Artigo 4” sem marca de cabeçalho.
 - Traduzidos os parágrafos 191–198 de qdemalo-c08.md, 1–79 de qdemalo-c09.md e 1–84 de qdemalo-c10.md, conservando as 171 unidades da fonte, além de duas definições de notas do tradutor.
 - Acrescentada a nota [^36], após qdemalo-c09.md, parágrafo 18, para explicar a amplitude de *claritas*; acrescentada a nota [^37], após qdemalo-c10.md, parágrafo 65, para esclarecer o sentido técnico de “nêmesis”.
@@ -510,7 +510,7 @@ Destino: pt-BR.
 - Preservadas as referências e as particularidades das citações, inclusive Eclesiastes 1:10, Eclesiástico 19:26, os parênteses de 1 Coríntios 2:11, a formulação de Romanos 13:1 e “livro II da Hierarquia celeste” no parágrafo 445.
 - Traduzidos os parágrafos 457–545 de qdemalo-c16.md, preservando as 89 unidades da fonte, além de uma definição de nota do tradutor; concluída a tradução do livro.
 - Acrescentada a nota [^56], sobre o sentido fisiológico de “espíritos” e “humores”, para distingui-los das substâncias espirituais discutidas no mesmo trecho.
-- Conservadas, sem emenda conjectural, as formulações *sensum ad imaginationem* no parágrafo 489 (“o sentido para a imaginação”), *proprium subiectum* no parágrafo 513 (“o sujeito próprio”), *virtus incorporea* no parágrafo 537 (“potência incorpórea”) e *ex parte intelligibilis* no parágrafo 541 (“por parte do inteligível”).
+- Conservadas, sem emenda conjectural, as formulações *sensum ad imaginationem* no parágrafo 489 (“o sentido para a imaginação”), *proprium subiectum* no parágrafo 513 (“o sujeito próprio”), *virtus incorporea* no parágrafo 537 (“virtude incorpórea”) e *ex parte intelligibilis* no parágrafo 541 (“por parte do inteligível”).
 - Preservadas as referências bíblicas e suas particularidades, inclusive o possessivo entre parênteses após a citação de Jó 37:8.
 
 ## Review log
@@ -704,3 +704,499 @@ Verdict: 0 meaning-level, 1 minor. Full read of qdemalo-c15 and qdemalo-c16 agai
 
 ### Part 5 of 5, Round 6 (codex, delta read)
 Verdict: 0 meaning-level, 0 minor. Lidos integralmente os parágrafos 307–309, as notas e os metadados apresentados; a correção em [308] preserva o sentido latino e resolve a construção gramatical. Nenhum novo defeito encontrado.
+
+### Part terms 1 of 6, Round 1 (codex, terms read)
+Verdict: 3 meaning-level, 25 minor. 189 parágrafos sinalizados lidos; 23 com desvios, corrigidos em 26 intervenções; 2 ajustes no glossário.
+- `pt-BR/translation-journal.md`: “| ratio | razão | “Argumento” quando designa uma argumentação. “Noção”, “natureza”, “caráter” ou “aspecto” quando designa o conteúdo inteligível, a constituição ou o aspecto sob o qual algo é considerado. |” → “| ratio | razão | “Argumento” quando designa uma argumentação. “Noção” quando designa o conteúdo definidor ou a caracterização formal de algo. |” — O texto emprega consistentemente “noção” para esse sentido de ratio; falta registrar essa acepção.
+- `pt-BR/translation-journal.md`: “| virtus / virtus activa | virtude / virtude ativa | Também para eficácia causal natural. “Potência” quando designa uma faculdade da alma, como a apetitiva, a nutritiva ou a cognoscitiva. |” → “| virtus / virtus activa | virtude / virtude ativa | Também para eficácia causal natural. “Faculdade” ou “potência” quando virtus designa uma faculdade da alma. |” — As ocorrências distinguem corretamente as faculdades da alma da virtude moral e da eficácia causal; falta registrar essa acepção.
+- `pt-BR/qdemalo-c01.md` [52]: “enquanto esta é destrutiva de sua vida” → “enquanto esta é corruptiva de sua vida” — corruptiva → “corruptiva” (Key Terms); estava “destrutiva”.
+- `pt-BR/qdemalo-c01.md` [173]: “de um bem de que alguém pode servir-se para operar bem” → “de um bem que alguém pode usar para operar bem” — uti → “usar” (Key Terms); estava “servir-se”.
+- `pt-BR/qdemalo-c01.md` [219]: “daquilo de que a vontade pode servir-se de algum modo” → “daquilo que a vontade pode usar de algum modo” — uti → “usar” (Key Terms); estava “servir-se”.
+- `pt-BR/qdemalo-c02.md` [38]: “o mal procede de defeitos particulares” → “o mal procede de deficiências particulares” — defectibus → “deficiências” (Key Terms); estava “defeitos”.
+- `pt-BR/qdemalo-c02.md` [44]: “em alguma afirmação concebida pelo intelecto ou pela imaginação” → “em alguma afirmação inteligida ou imaginada” — intellecta → “inteligida” (Key Terms); estava “concebida pelo intelecto”.
+- `pt-BR/qdemalo-c02.md` [90]: “aquilo que está na vontade é principalmente suprimido pelo pecado” → “o pecado causa principalmente a privação daquilo que está na vontade” — privatur exprime privação (Key Terms); estava traduzido por “suprimido”.
+- `pt-BR/qdemalo-c02.md` [118]: “e tal defeito, proveniente do intelecto” → “e tal deficiência, proveniente do intelecto” — defectus → “deficiência” (Key Terms); estava “defeito”.
+- `pt-BR/qdemalo-c02.md` [118]: “não há um defeito da parte do próprio intelecto” → “não há uma deficiência da parte do próprio intelecto” — defectus → “deficiência” (Key Terms); estava “defeito”.
+- `pt-BR/qdemalo-c02.md` [133]: “não convirão por si ao ato enquanto ato” → “não convirão ao ato em si mesmo enquanto ato” — secundum se → “em si mesmo” (Key Terms); estava “por si”.
+- `pt-BR/qdemalo-c02.md` [138]: “certa emanação segundo a potência do agente” → “certa emanação segundo a virtude do agente” — virtutem → “virtude” também para eficácia causal natural (Key Terms); “potência” introduz o termo reservado a potentia. *(meaning)*
+- `pt-BR/qdemalo-c02.md` [141]: “porque essas coisas são sensíveis por si” → “porque essas coisas são sensíveis em si mesmas” — secundum se → “em si mesmo”, com concordância (Key Terms); estava “por si”.
+- `pt-BR/qdemalo-c02.md` [146]: “o mal procede de defeitos particulares” → “o mal procede de deficiências particulares” — defectibus → “deficiências” (Key Terms); estava “defeitos”.
+- `pt-BR/qdemalo-c02.md` [183]: “não segundo a privação e a posse” → “não segundo a privação e o hábito” — habitum → “hábito” na oposição privativa (Key Terms); a nota esclarece seu sentido de posse.
+- `pt-BR/qdemalo-c02.md` [183]: “como a privação e a posse” → “como a privação e o hábito” — habitus → “hábito” na oposição privativa (Key Terms); estava “posse”.
+- `pt-BR/qdemalo-c02.md` [187]: “se ordena a evitar a sujeição à pena” → “se ordena a evitar o reato da pena” — reatum poenae → “reato da pena” (Key Terms); estava parafraseado como “sujeição à pena”.
+- `pt-BR/qdemalo-c02.md` [199]: “a menos que se destrua a primeira espécie” → “a menos que se corrompa a primeira espécie” — corrupta exprime corrupção da espécie (Key Terms); estava “se destrua”.
+- `pt-BR/qdemalo-c02.md` [227]: “que são defeitos de espécies diversas” → “que são deficiências de espécies diversas” — defectus → “deficiências” (Key Terms); estava “defeitos”.
+- `pt-BR/qdemalo-c02.md` [307]: “incorresse em tanta culpa quanto se transgredisse todos” → “incorresse em tanto reato quanto se transgredisse todos” — reatum → “reato” (Key Terms); “culpa” confunde a responsabilidade decorrente do pecado com a própria culpa. *(meaning)*
+- `pt-BR/qdemalo-c02.md` [307]: “incorre em culpa pelo desprezo de todos os preceitos” → “incorre em reato pelo desprezo de todos os preceitos” — reatum → “reato” (Key Terms); estava “culpa”, conceito distinto. *(meaning)*
+- `pt-BR/qdemalo-c02.md` [311]: “quem não observa o preceito suprime totalmente aquilo a que está obrigado” → “quem não observa o preceito causa a privação total daquilo a que está obrigado” — privat exprime privação (Key Terms); estava traduzido por “suprime”.
+- `pt-BR/qdemalo-c02.md` [317]: “é múltipla em sua capacidade de agir” → “é múltipla em sua virtude” — virtute → “virtude” no sentido de eficácia operativa (Key Terms); estava parafraseado como “capacidade de agir”.
+- `pt-BR/qdemalo-c02.md` [324]: “diminui, contudo, a aptidão para o bem” → “diminui, contudo, a capacidade para o bem” — habilitas → “capacidade” (Key Terms); “aptidão” é o correspondente de aptitudo.
+- `pt-BR/qdemalo-c02.md` [325]: “como se diz no Livro das causas” → “como se diz em Sobre as causas” — De causis → “Sobre as causas” (Key Terms); estava “Livro das causas”.
+- `pt-BR/qdemalo-c02.md` [352]: “a virtude do bem não é corruptora” → “a virtude do bem não é corruptiva” — corruptiva → “corruptiva” (Key Terms); estava “corruptora”.
+- `pt-BR/qdemalo-c02.md` [356]: “no livro VIII do Comentário literal ao Gênesis” → “no livro VIII de Sobre o Gênesis ao pé da letra” — Super Genesim ad litteram → “Sobre o Gênesis ao pé da letra” (Key Terms); estava “Comentário literal ao Gênesis”.
+- `pt-BR/qdemalo-c03.md` [29]: “por uma ordem, move outros ao fim que pretende” → “por um preceito, move outros ao fim que pretende” — praeceptum → “preceito” (Key Terms); estava “ordem”.
+
+### Part terms 1 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 3 minor. Delta read of 28 changes in c01–c03 and their neighbours: all correct against the source; fixed two journal entries left false by the posse→hábito change and one work title in c03 [29].
+- `pt-BR/translation-journal.md`: “| privatio et habitus | privação e posse | Nesta oposição lógica, *habitus* designa a presença da perfeição, não o hábito como disposição estável. |” → “| privatio et habitus | privação e hábito | Nesta oposição lógica, *habitus* designa a presença da perfeição, não o hábito como disposição estável; nota [^1]. |” — After the change in c02 [183], “privação e posse” occurs nowhere in the text. The row now contradicts the text and the row “privatio / habitus”.
+- `pt-BR/translation-journal.md`: “como oposto lógico de privação (“posse”, no parágrafo 183).” → “como oposto lógico de privação (“hábito” no sentido de posse, no parágrafo 183).” — Paragraph 183 now uses “hábito”, so the decision's claim of “posse” is false.
+- `pt-BR/qdemalo-c03.md` [29]: “no capítulo IX de Os nomes divinos” → “no capítulo IX de Sobre os nomes divinos” — de Divin. Nom. → “Sobre os nomes divinos” (Key Terms; same form as c02 [38] and [139]). “Os nomes divinos” matches no Key Terms row.
+- Rejected: pt-BR/translation-journal.md, row “Moralia / … / Liber de causis” — “Livro das causas” conflicts with the row “De causis | Sobre as causas” and with the corrected c02 [325]. — Other parts of the book, not shown here, may still use “Livro das causas”. Changing the row without seeing them could make it false. This is for the round that reviews those parts.
+- Rejected: pt-BR/qdemalo-c02.md [183] — “hábito” in the privative opposition has no translator's note in this chapter. — Note [^1] in c01 and the Key Terms row cover this sense, and the change follows the main Key Terms row. This is not a defect.
+- Rejected: pt-BR/qdemalo-c02.md [352] — “capítulo IV” in [352] against “capítulo 4” in [38] and [139]. — The numeral style predates this round and does not change the meaning. It is not part of the delta.
+
+### Part terms 1 of 6, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as três alterações, os parágrafos 28–30 de c03 e as quatro notas fornecidas; nenhum defeito encontrado. Os demais locais sinalizados pela auditoria não foram apresentados neste delta.
+
+### Part terms 2 of 6, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 74 minor. Lidos os 202 parágrafos sinalizados; encontrados desvios em 51 parágrafos e acrescentados dois sentidos às notas do glossário.
+- `pt-BR/qdemalo-c03.md` [55]: “no livro III de A Trindade” → “no livro III de Sobre a Trindade” — Título conforme a tabela de termos.
+- `pt-BR/qdemalo-c03.md` [69]: “no livro IV de A Trindade” → “no livro IV de Sobre a Trindade” — Título conforme a tabela de termos.
+- `pt-BR/translation-journal.md`: “| virtus / virtus activa | virtude / virtude ativa | Também para eficácia causal natural. “Potência” quando designa uma faculdade da alma, como a potência apetitiva ou intelectiva. |” → “| virtus / virtus activa | virtude / virtude ativa | Também para eficácia causal natural. “Potência” quando designa uma faculdade da alma, como a apetitiva, a nutritiva ou a cognoscitiva. |” — As ocorrências distinguem corretamente faculdades da alma de virtude moral e de eficácia causal; a nota deve registrar esse sentido.
+- `pt-BR/qdemalo-c03.md` [75]: “pois a potência concupiscível é ato” → “pois a faculdade concupiscível é ato” — *vis concupiscibilis* → “faculdade concupiscível” (Key Terms).
+- `pt-BR/qdemalo-c03.md` [76]: “no Comentário literal ao Gênesis” → “em Sobre o Gênesis ao pé da letra” — Título conforme a tabela de termos.
+- `pt-BR/qdemalo-c03.md` [113]: “pois a imaginação é um movimento” → “pois a fantasia é um movimento” — *phantasia* → “fantasia” (Key Terms); estava “imaginação”.
+- `pt-BR/qdemalo-c03.md` [184]: “das coisas que se devem desejar e evitar” → “das coisas que se devem apetecer e evitar” — *appetere* → “apetecer” (Key Terms).
+- `pt-BR/qdemalo-c03.md` [211]: “a relação da ignorância com o voluntário pode ser considerada a partir da relação do intelecto com a vontade” → “a ordem da ignorância ao voluntário pode ser considerada a partir da ordem do intelecto à vontade” — As duas ocorrências de *ordo* devem conservar “ordem”.
+- `pt-BR/qdemalo-c03.md` [211]: “porque o bem apreendido pelo intelecto é o objeto da vontade” → “porque o bem inteligido é o objeto da vontade” — *intellectum* → “inteligido” (Key Terms).
+- `pt-BR/qdemalo-c03.md` [216]: “todo malvado é ignorante” → “todo mau é ignorante” — *malus* → “mau” (Key Terms).
+- `pt-BR/qdemalo-c03.md` [229]: “segundo a natureza de seu objeto” → “segundo a razão de seu objeto” — *ratio* → “razão” (Key Terms); estava “natureza”.
+- `pt-BR/qdemalo-c03.md` [245]: “à força que rege o corpo inteiro” → “à virtude que rege o corpo inteiro” — *virtus* → “virtude”, inclusive para eficácia causal natural (Key Terms).
+- `pt-BR/translation-journal.md`: “| intentio | intenção | Direcionamento da potência apetitiva para algo; não se restringe à vontade, pois também se atribui ao apetite sensitivo. “Atenção” quando designa a aplicação ou concentração da alma no ato de uma potência, como em q. 15, a. 4. |” → “| intentio | intenção | Direcionamento da potência apetitiva para algo; não se restringe à vontade, pois também se atribui ao apetite sensitivo. “Atenção” quando designa a aplicação da alma aos atos de suas potências. |” — Nos parágrafos 247 e 277, “atenção” traduz corretamente a aplicação da alma aos atos das potências; esse sentido falta à nota.
+- `pt-BR/qdemalo-c03.md` [256]: “deve-se fruir de tudo o que é prazeroso” → “deve-se fruir de tudo o que é agradável” — *delectabile* → “agradável” (Key Terms).
+- `pt-BR/qdemalo-c03.md` [256]: “este ato é prazeroso” → “este ato é agradável” — *delectabilis* → “agradável” (Key Terms).
+- `pt-BR/qdemalo-c03.md` [257]: “se deve buscar tudo o que é prazeroso” → “se deve buscar tudo o que é agradável” — *delectabile* → “agradável” (Key Terms).
+- `pt-BR/qdemalo-c03.md` [257]: “isto é prazeroso” → “isto é agradável” — *delectabile* → “agradável” (Key Terms).
+- `pt-BR/qdemalo-c03.md` [315]: “ou deliberadamente, ou com ciência certa” → “ou de propósito, ou com ciência certa” — *ex industria* → “de propósito” (Key Terms).
+- `pt-BR/qdemalo-c03.md` [318]: “se alguém desejasse o prazer” → “se alguém apetecesse o prazer” — *appeteret* → “apetecesse” (Key Terms).
+- `pt-BR/qdemalo-c03.md` [366]: “pelo poder de sua divindade” → “pela virtude de sua divindade” — *virtus* → “virtude” para eficácia causal (Key Terms).
+- `pt-BR/qdemalo-c03.md` [396]: “contra o poder do Espírito Santo” → “contra a virtude do Espírito Santo” — *virtus* → “virtude” para eficácia causal (Key Terms).
+- `pt-BR/qdemalo-c03.md` [398]: “o poder da graça divina como princípio ativo” → “a virtude da graça divina como princípio ativo” — *virtus* → “virtude” para eficácia causal (Key Terms).
+- `pt-BR/qdemalo-c03.md` [403]: “De um modo, pelo gênero” → “De um modo, por seu gênero” — *ex genere* → “por seu gênero” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [9]: “a nenhum defeito contraído pela origem” → “a nenhuma deficiência contraída pela origem” — *defectus* → “deficiência” (Key Terms), com ajuste de concordância.
+- `pt-BR/qdemalo-c04.md` [9]: “nenhum defeito contraído pela origem tem” → “nenhuma deficiência contraída pela origem tem” — *defectus* → “deficiência” (Key Terms), com ajuste de concordância.
+- `pt-BR/qdemalo-c04.md` [10]: “todo defeito que provém de outro” → “toda deficiência que provém de outro” — *defectus* → “deficiência” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [15]: “o defeito que se seguiu ao pecado” → “a deficiência que se seguiu ao pecado” — *defectus* → “deficiência” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [15]: “o referido defeito também é espiritual” → “a referida deficiência também é espiritual” — *defectus* → “deficiência” (Key Terms), com ajuste de concordância.
+- `pt-BR/qdemalo-c04.md` [30]: “esse defeito, derivado desse modo” → “essa deficiência, derivada desse modo” — *defectus* → “deficiência” (Key Terms), com ajuste de concordância.
+- `pt-BR/qdemalo-c04.md` [30]: “for considerado segundo aquilo” → “for considerada segundo aquilo” — Concordância com “essa deficiência”, correspondente ao *defectus* sinalizado.
+- `pt-BR/qdemalo-c04.md` [30]: “tal defeito não pode ter razão de culpa” → “tal deficiência não pode ter razão de culpa” — *defectus* → “deficiência” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [30]: “então o defeito tem razão de culpa” → “então a deficiência tem razão de culpa” — Retomada do *defectus* sinalizado: conservar “deficiência”.
+- `pt-BR/qdemalo-c04.md` [31]: “tal defeito não é chamado pecado pessoal” → “tal deficiência não é chamada pecado pessoal” — *defectus* → “deficiência” (Key Terms), com ajuste de concordância.
+- `pt-BR/qdemalo-c04.md` [36]: “o defeito contraído pela origem tem” → “a deficiência contraída pela origem tem” — *defectus* → “deficiência” (Key Terms), com ajuste de concordância.
+- `pt-BR/qdemalo-c04.md` [36]: “se for referido à pessoa; não, porém, se for referido à natureza” → “se for referida à pessoa; não, porém, se for referida à natureza” — Concordância com “a deficiência”, correspondente ao *defectus* sinalizado.
+- `pt-BR/qdemalo-c04.md` [44]: “até de defeitos particulares” → “até de deficiências particulares” — *defectus* → “deficiência” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [44]: “o defeito que está da parte do corpo” → “a deficiência que está da parte do corpo” — *defectus* → “deficiência” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [45]: “a carência da visão divina pode caber a alguém de dois modos” → “a privação da visão divina pode caber a alguém de dois modos” — *carentia divinae visionis* → “privação da visão divina” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [45]: “a carência da visão divina caberia” → “a privação da visão divina caberia” — *carentia divinae visionis* → “privação da visão divina” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [45]: “assim a carência da visão divina não é pena” → “assim a privação da visão divina não é pena” — *carentia divinae visionis* → “privação da visão divina” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [45]: “um defeito que acompanha toda natureza criada” → “uma deficiência que acompanha toda natureza criada” — *defectus* → “deficiência” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [45]: “a carência da visão divina pode caber a alguém por ter” → “a privação da visão divina pode caber a alguém por ter” — *carentia divinae visionis* → “privação da visão divina” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [45]: “a carência da visão divina é pena” → “a privação da visão divina é pena” — *carentia visionis divinae* → “privação da visão divina” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [58]: “Ora, a potência concupiscível é natural” → “Ora, a faculdade concupiscível é natural” — *vis concupiscibilis* → “faculdade concupiscível” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [69]: “a impotência de ter a justiça e de compreendê-la” → “a impotência de ter a justiça e de inteligi-la” — *intelligere* → “inteligir” (Key Terms); aqui não se trata do sentido de uma expressão.
+- `pt-BR/qdemalo-c04.md` [69]: “a impotência de compreender pertence” → “a impotência de inteligir pertence” — *intelligere* → “inteligir” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [73]: “o intelecto sofre um defeito” → “o intelecto sofre uma deficiência” — *defectus* → “deficiência” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [73]: “que é um defeito do intelecto” → “que é uma deficiência do intelecto” — *defectus* → “deficiência” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [73]: “todos os defeitos das potências inferiores” → “todas as deficiências das potências inferiores” — *defectus* → “deficiência” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [87]: “o defeito transmitido pela origem” → “a deficiência transmitida pela origem” — *defectus* → “deficiência” (Key Terms), com ajuste de concordância.
+- `pt-BR/qdemalo-c04.md` [89]: “a concupiscência pela qual a potência concupiscível está propensa” → “a concupiscência pela qual a faculdade concupiscível está propensa” — *vis concupiscibilis* → “faculdade concupiscível” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [90]: “assim como a potência concupiscível é natural” → “assim como a faculdade concupiscível é natural” — *vis concupiscibilis* → “faculdade concupiscível” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [93]: “a própria propensão ou aptidão para sentir concupiscência” → “a própria propensão ou capacidade para sentir concupiscência” — *habilitas* → “capacidade” (Key Terms); “aptidão” corresponde a *aptitudo*.
+- `pt-BR/qdemalo-c04.md` [93]: “de a potência concupiscível não estar” → “de a faculdade concupiscível não estar” — *vis concupiscibilis* → “faculdade concupiscível” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [94]: “todo defeito encontrado na natureza da prole” → “toda deficiência encontrada na natureza da prole” — *defectus* → “deficiência” (Key Terms), com ajuste de concordância.
+- `pt-BR/qdemalo-c04.md` [100]: “o defeito que constitui o pecado atual” → “a deficiência que constitui o pecado atual” — *defectus* → “deficiência” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [100]: “que é um defeito no sujeito do pecado” → “que é uma deficiência no sujeito do pecado” — *defectus* → “deficiência” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [103]: “o defeito do intelecto também está materialmente contido” → “a deficiência do intelecto também está materialmente contida” — *defectus* → “deficiência” (Key Terms), com ajuste de concordância.
+- `pt-BR/qdemalo-c04.md` [103]: “Esse defeito é a carência” → “Essa deficiência é a carência” — *defectus* → “deficiência” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [104]: “os defeitos das diversas partes” → “as deficiências das diversas partes” — *defectus* → “deficiência” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [105]: “o defeito transmitido não tem” → “a deficiência transmitida não tem” — *defectus* → “deficiência” (Key Terms), com ajuste de concordância.
+- `pt-BR/qdemalo-c04.md` [108]: “pois desse defeito provém” → “pois dessa deficiência provém” — *defectus* → “deficiência” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [118]: “tem mais poder que a luz corporal” → “tem mais virtude que a luz corporal” — *virtuosior* exprime maior eficácia: conservar “virtude”, conforme a tabela.
+- `pt-BR/qdemalo-c04.md` [138]: “o defeito que pertence à essência da alma” → “a deficiência que pertence à essência da alma” — *defectus* → “deficiência” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [138]: “é o defeito da vida” → “é a deficiência da vida” — *defectus* → “deficiência” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [138]: “esse defeito não tem razão de culpa” → “essa deficiência não tem razão de culpa” — *defectus* → “deficiência” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [146]: “o defeito proveniente da culpa do primeiro pai” → “a deficiência proveniente da culpa do primeiro pai” — *defectus* → “deficiência” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [153]: “provém do defeito da natureza” → “provém da deficiência da natureza” — *defectus* → “deficiência” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [202]: “porque o poder divino impede a morte” → “porque a virtude divina impede a morte” — *virtus* → “virtude” para eficácia causal (Key Terms).
+- `pt-BR/qdemalo-c04.md` [203]: “pelo poder de Cristo” → “pela virtude de Cristo” — *virtus* → “virtude” para eficácia causal (Key Terms).
+- `pt-BR/qdemalo-c04.md` [212]: “o defeito original não tem” → “a deficiência original não tem” — *defectus* → “deficiência” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [215]: “diz-se no Livro das causas” → “diz-se em Sobre as causas” — *De causis* → “Sobre as causas” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [219]: “tende imoderadamente ao prazer da carne” → “tende imoderadamente ao que é agradável à carne” — *delectabile* → “agradável” (Key Terms).
+- `pt-BR/qdemalo-c04.md` [237]: “não seriam defeitos penais, mas naturais” → “não seriam deficiências penais, mas naturais” — *defectus* → “deficiência” (Key Terms).
+
+### Part terms 2 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta read: verifiquei as 74 correções e os parágrafos vizinhos. Corrigida a concordância quebrada em c04 [212] e revertido c03 [403] para “pelo gênero”, conforme a linha específica da tabela de termos.
+- `pt-BR/qdemalo-c04.md` [212]: “por ser contraído necessariamente” → “por ser contraída necessariamente” — A troca de “defeito” por “deficiência” deixou o particípio no masculino; deve concordar com “a deficiência original”.
+- `pt-BR/qdemalo-c03.md` [403]: “De um modo, por seu gênero, assim” → “De um modo, pelo gênero, assim” — A linha da tabela de termos específica para este passo (“veniale ex genere / ex eventu / ex causa” → “venial pelo gênero / pelo resultado / pela causa”, resposta à quinta objeção do artigo 15) fixa “pelo gênero”. Essa forma também mantém o paralelismo com “pelo resultado” e “pela causa”. A correção anterior seguiu a linha geral *ex genere* e criou a divergência que a auditoria aponta.
+- Rejected: pt-BR/translation-journal.md (linha virtus) — O texto atual da linha difere do texto descrito na correção anterior. — A nota atual (“Faculdade” ou “potência” quando designa uma faculdade da alma) é correta e coerente com as ocorrências. Não há defeito.
+- Rejected: pt-BR/qdemalo-c03.md [245] — “virtude que rege” e, logo depois, “uma força que rege o corpo” — O primeiro traduz *virtuti regitivae*; o segundo traduz *vis regitiva*. A distinção lexical da fonte fica preservada.
+- Rejected: pt-BR/qdemalo-c04.md [45] — *carentia* traduzido por “privação” — A tabela de termos fixa expressamente “privação da visão divina” para *carentia divinae visionis*.
+
+### Part terms 2 of 6, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente os seis parágrafos apresentados e as dez notas do tradutor; verificadas as duas correções da rodada anterior, ambas corretas. Nenhum novo defeito encontrado.
+
+### Part terms 3 of 6, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 76 minor. 195 parágrafos sinalizados examinados; 47 com desvios terminológicos; 1 linha de glossário ampliada.
+- `pt-BR/translation-journal.md`: “| ratio | razão | “Argumento” quando designa uma argumentação. |” → “| ratio | razão | “Argumento” quando designa uma argumentação. “Noção”, “natureza”, “caráter” ou “aspecto” quando designa o conteúdo inteligível, a constituição ou o aspecto sob o qual algo é considerado. |” — As ocorrências distinguem corretamente a faculdade racional de sentidos conceituais de ratio que a nota ainda não contempla.
+- `pt-BR/qdemalo-c04.md` [263]: “como pelo pecado se perde o dom da graça” → “como pelo pecado se fica privado do dom da graça” — privatur → “se fica privado”, derivado de “privação” (Key Terms); estava “se perde”.
+- `pt-BR/qdemalo-c04.md` [271]: “da maldade paterna” → “da malícia paterna” — malitia → “malícia” (Key Terms); estava “maldade”.
+- `pt-BR/qdemalo-c04.md` [273]: “se devia ao poder divino” → “se devia à virtude divina” — virtus → “virtude” (Key Terms), também na eficácia causal; estava “poder”.
+- `pt-BR/qdemalo-c04.md` [274]: “senão pelo poder do mediador” → “senão pela virtude do mediador” — virtus → “virtude” (Key Terms); estava “poder”.
+- `pt-BR/qdemalo-c05.md` [6]: “na obrigação de sofrer a privação da visão divina” → “no reato da privação da visão divina” — reatus → “reato” (Key Terms); estava parafraseado como “obrigação de sofrer”.
+- `pt-BR/qdemalo-c05.md` [10]: “quanto à recompensa essencial” → “quanto ao prêmio essencial” — praemium → “prêmio” (Key Terms); estava “recompensa”.
+- `pt-BR/qdemalo-c05.md` [10]: “quanto à recompensa acidental” → “quanto ao prêmio acidental” — praemium → “prêmio” (Key Terms); estava “recompensa”.
+- `pt-BR/qdemalo-c05.md` [10]: “a recompensa acidental se relaciona” → “o prêmio acidental se relaciona” — praemium → “prêmio” (Key Terms); estava “recompensa”.
+- `pt-BR/qdemalo-c05.md` [17]: “na obrigação de sofrer pena alguma” → “no reato de pena alguma” — reatus → “reato” (Key Terms); estava parafraseado como “obrigação de sofrer”.
+- `pt-BR/qdemalo-c05.md` [28]: “se transmitisse a obrigação de sofrer a pena” → “se transmitisse o reato da pena” — reatus poenae → “reato da pena” (Key Terms); estava parafraseado.
+- `pt-BR/qdemalo-c05.md` [32]: “o acréscimo de uma recompensa acidental” → “o acréscimo de um prêmio acidental” — praemium → “prêmio” (Key Terms); estava “recompensa”.
+- `pt-BR/qdemalo-c05.md` [32]: “porque a recompensa acidental” → “porque o prêmio acidental” — praemium → “prêmio” (Key Terms); estava “recompensa”.
+- `pt-BR/qdemalo-c05.md` [38]: “não incorre na obrigação de sofrer a pena” → “não incorre no reato” — reatus → “reato” (Key Terms); estava parafraseado como “obrigação de sofrer a pena”.
+- `pt-BR/qdemalo-c05.md` [38]: “mas incorre nessa obrigação” → “mas incorre nesse reato” — A segunda ocorrência de reatus retoma o mesmo termo técnico, “reato”.
+- `pt-BR/qdemalo-c05.md` [41]: “isenta da obrigação de sofrer a pena do pecado atual” → “isenta do reato do pecado atual” — reatus → “reato” (Key Terms); estava parafraseado.
+- `pt-BR/qdemalo-c05.md` [41]: “mas não da obrigação de sofrer a pena do pecado original” → “mas não do reato do pecado original” — reatus → “reato” (Key Terms); estava parafraseado.
+- `pt-BR/qdemalo-c05.md` [70]: “o homem deseja naturalmente a bem-aventurança” → “o homem apetece naturalmente a bem-aventurança” — appetit → “apetece” (Key Terms); estava “deseja”.
+- `pt-BR/qdemalo-c05.md` [130]: “no livro VIII do Comentário literal ao Gênesis” → “no livro VIII de Sobre o Gênesis ao pé da letra” — Super Genesim ad litteram → “Sobre o Gênesis ao pé da letra” (Key Terms).
+- `pt-BR/qdemalo-c05.md` [131]: “por algum poder criado” → “por alguma virtude criada” — virtus → “virtude” (Key Terms), também para eficácia causal natural; estava “poder”.
+- `pt-BR/qdemalo-c05.md` [131]: “porque todo poder criado opera” → “porque toda virtude criada opera” — virtus → “virtude” (Key Terms); estava “poder”.
+- `pt-BR/qdemalo-c05.md` [131]: “Logo, por seu poder, o homem” → “Logo, por sua virtude, o homem” — virtus → “virtude” (Key Terms); estava “poder”.
+- `pt-BR/qdemalo-c05.md` [138]: “por cujo poder a matéria” → “por cuja virtude a matéria” — virtus → “virtude” (Key Terms), também para eficácia causal natural; estava “poder”.
+- `pt-BR/qdemalo-c05.md` [140]: “por seu poder foi concedido” → “por sua virtude foi concedido” — virtus → “virtude” (Key Terms); estava “poder”.
+- `pt-BR/qdemalo-c05.md` [147]: “conservados pelo poder do corpo celeste” → “conservados pela virtude do corpo celeste” — virtus → “virtude” (Key Terms), também para eficácia causal natural; estava “poder”.
+- `pt-BR/qdemalo-c05.md` [147]: “senão pelo poder do corpo celeste” → “senão pela virtude do corpo celeste” — virtus → “virtude” (Key Terms); estava “poder”.
+- `pt-BR/qdemalo-c05.md` [148]: “a força de um agente físico” → “a virtude de um agente físico” — virtus → “virtude” (Key Terms), também para eficácia causal natural; estava “força”.
+- `pt-BR/qdemalo-c05.md` [148]: “se restaura a força ativa” → “se restaura a virtude ativa” — virtus activa → “virtude ativa” (Key Terms); estava “força ativa”.
+- `pt-BR/qdemalo-c05.md` [148]: “a força dos elementos quentes” → “a virtude dos elementos quentes” — virtus → “virtude” (Key Terms); estava “força”.
+- `pt-BR/qdemalo-c05.md` [148]: “enquanto dura a força da forma” → “enquanto dura a virtude da forma” — virtus → “virtude” (Key Terms); estava “força”.
+- `pt-BR/qdemalo-c05.md` [150]: “a força da espécie humana” → “a virtude da espécie humana” — virtus → “virtude” (Key Terms), também para eficácia causal natural; estava “força”.
+- `pt-BR/qdemalo-c05.md` [150]: “a força do vinho” → “a virtude do vinho” — virtus → “virtude” (Key Terms); estava “força”.
+- `pt-BR/qdemalo-c05.md` [150]: “também a força da espécie diminui” → “também a virtude da espécie diminui” — virtus → “virtude” (Key Terms); estava “força”.
+- `pt-BR/qdemalo-c05.md` [150]: “restaurando por seu poder” → “restaurando por sua virtude” — virtus → “virtude” (Key Terms); estava “poder”.
+- `pt-BR/qdemalo-c05.md` [150]: “a força da espécie ao vigor anterior” → “a virtude da espécie ao vigor anterior” — virtus → “virtude” (Key Terms); estava “força”.
+- `pt-BR/qdemalo-c05.md` [150]: “desse a força de durar” → “desse a virtude de durar” — virtus → “virtude” (Key Terms); estava “força”.
+- `pt-BR/qdemalo-c05.md` [150]: “fortalecia a força natural” → “fortalecia a virtude natural” — virtus → “virtude” (Key Terms); estava “força”.
+- `pt-BR/qdemalo-c05.md` [150]: “era o poder concedido por Deus à alma” → “era a virtude concedida por Deus à alma” — virtus → “virtude” (Key Terms); estava “poder”.
+- `pt-BR/qdemalo-c05.md` [153]: “pela força da forma” → “pela virtude da forma” — virtus → “virtude” (Key Terms), também para eficácia causal natural; estava “força”.
+- `pt-BR/qdemalo-c05.md` [154]: “cujo poder excede infinitamente” → “cuja virtude excede infinitamente” — virtus → “virtude” (Key Terms); estava “poder”.
+- `pt-BR/qdemalo-c05.md` [154]: “todo poder de outro agente” → “toda virtude de outro agente” — virtus → “virtude” (Key Terms); estava “poder”.
+- `pt-BR/qdemalo-c05.md` [154]: “no ser por seu poder” → “no ser por sua virtude” — virtus → “virtude” (Key Terms); estava “poder”.
+- `pt-BR/qdemalo-c05.md` [154]: “pelo poder do corpo celeste” → “pela virtude do corpo celeste” — virtus → “virtude” (Key Terms), também para eficácia causal natural; estava “poder”.
+- `pt-BR/qdemalo-c05.md` [155]: “mais forte que a força da forma” → “mais forte que a virtude da forma” — virtus → “virtude” (Key Terms), também para eficácia causal natural; estava “força”.
+- `pt-BR/qdemalo-c06.md` [8]: “pela força de um corpo celeste” → “pela virtude de um corpo celeste” — virtus → “virtude” (Key Terms), também para eficácia causal natural; estava “força”.
+- `pt-BR/qdemalo-c06.md` [21]: “nenhuma potência aberta a contrários” → “nenhuma virtude aberta a contrários” — virtus → “virtude” (Key Terms); estava “potência”, diferentemente de potentia na conclusão.
+- `pt-BR/qdemalo-c06.md` [21]: “porque toda potência ativa pode” → “porque toda virtude ativa pode” — virtus activa → “virtude ativa” (Key Terms); estava “potência ativa”.
+- `pt-BR/qdemalo-c06.md` [23]: “a própria potência aberta a opostos” → “a própria virtude aberta a opostos” — virtus → “virtude” (Key Terms); estava “potência”.
+- `pt-BR/qdemalo-c06.md` [37]: “a forma de algo prazeroso” → “a forma de algo agradável” — delectabile → “agradável” (Key Terms); estava “prazeroso”.
+- `pt-BR/qdemalo-c06.md` [42]: “não é uma potência corpórea” → “não é uma virtude corpórea” — virtus → “virtude” (Key Terms); estava “potência”.
+- `pt-BR/qdemalo-c06.md` [42]: “a força de um corpo celeste” → “a virtude de um corpo celeste” — virtus → “virtude” (Key Terms), também para eficácia causal natural; estava “força”.
+- `pt-BR/qdemalo-c06.md` [51]: “da eficácia da força motora” → “da eficácia da virtude motora” — virtus → “virtude” (Key Terms); estava “força”.
+- `pt-BR/qdemalo-c06.md` [55]: “supera a potência do princípio passivo” → “supera a virtude do princípio passivo” — virtus → “virtude” (Key Terms); estava “potência”.
+- `pt-BR/qdemalo-c06.md` [55]: “supera a potência da vontade” → “supera a virtude da vontade” — virtus → “virtude” (Key Terms); estava “potência”.
+- `pt-BR/qdemalo-c06.md` [70]: “apresentados alimentos saborosos” → “apresentados alimentos agradáveis” — delectabile → “agradável” (Key Terms); estava “saborosos”.
+- `pt-BR/qdemalo-c07.md` [37]: “a força da natureza pode superar” → “a virtude da natureza pode superar” — virtus → “virtude” (Key Terms), também para eficácia causal natural; estava “força”.
+- `pt-BR/qdemalo-c07.md` [40]: “mas não pelo gênero da obra” → “mas não quanto ao gênero da obra” — ex genere → “quanto ao gênero” (Key Terms); estava “pelo gênero”.
+- `pt-BR/qdemalo-c07.md` [66]: “pelo qual se perdeu a graça” → “pelo qual se ficou privado da graça” — gratia est privata → “se ficou privado da graça”, preservando o vocabulário de privação (Key Terms).
+- `pt-BR/qdemalo-c07.md` [81]: “toda força unida é mais forte” → “toda virtude unida é mais forte” — virtus → “virtude” (Key Terms); estava “força”.
+- `pt-BR/qdemalo-c07.md` [81]: “a força da caridade” → “a virtude da caridade” — virtus → “virtude” (Key Terms); estava “força”.
+- `pt-BR/qdemalo-c07.md` [92]: “mais forte for a potência ativa” → “mais forte for a virtude ativa” — virtus activa → “virtude ativa” (Key Terms); estava “potência ativa”.
+- `pt-BR/qdemalo-c07.md` [93]: “enquanto ela é uma potência ou um hábito” → “enquanto ela é uma virtude ou um hábito” — virtus → “virtude” (Key Terms); estava “potência”.
+- `pt-BR/qdemalo-c07.md` [93]: “se chama grande a potência capaz” → “se chama grande a virtude capaz” — virtus → “virtude” (Key Terms); estava “potência”.
+- `pt-BR/qdemalo-c07.md` [94]: “maior ou menor sua potência” → “maior ou menor sua virtude” — virtus → “virtude” (Key Terms); estava “potência”.
+- `pt-BR/qdemalo-c07.md` [104]: “a claridade existente na casa” → “o esplendor existente na casa” — claritas → “esplendor” (Key Terms); estava “claridade”.
+- `pt-BR/qdemalo-c07.md` [104]: “da claridade do raio” → “do esplendor do raio” — claritas → “esplendor” (Key Terms); estava “claridade”.
+- `pt-BR/qdemalo-c07.md` [115]: “diminui sua capacidade de andar” → “diminui sua virtude locomotora” — virtus gressiva → “virtude locomotora”, preservando “virtude” (Key Terms); estava parafraseado.
+- `pt-BR/qdemalo-c07.md` [199]: “no livro XII de A Trindade” → “no livro XII de Sobre a Trindade” — De Trinitate → “Sobre a Trindade” (Key Terms); estava “A Trindade”.
+- `pt-BR/qdemalo-c07.md` [203]: “e se afasta em algo da retidão da justiça” → “e é em algo deficiente quanto à retidão da justiça” — deficiens → “deficiente” (Key Terms); estava parafraseado como afastamento.
+- `pt-BR/qdemalo-c07.md` [209]: “do que é próprio da imaginação” → “do que é próprio da fantasia” — phantasia → “fantasia” (Key Terms); estava “imaginação”.
+- `pt-BR/qdemalo-c07.md` [210]: “embora se afaste dessa consideração universal” → “embora falhe em manter essa consideração universal” — deficiat → “falhe”, variante expressamente admitida pelos Key Terms; estava “se afaste”.
+- `pt-BR/qdemalo-c07.md` [210]: “julga bom entregar-se a um prazer desonesto” → “julga bom usar de um prazer desonesto” — uti → “usar” (Key Terms); estava “entregar-se”.
+- `pt-BR/qdemalo-c07.md` [237]: “é uma potência que reside em um órgão corporal” → “é uma virtude que reside em um órgão corporal” — virtus → “virtude” (Key Terms); estava “potência”.
+- `pt-BR/qdemalo-c07.md` [254]: “uma doença que enfraqueceu seu vigor” → “uma doença que enfraqueceu sua virtude” — virtus → “virtude” (Key Terms); estava “vigor”.
+- `pt-BR/qdemalo-c07.md` [255]: “no livro XII do Comentário literal ao Gênesis” → “no livro XII de Sobre o Gênesis ao pé da letra” — Super Genesim ad litteram → “Sobre o Gênesis ao pé da letra” (Key Terms).
+- `pt-BR/qdemalo-c07.md` [301]: “no âmbito do que se deseja e do que se realiza” → “no âmbito do que é apetecível e do que se realiza” — appetibilibus → “do que é apetecível” (Key Terms); estava parafraseado como “do que se deseja”.
+
+### Part terms 3 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 5 minor. Delta read of the 77 round-1 changes in c04–c07 and their neighbours: all correct; 5 minor fixes, 4 for stale footnote and journal references and 1 for an untouched “poder” in c05 [141].
+- `pt-BR/qdemalo-c05.md` [150]: “Nesse contexto, “força da espécie” é a capacidade” → “Nesse contexto, “virtude da espécie” é a capacidade” — Footnote [^24] glosses “força da espécie”, which no longer occurs in [150]; the text now reads “virtude da espécie” (virtus speciei).
+- `pt-BR/translation-journal.md`: “| virtus speciei | força da espécie |” → “| virtus speciei | virtude da espécie |” — The Key Terms row contradicts the text: c05 [150] now renders virtus speciei as “virtude da espécie”.
+- `pt-BR/translation-journal.md`: “a terminologia fisiológica da umidade nutritiva e da força da espécie.” → “a terminologia fisiológica da umidade nutritiva e da virtude da espécie.” — The Decisions entry names a rendering that no longer occurs in c05.
+- `pt-BR/translation-journal.md`: “o livro XII do Comentário literal ao Gênesis em 255” → “o livro XII de Sobre o Gênesis ao pé da letra em 255” — The Decisions entry cites a title that no longer occurs; c07 [255] now reads “Sobre o Gênesis ao pé da letra”.
+- `pt-BR/qdemalo-c05.md` [141]: “provém de um poder sobrenatural” → “provém de uma virtude sobrenatural” — Source: ex supernaturali virtute. Key Terms gives virtus → “virtude”, also for causal efficacy, as in the neighbouring [140] and [150].
+- Rejected: pt-BR/qdemalo-c07.md [237] — “virtude” for the sensitive appetite, where Key Terms allows “potência” for a faculty of the soul — Key Terms admits both renderings, so “virtude” is not wrong. The sense is clear.
+- Rejected: pt-BR/translation-journal.md (ratio row) — The row in the journal differs from the text the round-1 change claims to have written. — The current row is accurate and covers the conceptual senses of ratio. No defect in the text.
+- Rejected: pt-BR/qdemalo-c05.md [38] — “incorre nesse reato” may imply that both mentions refer to the same reato. — Both clauses deny and assert the same liability, so the demonstrative is faithful to the source.
+
+### Part terms 3 of 6, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as cinco alterações, os seis parágrafos apresentados com suas notas e os trechos pertinentes do diário; nenhum defeito encontrado.
+
+### Part terms 4 of 6, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 35 minor. 209 parágrafos sinalizados lidos; 34 ocorrências de deriva textual corrigidas e 2 linhas do glossário completadas.
+- `pt-BR/translation-journal.md`: “| virtus / virtus activa | virtude / virtude ativa | Também para eficácia causal natural. |” → “| virtus / virtus activa | virtude / virtude ativa | Também para eficácia causal natural. “Potência” quando designa uma faculdade da alma, como a potência apetitiva ou intelectiva. |” — A tradução usa corretamente “potência” para as faculdades da alma; esse sentido de *virtus* falta na linha.
+- `pt-BR/qdemalo-c07.md` [328]: “perdoados pela força da caridade” → “perdoados pela virtude da caridade” — *virtute* → “virtude” (Key Terms, incluindo eficácia causal); estava “força”.
+- `pt-BR/qdemalo-c07.md` [333]: “entre coisas de naturezas diversas” → “entre coisas de razões diversas” — *diversarum rationum* → “de razões diversas” (Key Terms); estava “de naturezas diversas”.
+- `pt-BR/qdemalo-c07.md` [340]: “implica uma mudança da vontade em ato” → “implica uma mudança da vontade atual” — *actualis voluntatis* → “vontade atual” (Key Terms); estava “vontade em ato”.
+- `pt-BR/qdemalo-c07.md` [352]: “a luminosidade não permanece” → “o esplendor não permanece” — *claritas* → “esplendor” (Key Terms); estava “luminosidade”.
+- `pt-BR/qdemalo-c07.md` [359]: “em razão do débito da pena” → “em razão do reato da pena” — *reatus* → “reato” (Key Terms); estava “débito”.
+- `pt-BR/qdemalo-c07.md` [360]: “por parte do débito da pena” → “por parte do reato da pena” — *reatus* → “reato” (Key Terms); estava “débito”.
+- `pt-BR/qdemalo-c07.md` [368]: “dirigir-se ao desejo de um dos contrários” → “dirigir-se ao apetite de um dos contrários” — *appetitum* → “apetite” (Key Terms); estava “desejo”.
+- `pt-BR/qdemalo-c07.md` [368]: “sem desejar e amar o bem da graça” → “sem apetecer e amar o bem da graça” — *appetat* → “apetecer” (Key Terms); estava “desejar”.
+- `pt-BR/qdemalo-c07.md` [371]: “não se aplica o mesmo raciocínio” → “não se aplica o mesmo argumento” — *ratio* → “argumento” quando designa uma argumentação (Key Terms); estava “raciocínio”.
+- `pt-BR/qdemalo-c07.md` [374]: “e assim cessa o débito” → “e assim cessa o reato” — *reatus* → “reato” (Key Terms); estava “débito”.
+- `pt-BR/qdemalo-c07.md` [381]: “aquele raciocínio não conclui” → “aquele argumento não conclui” — *ratio* → “argumento” quando designa uma argumentação (Key Terms); estava “raciocínio”.
+- `pt-BR/qdemalo-c08.md` [17]: “provém de defeitos particulares” → “provém de deficiências particulares” — *defectibus* → “deficiências” (Key Terms); estava “defeitos”.
+- `pt-BR/qdemalo-c08.md` [18]: “no âmbito das ações e dos objetos do apetite” → “no âmbito das ações e das coisas apetecíveis” — *appetibilibus* → “coisas apetecíveis” (Key Terms); estava “objetos do apetite”.
+- `pt-BR/qdemalo-c08.md` [43]: “pelo gozo de certas coisas desejadas” → “pela fruição de certas coisas desejadas” — *fruitur* → “fruir”, aqui nominalizado como “fruição” (Key Terms); estava “gozo”.
+- `pt-BR/qdemalo-c08.md` [51]: “ou aos prazeres do tato, como nos outros animais” → “ou às coisas agradáveis ao tato, como nos outros animais” — *delectabilia* → “coisas agradáveis” (Key Terms); estava “prazeres”.
+- `pt-BR/qdemalo-c08.md` [126]: “repelir o que é nocivo ou destrutivo” → “repelir o que é nocivo ou aquilo que corrompe” — *corrumpens* → “que corrompe” (Key Terms); estava “destrutivo”.
+- `pt-BR/qdemalo-c08.md` [163]: “a boa qualidade da imaginação” → “a bondade da imaginação” — *bonitas* → “bondade” (Key Terms); estava “boa qualidade”.
+- `pt-BR/qdemalo-c08.md` [181]: “quando se vangloriam de ter o que não têm” → “quando se jactam de ter o que não têm” — *iactant* corresponde a “jactância” (Key Terms); “vangloriam” introduz o termo reservado à vanglória, distinta da jactância. *(meaning)*
+- `pt-BR/qdemalo-c08.md` [190]: “é causado por defeitos particulares” → “é causado por deficiências particulares” — *defectibus* → “deficiências” (Key Terms); estava “defeitos”.
+- `pt-BR/qdemalo-c09.md` [53]: “não está voltada para Deus em ato ou por hábito” → “não está convertida a Deus em ato ou por hábito” — *conversa* corresponde a “conversão” (Key Terms); estava “voltada”.
+- `pt-BR/translation-journal.md`: “| poenalitas | condição penal | Condição de quem permanece sujeito às consequências do pecado. |” → “| poenalitas | condição penal | Condição de quem permanece sujeito às consequências do pecado. “Sofrimentos penais” quando, no plural, designa as aflições associadas a certos pecados. |” — Em q. 10, as *poenalitates* são aflições concretas; “sofrimentos penais” traduz corretamente esse sentido, ausente da linha.
+- `pt-BR/qdemalo-c10.md` [41]: “algum movimento de inveja que surge inadvertidamente” → “algum movimento súbito e irrefletido de inveja” — *surreptione* → “movimento súbito e irrefletido” (Key Terms); estava parafraseado como “que surge inadvertidamente”.
+- `pt-BR/qdemalo-c10.md` [48]: “no livro XI do Comentário literal ao Gênesis” → “no livro XI de Sobre o Gênesis ao pé da letra” — *super Genes. ad litteram* → “Sobre o Gênesis ao pé da letra” (Key Terms); estava “Comentário literal ao Gênesis”.
+- `pt-BR/qdemalo-c11.md` [34]: “desejar o repouso corporal” → “apetecer o repouso corporal” — *appetere* → “apetecer” (Key Terms); estava “desejar”.
+- `pt-BR/qdemalo-c11.md` [34]: “à mesma razão desejar algo” → “à mesma razão apetecer algo” — *appetere* → “apetecer” (Key Terms); estava “desejar”.
+- `pt-BR/qdemalo-c11.md` [37]: “alguém se compraz em uma coisa” → “alguém se deleita em uma coisa” — *delectatur* corresponde a “deleitação” (Key Terms); estava “se compraz”.
+- `pt-BR/qdemalo-c11.md` [37]: “pela mesma força natural” → “pela mesma virtude natural” — *virtute naturali* → “virtude natural” (Key Terms, incluindo eficácia causal natural); estava “força natural”.
+- `pt-BR/qdemalo-c11.md` [37]: “alguém se compraz no alimento” → “alguém se deleita no alimento” — *delectatur* corresponde a “deleitação” (Key Terms); estava “se compraz”.
+- `pt-BR/qdemalo-c11.md` [55]: “no livro XII do Comentário literal ao Gênesis” → “no livro XII de Sobre o Gênesis ao pé da letra” — *super Genes. ad litteram* → “Sobre o Gênesis ao pé da letra” (Key Terms); estava “Comentário literal ao Gênesis”.
+- `pt-BR/qdemalo-c11.md` [57]: “adere ao bem espiritual e nele se compraz” → “adere ao bem espiritual e nele se deleita” — *delectatur* corresponde a “deleitação” (Key Terms); estava “se compraz”.
+- `pt-BR/qdemalo-c12.md` [15]: “são máximos em poder” → “são máximos em virtude” — *virtute* → “virtude” (Key Terms, incluindo eficácia causal); estava “poder”.
+- `pt-BR/qdemalo-c12.md` [98]: “quando alguém deseja vingar-se” → “quando alguém apetece vingar-se” — *appetit* → “apetece” (Key Terms); estava “deseja”.
+- `pt-BR/qdemalo-c12.md` [107]: “A ira, porém, deseja o mal do próximo” → “A ira, porém, apetece o mal do próximo” — *appetit* → “apetece” (Key Terms); estava “deseja”.
+- `pt-BR/qdemalo-c12.md` [129]: “um bem que é deleitável segundo o sentido” → “um bem que é agradável segundo o sentido” — *delectabile* → “agradável” (Key Terms); estava “deleitável”.
+- `pt-BR/qdemalo-c12.md` [135]: “porque o irado deseja que” → “porque o irado apetece que” — *appetit* → “apetece” (Key Terms); estava “deseja”.
+
+### Part terms 4 of 6, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 2 minor. Delta read of 37 changes in c07–c12 and the journal: all correct; fixed the leftover “se vangloria” for *iactat* in c08 [191] and the journal decision that cites it, and aligned *subreptitia* in c10 [48] with the surreptio term.
+- `pt-BR/qdemalo-c08.md` [191]: “quando alguém se vangloria de ter o que não tem” → “quando alguém se jacta de ter o que não tem” — *iactat se habere*: é a mesma terceira espécie citada em [181], agora “se jactam”; “vangloria” introduz o termo reservado à vanglória, distinta da jactância. *(meaning)*
+- `pt-BR/translation-journal.md`: ““se vangloriam de ter” para “iactant se habere” na segunda” → ““se jactam de ter” para “iactant se habere” na segunda” — Após a correção de [181], o diário descreve uma forma que não ocorre mais no texto.
+- `pt-BR/qdemalo-c10.md` [48]: “como algo que surge inadvertidamente” → “como algo súbito e irrefletido” — *subreptitia* deriva de *surreptio*, que o Key Terms traduz por “movimento súbito e irrefletido”, forma adotada em [41]; manter a paráfrase antiga desfaz a ligação entre objeção e conceito.
+- Rejected: pt-BR/translation-journal.md (virtus) — O texto da linha difere do registrado no log da rodada 1 (“Faculdade” ou “potência” …). — A linha atual é correta e cobre o uso de “potência”; não há defeito no conteúdo.
+- Rejected: pt-BR/qdemalo-c07.md [359] — “ser devedor de uma pena” para *reus est poenae* em vez de vocabulário de “reato”. — *reus* é adjetivo de pessoa, não o substantivo *reatus*; a tradução é fiel.
+
+### Part terms 4 of 6, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as três alterações, os seis parágrafos apresentados e as três notas do tradutor; nenhum defeito objetivo encontrado.
+
+### Part terms 5 of 6, Round 1 (codex, terms read)
+Verdict: 3 meaning-level, 71 minor. 175 parágrafos sinalizados lidos; 50 apresentaram desvio terminológico; duas notas do glossário foram ampliadas.
+- `pt-BR/qdemalo-c12.md` [146]: “acontece na maioria das vezes que” → “acontece na maioria dos casos que” — *ut in pluribus* → “na maioria dos casos” (Key Terms).
+- `pt-BR/qdemalo-c12.md` [147]: “daquilo que o irado deseja” → “daquilo que o irado apetece” — *appetit* → “apetece” (Key Terms).
+- `pt-BR/qdemalo-c13.md` [25]: “são desejáveis sob a mesma razão” → “são apetecíveis sob a mesma razão” — *appetibilia* → “apetecíveis” (Key Terms).
+- `pt-BR/qdemalo-c13.md` [25]: “outra razão de desejabilidade” → “outra razão de apetecibilidade” — *appetibilitatis* → “apetecibilidade”, derivado do termo fixado “apetecível”.
+- `pt-BR/qdemalo-c13.md` [37]: “elevar-se ao desejo das coisas sublimes” → “elevar-se para apetecer as coisas sublimes” — *ad appetenda sublimia* → “para apetecer as coisas sublimes” (Key Terms).
+- `pt-BR/qdemalo-c13.md` [52]: “algo desejável em si mesmo” → “algo apetecível em si mesmo” — *appetibile* → “apetecível” (Key Terms).
+- `pt-BR/qdemalo-c13.md` [52]: “continuamente caminha para a carência” → “continuamente caminha para a deficiência” — *defectum* → “deficiência” (Key Terms).
+- `pt-BR/qdemalo-c13.md` [52]: “Ora, toda carência incita” → “Ora, toda deficiência incita” — *defectus* → “deficiência” (Key Terms).
+- `pt-BR/qdemalo-c13.md` [52]: “remediar as carências da vida presente” → “remediar as deficiências da vida presente” — *defectibus* → “deficiências” (Key Terms).
+- `pt-BR/qdemalo-c13.md` [61]: “sempre é desejado como algo útil” → “sempre é apetecido como algo útil” — *appetitur* → “é apetecido” (Key Terms).
+- `pt-BR/qdemalo-c13.md` [62]: “ela se origina da presunção” → “ela se origina da exaltação” — *elationem* → “exaltação” (Key Terms); “presunção” nomeia outro vício. *(meaning)*
+- `pt-BR/qdemalo-c13.md` [65]: “algo desejável de modo principal” → “algo apetecível de modo principal” — *appetibile* → “apetecível” (Key Terms).
+- `pt-BR/qdemalo-c13.md` [74]: “não se promete como recompensa da justiça” → “não se promete como prêmio da justiça” — *praemium* → “prêmio” (Key Terms).
+- `pt-BR/qdemalo-c13.md` [74]: “o que se promete como recompensa é apresentado” → “o que se promete como prêmio é apresentado” — *praemium* → “prêmio” (Key Terms).
+- `pt-BR/qdemalo-c13.md` [74]: “na lei de Deus como recompensa da justiça” → “na lei de Deus como prêmio da justiça” — *praemium* → “prêmio” (Key Terms).
+- `pt-BR/qdemalo-c13.md` [121]: “era lícito valer-se do juramento” → “era lícito usar o juramento” — *uti* → “usar” (Key Terms).
+- `pt-BR/qdemalo-c13.md` [121]: “aquele que se vale da fidelidade” → “aquele que usa a fidelidade” — *utitur* → “usa” (Key Terms).
+- `pt-BR/qdemalo-c14.md` [9]: “no qual consiste a noção de gula” → “no qual consiste a razão de gula” — *ratio* → “razão” (Key Terms), em seu sentido técnico.
+- `pt-BR/qdemalo-c14.md` [16]: “quando alguém deseja e toma alimento” → “quando alguém apetece e toma alimento” — *appetit* → “apetece” (Key Terms).
+- `pt-BR/qdemalo-c14.md` [20]: “tomar medicamentos não é deleitável como tomar alimentos” → “tomar medicamentos não é agradável como tomar alimentos” — *delectabilis* → “agradável” (Key Terms).
+- `pt-BR/qdemalo-c14.md` [20]: “concupiscência desordenada do deleitável” → “concupiscência desordenada do agradável” — *delectabilis* → “agradável” (Key Terms).
+- `pt-BR/qdemalo-c14.md` [20]: “um medicamento deleitável além da medida devida” → “um medicamento agradável além da medida devida” — *delectabili* → “agradável” (Key Terms).
+- `pt-BR/qdemalo-c14.md` [20]: “por concupiscência do deleitável” → “por concupiscência do agradável” — *delectabilis* → “agradável” (Key Terms).
+- `pt-BR/qdemalo-c14.md` [42]: “a concupiscência desse deleitável” → “a concupiscência desse agradável” — *delectabilis* → “agradável” (Key Terms).
+- `pt-BR/qdemalo-c14.md` [42]: “o homem deseja tal deleitação como fim último” → “o homem apetece tal deleitação como fim último” — *appetit* → “apetece” (Key Terms).
+- `pt-BR/qdemalo-c14.md` [43]: “pertence à noção de gula a desordem” → “pertence à razão de gula a desordem” — *de ratione gulae* → “à razão de gula” (Key Terms).
+- `pt-BR/qdemalo-c14.md` [43]: “não pertence à sua noção a desordem” → “não pertence à sua razão a desordem” — *de ratione eius* → “à sua razão” (Key Terms).
+- `pt-BR/qdemalo-c14.md` [43]: “segundo a noção de sua espécie” → “segundo a razão de sua espécie” — *secundum rationem suae speciei* → “segundo a razão de sua espécie” (Key Terms).
+- `pt-BR/qdemalo-c14.md` [47]: “a ira deseja uma vingança injusta” → “a ira apetece uma vingança injusta” — *appetit* → “apetece” (Key Terms).
+- `pt-BR/qdemalo-c14.md` [47]: “tal dano está fora da noção de gula” → “tal dano está fora da razão de gula” — *praeter rationem gulae* → “fora da razão de gula” (Key Terms).
+- `pt-BR/qdemalo-c14.md` [48]: “Agostinho no Comentário literal ao Gênesis” → “Agostinho em Sobre o Gênesis ao pé da letra” — *Super Genesim ad litteram* → “Sobre o Gênesis ao pé da letra” (Key Terms).
+- `pt-BR/qdemalo-c14.md` [49]: “pertençam à noção de gula” → “pertençam à razão de gula” — *de ratione gulae* → “à razão de gula” (Key Terms).
+- `pt-BR/qdemalo-c14.md` [60]: “às vezes deseja que os alimentos” → “às vezes apetece que os alimentos” — *appetit* → “apetece” (Key Terms).
+- `pt-BR/qdemalo-c14.md` [64]: “dizer respeito à qualidade do sabor” → “dizer respeito à bondade do sabor” — *bonitatem* → “bondade” (Key Terms).
+- `pt-BR/qdemalo-c14.md` [65]: “Logo, desejar alimentos requintados” → “Logo, apetecer alimentos requintados” — *appetere* → “apetecer” (Key Terms).
+- `pt-BR/qdemalo-c14.md` [70]: “alguém deseja excessivamente alimentos” → “alguém apetece excessivamente alimentos” — *appetit* → “apetece” (Key Terms).
+- `pt-BR/qdemalo-c14.md` [71]: “movimento da potência apetitiva” → “movimento da virtude apetitiva” — *appetitivae virtutis* → “virtude apetitiva” (Key Terms); a tabela também fixa “virtude” para eficácia causal natural.
+- `pt-BR/qdemalo-c14.md` [82]: “desejar coisas alegres é propriamente” → “apetecer coisas alegres é propriamente” — *appetere* → “apetecer” (Key Terms).
+- `pt-BR/qdemalo-c14.md` [84]: “é muito desejável para muitos” → “é muito apetecível para muitos” — *appetibile* → “apetecível” (Key Terms).
+- `pt-BR/qdemalo-c14.md` [84]: “que todos desejam naturalmente” → “que todos apetecem naturalmente” — *appetunt* → “apetecem” (Key Terms).
+- `pt-BR/qdemalo-c14.md` [88]: “com a coisa deleitável apenas” → “com a coisa agradável apenas” — *rei delectabilis* → “coisa agradável” (Key Terms).
+- `pt-BR/qdemalo-c14.md` [88]: “com a coisa deleitável; por isso” → “com a coisa agradável; por isso” — *rei delectabilis* → “coisa agradável” (Key Terms).
+- `pt-BR/qdemalo-c14.md` [91]: “é próprio da soberba desejar coisas alegres” → “é próprio da soberba apetecer coisas alegres” — *appetere* → “apetecer” (Key Terms).
+- `pt-BR/qdemalo-c15.md` [17]: “as concupiscências dos prazeres do tato relativos à atividade sexual” → “as concupiscências das coisas agradáveis ao tato relativas à atividade sexual” — *delectabilium* designa os objetos agradáveis, distinguidos de *delectationes*, as deleitações; Key Terms fixa “agradável”. *(meaning)*
+- `pt-BR/qdemalo-c15.md` [17]: “as concupiscências dos prazeres do tato relativos aos alimentos e às bebidas” → “as concupiscências das coisas agradáveis ao tato relativas aos alimentos e às bebidas” — *delectabilia* designa os objetos agradáveis, distinguidos das deleitações; Key Terms fixa “agradável”. *(meaning)*
+- `pt-BR/qdemalo-c15.md` [18]: “por desejar algo deleitável” → “por desejar algo agradável” — *delectabilis* → “agradável” (Key Terms).
+- `pt-BR/qdemalo-c15.md` [71]: “no ato da potência nutritiva” → “no ato da virtude nutritiva” — *nutritivae virtutis* → “virtude nutritiva” (Key Terms), também no sentido de eficácia causal natural.
+- `pt-BR/qdemalo-c15.md` [76]: “acompanham as operações deleitáveis” → “acompanham as operações agradáveis” — *delectabiles* → “agradáveis” (Key Terms).
+- `pt-BR/qdemalo-c15.md` [97]: “ódio de Deus, afeição*” → “ódio de Deus, afeto*” — *affectus* → “afeto” (Key Terms).
+- `pt-BR/qdemalo-c15.md` [101]: “contrário à noção de vício capital” → “contrário à razão de vício capital” — *rationem* → “razão” (Key Terms), em seu sentido técnico.
+- `pt-BR/qdemalo-c16.md` [8]: “uma imaginação insolente” → “uma fantasia insolente” — *phantasia* → “fantasia” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [8]: “se encontram a imaginação, o irascível” → “se encontram a fantasia, o irascível” — *phantasia* → “fantasia” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [16]: “para que compreendêssemos que os méritos” → “para que inteligíssemos que os méritos” — *intelligeremus* → “inteligíssemos” (Key Terms); não se trata de entender uma expressão.
+- `pt-BR/qdemalo-c16.md` [16]: “de maldade muito menor e mais branda” → “de malícia muito menor e mais branda” — *malitiae* → “malícia” (Key Terms), no sentido técnico de qualidade moral má.
+- `pt-BR/qdemalo-c16.md` [21]: “a faculdade imaginativa não existe” → “a virtude imaginativa não existe” — *virtus imaginativa* → “virtude imaginativa” (Key Terms), também para eficácia causal natural.
+- `pt-BR/qdemalo-c16.md` [21]: “existe a faculdade imaginativa” → “existe a virtude imaginativa” — *virtus imaginativa* → “virtude imaginativa” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [31]: “sem a noção de corpo” → “sem a razão de corpo” — *sine ratione corporis* → “sem a razão de corpo” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [36]: “destruído o tato, o animal é destruído” → “corrompido o tato, o animal é corrompido” — *corrupto / corrumpitur* pertencem à terminologia da corrupção natural fixada no glossário.
+- `pt-BR/qdemalo-c16.md` [38]: “mas segundo uma noção comum” → “mas segundo uma razão comum” — *secundum rationem communem* → “segundo uma razão comum” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [39]: “Igualmente, a imaginação, que recebeu” → “Igualmente, a fantasia, que recebeu” — *phantasia* → “fantasia” (Key Terms), inclusive nesta atribuição metafórica.
+- `pt-BR/qdemalo-c16.md` [67]: “a razão é obscurecida pela imaginação” → “a razão é obscurecida pela fantasia” — *phantasiam* → “fantasia” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [67]: “por meio de uma imagem sensível” → “por meio de um fantasma” — *phantasmate* → “fantasma” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [86]: “ao que é deleitável segundo o sentido” → “ao que é agradável segundo o sentido” — *delectabile* → “agradável” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [96]: “não se servir da imaginação nem do discurso” → “não se servir da fantasia nem do discurso” — *phantasia* → “fantasia” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [108]: “por seu poder absoluto” → “por sua potência absoluta” — *de potentia absoluta* → “por sua potência absoluta” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [120]: “perturbação da faculdade cognoscitiva” → “perturbação da virtude cognoscitiva” — *cognoscitivae virtutis* → “virtude cognoscitiva” (Key Terms), também para eficácia causal natural.
+- `pt-BR/qdemalo-c16.md` [127]: “pertence à noção de igualdade” → “pertence à razão de igualdade” — *ad rationem aequalitatis* → “à razão de igualdade” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [139]: “voltou-se, de fato, para as coisas divinas” → “converteu-se, de fato, às coisas divinas” — *conversus* → “converteu-se” (Key Terms), no movimento em direção ao bem divino.
+- `pt-BR/qdemalo-c16.md` [139]: “volta-se para Deus, por cuja participação” → “converte-se a Deus, por cuja participação” — *convertitur* → “converte-se” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [169]: “imputado à potência motora” → “imputado à virtude motora” — *virtuti motivae* → “virtude motora” (Key Terms), expressamente aplicável à eficácia causal natural.
+- `pt-BR/qdemalo-c16.md` [180]: “a criatura espiritual tem maior poder” → “a criatura espiritual tem maior virtude” — *virtuosior* exprime maior virtude causal; Key Terms também fixa “virtude” nesse sentido natural.
+- `pt-BR/qdemalo-c16.md` [205]: “sua curvatura da potência motora” → “sua curvatura da virtude motora” — *virtute motiva* → “virtude motora” (Key Terms), para eficácia causal natural.
+- `pt-BR/translation-journal.md`: “| defectus / deficiens / defectibilitas | deficiência / deficiente / defectibilidade | “Falta” e “falhar” onde a sintaxe pede; defectibilidade é a possibilidade de falhar. |” → “| defectus / deficiens / defectibilitas | deficiência / deficiente / defectibilidade | “Falta” e “falhar” onde a sintaxe pede; defectibilidade é a possibilidade de falhar. “Decair” e “diminuir” quando o termo designa diminuição da caridade ou declínio, em oposição a progredir. |” — Em c16 [76] e [105], *deficere / defectus* designa diminuição ou declínio, sentido corretamente traduzido que a nota não contemplava.
+- `pt-BR/translation-journal.md`: “| intentio | intenção | Direcionamento da potência apetitiva para algo; não se restringe à vontade, pois também se atribui ao apetite sensitivo. |” → “| intentio | intenção | Direcionamento da potência apetitiva para algo; não se restringe à vontade, pois também se atribui ao apetite sensitivo. “Atenção” quando designa a aplicação ou concentração da alma no ato de uma potência, como em q. 15, a. 4. |” — As duas ocorrências de *intentio animae* em c15 [97] designam concentração da alma; “atenção” é adequada nesse sentido adicional.
+
+### Part terms 5 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 8 minor. Delta de c12–c16 verificado. Revertidas para “faculdade”/“potência” sete mudanças de virtus que designam faculdades da alma, conforme o Key Terms. Corrigida a linha do diário sobre a filha da luxúria (afeto). As demais mudanças estão corretas.
+- `pt-BR/qdemalo-c14.md` [71]: “movimento da virtude apetitiva” → “movimento da potência apetitiva” — appetitivae virtutis designa uma faculdade da alma; a linha virtus do Key Terms fixa “faculdade” ou “potência” nesse caso, como em c14 [19]
+- `pt-BR/qdemalo-c15.md` [71]: “no ato da virtude nutritiva” → “no ato da potência nutritiva” — nutritivae virtutis é uma faculdade da alma vegetativa; o Key Terms fixa “potência” para virtus como faculdade da alma
+- `pt-BR/qdemalo-c16.md` [21]: “a virtude imaginativa não existe” → “a faculdade imaginativa não existe” — virtus imaginativa é faculdade da alma; o Key Terms fixa “faculdade” ou “potência” nesse caso
+- `pt-BR/qdemalo-c16.md` [21]: “existe a virtude imaginativa” → “existe a faculdade imaginativa” — virtus imaginativa é faculdade da alma; o Key Terms fixa “faculdade” ou “potência” nesse caso
+- `pt-BR/qdemalo-c16.md` [120]: “perturbação da virtude cognoscitiva” → “perturbação da faculdade cognoscitiva” — cognoscitivae virtutis é faculdade da alma; o Key Terms fixa “faculdade” ou “potência” nesse caso
+- `pt-BR/qdemalo-c16.md` [169]: “imputado à virtude motora” → “imputado à potência motora” — virtus motiva do animal que manca é faculdade da alma; o Key Terms fixa “faculdade” ou “potência” nesse caso
+- `pt-BR/qdemalo-c16.md` [205]: “sua curvatura da virtude motora” → “sua curvatura da potência motora” — mesma virtus motiva de [169]; faculdade da alma, “potência” segundo o Key Terms
+- `pt-BR/translation-journal.md`: “afeição pelo mundo presente” → “afeto pelo mundo presente” — c15 [97] agora traz “afeto”, conforme a linha affectus / effectus; a linha das filhas da luxúria ficou em desacordo com o texto
+- Rejected: pt-BR/qdemalo-c16.md [180] — “maior virtude” para virtuosior — Aqui virtus é eficácia causal natural, não uma faculdade; o Key Terms fixa “virtude” nesse sentido.
+- Rejected: pt-BR/qdemalo-c14.md [9], [43], [47], [49]; c15 [101]; c16 [31], [38], [127] — “razão” por “noção” para ratio — As duas formas são admitidas pelo Key Terms; “razão de gula” e “razão de causa final” seguem o uso escolástico. Não é defeito.
+- Rejected: pt-BR/qdemalo-c13.md [25] — neologismo “apetecibilidade” — Derivado regular de “apetecível” para appetibilitatis; é uma escolha defensável.
+
+### Part terms 5 of 6, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 1 minor. Verificadas as oito correções e lidos os 18 parágrafos e as notas apresentados; encontrado um desvio terminológico menor.
+- `pt-BR/qdemalo-c16.md` [204]: “seja para entendê-las, seja para querê-las” → “seja para inteligi-las, seja para querê-las” — Intelligenda refere-se ao conhecimento das coisas, não ao entendimento de uma expressão; o Key Terms fixa «inteligir» nesse contexto.
+- Rejected: pt-BR/qdemalo-c14.md [71]; pt-BR/qdemalo-c15.md [71]; pt-BR/qdemalo-c16.md [21], [120], [169], [205] — Restabelecer «virtude» nas sete ocorrências corrigidas. — As ocorrências designam faculdades da alma; «faculdade» e «potência» estão corretas e seguem a ressalva expressa do Key Terms.
+
+### Part terms 5 of 6, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of c16 [203]–[205] and notes [^47]–[^56]: the change to [204] is correct and nothing else needs fixing.
+- Rejected: pt-BR/qdemalo-c16.md [203] — “o anjo podia mover-se” makes the subject explicit where the source only implies it (*poterat moveri*) — The context and the closing *voluntatem Angeli peccantis* identify the angel; making it explicit does not change the sense.
+- Rejected: pt-BR/qdemalo-c16.md [204] — Form “inteligi-las” — This is the standard form of an -ir infinitive with an enclitic: the r drops and no accent is added, as in “parti-las”. Correct.
+
+### Part terms 6 of 6, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 102 minor. Lidos os 140 parágrafos sinalizados; encontrados desvios em 55 deles.
+- `pt-BR/qdemalo-c16.md` [219]: “sustentada pelo poder divino” → “sustentada pela potência divina” — *potentiam* → “potência” (Key Terms); estava “poder”.
+- `pt-BR/qdemalo-c16.md` [226]: “o estado de recompensa ou de pena” → “o estado de prêmio ou de pena” — *praemii* → “prêmio” (Key Terms); estava “recompensa”.
+- `pt-BR/qdemalo-c16.md` [266]: “uma potência superior se estende” → “uma virtude superior se estende” — *virtus* → “virtude”; o glossário inclui a eficácia causal natural.
+- `pt-BR/qdemalo-c16.md` [267]: “segundo seu poder absoluto” → “segundo sua potência absoluta” — *absolutam potentiam* → “potência absoluta” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [268]: “por sua potência natural” → “por sua virtude natural” — *naturalem virtutem* → “virtude natural” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [281]: “suas potências de contemplação do bem” → “suas virtudes de contemplação do bem” — *virtutes* → “virtudes” (Key Terms); estava “potências”.
+- `pt-BR/qdemalo-c16.md` [286]: “seu desejo de elevação” → “seu apetite de elevação” — *appetitum* → “apetite” (Key Terms); estava “desejo”.
+- `pt-BR/qdemalo-c16.md` [292]: “de seu próprio poder que do de Deus” → “de sua própria potência que da de Deus” — *sua potentia* → “sua potência” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [292]: “à sua natureza e ao seu poder” → “à sua natureza e à sua virtude” — *virtuti* → “virtude” (Key Terms); estava “poder”.
+- `pt-BR/qdemalo-c16.md` [295]: “seu conhecimento está totalmente privado da verdade” → “seu conhecimento falha totalmente quanto à verdade” — *deficiat* → “falha”, variante autorizada pelo glossário.
+- `pt-BR/qdemalo-c16.md` [307]: “a potência ativa, quanto mais elevada” → “a virtude ativa, quanto mais elevada” — *virtus activa* → “virtude ativa” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [307]: “a potência cognoscitiva mais elevada” → “a virtude cognoscitiva mais elevada” — *virtus cognoscitiva* → “virtude cognoscitiva” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [308]: “eles são purificados da ignorância” → “eles são purificados da nesciência” — *nescientia* é simples negação da ciência; “ignorância” apaga a distinção expressa nas duas linhas do glossário. *(meaning)*
+- `pt-BR/qdemalo-c16.md` [308]: “algo deve ser desejado ou feito” → “algo deve ser apetecido ou feito” — *appetendum* → “apetecido” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [311]: “desviam sua atenção” → “desviam sua intenção” — *intentionem* → “intenção” (Key Terms); estava “atenção”.
+- `pt-BR/qdemalo-c16.md` [314]: “à qual pertence o deleite” → “à qual pertence a deleitação” — *delectatio* → “deleitação”, conforme a linha que distingue *delectatio* de *voluptas*.
+- `pt-BR/qdemalo-c16.md` [314]: “porque o deleite se segue” → “porque a deleitação se segue” — *delectatio* → “deleitação” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [314]: “que o deleite aperfeiçoa” → “que a deleitação aperfeiçoa” — *delectatio* → “deleitação” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [314]: “Mas desejar o fim” → “Mas apetecer o fim” — *appetere* → “apetecer” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [325]: “múltiplo em sua potência” → “múltiplo em sua virtude” — *in virtute* → “em sua virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [325]: “sua potência se estende” → “sua virtude se estende” — *virtus eius* → “sua virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [332]: “desviar-se do desejo do bem” → “desviar-se do apetite do bem” — *appetitu* → “apetite” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [338]: “os efeitos temporais do poder divino” → “os efeitos temporais da virtude divina” — *divinae virtutis* → “da virtude divina” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [338]: “considerando os efeitos do poder divino” → “considerando os efeitos da virtude divina” — *divinae virtutis* → “da virtude divina” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [361]: “a potência das causas naturais” → “a virtude das causas naturais” — *virtus* → “virtude”; a linha inclui expressamente a eficácia causal natural.
+- `pt-BR/qdemalo-c16.md` [364]: “causas extrínsecas cuja potência conhecem” → “causas extrínsecas cuja virtude conhecem” — *virtutem* → “virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [364]: “pelo poder divino, algo acontece” → “pela virtude divina, algo acontece” — *divina virtute* → “pela virtude divina” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [369]: “da capacidade do intelecto angélico” → “da virtude do intelecto angélico” — *virtutem* → “virtude” (Key Terms); estava “capacidade”.
+- `pt-BR/qdemalo-c16.md` [378]: “a partir da potência dos corpos celestes” → “a partir da virtude dos corpos celestes” — *ex virtute* → “a partir da virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [378]: “sujeitos à potência dos corpos celestes” → “sujeitos à virtude dos corpos celestes” — *virtuti* → “virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [378]: “à ação de alguma potência corporal” → “à ação de alguma virtude corporal” — *corporalis virtutis* → “virtude corporal” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [378]: “a potência do corpo celeste é uma potência natural” → “a virtude do corpo celeste é uma virtude natural” — As duas ocorrências de *virtus* exigem “virtude”, inclusive na causalidade natural.
+- `pt-BR/qdemalo-c16.md` [378]: “como à sua causa, à potência do corpo celeste” → “como à sua causa, à virtude do corpo celeste” — *virtutem* → “virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [380]: “a vontade deseja por necessidade o fim último” → “a vontade apetece por necessidade o fim último” — *appetit* → “apetece” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [380]: “que deve ser desejado por si mesmo” → “que deve ser apetecido por si mesmo” — *appetendus* → “apetecido” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [387]: “semelhanças imaginativas das coisas sensíveis” → “semelhanças das coisas sensíveis na fantasia” — *phantasticis* remete tecnicamente à “fantasia” (Key Terms); estava “imaginativas”.
+- `pt-BR/qdemalo-c16.md` [396]: “quanto mais elevada é a potência cognoscitiva” → “quanto mais elevada é a virtude cognoscitiva” — *virtus cognoscitiva* → “virtude cognoscitiva” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [396]: “a potência cognoscitiva do demônio” → “a virtude cognoscitiva do demônio” — *virtus cognoscitiva* → “virtude cognoscitiva” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [396]: “a potência cognoscitiva do homem” → “a virtude cognoscitiva do homem” — *virtus cognoscitiva* → “virtude cognoscitiva” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [424]: “pela potência intelectual com que” → “pela virtude inteligível com que” — *virtutem intelligibilem* → “virtude inteligível”; conserva o termo do glossário e o qualificativo da fonte.
+- `pt-BR/qdemalo-c16.md` [431]: “não por sua própria potência, mas pela potência de alguns agentes naturais” → “não por sua própria virtude, mas pela virtude de alguns agentes naturais” — As duas ocorrências de *virtus* exigem “virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [431]: “transmutar os corpos naturais pela potência dos agentes naturais” → “transmutar os corpos naturais pela virtude dos agentes naturais” — *per virtutem* → “pela virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [431]: “das que podem ser feitas pela potência dos agentes naturais” → “das que podem ser feitas pela virtude dos agentes naturais” — *per virtutem* → “pela virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [431]: “Ora, pela potência dos agentes naturais” → “Ora, pela virtude dos agentes naturais” — *Virtute* → “pela virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [431]: “não é somente pela potência dos agentes naturais” → “não é somente pela virtude dos agentes naturais” — *sola virtute* → “somente pela virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [433]: “a maior potência de agir” → “a maior virtude de agir” — *maximam virtutem* → “a maior virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [433]: “uma potência mais eficaz para agir” → “uma virtude mais eficaz para agir” — *virtutem* → “virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [433]: “pela potência de certos corpos” → “pela virtude de certos corpos” — *virtute* → “pela virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [433]: “pela potência dos demônios” → “pela virtude dos demônios” — *virtute* → “pela virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [434]: “às vezes é incapaz de completar” → “às vezes falha em completar” — *deficit* → “falha”, variante autorizada pelo glossário.
+- `pt-BR/qdemalo-c16.md` [434]: “a potência de realizar toda ação” → “a virtude de realizar toda ação” — *virtutem* → “virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [437]: “a potência da inteligência” → “a virtude da inteligência” — *virtus intelligentiae* → “virtude da inteligência” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [437]: “pela infinidade de sua potência” → “pela infinidade de sua virtude” — *suae virtutis* → “de sua virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [439]: “pela potência dos demônios” → “pela virtude dos demônios” — *virtute* → “pela virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [442]: “possui maior potência” → “possui maior virtude” — *maioris virtutis* → “maior virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [442]: “pela potência da apreensão da alma” → “pela virtude da apreensão da alma” — *ex virtute* → “pela virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [446]: “possuem potências maximamente universais” → “possuem virtudes maximamente universais” — *virtutes* → “virtudes” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [446]: “por potências intermediárias” → “por virtudes intermediárias” — *per medias virtutes* → “por virtudes intermediárias” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [446]: “mediante a potência particular” → “mediante a virtude particular” — *mediante virtute particulari* → “mediante a virtude particular” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [446]: “pela só potência dos corpos celestes” → “pela só virtude dos corpos celestes” — *per solam virtutem* → “pela só virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [447]: “por sua própria potência” → “por sua própria virtude” — *propria virtute* → “por sua própria virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [448]: “por sua própria potência isoladamente” → “por sua própria virtude isoladamente” — *sola propria virtute* → “por sua própria virtude isoladamente” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [449]: “uma aparição imaginativa” → “uma aparição da fantasia” — *phantasticam* remete à “fantasia”, termo fixado no glossário.
+- `pt-BR/qdemalo-c16.md` [450]: “instrumento do poder divino” → “instrumento da virtude divina” — *divinae virtutis* → “da virtude divina” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [450]: “não por sua própria potência, mas pelo poder divino” → “não por sua própria virtude, mas pela virtude divina” — As duas ocorrências de *virtus* exigem “virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [450]: “uma aparição imaginativa” → “uma aparição da fantasia” — *phantasticam* remete à “fantasia”, termo fixado no glossário.
+- `pt-BR/qdemalo-c16.md` [451]: “uma potência mais elevada e mais universal” → “uma virtude mais elevada e mais universal” — *virtutem* → “virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [452]: “toda a potência de ser” → “toda a virtude de ser” — *totam virtutem essendi* → “toda a virtude de ser” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [452]: “sujeita à sua potência” → “sujeita à sua virtude” — *eius virtuti* → “à sua virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [453]: “a potência de causar a geração” → “a virtude de causar a geração” — *virtus* → “virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [455]: “a potência da inteligência” → “a virtude da inteligência” — *virtus intelligentiae* → “virtude da inteligência” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [458]: “se realizam pelo poder divino” → “se realizam pela virtude divina” — *virtute divina* → “pela virtude divina” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [458]: “se realizam pela potência de agentes naturais” → “se realizam pela virtude de agentes naturais” — *virtute* → “pela virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [458]: “conhecem melhor que os homens a potência dos agentes naturais” → “conhecem melhor que os homens a virtude dos agentes naturais” — *virtutem* → “virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [458]: “pela potência ou pela arte dos demônios” → “pela virtude ou pela arte dos demônios” — *ex virtute* → “pela virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [458]: “pela potência ou pela arte dos homens” → “pela virtude ou pela arte dos homens” — *ex virtute* → “pela virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [473]: “nas ações das potências ativas” → “nas ações das virtudes ativas” — *virtutum activarum* → “virtudes ativas” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [477]: “a potência de mover um corpo” → “a virtude de mover um corpo” — *virtutem* → “virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [478]: “um contato de potência” → “um contato por sua virtude” — *virtualis* designa o contato pela *virtus*, fixada como “virtude” no glossário.
+- `pt-BR/qdemalo-c16.md` [479]: “da potência dos demônios” → “da virtude dos demônios” — *virtutis* → “virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [481]: “por sua própria potência” → “por sua própria virtude” — *propria virtute* → “por sua própria virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [481]: “pela potência dos corpos” → “pela virtude dos corpos” — *virtute corporum* → “pela virtude dos corpos” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [495]: “como objeto à potência cognoscitiva” → “como objeto à virtude cognoscitiva” — *virtuti cognoscitivae* → “virtude cognoscitiva” (Key Terms); a ocorrência anterior traduz *vim*.
+- `pt-BR/qdemalo-c16.md` [505]: “por sua própria potência” → “por sua própria virtude” — *virtute propria* → “por sua própria virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [508]: “um ato da potência apetitiva” → “um ato da virtude apetitiva” — *virtutis appetitivae* → “virtude apetitiva” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [508]: “sendo potência de um órgão corporal” → “sendo virtude de um órgão corporal” — *virtus organi corporei* → “virtude de um órgão corporal” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [513]: “o sujeito próprio da potência sensitiva ou imaginativa” → “o sujeito próprio da virtude sensitiva ou imaginativa” — *virtutis* → “virtude” (Key Terms); a ocorrência inicial de “potência” traduz *potentiam*.
+- `pt-BR/qdemalo-c16.md` [514]: “cuja potência ele conhece” → “cuja virtude ele conhece” — *virtutem* → “virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [515]: “pela potência de sua natureza, muitas coisas” → “pela virtude de sua natureza, muitas coisas” — *virtute suae naturae* → “pela virtude de sua natureza” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [515]: “pela potência de sua natureza, perturbando” → “pela virtude de sua natureza, perturbando” — *virtute suae naturae* → “pela virtude de sua natureza” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [532]: “o que ele pode pela potência de sua própria natureza” → “o que ele pode pela virtude de sua própria natureza” — *ex virtute* → “pela virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [532]: “como usa sua potência natural” → “como usa sua virtude natural” — *naturali virtute* → “virtude natural” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [532]: “segundo a malícia de sua própria vontade” → “por malícia de sua própria vontade” — *ex malitia* → “por malícia” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [532]: “quanto à potência de sua própria natureza” → “quanto à virtude de sua própria natureza” — *ad virtutem* → “à virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [532]: “no uso dessa potência” → “no uso dessa virtude” — *in usu virtutis* → “no uso dessa virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [534]: “a potência superior ajuda e fortalece a potência inferior” → “a virtude superior ajuda e fortalece a virtude inferior” — As duas ocorrências de *virtus* exigem “virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [537]: “a potência incorpórea do sensível exterior” → “a virtude incorpórea do sensível exterior” — *virtus incorporea* → “virtude incorpórea” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [537]: “isso provém da potência da alma” → “isso provém da virtude da alma” — *ex virtute animae* → “da virtude da alma” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [537]: “o corpo exterior tem a potência de modificar” → “o corpo exterior tem a virtude de modificar” — *virtutem* → “virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [537]: “a percepção do sentido pela potência da alma” → “a percepção do sentido pela virtude da alma” — *per virtutem animae* → “pela virtude da alma” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [538]: “não por sua própria potência, mas pela potência do intelecto agente” → “não por sua própria virtude, mas pela virtude do intelecto agente” — As duas ocorrências de *virtus* exigem “virtude” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [538]: “certa potência instrumental” → “certa virtude instrumental” — *virtutem instrumentalem* → “virtude instrumental” (Key Terms).
+- `pt-BR/qdemalo-c16.md` [538]: “agem instrumentalmente pela potência do intelecto agente” → “agem instrumentalmente pela virtude do intelecto agente” — *in virtute* → “pela virtude” (Key Terms).
+
+### Part terms 6 of 6, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 7 minor. Delta de qdemalo-c16: 106 alterações verificadas. Corrigida uma falha de concordância criada em [450], completadas quatro ocorrências de *virtus* em [449] e uma em [459], e atualizadas a linha de *contactus virtualis* e a decisão sobre [537] no diário.
+- `pt-BR/qdemalo-c16.md` [450]: “pela virtude divina, que não está sujeito à ordem” → “pela virtude divina, que não está sujeita à ordem” — A alteração anterior trocou “poder divino” por “virtude divina” sem ajustar a concordância: o relativo refere-se a “virtude”, feminino.
+- `pt-BR/qdemalo-c16.md` [449]: “não apenas por sua própria potência, mas também pela potência do agente principal” → “não apenas por sua própria virtude, mas também pela virtude do agente principal” — Fonte: *virtute propria … in virtute principalis agentis*. A tabela de termos fixa *virtus* como “virtude”, inclusive para a eficácia causal; a mesma revisão já aplicou isso aos parágrafos vizinhos.
+- `pt-BR/qdemalo-c16.md` [449]: “ultrapassa a potência do instrumento” → “ultrapassa a virtude do instrumento” — Fonte: *ultra virtutem instrumenti*. A tabela de termos fixa *virtus* como “virtude”.
+- `pt-BR/qdemalo-c16.md` [449]: “ultrapassam a potência dos agentes naturais” → “ultrapassam a virtude dos agentes naturais” — Fonte: *ultra virtutem naturalium agentium*. A tabela de termos fixa *virtus* como “virtude”.
+- `pt-BR/qdemalo-c16.md` [459]: “agindo instrumentalmente pelo poder divino” → “agindo instrumentalmente pela virtude divina” — Fonte: *ex virtute divina*. Fica igual a [458], que usa “pela virtude divina”, conforme a tabela de termos.
+- `pt-BR/translation-journal.md`: “| contactus virtualis | contato de potência | Contato entendido pela ação de uma potência, distinto do contato corporal. |” → “| contactus virtualis | contato por sua virtude | Contato entendido pela ação da *virtus* do agente, distinto do contato corporal. |” — Depois da alteração em [478], o texto diz “contato por sua virtude”. A linha da tabela descreve uma forma que não ocorre mais.
+- `pt-BR/translation-journal.md`: “*virtus incorporea* no parágrafo 537 (“potência incorpórea”)” → “*virtus incorporea* no parágrafo 537 (“virtude incorpórea”)” — Depois da revisão, [537] diz “virtude incorpórea”. A decisão registrada no diário ficou falsa.
+- Rejected: pt-BR/qdemalo-c16.md [311] — A troca de “atenção” por “intenção” em *avertit suam intentionem* contraria a ressalva da tabela de termos, que admite “atenção”. — A ressalva vale para a aplicação da alma aos atos das potências. Aqui se trata do direcionamento do apetite para longe dos bens gratuitos, e “intenção” é defensável.
+- Rejected: pt-BR/qdemalo-c16.md [379], [443], [306], [495], [508] — Restam “potências”, “poder” e “capacidade” perto de termos já trocados. — Nesses pontos a fonte traz *vires*, *potestas* ou *vis*, não *virtus*. As traduções estão corretas.
+
+### Part terms 6 of 6, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as sete alterações, os sete parágrafos apresentados e as dez notas do tradutor; nenhum defeito objetivo encontrado.
