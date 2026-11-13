@@ -6,7 +6,7 @@ Qual é a virtude da oração; do bem-aventurado Hieroteu, da reverência e do t
 
 ***Apresenta-se um prólogo a toda a obra***
 
-C. III, § 1. **78.** E examinaremos, se parecer conveniente, a denominação do bem, que é primeira, perfeita e manifesta todas as processões de Deus, invocando a Trindade, princípio do bem e superboa, que manifesta todas as providências benignamente concedidas por ela.
+C. III, § 1. **78.** E examinaremos, se parecer conveniente, a denominação do bem, que é primeira, perfeita e manifesta todas as processões de Deus, invocando a Trindade, princípio do bem e acima do bem, que manifesta todas as providências benignamente concedidas por ela.
 
 > **79.** Pois é preciso que, primeiramente, sejamos conduzidos pelas orações até ela, como princípio do bem, e que, aproximando-nos mais dela, aprendamos assim os bens excelentes que estão ao seu redor.
 
@@ -66,7 +66,7 @@ terceiro, por meio de exemplos, onde diz: ***como se*** etc.
 
 **225.** Diz, pois, primeiro, que, ***se*** isso parecer conveniente, entre as outras denominações divinas devemos agora considerar a própria ***denominação do bem***, isto é, aquela segundo a qual Deus é chamado bom.
 
-**226.** Para compreender essa denominação, deve-se considerar que os platônicos, não distinguindo a matéria da privação, a colocavam na ordem do não ente, como diz Aristóteles no livro I da *Física*. Ora, a causalidade do ente não se estende senão aos entes. Assim, segundo eles, a causalidade do ente não se estendia à matéria primeira, à qual, contudo, se estende a causalidade do bem. Sinal disso é que ela apetece o bem ao máximo. Ora, é próprio do efeito voltar-se, pelo desejo, para sua causa. Assim, o bem é causa mais universal e mais elevada do que o ente, porque sua causalidade se estende a mais coisas.
+**226.** Para compreender essa denominação, deve-se considerar que os platônicos, não distinguindo a matéria da privação, a colocavam na ordem do não ente, como diz Aristóteles no livro I da *Física*. Ora, a causalidade do ente não se estende senão aos entes. Assim, segundo eles, a causalidade do ente não se estendia à matéria primeira, à qual, contudo, se estende a causalidade do bem. Sinal disso é que ela deseja o bem ao máximo. Ora, é próprio do efeito voltar-se, pelo desejo, para sua causa. Assim, o bem é causa mais universal e mais elevada do que o ente, porque sua causalidade se estende a mais coisas.
 
 **227.** E, embora Dionísio pareça tocar nesse ponto no capítulo seguinte, parece, contudo, ter considerado outra razão para essa ordem. Com efeito, pretende tratar neste livro dos nomes divinos que manifestam as processões das criaturas a partir de Deus, enquanto ele é causa das coisas. Ora, aquilo que tem razão de causa de modo primeiro e universal é o bem. Isso se evidencia por uma dupla razão:
 

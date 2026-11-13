@@ -12,7 +12,7 @@ Capítulo VII. §1. **297.** Vamos, pois, se te parece bem, louvar a vida boa e 
 
 > **299.** E, compreendendo isso de modo sobrenatural, o homem verdadeiramente divino, sol comum a nós e ao nosso guia, diz que *a loucura de Deus é mais sábia que os homens*;
 
-> **300.** não somente porque toda deliberação humana é certo erro, quando julgada em comparação com a estabilidade e a permanência das intelecções divinas e perfeitíssimas, mas porque os teólogos costumam atribuir a Deus, em sentido contrário, aquilo que exprime privação. Assim também os oráculos chamam de *invisível* a luz claríssima; e de inefável e inominável aquele que é sumamente louvável e nomeável; e de incompreensível e insondável aquele que está presente a todas as coisas e se encontra a partir de todas elas. Desse modo, pois, também agora se diz que o divino Apóstolo louva a loucura de Deus, elevando à verdade inefável e anterior a toda razão aquilo que nela aparece como alheio à razão e inconveniente.
+> **300.** não somente porque toda deliberação humana é certo erro, quando julgada em comparação com a estabilidade e a permanência das intelecções divinas e perfeitíssimas, mas porque os teólogos costumam atribuir a Deus, em sentido contrário, aquilo que exprime privação. Assim também as Escrituras chamam de *invisível* a luz claríssima; e de inefável e inominável aquele que é sumamente louvável e nomeável; e de incompreensível e insondável aquele que está presente a todas as coisas e se encontra a partir de todas elas. Desse modo, pois, também agora se diz que o divino Apóstolo louva a loucura de Deus, elevando à verdade inefável e anterior a toda razão aquilo que nela aparece como alheio à razão e inconveniente.
 
 > **301.** Mas, como disse em outras obras, ao apreendermos segundo nosso modo próprio aquilo que está acima de nós, presos à razão nutrida juntamente com os sentidos e comparando as coisas divinas com as nossas, somos enganados, ao procurarmos compreender a razão divina e inefável segundo o que nos aparece.
 
@@ -86,7 +86,7 @@ Lição 2
 
 > §2. **305.** Dela, as potências inteligíveis e intelectuais das mentes angélicas recebem intelecções simples, bem-aventuradas e boas;
 
-> **306.** não reunindo o conhecimento divino nas coisas divisíveis ou a partir das coisas divisíveis, dos sentidos ou de discursos extensos, nem sendo conduzidas de algo comum a essas coisas em conjunto. Mas, puras de toda multidão material, inteligem os inteligíveis divinos de modo intelectual, imaterial e uniforme;
+> **306.** não reunindo o conhecimento divino nas coisas divisíveis ou a partir das coisas divisíveis, dos sentidos ou de discursos extensos, nem sendo conduzidas de algo comum a essas coisas em conjunto. Mas, puras de toda multiplicidade material, inteligem os inteligíveis divinos de modo intelectual, imaterial e uniforme;
 
 > **307.** e possuem uma potência e uma operação intelectuais que resplandecem com pureza limpa e imaculada, perspicazes pela simplicidade e imaterialidade dos intelectos divinos e conformadas, tanto quanto é possível, pela unição concedida por Deus à mente e à razão divinas e supersábias.
 
@@ -134,13 +134,13 @@ primeiro, estabelece a processão do conhecimento angélico a partir de Deus e d
 
 No juízo, porém, procedemos de algum princípio comum às mencionadas coisas múltiplas e divisíveis ou particulares, seus efeitos e sinais.
 
-Excluindo dos anjos ambas as coisas, diz que os intelectos angélicos não reúnem, como nós, ***o conhecimento divino***, considerando ***nas*** diversas ***coisas divisíveis*** aquilo que já sabem ou adquirindo a ciência a partir dessas ***coisas divisíveis***: ***divisíveis***, digo, ***ou sentidos***, quanto às coisas sensíveis, ***ou discursos extensos***, isto é, ***raciocínios***, como traz outra tradução; pois *logos*, em grego, significa tanto razão como discurso; e o raciocínio é chamado de extenso por proceder de uma coisa a outra. Tampouco as mencionadas faculdades intelectuais são conduzidas, como ocorre em nós, ***de algo comum a essas*** coisas múltiplas e divididas; mas, por serem puras de ***toda*** matéria, pelo que diferem dos sentidos e das coisas sensíveis, e de toda ***multidão***, pelo que diferem dos raciocínios extensos, ***inteligem os inteligíveis divinos***, não de modo sensível nem discursivo, mas ***intelectualmente***; e também ***imaterialmente***, à diferença do sentido, e ***uniformemente***, à diferença da razão.
+Excluindo dos anjos ambas as coisas, diz que os intelectos angélicos não reúnem, como nós, ***o conhecimento divino***, considerando ***nas*** diversas ***coisas divisíveis*** aquilo que já sabem ou adquirindo a ciência a partir dessas ***coisas divisíveis***: ***divisíveis***, digo, ***ou sentidos***, quanto às coisas sensíveis, ***ou discursos extensos***, isto é, ***raciocínios***, como traz outra tradução; pois *logos*, em grego, significa tanto razão como discurso; e o raciocínio é chamado de extenso por proceder de uma coisa a outra. Tampouco as mencionadas faculdades intelectuais são conduzidas, como ocorre em nós, ***de algo comum a essas*** coisas múltiplas e divididas; mas, por serem puras de ***toda*** matéria, pelo que diferem dos sentidos e das coisas sensíveis, e de toda ***multiplicidade***, pelo que diferem dos raciocínios extensos, ***inteligem os inteligíveis divinos***, não de modo sensível nem discursivo, mas ***intelectualmente***; e também ***imaterialmente***, à diferença do sentido, e ***uniformemente***, à diferença da razão.
 
 **712.** Terceiro, onde diz: ***e possuem*** etc., apresenta a causa de tão excelente conhecimento nos anjos:
 
 e primeiro, da parte de sua natureza; e diz que ***esses*** anjos ***possuem uma potência e uma operação intelectuais que resplandecem com pureza limpa e imaculada: limpa***, pela remoção da impureza interior; ***imaculada***, pela remoção daquilo que mancha exteriormente; e essa pureza provém neles de duas coisas:
 
-primeiro, de certa simplicidade e imaterialidade naturais, que convêm aos próprios intelectos angélicos, aos quais chama divinos por sua proximidade e semelhança com Deus; e, por essa simplicidade e imaterialidade, tornam-se perspicazes, isto é, capazes de inteligir com agudeza.
+primeiro, de certa simplicidade e imaterialidade naturais, que convêm aos próprios intelectos angélicos, aos quais chama divinos por sua proximidade e semelhança com Deus; e, por essa simplicidade e imaterialidade, tornam-se perspicazes, isto é, capazes de entender com agudeza.
 
 Segundo, a pureza também resplandece neles pelo dom que lhes foi dado ***por Deus***, pelo qual se unem a Deus; por esse dom, segundo sua capacidade, tendem ***ao divino***, isto é, àquilo mesmo que Deus é, à ***mente e à razão*** divinas, que excedem toda sabedoria.
 
@@ -148,7 +148,7 @@ Há, pois, neles pureza do intelecto e esplendor, tanto por sua simplicidade com
 
 **713.** Em seguida, quando diz: ***pela sabedoria divina*** etc., mostra como a racionalidade das almas deriva da sabedoria divina; e diz que ***pela sabedoria divina também as almas*** humanas possuem o ser racionais.
 
-E, para explicar em que sentido as almas são chamadas racionais, acrescenta que percorrem ***a verdade dos entes de modo discursivo e circular***. Com efeito, a verdade dos entes consiste radicalmente na apreensão da quididade das coisas;[^23] as almas racionais não podem apreender imediatamente essa quididade por si mesma, mas se estendem pelas propriedades e pelos efeitos que circundam a essência da coisa, para, a partir deles, penetrar em sua verdade própria. E realizam isso em certo círculo, ao descobrir as causas a partir das propriedades e dos efeitos e ao julgar os efeitos a partir das causas. E, como as mentes angélicas contemplam a verdade segundo uma consideração unida e simples, as almas são inferiores a elas na medida em que se estendem, pela divisão e pela multidão de diversas coisas, até o conhecimento da verdade.
+E, para explicar em que sentido as almas são chamadas racionais, acrescenta que percorrem ***a verdade dos entes de modo discursivo e circular***. Com efeito, a verdade dos entes consiste radicalmente na apreensão da quididade das coisas;[^23] as almas racionais não podem apreender imediatamente essa quididade por si mesma, mas se estendem pelas propriedades e pelos efeitos que circundam a essência da coisa, para, a partir deles, penetrar em sua verdade própria. E realizam isso em certo círculo, ao descobrir as causas a partir das propriedades e dos efeitos e ao julgar os efeitos a partir das causas. E, como as mentes angélicas contemplam a verdade segundo uma consideração unida e simples, as almas são inferiores a elas na medida em que se estendem, pela divisão e pela multiplicidade de diversas coisas, até o conhecimento da verdade.
 
 [^23]: *Nota do tradutor:* “Quididade”, do latim *quidditas*, designa aquilo que uma coisa é, isto é, sua essência enquanto responde à pergunta “o que é?”.
 
@@ -164,19 +164,19 @@ Lição 3
 
 ***Como Deus conhece pela sabedoria divina***
 
-**313.** Com efeito, como inteligirá algum dos inteligíveis, se não possui operações intelectuais? Ou como conhecerá as coisas sensíveis, estando acima de todo sentido? E, no entanto, os oráculos dizem que ele sabe todas as coisas e que nada escapa ao conhecimento divino.
+**313.** Com efeito, como inteligirá algum dos inteligíveis, se não possui operações intelectuais? Ou como conhecerá as coisas sensíveis, estando acima de todo sentido? E, no entanto, as Escrituras dizem que ele sabe todas as coisas e que nada escapa ao conhecimento divino.
 
 > **314.** Mas, como disse muitas vezes, convém entender as coisas divinas como convém a Deus: com efeito, a ausência de mente e de sensibilidade deve ser atribuída a Deus segundo a transcendência, não segundo o defeito; assim como atribuímos o irracional àquele que está acima da razão; e a imperfeição àquele que é superperfeito e perfeito antes de tudo; e a treva impalpável e invisível à luz inacessível, por exceder a luz visível.
 
 > **315.** Por isso, a mente divina contém todas as coisas por um conhecimento separado de todas elas, segundo a causa de tudo, possuindo de antemão em si mesma a ciência de todas as coisas. Antes que os anjos fossem feitos, conhecia e produzia os anjos e todas as outras coisas, conhecendo-as interiormente e, por assim dizer, desde o próprio princípio, e conduzindo-as à substância.
 
-> **316.** E julgo que é isso que o oráculo ensina quando diz: *aquele que sabe todas as coisas antes que sejam feitas*. Com efeito, a mente divina não conhece os entes aprendendo a partir deles, mas, a partir de si mesma e em si mesma, possui e apreende de antemão, segundo a causa, a ciência, o conhecimento e a substância de todas as coisas, não se dirigindo a cada uma delas para vê-las, mas conhecendo e contendo todas segundo a única abrangência da causa; assim também a luz, segundo a causa, possui de antemão em si mesma a visão das trevas, não vendo as trevas a partir de outra coisa senão da luz.
+> **316.** E julgo que é isso que a Escritura ensina quando diz: *aquele que sabe todas as coisas antes que sejam feitas*. Com efeito, a mente divina não conhece os entes aprendendo a partir deles, mas, a partir de si mesma e em si mesma, possui e apreende de antemão, segundo a causa, a ciência, o conhecimento e a substância de todas as coisas, não se dirigindo a cada uma delas para vê-las, mas conhecendo e contendo todas segundo a única abrangência da causa; assim também a luz, segundo a causa, possui de antemão em si mesma a visão das trevas, não vendo as trevas a partir de outra coisa senão da luz.
 
 > **317.** Portanto, a sabedoria divina, conhecendo a si mesma, conhece todas as coisas: as materiais, imaterialmente; as divisíveis, indivisivelmente; e as múltiplas, unitivamente, conhecendo e produzindo todas as coisas no próprio uno. Com efeito, se Deus concedeu o ser a todos os entes segundo uma única causa, segundo essa mesma causa conhecerá todas as coisas, como existentes a partir dele e como preexistentes nele; e não receberá dos entes o conhecimento deles, mas será o doador, a cada um, do conhecimento de si mesmo, e a uns, do conhecimento dos outros.
 
 > **318.** Portanto, Deus não possui um conhecimento próprio de si mesmo e outro conhecimento comum que compreenda todos os entes: com efeito, a própria causa de todas as coisas, ao conhecer a si mesma, teria alguma lacuna se ignorasse as coisas que procedem dela e das quais é causa.
 
-> **319.** Assim, pois, Deus conhece os entes, não por uma ciência que seja dos entes, mas por aquela que é de si mesmo: com efeito, os oráculos dizem que também os anjos conhecem as coisas que estão na terra, conhecendo assim as coisas sensíveis, não segundo os sentidos, mas segundo a potência e a natureza próprias de sua mente deiforme.
+> **319.** Assim, pois, Deus conhece os entes, não por uma ciência que seja dos entes, mas por aquela que é de si mesmo: com efeito, as Escrituras dizem que também os anjos conhecem as coisas que estão na terra, conhecendo assim as coisas sensíveis, não segundo os sentidos, mas segundo a potência e a natureza próprias de sua mente deiforme.
 
 > **717.** Depois de esclarecer a eminência e a causalidade da sabedoria divina, Dionísio mostra aqui como Deus conhece pela sabedoria divina; e, a esse respeito, faz duas coisas:
 
@@ -192,7 +192,7 @@ segundo, resolve-a, onde diz: ***mas, como disse*** etc.;
 
 terceiro, da solução apresentada, infere algumas conclusões, onde diz: ***portanto*** etc.
 
-**719.** Primeiro, pois, diz que, embora Deus esteja acima de toda sabedoria, ele é ***louvado*** na Escritura como ***mente***, como ***razão e*** como ***conhecedor***. Surge, com efeito, a dúvida: ***como*** pode inteligir os inteligíveis, se não possui ***operações intelectuais***; e ***como*** pode conhecer as coisas ***sensíveis***, se não possui sentido, mas está ***acima de todo sentido***; uma vez que, no entanto, os santos ***oráculos*** ensinam que ***ele*** conhece ***todas as coisas e*** que ***nada*** escapa ao ***conhecimento divino***, segundo Hebreus 4: *todas as coisas estão nuas e abertas a seus olhos, e não há criatura alguma invisível diante dele*.
+**719.** Primeiro, pois, diz que, embora Deus esteja acima de toda sabedoria, ele é ***louvado*** na Escritura como ***mente***, como ***razão e*** como ***conhecedor***. Surge, com efeito, a dúvida: ***como*** pode inteligir os inteligíveis, se não possui ***operações intelectuais***; e ***como*** pode conhecer as coisas ***sensíveis***, se não possui sentido, mas está ***acima de todo sentido***; uma vez que, no entanto, as sagradas ***Escrituras*** ensinam que ***ele*** conhece ***todas as coisas e*** que ***nada*** escapa ao ***conhecimento divino***, segundo Hebreus 4: *todas as coisas estão nuas e abertas a seus olhos, e não há criatura alguma invisível diante dele*.
 
 **720.** Em seguida, quando diz: ***mas, como disse*** etc., resolve a dúvida proposta; e, a esse respeito, faz três coisas:
 
@@ -226,7 +226,7 @@ Lição 4
 
 > **323.** Com efeito, dizemos isso corretamente de Deus, e ele é louvado a partir de todos os entes segundo a proporção de todas as coisas das quais é causa; e há, por sua vez, um conhecimento diviníssimo de Deus, conhecido pela ignorância, segundo a unição acima da mente, quando a mente, afastando-se de todas as outras coisas e depois deixando também a si mesma, se une aos raios superesplendentes, sendo, a partir daí e nesse estado, iluminada pela profundidade insondável da sabedoria;
 
-> **324.** e essa sabedoria deve também ser conhecida a partir de todas as coisas, como disse. Com efeito, segundo o oráculo, ela é a causa que produz todas as coisas, que sempre as põe em concórdia e que é causa da concórdia indissolúvel e da ordem de todas elas, unindo sempre os extremos das primeiras aos princípios das segundas e produzindo belamente uma única consonância e harmonia de todas as coisas.
+> **324.** e essa sabedoria deve também ser conhecida a partir de todas as coisas, como disse. Com efeito, segundo a Escritura, ela é a causa que produz todas as coisas, que sempre as põe em concórdia e que é causa da concórdia indissolúvel e da ordem de todas elas, unindo sempre os extremos das primeiras aos princípios das segundas e produzindo belamente uma única consonância e harmonia de todas as coisas.
 
 > **727.** Depois de mostrar como Deus conhece, Dionísio mostra aqui como é conhecido; e, a esse respeito, faz três coisas:
 
@@ -270,7 +270,7 @@ Lição 5
 
 ***Daquilo que se liga à sabedoria, ou seja, da razão, da verdade e da fé***
 
-§4. **325.** Deus, porém, é louvado como razão pelos santos oráculos, não apenas porque é doador da razão, da mente e da sabedoria, mas porque possui de antemão em si mesmo, uniformemente, as causas de todas as coisas, e porque percorre todas as coisas, alcançando, como dizem os oráculos, até o fim de tudo; e, antes disso, porque a razão divina é simples acima de toda simplicidade e está desligada de todas as coisas, acima de tudo, segundo sua condição supersubstancial.
+§4. **325.** Deus, porém, é louvado como razão pelas santas Escrituras, não apenas porque é doador da razão, da mente e da sabedoria, mas porque possui de antemão em si mesmo, uniformemente, as causas de todas as coisas, e porque percorre todas as coisas, alcançando, como dizem as Escrituras, até o fim de tudo; e, antes disso, porque a razão divina é simples acima de toda simplicidade e está desligada de todas as coisas, acima de tudo, segundo sua condição supersubstancial.
 
 > **326.** Esta razão é a verdade simples e existente do ente; em torno dela, como conhecimento puro e não errôneo da totalidade das coisas, está a fé divina, que é o estabelecimento permanente dos que creem, que os estabelece na verdade e a verdade neles, em identidade imutável, por possuírem os crentes o conhecimento simples da verdade.
 
