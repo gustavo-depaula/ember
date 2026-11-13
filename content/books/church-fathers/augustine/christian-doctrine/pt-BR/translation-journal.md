@@ -246,3 +246,29 @@ Verdict: 0 meaning-level, 4 minor. Leitura integral dos 198 blocos de ch004.md e
 Verdict: 0 meaning-level, 0 minor. Delta read of ch005 [24]–[26] and [85]–[87], the footnotes and the journal edits: the four round 2 fixes are correct and broke nothing; no new defects found.
 - Rejected: pt-BR/ch005.md [86] — The new wording “buscar ou evitar o que condena, ou renunciar a isso” might detach the third verb from its object. — “isso” refers back to “o que condena”, so all three verbs keep the source's single object. The regency of buscar/evitar (direct object) and renunciar (a) is now correct, and the source's anomaly is preserved as the journal records.
 - Rejected: pt-BR/ch005.md [26] — A semicolon is added between “divãs” and “que comeis”, where the source runs “couches that eat the lamb”. — The source omits the clause break, so “couches” would be the ones eating. The translation restores the parallel series of relative clauses addressed to the people, which is the evident sense; nothing is added or lost.
+
+### Part terms 1 of 2, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 8 minor. 97 sinalizações lidas em 71 parágrafos; 6 sinalizações com desvio, correspondentes a 5 parágrafos e 8 correções.
+- `pt-BR/ch002.md` [54]: “para extirpar o desejo do corpo” → “para extirpar a concupiscência do corpo” — *lust* → “concupiscência” (Key Terms); estava “desejo”.
+- `pt-BR/ch003.md` [59]: “os homens que cobiçam coisas más são” → “os homens que, por concupiscência, desejam coisas más são” — *lust after* expressa o desejo desordenado abrangido por “concupiscência” (Key Terms); estava “cobiçam”.
+- `pt-BR/ch004.md` [47]: “inteiramente absorvida nos prazeres temporais” → “inteiramente absorvida nas fruições temporais” — *enjoyments* → “fruições” (Key Terms), no contraste técnico entre uso e fruição; estava “prazeres”.
+- `pt-BR/ch004.md` [47]: “concupiscência no desfrutar” → “concupiscência no fruir” — *enjoying* → “fruir” (Key Terms), na mesma distinção técnica; estava “desfrutar”.
+- `pt-BR/ch005.md` [18]: “tão indizível prazer” → “tão inefável prazer” — *unspeakable* → “inefável” (Key Terms); estava “indizível”.
+- `pt-BR/ch005.md` [70]: “os maus desejos de seus corações” → “as más concupiscências de seus corações” — *evil lusts* → “más concupiscências” (Key Terms); estava “maus desejos”.
+- `pt-BR/ch005.md` [70]: “à sedução do desejo interior” → “à sedução da concupiscência interior” — *lust within* → “concupiscência interior” (Key Terms); estava “desejo interior”.
+- `pt-BR/ch005.md` [70]: “entregou-se ao desejo” → “entregou-se à concupiscência” — *fell a lusting* designa aqui o desejo desordenado abrangido por “concupiscência” (Key Terms); estava “entregou-se ao desejo”.
+
+### Part terms 1 of 2, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta read de ch002–ch005: as 8 correções da rodada 1 estão certas; 2 defeitos menores corrigidos (lust → concupiscência em ch002 [53]; correlativo “não apenas” ausente em ch005 [17]).
+- `pt-BR/ch002.md` [53]: “arrancar aqueles desejos que prejudicam o corpo” → “arrancar aquelas concupiscências que prejudicam o corpo” — source: “those lusts that are hurtful to the body”; lust → “concupiscência” (Key Terms), como no §25 vizinho (“a concupiscência do corpo”) e em ch005 [70] (“más concupiscências”)
+- `pt-BR/ch005.md` [17]: “parece-me que nada pode ser mais sábio, mas também nada pode ser mais eloquente” → “parece-me não apenas que nada pode ser mais sábio, mas também que nada pode ser mais eloquente” — source: “not only that nothing can be wiser, but also that nothing can be more eloquent”; faltava “não apenas”, e o “mas também” ficava sem correlativo
+- Rejected: pt-BR/ch002.md [54] — “A carne deseja contra o espírito” em vez de forma de “concupiscência” — verbo em citação bíblica; “deseja contra” é tradução fiel e natural de *lusts against*, e a tabela de termos rege o substantivo
+- Rejected: pt-BR/ch005.md [70] — pontuação “carne para comer?’.” antes da referência — fecha a citação interna e a frase; escolha de pontuação defensável, sem efeito no sentido
+- Rejected: pt-BR/ch003.md [60] — “public means” vertido por “meios comuns” — “comuns” (partilhados por todos) se opõe a “esforços privados” da mesma frase; é uma escolha defensável
+
+### Part terms 1 of 2, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as duas correções, todos os trechos vizinhos exibidos e as notas do tradutor fornecidas; nenhum defeito encontrado.
+- Rejected: pt-BR/ch002.md [53–54]; pt-BR/ch005.md [17–18] — Diferenças na contagem de marcadores de ênfase e parênteses. — O negrito dos números segue a regra editorial; os parênteses foram substituídos por travessões, preservando integralmente o conteúdo.
+
+### Part terms 2 of 2, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 0 minor. 13 flags lidos em 9 parágrafos; nenhum desvio do glossário.
