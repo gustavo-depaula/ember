@@ -158,7 +158,7 @@ Destino: pt-BR.
 | asir / asidas | atar / atadas | |
 | mirar / mirada | mirar / olhar | “Mirar” nos versos e no comentário (“o mirar de Deus é amar”). |
 | adamar | sobreamar | Nota do tradutor [^27] em c32. |
-| regraciar | agradecer | |
+| regraciar | agradecer | “Regraciarse con”, no sentido de compartilhar a alegria: “congratular-se com”. |
 | conglutinar | conglutinar | c31 n. 2 (Jônatas e Davi). |
 | palomica / tortolica, tortolilla | pombinha / rolinha | |
 | socio (deseado) | companheiro | “Consorte” fica para *consorte*. |
@@ -600,3 +600,13 @@ Verdict: 0 meaning-level, 3 minor. Read all 18 files of part 3 in full; fixed tw
 - Rejected: pt-BR/canciones.md [24] — 'durma mais segura' for source 'duerma más seguro' — 'seguro' can be read as an adjective agreeing with the Esposa or as an adverb; the feminine reading is defensible
 - Rejected: pt-BR/c7.md [6] — Cant 4:9 gives 'cabelo de teu pescoço' here and 'cabelo do teu colo' in c31 — the two renderings are in different chapters, and each file is internally consistent; the sense is unchanged
 - Rejected: pt-BR/c35.md [16] — 'confiando-a a outro que não a si só' could be read as entrusting her to another — the negation carries over from 'não lhe quer dar', exactly as it does in the source's own construction
+
+### Part terms 1 of 1, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 1 minor. 49 parágrafos sinalizados lidos; nenhuma deriva na tradução; 1 linha do glossário ampliada.
+- `pt-BR/translation-journal.md`: “| regraciar | agradecer | |” → “| regraciar | agradecer | “Regraciarse con”, no sentido de compartilhar a alegria: “congratular-se com”. |” — Em c22, tanto no texto como na variante, a construção significa compartilhar a alegria, não agradecer. A tradução emprega corretamente “congratular-se com”; falta registrar esse sentido no glossário.
+
+### Part terms 1 of 1, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Leitura delta: verificada a única alteração (linha regraciar do glossário), que está correta; nenhum parágrafo de capítulo foi alterado; nenhum defeito encontrado.
+- Rejected: pt-BR/translation-journal.md, linha regraciar — Coluna Português diz “agradecer” e a nota diz “congratular-se com” — A nota restringe o sentido à construção pronominal de c22; não há contradição com a forma geral.
+- Rejected: pt-BR/translation-journal.md, linhas adamar, cuello, enojos, socio — Linhas duplicadas com formas diferentes (sobreamar/adamar, pescoço/colo, enfados/pesares, companheiro/consorte) — Sem o texto dos capítulos nesta leitura delta não se pode saber qual forma ocorre; fica para uma leitura completa.
+- Rejected: pt-BR/translation-journal.md, linha aspirar en — A auditoria indica “soprar em” ×0 no pt-BR — Indicativo; não verificável sem o texto de c17 nesta leitura delta.
