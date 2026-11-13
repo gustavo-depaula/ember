@@ -17,7 +17,7 @@ Alvo: pt-BR (Português Brasileiro)
 | grazia | graça | |
 | grazia santificante | graça santificante | |
 | carità | caridade | Sentido teológico (caritas) |
-| preghiera | oração | |
+| preghiera | oração | Em súplicas, também “prece”. |
 | orazione | oração (mental) | Contexto; muitas vezes refere-se à oração mental |
 | meditazione | meditação | |
 | colloquio | colóquio | Seção de oração |
@@ -29,7 +29,7 @@ Alvo: pt-BR (Português Brasileiro)
 | mortificazione | mortificação | |
 | abbandono | abandono (em Deus) | Sentido espiritual, não negativo |
 | raccoglimento | recolhimento | Termo espiritual |
-| virtù | virtude | |
+| virtù | virtude | Também “força” no sentido de vigor ou capacidade de agir, como em giorno-254. |
 | peccato veniale | pecado venial | |
 | peccato mortale | pecado mortal | |
 | imperfezione | imperfeição | Termo técnico de teologia espiritual |
@@ -4376,3 +4376,38 @@ Verdict: 0 meaning-level, 0 minor. Full read of part 12 (giorno-016, 028, 154, 1
 - Rejected: pt-BR/presentazione.md [12] — 'desaparecimento súbito' for 'improvvisa scomparsa' — 'Desaparecimento' is an accepted euphemism for death in Portuguese, as 'scomparsa' is in Italian.
 - Rejected: pt-BR/presentazione.md [17] — 'fecundo' where the source reads 'secondo' — 'Secondo' is an OCR slip for 'fecondo', and the translation gives the intended sense.
 - Rejected: pt-BR/translation-journal.md — Log entries say the notes in giorno-016 and presentazione were inlined as parentheses, but both are now footnotes — These are dated history entries recording what was done then, not claims about the current text; they are left as they are.
+
+### Part terms 1 of 3, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 1 minor. 144 parágrafos sinalizados lidos; nenhum desvio na tradução; uma ampliação do glossário.
+- `pt-BR/translation-journal.md`: “| preghiera | oração | |” → “| preghiera | oração | Em súplicas, também “prece”. |” — Os trechos usam reiteradamente “prece” e “preces” como equivalentes legítimos de preghiera; registrar essa variante no glossário.
+
+### Part terms 1 of 3, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read: verified the one journal change (preghiera → also “prece”); it is correct. No chapter paragraphs changed; no defects.
+- Rejected: pt-BR/translation-journal.md, Key Terms row preghiera — Note added recording “prece” as a variant of preghiera — Accurate and harmless: “prece/preces” is a legitimate rendering of preghiera in supplications. The row keeps the table's format.
+- Rejected: audit: Key Terms row “italiano” — “italiano” ×2 in source, “português” ×0 in pt-BR — The match is the table's header row and the journal's language line, not a translated term. There is no defect.
+- Rejected: audit: repeated word “nos nos” (giorno-211 [7], [12]; giorno-275 [5]) — Possible duplicated word — These paragraphs are not part of this delta read. The flag was not shown with its text, so it cannot be judged here; it is left for a full read.
+
+### Part terms 2 of 3, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 1 minor. 108 parágrafos examinados; nenhum desvio na tradução; 1 complemento de glossário.
+- `pt-BR/translation-journal.md`: “| virtù | virtude | |” → “| virtù | virtude | Também “força” no sentido de vigor ou capacidade de agir, como em giorno-254. |” — Em giorno-254 [10], *virtù* significa força, não virtude moral; a tradução mantém corretamente esse sentido nas ocorrências repetidas.
+
+### Part terms 2 of 3, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read: checked the one journal change (gloss on virtù); it is plausible and consistent; no defects.
+- Rejected: pt-BR/translation-journal.md, Key Terms row “virtù” — New gloss claims virtù = “força” in giorno-254 — Plausible sense of Italian virtù; the cited paragraph is not shown in this delta, so there is no basis to contradict it, and the gloss does not conflict with the main rendering.
+- Rejected: Mechanical audit, Key Terms row “italiano ×2 / português ×0” — Key Terms row flagged — This is the table's header row (Italiano | Português), not a term to translate; it is not a defect.
+- Rejected: giorno-211 [7], [12]; giorno-275 [5] — Repeated word “nos nos” flagged — These paragraphs are not part of this delta read and were not shown; they cannot be checked or fixed here.
+
+### Part terms 3 of 3, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 0 minor. 118 sinalizações lidas; 1 desvio de sentido.
+- `pt-BR/giorno-337.md` [7]: “ação que tenta afastá-lo da contemplação, e contemplação que gostaria de prolongar-se além do tempo estabelecido.” → “a ação que tenta afastá-lo da contemplação é aquela que gostaria de prolongar-se além do tempo estabelecido.” — O sujeito de «vorrebbe prolungarsi» é a ação, não a contemplação: é a ação que pretende ultrapassar o tempo estabelecido. *(meaning)*
+
+### Part terms 3 of 3, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 0 minor. Delta read of giorno-337 [6]-[8]: the previous fix to [7] is correct; [6] lost «sono indispensabili», now restored.
+- `pt-BR/giorno-337.md` [6]: “retiros mensais, exercícios anuais e também maior folga” → “retiros mensais e exercícios anuais são indispensáveis, assim como maior folga” — source says «ritiri mensili, esercizi annuali sono indispensabili, e così pure maggior agio»; the PT drops the predicate «são indispensáveis» *(meaning)*
+- Rejected: pt-BR/giorno-337.md [7] — previous fix «a ação que tenta afastá-lo da contemplação é aquela que gostaria de prolongar-se» — follows the source exactly («l'azione che tenta di distogliere dalla contemplazione è quella che vorrebbe prolungarsi»); the object «-lo» refers to the apostle and is clear
+- Rejected: audit flags giorno-337 [4], [9], [10], [11] — unbalanced quotes and differing emphasis counts — these paragraphs are not in this delta read and cannot be checked here
+
+### Part terms 3 of 3, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente os parágrafos [5]–[7]; correção confirmada, sem novos defeitos.
+- Rejected: pt-BR/giorno-337.md [6] — Restauração de «são indispensáveis». — A correção restitui corretamente «sono indispensabili» e preserva a aplicação do predicado também à maior folga para recolher-se.
+- Rejected: Auditoria: giorno-337.md [4], [9], [10], [11] — Aspas desequilibradas e diferenças de ênfase. — Os parágrafos sinalizados não foram apresentados nesta leitura delta; não é possível verificar essas ocorrências.
