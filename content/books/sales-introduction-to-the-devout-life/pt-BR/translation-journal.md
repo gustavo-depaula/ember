@@ -21,7 +21,7 @@ Destino: pt-BR.
 | Créateur / Rédempteur / Sauveur | Criador / Redentor / Salvador | Títulos divinos. |
 | oraison | oração | O contexto determina quando se trata de oração mental. |
 | méditation | meditação | Convenção dos trabalhos próximos. |
-| affections | afetos | Movimentos da vontade e do coração no exercício espiritual. |
+| affections | afetos | Movimentos da vontade e do coração no exercício espiritual. “Apegos” quando designa vínculos persistentes ao pecado, às riquezas, aos prazeres ou a outras coisas criadas. |
 | affections du péché | apegos ao pecado | Inclinações afetivas que permanecem depois do abandono dos atos. |
 | résolutions / bons propos | resoluções / bons propósitos | Preservada a distinção lexical quando possível. |
 | purgation | purificação | Termo ascético; conserva-se a imagem médica quando desenvolvida. |
@@ -342,3 +342,12 @@ Verdict: 2 meaning-level, 4 minor. Full read of part 3 (43 files): body text cle
 
 ### Part 3 of 3, Round 4 (codex, delta read)
 Verdict: 0 meaning-level, 0 minor. Verificadas as seis alterações de títulos em book.json contra o francês canônico: todas corretas, sem novos defeitos.
+
+### Part terms 1 of 1, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 1 minor. 109 parágrafos sinalizados lidos; nenhum desvio na tradução; 1 complemento ao glossário.
+- `pt-BR/translation-journal.md`: “| affections | afetos | Movimentos da vontade e do coração no exercício espiritual. |” → “| affections | afetos | Movimentos da vontade e do coração no exercício espiritual. “Apegos” quando designa vínculos persistentes ao pecado, às riquezas, aos prazeres ou a outras coisas criadas. |” — As ocorrências empregam consistentemente “apego(s)” nesse sentido, com fidelidade ao original; a linha deve registrar essa acepção.
+
+### Part terms 1 of 1, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Leitura delta: conferida a única alteração (linha affections do glossário); está correta e nenhum parágrafo foi alterado; sem defeitos.
+- Rejected: pt-BR/translation-journal.md, linha affections — Acréscimo da acepção “apegos” ao termo affections — Está de acordo com a linha já existente “affections du péché | apegos ao pecado” e apenas registra uma acepção dependente do contexto. Não contradiz nenhuma outra linha.
+- Rejected: pt-BR/translation-journal.md, linha conseils et inspirations célestes — A auditoria indica 0 ocorrências de “conselhos e inspirações celestes” no pt-BR — A indicação é só indicativa: a expressão pode aparecer com outra ordem ou flexão. Esta leitura delta não mostra os parágrafos que permitiriam confirmar ou corrigir a linha.
