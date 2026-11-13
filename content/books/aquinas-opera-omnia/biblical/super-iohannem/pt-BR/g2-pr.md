@@ -10,4 +10,4 @@
 
 **IV**. *E este é João, que, sabendo que chegara o dia da sua partida, convocou os seus discípulos em Éfeso e, manifestando Cristo por muitas provas de sinais, desceu ao lugar escavado da sua sepultura e, feita a oração, foi reunido a seus pais, achando-se tão estranho à dor da morte quanto alheio à corrupção da carne*.
 
-**V**. *Contudo, escreveu o Evangelho depois de todos, e isto cabia ao virgem. Mas a disposição desses escritos no tempo, ou a ordenação dos livros, não é por nós exposta em pormenor, para que, suscitado o desejo de saber, fique reservado aos que buscam o fruto do trabalho, e a Deus, a doutrina do magistério*.
+**V**. *Contudo, escreveu o Evangelho depois de todos, e isto cabia ao virgem. Mas a disposição desses escritos no tempo, ou a ordenação dos livros, não é por nós exposta em pormenor, para que, suscitado o desejo de saber, fique reservado aos que buscam o fruto do trabalho, e a Deus, o ensino do magistério*.
