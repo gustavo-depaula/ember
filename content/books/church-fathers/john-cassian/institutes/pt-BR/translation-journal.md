@@ -269,3 +269,37 @@ Verdict: 2 meaning-level, 0 minor. Leitura integral de ch006–ch011: 435 blocos
 Verdict: 0 meaning-level, 0 minor. Delta read of ch010 [21–23] and ch011 [87–89]: both previous fixes are correct and fit their sentences; no new defects.
 - Rejected: pt-BR/ch010.md [22] — "abate-o com a própria lança desse soldado" commits "his own spear" to the soldier — The contrast with "the weapons of the foe" requires the soldier's own weapon (his victory turned into pride); the commitment matches the context
 - Rejected: pt-BR/ch011.md [88] — audit: parentheses 1 → 0 — "(so to speak)" is kept as ", por assim dizer," with no content lost; already rejected in round 1
+
+### Part terms 1 of 1, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 24 minor. 51 parágrafos sinalizados examinados; deriva em 20, com 24 correções.
+- `pt-BR/ch002.md` [10]: “se submeter até mesmo aos mais jovens” → “se submeter até mesmo aos mais novos” — juniors → “os mais novos” (Key Terms); estava “mais jovens”.
+- `pt-BR/ch002.md` [10]: “o que deve ensinar aos mais jovens” → “o que deve ensinar aos mais novos” — juniors → “os mais novos” (Key Terms); estava “mais jovens”.
+- `pt-BR/ch004.md` [13]: “esse orgulho não o impeça” → “essa soberba não o impeça” — pride → “soberba” (Key Terms); estava “orgulho”.
+- `pt-BR/ch004.md` [16]: “deixou de lado todo orgulho mundano” → “deixou de lado toda soberba mundana” — pride → “soberba” (Key Terms); estava “orgulho”.
+- `pt-BR/ch004.md` [28]: “pelo orgulho ou pela vergonha” → “pela soberba ou pela vergonha” — pride → “soberba” (Key Terms); estava “orgulho”.
+- `pt-BR/ch004.md` [40]: “teria de fazer reparação mediante” → “teria de fazer satisfação mediante” — satisfaction → “satisfação” (Key Terms), no contexto penitencial; estava “reparação”.
+- `pt-BR/ch004.md` [49]: “A mesma reparação deve ser feita” → “A mesma satisfação deve ser feita” — satisfaction → “satisfação” (Key Terms), no contexto penitencial; estava “reparação”.
+- `pt-BR/ch004.md` [106]: “nem se inflama de orgulho, contenda” → “nem se inflama de soberba, contenda” — pride → “soberba” (Key Terms); estava “orgulho”.
+- `pt-BR/ch005.md` [40]: “estamos livres da sujeição à carne” → “estamos livres da submissão à carne” — subjection → “submissão” (Key Terms); estava “sujeição”.
+- `pt-BR/ch005.md` [52]: “castigo meu corpo e o reduzo à sujeição” → “castigo meu corpo e o reduzo à submissão” — subjection → “submissão” (Key Terms); estava “sujeição”.
+- `pt-BR/ch005.md` [52]: “na mortificação da carne e na sujeição de seu corpo” → “na mortificação da carne e na submissão de seu corpo” — subjection → “submissão” (Key Terms); estava “sujeição”.
+- `pt-BR/ch005.md` [55]: “castigo meu corpo e o reduzo à sujeição” → “castigo meu corpo e o reduzo à submissão” — subjection → “submissão” (Key Terms); estava “sujeição”.
+- `pt-BR/ch005.md` [58]: “castigo meu corpo e o reduzo à sujeição” → “castigo meu corpo e o reduzo à submissão” — subjection → “submissão” (Key Terms); estava “sujeição”.
+- `pt-BR/ch006.md` [34]: “se enredaram em muitas dores” → “se enredaram em muitas tristezas” — sorrow → “tristeza” nas citações (Key Terms); estava “dores”.
+- `pt-BR/ch006.md` [39]: “os anciãos relatam aos mais jovens” → “os anciãos relatam aos mais novos” — juniors → “os mais novos” (Key Terms); estava “mais jovens”.
+- `pt-BR/ch007.md` [49]: “vencidos pelo orgulho ou pela impaciência” → “vencidos pela soberba ou pela impaciência” — pride → “soberba” (Key Terms); estava “orgulho”.
+- `pt-BR/ch010.md` [48]: “iludido pela vã glória” → “iludido pela vanglória” — vainglory → “vanglória” (Key Terms); estava “vã glória”.
+- `pt-BR/ch010.md` [52]: “se instalem na mente dos mais jovens” → “se instalem na mente dos mais novos” — juniors → “os mais novos” (Key Terms); estava “mais jovens”.
+- `pt-BR/ch011.md` [52]: “Na multidão das dores de meu coração” → “Na multidão das tristezas de meu coração” — sorrow → “tristeza” nas citações (Key Terms); estava “dores”.
+- `pt-BR/ch011.md` [82]: “qualquer regra de sujeição ou obediência” → “qualquer regra de submissão ou obediência” — subjection → “submissão” (Key Terms); estava “sujeição”.
+- `pt-BR/ch011.md` [85]: “recordar: um dos mais jovens” → “recordar: um dos mais novos” — juniors → “os mais novos” (Key Terms); estava “mais jovens”.
+- `pt-BR/ch011.md` [85]: “para ficar sempre sujeito?” → “para ficar sempre submisso?” — subjection → “submissão” (Key Terms), aqui expressa pelo adjetivo “submisso”; estava “sujeito”.
+- `pt-BR/ch011.md` [97]: “o jugo da obediência e da sujeição” → “o jugo da obediência e da submissão” — subjection → “submissão” (Key Terms); estava “sujeição”.
+- `pt-BR/ch011.md` [97]: “lhe é ordenado pelos mais velhos” → “lhe é ordenado pelos anciãos” — senior → “ancião” (Key Terms), na função de direção espiritual; estava “mais velhos”.
+
+### Part terms 1 of 1, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of the 24 changes from round 1 (ch002, ch004, ch005, ch006, ch007, ch010, ch011) and their neighbouring paragraphs: all are correct, with no new defects.
+- Rejected: pt-BR/ch010.md [48] — “idle vainglory” is now rendered only as “vanglória”, without “idle” — “Vanglória” already means empty, vain glory; adding “vã” or “ociosa” would be redundant. Nothing the reader needs is lost.
+- Rejected: pt-BR/ch011.md [97] — The audit counts the Key Terms row “renúncia a si mesmo” ×0 against the text's “renúncia a nós mesmos” — This is the same expression with the reflexive inflected for the first-person plural subject of the sentence. The rendering does not drift from the table.
+- Rejected: pt-BR/ch006.md [40], pt-BR/ch010.md [52] — “mais jovens” remains after the change to “mais novos” — The source here says “younger brethren” and “younger ones”, not “juniors”, so the Key Terms row does not apply.
+- Rejected: pt-BR/ch004.md [40], [49] — Whether “fazer satisfação” and “a mesma satisfação deve ser feita” are acceptable Portuguese — Both are acceptable uses in the penitential sense, consistent with the table's satisfaction/absolution row.
