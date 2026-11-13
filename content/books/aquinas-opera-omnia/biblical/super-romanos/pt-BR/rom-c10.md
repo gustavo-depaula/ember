@@ -362,7 +362,7 @@ segundo, tira a conclusão, onde diz: ***Portanto, ele tem misericórdia de quem
 
 Nesse sentido também se pode ler o que se diz: ***Te suscitei***, isto é, embora diante de mim estivesses morto por teus méritos, concedi-te a vida, como se te suscitasse. Nisso se mostra que Deus não comete iniquidade contra os reprovados, pois eles, por seus méritos, seriam dignos de ser imediatamente consumidos; mas o próprio fato de conservá-los em vida procede de sua imensa bondade. Jeremias 10:24: *Corrigi-me, Senhor, mas com justiça, e não em vosso furor, para que não me reduzais a nada*.
 
-De outra maneira, pode-se entender: ***Te suscitei*** para o pecado, a fim de que te tornes pior. Isso não deve ser entendido como se Deus causasse a malícia no homem, mas em sentido permissivo, porque, por seu justo juízo, permite que alguns se precipitem no pecado por causa de iniquidades anteriores, como foi dito acima, em 1:24: ***Deus os entregou a um entendimento reprovado***.
+De outra maneira, pode-se entender: ***Te suscitei*** para o pecado, a fim de que te tornes pior. Isso não deve ser entendido como se Deus causasse a malícia no homem, mas em sentido permissivo, porque, por seu justo juízo, permite que alguns se precipitem no pecado por causa de iniquidades anteriores, como foi dito acima, em 1:24: ***Deus os entregou a um senso reprovado***.
 
 Mas parece-me que nisso se deve entender algo mais: os homens são movidos por Deus ao bem e ao mal por certo impulso interior. Por isso Agostinho diz, no livro *Da graça e do livre-arbítrio*, que Deus opera no coração dos homens para inclinar suas vontades para onde quiser, seja para o bem, por sua misericórdia, seja para o mal, segundo seus méritos. Por isso também se diz muitas vezes que Deus suscita alguns para o bem, segundo Daniel 13:45: *Deus suscitou o espírito de um menino jovem*. Diz-se também que suscita alguns para fazer o mal, segundo Isaías 13:17: *Suscitarei os medos, que matarão os pequeninos com flechas*.
 
@@ -500,11 +500,11 @@ Lição 5
 
 > ^9:29^ e, como predisse Isaías: *Se o Senhor dos Exércitos não nos tivesse deixado uma descendência, teríamos nos tornado como Sodoma e seríamos semelhantes a Gomorra*. [n. 806]
 
-> ^9:30^ Que diremos, então? Que os gentios, que não buscavam a justiça, alcançaram a justiça, mas a justiça que vem da fé. [n. 807]
+> ^9:30^ Que diremos, então? Que os gentios, que não buscavam a justiça, alcançaram a justiça, mas a justiça que se origina a partir da fé. [n. 807]
 
 > ^9:31^ Israel, porém, buscando a lei da justiça, não chegou à lei da justiça. [n. 809]
 
-> ^9:32^ Por quê? Porque não pela fé, mas como que pelas obras; pois tropeçaram na pedra de tropeço, [n. 810]
+> ^9:32^ Por quê? Porque não a partir da fé, mas como que pelas obras; pois tropeçaram na pedra de tropeço, [n. 810]
 
 > ^9:33^ como está escrito: *Eis que ponho em Sião uma pedra de tropeço e uma rocha de escândalo; e todo aquele que nele crê não será confundido*. [n. 812]
 
@@ -540,7 +540,7 @@ Essa passagem se encontra em Oseias 2:24, segundo a Septuaginta; em seu lugar, n
 
 **800.** Em seguida, quando diz: ***E acontecerá: no lugar***, etc., apresenta outra passagem, que se encontra em Oseias 1:10, na qual lhes é prometida a dignidade de filhos de Deus, da qual os judeus se gloriavam por causa do que se diz em Isaías 1:2: *Criei filhos e os elevei, mas eles me desprezaram*. E em Deuteronômio 32:6: *Não é ele teu pai?*
 
-Os gentios não só não eram chamados filhos, o que diz respeito àqueles que servem a Deus por amor e são conduzidos pelo Espírito de Deus, como foi dito acima, em Romanos 8:14, mas nem sequer eram dignos de ser chamados povo de Deus, o que podia dizer respeito também àqueles que haviam recebido o espírito de servidão no temor.
+Os gentios não só não eram chamados filhos, o que diz respeito àqueles que servem a Deus por amor e são movidos pelo Espírito de Deus, como foi dito acima, em Romanos 8:14, mas nem sequer eram dignos de ser chamados povo de Deus, o que podia dizer respeito também àqueles que haviam recebido o espírito de servidão no temor.
 
 Por isso diz: ***E acontecerá: no lugar***, isto é, na Judeia, ***onde lhes foi dito***, a saber, aos gentios, pelos judeus que falavam como que em nome de Deus: ***Vós não sois meu povo***, porque não os consideravam povo de Deus, ***ali***, isto é, também entre os judeus que creem, ***serão chamados filhos de Deus***.
 
@@ -590,7 +590,7 @@ em segundo lugar, quanto aos judeus, onde diz: ***Israel, porém***, etc.
 
 Primeiro, conclui o que pretende, dizendo: ***Que diremos, então***, considerando o que foi dito? Diremos isto: ***Que os gentios alcançaram***, isto é, obtiveram, a justiça, a saber, aquela pela qual são chamados filhos. 1 Coríntios 6:11: *E isso é o que fostes, mas fostes justificados*. E isso se deu pelo chamado da eleição divina, não pelos méritos, como fica claro pelo que diz: ***Os quais não buscavam a justiça***, segundo aquilo de Efésios 2:12: *Naquele tempo estáveis sem Cristo, alheios à comunidade de Israel*.
 
-Em segundo lugar, explica o que havia dito: ***A justiça, porém, que vem da fé***, não aquela que consiste nas obras. Pois os gentios não se converteram para observar a justiça da Lei, mas para serem justificados pela fé em Cristo. Acima, Romanos 3:22: ***A justiça de Deus pela fé em Jesus Cristo***.
+Em segundo lugar, explica o que havia dito: ***A justiça, porém, que se origina a partir da fé***, não aquela que consiste nas obras. Pois os gentios não se converteram para observar a justiça da Lei, mas para serem justificados pela fé em Cristo. Acima, Romanos 3:22: ***A justiça de Deus pela fé em Jesus Cristo***.
 
 **809.** Em seguida, quando diz: ***Israel, porém***, etc., apresenta a conclusão quanto aos judeus.
 
@@ -602,7 +602,7 @@ Ou se chama lei da justiça porque torna os homens justos, não verdadeiramente,
 
 **810.** Em segundo lugar, apresenta a causa, dizendo: ***Por quê***, a saber, por que, embora buscassem a Lei, não chegaram à lei da justiça? Porque não a buscavam pelo caminho devido.
 
-E é isso que acrescenta: ***Porque não pela fé***, a saber, em Cristo, procuravam ser justificados, ***mas como que pelas obras*** da Lei. Pois seguiam a figura e repudiaram a verdade. Acima, Romanos 3:20: ***Pelas obras da Lei nenhuma carne será justificada diante dele***.
+E é isso que acrescenta: ***Porque não a partir da fé***, a saber, em Cristo, procuravam ser justificados, ***mas como que pelas obras*** da Lei. Pois seguiam a figura e repudiaram a verdade. Acima, Romanos 3:20: ***Pelas obras da Lei nenhuma carne será justificada diante dele***.
 
 **811.** Em terceiro lugar, esclarece a causa apresentada e, primeiro, propõe o esclarecimento, dizendo: ***Pois tropeçaram na pedra de tropeço***, isto é, em Cristo, que é comparado a uma pedra de tropeço porque, assim como não se toma cuidado com uma pedra em que alguém tropeça, por causa de sua pequenez, assim os judeus, vendo Cristo limitado à nossa fraqueza, não tomaram cuidado para não tropeçar nele. Isaías 53:3: *Seu rosto estava como que oculto, e ele era desprezado; por isso não o tivemos em consideração*. Jeremias 13:16: *Antes que vossos pés tropecem nos montes tenebrosos*, isto é, em Cristo e em seus apóstolos, que são chamados montes tenebrosos porque sua dignidade e grandeza estavam ocultas.
 

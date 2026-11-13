@@ -112,7 +112,7 @@ Nela, primeiro, indica a ocasião da deficiência dos judeus, dizendo: ***Torne-
 
 Ou a ***mesa*** é a Sagrada Escritura posta diante dos judeus. Provérbios 9:2: *Preparou sua mesa*. Ela se torna ***um laço*** quando se apresenta algo ambíguo; ***uma armadilha*** quando é mal compreendida; ***um escândalo*** quando alguém cai na obstinação do erro; e ***uma retribuição***, como acima.
 
-**877.** Em segundo lugar, apresenta a própria deficiência quanto à potência cognoscitiva, quando diz: ***Obscureçam-se seus olhos para que não vejam***, o que se diz mais como predição do que como desejo. Efésios 4:18: *Tendo o entendimento obscurecido pelas trevas*. E, quanto ao efeito, diz: ***E encurvai sempre suas costas***, isto é, o livre-arbítrio, que conduz ao bem e ao mal; quer dizer, permiti que se encurve, passando das coisas eternas às temporais, da retidão da justiça à iniquidade. Isaías 51:23: *Curva-te para que passemos*.
+**877.** Em segundo lugar, apresenta a própria deficiência quanto à potência cognoscitiva, quando diz: ***Obscureçam-se seus olhos para que não vejam***, o que se diz mais como predição do que como desejo. Efésios 4:18: *Tendo o intelecto obscurecido pelas trevas*. E, quanto ao efeito, diz: ***E encurvai sempre suas costas***, isto é, o livre-arbítrio, que conduz ao bem e ao mal; quer dizer, permiti que se encurve, passando das coisas eternas às temporais, da retidão da justiça à iniquidade. Isaías 51:23: *Curva-te para que passemos*.
 
 Lição 2
 
@@ -146,7 +146,7 @@ segundo, resolve-a, onde diz: ***De modo algum***, etc.
 
 **879.** Diz, pois, primeiro: foi dito e provado que os demais judeus, excetuados os eleitos, foram cegados. Diz, portanto, levantando a questão: ***Acaso tropeçaram para cair?***
 
-Isso pode ser entendido de duas maneiras. De uma maneira, assim: acaso Deus permitiu que tropeçassem somente ***para cair***, isto é, sem nenhum outro proveito daí decorrente, mas querendo apenas que caíssem? Isso seria contrário à bondade divina, que é tão grande, como diz Santo Agostinho no *Enchiridion*, que jamais permitiria que algum mal acontecesse, senão em vista do bem que dele tira. Por isso, também se diz em Jó 34:24: *Esmagará muitos, inumeráveis, e fará outros permanecerem em seu lugar*. E em Apocalipse 3:11 se diz: *Conserva o que tens, para que outro não receba tua coroa*, pois Deus permite que alguns caiam de tal modo que a queda de uns seja ocasião de salvação para outros.
+Isso pode ser entendido de duas maneiras. De uma maneira, assim: acaso Deus permitiu que tropeçassem somente ***para cair***, isto é, sem nenhum outro proveito daí decorrente, mas querendo apenas que caíssem? Isso seria contrário à bondade divina, que é tão grande, como diz Santo Agostinho no *Enquirídio*, que jamais permitiria que algum mal acontecesse, senão em vista do bem que dele tira. Por isso, também se diz em Jó 34:24: *Esmagará muitos, inumeráveis, e fará outros permanecerem em seu lugar*. E em Apocalipse 3:11 se diz: *Conserva o que tens, para que outro não receba tua coroa*, pois Deus permite que alguns caiam de tal modo que a queda de uns seja ocasião de salvação para outros.
 
 De outra maneira, pode ser entendido assim: ***Acaso tropeçaram para cair?***, isto é, para permanecerem caídos para sempre? Salmo 40:9: *Acaso aquele que dorme não voltará a levantar-se?*
 
@@ -488,7 +488,7 @@ Essa plenitude é considerada em três aspectos. De uma maneira, na multidão da
 
 **936.** Terceiro, admira a excelência divina quanto à perfeição, quando diz: ***Da sabedoria e da ciência de Deus***. Com efeito, ele tem sabedoria acerca das coisas divinas — Jó 12:16: *Nele estão a força e a sabedoria* — e ciência acerca das coisas criadas — Baruc 3:32: *Aquele que sabe todas as coisas a conhece*.
 
-**937.** Em seguida, quando diz: ***Quão incompreensíveis***, etc., mostra a excelência da sabedoria divina em comparação com nosso entendimento.
+**937.** Em seguida, quando diz: ***Quão incompreensíveis***, etc., mostra a excelência da sabedoria divina em comparação com nosso intelecto.
 
 Primeiro, quanto à sabedoria, à qual pertence julgar e ordenar. Por isso diz: ***Quão incompreensíveis são seus juízos***, pois o homem não pode compreender a razão dos juízos divinos, porque estão ocultos na sabedoria de Deus. Salmo 35:7: *Vossos juízos são um imenso abismo*. Jó 11:7: *Acaso compreenderás os vestígios de Deus e conhecerás perfeitamente o Onipotente?*
 
@@ -498,7 +498,7 @@ Segundo, quanto à ciência, pela qual opera nas coisas. Por isso acrescenta: **
 
 Nessas palavras e nas seguintes, o Apóstolo faz três coisas.
 
-**939.** Primeiro, mostra a excelência da sabedoria divina em comparação com nosso entendimento, dizendo: foi dito que ***seus juízos são incompreensíveis e seus caminhos insondáveis, pois quem conheceu o pensamento do Senhor***, pelo qual ele julga e procede ao operar? Como se dissesse: ninguém, a não ser que ele o revele. Sabedoria 9: *Quem poderá conhecer vosso pensamento, se não derdes a sabedoria e enviardes das alturas vosso Espírito Santo?* E 1 Coríntios 2:11: *Ninguém conhece as coisas de Deus, senão o Espírito de Deus; a nós, porém, Deus as revelou por seu Espírito*.
+**939.** Primeiro, mostra a excelência da sabedoria divina em comparação com nosso intelecto, dizendo: foi dito que ***seus juízos são incompreensíveis e seus caminhos insondáveis, pois quem conheceu o pensamento do Senhor***, pelo qual ele julga e procede ao operar? Como se dissesse: ninguém, a não ser que ele o revele. Sabedoria 9: *Quem poderá conhecer vosso pensamento, se não derdes a sabedoria e enviardes das alturas vosso Espírito Santo?* E 1 Coríntios 2:11: *Ninguém conhece as coisas de Deus, senão o Espírito de Deus; a nós, porém, Deus as revelou por seu Espírito*.
 
 **940.** Segundo, mostra a excelência da sabedoria divina segundo a altura que tem em si mesma, a qual é a altura própria do princípio supremo. A isso pertencem duas coisas:
 
@@ -528,7 +528,7 @@ A preposição *ex* denota o princípio do movimento; e isso de três maneiras: 
 
 Dizemos, com efeito, que a faca é feita *a partir do* artesão, do ferro e *do* que não tem forma. Ora, a totalidade das criaturas não foi feita de uma matéria preexistente, porque a própria matéria também é efeito de Deus. Nesse sentido, não se diz que todas as coisas criadas provêm de algo, mas, como de um oposto, diz-se que provêm do nada, pois nada eram antes de serem criadas para existir. Sabedoria 2:2: *Nascemos do nada*. Todas as coisas, porém, provêm de Deus como do primeiro agente. 1 Coríntios 11:12: *Todas as coisas, porém, provêm de Deus*.
 
-**944.** Deve-se notar, contudo, que a preposição *de* parece designar as mesmas relações, acrescentando, porém, que sempre designa uma causa consubstancial. Dizemos, com efeito, que a faca é *de* ferro, mas não *de* artesão. Portanto, como o Filho procede do Pai como consubstancial a ele, dizemos que o Filho é *de* Pai. As criaturas, porém, não procedem de Deus como consubstanciais a ele; por isso, não se diz que são *de* Deus, mas somente que provêm dele.[^37]
+**944.** Deve-se notar, contudo, que a preposição *de* parece designar as mesmas relações, acrescentando, porém, que sempre designa uma causa consubstancial. Dizemos, com efeito, que a faca é *de* ferro, mas não *de* artífice. Portanto, como o Filho procede do Pai como consubstancial a ele, dizemos que o Filho é *de* Pai. As criaturas, porém, não procedem de Deus como consubstanciais a ele; por isso, não se diz que são *de* Deus, mas somente que provêm dele.[^37]
 
 [^37]: *Nota do tradutor:* O argumento distingue as preposições latinas *ex* e *de*, que em português podem corresponder ambas a “de”. Aqui, “de Pai” e “de Deus” reproduzem o emprego latino de *de*, associado à consubstancialidade; “provêm dele” corresponde a *ex ipso*. As outras duas preposições examinadas são *per*, “por”, e *in*, “em”.
 

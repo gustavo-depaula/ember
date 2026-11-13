@@ -149,7 +149,7 @@ Destino: pt-BR.
 | verbum breviatum | palavra abreviada / Verbo abreviado | A segunda forma corresponde à interpretação cristológica do n. 805. |
 | fides formata | fé formada | Fé informada pela caridade; esclarecida na nota [^33]. |
 | confessio | confissão | Conservado nos três sentidos distinguidos no n. 832: penitência, ação de graças e profissão da fé. |
-| aemulatio | zelo / ciúme | “Zelo” em Romanos 10:2; “ciúme” em Romanos 10:19, onde se explica sua relação com a inveja. |
+| aemulatio | zelo / ciúme | “Zelo” em Romanos 10:2; “ciúme” em Romanos 10:19, onde se explica sua relação com a inveja. “Inveja” em Romanos 13:13, no sentido de rivalidade viciosa. |
 | auditus | ouvir / o que se ouve | Em “nosso ouvir”, a tradução “o que ouvimos” mantém o vínculo verbal com o comentário do n. 843. |
 | Infernum / Inferi | morada dos mortos | Nas passagens sobre a descida de Cristo e seu retorno dentre os mortos. |
 | Chrysostomus / Hesychius | São João Crisóstomo / Hesíquio | Autores mencionados na discussão sobre a extensão da pregação apostólica. |
@@ -170,7 +170,7 @@ Destino: pt-BR.
 | secundum rationem fidei | segundo a regra da fé | Na exposição do uso da profecia, nos nn. 977–979. |
 | benevolentia / concordia / beneficentia | benevolência / concórdia / beneficência | Distinção que organiza a exposição da caridade para com os inimigos. |
 | malum culpae / malum poenae | mal da culpa / mal da pena | Conservada a distinção na discussão da punição e da vingança. |
-| servitus latriae | serviço de latria | Serviço de adoração devido somente a Deus, no n. 989. |
+| servitus latriae | serviço de latria | Serviço de adoração devido somente a Deus, nos nn. 142 e 989. |
 | potestas / potestates sublimiores | poder / poderes superiores | Conservada a ligação entre o poder humano, sua origem e sua ordenação divina. |
 | tributum / vectigal | tributo / imposto | Distinção explicada pelo autor no n. 1043; *procurationes* vertido como despesas de hospedagem. |
 | honestas / honeste | retidão; dignidade da conduta / dignamente | Conforme o contexto moral ou a imagem da conduta pública à luz do dia. |
@@ -233,10 +233,10 @@ Destino: pt-BR.
 - Preservados os 250 parágrafos-fonte desta chamada; as quatro notas do tradutor constituem parágrafos adicionais.
 - Mantidas as referências do latim, inclusive Romanos 10:10 no n. 101, Ezequiel 18:28 no n. 111, Efésios 5:15 no n. 147, 1 João 3:5 no n. 160 e Eclesiástico 18:15 no n. 162, sem substituição pelos localizadores ingleses.
 - Preservadas as leituras recebidas *ex invisibilibus invisibilia* em Hebreus 11:3 (“de coisas invisíveis [...] coisas invisíveis”) e *in iustorum praevaricationem* em Sabedoria 14:31 (“a transgressão dos justos”), sem emenda silenciosa.
-- No n. 102, *fides* referido a Deus recebe “fidelidade” na explicação, conservando-se “da fé para a fé” no lema.
+- No n. 102, *fides* referido a Deus recebe “fidelidade” na explicação, conservando-se “a partir da fé para a fé” no lema.
 - Nota do tradutor [^4], no parágrafo-fonte 368: explica as duas leituras de *a creatura mundi*, necessárias às interpretações dos nn. 120–121.
 - Notas do tradutor [^5], [^6] e [^7], nos parágrafos-fonte 491, 496 e 503: esclarecem os jogos de palavras *nequitia/nequit*, *malignitas/malus ignis* e *superbi/super se euntes*.
-- Conservadas as leituras latinas “intelecto eterno” no n. 122, “prostíbulos” no n. 151, “sujeitos à justiça” no n. 152 e “disposição natural” no n. 166, sem ajustá-las à versão inglesa.
+- Conservadas as leituras latinas “intelecto eterno” no n. 122, “prostíbulos” no n. 151, “sujeitos à justiça” no n. 152 e “afeto natural” no n. 166, sem ajustá-las à versão inglesa.
 - Preservados os 277 parágrafos-fonte desta chamada; as três notas do tradutor constituem parágrafos adicionais.
 - Mantidas as referências do latim, inclusive Jó 29:6, Efésios 2:3, João 8:45, 2 Tessalonicenses 2:11, 1 Pedro 3, 1 Coríntios 3:3 e Salmo 33:12, sem substituição pelos localizadores da tradução inglesa.
 - Convertida a nomenclatura bíblica tradicional: *I Regum* → “1 Samuel” e *I Esdrae* → “Esdras”; conservada, inclusive, a referência recebida a 1 Samuel 17 no n. 225.
@@ -374,7 +374,7 @@ Destino: pt-BR.
 - Normalizadas apenas as formas evidentemente mecânicas *tribulatum* para o sentido de “tributo” e *cubilibusvestris* para “vossos leitos”, sem alteração do conteúdo.
 - Preservados os 199 parágrafos-fonte de `rom-c15.md [1–199]`; as duas definições de notas do tradutor são parágrafos adicionais.
 - Mantidas as referências do latim sem harmonização com o inglês, inclusive Eclesiástico 29:12, Salmo 144:2, Habacuc 2:4, Malaquias 2:10, Mateus 25:21, Isaías 56:14, Romanos 5:6 e Eclesiástico 1:34 e seguinte; conservadas as remissões ao “último capítulo”.
-- No parágrafo-fonte 48, o isolado *caritatem* foi traduzido como “autoridade”, em consonância com *auctoritate iudicantis* imediatamente anterior e com o argumento dos nn. 1090–1092; trata-se de correção contextual da leitura fornecida.
+- No parágrafo-fonte 48, conservado *caritatem* como “caridade”, conforme o latim fornecido, sem emendá-lo para “autoridade”, apesar de *auctoritate iudicantis* imediatamente anterior; requer atenção editorial.
 - As abreviações *t.* e *T.* após Levítico 11 e Gênesis 3 foram entendidas como remissões ao capítulo inteiro.
 - No n. 1098, preservada a formulação recebida da citação do *Decreto*, distinção 30, inclusive *propter publicam poenitentiam*, sem emendá-la a partir de outra edição.
 - Em Romanos 14:14, conservado “por si mesmo”; no n. 1117, mantida também a interpretação de *per ipsum* como “por ele”, explicitamente desenvolvida pelo autor em referência a Cristo.
@@ -552,3 +552,126 @@ Verdict: 1 meaning-level, 1 minor. Full read of rom-c13 to rom-c17 with journal 
 
 ### Part 4 of 4, Round 4 (codex, delta read)
 Verdict: 0 meaning-level, 0 minor. Verificadas as duas alterações, os parágrafos 83–85 de rom-c14.md e as notas 42–43: correções adequadas, sem novos defeitos. Os alertas mecânicos já foram rejeitados nas rodadas anteriores.
+
+### Part terms 1 of 2, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 57 minor. 253 sinalizações lidas; 53 parágrafos com deriva, corrigidos em 58 alterações.
+- `pt-BR/rom-c02.md` [226]: “são conduzidos pelo Espírito de Deus” → “são movidos pelo Espírito de Deus” — *Spiritu Dei aguntur* → “são movidos pelo Espírito de Deus” (Key Terms).
+- `pt-BR/rom-c02.md` [276]: “da fé para a fé” → “a partir da fé para a fé” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c02.md` [276]: “vive da fé” → “vive a partir da fé” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c02.md` [299]: “um ramo de oliveira brava” → “um ramo de oliveira silvestre” — *oleaster* → “oliveira silvestre” (Key Terms); estava “oliveira brava”.
+- `pt-BR/rom-c02.md` [300]: “da fé para a fé” → “a partir da fé para a fé” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c02.md` [302]: “e isso ***da fé***” → “e isso ***a partir da fé***” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c02.md` [303]: “***da fé para a fé***” → “***a partir da fé para a fé***” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c02.md` [303]: “passando da fé do Antigo Testamento à fé do Novo Testamento” → “a partir da fé do Antigo Testamento, avançando para a fé do Novo Testamento” — *ex fide Veteris Testamenti* → “a partir da fé do Antigo Testamento” (Key Terms), preservando a progressão indicada por *procedendo*.
+- `pt-BR/rom-c02.md` [304]: “***da fé*** dos pregadores” → “***a partir da fé*** dos pregadores” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c02.md` [305]: “***da fé*** em um artigo” → “***a partir da fé*** em um artigo” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c02.md` [306]: “***da fé*** presente” → “***a partir da fé*** presente” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c02.md` [307]: “vive da fé” → “vive a partir da fé” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c02.md` [307]: “vive de sua fé” → “vive a partir de sua fé” — *ex fide sua* → “a partir de sua fé” (Key Terms), conservando o possessivo.
+- `pt-BR/rom-c02.md` [308]: “***vive da fé***” → “***vive a partir da fé***” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c02.md` [315]: “***vive da fé***” → “***vive a partir da fé***” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c02.md` [318]: “***justificados, portanto, pela fé***” → “***justificados, portanto, a partir da fé***” — *ex fide* → “a partir da fé”, distinto de *per fidem* → “pela fé” (Key Terms).
+- `pt-BR/rom-c02.md` [422]: “ao apetite sensível” → “ao apetite sensitivo” — *appetitus sensitivus* → “apetite sensitivo” (Key Terms).
+- `pt-BR/rom-c02.md` [434]: “deve-lhe o serviço de latria” → “deve-lhe a servidão de latria” — *servitus* → “servidão” (Key Terms); o original emprega *servitus*, não *servitium*.
+- `pt-BR/rom-c02.md` [468]: “***o salário do pecado é a morte***” → “***os estipêndios do pecado são a morte***” — *stipendia* → “estipêndios” (Key Terms), com concordância no plural.
+- `pt-BR/rom-c02.md` [512]: “Primeiro, sua disposição natural” → “Primeiro, seu afeto natural” — *affectus* → “afeto” (Key Terms); estava “disposição”.
+- `pt-BR/rom-c02.md` [513]: “***o salário do pecado é a morte***” → “***os estipêndios do pecado são a morte***” — *stipendia* → “estipêndios” (Key Terms), com concordância no plural.
+- `pt-BR/rom-c03.md` [159]: “***Justificados, portanto, pela fé***” → “***Justificados, portanto, a partir da fé***” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c03.md` [174]: “de certa prudência e inteligência” → “de certa prudência e intelecto” — *intellectus* → “intelecto” (Key Terms); aqui designa o princípio cognoscitivo de que procede a lei.
+- `pt-BR/rom-c04.md` [191]: “vive da fé de Jesus Cristo” → “vive a partir da fé de Jesus Cristo” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c04.md` [224]: “é escravo do pecado” → “é servo do pecado” — *servus* → “servo” (Key Terms).
+- `pt-BR/rom-c04.md` [224]: “resgatado dessa escravidão” → “resgatado dessa servidão” — *servitus* → “servidão” (Key Terms).
+- `pt-BR/rom-c04.md` [241]: “vive da fé de Jesus Cristo” → “vive a partir da fé de Jesus Cristo” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c05.md` [48]: “são conduzidos pelo Espírito de Deus” → “são movidos pelo Espírito de Deus” — *Spiritu Dei aguntur* → “são movidos pelo Espírito de Deus” (Key Terms).
+- `pt-BR/rom-c05.md` [53]: “enquanto vem da fé” → “enquanto se origina a partir da fé” — *ex fide* → “a partir da fé” (Key Terms), ajustando a construção verbal.
+- `pt-BR/rom-c05.md` [163]: “mas, se vem da fé” → “mas, se se origina a partir da fé” — *ex fide* → “a partir da fé” (Key Terms), ajustando a construção verbal.
+- `pt-BR/rom-c05.md` [169]: “a que vem da fé” → “a que se origina a partir da fé” — *ex fide* → “a partir da fé” (Key Terms), ajustando a construção verbal.
+- `pt-BR/rom-c06.md` [5]: “Justificados, pois, pela fé” → “Justificados, pois, a partir da fé” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c06.md` [20]: “***Justificados, pois, pela fé***” → “***Justificados, pois, a partir da fé***” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c07.md` [32]: “as marcas de Jesus” → “os estigmas de Jesus” — *stigmata* → “estigmas” (Key Terms).
+- `pt-BR/rom-c08.md` [102]: “ocasião de tropeço ou de escândalo” → “obstáculo ou escândalo” — *offendiculum* → “obstáculo” (Key Terms), preservando a distinção de *scandalum*.
+- `pt-BR/rom-c09.md` [59]: “a justiça que vem da fé” → “a justiça que se origina a partir da fé” — *ex fide* → “a partir da fé” (Key Terms), ajustando a construção verbal.
+- `pt-BR/rom-c09.md` [128]: “***O justo vive da fé***” → “***O justo vive a partir da fé***” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c09.md` [277]: “por nascer a esperança, de certo modo, da fé” → “por nascer a esperança, de certo modo, a partir da fé” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c09.md` [347]: “certa ordenação prévia, na mente” → “certa pré-ordenação, na mente” — *praeordinatio* → “pré-ordenação” (Key Terms).
+- `pt-BR/rom-c10.md` [181]: “a um entendimento reprovado” → “a um senso reprovado” — *sensus reprobus* → “senso reprovado” (Key Terms); designa o juízo interior sobre o agir, não o entendimento. *(meaning)*
+- `pt-BR/rom-c10.md` [249]: “a justiça que vem da fé” → “a justiça que se origina a partir da fé” — *ex fide* → “a partir da fé” (Key Terms), ajustando a construção verbal.
+- `pt-BR/rom-c10.md` [251]: “Porque não pela fé” → “Porque não a partir da fé” — *ex fide* → “a partir da fé”, distinto de *per fidem* → “pela fé” (Key Terms).
+- `pt-BR/rom-c10.md` [269]: “são conduzidos pelo Espírito de Deus” → “são movidos pelo Espírito de Deus” — *Spiritu Dei aguntur* → “são movidos pelo Espírito de Deus” (Key Terms).
+- `pt-BR/rom-c10.md` [293]: “A justiça, porém, que vem da fé” → “A justiça, porém, que se origina a partir da fé” — *ex fide* → “a partir da fé” (Key Terms), ajustando a construção verbal.
+- `pt-BR/rom-c10.md` [299]: “***Porque não pela fé***” → “***Porque não a partir da fé***” — *ex fide* → “a partir da fé”, distinto de *per fidem* → “pela fé” (Key Terms).
+- `pt-BR/rom-c11.md` [10]: “a justiça que vem da fé” → “a justiça que se origina a partir da fé” — *ex fide* → “a partir da fé” (Key Terms), ajustando a construção verbal.
+- `pt-BR/rom-c11.md` [23]: “um sentimento de compaixão” → “um afeto de compaixão” — *affectus* → “afeto” (Key Terms).
+- `pt-BR/rom-c11.md` [27]: “pela graça, mediante a fé” → “pela graça, pela fé” — *per fidem* → “pela fé” (Key Terms); estava “mediante a fé”.
+- `pt-BR/rom-c11.md` [42]: “para que sejamos justificados pela fé” → “para que sejamos justificados a partir da fé” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c11.md` [45]: “Mas a que vem da fé” → “Mas a que se origina a partir da fé” — *ex fide* → “a partir da fé” (Key Terms), ajustando a construção verbal.
+- `pt-BR/rom-c11.md` [48]: “***A Lei, porém, entrou***” → “***A Lei, porém, sobreveio***” — *subintrare* → “sobrevir” (Key Terms); aqui não é uma das paráfrases explicativas autorizadas nas notas.
+- `pt-BR/rom-c11.md` [50]: “Mas a justiça que vem da fé” → “Mas a justiça que se origina a partir da fé” — *ex fide* → “a partir da fé” (Key Terms), ajustando a construção verbal.
+- `pt-BR/rom-c11.md` [53]: “fala assim da justiça que vem da fé” → “fala assim da justiça que se origina a partir da fé” — *ex fide* → “a partir da fé” (Key Terms), ajustando a construção verbal.
+- `pt-BR/rom-c11.md` [53]: “***Mas a justiça que vem da fé diz assim***” → “***Mas a justiça que se origina a partir da fé diz assim***” — *ex fide* → “a partir da fé” (Key Terms), ajustando a construção verbal.
+- `pt-BR/rom-c11.md` [89]: “***Justificados, portanto, pela fé***” → “***Justificados, portanto, a partir da fé***” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c11.md` [101]: “à salvação que vem da fé” → “à salvação que se origina a partir da fé” — *ex fide* → “a partir da fé” (Key Terms), ajustando a construção verbal.
+- `pt-BR/rom-c11.md` [109]: “procede da fé do coração” → “procede a partir da fé do coração” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c11.md` [112]: “uma graça dada gratuitamente” → “uma graça grátis dada” — *gratia gratis data* → “graça grátis dada” (Key Terms).
+
+### Part terms 1 of 2, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 4 minor. Delta read das 58 alterações de rom-c01 a rom-c17: a mudança para “servidão de latria” contraria a linha *servitus latriae* da tabela e foi revertida; corrigidas no diário duas afirmações tornadas falsas (n. 102 e n. 166) e a localização da linha *servitus latriae*; as demais alterações estão corretas.
+- `pt-BR/rom-c02.md` [434]: “deve-lhe a servidão de latria” → “deve-lhe o serviço de latria” — A tabela de termos tem uma linha específica: *servitus latriae* → “serviço de latria”. Ela prevalece sobre a linha geral *servus / servitus*. A alteração anterior contraria essa linha e deve ser revertida.
+- `pt-BR/translation-journal.md`: “| servitus latriae | serviço de latria | Serviço de adoração devido somente a Deus, no n. 989. |” → “| servitus latriae | serviço de latria | Serviço de adoração devido somente a Deus, nos nn. 142 e 989. |” — A linha cita só o n. 989, mas a expressão também ocorre no n. 142 (rom-c02.md [434]).
+- `pt-BR/translation-journal.md`: ““sujeitos à justiça” no n. 152 e “disposição natural” no n. 166” → ““sujeitos à justiça” no n. 152 e “afeto natural” no n. 166” — No n. 166 (rom-c02.md [512]) o texto agora diz “seu afeto natural”. O diário ainda registra “disposição natural”.
+- `pt-BR/translation-journal.md`: “conservando-se “da fé para a fé” no lema” → “conservando-se “a partir da fé para a fé” no lema” — O lema do n. 102 (rom-c02.md [300]) agora diz “a partir da fé para a fé”. O diário ainda registra a forma antiga.
+- Rejected: pt-BR/rom-c05.md [53], rom-c11.md [109] e outros — As formas “se origina a partir da fé” e “procede a partir da fé” são redundantes. — A redundância é uma questão de estilo. A gramática está correta e o sentido corresponde a *ex fide*.
+- Rejected: pt-BR/rom-c04.md [191], [241] — O verbo “vive” não tem correspondente em *qui est ex fide Iesu Christi*. — A forma é anterior a esta rodada e é uma escolha interpretativa defensável. A alteração apenas trocou “da fé” por “a partir da fé”, sem mudar a frase.
+- Rejected: pt-BR/rom-c02.md [513] — O latim tem *mors est*, no singular, e a tradução usa “são”. — O sujeito é *stipendia*, plural, e “estipêndios” é plural. A concordância portuguesa exige “são”.
+
+### Part terms 1 of 2, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as quatro alterações, os três parágrafos apresentados e as seis notas do tradutor: nenhum defeito encontrado. Os locais sinalizados pela auditoria mecânica não foram fornecidos nesta rodada.
+- Rejected: pt-BR/rom-c02.md [434] — “Serviço de latria” diverge da equivalência geral servitus → servidão. — A linha específica servitus latriae → serviço de latria prevalece e corresponde ao sentido do original.
+
+### Part terms 2 of 2, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 33 minor. 125 parágrafos sinalizados lidos; 27 com deriva; 1 linha do glossário ampliada.
+- `pt-BR/rom-c11.md` [149]: “certeza da preordenação divina” → “certeza da pré-ordenação divina” — *praeordinatio* → “pré-ordenação” (Key Terms).
+- `pt-BR/rom-c11.md` [160]: “tendo o entendimento obscurecido” → “tendo o intelecto obscurecido” — *intellectus* → “intelecto” (Key Terms); designa a faculdade cognoscitiva.
+- `pt-BR/rom-c12.md` [58]: “Tendo o entendimento obscurecido” → “Tendo o intelecto obscurecido” — *intellectus* → “intelecto” (Key Terms).
+- `pt-BR/rom-c12.md` [75]: “no *Enchiridion*” → “no *Enquirídio*” — *Enchiridion* → “Enquirídio” (Key Terms).
+- `pt-BR/rom-c12.md` [244]: “com nosso entendimento” → “com nosso intelecto” — *intellectus* → “intelecto” (Key Terms); designa a faculdade cognoscitiva.
+- `pt-BR/rom-c12.md` [249]: “com nosso entendimento” → “com nosso intelecto” — *intellectus* → “intelecto” (Key Terms).
+- `pt-BR/rom-c12.md` [264]: “mas não *de* artesão” → “mas não *de* artífice” — *artifex* → “artífice” (Key Terms).
+- `pt-BR/rom-c13.md` [63]: “permanecem na condição antiga” → “permanecem na velhice” — *vetustas* → “velhice” (Key Terms); preserva a oposição à novidade.
+- `pt-BR/rom-c13.md` [113]: “a capacidade e a disposição para ser misericordioso” → “a capacidade e o afeto para exercer a misericórdia” — *affectus* → “afeto” (Key Terms); distingue a dimensão afetiva da capacidade.
+- `pt-BR/rom-c13.md` [135]: “com o serviço de latria” → “com a servidão de latria” — *servitus* → “servidão” (Key Terms).
+- `pt-BR/rom-c13.md` [137]: “quanto à recompensa do serviço” → “quanto à recompensa da servidão” — *servitus* → “servidão” (Key Terms).
+- `pt-BR/rom-c13.md` [201]: “para compensar a maldade” → “para compensar a malícia” — *malitia* → “malícia” (Key Terms); aqui designa o mal moral da culpa.
+- `pt-BR/rom-c13.md` [205]: “a maldade dos outros” → “a malícia dos outros” — *malitia* → “malícia” (Key Terms); sentido moral.
+- `pt-BR/rom-c13.md` [205]: “sem consentir em sua maldade” → “sem consentir em sua malícia” — *malitia* → “malícia” (Key Terms); sentido moral.
+- `pt-BR/rom-c13.md` [211]: “a fim de reprimir a maldade” → “a fim de reprimir a malícia” — *malitia* → “malícia” (Key Terms); sentido moral.
+- `pt-BR/rom-c14.md` [80]: “como remuneração de seu ministério” → “como estipêndios de seu ministério” — *stipendia* → “estipêndios” (Key Terms).
+- `pt-BR/rom-c14.md` [84]: “como remuneração de seu trabalho” → “como estipêndio de seu trabalho” — *stipendium* → “estipêndio” (Key Terms).
+- `pt-BR/rom-c14.md` [190]: “que não têm entendimento” → “que não têm intelecto” — *intellectus* → “intelecto” (Key Terms); trata da faculdade ausente nos animais irracionais.
+- `pt-BR/rom-c15.md` [48]: “essa autoridade compete a Deus” → “essa caridade compete a Deus” — O SRC traz *hanc caritatem*, “essa caridade”, não autoridade. *(meaning)*
+- `pt-BR/rom-c15.md` [83]: “vive da fé” → “vive a partir da fé” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c15.md` [159]: “pelo entendimento e pelo afeto interiores” → “pelo intelecto e pelo afeto interiores” — *intellectus* → “intelecto” (Key Terms); aparece expressamente contraposto a *affectus*.
+- `pt-BR/rom-c15.md` [173]: “porque não procede da fé” → “porque não se faz a partir da fé” — *ex fide* → “a partir da fé” (Key Terms); conserva a referência ao ato de comer.
+- `pt-BR/rom-c15.md` [173]: “tudo o que não procede da fé” → “tudo o que não se faz a partir da fé” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c15.md` [196]: “Porque não procede da fé” → “Porque não se faz a partir da fé” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c15.md` [198]: “isso não procede da fé” → “isso não se faz a partir da fé” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c15.md` [198]: “tudo o que não procede da fé” → “tudo o que não se faz a partir da fé” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c15.md` [199]: “Toda obra que não procede da fé” → “Toda obra que não se faz a partir da fé” — *ex fide* → “a partir da fé” (Key Terms).
+- `pt-BR/rom-c16.md` [75]: “repletos de todo conhecimento” → “repletos de toda ciência” — *scientia* → “ciência” (Key Terms).
+- `pt-BR/rom-c16.md` [95]: “requer-se o conhecimento da verdade” → “requer-se a ciência da verdade” — *scientia* → “ciência” (Key Terms).
+- `pt-BR/rom-c16.md` [95]: “mas não segundo o conhecimento” → “mas não segundo a ciência” — *scientia* → “ciência” (Key Terms).
+- `pt-BR/rom-c16.md` [95]: “***Repletos de todo conhecimento***, isto é, humano e divino” → “***Repletos de toda ciência***, isto é, humana e divina” — *scientia* → “ciência” (Key Terms), com ajuste da concordância.
+- `pt-BR/rom-c16.md` [95]: “em toda palavra e em todo conhecimento” → “em toda palavra e em toda ciência” — *scientia* → “ciência” (Key Terms).
+- `pt-BR/rom-c16.md` [96]: “por causa do amor e do conhecimento” → “por causa do amor e da ciência” — *scientia* → “ciência” (Key Terms).
+- `pt-BR/translation-journal.md`: “| aemulatio | zelo / ciúme | “Zelo” em Romanos 10:2; “ciúme” em Romanos 10:19, onde se explica sua relação com a inveja. |” → “| aemulatio | zelo / ciúme | “Zelo” em Romanos 10:2; “ciúme” em Romanos 10:19, onde se explica sua relação com a inveja. “Inveja” em Romanos 13:13, no sentido de rivalidade viciosa. |” — A tradução “inveja” em Romanos 13:13 é adequada ao sentido negativo de *aemulatio*; a linha não registrava esse uso.
+
+### Part terms 2 of 2, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta read: verifiquei as 34 alterações e os parágrafos vizinhos. Corrigi uma reversão contrária ao Key Terms (servitus latriae, c13 [135]) e uma decisão do diário que ficou falsa após a correção de c15 [48].
+- `pt-BR/rom-c13.md` [135]: “com a servidão de latria” → “com o serviço de latria” — A linha específica do Key Terms fixa *servitus latriae* → “serviço de latria” nos nn. 142 e 989; a regra geral servus/servitus não se aplica aqui.
+- `pt-BR/translation-journal.md`: “No parágrafo-fonte 48, o isolado *caritatem* foi traduzido como “autoridade”, em consonância com *auctoritate iudicantis* imediatamente anterior e com o argumento dos nn. 1090–1092; trata-se de correção contextual da leitura fornecida.” → “No parágrafo-fonte 48, conservado *caritatem* como “caridade”, conforme o latim fornecido, sem emendá-lo para “autoridade”, apesar de *auctoritate iudicantis* imediatamente anterior; requer atenção editorial.” — A tradução agora segue o latim (“essa caridade”); a decisão registrada descreve uma emenda que não existe mais.
+- Rejected: pt-BR/rom-c15.md [48] — “caridade” parece incoerente com “autoridade de quem julga” e pode ser um erro da edição — O SRC traz *caritatem*. Trocar por *auctoritatem* não é a correção de um erro de OCR inequívoco. A tradução segue a fonte.
+- Rejected: pt-BR/rom-c13.md [63] — “permanecem na velhice” pode ser lido como idade avançada — Segue a linha *vetustas* → “velhice” do Key Terms. O contraste com “novidade” no mesmo parágrafo deixa claro o sentido.
+- Rejected: pt-BR/rom-c13.md [137] — “recompensa da servidão” por *mercedem servitutis* — Segue a linha geral servus/servitus → servo/servidão. A linha específica cobre apenas *servitus latriae*.
+
+### Part terms 2 of 2, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as duas alterações, os três parágrafos exibidos e as notas do tradutor; nenhum defeito encontrado. Os locais sinalizados pela auditoria mecânica não foram exibidos nesta rodada.

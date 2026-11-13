@@ -16,7 +16,7 @@
 
 > ^10:5^ Pois Moisés escreveu que, quanto à justiça que vem da Lei, *o homem que a praticar viverá nela*. [n. 820]
 
-> ^10:6^ Mas a justiça que vem da fé diz assim: *Não digas* em teu coração: *Quem subirá ao céu?* Isto é, para fazer Cristo descer; [n. 823]
+> ^10:6^ Mas a justiça que se origina a partir da fé diz assim: *Não digas* em teu coração: *Quem subirá ao céu?* Isto é, para fazer Cristo descer; [n. 823]
 
 > ^10:7^ ou: *Quem descerá ao abismo?* Isto é, para trazer Cristo de volta dentre os mortos.
 
@@ -42,7 +42,7 @@ em segundo lugar, mostra que não é inteiramente desculpável, onde diz: ***Mas
 
 Quanto ao primeiro ponto, faz duas coisas.
 
-Primeiro, mostra que tem um sentimento de compaixão pelos judeus;
+Primeiro, mostra que tem um afeto de compaixão pelos judeus;
 
 em segundo lugar, mostra a causa dessa compaixão, onde diz: ***Pois dou testemunho a respeito deles***, etc.
 
@@ -50,7 +50,7 @@ em segundo lugar, mostra a causa dessa compaixão, onde diz: ***Pois dou testemu
 
 E não é apenas o desejo que se dirige à salvação deles, mas também o efeito desse desejo; por isso acrescenta: ***E a súplica***, a saber, a minha, ***é feita a Deus por eles, para sua salvação***. 1 Samuel 12:23: *Longe de mim este pecado contra o Senhor: deixar de orar por vós*. Tiago, último capítulo: *Orai uns pelos outros para que sejais salvos*.
 
-Disso fica claro que se deve orar pelos infiéis para que sejam salvos, porque também a própria fé é dom de Deus. Efésios 2:8: *Fostes salvos pela graça, mediante a fé, e isso não vem de vós, pois é dom de Deus*.
+Disso fica claro que se deve orar pelos infiéis para que sejam salvos, porque também a própria fé é dom de Deus. Efésios 2:8: *Fostes salvos pela graça, pela fé, e isso não vem de vós, pois é dom de Deus*.
 
 **815.** Em seguida, quando diz: ***Testemunho***, etc., apresenta a causa de sua compaixão, a saber, que pecavam não por malícia deliberada, mas por ignorância.
 
@@ -80,29 +80,29 @@ Por isso diz que essa justiça é deles, como que humana e não divina, segundo 
 
 A esse respeito, deve-se considerar que, como também dizem os filósofos, a intenção de todo legislador é tornar os homens justos; por isso, com muito mais razão, a Lei antiga, dada por Deus aos homens, se ordenava a torná-los justos.
 
-Contudo, a Lei não podia realizar essa justiça por si mesma, porque *a Lei não levou ninguém à perfeição*, como se diz em Hebreus 7:19, mas orienta os homens para Cristo, a quem prometia e prefigurava. Gálatas 3:24: *A Lei foi nosso pedagogo em Cristo, para que sejamos justificados pela fé*. E é isso que diz: ***Pois Cristo é o fim da Lei***, para o qual toda a Lei se ordena. Salmo 118:96: *Vi o fim de toda perfeição*. Fim, digo, ***para a justiça***, para que os homens alcancem por Cristo a justiça que a Lei pretendia. Acima, Romanos 8:3: ***O que era impossível à Lei, Deus, enviando seu Filho, condenou o pecado na carne, para que a justificação da Lei se cumprisse em nós***. E digo isso ***para todo aquele que crê***, porque justifica os seus pela fé. João 1:12: *Deu-lhes o poder de se tornarem filhos de Deus, àqueles que creem em seu nome*.
+Contudo, a Lei não podia realizar essa justiça por si mesma, porque *a Lei não levou ninguém à perfeição*, como se diz em Hebreus 7:19, mas orienta os homens para Cristo, a quem prometia e prefigurava. Gálatas 3:24: *A Lei foi nosso pedagogo em Cristo, para que sejamos justificados a partir da fé*. E é isso que diz: ***Pois Cristo é o fim da Lei***, para o qual toda a Lei se ordena. Salmo 118:96: *Vi o fim de toda perfeição*. Fim, digo, ***para a justiça***, para que os homens alcancem por Cristo a justiça que a Lei pretendia. Acima, Romanos 8:3: ***O que era impossível à Lei, Deus, enviando seu Filho, condenou o pecado na carne, para que a justificação da Lei se cumprisse em nós***. E digo isso ***para todo aquele que crê***, porque justifica os seus pela fé. João 1:12: *Deu-lhes o poder de se tornarem filhos de Deus, àqueles que creem em seu nome*.
 
 **820.** Em seguida, quando diz: ***Pois Moisés***, etc., prova a verdade daquilo que os judeus ignoravam, a saber, que a justiça de Deus é mais perfeita que a justiça da Lei, e isso pela autoridade do próprio Moisés, legislador da antiga Lei.
 
 Primeiro, portanto, mostra por suas palavras a condição da justiça da Lei;
 
-em segundo lugar, a condição da justiça da fé, onde diz: ***Mas a que vem da fé***, etc.
+em segundo lugar, a condição da justiça da fé, onde diz: ***Mas a que se origina a partir da fé***, etc.
 
 **821.** Diz, portanto, primeiro: distingui com razão a justiça humana da justiça de Deus, ***pois Moisés escreveu***, em Levítico 18:5, ***que o homem que praticar a justiça que vem da Lei viverá nela***. Nesse lugar, nosso texto traz: *Guardai minhas leis e meus juízos, que o homem, praticando-os, viverá neles*. E Ezequiel 20:13: *Rejeitaram meus juízos, que o homem, praticando-os, viverá neles*, porque o homem alcançava esta vantagem pela observância da Lei: não ser morto como transgressor da Lei. Hebreus 10:28: *Quem viola a Lei de Moisés morre sem nenhuma misericórdia*. Levítico 20:9: *Quem amaldiçoar o pai ou a mãe seja condenado à morte*, e assim quanto aos demais preceitos.
 
 **822.** Podemos dizer, além disso, que pela observância da Lei o homem é ordenado na vida presente: pois a Lei prometia bens temporais e prescrevia certas coisas que diziam respeito à ordenação da vida carnal. Hebreus 9:10: *Com prescrições da carne impostas até o tempo da correção*.
 
-Mas parece contrário a isso o que o Senhor diz em Mateus 19:16 e seguintes, quando, àquele que perguntava: *Que bem farei para ter a vida eterna?*, respondeu: *Se queres entrar na vida, guarda os mandamentos*. Por isso também, acima, a respeito de Romanos 5:20: ***A Lei, porém, entrou***, certa Glosa diz: *A justiça da Lei, observada em seu tempo, conferia não somente bens temporais, mas também a vida eterna*.
+Mas parece contrário a isso o que o Senhor diz em Mateus 19:16 e seguintes, quando, àquele que perguntava: *Que bem farei para ter a vida eterna?*, respondeu: *Se queres entrar na vida, guarda os mandamentos*. Por isso também, acima, a respeito de Romanos 5:20: ***A Lei, porém, sobreveio***, certa Glosa diz: *A justiça da Lei, observada em seu tempo, conferia não somente bens temporais, mas também a vida eterna*.
 
 Essas coisas, porém, devem ser entendidas segundo o sentido espiritual da Lei, que diz respeito à fé em Cristo. Mas o que se diz aqui se refere ao sentido interior da Lei, segundo o qual a Lei não fazia menção da vida eterna.
 
-**823.** Em seguida, quando diz: ***Mas a justiça que vem da fé***, etc., apresenta uma passagem de Moisés sobre a justiça da fé.
+**823.** Em seguida, quando diz: ***Mas a justiça que se origina a partir da fé***, etc., apresenta uma passagem de Moisés sobre a justiça da fé.
 
 E primeiro Moisés mostra a certeza da fé que deve existir no coração do homem;
 
 em segundo lugar, o efeito da fé, onde diz: ***Mas que diz a Escritura***, etc.
 
-**824.** Diz, portanto, primeiro: Moisés não fala somente da justiça da Lei, mas ele mesmo também fala assim da justiça que vem da fé. ***Mas a justiça que vem da fé diz assim***, isto é, assim fala no coração do homem: ***Não digas em teu coração***, a saber, duvidando: ***Quem subiu ao céu?***, como se considerasses isso impossível, assim como se pergunta em Provérbios 30:4: *Quem subiu ao céu e desceu?* Pois considerar isso impossível é ***fazer Cristo descer*** do céu, isto é, afirmar que Cristo não está no céu, contra o que se diz em João 3:13: *Ninguém subiu ao céu, senão aquele que desceu do céu, o Filho do homem que está no céu*. Efésios 4:9: *Aquele que desceu é o mesmo que também subiu acima de todos os céus*.
+**824.** Diz, portanto, primeiro: Moisés não fala somente da justiça da Lei, mas ele mesmo também fala assim da justiça que se origina a partir da fé. ***Mas a justiça que se origina a partir da fé diz assim***, isto é, assim fala no coração do homem: ***Não digas em teu coração***, a saber, duvidando: ***Quem subiu ao céu?***, como se considerasses isso impossível, assim como se pergunta em Provérbios 30:4: *Quem subiu ao céu e desceu?* Pois considerar isso impossível é ***fazer Cristo descer*** do céu, isto é, afirmar que Cristo não está no céu, contra o que se diz em João 3:13: *Ninguém subiu ao céu, senão aquele que desceu do céu, o Filho do homem que está no céu*. Efésios 4:9: *Aquele que desceu é o mesmo que também subiu acima de todos os céus*.
 
 Ou ainda, ***não digas***: ***Quem desceu ao abismo***, isto é, à morada dos mortos, como se considerasses isso impossível; pois negar isso ***é trazer Cristo de volta dentre os mortos***, a saber, negar que ele tenha morrido. Pois, ao morrer, ele desceu ao abismo. Eclesiástico 24:45: *Penetrarei as partes inferiores da terra*.
 
@@ -176,7 +176,7 @@ em segundo lugar, apresenta a ordem da salvação, onde diz: ***Como, então, in
 
 em terceiro lugar, tira uma conclusão do que foi dito, onde diz: ***Logo, a fé vem do ouvir***, etc.
 
-**831.** Quanto ao primeiro ponto, faz três coisas. Primeiro, apresenta o que pretende, dizendo: digo com razão que, se confessares com a boca e creres com o coração, serás salvo; ***pois com o coração se crê***, por parte do homem, ***para a justiça***, isto é, para que alcance a justiça pela fé. Acima, Romanos 5:1: ***Justificados, portanto, pela fé***.
+**831.** Quanto ao primeiro ponto, faz três coisas. Primeiro, apresenta o que pretende, dizendo: digo com razão que, se confessares com a boca e creres com o coração, serás salvo; ***pois com o coração se crê***, por parte do homem, ***para a justiça***, isto é, para que alcance a justiça pela fé. Acima, Romanos 5:1: ***Justificados, portanto, a partir da fé***.
 
 E diz expressamente: ***Com o coração se crê***, isto é, com a vontade. Pois o homem pode fazer sem querer as demais coisas que dizem respeito ao culto exterior de Deus, mas não pode crer senão querendo. Com efeito, o intelecto de quem crê não é determinado a assentir à verdade pela necessidade da razão, como o intelecto de quem sabe, mas pela vontade; por isso, saber não pertence à justiça do homem, que está na vontade, mas crer. Gênesis 15:6: *Abraão creu em Deus, e isso lhe foi imputado como justiça*.
 
@@ -202,7 +202,7 @@ Em segundo lugar, prova por um argumento que se apoia em duas razões, a primeir
 
 Em terceiro lugar, prova o mesmo pela autoridade de Joel 2:32: *Todo aquele que invocar o nome do Senhor será salvo*. Ora, invocar é chamar para dentro de si pelo afeto e pelo culto devoto. Salmo 90:15: *Ele me invocará, e eu o atenderei*.
 
-**835.** Em seguida, quando diz: ***Como, então, invocarão***, etc., apresenta a ordem pela qual alguém é chamado à salvação que vem da fé.
+**835.** Em seguida, quando diz: ***Como, então, invocarão***, etc., apresenta a ordem pela qual alguém é chamado à salvação que se origina a partir da fé.
 
 E, a esse respeito, faz duas coisas.
 
@@ -218,13 +218,13 @@ em segundo lugar, confirma pela autoridade o que havia pressuposto, onde diz: **
 
 **836.** Apresenta primeiro cinco coisas em ordem, começando pela invocação, à qual, segundo a autoridade do profeta, se segue a salvação.
 
-Diz, portanto: ***Como, então, invocarão aquele em quem não creram?*** Como se dissesse: sem dúvida, a invocação não pode produzir a salvação se a fé não a preceder. Ora, a invocação pertence à confissão da boca que procede da fé do coração. Salmo 115:10: *Cri, por isso falei*. 2 Coríntios 4:13: *Nós cremos, por isso também falamos*.
+Diz, portanto: ***Como, então, invocarão aquele em quem não creram?*** Como se dissesse: sem dúvida, a invocação não pode produzir a salvação se a fé não a preceder. Ora, a invocação pertence à confissão da boca que procede a partir da fé do coração. Salmo 115:10: *Cri, por isso falei*. 2 Coríntios 4:13: *Nós cremos, por isso também falamos*.
 
 **837.** Em segundo lugar, sobe ou passa da fé ao ouvir, dizendo: ***Ou como crerão naquele a quem não ouviram?*** Pois se diz que o homem crê naquilo que lhe é dito por outros e que ele próprio não vê. João 4:42: *Já não cremos por causa de tuas palavras; pois nós mesmos ouvimos e sabemos que este é verdadeiramente o Salvador do mundo*, etc.
 
 Há, porém, duas maneiras de ouvir: uma é interior, pela qual alguém ouve a Deus que revela — Salmo 84:8: *Ouvirei o que o Senhor Deus fala em mim* —; a outra é aquela pela qual alguém ouve um homem que fala exteriormente. Atos 10:44: *Enquanto Pedro ainda dizia essas palavras, o Espírito Santo desceu sobre todos os que ouviam a palavra*.
 
-A primeira maneira de ouvir não pertence a todos em comum, mas pertence propriamente à graça da profecia, que é uma graça dada gratuitamente a alguns em particular, mas não a todos, segundo aquilo de 1 Coríntios 12:4: *Há diversidade de graças*.
+A primeira maneira de ouvir não pertence a todos em comum, mas pertence propriamente à graça da profecia, que é uma graça grátis dada a alguns em particular, mas não a todos, segundo aquilo de 1 Coríntios 12:4: *Há diversidade de graças*.
 
 Mas, como agora fala daquilo que pode pertencer indistintamente a todos, segundo o que disse acima: ***Pois não há distinção***, segue-se que isso deve ser entendido da segunda maneira de ouvir. Por isso acrescenta: ***Como, então, ouvirão sem quem pregue?*** Pois o ouvir exterior é certa recepção por parte de quem ouve, que não pode existir sem a ação de quem fala. Por isso também o Senhor ordenou aos discípulos, no último capítulo de Mateus: *Ide por todo o mundo e pregai o Evangelho a toda criatura*.
 
@@ -298,7 +298,7 @@ Primeiro, apresenta a questão, dizendo: foi dito que a fé vem do ouvir e que o
 
 **847.** Em segundo lugar, responde à questão recorrendo à autoridade do Salmo 18:5, que diz: ***Por toda a terra saiu sua voz***, a saber, dos apóstolos, isto é, sua fama saiu por toda a terra, não somente dos judeus, mas também de todos os gentios. Jó 28:22: *A perdição e a morte disseram: Com nossos ouvidos ouvimos sua fama*, a saber, da sabedoria pregada pelos apóstolos. E o Senhor lhes havia ordenado no último capítulo de Mateus, 28:19: *Ide por todo o mundo e pregai o Evangelho a toda criatura*. ***E suas palavras***, a saber, seu ensinamento claramente expresso, saíram ***até os confins do mundo***. Literalmente: até os limites do mundo. Isaías 24:16: *Dos confins da terra ouvimos louvores, glória do justo*. E em 49:6: *Eu te dei como luz dos gentios, para que sejas minha salvação até a extremidade da terra*.
 
-**848.** Deve-se notar que, segundo Santo Agostinho, essas palavras ainda não se haviam cumprido quando o Apóstolo assim falava, mas ele previa que se cumpririam. Por isso emprega o passado pelo futuro, por causa da certeza da preordenação divina, assim como também Davi, cujas palavras o Apóstolo toma, empregava manifestamente o passado pelo futuro. E Santo Agostinho diz isso porque afirma que ainda em seu tempo havia alguns povos nas regiões da África aos quais a fé em Cristo não havia sido pregada.
+**848.** Deve-se notar que, segundo Santo Agostinho, essas palavras ainda não se haviam cumprido quando o Apóstolo assim falava, mas ele previa que se cumpririam. Por isso emprega o passado pelo futuro, por causa da certeza da pré-ordenação divina, assim como também Davi, cujas palavras o Apóstolo toma, empregava manifestamente o passado pelo futuro. E Santo Agostinho diz isso porque afirma que ainda em seu tempo havia alguns povos nas regiões da África aos quais a fé em Cristo não havia sido pregada.
 
 São João Crisóstomo, porém, em seu comentário a Mateus, diz, ao contrário, que o que se afirma aqui já se havia cumprido no tempo dos apóstolos, explicando assim o que se encontra em Mateus 24:14: *E é necessário que este Evangelho seja pregado em todo o mundo, e então virá a consumação*, isto é, a destruição de Jerusalém.
 
@@ -320,7 +320,7 @@ Em segundo lugar, quando diz: ***Primeiro, Moisés***, resolve a questão e most
 
 **851.** Aqui se deve observar uma dupla distinção.
 
-A primeira, da parte da gentilidade, à qual chama ***não nação***, como que indigna de ser chamada nação, porque não estava unida no culto do único Deus. Eclesiástico 50:27: *A segunda, que odeio, não é uma nação*. Chama essa mesma nação de nação insensata; e, embora de algum modo pudesse ser chamada nação, enquanto é unida e governada pela lei humana, é, contudo, chamada insensata, como que privada da verdadeira sabedoria, que consiste no conhecimento e no culto de Deus. Efésios 4:17 e seguinte: *Assim como também os gentios andam na vaidade de sua mente, tendo o entendimento obscurecido pelas trevas, alheios ao caminho de Deus*. E assim se refere à gentilidade segundo seu estado anterior à conversão.
+A primeira, da parte da gentilidade, à qual chama ***não nação***, como que indigna de ser chamada nação, porque não estava unida no culto do único Deus. Eclesiástico 50:27: *A segunda, que odeio, não é uma nação*. Chama essa mesma nação de nação insensata; e, embora de algum modo pudesse ser chamada nação, enquanto é unida e governada pela lei humana, é, contudo, chamada insensata, como que privada da verdadeira sabedoria, que consiste no conhecimento e no culto de Deus. Efésios 4:17 e seguinte: *Assim como também os gentios andam na vaidade de sua mente, tendo o intelecto obscurecido pelas trevas, alheios ao caminho de Deus*. E assim se refere à gentilidade segundo seu estado anterior à conversão.
 
 Essas duas coisas também podem ser atribuídas à gentilidade depois da conversão, a qual é chamada ***não nação***, isto é, que não vive à maneira dos gentios, como diz o Apóstolo no mesmo lugar: *Já não andeis como também andam os gentios*. A gentilidade convertida também é chamada nação insensata segundo a opinião dos infiéis. 1 Coríntios 3:18: *Se alguém entre vós parece ser sábio neste mundo, torne-se insensato para ser sábio*.
 

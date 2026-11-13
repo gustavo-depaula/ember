@@ -126,7 +126,7 @@ A esse respeito, deve-se considerar que, assim como o homem cujo paladar está a
 
 Por isso, disse: ***Não vos conformeis a este século, mas renovai-vos na novidade do vosso entendimento, para que possais discernir***, isto é, conhecer por experiência — Salmo 33:9: *Provai e vede como o Senhor é suave* —, ***qual é a vontade de Deus***, pela qual ele quer que sejais salvos — 1 Tessalonicenses 4:3: *Esta é a vontade de Deus: vossa santificação*. ***Boa***, isto é, ele quer que queiramos o bem honesto e a isso nos conduz por seus preceitos. Miqueias 6:8: *Eu te mostrarei, ó homem, o que é bom e o que Deus exige de ti*. ***E agradável***, enquanto, para aquele que está bem disposto, é deleitável o que Deus quer que queiramos. Salmo 18:9: *Os preceitos do Senhor são retos e alegram os corações*. E não apenas útil para alcançar o fim, mas também ***perfeita***, como que nos unindo ao fim. Mateus 5:48: *Sede perfeitos, como também vosso Pai celeste é perfeito*. Gênesis 17:1: *Anda diante de mim e sê perfeito*.
 
-É assim, portanto, que experimentam a vontade de Deus aqueles que não se conformam a este século, mas são reformados na novidade de seu entendimento. Aqueles, porém, que permanecem na condição antiga, conformados ao século, julgam que a vontade de Deus não é boa, mas penosa e inútil. Eclesiástico 6:21: *Como a sabedoria é áspera para os homens sem instrução!*
+É assim, portanto, que experimentam a vontade de Deus aqueles que não se conformam a este século, mas são reformados na novidade de seu entendimento. Aqueles, porém, que permanecem na velhice, conformados ao século, julgam que a vontade de Deus não é boa, mas penosa e inútil. Eclesiástico 6:21: *Como a sabedoria é áspera para os homens sem instrução!*
 
 **968.** Depois, quando diz ***pois digo, pela graça***, etc., ensina como o homem deve usar os dons de Deus.
 
@@ -228,7 +228,7 @@ Quanto ao conhecimento prático, acrescenta: ***Aquele que exorta***, isto é, a
 
 Às vezes, porém, alguém auxilia outro cuidando dele. A esse respeito, diz: ***Aquele que preside***, isto é, aquele que foi constituído no ofício de prelado, exerça esse ofício ***com solicitude***. Hebreus, último capítulo: *Obedecei aos vossos superiores e submetei-vos a eles, pois velam como quem há de prestar contas de vossas almas*. 2 Coríntios 11:28: *A solicitude por todas as Igrejas*.
 
-Às vezes, porém, alguém auxilia outro aliviando sua miséria. A esse respeito, diz: ***Aquele que pratica a misericórdia***, isto é, aquele que tem a capacidade e a disposição para ser misericordioso, faça-o ***com alegria***, como quem o faz de boa vontade. 2 Coríntios 9:7: *Não por tristeza nem por necessidade, pois Deus ama quem dá com alegria*. Eclesiástico 35:11: *Em toda dádiva, mostra um rosto alegre*.
+Às vezes, porém, alguém auxilia outro aliviando sua miséria. A esse respeito, diz: ***Aquele que pratica a misericórdia***, isto é, aquele que tem a capacidade e o afeto para exercer a misericórdia, faça-o ***com alegria***, como quem o faz de boa vontade. 2 Coríntios 9:7: *Não por tristeza nem por necessidade, pois Deus ama quem dá com alegria*. Eclesiástico 35:11: *Em toda dádiva, mostra um rosto alegre*.
 
 **983.** Depois, quando diz ***o amor seja sem fingimento***, etc., ensina o uso do dom gratuito que é comum a todos, a saber, a caridade.
 
@@ -276,7 +276,7 @@ Ora, o fervor procede da abundância de calor; por isso, fala-se em fervor do es
 
 Ou, segundo outra versão: *Servindo ao tempo*, para que prestemos o serviço de Deus no tempo conveniente. Eclesiastes 8:6: *Para todo empreendimento há um tempo e uma oportunidade*.
 
-**990.** Quarto, quanto à recompensa do serviço, quando diz: ***Alegres na esperança***, isto é, da recompensa, que é a fruição de Deus. Gênesis 15:2: *Eu, o Senhor, sou tua recompensa imensamente grande*. Acima, em 5:2: ***Gloriamo-nos na esperança da glória dos filhos de Deus***. Ora, a esperança torna o homem alegre em razão da certeza, mas o aflige em razão da demora. Provérbios 13:12: *A esperança que se adia aflige a alma*.
+**990.** Quarto, quanto à recompensa da servidão, quando diz: ***Alegres na esperança***, isto é, da recompensa, que é a fruição de Deus. Gênesis 15:2: *Eu, o Senhor, sou tua recompensa imensamente grande*. Acima, em 5:2: ***Gloriamo-nos na esperança da glória dos filhos de Deus***. Ora, a esperança torna o homem alegre em razão da certeza, mas o aflige em razão da demora. Provérbios 13:12: *A esperança que se adia aflige a alma*.
 
 **991.** Quinto, quanto à dificuldade que o homem sofre no serviço de Deus. Por isso, acrescenta: Sede ***pacientes na tribulação***, isto é, naquela que suportais por causa de Deus. Acima, em 5:3: ***A tribulação produz a paciência***.
 
@@ -404,7 +404,7 @@ segundo, ensina que não se deve fazer mal a alguém por defesa, onde diz: ***N�
 
 **1008.** Quanto ao primeiro ponto, faz três coisas. Primeiro, proíbe a vingança, dizendo: Estai ***a ninguém retribuindo mal por mal***. Salmo 7:5: *Se retribuí aos que me faziam mal*. 1 Pedro 3:9: *Não retribuindo mal por mal*.
 
-Mas isso deve ser entendido formalmente, como foi dito acima a respeito da maldição: somos proibidos de retribuir mal por mal por um afeto de ódio ou inveja, de modo a nos deleitarmos com o mal do outro. Mas, se, pelo mal da culpa que alguém comete, o juiz retribui o mal da pena segundo a justiça, para compensar a maldade, ele de fato inflige materialmente um mal, mas, formalmente e por si, inflige um bem. Por isso, quando o juiz enforca um ladrão por homicídio, não retribui mal por mal, mas antes bem por mal. Foi desse modo que o Apóstolo, pelo pecado de incesto, entregou alguém *a Satanás para a destruição da carne, a fim de que o espírito fosse salvo*, como se lê em 1 Coríntios 5:5.
+Mas isso deve ser entendido formalmente, como foi dito acima a respeito da maldição: somos proibidos de retribuir mal por mal por um afeto de ódio ou inveja, de modo a nos deleitarmos com o mal do outro. Mas, se, pelo mal da culpa que alguém comete, o juiz retribui o mal da pena segundo a justiça, para compensar a malícia, ele de fato inflige materialmente um mal, mas, formalmente e por si, inflige um bem. Por isso, quando o juiz enforca um ladrão por homicídio, não retribui mal por mal, mas antes bem por mal. Foi desse modo que o Apóstolo, pelo pecado de incesto, entregou alguém *a Satanás para a destruição da carne, a fim de que o espírito fosse salvo*, como se lê em 1 Coríntios 5:5.
 
 **1009.** Segundo, ensina que também se deve fazer o bem ao próximo, dizendo: Estai ***cuidando do bem não apenas diante de Deus***, isto é, cuidai de satisfazer vossa consciência diante de Deus, ***mas também diante de todos os homens***, de modo que façais o que agrada aos homens. 1 Coríntios 10:32 e seguinte: *Não sejais motivo de tropeço para os judeus, nem para os gentios, nem para a Igreja de Deus, assim como eu também agrado a todos em tudo*. 2 Coríntios 8:21: *Cuidando do bem não apenas diante de Deus, mas também diante de todos os homens*.
 
@@ -412,7 +412,7 @@ Isso, contudo, pode ser feito bem ou mal. Pois, se for feito para obter o favor 
 
 **1010.** Terceiro, apresenta a razão de ambas as coisas ditas. Pois devemos abster-nos de retribuir os males e cuidar do bem diante dos homens para termos paz com eles. Por isso, acrescenta: ***Mantendo a paz com todos os homens***. Hebreus, último capítulo: *Buscai a paz com todos*.
 
-Mas acrescenta aqui duas coisas, a primeira das quais é o que diz: ***Se for possível***. Pois às vezes a maldade dos outros impede que possamos ter paz com eles, porque não se pode ter paz com eles sem consentir em sua maldade, e é evidente que tal paz é ilícita. Por isso, o Senhor diz em Mateus 10:34: *Não vim trazer a paz, mas a espada*.
+Mas acrescenta aqui duas coisas, a primeira das quais é o que diz: ***Se for possível***. Pois às vezes a malícia dos outros impede que possamos ter paz com eles, porque não se pode ter paz com eles sem consentir em sua malícia, e é evidente que tal paz é ilícita. Por isso, o Senhor diz em Mateus 10:34: *Não vim trazer a paz, mas a espada*.
 
 Acrescenta outra coisa, dizendo: ***No que depender de vós***, isto é, ainda que eles próprios ajam contra a paz, devemos fazer o que está em nosso poder para buscar a paz com eles. Salmo 119:7: *Eu era pacífico com aqueles que odiavam a paz*. E em outro lugar: *Busca a paz e segue-a*.
 
@@ -424,7 +424,7 @@ Mas, como diz Agostinho no livro Contra a mentira, as coisas feitas pelos santos
 
 **1012.** Segundo, apresenta a razão, quando diz: ***Mas dai lugar à ira***, isto é, ao juízo divino. Como se dissesse: entregai-vos a Deus, que, por seu juízo, pode defender-vos e fazer-vos justiça, segundo aquilo de 1 Pedro, último capítulo: *Lançando sobre ele toda a vossa solicitude, porque ele cuida de vós*.
 
-Mas essas coisas devem ser entendidas no caso em que não temos a possibilidade de agir de outro modo segundo a justiça. Porém, porque, como se diz em Deuteronômio 1:17, *o juízo pertence ao Senhor*, quando alguém recorre à autoridade do juiz para buscar punição a fim de reprimir a maldade, e não por ódio, ou quando, pela autoridade de algum superior, procura sua defesa, entende-se que dá lugar à ira, isto é, ao juízo divino, do qual os governantes são ministros, como se diz abaixo, em 13:4. Por isso, também Paulo providenciou que homens armados o defendessem das emboscadas dos judeus, como se vê em Atos 23:12 e seguintes.
+Mas essas coisas devem ser entendidas no caso em que não temos a possibilidade de agir de outro modo segundo a justiça. Porém, porque, como se diz em Deuteronômio 1:17, *o juízo pertence ao Senhor*, quando alguém recorre à autoridade do juiz para buscar punição a fim de reprimir a malícia, e não por ódio, ou quando, pela autoridade de algum superior, procura sua defesa, entende-se que dá lugar à ira, isto é, ao juízo divino, do qual os governantes são ministros, como se diz abaixo, em 13:4. Por isso, também Paulo providenciou que homens armados o defendessem das emboscadas dos judeus, como se vê em Atos 23:12 e seguintes.
 
 **1013.** Depois, quando diz ***como está escrito***, etc., prova o que dissera.
 

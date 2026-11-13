@@ -6,7 +6,7 @@
 
 ***A glória na esperança e na tribulação***
 
-^5:1^ Justificados, pois, pela fé, tenhamos paz com Deus por nosso Senhor Jesus Cristo: [n. 381]
+^5:1^ Justificados, pois, a partir da fé, tenhamos paz com Deus por nosso Senhor Jesus Cristo: [n. 381]
 
 > ^5:2^ por quem também temos acesso, pela fé, a esta graça, na qual permanecemos, e nos gloriamos na esperança da glória dos filhos de Deus. [n. 383]
 
@@ -36,7 +36,7 @@ Primeiro, exorta ao devido uso da graça;
 
 segundo, mostra-nos a entrada para a graça, em ***por quem temos acesso*** etc.
 
-**382.** Diz, pois, primeiro: foi dito que a fé será levada em conta como justiça para todos os que creem na ressurreição de Cristo, que é a causa de nossa justificação. ***Justificados, pois, pela fé***, enquanto, pela fé na ressurreição, participamos de seu efeito, ***tenhamos paz com Deus***, submetendo-nos a ele e obedecendo-lhe. Jó 22:21: *Submete-te, pois, a ele e tem paz*. Jó 9:4: *Quem lhe resistiu e teve paz?*
+**382.** Diz, pois, primeiro: foi dito que a fé será levada em conta como justiça para todos os que creem na ressurreição de Cristo, que é a causa de nossa justificação. ***Justificados, pois, a partir da fé***, enquanto, pela fé na ressurreição, participamos de seu efeito, ***tenhamos paz com Deus***, submetendo-nos a ele e obedecendo-lhe. Jó 22:21: *Submete-te, pois, a ele e tem paz*. Jó 9:4: *Quem lhe resistiu e teve paz?*
 
 E isso ***por Jesus Cristo, nosso Senhor***, que nos conduziu a essa paz. Efésios 2:14: *Ele é a nossa paz*.
 
