@@ -18,7 +18,7 @@
 
 4. Pour effacer les péchés passés, je m’en accuserai courageusement, et n’en laisserai pas un que je ne pousse dehors.
 
-5. Je ferai tout ce que je pourrai pour en déraciner entièrement les plantes de mon cœur, particulièrement Je tels et de tels qui me sont plus ennuyeux.
+5. Je ferai tout ce que je pourrai pour en déraciner entièrement les plantes de mon cœur, particulièrement de tels et de tels qui me sont plus ennuyeux.
 
 6. Et pour ce faire, j’embrasserai constamment les moyens qui me seront conseillés, ne me semblant d’avoir jamais assez fait pour réparer de si grandes fautes.
 

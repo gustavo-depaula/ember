@@ -10,7 +10,7 @@
 
 3. Considérez l’être que Dieu vous a donné ; car c’est le premier être du monde visible, capable de vivre éternellement et de s’unir parfaitement à sa divine Majesté.
 
-1. Humiliez-vous profondément devant Dieu, disant de cœur avec le Psalmiste : « Ô Seigneur, je suis devant vous comme un vrai rien. Et comment eûtes-vous mémoire de moi pour me créer ? » Hélas, mon âme, teétais abîmée dans cet ancien néant, et y serais encore de présent si Dieu ne t’en eût retirée ; et que ferais-tu dedans ce rien ?
+1. Humiliez-vous profondément devant Dieu, disant de cœur avec le Psalmiste : « Ô Seigneur, je suis devant vous comme un vrai rien. Et comment eûtes-vous mémoire de moi pour me créer ? » Hélas, mon âme, tu étais abîmée dans cet ancien néant, et y serais encore de présent si Dieu ne t’en eût retirée ; et que ferais-tu dedans ce rien ?
 
 2. Rendez grâces à Dieu. Ô mon grand et bon Créateur, combien vous suis-je redevable, puisque vous m’êtes allé prendre dans mon rien, pour me rendre par votre miséricorde ce que je suis. Qu’est-ce que je ferai jamais pour dignement bénir votre saint Nom et remercier votre immense bonté ?
 

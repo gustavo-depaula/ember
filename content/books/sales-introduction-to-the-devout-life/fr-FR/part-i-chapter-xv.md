@@ -12,7 +12,7 @@
 
 3. Considérez surtout l’éternité de ces peines, laquelle seule rend l’enfer insupportable. Hélas ! si une puce en notre oreille, si la chaleur d’une petite fièvre nous rend une courte nuit si longue et ennuyeuse, combien sera épouvantable la nuit de l’éternité avec tant de tourments ! De cette éternité, naissent le désespoir éternel, les blasphèmes et rages infinies.
 
-1. Épouvantez votre âme par les paroles de Job : « O jmon âme, pourrais-tu bien « vivre éternellement avec ces ardeurs perdurables et emmi ce feu dévorant ? » Veux-tu bien quitter ton Dieu pour jamais ?
+1. Épouvantez votre âme par les paroles de Job : « O mon âme, pourrais-tu bien « vivre éternellement avec ces ardeurs perdurables et emmi ce feu dévorant ? » Veux-tu bien quitter ton Dieu pour jamais ?
 
 2. Confessez que vous l’avez mérité, mais combien de fois ! Or, désormais je veux prendre parti au chemin contraire ; pourquoi descendrais-je en cet abîme ?
 
