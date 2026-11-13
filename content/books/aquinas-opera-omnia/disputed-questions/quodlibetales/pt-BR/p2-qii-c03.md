@@ -40,7 +40,7 @@ Em sentido contrário, os homens estão mais obrigados a crer na verdade primeir
 
 Além disso, a graça da união é maior que a graça que torna grato pela adoção; mas os milagres não provam suficientemente a graça que torna grato, pois, como se lê em Mateus 7, àqueles que disserem a Cristo no juízo: *Senhor, . . . em vosso nome realizamos muitos milagres*, será respondido: não *vos conheci*. Logo, muito menos bastam os milagres para provar a graça da união. Portanto, se os homens não estivessem obrigados a crer em Cristo sem milagres, tampouco, mesmo depois de realizados os milagres, estariam obrigados a crer nele quando dizia ser Deus; o que é manifestamente falso.
 
-Resposta. Deve-se dizer que ninguém está obrigado àquilo que ultrapassa suas forças, senão do modo pelo qual isso se torna possível para ele; ora, crer está acima da capacidade natural do homem, razão pela qual provém de um dom de Deus, segundo aquelas palavras do Apóstolo em Efésios 2: *pela graça fostes salvos mediante a fé, e isso não vem de vós, pois é dom de Deus*; e, em Filipenses 1, diz: *a vós* foi dado *. . . não somente que* nele *creiais, mas que . . . por* ele *padeçais*. Portanto, o homem está obrigado a crer na medida em que é auxiliado por Deus para crer.
+Resposta. Deve-se dizer que ninguém está obrigado àquilo que ultrapassa suas forças, senão do modo pelo qual isso se torna possível para ele; ora, crer está acima da potência natural do homem, razão pela qual provém de um dom de Deus, segundo aquelas palavras do Apóstolo em Efésios 2: *pela graça fostes salvos mediante a fé, e isso não vem de vós, pois é dom de Deus*; e, em Filipenses 1, diz: *a vós* foi dado *. . . não somente que* nele *creiais, mas que . . . por* ele *padeçais*. Portanto, o homem está obrigado a crer na medida em que é auxiliado por Deus para crer.
 
 Ora, alguém é auxiliado por Deus para crer de três modos. Primeiro, pelo chamado interior, do qual se diz em João 6: *todo aquele que* ouve *o Pai e dele aprendeu vem a mim*; e, em Romanos 8: *aos que predestinou, a esses chamou*. Segundo, pelo ensinamento e pela pregação exterior, segundo aquelas palavras do Apóstolo em Romanos 7: *a fé vem da escuta, e a escuta, pela palavra de Cristo*. Terceiro, pelos milagres exteriores; daí se dizer em 1 Coríntios 14 que os sinais foram dados *aos infiéis*, para que, por eles, sejam movidos à fé.
 
@@ -142,7 +142,7 @@ Artigo 1
 
 Quanto ao primeiro, procede-se assim. Parece que o filho está obrigado a obedecer aos pais carnais em tudo.
 
-Com efeito, diz-se em Deuteronômio 21: *se um homem gerar um filho obstinado e insolente, que não ouça a ordem do pai ou da mãe, . . . o povo da cidade o apedrejará*. Mas tal pena não seria infligida se ele não pecasse gravemente ao desobedecer. Logo, os filhos estão obrigados a obedecer aos pais carnais em tudo.
+Com efeito, diz-se em Deuteronômio 21: *se um homem gerar um filho obstinado e insolente, que não ouça o comando do pai ou da mãe, . . . o povo da cidade o apedrejará*. Mas tal pena não seria infligida se ele não pecasse gravemente ao desobedecer. Logo, os filhos estão obrigados a obedecer aos pais carnais em tudo.
 
 Além disso, o Apóstolo diz em Colossenses 3: *filhos, obedecei aos pais em tudo*.
 
@@ -152,7 +152,7 @@ Em sentido contrário, não se deve obedecer menos aos pais espirituais do que a
 
 Resposta. Deve-se dizer que, como a obediência é devida ao superior, o dever de obediência estende-se àquilo a que se estende o direito de superioridade. Ora, o pai carnal tem direito de superioridade sobre o filho, primeiro, quanto à vida doméstica: com efeito, o pai de família está na casa assim como o rei no reino; por isso, assim como os súditos do rei estão obrigados a obedecer-lhe naquilo que diz respeito ao governo do reino, assim também os filhos e os demais membros da casa estão obrigados a obedecer ao pai de família naquilo que diz respeito à organização da casa. Segundo, quanto à disciplina dos costumes; daí dizer o Apóstolo em Hebreus 12: *tivemos como educadores os pais de nossa carne, e* lhes obedecíamos; com efeito, o pai deve ao filho <não somente o sustento>, mas também a disciplina, como diz o Filósofo. Portanto, nessas coisas o filho está obrigado a obedecer ao pai carnal, e não nas demais.
 
-À primeira objeção, portanto, deve-se dizer que Moisés fala aí da autoridade paterna que diz respeito à disciplina dos costumes; por isso, diz-se no mesmo lugar: *despreza ouvir nossas advertências, entrega-se à comilança, à devassidão e aos banquetes*.
+À primeira objeção, portanto, deve-se dizer que Moisés fala aí do comando paterno que diz respeito à disciplina dos costumes; por isso, diz-se no mesmo lugar: *despreza ouvir nossas advertências, entrega-se à comilança, à devassidão e aos banquetes*.
 
 À segunda, deve-se dizer que o Apóstolo afirma que se deve obedecer *aos pais em tudo* aquilo a que se estende seu direito de superioridade.
 
@@ -272,9 +272,9 @@ De outro modo, diz-se que padece tudo aquilo que é de algum modo impedido em se
 
 Com efeito, não é contrário à natureza do espírito estar ligado a um corpo, visto que vemos a alma naturalmente ligada ao corpo para vivificá-lo; também os demônios, pela necromancia e pelo poder de demônios superiores, são ligados a certas imagens ou a outras coisas. Por isso, com muito maior razão, os espíritos podem, pelo poder divino, ser ligados ao fogo corpóreo, não para dar *vida*, mas para receber *pena*, como diz Agostinho.
 
-Mas, como aquilo que tem menor poder não pode, por seu próprio poder, prender aquilo que tem maior poder, segue-se que nenhum corpo pode prender um espírito, que tem maior poder, senão por algum poder superior; por isso se diz que o fogo corpóreo age sobre a alma separada não por seu próprio poder, mas na medida em que é *instrumento da justiça divina punitiva*.
+Mas, como aquilo que tem menor poder não pode, por seu próprio poder, prender aquilo que tem maior poder, segue-se que nenhum corpo pode prender um espírito, que tem maior poder, senão por algum poder superior; por isso se diz que o fogo corpóreo age sobre a alma separada não por sua virtude própria, mas na medida em que é *instrumento da justiça divina punitiva*.
 
-À primeira objeção, portanto, deve-se dizer que o fogo toca a alma, não por um contato de grandeza, considerado segundo os limites quantitativos, mas antes por um contato de poder: não de seu poder próprio, mas daquele que possui enquanto instrumento da justiça divina.
+À primeira objeção, portanto, deve-se dizer que o fogo toca a alma, não por um contato de grandeza, considerado segundo os limites quantitativos, mas antes por um contato de potência: não de seu poder próprio, mas daquele que possui enquanto instrumento da justiça divina.
 
 À segunda, deve-se dizer que esse argumento procede da paixão que se dá pela recepção de uma forma contrária.
 
@@ -364,7 +364,7 @@ Resposta. Para esclarecer essa questão, deve-se dizer que, como foi dito acima,
 
 Portanto, para que a indulgência aproveite a alguém, requerem-se três coisas: primeiro, uma causa que diga respeito à honra de Deus ou à necessidade ou utilidade da Igreja; segundo, autoridade naquele que a concede, pois o Papa pode concedê-la principalmente, e os demais na medida em que recebem dele um poder, seja ordinário, seja confiado ou delegado; terceiro, requer-se que aquele que deseja receber a indulgência esteja no estado de caridade. E essas três coisas são indicadas na carta papal: com efeito, a causa conveniente é indicada no que se diz de início acerca do *socorro à Terra Santa*; a autoridade, na menção à *autoridade dos apóstolos Pedro e Paulo* e do próprio Papa; e a caridade de quem a recebe, naquilo que se diz: *a todos os verdadeiramente arrependidos e confessados*. Não diz: e aos que satisfazem, porque a indulgência não dispensa da contrição e da confissão, mas toma o lugar da satisfação.
 
-Deve-se, portanto, dizer, quanto à questão proposta, que, se, segundo os termos da carta papal, a indulgência é concedida aos que tomam a cruz em socorro da Terra Santa, o cruzado tem imediatamente a indulgência, mesmo que morra antes de empreender a viagem, porque, nesse caso, a causa da indulgência será o voto da viagem, e não a viagem. Se, porém, constar nos termos da carta que a indulgência é dada aos que atravessarem o mar, aquele que morre antes de atravessá-lo não tem a indulgência, porque não possui a causa da indulgência.
+Deve-se, portanto, dizer, quanto à questão proposta, que, se, segundo os termos da carta papal, a indulgência é concedida aos que tomam a cruz em socorro da Terra Santa, o cruzado tem imediatamente a indulgência, mesmo que morra antes de empreender a viagem, porque, nesse caso, a causa da indulgência será o voto da viagem, e não a viagem. Se, porém, constar nos termos da carta que a indulgência é dada aos que passarem ao ultramar, aquele que morre antes de passar não tem a indulgência, porque não possui a causa da indulgência.
 
 À primeira objeção, portanto, deve-se dizer que, nesse último caso, falta ao cruzado que morre aquilo que é mais importante, a saber, a causa da indulgência.
 

@@ -28,7 +28,7 @@ Artigo 1
 
 ***Quanto ao primeiro, assim se procede. Parece que é necessário escolher sempre o melhor.***
 
-Com efeito, diz-se em 2 Reis 10: *escolhei o melhor . . . e colocai-o no trono de seu pai*; logo, com muito mais razão, os melhores devem ser preferidos para os ofícios espirituais.
+Com efeito, diz-se em 4 Reis 10: *escolhei o melhor . . . e colocai-o no trono de seu pai*; logo, com muito mais razão, os melhores devem ser preferidos para os ofícios espirituais.
 
 Além disso, a respeito da passagem de 1 Timóteo 3: *é preciso que o bispo seja irrepreensível*, a Glosa diz: *escolha-se tal* pontífice *que, em comparação com ele, os demais sejam chamados rebanho*; logo, é preciso escolher sempre o melhor para o episcopado.
 
@@ -66,7 +66,7 @@ Artigo 2
 
 Quanto ao segundo, assim se procede. Parece que não se deve prestar honra aos maus prelados.
 
-Com efeito, como diz Boécio no livro *Da consolação*: *não podemos julgar* dignos de reverência, *em razão das honras*, aqueles que consideramos *indignos dessas mesmas honras*; ora, os maus prelados não são dignos de honras; logo, seus súditos não podem julgá-los dignos de reverência.
+Com efeito, como diz Boécio no livro *Sobre a consolação*: *não podemos julgar* dignos de reverência, *em razão das honras*, aqueles que consideramos *indignos dessas mesmas honras*; ora, os maus prelados não são dignos de honras; logo, seus súditos não podem julgá-los dignos de reverência.
 
 Além disso, a honra só é devida aos maus prelados em razão da prelazia; portanto, como são indignos da prelazia, são também, por consequência, indignos das honras e de tudo o mais que é próprio da prelazia.
 

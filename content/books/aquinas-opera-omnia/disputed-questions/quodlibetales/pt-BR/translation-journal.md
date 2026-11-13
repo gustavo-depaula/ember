@@ -10,7 +10,7 @@ Destino: pt-BR.
 | Quaestiones Quodlibetales / Quodlibet | Questões Quodlibetais / Quodlibeto | Título da obra e designação de cada conjunto de disputas. |
 | quaestio / articulus unicus | questão / artigo único | |
 | natura divina / natura humana assumpta | natureza divina / natureza humana assumida | |
-| divina essentia / per essentiam | essência divina / por essência | |
+| divina essentia / per essentiam | essência divina / por essência | “Quando per essentiam indica o aspecto considerado, também ‘segundo sua essência’ ou ‘em sua essência’.” |
 | beatus Benedictus | São Bento | Forma portuguesa do nome do santo. |
 | Gregorius / Augustinus / Ambrosius | Gregório / Agostinho / Ambrósio | |
 | Paulus / Virgo | Paulo / Virgem | |
@@ -30,7 +30,7 @@ Destino: pt-BR.
 | operatio / operari | operação / operar | |
 | motus / motio | movimento / moção | |
 | motor / commensuratio | motor / comensuração | |
-| medium / sine medio | meio / sem meio | Conforme de-veritate; aqui, sobretudo em sentido espacial. |
+| medium / sine medio | meio / sem meio | Conforme de-veritate; aqui, sobretudo em sentido espacial. “Intermediário” para o que está entre dois termos ou instantes, inclusive em “tempo intermediário”. |
 | corruptio / creatio | corrupção / criação | “Corrupção” em sentido ontológico. |
 | pati / frui | sofrer / fruir | Em referência à alma de Cristo. |
 | appetitus naturalis | apetite natural | |
@@ -69,7 +69,7 @@ Destino: pt-BR.
 | unum quod convertitur cum ente | uno que é convertível com o ente | “Convertível” indica a mesma extensão de aplicação dos termos. |
 | unum quod est principium numeri | uno que é princípio do número | Distinto do uno convertível com o ente. |
 | privatio / habitus | privação / posse | Neste contexto, “posse” designa a presença positiva daquilo a que se opõe a privação. |
-| multitudo / continuum | multiplicidade / contínuo | |
+| multitudo / continuum | multiplicidade / contínuo | “Multitudo” em sentido coletivo: “comunidade”, “multidão” ou “grande número”; “multiplicidade” no sentido técnico contraposto à unidade. |
 | species sacramentales | espécies sacramentais | Nota [^4] sobre os diferentes sentidos de “espécie” no artigo. |
 | effective / dispositive | como causa eficiente / como causa dispositiva | |
 | aevum / aeternitas / aeviternus | evo / eternidade / eviterno | “Evo” conforme os diários de *Sobre as criaturas espirituais* e *Sobre as substâncias separadas*. |
@@ -80,7 +80,7 @@ Destino: pt-BR.
 | *Metaphysica* / *Physica* / *De consolatione* / *Super Genesim ad litteram* | *Metafísica* / *Física* / *Sobre a consolação* / *Sobre o Gênesis ao pé da letra* | |
 | Ioel / I ad Thessalonicenses / Iohannes / Actus | Joel / 1 Tessalonicenses / João / Atos | |
 | potentiae animae / potentia intellectiva / potentiae sensitivae | potências da alma / potência intelectiva / potências sensitivas | Conforme *Sobre as criaturas espirituais* e *Questões disputadas sobre a alma*. |
-| intelligere / intellectus / intelligibilis | inteligir / intelecto / inteligível | Convenção das mesmas obras; “entender” quando se trata da interpretação de uma afirmação. |
+| intelligere / intellectus / intelligibilis | inteligir / intelecto / inteligível | Convenção das mesmas obras; “entender” quando se trata da interpretação de uma afirmação. Também “compreensão” para “intellectus” enquanto ato ou resultado de inteligir, e “sentido” quando designa a interpretação de uma afirmação. |
 | intellectus agens / possibilis / separatus | intelecto agente / possível / separado | |
 | phantasma / phantasmata | fantasma / fantasmas | Representações sensíveis da imaginação; nota [^5]. |
 | lumen / lux | lume / luz | Conservada a distinção das obras próximas, inclusive nas citações dos Salmos ligadas ao argumento. |
@@ -158,7 +158,7 @@ Destino: pt-BR.
 | cremabilia | coisas combustíveis | Imagem da matéria a ser purificada; nota 2. |
 | peccatum ex certa malitia | pecado por malícia deliberada | |
 | crucesignatus | cruzado | Inclui quem assumiu o voto e ainda não partiu; nota 3. |
-| indulgentia / plena indulgentia | indulgência / indulgência plenária | |
+| indulgentia / plena indulgentia | indulgência / indulgência plenária | “Concessão” quando “indulgentia” designa uma autorização papal para ouvir confissões, e não a remissão da pena temporal. |
 | reformatio imaginis | restauração da imagem | No contexto da cura dos efeitos do pecado. |
 | ipsum esse subsistens | o próprio ser subsistente | |
 | actus / potentia | ato / potência | “Poder” quando o contexto se refere à capacidade divina de fazer algo. |
@@ -170,7 +170,7 @@ Destino: pt-BR.
 | univoce / equivoce | em sentido unívoco / em sentido equívoco | Conforme a identidade ou diversidade da razão expressa pela definição. |
 | actus coniuncti | ato do composto | Ato do composto de alma e corpo. |
 | veritas significationis / veritas naturalis speciei | verdade da significação / verdade da espécie natural | |
-| influxus / influere | influxo / exercer influxo | Ação de uma substância espiritual sobre outra. |
+| influxus / influere | influxo / exercer influxo | Ação de uma substância espiritual sobre outra. Também “infundir” e “infundido” quando se trata de espécies comunicadas por influxo a um intelecto. |
 | situs | posição | Distinta da ordem entre as substâncias espirituais. |
 | Dionysius / Damascenus / Apollinaris / Eutices | Dionísio / Damasceno / Apolinário / Êutiques | |
 | Caelestis hierarchiae / De anima | *Hierarquia celeste* / *Sobre a alma* | |
@@ -288,7 +288,7 @@ Destino: pt-BR.
 | phantasma / phantasia | fantasma / fantasia | Vocabulário técnico do conhecimento; nota [^2]. |
 | quidditas / species intelligibilis | quididade / espécie inteligível | Conforme as obras irmãs de Tomás. |
 | habitus / caritas | hábito / caridade | |
-| dilectio naturalis / dilectio gratuita | amor natural / amor proveniente da graça | |
+| dilectio naturalis / dilectio gratuita | dileção natural / dileção gratuita | |
 | veritas humanae naturae | verdade da natureza humana | Expressão definida pelo próprio autor em p8-qviii-c01, §99. |
 | caro secundum speciem / secundum materiam | carne segundo a espécie / segundo a matéria | Conserva-se “espécie” no sentido formal, conforme o comentário Sobre a geração e a corrupção. |
 | corpulenta substantia / seminalis ratio | substância corpórea / razão seminal | Distinção entre a matéria e a virtude formativa na geração. |
@@ -450,12 +450,12 @@ Destino: pt-BR.
 - Mantiveram-se os suplementos editoriais <Primeiro> e <primeiro> em p8-qviii-c01, §§102–103.
 - Em p8-qviii-c01, conservaram-se as referências sem versículos ou números ausentes do latim: “2 Coríntios 12” no §71 e apenas “Salmo” no §79.
 - Em p8-qviii-c01, §37, “sufficientiae” foi entendido como título da obra de Avicena e vertido por “Suficiência”.
-- Em p8-qviii-c01, §83, “dilectio gratuita” foi vertido por “amor proveniente da graça”, para preservar a oposição ao amor natural.
+- Em p8-qviii-c01, §83, “dilectio naturalis” e “dilectio gratuita” foram vertidos por “dileção natural” e “dileção gratuita”.
 - Acrescentou-se em p8-qviii-c02, §38, a nota [^3], sobre o marco como unidade medieval de peso e valor; em p8-qviii-c03, §40, a nota [^4], sobre o sentido técnico de “espiritual” na recepção das espécies sensíveis.
 - Em p8-qviii-c02, §109, distinguiu-se “respectu individui” de “respectu personae” por “em relação ao indivíduo” e “em relação à sua condição pessoal”.
 - Em p8-qviii-c02, §117, conservaram-se os colchetes do suplemento latino.
 - Em p8-qviii-c03, §17, interpretou-se “velantes” como lapso por “zelantes”, vertendo a expressão de Isaías 26 por “os povos invejosos”.
-- Mantiveram-se as referências de capítulo fornecidas pelo latim, inclusive Ezequiel 33 em p8-qviii-c03, §28, sem acrescentar versículos; “IV Regum X” foi apresentado segundo a nomenclatura portuguesa corrente, “2 Reis 10”.
+- Mantiveram-se as referências de capítulo fornecidas pelo latim, inclusive Ezequiel 33 em p8-qviii-c03, §28, sem acrescentar versículos; “IV Regum X”, em p8-qviii-c02, §16, foi apresentado segundo a nomenclatura histórica, “4 Reis 10”.
 - Em p8-qviii-c03, §54, preservou-se a distinção entre a bem-aventurança que consiste “originária e substancialmente” no ato do intelecto e “formalmente e como complemento” no ato da vontade.
 - Em p9-qix-c01, acrescentaram-se a nota [^5], no §17, identificando Algazel como Al-Ghazali, e a nota [^6], no §78, esclarecendo a distinção entre “referência” e “relação”.
 - Manteve-se “ser” para *esse*, inclusive na distinção entre cópula verbal e ato do ente, necessária à argumentação da questão 2, artigo 2.
@@ -665,3 +665,177 @@ Verdict: 2 meaning-level, 1 minor. Read all 9 chapters of part 4 in full: 2 mean
 ### Part 4 of 4, Round 4 (codex, delta read)
 Verdict: 0 meaning-level, 0 minor. Verificadas as três alterações e lidos integralmente os oito parágrafos apresentados, as três notas e os metadados pertinentes; nenhum novo defeito objetivo.
 - Rejected: pt-BR/p8-qviii-c02.md [23] — A posição de “armado com pele de ovelha” poderia sugerir ligação com “povo divino”. — A expressão pode retomar “lobo”, e a imagem torna esse referente identificável. A mudança preserva o sentido e restaura o itálico da citação.
+
+### Part terms 1 of 3, Round 1 (codex, terms read)
+Verdict: 2 meaning-level, 23 minor. 192 parágrafos sinalizados lidos; 22 ocorrências de desvio corrigidas e 3 linhas do glossário ampliadas.
+- `pt-BR/p1-qi-c03.md` [58]: “pertence à dileção gratuita” → “pertence ao amor proveniente da graça” — *dilectio gratuita* → “amor proveniente da graça” (Key Terms).
+- `pt-BR/p1-qi-c03.md` [110]: “contrário à natureza do preceito afirmativo” → “contrário à razão do preceito afirmativo” — *ratio* → “razão” no sentido técnico de noção (Key Terms).
+- `pt-BR/p1-qi-c03.md` [153]: “já os arcediagos e os párocos” → “já os arquidiáconos e os párocos” — *archidiaconi* → “arquidiáconos” (Key Terms).
+- `pt-BR/p1-qi-c03.md` [153]: “mas não arcediagos ou párocos” → “mas não arquidiáconos ou párocos” — *archidiaconi* → “arquidiáconos” (Key Terms).
+- `pt-BR/p1-qi-c03.md` [168]: “portanto, por ordem do prelado” → “portanto, por preceito do prelado” — *praeceptum* → “preceito” (Key Terms).
+- `pt-BR/p1-qi-c03.md` [181]: “se a revelasse por ordem do prelado” → “se a revelasse por preceito do prelado” — *praeceptum* → “preceito” (Key Terms).
+- `pt-BR/p10-qx-c03.md` [59]: “não é necessário que o movimento causado pelo motor” → “não é necessário que a moção do motor” — *motio moventis* → “moção do motor” (Key Terms).
+- `pt-BR/p10-qx-c03.md` [59]: “assim, o movimento causado pelo motor tem por termo” → “assim, a moção do motor tem por termo” — *motio moventis* → “moção do motor” (Key Terms).
+- `pt-BR/p10-qx-c03.md` [114]: “acarretar a culpa de pecado mortal” → “acarretar o reato de pecado mortal” — *reatus* → “reato” (Key Terms); designa a responsabilidade pela pena, distinta da culpa. *(meaning)*
+- `pt-BR/p11-qxi-c01.md` [16]: “segundo a natureza de sua virtude” → “segundo a razão de sua virtude” — *ratio* → “razão” no sentido técnico de noção (Key Terms).
+- `pt-BR/p11-qxi-c01.md` [24]: “o que a noção de estar em toda parte abrange” → “o que estar em toda parte abrange em sua razão” — *in sua ratione* → “em sua razão” (Key Terms).
+- `pt-BR/p12-qxii-c02.md` [256]: “a quem nenhum cuidado foi confiado” → “a quem nenhuma cura de almas foi confiada” — *cura* → “cura de almas” no contexto do ofício eclesiástico (Key Terms).
+- `pt-BR/p2-qii-c01.md` [19]: “numericamente o mesmo quanto à matéria” → “numericamente o mesmo segundo a matéria” — *secundum materiam* → “segundo a matéria” (Key Terms).
+- `pt-BR/p2-qii-c01.md` [19]: “com efeito, quanto à matéria, é o mesmo” → “com efeito, segundo a matéria, é o mesmo” — *secundum materiam* → “segundo a matéria” (Key Terms).
+- `pt-BR/p2-qii-c02.md` [50]: “mudasse algo por algum movimento” → “mudasse algo por alguma moção” — *motione* → “moção” (Key Terms).
+- `pt-BR/p2-qii-c03.md` [22]: “acima da capacidade natural do homem” → “acima da potência natural do homem” — *potentiam* → “potência” (Key Terms).
+- `pt-BR/p2-qii-c03.md` [72]: “não ouça a ordem do pai ou da mãe” → “não ouça o comando do pai ou da mãe” — *imperium* → “comando” (Key Terms).
+- `pt-BR/p2-qii-c03.md` [77]: “da autoridade paterna que diz respeito” → “do comando paterno que diz respeito” — *imperium* → “comando” (Key Terms); trata-se do comando dado pelos pais, não da autoridade enquanto tal. *(meaning)*
+- `pt-BR/p2-qii-c03.md` [137]: “não por seu próprio poder, mas na medida” → “não por sua virtude própria, mas na medida” — *virtute propria* → “virtude própria”, expressamente definida como poder de produzir efeitos (Key Terms).
+- `pt-BR/p2-qii-c03.md` [138]: “por um contato de poder” → “por um contato de potência” — *contactus virtutis* → “contato de potência” (Key Terms).
+- `pt-BR/p2-qii-c03.md` [181]: “aos que atravessarem o mar, aquele que morre antes de atravessá-lo” → “aos que passarem ao ultramar, aquele que morre antes de passar” — *ultra mare* → “ultramar” no contexto da cruzada (Key Terms); ajustada a retomada.
+- `pt-BR/p3-qiii-c03.md` [83]: “no livro *Os dogmas eclesiásticos*” → “no livro *Sobre os dogmas eclesiásticos*” — *De ecclesiasticis dogmatibus* → “Sobre os dogmas eclesiásticos” (Key Terms).
+- `pt-BR/translation-journal.md`: “| multitudo / continuum | multiplicidade / contínuo | “Multidão” ou “comunidade” quando “multitudo” designa um conjunto de pessoas, especialmente enquanto corpo social. |” → “| multitudo / continuum | multiplicidade / contínuo | “Multitudo” em sentido coletivo: “comunidade”, “multidão” ou “grande número”; “multiplicidade” no sentido técnico contraposto à unidade. |” — As ocorrências coletivas designam comunidades ou conjuntos numerosos de pessoas, sem exigir o termo técnico “multiplicidade”.
+- `pt-BR/translation-journal.md`: “| medium / sine medio | meio / sem meio | Conforme de-veritate; aqui, sobretudo em sentido espacial. Também “intermediário” para a posição entre extremos ou aquilo que se encontra entre eles, inclusive no tempo. |” → “| medium / sine medio | meio / sem meio | Conforme de-veritate; aqui, sobretudo em sentido espacial. “Intermediário” para o que está entre dois termos ou instantes, inclusive em “tempo intermediário”. |” — As ocorrências traduzem consistentemente *medium* como “intermediário” na análise dos termos da mudança e dos intervalos temporais.
+- `pt-BR/translation-journal.md`: “| indulgentia / plena indulgentia | indulgência / indulgência plenária | |” → “| indulgentia / plena indulgentia | indulgência / indulgência plenária | “Concessão” quando “indulgentia” designa uma autorização papal para ouvir confissões, e não a remissão da pena temporal. |” — As três ocorrências sobre a autorização papal para ouvir confissões empregam corretamente “concessão”.
+
+### Part terms 1 of 3, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 0 minor. Delta read das 25 correções da rodada 1 e dos parágrafos vizinhos: uma correção quebrou a concordância de “na qual” em p1-qi-c03 [58] e foi revertida para “dileção gratuita”; as demais estão corretas.
+- `pt-BR/p1-qi-c03.md` [58]: “pertence ao amor proveniente da graça, na qual consiste o mérito” → “pertence à dileção gratuita, na qual consiste o mérito” — Latim: gratuitae dilectionis, in qua meritum consistit. A troca deixou “na qual” preso a “graça”, e o mérito passa a consistir na graça e não na dileção. A linha de Key Terms deste capítulo (beatitudo / gratuita dilectio → dileção gratuita) e a decisão do §57 pedem “dileção”, que também faz par com “dileção natural” na mesma frase e no §59. “Amor proveniente da graça” é a convenção de p8-qviii-c01, §83. *(meaning)*
+- Rejected: pt-BR/p2-qii-c03.md [137]–[138] — Mistura de “poder” e “virtude/potência” para virtus no mesmo trecho depois das correções. — O sentido continua claro e a Key Terms define “virtude” como poder de produzir efeitos. É escolha de estilo, não erro.
+- Rejected: pt-BR/p2-qii-c01.md [19] — “segundo a matéria” ao lado de “quanto à forma” quebra o paralelismo. — As duas formas são corretas e o sentido não muda.
+- Rejected: pt-BR/p2-qii-c03.md [181] — “passarem ao ultramar” soa pouco usual. — É uso histórico para a travessia da cruzada, segue a Key Terms (ultra mare → ultramar) e está gramaticalmente correto.
+
+### Part terms 1 of 3, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente os §§57–59 e as duas notas do tradutor fornecidas; a correção da rodada anterior está correta e não foram encontrados novos defeitos.
+- Rejected: pt-BR/p1-qi-c03.md [58] — “Dileção gratuita” diverge da convenção “amor proveniente da graça” registrada para outro capítulo. — A forma segue a linha terminológica deste capítulo, traduz corretamente gratuitae dilectionis e restitui a referência de “na qual” à dileção.
+- Rejected: pt-BR/p1-qi-c03.md [57] — A quantidade de marcadores de ênfase difere da fonte. — O destaque foi reunido numa expressão portuguesa contínua correspondente à formulação latina; a diferença de contagem não demonstra perda de conteúdo ou de estrutura.
+
+### Part terms 2 of 3, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 37 minor. 184 parágrafos sinalizados lidos; 26 com desvios terminológicos; 4 linhas do glossário ampliadas.
+- `pt-BR/translation-journal.md`: “| multitudo / continuum | multiplicidade / contínuo | |” → “| multitudo / continuum | multiplicidade / contínuo | “Multidão” ou “comunidade” quando “multitudo” designa um conjunto de pessoas, especialmente enquanto corpo social. |” — A tradução distingue corretamente a coletividade humana da multiplicidade abstrata; falta registrar esse sentido.
+- `pt-BR/translation-journal.md`: “| influxus / influere | influxo / exercer influxo | Ação de uma substância espiritual sobre outra. |” → “| influxus / influere | influxo / exercer influxo | Ação de uma substância espiritual sobre outra. Também “infundir” e “infundido” quando se trata de espécies comunicadas por influxo a um intelecto. |” — As ocorrências referentes às espécies usam consistentemente a construção adequada “espécies infundidas”.
+- `pt-BR/translation-journal.md`: “| medium / sine medio | meio / sem meio | Conforme de-veritate; aqui, sobretudo em sentido espacial. “Para o adjetivo medius, admite-se também ‘intermediário’, ao qualificar uma posição ou um intervalo.” |” → “| medium / sine medio | meio / sem meio | Conforme de-veritate; aqui, sobretudo em sentido espacial. Também “intermediário” para a posição entre extremos ou aquilo que se encontra entre eles, inclusive no tempo. |” — “Intermediário” traduz corretamente o uso adjetivo e o sentido de elemento situado entre extremos.
+- `pt-BR/translation-journal.md`: “| intelligere / intellectus / intelligibilis | inteligir / intelecto / inteligível | Convenção das mesmas obras; “entender” quando se trata da interpretação de uma afirmação. |” → “| intelligere / intellectus / intelligibilis | inteligir / intelecto / inteligível | Convenção das mesmas obras; “entender” quando se trata da interpretação de uma afirmação. Também “compreensão” para “intellectus” enquanto ato ou resultado de inteligir, e “sentido” quando designa a interpretação de uma afirmação. |” — “Intellectus” também designa a compreensão ou o sentido de uma afirmação, em vez da faculdade intelectual.
+- `pt-BR/p3-qiii-c03.md` [94]: “tudo o que lhe for ordenado” → “tudo o que lhe for comandado” — *imperare* → “comandar” (Key Terms); estava “ordenar”.
+- `pt-BR/p3-qiii-c03.md` [209]: “no livro III de *A alma*” → “no livro III de *Sobre a alma*” — *De anima* → “Sobre a alma” (Key Terms).
+- `pt-BR/p3-qiii-c03.md` [210]: “no livro *De hebdomadibus*” → “no livro *Sobre as hebdômadas*” — *De hebdomadibus* → “Sobre as hebdômadas” (Key Terms).
+- `pt-BR/p3-qiii-c03.md` [224]: “no livro I de *A alma*” → “no livro I de *Sobre a alma*” — *De anima* → “Sobre a alma” (Key Terms).
+- `pt-BR/p3-qiii-c03.md` [231]: “no livro III de *A alma*” → “no livro III de *Sobre a alma*” — *De anima* → “Sobre a alma” (Key Terms).
+- `pt-BR/p3-qiii-c03.md` [262]: “sob aspectos diferentes” → “segundo razões diversas” — *rationes* → “razões” no sentido técnico de noções ou aspectos formais (Key Terms).
+- `pt-BR/p3-qiii-c03.md` [262]: “tem, de certo modo, caráter deleitável e, de outro modo, caráter aflitivo” → “tem, de certo modo, razão de deleitável e, de outro modo, razão de aflitivo” — *rationem* → “razão” no sentido técnico (Key Terms); estava “caráter”.
+- `pt-BR/p3-qiii-c03.md` [262]: “Tem caráter deleitável na medida” → “Tem razão de deleitável na medida” — *rationem* → “razão” no sentido técnico (Key Terms); estava “caráter”.
+- `pt-BR/p3-qiii-c04.md` [15]: “e há condições para um dilúvio de águas” → “e nisso está a razão de um dilúvio de águas” — *ratio* → “razão” (Key Terms); estava parafraseado como “condições”.
+- `pt-BR/p4-qiv-c02.md` [15]: “Isso é difícil de compreender” → “Isso é difícil de inteligir” — *intelligere* → “inteligir” (Key Terms); trata-se da compreensão intelectual da operação descrita.
+- `pt-BR/p4-qiv-c02.md` [37]: “para atravessar o mar” → “para passar ao ultramar” — *ultra mare* → “ultramar” (Key Terms), conservando o sentido da travessia.
+- `pt-BR/p4-qiv-c02.md` [38]: “ao tomar a cruz” → “ao tornar-se cruzado” — *crucesignatur* → “torna-se cruzado” (Key Terms), incluindo quem assume o voto.
+- `pt-BR/p4-qiv-c02.md` [49]: “sobre a obediência às ordens dos prelados” → “sobre a obediência aos preceitos dos prelados” — *praecepta* → “preceitos” (Key Terms); estava “ordens”.
+- `pt-BR/p4-qiv-c02.md` [201]: “gozar da incorruptibilidade” → “fruir da incorruptibilidade” — *frui* → “fruir” (Key Terms); estava “gozar”.
+- `pt-BR/p4-qiv-c02.md` [216]: “seus impulsos irracionais” → “seus movimentos irracionais” — *motus* → “movimentos” (Key Terms); estava “impulsos”.
+- `pt-BR/p4-qiv-c02.md` [300]: “outras coisas são compreendidas mais perfeitamente” → “outras coisas são inteligidas mais perfeitamente” — *intelliguntur* → “são inteligidas” (Key Terms), acerca da aquisição de conhecimento.
+- `pt-BR/p4-qiv-c02.md` [300]: “seja mais fácil compreendê-las ou possuí-las” → “seja mais fácil inteligi-las ou possuí-las” — *intelligere* → “inteligir” (Key Terms), acerca da aquisição de conhecimento.
+- `pt-BR/p5-qv-c01.md` [19]: “é preciso ainda compreender que” → “é preciso ainda entender que” — *intelligere* → “entender” na interpretação de uma afirmação, conforme a nota dos Key Terms.
+- `pt-BR/p5-qv-c03.md` [27]: “no que depende da origem” → “no que diz respeito à razão da origem” — *ratione* → “razão” no sentido técnico (Key Terms); estava omitido na paráfrase.
+- `pt-BR/p5-qv-c03.md` [35]: “no livro XV de *A Trindade*” → “no livro XV de *Sobre a Trindade*” — *De Trinitate* → “Sobre a Trindade” (Key Terms).
+- `pt-BR/p5-qv-c03.md` [35]: “no livro III de *Da alma*” → “no livro III de *Sobre a alma*” — *De anima* → “Sobre a alma” (Key Terms).
+- `pt-BR/p5-qv-c03.md` [71]: “o pecador sob seus cuidados” → “o pecador de quem tem a cura de almas” — *cura* → “cura de almas” no cuidado pastoral exercido pelo sacerdote (Key Terms).
+- `pt-BR/p6-qvi-c03.md` [193]: “cuja ausência se exige materialmente” → “cuja privação se exige materialmente” — *privatio* → “privação” (Key Terms); estava “ausência”.
+- `pt-BR/p6-qvi-c03.md` [193]: “Se, contudo, essa ausência faltar” → “Se, contudo, essa privação faltar” — Retoma a *privatio* da oração anterior; mantém a mesma designação técnica.
+- `pt-BR/p7-qvii-c01.md` [22]: “aperfeiçoado pela luz da glória” → “aperfeiçoado pelo lume da glória” — *lumen gloriae* → “lume da glória” (Key Terms).
+- `pt-BR/p7-qvii-c01.md` [22]: “mas a luz da glória é um meio” → “mas o lume da glória é um meio” — *lumen gloriae* → “lume da glória” (Key Terms).
+- `pt-BR/p7-qvii-c01.md` [28]: “a luz da glória, pela qual o intelecto será aperfeiçoado para ver a essência divina, da qual se diz” → “o lume da glória, pelo qual o intelecto será aperfeiçoado para ver a essência divina, do qual se diz” — *lumen gloriae* → “lume da glória” (Key Terms), com concordância dos relativos que o retomam.
+- `pt-BR/p7-qvii-c01.md` [29]: “a referida luz da glória aperfeiçoará” → “o referido lume da glória aperfeiçoará” — *gloriae lumen* → “lume da glória” (Key Terms).
+- `pt-BR/p7-qvii-c01.md` [29]: “a luz da glória que dela desce” → “o lume da glória que dela desce” — *lumen gloriae* → “lume da glória” (Key Terms).
+- `pt-BR/p7-qvii-c01.md` [30]: “a cujo modo se ajusta” → “a cujo modo se comensura” — *commensuratur* conserva a terminologia de “comensuração” (Key Terms); estava “se ajusta”.
+- `pt-BR/p7-qvii-c01.md` [31]: “ver a essência divina pela luz da glória” → “ver a essência divina pelo lume da glória” — *lumen gloriae* → “lume da glória” (Key Terms).
+- `pt-BR/p7-qvii-c01.md` [32]: “aquela luz da glória” → “aquele lume da glória” — *gloriae lumen* → “lume da glória” (Key Terms).
+- `pt-BR/p7-qvii-c01.md` [66]: “mas feitas à semelhança das formas produtoras” → “mas exempladas a partir das formas produtoras” — *exemplatae* → “exempladas” (Key Terms); estava parafraseado como “feitas à semelhança”.
+
+### Part terms 2 of 3, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 9 minor. Delta read: checked 37 changes and the neighbouring paragraphs. Found one inconsistency left in [263] of p3-qiii-c03 and leftover “luz” for *lumen* in p7-qvii-c01 [22], [29] and [33]. All minor.
+- `pt-BR/p3-qiii-c03.md` [263]: “tem caráter aflitivo por duas razões” → “tem razão de aflitivo por dois motivos” — *habet rationem tristabilis*; [262] now renders *rationem* as “razão de aflitivo”, so this sentence must match it. “Por dois motivos” avoids repeating “razão”.
+- `pt-BR/p7-qvii-c01.md` [22]: “a referida luz se chama” → “o referido lume se chama” — *lumen praedictum* refers back to *lumen gloriae*, now “lume da glória”.
+- `pt-BR/p7-qvii-c01.md` [29]: “Essa luz, porém, não será necessária” → “Esse lume, porém, não será necessário” — *Hoc autem lumen* refers back to the “lume da glória” at the end of [28].
+- `pt-BR/p7-qvii-c01.md` [29]: “agora nos é necessária a luz do intelecto agente” → “agora nos é necessário o lume do intelecto agente” — *lumen intellectus agentis*; Key Terms lumen → “lume”. The paragraph contrasts *lumen* with *lux*.
+- `pt-BR/p7-qvii-c01.md` [29]: “também agora serve a luz do intelecto agente” → “também agora serve o lume do intelecto agente” — *lumen intellectus agentis*; Key Terms lumen → “lume”.
+- `pt-BR/p7-qvii-c01.md` [29]: “a espécie da coisa inteligida e a luz;” → “a espécie da coisa inteligida e o lume;” — *species rei intellectae simul et lumen*, contrasted with *quae non sunt lux tantum*; Key Terms lumen/lux → “lume”/“luz”.
+- `pt-BR/p7-qvii-c01.md` [29]: “bastaria a luz que aperfeiçoasse o olho” → “bastaria o lume que aperfeiçoasse o olho” — *sufficeret lumen oculum perficiens*, contrasted with *lux sensibilis*; Key Terms lumen → “lume”.
+- `pt-BR/p7-qvii-c01.md` [33]: “não somente luz, mas também a espécie” → “não somente lume, mas também a espécie” — *non solum sit ibi lumen*; the reply turns on *lumen* versus *pure lux*; Key Terms lumen → “lume”.
+- `pt-BR/p7-qvii-c01.md` [33]: “além da própria luz para ser vista” → “além do próprio lume para ser vista” — *quam ipsum lumen*; Key Terms lumen → “lume”.
+- Rejected: pt-BR/p5-qv-c03.md [71] — “o pecador de quem tem a cura de almas” could weaken the medical parallel — “Ter a cura de almas de alguém” is correct usage, and the sense of *cuius curam habet* is kept.
+- Rejected: pt-BR/p4-qiv-c02.md [216] — “não são toleradas” does not agree with “movimentos irracionais” — The fault predates this round and comes from the elided citation. The participle refers to the omitted “coisas”, and the journal records that the ellipses were kept without reconstruction.
+- Rejected: pt-BR/p4-qiv-c02.md [39] — “ao tomar a cruz” differs from [38] — Here the source has *accipiendo crucem*, not *crucesignatur*, and this matches “tomar a cruz” in [37].
+- Rejected: pt-BR/p6-qvi-c03.md [193] — “essa privação faltar” could look contradictory — *hoc desit* refers to the privation of pleasure. It is lacking when the pleasure occurs involuntarily, so the sense is right.
+
+### Part terms 2 of 3, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 3 minor. Verificadas as nove alterações, todos os parágrafos vizinhos apresentados e as duas notas do tradutor; encontrados três defeitos menores, sem defeitos de sentido.
+- `pt-BR/p7-qvii-c01.md` [23]: “a saber, a luz e a espécie” → “a saber, o lume e a espécie” — O latim traz «lumine»; a tabela terminológica estabelece «lume» para lumen.
+- `pt-BR/p7-qvii-c01.md` [28]: “*em vossa luz veremos a luz*” → “*em vosso lume veremos o lume*” — «In lumine tuo videbimus lumen» emprega lumen nas duas ocorrências; o diário determina expressamente conservar «lume» também nas citações dos Salmos ligadas ao argumento.
+- `pt-BR/p7-qvii-c01.md` [29]: “será necessária apenas para aperfeiçoar o intelecto” → “será necessário apenas para aperfeiçoar o intelecto” — O sujeito continua sendo «esse lume»; a mudança anterior deixou uma concordância no feminino.
+- Rejected: pt-BR/p3-qiii-c03.md [262] — A contagem dos marcadores de ênfase difere da fonte. — Os três segmentos latinos destacados foram reunidos numa única citação portuguesa contínua em itálico, preservando integralmente o destaque.
+
+### Part terms 2 of 3, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta read de p7-qvii-c01 [22]–[30]. As três alterações estão corretas. Faltava corrigir «luz» para lumen em três lugares do [27]; sem defeitos de sentido.
+- `pt-BR/p7-qvii-c01.md` [27]: “e este é, em nós, a luz do intelecto agente, que está para o nosso intelecto possível como a luz do sol” → “e este é, em nós, o lume do intelecto agente, que está para o nosso intelecto possível como o lume do sol” — O latim traz «lumen intellectus agentis» e «lumen solis»; a tabela terminológica estabelece «lume» para lumen, e [29] já usa «lume do intelecto agente».
+- `pt-BR/p7-qvii-c01.md` [27]: “e pela luz, porque” → “e pelo lume, porque” — O latim traz «per lumen videam»; a tabela terminológica estabelece «lume» para lumen.
+- Rejected: pt-BR/p7-qvii-c01.md [28], [29] — «luz» remanescente em «semelhança da luz», «luz obscurecida», «luz inteligível» e «luz sensível» — O latim traz «lux» e «lucis» nesses lugares; «luz» é correto pela distinção lume/luz.
+
+### Part terms 2 of 3, Round 5 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificadas as duas alterações, os parágrafos [26]–[28] e a nota do tradutor: correções adequadas, sem novos defeitos.
+
+### Part terms 3 of 3, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 33 minor. 120 parágrafos sinalizados examinados; 22 apresentam desvios terminológicos, com 31 correções textuais e 2 ampliações do glossário.
+- `pt-BR/p8-qviii-c01.md` [83]: “o amor proveniente da graça” → “a dileção gratuita” — gratuita dilectio → “dileção gratuita” (Key Terms).
+- `pt-BR/p8-qviii-c02.md` [16]: “em 2 Reis 10” → “em 4 Reis 10” — IV Regum → “4 Reis”; o glossário determina a nomenclatura histórica.
+- `pt-BR/p8-qviii-c02.md` [35]: “no livro *Da consolação*” → “no livro *Sobre a consolação*” — De consolatione → “Sobre a consolação” (Key Terms).
+- `pt-BR/p9-qix-c01.md` [15]: “à noção de criatura” → “à razão de criatura” — ratio → “razão”, inclusive no sentido técnico de noção (Key Terms).
+- `pt-BR/p9-qix-c01.md` [22]: “possui mais o caráter de parte e de conteúdo” → “possui mais a razão de parte e de conteúdo” — in ratione → “na razão”; era “o caráter”.
+- `pt-BR/p9-qix-c01.md` [37]: “a graça só pode ser concebida na alma” → “a graça só pode ser inteligida na alma” — intelligere → “inteligir”; trata-se da concepção intelectual de uma realidade, não da interpretação de uma afirmação.
+- `pt-BR/p9-qix-c01.md` [37]: “a alma não é concebida antes de se unir ao corpo” → “a alma não é inteligida antes de se unir ao corpo” — intelligere → “inteligir” (Key Terms).
+- `pt-BR/p9-qix-c01.md` [37]: “é necessário conceber a união da alma com o corpo” → “é necessário inteligir a união da alma com o corpo” — intelligere → “inteligir” (Key Terms).
+- `pt-BR/p9-qix-c01.md` [46]: “a noção de homem” → “a razão de homem” — ratio → “razão”, inclusive no sentido técnico de noção (Key Terms).
+- `pt-BR/p9-qix-c01.md` [80]: “pela noção de seu gênero” → “pela razão de seu gênero” — ratio → “razão”, inclusive no sentido técnico de noção (Key Terms).
+- `pt-BR/p9-qix-c01.md` [80]: “pela própria noção do gênero” → “pela própria razão do gênero” — ratio → “razão”, inclusive no sentido técnico de noção (Key Terms).
+- `pt-BR/p9-qix-c01.md` [86]: “a noção própria de gênero ou espécie” → “a razão própria de gênero ou espécie” — propria ratio → “razão própria” (Key Terms).
+- `pt-BR/p9-qix-c01.md` [104]: “tampouco sai da noção de acidente” → “tampouco sai da razão de acidente” — ratio → “razão”, inclusive no sentido técnico de noção (Key Terms).
+- `pt-BR/p9-qix-c02.md` [27]: “não se pode conceber uma diversidade de partes” → “não se pode inteligir uma diversidade de partes” — intelligere → “inteligir”; aqui se trata de apreensão intelectual, não de interpretação textual.
+- `pt-BR/p9-qix-c02.md` [27]: “sem conceber uma divisão” → “sem inteligir uma divisão” — intellecta, forma de intelligere → “inteligir” (Key Terms).
+- `pt-BR/p9-qix-c02.md` [27]: “sem conceber uma dimensão” → “sem inteligir uma dimensão” — intellecta, forma de intelligere → “inteligir” (Key Terms).
+- `pt-BR/p9-qix-c02.md` [29]: “no *Comentário literal ao Gênesis*” → “em *Sobre o Gênesis ao pé da letra*” — Super Genesim ad litteram → “Sobre o Gênesis ao pé da letra” (Key Terms).
+- `pt-BR/p9-qix-c02.md` [44]: “no livro IV do *Comentário literal ao Gênesis*” → “no livro IV de *Sobre o Gênesis ao pé da letra*” — Super Genesim ad litteram → “Sobre o Gênesis ao pé da letra” (Key Terms).
+- `pt-BR/p9-qix-c02.md` [50]: “nada se interpõe entre o ato e o objeto” → “não há meio algum entre o ato e o objeto” — medium → “meio”; explicita o termo técnico que estava parafraseado.
+- `pt-BR/p9-qix-c02.md` [50]: “a espécie se interpõe entre o intelecto e seu ato” → “a espécie serve de meio entre o intelecto e seu ato” — media → “meio”; conserva a designação técnica da espécie como meio.
+- `pt-BR/p9-qix-c02.md` [57]: “ela tem caráter de prêmio” → “ela tem razão de prêmio” — rationem → “razão”, no sentido técnico de noção (Key Terms).
+- `pt-BR/p9-qix-c02.md` [78]: “no livro VIII do *Comentário literal ao Gênesis*” → “no livro VIII de *Sobre o Gênesis ao pé da letra*” — Super Genesim ad litteram → “Sobre o Gênesis ao pé da letra” (Key Terms).
+- `pt-BR/p9-qix-c02.md` [79]: “é necessário conceber, de algum modo, sucessão e tempo” → “é necessário inteligir, de algum modo, sucessão e tempo” — intelligere → “inteligir”; aqui se trata da apreensão intelectual do movimento.
+- `pt-BR/p9-qix-c02.md` [79]: “é necessário conceber todo móvel” → “é necessário inteligir todo móvel” — intelligatur, forma de intelligere → “inteligir” (Key Terms).
+- `pt-BR/p9-qix-c02.md` [81]: “admitir, de algum modo, um intermediário” → “admitir, de algum modo, um meio” — medium substantivo → “meio” (Key Terms).
+- `pt-BR/p9-qix-c02.md` [82]: “é manifesto que não há intermediário” → “é manifesto que não há meio” — medium substantivo → “meio” (Key Terms).
+- `pt-BR/p9-qix-c02.md` [82]: “não se interpõe nenhum intermediário” → “não se interpõe meio algum” — medium substantivo → “meio” (Key Terms).
+- `pt-BR/p9-qix-c02.md` [82]: “de um extremo ao outro sem intermediário” → “de um extremo ao outro sem meio” — absque medio → “sem meio”, conforme a convenção de sine medio (Key Terms).
+- `pt-BR/p9-qix-c02.md` [84]: “*da mesma natureza*” → “*da mesma razão*” — eiusdem rationis → “da mesma razão”; era “da mesma natureza”.
+- `pt-BR/p9-qix-c02.md` [193]: “está entre essas duas coisas” → “constitui um meio-termo entre essas duas coisas” — medium → “meio”; “meio-termo” exprime naturalmente a posição intermediária aqui indicada.
+- `pt-BR/p9-qix-c02.md` [194]: “pela investigação de sua vida” → “pela inquirição de sua vida” — inquisitio → “inquirição”, no contexto de um procedimento eclesiástico (Key Terms).
+- `pt-BR/translation-journal.md`: “| medium / sine medio | meio / sem meio | Conforme de-veritate; aqui, sobretudo em sentido espacial. |” → “| medium / sine medio | meio / sem meio | Conforme de-veritate; aqui, sobretudo em sentido espacial. “Para o adjetivo medius, admite-se também ‘intermediário’, ao qualificar uma posição ou um intervalo.” |” — Distingue o substantivo técnico do uso adjetival corretamente traduzido como “intermediário” em estados e intervalos temporais.
+- `pt-BR/translation-journal.md`: “| divina essentia / per essentiam | essência divina / por essência | |” → “| divina essentia / per essentiam | essência divina / por essência | “Quando per essentiam indica o aspecto considerado, também ‘segundo sua essência’ ou ‘em sua essência’.” |” — Em p8-qviii-c01 §102 e p9-qix-c02 §148, a expressão indica o aspecto essencial da criação ou supressão; as variantes preservam esse sentido sem sugerir causalidade.
+
+### Part terms 3 of 3, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 10 minor. Delta read: last round's 33 changes are correct; fixed one broken pair (dileção natural/gratuita), three journal lines they made false, and six leftover ratio/intelligere renderings in touched paragraphs.
+- `pt-BR/p8-qviii-c01.md` [83]: “entre o amor natural e a dileção gratuita” → “entre a dileção natural e a dileção gratuita” — dilectionis naturalis ad dilectionem gratuitam: o mesmo substantivo nos dois membros; Key Terms dá dilectio naturalis → “dileção natural”
+- `pt-BR/translation-journal.md`: “| amor natural / amor proveniente da graça |” → “| dileção natural / dileção gratuita |” — A linha já não corresponde ao texto de p8-qviii-c01 §83 e contradiz as linhas dilectio naturalis e gratuita dilectio da tabela
+- `pt-BR/translation-journal.md`: “Em p8-qviii-c01, §83, “dilectio gratuita” foi vertido por “amor proveniente da graça”, para preservar a oposição ao amor natural.” → “Em p8-qviii-c01, §83, “dilectio naturalis” e “dilectio gratuita” foram vertidos por “dileção natural” e “dileção gratuita”.” — A decisão registrada já não corresponde ao texto
+- `pt-BR/translation-journal.md`: ““IV Regum X” foi apresentado segundo a nomenclatura portuguesa corrente, “2 Reis 10”.” → ““IV Regum X”, em p8-qviii-c02, §16, foi apresentado segundo a nomenclatura histórica, “4 Reis 10”.” — O texto agora diz “4 Reis 10”, conforme a linha IV Regum da tabela; a decisão ficou falsa
+- `pt-BR/p9-qix-c01.md` [79]: “por sua própria noção, implicam” → “por sua própria razão, implicam” — ex propria sui ratione; ratio → “razão” (Key Terms), como já corrigido no §80 vizinho
+- `pt-BR/p9-qix-c01.md` [79]: “pela noção própria de seu gênero” → “pela razão própria de seu gênero” — ex propria sui generis ratione; ratio → “razão” (Key Terms), em paralelo ao §80
+- `pt-BR/p9-qix-c01.md` [46]: “que se concebe pela primeira vez em Cristo” → “que se intelige pela primeira vez em Cristo” — intelligatur; intelligere → “inteligir” (Key Terms), como nas correções do §37
+- `pt-BR/p9-qix-c01.md` [46]: “ele é concebido como uma realidade completa” → “ele é inteligido como uma realidade completa” — intelligitur; intelligere → “inteligir” (Key Terms)
+- `pt-BR/p9-qix-c02.md` [83]: “é necessário conceber que ele passa” → “é necessário inteligir que ele passa” — intelligatur transire; intelligere → “inteligir” (Key Terms), como no §79 vizinho
+- `pt-BR/p9-qix-c02.md` [83]: “não se pode conceber o tempo sem movimento” → “não se pode inteligir o tempo sem movimento” — tempus non potest intelligi; intelligere → “inteligir” (Key Terms)
+- Rejected: pt-BR/p9-qix-c01.md [36] — praeintelligitur vertido por “é concebido como capaz” / “concebida como anterior” — Composto com prae-; “conceber como anterior” exprime a anterioridade lógica sem forçar um neologismo como “preinteligir”. Escolha defensável.
+- Rejected: pt-BR/p9-qix-c02.md [50] — “como a espécie serve de meio” pode soar como comparação positiva — Reproduz o sicut latino, e a frase seguinte (“os casos não são semelhantes”) desfaz a ambiguidade.
+- Rejected: pt-BR/translation-journal.md (linha medium) — A nota da linha não traz o texto anunciado na alteração do revisor anterior — A nota atual (“Intermediário” para o que está entre dois termos ou instantes) é verdadeira e cobre os usos do texto; não há defeito.
+
+### Part terms 3 of 3, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 2 minor. Conferidas as 10 alterações e lidos os 12 parágrafos apresentados com suas notas: alterações corretas; encontrados dois defeitos menores, nenhum de sentido.
+- `pt-BR/p9-qix-c02.md` [82]: “ao ponto mencionado, há luz.” → “ao ponto mencionado, há lume.” — O latim traz lumen; o diário determina «lume», distinguindo-o de lux («luz»).
+- `pt-BR/translation-journal.md`: “and five leftover ratio/intelligere renderings in touched paragraphs.” → “and six leftover ratio/intelligere renderings in touched paragraphs.” — A lista registra seis correções desses termos: duas de ratio e quatro de intelligere.
+
+### Part terms 3 of 3, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read de p9-qix-c02 §§81–83, das notas [^7] e [^8] e do diário: «lume» por lumen e a contagem de seis correções estão certas; nenhum defeito nos parágrafos mostrados.
+- Rejected: pt-BR/translation-journal.md (registro da rodada 2) — Contagem “six leftover ratio/intelligere renderings” — A lista da rodada 2 traz duas correções de ratio (p9-qix-c01 §79) e quatro de intelligere (p9-qix-c01 §46 ×2, p9-qix-c02 §83 ×2): seis, como agora consta.
+- Rejected: pt-BR/p9-qix-c02.md [83] — “a presença do anjo” para esse angeli — No contexto, o ser do anjo no termo de partida é seu estar ali; a tradução conserva o sentido e é escolha defensável.
