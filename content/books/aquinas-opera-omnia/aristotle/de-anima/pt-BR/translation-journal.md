@@ -13,7 +13,7 @@ Destino: pt-BR.
 | intellectus | intelecto | |
 | intelligere | inteligir | Verbo técnico; “intelecção” para *intelligentia* como paixão da alma. |
 | intellectus agens | intelecto agente | |
-| sensus / sentire | sentido / sentir | |
+| sensus / sentire | sentido / sentir | “Sensação” quando *sensus* designa o ato ou a experiência sensorial, distinguindo-se da faculdade. |
 | phantasia / phantasmata | fantasia / fantasmas | No texto corrido; nos títulos do sumário, “imaginação” (ver Decisões). |
 | passiones animae | paixões da alma | |
 | quod quid est | o que é | A quididade. |
@@ -75,7 +75,7 @@ Destino: pt-BR.
 | Boetius, *Musica* | Boécio, *Música* | |
 | Physica | *Física* | |
 | chi | qui | A letra grega Χ. |
-| intelligere / intelligentia | inteligir / intelecção | |
+| intelligere / intelligentia | inteligir / intelecção | Também “inteligência” quando designa a faculdade intelectiva. |
 | intelligibilia | inteligíveis | |
 | magnitudo | grandeza | |
 | circulatio | circulação | O movimento circular (g1-c008). |
@@ -117,7 +117,7 @@ Destino: pt-BR.
 | quod quid erat esse / quod quid est esse | o que era ser / o que é ser | |
 | ratio (definição, *logos*) | noção | “segundo a razão” quando é a faculdade (*secundum rationem notius*). |
 | considerare / consideratio | considerar / consideração | Ato segundo, oposto ao hábito da ciência. |
-| simpliciter / secundum quid | pura e simplesmente / sob certo aspecto | |
+| simpliciter / secundum quid | pura e simplesmente / sob certo aspecto | Quando *simpliciter* significa *absque distinctione*, em oposição a *multipliciter*, “de modo simples”. |
 | materia prima | matéria-prima | |
 | motus et status | movimento e repouso | |
 | vegetabilia | vegetais | Santo Tomás glosa *id est plantae*. |
@@ -135,14 +135,14 @@ Destino: pt-BR.
 | entoma decisa | insetos cortados | Ver nota em g2-c004. |
 | scientificum / sanabile | científico / sanável | g2-c004 [9], [39]. |
 | Avicebron, *Fons vitae* | Avicebron, *Fonte da vida* | Ver nota em g2-c001. |
-| vegetativum, sensitivum, appetitivum, motivum secundum locum, intellectivum | o vegetativo, o sensitivo, o apetitivo, o motor segundo o lugar, o intelectivo | g2-c005. |
+| vegetativum, sensitivum, appetitivum, motivum secundum locum, intellectivum | o vegetativo, o sensitivo, o apetitivo, o motivo segundo o lugar, o intelectivo | g2-c005. |
 | vires (nos sumários) | forças | |
 | desiderium, ira, voluntas | desejo, ira, vontade | |
 | vis concupiscibilis / irascibilis | força concupiscível / irascível | |
 | laetitia et tristitia; dulce et triste; delectatio et dolor | alegria e tristeza; doce e triste; deleite e dor | g2-c005 [37]. |
 | delectamentum | regalo | g2-c005 [5], [40]. |
 | humor (gr. *chumos*) | humor | Mantido para a nota editorial e a glosa *id est sapor* fazerem sentido. |
-| honorabilius | mais digno de honra | |
+| honorabilius | mais honroso | |
 | dualitas | díade | Ver nota em g2-c005. |
 | trigonum, tetragonum, pentagonum | trígono, tetrágono, pentágono | *triangulum* → triângulo. |
 | bestia | bruto | |
@@ -238,7 +238,7 @@ Destino: pt-BR.
 | odorare | sentir odor | g2-c024 [11], [35]. |
 | sensibilia propria / communia | sensíveis próprios / comuns | g2-c025. |
 | status, quies | repouso | g2-c025 [8], [46]. |
-| orbatus | privado | g2-c025 [7], [39]. |
+| orbatus | mutilado | g2-c025 [7], [39]. |
 | cholera, rubicunda, rubeum | bile, avermelhada, vermelho | g2-c025 [12], [49]. |
 | talpa | toupeira | g2-c025. |
 | Cleon; Averrois; Euclides | Cléon; Averróis; Euclides | |
@@ -301,7 +301,7 @@ Destino: pt-BR.
 | asymmetrum, symmetrum; diameter | assímetro, símetro; diâmetro | Nota em g3-c005 [^2]. |
 | lis; amicitia; concordia | discórdia; amizade; concórdia | Empédocles, g3-c005 [17]. |
 | medietas (sensitiva) | mediedade | g3-c006 [5], [7], [26], [49]. |
-| immutare; immutatio | modificar; modificação | g3-c006 [49]. |
+| immutare; immutatio | imutar; imutação | g3-c006 [49]. |
 | delectari, tristari; delectatio, tristitia | deleitar-se, entristecer-se; deleite, tristeza | g3-c006. |
 | prosequi, persequi | buscar | g3-c006. |
 | imitari; imitabile | seguir; o que se deve seguir | Nota em g3-c006 [^1]. |
@@ -590,3 +590,190 @@ Verdict: 0 meaning-level, 0 minor. Delta read of g2-c027 [38]-[40]: the round-4 
 - Rejected: pt-BR/g2-c027.md [39] — Round-4 change 'a propriedade de conhecer simultaneamente várias coisas' for 'quod simul cognoscat plura' — Faithful to the Latin, and it gives 'Tem' a proper object. The sentence and its 'enquanto … mas, enquanto' contrast stay intact.
 - Rejected: pt-BR/g2-c027.md [39] — Emphasis-marker count differs from the source (52 vs 64) — Already rejected in round 4. The lemma spans are split by Portuguese word order, the markers are balanced, and the same words are emphasized.
 - Rejected: journal Key Terms — Audit counts 'deleitável e desagradável' and 'embate e golpe' ×0 in pt-BR — Already rejected in round 1. Both renderings occur with articles in g3-c012, and neither falls in the paragraphs shown.
+
+### Part terms 1 of 3, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 75 minor. 228 parágrafos sinalizados lidos; 55 com deriva terminológica; duas notas de glossário completadas.
+- `pt-BR/translation-journal.md`: “| simpliciter / secundum quid | pura e simplesmente / sob certo aspecto | |” → “| simpliciter / secundum quid | pura e simplesmente / sob certo aspecto | Quando *simpliciter* significa *absque distinctione*, em oposição a *multipliciter*, “de modo simples”. |” — As ocorrências de g2-c011 usam corretamente “de modo simples” para a ausência de distinção entre acepções; completar a nota.
+- `pt-BR/translation-journal.md`: “| sensus / sentire | sentido / sentir | No sentido de ato de sentir, também “sensação”. |” → “| sensus / sentire | sentido / sentir | “Sensação” quando *sensus* designa o ato ou a experiência sensorial, distinguindo-se da faculdade. |” — “Sensações” em g1-c011 [10] e “sensação” em g2-c007 [11] designam corretamente atos sensoriais; completar a nota.
+- `pt-BR/g1-c001.md` [9]: “se é divisível ou indivisível” → “se é partível ou impartível” — *partibilis / impartibilis* → “partível / impartível” (Key Terms).
+- `pt-BR/g1-c001.md` [9]: “se toda alma é da mesma espécie ou não” → “se toda alma é de espécie semelhante ou não” — *similis speciei* → “de espécie semelhante” (Key Terms).
+- `pt-BR/g1-c001.md` [9]: “E, se não é da mesma espécie,” → “E, se não é de espécie semelhante,” — *non similis speciei* → “não é de espécie semelhante” (Key Terms).
+- `pt-BR/g1-c001.md` [51]: “***divisível*** ou ***indivisível***” → “***partível*** ou ***impartível***” — *partibilis / impartibilis* → “partível / impartível” (Key Terms).
+- `pt-BR/g1-c002.md` [41]: “***já cabe ao físico considerar a alma, ou toda***, simplesmente,” → “***já cabe ao físico considerar a alma, ou toda***, pura e simplesmente,” — *simpliciter* → “pura e simplesmente” (Key Terms).
+- `pt-BR/g1-c003.md` [11]: “diz simplesmente que a alma” → “diz pura e simplesmente que a alma” — *simpliciter* → “pura e simplesmente” (Key Terms).
+- `pt-BR/g1-c003.md` [14]: “o que é maximamente motor” → “o que é maximamente motivo” — *motivum* → “motivo” (Key Terms); estava “motor”.
+- `pt-BR/g1-c003.md` [31]: “a alma parecia ser também motora” → “a alma parecia ser também motiva” — *motivum* → “motivo”, com concordância (Key Terms).
+- `pt-BR/g1-c003.md` [44]: “disse ***simplesmente***,” → “disse ***pura e simplesmente***,” — *simpliciter* → “pura e simplesmente” (Key Terms).
+- `pt-BR/g1-c003.md` [56]: “***o que é maximamente motor***” → “***o que é maximamente motivo***” — *motivum* → “motivo” (Key Terms).
+- `pt-BR/g1-c004.md` [9]: “a alma parecia ser também motora e cognoscitiva” → “a alma parecia ser também motiva e cognoscitiva” — *motivum* → “motivo”, com concordância (Key Terms).
+- `pt-BR/g1-c004.md` [28]: “***como, porém, a alma parecia ser também motora***” → “***como, porém, a alma parecia ser também motiva***” — *motivum* → “motivo”, com concordância (Key Terms).
+- `pt-BR/g1-c004.md` [28]: “a alma parecia ser motora por si” → “a alma parecia ser motiva por si” — *motiva* → “motiva” (Key Terms).
+- `pt-BR/g1-c004.md` [28]: “a potência motora na alma” → “a potência motiva na alma” — *potentiam motivam* → “potência motiva” (Key Terms).
+- `pt-BR/g1-c005.md` [3]: “que o que move está, por natureza, entre as coisas primeiras” → “que o que é motivo está, por natureza, entre as coisas primeiras” — *motivum* → “motivo” (Key Terms); estava parafraseado como “o que move”.
+- `pt-BR/g1-c005.md` [4]: “é motor por causa da sutileza” → “é motivo por causa da sutileza” — *motivum* → “motivo” (Key Terms).
+- `pt-BR/g1-c005.md` [6]: “a alma é algo motor” → “a alma é algo motivo” — *motivum* → “motivo” (Key Terms).
+- `pt-BR/g1-c005.md` [7]: “é motora enquanto é o mais sutil” → “é motiva enquanto é o mais sutil” — *motivum* → “motivo”, com concordância (Key Terms).
+- `pt-BR/g1-c005.md` [25]: “aquilo que é maximamente motor” → “aquilo que é maximamente motivo” — *motivum* → “motivo” (Key Terms).
+- `pt-BR/g1-c005.md` [31]: “por se atribuírem à alma o mover e o conhecer” → “por se atribuírem à alma o motivo e o cognoscitivo” — *motivum et cognoscitivum* são os atributos paralelos da alma; conservar “motivo” e a construção substantivada.
+- `pt-BR/g1-c005.md` [31]: “aquilo que é maximamente motor e cognoscitivo” → “aquilo que é maximamente motivo e cognoscitivo” — *motivum* → “motivo” (Key Terms).
+- `pt-BR/g1-c005.md` [31]: “o que é maximamente sutil é maximamente motor e cognoscitivo” → “o que é maximamente sutil é maximamente motivo e cognoscitivo” — *motivum* → “motivo” (Key Terms).
+- `pt-BR/g1-c005.md` [32]: “a alma é motora e cognoscitiva” → “a alma é motiva e cognoscitiva” — *motivam* → “motiva” (Key Terms).
+- `pt-BR/g1-c005.md` [33]: “tem virtude motora. Este” → “tem virtude motiva. Este” — *virtutem motivam* → “virtude motiva” (Key Terms).
+- `pt-BR/g1-c005.md` [33]: “tem virtude motora; por isso” → “tem virtude motiva; por isso” — *virtutem motivam* → “virtude motiva” (Key Terms).
+- `pt-BR/g1-c005.md` [36]: “a alma maximamente cognoscitiva e motora” → “a alma maximamente cognoscitiva e motiva” — *motivam* → “motiva” (Key Terms).
+- `pt-BR/g1-c005.md` [36]: “e a motora por ser” → “e a motiva por ser” — *motivam* → “motiva” (Key Terms).
+- `pt-BR/g1-c005.md` [45]: “que é algo motor;” → “que é algo motivo;” — *motivum* → “motivo” (Key Terms).
+- `pt-BR/g1-c005.md` [45]: “ele é maximamente motor.” → “ele é maximamente motivo.” — *motivum* → “motivo” (Key Terms).
+- `pt-BR/g1-c006.md` [14]: “se toma dito da alma de modo absoluto” → “se toma dito da alma pura e simplesmente” — *simpliciter* → “pura e simplesmente” (Key Terms).
+- `pt-BR/g1-c006.md` [14]: “não se toma de modo absoluto, mas com o corpo” → “não se toma pura e simplesmente, mas com o corpo” — *simpliciter* → “pura e simplesmente” (Key Terms).
+- `pt-BR/g1-c006.md` [39]: “busca simplesmente a verdade” → “busca pura e simplesmente a verdade” — *simpliciter* → “pura e simplesmente” (Key Terms).
+- `pt-BR/g1-c006.md` [51]: “que apetecer, querer e coisas semelhantes” → “que desejar, querer e coisas semelhantes” — *appetere* → “desejar” (Key Terms).
+- `pt-BR/g1-c006.md` [53]: “pelos apetecíveis ao apetecer” → “pelos apetecíveis ao desejar” — *appetendo* → “ao desejar” (Key Terms).
+- `pt-BR/g1-c010.md` [14]: “razões que em si mesmas são falsas” → “razões que segundo si mesmas são falsas” — *secundum se* → “segundo si” (Key Terms).
+- `pt-BR/g1-c010.md` [35]: “não atingem a própria alma em si mesma” → “não atingem a própria alma segundo si mesma” — *secundum se* → “segundo si” (Key Terms).
+- `pt-BR/g1-c011.md` [6]: “haja algo que mova as unidades” → “haja algo motivo das unidades” — *motivum unitatum* → “motivo das unidades” (Key Terms).
+- `pt-BR/g1-c011.md` [11]: “disseram simplesmente que a alma se move” → “disseram pura e simplesmente que a alma se move” — *simpliciter* → “pura e simplesmente” (Key Terms).
+- `pt-BR/g1-c011.md` [27]: “algo ***que mova as unidades***” → “algo ***motivo das unidades***” — *motivum unitatum* → “motivo das unidades” (Key Terms).
+- `pt-BR/g1-c012.md` [10]: “são simplesmente de terra” → “são pura e simplesmente de terra” — *simpliciter* → “pura e simplesmente” (Key Terms).
+- `pt-BR/g1-c012.md` [19]: “os antigos naturalistas chegaram” → “os antigos filósofos naturais chegaram” — *antiqui naturales* → “antigos filósofos naturais” (Key Terms).
+- `pt-BR/g1-c014.md` [3]: “e ainda desejar e deliberar” → “e ainda cobiçar e deliberar” — *concupiscere* → “cobiçar” (Key Terms).
+- `pt-BR/g1-c014.md` [4]: “com outra deseja” → “com outra cobiça” — *concupiscere* → “cobiçar”, com flexão (Key Terms).
+- `pt-BR/g1-c014.md` [12]: “sentir, inteligir, apetecer,” → “sentir, inteligir, desejar,” — *appetere* → “desejar” (Key Terms).
+- `pt-BR/g1-c014.md` [15]: “sentir, nutrir, mover, apetecer e inteligir” → “sentir, nutrir, mover, desejar e inteligir” — *appetere* → “desejar” (Key Terms).
+- `pt-BR/g1-c014.md` [17]: “***e ainda desejar***, quanto ao concupiscível” → “***e ainda cobiçar***, quanto ao concupiscível” — *concupiscere* → “cobiçar” (Key Terms).
+- `pt-BR/g2-c001.md` [4]: “que por si mesma não é este algo” → “que segundo si mesma não é este algo” — *secundum se* → “segundo si” (Key Terms).
+- `pt-BR/g2-c001.md` [35]: “***por si mesmo não é este algo***” → “***segundo si mesmo não é este algo***” — *secundum se* → “segundo si” (Key Terms).
+- `pt-BR/g2-c001.md` [56]: “e não simplesmente “que tem vida”” → “e não pura e simplesmente “que tem vida”” — *simpliciter* → “pura e simplesmente” (Key Terms).
+- `pt-BR/g2-c002.md` [6]: “apta por natureza a ser divisível” → “apta por natureza a ser partível” — *partibilis* → “partível” (Key Terms).
+- `pt-BR/g2-c003.md` [52]: “que por natureza permanecem no mesmo lugar” → “que naturalmente permanecem no mesmo lugar” — *naturaliter* → “naturalmente” no comentário (Key Terms).
+- `pt-BR/g2-c004.md` [25]: “diversas partes semelhantes em espécie” → “diversas partes de espécie semelhante” — *similes specie* → “de espécie semelhante” (Key Terms).
+- `pt-BR/g2-c004.md` [25]: “se as partes são semelhantes em espécie entre si” → “se as partes são de espécie semelhante entre si” — *similes specie* → “de espécie semelhante” (Key Terms).
+- `pt-BR/g2-c005.md` [3]: “o apetitivo, o motor segundo o lugar, o intelectivo” → “o apetitivo, o motivo segundo o lugar, o intelectivo” — *motivum* → “motivo” (Key Terms).
+- `pt-BR/g2-c005.md` [5]: “há também o motor segundo o lugar” → “há também o motivo segundo o lugar” — *motivum* → “motivo” (Key Terms).
+- `pt-BR/g2-c005.md` [5]: “ou ainda mais digno de honra” → “ou ainda mais honroso” — *honorabilius* → “mais honroso” (Key Terms).
+- `pt-BR/g2-c005.md` [19]: “o apetitivo, o motor segundo o lugar, o intelectivo” → “o apetitivo, o motivo segundo o lugar, o intelectivo” — *motivum* → “motivo” (Key Terms).
+- `pt-BR/g2-c005.md` [30]: “por um princípio motor extrínseco” → “por um princípio motivo extrínseco” — *principio motivo* → “princípio motivo” (Key Terms).
+- `pt-BR/g2-c005.md` [42]: “também o motor segundo o lugar” → “também o motivo segundo o lugar” — *motivum* → “motivo” (Key Terms).
+- `pt-BR/g2-c005.md` [42]: “***mais digno de honra*** que os homens” → “***mais honroso*** que os homens” — *honorabilius* → “mais honroso” (Key Terms).
+- `pt-BR/g2-c005.md` [42]: “encontra-se algo mais digno de honra que os homens” → “encontra-se algo mais honroso que os homens” — *honorabilius* → “mais honroso” (Key Terms).
+- `pt-BR/g2-c006.md` [15]: “a sequência do sensitivo e do motor” → “a sequência do sensitivo e do motivo” — *motivi* → “do motivo” (Key Terms).
+- `pt-BR/g2-c006.md` [15]: “pois o motor não pode existir” → “pois o motivo não pode existir” — *motivum* → “motivo” (Key Terms).
+- `pt-BR/g2-c006.md` [15]: “o sensitivo pode existir sem o motor” → “o sensitivo pode existir sem o motivo” — *sine motivo* → “sem o motivo” (Key Terms).
+- `pt-BR/g2-c006.md` [17]: “as coisas que são inteligíveis em si mesmas” → “as coisas que são inteligíveis segundo si mesmas” — *secundum se* → “segundo si” (Key Terms).
+- `pt-BR/g2-c006.md` [23]: “a doutrina seria confusa” → “o ensino seria confuso” — *doctrina* → “ensino” (Key Terms); trata-se da ordem de exposição.
+- `pt-BR/g2-c006.md` [30]: “esta diversidade é acidental no objeto” → “esta diversidade se dá por acidente no objeto” — *per accidens* → “por acidente” (Key Terms).
+- `pt-BR/g2-c008.md` [15]: “que são por natureza princípios de alguns movimentos” → “que são naturalmente princípios de alguns movimentos” — *naturaliter* → “naturalmente” no comentário (Key Terms).
+- `pt-BR/g2-c008.md` [25]: “aquilo que por si tem essa paixão” → “aquilo que segundo si tem essa paixão” — *secundum se* → “segundo si” (Key Terms).
+- `pt-BR/g2-c008.md` [25]: “o fogo, que por si é quente” → “o fogo, que segundo si é quente” — *secundum se* → “segundo si” (Key Terms).
+- `pt-BR/g2-c008.md` [25]: “a terra, que por si é grave” → “a terra, que segundo si é grave” — *secundum se* → “segundo si” (Key Terms).
+- `pt-BR/g2-c009.md` [16]: “acerca do objeto em si mesmo” → “acerca do objeto segundo si mesmo” — *secundum se* → “segundo si” (Key Terms).
+- `pt-BR/g2-c010.md` [30]: “que são sensíveis ou em si mesmos” → “que são sensíveis ou segundo si mesmos” — *secundum se* → “segundo si” (Key Terms).
+
+### Part terms 1 of 3, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 3 minor. Delta read das 75 alterações do round 1 e dos parágrafos vizinhos: as alterações estão corretas; corrigidas duas linhas do Key Terms (motivo segundo o lugar, mais honroso) e um “apetecemos” remanescente em g1-c014 [17].
+- `pt-BR/translation-journal.md`: “o apetitivo, o motor segundo o lugar, o intelectivo |” → “o apetitivo, o motivo segundo o lugar, o intelectivo |” — O texto de g2-c005 [3], [5], [19] e [42] passou a usar “motivo segundo o lugar”, e a linha *motivum / mobile* já fixa “motivo”; a linha estava em contradição com ambos.
+- `pt-BR/translation-journal.md`: “| honorabilius | mais digno de honra | |” → “| honorabilius | mais honroso | |” — A tradução usa “mais honroso” para *honorabilius*, em linha com *honorabilis* → honroso. “Mais digno de honra” não ocorre no texto (a auditoria o confirma).
+- `pt-BR/g1-c014.md` [17]: “nos movemos, apetecemos e nos nutrimos” → “nos movemos, desejamos e nos nutrimos” — *appetamus*: *appetere* → “desejar” (Key Terms), como já corrigido nos parágrafos [12] e [15] da mesma lição.
+- Rejected: pt-BR/g1-c001.md [52] — “da mesma espécie” ao lado de “de espécie semelhante” em [9] — O comentário diz *unius speciei*, não *similis speciei*; “da mesma espécie” é a tradução exata.
+- Rejected: pt-BR/g1-c003.md [32] — “antigos filósofos da natureza” diverge de “antigos filósofos naturais” em g1-c012 [19] — As duas formas correspondem a duas linhas do próprio Key Terms (*naturalis* e *antiqui naturales*); não há erro de sentido.
+- Rejected: pt-BR/g1-c003.md [44] — “pura e simplesmente” glosado por “em toda parte e universalmente” — A glosa de Santo Tomás está traduzida inteira, e o termo segue o Key Terms; a combinação se lê sem problema.
+- Rejected: pt-BR/g2-c001.md [35] — “segundo si mesmo” no lema, contra “segundo si mesma” em [4] — A concordância passa a seguir “aquilo”; ajustes de flexão no lema são permitidos pelas Decisões.
+
+### Part terms 1 of 3, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 1 minor. Verificadas as três alterações, os parágrafos [16]–[18] e a nota apresentada; encontrada uma falha de modo verbal.
+- `pt-BR/g1-c014.md` [17]: “que segundo qualquer parte da alma inteligimos, sentimos, nos movemos, desejamos e nos nutrimos” → “que segundo qualquer parte da alma intelijamos, sintamos, nos movamos, desejemos e nos nutramos” — A oração explicita «de modo [...] que [...] esteja» e exige o subjuntivo; o latim também traz intelligamus, sentiamus, moveamur, appetamus e nutriamur.
+
+### Part terms 1 of 3, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of g1-c014 [16]–[18] and footnote [^1]: the subjunctive fix in [17] is correct and its neighbours are intact; no defects found.
+- Rejected: pt-BR/g1-c014.md [17] — Subjunctive form “intelijamos” of *inteligir* — *inteligir* conjugates like *dirigir* (*intelijo*, *intelija*). The same form already stood later in the paragraph (“com uma intelijamos”). The subjunctive matches *intelligamus*, *sentiamus*, *moveamur*, *appetamus*, *nutriamur* and the construction “de modo [...] que [...] esteja”.
+- Rejected: pt-BR/g1-c014.md [17] — Indicative “convêm” and “tem” where the Latin has *conveniant* and *habeat* — This is an indirect question introduced by “se”. Portuguese uses the indicative there without loss of sense.
+- Rejected: translation-journal.md Key Terms (visum in actu, compati, immutare, delectabile et triste, depulsio et ictus) — Audit reports zero pt-BR occurrences — These rows concern g2-c026, g2-c028, g3-c006 and g3-c012, which are not among the paragraphs shown in this delta read. Their text cannot be checked here. The counts may also reflect inflected forms (“imutar”/“modificou”, “o visto em ato”) that the search did not match.
+
+### Part terms 2 of 3, Round 1 (codex, terms read)
+Verdict: 2 meaning-level, 33 minor. 217 parágrafos sinalizados lidos; 33 ocorrências de desvio, 1 omissão de sentido e 1 ajuste de glossário.
+- `pt-BR/translation-journal.md`: “| sensus / sentire | sentido / sentir | |” → “| sensus / sentire | sentido / sentir | No sentido de ato de sentir, também “sensação”. |” — As ocorrências distinguem corretamente a potência (“sentido”) do ato (“sensação”); a linha precisa admitir este segundo sentido.
+- `pt-BR/g2-c011.md` [52]: “pela luz do intelecto agente” → “pelo lume do intelecto agente” — *lumen* → “lume” (Key Terms); estava “luz”.
+- `pt-BR/g2-c012.md` [5]: “não se diz de modo simples” → “não se diz pura e simplesmente” — *simpliciter* → “pura e simplesmente” (Key Terms).
+- `pt-BR/g2-c012.md` [26]: “se diz ***de modo simples***” → “se diz ***pura e simplesmente***” — *simpliciter* → “pura e simplesmente” (Key Terms).
+- `pt-BR/g2-c013.md` [7]: “Dos sensíveis por si, porém” → “Dos sensíveis segundo si, porém” — *secundum se* → “segundo si” (Key Terms); estava “por si”.
+- `pt-BR/g2-c016.md` [4]: “Produz-se, porém, o que é segundo o ato” → “Produz-se, porém, o som que é segundo o ato” — O sujeito *sonus* foi omitido; o latim fala do som em ato. *(meaning)*
+- `pt-BR/g2-c017.md` [6]: “para que perceba com certeza” → “para que sinta com certeza” — *sentire* → “sentir” (Key Terms); estava “perceber”.
+- `pt-BR/g2-c018.md` [40]: “a sua força motora, contudo” → “a sua força motiva, contudo” — *motiva* → “motiva” (Key Terms: *motivum* → “motivo”); estava “motora”.
+- `pt-BR/g2-c019.md` [11]: “sobre o odorável em si mesmo” → “sobre o odorável segundo si mesmo” — *secundum se* → “segundo si” (Key Terms); estava “em si”.
+- `pt-BR/g2-c019.md` [18]: “considerado em si mesmo, frio e úmido” → “considerado segundo si mesmo, frio e úmido” — *secundum se* → “segundo si” (Key Terms); estava “em si”.
+- `pt-BR/g2-c020.md` [6]: “sofram a ação do odor respirando” → “padeçam a ação do odor respirando” — *pati* → “padecer” (Key Terms); estava “sofrer”.
+- `pt-BR/g2-c025.md` [7]: “não são imperfeitos nem privados” → “não são imperfeitos nem mutilados” — *orbata* → “mutilados” (Key Terms); estava “privados”.
+- `pt-BR/g2-c025.md` [36]: “***o fogo, porém***, por si,” → “***o fogo, porém***, segundo si,” — *secundum se* → “segundo si” (Key Terms); estava “por si”.
+- `pt-BR/g2-c025.md` [39]: “animais não ***privados***” → “animais não ***mutilados***” — *orbatis* → “mutilados” (Key Terms); estava “privados”.
+- `pt-BR/g2-c026.md` [8]: “as trevas e a luz, mas” → “as trevas e o lume, mas” — *lumen* → “lume” (Key Terms); estava “luz”.
+- `pt-BR/g2-c026.md` [10]: “o ato do ativo e do motor se faz” → “o ato do ativo e do motivo se faz” — *motivi* → “motivo” (Key Terms); estava “motor”.
+- `pt-BR/g2-c026.md` [13]: “falavam de modo absoluto de coisas” → “falavam pura e simplesmente de coisas” — *simpliciter* → “pura e simplesmente” (Key Terms).
+- `pt-BR/g2-c026.md` [13]: “não se dizem de modo absoluto” → “não se dizem pura e simplesmente” — *non simpliciter* → “não ... pura e simplesmente” (Key Terms).
+- `pt-BR/g2-c026.md` [33]: “***discernimos pela vista as trevas e a luz***” → “***discernimos pela vista as trevas e o lume***” — *lumen* → “lume” (Key Terms); estava “luz”.
+- `pt-BR/g2-c026.md` [42]: “***o ato do ativo e do motor se faz no paciente***” → “***o ato do ativo e do motivo se faz no paciente***” — *motivi* → “motivo” (Key Terms); estava “motor”.
+- `pt-BR/g2-c026.md` [47]: “falavam ***de modo absoluto***” → “falavam ***pura e simplesmente***” — *simpliciter* → “pura e simplesmente” (Key Terms).
+- `pt-BR/g2-c027.md` [11]: “se tal é o sentido e a inteligência” → “se tal é o sentido e a intelecção” — *intelligentia* → “intelecção” (Key Terms); aqui designa o ato cognoscitivo, enquanto “inteligência” sugere a faculdade. *(meaning)*
+- `pt-BR/g2-c029.md` [52]: “***que se sente***, por si e” → “***que se sente***, segundo si e” — *secundum se* → “segundo si” (Key Terms); estava “por si”.
+- `pt-BR/g3-c002.md` [22]: “mas diria simplesmente que a carne” → “mas diria pura e simplesmente que a carne” — *simpliciter* → “pura e simplesmente” (Key Terms).
+- `pt-BR/g3-c003.md` [12]: “inteligível por si mesmo e não segundo outra coisa” → “inteligível segundo si mesmo e não segundo outra coisa” — *secundum se* → “segundo si” (Key Terms); estava “por si”.
+- `pt-BR/g3-c003.md` [12]: “***se ele próprio*** por si mesmo ***é inteligível***” → “***se ele próprio*** segundo si mesmo ***é inteligível***” — *secundum seipsum* → “segundo si mesmo” (Key Terms); estava “por si mesmo”.
+- `pt-BR/g3-c004.md` [3]: “como um certo hábito, como a luz” → “como um certo hábito, como o lume” — *lumen* → “lume” (Key Terms); estava “luz”.
+- `pt-BR/g3-c004.md` [3]: “também a luz faz que as cores” → “também o lume faz que as cores” — *lumen* → “lume” (Key Terms); estava “luz”.
+- `pt-BR/g3-c004.md` [4]: “o agente é mais digno que o paciente” → “o agente é mais honroso que o paciente” — *honorabilius* → “mais honroso” (Key Terms); estava “mais digno”.
+- `pt-BR/g3-c004.md` [15]: “hábito ***como a luz***” → “hábito ***como o lume***” — *lumen* → “lume” (Key Terms); estava “luz”.
+- `pt-BR/g3-c004.md` [15]: “e a luz faz que ela seja” → “e o lume faz que ela seja” — *lumen* → “lume” (Key Terms); estava “luz”.
+- `pt-BR/g3-c004.md` [18]: “***o agente é mais digno que o paciente, e o princípio***” → “***o agente é mais honroso que o paciente, e o princípio***” — *honorabilius* → “mais honroso” (Key Terms); estava “mais digno”.
+- `pt-BR/g3-c004.md` [26]: “assim também a luz faz as cores” → “assim também o lume faz as cores” — *lumen* → “lume” (Key Terms); estava “luz”.
+- `pt-BR/g3-c004.md` [26]: “participação da luz intelectual” → “participação do lume intelectual” — *luminis* → “lume” (Key Terms); estava “luz”.
+- `pt-BR/g3-c004.md` [26]: “***como um hábito, ou luz***” → “***como um hábito, ou lume***” — *lumen* → “lume” (Key Terms); estava “luz”.
+
+### Part terms 2 of 3, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 7 minor. Delta read of 35 changes from round 1: 5 changes to “pura e simplesmente” contradict the Key Terms “de modo simples” rule; one pronoun concord broke after “lume”; the journal row for orbatus is stale.
+- `pt-BR/g2-c012.md` [5]: “não se diz pura e simplesmente o que está em potência” → “não se diz de modo simples o que está em potência” — *non simpliciter … sed multipliciter* (Tomás, n. 381): Key Terms manda “de modo simples” quando *simpliciter* se opõe a *multipliciter*; a mudança anterior inverteu a regra
+- `pt-BR/g2-c012.md` [26]: “se diz ***pura e simplesmente***” → “se diz ***de modo simples***” — *non simpliciter dicitur … sed multipliciter*: caso que a nota de Key Terms reserva para “de modo simples”
+- `pt-BR/g2-c026.md` [13]: “falavam pura e simplesmente de coisas” → “falavam de modo simples de coisas” — Tomás glosa este *simpliciter* como *sine distinctione*, oposto a *multipliciter* (n. 596): Key Terms pede “de modo simples”
+- `pt-BR/g2-c026.md` [13]: “não se dizem pura e simplesmente” → “não se dizem de modo simples” — mesmo caso: *dictis non simpliciter* = ditas de muitos modos; Key Terms pede “de modo simples”
+- `pt-BR/g2-c026.md` [47]: “falavam ***pura e simplesmente***” → “falavam ***de modo simples***” — *simpliciter, id est sine distinctione, de his quae dicuntur multipliciter*: é exatamente o caso que a nota de Key Terms reserva para “de modo simples”
+- `pt-BR/g3-c004.md` [26]: “não porque ela tenha em si” → “não porque ele tenha em si” — *ipsum* refere-se a *lumen*; depois da troca “luz” → “lume” o pronome tem de ir para o masculino
+- `pt-BR/translation-journal.md`: “| orbatus | privado | g2-c025 [7], [39]. |” → “| orbatus | mutilado | g2-c025 [7], [39]. |” — o texto de g2-c025 [7] e [39] traz agora “mutilados”, como as outras linhas de *orbata*/*orbatus*; a linha estava falsa e contraditória
+- Rejected: pt-BR/g3-c002.md [22] — “pura e simplesmente” para *simpliciter* — aqui *simpliciter* se opõe a *in quibusdam* (sem restrição), não a *multipliciter*; a forma está correta
+- Rejected: pt-BR/g2-c017.md [6] — “[está] está” repetido — é o colchete editorial *[est]* da fonte, conservado de propósito (registrado no journal)
+- Rejected: pt-BR/g2-c029.md [52] — “segundo si e não por acidente”: paralelismo desigual — segue Key Terms (*secundum se* → segundo si; *per accidens* → por acidente); o sentido não muda
+
+### Part terms 2 of 3, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 1 minor. Conferidas as sete alterações e lidos integralmente os 15 parágrafos e as notas fornecidos; alterações corretas, com um desvio terminológico menor adicional.
+- `pt-BR/g2-c026.md` [14]: “o fortemente brilhante e o escuro” → “o fortemente brilhante e o opaco” — O latim traz opacum; a tabela de termos fixa sua tradução como “opaco”.
+- Rejected: pt-BR/g2-c012.md [26], [27]; pt-BR/g2-c026.md [47] — Contagens diferentes de marcadores de ênfase. — Os trechos destacados foram divididos para acompanhar a sintaxe portuguesa; a marcação está equilibrada e conserva o conteúdo destacado.
+
+### Part terms 2 of 3, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read: checked the change “escuro” → “opaco” in g2-c026 [14] (correct) and read [13]–[15] and the footnote in full; no defects.
+- Rejected: pt-BR/g2-c026.md [13] — “destes sucede o que foi dito, mas dos outros não” could point at the wrong member (potency or act) — “destes” refers to the nearer member, “outros em ato”, which agrees with Aristotle: what was said holds of sense and sensible in act, not of those in potency
+- Rejected: pt-BR/g2-c026.md [14] — “a vista o fortemente brilhante e o opaco” reads in an unusual order — it is the elliptical continuation of “todo excesso … corrompe”; the sense is clear and it follows the Latin
+- Rejected: pt-BR/g2-c026.md [26], [30], [47]; Key Terms “visum in actu” — the mechanical audit flagged different emphasis counts and a Key Terms row with zero occurrences — those paragraphs are outside what this delta read shows; [47] was already rejected in round 3
+
+### Part terms 3 of 3, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 12 minor. 114 parágrafos sinalizados lidos; 12 ocorrências com deriva corrigidas e 1 entrada do glossário ampliada.
+- `pt-BR/translation-journal.md`: “| intelligere / intelligentia | inteligir / intelecção | |” → “| intelligere / intelligentia | inteligir / intelecção | Também “inteligência” quando designa a faculdade intelectiva. |” — Os trechos distinguem corretamente a intelecção, enquanto ato, da inteligência, enquanto faculdade; falta registrar este segundo sentido.
+- `pt-BR/g3-c006.md` [16]: “do intelecto em si mesmo” → “do intelecto segundo si mesmo” — *secundum se* → “segundo si” (Key Terms); estava “em si mesmo”.
+- `pt-BR/g3-c006.md` [31]: “embora apetecer, fugir e sentir” → “embora desejar, fugir e sentir” — *appetere* → “desejar” (Key Terms); estava “apetecer”.
+- `pt-BR/g3-c006.md` [45]: “diz simplesmente que afirma ou nega” → “diz pura e simplesmente que afirma ou nega” — *simpliciter* → “pura e simplesmente” (Key Terms); estava “simplesmente”, em oposição à afirmação ou negação apenas por analogia atribuída ao sentido.
+- `pt-BR/g3-c006.md` [48]: “***assim, pois, o intelectivo***” → “***assim, pois, as espécies***” — *species quidem igitur* refere-se às espécies; “o intelectivo” substitui o sujeito do trecho citado. *(meaning)*
+- `pt-BR/g3-c006.md` [50]: “quando se tratava dele em si mesmo” → “quando se tratava dele segundo si mesmo” — *secundum se* → “segundo si” (Key Terms); estava “em si mesmo”.
+- `pt-BR/g3-c008.md` [3]: “o mover segundo o movimento local” → “o mover com movimento segundo o lugar” — *secundum locum* → “segundo o lugar” (Key Terms); estava expresso pelo adjetivo “local”.
+- `pt-BR/g3-c009.md` [13]: “deve-se tratar deles” → “é preciso considerá-los” — *considerandum est de ipsis* → “é preciso considerá-los”, conforme “considerar” (Key Terms); estava “tratar deles”.
+- `pt-BR/g3-c009.md` [51]: “destes órgãos ***deve-se tratar***” → “estes órgãos ***devem ser considerados***” — *considerandum est* → “devem ser considerados”, conforme “considerar” (Key Terms); estava “deve-se tratar”.
+- `pt-BR/g3-c009.md` [51]: “da alma em si mesma” → “da alma segundo si mesma” — *secundum se* → “segundo si” (Key Terms); estava “em si mesma”.
+- `pt-BR/g3-c010.md` [9]: “em comum e em si mesmo” → “em comum e segundo si mesmo” — *secundum se* → “segundo si” (Key Terms); estava “em si mesmo”.
+- `pt-BR/g3-c011.md` [36]: “inteligíveis em si mesmas” → “inteligíveis segundo si mesmas” — *secundum se* → “segundo si” (Key Terms); estava “em si mesmas”.
+- `pt-BR/g3-c011.md` [63]: “permanece no seu lugar enquanto altera” → “permanece imóvel segundo o lugar enquanto altera” — *manet secundum locum* conserva “segundo o lugar” (Key Terms); estava parafraseado como “permanece no seu lugar”.
+
+### Part terms 3 of 3, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta: verifiquei as 13 correções contra o latim, todas corretas; corrigi a linha do glossário de *immutare* (g3-c006 [49]), que afirmava “modificar” onde o texto usa “imutar”.
+- `pt-BR/translation-journal.md`: “| immutare; immutatio | modificar; modificação | g3-c006 [49]. |” → “| immutare; immutatio | imutar; imutação | g3-c006 [49]. |” — A linha afirma “modificar; modificação”, mas g3-c006 [49] traz “imutado”, “imuta”, como as demais linhas do glossário para *immutare*; a auditoria confirma 0 ocorrências de “modificar”.
+- Rejected: pt-BR/g3-c006.md [45] — *simpliciter* agora “pura e simplesmente”, enquanto a linha de g3-c006 fixa “absolutamente” — A linha “absolutamente; sob certo respeito” cobre só o par *simpliciter … quodam* de [12] e [60]; aqui *simpliciter* opõe-se a *quasi*, e a linha geral “pura e simplesmente” é a adequada.
+- Rejected: pt-BR/g3-c011.md [63] — “permanece imóvel segundo o lugar” acrescenta “imóvel” — Explicita o sentido de *manet secundum locum* em contraste com o que empurra e se move; não altera o sentido.
+- Rejected: pt-BR/g3-c009.md [51] — lema em negrito “devem ser considerados” difere da forma “é preciso considerá-los” do texto em [13] — As Decisões admitem ajuste de flexão do lema quando a sintaxe o exige; a mudança de sujeito (“estes órgãos”) o justifica.
+- Rejected: pt-BR/g3-c006.md [31] — “desejar” para *appetere* fora do âmbito declarado da linha (g3-c008 a g3-c010) — É a forma do glossário para *appetere* e é coerente com “deseja” em [32]; não é defeito.
+
+### Part terms 3 of 3, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificada a única alteração desta rodada: a linha «immutare; immutatio → imutar; imutação» está coerente com as demais entradas do glossário e com a evidência registrada. Nenhum parágrafo de capítulo foi apresentado; nenhum novo defeito encontrado.
