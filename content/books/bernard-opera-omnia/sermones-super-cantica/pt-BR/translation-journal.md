@@ -13,7 +13,7 @@ Destino: pt-BR.
 | Verbum | Verbo | Convenção dos irmãos patrísticos. |
 | Spiritus sanctus | Espírito Santo | Convenção dos irmãos patrísticos. |
 | divinitas / Deitas | Divindade | Convenção dos irmãos patrísticos. |
-| substantia / essentia | substância / essência | Distinção preservada. |
+| substantia / essentia | substância / essência | Distinção preservada. No sentido patrimonial, substantia pode ser traduzida por “bens” ou “herança”. |
 | Ecclesia | Igreja | Convenção dos irmãos patrísticos. |
 | Patres | Padres | “Pais” quando designa os antepassados. |
 | sponsus / sponsa | esposo / esposa | Cristo e a Igreja ou a alma; minúsculas da fonte. |
@@ -89,7 +89,7 @@ Destino: pt-BR.
 | impassibilis / non incompassibilis | impassível / não incapaz de compaixão | Conservada a distinção entre não sofrer e compadecer-se. |
 | coelum coeli / coeli coelorum | céu do céu / céus dos céus | Em s27, designam a comunidade celeste e seus membros. |
 | continentia | continência | Distinta da caridade, da qual recebe seu mérito. |
-| coelestis / terrenus | celeste / terreno | Conservado o contraste entre origem, conduta e condição corporal. |
+| coelestis / terrenus | celeste / terreno | Conservado o contraste entre origem, conduta e condição corporal; “céus” ou “alturas” quando coelestis substantivado designa as regiões celestes. |
 | auditus / visus | ouvido, ouvir / vista, ver | Em s28, preservada a distinção entre a recepção da fé pelo ouvir e a visão como recompensa. |
 | Salomon / pacificus | Salomão / pacífico | Interpretação do nome aplicada a Cristo; conservado o itálico de *pacificus*. |
 | vinea / vitis / palmes / botrus | vinha / videira / ramo / cacho | Distinções da alegoria de s30; *sarmenta* vertido como “sarmentos”. |
@@ -101,7 +101,7 @@ Destino: pt-BR.
 | paranymphus | paraninfo | Intermediário entre os noivos, aplicado ao anjo; explicado na nota [^22]. |
 | discretio spirituum | discernimento dos espíritos | Dom mencionado em 1 Coríntios 12:10. |
 | meridies / daemonium meridianum | meio-dia / demônio do meio-dia | Conservada a imagem solar que estrutura s33; “Meio-dia” com maiúscula na designação final de Cristo. |
-| species | visão | Na oposição entre fé e visão; nos demais contextos, “forma”, “aspecto” ou “aparência”, conforme o sentido. |
+| species | visão | Na oposição entre fé e visão; nos demais contextos, “forma”, “aspecto” ou “aparência”, conforme o sentido; “espécie” em classificações e “ingrediente” na composição dos unguentos. |
 | negotium perambulans in tenebris | negócio que percorre as trevas | Conservado “negócio” para sustentar a aplicação à hipocrisia, à ambição e à compra de honras. |
 | Oriens ex alto | Oriente vindo do alto | Mantida a imagem do nascer do sol, desenvolvida no sermão. |
 | humilitas / humiliatio | humildade / humilhação | Distinção central em s34; nos contextos em que *humilitas* designa o rebaixamento sofrido, traduzido conforme o sentido por “humilhação”. |
@@ -126,7 +126,7 @@ Destino: pt-BR.
 | flos campi / lilium convallium | flor do campo / lírio dos vales | Os vales figuram os humildes em s47. |
 | opus Dei | obra de Deus | Designação beneditina do ofício divino em s47. |
 | malus | macieira | Árvore frutífera que figura a humanidade de Cristo em s48. |
-| umbra / fides / intellectus | sombra / fé / entendimento | Em s48, a sombra designa a carne de Cristo e a fé; distingue-se estar, viver e repousar à sombra. |
+| umbra / fides / intellectus | sombra / fé / entendimento | Em s48, a sombra designa a carne de Cristo e a fé; distingue-se estar, viver e repousar à sombra. Quando intellectus designa o significado ou a leitura de uma passagem, admite-se “sentido” ou “interpretação”. |
 | Phinees / Jesse | Fineias / Jessé | Formas portuguesas dos nomes bíblicos. |
 | discretio / ordinatio charitatis | discernimento / ordenação da caridade | O discernimento regula as virtudes e os afetos; conserva-se também a fórmula “ordem da caridade”. |
 | charitas actualis / charitas affectualis | caridade das obras / caridade dos afetos | Distinção desenvolvida em s50; mantidas as formas já estabelecidas no título. |
@@ -213,7 +213,7 @@ Destino: pt-BR.
 - s04, §5: “ser de todas as coisas” conserva o vocabulário do autor; a própria distinção entre causa e matéria foi mantida integralmente.
 - s05, §5: a expressão a creatura mundi foi traduzida por “pela criatura do mundo”, conforme a interpretação de Bernardo. Nota [^2] distingue essa leitura da tradução habitual “desde a criação do mundo”.
 - s05, §10: nota [^3] registra a aproximação sonora entre indulgentia e indigentia, vertidas por “condescendência” e “indigência”.
-- s06, §6: conservado “vida” para vita em “In mari vita tua”, embora a forma pareça resultar de erro por via. Não se substituiu pela redação bíblica habitual.
+- s06, §6: a fonte lê “In mari via tua”, traduzido por “No mar está vosso caminho”, sem harmonização com a redação bíblica habitual.
 - Regularizados erros mecânicos evidentes, sem alteração de conteúdo: entre outros, a carne por in carne em s02; slas por stas; honorum por bonorum; auoque por quoque; pulsos por pulses; tuum por tum em s04; benficus por beneficus; aguis por aquis; eum Patre por cum Patre. Pontuação acidental do OCR foi normalizada.
 - Nos títulos do sumário, notiiam foi entendido como notitiam, quoe como quae, audicitia como pudicitia e praevente como praeventa. O título incompleto de s27 foi vertido com “elevada ao céu”, para tornar inteligível in coelum dicatur.
 - Traduzidos os 50 parágrafos-fonte de s07–s11, incluindo cinco títulos, com preservação das divisões e das variantes editoriais.
@@ -239,7 +239,7 @@ Destino: pt-BR.
 - s15: “boceja” traduz *oscitat*, sem substituir a ação pela leitura “espirra” de outras versões de 2 Reis 4:35.
 - Regularizados lapsos mecânicos evidentes: *appellaverini*, *ex sortibus* por *exsortibus*, a duplicação *avaritiam avaritiam*, *eriri* por *oriri*, *iusuper*, *confidente indignitatem* por *confitente indignitatem*, *vultur* por *vultu*, *plantasmatum*, *inter nos* por *internos* e *ad collum* por *ad colum*. A sequência truncada *Et propter etsi* foi entendida como “Por isso, embora”; as construções sintaticamente defeituosas de s13, parágrafo-fonte 8, e s14, parágrafo-fonte 5, foram vertidas preservando seus elementos e o encadeamento do argumento.
 - Traduzidos os 40 parágrafos-fonte de s16–s19, incluindo quatro títulos, preservando as divisões; acrescentadas duas notas do tradutor imediatamente depois dos parágrafos correspondentes.
-- Mantidas as referências peculiares da fonte: *IV Reg. XXXIV* como “2 Reis 34”, sem suprir capítulo ou versículo conjectural, e *Gen. III, 2* como “Gênesis 3:2”.
+- Mantidas as referências peculiares da fonte: *IV Reg. XXXIV* como “2 Reis 4:34”, lido como lapso por *IV Reg. IV, 34*, em continuidade com 2 Reis 4:35 citado logo adiante, e *Gen. III, 2* como “Gênesis 3:2”.
 - s16, parágrafo-fonte 7: a nota [^10] explica “quadrante”, pequena moeda romana empregada na imagem da prestação de contas.
 - s16: o “quinário” dos sentidos e o “binário” da caridade foram explicitados como “cinco sentidos” e “duplo mandamento da caridade”, conservando o argumento numérico.
 - s17: preservado o caráter conjectural da interpretação sobre a inveja de Lúcifer e todas as ressalvas do autor acerca do que o Espírito afirma ou não afirma.
@@ -321,7 +321,7 @@ Destino: pt-BR.
 - s47, parágrafo-fonte 6: a nota [^31] explica a aproximação sonora entre *virgo* e *virga*, que une a imagem vegetal à virgindade de Cristo e de Maria.
 - s48, parágrafo-fonte 2: a nota [^32] esclarece a passagem de *pungeris* a *compungeris*, conservada em português por “pungido/compungido”.
 - s45, parágrafo-fonte 6: entendido conjecturalmente *copiam habeto vivendi* como *copiam habeto videndi*, “tem a possibilidade de ver”, conforme a sequência sobre a capacidade de visão espiritual.
-- s45, parágrafos-fonte 10–11: *substantia*, na distinção entre divindade e humanidade de Cristo, foi traduzido por “natureza”.
+- s45, parágrafos-fonte 10–11: *substantia*, na distinção entre divindade e humanidade de Cristo, foi traduzido por “substância”, distinguindo-o de *natura*.
 - s46, parágrafo-fonte 3: conservada a expressão “príncipes cristãos de ambas as ordens”, sem restringir a autoridade aí descrita a uma única ordem.
 - Preservadas em latim e em itálico as leituras dos aparatos: *vinum*, *ritum exhorreat*, *animam*, *lectulo uno*, *qui* e *venustatus*; traduzidas as indicações editoriais.
 - Conservadas as referências da fonte, inclusive Salmo 33:18 em s44, Salmo 44:5 em s45, 1 Pedro 2:17 em s46 e João 6:33 em s48; mantidas também as remissões internas de s45 e s47.
@@ -416,7 +416,7 @@ Destino: pt-BR.
 - Preservadas as variantes latinas do aparato editorial: *biduum*, *conniventiam*, *quaerendi*, *conscendere*, *Deo*, *datis* e *minister*; traduzida apenas a indicação editorial *alias*.
 - Conservadas as referências do texto-fonte, inclusive Filipenses 9:13, Tiago 4:7 na passagem sobre a amizade do mundo e Sabedoria 7:26 com a expressão “vida eterna”, sem harmonização com outras leituras.
 - Em s84, parágrafo-fonte 6, a construção gráfica *necnon* foi entendida conforme o paralelismo argumentativo: antes de ser buscada, a alma não podia buscar; depois de buscada, não pode deixar de buscar.
-- Em s85, parágrafo-fonte 12, mantida a leitura *charitas* em *decoris hujus charitas*, traduzida como “amor dessa beleza”, sem emendá-la para *claritas*.
+- Em s85, parágrafo-fonte 12, mantida a leitura *charitas* em *decoris hujus charitas*, traduzida como “caridade por essa beleza”, sem emendá-la para *claritas*.
 - Regularizados lapsos mecânicos evidentes: *suris* por *curis* em s83; *amore* por *amare* e *ei* por *et* no fim desse sermão; *praevente*, *Proper*, *ant*, *eadam*, *Domum*, *isti*, *expertri*, *an rem* e *cuatelam* segundo a construção e o contexto. A sequência corrompida *ita hoc ita* foi vertida conforme a oposição entre a experiência inefável e a comunicação adaptada aos ouvintes.
 
 ## Review log
@@ -642,3 +642,204 @@ Verdict: 0 meaning-level, 1 minor. Lidos integralmente os parágrafos apresentad
 Verdict: 0 meaning-level, 0 minor. Delta read of s84 [1–3]: the italic fix for the variant quaerendi is correct; the paragraphs read whole show no new defects.
 - Rejected: pt-BR/s84.md [2] — The fix italicizes the editor's words 'outra leitura' together with the Latin variant 'quaerendi', so the source's split (italic *alias*, roman variant) is not kept. — The Latin variant is now in italics as the house rule requires, and the reading and its siglum-free note are kept in place. Italicizing the whole bracket is a formatting choice, not a defect.
 - Rejected: pt-BR/s84.md [3] — 'mas se empenhar em captar' could read as a separate reflexive clause instead of a second condition after 'se alguém disser'. — The future subjunctive 'empenhar', governed by the same 'se', is grammatical, and the sense of 'studeat autem captare gloriolam' is kept.
+
+### Part terms 1 of 7, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 14 minor. 75 parágrafos sinalizados lidos; 12 ocorrências com desvio vocabular; 2 linhas do glossário completadas.
+- `pt-BR/translation-journal.md`: “| species | visão | Na oposição entre fé e visão; nos demais contextos, “forma”, “aspecto” ou “aparência”, conforme o sentido. Também “espécie” no sentido de tipo ou variedade; “ingrediente” ou “substância aromática” na composição dos unguentos; “imagem” ou “beleza” nos contextos de representação ou beleza visível. |” → “| species | visão | Na oposição entre fé e visão; nos demais contextos, “forma”, “aspecto” ou “aparência”, conforme o sentido; “espécie” em classificações e “ingrediente” na composição dos unguentos. |” — A linha não contempla os sentidos classificatório e farmacêutico, corretamente empregados em diversas ocorrências.
+- `pt-BR/translation-journal.md`: “| coelestis / terrenus | celeste / terreno | Conservado o contraste entre origem, conduta e condição corporal. |” → “| coelestis / terrenus | celeste / terreno | Conservado o contraste entre origem, conduta e condição corporal; “céus” ou “alturas” quando coelestis substantivado designa as regiões celestes. |” — A linha não contempla o uso substantivado, corretamente traduzido em s05, s06 e s07.
+- `pt-BR/s06.md` [5]: “Agora é o julgamento do mundo” → “Agora é o juízo do mundo” — *judicium* → “juízo” (Key Terms); estava “julgamento”.
+- `pt-BR/s06.md` [10]: “a fala mais descuidada” → “o discurso mais descuidado” — *sermo* → “discurso” (Key Terms); estava “fala”.
+- `pt-BR/s07.md` [3]: “no início de sua fala” → “no início de seu discurso” — *sermonis* → “discurso” (Key Terms); estava “fala”.
+- `pt-BR/s07.md` [4]: “tivesse saído da adega, na qual” → “tivesse saído do aposento do vinho, no qual” — *cella vinaria* → “aposento do vinho” (Key Terms); estava “adega”.
+- `pt-BR/s08.md` [6]: “para que, perscrutando a majestade,” → “para que, investigando a majestade,” — *scrutator majestatis* retoma a “investigação da majestade” (Key Terms); estava “perscrutando”.
+- `pt-BR/s09.md` [4]: “pelo espírito de sabedoria e de inteligência” → “pelo espírito de sabedoria e de entendimento” — *intellectus* → “entendimento” (Key Terms); estava “inteligência”.
+- `pt-BR/s09.md` [4]: “de inteligência, para alcançar” → “de entendimento, para alcançar” — *intellectus* → “entendimento” (Key Terms); estava “inteligência”.
+- `pt-BR/s09.md` [4]: “apreenderem pela inteligência” → “apreenderem pelo entendimento” — *intellectu* → “entendimento” (Key Terms); estava “inteligência”.
+- `pt-BR/s09.md` [5]: “julgara mais recatado agir por intermediários” → “julgara que agir por intermediários demonstraria mais pudor” — *verecundius* → “mais pudor” (Key Terms); estava “mais recatado”.
+- `pt-BR/s09.md` [5]: “afastado todo temor por vosso amor” → “afastado todo temor por vossa caridade” — *charitate* → “caridade” (Key Terms); estava “amor”.
+- `pt-BR/s12.md` [12]: “fazem amigos com a riqueza da iniquidade” → “fazem amigos com o Mamom da iniquidade” — *mammona* → “Mamom” (Key Terms); estava “riqueza”.
+- `pt-BR/s14.md` [7]: “senão o odor que se exalava da unção” → “senão o perfume que se exalava da unção” — *odor* → “perfume” (Key Terms); estava “odor”.
+
+### Part terms 1 of 7, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta: as 14 alterações (12 no texto, 2 na tabela de termos) estão corretas; nos parágrafos mostrados, corrigidos 2 defeitos menores: *intellectus* em s08 [7] e a decisão do diário sobre s06 §6.
+- `pt-BR/s08.md` [7]: “o Espírito de sabedoria e de inteligência que” → “o Espírito de sabedoria e de entendimento que” — *Spiritus sapientiae et intellectus*: *intellectus* → “entendimento” (Key Terms), como na mesma fórmula corrigida em s09 [4].
+- `pt-BR/translation-journal.md`: “conservado “vida” para vita em “In mari vita tua”, embora a forma pareça resultar de erro por via. Não se substituiu pela redação bíblica habitual.” → “a fonte lê “In mari via tua”, traduzido por “No mar está vosso caminho”, sem harmonização com a redação bíblica habitual.” — A fonte de s06 [6] traz *via tua*, não *vita tua*, e o PT traduz “caminho”; a decisão registrada é falsa.
+- Rejected: pt-BR/s12.md [12] — “exalando os melhores unguentos” e, no mesmo parágrafo, “perfumados com os melhores unguentos” para *fragrantia unguentis optimis* — As duas formas são defensáveis e o sentido se mantém; é escolha de estilo.
+- Rejected: pt-BR/s06.md [10] — “o discurso mais descuidado” para *sermo incautior*, numa lista de atos cotidianos — A tabela de termos admite “discurso” para *sermo*, e o sentido se mantém.
+- Rejected: pt-BR/s09.md [4] — a variante *spiritualis* aparece sem itálico — Está assim na fonte; o itálico segue o aparato fornecido.
+
+### Part terms 1 of 7, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Conferidas as duas alterações e lidos integralmente s08 [6–8]; nenhum novo defeito identificado. Os alertas de s08 [3] e complexio não podem ser verificados nos trechos fornecidos.
+- Rejected: pt-BR/s08.md [8] — O número de marcadores de itálico difere do original. — A tradução intercala «nos» fora do itálico, assim como o latim deixa «nobis» fora da citação. A diferença decorre da posição do pronome em português e preserva a delimitação da citação.
+
+### Part terms 2 of 7, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 8 minor. 65 parágrafos sinalizados lidos; 7 ocorrências de deriva corrigidas e 1 linha de glossário ampliada.
+- `pt-BR/s16.md` [3]: “duas claras luzes, a fé e a inteligência” → “duas claras luzes, a fé e o entendimento” — *intellectus* → “entendimento” (Key Terms); estava “inteligência”.
+- `pt-BR/s16.md` [8]: “por que fui amamentado ao peito” → “por que fui amamentado aos seios” — *uberibus* → “seios” (Key Terms); estava “peito”.
+- `pt-BR/s16.md` [14]: “o espírito de sabedoria e de inteligência” → “o espírito de sabedoria e de entendimento” — *intellectus* → “entendimento” (Key Terms); estava “inteligência”.
+- `pt-BR/s17.md` [9]: “A inteligência foi exercitada” → “O entendimento foi exercitado” — *intellectus* → “entendimento” (Key Terms); estava “inteligência”.
+- `pt-BR/s17.md` [9]: “Pois há boa inteligência em todos” → “Pois há bom entendimento em todos” — *intellectus* → “entendimento” (Key Terms); estava “inteligência”.
+- `pt-BR/s20.md` [8]: “algum parentesco ou prazer de minha carne” → “algum vínculo de consanguinidade ou prazer de minha carne” — *consanguinitatem* → “consanguinidade” (Key Terms); estava “parentesco”.
+- `pt-BR/s23.md` [9]: “É também o que sugere sua afirmação:” → “É também o que sugere sua palavra:” — *sermo* → “palavra” (Key Terms); estava “afirmação”.
+- `pt-BR/translation-journal.md`: “| species | visão | Na oposição entre fé e visão; nos demais contextos, “forma”, “aspecto” ou “aparência”, conforme o sentido. |” → “| species | visão | Na oposição entre fé e visão; nos demais contextos, “forma”, “aspecto” ou “aparência”, conforme o sentido. Também “espécie” no sentido de tipo ou variedade; “ingrediente” ou “substância aromática” na composição dos unguentos; “imagem” ou “beleza” nos contextos de representação ou beleza visível. |” — A linha não contemplava sentidos corretamente traduzidos e recorrentes de *species*, especialmente tipos e ingredientes aromáticos.
+
+### Part terms 2 of 7, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 1 minor. Delta read of 8 round-1 changes and their neighbours in s16, s17, s20 and s23: 1 meaning fix (pronoun concord after the s17 [9] change) and 1 minor journal correction.
+- `pt-BR/s17.md` [9]: “em todos os que a põem em prática” → “em todos os que o põem em prática” — Source: intellectus bonus omnibus facientibus eum, where eum refers to intellectus. The previous fix made the noun masculine (“entendimento”) but kept the feminine “a”, which now refers to “ação”. *(meaning)*
+- `pt-BR/translation-journal.md`: “*IV Reg. XXXIV* como “2 Reis 34”, sem suprir capítulo ou versículo conjectural” → “*IV Reg. XXXIV* como “2 Reis 4:34”, lido como lapso por *IV Reg. IV, 34*, em continuidade com 2 Reis 4:35 citado logo adiante” — The journal says the reference was kept as “2 Reis 34”, but s16 [2] reads “2 Reis 4:34”.
+- Rejected: pt-BR/translation-journal.md (species) — The species row as it stands does not match the replacement text logged for round 1. — The current row correctly covers “espécie” and “ingrediente”, so no factual error remains.
+- Rejected: pt-BR/s16.md [8] — “amamentado aos seios” may sound odd. — It follows the Key Terms row ubera → seios, and the grammar is correct.
+- Rejected: pt-BR/s20.md [8] — “vínculo de consanguinidade” adds a word. — It renders consanguinitatem with the Key Terms form, and the sentence still reads correctly.
+
+### Part terms 2 of 7, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente s17 [8–9] e verificada a correção do diário; nenhum novo defeito objetivo. As demais ocorrências apontadas pela auditoria não foram fornecidas neste delta.
+- Rejected: pt-BR/s17.md [8–9] — Diferenças na contagem dos marcadores de itálico. — Em [8], a tradução reúne a citação interrompida por «inquiens»; em [9], os marcadores adicionais distinguem as indicações editoriais das leituras latinas preservadas. Não há perda de conteúdo ou formatação defeituosa.
+
+### Part terms 3 of 7, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 9 minor. Li os 69 parágrafos sinalizados; identifiquei 10 ocorrências de desvio terminológico.
+- `pt-BR/s26.md` [8]: “em vez de terem o gosto da carne” → “em vez de terem o sabor da carne” — *sapere* → “ter sabor” (Key Terms); estava “ter o gosto”
+- `pt-BR/s27.md` [5]: “fez os céus com inteligência” → “fez os céus com entendimento” — *intellectus* → “entendimento” (Key Terms); estava “inteligência”
+- `pt-BR/s27.md` [8]: “aprendendo dele a ser recatada e sóbria” → “aprendendo dele a ser cheia de pudor e sóbria” — *verecunda* → “cheia de pudor” (Key Terms); estava “recatada”
+- `pt-BR/s30.md` [8]: “sob a imagem e o nome desta” → “sob a forma e o nome desta” — *species* → “forma” neste contexto (Key Terms); estava “imagem”
+- `pt-BR/s30.md` [10]: “se prende a uma substância inferior” → “se prende a uma essência inferior” — *essentia* → “essência” (Key Terms); “substância” desfazia a distinção expressamente preservada pelo glossário *(meaning)*
+- `pt-BR/s31.md` [8]: “nos próprios segredos do quarto” → “nos próprios segredos da câmara” — *cubiculum* → “câmara” (Key Terms); estava “quarto” na imagem da intimidade contemplativa
+- `pt-BR/s32.md` [10]: “para os deleites das adegas” → “para os deleites das despensas” — *cellarium* → “despensa” (Key Terms); estava “adega”
+- `pt-BR/s32.md` [10]: “para os próprios segredos do quarto” → “para os próprios segredos da câmara” — *cubiculum* → “câmara” (Key Terms); estava “quarto”
+- `pt-BR/s36.md` [10]: “a provocar seu embaraço” → “a provocar seu pudor” — *verecundia* → “pudor” (Key Terms); estava “embaraço”
+- `pt-BR/s36.md` [10]: “pela indulgência que lhes foi concedida” → “pela condescendência que lhes foi concedida” — *indulgentia* → “condescendência” quando designa concessão benigna (Key Terms); estava “indulgência”
+
+### Part terms 3 of 7, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 1 minor. Delta read of s26, s27, s30, s31, s32 and s36: the ten previous fixes are correct. Found one added clause in s26 [7] (meaning) and one Key Terms drift in s27 [9] (minor).
+- `pt-BR/s26.md` [7]: “De modo algum convém que te esqueças.” → “Isso de nada me adianta.” — source says Non expedit prorsus, 'it does not help at all'. Bernard answers the consoling quotation: being remembered is no help, since no one is there to stretch out a hand. 'que te esqueças' is added content and changes the sense. *(meaning)*
+- `pt-BR/s27.md` [9]: “tendo como sol a inteligência” → “tendo como sol o entendimento” — intellectus → 'entendimento' (Key Terms), as the previous round fixed in s27 [5]
+- Rejected: pt-BR/s36.md [10] — 'provocar seu pudor' for exagitare verecundiam is somewhat awkward — The Key Terms table gives verecundia → pudor, and in Portuguese pudor also covers the sense of shame here. It is a defensible choice, not a defect.
+- Rejected: pt-BR/s27.md [9] — 'Ocultar-se na prosperidade é… cautela; manifestar-se na adversidade é necessidade' expands Illud… hoc — It makes the referents of illud/hoc explicit without changing the sense.
+- Rejected: pt-BR/s30.md [10] — 'pensa segundo a carne' for carnaliter sapit, not 'tem sabor' — The Key Terms row for sapere is tied to s50. Here the Pauline sense of 'thinking according to the flesh' (Romans 8:5) fits the argument.
+
+### Part terms 3 of 7, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verifiquei as duas correções, os seis parágrafos apresentados e as notas do tradutor; não encontrei novos defeitos objetivos.
+- Rejected: pt-BR/s27.md [9] — A contagem de marcadores de itálico difere da fonte. — A tradução reúne segmentos contíguos da mesma citação em um único trecho de itálico, sem perder conteúdo nem destaque.
+
+### Part terms 4 of 7, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 14 minor. Lidos os 70 parágrafos sinalizados; identificados 12 desvios e complementadas 2 linhas do glossário.
+- `pt-BR/s38.md` [6]: “ao perscrutar a majestade” → “ao investigar a majestade” — *scrutatrix majestatis* → investigar a majestade, conforme “investigação da majestade” (Key Terms).
+- `pt-BR/s39.md` [11]: “a benevolência tão grande do Verbo” → “a condescendência tão grande do Verbo” — *dignatio* → “condescendência” (Key Terms); estava “benevolência”.
+- `pt-BR/s41.md` [2]: “por sua benevolência nos concedeu” → “por sua condescendência nos concedeu” — *dignatio* → “condescendência” (Key Terms); estava “benevolência”.
+- `pt-BR/s41.md` [4]: “a realidade da luz límpida” → “a substância da luz límpida” — *substantia* → “substância” (Key Terms); estava “realidade”.
+- `pt-BR/s42.md` [10]: “para tão grande benevolência” → “para tão grande condescendência” — *dignatio* → “condescendência” (Key Terms); estava “benevolência”.
+- `pt-BR/s45.md` [11]: “a beleza de ambas as naturezas” → “a beleza de ambas as substâncias” — *utriusque substantiae* → “ambas as substâncias”, preservando a escolha “substância” de Key Terms.
+- `pt-BR/s49.md` [4]: “e implorares misericórdia” → “e implorares piedade” — *pietas* → “piedade” (Key Terms); estava “misericórdia”.
+- `pt-BR/s49.md` [4]: “O rei me introduziu na adega” → “O rei me introduziu no aposento do vinho” — *cella vinaria* → “aposento do vinho” (Key Terms); estava “adega”.
+- `pt-BR/s49.md` [4]: “procede da adega” → “procede do aposento do vinho” — *cella vinaria* → “aposento do vinho” (Key Terms); estava “adega”.
+- `pt-BR/s49.md` [4]: “foi introduzido na adega” → “foi introduzido no aposento do vinho” — *cella vinaria* → “aposento do vinho” (Key Terms); estava “adega”.
+- `pt-BR/s49.md` [6]: “parece ter trazido da adega” → “parece ter trazido do aposento do vinho” — *cella vinaria* → “aposento do vinho” (Key Terms); estava “adega”.
+- `pt-BR/s51.md` [2]: “da adega na qual” → “do aposento do vinho no qual” — *cella vinaria* → “aposento do vinho” (Key Terms); estava “adega”; ajustada a concordância.
+- `pt-BR/translation-journal.md`: “| substantia / essentia | substância / essência | Distinção preservada. |” → “| substantia / essentia | substância / essência | Distinção preservada. No sentido patrimonial, substantia pode ser traduzida por “bens” ou “herança”. |” — Em s44 e s46, *substantia* designa corretamente o patrimônio do filho pródigo, não a substância em sentido ontológico.
+- `pt-BR/translation-journal.md`: “| umbra / fides / intellectus | sombra / fé / entendimento | Em s48, a sombra designa a carne de Cristo e a fé; distingue-se estar, viver e repousar à sombra. |” → “| umbra / fides / intellectus | sombra / fé / entendimento | Em s48, a sombra designa a carne de Cristo e a fé; distingue-se estar, viver e repousar à sombra. Quando intellectus designa o significado ou a leitura de uma passagem, admite-se “sentido” ou “interpretação”. |” — Em s44, s47 e s54, *intellectus* tem reiteradamente sentido exegético, corretamente traduzido por “sentido” ou “interpretação”.
+
+### Part terms 4 of 7, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 11 minor. Delta de s38, s39, s41, s42, s45, s49 e s51 e duas linhas do Diário: “adega” restante em s49 [3] e [5], qualificativo perdido em s39 [11], incoerência sobre substantia em s45 [10] e no Diário, vírgula em s49 [4].
+- `pt-BR/s39.md` [11]: “a condescendência tão grande do Verbo” → “a condescendência tão benigna do Verbo” — o latim diz *nimium benigna dignatio*; com a troca de “benevolência” por “condescendência”, o qualificativo *benigna* deixou de estar expresso
+- `pt-BR/s45.md` [10]: “em ambas as naturezas de Cristo” → “em ambas as substâncias de Cristo” — *utraque Christi substantia*; deve concordar com “ambas as substâncias” em [11] e distinguir-se de *naturae*, traduzido por “natureza” logo em seguida
+- `pt-BR/translation-journal.md`: “s45, parágrafos-fonte 10–11: *substantia*, na distinção entre divindade e humanidade de Cristo, foi traduzido por “natureza”.” → “s45, parágrafos-fonte 10–11: *substantia*, na distinção entre divindade e humanidade de Cristo, foi traduzido por “substância”, distinguindo-o de *natura*.” — a decisão registrada no Diário ficou falsa depois da correção para “substâncias”
+- `pt-BR/s49.md` [3]: “*O rei me introduziu na adega.* Deixo de dizer que adega é essa” → “*O rei me introduziu no aposento do vinho.* Deixo de dizer que aposento do vinho é esse” — *cella vinaria* → “aposento do vinho” (Key Terms); o mesmo arquivo já usa essa forma em [4] e [6]
+- `pt-BR/s49.md` [3]: “introduzidos na adega” → “introduzidos no aposento do vinho” — *cella vinaria* → “aposento do vinho” (Key Terms)
+- `pt-BR/s49.md` [3]: “ter sido uma adega aquela casa” → “ter sido um aposento do vinho aquela casa” — *cella vinaria* → “aposento do vinho” (Key Terms)
+- `pt-BR/s49.md` [3]: “*O rei me introduziu na adega*?” → “*O rei me introduziu no aposento do vinho*?” — *cella vinaria* → “aposento do vinho” (Key Terms)
+- `pt-BR/s49.md` [5]: “entrou na adega” → “entrou no aposento do vinho” — *cella vinaria* → “aposento do vinho” (Key Terms)
+- `pt-BR/s49.md` [5]: “senão da adega” → “senão do aposento do vinho” — *e cella vinaria* → “do aposento do vinho” (Key Terms)
+- `pt-BR/s49.md` [5]: “*O rei me introduziu na adega.*” → “*O rei me introduziu no aposento do vinho.*” — *cella vinaria* → “aposento do vinho” (Key Terms)
+- `pt-BR/s49.md` [4]: “e a outros outros dons semelhantes” → “e a outros, outros dons semelhantes” — *aliaque aliis*; sem a vírgula da elipse, a sequência se lê como palavra duplicada
+- Rejected: pt-BR/s38.md [6] — repetição de “investigar” em três orações próximas — corresponde a *investigare* / *scrutatrix* / *inquirere*; é escolha de estilo e segue a Key Terms
+- Rejected: pt-BR/s49.md [4] — “implorares piedade” para *flagites pietatem* — segue a Key Terms (*pietas* → “piedade”), e “piedade” em português também significa compaixão
+- Rejected: pt-BR/s41.md [2], [4]; pt-BR/s42.md [10]; pt-BR/s51.md [2] — verificação das trocas da rodada anterior — estão corretas quanto ao latim e à concordância
+
+### Part terms 4 of 7, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 7 minor. Verificados os 11 ajustes anteriores e lidos integralmente os 10 parágrafos apresentados, a nota e o Diário; encontrados 7 desvios menores da tabela de termos, sem defeitos de sentido.
+- `pt-BR/s49.md` [2]: “O rei me introduziu na adega, ordenou” → “O rei me introduziu no aposento do vinho, ordenou” — Cella vinaria corresponde a “aposento do vinho” na tabela de termos.
+- `pt-BR/s49.md` [2]: “ela que entrara na adega” → “ela que entrara no aposento do vinho” — Cella vinaria corresponde a “aposento do vinho” na tabela de termos.
+- `pt-BR/s49.md` [2]: “*O rei me introduziu na adega.*” → “*O rei me introduziu no aposento do vinho.*” — Cella vinaria corresponde a “aposento do vinho” na tabela de termos.
+- `pt-BR/s49.md` [2]: “volta às jovens” → “volta às donzelas” — Adolescentulae corresponde a “donzelas” na tabela de termos.
+- `pt-BR/s49.md` [2]: “fala dele às jovens” → “fala dele às donzelas” — Adolescentulae corresponde a “donzelas” na tabela de termos.
+- `pt-BR/s49.md` [2]: “ao passo que as jovens” → “ao passo que as donzelas” — Adolescentulae corresponde a “donzelas” na tabela de termos.
+- `pt-BR/s49.md` [6]: “sobretudo pelas jovens” → “sobretudo pelas donzelas” — Adolescentulae corresponde a “donzelas” na tabela de termos.
+- Rejected: pt-BR/s39.md [11]; pt-BR/s49.md [3] — Quantidade menor de marcadores de itálico. — As traduções unem segmentos de uma mesma citação separados no latim por intervenções do narrador; os trechos citados continuam em itálico.
+- Rejected: pt-BR/s49.md [4] — Um par de parênteses a menos. — O inciso sobre a oração do justo foi preservado entre travessões.
+
+### Part terms 4 of 7, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of s49 [1]-[3], [5]-[7]: the seven Key Terms changes (aposento do vinho, donzelas) are correct, with no breaks in concord or meaning; no defects.
+- Rejected: pt-BR/s49.md [2] — “a menos que se diga que o amor é vinho” for *nisi quod amor vinum est* — It renders the restrictive *nisi quod* acceptably and keeps the identification of love with wine; this is a style choice, not a change of sense.
+- Rejected: pt-BR/s49.md [3] — Fewer emphasis markers than the source (audit) — Round 3 already rejected this: segments of one quotation are joined, and all quoted text stays in italics.
+- Rejected: pt-BR/translation-journal.md (complexio) — Audit: “constituição corporal” ×0 in pt-BR — The term occurs in s30 and its note [^21], which this delta read does not show; it cannot be checked or fixed from the text given.
+
+### Part terms 5 of 7, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 11 minor. 71 parágrafos sinalizados lidos; 9 apresentavam deriva terminológica, corrigida em 11 trechos.
+- `pt-BR/s59.md` [3]: “O céu dos céus pertence ao Senhor” → “O céu do céu pertence ao Senhor” — *Coelum coeli* → “céu do céu” (Key Terms); preserva a forma singular do latim.
+- `pt-BR/s60.md` [11]: “a própria fé será substituída pela compreensão” → “a própria fé será substituída pelo entendimento” — *intellectus* → “entendimento” (Key Terms); estava “compreensão”.
+- `pt-BR/s61.md` [5]: “nos visitou o Sol nascente do alto” → “nos visitou o Oriente vindo do alto” — *oriens ex alto* → “Oriente vindo do alto” (Key Terms); estava “Sol nascente do alto”.
+- `pt-BR/s61.md` [7]: “Irei àqueles aposentos tão repletos” → “Irei àquelas despensas tão repletas” — *cellaria* → “despensas” (Key Terms); estava “aposentos”.
+- `pt-BR/s64.md` [11]: “Para a Igreja vinda das nações?” → “Para a Igreja dos gentios?” — *Ecclesiae de gentibus* → “Igreja dos gentios” (Key Terms); estava “Igreja vinda das nações”.
+- `pt-BR/s65.md` [5]: “tua cama, junto à cama dela no quarto” → “teu leito, junto ao leito dela no quarto” — *lectus / lectum* → “leito” (Key Terms); estavam traduzidos por “cama”.
+- `pt-BR/s67.md` [2]: “assusta a inteligência quanto mais a exercita” → “assusta o entendimento quanto mais o exercita” — *intellectum* → “entendimento” (Key Terms); estava “inteligência”.
+- `pt-BR/s67.md` [2]: “toda a sua inteligência é reduzida ao cativeiro” → “todo o seu entendimento é reduzido ao cativeiro” — *omnem intellectum* → “todo o entendimento” (Key Terms); estava “toda a inteligência”.
+- `pt-BR/s67.md` [4]: “falou o afeto, não a inteligência” → “falou o afeto, não o entendimento” — *intellectus* → “entendimento” (Key Terms); estava “inteligência”.
+- `pt-BR/s67.md` [4]: “por isso não se dirigiu à inteligência” → “por isso não se dirigiu ao entendimento” — *ad intellectum* → “ao entendimento” (Key Terms); estava “à inteligência”.
+- `pt-BR/s69.md` [7]: “aquele zelo de bondade que arde suavemente” → “aquele zelo de piedade que arde suavemente” — *pietatis* → “de piedade” (Key Terms); estava “de bondade”.
+
+### Part terms 5 of 7, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of s59, s60, s61, s64, s65, s67 and s69: all 11 Key Terms fixes are correct against the Latin and broke no concord or neighbouring sentence; no new defects in the paragraphs shown.
+- Rejected: pt-BR/s61.md [7] — Concord after “aposentos” → “despensas” — “àquelas despensas tão repletas” agrees in gender and number; the rest of the sentence is unaffected.
+- Rejected: pt-BR/s67.md [2] — Pronoun after the switch to “entendimento” — “assusta o entendimento quanto mais o exercita” and “todo o seu entendimento é reduzido” are both adjusted to the masculine.
+- Rejected: pt-BR/s64.md [11] — “aquele que não tem igual” for *qui socium non habet* — It renders Bernard's point about divine singularity, which “singularitas associata est” picks up below; a defensible choice.
+- Rejected: pt-BR/s69.md [8] — “uma vez que a alma pode contemplar” for *cum semel ... poterit* — “uma vez que” also reads as “once” here, and the sense of conformity following the vision is kept; not an objective error.
+- Rejected: pt-BR/s60.md [11] — “Possuo ambos” for feminine *utramque* — It refers back to “o amor de Deus e do próximo”, which is masculine in Portuguese; the concord is correct.
+
+### Part terms 6 of 7, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 16 minor. 72 parágrafos sinalizados lidos; 16 ocorrências com desvio terminológico.
+- `pt-BR/s70.md` [2]: “dispõe suas palavras com discernimento” → “dispõe suas palavras com juízo” — *judicium* → “juízo” (Key Terms); estava “discernimento”.
+- `pt-BR/s70.md` [6]: “cujo esplendor ilumina a inteligência” → “cujo esplendor ilumina o entendimento” — *intellectus* → “entendimento” (Key Terms); estava “inteligência”.
+- `pt-BR/s71.md` [4]: “certa alvura de bondade” → “certa alvura de piedade” — *pietas* → “piedade” (Key Terms); estava “bondade”.
+- `pt-BR/s71.md` [5]: “com o pão da vida e da inteligência” → “com o pão da vida e do entendimento” — *intellectus* → “entendimento” (Key Terms); estava “inteligência”.
+- `pt-BR/s76.md` [1]: “solícitos, vigilantes e prudentes” → “solícitos, vigilantes e dotados de discernimento” — *discreti* → “dotados de discernimento” (Key Terms); estava “prudentes”, no contexto do discernimento pastoral.
+- `pt-BR/s76.md` [10]: “deixo isso à bondade do alto” → “deixo isso à piedade do alto” — *pietas* → “piedade” (Key Terms); estava “bondade”.
+- `pt-BR/s79.md` [5]: “e no aposento daquela que me gerou” → “e na câmara daquela que me gerou” — *cubiculum* → “câmara” (Key Terms); estava “aposento”.
+- `pt-BR/s79.md` [6]: “e no aposento daquela que me gerou” → “e na câmara daquela que me gerou” — *cubiculum* → “câmara” (Key Terms); estava “aposento”.
+- `pt-BR/s79.md` [7]: “mas também no aposento” → “mas também na câmara” — *cubiculum* → “câmara” (Key Terms); estava “aposento”.
+- `pt-BR/s79.md` [7]: “o segredo do aposento assinala” → “o segredo da câmara assinala” — *cubiculum* → “câmara” (Key Terms); estava “aposento”.
+- `pt-BR/s79.md` [7]: “merece recebê-lo no aposento” → “merece recebê-lo na câmara” — *cubiculum* → “câmara” (Key Terms); estava “aposento”.
+- `pt-BR/s79.md` [7]: “*E no aposento daquela que me gerou.*” → “*E na câmara daquela que me gerou.*” — *cubiculum* → “câmara” (Key Terms); estava “aposento”.
+- `pt-BR/s84.md` [2]: “*Em meu leito, durante as noites” → “*Em meu pequeno leito, durante as noites” — *lectulus* → “pequeno leito” (Key Terms); estava “leito”, sem o diminutivo.
+- `pt-BR/s84.md` [4]: “*Em meu leito, durante as noites” → “*Em meu pequeno leito, durante as noites” — *lectulus* → “pequeno leito” (Key Terms); estava “leito”, sem o diminutivo.
+- `pt-BR/s85.md` [2]: “*Em meu leito, busquei” → “*Em meu pequeno leito, busquei” — *lectulus* → “pequeno leito” (Key Terms); estava “leito”, sem o diminutivo.
+- `pt-BR/s85.md` [12]: “o amor dessa beleza tiver enchido” → “a caridade por essa beleza tiver enchido” — *charitas* → “caridade” (Key Terms); estava “amor”.
+
+### Part terms 6 of 7, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Leitura delta de s70, s71, s76, s79, s84 e s85: os 16 ajustes terminológicos estão corretos; corrigidos o registro desatualizado no diário sobre s85 [12] e o itálico de uma variante do aparato em s71 [4].
+- `pt-BR/translation-journal.md`: “traduzida como “amor dessa beleza”” → “traduzida como “caridade por essa beleza”” — A rodada anterior mudou s85 [12] para “a caridade por essa beleza”; o diário ainda registra “amor dessa beleza”.
+- `pt-BR/s71.md` [4]: “[ *em outros textos,* facies]” → “[ *em outros textos,* *facies*]” — As leituras latinas do aparato ficam em itálico, como *fide* e *in coelestibus* em s79 [4]; *facies* estava em redondo.
+- Rejected: pt-BR/s85.md [12] — Depois da troca por “caridade”, o pronome “ela” e a expressão “essa beleza que resplandece” poderiam ter perdido o antecedente. — “ela” retoma “a caridade”, como *charitas* na fonte. “essa beleza” ainda nomeia o objeto do qual a caridade se ocupa. A frase continua clara e fiel.
+- Rejected: pt-BR/s84.md [4] — A súplica do Salmo 118:176 está em “tu” (“busca teu servo”), enquanto outras citações dirigidas a Deus usam “vós”. — As duas ocorrências dentro do arquivo são consistentes entre si. É uma escolha de tratamento numa citação, sem mudança de sentido.
+- Rejected: translation-journal.md, linha complexio — A auditoria indica “constituição corporal” ×0 no pt-BR. — O termo aparece em s30, que não está entre os parágrafos desta leitura delta. Não há como verificar a forma usada nem propor uma correção segura.
+- Rejected: pt-BR/s71.md [5] — A pergunta *quomodo pascebat?* foi vertida como exclamação. — A fonte usa uma pergunta retórica de admiração. A exclamação conserva o sentido.
+
+### Part terms 6 of 7, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificados os dois ajustes anteriores e lidos integralmente s71 [3–5], a nota [^47] e o registro alterado no diário; nenhum defeito encontrado.
+- Rejected: pt-BR/s71.md [5] — A auditoria aponta um par de parênteses a menos na tradução. — O inciso “Illas loquor, nam lilia erant” foi preservado entre travessões; não há perda de conteúdo.
+
+### Part terms 7 of 7, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 8 minor. 14 flags lidos em 7 parágrafos; 4 flags apresentavam desvio, corrigidos em 8 ocorrências.
+- `pt-BR/s86.md` [3]: “pois o busca no leito e durante as noites” → “pois o busca no pequeno leito e durante as noites” — *lectulo* → “pequeno leito” (Key Terms); preserva o diminutivo.
+- `pt-BR/s86.md` [3]: “Em meu leito, durante as noites” → “Em meu pequeno leito, durante as noites” — *lectulo* → “pequeno leito” (Key Terms); preserva o diminutivo.
+- `pt-BR/s86.md` [3]: “tanto a noite como o leito oferecem recolhimento” → “tanto a noite como o pequeno leito oferecem recolhimento” — *lectulus* → “pequeno leito” (Key Terms); preserva o diminutivo.
+- `pt-BR/s86.md` [3]: “entrar no quarto (Mateus 6:6)” → “entrar na câmara (Mateus 6:6)” — *cubiculum* → “câmara” (Key Terms); estava “quarto”.
+- `pt-BR/s86.md` [4]: “procurava o recolhimento do leito e da noite” → “procurava o recolhimento do pequeno leito e da noite” — *lectuli* → “pequeno leito” (Key Terms); preserva o diminutivo.
+- `pt-BR/s86.md` [5]: “os segredos desse leito e desse tempo” → “os segredos desse pequeno leito e desse tempo” — *lectuli* → “pequeno leito” (Key Terms); preserva o diminutivo.
+- `pt-BR/s86.md` [5]: “pelo nome de leito se figura a fraqueza humana” → “pelo nome de pequeno leito se figura a fraqueza humana” — *lectuli* → “pequeno leito” (Key Terms); o diminutivo está ligado à fraqueza humana.
+- `pt-BR/s86.md` [5]: “Isso quanto ao leito.” → “Isso quanto ao pequeno leito.” — *lectulo* → “pequeno leito” (Key Terms); preserva a distinção em relação a *lectum*, “leito”, na citação anterior.
+
+### Part terms 7 of 7, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of s86 [2]–[5]: the eight lectulus/cubiculum fixes are correct and fit their sentences; no new defects.
+- Rejected: pt-BR/s86.md [5] — Audit: emphasis markers differ (12 in the source, 10 in pt-BR). — The source splits the Ephesians quotation around *inquit*. The translation joins it into one italic span, *Caminhai como filhos da luz (Efésios 5:8).*, and the content is complete.
+- Rejected: pt-BR/s86.md [3] — “somos mandados entrar na câmara” after the change from “quarto”. — “mandar entrar” takes no preposition, and “na câmara” is correct after “entrar”. “câmara” matches the Key Terms row for *cubiculum*.
+- Rejected: pt-BR/s86.md [5] — “transformastes” renders the singular *versasti*. — The journal's decision is to use vós when addressing God, and the verb is addressed to God.
+- Rejected: pt-BR/s86.md [3] — The variant reading *minister* is not in italics. — The source does not italicize it either (“[ *alias,* minister]”). The translation keeps the source's formatting and translates *alias* as “outra leitura”.
