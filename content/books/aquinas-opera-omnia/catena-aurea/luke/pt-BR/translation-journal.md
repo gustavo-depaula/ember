@@ -23,7 +23,7 @@ Destino: pt-BR.
 | Basilius / Origenes / Damascenus | Basílio / Orígenes / Damasceno | Rubricas. |
 | Graecus expositor / Graecus | Comentador grego | Rubrica anônima. |
 | dominus / pater / filius / spiritus sanctus | Senhor / Pai / Filho / Espírito Santo | Maiúsculas nos nomes e títulos divinos; pronomes em minúsculas. |
-| verbum | Verbo / palavra | Verbo para a Pessoa divina; palavra para o anúncio e o discurso. |
+| verbum | Verbo / palavra | Verbo para a Pessoa divina; palavra para o anúncio e o discurso. Também “pergunta” quando designa a questão proposta ao interlocutor, como em interrogabo vos unum verbum. |
 | filius Dei / filius hominis | Filho de Deus / Filho do Homem | Convenção das obras próximas. |
 | Evangelium / Evangelista | Evangelho / Evangelista | Maiúsculas conforme Marcos. |
 | lex / novum testamentum / vetus testamentum | Lei / Novo Testamento / Antigo Testamento | Lei de Moisés com maiúscula. |
@@ -31,15 +31,15 @@ Destino: pt-BR.
 | incarnatio / passio / resurrectio / transfiguratio | encarnação / paixão / ressurreição / transfiguração | Minúsculas no uso corrente. |
 | dispensatio | economia da salvação | Conforme o contexto; dispensative: “segundo o desígnio da salvação”. |
 | hypostasis / hypostasis unio | hipóstase / união da hipóstase | Vocabulário cristológico; nota explicativa [^3]. |
-| gratia / fides / caritas / dilectio | graça / fé / caridade / amor | Convenções das obras próximas. |
-| sacramentum / mysterium | mistério / mistério | “Mistério” quando se trata do sentido espiritual oculto. |
+| gratia / fides / caritas / dilectio | graça / fé / caridade / amor | Convenções das obras próximas. Gratia: também “favor” no sentido de benevolência ou estima; fides: também “fidelidade” nas relações pessoais, “crédito” ou “credibilidade” quanto à confiança em relatos e testemunhos, e “certeza” quanto à demonstração silogística. |
+| sacramentum / mysterium | mistério / mistério | “Mistério” quando se trata do sentido espiritual oculto. Sacramentum: também “sacramento” quando designa um rito ou sinal sagrado, incluindo os sinais do Antigo Testamento, o batismo e a Eucaristia. |
 | remissio peccatorum | remissão dos pecados | Convenção das obras próximas. |
 | anima | alma | Pode significar vida; preservada a continuidade lexical na exposição de Lucas 9:24. |
-| virtus / potestas | poder, força ou virtude / poder | Distinção contextual entre capacidade miraculosa e virtude moral. |
+| virtus / potestas | poder, força ou virtude / poder | Distinção contextual entre capacidade miraculosa e virtude moral. Virtus também admite “milagres” ou “prodígios” para atos miraculosos, “potências” para seres angélicos e “capacidade” para faculdades naturais ou intelectuais; dominus virtutum admite “Senhor dos exércitos”. Potestas admite “autoridade” quando designa quem governa. |
 | sollicitudo | inquietação | Quando se refere às preocupações da vida; conforme Mateus. |
 | sacerdos / sacerdotium / princeps sacerdotum | sacerdote / sacerdócio / príncipe dos sacerdotes | Convenção de Marcos. |
 | daemon / diabolus | demônio / diabo | Minúsculas. |
-| apostoli / discipuli / gentes / Iudaei | apóstolos / discípulos / gentios / judeus | Convenção das obras próximas. |
+| apostoli / discipuli / gentes / Iudaei | apóstolos / discípulos / gentios / judeus | Convenção das obras próximas. Gens/gentes: também “nação/nações” quando designa povos como coletividades, inclusive nas citações sobre a herança das nações e os conflitos entre nações. |
 | Ioannes Baptista / Moyses / Elias / Ieremias / Isaias | João Batista / Moisés / Elias / Jeremias / Isaías | Nomes bíblicos. |
 | Petrus / Iacobus / Ioannes / Andreas / Philippus | Pedro / Tiago / João / André / Filipe | Nomes dos apóstolos. |
 | Herodes / Emmanuel / Noe / Adam | Herodes / Emanuel / Noé / Adão | Formas portuguesas. |
@@ -110,7 +110,7 @@ Destino: pt-BR.
 | gehenna | geena | Conservada a designação latina. |
 | Theognostus / Novatus | Teognosto / Novato | Nomes conservados conforme o latim. |
 | Iulianus apostata / Ioiada | Juliano, o Apóstata / Joiada | Nomes próprios. |
-| fortitudo / impoenitentia | fortaleza / impenitência | Termos teológicos. |
+| fortitudo / impoenitentia | fortaleza / impenitência | Termos teológicos. Fortitudo: também “força” quando designa poder ou vigor, como na explicação do nome Gabriel e na citação “Guardarei minha força para vós”. |
 | iugerum | jeira | Medida de superfície agrícola; nota [^18]. |
 | Gregorius Nazianzenus | Gregório Nazianzeno | Rubrica patrística. |
 | Maximus / Isidorus / Titus | Máximo / Isidoro / Tito | Conservada a identificação abreviada das rubricas latinas. |
@@ -213,7 +213,7 @@ Destino: pt-BR.
 | timoratus | aquele que teme a Deus | Em g23-c009, §18; não adotado “temerário” da referência inglesa. |
 | Apollinaris / Dionysius Alexandrinus / Prosper | Apolinário / Dionísio de Alexandria / Próspero | Formas portuguesas das rubricas e do comentário. |
 | Malchus / Phinees / Ionathas | Malco / Fineias / Jônatas | Nomes bíblicos. |
-| princeps sacerdotum / principes sacerdotum | sumo sacerdote / chefes dos sacerdotes | Distinção entre o titular singular e o grupo dirigente. |
+| princeps sacerdotum / principes sacerdotum | sumo sacerdote / chefes dos sacerdotes | Distinção entre o titular singular e o grupo dirigente. “Sumos sacerdotes” quando o plural designa individualmente titulares do sumo sacerdócio, como Anás e Caifás. |
 | viride lignum / aridum lignum | lenho verde / lenho seco | Conservada a imagem comum ao versículo e às interpretações. |
 | sinite usque huc | deixai que cheguem até aqui | Formulação segundo a interpretação explícita de Agostinho em g23-c013, §24. |
 | Calvaria | Calvário | Mantida a relação com “crânio” na nota [^49]. |
@@ -278,7 +278,7 @@ Destino: pt-BR.
 | quae vobis est gratia? | que mérito tendes? | Fórmula das perguntas sobre amor, benefício e empréstimo em Lucas 6. |
 | fenus / usura | juros / usura | “Juros” no argumento econômico; “usurários” para *feneratores*. |
 | festuca / trabes | cisco / trave | Imagens da correção fraterna. |
-| irascibilis / concupiscibilis | irascível / concupiscível | Partes ou potências da alma na interpretação de Teofilacto. |
+| irascibilis / concupiscibilis | irascível / concupiscível | Partes ou potências da alma na interpretação de Teofilato. |
 | de Serm. Dom. / de quaest. Evang. / de Cons. Evang. | sobre o Sermão do Senhor / sobre as Questões dos Evangelhos / sobre a Concordância dos Evangelistas | Formas das referências nas rubricas de Agostinho. |
 | loculus / feretrum | esquife | Suporte em que o morto é transportado; mantida a mesma imagem na interpretação espiritual. |
 | Novatus | Novato | Forma do nome no latim; não substituída por Novaciano. |
@@ -499,7 +499,7 @@ Destino: pt-BR.
 - Em g21-c004, §11, conservado o passado de *potuerunt*, “puderam”, distinguindo-o do futuro *poterunt* citado em §24; passagem indicada para revisão textual.
 - Em g21-c004, §18, conservada “castidade”, conforme *castitatis*, sem adotar “caridade” nem acrescentar a frase ausente do latim. Em §30, conservada a citação “Meus eleitos beberão”, sem substituí-la pela referência inglesa.
 - Em g21-c005, §7, conservado *admittitur* como “é admitido”. Em §13, mantida a sequência dos demonstrativos de *hoc ... illud* como “este ... aquele”; a aparente inversão de seus referentes foi preservada e indicada para revisão textual.
-- Em g22-c001, §7, conservados os termos *phylattin*, *gaza* e *gazophylacium* na explicação etimológica; *discutit* foi vertido por “examina”, sem adotar a expulsão sugerida pela referência inglesa.
+- Em g22-c001, §7, conservados os termos *phylattin* e *gaza* na explicação etimológica, com *gazophylacium* vertido por “gazofilácio”; *discutit* foi vertido por “examina”, sem adotar a expulsão sugerida pela referência inglesa.
 - Em g22-c002, §11, *Dei verbum* foi entendido como sujeito que concede o dom, “o Verbo de Deus”; conservado o futuro “se aproximará” da citação desse comentário, distinto de “se aproximou” em §5.
 - Em g22-c004, §12, conservada a rubrica *Graecus* como “Um comentador grego”. Em §13, *mortes inferunt* foi entendido como a morte infligida pelos perseguidores aos discípulos, sem acrescentar a morte dos próprios perseguidores.
 - Em g22-c005, §8, conservado *illustris Antiochi* como “do ilustre Antíoco”, sem identificar o rei pelo epíteto acrescentado na referência inglesa. Em §23, *ablactare* foi traduzido por “desmamar”, preservando a progressão da alegoria.
@@ -902,3 +902,148 @@ Verdict: 0 meaning-level, 3 minor. Lidos os nove parágrafos apresentados, a not
 Verdict: 0 meaning-level, 0 minor. Delta read of the three round-4 journal corrections on the gerund 'descendo': all accurate and consistent with the entries they replace; no chapter text changed; no defects.
 - Rejected: pt-BR/translation-journal.md, Round 3 entries for g7-c004 [2] and [5] — The corrected rationale says 'descender' also admits the sense 'descer', which may be an unsupported claim — Dictionaries record 'descender' in the sense of 'descer', though as an archaic sense. The claim is not false, and the corrected entries now correctly say that 'descendo' was a valid gerund.
 - Rejected: pt-BR/g7-c004.md [2], [5] — Revert 'descendendo' to 'descendo' — This is outside the delta: the paragraphs were not shown. The revert was also already rejected in round 4, and there is no new argument beyond preference for the more usual form.
+
+### Part terms 1 of 4, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 28 minor. 210 flags lidos; 23 apresentavam deriva terminológica; uma linha do glossário foi completada.
+- `pt-BR/translation-journal.md`: “| virtus / potestas | poder, força ou virtude / poder | Distinção contextual entre capacidade miraculosa e virtude moral. Virtus: também “prodígio” quando designa um feito miraculoso e “potência” quando designa seres espirituais ou potências celestes; potestas: também “autoridade” quanto ao direito de governar ou agir e “potestade” como designação angélica. |” → “| virtus / potestas | poder, força ou virtude / poder | Distinção contextual entre capacidade miraculosa e virtude moral. Virtus também admite “milagres” ou “prodígios” para atos miraculosos, “potências” para seres angélicos e “capacidade” para faculdades naturais ou intelectuais; dominus virtutum admite “Senhor dos exércitos”. Potestas admite “autoridade” quando designa quem governa. |” — Completa a linha com sentidos distintos, recorrentes e corretamente traduzidos nos trechos.
+- `pt-BR/g10-c003.md` [10]: “o sofrimento de João” → “a paixão de João” — *passio* → “paixão” (Key Terms); aqui designa o martírio de João.
+- `pt-BR/g10-c004.md` [6]: “pelos príncipes dos sacerdotes” → “pelos chefes dos sacerdotes” — *principes sacerdotum* → “chefes dos sacerdotes” (linha específica dos Key Terms).
+- `pt-BR/g10-c004.md` [16]: “evitar a ostentação” → “evitar a vanglória” — *iactantia* → “vanglória” (Key Terms); estava “ostentação”.
+- `pt-BR/g10-c004.md` [18]: “pelos príncipes dos sacerdotes” → “pelos chefes dos sacerdotes” — *principes sacerdotum* → “chefes dos sacerdotes” (linha específica dos Key Terms).
+- `pt-BR/g11-c009.md` [7]: “derramando nelas azeite e vinho” → “derramando nelas óleo e vinho” — *oleum* → “óleo” (Key Terms); estava “azeite”.
+- `pt-BR/g11-c009.md` [41]: “derramando nelas azeite e vinho” → “derramando nelas óleo e vinho” — *oleum* → “óleo” (Key Terms); estava “azeite”.
+- `pt-BR/g11-c009.md` [43]: “o azeite é a consolação” → “o óleo é a consolação” — *oleum* → “óleo” (Key Terms); estava “azeite”.
+- `pt-BR/g11-c009.md` [45]: “no azeite, a suavidade” → “no óleo, a suavidade” — *oleum* → “óleo” (Key Terms); estava “azeite”.
+- `pt-BR/g11-c009.md` [45]: “com o azeite se aliviem” → “com o óleo se aliviem” — *oleum* → “óleo” (Key Terms); estava “azeite”.
+- `pt-BR/g11-c009.md` [46]: “humanidade é o azeite;” → “humanidade é o óleo;” — *oleum* → “óleo” (Key Terms); estava “azeite”.
+- `pt-BR/g11-c009.md` [46]: “se não houvesse o azeite,” → “se não houvesse o óleo,” — *oleum* → “óleo” (Key Terms); estava “azeite”.
+- `pt-BR/g11-c009.md` [46]: “Derramou, portanto, azeite e vinho” → “Derramou, portanto, óleo e vinho” — *oleum* → “óleo” (Key Terms); estava “azeite”.
+- `pt-BR/g11-c009.md` [47]: “e o azeite do crisma” → “e o óleo do crisma” — *oleum* → “óleo” (Key Terms); estava “azeite”.
+- `pt-BR/g11-c009.md` [47]: “Depois de derramar vinho e azeite” → “Depois de derramar vinho e óleo” — *oleum* → “óleo” (Key Terms); estava “azeite”.
+- `pt-BR/g12-c006.md` [10]: “doador de toda força” → “doador de toda fortaleza” — *fortitudo* → “fortaleza” (Key Terms); aqui é a fortaleza concedida pelo Verbo.
+- `pt-BR/g12-c008.md` [4]: “pela ação cooperante do Espírito Santo” → “com a cooperação do poder do Espírito Santo” — *virtus* → “poder” (Key Terms); *cooperante virtute* estava parafraseado como “ação cooperante”.
+- `pt-BR/g12-c009.md` [5]: “Os homens de Nínive” → “Os homens ninivitas” — *Ninivitae* → “ninivitas” (Key Terms); estava “de Nínive”.
+- `pt-BR/g12-c009.md` [18]: “Crisóstomo, Sobre Mateus.” → “Crisóstomo, Comentário sobre Mateus.” — *super Matthaeum* → “Comentário sobre Mateus” (Key Terms), preservando a distinção entre rubricas.
+- `pt-BR/g12-c010.md` [13]: “Crisóstomo, Sobre Mateus.” → “Crisóstomo, Comentário sobre Mateus.” — *super Matthaeum* → “Comentário sobre Mateus” (Key Terms), preservando a distinção entre rubricas.
+- `pt-BR/g13-c008.md` [5]: “as nações do mundo procuram” → “os gentios do mundo procuram” — *gentes* → “gentios” (Key Terms); aqui se contrapõem aos discípulos que confiam no Pai.
+- `pt-BR/g13-c008.md` [17]: “as nações do mundo procuram” → “os gentios do mundo procuram” — *gentes* → “gentios” (Key Terms); repete a contraposição religiosa do versículo comentado.
+- `pt-BR/g13-c010.md` [6]: “se o dono da casa soubesse” → “se o pai de família soubesse” — *paterfamilias* → “pai de família” (Key Terms); estava “dono da casa”.
+- `pt-BR/g13-c010.md` [32]: “se o dono da casa soubesse” → “se o pai de família soubesse” — *paterfamilias* → “pai de família” (Key Terms); estava “dono da casa”.
+- `pt-BR/g14-c002.md` [19]: “Ou o dono da casa é Deus Pai” → “Ou o pai de família é Deus Pai” — *paterfamilias* → “pai de família” (Key Terms); estava “dono da casa”.
+- `pt-BR/g15-c003.md` [7]: “que graça há para vós?” → “que mérito tendes?” — *quae vobis est gratia?* → “que mérito tendes?” (Key Terms); é a fórmula de Lucas 6 citada pelo comentário.
+- `pt-BR/g16-c003.md` [12]: “acompanhada da liberdade de arbítrio” → “acompanhada do livre-arbítrio” — *libertas arbitrii* designa a faculdade fixada como “livre-arbítrio” nos Key Terms.
+- `pt-BR/g16-c003.md` [15]: “guardar para ele sua força” → “guardar para ele sua fortaleza” — *fortitudo* → “fortaleza” (Key Terms); aqui é a fortaleza espiritual conservada na união com Deus.
+
+### Part terms 1 of 4, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 3 minor. Delta read of 28 changes (journal plus g10–g16): all are correct. Three missed occurrences fixed: “azeite” in g11-c009 [44], “de Nínive” in g12-c009 [17], “dono da casa” in g13-c010 [33].
+- `pt-BR/g11-c009.md` [44]: “com o azeite da remissão do pecado” → “com o óleo da remissão do pecado” — *oleo* → “óleo” (Key Terms); the previous round unified the whole chapter but left this occurrence.
+- `pt-BR/g12-c009.md` [17]: ““Os homens de Nínive se levantarão” → ““Os homens ninivitas se levantarão” — *viri Ninivitae* → “homens ninivitas” (Key Terms); the quoted verse in [5] now says this, and the citation must match it.
+- `pt-BR/g13-c010.md` [33]: “o dono da casa é o homem” → “o pai de família é o homem” — *patremfamilias* → “pai de família” (Key Terms); Teofilacto is glossing the figure of verse 39, now rendered “pai de família” in [6] and [32].
+- Rejected: pt-BR/g10-c004.md [18] — audit: parentheses differ (source 1, pt-BR 0) — The parenthesis became dashes with the content complete; this is a punctuation choice, not a loss.
+- Rejected: pt-BR/g12-c006.md [10] — “fortaleza” for *totius fortitudinis dator* might read as the cardinal virtue — “Fortaleza” also means strength in Portuguese, and it fits the image of the stronger one who disarms the strong. This follows Key Terms.
+- Rejected: pt-BR/g10-c004.md [6] — The Key Terms table has two rows for *princeps sacerdotum* (“príncipe dos sacerdotes” and “sumo sacerdote / chefes dos sacerdotes”) — The later, more specific row distinguishes singular from plural, and the plural rendered here follows it. Changing the general row would require checking occurrences outside this delta.
+
+### Part terms 1 of 4, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 3 minor. Verificadas as três alterações, os nove parágrafos apresentados e as três notas do tradutor: alterações corretas; encontrados três desvios terminológicos menores. Os locais do restante da auditoria mecânica não foram apresentados para exame.
+- `pt-BR/g12-c009.md` [17]: “Teofilacto.” → “Teofilato.” — A rubrica Theophylactus tem a forma “Teofilato” fixada nos Key Terms.
+- `pt-BR/g13-c010.md` [33]: “Teofilacto.” → “Teofilato.” — A rubrica Theophylactus tem a forma “Teofilato” fixada nos Key Terms.
+- `pt-BR/g13-c010.md` [34]: “Sem que o dono da casa saiba” → “Sem que o pai de família saiba” — Patrefamilias corresponde a “pai de família” nos Key Terms; resta esta ocorrência na continuação do comentário.
+
+### Part terms 1 of 4, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read: os três reparos (Teofilato em g12-c009 [17] e g13-c010 [33]; “pai de família” em g13-c010 [34]) estão corretos, e os seis parágrafos mostrados estão sem defeitos; corrigida a grafia “Teofilacto” numa nota dos Key Terms.
+- `pt-BR/translation-journal.md`: “Partes ou potências da alma na interpretação de Teofilacto.” → “Partes ou potências da alma na interpretação de Teofilato.” — A própria tabela fixa Theophylactus → “Teofilato”; a nota desta linha usa a outra grafia.
+- Rejected: pt-BR/g12-c009.md [17] — “de Salomão, rei pacífico, nosso Senhor e Deus” para *Salomonis regis pacifici domini Dei nostri* poderia ser lido como “rei pacífico do Senhor nosso Deus” — O genitivo latino é ambíguo, e a leitura adotada (Salomão como figura de Cristo, Senhor e Deus) é defensável no contexto de [16].
+- Rejected: pt-BR/g13-c010.md [34] — “enquanto o espírito dorme em vez de guardar a si mesmo” para *dum a sui custodia spiritus dormit* — A frase verte corretamente o sentido de dormir afastado da guarda de si; é uma escolha de estilo.
+
+### Part terms 1 of 4, Round 5 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificada a alteração no diário: “Teofilato” está correto e conforme os Termos. Nenhum parágrafo de capítulo foi apresentado nesta rodada; nenhum novo defeito encontrado.
+
+### Part terms 2 of 4, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 15 minor. 233 marcações lidas; 9 ocorrências com deriva; 6 linhas do glossário ampliadas.
+- `pt-BR/translation-journal.md`: “| gratia / fides / caritas / dilectio | graça / fé / caridade / amor | Convenções das obras próximas. “Nos usos não teológicos, gratia também admite favor ou estima; em quae vobis est gratia, mérito; em gratias agere, agradecer; com genitivo, por causa de ou para, conforme o contexto.” |” → “| gratia / fides / caritas / dilectio | graça / fé / caridade / amor | Convenções das obras próximas. Gratia: também “favor” no sentido de benevolência ou estima; fides: também “fidelidade” nas relações pessoais, “crédito” ou “credibilidade” quanto à confiança em relatos e testemunhos, e “certeza” quanto à demonstração silogística. |” — As ocorrências distinguem corretamente esses sentidos de graça e fé teológicas.
+- `pt-BR/translation-journal.md`: “| virtus / potestas | poder, força ou virtude / poder | Distinção contextual entre capacidade miraculosa e virtude moral. “Potestas” também admite “autoridade” no ensino e “jurisdição” no governo territorial; “potestates” admite “potestades” para seres espirituais. “Virtus” admite “potestade” quando designa um ser angélico. |” → “| virtus / potestas | poder, força ou virtude / poder | Distinção contextual entre capacidade miraculosa e virtude moral. Virtus: também “prodígio” quando designa um feito miraculoso e “potência” quando designa seres espirituais ou potências celestes; potestas: também “autoridade” quanto ao direito de governar ou agir e “potestade” como designação angélica. |” — Os usos recorrentes distinguem corretamente feitos miraculosos, seres espirituais e autoridade.
+- `pt-BR/translation-journal.md`: “| sacramentum / mysterium | mistério / mistério | “Mistério” quando se trata do sentido espiritual oculto. “Sacramentum” também se traduz por “sacramento” quando designa um rito sagrado, inclusive da antiga Lei, ou um sacramento cristão. |” → “| sacramentum / mysterium | mistério / mistério | “Mistério” quando se trata do sentido espiritual oculto. Sacramentum: também “sacramento” quando designa um rito ou sinal sagrado, incluindo os sinais do Antigo Testamento, o batismo e a Eucaristia. |” — A tradução usa corretamente “sacramento” de modo recorrente para ritos e sinais sagrados.
+- `pt-BR/translation-journal.md`: “| fortitudo / impoenitentia | fortaleza / impenitência | Termos teológicos. |” → “| fortitudo / impoenitentia | fortaleza / impenitência | Termos teológicos. Fortitudo: também “força” quando designa poder ou vigor, como na explicação do nome Gabriel e na citação “Guardarei minha força para vós”. |” — Esses usos de “força” não designam especificamente a virtude moral da fortaleza.
+- `pt-BR/translation-journal.md`: “| verbum | Verbo / palavra | Verbo para a Pessoa divina; palavra para o anúncio e o discurso. |” → “| verbum | Verbo / palavra | Verbo para a Pessoa divina; palavra para o anúncio e o discurso. Também “pergunta” quando designa a questão proposta ao interlocutor, como em interrogabo vos unum verbum. |” — “Pergunta” traduz corretamente o sentido contextual repetido em g21-c001.
+- `pt-BR/translation-journal.md`: “| apostoli / discipuli / gentes / Iudaei | apóstolos / discípulos / gentios / judeus | Convenção das obras próximas. “Gens / gentes” também se traduz por “povo”, “nação / nações” quando designa coletividades étnicas ou políticas, ou todos os povos, sem oposição religiosa entre judeus e gentios. |” → “| apostoli / discipuli / gentes / Iudaei | apóstolos / discípulos / gentios / judeus | Convenção das obras próximas. Gens/gentes: também “nação/nações” quando designa povos como coletividades, inclusive nas citações sobre a herança das nações e os conflitos entre nações. |” — O uso recorrente de “nação/nações” preserva o sentido coletivo, distinto da designação religiosa “gentios”.
+- `pt-BR/g17-c006.md` [21]: “é a ostentação da Lei” → “é a vanglória da Lei” — *iactantia* → “vanglória” (Key Terms); estava “ostentação”.
+- `pt-BR/g19-c001.md` [13]: “como a do credor que” → “como a do usurário que” — *fenerator* → “usurário” (Key Terms), expressamente previsto para o credor da parábola.
+- `pt-BR/g19-c005.md` [21]: “um amor muito mais afetuoso” → “uma caridade muito mais afetuosa” — *caritatem* → “caridade” (Key Terms); estava “amor”.
+- `pt-BR/g2-c002.md` [15]: “dá ao pobre por ostentação” → “dá ao pobre por vanglória” — *iactantiae* → “vanglória” (Key Terms); estava “ostentação”.
+- `pt-BR/g21-c001.md` [12]: “necessário aos sacrifícios da Lei” → “necessário às vítimas da Lei” — *victimis* → “vítimas” (Key Terms); estava “sacrifícios”.
+- `pt-BR/g21-c002.md` [45]: “a ostentação infrutífera das palavras” → “a vanglória infrutífera das palavras” — *iactantia* → “vanglória” (Key Terms); estava “ostentação”.
+- `pt-BR/g22-c001.md` [7]: “costuma-se chamar gazophylacium ao lugar” → “costuma-se chamar gazofilácio ao lugar” — *gazophylacium* → “gazofilácio” (Key Terms); permanecia em latim.
+- `pt-BR/g22-c004.md` [18]: “os males do amor perdido” → “os males da caridade perdida” — *caritatis* → “caridade” (Key Terms); estava “amor”.
+- `pt-BR/g22-c007.md` [13]: “de uma ostentação vã e frágil” → “de uma vanglória leve e frágil” — *iactantiam* → “vanglória” (Key Terms), preservando os qualificativos *levem fragilemque*.
+
+### Part terms 2 of 4, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read of 15 changes (6 journal rows, 9 in-text) and their neighbours: all correct; one journal decision about g22-c001 §7 updated to match the new “gazofilácio”.
+- `pt-BR/translation-journal.md`: “Em g22-c001, §7, conservados os termos *phylattin*, *gaza* e *gazophylacium* na explicação etimológica;” → “Em g22-c001, §7, conservados os termos *phylattin* e *gaza* na explicação etimológica, com *gazophylacium* vertido por “gazofilácio”;” — A correção da rodada 1 verteu gazophylacium por “gazofilácio” no §7; a decisão ainda afirma que o termo latino foi conservado.
+- Rejected: pt-BR/g17-c006.md [21] — “vanglória da Lei, da qual se gloriavam” poderia ligar “da qual” a “vanglória”. — “abusando dela” fixa a Lei como referente; a frase se entende e segue o termo do glossário para iactantia.
+- Rejected: pt-BR/translation-journal.md (linha virtus / potestas) — O texto atual da linha difere do texto que a rodada 1 diz ter aplicado. — A linha atual é coerente e cobre os mesmos sentidos; o diário é do livro inteiro e pode ter sido revisto em outra parte. Não há afirmação falsa.
+- Rejected: pt-BR/g22-c007.md [13] — “vanglória leve e frágil” para levem fragilemque iactantiam. — Fiel ao latim e coerente com a imagem das folhas.
+
+### Part terms 2 of 4, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificada a única alteração desta rodada, na decisão do diário sobre g22-c001, §7: coerente com a correção registrada para “gazofilácio”, sem novos defeitos. Nenhum parágrafo de capítulo foi apresentado.
+
+### Part terms 3 of 4, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 21 minor. 222 parágrafos sinalizados examinados; 14 flags com deriva em 12 parágrafos; 4 linhas do glossário ampliadas.
+- `pt-BR/translation-journal.md`: “| sacramentum / mysterium | mistério / mistério | “Mistério” quando se trata do sentido espiritual oculto. |” → “| sacramentum / mysterium | mistério / mistério | “Mistério” quando se trata do sentido espiritual oculto. “Sacramentum” também se traduz por “sacramento” quando designa um rito sagrado, inclusive da antiga Lei, ou um sacramento cristão. |” — A linha não explicita o sentido ritual de “sacramentum”, corretamente traduzido por “sacramento” nas passagens sobre o batismo, a Eucaristia e a circuncisão.
+- `pt-BR/translation-journal.md`: “| apostoli / discipuli / gentes / Iudaei | apóstolos / discípulos / gentios / judeus | Convenção das obras próximas. |” → “| apostoli / discipuli / gentes / Iudaei | apóstolos / discípulos / gentios / judeus | Convenção das obras próximas. “Gens / gentes” também se traduz por “povo”, “nação / nações” quando designa coletividades étnicas ou políticas, ou todos os povos, sem oposição religiosa entre judeus e gentios. |” — As ocorrências distinguem o sentido religioso “gentios” do sentido coletivo “povo” ou “nações”, inclusive em referências ao próprio povo judeu.
+- `pt-BR/translation-journal.md`: “| virtus / potestas | poder, força ou virtude / poder | Distinção contextual entre capacidade miraculosa e virtude moral. “No contexto de subordinação militar, potestas também se traduz por autoridade.” |” → “| virtus / potestas | poder, força ou virtude / poder | Distinção contextual entre capacidade miraculosa e virtude moral. “Potestas” também admite “autoridade” no ensino e “jurisdição” no governo territorial; “potestates” admite “potestades” para seres espirituais. “Virtus” admite “potestade” quando designa um ser angélico. |” — A linha omite os sentidos de autoridade docente, jurisdição territorial e seres espirituais, consistentemente presentes nas ocorrências.
+- `pt-BR/translation-journal.md`: “| princeps sacerdotum / principes sacerdotum | sumo sacerdote / chefes dos sacerdotes | Distinção entre o titular singular e o grupo dirigente. |” → “| princeps sacerdotum / principes sacerdotum | sumo sacerdote / chefes dos sacerdotes | Distinção entre o titular singular e o grupo dirigente. “Sumos sacerdotes” quando o plural designa individualmente titulares do sumo sacerdócio, como Anás e Caifás. |” — O plural que nomeia Anás e Caifás distingue-se do grupo dirigente designado por “chefes dos sacerdotes”.
+- `pt-BR/g23-c005.md` [9]: “depois de partir e distribuir o pão” → “depois da fração do pão e de sua distribuição” — *panis fractionem* → “fração do pão” (Key Terms); conserva a fórmula nominal do comentário.
+- `pt-BR/g23-c007.md` [14]: “não haja ostentação pela precedência” → “não haja vanglória pela precedência” — *iactantia* → “vanglória” (Key Terms); estava “ostentação”.
+- `pt-BR/g23-c009.md` [13]: “Guarda-te, portanto, da ostentação” → “Guarda-te, portanto, da vanglória” — *iactantiam* → “vanglória” (Key Terms); estava “ostentação”.
+- `pt-BR/g24-c002.md` [13]: “o Senhor evitava a ostentação” → “o Senhor evitava a vanglória” — *iactantiam* → “vanglória” (Key Terms); estava “ostentação”.
+- `pt-BR/g24-c010.md` [18]: “num lençol limpo” → “num lençol de linho limpo” — *sindone* → “lençol de linho” (Key Terms); faltava a especificação do tecido.
+- `pt-BR/g25-c001.md` [37]: “à semelhança do lençol em que José o envolveu” → “à semelhança do lençol de linho em que José o envolveu” — *sindonis* → “lençol de linho” (Key Terms); estava apenas “lençol”.
+- `pt-BR/g4-c008.md` [40]: ““que foi filho de Salmon”, isto é, “sensível”” → ““que foi filho de Salomão”, isto é, “sensível”” — O latim traz *Salomon*, não *Salmon*; a linha do glossário exige preservar essa distinção da fonte. *(meaning)*
+- `pt-BR/g5-c001.md` [22]: “Esse número é o sinal sagrado deste tempo de trabalhos” → “Esse número é o mistério deste tempo de trabalhos” — *sacramentum* → “mistério” (Key Terms), aqui no sentido espiritual oculto do número; estava “sinal sagrado”.
+- `pt-BR/g4-c005.md` [3]: “a correia das sandálias” → “a correia dos calçados” — *calceamentorum* → “calçados” (Key Terms); estava “sandálias”.
+- `pt-BR/g4-c005.md` [10]: “a correia das sandálias” → “a correia dos calçados” — *calceamentorum* → “calçados” (Key Terms); estava “sandálias”.
+- `pt-BR/g4-c005.md` [11]: ““De quem não sou digno de carregar as sandálias”” → ““De quem não sou digno de carregar os calçados”” — *calceamenta* → “calçados” (Key Terms); estava “sandálias”.
+- `pt-BR/g4-c005.md` [11]: “expressões “carregar as sandálias” e” → “expressões “carregar os calçados” e” — *calceamenta* → “calçados” (Key Terms); estava “sandálias”.
+- `pt-BR/g4-c005.md` [11]: ““desatar a correia das sandálias”, de modo” → ““desatar a correia dos calçados”, de modo” — *calceamentorum* → “calçados” (Key Terms); estava “sandálias”.
+- `pt-BR/g4-c005.md` [11]: “ao falar das sandálias do Senhor” → “ao falar dos calçados do Senhor” — *calceamentis* → “calçados” (Key Terms); estava “sandálias”.
+- `pt-BR/g4-c005.md` [11]: “seja sobre desatar a correia das sandálias, seja” → “seja sobre desatar a correia dos calçados, seja” — *calceamentorum* → “calçados” (Key Terms); estava “sandálias”.
+- `pt-BR/g4-c005.md` [11]: “sobre carregar as sandálias, conservou” → “sobre carregar os calçados, conservou” — *calceamentis* → “calçados” (Key Terms); estava “sandálias”.
+- `pt-BR/g4-c005.md` [11]: “pela menção das sandálias, o mesmo” → “pela menção dos calçados, o mesmo” — *calceamentorum* → “calçados” (Key Terms); estava “sandálias”.
+- `pt-BR/g4-c005.md` [23]: “por amor a Deus e ao próximo” → “por caridade para com Deus e o próximo” — *caritatis* → “caridade” (Key Terms); estava “amor”, reservado a *dilectio*.
+
+### Part terms 3 of 4, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta: as 21 mudanças da rodada anterior estão corretas; corrigida uma ocorrência restante de “sandálias” por *calceamenta* em g4-c005 [12].
+- `pt-BR/g4-c005.md` [12]: ““De quem não sou digno de carregar as sandálias”” → ““De quem não sou digno de carregar os calçados”” — *calceamenta* → “calçados” (Key Terms). Os §§10–11, já corrigidos, trazem a mesma citação com “calçados”; aqui ficou “sandálias”.
+- Rejected: pt-BR/translation-journal.md (linhas sacramentum, gentes, virtus) — O texto atual das linhas não coincide literalmente com o “new” da rodada anterior. — As linhas existentes já cobrem os mesmos sentidos (sacramento ritual, nações, potestades/autoridade). Não há afirmação falsa.
+- Rejected: pt-BR/g24-c002.md [12], g23-c005.md [9] — “Teofilacto” difere de “Teofilato” na tabela de termos. — O próprio diário usa “Teofilacto” de forma sistemática nas decisões, o que sugere que a forma é uniforme no livro. Harmonizar exige decisão para o livro inteiro, não correção pontual no delta.
+- Rejected: pt-BR/g4-c008.md [40] — “Salomão” numa genealogia em que se esperaria Salmon. — O latim traz *Salomon*; a fonte não se corrige, e o diário registra a decisão.
+- Rejected: pt-BR/g4-c005.md [3]–[4] — Aspas desbalanceadas apontadas pela auditoria. — A fala de João atravessa os versículos 16–17; abre em [3] e fecha em [4].
+
+### Part terms 3 of 4, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 5 minor. Lidos integralmente os §§11–13; confirmada a correção no §12 e encontradas cinco ocorrências de deriva terminológica no §13, sem defeitos de sentido.
+- `pt-BR/g4-c005.md` [13]: “desatar a correia da sandália dele, como” → “desatar a correia do calçado dele, como” — Calceamenti corresponde a “calçado”, conforme a tabela de termos e a citação nos parágrafos anteriores.
+- `pt-BR/g4-c005.md` [13]: “lhe desatasse a sandália aquele” → “lhe desatasse o calçado aquele” — Calceamentum corresponde a “calçado”, conforme a tabela de termos.
+- `pt-BR/g4-c005.md` [13]: “as sandálias são feitas” → “os calçados são feitos” — Calceamenta corresponde a “calçados”, conforme a tabela de termos.
+- `pt-BR/g4-c005.md` [13]: “A correia da sandália é” → “A correia do calçado é” — Calceamenti corresponde a “calçado”, conforme a tabela de termos.
+- `pt-BR/g4-c005.md` [13]: “desatar a correia da sandália dele, porque” → “desatar a correia do calçado dele, porque” — Calceamenti corresponde a “calçado”, conforme a tabela de termos.
+
+### Part terms 3 of 4, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of g4-c005 [12]–[14]: the five changes from “sandália(s)” to “calçado(s)” are correct, with no concordance errors and no lost content; no new defects.
+- Rejected: pt-BR/g4-c005.md [13] — Concordance after “sandálias” → “calçados” (“os calçados são feitos”, “lhe desatasse o calçado aquele”) — Gender and number agree in every changed span; the sentences still read correctly and match *calceamentum/calceamenta*.
+- Rejected: pt-BR/g4-c005.md [13] — “perscrutar seu mistério”: *hanc* could look like it has no antecedent — *hanc* refers to *incarnationem*. The translation renders it as “a encarnação”, and “seu mistério” refers back to it, which matches *incarnationis mysterium*.
+- Rejected: pt-BR/g4-c005.md [3]–[4] — Unbalanced quotation marks flagged by the mechanical audit — Already rejected in round 2: John's speech runs across verses 16–17, opening in [3] and closing in [4].
+
+### Part terms 4 of 4, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 5 minor. 129 parágrafos sinalizados lidos; 3 desvios de tradução encontrados e 2 linhas de glossário ampliadas.
+- `pt-BR/g5-c008.md` [7]: “Jerônimo, sobre Mateus.” → “Jerônimo, Comentário sobre Mateus.” — *super Matthaeum* → “Comentário sobre Mateus” (Key Terms), preservando a distinção entre rubricas.
+- `pt-BR/g6-c007.md` [9]: “a primeira resposta de Cristo” → “a primeira palavra de Cristo” — *verbum* → “palavra” para o discurso (Key Terms); estava “resposta”.
+- `pt-BR/g8-c001.md` [20]: “disposto a crer e pronto a honrar” → “aberto à fé e pronto a honrar” — *ad fidem facilis* mantém o termo “fé” (Key Terms); estava parafraseado como “disposto a crer”.
+- `pt-BR/translation-journal.md`: “| gratia / fides / caritas / dilectio | graça / fé / caridade / amor | Convenções das obras próximas. |” → “| gratia / fides / caritas / dilectio | graça / fé / caridade / amor | Convenções das obras próximas. “Nos usos não teológicos, gratia também admite favor ou estima; em quae vobis est gratia, mérito; em gratias agere, agradecer; com genitivo, por causa de ou para, conforme o contexto.” |” — As ocorrências distinguem corretamente a graça teológica dos sentidos de favor, reconhecimento, mérito, agradecimento e finalidade; a linha precisa registrar esses usos.
+- `pt-BR/translation-journal.md`: “| virtus / potestas | poder, força ou virtude / poder | Distinção contextual entre capacidade miraculosa e virtude moral. |” → “| virtus / potestas | poder, força ou virtude / poder | Distinção contextual entre capacidade miraculosa e virtude moral. “No contexto de subordinação militar, potestas também se traduz por autoridade.” |” — A fala do centurião e sua repetição empregam corretamente “autoridade” para a relação hierárquica militar.
+
+### Part terms 4 of 4, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of 3 translation changes and 2 journal edits in g5-c008, g6-c007 and g8-c001: the translation changes are correct, the journal edits do not appear in the journal and are not needed, and the neighbouring paragraphs are clean.
+- Rejected: pt-BR/g5-c008.md [7] — “Comentário sobre Mateus” for Hieronymus super Matthaeum; the Key Terms row for super Matthaeum belongs to Crisóstomo, and Jerome's super Isaiam is “sobre Isaías” — Both renderings faithfully translate the rubric. The change does not alter the sense and leaves no objective error.
+- Rejected: pt-BR/g6-c007.md [9] — primum verbum rendered “primeira palavra” instead of “resposta” — This is the literal sense and agrees with the verbum row (palavra for discourse). It is correct.
+- Rejected: pt-BR/translation-journal.md — The gratia and virtus/potestas row edits do not appear in the journal as given — The current rows already say gratia can mean “favor”, and the separate row “quae vobis est gratia? → que mérito tendes?” covers the mérito use. The potestas row already says “autoridade quando designa quem governa”, which covers the centurion's speech. Nothing is missing.
+- Rejected: pt-BR/g8-c001.md [21] — ne putes prae taedio me non venisse rendered “deixei de ir por falta de disposição” — Faithful to the sense of reluctance in taedio. Reverential “vós” addressed to Christ follows the journal's convention.
