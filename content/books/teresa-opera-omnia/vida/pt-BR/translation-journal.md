@@ -105,7 +105,7 @@ Destino: pt-BR.
 | vuelo del espíritu | voo do espírito | c18 ¶9 |
 | mantener la tela | manter a tela | c18 ¶13, com nota do tradutor |
 | pecina | lodo | c19 ¶4; a nota 1 de Silverio cita a forma espanhola |
-| lición | leitura | c19 ¶13 |
+| lición | leitura | c19 ¶13; “Em contexto litúrgico, também lição, como na lição de defuntos (c38).” |
 | fruta (da horta) | fruto | c19 ¶5, ¶15 |
 | éxtasi | êxtase | c20 ¶3 |
 | arrebatamiento | arrebatamento | c20 ¶3 |
@@ -184,7 +184,7 @@ Destino: pt-BR.
 | letrado | letrado | c32–c33; homem de letras, teólogo |
 | perlado | prelado | c32–c33 |
 | mayorazgo | morgadio | c32 ¶17, com nota do tradutor |
-| relisión / Relisiones | religião (vocação, vida religiosa) / Ordens religiosas | c32 ¶11, ¶13, ¶16 |
+| relisión / Relisiones | religião (vocação, vida religiosa) / Religiões | c32 ¶11, ¶13, ¶16; no plural, “Religiões” designa as Ordens religiosas, conforme c37 ¶13 |
 | lugar (Ávila) | cidade | c32 ¶16–17 |
 | Retor | Reitor | c33 ¶9–12 |
 | Breve | Breve | c33 ¶13, com nota do tradutor |
@@ -280,6 +280,7 @@ Destino: pt-BR.
 - c12 n. 3: "un bulto de cosas" → "um conjunto de coisas".
 - c13 ¶5: a frase de Santo Agostinho, com *tú* no original, vai em *vós* ("Dai-me, Senhor, o que me mandais, e mandai o que quiserdes"), pela regra da apóstrofe reverente a Deus.
 - c13 ¶9: "estos negros cuerpos" → "estes miseráveis corpos", para evitar leitura equívoca de "negros".
+- c13 ¶15: "pena que Su Majestad temía" da fonte lido como "tenía" (erro de OCR) → "a pena que Sua Majestade tinha".
 - c13 ¶21: "porque creo temen" ganha o sujeito explícito "os demônios", que o contexto exige e sem o qual o leitor o atribuiria aos letrados.
 - c13 ¶24 e c14 ¶12: onde a fonte escreve "vos" em minúscula referindo-se a Deus, mantém-se "vós" em minúscula; "Vos" em maiúscula → "Vós".
 - c14 ¶3–4: "torno" → "manivela", conforme c11 ¶9.
@@ -537,3 +538,49 @@ Verdict: 0 meaning-level, 0 minor. Delta read of c39: verified the four round-2 
 - Rejected: pt-BR/c39.md [21] — The fix changes 'sem me apegar' to 'sem ir apegada'. — 'Apegada' agrees with 'uma pessoa', as 'asida' does in the source. The clause stays intact.
 - Rejected: pt-BR/c39.md [10] — 'los grandes trabajos que se pasan en tratar personas a quien Dios…' is rendered as trials that those persons undergo in dealing with others. — The Spanish is ambiguous, and Lewis also makes those persons the ones who suffer. The reading is defensible.
 - Rejected: pt-BR/c39.md [14] — '¿y no los fiaremos nosotros?' is rendered 'e não os confiaremos nós a Ele'. — It follows the parallel 'Fíanse ellos mesmos de Dios': we entrust them to God as they entrust themselves. The reading is defensible and does not misinform.
+
+### Part terms 1 of 3, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 0 minor. 100 parágrafos sinalizados lidos; 1 desvio de sentido.
+- `pt-BR/c13.md` [15]: “a pena que Sua Majestade teria naquela soledade” → “a pena que Sua Majestade temia naquela soledade” — A fonte diz “temía” (“temia”); “teria” substitui o temor pela suposição de sofrimento. *(meaning)*
+
+### Part terms 1 of 3, Round 2 (claude, delta read)
+Verdict: 2 meaning-level, 1 minor. Delta de c13 ¶14–16 lido. A correção anterior («temia») segue um provável erro de OCR da fonte (temía por tenía); corrigido para «tinha», com a fonte e o diário.
+- `pt-BR/c13.md` [15]: “a pena que Sua Majestade temia naquela soledade” → “a pena que Sua Majestade tinha naquela soledade” — A fonte traz «temía», provável erro de OCR (m/n) por «tenía», a leitura corrente. Os «dolores grandes» são sofridos à coluna, não temidos; Lewis: «endured». «Temia» atribui a Cristo temor de dores que já padece. *(meaning)*
+- `es-ES/c13.md` [15]: “pena que Su Majestad temía en aquella soledad” → “pena que Su Majestad tenía en aquella soledad” — Erro de OCR (m/n): «tenía» é a leitura das edições; «dolores… que temía» não faz sentido na cena da coluna. *(meaning)*
+- `pt-BR/translation-journal.md`: “- c13 ¶21: "porque creo temen"” → “- c13 ¶15: "pena que Su Majestad temía" da fonte lido como "tenía" (erro de OCR) → "a pena que Sua Majestade tinha".
+- c13 ¶21: "porque creo temen"” — Registra a correção de OCR, para que rodadas futuras não restaurem «temia».
+- Rejected: pt-BR/c13.md [15] — «u que si es letrado, es el modo…» reestruturado em «ou se é letrado. É o modo…» — A frase da fonte é anacolútica. A leitura adotada coincide com Lewis e não perde conteúdo.
+- Rejected: pt-BR/c13.md [16] — «no dejando muchas veces la Pasión» → «sem deixar de considerar muitas vezes» — Explicita o sentido sem alterá-lo. É escolha de estilo defensável.
+
+### Part terms 1 of 3, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente c13 ¶14–16 e conferida a alteração correspondente no diário; nenhum defeito objetivo encontrado. Os locais dos alertas mecânicos não foram apresentados neste delta.
+- Rejected: pt-BR/c13.md [15] — Reexaminar «a pena que Sua Majestade tinha naquela soledade». — «Tinha» corresponde ao «tenía» da fonte agora apresentada e conserva o sofrimento de Cristo na cena da coluna; não há motivo novo para reverter a correção registrada.
+
+### Part terms 2 of 3, Round 1 (codex, terms read)
+Verdict: 2 meaning-level, 2 minor. 97 parágrafos examinados; 3 desvios no texto e 1 ajuste no glossário.
+- `pt-BR/c31.md` [7]: “Isto não é capricho” → “Isto não é imaginação” — *antojo* → “imaginação” (Key Terms): nega que a consolação seja imaginada; “capricho” designa uma vontade arbitrária. *(meaning)*
+- `pt-BR/c32.md` [11]: “com toda a honestidade e religião” → “com todo o recato e religião” — *honestidad* → “recato” (Key Terms); refere-se ao decoro das monjas, não à probidade. *(meaning)*
+- `pt-BR/c33.md` [29]: “regedor do Cabildo” → “regedor do cabido” — *cabildo* → “cabido” (Key Terms), uniformizando a designação da instituição municipal.
+- `pt-BR/translation-journal.md`: “| relisión / Relisiones | religião (vocação, vida religiosa) / Ordens religiosas | c32 ¶11, ¶13, ¶16 |” → “| relisión / Relisiones | religião (vocação, vida religiosa) / Religiões | c32 ¶11, ¶13, ¶16; no plural, “Religiões” designa as Ordens religiosas, conforme c37 ¶13 |” — Harmoniza as duas linhas de *Relisiones* com “Religiões”, a forma usada na ocorrência plural apresentada em c37 ¶13.
+
+### Part terms 2 of 3, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta da parte 2: as quatro correções da rodada 1 conferem com a fonte; uma correção menor em c32 ¶11 («mais» → «muito»).
+- `pt-BR/c32.md` [11]: “embora eu fosse a que mais o usava” → “embora eu fosse a que muito o usava” — fonte: «aunque yo era la que mucho lo usaba»; «mais» acrescenta uma comparação (a que mais saía) que o original não faz
+- Rejected: pt-BR/c33.md [29] — «cabido» para o Cabildo municipal de Quito, termo que em português evoca o cabido catedralício — segue a linha regedores/corregedor/cabildo → cabido do Key Terms, explicada pela nota do tradutor [^28] em c36; a minúscula é escolha de estilo
+- Rejected: pt-BR/c32.md [11] — «com todo o recato e religião»: concordância de «todo» com dois substantivos de gêneros diferentes — a concordância com o substantivo mais próximo é regular em português
+- Rejected: pt-BR/c31.md [7] — «e observado» parece não concordar com «coisa» — concorda com «Isto», como «mirado» com «Esto» na fonte
+- Rejected: translation-journal.md (audit) — linhas «alonso» e «comidámonos» sem a forma portuguesa no texto — a coluna de «Alonso…» descreve uma decisão, não é uma forma a encontrar no texto; «comidámonos» está em c22, fora desta parte
+- Rejected: pt-BR/c32.md [10] — a auditoria aponta ênfase acrescentada — *disistir* vai em itálico na grafia da Santa, para que a n. 3 do editor tenha objeto (decisão registrada no diário)
+
+### Part terms 2 of 3, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente c32 ¶10–12 e a nota do tradutor apresentada; a correção de «mais» para «muito» é fiel à fonte e não introduz defeitos. Nenhum novo defeito encontrado.
+
+### Part terms 3 of 3, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 1 minor. 24 parágrafos, com 28 termos sinalizados, conferidos; nenhum desvio na tradução e 1 complemento de glossário.
+- `pt-BR/translation-journal.md`: “| lición | leitura | c19 ¶13 |” → “| lición | leitura | c19 ¶13; “Em contexto litúrgico, também lição, como na lição de defuntos (c38).” |” — As duas ocorrências litúrgicas em c38 ¶30 usam corretamente “lição”; acrescenta-se esse uso às notas do glossário.
+
+### Part terms 3 of 3, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Leitura delta: a única alteração (glossário, lición) está correta no conteúdo; removidas as aspas e o ponto soltos na célula.
+- NOT APPLIED (old text not found exactly once (2)): - `pt-BR/translation-journal.md`: “| lición | leitura | c19 ¶13; “Em contexto litúrgico, também lição, como na lição de defuntos (c38).” |” → “| lición | leitura | c19 ¶13; em contexto litúrgico, lição (lição de defuntos, c38) |” — A nota foi colada com aspas e ponto final dentro da célula, ao contrário das demais linhas da tabela; o conteúdo se mantém
+- Rejected: translation-journal.md, linha Alonso, Beatriz… — Auditoria: “mantidos na forma espanhola” ×0 no pt-BR — A coluna registra uma decisão (manter os nomes), não uma forma que deva aparecer no texto
+- Rejected: translation-journal.md, linha comidámonos — Auditoria: “sejamos comedidos” ×0 no pt-BR — c22 ¶11 não foi alterado nem mostrado nesta leitura delta, por isso não pode ser conferido aqui; fica para uma leitura completa de c22
