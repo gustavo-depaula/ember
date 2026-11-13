@@ -1,6 +1,221 @@
+# Diário de tradução — Livro das Fundações (pt-BR)
+
+Fonte: es-ES/ — Obras de Sta. Teresa de Jesús, ed. P. Silverio de Santa Teresa, C.D., t. V: Libro de las Fundaciones (Biblioteca Mística Carmelitana 5), Burgos: El Monte Carmelo, 1918, com as notas do editor.
+Destino: pt-BR.
 
 ## Termos
 
+| Espanhol | Português | Notas |
+|---|---|---|
+| Su Majestad | Sua Majestade | Deus; em apóstrofe, Vossa Majestade |
+| Nuestro Señor | Nosso Senhor | |
+| merced(es) | mercê(s) | como no *Livro da Vida* |
+| desasimiento / asimiento | desapego / apego | como no *Livro da Vida* |
+| perlado(s) | prelado(s) | |
+| monesterio | mosteiro | |
+| monja / religiosa | monja / religiosa | |
+| fraile / Fray | frade / Frei | |
+| descalzo(s), descalza(s) | descalço(s), descalça(s) | |
+| Calzados / Calzadas | Calçados / Calçadas | |
+| General (de la Orden) | Geral; nosso Padre Geral; Reverendíssimo Geral | |
+| Provincial / Provincia | Provincial / Província | |
+| Regla primera / primitiva | Regra primeira / primitiva | n. do tradutor em c02 |
+| Regla mitigada | Regra mitigada | |
+| patentes | patentes | documentos do Geral |
+| censuras | censuras | |
+| Religión (ordem religiosa) | Religião | maiúscula, como na fonte |
+| ermita | ermida | ermidas no jardim de São José |
+| San Josef de Avila | São José de Ávila | |
+| la Encarnación | a Encarnação | mosteiro de Ávila |
+| Juan Bautista Rúbeo (Rossi) de Ravena | João Batista Rúbeo (Rossi) de Ravena | Geral do Carmo |
+| Alvaro de Mendoza | Dom Álvaro de Mendoza | bispo de Ávila |
+| Alonso Maldonado | Frei Alonso Maldonado | |
+| Jerónimo Gracián | P. Jerônimo Gracián | |
+| Julián de Avila | Julián de Ávila | |
+| San Juan de la Cruz | São João da Cruz | |
+| Felipe II / Rey Prudente | Filipe II / Rei Prudente | |
+| las Indias | as Índias | |
+| Memorias Historiales | *Memorias Historiales* | título mantido, em itálico |
+| Libro de la Vida | *Livro da Vida* | |
+| M. (Madre), P. (Padre), D. (Don/Doña) | M., P., D. | abreviaturas mantidas |
+| nomes de religião (María Bautista, Isabel de S. Pablo…) | Maria Batista, Isabel de S. Paulo… | sobrenomes de família ficam em espanhol |
+| «…» | “…” | aspas das citações do editor |
+| la Compañía (de Jesús) / Padres de la Compañía | a Companhia (de Jesus) / Padres da Companhia | |
+| Retor | Reitor | |
+| Baltasar Álvarez | Baltasar Álvarez | jesuíta, confessor da Santa |
+| Antonio de Heredia / Antonio de Jesús | Frei Antônio de Heredia / Antônio de Jesus | prior de Santa Ana de Medina |
+| Domingo Báñez | Mestre Frei Domingo Báñez | dominicano |
+| Fray Juan de la Cruz | Frei João da Cruz | |
+| Agustinos | Agostinianos | maiúscula, como na fonte |
+| Cartujos | Cartuxos | |
+| portal | portal | vestíbulo da casa; n. do tradutor em c03 |
+| reposteros | reposteiros | |
+| blanca(s) | *blanca(s)* | moeda; mantida em itálico por causa da nota do editor |
+| maravedís | maravedis | |
+| Elena de Quiroga | dona Elena de Quiroga; Elena de Jesus | |
+| María Suárez | D.ª María Suárez | senhora de Fuente el Sol |
+| las Horas | as Horas | ofício divino |
+| palomarcitos | pombaizinhos | n. do tradutor em c04 |
+| contemplación perfeta | contemplação perfeita | |
+| arrobamientos | arroubamentos | |
+| quiebra(s) | falha(s) | |
+| Camino de Perfección | *Caminho de Perfeição* | |
+| Las Moradas | *Moradas* | |
+| Libro de Gasto, Reforma de los Descalzos, Memorial Histórico… | títulos em espanhol, em itálico | |
+| perlado / perlada | prelado / prelada | o superior ou a superiora |
+| lega | irmã conversa | “la lega” das notas: “a conversa” |
+| Bernardas | Bernardas | cistercienses; n. do tradutor em c06 |
+| regalos / regalar | regalos / regalar | |
+| embebecimiento / embebidas | embevecimento / embevecidas, embebidas | |
+| oración de quietud | oração de quietude | |
+| libertad de espíritu | liberdade de espírito | |
+| soledad | solidão | “saudade” em c06 ¶18, onde é desejo da comunhão |
+| sinsabor / desgusto | dissabor / desgosto | |
+| pasmos, amortecimientos | pasmos, amortecimentos | |
+| Fray Pedro de Alcántara | Frei Pedro de Alcântara | |
+| Moradas Quintas | *Quintas Moradas* | |
+| Jerónimo de San José | P. Jerônimo de São José | autor da *Historia del Carmen Descalzo* |
+| melancolía / humor de melancolía | melancolia / humor de melancolia | “humor” no sentido da medicina antiga; n. do tradutor em c07 |
+| merced | mercê | |
+| dar higas | fazer figas | n. do tradutor em c08 |
+| antojos / antojarse | fantasias / meter-se na cabeça | |
+| Relisión | Religião | a vida religiosa, com maiúscula |
+| Fray Domingo Báñez | Frei Domingo Báñez | “Domi[n]go” com o colchete do editor onde a fonte o tem |
+| Doña Luisa de la Cerda | D. Luisa de la Cerda | |
+| Doña Leonor Mascareñas | D. Leonor Mascarenhas | dama portuguesa: forma portuguesa do nome |
+| Ana de los Ángeles | Ana dos Anjos | nomes de religião traduzidos; sobrenomes civis entre parênteses ficam em espanhol |
+| Ana de San Bartolomé | Ana de São Bartolomeu | |
+| Isabel de Santo Domingo | Isabel de São Domingos | |
+| Madrid | Madri | |
+| esposo / desposada / desposar | noivo / comprometida / celebrar os esponsais | o “esposo” de D. Casilda é noivo, não marido |
+| freila / hermana de velo blanco | irmã conversa / irmã de véu branco | |
+| Adelantado (mayor) de Castilla | Adiantado (-mor) de Castela | n. do tradutor em c10 |
+| torno / red | roda / grade | |
+| tapias | taipas | |
+| chapines | chapins | n. do tradutor em c11 |
+| Julián de Ávila | Julián de Ávila | |
+| Doña María de Mendoza / Comendador Cobos | D. María de Mendoza / Comendador Cobos | nomes civis em espanhol |
+| Doña Casilda de Padilla / Casilda Juliana de la Concepción | D. Casilda de Padilla / Casilda Juliana da Conceição | |
+| Estefanía de los Apóstoles | Estefânia dos Apóstolos | |
+| María Bautista | Maria Batista | |
+| Felipe II / Felipe III | Filipe II / Filipe III | |
+| trabajos | sofrimentos / provações | segundo o contexto: dores físicas ou provações |
+| capítulo / celadoras | capítulo / zeladoras | n. do tradutor em c12 |
+| postema | abscesso | |
+| Descalzos / Calzados / los del Paño | Descalços / Calçados / os do Pano | |
+| Regla primitiva / mitigada | Regra primitiva / mitigada | |
+| Fray / Padre Fray | Frei / Padre Frei | nas notas, “Fr.” |
+| Beatriz de la Encarnación | Beatriz da Encarnação | nome civil: D. Beatriz Oñez |
+| Fray Antonio de Jesús (Antonio de Heredia) | Frei Antônio de Jesus (Antonio de Heredia) | nome religioso traduzido, civil em espanhol |
+| Juan de San Matías | João de São Matias | |
+| Fray Alonso González / Fray Ángel de Salazar | Frei Alonso González / Frei Ángel de Salazar | |
+| Juan Bautista Rúbeo | João Batista Rúbeo | |
+| P. Jerónimo Gracián | P. Jerônimo Gracián | |
+| Rafael Mejía / Francisco de Salcedo / Bernardino de Mendoza | idem | nomes civis em espanhol |
+| Duruelo / Río de Olmos | Duruelo / Río de Olmos | |
+| Juan de la Cruz | João da Cruz (São João da Cruz) | |
+| reloxes | relógios | ampulhetas; n. do tradutor em c14 |
+| Mancera / Cinco Villas | Mancera / Cinco Vilas | |
+| Don Luis de Toledo | D. Luis de Toledo | |
+| Martín Ramírez / Alonso Álvarez Ramírez / Diego Ortiz | idem | nomes civis em espanhol |
+| Pablo Hernández / Luis de Guzmán / Vicente Barrón | idem | religiosos citados pelo nome civil |
+| Luisa de la Cerda / Pedro Manrique / Alonso de Ávila / Andrada | D. Luisa de la Cerda / D. Pedro Manrique / Alonso de Ávila / Andrada | |
+| Fray Martín de la Cruz | Frei Martinho da Cruz | nome religioso |
+| Isabel de Santo Domingo / Isabel de San Pablo | Isabel de São Domingos / Isabel de São Paulo | |
+| Juan de la Magdalena / Juan del Espíritu Santo | João da Madalena / João do Espírito Santo | |
+| Adelantado | Adiantado | n. do tradutor em c15 |
+| mayorazgo | morgado | n. do tradutor em c15 |
+| capilla mayor | capela-mor | |
+| recaudos | papéis | documentos de autorização |
+| jergón / sayal / jerga | enxergão / saial / xerga | |
+| Consejo (del Arzobispado) | Conselho | |
+| patronato | padroado | |
+| Pascua del Espíritu Santo | Pentecostes | “Pascua” sozinha no mesmo contexto: *festa* |
+| perlada | prelada | |
+| redes | grades | |
+| ermitaño / ermita | eremita / ermida | |
+| ser de misa / ordenarse de misa | ser sacerdote / ordenar-se sacerdote | |
+| lego | leigo | |
+| Princesa de Ebuli (Éboli) / Ruy Gómez de Silva | Princesa de Éboli / Ruy Gómez de Silva | |
+| Leonor Mascareñas | D. Leonor Mascarenhas | forma portuguesa (era portuguesa) |
+| Ana de la Madre de Dios | Ana da Mãe de Deus | |
+| Mariano de San Benito (Azaro) / Juan de la Miseria | Mariano de São Bento / João da Miséria | |
+| Antonio de Jesús / Baltasar de Jesús | Antônio de Jesus / Baltasar de Jesus | |
+| Jerónimo Gracián de la Madre de Dios | Jerônimo Gracián da Mãe de Deus | |
+| Francisco de Santa María (historiador) | Francisco de Santa Maria | |
+| Mateo de la Fuente / el Tardón | Mateo de la Fuente / el Tardón | nome civil e topônimo mantidos |
+| Felipe II | Filipe II | |
+| retor (de la Compañía) | reitor | |
+| Ordinario | Ordinário | |
+| súditas | súditas | |
+| Regla y Constitución(es) | Regra e Constituição(ões) | |
+| Maitines | Matinas | |
+| diciplina | disciplina | |
+| santos del Yermo | santos do deserto | |
+| mayorazgo | morgado / bem de morgado | |
+| noche de las Ánimas | noite das Almas | |
+| once mil vírgenes | onze mil virgens | |
+| hanega / fanega | fanega | |
+| Niculás Gutiérrez | Nicolás Gutiérrez | grafia modernizada |
+| María del (Santísimo) Sacramento | Maria do (Santíssimo) Sacramento | |
+| Julián de Ávila / Martín Gutiérrez | Julián de Ávila / Martín Gutiérrez | |
+| Condesa de Monterrey, Doña María Pimentel | Condessa de Monterrey, D. María Pimentel | |
+| Pedro (Rodríguez) de la Banda | Pedro (Rodríguez) de la Banda | “la Venda” da fonte lido *la Banda* |
+| Pedro Fernández (O.P.) | Pedro Fernández | |
+| Ana de Jesús | Ana de Jesus | |
+| contador (del Duque) | contador | administrador das rendas da casa ducal |
+| Teresa de Layz / Francisco Velázquez | Teresa de Layz / Francisco Velázquez | fundadores de Alba |
+| Domingo Báñez | Domingo Báñez | |
+| San Andrés | Santo André | |
+| hijos de algo / hijosdalgo | fidalgos | |
+| limpia sangre | sangue limpo | |
+| vecinos (contagem de população) | fogos | |
+| Comisario Apostólico | Comissário Apostólico | |
+| Generalísimo | Generalíssimo | |
+| provisor | provisor | vigário-geral do bispo ausente |
+| aguacil | aguazil | |
+| los de la Merced / Mercenarios | os da Mercê / Mercedários | |
+| Cabildo | Cabido | |
+| Antonio Gaytán | Antonio Gaytán | |
+| Ana de Jimena / Andrés de Jimena | Ana de Jimena / Andrés de Jimena | |
+| Segovia / Zaragoza / Madrid | Segóvia / Saragoça / Madri | |
+| Moradas Sextas | Sextas Moradas | |
+| Beas | Beas | |
+| San Josef del Salvador | São José do Salvador | convento de Beas |
+| día de Santo Matía | dia de São Matias | |
+| beneficiado | beneficiado | titular de benefício eclesiástico |
+| Encomienda de Santiago / comendadores | Comenda de Santiago / comendadores | |
+| Consejo de las Ordenes | Conselho das Ordens | |
+| mayorazgo | morgado | |
+| hábito honesto | traje honesto | roupa modesta, ainda no século |
+| olear / olio | ungir / santos óleos | |
+| freila | conversa | irmã leiga, oposta à “do coro” |
+| zaratán | cancro | n. 10 cita a palavra do original |
+| Fray Juan de la Miseria | Frei Juan da Miséria | |
+| Fr. Pedro Fernández | Frei Pedro Fernández | Comissário Apostólico |
+| Catalina de Jesús / María de Jesús | Catalina de Jesus / Maria de Jesus | as irmãs Godínez-Sandoval |
+| Juan Bautista Rúbeo | João Batista Rúbeo de Ravena | Geral |
+| vicaría (casa) | vigararia | |
+| Sierra Morena / Córdoba / Malinas | Serra Morena / Córdova / Malines | |
+| Isabel de Santo Domingo | Isabel de São Domingos | priora de Pastrana |
+| Fray Juan de Jesús (Roca) | Frei Juan de Jesus | |
+| Fray Antonio de Jesús | Frei Antônio de Jesus | iniciador da Reforma dos frades |
+| Bárbara del Espíritu Santo | Bárbara do Espírito Santo | |
+| Calzados / Descalzos | Calçados / Descalços | |
+| Peregrinación de Anastasio | Peregrinación de Anastasio | obra de Gracián; título mantido em espanhol, sem itálico, como os demais títulos das notas do editor |
+| Él (tratamento de Teresa a Gracián) | Vossa Paternidade | |
+| Julián de Ávila | Julián de Ávila | capelão; nome mantido em espanhol, com acento moderno |
+| Antonio Gaytán | Antonio Gaytán | leigo; nome mantido em espanhol |
+| María de San José | Maria de São José | priora de Sevilha; autora do Libro de Recreaciones (título mantido) |
+| Gregorio Nacianceno | Gregório Nazianzeno | frade descalço |
+| Juan Bautista Rúbeo | Frei João Batista Rúbeo | Geral da Ordem |
+| Cristóbal de Rojas y Sandoval | Dom Cristóbal de Rojas y Sandoval | arcebispo de Sevilha |
+| Córdoba | Córdova | |
+| Pascua de Espíritu Santo | Páscoa do Espírito Santo | |
+| trabajos | trabalhos | no sentido teresiano de padecimentos |
+| venta / mesón | estalagem / hospedaria | |
+| a teja vana | de telha-vã | |
+| capas blancas de sayal | capas brancas de burel | |
 | Garciálvarez | Garciálvarez | capelão de Sevilha; forma de Teresa mantida no texto; nas notas do editor, Garci Álvarez / García Álvarez, como ele escreve |
 | Lorencio / Lorenzo de Cepeda | Lorenzo de Cepeda | irmão da Santa; leigo, nome em espanhol; “Lorencio” do autógrafo normalizado |
 | Teresita | Teresita | sobrinha da Santa |
@@ -9,7 +224,6 @@
 | Prior de las Cuevas | Prior de Las Cuevas | Fernando Pantoja; cartuxa de Santa Maria de las Cuevas |
 | Fr. Juan de la Miseria | Frei João da Miséria | pintor do retrato da Santa |
 | Nicolás Doria | Nicolau Doria | |
-| merced | mercê | |
 | sayal / jerga | burel / estamenha | |
 | solimán | solimão | |
 | alcabala | alcavala | |
@@ -18,7 +232,6 @@
 | Doña Catalina de Otálora | Dona Catalina de Otálora | fundadora de Caravaca; nome secular em espanhol |
 | Rodrigo de Moya | Rodrigo de Moya | |
 | comendadores / Encomienda de Santiago | comendadores / Comenda de Santiago | |
-| Consejo de las Ordenes | Conselho das Ordens | |
 | torno y redes | torno e grades | |
 | Definitorio | Definitório | |
 | P. Juan Bautista Rúbeo | P. João Batista Rúbeo | Geral da Ordem |
@@ -32,7 +245,7 @@
 | Fr. Gabriel de la Asunción | Frei Gabriel da Assunção | prior de Nossa Senhora do Socorro (La Roda) |
 | Mariano de San Benito | Padre Mariano de São Bento | |
 | Doña Catalina de Cardona | Dona Catalina de Cardona | nome secular em espanhol |
-| Agustín de Ervias | Agustín de Ervias | clérigo secular; nome em espanhol |
+| Agustín de Ervias | doutor Agustín de Ervias | clérigo secular; nome em espanhol |
 | Diego de Guadalajara | Diego de Guadalajara | clérigo secular; nome em espanhol |
 | Nuestra Señora del Socorro | Nossa Senhora do Socorro | |
 | Nicolás Ormaneto | Nicolau Ormaneto | núncio |
@@ -59,7 +272,6 @@
 | freila | irmã leiga | |
 | cabildo | cabido | |
 | velas (de noche) | vigílias | para não confundir com velas de cera |
-| Calzados / Descalzos | Calçados / Descalços | |
 | Soria | Sória | |
 | San Cirilo (colegio de Alcalá) | São Cirilo | |
 | Osma / el Burgo (de Osma) | Osma / o Burgo (de Osma) | sede do bispado |
@@ -100,9 +312,117 @@
 | P. García de Toledo | Padre Frei García de Toledo | dominicano, confessor da Santa |
 | Concejo (de Burgos) | Câmara | como *ayuntamiento* |
 | Libro de la Vida / Camino de Perfección | *Libro de la Vida* / *Vida* / *Camino de Perfección* | títulos mantidos em espanhol, em itálico |
+| Agustín de Ervias | Agustín de Ervias | clérigo secular; nome em espanhol |
 
 ## Decisões
 
+- O texto de Silverio não usa aspas nas falas citadas por Teresa (“Disse uma: que se tente…”, “disse-me: Espera um pouco, filha…”); mantido sem aspas.
+- Notas do editor que só registram a grafia do autógrafo (*regucijo*, *milaglo*, *entramos*, *pusilaminidad*) foram vertidas como “*forma do autógrafo*, por *forma correta*”, para que tenham sentido em português.
+- Palavras do autógrafo e emendas de Gracián citadas nas notas ficam em espanhol, em itálico. Os colchetes de emenda do editor no texto (pode[r], palavra[s], licença[s]) foram mantidos.
+- c01 ¶3, *por mayor*: traduzido “como superiora”; a n. 5 recebe *mayor* entre parênteses para que a explicação se refira à palavra.
+- c02 n. 17: acrescentados entre parênteses *hela* e *qui*, por *aquí*, para tornar a nota legível sem o espanhol do texto.
+- Correções de OCR evidentes, sem marcação: “1.0” e “¡” soltos no texto de c01 ¶6–7 e c02 ¶6 foram suprimidos; “A\aría”, “Abaldonado”, “India?”, “Retís”, “15Ó4”, “132*” lidos como María, Maldonado, Índias, Reus, 1564, 1324. Em c01 n. 11, “Bona («ocian” lido como “Borra Gracián”; em c01 n. 12, “cuó” como “vió”; em c02 n. 17, “La v” como “La h”; em c02 n. 10, “kafe” como “haze”. Em c02 n. 4 falta o dia do nascimento de Rúbeo; traduzido “em outubro de 1507”. “Orlgüelos” (c01 n. 5) mantido tal como está.
+- Nota do tradutor em c02 (`[^19]`) sobre a Regra primeira e a Regra mitigada, porque a distinção atravessa todo o livro.
+- Em apóstrofe a Deus (c02 ¶9), “vós” em minúscula, como nos demais pronomes.
+- Nomes de religião também nas notas do editor: Ana dos Anjos, Inês de Jesus, Ana da Encarnação, Isabel da Cruz, Teresa da Coluna, Maria de S. Jerônimo, Jerônima da Encarnação, André da Encarnação, Francisco de Santa Maria, Manuel de Santa Maria, Gerardo de S. João da Cruz, Madalena da Cruz. Jesuítas e seculares mantêm o nome em espanhol (Luis de Santander, Juan Ordóñez, Blas de Medina).
+- c03 ¶5: mantida a repetição de Teresa “que me comprasse uma casa … para que me comprasse uma casa”.
+- c03 ¶10: *a teja vana* traduzido “com o telhado sem forro”; *cama* (de damasco) mantida em itálico, porque a n. 23 a explica como colcha.
+- Nas notas que comentam uma palavra do autógrafo, essa palavra foi acrescentada em espanhol entre parênteses ou em itálico (*alquiley*, *defendiéronle*, *posimos*, *Llamávase*, *con que*, *en fin fin*).
+- c04 n. 17: a correção de Gracián foi traduzida, para que se compare com o texto português; c04 n. 10: o exemplo de Hurtado de Mendoza fica em espanhol, porque ilustra o uso da locução.
+- Notas do tradutor: c03 `[^39]`, sobre *portal* (vestíbulo e presépio de Belém); c04 `[^18]`, sobre *palomarcitos*.
+- c04 ¶9 “V 3 T”: assinatura tipográfica da folha na edição impressa, que interrompe uma frase entre ¶8 e ¶10. Mantida tal como está, para não alterar a numeração dos parágrafos; convém removê-la da fonte.
+- Correções de OCR evidentes, sem marcação: “rae”, “Iprimero”, “ide”, “¡me”, “isu”, “raucho”, “liada”, “secapitulo ni ñora”, “repustsros”, “Oyó” (c04 ¶8, lido “Oí”), “Grecíán”, “A\ayor”, “Rsistencia”, “Maiía”, “VIH”, “mafia”, “hnciasele”, “con esaba”, “tiaciendas”, “saluz”, “aguieritos”. Lidos: “Villaiba” como Villalba; “Acera!” como Aceral; “15V6” como 1596; “1Ü71” como 1571; c04 n. 1 “1507” como 1567; c03 n. 9 “folio SI” como 81; c03 n. 20 “IS maravedís” como 18; c03 n. 37 “carmelitas del patio” como *del paño*, traduzido “carmelitas calçados”. “Renciso” (c03 n. 12) mantido.
+- Emendas de Gracián e Báñez citadas nas notas: traduzidas em itálico, para que se comparem com o texto português; ficam em espanhol só quando a nota trata da forma espanhola (c05 n. 11, n. 16, n. 26, n. 27; c06 n. 19, n. 26, n. 34), às vezes com a tradução entre parênteses.
+- Notas que apenas regularizam a grafia da Santa (*quice*, *desgustos*, *sospiro*, *deciplinas*, *destraya*, *trasordinaria*, *de quí*): dão a forma do autógrafo e a corrente.
+- c05 n. 3: “zefibhá” lido *recibirá*, traduzido *receberá*. c05 n. 10: “R que” lido “o que”. c06 n. 17: “Dar qué … paresfe” lido “Por qué … paresce”.
+- c06 ¶7: “se Hullan” lido *se tullan*, traduzido “se tolham”.
+- c05 ¶8: *de vista* traduzido “por tê-las visto eu mesma” (conhecimento direto, não superficial); a n. 19 explica a emenda de Gracián.
+- c06 ¶10: mantido o jogo *pesada* / *no me pesa*.
+- c06 n. 33: “I Rey., XV, 22” (numeração da Vulgata) dado como 1 Samuel 15:22.
+- Notas do tradutor: c05 `[^46]`, tradução de *obediens usque ad mortem*; c06 `[^35]`, sobre as Bernardas.
+- Correções de OCR evidentes, sem marcação: “Báflez”, “Bánez”, “bona”, “petfectión”, “Santa Alaría”, “Valladolld”, “autógrato”, “Dues”, “ñd Philip.”, “/ Rey.”, “M margen”, “vrbo”, “nuívo”, “querella?”, “(alta”, e os sinais soltos do texto (“icausas”, “Imás”, “ij ansí”, “tío hay”, “ei alma” etc.).
+- c07 ¶5–7: a fonte traz o fim de ¶5 e os ¶6–7 baralhados pela digitalização (o texto das notas 5, 6 e 7 metido no corpo, e a frase “demonio a sujetar aquel alma…” separada do seu começo). Retirado o texto das notas, que já está nas definições `[^5]`–`[^7]`, e redistribuído o corpo em três parágrafos para manter a contagem: ¶5 até “tomando por medio este mal”; ¶6 “Porque es cosa peligrosa… terrible ardid del demonio”; ¶7 “Y ansí, si lo miramos… quien las resista?”.
+- c07 ¶11: o fragmento solto “el P. Gracián: y obra de.”, resto de uma nota do editor sem chamada, saiu do corpo e foi registrado na n. do tradutor `[^15]`.
+- c07 n. 11: “página 3?” mantido como está; o número da página é ilegível na digitalização. c07 n. 12: “hftce urtin” lido *hace un*; a nota fica truncada como na fonte.
+- c07 ¶4: “no la uniendo” lido *no la teniendo*. c07 ¶14: “temían” lido *ternían* (“teriam”). c08 ¶11: “Imilaglosas” lido *milaglosas*. c09 n. 1: “UreBa U Brecca” lido “Ureña y Brecca”.
+- c08 n. 10: “lo gastaron (sic)” traduzido literalmente “o gastaram (sic)”, para conservar a estranheza que o editor assinala.
+- Notas do tradutor: c07 `[^14]`, sobre “humor” e melancolia; c07 `[^15]`, sobre a nota truncada; c08 `[^14]`, sobre “fazer figas”.
+- Correções de OCR evidentes, sem marcação: “aue”, “Sania”, “guia”, “líneíis”, “Báflez”, “aflo”, “dispula”, “Dona”, “Alaría”, “de!a”, “Indiferentes”, “Iba”, “viulendo”, “mileffroses”, e os sinais soltos do texto (“lnac«de”, “cu(a]ndo”, “lellos”, “ij las”, “íun mundo”, “e'feto”, “es'tas”, “¡claro” etc.).
+- c10 n. 1: “El del mismo mes salió” tem o dia omitido; completado “No dia [30]”, com colchetes, segundo a n. 5 do mesmo capítulo.
+- c10 n. 19: “el día de Enero de 1577” sem o dia; marcado “no dia [...] de janeiro”. A abreviatura ilegível “hr.a” da fórmula de profissão fica em itálico como está. “Lopeta” lido *Lopera* (como na n. 25); “17k2” lido *1742*; “1010” lido *1610*. O epitáfio e a fórmula de profissão, citados em espanhol, foram traduzidos, conservando as barras de fim de linha e o *Ego* latino.
+- c10 n. 25: “la M. I ni ti” lido *la M. Luisa* (Luisa da Cruz, cofundadora de Lerma com Ana dos Anjos).
+- c10 ¶10: o ruído “V m 6 •” retirado do corpo. c10 n. 14: “Abaría” lido *María*.
+- c11 ¶5 e n. 3: o fragmento “de Castilla y muerto en 1560.”, metido no corpo do ¶5, é o fim da n. 3 (truncada em “adelantado”); saiu do corpo e completou a nota.
+- c11 n. 2: “Ó de Agosto” lido *6 de agosto* (Transfiguração); o “f” solto antes de “freila” tratado como ruído. c11 n. 5: “1575” lido *1573*, conforme a n. 8 e a estada da Santa em Salamanca.
+- c11 ¶8: “mi su esposo, que venido” lido *ni su esposo, que vino*; ¶12 “entro” lido *entró*.
+- Notas do editor que comentam a grafia do autógrafo (*teni*, *Lorecio*, *abridles*, *devisisa*, *enfundió* etc.) conservam a palavra espanhola em itálico; em c10 n. 2 acrescentou-se “[de *tenía*]” e em c11 n. 7 a palavra *Alelarla*, para que a nota se entenda sem o texto espanhol.
+- Notas do tradutor: c10 `[^30]`, sobre o ofício de adiantado; c11 `[^14]`, sobre os chapins.
+- Nomes: os religiosos (Antônio de Jesus, Úrsula dos Santos, Antônia do Espírito Santo, André da Encarnação, Afonso da Mãe de Deus, Bento da Cruz) traduzem-se por inteiro; os nomes civis, inclusive de frades (Antonio de Heredia, Alonso González, Ángel de Salazar), ficam em espanhol.
+- c12 título: “abisma casa” lido *esta mesma casa*. c12 ¶9: “tornar consuelo” lido *tomar*. c12 n. 2: “encamafión” lido *Encarnación*, “teman” lido *tenían*, “1. R.” lido *letra R* (como na n. 14). c12 n. 3: “A\.” lido *M.* (Madre).
+- c12 n. 6–13 e c13 n. 3, 10, 13: notas sobre a grafia do autógrafo levam entre colchetes a forma correta ou a palavra de que tratam, para se entenderem sem o texto espanhol. A n. 11 de c12 (sobre o *u* por *o*) fica junto de “ou”.
+- c13 ¶6–7: a fonte parte o parágrafo a meio da frase (“hasta ahora he / visto”), por quebra de página; mantida a divisão para conservar a numeração dos parágrafos.
+- c13 ¶5: o *vos* singular de respeito da companheira à Santa vertido por *vós* (“não trateis disso”).
+- c13 n. 1: “A\alagón” lido *Malagón*; “156S” lido *1568*; “ten a pechos” lido *tan a pechos*; “aflo” lido *año*. c13 n. 7: “aun cara” lido *aun para*. c13 n. 11: “La Peftuela” lido *La Peñuela*.
+- c13 ¶5: “cámara doblada con su desván” vertido por “quarto de sobrado com o seu desvão”.
+- Notas do tradutor: c12 `[^15]`, sobre o capítulo de culpas e as zeladoras; c13 `[^18]`, sobre *agosto* no sentido de colheita.
+- c14 ¶7: “hace)hi deshace” lido *hace ni deshace*. c14 n. 1: “Aladre” lido *Madre*, “porte” lido *parte*, “1. R.” lido *letra R*. c14 n. 8: a fonte omite o dia (“el de Septiembre de 1639”); vertido “em setembro de 1639”; “lacryma?” lido *lacrymae*.
+- c14 ¶11: “El se aficionó tanto a ella” fica ambíguo (o pai ou o mercador), como no original.
+- c15 n. 2: “BDreciaba” lido *apreciaba*. c15 n. 11: “15°5” lido *1595*; “1. O” lido *letra O*. c15 n. 21: “n la Santa” lido *a la Santa*. c15 n. 29: “Gucndulain” lido *Guendulain*.
+- c15 ¶6–7: a fonte parte a frase a meio (“cuando tenía / un poco blando”); mantida a divisão. A nota do tradutor `[^30]`, que serve ao ¶6, fica depois do ¶7 para não se interpor entre as duas metades da frase.
+- c15 n. 4, 17, 18, 19, 25: seguem a regra de c12 (forma do autógrafo entre colchetes).
+- c15 ¶9: “lienzos” vertido por *telas* (quadros pintados); a n. 14 concorda no feminino.
+- Notas do tradutor: c14 `[^11]`, sobre *reloj* = ampulheta; c15 `[^30]`, sobre o *Adelantado*; c15 `[^31]`, sobre *mayorazgo*.
+- c16 n. 1–2: as definições vêm trocadas na fonte (“Muchas haciendas” sob `[^1]`, que está em *alguna*; “ñlgunas, dice el autógrafo” sob `[^2]`, que está em *bien*). Os marcadores ficaram no lugar; os conteúdos das definições foram permutados para corresponder a eles. “ñlgunas” lido *Algunas*.
+- c16 ¶3 e n. 4: “Ana de la Aladre de Dios” lido *Madre*. c16 ¶7: “temíamos” lido *teníamos*.
+- c16 ¶9: a fonte traz “de no jurar más”; vertido *não jogar mais*, conforme o contexto (era “gran jugador”) e a leitura de Mason (“to gamble no more”). Rever se o autógrafo confirmar *jurar*.
+- c16 ¶6 *ci[el]o*, ¶9 *solemn[e]*, c17 ¶9 *habí[a]*: os colchetes de restituição do editor caem, porque a palavra portuguesa difere; as notas 6 e 8 de c16 citam a forma do autógrafo em itálico.
+- c16 n. 9: “iialó” lido *habló/trató*; “hijaP” lido *hija?*; “Liona Luisa” lido *Doña Luisa*.
+- c17 ¶9: “dolor” lido *doctor*. Notas 14, 15, 16, 23 vertidas citando a forma do autógrafo (*italina*, *Bolonia*, *parecerles hía*).
+- c17 n. 8–9: a fonte parte uma nota a meio (`[^8]` termina em “hasta el día”; `[^9]` começa em “de Junio”), e o “9” do dia foi lido como marcador. Reconstruído: `[^8]` = “30 de maio de 1569”; `[^9]` = o resto (“No mesmo coche…”), com “até o dia 9 de junho”.
+- c17 n. 5: “d. 295” lido *p. 295*; a citação italiana do núncio mantida, com correção de OCR (*Il*, *leale*, *molto*, *alle*, *S.ta Sede Ap.ca*). “menino” da imperatriz vertido *pajem*.
+- c17 n. 31: mantido “30 de maio” como na fonte, embora a sequência (morte do Príncipe a 29 de julho) indique julho.
+- c17 n. 32: “157$” lido *1574*. c17 n. 33: “(d. 391)” lido *p. 391*; “pég.” lido *pág.*; “Báflez” lido *Báñez*; “mafia” lido *maña*.
+- Nota do tradutor: c17 `[^34]`, sobre “nossos santos Padres” (os antigos eremitas do Carmelo).
+- c18 ¶15–16: um cabeçalho de página da fonte (“CAPÍTULO XVIII”) parte a palavra *particular* entre os dois parágrafos. O cabeçalho cai; o corte fica em “porque tenho” / “particular devoção”, para manter a contagem de parágrafos.
+- c18 n. 10: o resíduo de OCR “V ' 10 *” no fim da nota foi omitido; “art. S'l” lido *51*; “exolicito” lido *explícito*.
+- c18 n. 6: “aquí o fívi” lido *aquí a Avi* (fí = A, como em “fíutores”). c18 n. 12: “ñlatbat” lido conjecturalmente *alabbar*; rever no autógrafo.
+- c18 n. 8: “Yáflez” lido *Yáñez*; “Villar y Mecías” lido *Villar y Macías*. c18 n. 7: “Si. Obispo” lido *Sr. Bispo*.
+- c18 n. 15, 17, 19: vertidas citando a forma do autógrafo (*acanzar*, *hanegas*, *amosar*). c18 ¶9 “[diciplina]”: colchete do editor mantido. c18 ¶16 “po[dido]”: colchete cai; n. 20 cita *-dido*.
+- c18 ¶15: “pues cómasele ella”, sem aspas na fonte, mantido sem aspas.
+- Notas do tradutor: c18 `[^22]` (a fanega como medida); c19 `[^18]` (noite das Almas, véspera dos Fiéis Defuntos); c19 `[^19]` (bens de morgado e licença régia).
+- c19 n. 2: “Juan Alóriz” lido *Juan Moriz* (assim em Mason); “mangos de sarmientos” lido *manojos* (*feixes*); acrescentada a aspa de abertura que falta na citação de Maria de São Francisco.
+- c19 n. 6: “Estoy pensando, diríamos hoy”; vertida explicitando a forma do autógrafo (*estoy pensado*).
+- c19 n. 7: “el ó de Octubre” lido *6*; “Caimán” lido *Carmen*. c19 n. 9: “157?.” lido *1573*; “Iraxese” lido *traxese* (com *vinho* explicitado); “lo cero” lido *lo caro*. c19 n. 13: “Ano de Jesús” lido *Ana*; “casa de la Venda” lido *de la Banda*; “palio” lido *patio*.
+- c19 n. 15: “Artiage” mantido como na fonte; *tabardillo* vertido *tifo*.
+- Nomes de religião aportuguesados no sobrenome religioso, como em Ana de Jesus e Maria do Sacramento: Juana do Espírito Santo, Guiomar de Jesus, Tomasina Batista, Maria de Jesus, Catalina da Conceição, Isabel de Jesus, Maria de São José, Maria da Encarnação, Ana da Santíssima Trindade, Mariana de Jesus. O nome de batismo fica na forma espanhola, salvo María → Maria.
+- Notas do tradutor: c20 `[^26]` (jogo de *punto* e o *pundonor*); c21 `[^22]` (os frades da Mercê, mercedários).
+- c20 ¶5: aspas e sinais soltos do OCR («el que, 'entender, ¡padres) omitidos. c20 ¶11 “lel” lido *el*; ¶13 “relisiosos” vertido normalmente.
+- c20 n. 4: “Báfiez” lido *Báñez*. n. 6: “orosapia” lido *prosápia*; “Carpió” lido *Carpio* (também n. 18). n. 8: “habla” lido *había*. n. 11: “contador H pagador” lido *y*; “d¿Covarrubias” lido *de*; “Riba de Tormes” lido *Alba de Tormes* (título da obra de Lamano). n. 16: “Rñijose” lido *Aflijose*. n. 23: inscrição mantida em espanhol, em itálico, com tradução entre parênteses; “Rqvi” lido *Aqvi*, “¡os” lido *los*, “Lariz” mantido; “ñlba” lido *Alba*. n. 25: “16! 4” lido *1614*; “970 metros” lido *9,70*; “Ñero” lido *Nero* (incerto).
+- c21 n. 1: “IHI” lido *IIII*. n. 4: “ñ mi no” lido *A mí no*; “Laúdate” lido *Laudate*, em itálico, sem tradução (a fonte não a dá); “basta 1588” lido *hasta*; “Qaytán” lido *Gaytán*; *Ayuntamiento* e *Concejo* vertidos *Câmara*. n. 5: “7*t” lido *74*. n. 12: “nota marta” lido *cuarta*. n. 19: “Cnnongia” lido *Canongía Nueva* (nome de rua mantido).
+- c21 ¶10 “llevafba]”: colchete do editor cai; n. 16 cita *Lleva*. Notas que glosam uma palavra do autógrafo (*curadas*, *cómodo*, *conmenzó*, *Dicíeme*) passam a citá-la, porque a tradução já a resolve.
+- c21 n. 18: acrescentada a aspa de fecho que falta na citação de Orozco.
+- c22 ¶27 “V.15 ♦”: marca de página ou assinatura tipográfica da fonte; mantida como está para preservar a contagem de parágrafos.
+- c22 ¶17 “pensó iba ya a acabar la vida. Su hermana y ella vio en sí”: lido como em Mason, “a irmã pensou que ela ia acabar a vida; e ela viu em si”, única leitura gramatical.
+- c22 ¶25: o anacoluto da voz (“el que tuvo poder para que de tantas enfermedades…”) completado com “não morresses”, como em Mason, para que a frase se entenda.
+- c22 ¶16: a repetição “de suerte que aun sobre la ropa era el fuego) 'de suerte, que se” vertida como uma só frase (“de sorte que até por cima da roupa o fogo era tal que se sentia”); aspas soltas do OCR omitidas. Lixo de OCR omitido também em ¶8 (“tío” lido *no*, “¡una”), ¶10, ¶12 (“ensí i a la ilesia” lido *ansí a la iglesia*), ¶23, ¶25.
+- c22 n. 11 “1500” lido *1560* e n. 13 “1505” lido *1565*, pela cronologia do próprio capítulo (conversão em 1555, pai morto cinco anos depois, mãe cinco anos mais tarde).
+- c22 n. 22 “157Í” lido *1574*. n. 23: “lü de Febrero” lido *16* (Quarta-feira de Cinzas de 1575); “maravilles”, “Píi-' sose”, “entrambo.”;”, “Carmeli;as”, “t. 1” corrigidos. n. 20 e n. 34 “AL” lido *M.*
+- c22 n. 25: “Godíiiez”, “Mana”, “liúbito”, “Suncho”, “Alaría”, “Revena” (lido *Ravena*, como adiante na mesma nota) corrigidos; a fórmula de profissão, citada dentro da ata, vai entre ‘ ’.
+- c22 n. 30: “Hospital de ñfueta” lido *Hospital de Afuera* (o Hospital de Tavera, em Toledo); “c. VI!” lido *VII* (incerto).
+- c22 n. 34 “p. 5141” lido *p. 514)*. n. 35: “15'l5” lido *1545*, “Aledina” *Medina*, “ñnne” *Anne*; “traducida a nuestra lengua” vertido “traduzida para o castelhano”, pois “nossa língua” enganaria o leitor brasileiro.
+- c22 n. 6, 8, 9, 15, 17, 26, 27, 32, 33: notas sobre o autógrafo citam a palavra espanhola em itálico, segundo a regra já adotada.
+- c22: nenhuma nota do tradutor; as do editor já cobrem o capítulo.
+- c23 ¶9: o anacoluto “Como ella le vió, que es agradable su trato…” vertido como duas orações (“Ela o viu; e o seu trato é tão agradável que…”), sem perda de conteúdo; a frase retoma em ¶10.
+- c23 ¶11 “menes[fcer)” lido *menes[ter]* (n. 14 diz que falta a última sílaba) e vertido “mister”; n. 14 cita *Menes[ter]* em itálico. ¶12 “temía yo” lido *tenía yo*, “fe faltase” *le faltase*, “lodo” *todo*. ¶13 “Hasta que vinieran” entendido como as constituições, como em Mason. Apóstrofos soltos do OCR (¶3, ¶10) e “¡” em ¶14 omitidos.
+- c23 n. 3 “?5 de Abril” lido *25* (data repetida no fim da nota); “acribé” lido *acabé*. n. 4 “ua” lido *ya*; acrescentado o parêntese de abertura da referência. n. 5 “Sauahuja” lido *Sanahuja*, “oor” *por*, “16'4” lido *1614* (incerto). n. 7 “ij” omitido, “p. HO” lido *140* (como na n. 4). n. 10 “Rn&stasio” e n. 7 “ñnastasio” lidos *Anastasio*.
+- c23 n. 11: o “Él” com que Teresa trata Gracián em terceira pessoa vertido “Vossa Paternidade”, como ela o chama nas cartas; a fala dela, citada dentro da citação, vai entre ‘ ’ e fecha-se a aspa externa que falta na fonte.
+- c23 n. 9, 12, 14, 17, 18: notas sobre o autógrafo citam a palavra espanhola em itálico.
+- c23: nenhuma nota do tradutor; as do editor já cobrem o capítulo.
+- c24 ¶20–21: a fonte parte uma frase entre os dois parágrafos (“que yo me tornara / con mis monjas…”); mantida a divisão, com ¶20 terminando sem ponto.
+- c24 ¶14: “era la Vocación las ruedas. del Espíritu Santo” — “las ruedas.” é resto do OCR (da n. 16) e foi omitido; “Vocación” vertido “invocação”. Outros erros de OCR lidos sem registro em nota: “Isin” *sin*, “Carayaca”, “favorecíe”, “caslillo”, “ay'ua”, “pon pena” *con pena*, “ima” *una*, “terca” *cerca*, “marida” *manda*, “alquitey” *alquiler*, “Imal”, “feste” *este*; aspas e parênteses soltos omitidos.
+- c24 ¶7 “se fué a él”: entendido como “pôs-se a caminho” (a él = ao caminho).
+- c24 ¶19: acrescentada a n. 28, do tradutor, sobre a *blanca* (moeda mínima de Castela, meio maravedi); termo mantido em itálico no texto.
+- c24 notas: «» convertidas em “ ”; meses em minúscula; abreviaturas de santos (S.) desdobradas nos nomes de religiosas; “Novena Recreación” / “Recreación IX” vertidas “Nona Recreação” / “Recreação IX” após o título mantido Libro de Recreaciones. N. 10 “una venta… sin entrar en ellas” vertido no plural (“umas estalagens”), como pede o “ellas”. N. 12 “puerto de luz” vertido “bom porto”. N. 19 “tratamos” lido *trajimos*. N. 27 “habla” *había*, “el vía podía” lido *él veía que [yo] podía*.
 - c25 ¶3 “para que él se quedase en su ser”: “él” lido como o natural da Santa, não como o Senhor (contra Mason).
 - c25 ¶6 a palavra divina “Ya os he oído; déjame a Mí” vertida “Já vos ouvi; deixa-me a Mim”, mantendo a mistura de pessoas e sem aspas, como na fonte.
 - c25 n. 14 e n. 16 (sobre as grafias *peroquia* e *pórvora*): como o texto português traz “paróquia” e “pólvora”, a forma do autógrafo foi indicada entre parênteses na nota.
