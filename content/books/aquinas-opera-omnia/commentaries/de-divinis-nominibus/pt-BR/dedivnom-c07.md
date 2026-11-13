@@ -14,7 +14,7 @@ Da causalidade universal de Deus com respeito à vida e com respeito a quaisquer
 
 > **287.** E, assim como, ao tratar do ente, dizíamos que ele é o evo também daquilo que é o ser por si, assim também aqui, por sua vez, dizemos que a vida divina, que vive acima de tudo, vivifica e dá substância também à própria vida por si; e toda vida e todo movimento vivificante procedem da vida que está acima de toda vida e de todo princípio de qualquer vida.
 
-> **288.** Dela também as almas recebem a indestrutibilidade, e todos os animais e as plantas recebem o viver, segundo a última ressonância da vida. Destruída esta, segundo a Escritura, toda vida desfalece; e as coisas que, por fraqueza, deixaram de participar dela, novamente voltadas para ela, tornam-se de novo animais.
+> **288.** Dela também as almas recebem a indestrutibilidade, e todos os animais e as plantas recebem o viver, segundo a última ressonância da vida. Destruída esta, segundo o oráculo, toda vida desfalece; e as coisas que, por fraqueza, deixaram de participar dela, novamente voltadas para ela, tornam-se de novo animais.
 
 > § 2. **289.** E ela dá, primeiramente, à vida por si o ser vida, e a toda vida, mesmo particular, o ser propriamente aquilo que cada uma é por natureza. E às vidas supracelestes dá a imortalidade imaterial, deiforme e invariável, e o movimento sempiterno, forte e incapaz de se desviar, estendendo-se, pela abundância de sua bondade, até à vida dos demônios; pois nem esta recebe o ser de outra causa, mas dela recebe tanto o ser vida como a permanência.
 
@@ -88,7 +88,7 @@ Da causalidade divina quanto à propriedade da vida humana e dos viventes inferi
 
 > **291.** E, pela superemanação da bondade, convertendo-nos e chamando-nos de volta a si mesma, mesmo quando nos afastamos.
 
-> **292.** E o que é ainda mais divino: promete transferir-nos inteiros, digo, as almas e os corpos a elas unidos, para a vida perfeita e a imortalidade. Isso parecia, de modo geral, aos antigos, fora da natureza; mas, para mim, para ti e para a verdade, é divino e acima da natureza: digo, porém, acima da natureza tal como a vemos, não da natureza onipotente da vida divina. Pois, para ela, sendo a natureza de todas as vidas, sobretudo das divinas, nenhuma vida está fora da natureza ou acima da natureza. Por isso, sejam expulsas para longe do coro divino e de tua santa alma as palavras insensatas de Simão que contradizem isso: pois escapou-lhe, como penso, embora fosse tido por sábio também nessas coisas, que quem conhece bem não deve usar a razão manifesta dos sentidos para combater a causa oculta de todas as coisas; e deve-se dizer-lhe que é isso o que significa falar fora da natureza. Pois nada lhe é contrário.
+> **292.** E o que é ainda mais divino: promete transferir-nos inteiros, digo, as almas e os corpos a elas unidos, para a vida perfeita e a imortalidade. Isso parecia, de modo geral, aos antigos, fora da natureza; mas, para mim, para ti e para a verdade, é divino e acima da natureza: digo, porém, acima da natureza tal como a vemos, não da natureza onipotente da vida divina. Pois, para ela, sendo a natureza de todas as vidas, sobretudo das divinas, nenhuma vida está fora da natureza ou acima da natureza. Por isso, sejam expulsas para longe do coro divino e de tua santa alma as palavras da loucura de Simão que contradizem isso: pois escapou-lhe, como penso, embora fosse tido por sábio também nessas coisas, que quem conhece bem não deve usar a razão manifesta dos sentidos para combater a causa oculta de todas as coisas; e deve-se dizer-lhe que é isso o que significa falar fora da natureza. Pois nada lhe é contrário.
 
 > § 3. **293.** Dela recebem a vida e florescem por toda parte todos os animais e as plantas;
 
@@ -132,6 +132,6 @@ Para manifestar, porém, a segunda relação, a saber, que toda vida existe nele
 
 **694.** Terceiro, onde diz: ***e como não necessitada*** etc., apresenta as condições da vida divina pelas quais difere das outras:
 
-e primeiro, nossa vida necessita de muitas coisas para sua conservação, como alimento e outras coisas semelhantes; e, para afastar isso, diz que a vida divina é ***não necessitada***, mas antes superabundantemente plena.
+e primeiro, nossa vida necessita de muitas coisas para sua conservação, como alimento e outras coisas semelhantes; e, para remover isso, diz que a vida divina é ***não necessitada***, mas antes superabundantemente plena.
 
 Segundo, o que vive entre essas coisas inferiores não vive por si, mas o corpo vive pela alma. A vida divina, porém, é ***vivente por si***, porque não há em Deus outra coisa que o vivifique; e vive de modo supereminente, ou de qualquer modo como ***alguém*** pudesse louvar com palavras humanas a vida divina, que vive de modo supereminente ***e é inefável***.

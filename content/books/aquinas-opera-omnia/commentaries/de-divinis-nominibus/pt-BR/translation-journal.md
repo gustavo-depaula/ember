@@ -55,7 +55,7 @@ Destino: pt-BR.
 | manuductio | condução pela mão | Preservada a imagem, retomada expressamente pelo comentário. |
 | remotio / abnegatio | remoção / negação | Primeiro modo de denominação de Deus. |
 | quidditas | quididade | Mantida distinta de “essência” quando ambas aparecem no original. |
-| immissiones / susceptiones | infusões / recepções | Designam as unições das mentes à bondade divina. |
+| immissiones / susceptiones | infusões / recepções | Designam as unições das mentes à bondade divina. “Comunicações” para “immissiones” quando designa a comunicação dos bens divinos a todas as coisas, como na exposição da perfeição divina. |
 | causa perfectiva / contentiva / conversiva | causa perfectiva / contentiva / que reconduz a si | O próprio comentário explica os três modos de causalidade. |
 | incircumfinite | sem circunscrição | Ausência de delimitação, explicada em [222] pela infinitude das perfeições divinas. |
 | electinas / electrinas | de eletro | Conserva-se a designação do material das figuras visionárias, sem adotar “âmbar” da referência inglesa. |
@@ -150,7 +150,7 @@ Destino: pt-BR.
 | collocatio credentium | estabelecimento dos que creem | Conservada a imagem de firmeza e fundamento na explicação da fé. |
 | conspiratio / harmonia | consonância / harmonia | A primeira é explicada como concórdia; a segunda, como ordem e proporção devidas. |
 | logos | *logos* | Mantida em itálico a palavra grega transliterada, com os sentidos dados pelo próprio comentário. |
-| virtus | poder / virtude / força / potência | “Poder” como nome divino e capacidade causal; “virtude” no sentido moral e em “virtudes celestes/angélicas”; “força” no exemplo dos pugilistas; “potência” para faculdades nutritivas e de crescimento. |
+| virtus | poder / virtude / força / potência | “Poder” como nome divino e capacidade causal; “virtude” no sentido moral e em “virtudes celestes/angélicas”; “força” no exemplo dos pugilistas; “potência” para faculdades nutritivas e de crescimento. “Faculdade” para capacidades cognoscitivas; “capacidade” para o grau de aptidão ou alcance de um agente. |
 | iustitia commutativa / distributiva | justiça comutativa / distributiva | Conservada a distinção entre igualdade de quantidade e igualdade de proporção. |
 | salvatio / liberatio | salvação / libertação | A salvação abrange a conservação no bem e o resgate do mal; a libertação designa o livramento do mal e de suas deficiências. |
 | aevum | evo | Medida simples do ser, distinta do tempo enquanto medida do movimento. |
@@ -186,7 +186,7 @@ Destino: pt-BR.
 | sanctitas / munditia / immunditia | santidade / pureza / impureza | Conserva-se a relação entre a santidade e os três graus de pureza. |
 | regnum / dominatio | reino / dominação | “Reino” inclui aqui o exercício do governo; “dominação” designa a superioridade acompanhada de bens e poder de reger. |
 | deitas / divinitas | deidade / divindade | Mantém-se “deidade”, já empregado no livro, distinguindo as formas latinas. |
-| ornatus / incommensuratio | ornamento / desproporção | A desproporção é explicada como falta de correspondência à medida devida. |
+| ornatus / incommensuratio | ornamento / desproporção | A desproporção é explicada como falta de correspondência à medida devida. “Ordens” para “ornatus” quando designa as ordens angélicas. |
 | perfectum / superperfectum | perfeito / superperfeito | Distinguem-se a perfeição criada e a perfeição divina que a excede. |
 | unum / unitas / multitudo | uno / unidade / multidão | “Uno” conserva o uso metafísico; “um” é usado quando a construção exige o numeral. |
 | thearchia / thearchicus | tearquia / teárquico | O próprio comentário explica “tearquia” como a deidade principal de toda a Trindade. |
@@ -504,3 +504,196 @@ Verdict: 0 meaning-level, 2 minor. Full read of c09–c15 (paragraphs, six notes
 ### Part 4 of 4, Round 4 (codex, delta read)
 Verdict: 0 meaning-level, 0 minor. Verificadas as duas correções e lidos integralmente os seis parágrafos apresentados, a nota e os metadados pertinentes: correções válidas, sem novos defeitos.
 - Rejected: pt-BR/dedivnom-c11.md [6–8] — A auditoria aponta diferenças na quantidade de marcadores de ênfase. — As diferenças decorrem do negrito nos números dos parágrafos, conforme o formato exigido.
+
+### Part terms 1 of 3, Round 1 (codex, terms read)
+Verdict: 15 meaning-level, 19 minor. 159 parágrafos sinalizados lidos; 33 derivas em 28 parágrafos; uma linha do glossário complementada.
+- `pt-BR/translation-journal.md`: “| virtus | poder / virtude / força / potência | “Poder” como nome divino e capacidade causal; “virtude” no sentido moral e em “virtudes celestes/angélicas”; “força” no exemplo dos pugilistas; “potência” para faculdades nutritivas e de crescimento. “Faculdade” ou “capacidade” para faculdades cognitivas; “capacidade” em “secundum virtutem”, quando designa a medida das próprias forças. |” → “| virtus | poder / virtude / força / potência | “Poder” como nome divino e capacidade causal; “virtude” no sentido moral e em “virtudes celestes/angélicas”; “força” no exemplo dos pugilistas; “potência” para faculdades nutritivas e de crescimento. “Faculdade” para capacidades cognoscitivas; “capacidade” para o grau de aptidão ou alcance de um agente. |” — A tradução emprega reiteradamente “faculdade” e “capacidade” em sentidos de virtus que a linha não contempla; são variantes adequadas nesses contextos.
+- `pt-BR/dedivnom-c01.md` [5]: “intitulou *De symbolica theologia*” → “intitulou *Teologia simbólica*” — Título da obra → “Teologia simbólica” (Key Terms).
+- `pt-BR/dedivnom-c02.md` [118]: “purificam removendo a ignorância” → “purificam removendo o desconhecimento” — nescientiam → “desconhecimento”; o glossário distingue desconhecimento de ignorância, distinção aplicada expressamente aos anjos. *(meaning)*
+- `pt-BR/dedivnom-c02.md` [178]: “como sábio; como amável;” → “como sábio; como digno de dileção;” — diligibilem → “digno de dileção”; “amável” corresponde a amabile e apaga a distinção do glossário. *(meaning)*
+- `pt-BR/dedivnom-c02.md` [178]: “mundano, circundante ao mundo, supramundano” → “mundano, circunmundano, supramundano” — circamundanum → “circunmundano” (Key Terms); estava parafraseado.
+- `pt-BR/dedivnom-c02.md` [200]: “a ***união*** das santas” → “a ***unição*** das santas” — unitio → “unição”; preserva a distinção entre unitio e unio. *(meaning)*
+- `pt-BR/dedivnom-c02.md` [201]: “***união, fim, infinitude***” → “***unição, fim, infinitude***” — unitione → “unição”; preserva a distinção entre unitio e unio. *(meaning)*
+- `pt-BR/dedivnom-c02.md` [209]: “pois seu entender e seu querer” → “pois seu inteligir e seu querer” — intelligere, como ato intelectual divino → “inteligir” (Key Terms).
+- `pt-BR/dedivnom-c02.md` [219]: “***como amável***” → “***como digno de dileção***” — diligibilem → “digno de dileção”; “amável” corresponde a amabile. *(meaning)*
+- `pt-BR/dedivnom-c02.md` [219]: “***circundante ao mundo***” → “***circunmundano***” — circamundanum → “circunmundano” (Key Terms).
+- `pt-BR/dedivnom-c02.md` [223]: “no livro *De symbolica theologia*” → “no livro *Teologia simbólica*” — Título da obra → “Teologia simbólica” (Key Terms).
+- `pt-BR/dedivnom-c02.md` [231]: “no livro *De symbolica theologia*” → “no livro *Teologia simbólica*” — Título da obra → “Teologia simbólica” (Key Terms).
+- `pt-BR/dedivnom-c03.md` [11]: “o supersubstancial, o supervivo, o supersábio” → “o supersubstancial, aquele que vive acima de tudo, o supersábio” — supervivens → “que vive acima de tudo” (Key Terms), com ajuste do artigo.
+- `pt-BR/dedivnom-c03.md` [42]: “***superbem, supersubstancial, supervivo, supersábio e***” → “***superbem, supersubstancial, que vive acima de tudo, supersábio e***” — supervivum → “que vive acima de tudo” (Key Terms).
+- `pt-BR/dedivnom-c03.md` [53]: “estando todas inteiramente unidas umas às outras, sem mistura” → “estando todas inteiramente em concreção umas com as outras, sem mistura” — concretis → “concreção”; “unidas” apaga a distinção técnica entre concreção e unição. *(meaning)*
+- `pt-BR/dedivnom-c03.md` [99]: “porque uma luz inteira está unida à outra” → “porque uma luz inteira está em concreção com a outra” — concretum → “concreção”; preserva o termo distinguido de unição. *(meaning)*
+- `pt-BR/dedivnom-c03.md` [145]: “segundo uma lei diferente, além da natureza” → “segundo uma lei diferente, fora da natureza” — praeter naturam → “fora da natureza”; o glossário distingue essa expressão de supra naturam. *(meaning)*
+- `pt-BR/dedivnom-c03.md` [178]: “***lei além da natureza***” → “***lei fora da natureza***” — praeter naturam → “fora da natureza”; preserva a distinção de supra naturam. *(meaning)*
+- `pt-BR/dedivnom-c03.md` [184]: “a união do amor deve ser chamada” → “a união da dileção deve ser chamada” — dilectionis → “dileção”; o glossário distingue dilectio de amor. *(meaning)*
+- `pt-BR/dedivnom-c03.md` [232]: “E, compreendendo isso sobrenaturalmente,” → “E, inteligindo isso sobrenaturalmente,” — intelligens → “inteligindo”; “compreender” possui neste livro o sentido técnico mais forte de conhecimento exaustivo. *(meaning)*
+- `pt-BR/dedivnom-c03.md` [259]: “***E, compreendendo isso sobrenaturalmente***” → “***E, inteligindo isso sobrenaturalmente***” — intelligens → “inteligindo”; preserva a distinção de comprehendere. *(meaning)*
+- `pt-BR/dedivnom-c04.md` [5]: “a Trindade, princípio do bem e acima do bem,” → “a Trindade, princípio do bem e superboa,” — superbonam → “superboa”, forma adjetiva feminina correspondente ao termo “superbem”, em concordância com Trindade.
+- `pt-BR/dedivnom-c04.md` [35]: “ela deseja o bem ao máximo” → “ela apetece o bem ao máximo” — appetit → “apetece”, forma verbal correspondente ao termo filosófico “apetite”.
+- `pt-BR/dedivnom-c04.md` [93]: “não ser capaz de compreender as coisas divinas” → “não ser capaz de inteligir as coisas divinas” — intelligendum → “inteligir”; “compreender” introduz o conceito técnico distinto de comprehendere. *(meaning)*
+- `pt-BR/dedivnom-c04.md` [93]: “muitas que foram compreendidas por outros homens” → “muitas que foram inteligidas por outros homens” — intellecta → “inteligidas”; preserva a distinção entre inteligir e compreender. *(meaning)*
+- `pt-BR/dedivnom-c05.md` [50]: “o ser do sol não é seu entender nem seu querer” → “o ser do sol não é seu inteligir nem seu querer” — intelligere, como ato contraposto ao ser e ao querer → “inteligir” (Key Terms).
+- `pt-BR/dedivnom-c05.md` [50]: “o ser divino é seu entender e seu querer” → “o ser divino é seu inteligir e seu querer” — intelligere, como ato intelectual divino → “inteligir” (Key Terms).
+- `pt-BR/dedivnom-c05.md` [67]: “como recebem o entender” → “como recebem o inteligir” — intelligere, designando o ato intelectual → “inteligir” (Key Terms).
+- `pt-BR/dedivnom-c05.md` [74]: “***propriamente*** entenderam” → “***propriamente*** inteligiram” — intellecta, como objetos do ato intelectual angélico → “inteligiram” na construção verbal adotada.
+- `pt-BR/dedivnom-c05.md` [74]: “aos inferiores o que entenderam” → “aos inferiores o que inteligiram” — intellecta → “inteligiram”, conservando o vocabulário do ato intelectual.
+- `pt-BR/dedivnom-c05.md` [97]: “o movimento retilíneo, porém,” → “o movimento reto, porém,” — motus rectus → “movimento reto” (Key Terms).
+- `pt-BR/dedivnom-c05.md` [141]: “em grande correspondência com o bem” → “em grande ressonância com o bem” — resonantiam → “ressonância” (Key Terms); estava “correspondência”.
+- `pt-BR/dedivnom-c05.md` [165]: “em grande correspondência*** com a bondade divina” → “em grande ressonância*** com a bondade divina” — resonantiam → “ressonância” (Key Terms); estava “correspondência”.
+- `pt-BR/dedivnom-c05.md` [223]: “segundo a multiplicação do desejo e do amor” → “segundo a multiplicação do desejo e da dileção” — dilectionis → “dileção”; preserva a distinção vocabular de amor. *(meaning)*
+
+### Part terms 1 of 3, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 1 minor. Delta read of 34 changes in c01–c05 and their neighbours: all are correct except c01 [5], reverted to the Latin title per the prologue decision; no other defects.
+- `pt-BR/dedivnom-c01.md` [5]: “intitulou *Teologia simbólica*” → “intitulou *De symbolica theologia*” — O diário decide que os títulos latinos citados no prólogo permanecem em latim e em itálico; [4] e [6] mantêm *De divinis nominibus* e *De mystica theologia*. A tradução no round anterior deixou o parágrafo inconsistente com seus vizinhos.
+- Rejected: pt-BR/dedivnom-c03.md [231] — Audit flag “todo todo” (repeated word). — Traduz *toti* (“a todo todo”, isto é, a cada todo), em série com “a toda parte”, “a todo uno”. Não é uma repetição acidental.
+- Rejected: pt-BR/dedivnom-c02.md [223], [231] — *Teologia simbólica* em português, enquanto [118] mantém *Angelicae hierarchiae* em latim. — O capítulo já mistura as duas práticas, e a linha do Key Terms fixa “Teologia simbólica”. Não há uma convenção interna clara que a mudança viole.
+- Rejected: pt-BR/translation-journal.md (incommensuratio) — A linha “falta de comensuração” pode não ocorrer no texto, segundo o audit. — A palavra pode ocorrer em partes do livro fora desta revisão, e outra linha registra “desproporção”. Não é verificável com os parágrafos mostrados.
+- Rejected: pt-BR/dedivnom-c03.md [53], [99] — “em concreção” soa pouco natural. — Segue o Key Terms (concretio → concreção, distinto de unição) e está gramaticalmente correto.
+
+### Part terms 1 of 3, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente os parágrafos [4]–[6] de dedivnom-c01: a restauração do título latino está correta; nenhum defeito encontrado. Os alertas terminológicos não são verificáveis nos trechos mostrados.
+
+### Part terms 2 of 3, Round 1 (codex, terms read)
+Verdict: 1 meaning-level, 43 minor. 171 parágrafos sinalizados lidos; deriva em 37 parágrafos, com 43 correções textuais e 1 complemento ao glossário.
+- `pt-BR/dedivnom-c05.md` [277]: “***Este único bem***” → “***Este bem uno***” — *unum* → “uno” (Key Terms); aqui qualifica a unidade do bem.
+- `pt-BR/dedivnom-c05.md` [329]: “como sentir, entender e querer” → “como sentir, inteligir e querer” — *intelligere* → “inteligir” (Key Terms); designa a operação intelectual.
+- `pt-BR/dedivnom-c05.md` [331]: “ao entender Deus” → “ao inteligir Deus” — *intelligendo* → “inteligindo” (Key Terms).
+- `pt-BR/dedivnom-c05.md` [386]: “unitiva, conjuntiva e que de diversos modos reúne” → “unitiva, conjuntiva e concretiva com distinção” — *differenter concretivae* designa a concreção que conserva a distinção dos unidos, não uma reunião realizada de diversos modos. *(meaning)*
+- `pt-BR/dedivnom-c05.md` [424]: “***entender as coisas divinas***” → “***inteligir as coisas divinas***” — *intelligere* → “inteligir” (Key Terms).
+- `pt-BR/dedivnom-c05.md` [444]: “mas a entender Deus” → “mas a inteligir Deus” — *intelligere* → “inteligir” (Key Terms).
+- `pt-BR/dedivnom-c05.md` [539]: “não tem a forma do bem?” → “não é boniforme?” — *boniformis* → “boniforme” (Key Terms); estava parafraseado.
+- `pt-BR/dedivnom-c05.md` [625]: “nem virtude por si, nem corrupção por si” → “nem poder por si, nem corrupção por si” — *per se virtus* → “poder por si” (Key Terms).
+- `pt-BR/dedivnom-c05.md` [651]: “não é uma virtude por si” → “não é um poder por si” — *per se virtus* → “poder por si” (Key Terms).
+- `pt-BR/dedivnom-c05.md` [744]: “existir, viver e entender” → “existir, viver e inteligir” — *intelligere* → “inteligir” (Key Terms).
+- `pt-BR/dedivnom-c05.md` [783]: “***existir, viver e entender***” → “***existir, viver e inteligir***” — *intelligere* → “inteligir” (Key Terms).
+- `pt-BR/dedivnom-c05.md` [921]: “ser, viver e entender” → “ser, viver e inteligir” — *intelligere* → “inteligir” (Key Terms).
+- `pt-BR/dedivnom-c05.md` [922]: “As Escrituras chamam” → “Os oráculos chamam” — *eloquia* → “oráculos” (Key Terms); estava “Escrituras”.
+- `pt-BR/dedivnom-c05.md` [922]: “não querem entender para agir bem” → “não querem inteligir para agir bem” — *intelligere* → “inteligir” (Key Terms).
+- `pt-BR/dedivnom-c05.md` [923]: “segundo as Escrituras” → “segundo os oráculos” — *eloquia* → “oráculos” (Key Terms).
+- `pt-BR/dedivnom-c05.md` [923]: “a verdade das Escrituras” → “a verdade dos oráculos” — *eloquiorum* → “dos oráculos” (Key Terms).
+- `pt-BR/dedivnom-c05.md` [937]: “***ser, viver e entender***” → “***ser, viver e inteligir***” — *intelligere* → “inteligir” (Key Terms).
+- `pt-BR/dedivnom-c05.md` [942]: “segundo as sagradas ***Escrituras***” → “segundo os santos ***oráculos***” — *sacra eloquia* → “santos oráculos” (Key Terms).
+- `pt-BR/dedivnom-c05.md` [944]: “***não querem entender para agir bem***” → “***não querem inteligir para agir bem***” — *intelligere* → “inteligir” (Key Terms).
+- `pt-BR/dedivnom-c06.md` [5]: “como dizem as Escrituras” → “como dizem os oráculos” — *eloquia* → “oráculos” (Key Terms).
+- `pt-BR/dedivnom-c06.md` [17]: “se desdobra em multiplicidade” → “se desdobra em multidão” — *multitudo* → “multidão” (Key Terms).
+- `pt-BR/dedivnom-c06.md` [21]: “com olhos acima do mundo” → “com olhos supramundanos” — *supermundanis* → “supramundanos” (Key Terms); estava parafraseado.
+- `pt-BR/dedivnom-c06.md` [90]: “em si mesmas têm multiplicidade” → “em si mesmas têm multidão” — *multitudinem* → “multidão” (Key Terms).
+- `pt-BR/dedivnom-c06.md` [90]: “em Deus, porém, são uma só coisa” → “em Deus, porém, são algo uno” — *sunt unum* → “são algo uno” (Key Terms); trata-se da unidade metafísica.
+- `pt-BR/dedivnom-c06.md` [112]: “pertencem à multiplicidade” → “pertencem à multidão” — *multitudinem* → “multidão” (Key Terms).
+- `pt-BR/dedivnom-c06.md` [116]: “mas acima do mundo em relação a nós” → “mas de modo supramundano em relação a nós” — *supermundane* → “de modo supramundano” (Key Terms).
+- `pt-BR/dedivnom-c06.md` [118]: “às quais as Escrituras também chamam eternas” → “às quais os oráculos também chamam eternas” — *eloquia* → “oráculos” (Key Terms).
+- `pt-BR/dedivnom-c06.md` [120]: “E por isso, nas Escrituras,” → “E por isso, nos oráculos,” — *eloquia* → “oráculos” (Key Terms).
+- `pt-BR/dedivnom-c06.md` [120]: “para os que as entendem como convém a Deus” → “para os que as inteligem como convém a Deus” — *intelligentibus* → “os que inteligem” (Key Terms).
+- `pt-BR/dedivnom-c06.md` [145]: “estão acima do mundo e participam” → “são supramundanos e participam” — *supermundanae* → “supramundanos” (Key Terms), concordando com “anjos” na tradução.
+- `pt-BR/dedivnom-c06.md` [148]: “segundo a passagem do ser ao bem ser” → “segundo o processo do ser ao bem ser” — *processum* → “processo” (Key Terms); aqui não designa a processão das perfeições divinas.
+- `pt-BR/dedivnom-c06.md` [156]: “a duração e o desenvolvimento de todas” → “a duração e o processo de todas” — *processus* → “processo” (Key Terms).
+- `pt-BR/dedivnom-c06.md` [158]: “para aqueles que podem entender as coisas divinas” → “para aqueles que podem inteligir as coisas divinas” — *intelligere* → “inteligir” (Key Terms).
+- `pt-BR/dedivnom-c06.md` [172]: “ao entender sua unidade e seu poder” → “ao inteligir sua unidade e seu poder” — *intelligendo* → “inteligindo” (Key Terms).
+- `pt-BR/dedivnom-c06.md` [172]: “são chamadas razões entendidas” → “são chamadas razões inteligidas” — *rationes intellectae* emprega o particípio de *intelligere*: “razões inteligidas”.
+- `pt-BR/dedivnom-c06.md` [172]: “aquelas razões entendidas por Deus” → “aquelas razões inteligidas por Deus” — *rationes intellectae a Deo* → “razões inteligidas por Deus”, conforme “inteligir” (Key Terms).
+- `pt-BR/dedivnom-c07.md` [9]: “segundo a Escritura” → “segundo o oráculo” — *eloquium* → “oráculo”, singular de “oráculos” (Key Terms).
+- `pt-BR/dedivnom-c07.md` [45]: “as palavras insensatas de Simão que contradizem isso” → “as palavras da loucura de Simão que contradizem isso” — *stultitiae Simonis* → “da loucura de Simão” (Key Terms); estava convertido em qualificação das palavras.
+- `pt-BR/dedivnom-c07.md` [67]: “para afastar isso” → “para remover isso” — *removendum* → “remover” (Key Terms); nega-se em Deus a indigência encontrada nas criaturas.
+- `pt-BR/dedivnom-c08.md` [8]: “Assim também as Escrituras chamam” → “Assim também os oráculos chamam” — *eloquia* → “oráculos” (Key Terms).
+- `pt-BR/dedivnom-c08.md` [19]: “segundo o entendimento” → “segundo o intelecto” — *secundum intellectum* → “segundo o intelecto” (Key Terms).
+- `pt-BR/dedivnom-c08.md` [32]: “Paulo, compreendendo de modo sobrenatural essa transcendência” → “Paulo, inteligindo de modo sobrenatural essa transcendência” — *intelligens* → “inteligindo” (Key Terms); estava “compreendendo”.
+- `pt-BR/dedivnom-c08.md` [45]: “puras de toda multiplicidade material” → “puras de toda multidão material” — *multitudine* → “multidão” (Key Terms).
+- `pt-BR/translation-journal.md`: “| virtus | poder / virtude / força / potência | “Poder” como nome divino e capacidade causal; “virtude” no sentido moral e em “virtudes celestes/angélicas”; “força” no exemplo dos pugilistas; “potência” para faculdades nutritivas e de crescimento. “Capacidade” quando designa a medida das possibilidades da criatura para conhecer ou imitar Deus. |” → “| virtus | poder / virtude / força / potência | “Poder” como nome divino e capacidade causal; “virtude” no sentido moral e em “virtudes celestes/angélicas”; “força” no exemplo dos pugilistas; “potência” para faculdades nutritivas e de crescimento. “Faculdade” ou “capacidade” para faculdades cognitivas; “capacidade” em “secundum virtutem”, quando designa a medida das próprias forças. |” — A tradução emprega corretamente “faculdades” para as capacidades cognitivas e “capacidade” para a aptidão de conhecer ou a medida das próprias forças; esses sentidos faltavam à nota.
+
+### Part terms 2 of 3, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 3 minor. Delta read of 44 changes in c05–c08. All are correct. Fixed three remaining inconsistencies in the paragraphs shown (virtus in c05 [625], rationes intellectae in c06 [173], intelligunt in c08 [45]).
+- `pt-BR/dedivnom-c05.md` [625]: “serão a mesma virtude sob o mesmo aspecto” → “serão o mesmo poder sob o mesmo aspecto” — o latim repete *virtus* (eadem secundum idem virtus … per se virtus); após a correção para “poder por si”, a primeira ocorrência ficou “virtude”, divergindo na mesma frase
+- `pt-BR/dedivnom-c06.md` [173]: “certas ***razões*** entendidas dos entes” → “certas ***razões*** inteligidas dos entes” — *rationes intellectae*, vertido “razões inteligidas” no parágrafo anterior [172]; Key Terms intelligere → inteligir
+- `pt-BR/dedivnom-c08.md` [45]: “entendem os inteligíveis divinos” → “inteligem os inteligíveis divinos” — *intelligunt*; Key Terms intelligere → inteligir, aplicado pela rodada anterior nos trechos vizinhos
+- Rejected: pt-BR/dedivnom-c05.md [386] — “concretiva com distinção” parece neologismo — conserva *concretivae* e o valor de *differenter*, conforme a linha unitio/concretio do glossário
+- Rejected: pt-BR/dedivnom-c06.md [148] — “desenvolvimento do ser” e “processo do ser ao bem ser” na mesma passagem — o latim usa termos distintos (*progressum* e *processum*)
+- Rejected: pt-BR/dedivnom-c08.md [32] — o lema “compreendendo isso” diverge de “inteligindo” no comentário — o lema verte *intendens* e o comentário verte *intelligens*; são verbos distintos
+
+### Part terms 2 of 3, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos os nove parágrafos apresentados e as quinze notas do tradutor; verificadas as três alterações, todas corretas, sem novos defeitos objetivos.
+
+### Part terms 3 of 3, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 63 minor. 193 parágrafos sinalizados examinados; 46 apresentam desvios terminológicos, e 3 linhas do glossário precisam de ampliação.
+- `pt-BR/dedivnom-c08.md` [66]: “a procedência do conhecimento angélico de Deus” → “a processão do conhecimento angélico a partir de Deus” — *processum* designa aqui a comunicação do conhecimento por Deus → “processão” (Key Terms).
+- `pt-BR/dedivnom-c08.md` [69]: “de toda ***multiplicidade***” → “de toda ***multidão***” — *multitudine* → “multidão” (Key Terms).
+- `pt-BR/dedivnom-c08.md` [72]: “capazes de entender com agudeza” → “capazes de inteligir com agudeza” — *intelligentes* designa a operação intelectual → “inteligir” (Key Terms).
+- `pt-BR/dedivnom-c08.md` [76]: “pela divisão e pela multiplicidade de diversas coisas” → “pela divisão e pela multidão de diversas coisas” — *multitudinem* → “multidão” (Key Terms).
+- `pt-BR/dedivnom-c08.md` [83]: “as Escrituras dizem” → “os oráculos dizem” — *eloquia* → “oráculos” (Key Terms).
+- `pt-BR/dedivnom-c08.md` [86]: “a Escritura ensina” → “o oráculo ensina” — *eloquium* → “oráculo” (Key Terms).
+- `pt-BR/dedivnom-c08.md` [88]: “que abranja todos os entes” → “que compreenda todos os entes” — *comprehendentem*, referido ao conhecimento divino → “compreenda” (Key Terms).
+- `pt-BR/dedivnom-c08.md` [89]: “as Escrituras dizem” → “os oráculos dizem” — *eloquia* → “oráculos” (Key Terms).
+- `pt-BR/dedivnom-c08.md` [97]: “as sagradas ***Escrituras*** ensinam” → “os santos ***oráculos*** ensinam” — *sacra eloquia* → “santos oráculos” (Key Terms).
+- `pt-BR/dedivnom-c08.md` [114]: “segundo a Escritura” → “segundo o oráculo” — *secundum eloquium* → “segundo o oráculo” (Key Terms).
+- `pt-BR/dedivnom-c08.md` [132]: “da divindade, enquanto conhece” → “da deidade, enquanto conhece” — *deitatis* → “deidade”, preservando a distinção de *divinitas* (Key Terms).
+- `pt-BR/dedivnom-c08.md` [136]: “pelas santas Escrituras” → “pelos santos oráculos” — *a sanctis eloquiis* → “pelos santos oráculos” (Key Terms).
+- `pt-BR/dedivnom-c08.md` [136]: “como dizem as Escrituras” → “como dizem os oráculos” — *eloquia* → “oráculos” (Key Terms).
+- `pt-BR/dedivnom-c08.md` [155]: “primeiro, pela natureza do conhecimento” → “primeiro, pela razão do conhecimento” — *per rationem cognitionis* → “pela razão do conhecimento”; trata-se da razão pela qual o conhecimento une (Key Terms).
+- `pt-BR/dedivnom-c09.md` [6]: “com as palavras divinas” → “com os oráculos divinos” — *in divinis eloquiis* → “com os oráculos divinos” (Key Terms).
+- `pt-BR/dedivnom-c09.md` [6]: “atribuindo-lhe o domínio até sobre” → “atribuindo-lhe a dominação até sobre” — *dominationem* → “dominação” (Key Terms).
+- `pt-BR/dedivnom-c09.md` [25]: “com as palavras sagradas” → “com os santos oráculos” — *in sacris eloquiis* → “com os santos oráculos” (Key Terms).
+- `pt-BR/dedivnom-c09.md` [25]: “a deidade primordial” → “a deidade principal” — *principalis deitas* → “deidade principal” (Key Terms).
+- `pt-BR/dedivnom-c09.md` [25]: “***o domínio sobre as virtudes celestes***” → “***a dominação sobre as virtudes celestes***” — *dominationem* → “dominação” (Key Terms).
+- `pt-BR/dedivnom-c09.md` [60]: “quanto ao entender” → “quanto ao inteligir” — *intelligere* designa a operação intelectual → “inteligir” (Key Terms).
+- `pt-BR/dedivnom-c09.md` [60]: “porque sempre entendem em ato” → “porque sempre inteligem em ato” — *intelligunt* → “inteligem” (Key Terms).
+- `pt-BR/dedivnom-c09.md` [86]: “por minha insensatez” → “por minha loucura” — *stultitiae* → “loucura” (Key Terms).
+- `pt-BR/dedivnom-c09.md` [88]: “Não compreendendo isso, o sábio” → “Não inteligindo isso, o sábio” — *non intelligens* → “não inteligindo”; evita substituir *intelligere* por “compreender” (Key Terms).
+- `pt-BR/dedivnom-c09.md` [99]: “ser ridicularizado por insensatez” → “ser ridicularizado por loucura” — *de stultitia* → “por loucura” (Key Terms).
+- `pt-BR/dedivnom-c09.md` [101]: “***não compreendendo isso, o sábio***” → “***não inteligindo isso, o sábio***” — *non intelligens* → “não inteligindo”, também na retomada da passagem comentada (Key Terms).
+- `pt-BR/dedivnom-c09.md` [101]: “***não compreendendo*** a razão” → “***não inteligindo*** a razão” — *non intelligens* → “não inteligindo” (Key Terms).
+- `pt-BR/dedivnom-c09.md` [105]: “que concede bens a todos, derramando-os copiosamente” → “que concede bondades a todos, derramando-as copiosamente” — *bonitates* → “bondades” (Key Terms), com ajuste da concordância.
+- `pt-BR/dedivnom-c09.md` [108]: “a boa ordenação e o ornato” → “a boa ordenação e o ornamento” — *ornatum* → “ornamento” (Key Terms).
+- `pt-BR/dedivnom-c09.md` [126]: “***e boa ordenação e ornato***” → “***e boa ordenação e ornamento***” — *ornatum* → “ornamento” (Key Terms).
+- `pt-BR/dedivnom-c09.md` [126]: “E entende aqui ornato como” → “E entende aqui ornamento como” — *ornatus* → “ornamento” (Key Terms).
+- `pt-BR/dedivnom-c10.md` [6]: “Assim, nas Escrituras, Deus” → “Assim, nos oráculos, Deus” — *in eloquiis* → “nos oráculos” (Key Terms).
+- `pt-BR/dedivnom-c10.md` [6]: “quando as Escrituras dizem” → “quando os oráculos dizem” — *dicunt eloquia* → “os oráculos dizem” (Key Terms).
+- `pt-BR/dedivnom-c10.md` [6]: “as mesmas Escrituras o apresentam” → “os mesmos oráculos o apresentam” — *ab eisdem eloquiis* → “os mesmos oráculos”, ajustado à construção ativa (Key Terms).
+- `pt-BR/dedivnom-c10.md` [6]: “são louvadas pelas Escrituras” → “são louvadas pelos oráculos” — *ab eloquiis* → “pelos oráculos” (Key Terms).
+- `pt-BR/dedivnom-c10.md` [150]: “por ser distinto de todas” → “por ser outro em relação a todas” — *alterum* → “outro”, preservando o vocabulário da alteridade (Key Terms).
+- `pt-BR/dedivnom-c10.md` [177]: “nas Escrituras, a denominação” → “nos oráculos, a denominação” — *in eloquiis* → “nos oráculos” (Key Terms).
+- `pt-BR/dedivnom-c10.md` [188]: “entendendo-se e amando-se” → “inteligindo-se e amando-se” — *intelligendo* designa a operação intelectual divina → “inteligindo” (Key Terms).
+- `pt-BR/dedivnom-c12.md` [7]: “sua multiplicidade divisível” → “sua multidão divisível” — *multitudinem* → “multidão” (Key Terms).
+- `pt-BR/dedivnom-c12.md` [8]: “à única primazia da paz” → “ao único principado da paz” — *principatum* → “principado” (Key Terms).
+- `pt-BR/dedivnom-c12.md` [38]: “***reconduz sua multiplicidade divisível à unidade do todo***” → “***reconduz sua multidão divisível à unidade do todo***” — *multitudinem* → “multidão” (Key Terms).
+- `pt-BR/dedivnom-c12.md` [74]: “a saber, entendendo e amando” → “a saber, inteligindo e amando” — *intelligendo* designa a operação intelectual divina → “inteligindo” (Key Terms).
+- `pt-BR/dedivnom-c12.md` [75]: “que podem ser entendidas e expressas” → “que podem ser inteligidas e expressas” — *intelligi* → “ser inteligidas” (Key Terms).
+- `pt-BR/dedivnom-c12.md` [75]: “entender e expressar as participações” → “inteligir e expressar as participações” — *intelligat* designa a operação do intelecto criado → “inteligir” (Key Terms).
+- `pt-BR/dedivnom-c12.md` [75]: “ele não pode entender nem expressar” → “ele não pode inteligir nem expressar” — *intelligere* → “inteligir” (Key Terms).
+- `pt-BR/dedivnom-c12.md` [76]: “no entendimento das coisas divinas” → “na intelecção das coisas divinas” — *intelligendo* designa o ato intelectual; “intelecção” conserva a terminologia assentada para esse ato (Key Terms).
+- `pt-BR/dedivnom-c12.md` [102]: “da multiplicidade das coisas congregadas” → “da multidão das coisas congregadas” — *multitudine* → “multidão” (Key Terms).
+- `pt-BR/dedivnom-c12.md` [125]: “a santa inspiração das palavras sagradas” → “a santa inspiração dos oráculos” — *sancta eloquiorum inspiratione*: “santa” qualifica a inspiração; *eloquiorum* → “dos oráculos” (Key Terms).
+- `pt-BR/dedivnom-c12.md` [153]: “o espírito de amor e de paz” → “o espírito de dileção e de paz” — *dilectionis* → “dileção”, preservando a distinção de *amor* (Key Terms).
+- `pt-BR/dedivnom-c12.md` [161]: “que está acima de todo princípio e de toda substância” → “que está acima de todo princípio e é supersubstancial” — *supersubstantiale* → “supersubstancial”, derivado de “supersubstância” (Key Terms).
+- `pt-BR/dedivnom-c13.md` [5]: “as palavras sagradas querem mostrar” → “os oráculos querem mostrar” — *eloquia* → “oráculos” (Key Terms).
+- `pt-BR/dedivnom-c13.md` [12]: “As palavras sagradas chamam” → “Os oráculos chamam” — *eloquia* → “oráculos” (Key Terms).
+- `pt-BR/dedivnom-c13.md` [58]: “a diligência e a luminosidade” → “a diligência e a claridade” — *claritatem* → “claridade” (Key Terms).
+- `pt-BR/dedivnom-c13.md` [58]: “a outra, a luminosidade” → “a outra, a claridade” — *claritas* → “claridade” (Key Terms).
+- `pt-BR/dedivnom-c13.md` [63]: “as palavras sagradas querem mostrar” → “os oráculos querem mostrar” — *eloquia* → “oráculos” (Key Terms).
+- `pt-BR/dedivnom-c13.md` [68]: “as palavras sagradas denominam” → “os santos oráculos denominam” — *sancta eloquia* → “santos oráculos” (Key Terms).
+- `pt-BR/dedivnom-c14.md` [27]: “para afastar isso de Deus” → “para remover isso de Deus” — *removendum* designa a negação de uma limitação criada em Deus → “remover” (Key Terms).
+- `pt-BR/dedivnom-c14.md` [66]: “o mesmo poder ou potência para entender” → “o mesmo poder ou potência para inteligir” — *ad intelligendum* designa a capacidade de operação intelectual → “para inteligir” (Key Terms).
+- `pt-BR/dedivnom-c14.md` [66]: “como ser, viver, entender e outras coisas semelhantes” → “como ser, viver, inteligir e outras coisas semelhantes” — *intelligere*, enumerado entre as perfeições procedentes de Deus → “inteligir” (Key Terms).
+- `pt-BR/dedivnom-c14.md` [87]: “pelo desejo de entender e dizer algo” → “pelo desejo de inteligir e dizer algo” — *desiderio intelligendi* → “pelo desejo de inteligir” (Key Terms).
+- `pt-BR/dedivnom-c14.md` [147]: “***de*** entender ***ou*** de expor” → “***de*** inteligir ***ou*** de expor” — *ad intelligendum* → “de inteligir” (Key Terms).
+- `pt-BR/translation-journal.md`: “| ornatus / incommensuratio | ornamento / desproporção | A desproporção é explicada como falta de correspondência à medida devida. |” → “| ornatus / incommensuratio | ornamento / desproporção | A desproporção é explicada como falta de correspondência à medida devida. “Ordens” para “ornatus” quando designa as ordens angélicas. |” — Em c09 [49] e [59], *angelicorum ornatuum* designa corretamente as ordens angélicas; acrescenta-se esse sentido à linha.
+- `pt-BR/translation-journal.md`: “| immissiones / susceptiones | infusões / recepções | Designam as unições das mentes à bondade divina. |” → “| immissiones / susceptiones | infusões / recepções | Designam as unições das mentes à bondade divina. “Comunicações” para “immissiones” quando designa a comunicação dos bens divinos a todas as coisas, como na exposição da perfeição divina. |” — Em c14 [8] e [37], o comentário explica *immissiones* pela comunicação dos bens às coisas; o sentido excede as unições das mentes.
+- `pt-BR/translation-journal.md`: “| virtus | poder / virtude / força / potência | “Poder” como nome divino e capacidade causal; “virtude” no sentido moral e em “virtudes celestes/angélicas”; “força” no exemplo dos pugilistas; “potência” para faculdades nutritivas e de crescimento. |” → “| virtus | poder / virtude / força / potência | “Poder” como nome divino e capacidade causal; “virtude” no sentido moral e em “virtudes celestes/angélicas”; “força” no exemplo dos pugilistas; “potência” para faculdades nutritivas e de crescimento. “Capacidade” quando designa a medida das possibilidades da criatura para conhecer ou imitar Deus. |” — “Capacidade” traduz corretamente e de modo recorrente a possibilidade limitada da criatura em c08 [111], [121] e c10 [163]; acrescenta-se o sentido ausente.
+
+### Part terms 3 of 3, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 5 minor. Delta read of c08–c14 and the journal: all listed changes are correct; one lemma in c09 [98] left inconsistent with [88] and [101], and four *intelligere* → “entender” in c08 fixed to “inteligir”.
+- `pt-BR/dedivnom-c09.md` [98]: “***não compreendendo isso, o sábio*** etc.” → “***não inteligindo isso, o sábio*** etc.” — lema de *quod sapiens non intelligens*; [88] e [101] já trazem “não inteligindo isso, o sábio” (Key Terms: intelligere → inteligir)
+- `pt-BR/dedivnom-c08.md` [66]: “enquanto capazes de entender” → “enquanto capazes de inteligir” — *inquantum intelligere possunt*, operação intelectual dos anjos → “inteligir” (Key Terms)
+- `pt-BR/dedivnom-c08.md` [69]: “***entendem os inteligíveis divinos***” → “***inteligem os inteligíveis divinos***” — *intelligunt intelligibilia divinorum* → “inteligem” (Key Terms)
+- `pt-BR/dedivnom-c08.md` [83]: “como entenderá algum dos inteligíveis” → “como inteligirá algum dos inteligíveis” — *quomodo intelliget aliquid intelligibilium* → “inteligirá” (Key Terms)
+- `pt-BR/dedivnom-c08.md` [97]: “pode entender os inteligíveis” → “pode inteligir os inteligíveis” — *possit intelligere intelligibilia* → “inteligir” (Key Terms), em paralelo com [83]
+- Rejected: translation-journal.md, linha collocatio credentium — a auditoria conta 0 ocorrências de “estabelecimento dos que creem” — c08 [137] traz “o estabelecimento permanente dos que creem” (*manens collocatio*); o adjetivo intercalado impede a correspondência literal, e a linha está correta
+- Rejected: translation-journal.md, linha incommensuratio — a linha “falta de comensuração” contradiz a linha posterior “desproporção” — a contagem da auditoria pode excluir capítulos não mostrados neste delta; sem confirmar o uso nos capítulos anteriores, não se altera a linha
+- Rejected: pt-BR/dedivnom-c08.md [84], [132]; c10 [176] — *intelligere* ainda traduzido por “entender” — nesses lugares o verbo significa interpretar ou compreender um enunciado, não a operação do intelecto; “entender” é adequado
+
+### Part terms 3 of 3, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 1 minor. Verificadas as cinco alterações, todos os parágrafos e as notas apresentados; alterações corretas, com um desvio terminológico remanescente.
+- `pt-BR/dedivnom-c08.md` [69]: “as mencionadas potências intelectuais” → “as mencionadas faculdades intelectuais” — O glossário fixa virtus intellectualis como “faculdade intelectual” e reserva “faculdade” para capacidades cognoscitivas.
+
+### Part terms 3 of 3, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of c08 [68–70] and note [^23]: the change “potências” → “faculdades intelectuais” is correct and agrees with its sentence; no defects found.
+- Rejected: pt-BR/dedivnom-c08.md [69] — “e de toda ***multidão***” adds “toda” not repeated in the Latin — *ab omni* governs both *materia* and *multitudine*; repeating it is a faithful reading of the coordination
+- Rejected: pt-BR/dedivnom-c08.md [70] — lemma *et est ipsis* rendered “e possuem” — the Latin dative of possession means “they have”; the rendering is correct
