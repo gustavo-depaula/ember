@@ -1,4 +1,4 @@
-# Capítulo 31. Ao tratar das tentações da paixão carnal, queixa-se primeiro da paixão por comer e beber.
+# Capítulo 31. Ao tratar das tentações da concupiscência da carne, queixa-se primeiro da paixão por comer e beber.
 
 **43.** Há outro mal do dia, que eu desejaria que lhe fosse “suficiente”. Mateus 6:34 Pois, comendo e bebendo, reparamos o desgaste diário do corpo, até que destruais tanto o alimento como o estômago, quando destruirdes minha necessidade com uma saciedade admirável e revestirdes este corpo corruptível de uma eterna incorruptibilidade. 1 Coríntios 15:54 Mas agora a necessidade me é doce, e luto contra essa doçura para não ser escravizado; travo uma guerra diária pelo jejum, muitas vezes “submetendo meu corpo”, 1 Coríntios 9:27 e minhas dores são expulsas pelo prazer. Pois a fome e a sede são, de certo modo, dores; consomem e destroem como uma febre, a menos que o remédio da alimentação nos alivie. E, como esse remédio está ao nosso alcance pelo conforto que recebemos de vossos dons, com os quais a terra, a água e o ar servem à nossa fraqueza, nossa calamidade recebe o nome de prazer.
 

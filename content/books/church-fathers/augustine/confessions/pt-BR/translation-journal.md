@@ -14,7 +14,7 @@ Destino: pt-BR.
 | grace | graça | |
 | mercy | misericórdia | |
 | concupiscence | concupiscência | Conforme os diários das obras próximas. |
-| lust | paixão | Segue a convenção de Sobre a Graça de Cristo e o Pecado Original; “carnal lust” = “paixão carnal”. |
+| lust | paixão | Segue a convenção de Sobre a Graça de Cristo e o Pecado Original; “carnal lust” = “paixão carnal”. Nas referências à fórmula tríplice das tentações, inclusive abreviadas como “threefold lust”, usa-se “concupiscência”, conforme a linha específica dessa fórmula. |
 | pride | soberba | “My pride”, como motivo de glória em Deus, = “minha glória”. |
 | iniquity | iniquidade | |
 | remission of sins | remissão dos pecados | |
@@ -95,7 +95,7 @@ Destino: pt-BR.
 | Vindicianus / Firminius | Vindiciano / Firmino | |
 | Simplicianus / Photinus | Simpliciano / Fotino | |
 | Apollinarian heretics | hereges apolinaristas | |
-| Word / only-begotten / co-eternal | Verbo / unigênito / coeterno | |
+| Word / only-begotten / co-eternal | Verbo / unigênito / coeterno | “Verbo” designa o Filho; quando “word” designa a mensagem, a pregação ou o texto das Escrituras, usa-se “palavra” ou “Palavra”; no sentido comum de vocábulo ou enunciado, “palavra”. |
 | Supreme Substance / incorporeal truth | Substância suprema / verdade incorpórea | |
 | region of dissimilarity | região da dessemelhança | |
 | enjoy God | fruir de Deus | |
@@ -405,3 +405,83 @@ Verdict: 1 meaning-level, 1 minor. Full read of ch011-chapter-16 to ch013 (89 fi
 ### Part 4 of 4, Round 4 (codex, delta read)
 Verdict: 0 meaning-level, 0 minor. Verificadas as duas correções e lidos integralmente os cinco blocos apresentados, com os alertas mecânicos e metadados pertinentes; nenhum novo defeito.
 - Rejected: pt-BR/ch013-chapter-22.md [2] — Mudança de pessoa em “transformai-vos [...] para que ele possa discernir”. — A própria fonte muda de “your mind” para “that he may prove”; a tradução preserva essa particularidade.
+
+### Part terms 1 of 3, Round 1 (codex, terms read)
+Verdict: 2 meaning-level, 5 minor. 72 parágrafos sinalizados lidos; 6 apresentam drift, com 7 correções.
+- `pt-BR/ch001-chapter-07.md` [2]: “Quem me traz à memória o pecado” → “Quem me traz à lembrança o pecado” — *remembrance* → “lembrança” (Key Terms); estava “memória”.
+- `pt-BR/ch001-chapter-07.md` [2]: “Quem me traz isso à memória?” → “Quem me traz isso à lembrança?” — *remembrance* → “lembrança” (Key Terms); estava “memória”.
+- `pt-BR/ch003-chapter-08.md` [3]: “brotam da paixão da carne, dos olhos e do poder” → “brotam da concupiscência da carne, dos olhos e do poder” — *lust of the flesh* → “concupiscência da carne” (Key Terms); “paixão” não preserva o conceito específico de desejo desordenado. *(meaning)*
+- `pt-BR/ch004-chapter-01.md` [2]: “em minha memória presente” → “em minha lembrança presente” — *remembrance* → “lembrança” (Key Terms), distinguida da faculdade da memória.
+- `pt-BR/ch004-chapter-10.md` [2]: “em vossa palavra, pela qual foram criadas” → “em vosso Verbo, pelo qual foram criadas” — *word* designa aqui o Verbo criador; aplica-se “Verbo” (Key Terms). *(meaning)*
+- `pt-BR/ch004-chapter-15.md` [4]: “se desviara por livre vontade” → “se desviara por livre-arbítrio” — *free will* → “livre-arbítrio” (Key Terms); aqui trata da liberdade da alma em oposição à coação.
+- `pt-BR/ch004-chapter-16.md` [2]: “com as faces inchadas de orgulho” → “com as faces inchadas de soberba” — *pride* → “soberba” (Key Terms); estava “orgulho”.
+
+### Part terms 1 of 3, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta read of 7 changes and their neighbours in ch001–ch004: every change is correct; 2 minor fixes in ch001-chapter-07 (a wrong verb mood, a dropped qualifier).
+- `pt-BR/ch001-chapter-07.md` [2]: “aqueles que me repreendessem” → “aqueles que me repreendiam” — source: “those who rebuked me”, a fact; the subjunctive makes it hypothetical
+- `pt-BR/ch001-chapter-07.md` [3]: “para seu bem e sua preservação” → “para seu bem geral e sua preservação” — source: “for its general good and safety”; the qualifier “general” was dropped
+- Rejected: pt-BR/ch003-chapter-08.md [3] — “concupiscência da carne” conflicts with the row lust → paixão — the Key Terms table has its own row for the triple formula (lust of the flesh / of the eyes → concupiscência); paixão stays for “lust” used alone, as in [2]
+- Rejected: pt-BR/ch003-chapter-08.md [2] — audit: the source parenthesis became dashes — all content is kept; the punctuation is a defensible style choice
+- Rejected: pt-BR/ch004-chapter-10.md [2] — “and yet loves to rest” lost its contrast — defensible; the sense of the clause is kept and the Latin carries no adversative
+- Rejected: pt-BR/ch004-chapter-15.md [5] — “Eu dirigia esses ouvidos” for “These I directed” — correct: the antecedent is the ears of the heart, as in the Latin
+
+### Part terms 1 of 3, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente os três parágrafos apresentados; as duas correções estão corretas e não introduziram defeitos. Nenhuma nova correção.
+- Rejected: pt-BR/ch001-chapter-07.md [2–3] — Auditoria: diferença nos marcadores de ênfase. — Os marcadores correspondem aos números autorais em negrito, conforme a regra de formato e a decisão registrada no diário.
+
+### Part terms 2 of 3, Round 1 (codex, terms read)
+Verdict: 3 meaning-level, 11 minor. 69 parágrafos sinalizados lidos; 14 ocorrências com desvio.
+- `pt-BR/ch007-chapter-02.md` [2]: “vossa palavra, livre, pura e íntegra, viria socorrer” → “vosso Verbo, livre, puro e íntegro, viria socorrer” — Aqui, “word” designa o Verbo que socorre a alma, não uma palavra pronunciada. *(meaning)*
+- `pt-BR/ch007-chapter-02.md` [2]: “a própria palavra seria corruptível” → “o próprio Verbo seria corruptível” — A hipótese maniqueia atribui corruptibilidade ao Verbo, não a uma palavra pronunciada. *(meaning)*
+- `pt-BR/ch007-chapter-06.md` [2]: “a chama de seu apego a essas futilidades” → “a chama de seu afeto por essas futilidades” — “Affection” → “afeto” (Key Terms); estava “apego”.
+- `pt-BR/ch007-chapter-17.md` [2]: “apenas uma lembrança amorosa daquilo” → “apenas uma memória amorosa daquilo” — “Memory” → “memória” (Key Terms); preserva a distinção em relação a “remembrance”, anteriormente traduzido por “lembrança”.
+- `pt-BR/ch007-chapter-18.md` [2]: “fornecesse leite à nossa infância” → “fornecesse leite à nossa primeira infância” — “Infancy” → “primeira infância” (Key Terms), aqui na imagem espiritual da alimentação dos pequenos.
+- `pt-BR/ch008-chapter-07.md` [3]: “aqueles cujas disposições salutares ouvia contar” → “aqueles cujos afetos salutares ouvia contar” — “Affections” → “afetos” (Key Terms); estava “disposições”.
+- `pt-BR/ch009-chapter-04.md` [7]: “essa fé não me deixava tranquilo quanto aos pecados passados” → “essa fé não me deixava em repouso quanto aos pecados passados” — “Rest” → “repouso” (Key Terms); estava “tranquilo”.
+- `pt-BR/ch009-chapter-12.md` [3]: “recordava com grande ternura que” → “recordava com grande afeto que” — “Affection” → “afeto” (Key Terms); estava “ternura”.
+- `pt-BR/ch009-chapter-13.md` [5]: “Que ela, portanto, descanse em paz” → “Que ela, portanto, repouse em paz” — “Rest” → “repouso” (Key Terms), com a forma verbal “repouse”; estava “descanse”.
+- `pt-BR/ch010-chapter-04.md` [3]: “essa vossa palavra pouco seria para mim se ordenasse” → “esse vosso Verbo pouco seria para mim se ordenasse” — Aqui, o Verbo precede pelo agir aquilo que ordena pelo dizer; trata-se de Cristo como exemplo, não apenas de uma ordem verbal. *(meaning)*
+- `pt-BR/ch010-chapter-30.md` [2]: “ordenais que eu me contenha da “concupiscência da carne, da concupiscência dos olhos e da soberba da vida”” → “ordenais que eu seja continente em relação à “concupiscência da carne, à concupiscência dos olhos e à soberba da vida”” — “Continent” → “continente” (Key Terms); estava na paráfrase “me contenha”.
+- `pt-BR/ch010-chapter-31.md` [1]: “das tentações da paixão carnal” → “das tentações da concupiscência da carne” — “Lust of the flesh” → “concupiscência da carne” (Key Terms), fórmula empregada na análise das tentações.
+- `pt-BR/ch010-chapter-34.md` [2]: “nem me é concedido descanso delas” → “nem me é concedido repouso delas” — “Rest” → “repouso” (Key Terms); estava “descanso”.
+- `pt-BR/ch010-chapter-34.md` [2]: “me é concedido descanso de todas as vozes melodiosas” → “me é concedido repouso de todas as vozes melodiosas” — A elipse retoma o mesmo “rest”; mantém-se “repouso” (Key Terms) também nessa retomada.
+
+### Part terms 2 of 3, Round 2 (claude, delta read)
+Verdict: 1 meaning-level, 1 minor. Delta read das 14 mudanças e dos parágrafos vizinhos: 13 estão corretas. A troca para “Verbo” em X, 4, §6 é revertida, e o “of love” omitido em IX, 12, §30 é restaurado.
+- `pt-BR/ch010-chapter-04.md` [3]: “Mas esse vosso Verbo pouco seria para mim se ordenasse” → “Mas essa vossa palavra pouco seria para mim se ordenasse” — “This Your word” retoma a ordem que acaba de ser mencionada (“whom You have commanded me to serve”); é a palavra que manda, e “ordenasse pelo dizer” confirma isso. “Verbo” com maiúscula a identifica com o Filho, e o demonstrativo “esse” fica sem antecedente. A linha de Key Terms reserva “Verbo” para quando designa o Filho. Volta a forma anterior. *(meaning)*
+- `pt-BR/ch009-chapter-12.md` [3]: “recordava com grande afeto que” → “recordava com grande afeto amoroso que” — A fonte diz “with great affection of love”. “Of love” faltava antes e continua faltando depois da troca para “afeto”.
+- Rejected: pt-BR/ch007-chapter-02.md [2] — “vosso Verbo” com concordância “livre, puro e íntegro” — Aqui é a hipótese maniqueia sobre o Verbo enviado para socorrer a alma. A troca e a concordância estão corretas, e “vossa palavra” no início do parágrafo (o que não ressoava neles) continua adequado.
+- Rejected: pt-BR/ch007-chapter-17.md [2] — “memória amorosa” para “loving memory”, quando a fonte usa “remembrance” antes — A troca segue a distinção memory/remembrance do Key Terms e soa natural em português.
+- Rejected: pt-BR/ch010-chapter-30.md [2] — Crase em “em relação à … à … à” dentro da citação — A regência está correta, e a citação continua íntegra.
+- Rejected: auditoria mecânica — Diferenças de ênfase, de parênteses e espaço antes de “. . .” — As diferenças vêm dos números de parágrafo em negrito, das referências entre parênteses e da elipse copiada da fonte. Nenhuma é defeito.
+
+### Part terms 2 of 3, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 1 minor. Conferidas as duas alterações, os cinco parágrafos exibidos e a nota do tradutor: alterações aceitáveis; encontrado um defeito menor de construção gramatical.
+- `pt-BR/ch009-chapter-12.md` [3]: “Assim, privado do tão grande consolo que nela encontrava, minha alma” → “Assim, por ter eu ficado privado do tão grande consolo que nela encontrava, minha alma” — A fonte distingue o eu privado de consolo da alma ferida. A oração reduzida deixa “privado” ligado gramaticalmente a “minha alma”; explicitar “eu” corrige a construção.
+- Rejected: pt-BR/ch010-chapter-04.md [3] — Entender “word” necessariamente como o Verbo. — A leitura como palavra de ordem é defensável pelo antecedente imediato; a contraposição entre dizer e agir não obriga à identificação com o Filho.
+- Rejected: Auditoria mecânica dos parágrafos exibidos — Diferenças de ênfase e de parênteses. — Correspondem aos números autorais em negrito e aos parênteses acrescentados em torno de uma referência bíblica, sem perda de conteúdo.
+
+### Part terms 2 of 3, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read de IX, 12, §29–31: a troca em §30 está correta e nenhum defeito foi encontrado nos parágrafos exibidos.
+- Rejected: pt-BR/ch009-chapter-12.md [3] — Conferida a troca para “por ter eu ficado privado do tão grande consolo que nela encontrava, minha alma foi ferida” — Na fonte, quem fica privado do consolo é o “I” (“I was left destitute”) e quem é ferida é a alma (“my soul was stricken”). A oração causal com sujeito explícito separa os dois, e a concordância e o resto da frase continuam corretos.
+- Rejected: pt-BR/ch009-chapter-12.md [2] — “é assim que se costuma chorar os que morrem” com o verbo no singular — É a construção com infinitivo e “se” indeterminado, aceita em português. O sentido de “wont to be mourned” se mantém.
+- Rejected: pt-BR/ch009-chapter-12.md [4] — “religious women” traduzido por “mulheres piedosas”, e o “But” inicial omitido em “Ao ouvirem” — As duas são escolhas de estilo defensáveis e não mudam o sentido.
+- Rejected: auditoria mecânica, ch009-chapter-12.md [2]–[7] — Diferenças na contagem de marcadores de ênfase — Vêm dos números de parágrafo em negrito e do hino latino em itálico. Não há perda de conteúdo.
+
+### Part terms 3 of 3, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 8 minor. 76 parágrafos sinalizados lidos; 6 desvios vocabulares corrigidos e 2 linhas do glossário esclarecidas.
+- `pt-BR/ch010-chapter-35.md` [1]: “estimulada pela paixão dos olhos.” → “estimulada pela concupiscência dos olhos.” — *lust of the eyes* → “concupiscência dos olhos” (Key Terms).
+- `pt-BR/ch010-chapter-36.md` [2]: “me curais do desejo de justificar-me” → “me curais da paixão de justificar-me” — *lust* → “paixão” (Key Terms); estava “desejo”.
+- `pt-BR/ch010-chapter-40.md` [2]: “num sentimento muito raro” → “num afeto muito raro” — *affection* → “afeto”, singular do termo assentado nas duas linhas de Key Terms sobre afetos.
+- `pt-BR/ch011-chapter-11.md` [2]: “para que descanse um pouco” → “para que repouse um pouco” — *rest* → “repouso” (Key Terms), aqui na forma verbal “repouse”.
+- `pt-BR/ch012-chapter-04.md` [1]: “Da matéria sem forma surgiu” → “Da ausência de forma da matéria surgiu” — *formlessness of matter* → “ausência de forma da matéria” (Key Terms).
+- `pt-BR/ch013-chapter-26.md` [1]: “Ao reconhecer os benefícios” → “Ao confessar os benefícios” — *confessing* → “confessar” (Key Terms), aqui no sentido de reconhecimento e louvor pelos benefícios recebidos.
+- `pt-BR/translation-journal.md`: “| Word / only-begotten / co-eternal | Verbo / unigênito / coeterno | |” → “| Word / only-begotten / co-eternal | Verbo / unigênito / coeterno | “Verbo” designa o Filho; quando “word” designa a mensagem, a pregação ou o texto das Escrituras, usa-se “palavra” ou “Palavra”; no sentido comum de vocábulo ou enunciado, “palavra”. |” — As ocorrências distinguem corretamente o Verbo pessoal da palavra proclamada, escrita ou simplesmente pronunciada; faltava explicitar esses sentidos na linha.
+- `pt-BR/translation-journal.md`: “| lust | paixão | Segue a convenção de Sobre a Graça de Cristo e o Pecado Original; “carnal lust” = “paixão carnal”. |” → “| lust | paixão | Segue a convenção de Sobre a Graça de Cristo e o Pecado Original; “carnal lust” = “paixão carnal”. Nas referências à fórmula tríplice das tentações, inclusive abreviadas como “threefold lust”, usa-se “concupiscência”, conforme a linha específica dessa fórmula. |” — Explicita o uso correto de “concupiscência” nas retomadas da fórmula tríplice, distinguindo-o do uso geral de “paixão”.
+
+### Part terms 3 of 3, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of 6 text changes and 2 journal edits in ch010–ch013, plus their neighbouring paragraphs and footnotes; all changes are correct and no new defects were found.
+- Rejected: pt-BR/ch010-chapter-40.md [2] — “Vós” capitalized beside lowercase “vos”/“vos submetia” in the same paragraph — Consistent pattern in the file: stressed pronoun capitalized, clitic lowercase; reverential capitalization is not normalized.
+- Rejected: pt-BR/ch010-chapter-40.md [2] — Source parenthesis “(that is, that ability of mine…)” rendered with dashes (audit flag) — Content complete; dashes are an acceptable punctuation choice.
+- Rejected: pt-BR/ch011-chapter-11.md [2] — Source's single long question split into a question and a declarative “E que veja…” — All clauses kept; the jussive “let him see” stands correctly as its own sentence.
+- Rejected: audit: emphasis markers differ — pt-BR has 4 emphasis markers where source has 0 — These are the bold paragraph numbers “**n.**” required by house format.
