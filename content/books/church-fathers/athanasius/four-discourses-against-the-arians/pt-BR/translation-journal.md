@@ -74,7 +74,7 @@ Destino: pt-BR.
 | profession | profissão de fé | Nas citações e comentários de Hebreus. |
 | Regula Fidei | *Regula Fidei* | Expressão latina preservada no título do capítulo 15. |
 | Samosatene | Samosateno | Mantida a designação da fonte. |
-| Ario-maniacs | aríomaníacos | Preservada a designação polêmica ligada à “loucura de Ário”. |
+| Ario-maniacs | ariomaníacos | Preservada a designação polêmica ligada à “loucura de Ário”. |
 | offspring | gerado | Uso substantivo, conforme os diários de De Decretis e De Synodis; preservado também na fórmula “um gerado, mas não como um dos gerados”. |
 | originate(d) / origination | originado / originação | Mantida a família lexical de De Decretis. |
 | subsistence / Expression | subsistência / Expressão | Distintas de “essência”; conforme De Decretis. |
@@ -123,7 +123,7 @@ Destino: pt-BR.
 | manhood | humanidade | Também “natureza humana”, conforme a construção. |
 | passible | passível | Sujeito ao sofrimento; correlato de “impassível”. |
 | Regula Fidei | *Regula Fidei* | Fórmula latina conservada; significa “regra da fé”. |
-| Ario-maniacs | aríomaníacos | Designação polêmica dos arianos empregada pelo autor. |
+| Ario-maniacs | ariomaníacos | Designação polêmica dos arianos empregada pelo autor. |
 | Phrygians | frígios | Aqui, os montanistas; esclarecido em nota do tradutor. |
 | Valentinians | valentinianos | Seguidores de Valentino. |
 | Asterius | Astério | Nome próprio. |
@@ -136,7 +136,7 @@ Destino: pt-BR.
 | Radiance / Expression | Resplendor / Expressão | Designações do Filho, especialmente na citação de Hebreus 1:3. |
 | Valentinus / Ptolemy | Valentino / Ptolomeu | Ptolomeu é identificado no texto como valentiniano. |
 | Simon Magus / Caiaphas | Simão Mago / Caifás | Formas portuguesas dos nomes. |
-| Origin / Beginning | Princípio | Preservado o mesmo termo para a origem divina e para a argumentação fundada em João 1:1. |
+| Origin / Beginning | Princípio | Preservado o mesmo termo para a origem divina e para a argumentação fundada em João 1:1. “Beginning” como começo temporal da existência ou do reinado: “início”; “origin” como origem humana, inclusive em Adão: “origem”. |
 | Monad / Triad / Tetrad | Mônada / Tríade / Tétrade | Vocabulário numérico da discussão sobre a unidade divina e a suposta dilatação. |
 | Monarchy / Dyarchy / Polyarchy | Monarquia / Diarquia / Poliarquia | Termos relacionados à existência de um, dois ou vários princípios. |
 | substantiality / substantial / substantive | substancialidade / substancial | Distintos de “essencial”, que traduz “essential”. |
@@ -335,3 +335,145 @@ Verdict: 0 meaning-level, 0 minor. Delta read of ch003 [15–17, 28–30] and ch
 - Rejected: pt-BR/ch003.md [17] — “e Ele nos livrará, nele confiamos” adds “nos” to the source's “He will deliver in Whom we trust” — The object is implied by the preceding “delivered me” and by 2 Cor 1:10. Supplying it is a defensible rendering, and the sense is not changed.
 - Rejected: pt-BR/ch003.md [29] — “se afasta do Espírito” for “falls from the Spirit” loses the image of falling — The next clause keeps it with “se se arrepender de sua queda” and “aquele que caiu”, so nothing is lost.
 - Rejected: pt-BR/ch004.md [9], [10] — Inline Scripture references stand outside the closing quotation mark, while ch003 places them inside — Each file is internally consistent, and quotation-mark placement is not normalized across files.
+
+### Part terms 1 of 4, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 43 minor. 47 parágrafos sinalizados lidos; 23 apresentavam deriva, com 43 correções.
+- `pt-BR/ch001.md` [10]: “Ele não existia antes de vir à existência” → “Ele não existia antes de sua originação” — origination → “originação” (Key Terms); estava “vir à existência”.
+- `pt-BR/ch001.md` [11]: “pertence às coisas que receberam existência e foram criadas” → “pertence às coisas originadas e criadas” — things originated → “coisas originadas” (Key Terms).
+- `pt-BR/ch001.md` [15]: “chamá-lo uma das coisas que receberam existência” → “chamá-lo uma das coisas originadas” — things originated → “coisas originadas” (Key Terms).
+- `pt-BR/ch001.md` [20]: “pertencem às coisas que receberam existência e às criaturas” → “pertencem às coisas originadas e às criaturas” — things originate → “coisas originadas” (Key Terms).
+- `pt-BR/ch001.md` [20]: “empregados na Escritura para as coisas que receberam existência” → “empregados na Escritura para as coisas originadas” — things originate → “coisas originadas” (Key Terms).
+- `pt-BR/ch001.md` [20]: “nem está de modo algum entre as coisas que receberam existência” → “nem está de modo algum entre as coisas originadas” — originated things → “coisas originadas” (Key Terms).
+- `pt-BR/ch001.md` [26]: “uma coisa que recebeu existência é contada com o Criador” → “uma coisa originada é contada com o Criador” — thing originated → “coisa originada” (Key Terms).
+- `pt-BR/ch001.md` [27]: “nivelá-la às coisas que receberam existência” → “nivelá-la às coisas originadas” — things originate → “coisas originadas” (Key Terms).
+- `pt-BR/ch001.md` [29]: “segundo a natureza das coisas que receberam existência” → “segundo a natureza das coisas originadas” — things originate → “coisas originadas” (Key Terms).
+- `pt-BR/ch001.md` [29]: “pois tal é a natureza das coisas que receberam existência” → “pois tal é a natureza das coisas originadas” — things originate → “coisas originadas” (Key Terms).
+- `pt-BR/ch001.md` [30]: “por ter seu lugar entre as coisas que receberam existência” → “por ter seu lugar entre as coisas originadas” — things originate → “coisas originadas” (Key Terms).
+- `pt-BR/ch001.md` [31]: “nivelar o Filho às coisas que receberam existência” → “nivelar o Filho às coisas originadas” — things originated → “coisas originadas” (Key Terms).
+- `pt-BR/ch001.md` [42]: “as coisas que receberam existência não tinham a capacidade” → “as coisas originadas não tinham a capacidade” — things originated → “coisas originadas” (Key Terms).
+- `pt-BR/ch001.md` [42]: “também fez as coisas que receberam existência quando quis” → “também fez as coisas originadas quando quis” — things originated → “coisas originadas” (Key Terms).
+- `pt-BR/ch001.md` [44]: “o Filho está entre as coisas que receberam existência” → “o Filho está entre as coisas originadas” — things originated → “coisas originadas” (Key Terms).
+- `pt-BR/ch001.md` [45]: “as que são capazes de vir à existência” → “as que são capazes de originação” — origination → “originação” (Key Terms).
+- `pt-BR/ch001.md` [45]: “Ele não está entre as coisas que receberam existência” → “Ele não está entre as coisas originadas” — things originated → “coisas originadas” (Key Terms).
+- `pt-BR/ch001.md` [45]: “não mostra que o Filho seja uma coisa que recebeu existência” → “não mostra que o Filho seja uma coisa originada” — thing originated → “coisa originada” (Key Terms).
+- `pt-BR/ch001.md` [45]: “se Deus é inoriginado, sua Imagem não recebeu existência” → “se Deus é inoriginado, sua Imagem não é originada” — originated → “originada” no contraste direto com “inoriginado”, conforme a nota dos Key Terms.
+- `pt-BR/ch001.md` [45]: “entre o que recebeu existência e o inoriginado” → “entre o originado e o inoriginado” — originated → “originado” no contraste direto com “inoriginado”, conforme os Key Terms.
+- `pt-BR/ch001.md` [45]: “uma equiparação das coisas que receberam existência ao Inoriginado” → “uma equiparação das coisas originadas ao Inoriginado” — things originated → “coisas originadas” (Key Terms).
+- `pt-BR/ch001.md` [46]: “tais expressões implicam coisas que receberam existência e criaturas” → “tais expressões implicam coisas originadas e criaturas” — things originated → “coisas originadas” (Key Terms).
+- `pt-BR/ch001.md` [47]: “por mais que clamem, mas com as coisas que receberam existência” → “por mais que clamem, mas com as coisas originadas” — things originated → “coisas originadas” (Key Terms).
+- `pt-BR/ch001.md` [47]: “Deus não é como as coisas que receberam existência” → “Deus não é como as coisas originadas” — things originated → “coisas originadas” (Key Terms).
+- `pt-BR/ch001.md` [47]: “é empregada em relação às coisas que receberam existência” → “é empregada em relação às coisas originadas” — things originated → “coisas originadas” (Key Terms).
+- `pt-BR/ch001.md` [47]: “foram criadas todas as coisas que receberam existência” → “foram criadas todas as coisas originadas” — things originate → “coisas originadas” (Key Terms).
+- `pt-BR/ch001.md` [48]: “o Verbo supera as coisas que receberam existência” → “o Verbo supera as coisas originadas” — things originated → “coisas originadas” (Key Terms).
+- `pt-BR/ch001.md` [51]: “a natureza de todas as coisas que receberam existência e foram criadas” → “a natureza de todas as coisas originadas e criadas” — things originate → “coisas originadas” (Key Terms).
+- `pt-BR/ch001.md` [51]: “Ele de modo algum é uma coisa que recebeu existência” → “Ele de modo algum é uma coisa originada” — thing originate → “coisa originada” (Key Terms).
+- `pt-BR/ch001.md` [51]: “pois as coisas que receberam existência, sendo do nada” → “pois as coisas originadas, sendo do nada” — things originate → “coisas originadas” (Key Terms).
+- `pt-BR/ch001.md` [54]: “divinizou os homens ao se tornar” → “deificou os homens ao se tornar” — deified → “deificou”, flexão verbal correspondente a “deificado” (Key Terms).
+- `pt-BR/ch001.md` [55]: “foram adotados e divinizados por meio do Verbo” → “foram adotados e deificados por meio do Verbo” — deified → “deificados” (Key Terms).
+- `pt-BR/ch001.md` [55]: “à semelhança do Pai inalterável” → “à semelhança do Pai imutável” — unalterable → “imutável” (Key Terms); estava “inalterável”.
+- `pt-BR/ch001.md` [55]: “também o Verbo é inalterável” → “também o Verbo é imutável” — unalterable → “imutável” (Key Terms); estava “inalterável”.
+- `pt-BR/ch001.md` [58]: “antes, divinizou aquilo de que se revestiu” → “antes, deificou aquilo de que se revestiu” — deified → “deificou”, flexão verbal correspondente a “deificado” (Key Terms).
+- `pt-BR/ch001.md` [61]: “essa exaltação consistiu em ser divinizada” → “essa exaltação consistiu em ser deificada” — deified → “deificada” (Key Terms), concordando com “natureza humana”.
+- `pt-BR/ch001.md` [65]: “permanecendo inalterável, e ao mesmo tempo” → “permanecendo imutável, e ao mesmo tempo” — unalterable → “imutável” (Key Terms); estava “inalterável”.
+- `pt-BR/ch001.md` [68]: “a Natureza do Verbo é alterável” → “a Natureza do Verbo é mutável” — alterable → “mutável” (Key Terms); estava “alterável”.
+- `pt-BR/ch001.md` [68]: “a natureza das coisas originadas é alterável” → “a natureza das coisas originadas é mutável” — alterable → “mutável” (Key Terms); estava “alterável”.
+- `pt-BR/ch001.md` [68]: “ao assumir esta carne alterável” → “ao assumir esta carne mutável” — alterable → “mutável” (Key Terms); estava “alterável”.
+- `pt-BR/ch001.md` [69]: “pois o Verbo de Deus é inalterável” → “pois o Verbo de Deus é imutável” — unalterable → “imutável” (Key Terms); estava “inalterável”.
+- `pt-BR/ch001.md` [69]: “Ele também poderia alterar-se no sentido contrário” → “Ele seria mutável também no sentido contrário” — alterable → “mutável” (Key Terms); estava parafraseado como “poderia alterar-se”.
+- `pt-BR/ch001.md` [69]: “conceberão que também o Pai é alterável” → “conceberão que também o Pai é mutável” — alterable → “mutável” (Key Terms); estava “alterável”.
+
+### Part terms 1 of 4, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 4 minor. Delta de ch001: as 43 correções conferem com a fonte; corrigidas quatro ocorrências de 'unalterable' em [68] ainda vertidas por “inalterável”, contra os Key Terms.
+- `pt-BR/ch001.md` [68]: “havia necessidade de alguém inalterável” → “havia necessidade de alguém imutável” — source 'one unalterable'; Key Terms unalterable → “imutável”, em par com “mutável” já usado no mesmo parágrafo
+- `pt-BR/ch001.md` [68]: “que o segundo Adão fosse inalterável” → “que o segundo Adão fosse imutável” — source 'the second Adam to be unalterable'; Key Terms unalterable → “imutável”
+- `pt-BR/ch001.md` [68]: “sendo o Senhor inalterável e imutável” → “sendo o Senhor imutável e inalterável” — source 'unalterable and unchangeable'; unalterable → “imutável” (Key Terms), unchangeable → “inalterável”, como em [50] e [51]
+- `pt-BR/ch001.md` [68]: “que é sempre inalterável por natureza” → “que é sempre imutável por natureza” — source 'ever is in nature unalterable'; Key Terms unalterable → “imutável”
+- Rejected: pt-BR/ch001.md [39], [55] — “divinizar”/“divinização” ao lado de “deificados” — Os Key Terms registram deify/deifying → divinizar/divinização e deified → deificado; o uso segue a tabela.
+- Rejected: pt-BR/ch001.md [42], [51] — “antes de sua vinda à existência” para 'before origination', enquanto [10] passou a “originação” — A tabela tem uma linha que fixa origination → “vinda à existência”; ambas as formas estão previstas e o sentido não muda.
+- Rejected: pt-BR/ch001.md [19]–[69] — Referências bíblicas sem parênteses, ao contrário de [12]–[16] — Seguem a posição inline da fonte; uniformizar o arquivo inteiro excede o delta e não muda o sentido.
+- Rejected: pt-BR/ch001.md [50], [56], [69] — Substantivos “inalterabilidade”/“imutabilidade” com correspondência variável — A tabela fixa só os adjetivos alterable/unalterable; os substantivos não têm regra.
+
+### Part terms 1 of 4, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 2 minor. Verificadas as quatro alterações e lidos integralmente [67]–[69] e as notas fornecidas: alterações corretas; encontrados dois erros de acentuação no diário.
+- `pt-BR/translation-journal.md`: “| Ario-maniacs | aríomaníacos | Preservada a designação polêmica ligada à “loucura de Ário”. |” → “| Ario-maniacs | ariomaníacos | Preservada a designação polêmica ligada à “loucura de Ário”. |” — A grafia contém um acento indevido em “arío”; a forma correta, também registrada na tabela, é “ariomaníacos”.
+- `pt-BR/translation-journal.md`: “| Ario-maniacs | aríomaníacos | Designação polêmica dos arianos empregada pelo autor. |” → “| Ario-maniacs | ariomaníacos | Designação polêmica dos arianos empregada pelo autor. |” — Mesma grafia incorreta: “ariomaníacos” leva apenas o acento de “maníacos”.
+
+### Part terms 1 of 4, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Leitura de delta: conferidas as duas correções “aríomaníacos” → “ariomaníacos” no diário. Ambas estão certas e coincidem com as demais linhas da tabela; nenhum parágrafo de capítulo mudou e não há novos defeitos.
+- Rejected: pt-BR/translation-journal.md, linha “coinherence” — “coinherência” parece grafia irregular: pelo Acordo de 1990, o prefixo “co-” perde o “h” do segundo elemento (cf. “coerdeiro”), e “inerência” já não tem “h”; a forma esperada seria “coinerência”. — O termo pertence ao capítulo 23, fora dos capítulos ch001–ch004 desta parte. Corrigir só a tabela poderia desalinhá-la do texto que a usa; a correção cabe à parte que contém essa ocorrência.
+- Rejected: auditoria: ch001 [70], ch002 [28], [62], [93], [97], ch003 [23] — Diferenças de referências bíblicas e palavras repetidas apontadas pela auditoria mecânica. — Estes parágrafos não foram alterados nem exibidos nesta leitura de delta; ficam para uma leitura completa.
+
+### Part terms 2 of 4, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 6 minor. 45 parágrafos sinalizados lidos; 6 ocorrências com desvio terminológico.
+- `pt-BR/ch002.md` [7]: “permanecendo Ele próprio inalterável” → “permanecendo Ele próprio imutável” — unalterable → “imutável” (Key Terms); estava “inalterável”.
+- `pt-BR/ch002.md` [46]: “só é chamado Verbo em sentido conceitual” → “é chamado Verbo apenas no pensamento” — notionally → “apenas no pensamento” (Key Terms); estava “em sentido conceitual”.
+- `pt-BR/ch002.md` [54]: “a um Anjo ou a qualquer outro dos seres originados” → “a um Anjo ou a qualquer outra das coisas originadas” — things originate → “coisas originadas” (Key Terms); estava “seres originados”.
+- `pt-BR/ch002.md` [54]: “na qual foram formados todos os seres originados” → “na qual foram formadas todas as coisas originadas” — things originate → “coisas originadas” (Key Terms); estava “seres originados”.
+- `pt-BR/ch002.md` [57]: “distinta dos seres originados e das criaturas por natureza” → “distinta das coisas originadas e das criaturas por natureza” — things originate → “coisas originadas” (Key Terms); estava “seres originados”.
+- `pt-BR/ch002.md` [60]: “isto é, da natureza dos seres originados” → “isto é, da natureza das coisas originadas” — things originate → “coisas originadas” (Key Terms); estava “seres originados”.
+
+### Part terms 2 of 4, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 3 minor. Delta read of ch002 [6]-[8], [45]-[47], [53]-[61]: the 6 previous fixes are correct; 3 new minor defects ('Baruque' twice against the table's 'Baruc', and an added modal in [7]).
+- `pt-BR/ch002.md` [59]: “e Baruque: “Este” → “e Baruc: “Este” — Key Terms: Baruch → Baruc.
+- `pt-BR/ch002.md` [59]: “com Ele Baruque 3:35” → “com Ele Baruc 3:35” — Key Terms: Baruch → Baruc, also in the reference.
+- `pt-BR/ch002.md` [7]: “pois é verdadeiro e não pode ser de outro modo” → “pois é verdadeiro e não é de outro modo” — Source says 'is not otherwise'; the translation added 'pode'.
+- Rejected: pt-BR/ch002.md [7], [46], [54], [57], [60] — Previous round's terminology fixes — They match the Key Terms table ('imutável', 'apenas no pensamento', 'coisas originadas') and the agreement in gender and number is correct after the change.
+- Rejected: pt-BR/ch002.md [8] — The source's parenthesis '(perish the thought! … makes)' became dashes — Punctuation choice only; the content is kept whole.
+- Rejected: pt-BR/ch002.md [60] — 'Child' in Psalm 86 rendered 'Filho' — Note [^2] in [61] explains the double sense of paîs; this is consistent with the decision recorded in the journal.
+
+### Part terms 2 of 4, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente os seis parágrafos apresentados e as três notas do tradutor; as três correções anteriores estão corretas, sem novos defeitos.
+- Rejected: pt-BR/ch002.md [6]-[8], [58]-[60] — Diferença na contagem de marcadores de ênfase. — Os marcadores adicionais formatam os números autorais em negrito, conforme as regras.
+
+### Part terms 3 of 4, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 11 minor. 47 parágrafos sinalizados (90 flags) examinados; 10 desvios vocabulares em 8 parágrafos corrigidos e uma linha do glossário complementada.
+- `pt-BR/ch002.md` [92]: “ao pensar nisso, faz os preparativos” → “ao deliberar sobre isso, faz os preparativos” — “counselling” → “deliberar” (Key Terms); estava parafraseado como “pensar”.
+- `pt-BR/ch003.md` [9]: “mas como Origem.” → “mas como Princípio.” — “Origin” → “Princípio” (Key Terms), designando o Pai como origem divina.
+- `pt-BR/ch003.md` [12]: “é a Origem e a Causa de todas as coisas” → “é o Princípio e a Causa de todas as coisas” — “Origin” → “Princípio” (Key Terms); estava “Origem”.
+- `pt-BR/ch003.md` [18]: “nem alguém apenas superior aos Anjos” → “nem alguém apenas maior que os Anjos” — “greater” → “maior” (Key Terms); estava “superior”.
+- `pt-BR/ch003.md` [19]: “não introduzimos três Origens nem três Pais” → “não introduzimos três Princípios nem três Pais” — “Origins” → “Princípios” (Key Terms), no argumento sobre o único princípio divino.
+- `pt-BR/ch003.md` [19]: “reconhecemos uma só origem” → “reconhecemos um só princípio” — “origin” → “princípio” (Key Terms); retoma o mesmo princípio divino.
+- `pt-BR/ch003.md` [41]: “negar que seu corpo tenha vindo à existência” → “negar a originação de seu corpo” — “origination” → “originação” (Key Terms); estava parafraseado como “tenha vindo à existência”.
+- `pt-BR/ch003.md` [51]: “o Autor de tudo ignora sua obra” → “o Artífice de tudo ignora sua obra” — “Framer” → “Artífice” (Key Terms); estava “Autor”.
+- `pt-BR/ch003.md` [53]: “sendo o Autor do universo” → “sendo o Artífice do universo” — “Framer” → “Artífice” (Key Terms); estava “Autor”.
+- `pt-BR/ch003.md` [53]: “entre as coisas que tiveram origem” → “entre as coisas originadas” — “things originate” → “coisas originadas” (Key Terms); estava parafraseado como “coisas que tiveram origem”.
+- `pt-BR/translation-journal.md`: “| Origin / Beginning | Princípio | Preservado o mesmo termo para a origem divina e para a argumentação fundada em João 1:1. |” → “| Origin / Beginning | Princípio | Preservado o mesmo termo para a origem divina e para a argumentação fundada em João 1:1. “Beginning” como começo temporal da existência ou do reinado: “início”; “origin” como origem humana, inclusive em Adão: “origem”. |” — Explicita os sentidos distintos corretamente traduzidos em ch003 [38] e ch004 [11–12], sem estender o título divino “Princípio” à origem humana ou ao começo temporal.
+
+### Part terms 3 of 4, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 2 minor. Delta read of ch002 [91–93] and ch003 [8–20, 40–42, 50–54]: all 11 previous changes verified; one Key Terms drift (Maker → Criador) fixed in two places in ch003 [8].
+- `pt-BR/ch003.md` [8]: “quando chamamos Deus de Criador, não indicamos” → “quando chamamos Deus de Artífice, não indicamos” — source “when we call God a Maker”; Key Terms gives Maker → Artífice, keeping “Criador” for “Creator”
+- `pt-BR/ch003.md` [8]: “pois um criador existe antes de suas obras” → “pois um artífice existe antes de suas obras” — source “a maker is before his works”; must match the preceding “Artífice” (Key Terms Maker → Artífice)
+- Rejected: pt-BR/ch002.md [93] — audit flag: repeated word “uma uma” in “em cada uma uma marca” — grammatical: the first “uma” is a pronoun and the second an article; the sense is clear
+- Rejected: pt-BR/ch003.md [41] — “negar a originação de seu corpo” may read as stiff — matches the source “origination” and the Key Terms row originado/originação; correct
+- Rejected: pt-BR/ch003.md [18] — “e obras suas” adds a possessive to “being works” — the possessive only makes explicit that the creatures are God's works; the sense is unchanged
+
+### Part terms 3 of 4, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos integralmente ch003 [7–9] e a nota do tradutor fornecida; as duas correções de Maker para Artífice estão corretas. Nenhum novo defeito encontrado.
+- Rejected: pt-BR/ch003.md [7–8] — A auditoria aponta diferença nos marcadores de ênfase. — Os marcadores apenas colocam a numeração autoral em negrito, conforme a regra de formatação.
+
+### Part terms 4 of 4, Round 1 (codex, terms read)
+Verdict: 0 meaning-level, 4 minor. 11 sinalizações lidas em 7 parágrafos; 6 com desvio, correspondentes a 4 ocorrências distintas.
+- `pt-BR/ch004.md` [18]: “parecerá imperfeito e sujeito a mudança” → “parecerá imperfeito e mutável” — “alterable” → “mutável” (Key Terms); estava “sujeito a mudança”.
+- `pt-BR/ch004.md` [27]: “necessariamente o Criador é anterior” → “necessariamente o Artífice é anterior” — “Framer” → “Artífice” nas três linhas pertinentes de Key Terms; estava “Criador”.
+- `pt-BR/ch004.md` [34]: “terá um começo ao se tornar Filho” → “terá um princípio ao se tornar Filho” — “beginning” → “Princípio” (Key Terms); estava “começo”.
+- `pt-BR/ch004.md` [37]: “à criação “o começo da existência”” → “à criação “o princípio da existência”” — “beginning” → “Princípio” (Key Terms); estava “começo”.
+
+### Part terms 4 of 4, Round 2 (claude, delta read)
+Verdict: 0 meaning-level, 4 minor. Delta read of ch004 [17]–[38]: the fixes in [18] and [27] are correct; the fixes in [34] and [37] used 'princípio' where the Key Terms table prescribes 'início' for a temporal beginning, so they are corrected, together with the same drift in [36] and [38].
+- `pt-BR/ch004.md` [34]: “terá um princípio ao se tornar Filho” → “terá um início ao se tornar Filho” — source 'having a beginning in that He becomes a Son' is a temporal beginning; Key Terms ('Origin / Beginning') prescribes 'início' for the temporal start of existence, not 'princípio'
+- `pt-BR/ch004.md` [37]: “à criação “o princípio da existência”” → “à criação “o início da existência”” — source 'the beginning of being', the temporal start of creation's existence; Key Terms prescribes 'início' in this sense
+- `pt-BR/ch004.md` [36]: “o Filho não tem começo de existência” → “o Filho não tem início de existência” — source 'no beginning of being'; Key Terms prescribes 'início' for the temporal start of existence
+- `pt-BR/ch004.md` [38]: “não recebeu o começo de sua existência” → “não recebeu o início de sua existência” — source 'did not then receive a beginning of coming to be'; Key Terms prescribes 'início' for the temporal start of existence
+- Rejected: pt-BR/ch004.md [18], [27] — Previous fixes 'mutável' and 'Artífice' — Both match the source ('alterable', 'Framer') and the Key Terms rows; the sentences are intact
+- Rejected: pt-BR/ch004.md [17]–[38] — Mechanical audit: emphasis markers source 0, pt-BR 4 — The difference comes from the bold paragraph numbers '**n.**', which follow the house format
+
+### Part terms 4 of 4, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 1 minor. Lidos integralmente os parágrafos [33]–[39] e a nota apresentada; quatro correções confirmadas, sem defeitos na tradução; corrigida uma localização no diário.
+- `pt-BR/translation-journal.md`: “together with the same drift in [36] and [28].” → “together with the same drift in [36] and [38].” — A ocorrência está no parágrafo [38], correspondente à seção 28; o registro usa números de parágrafo.
+- Rejected: pt-BR/ch004.md [34], [36]–[38] — Substituições anteriores por “início”. — As quatro correções preservam o sentido temporal da fonte, seguem a tabela de termos e não prejudicam as frases.
+- Rejected: pt-BR/ch004.md [34], [36]–[39] — Diferença na contagem de marcadores de ênfase. — Decorre da numeração autoral em negrito, conforme o formato exigido.
+
+### Part terms 4 of 4, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read: verified the single journal correction ([28]→[38]) against the Round 2 fix list; it is correct; no new defects.
+- Rejected: pt-BR/translation-journal.md, Round 2 log — Correction of “[28]” to “[38]” in the Round 2 summary — Round 2's own fix list includes `pt-BR/ch004.md` [38] (“início de sua existência”), and the log cites paragraph numbers, so “[38]” is right.
+- Rejected: pt-BR/translation-journal.md, Key Terms “coinherence” — Mechanical audit: “coinherência” occurs 0 times in pt-BR — No chapter text was shown in this delta read, so the occurrence cannot be checked here; the row is outside the scope of this round's change.
