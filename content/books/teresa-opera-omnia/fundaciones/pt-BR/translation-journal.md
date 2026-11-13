@@ -69,7 +69,7 @@ Destino: pt-BR.
 | embebecimiento / embebidas | embevecimento / embevecidas, embebidas | |
 | oración de quietud | oração de quietude | |
 | libertad de espíritu | liberdade de espírito | |
-| soledad | solidão | “saudade” em c06 ¶18, onde é desejo da comunhão |
+| soledad | solidão | “saudade” em c06 ¶18, onde é desejo da comunhão; também “soledade” no sentido de retiro eremítico |
 | sinsabor / desgusto | dissabor / desgosto | |
 | pasmos, amortecimientos | pasmos, amortecimentos | |
 | Fray Pedro de Alcántara | Frei Pedro de Alcântara | |
@@ -88,7 +88,7 @@ Destino: pt-BR.
 | Isabel de Santo Domingo | Isabel de São Domingos | |
 | Madrid | Madri | |
 | esposo / desposada / desposar | noivo / comprometida / celebrar os esponsais | o “esposo” de D. Casilda é noivo, não marido |
-| freila / hermana de velo blanco | irmã conversa / irmã de véu branco | |
+| freila / hermana de velo blanco | irmã leiga / irmã de véu branco | |
 | Adelantado (mayor) de Castilla | Adiantado (-mor) de Castela | n. do tradutor em c10 |
 | torno / red | roda / grade | |
 | tapias | taipas | |
@@ -99,7 +99,7 @@ Destino: pt-BR.
 | Estefanía de los Apóstoles | Estefânia dos Apóstolos | |
 | María Bautista | Maria Batista | |
 | Felipe II / Felipe III | Filipe II / Filipe III | |
-| trabajos | sofrimentos / provações | segundo o contexto: dores físicas ou provações |
+| trabajos | trabalhos | segundo o contexto: dores físicas ou provações |
 | capítulo / celadoras | capítulo / zeladoras | n. do tradutor em c12 |
 | postema | abscesso | |
 | Descalzos / Calzados / los del Paño | Descalços / Calçados / os do Pano | |
@@ -127,7 +127,7 @@ Destino: pt-BR.
 | mayorazgo | morgado | n. do tradutor em c15 |
 | capilla mayor | capela-mor | |
 | recaudos | papéis | documentos de autorização |
-| jergón / sayal / jerga | enxergão / saial / xerga | |
+| jergón / sayal / jerga | enxergão / burel / xerga | |
 | Consejo (del Arzobispado) | Conselho | |
 | patronato | padroado | |
 | Pascua del Espíritu Santo | Pentecostes | “Pascua” sozinha no mesmo contexto: *festa* |
@@ -189,7 +189,7 @@ Destino: pt-BR.
 | mayorazgo | morgado | |
 | hábito honesto | traje honesto | roupa modesta, ainda no século |
 | olear / olio | ungir / santos óleos | |
-| freila | conversa | irmã leiga, oposta à “do coro” |
+| freila | irmã leiga | irmã leiga, oposta à “do coro” |
 | zaratán | cancro | n. 10 cita a palavra do original |
 | Fray Juan de la Miseria | Frei Juan da Miséria | |
 | Fr. Pedro Fernández | Frei Pedro Fernández | Comissário Apostólico |
@@ -220,7 +220,7 @@ Destino: pt-BR.
 | Lorencio / Lorenzo de Cepeda | Lorenzo de Cepeda | irmão da Santa; leigo, nome em espanhol; “Lorencio” do autógrafo normalizado |
 | Teresita | Teresita | sobrinha da Santa |
 | Beatriz de la Madre de Dios | Beatriz da Mãe de Deus | primeira noviça de Sevilha |
-| Jerónimo Gracián | Frei Jerônimo Gracián | |
+| Jerónimo Gracián | P. Jerônimo Gracián | |
 | Prior de las Cuevas | Prior de Las Cuevas | Fernando Pantoja; cartuxa de Santa Maria de las Cuevas |
 | Fr. Juan de la Miseria | Frei João da Miséria | pintor do retrato da Santa |
 | Nicolás Doria | Nicolau Doria | |
@@ -264,7 +264,7 @@ Destino: pt-BR.
 | Palencia | Palência | |
 | Don Álvaro de Mendoza | Dom Álvaro de Mendoza | bispo de Ávila e depois de Palência; nas notas do editor, D. Álvaro |
 | canónigo Reinoso / Jerónimo Reinoso | cônego Reinoso / Jerónimo Reinoso | confessor da Santa em Palência; nome em espanhol |
-| canónigo Salinas / Martín Alonso de Salinas | cônego Salinas | |
+| canónigo Salinas / Martín Alonso de Salinas | cônego Salinas | em listas documentais, o nome completo: “Martín Alonso de Salinas” |
 | Suero de Vega (de la Vega) | Suero de Vega (de la Vega) | as duas formas da fonte mantidas |
 | provisor | provisor | nota do tradutor em c29 |
 | Maestro Ripalda | Mestre Ripalda | jesuíta |
@@ -762,3 +762,29 @@ Verdict: 2 meaning-level, 0 minor. Full read of c29, c30, c31 and the prologue w
 ### Part 4 of 4, Round 4 (codex, delta read)
 Verdict: 0 meaning-level, 0 minor. Verificadas as duas alterações e lidos integralmente os seis parágrafos apresentados, as duas notas do tradutor e os metadados fornecidos; nenhum novo defeito objetivo.
 - Rejected: pt-BR/c31.md [57] — Após a explicitação de «às monjas», «foi pensando nelas» poderia parecer retomar as religiosas. — O encadeamento entre as razões apresentadas e as outras razões que o bispo concebeu permite identificar o antecedente; não há erro inequívoco.
+
+### Part terms 1 of 1, Round 1 (codex, terms read)
+Verdict: 3 meaning-level, 7 minor. 75 parágrafos sinalizados lidos; 3 desvios de sentido corrigidos e 7 ajustes de glossário.
+- `pt-BR/translation-journal.md`: “| freila / hermana de velo blanco | irmã conversa / irmã de véu branco | |” → “| freila / hermana de velo blanco | irmã leiga / irmã de véu branco | |” — As ocorrências apresentadas usam “irmã leiga” para “freila”; harmoniza as linhas concorrentes.
+- `pt-BR/translation-journal.md`: “| freila | conversa | irmã leiga, oposta à “do coro” |” → “| freila | irmã leiga | irmã leiga, oposta à “do coro” |” — As ocorrências apresentadas usam “irmã leiga”; harmoniza as linhas concorrentes.
+- `pt-BR/translation-journal.md`: “| trabajos | sofrimentos / provações | segundo o contexto: dores físicas ou provações |” → “| trabajos | trabalhos | segundo o contexto: dores físicas ou provações |” — “Trabalhos” predomina nas ocorrências apresentadas para os padecimentos teresianos; harmoniza as linhas concorrentes.
+- `pt-BR/translation-journal.md`: “| jergón / sayal / jerga | enxergão / saial / xerga | |” → “| jergón / sayal / jerga | enxergão / burel / xerga | |” — As ocorrências de “sayal” apresentadas usam “burel”; harmoniza esse termo com a outra linha.
+- `pt-BR/translation-journal.md`: “| Jerónimo Gracián | Frei Jerônimo Gracián | |” → “| Jerónimo Gracián | P. Jerônimo Gracián | |” — O tratamento “P.” predomina nas menções apresentadas; harmoniza as linhas concorrentes.
+- `pt-BR/translation-journal.md`: “| soledad | solidão | “saudade” em c06 ¶18, onde é desejo da comunhão |” → “| soledad | solidão | “saudade” em c06 ¶18, onde é desejo da comunhão; também “soledade” no sentido de retiro eremítico |” — Registra “soledade”, empregado consistentemente em c28 para o retiro eremítico.
+- `pt-BR/translation-journal.md`: “| canónigo Salinas / Martín Alonso de Salinas | cônego Salinas | |” → “| canónigo Salinas / Martín Alonso de Salinas | cônego Salinas | em listas documentais, o nome completo: “Martín Alonso de Salinas” |” — Registra o nome completo, corretamente conservado na lista de fiadores.
+- `pt-BR/c28.md` [74]: “e, parando a eremita ao pé dele, disse:” → “e, parando o eremita ao pé dele, disse:” — A fonte diz “el ermitaño”: quem para e fala é o P. Pina, não Dona Catalina. *(meaning)*
+- `pt-BR/c29.md` [29]: “e a ermita estava isolada” → “e a ermida estava isolada” — “Ermita” designa aqui a capela; “ermida” distingue o edifício da pessoa eremita. *(meaning)*
+- `pt-BR/c29.md` [53]: “onde nascera a 29 de novembro de 1546.” → “onde nascera a 29 de novembro de 1516.” — A fonte informa 1516; a tradução altera o ano de nascimento. *(meaning)*
+
+### Part terms 1 of 1, Round 2 (claude, delta read)
+Verdict: 2 meaning-level, 0 minor. Leitura delta das 10 alterações do 1.º turno e dos parágrafos vizinhos: as edições do diário e c29 [29] estão certas; c28 [74] e c29 [53] voltam à leitura anterior, sustentada pelo contexto e pelo diário.
+- `pt-BR/c28.md` [74]: “e, parando o eremita ao pé dele, disse:” → “e, parando a eremita ao pé dele, disse:” — Reverte a correção anterior: quem fala é Dona Catalina (“mi habitación”; depois “entrarla”, “No pudiéndola vencer”, “guarecerla”, “el de la Madre”); com “o eremita” o leitor entende o P. Pina, nomeado como “o eremita” na frase anterior. Coincide com a decisão do diário sobre c28 n. 29. *(meaning)*
+- `pt-BR/c29.md` [53]: “onde nascera a 29 de novembro de 1516.” → “onde nascera a 29 de novembro de 1546.” — Reverte a correção anterior: o “1516” da fonte é lido 1546 pelo diário (N. 18), porque é incompatível com os 35 anos que a n. 29 atribui a Reinoso; com 1516 o texto também contradiz o diário. *(meaning)*
+- Rejected: pt-BR/c29.md [29] — “ermida” no lugar de “ermita” — Correção certa: a tabela de termos dá ermita → ermida, e “ermita” não designa capela em português.
+- Rejected: pt-BR/translation-journal.md — Linhas de freila, trabajos, sayal, Gracián, soledad e Salinas harmonizadas — As alterações conferem com as ocorrências mostradas e eliminam linhas contraditórias; a linha “lega | irmã conversa” trata de outro termo e pode ficar.
+- Rejected: pt-BR/c29.md [30] — “aonde a própria imagem veio também buscar-nos” — Traduz fielmente “que la mesma imagen vino también por nosotras”; não é defeito.
+
+### Part terms 1 of 1, Round 3 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Lidos os seis parágrafos apresentados, as seis notas do tradutor e as duas alterações da rodada anterior; nenhum novo defeito objetivo encontrado.
+- Rejected: pt-BR/c28.md [74] — “a eremita” diverge do masculino “el ermitaño”. — A sequência sobre a habitação de Catalina, sua recusa em prosseguir e o abrigo para ela sustenta a leitura contextual já registrada no diário.
+- Rejected: pt-BR/c29.md [53] — 1546 diverge de 1516 na transcrição da fonte. — O diário documenta a leitura como correção de OCR apoiada na idade de 35 anos informada na nota 29; não há nova evidência que justifique revertê-la.
