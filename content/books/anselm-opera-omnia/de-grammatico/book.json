@@ -18,13 +18,19 @@
   },
   "composed": "c. 1060-1063",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "anselm/de-grammatico",
   "editions": {
     "la": {
       "editor": "J.-P. Migne (Patrologia Latina 158)",
       "year": 1853
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,127 +47,148 @@
     {
       "id": "c01",
       "title": {
-        "la": "Caput I. An grammaticus sit substantia, an qualitas: proponuntur rationes in utramque partem"
+        "la": "Caput I. An grammaticus sit substantia, an qualitas: proponuntur rationes in utramque partem",
+        "pt-BR": "Capítulo I. Se gramático é substância ou qualidade: apresentam-se razões em favor de ambas as posições"
       }
     },
     {
       "id": "c02",
       "title": {
-        "la": "Caput II. Rationes propositae redarguuntur"
+        "la": "Caput II. Rationes propositae redarguuntur",
+        "pt-BR": "Capítulo II. Refutam-se as razões apresentadas"
       }
     },
     {
       "id": "c03",
       "title": {
-        "la": "Caput III. Rationes propositae contra redarguentem firmantur"
+        "la": "Caput III. Rationes propositae contra redarguentem firmantur",
+        "pt-BR": "Capítulo III. Confirmam-se as razões apresentadas contra quem as refuta"
       }
     },
     {
       "id": "c04",
       "title": {
-        "la": "Caput IV. Vitium syllogismorum cap. 2 propositorum"
+        "la": "Caput IV. Vitium syllogismorum cap. 2 propositorum",
+        "pt-BR": "Capítulo IV. O defeito dos silogismos apresentados no capítulo 2"
       }
     },
     {
       "id": "c05",
       "title": {
-        "la": "Caput V. Quid ex praedictis syllogismis effici legitime valeat, in eorum uno docetur"
+        "la": "Caput V. Quid ex praedictis syllogismis effici legitime valeat, in eorum uno docetur",
+        "pt-BR": "Capítulo V. Ensina-se, em um dos silogismos mencionados, o que legitimamente se pode concluir deles"
       }
     },
     {
       "id": "c06",
       "title": {
-        "la": "Caput VI. Alterum sophisma discutitur ex dictis"
+        "la": "Caput VI. Alterum sophisma discutitur ex dictis",
+        "pt-BR": "Capítulo VI. Examina-se o outro sofisma à luz do que foi dito"
       }
     },
     {
       "id": "c07",
       "title": {
-        "la": "Caput VII. Iterum discutitur prius argumentum cap. 2 propositum"
+        "la": "Caput VII. Iterum discutitur prius argumentum cap. 2 propositum",
+        "pt-BR": "Capítulo VII. Examina-se novamente o primeiro argumento apresentado no capítulo 2"
       }
     },
     {
       "id": "c08",
       "title": {
-        "la": "Caput VIII. Examen argumenti cap. 5 propositi"
+        "la": "Caput VIII. Examen argumenti cap. 5 propositi",
+        "pt-BR": "Capítulo VIII. Exame do argumento apresentado no capítulo 5"
       }
     },
     {
       "id": "c09",
       "title": {
-        "la": "Caput IX. An sit aliquis grammaticus non homo"
+        "la": "Caput IX. An sit aliquis grammaticus non homo",
+        "pt-BR": "Capítulo IX. Se há algum gramático que não seja homem"
       }
     },
     {
       "id": "c10",
       "title": {
-        "la": "Caput X. Grammaticus an sit prima, an secunda substantia"
+        "la": "Caput X. Grammaticus an sit prima, an secunda substantia",
+        "pt-BR": "Capítulo X. Se gramático é substância primeira ou segunda"
       }
     },
     {
       "id": "c11",
       "title": {
-        "la": "Caput XI. Hominem non esse grammaticam"
+        "la": "Caput XI. Hominem non esse grammaticam",
+        "pt-BR": "Capítulo XI. Que homem não é gramática"
       }
     },
     {
       "id": "c12",
       "title": {
-        "la": "Caput XII. Homo, et grammaticus, quam varie significent sua significata"
+        "la": "Caput XII. Homo, et grammaticus, quam varie significent sua significata",
+        "pt-BR": "Capítulo XII. Quão diferentemente homem e gramático significam seus significados"
       }
     },
     {
       "id": "c13",
       "title": {
-        "la": "Caput XIII. De formali significatione vocis, grammaticus"
+        "la": "Caput XIII. De formali significatione vocis, grammaticus",
+        "pt-BR": "Capítulo XIII. A significação formal do termo gramático"
       }
     },
     {
       "id": "c14",
       "title": {
-        "la": "Caput XIV. Grammaticum esse significativum grammaticae, sive significare scientem grammaticam"
+        "la": "Caput XIV. Grammaticum esse significativum grammaticae, sive significare scientem grammaticam",
+        "pt-BR": "Capítulo XIV. Que gramático é significativo de gramática, ou significa quem sabe gramática"
       }
     },
     {
       "id": "c15",
       "title": {
-        "la": "Caput XV. Exemplo albi doctrina proposita explicatur"
+        "la": "Caput XV. Exemplo albi doctrina proposita explicatur",
+        "pt-BR": "Capítulo XV. Explica-se a doutrina apresentada pelo exemplo de branco"
       }
     },
     {
       "id": "c16",
       "title": {
-        "la": "Caput XVI. Quomodo grammaticus sit qualitas"
+        "la": "Caput XVI. Quomodo grammaticus sit qualitas",
+        "pt-BR": "Capítulo XVI. Como gramático é qualidade"
       }
     },
     {
       "id": "c17",
       "title": {
-        "la": "Caput XVII. De Aristotelis sensu in tractatu De categoriis"
+        "la": "Caput XVII. De Aristotelis sensu in tractatu De categoriis",
+        "pt-BR": "Capítulo XVII. O sentido de Aristóteles no tratado Sobre as categorias"
       }
     },
     {
       "id": "c18",
       "title": {
-        "la": "Caput XVIII. Quod dialectici appellent voces nomine rerum quarum sunt significativae"
+        "la": "Caput XVIII. Quod dialectici appellent voces nomine rerum quarum sunt significativae",
+        "pt-BR": "Capítulo XVIII. Que os dialéticos chamam as expressões vocais pelo nome das coisas de que são significativas"
       }
     },
     {
       "id": "c19",
       "title": {
-        "la": "Caput XIX. Utrum grammaticus, cum designet habentem qualitatem, spectet ad categoriam, habere"
+        "la": "Caput XIX. Utrum grammaticus, cum designet habentem qualitatem, spectet ad categoriam, habere",
+        "pt-BR": "Capítulo XIX. Se gramático, por designar o que tem qualidade, pertence à categoria ter"
       }
     },
     {
       "id": "c20",
       "title": {
-        "la": "Caput XX. Quomodo ex significatis vocis, albus, non exsurgat unum"
+        "la": "Caput XX. Quomodo ex significatis vocis, albus, non exsurgat unum",
+        "pt-BR": "Capítulo XX. Como dos significados do termo branco não resulta uma unidade"
       }
     },
     {
       "id": "c21",
       "title": {
-        "la": "Caput XXI. Quod albus non significet aliquid habens albedinem; sed duntaxat significet habens albedinem"
+        "la": "Caput XXI. Quod albus non significet aliquid habens albedinem; sed duntaxat significet habens albedinem",
+        "pt-BR": "Capítulo XXI. Que branco não significa algo tendo brancura, mas significa somente tendo brancura"
       }
     }
   ]
