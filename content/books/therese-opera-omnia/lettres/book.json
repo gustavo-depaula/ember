@@ -14,17 +14,23 @@
   "description": {
     "fr-FR": "Les lettres de Thérèse (LT 1–266, avec leurs bis, fragments et variantes), de son premier billet à sa marraine de la Visitation, à quatre ans, aux dernières lettres à l’abbé Bellière en août 1897 : à ses sœurs Pauline, Marie, Céline et Léonie, à ses cousines Guérin, à ses deux frères spirituels, les abbés Bellière et Roulland, et à ses sœurs du Carmel. Classées par année d’après la numérotation de l’édition du Centenaire, texte authentique des archives du Carmel de Lisieux.",
     "en-US": "Thérèse’s letters (LT 1–266, with their bis numbers, fragments and variants), from her first note to her cousins at the age of four to her last letters to Abbé Bellière in August 1897: to her sisters Pauline, Marie, Céline and Léonie, her Guérin cousins, her two spiritual brothers, Abbés Bellière and Roulland, and her sisters in Carmel. Arranged by year following the numbering of the Centenary edition; the authentic text from the archives of the Carmel of Lisieux.",
-    "pt-BR": "As cartas de Teresinha (LT 1–266, com os números bis, fragmentos e variantes), do primeiro bilhete, aos quatro anos, às últimas cartas ao abade Bellière em agosto de 1897: às irmãs Paulina, Maria, Celina e Leônia, às primas Guérin, aos dois irmãos espirituais, os abades Bellière e Roulland, e às irmãs do Carmelo. Organizadas por ano segundo a numeração da edição do Centenário."
+    "pt-BR": "As cartas de Teresinha (LT 1–266, com os números bis, fragmentos e variantes), do primeiro bilhete à sua madrinha da Visitação, aos quatro anos, às últimas cartas ao padre Bellière em agosto de 1897: às irmãs Paulina, Maria, Celina e Leônia, às primas Guérin, aos dois irmãos espirituais, os padres Bellière e Roulland, e às irmãs do Carmelo. Organizadas por ano segundo a numeração da edição do Centenário; texto autêntico dos arquivos do Carmelo de Lisieux."
   },
   "composed": "1877–1897",
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "therese-of-lisieux/lettres",
   "editions": {
     "fr-FR": {
       "editor": "Carmel de Lisieux (Nouvelle Édition du Centenaire)",
       "year": 1992
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,31 +47,36 @@
     {
       "id": "lt-1877",
       "title": {
-        "fr-FR": "1877"
+        "fr-FR": "1877",
+        "pt-BR": "1877"
       },
       "children": [
         {
           "id": "lt-001",
           "title": {
-            "fr-FR": "LT 1. À Louise Magdelaine, 4 avril 1877"
+            "fr-FR": "LT 1. À Louise Magdelaine, 4 avril 1877",
+            "pt-BR": "LT 1. A Luísa Magdelaine, 4 de abril de 1877"
           }
         },
         {
           "id": "lt-002",
           "title": {
-            "fr-FR": "LT 2. À Jeanne et Marie Guérin, 12-17 avril 1877"
+            "fr-FR": "LT 2. À Jeanne et Marie Guérin, 12-17 avril 1877",
+            "pt-BR": "LT 2. A Joana e Maria Guérin, 12-17 de abril de 1877"
           }
         },
         {
           "id": "lt-003",
           "title": {
-            "fr-FR": "LT 3. À Marie, 10-17 juin 1877"
+            "fr-FR": "LT 3. À Marie, 10-17 juin 1877",
+            "pt-BR": "LT 3. A Maria, 10-17 de junho de 1877"
           }
         },
         {
           "id": "lt-004",
           "title": {
-            "fr-FR": "LT 4. À Marie Guérin, 16 septembre 1877"
+            "fr-FR": "LT 4. À Marie Guérin, 16 septembre 1877",
+            "pt-BR": "LT 4. A Maria Guérin, 16 de setembro de 1877"
           }
         }
       ]
@@ -73,13 +84,15 @@
     {
       "id": "lt-1878",
       "title": {
-        "fr-FR": "1878"
+        "fr-FR": "1878",
+        "pt-BR": "1878"
       },
       "children": [
         {
           "id": "lt-005",
           "title": {
-            "fr-FR": "LT 5. À Pauline, 26 juin 1878"
+            "fr-FR": "LT 5. À Pauline, 26 juin 1878",
+            "pt-BR": "LT 5. A Paulina, 26 de junho de 1878"
           }
         }
       ]
@@ -87,13 +100,15 @@
     {
       "id": "lt-1880",
       "title": {
-        "fr-FR": "1880"
+        "fr-FR": "1880",
+        "pt-BR": "1880"
       },
       "children": [
         {
           "id": "lt-006",
           "title": {
-            "fr-FR": "LT 6. À Pauline, 1er décembre 1880"
+            "fr-FR": "LT 6. À Pauline, 1er décembre 1880",
+            "pt-BR": "LT 6. A Paulina, 1º de dezembro de 1880"
           }
         }
       ]
@@ -101,13 +116,15 @@
     {
       "id": "lt-1881",
       "title": {
-        "fr-FR": "1881"
+        "fr-FR": "1881",
+        "pt-BR": "1881"
       },
       "children": [
         {
           "id": "lt-007",
           "title": {
-            "fr-FR": "LT 7. À Pauline, 4 juillet 1881"
+            "fr-FR": "LT 7. À Pauline, 4 juillet 1881",
+            "pt-BR": "LT 7. A Paulina, 4 de julho de 1881"
           }
         }
       ]
@@ -115,19 +132,22 @@
     {
       "id": "lt-1882",
       "title": {
-        "fr-FR": "1882"
+        "fr-FR": "1882",
+        "pt-BR": "1882"
       },
       "children": [
         {
           "id": "lt-008",
           "title": {
-            "fr-FR": "LT 8. À Céline. Fragments. 23 avril 1882"
+            "fr-FR": "LT 8. À Céline. Fragments. 23 avril 1882",
+            "pt-BR": "LT 8. A Celina. Fragmentos. 23 de abril de 1882"
           }
         },
         {
           "id": "lt-009",
           "title": {
-            "fr-FR": "LT 9. À Mère Marie de Gonzague, Nov-Déc 1882"
+            "fr-FR": "LT 9. À Mère Marie de Gonzague, Nov-Déc 1882",
+            "pt-BR": "LT 9. A Madre Maria de Gonzaga, nov-dez de 1882"
           }
         }
       ]
@@ -135,13 +155,15 @@
     {
       "id": "lt-1883",
       "title": {
-        "fr-FR": "1883"
+        "fr-FR": "1883",
+        "pt-BR": "1883"
       },
       "children": [
         {
           "id": "lt-010",
           "title": {
-            "fr-FR": "LT 10. À Céline, 29 avril 1883"
+            "fr-FR": "LT 10. À Céline, 29 avril 1883",
+            "pt-BR": "LT 10. A Celina, 29 de abril de 1883"
           }
         }
       ]
@@ -149,25 +171,29 @@
     {
       "id": "lt-1884",
       "title": {
-        "fr-FR": "1884"
+        "fr-FR": "1884",
+        "pt-BR": "1884"
       },
       "children": [
         {
           "id": "lt-011",
           "title": {
-            "fr-FR": "LT 11. À soeur Agnès de Jésus, 1-6 mars 1884"
+            "fr-FR": "LT 11. À soeur Agnès de Jésus, 1-6 mars 1884",
+            "pt-BR": "LT 11. À irmã Inês de Jesus, 1-6 de março de 1884"
           }
         },
         {
           "id": "lt-012",
           "title": {
-            "fr-FR": "LT 12. À Marie, 8 mai 1884"
+            "fr-FR": "LT 12. À Marie, 8 mai 1884",
+            "pt-BR": "LT 12. A Maria, 8 de maio de 1884"
           }
         },
         {
           "id": "lt-013",
           "title": {
-            "fr-FR": "LT 13. À Céline, 8 mai 1884"
+            "fr-FR": "LT 13. À Céline, 8 mai 1884",
+            "pt-BR": "LT 13. A Celina, 8 de maio de 1884"
           }
         }
       ]
@@ -175,37 +201,43 @@
     {
       "id": "lt-1885",
       "title": {
-        "fr-FR": "1885"
+        "fr-FR": "1885",
+        "pt-BR": "1885"
       },
       "children": [
         {
           "id": "lt-014",
           "title": {
-            "fr-FR": "LT 14. À Marie Guérin, 1883-1885"
+            "fr-FR": "LT 14. À Marie Guérin, 1883-1885",
+            "pt-BR": "LT 14. A Maria Guérin, 1883-1885"
           }
         },
         {
           "id": "lt-015",
           "title": {
-            "fr-FR": "LT 15. À Céline, 1883-1885"
+            "fr-FR": "LT 15. À Céline, 1883-1885",
+            "pt-BR": "LT 15. A Celina, 1883-1885"
           }
         },
         {
           "id": "lt-016",
           "title": {
-            "fr-FR": "LT 16. À Mme Guérin. (Fragments), 10-17 mai 1885"
+            "fr-FR": "LT 16. À Mme Guérin. (Fragments), 10-17 mai 1885",
+            "pt-BR": "LT 16. À Sra. Guérin. (Fragmentos), 10-17 de maio de 1885"
           }
         },
         {
           "id": "lt-017",
           "title": {
-            "fr-FR": "LT 17. À Marie, 21 mai 1885"
+            "fr-FR": "LT 17. À Marie, 21 mai 1885",
+            "pt-BR": "LT 17. A Maria, 21 de maio de 1885"
           }
         },
         {
           "id": "lt-018",
           "title": {
-            "fr-FR": "LT 18. À M. Martin, 25 août 1885"
+            "fr-FR": "LT 18. À M. Martin, 25 août 1885",
+            "pt-BR": "LT 18. Ao Sr. Martin, 25 de agosto de 1885"
           }
         }
       ]
@@ -213,25 +245,29 @@
     {
       "id": "lt-1886",
       "title": {
-        "fr-FR": "1886"
+        "fr-FR": "1886",
+        "pt-BR": "1886"
       },
       "children": [
         {
           "id": "lt-019",
           "title": {
-            "fr-FR": "LT 19. À Marie Guérin, 26 juin 1886"
+            "fr-FR": "LT 19. À Marie Guérin, 26 juin 1886",
+            "pt-BR": "LT 19. A Maria Guérin, 26 de junho de 1886"
           }
         },
         {
           "id": "lt-020",
           "title": {
-            "fr-FR": "LT 20. À Marie Guérin, 15 juillet 1886"
+            "fr-FR": "LT 20. À Marie Guérin, 15 juillet 1886",
+            "pt-BR": "LT 20. A Maria Guérin, 15 de julho de 1886"
           }
         },
         {
           "id": "lt-021",
           "title": {
-            "fr-FR": "LT 21. À Marie, 2 octobre 1886"
+            "fr-FR": "LT 21. À Marie, 2 octobre 1886",
+            "pt-BR": "LT 21. A Maria, 2 de outubro de 1886"
           }
         }
       ]
@@ -239,121 +275,141 @@
     {
       "id": "lt-1887",
       "title": {
-        "fr-FR": "1887"
+        "fr-FR": "1887",
+        "pt-BR": "1887"
       },
       "children": [
         {
           "id": "lt-022",
           "title": {
-            "fr-FR": "LT 22. À Céline, 31 mars 1887"
+            "fr-FR": "LT 22. À Céline, 31 mars 1887",
+            "pt-BR": "LT 22. A Celina, 31 de março de 1887"
           }
         },
         {
           "id": "lt-023",
           "title": {
-            "fr-FR": "LT 23. À Marie Guérin, 27 juin 1887"
+            "fr-FR": "LT 23. À Marie Guérin, 27 juin 1887",
+            "pt-BR": "LT 23. A Maria Guérin, 27 de junho de 1887"
           }
         },
         {
           "id": "lt-024",
           "title": {
-            "fr-FR": "LT 24. À Jeanne Guérin, 27 juin 1887"
+            "fr-FR": "LT 24. À Jeanne Guérin, 27 juin 1887",
+            "pt-BR": "LT 24. A Joana Guérin, 27 de junho de 1887"
           }
         },
         {
           "id": "lt-025",
           "title": {
-            "fr-FR": "LT 25. À Marie Guérin, 14 juillet 1887"
+            "fr-FR": "LT 25. À Marie Guérin, 14 juillet 1887",
+            "pt-BR": "LT 25. A Maria Guérin, 14 de julho de 1887"
           }
         },
         {
           "id": "lt-026",
           "title": {
-            "fr-FR": "LT 26. À Marie Guérin, 18 août 1887"
+            "fr-FR": "LT 26. À Marie Guérin, 18 août 1887",
+            "pt-BR": "LT 26. A Maria Guérin, 18 de agosto de 1887"
           }
         },
         {
           "id": "lt-027",
           "title": {
-            "fr-FR": "LT 27. À soeur Agnès de Jésus, 8 octobre 1887"
+            "fr-FR": "LT 27. À soeur Agnès de Jésus, 8 octobre 1887",
+            "pt-BR": "LT 27. À irmã Inês de Jesus, 8 de outubro de 1887"
           }
         },
         {
           "id": "lt-028",
           "title": {
-            "fr-FR": "LT 28. Au P. Pichon, 23 octobre 1887"
+            "fr-FR": "LT 28. Au P. Pichon, 23 octobre 1887",
+            "pt-BR": "LT 28. Ao P. Pichon, 23 de outubro de 1887"
           }
         },
         {
           "id": "lt-029",
           "title": {
-            "fr-FR": "LT 29. À Léonie, 23-30 ( ?) octobre 1887"
+            "fr-FR": "LT 29. À Léonie, 23-30 ( ?) octobre 1887",
+            "pt-BR": "LT 29. A Leônia, 23-30 (?) de outubro de 1887"
           }
         },
         {
           "id": "lt-030",
           "title": {
-            "fr-FR": "LT 30. À soeur Agnès de Jésus et soeur Marie du Sacré-Coeur, 6 novembre 1887"
+            "fr-FR": "LT 30. À soeur Agnès de Jésus et soeur Marie du Sacré-Coeur, 6 novembre 1887",
+            "pt-BR": "LT 30. À irmã Inês de Jesus e à irmã Maria do Sagrado Coração, 6 de novembro de 1887"
           }
         },
         {
           "id": "lt-031a",
           "title": {
-            "fr-FR": "LT 31 A. À Marie Guérin, 10 novembre 1887"
+            "fr-FR": "LT 31 A. À Marie Guérin, 10 novembre 1887",
+            "pt-BR": "LT 31 A. A Maria Guérin, 10 de novembro de 1887"
           }
         },
         {
           "id": "lt-031b",
           "title": {
-            "fr-FR": "LT 31 B. À Marie Guérin, 14 novembre 1887"
+            "fr-FR": "LT 31 B. À Marie Guérin, 14 novembre 1887",
+            "pt-BR": "LT 31 B. A Maria Guérin, 14 de novembro de 1887"
           }
         },
         {
           "id": "lt-032",
           "title": {
-            "fr-FR": "LT 32. À Mme Guérin, 14 novembre 1887"
+            "fr-FR": "LT 32. À Mme Guérin, 14 novembre 1887",
+            "pt-BR": "LT 32. À Sra. Guérin, 14 de novembro de 1887"
           }
         },
         {
           "id": "lt-033",
           "title": {
-            "fr-FR": "LT 33. À soeur Marie du Sacré-Coeur, 14 novembre 1887"
+            "fr-FR": "LT 33. À soeur Marie du Sacré-Coeur, 14 novembre 1887",
+            "pt-BR": "LT 33. À irmã Maria do Sagrado Coração, 14 de novembro de 1887"
           }
         },
         {
           "id": "lt-034",
           "title": {
-            "fr-FR": "LT 34. À soeur Agnès de Jésus, 14 novembre 1887"
+            "fr-FR": "LT 34. À soeur Agnès de Jésus, 14 novembre 1887",
+            "pt-BR": "LT 34. À irmã Inês de Jesus, 14 de novembro de 1887"
           }
         },
         {
           "id": "lt-035",
           "title": {
-            "fr-FR": "LT 35. À Marie Guérin, 19 novembre 1887"
+            "fr-FR": "LT 35. À Marie Guérin, 19 novembre 1887",
+            "pt-BR": "LT 35. A Maria Guérin, 19 de novembro de 1887"
           }
         },
         {
           "id": "lt-036",
           "title": {
-            "fr-FR": "LT 36. À soeur Agnès de Jésus, 20 novembre 1887"
+            "fr-FR": "LT 36. À soeur Agnès de Jésus, 20 novembre 1887",
+            "pt-BR": "LT 36. À irmã Inês de Jesus, 20 de novembro de 1887"
           }
         },
         {
           "id": "lt-037",
           "title": {
-            "fr-FR": "LT 37. À Marie Guérin, 25 novembre 1887"
+            "fr-FR": "LT 37. À Marie Guérin, 25 novembre 1887",
+            "pt-BR": "LT 37. A Maria Guérin, 25 de novembro de 1887"
           }
         },
         {
           "id": "lt-038",
           "title": {
-            "fr-FR": "LT 38. À Mgr Hugonin, 3-8 décembre 1887"
+            "fr-FR": "LT 38. À Mgr Hugonin, 3-8 décembre 1887",
+            "pt-BR": "LT 38. A Mons. Hugonin, 3-8 de dezembro de 1887"
           }
         },
         {
           "id": "lt-039",
           "title": {
-            "fr-FR": "LT 39. À l’abbé Révérony, 16 décembre 1887"
+            "fr-FR": "LT 39. À l’abbé Révérony, 16 décembre 1887",
+            "pt-BR": "LT 39. Ao padre Révérony, 16 de dezembro de 1887"
           }
         }
       ]
@@ -361,205 +417,239 @@
     {
       "id": "lt-1888",
       "title": {
-        "fr-FR": "1888"
+        "fr-FR": "1888",
+        "pt-BR": "1888"
       },
       "children": [
         {
           "id": "lt-040",
           "title": {
-            "fr-FR": "LT 40. À Mgr Hugonin, début janvier 1888"
+            "fr-FR": "LT 40. À Mgr Hugonin, début janvier 1888",
+            "pt-BR": "LT 40. A Mons. Hugonin, início de janeiro de 1888"
           }
         },
         {
           "id": "lt-041",
           "title": {
-            "fr-FR": "LT 41. Au chanoine Delatroëtte, 13-30 janvier 1888"
+            "fr-FR": "LT 41. Au chanoine Delatroëtte, 13-30 janvier 1888",
+            "pt-BR": "LT 41. Ao cônego Delatroëtte, 13-30 de janeiro de 1888"
           }
         },
         {
           "id": "lt-042",
           "title": {
-            "fr-FR": "LT 42. À soeur Marie du Sacré-Coeur, 21 février 1888"
+            "fr-FR": "LT 42. À soeur Marie du Sacré-Coeur, 21 février 1888",
+            "pt-BR": "LT 42. À irmã Maria do Sagrado Coração, 21 de fevereiro de 1888"
           }
         },
         {
           "id": "lt-043",
           "title": {
-            "fr-FR": "LT 43. À soeur Agnès de Jésus, 18 (?) Mars1888"
+            "fr-FR": "LT 43. À soeur Agnès de Jésus, 18 (?) Mars1888",
+            "pt-BR": "LT 43. À irmã Inês de Jesus, 18 (?) de março de 1888"
           }
         },
         {
           "id": "lt-044",
           "title": {
-            "fr-FR": "LT 44. À Mgr Hugonin, 27 mars 1888"
+            "fr-FR": "LT 44. À Mgr Hugonin, 27 mars 1888",
+            "pt-BR": "LT 44. A Mons. Hugonin, 27 de março de 1888"
           }
         },
         {
           "id": "lt-045",
           "title": {
-            "fr-FR": "LT 45. À soeur Agnès de Jésus, 27 mars 1888"
+            "fr-FR": "LT 45. À soeur Agnès de Jésus, 27 mars 1888",
+            "pt-BR": "LT 45. À irmã Inês de Jesus, 27 de março de 1888"
           }
         },
         {
           "id": "lt-046",
           "title": {
-            "fr-FR": "LT 46. À Louis Martin, 29 avril 1888"
+            "fr-FR": "LT 46. À Louis Martin, 29 avril 1888",
+            "pt-BR": "LT 46. A Luís Martin, 29 de abril de 1888"
           }
         },
         {
           "id": "lt-047",
           "title": {
-            "fr-FR": "LT 47. À Céline, 8 mai 1888"
+            "fr-FR": "LT 47. À Céline, 8 mai 1888",
+            "pt-BR": "LT 47. A Celina, 8 de maio de 1888"
           }
         },
         {
           "id": "lt-048",
           "title": {
-            "fr-FR": "LT 48. À Louis Martin, 8 mai 1888"
+            "fr-FR": "LT 48. À Louis Martin, 8 mai 1888",
+            "pt-BR": "LT 48. A Luís Martin, 8 de maio de 1888"
           }
         },
         {
           "id": "lt-049",
           "title": {
-            "fr-FR": "LT 49. À soeur Marie du Sacré-Coeur, 12-20 mai 1888"
+            "fr-FR": "LT 49. À soeur Marie du Sacré-Coeur, 12-20 mai 1888",
+            "pt-BR": "LT 49. À irmã Maria do Sagrado Coração, 12-20 de maio de 1888"
           }
         },
         {
           "id": "lt-050",
           "title": {
-            "fr-FR": "LT 50. À Marie Guérin, 13 mai 1888"
+            "fr-FR": "LT 50. À Marie Guérin, 13 mai 1888",
+            "pt-BR": "LT 50. A Maria Guérin, 13 de maio de 1888"
           }
         },
         {
           "id": "lt-051",
           "title": {
-            "fr-FR": "LT 51. À Louis Martin, 17 mai (?) 1888"
+            "fr-FR": "LT 51. À Louis Martin, 17 mai (?) 1888",
+            "pt-BR": "LT 51. A Luís Martin, 17 de maio (?) de 1888"
           }
         },
         {
           "id": "lt-052",
           "title": {
-            "fr-FR": "LT 52. À Louis Martin, mai-juin (?) 1888"
+            "fr-FR": "LT 52. À Louis Martin, mai-juin (?) 1888",
+            "pt-BR": "LT 52. A Luís Martin, maio-junho (?) de 1888"
           }
         },
         {
           "id": "lt-053",
           "title": {
-            "fr-FR": "LT 53. À Céline, 17 juin 1888"
+            "fr-FR": "LT 53. À Céline, 17 juin 1888",
+            "pt-BR": "LT 53. A Celina, 17 de junho de 1888"
           }
         },
         {
           "id": "lt-054",
           "title": {
-            "fr-FR": "LT 54. À soeur Agnès de Jésus, 4 (?) juillet 1888"
+            "fr-FR": "LT 54. À soeur Agnès de Jésus, 4 (?) juillet 1888",
+            "pt-BR": "LT 54. À irmã Inês de Jesus, 4 (?) de julho de 1888"
           }
         },
         {
           "id": "lt-055",
           "title": {
-            "fr-FR": "LT 55. À soeur Agnès de Jésus, 5-9 juillet 1888"
+            "fr-FR": "LT 55. À soeur Agnès de Jésus, 5-9 juillet 1888",
+            "pt-BR": "LT 55. À irmã Inês de Jesus, 5-9 de julho de 1888"
           }
         },
         {
           "id": "lt-056",
           "title": {
-            "fr-FR": "LT 56. À soeur Agnès de Jésus, 11 juillet 1888"
+            "fr-FR": "LT 56. À soeur Agnès de Jésus, 11 juillet 1888",
+            "pt-BR": "LT 56. À irmã Inês de Jesus, 11 de julho de 1888"
           }
         },
         {
           "id": "lt-057",
           "title": {
-            "fr-FR": "LT 57. À Céline, 23 juillet 1888"
+            "fr-FR": "LT 57. À Céline, 23 juillet 1888",
+            "pt-BR": "LT 57. A Celina, 23 de julho de 1888"
           }
         },
         {
           "id": "lt-058",
           "title": {
-            "fr-FR": "LT 58. À Louis Martin, 31 juillet 1888"
+            "fr-FR": "LT 58. À Louis Martin, 31 juillet 1888",
+            "pt-BR": "LT 58. A Luís Martin, 31 de julho de 1888"
           }
         },
         {
           "id": "lt-059",
           "title": {
-            "fr-FR": "LT 59. À Isidore Guérin, 22 août 1888"
+            "fr-FR": "LT 59. À Isidore Guérin, 22 août 1888",
+            "pt-BR": "LT 59. A Isidoro Guérin, 22 de agosto de 1888"
           }
         },
         {
           "id": "lt-060",
           "title": {
-            "fr-FR": "LT 60. À Mme Guérin, 23 août 1888"
+            "fr-FR": "LT 60. À Mme Guérin, 23 août 1888",
+            "pt-BR": "LT 60. À Sra. Guérin, 23 de agosto de 1888"
           }
         },
         {
           "id": "lt-061",
           "title": {
-            "fr-FR": "LT 61. À Louis Martin, 25 août 1888"
+            "fr-FR": "LT 61. À Louis Martin, 25 août 1888",
+            "pt-BR": "LT 61. A Luís Martin, 25 de agosto de 1888"
           }
         },
         {
           "id": "lt-062",
           "title": {
-            "fr-FR": "LT 62. À Marie Guérin, septembre 1888"
+            "fr-FR": "LT 62. À Marie Guérin, septembre 1888",
+            "pt-BR": "LT 62. A Maria Guérin, setembro de 1888"
           }
         },
         {
           "id": "lt-063",
           "title": {
-            "fr-FR": "LT 63. À Louis Martin, 30 septembre 1888"
+            "fr-FR": "LT 63. À Louis Martin, 30 septembre 1888",
+            "pt-BR": "LT 63. A Luís Martin, 30 de setembro de 1888"
           }
         },
         {
           "id": "lt-064",
           "title": {
-            "fr-FR": "LT 64. À Louis Martin, 8-15 octobre (?) 1888"
+            "fr-FR": "LT 64. À Louis Martin, 8-15 octobre (?) 1888",
+            "pt-BR": "LT 64. A Luís Martin, 8-15 de outubro (?) de 1888"
           }
         },
         {
           "id": "lt-065",
           "title": {
-            "fr-FR": "LT 65. À Céline, 20 octobre 1888"
+            "fr-FR": "LT 65. À Céline, 20 octobre 1888",
+            "pt-BR": "LT 65. A Celina, 20 de outubro de 1888"
           }
         },
         {
           "id": "lt-066",
           "title": {
-            "fr-FR": "LT 66. À Louis Martin, 15 novembre 1888"
+            "fr-FR": "LT 66. À Louis Martin, 15 novembre 1888",
+            "pt-BR": "LT 66. A Luís Martin, 15 de novembro de 1888"
           }
         },
         {
           "id": "lt-067",
           "title": {
-            "fr-FR": "LT 67. À Mme Guérin, 18 novembre 1888"
+            "fr-FR": "LT 67. À Mme Guérin, 18 novembre 1888",
+            "pt-BR": "LT 67. À Sra. Guérin, 18 de novembro de 1888"
           }
         },
         {
           "id": "lt-068",
           "title": {
-            "fr-FR": "LT 68. À Louis Martin, 25 novembre 1888"
+            "fr-FR": "LT 68. À Louis Martin, 25 novembre 1888",
+            "pt-BR": "LT 68. A Luís Martin, 25 de novembro de 1888"
           }
         },
         {
           "id": "lt-069",
           "title": {
-            "fr-FR": "LT 69. À Marie Guérin, novembre (?) 1888"
+            "fr-FR": "LT 69. À Marie Guérin, novembre (?) 1888",
+            "pt-BR": "LT 69. A Maria Guérin, novembro (?) de 1888"
           }
         },
         {
           "id": "lt-070",
           "title": {
-            "fr-FR": "LT 70. À Mère Saint-Placide, début décembre 1888"
+            "fr-FR": "LT 70. À Mère Saint-Placide, début décembre 1888",
+            "pt-BR": "LT 70. A Madre São Plácido, início de dezembro de 1888"
           }
         },
         {
           "id": "lt-071",
           "title": {
-            "fr-FR": "LT 71. À Mme Guérin, 28 décembre 1888"
+            "fr-FR": "LT 71. À Mme Guérin, 28 décembre 1888",
+            "pt-BR": "LT 71. À Sra. Guérin, 28 de dezembro de 1888"
           }
         },
         {
           "id": "lt-072",
           "title": {
-            "fr-FR": "LT 72. À Louis Martin, 30 décembre 1888"
+            "fr-FR": "LT 72. À Louis Martin, 30 décembre 1888",
+            "pt-BR": "LT 72. A Luís Martin, 30 de dezembro de 1888"
           }
         }
       ]
@@ -567,181 +657,211 @@
     {
       "id": "lt-1889",
       "title": {
-        "fr-FR": "1889"
+        "fr-FR": "1889",
+        "pt-BR": "1889"
       },
       "children": [
         {
           "id": "lt-073",
           "title": {
-            "fr-FR": "LT 73. À Mme Guérin, 2 janvier 1889"
+            "fr-FR": "LT 73. À Mme Guérin, 2 janvier 1889",
+            "pt-BR": "LT 73. À Sra. Guérin, 2 de janeiro de 1889"
           }
         },
         {
           "id": "lt-074",
           "title": {
-            "fr-FR": "LT 74. À soeur Agnès de Jésus, 6 janvier 1889"
+            "fr-FR": "LT 74. À soeur Agnès de Jésus, 6 janvier 1889",
+            "pt-BR": "LT 74. À irmã Inês de Jesus, 6 de janeiro de 1889"
           }
         },
         {
           "id": "lt-075",
           "title": {
-            "fr-FR": "LT 75. À soeur Marie du Sacré-Coeur, 6 janvier 1889"
+            "fr-FR": "LT 75. À soeur Marie du Sacré-Coeur, 6 janvier 1889",
+            "pt-BR": "LT 75. À irmã Maria do Sagrado Coração, 6 de janeiro de 1889"
           }
         },
         {
           "id": "lt-076",
           "title": {
-            "fr-FR": "LT 76. À soeur Agnès de Jésus, 7 janvier 1889"
+            "fr-FR": "LT 76. À soeur Agnès de Jésus, 7 janvier 1889",
+            "pt-BR": "LT 76. À irmã Inês de Jesus, 7 de janeiro de 1889"
           }
         },
         {
           "id": "lt-077",
           "title": {
-            "fr-FR": "LT 77. À Louis Martin, 8 janvier 1889"
+            "fr-FR": "LT 77. À Louis Martin, 8 janvier 1889",
+            "pt-BR": "LT 77. A Luís Martin, 8 de janeiro de 1889"
           }
         },
         {
           "id": "lt-078",
           "title": {
-            "fr-FR": "LT 78. À soeur Agnès de Jésus, 8 janvier 1889"
+            "fr-FR": "LT 78. À soeur Agnès de Jésus, 8 janvier 1889",
+            "pt-BR": "LT 78. À irmã Inês de Jesus, 8 de janeiro de 1889"
           }
         },
         {
           "id": "lt-079",
           "title": {
-            "fr-FR": "LT 79. À soeur Marie du Sacré-Coeur, 8 janvier 1889"
+            "fr-FR": "LT 79. À soeur Marie du Sacré-Coeur, 8 janvier 1889",
+            "pt-BR": "LT 79. À irmã Maria do Sagrado Coração, 8 de janeiro de 1889"
           }
         },
         {
           "id": "lt-080",
           "title": {
-            "fr-FR": "LT 80. À soeur Marthe de Jésus, 10 janvier 1889"
+            "fr-FR": "LT 80. À soeur Marthe de Jésus, 10 janvier 1889",
+            "pt-BR": "LT 80. À irmã Marta de Jesus, 10 de janeiro de 1889"
           }
         },
         {
           "id": "lt-081",
           "title": {
-            "fr-FR": "LT 81. À Céline, 23-25 janvier 1889"
+            "fr-FR": "LT 81. À Céline, 23-25 janvier 1889",
+            "pt-BR": "LT 81. A Celina, 23-25 de janeiro de 1889"
           }
         },
         {
           "id": "lt-082",
           "title": {
-            "fr-FR": "LT 82. à Celine, 28 février 1889"
+            "fr-FR": "LT 82. à Celine, 28 février 1889",
+            "pt-BR": "LT 82. A Celina, 28 de fevereiro de 1889"
           }
         },
         {
           "id": "lt-083",
           "title": {
-            "fr-FR": "LT 83. À Céline, 5 mars 1889"
+            "fr-FR": "LT 83. À Céline, 5 mars 1889",
+            "pt-BR": "LT 83. A Celina, 5 de março de 1889"
           }
         },
         {
           "id": "lt-084",
           "title": {
-            "fr-FR": "LT 84. À Mme Guérin, 12 mars 1889"
+            "fr-FR": "LT 84. À Mme Guérin, 12 mars 1889",
+            "pt-BR": "LT 84. À Sra. Guérin, 12 de março de 1889"
           }
         },
         {
           "id": "lt-085",
           "title": {
-            "fr-FR": "LT 85. À Céline, 12 mars 1889"
+            "fr-FR": "LT 85. À Céline, 12 mars 1889",
+            "pt-BR": "LT 85. A Celina, 12 de março de 1889"
           }
         },
         {
           "id": "lt-086",
           "title": {
-            "fr-FR": "LT 86. À Céline, 15 mars 1889"
+            "fr-FR": "LT 86. À Céline, 15 mars 1889",
+            "pt-BR": "LT 86. A Celina, 15 de março de 1889"
           }
         },
         {
           "id": "lt-087",
           "title": {
-            "fr-FR": "LT 87. À Céline, 4 avril 1889"
+            "fr-FR": "LT 87. À Céline, 4 avril 1889",
+            "pt-BR": "LT 87. A Celina, 4 de abril de 1889"
           }
         },
         {
           "id": "lt-088",
           "title": {
-            "fr-FR": "LT 88. À Marie Guérin, 24 avril 1889"
+            "fr-FR": "LT 88. À Marie Guérin, 24 avril 1889",
+            "pt-BR": "LT 88. A Maria Guérin, 24 de abril de 1889"
           }
         },
         {
           "id": "lt-089",
           "title": {
-            "fr-FR": "LT 89. À Céline, 26 avril 1889"
+            "fr-FR": "LT 89. À Céline, 26 avril 1889",
+            "pt-BR": "LT 89. A Celina, 26 de abril de 1889"
           }
         },
         {
           "id": "lt-090",
           "title": {
-            "fr-FR": "LT 90. À Céline, 27 (?) avril 1889"
+            "fr-FR": "LT 90. À Céline, 27 (?) avril 1889",
+            "pt-BR": "LT 90. A Celina, 27 (?) de abril de 1889"
           }
         },
         {
           "id": "lt-091",
           "title": {
-            "fr-FR": "LT 91. À soeur Marie du Sacré-Coeur, fin mai 1889"
+            "fr-FR": "LT 91. À soeur Marie du Sacré-Coeur, fin mai 1889",
+            "pt-BR": "LT 91. À irmã Maria do Sagrado Coração, fim de maio de 1889"
           }
         },
         {
           "id": "lt-092",
           "title": {
-            "fr-FR": "LT 92. À Marie Guérin, 30 mai 1889"
+            "fr-FR": "LT 92. À Marie Guérin, 30 mai 1889",
+            "pt-BR": "LT 92. A Maria Guérin, 30 de maio de 1889"
           }
         },
         {
           "id": "lt-093",
           "title": {
-            "fr-FR": "LT 93. À Marie Guérin, 14 juillet 1889"
+            "fr-FR": "LT 93. À Marie Guérin, 14 juillet 1889",
+            "pt-BR": "LT 93. A Maria Guérin, 14 de julho de 1889"
           }
         },
         {
           "id": "lt-094",
           "title": {
-            "fr-FR": "LT 94. À Céline, 14 juillet 1889"
+            "fr-FR": "LT 94. À Céline, 14 juillet 1889",
+            "pt-BR": "LT 94. A Celina, 14 de julho de 1889"
           }
         },
         {
           "id": "lt-095",
           "title": {
-            "fr-FR": "LT 95. À soeur Agnès de Jésus, juillet-août (?) 1889"
+            "fr-FR": "LT 95. À soeur Agnès de Jésus, juillet-août (?) 1889",
+            "pt-BR": "LT 95. À irmã Inês de Jesus, julho-agosto (?) de 1889"
           }
         },
         {
           "id": "lt-096",
           "title": {
-            "fr-FR": "LT 96. À Céline, 15 octobre 1889"
+            "fr-FR": "LT 96. À Céline, 15 octobre 1889",
+            "pt-BR": "LT 96. A Celina, 15 de outubro de 1889"
           }
         },
         {
           "id": "lt-097",
           "title": {
-            "fr-FR": "LT 97. À Mme Guérin, 15 octobre 1889"
+            "fr-FR": "LT 97. À Mme Guérin, 15 octobre 1889",
+            "pt-BR": "LT 97. À Sra. Guérin, 15 de outubro de 1889"
           }
         },
         {
           "id": "lt-098",
           "title": {
-            "fr-FR": "LT 98. À Céline, 22 octobre 1889"
+            "fr-FR": "LT 98. À Céline, 22 octobre 1889",
+            "pt-BR": "LT 98. A Celina, 22 de outubro de 1889"
           }
         },
         {
           "id": "lt-099",
           "title": {
-            "fr-FR": "LT 99. À Mme Guérin, 18 novembre 1889"
+            "fr-FR": "LT 99. À Mme Guérin, 18 novembre 1889",
+            "pt-BR": "LT 99. À Sra. Guérin, 18 de novembro de 1889"
           }
         },
         {
           "id": "lt-100",
           "title": {
-            "fr-FR": "LT 100. À M. et Mme Guérin, le 30 décembre 1889"
+            "fr-FR": "LT 100. À M. et Mme Guérin, le 30 décembre 1889",
+            "pt-BR": "LT 100. Ao Sr. e à Sra. Guérin, 30 de dezembro de 1889"
           }
         },
         {
           "id": "lt-101",
           "title": {
-            "fr-FR": "LT 101. À Céline, 31 décembre 1889"
+            "fr-FR": "LT 101. À Céline, 31 décembre 1889",
+            "pt-BR": "LT 101. A Celina, 31 de dezembro de 1889"
           }
         }
       ]
@@ -749,151 +869,176 @@
     {
       "id": "lt-1890",
       "title": {
-        "fr-FR": "1890"
+        "fr-FR": "1890",
+        "pt-BR": "1890"
       },
       "children": [
         {
           "id": "lt-102",
           "title": {
-            "fr-FR": "LT 102. À Céline, 27 avril 1890"
+            "fr-FR": "LT 102. À Céline, 27 avril 1890",
+            "pt-BR": "LT 102. A Celina, 27 de abril de 1890"
           }
         },
         {
           "id": "lt-103",
           "title": {
-            "fr-FR": "LT 103. À soeur Agnès de Jésus, 4 (?) mai 1890"
+            "fr-FR": "LT 103. À soeur Agnès de Jésus, 4 (?) mai 1890",
+            "pt-BR": "LT 103. À irmã Inês de Jesus, 4 (?) de maio de 1890"
           }
         },
         {
           "id": "lt-104",
           "title": {
-            "fr-FR": "LT 104. À soeur Agnès de Jésus. (Fragments), 5-6 mai 1890"
+            "fr-FR": "LT 104. À soeur Agnès de Jésus. (Fragments), 5-6 mai 1890",
+            "pt-BR": "LT 104. À irmã Inês de Jesus. (Fragmentos), 5-6 de maio de 1890"
           }
         },
         {
           "id": "lt-105",
           "title": {
-            "fr-FR": "LT 105. À Céline, 10 mai 1890"
+            "fr-FR": "LT 105. À Céline, 10 mai 1890",
+            "pt-BR": "LT 105. A Celina, 10 de maio de 1890"
           }
         },
         {
           "id": "lt-106",
           "title": {
-            "fr-FR": "LT 106. À soeur Agnès de Jésus, 10 mai 1890"
+            "fr-FR": "LT 106. À soeur Agnès de Jésus, 10 mai 1890",
+            "pt-BR": "LT 106. À irmã Inês de Jesus, 10 de maio de 1890"
           }
         },
         {
           "id": "lt-107",
           "title": {
-            "fr-FR": "LT 107. À Céline, 19-20 mai 1890"
+            "fr-FR": "LT 107. À Céline, 19-20 mai 1890",
+            "pt-BR": "LT 107. A Celina, 19-20 de maio de 1890"
           }
         },
         {
           "id": "lt-108",
           "title": {
-            "fr-FR": "LT 108. À Céline, 18 juillet 1890"
+            "fr-FR": "LT 108. À Céline, 18 juillet 1890",
+            "pt-BR": "LT 108. A Celina, 18 de julho de 1890"
           }
         },
         {
           "id": "lt-109",
           "title": {
-            "fr-FR": "LT 109. À Marie Guérin, 27-29 juillet 1890"
+            "fr-FR": "LT 109. À Marie Guérin, 27-29 juillet 1890",
+            "pt-BR": "LT 109. A Maria Guérin, 27-29 de julho de 1890"
           }
         },
         {
           "id": "lt-110",
           "title": {
-            "fr-FR": "LT 110. À soeur Agnès de Jésus, 30-31 août 1890"
+            "fr-FR": "LT 110. À soeur Agnès de Jésus, 30-31 août 1890",
+            "pt-BR": "LT 110. À irmã Inês de Jesus, 30-31 de agosto de 1890"
           }
         },
         {
           "id": "lt-111",
           "title": {
-            "fr-FR": "LT 111. À soeur Marie du Sacré-Coeur, 30-31 août 1890"
+            "fr-FR": "LT 111. À soeur Marie du Sacré-Coeur, 30-31 août 1890",
+            "pt-BR": "LT 111. À irmã Maria do Sagrado Coração, 30-31 de agosto de 1890"
           }
         },
         {
           "id": "lt-112",
           "title": {
-            "fr-FR": "LT 112. À soeur Agnès de Jésus, 1 septembre 1890"
+            "fr-FR": "LT 112. À soeur Agnès de Jésus, 1 septembre 1890",
+            "pt-BR": "LT 112. À irmã Inês de Jesus, 1º de setembro de 1890"
           }
         },
         {
           "id": "lt-113",
           "title": {
-            "fr-FR": "LT 113. À soeur Marie du Sacré-Coeur, 2-3 septembre 1890"
+            "fr-FR": "LT 113. À soeur Marie du Sacré-Coeur, 2-3 septembre 1890",
+            "pt-BR": "LT 113. À irmã Maria do Sagrado Coração, 2-3 de setembro de 1890"
           }
         },
         {
           "id": "lt-114",
           "title": {
-            "fr-FR": "LT 114. À soeur Agnès de Jésus, 3 septembre 1890"
+            "fr-FR": "LT 114. À soeur Agnès de Jésus, 3 septembre 1890",
+            "pt-BR": "LT 114. À irmã Inês de Jesus, 3 de setembro de 1890"
           }
         },
         {
           "id": "lt-115",
           "title": {
-            "fr-FR": "LT 115. À soeur Agnès de Jésus, 4 septembre 1890"
+            "fr-FR": "LT 115. À soeur Marie du Sacré-Coeur, 4 septembre 1890",
+            "pt-BR": "LT 115. À irmã Maria do Sagrado Coração, 4 de setembro de 1890"
           }
         },
         {
           "id": "lt-116",
           "title": {
-            "fr-FR": "LT 116. À soeur Marie du Sacré-Coeur, 7 septembre 1890"
+            "fr-FR": "LT 116. À soeur Agnès de Jésus, 6 septembre 1890",
+            "pt-BR": "LT 116. À irmã Inês de Jesus, 6 de setembro de 1890"
           }
         },
         {
           "id": "lt-117",
           "title": {
-            "fr-FR": "LT 117. À soeur Marie du Sacré-Coeur, 8 septembre 1890"
+            "fr-FR": "LT 117. À soeur Agnès de Jésus, 8 septembre 1890",
+            "pt-BR": "LT 117. À irmã Inês de Jesus, 8 de setembro de 1890"
           }
         },
         {
           "id": "lt-118",
           "title": {
-            "fr-FR": "LT 118. «Lettre d’Invitation aux Noces de soeur Thérèse de l’Enfant Jésus de la Sainte Face », 8-20 septembre 1890"
+            "fr-FR": "LT 118. «Lettre d’Invitation aux Noces de soeur Thérèse de l’Enfant Jésus de la Sainte Face », 8-20 septembre 1890",
+            "pt-BR": "LT 118. “Carta de Convite para as Núpcias da irmã Teresa do Menino Jesus da Santa Face”, 8-20 de setembro de 1890"
           }
         },
         {
           "id": "lt-119",
           "title": {
-            "fr-FR": "LT 119. À soeur Marthe de Jésus, 23 septembre 1890"
+            "fr-FR": "LT 119. À soeur Marthe de Jésus, 23 septembre 1890",
+            "pt-BR": "LT 119. À irmã Marta de Jesus, 23 de setembro de 1890"
           }
         },
         {
           "id": "lt-120",
           "title": {
-            "fr-FR": "LT 120. À Céline, 23 septembre 1890"
+            "fr-FR": "LT 120. À Céline, 23 septembre 1890",
+            "pt-BR": "LT 120. A Celina, 23 de setembro de 1890"
           }
         },
         {
           "id": "lt-121",
           "title": {
-            "fr-FR": "LT 121. À soeur Marie-Joseph de la Croix, 28 septembre 1890"
+            "fr-FR": "LT 121. À soeur Marie-Joseph de la Croix, 28 septembre 1890",
+            "pt-BR": "LT 121. À irmã Maria José da Cruz, 28 de setembro de 1890"
           }
         },
         {
           "id": "lt-122",
           "title": {
-            "fr-FR": "LT 122. À Céline, 14 octobre 1890"
+            "fr-FR": "LT 122. À Céline, 14 octobre 1890",
+            "pt-BR": "LT 122. A Celina, 14 de outubro de 1890"
           }
         },
         {
           "id": "lt-123",
           "title": {
-            "fr-FR": "LT 123. À Mme Guérin, 15 octobre 1890"
+            "fr-FR": "LT 123. À Mme Guérin, 15 octobre 1890",
+            "pt-BR": "LT 123. À Sra. Guérin, 15 de outubro de 1890"
           }
         },
         {
           "id": "lt-124",
           "title": {
-            "fr-FR": "LT 124. À Céline, 20 octobre 1890"
+            "fr-FR": "LT 124. À Céline, 20 octobre 1890",
+            "pt-BR": "LT 124. A Celina, 20 de outubro de 1890"
           }
         },
         {
           "id": "lt-125",
           "title": {
-            "fr-FR": "LT 125. À Mme Guérin, 17 novembre 1890"
+            "fr-FR": "LT 125. À Mme Guérin, 17 novembre 1890",
+            "pt-BR": "LT 125. À Sra. Guérin, 17 de novembro de 1890"
           }
         }
       ]
@@ -901,55 +1046,64 @@
     {
       "id": "lt-1891",
       "title": {
-        "fr-FR": "1891"
+        "fr-FR": "1891",
+        "pt-BR": "1891"
       },
       "children": [
         {
           "id": "lt-126",
           "title": {
-            "fr-FR": "LT 126. À Céline, 3 avril 1891"
+            "fr-FR": "LT 126. À Céline, 3 avril 1891",
+            "pt-BR": "LT 126. A Celina, 3 de abril de 1891"
           }
         },
         {
           "id": "lt-127",
           "title": {
-            "fr-FR": "LT 127. À Céline, 26 avril 1891"
+            "fr-FR": "LT 127. À Céline, 26 avril 1891",
+            "pt-BR": "LT 127. A Celina, 26 de abril de 1891"
           }
         },
         {
           "id": "lt-128",
           "title": {
-            "fr-FR": "LT 128. À soeur Marie du Sacré-Coeur, 5 juillet 1891"
+            "fr-FR": "LT 128. À soeur Marie du Sacré-Coeur, 5 juillet 1891",
+            "pt-BR": "LT 128. À irmã Maria do Sagrado Coração, 5 de julho de 1891"
           }
         },
         {
           "id": "lt-129",
           "title": {
-            "fr-FR": "LT 129. À Céline, 8 juillet 1891"
+            "fr-FR": "LT 129. À Céline, 8 juillet 1891",
+            "pt-BR": "LT 129. A Celina, 8 de julho de 1891"
           }
         },
         {
           "id": "lt-130",
           "title": {
-            "fr-FR": "LT 130. À Céline, 23 juillet 1891"
+            "fr-FR": "LT 130. À Céline, 23 juillet 1891",
+            "pt-BR": "LT 130. A Celina, 23 de julho de 1891"
           }
         },
         {
           "id": "lt-131",
           "title": {
-            "fr-FR": "LT 131. À Jeanne La Néele (Jeanne Guérin), 17 octobre 1891"
+            "fr-FR": "LT 131. À Jeanne La Néele (Jeanne Guérin), 17 octobre 1891",
+            "pt-BR": "LT 131. A Joana La Néele (Joana Guérin), 17 de outubro de 1891"
           }
         },
         {
           "id": "lt-132",
           "title": {
-            "fr-FR": "LT 132. À Céline, 20 octobre 1891"
+            "fr-FR": "LT 132. À Céline, 20 octobre 1891",
+            "pt-BR": "LT 132. A Celina, 20 de outubro de 1891"
           }
         },
         {
           "id": "lt-133",
           "title": {
-            "fr-FR": "LT 133. À Mme Guérin, 16 novembre 1891"
+            "fr-FR": "LT 133. À Mme Guérin, 16 novembre 1891",
+            "pt-BR": "LT 133. À Sra. Guérin, 16 de novembro de 1891"
           }
         }
       ]
@@ -957,43 +1111,50 @@
     {
       "id": "lt-1892",
       "title": {
-        "fr-FR": "1892"
+        "fr-FR": "1892",
+        "pt-BR": "1892"
       },
       "children": [
         {
           "id": "lt-134",
           "title": {
-            "fr-FR": "LT 134. À Céline, 26 avril 1892"
+            "fr-FR": "LT 134. À Céline, 26 avril 1892",
+            "pt-BR": "LT 134. A Celina, 26 de abril de 1892"
           }
         },
         {
           "id": "lt-135",
           "title": {
-            "fr-FR": "LT 135. À Céline, 15 août 1892"
+            "fr-FR": "LT 135. À Céline, 15 août 1892",
+            "pt-BR": "LT 135. A Celina, 15 de agosto de 1892"
           }
         },
         {
           "id": "lt-136",
           "title": {
-            "fr-FR": "LT 136. À Marie Guérin, 16 octobre 1892"
+            "fr-FR": "LT 136. À Marie Guérin, 16 octobre 1892",
+            "pt-BR": "LT 136. A Maria Guérin, 16 de outubro de 1892"
           }
         },
         {
           "id": "lt-137",
           "title": {
-            "fr-FR": "LT 137. À Céline, 19 octobre 1892"
+            "fr-FR": "LT 137. À Céline, 19 octobre 1892",
+            "pt-BR": "LT 137. A Celina, 19 de outubro de 1892"
           }
         },
         {
           "id": "lt-138",
           "title": {
-            "fr-FR": "LT 138. À Mme Guérin, 17 novembre 1892"
+            "fr-FR": "LT 138. À Mme Guérin, 17 novembre 1892",
+            "pt-BR": "LT 138. À Sra. Guérin, 17 de novembro de 1892"
           }
         },
         {
           "id": "lt-139",
           "title": {
-            "fr-FR": "LT 139. À M. et Mme Guérin, 30 décembre 1892"
+            "fr-FR": "LT 139. À M. et Mme Guérin, 30 décembre 1892",
+            "pt-BR": "LT 139. Ao Sr. e à Sra. Guérin, 30 de dezembro de 1892"
           }
         }
       ]
@@ -1001,103 +1162,120 @@
     {
       "id": "lt-1893",
       "title": {
-        "fr-FR": "1893"
+        "fr-FR": "1893",
+        "pt-BR": "1893"
       },
       "children": [
         {
           "id": "lt-140",
           "title": {
-            "fr-FR": "LT 140. À Mère Agnès de Jésus, 20 février 1893"
+            "fr-FR": "LT 140. À Mère Agnès de Jésus, 20 février 1893",
+            "pt-BR": "LT 140. A Madre Inês de Jesus, 20 de fevereiro de 1893"
           }
         },
         {
           "id": "lt-141",
           "title": {
-            "fr-FR": "LT 141. À Céline, 25 avril 1893"
+            "fr-FR": "LT 141. À Céline, 25 avril 1893",
+            "pt-BR": "LT 141. A Celina, 25 de abril de 1893"
           }
         },
         {
           "id": "lt-142",
           "title": {
-            "fr-FR": "LT 142. À Céline, 6 juillet 1893"
+            "fr-FR": "LT 142. À Céline, 6 juillet 1893",
+            "pt-BR": "LT 142. A Celina, 6 de julho de 1893"
           }
         },
         {
           "id": "lt-143",
           "title": {
-            "fr-FR": "LT 143. À Céline, 18 juillet 1893"
+            "fr-FR": "LT 143. À Céline, 18 juillet 1893",
+            "pt-BR": "LT 143. A Celina, 18 de julho de 1893"
           }
         },
         {
           "id": "lt-144",
           "title": {
-            "fr-FR": "LT 144. À Céline, 23 juillet 1893"
+            "fr-FR": "LT 144. À Céline, 23 juillet 1893",
+            "pt-BR": "LT 144. A Celina, 23 de julho de 1893"
           }
         },
         {
           "id": "lt-145",
           "title": {
-            "fr-FR": "LT 145. À Céline, 2 août 1893"
+            "fr-FR": "LT 145. À Céline, 2 août 1893",
+            "pt-BR": "LT 145. A Celina, 2 de agosto de 1893"
           }
         },
         {
           "id": "lt-146",
           "title": {
-            "fr-FR": "LT 146. À Mme Guérin, 10 août 1893"
+            "fr-FR": "LT 146. À Mme Guérin, 10 août 1893",
+            "pt-BR": "LT 146. À Sra. Guérin, 10 de agosto de 1893"
           }
         },
         {
           "id": "lt-147",
           "title": {
-            "fr-FR": "LT 147. À Céline, 13 août 1893"
+            "fr-FR": "LT 147. À Céline, 13 août 1893",
+            "pt-BR": "LT 147. A Celina, 13 de agosto de 1893"
           }
         },
         {
           "id": "lt-148",
           "title": {
-            "fr-FR": "LT 148. À Léonie, 13 août 1893"
+            "fr-FR": "LT 148. À Léonie, 13 août 1893",
+            "pt-BR": "LT 148. A Leônia, 13 de agosto de 1893"
           }
         },
         {
           "id": "lt-149",
           "title": {
-            "fr-FR": "LT 149. À Céline, 20 (?) octobre 1893"
+            "fr-FR": "LT 149. À Céline, 20 (?) octobre 1893",
+            "pt-BR": "LT 149. A Celina, 20 (?) de outubro de 1893"
           }
         },
         {
           "id": "lt-150",
           "title": {
-            "fr-FR": "LT 150. À Mme La Néele, 22 octobre 93"
+            "fr-FR": "LT 150. À Mme La Néele, 22 octobre 93",
+            "pt-BR": "LT 150. À Sra. La Néele, 22 de outubro de 93"
           }
         },
         {
           "id": "lt-151",
           "title": {
-            "fr-FR": "LT 151. À Léonie, 5 novembre 1893"
+            "fr-FR": "LT 151. À Léonie, 5 novembre 1893",
+            "pt-BR": "LT 151. A Leônia, 5 de novembro de 1893"
           }
         },
         {
           "id": "lt-152",
           "title": {
-            "fr-FR": "LT 152. À Mme Guérin, 17 novembre 1893"
+            "fr-FR": "LT 152. À Mme Guérin, 17 novembre 1893",
+            "pt-BR": "LT 152. À Sra. Guérin, 17 de novembro de 1893"
           }
         },
         {
           "id": "lt-153",
           "title": {
-            "fr-FR": "LT 153. À Isidore Guérin, décembre (?) 1893"
+            "fr-FR": "LT 153. À Isidore Guérin, décembre (?) 1893",
+            "pt-BR": "LT 153. A Isidoro Guérin, dezembro (?) de 1893"
           }
         },
         {
           "id": "lt-154",
           "title": {
-            "fr-FR": "LT 154. À Léonie, 27 décembre 1893"
+            "fr-FR": "LT 154. À Léonie, 27 décembre 1893",
+            "pt-BR": "LT 154. A Leônia, 27 de dezembro de 1893"
           }
         },
         {
           "id": "lt-155",
           "title": {
-            "fr-FR": "LT 155. À M. et Mme Guérin, 29 décembre 1893"
+            "fr-FR": "LT 155. À M. et Mme Guérin, 29 décembre 1893",
+            "pt-BR": "LT 155. Ao Sr. e à Sra. Guérin, 29 de dezembro de 1893"
           }
         }
       ]
@@ -1105,115 +1283,134 @@
     {
       "id": "lt-1894",
       "title": {
-        "fr-FR": "1894"
+        "fr-FR": "1894",
+        "pt-BR": "1894"
       },
       "children": [
         {
           "id": "lt-156",
           "title": {
-            "fr-FR": "LT 156. À Mère Agnès de Jésus, 21 janvier 1894"
+            "fr-FR": "LT 156. À Mère Agnès de Jésus, 21 janvier 1894",
+            "pt-BR": "LT 156. A Madre Inês de Jesus, 21 de janeiro de 1894"
           }
         },
         {
           "id": "lt-157",
           "title": {
-            "fr-FR": "LT 157. À Céline, mars ou mai (?) 1894"
+            "fr-FR": "LT 157. À Céline, mars ou mai (?) 1894",
+            "pt-BR": "LT 157. A Celina, março ou maio (?) de 1894"
           }
         },
         {
           "id": "lt-158",
           "title": {
-            "fr-FR": "LT 158. À Léonie, mars (?) 1894"
+            "fr-FR": "LT 158. À Léonie, mars (?) 1894",
+            "pt-BR": "LT 158. A Leônia, março (?) de 1894"
           }
         },
         {
           "id": "lt-159",
           "title": {
-            "fr-FR": "LT 159. À Céline Maudelonde, 26 mars 1894"
+            "fr-FR": "LT 159. À Céline Maudelonde, 26 mars 1894",
+            "pt-BR": "LT 159. A Celina Maudelonde, 26 de março de 1894"
           }
         },
         {
           "id": "lt-160",
           "title": {
-            "fr-FR": "LT 160. À soeur Marie-Aloysia Vallée, 3 avril 1894"
+            "fr-FR": "LT 160. À soeur Marie-Aloysia Vallée, 3 avril 1894",
+            "pt-BR": "LT 160. À irmã Maria Aloísia Vallée, 3 de abril de 1894"
           }
         },
         {
           "id": "lt-161",
           "title": {
-            "fr-FR": "LT 161. À Céline, 26 avril 1894"
+            "fr-FR": "LT 161. À Céline, 26 avril 1894",
+            "pt-BR": "LT 161. A Celina, 26 de abril de 1894"
           }
         },
         {
           "id": "lt-162",
           "title": {
-            "fr-FR": "LT 162. À Céline, 26 avril 1894"
+            "fr-FR": "LT 162. À Céline, 26 avril 1894",
+            "pt-BR": "LT 162. A Celina, 26 de abril de 1894"
           }
         },
         {
           "id": "lt-163",
           "title": {
-            "fr-FR": "LT 163. À soeur Thérèse-Dosithée (Léonie), 20 mai 1894"
+            "fr-FR": "LT 163. À soeur Thérèse-Dosithée (Léonie), 20 mai 1894",
+            "pt-BR": "LT 163. À irmã Teresa Dositeia (Leônia), 20 de maio de 1894"
           }
         },
         {
           "id": "lt-164",
           "title": {
-            "fr-FR": "LT 164. À soeur Thérèse-Dosithée (Léonie), 22 mai 1894"
+            "fr-FR": "LT 164. À soeur Thérèse-Dosithée (Léonie), 22 mai 1894",
+            "pt-BR": "LT 164. À irmã Teresa Dositeia (Leônia), 22 de maio de 1894"
           }
         },
         {
           "id": "lt-165",
           "title": {
-            "fr-FR": "LT 165. À Céline, 7 juillet 1894"
+            "fr-FR": "LT 165. À Céline, 7 juillet 1894",
+            "pt-BR": "LT 165. A Celina, 7 de julho de 1894"
           }
         },
         {
           "id": "lt-166",
           "title": {
-            "fr-FR": "LT 166. À Mme Pottier (Céline Maudelonde), 16 juillet 1894"
+            "fr-FR": "LT 166. À Mme Pottier (Céline Maudelonde), 16 juillet 1894",
+            "pt-BR": "LT 166. À Sra. Pottier (Celina Maudelonde), 16 de julho de 1894"
           }
         },
         {
           "id": "lt-167",
           "title": {
-            "fr-FR": "LT 167. À Céline, 18 juillet 1894"
+            "fr-FR": "LT 167. À Céline, 18 juillet 1894",
+            "pt-BR": "LT 167. A Celina, 18 de julho de 1894"
           }
         },
         {
           "id": "lt-167bis",
           "title": {
-            "fr-FR": "LT 167 bis. PS à Mme Guérin, 19 juillet 1894"
+            "fr-FR": "LT 167 bis. PS à Mme Guérin, 19 juillet 1894",
+            "pt-BR": "LT 167 bis. PS à Sra. Guérin, 19 de julho de 1894"
           }
         },
         {
           "id": "lt-168",
           "title": {
-            "fr-FR": "LT 168. À Céline, 5-10 août 1894"
+            "fr-FR": "LT 168. À Céline, 5-10 août 1894",
+            "pt-BR": "LT 168. A Celina, 5-10 de agosto de 1894"
           }
         },
         {
           "id": "lt-169",
           "title": {
-            "fr-FR": "LT 169. À Céline, 19 août 1894"
+            "fr-FR": "LT 169. À Céline, 19 août 1894",
+            "pt-BR": "LT 169. A Celina, 19 de agosto de 1894"
           }
         },
         {
           "id": "lt-170",
           "title": {
-            "fr-FR": "LT 170. À soeur Thérèse-Dosithée (Léonie), 20 août 1894"
+            "fr-FR": "LT 170. À soeur Thérèse-Dosithée (Léonie), 20 août 1894",
+            "pt-BR": "LT 170. À irmã Teresa Dositeia (Leônia), 20 de agosto de 1894"
           }
         },
         {
           "id": "lt-171",
           "title": {
-            "fr-FR": "LT 171. À soeur Thérèse-Dosithée (Léonie), 11 octobre 1894"
+            "fr-FR": "LT 171. À soeur Thérèse-Dosithée (Léonie), 11 octobre 1894",
+            "pt-BR": "LT 171. À irmã Teresa Dositeia (Leônia), 11 de outubro de 1894"
           }
         },
         {
           "id": "lt-172",
           "title": {
-            "fr-FR": "LT 172. À Mme Guérin, 17 novembre 1894"
+            "fr-FR": "LT 172. À Mme Guérin, 17 novembre 1894",
+            "pt-BR": "LT 172. À Sra. Guérin, 17 de novembro de 1894"
           }
         }
       ]
@@ -1221,61 +1418,71 @@
     {
       "id": "lt-1895",
       "title": {
-        "fr-FR": "1895"
+        "fr-FR": "1895",
+        "pt-BR": "1895"
       },
       "children": [
         {
           "id": "lt-173",
           "title": {
-            "fr-FR": "LT 173. À soeur Thérèse-Dosithée (Léonie), janvier (?) 1895"
+            "fr-FR": "LT 173. À soeur Thérèse-Dosithée (Léonie), janvier (?) 1895",
+            "pt-BR": "LT 173. À irmã Teresa Dositeia (Leônia), janeiro (?) de 1895"
           }
         },
         {
           "id": "lt-174",
           "title": {
-            "fr-FR": "LT 174. À soeur Geneviève, Fin janvier 1895"
+            "fr-FR": "LT 174. À soeur Geneviève, Fin janvier 1895",
+            "pt-BR": "LT 174. À irmã Genoveva, fim de janeiro de 1895"
           }
         },
         {
           "id": "lt-175",
           "title": {
-            "fr-FR": "LT 175. À soeur Thérèse-Dosithée (Léonie), 24 février 1895"
+            "fr-FR": "LT 175. À soeur Thérèse-Dosithée (Léonie), 24 février 1895",
+            "pt-BR": "LT 175. À irmã Teresa Dositeia (Leônia), 24 de fevereiro de 1895"
           }
         },
         {
           "id": "lt-176",
           "title": {
-            "fr-FR": "LT 176. À soeur Thérèse-Dosithée (Léonie), 28 avril 1895"
+            "fr-FR": "LT 176. À soeur Thérèse-Dosithée (Léonie), 28 avril 1895",
+            "pt-BR": "LT 176. À irmã Teresa Dositeia (Leônia), 28 de abril de 1895"
           }
         },
         {
           "id": "lt-177",
           "title": {
-            "fr-FR": "LT 177. À Marie Guérin, 7 juillet (?) 1895"
+            "fr-FR": "LT 177. À Marie Guérin, 7 juillet (?) 1895",
+            "pt-BR": "LT 177. A Maria Guérin, 7 de julho (?) de 1895"
           }
         },
         {
           "id": "lt-178",
           "title": {
-            "fr-FR": "LT 178. À Mme Guérin, 20-21 juillet 1895"
+            "fr-FR": "LT 178. À Mme Guérin, 20-21 juillet 1895",
+            "pt-BR": "LT 178. À Sra. Guérin, 20-21 de julho de 1895"
           }
         },
         {
           "id": "lt-179",
           "title": {
-            "fr-FR": "LT 179. À soeur Geneviève, Après le 8 septembre 1895"
+            "fr-FR": "LT 179. À soeur Geneviève, Après le 8 septembre 1895",
+            "pt-BR": "LT 179. À irmã Genoveva, depois de 8 de setembro de 1895"
           }
         },
         {
           "id": "lt-180",
           "title": {
-            "fr-FR": "LT 180. À Mme La Néele, 14-15 et 17 octobre 1895"
+            "fr-FR": "LT 180. À Mme La Néele, 14-15 et 17 octobre 1895",
+            "pt-BR": "LT 180. À Sra. La Néele, 14-15 e 17 de outubro de 1895"
           }
         },
         {
           "id": "lt-181",
           "title": {
-            "fr-FR": "LT 181. À Mme Guérin, 16 novembre 1895"
+            "fr-FR": "LT 181. À Mme Guérin, 16 novembre 1895",
+            "pt-BR": "LT 181. À Sra. Guérin, 16 de novembro de 1895"
           }
         }
       ]
@@ -1283,205 +1490,239 @@
     {
       "id": "lt-1896",
       "title": {
-        "fr-FR": "1896"
+        "fr-FR": "1896",
+        "pt-BR": "1896"
       },
       "children": [
         {
           "id": "lt-182",
           "title": {
-            "fr-FR": "LT 182. À soeur Geneviève, 23 février 1896"
+            "fr-FR": "LT 182. À soeur Geneviève, 23 février 1896",
+            "pt-BR": "LT 182. À irmã Genoveva, 23 de fevereiro de 1896"
           }
         },
         {
           "id": "lt-183",
           "title": {
-            "fr-FR": "LT 183. À soeur Geneviève, 24 février 1896"
+            "fr-FR": "LT 183. À soeur Geneviève, 24 février 1896",
+            "pt-BR": "LT 183. À irmã Genoveva, 24 de fevereiro de 1896"
           }
         },
         {
           "id": "lt-184",
           "title": {
-            "fr-FR": "LT 184. À soeur Geneviève, 24 février 1896"
+            "fr-FR": "LT 184. À soeur Geneviève, 24 février 1896",
+            "pt-BR": "LT 184. À irmã Genoveva, 24 de fevereiro de 1896"
           }
         },
         {
           "id": "lt-185",
           "title": {
-            "fr-FR": "LT 185. À soeur Geneviève, 24 février, 17 mars 1896"
+            "fr-FR": "LT 185. À soeur Geneviève, 24 février, 17 mars 1896",
+            "pt-BR": "LT 185. À irmã Genoveva, 24 de fevereiro, 17 de março de 1896"
           }
         },
         {
           "id": "lt-186",
           "title": {
-            "fr-FR": "LT 186. À Léonie, 11 avril 1896"
+            "fr-FR": "LT 186. À Léonie, 11 avril 1896",
+            "pt-BR": "LT 186. A Leônia, 11 de abril de 1896"
           }
         },
         {
           "id": "lt-187",
           "title": {
-            "fr-FR": "LT 187. À soeur Marie de la Trinité, 30 avril 1896"
+            "fr-FR": "LT 187. À soeur Marie de la Trinité, 30 avril 1896",
+            "pt-BR": "LT 187. À irmã Maria da Trindade, 30 de abril de 1896"
           }
         },
         {
           "id": "lt-188",
           "title": {
-            "fr-FR": "LT 188. À soeur Marie de la Trinité, 7 mai 1896"
+            "fr-FR": "LT 188. À soeur Marie de la Trinité, 7 mai 1896",
+            "pt-BR": "LT 188. À irmã Maria da Trindade, 7 de maio de 1896"
           }
         },
         {
           "id": "lt-189",
           "title": {
-            "fr-FR": "LT 189. Au Père Adolphe Roulland, 23 juin 1896"
+            "fr-FR": "LT 189. Au Père Adolphe Roulland, 23 juin 1896",
+            "pt-BR": "LT 189. Ao Padre Adolfo Roulland, 23 de junho de 1896"
           }
         },
         {
           "id": "lt-190",
           "title": {
-            "fr-FR": "LT 190. À Mère Marie de Gonzague, 29 juin 1896"
+            "fr-FR": "LT 190. À Mère Marie de Gonzague, 29 juin 1896",
+            "pt-BR": "LT 190. A Madre Maria de Gonzaga, 29 de junho de 1896"
           }
         },
         {
           "id": "lt-191",
           "title": {
-            "fr-FR": "LT 191. À Léonie, 12 juillet 1896"
+            "fr-FR": "LT 191. À Léonie, 12 juillet 1896",
+            "pt-BR": "LT 191. A Leônia, 12 de julho de 1896"
           }
         },
         {
           "id": "lt-192",
           "title": {
-            "fr-FR": "LT 192. À Mme Guérin, 16 juillet 1896"
+            "fr-FR": "LT 192. À Mme Guérin, 16 juillet 1896",
+            "pt-BR": "LT 192. À Sra. Guérin, 16 de julho de 1896"
           }
         },
         {
           "id": "lt-193",
           "title": {
-            "fr-FR": "LT 193. Au P. Roulland, 30 juillet 1896"
+            "fr-FR": "LT 193. Au P. Roulland, 30 juillet 1896",
+            "pt-BR": "LT 193. Ao P. Roulland, 30 de julho de 1896"
           }
         },
         {
           "id": "lt-193bis",
           "title": {
-            "fr-FR": "LT 193 bis. image pour le P. Roulland, 20 août 1896"
+            "fr-FR": "LT 193 bis. image pour le P. Roulland, 20 août 1896",
+            "pt-BR": "LT 193 bis. estampa para o P. Roulland, 20 de agosto de 1896"
           }
         },
         {
           "id": "lt-194",
           "title": {
-            "fr-FR": "LT 194. À soeur Marie de Saint Joseph, 8-17 septembre 1896, (fragment)"
+            "fr-FR": "LT 194. À soeur Marie de Saint Joseph, 8-17 septembre 1896, (fragment)",
+            "pt-BR": "LT 194. À irmã Maria de São José, 8-17 de setembro de 1896, (fragmento)"
           }
         },
         {
           "id": "lt-195",
           "title": {
-            "fr-FR": "LT 195. À soeur Marie de Saint-Joseph, 8-17 septembre 1896 (fragments)"
+            "fr-FR": "LT 195. À soeur Marie de Saint-Joseph, 8-17 septembre 1896 (fragments)",
+            "pt-BR": "LT 195. À irmã Maria de São José, 8-17 de setembro de 1896 (fragmentos)"
           }
         },
         {
           "id": "lt-196",
           "title": {
-            "fr-FR": "LT 196. À soeur Marie du Sacré-Coeur, 13 (?) septembre 1896"
+            "fr-FR": "LT 196. À soeur Marie du Sacré-Coeur, 13 (?) septembre 1896",
+            "pt-BR": "LT 196. À irmã Maria do Sagrado Coração, 13 (?) de setembro de 1896"
           }
         },
         {
           "id": "lt-197",
           "title": {
-            "fr-FR": "LT 197. À soeur Marie du Sacré-Coeur, 17 septembre 1896"
+            "fr-FR": "LT 197. À soeur Marie du Sacré-Coeur, 17 septembre 1896",
+            "pt-BR": "LT 197. À irmã Maria do Sagrado Coração, 17 de setembro de 1896"
           }
         },
         {
           "id": "lt-198",
           "title": {
-            "fr-FR": "LT 198. À l’abbé Maurice Bellière, 21 octobre 1896"
+            "fr-FR": "LT 198. À l’abbé Maurice Bellière, 21 octobre 1896",
+            "pt-BR": "LT 198. Ao padre Maurício Bellière, 21 de outubro de 1896"
           }
         },
         {
           "id": "lt-199",
           "title": {
-            "fr-FR": "LT 199. À soeur Marie de Saint-Joseph, 20-30 octobre (?) 1896"
+            "fr-FR": "LT 199. À soeur Marie de Saint-Joseph, 20-30 octobre (?) 1896",
+            "pt-BR": "LT 199. À irmã Maria de São José, 20-30 de outubro (?) de 1896"
           }
         },
         {
           "id": "lt-200",
           "title": {
-            "fr-FR": "LT 200. À soeur Marie de Saint-Joseph, Fin octobre (?) 1896"
+            "fr-FR": "LT 200. À soeur Marie de Saint-Joseph, Fin octobre (?) 1896",
+            "pt-BR": "LT 200. À irmã Maria de São José, fim de outubro (?) de 1896"
           }
         },
         {
           "id": "lt-201",
           "title": {
-            "fr-FR": "LT 201. Au P. Roulland, 1 novembre 1896"
+            "fr-FR": "LT 201. Au P. Roulland, 1 novembre 1896",
+            "pt-BR": "LT 201. Ao P. Roulland, 1º de novembro de 1896"
           }
         },
         {
           "id": "lt-202",
           "title": {
-            "fr-FR": "LT 202. À Mme Guérin, 16 novembre 1896"
+            "fr-FR": "LT 202. À Mme Guérin, 16 novembre 1896",
+            "pt-BR": "LT 202. À Sra. Guérin, 16 de novembro de 1896"
           }
         },
         {
           "id": "lt-203",
           "title": {
-            "fr-FR": "LT 203. À Mère Agnès de Jésus, 4 décembre 1896"
+            "fr-FR": "LT 203. À Mère Agnès de Jésus, 4 décembre 1896",
+            "pt-BR": "LT 203. A Madre Inês de Jesus, 4 de dezembro de 1896"
           }
         },
         {
           "id": "lt-204",
           "title": {
-            "fr-FR": "LT 204. À Mère Agnès de Jésus, 18 décembre 1896"
+            "fr-FR": "LT 204. À Mère Agnès de Jésus, 18 décembre 1896",
+            "pt-BR": "LT 204. A Madre Inês de Jesus, 18 de dezembro de 1896"
           }
         },
         {
           "id": "lt-205",
           "title": {
-            "fr-FR": "LT 205. À soeur Marie de Saint-Joseph, décembre (?) 1896"
+            "fr-FR": "LT 205. À soeur Marie de Saint-Joseph, décembre (?) 1896",
+            "pt-BR": "LT 205. À irmã Maria de São José, dezembro (?) de 1896"
           }
         },
         {
           "id": "lt-206",
           "title": {
-            "fr-FR": "LT 206. À soeur Marie de Saint-Joseph, décembre (?) 1896"
+            "fr-FR": "LT 206. À soeur Marie de Saint-Joseph, décembre (?) 1896",
+            "pt-BR": "LT 206. À irmã Maria de São José, dezembro (?) de 1896"
           }
         },
         {
           "id": "lt-207",
           "title": {
-            "fr-FR": "LT 207. À soeur Geneviève, décembre (?) 1896"
+            "fr-FR": "LT 207. À soeur Geneviève, décembre (?) 1896",
+            "pt-BR": "LT 207. À irmã Genoveva, dezembro (?) de 1896"
           }
         },
         {
           "id": "lt-208",
           "title": {
-            "fr-FR": "LT 208. À soeur Geneviève, décembre 1896"
+            "fr-FR": "LT 208. À soeur Geneviève, décembre 1896",
+            "pt-BR": "LT 208. À irmã Genoveva, dezembro de 1896"
           }
         },
         {
           "id": "lt-209",
           "title": {
-            "fr-FR": "LT 209. À soeur Geneviève, décembre 1896"
+            "fr-FR": "LT 209. À soeur Geneviève, décembre 1896",
+            "pt-BR": "LT 209. À irmã Genoveva, dezembro de 1896"
           }
         },
         {
           "id": "lt-210",
           "title": {
-            "fr-FR": "LT 210. À soeur Geneviève, décembre 1896"
+            "fr-FR": "LT 210. À soeur Geneviève, décembre 1896",
+            "pt-BR": "LT 210. À irmã Genoveva, dezembro de 1896"
           }
         },
         {
           "id": "lt-211",
           "title": {
-            "fr-FR": "LT 211. À soeur Geneviève, 24 décembre 1896"
+            "fr-FR": "LT 211. À soeur Geneviève, décembre 1896",
+            "pt-BR": "LT 211. À irmã Genoveva, dezembro de 1896"
           }
         },
         {
           "id": "lt-212",
           "title": {
-            "fr-FR": "LT 212. À soeur Marie de la Trinité, 24 décembre 1896"
+            "fr-FR": "LT 212. À soeur Marie de la Trinité, 24 décembre 1896",
+            "pt-BR": "LT 212. À irmã Maria da Trindade, 24 de dezembro de 1896"
           }
         },
         {
           "id": "lt-213",
           "title": {
-            "fr-FR": "LT 213. À l’abbé Bellière, 26 décembre 1896"
+            "fr-FR": "LT 213. À l’abbé Bellière, 26 décembre 1896",
+            "pt-BR": "LT 213. Ao padre Bellière, 26 de dezembro de 1896"
           }
         }
       ]
@@ -1489,331 +1730,386 @@
     {
       "id": "lt-1897",
       "title": {
-        "fr-FR": "1897"
+        "fr-FR": "1897",
+        "pt-BR": "1897"
       },
       "children": [
         {
           "id": "lt-214",
           "title": {
-            "fr-FR": "LT 214. À soeur Geneviève, 3 janvier 1897"
+            "fr-FR": "LT 214. À soeur Geneviève, 3 janvier 1897",
+            "pt-BR": "LT 214. À irmã Genoveva, 3 de janeiro de 1897"
           }
         },
         {
           "id": "lt-215",
           "title": {
-            "fr-FR": "LT 215. À soeur Marie du Sacré-Coeur, Début 1897"
+            "fr-FR": "LT 215. À soeur Marie du Sacré-Coeur, Début 1897",
+            "pt-BR": "LT 215. À irmã Maria do Sagrado Coração, início de 1897"
           }
         },
         {
           "id": "lt-216",
           "title": {
-            "fr-FR": "LT 216. À Mère Agnès de Jésus, 9 janvier 1897"
+            "fr-FR": "LT 216. À Mère Agnès de Jésus, 9 janvier 1897",
+            "pt-BR": "LT 216. A Madre Inês de Jesus, 9 de janeiro de 1897"
           }
         },
         {
           "id": "lt-217",
           "title": {
-            "fr-FR": "LT 217. À soeur Marie de Saint-Joseph, janvier (?) 1897"
+            "fr-FR": "LT 217. À soeur Marie de Saint-Joseph, janvier (?) 1897",
+            "pt-BR": "LT 217. À irmã Maria de São José, janeiro (?) de 1897"
           }
         },
         {
           "id": "lt-218",
           "title": {
-            "fr-FR": "LT 218. Au frère Siméon, 27 janvier 1897"
+            "fr-FR": "LT 218. Au frère Siméon, 27 janvier 1897",
+            "pt-BR": "LT 218. Ao irmão Siméon, 27 de janeiro de 1897"
           }
         },
         {
           "id": "lt-219",
           "title": {
-            "fr-FR": "LT 219. À Mère Agnès de Jésus, 22 février 1897"
+            "fr-FR": "LT 219. À Mère Agnès de Jésus, 22 février 1897",
+            "pt-BR": "LT 219. A Madre Inês de Jesus, 22 de fevereiro de 1897"
           }
         },
         {
           "id": "lt-220",
           "title": {
-            "fr-FR": "LT 220. À l’abbé Bellière, 24 février 1897"
+            "fr-FR": "LT 220. À l’abbé Bellière, 24 février 1897",
+            "pt-BR": "LT 220. Ao padre Bellière, 24 de fevereiro de 1897"
           }
         },
         {
           "id": "lt-221",
           "title": {
-            "fr-FR": "LT 221. Au P. Roulland, 19 mars 1897"
+            "fr-FR": "LT 221. Au P. Roulland, 19 mars 1897",
+            "pt-BR": "LT 221. Ao P. Roulland, 19 de março de 1897"
           }
         },
         {
           "id": "lt-222",
           "title": {
-            "fr-FR": "LT 222. À Mère Agnès de Jésus, 19 mars 1897"
+            "fr-FR": "LT 222. À Mère Agnès de Jésus, 19 mars 1897",
+            "pt-BR": "LT 222. A Madre Inês de Jesus, 19 de março de 1897"
           }
         },
         {
           "id": "lt-222bis",
           "title": {
-            "fr-FR": "LT 222 bis. À M. Guérin, 3 avril 1897"
+            "fr-FR": "LT 222 bis. À M. Guérin, 3 avril 1897",
+            "pt-BR": "LT 222 bis. Ao Sr. Guérin, 3 de abril de 1897"
           }
         },
         {
           "id": "lt-223",
           "title": {
-            "fr-FR": "LT 223. À Mère Agnès de Jésus, 4 avril 1897"
+            "fr-FR": "LT 223. À Mère Agnès de Jésus, 4 avril 1897",
+            "pt-BR": "LT 223. A Madre Inês de Jesus, 4 de abril de 1897"
           }
         },
         {
           "id": "lt-224",
           "title": {
-            "fr-FR": "LT 224. À l’abbé Bellière, 25 avril 1897"
+            "fr-FR": "LT 224. À l’abbé Bellière, 25 avril 1897",
+            "pt-BR": "LT 224. Ao padre Bellière, 25 de abril de 1897"
           }
         },
         {
           "id": "lt-225",
           "title": {
-            "fr-FR": "LT 225. À soeur Anne du Sacré-Coeur, 2 mai 1897"
+            "fr-FR": "LT 225. À soeur Anne du Sacré-Coeur, 2 mai 1897",
+            "pt-BR": "LT 225. À irmã Ana do Sagrado Coração, 2 de maio de 1897"
           }
         },
         {
           "id": "lt-226",
           "title": {
-            "fr-FR": "LT 226. Au P. Roulland, 9 mai 1897"
+            "fr-FR": "LT 226. Au P. Roulland, 9 mai 1897",
+            "pt-BR": "LT 226. Ao P. Roulland, 9 de maio de 1897"
           }
         },
         {
           "id": "lt-227",
           "title": {
-            "fr-FR": "LT 227. À soeur Geneviève, 13 mai 1897"
+            "fr-FR": "LT 227. À soeur Geneviève, 13 mai 1897",
+            "pt-BR": "LT 227. À irmã Genoveva, 13 de maio de 1897"
           }
         },
         {
           "id": "lt-228",
           "title": {
-            "fr-FR": "LT 228. À soeur Geneviève, avril-mai 1897"
+            "fr-FR": "LT 228. À soeur Geneviève, avril-mai 1897",
+            "pt-BR": "LT 228. À irmã Genoveva, abril-maio de 1897"
           }
         },
         {
           "id": "lt-229",
           "title": {
-            "fr-FR": "LT 229. À Mère Agnès de Jésus, 23 mai 1897"
+            "fr-FR": "LT 229. À Mère Agnès de Jésus, 23 mai 1897",
+            "pt-BR": "LT 229. A Madre Inês de Jesus, 23 de maio de 1897"
           }
         },
         {
           "id": "lt-230",
           "title": {
-            "fr-FR": "LT 230. À Mère Agnès de Jésus, 28 mai 1897"
+            "fr-FR": "LT 230. À Mère Agnès de Jésus, 30 mai 1897",
+            "pt-BR": "LT 230. A Madre Inês de Jesus, 30 de maio de 1897"
           }
         },
         {
           "id": "lt-231",
           "title": {
-            "fr-FR": "LT 231. À Mère Agnès de Jésus, 30 mai 1897"
+            "fr-FR": "LT 231. À Mère Agnès de Jésus, 30 mai 1897",
+            "pt-BR": "LT 231. A Madre Inês de Jesus, 30 de maio de 1897"
           }
         },
         {
           "id": "lt-232",
           "title": {
-            "fr-FR": "LT 232. À Mère Agnès de Jésus, 30 mai 1897"
+            "fr-FR": "LT 232. À Mère Agnès de Jésus, 30 mai 1897",
+            "pt-BR": "LT 232. A Madre Inês de Jesus, 30 de maio de 1897"
           }
         },
         {
           "id": "lt-233",
           "title": {
-            "fr-FR": "LT 233. À Mère Agnès de Jésus, 1er juin 1897"
+            "fr-FR": "LT 233. À Mère Agnès de Jésus, 1er juin 1897",
+            "pt-BR": "LT 233. A Madre Inês de Jesus, 1º de junho de 1897"
           }
         },
         {
           "id": "lt-234",
           "title": {
-            "fr-FR": "LT 234. À soeur Marie de l’Eucharistie, 2 juin 1897"
+            "fr-FR": "LT 234. À soeur Marie de l’Eucharistie, 2 juin 1897",
+            "pt-BR": "LT 234. À irmã Maria da Eucaristia, 2 de junho de 1897"
           }
         },
         {
           "id": "lt-235",
           "title": {
-            "fr-FR": "LT 235. À soeur Marie de l’Eucharistie, 2 juin 1897"
+            "fr-FR": "LT 235. À soeur Marie de l’Eucharistie, 2 juin 1897",
+            "pt-BR": "LT 235. À irmã Maria da Eucaristia, 2 de junho de 1897"
           }
         },
         {
           "id": "lt-236",
           "title": {
-            "fr-FR": "LT 236. À soeur Marie de la Trinité, 2 juin 1897"
+            "fr-FR": "LT 236. À soeur Marie de la Trinité, 2 juin 1897",
+            "pt-BR": "LT 236. À irmã Maria da Trindade, 2 de junho de 1897"
           }
         },
         {
           "id": "lt-237",
           "title": {
-            "fr-FR": "LT 237. À Mère Agnès de Jésus, 2 juin 1897"
+            "fr-FR": "LT 237. À Mère Agnès de Jésus, 2 juin 1897",
+            "pt-BR": "LT 237. A Madre Inês de Jesus, 2 de junho de 1897"
           }
         },
         {
           "id": "lt-238",
           "title": {
-            "fr-FR": "LT 238. à Léonie, 3 juin 1897"
+            "fr-FR": "LT 238. À Léonie, 3 juin 1897",
+            "pt-BR": "LT 238. A Leônia, 3 de junho de 1897"
           }
         },
         {
           "id": "lt-239",
           "title": {
-            "fr-FR": "LT 239. À Mère Agnès de Jésus, 3 juin 1897"
+            "fr-FR": "LT 239. À Mère Agnès de Jésus, 3 juin 1897",
+            "pt-BR": "LT 239. A Madre Inês de Jesus, 3 de junho de 1897"
           }
         },
         {
           "id": "lt-240",
           "title": {
-            "fr-FR": "LT 240. À soeur Marie de la Trinité, 3 juin 1897"
+            "fr-FR": "LT 240. À soeur Marie de la Trinité, 3 juin 1897",
+            "pt-BR": "LT 240. À irmã Maria da Trindade, 3 de junho de 1897"
           }
         },
         {
           "id": "lt-241",
           "title": {
-            "fr-FR": "LT 241. À soeur Marthe de Jésus, juin 1897"
+            "fr-FR": "LT 241. À soeur Marthe de Jésus, juin 1897",
+            "pt-BR": "LT 241. À irmã Marta de Jesus, junho de 1897"
           }
         },
         {
           "id": "lt-242",
           "title": {
-            "fr-FR": "LT 242. À soeur Marie de la Trinité, 6 juin 1897"
+            "fr-FR": "LT 242. À soeur Marie de la Trinité, 6 juin 1897",
+            "pt-BR": "LT 242. À irmã Maria da Trindade, 6 de junho de 1897"
           }
         },
         {
           "id": "lt-243",
           "title": {
-            "fr-FR": "LT 243. À soeur Geneviève, 7 juin 1897"
+            "fr-FR": "LT 243. À soeur Geneviève, 7 juin 1897",
+            "pt-BR": "LT 243. À irmã Genoveva, 7 de junho de 1897"
           }
         },
         {
           "id": "lt-244",
           "title": {
-            "fr-FR": "LT 244. À l’abbé Bellière, 9 juin 1897"
+            "fr-FR": "LT 244. À l’abbé Bellière, 9 juin 1897",
+            "pt-BR": "LT 244. Ao padre Bellière, 9 de junho de 1897"
           }
         },
         {
           "id": "lt-245",
           "title": {
-            "fr-FR": "LT 245. À Agnès de Jésus, Marie du Sacré-Coeur  et Geneviève, juin (?) 1897"
+            "fr-FR": "LT 245. À Agnès de Jésus, Marie du Sacré-Coeur  et Geneviève, juin (?) 1897",
+            "pt-BR": "LT 245. A Inês de Jesus, Maria do Sagrado Coração e Genoveva, junho (?) de 1897"
           }
         },
         {
           "id": "lt-246",
           "title": {
-            "fr-FR": "LT 246. À soeur Marie de la Trinité, 13 juin 1897"
+            "fr-FR": "LT 246. À soeur Marie de la Trinité, 13 juin 1897",
+            "pt-BR": "LT 246. À irmã Maria da Trindade, 13 de junho de 1897"
           }
         },
         {
           "id": "lt-247",
           "title": {
-            "fr-FR": "LT 247. À l’abbé Bellière, 21 juin 1897"
+            "fr-FR": "LT 247. À l’abbé Bellière, 21 juin 1897",
+            "pt-BR": "LT 247. Ao padre Bellière, 21 de junho de 1897"
           }
         },
         {
           "id": "lt-248",
           "title": {
-            "fr-FR": "LT 248. À Léonie, Fin juin 1897"
+            "fr-FR": "LT 248. À Léonie, Fin juin 1897",
+            "pt-BR": "LT 248. A Leônia, fim de junho de 1897"
           }
         },
         {
           "id": "lt-249",
           "title": {
-            "fr-FR": "LT 249. À soeur Marie de la Trinité (Fragments), Mi-juillet 1897"
+            "fr-FR": "LT 249. À soeur Marie de la Trinité (Fragments), Mi-juillet 1897",
+            "pt-BR": "LT 249. À irmã Maria da Trindade (Fragmentos), meados de julho de 1897"
           }
         },
         {
           "id": "lt-250",
           "title": {
-            "fr-FR": "LT 250. À soeur Marie de Saint-Joseph, juillet 1897"
+            "fr-FR": "LT 250. À soeur Marie de Saint-Joseph, juillet 1897",
+            "pt-BR": "LT 250. À irmã Maria de São José, julho de 1897"
           }
         },
         {
           "id": "lt-251",
           "title": {
-            "fr-FR": "LT 251. À soeur Marthe de Jésus, juin-juillet (?) 1897"
+            "fr-FR": "LT 251. À soeur Marthe de Jésus, juin-juillet (?) 1897",
+            "pt-BR": "LT 251. À irmã Marta de Jesus, junho-julho (?) de 1897"
           }
         },
         {
           "id": "lt-252",
           "title": {
-            "fr-FR": "LT 252. À Mère Agnès de Jésus, 13 juillet 1897"
+            "fr-FR": "LT 252. À Mère Agnès de Jésus, 13 juillet 1897",
+            "pt-BR": "LT 252. A Madre Inês de Jesus, 13 de julho de 1897"
           }
         },
         {
           "id": "lt-253",
           "title": {
-            "fr-FR": "LT 253. À l’abbé Bellière, 13 juillet 1897"
+            "fr-FR": "LT 253. À l’abbé Bellière, 13 juillet 1897",
+            "pt-BR": "LT 253. Ao padre Bellière, 13 de julho de 1897"
           }
         },
         {
           "id": "lt-254",
           "title": {
-            "fr-FR": "LT 254. Au P. Roulland, 14 juillet 1897"
+            "fr-FR": "LT 254. Au P. Roulland, 14 juillet 1897",
+            "pt-BR": "LT 254. Ao P. Roulland, 14 de julho de 1897"
           }
         },
         {
           "id": "lt-255",
           "title": {
-            "fr-FR": "LT 255. À M. et Mme Guérin, 16 juillet 1897"
+            "fr-FR": "LT 255. À M. et Mme Guérin, 16 juillet 1897",
+            "pt-BR": "LT 255. Ao Sr. e à Sra. Guérin, 16 de julho de 1897"
           }
         },
         {
           "id": "lt-256",
           "title": {
-            "fr-FR": "LT 256. À soeur Marthe de Jésus, 16 juillet 1897"
+            "fr-FR": "LT 256. À soeur Marthe de Jésus, 16 juillet 1897",
+            "pt-BR": "LT 256. À irmã Marta de Jesus, 16 de julho de 1897"
           }
         },
         {
           "id": "lt-257",
           "title": {
-            "fr-FR": "LT 257. À Léonie, 17 juillet 1897"
+            "fr-FR": "LT 257. À Léonie, 17 juillet 1897",
+            "pt-BR": "LT 257. A Leônia, 17 de julho de 1897"
           }
         },
         {
           "id": "lt-258",
           "title": {
-            "fr-FR": "LT 258. À l’abbé Bellière, 18 juillet 1897"
+            "fr-FR": "LT 258. À l’abbé Bellière, 18 juillet 1897",
+            "pt-BR": "LT 258. Ao padre Bellière, 18 de julho de 1897"
           }
         },
         {
           "id": "lt-259",
           "title": {
-            "fr-FR": "LT 259. À soeur Geneviève, 22 juillet 1897"
+            "fr-FR": "LT 259. À soeur Geneviève, 21 juillet 1897",
+            "pt-BR": "LT 259. À irmã Genoveva, 21 de julho de 1897"
           }
         },
         {
           "id": "lt-260",
           "title": {
-            "fr-FR": "LT 260. À M. et Mme Guérin, 24-25 (?) juillet 1897"
+            "fr-FR": "LT 260. À M. et Mme Guérin, 24-25 (?) juillet 1897",
+            "pt-BR": "LT 260. Ao Sr. e à Sra. Guérin, 24-25 (?) de julho de 1897"
           }
         },
         {
           "id": "lt-261",
           "title": {
-            "fr-FR": "LT 261. À l’abbé Bellière, 26 juillet 1897"
+            "fr-FR": "LT 261. À l’abbé Bellière, 26 juillet 1897",
+            "pt-BR": "LT 261. Ao padre Bellière, 26 de julho de 1897"
           }
         },
         {
           "id": "lt-262",
           "title": {
-            "fr-FR": "LT 262. À soeur Geneviève, 3 août 1897"
+            "fr-FR": "LT 262. À soeur Geneviève, 3 août 1897",
+            "pt-BR": "LT 262. À irmã Genoveva, 3 de agosto de 1897"
           }
         },
         {
           "id": "lt-263",
           "title": {
-            "fr-FR": "LT 263. À l’abbé Bellière, 10 août 1897"
+            "fr-FR": "LT 263. À l’abbé Bellière, 10 août 1897",
+            "pt-BR": "LT 263. Ao padre Bellière, 10 de agosto de 1897"
           }
         },
         {
           "id": "lt-264",
           "title": {
-            "fr-FR": "LT 264. À soeur Marie de la Trinité, 12 août 1897"
+            "fr-FR": "LT 264. À soeur Marie de la Trinité, 12 août 1897",
+            "pt-BR": "LT 264. À irmã Maria da Trindade, 12 de agosto de 1897"
           }
         },
         {
           "id": "lt-265",
           "title": {
-            "fr-FR": "LT 265. À soeur Marie de l’Eucharistie, 22 août 1897"
+            "fr-FR": "LT 265. À soeur Marie de l’Eucharistie, 22 août 1897",
+            "pt-BR": "LT 265. À irmã Maria da Eucaristia, 22 de agosto de 1897"
           }
         },
         {
           "id": "lt-266",
           "title": {
-            "fr-FR": "LT 266. À l’abbé Bellière, 25 août 1897"
+            "fr-FR": "LT 266. À l’abbé Bellière, 25 août 1897",
+            "pt-BR": "LT 266. Ao padre Bellière, 25 de agosto de 1897"
           }
         }
       ]
