@@ -18,13 +18,19 @@
   },
   "composed": "c. 1128",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "bernard/de-gratia-et-libero-arbitrio",
   "editions": {
     "la": {
       "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182)",
       "year": 1854
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,97 +47,113 @@
     {
       "id": "admonitio",
       "title": {
-        "la": "Admonitio Mabillonii"
+        "la": "Admonitio Mabillonii",
+        "pt-BR": "Advertência de Mabillon"
       }
     },
     {
       "id": "praefatio",
       "title": {
-        "la": "Praefatio"
+        "la": "Praefatio",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "c01",
       "title": {
-        "la": "Caput I. Ad boni operis meritum, una cum gratia Dei, concurrere liberi arbitrii consensum"
+        "la": "Caput I. Ad boni operis meritum, una cum gratia Dei, concurrere liberi arbitrii consensum",
+        "pt-BR": "Capítulo I. Para o mérito da obra boa concorre, juntamente com a graça de Deus, o consentimento do livre-arbítrio"
       }
     },
     {
       "id": "c02",
       "title": {
-        "la": "Caput II. Quid liberum arbitrium, seu in quo consistat libertas"
+        "la": "Caput II. Quid liberum arbitrium, seu in quo consistat libertas",
+        "pt-BR": "Capítulo II. O que é o livre-arbítrio, ou em que consiste a liberdade"
       }
     },
     {
       "id": "c03",
       "title": {
-        "la": "Caput III. Triplicem esse libertatem, Naturae, Gratiae, Gloriae"
+        "la": "Caput III. Triplicem esse libertatem, Naturae, Gratiae, Gloriae",
+        "pt-BR": "Capítulo III. A liberdade é tríplice: de Natureza, de Graça, de Glória"
       }
     },
     {
       "id": "c04",
       "title": {
-        "la": "Caput IV. Qualis libertas competat animabus sanctis carne solutis: quaeve Deo, et omni creaturae rationali communis"
+        "la": "Caput IV. Qualis libertas competat animabus sanctis carne solutis: quaeve Deo, et omni creaturae rationali communis",
+        "pt-BR": "Capítulo IV. Que liberdade cabe às almas santas desligadas da carne, e qual é comum a Deus e a toda criatura racional"
       }
     },
     {
       "id": "c05",
       "title": {
-        "la": "Caput V. An libertas a miseria, seu complaciti, detur in hoc saeculo"
+        "la": "Caput V. An libertas a miseria, seu complaciti, detur in hoc saeculo",
+        "pt-BR": "Capítulo V. Se a liberdade da miséria, ou do comprazimento, é dada neste século"
       }
     },
     {
       "id": "c06",
       "title": {
-        "la": "Caput VI. Ad volendum bonum gratiam omnino esse necessariam"
+        "la": "Caput VI. Ad volendum bonum gratiam omnino esse necessariam",
+        "pt-BR": "Capítulo VI. Para querer o bem, a graça é de todo necessária"
       }
     },
     {
       "id": "c07",
       "title": {
-        "la": "Caput VII. Utrum primi homines in paradiso trina illa libertate praediti fuerint, et post peccatum"
+        "la": "Caput VII. Utrum primi homines in paradiso trina illa libertate praediti fuerint, et post peccatum",
+        "pt-BR": "Capítulo VII. Se os primeiros homens foram dotados no paraíso daquela tríplice liberdade, e depois do pecado"
       }
     },
     {
       "id": "c08",
       "title": {
-        "la": "Caput VIII. Libertatem arbitrii remanere post peccatum"
+        "la": "Caput VIII. Libertatem arbitrii remanere post peccatum",
+        "pt-BR": "Capítulo VIII. A liberdade do arbítrio permanece depois do pecado"
       }
     },
     {
       "id": "c09",
       "title": {
-        "la": "Caput IX. Imaginem et similitudinem Dei, ad quam conditi sumus, in triplici libertate consistere"
+        "la": "Caput IX. Imaginem et similitudinem Dei, ad quam conditi sumus, in triplici libertate consistere",
+        "pt-BR": "Capítulo IX. A imagem e a semelhança de Deus, à qual fomos criados, consistem na tríplice liberdade"
       }
     },
     {
       "id": "c10",
       "title": {
-        "la": "Caput X. Similitudinem divinae imaginis in nobis reformari per Christum"
+        "la": "Caput X. Similitudinem divinae imaginis in nobis reformari per Christum",
+        "pt-BR": "Capítulo X. A semelhança da imagem divina é reformada em nós por Cristo"
       }
     },
     {
       "id": "c11",
       "title": {
-        "la": "Caput XI. Libero arbitrio nihil derogari per gratiam, neque pertentationem"
+        "la": "Caput XI. Libero arbitrio nihil derogari per gratiam, neque pertentationem",
+        "pt-BR": "Capítulo XI. Nada se tira ao livre-arbítrio pela graça, nem pela tentação"
       }
     },
     {
       "id": "c12",
       "title": {
-        "la": "Caput XII. An negans fidem metu mortis ac poenarum, excusetur a culpa, vel destituatur libero arbitrio. Ubi negatio Petri discutitur"
+        "la": "Caput XII. An negans fidem metu mortis ac poenarum, excusetur a culpa, vel destituatur libero arbitrio. Ubi negatio Petri discutitur",
+        "pt-BR": "Capítulo XII. Se quem nega a fé por medo da morte e dos tormentos é escusado da culpa, ou privado do livre-arbítrio. Onde se discute a negação de Pedro"
       }
     },
     {
       "id": "c13",
       "title": {
-        "la": "Caput XIII. Merita hominis mera esse Dei munera"
+        "la": "Caput XIII. Merita hominis mera esse Dei munera",
+        "pt-BR": "Capítulo XIII. Os méritos do homem são puros dons de Deus"
       }
     },
     {
       "id": "c14",
       "title": {
-        "la": "Caput XIV. Quid gratiae, quid libero arbitrio id negotio salutis attribuendum"
+        "la": "Caput XIV. Quid gratiae, quid libero arbitrio id negotio salutis attribuendum",
+        "pt-BR": "Capítulo XIV. O que se deve atribuir à graça e o que ao livre-arbítrio na obra da salvação"
       }
     }
   ]
