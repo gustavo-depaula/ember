@@ -18,13 +18,19 @@
   },
   "composed": "1139-1140",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "bernard/in-psalmum-qui-habitat",
   "editions": {
     "la": {
       "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 183)",
       "year": 1854
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,109 +47,127 @@
     {
       "id": "praefatio",
       "title": {
-        "la": "Praefatio"
+        "la": "Praefatio",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "s001",
       "title": {
-        "la": "Sermo I. De versu primo, « Qui habitat in adjutorio Altissimi, in protectione Dei coeli commorabitur. »"
+        "la": "Sermo I. De versu primo, « Qui habitat in adjutorio Altissimi, in protectione Dei coeli commorabitur. »",
+        "pt-BR": "Sermão I. Sobre o primeiro versículo: “Aquele que habita no auxílio do Altíssimo morará sob a proteção do Deus do céu.”"
       }
     },
     {
       "id": "s002",
       "title": {
-        "la": "Sermo II. De versu secundo, « Dicet Domino: Susceptor meus es tu, » etc"
+        "la": "Sermo II. De versu secundo, « Dicet Domino: Susceptor meus es tu, » etc",
+        "pt-BR": "Sermão II. Sobre o segundo versículo: “Dirá ao Senhor: Vós sois o meu amparo”, etc."
       }
     },
     {
       "id": "s003",
       "title": {
-        "la": "Sermo III. De versu tertio, « Deus meus, sperabo in cum. Quoniam ipse liberavit me de laqueo venantium, et a verbo aspero. »"
+        "la": "Sermo III. De versu tertio, « Deus meus, sperabo in cum. Quoniam ipse liberavit me de laqueo venantium, et a verbo aspero. »",
+        "pt-BR": "Sermão III. Sobre o terceiro versículo: “Meu Deus, esperarei nele. Porque ele me livrou do laço dos caçadores e da palavra áspera.”"
       }
     },
     {
       "id": "s004",
       "title": {
-        "la": "Sermo IV. De versu quarto, « Scapulis suis obumbrabit tibi, » etc"
+        "la": "Sermo IV. De versu quarto, « Scapulis suis obumbrabit tibi, » etc",
+        "pt-BR": "Sermão IV. Sobre o quarto versículo: “Com os seus ombros te fará sombra”, etc."
       }
     },
     {
       "id": "s005",
       "title": {
-        "la": "Sermo V. De versu quinto, « Scuto circumdabit te veritas ejus. »"
+        "la": "Sermo V. De versu quinto, « Scuto circumdabit te veritas ejus. »",
+        "pt-BR": "Sermão V. Sobre o quinto versículo: “Com um escudo te cercará a sua verdade.”"
       }
     },
     {
       "id": "s006",
       "title": {
-        "la": "Sermo VI. De altera parte versus quinti, « Non timebis a timore nocturno: » et de versu sexto, « A sagitta volante in die, » etc"
+        "la": "Sermo VI. De altera parte versus quinti, « Non timebis a timore nocturno: » et de versu sexto, « A sagitta volante in die, » etc",
+        "pt-BR": "Sermão VI. Sobre a segunda parte do quinto versículo: “Não temerás o temor noturno”; e sobre o sexto versículo: “A seta que voa de dia”, etc."
       }
     },
     {
       "id": "s007",
       "title": {
-        "la": "Sermo VII. De versu septimo, « Cadent a latere tuo mille, et decem millia a dextris tuis, ad te autem non appropinquabit. »"
+        "la": "Sermo VII. De versu septimo, « Cadent a latere tuo mille, et decem millia a dextris tuis, ad te autem non appropinquabit. »",
+        "pt-BR": "Sermão VII. Sobre o sétimo versículo: “Cairão mil ao teu lado e dez mil à tua direita, mas de ti não se aproximará.”"
       }
     },
     {
       "id": "s008",
       "title": {
-        "la": "Sermo VIII. De versu octavo, « Verumtamen oculis tuis considerabis, et retributionem peccatorum videbis. »"
+        "la": "Sermo VIII. De versu octavo, « Verumtamen oculis tuis considerabis, et retributionem peccatorum videbis. »",
+        "pt-BR": "Sermão VIII. Sobre o oitavo versículo: “Contudo, com os teus olhos contemplarás e verás a retribuição dos pecadores.”"
       }
     },
     {
       "id": "s009",
       "title": {
-        "la": "Sermo IX. De versu nono, « Quoniam tu es, Domine, spes mea; altissimum posuisti refugium tuum. »"
+        "la": "Sermo IX. De versu nono, « Quoniam tu es, Domine, spes mea; altissimum posuisti refugium tuum. »",
+        "pt-BR": "Sermão IX. Sobre o nono versículo: “Porque vós, Senhor, sois a minha esperança; puseste o Altíssimo como teu refúgio.”"
       }
     },
     {
       "id": "s010",
       "title": {
-        "la": "Sermo X. De versu decimo, « Non accedet ad te malum, et flagellum non appropinquabit tabernaculo tuo. »"
+        "la": "Sermo X. De versu decimo, « Non accedet ad te malum, et flagellum non appropinquabit tabernaculo tuo. »",
+        "pt-BR": "Sermão X. Sobre o décimo versículo: “Não chegará a ti o mal, e o flagelo não se aproximará do teu tabernáculo.”"
       }
     },
     {
       "id": "s011",
       "title": {
-        "la": "Sermo XI. De versu undecimo, « Quoniam angelis suis mandavit de te ut custodiant te in omnibus viis tuis. »"
+        "la": "Sermo XI. De versu undecimo, « Quoniam angelis suis mandavit de te ut custodiant te in omnibus viis tuis. »",
+        "pt-BR": "Sermão XI. Sobre o décimo primeiro versículo: “Porque mandou aos seus anjos a teu respeito que te guardem em todos os teus caminhos.”"
       }
     },
     {
       "id": "s012",
       "title": {
-        "la": "Sermo XII. De versu undecimo. « Quoniam angelis suis mandavit de te, » etc., et de versu duodecimo, « In manibus portabunt te, » etc"
+        "la": "Sermo XII. De versu undecimo. « Quoniam angelis suis mandavit de te, » etc., et de versu duodecimo, « In manibus portabunt te, » etc",
+        "pt-BR": "Sermão XII. Sobre o décimo primeiro versículo: “Porque mandou aos seus anjos a teu respeito”, etc., e sobre o décimo segundo versículo: “Nas mãos te levarão”, etc."
       }
     },
     {
       "id": "s013",
       "title": {
-        "la": "Sermo XIII. De versu duodecimo, « In manibus portabunt te, » etc"
+        "la": "Sermo XIII. De versu duodecimo, « In manibus portabunt te, » etc",
+        "pt-BR": "Sermão XIII. Sobre o décimo segundo versículo: “Nas mãos te levarão”, etc."
       }
     },
     {
       "id": "s014",
       "title": {
-        "la": "Sermo XIV. De versu decimo tertio, « Super aspidem et basiliscum ambulabis, » etc"
+        "la": "Sermo XIV. De versu decimo tertio, « Super aspidem et basiliscum ambulabis, » etc",
+        "pt-BR": "Sermão XIV. Sobre o décimo terceiro versículo: “Sobre a áspide e o basilisco andarás”, etc."
       }
     },
     {
       "id": "s015",
       "title": {
-        "la": "Sermo XV. De versu decimo quarto, « Quoniam in me speravit, liberabo eum; protegam eum, quoniam cognovit nomen meum. »"
+        "la": "Sermo XV. De versu decimo quarto, « Quoniam in me speravit, liberabo eum; protegam eum, quoniam cognovit nomen meum. »",
+        "pt-BR": "Sermão XV. Sobre o décimo quarto versículo: “Porque esperou em mim, eu o livrarei; protegê-lo-ei, porque conheceu o meu nome.”"
       }
     },
     {
       "id": "s016",
       "title": {
-        "la": "Sermo XVI. De versu decimo sexto, « Clamavit ad me, et ego exaudiam eum, » etc"
+        "la": "Sermo XVI. De versu decimo sexto, « Clamavit ad me, et ego exaudiam eum, » etc",
+        "pt-BR": "Sermão XVI. Sobre o décimo sexto versículo: “Clamou a mim, e eu o ouvirei”, etc."
       }
     },
     {
       "id": "s017",
       "title": {
-        "la": "Sermo XVII. De versu decimo septimo, « Longitudine dierum replebo eum, » etc"
+        "la": "Sermo XVII. De versu decimo septimo, « Longitudine dierum replebo eum, » etc",
+        "pt-BR": "Sermão XVII. Sobre o décimo sétimo versículo: “Com longura de dias o encherei”, etc."
       }
     }
   ]
