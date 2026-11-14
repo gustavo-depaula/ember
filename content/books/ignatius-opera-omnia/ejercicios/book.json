@@ -19,7 +19,8 @@
   "composed": "1522–1548",
   "languages": [
     "es-ES",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "ignatius-of-loyola/ejercicios",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "Elder Mullan, S.J.",
       "year": 1914
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -55,63 +61,72 @@
       "id": "anotaciones",
       "title": {
         "es-ES": "Anotaciones",
-        "en-US": "Annotations"
+        "en-US": "Annotations",
+        "pt-BR": "Anotações"
       }
     },
     {
       "id": "primera-semana",
       "title": {
         "es-ES": "Primera semana",
-        "en-US": "The First Week"
+        "en-US": "The First Week",
+        "pt-BR": "Primeira semana"
       }
     },
     {
       "id": "segunda-semana",
       "title": {
         "es-ES": "Segunda semana",
-        "en-US": "The Second Week"
+        "en-US": "The Second Week",
+        "pt-BR": "Segunda semana"
       }
     },
     {
       "id": "tercera-semana",
       "title": {
         "es-ES": "Tercera semana",
-        "en-US": "The Third Week"
+        "en-US": "The Third Week",
+        "pt-BR": "Terceira semana"
       }
     },
     {
       "id": "cuarta-semana",
       "title": {
         "es-ES": "Cuarta semana y Contemplación para alcanzar amor",
-        "en-US": "The Fourth Week and the Contemplation to Gain Love"
+        "en-US": "The Fourth Week and the Contemplation to Gain Love",
+        "pt-BR": "Quarta semana e Contemplação para alcançar amor"
       }
     },
     {
       "id": "modos-de-orar",
       "title": {
         "es-ES": "Tres modos de orar",
-        "en-US": "Three Methods of Prayer"
+        "en-US": "Three Methods of Prayer",
+        "pt-BR": "Três modos de orar"
       }
     },
     {
       "id": "misterios",
       "title": {
         "es-ES": "Los misterios de la vida de Cristo nuestro Señor",
-        "en-US": "The Mysteries of the Life of Christ Our Lord"
+        "en-US": "The Mysteries of the Life of Christ Our Lord",
+        "pt-BR": "Os mistérios da vida de Cristo nosso Senhor"
       }
     },
     {
       "id": "reglas-discrecion",
       "title": {
         "es-ES": "Reglas para sentir y conocer las varias mociones del ánima",
-        "en-US": "Rules for the Discernment of Spirits"
+        "en-US": "Rules for the Discernment of Spirits",
+        "pt-BR": "Regras para sentir e conhecer as várias moções da alma"
       }
     },
     {
       "id": "reglas-limosnas-iglesia",
       "title": {
         "es-ES": "Reglas sobre limosnas, escrúpulos y el sentir con la Iglesia",
-        "en-US": "Rules on Alms, Scruples and Thinking with the Church"
+        "en-US": "Rules on Alms, Scruples and Thinking with the Church",
+        "pt-BR": "Regras sobre esmolas, escrúpulos e o sentir com a Igreja"
       }
     }
   ]
