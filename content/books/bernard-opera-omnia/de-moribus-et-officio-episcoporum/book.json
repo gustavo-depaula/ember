@@ -18,13 +18,19 @@
   },
   "composed": "1126-1128",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "bernard/de-moribus-et-officio-episcoporum",
   "editions": {
     "la": {
       "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182)",
       "year": 1854
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,67 +47,78 @@
     {
       "id": "admonitio",
       "title": {
-        "la": "Admonitio Mabillonii"
+        "la": "Admonitio Mabillonii",
+        "pt-BR": "Advertência de Mabillon"
       }
     },
     {
       "id": "prologus",
       "title": {
-        "la": "Prologus"
+        "la": "Prologus",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "c01",
       "title": {
-        "la": "Caput I. Arduum ac periculosum esse munus episcopi; ideoque ei bonis consiliariis opus"
+        "la": "Caput I. Arduum ac periculosum esse munus episcopi; ideoque ei bonis consiliariis opus",
+        "pt-BR": "Capítulo I. O encargo do bispo é árduo e perigoso; por isso necessita de bons conselheiros"
       }
     },
     {
       "id": "c02",
       "title": {
-        "la": "Caput II. Honorem et decus dignitatis ecclesiasticae non consistere in externo splendore, sed in morum et virtutum decore"
+        "la": "Caput II. Honorem et decus dignitatis ecclesiasticae non consistere in externo splendore, sed in morum et virtutum decore",
+        "pt-BR": "Capítulo II. A honra e o decoro da dignidade eclesiástica não consistem no esplendor exterior, mas no decoro dos costumes e das virtudes"
       }
     },
     {
       "id": "c03",
       "title": {
-        "la": "Caput III. Praesulum potissima et dignissima ornamenta, castitas, charitas, humilitas"
+        "la": "Caput III. Praesulum potissima et dignissima ornamenta, castitas, charitas, humilitas",
+        "pt-BR": "Capítulo III. Os ornamentos mais excelentes e dignos dos prelados: a castidade, a caridade, a humildade"
       }
     },
     {
       "id": "c04",
       "title": {
-        "la": "Caput IV. Cura sincerae fidei, et charitatis non fictae, praesuli maxime necessaria"
+        "la": "Caput IV. Cura sincerae fidei, et charitatis non fictae, praesuli maxime necessaria",
+        "pt-BR": "Capítulo IV. O cuidado da fé sincera e da caridade não fingida, sumamente necessário ao prelado"
       }
     },
     {
       "id": "c05",
       "title": {
-        "la": "Caput V. De virtute humilitatis omnibus quidem, sed praelatis in primis necessaria"
+        "la": "Caput V. De virtute humilitatis omnibus quidem, sed praelatis in primis necessaria",
+        "pt-BR": "Capítulo V. A virtude da humildade, necessária a todos, mas sobretudo aos prelados"
       }
     },
     {
       "id": "c06",
       "title": {
-        "la": "Caput VI. Laus et vera gloria in conscientia cujusque reponenda; attamen non sine formidine, quia Deus est scrutator et judex cordium"
+        "la": "Caput VI. Laus et vera gloria in conscientia cujusque reponenda; attamen non sine formidine, quia Deus est scrutator et judex cordium",
+        "pt-BR": "Capítulo VI. O louvor e a verdadeira glória devem depositar-se na consciência de cada um; mas não sem temor, porque Deus é perscrutador e juiz dos corações"
       }
     },
     {
       "id": "c07",
       "title": {
-        "la": "Caput VII. Ambitionem ecclesiasticorum, promotionem juniorum, et pluralitatem beneficiorum perstringit"
+        "la": "Caput VII. Ambitionem ecclesiasticorum, promotionem juniorum, et pluralitatem beneficiorum perstringit",
+        "pt-BR": "Capítulo VII. Censura a ambição dos eclesiásticos, a promoção dos jovens e a pluralidade de benefícios"
       }
     },
     {
       "id": "c08",
       "title": {
-        "la": "Caput VIII. Humilitatem et modestiam episcopo commendat"
+        "la": "Caput VIII. Humilitatem et modestiam episcopo commendat",
+        "pt-BR": "Capítulo VIII. Recomenda ao bispo a humildade e a modéstia"
       }
     },
     {
       "id": "c09",
       "title": {
-        "la": "Caput IX. Abbates exemptionibus praepostere studentes arguuntur"
+        "la": "Caput IX. Abbates exemptionibus praepostere studentes arguuntur",
+        "pt-BR": "Capítulo IX. São repreendidos os abades que buscam desordenadamente as isenções"
       }
     }
   ]
