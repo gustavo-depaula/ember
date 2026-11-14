@@ -18,13 +18,19 @@
   },
   "composed": "1544–1556",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "ignatius-of-loyola/constituciones",
   "editions": {
     "es-ES": {
       "editor": "Texto español de las Constituciones, via Documenta Catholica Omnia",
       "year": 1556
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,73 +47,85 @@
     {
       "id": "examen",
       "title": {
-        "es-ES": "Examen general"
+        "es-ES": "Examen general",
+        "pt-BR": "Exame geral"
       }
     },
     {
       "id": "proemio",
       "title": {
-        "es-ES": "Proemio de las Constituciones"
+        "es-ES": "Proemio de las Constituciones",
+        "pt-BR": "Proêmio das Constituições"
       }
     },
     {
       "id": "parte-1",
       "title": {
-        "es-ES": "Primera Parte. Del admittir a probación"
+        "es-ES": "Primera Parte. Del admittir a probación",
+        "pt-BR": "Primeira Parte. Da admissão à provação"
       }
     },
     {
       "id": "parte-2",
       "title": {
-        "es-ES": "Parte Segunda. Del despedir los que no approbasen bien de los admittidos"
+        "es-ES": "Parte Segunda. Del despedir los que no approbasen bien de los admittidos",
+        "pt-BR": "Parte Segunda. Da demissão dos admitidos que não derem boa prova"
       }
     },
     {
       "id": "parte-3",
       "title": {
-        "es-ES": "Parte Tercera. Del conservar y aprovechar los que quedan en probación"
+        "es-ES": "Parte Tercera. Del conservar y aprovechar los que quedan en probación",
+        "pt-BR": "Parte Terceira. Da conservação e do progresso dos que permanecem em provação"
       }
     },
     {
       "id": "parte-4",
       "title": {
-        "es-ES": "Parte Cuarta. Del instruir en letras y en otros medios de ayudar a los próximos los que se retienen en la Compañía"
+        "es-ES": "Parte Cuarta. Del instruir en letras y en otros medios de ayudar a los próximos los que se retienen en la Compañía",
+        "pt-BR": "Parte Quarta. Da instrução, nas letras e em outros meios de ajudar o próximo, dos que se retêm na Companhia"
       }
     },
     {
       "id": "parte-5",
       "title": {
-        "es-ES": "Parte Quinta. De lo que toca al admittir o incorporar en la compañía"
+        "es-ES": "Parte Quinta. De lo que toca al admittir o incorporar en la compañía",
+        "pt-BR": "Parte Quinta. Do que diz respeito à admissão ou incorporação na Companhia"
       }
     },
     {
       "id": "parte-6",
       "title": {
-        "es-ES": "Parte Sexta. De lo que toca a los ya admittidos o encorporados en la Compañía quanto a sí mesmos"
+        "es-ES": "Parte Sexta. De lo que toca a los ya admittidos o encorporados en la Compañía quanto a sí mesmos",
+        "pt-BR": "Parte Sexta. Do que diz respeito aos já admitidos ou incorporados na Companhia quanto a si mesmos"
       }
     },
     {
       "id": "parte-7",
       "title": {
-        "es-ES": "Parte Septima. De lo que toca a los ya admittidos en el cuerpo de la Compañía para con los próximos, repartiéndose en la viña de Cristo nuestro Señor"
+        "es-ES": "Parte Septima. De lo que toca a los ya admittidos en el cuerpo de la Compañía para con los próximos, repartiéndose en la viña de Cristo nuestro Señor",
+        "pt-BR": "Parte Sétima. Do que diz respeito aos já admitidos no corpo da Companhia em relação ao próximo, repartindo-se pela vinha de Cristo nosso Senhor"
       }
     },
     {
       "id": "parte-8",
       "title": {
-        "es-ES": "Parte Octava. De lo que ayuda para unir los repartidos con su cabeza y entre sí"
+        "es-ES": "Parte Octava. De lo que ayuda para unir los repartidos con su cabeza y entre sí",
+        "pt-BR": "Parte Oitava. Do que ajuda a unir os dispersos com a sua cabeça e entre si"
       }
     },
     {
       "id": "parte-9",
       "title": {
-        "es-ES": "Parte Novena. De lo que toca a la cabeza y gobierno que della desciende"
+        "es-ES": "Parte Novena. De lo que toca a la cabeza y gobierno que della desciende",
+        "pt-BR": "Parte Nona. Do que diz respeito à cabeça e ao governo que dela desce"
       }
     },
     {
       "id": "parte-10",
       "title": {
-        "es-ES": "Parte Decima. De cómo se conservará y augmentará todo este cuerpo en su buen ser"
+        "es-ES": "Parte Decima. De cómo se conservará y augmentará todo este cuerpo en su buen ser",
+        "pt-BR": "Parte Décima. De como se conservará e aumentará todo este corpo em seu bom ser"
       }
     }
   ]
