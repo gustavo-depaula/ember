@@ -14,17 +14,23 @@
   "description": {
     "fr-FR": "Les trois cahiers de Thérèse tels qu’elle les a écrits, sans les retouches de 1898 : le manuscrit A, « histoire printanière d’une petite fleur blanche » dédiée à Mère Agnès de Jésus (1895), le manuscrit B, écrit pendant sa retraite de septembre 1896 pour sa sœur Marie du Sacré-Cœur, où elle trouve sa vocation dans l’Amour, et le manuscrit C, adressé à Mère Marie de Gonzague en juin 1897, sur la petite voie et la charité fraternelle. Texte authentique de l’édition du Centenaire, d’après les archives du Carmel de Lisieux.",
     "en-US": "Thérèse's three notebooks as she wrote them, without the 1898 revisions: Manuscript A, the 'springtime story of a little white flower' dedicated to Mother Agnes of Jesus (1895); Manuscript B, written during her retreat of September 1896 for her sister Marie of the Sacred Heart, in which she finds her vocation in Love; and Manuscript C, addressed to Mother Marie de Gonzague in June 1897, on the little way and fraternal charity. The authentic text of the Centenary edition, from the archives of the Carmel of Lisieux.",
-    "pt-BR": "Os três cadernos de Teresinha tal como ela os escreveu, sem os retoques de 1898: o manuscrito A, dedicado à Madre Inês de Jesus (1895), o manuscrito B, escrito para a irmã Maria do Sagrado Coração no retiro de setembro de 1896, e o manuscrito C, dirigido à Madre Maria de Gonzaga em junho de 1897."
+    "pt-BR": "Os três cadernos de Teresinha tal como ela os escreveu, sem os retoques de 1898: o manuscrito A, “história primaveril de uma florzinha branca” dedicada à Madre Inês de Jesus (1895); o manuscrito B, escrito durante o retiro de setembro de 1896 para a irmã Maria do Sagrado Coração, no qual ela encontra a sua vocação no Amor; e o manuscrito C, dirigido à Madre Maria de Gonzaga em junho de 1897, sobre o pequeno caminho e a caridade fraterna. Texto autêntico da edição do Centenário, segundo os arquivos do Carmelo de Lisieux."
   },
   "composed": "1895–1897",
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "therese-of-lisieux/manuscrits-autobiographiques",
   "editions": {
     "fr-FR": {
       "editor": "Carmel de Lisieux (Nouvelle Édition du Centenaire)",
       "year": 1992
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -48,31 +54,36 @@
     {
       "id": "ms-a",
       "title": {
-        "fr-FR": "Manuscrit A"
+        "fr-FR": "Manuscrit A",
+        "pt-BR": "Manuscrito A"
       },
       "children": [
         {
           "id": "ms-a-1",
           "title": {
-            "fr-FR": "La première période"
+            "fr-FR": "La première période",
+            "pt-BR": "O primeiro período"
           }
         },
         {
           "id": "ms-a-2",
           "title": {
-            "fr-FR": "La deuxième période"
+            "fr-FR": "La deuxième période",
+            "pt-BR": "O segundo período"
           }
         },
         {
           "id": "ms-a-3",
           "title": {
-            "fr-FR": "La troisième période"
+            "fr-FR": "La troisième période",
+            "pt-BR": "O terceiro período"
           }
         },
         {
           "id": "ms-a-4",
           "title": {
-            "fr-FR": "Au Carmel"
+            "fr-FR": "Au Carmel",
+            "pt-BR": "No Carmelo"
           }
         }
       ]
@@ -80,13 +91,15 @@
     {
       "id": "ms-b",
       "title": {
-        "fr-FR": "Manuscrit B"
+        "fr-FR": "Manuscrit B",
+        "pt-BR": "Manuscrito B"
       }
     },
     {
       "id": "ms-c",
       "title": {
-        "fr-FR": "Manuscrit C"
+        "fr-FR": "Manuscrit C",
+        "pt-BR": "Manuscrito C"
       }
     }
   ]
