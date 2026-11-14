@@ -18,13 +18,19 @@
   },
   "composed": "c. 1130-1136",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "bernard/de-laude-novae-militiae",
   "editions": {
     "la": {
       "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182)",
       "year": 1854
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,91 +47,106 @@
     {
       "id": "admonitio",
       "title": {
-        "la": "Admonitio Mabillonii"
+        "la": "Admonitio Mabillonii",
+        "pt-BR": "Advertência de Mabillon"
       }
     },
     {
       "id": "prologus",
       "title": {
-        "la": "Prologus"
+        "la": "Prologus",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "c01",
       "title": {
-        "la": "Caput I. De laude novae militiae"
+        "la": "Caput I. De laude novae militiae",
+        "pt-BR": "Capítulo I. Do louvor da nova milícia"
       }
     },
     {
       "id": "c02",
       "title": {
-        "la": "Caput II. De militia saeculari"
+        "la": "Caput II. De militia saeculari",
+        "pt-BR": "Capítulo II. Da milícia secular"
       }
     },
     {
       "id": "c03",
       "title": {
-        "la": "Caput III. De Militibus Christi"
+        "la": "Caput III. De Militibus Christi",
+        "pt-BR": "Capítulo III. Dos cavaleiros de Cristo"
       }
     },
     {
       "id": "c04",
       "title": {
-        "la": "Caput IV. De conversatione Militum Christi"
+        "la": "Caput IV. De conversatione Militum Christi",
+        "pt-BR": "Capítulo IV. Do modo de vida dos cavaleiros de Cristo"
       }
     },
     {
       "id": "c05",
       "title": {
-        "la": "Caput V. De Templo"
+        "la": "Caput V. De Templo",
+        "pt-BR": "Capítulo V. Do Templo"
       }
     },
     {
       "id": "c06",
       "title": {
-        "la": "Caput VI. De Bethlehem"
+        "la": "Caput VI. De Bethlehem",
+        "pt-BR": "Capítulo VI. De Belém"
       }
     },
     {
       "id": "c07",
       "title": {
-        "la": "Caput VII. De Nazareth"
+        "la": "Caput VII. De Nazareth",
+        "pt-BR": "Capítulo VII. De Nazaré"
       }
     },
     {
       "id": "c08",
       "title": {
-        "la": "Caput VIII. De monte Oliveti et valle Josaphat"
+        "la": "Caput VIII. De monte Oliveti et valle Josaphat",
+        "pt-BR": "Capítulo VIII. Do monte das Oliveiras e do vale de Josafá"
       }
     },
     {
       "id": "c09",
       "title": {
-        "la": "Caput IX. De Jordane"
+        "la": "Caput IX. De Jordane",
+        "pt-BR": "Capítulo IX. Do Jordão"
       }
     },
     {
       "id": "c10",
       "title": {
-        "la": "Caput X. De loco Calvariae"
+        "la": "Caput X. De loco Calvariae",
+        "pt-BR": "Capítulo X. Do lugar do Calvário"
       }
     },
     {
       "id": "c11",
       "title": {
-        "la": "Caput XI. De Sepulcro"
+        "la": "Caput XI. De Sepulcro",
+        "pt-BR": "Capítulo XI. Do Sepulcro"
       }
     },
     {
       "id": "c12",
       "title": {
-        "la": "Caput XII. De Bethphage"
+        "la": "Caput XII. De Bethphage",
+        "pt-BR": "Capítulo XII. De Betfagé"
       }
     },
     {
       "id": "c13",
       "title": {
-        "la": "Caput XIII. De Bethania"
+        "la": "Caput XIII. De Bethania",
+        "pt-BR": "Capítulo XIII. De Betânia"
       }
     }
   ]

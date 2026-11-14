@@ -1,0 +1,5 @@
+# Prólogo
+
+A HUGO, cavaleiro de Cristo e mestre da milícia de Cristo, BERNARDO, abade de Claraval só no nome: combater o bom combate.
+
+Uma, duas e três vezes, se não me engano, me pediste, Hugo caríssimo, que escrevesse para ti e para os teus companheiros de armas um sermão de exortação, e que, já que não me era permitido brandir a lança, brandisse a pena contra a tirania inimiga, afirmando que não vos seria pequena ajuda se eu animasse com as letras aqueles a quem não posso animar com as armas. Adiei-o, na verdade, por algum tempo: não porque o pedido me parecesse desprezível, mas para não ser censurado de assentimento leviano e precipitado, se eu, inexperiente, presumisse fazer o que um melhor faria melhor, e uma coisa tão necessária se tornasse, por mim, talvez menos proveitosa. Mas, vendo-me frustrado por uma espera assaz longa deste gênero, para não parecer que eu antes não queria do que não podia, fiz enfim o que pude: o leitor julgue se satisfiz. Contudo, ainda que a alguém talvez não agrade ou não baste, não me importa, a mim que, segundo o meu saber, não faltei à tua vontade.
