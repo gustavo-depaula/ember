@@ -18,12 +18,18 @@
   },
   "composed": "1246",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "three-companions/legenda-trium-sociorum",
   "editions": {
     "la": {
       "editor": "transcription of the critical text of Fontes Franciscani (1995) by M. Mastrorilli, Politecnico di Bari; edition not stated"
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -40,115 +46,134 @@
     {
       "id": "cap-001",
       "title": {
-        "la": "[Epistola]"
+        "la": "[Epistola]",
+        "pt-BR": "[Carta]"
       }
     },
     {
       "id": "cap-002",
       "title": {
-        "la": "Caput I - De nativitate eius et de vanitate et curiositate et prodigalitate ipsius et qualiter ex his pervenit ad largitatem et caritatem circa pauperes."
+        "la": "Caput I - De nativitate eius et de vanitate et curiositate et prodigalitate ipsius et qualiter ex his pervenit ad largitatem et caritatem circa pauperes.",
+        "pt-BR": "Capítulo I - De seu nascimento, de sua vaidade, de seu gosto pela ostentação e de sua prodigalidade, e de como, a partir dessas coisas, chegou à generosidade e à caridade para com os pobres."
       }
     },
     {
       "id": "cap-003",
       "title": {
-        "la": "Caput II - Qualiter captivatus fuit Perusii, et de duabus visionibus quas habuit volens fieri miles."
+        "la": "Caput II - Qualiter captivatus fuit Perusii, et de duabus visionibus quas habuit volens fieri miles.",
+        "pt-BR": "Capítulo II - De como foi feito prisioneiro em Perúgia e das duas visões que teve quando desejava tornar-se cavaleiro."
       }
     },
     {
       "id": "cap-004",
       "title": {
-        "la": "Caput III - Qualiter Dominus primo visitavit cor eius mirabili dulcedine, virtute cuius coepit proficere per contemptum sui et omnium vanitatum atque per orationem et eleemosynas et amorem paupertatis."
+        "la": "Caput III - Qualiter Dominus primo visitavit cor eius mirabili dulcedine, virtute cuius coepit proficere per contemptum sui et omnium vanitatum atque per orationem et eleemosynas et amorem paupertatis.",
+        "pt-BR": "Capítulo III - De como o Senhor visitou pela primeira vez seu coração com admirável doçura, por cuja força começou a progredir pelo desprezo de si mesmo e de todas as vaidades, pela oração, pelas esmolas e pelo amor à pobreza."
       }
     },
     {
       "id": "cap-005",
       "title": {
-        "la": "Caput IV - Qualiter a leprosis coepit vincere seipsum et sentire dulcedinem in his quae prius erant sibi amara."
+        "la": "Caput IV - Qualiter a leprosis coepit vincere seipsum et sentire dulcedinem in his quae prius erant sibi amara.",
+        "pt-BR": "Capítulo IV - De como, a partir dos leprosos, começou a vencer a si mesmo e a sentir doçura naquilo que antes lhe era amargo."
       }
     },
     {
       "id": "cap-006",
       "title": {
-        "la": "Caput V - De prima allocutione Crucifixi ad ipsum et qualiter ex tunc portavit in corde passionem Christi usque ad mortem."
+        "la": "Caput V - De prima allocutione Crucifixi ad ipsum et qualiter ex tunc portavit in corde passionem Christi usque ad mortem.",
+        "pt-BR": "Capítulo V - Da primeira vez em que o Crucificado lhe falou e de como, desde então, levou no coração a paixão de Cristo até a morte."
       }
     },
     {
       "id": "cap-007",
       "title": {
-        "la": "Caput VI - Qualiter primo fugit persecutiones patris et propinquorum, stando cum sacerdote Sancti Damiani in cuius fenestra proiecerat pecuniam."
+        "la": "Caput VI - Qualiter primo fugit persecutiones patris et propinquorum, stando cum sacerdote Sancti Damiani in cuius fenestra proiecerat pecuniam.",
+        "pt-BR": "Capítulo VI - De como, a princípio, fugiu das perseguições do pai e dos parentes, permanecendo com o sacerdote de São Damião, em cuja janela lançara o dinheiro."
       }
     },
     {
       "id": "cap-008",
       "title": {
-        "la": "Caput VII - De maximo labore et afflictione ipsius pro reparatione ecclesiae Sancti Damiani et qualiter coepit vincere seipsum eundo pro eleemosyna."
+        "la": "Caput VII - De maximo labore et afflictione ipsius pro reparatione ecclesiae Sancti Damiani et qualiter coepit vincere seipsum eundo pro eleemosyna.",
+        "pt-BR": "Capítulo VII - De seu enorme trabalho e aflição na reparação da igreja de São Damião e de como começou a vencer a si mesmo, indo pedir esmola."
       }
     },
     {
       "id": "cap-009",
       "title": {
-        "la": "Caput VIII - Qualiter auditis et intellectis consiliis Christi in Evangelio, statim mutavit habitum exteriorem et induit novum habitum perfectionis interius et exterius."
+        "la": "Caput VIII - Qualiter auditis et intellectis consiliis Christi in Evangelio, statim mutavit habitum exteriorem et induit novum habitum perfectionis interius et exterius.",
+        "pt-BR": "Capítulo VIII - De como, tendo ouvido e compreendido os conselhos de Cristo no Evangelho, mudou imediatamente o hábito exterior e se revestiu de um novo hábito de perfeição, interior e exteriormente."
       }
     },
     {
       "id": "cap-010",
       "title": {
-        "la": "Caput IX - De modo vocationis fratris Sylvestri et de visione quam habuit ante ingressum ordinis."
+        "la": "Caput IX - De modo vocationis fratris Sylvestri et de visione quam habuit ante ingressum ordinis.",
+        "pt-BR": "Capítulo IX - Do modo como frei Silvestre foi chamado e da visão que teve antes de entrar na Ordem."
       }
     },
     {
       "id": "cap-011",
       "title": {
-        "la": "Caput X - Qualiter praedixit sex sociis suis omnia quae ventura erant illis euntibus per mundum, exhortans eos ad patientiam."
+        "la": "Caput X - Qualiter praedixit sex sociis suis omnia quae ventura erant illis euntibus per mundum, exhortans eos ad patientiam.",
+        "pt-BR": "Capítulo X - De como predisse a seus seis companheiros tudo o que lhes aconteceria ao irem pelo mundo, exortando-os à paciência."
       }
     },
     {
       "id": "cap-012",
       "title": {
-        "la": "Caput XI - De receptione aliorum quatuor fratrum et de ardentissima caritate: quam habebant ad invicem primi fratres, et de sollicitudine laborandi et orandi, et de perfecta oboedientia ipsorum."
+        "la": "Caput XI - De receptione aliorum quatuor fratrum et de ardentissima caritate: quam habebant ad invicem primi fratres, et de sollicitudine laborandi et orandi, et de perfecta oboedientia ipsorum.",
+        "pt-BR": "Capítulo XI - Da recepção de outros quatro irmãos, da ardentíssima caridade que os primeiros irmãos tinham uns pelos outros, de sua solicitude em trabalhar e orar e de sua perfeita obediência."
       }
     },
     {
       "id": "cap-013",
       "title": {
-        "la": "Caput XII - Qualiter beatus Franciscus cum undecim sociis ivit ad curiam papae ut notificaret ei suum propositum et faceret confirmari regulam quam scripserat."
+        "la": "Caput XII - Qualiter beatus Franciscus cum undecim sociis ivit ad curiam papae ut notificaret ei suum propositum et faceret confirmari regulam quam scripserat.",
+        "pt-BR": "Capítulo XII - De como o bem-aventurado Francisco foi à cúria do papa com onze companheiros para lhe dar a conhecer seu propósito e obter a confirmação da Regra que escrevera."
       }
     },
     {
       "id": "cap-014",
       "title": {
-        "la": "Caput XIII - De efficacia praedicationis ipsius et de primo loco quem habuit et qualiter fratres stabant ibi et quomodo inde recesserunt."
+        "la": "Caput XIII - De efficacia praedicationis ipsius et de primo loco quem habuit et qualiter fratres stabant ibi et quomodo inde recesserunt.",
+        "pt-BR": "Capítulo XIII - Da eficácia de sua pregação, do primeiro lugar que teve, de como os irmãos viviam ali e de como partiram de lá."
       }
     },
     {
       "id": "cap-015",
       "title": {
-        "la": "Caput XIV - De capitulo quod fiebat bis in anno in loco Sanctae Mariae de Portiuncula."
+        "la": "Caput XIV - De capitulo quod fiebat bis in anno in loco Sanctae Mariae de Portiuncula.",
+        "pt-BR": "Capítulo XIV - Do capítulo que se realizava duas vezes por ano no lugar de Santa Maria da Porciúncula."
       }
     },
     {
       "id": "cap-016",
       "title": {
-        "la": "Caput XV - De morte domini Iohannis primi protectoris et de assumptione domini Hugolini Ostiensis in patrem et protectorem Ordinis."
+        "la": "Caput XV - De morte domini Iohannis primi protectoris et de assumptione domini Hugolini Ostiensis in patrem et protectorem Ordinis.",
+        "pt-BR": "Capítulo XV - Da morte do senhor João, primeiro protetor, e da escolha do senhor Hugolino de Óstia como pai e protetor da Ordem."
       }
     },
     {
       "id": "cap-017",
       "title": {
-        "la": "Caput XVI - De electione primorum ministrorum et qualiter fuerunt missi per mundum."
+        "la": "Caput XVI - De electione primorum ministrorum et qualiter fuerunt missi per mundum.",
+        "pt-BR": "Capítulo XVI - Da eleição dos primeiros ministros e de como foram enviados pelo mundo."
       }
     },
     {
       "id": "cap-018",
       "title": {
-        "la": "Caput XVII - De sacratissima morte beati Francisci et qualiter per biennium ante receperat stigmata Domini nostri Iesu Christi."
+        "la": "Caput XVII - De sacratissima morte beati Francisci et qualiter per biennium ante receperat stigmata Domini nostri Iesu Christi.",
+        "pt-BR": "Capítulo XVII - Da sacratíssima morte do bem-aventurado Francisco e de como, dois anos antes, recebera os estigmas de nosso Senhor Jesus Cristo."
       }
     },
     {
       "id": "cap-019",
       "title": {
-        "la": "Caput XVIII - De canonizatione ipsius."
+        "la": "Caput XVIII - De canonizatione ipsius.",
+        "pt-BR": "Capítulo XVIII - De sua canonização."
       }
     }
   ]
