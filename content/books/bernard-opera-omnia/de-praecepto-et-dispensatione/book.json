@@ -18,13 +18,19 @@
   },
   "composed": "c. 1143-1144",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "bernard/de-praecepto-et-dispensatione",
   "editions": {
     "la": {
       "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182)",
       "year": 1854
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,139 +47,162 @@
     {
       "id": "admonitio",
       "title": {
-        "la": "Admonitio Mabillonii"
+        "la": "Admonitio Mabillonii",
+        "pt-BR": "Advertência de Mabillon"
       }
     },
     {
       "id": "epistola",
       "title": {
-        "la": "Epistola ad abbatem columbensem. de opere sequenti"
+        "la": "Epistola ad abbatem columbensem. de opere sequenti",
+        "pt-BR": "Carta ao abade de Coulombs. Sobre a obra que se segue"
       }
     },
     {
       "id": "praefatio",
       "title": {
-        "la": "Praefatio"
+        "la": "Praefatio",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "c01",
       "title": {
-        "la": "Caput I. An monasticae Regulae instituta praecepta sint, an consilia duntaxat"
+        "la": "Caput I. An monasticae Regulae instituta praecepta sint, an consilia duntaxat",
+        "pt-BR": "Capítulo I. Se as instituições da Regra monástica são preceitos ou apenas conselhos"
       }
     },
     {
       "id": "c02",
       "title": {
-        "la": "Caput II. In constitutionibus majorum quando et a quibus dispensandum"
+        "la": "Caput II. In constitutionibus majorum quando et a quibus dispensandum",
+        "pt-BR": "Capítulo II. Quando e por quem se deve dispensar das constituições dos antepassados"
       }
     },
     {
       "id": "c03",
       "title": {
-        "la": "Caput III. Dispensationem in lege divina soli Deo reservatam esse. At quae sunt legis aeternae, omnino etiam Deo esse immutabilia"
+        "la": "Caput III. Dispensationem in lege divina soli Deo reservatam esse. At quae sunt legis aeternae, omnino etiam Deo esse immutabilia",
+        "pt-BR": "Capítulo III. Que a dispensa na lei divina está reservada somente a Deus. Mas as coisas que pertencem à lei eterna são absolutamente imutáveis, mesmo para Deus"
       }
     },
     {
       "id": "c04",
       "title": {
-        "la": "Caput IV. Quid praelatis circa dispensationem Regulae liceat"
+        "la": "Caput IV. Quid praelatis circa dispensationem Regulae liceat",
+        "pt-BR": "Capítulo IV. O que é lícito aos superiores quanto à dispensa da Regra"
       }
     },
     {
       "id": "c05",
       "title": {
-        "la": "Caput V. Legem obedientiae non esse extendendam a praelatis ultra limites professionis, neque citra contrahendam"
+        "la": "Caput V. Legem obedientiae non esse extendendam a praelatis ultra limites professionis, neque citra contrahendam",
+        "pt-BR": "Capítulo V. Que os superiores não devem estender a lei da obediência além dos limites da profissão, nem restringi-la aquém deles"
       }
     },
     {
       "id": "c06",
       "title": {
-        "la": "Caput VI. Religiosum perfectionis cupidum non debere obedientiam intra certos professionis limites constringere"
+        "la": "Caput VI. Religiosum perfectionis cupidum non debere obedientiam intra certos professionis limites constringere",
+        "pt-BR": "Capítulo VI. Que o religioso desejoso da perfeição não deve restringir a obediência aos limites determinados da profissão"
       }
     },
     {
       "id": "c07",
       "title": {
-        "la": "Caput VII. Obedientiae gradus, et inobedientiae gravitas quomodo noscenda, juxta distinctiones praemissas"
+        "la": "Caput VII. Obedientiae gradus, et inobedientiae gravitas quomodo noscenda, juxta distinctiones praemissas",
+        "pt-BR": "Capítulo VII. Como conhecer os graus da obediência e a gravidade da desobediência segundo as distinções anteriores"
       }
     },
     {
       "id": "c08",
       "title": {
-        "la": "Caput VIII. Gravius peccari legum contemptu, quam neglectu"
+        "la": "Caput VIII. Gravius peccari legum contemptu, quam neglectu",
+        "pt-BR": "Capítulo VIII. Que se peca mais gravemente pelo desprezo das leis do que pela negligência"
       }
     },
     {
       "id": "c09",
       "title": {
-        "la": "Caput IX. Praelato tanquam Deo obediendum esse"
+        "la": "Caput IX. Praelato tanquam Deo obediendum esse",
+        "pt-BR": "Capítulo IX. Que se deve obedecer ao superior como a Deus"
       }
     },
     {
       "id": "c10",
       "title": {
-        "la": "Caput X. Obedientiam non esse gravem et molestam, nisi imperfectis, invitis, et carnalibus; caeteris suavem et facilem"
+        "la": "Caput X. Obedientiam non esse gravem et molestam, nisi imperfectis, invitis, et carnalibus; caeteris suavem et facilem",
+        "pt-BR": "Capítulo X. Que a obediência só é pesada e penosa para os imperfeitos, os que obedecem de má vontade e os carnais; para os demais, é suave e fácil"
       }
     },
     {
       "id": "c11",
       "title": {
-        "la": "Caput XI. Praecepta esse imparia, adeoque transgressionem"
+        "la": "Caput XI. Praecepta esse imparia, adeoque transgressionem",
+        "pt-BR": "Capítulo XI. Que os preceitos são desiguais e, por conseguinte, também sua transgressão"
       }
     },
     {
       "id": "c12",
       "title": {
-        "la": "Caput XII. In Regula aeque ac lege divina disparitatem esse inobedientiae"
+        "la": "Caput XII. In Regula aeque ac lege divina disparitatem esse inobedientiae",
+        "pt-BR": "Capítulo XII. Que na Regra, assim como na lei divina, há desigualdade na desobediência"
       }
     },
     {
       "id": "c13",
       "title": {
-        "la": "Caput XIII. Refellit monachos, difficultatem, vel etiam impossibilitatem obedientiae religiosae nimium exaggerantes"
+        "la": "Caput XIII. Refellit monachos, difficultatem, vel etiam impossibilitatem obedientiae religiosae nimium exaggerantes",
+        "pt-BR": "Capítulo XIII. Refuta os monges que exageram demasiadamente a dificuldade ou até a impossibilidade da obediência religiosa"
       }
     },
     {
       "id": "c14",
       "title": {
-        "la": "Caput XIV. Cur conscientia errans non aeque convertat malum in bonum, uti bonum in malum"
+        "la": "Caput XIV. Cur conscientia errans non aeque convertat malum in bonum, uti bonum in malum",
+        "pt-BR": "Capítulo XIV. Por que a consciência errônea não converte o mal em bem do mesmo modo que converte o bem em mal"
       }
     },
     {
       "id": "c15",
       "title": {
-        "la": "Caput XV. An quantum obedientia valet ad meritum, tantum inobedientia valeat ad demeritum"
+        "la": "Caput XV. An quantum obedientia valet ad meritum, tantum inobedientia valeat ad demeritum",
+        "pt-BR": "Capítulo XV. Se a desobediência vale tanto para o demérito quanto a obediência para o mérito"
       }
     },
     {
       "id": "c16",
       "title": {
-        "la": "Caput XVI. Transitus et mutatio monasterii quatenus probanda"
+        "la": "Caput XVI. Transitus et mutatio monasterii quatenus probanda",
+        "pt-BR": "Capítulo XVI. Até que ponto se deve aprovar a transferência e a mudança de mosteiro"
       }
     },
     {
       "id": "c17",
       "title": {
-        "la": "Caput XVII. Ad dubia quaedam ex Patribus proposita respondet"
+        "la": "Caput XVII. Ad dubia quaedam ex Patribus proposita respondet",
+        "pt-BR": "Capítulo XVII. Responde a certas dúvidas propostas a partir dos Padres"
       }
     },
     {
       "id": "c18",
       "title": {
-        "la": "Caput XVIII. Morte abbatis non licere professis mutare locum"
+        "la": "Caput XVIII. Morte abbatis non licere professis mutare locum",
+        "pt-BR": "Capítulo XVIII. Que a morte do abade não permite aos professos mudar de lugar"
       }
     },
     {
       "id": "c19",
       "title": {
-        "la": "Caput XIX. Ad alia quaedam dubia paucis respondet"
+        "la": "Caput XIX. Ad alia quaedam dubia paucis respondet",
+        "pt-BR": "Capítulo XIX. Responde brevemente a algumas outras dúvidas"
       }
     },
     {
       "id": "c20",
       "title": {
-        "la": "Caput XX. Binas Pauli sententias in speciem pugnantes conciliat"
+        "la": "Caput XX. Binas Pauli sententias in speciem pugnantes conciliat",
+        "pt-BR": "Capítulo XX. Concilia duas sentenças de Paulo aparentemente contraditórias"
       }
     }
   ]
