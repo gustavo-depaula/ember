@@ -4,7 +4,7 @@
   "name": {
     "la": "Pro insipiente et Responsio ad Gaunilonem",
     "en-US": "Gaunilo’s In Behalf of the Fool and Anselm’s Reply",
-    "pt-BR": "Gaunilo, Em favor do insensato, e a Resposta de Anselmo"
+    "pt-BR": "Gaunilo, Em favor do insipiente, e a Resposta de Anselmo"
   },
   "author": {
     "la": "Anselmus Cantuariensis",
@@ -14,12 +14,13 @@
   "description": {
     "la": "Gaunilonis monachi Maioris Monasterii Liber pro insipiente adversus Proslogion, et Anselmi Liber apologeticus contra Gaunilonem: disputatio de argumento «id quo maius cogitari nequit». Textus ex editione Migne (Patrologia Latina 158, 1853).",
     "en-US": "The exchange on the argument of the Proslogion: the monk Gaunilo’s “In Behalf of the Fool” in eight sections (the lost-island objection) and Anselm’s reply in ten chapters. The Latin is the Migne text (Patrologia Latina 158, 1853): Anselm’s reply from a machine-corrected OCR, Gaunilo from Latin Wikisource; the English is Sidney Norton Deane’s 1903 translation, which follows the Latin section for section.",
-    "pt-BR": "A troca de argumentos sobre o Proslógio: o «Em favor do insensato» do monge Gaunilo, em oito partes (a objeção da ilha perdida), e a resposta de Anselmo, em dez capítulos."
+    "pt-BR": "A troca de argumentos sobre o Proslógio: o «Em favor do insipiente» do monge Gaunilo, em oito partes (a objeção da ilha perdida), e a resposta de Anselmo, em dez capítulos."
   },
   "composed": "c. 1078",
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "anselm/responsio-ad-gaunilonem",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "Sidney Norton Deane",
       "year": 1903
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -63,133 +69,152 @@
       "id": "g1",
       "title": {
         "la": "Gaunilonis Pro insipiente, I",
-        "en-US": "Gaunilo, In Behalf of the Fool, I"
+        "en-US": "Gaunilo, In Behalf of the Fool, I",
+        "pt-BR": "Gaunilo, Em favor do insipiente, I"
       }
     },
     {
       "id": "g2",
       "title": {
         "la": "Gaunilonis Pro insipiente, II",
-        "en-US": "Gaunilo, In Behalf of the Fool, II"
+        "en-US": "Gaunilo, In Behalf of the Fool, II",
+        "pt-BR": "Gaunilo, Em favor do insipiente, II"
       }
     },
     {
       "id": "g3",
       "title": {
         "la": "Gaunilonis Pro insipiente, III",
-        "en-US": "Gaunilo, In Behalf of the Fool, III"
+        "en-US": "Gaunilo, In Behalf of the Fool, III",
+        "pt-BR": "Gaunilo, Em favor do insipiente, III"
       }
     },
     {
       "id": "g4",
       "title": {
         "la": "Gaunilonis Pro insipiente, IV",
-        "en-US": "Gaunilo, In Behalf of the Fool, IV"
+        "en-US": "Gaunilo, In Behalf of the Fool, IV",
+        "pt-BR": "Gaunilo, Em favor do insipiente, IV"
       }
     },
     {
       "id": "g5",
       "title": {
         "la": "Gaunilonis Pro insipiente, V",
-        "en-US": "Gaunilo, In Behalf of the Fool, V"
+        "en-US": "Gaunilo, In Behalf of the Fool, V",
+        "pt-BR": "Gaunilo, Em favor do insipiente, V"
       }
     },
     {
       "id": "g6",
       "title": {
         "la": "Gaunilonis Pro insipiente, VI",
-        "en-US": "Gaunilo, In Behalf of the Fool, VI"
+        "en-US": "Gaunilo, In Behalf of the Fool, VI",
+        "pt-BR": "Gaunilo, Em favor do insipiente, VI"
       }
     },
     {
       "id": "g7",
       "title": {
         "la": "Gaunilonis Pro insipiente, VII",
-        "en-US": "Gaunilo, In Behalf of the Fool, VII"
+        "en-US": "Gaunilo, In Behalf of the Fool, VII",
+        "pt-BR": "Gaunilo, Em favor do insipiente, VII"
       }
     },
     {
       "id": "g8",
       "title": {
         "la": "Gaunilonis Pro insipiente, VIII",
-        "en-US": "Gaunilo, In Behalf of the Fool, VIII"
+        "en-US": "Gaunilo, In Behalf of the Fool, VIII",
+        "pt-BR": "Gaunilo, Em favor do insipiente, VIII"
       }
     },
     {
       "id": "praefatio",
       "title": {
         "la": "Praefatio",
-        "en-US": "Preface"
+        "en-US": "Preface",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "c01",
       "title": {
         "la": "Caput I. Generatim refellitur adversarii ratiocinatio; et ostenditur id quo majus cogitari non potest, esse reipsa",
-        "en-US": "Chapter I. A general refutation of Gaunilon's argument. It is shown that a being than which a greater cannot be conceived exists in reality"
+        "en-US": "Chapter I. A general refutation of Gaunilon's argument. It is shown that a being than which a greater cannot be conceived exists in reality",
+        "pt-BR": "Capítulo I. Refuta-se em geral o raciocínio do adversário e mostra-se que aquilo do qual não se pode pensar nada maior existe na realidade"
       }
     },
     {
       "id": "c02",
       "title": {
         "la": "Caput II. Magis urgetur ratiocinatio praeposita; et ostenditur id quo majus cogitari nequit, cogitari posse, atque adeo etiam esse",
-        "en-US": "Chapter II. The argument is continued. It is shown that a being than which a greater is inconceivable can be conceived, and also, in so far, exists"
+        "en-US": "Chapter II. The argument is continued. It is shown that a being than which a greater is inconceivable can be conceived, and also, in so far, exists",
+        "pt-BR": "Capítulo II. Insiste-se no raciocínio apresentado e mostra-se que aquilo do qual não se pode pensar nada maior pode ser pensado e, por isso, também existe"
       }
     },
     {
       "id": "c03",
       "title": {
         "la": "Caput III. Ad instantiam adversarii: quod sequeretur insulam fictitiam esse reipsa, quia cogitatur",
-        "en-US": "Chapter III. A criticism of Gaunilon's example, in which he tries to show that in this way the real existence of a lost island might be inferred from the fact of its being conceived"
+        "en-US": "Chapter III. A criticism of Gaunilon's example, in which he tries to show that in this way the real existence of a lost island might be inferred from the fact of its being conceived",
+        "pt-BR": "Capítulo III. Resposta à objeção do adversário: seguir-se-ia que uma ilha fictícia existe na realidade por ser pensada"
       }
     },
     {
       "id": "c04",
       "title": {
         "la": "Caput IV. Differentia inter posse cogitari, et intelligi non esse",
-        "en-US": "Chapter IV. The difference between the possibility of conceiving of non-existence, and understanding non-existence"
+        "en-US": "Chapter IV. The difference between the possibility of conceiving of non-existence, and understanding non-existence",
+        "pt-BR": "Capítulo IV. Diferença entre poder pensar e entender que algo não existe"
       }
     },
     {
       "id": "c05",
       "title": {
         "la": "Caput V. Specialis discussio variorum adversarii dictorum: ac primum quod initio infideliter retulerit ratiocinationem, quam refellendam suscepit",
-        "en-US": "Chapter V. A particular discussion of certain statements of Gaunilon's. In the first place, he misquoted the argument which he undertook to refute"
+        "en-US": "Chapter V. A particular discussion of certain statements of Gaunilon's. In the first place, he misquoted the argument which he undertook to refute",
+        "pt-BR": "Capítulo V. Exame particular de diversas afirmações do adversário: primeiro, que no início expôs sem fidelidade o raciocínio que se propôs refutar"
       }
     },
     {
       "id": "c06",
       "title": {
         "la": "Caput VI. Discutitur dictum adversarii in num. 2, quaelibet falsa similiter possent intelligi, atque adeo essent",
-        "en-US": "Chapter VI. A discussion of Gaunilon's argument in his second chapter: that any unreal beings can be understood in the same way, and would, to that extent, exist"
+        "en-US": "Chapter VI. A discussion of Gaunilon's argument in his second chapter: that any unreal beings can be understood in the same way, and would, to that extent, exist",
+        "pt-BR": "Capítulo VI. Examina-se a afirmação do adversário no n. 2: quaisquer coisas falsas poderiam ser igualmente entendidas e, por isso, existiriam"
       }
     },
     {
       "id": "c07",
       "title": {
         "la": "Caput VII. Contra dictum aliud adversarii ibidem: nempe quod summum magnum aeque possit concipi non esse; ac Deus ab insipiente concipitur",
-        "en-US": "Chapter VII. In answer to another objection: that the supremely great being may be conceived not to exist, just as by the fool God is conceived not to exist"
+        "en-US": "Chapter VII. In answer to another objection: that the supremely great being may be conceived not to exist, just as by the fool God is conceived not to exist",
+        "pt-BR": "Capítulo VII. Contra outra afirmação do adversário no mesmo lugar: pode-se pensar que o sumamente grande não existe, assim como o insipiente pensa que Deus não existe"
       }
     },
     {
       "id": "c08",
       "title": {
         "la": "Caput VIII. Comparatio picturae num. 3 proposita examinatur. Et unde conjici queat summum magnum, de quo adversarius num. 4 quaesierat",
-        "en-US": "Chapter VIII. The example of the picture, treated in Gaunilon's third chapter, is examined.--From what source a notion may be formed of the supremely great being, of which Gaunilon inquired in his fourth chapter"
+        "en-US": "Chapter VIII. The example of the picture, treated in Gaunilon's third chapter, is examined.--From what source a notion may be formed of the supremely great being, of which Gaunilon inquired in his fourth chapter",
+        "pt-BR": "Capítulo VIII. Examina-se a comparação da pintura proposta no n. 3 e de onde se pode formar uma noção do sumamente grande, questão levantada pelo adversário no n. 4"
       }
     },
     {
       "id": "c09",
       "title": {
         "la": "Caput IX. Summum magnum cogitari et intelligi posse: et roboratur ratio contra insipientem facta",
-        "en-US": "Chapter IX. The possibility of understanding and conceiving of the supremely great being. The argument advanced against the fool is confirmed"
+        "en-US": "Chapter IX. The possibility of understanding and conceiving of the supremely great being. The argument advanced against the fool is confirmed",
+        "pt-BR": "Capítulo IX. O sumamente grande pode ser pensado e entendido; confirma-se o argumento apresentado contra o insipiente"
       }
     },
     {
       "id": "c10",
       "title": {
         "la": "Caput X. Firmitas rationis praedictae, et libelli clausula",
-        "en-US": "Chapter X. The certainty of the foregoing argument.--The conclusion of the book"
+        "en-US": "Chapter X. The certainty of the foregoing argument.--The conclusion of the book",
+        "pt-BR": "Capítulo X. Firmeza do argumento precedente e conclusão do opúsculo"
       }
     }
   ]
