@@ -19,7 +19,8 @@
   "composed": "1148-1153",
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "bernard/de-consideratione",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "George Lewis",
       "year": 1908
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -55,91 +61,104 @@
       "id": "prologus",
       "title": {
         "la": "Prologus",
-        "en-US": "Prologue"
+        "en-US": "Prologue",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "liber-1",
       "title": {
         "la": "Liber primus",
-        "en-US": "Book I"
+        "en-US": "Book I",
+        "pt-BR": "Livro primeiro"
       },
       "children": [
         {
           "id": "l1-c01",
           "title": {
             "la": "Caput I. Pontifici, tam variis occupationibus presso, condolet",
-            "en-US": "Chapter I. St. Bernard sympathizes with the Pope in his many cares"
+            "en-US": "Chapter I. St. Bernard sympathizes with the Pope in his many cares",
+            "pt-BR": "Capítulo I. Compadece-se do Pontífice, oprimido por ocupações tão variadas"
           }
         },
         {
           "id": "l1-c02",
           "title": {
             "la": "Caput II. Vis consuetudinis ad inducendos pravos mores, et duritiam cordis",
-            "en-US": "Chapter II. The strength of evil custom"
+            "en-US": "Chapter II. The strength of evil custom",
+            "pt-BR": "Capítulo II. A força do hábito para introduzir maus costumes e a dureza de coração"
           }
         },
         {
           "id": "l1-c03",
           "title": {
             "la": "Caput III. Indignum proceribus Ecclesiae continue causis litigantium audiendis et decidendis incumbere",
-            "en-US": "Chapter III. The rulers of the Church ought not to be for ever hearing and deciding lawsuits"
+            "en-US": "Chapter III. The rulers of the Church ought not to be for ever hearing and deciding lawsuits",
+            "pt-BR": "Capítulo III. É indigno dos grandes da Igreja dedicar-se continuamente a ouvir e decidir as causas dos litigantes"
           }
         },
         {
           "id": "l1-c04",
           "title": {
             "la": "Caput IV. Quae servitus digna, quae indigna servo servorum Dei",
-            "en-US": "Chapter IV. What service is worthy, what unworthy, of the servants of God"
+            "en-US": "Chapter IV. What service is worthy, what unworthy, of the servants of God",
+            "pt-BR": "Capítulo IV. Que servidão é digna e qual é indigna do servo dos servos de Deus"
           }
         },
         {
           "id": "l1-c05",
           "title": {
             "la": "Caput V. Non gerendam aliorum curam cum sui ipsius incuria et neglectu",
-            "en-US": "Chapter V. The Pope should not be so absorbed in other men's affairs as to neglect himself"
+            "en-US": "Chapter V. The Pope should not be so absorbed in other men's affairs as to neglect himself",
+            "pt-BR": "Capítulo V. Não se deve cuidar dos outros com descuido e negligência de si mesmo"
           }
         },
         {
           "id": "l1-c06",
           "title": {
             "la": "Caput VI. Non tam episcopis, quam principibus judiciariam potestatem competere",
-            "en-US": "Chapter VI. The administration of justice concerns temporal governors rather than bishops"
+            "en-US": "Chapter VI. The administration of justice concerns temporal governors rather than bishops",
+            "pt-BR": "Capítulo VI. O poder judiciário compete não tanto aos bispos quanto aos príncipes"
           }
         },
         {
           "id": "l1-c07",
           "title": {
             "la": "Caput VII. Pietati et rerum aeternarum considerationi in primis vacandum esse",
-            "en-US": "Chapter VII. Nothing more deserving of consideration than piety and things eternal"
+            "en-US": "Chapter VII. Nothing more deserving of consideration than piety and things eternal",
+            "pt-BR": "Capítulo VII. É preciso, antes de tudo, ter vagar para a piedade e para a consideração das coisas eternas"
           }
         },
         {
           "id": "l1-c08",
           "title": {
             "la": "Caput VIII. Ex pietate et contemplatione pulcherrimam quatuor primarum virtutum harmoniam et connexionem oriri",
-            "en-US": "Chapter VIII. The four primary virtues"
+            "en-US": "Chapter VIII. The four primary virtues",
+            "pt-BR": "Capítulo VIII. Da piedade e da contemplação nasce a belíssima harmonia e conexão das quatro virtudes principais"
           }
         },
         {
           "id": "l1-c09",
           "title": {
             "la": "Caput IX. Recentia Pontificum exempla paulatim corrigenda, vetera imitanda",
-            "en-US": "Chapter IX. The recent practice of the Popes to be gradually corrected, the old imitated"
+            "en-US": "Chapter IX. The recent practice of the Popes to be gradually corrected, the old imitated",
+            "pt-BR": "Capítulo IX. Os exemplos recentes dos pontífices devem ser corrigidos pouco a pouco; os antigos, imitados"
           }
         },
         {
           "id": "l1-c10",
           "title": {
             "la": "Caput X. Abusus advocatorum, judicum, procuratorum, eorumque fraudes graviter perstringit",
-            "en-US": "Chapter X. The shameless trickery of advocates, judges and procurators"
+            "en-US": "Chapter X. The shameless trickery of advocates, judges and procurators",
+            "pt-BR": "Capítulo X. Censura duramente os abusos dos advogados, juízes e procuradores, e as suas fraudes"
           }
         },
         {
           "id": "l1-c11",
           "title": {
             "la": "Caput XI. In advocatos et procuratores, qui ex iniquitate quaestum faciunt, severe animadvertendum",
-            "en-US": "Chapter XI. Such iniquitous greed to be sternly rebuked"
+            "en-US": "Chapter XI. Such iniquitous greed to be sternly rebuked",
+            "pt-BR": "Capítulo XI. Os advogados e procuradores que fazem lucro com a iniquidade devem ser severamente castigados"
           }
         }
       ]
@@ -148,105 +167,120 @@
       "id": "liber-2",
       "title": {
         "la": "Liber secundus",
-        "en-US": "Book II"
+        "en-US": "Book II",
+        "pt-BR": "Livro segundo"
       },
       "children": [
         {
           "id": "l2-c01",
           "title": {
             "la": "Caput I. Apologiam instituit, ob infelicem successum expeditionis in Terram-Sanctam susceptae",
-            "en-US": "Chapter I. St. Bernard apologizes for the failure of the Second Crusade"
+            "en-US": "Chapter I. St. Bernard apologizes for the failure of the Second Crusade",
+            "pt-BR": "Capítulo I. Faz a apologia pelo infeliz êxito da expedição empreendida à Terra Santa"
           }
         },
         {
           "id": "l2-c02",
           "title": {
             "la": "Caput II. Considerationis a contemplatione distinctio",
-            "en-US": "Chapter II. Consideration distinguished from Contemplation"
+            "en-US": "Chapter II. Consideration distinguished from Contemplation",
+            "pt-BR": "Capítulo II. Distinção entre a consideração e a contemplação"
           }
         },
         {
           "id": "l2-c03",
           "title": {
             "la": "Caput III. Considerationis quatuor puncta designat",
-            "en-US": "Chapter III. Consideration fourfold: (1) the Pope himself, (2) things below him, (3) things around him, (4) things above him"
+            "en-US": "Chapter III. Consideration fourfold: (1) the Pope himself, (2) things below him, (3) things around him, (4) things above him",
+            "pt-BR": "Capítulo III. Assinala quatro pontos da consideração"
           }
         },
         {
           "id": "l2-c04",
           "title": {
             "la": "Caput IV. Notitiam sui ipsius triplici consideratione sui complectitur; et primum quidem considerationis membrum hic exsequitur",
-            "en-US": "Chapter IV. The threefold Consideration leading to self-knowledge. Firstly, what the Pope is"
+            "en-US": "Chapter IV. The threefold Consideration leading to self-knowledge. Firstly, what the Pope is",
+            "pt-BR": "Capítulo IV. Abrange o conhecimento de si mesmo numa tríplice consideração de si, e desenvolve aqui o primeiro membro da consideração"
           }
         },
         {
           "id": "l2-c05",
           "title": {
             "la": "Caput V. Alterum membrum considerationis sui proponit: nempe, Quis sit, et unde",
-            "en-US": "Chapter V. Secondly, who the Pope is, and whence he comes"
+            "en-US": "Chapter V. Secondly, who the Pope is, and whence he comes",
+            "pt-BR": "Capítulo V. Propõe o segundo membro da consideração de si: quem é e de onde vem"
           }
         },
         {
           "id": "l2-c06",
           "title": {
             "la": "Caput VI. Quale debeat esse procerum Ecclesiae studium",
-            "en-US": "Chapter VI. The zeal befitting ecclesiastical rulers"
+            "en-US": "Chapter VI. The zeal befitting ecclesiastical rulers",
+            "pt-BR": "Capítulo VI. Qual deve ser o empenho dos grandes da Igreja"
           }
         },
         {
           "id": "l2-c07",
           "title": {
             "la": "Caput VII. Resumens priorem quaestionem, quis sit, diligentius expendit",
-            "en-US": "Chapter VII. Who the Pope is (continued)"
+            "en-US": "Chapter VII. Who the Pope is (continued)",
+            "pt-BR": "Capítulo VII. Retomando a questão anterior, quem ele é, examina-a com mais diligência"
           }
         },
         {
           "id": "l2-c08",
           "title": {
             "la": "Caput VIII. De pontificiae dignitatis et potestatis excellentia disserit",
-            "en-US": "Chapter VIII. The dignity and power of the Pope"
+            "en-US": "Chapter VIII. The dignity and power of the Pope",
+            "pt-BR": "Capítulo VIII. Discorre sobre a excelência da dignidade e do poder pontifícios"
           }
         },
         {
           "id": "l2-c09",
           "title": {
             "la": "Caput IX. Propriae naturae considerationem commendat",
-            "en-US": "Chapter IX. St. Bernard invites the Pope to consider what he is by nature"
+            "en-US": "Chapter IX. St. Bernard invites the Pope to consider what he is by nature",
+            "pt-BR": "Capítulo IX. Recomenda a consideração da própria natureza"
           }
         },
         {
           "id": "l2-c10",
           "title": {
             "la": "Caput X. Tertium membrum considerationis sui, nempe Qualis sit, exponit",
-            "en-US": "Chapter X. What manner of man the Pope is"
+            "en-US": "Chapter X. What manner of man the Pope is",
+            "pt-BR": "Capítulo X. Expõe o terceiro membro da consideração de si: qual ele é"
           }
         },
         {
           "id": "l2-c11",
           "title": {
             "la": "Caput XI. Serium examen sui Pontifici serio commendat",
-            "en-US": "Chapter XI. The necessity for self-examination"
+            "en-US": "Chapter XI. The necessity for self-examination",
+            "pt-BR": "Capítulo XI. Recomenda seriamente ao Pontífice um sério exame de si mesmo"
           }
         },
         {
           "id": "l2-c12",
           "title": {
             "la": "Caput XII. Neque in prosperis animum nimis laxandum, neque in adversis deficiendum",
-            "en-US": "Chapter XII. The spiritual effects of prosperity and adversity"
+            "en-US": "Chapter XII. The spiritual effects of prosperity and adversity",
+            "pt-BR": "Capítulo XII. Nem se deve afrouxar demais o ânimo na prosperidade, nem desfalecer na adversidade"
           }
         },
         {
           "id": "l2-c13",
           "title": {
             "la": "Caput XIII. Ab otio et nugis vanisque sermonibus Pontificem dehortatur",
-            "en-US": "Chapter XIII. Idleness, trifling, and profitless conversation to be shunned"
+            "en-US": "Chapter XIII. Idleness, trifling, and profitless conversation to be shunned",
+            "pt-BR": "Capítulo XIII. Desaconselha ao Pontífice o ócio, as frivolidades e as conversas vãs"
           }
         },
         {
           "id": "l2-c14",
           "title": {
             "la": "Caput XIV. Personarum acceptionem in judiciis summopere vitandam",
-            "en-US": "Chapter XIV. The Pope warned against accepting the person of any"
+            "en-US": "Chapter XIV. The Pope warned against accepting the person of any",
+            "pt-BR": "Capítulo XIV. Nos julgamentos, deve-se evitar ao máximo a acepção de pessoas"
           }
         }
       ]
@@ -255,42 +289,48 @@
       "id": "liber-3",
       "title": {
         "la": "Liber tertius",
-        "en-US": "Book III"
+        "en-US": "Book III",
+        "pt-BR": "Livro terceiro"
       },
       "children": [
         {
           "id": "l3-c01",
           "title": {
             "la": "Caput I. Pontificis esse, non tam ut omnes suo dominio subjiciat, sed ut omnes, quantum fieri potest, ad Ecclesiae gremium perducat",
-            "en-US": "Chapter I. The Pope should aim not at subjecting all men to himself, but at bringing them into the bosom of the Church"
+            "en-US": "Chapter I. The Pope should aim not at subjecting all men to himself, but at bringing them into the bosom of the Church",
+            "pt-BR": "Capítulo I. Cabe ao Pontífice não tanto submeter todos ao seu domínio quanto conduzir todos, quanto possível, ao seio da Igreja"
           }
         },
         {
           "id": "l3-c02",
           "title": {
             "la": "Caput II. Quis modus in appellationibus ad Sedem apostolicam adhibendus sit",
-            "en-US": "Chapter II. The limits of appeals to the Apostolic See"
+            "en-US": "Chapter II. The limits of appeals to the Apostolic See",
+            "pt-BR": "Capítulo II. Que medida se deve observar nas apelações à Sé Apostólica"
           }
         },
         {
           "id": "l3-c03",
           "title": {
             "la": "Caput III. Praesules Ecclesiae non tam ut praesint, ac semetipsos pascant, quam ut aliis prosint, constitutos esse",
-            "en-US": "Chapter III. Church rulers are for the profit of their people"
+            "en-US": "Chapter III. Church rulers are for the profit of their people",
+            "pt-BR": "Capítulo III. Os prelados da Igreja foram constituídos não tanto para presidir e apascentar-se a si mesmos quanto para servir aos outros"
           }
         },
         {
           "id": "l3-c04",
           "title": {
             "la": "Caput IV. Gradus ordinum ac dignitatum, quae in Ecelesia sunt, non temere confundendos ac perturbandos. Hinc abusum quaerendi privilegia ac exemptiones perstringit",
-            "en-US": "Chapter IV. Ecclesiastical rank and dignity to be respected. The abuse of privileges and exemptions"
+            "en-US": "Chapter IV. Ecclesiastical rank and dignity to be respected. The abuse of privileges and exemptions",
+            "pt-BR": "Capítulo IV. Os graus das ordens e dignidades que há na Igreja não devem ser temerariamente confundidos e perturbados. Por isso censura o abuso de buscar privilégios e isenções"
           }
         },
         {
           "id": "l3-c05",
           "title": {
             "la": "Caput V. Summo Pontifici incumbere curam de apostolicis decretis, et majorum institutis per totum orbem servandis",
-            "en-US": "Chapter V. The Sovereign Pontiff should uphold the Apostolic decrees and ancient ordinances throughout the world"
+            "en-US": "Chapter V. The Sovereign Pontiff should uphold the Apostolic decrees and ancient ordinances throughout the world",
+            "pt-BR": "Capítulo V. Cabe ao Sumo Pontífice o cuidado de que os decretos apostólicos e as instituições dos antepassados sejam observados em todo o orbe"
           }
         }
       ]
@@ -299,56 +339,64 @@
       "id": "liber-4",
       "title": {
         "la": "Liber quartus",
-        "en-US": "Book IV"
+        "en-US": "Book IV",
+        "pt-BR": "Livro quarto"
       },
       "children": [
         {
           "id": "l4-c01",
           "title": {
             "la": "Caput I. Tractat de iis quae circa ipsum sunt",
-            "en-US": "Chapter I. The things 'around' the Pope"
+            "en-US": "Chapter I. The things 'around' the Pope",
+            "pt-BR": "Capítulo I. Trata das coisas que estão ao redor dele"
           }
         },
         {
           "id": "l4-c02",
           "title": {
             "la": "Caput II. De cleri et populi Romani moribus agit , et de veterum Pastorum cura ac vigilantia",
-            "en-US": "Chapter II. The clergy and people of Rome. The care and watchfulness of shepherds in olden time"
+            "en-US": "Chapter II. The clergy and people of Rome. The care and watchfulness of shepherds in olden time",
+            "pt-BR": "Capítulo II. Trata dos costumes do clero e do povo romano, e do cuidado e vigilância dos antigos pastores"
           }
         },
         {
           "id": "l4-c03",
           "title": {
             "la": "Caput III. De vestium pompa resecanda, et zelo Pontifici necessario",
-            "en-US": "Chapter III. The necessity of curtailing extravagance in dress, &c."
+            "en-US": "Chapter III. The necessity of curtailing extravagance in dress, &c.",
+            "pt-BR": "Capítulo III. Deve-se cortar a pompa das vestes; e do zelo necessário ao Pontífice"
           }
         },
         {
           "id": "l4-c04",
           "title": {
             "la": "Caput IV. Quales collaterales et coadjutores a Pontifice adhibendi: ubi de virtutibus praelatorum",
-            "en-US": "Chapter IV. The Pope's colleagues and coadjutors at the Lateran"
+            "en-US": "Chapter IV. The Pope's colleagues and coadjutors at the Lateran",
+            "pt-BR": "Capítulo IV. Que colaboradores e coadjutores o Pontífice deve escolher; onde se trata das virtudes dos prelados"
           }
         },
         {
           "id": "l4-c05",
           "title": {
             "la": "Caput V. Exemplis commendatur abstinentia munerum; et arrogantia ministrorum Papae perstringitur",
-            "en-US": "Chapter V. The Pope should refuse bribes. Martin and Gunfrid. The arrogance of the Pope's attendants"
+            "en-US": "Chapter V. The Pope should refuse bribes. Martin and Gunfrid. The arrogance of the Pope's attendants",
+            "pt-BR": "Capítulo V. Recomenda-se com exemplos a recusa dos presentes, e censura-se a arrogância dos ministros do Papa"
           }
         },
         {
           "id": "l4-c06",
           "title": {
             "la": "Caput VI. Pontifici non convenire, utpote gravioribus intento, rei domesticae curam; proindeque alteri potius oeconomo committendam",
-            "en-US": "Chapter VI. It is not becoming in the Pope to be absorbed in the management of his household to the neglect of weightier matters. He should have a steward"
+            "en-US": "Chapter VI. It is not becoming in the Pope to be absorbed in the management of his household to the neglect of weightier matters. He should have a steward",
+            "pt-BR": "Capítulo VI. Não convém ao Pontífice, voltado a coisas mais graves, o cuidado da casa, que por isso deve antes ser confiado a um ecônomo"
           }
         },
         {
           "id": "l4-c07",
           "title": {
             "la": "Caput VII. Epilogus seu summa eorum quae in pontifice requiruntur",
-            "en-US": "Chapter VII. The ideal Pope"
+            "en-US": "Chapter VII. The ideal Pope",
+            "pt-BR": "Capítulo VII. Epílogo ou suma do que se requer no pontífice"
           }
         }
       ]
@@ -357,105 +405,120 @@
       "id": "liber-5",
       "title": {
         "la": "Liber quintus",
-        "en-US": "Book V"
+        "en-US": "Book V",
+        "pt-BR": "Livro quinto"
       },
       "children": [
         {
           "id": "l5-c01",
           "title": {
             "la": "Caput I. De his quae supra nos sunt, id est de Deo rebusque divinis, considerationem instituit, ad quas modo per creaturas erigimur",
-            "en-US": "Chapter I. The things above us, namely God and things Divine, to which we rise by means of the creatures"
+            "en-US": "Chapter I. The things above us, namely God and things Divine, to which we rise by means of the creatures",
+            "pt-BR": "Capítulo I. Inicia a consideração das coisas que estão acima de nós, isto é, de Deus e das coisas divinas, às quais agora nos elevamos pelas criaturas"
           }
         },
         {
           "id": "l5-c02",
           "title": {
             "la": "Caput II. Assignat varios considerationis gradus",
-            "en-US": "Chapter II. The Steps of Consideration"
+            "en-US": "Chapter II. The Steps of Consideration",
+            "pt-BR": "Capítulo II. Indica os vários graus da consideração"
           }
         },
         {
           "id": "l5-c03",
           "title": {
             "la": "Caput III. Ea quae supra nos sunt, Deum scilicet et Angelos, investigari opinione, fide, et intellectu",
-            "en-US": "Chapter III. Opinion, Faith, and Understanding"
+            "en-US": "Chapter III. Opinion, Faith, and Understanding",
+            "pt-BR": "Capítulo III. As coisas que estão acima de nós, isto é, Deus e os anjos, investigam-se pela opinião, pela fé e pelo entendimento"
           }
         },
         {
           "id": "l5-c04",
           "title": {
             "la": "Caput IV. Angeli quomodo considerandi",
-            "en-US": "Chapter IV. The Angels"
+            "en-US": "Chapter IV. The Angels",
+            "pt-BR": "Capítulo IV. Como se devem considerar os anjos"
           }
         },
         {
           "id": "l5-c05",
           "title": {
             "la": "Caput V. Gratias ac dotes Angelorum a Deo in ipsos derivari",
-            "en-US": "Chapter V. God is the Source of Angelic Gifts and Graces"
+            "en-US": "Chapter V. God is the Source of Angelic Gifts and Graces",
+            "pt-BR": "Capítulo V. As graças e os dons dos anjos derivam de Deus para eles"
           }
         },
         {
           "id": "l5-c06",
           "title": {
             "la": "Caput VI. Principii et essentiae rationem proprie soli Deo convenire",
-            "en-US": "Chapter VI. The Eternal Self- existence of God"
+            "en-US": "Chapter VI. The Eternal Self- existence of God",
+            "pt-BR": "Capítulo VI. A razão de princípio e de essência convém propriamente só a Deus"
           }
         },
         {
           "id": "l5-c07",
           "title": {
             "la": "Caput VII. Deum et simplicem et trinum esse",
-            "en-US": "Chapter VII. The 'Divine Trinity in Unity"
+            "en-US": "Chapter VII. The 'Divine Trinity in Unity",
+            "pt-BR": "Capítulo VII. Deus é simples e trino"
           }
         },
         {
           "id": "l5-c08",
           "title": {
             "la": "Caput VIII. Personarum pluralitem in Deo consurgere ex proprietatibus; essentiam tamen unam et simplicem esse",
-            "en-US": "Chapter VIII. The plurality of Persons in the Godhead, and their several properties. The unity and simplicity of the Essence"
+            "en-US": "Chapter VIII. The plurality of Persons in the Godhead, and their several properties. The unity and simplicity of the Essence",
+            "pt-BR": "Capítulo VIII. A pluralidade das pessoas em Deus surge das propriedades; a essência, porém, é una e simples"
           }
         },
         {
           "id": "l5-c09",
           "title": {
             "la": "Caput IX. Uti in Deo simplex natura est in tribus personis, sic contra in Christo plures naturas in unam personam coalescere",
-            "en-US": "Chapter IX. As in God there are three Persons and one Nature, so in Christ there are two Natures and one Person"
+            "en-US": "Chapter IX. As in God there are three Persons and one Nature, so in Christ there are two Natures and one Person",
+            "pt-BR": "Capítulo IX. Assim como em Deus a natureza simples está em três pessoas, assim, ao contrário, em Cristo várias naturezas se unem numa só pessoa"
           }
         },
         {
           "id": "l5-c10",
           "title": {
             "la": "Caput X. Parabola, quae est apud Matthaeum de tribus satis, Christi personae accommodatur",
-            "en-US": "Chapter X. The Parable of the three measures of meal"
+            "en-US": "Chapter X. The Parable of the three measures of meal",
+            "pt-BR": "Capítulo X. A parábola das três medidas, que está em Mateus, é aplicada à pessoa de Cristo"
           }
         },
         {
           "id": "l5-c11",
           "title": {
             "la": "Caput XI. Continuatio considerationis de Deo",
-            "en-US": "Chapter XI. The consideration of God continued"
+            "en-US": "Chapter XI. The consideration of God continued",
+            "pt-BR": "Capítulo XI. Continuação da consideração de Deus"
           }
         },
         {
           "id": "l5-c12",
           "title": {
             "la": "Caput XII. Deum et bonorum operum pium remuneratorem, et scelerum aequissimum vindicem esse",
-            "en-US": "Chapter XII. God the rewarder of the good, and the righteous judge of the wicked"
+            "en-US": "Chapter XII. God the rewarder of the good, and the righteous judge of the wicked",
+            "pt-BR": "Capítulo XII. Deus é piedoso remunerador das boas obras e justíssimo vingador dos crimes"
           }
         },
         {
           "id": "l5-c13",
           "title": {
             "la": "Caput XIII. De longitudine, latitudine, profunditate, et sublimitate Dei profunde et eleganter discurrit",
-            "en-US": "Chapter XIII. The mystical interpretation of the length, and breadth, and height, and depth"
+            "en-US": "Chapter XIII. The mystical interpretation of the length, and breadth, and height, and depth",
+            "pt-BR": "Capítulo XIII. Discorre profunda e elegantemente sobre o comprimento, a largura, a profundidade e a altura de Deus"
           }
         },
         {
           "id": "l5-c14",
           "title": {
             "la": "Caput XIV. Modum, quo praedicta secundum Apostolum comprehendere possimus, ostendit",
-            "en-US": "Chapter XIV. What it is to comprehend God"
+            "en-US": "Chapter XIV. What it is to comprehend God",
+            "pt-BR": "Capítulo XIV. Mostra o modo pelo qual podemos compreender, segundo o Apóstolo, o que foi dito"
           }
         }
       ]
