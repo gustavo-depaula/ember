@@ -1,0 +1,3 @@
+# Conclusão da obra
+
+Isto, sobre a processão do Espírito Santo, ousei escrever em favor dos latinos contra os gregos, a instâncias de outros, confiando não em mim, mas no mesmo Espírito Santo. E ousei, nesta ocasião, acrescentar algo sobre a unidade da Divindade e a Trindade das pessoas, embora sejam inumeráveis, entre os que usam as letras latinas, os que o poderiam fazer melhor do que eu. Tudo o que disse e que deva ser acolhido não seja, pois, atribuído a mim, mas ao Espírito da verdade. Se, porém, exprimi algo que de algum modo deva ser corrigido, seja imputado a mim, e não ao sentir da latinidade [da Igreja latina].

@@ -18,13 +18,19 @@
   },
   "composed": "1098-1102",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "anselm/de-processione-spiritus-sancti",
   "editions": {
     "la": {
       "editor": "J.-P. Migne (Patrologia Latina 158)",
       "year": 1853
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,187 +47,218 @@
     {
       "id": "prologus",
       "title": {
-        "la": "Prologus"
+        "la": "Prologus",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "c01",
       "title": {
-        "la": "Caput I. Quae communis est Latinis et Graecis fides de Trinitate"
+        "la": "Caput I. Quae communis est Latinis et Graecis fides de Trinitate",
+        "pt-BR": "Capítulo I. A fé sobre a Trindade comum aos latinos e aos gregos"
       }
     },
     {
       "id": "c02",
       "title": {
-        "la": "Caput II. Quomodo indivisibilis unitas, et insociabilis pluralitas in Deo conveniant"
+        "la": "Caput II. Quomodo indivisibilis unitas, et insociabilis pluralitas in Deo conveniant",
+        "pt-BR": "Capítulo II. Como convêm em Deus a unidade indivisível e a pluralidade incomunicável"
       }
     },
     {
       "id": "c03",
       "title": {
-        "la": "Caput III. Quomodo unitatis Dei consequentiam restringat relatio"
+        "la": "Caput III. Quomodo unitatis Dei consequentiam restringat relatio",
+        "pt-BR": "Capítulo III. Como a relação restringe a consequência da unidade de Deus"
       }
     },
     {
       "id": "c04",
       "title": {
-        "la": "Caput IV. Cum Filius non sit de Spiritu sancto, ipse Spiritus ex Filio procedit"
+        "la": "Caput IV. Cum Filius non sit de Spiritu sancto, ipse Spiritus ex Filio procedit",
+        "pt-BR": "Capítulo IV. Visto que o Filho não é do Espírito Santo, o próprio Espírito procede do Filho"
       }
     },
     {
       "id": "c05",
       "title": {
-        "la": "Caput V. Evincitur Spiritum sanctum hoc, quod est, habere a Patre; contra quemdam episcopum Graecis faventem"
+        "la": "Caput V. Evincitur Spiritum sanctum hoc, quod est, habere a Patre; contra quemdam episcopum Graecis faventem",
+        "pt-BR": "Capítulo V. Demonstra-se que o Espírito Santo tem do Pai aquilo que é; contra certo bispo favorável aos gregos"
       }
     },
     {
       "id": "c06",
       "title": {
-        "la": "Caput VI. Spiritum sanctum, nisi esse a Patre habeat, non posse intelligi alium esse ab eo, per missionem seu processionem"
+        "la": "Caput VI. Spiritum sanctum, nisi esse a Patre habeat, non posse intelligi alium esse ab eo, per missionem seu processionem",
+        "pt-BR": "Capítulo VI. Se não tem o ser do Pai, o Espírito Santo não pode ser entendido como outro que ele pela missão ou pela processão"
       }
     },
     {
       "id": "c07",
       "title": {
-        "la": "Caput VII. Spiritus sancti processio de Patre importat ejus processionem de Filio"
+        "la": "Caput VII. Spiritus sancti processio de Patre importat ejus processionem de Filio",
+        "pt-BR": "Capítulo VII. A processão do Espírito Santo a partir do Pai implica a sua processão a partir do Filho"
       }
     },
     {
       "id": "c08",
       "title": {
-        "la": "Caput VIII. Spiritus sanctus procedit de Patre et Filio, quia procedit de solo vero Deo, qui Pater est et Filius"
+        "la": "Caput VIII. Spiritus sanctus procedit de Patre et Filio, quia procedit de solo vero Deo, qui Pater est et Filius",
+        "pt-BR": "Capítulo VIII. O Espírito Santo procede do Pai e do Filho, porque procede do único verdadeiro Deus, que é Pai e Filho"
       }
     },
     {
       "id": "c09",
       "title": {
-        "la": "Caput IX. Missio Spiritus in nomine Filii et a Filio confirmat Processionem ejus de Filio"
+        "la": "Caput IX. Missio Spiritus in nomine Filii et a Filio confirmat Processionem ejus de Filio",
+        "pt-BR": "Capítulo IX. A missão do Espírito em nome do Filho e pelo Filho confirma a sua processão a partir do Filho"
       }
     },
     {
       "id": "c10",
       "title": {
-        "la": "Caput X. Eadem processio probatur ex Christi insufflatione in apostolos"
+        "la": "Caput X. Eadem processio probatur ex Christi insufflatione in apostolos",
+        "pt-BR": "Capítulo X. A mesma processão se prova pela insuflação de Cristo sobre os apóstolos"
       }
     },
     {
       "id": "c11",
       "title": {
-        "la": "Caput XI. Eadem processio arguitur ex verbis Christi: Ille de meo accipiet"
+        "la": "Caput XI. Eadem processio arguitur ex verbis Christi: Ille de meo accipiet",
+        "pt-BR": "Capítulo XI. A mesma processão se demonstra pelas palavras de Cristo: Ele receberá do que é meu"
       }
     },
     {
       "id": "c12",
       "title": {
-        "la": "Caput XII. Urgentur ad idem verba alia Christi: Nemo novit Filium nisi Pater, etc"
+        "la": "Caput XII. Urgentur ad idem verba alia Christi: Nemo novit Filium nisi Pater, etc",
+        "pt-BR": "Capítulo XII. Insiste-se no mesmo com outras palavras de Cristo: Ninguém conhece o Filho senão o Pai, etc."
       }
     },
     {
       "id": "c13",
       "title": {
-        "la": "Caput XIII. Spiritus sanctus procedens a Filio non est eo posterior aut minor"
+        "la": "Caput XIII. Spiritus sanctus procedens a Filio non est eo posterior aut minor",
+        "pt-BR": "Capítulo XIII. O Espírito Santo, procedendo do Filho, não é posterior nem inferior a ele"
       }
     },
     {
       "id": "c14",
       "title": {
-        "la": "Caput XIV. Disparitas inter Filii ac Spiritus sancti processionem de Patre, et splendoris ac caloris processionem de sole"
+        "la": "Caput XIV. Disparitas inter Filii ac Spiritus sancti processionem de Patre, et splendoris ac caloris processionem de sole",
+        "pt-BR": "Capítulo XIV. Diferença entre a processão do Filho e do Espírito Santo a partir do Pai e a processão do esplendor e do calor a partir do sol"
       }
     },
     {
       "id": "c15",
       "title": {
-        "la": "Caput XV. Quod Graeci non recte dicant Spiritum sanctum procedere de Patre per Filium per quem sunt omnia; sed ipse procedat ex Deitate, quae una est Patris et Filii"
+        "la": "Caput XV. Quod Graeci non recte dicant Spiritum sanctum procedere de Patre per Filium per quem sunt omnia; sed ipse procedat ex Deitate, quae una est Patris et Filii",
+        "pt-BR": "Capítulo XV. Os gregos não dizem com acerto que o Espírito Santo procede do Pai pelo Filho, por quem são todas as coisas; mas ele procede da Divindade, que é uma só do Pai e do Filho"
       }
     },
     {
       "id": "c16",
       "title": {
-        "la": "Caput XVI. Quod Spiritus sanctus non procedat a Patre per Filium; sicut omnia a Patre per Verbum sunt facta"
+        "la": "Caput XVI. Quod Spiritus sanctus non procedat a Patre per Filium; sicut omnia a Patre per Verbum sunt facta",
+        "pt-BR": "Capítulo XVI. O Espírito Santo não procede do Pai pelo Filho, assim como todas as coisas foram feitas pelo Pai por meio do Verbo"
       }
     },
     {
       "id": "c17",
       "title": {
-        "la": "Caput XVII. Quod sicut lacus est de rivo et fonte, ita Spiritus sanctus procedat de Patre et Filio"
+        "la": "Caput XVII. Quod sicut lacus est de rivo et fonte, ita Spiritus sanctus procedat de Patre et Filio",
+        "pt-BR": "Capítulo XVII. Assim como o lago é do curso de água e da fonte, assim o Espírito Santo procede do Pai e do Filho"
       }
     },
     {
       "id": "c18",
       "title": {
-        "la": "Caput XVIII. Pater et Filius sunt unum principium Spiritus sancti"
+        "la": "Caput XVIII. Pater et Filius sunt unum principium Spiritus sancti",
+        "pt-BR": "Capítulo XVIII. O Pai e o Filho são um só princípio do Espírito Santo"
       }
     },
     {
       "id": "c19",
       "title": {
-        "la": "Caput XIX. Infringitur argumentum ductum ex eo quod Christus expresserit solam Spiritus sancti processionem a Patre"
+        "la": "Caput XIX. Infringitur argumentum ductum ex eo quod Christus expresserit solam Spiritus sancti processionem a Patre",
+        "pt-BR": "Capítulo XIX. Refuta-se o argumento tirado de que Cristo expressou só a processão do Espírito Santo a partir do Pai"
       }
     },
     {
       "id": "c20",
       "title": {
-        "la": "Caput XX. Ejusdem argumenti confirmatio refutatur"
+        "la": "Caput XX. Ejusdem argumenti confirmatio refutatur",
+        "pt-BR": "Capítulo XX. Refuta-se a confirmação do mesmo argumento"
       }
     },
     {
       "id": "c21",
       "title": {
-        "la": "Caput XXI. Processio Spiritus sancti de Filio exprimitur, cum Spiritus sanctus dicitur Spiritus Filii"
+        "la": "Caput XXI. Processio Spiritus sancti de Filio exprimitur, cum Spiritus sanctus dicitur Spiritus Filii",
+        "pt-BR": "Capítulo XXI. A processão do Espírito Santo a partir do Filho exprime-se quando o Espírito Santo é chamado Espírito do Filho"
       }
     },
     {
       "id": "c22",
       "title": {
-        "la": "Caput XXII. Cur in Symbolo non sit expressa processio Spiritus sancti a Filio: et cur a Latinis fuerit adjecta, Graecis inconsultis"
+        "la": "Caput XXII. Cur in Symbolo non sit expressa processio Spiritus sancti a Filio: et cur a Latinis fuerit adjecta, Graecis inconsultis",
+        "pt-BR": "Capítulo XXII. Por que no Símbolo não se expressou a processão do Espírito Santo a partir do Filho, e por que os latinos a acrescentaram sem consultar os gregos"
       }
     },
     {
       "id": "c23",
       "title": {
-        "la": "Caput XXIII. Summa doctrinae et probationum processionis Spiritus sancti de Filio"
+        "la": "Caput XXIII. Summa doctrinae et probationum processionis Spiritus sancti de Filio",
+        "pt-BR": "Capítulo XXIII. Suma da doutrina e das provas da processão do Espírito Santo a partir do Filho"
       }
     },
     {
       "id": "c24",
       "title": {
-        "la": "Caput XXIV. Quod Spiritus sanctus non sit principaliter de Patre"
+        "la": "Caput XXIV. Quod Spiritus sanctus non sit principaliter de Patre",
+        "pt-BR": "Capítulo XXIV. O Espírito Santo não é principalmente do Pai"
       }
     },
     {
       "id": "c25",
       "title": {
-        "la": "Caput XXV. Processio haec nullam intra Deum prioritatem inducit, nisi originis"
+        "la": "Caput XXV. Processio haec nullam intra Deum prioritatem inducit, nisi originis",
+        "pt-BR": "Capítulo XXV. Esta processão não introduz em Deus nenhuma prioridade, senão a de origem"
       }
     },
     {
       "id": "c26",
       "title": {
-        "la": "Caput XXVI. Veritas processionis Spiritus sancti a Filio, ideo maxime firmatur; quia fide certa sunt, ex quibus necessario sequitur"
+        "la": "Caput XXVI. Veritas processionis Spiritus sancti a Filio, ideo maxime firmatur; quia fide certa sunt, ex quibus necessario sequitur",
+        "pt-BR": "Capítulo XXVI. A verdade da processão do Espírito Santo a partir do Filho confirma-se sobretudo porque são certas pela fé as coisas de que ela necessariamente se segue"
       }
     },
     {
       "id": "c27",
       "title": {
-        "la": "Caput XXVII. Si Spiritus sanctus a Filio non procederet, non esset cur Filius non procederet de Spiritu sancto"
+        "la": "Caput XXVII. Si Spiritus sanctus a Filio non procederet, non esset cur Filius non procederet de Spiritu sancto",
+        "pt-BR": "Capítulo XXVII. Se o Espírito Santo não procedesse do Filho, não haveria razão para que o Filho não procedesse do Espírito Santo"
       }
     },
     {
       "id": "c28",
       "title": {
-        "la": "Caput XXVIII. Communia et propria Patri, ac Filio, et Spiritui sancto"
+        "la": "Caput XXVIII. Communia et propria Patri, ac Filio, et Spiritui sancto",
+        "pt-BR": "Capítulo XXVIII. O que é comum e o que é próprio ao Pai, ao Filho e ao Espírito Santo"
       }
     },
     {
       "id": "c29",
       "title": {
-        "la": "Caput XXIX. In Deo per ea propria est personarum pluralitas; per communia vero, essentiae unitas"
+        "la": "Caput XXIX. In Deo per ea propria est personarum pluralitas; per communia vero, essentiae unitas",
+        "pt-BR": "Capítulo XXIX. Em Deus, pelo que é próprio, há pluralidade de pessoas; pelo que é comum, unidade de essência"
       }
     },
     {
       "id": "clausula",
       "title": {
-        "la": "Operis clausula"
+        "la": "Operis clausula",
+        "pt-BR": "Conclusão da obra"
       }
     }
   ]
