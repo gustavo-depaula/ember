@@ -18,13 +18,19 @@
   },
   "composed": "c. 1080-1085",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "anselm/de-veritate",
   "editions": {
     "la": {
       "editor": "J.-P. Migne (Patrologia Latina 158)",
       "year": 1853
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,85 +47,99 @@
     {
       "id": "praefatio",
       "title": {
-        "la": "Prologus"
+        "la": "Prologus",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "c01",
       "title": {
-        "la": "Caput I. Quod veritas non habeat principium, vel finem"
+        "la": "Caput I. Quod veritas non habeat principium, vel finem",
+        "pt-BR": "Capítulo I. Que a verdade não tem princípio nem fim"
       }
     },
     {
       "id": "c02",
       "title": {
-        "la": "Caput II. De veritate significationis, et de duabus veritatibus enuntiationis"
+        "la": "Caput II. De veritate significationis, et de duabus veritatibus enuntiationis",
+        "pt-BR": "Capítulo II. Da verdade da significação e das duas verdades do enunciado"
       }
     },
     {
       "id": "c03",
       "title": {
-        "la": "Caput III. De veritate opinionis"
+        "la": "Caput III. De veritate opinionis",
+        "pt-BR": "Capítulo III. Da verdade da opinião"
       }
     },
     {
       "id": "c04",
       "title": {
-        "la": "Caput IV. De veritate voluntatis"
+        "la": "Caput IV. De veritate voluntatis",
+        "pt-BR": "Capítulo IV. Da verdade da vontade"
       }
     },
     {
       "id": "c05",
       "title": {
-        "la": "Caput V. De actionis naturalis et non naturalis veritate"
+        "la": "Caput V. De actionis naturalis et non naturalis veritate",
+        "pt-BR": "Capítulo V. Da verdade da ação natural e da não natural"
       }
     },
     {
       "id": "c06",
       "title": {
-        "la": "Caput VI. De sensuum veritate, et quod falsitas, quae putatur esse in sensu, sit in opinione"
+        "la": "Caput VI. De sensuum veritate, et quod falsitas, quae putatur esse in sensu, sit in opinione",
+        "pt-BR": "Capítulo VI. Da verdade dos sentidos e de como a falsidade que se julga estar no sentido está na opinião"
       }
     },
     {
       "id": "c07",
       "title": {
-        "la": "Caput VII. De veritate essentiae rerum"
+        "la": "Caput VII. De veritate essentiae rerum",
+        "pt-BR": "Capítulo VII. Da verdade da essência das coisas"
       }
     },
     {
       "id": "c08",
       "title": {
-        "la": "Caput VIII. De diversis intellectibus, debere, et non debere; posse, et non posse"
+        "la": "Caput VIII. De diversis intellectibus, debere, et non debere; posse, et non posse",
+        "pt-BR": "Capítulo VIII. Dos diversos sentidos de dever e não dever, poder e não poder"
       }
     },
     {
       "id": "c09",
       "title": {
-        "la": "Caput IX. Quod omnis actio significet aut verum aut falsum"
+        "la": "Caput IX. Quod omnis actio significet aut verum aut falsum",
+        "pt-BR": "Capítulo IX. Que toda ação significa o verdadeiro ou o falso"
       }
     },
     {
       "id": "c10",
       "title": {
-        "la": "Caput X. De summa veritate"
+        "la": "Caput X. De summa veritate",
+        "pt-BR": "Capítulo X. Da verdade suprema"
       }
     },
     {
       "id": "c11",
       "title": {
-        "la": "Caput XI. De veritatis diffinitione"
+        "la": "Caput XI. De veritatis diffinitione",
+        "pt-BR": "Capítulo XI. Da definição da verdade"
       }
     },
     {
       "id": "c12",
       "title": {
-        "la": "Caput XII. De justitiae diffinitione"
+        "la": "Caput XII. De justitiae diffinitione",
+        "pt-BR": "Capítulo XII. Da definição da justiça"
       }
     },
     {
       "id": "c13",
       "title": {
-        "la": "Caput XIII. Quod una sit veritas in omnibus veris"
+        "la": "Caput XIII. Quod una sit veritas in omnibus veris",
+        "pt-BR": "Capítulo XIII. Que há uma só verdade em todas as coisas verdadeiras"
       }
     }
   ]
