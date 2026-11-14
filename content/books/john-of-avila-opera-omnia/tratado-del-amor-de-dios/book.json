@@ -14,17 +14,23 @@
   "description": {
     "es-ES": "Meditaciones de san Juan de Ávila sobre el amor de Dios para con los hombres, que se funda en el de Cristo, y sobre el beneficio de la Eucaristía: del amor de Dios como padre, madre y esposo; de las pruebas de su amor; de la gracia de Cristo, su amor en la cruz y su presencia en el sacramento. Edición modernizada del Apostolado Mariano (1995), sin la introducción del editor.",
     "en-US": "Meditations of St. John of Ávila on God's love for men, founded on the love of Christ, and on the gift of the Eucharist: God's love as father, mother and spouse; the proofs of that love; the grace of Christ, his love on the cross and his presence in the sacrament. Modernised Apostolado Mariano edition (1995), without the editor's introduction.",
-    "pt-BR": "Meditações de São João de Ávila sobre o amor de Deus pelos homens, fundado no amor de Cristo, e sobre o benefício da Eucaristia."
+    "pt-BR": "Meditações de São João de Ávila sobre o amor de Deus pelos homens, fundado no amor de Cristo, e sobre o benefício da Eucaristia: o amor de Deus como pai, mãe e esposo; as provas do seu amor; a graça de Cristo, o seu amor na cruz e a sua presença no sacramento. Edição modernizada do Apostolado Mariano (1995), sem a introdução do editor."
   },
   "composed": "c. 1550–1569",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "john-of-avila/tratado-del-amor-de-dios",
   "editions": {
     "es-ES": {
       "editor": "Apostolado Mariano (modernised booklet)",
       "year": 1995
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -49,73 +55,85 @@
     {
       "id": "c01",
       "title": {
-        "es-ES": "Dios nos ama como padre, madre y esposo"
+        "es-ES": "Dios nos ama como padre, madre y esposo",
+        "pt-BR": "Deus nos ama como pai, mãe e esposo"
       }
     },
     {
       "id": "c02",
       "title": {
-        "es-ES": "Pruebas de su amor"
+        "es-ES": "Pruebas de su amor",
+        "pt-BR": "Provas do seu amor"
       }
     },
     {
       "id": "c03",
       "title": {
-        "es-ES": "Fundamentos del amor de Cristo; largueza de Dios con Cristo"
+        "es-ES": "Fundamentos del amor de Cristo; largueza de Dios con Cristo",
+        "pt-BR": "Fundamentos do amor de Cristo; largueza de Deus para com Cristo"
       }
     },
     {
       "id": "c04",
       "title": {
-        "es-ES": "Nuestra predestinación en Cristo"
+        "es-ES": "Nuestra predestinación en Cristo",
+        "pt-BR": "Nossa predestinação em Cristo"
       }
     },
     {
       "id": "c05",
       "title": {
-        "es-ES": "Su amor al Padre reverbera en nosotros"
+        "es-ES": "Su amor al Padre reverbera en nosotros",
+        "pt-BR": "Seu amor ao Pai reverbera em nós"
       }
     },
     {
       "id": "c06",
       "title": {
-        "es-ES": "Grandeza del amor de Cristo"
+        "es-ES": "Grandeza del amor de Cristo",
+        "pt-BR": "Grandeza do amor de Cristo"
       }
     },
     {
       "id": "c07",
       "title": {
-        "es-ES": "El amor de los santos, superado por el amor de Cristo"
+        "es-ES": "El amor de los santos, superado por el amor de Cristo",
+        "pt-BR": "O amor dos santos, superado pelo amor de Cristo"
       }
     },
     {
       "id": "c08",
       "title": {
-        "es-ES": "La locura de la cruz"
+        "es-ES": "La locura de la cruz",
+        "pt-BR": "A loucura da cruz"
       }
     },
     {
       "id": "c09",
       "title": {
-        "es-ES": "Fundamento de nuestra esperanza"
+        "es-ES": "Fundamento de nuestra esperanza",
+        "pt-BR": "Fundamento da nossa esperança"
       }
     },
     {
       "id": "c10",
       "title": {
-        "es-ES": "Cristo continúa presente"
+        "es-ES": "Cristo continúa presente",
+        "pt-BR": "Cristo continua presente"
       }
     },
     {
       "id": "c11",
       "title": {
-        "es-ES": "Meditación del beneficio que nos hizo el Señor en el sacramento de la Eucaristía"
+        "es-ES": "Meditación del beneficio que nos hizo el Señor en el sacramento de la Eucaristía",
+        "pt-BR": "Meditação do benefício que nos fez o Senhor no sacramento da Eucaristia"
       }
     },
     {
       "id": "c12",
       "title": {
-        "es-ES": "Del modo que el Señor tuvo para hacernos este beneficio"
+        "es-ES": "Del modo que el Señor tuvo para hacernos este beneficio",
+        "pt-BR": "Do modo que o Senhor teve para nos fazer este benefício"
       }
     }
   ]
