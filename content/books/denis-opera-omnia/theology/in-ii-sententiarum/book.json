@@ -13,14 +13,14 @@
   },
   "description": {
     "la": "In librum II Sententiarum.",
-    "en-US": "A theological work of Denis the Carthusian. Uncorrected OCR text: not yet proofread against the scans.",
-    "pt-BR": "Uma obra teológica de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+    "en-US": "A theological work of Denis the Carthusian.",
+    "pt-BR": "Uma obra teológica de Dionísio, o Cartuxo."
   },
   "sources": [
     {
       "language": "la",
       "url": "https://archive.org/details/operaomniainunu21deni",
-      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXI, XXII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXI, XXII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
     }
   ],
   "languages": [
@@ -92,17 +92,17 @@
     {
       "id": "g004",
       "title": {
-        "la": "Distinctio 5",
-        "en-US": "Distinction 5",
-        "pt-BR": "Distinção 5"
+        "la": "Distinctio 4",
+        "en-US": "Distinction 4",
+        "pt-BR": "Distinção 4"
       },
       "children": [
         {
           "id": "c005",
           "title": {
-            "la": "Distinctio 5",
-            "en-US": "Distinction 5",
-            "pt-BR": "Distinção 5"
+            "la": "Distinctio 4",
+            "en-US": "Distinction 4",
+            "pt-BR": "Distinção 4"
           }
         }
       ]
@@ -110,17 +110,17 @@
     {
       "id": "g005",
       "title": {
-        "la": "Distinctio 4",
-        "en-US": "Distinction 4",
-        "pt-BR": "Distinção 4"
+        "la": "Distinctio 5",
+        "en-US": "Distinction 5",
+        "pt-BR": "Distinção 5"
       },
       "children": [
         {
           "id": "c006",
           "title": {
-            "la": "Distinctio 4",
-            "en-US": "Distinction 4",
-            "pt-BR": "Distinção 4"
+            "la": "Distinctio 5",
+            "en-US": "Distinction 5",
+            "pt-BR": "Distinção 5"
           }
         }
       ]
@@ -1374,13 +1374,21 @@
             {
               "id": "c102",
               "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c103",
+              "title": {
                 "la": "Quæstio 3",
                 "en-US": "Question 3",
                 "pt-BR": "Questão 3"
               }
             },
             {
-              "id": "c103",
+              "id": "c104",
               "title": {
                 "la": "Quæstio 4",
                 "en-US": "Question 4",
@@ -1388,7 +1396,7 @@
               }
             },
             {
-              "id": "c104",
+              "id": "c105",
               "title": {
                 "la": "Quæstio 5",
                 "en-US": "Question 5",
@@ -1396,7 +1404,7 @@
               }
             },
             {
-              "id": "c105",
+              "id": "c106",
               "title": {
                 "la": "Quæstio 6",
                 "en-US": "Question 6",
@@ -1404,7 +1412,7 @@
               }
             },
             {
-              "id": "c106",
+              "id": "c107",
               "title": {
                 "la": "Quæstio 7",
                 "en-US": "Question 7",
@@ -1412,7 +1420,7 @@
               }
             },
             {
-              "id": "c107",
+              "id": "c108",
               "title": {
                 "la": "Quæstio 8",
                 "en-US": "Question 8",
@@ -1430,7 +1438,7 @@
           },
           "children": [
             {
-              "id": "c108",
+              "id": "c109",
               "title": {
                 "la": "Distinctio 10",
                 "en-US": "Distinction 10",
@@ -1438,7 +1446,7 @@
               }
             },
             {
-              "id": "c109",
+              "id": "c110",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -1446,7 +1454,7 @@
               }
             },
             {
-              "id": "c110",
+              "id": "c111",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -1464,7 +1472,7 @@
           },
           "children": [
             {
-              "id": "c111",
+              "id": "c112",
               "title": {
                 "la": "Distinctio 11",
                 "en-US": "Distinction 11",
@@ -1472,7 +1480,7 @@
               }
             },
             {
-              "id": "c112",
+              "id": "c113",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -1480,7 +1488,7 @@
               }
             },
             {
-              "id": "c113",
+              "id": "c114",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -1488,7 +1496,7 @@
               }
             },
             {
-              "id": "c114",
+              "id": "c115",
               "title": {
                 "la": "Quæstio 3",
                 "en-US": "Question 3",
@@ -1496,7 +1504,7 @@
               }
             },
             {
-              "id": "c115",
+              "id": "c116",
               "title": {
                 "la": "Quæstio 4",
                 "en-US": "Question 4",
@@ -1504,7 +1512,7 @@
               }
             },
             {
-              "id": "c116",
+              "id": "c117",
               "title": {
                 "la": "Quæstio 5",
                 "en-US": "Question 5",
@@ -1512,7 +1520,7 @@
               }
             },
             {
-              "id": "c117",
+              "id": "c118",
               "title": {
                 "la": "Quæstio 6",
                 "en-US": "Question 6",
@@ -1540,7 +1548,7 @@
           },
           "children": [
             {
-              "id": "c118",
+              "id": "c119",
               "title": {
                 "la": "Distinctio 12",
                 "en-US": "Distinction 12",
@@ -1548,7 +1556,7 @@
               }
             },
             {
-              "id": "c119",
+              "id": "c120",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -1556,7 +1564,7 @@
               }
             },
             {
-              "id": "c120",
+              "id": "c121",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -1564,7 +1572,7 @@
               }
             },
             {
-              "id": "c121",
+              "id": "c122",
               "title": {
                 "la": "Quæstio 3",
                 "en-US": "Question 3",
@@ -1572,7 +1580,7 @@
               }
             },
             {
-              "id": "c122",
+              "id": "c123",
               "title": {
                 "la": "Quæstio 4",
                 "en-US": "Question 4",
@@ -1580,7 +1588,7 @@
               }
             },
             {
-              "id": "c123",
+              "id": "c124",
               "title": {
                 "la": "Quæstio 5",
                 "en-US": "Question 5",
@@ -1588,7 +1596,7 @@
               }
             },
             {
-              "id": "c124",
+              "id": "c125",
               "title": {
                 "la": "Quæstio 6",
                 "en-US": "Question 6",
@@ -1606,7 +1614,7 @@
           },
           "children": [
             {
-              "id": "c125",
+              "id": "c126",
               "title": {
                 "la": "Distinctio 13",
                 "en-US": "Distinction 13",
@@ -1614,7 +1622,7 @@
               }
             },
             {
-              "id": "c126",
+              "id": "c127",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -1622,7 +1630,7 @@
               }
             },
             {
-              "id": "c127",
+              "id": "c128",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -1640,7 +1648,7 @@
           },
           "children": [
             {
-              "id": "c128",
+              "id": "c129",
               "title": {
                 "la": "Distinctio 14",
                 "en-US": "Distinction 14",
@@ -1648,7 +1656,7 @@
               }
             },
             {
-              "id": "c129",
+              "id": "c130",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -1656,7 +1664,7 @@
               }
             },
             {
-              "id": "c130",
+              "id": "c131",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -1664,7 +1672,7 @@
               }
             },
             {
-              "id": "c131",
+              "id": "c132",
               "title": {
                 "la": "Quæstio 3",
                 "en-US": "Question 3",
@@ -1672,7 +1680,7 @@
               }
             },
             {
-              "id": "c132",
+              "id": "c133",
               "title": {
                 "la": "Quæstio 4",
                 "en-US": "Question 4",
@@ -1680,7 +1688,7 @@
               }
             },
             {
-              "id": "c133",
+              "id": "c134",
               "title": {
                 "la": "Quæstio 5",
                 "en-US": "Question 5",
@@ -1688,7 +1696,7 @@
               }
             },
             {
-              "id": "c134",
+              "id": "c135",
               "title": {
                 "la": "Quæstio 6",
                 "en-US": "Question 6",
@@ -1696,7 +1704,7 @@
               }
             },
             {
-              "id": "c135",
+              "id": "c136",
               "title": {
                 "la": "Quæstio 7",
                 "en-US": "Question 7",
@@ -1714,7 +1722,7 @@
           },
           "children": [
             {
-              "id": "c136",
+              "id": "c137",
               "title": {
                 "la": "Distinctio 15",
                 "en-US": "Distinction 15",
@@ -1722,7 +1730,7 @@
               }
             },
             {
-              "id": "c137",
+              "id": "c138",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -1730,7 +1738,7 @@
               }
             },
             {
-              "id": "c138",
+              "id": "c139",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -1738,7 +1746,7 @@
               }
             },
             {
-              "id": "c139",
+              "id": "c140",
               "title": {
                 "la": "Quæstio 3",
                 "en-US": "Question 3",
@@ -1746,7 +1754,7 @@
               }
             },
             {
-              "id": "c140",
+              "id": "c141",
               "title": {
                 "la": "Quæstio 4",
                 "en-US": "Question 4",
@@ -1754,7 +1762,7 @@
               }
             },
             {
-              "id": "c141",
+              "id": "c142",
               "title": {
                 "la": "Quæstio 5",
                 "en-US": "Question 5",
@@ -1772,7 +1780,7 @@
           },
           "children": [
             {
-              "id": "c142",
+              "id": "c143",
               "title": {
                 "la": "Distinctio 16",
                 "en-US": "Distinction 16",
@@ -1790,7 +1798,7 @@
           },
           "children": [
             {
-              "id": "c143",
+              "id": "c144",
               "title": {
                 "la": "Distinctio 17",
                 "en-US": "Distinction 17",
@@ -1798,7 +1806,7 @@
               }
             },
             {
-              "id": "c144",
+              "id": "c145",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -1806,7 +1814,7 @@
               }
             },
             {
-              "id": "c145",
+              "id": "c146",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -1814,7 +1822,7 @@
               }
             },
             {
-              "id": "c146",
+              "id": "c147",
               "title": {
                 "la": "Quæstio 3",
                 "en-US": "Question 3",
@@ -1822,7 +1830,7 @@
               }
             },
             {
-              "id": "c147",
+              "id": "c148",
               "title": {
                 "la": "Quæstio 4",
                 "en-US": "Question 4",
@@ -1830,7 +1838,7 @@
               }
             },
             {
-              "id": "c148",
+              "id": "c149",
               "title": {
                 "la": "Quæstio 5",
                 "en-US": "Question 5",
@@ -1848,7 +1856,7 @@
           },
           "children": [
             {
-              "id": "c149",
+              "id": "c150",
               "title": {
                 "la": "Distinctio 18",
                 "en-US": "Distinction 18",
@@ -1856,7 +1864,7 @@
               }
             },
             {
-              "id": "c150",
+              "id": "c151",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -1864,7 +1872,7 @@
               }
             },
             {
-              "id": "c151",
+              "id": "c152",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -1872,7 +1880,7 @@
               }
             },
             {
-              "id": "c152",
+              "id": "c153",
               "title": {
                 "la": "Quæstio 3",
                 "en-US": "Question 3",
@@ -1890,7 +1898,7 @@
           },
           "children": [
             {
-              "id": "c153",
+              "id": "c154",
               "title": {
                 "la": "Distinctio 19",
                 "en-US": "Distinction 19",
@@ -1898,7 +1906,7 @@
               }
             },
             {
-              "id": "c154",
+              "id": "c155",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -1906,7 +1914,7 @@
               }
             },
             {
-              "id": "c155",
+              "id": "c156",
               "title": {
                 "la": "Quæstio 3",
                 "en-US": "Question 3",
@@ -1924,7 +1932,7 @@
           },
           "children": [
             {
-              "id": "c156",
+              "id": "c157",
               "title": {
                 "la": "Distinctio 20",
                 "en-US": "Distinction 20",
@@ -1932,7 +1940,7 @@
               }
             },
             {
-              "id": "c157",
+              "id": "c158",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -1940,7 +1948,7 @@
               }
             },
             {
-              "id": "c158",
+              "id": "c159",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -1948,7 +1956,7 @@
               }
             },
             {
-              "id": "c159",
+              "id": "c160",
               "title": {
                 "la": "Quæstio 3",
                 "en-US": "Question 3",
@@ -1956,7 +1964,7 @@
               }
             },
             {
-              "id": "c160",
+              "id": "c161",
               "title": {
                 "la": "Quæstio 4",
                 "en-US": "Question 4",
@@ -1974,7 +1982,7 @@
           },
           "children": [
             {
-              "id": "c161",
+              "id": "c162",
               "title": {
                 "la": "Distinctio 21",
                 "en-US": "Distinction 21",
@@ -1982,7 +1990,7 @@
               }
             },
             {
-              "id": "c162",
+              "id": "c163",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -1990,7 +1998,7 @@
               }
             },
             {
-              "id": "c163",
+              "id": "c164",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -1998,7 +2006,7 @@
               }
             },
             {
-              "id": "c164",
+              "id": "c165",
               "title": {
                 "la": "Quæstio 3",
                 "en-US": "Question 3",
@@ -2006,7 +2014,7 @@
               }
             },
             {
-              "id": "c165",
+              "id": "c166",
               "title": {
                 "la": "Quæstio 4",
                 "en-US": "Question 4",
@@ -2014,7 +2022,7 @@
               }
             },
             {
-              "id": "c166",
+              "id": "c167",
               "title": {
                 "la": "Quæstio 5",
                 "en-US": "Question 5",
@@ -2022,7 +2030,7 @@
               }
             },
             {
-              "id": "c167",
+              "id": "c168",
               "title": {
                 "la": "Quæstio 6",
                 "en-US": "Question 6",
@@ -2040,7 +2048,7 @@
           },
           "children": [
             {
-              "id": "c168",
+              "id": "c169",
               "title": {
                 "la": "Distinctio 22",
                 "en-US": "Distinction 22",
@@ -2048,7 +2056,7 @@
               }
             },
             {
-              "id": "c169",
+              "id": "c170",
               "title": {
                 "la": "Quæstio unica",
                 "en-US": "Single question",
@@ -2066,7 +2074,7 @@
           },
           "children": [
             {
-              "id": "c170",
+              "id": "c171",
               "title": {
                 "la": "Distinctio 23",
                 "en-US": "Distinction 23",
@@ -2074,7 +2082,7 @@
               }
             },
             {
-              "id": "c171",
+              "id": "c172",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -2082,7 +2090,7 @@
               }
             },
             {
-              "id": "c172",
+              "id": "c173",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -2090,7 +2098,7 @@
               }
             },
             {
-              "id": "c173",
+              "id": "c174",
               "title": {
                 "la": "Quæstio 3",
                 "en-US": "Question 3",
@@ -2108,7 +2116,7 @@
           },
           "children": [
             {
-              "id": "c174",
+              "id": "c175",
               "title": {
                 "la": "Distinctio 24",
                 "en-US": "Distinction 24",
@@ -2116,7 +2124,7 @@
               }
             },
             {
-              "id": "c175",
+              "id": "c176",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -2124,7 +2132,7 @@
               }
             },
             {
-              "id": "c176",
+              "id": "c177",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -2132,7 +2140,7 @@
               }
             },
             {
-              "id": "c177",
+              "id": "c178",
               "title": {
                 "la": "Quæstio 3",
                 "en-US": "Question 3",
@@ -2140,7 +2148,7 @@
               }
             },
             {
-              "id": "c178",
+              "id": "c179",
               "title": {
                 "la": "Quæstio 4",
                 "en-US": "Question 4",
@@ -2148,7 +2156,7 @@
               }
             },
             {
-              "id": "c179",
+              "id": "c180",
               "title": {
                 "la": "Quæstio 5",
                 "en-US": "Question 5",
@@ -2156,7 +2164,7 @@
               }
             },
             {
-              "id": "c180",
+              "id": "c181",
               "title": {
                 "la": "Quæstio 6",
                 "en-US": "Question 6",
@@ -2164,7 +2172,7 @@
               }
             },
             {
-              "id": "c181",
+              "id": "c182",
               "title": {
                 "la": "Quæstio 7",
                 "en-US": "Question 7",
@@ -2172,7 +2180,7 @@
               }
             },
             {
-              "id": "c182",
+              "id": "c183",
               "title": {
                 "la": "Quæstio 8",
                 "en-US": "Question 8",
@@ -2190,7 +2198,7 @@
           },
           "children": [
             {
-              "id": "c183",
+              "id": "c184",
               "title": {
                 "la": "Distinctio 25",
                 "en-US": "Distinction 25",
@@ -2198,7 +2206,7 @@
               }
             },
             {
-              "id": "c184",
+              "id": "c185",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -2206,7 +2214,7 @@
               }
             },
             {
-              "id": "c185",
+              "id": "c186",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -2214,7 +2222,7 @@
               }
             },
             {
-              "id": "c186",
+              "id": "c187",
               "title": {
                 "la": "Quæstio 3",
                 "en-US": "Question 3",
@@ -2222,7 +2230,7 @@
               }
             },
             {
-              "id": "c187",
+              "id": "c188",
               "title": {
                 "la": "Quæstio 4",
                 "en-US": "Question 4",
@@ -2230,7 +2238,7 @@
               }
             },
             {
-              "id": "c188",
+              "id": "c189",
               "title": {
                 "la": "Quæstio 5",
                 "en-US": "Question 5",
@@ -2238,7 +2246,7 @@
               }
             },
             {
-              "id": "c189",
+              "id": "c190",
               "title": {
                 "la": "Quæstio 6",
                 "en-US": "Question 6",
@@ -2246,7 +2254,7 @@
               }
             },
             {
-              "id": "c190",
+              "id": "c191",
               "title": {
                 "la": "Quæstio 7",
                 "en-US": "Question 7",
@@ -2264,7 +2272,7 @@
           },
           "children": [
             {
-              "id": "c191",
+              "id": "c192",
               "title": {
                 "la": "Distinctio 26",
                 "en-US": "Distinction 26",
@@ -2272,7 +2280,7 @@
               }
             },
             {
-              "id": "c192",
+              "id": "c193",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -2280,7 +2288,7 @@
               }
             },
             {
-              "id": "c193",
+              "id": "c194",
               "title": {
                 "la": "Quæstio 3",
                 "en-US": "Question 3",
@@ -2288,7 +2296,7 @@
               }
             },
             {
-              "id": "c194",
+              "id": "c195",
               "title": {
                 "la": "Quæstio 4",
                 "en-US": "Question 4",
@@ -2296,7 +2304,7 @@
               }
             },
             {
-              "id": "c195",
+              "id": "c196",
               "title": {
                 "la": "Quæstio 5",
                 "en-US": "Question 5",
@@ -2314,7 +2322,7 @@
           },
           "children": [
             {
-              "id": "c196",
+              "id": "c197",
               "title": {
                 "la": "Distinctio 27",
                 "en-US": "Distinction 27",
@@ -2322,7 +2330,7 @@
               }
             },
             {
-              "id": "c197",
+              "id": "c198",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -2330,7 +2338,7 @@
               }
             },
             {
-              "id": "c198",
+              "id": "c199",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -2338,7 +2346,7 @@
               }
             },
             {
-              "id": "c199",
+              "id": "c200",
               "title": {
                 "la": "Quæstio 3",
                 "en-US": "Question 3",
@@ -2356,7 +2364,7 @@
           },
           "children": [
             {
-              "id": "c200",
+              "id": "c201",
               "title": {
                 "la": "Distinctio 28",
                 "en-US": "Distinction 28",
@@ -2364,7 +2372,7 @@
               }
             },
             {
-              "id": "c201",
+              "id": "c202",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -2372,7 +2380,7 @@
               }
             },
             {
-              "id": "c202",
+              "id": "c203",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -2380,7 +2388,7 @@
               }
             },
             {
-              "id": "c203",
+              "id": "c204",
               "title": {
                 "la": "Quæstio 3",
                 "en-US": "Question 3",
@@ -2398,7 +2406,7 @@
           },
           "children": [
             {
-              "id": "c204",
+              "id": "c205",
               "title": {
                 "la": "Distinctio 29",
                 "en-US": "Distinction 29",
@@ -2406,7 +2414,7 @@
               }
             },
             {
-              "id": "c205",
+              "id": "c206",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -2414,7 +2422,7 @@
               }
             },
             {
-              "id": "c206",
+              "id": "c207",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -2432,7 +2440,7 @@
           },
           "children": [
             {
-              "id": "c207",
+              "id": "c208",
               "title": {
                 "la": "Distinctio 30",
                 "en-US": "Distinction 30",
@@ -2440,7 +2448,7 @@
               }
             },
             {
-              "id": "c208",
+              "id": "c209",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -2448,7 +2456,7 @@
               }
             },
             {
-              "id": "c209",
+              "id": "c210",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -2456,7 +2464,7 @@
               }
             },
             {
-              "id": "c210",
+              "id": "c211",
               "title": {
                 "la": "Quæstio 3",
                 "en-US": "Question 3",
@@ -2464,7 +2472,7 @@
               }
             },
             {
-              "id": "c211",
+              "id": "c212",
               "title": {
                 "la": "Quæstio 4",
                 "en-US": "Question 4",
@@ -2472,7 +2480,7 @@
               }
             },
             {
-              "id": "c212",
+              "id": "c213",
               "title": {
                 "la": "Quæstio 5",
                 "en-US": "Question 5",
@@ -2480,7 +2488,7 @@
               }
             },
             {
-              "id": "c213",
+              "id": "c214",
               "title": {
                 "la": "Quæstio 6",
                 "en-US": "Question 6",
@@ -2498,7 +2506,7 @@
           },
           "children": [
             {
-              "id": "c214",
+              "id": "c215",
               "title": {
                 "la": "Distinctio 31",
                 "en-US": "Distinction 31",
@@ -2506,7 +2514,7 @@
               }
             },
             {
-              "id": "c215",
+              "id": "c216",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -2514,7 +2522,7 @@
               }
             },
             {
-              "id": "c216",
+              "id": "c217",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -2532,7 +2540,7 @@
           },
           "children": [
             {
-              "id": "c217",
+              "id": "c218",
               "title": {
                 "la": "Distinctio 32",
                 "en-US": "Distinction 32",
@@ -2540,7 +2548,7 @@
               }
             },
             {
-              "id": "c218",
+              "id": "c219",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -2548,7 +2556,7 @@
               }
             },
             {
-              "id": "c219",
+              "id": "c220",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -2556,7 +2564,7 @@
               }
             },
             {
-              "id": "c220",
+              "id": "c221",
               "title": {
                 "la": "Quæstio 3",
                 "en-US": "Question 3",
@@ -2564,7 +2572,7 @@
               }
             },
             {
-              "id": "c221",
+              "id": "c222",
               "title": {
                 "la": "Quæstio 4",
                 "en-US": "Question 4",
@@ -2572,7 +2580,7 @@
               }
             },
             {
-              "id": "c222",
+              "id": "c223",
               "title": {
                 "la": "Quæstio 5",
                 "en-US": "Question 5",
@@ -2580,7 +2588,7 @@
               }
             },
             {
-              "id": "c223",
+              "id": "c224",
               "title": {
                 "la": "Quæstio 6",
                 "en-US": "Question 6",
@@ -2598,7 +2606,7 @@
           },
           "children": [
             {
-              "id": "c224",
+              "id": "c225",
               "title": {
                 "la": "Distinctio 33",
                 "en-US": "Distinction 33",
@@ -2606,7 +2614,7 @@
               }
             },
             {
-              "id": "c225",
+              "id": "c226",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -2614,7 +2622,7 @@
               }
             },
             {
-              "id": "c226",
+              "id": "c227",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -2632,7 +2640,7 @@
           },
           "children": [
             {
-              "id": "c227",
+              "id": "c228",
               "title": {
                 "la": "Distinctio 34",
                 "en-US": "Distinction 34",
@@ -2640,7 +2648,7 @@
               }
             },
             {
-              "id": "c228",
+              "id": "c229",
               "title": {
                 "la": "Quæstio unica",
                 "en-US": "Single question",
@@ -2658,7 +2666,7 @@
           },
           "children": [
             {
-              "id": "c229",
+              "id": "c230",
               "title": {
                 "la": "Distinctio 35",
                 "en-US": "Distinction 35",
@@ -2666,7 +2674,7 @@
               }
             },
             {
-              "id": "c230",
+              "id": "c231",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -2674,7 +2682,7 @@
               }
             },
             {
-              "id": "c231",
+              "id": "c232",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -2682,7 +2690,7 @@
               }
             },
             {
-              "id": "c232",
+              "id": "c233",
               "title": {
                 "la": "Quæstio 3",
                 "en-US": "Question 3",
@@ -2690,7 +2698,7 @@
               }
             },
             {
-              "id": "c233",
+              "id": "c234",
               "title": {
                 "la": "Quæstio 4",
                 "en-US": "Question 4",
@@ -2698,7 +2706,7 @@
               }
             },
             {
-              "id": "c234",
+              "id": "c235",
               "title": {
                 "la": "Quæstio 5",
                 "en-US": "Question 5",
@@ -2716,7 +2724,7 @@
           },
           "children": [
             {
-              "id": "c235",
+              "id": "c236",
               "title": {
                 "la": "Distinctio 36",
                 "en-US": "Distinction 36",
@@ -2724,7 +2732,7 @@
               }
             },
             {
-              "id": "c236",
+              "id": "c237",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -2732,7 +2740,7 @@
               }
             },
             {
-              "id": "c237",
+              "id": "c238",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -2740,7 +2748,7 @@
               }
             },
             {
-              "id": "c238",
+              "id": "c239",
               "title": {
                 "la": "Quæstio 3",
                 "en-US": "Question 3",
@@ -2748,7 +2756,7 @@
               }
             },
             {
-              "id": "c239",
+              "id": "c240",
               "title": {
                 "la": "Quæstio 4",
                 "en-US": "Question 4",
@@ -2766,7 +2774,7 @@
           },
           "children": [
             {
-              "id": "c240",
+              "id": "c241",
               "title": {
                 "la": "Distinctio 37",
                 "en-US": "Distinction 37",
@@ -2774,7 +2782,7 @@
               }
             },
             {
-              "id": "c241",
+              "id": "c242",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -2782,7 +2790,7 @@
               }
             },
             {
-              "id": "c242",
+              "id": "c243",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -2800,7 +2808,7 @@
           },
           "children": [
             {
-              "id": "c243",
+              "id": "c244",
               "title": {
                 "la": "Distinctio 38",
                 "en-US": "Distinction 38",
@@ -2808,7 +2816,7 @@
               }
             },
             {
-              "id": "c244",
+              "id": "c245",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -2816,7 +2824,7 @@
               }
             },
             {
-              "id": "c245",
+              "id": "c246",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -2824,7 +2832,7 @@
               }
             },
             {
-              "id": "c246",
+              "id": "c247",
               "title": {
                 "la": "Quæstio 3",
                 "en-US": "Question 3",
@@ -2842,7 +2850,7 @@
           },
           "children": [
             {
-              "id": "c247",
+              "id": "c248",
               "title": {
                 "la": "Distinctio 39",
                 "en-US": "Distinction 39",
@@ -2850,7 +2858,7 @@
               }
             },
             {
-              "id": "c248",
+              "id": "c249",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -2858,7 +2866,7 @@
               }
             },
             {
-              "id": "c249",
+              "id": "c250",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -2866,7 +2874,7 @@
               }
             },
             {
-              "id": "c250",
+              "id": "c251",
               "title": {
                 "la": "Quæstio 3",
                 "en-US": "Question 3",
@@ -2884,7 +2892,7 @@
           },
           "children": [
             {
-              "id": "c251",
+              "id": "c252",
               "title": {
                 "la": "Distinctio 40",
                 "en-US": "Distinction 40",
@@ -2892,7 +2900,7 @@
               }
             },
             {
-              "id": "c252",
+              "id": "c253",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -2900,7 +2908,7 @@
               }
             },
             {
-              "id": "c253",
+              "id": "c254",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -2908,7 +2916,7 @@
               }
             },
             {
-              "id": "c254",
+              "id": "c255",
               "title": {
                 "la": "Quæstio 3",
                 "en-US": "Question 3",
@@ -2916,7 +2924,7 @@
               }
             },
             {
-              "id": "c255",
+              "id": "c256",
               "title": {
                 "la": "Quæstio 4",
                 "en-US": "Question 4",
@@ -2934,7 +2942,7 @@
           },
           "children": [
             {
-              "id": "c256",
+              "id": "c257",
               "title": {
                 "la": "Distinctio 41",
                 "en-US": "Distinction 41",
@@ -2942,7 +2950,7 @@
               }
             },
             {
-              "id": "c257",
+              "id": "c258",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -2950,7 +2958,7 @@
               }
             },
             {
-              "id": "c258",
+              "id": "c259",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -2968,7 +2976,7 @@
           },
           "children": [
             {
-              "id": "c259",
+              "id": "c260",
               "title": {
                 "la": "Distinctio 42",
                 "en-US": "Distinction 42",
@@ -2976,7 +2984,7 @@
               }
             },
             {
-              "id": "c260",
+              "id": "c261",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -2984,7 +2992,7 @@
               }
             },
             {
-              "id": "c261",
+              "id": "c262",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -2992,7 +3000,7 @@
               }
             },
             {
-              "id": "c262",
+              "id": "c263",
               "title": {
                 "la": "Quæstio 3",
                 "en-US": "Question 3",
@@ -3000,7 +3008,7 @@
               }
             },
             {
-              "id": "c263",
+              "id": "c264",
               "title": {
                 "la": "Quæstio 4",
                 "en-US": "Question 4",
@@ -3018,7 +3026,7 @@
           },
           "children": [
             {
-              "id": "c264",
+              "id": "c265",
               "title": {
                 "la": "Distinctio 43",
                 "en-US": "Distinction 43",
@@ -3026,7 +3034,7 @@
               }
             },
             {
-              "id": "c265",
+              "id": "c266",
               "title": {
                 "la": "Quæstio unica",
                 "en-US": "Single question",
@@ -3044,7 +3052,7 @@
           },
           "children": [
             {
-              "id": "c266",
+              "id": "c267",
               "title": {
                 "la": "Distinctio 44",
                 "en-US": "Distinction 44",
@@ -3052,7 +3060,7 @@
               }
             },
             {
-              "id": "c267",
+              "id": "c268",
               "title": {
                 "la": "Quæstio 1",
                 "en-US": "Question 1",
@@ -3060,7 +3068,7 @@
               }
             },
             {
-              "id": "c268",
+              "id": "c269",
               "title": {
                 "la": "Quæstio 2",
                 "en-US": "Question 2",
@@ -3068,7 +3076,7 @@
               }
             },
             {
-              "id": "c269",
+              "id": "c270",
               "title": {
                 "la": "Quæstio 3",
                 "en-US": "Question 3",
@@ -3076,7 +3084,7 @@
               }
             },
             {
-              "id": "c270",
+              "id": "c271",
               "title": {
                 "la": "Quæstio 4",
                 "en-US": "Question 4",
@@ -3084,7 +3092,7 @@
               }
             },
             {
-              "id": "c271",
+              "id": "c272",
               "title": {
                 "la": "Quæstio 5",
                 "en-US": "Question 5",
@@ -3095,8 +3103,5 @@
         }
       ]
     }
-  ],
-  "arrived": {
-    "la": "2026-10-21"
-  }
+  ]
 }
