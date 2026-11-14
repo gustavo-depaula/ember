@@ -18,13 +18,19 @@
   },
   "composed": "1539–1550",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "ignatius-of-loyola/documentos",
   "editions": {
     "es-ES": {
       "editor": "Documenta Catholica Omnia, from Monumenta Ignatiana Series III vol. I (Constitutiones) and Fontes narrativi I",
       "year": 1550
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,31 +47,36 @@
     {
       "id": "cinco-capitulos",
       "title": {
-        "es-ES": "Los Cinco Capítulos (1539)"
+        "es-ES": "Los Cinco Capítulos (1539)",
+        "pt-BR": "Os Cinco Capítulos (1539)"
       }
     },
     {
       "id": "deliberacion-primeros-padres",
       "title": {
-        "es-ES": "Deliberación de los primeros Padres (1539)"
+        "es-ES": "Deliberación de los primeros Padres (1539)",
+        "pt-BR": "Deliberação dos primeiros Padres (1539)"
       }
     },
     {
       "id": "forma-oblacion",
       "title": {
-        "es-ES": "Forma de la Compañía y oblación (1541)"
+        "es-ES": "Forma de la Compañía y oblación (1541)",
+        "pt-BR": "Forma da Companhia e oblação (1541)"
       }
     },
     {
       "id": "formula-1540",
       "title": {
-        "es-ES": "Fórmula del Instituto (1540)"
+        "es-ES": "Fórmula del Instituto (1540)",
+        "pt-BR": "Fórmula do Instituto (1540)"
       }
     },
     {
       "id": "formula-1550",
       "title": {
-        "es-ES": "Fórmula del Instituto (1550)"
+        "es-ES": "Fórmula del Instituto (1550)",
+        "pt-BR": "Fórmula do Instituto (1550)"
       }
     }
   ]
