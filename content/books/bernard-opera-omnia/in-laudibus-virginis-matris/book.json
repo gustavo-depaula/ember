@@ -14,12 +14,13 @@
   "description": {
     "la": "Homiliae IV super Missus est angelus Gabriel, quae De laudibus Virginis Matris inscribuntur.",
     "en-US": "Bernard’s four homilies on the Annunciation, Missus est angelus Gabriel, the work known as the Praises of the Virgin Mother (the Missus est), with Mabillon’s monitum and preface. The Latin is the Maurist text in Migne (Patrologia Latina 183, 1854). Latin only, from the Maurist text in Migne, a machine-corrected OCR. The English is the version of a priest of Mount Melleray (Dublin, 1921). The English is the version of a priest of Mount Melleray (Dublin, 1921). The English is the version of a priest of Mount Melleray (Dublin, 1921).",
-    "pt-BR": "As quatro homilias de Bernardo sobre a Anunciação, Missus est angelus Gabriel, conhecidas como Louvores da Virgem Mãe, com o monitum e o prefácio de Mabillon."
+    "pt-BR": "As quatro homilias de Bernardo sobre a Anunciação, Missus est angelus Gabriel, conhecidas como Louvores da Virgem Mãe, com a advertência de Mabillon e o prefácio do próprio Bernardo."
   },
   "composed": "c. 1120",
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "bernard/in-laudibus-virginis-matris",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "A priest of Mount Melleray (Ailbe Luddy)",
       "year": 1921
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -70,41 +76,47 @@
     {
       "id": "admonitio",
       "title": {
-        "la": "Admonitio Mabillonii"
+        "la": "Admonitio Mabillonii",
+        "pt-BR": "Advertência de Mabillon"
       }
     },
     {
       "id": "praefatio",
       "title": {
-        "la": "Praefatio"
+        "la": "Praefatio",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "h001",
       "title": {
         "la": "Homilia I. Missus est angelus Gabriel a Deo in civitatem Galilaeae, cui nomen Nazareth, ad Virginem desponsatam viro, cui nomen erat Joseph, de domo David: et nomen Virginis Maria (Luc. I, 26, 27)",
-        "en-US": "Homily 1"
+        "en-US": "Homily 1",
+        "pt-BR": "Homilia I. O anjo Gabriel foi enviado por Deus a uma cidade da Galileia, chamada Nazaré, a uma Virgem desposada com um homem chamado José, da casa de Davi; e o nome da Virgem era Maria (Lucas 1:26, 27)"
       }
     },
     {
       "id": "h002",
       "title": {
         "la": "Homilia II. In Luc. I, 26, 27",
-        "en-US": "Homily 2"
+        "en-US": "Homily 2",
+        "pt-BR": "Homilia II. Sobre Lucas 1:26, 27"
       }
     },
     {
       "id": "h003",
       "title": {
         "la": "Homilia III. In Luc. cap. I, 28-32",
-        "en-US": "Homily 3"
+        "en-US": "Homily 3",
+        "pt-BR": "Homilia III. Sobre Lucas 1:28–32"
       }
     },
     {
       "id": "h004",
       "title": {
         "la": "Homilia IV. In Luc. cap. I, V. 32-38",
-        "en-US": "Homily 4"
+        "en-US": "Homily 4",
+        "pt-BR": "Homilia IV. Sobre Lucas 1:32–38"
       }
     }
   ]

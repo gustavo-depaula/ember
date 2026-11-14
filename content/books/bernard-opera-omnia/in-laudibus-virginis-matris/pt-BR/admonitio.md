@@ -1,0 +1,3 @@
+# Advertência de Mabillon
+
+As quatro homilias seguintes, que constituem uma das primeiras obras de Bernardo, embora sejam geralmente intituladas “Sobre o *Missus est*”, devem, contudo, segundo a intenção do autor, isto é, do próprio Bernardo, intitular-se “Louvores da Virgem Mãe”. Assim ele mesmo as chama no presente Prefácio e na carta 18, a Pedro, cardeal-diácono: “Sei”, diz ele, “que escrevi quatro homilias em louvor da Virgem Mãe; pois é esse o título que têm”, etc. E novamente na carta 89, a Ogério: “Envio-te outro opúsculo que publiquei recentemente em louvor da Virgem Mãe”. Consulte-se ainda Bernardo no tratado sobre o Batismo, dirigido a Hugo, capítulo 5, onde explica certa afirmação desta primeira homilia e a defende de uma acusação caluniosa.
