@@ -18,12 +18,18 @@
   },
   "composed": "1227",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "anonymous-franciscan/sacrum-commercium",
   "editions": {
     "la": {
       "editor": "transcription of the critical text of Fontes Franciscani (1995) by M. Mastrorilli, Politecnico di Bari; edition not stated"
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -40,193 +46,225 @@
     {
       "id": "cap-001",
       "title": {
-        "la": "[Prologus]."
+        "la": "[Prologus].",
+        "pt-BR": "[Prólogo]."
       }
     },
     {
       "id": "cap-002",
       "title": {
-        "la": "Capitulum 1 - Beatus Franciscus interrogat de Paupertate."
+        "la": "Capitulum 1 - Beatus Franciscus interrogat de Paupertate.",
+        "pt-BR": "Capítulo 1 - O bem-aventurado Francisco pergunta pela Pobreza."
       }
     },
     {
       "id": "cap-003",
       "title": {
-        "la": "Capitulum 2 - Hic petit sibi indicari ubi Paupertas habitat."
+        "la": "Capitulum 2 - Hic petit sibi indicari ubi Paupertas habitat.",
+        "pt-BR": "Capítulo 2 - Aqui pede que lhe indiquem onde mora a Pobreza."
       }
     },
     {
       "id": "cap-004",
       "title": {
-        "la": "Capitulum 3 - Beatus Franciscus hortatur fratres."
+        "la": "Capitulum 3 - Beatus Franciscus hortatur fratres.",
+        "pt-BR": "Capítulo 3 - O bem-aventurado Francisco exorta os irmãos."
       }
     },
     {
       "id": "cap-005",
       "title": {
-        "la": "Capitulum 4 - Paupertas miratur de facilitate ascendentium."
+        "la": "Capitulum 4 - Paupertas miratur de facilitate ascendentium.",
+        "pt-BR": "Capítulo 4 - A Pobreza admira-se da facilidade dos que sobem."
       }
     },
     {
       "id": "cap-006",
       "title": {
-        "la": "Capitulum 5 - Beatus Franciscus laudat Paupertatem."
+        "la": "Capitulum 5 - Beatus Franciscus laudat Paupertatem.",
+        "pt-BR": "Capítulo 5 - O bem-aventurado Francisco louva a Pobreza."
       }
     },
     {
       "id": "cap-007",
       "title": {
-        "la": "Capitulum 6 - Dignitas Paupertatis."
+        "la": "Capitulum 6 - Dignitas Paupertatis.",
+        "pt-BR": "Capítulo 6 - A dignidade da Pobreza."
       }
     },
     {
       "id": "cap-008",
       "title": {
-        "la": "Capitulum 7 - Responsio domine Paupertatis."
+        "la": "Capitulum 7 - Responsio domine Paupertatis.",
+        "pt-BR": "Capítulo 7 - Resposta da Senhora Pobreza."
       }
     },
     {
       "id": "cap-009",
       "title": {
-        "la": "Capitulum 8 - Recordatio Paupertatis in paradiso."
+        "la": "Capitulum 8 - Recordatio Paupertatis in paradiso.",
+        "pt-BR": "Capítulo 8 - Recordação da Pobreza no paraíso."
       }
     },
     {
       "id": "cap-010",
       "title": {
-        "la": "Capitulum 9 - Testamentum Christi."
+        "la": "Capitulum 9 - Testamentum Christi.",
+        "pt-BR": "Capítulo 9 - O testamento de Cristo."
       }
     },
     {
       "id": "cap-011",
       "title": {
-        "la": "Capitulum 10 - De apostolis."
+        "la": "Capitulum 10 - De apostolis.",
+        "pt-BR": "Capítulo 10 - Dos apóstolos."
       }
     },
     {
       "id": "cap-012",
       "title": {
-        "la": "Capitulum 11 - De apostolorum sequacibus."
+        "la": "Capitulum 11 - De apostolorum sequacibus.",
+        "pt-BR": "Capítulo 11 - Dos seguidores dos apóstolos."
       }
     },
     {
       "id": "cap-013",
       "title": {
-        "la": "Capitulum 12 - De pace contraria Paupertati."
+        "la": "Capitulum 12 - De pace contraria Paupertati.",
+        "pt-BR": "Capítulo 12 - Da paz contrária à Pobreza."
       }
     },
     {
       "id": "cap-014",
       "title": {
-        "la": "Capitulum 13 - Persecutio soror Paupertatis."
+        "la": "Capitulum 13 - Persecutio soror Paupertatis.",
+        "pt-BR": "Capítulo 13 - A Perseguição, irmã da Pobreza."
       }
     },
     {
       "id": "cap-015",
       "title": {
-        "la": "Capitulum 14 - Laus bonorum pauperum."
+        "la": "Capitulum 14 - Laus bonorum pauperum.",
+        "pt-BR": "Capítulo 14 - Louvor dos bons pobres."
       }
     },
     {
       "id": "cap-016",
       "title": {
-        "la": "Capitulum 15 - De falsis pauperibus."
+        "la": "Capitulum 15 - De falsis pauperibus.",
+        "pt-BR": "Capítulo 15 - Dos falsos pobres."
       }
     },
     {
       "id": "cap-017",
       "title": {
-        "la": "Capitulum 16 - Avaritia."
+        "la": "Capitulum 16 - Avaritia.",
+        "pt-BR": "Capítulo 16 - A Avareza."
       }
     },
     {
       "id": "cap-018",
       "title": {
-        "la": "Capitulum 17 - Monet Paupertas falsos religiosos."
+        "la": "Capitulum 17 - Monet Paupertas falsos religiosos.",
+        "pt-BR": "Capítulo 17 - A Pobreza admoesta os falsos religiosos."
       }
     },
     {
       "id": "cap-019",
       "title": {
-        "la": "Capitulum 18 - Responsio eorum."
+        "la": "Capitulum 18 - Responsio eorum.",
+        "pt-BR": "Capítulo 18 - Resposta deles."
       }
     },
     {
       "id": "cap-020",
       "title": {
-        "la": "Capitulum 19 - Paupertas loquitur de bonis religiosis."
+        "la": "Capitulum 19 - Paupertas loquitur de bonis religiosis.",
+        "pt-BR": "Capítulo 19 - A Pobreza fala dos bons religiosos."
       }
     },
     {
       "id": "cap-021",
       "title": {
-        "la": "Capitulum 20 - Avaritia nomen Discretionis assumit."
+        "la": "Capitulum 20 - Avaritia nomen Discretionis assumit.",
+        "pt-BR": "Capítulo 20 - A Avareza toma o nome de Discrição."
       }
     },
     {
       "id": "cap-022",
       "title": {
-        "la": "Capitulum 21 - Avaritia se vocat Providentiam."
+        "la": "Capitulum 21 - Avaritia se vocat Providentiam.",
+        "pt-BR": "Capítulo 21 - A Avareza se chama Providência."
       }
     },
     {
       "id": "cap-023",
       "title": {
-        "la": "Capitulum 22 - Avaritia auxilium Acidie petit."
+        "la": "Capitulum 22 - Avaritia auxilium Acidie petit.",
+        "pt-BR": "Capítulo 22 - A Avareza pede o auxílio da Acídia."
       }
     },
     {
       "id": "cap-024",
       "title": {
-        "la": "Capitulum 23 - De religiosis per Acidiam victis."
+        "la": "Capitulum 23 - De religiosis per Acidiam victis.",
+        "pt-BR": "Capítulo 23 - Dos religiosos vencidos pela Acídia."
       }
     },
     {
       "id": "cap-025",
       "title": {
-        "la": "Capitulum 24 - Pauperes divites effecti persecuuntur Paupertatem."
+        "la": "Capitulum 24 - Pauperes divites effecti persecuuntur Paupertatem.",
+        "pt-BR": "Capítulo 24 - Os pobres que se tornaram ricos perseguem a Pobreza."
       }
     },
     {
       "id": "cap-026",
       "title": {
-        "la": "Capitulum 25 - Paupertas monet eos ad se redire."
+        "la": "Capitulum 25 - Paupertas monet eos ad se redire.",
+        "pt-BR": "Capítulo 25 - A Pobreza exorta-os a voltar para ela."
       }
     },
     {
       "id": "cap-027",
       "title": {
-        "la": "Capitulum 26 - Dominus loquitur ad Paupertatem."
+        "la": "Capitulum 26 - Dominus loquitur ad Paupertatem.",
+        "pt-BR": "Capítulo 26 - O Senhor fala à Pobreza."
       }
     },
     {
       "id": "cap-028",
       "title": {
-        "la": "Capitulum 27 - Domina Paupertas monet beatum Franciscum de profectu et defectu conversationis."
+        "la": "Capitulum 27 - Domina Paupertas monet beatum Franciscum de profectu et defectu conversationis.",
+        "pt-BR": "Capítulo 27 - A Senhora Pobreza adverte o bem-aventurado Francisco sobre o progresso e a decadência do modo de vida."
       }
     },
     {
       "id": "cap-029",
       "title": {
-        "la": "Capitulum 28 - Beatus Franciscus cum fratribus respondet Paupertati."
+        "la": "Capitulum 28 - Beatus Franciscus cum fratribus respondet Paupertati.",
+        "pt-BR": "Capítulo 28 - O bem-aventurado Francisco, com os irmãos, responde à Pobreza."
       }
     },
     {
       "id": "cap-030",
       "title": {
-        "la": "Capitulum 29 - Consensus Paupertatis."
+        "la": "Capitulum 29 - Consensus Paupertatis.",
+        "pt-BR": "Capítulo 29 - Consentimento da Pobreza."
       }
     },
     {
       "id": "cap-031",
       "title": {
-        "la": "Capitulum 30 - De convivio Paupertatis cum fratribus."
+        "la": "Capitulum 30 - De convivio Paupertatis cum fratribus.",
+        "pt-BR": "Capítulo 30 - O banquete da Pobreza com os irmãos."
       }
     },
     {
       "id": "cap-032",
       "title": {
-        "la": "Capitulum 31 - Domina Paupertas benedicit fratribus et monet eos perseverare in recepta gratia."
+        "la": "Capitulum 31 - Domina Paupertas benedicit fratribus et monet eos perseverare in recepta gratia.",
+        "pt-BR": "Capítulo 31 - A Senhora Pobreza abençoa os irmãos e os exorta a perseverar na graça recebida."
       }
     }
   ]
