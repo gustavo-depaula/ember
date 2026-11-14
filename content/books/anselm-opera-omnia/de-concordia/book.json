@@ -18,13 +18,19 @@
   },
   "composed": "1107-1108",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "anselm/de-concordia",
   "editions": {
     "la": {
       "editor": "J.-P. Migne (Patrologia Latina 158)",
       "year": 1853
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,55 +47,64 @@
     {
       "id": "prooemium",
       "title": {
-        "la": "Prooemium"
+        "la": "Prooemium",
+        "pt-BR": "Proêmio"
       }
     },
     {
       "id": "quaestio-1",
       "title": {
-        "la": "Quaestio I. De concordia praescientiae dei cum libero arbitrio"
+        "la": "Quaestio I. De concordia praescientiae dei cum libero arbitrio",
+        "pt-BR": "Questão I. Sobre a concordância da presciência de Deus com o livre-arbítrio"
       },
       "children": [
         {
           "id": "q1-c01",
           "title": {
-            "la": "Caput I. Non repugnat Dei praescientia libertati arbitrii; quia Deus praescit esse libere futurum, quod aliunde non est ex necessitate futurum"
+            "la": "Caput I. Non repugnat Dei praescientia libertati arbitrii; quia Deus praescit esse libere futurum, quod aliunde non est ex necessitate futurum",
+            "pt-BR": "Capítulo I. A presciência de Deus não contraria a liberdade do arbítrio, porque Deus sabe de antemão que há de ser livremente aquilo que, por outra parte, não há de ser por necessidade"
           }
         },
         {
           "id": "q1-c02",
           "title": {
-            "la": "Caput II. Quomodo necesse sit rem esse futuram quando Deus praescit eam esse futuram; et tamen voluntatem liberam manere: et de duplici necessitate"
+            "la": "Caput II. Quomodo necesse sit rem esse futuram quando Deus praescit eam esse futuram; et tamen voluntatem liberam manere: et de duplici necessitate",
+            "pt-BR": "Capítulo II. Como é necessário que uma coisa haja de ser quando Deus sabe de antemão que ela há de ser, e todavia a vontade permanece livre; e sobre a dupla necessidade"
           }
         },
         {
           "id": "q1-c03",
           "title": {
-            "la": "Caput III. Quod libere futura, non sint necessaria necessitate praecedente, sed sequente"
+            "la": "Caput III. Quod libere futura, non sint necessaria necessitate praecedente, sed sequente",
+            "pt-BR": "Capítulo III. As coisas que hão de acontecer livremente não são necessárias por necessidade precedente, mas por necessidade consequente"
           }
         },
         {
           "id": "q1-c04",
           "title": {
-            "la": "Caput IV. Si praescientia Dei necessitatem ingerit rebus quas praescit; ipse nihil facit ex libertate, sed omnia ex necessitate"
+            "la": "Caput IV. Si praescientia Dei necessitatem ingerit rebus quas praescit; ipse nihil facit ex libertate, sed omnia ex necessitate",
+            "pt-BR": "Capítulo IV. Se a presciência de Deus impõe necessidade às coisas que ele sabe de antemão, ele mesmo nada faz por liberdade, mas tudo por necessidade"
           }
         },
         {
           "id": "q1-c05",
           "title": {
-            "la": "Caput V. Quod multa in Scripturis dicuntur necessaria et immutabilia, per comparationem ad aeternitatem; quae in tempore sunt libera, et possent non esse"
+            "la": "Caput V. Quod multa in Scripturis dicuntur necessaria et immutabilia, per comparationem ad aeternitatem; quae in tempore sunt libera, et possent non esse",
+            "pt-BR": "Capítulo V. Muitas coisas são ditas nas Escrituras necessárias e imutáveis em relação à eternidade, as quais no tempo são livres e poderiam não ser"
           }
         },
         {
           "id": "q1-c06",
           "title": {
-            "la": "Caput VI. De libertate ad ea quae sunt salutis hic quaeritur ubi, et quae sit"
+            "la": "Caput VI. De libertate ad ea quae sunt salutis hic quaeritur ubi, et quae sit",
+            "pt-BR": "Capítulo VI. Investiga-se aqui onde está e qual é a liberdade para as coisas que dizem respeito à salvação"
           }
         },
         {
           "id": "q1-c07",
           "title": {
-            "la": "Caput VII. An Dei praescientia sit a rebus: et an res sint ab ejus scientia. Et quomodo mala sint a Deo"
+            "la": "Caput VII. An Dei praescientia sit a rebus: et an res sint ab ejus scientia. Et quomodo mala sint a Deo",
+            "pt-BR": "Capítulo VII. Se a presciência de Deus provém das coisas, e se as coisas provêm de sua ciência; e como os males provêm de Deus"
           }
         }
       ]
@@ -97,31 +112,36 @@
     {
       "id": "quaestio-2",
       "title": {
-        "la": "Quaestio II. De concordia praedestinationis cum libero arbitrio"
+        "la": "Quaestio II. De concordia praedestinationis cum libero arbitrio",
+        "pt-BR": "Questão II. Sobre a concordância da predestinação com o livre-arbítrio"
       },
       "children": [
         {
           "id": "q2-prooemium",
           "title": {
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Proêmio"
           }
         },
         {
           "id": "q2-c01",
           "title": {
-            "la": "Caput I. Ratio dubitandi circa libertatis et praedestinationis concordiam"
+            "la": "Caput I. Ratio dubitandi circa libertatis et praedestinationis concordiam",
+            "pt-BR": "Capítulo I. Razão para duvidar acerca da concordância entre a liberdade e a predestinação"
           }
         },
         {
           "id": "q2-c02",
           "title": {
-            "la": "Caput II. Praedestinatio non solum bonorum est, sed et malorum potest dici"
+            "la": "Caput II. Praedestinatio non solum bonorum est, sed et malorum potest dici",
+            "pt-BR": "Capítulo II. A predestinação não é só dos bens, mas pode dizer-se também dos males"
           }
         },
         {
           "id": "q2-c03",
           "title": {
-            "la": "Caput III. Praedestinatio cum libertate conciliatur eodem modo quo praescientia"
+            "la": "Caput III. Praedestinatio cum libertate conciliatur eodem modo quo praescientia",
+            "pt-BR": "Capítulo III. A predestinação concilia-se com a liberdade do mesmo modo que a presciência"
           }
         }
       ]
@@ -129,97 +149,113 @@
     {
       "id": "quaestio-3",
       "title": {
-        "la": "Quaestio III. De concordia gratiae et liberi arbitrii"
+        "la": "Quaestio III. De concordia gratiae et liberi arbitrii",
+        "pt-BR": "Questão III. Sobre a concordância da graça e do livre-arbítrio"
       },
       "children": [
         {
           "id": "q3-prooemium",
           "title": {
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Proêmio"
           }
         },
         {
           "id": "q3-c01",
           "title": {
-            "la": "Caput I. Proponitur difficultas ex Scripturis circa gratiae et libertatis concordiam"
+            "la": "Caput I. Proponitur difficultas ex Scripturis circa gratiae et libertatis concordiam",
+            "pt-BR": "Capítulo I. Propõe-se, a partir das Escrituras, a dificuldade acerca da concordância entre a graça e a liberdade"
           }
         },
         {
           "id": "q3-c02",
           "title": {
-            "la": "Caput II. De libertate arbitrii, sine qua salutem nemo meretur; et de gratia, sine qua nullus salvatur homo, hic agitur"
+            "la": "Caput II. De libertate arbitrii, sine qua salutem nemo meretur; et de gratia, sine qua nullus salvatur homo, hic agitur",
+            "pt-BR": "Capítulo II. Trata-se aqui da liberdade do arbítrio, sem a qual ninguém merece a salvação, e da graça, sem a qual nenhum homem se salva"
           }
         },
         {
           "id": "q3-c03",
           "title": {
-            "la": "Caput III. Rectitudo, qua salutem consequimur, nonnisi per gratiam obtinetur"
+            "la": "Caput III. Rectitudo, qua salutem consequimur, nonnisi per gratiam obtinetur",
+            "pt-BR": "Capítulo III. A retidão, pela qual alcançamos a salvação, só se obtém pela graça"
           }
         },
         {
           "id": "q3-c04",
           "title": {
-            "la": "Caput IV. Eadem rectitudo nonnisi per gratiam conservatur"
+            "la": "Caput IV. Eadem rectitudo nonnisi per gratiam conservatur",
+            "pt-BR": "Capítulo IV. Essa mesma retidão só se conserva pela graça"
           }
         },
         {
           "id": "q3-c05",
           "title": {
-            "la": "Caput V. Elucidantur Scripturae, quae soli gratiae, et quae soli libertati salutem tribuere videntur"
+            "la": "Caput V. Elucidantur Scripturae, quae soli gratiae, et quae soli libertati salutem tribuere videntur",
+            "pt-BR": "Capítulo V. Esclarecem-se as passagens da Escritura que parecem atribuir a salvação só à graça e as que parecem atribuí-la só à liberdade"
           }
         },
         {
           "id": "q3-c06",
           "title": {
-            "la": "Caput VI. Quomodo non sit supervacaneum homines ad fidem, et ad ea quae fides exigit, invitare"
+            "la": "Caput VI. Quomodo non sit supervacaneum homines ad fidem, et ad ea quae fides exigit, invitare",
+            "pt-BR": "Capítulo VI. Como não é supérfluo convidar os homens à fé e ao que a fé exige"
           }
         },
         {
           "id": "q3-c07",
           "title": {
-            "la": "Caput VII. Quod juste arguantur qui invitati reluctantur; quamvis sequi invitationem nequeant absque gratia"
+            "la": "Caput VII. Quod juste arguantur qui invitati reluctantur; quamvis sequi invitationem nequeant absque gratia",
+            "pt-BR": "Capítulo VII. São repreendidos com justiça os que, convidados, resistem, embora não possam seguir o convite sem a graça"
           }
         },
         {
           "id": "q3-c08",
           "title": {
-            "la": "Caput VIII. Quod omnis culpa et culpabilis impotentia in renatis per baptismum deleantur"
+            "la": "Caput VIII. Quod omnis culpa et culpabilis impotentia in renatis per baptismum deleantur",
+            "pt-BR": "Capítulo VIII. Toda culpa e toda incapacidade culpável são apagadas nos que renasceram pelo batismo"
           }
         },
         {
           "id": "q3-c09",
           "title": {
-            "la": "Caput IX. Cur peccato deleto, effectus ejus remaneat: et cur baptizati, atque martyres, non statim incorruptibiles fiant"
+            "la": "Caput IX. Cur peccato deleto, effectus ejus remaneat: et cur baptizati, atque martyres, non statim incorruptibiles fiant",
+            "pt-BR": "Capítulo IX. Por que, apagado o pecado, permanece o seu efeito; e por que os batizados e os mártires não se tornam imediatamente incorruptíveis"
           }
         },
         {
           "id": "q3-c10",
           "title": {
-            "la": "Caput X. Quod si qui nitentes non proficiunt aut deficiunt, hoc non ex impossibilitate fiat"
+            "la": "Caput X. Quod si qui nitentes non proficiunt aut deficiunt, hoc non ex impossibilitate fiat",
+            "pt-BR": "Capítulo X. Se alguns, esforçando-se, não progridem ou decaem, isso não acontece por impossibilidade"
           }
         },
         {
           "id": "q3-c11",
           "title": {
-            "la": "Caput XI. Quo sensu in homine justo vel injusto sit voluntas recte vivendi"
+            "la": "Caput XI. Quo sensu in homine justo vel injusto sit voluntas recte vivendi",
+            "pt-BR": "Capítulo XI. Em que sentido há, no homem justo ou injusto, a vontade de viver retamente"
           }
         },
         {
           "id": "q3-c12",
           "title": {
-            "la": "Caput XII. Quod ex voluntate rectitudinis aut commodi procedat omne meritum hominis, sive ad salutem, sive ad damnationem"
+            "la": "Caput XII. Quod ex voluntate rectitudinis aut commodi procedat omne meritum hominis, sive ad salutem, sive ad damnationem",
+            "pt-BR": "Capítulo XII. Todo mérito do homem, seja para a salvação, seja para a condenação, procede da vontade da retidão ou da vantagem"
           }
         },
         {
           "id": "q3-c13",
           "title": {
-            "la": "Caput XIII. Unde est tam vitiosa et tam prona ad malum voluntas"
+            "la": "Caput XIII. Unde est tam vitiosa et tam prona ad malum voluntas",
+            "pt-BR": "Capítulo XIII. De onde vem uma vontade tão viciosa e tão inclinada ao mal"
           }
         },
         {
           "id": "q3-c14",
           "title": {
-            "la": "Caput XIV. Recapitulatio, et conclusio operis"
+            "la": "Caput XIV. Recapitulatio, et conclusio operis",
+            "pt-BR": "Capítulo XIV. Recapitulação e conclusão da obra"
           }
         }
       ]
