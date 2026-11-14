@@ -18,13 +18,19 @@
   },
   "composed": "c. 1140",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "bernard/de-conversione-ad-clericos",
   "editions": {
     "la": {
       "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182)",
       "year": 1854
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,139 +47,162 @@
     {
       "id": "admonitio",
       "title": {
-        "la": "Admonitio Mabillonii"
+        "la": "Admonitio Mabillonii",
+        "pt-BR": "Advertência de Mabillon"
       }
     },
     {
       "id": "c01",
       "title": {
-        "la": "Caput I. Quod nemo converti ad Dominum, nisi Dei voluntate praeventus et ejus voce interius clamante, possit"
+        "la": "Caput I. Quod nemo converti ad Dominum, nisi Dei voluntate praeventus et ejus voce interius clamante, possit",
+        "pt-BR": "Capítulo I. Que ninguém pode converter-se ao Senhor se não for prevenido pela vontade de Deus e pela sua voz que clama interiormente"
       }
     },
     {
       "id": "c02",
       "title": {
-        "la": "Caput II. Quod ipsa vox Domini omnibus se offerat, et animam sibi ipsi nolentem repraesentet"
+        "la": "Caput II. Quod ipsa vox Domini omnibus se offerat, et animam sibi ipsi nolentem repraesentet",
+        "pt-BR": "Capítulo II. Que a própria voz do Senhor se oferece a todos e põe a alma, contra a vontade dela, diante de si mesma"
       }
     },
     {
       "id": "c03",
       "title": {
-        "la": "Caput III. Quod per vocem Dei, animae ratio, quasi in libro, omnia mala deprehendere, reprehendere, dijudicare et discernere valeat"
+        "la": "Caput III. Quod per vocem Dei, animae ratio, quasi in libro, omnia mala deprehendere, reprehendere, dijudicare et discernere valeat",
+        "pt-BR": "Capítulo III. Que pela voz de Deus a razão da alma pode, como num livro, surpreender, repreender, julgar e discernir todos os males"
       }
     },
     {
       "id": "c04",
       "title": {
-        "la": "Caput IV. Quod diligens iniquitatem, odit animam, et carnem suam: et de poenitentia infructuosa post mortem"
+        "la": "Caput IV. Quod diligens iniquitatem, odit animam, et carnem suam: et de poenitentia infructuosa post mortem",
+        "pt-BR": "Capítulo IV. Que quem ama a iniquidade odeia a sua alma e a sua carne; e da penitência infrutuosa depois da morte"
       }
     },
     {
       "id": "c05",
       "title": {
-        "la": "Caput V. Quod vermis conscientiae in praesenti sentiri ac suffocari debet, non in immortalitatem foveri ac nutriri"
+        "la": "Caput V. Quod vermis conscientiae in praesenti sentiri ac suffocari debet, non in immortalitatem foveri ac nutriri",
+        "pt-BR": "Capítulo V. Que o verme da consciência deve ser sentido e sufocado no presente, não acalentado e nutrido para a imortalidade"
       }
     },
     {
       "id": "c06",
       "title": {
-        "la": "Caput VI. Difficultatem conversionis, et luctam resipiscere parantis, graphice repraesentat"
+        "la": "Caput VI. Difficultatem conversionis, et luctam resipiscere parantis, graphice repraesentat",
+        "pt-BR": "Capítulo VI. Representa vivamente a dificuldade da conversão e a luta de quem se dispõe a arrepender-se"
       }
     },
     {
       "id": "c07",
       "title": {
-        "la": "Caput VII. Respiratio consolationis pauperibus spiritu seu animae miseriam agnoscenti"
+        "la": "Caput VII. Respiratio consolationis pauperibus spiritu seu animae miseriam agnoscenti",
+        "pt-BR": "Capítulo VII. Respiro de consolação para os pobres de espírito, isto é, para a alma que reconhece a sua miséria"
       }
     },
     {
       "id": "c08",
       "title": {
-        "la": "Caput VIII. Carnales voluptates, et divitias esse omnino vanas, fallaces, et momentaneas"
+        "la": "Caput VIII. Carnales voluptates, et divitias esse omnino vanas, fallaces, et momentaneas",
+        "pt-BR": "Capítulo VIII. Que os prazeres carnais e as riquezas são inteiramente vãos, enganosos e momentâneos"
       }
     },
     {
       "id": "c09",
       "title": {
-        "la": "Caput IX. Quod impossibile sit peccantem latere"
+        "la": "Caput IX. Quod impossibile sit peccantem latere",
+        "pt-BR": "Capítulo IX. Que é impossível ao pecador ficar oculto"
       }
     },
     {
       "id": "c10",
       "title": {
-        "la": "Caput X. Non solum declinando a malo, sed et faciendo bonum salutem obtineri"
+        "la": "Caput X. Non solum declinando a malo, sed et faciendo bonum salutem obtineri",
+        "pt-BR": "Capítulo X. Que a salvação se obtém não só desviando-se do mal, mas também fazendo o bem"
       }
     },
     {
       "id": "c11",
       "title": {
-        "la": "Caput XI. Converti molientes acrius a solitis vitiis tentari, ipsis vero luctum esse necessarium"
+        "la": "Caput XI. Converti molientes acrius a solitis vitiis tentari, ipsis vero luctum esse necessarium",
+        "pt-BR": "Capítulo XI. Que os que se esforçam por converter-se são tentados mais duramente pelos vícios costumeiros, e que o pranto lhes é necessário"
       }
     },
     {
       "id": "c12",
       "title": {
-        "la": "Caput XII. Quomodo voluntas suaviter inducenda ad amandum et desiderandum coelestia"
+        "la": "Caput XII. Quomodo voluntas suaviter inducenda ad amandum et desiderandum coelestia",
+        "pt-BR": "Capítulo XII. Como a vontade deve ser suavemente induzida a amar e desejar as coisas celestes"
       }
     },
     {
       "id": "c13",
       "title": {
-        "la": "Caput XIII. Conversos mira suavitate ac deliciis vitae piae ac spiritualis refici"
+        "la": "Caput XIII. Conversos mira suavitate ac deliciis vitae piae ac spiritualis refici",
+        "pt-BR": "Capítulo XIII. Que os convertidos são restaurados por uma suavidade e delícias admiráveis da vida piedosa e espiritual"
       }
     },
     {
       "id": "c14",
       "title": {
-        "la": "Caput XIV. In terrenis non esse ullam sotietatem, nisi fastidio conjunctam: at coelestium desideria experiendo semper crescere"
+        "la": "Caput XIV. In terrenis non esse ullam sotietatem, nisi fastidio conjunctam: at coelestium desideria experiendo semper crescere",
+        "pt-BR": "Capítulo XIV. Que nas coisas terrenas não há saciedade que não venha unida ao fastio, mas que os desejos das coisas celestes crescem sempre com a experiência"
       }
     },
     {
       "id": "c15",
       "title": {
-        "la": "Caput XV. Purganda memoria a peccatorum sordibus fiducia divinae misericordiae"
+        "la": "Caput XV. Purganda memoria a peccatorum sordibus fiducia divinae misericordiae",
+        "pt-BR": "Capítulo XV. Que a memória deve ser purificada das imundícies dos pecados pela confiança na misericórdia divina"
       }
     },
     {
       "id": "c16",
       "title": {
-        "la": "Caput XVI. Misericordiam divinam obtineri, miserendo sibi ipsi primum; deinde proximo"
+        "la": "Caput XVI. Misericordiam divinam obtineri, miserendo sibi ipsi primum; deinde proximo",
+        "pt-BR": "Capítulo XVI. Que a misericórdia divina se obtém tendo misericórdia primeiro de si mesmo, depois do próximo"
       }
     },
     {
       "id": "c17",
       "title": {
-        "la": "Caput XVII. Oculos cordis continuo mundandos, ut Deus videri possit"
+        "la": "Caput XVII. Oculos cordis continuo mundandos, ut Deus videri possit",
+        "pt-BR": "Capítulo XVII. Que os olhos do coração devem ser purificados continuamente para que Deus possa ser visto"
       }
     },
     {
       "id": "c18",
       "title": {
-        "la": "Caput XVIII. Pacificos merito beatificari nomine filiorum Dei"
+        "la": "Caput XVIII. Pacificos merito beatificari nomine filiorum Dei",
+        "pt-BR": "Capítulo XVIII. Que os pacíficos são com razão declarados bem-aventurados com o nome de filhos de Deus"
       }
     },
     {
       "id": "c19",
       "title": {
-        "la": "Caput XIX. Graviter perstringit ambitiosos, qui temere et indigne sacras Ecclesiae functiones usurpant"
+        "la": "Caput XIX. Graviter perstringit ambitiosos, qui temere et indigne sacras Ecclesiae functiones usurpant",
+        "pt-BR": "Capítulo XIX. Censura gravemente os ambiciosos que usurpam temerária e indignamente as sagradas funções da Igreja"
       }
     },
     {
       "id": "c20",
       "title": {
-        "la": "Caput XX. Arguit incontinentes, qui sacros Ordines impudenter temerare non verentur"
+        "la": "Caput XX. Arguit incontinentes, qui sacros Ordines impudenter temerare non verentur",
+        "pt-BR": "Capítulo XX. Repreende os incontinentes que não temem profanar impudentemente as sagradas Ordens"
       }
     },
     {
       "id": "c21",
       "title": {
-        "la": "Caput XXI. Serio cohortatur ad poenitentiam"
+        "la": "Caput XXI. Serio cohortatur ad poenitentiam",
+        "pt-BR": "Capítulo XXI. Exorta seriamente à penitência"
       }
     },
     {
       "id": "c22",
       "title": {
-        "la": "Caput XXII. Bonorum pastorum est, docere; nec fugere persecutiones propter justitiam"
+        "la": "Caput XXII. Bonorum pastorum est, docere; nec fugere persecutiones propter justitiam",
+        "pt-BR": "Capítulo XXII. Que é próprio dos bons pastores ensinar, e não fugir das perseguições por causa da justiça"
       }
     }
   ]
