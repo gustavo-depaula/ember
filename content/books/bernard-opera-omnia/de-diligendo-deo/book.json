@@ -19,7 +19,8 @@
   "composed": "c. 1126-1141",
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "bernard/de-diligendo-deo",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "Marianne Caroline and Coventry Patmore",
       "year": 1881
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -54,114 +60,131 @@
     {
       "id": "admonitio",
       "title": {
-        "la": "Admonitio Mabillonii"
+        "la": "Admonitio Mabillonii",
+        "pt-BR": "Advertência de Mabillon"
       }
     },
     {
       "id": "praefatio",
       "title": {
-        "la": "Praefatio"
+        "la": "Praefatio",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "c01",
       "title": {
         "la": "Caput I. Quare et quomodo diligendus sit Deus",
-        "en-US": "Chapter I. Why we ought to love God, and how we ought to love Him"
+        "en-US": "Chapter I. Why we ought to love God, and how we ought to love Him",
+        "pt-BR": "Capítulo I. Por que e como Deus deve ser amado"
       }
     },
     {
       "id": "c02",
       "title": {
         "la": "Caput II. Deus quantopere ab homine mereatur amari, ob bona tum corporis, tum animae. Quomodo ea agnoscenda et habenda citra donantis injuriam",
-        "en-US": "Chapter II. That God has a right to the love of man because of His gifts to soul and body. How these should be confessed, and not turned against Him who gave them"
+        "en-US": "Chapter II. That God has a right to the love of man because of His gifts to soul and body. How these should be confessed, and not turned against Him who gave them",
+        "pt-BR": "Capítulo II. Quanto Deus merece ser amado pelo homem, pelos bens tanto do corpo como da alma. Como devem ser reconhecidos e possuídos sem injúria ao doador"
       }
     },
     {
       "id": "c03",
       "title": {
         "la": "Caput III. Christiani quantos habeant stimulos amandi Deum prae infidelibus",
-        "en-US": "Chapter III. What motives Christians have, more than infidels, to love God"
+        "en-US": "Chapter III. What motives Christians have, more than infidels, to love God",
+        "pt-BR": "Capítulo III. Quantos estímulos têm os cristãos, mais que os infiéis, para amar a Deus"
       }
     },
     {
       "id": "c04",
       "title": {
         "la": "Caput IV. Quinam ex Dei recordatione consolationem capiant: quive magis ad ejus amorem idonei",
-        "en-US": "Chapter IV. For whom there is comfort in the thought of God; and who are fittest to feel love for Him"
+        "en-US": "Chapter IV. For whom there is comfort in the thought of God; and who are fittest to feel love for Him",
+        "pt-BR": "Capítulo IV. Quem encontra consolação na lembrança de Deus, e quem é mais apto para o seu amor"
       }
     },
     {
       "id": "c05",
       "title": {
         "la": "Caput V. Christiano quantum incumbat debitum amoris",
-        "en-US": "Chapter V. Of the obligation to love God, especially for Christians"
+        "en-US": "Chapter V. Of the obligation to love God, especially for Christians",
+        "pt-BR": "Capítulo V. Quão grande é a dívida de amor que incumbe ao cristão"
       }
     },
     {
       "id": "c06",
       "title": {
         "la": "Caput VI. Brevis anacephalaeosis et summa praedictorum",
-        "en-US": "Chapter VI. A summary of what has hitherto been said"
+        "en-US": "Chapter VI. A summary of what has hitherto been said",
+        "pt-BR": "Capítulo VI. Breve recapitulação e resumo do que foi dito"
       }
     },
     {
       "id": "c07",
       "title": {
         "la": "Caput VII. Non sine fructu et praemio diligi Deum; et terrenis non satiari humani cordis appetitum",
-        "en-US": "Chapter VII. The rewards and advantage of the love of God. The heart of man is not to be satisfied by earthly things"
+        "en-US": "Chapter VII. The rewards and advantage of the love of God. The heart of man is not to be satisfied by earthly things",
+        "pt-BR": "Capítulo VII. Deus não é amado sem fruto e sem prêmio; e o apetite do coração humano não se sacia com as coisas terrenas"
       }
     },
     {
       "id": "c08",
       "title": {
         "la": "Caput VIII. De primo gradu amoris, quo diligit homo se propter se",
-        "en-US": "Chapter VIII. We begin by the love of self, this being for us the first degree of love"
+        "en-US": "Chapter VIII. We begin by the love of self, this being for us the first degree of love",
+        "pt-BR": "Capítulo VIII. Do primeiro grau de amor, pelo qual o homem ama a si mesmo por causa de si"
       }
     },
     {
       "id": "c09",
       "title": {
         "la": "Caput IX. De secundo et tertio gradu amoris",
-        "en-US": "Chapter IX. Of the second and third degrees of love"
+        "en-US": "Chapter IX. Of the second and third degrees of love",
+        "pt-BR": "Capítulo IX. Do segundo e do terceiro grau de amor"
       }
     },
     {
       "id": "c10",
       "title": {
         "la": "Caput X. De quarto gradu amoris cum nec seipsum diligit homo nisi propter Deum",
-        "en-US": "Chapter X. The fourth degree of love is to love self only for God"
+        "en-US": "Chapter X. The fourth degree of love is to love self only for God",
+        "pt-BR": "Capítulo X. Do quarto grau de amor, quando o homem não ama nem a si mesmo senão por causa de Deus"
       }
     },
     {
       "id": "c11",
       "title": {
         "la": "Caput XI. Haec amoris perfectio non competit etiam solutis animabus beatorum, ante resurrectionem",
-        "en-US": "Chapter XI. The saints will have perfect love only after the general resurrection"
+        "en-US": "Chapter XI. The saints will have perfect love only after the general resurrection",
+        "pt-BR": "Capítulo XI. Esta perfeição do amor não cabe nem mesmo às almas dos bem-aventurados, separadas do corpo, antes da ressurreição"
       }
     },
     {
       "id": "c12",
       "title": {
-        "la": "Caput XII. De charitate ex epistola ad Cartusianos scripta"
+        "la": "Caput XII. De charitate ex epistola ad Cartusianos scripta",
+        "pt-BR": "Capítulo XII. Da caridade, segundo a carta escrita aos cartuxos"
       }
     },
     {
       "id": "c13",
       "title": {
-        "la": "Caput XIII. De lege propriae voluntatis et cupiditatis, servorum et mercenariorum"
+        "la": "Caput XIII. De lege propriae voluntatis et cupiditatis, servorum et mercenariorum",
+        "pt-BR": "Capítulo XIII. Da lei da vontade própria e da cobiça, a dos escravos e a dos mercenários"
       }
     },
     {
       "id": "c14",
       "title": {
-        "la": "Caput XIV. De lege charitatis filiorum"
+        "la": "Caput XIV. De lege charitatis filiorum",
+        "pt-BR": "Capítulo XIV. Da lei da caridade, a dos filhos"
       }
     },
     {
       "id": "c15",
       "title": {
-        "la": "Caput XV. De quatuor gradibus amoris, et felici statu patriae coelestis"
+        "la": "Caput XV. De quatuor gradibus amoris, et felici statu patriae coelestis",
+        "pt-BR": "Capítulo XV. Dos quatro graus de amor e do estado feliz da pátria celeste"
       }
     }
   ]

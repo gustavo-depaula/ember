@@ -1,0 +1,7 @@
+# Prefácio
+
+Ao ilustre senhor HAIMERICO, cardeal diácono e chanceler da Igreja Romana, BERNARDO, chamado abade de Claraval: viver para o Senhor e morrer no Senhor.
+
+Costumáveis pedir-me orações, e não questões; e eu, por certo, estou convencido de não ser idôneo para nenhuma das duas coisas. Àquelas obriga-me a profissão, ainda que não tanto a conduta; para estas, porém (para dizer a verdade), vejo que me faltam as coisas que pareceriam mais necessárias: a diligência e o engenho. Agrada-me, contudo, confesso, que em lugar das coisas carnais peçais as espirituais, se ao menos vos tivesse aprazido fazê-lo junto de alguém mais rico. Mas, porque doutos e indoutos têm igualmente o costume de se escusar em tais casos, e não se sabe facilmente que escusa provém verdadeiramente da imperícia e qual da modéstia, se a obediência à obra imposta não o prova, recebei da minha pobreza o que tenho, para que, calando, não me tenham por filósofo.[^1] Não prometo, contudo, responder a tudo. Responderei somente ao que perguntais sobre o amor a Deus, com o que ele mesmo me der. Isto, de fato, tem sabor mais doce, trata-se com mais segurança e ouve-se com mais proveito. O resto, reservai-o a outros mais diligentes.
+
+[^1]: *Nota do tradutor:* Eco de uma anedota contada por Boécio na *Consolação da Filosofia*: um homem que se dizia filósofo suportou em silêncio uma provocação para prová-lo, e ouviu que o teria sido se continuasse calado; daí o provérbio *si tacuisses, philosophus mansisses*. Bernardo inverte o dito: responde para não passar por filósofo à custa do silêncio.
