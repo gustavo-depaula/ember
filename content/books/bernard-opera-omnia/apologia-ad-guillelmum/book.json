@@ -18,13 +18,19 @@
   },
   "composed": "c. 1125",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "bernard/apologia-ad-guillelmum",
   "editions": {
     "la": {
       "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182)",
       "year": 1854
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,85 +47,99 @@
     {
       "id": "admonitio",
       "title": {
-        "la": "Admonitio Mabillonii"
+        "la": "Admonitio Mabillonii",
+        "pt-BR": "Advertência de Mabillon"
       }
     },
     {
       "id": "c01",
       "title": {
-        "la": "Caput I. Profitetur se suosque ab obtrectatione religiosi Ordinis prorsus alienos"
+        "la": "Caput I. Profitetur se suosque ab obtrectatione religiosi Ordinis prorsus alienos",
+        "pt-BR": "Capítulo I. Declara que ele e os seus são inteiramente alheios à depreciação de uma Ordem religiosa"
       }
     },
     {
       "id": "c02",
       "title": {
-        "la": "Caput II. Purgat se S. Bernardus, et Ordinem Cluniacensium commendat"
+        "la": "Caput II. Purgat se S. Bernardus, et Ordinem Cluniacensium commendat",
+        "pt-BR": "Capítulo II. São Bernardo se defende e recomenda a Ordem de Cluny"
       }
     },
     {
       "id": "c03",
       "title": {
-        "la": "Caput III. Varietatem religiosorum Ordinum nondeoere prae judicare vinculo charitatis"
+        "la": "Caput III. Varietatem religiosorum Ordinum nondeoere prae judicare vinculo charitatis",
+        "pt-BR": "Capítulo III. A diversidade das Ordens religiosas não deve prejudicar o vínculo da caridade"
       }
     },
     {
       "id": "c04",
       "title": {
-        "la": "Caput IV. Se caeteros omnes Ordines charitate, unum professione tenere"
+        "la": "Caput IV. Se caeteros omnes Ordines charitate, unum professione tenere",
+        "pt-BR": "Capítulo IV. Abraça todas as outras Ordens pela caridade e uma só pela profissão"
       }
     },
     {
       "id": "c05",
       "title": {
-        "la": "Caput V. Religiosos aliorum Ordinum aemulos et obtrectatores acri stylo aggreditur"
+        "la": "Caput V. Religiosos aliorum Ordinum aemulos et obtrectatores acri stylo aggreditur",
+        "pt-BR": "Capítulo V. Investe com estilo incisivo contra os religiosos que invejam e depreciam outras Ordens"
       }
     },
     {
       "id": "c06",
       "title": {
-        "la": "Caput VI. Arguit temere judicantes, et calumniantes modum vivendi Cluniacensium"
+        "la": "Caput VI. Arguit temere judicantes, et calumniantes modum vivendi Cluniacensium",
+        "pt-BR": "Capítulo VI. Repreende os que julgam temerariamente e caluniam o modo de vida dos cluniacenses"
       }
     },
     {
       "id": "c07",
       "title": {
-        "la": "Caput VII. Spiritualis exercitatio fructuosior corporali"
+        "la": "Caput VII. Spiritualis exercitatio fructuosior corporali",
+        "pt-BR": "Capítulo VII. O exercício espiritual é mais frutuoso que o corporal"
       }
     },
     {
       "id": "c08",
       "title": {
-        "la": "Caput VIII. Cluniacensium vitia, virtutum nomine palliata, perstringit"
+        "la": "Caput VIII. Cluniacensium vitia, virtutum nomine palliata, perstringit",
+        "pt-BR": "Capítulo VIII. Censura os vícios dos cluniacenses encobertos com o nome de virtudes"
       }
     },
     {
       "id": "c09",
       "title": {
-        "la": "Caput IX. Eorumdem intemperantiam comparat cum antiquorum monachorum parcimonia"
+        "la": "Caput IX. Eorumdem intemperantiam comparat cum antiquorum monachorum parcimonia",
+        "pt-BR": "Capítulo IX. Compara a intemperança deles com a parcimônia dos antigos monges"
       }
     },
     {
       "id": "c10",
       "title": {
-        "la": "Caput X. Vestium ornatum luxumque in eisdem persequitur"
+        "la": "Caput X. Vestium ornatum luxumque in eisdem persequitur",
+        "pt-BR": "Capítulo X. Prossegue contra a ornamentação e o luxo das vestes entre eles"
       }
     },
     {
       "id": "c11",
       "title": {
-        "la": "Caput XI. De causa cur superiores subditorum vitia non corrigant. Luxum et splendidum praelatorum apparatum perstringit"
+        "la": "Caput XI. De causa cur superiores subditorum vitia non corrigant. Luxum et splendidum praelatorum apparatum perstringit",
+        "pt-BR": "Capítulo XI. Sobre a razão pela qual os superiores não corrigem os vícios dos súditos. Censura o luxo e o aparato esplêndido dos prelados"
       }
     },
     {
       "id": "c12",
       "title": {
-        "la": "Caput XII. Luxum et abusum in templis et oratoriis exstruendis, ornandis, pingendis, arguit"
+        "la": "Caput XII. Luxum et abusum in templis et oratoriis exstruendis, ornandis, pingendis, arguit",
+        "pt-BR": "Capítulo XII. Repreende o luxo e o abuso na construção, ornamentação e pintura de templos e oratórios"
       }
     },
     {
       "id": "c13",
       "title": {
-        "la": "Caput XIII. Modos et media mutuae charitatis et pacis fovendae summatim colligit, denique transfugas instabilitatis notat"
+        "la": "Caput XIII. Modos et media mutuae charitatis et pacis fovendae summatim colligit, denique transfugas instabilitatis notat",
+        "pt-BR": "Capítulo XIII. Reúne brevemente os modos e meios de promover a caridade e a paz mútuas e, por fim, censura a instabilidade dos que abandonam sua Ordem"
       }
     }
   ]
