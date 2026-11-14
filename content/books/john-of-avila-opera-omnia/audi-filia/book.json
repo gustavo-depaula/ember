@@ -19,7 +19,8 @@
   "composed": "1556–1574",
   "languages": [
     "es-ES",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "john-of-avila/audi-filia",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "attributed to Sir Tobie Matthew",
       "year": 1620
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -62,804 +68,919 @@
     {
       "id": "prologo",
       "title": {
-        "es-ES": "Prólogo del autor"
+        "es-ES": "Prólogo del autor",
+        "pt-BR": "Prólogo do autor"
       }
     },
     {
       "id": "breve-suma",
       "title": {
-        "es-ES": "Breve suma"
+        "es-ES": "Breve suma",
+        "pt-BR": "Breve suma"
       }
     },
     {
       "id": "c1",
       "title": {
         "es-ES": "Capítulo 1",
-        "en-US": "Chapter 1"
+        "en-US": "Chapter 1",
+        "pt-BR": "Capítulo 1"
       }
     },
     {
       "id": "c2",
       "title": {
         "es-ES": "Capítulo 2",
-        "en-US": "Chapter 2"
+        "en-US": "Chapter 2",
+        "pt-BR": "Capítulo 2"
       }
     },
     {
       "id": "c3",
       "title": {
         "es-ES": "Capítulo 3",
-        "en-US": "Chapter 3"
+        "en-US": "Chapter 3",
+        "pt-BR": "Capítulo 3"
       }
     },
     {
       "id": "c4",
       "title": {
         "es-ES": "Capítulo 4",
-        "en-US": "Chapter 4"
+        "en-US": "Chapter 4",
+        "pt-BR": "Capítulo 4"
       }
     },
     {
       "id": "c5",
       "title": {
         "es-ES": "Capítulo 5",
-        "en-US": "Chapter 5"
+        "en-US": "Chapter 5",
+        "pt-BR": "Capítulo 5"
       }
     },
     {
       "id": "c6",
       "title": {
         "es-ES": "Capítulo 6",
-        "en-US": "Chapter 6"
+        "en-US": "Chapter 6",
+        "pt-BR": "Capítulo 6"
       }
     },
     {
       "id": "c7",
       "title": {
         "es-ES": "Capítulo 7",
-        "en-US": "Chapter 7"
+        "en-US": "Chapter 7",
+        "pt-BR": "Capítulo 7"
       }
     },
     {
       "id": "c8",
       "title": {
         "es-ES": "Capítulo 8",
-        "en-US": "Chapter 8"
+        "en-US": "Chapter 8",
+        "pt-BR": "Capítulo 8"
       }
     },
     {
       "id": "c9",
       "title": {
         "es-ES": "Capítulo 9",
-        "en-US": "Chapter 9"
+        "en-US": "Chapter 9",
+        "pt-BR": "Capítulo 9"
       }
     },
     {
       "id": "c10",
       "title": {
         "es-ES": "Capítulo 10",
-        "en-US": "Chapter 10"
+        "en-US": "Chapter 10",
+        "pt-BR": "Capítulo 10"
       }
     },
     {
       "id": "c11",
       "title": {
         "es-ES": "Capítulo 11",
-        "en-US": "Chapter 11"
+        "en-US": "Chapter 11",
+        "pt-BR": "Capítulo 11"
       }
     },
     {
       "id": "c12",
       "title": {
         "es-ES": "Capítulo 12",
-        "en-US": "Chapter 12"
+        "en-US": "Chapter 12",
+        "pt-BR": "Capítulo 12"
       }
     },
     {
       "id": "c13",
       "title": {
         "es-ES": "Capítulo 13",
-        "en-US": "Chapter 13"
+        "en-US": "Chapter 13",
+        "pt-BR": "Capítulo 13"
       }
     },
     {
       "id": "c14",
       "title": {
         "es-ES": "Capítulo 14",
-        "en-US": "Chapter 14"
+        "en-US": "Chapter 14",
+        "pt-BR": "Capítulo 14"
       }
     },
     {
       "id": "c15",
       "title": {
         "es-ES": "Capítulo 15",
-        "en-US": "Chapter 15"
+        "en-US": "Chapter 15",
+        "pt-BR": "Capítulo 15"
       }
     },
     {
       "id": "c16",
       "title": {
         "es-ES": "Capítulo 16",
-        "en-US": "Chapter 16"
+        "en-US": "Chapter 16",
+        "pt-BR": "Capítulo 16"
       }
     },
     {
       "id": "c17",
       "title": {
         "es-ES": "Capítulo 17",
-        "en-US": "Chapter 17"
+        "en-US": "Chapter 17",
+        "pt-BR": "Capítulo 17"
       }
     },
     {
       "id": "c18",
       "title": {
         "es-ES": "Capítulo 18",
-        "en-US": "Chapter 18"
+        "en-US": "Chapter 18",
+        "pt-BR": "Capítulo 18"
       }
     },
     {
       "id": "c19",
       "title": {
         "es-ES": "Capítulo 19",
-        "en-US": "Chapter 19"
+        "en-US": "Chapter 19",
+        "pt-BR": "Capítulo 19"
       }
     },
     {
       "id": "c20",
       "title": {
         "es-ES": "Capítulo 20",
-        "en-US": "Chapter 20"
+        "en-US": "Chapter 20",
+        "pt-BR": "Capítulo 20"
       }
     },
     {
       "id": "c21",
       "title": {
         "es-ES": "Capítulo 21",
-        "en-US": "Chapter 21"
+        "en-US": "Chapter 21",
+        "pt-BR": "Capítulo 21"
       }
     },
     {
       "id": "c22",
       "title": {
         "es-ES": "Capítulo 22",
-        "en-US": "Chapter 22"
+        "en-US": "Chapter 22",
+        "pt-BR": "Capítulo 22"
       }
     },
     {
       "id": "c23",
       "title": {
         "es-ES": "Capítulo 23",
-        "en-US": "Chapter 23"
+        "en-US": "Chapter 23",
+        "pt-BR": "Capítulo 23"
       }
     },
     {
       "id": "c24",
       "title": {
         "es-ES": "Capítulo 24",
-        "en-US": "Chapter 24"
+        "en-US": "Chapter 24",
+        "pt-BR": "Capítulo 24"
       }
     },
     {
       "id": "c25",
       "title": {
         "es-ES": "Capítulo 25",
-        "en-US": "Chapter 25"
+        "en-US": "Chapter 25",
+        "pt-BR": "Capítulo 25"
       }
     },
     {
       "id": "c26",
       "title": {
         "es-ES": "Capítulo 26",
-        "en-US": "Chapter 26"
+        "en-US": "Chapter 26",
+        "pt-BR": "Capítulo 26"
       }
     },
     {
       "id": "c27",
       "title": {
         "es-ES": "Capítulo 27",
-        "en-US": "Chapter 27"
+        "en-US": "Chapter 27",
+        "pt-BR": "Capítulo 27"
       }
     },
     {
       "id": "c28",
       "title": {
         "es-ES": "Capítulo 28",
-        "en-US": "Chapter 28"
+        "en-US": "Chapter 28",
+        "pt-BR": "Capítulo 28"
       }
     },
     {
       "id": "c29",
       "title": {
         "es-ES": "Capítulo 29",
-        "en-US": "Chapter 29"
+        "en-US": "Chapter 29",
+        "pt-BR": "Capítulo 29"
       }
     },
     {
       "id": "c30",
       "title": {
         "es-ES": "Capítulo 30",
-        "en-US": "Chapter 30"
+        "en-US": "Chapter 30",
+        "pt-BR": "Capítulo 30"
       }
     },
     {
       "id": "c31",
       "title": {
         "es-ES": "Capítulo 31",
-        "en-US": "Chapter 31"
+        "en-US": "Chapter 31",
+        "pt-BR": "Capítulo 31"
       }
     },
     {
       "id": "c32",
       "title": {
         "es-ES": "Capítulo 32",
-        "en-US": "Chapter 32"
+        "en-US": "Chapter 32",
+        "pt-BR": "Capítulo 32"
       }
     },
     {
       "id": "c33",
       "title": {
         "es-ES": "Capítulo 33",
-        "en-US": "Chapter 33"
+        "en-US": "Chapter 33",
+        "pt-BR": "Capítulo 33"
       }
     },
     {
       "id": "c34",
       "title": {
         "es-ES": "Capítulo 34",
-        "en-US": "Chapter 34"
+        "en-US": "Chapter 34",
+        "pt-BR": "Capítulo 34"
       }
     },
     {
       "id": "c35",
       "title": {
         "es-ES": "Capítulo 35",
-        "en-US": "Chapter 35"
+        "en-US": "Chapter 35",
+        "pt-BR": "Capítulo 35"
       }
     },
     {
       "id": "c36",
       "title": {
         "es-ES": "Capítulo 36",
-        "en-US": "Chapter 36"
+        "en-US": "Chapter 36",
+        "pt-BR": "Capítulo 36"
       }
     },
     {
       "id": "c37",
       "title": {
         "es-ES": "Capítulo 37",
-        "en-US": "Chapter 37"
+        "en-US": "Chapter 37",
+        "pt-BR": "Capítulo 37"
       }
     },
     {
       "id": "c38",
       "title": {
         "es-ES": "Capítulo 38",
-        "en-US": "Chapter 38"
+        "en-US": "Chapter 38",
+        "pt-BR": "Capítulo 38"
       }
     },
     {
       "id": "c39",
       "title": {
         "es-ES": "Capítulo 39",
-        "en-US": "Chapter 39"
+        "en-US": "Chapter 39",
+        "pt-BR": "Capítulo 39"
       }
     },
     {
       "id": "c40",
       "title": {
         "es-ES": "Capítulo 40",
-        "en-US": "Chapter 40"
+        "en-US": "Chapter 40",
+        "pt-BR": "Capítulo 40"
       }
     },
     {
       "id": "c41",
       "title": {
         "es-ES": "Capítulo 41",
-        "en-US": "Chapter 41"
+        "en-US": "Chapter 41",
+        "pt-BR": "Capítulo 41"
       }
     },
     {
       "id": "c42",
       "title": {
         "es-ES": "Capítulo 42",
-        "en-US": "Chapter 42"
+        "en-US": "Chapter 42",
+        "pt-BR": "Capítulo 42"
       }
     },
     {
       "id": "c43",
       "title": {
         "es-ES": "Capítulo 43",
-        "en-US": "Chapter 43"
+        "en-US": "Chapter 43",
+        "pt-BR": "Capítulo 43"
       }
     },
     {
       "id": "c44",
       "title": {
         "es-ES": "Capítulo 44",
-        "en-US": "Chapter 44"
+        "en-US": "Chapter 44",
+        "pt-BR": "Capítulo 44"
       }
     },
     {
       "id": "c45",
       "title": {
         "es-ES": "Capítulo 45",
-        "en-US": "Chapter 45"
+        "en-US": "Chapter 45",
+        "pt-BR": "Capítulo 45"
       }
     },
     {
       "id": "c46",
       "title": {
         "es-ES": "Capítulo 46",
-        "en-US": "Chapter 46"
+        "en-US": "Chapter 46",
+        "pt-BR": "Capítulo 46"
       }
     },
     {
       "id": "c47",
       "title": {
         "es-ES": "Capítulo 47",
-        "en-US": "Chapter 47"
+        "en-US": "Chapter 47",
+        "pt-BR": "Capítulo 47"
       }
     },
     {
       "id": "c48",
       "title": {
         "es-ES": "Capítulo 48",
-        "en-US": "Chapter 48"
+        "en-US": "Chapter 48",
+        "pt-BR": "Capítulo 48"
       }
     },
     {
       "id": "c49",
       "title": {
         "es-ES": "Capítulo 49",
-        "en-US": "Chapter 49"
+        "en-US": "Chapter 49",
+        "pt-BR": "Capítulo 49"
       }
     },
     {
       "id": "c50",
       "title": {
         "es-ES": "Capítulo 50",
-        "en-US": "Chapter 50"
+        "en-US": "Chapter 50",
+        "pt-BR": "Capítulo 50"
       }
     },
     {
       "id": "c51",
       "title": {
         "es-ES": "Capítulo 51",
-        "en-US": "Chapter 51"
+        "en-US": "Chapter 51",
+        "pt-BR": "Capítulo 51"
       }
     },
     {
       "id": "c52",
       "title": {
         "es-ES": "Capítulo 52",
-        "en-US": "Chapter 52"
+        "en-US": "Chapter 52",
+        "pt-BR": "Capítulo 52"
       }
     },
     {
       "id": "c53",
       "title": {
         "es-ES": "Capítulo 53",
-        "en-US": "Chapter 53"
+        "en-US": "Chapter 53",
+        "pt-BR": "Capítulo 53"
       }
     },
     {
       "id": "c54",
       "title": {
         "es-ES": "Capítulo 54",
-        "en-US": "Chapter 54"
+        "en-US": "Chapter 54",
+        "pt-BR": "Capítulo 54"
       }
     },
     {
       "id": "c55",
       "title": {
         "es-ES": "Capítulo 55",
-        "en-US": "Chapter 55"
+        "en-US": "Chapter 55",
+        "pt-BR": "Capítulo 55"
       }
     },
     {
       "id": "c56",
       "title": {
         "es-ES": "Capítulo 56",
-        "en-US": "Chapter 56"
+        "en-US": "Chapter 56",
+        "pt-BR": "Capítulo 56"
       }
     },
     {
       "id": "c57",
       "title": {
         "es-ES": "Capítulo 57",
-        "en-US": "Chapter 57"
+        "en-US": "Chapter 57",
+        "pt-BR": "Capítulo 57"
       }
     },
     {
       "id": "c58",
       "title": {
         "es-ES": "Capítulo 58",
-        "en-US": "Chapter 58"
+        "en-US": "Chapter 58",
+        "pt-BR": "Capítulo 58"
       }
     },
     {
       "id": "c59",
       "title": {
         "es-ES": "Capítulo 59",
-        "en-US": "Chapter 59"
+        "en-US": "Chapter 59",
+        "pt-BR": "Capítulo 59"
       }
     },
     {
       "id": "c60",
       "title": {
         "es-ES": "Capítulo 60",
-        "en-US": "Chapter 60"
+        "en-US": "Chapter 60",
+        "pt-BR": "Capítulo 60"
       }
     },
     {
       "id": "c61",
       "title": {
         "es-ES": "Capítulo 61",
-        "en-US": "Chapter 61"
+        "en-US": "Chapter 61",
+        "pt-BR": "Capítulo 61"
       }
     },
     {
       "id": "c62",
       "title": {
         "es-ES": "Capítulo 62",
-        "en-US": "Chapter 62"
+        "en-US": "Chapter 62",
+        "pt-BR": "Capítulo 62"
       }
     },
     {
       "id": "c63",
       "title": {
         "es-ES": "Capítulo 63",
-        "en-US": "Chapter 63"
+        "en-US": "Chapter 63",
+        "pt-BR": "Capítulo 63"
       }
     },
     {
       "id": "c64",
       "title": {
         "es-ES": "Capítulo 64",
-        "en-US": "Chapter 64"
+        "en-US": "Chapter 64",
+        "pt-BR": "Capítulo 64"
       }
     },
     {
       "id": "c65",
       "title": {
         "es-ES": "Capítulo 65",
-        "en-US": "Chapter 65"
+        "en-US": "Chapter 65",
+        "pt-BR": "Capítulo 65"
       }
     },
     {
       "id": "c66",
       "title": {
         "es-ES": "Capítulo 66",
-        "en-US": "Chapter 66"
+        "en-US": "Chapter 66",
+        "pt-BR": "Capítulo 66"
       }
     },
     {
       "id": "c67",
       "title": {
         "es-ES": "Capítulo 67",
-        "en-US": "Chapter 67"
+        "en-US": "Chapter 67",
+        "pt-BR": "Capítulo 67"
       }
     },
     {
       "id": "c68",
       "title": {
         "es-ES": "Capítulo 68",
-        "en-US": "Chapter 68"
+        "en-US": "Chapter 68",
+        "pt-BR": "Capítulo 68"
       }
     },
     {
       "id": "c69",
       "title": {
         "es-ES": "Capítulo 69",
-        "en-US": "Chapter 69"
+        "en-US": "Chapter 69",
+        "pt-BR": "Capítulo 69"
       }
     },
     {
       "id": "c70",
       "title": {
         "es-ES": "Capítulo 70",
-        "en-US": "Chapter 70"
+        "en-US": "Chapter 70",
+        "pt-BR": "Capítulo 70"
       }
     },
     {
       "id": "c71",
       "title": {
         "es-ES": "Capítulo 71",
-        "en-US": "Chapter 71"
+        "en-US": "Chapter 71",
+        "pt-BR": "Capítulo 71"
       }
     },
     {
       "id": "c72",
       "title": {
         "es-ES": "Capítulo 72",
-        "en-US": "Chapter 72"
+        "en-US": "Chapter 72",
+        "pt-BR": "Capítulo 72"
       }
     },
     {
       "id": "c73",
       "title": {
         "es-ES": "Capítulo 73",
-        "en-US": "Chapter 73"
+        "en-US": "Chapter 73",
+        "pt-BR": "Capítulo 73"
       }
     },
     {
       "id": "c74",
       "title": {
         "es-ES": "Capítulo 74",
-        "en-US": "Chapter 74"
+        "en-US": "Chapter 74",
+        "pt-BR": "Capítulo 74"
       }
     },
     {
       "id": "c75",
       "title": {
         "es-ES": "Capítulo 75",
-        "en-US": "Chapter 75"
+        "en-US": "Chapter 75",
+        "pt-BR": "Capítulo 75"
       }
     },
     {
       "id": "c76",
       "title": {
         "es-ES": "Capítulo 76",
-        "en-US": "Chapter 76"
+        "en-US": "Chapter 76",
+        "pt-BR": "Capítulo 76"
       }
     },
     {
       "id": "c77",
       "title": {
         "es-ES": "Capítulo 77",
-        "en-US": "Chapter 77"
+        "en-US": "Chapter 77",
+        "pt-BR": "Capítulo 77"
       }
     },
     {
       "id": "c78",
       "title": {
         "es-ES": "Capítulo 78",
-        "en-US": "Chapter 78"
+        "en-US": "Chapter 78",
+        "pt-BR": "Capítulo 78"
       }
     },
     {
       "id": "c79",
       "title": {
         "es-ES": "Capítulo 79",
-        "en-US": "Chapter 79"
+        "en-US": "Chapter 79",
+        "pt-BR": "Capítulo 79"
       }
     },
     {
       "id": "c80",
       "title": {
         "es-ES": "Capítulo 80",
-        "en-US": "Chapter 80"
+        "en-US": "Chapter 80",
+        "pt-BR": "Capítulo 80"
       }
     },
     {
       "id": "c81",
       "title": {
         "es-ES": "Capítulo 81",
-        "en-US": "Chapter 81"
+        "en-US": "Chapter 81",
+        "pt-BR": "Capítulo 81"
       }
     },
     {
       "id": "c82",
       "title": {
         "es-ES": "Capítulo 82",
-        "en-US": "Chapter 82"
+        "en-US": "Chapter 82",
+        "pt-BR": "Capítulo 82"
       }
     },
     {
       "id": "c83",
       "title": {
         "es-ES": "Capítulo 83",
-        "en-US": "Chapter 83"
+        "en-US": "Chapter 83",
+        "pt-BR": "Capítulo 83"
       }
     },
     {
       "id": "c84",
       "title": {
         "es-ES": "Capítulo 84",
-        "en-US": "Chapter 84"
+        "en-US": "Chapter 84",
+        "pt-BR": "Capítulo 84"
       }
     },
     {
       "id": "c85",
       "title": {
         "es-ES": "Capítulo 85",
-        "en-US": "Chapter 85"
+        "en-US": "Chapter 85",
+        "pt-BR": "Capítulo 85"
       }
     },
     {
       "id": "c86",
       "title": {
         "es-ES": "Capítulo 86",
-        "en-US": "Chapter 86"
+        "en-US": "Chapter 86",
+        "pt-BR": "Capítulo 86"
       }
     },
     {
       "id": "c87",
       "title": {
         "es-ES": "Capítulo 87",
-        "en-US": "Chapter 87"
+        "en-US": "Chapter 87",
+        "pt-BR": "Capítulo 87"
       }
     },
     {
       "id": "c88",
       "title": {
         "es-ES": "Capítulo 88",
-        "en-US": "Chapter 88"
+        "en-US": "Chapter 88",
+        "pt-BR": "Capítulo 88"
       }
     },
     {
       "id": "c89",
       "title": {
         "es-ES": "Capítulo 89",
-        "en-US": "Chapter 89"
+        "en-US": "Chapter 89",
+        "pt-BR": "Capítulo 89"
       }
     },
     {
       "id": "c90",
       "title": {
         "es-ES": "Capítulo 90",
-        "en-US": "Chapter 90"
+        "en-US": "Chapter 90",
+        "pt-BR": "Capítulo 90"
       }
     },
     {
       "id": "c91",
       "title": {
         "es-ES": "Capítulo 91",
-        "en-US": "Chapter 91"
+        "en-US": "Chapter 91",
+        "pt-BR": "Capítulo 91"
       }
     },
     {
       "id": "c92",
       "title": {
         "es-ES": "Capítulo 92",
-        "en-US": "Chapter 92"
+        "en-US": "Chapter 92",
+        "pt-BR": "Capítulo 92"
       }
     },
     {
       "id": "c93",
       "title": {
         "es-ES": "Capítulo 93",
-        "en-US": "Chapter 93"
+        "en-US": "Chapter 93",
+        "pt-BR": "Capítulo 93"
       }
     },
     {
       "id": "c94",
       "title": {
         "es-ES": "Capítulo 94",
-        "en-US": "Chapter 94"
+        "en-US": "Chapter 94",
+        "pt-BR": "Capítulo 94"
       }
     },
     {
       "id": "c95",
       "title": {
         "es-ES": "Capítulo 95",
-        "en-US": "Chapter 95"
+        "en-US": "Chapter 95",
+        "pt-BR": "Capítulo 95"
       }
     },
     {
       "id": "c96",
       "title": {
         "es-ES": "Capítulo 96",
-        "en-US": "Chapter 96"
+        "en-US": "Chapter 96",
+        "pt-BR": "Capítulo 96"
       }
     },
     {
       "id": "c97",
       "title": {
         "es-ES": "Capítulo 97",
-        "en-US": "Chapter 97"
+        "en-US": "Chapter 97",
+        "pt-BR": "Capítulo 97"
       }
     },
     {
       "id": "c98",
       "title": {
         "es-ES": "Capítulo 98",
-        "en-US": "Chapter 98"
+        "en-US": "Chapter 98",
+        "pt-BR": "Capítulo 98"
       }
     },
     {
       "id": "c99",
       "title": {
         "es-ES": "Capítulo 99",
-        "en-US": "Chapter 99"
+        "en-US": "Chapter 99",
+        "pt-BR": "Capítulo 99"
       }
     },
     {
       "id": "c100",
       "title": {
         "es-ES": "Capítulo 100",
-        "en-US": "Chapter 100"
+        "en-US": "Chapter 100",
+        "pt-BR": "Capítulo 100"
       }
     },
     {
       "id": "c101",
       "title": {
         "es-ES": "Capítulo 101",
-        "en-US": "Chapter 101"
+        "en-US": "Chapter 101",
+        "pt-BR": "Capítulo 101"
       }
     },
     {
       "id": "c102",
       "title": {
         "es-ES": "Capítulo 102",
-        "en-US": "Chapter 102"
+        "en-US": "Chapter 102",
+        "pt-BR": "Capítulo 102"
       }
     },
     {
       "id": "c103",
       "title": {
         "es-ES": "Capítulo 103",
-        "en-US": "Chapter 103"
+        "en-US": "Chapter 103",
+        "pt-BR": "Capítulo 103"
       }
     },
     {
       "id": "c104",
       "title": {
         "es-ES": "Capítulo 104",
-        "en-US": "Chapter 104"
+        "en-US": "Chapter 104",
+        "pt-BR": "Capítulo 104"
       }
     },
     {
       "id": "c105",
       "title": {
         "es-ES": "Capítulo 105",
-        "en-US": "Chapter 105"
+        "en-US": "Chapter 105",
+        "pt-BR": "Capítulo 105"
       }
     },
     {
       "id": "c106",
       "title": {
         "es-ES": "Capítulo 106",
-        "en-US": "Chapter 106"
+        "en-US": "Chapter 106",
+        "pt-BR": "Capítulo 106"
       }
     },
     {
       "id": "c107",
       "title": {
         "es-ES": "Capítulo 107",
-        "en-US": "Chapter 107"
+        "en-US": "Chapter 107",
+        "pt-BR": "Capítulo 107"
       }
     },
     {
       "id": "c108",
       "title": {
         "es-ES": "Capítulo 108",
-        "en-US": "Chapter 108"
+        "en-US": "Chapter 108",
+        "pt-BR": "Capítulo 108"
       }
     },
     {
       "id": "c109",
       "title": {
         "es-ES": "Capítulo 109",
-        "en-US": "Chapter 109"
+        "en-US": "Chapter 109",
+        "pt-BR": "Capítulo 109"
       }
     },
     {
       "id": "c110",
       "title": {
         "es-ES": "Capítulo 110",
-        "en-US": "Chapter 110"
+        "en-US": "Chapter 110",
+        "pt-BR": "Capítulo 110"
       }
     },
     {
       "id": "c111",
       "title": {
         "es-ES": "Capítulo 111",
-        "en-US": "Chapter 111"
+        "en-US": "Chapter 111",
+        "pt-BR": "Capítulo 111"
       }
     },
     {
       "id": "c112",
       "title": {
         "es-ES": "Capítulo 112",
-        "en-US": "Chapter 112"
+        "en-US": "Chapter 112",
+        "pt-BR": "Capítulo 112"
       }
     },
     {
       "id": "c113",
       "title": {
         "es-ES": "Capítulo 113",
-        "en-US": "Chapter 113"
+        "en-US": "Chapter 113",
+        "pt-BR": "Capítulo 113"
       }
     }
   ]
