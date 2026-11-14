@@ -19,7 +19,8 @@
   "composed": "1094-1098",
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "anselm/cur-deus-homo",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "Sidney Norton Deane",
       "year": 1903
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -55,189 +61,216 @@
       "id": "praefatio",
       "title": {
         "la": "Praefatio",
-        "en-US": "Preface"
+        "en-US": "Preface",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "liber-1",
       "title": {
         "la": "Liber Primus",
-        "en-US": "Book I"
+        "en-US": "Book I",
+        "pt-BR": "Livro Primeiro"
       },
       "children": [
         {
           "id": "l1-c01",
           "title": {
             "la": "Caput I. Quaestio de qua totum opus pendet",
-            "en-US": "Chapter I. The question on which the whole work rests"
+            "en-US": "Chapter I. The question on which the whole work rests",
+            "pt-BR": "Capítulo I. A questão da qual depende toda a obra"
           }
         },
         {
           "id": "l1-c02",
           "title": {
             "la": "Caput II. Quomodo accipienda sunt ea quae dicenda sunt",
-            "en-US": "Chapter II. How those things which are to be said should be received"
+            "en-US": "Chapter II. How those things which are to be said should be received",
+            "pt-BR": "Capítulo II. Como se deve acolher o que será dito"
           }
         },
         {
           "id": "l1-c03",
           "title": {
             "la": "Caput III. Objectiones infidelium, et responsiones fidelium",
-            "en-US": "Chapter III. Objections of infidels and replies of believers"
+            "en-US": "Chapter III. Objections of infidels and replies of believers",
+            "pt-BR": "Capítulo III. Objeções dos que não creem e respostas dos fiéis"
           }
         },
         {
           "id": "l1-c04",
           "title": {
             "la": "Caput IV. Quod hae responsiones videantur infidelibus sine necessitate, et quasi quaedam picturae",
-            "en-US": "Chapter IV. How these things appear not decisive to infidels, and merely like so many pictures"
+            "en-US": "Chapter IV. How these things appear not decisive to infidels, and merely like so many pictures",
+            "pt-BR": "Capítulo IV. Essas respostas parecem aos que não creem desprovidas de necessidade e semelhantes a pinturas"
           }
         },
         {
           "id": "l1-c05",
           "title": {
             "la": "Caput V. Quod redemptio hominis non potuit fieri per aliam quam per Dei personam",
-            "en-US": "Chapter V. How the redemption of man could not be effected by any other being but God"
+            "en-US": "Chapter V. How the redemption of man could not be effected by any other being but God",
+            "pt-BR": "Capítulo V. A redenção do homem não pôde ser realizada por outra pessoa senão por Deus"
           }
         },
         {
           "id": "l1-c06",
           "title": {
             "la": "Caput VI. Qualiter reprehendant infideles quod dicimus Deum morte sua nos redemisse, et sic dilectionem suam erga nos ostendisse, et pro nobis expugnare diabolum venisse",
-            "en-US": "Chapter VI. How infidels find fault with us for saying that God has redeemed us by his death, and thus has shown his love towards us, and that he came to overcome the devil for us"
+            "en-US": "Chapter VI. How infidels find fault with us for saying that God has redeemed us by his death, and thus has shown his love towards us, and that he came to overcome the devil for us",
+            "pt-BR": "Capítulo VI. Como os que não creem censuram nossa afirmação de que Deus nos redimiu por sua morte, assim mostrou seu amor por nós e veio vencer o diabo em nosso favor"
           }
         },
         {
           "id": "l1-c07",
           "title": {
             "la": "Caput VII. Quod nullam diabolus habebat justitiam adversus hominem: et quare videatur habuisse, et cur Deus hoc modo hominem liberaverit",
-            "en-US": "Chapter VII. How the devil had no justice on his side against man; and why it was, that he seemed to have had it, and why God could have freed man in this way"
+            "en-US": "Chapter VII. How the devil had no justice on his side against man; and why it was, that he seemed to have had it, and why God could have freed man in this way",
+            "pt-BR": "Capítulo VII. O diabo não tinha nenhum direito contra o homem; por que parece tê-lo tido e por que Deus libertou o homem desse modo"
           }
         },
         {
           "id": "l1-c08",
           "title": {
             "la": "Caput VIII. Quomodo licet humilia, quae dicimus de Christo, non pertineant ad divinitatem, tamen inconveniens videatur infidelibus ea de illo dici secundum hominem: et unde illis videatur idem homo non sponte mortuus esse",
-            "en-US": "Chapter VIII. How, although the acts of Christ's condescension which we speak of do not belong to his divinity, it yet seems improper to infidels that these things should be said of him even as a man; and why it appears to them that this man did not suffer death of his own will"
+            "en-US": "Chapter VIII. How, although the acts of Christ's condescension which we speak of do not belong to his divinity, it yet seems improper to infidels that these things should be said of him even as a man; and why it appears to them that this man did not suffer death of his own will",
+            "pt-BR": "Capítulo VIII. Embora as coisas humildes que dizemos de Cristo não pertençam à divindade, parece inconveniente aos que não creem que se digam dele segundo a humanidade; e por que lhes parece que esse homem não morreu espontaneamente"
           }
         },
         {
           "id": "l1-c09",
           "title": {
             "la": "Caput IX. Quod sponte mortuus sit; et quid sit, factus est obediens usque ad mortem; et, propter quod Deus illum exaltavit; et, non venit facere voluntatem meam; et, proprio Filio suo non pepercit; et, non sicut ego volo, sed sicut tu vis",
-            "en-US": "Chapter IX. How it was of his own accord that he died, and what this means: \"he was made obedient even unto death; \" and: \"for which cause God hath highly exalted him;\" and: \"I came not to do my own will; \" and: \"he spared not his own Son;\" and: \"not as I will, but as thou wilt.\""
+            "en-US": "Chapter IX. How it was of his own accord that he died, and what this means: \"he was made obedient even unto death; \" and: \"for which cause God hath highly exalted him;\" and: \"I came not to do my own will; \" and: \"he spared not his own Son;\" and: \"not as I will, but as thou wilt.\"",
+            "pt-BR": "Capítulo IX. Cristo morreu espontaneamente; e o que significam: fez-se obediente até a morte; por isso Deus o exaltou; não vim fazer minha vontade; não poupou seu próprio Filho; e não como eu quero, mas como vós quereis"
           }
         },
         {
           "id": "l1-c10",
           "title": {
             "la": "Caput X. Item de eisdem; quomodo aliter recte intelligi possunt",
-            "en-US": "Chapter X. Likewise on the same topics; and how otherwise they can be correctly explained"
+            "en-US": "Chapter X. Likewise on the same topics; and how otherwise they can be correctly explained",
+            "pt-BR": "Capítulo X. Ainda sobre as mesmas coisas: como podem ser corretamente entendidas de outro modo"
           }
         },
         {
           "id": "l1-c11",
           "title": {
             "la": "Caput XI. Quid sit peccare, et pro peccato satisfacere",
-            "en-US": "Chapter XI. What it is to sin, and to make satisfaction for sin"
+            "en-US": "Chapter XI. What it is to sin, and to make satisfaction for sin",
+            "pt-BR": "Capítulo XI. O que é pecar e satisfazer pelo pecado"
           }
         },
         {
           "id": "l1-c12",
           "title": {
             "la": "Caput XII. Utrum sola misericordia, sine omni debiti solutione, deceat Deum peccata dimittere",
-            "en-US": "Chapter XII. Whether it were proper for God to put away sins by compassion alone, without any payment of debt"
+            "en-US": "Chapter XII. Whether it were proper for God to put away sins by compassion alone, without any payment of debt",
+            "pt-BR": "Capítulo XII. Se convém a Deus perdoar os pecados somente por misericórdia, sem nenhum pagamento da dívida"
           }
         },
         {
           "id": "l1-c13",
           "title": {
             "la": "Caput XIII. Quod nihil minus sit tolerandum in rerum ordine, quam ut creatura Creatori debitum honorem auferat, et non solvat quod aufert",
-            "en-US": "Chapter XIII. How nothing less was to be endured, in the order of things, than that the creature should take away the honor due the Creator and not restore what he takes away"
+            "en-US": "Chapter XIII. How nothing less was to be endured, in the order of things, than that the creature should take away the honor due the Creator and not restore what he takes away",
+            "pt-BR": "Capítulo XIII. Nada é menos tolerável na ordem das coisas do que a criatura tirar do Criador a honra devida e não restituir o que tira"
           }
         },
         {
           "id": "l1-c14",
           "title": {
             "la": "Caput XIV. Cujusmodi honor Dei sit poena peccantis",
-            "en-US": "Chapter XIV. How the honor of God exists in the punishment of the wicked"
+            "en-US": "Chapter XIV. How the honor of God exists in the punishment of the wicked",
+            "pt-BR": "Capítulo XIV. De que modo a pena do pecador é honra de Deus"
           }
         },
         {
           "id": "l1-c15",
           "title": {
             "la": "Caput XV. Si Deus vel ad modicum patiatur honorem suum violari",
-            "en-US": "Chapter XV. Whether God suffers his honor to be violated even in the least degree"
+            "en-US": "Chapter XV. Whether God suffers his honor to be violated even in the least degree",
+            "pt-BR": "Capítulo XV. Se Deus permite que sua honra seja violada, ainda que minimamente"
           }
         },
         {
           "id": "l1-c16",
           "title": {
             "la": "Caput XVI. Ratio cur numerus angelorum, qui ceciderunt restituendus sit de hominibus",
-            "en-US": "Chapter XVI. The reason why the number of angels who fell must be made up from men"
+            "en-US": "Chapter XVI. The reason why the number of angels who fell must be made up from men",
+            "pt-BR": "Capítulo XVI. A razão pela qual o número dos anjos que caíram deve ser recomposto com homens"
           }
         },
         {
           "id": "l1-c17",
           "title": {
             "la": "Caput XVII. Quod alii angeli pro illis, non possint restitui",
-            "en-US": "Chapter XVII. How other angels cannot take the place of those who fell"
+            "en-US": "Chapter XVII. How other angels cannot take the place of those who fell",
+            "pt-BR": "Capítulo XVII. Outros anjos não podem substituir aqueles que caíram"
           }
         },
         {
           "id": "l1-c18",
           "title": {
             "la": "Caput XVIII. Utrum plures futuri sint sancti homines, quam sint mali angeli",
-            "en-US": "Chapter XVIII. Whether there will be more holy men than evil angels"
+            "en-US": "Chapter XVIII. Whether there will be more holy men than evil angels",
+            "pt-BR": "Capítulo XVIII. Se haverá mais homens santos do que anjos maus"
           }
         },
         {
           "id": "l1-c19",
           "title": {
             "la": "Caput XIX. Quod homo non possit salvari sine peccati satisfactione",
-            "en-US": "Chapter XIX. How man cannot be saved without satisfaction for sin"
+            "en-US": "Chapter XIX. How man cannot be saved without satisfaction for sin",
+            "pt-BR": "Capítulo XIX. O homem não pode ser salvo sem satisfação pelo pecado"
           }
         },
         {
           "id": "l1-c20",
           "title": {
             "la": "Caput XX. Quod secundum mensuram peccati oporteat esse satisfactionem; nec eam homo per se facere possit",
-            "en-US": "Chapter XX. That satisfaction ought to be proportionate to guilt; and that man is of himself unable to accomplish this"
+            "en-US": "Chapter XX. That satisfaction ought to be proportionate to guilt; and that man is of himself unable to accomplish this",
+            "pt-BR": "Capítulo XX. A satisfação deve ser proporcional ao pecado, e o homem não pode dá-la por si mesmo"
           }
         },
         {
           "id": "l1-c21",
           "title": {
             "la": "Caput XXI. Quanti ponderis sit peccatum",
-            "en-US": "Chapter XXI. How great a burden sin is"
+            "en-US": "Chapter XXI. How great a burden sin is",
+            "pt-BR": "Capítulo XXI. Quão grande é o peso do pecado"
           }
         },
         {
           "id": "l1-c22",
           "title": {
             "la": "Caput XXII. Quam contumeliam fecit Deo homo, cum se permisit a diabolo vinci; pro qua satisfacere non potest",
-            "en-US": "Chapter XXII. What contempt man brought upon God, when he allowed himself to be conquered by the devil; for which he can make no satisfaction"
+            "en-US": "Chapter XXII. What contempt man brought upon God, when he allowed himself to be conquered by the devil; for which he can make no satisfaction",
+            "pt-BR": "Capítulo XXII. Que afronta o homem fez a Deus ao se deixar vencer pelo diabo, pela qual não pode satisfazer"
           }
         },
         {
           "id": "l1-c23",
           "title": {
             "la": "Caput XXIII. Quid abstulit Deo cum peccavit, quod reddere nequit",
-            "en-US": "Chapter XXIII. What man took from God by his sin, which he has no power to repay"
+            "en-US": "Chapter XXIII. What man took from God by his sin, which he has no power to repay",
+            "pt-BR": "Capítulo XXIII. O que o homem tirou de Deus ao pecar e não pode restituir"
           }
         },
         {
           "id": "l1-c24",
           "title": {
             "la": "Caput XXIV. Quod quandiu homo non reddit Deo quod debet, non possit esse beatus: nec excusetur impotentia",
-            "en-US": "Chapter XXIV. How, as long as man does not restore what he owes God, he cannot be happy, nor is he excused by want of power"
+            "en-US": "Chapter XXIV. How, as long as man does not restore what he owes God, he cannot be happy, nor is he excused by want of power",
+            "pt-BR": "Capítulo XXIV. Enquanto não dá a Deus o que deve, o homem não pode ser bem-aventurado, nem sua incapacidade o desculpa"
           }
         },
         {
           "id": "l1-c25",
           "title": {
             "la": "Caput XXV. Quod ex necessitate per Christum salvetur homo",
-            "en-US": "Chapter XXV. How man's salvation by Christ is necessarily possible"
+            "en-US": "Chapter XXV. How man's salvation by Christ is necessarily possible",
+            "pt-BR": "Capítulo XXV. É necessário que o homem seja salvo por Cristo"
           }
         }
       ]
@@ -246,168 +279,192 @@
       "id": "liber-2",
       "title": {
         "la": "Liber Secundus",
-        "en-US": "Book II"
+        "en-US": "Book II",
+        "pt-BR": "Livro Segundo"
       },
       "children": [
         {
           "id": "l2-c01",
           "title": {
             "la": "Caput I. Quod homo a Deo factus sit justus, ut Deo fruendo beatus esset",
-            "en-US": "Chapter I. How man was made holy by God, so as to be happy in the enjoyment of God"
+            "en-US": "Chapter I. How man was made holy by God, so as to be happy in the enjoyment of God",
+            "pt-BR": "Capítulo I. O homem foi feito justo por Deus para ser bem-aventurado na fruição de Deus"
           }
         },
         {
           "id": "l2-c02",
           "title": {
             "la": "Caput II. Quod homo non moreretur, si non peccasset",
-            "en-US": "Chapter II. How man would never have died, unless he had sinned"
+            "en-US": "Chapter II. How man would never have died, unless he had sinned",
+            "pt-BR": "Capítulo II. O homem não morreria se não tivesse pecado"
           }
         },
         {
           "id": "l2-c03",
           "title": {
             "la": "Caput III. Quod cum corpore, in quo vivit in hac vita, homo resurget",
-            "en-US": "Chapter III. How man will rise with the same body which he has in this world"
+            "en-US": "Chapter III. How man will rise with the same body which he has in this world",
+            "pt-BR": "Capítulo III. O homem ressuscitará com o corpo no qual vive nesta vida"
           }
         },
         {
           "id": "l2-c04",
           "title": {
             "la": "Caput IV. Quod de humana natura perficiet Deus quod incoepit",
-            "en-US": "Chapter IV. How God will complete, in respect to human nature, what he has begun"
+            "en-US": "Chapter IV. How God will complete, in respect to human nature, what he has begun",
+            "pt-BR": "Capítulo IV. Deus levará a termo, na natureza humana, o que começou"
           }
         },
         {
           "id": "l2-c05",
           "title": {
             "la": "Caput V. Quod quamvis hoc necesse sit fieri, tamen hoc non faciet cogente necessitate: et quae sit necessitas, quae aufert gratiam aut minuit; et quae necessitas augeat",
-            "en-US": "Chapter V. How, although the thing may be necessary, God may not do it by a compulsory necessity; and what is the nature of that necessity which removes or lessens gratitude, and what necessity increases it"
+            "en-US": "Chapter V. How, although the thing may be necessary, God may not do it by a compulsory necessity; and what is the nature of that necessity which removes or lessens gratitude, and what necessity increases it",
+            "pt-BR": "Capítulo V. Embora isso deva necessariamente acontecer, Deus não o fará constrangido pela necessidade; qual necessidade elimina ou diminui a gratidão e qual a aumenta"
           }
         },
         {
           "id": "l2-c06",
           "title": {
             "la": "Caput VI. Quod satisfactionem, per quam salvatur homo, non possit facere nisi Deus homo",
-            "en-US": "Chapter VI. How no being, except the God-man, can make the atonement by which man is saved"
+            "en-US": "Chapter VI. How no being, except the God-man, can make the atonement by which man is saved",
+            "pt-BR": "Capítulo VI. Somente o Deus-homem pode dar a satisfação pela qual o homem é salvo"
           }
         },
         {
           "id": "l2-c07",
           "title": {
             "la": "Caput VII. Quod necesse sit eumdem ipsum esse perfectum Deum, et perfectum hominem",
-            "en-US": "Chapter VII. How necessary it is for the same being to be perfect God and perfect man"
+            "en-US": "Chapter VII. How necessary it is for the same being to be perfect God and perfect man",
+            "pt-BR": "Capítulo VII. É necessário que o mesmo seja perfeito Deus e perfeito homem"
           }
         },
         {
           "id": "l2-c08",
           "title": {
             "la": "Caput VIII. Quod ex genere Adae, et de virgine femina Deum oporteat assumere hominem",
-            "en-US": "Chapter VIII. How it behoved God to take a man of the race of Adam, and born of a woman"
+            "en-US": "Chapter VIII. How it behoved God to take a man of the race of Adam, and born of a woman",
+            "pt-BR": "Capítulo VIII. Convém que Deus assuma um homem da descendência de Adão e de uma mulher virgem"
           }
         },
         {
           "id": "l2-c09",
           "title": {
             "la": "Caput IX. Quod necesse sit Verbum solum, et hominem in unam convenire personam",
-            "en-US": "Chapter IX. How of necessity the Word only can unite in one person with man"
+            "en-US": "Chapter IX. How of necessity the Word only can unite in one person with man",
+            "pt-BR": "Capítulo IX. É necessário que somente o Verbo e o homem se unam numa só pessoa"
           }
         },
         {
           "id": "l2-c10",
           "title": {
             "la": "Caput X. Quod idem homo non ex debito moriatur: et quomodo possit vel non possit peccare: et cur ille, vel angelus de sua justitia laudandus sit; cum peccare non possint",
-            "en-US": "Chapter X. How this man dies not of debt; and in what sense he can or cannot sin; and how neither he nor an angel deserves praise for their holiness, if it is impossible for them to sin"
+            "en-US": "Chapter X. How this man dies not of debt; and in what sense he can or cannot sin; and how neither he nor an angel deserves praise for their holiness, if it is impossible for them to sin",
+            "pt-BR": "Capítulo X. Esse homem não morre por dívida; como pode ou não pode pecar; e por que ele ou um anjo deve ser louvado por sua justiça, embora não possam pecar"
           }
         },
         {
           "id": "l2-c11",
           "title": {
             "la": "Caput XI. Quod moriatur ex sua potestate: et quod mortalitas non pertineat ad puram hominis naturam",
-            "en-US": "Chapter XI. How Christ dies of his own power, and how mortality does not inhere in the essential nature of man"
+            "en-US": "Chapter XI. How Christ dies of his own power, and how mortality does not inhere in the essential nature of man",
+            "pt-BR": "Capítulo XI. Ele morre por seu próprio poder, e a mortalidade não pertence à pura natureza do homem"
           }
         },
         {
           "id": "l2-c12",
           "title": {
             "la": "Caput XII. Quod quamvis incommodorum nostrorum particeps sit, miser tamen non sit",
-            "en-US": "Chapter XII. How, though he share in our weakness, he is not therefore miserable"
+            "en-US": "Chapter XII. How, though he share in our weakness, he is not therefore miserable",
+            "pt-BR": "Capítulo XII. Embora participe de nossas adversidades, ele não é infeliz"
           }
         },
         {
           "id": "l2-c13",
           "title": {
             "la": "Caput XIII. Quod cum aliis infirmitatibus nostris ignorantiam non habeat",
-            "en-US": "Chapter XIII. How, along with our other weaknesses, he does not partake of our ignorance"
+            "en-US": "Chapter XIII. How, along with our other weaknesses, he does not partake of our ignorance",
+            "pt-BR": "Capítulo XIII. Embora tenha outras fraquezas nossas, ele não tem ignorância"
           }
         },
         {
           "id": "l2-c14",
           "title": {
             "la": "Caput XIV. Quomodo mors ejus praevaleat numero et magnitudini peccatorum omnium",
-            "en-US": "Chapter XIV. How his death outweighs the number and greatness of our sins"
+            "en-US": "Chapter XIV. How his death outweighs the number and greatness of our sins",
+            "pt-BR": "Capítulo XIV. Como sua morte supera o número e a grandeza de todos os pecados"
           }
         },
         {
           "id": "l2-c15",
           "title": {
             "la": "Caput XV. Quomodo deleat mors eadem etiam peccata cum perimentium",
-            "en-US": "Chapter XV. How this death removes even the sins of his murderers"
+            "en-US": "Chapter XV. How this death removes even the sins of his murderers",
+            "pt-BR": "Capítulo XV. Como essa mesma morte apaga até os pecados daqueles que o matam"
           }
         },
         {
           "id": "l2-c16",
           "title": {
             "la": "Caput XVI. Qualiter Deus de massa peccatrice assumpsit hominem sine peccato; et de salvatione Adae et Evae",
-            "en-US": "Chapter XVI. How God took that man from a sinful substance, and yet without sin; and of the salvation of Adam and Eve"
+            "en-US": "Chapter XVI. How God took that man from a sinful substance, and yet without sin; and of the salvation of Adam and Eve",
+            "pt-BR": "Capítulo XVI. Como Deus assumiu da massa pecadora um homem sem pecado; e sobre a salvação de Adão e Eva"
           }
         },
         {
           "id": "l2-c17",
           "title": {
             "la": "Caput XVII. Quomodo non necessitate mortuus est, qui non potuit esse nisi quia erat moriturus",
-            "en-US": "Chapter XVII. How he did not die of necessity, though he could not be born, except as destined to suffer death"
+            "en-US": "Chapter XVII. How he did not die of necessity, though he could not be born, except as destined to suffer death",
+            "pt-BR": "Capítulo XVII. Como não morreu por necessidade aquele que não pôde existir senão porque haveria de morrer"
           }
         },
         {
           "id": "l2-c18",
           "title": {
             "la": "Caput XVIII. Quid in Deo non sit necessitas, vel impossibilitas: et quid sit necessitas cogens, et necessitas non cogens",
-            "en-US": "Chapter XVIII (a). How, with God there is neither necessity nor impossibility, and what is a coercive necessity, and what one that is not so"
+            "en-US": "Chapter XVIII (a). How, with God there is neither necessity nor impossibility, and what is a coercive necessity, and what one that is not so",
+            "pt-BR": "Capítulo XVIII. Em Deus não há necessidade nem impossibilidade; e o que é necessidade que constrange e necessidade que não constrange"
           }
         },
         {
           "id": "l2-c19",
           "title": {
             "la": "Caput XIX. Quomodo vita Christi solvatur Deo pro peccatis hominum: et quomodo Christus debuit et non debuit pati",
-            "en-US": "Chapter XVIII (b). How Christ's life is paid to God for the sins of men, and in what sense Christ ought, and in what sense he ought not, or was not bound, to suffer"
+            "en-US": "Chapter XVIII (b). How Christ's life is paid to God for the sins of men, and in what sense Christ ought, and in what sense he ought not, or was not bound, to suffer",
+            "pt-BR": "Capítulo XIX. Como a vida de Cristo é paga a Deus pelos pecados dos homens; e como Cristo devia e não devia sofrer"
           }
         },
         {
           "id": "l2-c20",
           "title": {
             "la": "Caput XX. Qua ratione de morte ejus sequatur humana salvatio",
-            "en-US": "Chapter XIX. How human salvation follows upon his death"
+            "en-US": "Chapter XIX. How human salvation follows upon his death",
+            "pt-BR": "Capítulo XX. Por qual razão de sua morte se segue a salvação humana"
           }
         },
         {
           "id": "l2-c21",
           "title": {
             "la": "Caput XXI. Quam magna, et quam justa sit misericordia Dei",
-            "en-US": "Chapter XX. How great and how just is God's compassion"
+            "en-US": "Chapter XX. How great and how just is God's compassion",
+            "pt-BR": "Capítulo XXI. Quão grande e quão justa é a misericórdia de Deus"
           }
         },
         {
           "id": "l2-c22",
           "title": {
             "la": "Caput XXII. Quod impossibile sit diabolum reconciliari",
-            "en-US": "Chapter XXI. How it is impossible for the devil to be reconciled"
+            "en-US": "Chapter XXI. How it is impossible for the devil to be reconciled",
+            "pt-BR": "Capítulo XXII. É impossível que o diabo seja reconciliado"
           }
         },
         {
           "id": "l2-c23",
           "title": {
             "la": "Caput XXIII. Quod in his quae dicta sunt, veritas Veteris et Novi Testamenti probata sit",
-            "en-US": "Chapter XXII. How the truth of the Old and New Testament is shown in the things which have been said"
+            "en-US": "Chapter XXII. How the truth of the Old and New Testament is shown in the things which have been said",
+            "pt-BR": "Capítulo XXIII. No que foi dito, demonstrou-se a verdade do Antigo e do Novo Testamento"
           }
         }
       ]
