@@ -14,17 +14,23 @@
   "description": {
     "fr-FR": "Les huit pièces que Thérèse composa pour les fêtes de sa communauté entre 1894 et 1897 (RP 1–8) : deux sur Jeanne d’Arc, les Anges à la crèche, Jésus à Béthanie, le Divin Petit Mendiant de Noël, la Fuite en Égypte, le Triomphe de l’Humilité et saint Stanislas Kostka. Mêlant dialogues et couplets chantés, elles étaient jouées par les sœurs. Texte authentique de l’édition du Centenaire, d’après les archives du Carmel de Lisieux.",
     "en-US": "The eight pieces Thérèse composed for her community’s feasts between 1894 and 1897 (RP 1–8): two on Joan of Arc, the Angels at the Crib, Jesus at Bethany, the Divine Little Beggar of Christmas, the Flight into Egypt, the Triumph of Humility, and St Stanislaus Kostka. Mixing dialogue and sung verses, they were performed by the sisters. The authentic text of the Centenary edition, from the archives of the Carmel of Lisieux.",
-    "pt-BR": "As oito peças que Teresinha compôs para as festas da comunidade entre 1894 e 1897 (RP 1–8): duas sobre Joana d’Arc, os Anjos no presépio, Jesus em Betânia, o Divino Pequeno Mendigo do Natal, a Fuga para o Egito, o Triunfo da Humildade e são Estanislau Kostka. Com diálogos e estrofes cantadas, eram representadas pelas irmãs."
+    "pt-BR": "As oito peças que Teresinha compôs para as festas da comunidade entre 1894 e 1897 (RP 1–8): duas sobre Joana d’Arc, os Anjos no presépio, Jesus em Betânia, o Divino Pequeno Mendigo do Natal, a Fuga para o Egito, o Triunfo da Humildade e são Estanislau Kostka. Com diálogos e estrofes cantadas, eram representadas pelas irmãs. Texto autêntico da edição do Centenário, segundo os arquivos do Carmelo de Lisieux."
   },
   "composed": "1894–1897",
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "therese-of-lisieux/recreations-pieuses",
   "editions": {
     "fr-FR": {
       "editor": "Carmel de Lisieux (Nouvelle Édition du Centenaire)",
       "year": 1992
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,49 +47,57 @@
     {
       "id": "rp-1",
       "title": {
-        "fr-FR": "RP 1. La Mission de Jeanne d'Arc"
+        "fr-FR": "RP 1. La Mission de Jeanne d'Arc",
+        "pt-BR": "RP 1. A Missão de Joana d’Arc"
       }
     },
     {
       "id": "rp-2",
       "title": {
-        "fr-FR": "RP 2. Les Anges à la Crèche de Jésus"
+        "fr-FR": "RP 2. Les Anges à la Crèche de Jésus",
+        "pt-BR": "RP 2. Os Anjos no Presépio de Jesus"
       }
     },
     {
       "id": "rp-3",
       "title": {
-        "fr-FR": "RP 3. Jeanne d'Arc accomplissant sa mission"
+        "fr-FR": "RP 3. Jeanne d'Arc accomplissant sa mission",
+        "pt-BR": "RP 3. Joana d’Arc cumprindo sua missão"
       }
     },
     {
       "id": "rp-4",
       "title": {
-        "fr-FR": "RP 4. Jésus à Béthanie"
+        "fr-FR": "RP 4. Jésus à Béthanie",
+        "pt-BR": "RP 4. Jesus em Betânia"
       }
     },
     {
       "id": "rp-5",
       "title": {
-        "fr-FR": "RP 5. Le Divin Petit Mendiant de Noël"
+        "fr-FR": "RP 5. Le Divin Petit Mendiant de Noël",
+        "pt-BR": "RP 5. O Divino Pequeno Mendigo do Natal"
       }
     },
     {
       "id": "rp-6",
       "title": {
-        "fr-FR": "RP 6. La Fuite en Egypte"
+        "fr-FR": "RP 6. La Fuite en Egypte",
+        "pt-BR": "RP 6. A Fuga para o Egito"
       }
     },
     {
       "id": "rp-7",
       "title": {
-        "fr-FR": "RP 7. Le Triomphe de l'Humilité"
+        "fr-FR": "RP 7. Le Triomphe de l'Humilité",
+        "pt-BR": "RP 7. O Triunfo da Humildade"
       }
     },
     {
       "id": "rp-8",
       "title": {
-        "fr-FR": "RP 8. Saint Stanislas Kostka"
+        "fr-FR": "RP 8. Saint Stanislas Kostka",
+        "pt-BR": "RP 8. Santo Estanislau Kostka"
       }
     }
   ]
