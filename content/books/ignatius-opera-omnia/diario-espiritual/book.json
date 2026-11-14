@@ -14,17 +14,23 @@
   "description": {
     "es-ES": "El diario que San Ignacio llevó en Roma del 2 de febrero de 1544 al 27 de febrero de 1545: primero la elección sobre la pobreza de las iglesias de la Compañía, después las misas, las lágrimas y las visiones de la Trinidad. Cuatrocientos noventa apuntes numerados, con las siglas del autógrafo.",
     "en-US": "The journal St. Ignatius kept in Rome from 2 February 1544 to 27 February 1545: first the election on the poverty of the Society's churches, then the Masses, tears and visions of the Trinity. 490 numbered entries, with the sigla of the autograph. Spanish only for now.",
-    "pt-BR": "O diário que Santo Inácio manteve em Roma de 2 de fevereiro de 1544 a 27 de fevereiro de 1545: a eleição sobre a pobreza das igrejas da Companhia e depois as missas, as lágrimas e as visões da Trindade."
+    "pt-BR": "O diário que Santo Inácio manteve em Roma de 2 de fevereiro de 1544 a 27 de fevereiro de 1545: a eleição sobre a pobreza das igrejas da Companhia e depois as missas, as lágrimas e as visões da Trindade. Quatrocentos e noventa apontamentos numerados, com as siglas do autógrafo."
   },
   "composed": "1544–1545",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "ignatius-of-loyola/diario-espiritual",
   "editions": {
     "es-ES": {
       "editor": "Autógrafo (MHSI, Const. I 86-158), trans. Santiago Thió, via Documenta Catholica Omnia",
       "year": 1544
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,19 +47,22 @@
     {
       "id": "signos",
       "title": {
-        "es-ES": "Signos y siglas"
+        "es-ES": "Signos y siglas",
+        "pt-BR": "Sinais e siglas"
       }
     },
     {
       "id": "cuaderno-1",
       "title": {
-        "es-ES": "Primer cuaderno (2 de febrero – 12 de marzo de 1544)"
+        "es-ES": "Primer cuaderno (2 de febrero – 12 de marzo de 1544)",
+        "pt-BR": "Primeiro caderno (2 de fevereiro – 12 de março de 1544)"
       }
     },
     {
       "id": "cuaderno-2",
       "title": {
-        "es-ES": "Segundo cuaderno (13 de marzo de 1544 – 27 de febrero de 1545)"
+        "es-ES": "Segundo cuaderno (13 de marzo de 1544 – 27 de febrero de 1545)",
+        "pt-BR": "Segundo caderno (13 de março de 1544 – 27 de fevereiro de 1545)"
       }
     }
   ]
