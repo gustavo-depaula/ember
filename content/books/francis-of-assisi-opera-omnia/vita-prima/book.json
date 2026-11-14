@@ -19,7 +19,8 @@
   "composed": "1228-1229",
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "thomas-of-celano/vita-prima",
   "editions": {
@@ -29,6 +30,11 @@
     "en-US": {
       "translator": "A. G. Ferrers Howell",
       "year": 1908
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -54,14 +60,16 @@
       "id": "pars-1",
       "title": {
         "la": "PROLOGUS",
-        "en-US": "Preface"
+        "en-US": "Preface",
+        "pt-BR": "PRÓLOGO"
       },
       "children": [
         {
           "id": "cap-001",
           "title": {
             "la": "Caput 1",
-            "en-US": "Preface"
+            "en-US": "Preface",
+            "pt-BR": "Capítulo 1"
           }
         }
       ]
@@ -70,217 +78,248 @@
       "id": "pars-2",
       "title": {
         "la": "OPUSCULUM PRIMUM",
-        "en-US": "Part I"
+        "en-US": "Part I",
+        "pt-BR": "PRIMEIRO LIVRO"
       },
       "children": [
         {
           "id": "cap-002",
           "title": {
             "la": "Caput I - Qualiter conversatus sit in habitu et animo saeculari.",
-            "en-US": "Chapter I. How he bore himself in the worldly habit and mind"
+            "en-US": "Chapter I. How he bore himself in the worldly habit and mind",
+            "pt-BR": "Capítulo I - Como se portou no traje e no espírito do mundo."
           }
         },
         {
           "id": "cap-003",
           "title": {
             "la": "Caput II - Qualiter Deus visitavit cor eius per corporis infirmitatem et nocturnam visionem.",
-            "en-US": "Chapter II. How God visited his heart by sickness of body and a vision in the night"
+            "en-US": "Chapter II. How God visited his heart by sickness of body and a vision in the night",
+            "pt-BR": "Capítulo II - Como Deus visitou o seu coração por meio de uma enfermidade do corpo e de uma visão noturna."
           }
         },
         {
           "id": "cap-004",
           "title": {
             "la": "Caput III - Qualiter mente sed non corpore mutatus de thesauro invento et sponsa allegorice loquebatur.",
-            "en-US": "Chapter III. How, changed in mind but not in body, he spake allegorically of a treasure found, and of a Bride"
+            "en-US": "Chapter III. How, changed in mind but not in body, he spake allegorically of a treasure found, and of a Bride",
+            "pt-BR": "Capítulo III - Como, mudado no espírito, mas não no corpo, falava alegoricamente de um tesouro encontrado e de uma esposa."
           }
         },
         {
           "id": "cap-005",
           "title": {
             "la": "Caput IV - Qualiter, venditis omnibus, pecuniam susceptam contempsit.",
-            "en-US": "Chapter IV. How he sold all his goods and despised the money he got for them"
+            "en-US": "Chapter IV. How he sold all his goods and despised the money he got for them",
+            "pt-BR": "Capítulo IV - Como, vendidas todas as coisas, desprezou o dinheiro recebido."
           }
         },
         {
           "id": "cap-006",
           "title": {
             "la": "Caput V - Qualiter pater eius persequens ligavit eum.",
-            "en-US": "Chapter V. How his father persecuted and bound him"
+            "en-US": "Chapter V. How his father persecuted and bound him",
+            "pt-BR": "Capítulo V - Como seu pai, perseguindo-o, o amarrou."
           }
         },
         {
           "id": "cap-007",
           "title": {
             "la": "Caput VI - Qualiter mater eius solvit eum, et quomodo coram Episcopo Assisii se denudavit.",
-            "en-US": "Chapter VI. How his mother released him, and how he stript himself before the Bishop of Assisi"
+            "en-US": "Chapter VI. How his mother released him, and how he stript himself before the Bishop of Assisi",
+            "pt-BR": "Capítulo VI - Como sua mãe o soltou, e como se despojou diante do bispo de Assis."
           }
         },
         {
           "id": "cap-008",
           "title": {
             "la": "Caput VII - Qualiter a latronibus captus, proiectus fuit in nive et quomodo servivit leprosis.",
-            "en-US": "Chapter VII. How he was taken by robbers and thrown into the snow; and how he served the lepers"
+            "en-US": "Chapter VII. How he was taken by robbers and thrown into the snow; and how he served the lepers",
+            "pt-BR": "Capítulo VII - Como, capturado por salteadores, foi atirado na neve, e como serviu os leprosos."
           }
         },
         {
           "id": "cap-009",
           "title": {
             "la": "Caput VIII - Quomodo construxit ecclesiam Sancti Damiani et de conversatione Dominarum in eodem loco degentium.",
-            "en-US": "Chapter VIII. How he built S. Damian's church: and concerning the conversation of the Ladies who abode in that same place"
+            "en-US": "Chapter VIII. How he built S. Damian's church: and concerning the conversation of the Ladies who abode in that same place",
+            "pt-BR": "Capítulo VIII - Como construiu a igreja de São Damião, e do modo de vida das Damas que moravam nesse mesmo lugar."
           }
         },
         {
           "id": "cap-010",
           "title": {
             "la": "Caput IX - Quomodo, mutato habitu, refecit ecclesiam Sanctae Mariae in Portiuncula et audito Evangelio, relictis omnibus habitum quem fratres habent adinvenit et fecit.",
-            "en-US": "Chapter IX. How, having changed his habit, he rebuilt the church of S. Maria in Portiuncula; and how, on hearing the Gospel, he forsook all things, and invented and made the habit which the brethren wear"
+            "en-US": "Chapter IX. How, having changed his habit, he rebuilt the church of S. Maria in Portiuncula; and how, on hearing the Gospel, he forsook all things, and invented and made the habit which the brethren wear",
+            "pt-BR": "Capítulo IX - Como, mudado o hábito, reconstruiu a igreja de Santa Maria da Porciúncula, e como, ouvido o Evangelho, deixou tudo, ideou e fez o hábito que os irmãos usam."
           }
         },
         {
           "id": "cap-011",
           "title": {
             "la": "Caput X - De preadicatione Evangelii et annuntiatione pacis et sex primorum Fratrum conversione.",
-            "en-US": "Chapter X. Of his preaching of the Gospel and proclamation of peace; and of the conversion of the first six brethren"
+            "en-US": "Chapter X. Of his preaching of the Gospel and proclamation of peace; and of the conversion of the first six brethren",
+            "pt-BR": "Capítulo X - Da pregação do Evangelho e do anúncio da paz, e da conversão dos seis primeiros irmãos."
           }
         },
         {
           "id": "cap-012",
           "title": {
             "la": "Caput XI - De spiritu prophetiae et monitis sancti Francisci.",
-            "en-US": "Chapter XI. Of S. Francis' spirit of prophecy and his admonitions"
+            "en-US": "Chapter XI. Of S. Francis' spirit of prophecy and his admonitions",
+            "pt-BR": "Capítulo XI - Do espírito de profecia e das admoestações de São Francisco."
           }
         },
         {
           "id": "cap-013",
           "title": {
             "la": "Caput XII - Quomodo misit eos binos per mundum, et in brevi tempore iterum congregati sunt.",
-            "en-US": "Chapter XII. How he sent them two by two through the world and how in a short time they came together again"
+            "en-US": "Chapter XII. How he sent them two by two through the world and how in a short time they came together again",
+            "pt-BR": "Capítulo XII - Como os enviou dois a dois pelo mundo, e em pouco tempo se reuniram de novo."
           }
         },
         {
           "id": "cap-014",
           "title": {
             "la": "Caput XIII - Quomodo primo regulam scripsit undecim habens fratres, et quomodo dominus Papa Inocentius eam confirmavit, et de visione arboris.",
-            "en-US": "Chapter XIII. How, having eleven brethren, he first wrote down the Rule; and how the Lord Pope Innocent confirmed it: and concerning the vision of the tree"
+            "en-US": "Chapter XIII. How, having eleven brethren, he first wrote down the Rule; and how the Lord Pope Innocent confirmed it: and concerning the vision of the tree",
+            "pt-BR": "Capítulo XIII - Como, tendo onze irmãos, escreveu pela primeira vez a regra, e como o senhor papa Inocêncio a confirmou, e da visão da árvore."
           }
         },
         {
           "id": "cap-015",
           "title": {
             "la": "Caput XIV - De reditu ipsius ab urbe Roma in vallem Spoletanam et de mora ipsius per viam.",
-            "en-US": "Chapter XIV. Of his return from Rome to the valley of Spoleto, and of his sojourn on the way"
+            "en-US": "Chapter XIV. Of his return from Rome to the valley of Spoleto, and of his sojourn on the way",
+            "pt-BR": "Capítulo XIV - Do seu regresso da cidade de Roma ao vale de Espoleto e da sua demora pelo caminho."
           }
         },
         {
           "id": "cap-016",
           "title": {
             "la": "Caput XV - De fama beati Francisci et de conversione multorum ad Deum, et quomodo Ordo vocatus est fratrum Minorum, et qualiter religionem intrantes beatus Franciscus informabat.",
-            "en-US": "Chapter XV. Of the fame of S. Francis, and of the conversion of many to God. How the Order was called that of the Lesser Brethren (Friars Minor); and how blessed Francis fashioned those entering the Religion"
+            "en-US": "Chapter XV. Of the fame of S. Francis, and of the conversion of many to God. How the Order was called that of the Lesser Brethren (Friars Minor); and how blessed Francis fashioned those entering the Religion",
+            "pt-BR": "Capítulo XV - Da fama do bem-aventurado Francisco e da conversão de muitos a Deus; como a Ordem foi chamada dos Frades Menores, e como o bem-aventurado Francisco formava os que entravam na Ordem."
           }
         },
         {
           "id": "cap-017",
           "title": {
             "la": "Caput XVI - De mora ipsius apud Rigum Tortum et de custodia paupertatis.",
-            "en-US": "Chapter XVI. Of his sojourn at Rivo Torto and of his guarding of Poverty"
+            "en-US": "Chapter XVI. Of his sojourn at Rivo Torto and of his guarding of Poverty",
+            "pt-BR": "Capítulo XVI - Da sua permanência em Rivotorto e da guarda da pobreza."
           }
         },
         {
           "id": "cap-018",
           "title": {
             "la": "Caput XVII - Quomodo beatus Francicus docuit fratres orare, et de obedientia et puritate fratrum.",
-            "en-US": "Chapter XVII. How the blessed Francis taught the brethren to pray; and concerning the obedience and purity of the brethren"
+            "en-US": "Chapter XVII. How the blessed Francis taught the brethren to pray; and concerning the obedience and purity of the brethren",
+            "pt-BR": "Capítulo XVII - Como o bem-aventurado Francisco ensinou os irmãos a orar, e da obediência e pureza dos irmãos."
           }
         },
         {
           "id": "cap-019",
           "title": {
             "la": "Caput XVIII - De curru igneo et notitia absentium quam beatus Franciscus habebat.",
-            "en-US": "Chapter XVIII. Of the fiery chariot; and of blessed Francis' knowledge of things absent"
+            "en-US": "Chapter XVIII. Of the fiery chariot; and of blessed Francis' knowledge of things absent",
+            "pt-BR": "Capítulo XVIII - Do carro de fogo e do conhecimento que o bem-aventurado Francisco tinha dos ausentes."
           }
         },
         {
           "id": "cap-020",
           "title": {
             "la": "Caput XIX - De custodia qua super fratres vigilabat, et de contemptu sui et vera humilitate.",
-            "en-US": "Chapter XIX. Of S. Francis' watchful guarding of the brethren; of his self-contempt and true humility"
+            "en-US": "Chapter XIX. Of S. Francis' watchful guarding of the brethren; of his self-contempt and true humility",
+            "pt-BR": "Capítulo XIX - Da guarda com que velava sobre os irmãos, e do desprezo de si e da verdadeira humildade."
           }
         },
         {
           "id": "cap-021",
           "title": {
             "la": "Caput XX - De desiderio quo ad suscipiendum martyrium ferebatur Hispaniam primo, deinde Syriam deambulans, et quomodo Deus per eum nautas de periculo, multiplicatis cibariis liberavit.",
-            "en-US": "Chapter XX. Of the longing whereby he was moved to receive martyrdom, journeying first to Spain and then to Syria: and how God through him delivered the sailors from peril by multiplying the provisions"
+            "en-US": "Chapter XX. Of the longing whereby he was moved to receive martyrdom, journeying first to Spain and then to Syria: and how God through him delivered the sailors from peril by multiplying the provisions",
+            "pt-BR": "Capítulo XX - Do desejo que o levava a buscar o martírio, indo primeiro à Espanha e depois à Síria, e como Deus, por meio dele, livrou os marinheiros do perigo multiplicando os mantimentos."
           }
         },
         {
           "id": "cap-022",
           "title": {
             "la": "Caput XXI - De praedicatione avium et obedientia creaturarum.",
-            "en-US": "Chapter XXI. Of his preaching to the birds and of the obedience of the creatures"
+            "en-US": "Chapter XXI. Of his preaching to the birds and of the obedience of the creatures",
+            "pt-BR": "Capítulo XXI - Da pregação às aves e da obediência das criaturas."
           }
         },
         {
           "id": "cap-023",
           "title": {
             "la": "Caput XXII - De praedicatione ipsius apud Esculum, et quomodo per ea quae manu tetigerat, ipso absente, sanabantur infirmi.",
-            "en-US": "Chapter XXII. Of his preaching at Ascoli; and how the sick were healed in his absence by things that his hand had touched"
+            "en-US": "Chapter XXII. Of his preaching at Ascoli; and how the sick were healed in his absence by things that his hand had touched",
+            "pt-BR": "Capítulo XXII - Da sua pregação em Ascoli, e como os enfermos eram curados, em sua ausência, por meio das coisas que ele tocara com a mão."
           }
         },
         {
           "id": "cap-024",
           "title": {
             "la": "Caput XXIII - Quomodo claudum apud Tuscanellam et paralyticum apud Narnium sanavit.",
-            "en-US": "Chapter XXIII. How he healed a cripple at Toscanella and a paralytic at Narni"
+            "en-US": "Chapter XXIII. How he healed a cripple at Toscanella and a paralytic at Narni",
+            "pt-BR": "Capítulo XXIII - Como curou um coxo em Toscanella e um paralítico em Narni."
           }
         },
         {
           "id": "cap-025",
           "title": {
             "la": "Caput XXIV - Quomodo mulierem caecam illuminavit et apud Eugubium aliam contractam extendit.",
-            "en-US": "Chapter XXIV. How he gave sight to a blind woman, and at Gubbio straightened another, whose hands were contracted"
+            "en-US": "Chapter XXIV. How he gave sight to a blind woman, and at Gubbio straightened another, whose hands were contracted",
+            "pt-BR": "Capítulo XXIV - Como deu a vista a uma mulher cega e, em Gúbio, endireitou outra que estava entrevada."
           }
         },
         {
           "id": "cap-026",
           "title": {
             "la": "Caput XXV - Quomodo fratrem unum a caduco morbo seu a daemonio liberavit, et quomodo apud Sancti Gemini castrum daemoniacam liberavit.",
-            "en-US": "Chapter XXV. How he delivered a brother from the falling sickness, or from a devil; and how he delivered a demoniac woman at the fortress of S. Gemini"
+            "en-US": "Chapter XXV. How he delivered a brother from the falling sickness, or from a devil; and how he delivered a demoniac woman at the fortress of S. Gemini",
+            "pt-BR": "Capítulo XXV - Como livrou um irmão da epilepsia, ou de um demônio, e como livrou uma endemoninhada no castelo de San Gemini."
           }
         },
         {
           "id": "cap-027",
           "title": {
             "la": "Caput XXVI - Quomodo etiam apud Civitatem de Castello daemonium expulit.",
-            "en-US": "Chapter XXVI. How at Citta di Castello also he cast out a devil"
+            "en-US": "Chapter XXVI. How at Citta di Castello also he cast out a devil",
+            "pt-BR": "Capítulo XXVI - Como também em Città di Castello expulsou um demônio."
           }
         },
         {
           "id": "cap-028",
           "title": {
             "la": "Caput XXVII - De claritate et constantia mentis eius et de praedicatione coram domino Papa Honorio,et quomodo se et fratres commisit domino Hugoni, episcopo Ostiensi.",
-            "en-US": "Chapter XXVII. Of his serenity and stedfastness of mind and of his preaching before the Lord Pope Honorius; and how he committed himself and the brethren to the Lord Hugo, Bishop of Ostia"
+            "en-US": "Chapter XXVII. Of his serenity and stedfastness of mind and of his preaching before the Lord Pope Honorius; and how he committed himself and the brethren to the Lord Hugo, Bishop of Ostia",
+            "pt-BR": "Capítulo XXVII - Da clareza e constância do seu espírito, da sua pregação diante do senhor papa Honório, e como confiou a si mesmo e os irmãos ao senhor Hugo, bispo de Óstia."
           }
         },
         {
           "id": "cap-029",
           "title": {
             "la": "Caput XXVIII - De spiritu charitatis et affectu compassionis quo fervebat erga pauperes, et quid de ove et agniculis fecerit.",
-            "en-US": "Chapter XXVIII. Of the spirit of charity and the compassionate disposition wherewith he glowed toward the poor: and of his treatment of a sheep, and lambs"
+            "en-US": "Chapter XXVIII. Of the spirit of charity and the compassionate disposition wherewith he glowed toward the poor: and of his treatment of a sheep, and lambs",
+            "pt-BR": "Capítulo XXVIII - Do espírito de caridade e do afeto de compaixão com que ardia para com os pobres, e do que fez com uma ovelha e com uns cordeirinhos."
           }
         },
         {
           "id": "cap-030",
           "title": {
             "la": "Caput XXIX - De amore quem propter Creatorem in omnibus creaturis habebat et de descriptione utriusque hominis sui.",
-            "en-US": "Chapter XXIX. Of the love which he bore to all creatures for the Creator's sake. De- scription of his inner and outer man"
+            "en-US": "Chapter XXIX. Of the love which he bore to all creatures for the Creator's sake. De- scription of his inner and outer man",
+            "pt-BR": "Capítulo XXIX - Do amor que tinha a todas as criaturas por causa do Criador, e da descrição do seu homem interior e exterior."
           }
         },
         {
           "id": "cap-031",
           "title": {
             "la": "Caput XXX - De praesepio quod fecit in die natalis Domini.",
-            "en-US": "Chapter XXX. Of the manger that he made on Christmas day"
+            "en-US": "Chapter XXX. Of the manger that he made on Christmas day",
+            "pt-BR": "Capítulo XXX - Do presépio que fez no dia do Natal do Senhor."
           }
         }
       ]
@@ -289,77 +328,88 @@
       "id": "pars-3",
       "title": {
         "la": "OPUSCULUM SECUNDUM",
-        "en-US": "Part II"
+        "en-US": "Part II",
+        "pt-BR": "SEGUNDO LIVRO"
       },
       "children": [
         {
           "id": "cap-032",
           "title": {
             "la": "Caput I - De tenore huius opuscoli, de tempore quo S. Franciscus feliciter obiit, et de profectibus ipsius.",
-            "en-US": "Chapter I"
+            "en-US": "Chapter I",
+            "pt-BR": "Capítulo I - Do teor deste livro, do tempo em que São Francisco teve a sua ditosa morte, e dos seus progressos."
           }
         },
         {
           "id": "cap-033",
           "title": {
             "la": "Caput II - De summo desiderio beati Francisci, et qualiter in libri apertione intelexit de se Domini voluntatem.",
-            "en-US": "Chapter II. Of blessed Francis greatest desire; and how in the opening of a book he understood the Lord's will concerning him"
+            "en-US": "Chapter II. Of blessed Francis greatest desire; and how in the opening of a book he understood the Lord's will concerning him",
+            "pt-BR": "Capítulo II - Do sumo desejo do bem-aventurado Francisco, e como, ao abrir um livro, compreendeu a vontade do Senhor a seu respeito."
           }
         },
         {
           "id": "cap-034",
           "title": {
             "la": "Caput III - De visione hominis imaginem Seraphim crucifixi habentis.",
-            "en-US": "Chapter III. Of the vision of a man having the likeness of a seraph crucified"
+            "en-US": "Chapter III. Of the vision of a man having the likeness of a seraph crucified",
+            "pt-BR": "Capítulo III - Da visão de um homem com a figura de um serafim crucificado."
           }
         },
         {
           "id": "cap-035",
           "title": {
             "la": "Caput IV - De fervore beati Francisci et infirmitate oculorum eius.",
-            "en-US": "Chapter IV. Of blessed Francis' fervour: and of the infirmity of his eyes"
+            "en-US": "Chapter IV. Of blessed Francis' fervour: and of the infirmity of his eyes",
+            "pt-BR": "Capítulo IV - Do fervor do bem-aventurado Francisco e da enfermidade dos seus olhos."
           }
         },
         {
           "id": "cap-036",
           "title": {
             "la": "Caput V - Qualiter apud Reatum civitatem receptus fuit a domino Hugone Ostiensi episcopo, et quomodo santus eum pronuntiabat futurum episcopum totius mundi.",
-            "en-US": "Chapter V. How he was received at Rieti by the Lord Hugo, Bishop of Ostia; and how the Saint proclaimed that that bishop would be bishop of all the world"
+            "en-US": "Chapter V. How he was received at Rieti by the Lord Hugo, Bishop of Ostia; and how the Saint proclaimed that that bishop would be bishop of all the world",
+            "pt-BR": "Capítulo V - Como foi recebido na cidade de Rieti pelo senhor Hugo, bispo de Óstia, e como o santo predizia que ele seria bispo de todo o mundo."
           }
         },
         {
           "id": "cap-037",
           "title": {
             "la": "Caput VI - De moribus fratrum famulantium sancto Francisco, et qualiter ipse disponebat conversari.",
-            "en-US": "Chapter VI. Of the behaviour of the brethren who waited on S. Francis; and how- he was disposing himself to live"
+            "en-US": "Chapter VI. Of the behaviour of the brethren who waited on S. Francis; and how- he was disposing himself to live",
+            "pt-BR": "Capítulo VI - Do comportamento dos irmãos que serviam São Francisco, e de como ele se dispunha a viver."
           }
         },
         {
           "id": "cap-038",
           "title": {
             "la": "Caput VII - Quomodo de Senis venit Assisium, et de ecclesia Sanctae Mariae de Portiuncula, et de fratrum benedictione.",
-            "en-US": "Chapter VII. How he came from Siena to Assisi: of the Church of Santa Maria in Portiuncula: and of the blessing of the brethren"
+            "en-US": "Chapter VII. How he came from Siena to Assisi: of the Church of Santa Maria in Portiuncula: and of the blessing of the brethren",
+            "pt-BR": "Capítulo VII - Como veio de Sena a Assis, da igreja de Santa Maria da Porciúncula e da bênção dos irmãos."
           }
         },
         {
           "id": "cap-039",
           "title": {
             "la": "Caput VIII - Quid fecerit et dixerit quando feliciter obiit.",
-            "en-US": "Chapter VIII. What he did and said at the time of his happy decease"
+            "en-US": "Chapter VIII. What he did and said at the time of his happy decease",
+            "pt-BR": "Capítulo VIII - O que fez e disse quando teve a sua ditosa morte."
           }
         },
         {
           "id": "cap-040",
           "title": {
             "la": "Caput IX - Lamentum fratrum et gaudium cum cernerent signa ferentem crucis, et de alis Seraphim.",
-            "en-US": "Chapter IX. Of the brethren's lamentation and of their joy when they beheld him bearing the signs of the Cross: and of the Seraph's wings"
+            "en-US": "Chapter IX. Of the brethren's lamentation and of their joy when they beheld him bearing the signs of the Cross: and of the Seraph's wings",
+            "pt-BR": "Capítulo IX - O pranto dos irmãos e a sua alegria ao vê-lo trazer os sinais da cruz, e das asas do serafim."
           }
         },
         {
           "id": "cap-041",
           "title": {
             "la": "Caput X - De planctu Dominarum apud Sanctum Damianum et quomodo cum laude et gloria sepultus est.",
-            "en-US": "Chapter X. Of the wailing of the ladies at S. Damian; and how S. Francis was buried with praise and glory"
+            "en-US": "Chapter X. Of the wailing of the ladies at S. Damian; and how S. Francis was buried with praise and glory",
+            "pt-BR": "Capítulo X - Do pranto das Damas em São Damião, e como foi sepultado com louvor e glória."
           }
         }
       ]
@@ -368,14 +418,16 @@
       "id": "pars-4",
       "title": {
         "la": "OPUSCULUM TERTIUM",
-        "en-US": "Part III"
+        "en-US": "Part III",
+        "pt-BR": "TERCEIRO LIVRO"
       },
       "children": [
         {
           "id": "cap-042",
           "title": {
             "la": "Caput 42",
-            "en-US": "Part III. The Canonization of Blessed Francis"
+            "en-US": "Part III. The Canonization of Blessed Francis",
+            "pt-BR": "Capítulo 42"
           }
         }
       ]
@@ -384,14 +436,16 @@
       "id": "pars-5",
       "title": {
         "la": "MIRACULA S. FRANCISCI",
-        "en-US": "The Miracles"
+        "en-US": "The Miracles",
+        "pt-BR": "MILAGRES DE SÃO FRANCISCO"
       },
       "children": [
         {
           "id": "cap-043",
           "title": {
             "la": "Caput 43",
-            "en-US": "The Miracles of Blessed Francis"
+            "en-US": "The Miracles of Blessed Francis",
+            "pt-BR": "Capítulo 43"
           }
         }
       ]
@@ -400,14 +454,16 @@
       "id": "pars-6",
       "title": {
         "la": "[EPILOGUS]",
-        "en-US": "Conclusion"
+        "en-US": "Conclusion",
+        "pt-BR": "[EPÍLOGO]"
       },
       "children": [
         {
           "id": "cap-044",
           "title": {
             "la": "Caput 44",
-            "en-US": "Conclusion"
+            "en-US": "Conclusion",
+            "pt-BR": "Capítulo 44"
           }
         }
       ]
