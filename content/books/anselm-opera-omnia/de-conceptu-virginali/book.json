@@ -14,17 +14,23 @@
   "description": {
     "la": "Tractatus Anselmi de conceptu virginali et de originali peccato ad Valerannum: quomodo Christus sine peccato conceptus sit et quid sit originale peccatum. Textus ex editione Migne (Patrologia Latina 158, 1853).",
     "en-US": "Anselm’s treatise, addressed to Bishop Waleran of Naumburg, on how Christ was conceived of a virgin without sin, and what original sin is and how it is passed on. Latin only, from the Migne text (Patrologia Latina 158, 1853), a machine-corrected OCR, with the chapter summaries.",
-    "pt-BR": "O tratado de Anselmo, dirigido ao bispo Valerano de Naumburgo, sobre como Cristo foi concebido de uma virgem sem pecado e sobre o que é o pecado original e como se transmite."
+    "pt-BR": "O tratado de Anselmo, dirigido ao monge Boso, sobre como Cristo foi concebido de uma virgem sem pecado e sobre o que é o pecado original e como se transmite."
   },
   "composed": "1099-1100",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "anselm/de-conceptu-virginali",
   "editions": {
     "la": {
       "editor": "J.-P. Migne (Patrologia Latina 158)",
       "year": 1853
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,181 +47,211 @@
     {
       "id": "prologus",
       "title": {
-        "la": "Prologus"
+        "la": "Prologus",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "c01",
       "title": {
-        "la": "Caput I. Quae sit originalis, et quae personalis justitia vel injustitia"
+        "la": "Caput I. Quae sit originalis, et quae personalis justitia vel injustitia",
+        "pt-BR": "Capítulo I. O que é a justiça ou injustiça original e o que é a pessoal"
       }
     },
     {
       "id": "c02",
       "title": {
-        "la": "Caput II. Qualiter humana natura corrupta est"
+        "la": "Caput II. Qualiter humana natura corrupta est",
+        "pt-BR": "Capítulo II. De que modo a natureza humana foi corrompida"
       }
     },
     {
       "id": "c03",
       "title": {
-        "la": "Caput III. Quod non sit peccatum nisi in voluntate rationali"
+        "la": "Caput III. Quod non sit peccatum nisi in voluntate rationali",
+        "pt-BR": "Capítulo III. Que não há pecado senão na vontade racional"
       }
     },
     {
       "id": "c04",
       "title": {
-        "la": "Caput IV. Quod nihil per se sit justum aut injustum, nisi ipsa justitia, vel injustitia, et quod nihil puniatur nisi voluntas"
+        "la": "Caput IV. Quod nihil per se sit justum aut injustum, nisi ipsa justitia, vel injustitia, et quod nihil puniatur nisi voluntas",
+        "pt-BR": "Capítulo IV. Que nada é justo ou injusto por si, senão a própria justiça ou injustiça, e que nada é punido senão a vontade"
       }
     },
     {
       "id": "c05",
       "title": {
-        "la": "Caput V. Quod malum, quod est peccatum sive injustitia, nihil sit"
+        "la": "Caput V. Quod malum, quod est peccatum sive injustitia, nihil sit",
+        "pt-BR": "Capítulo V. Que o mal, que é o pecado ou injustiça, não é nada"
       }
     },
     {
       "id": "c06",
       "title": {
-        "la": "Caput VI. Quod cum punit Deus pro peccato, non puniat pro nihilo"
+        "la": "Caput VI. Quod cum punit Deus pro peccato, non puniat pro nihilo",
+        "pt-BR": "Capítulo VI. Que, quando Deus pune pelo pecado, não pune por nada"
       }
     },
     {
       "id": "c07",
       "title": {
-        "la": "Caput VII. Quomodo semen hominis dicatur immundum, et concipit in peccatis, quamvis in eo non sit peccatum"
+        "la": "Caput VII. Quomodo semen hominis dicatur immundum, et concipit in peccatis, quamvis in eo non sit peccatum",
+        "pt-BR": "Capítulo VII. Como se diz que o sêmen do homem é impuro e concebido em pecados, embora nele não haja pecado"
       }
     },
     {
       "id": "c08",
       "title": {
-        "la": "Caput VIII. Quod in semine sumpto de Virgine non sit peccatum neque necessitas futuri peccati"
+        "la": "Caput VIII. Quod in semine sumpto de Virgine non sit peccatum neque necessitas futuri peccati",
+        "pt-BR": "Capítulo VIII. Que no sêmen tomado da Virgem não há pecado nem necessidade de pecado futuro"
       }
     },
     {
       "id": "c09",
       "title": {
-        "la": "Caput IX. Cur peccatum quo damnatur humanum genus, magis imputetur Adae quam Evae; cum ille post et per illam peccaverit"
+        "la": "Caput IX. Cur peccatum quo damnatur humanum genus, magis imputetur Adae quam Evae; cum ille post et per illam peccaverit",
+        "pt-BR": "Capítulo IX. Por que o pecado pelo qual é condenado o gênero humano é imputado mais a Adão do que a Eva, embora ele tenha pecado depois dela e por meio dela"
       }
     },
     {
       "id": "c10",
       "title": {
-        "la": "Caput X. Cur graventur peccato Adae, qui ejus conscii non fuerunt"
+        "la": "Caput X. Cur graventur peccato Adae, qui ejus conscii non fuerunt",
+        "pt-BR": "Capítulo X. Por que são onerados pelo pecado de Adão os que não foram cúmplices dele"
       }
     },
     {
       "id": "c11",
       "title": {
-        "la": "Caput XI. Quod propagatio de Virgine non subjaceat legi et meritis naturalis propagationis; et quod tres sint cursus rerum"
+        "la": "Caput XI. Quod propagatio de Virgine non subjaceat legi et meritis naturalis propagationis; et quod tres sint cursus rerum",
+        "pt-BR": "Capítulo XI. Que a propagação a partir da Virgem não está sujeita à lei e aos méritos da propagação natural; e que há três cursos das coisas"
       }
     },
     {
       "id": "c12",
       "title": {
-        "la": "Caput XII. Quod mala Adae nulla rectitudine ad illum hominem transeant"
+        "la": "Caput XII. Quod mala Adae nulla rectitudine ad illum hominem transeant",
+        "pt-BR": "Capítulo XII. Que os males de Adão não passam com retidão alguma para aquele homem"
       }
     },
     {
       "id": "c13",
       "title": {
-        "la": "Caput XIII. Quod etsi non esset Deus, sed purus homo, necesse tamen esset illum talem esse, qualis primus homo factus est"
+        "la": "Caput XIII. Quod etsi non esset Deus, sed purus homo, necesse tamen esset illum talem esse, qualis primus homo factus est",
+        "pt-BR": "Capítulo XIII. Que, mesmo que não fosse Deus, mas puro homem, seria contudo necessário que ele fosse tal como foi feito o primeiro homem"
       }
     },
     {
       "id": "c14",
       "title": {
-        "la": "Caput XIV. Quod propositae rationi non refragetur quod scriptum est: hominem de immundo semine et in iniquitatibus conceptum; etiamsi de aliquibus proprie dictum sit"
+        "la": "Caput XIV. Quod propositae rationi non refragetur quod scriptum est: hominem de immundo semine et in iniquitatibus conceptum; etiamsi de aliquibus proprie dictum sit",
+        "pt-BR": "Capítulo XIV. Que não se opõe à razão proposta o que está escrito: que o homem é concebido de sêmen impuro e em iniquidades, ainda que isso tenha sido dito propriamente de alguns"
       }
     },
     {
       "id": "c15",
       "title": {
-        "la": "Caput XV. Quomodo massa peccatrix non sit tota peccatrix"
+        "la": "Caput XV. Quomodo massa peccatrix non sit tota peccatrix",
+        "pt-BR": "Capítulo XV. Como a massa pecadora não é toda pecadora"
       }
     },
     {
       "id": "c16",
       "title": {
-        "la": "Caput XVI. Cur Joannes, et alii qui similiter concepti sunt per miraculum, non sint per se liberi a peccato"
+        "la": "Caput XVI. Cur Joannes, et alii qui similiter concepti sunt per miraculum, non sint per se liberi a peccato",
+        "pt-BR": "Capítulo XVI. Por que João e outros concebidos de modo semelhante por milagre não são, por isso mesmo, livres do pecado"
       }
     },
     {
       "id": "c17",
       "title": {
-        "la": "Caput XVII. Cur Deus incarnatus, cum de Adam posset facere homines non deos sine peccato tot, quot sufficerent"
+        "la": "Caput XVII. Cur Deus incarnatus, cum de Adam posset facere homines non deos sine peccato tot, quot sufficerent",
+        "pt-BR": "Capítulo XVII. Por que Deus se encarnou, podendo fazer de Adão, sem pecado, tantos homens, e não deuses, quantos bastassem"
       }
     },
     {
       "id": "c18",
       "title": {
-        "la": "Caput XVIII. Quod de Virgine justa Deus conceptus sit, non necessitate, quasi de peccatrice nasci non posset, sed quia sic decebat"
+        "la": "Caput XVIII. Quod de Virgine justa Deus conceptus sit, non necessitate, quasi de peccatrice nasci non posset, sed quia sic decebat",
+        "pt-BR": "Capítulo XVIII. Que Deus foi concebido de uma Virgem justa, não por necessidade, como se não pudesse nascer de uma pecadora, mas porque assim convinha"
       }
     },
     {
       "id": "c19",
       "title": {
-        "la": "Caput XIX. Quomodo ista ratio, et altera alibi data concordent et differant"
+        "la": "Caput XIX. Quomodo ista ratio, et altera alibi data concordent et differant",
+        "pt-BR": "Capítulo XIX. Como esta razão e a outra, dada em outro lugar, concordam e diferem"
       }
     },
     {
       "id": "c20",
       "title": {
-        "la": "Caput XX. Quod natus de Virgine, pro originali peccato habuerit originalem justitiam"
+        "la": "Caput XX. Quod natus de Virgine, pro originali peccato habuerit originalem justitiam",
+        "pt-BR": "Capítulo XX. Que o nascido da Virgem teve, em lugar do pecado original, a justiça original"
       }
     },
     {
       "id": "c21",
       "title": {
-        "la": "Caput XXI. Quare non potuit habere personalem injustitiam"
+        "la": "Caput XXI. Quare non potuit habere personalem injustitiam",
+        "pt-BR": "Capítulo XXI. Por que não pôde ter injustiça pessoal"
       }
     },
     {
       "id": "c22",
       "title": {
-        "la": "Caput XXII. De quantitate originalis peccati"
+        "la": "Caput XXII. De quantitate originalis peccati",
+        "pt-BR": "Capítulo XXII. Da grandeza do pecado original"
       }
     },
     {
       "id": "c23",
       "title": {
-        "la": "Caput XXIII. Cur et quomodo peccatum descendat in infantes"
+        "la": "Caput XXIII. Cur et quomodo peccatum descendat in infantes",
+        "pt-BR": "Capítulo XXIII. Por que e como o pecado desce às crianças"
       }
     },
     {
       "id": "c24",
       "title": {
-        "la": "Caput XXIV. Quod peccata parentum post Adam non computentur in originali peccato filiorum"
+        "la": "Caput XXIV. Quod peccata parentum post Adam non computentur in originali peccato filiorum",
+        "pt-BR": "Capítulo XXIV. Que os pecados dos pais depois de Adão não se computam no pecado original dos filhos"
       }
     },
     {
       "id": "c25",
       "title": {
-        "la": "Caput XXV. Quomodo peccata parentum noceant animabus filiorum"
+        "la": "Caput XXV. Quomodo peccata parentum noceant animabus filiorum",
+        "pt-BR": "Capítulo XXV. Como os pecados dos pais prejudicam as almas dos filhos"
       }
     },
     {
       "id": "c26",
       "title": {
-        "la": "Caput XXVI. Quomodo tamen nullus portet peccatum patris, sed suum"
+        "la": "Caput XXVI. Quomodo tamen nullus portet peccatum patris, sed suum",
+        "pt-BR": "Capítulo XXVI. Como, contudo, ninguém carrega o pecado do pai, mas o seu"
       }
     },
     {
       "id": "c27",
       "title": {
-        "la": "Caput XXVII. Quid sit originale peccatum, et quod in omnibus sit aequale"
+        "la": "Caput XXVII. Quid sit originale peccatum, et quod in omnibus sit aequale",
+        "pt-BR": "Capítulo XXVII. O que é o pecado original, e que é igual em todos"
       }
     },
     {
       "id": "c28",
       "title": {
-        "la": "Caput XXVIII. Contra illos qui non putant infantes debere damnari"
+        "la": "Caput XXVIII. Contra illos qui non putant infantes debere damnari",
+        "pt-BR": "Capítulo XXVIII. Contra os que não julgam que as crianças devam ser condenadas"
       }
     },
     {
       "id": "c29",
       "title": {
-        "la": "Caput XXIX. Quomodo impotentia habendi justitiam excuset eos post baptismum"
+        "la": "Caput XXIX. Quomodo impotentia habendi justitiam excuset eos post baptismum",
+        "pt-BR": "Capítulo XXIX. Como a incapacidade de ter a justiça os desculpa depois do batismo"
       }
     }
   ]
