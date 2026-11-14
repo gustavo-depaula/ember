@@ -14,17 +14,23 @@
   "description": {
     "fr-FR": "Les petits écrits de Thérèse qui ne sont ni lettres, ni poésies, ni prières : ses notes de retraite de première communion (1884), la « Concordance pascale » des Évangiles de la Résurrection, le mémoire qu’elle rédigea pour la cause de Mère Geneviève de Sainte-Thérèse (1890-1892), et les textes des images qu’elle peignit et offrit à ses sœurs (1888-1897). Transcriptions des archives du Carmel de Lisieux (édition du Centenaire).",
     "en-US": "Thérèse’s small writings that are neither letters, poems nor prayers: her notes for the retreat before her First Communion (1884), the “Paschal Concordance” of the Resurrection Gospels, the memoir she wrote on Mother Geneviève of Saint Teresa (1890-1892), and the texts of the holy cards she painted and gave to her sisters (1888-1897). Transcriptions from the archives of the Carmel of Lisieux (Centenary edition).",
-    "pt-BR": "Os pequenos escritos de Teresinha que não são cartas, poemas nem orações: suas notas de retiro da primeira comunhão (1884), a «Concordância pascal» dos Evangelhos da Ressurreição, a memória sobre Madre Genoveva de Santa Teresa (1890-1892) e os textos das imagens que ela pintou e deu às irmãs (1888-1897)."
+    "pt-BR": "Os pequenos escritos de Teresinha que não são cartas, poemas nem orações: suas notas de retiro da primeira comunhão (1884), a «Concordância pascal» dos Evangelhos da Ressurreição, a memória que ela redigiu para a causa de Madre Genoveva de Santa Teresa (1890-1892) e os textos das imagens que ela pintou e deu às irmãs (1888-1897). Transcrições dos arquivos do Carmelo de Lisieux (edição do Centenário)."
   },
   "composed": "1884–1897",
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "therese-of-lisieux/ecrits-divers",
   "editions": {
     "fr-FR": {
       "editor": "Carmel de Lisieux (Nouvelle Édition du Centenaire)",
       "year": 1992
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,25 +47,29 @@
     {
       "id": "ecrits",
       "title": {
-        "fr-FR": "Écrits divers"
+        "fr-FR": "Écrits divers",
+        "pt-BR": "Escritos diversos"
       },
       "children": [
         {
           "id": "notes-de-retraite",
           "title": {
-            "fr-FR": "Notes de retraite"
+            "fr-FR": "Notes de retraite",
+            "pt-BR": "Notas de retiro"
           }
         },
         {
           "id": "concordance-pascale",
           "title": {
-            "fr-FR": "Concordance pascale"
+            "fr-FR": "Concordance pascale",
+            "pt-BR": "Concordância pascal"
           }
         },
         {
           "id": "memoire-mere-genevieve",
           "title": {
-            "fr-FR": "Mémoire sur Mère Geneviève de Sainte-Thérèse"
+            "fr-FR": "Mémoire sur Mère Geneviève de Sainte-Thérèse",
+            "pt-BR": "Memória sobre Madre Genoveva de Santa Teresa"
           }
         }
       ]
@@ -67,103 +77,120 @@
     {
       "id": "images",
       "title": {
-        "fr-FR": "Images faites et données par Thérèse"
+        "fr-FR": "Images faites et données par Thérèse",
+        "pt-BR": "Imagens feitas e dadas por Teresa"
       },
       "children": [
         {
           "id": "image-00",
           "title": {
-            "fr-FR": "Image 0. Je suis encore loin"
+            "fr-FR": "Image 0. Je suis encore loin",
+            "pt-BR": "Imagem 0. Ainda estou longe"
           }
         },
         {
           "id": "image-01",
           "title": {
-            "fr-FR": "Image 1. Christ en croix - 1896"
+            "fr-FR": "Image 1. Christ en croix - 1896",
+            "pt-BR": "Imagem 1. Cristo na cruz - 1896"
           }
         },
         {
           "id": "image-02",
           "title": {
-            "fr-FR": "Image 2. Jeanne d'Arc dans sa prison - 1896"
+            "fr-FR": "Image 2. Jeanne d'Arc dans sa prison - 1896",
+            "pt-BR": "Imagem 2. Joana d’Arc na prisão - 1896"
           }
         },
         {
           "id": "image-03",
           "title": {
-            "fr-FR": "Image 3. L'Adoration des Bergers (Müller) - 1896"
+            "fr-FR": "Image 3. L'Adoration des Bergers (Müller) - 1896",
+            "pt-BR": "Imagem 3. A Adoração dos Pastores (Müller) - 1896"
           }
         },
         {
           "id": "image-04",
           "title": {
-            "fr-FR": "Image 4. La Sainte Famille (Müller) - été 1896"
+            "fr-FR": "Image 4. La Sainte Famille (Müller) - été 1896",
+            "pt-BR": "Imagem 4. A Sagrada Família (Müller) - verão de 1896"
           }
         },
         {
           "id": "image-05",
           "title": {
-            "fr-FR": "Image 5. Souvenir du court exil - été 1896"
+            "fr-FR": "Image 5. Souvenir du court exil - été 1896",
+            "pt-BR": "Imagem 5. Lembrança do breve exílio - verão de 1896"
           }
         },
         {
           "id": "image-06",
           "title": {
-            "fr-FR": "Image 6. La Nativité (par Céline) - 1896/1897"
+            "fr-FR": "Image 6. La Nativité (par Céline) - 1896/1897",
+            "pt-BR": "Imagem 6. A Natividade (por Celina) - 1896/1897"
           }
         },
         {
           "id": "image-07",
           "title": {
-            "fr-FR": "Image 7. Ecce Homo (Guido Reni) - Vierge des douleurs (Carlo Dolci)"
+            "fr-FR": "Image 7. Ecce Homo (Guido Reni) - Vierge des douleurs (Carlo Dolci)",
+            "pt-BR": "Imagem 7. Ecce Homo (Guido Reni) - Virgem das Dores (Carlo Dolci)"
           }
         },
         {
           "id": "image-08",
           "title": {
-            "fr-FR": "Image 8. L'Enfant Jésus de Messine (Ittenbach)"
+            "fr-FR": "Image 8. L'Enfant Jésus de Messine (Ittenbach)",
+            "pt-BR": "Imagem 8. O Menino Jesus de Messina (Ittenbach)"
           }
         },
         {
           "id": "image-10",
           "title": {
-            "fr-FR": "Image 10. Sainte Agnès souvenir du 10 janvier 1889"
+            "fr-FR": "Image 10. Sainte Agnès souvenir du 10 janvier 1889",
+            "pt-BR": "Imagem 10. Santa Inês, lembrança de 10 de janeiro de 1889"
           }
         },
         {
           "id": "image-11",
           "title": {
-            "fr-FR": "Image 11. Souvenir du 10 janvier 89"
+            "fr-FR": "Image 11. Souvenir du 10 janvier 89",
+            "pt-BR": "Imagem 11. Lembrança de 10 de janeiro de 89"
           }
         },
         {
           "id": "image-16",
           "title": {
-            "fr-FR": "Image 16. Une croix est une couronne commencée"
+            "fr-FR": "Image 16. Une croix est une couronne commencée",
+            "pt-BR": "Imagem 16. Uma cruz é uma coroa começada"
           }
         },
         {
           "id": "image-17",
           "title": {
-            "fr-FR": "Image 17. Notre Seigneur à Sr Marie de St Pierre"
+            "fr-FR": "Image 17. Notre Seigneur à Sr Marie de St Pierre",
+            "pt-BR": "Imagem 17. Nosso Senhor à Ir. Maria de São Pedro"
           }
         },
         {
           "id": "image-22",
           "title": {
-            "fr-FR": "Image 22. Souffrir passe - avoir bien souffert demeure éternellement"
+            "fr-FR": "Image 22. Souffrir passe - avoir bien souffert demeure éternellement",
+            "pt-BR": "Imagem 22. Sofrer passa - ter sofrido bem permanece eternamente"
           }
         },
         {
           "id": "image-23",
           "title": {
-            "fr-FR": "Image 23. Montons toujours là-haut le ciel"
+            "fr-FR": "Image 23. Montons toujours là-haut le ciel",
+            "pt-BR": "Imagem 23. Subamos sempre, lá no alto o céu"
           }
         },
         {
           "id": "image-24",
           "title": {
-            "fr-FR": "Image 24. Saint Jean de la Croix"
+            "fr-FR": "Image 24. Saint Jean de la Croix",
+            "pt-BR": "Imagem 24. São João da Cruz"
           }
         }
       ]
