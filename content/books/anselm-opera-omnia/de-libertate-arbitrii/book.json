@@ -18,13 +18,19 @@
   },
   "composed": "c. 1080-1085",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "anselm/de-libertate-arbitrii",
   "editions": {
     "la": {
       "editor": "J.-P. Migne (Patrologia Latina 158)",
       "year": 1853
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,85 +47,99 @@
     {
       "id": "c01",
       "title": {
-        "la": "Caput I. Quod potestas peccandi non pertineat ad libertatem arbitrii"
+        "la": "Caput I. Quod potestas peccandi non pertineat ad libertatem arbitrii",
+        "pt-BR": "Capítulo I. Que o poder de pecar não pertence à liberdade do arbítrio"
       }
     },
     {
       "id": "c02",
       "title": {
-        "la": "Caput II. Quod tamen angelus et homo peccaverunt per hanc potestatem, et per liberum arbitrium: et quamvis potuerint servire peccato, non tamen eis potuit dominari peccatum"
+        "la": "Caput II. Quod tamen angelus et homo peccaverunt per hanc potestatem, et per liberum arbitrium: et quamvis potuerint servire peccato, non tamen eis potuit dominari peccatum",
+        "pt-BR": "Capítulo II. Que, contudo, o anjo e o homem pecaram por esse poder e pelo livre-arbítrio: e, embora pudessem servir ao pecado, o pecado não podia dominá-los"
       }
     },
     {
       "id": "c03",
       "title": {
-        "la": "Caput III. Quod postquam se fecerunt servos peccati, liberum habuerunt arbitrium: et quid sit liberum arbitrium"
+        "la": "Caput III. Quod postquam se fecerunt servos peccati, liberum habuerunt arbitrium: et quid sit liberum arbitrium",
+        "pt-BR": "Capítulo III. Que, depois de se terem feito servos do pecado, tiveram livre-arbítrio: e o que é o livre-arbítrio"
       }
     },
     {
       "id": "c04",
       "title": {
-        "la": "Caput IV. Quomodo potestatem habeant servandi rectitudinem, quam non habent"
+        "la": "Caput IV. Quomodo potestatem habeant servandi rectitudinem, quam non habent",
+        "pt-BR": "Capítulo IV. De que modo têm o poder de conservar a retidão que não têm"
       }
     },
     {
       "id": "c05",
       "title": {
-        "la": "Caput V. Quod nulla tentatio cogat invitum peccare"
+        "la": "Caput V. Quod nulla tentatio cogat invitum peccare",
+        "pt-BR": "Capítulo V. Que nenhuma tentação coage alguém a pecar contra a vontade"
       }
     },
     {
       "id": "c06",
       "title": {
-        "la": "Caput VI. Quomodo sit nostra voluntas potens contra tentationes, licet videatur impotens"
+        "la": "Caput VI. Quomodo sit nostra voluntas potens contra tentationes, licet videatur impotens",
+        "pt-BR": "Capítulo VI. De que modo a nossa vontade é poderosa contra as tentações, ainda que pareça impotente"
       }
     },
     {
       "id": "c07",
       "title": {
-        "la": "Caput VII. Quomodo voluntas fortior sit quam tentatio; etiam cum ab illa vincitur"
+        "la": "Caput VII. Quomodo voluntas fortior sit quam tentatio; etiam cum ab illa vincitur",
+        "pt-BR": "Capítulo VII. De que modo a vontade é mais forte que a tentação, mesmo quando é vencida por ela"
       }
     },
     {
       "id": "c08",
       "title": {
-        "la": "Caput VIII. Quod nec Deus potest auferre voluntatis rectitudinem"
+        "la": "Caput VIII. Quod nec Deus potest auferre voluntatis rectitudinem",
+        "pt-BR": "Capítulo VIII. Que nem Deus pode tirar a retidão da vontade"
       }
     },
     {
       "id": "c09",
       "title": {
-        "la": "Caput IX. Quod nihil sit liberius recta voluntate"
+        "la": "Caput IX. Quod nihil sit liberius recta voluntate",
+        "pt-BR": "Capítulo IX. Que nada é mais livre que a vontade reta"
       }
     },
     {
       "id": "c10",
       "title": {
-        "la": "Caput X. Quomodo peccans sit servus peccati; et quod majus miraculum fit, cum Deus reddit rectitudinem illam deserenti, quam cum mortuo reddit vitam"
+        "la": "Caput X. Quomodo peccans sit servus peccati; et quod majus miraculum fit, cum Deus reddit rectitudinem illam deserenti, quam cum mortuo reddit vitam",
+        "pt-BR": "Capítulo X. Como quem peca é servo do pecado; e que é maior milagre quando Deus restitui a retidão àquele que a abandona do que quando restitui a vida a um morto"
       }
     },
     {
       "id": "c11",
       "title": {
-        "la": "Caput XI. Quod ista servitus non auferat libertatem arbitrii"
+        "la": "Caput XI. Quod ista servitus non auferat libertatem arbitrii",
+        "pt-BR": "Capítulo XI. Que esta servidão não tira a liberdade do arbítrio"
       }
     },
     {
       "id": "c12",
       "title": {
-        "la": "Caput XII. Cur, cum homo non habet rectitudinem, magis dicitur liber; quia, cum habet, non potest ei auferri: quam, cum eam habet, servus; quia, cum non habet, non potest per se eam recuperare"
+        "la": "Caput XII. Cur, cum homo non habet rectitudinem, magis dicitur liber; quia, cum habet, non potest ei auferri: quam, cum eam habet, servus; quia, cum non habet, non potest per se eam recuperare",
+        "pt-BR": "Capítulo XII. Por que, quando o homem não tem a retidão, se diz antes livre, porque, quando a tem, ela não lhe pode ser tirada, do que, quando a tem, servo, porque, quando não a tem, não pode recuperá-la por si"
       }
     },
     {
       "id": "c13",
       "title": {
-        "la": "Caput XIII. Quod potestas servandi rectitudinem voluntatis propter ipsam rectitudinem, sit perfecta diffinitio libertatis arbitrii"
+        "la": "Caput XIII. Quod potestas servandi rectitudinem voluntatis propter ipsam rectitudinem, sit perfecta diffinitio libertatis arbitrii",
+        "pt-BR": "Capítulo XIII. Que o poder de conservar a retidão da vontade por causa da própria retidão é a definição perfeita da liberdade do arbítrio"
       }
     },
     {
       "id": "c14",
       "title": {
-        "la": "Caput XIV. Divisio ejusdem libertatis"
+        "la": "Caput XIV. Divisio ejusdem libertatis",
+        "pt-BR": "Capítulo XIV. Divisão dessa mesma liberdade"
       }
     }
   ]
