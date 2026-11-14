@@ -14,17 +14,23 @@
   "description": {
     "la": "Vita sancti Malachiae Hiberniae episcopi, ad Congamum abbatem scripta a Bernardo.",
     "en-US": "Bernard’s life of his friend Malachy, archbishop of Armagh, who died at Clairvaux in 1148: Ireland’s reform, the visit to Rome and the holy death, written for Abbot Congan of Inislounaght, with Mabillon’s chapter summaries. Latin only, from the Maurist text in Migne, a machine-corrected OCR.",
-    "pt-BR": "A vida de seu amigo Malaquias, arcebispo de Armagh, morto em Claraval em 1148: a reforma da Irlanda, a viagem a Roma e a santa morte, escrita para o abade Congano."
+    "pt-BR": "A vida de seu amigo Malaquias, arcebispo de Armagh, morto em Claraval em 1148: a reforma da Irlanda, a viagem a Roma e a santa morte, escrita por Bernardo para o abade Congano de Inislounaght, com os resumos dos capítulos de Mabillon. Original apenas em latim, a partir do texto maurista em Migne, obtido por OCR corrigido por máquina."
   },
   "composed": "1148-1151",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "bernard/vita-sancti-malachiae",
   "editions": {
     "la": {
       "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182)",
       "year": 1854
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,193 +47,225 @@
     {
       "id": "praefatio",
       "title": {
-        "la": "Praefatio"
+        "la": "Praefatio",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "c01",
       "title": {
-        "la": "Caput I. Pueritia et adolescentia S. Malachiae"
+        "la": "Caput I. Pueritia et adolescentia S. Malachiae",
+        "pt-BR": "Capítulo I. Infância e adolescência de São Malaquias"
       }
     },
     {
       "id": "c02",
       "title": {
-        "la": "Caput II. Religiosae vitae tirocinium"
+        "la": "Caput II. Religiosae vitae tirocinium",
+        "pt-BR": "Capítulo II. Aprendizado da vida religiosa"
       }
     },
     {
       "id": "c03",
       "title": {
-        "la": "Caput III. Ordinibus initiatus episcopi vices gerit"
+        "la": "Caput III. Ordinibus initiatus episcopi vices gerit",
+        "pt-BR": "Capítulo III. Recebe as ordens e exerce as funções do bispo"
       }
     },
     {
       "id": "c04",
       "title": {
-        "la": "Caput IV. Malcho episcopo plenius instituendus adhaeret"
+        "la": "Caput IV. Malcho episcopo plenius instituendus adhaeret",
+        "pt-BR": "Capítulo IV. Permanece junto do bispo Malco para receber formação mais completa"
       }
     },
     {
       "id": "c05",
       "title": {
-        "la": "Caput V. Sorori defunctae sacrificii oblatione succurrit"
+        "la": "Caput V. Sorori defunctae sacrificii oblatione succurrit",
+        "pt-BR": "Capítulo V. Socorre a irmã falecida com a oferta do sacrifício"
       }
     },
     {
       "id": "c06",
       "title": {
-        "la": "Caput VI. Monasterium Benchorense desolatum instaurat"
+        "la": "Caput VI. Monasterium Benchorense desolatum instaurat",
+        "pt-BR": "Capítulo VI. Restaura o mosteiro devastado de Bangor"
       }
     },
     {
       "id": "c07",
       "title": {
-        "la": "Caput VII. Dysenteria laborantem curat"
+        "la": "Caput VII. Dysenteria laborantem curat",
+        "pt-BR": "Capítulo VII. Cura um homem que sofria de disenteria"
       }
     },
     {
       "id": "c08",
       "title": {
-        "la": "Caput VIII. Episcopatum Conneretensem, licet invitus, suscipit"
+        "la": "Caput VIII. Episcopatum Conneretensem, licet invitus, suscipit",
+        "pt-BR": "Capítulo VIII. Assume, embora a contragosto, o episcopado de Connor"
       }
     },
     {
       "id": "c09",
       "title": {
-        "la": "Caput IX. Monasterium Ibracense construit"
+        "la": "Caput IX. Monasterium Ibracense construit",
+        "pt-BR": "Capítulo IX. Constrói o mosteiro de Iveragh"
       }
     },
     {
       "id": "c10",
       "title": {
-        "la": "Caput X. Fit archiepiscopus seu primas Hiberniae"
+        "la": "Caput X. Fit archiepiscopus seu primas Hiberniae",
+        "pt-BR": "Capítulo X. Torna-se arcebispo, ou primaz, da Irlanda"
       }
     },
     {
       "id": "c11",
       "title": {
-        "la": "Caput XI. Insidias evadit incolumis, auctoribus male perditis"
+        "la": "Caput XI. Insidias evadit incolumis, auctoribus male perditis",
+        "pt-BR": "Capítulo XI. Escapa ileso das emboscadas, enquanto seus autores perecem miseravelmente"
       }
     },
     {
       "id": "c12",
       "title": {
-        "la": "Caput XII. Hostes seu aemulos, in ipsum armatos, virtute animi et constanti in Deum fide lenit, sibique conciliat"
+        "la": "Caput XII. Hostes seu aemulos, in ipsum armatos, virtute animi et constanti in Deum fide lenit, sibique conciliat",
+        "pt-BR": "Capítulo XII. Pela força de ânimo e pela fé constante em Deus, abranda os inimigos ou rivais armados contra ele e os reconcilia consigo"
       }
     },
     {
       "id": "c13",
       "title": {
-        "la": "Caput XIII. Deus Malachiae detractores punit"
+        "la": "Caput XIII. Deus Malachiae detractores punit",
+        "pt-BR": "Capítulo XIII. Deus pune os detratores de Malaquias"
       }
     },
     {
       "id": "c14",
       "title": {
-        "la": "Caput XIV. Sedem metropolitanam paci redditam resignat"
+        "la": "Caput XIV. Sedem metropolitanam paci redditam resignat",
+        "pt-BR": "Capítulo XIV. Renuncia à sé metropolitana depois de restituí-la à paz"
       }
     },
     {
       "id": "c15",
       "title": {
-        "la": "Caput XV. Romam proficisci deliberat, pallium a Pontifice petiturus"
+        "la": "Caput XV. Romam proficisci deliberat, pallium a Pontifice petiturus",
+        "pt-BR": "Capítulo XV. Decide ir a Roma para pedir o pálio ao Pontífice"
       }
     },
     {
       "id": "c16",
       "title": {
-        "la": "Caput XVI. Romam tendens, et inde rediens, Claram-Vallem visitat"
+        "la": "Caput XVI. Romam tendens, et inde rediens, Claram-Vallem visitat",
+        "pt-BR": "Capítulo XVI. Visita Claraval ao ir a Roma e ao voltar de lá"
       }
     },
     {
       "id": "c17",
       "title": {
-        "la": "Caput XVII. Diversa beneficia sanitatum per eum collata"
+        "la": "Caput XVII. Diversa beneficia sanitatum per eum collata",
+        "pt-BR": "Capítulo XVII. Diversas graças de cura concedidas por meio dele"
       }
     },
     {
       "id": "c18",
       "title": {
-        "la": "Caput XVIII. Reversus in patriam, totus curae pastorali et reformationi incumbit"
+        "la": "Caput XVIII. Reversus in patriam, totus curae pastorali et reformationi incumbit",
+        "pt-BR": "Capítulo XVIII. De volta à pátria, dedica-se inteiramente ao cuidado pastoral e à reforma"
       }
     },
     {
       "id": "c19",
       "title": {
-        "la": "Caput XIX. Virtutum ejus insignia, et mores vero praesule digni"
+        "la": "Caput XIX. Virtutum ejus insignia, et mores vero praesule digni",
+        "pt-BR": "Capítulo XIX. Traços marcantes de suas virtudes e costumes dignos de um verdadeiro prelado"
       }
     },
     {
       "id": "c20",
       "title": {
-        "la": "Caput XX. Energumenos vexatos a daemoniis liberat"
+        "la": "Caput XX. Energumenos vexatos a daemoniis liberat",
+        "pt-BR": "Capítulo XX. Liberta os possessos atormentados pelos demônios"
       }
     },
     {
       "id": "c21",
       "title": {
-        "la": "Caput XXI. Beneficia moribundis et parturientibus praestita"
+        "la": "Caput XXI. Beneficia moribundis et parturientibus praestita",
+        "pt-BR": "Capítulo XXI. Benefícios concedidos a moribundos e parturientes"
       }
     },
     {
       "id": "c22",
       "title": {
-        "la": "Caput XXII. Concubinario obstinato exitium denuntiat"
+        "la": "Caput XXII. Concubinario obstinato exitium denuntiat",
+        "pt-BR": "Capítulo XXII. Anuncia a ruína a um homem obstinado no concubinato"
       }
     },
     {
       "id": "c23",
       "title": {
-        "la": "Caput XXIII. Varia sanitatum beneficia variis praestita"
+        "la": "Caput XXIII. Varia sanitatum beneficia variis praestita",
+        "pt-BR": "Capítulo XXIII. Diversas graças de cura concedidas a várias pessoas"
       }
     },
     {
       "id": "c24",
       "title": {
-        "la": "Caput XXIV. Feminam sine sacramento Extremae Unctionis defunctam resuscitat"
+        "la": "Caput XXIV. Feminam sine sacramento Extremae Unctionis defunctam resuscitat",
+        "pt-BR": "Capítulo XXIV. Ressuscita uma mulher falecida sem o sacramento da Extrema-Unção"
       }
     },
     {
       "id": "c25",
       "title": {
-        "la": "Caput XXV. Alia diversa beneficia in diversos collata"
+        "la": "Caput XXV. Alia diversa beneficia in diversos collata",
+        "pt-BR": "Capítulo XXV. Outros benefícios diversos concedidos a várias pessoas"
       }
     },
     {
       "id": "c26",
       "title": {
-        "la": "Caput XXVI. Veritatem corporis Christi in Eucharistia propugnat"
+        "la": "Caput XXVI. Veritatem corporis Christi in Eucharistia propugnat",
+        "pt-BR": "Capítulo XXVI. Defende a verdade do corpo de Cristo na Eucaristia"
       }
     },
     {
       "id": "c27",
       "title": {
-        "la": "Caput XXVII. Pacem et concordiam inter dissidentes mirabiliter conciliat"
+        "la": "Caput XXVII. Pacem et concordiam inter dissidentes mirabiliter conciliat",
+        "pt-BR": "Capítulo XXVII. Estabelece admiravelmente a paz e a concórdia entre os que estão em conflito"
       }
     },
     {
       "id": "c28",
       "title": {
-        "la": "Caput XXVIII. Sacrum aedificium moliens, adversarium patitur, sed mox ultione divina correptum"
+        "la": "Caput XXVIII. Sacrum aedificium moliens, adversarium patitur, sed mox ultione divina correptum",
+        "pt-BR": "Capítulo XXVIII. Ao empreender uma construção sagrada, enfrenta um adversário, logo castigado pela vingança divina"
       }
     },
     {
       "id": "c29",
       "title": {
-        "la": "Caput XXIX. Claret prophetiae spiritu, et omni miraculorum gratia"
+        "la": "Caput XXIX. Claret prophetiae spiritu, et omni miraculorum gratia",
+        "pt-BR": "Capítulo XXIX. Distingue-se pelo espírito de profecia e por toda graça de milagres"
       }
     },
     {
       "id": "c30",
       "title": {
-        "la": "Caput XXX. Locum et diem mortis suae praedicit, et causa pallii denuo iter ad papam Eugenium suscipit"
+        "la": "Caput XXX. Locum et diem mortis suae praedicit, et causa pallii denuo iter ad papam Eugenium suscipit",
+        "pt-BR": "Capítulo XXX. Prediz o lugar e o dia de sua morte e, por causa do pálio, empreende nova viagem ao papa Eugênio"
       }
     },
     {
       "id": "c31",
       "title": {
-        "la": "Caput XXXI. Rursus Claram-Vallem venit, moriturus loco et tempore quo desideraverat"
+        "la": "Caput XXXI. Rursus Claram-Vallem venit, moriturus loco et tempore quo desideraverat",
+        "pt-BR": "Capítulo XXXI. Volta a Claraval, onde morrerá no lugar e no tempo que desejara"
       }
     }
   ]
