@@ -18,13 +18,19 @@
   },
   "composed": "1092-1094",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "anselm/epistola-de-incarnatione-verbi",
   "editions": {
     "la": {
       "editor": "J.-P. Migne (Patrologia Latina 158)",
       "year": 1853
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,61 +47,71 @@
     {
       "id": "praefatio",
       "title": {
-        "la": "Praefatio"
+        "la": "Praefatio",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "c01",
       "title": {
-        "la": "Caput I. Scribendi occasio, et status quaestionis"
+        "la": "Caput I. Scribendi occasio, et status quaestionis",
+        "pt-BR": "Capítulo I. Ocasião do escrito e estado da questão"
       }
     },
     {
       "id": "c02",
       "title": {
-        "la": "Caput II. Quod sacrae fidei quaestiones, quas disputamus, aut rimamur, non quilibet dialectici, sed in Scripturis sacris experti suscipere humiliter debent"
+        "la": "Caput II. Quod sacrae fidei quaestiones, quas disputamus, aut rimamur, non quilibet dialectici, sed in Scripturis sacris experti suscipere humiliter debent",
+        "pt-BR": "Capítulo II. As questões da santa fé que discutimos ou investigamos devem ser humildemente assumidas por pessoas versadas nas Sagradas Escrituras, e não por quaisquer dialéticos"
       }
     },
     {
       "id": "c03",
       "title": {
-        "la": "Caput III. Quod non sunt tres dii: et quanquam sint tres res personales; una tamen est res essentialis"
+        "la": "Caput III. Quod non sunt tres dii: et quanquam sint tres res personales; una tamen est res essentialis",
+        "pt-BR": "Capítulo III. Não há três deuses; e, embora haja três realidades pessoais, há uma só realidade essencial"
       }
     },
     {
       "id": "c04",
       "title": {
-        "la": "Caput IV. Tres personas esse incarnatas, Filio incarnato, impossibile est: Filio tamen amplius convenit incarnari, quam Patri et Spiritui sancto"
+        "la": "Caput IV. Tres personas esse incarnatas, Filio incarnato, impossibile est: Filio tamen amplius convenit incarnari, quam Patri et Spiritui sancto",
+        "pt-BR": "Capítulo IV. É impossível que as três pessoas se tenham encarnado ao se encarnar o Filho; contudo, convém mais ao Filho encarnar-se do que ao Pai e ao Espírito Santo"
       }
     },
     {
       "id": "c05",
       "title": {
-        "la": "Caput V. Cur Filius magis quam Pater aut Spiritus sanctus, incarnatus sit"
+        "la": "Caput V. Cur Filius magis quam Pater aut Spiritus sanctus, incarnatus sit",
+        "pt-BR": "Capítulo V. Por que se encarnou o Filho, em vez do Pai ou do Espírito Santo"
       }
     },
     {
       "id": "c06",
       "title": {
-        "la": "Caput VI. Quomodo in Christo non sunt duae personae, sicut sunt duae naturae"
+        "la": "Caput VI. Quomodo in Christo non sunt duae personae, sicut sunt duae naturae",
+        "pt-BR": "Capítulo VI. Como em Cristo não há duas pessoas, assim como há duas naturezas"
       }
     },
     {
       "id": "c07",
       "title": {
-        "la": "Caput VII. Quod Pater, et Filius, et Spiritus sanctus non sint tres res separatae, naturali Adam et Abel probatur exemplo"
+        "la": "Caput VII. Quod Pater, et Filius, et Spiritus sanctus non sint tres res separatae, naturali Adam et Abel probatur exemplo",
+        "pt-BR": "Capítulo VII. Pelo exemplo natural de Adão e Abel, prova-se que o Pai, o Filho e o Espírito Santo não são três realidades separadas"
       }
     },
     {
       "id": "c08",
       "title": {
-        "la": "Caput VIII. Originem personarum in divinis alia fontis, rivi et lacus similitudine explicat"
+        "la": "Caput VIII. Originem personarum in divinis alia fontis, rivi et lacus similitudine explicat",
+        "pt-BR": "Capítulo VIII. Explica a origem das pessoas em Deus por outra comparação: a da fonte, do curso de água e do lago"
       }
     },
     {
       "id": "c09",
       "title": {
-        "la": "Caput IX. Quod una sit, et simplex aeternitas, cui punctum comparat"
+        "la": "Caput IX. Quod una sit, et simplex aeternitas, cui punctum comparat",
+        "pt-BR": "Capítulo IX. A eternidade é una e simples, e ele a compara ao ponto"
       }
     }
   ]
