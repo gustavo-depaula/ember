@@ -14,12 +14,13 @@
   "description": {
     "la": "Opusculum Anselmi, Fides quaerens intellectum inscriptum, in quo uno argumento Deum esse et quaecumque de Deo credimus ostendere conatur: oratio ad contemplandum Deum, quae «id quo maius cogitari nequit» in medio ponit. Textus ex editione Migne (Patrologia Latina 158, 1853).",
     "en-US": "The short work, first titled Faith Seeking Understanding, in which Anselm of Canterbury tries to prove in a single argument that God exists and whatever we believe about Him: a prayer that seeks to lift the mind to the contemplation of God and sets out the argument for “that than which nothing greater can be conceived.” The Latin is the Migne text (Patrologia Latina 158, 1853), from a machine-corrected OCR; the English is Sidney Norton Deane’s 1903 translation, chapter for chapter. Gaunilo’s reply and Anselm’s answer are not included.",
-    "pt-BR": "O breve tratado, primeiro intitulado A fé que busca a inteligência, em que Anselmo de Cantuária procura provar num único argumento que Deus existe e tudo o que cremos a seu respeito: uma oração para elevar o espírito à contemplação de Deus, que expõe o argumento de «aquilo do qual nada maior se pode pensar»."
+    "pt-BR": "O breve tratado, primeiro intitulado A fé que busca a inteligência, em que Anselmo de Cantuária procura provar num único argumento que Deus existe e tudo o que cremos a seu respeito: uma oração para elevar o espírito à contemplação de Deus, que expõe o argumento de «aquilo do qual não se pode pensar nada maior»."
   },
   "composed": "1077-1078",
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "anselm/proslogion",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "Sidney Norton Deane",
       "year": 1903
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -55,189 +61,216 @@
       "id": "praefatio",
       "title": {
         "la": "Prooemium",
-        "en-US": "Preface"
+        "en-US": "Preface",
+        "pt-BR": "Proêmio"
       }
     },
     {
       "id": "c01",
       "title": {
         "la": "Caput I",
-        "en-US": "Chapter I. Exhortation of the mind to the contemplation of God"
+        "en-US": "Chapter I. Exhortation of the mind to the contemplation of God",
+        "pt-BR": "Capítulo I"
       }
     },
     {
       "id": "c02",
       "title": {
         "la": "Caput II. Quod vere sit Deus, etsi insipiens dixit in corde suo: Non est Deus",
-        "en-US": "Chapter II. Truly there is a God, although the fool hath said in his heart, There is no God"
+        "en-US": "Chapter II. Truly there is a God, although the fool hath said in his heart, There is no God",
+        "pt-BR": "Capítulo II. Que Deus existe verdadeiramente, embora o insipiente tenha dito em seu coração: Não há Deus"
       }
     },
     {
       "id": "c03",
       "title": {
         "la": "Caput III. Quod Deus non possit cogitari non esse",
-        "en-US": "Chapter III. God cannot be conceived not to exist"
+        "en-US": "Chapter III. God cannot be conceived not to exist",
+        "pt-BR": "Capítulo III. Que não se pode pensar que Deus não existe"
       }
     },
     {
       "id": "c04",
       "title": {
         "la": "Caput IV. Quomodo insipiens dixit in corde suo, quod cogitari non potest",
-        "en-US": "Chapter IV. How the fool has said in his heart what cannot be conceived"
+        "en-US": "Chapter IV. How the fool has said in his heart what cannot be conceived",
+        "pt-BR": "Capítulo IV. Como o insipiente disse em seu coração o que não se pode pensar"
       }
     },
     {
       "id": "c05",
       "title": {
         "la": "Caput V. Quod Deus sit quidquid melius est esse, quam non esse; et solus existens per se, omnia faciat de nihilo",
-        "en-US": "Chapter V. God is whatever it is better to be than not to be; and he, as the only self-existent being, creates all things from nothing"
+        "en-US": "Chapter V. God is whatever it is better to be than not to be; and he, as the only self-existent being, creates all things from nothing",
+        "pt-BR": "Capítulo V. Que Deus é tudo o que é melhor ser do que não ser; e que, único existente por si, faz todas as coisas do nada"
       }
     },
     {
       "id": "c06",
       "title": {
         "la": "Caput VI. Quomodo Deus sit sensibilis, cum non sit corpus",
-        "en-US": "Chapter VI. How God is sensible (sensibilis) although he is not a body"
+        "en-US": "Chapter VI. How God is sensible (sensibilis) although he is not a body",
+        "pt-BR": "Capítulo VI. Como Deus é sensível, embora não seja corpo"
       }
     },
     {
       "id": "c07",
       "title": {
         "la": "Caput VII. Quomodo sit omnipotens, cum multa non possit",
-        "en-US": "Chapter VII. How he is omnipotent, although there are many things of which he is not capable"
+        "en-US": "Chapter VII. How he is omnipotent, although there are many things of which he is not capable",
+        "pt-BR": "Capítulo VII. Como é onipotente, embora haja muitas coisas que não pode"
       }
     },
     {
       "id": "c08",
       "title": {
         "la": "Caput VIII. Quomodo sit misericors et impassibilis",
-        "en-US": "Chapter VIII. How he is compassionate and passionless. God is compassionate, in terms of our experience, because we experience the effect of compassion. God is not compassionate, in terms of his own being, because he does not experience the feeling (affectus) of compassion"
+        "en-US": "Chapter VIII. How he is compassionate and passionless. God is compassionate, in terms of our experience, because we experience the effect of compassion. God is not compassionate, in terms of his own being, because he does not experience the feeling (affectus) of compassion",
+        "pt-BR": "Capítulo VIII. Como é misericordioso e impassível"
       }
     },
     {
       "id": "c09",
       "title": {
         "la": "Caput IX",
-        "en-US": "Chapter IX. How the all-just and supremely just God spares the wicked, and justly pities the wicked. He is better who is good to the righteous and the wicked than he who is good to the righteous alone. Although God is supremely just, the source of his compassion is hidden. God is supremely compassionate, because he is supremely just. He saveth the just, because justice goes with them; he frees sinners by the authority of justice. God spares the wicked out of justice; for it is just that God, than whom none is better or more powerful, should be good even to the wicked, and should make the wicked good. If God ought not to pity, he pities unjustly. But this it is impious to suppose. Therefore, God justly pities"
+        "en-US": "Chapter IX. How the all-just and supremely just God spares the wicked, and justly pities the wicked. He is better who is good to the righteous and the wicked than he who is good to the righteous alone. Although God is supremely just, the source of his compassion is hidden. God is supremely compassionate, because he is supremely just. He saveth the just, because justice goes with them; he frees sinners by the authority of justice. God spares the wicked out of justice; for it is just that God, than whom none is better or more powerful, should be good even to the wicked, and should make the wicked good. If God ought not to pity, he pities unjustly. But this it is impious to suppose. Therefore, God justly pities",
+        "pt-BR": "Capítulo IX"
       }
     },
     {
       "id": "c10",
       "title": {
         "la": "Caput X. Quomodo juste puniat, et juste parcat malis",
-        "en-US": "Chapter X. How he justly punishes and justly spares the wicked"
+        "en-US": "Chapter X. How he justly punishes and justly spares the wicked",
+        "pt-BR": "Capítulo X. Como pune justamente e justamente poupa os maus"
       }
     },
     {
       "id": "c11",
       "title": {
         "la": "Caput XI. Quomodo universae viae Domini misericordia et veritas; et tamen justus Dominus in omnibus viis suis",
-        "en-US": "Chapter XI. How all the ways of God are compassion and truth; and yet God is just in all his ways"
+        "en-US": "Chapter XI. How all the ways of God are compassion and truth; and yet God is just in all his ways",
+        "pt-BR": "Capítulo XI. Como todos os caminhos do Senhor são misericórdia e verdade; e, contudo, o Senhor é justo em todos os seus caminhos"
       }
     },
     {
       "id": "c12",
       "title": {
         "la": "Caput XII. Quod Deus sit ipsa vita qua vivit; et sic de similibus",
-        "en-US": "Chapter XII. God is the very life whereby he lives; and so of other like attributes"
+        "en-US": "Chapter XII. God is the very life whereby he lives; and so of other like attributes",
+        "pt-BR": "Capítulo XII. Que Deus é a própria vida pela qual vive; e assim das coisas semelhantes"
       }
     },
     {
       "id": "c13",
       "title": {
         "la": "Caput XIII. Quomodo solus sit incircumscriptus et aeternus; cum alii spiritus sint incircumscripti, et aeterni",
-        "en-US": "Chapter XIII. How he alone is uncircumscribed and eternal, although other spirits are uncircumscribed and eternal"
+        "en-US": "Chapter XIII. How he alone is uncircumscribed and eternal, although other spirits are uncircumscribed and eternal",
+        "pt-BR": "Capítulo XIII. Como só ele é incircunscrito e eterno, embora outros espíritos sejam incircunscritos e eternos"
       }
     },
     {
       "id": "c14",
       "title": {
         "la": "Caput XIV. Quomodo, et cur videtur, et non videtur Deus a quaerentibus eum",
-        "en-US": "Chapter XIV. How and why God is seen and yet not seen by those who seek him"
+        "en-US": "Chapter XIV. How and why God is seen and yet not seen by those who seek him",
+        "pt-BR": "Capítulo XIV. Como e por que Deus é visto e não é visto pelos que o buscam"
       }
     },
     {
       "id": "c15",
       "title": {
         "la": "Caput XV. Quod major sit, quam cogitari possit",
-        "en-US": "Chapter XV. He is greater than can be conceived"
+        "en-US": "Chapter XV. He is greater than can be conceived",
+        "pt-BR": "Capítulo XV. Que é maior do que se pode pensar"
       }
     },
     {
       "id": "c16",
       "title": {
         "la": "Caput XVI. Quod haec sit inaccessibilis, quam inhabitat",
-        "en-US": "Chapter XVI. This is the unapproachable light wherein he dwells"
+        "en-US": "Chapter XVI. This is the unapproachable light wherein he dwells",
+        "pt-BR": "Capítulo XVI. Que esta é a luz inacessível em que habita"
       }
     },
     {
       "id": "c17",
       "title": {
         "la": "Caput XVII. Quod in Deo sit harmonia, odor, sapor, levitas, pulchritudo, suo ineffabili modo",
-        "en-US": "Chapter XVII. In God is harmony, fragrance, sweetness, pleasantness to the touch, beauty, after his ineffable manner"
+        "en-US": "Chapter XVII. In God is harmony, fragrance, sweetness, pleasantness to the touch, beauty, after his ineffable manner",
+        "pt-BR": "Capítulo XVII. Que em Deus há harmonia, perfume, sabor, suavidade, beleza, a seu modo inefável"
       }
     },
     {
       "id": "c18",
       "title": {
         "la": "Caput XVIII",
-        "en-US": "Chapter XVIII. God is life, wisdom, eternity, and every true good"
+        "en-US": "Chapter XVIII. God is life, wisdom, eternity, and every true good",
+        "pt-BR": "Capítulo XVIII"
       }
     },
     {
       "id": "c19",
       "title": {
         "la": "Caput XIX. Quod non sit in loco aut tempore, sed omnia sint in illo",
-        "en-US": "Chapter XIX. He does not exist in place or time, but all things exist in him"
+        "en-US": "Chapter XIX. He does not exist in place or time, but all things exist in him",
+        "pt-BR": "Capítulo XIX. Que não está no lugar nem no tempo, mas todas as coisas estão nele"
       }
     },
     {
       "id": "c20",
       "title": {
         "la": "Caput XX. Quod sit ante et ultra omnia etiam aeterna",
-        "en-US": "Chapter XX. He exists before all things and transcends all things, even the eternal things"
+        "en-US": "Chapter XX. He exists before all things and transcends all things, even the eternal things",
+        "pt-BR": "Capítulo XX. Que é antes e além de todas as coisas, mesmo das eternas"
       }
     },
     {
       "id": "c21",
       "title": {
         "la": "Caput XXI. An hoc sit saeculum saeculi, sive saecula saeculorum",
-        "en-US": "Chapter XXI. Is this the age of the age, or ages of ages?--The eternity of God contains the ages of time themselves, and can be called the age of the age or ages of ages"
+        "en-US": "Chapter XXI. Is this the age of the age, or ages of ages?--The eternity of God contains the ages of time themselves, and can be called the age of the age or ages of ages",
+        "pt-BR": "Capítulo XXI. Se isto é o século do século, ou os séculos dos séculos"
       }
     },
     {
       "id": "c22",
       "title": {
         "la": "Caput XXII. Quod solus sit quod est, et qui est",
-        "en-US": "Chapter XXII. He alone is what he is and who he is"
+        "en-US": "Chapter XXII. He alone is what he is and who he is",
+        "pt-BR": "Capítulo XXII. Que só ele é o que é e aquele que é"
       }
     },
     {
       "id": "c23",
       "title": {
         "la": "Caput XXIII",
-        "en-US": "Chapter XXIII. This good is equally Father, and Son, and Holy Spirit. And this is a single, necessary Being, which is every good, and wholly good, and the only good"
+        "en-US": "Chapter XXIII. This good is equally Father, and Son, and Holy Spirit. And this is a single, necessary Being, which is every good, and wholly good, and the only good",
+        "pt-BR": "Capítulo XXIII"
       }
     },
     {
       "id": "c24",
       "title": {
         "la": "Caput XXIV. Conjectatio quale et quantum sit hoc bonum",
-        "en-US": "Chapter XXIV. Conjecture as to the character and the magnitude of this good"
+        "en-US": "Chapter XXIV. Conjecture as to the character and the magnitude of this good",
+        "pt-BR": "Capítulo XXIV. Conjetura sobre qual e quão grande é este bem"
       }
     },
     {
       "id": "c25",
       "title": {
         "la": "Caput XXV. Quae et quanta bona sint fruentibus eo",
-        "en-US": "Chapter XXV. What goods and how great, belong to those who enjoy this good"
+        "en-US": "Chapter XXV. What goods and how great, belong to those who enjoy this good",
+        "pt-BR": "Capítulo XXV. Quais e quão grandes bens há para os que gozam dele"
       }
     },
     {
       "id": "c26",
       "title": {
         "la": "Caput XXVI. An hoc fit gaudium plenum quod promittit Dominus. --Beati tantum gaudebunt quantum amabunt: tantum amabunt, quantum cognoscent",
-        "en-US": "Chapter XXVI. Is this joy which the Lord promises made full?--The blessed shall rejoice according as they shall love; and they shall love according as they shall know"
+        "en-US": "Chapter XXVI. Is this joy which the Lord promises made full?--The blessed shall rejoice according as they shall love; and they shall love according as they shall know",
+        "pt-BR": "Capítulo XXVI. Se é esta a alegria plena que o Senhor promete.—Os bem-aventurados se alegrarão tanto quanto amarem; amarão tanto quanto conhecerem"
       }
     }
   ]
