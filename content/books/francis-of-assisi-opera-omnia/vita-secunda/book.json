@@ -19,7 +19,8 @@
   "composed": "1246-1247",
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "thomas-of-celano/vita-secunda",
   "editions": {
@@ -29,6 +30,11 @@
     "en-US": {
       "translator": "A. G. Ferrers Howell",
       "year": 1908
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -54,14 +60,16 @@
       "id": "pars-1",
       "title": {
         "la": "PROLOGUS.",
-        "en-US": "Preface"
+        "en-US": "Preface",
+        "pt-BR": "Prólogo"
       },
       "children": [
         {
           "id": "cap-001",
           "title": {
             "la": "Caput 1",
-            "en-US": "Preface"
+            "en-US": "Preface",
+            "pt-BR": "Capítulo 1"
           }
         }
       ]
@@ -70,126 +78,144 @@
       "id": "pars-2",
       "title": {
         "la": "PRIMUM OPUS.",
-        "en-US": "Part I"
+        "en-US": "Part I",
+        "pt-BR": "Primeira parte"
       },
       "children": [
         {
           "id": "cap-002",
           "title": {
             "la": "Caput I - Qualiter vocatus est prius Ioannes, postea Franciscus; quod mater prophetavit de ipso, et quod etiam de se ipso futura praedixit, et de patientia in vinculis.",
-            "en-US": "Chapter I. How he was first called John and afterwards Francis. How his mother prophesied of him, and how he himself also foretold what would come to pass concerning himself; and of his patience in imprisonment"
+            "en-US": "Chapter I. How he was first called John and afterwards Francis. How his mother prophesied of him, and how he himself also foretold what would come to pass concerning himself; and of his patience in imprisonment",
+            "pt-BR": "Capítulo I - Como foi chamado primeiro João, depois Francisco; o que sua mãe profetizou dele, e como ele também predisse o seu próprio futuro; e de sua paciência na prisão."
           }
         },
         {
           "id": "cap-003",
           "title": {
             "la": "Caput II - De milite paupere quem vestivit et de visione suae vocationis quam in saeculo vidit.",
-            "en-US": "Chapter II. Of a poor knight whom he clothed; and of the vision of his call which he saw while in the world"
+            "en-US": "Chapter II. Of a poor knight whom he clothed; and of the vision of his call which he saw while in the world",
+            "pt-BR": "Capítulo II - Do cavaleiro pobre que vestiu e da visão da sua vocação, que teve ainda no mundo."
           }
         },
         {
           "id": "cap-004",
           "title": {
             "la": "Caput III - Qualiter eum iuvenum turba, ut eos pasceret, suum dominum statuit, et de sua mutatione.",
-            "en-US": "Chapter III. How a band of youths made him their master of the revels, so that he might feed them: and of the change that came over him"
+            "en-US": "Chapter III. How a band of youths made him their master of the revels, so that he might feed them: and of the change that came over him",
+            "pt-BR": "Capítulo III - Como um bando de jovens o fez seu senhor para que os banqueteasse, e da sua mudança."
           }
         },
         {
           "id": "cap-005",
           "title": {
             "la": "Caput IV - Qualiter pauperis vestimentis indutus ante ecclesiam Sancti Petri cum pauperibus manducavit, et de oblatione quam ibidem obtulit.",
-            "en-US": "Chapter IV. How, clad|in a poor man's garments, he ate with the poor before S. Peter's church: and of the offering that he made there"
+            "en-US": "Chapter IV. How, clad|in a poor man's garments, he ate with the poor before S. Peter's church: and of the offering that he made there",
+            "pt-BR": "Capítulo IV - Como, vestido com as roupas de um pobre, comeu com os pobres diante da igreja de São Pedro, e da oferta que ali fez."
           }
         },
         {
           "id": "cap-006",
           "title": {
             "la": "Caput V - Qualiter sibi oranti diabolus mulierem ostendit, et de responso quod sibi Deus dedit, et quid fecerit de leprosis.",
-            "en-US": "Chapter V. How as he was praying the devil showed him a woman; and concern- ing the answer which God gave him; and his treatment of lepers"
+            "en-US": "Chapter V. How as he was praying the devil showed him a woman; and concern- ing the answer which God gave him; and his treatment of lepers",
+            "pt-BR": "Capítulo V - Como o diabo lhe mostrou uma mulher enquanto orava, e da resposta que Deus lhe deu, e do que fez com os leprosos."
           }
         },
         {
           "id": "cap-007",
           "title": {
             "la": "Caput VI - De imagine crucifixi quae sibi locuta fuit et honore quem ei impendit.",
-            "en-US": "Chapter VI. Of the image of the Crucified which spoke to him, and of the honour he paid to it"
+            "en-US": "Chapter VI. Of the image of the Crucified which spoke to him, and of the honour he paid to it",
+            "pt-BR": "Capítulo VI - Da imagem do Crucificado que lhe falou, e da honra que lhe prestou."
           }
         },
         {
           "id": "cap-008",
           "title": {
             "la": "Caput VII - De persecutione patris et fratris carnalis.",
-            "en-US": "Chapter VII. Of the persecution of his father and his brother after the flesh"
+            "en-US": "Chapter VII. Of the persecution of his father and his brother after the flesh",
+            "pt-BR": "Capítulo VII - Da perseguição do pai e do irmão segundo a carne."
           }
         },
         {
           "id": "cap-009",
           "title": {
             "la": "Caput VIII - De verecundia quam vicit, et prophetia pauperum virginum.",
-            "en-US": "Chapter VIII. Of the bashfulness which he conquered; and of his prophecy of the Poor Virgins"
+            "en-US": "Chapter VIII. Of the bashfulness which he conquered; and of his prophecy of the Poor Virgins",
+            "pt-BR": "Capítulo VIII - Da vergonha que venceu, e da profecia sobre as virgens pobres."
           }
         },
         {
           "id": "cap-010",
           "title": {
             "la": "Caput IX - De cibariis ostiatim quaesitis.",
-            "en-US": "Chapter IX. Of his begging for food from door to door"
+            "en-US": "Chapter IX. Of his begging for food from door to door",
+            "pt-BR": "Capítulo IX - Do alimento pedido de porta em porta."
           }
         },
         {
           "id": "cap-011",
           "title": {
             "la": "Caput X De expropriatione fratris Bernardi.",
-            "en-US": "Chapter X. Of brother Bernard's renunciation of his property"
+            "en-US": "Chapter X. Of brother Bernard's renunciation of his property",
+            "pt-BR": "Capítulo X - Da renúncia de frei Bernardo aos seus bens."
           }
         },
         {
           "id": "cap-012",
           "title": {
             "la": "Caput XI De similitudine quem coram domino Papa proposuit.",
-            "en-US": "Chapter XI. Of the similitude which he set forth before the Pope"
+            "en-US": "Chapter XI. Of the similitude which he set forth before the Pope",
+            "pt-BR": "Capítulo XI - Da comparação que propôs diante do senhor papa."
           }
         },
         {
           "id": "cap-013",
           "title": {
             "la": "Caput XII - De amore sancti in hunc locum, de conversatione fratrum ibidem et de amore beatae Virginis in eumdem.",
-            "en-US": "Chapter XII. Of S. Maria de Portiuncula"
+            "en-US": "Chapter XII. Of S. Maria de Portiuncula",
+            "pt-BR": "Capítulo XII - Do amor do santo por este lugar, da vida dos irmãos ali e do amor da bem-aventurada Virgem por ele."
           }
         },
         {
           "id": "cap-014",
           "title": {
             "la": "Caput XIII - De quadam visione.",
-            "en-US": "Chapter XIII. Of a certain vision"
+            "en-US": "Chapter XIII. Of a certain vision",
+            "pt-BR": "Capítulo XIII - De uma visão."
           }
         },
         {
           "id": "cap-015",
           "title": {
             "la": "Caput XIV - De rigore disciplinae.",
-            "en-US": "Chapter XIV. Of the rigour of discipline"
+            "en-US": "Chapter XIV. Of the rigour of discipline",
+            "pt-BR": "Capítulo XIV - Do rigor da disciplina."
           }
         },
         {
           "id": "cap-016",
           "title": {
             "la": "Caput XV - De discretione sancti Francisci.",
-            "en-US": "Chapter XV. Of S. Francis' discretion"
+            "en-US": "Chapter XV. Of S. Francis' discretion",
+            "pt-BR": "Capítulo XV - Da discrição de São Francisco."
           }
         },
         {
           "id": "cap-017",
           "title": {
             "la": "Caput XVI - De providentia futurorum et qualiter religionem commisit Romanae Ecclesiae, et quadam visione.",
-            "en-US": "Chapter XVI. Of his foreseeing the future. How he committed the Religion to the Church of Rome: and of a certain vision"
+            "en-US": "Chapter XVI. Of his foreseeing the future. How he committed the Religion to the Church of Rome: and of a certain vision",
+            "pt-BR": "Capítulo XVI - Da previsão do futuro, e como confiou a Ordem à Igreja Romana, e de uma visão."
           }
         },
         {
           "id": "cap-018",
           "title": {
             "la": "Caput XVII - Qualiter dominum Ostiensem pro Papa petit.",
-            "en-US": "Chapter XVII. How he asked to have the Lord of Ostia for a Pope"
+            "en-US": "Chapter XVII. How he asked to have the Lord of Ostia for a Pope",
+            "pt-BR": "Capítulo XVII - Como pediu que lhes fosse dado o senhor de Óstia como papa."
           }
         }
       ]
@@ -198,1183 +224,1352 @@
       "id": "pars-3",
       "title": {
         "la": "SECUNDUM OPUS.",
-        "en-US": "Part II"
+        "en-US": "Part II",
+        "pt-BR": "Segunda parte"
       },
       "children": [
         {
           "id": "cap-019",
           "title": {
             "la": "Introitus ad secundum.",
-            "en-US": "Introduction to the Second Part"
+            "en-US": "Introduction to the Second Part",
+            "pt-BR": "Introdução à segunda parte."
           }
         },
         {
           "id": "cap-020",
           "title": {
             "la": "Caput I.",
-            "en-US": "Chapter I. Of the spirit of prophecy that blessed Francis had"
+            "en-US": "Chapter I. Of the spirit of prophecy that blessed Francis had",
+            "pt-BR": "Capítulo I."
           }
         },
         {
           "id": "cap-021",
           "title": {
             "la": "Caput II - Quod quemdam, qui putabatur sanctus, falsum esse cognovit.",
-            "en-US": "Chapter II. How he knew that one who was thought holy was counterfeit"
+            "en-US": "Chapter II. How he knew that one who was thought holy was counterfeit",
+            "pt-BR": "Capítulo II - Como reconheceu que alguém, tido por santo, era falso."
           }
         },
         {
           "id": "cap-022",
           "title": {
             "la": "Caput III - Simile de quodam alio. Contra singularitatem.",
-            "en-US": "Chapter III. A similar case. Against singularity"
+            "en-US": "Chapter III. A similar case. Against singularity",
+            "pt-BR": "Capítulo III - Caso semelhante de outro. Contra a singularidade."
           }
         },
         {
           "id": "cap-023",
           "title": {
             "la": "Caput IV - Quomodo apud Damiatam Christianorum stragem futuram praedixit.",
-            "en-US": "Chapter IV. How he foretold the overthrow of the Christians at Damietta"
+            "en-US": "Chapter IV. How he foretold the overthrow of the Christians at Damietta",
+            "pt-BR": "Capítulo IV - Como predisse em Damieta o futuro massacre dos cristãos."
           }
         },
         {
           "id": "cap-024",
           "title": {
             "la": "Caput V - De fratre cuius cordis abscondita scivit.",
-            "en-US": "Chapter V. Of a brother the secrets of whose heart he knew"
+            "en-US": "Chapter V. Of a brother the secrets of whose heart he knew",
+            "pt-BR": "Capítulo V - Do irmão cujos segredos do coração conheceu."
           }
         },
         {
           "id": "cap-025",
           "title": {
             "la": "Caput VI - De fratre super quem diabolum vidit; contra recedentes de unitate.",
-            "en-US": "Chapter VI. Of the brother over whom he saw a devil. Against those who with- draw from unity"
+            "en-US": "Chapter VI. Of the brother over whom he saw a devil. Against those who with- draw from unity",
+            "pt-BR": "Capítulo VI - Do irmão sobre o qual viu o diabo; contra os que se afastam da unidade."
           }
         },
         {
           "id": "cap-026",
           "title": {
             "la": "Caput VII - Quomodo homines de Graecio a luporum morsibus et grandine liberavit.",
-            "en-US": "Chapter VII. How he delivered the men of Greccio from wolves and from hail"
+            "en-US": "Chapter VII. How he delivered the men of Greccio from wolves and from hail",
+            "pt-BR": "Capítulo VII - Como livrou os homens de Greccio das mordidas dos lobos e do granizo."
           }
         },
         {
           "id": "cap-027",
           "title": {
             "la": "Caput VIII - Quomodo Perusinis praedicans, futuram in eis seditionem praedixit, et de commendatione unitatis.",
-            "en-US": "Chapter VIII. How in preaching to the Perugians he foretold that there would be sedition among them: and of his commendation of unity"
+            "en-US": "Chapter VIII. How in preaching to the Perugians he foretold that there would be sedition among them: and of his commendation of unity",
+            "pt-BR": "Capítulo VIII - Como, pregando aos perusinos, lhes predisse uma futura sedição, e da recomendação da unidade."
           }
         },
         {
           "id": "cap-028",
           "title": {
             "la": "Caput IX - De muliere cui praedixit virum suum de malo futurum bonum.",
-            "en-US": "Chapter IX. Of the woman to whom he foretold that her bad husband would become good"
+            "en-US": "Chapter IX. Of the woman to whom he foretold that her bad husband would become good",
+            "pt-BR": "Capítulo IX - Da mulher a quem predisse que seu marido, de mau, se tornaria bom."
           }
         },
         {
           "id": "cap-029",
           "title": {
             "la": "Caput X - Quomodo per spiritum cognovit fratrem qui scandalizaverat fratrem, quem religionem exiturum praedixit.",
-            "en-US": "Chapter X. How he knew by the spirit that one brother had caused scandal to another, and foretold that the former would quit the Religion"
+            "en-US": "Chapter X. How he knew by the spirit that one brother had caused scandal to another, and foretold that the former would quit the Religion",
+            "pt-BR": "Capítulo X - Como conheceu pelo espírito o irmão que escandalizara outro irmão, e predisse que deixaria a Ordem."
           }
         },
         {
           "id": "cap-030",
           "title": {
             "la": "Caput XI - De iuvene qui venit ad religionem, quem cognovit non spiritu Dei ductum.",
-            "en-US": "Chapter XI. Of a lad who came to enter the Religion, but whom the Saint knew to be not led by the Spirit of God"
+            "en-US": "Chapter XI. Of a lad who came to enter the Religion, but whom the Saint knew to be not led by the Spirit of God",
+            "pt-BR": "Capítulo XI - Do jovem que veio à Ordem e que ele reconheceu não ser conduzido pelo espírito de Deus."
           }
         },
         {
           "id": "cap-031",
           "title": {
             "la": "Caput XII - De quodam clerico ab eo sanato, quem propter peccatum suum peiora passurum predixit.",
-            "en-US": "Chapter XII. Of a clerk whom S. Francis healed and to whom he foretold that he would suffer worse if he sinned again"
+            "en-US": "Chapter XII. Of a clerk whom S. Francis healed and to whom he foretold that he would suffer worse if he sinned again",
+            "pt-BR": "Capítulo XII - De um clérigo que ele curou e a quem predisse que, por causa do seu pecado, sofreria coisas piores."
           }
         },
         {
           "id": "cap-032",
           "title": {
             "la": "Caput XIII - De quodam fratre tentato.",
-            "en-US": "Chapter XIII. Of a certain tempted brother"
+            "en-US": "Chapter XIII. Of a certain tempted brother",
+            "pt-BR": "Capítulo XIII - De um irmão tentado."
           }
         },
         {
           "id": "cap-033",
           "title": {
             "la": "Caput XIV - De homine qui pannum obtulit, iuxta quod sanctus primitus petit.",
-            "en-US": "Chapter XIV. Of a man who offered cloth such as the Saint had asked for before"
+            "en-US": "Chapter XIV. Of a man who offered cloth such as the Saint had asked for before",
+            "pt-BR": "Capítulo XIV - Do homem que ofereceu pano, conforme o santo pedira antes."
           }
         },
         {
           "id": "cap-034",
           "title": {
             "la": "Caput XV - Quomodo medicum suum, cum nihil fratres haberent, ad prandium invitavit, et quanta de subito Dominus dedit; et de providentia Dei circa suos.",
-            "en-US": "Chapter XV. How he invited his physician to dinner when the brethren had nothing to eat; how the Lord suddenly supplied him plentifully; and of God's watchful care of His own"
+            "en-US": "Chapter XV. How he invited his physician to dinner when the brethren had nothing to eat; how the Lord suddenly supplied him plentifully; and of God's watchful care of His own",
+            "pt-BR": "Capítulo XV - Como convidou o seu médico para o almoço quando os irmãos nada tinham, e quanto o Senhor deu de repente; e da providência de Deus para com os seus."
           }
         },
         {
           "id": "cap-035",
           "title": {
             "la": "Caput XVI - De duobus fratribus quos exiens de cella benedixit, quorum desiderium per Spiritum cognovit.",
-            "en-US": "Chapter XVI. Of the two brethren whom he came out of his cell to bless, knowing their desire through the Spirit"
+            "en-US": "Chapter XVI. Of the two brethren whom he came out of his cell to bless, knowing their desire through the Spirit",
+            "pt-BR": "Capítulo XVI - Dos dois irmãos que abençoou ao sair da cela, cujo desejo conheceu pelo Espírito."
           }
         },
         {
           "id": "cap-036",
           "title": {
             "la": "Caput XVII - Quomodo de petra orando aquam eduxit et sitienti rustico dedit.",
-            "en-US": "Chapter XVII. How by prayer he brought water out of a rock and gave it to a thirsting peasant"
+            "en-US": "Chapter XVII. How by prayer he brought water out of a rock and gave it to a thirsting peasant",
+            "pt-BR": "Capítulo XVII - Como, orando, fez sair água de uma pedra e a deu a um camponês sedento."
           }
         },
         {
           "id": "cap-037",
           "title": {
             "la": "Caput XVIII - De aviculis ab ipso nutritis, quorum unus propter avaritiam mortem incurrit.",
-            "en-US": "Chapter XVIII. Of the birds he fed, and how one of them perished through greed"
+            "en-US": "Chapter XVIII. Of the birds he fed, and how one of them perished through greed",
+            "pt-BR": "Capítulo XVIII - Dos passarinhos que alimentou, um dos quais encontrou a morte por avidez."
           }
         },
         {
           "id": "cap-038",
           "title": {
             "la": "Caput XIX - Quod ea quae de fratre Bernardo praedixit omnia sunt completa.",
-            "en-US": "Chapter XIX. How all his predictions about brother Bernard were fulfilled"
+            "en-US": "Chapter XIX. How all his predictions about brother Bernard were fulfilled",
+            "pt-BR": "Capítulo XIX - Como se cumpriu tudo o que predisse de frei Bernardo."
           }
         },
         {
           "id": "cap-039",
           "title": {
             "la": "Caput XX - De fratre tentato qui de manu sancti aliquod scriptum habere volebat.",
-            "en-US": "Chapter XX. Of a tempted brother who would have some writing from the Saint's hand"
+            "en-US": "Chapter XX. Of a tempted brother who would have some writing from the Saint's hand",
+            "pt-BR": "Capítulo XX - Do irmão tentado que queria ter algo escrito pela mão do santo."
           }
         },
         {
           "id": "cap-040",
           "title": {
             "la": "Caput XXI - De eodem fratre cui iuxta suum desiderium tunicam dedit.",
-            "en-US": "Chapter XXI. Of that same brother, whose desire he fulfilled by giving him his tunic"
+            "en-US": "Chapter XXI. Of that same brother, whose desire he fulfilled by giving him his tunic",
+            "pt-BR": "Capítulo XXI - Do mesmo irmão, a quem deu a túnica conforme o seu desejo."
           }
         },
         {
           "id": "cap-041",
           "title": {
             "la": "Caput XXII - De petrosillo ad eius iussum inter herbas agrestes de nocte invento.",
-            "en-US": "Chapter XXII. Of the parsley which at his command was found by night among wild herbs"
+            "en-US": "Chapter XXII. Of the parsley which at his command was found by night among wild herbs",
+            "pt-BR": "Capítulo XXII - Da salsa encontrada de noite, por ordem sua, entre as ervas do campo."
           }
         },
         {
           "id": "cap-042",
           "title": {
             "la": "Caput XXIII - De fame quam post mortem suam futuram praedixit.",
-            "en-US": "Chapter XXIII. Of the famine which he foretold would come after his death"
+            "en-US": "Chapter XXIII. Of the famine which he foretold would come after his death",
+            "pt-BR": "Capítulo XXIII - Da fome que predisse para depois da sua morte."
           }
         },
         {
           "id": "cap-043",
           "title": {
             "la": "Caput XXIV - De claritate sancti e ignorantia nostra.",
-            "en-US": "Chapter XXIV. Of the Saint's splendour, and of our ignorance"
+            "en-US": "Chapter XXIV. Of the Saint's splendour, and of our ignorance",
+            "pt-BR": "Capítulo XXIV - Do esplendor do santo e da nossa ignorância."
           }
         },
         {
           "id": "cap-044",
           "title": {
             "la": "Caput XXV - De laude paupertatis.",
-            "en-US": "Chapter XXV. Of Poverty and the praise of her"
+            "en-US": "Chapter XXV. Of Poverty and the praise of her",
+            "pt-BR": "Capítulo XXV - Do louvor da pobreza."
           }
         },
         {
           "id": "cap-045",
           "title": {
             "la": "Caput XXVI.",
-            "en-US": "Chapter XXVI. Of poverty in dwellings"
+            "en-US": "Chapter XXVI. Of poverty in dwellings",
+            "pt-BR": "Capítulo XXVI."
           }
         },
         {
           "id": "cap-046",
           "title": {
             "la": "Caput XXVII - De domo quam apud Portiunculam destruere coepit.",
-            "en-US": "Chapter XXVII. Of the house at Portiuncula which he began to destroy"
+            "en-US": "Chapter XXVII. Of the house at Portiuncula which he began to destroy",
+            "pt-BR": "Capítulo XXVII - Da casa da Porciúncula, que começou a destruir."
           }
         },
         {
           "id": "cap-047",
           "title": {
             "la": "Caput XXVIII - De domo Bononiensi, de qua infirmos eiecit.",
-            "en-US": "Chapter XXVIII. Of the house at Bologna from which he drove out the sick"
+            "en-US": "Chapter XXVIII. Of the house at Bologna from which he drove out the sick",
+            "pt-BR": "Capítulo XXVIII - Da casa de Bolonha, da qual expulsou os doentes."
           }
         },
         {
           "id": "cap-048",
           "title": {
             "la": "Caput XXIX - De cella suo nomini facta quam intrare noluit.",
-            "en-US": "Chapter XXIX. Of his refusing to enter a cell to which his name had been put"
+            "en-US": "Chapter XXIX. Of his refusing to enter a cell to which his name had been put",
+            "pt-BR": "Capítulo XXIX - Da cela feita em seu nome, na qual não quis entrar."
           }
         },
         {
           "id": "cap-049",
           "title": {
             "la": "Caput XXX.",
-            "en-US": "Chapter XXX. Of poverty in furniture"
+            "en-US": "Chapter XXX. Of poverty in furniture",
+            "pt-BR": "Capítulo XXX."
           }
         },
         {
           "id": "cap-050",
           "title": {
             "la": "Caput XXXI - Exemplum de mensa in die Paschae apud Graecium praeparata, et quomodo se Christi exemplo sicut peregrinum exhibuit.",
-            "en-US": "Chapter XXXI. Ensample concerning the table prepared at Greccio on Easter day, and how after Christ's example he showed himself in a pilgrim's guise"
+            "en-US": "Chapter XXXI. Ensample concerning the table prepared at Greccio on Easter day, and how after Christ's example he showed himself in a pilgrim's guise",
+            "pt-BR": "Capítulo XXXI - Exemplo da mesa preparada em Greccio no dia da Páscoa, e como, a exemplo de Cristo, se apresentou como peregrino."
           }
         },
         {
           "id": "cap-051",
           "title": {
             "la": "Caput XXXII - Contra curiositatem librorum.",
-            "en-US": "Chapter XXXII. Against curiosity in books"
+            "en-US": "Chapter XXXII. Against curiosity in books",
+            "pt-BR": "Capítulo XXXII - Contra a curiosidade pelos livros."
           }
         },
         {
           "id": "cap-052",
           "title": {
             "la": "Caput XXXIII - Exemplum domini Ostiensis, et laus eius.",
-            "en-US": "Chapter XXXIII. An ensample ol the Lord of Ostia. His praise"
+            "en-US": "Chapter XXXIII. An ensample ol the Lord of Ostia. His praise",
+            "pt-BR": "Capítulo XXXIII - Exemplo do senhor de Óstia, e seu louvor."
           }
         },
         {
           "id": "cap-053",
           "title": {
             "la": "Caput XXXIV - Quid ei accidit nocte quadam pro plumeo pulvinari.",
-            "en-US": "Chapter XXXIV. What happened to S. Francis one night for using a feather-pillow"
+            "en-US": "Chapter XXXIV. What happened to S. Francis one night for using a feather-pillow",
+            "pt-BR": "Capítulo XXXIV - O que lhe aconteceu certa noite por causa de um travesseiro de penas."
           }
         },
         {
           "id": "cap-054",
           "title": {
             "la": "Caput XXXV - Dura correctio fratris qui eam manibus tetigit.",
-            "en-US": "Chapter XXXV. Sharp correction of a brother who touched it with his hand"
+            "en-US": "Chapter XXXV. Sharp correction of a brother who touched it with his hand",
+            "pt-BR": "Capítulo XXXV - Dura correção de um irmão que tocou dinheiro com as mãos."
           }
         },
         {
           "id": "cap-055",
           "title": {
             "la": "Caput XXXVI - Vindicta fratris qui pecuniam quandoque collegit.",
-            "en-US": "Chapter XXXVI. Punishment of a brother for picking up money"
+            "en-US": "Chapter XXXVI. Punishment of a brother for picking up money",
+            "pt-BR": "Capítulo XXXVI - Castigo de um irmão que certa vez apanhou dinheiro."
           }
         },
         {
           "id": "cap-056",
           "title": {
             "la": "Caput XXXVII - Increpatio fratris qui pecuniam specie necessitatis volebat servare.",
-            "en-US": "Chapter XXXVII. A brother chidden who wished to keep money on the plea of necessity"
+            "en-US": "Chapter XXXVII. A brother chidden who wished to keep money on the plea of necessity",
+            "pt-BR": "Capítulo XXXVII - Repreensão de um irmão que, sob pretexto de necessidade, queria guardar dinheiro."
           }
         },
         {
           "id": "cap-057",
           "title": {
             "la": "Caput XXXVIII - De pecunia versa in colubrum.",
-            "en-US": "Chapter XXXVIII. Of money turned into a snake"
+            "en-US": "Chapter XXXVIII. Of money turned into a snake",
+            "pt-BR": "Capítulo XXXVIII - Do dinheiro transformado em cobra."
           }
         },
         {
           "id": "cap-058",
           "title": {
             "la": "Caput XXXIX - Quomodo Sanctus reprehendit verbo et exemplo mollibus et delicatis indutos.",
-            "en-US": "Chapter XXXIX. Of poverty in dress"
+            "en-US": "Chapter XXXIX. Of poverty in dress",
+            "pt-BR": "Capítulo XXXIX - Como o santo repreendeu, com a palavra e com o exemplo, os que se vestiam com roupas macias e delicadas."
           }
         },
         {
           "id": "cap-059",
           "title": {
             "la": "Caput XL - Recedentes a paupertate, a necessitate corrigendos pronuntiat.",
-            "en-US": "Chapter XL. He pronounces that those who withdraw from Po/erty must needs be punished"
+            "en-US": "Chapter XL. He pronounces that those who withdraw from Po/erty must needs be punished",
+            "pt-BR": "Capítulo XL - Declara que os que se afastam da pobreza serão corrigidos pela necessidade."
           }
         },
         {
           "id": "cap-060",
           "title": {
             "la": "Caput XLI - De commendatione ipsius.",
-            "en-US": "Chapter XLI. Of his commendation of alms-seeking"
+            "en-US": "Chapter XLI. Of his commendation of alms-seeking",
+            "pt-BR": "Capítulo XLI - Da sua recomendação."
           }
         },
         {
           "id": "cap-061",
           "title": {
             "la": "Caput XLII - Exemplum sancti de petenda eleemosyna.",
-            "en-US": "Chapter XLII. An ensample of the Saint in alms-seeking"
+            "en-US": "Chapter XLII. An ensample of the Saint in alms-seeking",
+            "pt-BR": "Capítulo XLII - Exemplo do santo sobre pedir esmola."
           }
         },
         {
           "id": "cap-062",
           "title": {
             "la": "Caput XLIII - Exemplum quod fecit in curia domini Ostiensis et de sua responsione ad episcopum.",
-            "en-US": "Chapter XLIII. The example which he set in the Court of the Lord of Ostia; and of his answer to that bishop"
+            "en-US": "Chapter XLIII. The example which he set in the Court of the Lord of Ostia; and of his answer to that bishop",
+            "pt-BR": "Capítulo XLIII - Exemplo que deu na corte do senhor de Óstia, e da sua resposta ao bispo."
           }
         },
         {
           "id": "cap-063",
           "title": {
             "la": "Caput XLIV - Exhortatio eius ad eleemosynam petendam exemplo et verbo.",
-            "en-US": "Chapter XLIV. His exhortation, both by example and precept, to alms-seeking"
+            "en-US": "Chapter XLIV. His exhortation, both by example and precept, to alms-seeking",
+            "pt-BR": "Capítulo XLIV - Sua exortação a pedir esmola, com o exemplo e com a palavra."
           }
         },
         {
           "id": "cap-064",
           "title": {
             "la": "Caput XLV - Reprehensio fratris mendicare nolentis.",
-            "en-US": "Chapter XLV. Rebuke of a brother refusing to beg"
+            "en-US": "Chapter XLV. Rebuke of a brother refusing to beg",
+            "pt-BR": "Capítulo XLV - Repreensão de um irmão que não queria mendigar."
           }
         },
         {
           "id": "cap-065",
           "title": {
             "la": "Caput XLVI - Quomodo fratris eleemosynam portantis, occurrens, osculatus est humerum.",
-            "en-US": "Chapter XLVI. How he kissed the shoulder of a brother whom he met carrying alms"
+            "en-US": "Chapter XLVI. How he kissed the shoulder of a brother whom he met carrying alms",
+            "pt-BR": "Capítulo XLVI - Como, indo ao encontro de um irmão que trazia esmolas, lhe beijou o ombro."
           }
         },
         {
           "id": "cap-066",
           "title": {
             "la": "Caput XLVII - Qualiter milites saeculares induxit, ut eleemosynam peterent.",
-            "en-US": "Chapter XLVII. How he induced some secular knights to seek alms"
+            "en-US": "Chapter XLVII. How he induced some secular knights to seek alms",
+            "pt-BR": "Capítulo XLVII - Como levou cavaleiros seculares a pedir esmola."
           }
         },
         {
           "id": "cap-067",
           "title": {
             "la": "Caput XLVIII - De membro caponis apud Alexandriam verso in piscem.",
-            "en-US": "Chapter XLVIII. Of a piece of capon turned into a fish at Alexandria"
+            "en-US": "Chapter XLVIII. Of a piece of capon turned into a fish at Alexandria",
+            "pt-BR": "Capítulo XLVIII - Do pedaço de capão transformado em peixe em Alexandria."
           }
         },
         {
           "id": "cap-068",
           "title": {
             "la": "Caput XLIX - Exemplum cuiusdam qui sua parentibus, non pauperibus tribuit, quem sanctus reprobavit.",
-            "en-US": "Chapter XLIX. Ensample of one whom the Saint rebuked for distributing his pro- perty to his relations and not to the poor"
+            "en-US": "Chapter XLIX. Ensample of one whom the Saint rebuked for distributing his pro- perty to his relations and not to the poor",
+            "pt-BR": "Capítulo XLIX - Exemplo de um homem que distribuiu os seus bens aos parentes e não aos pobres, e a quem o santo reprovou."
           }
         },
         {
           "id": "cap-069",
           "title": {
             "la": "Caput L.",
-            "en-US": "Chapter L. Of a vision relating to Poverty"
+            "en-US": "Chapter L. Of a vision relating to Poverty",
+            "pt-BR": "Capítulo L."
           }
         },
         {
           "id": "cap-070",
           "title": {
             "la": "Caput LI - De compassione quam ad pauperes habuit, et qualiter se pauperioribus invidebat.",
-            "en-US": "Chapter LI. Of the compassion he had for the poor and how he envied those poorer than himself"
+            "en-US": "Chapter LI. Of the compassion he had for the poor and how he envied those poorer than himself",
+            "pt-BR": "Capítulo LI - Da compaixão que tinha pelos pobres, e como invejava os mais pobres do que ele."
           }
         },
         {
           "id": "cap-071",
           "title": {
             "la": "Caput LII - Qualiter fratrem de quodam paupere obloquentem correxit.",
-            "en-US": "Chapter LII. How he punished a brother for speaking evil of a poor man !"
+            "en-US": "Chapter LII. How he punished a brother for speaking evil of a poor man !",
+            "pt-BR": "Capítulo LII - Como corrigiu um irmão que falava mal de um pobre."
           }
         },
         {
           "id": "cap-072",
           "title": {
             "la": "Caput LIII - De mantello vetulae dato apud Celanum.",
-            "en-US": "Chapter LIII. Of the cloak given to an old woman at Celano"
+            "en-US": "Chapter LIII. Of the cloak given to an old woman at Celano",
+            "pt-BR": "Capítulo LIII - Do manto dado a uma velhinha em Celano."
           }
         },
         {
           "id": "cap-073",
           "title": {
             "la": "Caput LIV - De alio paupere cui alium mantellum dedit.",
-            "en-US": "Chapter LIV. How he gave a cloak to another poor person"
+            "en-US": "Chapter LIV. How he gave a cloak to another poor person",
+            "pt-BR": "Capítulo LIV - De outro pobre a quem deu outro manto."
           }
         },
         {
           "id": "cap-074",
           "title": {
             "la": "Caput LV - Simile fecit in alio paupere.",
-            "en-US": "Chapter LV. How he did the like for another poor person"
+            "en-US": "Chapter LV. How he did the like for another poor person",
+            "pt-BR": "Capítulo LV - Fez o mesmo com outro pobre."
           }
         },
         {
           "id": "cap-075",
           "title": {
             "la": "Caput LVI - Quomodo cuidam dedit mantellum, ne dominum suum odiret.",
-            "en-US": "Chapter LVI. How by the gift of a cloak he induced a man to cease from hating his lord"
+            "en-US": "Chapter LVI. How by the gift of a cloak he induced a man to cease from hating his lord",
+            "pt-BR": "Capítulo LVI - Como deu o manto a um homem para que não odiasse o seu senhor."
           }
         },
         {
           "id": "cap-076",
           "title": {
             "la": "Caput LVII - Quomodo gaidam tunicae cuidam paupere dedit.",
-            "en-US": "Chapter LVII. How he gave a poor man the border of his tunic"
+            "en-US": "Chapter LVII. How he gave a poor man the border of his tunic",
+            "pt-BR": "Capítulo LVII - Como deu a um pobre a orla da túnica."
           }
         },
         {
           "id": "cap-077",
           "title": {
             "la": "Caput LVIII - Quomodo matri duorum fratrum pauperi dari fecit primum Novum Testamentum quod fuit in Ordine.",
-            "en-US": "Chapter LVIII. How he caused the first New Testament that was in the Order to be given to the poor mother of two of the brethren"
+            "en-US": "Chapter LVIII. How he caused the first New Testament that was in the Order to be given to the poor mother of two of the brethren",
+            "pt-BR": "Capítulo LVIII - Como mandou dar à mãe pobre de dois irmãos o primeiro Novo Testamento que houve na Ordem."
           }
         },
         {
           "id": "cap-078",
           "title": {
             "la": "Caput LIX.",
-            "en-US": "Chapter LIX. How he gave a cloak to a poor woman suffering from her eyes"
+            "en-US": "Chapter LIX. How he gave a cloak to a poor woman suffering from her eyes",
+            "pt-BR": "Capítulo LIX."
           }
         },
         {
           "id": "cap-079",
           "title": {
             "la": "Caput LX - Quomodo tres mulieres apparuerunt sibi in via, et post novam salutationem disparuerunt.",
-            "en-US": "Chapter LX. How three women appeared to him in the way and vanished after giving him a new greeting"
+            "en-US": "Chapter LX. How three women appeared to him in the way and vanished after giving him a new greeting",
+            "pt-BR": "Capítulo LX - Como três mulheres lhe apareceram no caminho e, depois de uma saudação nova, desapareceram."
           }
         },
         {
           "id": "cap-080",
           "title": {
             "la": "Caput LXI - De tempore, loco et affectu orantis.",
-            "en-US": "Chapter LXI. Of his time and place of prayer and of his earnestness in prayer"
+            "en-US": "Chapter LXI. Of his time and place of prayer and of his earnestness in prayer",
+            "pt-BR": "Capítulo LXI - Do tempo, do lugar e do fervor da sua oração."
           }
         },
         {
           "id": "cap-081",
           "title": {
             "la": "Caput LXII - De horis canonicis devote reddendis.",
-            "en-US": "Chapter LXII. Of his devout recitation of the canonical Hours"
+            "en-US": "Chapter LXII. Of his devout recitation of the canonical Hours",
+            "pt-BR": "Capítulo LXII - Da devota recitação das horas canônicas."
           }
         },
         {
           "id": "cap-082",
           "title": {
             "la": "Caput LXIII - Qualiter orans abigebat phantasmata cordis.",
-            "en-US": "Chapter LXIII. How at prayer he drove away wandering thoughts"
+            "en-US": "Chapter LXIII. How at prayer he drove away wandering thoughts",
+            "pt-BR": "Capítulo LXIII - Como, orando, afastava as imaginações do coração."
           }
         },
         {
           "id": "cap-083",
           "title": {
             "la": "Caput LXIV - De mentis excessu.",
-            "en-US": "Chapter LXIV. Of his mental extasy"
+            "en-US": "Chapter LXIV. Of his mental extasy",
+            "pt-BR": "Capítulo LXIV - Do êxtase da mente."
           }
         },
         {
           "id": "cap-084",
           "title": {
             "la": "Caput LXV - Qualem se post orationem praebebat.",
-            "en-US": "Chapter LXV. His behaviour after prayer"
+            "en-US": "Chapter LXV. His behaviour after prayer",
+            "pt-BR": "Capítulo LXV - Como se mostrava depois da oração."
           }
         },
         {
           "id": "cap-085",
           "title": {
             "la": "Caput LXVI - Quomodo episcopus inveniens ipsum orantem loquela privatus est.",
-            "en-US": "Chapter LXVI. How a bishop who came upon him in prayer was deprived of speech"
+            "en-US": "Chapter LXVI. How a bishop who came upon him in prayer was deprived of speech",
+            "pt-BR": "Capítulo LXVI - Como um bispo, ao encontrá-lo em oração, ficou privado da fala."
           }
         },
         {
           "id": "cap-086",
           "title": {
             "la": "Caput LXVII - Quomodo quidam abbas sensit virtutem orationis eius.",
-            "en-US": "Chapter LXVII. How an abbot felt the power of S. Francis' prayer"
+            "en-US": "Chapter LXVII. How an abbot felt the power of S. Francis' prayer",
+            "pt-BR": "Capítulo LXVII - Como um abade sentiu a força da sua oração."
           }
         },
         {
           "id": "cap-087",
           "title": {
             "la": "Caput LXVIII - Qualis scientiae et qualis memoriae fuerit.",
-            "en-US": "Chapter LXVIII"
+            "en-US": "Chapter LXVIII",
+            "pt-BR": "Capítulo LXVIII - Qual foi a sua ciência e qual a sua memória."
           }
         },
         {
           "id": "cap-088",
           "title": {
             "la": "Caput LXIX - De verbo prophetico quod ad preces cuiusdam fratris Praedicatoris exposuit.",
-            "en-US": "Chapter LXIX. Of the prophetic utterance which he expounded at the request of a friar Preacher"
+            "en-US": "Chapter LXIX. Of the prophetic utterance which he expounded at the request of a friar Preacher",
+            "pt-BR": "Capítulo LXIX - Da palavra profética que explicou a pedido de um frade pregador."
           }
         },
         {
           "id": "cap-089",
           "title": {
             "la": "Caput LXX - De iis quae interrogatus a quodam Cardinali aperuit.",
-            "en-US": "Chapter LXX. Of the things he expounded when questioned by a certain Cardinal"
+            "en-US": "Chapter LXX. Of the things he expounded when questioned by a certain Cardinal",
+            "pt-BR": "Capítulo LXX - Do que esclareceu ao ser interrogado por um cardeal."
           }
         },
         {
           "id": "cap-090",
           "title": {
             "la": "Caput LXXI - Quid se scire cuidam fratri respondit, cum hortaretur ad studium lectionis.",
-            "en-US": "Chapter LXXI. What he said he knew in answer to a brother who exhorted him to apply himself to reading"
+            "en-US": "Chapter LXXI. What he said he knew in answer to a brother who exhorted him to apply himself to reading",
+            "pt-BR": "Capítulo LXXI - O que respondeu saber a um irmão que o exortava ao estudo da leitura."
           }
         },
         {
           "id": "cap-091",
           "title": {
             "la": "Caput LXXII - De gladiis quos vidit frater Pacificus in ore sancti fulgentes.",
-            "en-US": "Chapter LXXII. Of the swords which brother Pacifico saw glittering in the Saint's mouth"
+            "en-US": "Chapter LXXII. Of the swords which brother Pacifico saw glittering in the Saint's mouth",
+            "pt-BR": "Capítulo LXXII - Das espadas que frei Pacífico viu brilhar na boca do santo."
           }
         },
         {
           "id": "cap-092",
           "title": {
             "la": "Caput LXXIII - De efficacia sermonum eius et testimonio cuiusdam physici ad hoc dato.",
-            "en-US": "Chapter LXXIII. Of the efficacy of his sermons and ot the testimony which a certain natural philosopher bore to it"
+            "en-US": "Chapter LXXIII. Of the efficacy of his sermons and ot the testimony which a certain natural philosopher bore to it",
+            "pt-BR": "Capítulo LXXIII - Da eficácia das suas pregações e do testemunho que um médico deu disso."
           }
         },
         {
           "id": "cap-093",
           "title": {
             "la": "Caput LXXIV - Qualiter virtute verbi per fratrem Silvestrum de Aretio daemones effugavit.",
-            "en-US": "Chapter LXXIV. How by the power of his word he, through brother Sylvester, drove devils out of Arezzo"
+            "en-US": "Chapter LXXIV. How by the power of his word he, through brother Sylvester, drove devils out of Arezzo",
+            "pt-BR": "Capítulo LXXIV - Como, pela força da sua palavra, expulsou de Arezzo os demônios por meio de frei Silvestre."
           }
         },
         {
           "id": "cap-094",
           "title": {
             "la": "Caput LXXV - De conversione eiusdem fratris Silvestri, et de quadam ipsius visione.",
-            "en-US": "Chapter LXXV. Of the conversion of that same brother Sylvester, and of a vision that he saw"
+            "en-US": "Chapter LXXV. Of the conversion of that same brother Sylvester, and of a vision that he saw",
+            "pt-BR": "Capítulo LXXV - Da conversão do mesmo frei Silvestre e de uma visão sua."
           }
         },
         {
           "id": "cap-095",
           "title": {
             "la": "Caput LXXVI - De quodam fratre ab impugnatione daemonis liberato.",
-            "en-US": "Chapter LXXVI. How he delivered a brother from assaults of the devil"
+            "en-US": "Chapter LXXVI. How he delivered a brother from assaults of the devil",
+            "pt-BR": "Capítulo LXXVI - De um irmão libertado do assalto do demônio."
           }
         },
         {
           "id": "cap-096",
           "title": {
             "la": "Caput LXXVII - De porca malefica quae manducavit agnum.",
-            "en-US": "Chapter LXXVII. Of the baleful sow that devoured a lamb"
+            "en-US": "Chapter LXXVII. Of the baleful sow that devoured a lamb",
+            "pt-BR": "Capítulo LXXVII - Da porca maléfica que devorou um cordeiro."
           }
         },
         {
           "id": "cap-097",
           "title": {
             "la": "Caput LXXVIII - De fugienda familiaritate mulierum, et qualiter cum eis loquebatur.",
-            "en-US": "Chapter LXXVIII. Of avoiding familiarity with women; and of his manner of talking with them"
+            "en-US": "Chapter LXXVIII. Of avoiding familiarity with women; and of his manner of talking with them",
+            "pt-BR": "Capítulo LXXVIII - Como se deve fugir da familiaridade com as mulheres, e como ele falava com elas."
           }
         },
         {
           "id": "cap-098",
           "title": {
             "la": "Caput LXXIX - Aenigma contra aspectum mulierum.",
-            "en-US": "Chapter LXXIX. A parable against looking on women"
+            "en-US": "Chapter LXXIX. A parable against looking on women",
+            "pt-BR": "Capítulo LXXIX - Enigma contra olhar para as mulheres."
           }
         },
         {
           "id": "cap-099",
           "title": {
             "la": "Caput LXXX - Exemplum sancti contra nimiam familiaritatem.",
-            "en-US": "Chapter LXXX. An ensample of the Saint against too great intimacy [with women]"
+            "en-US": "Chapter LXXX. An ensample of the Saint against too great intimacy [with women]",
+            "pt-BR": "Capítulo LXXX - Exemplo do santo contra a familiaridade excessiva."
           }
         },
         {
           "id": "cap-100",
           "title": {
             "la": "Caput LXXXI - De tentationibus sancti et quomodo tentationem superavit.",
-            "en-US": "Chapter LXXXI. Of the temptations of the Saint, and how he overcame temptation"
+            "en-US": "Chapter LXXXI. Of the temptations of the Saint, and how he overcame temptation",
+            "pt-BR": "Capítulo LXXXI - Das tentações do santo e de como venceu a tentação."
           }
         },
         {
           "id": "cap-101",
           "title": {
             "la": "Caput LXXXII - Quomodo diabolus vocans eum de luxuria tentavit, et qualiter sanctus superavit.",
-            "en-US": "Chapter LXXXII. How the Devil called him and tempted him-concerning lust; and how the Saint overcame the temptation"
+            "en-US": "Chapter LXXXII. How the Devil called him and tempted him-concerning lust; and how the Saint overcame the temptation",
+            "pt-BR": "Capítulo LXXXII - Como o diabo, chamando-o, o tentou de luxúria, e como o santo o venceu."
           }
         },
         {
           "id": "cap-102",
           "title": {
             "la": "Caput LXXXIII - Quomodo quemdam fratrem a tentatione liberavit et de bono tentationis.",
-            "en-US": "Chapter LXXXIII. How he delivered a brother from temptation: and concerning the good of temptation"
+            "en-US": "Chapter LXXXIII. How he delivered a brother from temptation: and concerning the good of temptation",
+            "pt-BR": "Capítulo LXXXIII - Como livrou um irmão da tentação, e do bem da tentação."
           }
         },
         {
           "id": "cap-103",
           "title": {
             "la": "Caput LXXXIV - Qualiter verberaverunt eum daemones, et quod fugiendae sunt curiae.",
-            "en-US": "Chapter LXXXIV. How he was beaten by devils; and how that Courts are to be shunned"
+            "en-US": "Chapter LXXXIV. How he was beaten by devils; and how that Courts are to be shunned",
+            "pt-BR": "Capítulo LXXXIV - Como os demônios o espancaram, e que se devem evitar as cortes."
           }
         },
         {
           "id": "cap-104",
           "title": {
             "la": "Caput LXXXV - Exemplum ad propositum.",
-            "en-US": "Chapter LXXXV. An ensample in point"
+            "en-US": "Chapter LXXXV. An ensample in point",
+            "pt-BR": "Capítulo LXXXV - Exemplo a propósito."
           }
         },
         {
           "id": "cap-105",
           "title": {
             "la": "Caput LXXXVI - Tentamenta quae passus est in quodam loco solitario et de visione cuiusdam fratris.",
-            "en-US": "Chapter LXXXVI. Of the assaults he endured in a certain solitary place, and of a certain brother's vision"
+            "en-US": "Chapter LXXXVI. Of the assaults he endured in a certain solitary place, and of a certain brother's vision",
+            "pt-BR": "Capítulo LXXXVI - Tentações que sofreu num lugar solitário, e da visão de um irmão."
           }
         },
         {
           "id": "cap-106",
           "title": {
             "la": "Caput LXXXVII - De quodam fratre a tentatione liberato.",
-            "en-US": "Chapter LXXXVII. How a certain brother was freed from temptation"
+            "en-US": "Chapter LXXXVII. How a certain brother was freed from temptation",
+            "pt-BR": "Capítulo LXXXVII - De um irmão libertado da tentação."
           }
         },
         {
           "id": "cap-107",
           "title": {
             "la": "Caput LXXXVIII - De spirituali laetitia et laus eius, et de malo acediae.",
-            "en-US": "Chapter LXXXVIII. Of spiritual joy and the praise thereof; and of the evil of sloth"
+            "en-US": "Chapter LXXXVIII. Of spiritual joy and the praise thereof; and of the evil of sloth",
+            "pt-BR": "Capítulo LXXXVIII - Da alegria espiritual e do seu louvor, e do mal da acídia."
           }
         },
         {
           "id": "cap-108",
           "title": {
             "la": "Caput LXXXIX - De cithara angelica quam audivit.",
-            "en-US": "Chapter LXXXIX. Of the angelic lute that he heard"
+            "en-US": "Chapter LXXXIX. Of the angelic lute that he heard",
+            "pt-BR": "Capítulo LXXXIX - Da cítara angélica que ouviu."
           }
         },
         {
           "id": "cap-109",
           "title": {
             "la": "Caput XC - Quod spiritu exhilaratus sanctus gallice cantabat.",
-            "en-US": "Chapter XC. How the Saint when cheered in spirit would sing in French"
+            "en-US": "Chapter XC. How the Saint when cheered in spirit would sing in French",
+            "pt-BR": "Capítulo XC - Como o santo, alegre no espírito, cantava em francês."
           }
         },
         {
           "id": "cap-110",
           "title": {
             "la": "Caput XCI - Qualiter quemdam fratrem tristem redarguit, et qualiter se deberet habere monuit.",
-            "en-US": "Chapter XCI. How he rebuked a brother that was sad and admonished him as to his behaviour"
+            "en-US": "Chapter XCI. How he rebuked a brother that was sad and admonished him as to his behaviour",
+            "pt-BR": "Capítulo XCI - Como repreendeu um irmão triste e o admoestou sobre como devia portar-se."
           }
         },
         {
           "id": "cap-111",
           "title": {
             "la": "Caput XCII - Qualiter corpus tractandum est, ut non murmuret.",
-            "en-US": "Chapter XCII. How the body ought to be treated to prevent it from murmuring"
+            "en-US": "Chapter XCII. How the body ought to be treated to prevent it from murmuring",
+            "pt-BR": "Capítulo XCII - Como se deve tratar o corpo, para que não murmure."
           }
         },
         {
           "id": "cap-112",
           "title": {
             "la": "Caput XCIII - Contra vanam gloriam et hypocrisim.",
-            "en-US": "Chapter XCIII. Against vainglory and hypocrisy"
+            "en-US": "Chapter XCIII. Against vainglory and hypocrisy",
+            "pt-BR": "Capítulo XCIII - Contra a vanglória e a hipocrisia."
           }
         },
         {
           "id": "cap-113",
           "title": {
             "la": "Caput XCIV - De quadam sua confessione contra hypocrisim.",
-            "en-US": "Chapter XCIV. Of a confession of his, making against hypocrisy"
+            "en-US": "Chapter XCIV. Of a confession of his, making against hypocrisy",
+            "pt-BR": "Capítulo XCIV - De uma confissão sua contra a hipocrisia."
           }
         },
         {
           "id": "cap-114",
           "title": {
             "la": "Caput XCV - De confessione contra vanam gloriam.",
-            "en-US": "Chapter XCV. Of a confession of his, making against vainglory"
+            "en-US": "Chapter XCV. Of a confession of his, making against vainglory",
+            "pt-BR": "Capítulo XCV - De uma confissão contra a vanglória."
           }
         },
         {
           "id": "cap-115",
           "title": {
             "la": "Caput XCVI - Verba sua contra se laudantes.",
-            "en-US": "Chapter XCVI. His words against those who praised him"
+            "en-US": "Chapter XCVI. His words against those who praised him",
+            "pt-BR": "Capítulo XCVI - Suas palavras contra os que o louvavam."
           }
         },
         {
           "id": "cap-116",
           "title": {
             "la": "Caput XCVII - Verba contra se laudantes.",
-            "en-US": "Chapter XCVII. His words against those who praised themselves"
+            "en-US": "Chapter XCVII. His words against those who praised themselves",
+            "pt-BR": "Capítulo XCVII - Palavras contra os que se louvam a si mesmos."
           }
         },
         {
           "id": "cap-117",
           "title": {
             "la": "Caput XCVIII - Quid de his quaerentibus ipse respondit, et quo studio illa tegebat.",
-            "en-US": "Chapter XCVIII"
+            "en-US": "Chapter XCVIII",
+            "pt-BR": "Capítulo XCVIII - O que respondeu aos que lhe perguntavam por eles, e com que cuidado os escondia."
           }
         },
         {
           "id": "cap-118",
           "title": {
             "la": "Caput XCIX - Quod pia fraude quidam illa inspexit.",
-            "en-US": "Chapter XCIX. How a certain brother beheld the stigmata by means of a pious fraud"
+            "en-US": "Chapter XCIX. How a certain brother beheld the stigmata by means of a pious fraud",
+            "pt-BR": "Capítulo XCIX - Como alguém os viu por uma piedosa fraude."
           }
         },
         {
           "id": "cap-119",
           "title": {
             "la": "Caput C - De vulnere lateris a quodam inspecto.",
-            "en-US": "Chapter C. How a certain brother saw the wound in his side"
+            "en-US": "Chapter C. How a certain brother saw the wound in his side",
+            "pt-BR": "Capítulo C - Da chaga do lado vista por alguém."
           }
         },
         {
           "id": "cap-120",
           "title": {
             "la": "Caput CI - De occultandis virtutibus.",
-            "en-US": "Chapter CI. Of the hiding of virtues"
+            "en-US": "Chapter CI. Of the hiding of virtues",
+            "pt-BR": "Capítulo CI - De como se devem ocultar as virtudes."
           }
         },
         {
           "id": "cap-121",
           "title": {
             "la": "Caput CII - Humilitas sancti Francisci in habitu, sensu et moribus, et contra proprium sensum.",
-            "en-US": "Chapter CII. Of S. Francis' humility in dress, in opinion and in behaviour. Against [trusting to] one's own opinion"
+            "en-US": "Chapter CII. Of S. Francis' humility in dress, in opinion and in behaviour. Against [trusting to] one's own opinion",
+            "pt-BR": "Capítulo CII - A humildade de São Francisco no hábito, no modo de pensar e nos costumes, e contra o próprio parecer."
           }
         },
         {
           "id": "cap-122",
           "title": {
             "la": "Caput CIII - De humilitate ipsius ad Episcopum Interamnensem et ad quemdam rusticum.",
-            "en-US": "Chapter CIII. Of his humility toward the Bishop of Terni and toward a certain peasant"
+            "en-US": "Chapter CIII. Of his humility toward the Bishop of Terni and toward a certain peasant",
+            "pt-BR": "Capítulo CIII - Da sua humildade para com o bispo de Terni e para com um camponês."
           }
         },
         {
           "id": "cap-123",
           "title": {
             "la": "Caput CIV - Quomodo praelationem in capitulo resignavit, et de oratione quadam.",
-            "en-US": "Chapter CIV. How in a chapter he resigned his office: and concerning a certain prayer"
+            "en-US": "Chapter CIV. How in a chapter he resigned his office: and concerning a certain prayer",
+            "pt-BR": "Capítulo CIV - Como renunciou à prelatura num capítulo, e de uma oração."
           }
         },
         {
           "id": "cap-124",
           "title": {
             "la": "Caput CV - Qualiter socios resignavit.",
-            "en-US": "Chapter CV. How he resigned his companions"
+            "en-US": "Chapter CV. How he resigned his companions",
+            "pt-BR": "Capítulo CV - Como renunciou aos companheiros."
           }
         },
         {
           "id": "cap-125",
           "title": {
             "la": "Caput CVI - Verba eius contra praelationem amantes, et descriptio fratis Minoris.",
-            "en-US": "Chapter CVI. His words against those covetous of office: and description of a Lesser Brother"
+            "en-US": "Chapter CVI. His words against those covetous of office: and description of a Lesser Brother",
+            "pt-BR": "Capítulo CVI - Suas palavras contra os que amam a prelatura, e descrição do frade menor."
           }
         },
         {
           "id": "cap-126",
           "title": {
             "la": "Caput CVII - De subiectione quam volebat fratres habere ad clericos, et quare.",
-            "en-US": "Chapter CVII. How he would have the brethren be in subjection to the clergy; and wherefore"
+            "en-US": "Chapter CVII. How he would have the brethren be in subjection to the clergy; and wherefore",
+            "pt-BR": "Capítulo CVII - Da sujeição que queria que os irmãos tivessem para com os clérigos, e por quê."
           }
         },
         {
           "id": "cap-127",
           "title": {
             "la": "Caput CVIII - De reverentia quam exhibuit Episcopo Imolensi.",
-            "en-US": "Chapter CVIII. Of the respect he showed to the Bishop of Imola"
+            "en-US": "Chapter CVIII. Of the respect he showed to the Bishop of Imola",
+            "pt-BR": "Capítulo CVIII - Da reverência que demonstrou ao bispo de Ímola."
           }
         },
         {
           "id": "cap-128",
           "title": {
             "la": "Caput CIX - De humilitate ipsius ad sanctum Dominicum et e converso, et mutua caritate ipsorum.",
-            "en-US": "Chapter CIX. Of the mutual humility and charity of himself and S. Dominic"
+            "en-US": "Chapter CIX. Of the mutual humility and charity of himself and S. Dominic",
+            "pt-BR": "Capítulo CIX - Da sua humildade para com São Domingos e deste para com ele, e da caridade mútua de ambos."
           }
         },
         {
           "id": "cap-129",
           "title": {
             "la": "Caput CX - Qualiter se alter alteri commisit.",
-            "en-US": "Chapter CX. How each of them commended himself to the other"
+            "en-US": "Chapter CX. How each of them commended himself to the other",
+            "pt-BR": "Capítulo CX - Como um se confiou ao outro."
           }
         },
         {
           "id": "cap-130",
           "title": {
             "la": "Caput CXI - Quod semper ob veram obedientiam habuit guardianum.",
-            "en-US": "Chapter CXI. How, for true obedience' sake, he ever had a warden"
+            "en-US": "Chapter CXI. How, for true obedience' sake, he ever had a warden",
+            "pt-BR": "Capítulo CXI - Que sempre teve um guardião, por verdadeira obediência."
           }
         },
         {
           "id": "cap-131",
           "title": {
             "la": "Caput CXII - Quomodo verum obedientem descripsit, et de tribus obedientiis.",
-            "en-US": "Chapter CXII. How he described the truly obedient man; and of the three sorts of obedience"
+            "en-US": "Chapter CXII. How he described the truly obedient man; and of the three sorts of obedience",
+            "pt-BR": "Capítulo CXII - Como descreveu o verdadeiro obediente, e das três obediências."
           }
         },
         {
           "id": "cap-132",
           "title": {
             "la": "Caput CXIII - Quod non est de levi per obedientiam praecipiendum.",
-            "en-US": "Chapter CXIII. How that an order \" on obedience \" should not lightly be given"
+            "en-US": "Chapter CXIII. How that an order \" on obedience \" should not lightly be given",
+            "pt-BR": "Capítulo CXIII - Que não se deve mandar levianamente por obediência."
           }
         },
         {
           "id": "cap-133",
           "title": {
             "la": "Caput CXIV - De fratre cuius proiecit in igne caputium, quia sine obedientia venerat, licet devotione trahente.",
-            "en-US": "Chapter CXIV. Of a brother whose hood he threw into the fire for having come to see him without an \" obedience,\" though drawn by devotion to him"
+            "en-US": "Chapter CXIV. Of a brother whose hood he threw into the fire for having come to see him without an \" obedience,\" though drawn by devotion to him",
+            "pt-BR": "Capítulo CXIV - Do irmão cujo capuz lançou ao fogo porque viera sem obediência, ainda que movido pela devoção."
           }
         },
         {
           "id": "cap-134",
           "title": {
             "la": "Caput CXV - De cuiusdam boni fratris exemplo et de more fra-trum antiquorum.",
-            "en-US": "Chapter CXV. Of those who set a good or bad example: of the example of a certain good brother: and of the behaviour of the brethren of old time"
+            "en-US": "Chapter CXV. Of those who set a good or bad example: of the example of a certain good brother: and of the behaviour of the brethren of old time",
+            "pt-BR": "Capítulo CXV - Do exemplo de um bom irmão e do costume dos irmãos antigos."
           }
         },
         {
           "id": "cap-135",
           "title": {
             "la": "Caput CXVI - De quibusdam malum exemplum dantibus, et maledictio sancti ad eos, et quam graviter hoc ferebat.",
-            "en-US": "Chapter CXVI. Of some who set a bad example: of the Saint's curse upon them, and of his grievous displeasure thereat"
+            "en-US": "Chapter CXVI. Of some who set a bad example: of the Saint's curse upon them, and of his grievous displeasure thereat",
+            "pt-BR": "Capítulo CXVI - De alguns que davam mau exemplo, da maldição do santo contra eles, e de quão gravemente isso o afligia."
           }
         },
         {
           "id": "cap-136",
           "title": {
             "la": "Caput CXVII - De revelatione sibi a Deo facta de statu Ordinis, et quod Ordo numquam deficiet.",
-            "en-US": "Chapter CXVII. Of the revelation made to him by God concerning the state of the Order; and that the Order shall never fail"
+            "en-US": "Chapter CXVII. Of the revelation made to him by God concerning the state of the Order; and that the Order shall never fail",
+            "pt-BR": "Capítulo CXVII - Da revelação que Deus lhe fez sobre o estado da Ordem, e de que a Ordem nunca desaparecerá."
           }
         },
         {
           "id": "cap-137",
           "title": {
             "la": "Caput CXVIII - Revelatio sibi facta, quando esset servus Dei et quando non.",
-            "en-US": "Chapter CXVIII. A revelation made to him as to when he was God's servant and when not"
+            "en-US": "Chapter CXVIII. A revelation made to him as to when he was God's servant and when not",
+            "pt-BR": "Capítulo CXVIII - Revelação que lhe foi feita sobre quando era servo de Deus e quando não."
           }
         },
         {
           "id": "cap-138",
           "title": {
             "la": "Caput CXIX - Poenitentia contra otiosa verba apud Portiunculam.",
-            "en-US": "Chapter CXIX. Penance for idle words imposed at Portiuncula"
+            "en-US": "Chapter CXIX. Penance for idle words imposed at Portiuncula",
+            "pt-BR": "Capítulo CXIX - Penitência contra as palavras ociosas na Porciúncula."
           }
         },
         {
           "id": "cap-139",
           "title": {
             "la": "Caput CXX - Qualiter ipse laborans otiosos odiebat.",
-            "en-US": "Chapter CXX. How he, himself a worker, hated the idle"
+            "en-US": "Chapter CXX. How he, himself a worker, hated the idle",
+            "pt-BR": "Capítulo CXX - Como ele, que trabalhava, odiava os ociosos."
           }
         },
         {
           "id": "cap-140",
           "title": {
             "la": "Caput CXXI - Lamentum ad eum de otiosis et gulosis.",
-            "en-US": "Chapter CXXI. A lament addressed to S. Francis touching idle and gluttonous brethren"
+            "en-US": "Chapter CXXI. A lament addressed to S. Francis touching idle and gluttonous brethren",
+            "pt-BR": "Capítulo CXXI - Lamento a ele sobre os ociosos e os glutões."
           }
         },
         {
           "id": "cap-141",
           "title": {
             "la": "Caput CXXII - Qualis debet esse praedicator.",
-            "en-US": "Chapter CXXII. What manner of man a preacher should be"
+            "en-US": "Chapter CXXII. What manner of man a preacher should be",
+            "pt-BR": "Capítulo CXXII - Como deve ser o pregador."
           }
         },
         {
           "id": "cap-142",
           "title": {
             "la": "Caput CXXIII - Contra vanae laudis appetitores et expositio prophetici verbi.",
-            "en-US": "Chapter CXXIII. Against those who covet empty praise. Exposition of a word of prophecy"
+            "en-US": "Chapter CXXIII. Against those who covet empty praise. Exposition of a word of prophecy",
+            "pt-BR": "Capítulo CXXIII - Contra os que buscam o louvor vão, e explicação de uma palavra profética."
           }
         },
         {
           "id": "cap-143",
           "title": {
             "la": "Caput CXXIV - Sancti amor ad sensibiles et insensibiles creaturas.",
-            "en-US": "Chapter CXXIV"
+            "en-US": "Chapter CXXIV",
+            "pt-BR": "Capítulo CXXIV - O amor do santo pelas criaturas sensíveis e insensíveis."
           }
         },
         {
           "id": "cap-144",
           "title": {
             "la": "Caput CXXV - Quomodo ipsae creaturae sibi amoris rependebant vicem, et de igne qui eum non laesit.",
-            "en-US": "Chapter CXXV. How the creatures returned his love: and concerning the fire which hurt him not"
+            "en-US": "Chapter CXXV. How the creatures returned his love: and concerning the fire which hurt him not",
+            "pt-BR": "Capítulo CXXV - Como as próprias criaturas lhe retribuíam o amor, e do fogo que não o feriu."
           }
         },
         {
           "id": "cap-145",
           "title": {
             "la": "Caput CXXVI - De avicula quae in manibus eius resedit.",
-            "en-US": "Chapter CXXVI. Of the little bird that rested in his hands"
+            "en-US": "Chapter CXXVI. Of the little bird that rested in his hands",
+            "pt-BR": "Capítulo CXXVI - Da avezinha que pousou em suas mãos."
           }
         },
         {
           "id": "cap-146",
           "title": {
             "la": "Caput CXXVII - De falcone.",
-            "en-US": "Chapter CXXVII. Of the falcon"
+            "en-US": "Chapter CXXVII. Of the falcon",
+            "pt-BR": "Capítulo CXXVII - Do falcão."
           }
         },
         {
           "id": "cap-147",
           "title": {
             "la": "Caput CXXVIII - De apibus.",
-            "en-US": "Chapter CXXVIII. Of the bees"
+            "en-US": "Chapter CXXVIII. Of the bees",
+            "pt-BR": "Capítulo CXXVIII - Das abelhas."
           }
         },
         {
           "id": "cap-148",
           "title": {
             "la": "Caput CXXIX - De phasiano.",
-            "en-US": "Chapter CXXIX. Of the pheasant"
+            "en-US": "Chapter CXXIX. Of the pheasant",
+            "pt-BR": "Capítulo CXXIX - Do faisão."
           }
         },
         {
           "id": "cap-149",
           "title": {
             "la": "Caput CXXX - De cicada.",
-            "en-US": "Chapter CXXX. Of the cicala"
+            "en-US": "Chapter CXXX. Of the cicala",
+            "pt-BR": "Capítulo CXXX - Da cigarra."
           }
         },
         {
           "id": "cap-150",
           "title": {
             "la": "Caput CXXXI - De caritate ipsius et qualiter se ipsum pro animarum salute perfectionis ponebat exemplum.",
-            "en-US": "Chapter CXXXI. Of his charity; and how he set himself as a pattern of perfection for the salvation of souls"
+            "en-US": "Chapter CXXXI. Of his charity; and how he set himself as a pattern of perfection for the salvation of souls",
+            "pt-BR": "Capítulo CXXXI - Da sua caridade, e como se punha a si mesmo como exemplo de perfeição para a salvação das almas."
           }
         },
         {
           "id": "cap-151",
           "title": {
             "la": "Caput CXXXII - De sollicitudine subditorum.",
-            "en-US": "Chapter CXXXII. Of his care for his subjects"
+            "en-US": "Chapter CXXXII. Of his care for his subjects",
+            "pt-BR": "Capítulo CXXXII - Da solicitude pelos súditos."
           }
         },
         {
           "id": "cap-152",
           "title": {
             "la": "Caput CXXXIII - De compassione infirmorum.",
-            "en-US": "Chapter CXXXIII. Of his compassion for the sick"
+            "en-US": "Chapter CXXXIII. Of his compassion for the sick",
+            "pt-BR": "Capítulo CXXXIII - Da compaixão pelos enfermos."
           }
         },
         {
           "id": "cap-153",
           "title": {
             "la": "Caput CXXXIV - De compassione quam infirmis spiritu gerebat, et de iis qui contra hoc faciunt.",
-            "en-US": "Chapter CXXXIV. Of his tenderness toward the weak-hearted: and concerning those that do contrary to this"
+            "en-US": "Chapter CXXXIV. Of his tenderness toward the weak-hearted: and concerning those that do contrary to this",
+            "pt-BR": "Capítulo CXXXIV - Da compaixão que tinha pelos enfermos de espírito, e dos que agem contra isto."
           }
         },
         {
           "id": "cap-154",
           "title": {
             "la": "Caput CXXXV - De fratribus Hispanis.",
-            "en-US": "Chapter CXXXV. Of the Spanish brethren"
+            "en-US": "Chapter CXXXV. Of the Spanish brethren",
+            "pt-BR": "Capítulo CXXXV - Dos irmãos espanhóis."
           }
         },
         {
           "id": "cap-155",
           "title": {
             "la": "Caput CXXXVI - Contra male in eremitoriis commorantes, et quod volebat omnia esse comunia.",
-            "en-US": "Chapter CXXXVI. Against those leading an evil life in hermitages: and how he would that all things should be in common"
+            "en-US": "Chapter CXXXVI. Against those leading an evil life in hermitages: and how he would that all things should be in common",
+            "pt-BR": "Capítulo CXXXVI - Contra os que vivem mal nos eremitérios, e de como queria que tudo fosse comum."
           }
         },
         {
           "id": "cap-156",
           "title": {
             "la": "Caput CXXXVII - De duobus fratribus Gallicis quibus tunicam tradidit.",
-            "en-US": "Chapter CXXXVII. How he gave his tunic to two French brethren"
+            "en-US": "Chapter CXXXVII. How he gave his tunic to two French brethren",
+            "pt-BR": "Capítulo CXXXVII - Dos dois irmãos franceses a quem deu a túnica."
           }
         },
         {
           "id": "cap-157",
           "title": {
             "la": "Caput CXXXVIII - Quomodo volebat detractores puniri.",
-            "en-US": "Chapter CXXXVIII. How he would have slanderers punished"
+            "en-US": "Chapter CXXXVIII. How he would have slanderers punished",
+            "pt-BR": "Capítulo CXXXVIII - Como queria que fossem punidos os detratores."
           }
         },
         {
           "id": "cap-158",
           "title": {
             "la": "Caput CXXXIX - Qualis debeat esse cum sociis.",
-            "en-US": "Chapter CXXXIX. How he ought to bear himself toward his companions"
+            "en-US": "Chapter CXXXIX. How he ought to bear himself toward his companions",
+            "pt-BR": "Capítulo CXXXIX - Como deve portar-se com os companheiros."
           }
         },
         {
           "id": "cap-159",
           "title": {
             "la": "Caput CXL - De provincialibus ministris.",
-            "en-US": "Chapter CXL. Of the Provincial Ministers"
+            "en-US": "Chapter CXL. Of the Provincial Ministers",
+            "pt-BR": "Capítulo CXL - Dos ministros provinciais."
           }
         },
         {
           "id": "cap-160",
           "title": {
             "la": "Caput CXLI - Quid sanctus interrogatus de ministris respondit.",
-            "en-US": "Chapter CXLI. What the Saint answered when he was questioned about the Min- isters"
+            "en-US": "Chapter CXLI. What the Saint answered when he was questioned about the Min- isters",
+            "pt-BR": "Capítulo CXLI - O que o santo respondeu quando interrogado sobre os ministros."
           }
         },
         {
           "id": "cap-161",
           "title": {
             "la": "Caput CXLII - Quae sit vera simplicitas.",
-            "en-US": "Chapter CXLII. What holy simplicity is"
+            "en-US": "Chapter CXLII. What holy simplicity is",
+            "pt-BR": "Capítulo CXLII - Qual é a verdadeira simplicidade."
           }
         },
         {
           "id": "cap-162",
           "title": {
             "la": "Caput CXLIII - De fratre Ioanne simplici.",
-            "en-US": "Chapter CXLIII. Of brother John the Simple"
+            "en-US": "Chapter CXLIII. Of brother John the Simple",
+            "pt-BR": "Capítulo CXLIII - De frei João, o Simples."
           }
         },
         {
           "id": "cap-163",
           "title": {
             "la": "Caput CXLIV - Quomodo unitatem fovebat in filiis, de qua sub aenigmate locutus est.",
-            "en-US": "Chapter CXLIV. How he fostered unity among his sons, and spoke of it in a parable"
+            "en-US": "Chapter CXLIV. How he fostered unity among his sons, and spoke of it in a parable",
+            "pt-BR": "Capítulo CXLIV - Como promovia a unidade entre os filhos, e como falou dela em enigma."
           }
         },
         {
           "id": "cap-164",
           "title": {
             "la": "Caput CXLV - Quomodo sanctus radi volebat.",
-            "en-US": "Chapter CXLV. In what manner the Saint would be shaven"
+            "en-US": "Chapter CXLV. In what manner the Saint would be shaven",
+            "pt-BR": "Capítulo CXLV - Como o santo queria ser tonsurado."
           }
         },
         {
           "id": "cap-165",
           "title": {
             "la": "Caput CXLVI - Qualiter volebat magnos clericos venientes ad Ordinem expropriari.",
-            "en-US": "Chapter CXLVI. How he would have great clerks coming to the Order expropriate themselves"
+            "en-US": "Chapter CXLVI. How he would have great clerks coming to the Order expropriate themselves",
+            "pt-BR": "Capítulo CXLVI - Como queria que os grandes clérigos que vinham à Ordem se despojassem dos seus bens."
           }
         },
         {
           "id": "cap-166",
           "title": {
             "la": "Caput CXLVII - Qualiter volebat eos addiscere, et qualiter socio praedicationis intendenti apparuit.",
-            "en-US": "Chapter CXLVII. How he would have the brethren to learn; and how he appeared to a companion who was applying himself to preaching"
+            "en-US": "Chapter CXLVII. How he would have the brethren to learn; and how he appeared to a companion who was applying himself to preaching",
+            "pt-BR": "Capítulo CXLVII - Como queria que eles aprendessem, e como apareceu a um companheiro que se dedicava à pregação."
           }
         },
         {
           "id": "cap-167",
           "title": {
             "la": "Caput CXLVIII - Qualiter afficiebatur audiens amorem Dei.",
-            "en-US": "Chapter CXLVIII. Of his special devotions, and how he was moved by the mention of \"the love of God\""
+            "en-US": "Chapter CXLVIII. Of his special devotions, and how he was moved by the mention of \"the love of God\"",
+            "pt-BR": "Capítulo CXLVIII - Como se comovia ao ouvir falar do amor de Deus."
           }
         },
         {
           "id": "cap-168",
           "title": {
             "la": "Caput CXLIX - De devotione eius ad angelos, et quid amore sancti Michaelis faciebat.",
-            "en-US": "Chapter CXLIX. Of his devotion to the angels; and what he used to do for love of S. Michael"
+            "en-US": "Chapter CXLIX. Of his devotion to the angels; and what he used to do for love of S. Michael",
+            "pt-BR": "Capítulo CXLIX - Da sua devoção aos anjos, e do que fazia por amor de São Miguel."
           }
         },
         {
           "id": "cap-169",
           "title": {
             "la": "Caput CL - De devotione eius ad Dominam nostram, cui commisit specialiter Ordinem.",
-            "en-US": "Chapter CL. Of his devotion to our Lady, to whom he specially committed the Order"
+            "en-US": "Chapter CL. Of his devotion to our Lady, to whom he specially committed the Order",
+            "pt-BR": "Capítulo CL - Da sua devoção a Nossa Senhora, a quem confiou especialmente a Ordem."
           }
         },
         {
           "id": "cap-170",
           "title": {
             "la": "Caput CLI - De devotione ad Nativitatem Domini et quomodo volebat tunc omnibus subveniri.",
-            "en-US": "Chapter CLI. Of his devotion to the Nativity of the Lord; and how he would have all creatures cared for at that season"
+            "en-US": "Chapter CLI. Of his devotion to the Nativity of the Lord; and how he would have all creatures cared for at that season",
+            "pt-BR": "Capítulo CLI - Da devoção ao Natal do Senhor, e como queria que então se socorresse a todos."
           }
         },
         {
           "id": "cap-171",
           "title": {
             "la": "Caput CLII - De devotione ad Corpus Domini.",
-            "en-US": "Chapter CLII. Of his devotion to the Lord's Body"
+            "en-US": "Chapter CLII. Of his devotion to the Lord's Body",
+            "pt-BR": "Capítulo CLII - Da devoção ao Corpo do Senhor."
           }
         },
         {
           "id": "cap-172",
           "title": {
             "la": "Caput CLIII - De devotione ad sanctorum reliquias.",
-            "en-US": "Chapter CLIII. Of his devotion to the relics of the Saints"
+            "en-US": "Chapter CLIII. Of his devotion to the relics of the Saints",
+            "pt-BR": "Capítulo CLIII - Da devoção às relíquias dos santos."
           }
         },
         {
           "id": "cap-173",
           "title": {
             "la": "Caput CLIV - De devotione ad crucem et de quodam occulto sacramento.",
-            "en-US": "Chapter CLIV. Of his devotion to the Cross, and of a certain hidden mystery (sacramentum)"
+            "en-US": "Chapter CLIV. Of his devotion to the Cross, and of a certain hidden mystery (sacramentum)",
+            "pt-BR": "Capítulo CLIV - Da devoção à cruz e de um sacramento oculto."
           }
         },
         {
           "id": "cap-174",
           "title": {
             "la": "Caput CLV - Quomodo volebat fratres conversari cum eis.",
-            "en-US": "Chapter CLV. How he would have the brethren behave themselves toward them"
+            "en-US": "Chapter CLV. How he would have the brethren behave themselves toward them",
+            "pt-BR": "Capítulo CLV - Como queria que os irmãos se portassem com elas."
           }
         },
         {
           "id": "cap-175",
           "title": {
             "la": "Caput CLVI - Quomodo reprehendit quosdam qui libenter ibant ad monasteria.",
-            "en-US": "Chapter CLVI. How he reprimanded certain brethren who liked going to nunneries"
+            "en-US": "Chapter CLVI. How he reprimanded certain brethren who liked going to nunneries",
+            "pt-BR": "Capítulo CLVI - Como repreendeu alguns que iam de bom grado aos mosteiros."
           }
         },
         {
           "id": "cap-176",
           "title": {
             "la": "Caput CLVII - De praedicatione quam magis exemplo quam verbo eis fecit.",
-            "en-US": "Chapter CLVII. Of the sermon he preached by example rather than by word"
+            "en-US": "Chapter CLVII. Of the sermon he preached by example rather than by word",
+            "pt-BR": "Capítulo CLVII - Da pregação que lhes fez mais com o exemplo do que com a palavra."
           }
         },
         {
           "id": "cap-177",
           "title": {
             "la": "Caput CLVIII - De commendatione Regulae beati Francisci, et de fratre qui eam portabat secum.",
-            "en-US": "Chapter CLVIII. Of blessed Francis' commendation of the Rule; and of a brother who carried it about with him"
+            "en-US": "Chapter CLVIII. Of blessed Francis' commendation of the Rule; and of a brother who carried it about with him",
+            "pt-BR": "Capítulo CLVIII - Da recomendação da Regra pelo bem-aventurado Francisco, e do irmão que a trazia consigo."
           }
         },
         {
           "id": "cap-178",
           "title": {
             "la": "Caput CLIX - Visio quaedam ad commendationem Regulae faciens.",
-            "en-US": "Chapter CLIX. A vision, tending to the commendation of the Rule"
+            "en-US": "Chapter CLIX. A vision, tending to the commendation of the Rule",
+            "pt-BR": "Capítulo CLIX - Uma visão em recomendação da Regra."
           }
         },
         {
           "id": "cap-179",
           "title": {
             "la": "Caput CLX - Quomodo contulit cum quodam fratre de subveniendo corpori.",
-            "en-US": "Chapter CLX. How he took counsel with a certain brother about caring for his body"
+            "en-US": "Chapter CLX. How he took counsel with a certain brother about caring for his body",
+            "pt-BR": "Capítulo CLX - Como tratou com um irmão sobre o cuidado do corpo."
           }
         },
         {
           "id": "cap-180",
           "title": {
             "la": "Caput CLXI - Quid fuerit pro suis infirmitatibus sibi promissum a Domino.",
-            "en-US": "Chapter CLXI. That which the Lord promised to him instead of his infirmities"
+            "en-US": "Chapter CLXI. That which the Lord promised to him instead of his infirmities",
+            "pt-BR": "Capítulo CLXI - O que o Senhor lhe prometeu por suas enfermidades."
           }
         },
         {
           "id": "cap-181",
           "title": {
             "la": "Caput CLXII - Quomodo hortatus est fratres et benedixit in fine.",
-            "en-US": "Chapter CLXII. How at the end he encouraged the brethren and blessed them"
+            "en-US": "Chapter CLXII. How at the end he encouraged the brethren and blessed them",
+            "pt-BR": "Capítulo CLXII - Como exortou os irmãos e os abençoou no fim."
           }
         },
         {
           "id": "cap-182",
           "title": {
             "la": "Caput CLXIII - De morte eius et quid fecerit ante mortem.",
-            "en-US": "Chapter CLXIII. Of his death, and what he did before his death"
+            "en-US": "Chapter CLXIII. Of his death, and what he did before his death",
+            "pt-BR": "Capítulo CLXIII - Da sua morte e do que fez antes de morrer."
           }
         },
         {
           "id": "cap-183",
           "title": {
             "la": "Caput CLXIV - De visione quam vidit frater Augustinus in morte.",
-            "en-US": "Chapter CLXIV. Of a vision that brother Augustin saw on his deathbed"
+            "en-US": "Chapter CLXIV. Of a vision that brother Augustin saw on his deathbed",
+            "pt-BR": "Capítulo CLXIV - Da visão que frei Agostinho teve ao morrer."
           }
         },
         {
           "id": "cap-184",
           "title": {
             "la": "Caput CLXV - Quomodo sanctus pater apparuit cuidam fratri post transitum.",
-            "en-US": "Chapter CLXV. How the holy father, after he had passed away, appeared to one of the brethren"
+            "en-US": "Chapter CLXV. How the holy father, after he had passed away, appeared to one of the brethren",
+            "pt-BR": "Capítulo CLXV - Como o santo pai apareceu a um irmão depois do trânsito."
           }
         },
         {
           "id": "cap-185",
           "title": {
             "la": "Caput CLXVI - Visio Episcopi Assisinatis de transitu sancti patris.",
-            "en-US": "Chapter CLXVI. The bishop of Assisi's vision concerning the passing of the holy father"
+            "en-US": "Chapter CLXVI. The bishop of Assisi's vision concerning the passing of the holy father",
+            "pt-BR": "Capítulo CLXVI - Visão do bispo de Assis sobre o trânsito do santo pai."
           }
         },
         {
           "id": "cap-186",
           "title": {
             "la": "Caput CLXVII.",
-            "en-US": "Chapter CLXVII. A prayer of the Saint's companions to him"
+            "en-US": "Chapter CLXVII. A prayer of the Saint's companions to him",
+            "pt-BR": "Capítulo CLXVII."
           }
         }
       ]
