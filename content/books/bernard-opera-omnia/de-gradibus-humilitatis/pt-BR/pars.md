@@ -1,0 +1,3 @@
+# Capítulo XV. O sexto grau da soberba, isto é, a arrogância
+
+Crê no que ouve, louva o que faz e não presta atenção ao que pretende. Esquece a intenção ao abraçar a reputação. E aquele que, em qualquer outra coisa, acredita mais em si que nos outros, somente a respeito de si acredita mais nos outros que em si: de modo que já não exalta sua vida religiosa apenas em palavras ou pela mera ostentação das obras, mas crê, no íntimo afeto do coração, ser mais santo que todos; e tudo o que reconhece ter sido louvado em si atribui arrogantemente não à ignorância ou à benevolência de quem o louva, mas a seus próprios méritos. Por isso, depois da singularidade, a arrogância reivindica com razão o sexto grau. Depois dela vem a presunção, na qual se estabelece o sétimo grau.

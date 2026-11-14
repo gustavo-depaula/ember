@@ -18,13 +18,19 @@
   },
   "composed": "c. 1124",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "bernard/de-gradibus-humilitatis",
   "editions": {
     "la": {
       "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182)",
       "year": 1854
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,145 +47,169 @@
     {
       "id": "admonitio",
       "title": {
-        "la": "Admonitio Mabillonii"
+        "la": "Admonitio Mabillonii",
+        "pt-BR": "Advertência de Mabillon"
       }
     },
     {
       "id": "praefatio",
       "title": {
-        "la": "Praefatio"
+        "la": "Praefatio",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "c01",
       "title": {
-        "la": "Caput I. Christum esse viam humilitatis, qua pervenitur ad veritatem"
+        "la": "Caput I. Christum esse viam humilitatis, qua pervenitur ad veritatem",
+        "pt-BR": "Capítulo I. Cristo é o caminho da humildade, pelo qual se chega à verdade"
       }
     },
     {
       "id": "c02",
       "title": {
-        "la": "Caput II. Quo fructu ascendantur gradus humilitatis"
+        "la": "Caput II. Quo fructu ascendantur gradus humilitatis",
+        "pt-BR": "Capítulo II. Com que fruto se sobem os graus da humildade"
       }
     },
     {
       "id": "c03",
       "title": {
-        "la": "Caput III. Quo ordine gradus humilitatis ad propositum bravium veritatis perducant: et quomodo Christus per passionem didicit misericordiam"
+        "la": "Caput III. Quo ordine gradus humilitatis ad propositum bravium veritatis perducant: et quomodo Christus per passionem didicit misericordiam",
+        "pt-BR": "Capítulo III. Em que ordem os graus da humildade conduzem ao prêmio proposto da verdade; e como Cristo aprendeu a misericórdia pela paixão"
       }
     },
     {
       "id": "c04",
       "title": {
-        "la": "Caput IV. Primus veritatis gradus est, primum seipsum attendere, seu propriam miseriam agnoscere"
+        "la": "Caput IV. Primus veritatis gradus est, primum seipsum attendere, seu propriam miseriam agnoscere",
+        "pt-BR": "Capítulo IV. O primeiro grau da verdade é olhar primeiro para si mesmo, ou reconhecer a própria miséria"
       }
     },
     {
       "id": "c05",
       "title": {
-        "la": "Caput V. Secundus gradus veritatis est, ex agnitione propriae infirmitatis, compati miseriae proximi"
+        "la": "Caput V. Secundus gradus veritatis est, ex agnitione propriae infirmitatis, compati miseriae proximi",
+        "pt-BR": "Capítulo V. O segundo grau da verdade é, pelo reconhecimento da própria fraqueza, compadecer-se da miséria do próximo"
       }
     },
     {
       "id": "c06",
       "title": {
-        "la": "Caput VI. Tertius gradus veritatis, mundare oculum cordis ad contemplanda coelestia et divina"
+        "la": "Caput VI. Tertius gradus veritatis, mundare oculum cordis ad contemplanda coelestia et divina",
+        "pt-BR": "Capítulo VI. O terceiro grau da verdade: purificar o olho do coração para contemplar as coisas celestes e divinas"
       }
     },
     {
       "id": "c07",
       "title": {
-        "la": "Caput VII. Quomodo sancta Trinitas hos tres veritatis gradus in nobis operetur"
+        "la": "Caput VII. Quomodo sancta Trinitas hos tres veritatis gradus in nobis operetur",
+        "pt-BR": "Capítulo VII. Como a Santíssima Trindade opera em nós esses três graus da verdade"
       }
     },
     {
       "id": "c08",
       "title": {
-        "la": "Caput VIII. Gradus iidem in raptu sancti Pauli declarantur"
+        "la": "Caput VIII. Gradus iidem in raptu sancti Pauli declarantur",
+        "pt-BR": "Capítulo VIII. Os mesmos graus são explicados no arrebatamento de São Paulo"
       }
     },
     {
       "id": "c09",
       "title": {
-        "la": "Caput IX. Gemitus et suspiria sancti Bernardi, ad Veritatem anhelantis"
+        "la": "Caput IX. Gemitus et suspiria sancti Bernardi, ad Veritatem anhelantis",
+        "pt-BR": "Capítulo IX. Gemidos e suspiros de São Bernardo, que anseia pela Verdade"
       }
     },
     {
       "id": "c10",
       "title": {
-        "la": "Caput X. De primo superbiae gradu, qui est curiositas"
+        "la": "Caput X. De primo superbiae gradu, qui est curiositas",
+        "pt-BR": "Capítulo X. O primeiro grau da soberba, que é a curiosidade"
       }
     },
     {
       "id": "c11",
       "title": {
-        "la": "Caput XI. De secundo gradu superbiae, qui est levitas animi"
+        "la": "Caput XI. De secundo gradu superbiae, qui est levitas animi",
+        "pt-BR": "Capítulo XI. O segundo grau da soberba, que é a leviandade de espírito"
       }
     },
     {
       "id": "c12",
       "title": {
-        "la": "Caput XII. De tertio gradu superbiae, qui est inepta laetitia"
+        "la": "Caput XII. De tertio gradu superbiae, qui est inepta laetitia",
+        "pt-BR": "Capítulo XII. O terceiro grau da soberba, que é a alegria insensata"
       }
     },
     {
       "id": "c13",
       "title": {
-        "la": "Caput XIII. De quarto gradu superbiae, qui est jactantia"
+        "la": "Caput XIII. De quarto gradu superbiae, qui est jactantia",
+        "pt-BR": "Capítulo XIII. O quarto grau da soberba, que é a vanglória"
       }
     },
     {
       "id": "c14",
       "title": {
-        "la": "Caput XIV. De quinto gradu superbiae, qui dicitur singularitas"
+        "la": "Caput XIV. De quinto gradu superbiae, qui dicitur singularitas",
+        "pt-BR": "Capítulo XIV. O quinto grau da soberba, chamado singularidade"
       }
     },
     {
       "id": "pars",
       "title": {
-        "la": "Caput. xv. de sexto gradu superbiae, id est arrogantia"
+        "la": "Caput. xv. de sexto gradu superbiae, id est arrogantia",
+        "pt-BR": "Capítulo XV. O sexto grau da soberba, isto é, a arrogância"
       }
     },
     {
       "id": "c15",
       "title": {
-        "la": "Caput XVI. De septimo gradu superbiae, qui est praesumptio"
+        "la": "Caput XVI. De septimo gradu superbiae, qui est praesumptio",
+        "pt-BR": "Capítulo XVI. O sétimo grau da soberba, que é a presunção"
       }
     },
     {
       "id": "c16",
       "title": {
-        "la": "Caput XVII. De octavo gradu superbiae, qui est defensio peccatorum"
+        "la": "Caput XVII. De octavo gradu superbiae, qui est defensio peccatorum",
+        "pt-BR": "Capítulo XVII. O oitavo grau da soberba, que é a defesa dos pecados"
       }
     },
     {
       "id": "c17",
       "title": {
-        "la": "Caput XVIII. De nono gradu superbiae, qui est simulata confessio"
+        "la": "Caput XVIII. De nono gradu superbiae, qui est simulata confessio",
+        "pt-BR": "Capítulo XVIII. O nono grau da soberba, que é a confissão simulada"
       }
     },
     {
       "id": "c18",
       "title": {
-        "la": "Caput XIX. De decimo gradu superbiae, qui est rebellio"
+        "la": "Caput XIX. De decimo gradu superbiae, qui est rebellio",
+        "pt-BR": "Capítulo XIX. O décimo grau da soberba, que é a rebeldia"
       }
     },
     {
       "id": "c19",
       "title": {
-        "la": "Caput XX. De undecimo gradu superbiae, qui est libertas peccandi"
+        "la": "Caput XX. De undecimo gradu superbiae, qui est libertas peccandi",
+        "pt-BR": "Capítulo XX. O undécimo grau da soberba, que é a liberdade de pecar"
       }
     },
     {
       "id": "c20",
       "title": {
-        "la": "Caput XXI. De duodecimo gradu superbiae, qui est consuetudo peccandi"
+        "la": "Caput XXI. De duodecimo gradu superbiae, qui est consuetudo peccandi",
+        "pt-BR": "Capítulo XXI. O duodécimo grau da soberba, que é o hábito de pecar"
       }
     },
     {
       "id": "c21",
       "title": {
-        "la": "Caput XXII. An et quomodo orandum pro desperatis, et mortuis secundum animam"
+        "la": "Caput XXII. An et quomodo orandum pro desperatis, et mortuis secundum animam",
+        "pt-BR": "Capítulo XXII. Se e como se deve orar pelos que parecem sem esperança e pelos mortos segundo a alma"
       }
     }
   ]
