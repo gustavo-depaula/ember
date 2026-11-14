@@ -18,13 +18,19 @@
   },
   "composed": "c. 1085-1090",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "anselm/de-casu-diaboli",
   "editions": {
     "la": {
       "editor": "J.-P. Migne (Patrologia Latina 158)",
       "year": 1853
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,169 +47,197 @@
     {
       "id": "c01",
       "title": {
-        "la": "Caput I. Quod etiam ad angelos dicatur: Quid habes, quod non accepisti? et a Deo non sit nisi bonum, et esse: et omne bonum sit essentia, et omnis essentia bonum"
+        "la": "Caput I. Quod etiam ad angelos dicatur: Quid habes, quod non accepisti? et a Deo non sit nisi bonum, et esse: et omne bonum sit essentia, et omnis essentia bonum",
+        "pt-BR": "Capítulo I. Que também aos anjos se diz: Que tens que não recebeste? E que de Deus só provêm o bem e o ser; e que todo bem é essência, e toda essência é bem"
       }
     },
     {
       "id": "c02",
       "title": {
-        "la": "Caput II. Cur videatur diabolus ideo non accepisse perseverantiam, quia Deus non dedit"
+        "la": "Caput II. Cur videatur diabolus ideo non accepisse perseverantiam, quia Deus non dedit",
+        "pt-BR": "Capítulo II. Por que parece que o diabo não recebeu a perseverança porque Deus não a deu"
       }
     },
     {
       "id": "c03",
       "title": {
-        "la": "Caput III. Quod ideo Deus non dedit, quia ille non accepit"
+        "la": "Caput III. Quod ideo Deus non dedit, quia ille non accepit",
+        "pt-BR": "Capítulo III. Que Deus não deu porque ele não recebeu"
       }
     },
     {
       "id": "c04",
       "title": {
-        "la": "Caput IV. Quomodo ille peccavit, et voluit similis esse Deo"
+        "la": "Caput IV. Quomodo ille peccavit, et voluit similis esse Deo",
+        "pt-BR": "Capítulo IV. Como ele pecou e quis ser semelhante a Deus"
       }
     },
     {
       "id": "c05",
       "title": {
-        "la": "Caput V. Quod boni angeli ante casum malorum pecccare potuerunt"
+        "la": "Caput V. Quod boni angeli ante casum malorum pecccare potuerunt",
+        "pt-BR": "Capítulo V. Que os anjos bons puderam pecar antes da queda dos maus"
       }
     },
     {
       "id": "c06",
       "title": {
-        "la": "Caput VI. Quomodo boni confirmati sunt in suo statu, et mali in casu suo"
+        "la": "Caput VI. Quomodo boni confirmati sunt in suo statu, et mali in casu suo",
+        "pt-BR": "Capítulo VI. Como os bons foram confirmados em seu estado, e os maus em sua queda"
       }
     },
     {
       "id": "c07",
       "title": {
-        "la": "Caput VII. Quaestio, an voluntas, et ejus conversio ad quod non debet, sit ipsum malum quod malos facit; et cur non possit rationalis creatura per se de malo converti ad bonum, sicut potest de bono ad malum"
+        "la": "Caput VII. Quaestio, an voluntas, et ejus conversio ad quod non debet, sit ipsum malum quod malos facit; et cur non possit rationalis creatura per se de malo converti ad bonum, sicut potest de bono ad malum",
+        "pt-BR": "Capítulo VII. A questão de saber se a vontade e sua conversão ao que não deve são o próprio mal que torna maus; e por que a criatura racional não pode por si converter-se do mal ao bem, assim como pode do bem ao mal"
       }
     },
     {
       "id": "c08",
       "title": {
-        "la": "Caput VIII. Quaestio proposita resolvitur. Quod voluntas, et ejus conversio non sit ipsum malum"
+        "la": "Caput VIII. Quaestio proposita resolvitur. Quod voluntas, et ejus conversio non sit ipsum malum",
+        "pt-BR": "Capítulo VIII. Resolve-se a questão proposta. Que a vontade e sua conversão não são o próprio mal"
       }
     },
     {
       "id": "c09",
       "title": {
-        "la": "Caput IX. Quod injustitia sit ipsum malum, et sit nihil"
+        "la": "Caput IX. Quod injustitia sit ipsum malum, et sit nihil",
+        "pt-BR": "Capítulo IX. Que a injustiça é o próprio mal e é nada"
       }
     },
     {
       "id": "c10",
       "title": {
-        "la": "Caput X. Quomodo malum videatur esse aliquid"
+        "la": "Caput X. Quomodo malum videatur esse aliquid",
+        "pt-BR": "Capítulo X. Como o mal parece ser algo"
       }
     },
     {
       "id": "c11",
       "title": {
-        "la": "Caput XI. Quod malum et nihil non possint per nomen suum probari aliquid esse, sed quasi aliquid"
+        "la": "Caput XI. Quod malum et nihil non possint per nomen suum probari aliquid esse, sed quasi aliquid",
+        "pt-BR": "Capítulo XI. Que não se pode provar pelos seus nomes que o mal e o nada sejam algo, mas como que algo"
       }
     },
     {
       "id": "c12",
       "title": {
-        "la": "Caput XII. Quod angelus a se non potuit habere voluntatem primam; et quod multa dicuntur posse aliena potestate, et non posse aliena impotentia"
+        "la": "Caput XII. Quod angelus a se non potuit habere voluntatem primam; et quod multa dicuntur posse aliena potestate, et non posse aliena impotentia",
+        "pt-BR": "Capítulo XII. Que o anjo não pôde ter de si mesmo a primeira vontade; e que de muitas coisas se diz que podem pelo poder de outra e que não podem pela incapacidade de outra"
       }
     },
     {
       "id": "c13",
       "title": {
-        "la": "Caput XIII. Quod accepta sola voluntate beatitudinis, nec aliud posset velle, nec illam non velle; et quidquid vellet, non esset justa vel injusta voluntas"
+        "la": "Caput XIII. Quod accepta sola voluntate beatitudinis, nec aliud posset velle, nec illam non velle; et quidquid vellet, non esset justa vel injusta voluntas",
+        "pt-BR": "Capítulo XIII. Que, recebida somente a vontade da bem-aventurança, não poderia querer outra coisa nem deixar de querê-la; e que, fosse o que fosse que quisesse, sua vontade não seria justa nem injusta"
       }
     },
     {
       "id": "c14",
       "title": {
-        "la": "Caput XIV. Quod similiter sit, si sola accepta est voluntas rectitudinis: et idcirco utramque voluntatem accepit simul ut et justus, et ut beatus esset"
+        "la": "Caput XIV. Quod similiter sit, si sola accepta est voluntas rectitudinis: et idcirco utramque voluntatem accepit simul ut et justus, et ut beatus esset",
+        "pt-BR": "Capítulo XIV. Que o mesmo se dá se recebeu somente a vontade da retidão; e que, por isso, recebeu ambas as vontades ao mesmo tempo, para ser justo e bem-aventurado"
       }
     },
     {
       "id": "c15",
       "title": {
-        "la": "Caput XV. Quod justitia sit aliquid"
+        "la": "Caput XV. Quod justitia sit aliquid",
+        "pt-BR": "Capítulo XV. Que a justiça é algo"
       }
     },
     {
       "id": "c16",
       "title": {
-        "la": "Caput XVI. Quod injustitia non sit, nisi absentia debitae justitiae"
+        "la": "Caput XVI. Quod injustitia non sit, nisi absentia debitae justitiae",
+        "pt-BR": "Capítulo XVI. Que a injustiça não é senão a ausência da justiça devida"
       }
     },
     {
       "id": "c17",
       "title": {
-        "la": "Caput XVII. Cur desertor angelus non possit redire ad justitiam"
+        "la": "Caput XVII. Cur desertor angelus non possit redire ad justitiam",
+        "pt-BR": "Capítulo XVII. Por que o anjo desertor não pode retornar à justiça"
       }
     },
     {
       "id": "c18",
       "title": {
-        "la": "Caput XVIII. Quomodo malus angelus se fecit injustum, et bonus se justum: et quod malus sic debet Deo gratias pro bonis, quae accepit, et deseruit; sicut bonus, qui servavit accepta"
+        "la": "Caput XVIII. Quomodo malus angelus se fecit injustum, et bonus se justum: et quod malus sic debet Deo gratias pro bonis, quae accepit, et deseruit; sicut bonus, qui servavit accepta",
+        "pt-BR": "Capítulo XVIII. Como o anjo mau se tornou injusto, e o bom se tornou justo; e que o mau deve dar graças a Deus pelos bens que recebeu e abandonou, assim como o bom, que conservou o que recebeu"
       }
     },
     {
       "id": "c19",
       "title": {
-        "la": "Caput XIX. Quod voluntas, in quantum est, bonum sit; et nulla res malum sit"
+        "la": "Caput XIX. Quod voluntas, in quantum est, bonum sit; et nulla res malum sit",
+        "pt-BR": "Capítulo XIX. Que a vontade, enquanto existe, é um bem; e que nenhuma realidade é o mal"
       }
     },
     {
       "id": "c20",
       "title": {
-        "la": "Caput XX. Quomodo Deus faciat malas et voluntates et actiones: et quomodo accipiantur ab eo"
+        "la": "Caput XX. Quomodo Deus faciat malas et voluntates et actiones: et quomodo accipiantur ab eo",
+        "pt-BR": "Capítulo XX. Como Deus faz as vontades e as ações más; e como são recebidas dele"
       }
     },
     {
       "id": "c21",
       "title": {
-        "la": "Caput XXI. Quod malus angelus non potuit praescire se casurum esse"
+        "la": "Caput XXI. Quod malus angelus non potuit praescire se casurum esse",
+        "pt-BR": "Capítulo XXI. Que o anjo mau não pôde saber de antemão que cairia"
       }
     },
     {
       "id": "c22",
       "title": {
-        "la": "Caput XXII. Quod scivit se non debere velle hoc quod volendo peccavit; et debere puniri si peccaret"
+        "la": "Caput XXII. Quod scivit se non debere velle hoc quod volendo peccavit; et debere puniri si peccaret",
+        "pt-BR": "Capítulo XXII. Que soube que não devia querer aquilo ao querer o qual pecou; e que devia ser punido se pecasse"
       }
     },
     {
       "id": "c23",
       "title": {
-        "la": "Caput XXIII. Quod non debuit scire quia si peccaret, puniretur"
+        "la": "Caput XXIII. Quod non debuit scire quia si peccaret, puniretur",
+        "pt-BR": "Capítulo XXIII. Que não devia saber que, se pecasse, seria punido"
       }
     },
     {
       "id": "c24",
       "title": {
-        "la": "Caput XXIV. Quod etiam bonus angelus hoc scire non debuit"
+        "la": "Caput XXIV. Quod etiam bonus angelus hoc scire non debuit",
+        "pt-BR": "Capítulo XXIV. Que também o anjo bom não devia saber isso"
       }
     },
     {
       "id": "c25",
       "title": {
-        "la": "Caput XXV. Quod ille etiamsi hoc solo dicitur jam non posse peccare, quia nunc habet hanc scientiam ex casu diaboli, tamen illi sit ad gloriam"
+        "la": "Caput XXV. Quod ille etiamsi hoc solo dicitur jam non posse peccare, quia nunc habet hanc scientiam ex casu diaboli, tamen illi sit ad gloriam",
+        "pt-BR": "Capítulo XXV. Que, ainda que se diga que ele já não pode pecar somente porque agora tem esse conhecimento pela queda do diabo, isso contudo lhe serve de glória"
       }
     },
     {
       "id": "c26",
       "title": {
-        "la": "Caput XXVI. Quid horremus audito nomine mali: et quid facit opera, quae dicitur injustitia facere, cum ipsa et malum nihil sit"
+        "la": "Caput XXVI. Quid horremus audito nomine mali: et quid facit opera, quae dicitur injustitia facere, cum ipsa et malum nihil sit",
+        "pt-BR": "Capítulo XXVI. De que nos horrorizamos ao ouvir o nome do mal; e o que realiza as obras que se diz que a injustiça faz, uma vez que ela própria e o mal são nada"
       }
     },
     {
       "id": "c27",
       "title": {
-        "la": "Caput XXVII. Unde venit malum in angelum, qui bonus erat"
+        "la": "Caput XXVII. Unde venit malum in angelum, qui bonus erat",
+        "pt-BR": "Capítulo XXVII. De onde veio o mal ao anjo que era bom"
       }
     },
     {
       "id": "c28",
       "title": {
-        "la": "Caput XXVIII. Quod potestas volendi quod non debuit, bona fuit semper, et ipsum velle, bonum, quantum ad esse"
+        "la": "Caput XXVIII. Quod potestas volendi quod non debuit, bona fuit semper, et ipsum velle, bonum, quantum ad esse",
+        "pt-BR": "Capítulo XXVIII. Que o poder de querer o que não devia foi sempre bom, e o próprio querer é bom quanto ao ser"
       }
     }
   ]
