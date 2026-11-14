@@ -18,13 +18,19 @@
   },
   "composed": "1540–1555",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "ignatius-of-loyola/directorios",
   "editions": {
     "es-ES": {
       "editor": "Documenta Catholica Omnia, from Monumenta Ignatiana Series II (Exercitia spiritualia et eorum Directoria)",
       "year": 1555
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,19 +47,22 @@
     {
       "id": "directorio-autografo",
       "title": {
-        "es-ES": "Directorio autógrafo"
+        "es-ES": "Directorio autógrafo",
+        "pt-BR": "Diretório autógrafo"
       }
     },
     {
       "id": "notas-de-palabra",
       "title": {
-        "es-ES": "Notas sobre los Ejercicios dadas de palabra"
+        "es-ES": "Notas sobre los Ejercicios dadas de palabra",
+        "pt-BR": "Notas sobre os Exercícios dadas de viva voz"
       }
     },
     {
       "id": "directorio-dictado",
       "title": {
-        "es-ES": "Directorio dictado al P. Vitoria"
+        "es-ES": "Directorio dictado al P. Vitoria",
+        "pt-BR": "Diretório ditado ao P. Vitória"
       }
     }
   ]
