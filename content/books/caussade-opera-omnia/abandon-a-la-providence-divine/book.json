@@ -19,7 +19,8 @@
   "composed": "c. 1740",
   "languages": [
     "fr-FR",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "caussade/abandon-a-la-providence-divine",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "E. J. Strickland",
       "year": 1921
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -54,77 +60,88 @@
     {
       "id": "avant-propos",
       "title": {
-        "fr-FR": "Avant-propos"
+        "fr-FR": "Avant-propos",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "l1c1",
       "title": {
         "fr-FR": "Livre I, chapitre I. La sainteté consiste dans la fidélité à l’ordre de Dieu et dans l’abandon à son action",
-        "en-US": "Book I, Chapter I. Sanctity consists in fidelity to the order established by God, and in submission to all His operations"
+        "en-US": "Book I, Chapter I. Sanctity consists in fidelity to the order established by God, and in submission to all His operations",
+        "pt-BR": "Livro I, capítulo I. A santidade consiste na fidelidade à ordem de Deus e no abandono à sua ação"
       },
       "children": [
         {
           "id": "l1c1-s1",
           "title": {
             "fr-FR": "§ I",
-            "en-US": "§ I"
+            "en-US": "§ I",
+            "pt-BR": "§ I"
           }
         },
         {
           "id": "l1c1-s2",
           "title": {
             "fr-FR": "§ II",
-            "en-US": "§ II"
+            "en-US": "§ II",
+            "pt-BR": "§ II"
           }
         },
         {
           "id": "l1c1-s3",
           "title": {
             "fr-FR": "§ III",
-            "en-US": "§ III"
+            "en-US": "§ III",
+            "pt-BR": "§ III"
           }
         },
         {
           "id": "l1c1-s4",
           "title": {
             "fr-FR": "§ IV",
-            "en-US": "§ IV"
+            "en-US": "§ IV",
+            "pt-BR": "§ IV"
           }
         },
         {
           "id": "l1c1-s5",
           "title": {
             "fr-FR": "§ V",
-            "en-US": "§ V"
+            "en-US": "§ V",
+            "pt-BR": "§ V"
           }
         },
         {
           "id": "l1c1-s6",
           "title": {
             "fr-FR": "§ VI",
-            "en-US": "§ VI"
+            "en-US": "§ VI",
+            "pt-BR": "§ VI"
           }
         },
         {
           "id": "l1c1-s7",
           "title": {
             "fr-FR": "§ VII",
-            "en-US": "§ VII"
+            "en-US": "§ VII",
+            "pt-BR": "§ VII"
           }
         },
         {
           "id": "l1c1-s8",
           "title": {
             "fr-FR": "§ VIII",
-            "en-US": "§ VIII"
+            "en-US": "§ VIII",
+            "pt-BR": "§ VIII"
           }
         },
         {
           "id": "l1c1-s9",
           "title": {
             "fr-FR": "§ IX",
-            "en-US": "§ IX"
+            "en-US": "§ IX",
+            "pt-BR": "§ IX"
           }
         }
       ]
@@ -133,91 +150,104 @@
       "id": "l1c2",
       "title": {
         "fr-FR": "Livre I, chapitre II. L’action divine travaille sans relâche à la sanctification des âmes",
-        "en-US": "Book I, Chapter II. The divine action works unceasingly for the sanctification of souls"
+        "en-US": "Book I, Chapter II. The divine action works unceasingly for the sanctification of souls",
+        "pt-BR": "Livro I, capítulo II. A ação divina trabalha sem descanso na santificação das almas"
       },
       "children": [
         {
           "id": "l1c2-s1",
           "title": {
             "fr-FR": "§ I",
-            "en-US": "§ I"
+            "en-US": "§ I",
+            "pt-BR": "§ I"
           }
         },
         {
           "id": "l1c2-s2",
           "title": {
             "fr-FR": "§ II",
-            "en-US": "§ II"
+            "en-US": "§ II",
+            "pt-BR": "§ II"
           }
         },
         {
           "id": "l1c2-s3",
           "title": {
             "fr-FR": "§ III",
-            "en-US": "§ III"
+            "en-US": "§ III",
+            "pt-BR": "§ III"
           }
         },
         {
           "id": "l1c2-s4",
           "title": {
             "fr-FR": "§ IV",
-            "en-US": "§ IV"
+            "en-US": "§ IV",
+            "pt-BR": "§ IV"
           }
         },
         {
           "id": "l1c2-s5",
           "title": {
             "fr-FR": "§ V",
-            "en-US": "§ V"
+            "en-US": "§ V",
+            "pt-BR": "§ V"
           }
         },
         {
           "id": "l1c2-s6",
           "title": {
             "fr-FR": "§ VI",
-            "en-US": "§ VI"
+            "en-US": "§ VI",
+            "pt-BR": "§ VI"
           }
         },
         {
           "id": "l1c2-s7",
           "title": {
             "fr-FR": "§ VII",
-            "en-US": "§ VII"
+            "en-US": "§ VII",
+            "pt-BR": "§ VII"
           }
         },
         {
           "id": "l1c2-s8",
           "title": {
             "fr-FR": "§ VIII",
-            "en-US": "§ VIII"
+            "en-US": "§ VIII",
+            "pt-BR": "§ VIII"
           }
         },
         {
           "id": "l1c2-s9",
           "title": {
             "fr-FR": "§ IX",
-            "en-US": "§ IX"
+            "en-US": "§ IX",
+            "pt-BR": "§ IX"
           }
         },
         {
           "id": "l1c2-s10",
           "title": {
             "fr-FR": "§ X",
-            "en-US": "§ X"
+            "en-US": "§ X",
+            "pt-BR": "§ X"
           }
         },
         {
           "id": "l1c2-s11",
           "title": {
             "fr-FR": "§ XI",
-            "en-US": "§ XI"
+            "en-US": "§ XI",
+            "pt-BR": "§ XI"
           }
         },
         {
           "id": "l1c2-s12",
           "title": {
             "fr-FR": "§ XII",
-            "en-US": "§ XII"
+            "en-US": "§ XII",
+            "pt-BR": "§ XII"
           }
         }
       ]
@@ -226,63 +256,72 @@
       "id": "l2c1",
       "title": {
         "fr-FR": "Livre II, chapitre I. Nature et excellence de l’état d’abandon",
-        "en-US": "Book II, Chapter I. On the nature and excellence of the state of abandonment"
+        "en-US": "Book II, Chapter I. On the nature and excellence of the state of abandonment",
+        "pt-BR": "Livro II, capítulo I. Natureza e excelência do estado de abandono"
       },
       "children": [
         {
           "id": "l2c1-s1",
           "title": {
             "fr-FR": "§ I",
-            "en-US": "§ I"
+            "en-US": "§ I",
+            "pt-BR": "§ I"
           }
         },
         {
           "id": "l2c1-s2",
           "title": {
             "fr-FR": "§ II",
-            "en-US": "§ II"
+            "en-US": "§ II",
+            "pt-BR": "§ II"
           }
         },
         {
           "id": "l2c1-s3",
           "title": {
             "fr-FR": "§ III",
-            "en-US": "§ III"
+            "en-US": "§ III",
+            "pt-BR": "§ III"
           }
         },
         {
           "id": "l2c1-s4",
           "title": {
             "fr-FR": "§ IV",
-            "en-US": "§ IV"
+            "en-US": "§ IV",
+            "pt-BR": "§ IV"
           }
         },
         {
           "id": "l2c1-s5",
           "title": {
             "fr-FR": "§ V",
-            "en-US": "§ V"
+            "en-US": "§ V",
+            "pt-BR": "§ V"
           }
         },
         {
           "id": "l2c1-s6",
           "title": {
             "fr-FR": "§ VI",
-            "en-US": "§ VI"
+            "en-US": "§ VI",
+            "pt-BR": "§ VI"
           }
         },
         {
           "id": "l2c1-s7",
           "title": {
             "fr-FR": "§ VII",
-            "en-US": "§ VII"
+            "en-US": "§ VII",
+            "pt-BR": "§ VII"
           }
         },
         {
           "id": "l2c1-s8",
           "title": {
             "fr-FR": "§ VIII",
-            "en-US": "§ VIII"
+            "en-US": "§ VIII",
+            "pt-BR": "§ VIII"
           }
         }
       ]
@@ -291,63 +330,72 @@
       "id": "l2c2",
       "title": {
         "fr-FR": "Livre II, chapitre II. Devoirs des âmes que Dieu appelle à l’état d’abandon",
-        "en-US": "Book II, Chapter II. The duties of those souls called by God to the state of abandonment"
+        "en-US": "Book II, Chapter II. The duties of those souls called by God to the state of abandonment",
+        "pt-BR": "Livro II, capítulo II. Deveres das almas que Deus chama ao estado de abandono"
       },
       "children": [
         {
           "id": "l2c2-s1",
           "title": {
             "fr-FR": "§ I",
-            "en-US": "§ I"
+            "en-US": "§ I",
+            "pt-BR": "§ I"
           }
         },
         {
           "id": "l2c2-s2",
           "title": {
             "fr-FR": "§ II",
-            "en-US": "§ II"
+            "en-US": "§ II",
+            "pt-BR": "§ II"
           }
         },
         {
           "id": "l2c2-s3",
           "title": {
             "fr-FR": "§ III",
-            "en-US": "§ III"
+            "en-US": "§ III",
+            "pt-BR": "§ III"
           }
         },
         {
           "id": "l2c2-s4",
           "title": {
             "fr-FR": "§ IV",
-            "en-US": "§ IV"
+            "en-US": "§ IV",
+            "pt-BR": "§ IV"
           }
         },
         {
           "id": "l2c2-s5",
           "title": {
             "fr-FR": "§ V",
-            "en-US": "§ V"
+            "en-US": "§ V",
+            "pt-BR": "§ V"
           }
         },
         {
           "id": "l2c2-s6",
           "title": {
             "fr-FR": "§ VI",
-            "en-US": "§ VI"
+            "en-US": "§ VI",
+            "pt-BR": "§ VI"
           }
         },
         {
           "id": "l2c2-s7",
           "title": {
             "fr-FR": "§ VII",
-            "en-US": "§ VII"
+            "en-US": "§ VII",
+            "pt-BR": "§ VII"
           }
         },
         {
           "id": "l2c2-s8",
           "title": {
             "fr-FR": "§ VIII",
-            "en-US": "§ VIII"
+            "en-US": "§ VIII",
+            "pt-BR": "§ VIII"
           }
         }
       ]
@@ -356,42 +404,48 @@
       "id": "l2c3",
       "title": {
         "fr-FR": "Livre II, chapitre III. Épreuves attachées à l’état d’abandon",
-        "en-US": "Book II, Chapter III. The trials connected with the state of abandonment"
+        "en-US": "Book II, Chapter III. The trials connected with the state of abandonment",
+        "pt-BR": "Livro II, capítulo III. Provações ligadas ao estado de abandono"
       },
       "children": [
         {
           "id": "l2c3-s1",
           "title": {
             "fr-FR": "§ I",
-            "en-US": "§ I"
+            "en-US": "§ I",
+            "pt-BR": "§ I"
           }
         },
         {
           "id": "l2c3-s2",
           "title": {
             "fr-FR": "§ II",
-            "en-US": "§ II"
+            "en-US": "§ II",
+            "pt-BR": "§ II"
           }
         },
         {
           "id": "l2c3-s3",
           "title": {
             "fr-FR": "§ III",
-            "en-US": "§ III"
+            "en-US": "§ III",
+            "pt-BR": "§ III"
           }
         },
         {
           "id": "l2c3-s4",
           "title": {
             "fr-FR": "§ IV",
-            "en-US": "§ IV"
+            "en-US": "§ IV",
+            "pt-BR": "§ IV"
           }
         },
         {
           "id": "l2c3-s5",
           "title": {
             "fr-FR": "§ V",
-            "en-US": "§ V"
+            "en-US": "§ V",
+            "pt-BR": "§ V"
           }
         }
       ]
@@ -400,91 +454,104 @@
       "id": "l2c4",
       "title": {
         "fr-FR": "Livre II, chapitre IV. De l’assistance paternelle dont Dieu entoure les âmes qui s’abandonnent à lui",
-        "en-US": "Book II, Chapter IV. The assistance rendered by the fatherly providence of God to those souls who have abandoned themselves to Him"
+        "en-US": "Book II, Chapter IV. The assistance rendered by the fatherly providence of God to those souls who have abandoned themselves to Him",
+        "pt-BR": "Livro II, capítulo IV. Da assistência paterna com que Deus cerca as almas que se abandonam a ele"
       },
       "children": [
         {
           "id": "l2c4-s1",
           "title": {
             "fr-FR": "§ I",
-            "en-US": "§ I"
+            "en-US": "§ I",
+            "pt-BR": "§ I"
           }
         },
         {
           "id": "l2c4-s2",
           "title": {
             "fr-FR": "§ II",
-            "en-US": "§ II"
+            "en-US": "§ II",
+            "pt-BR": "§ II"
           }
         },
         {
           "id": "l2c4-s3",
           "title": {
             "fr-FR": "§ III",
-            "en-US": "§ III"
+            "en-US": "§ III",
+            "pt-BR": "§ III"
           }
         },
         {
           "id": "l2c4-s4",
           "title": {
             "fr-FR": "§ IV",
-            "en-US": "§ IV"
+            "en-US": "§ IV",
+            "pt-BR": "§ IV"
           }
         },
         {
           "id": "l2c4-s5",
           "title": {
             "fr-FR": "§ V",
-            "en-US": "§ V"
+            "en-US": "§ V",
+            "pt-BR": "§ V"
           }
         },
         {
           "id": "l2c4-s6",
           "title": {
             "fr-FR": "§ VI",
-            "en-US": "§ VI"
+            "en-US": "§ VI",
+            "pt-BR": "§ VI"
           }
         },
         {
           "id": "l2c4-s7",
           "title": {
             "fr-FR": "§ VII",
-            "en-US": "§ VII"
+            "en-US": "§ VII",
+            "pt-BR": "§ VII"
           }
         },
         {
           "id": "l2c4-s8",
           "title": {
             "fr-FR": "§ VIII",
-            "en-US": "§ VIII"
+            "en-US": "§ VIII",
+            "pt-BR": "§ VIII"
           }
         },
         {
           "id": "l2c4-s9",
           "title": {
             "fr-FR": "§ IX",
-            "en-US": "§ IX"
+            "en-US": "§ IX",
+            "pt-BR": "§ IX"
           }
         },
         {
           "id": "l2c4-s10",
           "title": {
             "fr-FR": "§ X",
-            "en-US": "§ X"
+            "en-US": "§ X",
+            "pt-BR": "§ X"
           }
         },
         {
           "id": "l2c4-s11",
           "title": {
             "fr-FR": "§ XI",
-            "en-US": "§ XI"
+            "en-US": "§ XI",
+            "pt-BR": "§ XI"
           }
         },
         {
           "id": "l2c4-s12",
           "title": {
             "fr-FR": "§ XII",
-            "en-US": "§ XII"
+            "en-US": "§ XII",
+            "pt-BR": "§ XII"
           }
         }
       ]
@@ -493,42 +560,48 @@
       "id": "avis",
       "title": {
         "fr-FR": "Avis spirituels",
-        "en-US": "Spiritual Counsels"
+        "en-US": "Spiritual Counsels",
+        "pt-BR": "Avisos espirituais"
       },
       "children": [
         {
           "id": "avis-1",
           "title": {
             "fr-FR": "Avis I",
-            "en-US": "Counsel I"
+            "en-US": "Counsel I",
+            "pt-BR": "Aviso I"
           }
         },
         {
           "id": "avis-2",
           "title": {
             "fr-FR": "Avis II",
-            "en-US": "Counsel II"
+            "en-US": "Counsel II",
+            "pt-BR": "Aviso II"
           }
         },
         {
           "id": "avis-3",
           "title": {
             "fr-FR": "Avis III",
-            "en-US": "Counsel III"
+            "en-US": "Counsel III",
+            "pt-BR": "Aviso III"
           }
         },
         {
           "id": "avis-4",
           "title": {
             "fr-FR": "Avis IV",
-            "en-US": "Counsel IV"
+            "en-US": "Counsel IV",
+            "pt-BR": "Aviso IV"
           }
         },
         {
           "id": "avis-5",
           "title": {
             "fr-FR": "Avis V",
-            "en-US": "Counsel V"
+            "en-US": "Counsel V",
+            "pt-BR": "Aviso V"
           }
         }
       ]
@@ -537,7 +610,8 @@
       "id": "priere",
       "title": {
         "fr-FR": "Prière du Père de Caussade pour obtenir le saint abandon",
-        "en-US": "Prayer"
+        "en-US": "Prayer",
+        "pt-BR": "Oração do Padre de Caussade para obter o santo abandono"
       }
     }
   ]
