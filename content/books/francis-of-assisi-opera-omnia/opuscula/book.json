@@ -18,13 +18,19 @@
   },
   "composed": "1205-1226",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "francis-of-assisi/opuscula",
   "editions": {
     "la": {
       "editor": "Kajetan Esser, O.F.M. (Opuscula Sancti Patris Francisci Assisiensis, Bibliotheca Franciscana Ascetica Medii Aevi 12, Grottaferrata: Editiones Collegii S. Bonaventurae), as reproduced on franciscanos.org",
       "year": 1978
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,13 +47,15 @@
     {
       "id": "admonitiones-et-salutationes",
       "title": {
-        "la": "Admonitiones"
+        "la": "Admonitiones",
+        "pt-BR": "Admoestações"
       },
       "children": [
         {
           "id": "admonitiones",
           "title": {
-            "la": "Admonitiones"
+            "la": "Admonitiones",
+            "pt-BR": "Admoestações"
           }
         }
       ]
@@ -55,55 +63,64 @@
     {
       "id": "regulae-et-testamenta",
       "title": {
-        "la": "Regulae et testamenta"
+        "la": "Regulae et testamenta",
+        "pt-BR": "Regras e testamentos"
       },
       "children": [
         {
           "id": "regula-non-bullata",
           "title": {
-            "la": "Regula non bullata"
+            "la": "Regula non bullata",
+            "pt-BR": "Regra não bulada"
           }
         },
         {
           "id": "regula-bullata",
           "title": {
-            "la": "Regula bullata"
+            "la": "Regula bullata",
+            "pt-BR": "Regra bulada"
           }
         },
         {
           "id": "fragmenta-alterius-regulae",
           "title": {
-            "la": "Fragmenta alterius Regulae non bullatae"
+            "la": "Fragmenta alterius Regulae non bullatae",
+            "pt-BR": "Fragmentos de outra Regra não bulada"
           }
         },
         {
           "id": "regula-pro-eremitoriis",
           "title": {
-            "la": "Regula pro eremitoriis data"
+            "la": "Regula pro eremitoriis data",
+            "pt-BR": "Regra dada para os eremitérios"
           }
         },
         {
           "id": "testamentum",
           "title": {
-            "la": "Testamentum"
+            "la": "Testamentum",
+            "pt-BR": "Testamento"
           }
         },
         {
           "id": "testamentum-senis-factum",
           "title": {
-            "la": "Testamentum Senis factum"
+            "la": "Testamentum Senis factum",
+            "pt-BR": "Testamento feito em Sena"
           }
         },
         {
           "id": "forma-vivendi-sanctae-clarae",
           "title": {
-            "la": "Forma vivendi sanctae Clarae"
+            "la": "Forma vivendi sanctae Clarae",
+            "pt-BR": "Forma de vida dada a Santa Clara"
           }
         },
         {
           "id": "ultima-voluntas-sanctae-clarae",
           "title": {
-            "la": "Ultima voluntas sanctae Clarae scripta"
+            "la": "Ultima voluntas sanctae Clarae scripta",
+            "pt-BR": "Última vontade escrita para Santa Clara"
           }
         }
       ]
@@ -111,97 +128,113 @@
     {
       "id": "epistolae",
       "title": {
-        "la": "Epistolae"
+        "la": "Epistolae",
+        "pt-BR": "Cartas"
       },
       "children": [
         {
           "id": "epistola-ad-fideles-i",
           "title": {
-            "la": "Epistola ad fideles I"
+            "la": "Epistola ad fideles I",
+            "pt-BR": "Carta aos fiéis I"
           }
         },
         {
           "id": "epistola-ad-fideles-ii",
           "title": {
-            "la": "Epistola ad fideles II"
+            "la": "Epistola ad fideles II",
+            "pt-BR": "Carta aos fiéis II"
           }
         },
         {
           "id": "epistola-ad-clericos-i",
           "title": {
-            "la": "Epistola ad clericos I"
+            "la": "Epistola ad clericos I",
+            "pt-BR": "Carta aos clérigos I"
           }
         },
         {
           "id": "epistola-ad-clericos-ii",
           "title": {
-            "la": "Epistola ad clericos II"
+            "la": "Epistola ad clericos II",
+            "pt-BR": "Carta aos clérigos II"
           }
         },
         {
           "id": "epistola-ad-custodes-i",
           "title": {
-            "la": "Epistola ad custodes I"
+            "la": "Epistola ad custodes I",
+            "pt-BR": "Carta aos custódios I"
           }
         },
         {
           "id": "epistola-ad-custodes-ii",
           "title": {
-            "la": "Epistola ad custodes II"
+            "la": "Epistola ad custodes II",
+            "pt-BR": "Carta aos custódios II"
           }
         },
         {
           "id": "epistola-ad-ministrum",
           "title": {
-            "la": "Epistola ad ministrum"
+            "la": "Epistola ad ministrum",
+            "pt-BR": "Carta a um ministro"
           }
         },
         {
           "id": "epistola-toti-ordini",
           "title": {
-            "la": "Epistola toti Ordini missa"
+            "la": "Epistola toti Ordini missa",
+            "pt-BR": "Carta enviada a toda a Ordem"
           }
         },
         {
           "id": "epistola-ad-populorum-rectores",
           "title": {
-            "la": "Epistola ad populorum rectores"
+            "la": "Epistola ad populorum rectores",
+            "pt-BR": "Carta aos governantes dos povos"
           }
         },
         {
           "id": "epistola-ad-antonium",
           "title": {
-            "la": "Epistola ad sanctum Antonium"
+            "la": "Epistola ad sanctum Antonium",
+            "pt-BR": "Carta a Santo Antônio"
           }
         },
         {
           "id": "epistola-ad-fratrem-leonem",
           "title": {
-            "la": "Epistola ad fratrem Leonem"
+            "la": "Epistola ad fratrem Leonem",
+            "pt-BR": "Carta a frei Leão"
           }
         },
         {
           "id": "epistola-civibus-bononiensibus",
           "title": {
-            "la": "Epistola civibus Bononiensibus"
+            "la": "Epistola civibus Bononiensibus",
+            "pt-BR": "Carta aos cidadãos de Bolonha"
           }
         },
         {
           "id": "epistola-fratribus-franciae",
           "title": {
-            "la": "Epistola fratribus Franciae missa"
+            "la": "Epistola fratribus Franciae missa",
+            "pt-BR": "Carta enviada aos irmãos da França"
           }
         },
         {
           "id": "epistola-dominae-iacobae",
           "title": {
-            "la": "Epistola dominae Iacobae"
+            "la": "Epistola dominae Iacobae",
+            "pt-BR": "Carta à senhora Jacoba"
           }
         },
         {
           "id": "epistola-clarae-de-ieiunio",
           "title": {
-            "la": "Epistola sanctae Clarae de ieiunio"
+            "la": "Epistola sanctae Clarae de ieiunio",
+            "pt-BR": "Carta de Santa Clara sobre o jejum"
           }
         }
       ]
@@ -209,25 +242,29 @@
     {
       "id": "benedictiones",
       "title": {
-        "la": "Benedictiones"
+        "la": "Benedictiones",
+        "pt-BR": "Bênçãos"
       },
       "children": [
         {
           "id": "benedictio-fratri-leoni",
           "title": {
-            "la": "Benedictio fratri Leoni data"
+            "la": "Benedictio fratri Leoni data",
+            "pt-BR": "Bênção dada a frei Leão"
           }
         },
         {
           "id": "benedictio-fratri-bernardo",
           "title": {
-            "la": "Benedictio fratri Bernardo data"
+            "la": "Benedictio fratri Bernardo data",
+            "pt-BR": "Bênção dada a frei Bernardo"
           }
         },
         {
           "id": "benedictio-sanctae-clarae",
           "title": {
-            "la": "Benedictio sanctae Clarae"
+            "la": "Benedictio sanctae Clarae",
+            "pt-BR": "Bênção a Santa Clara"
           }
         }
       ]
@@ -235,73 +272,85 @@
     {
       "id": "laudes-et-orationes",
       "title": {
-        "la": "Laudes, orationes, officium"
+        "la": "Laudes, orationes, officium",
+        "pt-BR": "Louvores, orações, ofício"
       },
       "children": [
         {
           "id": "officium-passionis",
           "title": {
-            "la": "Officium Passionis Domini"
+            "la": "Officium Passionis Domini",
+            "pt-BR": "Ofício da Paixão do Senhor"
           }
         },
         {
           "id": "laudes-dei-altissimi",
           "title": {
-            "la": "Laudes Dei altissimi"
+            "la": "Laudes Dei altissimi",
+            "pt-BR": "Louvores de Deus altíssimo"
           }
         },
         {
           "id": "laudes-ad-omnes-horas",
           "title": {
-            "la": "Laudes ad omnes horas dicendae"
+            "la": "Laudes ad omnes horas dicendae",
+            "pt-BR": "Louvores para rezar em todas as horas"
           }
         },
         {
           "id": "salutatio-beatae-mariae-virginis",
           "title": {
-            "la": "Salutatio beatae Mariae Virginis"
+            "la": "Salutatio beatae Mariae Virginis",
+            "pt-BR": "Saudação à bem-aventurada Virgem Maria"
           }
         },
         {
           "id": "salutatio-virtutum",
           "title": {
-            "la": "Salutatio virtutum"
+            "la": "Salutatio virtutum",
+            "pt-BR": "Saudação às virtudes"
           }
         },
         {
           "id": "expositio-in-pater-noster",
           "title": {
-            "la": "Expositio in Pater noster"
+            "la": "Expositio in Pater noster",
+            "pt-BR": "Exposição do Pai-nosso"
           }
         },
         {
           "id": "exhortatio-ad-laudem-dei",
           "title": {
-            "la": "Exhortatio ad laudem Dei"
+            "la": "Exhortatio ad laudem Dei",
+            "pt-BR": "Exortação ao louvor de Deus"
           }
         },
         {
           "id": "oratio-ante-crucifixum",
           "title": {
-            "la": "Oratio ante crucifixum"
+            "la": "Oratio ante crucifixum",
+            "pt-BR": "Oração diante do crucifixo"
           }
         },
         {
           "id": "canticum-fratris-solis",
           "title": {
-            "la": "Canticum fratris Solis (Umbrian)"
+            "la": "Canticum fratris Solis (Umbrian)",
+            "pt-BR": "Cântico do Irmão Sol (do original umbro)"
           }
         },
         {
           "id": "audite-poverelle",
           "title": {
-            "la": "Audite, poverelle (Umbrian)"
+            "la": "Audite, poverelle (Umbrian)",
+            "pt-BR": "Ouvi, pobrezinhas (do original umbro)"
           }
         },
         {
           "id": "de-vera-et-perfecta-laetitia",
           "title": {
-            "la": "De vera et perfecta laetitia"
+            "la": "De vera et perfecta laetitia",
+            "pt-BR": "Da verdadeira e perfeita alegria"
           }
         }
       ]

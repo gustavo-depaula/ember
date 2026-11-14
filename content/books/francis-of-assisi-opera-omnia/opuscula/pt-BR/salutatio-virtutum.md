@@ -1,0 +1,7 @@
+# Saudação às virtudes
+
+¹ Ave, rainha sabedoria, o Senhor te salve com tua irmã, a santa e pura simplicidade. ² Senhora santa pobreza, o Senhor te salve com tua irmã, a santa humildade. ³ Senhora santa caridade, o Senhor te salve com tua irmã, a santa obediência. ⁴ Santíssimas virtudes, a todas vós salve o Senhor, de quem vindes e procedeis.
+
+⁵ Não há absolutamente homem algum no mundo inteiro que possa ter uma de vós, se primeiro não morrer. ⁶ Quem tem uma e não ofende as outras tem-nas todas. ⁷ E quem ofende uma não tem nenhuma e ofende todas (cf. Tiago 2:10). ⁸ E cada uma confunde os vícios e os pecados.
+
+⁹ A santa sabedoria confunde Satanás e todas as suas malícias. ¹⁰ A pura e santa simplicidade confunde toda a sabedoria deste mundo (cf. 1 Coríntios 2:6) e a sabedoria do corpo. ¹¹ A santa pobreza confunde a cupidez, a avareza e os cuidados deste século. ¹² A santa humildade confunde a soberba e todos os homens que estão no mundo, e igualmente todas as coisas que estão no mundo. ¹³ A santa caridade confunde todas as tentações diabólicas e carnais e todos os temores carnais (cf. 1 João 4:18). ¹⁴ A santa obediência confunde todas as vontades corporais e carnais, ¹⁵ e mantém o seu corpo mortificado para a obediência ao espírito e para a obediência ao seu irmão, ¹⁶ e está sujeito e submetido a todos os homens que estão no mundo, ¹⁷ e não somente aos homens, mas também a todos os animais e feras, ¹⁸ para que possam fazer dele tudo o que quiserem, na medida em que lhes for *dado do alto* pelo Senhor (cf. João 19:11).
