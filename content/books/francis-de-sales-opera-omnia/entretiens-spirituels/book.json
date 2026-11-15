@@ -14,12 +14,13 @@
   "description": {
     "fr-FR": "Les vingt et un entretiens de saint François de Sales aux Religieuses de la Visitation, recueillis par elles et publiés en 1629 : la confiance, l’humilité, l’obéissance, la simplicité, la volonté de Dieu. Texte critique des Œuvres d’Annecy (tome VI), en orthographe d’époque, avec les entretiens inédits de l’appendice et le dernier entretien de Lyon (1622) ; la traduction anglaise de Gasquet et Mackey est jointe entretien par entretien.",
     "en-US": "The twenty-one conferences of St. Francis de Sales to the nuns of the Visitation, taken down by them and published in 1629: confidence, humility, obedience, simplicity, the will of God. The French is the critical text of the Annecy edition (vol. VI) in period spelling, with the appendix of unpublished conferences and the last conference at Lyon (1622); the Gasquet and Mackey English translation (1906) is paired conference by conference.",
-    "pt-BR": "Os vinte e um colóquios de São Francisco de Sales às Religiosas da Visitação, recolhidos por elas e publicados em 1629: a confiança, a humildade, a obediência, a simplicidade, a vontade de Deus."
+    "pt-BR": "Os vinte e um colóquios de São Francisco de Sales às Religiosas da Visitação, recolhidos por elas e publicados em 1629: a confiança, a humildade, a obediência, a simplicidade, a vontade de Deus. Texto crítico das Obras de Annecy (tomo VI), na ortografia da época, com os colóquios inéditos do apêndice e o último colóquio de Lyon (1622); a tradução inglesa de Gasquet e Mackey acompanha o texto colóquio por colóquio."
   },
   "composed": "1629",
   "languages": [
     "fr-FR",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "francis-de-sales/entretiens-spirituels",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "Abbot Gasquet and Dom H. B. Mackey, O.S.B.",
       "year": 1906
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -54,166 +60,190 @@
     {
       "id": "aux-religieuses",
       "title": {
-        "fr-FR": "Aux Religieuses de la Visitation"
+        "fr-FR": "Aux Religieuses de la Visitation",
+        "pt-BR": "Às Religiosas da Visitação"
       }
     },
     {
       "id": "entretien-i",
       "title": {
         "fr-FR": "Entretien I. De l’obligation des Constitutions",
-        "en-US": "Conference I. Obligation of the Constitutions"
+        "en-US": "Conference I. Obligation of the Constitutions",
+        "pt-BR": "Colóquio I. Da obrigação das Constituições"
       }
     },
     {
       "id": "entretien-ii",
       "title": {
         "fr-FR": "Entretien II. De la confiance",
-        "en-US": "Conference II. On Confidence"
+        "en-US": "Conference II. On Confidence",
+        "pt-BR": "Colóquio II. Da confiança"
       }
     },
     {
       "id": "entretien-iii",
       "title": {
         "fr-FR": "Entretien III. De la fermeté",
-        "en-US": "Conference III. On Constancy"
+        "en-US": "Conference III. On Constancy",
+        "pt-BR": "Colóquio III. Da firmeza"
       }
     },
     {
       "id": "entretien-iv",
       "title": {
         "fr-FR": "Entretien IV. De la cordialité et de l’esprit d’humilité",
-        "en-US": "Conference IV. On Cordiality and on the Spirit of Humility"
+        "en-US": "Conference IV. On Cordiality and on the Spirit of Humility",
+        "pt-BR": "Colóquio IV. Da cordialidade e do espírito de humildade"
       }
     },
     {
       "id": "entretien-v",
       "title": {
         "fr-FR": "Entretien V. De la générosité",
-        "en-US": "Conference V. On Generosity"
+        "en-US": "Conference V. On Generosity",
+        "pt-BR": "Colóquio V. Da generosidade"
       }
     },
     {
       "id": "entretien-vi",
       "title": {
         "fr-FR": "Entretien VI. De l’espérance",
-        "en-US": "Conference VI. On Hope"
+        "en-US": "Conference VI. On Hope",
+        "pt-BR": "Colóquio VI. Da esperança"
       }
     },
     {
       "id": "entretien-vii",
       "title": {
         "fr-FR": "Entretien VII. De trois loix spirituelles",
-        "en-US": "Conference VII. Three Spiritual Laws"
+        "en-US": "Conference VII. Three Spiritual Laws",
+        "pt-BR": "Colóquio VII. De três leis espirituais"
       }
     },
     {
       "id": "entretien-viii",
       "title": {
         "fr-FR": "Entretien VIII. De la desappropriation",
-        "en-US": "Conference VIII. On Self-Renouncement"
+        "en-US": "Conference VIII. On Self-Renouncement",
+        "pt-BR": "Colóquio VIII. Da desapropriação"
       }
     },
     {
       "id": "entretien-ix",
       "title": {
         "fr-FR": "Entretien IX. De la modestie",
-        "en-US": "Conference IX. On Religious Modesty"
+        "en-US": "Conference IX. On Religious Modesty",
+        "pt-BR": "Colóquio IX. Da modéstia"
       }
     },
     {
       "id": "entretien-x",
       "title": {
         "fr-FR": "Entretien X. De l’obeissance",
-        "en-US": "Conference X. On Obedience"
+        "en-US": "Conference X. On Obedience",
+        "pt-BR": "Colóquio X. Da obediência"
       }
     },
     {
       "id": "entretien-xi",
       "title": {
         "fr-FR": "Entretien XI. De la vertu d’obeissance",
-        "en-US": "Conference XI. The Virtue of Obedience"
+        "en-US": "Conference XI. The Virtue of Obedience",
+        "pt-BR": "Colóquio XI. Da virtude de obediência"
       }
     },
     {
       "id": "entretien-xii",
       "title": {
         "fr-FR": "Entretien XII. De la simplicité",
-        "en-US": "Conference XII. On Simplicity and Religious Prudence"
+        "en-US": "Conference XII. On Simplicity and Religious Prudence",
+        "pt-BR": "Colóquio XII. Da simplicidade"
       }
     },
     {
       "id": "entretien-xiii",
       "title": {
         "fr-FR": "Entretien XIII. De l’esprit des Réglés",
-        "en-US": "Conference XIII. On the Rules and the Spirit of the Visitation"
+        "en-US": "Conference XIII. On the Rules and the Spirit of the Visitation",
+        "pt-BR": "Colóquio XIII. Do espírito das Regras"
       }
     },
     {
       "id": "entretien-xiv",
       "title": {
         "fr-FR": "Entretien XIV. Du jugement propre",
-        "en-US": "Conference XIV. On Private Judgment"
+        "en-US": "Conference XIV. On Private Judgment",
+        "pt-BR": "Colóquio XIV. Do juízo próprio"
       }
     },
     {
       "id": "entretien-xv",
       "title": {
         "fr-FR": "Entretien XV. De la volonté de Dieu",
-        "en-US": "Conference XV. The Will of God"
+        "en-US": "Conference XV. The Will of God",
+        "pt-BR": "Colóquio XV. Da vontade de Deus"
       }
     },
     {
       "id": "entretien-xvi",
       "title": {
         "fr-FR": "Entretien XVI. Des aversions",
-        "en-US": "Conference XVI. On Antipathies"
+        "en-US": "Conference XVI. On Antipathies",
+        "pt-BR": "Colóquio XVI. Das aversões"
       }
     },
     {
       "id": "entretien-xvii",
       "title": {
         "fr-FR": "Entretien XVII. Des voix",
-        "en-US": "Conference XVII. On Voting in a Community"
+        "en-US": "Conference XVII. On Voting in a Community",
+        "pt-BR": "Colóquio XVII. Dos votos"
       }
     },
     {
       "id": "entretien-xviii",
       "title": {
         "fr-FR": "Entretien XVIII. Des sacremens",
-        "en-US": "Conference XVIII. The Sacraments and Divine Office"
+        "en-US": "Conference XVIII. The Sacraments and Divine Office",
+        "pt-BR": "Colóquio XVIII. Dos sacramentos"
       }
     },
     {
       "id": "entretien-xix",
       "title": {
         "fr-FR": "Entretien XIX. Des vertus de saint Joseph",
-        "en-US": "Conference XIX. On the Virtues of St. Joseph"
+        "en-US": "Conference XIX. On the Virtues of St. Joseph",
+        "pt-BR": "Colóquio XIX. Das virtudes de São José"
       }
     },
     {
       "id": "entretien-xx",
       "title": {
         "fr-FR": "Entretien XX. De la prétention religieuse",
-        "en-US": "Conference XX. Why We Should Become Religious"
+        "en-US": "Conference XX. Why We Should Become Religious",
+        "pt-BR": "Colóquio XX. Do propósito da vida religiosa"
       }
     },
     {
       "id": "entretien-xxi",
       "title": {
         "fr-FR": "Entretien XXI. De ne rien demander",
-        "en-US": "Conference XXI. On Asking for Nothing"
+        "en-US": "Conference XXI. On Asking for Nothing",
+        "pt-BR": "Colóquio XXI. De nada pedir"
       }
     },
     {
       "id": "appendice-entretiens-inedits",
       "title": {
-        "fr-FR": "Appendice. Entretiens qui ne se trouvent dans aucune édition antérieure (A-E)"
+        "fr-FR": "Appendice. Entretiens qui ne se trouvent dans aucune édition antérieure (A-E)",
+        "pt-BR": "Apêndice. Colóquios que não se encontram em nenhuma edição anterior (A-E)"
       }
     },
     {
       "id": "dernier-entretien",
       "title": {
-        "fr-FR": "Dernier entretien de nostre bien-heureux Pere, Lyon, 1622"
+        "fr-FR": "Dernier entretien de nostre bien-heureux Pere, Lyon, 1622",
+        "pt-BR": "Último colóquio de nosso bem-aventurado Pai, Lyon, 1622"
       }
     }
   ],
