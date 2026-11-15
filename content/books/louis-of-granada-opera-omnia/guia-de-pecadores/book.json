@@ -14,17 +14,23 @@
   "description": {
     "es-ES": "Obra mayor de Fray Luis de Granada (1567, redacción definitiva): el libro primero persuade a la virtud con sus títulos y privilegios; el segundo enseña la doctrina de las virtudes y los remedios contra los vicios. Texto de la edición de Madrid 1657, con el Prólogo galeato sobre el fruto de la buena doctrina.",
     "en-US": "The masterpiece of Fray Luis de Granada (1567, definitive redaction): the first book urges virtue by its motives and privileges; the second teaches the doctrine of the virtues and the remedies against vices. Text of the Madrid 1657 edition, with the Prólogo galeato on the fruit of good reading.",
-    "pt-BR": "Obra maior de Frei Luís de Granada (1567, redação definitiva): o primeiro livro persuade à virtude por seus títulos e privilégios; o segundo ensina a doutrina das virtudes e os remédios contra os vícios."
+    "pt-BR": "Obra maior de Frei Luís de Granada (1567, redação definitiva): o primeiro livro persuade à virtude por seus títulos e privilégios; o segundo ensina a doutrina das virtudes e os remédios contra os vícios. Texto da edição de Madri de 1657, com o Prólogo galeato sobre o fruto da boa doutrina."
   },
   "composed": "1567",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "louis-of-granada/guia-de-pecadores",
   "editions": {
     "es-ES": {
       "editor": "Fr. José María (transcription of the Madrid 1657 edition)",
       "year": 2007
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,199 +47,232 @@
     {
       "id": "prologo-galeato",
       "title": {
-        "es-ES": "Prólogo galeato"
+        "es-ES": "Prólogo galeato",
+        "pt-BR": "Prólogo galeato"
       }
     },
     {
       "id": "prologo",
       "title": {
-        "es-ES": "Prólogo"
+        "es-ES": "Prólogo",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "argumento",
       "title": {
-        "es-ES": "Argumento del primer libro"
+        "es-ES": "Argumento del primer libro",
+        "pt-BR": "Argumento do primeiro livro"
       }
     },
     {
       "id": "libro-1",
       "title": {
-        "es-ES": "Libro primero: exhortación a la virtud"
+        "es-ES": "Libro primero: exhortación a la virtud",
+        "pt-BR": "Livro primeiro: exortação à virtude"
       },
       "children": [
         {
           "id": "l1-c1",
           "title": {
-            "es-ES": "Capítulo 1. Del primero título que nos obliga a la virtud y servicio de Dios, que es ser él quien es. Donde se trata de la excelencia de las perfecciones divinas"
+            "es-ES": "Capítulo 1. Del primero título que nos obliga a la virtud y servicio de Dios, que es ser él quien es. Donde se trata de la excelencia de las perfecciones divinas",
+            "pt-BR": "Capítulo 1. Do primeiro título que nos obriga à virtude e ao serviço de Deus, que é ser ele quem é. Onde se trata da excelência das perfeições divinas"
           }
         },
         {
           "id": "l1-c2",
           "title": {
-            "es-ES": "Capítulo 2. Del segundo título que nos obliga a la virtud y servicio de nuestro Señor, por razón del beneficio de la creación Criador"
+            "es-ES": "Capítulo 2. Del segundo título que nos obliga a la virtud y servicio de nuestro Señor, por razón del beneficio de la creación Criador",
+            "pt-BR": "Capítulo 2. Do segundo título que nos obriga à virtude e ao serviço de nosso Senhor, em razão do benefício da criação"
           }
         },
         {
           "id": "l1-c3",
           "title": {
-            "es-ES": "Capítulo 3. Del tercer título porque estamos obligados a Dios, que es el beneficio de la conservación y gobernación"
+            "es-ES": "Capítulo 3. Del tercer título porque estamos obligados a Dios, que es el beneficio de la conservación y gobernación",
+            "pt-BR": "Capítulo 3. Do terceiro título pelo qual estamos obrigados a Deus, que é o benefício da conservação e do governo"
           }
         },
         {
           "id": "l1-c4",
           "title": {
-            "es-ES": "Capítulo 4. Del cuarto título por donde estamos obligados a la virtud, que es el beneficio inestimable de nuestra redención"
+            "es-ES": "Capítulo 4. Del cuarto título por donde estamos obligados a la virtud, que es el beneficio inestimable de nuestra redención",
+            "pt-BR": "Capítulo 4. Do quarto título pelo qual estamos obrigados à virtude, que é o benefício inestimável da nossa redenção"
           }
         },
         {
           "id": "l1-c5",
           "title": {
-            "es-ES": "Capítulo 5. Del quinto título por do estamos obligados a la virtud, que es el beneficio de nuestra justificación de la Eucaristía"
+            "es-ES": "Capítulo 5. Del quinto título por do estamos obligados a la virtud, que es el beneficio de nuestra justificación de la Eucaristía",
+            "pt-BR": "Capítulo 5. Do quinto título pelo qual estamos obrigados à virtude, que é o benefício da nossa justificação e da Eucaristia"
           }
         },
         {
           "id": "l1-c6",
           "title": {
-            "es-ES": "Capítulo 6. Del sexto título por donde estamos obligados a la virtud, que es el beneficio inestimable de la divina predestinación"
+            "es-ES": "Capítulo 6. Del sexto título por donde estamos obligados a la virtud, que es el beneficio inestimable de la divina predestinación",
+            "pt-BR": "Capítulo 6. Do sexto título pelo qual estamos obrigados à virtude, que é o benefício inestimável da divina predestinação"
           }
         },
         {
           "id": "l1-c7",
           "title": {
-            "es-ES": "Capítulo 7. Del séptimo titulo por donde el hombre está obligado a la virtud, por razón de la primera de sus cuatro postrimerías, que es la muerte"
+            "es-ES": "Capítulo 7. Del séptimo titulo por donde el hombre está obligado a la virtud, por razón de la primera de sus cuatro postrimerías, que es la muerte",
+            "pt-BR": "Capítulo 7. Do sétimo título pelo qual o homem está obrigado à virtude, em razão do primeiro dos seus quatro novíssimos, que é a morte"
           }
         },
         {
           "id": "l1-c8",
           "title": {
-            "es-ES": "Capítulo 8. Del octavo título por donde el hombre está obligado a la virtud, por causa de la segunda postrimería, que es el juicio final"
+            "es-ES": "Capítulo 8. Del octavo título por donde el hombre está obligado a la virtud, por causa de la segunda postrimería, que es el juicio final",
+            "pt-BR": "Capítulo 8. Do oitavo título pelo qual o homem está obrigado à virtude, por causa do segundo novíssimo, que é o juízo final"
           }
         },
         {
           "id": "l1-c9",
           "title": {
-            "es-ES": "Capítulo 9. Del noveno título que nos obliga a la virtud, que es la tercera de nuestras postrimerías, la cual es la gloria del paraíso"
+            "es-ES": "Capítulo 9. Del noveno título que nos obliga a la virtud, que es la tercera de nuestras postrimerías, la cual es la gloria del paraíso",
+            "pt-BR": "Capítulo 9. Do nono título que nos obriga à virtude, que é o terceiro dos nossos novíssimos, a saber, a glória do paraíso"
           }
         },
         {
           "id": "l1-c10",
           "title": {
-            "es-ES": "Capítulo 10. Del décimo título por el cual estamos obligados a la virtud, que es la cuarta postrimería del hombre, donde se trata de las penas del infierno"
+            "es-ES": "Capítulo 10. Del décimo título por el cual estamos obligados a la virtud, que es la cuarta postrimería del hombre, donde se trata de las penas del infierno",
+            "pt-BR": "Capítulo 10. Do décimo título pelo qual estamos obrigados à virtude, que é o quarto novíssimo do homem, onde se trata das penas do inferno"
           }
         },
         {
           "id": "l1-c11",
           "title": {
-            "es-ES": "Capítulo 11. Por el cual estamos obligados a seguir la virtud, por causa de los bienes inestimables que de presente se le prometen en esta vida"
+            "es-ES": "Capítulo 11. Por el cual estamos obligados a seguir la virtud, por causa de los bienes inestimables que de presente se le prometen en esta vida",
+            "pt-BR": "Capítulo 11. Pelo qual estamos obrigados a seguir a virtude, por causa dos bens inestimáveis que já nesta vida se lhe prometem"
           }
         },
         {
           "id": "l1-c12",
           "title": {
-            "es-ES": "Capítulo 12. Título por donde estamos obligados a la virtud por razón del primer privilegio de ella, tiene de los malos, para castigo de su maldad providencia"
+            "es-ES": "Capítulo 12. Título por donde estamos obligados a la virtud por razón del primer privilegio de ella, tiene de los malos, para castigo de su maldad providencia",
+            "pt-BR": "Capítulo 12. Título pelo qual estamos obrigados à virtude em razão do seu primeiro privilégio: a providência que [Deus] tem dos maus, para castigo da sua maldade"
           }
         },
         {
           "id": "l1-c13",
           "title": {
-            "es-ES": "Capítulo 13. Del segundo privilegio de la virtud, que es la gracia del Espíritu Santo, que se da a los virtuosos"
+            "es-ES": "Capítulo 13. Del segundo privilegio de la virtud, que es la gracia del Espíritu Santo, que se da a los virtuosos",
+            "pt-BR": "Capítulo 13. Do segundo privilégio da virtude, que é a graça do Espírito Santo, que se dá aos virtuosos"
           }
         },
         {
           "id": "l1-c14",
           "title": {
-            "es-ES": "Capítulo 14. Del tercero privilegio de la virtud, que es la lumbre y el conocimiento sobrenatural que da nuestro Señor a los virtuosos"
+            "es-ES": "Capítulo 14. Del tercero privilegio de la virtud, que es la lumbre y el conocimiento sobrenatural que da nuestro Señor a los virtuosos",
+            "pt-BR": "Capítulo 14. Do terceiro privilégio da virtude, que é a luz e o conhecimento sobrenatural que nosso Senhor dá aos virtuosos"
           }
         },
         {
           "id": "l1-c15",
           "title": {
-            "es-ES": "Capítulo 15. Del cuarto privilegio de la virtud, que son las consolaciones del Espíritu Santo que se dan a los buenos"
+            "es-ES": "Capítulo 15. Del cuarto privilegio de la virtud, que son las consolaciones del Espíritu Santo que se dan a los buenos",
+            "pt-BR": "Capítulo 15. Do quarto privilégio da virtude, que são as consolações do Espírito Santo que se dão aos bons"
           }
         },
         {
           "id": "l1-c16",
           "title": {
-            "es-ES": "Capítulo 16. Del quinto privilegio de la virtud, que es la alegría de la buena conciencia de que gozan los buenos, y del tormento y remordimiento interior que padecen los malos"
+            "es-ES": "Capítulo 16. Del quinto privilegio de la virtud, que es la alegría de la buena conciencia de que gozan los buenos, y del tormento y remordimiento interior que padecen los malos",
+            "pt-BR": "Capítulo 16. Do quinto privilégio da virtude, que é a alegria da boa consciência de que gozam os bons, e do tormento e remorso interior que padecem os maus"
           }
         },
         {
           "id": "l1-c17",
           "title": {
-            "es-ES": "Capítulo 17. Del sexto privilegio de la virtud, que es la confianza y esperanza en la divina"
+            "es-ES": "Capítulo 17. Del sexto privilegio de la virtud, que es la confianza y esperanza en la divina",
+            "pt-BR": "Capítulo 17. Do sexto privilégio da virtude, que é a confiança e a esperança em Deus"
           }
         },
         {
           "id": "l1-c18",
           "title": {
-            "es-ES": "Capítulo 18. Del séptimo privilegio de la virtud, que es la verdadera libertad de que gozan los buenos, y de la miserable y no conocida servidumbre en que viven los malos"
+            "es-ES": "Capítulo 18. Del séptimo privilegio de la virtud, que es la verdadera libertad de que gozan los buenos, y de la miserable y no conocida servidumbre en que viven los malos",
+            "pt-BR": "Capítulo 18. Do sétimo privilégio da virtude, que é a verdadeira liberdade de que gozam os bons, e da miserável e desconhecida servidão em que vivem os maus"
           }
         },
         {
           "id": "l1-c19",
           "title": {
-            "es-ES": "Capítulo 19. Del octavo privilegio de la virtud, que es la bienaventurada paz y quietud interior de que gozan los buenos"
+            "es-ES": "Capítulo 19. Del octavo privilegio de la virtud, que es la bienaventurada paz y quietud interior de que gozan los buenos",
+            "pt-BR": "Capítulo 19. Do oitavo privilégio da virtude, que é a bem-aventurada paz e quietude interior de que gozam os bons"
           }
         },
         {
           "id": "l1-c20",
           "title": {
-            "es-ES": "Capítulo 20. Del nono privilegio de la virtud, que es de cómo oye Dios las oraciones de los buenos, y desecha las de los malos"
+            "es-ES": "Capítulo 20. Del nono privilegio de la virtud, que es de cómo oye Dios las oraciones de los buenos, y desecha las de los malos",
+            "pt-BR": "Capítulo 20. Do nono privilégio da virtude, que é como Deus ouve as orações dos bons e rejeita as dos maus"
           }
         },
         {
           "id": "l1-c21",
           "title": {
-            "es-ES": "Capítulo 21. Décimo privilegio de la virtud, que es la ayuda y favor de Dios que los buenos reciben"
+            "es-ES": "Capítulo 21. Décimo privilegio de la virtud, que es la ayuda y favor de Dios que los buenos reciben",
+            "pt-BR": "Capítulo 21. Décimo privilégio da virtude, que é a ajuda e o favor de Deus que os bons recebem"
           }
         },
         {
           "id": "l1-c22",
           "title": {
-            "es-ES": "Capítulo 22. Undécimo privilegio de la virtud, que es cómo nuestro Señor provee a los virtuosos de lo temporal"
+            "es-ES": "Capítulo 22. Undécimo privilegio de la virtud, que es cómo nuestro Señor provee a los virtuosos de lo temporal",
+            "pt-BR": "Capítulo 22. Undécimo privilégio da virtude, que é como nosso Senhor provê os virtuosos do temporal"
           }
         },
         {
           "id": "l1-c23",
           "title": {
-            "es-ES": "Capítulo 23. Duodécimo privilegio de la virtud, que es cuán alegre y quieta sea la muerte de los buenos; y por el contrario, cuán miserable y congojosa la de los malos"
+            "es-ES": "Capítulo 23. Duodécimo privilegio de la virtud, que es cuán alegre y quieta sea la muerte de los buenos; y por el contrario, cuán miserable y congojosa la de los malos",
+            "pt-BR": "Capítulo 23. Duodécimo privilégio da virtude, que é quão alegre e serena é a morte dos bons; e, pelo contrário, quão miserável e angustiosa a dos maus"
           }
         },
         {
           "id": "l1-c24",
           "title": {
-            "es-ES": "Capítulo 24. Contra la primera excusa de los que dilatan la mudanza de la vida y el estudio de la virtud para adelante"
+            "es-ES": "Capítulo 24. Contra la primera excusa de los que dilatan la mudanza de la vida y el estudio de la virtud para adelante",
+            "pt-BR": "Capítulo 24. Contra a primeira escusa dos que adiam para mais tarde a mudança de vida e o empenho na virtude"
           }
         },
         {
           "id": "l1-c25",
           "title": {
-            "es-ES": "Capítulo 25. Contra los que dilatan la penitencia hasta la hora de la muerte"
+            "es-ES": "Capítulo 25. Contra los que dilatan la penitencia hasta la hora de la muerte",
+            "pt-BR": "Capítulo 25. Contra os que adiam a penitência até a hora da morte"
           }
         },
         {
           "id": "l1-c26",
           "title": {
-            "es-ES": "Capítulo 26. Contra los que perseveran en sus pecados, con esperanza de la divina misericordia"
+            "es-ES": "Capítulo 26. Contra los que perseveran en sus pecados, con esperanza de la divina misericordia",
+            "pt-BR": "Capítulo 26. Contra os que perseveram em seus pecados com esperança na divina misericórdia"
           }
         },
         {
           "id": "l1-c27",
           "title": {
-            "es-ES": "Capítulo 27. Contra los que se excusan diciendo que es áspero y dificultoso el camino de la virtud"
+            "es-ES": "Capítulo 27. Contra los que se excusan diciendo que es áspero y dificultoso el camino de la virtud",
+            "pt-BR": "Capítulo 27. Contra os que se escusam dizendo que é áspero e difícil o caminho da virtude"
           }
         },
         {
           "id": "l1-c28",
           "title": {
-            "es-ES": "Capítulo 28. Contra los que recelan seguir el camino de la virtud, por el amor del mundo hallarse en el mundo"
+            "es-ES": "Capítulo 28. Contra los que recelan seguir el camino de la virtud, por el amor del mundo hallarse en el mundo",
+            "pt-BR": "Capítulo 28. Contra os que receiam seguir o caminho da virtude por amor do mundo"
           }
         },
         {
           "id": "l1-c29",
           "title": {
-            "es-ES": "Capítulo 29. Conclusión de todo lo contenido en este primer libro"
+            "es-ES": "Capítulo 29. Conclusión de todo lo contenido en este primer libro",
+            "pt-BR": "Capítulo 29. Conclusão de tudo o que se contém neste primeiro livro"
           }
         }
       ]
@@ -241,151 +280,176 @@
     {
       "id": "libro-2",
       "title": {
-        "es-ES": "Libro segundo: doctrina de las virtudes"
+        "es-ES": "Libro segundo: doctrina de las virtudes",
+        "pt-BR": "Livro segundo: doutrina das virtudes"
       },
       "children": [
         {
           "id": "l2-prologo",
           "title": {
-            "es-ES": "Prólogo del libro segundo"
+            "es-ES": "Prólogo del libro segundo",
+            "pt-BR": "Prólogo do livro segundo"
           }
         },
         {
           "id": "l2-c1",
           "title": {
-            "es-ES": "Capítulo 1. De la primera cosa que ha de presuponer el que quisiere servir a Dios"
+            "es-ES": "Capítulo 1. De la primera cosa que ha de presuponer el que quisiere servir a Dios",
+            "pt-BR": "Capítulo 1. Da primeira coisa que deve pressupor quem quiser servir a Deus"
           }
         },
         {
           "id": "l2-c2",
           "title": {
-            "es-ES": "Capítulo 2. De la segunda cosa que ha de presuponer el que quiere servir a nuestro Señor"
+            "es-ES": "Capítulo 2. De la segunda cosa que ha de presuponer el que quiere servir a nuestro Señor",
+            "pt-BR": "Capítulo 2. Da segunda coisa que deve pressupor quem quer servir a nosso Senhor"
           }
         },
         {
           "id": "l2-c3",
           "title": {
-            "es-ES": "Capítulo 3. Del firme propósito que el buen cristiano debe tener de nunca hacer cosa que sea pecado mortal"
+            "es-ES": "Capítulo 3. Del firme propósito que el buen cristiano debe tener de nunca hacer cosa que sea pecado mortal",
+            "pt-BR": "Capítulo 3. Do firme propósito que o bom cristão deve ter de nunca fazer coisa que seja pecado mortal"
           }
         },
         {
           "id": "l2-c4",
           "title": {
-            "es-ES": "Capítulo 4. Remedios contra la soberbia"
+            "es-ES": "Capítulo 4. Remedios contra la soberbia",
+            "pt-BR": "Capítulo 4. Remédios contra a soberba"
           }
         },
         {
           "id": "l2-c5",
           "title": {
-            "es-ES": "Capítulo 5. Remedios contra la avaricia"
+            "es-ES": "Capítulo 5. Remedios contra la avaricia",
+            "pt-BR": "Capítulo 5. Remédios contra a avareza"
           }
         },
         {
           "id": "l2-c6",
           "title": {
-            "es-ES": "Capítulo 6. Remedios contra lujuria"
+            "es-ES": "Capítulo 6. Remedios contra lujuria",
+            "pt-BR": "Capítulo 6. Remédios contra a luxúria"
           }
         },
         {
           "id": "l2-c7",
           "title": {
-            "es-ES": "Capítulo 7. Remedios contra la envidia"
+            "es-ES": "Capítulo 7. Remedios contra la envidia",
+            "pt-BR": "Capítulo 7. Remédios contra a inveja"
           }
         },
         {
           "id": "l2-c8",
           "title": {
-            "es-ES": "Capítulo 8. Remedio contra la gula"
+            "es-ES": "Capítulo 8. Remedio contra la gula",
+            "pt-BR": "Capítulo 8. Remédio contra a gula"
           }
         },
         {
           "id": "l2-c9",
           "title": {
-            "es-ES": "Capítulo 9. Remedios contra la ira, y contra los odios y enemistades que nacen de ella"
+            "es-ES": "Capítulo 9. Remedios contra la ira, y contra los odios y enemistades que nacen de ella",
+            "pt-BR": "Capítulo 9. Remédios contra a ira, e contra os ódios e inimizades que dela nascem"
           }
         },
         {
           "id": "l2-c10",
           "title": {
-            "es-ES": "Capítulo 10. Remedio contra la pereza"
+            "es-ES": "Capítulo 10. Remedio contra la pereza",
+            "pt-BR": "Capítulo 10. Remédio contra a preguiça"
           }
         },
         {
           "id": "l2-c11",
           "title": {
-            "es-ES": "Capítulo 11. De otra manera de pecados que debe trabajar por huir el buen cristiano: del mormurar, escarnecer y juzgar temerariamente"
+            "es-ES": "Capítulo 11. De otra manera de pecados que debe trabajar por huir el buen cristiano: del mormurar, escarnecer y juzgar temerariamente",
+            "pt-BR": "Capítulo 11. De outra espécie de pecados de que o bom cristão deve procurar fugir: o murmurar, o escarnecer e o julgar temerariamente"
           }
         },
         {
           "id": "l2-c12",
           "title": {
-            "es-ES": "Capítulo 12. De los pecados veniales"
+            "es-ES": "Capítulo 12. De los pecados veniales",
+            "pt-BR": "Capítulo 12. Dos pecados veniais"
           }
         },
         {
           "id": "l2-c13",
           "title": {
-            "es-ES": "Capítulo 13. De otros más breves remedios contra todo género de pecados, mayormente contra aquellos siete que llaman «capitales»"
+            "es-ES": "Capítulo 13. De otros más breves remedios contra todo género de pecados, mayormente contra aquellos siete que llaman «capitales»",
+            "pt-BR": "Capítulo 13. De outros remédios mais breves contra todo gênero de pecados, sobretudo contra aqueles sete que chamam “capitais”"
           }
         },
         {
           "id": "l2-c14",
           "title": {
-            "es-ES": "Capítulo 14. De tres maneras de virtudes, en las cuales se comprehende la suma de toda justicia"
+            "es-ES": "Capítulo 14. De tres maneras de virtudes, en las cuales se comprehende la suma de toda justicia",
+            "pt-BR": "Capítulo 14. De três espécies de virtudes, nas quais se compreende a suma de toda a justiça"
           }
         },
         {
           "id": "l2-c15",
           "title": {
-            "es-ES": "Capítulo 15. De lo que debe el hombre hacer para consigo mismo"
+            "es-ES": "Capítulo 15. De lo que debe el hombre hacer para consigo mismo",
+            "pt-BR": "Capítulo 15. Do que o homem deve fazer para consigo mesmo"
           }
         },
         {
           "id": "l2-c16",
           "title": {
-            "es-ES": "Capítulo 16. De lo que el hombre debe hacer para con el prójimo"
+            "es-ES": "Capítulo 16. De lo que el hombre debe hacer para con el prójimo",
+            "pt-BR": "Capítulo 16. Do que o homem deve fazer para com o próximo"
           }
         },
         {
           "id": "l2-c17",
           "title": {
-            "es-ES": "Capítulo 17. De lo que el hombre debe hacer para con Dios"
+            "es-ES": "Capítulo 17. De lo que el hombre debe hacer para con Dios",
+            "pt-BR": "Capítulo 17. Do que o homem deve fazer para com Deus"
           }
         },
         {
           "id": "l2-c18",
           "title": {
-            "es-ES": "Capítulo 18. De las obligaciones de los estados"
+            "es-ES": "Capítulo 18. De las obligaciones de los estados",
+            "pt-BR": "Capítulo 18. Das obrigações dos estados"
           }
         },
         {
           "id": "l2-c19",
           "title": {
-            "es-ES": "Capítulo 19. Aviso primero: de la estima de las virtudes; para mayor entendimiento de esta regla"
+            "es-ES": "Capítulo 19. Aviso primero: de la estima de las virtudes; para mayor entendimiento de esta regla",
+            "pt-BR": "Capítulo 19. Aviso primeiro: da estima das virtudes; para maior entendimento desta regra"
           }
         },
         {
           "id": "l2-c20",
           "title": {
-            "es-ES": "Capítulo 20. De cuatro documentos muy importantes que se siguen de esta doctrina susodicha"
+            "es-ES": "Capítulo 20. De cuatro documentos muy importantes que se siguen de esta doctrina susodicha",
+            "pt-BR": "Capítulo 20. De quatro ensinamentos muito importantes que se seguem desta doutrina sobredita"
           }
         },
         {
           "id": "l2-c21",
           "title": {
-            "es-ES": "Capítulo 21. Segundo aviso, acerca de diversas maneras de vidas que hay en la Iglesia"
+            "es-ES": "Capítulo 21. Segundo aviso, acerca de diversas maneras de vidas que hay en la Iglesia",
+            "pt-BR": "Capítulo 21. Segundo aviso, acerca das diversas maneiras de vida que há na Igreja"
           }
         },
         {
           "id": "l2-c22",
           "title": {
-            "es-ES": "Capítulo 22. Tercero aviso, de la solicitud y vigilancia con que debe vivir el varón virtuoso"
+            "es-ES": "Capítulo 22. Tercero aviso, de la solicitud y vigilancia con que debe vivir el varón virtuoso",
+            "pt-BR": "Capítulo 22. Terceiro aviso, da solicitude e vigilância com que deve viver o varão virtuoso"
           }
         },
         {
           "id": "l2-c23",
           "title": {
-            "es-ES": "Capítulo 23. Cuarto aviso, de la fortaleza que se requiere para alcanzar las virtudes [Apéndice] Al cristiano lector"
+            "es-ES": "Capítulo 23. Cuarto aviso, de la fortaleza que se requiere para alcanzar las virtudes [Apéndice] Al cristiano lector",
+            "pt-BR": "Capítulo 23. Quarto aviso, da fortaleza que se requer para alcançar as virtudes [Apêndice] Ao leitor cristão"
           }
         }
       ]
