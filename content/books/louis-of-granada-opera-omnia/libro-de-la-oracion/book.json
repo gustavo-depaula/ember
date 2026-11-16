@@ -14,17 +14,23 @@
   "description": {
     "es-ES": "Libro de Fray Luis de Granada (1554) que enseña a orar meditando los misterios de la fe: catorce meditaciones para los días de la semana (la Pasión por la mañana; muerte, juicio, infierno, gloria y beneficios por la noche), el método de la oración, la segunda parte sobre la devoción y sus impedimentos, tres sermones sobre la oración y los tres breves tratados de la oración, el ayuno y la limosna.",
     "en-US": "Fray Luis de Granada's book (1554) teaching how to pray by meditating on the mysteries of the faith: fourteen meditations for the days of the week (the Passion in the morning; death, judgment, hell, heaven and God's benefits at night), the method of prayer, the second part on devotion and its obstacles, three sermons on prayer and the three short treatises on prayer, fasting and almsgiving.",
-    "pt-BR": "Livro de Frei Luís de Granada (1554) que ensina a rezar meditando os mistérios da fé: catorze meditações para os dias da semana, o método da oração, a segunda parte sobre a devoção e seus impedimentos, três sermões sobre a oração e os três breves tratados da oração, do jejum e da esmola."
+    "pt-BR": "Livro de Frei Luís de Granada (1554) que ensina a rezar meditando os mistérios da fé: catorze meditações para os dias da semana (a Paixão pela manhã; morte, juízo, inferno, glória e benefícios à noite), o método da oração, a segunda parte sobre a devoção e seus impedimentos, três sermões sobre a oração e os três breves tratados da oração, do jejum e da esmola."
   },
   "composed": "1554-1566",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "louis-of-granada/libro-de-la-oracion",
   "editions": {
     "es-ES": {
       "editor": "Justo Cuervo OP",
       "year": 1906
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,211 +47,246 @@
     {
       "id": "epistola",
       "title": {
-        "es-ES": "Epístola del autor"
+        "es-ES": "Epístola del autor",
+        "pt-BR": "Epístola do autor"
       }
     },
     {
       "id": "prologo",
       "title": {
-        "es-ES": "Prólogo y argumento deste libro"
+        "es-ES": "Prólogo y argumento deste libro",
+        "pt-BR": "Prólogo e argumento deste livro"
       }
     },
     {
       "id": "parte-1",
       "title": {
-        "es-ES": "Primera parte: de la materia de la oración"
+        "es-ES": "Primera parte: de la materia de la oración",
+        "pt-BR": "Primeira parte: da matéria da oração"
       },
       "children": [
         {
           "id": "p1-cap1",
           "title": {
-            "es-ES": "Primera parte, capítulo I. De la virtud y excelencias de la oración"
+            "es-ES": "Primera parte, capítulo I. De la virtud y excelencias de la oración",
+            "pt-BR": "Primeira parte, capítulo I. Da virtude e excelências da oração"
           }
         },
         {
           "id": "p1-cap2",
           "title": {
-            "es-ES": "Primera parte, capítulo II. De dos maneras de oración y de las meditaciones para los días de la semana"
+            "es-ES": "Primera parte, capítulo II. De dos maneras de oración y de las meditaciones para los días de la semana",
+            "pt-BR": "Primeira parte, capítulo II. De duas maneiras de oração e das meditações para os dias da semana"
           }
         },
         {
           "id": "p1-cap3",
           "title": {
-            "es-ES": "Primera parte, capítulo III. De cinxo partes que tiene la oración"
+            "es-ES": "Primera parte, capítulo III. De cinxo partes que tiene la oración",
+            "pt-BR": "Primeira parte, capítulo III. De cinco partes que a oração tem"
           }
         },
         {
           "id": "p1-m1-manana",
           "title": {
-            "es-ES": "Meditación del lunes por la mañana"
+            "es-ES": "Meditación del lunes por la mañana",
+            "pt-BR": "Meditação de segunda-feira de manhã"
           }
         },
         {
           "id": "p1-m2-manana",
           "title": {
-            "es-ES": "Meditación del martes por la mañana"
+            "es-ES": "Meditación del martes por la mañana",
+            "pt-BR": "Meditação de terça-feira de manhã"
           }
         },
         {
           "id": "p1-m3-manana",
           "title": {
-            "es-ES": "Meditación del miércoles por la mañana"
+            "es-ES": "Meditación del miércoles por la mañana",
+            "pt-BR": "Meditação de quarta-feira de manhã"
           }
         },
         {
           "id": "p1-m4-manana",
           "title": {
-            "es-ES": "Meditación del jueves por la mañana"
+            "es-ES": "Meditación del jueves por la mañana",
+            "pt-BR": "Meditação de quinta-feira de manhã"
           }
         },
         {
           "id": "p1-m5-manana",
           "title": {
-            "es-ES": "Meditación del viernes por la mañana"
+            "es-ES": "Meditación del viernes por la mañana",
+            "pt-BR": "Meditação de sexta-feira de manhã"
           }
         },
         {
           "id": "p1-m6-manana",
           "title": {
-            "es-ES": "Meditación del sábado por la mañana"
+            "es-ES": "Meditación del sábado por la mañana",
+            "pt-BR": "Meditação de sábado de manhã"
           }
         },
         {
           "id": "p1-m7-manana",
           "title": {
-            "es-ES": "Meditación del domingo por la mañana"
+            "es-ES": "Meditación del domingo por la mañana",
+            "pt-BR": "Meditação de domingo de manhã"
           }
         },
         {
           "id": "p1-m1-noche",
           "title": {
-            "es-ES": "Meditación del lunes en la noche"
+            "es-ES": "Meditación del lunes en la noche",
+            "pt-BR": "Meditação de segunda-feira à noite"
           }
         },
         {
           "id": "p1-tratado1",
           "title": {
-            "es-ES": "Tratado primero. De la consideración de los pecados"
+            "es-ES": "Tratado primero. De la consideración de los pecados",
+            "pt-BR": "Tratado primeiro. Da consideração dos pecados"
           }
         },
         {
           "id": "p1-m2-noche",
           "title": {
-            "es-ES": "Meditación del martes en la noche"
+            "es-ES": "Meditación del martes en la noche",
+            "pt-BR": "Meditação de terça-feira à noite"
           }
         },
         {
           "id": "p1-tratado2",
           "title": {
-            "es-ES": "Tratado segundo. De la consideración de las miserias de la vida humana"
+            "es-ES": "Tratado segundo. De la consideración de las miserias de la vida humana",
+            "pt-BR": "Tratado segundo. Da consideração das misérias da vida humana"
           }
         },
         {
           "id": "p1-m3-noche",
           "title": {
-            "es-ES": "Meditación del miércoles en la noche"
+            "es-ES": "Meditación del miércoles en la noche",
+            "pt-BR": "Meditação de quarta-feira à noite"
           }
         },
         {
           "id": "p1-tratado3",
           "title": {
-            "es-ES": "Tratado tercero. En el cual se trata de la consideración de la muerte"
+            "es-ES": "Tratado tercero. En el cual se trata de la consideración de la muerte",
+            "pt-BR": "Tratado terceiro. No qual se trata da consideração da morte"
           }
         },
         {
           "id": "p1-m4-noche",
           "title": {
-            "es-ES": "Meditación del jueves en la noche"
+            "es-ES": "Meditación del jueves en la noche",
+            "pt-BR": "Meditação de quinta-feira à noite"
           }
         },
         {
           "id": "p1-tratado4",
           "title": {
-            "es-ES": "Tratado cuarto. De la consideración del juicio final"
+            "es-ES": "Tratado cuarto. De la consideración del juicio final",
+            "pt-BR": "Tratado quarto. Da consideração do juízo final"
           }
         },
         {
           "id": "p1-m5-noche",
           "title": {
-            "es-ES": "Meditación del viernes en la noche"
+            "es-ES": "Meditación del viernes en la noche",
+            "pt-BR": "Meditação de sexta-feira à noite"
           }
         },
         {
           "id": "p1-tratado5",
           "title": {
-            "es-ES": "Tratado quinto. De la consideración de las penas del infierno"
+            "es-ES": "Tratado quinto. De la consideración de las penas del infierno",
+            "pt-BR": "Tratado quinto. Da consideração das penas do inferno"
           }
         },
         {
           "id": "p1-m6-noche",
           "title": {
-            "es-ES": "Meditación del sábado en la noche"
+            "es-ES": "Meditación del sábado en la noche",
+            "pt-BR": "Meditação de sábado à noite"
           }
         },
         {
           "id": "p1-tratado6",
           "title": {
-            "es-ES": "Tratado sexto. De la consideración de la gloria del paraíso"
+            "es-ES": "Tratado sexto. De la consideración de la gloria del paraíso",
+            "pt-BR": "Tratado sexto. Da consideração da glória do paraíso"
           }
         },
         {
           "id": "p1-m7-noche",
           "title": {
-            "es-ES": "Meditación del domingo en la noche"
+            "es-ES": "Meditación del domingo en la noche",
+            "pt-BR": "Meditação de domingo à noite"
           }
         },
         {
           "id": "p1-tratado7",
           "title": {
-            "es-ES": "Tratado séptimo. De la consideración de los beneficios divinos"
+            "es-ES": "Tratado séptimo. De la consideración de los beneficios divinos",
+            "pt-BR": "Tratado sétimo. Da consideração dos benefícios divinos"
           }
         },
         {
           "id": "p1-cap4",
           "title": {
-            "es-ES": "Primera parte, capítulo IV. De cinco partes que puede tener la oración"
+            "es-ES": "Primera parte, capítulo IV. De cinco partes que puede tener la oración",
+            "pt-BR": "Primeira parte, capítulo IV. De cinco partes que a oração pode ter"
           }
         },
         {
           "id": "p1-cap5",
           "title": {
-            "es-ES": "Primera parte, capítulo V. De la preparación que se requiere para antes de la oración"
+            "es-ES": "Primera parte, capítulo V. De la preparación que se requiere para antes de la oración",
+            "pt-BR": "Primeira parte, capítulo V. Da preparação que se requer antes da oração"
           }
         },
         {
           "id": "p1-cap6",
           "title": {
-            "es-ES": "Primera parte, capítulo VI. De la lición"
+            "es-ES": "Primera parte, capítulo VI. De la lición",
+            "pt-BR": "Primeira parte, capítulo VI. Da leitura"
           }
         },
         {
           "id": "p1-cap7",
           "title": {
-            "es-ES": "Primera parte, capítulo VII. De la meditación"
+            "es-ES": "Primera parte, capítulo VII. De la meditación",
+            "pt-BR": "Primeira parte, capítulo VII. Da meditação"
           }
         },
         {
           "id": "p1-cap8",
           "title": {
-            "es-ES": "Primera parte, capítulo VIII. Del hacimiento de gracias"
+            "es-ES": "Primera parte, capítulo VIII. Del hacimiento de gracias",
+            "pt-BR": "Primeira parte, capítulo VIII. Da ação de graças"
           }
         },
         {
           "id": "p1-cap9",
           "title": {
-            "es-ES": "Primera parte, capítulo IX. De la petición"
+            "es-ES": "Primera parte, capítulo IX. De la petición",
+            "pt-BR": "Primeira parte, capítulo IX. Da petição"
           }
         },
         {
           "id": "p1-cap10",
           "title": {
-            "es-ES": "Primera parte, capítulo X. De algunos avisos que se han de tener en estas clnco partes susodichas, especialmente acerca de la meditación"
+            "es-ES": "Primera parte, capítulo X. De algunos avisos que se han de tener en estas clnco partes susodichas, especialmente acerca de la meditación",
+            "pt-BR": "Primeira parte, capítulo X. De alguns avisos que se devem ter nestas cinco partes sobreditas, especialmente acerca da meditação"
           }
         },
         {
           "id": "p1-cap11",
           "title": {
-            "es-ES": "Primera parte, capítulo último. De seis cosas que debemos meditar en la Pasión del Salvador"
+            "es-ES": "Primera parte, capítulo último. De seis cosas que debemos meditar en la Pasión del Salvador",
+            "pt-BR": "Primeira parte, último capítulo. De seis coisas que devemos meditar na Paixão do Salvador"
           }
         }
       ]
@@ -253,43 +294,50 @@
     {
       "id": "parte-2",
       "title": {
-        "es-ES": "Segunda parte: de la devoción y de las cosas que la ayudan o impiden"
+        "es-ES": "Segunda parte: de la devoción y de las cosas que la ayudan o impiden",
+        "pt-BR": "Segunda parte: da devoção e das coisas que a ajudam ou impedem"
       },
       "children": [
         {
           "id": "p2-cap1",
           "title": {
-            "es-ES": "Segunda parte, capítulo I. En el cual se declara qué cosa sea devoción"
+            "es-ES": "Segunda parte, capítulo I. En el cual se declara qué cosa sea devoción",
+            "pt-BR": "Segunda parte, capítulo I. No qual se declara o que é devoção"
           }
         },
         {
           "id": "p2-cap2",
           "title": {
-            "es-ES": "Segunda parte, capítulo II. De las cosas que ayudan para alcanzar la verdadera devoción"
+            "es-ES": "Segunda parte, capítulo II. De las cosas que ayudan para alcanzar la verdadera devoción",
+            "pt-BR": "Segunda parte, capítulo II. Das coisas que ajudam a alcançar a verdadeira devoção"
           }
         },
         {
           "id": "p2-cap3",
           "title": {
-            "es-ES": "Segunda parte, capítulo III. De las cosas que impiden la devoción"
+            "es-ES": "Segunda parte, capítulo III. De las cosas que impiden la devoción",
+            "pt-BR": "Segunda parte, capítulo III. Das coisas que impedem a devoção"
           }
         },
         {
           "id": "p2-cap4",
           "title": {
-            "es-ES": "Segunda parte, capítulo IV. De las tentaciones más comunes que suelen fatigar a las personas que se dan á la oración"
+            "es-ES": "Segunda parte, capítulo IV. De las tentaciones más comunes que suelen fatigar a las personas que se dan á la oración",
+            "pt-BR": "Segunda parte, capítulo IV. Das tentações mais comuns que costumam afligir as pessoas que se dão à oração"
           }
         },
         {
           "id": "p2-cap5",
           "title": {
-            "es-ES": "Segunda parte, capítulo V. De algunos avisos que se deben tener en estos ejercicios contra los engaños del enemigo"
+            "es-ES": "Segunda parte, capítulo V. De algunos avisos que se deben tener en estos ejercicios contra los engaños del enemigo",
+            "pt-BR": "Segunda parte, capítulo V. De alguns avisos que se devem ter nestes exercícios contra os enganos do inimigo"
           }
         },
         {
           "id": "p2-conclusion",
           "title": {
-            "es-ES": "Conclusión de la segunda parte"
+            "es-ES": "Conclusión de la segunda parte",
+            "pt-BR": "Conclusão da segunda parte"
           }
         }
       ]
@@ -297,31 +345,36 @@
     {
       "id": "parte-3",
       "title": {
-        "es-ES": "Tercera parte: sermones de la oración"
+        "es-ES": "Tercera parte: sermones de la oración",
+        "pt-BR": "Terceira parte: sermões da oração"
       },
       "children": [
         {
           "id": "p3-intro",
           "title": {
-            "es-ES": "Tercera parte: al lector. De la oración en la cual se trata de la virtud y perseverancia de la oración"
+            "es-ES": "Tercera parte: al lector. De la oración en la cual se trata de la virtud y perseverancia de la oración",
+            "pt-BR": "Terceira parte: ao leitor. Da oração, em que se trata da virtude e perseverança da oração"
           }
         },
         {
           "id": "p3-sermon1",
           "title": {
-            "es-ES": "Sermón primero. En el cual así por razones como por experiencia se declara de cuánto provecho sea esta virtud"
+            "es-ES": "Sermón primero. En el cual así por razones como por experiencia se declara de cuánto provecho sea esta virtud",
+            "pt-BR": "Sermão primeiro. No qual, tanto por razões como por experiência, se declara de quanto proveito é esta virtude"
           }
         },
         {
           "id": "p3-sermon2",
           "title": {
-            "es-ES": "Sermón segundo. Y asimismo de la utilidad grande della"
+            "es-ES": "Sermón segundo. Y asimismo de la utilidad grande della",
+            "pt-BR": "Sermão segundo. E também da grande utilidade dela"
           }
         },
         {
           "id": "p3-sermon3",
           "title": {
-            "es-ES": "Sermón tercero. De la oración"
+            "es-ES": "Sermón tercero. De la oración",
+            "pt-BR": "Sermão terceiro. Da oração"
           }
         }
       ]
@@ -329,31 +382,36 @@
     {
       "id": "tres-tratados",
       "title": {
-        "es-ES": "Tres breves tratados: oración, ayuno y limosna"
+        "es-ES": "Tres breves tratados: oración, ayuno y limosna",
+        "pt-BR": "Três breves tratados: oração, jejum e esmola"
       },
       "children": [
         {
           "id": "t3-prologo",
           "title": {
-            "es-ES": "Tres breves tratados: prólogo"
+            "es-ES": "Tres breves tratados: prólogo",
+            "pt-BR": "Três breves tratados: prólogo"
           }
         },
         {
           "id": "t3-oracion",
           "title": {
-            "es-ES": "Tratado primero, de la oración. De la virtud y excelencia. de la oración"
+            "es-ES": "Tratado primero, de la oración. De la virtud y excelencia. de la oración",
+            "pt-BR": "Tratado primeiro, da oração. Da virtude e excelência da oração"
           }
         },
         {
           "id": "t3-ayuno",
           "title": {
-            "es-ES": "Tratado segundo, del ayuno. De la virtud del ayuno v asperezas corporales"
+            "es-ES": "Tratado segundo, del ayuno. De la virtud del ayuno v asperezas corporales",
+            "pt-BR": "Tratado segundo, do jejum. Da virtude do jejum e das asperezas corporais"
           }
         },
         {
           "id": "t3-limosna",
           "title": {
-            "es-ES": "Tratado tercero, de la limosna. De la limosna y misericordia"
+            "es-ES": "Tratado tercero, de la limosna. De la limosna y misericordia",
+            "pt-BR": "Tratado terceiro, da esmola. Da esmola e misericórdia"
           }
         }
       ]
