@@ -19,7 +19,8 @@
   "composed": "c. 1420-1430",
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "thomas-a-kempis/hortulus-rosarum",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "anonymous (Murphy, Baltimore)",
       "year": 1867
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -55,126 +61,144 @@
       "id": "p1-01",
       "title": {
         "la": "1. De bona societate quaerenda et mala cavenda",
-        "en-US": "1. On seeking the company of the good, and flying that of the bad"
+        "en-US": "1. On seeking the company of the good, and flying that of the bad",
+        "pt-BR": "1. Da busca da boa companhia e do cuidado de evitar a má"
       }
     },
     {
       "id": "p1-02",
       "title": {
         "la": "2. De fuga saeculi et laqueis diaboli",
-        "en-US": "2. On flying the world, and the snares of the devil"
+        "en-US": "2. On flying the world, and the snares of the devil",
+        "pt-BR": "2. Da fuga do mundo e dos laços do diabo"
       }
     },
     {
       "id": "p1-03",
       "title": {
         "la": "3. De vera sapientia quaerenda apud deum",
-        "en-US": "3. True wisdom must be sought of God"
+        "en-US": "3. True wisdom must be sought of God",
+        "pt-BR": "3. Da busca da verdadeira sabedoria junto de Deus"
       }
     },
     {
       "id": "p1-04",
       "title": {
         "la": "4. RQ renum caelorum vim patitur. j QQ Multorum est incipere; paucorum proficere: paucissimorum ad perfectionem pervenire. Aut enim ad carnem nimis labimur; aut in",
-        "en-US": "4. On warring against our own vices"
+        "en-US": "4. On warring against our own vices",
+        "pt-BR": "4. Do combate contra os próprios vícios"
       }
     },
     {
       "id": "p1-05",
       "title": {
         "la": "5. De devotionis gratia acquirenda",
-        "en-US": "5. On the necessity of acquiring the grace of devotion"
+        "en-US": "5. On the necessity of acquiring the grace of devotion",
+        "pt-BR": "5. Da aquisição da graça da devoção"
       }
     },
     {
       "id": "p1-06",
       "title": {
         "la": "6. De auditione et lectione divini sermonis",
-        "en-US": "6. On hearing and reading the divine word"
+        "en-US": "6. On hearing and reading the divine word",
+        "pt-BR": "6. Da escuta e da leitura da palavra divina"
       }
     },
     {
       "id": "p1-07",
       "title": {
         "la": "7. De divina consolatione in tribulatione",
-        "en-US": "7. On divine consolation in tribulation"
+        "en-US": "7. On divine consolation in tribulation",
+        "pt-BR": "7. Da consolação divina na tribulação"
       }
     },
     {
       "id": "p1-08",
       "title": {
         "la": "8. De gaudio bonae conscientiae in spiritu sancto",
-        "en-US": "8. On the joy of a good con- science in the Holy spirit"
+        "en-US": "8. On the joy of a good con- science in the Holy spirit",
+        "pt-BR": "8. Da alegria da boa consciência no Espírito Santo"
       }
     },
     {
       "id": "p1-09",
       "title": {
         "la": "9. De bonis moribus humilis fratris",
-        "en-US": "9. On the edifying demeanor of an humble brother"
+        "en-US": "9. On the edifying demeanor of an humble brother",
+        "pt-BR": "9. Dos bons costumes do irmão humilde"
       }
     },
     {
       "id": "p1-10",
       "title": {
         "la": "10. De instabilitate humani cordis",
-        "en-US": "10. On the instability of the human heart"
+        "en-US": "10. On the instability of the human heart",
+        "pt-BR": "10. Da instabilidade do coração humano"
       }
     },
     {
       "id": "p1-11",
       "title": {
         "la": "11. De fiducia in deo habenda tempore angustiae",
-        "en-US": "11. On trust in God in time of trouble"
+        "en-US": "11. On trust in God in time of trouble",
+        "pt-BR": "11. Da confiança em Deus no tempo da angústia"
       }
     },
     {
       "id": "p1-12",
       "title": {
         "la": "12. De virtute orationis et utilitate sacrae lectionis",
-        "en-US": "12. On the efficacy of prayer, and the advantages of pious reading"
+        "en-US": "12. On the efficacy of prayer, and the advantages of pious reading",
+        "pt-BR": "12. Da força da oração e da utilidade da leitura sagrada"
       }
     },
     {
       "id": "p1-13",
       "title": {
         "la": "13. De laude caritatis et fructibus eius",
-        "en-US": "13. On the praises of charity, and its fruits"
+        "en-US": "13. On the praises of charity, and its fruits",
+        "pt-BR": "13. Do louvor da caridade e de seus frutos"
       }
     },
     {
       "id": "p1-14",
       "title": {
         "la": "14. De vigili cura et labore contra temptationes",
-        "en-US": "14. On watching and striving against temptations"
+        "en-US": "14. On watching and striving against temptations",
+        "pt-BR": "14. Do cuidado vigilante e do esforço contra as tentações"
       }
     },
     {
       "id": "p1-15",
       "title": {
         "la": "15. De fraterno onere invicem portando",
-        "en-US": "15. On bearing one another's burthens"
+        "en-US": "15. On bearing one another's burthens",
+        "pt-BR": "15. De carregar mutuamente os fardos dos irmãos"
       }
     },
     {
       "id": "p1-16",
       "title": {
         "la": "16. De amore Christi et odio mundi",
-        "en-US": "16. On the love of Christ, and hatred of the world"
+        "en-US": "16. On the love of Christ, and hatred of the world",
+        "pt-BR": "16. Do amor de Cristo e do ódio ao mundo"
       }
     },
     {
       "id": "p1-17",
       "title": {
         "la": "17. De imitatione sanctissimae vitae Domini nostri Iesu Christi",
-        "en-US": "17. On thfr imitation of the most Holy life of our Lord Jesus Christ"
+        "en-US": "17. On thfr imitation of the most Holy life of our Lord Jesus Christ",
+        "pt-BR": "17. Da imitação da santíssima vida de nosso Senhor Jesus Cristo"
       }
     },
     {
       "id": "p1-18",
       "title": {
         "la": "18. De aeterna laude Dei",
-        "en-US": "18. On the eternal praise of God"
+        "en-US": "18. On the eternal praise of God",
+        "pt-BR": "18. Do louvor eterno de Deus"
       }
     }
   ]
