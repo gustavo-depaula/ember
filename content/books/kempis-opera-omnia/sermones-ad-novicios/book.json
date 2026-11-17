@@ -19,7 +19,8 @@
   "composed": "c. 1425-1440",
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "thomas-a-kempis/sermones-ad-novicios",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "Vincent Scully, C.R.L.",
       "year": 1907
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -54,77 +60,88 @@
     {
       "id": "prologue",
       "title": {
-        "en-US": "Prologue"
+        "en-US": "Prologue",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "part-1",
       "title": {
         "la": "Pars prima",
-        "en-US": "Part I"
+        "en-US": "Part I",
+        "pt-BR": "Primeira parte"
       },
       "children": [
         {
           "id": "p1-01",
           "title": {
             "la": "1. De concordia fratrum et melodia divinae laudis",
-            "en-US": "Sermon I. Of the Concord of Brethren and the Melody of Divine Praise"
+            "en-US": "Sermon I. Of the Concord of Brethren and the Melody of Divine Praise",
+            "pt-BR": "1. Da concórdia dos irmãos e da melodia do louvor divino"
           }
         },
         {
           "id": "p1-02",
           "title": {
             "la": "2. De laude bonae congregationis",
-            "en-US": "Sermon II. Of the Praise of a Good Congregation"
+            "en-US": "Sermon II. Of the Praise of a Good Congregation",
+            "pt-BR": "2. Do louvor da boa congregação"
           }
         },
         {
           "id": "p1-03",
           "title": {
             "la": "3. De verbis et consiliis seniorum humiliter audiendis",
-            "en-US": "Sermon III. Of Humbly Hearing the Words and Counsels of Elders"
+            "en-US": "Sermon III. Of Humbly Hearing the Words and Counsels of Elders",
+            "pt-BR": "3. De ouvir humildemente as palavras e os conselhos dos anciãos"
           }
         },
         {
           "id": "p1-04",
           "title": {
             "la": "4. De bonis colloquiis invicem habendis",
-            "en-US": "Sermon IV. Of Holding Good Discourses Together"
+            "en-US": "Sermon IV. Of Holding Good Discourses Together",
+            "pt-BR": "4. Das boas conversas que se devem ter uns com os outros"
           }
         },
         {
           "id": "p1-05",
           "title": {
             "la": "5. De patientia conservanda inter desides et perversos",
-            "en-US": "Sermon V. Of Having Patience Amid the Slothful and Perverse"
+            "en-US": "Sermon V. Of Having Patience Amid the Slothful and Perverse",
+            "pt-BR": "5. Da paciência que se deve guardar entre os preguiçosos e os perversos"
           }
         },
         {
           "id": "p1-06",
           "title": {
             "la": "6. De vigiliis nocturnis contra impugnationem soporis",
-            "en-US": "Sermon VI. Of the Night Watches Against the Assault of Sleepiness"
+            "en-US": "Sermon VI. Of the Night Watches Against the Assault of Sleepiness",
+            "pt-BR": "6. Das vigílias noturnas contra o assalto do sono"
           }
         },
         {
           "id": "p1-07",
           "title": {
             "la": "7. Operis cum oboedientia superioris",
-            "en-US": "Sermon VII. Of Guarding the Mouth and Diligence in Labour with Obedience to the Superior"
+            "en-US": "Sermon VII. Of Guarding the Mouth and Diligence in Labour with Obedience to the Superior",
+            "pt-BR": "7. Da guarda da boca e da diligência no trabalho, com obediência ao superior"
           }
         },
         {
           "id": "p1-08",
           "title": {
             "la": "8. De vana gloria cavenda et quod soli deo laus est exhibenda",
-            "en-US": "Sermon VIII. Of Shunning Vainglory, and that Praise is to be Rendered to God Alone"
+            "en-US": "Sermon VIII. Of Shunning Vainglory, and that Praise is to be Rendered to God Alone",
+            "pt-BR": "8. De evitar a vanglória, e que só a Deus se deve tributar louvor"
           }
         },
         {
           "id": "p1-09",
           "title": {
             "la": "9. De periculo multorum malorum ex multiloquio verborum",
-            "en-US": "Sermon IX. Of the Risk of Many Evils from Much Bandying of Words"
+            "en-US": "Sermon IX. Of the Risk of Many Evils from Much Bandying of Words",
+            "pt-BR": "9. Do perigo de muitos males que vêm do excesso de palavras"
           }
         }
       ]
@@ -133,77 +150,88 @@
       "id": "part-2",
       "title": {
         "la": "Pars secunda",
-        "en-US": "Part II"
+        "en-US": "Part II",
+        "pt-BR": "Segunda parte"
       },
       "children": [
         {
           "id": "p2-01",
           "title": {
             "la": "1. De multis tribulationibus iustorum pro regno caelorum",
-            "en-US": "Sermon X. Of the Many Trials of the Just for the Kingdom of Heaven"
+            "en-US": "Sermon X. Of the Many Trials of the Just for the Kingdom of Heaven",
+            "pt-BR": "1. Das muitas tribulações dos justos pelo reino dos céus"
           }
         },
         {
           "id": "p2-02",
           "title": {
             "la": "2. De cotidiano martyrio et bello in statu religionis",
-            "en-US": "Sermon XI. Of the Daily Martyrdom and Warfare in the Religious State"
+            "en-US": "Sermon XI. Of the Daily Martyrdom and Warfare in the Religious State",
+            "pt-BR": "2. Do martírio e da guerra de cada dia no estado religioso"
           }
         },
         {
           "id": "p2-03",
           "title": {
             "la": "3. De sapientia confessorum et continentia religiosorum",
-            "en-US": "Sermon XII. Of the Wisdom of Confessors and the Continence of Religious"
+            "en-US": "Sermon XII. Of the Wisdom of Confessors and the Continence of Religious",
+            "pt-BR": "3. Da sabedoria dos confessores e da continência dos religiosos"
           }
         },
         {
           "id": "p2-04",
           "title": {
             "la": "4. De cauta custodia cordis, et gratia internae devotionis",
-            "en-US": "Sermon XIII. Of a Careful Watch Over the Heart, and the Grace of Interior Devotion"
+            "en-US": "Sermon XIII. Of a Careful Watch Over the Heart, and the Grace of Interior Devotion",
+            "pt-BR": "4. Da guarda cautelosa do coração e da graça da devoção interior"
           }
         },
         {
           "id": "p2-05",
           "title": {
             "la": "5. De constantia et perseverantia in statu religionis",
-            "en-US": "Sermon XIV. Of Constancy and Perseverance in the State of Religion"
+            "en-US": "Sermon XIV. Of Constancy and Perseverance in the State of Religion",
+            "pt-BR": "5. Da constância e da perseverança no estado religioso"
           }
         },
         {
           "id": "p2-06",
           "title": {
             "la": "6. De cauta custodia iuvenum contra multas temptationes",
-            "en-US": "Sermon XV. Of Careful Watchfulness of the Young Against Many Temptations"
+            "en-US": "Sermon XV. Of Careful Watchfulness of the Young Against Many Temptations",
+            "pt-BR": "6. Da guarda cautelosa dos jovens contra muitas tentações"
           }
         },
         {
           "id": "p2-07",
           "title": {
             "la": "7. De districto dei iudicio ubi accusabunt nos omnes creaturae",
-            "en-US": "Sermon XVI. Of the Strict Judgement of God, where all Creatures shall Accuse us"
+            "en-US": "Sermon XVI. Of the Strict Judgement of God, where all Creatures shall Accuse us",
+            "pt-BR": "7. Do rigoroso juízo de Deus, onde todas as criaturas nos acusarão"
           }
         },
         {
           "id": "p2-08",
           "title": {
             "la": "8. De vana gloria vitanda, et humili oboedientia sectanda",
-            "en-US": "Sermon XVII. Of Shunning Vainglory and Pursuing Humble Obedience"
+            "en-US": "Sermon XVII. Of Shunning Vainglory and Pursuing Humble Obedience",
+            "pt-BR": "8. De evitar a vanglória e seguir a obediência humilde"
           }
         },
         {
           "id": "p2-09",
           "title": {
             "la": "9. De spirituali militia contra vitia",
-            "en-US": "Sermon XVIII. Of the Spiritual Warfare Against Vices"
+            "en-US": "Sermon XVIII. Of the Spiritual Warfare Against Vices",
+            "pt-BR": "9. Da milícia espiritual contra os vícios"
           }
         },
         {
           "id": "p2-10",
           "title": {
             "la": "10. De variis bellis et periculis hvius vitae",
-            "en-US": "Sermon XIX. Of the Divers Wars and Perils of this Life"
+            "en-US": "Sermon XIX. Of the Divers Wars and Perils of this Life",
+            "pt-BR": "10. Das várias guerras e perigos desta vida"
           }
         }
       ]
@@ -212,84 +240,96 @@
       "id": "part-3",
       "title": {
         "la": "Pars tertia",
-        "en-US": "Part III"
+        "en-US": "Part III",
+        "pt-BR": "Terceira parte"
       },
       "children": [
         {
           "id": "p3-01",
           "title": {
             "la": "1. De cruce cotidie tollenda in religione assumpta",
-            "en-US": "Sermon XX. Of Daily Taking Up the Cross Embraced in Religion"
+            "en-US": "Sermon XX. Of Daily Taking Up the Cross Embraced in Religion",
+            "pt-BR": "1. Da cruz que se deve tomar cada dia na vida religiosa abraçada"
           }
         },
         {
           "id": "p3-02",
           "title": {
             "la": "2. De veneratione et commemoratione beatae mariae virginis",
-            "en-US": "Sermon XXI. Of the Veneration and Commemoration of the Blessed Virgin Mary"
+            "en-US": "Sermon XXI. Of the Veneration and Commemoration of the Blessed Virgin Mary",
+            "pt-BR": "2. Da veneração e da comemoração da bem-aventurada Virgem Maria"
           }
         },
         {
           "id": "p3-03",
           "title": {
             "la": "3. Eius mariae",
-            "en-US": "Sermon XXII. Of the Praise of the Most Sweet Name of Jesus: and of His Most Sweet Mother Mary"
+            "en-US": "Sermon XXII. Of the Praise of the Most Sweet Name of Jesus: and of His Most Sweet Mother Mary",
+            "pt-BR": "3. Do louvor do dulcíssimo nome de Jesus e de sua dulcíssima Mãe Maria"
           }
         },
         {
           "id": "p3-04",
           "title": {
             "la": "4. De devoto servitio beatae virginis et recordatione nominis eius",
-            "en-US": "Sermon XXIII. Of the Devout Service of the Blessed Virgin and the Remembrance of her Name"
+            "en-US": "Sermon XXIII. Of the Devout Service of the Blessed Virgin and the Remembrance of her Name",
+            "pt-BR": "4. Do devoto serviço da bem-aventurada Virgem e da lembrança do seu nome"
           }
         },
         {
           "id": "p3-05",
           "title": {
             "la": "5. De dolore et consolatione beatae mariae virginis",
-            "en-US": "Sermon XXIV. Of the Sorrow and Consolation of the Blessed Virgin Mary"
+            "en-US": "Sermon XXIV. Of the Sorrow and Consolation of the Blessed Virgin Mary",
+            "pt-BR": "5. Da dor e da consolação da bem-aventurada Virgem Maria"
           }
         },
         {
           "id": "p3-06",
           "title": {
             "la": "6. De excellentia meritorum et privilegiis donorum beatae mariae virginis",
-            "en-US": "Sermon XXV. Of the Excellence of the Merits and of the Privileges of the Gifts of the Blessed Virgin Mary"
+            "en-US": "Sermon XXV. Of the Excellence of the Merits and of the Privileges of the Gifts of the Blessed Virgin Mary",
+            "pt-BR": "6. Da excelência dos méritos e dos privilégios dos dons da bem-aventurada Virgem Maria"
           }
         },
         {
           "id": "p3-07",
           "title": {
             "la": "7. De tribus speciosis vestibus beatissimae agnetis virginis",
-            "en-US": "Sermon XXVI. Of the Three Lovely Garments of Most Blessed Agnes, Virgin"
+            "en-US": "Sermon XXVI. Of the Three Lovely Garments of Most Blessed Agnes, Virgin",
+            "pt-BR": "7. Das três belas vestes da beatíssima Inês, virgem"
           }
         },
         {
           "id": "p3-08",
           "title": {
             "la": "8. De aurea corona in capite sanctissimae agnetis virginis",
-            "en-US": "Sermon XXVII. Of the Golden Crown on the Head of Most Holy Agnes, Virgin"
+            "en-US": "Sermon XXVII. Of the Golden Crown on the Head of Most Holy Agnes, Virgin",
+            "pt-BR": "8. Da coroa de ouro na cabeça da santíssima Inês, virgem"
           }
         },
         {
           "id": "p3-09",
           "title": {
             "la": "9. In dedicatione ecclesiae. de quinque luminaribus templi",
-            "en-US": "Sermon XXVIII. On the Dedication of the Church: of the Five Lamps of the Temple"
+            "en-US": "Sermon XXVIII. On the Dedication of the Church: of the Five Lamps of the Temple",
+            "pt-BR": "9. Na dedicação da igreja: das cinco lâmpadas do templo"
           }
         },
         {
           "id": "p3-10",
           "title": {
             "la": "10. De ornamentis et moribus ministrorum in templo dei",
-            "en-US": "Sermon XXIX. Of the Ornaments and Virtues of the Ministers in the Temple of God"
+            "en-US": "Sermon XXIX. Of the Ornaments and Virtues of the Ministers in the Temple of God",
+            "pt-BR": "10. Dos ornamentos e dos costumes dos ministros no templo de Deus"
           }
         },
         {
           "id": "p3-11",
           "title": {
             "la": "11. De quatuor condicionibus ad aedificationem et decorem domus dei pertinentibus",
-            "en-US": "Sermon XXX. Of the Four Conditions Belonging to the Building and Beauty of the House of God"
+            "en-US": "Sermon XXX. Of the Four Conditions Belonging to the Building and Beauty of the House of God",
+            "pt-BR": "11. Das quatro condições que pertencem à edificação e ao decoro da casa de Deus"
           }
         }
       ]
