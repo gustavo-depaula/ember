@@ -18,13 +18,19 @@
   },
   "composed": "c. 1425-1440",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "thomas-a-kempis/de-solitudine-et-silentio",
   "editions": {
     "la": {
       "editor": "Michael Joseph Pohl",
       "year": 1918
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,13 +47,15 @@
     {
       "id": "p1-01",
       "title": {
-        "la": "1. De recommendatione solitudinis"
+        "la": "1. De recommendatione solitudinis",
+        "pt-BR": "1. Do louvor da solidão"
       }
     },
     {
       "id": "p1-02",
       "title": {
-        "la": "2. De custodia silentii"
+        "la": "2. De custodia silentii",
+        "pt-BR": "2. Da guarda do silêncio"
       }
     }
   ]
