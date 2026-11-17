@@ -18,13 +18,19 @@
   },
   "composed": "c. 1125-1153",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "bernard/sermones-de-diversis",
   "editions": {
     "la": {
       "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 183)",
       "year": 1854
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,745 +47,869 @@
     {
       "id": "s001",
       "title": {
-        "la": "Sermo I. De fallacia et brevitate vitae praesentis"
+        "la": "Sermo I. De fallacia et brevitate vitae praesentis",
+        "pt-BR": "Sermão I. Sobre o engano e a brevidade da vida presente"
       }
     },
     {
       "id": "s002",
       "title": {
-        "la": "Sermo II. De obedientia, patientia et sapientia; seu, de noscendo se ipsum, quod homines sumus"
+        "la": "Sermo II. De obedientia, patientia et sapientia; seu, de noscendo se ipsum, quod homines sumus",
+        "pt-BR": "Sermão II. Sobre a obediência, a paciência e a sabedoria; ou: sobre conhecer-se a si mesmo, que somos homens"
       }
     },
     {
       "id": "s003",
       "title": {
-        "la": "Sermo III. De cantico Ezechiae regis, « Ego dixi in dimidio dierum meorum, » etc. (Isa. XXXVIII, 10-20.)"
+        "la": "Sermo III. De cantico Ezechiae regis, « Ego dixi in dimidio dierum meorum, » etc. (Isa. XXXVIII, 10-20.)",
+        "pt-BR": "Sermão III. Sobre o cântico do rei Ezequias, “Eu disse: Na metade dos meus dias”, etc. (Isaías 38:10-20.)"
       }
     },
     {
       "id": "s004",
       "title": {
-        "la": "Sermo IV. De quaerendo Deo, et triplici vinculo quo cohaeremus Deo"
+        "la": "Sermo IV. De quaerendo Deo, et triplici vinculo quo cohaeremus Deo",
+        "pt-BR": "Sermão IV. Sobre buscar a Deus, e o tríplice vínculo pelo qual nos unimos a Deus"
       }
     },
     {
       "id": "s005",
       "title": {
-        "la": "Sermo V. De verbis Habacuc, II, 1, « Super custodiam meam stabo. »"
+        "la": "Sermo V. De verbis Habacuc, II, 1, « Super custodiam meam stabo. »",
+        "pt-BR": "Sermão V. Sobre as palavras de Habacuc 2:1, “Estarei de pé no meu posto de guarda”"
       }
     },
     {
       "id": "s006",
       "title": {
-        "la": "Sermo VI. De cute, carne et ossibus animae"
+        "la": "Sermo VI. De cute, carne et ossibus animae",
+        "pt-BR": "Sermão VI. Sobre a pele, a carne e os ossos da alma"
       }
     },
     {
       "id": "s007",
       "title": {
-        "la": "Sermo VII. De triplici gloria, in illud Apostoli, « Qui gloriatur, in Domino glorietur. » (II Cor. X, 17, 18.)"
+        "la": "Sermo VII. De triplici gloria, in illud Apostoli, « Qui gloriatur, in Domino glorietur. » (II Cor. X, 17, 18.)",
+        "pt-BR": "Sermão VII. Sobre a tríplice glória, acerca daquilo do Apóstolo: “Quem se gloria, glorie-se no Senhor” (2 Coríntios 10:17, 18.)"
       }
     },
     {
       "id": "s008",
       "title": {
-        "la": "Sermo VIII. De diversis affectionibus vel statibus, quibus anima est sub Deo"
+        "la": "Sermo VIII. De diversis affectionibus vel statibus, quibus anima est sub Deo",
+        "pt-BR": "Sermão VIII. Sobre as diversas disposições ou estados em que a alma está sob Deus"
       }
     },
     {
       "id": "s009",
       "title": {
-        "la": "Sermo IX. De verbis Apostoli ad Rom. I, 20, « Invisibilia Dei a creatura mundi, » etc., et de verbis psalmi LXXXIV, 9, « Audiam quid loquatur in me Dominus Deus, » etc"
+        "la": "Sermo IX. De verbis Apostoli ad Rom. I, 20, « Invisibilia Dei a creatura mundi, » etc., et de verbis psalmi LXXXIV, 9, « Audiam quid loquatur in me Dominus Deus, » etc",
+        "pt-BR": "Sermão IX. Sobre as palavras do Apóstolo em Romanos 1:20, “As coisas invisíveis de Deus, desde a criação do mundo”, etc., e sobre as palavras do Salmo 84:9, “Ouvirei o que fala em mim o Senhor Deus”, etc."
       }
     },
     {
       "id": "s010",
       "title": {
-        "la": "Sermo X. De vita et quinque sensibus animae"
+        "la": "Sermo X. De vita et quinque sensibus animae",
+        "pt-BR": "Sermão X. Sobre a vida e os cinco sentidos da alma"
       }
     },
     {
       "id": "s011",
       "title": {
-        "la": "Sermo XI. De duplici baptismo, et de relinquenda propria voluntate"
+        "la": "Sermo XI. De duplici baptismo, et de relinquenda propria voluntate",
+        "pt-BR": "Sermão XI. Sobre o duplo batismo, e sobre a renúncia à vontade própria"
       }
     },
     {
       "id": "s012",
       "title": {
-        "la": "Sermo XII. De primordiis, mediis, et novissimis, in illud Ecclesiastici, VII, 40, « Memorare novissima tua, » etc"
+        "la": "Sermo XII. De primordiis, mediis, et novissimis, in illud Ecclesiastici, VII, 40, « Memorare novissima tua, » etc",
+        "pt-BR": "Sermão XII. Sobre os princípios, os meios e os novíssimos, acerca daquilo do Eclesiástico 7:40, “Lembra-te dos teus novíssimos”, etc."
       }
     },
     {
       "id": "s013",
       "title": {
-        "la": "Sermo XIII. De triplici misericordia, et quatuor miserationibus"
+        "la": "Sermo XIII. De triplici misericordia, et quatuor miserationibus",
+        "pt-BR": "Sermão XIII. Sobre a tríplice misericórdia e as quatro compaixões"
       }
     },
     {
       "id": "s014",
       "title": {
-        "la": "Sermo XIV. De septem donis Spiritus sancti contra septem vitia"
+        "la": "Sermo XIV. De septem donis Spiritus sancti contra septem vitia",
+        "pt-BR": "Sermão XIV. Sobre os sete dons do Espírito Santo contra os sete vícios"
       }
     },
     {
       "id": "s015",
       "title": {
-        "la": "Sermo XV. De quaerenda sapientia"
+        "la": "Sermo XV. De quaerenda sapientia",
+        "pt-BR": "Sermão XV. Sobre a busca da sabedoria"
       }
     },
     {
       "id": "s016",
       "title": {
-        "la": "Sermo XVI. De triplici genere bonorum, et vigilantia super cogitationibus"
+        "la": "Sermo XVI. De triplici genere bonorum, et vigilantia super cogitationibus",
+        "pt-BR": "Sermão XVI. Sobre o tríplice gênero de bens, e a vigilância sobre os pensamentos"
       }
     },
     {
       "id": "s017",
       "title": {
-        "la": "Sermo XVII. De triplici custodia, manus, linguae et cordis"
+        "la": "Sermo XVII. De triplici custodia, manus, linguae et cordis",
+        "pt-BR": "Sermão XVII. Sobre a tríplice guarda: da mão, da língua e do coração"
       }
     },
     {
       "id": "s018",
       "title": {
-        "la": "Sermo XVIII. De gaudio spirituali, seu de verbis Apostoli, « Non est regnum Dei esca et potus, » etc. (Rom. XIV, 17.)"
+        "la": "Sermo XVIII. De gaudio spirituali, seu de verbis Apostoli, « Non est regnum Dei esca et potus, » etc. (Rom. XIV, 17.)",
+        "pt-BR": "Sermão XVIII. Sobre a alegria espiritual, ou sobre as palavras do Apóstolo: “O reino de Deus não é comida e bebida”, etc. (Romanos 14:17.)"
       }
     },
     {
       "id": "s019",
       "title": {
-        "la": "Sermo XIX. De eisdem verbis apostoli, « Non est regnum Dei esca et potus. » (Rom. IV, 17.)"
+        "la": "Sermo XIX. De eisdem verbis apostoli, « Non est regnum Dei esca et potus. » (Rom. IV, 17.)",
+        "pt-BR": "Sermão XIX. Sobre as mesmas palavras do Apóstolo: “O reino de Deus não é comida e bebida” (Romanos 4:17.)"
       }
     },
     {
       "id": "s020",
       "title": {
-        "la": "Sermo XX. De verbis Domini, « Omnis qui se exaltat, humiliabitur: et qui se humiliat, exaltabitur. » (Luc. XVIII, 14.)"
+        "la": "Sermo XX. De verbis Domini, « Omnis qui se exaltat, humiliabitur: et qui se humiliat, exaltabitur. » (Luc. XVIII, 14.)",
+        "pt-BR": "Sermão XX. Sobre as palavras do Senhor: “Todo aquele que se exalta será humilhado, e quem se humilha será exaltado” (Lucas 18:14.)"
       }
     },
     {
       "id": "s021",
       "title": {
-        "la": "Sermo XXI. De verbis Sapientiae (X, 10): « Justum deduxit Dominus per vias rectas, » etc"
+        "la": "Sermo XXI. De verbis Sapientiae (X, 10): « Justum deduxit Dominus per vias rectas, » etc",
+        "pt-BR": "Sermão XXI. Sobre as palavras da Sabedoria (10:10): “O Senhor conduziu o justo por caminhos retos”, etc."
       }
     },
     {
       "id": "s022",
       "title": {
-        "la": "Sermo XXII. De quadruplici debito"
+        "la": "Sermo XXII. De quadruplici debito",
+        "pt-BR": "Sermão XXII. Sobre a quádrupla dívida"
       }
     },
     {
       "id": "s023",
       "title": {
-        "la": "Sermo XXIII. De discretione spirituum"
+        "la": "Sermo XXIII. De discretione spirituum",
+        "pt-BR": "Sermão XXIII. Sobre o discernimento dos espíritos"
       }
     },
     {
       "id": "s024",
       "title": {
-        "la": "Sermo XXIV. De multiplici utilitate verbi Dei"
+        "la": "Sermo XXIV. De multiplici utilitate verbi Dei",
+        "pt-BR": "Sermão XXIV. Sobre a múltipla utilidade da palavra de Deus"
       }
     },
     {
       "id": "s025",
       "title": {
-        "la": "Sermo XXV. De verbis Apostoli, « Volo primum fieri obsecrationes, orationes, » etc. (I Tim. II, 1)"
+        "la": "Sermo XXV. De verbis Apostoli, « Volo primum fieri obsecrationes, orationes, » etc. (I Tim. II, 1)",
+        "pt-BR": "Sermão XXV. Sobre as palavras do Apóstolo: “Quero que antes de tudo se façam súplicas, orações”, etc. (1 Timóteo 2:1)"
       }
     },
     {
       "id": "s026",
       "title": {
-        "la": "Sermo XXVI. De voluntate nostra divinae voluntati subjicienda"
+        "la": "Sermo XXVI. De voluntate nostra divinae voluntati subjicienda",
+        "pt-BR": "Sermão XXVI. Sobre a sujeição da nossa vontade à vontade divina"
       }
     },
     {
       "id": "s027",
       "title": {
-        "la": "Sermo XXVII. Contra pessimum vitium ingratitudinis"
+        "la": "Sermo XXVII. Contra pessimum vitium ingratitudinis",
+        "pt-BR": "Sermão XXVII. Contra o péssimo vício da ingratidão"
       }
     },
     {
       "id": "s028",
       "title": {
-        "la": "Sermo XXVIII. De eo quod legitur in Job (V, 19): « In sex tribulationibus liberabit te, et in septima non tanget te malum. »"
+        "la": "Sermo XXVIII. De eo quod legitur in Job (V, 19): « In sex tribulationibus liberabit te, et in septima non tanget te malum. »",
+        "pt-BR": "Sermão XXVIII. Sobre o que se lê em Jó (5:19): “Em seis tribulações te livrará, e na sétima o mal não te tocará”"
       }
     },
     {
       "id": "s029",
       "title": {
-        "la": "Sermo XXIX. De triplici dilectione Dei"
+        "la": "Sermo XXIX. De triplici dilectione Dei",
+        "pt-BR": "Sermão XXIX. Sobre o tríplice amor de Deus"
       }
     },
     {
       "id": "s030",
       "title": {
-        "la": "Sermo XXX. De ligno, feno et stipula"
+        "la": "Sermo XXX. De ligno, feno et stipula",
+        "pt-BR": "Sermão XXX. Sobre a madeira, o feno e a palha"
       }
     },
     {
       "id": "s031",
       "title": {
-        "la": "Sermo XXXI. De sollicita cura cogitationum"
+        "la": "Sermo XXXI. De sollicita cura cogitationum",
+        "pt-BR": "Sermão XXXI. Sobre o cuidado solícito dos pensamentos"
       }
     },
     {
       "id": "s032",
       "title": {
-        "la": "Sermo XXXII. De triplici judicio, proprio, humano et divino"
+        "la": "Sermo XXXII. De triplici judicio, proprio, humano et divino",
+        "pt-BR": "Sermão XXXII. Sobre o tríplice juízo: o próprio, o humano e o divino"
       }
     },
     {
       "id": "s033",
       "title": {
-        "la": "Sermo XXXIII. De verbis psalmi XXIII, « Quis ascendit in montem Domini? »"
+        "la": "Sermo XXXIII. De verbis psalmi XXIII, « Quis ascendit in montem Domini? »",
+        "pt-BR": "Sermão XXXIII. Sobre as palavras do Salmo 23: “Quem subirá ao monte do Senhor?”"
       }
     },
     {
       "id": "s034",
       "title": {
-        "la": "Sermo XXXIV. De verbis Origenis in Levit. X, 9"
+        "la": "Sermo XXXIV. De verbis Origenis in Levit. X, 9",
+        "pt-BR": "Sermão XXXIV. Sobre as palavras de Orígenes acerca de Levítico 10:9"
       }
     },
     {
       "id": "s035",
       "title": {
-        "la": "Sermo XXXV. De tribus ordinibus Ecclesiae, ad patres in capitulo habitus"
+        "la": "Sermo XXXV. De tribus ordinibus Ecclesiae, ad patres in capitulo habitus",
+        "pt-BR": "Sermão XXXV. Sobre as três ordens da Igreja, pregado aos padres no capítulo"
       }
     },
     {
       "id": "s036",
       "title": {
-        "la": "Sermo XXXVI. De altitudine et bassitudine cordis"
+        "la": "Sermo XXXVI. De altitudine et bassitudine cordis",
+        "pt-BR": "Sermão XXXVI. Sobre a altura e a baixeza do coração"
       }
     },
     {
       "id": "s037",
       "title": {
-        "la": "Sermo XXXVII. In labore messis, de verbis psalmi XXIII, 6: « Haec est generatio quaerentium Dominum, quaerentium faciem Dei Jacob. »"
+        "la": "Sermo XXXVII. In labore messis, de verbis psalmi XXIII, 6: « Haec est generatio quaerentium Dominum, quaerentium faciem Dei Jacob. »",
+        "pt-BR": "Sermão XXXVII. No trabalho da colheita, sobre as palavras do Salmo 23:6: “Esta é a geração dos que buscam o Senhor, dos que buscam a face do Deus de Jacó”"
       }
     },
     {
       "id": "s038",
       "title": {
-        "la": "Sermo XXXVIII. II. In labore messis, in illud Apostoli, « Diligentibus Deum omnia cooperantur in bonum. » (Rom. VIII, 28.)"
+        "la": "Sermo XXXVIII. II. In labore messis, in illud Apostoli, « Diligentibus Deum omnia cooperantur in bonum. » (Rom. VIII, 28.)",
+        "pt-BR": "Sermão XXXVIII. II. No trabalho da colheita, acerca daquilo do Apóstolo: “Para os que amam a Deus todas as coisas cooperam para o bem” (Romanos 8:28.)"
       }
     },
     {
       "id": "s039",
       "title": {
-        "la": "Sermo XXXIX. III. In labore messis: De duabus mensis, seu de superiori et inferiori irriguo"
+        "la": "Sermo XXXIX. III. In labore messis: De duabus mensis, seu de superiori et inferiori irriguo",
+        "pt-BR": "Sermão XXXIX. III. No trabalho da colheita: Sobre as duas mesas, ou sobre o regadio superior e o inferior"
       }
     },
     {
       "id": "s040",
       "title": {
-        "la": "Sermo XL. De septem gradibus confessionis"
+        "la": "Sermo XL. De septem gradibus confessionis",
+        "pt-BR": "Sermão XL. Sobre os sete graus da confissão"
       }
     },
     {
       "id": "s041",
       "title": {
-        "la": "Sermo XLI. De virtute obedientiae, et septem ejus gradibus"
+        "la": "Sermo XLI. De virtute obedientiae, et septem ejus gradibus",
+        "pt-BR": "Sermão XLI. Sobre a virtude da obediência e os seus sete graus"
       }
     },
     {
       "id": "s042",
       "title": {
-        "la": "Sermo XLII. De quinque negotiationibus, et quinque regionibus"
+        "la": "Sermo XLII. De quinque negotiationibus, et quinque regionibus",
+        "pt-BR": "Sermão XLII. Sobre os cinco negócios e as cinco regiões"
       }
     },
     {
       "id": "s043",
       "title": {
-        "la": "Sermo XLIII. De magnanimitate, longanimitate, unanimitate"
+        "la": "Sermo XLIII. De magnanimitate, longanimitate, unanimitate",
+        "pt-BR": "Sermão XLIII. Sobre a magnanimidade, a longanimidade e a unanimidade"
       }
     },
     {
       "id": "s044",
       "title": {
-        "la": "Sermo XLIV. De his in quibus mysteria Christi necdum videntur impleta"
+        "la": "Sermo XLIV. De his in quibus mysteria Christi necdum videntur impleta",
+        "pt-BR": "Sermão XLIV. Sobre aquilo em que os mistérios de Cristo ainda não parecem cumpridos"
       }
     },
     {
       "id": "s045",
       "title": {
-        "la": "Sermo XLV. De varia Trinitate, Dei scilicet et Hominis"
+        "la": "Sermo XLV. De varia Trinitate, Dei scilicet et Hominis",
+        "pt-BR": "Sermão XLV. Sobre as diversas trindades, a saber, a de Deus e a do Homem"
       }
     },
     {
       "id": "s046",
       "title": {
-        "la": "Sermo XLVI. De Virginitatis et humilitatis connexione"
+        "la": "Sermo XLVI. De Virginitatis et humilitatis connexione",
+        "pt-BR": "Sermão XLVI. Sobre a conexão entre a virgindade e a humildade"
       }
     },
     {
       "id": "s047",
       "title": {
-        "la": "Sermo XLVII. De quadruplici superbia"
+        "la": "Sermo XLVII. De quadruplici superbia",
+        "pt-BR": "Sermão XLVII. Sobre a soberba quádrupla"
       }
     },
     {
       "id": "s048",
       "title": {
-        "la": "Sermo XLVIII. De paupertate voluntaria"
+        "la": "Sermo XLVIII. De paupertate voluntaria",
+        "pt-BR": "Sermão XLVIII. Sobre a pobreza voluntária"
       }
     },
     {
       "id": "s049",
       "title": {
-        "la": "Sermo XLIX. De triplici Verbo"
+        "la": "Sermo XLIX. De triplici Verbo",
+        "pt-BR": "Sermão XLIX. Sobre o tríplice Verbo"
       }
     },
     {
       "id": "s050",
       "title": {
-        "la": "Sermo L. De affectionibus recte ordinandis"
+        "la": "Sermo L. De affectionibus recte ordinandis",
+        "pt-BR": "Sermão L. Sobre a reta ordenação dos afetos"
       }
     },
     {
       "id": "s051",
       "title": {
-        "la": "Sermo LI. De Mariae Purificatione, et Christi Circumcisione"
+        "la": "Sermo LI. De Mariae Purificatione, et Christi Circumcisione",
+        "pt-BR": "Sermão LI. Sobre a Purificação de Maria e a Circuncisão de Cristo"
       }
     },
     {
       "id": "s052",
       "title": {
-        "la": "Sermo LII. De domo divinae Sapientiae, id est Virgine Maria"
+        "la": "Sermo LII. De domo divinae Sapientiae, id est Virgine Maria",
+        "pt-BR": "Sermão LII. Sobre a casa da Sabedoria divina, isto é, a Virgem Maria"
       }
     },
     {
       "id": "s053",
       "title": {
-        "la": "Sermo LIII. De nominibus Salvatoris"
+        "la": "Sermo LIII. De nominibus Salvatoris",
+        "pt-BR": "Sermão LIII. Sobre os nomes do Salvador"
       }
     },
     {
       "id": "s054",
       "title": {
-        "la": "Sermo LIV. De apparitione Christi"
+        "la": "Sermo LIV. De apparitione Christi",
+        "pt-BR": "Sermão LIV. Sobre a aparição de Cristo"
       }
     },
     {
       "id": "s055",
       "title": {
-        "la": "Sermo LV. De sex hydriis spiritualibus"
+        "la": "Sermo LV. De sex hydriis spiritualibus",
+        "pt-BR": "Sermão LV. Sobre as seis talhas espirituais"
       }
     },
     {
       "id": "s056",
       "title": {
-        "la": "Sermo LVI. De hydriis mysticis implendis triplici timore"
+        "la": "Sermo LVI. De hydriis mysticis implendis triplici timore",
+        "pt-BR": "Sermão LVI. Sobre as talhas místicas que se hão de encher com o tríplice temor"
       }
     },
     {
       "id": "s057",
       "title": {
-        "la": "Sermo LVII. De septem signaculis per Christum solutis"
+        "la": "Sermo LVII. De septem signaculis per Christum solutis",
+        "pt-BR": "Sermão LVII. Sobre os sete selos abertos por Cristo"
       }
     },
     {
       "id": "s058",
       "title": {
-        "la": "Sermo LVIII. De tribus mulieribus mortuum ungentibus, id est mente, manu, lingua, salutem proximi curantibus"
+        "la": "Sermo LVIII. De tribus mulieribus mortuum ungentibus, id est mente, manu, lingua, salutem proximi curantibus",
+        "pt-BR": "Sermão LVIII. Sobre as três mulheres que ungem o morto, isto é, a mente, a mão e a língua, que cuidam da salvação do próximo"
       }
     },
     {
       "id": "s059",
       "title": {
-        "la": "Sermo LIX. De tribus panibus hominis spiritualis"
+        "la": "Sermo LIX. De tribus panibus hominis spiritualis",
+        "pt-BR": "Sermão LIX. Sobre os três pães do homem espiritual"
       }
     },
     {
       "id": "s060",
       "title": {
-        "la": "Sermo LX. De Christi itemque nostro descensu, et ascensu"
+        "la": "Sermo LX. De Christi itemque nostro descensu, et ascensu",
+        "pt-BR": "Sermão LX. Sobre a descida e a subida de Cristo, e igualmente as nossas"
       }
     },
     {
       "id": "s061",
       "title": {
-        "la": "Sermo LXI. De quatuor montibus ascendendis"
+        "la": "Sermo LXI. De quatuor montibus ascendendis",
+        "pt-BR": "Sermão LXI. Sobre os quatro montes que se hão de subir"
       }
     },
     {
       "id": "s062",
       "title": {
-        "la": "Sermo LXII. De varia et vera sequela Christe"
+        "la": "Sermo LXII. De varia et vera sequela Christe",
+        "pt-BR": "Sermão LXII. Sobre o seguimento de Cristo, diverso e verdadeiro"
       }
     },
     {
       "id": "s063",
       "title": {
-        "la": "Sermo LXIII. De tribus mediis recuperandae beatitudinis a Christo praescriptis in illud: « Qui vult venire post me, » etc. (Luc. IX, 23)"
+        "la": "Sermo LXIII. De tribus mediis recuperandae beatitudinis a Christo praescriptis in illud: « Qui vult venire post me, » etc. (Luc. IX, 23)",
+        "pt-BR": "Sermão LXIII. Sobre os três meios de recuperar a bem-aventurança prescritos por Cristo, acerca daquilo: “Quem quiser vir após mim”, etc. (Lucas 9:23)"
       }
     },
     {
       "id": "s064",
       "title": {
-        "la": "Sermo LXIV. De pretiosa vita et morte sanctorum"
+        "la": "Sermo LXIV. De pretiosa vita et morte sanctorum",
+        "pt-BR": "Sermão LXIV. Sobre a vida e a morte preciosas dos santos"
       }
     },
     {
       "id": "s065",
       "title": {
-        "la": "Sermo LXV. De connexione triplicis parabolae apud Matthaeum XIII, 44-48: « Simile est regnum coelorum thesauro abscondito in agro, » etc"
+        "la": "Sermo LXV. De connexione triplicis parabolae apud Matthaeum XIII, 44-48: « Simile est regnum coelorum thesauro abscondito in agro, » etc",
+        "pt-BR": "Sermão LXV. Sobre a conexão da tríplice parábola em Mateus 13:44-48: “O reino dos céus é semelhante a um tesouro escondido num campo”, etc."
       }
     },
     {
       "id": "s066",
       "title": {
-        "la": "Sermo LXVI. De octo beatitudinibus oppositis tolidem peccatis"
+        "la": "Sermo LXVI. De octo beatitudinibus oppositis tolidem peccatis",
+        "pt-BR": "Sermão LXVI. Sobre as oito bem-aventuranças opostas a outros tantos pecados"
       }
     },
     {
       "id": "s067",
       "title": {
-        "la": "Sermo LXVII. De duplicibus legis praeceptis, moralibus et figuralibus"
+        "la": "Sermo LXVII. De duplicibus legis praeceptis, moralibus et figuralibus",
+        "pt-BR": "Sermão LXVII. Sobre os dois tipos de preceitos da lei, morais e figurativos"
       }
     },
     {
       "id": "s069",
       "title": {
-        "la": "Sermo LXIX. De triplici renovatione triplicis vetustatis"
+        "la": "Sermo LXIX. De triplici renovatione triplicis vetustatis",
+        "pt-BR": "Sermão LXIX. Sobre a tríplice renovação da tríplice vetustez"
       }
     },
     {
       "id": "s070",
       "title": {
-        "la": "Sermo LXX. De vigilantia et sollicitudine curandae salutis"
+        "la": "Sermo LXX. De vigilantia et sollicitudine curandae salutis",
+        "pt-BR": "Sermão LXX. Sobre a vigilância e a solicitude em cuidar da salvação"
       }
     },
     {
       "id": "s071",
       "title": {
-        "la": "Sermo LXXI. Servitutis Aegyptiacae cum servitute diaboli comparatio"
+        "la": "Sermo LXXI. Servitutis Aegyptiacae cum servitute diaboli comparatio",
+        "pt-BR": "Sermão LXXI. Comparação da servidão do Egito com a servidão do diabo"
       }
     },
     {
       "id": "s072",
       "title": {
-        "la": "Sermo LXXII. De via impiorum et via Domini"
+        "la": "Sermo LXXII. De via impiorum et via Domini",
+        "pt-BR": "Sermão LXXII. Sobre o caminho dos ímpios e o caminho do Senhor"
       }
     },
     {
       "id": "s073",
       "title": {
-        "la": "Sermo LXXIII. De insipientia hominum non timentium nec diligentium Deum"
+        "la": "Sermo LXXIII. De insipientia hominum non timentium nec diligentium Deum",
+        "pt-BR": "Sermão LXXIII. Sobre a insensatez dos homens que não temem nem amam a Deus"
       }
     },
     {
       "id": "s074",
       "title": {
-        "la": "Sermo LXXIV. De corruptione hominum"
+        "la": "Sermo LXXIV. De corruptione hominum",
+        "pt-BR": "Sermão LXXIV. Sobre a corrupção dos homens"
       }
     },
     {
       "id": "s075",
       "title": {
-        "la": "Sermo LXXV. De poenitentia in mortem non differenda"
+        "la": "Sermo LXXV. De poenitentia in mortem non differenda",
+        "pt-BR": "Sermão LXXV. A penitência não deve ser adiada até a morte"
       }
     },
     {
       "id": "s076",
       "title": {
-        "la": "Sermo LXXVI. De necessitate et commendatione divinae gratiae"
+        "la": "Sermo LXXVI. De necessitate et commendatione divinae gratiae",
+        "pt-BR": "Sermão LXXVI. Sobre a necessidade e o louvor da graça divina"
       }
     },
     {
       "id": "s077",
       "title": {
-        "la": "Sermo LXXVII. De varia sorte hominum cognoscentium et non cognoscentium Deum, item cognitorum et non cognitorum a Deo"
+        "la": "Sermo LXXVII. De varia sorte hominum cognoscentium et non cognoscentium Deum, item cognitorum et non cognitorum a Deo",
+        "pt-BR": "Sermão LXXVII. Sobre a sorte diversa dos homens que conhecem e não conhecem a Deus, e dos que são e não são conhecidos por Deus"
       }
     },
     {
       "id": "s078",
       "title": {
-        "la": "Sermo LXXVIII. De differentia tabernaculi, atrii, domus"
+        "la": "Sermo LXXVIII. De differentia tabernaculi, atrii, domus",
+        "pt-BR": "Sermão LXXVIII. Sobre a diferença entre o tabernáculo, o átrio e a casa"
       }
     },
     {
       "id": "s079",
       "title": {
-        "la": "Sermo LXXIX. De voluntate Deo semper et in omnibus subjicienda"
+        "la": "Sermo LXXIX. De voluntate Deo semper et in omnibus subjicienda",
+        "pt-BR": "Sermão LXXIX. A vontade deve ser sempre e em tudo sujeita a Deus"
       }
     },
     {
       "id": "s080",
       "title": {
-        "la": "Sermo LXXX. De multiplici unitate"
+        "la": "Sermo LXXX. De multiplici unitate",
+        "pt-BR": "Sermão LXXX. Sobre a múltipla unidade"
       }
     },
     {
       "id": "s081",
       "title": {
-        "la": "Sermo LXXXI. De laudatione Dei in ore peccatoris"
+        "la": "Sermo LXXXI. De laudatione Dei in ore peccatoris",
+        "pt-BR": "Sermão LXXXI. Sobre o louvor de Deus na boca do pecador"
       }
     },
     {
       "id": "s082",
       "title": {
-        "la": "Sermo LXXXII. De diligenti custodia cordis"
+        "la": "Sermo LXXXII. De diligenti custodia cordis",
+        "pt-BR": "Sermão LXXXII. Sobre a diligente guarda do coração"
       }
     },
     {
       "id": "s083",
       "title": {
-        "la": "Sermo LXXXIII. De laude humana caute recipienda"
+        "la": "Sermo LXXXIII. De laude humana caute recipienda",
+        "pt-BR": "Sermão LXXXIII. O louvor humano deve ser recebido com cautela"
       }
     },
     {
       "id": "s084",
       "title": {
-        "la": "Sermo LXXXIV. De constantia adversus diabolum tentantem"
+        "la": "Sermo LXXXIV. De constantia adversus diabolum tentantem",
+        "pt-BR": "Sermão LXXXIV. Sobre a constância diante do diabo que tenta"
       }
     },
     {
       "id": "s085",
       "title": {
-        "la": "Sermo LXXXV. De casu animae irretractabili"
+        "la": "Sermo LXXXV. De casu animae irretractabili",
+        "pt-BR": "Sermão LXXXV. Sobre a queda irreparável da alma"
       }
     },
     {
       "id": "s086",
       "title": {
-        "la": "Sermo LXXXVI. De creatione in certo pondere, mensura et numero"
+        "la": "Sermo LXXXVI. De creatione in certo pondere, mensura et numero",
+        "pt-BR": "Sermão LXXXVI. Sobre a criação em certo peso, medida e número"
       }
     },
     {
       "id": "s087",
       "title": {
-        "la": "Sermo LXXXVII. De osculo sponsi, seu gratia contemplationis"
+        "la": "Sermo LXXXVII. De osculo sponsi, seu gratia contemplationis",
+        "pt-BR": "Sermão LXXXVII. Sobre o beijo do esposo, ou a graça da contemplação"
       }
     },
     {
       "id": "s088",
       "title": {
-        "la": "Sermo LXXXVIII. De recto usu donorum Dei"
+        "la": "Sermo LXXXVIII. De recto usu donorum Dei",
+        "pt-BR": "Sermão LXXXVIII. Sobre o reto uso dos dons de Deus"
       }
     },
     {
       "id": "s089",
       "title": {
-        "la": "Sermo LXXXIX. De osculo a sponsa desiderato, id est Spiritu sancto"
+        "la": "Sermo LXXXIX. De osculo a sponsa desiderato, id est Spiritu sancto",
+        "pt-BR": "Sermão LXXXIX. Sobre o beijo desejado pela esposa, isto é, o Espírito Santo"
       }
     },
     {
       "id": "s090",
       "title": {
-        "la": "Sermo XC. De triplici unguento, compunctionis, devotionis, pietatis"
+        "la": "Sermo XC. De triplici unguento, compunctionis, devotionis, pietatis",
+        "pt-BR": "Sermão XC. Sobre o tríplice unguento: da compunção, da devoção e da piedade"
       }
     },
     {
       "id": "s091",
       "title": {
-        "la": "Sermo XCI. De tribus emissionibus"
+        "la": "Sermo XCI. De tribus emissionibus",
+        "pt-BR": "Sermão XCI. Sobre as três emissões"
       }
     },
     {
       "id": "s092",
       "title": {
-        "la": "Sermo XCII. De triplici introductione, in hortum, in cellarium et in cubiculum"
+        "la": "Sermo XCII. De triplici introductione, in hortum, in cellarium et in cubiculum",
+        "pt-BR": "Sermão XCII. Sobre a tríplice introdução: no jardim, na adega e no aposento"
       }
     },
     {
       "id": "s093",
       "title": {
-        "la": "Sermo XCIII. De dentium proprietatibus, ad monasticae vitae professionem relatis"
+        "la": "Sermo XCIII. De dentium proprietatibus, ad monasticae vitae professionem relatis",
+        "pt-BR": "Sermão XCIII. Sobre as propriedades dos dentes, aplicadas à profissão da vida monástica"
       }
     },
     {
       "id": "s094",
       "title": {
-        "la": "Sermo XCIV. De processu vitae christianae seu spiritualis, juxta tropologiam Eliae, Jezabel fugientis"
+        "la": "Sermo XCIV. De processu vitae christianae seu spiritualis, juxta tropologiam Eliae, Jezabel fugientis",
+        "pt-BR": "Sermão XCIV. Sobre o progresso da vida cristã ou espiritual, segundo o sentido moral de Elias fugindo de Jezabel"
       }
     },
     {
       "id": "s095",
       "title": {
-        "la": "Sermo XCV. De doctrinae amaritudine per praedicatores temperanda"
+        "la": "Sermo XCV. De doctrinae amaritudine per praedicatores temperanda",
+        "pt-BR": "Sermão XCV. A amargura da doutrina deve ser temperada pelos pregadores"
       }
     },
     {
       "id": "s096",
       "title": {
-        "la": "Sermo XCVI. De quatuor fontibus Salvatoris, et aquis inde hauriendis"
+        "la": "Sermo XCVI. De quatuor fontibus Salvatoris, et aquis inde hauriendis",
+        "pt-BR": "Sermão XCVI. Sobre as quatro fontes do Salvador e as águas que delas se hão de tirar"
       }
     },
     {
       "id": "s097",
       "title": {
-        "la": "Sermo XCVII. De suavitate verbi ac jugi Christi, foris quidem duri, sed intus dulcissimi"
+        "la": "Sermo XCVII. De suavitate verbi ac jugi Christi, foris quidem duri, sed intus dulcissimi",
+        "pt-BR": "Sermão XCVII. Sobre a suavidade da palavra e do jugo de Cristo, duros por fora, mas dulcíssimos por dentro"
       }
     },
     {
       "id": "s098",
       "title": {
-        "la": "Sermo XCVIII. De filiis pacis, in quibus habitat Deus"
+        "la": "Sermo XCVIII. De filiis pacis, in quibus habitat Deus",
+        "pt-BR": "Sermão XCVIII. Sobre os filhos da paz, nos quais Deus habita"
       }
     },
     {
       "id": "s099",
       "title": {
-        "la": "Sermo XCIX. De quatuor generibus hominum coelum obtinentium"
+        "la": "Sermo XCIX. De quatuor generibus hominum coelum obtinentium",
+        "pt-BR": "Sermão XCIX. Sobre os quatro gêneros de homens que alcançam o céu"
       }
     },
     {
       "id": "s100",
       "title": {
-        "la": "Sermo C. De discrimine inter plebem et praesulem"
+        "la": "Sermo C. De discrimine inter plebem et praesulem",
+        "pt-BR": "Sermão C. Sobre a diferença entre o povo e o prelado"
       }
     },
     {
       "id": "s101",
       "title": {
-        "la": "Sermo CI. De quatuor modis diligendi"
+        "la": "Sermo CI. De quatuor modis diligendi",
+        "pt-BR": "Sermão CI. Sobre os quatro modos de amar"
       }
     },
     {
       "id": "s102",
       "title": {
-        "la": "Sermo CII. De modo redeundi ad Deum"
+        "la": "Sermo CII. De modo redeundi ad Deum",
+        "pt-BR": "Sermão CII. Sobre o modo de voltar a Deus"
       }
     },
     {
       "id": "s103",
       "title": {
-        "la": "Sermo CIII. De quatuor gradibus, quibus electorum profectus distinguitur"
+        "la": "Sermo CIII. De quatuor gradibus, quibus electorum profectus distinguitur",
+        "pt-BR": "Sermão CIII. Sobre os quatro graus pelos quais se distingue o progresso dos eleitos"
       }
     },
     {
       "id": "s104",
       "title": {
-        "la": "Sermo CIV. De quatuor impedimentis confessionis"
+        "la": "Sermo CIV. De quatuor impedimentis confessionis",
+        "pt-BR": "Sermão CIV. Sobre os quatro impedimentos da confissão"
       }
     },
     {
       "id": "s105",
       "title": {
-        "la": "Sermo CV. De requisitis ad justificationem et salutem"
+        "la": "Sermo CV. De requisitis ad justificationem et salutem",
+        "pt-BR": "Sermão CV. Sobre o que se requer para a justificação e a salvação"
       }
     },
     {
       "id": "s106",
       "title": {
-        "la": "Sermo CVI. De tribus ad agendam poenitentiam necessariis"
+        "la": "Sermo CVI. De tribus ad agendam poenitentiam necessariis",
+        "pt-BR": "Sermão CVI. Sobre as três coisas necessárias para fazer penitência"
       }
     },
     {
       "id": "s107",
       "title": {
-        "la": "Sermo CVII. De affectionibus orantium"
+        "la": "Sermo CVII. De affectionibus orantium",
+        "pt-BR": "Sermão CVII. Sobre os afetos dos que oram"
       }
     },
     {
       "id": "s108",
       "title": {
-        "la": "Sermo CVIII. De spirituali minutione sanguinis"
+        "la": "Sermo CVIII. De spirituali minutione sanguinis",
+        "pt-BR": "Sermão CVIII. Sobre a sangria espiritual"
       }
     },
     {
       "id": "s109",
       "title": {
-        "la": "Sermo CIX. De inani splendore virtutum cavendo"
+        "la": "Sermo CIX. De inani splendore virtutum cavendo",
+        "pt-BR": "Sermão CIX. Sobre o vão esplendor das virtudes, de que é preciso guardar-se"
       }
     },
     {
       "id": "s110",
       "title": {
-        "la": "Sermo CX. De allocutione hominis ad se ipsum, vel animam suam"
+        "la": "Sermo CX. De allocutione hominis ad se ipsum, vel animam suam",
+        "pt-BR": "Sermão CX. Sobre a fala do homem a si mesmo, ou à sua alma"
       }
     },
     {
       "id": "s111",
       "title": {
-        "la": "Sermo CXI. De fide, vita et moribus contestanda; seu de sex testimoniis Deo perhibendis"
+        "la": "Sermo CXI. De fide, vita et moribus contestanda; seu de sex testimoniis Deo perhibendis",
+        "pt-BR": "Sermão CXI. A fé deve ser atestada com a vida e os costumes; ou sobre os seis testemunhos que se devem dar a Deus"
       }
     },
     {
       "id": "s112",
       "title": {
-        "la": "Sermo CXII. De quadruplici conscientia"
+        "la": "Sermo CXII. De quadruplici conscientia",
+        "pt-BR": "Sermão CXII. Sobre a consciência quádrupla"
       }
     },
     {
       "id": "s113",
       "title": {
-        "la": "Sermo CXIII. De cavendis propriis et alienis peccatis"
+        "la": "Sermo CXIII. De cavendis propriis et alienis peccatis",
+        "pt-BR": "Sermão CXIII. Sobre os pecados próprios e alheios de que é preciso guardar-se"
       }
     },
     {
       "id": "s114",
       "title": {
-        "la": "Sermo CXIV. De multiplici pace"
+        "la": "Sermo CXIV. De multiplici pace",
+        "pt-BR": "Sermão CXIV. Sobre a múltipla paz"
       }
     },
     {
       "id": "s115",
       "title": {
-        "la": "Sermo CXV. De triplici corde"
+        "la": "Sermo CXV. De triplici corde",
+        "pt-BR": "Sermão CXV. Sobre o tríplice coração"
       }
     },
     {
       "id": "s116",
       "title": {
-        "la": "Sermo CXVI. De duabus mortibus et totidem resurrectionibus"
+        "la": "Sermo CXVI. De duabus mortibus et totidem resurrectionibus",
+        "pt-BR": "Sermão CXVI. Sobre as duas mortes e outras tantas ressurreições"
       }
     },
     {
       "id": "s117",
       "title": {
-        "la": "Sermo CXVII. De quatuor spiritualibus fontibus quatuor animae morbis medentibus"
+        "la": "Sermo CXVII. De quatuor spiritualibus fontibus quatuor animae morbis medentibus",
+        "pt-BR": "Sermão CXVII. Sobre as quatro fontes espirituais que curam as quatro doenças da alma"
       }
     },
     {
       "id": "s118",
       "title": {
-        "la": "Sermo CXVIII. De septem ascensionis gradibus"
+        "la": "Sermo CXVIII. De septem ascensionis gradibus",
+        "pt-BR": "Sermão CXVIII. Sobre os sete graus da ascensão"
       }
     },
     {
       "id": "s119",
       "title": {
-        "la": "Sermo CXIX. De tribus in Incarnatione considerandis"
+        "la": "Sermo CXIX. De tribus in Incarnatione considerandis",
+        "pt-BR": "Sermão CXIX. Sobre as três coisas a considerar na Encarnação"
       }
     },
     {
       "id": "s120",
       "title": {
-        "la": "Sermo CXX. De triplici ministerio"
+        "la": "Sermo CXX. De triplici ministerio",
+        "pt-BR": "Sermão CXX. Sobre o tríplice ministério"
       }
     },
     {
       "id": "s121",
       "title": {
-        "la": "Sermo CXXI. De doctrina timoris et charitatis"
+        "la": "Sermo CXXI. De doctrina timoris et charitatis",
+        "pt-BR": "Sermão CXXI. Sobre a doutrina do temor e da caridade"
       }
     },
     {
       "id": "s122",
       "title": {
-        "la": "Sermo CXXII. De duplici vitio jejunantibus timendo"
+        "la": "Sermo CXXII. De duplici vitio jejunantibus timendo",
+        "pt-BR": "Sermão CXXII. Sobre o duplo vício que devem temer os que jejuam"
       }
     },
     {
       "id": "s123",
       "title": {
-        "la": "Sermo CXXIII. De vita spiritus"
+        "la": "Sermo CXXIII. De vita spiritus",
+        "pt-BR": "Sermão CXXIII. Sobre a vida do espírito"
       }
     },
     {
       "id": "s124",
       "title": {
-        "la": "Sermo CXXIV. De quatuor gradibus bonae voluntatis"
+        "la": "Sermo CXXIV. De quatuor gradibus bonae voluntatis",
+        "pt-BR": "Sermão CXXIV. Sobre os quatro graus da boa vontade"
       }
     },
     {
       "id": "s125",
       "title": {
-        "la": "Sermo CXXV. De glorificanda Dei sapientia"
+        "la": "Sermo CXXV. De glorificanda Dei sapientia",
+        "pt-BR": "Sermão CXXV. Sobre a sabedoria de Deus que deve ser glorificada"
       }
     }
   ]
