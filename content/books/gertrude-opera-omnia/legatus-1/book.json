@@ -18,13 +18,19 @@
   },
   "composed": "c. 1289-1302",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "gertrude/legatus-1",
   "editions": {
     "la": {
       "editor": "Solesmes Benedictines (L. Paquelin)",
       "year": 1875
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,103 +47,120 @@
     {
       "id": "c01",
       "title": {
-        "la": "Caput 1: De commendatione personae"
+        "la": "Caput 1: De commendatione personae",
+        "pt-BR": "Capítulo 1: Do elogio de sua pessoa"
       }
     },
     {
       "id": "c02",
       "title": {
-        "la": "Caput 2: De testimoniis gratiae"
+        "la": "Caput 2: De testimoniis gratiae",
+        "pt-BR": "Capítulo 2: Dos testemunhos da graça"
       }
     },
     {
       "id": "c03",
       "title": {
-        "la": "Caput 3: De secundo teste"
+        "la": "Caput 3: De secundo teste",
+        "pt-BR": "Capítulo 3: Da segunda testemunha"
       }
     },
     {
       "id": "c04",
       "title": {
-        "la": "Caput 4: De tertio teste"
+        "la": "Caput 4: De tertio teste",
+        "pt-BR": "Capítulo 4: Da terceira testemunha"
       }
     },
     {
       "id": "c05",
       "title": {
-        "la": "Caput 5: De indiciis et ornatu intellectualis coeli"
+        "la": "Caput 5: De indiciis et ornatu intellectualis coeli",
+        "pt-BR": "Capítulo 5: Dos sinais e do ornamento do céu espiritual"
       }
     },
     {
       "id": "c06",
       "title": {
-        "la": "Caput 6: De constantia justitiae"
+        "la": "Caput 6: De constantia justitiae",
+        "pt-BR": "Capítulo 6: Da constância na justiça"
       }
     },
     {
       "id": "c07",
       "title": {
-        "la": "Caput 7: De zelo quem habuit ad salutem animarum"
+        "la": "Caput 7: De zelo quem habuit ad salutem animarum",
+        "pt-BR": "Capítulo 7: Do zelo que teve pela salvação das almas"
       }
     },
     {
       "id": "c08",
       "title": {
-        "la": "Caput 8: De compassiva ipsius charitate"
+        "la": "Caput 8: De compassiva ipsius charitate",
+        "pt-BR": "Capítulo 8: De sua caridade compassiva"
       }
     },
     {
       "id": "c09",
       "title": {
-        "la": "Caput 9: De mira continentia ipsius"
+        "la": "Caput 9: De mira continentia ipsius",
+        "pt-BR": "Capítulo 9: De sua admirável continência"
       }
     },
     {
       "id": "c10",
       "title": {
-        "la": "Caput 10: De dono confidentiae quo mirifice claruit"
+        "la": "Caput 10: De dono confidentiae quo mirifice claruit",
+        "pt-BR": "Capítulo 10: Do dom da confiança, pelo qual brilhou admiravelmente"
       }
     },
     {
       "id": "c11",
       "title": {
-        "la": "Caput 11: De virtute humilitatis, caeterisque pluribus inimul positis"
+        "la": "Caput 11: De virtute humilitatis, caeterisque pluribus inimul positis",
+        "pt-BR": "Capítulo 11: Da virtude da humildade e de várias outras aqui reunidas"
       }
     },
     {
       "id": "c12",
       "title": {
-        "la": "Caput 12: De evidentioribus testimoniis coeli intellectualis"
+        "la": "Caput 12: De evidentioribus testimoniis coeli intellectualis",
+        "pt-BR": "Capítulo 12: Dos testemunhos mais evidentes do céu espiritual"
       }
     },
     {
       "id": "c13",
       "title": {
-        "la": "Caput 13: De aliquibus miraculis insimul exempli causa positis"
+        "la": "Caput 13: De aliquibus miraculis insimul exempli causa positis",
+        "pt-BR": "Capítulo 13: De alguns milagres aqui reunidos como exemplo"
       }
     },
     {
       "id": "c14",
       "title": {
-        "la": "Caput 14: De specialibus privilegiis sibi a Deo collatis"
+        "la": "Caput 14: De specialibus privilegiis sibi a Deo collatis",
+        "pt-BR": "Capítulo 14: Dos privilégios especiais que Deus lhe concedeu"
       }
     },
     {
       "id": "c15",
       "title": {
-        "la": "Caput 15: De eo quod Dominus eam coegit ad praescripta"
+        "la": "Caput 15: De eo quod Dominus eam coegit ad praescripta",
+        "pt-BR": "Capítulo 15: De como o Senhor a compeliu às coisas anteriormente escritas"
       }
     },
     {
       "id": "c16",
       "title": {
-        "la": "Caput 16: De evidentioribus testimoniis quibus eam Dominus per aliorum revelationes certificavit."
+        "la": "Caput 16: De evidentioribus testimoniis quibus eam Dominus per aliorum revelationes certificavit.",
+        "pt-BR": "Capítulo 16: Dos testemunhos mais evidentes pelos quais o Senhor lhe deu certeza mediante revelações feitas a outros."
       }
     },
     {
       "id": "c17",
       "title": {
-        "la": "Caput 17: De familiariiori approximatione ipsius ad Deum"
+        "la": "Caput 17: De familiariiori approximatione ipsius ad Deum",
+        "pt-BR": "Capítulo 17: De sua aproximação mais íntima de Deus"
       }
     }
   ]
