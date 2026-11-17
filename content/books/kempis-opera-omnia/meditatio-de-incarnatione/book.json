@@ -19,7 +19,8 @@
   "composed": "c. 1430-1450",
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "thomas-a-kempis/meditatio-de-incarnatione",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "Vincent Scully",
       "year": 1907
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -55,28 +61,32 @@
       "id": "testimonia-veteris",
       "title": {
         "la": "1. Testimonia Veteris Testamenti",
-        "en-US": "1. Testimonies from the Old Testament"
+        "en-US": "1. Testimonies from the Old Testament",
+        "pt-BR": "1. Testemunhos do Antigo Testamento"
       }
     },
     {
       "id": "testimonia-novi",
       "title": {
         "la": "2. Testimonia Novi Testamenti",
-        "en-US": "2. Testimonies from the New Testament"
+        "en-US": "2. Testimonies from the New Testament",
+        "pt-BR": "2. Testemunhos do Novo Testamento"
       }
     },
     {
       "id": "oratio-salutandi",
       "title": {
         "la": "3. Oratio ad salutandum Dominum nostrum Iesum Christum",
-        "en-US": "3. A Prayer to Greet Our Lord Jesus Christ"
+        "en-US": "3. A Prayer to Greet Our Lord Jesus Christ",
+        "pt-BR": "3. Oração para saudar Nosso Senhor Jesus Cristo"
       }
     },
     {
       "id": "oratio-lucis",
       "title": {
         "la": "4. Oratio ad Christum, qui est vera lux, via, veritas et vita",
-        "en-US": "4. A Prayer to Christ, Who Is the True Light, Way, Truth and Life"
+        "en-US": "4. A Prayer to Christ, Who Is the True Light, Way, Truth and Life",
+        "pt-BR": "4. Oração a Cristo, que é a verdadeira luz, o caminho, a verdade e a vida"
       }
     }
   ]
