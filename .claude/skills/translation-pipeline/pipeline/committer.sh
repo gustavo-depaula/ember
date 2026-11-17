@@ -59,7 +59,8 @@ def nodes(ns):
 if scope:
     if any("pt-BR" not in n.get("title", {}) for n in nodes(bj.get("toc", [])) if (n.get("id", "") + "-").startswith(scope)): problems.append("book.json: a toc title of this part missing pt-BR")
 elif any("pt-BR" not in t.get("title", {}) for t in bj.get("toc", [])): problems.append("book.json: toc title missing pt-BR")
-extra = [f for f in os.listdir(d + "/pt-BR") if not f.endswith(".md") or ("notes" in f)]
+# Anything without a source counterpart is a stray: a working file the call left behind.
+extra = [f for f in os.listdir(d + "/pt-BR") if f not in ("translation-journal.md", "style.css") and not os.path.exists("%s/%s/%s" % (d, lang, f))]
 if extra: problems.append("stray files in pt-BR: %s" % extra)
 print("\n".join(problems))
 EOF

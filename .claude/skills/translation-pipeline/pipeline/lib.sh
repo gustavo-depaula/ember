@@ -4,7 +4,8 @@
 
 log() { print -r -- "$(date '+%H:%M:%S') $partTag$*" >> $base/status; }
 
-claudeWork() { CLAUDE_CONFIG_DIR=$HOME/.claude-work $HOME/.local/bin/claude "$@" < /dev/null; }
+# CLAUDE_ACCOUNT picks the logged-in account (~/.claude-<account>) whose usage the run spends.
+claudeWork() { CLAUDE_CONFIG_DIR=$HOME/.claude-${CLAUDE_ACCOUNT:-work} $HOME/.local/bin/claude "$@" < /dev/null; }
 
 # Blocks until claude-work's current session is under SESSION_LIMIT (default 70%, low because a step in flight keeps spending and the session must never run out) and its week under
 # WEEK_LIMIT (default 95%). An unreadable /usage counts as over the limit.
@@ -16,14 +17,19 @@ checkDeadline() {
   fi
 }
 
+# Whether a claude step may start now; sets s and w (usage %, empty if unread).
+claudeOpen() {
+  local out=$(claudeWork -p /usage 2>&1)
+  s=$(print -r -- $out | grep -m1 '^Current session:' | grep -oE '[0-9]+%' | tr -d %)
+  w=$(print -r -- $out | grep -m1 '^Current week (all models):' | grep -oE '[0-9]+%' | tr -d %)
+  [[ -n $s && -n $w ]] && (( s < ${SESSION_LIMIT:-70} && w < ${WEEK_LIMIT:-95} ))
+}
+
 waitForQuota() {
-  local out s w
+  local s w
   while true; do
     checkDeadline
-    out=$(claudeWork -p /usage 2>&1)
-    s=$(print -r -- $out | grep -m1 '^Current session:' | grep -oE '[0-9]+%' | tr -d %)
-    w=$(print -r -- $out | grep -m1 '^Current week (all models):' | grep -oE '[0-9]+%' | tr -d %)
-    if [[ -n $s && -n $w ]] && (( s < ${SESSION_LIMIT:-70} && w < ${WEEK_LIMIT:-95} )); then return; fi
+    claudeOpen && return
     log "quota: session ${s:-?}% week ${w:-?}%, waiting"
     sleep 600
   done
@@ -71,7 +77,7 @@ claudeCall() { # system-prompt-file input output.json [effort]
   while true; do
     waitForQuota
     started=$(date +%s)
-    DISABLE_PROMPT_CACHING=1 CLAUDE_CONFIG_DIR=$HOME/.claude-work $HOME/.local/bin/claude -p --tools "" --strict-mcp-config \
+    DISABLE_PROMPT_CACHING=1 CLAUDE_CONFIG_DIR=$HOME/.claude-${CLAUDE_ACCOUNT:-work} $HOME/.local/bin/claude -p --tools "" --strict-mcp-config \
       --system-prompt "$(<$1)" --model opus --effort ${4:-$effort} --output-format json --no-session-persistence \
       < $2 > $3 2> ${3%.json}.log
     if [[ -f $here/HALT ]] && (( $(<$here/HALT) >= started )); then

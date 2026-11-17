@@ -1,12 +1,13 @@
 #!/bin/zsh
 # The book driver: translate in single-shot calls over spans of the source
-# (t2.py; an agent session only if a span fails twice), then single-shot
+# (t2.py) after preflight.py checks the source, then single-shot
 # review rounds (r2.py builds each round's message and applies the
 # reviewer's patches; the reviewer has no tools).
 #   round 1: full read by Claude Opus; round 2: full read by Codex;
 #   later rounds: a delta read of the paragraphs the previous round changed,
 #   by the other engine; a full read again whenever a delta read finds a
 #   meaning-level defect, or a patch could not be applied.
+#   Later full reads go to Codex, and so does a delta read while Claude is over its limit.
 # Stops when at least 3 rounds ran, two of them full reads, the last two found
 # no meaning-level defect, and the last one changed nothing (minor fixes are
 # applied and verified, but do not count against convergence).
@@ -110,8 +111,21 @@ genCall() { # system-prompt-file input output.json
 # pipeline: it skips translation and is only reviewed.
 grep -qxF -- "$spec" $here/review-only.txt 2> /dev/null && touch $run/translate.ok $run/review-only
 
+# A flaw in the source (a note merged into the one before it, an empty
+# chapter) fails a span after two paid calls: check it before the first.
+# Fix the source, or touch preflight.ok to translate it as it is.
+if [[ ! -f $run/translate.ok && ! -f $run/preflight.ok ]]; then
+  pf=$(python3.13 $here/preflight.py content/books/$book 2>&1)
+  if [[ $? != 0 ]]; then
+    log "preflight: FAILED, the source needs fixing: $(print -r -- $pf | grep '^HARD' | head -5 | tr '\n' ';')"
+    print -r -- $pf > $run/preflight.txt; print FAILED > $run/DONE; exit 1
+  fi
+  log "preflight: ok ($(print -r -- $pf | grep -c '^warn') warnings in preflight.txt)"
+  print -r -- $pf > $run/preflight.txt; touch $run/preflight.ok
+fi
+
 # Translation: single-shot calls over spans of the source (t2.py); if a span
-# cannot be got right in two calls, the whole book falls back to one agent session.
+# cannot be got right in two calls, the book stops (AGENT_FALLBACK: one agent session).
 if [[ ! -f $run/translate.ok ]]; then
   units=$(T2 units content/books/$book)
   fallback=
@@ -198,10 +212,18 @@ while true; do
   # A book gets one full read from each engine; Codex's comes second.
   codexFull=$(for (( i = 1; i <= n; i++ )); do [[ $(<$run/review-$i.mode) == full && $(<$run/review-$i.engine) == codex ]] && print x; done | wc -l)
   if (( r >= 2 && codexFull == 0 )) && codexOk; then mode=full; fi
+  # Claude's full read comes first; later full reads go to Codex, which
+  # costs a fraction of Claude's uncached read of the whole book.
   if (( r == 1 )); then eng=claude
   elif (( codexFull == 0 )) && codexOk; then eng=codex
+  elif [[ $mode == full ]] && codexOk; then eng=codex
   elif [[ $(<$run/review-$n.engine) == claude ]] && codexOk; then eng=codex
   else eng=claude; fi
+  # A delta read waiting on Claude's quota goes to Codex instead: Codex books
+  # idled ~24 driver-hours on Claude's gate in the Nov 13 run.
+  if [[ $eng == claude && $mode == delta ]] && codexOk && ! claudeOpen; then
+    log "$name: Claude over its limit; Codex takes this delta read"; eng=codex
+  fi
   if [[ $mode == delta ]] && [[ $(jq '.changed | length' $run/changes-$n.json) == 0 ]]; then
     # Nothing changed since the last read: nothing to verify, no call.
     print delta > $run/$name.mode; print none > $run/$name.engine

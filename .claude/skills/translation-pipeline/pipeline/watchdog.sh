@@ -9,7 +9,7 @@
 set -u
 here=${0:A:h}
 log() { print -r -- "$(date '+%a %H:%M:%S') $*" >> $here/watchdog.log; }
-claudeWork() { CLAUDE_CONFIG_DIR=$HOME/.claude-work $HOME/.local/bin/claude "$@" < /dev/null; }
+claudeWork() { CLAUDE_CONFIG_DIR=$HOME/.claude-${CLAUDE_ACCOUNT:-work} $HOME/.local/bin/claude "$@" < /dev/null; }
 
 # The headless steps of this pipeline: an agent step is given the evidence
 # directory; a single-shot call (run-book2.sh claudeCall) has no directory and
