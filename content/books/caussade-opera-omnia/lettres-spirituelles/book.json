@@ -19,7 +19,8 @@
   "composed": "1730-1744",
   "languages": [
     "fr-FR",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "caussade/lettres-spirituelles",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "E. J. Strickland",
       "year": 1921
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -55,84 +61,96 @@
       "id": "livre-1",
       "title": {
         "fr-FR": "Livre premier. Estime et amour de l’abandon",
-        "en-US": "First Book. On the Esteem for and Love of this Virtue"
+        "en-US": "First Book. On the Esteem for and Love of this Virtue",
+        "pt-BR": "Livro primeiro. Estima e amor do abandono"
       },
       "children": [
         {
           "id": "l1-01",
           "title": {
             "fr-FR": "Lettre I. Bonheur et paix inaltérable de l’âme qui s’abandonne entièrement à Dieu",
-            "en-US": "Letter I. Happiness and Peace of Abandonment"
+            "en-US": "Letter I. Happiness and Peace of Abandonment",
+            "pt-BR": "Carta I. Felicidade e paz inalterável da alma que se abandona inteiramente a Deus"
           }
         },
         {
           "id": "l1-02",
           "title": {
             "fr-FR": "Lettre II. L abandon est la voie la plus courte pour arriver au pur amour et à la perfection",
-            "en-US": "Letter II. A Short Way to Perfection"
+            "en-US": "Letter II. A Short Way to Perfection",
+            "pt-BR": "Carta II. O abandono é a via mais curta para chegar ao puro amor e à perfeição"
           }
         },
         {
           "id": "l1-03",
           "title": {
             "fr-FR": "Lettre III. Application à lui-même, Paix profonde dont l’abandon le fait jouir au milieu du tracas des affaires",
-            "en-US": "Letter III. Peace in Turmoil"
+            "en-US": "Letter III. Peace in Turmoil",
+            "pt-BR": "Carta III. Aplicação a si mesmo. Paz profunda que o abandono lhe faz desfrutar em meio à agitação dos negócios"
           }
         },
         {
           "id": "l1-04",
           "title": {
             "fr-FR": "Lettre IV. Même sujet",
-            "en-US": "Letter IV. Liberty of Spirit"
+            "en-US": "Letter IV. Liberty of Spirit",
+            "pt-BR": "Carta IV. Mesmo assunto"
           }
         },
         {
           "id": "l1-05",
           "title": {
             "fr-FR": "Lettre V. Même sujet",
-            "en-US": "Letter V. Recourse to Providence"
+            "en-US": "Letter V. Recourse to Providence",
+            "pt-BR": "Carta V. Mesmo assunto"
           }
         },
         {
           "id": "l1-06",
           "title": {
             "fr-FR": "Lettre VI. L’’abandon adoucit les énnuis de la solitude",
-            "en-US": "Letter VI. Alone with God"
+            "en-US": "Letter VI. Alone with God",
+            "pt-BR": "Carta VI. O abandono suaviza os enfados da solidão"
           }
         },
         {
           "id": "l1-07",
           "title": {
             "fr-FR": "Lettre VII. Bonheur que l’abandon fait goûter à une communauté de Clarisses",
-            "en-US": "Letter VII. A Holy Community"
+            "en-US": "Letter VII. A Holy Community",
+            "pt-BR": "Carta VII. Felicidade que o abandono faz saborear a uma comunidade de clarissas"
           }
         },
         {
           "id": "l1-08",
           "title": {
             "fr-FR": "Lettre VIII. Motifs de l’abandon du côté de Dieu : grandeur et bonté divines",
-            "en-US": "Letter VIII. Our Dependence on God"
+            "en-US": "Letter VIII. Our Dependence on God",
+            "pt-BR": "Carta VIII. Motivos do abandono da parte de Deus: grandeza e bondade divinas"
           }
         },
         {
           "id": "l1-09",
           "title": {
             "fr-FR": "Lettre IX. Nouveau motif de nous abandonner à Dieu : sa paternelle Providence",
-            "en-US": "Letter IX. The Goodness of God"
+            "en-US": "Letter IX. The Goodness of God",
+            "pt-BR": "Carta IX. Novo motivo para nos abandonarmos a Deus: sua paternal Providência"
           }
         },
         {
           "id": "l1-10",
           "title": {
             "fr-FR": "Lettre X. Même sujet",
-            "en-US": "Letter X. Continued Troubles"
+            "en-US": "Letter X. Continued Troubles",
+            "pt-BR": "Carta X. Mesmo assunto"
           }
         },
         {
           "id": "l1-11",
           "title": {
             "fr-FR": "Lettre XI. Souhaits mutuels des âmes qui ne cherchent que Dieu",
-            "en-US": "Letter XI. Good Wishes"
+            "en-US": "Letter XI. Good Wishes",
+            "pt-BR": "Carta XI. Votos mútuos das almas que buscam somente a Deus"
           }
         }
       ]
@@ -141,266 +159,304 @@
       "id": "livre-2",
       "title": {
         "fr-FR": "Livre deuxième. Exercice de la vertu d’abandon",
-        "en-US": "Second Book. On the Exercise of the Virtue of Abandonment"
+        "en-US": "Second Book. On the Exercise of the Virtue of Abandonment",
+        "pt-BR": "Livro segundo. Exercício da virtude de abandono"
       },
       "children": [
         {
           "id": "l2-01",
           "title": {
             "fr-FR": "Lettre I. Principes et pratique de l’abandon",
-            "en-US": "Letter I. Some General Principles"
+            "en-US": "Letter I. Some General Principles",
+            "pt-BR": "Carta I. Princípios e prática do abandono"
           }
         },
         {
           "id": "l2-02",
           "title": {
             "fr-FR": "Lettre II. Plan général du combat spirituel",
-            "en-US": "Letter II. The Three Degrees of Virtue"
+            "en-US": "Letter II. The Three Degrees of Virtue",
+            "pt-BR": "Carta II. Plano geral do combate espiritual"
           }
         },
         {
           "id": "l2-03",
           "title": {
             "fr-FR": "Lettre III. Premier travail de Dieu dans l’âme",
-            "en-US": "Letter III. The First Work of God in the Soul"
+            "en-US": "Letter III. The First Work of God in the Soul",
+            "pt-BR": "Carta III. Primeiro trabalho de Deus na alma"
           }
         },
         {
           "id": "l2-04",
           "title": {
             "fr-FR": "Lettre IV. Exercice général de l’abandon",
-            "en-US": "Letter IV. Practice of Abandonment"
+            "en-US": "Letter IV. Practice of Abandonment",
+            "pt-BR": "Carta IV. Exercício geral do abandono"
           }
         },
         {
           "id": "l2-05",
           "title": {
             "fr-FR": "Lettre V. Moyen d’acquérir l’abandon",
-            "en-US": "Letter V. Means of Acquiring this Practice"
+            "en-US": "Letter V. Means of Acquiring this Practice",
+            "pt-BR": "Carta V. Meio de adquirir o abandono"
           }
         },
         {
           "id": "l2-06",
           "title": {
             "fr-FR": "Lettre VI. Direction générale",
-            "en-US": "Letter VI. Rules for General Direction"
+            "en-US": "Letter VI. Rules for General Direction",
+            "pt-BR": "Carta VI. Direção geral"
           }
         },
         {
           "id": "l2-07",
           "title": {
             "fr-FR": "Lettre VII. Même sujet",
-            "en-US": "Letter VII. Rules for Direction"
+            "en-US": "Letter VII. Rules for Direction",
+            "pt-BR": "Carta VII. Mesmo assunto"
           }
         },
         {
           "id": "l2-08",
           "title": {
             "fr-FR": "Lettre VIII. Oraison des âmes appelées à la vie d’abandon ; excellents avis sur l’oraison 4° Appliquez-vous à l’oraison par une simple vue du sujet, c’est-à-dire à la seule appréhension de l’objet par la foi, sans autre raisonnement",
-            "en-US": "Letter VIII. Advice on Prayer"
+            "en-US": "Letter VIII. Advice on Prayer",
+            "pt-BR": "Carta VIII. Oração das almas chamadas à vida de abandono; excelentes avisos sobre a oração. 4º Aplica-te à oração por uma simples visão do tema, isto é, apenas à apreensão do objeto pela fé, sem outro raciocínio"
           }
         },
         {
           "id": "l2-09",
           "title": {
             "fr-FR": "Lettre IX. Même sujet; danger de l’illusion dans l’oraison de recueillement",
-            "en-US": "Letter IX. Danger of Delusion Explained"
+            "en-US": "Letter IX. Danger of Delusion Explained",
+            "pt-BR": "Carta IX. Mesmo assunto; perigo da ilusão na oração de recolhimento"
           }
         },
         {
           "id": "l2-10",
           "title": {
             "fr-FR": "Lettre X. Même sujet",
-            "en-US": "Letter X. Delusions in Prayer"
+            "en-US": "Letter X. Delusions in Prayer",
+            "pt-BR": "Carta X. Mesmo assunto"
           }
         },
         {
           "id": "l2-11",
           "title": {
             "fr-FR": "Lettre XI. Exercice de l’abandon dans les divers états de l’âme",
-            "en-US": "Letter XI. The Impressions of the Holy Spirit"
+            "en-US": "Letter XI. The Impressions of the Holy Spirit",
+            "pt-BR": "Carta XI. Exercício do abandono nos diversos estados da alma"
           }
         },
         {
           "id": "l2-12",
           "title": {
             "fr-FR": "Lettre XII. Exercice de l’abandon par la paix de l’âme",
-            "en-US": "Letter XII. Peace and Submission"
+            "en-US": "Letter XII. Peace and Submission",
+            "pt-BR": "Carta XII. Exercício do abandono pela paz da alma"
           }
         },
         {
           "id": "l2-13",
           "title": {
             "fr-FR": "Lettre XIII. Même sujet",
-            "en-US": "Letter XIII. Peace and Confidence"
+            "en-US": "Letter XIII. Peace and Confidence",
+            "pt-BR": "Carta XIII. Mesmo assunto"
           }
         },
         {
           "id": "l2-14",
           "title": {
             "fr-FR": "Lettre XIV. Exercice de l’abandon dans les congolations",
-            "en-US": "Letter XIV. Singular Favours of God"
+            "en-US": "Letter XIV. Singular Favours of God",
+            "pt-BR": "Carta XIV. Exercício do abandono nas consolações"
           }
         },
         {
           "id": "l2-15",
           "title": {
             "fr-FR": "Lettre XV. Même sujet",
-            "en-US": "Letter XV. Heartfelt Prayer"
+            "en-US": "Letter XV. Heartfelt Prayer",
+            "pt-BR": "Carta XV. Mesmo assunto"
           }
         },
         {
           "id": "l2-16",
           "title": {
             "fr-FR": "Lettre XVI. Même sujet",
-            "en-US": "Letter XVI. The Operations of Grace"
+            "en-US": "Letter XVI. The Operations of Grace",
+            "pt-BR": "Carta XVI. Mesmo assunto"
           }
         },
         {
           "id": "l2-17",
           "title": {
             "fr-FR": "Lettre XVII. Docilité aux impressions intérieures du divin Esprit; attentes pacifiques",
-            "en-US": "Letter XVII. Attraction to the Interior Life"
+            "en-US": "Letter XVII. Attraction to the Interior Life",
+            "pt-BR": "Carta XVII. Docilidade aos influxos interiores do divino Espírito; esperas pacíficas"
           }
         },
         {
           "id": "l2-18",
           "title": {
             "fr-FR": "Lettre XVIII. Modérer ses désirs et ses craintes",
-            "en-US": "Letter XVIII. Desires to be Moderated"
+            "en-US": "Letter XVIII. Desires to be Moderated",
+            "pt-BR": "Carta XVIII. Moderar os desejos e os temores"
           }
         },
         {
           "id": "l2-19",
           "title": {
             "fr-FR": "Lettre XIX. Tendre à la simplicité",
-            "en-US": "Letter XIX. To Aim at Simplicity"
+            "en-US": "Letter XIX. To Aim at Simplicity",
+            "pt-BR": "Carta XIX. Tender à simplicidade"
           }
         },
         {
           "id": "l2-20",
           "title": {
             "fr-FR": "Lettre XX. Même sujet",
-            "en-US": "Letter XX. Holy Simplicity"
+            "en-US": "Letter XX. Holy Simplicity",
+            "pt-BR": "Carta XX. Mesmo assunto"
           }
         },
         {
           "id": "l2-21",
           "title": {
             "fr-FR": "Lettre XXI. Divers attraits de la grâce",
-            "en-US": "Letter XXI. Different Attractions of Grace"
+            "en-US": "Letter XXI. Different Attractions of Grace",
+            "pt-BR": "Carta XXI. Diversos atrativos da graça"
           }
         },
         {
           "id": "l2-22",
           "title": {
             "fr-FR": "Lettre XXII. Abandon dans les épreuves auxquelles est soumise la vocation. Tout ce que vous m’avez dit et écrit me fait connaitre que Dieu vous appelle véritablement à la religion, et en particulier à l’ordre de la Visitation",
-            "en-US": "Letter XXII. Fidelity to the Call of God"
+            "en-US": "Letter XXII. Fidelity to the Call of God",
+            "pt-BR": "Carta XXII. Abandono nas provações às quais a vocação é submetida. Tudo o que me disseste e escreveste me faz conhecer que Deus te chama verdadeiramente à vida religiosa e, em particular, à ordem da Visitação"
           }
         },
         {
           "id": "l2-23",
           "title": {
             "fr-FR": "Lettre XXIII. Même sujet L’augmentation du désir de vous consacrer à Dieu est une nouvelle grâce de sa miséricorde. Souffrir toute la peine de ne pouvoir accomplir ces ardents désirs, pourvu",
-            "en-US": "Letter XXIII. The Value of Good Desires"
+            "en-US": "Letter XXIII. The Value of Good Desires",
+            "pt-BR": "Carta XXIII. Mesmo assunto. O aumento do desejo de te consagrares a Deus é uma nova graça de sua misericórdia. Sofrer toda a pena de não poder realizar esses ardentes desejos, contanto"
           }
         },
         {
           "id": "l2-24",
           "title": {
             "fr-FR": "Lettre XXIV. Même sujet Vous avez raison de regarder comme une des plus grandes grâces le dessein que Dieu vous a inspiré. C’est",
-            "en-US": "Letter XXIV. The Call of God a Sign of Predestination"
+            "en-US": "Letter XXIV. The Call of God a Sign of Predestination",
+            "pt-BR": "Carta XXIV. Mesmo assunto. Tens razão em considerar uma das maiores graças o propósito que Deus te inspirou. É"
           }
         },
         {
           "id": "l2-25",
           "title": {
             "fr-FR": "Lettre XXV. Mêrre sujet",
-            "en-US": "Letter XXV. God Only Desires What We are Able to Give"
+            "en-US": "Letter XXV. God Only Desires What We are Able to Give",
+            "pt-BR": "Carta XXV. Mesmo assunto"
           }
         },
         {
           "id": "l2-26",
           "title": {
             "fr-FR": "Lettre XXVI. Abandon dans les emplois et les entreprises",
-            "en-US": "Letter XXVI. Abandonment as to Employments and Undertakings"
+            "en-US": "Letter XXVI. Abandonment as to Employments and Undertakings",
+            "pt-BR": "Carta XXVI. Abandono nos cargos e nos empreendimentos"
           }
         },
         {
           "id": "l2-27",
           "title": {
             "fr-FR": "Lettre XXVII. Abandon dans l’acceptation des emplois Que la paix de Jésus-Christ règne toujours dans votre cœur, et que la très-sainte volonté de Dieu s’accomplisse toujours en vous et par vous",
-            "en-US": "Letter XXVII. Acceptance of Duties"
+            "en-US": "Letter XXVII. Acceptance of Duties",
+            "pt-BR": "Carta XXVII. Abandono na aceitação dos cargos. Que a paz de Jesus Cristo reine sempre em teu coração e que a santíssima vontade de Deus se cumpra sempre em ti e por ti"
           }
         },
         {
           "id": "l2-28",
           "title": {
             "fr-FR": "Lettre XXVIII. Même sujet",
-            "en-US": "Letter XXVIII. To Will Only What God Wills"
+            "en-US": "Letter XXVIII. To Will Only What God Wills",
+            "pt-BR": "Carta XXVIII. Mesmo assunto"
           }
         },
         {
           "id": "l2-29",
           "title": {
             "fr-FR": "Lettre XXIX. Même sujet, application à soi-même",
-            "en-US": "Letter XXIX. To Leave All to God"
+            "en-US": "Letter XXIX. To Leave All to God",
+            "pt-BR": "Carta XXIX. Mesmo assunto, aplicação a si mesmo"
           }
         },
         {
           "id": "l2-30",
           "title": {
             "fr-FR": "Lettre XXX. Abandon dans les maladies, +",
-            "en-US": "Letter XXX. Resignation in Sickness"
+            "en-US": "Letter XXX. Resignation in Sickness",
+            "pt-BR": "Carta XXX. Abandono nas doenças"
           }
         },
         {
           "id": "l2-31",
           "title": {
             "fr-FR": "Lettre XXXI. Même sujet",
-            "en-US": "Letter XXXI. Conduct in Sickness"
+            "en-US": "Letter XXXI. Conduct in Sickness",
+            "pt-BR": "Carta XXXI. Mesmo assunto"
           }
         },
         {
           "id": "l2-32",
           "title": {
             "fr-FR": "Lettre XXXII. Sûüpport du prochain et de soi-même",
-            "en-US": "Letter XXXII. Patience with the Faults of Others"
+            "en-US": "Letter XXXII. Patience with the Faults of Others",
+            "pt-BR": "Carta XXXII. Paciência com o próximo e consigo mesmo"
           }
         },
         {
           "id": "l2-33",
           "title": {
             "fr-FR": "Lettre XXXIII. Support de soi-même",
-            "en-US": "Letter XXXIII. Patience with Oneself"
+            "en-US": "Letter XXXIII. Patience with Oneself",
+            "pt-BR": "Carta XXXIII. Paciência consigo mesmo"
           }
         },
         {
           "id": "l2-34",
           "title": {
             "fr-FR": "Lettre XXXIV. Préparation aux Sacrements, oraisons, lectures, conduite",
-            "en-US": "Letter XXXIV. Preparation for the Sacraments"
+            "en-US": "Letter XXXIV. Preparation for the Sacraments",
+            "pt-BR": "Carta XXXIV. Preparação para os Sacramentos, orações, leituras, conduta"
           }
         },
         {
           "id": "l2-35",
           "title": {
             "fr-FR": "Lettre XXXV. Conduite pour le temps passé à la campagne",
-            "en-US": "Letter XXXV. Conduct in a Time of Rest"
+            "en-US": "Letter XXXV. Conduct in a Time of Rest",
+            "pt-BR": "Carta XXXV. Conduta para o tempo passado no campo"
           }
         },
         {
           "id": "l2-36",
           "title": {
             "fr-FR": "Lettre XXXVI. Vie et mort. — Consolations et épreuves",
-            "en-US": "Letter XXXVI. On Life and Death"
+            "en-US": "Letter XXXVI. On Life and Death",
+            "pt-BR": "Carta XXXVI. Vida e morte. — Consolações e provações"
           }
         },
         {
           "id": "l2-37",
           "title": {
             "fr-FR": "Lettre XXXVII. Même sujet",
-            "en-US": "Letter XXXVII. Not to Desire Consolations"
+            "en-US": "Letter XXXVII. Not to Desire Consolations",
+            "pt-BR": "Carta XXXVII. Mesmo assunto"
           }
         }
       ]
@@ -409,119 +465,136 @@
       "id": "livre-3",
       "title": {
         "fr-FR": "Livre troisième. Obstacles à l’abandon",
-        "en-US": "Third Book. On the Obstacles to Abandonment"
+        "en-US": "Third Book. On the Obstacles to Abandonment",
+        "pt-BR": "Livro terceiro. Obstáculos ao abandono"
       },
       "children": [
         {
           "id": "l3-01",
           "title": {
             "fr-FR": "Lettre I. Sentiments de vanité. — Infidélités fréquentes",
-            "en-US": "Letter I. About Vanity and Infidelities"
+            "en-US": "Letter I. About Vanity and Infidelities",
+            "pt-BR": "Carta I. Sentimentos de vaidade. — Infidelidades frequentes"
           }
         },
         {
           "id": "l3-02",
           "title": {
             "fr-FR": "Lettre II. Défauts des commençants",
-            "en-US": "Letter II. The Defects of Beginners"
+            "en-US": "Letter II. The Defects of Beginners",
+            "pt-BR": "Carta II. Defeitos dos principiantes"
           }
         },
         {
           "id": "l3-03",
           "title": {
             "fr-FR": "Lettre III. Troubles intérieurs volontairement entretenus ; faiblesse",
-            "en-US": "Letter III. The Illusions of the Devil"
+            "en-US": "Letter III. The Illusions of the Devil",
+            "pt-BR": "Carta III. Perturbações interiores voluntariamente alimentadas; fraqueza"
           }
         },
         {
           "id": "l3-04",
           "title": {
             "fr-FR": "Lettre IV. Même sujet",
-            "en-US": "Letter IV. Interior Troubles"
+            "en-US": "Letter IV. Interior Troubles",
+            "pt-BR": "Carta IV. Mesmo assunto"
           }
         },
         {
           "id": "l3-05",
           "title": {
             "fr-FR": "Lettre V. Amour des proches. Nancy, 1735",
-            "en-US": "Letter V. On the Love of One’s Neighbour"
+            "en-US": "Letter V. On the Love of One’s Neighbour",
+            "pt-BR": "Carta V. Amor aos familiares. Nancy, 1735"
           }
         },
         {
           "id": "l3-06",
           "title": {
             "fr-FR": "Lettre VI. Attachements trop sensibles",
-            "en-US": "Letter VI. On Attachments"
+            "en-US": "Letter VI. On Attachments",
+            "pt-BR": "Carta VI. Apegos demasiado sensíveis"
           }
         },
         {
           "id": "l3-07",
           "title": {
             "fr-FR": "Lettre VII",
-            "en-US": "Letter VII. Personal Attachments"
+            "en-US": "Letter VII. Personal Attachments",
+            "pt-BR": "Carta VII"
           }
         },
         {
           "id": "l3-08",
           "title": {
             "fr-FR": "Lettre VIII. Activité de caractère",
-            "en-US": "Letter VIII. On Natural Activity"
+            "en-US": "Letter VIII. On Natural Activity",
+            "pt-BR": "Carta VIII. Atividade de temperamento"
           }
         },
         {
           "id": "l3-09",
           "title": {
             "fr-FR": "Lettre IX. Ardeur excessive des bons désirs",
-            "en-US": "Letter IX. On Excessive Fervour"
+            "en-US": "Letter IX. On Excessive Fervour",
+            "pt-BR": "Carta IX. Ardor excessivo dos bons desejos"
           }
         },
         {
           "id": "l3-10",
           "title": {
             "fr-FR": "Lettre X. Empressement dans les bonnes lectures",
-            "en-US": "Letter X. Restraint of Over-Eagerness"
+            "en-US": "Letter X. Restraint of Over-Eagerness",
+            "pt-BR": "Carta X. Açodamento nas boas leituras"
           }
         },
         {
           "id": "l3-11",
           "title": {
             "fr-FR": "Lettre XI. Zèle intempérant et indiscret",
-            "en-US": "Letter XI. Intemperate Zeal"
+            "en-US": "Letter XI. Intemperate Zeal",
+            "pt-BR": "Carta XI. Zelo imoderado e indiscreto"
           }
         },
         {
           "id": "l3-12",
           "title": {
             "fr-FR": "Lettre XII. Répugnance à prendre les soulagements ordonnés",
-            "en-US": "Letter XII. On Obedience"
+            "en-US": "Letter XII. On Obedience",
+            "pt-BR": "Carta XII. Repugnância em aceitar os alívios prescritos"
           }
         },
         {
           "id": "l3-13",
           "title": {
             "fr-FR": "Lettre XIII. Même sujet; attachement à son propre sens",
-            "en-US": "Letter XIII. On being Self-Opinionated"
+            "en-US": "Letter XIII. On being Self-Opinionated",
+            "pt-BR": "Carta XIII. Mesmo assunto; apego ao próprio juízo"
           }
         },
         {
           "id": "l3-14",
           "title": {
             "fr-FR": "Lettre XIV. Répugnance à se faire connaitre",
-            "en-US": "Letter XIV. On Reserve with a Director"
+            "en-US": "Letter XIV. On Reserve with a Director",
+            "pt-BR": "Carta XIV. Repugnância em dar-se a conhecer"
           }
         },
         {
           "id": "l3-15",
           "title": {
             "fr-FR": "Lettre XV. Découragement",
-            "en-US": "Letter XV. On Discouragement"
+            "en-US": "Letter XV. On Discouragement",
+            "pt-BR": "Carta XV. Desânimo"
           }
         },
         {
           "id": "l3-16",
           "title": {
             "fr-FR": "Lettre XVI. Crainte de se démentir et de se singulariser",
-            "en-US": "Letter XVI. Fear of Singularity"
+            "en-US": "Letter XVI. Fear of Singularity",
+            "pt-BR": "Carta XVI. Temor de contradizer-se e de singularizar-se"
           }
         }
       ]
@@ -530,154 +603,176 @@
       "id": "livre-4",
       "title": {
         "fr-FR": "Livre quatrième. Premières épreuves des âmes appelées à l’état d’abandon : sécheresses, impuissances, dégoûts",
-        "en-US": "Fourth Book. First Trials of Souls called to the State of Abandonment: Dryness, Powerlessness, Disgust"
+        "en-US": "Fourth Book. First Trials of Souls called to the State of Abandonment: Dryness, Powerlessness, Disgust",
+        "pt-BR": "Livro quarto. Primeiras provações das almas chamadas ao estado de abandono: securas, impotências, desgostos"
       },
       "children": [
         {
           "id": "l4-01",
           "title": {
             "fr-FR": "Lettre I. Ensemble de ces épreuves ; direction générale",
-            "en-US": "Letter I. Aridity and Weakness"
+            "en-US": "Letter I. Aridity and Weakness",
+            "pt-BR": "Carta I. Conjunto dessas provações; direção geral"
           }
         },
         {
           "id": "l4-02",
           "title": {
             "fr-FR": "Lettre II. Vicissitudes intérieures",
-            "en-US": "Letter II. Different States of the Soul"
+            "en-US": "Letter II. Different States of the Soul",
+            "pt-BR": "Carta II. Vicissitudes interiores"
           }
         },
         {
           "id": "l4-03",
           "title": {
             "fr-FR": "Lettre III. Même sujet. — Abandon",
-            "en-US": "Letter III. Abandonment During Trials"
+            "en-US": "Letter III. Abandonment During Trials",
+            "pt-BR": "Carta III. Mesmo assunto. — Abandono"
           }
         },
         {
           "id": "l4-04",
           "title": {
             "fr-FR": "Lettre IV. Obscurités; impuissances",
-            "en-US": "Letter IV. Darkness and Doubts"
+            "en-US": "Letter IV. Darkness and Doubts",
+            "pt-BR": "Carta IV. Obscuridades; impotências"
           }
         },
         {
           "id": "l4-05",
           "title": {
             "fr-FR": "Lettre V. Impuissances ; distractions",
-            "en-US": "Letter V. Distractions in Prayer"
+            "en-US": "Letter V. Distractions in Prayer",
+            "pt-BR": "Carta V. Impotências; distrações"
           }
         },
         {
           "id": "l4-06",
           "title": {
             "fr-FR": "Lettre VI. Même sujet; révoltes intérieures ; pauvreté spirituelle",
-            "en-US": "Letter VI. Fear of Wasting Time"
+            "en-US": "Letter VI. Fear of Wasting Time",
+            "pt-BR": "Carta VI. Mesmo assunto; revoltas interiores; pobreza espiritual"
           }
         },
         {
           "id": "l4-07",
           "title": {
             "fr-FR": "Lettre VII. Ténèbres ; insensibilité",
-            "en-US": "Letter VII. On Darkness and Want of Feeling"
+            "en-US": "Letter VII. On Darkness and Want of Feeling",
+            "pt-BR": "Carta VII. Trevas; insensibilidade"
           }
         },
         {
           "id": "l4-08",
           "title": {
             "fr-FR": "Lettre VIII. Sécheresses ; distractions dans l’oraison",
-            "en-US": "Letter VIII. On Dryness and Distractions"
+            "en-US": "Letter VIII. On Dryness and Distractions",
+            "pt-BR": "Carta VIII. Securas; distrações na oração"
           }
         },
         {
           "id": "l4-09",
           "title": {
             "fr-FR": "Lettre IX. Distractions, ennuis, vivacités",
-            "en-US": "Letter IX. Passive Recollection"
+            "en-US": "Letter IX. Passive Recollection",
+            "pt-BR": "Carta IX. Distrações, enfados, ímpetos"
           }
         },
         {
           "id": "l4-10",
           "title": {
             "fr-FR": "Lettre X. Dégoût; paresse",
-            "en-US": "Letter X. The Use of Faults"
+            "en-US": "Letter X. The Use of Faults",
+            "pt-BR": "Carta X. Desgosto; preguiça"
           }
         },
         {
           "id": "l4-11",
           "title": {
             "fr-FR": "Lettre XI. Impuissances; souvenir des fautes passéex ; fatigues ; craintes",
-            "en-US": "Letter XI. Remembrance of Past Sins"
+            "en-US": "Letter XI. Remembrance of Past Sins",
+            "pt-BR": "Carta XI. Impotências; lembrança das faltas passadas; fadigas; temores"
           }
         },
         {
           "id": "l4-12",
           "title": {
             "fr-FR": "Lettre XII. Ctilité des épreuves, conduite à tenir",
-            "en-US": "Letter XII. How to make use of trials"
+            "en-US": "Letter XII. How to make use of trials",
+            "pt-BR": "Carta XII. Utilidade das provações, conduta a seguir"
           }
         },
         {
           "id": "l4-13",
           "title": {
             "fr-FR": "Lettre XIII. Même sujet",
-            "en-US": "Letter XIII. The Use of Trials continued"
+            "en-US": "Letter XIII. The Use of Trials continued",
+            "pt-BR": "Carta XIII. Mesmo assunto"
           }
         },
         {
           "id": "l4-14",
           "title": {
             "fr-FR": "Lettre XIV. Même sujet",
-            "en-US": "Letter XIV. Remedies for Troubles"
+            "en-US": "Letter XIV. Remedies for Troubles",
+            "pt-BR": "Carta XIV. Mesmo assunto"
           }
         },
         {
           "id": "l4-15",
           "title": {
             "fr-FR": "Lettre XV. Même sujet",
-            "en-US": "Letter XV. Trials to be Endured Peacefully"
+            "en-US": "Letter XV. Trials to be Endured Peacefully",
+            "pt-BR": "Carta XV. Mesmo assunto"
           }
         },
         {
           "id": "l4-16",
           "title": {
             "fr-FR": "Lettre XVI. Même sujet",
-            "en-US": "Letter XVI. Sensitiveness about Defects"
+            "en-US": "Letter XVI. Sensitiveness about Defects",
+            "pt-BR": "Carta XVI. Mesmo assunto"
           }
         },
         {
           "id": "l4-17",
           "title": {
             "fr-FR": "Lettre XVII. Même sujet",
-            "en-US": "Letter XVII. Confidence in God"
+            "en-US": "Letter XVII. Confidence in God",
+            "pt-BR": "Carta XVII. Mesmo assunto"
           }
         },
         {
           "id": "l4-18",
           "title": {
             "fr-FR": "Lettre XVIII. Même sujet",
-            "en-US": "Letter XVIII. Sacrifice and Fidelity"
+            "en-US": "Letter XVIII. Sacrifice and Fidelity",
+            "pt-BR": "Carta XVIII. Mesmo assunto"
           }
         },
         {
           "id": "l4-19",
           "title": {
             "fr-FR": "Lettre XIX. Utilité des épreuves, lors même qu’elles sont des punitions",
-            "en-US": "Letter XIX. Glorified by Sufferings"
+            "en-US": "Letter XIX. Glorified by Sufferings",
+            "pt-BR": "Carta XIX. Utilidade das provações, mesmo quando são castigos"
           }
         },
         {
           "id": "l4-20",
           "title": {
             "fr-FR": "Lettre XX. Fruit de ces épreuves : paix profonde",
-            "en-US": "Letter XX. The Fruit of Trials"
+            "en-US": "Letter XX. The Fruit of Trials",
+            "pt-BR": "Carta XX. Fruto dessas provações: paz profunda"
           }
         },
         {
           "id": "l4-21",
           "title": {
             "fr-FR": "Lettre XXI. Même sujet",
-            "en-US": "Letter XXI. Things Painful to Nature"
+            "en-US": "Letter XXI. Things Painful to Nature",
+            "pt-BR": "Carta XXI. Mesmo assunto"
           }
         }
       ]
@@ -686,140 +781,160 @@
       "id": "livre-5",
       "title": {
         "fr-FR": "Livre cinquième. Nouvelles épreuves : souffrances, afflictions, privations",
-        "en-US": "Fifth Book. New Trials: Sufferings, Afflictions, Privations"
+        "en-US": "Fifth Book. New Trials: Sufferings, Afflictions, Privations",
+        "pt-BR": "Livro quinto. Novas provações: sofrimentos, aflições, privações"
       },
       "children": [
         {
           "id": "l5-01",
           "title": {
             "fr-FR": "Lettre I. Maladie, son utilité, Règles à suivre",
-            "en-US": "Letter I. Rules to be Observed in Illness"
+            "en-US": "Letter I. Rules to be Observed in Illness",
+            "pt-BR": "Carta I. Doença, sua utilidade, regras a seguir"
           }
         },
         {
           "id": "l5-02",
           "title": {
             "fr-FR": "Lettre II. Souffrances de divers genres",
-            "en-US": "Letter II. Different Sufferings"
+            "en-US": "Letter II. Different Sufferings",
+            "pt-BR": "Carta II. Sofrimentos de diversos tipos"
           }
         },
         {
           "id": "l5-03",
           "title": {
             "fr-FR": "Lettre III. Désastres et calamités publics",
-            "en-US": "Letter III. On Public Calamities"
+            "en-US": "Letter III. On Public Calamities",
+            "pt-BR": "Carta III. Desastres e calamidades públicos"
           }
         },
         {
           "id": "l5-04",
           "title": {
             "fr-FR": "Lettre IV. Opposition d’humeurs et de caractères |",
-            "en-US": "Letter IV. Opportunities for Practising Charity"
+            "en-US": "Letter IV. Opportunities for Practising Charity",
+            "pt-BR": "Carta IV. Oposição de temperamentos e de caracteres"
           }
         },
         {
           "id": "l5-05",
           "title": {
             "fr-FR": "Lettre V. Même sujet",
-            "en-US": "Letter V. Profit to be gained by Patient Endurance"
+            "en-US": "Letter V. Profit to be gained by Patient Endurance",
+            "pt-BR": "Carta V. Mesmo assunto"
           }
         },
         {
           "id": "l5-06",
           "title": {
             "fr-FR": "Lettre VI. Contrariétés de divers genres",
-            "en-US": "Letter VI. Difficulties"
+            "en-US": "Letter VI. Difficulties",
+            "pt-BR": "Carta VI. Contrariedades de diversos tipos"
           }
         },
         {
           "id": "l5-07",
           "title": {
             "fr-FR": "Lettre VII. Même sujet. — Règles à suivre",
-            "en-US": "Letter VII. Rules for Difficult Circumstances"
+            "en-US": "Letter VII. Rules for Difficult Circumstances",
+            "pt-BR": "Carta VII. Mesmo assunto. — Regras a seguir"
           }
         },
         {
           "id": "l5-08",
           "title": {
             "fr-FR": "Lettre VIII. Contrariétés de la part des gens de bien",
-            "en-US": "Letter VIII. Annoyances caused by Good People"
+            "en-US": "Letter VIII. Annoyances caused by Good People",
+            "pt-BR": "Carta VIII. Contrariedades da parte das pessoas de bem"
           }
         },
         {
           "id": "l5-09",
           "title": {
             "fr-FR": "Lettre IX. Même sujet",
-            "en-US": "Letter IX. How to Bear these Trials"
+            "en-US": "Letter IX. How to Bear these Trials",
+            "pt-BR": "Carta IX. Mesmo assunto"
           }
         },
         {
           "id": "l5-10",
           "title": {
             "fr-FR": "Lettre X. Voir Dieu dans ces épreuves",
-            "en-US": "Letter X. To see God in our Trials"
+            "en-US": "Letter X. To see God in our Trials",
+            "pt-BR": "Carta X. Ver Deus nessas provações"
           }
         },
         {
           "id": "l5-11",
           "title": {
             "fr-FR": "Lettre XI. Privation des appuis humains",
-            "en-US": "Letter XI. To Seek God’s Help Alone"
+            "en-US": "Letter XI. To Seek God’s Help Alone",
+            "pt-BR": "Carta XI. Privação dos apoios humanos"
           }
         },
         {
           "id": "l5-12",
           "title": {
             "fr-FR": "Lettre XII. Eloignement du directeur",
-            "en-US": "Letter XII. God Alone"
+            "en-US": "Letter XII. God Alone",
+            "pt-BR": "Carta XII. Afastamento do diretor"
           }
         },
         {
           "id": "l5-13",
           "title": {
             "fr-FR": "Lettre XIII. Même sujet",
-            "en-US": "Letter XIII. Reliance on God Alone"
+            "en-US": "Letter XIII. Reliance on God Alone",
+            "pt-BR": "Carta XIII. Mesmo assunto"
           }
         },
         {
           "id": "l5-14",
           "title": {
             "fr-FR": "Lettre XIV. Abandon dans les épreuves de ce genre",
-            "en-US": "Letter XIV. Abandonment in Trials"
+            "en-US": "Letter XIV. Abandonment in Trials",
+            "pt-BR": "Carta XIV. Abandono nas provações desse tipo"
           }
         },
         {
           "id": "l5-15",
           "title": {
             "fr-FR": "Lettre XV. Utilité de ces afflictions",
-            "en-US": "Letter XV. The Use of Afflictions"
+            "en-US": "Letter XV. The Use of Afflictions",
+            "pt-BR": "Carta XV. Utilidade dessas aflições"
           }
         },
         {
           "id": "l5-16",
           "title": {
             "fr-FR": "Lettre XVI. Même sujet",
-            "en-US": "Letter XVI. Detachment"
+            "en-US": "Letter XVI. Detachment",
+            "pt-BR": "Carta XVI. Mesmo assunto"
           }
         },
         {
           "id": "l5-17",
           "title": {
             "fr-FR": "Lettre XVII. Conduite à tenir dans ces épreuves",
-            "en-US": "Letter XVII. Conduct during Trials"
+            "en-US": "Letter XVII. Conduct during Trials",
+            "pt-BR": "Carta XVII. Conduta a seguir nessas provações"
           }
         },
         {
           "id": "l5-18",
           "title": {
             "fr-FR": "Lettre XVIII. Même sujet",
-            "en-US": "Letter XVIII. Will of God to be Preferred"
+            "en-US": "Letter XVIII. Will of God to be Preferred",
+            "pt-BR": "Carta XVIII. Mesmo assunto"
           }
         },
         {
           "id": "l5-19",
           "title": {
             "fr-FR": "Lettre XIX. Bonheur des âmes qui s’abandonnent à Dieu dans leurs afflictions",
-            "en-US": "Letter XIX. The Happiness of Resignation"
+            "en-US": "Letter XIX. The Happiness of Resignation",
+            "pt-BR": "Carta XIX. Felicidade das almas que se abandonam a Deus em suas aflições"
           }
         }
       ]
@@ -828,189 +943,216 @@
       "id": "livre-6",
       "title": {
         "fr-FR": "Livre sixième. Suites des épreuves : crainte, incertitude, abandon apparent",
-        "en-US": "Sixth Book. Continuation of the Trials: Fear, Uncertainty, Apparent Abandonment"
+        "en-US": "Sixth Book. Continuation of the Trials: Fear, Uncertainty, Apparent Abandonment",
+        "pt-BR": "Livro sexto. Continuação das provações: temor, incerteza, abandono aparente"
       },
       "children": [
         {
           "id": "l6-01",
           "title": {
             "fr-FR": "Lettre I. Tentations, craintes d’y céder",
-            "en-US": "Letter I. On Temptations"
+            "en-US": "Letter I. On Temptations",
+            "pt-BR": "Carta I. Tentações, temores de ceder a elas"
           }
         },
         {
           "id": "l6-02",
           "title": {
             "fr-FR": "Lettre II. Crainte des tentations elles-mêmes",
-            "en-US": "Letter II. The Fear of Temptation"
+            "en-US": "Letter II. The Fear of Temptation",
+            "pt-BR": "Carta II. Temor das próprias tentações"
           }
         },
         {
           "id": "l6-03",
           "title": {
             "fr-FR": "Lettre III. Explication de l’état d’une âme tentée, et des desseins de Dieu sur elle",
-            "en-US": "Letter III. The State of One Tempted"
+            "en-US": "Letter III. The State of One Tempted",
+            "pt-BR": "Carta III. Explicação do estado de uma alma tentada e dos desígnios de Deus a seu respeito"
           }
         },
         {
           "id": "l6-04",
           "title": {
             "fr-FR": "Lettre IV. Diverses tentations",
-            "en-US": "Letter IV. Different Temptations"
+            "en-US": "Letter IV. Different Temptations",
+            "pt-BR": "Carta IV. Diversas tentações"
           }
         },
         {
           "id": "l6-05",
           "title": {
             "fr-FR": "Lettre V. Crainte de manquer de souinission envers Dieu",
-            "en-US": "Letter V. The Fear of Being Wanting in Submission"
+            "en-US": "Letter V. The Fear of Being Wanting in Submission",
+            "pt-BR": "Carta V. Temor de faltar à submissão a Deus"
           }
         },
         {
           "id": "l6-06",
           "title": {
             "fr-FR": "Lettre VI. La crainte de déplaire à Dieu peut être l’effet de l’’amour-propre",
-            "en-US": "Letter VI. Fear Caused by Self-Love"
+            "en-US": "Letter VI. Fear Caused by Self-Love",
+            "pt-BR": "Carta VI. O temor de desagradar a Deus pode ser efeito do amor-próprio"
           }
         },
         {
           "id": "l6-07",
           "title": {
             "fr-FR": "Lettre VII. Crainte de manquer de bonne volonté",
-            "en-US": "Letter VII. The Want of Good-Will"
+            "en-US": "Letter VII. The Want of Good-Will",
+            "pt-BR": "Carta VII. Temor de não ter boa vontade"
           }
         },
         {
           "id": "l6-08",
           "title": {
             "fr-FR": "Lettre VIII. Crainte d’aimer les créatures plus que Dieu",
-            "en-US": "Letter VIII. The Love of Creatures and of God"
+            "en-US": "Letter VIII. The Love of Creatures and of God",
+            "pt-BR": "Carta VIII. Temor de amar as criaturas mais do que a Deus"
           }
         },
         {
           "id": "l6-09",
           "title": {
             "fr-FR": "Lettre IX. Crainte de déplaire à Dieu et de tromper les créatures",
-            "en-US": "Letter IX. The Love of Creatures and of God"
+            "en-US": "Letter IX. The Love of Creatures and of God",
+            "pt-BR": "Carta IX. Temor de desagradar a Deus e de enganar as criaturas"
           }
         },
         {
           "id": "l6-10",
           "title": {
             "fr-FR": "Lettre X. © A LA SŒUR MARIE-THÉRÈSE DE VIOMÉNIL Crainte de ne pas avancer et de ne pas faire assez de pénitence",
-            "en-US": "Letter X. Fear of Making No Progress"
+            "en-US": "Letter X. Fear of Making No Progress",
+            "pt-BR": "Carta X. À IRMÃ MARIE-THÉRÈSE DE VIOMÉNIL. Temor de não progredir e de não fazer penitência suficiente"
           }
         },
         {
           "id": "l6-11",
           "title": {
             "fr-FR": "Lettre XI. Crainte au sujet des confessions",
-            "en-US": "Letter XI. On Fears About Confession"
+            "en-US": "Letter XI. On Fears About Confession",
+            "pt-BR": "Carta XI. Temor a respeito das confissões"
           }
         },
         {
           "id": "l6-12",
           "title": {
             "fr-FR": "Lettre XII. Même sujet",
-            "en-US": "Letter XII. Rules to Free Oneself from these Fears"
+            "en-US": "Letter XII. Rules to Free Oneself from these Fears",
+            "pt-BR": "Carta XII. Mesmo assunto"
           }
         },
         {
           "id": "l6-13",
           "title": {
             "fr-FR": "Lettre XIII. Crainte au sujet de la contrition",
-            "en-US": "Letter XIII. On Fears About Contrition"
+            "en-US": "Letter XIII. On Fears About Contrition",
+            "pt-BR": "Carta XIII. Temor a respeito da contrição"
           }
         },
         {
           "id": "l6-14",
           "title": {
             "fr-FR": "Lettre XIV. Confession générale",
-            "en-US": "Letter XIV. On General Confession"
+            "en-US": "Letter XIV. On General Confession",
+            "pt-BR": "Carta XIV. Confissão geral"
           }
         },
         {
           "id": "l6-15",
           "title": {
             "fr-FR": "Lettre XV. Même sujet.— Diverses craintes",
-            "en-US": "Letter XV. Different Fears"
+            "en-US": "Letter XV. Different Fears",
+            "pt-BR": "Carta XV. Mesmo assunto. — Diversos temores"
           }
         },
         {
           "id": "l6-16",
           "title": {
             "fr-FR": "Lettre XVI. Même sujet. — Diverses craintes",
-            "en-US": "Letter XVI. Hatred of Sin"
+            "en-US": "Letter XVI. Hatred of Sin",
+            "pt-BR": "Carta XVI. Mesmo assunto. — Diversos temores"
           }
         },
         {
           "id": "l6-17",
           "title": {
             "fr-FR": "Lettre XVII. Reproches de la conscience. — Révoltes des passions",
-            "en-US": "Letter XVII. Remorse and Rebellion"
+            "en-US": "Letter XVII. Remorse and Rebellion",
+            "pt-BR": "Carta XVII. Repreensões da consciência. — Revoltas das paixões"
           }
         },
         {
           "id": "l6-18",
           "title": {
             "fr-FR": "Lettre XVIII. Même sujet",
-            "en-US": "Letter XVIII. God Alone can Remove These Trials"
+            "en-US": "Letter XVIII. God Alone can Remove These Trials",
+            "pt-BR": "Carta XVIII. Mesmo assunto"
           }
         },
         {
           "id": "l6-19",
           "title": {
             "fr-FR": "Lettre XIX. Même sujet ; rechutes",
-            "en-US": "Letter XIX. On Relapses"
+            "en-US": "Letter XIX. On Relapses",
+            "pt-BR": "Carta XIX. Mesmo assunto; recaídas"
           }
         },
         {
           "id": "l6-20",
           "title": {
             "fr-FR": "Lettre XX. Abattement dans les épreuves, distractions, ressentiment",
-            "en-US": "Letter XX. Depression under Trials"
+            "en-US": "Letter XX. Depression under Trials",
+            "pt-BR": "Carta XX. Abatimento nas provações, distrações, ressentimento"
           }
         },
         {
           "id": "l6-21",
           "title": {
             "fr-FR": "Lettre XXI. Même sujet",
-            "en-US": "Letter XXI. On Humble Silence and Patience During Trials"
+            "en-US": "Letter XXI. On Humble Silence and Patience During Trials",
+            "pt-BR": "Carta XXI. Mesmo assunto"
           }
         },
         {
           "id": "l6-22",
           "title": {
             "fr-FR": "Lettre XXII. Sentiment de sa misère; embarras extérieurs",
-            "en-US": "Letter XXII. To Bear With Oneself"
+            "en-US": "Letter XXII. To Bear With Oneself",
+            "pt-BR": "Carta XXII. Sentimento da própria miséria; embaraços exteriores"
           }
         },
         {
           "id": "l6-23",
           "title": {
             "fr-FR": "Lettre XXIII. Fautes passées Alby, 23 juillet 1733",
-            "en-US": "Letter XXIII. On Past Sins"
+            "en-US": "Letter XXIII. On Past Sins",
+            "pt-BR": "Carta XXIII. Faltas passadas. Albi, 23 de julho de 1733"
           }
         },
         {
           "id": "l6-24",
           "title": {
             "fr-FR": "Lettre XXIV. Suites fâcheuses de nos imprudences",
-            "en-US": "Letter XXIV. Results of Imprudence"
+            "en-US": "Letter XXIV. Results of Imprudence",
+            "pt-BR": "Carta XXIV. Consequências funestas de nossas imprudências"
           }
         },
         {
           "id": "l6-25",
           "title": {
             "fr-FR": "Lettre XXV. Règles à suivre dans ces épreuves",
-            "en-US": "Letter XXV. Interior Suffering"
+            "en-US": "Letter XXV. Interior Suffering",
+            "pt-BR": "Carta XXV. Regras a seguir nessas provações"
           }
         },
         {
           "id": "l6-26",
           "title": {
             "fr-FR": "Lettre XXVI. Même sujet Atby, 1733",
-            "en-US": "Letter XXVI. On Different States of Resignation"
+            "en-US": "Letter XXVI. On Different States of Resignation",
+            "pt-BR": "Carta XXVI. Mesmo assunto. Albi, 1733"
           }
         }
       ]
@@ -1019,133 +1161,152 @@
       "id": "livre-7",
       "title": {
         "fr-FR": "Livre septième. Dernières épreuves : agonie et mort mystique",
-        "en-US": "Seventh Book. Last Trials: Agony and Mystic Death"
+        "en-US": "Seventh Book. Last Trials: Agony and Mystic Death",
+        "pt-BR": "Livro sétimo. Últimas provações: agonia e morte mística"
       },
       "children": [
         {
           "id": "l7-01",
           "title": {
             "fr-FR": "Lettre I. Nudité intérieure. — Anéantissement. — Tentation de désespoii",
-            "en-US": "Letter I. Temptation to Despair"
+            "en-US": "Letter I. Temptation to Despair",
+            "pt-BR": "Carta I. Nudez interior. — Aniquilamento. — Tentação de desespero"
           }
         },
         {
           "id": "l7-02",
           "title": {
             "fr-FR": "Lettre II. Même sujet",
-            "en-US": "Letter II. Good Symptoms"
+            "en-US": "Letter II. Good Symptoms",
+            "pt-BR": "Carta II. Mesmo assunto"
           }
         },
         {
           "id": "l7-03",
           "title": {
             "fr-FR": "Lettre III. Accablement intérieur",
-            "en-US": "Letter III. Interior Oppression"
+            "en-US": "Letter III. Interior Oppression",
+            "pt-BR": "Carta III. Opressão interior"
           }
         },
         {
           "id": "l7-04",
           "title": {
             "fr-FR": "Lettre IV. Même sujet",
-            "en-US": "Letter IV. Purification of the Heart"
+            "en-US": "Letter IV. Purification of the Heart",
+            "pt-BR": "Carta IV. Mesmo assunto"
           }
         },
         {
           "id": "l7-05",
           "title": {
             "fr-FR": "Lettre V. Vide du cœur",
-            "en-US": "Letter V. On Emptiness of Heart"
+            "en-US": "Letter V. On Emptiness of Heart",
+            "pt-BR": "Carta V. Vazio do coração"
           }
         },
         {
           "id": "l7-06",
           "title": {
             "fr-FR": "Lettre VI. Même sujet ; redoublement de peines",
-            "en-US": "Letter VI. Fresh Suffering"
+            "en-US": "Letter VI. Fresh Suffering",
+            "pt-BR": "Carta VI. Mesmo assunto; redobramento das penas"
           }
         },
         {
           "id": "l7-07",
           "title": {
             "fr-FR": "Lettre VII. Même sujet",
-            "en-US": "Letter VII. Supernatural Fears"
+            "en-US": "Letter VII. Supernatural Fears",
+            "pt-BR": "Carta VII. Mesmo assunto"
           }
         },
         {
           "id": "l7-08",
           "title": {
             "fr-FR": "Lettre VIII. Tentations violentes",
-            "en-US": "Letter VIII. Violent Temptations"
+            "en-US": "Letter VIII. Violent Temptations",
+            "pt-BR": "Carta VIII. Tentações violentas"
           }
         },
         {
           "id": "l7-09",
           "title": {
             "fr-FR": "Lettre IX. Anéantissement et agonie spirituelle",
-            "en-US": "Letter IX. Death of Self-Love"
+            "en-US": "Letter IX. Death of Self-Love",
+            "pt-BR": "Carta IX. Aniquilamento e agonia espiritual"
           }
         },
         {
           "id": "l7-10",
           "title": {
             "fr-FR": "Lettre X. Mort mystique. Son utilité Lunéville, 1133",
-            "en-US": "Letter X. On Mystical Death"
+            "en-US": "Letter X. On Mystical Death",
+            "pt-BR": "Carta X. Morte mística. Sua utilidade. Lunéville, 1133"
           }
         },
         {
           "id": "l7-11",
           "title": {
             "fr-FR": "Lettre XI. Même sujet. — Avant la retraite",
-            "en-US": "Letter XI. For the Time of Retreat"
+            "en-US": "Letter XI. For the Time of Retreat",
+            "pt-BR": "Carta XI. Mesmo assunto. — Antes do retiro"
           }
         },
         {
           "id": "l7-12",
           "title": {
             "fr-FR": "Lettre XII. Même sujet. — Après la retraite, 4 novembre 1734",
-            "en-US": "Letter XII. After the Retreat"
+            "en-US": "Letter XII. After the Retreat",
+            "pt-BR": "Carta XII. Mesmo assunto. — Depois do retiro, 4 de novembro de 1734"
           }
         },
         {
           "id": "l7-13",
           "title": {
             "fr-FR": "Lettre XIII. Purgatoire de l’âme",
-            "en-US": "Letter XIII. The Fear of Reprobation"
+            "en-US": "Letter XIII. The Fear of Reprobation",
+            "pt-BR": "Carta XIII. Purgatório da alma"
           }
         },
         {
           "id": "l7-14",
           "title": {
             "fr-FR": "Lettre XIV. Explication de ces épreuves. — Direction Nancy, 17384",
-            "en-US": "Letter XIV. Explanations and Direction"
+            "en-US": "Letter XIV. Explanations and Direction",
+            "pt-BR": "Carta XIV. Explicação dessas provações. — Direção. Nancy, 17384"
           }
         },
         {
           "id": "l7-15",
           "title": {
             "fr-FR": "Lettre XV. Même sujet",
-            "en-US": "Letter XV. Perfect Detachment"
+            "en-US": "Letter XV. Perfect Detachment",
+            "pt-BR": "Carta XV. Mesmo assunto"
           }
         },
         {
           "id": "l7-16",
           "title": {
             "fr-FR": "Lettre XVI. Explication du désespoir apparent",
-            "en-US": "Letter XVI. Explanation of Apparent Despair"
+            "en-US": "Letter XVI. Explanation of Apparent Despair",
+            "pt-BR": "Carta XVI. Explicação do desespero aparente"
           }
         },
         {
           "id": "l7-17",
           "title": {
             "fr-FR": "Lettre XVII. Pratique de l’abandon au sein de ces épreuves",
-            "en-US": "Letter XVII. Abandonment in Trials"
+            "en-US": "Letter XVII. Abandonment in Trials",
+            "pt-BR": "Carta XVII. Prática do abandono em meio a essas provações"
           }
         },
         {
           "id": "l7-18",
           "title": {
             "fr-FR": "Lettre XVIII. Fruit de la mort totale à soi-même",
-            "en-US": "Letter XVIII. Fruit of Death to Self"
+            "en-US": "Letter XVIII. Fruit of Death to Self",
+            "pt-BR": "Carta XVIII. Fruto da morte total a si mesmo"
           }
         }
       ]
