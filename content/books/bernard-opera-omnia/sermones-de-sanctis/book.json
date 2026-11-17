@@ -18,13 +18,19 @@
   },
   "composed": "c. 1125-1153",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "bernard/sermones-de-sanctis",
   "editions": {
     "la": {
       "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182-184)",
       "year": 1854
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,13 +47,15 @@
     {
       "id": "w6209",
       "title": {
-        "la": "In vigilia S. Andreae apostoli"
+        "la": "In vigilia S. Andreae apostoli",
+        "pt-BR": "Na vigília de Santo André, apóstolo"
       },
       "children": [
         {
           "id": "w6209-sermo",
           "title": {
-            "la": "In vigilia S. Andreae apostoli"
+            "la": "In vigilia S. Andreae apostoli",
+            "pt-BR": "Na vigília de Santo André, apóstolo"
           }
         }
       ]
@@ -55,19 +63,22 @@
     {
       "id": "w6192",
       "title": {
-        "la": "S. Andreae apostoli"
+        "la": "S. Andreae apostoli",
+        "pt-BR": "Santo André, apóstolo"
       },
       "children": [
         {
           "id": "w6192-s001",
           "title": {
-            "la": "Sermo I. De tribus generibus piscium, qui sunt in mari, in flumine, et stagno"
+            "la": "Sermo I. De tribus generibus piscium, qui sunt in mari, in flumine, et stagno",
+            "pt-BR": "Sermão I. Sobre os três gêneros de peixes que vivem no mar, no rio e no lago"
           }
         },
         {
           "id": "w6192-s002",
           "title": {
-            "la": "Sermo II. De quatuor cornibus crucis"
+            "la": "Sermo II. De quatuor cornibus crucis",
+            "pt-BR": "Sermão II. Sobre as quatro extremidades da cruz"
           }
         }
       ]
@@ -75,13 +86,15 @@
     {
       "id": "w6168",
       "title": {
-        "la": "De S. Clemente"
+        "la": "De S. Clemente",
+        "pt-BR": "Sobre São Clemente"
       },
       "children": [
         {
           "id": "w6168-sermo",
           "title": {
-            "la": "De S. Clemente"
+            "la": "De S. Clemente",
+            "pt-BR": "Sobre São Clemente"
           }
         }
       ]
@@ -89,13 +102,15 @@
     {
       "id": "w6193",
       "title": {
-        "la": "S. Martini"
+        "la": "S. Martini",
+        "pt-BR": "São Martinho"
       },
       "children": [
         {
           "id": "w6193-sermo",
           "title": {
-            "la": "S. Martini"
+            "la": "S. Martini",
+            "pt-BR": "São Martinho"
           }
         }
       ]
@@ -103,19 +118,22 @@
     {
       "id": "w6187",
       "title": {
-        "la": "In conversione S. Pauli"
+        "la": "In conversione S. Pauli",
+        "pt-BR": "Na conversão de São Paulo"
       },
       "children": [
         {
           "id": "w6187-s001",
           "title": {
-            "la": "Sermo I. Quomodo ad exemplum ejus converti debemus"
+            "la": "Sermo I. Quomodo ad exemplum ejus converti debemus",
+            "pt-BR": "Sermão I. Como devemos converter-nos a seu exemplo"
           }
         },
         {
           "id": "w6187-s002",
           "title": {
-            "la": "Sermo II"
+            "la": "Sermo II",
+            "pt-BR": "Sermão II"
           }
         }
       ]
@@ -123,25 +141,29 @@
     {
       "id": "w6179",
       "title": {
-        "la": "In Purificatione B. Mariae"
+        "la": "In Purificatione B. Mariae",
+        "pt-BR": "Na Purificação da Bem-aventurada Maria"
       },
       "children": [
         {
           "id": "w6179-s001",
           "title": {
-            "la": "Sermo I. De triplici misericordia"
+            "la": "Sermo I. De triplici misericordia",
+            "pt-BR": "Sermão I. Sobre a tríplice misericórdia"
           }
         },
         {
           "id": "w6179-s002",
           "title": {
-            "la": "Sermo II. De oridine et modo processionis Christi in templum"
+            "la": "Sermo II. De oridine et modo processionis Christi in templum",
+            "pt-BR": "Sermão II. Sobre a ordem e o modo da procissão de Cristo ao templo"
           }
         },
         {
           "id": "w6179-s003",
           "title": {
-            "la": "Sermo III. De puero, Maria et Joseph"
+            "la": "Sermo III. De puero, Maria et Joseph",
+            "pt-BR": "Sermão III. Sobre o menino, Maria e José"
           }
         }
       ]
@@ -149,25 +171,29 @@
     {
       "id": "w6182",
       "title": {
-        "la": "In annuntiatione B. V. Mariae"
+        "la": "In annuntiatione B. V. Mariae",
+        "pt-BR": "Na Anunciação da Bem-aventurada Virgem Maria"
       },
       "children": [
         {
           "id": "w6182-s001",
           "title": {
-            "la": "Sermo I. De verbis psalmi LXXXIV, 10, 11: « Ut inhabitet gloria in terra nostra. »"
+            "la": "Sermo I. De verbis psalmi LXXXIV, 10, 11: « Ut inhabitet gloria in terra nostra. »",
+            "pt-BR": "Sermão I. Sobre as palavras do Salmo 84:10, 11: “Para que a glória habite em nossa terra.”"
           }
         },
         {
           "id": "w6182-s002",
           "title": {
-            "la": "Sermo II. De septiformi Spiritu in Christo"
+            "la": "Sermo II. De septiformi Spiritu in Christo",
+            "pt-BR": "Sermão II. Sobre o Espírito septiforme em Cristo"
           }
         },
         {
           "id": "w6182-s003",
           "title": {
-            "la": "Sermo III. De muliere adultera (Joan. VIII, 3-11); de Susanna (Dan. XIII): de B. Maria (Luc. I, 26-38)"
+            "la": "Sermo III. De muliere adultera (Joan. VIII, 3-11); de Susanna (Dan. XIII): de B. Maria (Luc. I, 26-38)",
+            "pt-BR": "Sermão III. Sobre a mulher adúltera (João 8:3-11); sobre Susana (Daniel 13); sobre a Bem-aventurada Maria (Lucas 1:26-38)"
           }
         }
       ]
@@ -175,13 +201,15 @@
     {
       "id": "w6196",
       "title": {
-        "la": "In natali S. Benedicti"
+        "la": "In natali S. Benedicti",
+        "pt-BR": "Na festa de São Bento"
       },
       "children": [
         {
           "id": "w6196-sermo",
           "title": {
-            "la": "In natali S. Benedicti"
+            "la": "In natali S. Benedicti",
+            "pt-BR": "Na festa de São Bento"
           }
         }
       ]
@@ -189,13 +217,15 @@
     {
       "id": "w6199",
       "title": {
-        "la": "In nativitate S. Joannis Baptistae"
+        "la": "In nativitate S. Joannis Baptistae",
+        "pt-BR": "Na Natividade de São João Batista"
       },
       "children": [
         {
           "id": "w6199-sermo",
           "title": {
-            "la": "In nativitate S. Joannis Baptistae"
+            "la": "In nativitate S. Joannis Baptistae",
+            "pt-BR": "Na Natividade de São João Batista"
           }
         }
       ]
@@ -203,13 +233,15 @@
     {
       "id": "w6210",
       "title": {
-        "la": "In vigilia SS. Petri et Pauli"
+        "la": "In vigilia SS. Petri et Pauli",
+        "pt-BR": "Na vigília dos Santos Pedro e Paulo"
       },
       "children": [
         {
           "id": "w6210-sermo",
           "title": {
-            "la": "In vigilia SS. Petri et Pauli"
+            "la": "In vigilia SS. Petri et Pauli",
+            "pt-BR": "Na vigília dos Santos Pedro e Paulo"
           }
         }
       ]
@@ -217,25 +249,29 @@
     {
       "id": "w6194",
       "title": {
-        "la": "SS. Petri et Pauli"
+        "la": "SS. Petri et Pauli",
+        "pt-BR": "Santos Pedro e Paulo"
       },
       "children": [
         {
           "id": "w6194-s001",
           "title": {
-            "la": "Sermo I. De triplici custodia quam apostoli habent super nos, et de tribus gradibus conversationis nostrae"
+            "la": "Sermo I. De triplici custodia quam apostoli habent super nos, et de tribus gradibus conversationis nostrae",
+            "pt-BR": "Sermão I. Sobre a tríplice vigilância dos apóstolos sobre nós e os três graus de nosso modo de vida"
           }
         },
         {
           "id": "w6194-s002",
           "title": {
-            "la": "Sermo II"
+            "la": "Sermo II",
+            "pt-BR": "Sermão II"
           }
         },
         {
           "id": "w6194-s003",
           "title": {
-            "la": "Sermo III. De lectione libri Sapientiae: « Hi sunt viri misericordiae. » (Eccl. XLIV, 10, 11.)"
+            "la": "Sermo III. De lectione libri Sapientiae: « Hi sunt viri misericordiae. » (Eccl. XLIV, 10, 11.)",
+            "pt-BR": "Sermão III. Sobre a leitura do livro da Sabedoria: “Estes são homens de misericórdia.” (Eclesiástico 44:10, 11.)"
           }
         }
       ]
@@ -243,31 +279,36 @@
     {
       "id": "w6184",
       "title": {
-        "la": "In assumptione B. V. Mariae"
+        "la": "In assumptione B. V. Mariae",
+        "pt-BR": "Na Assunção da Bem-aventurada Virgem Maria"
       },
       "children": [
         {
           "id": "w6184-s001",
           "title": {
-            "la": "Sermo I. De gemina susceptione, Christi scilicet et Mariae"
+            "la": "Sermo I. De gemina susceptione, Christi scilicet et Mariae",
+            "pt-BR": "Sermão I. Sobre a dupla acolhida, a de Cristo e a de Maria"
           }
         },
         {
           "id": "w6184-s002",
           "title": {
-            "la": "Sermo II. De domo mundanda, ornanda, implenda"
+            "la": "Sermo II. De domo mundanda, ornanda, implenda",
+            "pt-BR": "Sermão II. Sobre a casa que deve ser limpa, adornada e preenchida"
           }
         },
         {
           "id": "w6184-s003",
           "title": {
-            "la": "Sermo III. De Maria, Martha et Lazaro. (Luc. X, 38-42.)"
+            "la": "Sermo III. De Maria, Martha et Lazaro. (Luc. X, 38-42.)",
+            "pt-BR": "Sermão III. Sobre Maria, Marta e Lázaro. (Lucas 10:38-42.)"
           }
         },
         {
           "id": "w6184-s004",
           "title": {
-            "la": "Sermo IV. De quatriduo Lazari, et praeconio Virginis"
+            "la": "Sermo IV. De quatriduo Lazari, et praeconio Virginis",
+            "pt-BR": "Sermão IV. Sobre os quatro dias de Lázaro e o elogio da Virgem"
           }
         }
       ]
@@ -275,13 +316,15 @@
     {
       "id": "w6174",
       "title": {
-        "la": "Dominica infra octavam assumptionis B. V. Mariae"
+        "la": "Dominica infra octavam assumptionis B. V. Mariae",
+        "pt-BR": "Domingo na oitava da Assunção da Bem-aventurada Virgem Maria"
       },
       "children": [
         {
           "id": "w6174-sermo",
           "title": {
-            "la": "Dominica infra octavam assumptionis B. V. Mariae"
+            "la": "Dominica infra octavam assumptionis B. V. Mariae",
+            "pt-BR": "Domingo na oitava da Assunção da Bem-aventurada Virgem Maria"
           }
         }
       ]
@@ -289,13 +332,15 @@
     {
       "id": "w6201",
       "title": {
-        "la": "In navitate B. V. Mariae"
+        "la": "In navitate B. V. Mariae",
+        "pt-BR": "Na Natividade da Bem-aventurada Virgem Maria"
       },
       "children": [
         {
           "id": "w6201-sermo",
           "title": {
-            "la": "In navitate B. V. Mariae"
+            "la": "In navitate B. V. Mariae",
+            "pt-BR": "Na Natividade da Bem-aventurada Virgem Maria"
           }
         }
       ]
@@ -303,19 +348,22 @@
     {
       "id": "w21529",
       "title": {
-        "la": "S. Michaelis"
+        "la": "S. Michaelis",
+        "pt-BR": "São Miguel"
       },
       "children": [
         {
           "id": "w21529-s001",
           "title": {
-            "la": "Sermo I. De angelorum erga nos officiis, et nostra erga ipsos reverentia"
+            "la": "Sermo I. De angelorum erga nos officiis, et nostra erga ipsos reverentia",
+            "pt-BR": "Sermão I. Sobre os ofícios dos anjos para conosco e nossa reverência para com eles"
           }
         },
         {
           "id": "w21529-s002",
           "title": {
-            "la": "Sermo II. In illud, « Qui scandalizaverit unum de pusillis istis, qui in me credunt, » etc. (Matth. XVIII, 6-9)"
+            "la": "Sermo II. In illud, « Qui scandalizaverit unum de pusillis istis, qui in me credunt, » etc. (Matth. XVIII, 6-9)",
+            "pt-BR": "Sermão II. Sobre estas palavras: “Quem escandalizar um destes pequeninos que creem em mim”, etc. (Mateus 18:6-9)"
           }
         }
       ]
@@ -323,37 +371,43 @@
     {
       "id": "w6195",
       "title": {
-        "la": "Omnium sanctorum"
+        "la": "Omnium sanctorum",
+        "pt-BR": "Todos os Santos"
       },
       "children": [
         {
           "id": "w6195-s001",
           "title": {
-            "la": "Sermo I. De lectione evangelica, « Videns Jesus turbas, » etc. (Matth. V, 1-12.)"
+            "la": "Sermo I. De lectione evangelica, « Videns Jesus turbas, » etc. (Matth. V, 1-12.)",
+            "pt-BR": "Sermão I. Sobre a leitura evangélica: “Vendo Jesus as multidões”, etc. (Mateus 5:1-12.)"
           }
         },
         {
           "id": "w6195-s002",
           "title": {
-            "la": "Sermo II. De statu sanctorum ante resurrectionem"
+            "la": "Sermo II. De statu sanctorum ante resurrectionem",
+            "pt-BR": "Sermão II. Sobre o estado dos santos antes da ressurreição"
           }
         },
         {
           "id": "w6195-s003",
           "title": {
-            "la": "Sermo III. Quomodo animae sactae erunt sine macula et ruga"
+            "la": "Sermo III. Quomodo animae sactae erunt sine macula et ruga",
+            "pt-BR": "Sermão III. Como as almas santas estarão sem mancha nem ruga"
           }
         },
         {
           "id": "w6195-s004",
           "title": {
-            "la": "Sermo IV. De sinu Abrahae, et altari sub quo sanctorum animas beatus Joannes audivit, et septem panibus, ex quibus totidem sportae remansisse leguntur"
+            "la": "Sermo IV. De sinu Abrahae, et altari sub quo sanctorum animas beatus Joannes audivit, et septem panibus, ex quibus totidem sportae remansisse leguntur",
+            "pt-BR": "Sermão IV. Sobre o seio de Abraão, o altar sob o qual o bem-aventurado João ouviu as almas dos santos e os sete pães dos quais se lê que sobraram outros tantos cestos"
           }
         },
         {
           "id": "w6195-s005",
           "title": {
-            "la": "Sermo V"
+            "la": "Sermo V",
+            "pt-BR": "Sermão V"
           }
         }
       ]
@@ -361,13 +415,15 @@
     {
       "id": "w6202",
       "title": {
-        "la": "In obitu D. Humberti"
+        "la": "In obitu D. Humberti",
+        "pt-BR": "Na morte de Dom Humberto"
       },
       "children": [
         {
           "id": "w6202-sermo",
           "title": {
-            "la": "In obitu D. Humberti"
+            "la": "In obitu D. Humberti",
+            "pt-BR": "Na morte de Dom Humberto"
           }
         }
       ]
@@ -375,19 +431,22 @@
     {
       "id": "w6208",
       "title": {
-        "la": "In transitu S. Malachiae"
+        "la": "In transitu S. Malachiae",
+        "pt-BR": "No trânsito de São Malaquias"
       },
       "children": [
         {
           "id": "w6208-s001",
           "title": {
-            "la": "Sermo I"
+            "la": "Sermo I",
+            "pt-BR": "Sermão I"
           }
         },
         {
           "id": "w6208-s002",
           "title": {
-            "la": "Sermo II"
+            "la": "Sermo II",
+            "pt-BR": "Sermão II"
           }
         }
       ]
@@ -395,19 +454,22 @@
     {
       "id": "w6197",
       "title": {
-        "la": "In natali S. Victoris confessoris"
+        "la": "In natali S. Victoris confessoris",
+        "pt-BR": "Na festa de São Vítor, confessor"
       },
       "children": [
         {
           "id": "w6197-s001",
           "title": {
-            "la": "Sermo I"
+            "la": "Sermo I",
+            "pt-BR": "Sermão I"
           }
         },
         {
           "id": "w6197-s002",
           "title": {
-            "la": "Sermo II"
+            "la": "Sermo II",
+            "pt-BR": "Sermão II"
           }
         }
       ]
@@ -415,13 +477,15 @@
     {
       "id": "w6200",
       "title": {
-        "la": "In nativitate SS. Innocentium"
+        "la": "In nativitate SS. Innocentium",
+        "pt-BR": "Na Natividade dos Santos Inocentes"
       },
       "children": [
         {
           "id": "w6200-pars",
           "title": {
-            "la": "Sermo unicus. de quatuor continuis solemnitatibus, scilicet nativitatis domini, ac ss. stephani, joannis, et innocentium"
+            "la": "Sermo unicus. de quatuor continuis solemnitatibus, scilicet nativitatis domini, ac ss. stephani, joannis, et innocentium",
+            "pt-BR": "Sermão único. Sobre as quatro solenidades consecutivas: a Natividade do Senhor e as de Santo Estêvão, São João e dos Santos Inocentes"
           }
         }
       ]
