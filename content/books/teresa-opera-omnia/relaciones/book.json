@@ -18,13 +18,19 @@
   },
   "composed": "1560–1581",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "teresa-of-avila/relaciones",
   "editions": {
     "es-ES": {
       "editor": "P. Silverio de Santa Teresa",
       "year": 1915
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -48,403 +54,470 @@
     {
       "id": "r01",
       "title": {
-        "es-ES": "Relación I"
+        "es-ES": "Relación I",
+        "pt-BR": "Relação I"
       }
     },
     {
       "id": "r02",
       "title": {
-        "es-ES": "Relación II"
+        "es-ES": "Relación II",
+        "pt-BR": "Relação II"
       }
     },
     {
       "id": "r03",
       "title": {
-        "es-ES": "Relación III"
+        "es-ES": "Relación III",
+        "pt-BR": "Relação III"
       }
     },
     {
       "id": "r04",
       "title": {
-        "es-ES": "Relación IV"
+        "es-ES": "Relación IV",
+        "pt-BR": "Relação IV"
       }
     },
     {
       "id": "r05",
       "title": {
-        "es-ES": "Relación V"
+        "es-ES": "Relación V",
+        "pt-BR": "Relação V"
       }
     },
     {
       "id": "r06",
       "title": {
-        "es-ES": "Relación VI"
+        "es-ES": "Relación VI",
+        "pt-BR": "Relação VI"
       }
     },
     {
       "id": "r07",
       "title": {
-        "es-ES": "Relación VII"
+        "es-ES": "Relación VII",
+        "pt-BR": "Relação VII"
       }
     },
     {
       "id": "r08",
       "title": {
-        "es-ES": "Relación VIII"
+        "es-ES": "Relación VIII",
+        "pt-BR": "Relação VIII"
       }
     },
     {
       "id": "r09",
       "title": {
-        "es-ES": "Relación IX"
+        "es-ES": "Relación IX",
+        "pt-BR": "Relação IX"
       }
     },
     {
       "id": "r10",
       "title": {
-        "es-ES": "Relación X"
+        "es-ES": "Relación X",
+        "pt-BR": "Relação X"
       }
     },
     {
       "id": "r11",
       "title": {
-        "es-ES": "Relación XI"
+        "es-ES": "Relación XI",
+        "pt-BR": "Relação XI"
       }
     },
     {
       "id": "r12",
       "title": {
-        "es-ES": "Relación XII"
+        "es-ES": "Relación XII",
+        "pt-BR": "Relação XII"
       }
     },
     {
       "id": "r13",
       "title": {
-        "es-ES": "Relación XIII"
+        "es-ES": "Relación XIII",
+        "pt-BR": "Relação XIII"
       }
     },
     {
       "id": "r14",
       "title": {
-        "es-ES": "Relación XIV"
+        "es-ES": "Relación XIV",
+        "pt-BR": "Relação XIV"
       }
     },
     {
       "id": "r15",
       "title": {
-        "es-ES": "Relación XV"
+        "es-ES": "Relación XV",
+        "pt-BR": "Relação XV"
       }
     },
     {
       "id": "r16",
       "title": {
-        "es-ES": "Relación XVI"
+        "es-ES": "Relación XVI",
+        "pt-BR": "Relação XVI"
       }
     },
     {
       "id": "r17",
       "title": {
-        "es-ES": "Relación XVII"
+        "es-ES": "Relación XVII",
+        "pt-BR": "Relação XVII"
       }
     },
     {
       "id": "r18",
       "title": {
-        "es-ES": "Relación XVIII"
+        "es-ES": "Relación XVIII",
+        "pt-BR": "Relação XVIII"
       }
     },
     {
       "id": "r19",
       "title": {
-        "es-ES": "Relación XIX"
+        "es-ES": "Relación XIX",
+        "pt-BR": "Relação XIX"
       }
     },
     {
       "id": "r20",
       "title": {
-        "es-ES": "Relación XX"
+        "es-ES": "Relación XX",
+        "pt-BR": "Relação XX"
       }
     },
     {
       "id": "r21",
       "title": {
-        "es-ES": "Relación XXI"
+        "es-ES": "Relación XXI",
+        "pt-BR": "Relação XXI"
       }
     },
     {
       "id": "r22",
       "title": {
-        "es-ES": "Relación XXII"
+        "es-ES": "Relación XXII",
+        "pt-BR": "Relação XXII"
       }
     },
     {
       "id": "r23",
       "title": {
-        "es-ES": "Relación XXIII"
+        "es-ES": "Relación XXIII",
+        "pt-BR": "Relação XXIII"
       }
     },
     {
       "id": "r24",
       "title": {
-        "es-ES": "Relación XXIV"
+        "es-ES": "Relación XXIV",
+        "pt-BR": "Relação XXIV"
       }
     },
     {
       "id": "r25",
       "title": {
-        "es-ES": "Relación XXV"
+        "es-ES": "Relación XXV",
+        "pt-BR": "Relação XXV"
       }
     },
     {
       "id": "r26",
       "title": {
-        "es-ES": "Relación XXVI"
+        "es-ES": "Relación XXVI",
+        "pt-BR": "Relação XXVI"
       }
     },
     {
       "id": "r27",
       "title": {
-        "es-ES": "Relación XXVII"
+        "es-ES": "Relación XXVII",
+        "pt-BR": "Relação XXVII"
       }
     },
     {
       "id": "r28",
       "title": {
-        "es-ES": "Relación XXVIII"
+        "es-ES": "Relación XXVIII",
+        "pt-BR": "Relação XXVIII"
       }
     },
     {
       "id": "r29",
       "title": {
-        "es-ES": "Relación XXIX"
+        "es-ES": "Relación XXIX",
+        "pt-BR": "Relação XXIX"
       }
     },
     {
       "id": "r30",
       "title": {
-        "es-ES": "Relación XXX"
+        "es-ES": "Relación XXX",
+        "pt-BR": "Relação XXX"
       }
     },
     {
       "id": "r31",
       "title": {
-        "es-ES": "Relación XXXI"
+        "es-ES": "Relación XXXI",
+        "pt-BR": "Relação XXXI"
       }
     },
     {
       "id": "r32",
       "title": {
-        "es-ES": "Relación XXXII"
+        "es-ES": "Relación XXXII",
+        "pt-BR": "Relação XXXII"
       }
     },
     {
       "id": "r33",
       "title": {
-        "es-ES": "Relación XXXIII"
+        "es-ES": "Relación XXXIII",
+        "pt-BR": "Relação XXXIII"
       }
     },
     {
       "id": "r34",
       "title": {
-        "es-ES": "Relación XXXIV"
+        "es-ES": "Relación XXXIV",
+        "pt-BR": "Relação XXXIV"
       }
     },
     {
       "id": "r35",
       "title": {
-        "es-ES": "Relación XXXV"
+        "es-ES": "Relación XXXV",
+        "pt-BR": "Relação XXXV"
       }
     },
     {
       "id": "r36",
       "title": {
-        "es-ES": "Relación XXXVI"
+        "es-ES": "Relación XXXVI",
+        "pt-BR": "Relação XXXVI"
       }
     },
     {
       "id": "r37",
       "title": {
-        "es-ES": "Relación XXXVII"
+        "es-ES": "Relación XXXVII",
+        "pt-BR": "Relação XXXVII"
       }
     },
     {
       "id": "r38",
       "title": {
-        "es-ES": "Relación XXXVIII"
+        "es-ES": "Relación XXXVIII",
+        "pt-BR": "Relação XXXVIII"
       }
     },
     {
       "id": "r39",
       "title": {
-        "es-ES": "Relación XXXIX"
+        "es-ES": "Relación XXXIX",
+        "pt-BR": "Relação XXXIX"
       }
     },
     {
       "id": "r40",
       "title": {
-        "es-ES": "Relación XL"
+        "es-ES": "Relación XL",
+        "pt-BR": "Relação XL"
       }
     },
     {
       "id": "r41",
       "title": {
-        "es-ES": "Relación XLI"
+        "es-ES": "Relación XLI",
+        "pt-BR": "Relação XLI"
       }
     },
     {
       "id": "r42",
       "title": {
-        "es-ES": "Relación XLII"
+        "es-ES": "Relación XLII",
+        "pt-BR": "Relação XLII"
       }
     },
     {
       "id": "r43",
       "title": {
-        "es-ES": "Relación XLIII"
+        "es-ES": "Relación XLIII",
+        "pt-BR": "Relação XLIII"
       }
     },
     {
       "id": "r44",
       "title": {
-        "es-ES": "Relación XLIV"
+        "es-ES": "Relación XLIV",
+        "pt-BR": "Relação XLIV"
       }
     },
     {
       "id": "r45",
       "title": {
-        "es-ES": "Relación XLV"
+        "es-ES": "Relación XLV",
+        "pt-BR": "Relação XLV"
       }
     },
     {
       "id": "r46",
       "title": {
-        "es-ES": "Relación XLVI"
+        "es-ES": "Relación XLVI",
+        "pt-BR": "Relação XLVI"
       }
     },
     {
       "id": "r47",
       "title": {
-        "es-ES": "Relación XLVII"
+        "es-ES": "Relación XLVII",
+        "pt-BR": "Relação XLVII"
       }
     },
     {
       "id": "r48",
       "title": {
-        "es-ES": "Relación XLVIII"
+        "es-ES": "Relación XLVIII",
+        "pt-BR": "Relação XLVIII"
       }
     },
     {
       "id": "r49",
       "title": {
-        "es-ES": "Relación XLIX"
+        "es-ES": "Relación XLIX",
+        "pt-BR": "Relação XLIX"
       }
     },
     {
       "id": "r50",
       "title": {
-        "es-ES": "Relación L"
+        "es-ES": "Relación L",
+        "pt-BR": "Relação L"
       }
     },
     {
       "id": "r51",
       "title": {
-        "es-ES": "Relación LI"
+        "es-ES": "Relación LI",
+        "pt-BR": "Relação LI"
       }
     },
     {
       "id": "r52",
       "title": {
-        "es-ES": "Relación LII"
+        "es-ES": "Relación LII",
+        "pt-BR": "Relação LII"
       }
     },
     {
       "id": "r53",
       "title": {
-        "es-ES": "Relación LIII"
+        "es-ES": "Relación LIII",
+        "pt-BR": "Relação LIII"
       }
     },
     {
       "id": "r54",
       "title": {
-        "es-ES": "Relación LIV"
+        "es-ES": "Relación LIV",
+        "pt-BR": "Relação LIV"
       }
     },
     {
       "id": "r55",
       "title": {
-        "es-ES": "Relación LV"
+        "es-ES": "Relación LV",
+        "pt-BR": "Relação LV"
       }
     },
     {
       "id": "r56",
       "title": {
-        "es-ES": "Relación LVI"
+        "es-ES": "Relación LVI",
+        "pt-BR": "Relação LVI"
       }
     },
     {
       "id": "r57",
       "title": {
-        "es-ES": "Relación LVII"
+        "es-ES": "Relación LVII",
+        "pt-BR": "Relação LVII"
       }
     },
     {
       "id": "r58",
       "title": {
-        "es-ES": "Relación LVIII"
+        "es-ES": "Relación LVIII",
+        "pt-BR": "Relação LVIII"
       }
     },
     {
       "id": "r59",
       "title": {
-        "es-ES": "Relación LIX"
+        "es-ES": "Relación LIX",
+        "pt-BR": "Relação LIX"
       }
     },
     {
       "id": "r60",
       "title": {
-        "es-ES": "Relación LX"
+        "es-ES": "Relación LX",
+        "pt-BR": "Relação LX"
       }
     },
     {
       "id": "r61",
       "title": {
-        "es-ES": "Relación LXI"
+        "es-ES": "Relación LXI",
+        "pt-BR": "Relação LXI"
       }
     },
     {
       "id": "r62",
       "title": {
-        "es-ES": "Relación LXII"
+        "es-ES": "Relación LXII",
+        "pt-BR": "Relação LXII"
       }
     },
     {
       "id": "r63",
       "title": {
-        "es-ES": "Relación LXIII"
+        "es-ES": "Relación LXIII",
+        "pt-BR": "Relação LXIII"
       }
     },
     {
       "id": "r64",
       "title": {
-        "es-ES": "Relación LXIV"
+        "es-ES": "Relación LXIV",
+        "pt-BR": "Relação LXIV"
       }
     },
     {
       "id": "r65",
       "title": {
-        "es-ES": "Relación LXV"
+        "es-ES": "Relación LXV",
+        "pt-BR": "Relação LXV"
       }
     },
     {
       "id": "r66",
       "title": {
-        "es-ES": "Relación LXVI"
+        "es-ES": "Relación LXVI",
+        "pt-BR": "Relação LXVI"
       }
     },
     {
       "id": "r67",
       "title": {
-        "es-ES": "Relación LXVII"
+        "es-ES": "Relación LXVII",
+        "pt-BR": "Relação LXVII"
       }
     }
   ]
