@@ -18,13 +18,19 @@
   },
   "composed": "c. 1425-1450",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "thomas-a-kempis/orationes-de-passione",
   "editions": {
     "la": {
       "editor": "Michael Joseph Pohl",
       "year": 1904
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,43 +47,50 @@
     {
       "id": "g1",
       "title": {
-        "la": "Orationes de passione Domini"
+        "la": "Orationes de passione Domini",
+        "pt-BR": "Orações sobre a paixão do Senhor"
       },
       "children": [
         {
           "id": "o01",
           "title": {
-            "la": "1. Oratio ad Patrem legenda infra missam de oblatione corporis Christi, de merito passionis eius et de nostra resignatione. s"
+            "la": "1. Oratio ad Patrem legenda infra missam de oblatione corporis Christi, de merito passionis eius et de nostra resignatione. s",
+            "pt-BR": "1. Oração ao Pai para ser lida durante a missa, sobre a oblação do corpo de Cristo, o mérito de sua paixão e nossa entrega"
           }
         },
         {
           "id": "o02",
           "title": {
-            "la": "2. Oratio de recordatione et imitatione passionis Dominicae"
+            "la": "2. Oratio de recordatione et imitatione passionis Dominicae",
+            "pt-BR": "2. Oração para recordar e imitar a paixão do Senhor"
           }
         },
         {
           "id": "o03",
           "title": {
-            "la": "3. Oratio ad compatiendum Christo et dilectae matri eius"
+            "la": "3. Oratio ad compatiendum Christo et dilectae matri eius",
+            "pt-BR": "3. Oração para compadecer-se de Cristo e de sua amada Mãe"
           }
         },
         {
           "id": "o04",
           "title": {
-            "la": "4. Oratio ad Christum"
+            "la": "4. Oratio ad Christum",
+            "pt-BR": "4. Oração a Cristo"
           }
         },
         {
           "id": "o05",
           "title": {
-            "la": "5. Oratio ad Christum"
+            "la": "5. Oratio ad Christum",
+            "pt-BR": "5. Oração a Cristo"
           }
         },
         {
           "id": "o06",
           "title": {
-            "la": "6. Gratiarum actio"
+            "la": "6. Gratiarum actio",
+            "pt-BR": "6. Ação de graças"
           }
         }
       ]
@@ -85,31 +98,36 @@
     {
       "id": "g2",
       "title": {
-        "la": "Orationes de beata virgine"
+        "la": "Orationes de beata virgine",
+        "pt-BR": "Orações à bem-aventurada Virgem"
       },
       "children": [
         {
           "id": "o07",
           "title": {
-            "la": "7. Oratio de amore et laude beatae virginis . Mariae"
+            "la": "7. Oratio de amore et laude beatae virginis . Mariae",
+            "pt-BR": "7. Oração de amor e louvor à bem-aventurada Virgem Maria"
           }
         },
         {
           "id": "o08",
           "title": {
-            "la": "8. Oratio ad beatam virginem Mariam, ut subveniat in hora mortis"
+            "la": "8. Oratio ad beatam virginem Mariam, ut subveniat in hora mortis",
+            "pt-BR": "8. Oração à bem-aventurada Virgem Maria, para que auxilie na hora da morte"
           }
         },
         {
           "id": "o09",
           "title": {
-            "la": "9. Oratio ad beatam virginem Mariam pro speciali consolatione"
+            "la": "9. Oratio ad beatam virginem Mariam pro speciali consolatione",
+            "pt-BR": "9. Oração à bem-aventurada Virgem Maria por uma consolação especial"
           }
         },
         {
           "id": "o10",
           "title": {
-            "la": "10. Oratio ad beatam virginem Mariam quacumque tribulatione insurgente"
+            "la": "10. Oratio ad beatam virginem Mariam quacumque tribulatione insurgente",
+            "pt-BR": "10. Oração à bem-aventurada Virgem Maria quando surgir qualquer tribulação"
           }
         }
       ]
@@ -117,43 +135,50 @@
     {
       "id": "g3",
       "title": {
-        "la": "Orationes de aliis sanctis"
+        "la": "Orationes de aliis sanctis",
+        "pt-BR": "Orações a outros santos"
       },
       "children": [
         {
           "id": "o11",
           "title": {
-            "la": "11. Oratio de eximiis virtutibus beati Iohannis Baptistae"
+            "la": "11. Oratio de eximiis virtutibus beati Iohannis Baptistae",
+            "pt-BR": "11. Oração sobre as exímias virtudes de São João Batista"
           }
         },
         {
           "id": "o12",
           "title": {
-            "la": "12. Oratio de privilegiis praecipui amoris beati Iohannis Evangelistae"
+            "la": "12. Oratio de privilegiis praecipui amoris beati Iohannis Evangelistae",
+            "pt-BR": "12. Oração sobre os privilégios do amor especial de São João Evangelista"
           }
         },
         {
           "id": "o13",
           "title": {
-            "la": "13. Oratio de laudibus sancti Thomae apostoli"
+            "la": "13. Oratio de laudibus sancti Thomae apostoli",
+            "pt-BR": "13. Oração de louvor a São Tomé apóstolo"
           }
         },
         {
           "id": "o14",
           "title": {
-            "la": "14. Oratio de meritis et virtutibus sancti Thomae apostoli"
+            "la": "14. Oratio de meritis et virtutibus sancti Thomae apostoli",
+            "pt-BR": "14. Oração sobre os méritos e as virtudes de São Tomé apóstolo"
           }
         },
         {
           "id": "o15",
           "title": {
-            "la": "15. Oratio de magnis privilegiis beatissimae Mariae Magdalenae"
+            "la": "15. Oratio de magnis privilegiis beatissimae Mariae Magdalenae",
+            "pt-BR": "15. Oração sobre os grandes privilégios da beatíssima Maria Madalena"
           }
         },
         {
           "id": "o16",
           "title": {
-            "la": "16. Oratio de virtutibus et moribus nobilissimae virginis Agnetis"
+            "la": "16. Oratio de virtutibus et moribus nobilissimae virginis Agnetis",
+            "pt-BR": "16. Oração sobre as virtudes e os costumes da nobilíssima virgem Inês"
           }
         }
       ]
