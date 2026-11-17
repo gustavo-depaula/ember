@@ -18,13 +18,19 @@
   },
   "composed": "c. 1125-1153",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "bernard/sermones-de-tempore",
   "editions": {
     "la": {
       "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182-184)",
       "year": 1854
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,49 +47,57 @@
     {
       "id": "w6169",
       "title": {
-        "la": "De adventu Domini"
+        "la": "De adventu Domini",
+        "pt-BR": "Sobre o Advento do Senhor"
       },
       "children": [
         {
           "id": "w6169-s001",
           "title": {
-            "la": "Sermo I. De Adventu Domini, et sex circumstantiis ejus"
+            "la": "Sermo I. De Adventu Domini, et sex circumstantiis ejus",
+            "pt-BR": "Sermão I. Sobre o Advento do Senhor e suas seis circunstâncias"
           }
         },
         {
           "id": "w6169-s002",
           "title": {
-            "la": "Sermo II. De verbis Isaiae ad Achaz: « Pete tibi signum a Domino Deo tuo in profundum inferni, sive in excelsum supra, » etc. (Isa. VII, 11-16)"
+            "la": "Sermo II. De verbis Isaiae ad Achaz: « Pete tibi signum a Domino Deo tuo in profundum inferni, sive in excelsum supra, » etc. (Isa. VII, 11-16)",
+            "pt-BR": "Sermão II. Sobre as palavras de Isaías a Acaz: “Pede para ti um sinal ao Senhor teu Deus, nas profundezas do inferno ou nas alturas acima”, etc. (Isaías 7:11-16)"
           }
         },
         {
           "id": "w6169-s003",
           "title": {
-            "la": "Sermo III. De triplici Domini adventu, et de septem columnis quas in nobis erigere debemus"
+            "la": "Sermo III. De triplici Domini adventu, et de septem columnis quas in nobis erigere debemus",
+            "pt-BR": "Sermão III. Sobre a tríplice vinda do Senhor e as sete colunas que devemos erguer em nós"
           }
         },
         {
           "id": "w6169-s004",
           "title": {
-            "la": "Sermo IV. De duplici adventu, et studio verarum virtutum"
+            "la": "Sermo IV. De duplici adventu, et studio verarum virtutum",
+            "pt-BR": "Sermão IV. Sobre a dupla vinda e o empenho nas verdadeiras virtudes"
           }
         },
         {
           "id": "w6169-s005",
           "title": {
-            "la": "Sermo V. De medio adventu, et triplici innovatione"
+            "la": "Sermo V. De medio adventu, et triplici innovatione",
+            "pt-BR": "Sermão V. Sobre a vinda intermediária e a tríplice renovação"
           }
         },
         {
           "id": "w6169-s006",
           "title": {
-            "la": "Sermo VI. De triplici adventu, et carnis resurrectione"
+            "la": "Sermo VI. De triplici adventu, et carnis resurrectione",
+            "pt-BR": "Sermão VI. Sobre a tríplice vinda e a ressurreição da carne"
           }
         },
         {
           "id": "w6169-s007",
           "title": {
-            "la": "Sermo VII. De triplici utilitate Adventus Domini"
+            "la": "Sermo VII. De triplici utilitate Adventus Domini",
+            "pt-BR": "Sermão VII. Sobre o tríplice benefício do Advento do Senhor"
           }
         }
       ]
@@ -91,43 +105,50 @@
     {
       "id": "w6211",
       "title": {
-        "la": "In vigilia nativitatis Domini"
+        "la": "In vigilia nativitatis Domini",
+        "pt-BR": "Na vigília do Natal do Senhor"
       },
       "children": [
         {
           "id": "w6211-s001",
           "title": {
-            "la": "Sermo I. De pronuntiatione Martyrologii, « Jesus Christus, Filius Dei, nascitur in Bethlehem Judae . »"
+            "la": "Sermo I. De pronuntiatione Martyrologii, « Jesus Christus, Filius Dei, nascitur in Bethlehem Judae . »",
+            "pt-BR": "Sermão I. Sobre o anúncio do Martirológio: “Jesus Cristo, Filho de Deus, nasce em Belém de Judá”"
           }
         },
         {
           "id": "w6211-s002",
           "title": {
-            "la": "Sermo II. De eo quod scriptum est, O Juda et Jerusalem, nolite timere; cras egrediemini, et Dominus erit vobiscum. II Par. cap. XX. V\\. 17"
+            "la": "Sermo II. De eo quod scriptum est, O Juda et Jerusalem, nolite timere; cras egrediemini, et Dominus erit vobiscum. II Par. cap. XX. V\\. 17",
+            "pt-BR": "Sermão II. Sobre o que está escrito: Ó Judá e Jerusalém, não temais; amanhã saireis, e o Senhor estará convosco. 2 Crônicas 20:17"
           }
         },
         {
           "id": "w6211-s003",
           "title": {
-            "la": "Sermo III. In illud: Hodie scietis quia veniet Dominus, et mane videbitis gloriam ejus. Exod. cap. XVI, V\\V\\. 6, 7"
+            "la": "Sermo III. In illud: Hodie scietis quia veniet Dominus, et mane videbitis gloriam ejus. Exod. cap. XVI, V\\V\\. 6, 7",
+            "pt-BR": "Sermão III. Sobre estas palavras: Hoje sabereis que o Senhor virá, e pela manhã vereis sua glória. Êxodo 16:6, 7"
           }
         },
         {
           "id": "w6211-s004",
           "title": {
-            "la": "Sermo IV. De medicina laevae, et deliciis dexterae Excelsi"
+            "la": "Sermo IV. De medicina laevae, et deliciis dexterae Excelsi",
+            "pt-BR": "Sermão IV. Sobre o remédio da mão esquerda e as delícias da mão direita do Altíssimo"
           }
         },
         {
           "id": "w6211-s005",
           "title": {
-            "la": "Sermo V. In illud, « Sanctificamini hodie, et estote parati: die enim crastina videbitis majestatem Dei in vobis. » Respons. in vigilia Nativ. Dom"
+            "la": "Sermo V. In illud, « Sanctificamini hodie, et estote parati: die enim crastina videbitis majestatem Dei in vobis. » Respons. in vigilia Nativ. Dom",
+            "pt-BR": "Sermão V. Sobre estas palavras: “Santificai-vos hoje e estai preparados, pois amanhã vereis em vós a majestade de Deus”. Responsório da vigília do Natal do Senhor"
           }
         },
         {
           "id": "w6211-s006",
           "title": {
-            "la": "Sermo VI. De Annuntiatione Domini"
+            "la": "Sermo VI. De Annuntiatione Domini",
+            "pt-BR": "Sermão VI. Sobre a Anunciação do Senhor"
           }
         }
       ]
@@ -135,37 +156,43 @@
     {
       "id": "w6198",
       "title": {
-        "la": "In nativitate Domini"
+        "la": "In nativitate Domini",
+        "pt-BR": "No Natal do Senhor"
       },
       "children": [
         {
           "id": "w6198-s001",
           "title": {
-            "la": "Sermo I. De fontibus Salvatoris"
+            "la": "Sermo I. De fontibus Salvatoris",
+            "pt-BR": "Sermão I. Sobre as fontes do Salvador"
           }
         },
         {
           "id": "w6198-s002",
           "title": {
-            "la": "Sermo II. De tribus praecipuis Dei operibus, et triplici commistione"
+            "la": "Sermo II. De tribus praecipuis Dei operibus, et triplici commistione",
+            "pt-BR": "Sermão II. Sobre as três principais obras de Deus e a tríplice união"
           }
         },
         {
           "id": "w6198-s003",
           "title": {
-            "la": "Sermo III. De loco, tempore et aliis circumstantiis Nativitatis"
+            "la": "Sermo III. De loco, tempore et aliis circumstantiis Nativitatis",
+            "pt-BR": "Sermão III. Sobre o lugar, o tempo e as demais circunstâncias do Natal"
           }
         },
         {
           "id": "w6198-s004",
           "title": {
-            "la": "Sermo IV. De eo quod pastores invenerunt Mariam, et Joseph, et infantem positum in praesepio"
+            "la": "Sermo IV. De eo quod pastores invenerunt Mariam, et Joseph, et infantem positum in praesepio",
+            "pt-BR": "Sermão IV. Sobre o fato de os pastores terem encontrado Maria, José e o menino deitado na manjedoura"
           }
         },
         {
           "id": "w6198-s005",
           "title": {
-            "la": "Sermo V. De verbis Apostoli, « Benedictus Deus et Pater Domini nostri Jesu Christi, Pater misericordiarum, et Deus totius consolationis, qui consolatur nos in omni tribulatione nostra. » (II Cor. I, 3, 4)"
+            "la": "Sermo V. De verbis Apostoli, « Benedictus Deus et Pater Domini nostri Jesu Christi, Pater misericordiarum, et Deus totius consolationis, qui consolatur nos in omni tribulatione nostra. » (II Cor. I, 3, 4)",
+            "pt-BR": "Sermão V. Sobre as palavras do Apóstolo: “Bendito seja Deus e Pai de nosso Senhor Jesus Cristo, Pai das misericórdias e Deus de toda consolação, que nos consola em toda a nossa tribulação”. (2 Coríntios 1:3, 4)"
           }
         }
       ]
@@ -173,25 +200,29 @@
     {
       "id": "w6186",
       "title": {
-        "la": "In circumcisione Domini"
+        "la": "In circumcisione Domini",
+        "pt-BR": "Na Circuncisão do Senhor"
       },
       "children": [
         {
           "id": "w6186-s001",
           "title": {
-            "la": "Sermo I. De lectione evangelica, « Postquam consummati sunt dies octo, ut circumcideretur Puer, vocatum est nomen ejus Jesus. » (Luc. II, 21)"
+            "la": "Sermo I. De lectione evangelica, « Postquam consummati sunt dies octo, ut circumcideretur Puer, vocatum est nomen ejus Jesus. » (Luc. II, 21)",
+            "pt-BR": "Sermão I. Sobre a leitura evangélica: “Depois de se completarem oito dias para que o Menino fosse circuncidado, foi-lhe dado o nome de Jesus”. (Lucas 2:21)"
           }
         },
         {
           "id": "w6186-s002",
           "title": {
-            "la": "Sermo II. De variis Christi nominibus"
+            "la": "Sermo II. De variis Christi nominibus",
+            "pt-BR": "Sermão II. Sobre os diversos nomes de Cristo"
           }
         },
         {
           "id": "w6186-s003",
           "title": {
-            "la": "Sermo III. De die octavo"
+            "la": "Sermo III. De die octavo",
+            "pt-BR": "Sermão III. Sobre o oitavo dia"
           }
         }
       ]
@@ -199,25 +230,29 @@
     {
       "id": "w6178",
       "title": {
-        "la": "In Epiphania Domini"
+        "la": "In Epiphania Domini",
+        "pt-BR": "Na Epifania do Senhor"
       },
       "children": [
         {
           "id": "w6178-s001",
           "title": {
-            "la": "Sermo I. De verbis Apostoli, « Apparuit benignitas et humanitas Salvatoris nostri Dei, » (Tit. III, 4), et de tribus Christi apparitionibus"
+            "la": "Sermo I. De verbis Apostoli, « Apparuit benignitas et humanitas Salvatoris nostri Dei, » (Tit. III, 4), et de tribus Christi apparitionibus",
+            "pt-BR": "Sermão I. Sobre as palavras do Apóstolo: “Manifestou-se a benignidade e a humanidade de Deus, nosso Salvador” (Tito 3:4), e sobre as três manifestações de Cristo"
           }
         },
         {
           "id": "w6178-s002",
           "title": {
-            "la": "Sermo II. De Magis, ubi exponitur illud de Canticis, III, 11, « Egredimini, filiae Sion, et videte regem Salomonem. »"
+            "la": "Sermo II. De Magis, ubi exponitur illud de Canticis, III, 11, « Egredimini, filiae Sion, et videte regem Salomonem. »",
+            "pt-BR": "Sermão II. Sobre os Magos, no qual se expõem estas palavras do Cântico dos Cânticos 3:11: “Saí, filhas de Sião, e vede o rei Salomão”"
           }
         },
         {
           "id": "w6178-s003",
           "title": {
-            "la": "Sermo III. De lectione evangelica, « Ubi est qui natus est Rex Judaeorum? » (Matth. II, 1-11)"
+            "la": "Sermo III. De lectione evangelica, « Ubi est qui natus est Rex Judaeorum? » (Matth. II, 1-11)",
+            "pt-BR": "Sermão III. Sobre a leitura evangélica: “Onde está aquele que nasceu Rei dos judeus?” (Mateus 2:1-11)"
           }
         }
       ]
@@ -225,13 +260,15 @@
     {
       "id": "w6203",
       "title": {
-        "la": "In octava Epiphaniae"
+        "la": "In octava Epiphaniae",
+        "pt-BR": "Na oitava da Epifania"
       },
       "children": [
         {
           "id": "w6203-sermo",
           "title": {
-            "la": "In octava Epiphaniae"
+            "la": "In octava Epiphaniae",
+            "pt-BR": "Na oitava da Epifania"
           }
         }
       ]
@@ -239,19 +276,22 @@
     {
       "id": "w6171",
       "title": {
-        "la": "Dominica I post octavam Epiphaniae"
+        "la": "Dominica I post octavam Epiphaniae",
+        "pt-BR": "Primeiro domingo depois da oitava da Epifania"
       },
       "children": [
         {
           "id": "w6171-s001",
           "title": {
-            "la": "Sermo I. De miraculo facto in nuptiis, (Joan. II, 1-11); et de eo quod Dominus ait, « Et vos similes hominibus exspectantibus dominum suum, quando revertatur a nuptiis. » (Luc. XII, 36.)"
+            "la": "Sermo I. De miraculo facto in nuptiis, (Joan. II, 1-11); et de eo quod Dominus ait, « Et vos similes hominibus exspectantibus dominum suum, quando revertatur a nuptiis. » (Luc. XII, 36.)",
+            "pt-BR": "Sermão I. Sobre o milagre realizado nas bodas (João 2:1-11) e sobre o que diz o Senhor: “E vós, semelhantes a homens que esperam seu senhor, quando voltar das bodas”. (Lucas 12:36.)"
           }
         },
         {
           "id": "w6171-s002",
           "title": {
-            "la": "Sermo II. De spiritualibus nuptiis in evangelica historia designatis . (Joan. II, 1-11.)"
+            "la": "Sermo II. De spiritualibus nuptiis in evangelica historia designatis . (Joan. II, 1-11.)",
+            "pt-BR": "Sermão II. Sobre as bodas espirituais figuradas na narrativa evangélica. (João 2:1-11.)"
           }
         }
       ]
@@ -259,19 +299,22 @@
     {
       "id": "w6181",
       "title": {
-        "la": "In Septuagesima"
+        "la": "In Septuagesima",
+        "pt-BR": "Na Septuagésima"
       },
       "children": [
         {
           "id": "w6181-s001",
           "title": {
-            "la": "Sermo I"
+            "la": "Sermo I",
+            "pt-BR": "Sermão I"
           }
         },
         {
           "id": "w6181-s002",
           "title": {
-            "la": "Sermo II. De eo quod scriptum est, « Immisit Dominus soporem in Adam (Gen. II, 21-24). »"
+            "la": "Sermo II. De eo quod scriptum est, « Immisit Dominus soporem in Adam (Gen. II, 21-24). »",
+            "pt-BR": "Sermão II. Sobre o que está escrito: “O Senhor fez cair um sono profundo sobre Adão (Gênesis 2:21-24)”"
           }
         }
       ]
@@ -279,19 +322,22 @@
     {
       "id": "w6185",
       "title": {
-        "la": "In capite jejunii"
+        "la": "In capite jejunii",
+        "pt-BR": "No início do jejum"
       },
       "children": [
         {
           "id": "w6185-s001",
           "title": {
-            "la": "Sermo I. Quid sit ungere caput, et jaciem lavare (Matth. VI, 16, 17)"
+            "la": "Sermo I. Quid sit ungere caput, et jaciem lavare (Matth. VI, 16, 17)",
+            "pt-BR": "Sermão I. O que significa ungir a cabeça e lavar o rosto (Mateus 6:16, 17)"
           }
         },
         {
           "id": "w6185-s002",
           "title": {
-            "la": "Sermo II. Quomodo debeamus converti ad Dominum"
+            "la": "Sermo II. Quomodo debeamus converti ad Dominum",
+            "pt-BR": "Sermão II. Como devemos converter-nos ao Senhor"
           }
         }
       ]
@@ -299,37 +345,43 @@
     {
       "id": "w6180",
       "title": {
-        "la": "In Quadragesima"
+        "la": "In Quadragesima",
+        "pt-BR": "Na Quaresma"
       },
       "children": [
         {
           "id": "w6180-s003",
           "title": {
-            "la": "Sermo III. De jejunio Quadragesimae"
+            "la": "Sermo III. De jejunio Quadragesimae",
+            "pt-BR": "Sermão III. Sobre o jejum da Quaresma"
           }
         },
         {
           "id": "w6180-s004",
           "title": {
-            "la": "Sermo IV. De oratione et jejunio"
+            "la": "Sermo IV. De oratione et jejunio",
+            "pt-BR": "Sermão IV. Sobre a oração e o jejum"
           }
         },
         {
           "id": "w6180-s005",
           "title": {
-            "la": "Sermo V. De triplici modo orationis"
+            "la": "Sermo V. De triplici modo orationis",
+            "pt-BR": "Sermão V. Sobre o tríplice modo de oração"
           }
         },
         {
           "id": "w6180-s006",
           "title": {
-            "la": "Sermo VI. De oratione Dominica. (Matth. VI, 9-13.)"
+            "la": "Sermo VI. De oratione Dominica. (Matth. VI, 9-13.)",
+            "pt-BR": "Sermão VI. Sobre a oração do Senhor. (Mateus 6:9-13.)"
           }
         },
         {
           "id": "w6180-s007",
           "title": {
-            "la": "Sermo VII. De peregrino, mortuo et crucifixo"
+            "la": "Sermo VII. De peregrino, mortuo et crucifixo",
+            "pt-BR": "Sermão VII. Sobre o peregrino, o morto e o crucificado"
           }
         }
       ]
@@ -337,25 +389,29 @@
     {
       "id": "w6177",
       "title": {
-        "la": "In Dominica Palmarum"
+        "la": "In Dominica Palmarum",
+        "pt-BR": "No Domingo de Ramos"
       },
       "children": [
         {
           "id": "w6177-s001",
           "title": {
-            "la": "Sermo I. De tribus ordinibus obsequentium Christo"
+            "la": "Sermo I. De tribus ordinibus obsequentium Christo",
+            "pt-BR": "Sermão I. Sobre as três ordens dos que acompanham Cristo"
           }
         },
         {
           "id": "w6177-s002",
           "title": {
-            "la": "Sermo II. De passione, et processione, et quatuor ordinibus processionis"
+            "la": "Sermo II. De passione, et processione, et quatuor ordinibus processionis",
+            "pt-BR": "Sermão II. Sobre a paixão, a procissão e as quatro ordens da procissão"
           }
         },
         {
           "id": "w6177-s003",
           "title": {
-            "la": "Sermo III. De quinque diebus, processionis, refectionis, passionis, requietionis et resurrectionis"
+            "la": "Sermo III. De quinque diebus, processionis, refectionis, passionis, requietionis et resurrectionis",
+            "pt-BR": "Sermão III. Sobre os cinco dias: da procissão, da refeição, da paixão, do repouso e da ressurreição"
           }
         }
       ]
@@ -363,13 +419,15 @@
     {
       "id": "w6190",
       "title": {
-        "la": "In feria IV Hebdomadae Sacrae"
+        "la": "In feria IV Hebdomadae Sacrae",
+        "pt-BR": "Na Quarta-feira da Semana Santa"
       },
       "children": [
         {
           "id": "w6190-sermo",
           "title": {
-            "la": "In feria IV Hebdomadae Sacrae"
+            "la": "In feria IV Hebdomadae Sacrae",
+            "pt-BR": "Na Quarta-feira da Semana Santa"
           }
         }
       ]
@@ -377,13 +435,15 @@
     {
       "id": "w6176",
       "title": {
-        "la": "In Coena Domini"
+        "la": "In Coena Domini",
+        "pt-BR": "Na Ceia do Senhor"
       },
       "children": [
         {
           "id": "w6176-sermo",
           "title": {
-            "la": "In Coena Domini"
+            "la": "In Coena Domini",
+            "pt-BR": "Na Ceia do Senhor"
           }
         }
       ]
@@ -391,13 +451,15 @@
     {
       "id": "w6189",
       "title": {
-        "la": "In die sancto Paschae"
+        "la": "In die sancto Paschae",
+        "pt-BR": "No santo dia da Páscoa"
       },
       "children": [
         {
           "id": "w6189-sermo",
           "title": {
-            "la": "In die sancto Paschae"
+            "la": "In die sancto Paschae",
+            "pt-BR": "No santo dia da Páscoa"
           }
         }
       ]
@@ -405,19 +467,22 @@
     {
       "id": "w6204",
       "title": {
-        "la": "In octava Paschae"
+        "la": "In octava Paschae",
+        "pt-BR": "Na oitava da Páscoa"
       },
       "children": [
         {
           "id": "w6204-s001",
           "title": {
-            "la": "Sermo I. De fide vincente, et tribus testimonis in coelo et in terra. (I Joan. V, 4-11)"
+            "la": "Sermo I. De fide vincente, et tribus testimonis in coelo et in terra. (I Joan. V, 4-11)",
+            "pt-BR": "Sermão I. Sobre a fé vitoriosa e os três testemunhos no céu e na terra. (1 João 5:4-11)"
           }
         },
         {
           "id": "w6204-s002",
           "title": {
-            "la": "Sermo II. De tribus testimoniis. (I Joan. V, 4-11.)"
+            "la": "Sermo II. De tribus testimoniis. (I Joan. V, 4-11.)",
+            "pt-BR": "Sermão II. Sobre os três testemunhos. (1 João 5:4-11.)"
           }
         }
       ]
@@ -425,19 +490,22 @@
     {
       "id": "w6207",
       "title": {
-        "la": "In tempore resurrectionis"
+        "la": "In tempore resurrectionis",
+        "pt-BR": "No tempo da ressurreição"
       },
       "children": [
         {
           "id": "w6207-s002",
           "title": {
-            "la": "Sermo II. De lectione evangelica, « Maria Magdalene, Maria Jacobi, et Salome, » etc. (Marc. XVI, 1.)"
+            "la": "Sermo II. De lectione evangelica, « Maria Magdalene, Maria Jacobi, et Salome, » etc. (Marc. XVI, 1.)",
+            "pt-BR": "Sermão II. Sobre a leitura evangélica: “Maria Madalena, Maria de Tiago e Salomé”, etc. (Marcos 16:1.)"
           }
         },
         {
           "id": "w6207-s003",
           "title": {
-            "la": "Sermo III. De mersione Naaman septies in Jordane, deque mundatione septemplicis leprae; et de septem apparitionibus Domini resurgentis, quibus septem dona Spiritus sancti designantur"
+            "la": "Sermo III. De mersione Naaman septies in Jordane, deque mundatione septemplicis leprae; et de septem apparitionibus Domini resurgentis, quibus septem dona Spiritus sancti designantur",
+            "pt-BR": "Sermão III. Sobre a imersão de Naamã sete vezes no Jordão e a purificação da lepra de sete formas; e sobre as sete aparições do Senhor ressuscitado, pelas quais são figurados os sete dons do Espírito Santo"
           }
         }
       ]
@@ -445,13 +513,15 @@
     {
       "id": "w6206",
       "title": {
-        "la": "In rogationibus"
+        "la": "In rogationibus",
+        "pt-BR": "Nas Rogações"
       },
       "children": [
         {
           "id": "w6206-sermo",
           "title": {
-            "la": "In rogationibus"
+            "la": "In rogationibus",
+            "pt-BR": "Nas Rogações"
           }
         }
       ]
@@ -459,37 +529,43 @@
     {
       "id": "w6183",
       "title": {
-        "la": "In ascensione Domini"
+        "la": "In ascensione Domini",
+        "pt-BR": "Na Ascensão do Senhor"
       },
       "children": [
         {
           "id": "w6183-s001",
           "title": {
-            "la": "Sermo I. De evangelica lectione. (Marc. XVI, 14-20.)"
+            "la": "Sermo I. De evangelica lectione. (Marc. XVI, 14-20.)",
+            "pt-BR": "Sermão I. Sobre a leitura evangélica. (Marcos 16:14-20.)"
           }
         },
         {
           "id": "w6183-s002",
           "title": {
-            "la": "Sermo II. Quomodo ascendit super omnes coelos, ut adimpleret omnia"
+            "la": "Sermo II. Quomodo ascendit super omnes coelos, ut adimpleret omnia",
+            "pt-BR": "Sermão II. Como subiu acima de todos os céus para encher todas as coisas"
           }
         },
         {
           "id": "w6183-s003",
           "title": {
-            "la": "Sermo III. De intellectu et affectu"
+            "la": "Sermo III. De intellectu et affectu",
+            "pt-BR": "Sermão III. Sobre o entendimento e o afeto"
           }
         },
         {
           "id": "w6183-s004",
           "title": {
-            "la": "Sermo IV. De duabus malis ascensionibus, daemonis et primi hominis: et sex bonis, Christi et nostris"
+            "la": "Sermo IV. De duabus malis ascensionibus, daemonis et primi hominis: et sex bonis, Christi et nostris",
+            "pt-BR": "Sermão IV. Sobre duas subidas más, a do demônio e a do primeiro homem, e seis boas, a de Cristo e as nossas"
           }
         },
         {
           "id": "w6183-s005",
           "title": {
-            "la": "Sermo V. De intellectu et affectu"
+            "la": "Sermo V. De intellectu et affectu",
+            "pt-BR": "Sermão V. Sobre o entendimento e o afeto"
           }
         }
       ]
@@ -497,25 +573,29 @@
     {
       "id": "w6191",
       "title": {
-        "la": "Pentecostes"
+        "la": "Pentecostes",
+        "pt-BR": "Pentecostes"
       },
       "children": [
         {
           "id": "w6191-s001",
           "title": {
-            "la": "Sermo I. Quomodo Spiritus sanctus tria operatur in nobis"
+            "la": "Sermo I. Quomodo Spiritus sanctus tria operatur in nobis",
+            "pt-BR": "Sermão I. Como o Espírito Santo realiza três coisas em nós"
           }
         },
         {
           "id": "w6191-s002",
           "title": {
-            "la": "Sermo II. De operibus Trinitatis super nos, et de triplici gratia Spiritus sancti"
+            "la": "Sermo II. De operibus Trinitatis super nos, et de triplici gratia Spiritus sancti",
+            "pt-BR": "Sermão II. Sobre as obras da Trindade em nosso favor e a tríplice graça do Espírito Santo"
           }
         },
         {
           "id": "w6191-s003",
           "title": {
-            "la": "Sermo III. De multiplici operatione Spiritus sancti in nobis"
+            "la": "Sermo III. De multiplici operatione Spiritus sancti in nobis",
+            "pt-BR": "Sermão III. Sobre a múltipla ação do Espírito Santo em nós"
           }
         }
       ]
@@ -523,13 +603,15 @@
     {
       "id": "w6172",
       "title": {
-        "la": "Dominica IV post Pentecosten"
+        "la": "Dominica IV post Pentecosten",
+        "pt-BR": "Quarto domingo depois de Pentecostes"
       },
       "children": [
         {
           "id": "w6172-sermo",
           "title": {
-            "la": "Dominica IV post Pentecosten"
+            "la": "Dominica IV post Pentecosten",
+            "pt-BR": "Quarto domingo depois de Pentecostes"
           }
         }
       ]
@@ -537,25 +619,29 @@
     {
       "id": "w6173",
       "title": {
-        "la": "Dominica VI post Pentecosten"
+        "la": "Dominica VI post Pentecosten",
+        "pt-BR": "Sexto domingo depois de Pentecostes"
       },
       "children": [
         {
           "id": "w6173-s001",
           "title": {
-            "la": "Sermo I. De evangelica lectione, ubi turba triduo sustinens Dominum septem panibus reficitur (Marc. VIII, 19)"
+            "la": "Sermo I. De evangelica lectione, ubi turba triduo sustinens Dominum septem panibus reficitur (Marc. VIII, 19)",
+            "pt-BR": "Sermão I. Sobre a leitura evangélica na qual a multidão, que permanece três dias com o Senhor, é alimentada com sete pães (Marcos 8:19)"
           }
         },
         {
           "id": "w6173-s002",
           "title": {
-            "la": "Sermo II. De septem misericordiis"
+            "la": "Sermo II. De septem misericordiis",
+            "pt-BR": "Sermão II. Sobre as sete misericórdias"
           }
         },
         {
           "id": "w6173-s003",
           "title": {
-            "la": "Sermo III. De fragmentis septem misericordiarum"
+            "la": "Sermo III. De fragmentis septem misericordiarum",
+            "pt-BR": "Sermão III. Sobre os fragmentos das sete misericórdias"
           }
         }
       ]
@@ -563,37 +649,43 @@
     {
       "id": "w6214",
       "title": {
-        "la": "Pro Dominica I Novembris"
+        "la": "Pro Dominica I Novembris",
+        "pt-BR": "Para o primeiro domingo de novembro"
       },
       "children": [
         {
           "id": "w6214-s001",
           "title": {
-            "la": "Sermo I. De verbis Isaiae, VI, 1, « Vidi Dominum sedentem, » etc"
+            "la": "Sermo I. De verbis Isaiae, VI, 1, « Vidi Dominum sedentem, » etc",
+            "pt-BR": "Sermão I. Sobre as palavras de Isaías 6:1: “Vi o Senhor sentado”, etc."
           }
         },
         {
           "id": "w6214-s002",
           "title": {
-            "la": "Sermo II. De verbis Isaiae prophetae, VI, 1, 3"
+            "la": "Sermo II. De verbis Isaiae prophetae, VI, 1, 3",
+            "pt-BR": "Sermão II. Sobre as palavras do profeta Isaías 6:1, 3"
           }
         },
         {
           "id": "w6214-s003",
           "title": {
-            "la": "Sermo III. De verbis Isaiae prophetae, VI, 2"
+            "la": "Sermo III. De verbis Isaiae prophetae, VI, 2",
+            "pt-BR": "Sermão III. Sobre as palavras do profeta Isaías 6:2"
           }
         },
         {
           "id": "w6214-s004",
           "title": {
-            "la": "Sermo IV. De verbis Isaiae prophetae, VI, 2"
+            "la": "Sermo IV. De verbis Isaiae prophetae, VI, 2",
+            "pt-BR": "Sermão IV. Sobre as palavras do profeta Isaías 6:2"
           }
         },
         {
           "id": "w6214-s005",
           "title": {
-            "la": "Sermo V. De verbis Isaiae prophetae, VI, 1, 3"
+            "la": "Sermo V. De verbis Isaiae prophetae, VI, 1, 3",
+            "pt-BR": "Sermão V. Sobre as palavras do profeta Isaías 6:1, 3"
           }
         }
       ]
@@ -601,43 +693,50 @@
     {
       "id": "w6188",
       "title": {
-        "la": "In dedicatione ecclesiae"
+        "la": "In dedicatione ecclesiae",
+        "pt-BR": "Na Dedicação da igreja"
       },
       "children": [
         {
           "id": "w6188-s001",
           "title": {
-            "la": "Sermo I. De quinque sacramentis dedicationis"
+            "la": "Sermo I. De quinque sacramentis dedicationis",
+            "pt-BR": "Sermão I. Sobre os cinco mistérios da dedicação"
           }
         },
         {
           "id": "w6188-s002",
           "title": {
-            "la": "Sermo II. Quomodo et nobis et aliis cohaerere debeamus"
+            "la": "Sermo II. Quomodo et nobis et aliis cohaerere debeamus",
+            "pt-BR": "Sermão II. Como devemos manter a união conosco mesmos e com os outros"
           }
         },
         {
           "id": "w6188-s003",
           "title": {
-            "la": "Sermo III. De triplici apparatu quem habemus ad custodiam Dei"
+            "la": "Sermo III. De triplici apparatu quem habemus ad custodiam Dei",
+            "pt-BR": "Sermão III. Sobre a tríplice preparação que temos para guardar Deus"
           }
         },
         {
           "id": "w6188-s004",
           "title": {
-            "la": "Sermo IV. De triplici mansione"
+            "la": "Sermo IV. De triplici mansione",
+            "pt-BR": "Sermão IV. Sobre a tríplice morada"
           }
         },
         {
           "id": "w6188-s005",
           "title": {
-            "la": "Sermo V. De gemina consideratione sui"
+            "la": "Sermo V. De gemina consideratione sui",
+            "pt-BR": "Sermão V. Sobre a dupla consideração de si mesmo"
           }
         },
         {
           "id": "w6188-s006",
           "title": {
-            "la": "Sermo VI. De reverentia sacris locis debita"
+            "la": "Sermo VI. De reverentia sacris locis debita",
+            "pt-BR": "Sermão VI. Sobre a reverência devida aos lugares sagrados"
           }
         }
       ]
