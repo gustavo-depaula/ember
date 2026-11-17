@@ -51,6 +51,16 @@ codexUsed() {
   print $used
 }
 codexOk() { local u=$(codexUsed); [[ -z ${NO_CODEX:-} && -n $u ]] && (( u < ${CODEX_LIMIT:-99} )); }
+# Codex translation calls wait under CODEX_GEN_LIMIT (default 97%): at 100% a
+# call fails, and two failures fail the span or send it to a Claude agent session.
+waitForCodex() {
+  local u
+  while u=$(codexUsed); (( ${u:-100} >= ${CODEX_GEN_LIMIT:-97} )); do
+    checkDeadline
+    log "quota: codex week ${u:-?}%, waiting"
+    sleep 600
+  done
+}
 
 R2() { python3.13 $here/r2.py "$@"; }
 # A call made while the network is down fails at once, with no answer. That is

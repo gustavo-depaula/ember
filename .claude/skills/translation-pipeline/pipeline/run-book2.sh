@@ -80,6 +80,7 @@ runStep() { # name promptfile engine [claude model]
       log "$1: stopped by the watchdog near the session limit; rerunning after the reset"
     done
   else
+    waitForCodex
     codex exec -C $root -m $codexModel -s workspace-write --add-dir $evidence -o $run/$1.last.md "$(<$2)" < /dev/null > $run/$1.log 2>&1
   fi
 }
@@ -93,6 +94,7 @@ T2() { python3.13 $here/t2.py "$@"; }
 genCall() { # system-prompt-file input output.json
   if [[ $engine == codex ]]; then
     checkDeadline
+    waitForCodex
     local out=${3%.json}
     { cat $1; print; print -- ---; print; cat $2 } > $out.codex.md
     while true; do

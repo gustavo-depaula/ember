@@ -36,6 +36,7 @@ Translates corpus books into Brazilian Portuguese without supervision: each book
    | `SESSION_LIMIT`, `WEEK_LIMIT` | claude-work usage (%) under which a claude step may start. |
    | `KILL_AT`, `WEEK_KILL_AT` | Watchdog: at this usage (default 90 / 97) it stops claude steps in flight, and they rerun after the reset. |
    | `CODEX_LIMIT` | Codex weekly usage (%) above which reviews fall back to Claude. `NO_CODEX=1` disables Codex. |
+   | `CODEX_GEN_LIMIT` | Codex weekly usage (%) at which Codex translation calls wait for the reset (default 97). |
    | `MAX_ROUNDS` | Review rounds before a book (or part) is given up as `MAXED`. |
    | `PART_WORDS` | Books longer than this (default 40,000 words) are reviewed in parts of chapters. |
    | `EFFORT` | Reasoning effort of every Claude and Codex call (default `medium`). |
