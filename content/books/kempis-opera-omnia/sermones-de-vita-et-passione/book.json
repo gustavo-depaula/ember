@@ -19,7 +19,8 @@
   "composed": "c. 1430-1450",
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "thomas-a-kempis/sermones-de-vita-et-passione",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "Vincent Scully",
       "year": 1907
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -55,245 +61,280 @@
       "id": "s01",
       "title": {
         "la": "1. De desiderio prophetarum et devota praeparatione erga adventum Christi",
-        "en-US": "1. Of the desire of the Prophets and of devout preparation for the coming of Christ"
+        "en-US": "1. Of the desire of the Prophets and of devout preparation for the coming of Christ",
+        "pt-BR": "1. Do desejo dos profetas e da devota preparação para a vinda de Cristo"
       }
     },
     {
       "id": "s02",
       "title": {
         "la": "2. De occursu et susceptione caelestis Regis",
-        "en-US": "2. Of meeting and welcoming the Heavenly King"
+        "en-US": "2. Of meeting and welcoming the Heavenly King",
+        "pt-BR": "2. Do encontro e do acolhimento do Rei celeste"
       }
     },
     {
       "id": "s03",
       "title": {
         "la": "3. In nativitate Christi. De festis animae",
-        "en-US": "3. On Christmas day. Of the feasts of the soul"
+        "en-US": "3. On Christmas day. Of the feasts of the soul",
+        "pt-BR": "3. Na natividade de Cristo. Das festas da alma"
       }
     },
     {
       "id": "s04",
       "title": {
         "la": "4. In nocte nativitatis Christi de quaerendo parvulo Iesu",
-        "en-US": "4. On Christmas night. Of seeking the Infant Jesus"
+        "en-US": "4. On Christmas night. Of seeking the Infant Jesus",
+        "pt-BR": "4. Na noite da natividade de Cristo, da procura do menino Jesus"
       }
     },
     {
       "id": "s05",
       "title": {
         "la": "5. De devota visitatione nati pueri Iesu",
-        "en-US": "5. Of the devout visiting of the new-born Infant Jesus"
+        "en-US": "5. Of the devout visiting of the new-born Infant Jesus",
+        "pt-BR": "5. Da devota visita ao menino Jesus recém-nascido"
       }
     },
     {
       "id": "s06",
       "title": {
         "la": "6. De mansione apud venerabile Christi praesepe",
-        "en-US": "6. Of abiding near the venerable Crib of Christ"
+        "en-US": "6. Of abiding near the venerable Crib of Christ",
+        "pt-BR": "6. Da permanência junto à venerável manjedoura de Cristo"
       }
     },
     {
       "id": "s07",
       "title": {
         "la": "7. De gaudio huius diei et devoto obsequio Iesu",
-        "en-US": "7. Of the joy of this day, and the devout service of Jesus"
+        "en-US": "7. Of the joy of this day, and the devout service of Jesus",
+        "pt-BR": "7. Da alegria deste dia e do devoto serviço a Jesus"
       }
     },
     {
       "id": "s08",
       "title": {
         "la": "8. De desiderio videndi et osculandi Iesum",
-        "en-US": "8. Of the desire of seeing and embracing Jesus"
+        "en-US": "8. Of the desire of seeing and embracing Jesus",
+        "pt-BR": "8. Do desejo de ver e beijar Jesus"
       }
     },
     {
       "id": "s09",
       "title": {
         "la": "9. Ad beatam virginem, ut ostendat nobis Iesum filium suum",
-        "en-US": "9. To the Blessed Virgin, that she show us her Son, Jesus"
+        "en-US": "9. To the Blessed Virgin, that she show us her Son, Jesus",
+        "pt-BR": "9. À bem-aventurada Virgem, para que nos mostre Jesus, seu Filho"
       }
     },
     {
       "id": "s10",
       "title": {
         "la": "10. De perditione et inventione Iesu in templo",
-        "en-US": "10. Of the loss and finding of Jesus in the Temple"
+        "en-US": "10. Of the loss and finding of Jesus in the Temple",
+        "pt-BR": "10. Da perda e do encontro de Jesus no templo"
       }
     },
     {
       "id": "s11",
       "title": {
         "la": "11. De quatuor modis videndi Iesum secundum devotionis affectum",
-        "en-US": "11. Of four ways of seeing Jesus, according to the affection of devotion"
+        "en-US": "11. Of four ways of seeing Jesus, according to the affection of devotion",
+        "pt-BR": "11. Dos quatro modos de ver Jesus segundo o afeto da devoção"
       }
     },
     {
       "id": "s12",
       "title": {
         "la": "12. De sacra institutione ieiunii secundum formam Iesu Christi",
-        "en-US": "12. Of the sacred institution of the Fast, after the example of Jesus Christ"
+        "en-US": "12. Of the sacred institution of the Fast, after the example of Jesus Christ",
+        "pt-BR": "12. Da santa instituição do jejum segundo o exemplo de Jesus Cristo"
       }
     },
     {
       "id": "s13",
       "title": {
         "la": "13. De ferventiori emendatione nunc assumenda",
-        "en-US": "13. Of taking up now a more fervent amendment of life"
+        "en-US": "13. Of taking up now a more fervent amendment of life",
+        "pt-BR": "13. Da emenda de vida mais fervorosa que agora devemos empreender"
       }
     },
     {
       "id": "s14",
       "title": {
         "la": "14. De ascensu Moysi in montem Sinai",
-        "en-US": "14. Of the going up of Moses into Mount Sinai"
+        "en-US": "14. Of the going up of Moses into Mount Sinai",
+        "pt-BR": "14. Da subida de Moisés ao monte Sinai"
       }
     },
     {
       "id": "s15",
       "title": {
         "la": "15. De verbis Iesu et munditia cordis",
-        "en-US": "15. Of the words of Jesus, and cleanness of heart"
+        "en-US": "15. Of the words of Jesus, and cleanness of heart",
+        "pt-BR": "15. Das palavras de Jesus e da pureza do coração"
       }
     },
     {
       "id": "s16",
       "title": {
         "la": "16. De amore Iesu et abnegatione sui",
-        "en-US": "16. Of the love of Jesus and self-denial"
+        "en-US": "16. Of the love of Jesus and self-denial",
+        "pt-BR": "16. Do amor de Jesus e da renúncia a si mesmo"
       }
     },
     {
       "id": "s17",
       "title": {
         "la": "17. De paupertate Iesu sectanda, et cura temporalium abicienda",
-        "en-US": "17. Of following the poverty of Jesus, and casting aside care for temporal things"
+        "en-US": "17. Of following the poverty of Jesus, and casting aside care for temporal things",
+        "pt-BR": "17. De seguir a pobreza de Jesus e abandonar a preocupação com as coisas temporais"
       }
     },
     {
       "id": "s18",
       "title": {
         "la": "18. De fatigatione Iesu et salutari eius doctrina",
-        "en-US": "18. Of the weariness of Jesus and His saving doctrine"
+        "en-US": "18. Of the weariness of Jesus and His saving doctrine",
+        "pt-BR": "18. Do cansaço de Jesus e de sua doutrina salutar"
       }
     },
     {
       "id": "s19",
       "title": {
         "la": "19. De scriptura Iesu et misericordia eius in peccatricem",
-        "en-US": "19. Of the writing of Jesus and His mercy towards the sinful woman"
+        "en-US": "19. Of the writing of Jesus and His mercy towards the sinful woman",
+        "pt-BR": "19. Do que Jesus escreveu e de sua misericórdia para com a pecadora"
       }
     },
     {
       "id": "s20",
       "title": {
         "la": "20. De custodia humilitatis ex consideratione propriae fragilitatis",
-        "en-US": "20. Of keeping humility from the consideration of our own weakness"
+        "en-US": "20. Of keeping humility from the consideration of our own weakness",
+        "pt-BR": "20. De guardar a humildade pela consideração da própria fragilidade"
       }
     },
     {
       "id": "s21",
       "title": {
         "la": "21. Dominica in passione. De planctu super passionem Domini",
-        "en-US": "21. Passion Sunday. Of lamenting over Our Lord's Passion"
+        "en-US": "21. Passion Sunday. Of lamenting over Our Lord's Passion",
+        "pt-BR": "21. Domingo da Paixão. Do pranto sobre a paixão do Senhor"
       }
     },
     {
       "id": "s22",
       "title": {
         "la": "22. De cruce Iesu, quam pro nobis ipse portavit",
-        "en-US": "22. Of the Cross of Jesus, which He bore for us"
+        "en-US": "22. Of the Cross of Jesus, which He bore for us",
+        "pt-BR": "22. Da cruz de Jesus, que ele próprio carregou por nós"
       }
     },
     {
       "id": "s23",
       "title": {
         "la": "23. De merito Dominicae passionis, et dignitate sanctae crucis",
-        "en-US": "23. Of the merit of the Lord's Passion, and the dignity of the Holy Cross"
+        "en-US": "23. Of the merit of the Lord's Passion, and the dignity of the Holy Cross",
+        "pt-BR": "23. Do mérito da paixão do Senhor e da dignidade da santa cruz"
       }
     },
     {
       "id": "s24",
       "title": {
         "la": "24. De multiplici fructu ex recordatione Dominicae passionis, et de gratitudine eius",
-        "en-US": "24. Of the manifold fruit from remembrance of the Lord's Passion, and of thankfulness therefor"
+        "en-US": "24. Of the manifold fruit from remembrance of the Lord's Passion, and of thankfulness therefor",
+        "pt-BR": "24. Dos múltiplos frutos da recordação da paixão do Senhor e da gratidão por ela"
       }
     },
     {
       "id": "s25",
       "title": {
         "la": "25. De utili exercitio in Christi passione",
-        "en-US": "25. Of profitable exercise in the Passion of Christ"
+        "en-US": "25. Of profitable exercise in the Passion of Christ",
+        "pt-BR": "25. Do exercício proveitoso na paixão de Cristo"
       }
     },
     {
       "id": "s26",
       "title": {
         "la": "26. De septem notabilibus punctis cogitandi de passione Christi",
-        "en-US": "26. Of seven notable points of meditation on the Passion of Christ"
+        "en-US": "26. Of seven notable points of meditation on the Passion of Christ",
+        "pt-BR": "26. Dos sete pontos notáveis para meditar sobre a paixão de Cristo"
       }
     },
     {
       "id": "s27",
       "title": {
         "la": "27. In festo palmarum de processione Christi, et sex generibus hominum obsequentium Christo. Sermo primus",
-        "en-US": "27. On Palm Sunday. Of the procession of Christ, and of the six classes of men who honour Christ. First sermon"
+        "en-US": "27. On Palm Sunday. Of the procession of Christ, and of the six classes of men who honour Christ. First sermon",
+        "pt-BR": "27. Na festa de Ramos, da procissão de Cristo e dos seis grupos de homens que prestam homenagem a Cristo. Primeiro sermão"
       }
     },
     {
       "id": "s28",
       "title": {
         "la": "28. De equitatu Christi non in curru Pharaonis sed in asello humilitatis. Sermo secundus",
-        "en-US": "28. Of the riding of Christ, not in Pharaoh's chariot, but on the ass of humility. Second sermon"
+        "en-US": "28. Of the riding of Christ, not in Pharaoh's chariot, but on the ass of humility. Second sermon",
+        "pt-BR": "28. De Cristo que vem montado, não no carro do Faraó, mas no jumentinho da humildade. Segundo sermão"
       }
     },
     {
       "id": "s29",
       "title": {
         "la": "29. De resurrectione Christi, et spirituali consolatione animae",
-        "en-US": "29. Of the Resurrection of Christ, and the spiritual consolation of the soul"
+        "en-US": "29. Of the Resurrection of Christ, and the spiritual consolation of the soul",
+        "pt-BR": "29. Da ressurreição de Cristo e da consolação espiritual da alma"
       }
     },
     {
       "id": "s30",
       "title": {
         "la": "30. De gaudio Dominicae resurrectionis",
-        "en-US": "30. Of the joy of the Lord's Resurrection"
+        "en-US": "30. Of the joy of the Lord's Resurrection",
+        "pt-BR": "30. Da alegria da ressurreição do Senhor"
       }
     },
     {
       "id": "s31",
       "title": {
         "la": "31. De mystico paschae nomine, et novae vitae conversatione",
-        "en-US": "31. Of the mystic name of Easter, and of the conversation of the new life"
+        "en-US": "31. Of the mystic name of Easter, and of the conversation of the new life",
+        "pt-BR": "31. Do nome místico da Páscoa e do modo de viver a vida nova"
       }
     },
     {
       "id": "s32",
       "title": {
         "la": "32. De ascensione Iesu in caelum",
-        "en-US": "32. Of the Ascension of Jesus into heaven"
+        "en-US": "32. Of the Ascension of Jesus into heaven",
+        "pt-BR": "32. Da ascensão de Jesus ao céu"
       }
     },
     {
       "id": "s33",
       "title": {
         "la": "33. In festo pentecostes, de donis Spiritus sancti",
-        "en-US": "33. On Pentecost: of the gifts of the Holy Spirit"
+        "en-US": "33. On Pentecost: of the gifts of the Holy Spirit",
+        "pt-BR": "33. Na festa de Pentecostes, dos dons do Espírito Santo"
       }
     },
     {
       "id": "s34",
       "title": {
         "la": "34. De consolatione Spiritus sancti",
-        "en-US": "34. Of the consolation of the Holy Spirit"
+        "en-US": "34. Of the consolation of the Holy Spirit",
+        "pt-BR": "34. Da consolação do Espírito Santo"
       }
     },
     {
       "id": "s35",
       "title": {
         "la": "35. De sancta et unanimi conversatione primitivae ecclesiae in Hierosolymis",
-        "en-US": "35. Of the holy and united conversation of the primitive Church in Jerusalem"
+        "en-US": "35. Of the holy and united conversation of the primitive Church in Jerusalem",
+        "pt-BR": "35. Do santo e unânime modo de viver da Igreja primitiva em Jerusalém"
       }
     }
   ]
