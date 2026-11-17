@@ -164,9 +164,7 @@ suis Celui qui est», Quelle leçon d’humilité et d’amour!
 
 Le dogme est donc la source de la vraie dévotion, son aliment; et il nous reste à dire comment nous devons l’utiliser à ce point de vue.
 
-EEE
-
-290 CHAPITRE Y. mi aa
+EEE mi aa
 
 2° MOYENS POUR ACQUÉRIR CETTE CONNAISSANCE DE DIEU.
 
@@ -204,9 +202,7 @@ CONCLUSION : L’EXERCICE DE LA PRÉSENCE DE DIEU."
 
 446. La connaissance affectueuse de Dieu nous conduit au saint exercice de la présence de Dieu, dont nous allons brièvement indiquer la base, la pratique et les avantages.
 
-A) La Base, c’est la doctrine de Zl’ommiprésence de Dieu. Il est partout non seulement par son regard et son opération, mais aussi par sa substance. Comme le disait S. Paul aux Athéniens, « c’est en lui que nous avons la vie, le mouvement et l’être : in ipso enim vivimus, movemur et sumus» 2; ce qui est vrai au point de vue naturel comme au point de vue surnaturel. Comme Créateur, c’est lui qui, après nouS avoir donné l’être et la vie, nous les conserve, et met en branle nos facultés par son concours;
-
-1 S., THOM., I, q. 8, a. 3; Lessius, De Perfectionibus moribusque divinis, lib. 11; RODRIGUEZ, Pratique, Ite P., 6e traité; P. PINY, O. P., La présence de Dieu; P. PLUS, S. J., Dieu en nous; CATHERINET Initiation à l’Exercice de la Présence de Dieu ; LANGRE, Ami du clergé.
+A) La Base, c’est la doctrine de Zl’ommiprésence de Dieu. Il est partout non seulement par son regard et son opération, mais aussi par sa substance. Comme le disait S. Paul aux Athéniens, « c’est en lui que nous avons la vie, le mouvement et l’être : in ipso enim vivimus, movemur et sumus» 2; ce qui est vrai au point de vue naturel comme au point de vue surnaturel. Comme Créateur, c’est lui qui, après nouS avoir donné l’être et la vie, nous les conserve, et met en branle nos facultés par son concours; q. 8, a. 3; Lessius, De Perfectionibus moribusque divinis, lib. 11; RODRIGUEZ, Pratique, Ite P., 6e traité; P. PINY, O. P., La présence de Dieu; P. PLUS, S. J., Dieu en nous; CATHERINET Initiation à l’Exercice de la Présence de Dieu ; LANGRE, Ami du clergé.
 
 comme Père, il nous engendre à la vie surnaturelle, qui est une participation à sa propre vie, collabore avec nous, comine cause principale, à Sa conversation et à sa croissance, et se trouve ainsi intimement présent en nous, jusqu’au centre de notre âme, sans cesser cependant d’être distinct de nous. Et, comme nous l’avons dit, n. 92, c’est le Dieu de la Trinité qui vit en nous, le Père qui nous aime comme ses enfants, le Fils qui nous traite comme ses frères, et le Saznt Esprit qui nous donne et ses dons et sa personne.
 

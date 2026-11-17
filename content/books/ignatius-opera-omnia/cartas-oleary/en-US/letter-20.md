@@ -56,9 +56,7 @@ With regard to past or future matters we will decide by votes or in some other w
 
 On one night let one ask all the others to correct him in whatever matter they think fit; and let the one thus corrected not make any answer, unless he is asked to give an account of the matter in which he has been corrected.
 
-On another night let a second do the same; and so on for the rest; so as to help one another on to G
-
-82 LETTERS AND INSTRUCTIONS greater Charity, and to greater good influence in all things.
+On another night let a second do the same; and so on for the rest; so as to help one another on to G greater Charity, and to greater good influence in all things.
 
 In the morning we will renew our resolutions, our examinations we will make twice a day.
 

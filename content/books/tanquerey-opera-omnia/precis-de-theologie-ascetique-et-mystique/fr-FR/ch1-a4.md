@@ -1,8 +1,6 @@
 # Chapitre IV. “De l’obligation de tendre à la perfection. ?
 
-852. Ayant exposé la sature de la vie chrétienne et sa perfection, il nous reste à examiner s’il y a pour nous une véritable obligation de progresser en cette vie ou s’il ne suffit pas de la garder précieusement comme on garde un trésor. Pour répondre avec plus de précision, nous examinerons cette question par rapport à trois catégories de personnes : 1° les simples fidèles ou chrétiens; 29 les religieux;
-
-3 ALVAREZ DE PAZ., op. cit., lib. IV-V; LE apra P, III, sect, I, c VII-X; SCARAMELLI, Guide ascétique, Traité I, art. II; RIBET, Ascétique, ch. VII-IX; IGHINA, og. cit., Introd., XX- XXX
+852. Ayant exposé la sature de la vie chrétienne et sa perfection, il nous reste à examiner s’il y a pour nous une véritable obligation de progresser en cette vie ou s’il ne suffit pas de la garder précieusement comme on garde un trésor. Pour répondre avec plus de précision, nous examinerons cette question par rapport à trois catégories de personnes : 1° les simples fidèles ou chrétiens; 29 les religieux; op. cit., lib. IV-V; LE apra P, III, sect, I, c VII-X; SCARAMELLI, Guide ascétique, Traité I, art. II; RIBET, Ascétique, ch. VII-IX; IGHINA, og. cit., Introd., XX- XXX
 
 3° les préfres, insistant sur ce dernier point, à cause du but spécial que nous nous proposons.
 

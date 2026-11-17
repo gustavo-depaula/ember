@@ -58,9 +58,7 @@ Dieu a communiqué à l’homme ces deux formes de surnaturel : il conféra en e
 
 IL. Dons préternaturels conférés à Adam.
 
-61. Le don d’intégrité perfectionne la nature de l’homme sans l’élever jusqu’à l’ordre divin; c’est assurément un don gratuit, préternaturel, qui dépasse ses exigences et ses forces ; mais ce n’est pas encore le surnaturel par essence. Ilcomprend trois grands pri-
-
-42 CHAPITRE L vilèges, qui, sans changer la nature humaine en son fonds, lui donnent une perfection à laquelle elle n’avait aucun droit : la science infuse, la maftrise des passions ou l’’exemption de concupiscence, Z immortalité du corps.
+61. Le don d’intégrité perfectionne la nature de l’homme sans l’élever jusqu’à l’ordre divin; c’est assurément un don gratuit, préternaturel, qui dépasse ses exigences et ses forces ; mais ce n’est pas encore le surnaturel par essence. Ilcomprend trois grands privilèges, qui, sans changer la nature humaine en son fonds, lui donnent une perfection à laquelle elle n’avait aucun droit : la science infuse, la maftrise des passions ou l’’exemption de concupiscence, Z immortalité du corps.
 
 62. A) La science infuse. Par nature nous n’y avons pas droit, puisqu’elle est le privilège des anges; ce n’est que progressivement et avec difficulté que selon les lois psychologiques nous arrivons à la conquête de la science. Or, pour faciliter au premier homme son rôle de chef et d’éducateur du genre humain, Dieu lui donna gratuitement la connaissance infuse de toutes les vérités qu’il lui importait de connaître, et une certaine facilité pour acquérir la science expérimentale : ainsi il se rapprochait des anges.
 
@@ -108,9 +106,7 @@ Faut-il admettre, avec certains 7 Lomistes, une diminution exfrinsèque de nos �
 
 74. Conclusion. Ce que l’on peut dire c’est que, par la déchéance originelle, l’homme a perdu ce bel équilibre que Dieu lui avait donné, qu’il est, par rapport à l’état primitif, un 4/essé et un déséquilibré, ainsi que le montre l’état présent de nos facultés.
 
-A) C’est ce qui paraît d’abord dans nos facultés sensitives. à) Nos sens extérieurs, nos regards, par exemple, se portent avec avidité vers ce qui flatte la curiosité, les oreilles écoutent avec empressement tout ce qui satisfait notre désir de connaître du nouveau, notre toucher se porte vers les sensations t Sum. theol., 13 22, q. 82, a. 4, ad 1.
-
-48 CHAPITRE lI.
+A) C’est ce qui paraît d’abord dans nos facultés sensitives. à) Nos sens extérieurs, nos regards, par exemple, se portent avec avidité vers ce qui flatte la curiosité, les oreilles écoutent avec empressement tout ce qui satisfait notre désir de connaître du nouveau, notre toucher se porte vers les sensations t Sum. theol., 13 22, q. 82, a. 4, ad 1. lI.
 
 -E agréables, et cela sans souci des règles de la morale, b) Il en est de même de nos sens intérieurs : limagination nous représente toutes sortes de scènes plus ou moins sensuelles, nos passions se portent avec ardeur, violence même, vers le bien sensible ou sensuel, sans se préoccuper de son côté moral, et essaient d’entraîner le consentement de la volonté, Assurément ces tendances ne sont pas irrésistibles ; car ces facultés demeurent, dans une certaine mesure, soumises à l’empire de la volonté ; mais que de tactique et d’efforts pour soumettre ces sujets révoltés !
 
@@ -124,9 +120,7 @@ I. Sa nature
 
 77. Dieu, qui de toute éternité avait prévu la chute de Phomme, voulut aussi de toute éternité préparer aux hommes un Rédempteur en la personne de son Fils : il résolut de se faire homme, pour que, devenu chef de humanité, il pût expier
 
-—+- 1 Rom., VII. 19-25. 2S, THOM., IIÍ, q. 46-49; HUGON, O. P., Le mystère de la Rédemption; BAINVEL, op. cit., Ch. VIIL; J. RIVIÈRE, Le Dogme de la Rédemption, étude théologique, 1914; L. LABAUCHE, Leç. de Théol., t. 1, IIIe P. 3 A proprement parler, c’est la faute qui est heureuse d’avoir eu cette chance, que les autres n’ont pas, d’être ainsi rachetée,
-
-50 CHAPITRE T me A LR TS d’une façon parfaite notre péché et nous rendre, avec la grâce, tous nos droits au ciel. Ainsi il sut tirer le bien du mal et concilier les droits de sa Justice avec ceux de sa bonté.
+—+- 1 Rom., VII. 19-25. 2S, THOM., IIÍ, q. 46-49; HUGON, O. P., Le mystère de la Rédemption; BAINVEL, op. cit., Ch. VIIL; J. RIVIÈRE, Le Dogme de la Rédemption, étude théologique, 1914; L. LABAUCHE, Leç. de Théol., t. 1, IIIe P. 3 A proprement parler, c’est la faute qui est heureuse d’avoir eu cette chance, que les autres n’ont pas, d’être ainsi rachetée, me A LR TS d’une façon parfaite notre péché et nous rendre, avec la grâce, tous nos droits au ciel. Ainsi il sut tirer le bien du mal et concilier les droits de sa Justice avec ceux de sa bonté.
 
 Il n’était pas tenu sans doute d’exercer pleinement tous les droits de sa justice; il aurait pu pardonner à l’homme, en se contentant de la réparation imparfaite que celui-ci aurait pu offrir. Mais il jugea plus digne de sa gloire et plus utile à l’homme de mettre celui-ci en état de réparer complètement sa faute.
 

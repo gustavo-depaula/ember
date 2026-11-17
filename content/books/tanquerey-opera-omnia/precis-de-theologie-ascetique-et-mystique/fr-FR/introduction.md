@@ -152,9 +152,7 @@ Pour mieux utiliser les sources que nous venons de décrire, quelle méthode fau
 
 25. 1° La méthode expérimentale, descriptive ou psychologique consiste à observer en soi ou dans les autres les faits ascétiques ou mystiques, à les
 
-1 Matth., XI, 25. —?‘’ Jete bénis, Père, Seigneur du ciel et de la terre, d’avoir caché cela aux sages et aux habiles et de l’avoir révélé aux tout petits ».
-
-16 INTRODUCTION. A aa Aea araara e classer, les coordonner, pour en induire les signes ou marques caractéristiques de chaque état, les vertus ou dispositions qui conviennent à chacun d’eux; et cela sans s’inquiéter de la nature ou de la cause de ces phénomènes, sans se demander s’ils procèdent des vertus, des dons du S. Esprit, ou de grâces miraculeuses, Cette méthode, dans sa partie positive, a de nombreux avantages; car il faut bien connaître les faits avant d’en expliquer la nature et la cause
+1 Matth., XI, 25. —?‘’ Jete bénis, Père, Seigneur du ciel et de la terre, d’avoir caché cela aux sages et aux habiles et de l’avoir révélé aux tout petits ». aa Aea araara e classer, les coordonner, pour en induire les signes ou marques caractéristiques de chaque état, les vertus ou dispositions qui conviennent à chacun d’eux; et cela sans s’inquiéter de la nature ou de la cause de ces phénomènes, sans se demander s’ils procèdent des vertus, des dons du S. Esprit, ou de grâces miraculeuses, Cette méthode, dans sa partie positive, a de nombreux avantages; car il faut bien connaître les faits avant d’en expliquer la nature et la cause
 
 26. Mais, si on emploie exclusivement :
 

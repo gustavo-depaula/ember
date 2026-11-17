@@ -364,9 +364,7 @@ L’œuvre de chair ne désireras qu’en mariage seulement».
 
 Ce ne sont donc pas seulement les actes extérieurs qui sont défendus, mais les actes znférieurs consentis, imaginations, pensées, désirs. Et c’est avec raison :
 
-1S, Tuom., Ia 112, q. 153-154; S. ALPHONSUS, I. III, n. 412-485; RIGAUX, La formation à la pureté, 2 vol., Action populaire, 1938. V. DILLARD, Lettres à Jean-Pierre, 2 vol., Paris, Spes, 1938. Sur cette question, beaucoup d’ouvrages paraissent spécialement pour la jeunesse; ilimporte que les éducateurs les conseillent ou s’en inspirent avec la prudence chrétienne, J. GUIBERT, La pureté, Paris, 1910; M. DUBOURG, Sixième et neuvième Commandements; NIOLLET, L’éducation de la pureté et du sentiment, Paris, A. M: C.
-
-556 CHAPITRE ïV.
+1S, Tuom., Ia 112, q. 153-154; S. ALPHONSUS, I. III, n. 412-485; RIGAUX, La formation à la pureté, 2 vol., Action populaire, 1938. V. DILLARD, Lettres à Jean-Pierre, 2 vol., Paris, Spes, 1938. Sur cette question, beaucoup d’ouvrages paraissent spécialement pour la jeunesse; ilimporte que les éducateurs les conseillent ou s’en inspirent avec la prudence chrétienne, J. GUIBERT, La pureté, Paris, 1910; M. DUBOURG, Sixième et neuvième Commandements; NIOLLET, L’éducation de la pureté et du sentiment, Paris, A. M: C. ïV.
 
 car si on s’arrête de propos délibéré à des images ou pensées déshonnêtes, à des désirs mauvais, les sens se troublent, et des mouvements organiques se produisent qui ne sont trop souvent que le prélude d’actes contraires à la pureté. Si donc on veut éviter ces actes, il importe de combattre les pensées et les imaginations dangereuses.
 
@@ -380,9 +378,7 @@ d) Les tristes effets de cette abdication de la volonté se font bientôt sentir
 
 Il est évident qu’une âme ainsi déséquilibrée, animant un corps débile, ne songe plus à la perfection ;_elle s’en écarte tous les jours davantage; trop heureuse si elle peut se ressaisir à temps et assurer du moins son salut!
 
-Il importe donc de signaler quelques remèdes pour ce vice grossier.
-
-1 LAUMONIER, of, cit., p. III.
+Il importe donc de signaler quelques remèdes pour ce vice grossier. of, cit., p. III.
 
 876. 3° Remèdes. Pour résister à une passion si dangereuse, il faut : des convictions profondes, la fuite des occasions dangereuses, la mortification et la prière.
 

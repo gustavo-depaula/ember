@@ -40,9 +40,7 @@ You see at once that this subject is not only important, ‘but vital. We shall 
 
 We will now see what this faith is, what its object is, and how it is manifested.
 
-Gal. 11, 26; cf. Rom. m, 22-26. — 2. S, Thom. IV Sent. dist. 39, a. ia ad 2. Est aliquid primum in virtutibus directe per quod scilicet jam ad Deum acceditur. Primus autem accessus ad Deum est per fidem. II- II, q. crxt, a. 5, ad 2. Cf. II-Il, q. 1v, a. 7 et q. xx, a. 8. — 3. De agone Christiano, 14. — 4. Hebr. x, 6. — 5. Concil. Trid. Sess. VI, cap. 8. — 6, Col. 1, 23. — 7. Sess. VI, cap. 8.
-
-FAITH, THE FOUNDATION OF CHRISTIAN LIFE. 133 lie
+Gal. 11, 26; cf. Rom. m, 22-26. — 2. S, Thom. IV Sent. dist. 39, a. ia ad 2. Est aliquid primum in virtutibus directe per quod scilicet jam ad Deum acceditur. Primus autem accessus ad Deum est per fidem. II- II, q. crxt, a. 5, ad 2. Cf. II-Il, q. 1v, a. 7 et q. xx, a. 8. — 3. De agone Christiano, 14. — 4. Hebr. x, 6. — 5. Concil. Trid. Sess. VI, cap. 8. — 6, Col. 1, 23. — 7. Sess. VI, cap. 8. lie
 
 Let us consider what happened when Our Lord lived in Judea. When we read the account of His life in the Gospels, we see it is first of all faith that He requires from those who come to Him.
 

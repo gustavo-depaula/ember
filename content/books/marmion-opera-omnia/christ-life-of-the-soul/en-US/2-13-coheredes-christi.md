@@ -26,9 +26,7 @@ Let us then see what is this “hope”, what are these ” riches” that St. P
 
 1. For example in the Oremus for the feast of St. Prisca. (January
 
-18th.) — 2. Ephes. mi, 14, 18. — 3. Ibid. 1, 16-18. — 4. I Cor. u,9. — 5. Ibid. 1, 10, 12. f
-
-COHEREDES CHRISTI. 391 iE
+18th.) — 2. Ephes. mi, 14, 18. — 3. Ibid. 1, 16-18. — 4. I Cor. u,9. — 5. Ibid. 1, 10, 12. f iE
 
 Speaking of the theological virtues which accompany _sanctifying grace and are like the sources of supernatural activity in a child of God, St. Paul says that in our present state on earth remain these three virtues, ” faith, hope and charity ”; but he adds, ” the greatest of these is charity?”. And why is this ? Because at the heavenly term of our adoption, faith in God gives place to the vision of God, hope vanishes in the possession of God, but love remains and unites us to God for ever.
 
