@@ -14,17 +14,23 @@
   "description": {
     "la": "Liber secundus, ab ipsa Gertrude conscriptus: gratiae acceptae anno aetatis vicesimo sexto, visitationes Domini, vulnera amoris, gratiarum actio.",
     "en-US": "Book II, written by Gertrude herself: the grace received in her twenty-sixth year, the Lord's visitations, the wound of love, thanksgiving.",
-    "pt-BR": "Livro II, escrito pela própria Gertrudes: a graça recebida aos vinte e seis anos, as visitas do Senhor, a ferida do amor, a ação de graças."
+    "pt-BR": "Livro II, escrito pela própria Gertrudes: a graça recebida no vigésimo sexto ano de vida, as visitas do Senhor, a ferida do amor, a ação de graças."
   },
   "composed": "c. 1289-1291",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "gertrude/legatus-2",
   "editions": {
     "la": {
       "editor": "Solesmes Benedictines (L. Paquelin)",
       "year": 1875
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,151 +47,176 @@
     {
       "id": "prologus",
       "title": {
-        "la": "Prologus"
+        "la": "Prologus",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "c01",
       "title": {
-        "la": "Caput 1: De eo qualiter eam Dominus visitavit Oriens ex alto"
+        "la": "Caput 1: De eo qualiter eam Dominus visitavit Oriens ex alto",
+        "pt-BR": "Capítulo 1: Como o Senhor a visitou, Sol nascente do alto"
       }
     },
     {
       "id": "c02",
       "title": {
-        "la": "Caput 2: De illuminatione cordis"
+        "la": "Caput 2: De illuminatione cordis",
+        "pt-BR": "Capítulo 2: Da iluminação do coração"
       }
     },
     {
       "id": "c03",
       "title": {
-        "la": "Caput 3: De Amoentitate inhabitationis domini"
+        "la": "Caput 3: De Amoentitate inhabitationis domini",
+        "pt-BR": "Capítulo 3: Da suavidade da habitação do Senhor"
       }
     },
     {
       "id": "c04",
       "title": {
-        "la": "Caput 4: De sanctissimorum vulnerum Domini impressione"
+        "la": "Caput 4: De sanctissimorum vulnerum Domini impressione",
+        "pt-BR": "Capítulo 4: Da impressão das santíssimas chagas do Senhor"
       }
     },
     {
       "id": "c05",
       "title": {
-        "la": "Caput 5: De vulnere amoris"
+        "la": "Caput 5: De vulnere amoris",
+        "pt-BR": "Capítulo 5: Da ferida do amor"
       }
     },
     {
       "id": "c06",
       "title": {
-        "la": "Caput 6: De digniori visitatione Domini in festo nativitatis"
+        "la": "Caput 6: De digniori visitatione Domini in festo nativitatis",
+        "pt-BR": "Capítulo 6: De uma visita mais sublime do Senhor na festa do Natal"
       }
     },
     {
       "id": "c07",
       "title": {
-        "la": "Caput 7: De excellentiori adjunctione animae ipsius ad Deum"
+        "la": "Caput 7: De excellentiori adjunctione animae ipsius ad Deum",
+        "pt-BR": "Capítulo 7: De uma união mais sublime de sua alma com Deus"
       }
     },
     {
       "id": "c08",
       "title": {
-        "la": "Caput 8: De Familiariori intractione ipsius"
+        "la": "Caput 8: De Familiariori intractione ipsius",
+        "pt-BR": "Capítulo 8: De como foi atraída a uma intimidade maior"
       }
     },
     {
       "id": "c09",
       "title": {
-        "la": "Caput 9: De inseparabili unione animae ipsius"
+        "la": "Caput 9: De inseparabili unione animae ipsius",
+        "pt-BR": "Capítulo 9: Da união inseparável de sua alma"
       }
     },
     {
       "id": "c10",
       "title": {
-        "la": "Caput 10: De influxione divina"
+        "la": "Caput 10: De influxione divina",
+        "pt-BR": "Capítulo 10: Da infusão divina"
       }
     },
     {
       "id": "c11",
       "title": {
-        "la": "Caput 11: De ausu tentandi"
+        "la": "Caput 11: De ausu tentandi",
+        "pt-BR": "Capítulo 11: Da ousadia de tentar"
       }
     },
     {
       "id": "c12",
       "title": {
-        "la": "Caput 12: De supportatione humani defectus"
+        "la": "Caput 12: De supportatione humani defectus",
+        "pt-BR": "Capítulo 12: De como suporta a fraqueza humana"
       }
     },
     {
       "id": "c13",
       "title": {
-        "la": "Caput 13: De custodia affectionum"
+        "la": "Caput 13: De custodia affectionum",
+        "pt-BR": "Capítulo 13: Da guarda dos afetos"
       }
     },
     {
       "id": "c14",
       "title": {
-        "la": "Caput 14: De utilitate compassionis"
+        "la": "Caput 14: De utilitate compassionis",
+        "pt-BR": "Capítulo 14: Da utilidade da compaixão"
       }
     },
     {
       "id": "c15",
       "title": {
-        "la": "Caput 15: De recompensatione gratiae"
+        "la": "Caput 15: De recompensatione gratiae",
+        "pt-BR": "Capítulo 15: Da retribuição da graça"
       }
     },
     {
       "id": "c16",
       "title": {
-        "la": "Caput 16: De benignis exhibitionibus in festo dominicae nativitatis et purificationis beatae Mariae"
+        "la": "Caput 16: De benignis exhibitionibus in festo dominicae nativitatis et purificationis beatae Mariae",
+        "pt-BR": "Capítulo 16: Das benignas manifestações nas festas do Natal do Senhor e da Purificação da bem-aventurada Maria"
       }
     },
     {
       "id": "c17",
       "title": {
-        "la": "Caput 17: De temperantia divina"
+        "la": "Caput 17: De temperantia divina",
+        "pt-BR": "Capítulo 17: Da moderação divina"
       }
     },
     {
       "id": "c18",
       "title": {
-        "la": "Caput 18: De paterna instructione"
+        "la": "Caput 18: De paterna instructione",
+        "pt-BR": "Capítulo 18: Da instrução paterna"
       }
     },
     {
       "id": "c19",
       "title": {
-        "la": "Caput 19: De laude dignationis divinae"
+        "la": "Caput 19: De laude dignationis divinae",
+        "pt-BR": "Capítulo 19: Do louvor da condescendência divina"
       }
     },
     {
       "id": "c20",
       "title": {
-        "la": "Caput 20: De specialibus privilegiis sibi a collatis"
+        "la": "Caput 20: De specialibus privilegiis sibi a collatis",
+        "pt-BR": "Capítulo 20: Dos privilégios especiais que lhe foram concedidos"
       }
     },
     {
       "id": "c21",
       "title": {
-        "la": "Caput 21: De effectu visionis divinae"
+        "la": "Caput 21: De effectu visionis divinae",
+        "pt-BR": "Capítulo 21: Do efeito da visão divina"
       }
     },
     {
       "id": "c22",
       "title": {
-        "la": "Caput 22: Gratiarum actio pro quodam maximo sed secretissimo dono"
+        "la": "Caput 22: Gratiarum actio pro quodam maximo sed secretissimo dono",
+        "pt-BR": "Capítulo 22: Ação de graças por um dom imenso, mas secretíssimo"
       }
     },
     {
       "id": "c23",
       "title": {
-        "la": "Caput 23: Gratiarum actio, cum expositione diversorum beneficiorum, quam cum orationibus tam praecedentibus quam subsequentibus statutis temporibus prout potuit devotius legere consuevit"
+        "la": "Caput 23: Gratiarum actio, cum expositione diversorum beneficiorum, quam cum orationibus tam praecedentibus quam subsequentibus statutis temporibus prout potuit devotius legere consuevit",
+        "pt-BR": "Capítulo 23: Ação de graças, com exposição de diversos benefícios, que costumava ler nos tempos estabelecidos, juntamente com as orações anteriores e posteriores, com a maior devoção de que era capaz"
       }
     },
     {
       "id": "c24",
       "title": {
-        "la": "Caput 24: Commendatio conscriptorum"
+        "la": "Caput 24: Commendatio conscriptorum",
+        "pt-BR": "Capítulo 24: Recomendação dos escritos"
       }
     }
   ]
