@@ -189,8 +189,11 @@ while true; do
     last=$run/review-$n.result prev=$run/review-$((n-1)).result
     fulls=$(cat $run/review-*.mode | grep -c '^full$')
     codexFull=$(for (( i = 1; i <= n; i++ )); do [[ $(<$run/review-$i.mode) == full && $(<$run/review-$i.engine) == codex ]] && print x; done | wc -l)
+    claudeFull=$(for (( i = 1; i <= n; i++ )); do [[ $(<$run/review-$i.mode) == full && $(<$run/review-$i.engine) == claude ]] && print x; done | wc -l)
     if (( codexFull == 0 )) && codexOk; then
       : # one full read by Codex is still owed
+    elif (( claudeFull == 0 )); then
+      : # and one by Claude
     elif (( fulls >= 2 && $(field $last meaning) == 0 && $(field $prev meaning) == 0 && $(field $last applied) == 0 )); then
       log "finished: $n rounds ($fulls full reads), last two without meaning-level defects, last one changed nothing"
       print OK > $run/DONE; return 0
@@ -216,7 +219,14 @@ while true; do
   if (( r >= 2 && codexFull == 0 )) && codexOk; then mode=full; fi
   # Claude's full read comes first; later full reads go to Codex, which
   # costs a fraction of Claude's uncached read of the whole book.
-  if (( r == 1 )); then eng=claude
+  claudeFull=$(for (( i = 1; i <= n; i++ )); do [[ $(<$run/review-$i.mode) == full && $(<$run/review-$i.engine) == claude ]] && print x; done | wc -l)
+  if (( r == 1 )); then
+    eng=claude
+    # Claude over its limit: Codex reads first, so a book does not idle on Claude's
+    # gate (Nov 18: six of seven books waited hours with Codex free); Claude's
+    # full read then comes second.
+    if codexOk && ! claudeOpen; then log "$name: Claude over its limit; Codex takes the first full read"; eng=codex; fi
+  elif (( claudeFull == 0 )); then mode=full; eng=claude
   elif (( codexFull == 0 )) && codexOk; then eng=codex
   elif [[ $mode == full ]] && codexOk; then eng=codex
   elif [[ $(<$run/review-$n.engine) == claude ]] && codexOk; then eng=codex
