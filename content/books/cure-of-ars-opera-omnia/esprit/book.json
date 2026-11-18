@@ -14,13 +14,19 @@
   },
   "composed": "1864",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "cure-of-ars/esprit",
   "editions": {
     "en-US": {
       "translator": "J. E. Bowden",
       "year": 1865
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -43,145 +49,169 @@
     {
       "id": "preface",
       "title": {
-        "en-US": "Preface"
+        "en-US": "Preface",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "part-1",
       "title": {
-        "en-US": "Part I — The Curé of Ars in His Catechisms"
+        "en-US": "Part I — The Curé of Ars in His Catechisms",
+        "pt-BR": "Parte I — O Cura d’Ars em suas catequeses"
       },
       "children": [
         {
           "id": "p1-00",
           "title": {
-            "en-US": "The Curé of Ars in His Catechisms"
+            "en-US": "The Curé of Ars in His Catechisms",
+            "pt-BR": "O Cura d’Ars em suas catequeses"
           }
         },
         {
           "id": "p1-01",
           "title": {
-            "en-US": "Catechism on Salvation"
+            "en-US": "Catechism on Salvation",
+            "pt-BR": "Catequese sobre a salvação"
           }
         },
         {
           "id": "p1-02",
           "title": {
-            "en-US": "Catechism on the Love of God"
+            "en-US": "Catechism on the Love of God",
+            "pt-BR": "Catequese sobre o amor de Deus"
           }
         },
         {
           "id": "p1-03",
           "title": {
-            "en-US": "Catechism on the Prerogatives of the Pure Soul"
+            "en-US": "Catechism on the Prerogatives of the Pure Soul",
+            "pt-BR": "Catequese sobre as prerrogativas da alma pura"
           }
         },
         {
           "id": "p1-04",
           "title": {
-            "en-US": "Catechism on the Holy Spirit"
+            "en-US": "Catechism on the Holy Spirit",
+            "pt-BR": "Catequese sobre o Espírito Santo"
           }
         },
         {
           "id": "p1-05",
           "title": {
-            "en-US": "Catechism on the Blessed Virgin"
+            "en-US": "Catechism on the Blessed Virgin",
+            "pt-BR": "Catequese sobre a Santíssima Virgem"
           }
         },
         {
           "id": "p1-06",
           "title": {
-            "en-US": "Catechism on the Sanctification of Sunday"
+            "en-US": "Catechism on the Sanctification of Sunday",
+            "pt-BR": "Catequese sobre a santificação do domingo"
           }
         },
         {
           "id": "p1-07",
           "title": {
-            "en-US": "Catechism on the Word of God"
+            "en-US": "Catechism on the Word of God",
+            "pt-BR": "Catequese sobre a Palavra de Deus"
           }
         },
         {
           "id": "p1-08",
           "title": {
-            "en-US": "Catechism on Prayer"
+            "en-US": "Catechism on Prayer",
+            "pt-BR": "Catequese sobre a oração"
           }
         },
         {
           "id": "p1-09",
           "title": {
-            "en-US": "Catechism on the Priesthood"
+            "en-US": "Catechism on the Priesthood",
+            "pt-BR": "Catequese sobre o sacerdócio"
           }
         },
         {
           "id": "p1-10",
           "title": {
-            "en-US": "Catechism on the Holy Sacrifice of the Mass"
+            "en-US": "Catechism on the Holy Sacrifice of the Mass",
+            "pt-BR": "Catequese sobre o Santo Sacrifício da Missa"
           }
         },
         {
           "id": "p1-11",
           "title": {
-            "en-US": "Catechism on the Real Presence"
+            "en-US": "Catechism on the Real Presence",
+            "pt-BR": "Catequese sobre a Presença Real"
           }
         },
         {
           "id": "p1-12",
           "title": {
-            "en-US": "Catechism on Communion"
+            "en-US": "Catechism on Communion",
+            "pt-BR": "Catequese sobre a Comunhão"
           }
         },
         {
           "id": "p1-13",
           "title": {
-            "en-US": "Catechism on Frequent Communion"
+            "en-US": "Catechism on Frequent Communion",
+            "pt-BR": "Catequese sobre a Comunhão frequente"
           }
         },
         {
           "id": "p1-14",
           "title": {
-            "en-US": "Catechism on Sin"
+            "en-US": "Catechism on Sin",
+            "pt-BR": "Catequese sobre o pecado"
           }
         },
         {
           "id": "p1-15",
           "title": {
-            "en-US": "On the Same Subject"
+            "en-US": "On the Same Subject",
+            "pt-BR": "Sobre o mesmo assunto"
           }
         },
         {
           "id": "p1-16",
           "title": {
-            "en-US": "Catechism on Pride"
+            "en-US": "Catechism on Pride",
+            "pt-BR": "Catequese sobre o orgulho"
           }
         },
         {
           "id": "p1-17",
           "title": {
-            "en-US": "Catechism on Impurity"
+            "en-US": "Catechism on Impurity",
+            "pt-BR": "Catequese sobre a impureza"
           }
         },
         {
           "id": "p1-18",
           "title": {
-            "en-US": "Catechism on Confession"
+            "en-US": "Catechism on Confession",
+            "pt-BR": "Catequese sobre a confissão"
           }
         },
         {
           "id": "p1-19",
           "title": {
-            "en-US": "Catechism on the Cardinal Virtues"
+            "en-US": "Catechism on the Cardinal Virtues",
+            "pt-BR": "Catequese sobre as virtudes cardeais"
           }
         },
         {
           "id": "p1-20",
           "title": {
-            "en-US": "Catechism on Hope"
+            "en-US": "Catechism on Hope",
+            "pt-BR": "Catequese sobre a esperança"
           }
         },
         {
           "id": "p1-21",
           "title": {
-            "en-US": "Catechism on Suffering"
+            "en-US": "Catechism on Suffering",
+            "pt-BR": "Catequese sobre o sofrimento"
           }
         }
       ]
@@ -189,43 +219,50 @@
     {
       "id": "part-2",
       "title": {
-        "en-US": "Part II — The Curé of Ars in His Homilies"
+        "en-US": "Part II — The Curé of Ars in His Homilies",
+        "pt-BR": "Parte II — O Cura d’Ars em suas homilias"
       },
       "children": [
         {
           "id": "p2-00",
           "title": {
-            "en-US": "The Curé of Ars in His Homilies"
+            "en-US": "The Curé of Ars in His Homilies",
+            "pt-BR": "O Cura d’Ars em suas homilias"
           }
         },
         {
           "id": "p2-01",
           "title": {
-            "en-US": "Homily on the Parable of the Cockle"
+            "en-US": "Homily on the Parable of the Cockle",
+            "pt-BR": "Homilia sobre a parábola do joio"
           }
         },
         {
           "id": "p2-02",
           "title": {
-            "en-US": "Homily on the Parable of the Labourers"
+            "en-US": "Homily on the Parable of the Labourers",
+            "pt-BR": "Homilia sobre a parábola dos trabalhadores"
           }
         },
         {
           "id": "p2-03",
           "title": {
-            "en-US": "Homily on the Gospel for the First Sunday in Lent"
+            "en-US": "Homily on the Gospel for the First Sunday in Lent",
+            "pt-BR": "Homilia sobre o Evangelho do primeiro domingo da Quaresma"
           }
         },
         {
           "id": "p2-04",
           "title": {
-            "en-US": "Homily on the Gospel for the Twenty-first Sunday after Pentecost"
+            "en-US": "Homily on the Gospel for the Twenty-first Sunday after Pentecost",
+            "pt-BR": "Homilia sobre o Evangelho do vigésimo primeiro domingo depois de Pentecostes"
           }
         },
         {
           "id": "p2-05",
           "title": {
-            "en-US": "Homily for the Last Sunday in the Year"
+            "en-US": "Homily for the Last Sunday in the Year",
+            "pt-BR": "Homilia para o último domingo do ano"
           }
         }
       ]
@@ -233,67 +270,78 @@
     {
       "id": "part-3",
       "title": {
-        "en-US": "Part III — The Curé of Ars in His Conversation"
+        "en-US": "Part III — The Curé of Ars in His Conversation",
+        "pt-BR": "Parte III — O Cura d’Ars em sua conversa"
       },
       "children": [
         {
           "id": "p3-01",
           "title": {
-            "en-US": "The Curé of Ars in His Conversation"
+            "en-US": "The Curé of Ars in His Conversation",
+            "pt-BR": "O Cura d’Ars em sua conversa"
           }
         },
         {
           "id": "p3-02",
           "title": {
-            "en-US": "Faith of M. Vianney"
+            "en-US": "Faith of M. Vianney",
+            "pt-BR": "A fé do padre Vianney"
           }
         },
         {
           "id": "p3-03",
           "title": {
-            "en-US": "Hope of M. Vianney"
+            "en-US": "Hope of M. Vianney",
+            "pt-BR": "A esperança do padre Vianney"
           }
         },
         {
           "id": "p3-04",
           "title": {
-            "en-US": "Charity of M. Vianney"
+            "en-US": "Charity of M. Vianney",
+            "pt-BR": "A caridade do padre Vianney"
           }
         },
         {
           "id": "p3-05",
           "title": {
-            "en-US": "Thoughts of M. Vianney on the Joys of the Interior Life"
+            "en-US": "Thoughts of M. Vianney on the Joys of the Interior Life",
+            "pt-BR": "Pensamentos do padre Vianney sobre as alegrias da vida interior"
           }
         },
         {
           "id": "p3-06",
           "title": {
-            "en-US": "Zeal of M. Vianney"
+            "en-US": "Zeal of M. Vianney",
+            "pt-BR": "O zelo do padre Vianney"
           }
         },
         {
           "id": "p3-07",
           "title": {
-            "en-US": "Love of M. Vianney for the Poor"
+            "en-US": "Love of M. Vianney for the Poor",
+            "pt-BR": "O amor do padre Vianney pelos pobres"
           }
         },
         {
           "id": "p3-08",
           "title": {
-            "en-US": "Humility of M. Vianney"
+            "en-US": "Humility of M. Vianney",
+            "pt-BR": "A humildade do padre Vianney"
           }
         },
         {
           "id": "p3-09",
           "title": {
-            "en-US": "Thoughts of M. Vianney on Self-Denial and Suffering"
+            "en-US": "Thoughts of M. Vianney on Self-Denial and Suffering",
+            "pt-BR": "Pensamentos do padre Vianney sobre a abnegação e o sofrimento"
           }
         },
         {
           "id": "p3-10",
           "title": {
-            "en-US": "How M. Vianney Spoke of the Saints"
+            "en-US": "How M. Vianney Spoke of the Saints",
+            "pt-BR": "Como o padre Vianney falava dos santos"
           }
         }
       ]
@@ -301,109 +349,127 @@
     {
       "id": "part-4",
       "title": {
-        "en-US": "Part IV — Seventeen Exhortations of the Curé of Ars"
+        "en-US": "Part IV — Seventeen Exhortations of the Curé of Ars",
+        "pt-BR": "Parte IV — Dezessete exortações do Cura d’Ars"
       },
       "children": [
         {
           "id": "p4-01",
           "title": {
-            "en-US": "On Salvation"
+            "en-US": "On Salvation",
+            "pt-BR": "Sobre a salvação"
           }
         },
         {
           "id": "p4-02",
           "title": {
-            "en-US": "On Death"
+            "en-US": "On Death",
+            "pt-BR": "Sobre a morte"
           }
         },
         {
           "id": "p4-03",
           "title": {
-            "en-US": "On the Last Judgment"
+            "en-US": "On the Last Judgment",
+            "pt-BR": "Sobre o Juízo Final"
           }
         },
         {
           "id": "p4-04",
           "title": {
-            "en-US": "On Sin"
+            "en-US": "On Sin",
+            "pt-BR": "Sobre o pecado"
           }
         },
         {
           "id": "p4-05",
           "title": {
-            "en-US": "On Temptations"
+            "en-US": "On Temptations",
+            "pt-BR": "Sobre as tentações"
           }
         },
         {
           "id": "p4-06",
           "title": {
-            "en-US": "On Pride"
+            "en-US": "On Pride",
+            "pt-BR": "Sobre o orgulho"
           }
         },
         {
           "id": "p4-07",
           "title": {
-            "en-US": "On Avarice"
+            "en-US": "On Avarice",
+            "pt-BR": "Sobre a avareza"
           }
         },
         {
           "id": "p4-08",
           "title": {
-            "en-US": "On Luxury"
+            "en-US": "On Luxury",
+            "pt-BR": "Sobre a luxúria"
           }
         },
         {
           "id": "p4-09",
           "title": {
-            "en-US": "On Envy"
+            "en-US": "On Envy",
+            "pt-BR": "Sobre a inveja"
           }
         },
         {
           "id": "p4-10",
           "title": {
-            "en-US": "On Gluttony"
+            "en-US": "On Gluttony",
+            "pt-BR": "Sobre a gula"
           }
         },
         {
           "id": "p4-11",
           "title": {
-            "en-US": "On Anger"
+            "en-US": "On Anger",
+            "pt-BR": "Sobre a ira"
           }
         },
         {
           "id": "p4-12",
           "title": {
-            "en-US": "On Sloth"
+            "en-US": "On Sloth",
+            "pt-BR": "Sobre a preguiça"
           }
         },
         {
           "id": "p4-13",
           "title": {
-            "en-US": "On Grace"
+            "en-US": "On Grace",
+            "pt-BR": "Sobre a graça"
           }
         },
         {
           "id": "p4-14",
           "title": {
-            "en-US": "On Habitual Grace"
+            "en-US": "On Habitual Grace",
+            "pt-BR": "Sobre a graça habitual"
           }
         },
         {
           "id": "p4-15",
           "title": {
-            "en-US": "On Prayer"
+            "en-US": "On Prayer",
+            "pt-BR": "Sobre a oração"
           }
         },
         {
           "id": "p4-16",
           "title": {
-            "en-US": "On the Love of God"
+            "en-US": "On the Love of God",
+            "pt-BR": "Sobre o amor de Deus"
           }
         },
         {
           "id": "p4-17",
           "title": {
-            "en-US": "On Paradise"
+            "en-US": "On Paradise",
+            "pt-BR": "Sobre o Paraíso"
           }
         }
       ]
