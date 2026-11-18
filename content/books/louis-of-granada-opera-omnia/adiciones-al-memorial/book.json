@@ -14,17 +14,23 @@
   "description": {
     "es-ES": "Adiciones de Fray Luis de Granada al Memorial (1574): el tratado del amor de Dios, con las consideraciones sobre los beneficios y perfecciones divinas, y las Meditaciones muy devotas de la vida de Cristo, de su niñez, pasión y resurrección.",
     "en-US": "Fray Luis de Granada's additions to the Memorial (1574): the treatise on the love of God, with considerations on the divine benefits and perfections, and the devout Meditations on the life of Christ, from his childhood to the Passion and Resurrection.",
-    "pt-BR": "Adições de Frei Luís de Granada ao Memorial (1574): o tratado do amor de Deus, com considerações sobre os benefícios e perfeições divinas, e as Meditações muito devotas da vida de Cristo."
+    "pt-BR": "Adições de Frei Luís de Granada ao Memorial (1574): o tratado do amor de Deus, com considerações sobre os benefícios e perfeições divinas, e as Meditações muito devotas da vida de Cristo, da sua infância, paixão e ressurreição."
   },
   "composed": "1574",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "louis-of-granada/adiciones-al-memorial",
   "editions": {
     "es-ES": {
       "editor": "Justo Cuervo OP",
       "year": 1907
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,223 +47,260 @@
     {
       "id": "prologo",
       "title": {
-        "es-ES": "Prólogo"
+        "es-ES": "Prólogo",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "amor-de-dios",
       "title": {
-        "es-ES": "Tratado del amor de Dios"
+        "es-ES": "Tratado del amor de Dios",
+        "pt-BR": "Tratado do amor de Deus"
       },
       "children": [
         {
           "id": "t1-c1",
           "title": {
-            "es-ES": "Tratado I, capítulo I"
+            "es-ES": "Tratado I, capítulo I",
+            "pt-BR": "Tratado I, capítulo I"
           }
         },
         {
           "id": "t1-c2",
           "title": {
-            "es-ES": "Tratado I, capítulo II"
+            "es-ES": "Tratado I, capítulo II",
+            "pt-BR": "Tratado I, capítulo II"
           }
         },
         {
           "id": "t1-c3",
           "title": {
-            "es-ES": "Tratado I, capítulo III"
+            "es-ES": "Tratado I, capítulo III",
+            "pt-BR": "Tratado I, capítulo III"
           }
         },
         {
           "id": "t1-c4",
           "title": {
-            "es-ES": "Tratado I, capítulo IV"
+            "es-ES": "Tratado I, capítulo IV",
+            "pt-BR": "Tratado I, capítulo IV"
           }
         },
         {
           "id": "t1-c5",
           "title": {
-            "es-ES": "Tratado I, capítulo V"
+            "es-ES": "Tratado I, capítulo V",
+            "pt-BR": "Tratado I, capítulo V"
           }
         },
         {
           "id": "t1-c6",
           "title": {
-            "es-ES": "Tratado I, capítulo VI"
+            "es-ES": "Tratado I, capítulo VI",
+            "pt-BR": "Tratado I, capítulo VI"
           }
         },
         {
           "id": "t1-c7",
           "title": {
-            "es-ES": "Tratado I, capítulo VII"
+            "es-ES": "Tratado I, capítulo VII",
+            "pt-BR": "Tratado I, capítulo VII"
           }
         },
         {
           "id": "t1-c8",
           "title": {
-            "es-ES": "Tratado I, capítulo VIII"
+            "es-ES": "Tratado I, capítulo VIII",
+            "pt-BR": "Tratado I, capítulo VIII"
           }
         },
         {
           "id": "t1-c9",
           "title": {
-            "es-ES": "Tratado I, capítulo IX"
+            "es-ES": "Tratado I, capítulo IX",
+            "pt-BR": "Tratado I, capítulo IX"
           }
         },
         {
           "id": "t1-c10",
           "title": {
-            "es-ES": "Tratado I, capítulo X"
+            "es-ES": "Tratado I, capítulo X",
+            "pt-BR": "Tratado I, capítulo X"
           }
         },
         {
           "id": "t1-c11",
           "title": {
-            "es-ES": "Tratado I, capítulo XI"
+            "es-ES": "Tratado I, capítulo XI",
+            "pt-BR": "Tratado I, capítulo XI"
           }
         },
         {
           "id": "t1-c12",
           "title": {
-            "es-ES": "Tratado I, capítulo XII"
+            "es-ES": "Tratado I, capítulo XII",
+            "pt-BR": "Tratado I, capítulo XII"
           }
         },
         {
           "id": "t1-c13",
           "title": {
-            "es-ES": "Tratado I, capítulo XIII"
+            "es-ES": "Tratado I, capítulo XIII",
+            "pt-BR": "Tratado I, capítulo XIII"
           }
         },
         {
           "id": "t1-c14",
           "title": {
-            "es-ES": "Tratado I, capítulo XIV"
+            "es-ES": "Tratado I, capítulo XIV",
+            "pt-BR": "Tratado I, capítulo XIV"
           }
         },
         {
           "id": "t1-c15",
           "title": {
-            "es-ES": "Tratado I, capítulo XV"
+            "es-ES": "Tratado I, capítulo XV",
+            "pt-BR": "Tratado I, capítulo XV"
           }
         },
         {
           "id": "t1-c16",
           "title": {
-            "es-ES": "Tratado I, capítulo XVI"
+            "es-ES": "Tratado I, capítulo XVI",
+            "pt-BR": "Tratado I, capítulo XVI"
           }
         },
         {
           "id": "t1-c17",
           "title": {
-            "es-ES": "Tratado I, capítulo XVIII"
+            "es-ES": "Tratado I, capítulo XVIII",
+            "pt-BR": "Tratado I, capítulo XVIII"
           }
         },
         {
           "id": "t1-c18",
           "title": {
-            "es-ES": "Tratado I, capítulo XIX"
+            "es-ES": "Tratado I, capítulo XIX",
+            "pt-BR": "Tratado I, capítulo XIX"
           }
         },
         {
           "id": "t1-c19",
           "title": {
-            "es-ES": "Tratado I, capítulo XX"
+            "es-ES": "Tratado I, capítulo XX",
+            "pt-BR": "Tratado I, capítulo XX"
           }
         },
         {
           "id": "t1-c20",
           "title": {
-            "es-ES": "Tratado I, capítulo XXI"
+            "es-ES": "Tratado I, capítulo XXI",
+            "pt-BR": "Tratado I, capítulo XXI"
           }
         },
         {
           "id": "c22-preambulo",
           "title": {
-            "es-ES": "Capítulo XXII. Preámbulo para las consideraciones siguientes"
+            "es-ES": "Capítulo XXII. Preámbulo para las consideraciones siguientes",
+            "pt-BR": "Capítulo XXII. Preâmbulo para as considerações seguintes"
           }
         },
         {
           "id": "c22-01",
           "title": {
-            "es-ES": "Consideración primera, del beneficio de la creación. Del primer beneficio de la creación"
+            "es-ES": "Consideración primera, del beneficio de la creación. Del primer beneficio de la creación",
+            "pt-BR": "Primeira consideração, do benefício da criação. Do primeiro benefício da criação"
           }
         },
         {
           "id": "c22-02",
           "title": {
-            "es-ES": "Consideración segunda, del beneficio de la conservación y gobernación. Del segundo beneficio de la gobernación y conservación de la vida corporal"
+            "es-ES": "Consideración segunda, del beneficio de la conservación y gobernación. Del segundo beneficio de la gobernación y conservación de la vida corporal",
+            "pt-BR": "Segunda consideração, do benefício da conservação e do governo. Do segundo benefício do governo e da conservação da vida corporal"
           }
         },
         {
           "id": "c22-03",
           "title": {
-            "es-ES": "Consideración tercera, del beneficio de la encarnación y nacimiento de Cristo. Del beneficio inestimable de la incarnación y nascimiento de Nuestro Salvador, y de otros pasos de su vida sanctísima"
+            "es-ES": "Consideración tercera, del beneficio de la encarnación y nacimiento de Cristo. Del beneficio inestimable de la incarnación y nascimiento de Nuestro Salvador, y de otros pasos de su vida sanctísima",
+            "pt-BR": "Terceira consideração, do benefício da encarnação e nascimento de Cristo. Do benefício inestimável da encarnação e nascimento de Nosso Salvador, e de outros passos da sua santíssima vida"
           }
         },
         {
           "id": "c22-04",
           "title": {
-            "es-ES": "Consideración cuarta, del beneficio de la redención. Del beneficio inestimable de Nuestra redempción"
+            "es-ES": "Consideración cuarta, del beneficio de la redención. Del beneficio inestimable de Nuestra redempción",
+            "pt-BR": "Quarta consideração, do benefício da redenção. Do benefício inestimável da nossa redenção"
           }
         },
         {
           "id": "c22-05",
           "title": {
-            "es-ES": "Consideración quinta, del beneficio del bautismo y de los otros sacramentos. Del beneficio del sancto baptismo y de los otros sacramentos, y señaladamente de la confesión y del sancto Sacramento del altar"
+            "es-ES": "Consideración quinta, del beneficio del bautismo y de los otros sacramentos. Del beneficio del sancto baptismo y de los otros sacramentos, y señaladamente de la confesión y del sancto Sacramento del altar",
+            "pt-BR": "Quinta consideração, do benefício do batismo e dos outros sacramentos. Do benefício do santo batismo e dos outros sacramentos, e especialmente da confissão e do santo Sacramento do altar"
           }
         },
         {
           "id": "c22-06",
           "title": {
-            "es-ES": "Consideración sexta, del beneficio del llamamiento y la justificación. Del sexto beneficio del llamamiento y justificación"
+            "es-ES": "Consideración sexta, del beneficio del llamamiento y la justificación. Del sexto beneficio del llamamiento y justificación",
+            "pt-BR": "Sexta consideração, do benefício do chamamento e da justificação. Do sexto benefício do chamamento e da justificação"
           }
         },
         {
           "id": "c22-07",
           "title": {
-            "es-ES": "Consideración séptima, del beneficio de la conservación en el ser espiritual de la gracia. De la gracia"
+            "es-ES": "Consideración séptima, del beneficio de la conservación en el ser espiritual de la gracia. De la gracia",
+            "pt-BR": "Sétima consideração, do benefício da conservação no ser espiritual da graça. Da graça"
           }
         },
         {
           "id": "c22-08",
           "title": {
-            "es-ES": "Consideraciones de las perfecciones divinas: primera. Y de otras muchas razones y motivos que mueven al amor de Nuestro Señor"
+            "es-ES": "Consideraciones de las perfecciones divinas: primera. Y de otras muchas razones y motivos que mueven al amor de Nuestro Señor",
+            "pt-BR": "Considerações das perfeições divinas: primeira. E de muitas outras razões e motivos que movem ao amor de Nosso Senhor"
           }
         },
         {
           "id": "c22-09",
           "title": {
-            "es-ES": "Consideración segunda, de la hermosura de Dios. De la segunda causa del amor de Dios, qus es la grandeza de su hermosura"
+            "es-ES": "Consideración segunda, de la hermosura de Dios. De la segunda causa del amor de Dios, qus es la grandeza de su hermosura",
+            "pt-BR": "Segunda consideração, da formosura de Deus. Da segunda causa do amor de Deus, que é a grandeza da sua formosura"
           }
         },
         {
           "id": "c22-10",
           "title": {
-            "es-ES": "Consideración tercera, del amor que Dios nos tiene. De otra causa del amor de Dios, que es la grandeza del amor que él nos tiene"
+            "es-ES": "Consideración tercera, del amor que Dios nos tiene. De otra causa del amor de Dios, que es la grandeza del amor que él nos tiene",
+            "pt-BR": "Terceira consideração, do amor que Deus nos tem. De outra causa do amor de Deus, que é a grandeza do amor que ele nos tem"
           }
         },
         {
           "id": "c22-11",
           "title": {
-            "es-ES": "Consideración cuarta, de otra causa de amar a Dios: el parentesco. De otra causa que tenemos para amar á Dios, que es el paren- tesco espiritual que nuestras ánimas tienen con él"
+            "es-ES": "Consideración cuarta, de otra causa de amar a Dios: el parentesco. De otra causa que tenemos para amar á Dios, que es el paren- tesco espiritual que nuestras ánimas tienen con él",
+            "pt-BR": "Quarta consideração, de outra causa de amar a Deus: o parentesco. De outra causa que temos para amar a Deus, que é o parentesco espiritual que as nossas almas têm com ele"
           }
         },
         {
           "id": "c22-12",
           "title": {
-            "es-ES": "Consideración sexta, de la semejanza que nuestra ánima tiene con Dios. De otra causa de amar á Nuestro Señor, qle es la manera de proporción y semejanza que Nuestra ánima tiene con él"
+            "es-ES": "Consideración sexta, de la semejanza que nuestra ánima tiene con Dios. De otra causa de amar á Nuestro Señor, qle es la manera de proporción y semejanza que Nuestra ánima tiene con él",
+            "pt-BR": "Sexta consideração, da semelhança que a nossa alma tem com Deus. De outra causa de amar a Nosso Senhor, que é a maneira de proporção e semelhança que a nossa alma tem com ele"
           }
         },
         {
           "id": "c22-13",
           "title": {
-            "es-ES": "Por cuántos títulos el Salvador es todo para nosotros. Nuestro, y cómo esto fué figurado de muchas maneras en el testamento viejo"
+            "es-ES": "Por cuántos títulos el Salvador es todo para nosotros. Nuestro, y cómo esto fué figurado de muchas maneras en el testamento viejo",
+            "pt-BR": "Por quantos títulos o Salvador é todo para nós. Nosso, e como isto foi figurado de muitas maneiras no Antigo Testamento"
           }
         },
         {
           "id": "c22-14",
           "title": {
-            "es-ES": "Del Cántico de los Cantares"
+            "es-ES": "Del Cántico de los Cantares",
+            "pt-BR": "Do Cântico dos Cânticos"
           }
         }
       ]
@@ -265,85 +308,99 @@
     {
       "id": "vida-de-cristo",
       "title": {
-        "es-ES": "Meditaciones muy devotas de la vida de Cristo"
+        "es-ES": "Meditaciones muy devotas de la vida de Cristo",
+        "pt-BR": "Meditações muito devotas da vida de Cristo"
       },
       "children": [
         {
           "id": "m-c1",
           "title": {
-            "es-ES": "Meditaciones, capítulo I"
+            "es-ES": "Meditaciones, capítulo I",
+            "pt-BR": "Meditações, capítulo I"
           }
         },
         {
           "id": "m-c2",
           "title": {
-            "es-ES": "Meditaciones, capítulo II"
+            "es-ES": "Meditaciones, capítulo II",
+            "pt-BR": "Meditações, capítulo II"
           }
         },
         {
           "id": "m-c3",
           "title": {
-            "es-ES": "Meditaciones, capítulo III"
+            "es-ES": "Meditaciones, capítulo III",
+            "pt-BR": "Meditações, capítulo III"
           }
         },
         {
           "id": "m-nacimiento",
           "title": {
-            "es-ES": "Del nacimiento de Nuestro Salvador"
+            "es-ES": "Del nacimiento de Nuestro Salvador",
+            "pt-BR": "Do nascimento de Nosso Salvador"
           }
         },
         {
           "id": "m-magos",
           "title": {
-            "es-ES": "De la adoración de los Magos"
+            "es-ES": "De la adoración de los Magos",
+            "pt-BR": "Da adoração dos Magos"
           }
         },
         {
           "id": "m-huida",
           "title": {
-            "es-ES": "De la huida a Egipto"
+            "es-ES": "De la huida a Egipto",
+            "pt-BR": "Da fuga para o Egito"
           }
         },
         {
           "id": "m-trabajos",
           "title": {
-            "es-ES": "De los trabajos y vida de Nuestro Salvador"
+            "es-ES": "De los trabajos y vida de Nuestro Salvador",
+            "pt-BR": "Dos trabalhos e da vida de Nosso Salvador"
           }
         },
         {
           "id": "m-lavatorio",
           "title": {
-            "es-ES": "Del lavatorio de los pies de los discípulos"
+            "es-ES": "Del lavatorio de los pies de los discípulos",
+            "pt-BR": "Do lava-pés dos discípulos"
           }
         },
         {
           "id": "m-bernardo",
           "title": {
-            "es-ES": "Consideración de san Bernardo"
+            "es-ES": "Consideración de san Bernardo",
+            "pt-BR": "Consideração de São Bernardo"
           }
         },
         {
           "id": "m-pasion",
           "title": {
-            "es-ES": "La historia de la sagrada pasión"
+            "es-ES": "La historia de la sagrada pasión",
+            "pt-BR": "A história da sagrada paixão"
           }
         },
         {
           "id": "m-med1",
           "title": {
-            "es-ES": "Meditación primera"
+            "es-ES": "Meditación primera",
+            "pt-BR": "Primeira meditação"
           }
         },
         {
           "id": "m-med2",
           "title": {
-            "es-ES": "Meditación segunda"
+            "es-ES": "Meditación segunda",
+            "pt-BR": "Segunda meditação"
           }
         },
         {
           "id": "m-espiritu",
           "title": {
-            "es-ES": "La venida del Espíritu Santo"
+            "es-ES": "La venida del Espíritu Santo",
+            "pt-BR": "A vinda do Espírito Santo"
           }
         }
       ]
