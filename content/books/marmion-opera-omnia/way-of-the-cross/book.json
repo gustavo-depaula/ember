@@ -14,13 +14,19 @@
   },
   "composed": "1923",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "marmion/chemin-de-la-croix",
   "editions": {
     "en-US": {
       "translator": "A Nun of Tyburn Convent",
       "year": 1923
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -37,109 +43,127 @@
     {
       "id": "translators-note",
       "title": {
-        "en-US": "Translator’s Note"
+        "en-US": "Translator’s Note",
+        "pt-BR": "Nota da tradutora"
       }
     },
     {
       "id": "foreword",
       "title": {
-        "en-US": "Foreword"
+        "en-US": "Foreword",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "efficacy",
       "title": {
-        "en-US": "The Efficacy of the Way of the Cross"
+        "en-US": "The Efficacy of the Way of the Cross",
+        "pt-BR": "A eficácia da Via-Sacra"
       }
     },
     {
       "id": "exercise",
       "title": {
-        "en-US": "The Exercise of the Way of the Cross"
+        "en-US": "The Exercise of the Way of the Cross",
+        "pt-BR": "O exercício da Via-Sacra"
       }
     },
     {
       "id": "station-01",
       "title": {
-        "en-US": "I. Jesus is condemned to death by Pilate"
+        "en-US": "I. Jesus is condemned to death by Pilate",
+        "pt-BR": "I. Jesus é condenado à morte por Pilatos"
       }
     },
     {
       "id": "station-02",
       "title": {
-        "en-US": "II. Jesus is laden with His Cross"
+        "en-US": "II. Jesus is laden with His Cross",
+        "pt-BR": "II. Jesus é carregado com sua Cruz"
       }
     },
     {
       "id": "station-03",
       "title": {
-        "en-US": "III. Jesus falls the first time under the weight of His Cross"
+        "en-US": "III. Jesus falls the first time under the weight of His Cross",
+        "pt-BR": "III. Jesus cai pela primeira vez sob o peso de sua Cruz"
       }
     },
     {
       "id": "station-04",
       "title": {
-        "en-US": "IV. Jesus meets His Holy Mother"
+        "en-US": "IV. Jesus meets His Holy Mother",
+        "pt-BR": "IV. Jesus encontra sua Santa Mãe"
       }
     },
     {
       "id": "station-05",
       "title": {
-        "en-US": "V. Simon the Cyrenean helps Jesus to carry His Cross"
+        "en-US": "V. Simon the Cyrenean helps Jesus to carry His Cross",
+        "pt-BR": "V. Simão Cireneu ajuda Jesus a carregar sua Cruz"
       }
     },
     {
       "id": "station-06",
       "title": {
-        "en-US": "VI. A woman wipes the face of Jesus"
+        "en-US": "VI. A woman wipes the face of Jesus",
+        "pt-BR": "VI. Uma mulher enxuga o rosto de Jesus"
       }
     },
     {
       "id": "station-07",
       "title": {
-        "en-US": "VII. Jesus falls the second time"
+        "en-US": "VII. Jesus falls the second time",
+        "pt-BR": "VII. Jesus cai pela segunda vez"
       }
     },
     {
       "id": "station-08",
       "title": {
-        "en-US": "VIII. Jesus speaks to the women of Jerusalem"
+        "en-US": "VIII. Jesus speaks to the women of Jerusalem",
+        "pt-BR": "VIII. Jesus fala às mulheres de Jerusalém"
       }
     },
     {
       "id": "station-09",
       "title": {
-        "en-US": "IX. Jesus falls for the third time"
+        "en-US": "IX. Jesus falls for the third time",
+        "pt-BR": "IX. Jesus cai pela terceira vez"
       }
     },
     {
       "id": "station-10",
       "title": {
-        "en-US": "X. Jesus is stripped of His garments"
+        "en-US": "X. Jesus is stripped of His garments",
+        "pt-BR": "X. Jesus é despojado de suas vestes"
       }
     },
     {
       "id": "station-11",
       "title": {
-        "en-US": "XI. Jesus is nailed to the Cross"
+        "en-US": "XI. Jesus is nailed to the Cross",
+        "pt-BR": "XI. Jesus é pregado na Cruz"
       }
     },
     {
       "id": "station-12",
       "title": {
-        "en-US": "XII. Jesus dies upon the Cross"
+        "en-US": "XII. Jesus dies upon the Cross",
+        "pt-BR": "XII. Jesus morre na Cruz"
       }
     },
     {
       "id": "station-13",
       "title": {
-        "en-US": "XIII. The body of Jesus is taken down from the Cross"
+        "en-US": "XIII. The body of Jesus is taken down from the Cross",
+        "pt-BR": "XIII. O corpo de Jesus é descido da Cruz"
       }
     },
     {
       "id": "station-14",
       "title": {
-        "en-US": "XIV. Jesus is laid in the Sepulchre"
+        "en-US": "XIV. Jesus is laid in the Sepulchre",
+        "pt-BR": "XIV. Jesus é colocado no sepulcro"
       }
     }
   ]

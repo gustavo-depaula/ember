@@ -1,0 +1,31 @@
+# A eficácia da Via-Sacra
+
+A contemplação das dores de Jesus é sumamente fecunda para as almas: nenhum detalhe é insignificante na Paixão de Cristo, o Filho de Deus, objeto da complacência de seu Pai. Jesus manifesta suas virtudes de modo especial no decorrer de sua Paixão. Sempre vivo, Ele produz em nós a perfeição que contemplamos em sua imolação.
+
+A contemplação dos sofrimentos de Jesus é muito proveitosa. Depois dos sacramentos e do culto litúrgico, não há prática mais útil para nossas almas do que a Via-Sacra feita com devoção. Sua eficácia sobrenatural é soberana. Qual é a razão disso?
+
+Antes de tudo, porque a Paixão de Jesus é sua obra essencial; quase todos os seus detalhes foram preditos. Não há outro mistério de Jesus cujas circunstâncias tenham sido anunciadas com tanto cuidado pelo salmista e pelos profetas. E, quando lemos no Evangelho o relato da Paixão, impressiona-nos a atenção que Cristo Jesus dedica a “cumprir” o que fora anunciado a seu respeito. Se permite a presença do traidor na Última Ceia, é “para que se cumpra a Escritura”. Diz aos judeus que vieram prendê-lo que se entrega a eles “para que as Escrituras… se cumpram”: *Ut adimplerentur Scripturae*. São João relata como nosso Salvador, na Cruz, se recorda de que o salmista havia predito a seu respeito: “Em minha sede deram-me vinagre para beber”. Então, para que também essa profecia se cumprisse, Jesus exclamou: “Tenho sede”, *Postea, sciens Jesus quia omnia consummata sunt, UT consummaretur Scriptura, dixit: Sitio*. Nada disso é pequeno ou insignificante, porque todos esses detalhes assinalam as ações de um Homem-Deus.
+
+Todas essas ações de Jesus agradam plenamente ao Pai. Ele contempla seu Filho com amor, não somente no Tabor, quando Cristo está no esplendor de sua glória, mas também quando Pilatos o apresenta à multidão, coroado de espinhos e feito a escória da humanidade; nas ignomínias de sua Paixão, assim como nos esplendores da Transfiguração: *Hic est Filius meus dilectus in quo mihi bene complacut*. Durante sua Paixão, Jesus honra e glorifica seu Pai em medida infinita, não somente porque é o Filho de Deus, mas também porque se entrega a tudo o que a justiça e o amor de seu Pai lhe exigem. Se podia dizer, no decorrer de sua vida pública, que fazia sempre o que agradava a seu Pai: *Quae placita sunt e facio semper*, isso é especialmente verdadeiro naquelas horas em que, para reconhecer os direitos da Majestade divina ultrajada pelo pecado e salvar o mundo, se entregou à morte, e à morte de Cruz: *Ut cognoscat mundus quia diligo Patrem*. O Pai o ama com amor sem limites porque Ele dá a vida por suas ovelhas e porque, por seus sofrimentos, por suas satisfações, nos merece todas as graças que nos reconquistam a amizade de seu Pai: *PRoPTEREA me diligit Pater QUIA ego pono animam meam*.
+
+Além disso, devemos amar a meditação da Paixão porque nela Cristo faz resplandecer suas virtudes com tamanho brilho. Ele possui todas as virtudes em sua alma, mas é sobretudo na Paixão que surgem as ocasiões de manifestá-las. Seu imenso amor pelo Pai, sua caridade para com a humanidade, o ódio ao pecado, o perdão das ofensas, a paciência, a mansidão, a fortaleza, a obediência à autoridade legítima, a compaixão: todas essas virtudes resplandecem de modo heroico nesses dias de dor.
+
+Quando contemplamos Jesus em sua Paixão, vemos o Exemplar de nossa vida, o Modelo — ao mesmo tempo admirável e acessível — daquelas virtudes de compunção, abnegação, paciência, resignação, abandono à vontade de Deus, caridade e mansidão que devemos praticar para nos tornarmos semelhantes à nossa Cabeça divina: *Sz quis vult post me venire, abneget semetipsum, et tollat crucem suam, et sequatur me*.
+
+Há um terceiro aspecto que esquecemos com demasiada frequência, mas cuja importância é extrema. Quando contemplamos os sofrimentos de Jesus, Ele nos concede, segundo a medida de nossa fé, a graça de praticar as virtudes que revelou durante aquelas horas santas. Como se dá isso?
+
+Quando Cristo habitava na terra, uma força onipotente emanava de sua Pessoa divina, curando as enfermidades do corpo, iluminando a inteligência e vivificando a alma: *Virtus de illo exibat, et sanabat omnes*.
+
+Algo semelhante acontece quando nos colocamos em contato com Jesus pela fé. Àqueles que o seguiram com amor pelo caminho do Gólgota ou estiveram presentes à sua imolação, Cristo certamente concedeu graças especiais. Essa força que dele emanava continua a emanar; e, quando, em espírito de fé, para nos compadecermos de seus sofrimentos e imitá-lo, o seguimos do Pretório ao Calvário e nos colocamos ao pé da Cruz, Ele nos dá as mesmas graças,
+
+DBS VIA-SACRA A7/
+
+faz-nos participantes dos mesmos favores. Nunca nos esqueçamos de que Cristo Jesus não é um modelo morto e inerte; mas, sempre vivo, produz sobrenaturalmente, naqueles que se aproximam dele com as devidas disposições, a perfeição que contemplam em sua Pessoa.
+
+Em cada estação, nosso divino Salvador se apresenta a nós sob o tríplice caráter de Mediador que nos salva por seus méritos, de Modelo perfeito de virtudes sublimes e de Causa eficaz que pode, por sua onipotência divina, produzir em nossas almas as virtudes de que nos dá o exemplo.
+
+Pode-se dizer que esses caracteres se encontram em todos os mistérios de Jesus Cristo. É verdade; mas com quanta maior plenitude na Paixão, que é, por excelência, o mistério de Jesus!
+
+É por isso que, se todos os dias, por alguns momentos, interrompendo vosso trabalho, deixando de lado vossas preocupações e fechando vosso coração a todas as coisas exteriores, acompanhais o Homem-Deus pelo caminho do Calvário, com fé, humildade e amor, com o verdadeiro desejo de imitar as virtudes que Ele manifesta em sua Paixão, tende a certeza de que vossas almas receberão graças especiais que as transformarão pouco a pouco à semelhança de Jesus, e de Jesus Crucificado. Ora, não é nessa semelhança que São Paulo resume toda a santidade?
+
+Vamos agora fazer a Via-Sacra; as considerações aqui apresentadas em cada estação não têm outro fim senão nos ajudar na meditação. Cada um de nós pode tomar o que quiser, variando essas considerações e afetos segundo nossas aptidões e as necessidades de nossas almas.
