@@ -14,13 +14,19 @@
   },
   "composed": "1881-1923",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "marmion/english-letters",
   "editions": {
     "en-US": {
       "editor": "Dom Gisbert Ghysens and Dom Thomas Delforge, O.S.B.",
       "year": 1962
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -37,163 +43,190 @@
     {
       "id": "foreword",
       "title": {
-        "en-US": "Foreword"
+        "en-US": "Foreword",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "introduction",
       "title": {
-        "en-US": "Introduction"
+        "en-US": "Introduction",
+        "pt-BR": "Introdução"
       }
     },
     {
       "id": "s01-03",
       "title": {
-        "en-US": "I–III. To Abbot-Bishop Rudesind Salvado; to Bishop Kirby; to a bishop friend"
+        "en-US": "I–III. To Abbot-Bishop Rudesind Salvado; to Bishop Kirby; to a bishop friend",
+        "pt-BR": "I–III. Ao abade-bispo Rudesind Salvado; ao bispo Kirby; a um bispo amigo"
       }
     },
     {
       "id": "s04-06",
       "title": {
-        "en-US": "IV–VI. To an Irish nun; to an Irish Sister of Mercy; to his future abbot"
+        "en-US": "IV–VI. To an Irish nun; to an Irish Sister of Mercy; to his future abbot",
+        "pt-BR": "IV–VI. A uma religiosa irlandesa; a uma irmã da Misericórdia irlandesa; ao seu futuro abade"
       }
     },
     {
       "id": "s07-08",
       "title": {
-        "en-US": "VII–VIII. To his sisters Flora and Rosie"
+        "en-US": "VII–VIII. To his sisters Flora and Rosie",
+        "pt-BR": "VII–VIII. Às suas irmãs Flora e Rosie"
       }
     },
     {
       "id": "s09",
       "title": {
-        "en-US": "IX. To a young priest"
+        "en-US": "IX. To a young priest",
+        "pt-BR": "IX. A um jovem sacerdote"
       }
     },
     {
       "id": "s10",
       "title": {
-        "en-US": "X. To Abbot-Primate Hildebrand de Hemptinne"
+        "en-US": "X. To Abbot-Primate Hildebrand de Hemptinne",
+        "pt-BR": "X. Ao abade primaz Hildebrand de Hemptinne"
       }
     },
     {
       "id": "s11",
       "title": {
-        "en-US": "XI. To an unknown correspondent"
+        "en-US": "XI. To an unknown correspondent",
+        "pt-BR": "XI. A um correspondente desconhecido"
       }
     },
     {
       "id": "s12",
       "title": {
-        "en-US": "XII. To Dom Gerald van Caloen, Abbot of Olinda"
+        "en-US": "XII. To Dom Gerald van Caloen, Abbot of Olinda",
+        "pt-BR": "XII. A Dom Gerald van Caloen, abade de Olinda"
       }
     },
     {
       "id": "s13",
       "title": {
-        "en-US": "XIII. To Dom Anschar Hoeckelmann, Abbot of Erdington"
+        "en-US": "XIII. To Dom Anschar Hoeckelmann, Abbot of Erdington",
+        "pt-BR": "XIII. A Dom Anschar Hoeckelmann, abade de Erdington"
       }
     },
     {
       "id": "s14",
       "title": {
-        "en-US": "XIV. To Dom Bede Camm"
+        "en-US": "XIV. To Dom Bede Camm",
+        "pt-BR": "XIV. A Dom Bede Camm"
       }
     },
     {
       "id": "s15",
       "title": {
-        "en-US": "XV. To a priest friend of Dublin"
+        "en-US": "XV. To a priest friend of Dublin",
+        "pt-BR": "XV. A um sacerdote amigo de Dublin"
       }
     },
     {
       "id": "s16",
       "title": {
-        "en-US": "XVI. To Dom Placid Wolter, Archabbot of Beuron"
+        "en-US": "XVI. To Dom Placid Wolter, Archabbot of Beuron",
+        "pt-BR": "XVI. A Dom Placid Wolter, arquiabade de Beuron"
       }
     },
     {
       "id": "s17",
       "title": {
-        "en-US": "XVII. To a nun"
+        "en-US": "XVII. To a nun",
+        "pt-BR": "XVII. A uma religiosa"
       }
     },
     {
       "id": "s18",
       "title": {
-        "en-US": "XVIII. To a superioress"
+        "en-US": "XVIII. To a superioress",
+        "pt-BR": "XVIII. A uma superiora"
       }
     },
     {
       "id": "s19",
       "title": {
-        "en-US": "XIX. To an English superioress"
+        "en-US": "XIX. To an English superioress",
+        "pt-BR": "XIX. A uma superiora inglesa"
       }
     },
     {
       "id": "s20",
       "title": {
-        "en-US": "XX. To an English Benedictine abbess"
+        "en-US": "XX. To an English Benedictine abbess",
+        "pt-BR": "XX. A uma abadessa beneditina inglesa"
       }
     },
     {
       "id": "s21-23",
       "title": {
-        "en-US": "XXI–XXIII. To a young girl; to a teaching sister; to one of his nieces, a nun"
+        "en-US": "XXI–XXIII. To a young girl; to a teaching sister; to one of his nieces, a nun",
+        "pt-BR": "XXI–XXIII. A uma jovem; a uma irmã dedicada ao ensino; a uma de suas sobrinhas, religiosa"
       }
     },
     {
       "id": "s24",
       "title": {
-        "en-US": "XXIV. To a Benedictine nun of Tyburn Convent"
+        "en-US": "XXIV. To a Benedictine nun of Tyburn Convent",
+        "pt-BR": "XXIV. A uma monja beneditina do convento de Tyburn"
       }
     },
     {
       "id": "s25",
       "title": {
-        "en-US": "XXV. To a Benedictine nun of Ventnor"
+        "en-US": "XXV. To a Benedictine nun of Ventnor",
+        "pt-BR": "XXV. A uma monja beneditina de Ventnor"
       }
     },
     {
       "id": "s26",
       "title": {
-        "en-US": "XXVI. To a Dominican sister of Dublin"
+        "en-US": "XXVI. To a Dominican sister of Dublin",
+        "pt-BR": "XXVI. A uma irmã dominicana de Dublin"
       }
     },
     {
       "id": "s27",
       "title": {
-        "en-US": "XXVII. To a nun"
+        "en-US": "XXVII. To a nun",
+        "pt-BR": "XXVII. A uma religiosa"
       }
     },
     {
       "id": "s28-29",
       "title": {
-        "en-US": "XXVIII–XXIX. To the Poor Clare Colettines of Cork; to a young girl"
+        "en-US": "XXVIII–XXIX. To the Poor Clare Colettines of Cork; to a young girl",
+        "pt-BR": "XXVIII–XXIX. Às clarissas coletinas de Cork; a uma jovem"
       }
     },
     {
       "id": "s30",
       "title": {
-        "en-US": "XXX. To the mother of a family"
+        "en-US": "XXX. To the mother of a family",
+        "pt-BR": "XXX. À mãe de uma família"
       }
     },
     {
       "id": "s31",
       "title": {
-        "en-US": "XXXI. To a Benedictine nun"
+        "en-US": "XXXI. To a Benedictine nun",
+        "pt-BR": "XXXI. A uma monja beneditina"
       }
     },
     {
       "id": "s32",
       "title": {
-        "en-US": "XXXII. To an Irish novice"
+        "en-US": "XXXII. To an Irish novice",
+        "pt-BR": "XXXII. A uma noviça irlandesa"
       }
     },
     {
       "id": "chronology",
       "title": {
-        "en-US": "Chronology"
+        "en-US": "Chronology",
+        "pt-BR": "Cronologia"
       }
     }
   ]

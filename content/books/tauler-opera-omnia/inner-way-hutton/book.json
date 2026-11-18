@@ -11,17 +11,23 @@
   },
   "description": {
     "en-US": "Thirty-six of Tauler's sermons for the festivals of the saints and of Our Lady, in A. W. Hutton's English of 1901 (after the early printed editions of 1498 to 1543, not Vetter's critical text), with Hutton's introduction. A different edition of the same work as Elliott's translation.",
-    "pt-BR": "Trinta e seis sermões de Tauler para as festas dos santos e de Nossa Senhora, na tradução inglesa de A. W. Hutton (1901), com a introdução do tradutor."
+    "pt-BR": "Trinta e seis sermões de Tauler para as festas dos santos e de Nossa Senhora, na tradução inglesa de A. W. Hutton de 1901 (baseada nas primeiras edições impressas de 1498 a 1543, e não no texto crítico de Vetter), com a introdução de Hutton. Uma edição diferente da mesma obra traduzida por Elliott."
   },
   "composed": "c. 1330-1361",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "tauler/predigten",
   "editions": {
     "en-US": {
       "translator": "A. W. Hutton",
       "year": 1901
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,223 +44,260 @@
     {
       "id": "introduction",
       "title": {
-        "en-US": "Introduction (A. W. Hutton)"
+        "en-US": "Introduction (A. W. Hutton)",
+        "pt-BR": "Introdução (A. W. Hutton)"
       }
     },
     {
       "id": "s01",
       "title": {
-        "en-US": "1. On the Feast of St Andrew the Apostle"
+        "en-US": "1. On the Feast of St Andrew the Apostle",
+        "pt-BR": "1. Na Festa de Santo André Apóstolo"
       }
     },
     {
       "id": "s02",
       "title": {
-        "en-US": "2. On St Barbara's Day, or That of Any Other Holy Virgin"
+        "en-US": "2. On St Barbara's Day, or That of Any Other Holy Virgin",
+        "pt-BR": "2. No Dia de Santa Bárbara, ou de Qualquer Outra Santa Virgem"
       }
     },
     {
       "id": "s03",
       "title": {
-        "en-US": "3. On the Conception of Our Lady, Also on Her Birth"
+        "en-US": "3. On the Conception of Our Lady, Also on Her Birth",
+        "pt-BR": "3. Na Conceição de Nossa Senhora, Também em Sua Natividade"
       }
     },
     {
       "id": "s04",
       "title": {
-        "en-US": "4. On the Feast of St Stephen or of St Lawrence"
+        "en-US": "4. On the Feast of St Stephen or of St Lawrence",
+        "pt-BR": "4. Na Festa de Santo Estêvão ou de São Lourenço"
       }
     },
     {
       "id": "s05",
       "title": {
-        "en-US": "5. On St John the Evangelist's Day"
+        "en-US": "5. On St John the Evangelist's Day",
+        "pt-BR": "5. No Dia de São João Evangelista"
       }
     },
     {
       "id": "s06",
       "title": {
-        "en-US": "6. On the Feast of the Holy Virgin"
+        "en-US": "6. On the Feast of the Holy Virgin",
+        "pt-BR": "6. Na Festa da Santa Virgem"
       }
     },
     {
       "id": "s07",
       "title": {
-        "en-US": "7. Our Lady's Candle-mass"
+        "en-US": "7. Our Lady's Candle-mass",
+        "pt-BR": "7. A Candelária de Nossa Senhora"
       }
     },
     {
       "id": "s08",
       "title": {
-        "en-US": "8. On the Feast of St Agatha, or of the Holy Virgins"
+        "en-US": "8. On the Feast of St Agatha, or of the Holy Virgins",
+        "pt-BR": "8. Na Festa de Santa Águeda, ou das Santas Virgens"
       }
     },
     {
       "id": "s09",
       "title": {
-        "en-US": "9. On the Annunciation of Our Lady"
+        "en-US": "9. On the Annunciation of Our Lady",
+        "pt-BR": "9. Na Anunciação de Nossa Senhora"
       }
     },
     {
       "id": "s10",
       "title": {
-        "en-US": "10. On the Nativity of John the Baptist the First Sermon"
+        "en-US": "10. On the Nativity of John the Baptist the First Sermon",
+        "pt-BR": "10. Na Natividade de João Batista — Primeiro Sermão"
       }
     },
     {
       "id": "s11",
       "title": {
-        "en-US": "11. On the Feast of the Nativity of St John the Baptist"
+        "en-US": "11. On the Feast of the Nativity of St John the Baptist",
+        "pt-BR": "11. Na Festa da Natividade de São João Batista"
       }
     },
     {
       "id": "s12",
       "title": {
-        "en-US": "12. On the Feast of St Tlmothy, or the"
+        "en-US": "12. On the Feast of St Tlmothy, or the",
+        "pt-BR": "12. Na Festa de São Timóteo, ou na"
       }
     },
     {
       "id": "s13",
       "title": {
-        "en-US": "13. On the Feast of St Paul the Apostle"
+        "en-US": "13. On the Feast of St Paul the Apostle",
+        "pt-BR": "13. Na Festa de São Paulo Apóstolo"
       }
     },
     {
       "id": "s14",
       "title": {
-        "en-US": "14. On the Presentation of the Blessed Virgin, or on the Octave of Her Nativity"
+        "en-US": "14. On the Presentation of the Blessed Virgin, or on the Octave of Her Nativity",
+        "pt-BR": "14. Na Apresentação da Santíssima Virgem, ou na Oitava de Sua Natividade"
       }
     },
     {
       "id": "s15",
       "title": {
-        "en-US": "15. On the Feast of St Mary Magdalene"
+        "en-US": "15. On the Feast of St Mary Magdalene",
+        "pt-BR": "15. Na Festa de Santa Maria Madalena"
       }
     },
     {
       "id": "s16",
       "title": {
-        "en-US": "16. On the Feast of the Holy Martyr, St Laurence"
+        "en-US": "16. On the Feast of the Holy Martyr, St Laurence",
+        "pt-BR": "16. Na Festa do Santo Mártir São Lourenço"
       }
     },
     {
       "id": "s17",
       "title": {
-        "en-US": "17. On the Assumption of Our Lady"
+        "en-US": "17. On the Assumption of Our Lady",
+        "pt-BR": "17. Na Assunção de Nossa Senhora"
       }
     },
     {
       "id": "s18",
       "title": {
-        "en-US": "18. On the Feast of St Augustine How Man Should Keep Strict Watch and Guard Over All His Life and His Discipline. How Wonderfully God Exalts Those Who Truly Wait for Him, Far Above All Temporal Things ; and Then, for Their Good, Smites and Humbles Them with All Manner of Troubles and Tempta Tions, That They May Be Driven and Helped Along the Safest Road to Everlasting Salvation"
+        "en-US": "18. On the Feast of St Augustine How Man Should Keep Strict Watch and Guard Over All His Life and His Discipline. How Wonderfully God Exalts Those Who Truly Wait for Him, Far Above All Temporal Things ; and Then, for Their Good, Smites and Humbles Them with All Manner of Troubles and Tempta Tions, That They May Be Driven and Helped Along the Safest Road to Everlasting Salvation",
+        "pt-BR": "18. Na Festa de Santo Agostinho: Como o Homem Deve Vigiar e Guardar Rigorosamente Toda a Sua Vida e Sua Disciplina. Como Deus Eleva Maravilhosamente Aqueles que Verdadeiramente Esperam por Ele, Muito Acima de Todas as Coisas Temporais; e Depois, para o Bem Deles, os Fere e Humilha com Toda Espécie de Tribulações e Tentações, para que Sejam Impelidos e Ajudados a Percorrer o Caminho Mais Seguro para a Salvação Eterna"
       }
     },
     {
       "id": "s19",
       "title": {
-        "en-US": "19. On the Nativity of Our Lady"
+        "en-US": "19. On the Nativity of Our Lady",
+        "pt-BR": "19. Na Natividade de Nossa Senhora"
       }
     },
     {
       "id": "s20",
       "title": {
-        "en-US": "20. On the Exaltation of the Holy Cross the First Sermon"
+        "en-US": "20. On the Exaltation of the Holy Cross the First Sermon",
+        "pt-BR": "20. Na Exaltação da Santa Cruz — Primeiro Sermão"
       }
     },
     {
       "id": "s21",
       "title": {
-        "en-US": "21. On the Exaltation of the Holy Cross the Second Sermon"
+        "en-US": "21. On the Exaltation of the Holy Cross the Second Sermon",
+        "pt-BR": "21. Na Exaltação da Santa Cruz — Segundo Sermão"
       }
     },
     {
       "id": "s22",
       "title": {
-        "en-US": "22. On the Exaltaton of the Holy Cross"
+        "en-US": "22. On the Exaltaton of the Holy Cross",
+        "pt-BR": "22. Na Exaltação da Santa Cruz"
       }
     },
     {
       "id": "s23",
       "title": {
-        "en-US": "23. On the Feast of St Matthew, Apostle and Evangelist"
+        "en-US": "23. On the Feast of St Matthew, Apostle and Evangelist",
+        "pt-BR": "23. Na Festa de São Mateus, Apóstolo e Evangelista"
       }
     },
     {
       "id": "s24",
       "title": {
-        "en-US": "24. On the Feast of St Michael and All Angels"
+        "en-US": "24. On the Feast of St Michael and All Angels",
+        "pt-BR": "24. Na Festa de São Miguel e de Todos os Anjos"
       }
     },
     {
       "id": "s25",
       "title": {
-        "en-US": "25. All Saints' Day the First Sermon"
+        "en-US": "25. All Saints' Day the First Sermon",
+        "pt-BR": "25. Dia de Todos os Santos — Primeiro Sermão"
       }
     },
     {
       "id": "s26",
       "title": {
-        "en-US": "26. All Saints' Day"
+        "en-US": "26. All Saints' Day",
+        "pt-BR": "26. Dia de Todos os Santos"
       }
     },
     {
       "id": "s27",
       "title": {
-        "en-US": "27. All Saints' Day, or St Ursula's Day the Third Sermon 1"
+        "en-US": "27. All Saints' Day, or St Ursula's Day the Third Sermon 1",
+        "pt-BR": "27. Dia de Todos os Santos, ou Dia de Santa Úrsula — Terceiro Sermão 1"
       }
     },
     {
       "id": "s28",
       "title": {
-        "en-US": "28. On the Feast of the Holy Virgin St Catherine"
+        "en-US": "28. On the Feast of the Holy Virgin St Catherine",
+        "pt-BR": "28. Na Festa da Santa Virgem Catarina"
       }
     },
     {
       "id": "s29",
       "title": {
-        "en-US": "29. On the Feast of the Twelve Apostles"
+        "en-US": "29. On the Feast of the Twelve Apostles",
+        "pt-BR": "29. Na Festa dos Doze Apóstolos"
       }
     },
     {
       "id": "s30",
       "title": {
-        "en-US": "30. On the Feast of Martyrs"
+        "en-US": "30. On the Feast of Martyrs",
+        "pt-BR": "30. Na Festa dos Mártires"
       }
     },
     {
       "id": "s31",
       "title": {
-        "en-US": "31. On a Holy Martyr's Day"
+        "en-US": "31. On a Holy Martyr's Day",
+        "pt-BR": "31. No Dia de um Santo Mártir"
       }
     },
     {
       "id": "s32",
       "title": {
-        "en-US": "32. On the Feast of a Holy Bishop"
+        "en-US": "32. On the Feast of a Holy Bishop",
+        "pt-BR": "32. Na Festa de um Santo Bispo"
       }
     },
     {
       "id": "s33",
       "title": {
-        "en-US": "33. On the Feast of a Holy Confessor"
+        "en-US": "33. On the Feast of a Holy Confessor",
+        "pt-BR": "33. Na Festa de um Santo Confessor"
       }
     },
     {
       "id": "s34",
       "title": {
-        "en-US": "34. On the Feast of a Holy Virgin"
+        "en-US": "34. On the Feast of a Holy Virgin",
+        "pt-BR": "34. Na Festa de uma Santa Virgem"
       }
     },
     {
       "id": "s35",
       "title": {
-        "en-US": "35. At the Dedication of a Church"
+        "en-US": "35. At the Dedication of a Church",
+        "pt-BR": "35. Na Dedicação de uma Igreja"
       }
     },
     {
       "id": "s36",
       "title": {
-        "en-US": "36. At the Dedication of a Church"
+        "en-US": "36. At the Dedication of a Church",
+        "pt-BR": "36. Na Dedicação de uma Igreja"
       }
     }
   ]
