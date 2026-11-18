@@ -18,12 +18,18 @@
   },
   "composed": "1240-1241",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "anonymous-of-perugia/anonymus-perusinus",
   "editions": {
     "la": {
       "editor": "transcription of the critical text of Fontes Franciscani (1995) by M. Mastrorilli, Politecnico di Bari; edition not stated"
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -40,85 +46,99 @@
     {
       "id": "cap-001",
       "title": {
-        "la": "[Prologus]."
+        "la": "[Prologus].",
+        "pt-BR": "[Prólogo]."
       }
     },
     {
       "id": "cap-002",
       "title": {
-        "la": "Caput I - De modo quo B. Franciscus coepit servire Deo."
+        "la": "Caput I - De modo quo B. Franciscus coepit servire Deo.",
+        "pt-BR": "Capítulo I - Como o bem-aventurado Francisco começou a servir a Deus."
       }
     },
     {
       "id": "cap-003",
       "title": {
-        "la": "Caput II - De duobus primis fratribus sequentibus Beatum Franciscum."
+        "la": "Caput II - De duobus primis fratribus sequentibus Beatum Franciscum.",
+        "pt-BR": "Capítulo II - Os dois primeiros irmãos que seguiram o bem-aventurado Francisco."
       }
     },
     {
       "id": "cap-004",
       "title": {
-        "la": "Caput III - De primo foco ubi morati sunt et de persecutione parentum suorum."
+        "la": "Caput III - De primo foco ubi morati sunt et de persecutione parentum suorum.",
+        "pt-BR": "Capítulo III - O primeiro lugar onde moraram e a perseguição de seus pais."
       }
     },
     {
       "id": "cap-005",
       "title": {
-        "la": "Caput IV - Quomodo fratres admonuit et misit per mundum."
+        "la": "Caput IV - Quomodo fratres admonuit et misit per mundum.",
+        "pt-BR": "Capítulo IV - Como admoestou os irmãos e os enviou pelo mundo."
       }
     },
     {
       "id": "cap-006",
       "title": {
-        "la": "Caput V - De persecutionibus quas fratres euntes per mundum perpessi sunt."
+        "la": "Caput V - De persecutionibus quas fratres euntes per mundum perpessi sunt.",
+        "pt-BR": "Capítulo V - As perseguições que os irmãos sofreram ao andar pelo mundo."
       }
     },
     {
       "id": "cap-007",
       "title": {
-        "la": "Caput VI - De conversatione fratrum et dilectione quam invicem habebant."
+        "la": "Caput VI - De conversatione fratrum et dilectione quam invicem habebant.",
+        "pt-BR": "Capítulo VI - A vida dos irmãos e o amor que tinham uns pelos outros."
       }
     },
     {
       "id": "cap-008",
       "title": {
-        "la": "Caput VII - Qualiter iverunt Romam et dominus Papa concessit eis Regulam et praedicationem."
+        "la": "Caput VII - Qualiter iverunt Romam et dominus Papa concessit eis Regulam et praedicationem.",
+        "pt-BR": "Capítulo VII - Como foram a Roma e o senhor papa lhes concedeu a Regra e a pregação."
       }
     },
     {
       "id": "cap-009",
       "title": {
-        "la": "Caput VIII - Quomodo ordinavit quod fieret capitulum et de his quae in capitulo tractabantur."
+        "la": "Caput VIII - Quomodo ordinavit quod fieret capitulum et de his quae in capitulo tractabantur.",
+        "pt-BR": "Capítulo VIII - Como determinou que se realizasse o Capítulo e o que nele se tratava."
       }
     },
     {
       "id": "cap-010",
       "title": {
-        "la": "Caput IX - Quando fuerunt missi fratres per omnes mundi provincias."
+        "la": "Caput IX - Quando fuerunt missi fratres per omnes mundi provincias.",
+        "pt-BR": "Capítulo IX - Quando os irmãos foram enviados a todas as províncias do mundo."
       }
     },
     {
       "id": "cap-011",
       "title": {
-        "la": "Caput X - Quando cardinales benevoli effecti erga fratres consulere eis et auxilium praestare coeperunt."
+        "la": "Caput X - Quando cardinales benevoli effecti erga fratres consulere eis et auxilium praestare coeperunt.",
+        "pt-BR": "Capítulo X - Quando os cardeais, tornando-se favoráveis aos irmãos, começaram a aconselhá-los e a prestar-lhes auxílio."
       }
     },
     {
       "id": "cap-012",
       "title": {
-        "la": "Caput XI - Quomodo Ecclesia eos protexit de manibus persequentium."
+        "la": "Caput XI - Quomodo Ecclesia eos protexit de manibus persequentium.",
+        "pt-BR": "Capítulo XI - Como a Igreja os protegeu das mãos dos perseguidores."
       }
     },
     {
       "id": "cap-013",
       "title": {
-        "la": "Caput XII - De transitu beati Francisci, miraculis et canonizatione."
+        "la": "Caput XII - De transitu beati Francisci, miraculis et canonizatione.",
+        "pt-BR": "Capítulo XII - O trânsito do bem-aventurado Francisco, seus milagres e sua canonização."
       }
     },
     {
       "id": "cap-014",
       "title": {
-        "la": "[Epilogus]."
+        "la": "[Epilogus].",
+        "pt-BR": "[Epílogo]."
       }
     }
   ]
