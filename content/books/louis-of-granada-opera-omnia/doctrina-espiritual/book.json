@@ -18,13 +18,19 @@
   },
   "composed": "1587",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "louis-of-granada/doctrina-espiritual",
   "editions": {
     "es-ES": {
       "editor": "Justo Cuervo OP",
       "year": 1906
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,55 +47,64 @@
     {
       "id": "al-lector",
       "title": {
-        "es-ES": "Al lector"
+        "es-ES": "Al lector",
+        "pt-BR": "Ao leitor"
       }
     },
     {
       "id": "t1-noches",
       "title": {
-        "es-ES": "Tratado I: de la oración mental. Las meditaciones de las noches"
+        "es-ES": "Tratado I: de la oración mental. Las meditaciones de las noches",
+        "pt-BR": "Tratado I: da oração mental. As meditações das noites"
       }
     },
     {
       "id": "t1-pasion",
       "title": {
-        "es-ES": "Tratado I: de la oración mental. Las meditaciones de la sagrada Pasión"
+        "es-ES": "Tratado I: de la oración mental. Las meditaciones de la sagrada Pasión",
+        "pt-BR": "Tratado I: da oração mental. As meditações da sagrada Paixão"
       }
     },
     {
       "id": "t1-metodo",
       "title": {
-        "es-ES": "Tratado I: de la oración mental. De la preparación, la lición, la meditación y la petición"
+        "es-ES": "Tratado I: de la oración mental. De la preparación, la lición, la meditación y la petición",
+        "pt-BR": "Tratado I: da oração mental. Da preparação, da leitura, da meditação e da petição"
       }
     },
     {
       "id": "t2-vocal",
       "title": {
-        "es-ES": "Tratado II: de la oración vocal"
+        "es-ES": "Tratado II: de la oración vocal",
+        "pt-BR": "Tratado II: da oração vocal"
       }
     },
     {
       "id": "t3",
       "title": {
-        "es-ES": "Tratado III: instrucción sobre la confesión"
+        "es-ES": "Tratado III: instrucción sobre la confesión",
+        "pt-BR": "Tratado III: instrução sobre a confissão"
       }
     },
     {
       "id": "t4",
       "title": {
-        "es-ES": "Tratado IV: instrucción para vivir cristianamente"
+        "es-ES": "Tratado IV: instrucción para vivir cristianamente",
+        "pt-BR": "Tratado IV: instrução para viver cristãmente"
       }
     },
     {
       "id": "t5-comunion",
       "title": {
-        "es-ES": "Tratado V: de la comunión"
+        "es-ES": "Tratado V: de la comunión",
+        "pt-BR": "Tratado V: da comunhão"
       }
     },
     {
       "id": "t6-virtudes",
       "title": {
-        "es-ES": "Tratado último: de las tres principales virtudes"
+        "es-ES": "Tratado último: de las tres principales virtudes",
+        "pt-BR": "Último tratado: das três principais virtudes"
       }
     }
   ]
