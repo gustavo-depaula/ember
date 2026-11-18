@@ -14,17 +14,23 @@
   "description": {
     "es-ES": "Compendio de Fray Luis de Granada (1585, dedicado al archiduque Alberto) de la Introducción del símbolo de la fe en cuatro partes, con el Breve tratado del modo de catequizar a los nuevos convertidos.",
     "en-US": "Fray Luis de Granada's compendium (1585, dedicated to Archduke Albert) of the Introduction to the Creed, in four parts, with the short treatise on how to catechize new converts.",
-    "pt-BR": "Compêndio de Frei Luís de Granada (1585) da Introdução do símbolo da fé, em quatro partes, com o Breve tratado do modo de catequizar os recém-convertidos."
+    "pt-BR": "Compêndio de Frei Luís de Granada (1585, dedicado ao arquiduque Alberto) da Introdução do símbolo da fé, em quatro partes, com o Breve tratado do modo de catequizar os recém-convertidos."
   },
   "composed": "1585",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "louis-of-granada/compendio-del-simbolo",
   "editions": {
     "es-ES": {
       "editor": "Justo Cuervo OP",
       "year": 1908
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,79 +47,92 @@
     {
       "id": "prologo",
       "title": {
-        "es-ES": "Prólogo"
+        "es-ES": "Prólogo",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "dedicatoria",
       "title": {
-        "es-ES": "Al serenísimo príncipe Alberto"
+        "es-ES": "Al serenísimo príncipe Alberto",
+        "pt-BR": "Ao sereníssimo príncipe Alberto"
       }
     },
     {
       "id": "lector",
       "title": {
-        "es-ES": "Al cristiano lector"
+        "es-ES": "Al cristiano lector",
+        "pt-BR": "Ao leitor cristão"
       }
     },
     {
       "id": "p1",
       "title": {
-        "es-ES": "Primera parte: de la fe y la creación"
+        "es-ES": "Primera parte: de la fe y la creación",
+        "pt-BR": "Primeira parte: da fé e da criação"
       },
       "children": [
         {
           "id": "p1-intro",
           "title": {
-            "es-ES": "Primera parte: introducción"
+            "es-ES": "Primera parte: introducción",
+            "pt-BR": "Primeira parte: introdução"
           }
         },
         {
           "id": "p1-c1",
           "title": {
-            "es-ES": "Capítulo 1. Dfx primer artículo de Nuestra Fe, que es, creo en Dios"
+            "es-ES": "Capítulo 1. Dfx primer artículo de Nuestra Fe, que es, creo en Dios",
+            "pt-BR": "Capítulo 1. Do primeiro artigo de Nossa Fé, que é: creio em Deus"
           }
         },
         {
           "id": "p1-c2",
           "title": {
-            "es-ES": "Capítulo 2. Cómo en este mundo hay un solo Dios y Señor, y que es imposible haber muchos dioses"
+            "es-ES": "Capítulo 2. Cómo en este mundo hay un solo Dios y Señor, y que es imposible haber muchos dioses",
+            "pt-BR": "Capítulo 2. Como neste mundo há um só Deus e Senhor, e é impossível haver muitos deuses"
           }
         },
         {
           "id": "p1-c3",
           "title": {
-            "es-ES": "Capítulo 3. De la muchedumbre de los beneficios que Nuestro Señor Dios nos ha hecho mediante las obras de naturaleza"
+            "es-ES": "Capítulo 3. De la muchedumbre de los beneficios que Nuestro Señor Dios nos ha hecho mediante las obras de naturaleza",
+            "pt-BR": "Capítulo 3. Da multidão dos benefícios que Nosso Senhor Deus nos fez mediante as obras da natureza"
           }
         },
         {
           "id": "p1-c4",
           "title": {
-            "es-ES": "Capítulo 4. De los cuatro elementos"
+            "es-ES": "Capítulo 4. De los cuatro elementos",
+            "pt-BR": "Capítulo 4. Dos quatro elementos"
           }
         },
         {
           "id": "p1-c5",
           "title": {
-            "es-ES": "Capítulo 5. De los compuestos de los cuatro elementos"
+            "es-ES": "Capítulo 5. De los compuestos de los cuatro elementos",
+            "pt-BR": "Capítulo 5. Dos compostos dos quatro elementos"
           }
         },
         {
           "id": "p1-c6",
           "title": {
-            "es-ES": "Capítulo 6. De la providencia que Dios tiene de las cosas humanas"
+            "es-ES": "Capítulo 6. De la providencia que Dios tiene de las cosas humanas",
+            "pt-BR": "Capítulo 6. Da providência que Deus tem das coisas humanas"
           }
         },
         {
           "id": "p1-c7",
           "title": {
-            "es-ES": "Capítulo 7. De las grandezas de Nuestro Señor Dios, según que se colige de las cosas criadas"
+            "es-ES": "Capítulo 7. De las grandezas de Nuestro Señor Dios, según que se colige de las cosas criadas",
+            "pt-BR": "Capítulo 7. Das grandezas de Nosso Senhor Deus, segundo se depreende das coisas criadas"
           }
         },
         {
           "id": "p1-c8",
           "title": {
-            "es-ES": "Capítulo 8. Concluyese de todo lo dicho en esta primera parte la grande obligación que tenemos al amor y servicio de Nuestro criador"
+            "es-ES": "Capítulo 8. Concluyese de todo lo dicho en esta primera parte la grande obligación que tenemos al amor y servicio de Nuestro criador",
+            "pt-BR": "Capítulo 8. Conclui-se de tudo o que foi dito nesta primeira parte a grande obrigação que temos de amar e servir a Nosso criador"
           }
         }
       ]
@@ -121,187 +140,218 @@
     {
       "id": "p2",
       "title": {
-        "es-ES": "Segunda parte: de las excelencias de la fe"
+        "es-ES": "Segunda parte: de las excelencias de la fe",
+        "pt-BR": "Segunda parte: das excelências da fé"
       },
       "children": [
         {
           "id": "p2-c1",
           "title": {
-            "es-ES": "Capítulo 1. Se declara' qué cosa sea Fe, y de dos maneras de Fe"
+            "es-ES": "Capítulo 1. Se declara' qué cosa sea Fe, y de dos maneras de Fe",
+            "pt-BR": "Capítulo 1. Explica-se o que é a Fé, e de duas maneiras de Fé"
           }
         },
         {
           "id": "p2-c2",
           "title": {
-            "es-ES": "Capítulo 2. Segundo preámbulo, de la manera de proceder en esta segunda parte"
+            "es-ES": "Capítulo 2. Segundo preámbulo, de la manera de proceder en esta segunda parte",
+            "pt-BR": "Capítulo 2. Segundo preâmbulo, da maneira de proceder nesta segunda parte"
           }
         },
         {
           "id": "p2-c3",
           "title": {
-            "es-ES": "Capítulo 3. Primera excelencia de Nuestra sancta Fe, en la cual se declara que la doctrina de la Fe ha de ser revelada por Dios, y que tal es la doctrina que predica la religión cristiana"
+            "es-ES": "Capítulo 3. Primera excelencia de Nuestra sancta Fe, en la cual se declara que la doctrina de la Fe ha de ser revelada por Dios, y que tal es la doctrina que predica la religión cristiana",
+            "pt-BR": "Capítulo 3. Primeira excelência de Nossa santa Fé, na qual se explica que a doutrina da Fé deve ser revelada por Deus, e que assim é a doutrina que a religião cristã prega"
           }
         },
         {
           "id": "p2-c4",
           "title": {
-            "es-ES": "Capítulo 4. Segunda excelencia de la religión cristiana, que es sentir altamente de Dios"
+            "es-ES": "Capítulo 4. Segunda excelencia de la religión cristiana, que es sentir altamente de Dios",
+            "pt-BR": "Capítulo 4. Segunda excelência da religião cristã, que é ter um conceito elevado de Deus"
           }
         },
         {
           "id": "p2-c5",
           "title": {
-            "es-ES": "Capítulo 5. Tercera y cuarta excelencia de la religión cristiana, que es ser ella religiosísima, esto es, ser grande honradora y glorificadora de Dios, y muy cuidadosa del culto divino, y ser toda espiritual"
+            "es-ES": "Capítulo 5. Tercera y cuarta excelencia de la religión cristiana, que es ser ella religiosísima, esto es, ser grande honradora y glorificadora de Dios, y muy cuidadosa del culto divino, y ser toda espiritual",
+            "pt-BR": "Capítulo 5. Terceira e quarta excelências da religião cristã, que são ser ela religiosíssima, isto é, honrar e glorificar grandemente a Deus e ser muito cuidadosa do culto divino, e ser inteiramente espiritual"
           }
         },
         {
           "id": "p2-c6",
           "title": {
-            "es-ES": "Capítulo 6. Guardar"
+            "es-ES": "Capítulo 6. Guardar",
+            "pt-BR": "Capítulo 6. Observar"
           }
         },
         {
           "id": "p2-c7",
           "title": {
-            "es-ES": "Capítulo 7. Que mediante los consejos evangélicos nos enseña"
+            "es-ES": "Capítulo 7. Que mediante los consejos evangélicos nos enseña",
+            "pt-BR": "Capítulo 7. Que mediante os conselhos evangélicos nos ensina"
           }
         },
         {
           "id": "p2-c8",
           "title": {
-            "es-ES": "Capítulo 8. Séptima excelencia de la religión cristiana, que sola ella tiene sacramentos que causan y dan gracia"
+            "es-ES": "Capítulo 8. Séptima excelencia de la religión cristiana, que sola ella tiene sacramentos que causan y dan gracia",
+            "pt-BR": "Capítulo 8. Sétima excelência da religião cristã, que somente ela tem sacramentos que causam e dão graça"
           }
         },
         {
           "id": "p2-c9",
           "title": {
-            "es-ES": "Capítulo 9. Y disfavor á los vicios"
+            "es-ES": "Capítulo 9. Y disfavor á los vicios",
+            "pt-BR": "Capítulo 9. E combate aos vícios"
           }
         },
         {
           "id": "p2-c10",
           "title": {
-            "es-ES": "Capítulo 10. Nona excelencia de la religión cristiana, que es la antigüedad della"
+            "es-ES": "Capítulo 10. Nona excelencia de la religión cristiana, que es la antigüedad della",
+            "pt-BR": "Capítulo 10. Nona excelência da religião cristã, que é sua antiguidade"
           }
         },
         {
           "id": "p2-c11",
           "title": {
-            "es-ES": "Capítulo 11. Décima excelencia de la Fe y religión cristiana, que es la estabilidad y firmeza della"
+            "es-ES": "Capítulo 11. Décima excelencia de la Fe y religión cristiana, que es la estabilidad y firmeza della",
+            "pt-BR": "Capítulo 11. Décima excelência da Fé e religião cristã, que é sua estabilidade e firmeza"
           }
         },
         {
           "id": "p2-c12",
           "title": {
-            "es-ES": "Capítulo 12. Undécima excelencia de Nuestra religión, que es la pureza de las sanctas escripturas"
+            "es-ES": "Capítulo 12. Undécima excelencia de Nuestra religión, que es la pureza de las sanctas escripturas",
+            "pt-BR": "Capítulo 12. Décima primeira excelência de Nossa religião, que é a pureza das santas escrituras"
           }
         },
         {
           "id": "p2-c13",
           "title": {
-            "es-ES": "Capítulo 13. Duodécima excelencia de la religión cristiana, que es la pureza de lá vida que causa en los guardadores della"
+            "es-ES": "Capítulo 13. Duodécima excelencia de la religión cristiana, que es la pureza de lá vida que causa en los guardadores della",
+            "pt-BR": "Capítulo 13. Décima segunda excelência da religião cristã, que é a pureza de vida que produz nos que a observam"
           }
         },
         {
           "id": "p2-c14",
           "title": {
-            "es-ES": "Capítulo 14. Verdadera felicidad y último fin del hombre"
+            "es-ES": "Capítulo 14. Verdadera felicidad y último fin del hombre",
+            "pt-BR": "Capítulo 14. Verdadeira felicidade e fim último do homem"
           }
         },
         {
           "id": "p2-c15",
           "title": {
-            "es-ES": "Capítulo 15. Décimacuarta excelencia de Nuestra Fe, que es haber desterrado la idolatría del mundo"
+            "es-ES": "Capítulo 15. Décimacuarta excelencia de Nuestra Fe, que es haber desterrado la idolatría del mundo",
+            "pt-BR": "Capítulo 15. Décima quarta excelência de Nossa Fé, que é ter desterrado a idolatria do mundo"
           }
         },
         {
           "id": "p2-c16",
           "title": {
-            "es-ES": "Capítulo 16. Décimaquinta excelencia de Nuestra Fe, que fué la reformación del mundo"
+            "es-ES": "Capítulo 16. Décimaquinta excelencia de Nuestra Fe, que fué la reformación del mundo",
+            "pt-BR": "Capítulo 16. Décima quinta excelência de Nossa Fé, que foi a reforma do mundo"
           }
         },
         {
           "id": "p2-c17",
           "title": {
-            "es-ES": "Capítulo 17. Décimasexta excelencia de Nuestra sanctísima Fe y religión , que es el testimonio de los sanctos doctores"
+            "es-ES": "Capítulo 17. Décimasexta excelencia de Nuestra sanctísima Fe y religión , que es el testimonio de los sanctos doctores",
+            "pt-BR": "Capítulo 17. Décima sexta excelência de Nossa santíssima Fé e religião, que é o testemunho dos santos doutores"
           }
         },
         {
           "id": "p2-c18",
           "title": {
-            "es-ES": "Capítulo 18. Decimaséptima excelenxia de Nuestra Fe, que es el testimonio de las sibilas"
+            "es-ES": "Capítulo 18. Decimaséptima excelenxia de Nuestra Fe, que es el testimonio de las sibilas",
+            "pt-BR": "Capítulo 18. Décima sétima excelência de Nossa Fé, que é o testemunho das sibilas"
           }
         },
         {
           "id": "p2-c19",
           "title": {
-            "es-ES": "Capítulo 19. Décimaoctava excelencia de la religión cristiana, que es ser aprobada por el testimonio y sangre de los mártires"
+            "es-ES": "Capítulo 19. Décimaoctava excelencia de la religión cristiana, que es ser aprobada por el testimonio y sangre de los mártires",
+            "pt-BR": "Capítulo 19. Décima oitava excelência da religião cristã, que é ser aprovada pelo testemunho e sangue dos mártires"
           }
         },
         {
           "id": "p2-c20",
           "title": {
-            "es-ES": "Capítulo 20"
+            "es-ES": "Capítulo 20",
+            "pt-BR": "Capítulo 20"
           }
         },
         {
           "id": "p2-c21",
           "title": {
-            "es-ES": "Capítulo 21. Dedúcese de todo lo dicho cuan grande confirmación de Nuestra Fe sea la sangre de los mártires, ponderando las principales circunstancias que intervinieron en sus martirios"
+            "es-ES": "Capítulo 21. Dedúcese de todo lo dicho cuan grande confirmación de Nuestra Fe sea la sangre de los mártires, ponderando las principales circunstancias que intervinieron en sus martirios",
+            "pt-BR": "Capítulo 21. Deduz-se de tudo o que foi dito quão grande confirmação de Nossa Fé é o sangue dos mártires, ponderando as principais circunstâncias de seus martírios"
           }
         },
         {
           "id": "p2-c22",
           "title": {
-            "es-ES": "Capítulo 22. Glaterra"
+            "es-ES": "Capítulo 22. Glaterra",
+            "pt-BR": "Capítulo 22. Glaterra"
           }
         },
         {
           "id": "p2-c23",
           "title": {
-            "es-ES": "Capítulo 23. Martirio del reverendo padre edmundo campion, de la compañía de Jesús, y de otros dos sacerdotes que con él padescieron, el uno llamado rodulfo servino, del colegio anglicano que está en roma, y el otro alejandro brianto, del colegio remense"
+            "es-ES": "Capítulo 23. Martirio del reverendo padre edmundo campion, de la compañía de Jesús, y de otros dos sacerdotes que con él padescieron, el uno llamado rodulfo servino, del colegio anglicano que está en roma, y el otro alejandro brianto, del colegio remense",
+            "pt-BR": "Capítulo 23. Martírio do reverendo padre Edmundo Campion, da Companhia de Jesus, e de outros dois sacerdotes que com ele padeceram, um chamado Rodolfo Sherwin, do colégio inglês que fica em Roma, e o outro Alexandre Briant, do colégio de Reims"
           }
         },
         {
           "id": "p2-c24",
           "title": {
-            "es-ES": "Capítulo 24. Décimanona excelencia de la religión cristiana, que es ser testificada y aprobada con milagros"
+            "es-ES": "Capítulo 24. Décimanona excelencia de la religión cristiana, que es ser testificada y aprobada con milagros",
+            "pt-BR": "Capítulo 24. Décima nona excelência da religião cristã, que é ser atestada e aprovada por milagres"
           }
         },
         {
           "id": "p2-c25",
           "title": {
-            "es-ES": "Capítulo 25. Vigésima excelencia de Nuestra Fe, que fué la conversión del mundo"
+            "es-ES": "Capítulo 25. Vigésima excelencia de Nuestra Fe, que fué la conversión del mundo",
+            "pt-BR": "Capítulo 25. Vigésima excelência de Nossa Fé, que foi a conversão do mundo"
           }
         },
         {
           "id": "p2-c26",
           "title": {
-            "es-ES": "Capítulo 26. De los milagros que se coligen de lo que se ha dicho en este capítulo pasado, que trata de la conversión del mundo"
+            "es-ES": "Capítulo 26. De los milagros que se coligen de lo que se ha dicho en este capítulo pasado, que trata de la conversión del mundo",
+            "pt-BR": "Capítulo 26. Dos milagres que se depreendem do que foi dito no capítulo passado, que trata da conversão do mundo"
           }
         },
         {
           "id": "p2-c27",
           "title": {
-            "es-ES": "Capítulo 27. Vigésimaprima excelencia de la Fe y religión cristiana, que son las profecías que hay en ella"
+            "es-ES": "Capítulo 27. Vigésimaprima excelencia de la Fe y religión cristiana, que son las profecías que hay en ella",
+            "pt-BR": "Capítulo 27. Vigésima primeira excelência da Fé e religião cristã, que são as profecias que nela há"
           }
         },
         {
           "id": "p2-c28",
           "title": {
-            "es-ES": "Capítulo 28. Vigésimasecunda excelencia de la religión cristiana, que es la muchedumbre innumerable de sanctos que ha habido en ella"
+            "es-ES": "Capítulo 28. Vigésimasecunda excelencia de la religión cristiana, que es la muchedumbre innumerable de sanctos que ha habido en ella",
+            "pt-BR": "Capítulo 28. Vigésima segunda excelência da religião cristã, que é a inumerável multidão de santos que nela tem havido"
           }
         },
         {
           "id": "p2-c29",
           "title": {
-            "es-ES": "Capítulo 29. Conclusión de todo lo dicho en esta segunda parte"
+            "es-ES": "Capítulo 29. Conclusión de todo lo dicho en esta segunda parte",
+            "pt-BR": "Capítulo 29. Conclusão de tudo o que foi dito nesta segunda parte"
           }
         },
         {
           "id": "p2-c30",
           "title": {
-            "es-ES": "Capítulo 30. De la práctica y fruto de la Fe"
+            "es-ES": "Capítulo 30. De la práctica y fruto de la Fe",
+            "pt-BR": "Capítulo 30. Da prática e do fruto da Fé"
           }
         }
       ]
@@ -309,133 +359,155 @@
     {
       "id": "p3",
       "title": {
-        "es-ES": "Tercera parte: del misterio de la redención"
+        "es-ES": "Tercera parte: del misterio de la redención",
+        "pt-BR": "Terceira parte: do mistério da redenção"
       },
       "children": [
         {
           "id": "p3-c1",
           "title": {
-            "es-ES": "Capítulo 1. De la disposición que se requiere para tratar deste misterio"
+            "es-ES": "Capítulo 1. De la disposición que se requiere para tratar deste misterio",
+            "pt-BR": "Capítulo 1. Da disposição que se requer para tratar deste mistério"
           }
         },
         {
           "id": "p3-c2",
           "title": {
-            "es-ES": "Capítulo 2. De la semejanza que hay entre la obra de la redempción y de la creación"
+            "es-ES": "Capítulo 2. De la semejanza que hay entre la obra de la redempción y de la creación",
+            "pt-BR": "Capítulo 2. Da semelhança que há entre a obra da redenção e a da criação"
           }
         },
         {
           "id": "p3-c3",
           "title": {
-            "es-ES": "Capítulo 3. De la común dolencia y caída del género humano"
+            "es-ES": "Capítulo 3. De la común dolencia y caída del género humano",
+            "pt-BR": "Capítulo 3. Da enfermidade e queda comuns do gênero humano"
           }
         },
         {
           "id": "p3-c4",
           "title": {
-            "es-ES": "Capítulo 4. Dsl remedio desta dolencia, que fué la perfecta satisfación y redempción de Cristo"
+            "es-ES": "Capítulo 4. Dsl remedio desta dolencia, que fué la perfecta satisfación y redempción de Cristo",
+            "pt-BR": "Capítulo 4. Do remédio desta enfermidade, que foi a perfeita satisfação e redenção de Cristo"
           }
         },
         {
           "id": "p3-c5",
           "title": {
-            "es-ES": "Capítulo 5. De la promptitud y alegría con que el hijo de Dios se ofreció á todos los trabajos que se requerían para obrar el negocio de Nuestra redempción"
+            "es-ES": "Capítulo 5. De la promptitud y alegría con que el hijo de Dios se ofreció á todos los trabajos que se requerían para obrar el negocio de Nuestra redempción",
+            "pt-BR": "Capítulo 5. Da prontidão e alegria com que o filho de Deus se ofereceu a todos os sofrimentos necessários para realizar a obra de Nossa redenção"
           }
         },
         {
           "id": "p3-c6",
           "title": {
-            "es-ES": "Capítulo 6. Cómo todas las perfecciones divinas resplandecen más altamente eñ la Pasión de Cristo Nuestro Señor que en todas las obras suyas, y primero de la bondad"
+            "es-ES": "Capítulo 6. Cómo todas las perfecciones divinas resplandecen más altamente eñ la Pasión de Cristo Nuestro Señor que en todas las obras suyas, y primero de la bondad",
+            "pt-BR": "Capítulo 6. Como todas as perfeições divinas resplandecem mais elevadamente na Paixão de Cristo Nosso Senhor que em todas as suas obras, e primeiramente da bondade"
           }
         },
         {
           "id": "p3-c7",
           "title": {
-            "es-ES": "Capítulo 7. Cómo en la sagrada Pasión resplandesce singularmente la caridad de Cristo Nuestro Señor para con los hombres"
+            "es-ES": "Capítulo 7. Cómo en la sagrada Pasión resplandesce singularmente la caridad de Cristo Nuestro Señor para con los hombres",
+            "pt-BR": "Capítulo 7. Como na sagrada Paixão resplandece singularmente a caridade de Cristo Nosso Senhor para com os homens"
           }
         },
         {
           "id": "p3-c8",
           "title": {
-            "es-ES": "Capítulo 8. Cómo en la sagrada Pasión señaladamente resplandece la misericordia de Cristo Nuestro Señor"
+            "es-ES": "Capítulo 8. Cómo en la sagrada Pasión señaladamente resplandece la misericordia de Cristo Nuestro Señor",
+            "pt-BR": "Capítulo 8. Como na sagrada Paixão resplandece de modo especial a misericórdia de Cristo Nosso Senhor"
           }
         },
         {
           "id": "p3-c9",
           "title": {
-            "es-ES": "Capítulo 9. Cómo la divina providencia singularmente resplandece en la sagrada Pasión de Jesucristo"
+            "es-ES": "Capítulo 9. Cómo la divina providencia singularmente resplandece en la sagrada Pasión de Jesucristo",
+            "pt-BR": "Capítulo 9. Como a providência divina resplandece singularmente na sagrada Paixão de Jesus Cristo"
           }
         },
         {
           "id": "p3-c10",
           "title": {
-            "es-ES": "Capítulo 10. Cómo resplandece la justicia divlva en la Pasión de Nuestro Salvador"
+            "es-ES": "Capítulo 10. Cómo resplandece la justicia divlva en la Pasión de Nuestro Salvador",
+            "pt-BR": "Capítulo 10. Como resplandece a justiça divina na Paixão de Nosso Salvador"
           }
         },
         {
           "id": "p3-c11",
           "title": {
-            "es-ES": "Capítulo 11. Cómo en la sagrada Pasión y encarnación resplandece la omnipotencia de Dios"
+            "es-ES": "Capítulo 11. Cómo en la sagrada Pasión y encarnación resplandece la omnipotencia de Dios",
+            "pt-BR": "Capítulo 11. Como na sagrada Paixão e encarnação resplandece a onipotência de Deus"
           }
         },
         {
           "id": "p3-c12",
           "title": {
-            "es-ES": "Capítulo 12. Cómo en la sagrada Pasión y encarnación resplandece singularmente la sabiduría divina"
+            "es-ES": "Capítulo 12. Cómo en la sagrada Pasión y encarnación resplandece singularmente la sabiduría divina",
+            "pt-BR": "Capítulo 12. Como na sagrada Paixão e encarnação resplandece singularmente a sabedoria divina"
           }
         },
         {
           "id": "p3-c13",
           "title": {
-            "es-ES": "Capítulo 13. Comiénzase á declarar cómo la sagrada Pasión fué medio convenientísimo para remedio de las miserias y necesidades humanas"
+            "es-ES": "Capítulo 13. Comiénzase á declarar cómo la sagrada Pasión fué medio convenientísimo para remedio de las miserias y necesidades humanas",
+            "pt-BR": "Capítulo 13. Começa-se a explicar como a sagrada Paixão foi meio convenientíssimo para remédio das misérias e necessidades humanas"
           }
         },
         {
           "id": "p3-c14",
           "title": {
-            "es-ES": "Capítulo 14. De la reformacióxn de la voluntad, para la cual nos ayuda la sagrada Pasión"
+            "es-ES": "Capítulo 14. De la reformacióxn de la voluntad, para la cual nos ayuda la sagrada Pasión",
+            "pt-BR": "Capítulo 14. Da reforma da vontade, para a qual nos ajuda a sagrada Paixão"
           }
         },
         {
           "id": "p3-c15",
           "title": {
-            "es-ES": "Capítulo 15. Cómo en la sagrada Pasión se nos da copiosa materia de meditación"
+            "es-ES": "Capítulo 15. Cómo en la sagrada Pasión se nos da copiosa materia de meditación",
+            "pt-BR": "Capítulo 15. Como na sagrada Paixão nos é dada copiosa matéria de meditação"
           }
         },
         {
           "id": "p3-c16",
           "title": {
-            "es-ES": "Capítulo 16. Cómo la sagrada Pasión ayuda á la oración para alcanzar lo que en ella pedimos"
+            "es-ES": "Capítulo 16. Cómo la sagrada Pasión ayuda á la oración para alcanzar lo que en ella pedimos",
+            "pt-BR": "Capítulo 16. Como a sagrada Paixão ajuda a oração a alcançar o que nela pedimos"
           }
         },
         {
           "id": "p3-c17",
           "title": {
-            "es-ES": "Capítulo 17. Conclusión de todo lo que hasta aquí está dicho en esta tercera parte"
+            "es-ES": "Capítulo 17. Conclusión de todo lo que hasta aquí está dicho en esta tercera parte",
+            "pt-BR": "Capítulo 17. Conclusão de tudo o que foi dito até aqui nesta terceira parte"
           }
         },
         {
           "id": "p3-c18",
           "title": {
-            "es-ES": "Capítulo 18. De algunas preguntas y objecciones que se pueden proponer acerca del misterio de la encarnación, vida y muerte de Nuestro Salvador"
+            "es-ES": "Capítulo 18. De algunas preguntas y objecciones que se pueden proponer acerca del misterio de la encarnación, vida y muerte de Nuestro Salvador",
+            "pt-BR": "Capítulo 18. De algumas perguntas e objeções que se podem propor acerca do mistério da encarnação, vida e morte de Nosso Salvador"
           }
         },
         {
           "id": "p3-c19",
           "title": {
-            "es-ES": "Capítulo 19. Pobreza y aspereza de la vida de Nuestro Salvador"
+            "es-ES": "Capítulo 19. Pobreza y aspereza de la vida de Nuestro Salvador",
+            "pt-BR": "Capítulo 19. Pobreza e austeridade da vida de Nosso Salvador"
           }
         },
         {
           "id": "p3-c20",
           "title": {
-            "es-ES": "Capítulo 20. Del proceso de la sagrada Pasión de Nuestro Salvador"
+            "es-ES": "Capítulo 20. Del proceso de la sagrada Pasión de Nuestro Salvador",
+            "pt-BR": "Capítulo 20. Do desenrolar da sagrada Paixão de Nosso Salvador"
           }
         },
         {
           "id": "p3-c21",
           "title": {
-            "es-ES": "Capítulo 21. De la grande gloria que está encubierta debajo de la ignominia de la sagrada Pasión"
+            "es-ES": "Capítulo 21. De la grande gloria que está encubierta debajo de la ignominia de la sagrada Pasión",
+            "pt-BR": "Capítulo 21. Da grande glória que está encoberta sob a ignomínia da sagrada Paixão"
           }
         }
       ]
@@ -443,43 +515,50 @@
     {
       "id": "p4",
       "title": {
-        "es-ES": "Cuarta parte: de la vida de Cristo y la Iglesia"
+        "es-ES": "Cuarta parte: de la vida de Cristo y la Iglesia",
+        "pt-BR": "Quarta parte: da vida de Cristo e da Igreja"
       },
       "children": [
         {
           "id": "p4-c1",
           "title": {
-            "es-ES": "Capítulo 1. De cómo Nuestro Señor determinó enviar su unigénito hijo al mundo para Nuestro remedio, y de las señales que nos dio para conocerle cuando viniese"
+            "es-ES": "Capítulo 1. De cómo Nuestro Señor determinó enviar su unigénito hijo al mundo para Nuestro remedio, y de las señales que nos dio para conocerle cuando viniese",
+            "pt-BR": "Capítulo 1. Como Nosso Senhor determinou enviar seu filho unigênito ao mundo para Nosso remédio, e dos sinais que nos deu para reconhecê-lo quando viesse"
           }
         },
         {
           "id": "p4-c2",
           "title": {
-            "es-ES": "Capítulo 2. Conclusión de todo lo dicho"
+            "es-ES": "Capítulo 2. Conclusión de todo lo dicho",
+            "pt-BR": "Capítulo 2. Conclusão de tudo o que foi dito"
           }
         },
         {
           "id": "p4-c3",
           "title": {
-            "es-ES": "Capítulo 3. De las falsedades y fábulas del talmud"
+            "es-ES": "Capítulo 3. De las falsedades y fábulas del talmud",
+            "pt-BR": "Capítulo 3. Das falsidades e fábulas do talmude"
           }
         },
         {
           "id": "p4-c4",
           "title": {
-            "es-ES": "Capítulo 4. Respóndese á algunas objecciones acerca de lo dicho"
+            "es-ES": "Capítulo 4. Respóndese á algunas objecciones acerca de lo dicho",
+            "pt-BR": "Capítulo 4. Responde-se a algumas objeções acerca do que foi dito"
           }
         },
         {
           "id": "p4-c5",
           "title": {
-            "es-ES": "Capítulo 5. De Cristo"
+            "es-ES": "Capítulo 5. De Cristo",
+            "pt-BR": "Capítulo 5. De Cristo"
           }
         },
         {
           "id": "p4-c6",
           "title": {
-            "es-ES": "Capítulo 6. Hácese aquí comparación de los dos pueblos de los fieles, judíos y gentiles"
+            "es-ES": "Capítulo 6. Hácese aquí comparación de los dos pueblos de los fieles, judíos y gentiles",
+            "pt-BR": "Capítulo 6. Faz-se aqui a comparação dos dois povos dos fiéis, judeus e gentios"
           }
         }
       ]
@@ -487,67 +566,78 @@
     {
       "id": "bt",
       "title": {
-        "es-ES": "Breve tratado del modo de catequizar"
+        "es-ES": "Breve tratado del modo de catequizar",
+        "pt-BR": "Breve tratado do modo de catequizar"
       },
       "children": [
         {
           "id": "bt-intro",
           "title": {
-            "es-ES": "Breve tratado del modo de catequizar: introducción"
+            "es-ES": "Breve tratado del modo de catequizar: introducción",
+            "pt-BR": "Breve tratado do modo de catequizar: introdução"
           }
         },
         {
           "id": "bt-c1",
           "title": {
-            "es-ES": "Capítulo 1. Que desean convertirse a ella"
+            "es-ES": "Capítulo 1. Que desean convertirse a ella",
+            "pt-BR": "Capítulo 1. Que desejam converter-se a ela"
           }
         },
         {
           "id": "bt-c2",
           "title": {
-            "es-ES": "Capítulo 2. Cómo se podrá proponer la suma de Nuestra Fe en pocas palabras"
+            "es-ES": "Capítulo 2. Cómo se podrá proponer la suma de Nuestra Fe en pocas palabras",
+            "pt-BR": "Capítulo 2. Como se poderá propor a suma de Nossa Fé em poucas palavras"
           }
         },
         {
           "id": "bt-c3",
           "title": {
-            "es-ES": "Capítulo 3. De la manera en que se deben proponer en particular los misterios de Nuestra Fe á los que pretendemos catequizar, que es introducirlos en el conocimiento della"
+            "es-ES": "Capítulo 3. De la manera en que se deben proponer en particular los misterios de Nuestra Fe á los que pretendemos catequizar, que es introducirlos en el conocimiento della",
+            "pt-BR": "Capítulo 3. Da maneira como se devem propor em particular os mistérios de Nossa Fé àqueles que pretendemos catequizar, isto é, introduzi-los no conhecimento dela"
           }
         },
         {
           "id": "bt-c4",
           "title": {
-            "es-ES": "Capítulo 4. Cómo en este mundo hay un solo Dios y Señor, y que es imposible haber muchos dioses, y cómo es necesario que haya alguna verdadera religión, con que él sea servido y honrado"
+            "es-ES": "Capítulo 4. Cómo en este mundo hay un solo Dios y Señor, y que es imposible haber muchos dioses, y cómo es necesario que haya alguna verdadera religión, con que él sea servido y honrado",
+            "pt-BR": "Capítulo 4. Como neste mundo há um só Deus e Senhor, e é impossível haver muitos deuses, e como é necessário que haja alguma religião verdadeira com que ele seja servido e honrado"
           }
         },
         {
           "id": "bt-c6",
           "title": {
-            "es-ES": "Capítulo 6. De los siete sacramentos"
+            "es-ES": "Capítulo 6. De los siete sacramentos",
+            "pt-BR": "Capítulo 6. Dos sete sacramentos"
           }
         },
         {
           "id": "bt-c7",
           "title": {
-            "es-ES": "Capítulo 7. Del misterio inefable de la sanctísima trinidad"
+            "es-ES": "Capítulo 7. Del misterio inefable de la sanctísima trinidad",
+            "pt-BR": "Capítulo 7. Do mistério inefável da santíssima trindade"
           }
         },
         {
           "id": "bt-c8",
           "title": {
-            "es-ES": "Capítulo 8. Del inefable misterio de la encarnación y Pasión del hijo de Dios"
+            "es-ES": "Capítulo 8. Del inefable misterio de la encarnación y Pasión del hijo de Dios",
+            "pt-BR": "Capítulo 8. Do inefável mistério da encarnação e Paixão do filho de Deus"
           }
         },
         {
           "id": "bt-c9",
           "title": {
-            "es-ES": "Capítulo 9. Cómo la suma de todo Nuestro bien consiste en la caridad y amor para con Dios, y cuan grandes impedimentos tenían los hombres para levantarse á este amor, y por cuan alta y singular manera los quitó el Salvador por medio de su sacratísima Pasión y encarnación"
+            "es-ES": "Capítulo 9. Cómo la suma de todo Nuestro bien consiste en la caridad y amor para con Dios, y cuan grandes impedimentos tenían los hombres para levantarse á este amor, y por cuan alta y singular manera los quitó el Salvador por medio de su sacratísima Pasión y encarnación",
+            "pt-BR": "Capítulo 9. Como a suma de todo o Nosso bem consiste na caridade e no amor para com Deus, e quão grandes impedimentos tinham os homens para se elevar a este amor, e de que maneira tão elevada e singular o Salvador os removeu por meio de sua sacratíssima Paixão e encarnação"
           }
         },
         {
           "id": "bt-c10",
           "title": {
-            "es-ES": "Capítulo 10. Pasión, y de las respuestas de ellas"
+            "es-ES": "Capítulo 10. Pasión, y de las respuestas de ellas",
+            "pt-BR": "Capítulo 10. Paixão, e das respostas a elas"
           }
         }
       ]

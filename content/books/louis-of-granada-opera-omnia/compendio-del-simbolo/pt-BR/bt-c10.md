@@ -1,0 +1,5 @@
+# Capítulo 10. Paixão, e das respostas a elas
+
+Explicadas a razão e a conveniência deste mistério divino, resta-nos agora responder a algumas perguntas que a prudência humana pode fazer a seu respeito. Entre elas, a primeira é o espanto dos homens por aquela altíssima Majestade ter descido a unir-se a uma coisa tão baixa como a natureza humana. Depois disso, admiram-se da grande humildade, pobreza e austeridade da vida que este soberano Senhor levou. Estas quatro perguntas são propostas nos quatro últimos capítulos da terceira parte deste Sumário, e neles o prudente leitor encontrará suas respostas. Por isso, não há por que repeti-las aqui.
+
+Baste isto para despertar o engenho dos operários deste santo ofício. Para o restante poderá ajudar o que está escrito nesta quinta parte ou em nossa Introdução do Símbolo da Fé. Mas ajudarão mais a experiência desse trabalho e o favor e espírito daquele Senhor de quem está escrito: *Dominus dabit verbum evangelizantibus virtute multa. Cui est honor & gloria in saecula saeculorum. Amen.*
