@@ -18,13 +18,19 @@
   },
   "composed": "c. 1560–1582",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "teresa-of-avila/poesias",
   "editions": {
     "es-ES": {
       "editor": "P. Silverio de Santa Teresa",
       "year": 1919
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -48,187 +54,218 @@
     {
       "id": "p01",
       "title": {
-        "es-ES": "Aspiraciones de vida eterna"
+        "es-ES": "Aspiraciones de vida eterna",
+        "pt-BR": "Aspirações de vida eterna"
       }
     },
     {
       "id": "p02",
       "title": {
-        "es-ES": "En las manos de Dios"
+        "es-ES": "En las manos de Dios",
+        "pt-BR": "Nas mãos de Deus"
       }
     },
     {
       "id": "p03",
       "title": {
-        "es-ES": "Sobre aquellas palabras «Dilectus meus mihi»"
+        "es-ES": "Sobre aquellas palabras «Dilectus meus mihi»",
+        "pt-BR": "Sobre aquelas palavras “Dilectus meus mihi”"
       }
     },
     {
       "id": "p04",
       "title": {
-        "es-ES": "Coloquio amoroso"
+        "es-ES": "Coloquio amoroso",
+        "pt-BR": "Colóquio amoroso"
       }
     },
     {
       "id": "p05",
       "title": {
-        "es-ES": "Feliz el que ama a Dios"
+        "es-ES": "Feliz el que ama a Dios",
+        "pt-BR": "Feliz quem ama a Deus"
       }
     },
     {
       "id": "p06",
       "title": {
-        "es-ES": "Ante la hermosura de Dios"
+        "es-ES": "Ante la hermosura de Dios",
+        "pt-BR": "Diante da beleza de Deus"
       }
     },
     {
       "id": "p07",
       "title": {
-        "es-ES": "Ayes del destierro"
+        "es-ES": "Ayes del destierro",
+        "pt-BR": "Lamentos do desterro"
       }
     },
     {
       "id": "p08",
       "title": {
-        "es-ES": "Buscando a Dios"
+        "es-ES": "Buscando a Dios",
+        "pt-BR": "Buscando a Deus"
       }
     },
     {
       "id": "p09",
       "title": {
-        "es-ES": "Eficacia de la paciencia"
+        "es-ES": "Eficacia de la paciencia",
+        "pt-BR": "Eficácia da paciência"
       }
     },
     {
       "id": "p10",
       "title": {
-        "es-ES": "Hacia la patria"
+        "es-ES": "Hacia la patria",
+        "pt-BR": "Rumo à pátria"
       }
     },
     {
       "id": "p11",
       "title": {
-        "es-ES": "Al nacimiento de Jesús"
+        "es-ES": "Al nacimiento de Jesús",
+        "pt-BR": "Ao nascimento de Jesus"
       }
     },
     {
       "id": "p12",
       "title": {
-        "es-ES": "Otra al nacimiento de Jesús"
+        "es-ES": "Otra al nacimiento de Jesús",
+        "pt-BR": "Outra ao nascimento de Jesus"
       }
     },
     {
       "id": "p13",
       "title": {
-        "es-ES": "Para Navidad"
+        "es-ES": "Para Navidad",
+        "pt-BR": "Para o Natal"
       }
     },
     {
       "id": "p14",
       "title": {
-        "es-ES": "Al nacimiento del Niño Dios"
+        "es-ES": "Al nacimiento del Niño Dios",
+        "pt-BR": "Ao nascimento do Menino Deus"
       }
     },
     {
       "id": "p15",
       "title": {
-        "es-ES": "A la circuncisión"
+        "es-ES": "A la circuncisión",
+        "pt-BR": "À circuncisão"
       }
     },
     {
       "id": "p16",
       "title": {
-        "es-ES": "Otra a la circuncisión"
+        "es-ES": "Otra a la circuncisión",
+        "pt-BR": "Outra à circuncisão"
       }
     },
     {
       "id": "p17",
       "title": {
-        "es-ES": "En la festividad de los Santos Reyes"
+        "es-ES": "En la festividad de los Santos Reyes",
+        "pt-BR": "Na festividade dos Santos Reis"
       }
     },
     {
       "id": "p18",
       "title": {
-        "es-ES": "A la cruz"
+        "es-ES": "A la cruz",
+        "pt-BR": "À cruz"
       }
     },
     {
       "id": "p19",
       "title": {
-        "es-ES": "El camino de la cruz"
+        "es-ES": "El camino de la cruz",
+        "pt-BR": "O caminho da cruz"
       }
     },
     {
       "id": "p20",
       "title": {
-        "es-ES": "Abrazadas a la cruz"
+        "es-ES": "Abrazadas a la cruz",
+        "pt-BR": "Abraçadas à cruz"
       }
     },
     {
       "id": "p21",
       "title": {
-        "es-ES": "A San Andrés"
+        "es-ES": "A San Andrés",
+        "pt-BR": "A Santo André"
       }
     },
     {
       "id": "p22",
       "title": {
-        "es-ES": "A San Hilarión"
+        "es-ES": "A San Hilarión",
+        "pt-BR": "A Santo Hilarião"
       }
     },
     {
       "id": "p23",
       "title": {
-        "es-ES": "A Santa Catalina mártir"
+        "es-ES": "A Santa Catalina mártir",
+        "pt-BR": "A Santa Catarina mártir"
       }
     },
     {
       "id": "p24",
       "title": {
-        "es-ES": "A la vestición de la H.ª Jerónima de la Encarnación"
+        "es-ES": "A la vestición de la H.ª Jerónima de la Encarnación",
+        "pt-BR": "À vestição da Ir. Jerônima da Encarnação"
       }
     },
     {
       "id": "p25",
       "title": {
-        "es-ES": "Al velo de la H.ª Isabel de los Ángeles"
+        "es-ES": "Al velo de la H.ª Isabel de los Ángeles",
+        "pt-BR": "Ao véu da Ir. Isabel dos Anjos"
       }
     },
     {
       "id": "p26",
       "title": {
-        "es-ES": "A la profesión de Isabel de los Ángeles"
+        "es-ES": "A la profesión de Isabel de los Ángeles",
+        "pt-BR": "À profissão de Isabel dos Anjos"
       }
     },
     {
       "id": "p27",
       "title": {
-        "es-ES": "A una profesión"
+        "es-ES": "A una profesión",
+        "pt-BR": "A uma profissão"
       }
     },
     {
       "id": "p28",
       "title": {
-        "es-ES": "En una profesión"
+        "es-ES": "En una profesión",
+        "pt-BR": "Numa profissão"
       }
     },
     {
       "id": "p29",
       "title": {
-        "es-ES": "Para una profesión"
+        "es-ES": "Para una profesión",
+        "pt-BR": "Para uma profissão"
       }
     },
     {
       "id": "p30",
       "title": {
-        "es-ES": "Otra en una profesión"
+        "es-ES": "Otra en una profesión",
+        "pt-BR": "Outra numa profissão"
       }
     },
     {
       "id": "p31",
       "title": {
-        "es-ES": "Contra un ganadillo impertinente"
+        "es-ES": "Contra un ganadillo impertinente",
+        "pt-BR": "Contra um rebanhozinho importuno"
       }
     }
   ]
