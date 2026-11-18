@@ -14,12 +14,13 @@
   "description": {
     "it": "Le cinquantatré storie dei « fioretti » : Francesco, i suoi primi compagni, Chiara e Antonio, il lupo di Gubbio, la perfetta letizia e i frati della Marca d'Ancona. Redatti nel Trecento da un frate della Marca sull'antico latino degli Actus beati Francisci. Testo di lingua nella lezione del P. Antonio Cesari (Livorno 1860). Le Considerazioni sulle stimmate e le vite di frate Ginepro e di frate Egidio non sono comprese.",
     "en-US": "The fifty-three \"little flowers\": Francis, his first companions, Clare and Anthony, the wolf of Gubbio, perfect joy and the friars of the March of Ancona. Compiled in the fourteenth century by a friar of the March from the older Latin Actus beati Francisci. The Italian is Antonio Cesari's text (Livorno 1860); the English is the first English translation (Lady Georgiana Fullerton, 1864) as revised by Dom Roger Hudleston (1926), which follows the same fifty-three chapters. The Considerations on the Stigmata and the lives of Brother Juniper and Brother Giles are not included.",
-    "pt-BR": "Os cinquenta e três « fioretti » : Francisco, seus primeiros companheiros, Clara e Antônio, o lobo de Gubbio, a perfeita alegria e os frades da Marca de Ancona. Redigidos no século XIV por um frade da Marca a partir do antigo latim dos Actus beati Francisci. Texto italiano na lição do P. Antonio Cesari (Livorno, 1860), com a primeira tradução inglesa (Lady Georgiana Fullerton, 1864) revista por Dom Roger Hudleston (1926). As Considerações sobre as Chagas e as vidas de frei Junípero e frei Egídio não estão incluídas."
+    "pt-BR": "Os cinquenta e três « fioretti »: Francisco, seus primeiros companheiros, Clara e Antônio, o lobo de Gubbio, a perfeita alegria e os frades da Marca de Ancona. Redigidos no século XIV por um frade da Marca a partir do antigo latim dos Actus beati Francisci. Texto italiano na lição do P. Antonio Cesari (Livorno, 1860), com a primeira tradução inglesa (Lady Georgiana Fullerton, 1864) revista por Dom Roger Hudleston (1926). As Considerações sobre as Chagas e as vidas de frei Junípero e frei Egídio não estão incluídas."
   },
   "composed": "c. 1370",
   "languages": [
     "it",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "francis-of-assisi/fioretti",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "first English translation (Lady Georgiana Fullerton, 1864), revised by Dom Roger Hudleston",
       "year": 1926
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "it",
+      "year": 2026
     }
   },
   "sources": [
@@ -55,371 +61,424 @@
       "id": "cap-01",
       "title": {
         "it": "1. Al nome del nostro Signore Gesù Cristo Crocifisso, e della sua Madre Vergine Maria. In questo Libro si contengono certi Fioretti, Miracoli ed esempi divoti del glorioso poverello di Cristo San Francesco, e d’alquanti suoi Santi Compagni a lode di Gesù Cristo. Amen.",
-        "en-US": "1. In the name of Jesus Christ our crucified Saviour, and of Mary his Virgin mother. In this book are contained certain little flowers - to wit, miracles and pious examples of the glorious servant of Christ St Francis, and of some of his holy companions; To the glory and praise of Jesus Christ, amen."
+        "en-US": "1. In the name of Jesus Christ our crucified Saviour, and of Mary his Virgin mother. In this book are contained certain little flowers - to wit, miracles and pious examples of the glorious servant of Christ St Francis, and of some of his holy companions; To the glory and praise of Jesus Christ, amen.",
+        "pt-BR": "1. Em nome de nosso Senhor Jesus Cristo Crucificado e de sua Mãe, a Virgem Maria. Neste livro se contêm alguns Fioretti, milagres e exemplos devotos do glorioso pobrezinho de Cristo, São Francisco, e de alguns de seus santos companheiros, para louvor de Jesus Cristo. Amém."
       }
     },
     {
       "id": "cap-02",
       "title": {
         "it": "2. Di frate Bernardo da Quintavalle, primo compagno di San Francesco.",
-        "en-US": "2. Of Brother Bernard of Quintavalle, the first companion of St Francis"
+        "en-US": "2. Of Brother Bernard of Quintavalle, the first companion of St Francis",
+        "pt-BR": "2. De frei Bernardo de Quintavalle, primeiro companheiro de São Francisco."
       }
     },
     {
       "id": "cap-03",
       "title": {
         "it": "3. Come per mala cogitazione, che san Francesco ebbe contro a Frate Bernardo, comandò al detto Frate Bernardo, che tre volte gli andasse co’ piedi in sulla gola e in sulla bocca.",
-        "en-US": "3. How St Francis, having allowed an evil thought to arise in his mind against Brother Bernard, ordered him to place his foot three times upon his neck and his mouth."
+        "en-US": "3. How St Francis, having allowed an evil thought to arise in his mind against Brother Bernard, ordered him to place his foot three times upon his neck and his mouth.",
+        "pt-BR": "3. Como, por um mau pensamento que São Francisco teve contra frei Bernardo, ordenou ao mesmo frei Bernardo que lhe passasse três vezes com os pés sobre a garganta e a boca."
       }
     },
     {
       "id": "cap-04",
       "title": {
         "it": "4. Come l’Angelo di Dio propose una quistione a Frate Elia guardiano d’uno luogo di Val di Spoleto; e perchè Frate Elia li rispose superbiosamente, si partì, e andonne in cammino di San Giacomo, dove trovò Frate Bernardo, e disseli questa storia.",
-        "en-US": "4. How the angel of God put a question to Brother Elias, guardian of Val di Spoleto, and how, when Brother Elias answered proudly, the angel departed from him, and took the road to San Giacomo, where he met Brother Bernard and told him what follows"
+        "en-US": "4. How the angel of God put a question to Brother Elias, guardian of Val di Spoleto, and how, when Brother Elias answered proudly, the angel departed from him, and took the road to San Giacomo, where he met Brother Bernard and told him what follows",
+        "pt-BR": "4. Como o Anjo de Deus propôs uma questão a frei Elias, guardião de um lugar do vale de Espoleto; e, porque frei Elias lhe respondeu com soberba, partiu e seguiu pelo caminho de Santiago, onde encontrou frei Bernardo e lhe contou esta história."
       }
     },
     {
       "id": "cap-05",
       "title": {
         "it": "5. Come il S. Frate Bernardo d’Assisi fu da S. Francesco mandato a Bologna, e là prese egli luogo.",
-        "en-US": "5. How the holy Brother Bernard of Assisi was sent by St Francis to Bologna and how he founded a convent there"
+        "en-US": "5. How the holy Brother Bernard of Assisi was sent by St Francis to Bologna and how he founded a convent there",
+        "pt-BR": "5. Como o santo frei Bernardo de Assis foi enviado por São Francisco a Bolonha e ali tomou um lugar."
       }
     },
     {
       "id": "cap-06",
       "title": {
         "it": "6. Come S. Francesco benedisse il Santo Frate Bernardo, e lasciollo suo Vicario, quando egli venne a passare di questa vita.",
-        "en-US": "6. How St Francis, when about to die, blessed the holy Brother Bernard, naming him vicar of the order"
+        "en-US": "6. How St Francis, when about to die, blessed the holy Brother Bernard, naming him vicar of the order",
+        "pt-BR": "6. Como São Francisco abençoou o santo frei Bernardo e o deixou como seu vigário, quando estava para passar desta vida."
       }
     },
     {
       "id": "cap-07",
       "title": {
         "it": "7. Come san Francesco fece una Quaresima in una Isola del Lago di Perugia, dove digiunò 40 dì e 40 notti, e non mangiò più che uno mezzo pane.",
-        "en-US": "7. How St Francis passed the time of Lent in an island, on the lake of Perugia, where he fasted forty days and forty nights, eating no more than half of one loaf"
+        "en-US": "7. How St Francis passed the time of Lent in an island, on the lake of Perugia, where he fasted forty days and forty nights, eating no more than half of one loaf",
+        "pt-BR": "7. Como São Francisco passou uma Quaresma numa ilha do lago de Perúgia, onde jejuou 40 dias e 40 noites e não comeu mais que meio pão."
       }
     },
     {
       "id": "cap-08",
       "title": {
         "it": "8. Come andando per cammino san Francesco e Frate Leone, gli spose quelle cose che sono perfetta letizia.",
-        "en-US": "8. How St Francis, walking one day with Brother Leo, explained to him what things are perfect joy"
+        "en-US": "8. How St Francis, walking one day with Brother Leo, explained to him what things are perfect joy",
+        "pt-BR": "8. Como, caminhando São Francisco e frei Leão, ele lhe explicou quais coisas são a perfeita alegria."
       }
     },
     {
       "id": "cap-09",
       "title": {
         "it": "9. Come S. Francesco insegnava rispondere a Frate Lione; e non potè mai dire, se non contrario di quello, che san Francesco volea.",
-        "en-US": "9. How St Francis would teach Brother Leo what to answer, and how the latter could never say aught but the contrary to what St Francis wished"
+        "en-US": "9. How St Francis would teach Brother Leo what to answer, and how the latter could never say aught but the contrary to what St Francis wished",
+        "pt-BR": "9. Como São Francisco ensinava frei Leão a responder, e ele nunca pôde dizer senão o contrário do que São Francisco queria."
       }
     },
     {
       "id": "cap-10",
       "title": {
         "it": "10. Come Frate Masseo, quasi proverbiando, disse a san Francesco, che a lui il mondo andava dirieto: ed egli rispose, che ciò era a confusione del mondo, e grazia di Dio.",
-        "en-US": "10. How Brother Masseo told St Francis, as in jest, that the world was gone after him; And how St Francis answered that it was indeed so, to the confusion of the world and through the grace of God"
+        "en-US": "10. How Brother Masseo told St Francis, as in jest, that the world was gone after him; And how St Francis answered that it was indeed so, to the confusion of the world and through the grace of God",
+        "pt-BR": "10. Como frei Masseu, quase em tom de censura, disse a São Francisco que o mundo o seguia; e ele respondeu que isso era para confusão do mundo e por graça de Deus."
       }
     },
     {
       "id": "cap-11",
       "title": {
         "it": "11. Come san Francesco fece aggirare intorno intorno più volte Frate Masseo, e poi n’andò a Siena.",
-        "en-US": "11. How St Francis made Brother Masseo turnround and round like a child, and then to go to Siena"
+        "en-US": "11. How St Francis made Brother Masseo turnround and round like a child, and then to go to Siena",
+        "pt-BR": "11. Como São Francisco fez frei Masseu girar várias vezes e depois foi a Siena."
       }
     },
     {
       "id": "cap-12",
       "title": {
         "it": "12. Come san Francesco pose Frate Masseo allo ufficio della porta della limosina, è della cucina: poi a priego degli altri frati, ne lo levò.",
-        "en-US": "12. How St Francis gave to Brother Masseo the office of porter, of almoner and of cook; And how, at the request of the other brethren, he afterwards took these duties from him"
+        "en-US": "12. How St Francis gave to Brother Masseo the office of porter, of almoner and of cook; And how, at the request of the other brethren, he afterwards took these duties from him",
+        "pt-BR": "12. Como São Francisco encarregou frei Masseu da portaria, das esmolas e da cozinha; depois, a pedido dos outros irmãos, dispensou-o dessas funções."
       }
     },
     {
       "id": "cap-13",
       "title": {
         "it": "13. Come san Francesco e Frate Masseo, il pane che avevano accattato, puosono in su una pietra allato a una fonte, e san Francesco lodò molto la povertà. Poi pregò Iddio e san Pietro e san Paolo, che gli mettesse in amore la santa povertade, e come gli apparve san Pietro e san Paolo.",
-        "en-US": "13. How St Francis and Brother Masseo placed the bread they had begged upon a stone near a fountain, and how St Francis praised the virtue of holy poverty, praying St Peter and St Paul to make him love holy poverty greatly, and how St Peter and St Paul appeared to him"
+        "en-US": "13. How St Francis and Brother Masseo placed the bread they had begged upon a stone near a fountain, and how St Francis praised the virtue of holy poverty, praying St Peter and St Paul to make him love holy poverty greatly, and how St Peter and St Paul appeared to him",
+        "pt-BR": "13. Como São Francisco e frei Masseu puseram sobre uma pedra, junto a uma fonte, o pão que haviam pedido de esmola, e São Francisco muito louvou a pobreza. Depois pediu a Deus, a São Pedro e a São Paulo que lhe inspirassem amor à santa pobreza, e como lhe apareceram São Pedro e São Paulo."
       }
     },
     {
       "id": "cap-14",
       "title": {
         "it": "14. Come istando san Francesco con gli suoi Frati a parlare di Iddio, apparve in mezzo di loro.",
-        "en-US": "14. How the lord appeared to St Francis and to his brethren as he was speaking with them"
+        "en-US": "14. How the lord appeared to St Francis and to his brethren as he was speaking with them",
+        "pt-BR": "14. Como, estando São Francisco com seus irmãos a falar de Deus, ele apareceu no meio deles."
       }
     },
     {
       "id": "cap-15",
       "title": {
         "it": "15. Come Santa Chiara mangiò con san Francescò, e co' suoi compagni Frati in Santa Maria degli Angeli.",
-        "en-US": "15. How St Clare ate with St Francis and his companions at St Mary of the angels"
+        "en-US": "15. How St Clare ate with St Francis and his companions at St Mary of the angels",
+        "pt-BR": "15. Como Santa Clara comeu com São Francisco e com os irmãos seus companheiros em Santa Maria dos Anjos."
       }
     },
     {
       "id": "cap-16",
       "title": {
         "it": "16. Come san Francesco ricevette il consiglio di santa Chiara e del santo frate Silvestro, che dovesse predicando convertire molta gente; e fece il terzo Ordine, e predicò alli uccelli, e fece stare quete le rondine.",
-        "en-US": "16. How St Francis, having been told by St Clare and the holy Brother Silvester that he should preach and convert many to the faith, founded the third order, preached to the birds, and reduced to silence the swallows"
+        "en-US": "16. How St Francis, having been told by St Clare and the holy Brother Silvester that he should preach and convert many to the faith, founded the third order, preached to the birds, and reduced to silence the swallows",
+        "pt-BR": "16. Como São Francisco recebeu de Santa Clara e do santo frei Silvestre o conselho de que devia, pregando, converter muita gente; e fundou a Ordem terceira, pregou às aves e fez as andorinhas ficarem quietas."
       }
     },
     {
       "id": "cap-17",
       "title": {
         "it": "17. Come un fanciullo Fraticino, orando san Francesco di notte, vide Cristo, e la Vergine Maria, e molti altri Santi parlare con lui.",
-        "en-US": "17. How a little child who had entered the order saw St Francis in prayer one night, and saw also the Saviour, the Virgin Mary, and many other saints talk with him"
+        "en-US": "17. How a little child who had entered the order saw St Francis in prayer one night, and saw also the Saviour, the Virgin Mary, and many other saints talk with him",
+        "pt-BR": "17. Como um menino fradezinho, estando São Francisco em oração à noite, viu Cristo, a Virgem Maria e muitos outros santos falarem com ele."
       }
     },
     {
       "id": "cap-18",
       "title": {
         "it": "18. Del maraviglioso Capitolo, che tenne san Francesco a Santa Maria degli Angeli, dove furono oltre cinquemila Frati.",
-        "en-US": "18. Of the wonderful chapter held by St Francis at St Mary of the angels, at which more than five thousand friars were present"
+        "en-US": "18. Of the wonderful chapter held by St Francis at St Mary of the angels, at which more than five thousand friars were present",
+        "pt-BR": "18. Do admirável capítulo que São Francisco realizou em Santa Maria dos Anjos, onde estiveram mais de cinco mil irmãos."
       }
     },
     {
       "id": "cap-19",
       "title": {
         "it": "19. Come dalla vigna del Prete da Rieti, in casa di cui orò san Francesco, per la molta gente che venia a lui furono tratte e colte l'uve; e poi miracolosamente fece più vino che mai, siccome san Francesco gli avea promesso. E come Iddio rivelò a san Francesco, ch'egli arebbe paradiso alla sua partita.",
-        "en-US": "19. How the vine of the priest of Rieti, whose house St Francis entered to pray, was trampled under foot by the great numbers who came to see him, and how it yet produced a greater quantity of wine than usual, as St Francis had promised; And how the lord revealed to the Saint that heaven would be his portion when he left this world"
+        "en-US": "19. How the vine of the priest of Rieti, whose house St Francis entered to pray, was trampled under foot by the great numbers who came to see him, and how it yet produced a greater quantity of wine than usual, as St Francis had promised; And how the lord revealed to the Saint that heaven would be his portion when he left this world",
+        "pt-BR": "19. Como foram tiradas e colhidas as uvas da vinha do sacerdote de Rieti, em cuja casa São Francisco orou, pela muita gente que vinha até ele; e depois ela milagrosamente produziu mais vinho do que nunca, como São Francisco lhe prometera. E como Deus revelou a São Francisco que teria o Paraíso em sua partida."
       }
     },
     {
       "id": "cap-20",
       "title": {
         "it": "20. D’una molto bella visione, che vide uno Frate giovane, il quale avea in tanta abbominazione la cappa che era disposta di lasciare l’abito, e uscire dell’Ordine.",
-        "en-US": "20. Of a beautiful vision which appeared to a young man who hated the habit of St Francis so greatly, that he was on the point of leaving the order"
+        "en-US": "20. Of a beautiful vision which appeared to a young man who hated the habit of St Francis so greatly, that he was on the point of leaving the order",
+        "pt-BR": "20. De uma belíssima visão que teve um jovem irmão, o qual tinha tamanha aversão à capa que estava disposto a deixar o hábito e sair da Ordem."
       }
     },
     {
       "id": "cap-21",
       "title": {
         "it": "21. Del santissimo miracolo, che fece san Francesco, quando convertì il ferocissimo lupo d’Agobio.",
-        "en-US": "21. Of the most holy miracle of St Francis in taming the fierce wolf of Gubbio"
+        "en-US": "21. Of the most holy miracle of St Francis in taming the fierce wolf of Gubbio",
+        "pt-BR": "21. Do santíssimo milagre que São Francisco realizou quando converteu o ferocíssimo lobo de Gubbio."
       }
     },
     {
       "id": "cap-22",
       "title": {
         "it": "22. Come san Francesco dimesticò le tortole salvatiche.",
-        "en-US": "22. How St Francis tamed the wild doves"
+        "en-US": "22. How St Francis tamed the wild doves",
+        "pt-BR": "22. Como São Francisco amansou as rolas selvagens."
       }
     },
     {
       "id": "cap-23",
       "title": {
         "it": "23. Come san Francesco liberò il frate, ch’era in peccato col Demonio.",
-        "en-US": "23. How St Francis delivered the Brother who, being in sin, had fallen into the power of the devil"
+        "en-US": "23. How St Francis delivered the Brother who, being in sin, had fallen into the power of the devil",
+        "pt-BR": "23. Como São Francisco libertou o irmão que estava em pecado com o Demônio."
       }
     },
     {
       "id": "cap-24",
       "title": {
         "it": "24. Come san Francesco convertì alla fede il Soldano. di Babilonia.",
-        "en-US": "24. How St Francis converted to the faith the Sultan of Babylon"
+        "en-US": "24. How St Francis converted to the faith the Sultan of Babylon",
+        "pt-BR": "24. Como São Francisco converteu à fé o sultão da Babilônia."
       }
     },
     {
       "id": "cap-25",
       "title": {
         "it": "25. Come san Francesco miracolosamente sanò il lebbroso dell’anima e del corpo; e quello che l’anima gli disse, andando in cielo",
-        "en-US": "25. How St Francis healed miraculously a leper both in his body and in his soul, and what the soul said to him on going up to heaven"
+        "en-US": "25. How St Francis healed miraculously a leper both in his body and in his soul, and what the soul said to him on going up to heaven",
+        "pt-BR": "25. Como São Francisco curou milagrosamente o leproso na alma e no corpo; e o que a alma lhe disse ao ir para o céu"
       }
     },
     {
       "id": "cap-26",
       "title": {
         "it": "26. Come san Francesco converti tre ladroni micidiali, e fecionsi frati e della nobilissima visione, che vide l'uno di loro, il quale fu santissimo frate.",
-        "en-US": "26. How St Francis converted certain robbers and assassins, who became friars; And of a wonderful vision which appeared to one of them who was a most holy Brother"
+        "en-US": "26. How St Francis converted certain robbers and assassins, who became friars; And of a wonderful vision which appeared to one of them who was a most holy Brother",
+        "pt-BR": "26. Como São Francisco converteu três ladrões assassinos, que se fizeram irmãos; e da nobilíssima visão que teve um deles, o qual foi santíssimo irmão."
       }
     },
     {
       "id": "cap-27",
       "title": {
         "it": "27. Come san Francesco convertì a Bologna due Scolari, e fecionsi frati; e, poi all'uno di loro levò una grande tentazione da dosso.",
-        "en-US": "27. How at Bologna St Francis converted two scholars who became friars, and how he delivered one of them from great temptation"
+        "en-US": "27. How at Bologna St Francis converted two scholars who became friars, and how he delivered one of them from great temptation",
+        "pt-BR": "27. Como São Francisco converteu em Bolonha dois estudantes, que se fizeram irmãos; e depois livrou um deles de uma grande tentação."
       }
     },
     {
       "id": "cap-28",
       "title": {
         "it": "28. D’uno rapimento, che venne a frate Bernardo: onde egli istette dalla mattina insino a nona, ch’egli non si sentì.",
-        "en-US": "28. Of an ecstasy which came to Brother Bernard, and how he remained from matins until none in a state of rapture."
+        "en-US": "28. Of an ecstasy which came to Brother Bernard, and how he remained from matins until none in a state of rapture.",
+        "pt-BR": "28. De um arrebatamento que sobreveio a frei Bernardo, no qual permaneceu desde a manhã até Noa sem dar conta de si."
       }
     },
     {
       "id": "cap-29",
       "title": {
         "it": "29. Come il Demonio in forma di Crocifisso apparve più volte a frate Ruffino, dicendogli, che perdea il bene che facea, perocch’egli non era delli eletti di vita eterna. Di che san Francesco per rivelazione di Dio il seppe, e fece riconoscere a frate Ruffino il suo errore, ch’egli avea creduto.",
-        "en-US": "29. How the devil often appeared to Brother Ruffino in the form of a crucifix, telling him that all the good he did was of no avail, seeing he was not of the number of the elect of God; Which being revealed to St Francis, he made known to Brother Ruffino the error into which he had fallen"
+        "en-US": "29. How the devil often appeared to Brother Ruffino in the form of a crucifix, telling him that all the good he did was of no avail, seeing he was not of the number of the elect of God; Which being revealed to St Francis, he made known to Brother Ruffino the error into which he had fallen",
+        "pt-BR": "29. Como o Demônio, em forma de Crucificado, apareceu várias vezes a frei Rufino, dizendo-lhe que perdia o bem que fazia, pois não era dos eleitos para a vida eterna. São Francisco soube disso por revelação de Deus e fez frei Rufino reconhecer o erro em que havia acreditado."
       }
     },
     {
       "id": "cap-30",
       "title": {
         "it": "30. Della bella predica, che fece in Assisi san Francesco e Frate Ruffino.",
-        "en-US": "30. Of the beautiful sermon which St Francis and Brother Ruffino preached at Assisi"
+        "en-US": "30. Of the beautiful sermon which St Francis and Brother Ruffino preached at Assisi",
+        "pt-BR": "30. Da bela pregação que São Francisco e frei Rufino fizeram em Assis."
       }
     },
     {
       "id": "cap-31",
       "title": {
         "it": "31. Come san Francesco conosceva li segreti delle coscienze di tutti i suoi frati ordinatamente.",
-        "en-US": "31. How St Francis was acquainted with the secrets of the consciences of all his brethren"
+        "en-US": "31. How St Francis was acquainted with the secrets of the consciences of all his brethren",
+        "pt-BR": "31. Como São Francisco conhecia os segredos das consciências de todos os seus irmãos, um por um."
       }
     },
     {
       "id": "cap-32",
       "title": {
         "it": "32. Come frate Masseo impetrò da Cristo la virtù della sua umiltade.",
-        "en-US": "32. How Brother Masseo obtained from Christ the virtue of humility"
+        "en-US": "32. How Brother Masseo obtained from Christ the virtue of humility",
+        "pt-BR": "32. Como frei Masseu alcançou de Cristo a virtude de sua humildade."
       }
     },
     {
       "id": "cap-33",
       "title": {
         "it": "33. Come santa Chiara, per comandamento del Papa, benedisse il pane, il quale era in tavola: di che in ogni pane apparve il segno della santa Croce.",
-        "en-US": "33. How St Clare, by order of the Pope, blessed the bread which was on the table, and how on each loaf appeared the sign of the holy cross"
+        "en-US": "33. How St Clare, by order of the Pope, blessed the bread which was on the table, and how on each loaf appeared the sign of the holy cross",
+        "pt-BR": "33. Como Santa Clara, por ordem do Papa, abençoou o pão que estava à mesa, e em cada pão apareceu o sinal da santa Cruz."
       }
     },
     {
       "id": "cap-34",
       "title": {
         "it": "34. Come san Lodovico Re di Francia personalmente in forma di pellegrino, andò a Perugia a visitare il santo frate Egidio.",
-        "en-US": "34. How St Louis, king of France, went in person in a pilgrim's garb to visit the holy Brother Giles"
+        "en-US": "34. How St Louis, king of France, went in person in a pilgrim's garb to visit the holy Brother Giles",
+        "pt-BR": "34. Como São Luís, rei da França, foi pessoalmente a Perúgia, em traje de peregrino, visitar o santo frei Egídio."
       }
     },
     {
       "id": "cap-35",
       "title": {
         "it": "35. Come essendo inferma Santa Chiara fu miracolosamente portata, la notte di Pasqua di Natale, alla Chiesa di san Francesco, e quivi udì l'Ufficio.",
-        "en-US": "35. How St Clare, being ill, was miraculously carried, on Christmas night, to the church of St Francis, where she assisted at the office"
+        "en-US": "35. How St Clare, being ill, was miraculously carried, on Christmas night, to the church of St Francis, where she assisted at the office",
+        "pt-BR": "35. Como Santa Clara, estando enferma, foi milagrosamente levada, na noite de Natal, à igreja de São Francisco e ali ouviu o Ofício."
       }
     },
     {
       "id": "cap-36",
       "title": {
         "it": "36. Come san Francesco dispuose a frate Lione una bella visione, ch’avea veduta.",
-        "en-US": "36. How St Francis explained to Brother Leo a beautiful vision that he had seen"
+        "en-US": "36. How St Francis explained to Brother Leo a beautiful vision that he had seen",
+        "pt-BR": "36. Como São Francisco explicou a frei Leão uma bela visão que ele tivera."
       }
     },
     {
       "id": "cap-37",
       "title": {
         "it": "37. Come Gesù Cristo benedetto, a priego di san Francesco, fece convertire uno ricco e gentile Cavaliere, e farsi Frate, il quale avea fatto grande onore e profferta a san Francesco.",
-        "en-US": "37. How Jesus Christ, the blessed one, at the prayer of St Francis, converted a rich nobleman who had made great offers to St Francis, and inspired him with a wish to become a religious"
+        "en-US": "37. How Jesus Christ, the blessed one, at the prayer of St Francis, converted a rich nobleman who had made great offers to St Francis, and inspired him with a wish to become a religious",
+        "pt-BR": "37. Como Jesus Cristo bendito, a pedido de São Francisco, fez converter-se e tornar-se irmão um cavaleiro rico e nobre, que havia prestado grande honra e feito uma oferta a São Francisco."
       }
     },
     {
       "id": "cap-38",
       "title": {
         "it": "38. Come san Francesco conobbe in ispirito, che frate Elia era dannato, e dovea morire fuori dell’Ordine; il perchè a’ prieghi di frate Elia, fece orazione a Cristo per lui, e fu esaudito.",
-        "en-US": "38. How it was revealed to St Francis that Brother Elias was damned and was to die out of the order; And how at the desire of the said Brother, he prayed to Christ for him, and how his prayer was granted"
+        "en-US": "38. How it was revealed to St Francis that Brother Elias was damned and was to die out of the order; And how at the desire of the said Brother, he prayed to Christ for him, and how his prayer was granted",
+        "pt-BR": "38. Como São Francisco conheceu em espírito que frei Elias estava condenado e devia morrer fora da Ordem; por isso, a pedido de frei Elias, orou a Cristo por ele e foi atendido."
       }
     },
     {
       "id": "cap-39",
       "title": {
         "it": "39. Della maravigliosa predica, la quale fece S. Antonio da Padova Frate Minore in Concistoro.",
-        "en-US": "39. Of the wonderful discourse which St Anthony of Padua, a friar Minor, made in the Consistory"
+        "en-US": "39. Of the wonderful discourse which St Anthony of Padua, a friar Minor, made in the Consistory",
+        "pt-BR": "39. Da admirável pregação que Santo Antônio de Pádua, frade menor, fez no consistório."
       }
     },
     {
       "id": "cap-40",
       "title": {
         "it": "40. Del miracolo, che Iddio fece, quando sant' Antonio, essendo a Rimini, predicò a' pesci del mare.",
-        "en-US": "40. Of the miracle which God performed when St Anthony being at Rimini, preached to he fishes of the sea"
+        "en-US": "40. Of the miracle which God performed when St Anthony being at Rimini, preached to he fishes of the sea",
+        "pt-BR": "40. Do milagre que Deus realizou quando Santo Antônio, estando em Rímini, pregou aos peixes do mar."
       }
     },
     {
       "id": "cap-41",
       "title": {
         "it": "41. Come il venerabile frate Simone liberò di una grande tentazione un frate, il quale per questa cagione voleva uscire fuori dell’Ordine.",
-        "en-US": "41. How the venerable Brother Simon delivered a Brother from a great temptation, on account of which he was on the point of leaving the order"
+        "en-US": "41. How the venerable Brother Simon delivered a Brother from a great temptation, on account of which he was on the point of leaving the order",
+        "pt-BR": "41. Como o venerável frei Simão livrou de uma grande tentação um irmão que, por essa razão, queria sair da Ordem."
       }
     },
     {
       "id": "cap-42",
       "title": {
         "it": "42. Di belli miracoli, che fece Iddio per li Santi frati, frate Bentivoglia, frate Pietro da Monticello, e frate Currado da Offida: e come frate Bentivoglia portò un lebbroso quindici miglia in pochissimo tempo; e all’altro parlò san Michele, e altro venne la Vergine Maria, e puosegli il Figliuolo in braccio.",
-        "en-US": "42. Of several wonderful miracles which the lord performed through the means of Brother Peter of Monticello, and Brother Conrad of Offida. How Brother Bentivoglio carried a leper fifteen miles in a very short time, how St Michael spoke to another Brother, and how the Virgin Mary appeared to Brother Conrad and placed her divine son in his arms"
+        "en-US": "42. Of several wonderful miracles which the lord performed through the means of Brother Peter of Monticello, and Brother Conrad of Offida. How Brother Bentivoglio carried a leper fifteen miles in a very short time, how St Michael spoke to another Brother, and how the Virgin Mary appeared to Brother Conrad and placed her divine son in his arms",
+        "pt-BR": "42. Dos belos milagres que Deus realizou por meio dos santos irmãos, frei Bentivoglio, frei Pedro de Monticello e frei Conrado de Offida; e como frei Bentivoglio carregou um leproso por quinze milhas em pouquíssimo tempo; e a outro falou São Miguel, e a outro veio a Virgem Maria e lhe pôs o Filho nos braços."
       }
     },
     {
       "id": "cap-43",
       "title": {
         "it": "43. Come frate Currado da Offida convertì un frate giovane, molestando egli gli altri frati. E come il detto frate giovane, morendo, egli apparve al detto frate Currado pregandolo che orasse per lui e come lo liberò per la sua orazione delle pene grandissime del Purgatorio.",
-        "en-US": "43. How Brother Conrad of Offida converted a young Brother, who was a stumbling block to the other brothers, and how after death his soul appeared to Brother Conrad, begging him to pray for him, and how through his prayer he was delivered from the great pains of purgatory"
+        "en-US": "43. How Brother Conrad of Offida converted a young Brother, who was a stumbling block to the other brothers, and how after death his soul appeared to Brother Conrad, begging him to pray for him, and how through his prayer he was delivered from the great pains of purgatory",
+        "pt-BR": "43. Como frei Conrado de Offida converteu um jovem irmão que incomodava os outros irmãos. E como o referido jovem irmão, ao morrer, apareceu ao mesmo frei Conrado, pedindo-lhe que orasse por ele, e como este o livrou, por sua oração, das grandíssimas penas do Purgatório."
       }
     },
     {
       "id": "cap-44",
       "title": {
         "it": "44. Come a frate Currado apparve la Madre di Cristo, e san Giovanni Vangelista; e dissegli, quale di loro portò più dolore della Passione di Cristo.",
-        "en-US": "44. How the mother of Christ and St John the Evangelist appeared to Brother Conrad, and told him who had suffered this greatest sorrow at the Passion of Christ"
+        "en-US": "44. How the mother of Christ and St John the Evangelist appeared to Brother Conrad, and told him who had suffered this greatest sorrow at the Passion of Christ",
+        "pt-BR": "44. Como apareceram a frei Conrado a Mãe de Cristo e São João Evangelista, e lhe foi dito qual deles suportou maior dor pela Paixão de Cristo."
       }
     },
     {
       "id": "cap-45",
       "title": {
         "it": "45. Della conversione, e vita, e miracoli, e morte del santo Frate Giovanni dalla Penna.",
-        "en-US": "45. Of the conversion, life, miracles, and death of the holy Brother John della Penna"
+        "en-US": "45. Of the conversion, life, miracles, and death of the holy Brother John della Penna",
+        "pt-BR": "45. Da conversão, vida, milagres e morte do santo frei João de Penna."
       }
     },
     {
       "id": "cap-46",
       "title": {
         "it": "46. Come frate Pacifico istando in orazione vide l'anima di frate Umile suo fratello andare in Cielo.",
-        "en-US": "46. How Brother Pacifico, being in prayer, saw the soul of Brother Umile, his Brother in the flesh, go up to heaven"
+        "en-US": "46. How Brother Pacifico, being in prayer, saw the soul of Brother Umile, his Brother in the flesh, go up to heaven",
+        "pt-BR": "46. Como frei Pacífico, estando em oração, viu a alma de frei Humilde, seu irmão, ir para o céu."
       }
     },
     {
       "id": "cap-47",
       "title": {
         "it": "47. Di quello santo frate, a cui la Madre di Cristo apparve, quando era infermo, ed arrecogli tre bossoli di lattuaro.",
-        "en-US": "47. Of a holy Brother to whom the mother of Christ appeared when he was ill, and brought him three vases of healing ointment"
+        "en-US": "47. Of a holy Brother to whom the mother of Christ appeared when he was ill, and brought him three vases of healing ointment",
+        "pt-BR": "47. Daquele santo irmão a quem a Mãe de Cristo apareceu, quando estava enfermo, e trouxe três potes de eletuário."
       }
     },
     {
       "id": "cap-48",
       "title": {
         "it": "48. Come frate Jacopo dalla Massa vide in visione tutti i frati Minori del mondo, in visione d'uno arbore, e conobbe la virtù, e li meriti, e li vizi di ciascuno.",
-        "en-US": "48. How Brother James della Massa saw in a vision all the friars Minor in the world in the form of a tree; And how the virtues, the merits and the vices of all were made known to him"
+        "en-US": "48. How Brother James della Massa saw in a vision all the friars Minor in the world in the form of a tree; And how the virtues, the merits and the vices of all were made known to him",
+        "pt-BR": "48. Como frei Tiago de Massa viu numa visão todos os frades menores do mundo, na figura de uma árvore, e conheceu a virtude, os méritos e os vícios de cada um."
       }
     },
     {
       "id": "cap-49",
       "title": {
         "it": "49. Come Cristo apparse a frate Giovanni della Vernia.",
-        "en-US": "49. How Christ appeared to Brother John of Alvernia"
+        "en-US": "49. How Christ appeared to Brother John of Alvernia",
+        "pt-BR": "49. Como Cristo apareceu a frei João do Alverne."
       }
     },
     {
       "id": "cap-50",
       "title": {
         "it": "50. Come dicendo la messa il dì dei morti frate Giovanni della Vernia vide molte anime liberate dal Purgatorio.",
-        "en-US": "50. How Brother John of Alvernia, when saying Mass on the day of all souls, saw many souls liberated from purgatory"
+        "en-US": "50. How Brother John of Alvernia, when saying Mass on the day of all souls, saw many souls liberated from purgatory",
+        "pt-BR": "50. Como frei João do Alverne, celebrando a Missa no dia de Finados, viu muitas almas libertadas do Purgatório."
       }
     },
     {
       "id": "cap-51",
       "title": {
         "it": "51. Del santo frate Jacopo da Fallerone; e come, poi che morì, apparve a Frate Giovanni della Vernia.",
-        "en-US": "51. Of the holy Brother James of Fallerone, and how, after his death, he appeared to Brother John of Alvernia"
+        "en-US": "51. Of the holy Brother James of Fallerone, and how, after his death, he appeared to Brother John of Alvernia",
+        "pt-BR": "51. Do santo frei Tiago de Falerone; e como, depois de morrer, apareceu a frei João do Alverne."
       }
     },
     {
       "id": "cap-52",
       "title": {
         "it": "52. Della visione di frate Giovanni detta Vernia, dove egli conobbe tutto l'ordine della Santa Trinitade.",
-        "en-US": "52. Of the vision of Brother John of Alvernia, by which he became acquainted with all the order of the holy Trinity"
+        "en-US": "52. Of the vision of Brother John of Alvernia, by which he became acquainted with all the order of the holy Trinity",
+        "pt-BR": "52. Da visão de frei João do Alverne, na qual conheceu toda a ordem da Santíssima Trindade."
       }
     },
     {
       "id": "cap-53",
       "title": {
         "it": "53. Come, dicendo messa, frate Giovanni della Vernia cadde come fosse morto.",
-        "en-US": "53. How, while he was saying Mass, Brother John of Alvernia fell down, as if he had been dead"
+        "en-US": "53. How, while he was saying Mass, Brother John of Alvernia fell down, as if he had been dead",
+        "pt-BR": "53. Como frei João do Alverne, celebrando a Missa, caiu como morto."
       }
     }
   ]
