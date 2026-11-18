@@ -18,12 +18,18 @@
   },
   "composed": "1250-1252",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "thomas-of-celano/tractatus-de-miraculis",
   "editions": {
     "la": {
       "editor": "transcription of the critical text of Fontes Franciscani (1995) by M. Mastrorilli, Politecnico di Bari; edition not stated"
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -40,115 +46,134 @@
     {
       "id": "cap-001",
       "title": {
-        "la": "Caput I - Quod ortus religionis suae mirabilis fuit."
+        "la": "Caput I - Quod ortus religionis suae mirabilis fuit.",
+        "pt-BR": "Capítulo I - Como foi admirável o nascimento de sua Ordem."
       }
     },
     {
       "id": "cap-002",
       "title": {
-        "la": "Caput II - De miraculo stigmatum et modus apparitionis Seraph ei apparentis."
+        "la": "Caput II - De miraculo stigmatum et modus apparitionis Seraph ei apparentis.",
+        "pt-BR": "Capítulo II - Do milagre dos estigmas e do modo como lhe apareceu o serafim."
       }
     },
     {
       "id": "cap-003",
       "title": {
-        "la": "Caput III - De dominio quod habuit super creaturis insensibilibus, et primo de igne."
+        "la": "Caput III - De dominio quod habuit super creaturis insensibilibus, et primo de igne.",
+        "pt-BR": "Capítulo III - Do domínio que teve sobre as criaturas insensíveis, e primeiro sobre o fogo."
       }
     },
     {
       "id": "cap-004",
       "title": {
-        "la": "Caput IV - De dominio quod habuit super sensibilibus creaturis."
+        "la": "Caput IV - De dominio quod habuit super sensibilibus creaturis.",
+        "pt-BR": "Capítulo IV - Do domínio que teve sobre as criaturas sensíveis."
       }
     },
     {
       "id": "cap-005",
       "title": {
-        "la": "Caput V - Qualiter desideriis sancti Francisci praesto fuit semper divina clementia."
+        "la": "Caput V - Qualiter desideriis sancti Francisci praesto fuit semper divina clementia.",
+        "pt-BR": "Capítulo V - Como a clemência divina esteve sempre pronta a atender aos desejos de São Francisco."
       }
     },
     {
       "id": "cap-006",
       "title": {
-        "la": "Caput VI - De domina Iacoba de Septem Soliis."
+        "la": "Caput VI - De domina Iacoba de Septem Soliis.",
+        "pt-BR": "Capítulo VI - De dona Jacoba de Settesoli."
       }
     },
     {
       "id": "cap-007",
       "title": {
-        "la": "Caput VII - De mortuis suscitatis per merita beati Francisci."
+        "la": "Caput VII - De mortuis suscitatis per merita beati Francisci.",
+        "pt-BR": "Capítulo VII - Dos mortos ressuscitados pelos méritos do bem-aventurado Francisco."
       }
     },
     {
       "id": "cap-008",
       "title": {
-        "la": "Caput VIII - De iis quos a fauce mortis ad vitam reduxit."
+        "la": "Caput VIII - De iis quos a fauce mortis ad vitam reduxit.",
+        "pt-BR": "Capítulo VIII - Daqueles que reconduziu das fauces da morte à vida."
       }
     },
     {
       "id": "cap-009",
       "title": {
-        "la": "Caput IX - De hydropicis et paralyticis."
+        "la": "Caput IX - De hydropicis et paralyticis.",
+        "pt-BR": "Capítulo IX - Dos hidrópicos e paralíticos."
       }
     },
     {
       "id": "cap-010",
       "title": {
-        "la": "Caput X - De naufragis liberatis."
+        "la": "Caput X - De naufragis liberatis.",
+        "pt-BR": "Capítulo X - Dos náufragos salvos."
       }
     },
     {
       "id": "cap-011",
       "title": {
-        "la": "Caput XI - De carceratis et vinctis."
+        "la": "Caput XI - De carceratis et vinctis.",
+        "pt-BR": "Capítulo XI - Dos encarcerados e acorrentados."
       }
     },
     {
       "id": "cap-012",
       "title": {
-        "la": "Caput XII - De liberatis a periculo partus et de non servantibus eius festum."
+        "la": "Caput XII - De liberatis a periculo partus et de non servantibus eius festum.",
+        "pt-BR": "Capítulo XII - Das mulheres livres do perigo do parto e daqueles que não guardavam sua festa."
       }
     },
     {
       "id": "cap-013",
       "title": {
-        "la": "Caput XIII - De ruptis reparatis."
+        "la": "Caput XIII - De ruptis reparatis.",
+        "pt-BR": "Capítulo XIII - Dos curados de hérnias."
       }
     },
     {
       "id": "cap-014",
       "title": {
-        "la": "Caput XIV - De caecis et surdis et mutis."
+        "la": "Caput XIV - De caecis et surdis et mutis.",
+        "pt-BR": "Capítulo XIV - Dos cegos, surdos e mudos."
       }
     },
     {
       "id": "cap-015",
       "title": {
-        "la": "Caput XV - De leprosis et sanguifluis."
+        "la": "Caput XV - De leprosis et sanguifluis.",
+        "pt-BR": "Capítulo XV - Dos leprosos e dos que sofriam de hemorragias."
       }
     },
     {
       "id": "cap-016",
       "title": {
-        "la": "Caput XVI - De insanis et daemoniacis."
+        "la": "Caput XVI - De insanis et daemoniacis.",
+        "pt-BR": "Capítulo XVI - Dos loucos e endemoninhados."
       }
     },
     {
       "id": "cap-017",
       "title": {
-        "la": "Caput XVII - De contractis et confractis."
+        "la": "Caput XVII - De contractis et confractis.",
+        "pt-BR": "Capítulo XVII - Dos que tinham os membros contraídos ou fraturados."
       }
     },
     {
       "id": "cap-018",
       "title": {
-        "la": "Caput XVIII - De quibusdam diversis miraculis."
+        "la": "Caput XVIII - De quibusdam diversis miraculis.",
+        "pt-BR": "Capítulo XVIII - De alguns milagres diversos."
       }
     },
     {
       "id": "cap-019",
       "title": {
-        "la": "Caput XIX - Finalis conclusio miraculorum beati Francisci."
+        "la": "Caput XIX - Finalis conclusio miraculorum beati Francisci.",
+        "pt-BR": "Capítulo XIX - Conclusão final dos milagres do bem-aventurado Francisco."
       }
     }
   ]
