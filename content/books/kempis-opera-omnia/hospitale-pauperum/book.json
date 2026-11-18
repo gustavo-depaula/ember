@@ -18,13 +18,19 @@
   },
   "composed": "c. 1425-1440",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "thomas-a-kempis/hospitale-pauperum",
   "editions": {
     "la": {
       "editor": "Michael Joseph Pohl",
       "year": 1918
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,121 +47,141 @@
     {
       "id": "p1-01",
       "title": {
-        "la": "1. De contemptu omnium bonorum mundanorum"
+        "la": "1. De contemptu omnium bonorum mundanorum",
+        "pt-BR": "1. Do desprezo de todos os bens do mundo"
       }
     },
     {
       "id": "p1-02",
       "title": {
-        "la": "2. De quinque panibus in deserto hvius vitae"
+        "la": "2. De quinque panibus in deserto hvius vitae",
+        "pt-BR": "2. Dos cinco pães no deserto desta vida"
       }
     },
     {
       "id": "p1-03",
       "title": {
-        "la": "3. De duplici pugna carnis et Spiritus"
+        "la": "3. De duplici pugna carnis et Spiritus",
+        "pt-BR": "3. Do duplo combate da carne e do espírito"
       }
     },
     {
       "id": "p1-04",
       "title": {
-        "la": "4. De instabilitate humani cordis"
+        "la": "4. De instabilitate humani cordis",
+        "pt-BR": "4. Da instabilidade do coração humano"
       }
     },
     {
       "id": "p1-05",
       "title": {
-        "la": "5. De oboedientia simplicis et humilis fratris"
+        "la": "5. De oboedientia simplicis et humilis fratris",
+        "pt-BR": "5. Da obediência do irmão simples e humilde"
       }
     },
     {
       "id": "p1-06",
       "title": {
-        "la": "6. De triplici signaculo sanctae crucis"
+        "la": "6. De triplici signaculo sanctae crucis",
+        "pt-BR": "6. Do tríplice selo da santa cruz"
       }
     },
     {
       "id": "p1-07",
       "title": {
-        "la": "7. De pia compassione cum infirmis,"
+        "la": "7. De pia compassione cum infirmis,",
+        "pt-BR": "7. Da piedosa compaixão para com os enfermos,"
       }
     },
     {
       "id": "p1-08",
       "title": {
-        "la": "8. De perseverantia in bonis inceptis"
+        "la": "8. De perseverantia in bonis inceptis",
+        "pt-BR": "8. Da perseverança nos bons propósitos"
       }
     },
     {
       "id": "p1-09",
       "title": {
-        "la": "9. De variis antiqui hostis insidiis"
+        "la": "9. De variis antiqui hostis insidiis",
+        "pt-BR": "9. Das diversas ciladas do antigo inimigo"
       }
     },
     {
       "id": "p1-10",
       "title": {
-        "la": "10. De scuto bonae voluntatis contra hostes"
+        "la": "10. De scuto bonae voluntatis contra hostes",
+        "pt-BR": "10. Do escudo da boa vontade contra os inimigos"
       }
     },
     {
       "id": "p1-11",
       "title": {
-        "la": "11. De laude Dei in omni opere . bono"
+        "la": "11. De laude Dei in omni opere . bono",
+        "pt-BR": "11. Do louvor de Deus em toda boa obra"
       }
     },
     {
       "id": "p1-12",
       "title": {
-        "la": "12. De vitio vanae gloriae et propriae complacentiae"
+        "la": "12. De vitio vanae gloriae et propriae complacentiae",
+        "pt-BR": "12. Do vício da glória vã e da complacência em si mesmo"
       }
     },
     {
       "id": "p1-13",
       "title": {
-        "la": "13. De variis bellis impiorum et patientia piorum"
+        "la": "13. De variis bellis impiorum et patientia piorum",
+        "pt-BR": "13. Das diversas guerras dos ímpios e da paciência dos piedosos"
       }
     },
     {
       "id": "p1-14",
       "title": {
-        "la": "14. De malitia pravorum contra innocentes"
+        "la": "14. De malitia pravorum contra innocentes",
+        "pt-BR": "14. Da malícia dos perversos contra os inocentes"
       }
     },
     {
       "id": "p1-15",
       "title": {
-        "la": "15. De invidia diaboli contra salutem hominum"
+        "la": "15. De invidia diaboli contra salutem hominum",
+        "pt-BR": "15. Da inveja do diabo contra a salvação dos homens"
       }
     },
     {
       "id": "p1-16",
       "title": {
-        "la": "16. De armatura Christi et sanctorum contra vitia"
+        "la": "16. De armatura Christi et sanctorum contra vitia",
+        "pt-BR": "16. Da armadura de Cristo e dos santos contra os vícios"
       }
     },
     {
       "id": "p1-17",
       "title": {
-        "la": "17. De utilitate frequentis orationis"
+        "la": "17. De utilitate frequentis orationis",
+        "pt-BR": "17. Da utilidade da oração frequente"
       }
     },
     {
       "id": "p1-18",
       "title": {
-        "la": "18. De privatis orationibus quasi iaculis acutis in hostes"
+        "la": "18. De privatis orationibus quasi iaculis acutis in hostes",
+        "pt-BR": "18. Das orações particulares como dardos afiados contra os inimigos"
       }
     },
     {
       "id": "p1-19",
       "title": {
-        "la": "19. De versiculis ante initium operis legendis"
+        "la": "19. De versiculis ante initium operis legendis",
+        "pt-BR": "19. Dos versículos a recitar antes do início do trabalho"
       }
     },
     {
       "id": "p1-20",
       "title": {
-        "la": "20. De septem virtutum gemmis bonae congregationis"
+        "la": "20. De septem virtutum gemmis bonae congregationis",
+        "pt-BR": "20. Das sete gemas de virtudes de uma boa comunidade"
       }
     }
   ]
