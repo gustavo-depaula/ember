@@ -18,13 +18,19 @@
   },
   "composed": "1588-1590",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "louis-of-granada/vidas",
   "editions": {
     "es-ES": {
       "editor": "Justo Cuervo OP",
       "year": 1906
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,37 +47,43 @@
     {
       "id": "juan-de-avila",
       "title": {
-        "es-ES": "Vida del Beato Maestro Juan de Ávila"
+        "es-ES": "Vida del Beato Maestro Juan de Ávila",
+        "pt-BR": "Vida do Beato Mestre João de Ávila"
       }
     },
     {
       "id": "bartolome",
       "title": {
-        "es-ES": "Vida de Fray Bartolomé de los Mártires"
+        "es-ES": "Vida de Fray Bartolomé de los Mártires",
+        "pt-BR": "Vida de Frei Bartolomeu dos Mártires"
       }
     },
     {
       "id": "enrique",
       "title": {
-        "es-ES": "Vida del cardenal Don Enrique, rey de Portugal"
+        "es-ES": "Vida del cardenal Don Enrique, rey de Portugal",
+        "pt-BR": "Vida do cardeal Dom Henrique, rei de Portugal"
       }
     },
     {
       "id": "ana-de-la-concepcion",
       "title": {
-        "es-ES": "Vida de la madre sor Ana de la Concepción"
+        "es-ES": "Vida de la madre sor Ana de la Concepción",
+        "pt-BR": "Vida da madre soror Ana da Conceição"
       }
     },
     {
       "id": "elvira",
       "title": {
-        "es-ES": "Vida de doña Elvira de Mendoza"
+        "es-ES": "Vida de doña Elvira de Mendoza",
+        "pt-BR": "Vida de dona Elvira de Mendoza"
       }
     },
     {
       "id": "melicia",
       "title": {
-        "es-ES": "Vida de Melicia Hernández"
+        "es-ES": "Vida de Melicia Hernández",
+        "pt-BR": "Vida de Melícia Hernández"
       }
     }
   ]
