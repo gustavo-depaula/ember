@@ -19,7 +19,8 @@
   "composed": "14th century",
   "languages": [
     "it",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "francis-of-assisi/vita-egidio",
   "editions": {
@@ -29,6 +30,11 @@
     "en-US": {
       "translator": "first English translation (Lady Georgiana Fullerton, 1864), revised by Dom Roger Hudleston",
       "year": 1926
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "it",
+      "year": 2026
     }
   },
   "sources": [
@@ -54,70 +60,80 @@
       "id": "cap-001",
       "title": {
         "it": "CAPITOLO I.",
-        "en-US": "Chapter I: How brother giles, with three companions was received into the order of friar's minor"
+        "en-US": "Chapter I: How brother giles, with three companions was received into the order of friar's minor",
+        "pt-BR": "CAPÍTULO I."
       }
     },
     {
       "id": "cap-002",
       "title": {
         "it": "CAPITOLO II.",
-        "en-US": "Chapter II: How brother giles went to st james the great"
+        "en-US": "Chapter II: How brother giles went to st james the great",
+        "pt-BR": "CAPÍTULO II."
       }
     },
     {
       "id": "cap-003",
       "title": {
         "it": "CAPITOLO III.",
-        "en-US": "Chapter III: Of brother giles's manner of life when he went to the holy sepulchre"
+        "en-US": "Chapter III: Of brother giles's manner of life when he went to the holy sepulchre",
+        "pt-BR": "CAPÍTULO III."
       }
     },
     {
       "id": "cap-004",
       "title": {
         "it": "CAPITOLO IV.",
-        "en-US": "Chapter IV: How brother giles praised obedience more than prayer"
+        "en-US": "Chapter IV: How brother giles praised obedience more than prayer",
+        "pt-BR": "CAPÍTULO IV."
       }
     },
     {
       "id": "cap-005",
       "title": {
         "it": "CAPITOLO V.",
-        "en-US": "Chapter V: How brother giles lived by the labour of his hands"
+        "en-US": "Chapter V: How brother giles lived by the labour of his hands",
+        "pt-BR": "CAPÍTULO V."
       }
     },
     {
       "id": "cap-006",
       "title": {
         "it": "CAPITOLO VI.",
-        "en-US": "Chapter VI: How brother giles was miraculously assisted in a great necessity when, by reason of a heavy fall of snow, he was hindered from going out to quest."
+        "en-US": "Chapter VI: How brother giles was miraculously assisted in a great necessity when, by reason of a heavy fall of snow, he was hindered from going out to quest.",
+        "pt-BR": "CAPÍTULO VI."
       }
     },
     {
       "id": "cap-007",
       "title": {
         "it": "CAPITOLO VII.",
-        "en-US": "Chapter VII: Of the day of the holy brother giles's death"
+        "en-US": "Chapter VII: Of the day of the holy brother giles's death",
+        "pt-BR": "CAPÍTULO VII."
       }
     },
     {
       "id": "cap-008",
       "title": {
         "it": "CAPITOLO VIII.",
-        "en-US": "Chapter VIII: How a holy man, being in prayer, saw the soul of brother giles pass to eternal life"
+        "en-US": "Chapter VIII: How a holy man, being in prayer, saw the soul of brother giles pass to eternal life",
+        "pt-BR": "CAPÍTULO VIII."
       }
     },
     {
       "id": "cap-009",
       "title": {
         "it": "CAPITOLO IX.",
-        "en-US": "Chapter IX: How, by the merits of brother giles, the soul of the friend of a friar preacher was delivered from the pains of purgatory"
+        "en-US": "Chapter IX: How, by the merits of brother giles, the soul of the friend of a friar preacher was delivered from the pains of purgatory",
+        "pt-BR": "CAPÍTULO IX."
       }
     },
     {
       "id": "cap-010",
       "title": {
         "it": "CAPITOLO X.",
-        "en-US": "Chapter X: How god gave special graces to brother giles, and of the year of his death"
+        "en-US": "Chapter X: How god gave special graces to brother giles, and of the year of his death",
+        "pt-BR": "CAPÍTULO X."
       }
     }
   ]
