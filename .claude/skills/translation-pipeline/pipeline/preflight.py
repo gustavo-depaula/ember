@@ -69,6 +69,18 @@ for f in sorted(os.listdir(src)):
                     and q[:1].islower()):
                 warn.append("%s [%d-%d]: possible split: …%s / %s…" % (f, i + 1, i + 2, p[-40:], q[:40]))
 
+# A page break that left the running head (title and page number) at the start
+# of the next paragraph splits a sentence in two: "…mourir Pro- / FÊTE DES ANGES
+# 121 cope, mais…". Meditatio de incarnatione failed review on forty of them.
+H = r"[A-ZÀ-ÝŒ][A-ZÀ-ÝŒ0-9’'. ,;:-]*?[A-ZÀ-ÝŒ]{2}[A-ZÀ-ÝŒ0-9’'. ,;:-]*?"
+headSplit = re.compile(r"[^\s#|>]-?\n\n(?:%s[ \t]+\d{1,3}|\d{1,3}[ \t]+%s)[ \t]+[a-zà-ÿ]" % (H, H))
+heads = []
+for f in sorted(os.listdir(src)):
+    if f.endswith(".md") and f.startswith(scope):
+        heads += ["%s: %s" % (f, m.group(0).split("\n\n")[1][:40]) for m in headSplit.finditer(open("%s/%s" % (src, f)).read())]
+if len(heads) >= 3:
+    hard.append("%d paragraphs split by a running head, e.g. %s" % (len(heads), "; ".join(heads[:3])))
+
 for x in hard:
     print("HARD " + x)
 for x in warn:
