@@ -19,7 +19,8 @@
   "composed": "14th century",
   "languages": [
     "it",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "francis-of-assisi/vita-ginepro",
   "editions": {
@@ -29,6 +30,11 @@
     "en-US": {
       "translator": "first English translation (Lady Georgiana Fullerton, 1864), revised by Dom Roger Hudleston",
       "year": 1926
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "it",
+      "year": 2026
     }
   },
   "sources": [
@@ -54,105 +60,120 @@
       "id": "cap-001",
       "title": {
         "it": "CAPITOLO I.",
-        "en-US": "Chapter I: How brother juniper cut off the foot of a pig to give it to a sick brother"
+        "en-US": "Chapter I: How brother juniper cut off the foot of a pig to give it to a sick brother",
+        "pt-BR": "CAPÍTULO I."
       }
     },
     {
       "id": "cap-002",
       "title": {
         "it": "CAPITOLO II.",
-        "en-US": "Chapter II: An instance of brother juniper's great power against the devil"
+        "en-US": "Chapter II: An instance of brother juniper's great power against the devil",
+        "pt-BR": "CAPÍTULO II."
       }
     },
     {
       "id": "cap-003",
       "title": {
         "it": "CAPITOLO III.",
-        "en-US": "Chapter III: How, by the contrivance of the devil, brother juniper was condemned to the gallows"
+        "en-US": "Chapter III: How, by the contrivance of the devil, brother juniper was condemned to the gallows",
+        "pt-BR": "CAPÍTULO III."
       }
     },
     {
       "id": "cap-004",
       "title": {
         "it": "CAPITOLO IV.",
-        "en-US": "Chapter IV: How brother juniper gave all that he had to the poor for the love of god"
+        "en-US": "Chapter IV: How brother juniper gave all that he had to the poor for the love of god",
+        "pt-BR": "CAPÍTULO IV."
       }
     },
     {
       "id": "cap-005",
       "title": {
         "it": "CAPITOLO V.",
-        "en-US": "Chapter V: How brother juniper took certain little bells from the altar, and gave them away for the love of god"
+        "en-US": "Chapter V: How brother juniper took certain little bells from the altar, and gave them away for the love of god",
+        "pt-BR": "CAPÍTULO V."
       }
     },
     {
       "id": "cap-006",
       "title": {
         "it": "CAPITOLO VI.",
-        "en-US": "Chapter VI: How brother juniper kept silence for six months"
+        "en-US": "Chapter VI: How brother juniper kept silence for six months",
+        "pt-BR": "CAPÍTULO VI."
       }
     },
     {
       "id": "cap-007",
       "title": {
         "it": "CAPITOLO VII.",
-        "en-US": "Chapter VII: His remedy for temptations of the flesh"
+        "en-US": "Chapter VII: His remedy for temptations of the flesh",
+        "pt-BR": "CAPÍTULO VII."
       }
     },
     {
       "id": "cap-008",
       "title": {
         "it": "CAPITOLO VIII.",
-        "en-US": "Chapter VIII: How brother juniper made himself contemptible for the love of god"
+        "en-US": "Chapter VIII: How brother juniper made himself contemptible for the love of god",
+        "pt-BR": "CAPÍTULO VIII."
       }
     },
     {
       "id": "cap-009",
       "title": {
         "it": "CAPITOLO IX.",
-        "en-US": "Chapter IX: How brother juniper, in order to be despised, played at see-saw"
+        "en-US": "Chapter IX: How brother juniper, in order to be despised, played at see-saw",
+        "pt-BR": "CAPÍTULO IX."
       }
     },
     {
       "id": "cap-010",
       "title": {
         "it": "CAPITOLO X.",
-        "en-US": "Chapter X: How brother juniper once cooked for the brethren enough to last for a fortnight"
+        "en-US": "Chapter X: How brother juniper once cooked for the brethren enough to last for a fortnight",
+        "pt-BR": "CAPÍTULO X."
       }
     },
     {
       "id": "cap-011",
       "title": {
         "it": "CAPITOLO XI.",
-        "en-US": "Chapter XI: How brother juniper went one day to assisi for his own confusion"
+        "en-US": "Chapter XI: How brother juniper went one day to assisi for his own confusion",
+        "pt-BR": "CAPÍTULO XI."
       }
     },
     {
       "id": "cap-012",
       "title": {
         "it": "CAPITOLO XII.",
-        "en-US": "Chapter XII: How brother juniper fell into an ecstasy during the celebration of mass"
+        "en-US": "Chapter XII: How brother juniper fell into an ecstasy during the celebration of mass",
+        "pt-BR": "CAPÍTULO XII."
       }
     },
     {
       "id": "cap-013",
       "title": {
         "it": "CAPITOLO XIII.",
-        "en-US": "Chapter XIII: Of the sorrow which brother juniper felt at the loss of his companion brother amazialbene"
+        "en-US": "Chapter XIII: Of the sorrow which brother juniper felt at the loss of his companion brother amazialbene",
+        "pt-BR": "CAPÍTULO XIII."
       }
     },
     {
       "id": "cap-014",
       "title": {
         "it": "CAPITOLO XIV.",
-        "en-US": "Chapter XIV: Of the hand which brother juniper saw in the air"
+        "en-US": "Chapter XIV: Of the hand which brother juniper saw in the air",
+        "pt-BR": "CAPÍTULO XIV."
       }
     },
     {
       "id": "cap-015",
       "title": {
         "it": "CAPITOLO XV.",
-        "en-US": "Chapter XV: How st francis commanded brother leo to wash the stone"
+        "en-US": "Chapter XV: How st francis commanded brother leo to wash the stone",
+        "pt-BR": "CAPÍTULO XV."
       }
     }
   ]
