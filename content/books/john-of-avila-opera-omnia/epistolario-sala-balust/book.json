@@ -14,17 +14,23 @@
   "description": {
     "es-ES": "Cartas de san Juan de Ávila de la edición crítica de Luis Sala Balust (BAC, 1952) que no están en el libro «Epistolario espiritual» (las cien cartas del Apostolado Mariano): a predicadores, señores, señoras, doncellas, religiosas y discípulos. Cada carta lleva su número en la edición de Sala Balust, con los epígrafes de contenido del editor; el texto es el del siglo XVI con sus lecciones críticas, sin el aparato de variantes ni las notas.",
     "en-US": "Letters of St. John of Ávila from Luis Sala Balust's critical edition (BAC, 1952) that are not in the book «Epistolario espiritual» (the hundred letters of the Apostolado Mariano edition): to preachers, noblemen, ladies, maidens, religious and disciples. Each letter keeps its Sala Balust number and the editor's one-line summary; the text is the sixteenth-century critical text, without the variants apparatus or the notes.",
-    "pt-BR": "Cartas de São João de Ávila da edição crítica de Luis Sala Balust (BAC, 1952) que não estão no livro «Epistolário espiritual»."
+    "pt-BR": "Cartas de São João de Ávila da edição crítica de Luis Sala Balust (BAC, 1952) que não estão no livro «Epistolário espiritual» (as cem cartas do Apostolado Mariano): a pregadores, senhores, senhoras, donzelas, religiosas e discípulos. Cada carta leva seu número na edição de Sala Balust, com as epígrafes de conteúdo do editor; o texto é o do século XVI com suas lições críticas, sem o aparato de variantes nem as notas."
   },
   "composed": "1535–1569",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "john-of-avila/epistolario",
   "editions": {
     "es-ES": {
       "editor": "Luis Sala Balust (BAC)",
       "year": 1952
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,637 +47,743 @@
     {
       "id": "l009",
       "title": {
-        "es-ES": "Carta 9. A un predicador"
+        "es-ES": "Carta 9. A un predicador",
+        "pt-BR": "Carta 9. A um pregador"
       }
     },
     {
       "id": "l014",
       "title": {
-        "es-ES": "Carta 14. A un señor de estos reinos"
+        "es-ES": "Carta 14. A un señor de estos reinos",
+        "pt-BR": "Carta 14. A um senhor destes reinos"
       }
     },
     {
       "id": "l015",
       "title": {
-        "es-ES": "Carta 15. A un señor de estos reinos"
+        "es-ES": "Carta 15. A un señor de estos reinos",
+        "pt-BR": "Carta 15. A um senhor destes reinos"
       }
     },
     {
       "id": "l016",
       "title": {
-        "es-ES": "Carta 16. A un señor de título"
+        "es-ES": "Carta 16. A un señor de título",
+        "pt-BR": "Carta 16. A um senhor com título de nobreza"
       }
     },
     {
       "id": "l017",
       "title": {
-        "es-ES": "Carta 17. A un señor de título, enfermo"
+        "es-ES": "Carta 17. A un señor de título, enfermo",
+        "pt-BR": "Carta 17. A um senhor com título de nobreza, enfermo"
       }
     },
     {
       "id": "l018",
       "title": {
-        "es-ES": "Carta 18. A un Señor de título, enfermo y muy temeroso"
+        "es-ES": "Carta 18. A un Señor de título, enfermo y muy temeroso",
+        "pt-BR": "Carta 18. A um Senhor com título de nobreza, enfermo e muito temeroso"
       }
     },
     {
       "id": "l020b",
       "title": {
-        "es-ES": "Carta 20 [2]. A una persona que estaba tentada"
+        "es-ES": "Carta 20 [2]. A una persona que estaba tentada",
+        "pt-BR": "Carta 20 [2]. A uma pessoa que estava tentada"
       }
     },
     {
       "id": "l020c",
       "title": {
-        "es-ES": "Carta 20 [3]. A cierta persona devota"
+        "es-ES": "Carta 20 [3]. A cierta persona devota",
+        "pt-BR": "Carta 20 [3]. A certa pessoa devota"
       }
     },
     {
       "id": "l025",
       "title": {
-        "es-ES": "Carta 25. A una señora"
+        "es-ES": "Carta 25. A una señora",
+        "pt-BR": "Carta 25. A uma senhora"
       }
     },
     {
       "id": "l029",
       "title": {
-        "es-ES": "Carta 29. A una señora ilustn'sima"
+        "es-ES": "Carta 29. A una señora ilustn'sima",
+        "pt-BR": "Carta 29. A uma senhora ilustríssima"
       }
     },
     {
       "id": "l030",
       "title": {
-        "es-ES": "Carta 30. A una doncella"
+        "es-ES": "Carta 30. A una doncella",
+        "pt-BR": "Carta 30. A uma donzela"
       }
     },
     {
       "id": "l035",
       "title": {
-        "es-ES": "Carta 35. A una señora"
+        "es-ES": "Carta 35. A una señora",
+        "pt-BR": "Carta 35. A uma senhora"
       }
     },
     {
       "id": "l036",
       "title": {
-        "es-ES": "Carta 36. [A unos deudos suyos, casados en Almodóvar]"
+        "es-ES": "Carta 36. [A unos deudos suyos, casados en Almodóvar]",
+        "pt-BR": "Carta 36. [A uns parentes seus, casados em Almodóvar]"
       }
     },
     {
       "id": "l041",
       "title": {
-        "es-ES": "Carta 41. A una doncella atribulada por el desamparo espiritual que sentía"
+        "es-ES": "Carta 41. A una doncella atribulada por el desamparo espiritual que sentía",
+        "pt-BR": "Carta 41. A uma donzela atribulada pelo desamparo espiritual que sentia"
       }
     },
     {
       "id": "l049",
       "title": {
-        "es-ES": "Carta 49. A una mujer devota que padecía trabajos"
+        "es-ES": "Carta 49. A una mujer devota que padecía trabajos",
+        "pt-BR": "Carta 49. A uma mulher devota que padecia trabalhos"
       }
     },
     {
       "id": "l051",
       "title": {
-        "es-ES": "Carta 51. A una mujer casada, a cuyo hijo le había sucedido una desgracia"
+        "es-ES": "Carta 51. A una mujer casada, a cuyo hijo le había sucedido una desgracia",
+        "pt-BR": "Carta 51. A uma mulher casada, cujo filho havia sofrido uma desgraça"
       }
     },
     {
       "id": "l053",
       "title": {
-        "es-ES": "Carta 53. A un devoto siervo de dlos [teólogo j, que en- tendía junto con otros en algunas buenas obras (fragmento)"
+        "es-ES": "Carta 53. A un devoto siervo de dlos [teólogo j, que en- tendía junto con otros en algunas buenas obras (fragmento)",
+        "pt-BR": "Carta 53. A um devoto servo de Deus [teólogo], que se ocupava com outros de algumas boas obras (fragmento)"
       }
     },
     {
       "id": "l055",
       "title": {
-        "es-ES": "Carta 55. A una señora que él tenía muy a su cargo y temía que le daba pesadumbre"
+        "es-ES": "Carta 55. A una señora que él tenía muy a su cargo y temía que le daba pesadumbre",
+        "pt-BR": "Carta 55. A uma senhora de quem cuidava muito e que temia causar-lhe incômodo"
       }
     },
     {
       "id": "l057",
       "title": {
-        "es-ES": "Carta 57. A un hombre devoto"
+        "es-ES": "Carta 57. A un hombre devoto",
+        "pt-BR": "Carta 57. A um homem devoto"
       }
     },
     {
       "id": "l059",
       "title": {
-        "es-ES": "Carta 59. A un devoto :"
+        "es-ES": "Carta 59. A un devoto :",
+        "pt-BR": "Carta 59. A um devoto"
       }
     },
     {
       "id": "l060",
       "title": {
-        "es-ES": "Carta 60. A una persona afligida"
+        "es-ES": "Carta 60. A una persona afligida",
+        "pt-BR": "Carta 60. A uma pessoa aflita"
       }
     },
     {
       "id": "l065",
       "title": {
-        "es-ES": "Carta 65. A una doncella que quería entrar en religión"
+        "es-ES": "Carta 65. A una doncella que quería entrar en religión",
+        "pt-BR": "Carta 65. A uma donzela que queria entrar na vida religiosa"
       }
     },
     {
       "id": "l076",
       "title": {
-        "es-ES": "Carta 76. A un su amigo"
+        "es-ES": "Carta 76. A un su amigo",
+        "pt-BR": "Carta 76. A um amigo seu"
       }
     },
     {
       "id": "l077",
       "title": {
-        "es-ES": "Carta 77. A una persona afligí da"
+        "es-ES": "Carta 77. A una persona afligí da",
+        "pt-BR": "Carta 77. A uma pessoa aflita"
       }
     },
     {
       "id": "l078",
       "title": {
-        "es-ES": "Carta 78. A una señora que se le había muerto su marido"
+        "es-ES": "Carta 78. A una señora que se le había muerto su marido",
+        "pt-BR": "Carta 78. A uma senhora cujo marido havia morrido"
       }
     },
     {
       "id": "l079",
       "title": {
-        "es-ES": "Carta 79. A. una doncella"
+        "es-ES": "Carta 79. A. una doncella",
+        "pt-BR": "Carta 79. A uma donzela"
       }
     },
     {
       "id": "l080",
       "title": {
-        "es-ES": "Carta 80. A una doncella"
+        "es-ES": "Carta 80. A una doncella",
+        "pt-BR": "Carta 80. A uma donzela"
       }
     },
     {
       "id": "l085",
       "title": {
-        "es-ES": "Carta 85. L1j a una devota suya"
+        "es-ES": "Carta 85. L1j a una devota suya",
+        "pt-BR": "Carta 85. [1] A uma devota sua"
       }
     },
     {
       "id": "l085b",
       "title": {
-        "es-ES": "Carta 85 [2]. A una persona devota"
+        "es-ES": "Carta 85 [2]. A una persona devota",
+        "pt-BR": "Carta 85 [2]. A uma pessoa devota"
       }
     },
     {
       "id": "l085c",
       "title": {
-        "es-ES": "Carta 85 [3]. A una religiosa"
+        "es-ES": "Carta 85 [3]. A una religiosa",
+        "pt-BR": "Carta 85 [3]. A uma religiosa"
       }
     },
     {
       "id": "l086",
       "title": {
-        "es-ES": "Carta 86. [Para la villa de Utrera]"
+        "es-ES": "Carta 86. [Para la villa de Utrera]",
+        "pt-BR": "Carta 86. [Para a vila de Utrera]"
       }
     },
     {
       "id": "l089",
       "title": {
-        "es-ES": "Carta 89. A una señora temerosa de parecer delante de Dios"
+        "es-ES": "Carta 89. A una señora temerosa de parecer delante de Dios",
+        "pt-BR": "Carta 89. A uma senhora temerosa de comparecer diante de Deus"
       }
     },
     {
       "id": "l091",
       "title": {
-        "es-ES": "Carta 91. A una doncella trabajada"
+        "es-ES": "Carta 91. A una doncella trabajada",
+        "pt-BR": "Carta 91. A uma donzela atribulada"
       }
     },
     {
       "id": "l098",
       "title": {
-        "es-ES": "Carta 98. A la misma señora"
+        "es-ES": "Carta 98. A la misma señora",
+        "pt-BR": "Carta 98. À mesma senhora"
       }
     },
     {
       "id": "l099",
       "title": {
-        "es-ES": "Carta 99. A una señora afligida con trabajos"
+        "es-ES": "Carta 99. A una señora afligida con trabajos",
+        "pt-BR": "Carta 99. A uma senhora aflita com trabalhos"
       }
     },
     {
       "id": "l101",
       "title": {
-        "es-ES": "Carta 101. A una señora que se había consagrado a Dios"
+        "es-ES": "Carta 101. A una señora que se había consagrado a Dios",
+        "pt-BR": "Carta 101. A uma senhora que se havia consagrado a Deus"
       }
     },
     {
       "id": "l102",
       "title": {
-        "es-ES": "Carta 102. A una señora trabajada"
+        "es-ES": "Carta 102. A una señora trabajada",
+        "pt-BR": "Carta 102. A uma senhora atribulada"
       }
     },
     {
       "id": "l106",
       "title": {
-        "es-ES": "Carta 106. A una señora viuda"
+        "es-ES": "Carta 106. A una señora viuda",
+        "pt-BR": "Carta 106. A uma senhora viúva"
       }
     },
     {
       "id": "l107",
       "title": {
-        "es-ES": "Carta 107. A un su amigo"
+        "es-ES": "Carta 107. A un su amigo",
+        "pt-BR": "Carta 107. A um amigo seu"
       }
     },
     {
       "id": "l108",
       "title": {
-        "es-ES": "Carta 108. A una señora que padecía trabajos"
+        "es-ES": "Carta 108. A una señora que padecía trabajos",
+        "pt-BR": "Carta 108. A uma senhora que padecia trabalhos"
       }
     },
     {
       "id": "l109",
       "title": {
-        "es-ES": "Carta 109. A una señora enferma"
+        "es-ES": "Carta 109. A una señora enferma",
+        "pt-BR": "Carta 109. A uma senhora enferma"
       }
     },
     {
       "id": "l110",
       "title": {
-        "es-ES": "Carta 110. A una señora que le preguntó qué sería estar trabajada y desconsolada y alegre de lo estar"
+        "es-ES": "Carta 110. A una señora que le preguntó qué sería estar trabajada y desconsolada y alegre de lo estar",
+        "pt-BR": "Carta 110. A uma senhora que lhe perguntou o que seria estar atribulada e desconsolada e alegre por estar assim"
       }
     },
     {
       "id": "l111",
       "title": {
-        "es-ES": "Carta 111. Epistolario. segunda parte 1x1 a un su devoto"
+        "es-ES": "Carta 111. Epistolario. segunda parte 1x1 a un su devoto",
+        "pt-BR": "Carta 111. A um devoto seu"
       }
     },
     {
       "id": "l117",
       "title": {
-        "es-ES": "Carta 117. A un sacerdote que estaba enfermo"
+        "es-ES": "Carta 117. A un sacerdote que estaba enfermo",
+        "pt-BR": "Carta 117. A um sacerdote que estava enfermo"
       }
     },
     {
       "id": "l118",
       "title": {
-        "es-ES": "Carta 118. A una doncella"
+        "es-ES": "Carta 118. A una doncella",
+        "pt-BR": "Carta 118. A uma donzela"
       }
     },
     {
       "id": "l121",
       "title": {
-        "es-ES": "Carta 121. A una señora"
+        "es-ES": "Carta 121. A una señora",
+        "pt-BR": "Carta 121. A uma senhora"
       }
     },
     {
       "id": "l122",
       "title": {
-        "es-ES": "Carta 122. A una señora de título"
+        "es-ES": "Carta 122. A una señora de título",
+        "pt-BR": "Carta 122. A uma senhora com título de nobreza"
       }
     },
     {
       "id": "l125",
       "title": {
-        "es-ES": "Carta 125. A una señora"
+        "es-ES": "Carta 125. A una señora",
+        "pt-BR": "Carta 125. A uma senhora"
       }
     },
     {
       "id": "l129",
       "title": {
-        "es-ES": "Carta 129. A una señora"
+        "es-ES": "Carta 129. A una señora",
+        "pt-BR": "Carta 129. A uma senhora"
       }
     },
     {
       "id": "l130",
       "title": {
-        "es-ES": "Carta 130. A una señora"
+        "es-ES": "Carta 130. A una señora",
+        "pt-BR": "Carta 130. A uma senhora"
       }
     },
     {
       "id": "l131",
       "title": {
-        "es-ES": "Carta 131. A una señora"
+        "es-ES": "Carta 131. A una señora",
+        "pt-BR": "Carta 131. A uma senhora"
       }
     },
     {
       "id": "l132",
       "title": {
-        "es-ES": "Carta 132. A una señora"
+        "es-ES": "Carta 132. A una señora",
+        "pt-BR": "Carta 132. A uma senhora"
       }
     },
     {
       "id": "l135",
       "title": {
-        "es-ES": "Carta 135. A una señora"
+        "es-ES": "Carta 135. A una señora",
+        "pt-BR": "Carta 135. A uma senhora"
       }
     },
     {
       "id": "l136",
       "title": {
-        "es-ES": "Carta 136. A un sacerdote"
+        "es-ES": "Carta 136. A un sacerdote",
+        "pt-BR": "Carta 136. A um sacerdote"
       }
     },
     {
       "id": "l137",
       "title": {
-        "es-ES": "Carta 137. A nn amigo suyo"
+        "es-ES": "Carta 137. A nn amigo suyo",
+        "pt-BR": "Carta 137. A um amigo seu"
       }
     },
     {
       "id": "l139",
       "title": {
-        "es-ES": "Carta 139. A una persona escrupulosa"
+        "es-ES": "Carta 139. A una persona escrupulosa",
+        "pt-BR": "Carta 139. A uma pessoa escrupulosa"
       }
     },
     {
       "id": "l140",
       "title": {
-        "es-ES": "Carta 140. A un caballero que se fué a estudiar a Salamanca y allí le hicieron rector [don Antonio de Córdoba]"
+        "es-ES": "Carta 140. A un caballero que se fué a estudiar a Salamanca y allí le hicieron rector [don Antonio de Córdoba]",
+        "pt-BR": "Carta 140. A um cavaleiro que foi estudar em Salamanca e ali o fizeram reitor [dom Antônio de Córdoba]"
       }
     },
     {
       "id": "l143",
       "title": {
-        "es-ES": "Carta 143. A un caballero amigo suyo"
+        "es-ES": "Carta 143. A un caballero amigo suyo",
+        "pt-BR": "Carta 143. A um cavaleiro amigo seu"
       }
     },
     {
       "id": "l146",
       "title": {
-        "es-ES": "Carta 146. A un caballero amigo suyo"
+        "es-ES": "Carta 146. A un caballero amigo suyo",
+        "pt-BR": "Carta 146. A um cavaleiro amigo seu"
       }
     },
     {
       "id": "l147",
       "title": {
-        "es-ES": "Carta 147. A una persona"
+        "es-ES": "Carta 147. A una persona",
+        "pt-BR": "Carta 147. A uma pessoa"
       }
     },
     {
       "id": "l148",
       "title": {
-        "es-ES": "Carta 148. A unos canónigos de cierta iglesia de estos reinos"
+        "es-ES": "Carta 148. A unos canónigos de cierta iglesia de estos reinos",
+        "pt-BR": "Carta 148. A uns cônegos de certa igreja destes reinos"
       }
     },
     {
       "id": "l149",
       "title": {
-        "es-ES": "Carta 149. A un su devoto"
+        "es-ES": "Carta 149. A un su devoto",
+        "pt-BR": "Carta 149. A um devoto seu"
       }
     },
     {
       "id": "l150",
       "title": {
-        "es-ES": "Carta 150. A un hijo de penitencia"
+        "es-ES": "Carta 150. A un hijo de penitencia",
+        "pt-BR": "Carta 150. A um filho de penitência"
       }
     },
     {
       "id": "l151",
       "title": {
-        "es-ES": "Carta 151. Religión, estando enfermo. 15jf9"
+        "es-ES": "Carta 151. Religión, estando enfermo. 15jf9",
+        "pt-BR": "Carta 151. Vida religiosa, estando enfermo. 15jf9"
       }
     },
     {
       "id": "l152",
       "title": {
-        "es-ES": "Carta 152. A un caballero al cual pretendía llevar a la religión [don Antonio de Córdoba] ¡"
+        "es-ES": "Carta 152. A un caballero al cual pretendía llevar a la religión [don Antonio de Córdoba] ¡",
+        "pt-BR": "Carta 152. A um cavaleiro que pretendia levar à vida religiosa [dom Antônio de Córdoba]"
       }
     },
     {
       "id": "l153",
       "title": {
-        "es-ES": "Carta 153. A un amigo suyo, a quien dlos había llamado"
+        "es-ES": "Carta 153. A un amigo suyo, a quien dlos había llamado",
+        "pt-BR": "Carta 153. A um amigo seu, a quem Deus havia chamado"
       }
     },
     {
       "id": "l154",
       "title": {
-        "es-ES": "Carta 154. A un caballero de estos reinos discípulo suyo"
+        "es-ES": "Carta 154. A un caballero de estos reinos discípulo suyo",
+        "pt-BR": "Carta 154. A um cavaleiro destes reinos, discípulo seu"
       }
     },
     {
       "id": "l155",
       "title": {
-        "es-ES": "Carta 155. A un caballero de estos reinos, su discípulo"
+        "es-ES": "Carta 155. A un caballero de estos reinos, su discípulo",
+        "pt-BR": "Carta 155. A um cavaleiro destes reinos, seu discípulo"
       }
     },
     {
       "id": "l157",
       "title": {
-        "es-ES": "Carta 157. A un discípulo"
+        "es-ES": "Carta 157. A un discípulo",
+        "pt-BR": "Carta 157. A um discípulo"
       }
     },
     {
       "id": "l162",
       "title": {
-        "es-ES": "Carta 162. A un cura de almas a quien Dios había hecho merced de llamarle a la vida espiritual"
+        "es-ES": "Carta 162. A un cura de almas a quien Dios había hecho merced de llamarle a la vida espiritual",
+        "pt-BR": "Carta 162. A um cura de almas a quem Deus havia feito a mercê de chamar à vida espiritual"
       }
     },
     {
       "id": "l163",
       "title": {
-        "es-ES": "Carta 163. A un su conocido"
+        "es-ES": "Carta 163. A un su conocido",
+        "pt-BR": "Carta 163. A um conhecido seu"
       }
     },
     {
       "id": "l165",
       "title": {
-        "es-ES": "Carta 165. A un sü discípulo predicador"
+        "es-ES": "Carta 165. A un sü discípulo predicador",
+        "pt-BR": "Carta 165. A um discípulo seu, pregador"
       }
     },
     {
       "id": "l167",
       "title": {
-        "es-ES": "Carta 167. Al mismo"
+        "es-ES": "Carta 167. Al mismo",
+        "pt-BR": "Carta 167. Ao mesmo"
       }
     },
     {
       "id": "l168",
       "title": {
-        "es-ES": "Carta 168. A un caballero de estos reinos, estando"
+        "es-ES": "Carta 168. A un caballero de estos reinos, estando",
+        "pt-BR": "Carta 168. A um cavaleiro destes reinos, estando […]"
       }
     },
     {
       "id": "l169",
       "title": {
-        "es-ES": "Carta 169. Epistolario. tercera parte 169 a un su conocido que tenía cargo de unos enfermos"
+        "es-ES": "Carta 169. Epistolario. tercera parte 169 a un su conocido que tenía cargo de unos enfermos",
+        "pt-BR": "Carta 169. A um conhecido seu que tinha a seu cargo uns enfermos"
       }
     },
     {
       "id": "l170",
       "title": {
-        "es-ES": "Carta 170. A un religioso discípulo suyo, predicador"
+        "es-ES": "Carta 170. A un religioso discípulo suyo, predicador",
+        "pt-BR": "Carta 170. A um religioso discípulo seu, pregador"
       }
     },
     {
       "id": "l171",
       "title": {
-        "es-ES": "Carta 171. A otro discípulo suyo que estaba atribulado"
+        "es-ES": "Carta 171. A otro discípulo suyo que estaba atribulado",
+        "pt-BR": "Carta 171. A outro discípulo seu que estava atribulado"
       }
     },
     {
       "id": "l172",
       "title": {
-        "es-ES": "Carta 172. Epistolario. tercera parte 172 a un discípulo suyo que estaba enfermo"
+        "es-ES": "Carta 172. Epistolario. tercera parte 172 a un discípulo suyo que estaba enfermo",
+        "pt-BR": "Carta 172. A um discípulo seu que estava enfermo"
       }
     },
     {
       "id": "l173",
       "title": {
-        "es-ES": "Carta 173. A un discípulo suyo"
+        "es-ES": "Carta 173. A un discípulo suyo",
+        "pt-BR": "Carta 173. A um discípulo seu"
       }
     },
     {
       "id": "l174",
       "title": {
-        "es-ES": "Carta 174. A otro discípulo suyo"
+        "es-ES": "Carta 174. A otro discípulo suyo",
+        "pt-BR": "Carta 174. A outro discípulo seu"
       }
     },
     {
       "id": "l179",
       "title": {
-        "es-ES": "Carta 179. A un prelado de granada [don Pedro"
+        "es-ES": "Carta 179. A un prelado de granada [don Pedro",
+        "pt-BR": "Carta 179. A um prelado de Granada [dom Pedro […]"
       }
     },
     {
       "id": "l183",
       "title": {
-        "es-ES": "Carta 183. A un amig0 sacerdote"
+        "es-ES": "Carta 183. A un amig0 sacerdote",
+        "pt-BR": "Carta 183. A um amigo sacerdote"
       }
     },
     {
       "id": "l184",
       "title": {
-        "es-ES": "Carta 184. Epistolario. cuarta parte 184 a un mancebo"
+        "es-ES": "Carta 184. Epistolario. cuarta parte 184 a un mancebo",
+        "pt-BR": "Carta 184. A um jovem"
       }
     },
     {
       "id": "l185",
       "title": {
-        "es-ES": "Carta 185. De guzmán, mi Señor, en avila\""
+        "es-ES": "Carta 185. De guzmán, mi Señor, en avila\"",
+        "pt-BR": "Carta 185. De Guzmán, meu Senhor, em Ávila"
       }
     },
     {
       "id": "l186",
       "title": {
-        "es-ES": "Carta 186. La marquesa de priego"
+        "es-ES": "Carta 186. La marquesa de priego",
+        "pt-BR": "Carta 186. A marquesa de Priego"
       }
     },
     {
       "id": "l198",
       "title": {
-        "es-ES": "Carta 198. A la señora duquesa de arcos"
+        "es-ES": "Carta 198. A la señora duquesa de arcos",
+        "pt-BR": "Carta 198. À senhora duquesa de Arcos"
       }
     },
     {
       "id": "l200",
       "title": {
-        "es-ES": "Carta 200. A una hija devota suya"
+        "es-ES": "Carta 200. A una hija devota suya",
+        "pt-BR": "Carta 200. A uma filha devota sua"
       }
     },
     {
       "id": "l201",
       "title": {
-        "es-ES": "Carta 201. A una su devota"
+        "es-ES": "Carta 201. A una su devota",
+        "pt-BR": "Carta 201. A uma devota sua"
       }
     },
     {
       "id": "l205",
       "title": {
-        "es-ES": "Carta 205. A una doncella"
+        "es-ES": "Carta 205. A una doncella",
+        "pt-BR": "Carta 205. A uma donzela"
       }
     },
     {
       "id": "l206",
       "title": {
-        "es-ES": "Carta 206. A una ^ suya"
+        "es-ES": "Carta 206. A una ^ suya",
+        "pt-BR": "Carta 206. A uma […] sua"
       }
     },
     {
       "id": "l209",
       "title": {
-        "es-ES": "Carta 209. Epistolario. quinta parte 211 a un hijo espiritual, clérigo"
+        "es-ES": "Carta 209. Epistolario. quinta parte 211 a un hijo espiritual, clérigo",
+        "pt-BR": "Carta 209. A um filho espiritual, clérigo"
       }
     },
     {
       "id": "l212",
       "title": {
-        "es-ES": "Carta 212. A una señora"
+        "es-ES": "Carta 212. A una señora",
+        "pt-BR": "Carta 212. A uma senhora"
       }
     },
     {
       "id": "l213",
       "title": {
-        "es-ES": "Carta 213. Epistolario. quinta parte 213 -a- una viuda, madre j. gonzález"
+        "es-ES": "Carta 213. Epistolario. quinta parte 213 -a- una viuda, madre j. gonzález",
+        "pt-BR": "Carta 213. A uma viúva, madre J. González"
       }
     },
     {
       "id": "l222",
       "title": {
-        "es-ES": "Carta 222. A una religiosa"
+        "es-ES": "Carta 222. A una religiosa",
+        "pt-BR": "Carta 222. A uma religiosa"
       }
     },
     {
       "id": "l223",
       "title": {
-        "es-ES": "Carta 223. Ta un discípulo"
+        "es-ES": "Carta 223. Ta un discípulo",
+        "pt-BR": "Carta 223. A um discípulo"
       }
     },
     {
       "id": "l226",
       "title": {
-        "es-ES": "Carta 226. A una religiosa"
+        "es-ES": "Carta 226. A una religiosa",
+        "pt-BR": "Carta 226. A uma religiosa"
       }
     },
     {
       "id": "l227",
       "title": {
-        "es-ES": "Carta 227. A una abadesa"
+        "es-ES": "Carta 227. A una abadesa",
+        "pt-BR": "Carta 227. A uma abadessa"
       }
     },
     {
       "id": "l229",
       "title": {
-        "es-ES": "Carta 229. A una persona que padecía sequedades y tentaciones"
+        "es-ES": "Carta 229. A una persona que padecía sequedades y tentaciones",
+        "pt-BR": "Carta 229. A uma pessoa que padecia securas e tentações"
       }
     },
     {
       "id": "l230",
       "title": {
-        "es-ES": "Carta 230. A un su discípulo"
+        "es-ES": "Carta 230. A un su discípulo",
+        "pt-BR": "Carta 230. A um discípulo seu"
       }
     },
     {
       "id": "l237",
       "title": {
-        "es-ES": "Carta 237. A una religiosa"
+        "es-ES": "Carta 237. A una religiosa",
+        "pt-BR": "Carta 237. A uma religiosa"
       }
     },
     {
       "id": "l238",
       "title": {
-        "es-ES": "Carta 238. Un mancebo"
+        "es-ES": "Carta 238. Un mancebo",
+        "pt-BR": "Carta 238. Um jovem"
       }
     },
     {
       "id": "l249",
       "title": {
-        "es-ES": "Carta 249. A la condesa de feria"
+        "es-ES": "Carta 249. A la condesa de feria",
+        "pt-BR": "Carta 249. À condessa de Feria"
       }
     },
     {
       "id": "l250",
       "title": {
-        "es-ES": "Carta 250. De vida chíu-"
+        "es-ES": "Carta 250. De vida chíu-",
+        "pt-BR": "Carta 250. De vida chíu- […]"
       }
     },
     {
       "id": "l251",
       "title": {
-        "es-ES": "Carta 251. I"
+        "es-ES": "Carta 251. I",
+        "pt-BR": "Carta 251. I"
       }
     },
     {
       "id": "l252",
       "title": {
-        "es-ES": "Carta 252. H"
+        "es-ES": "Carta 252. H",
+        "pt-BR": "Carta 252. H"
       }
     },
     {
       "id": "l253",
       "title": {
-        "es-ES": "Carta 253. A. h., ms. 12-12-2/266, f. 184 ¡r.)"
+        "es-ES": "Carta 253. A. h., ms. 12-12-2/266, f. 184 ¡r.)",
+        "pt-BR": "Carta 253. A. h., ms. 12-12-2/266, f. 184 ¡r.)"
       }
     }
   ]
