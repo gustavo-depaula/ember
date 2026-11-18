@@ -14,17 +14,23 @@
   "description": {
     "es-ES": "La primera redacción del Camino de perfección, según el autógrafo de El Escorial (73 capítulos), en la ortografía de la Santa y con las notas del P. Silverio de Santa Teresa. La segunda redacción (autógrafo de Valladolid) es el libro «Camino de perfección».",
     "en-US": "The first redaction of the Way of Perfection, from the Escorial autograph (73 chapters), in the saint's own spelling with P. Silverio de Santa Teresa's notes (Spanish only). The second redaction, from the Valladolid autograph, is the book The Way of Perfection.",
-    "pt-BR": "A primeira redação do Caminho de perfeição, segundo o autógrafo do Escorial (73 capítulos), na ortografia da Santa e com as notas do P. Silverio de Santa Teresa."
+    "pt-BR": "A primeira redação do Caminho de perfeição, segundo o autógrafo do Escorial (73 capítulos), na ortografia da Santa e com as notas do P. Silverio de Santa Teresa. A segunda redação (autógrafo de Valladolid) é o livro «Caminho de perfeição»."
   },
   "composed": "1566–1567",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "teresa-of-avila/camino-escorial",
   "editions": {
     "es-ES": {
       "editor": "P. Silverio de Santa Teresa",
       "year": 1916
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -48,445 +54,519 @@
     {
       "id": "prologo",
       "title": {
-        "es-ES": "Prólogo"
+        "es-ES": "Prólogo",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "c01",
       "title": {
-        "es-ES": "Capítulo I"
+        "es-ES": "Capítulo I",
+        "pt-BR": "Capítulo I"
       }
     },
     {
       "id": "c02",
       "title": {
-        "es-ES": "Capítulo II"
+        "es-ES": "Capítulo II",
+        "pt-BR": "Capítulo II"
       }
     },
     {
       "id": "c03",
       "title": {
-        "es-ES": "Capítulo III"
+        "es-ES": "Capítulo III",
+        "pt-BR": "Capítulo III"
       }
     },
     {
       "id": "c04",
       "title": {
-        "es-ES": "Capítulo IV"
+        "es-ES": "Capítulo IV",
+        "pt-BR": "Capítulo IV"
       }
     },
     {
       "id": "c05",
       "title": {
-        "es-ES": "Capítulo V"
+        "es-ES": "Capítulo V",
+        "pt-BR": "Capítulo V"
       }
     },
     {
       "id": "c06",
       "title": {
-        "es-ES": "Capítulo VI"
+        "es-ES": "Capítulo VI",
+        "pt-BR": "Capítulo VI"
       }
     },
     {
       "id": "c07",
       "title": {
-        "es-ES": "Capítulo VII"
+        "es-ES": "Capítulo VII",
+        "pt-BR": "Capítulo VII"
       }
     },
     {
       "id": "c08",
       "title": {
-        "es-ES": "Capítulo VIII"
+        "es-ES": "Capítulo VIII",
+        "pt-BR": "Capítulo VIII"
       }
     },
     {
       "id": "c09",
       "title": {
-        "es-ES": "Capítulo IX"
+        "es-ES": "Capítulo IX",
+        "pt-BR": "Capítulo IX"
       }
     },
     {
       "id": "c10",
       "title": {
-        "es-ES": "Capítulo X"
+        "es-ES": "Capítulo X",
+        "pt-BR": "Capítulo X"
       }
     },
     {
       "id": "c11",
       "title": {
-        "es-ES": "Capítulo XI"
+        "es-ES": "Capítulo XI",
+        "pt-BR": "Capítulo XI"
       }
     },
     {
       "id": "c12",
       "title": {
-        "es-ES": "Capítulo XII"
+        "es-ES": "Capítulo XII",
+        "pt-BR": "Capítulo XII"
       }
     },
     {
       "id": "c13",
       "title": {
-        "es-ES": "Capítulo XIII"
+        "es-ES": "Capítulo XIII",
+        "pt-BR": "Capítulo XIII"
       }
     },
     {
       "id": "c14",
       "title": {
-        "es-ES": "Capítulo XIV"
+        "es-ES": "Capítulo XIV",
+        "pt-BR": "Capítulo XIV"
       }
     },
     {
       "id": "c15",
       "title": {
-        "es-ES": "Capítulo XV"
+        "es-ES": "Capítulo XV",
+        "pt-BR": "Capítulo XV"
       }
     },
     {
       "id": "c16",
       "title": {
-        "es-ES": "Capítulo XVI"
+        "es-ES": "Capítulo XVI",
+        "pt-BR": "Capítulo XVI"
       }
     },
     {
       "id": "c17",
       "title": {
-        "es-ES": "Capítulo XVII"
+        "es-ES": "Capítulo XVII",
+        "pt-BR": "Capítulo XVII"
       }
     },
     {
       "id": "c18",
       "title": {
-        "es-ES": "Capítulo XVIII"
+        "es-ES": "Capítulo XVIII",
+        "pt-BR": "Capítulo XVIII"
       }
     },
     {
       "id": "c19",
       "title": {
-        "es-ES": "Capítulo XIX"
+        "es-ES": "Capítulo XIX",
+        "pt-BR": "Capítulo XIX"
       }
     },
     {
       "id": "c20",
       "title": {
-        "es-ES": "Capítulo XX"
+        "es-ES": "Capítulo XX",
+        "pt-BR": "Capítulo XX"
       }
     },
     {
       "id": "c21",
       "title": {
-        "es-ES": "Capítulo XXI"
+        "es-ES": "Capítulo XXI",
+        "pt-BR": "Capítulo XXI"
       }
     },
     {
       "id": "c22",
       "title": {
-        "es-ES": "Capítulo XXII"
+        "es-ES": "Capítulo XXII",
+        "pt-BR": "Capítulo XXII"
       }
     },
     {
       "id": "c23",
       "title": {
-        "es-ES": "Capítulo XXIII"
+        "es-ES": "Capítulo XXIII",
+        "pt-BR": "Capítulo XXIII"
       }
     },
     {
       "id": "c24",
       "title": {
-        "es-ES": "Capítulo XXIV"
+        "es-ES": "Capítulo XXIV",
+        "pt-BR": "Capítulo XXIV"
       }
     },
     {
       "id": "c25",
       "title": {
-        "es-ES": "Capítulo XXV"
+        "es-ES": "Capítulo XXV",
+        "pt-BR": "Capítulo XXV"
       }
     },
     {
       "id": "c26",
       "title": {
-        "es-ES": "Capítulo XXVI"
+        "es-ES": "Capítulo XXVI",
+        "pt-BR": "Capítulo XXVI"
       }
     },
     {
       "id": "c27",
       "title": {
-        "es-ES": "Capítulo XXVII"
+        "es-ES": "Capítulo XXVII",
+        "pt-BR": "Capítulo XXVII"
       }
     },
     {
       "id": "c28",
       "title": {
-        "es-ES": "Capítulo XXVIII"
+        "es-ES": "Capítulo XXVIII",
+        "pt-BR": "Capítulo XXVIII"
       }
     },
     {
       "id": "c29",
       "title": {
-        "es-ES": "Capítulo XXIX"
+        "es-ES": "Capítulo XXIX",
+        "pt-BR": "Capítulo XXIX"
       }
     },
     {
       "id": "c30",
       "title": {
-        "es-ES": "Capítulo XXX"
+        "es-ES": "Capítulo XXX",
+        "pt-BR": "Capítulo XXX"
       }
     },
     {
       "id": "c31",
       "title": {
-        "es-ES": "Capítulo XXXI"
+        "es-ES": "Capítulo XXXI",
+        "pt-BR": "Capítulo XXXI"
       }
     },
     {
       "id": "c32",
       "title": {
-        "es-ES": "Capítulo XXXII"
+        "es-ES": "Capítulo XXXII",
+        "pt-BR": "Capítulo XXXII"
       }
     },
     {
       "id": "c33",
       "title": {
-        "es-ES": "Capítulo XXXIII"
+        "es-ES": "Capítulo XXXIII",
+        "pt-BR": "Capítulo XXXIII"
       }
     },
     {
       "id": "c34",
       "title": {
-        "es-ES": "Capítulo XXXIV"
+        "es-ES": "Capítulo XXXIV",
+        "pt-BR": "Capítulo XXXIV"
       }
     },
     {
       "id": "c35",
       "title": {
-        "es-ES": "Capítulo XXXV"
+        "es-ES": "Capítulo XXXV",
+        "pt-BR": "Capítulo XXXV"
       }
     },
     {
       "id": "c36",
       "title": {
-        "es-ES": "Capítulo XXXVI"
+        "es-ES": "Capítulo XXXVI",
+        "pt-BR": "Capítulo XXXVI"
       }
     },
     {
       "id": "c37",
       "title": {
-        "es-ES": "Capítulo XXXVII"
+        "es-ES": "Capítulo XXXVII",
+        "pt-BR": "Capítulo XXXVII"
       }
     },
     {
       "id": "c38",
       "title": {
-        "es-ES": "Capítulo XXXVIII"
+        "es-ES": "Capítulo XXXVIII",
+        "pt-BR": "Capítulo XXXVIII"
       }
     },
     {
       "id": "c39",
       "title": {
-        "es-ES": "Capítulo XXXIX"
+        "es-ES": "Capítulo XXXIX",
+        "pt-BR": "Capítulo XXXIX"
       }
     },
     {
       "id": "c40",
       "title": {
-        "es-ES": "Capítulo XL"
+        "es-ES": "Capítulo XL",
+        "pt-BR": "Capítulo XL"
       }
     },
     {
       "id": "c41",
       "title": {
-        "es-ES": "Capítulo XLI"
+        "es-ES": "Capítulo XLI",
+        "pt-BR": "Capítulo XLI"
       }
     },
     {
       "id": "c42",
       "title": {
-        "es-ES": "Capítulo XLII"
+        "es-ES": "Capítulo XLII",
+        "pt-BR": "Capítulo XLII"
       }
     },
     {
       "id": "c43",
       "title": {
-        "es-ES": "Capítulo XLIII"
+        "es-ES": "Capítulo XLIII",
+        "pt-BR": "Capítulo XLIII"
       }
     },
     {
       "id": "c44",
       "title": {
-        "es-ES": "Capítulo XLIV"
+        "es-ES": "Capítulo XLIV",
+        "pt-BR": "Capítulo XLIV"
       }
     },
     {
       "id": "c45",
       "title": {
-        "es-ES": "Capítulo XLV"
+        "es-ES": "Capítulo XLV",
+        "pt-BR": "Capítulo XLV"
       }
     },
     {
       "id": "c46",
       "title": {
-        "es-ES": "Capítulo XLVI"
+        "es-ES": "Capítulo XLVI",
+        "pt-BR": "Capítulo XLVI"
       }
     },
     {
       "id": "c47",
       "title": {
-        "es-ES": "Capítulo XLVII"
+        "es-ES": "Capítulo XLVII",
+        "pt-BR": "Capítulo XLVII"
       }
     },
     {
       "id": "c48",
       "title": {
-        "es-ES": "Capítulo XLVIII"
+        "es-ES": "Capítulo XLVIII",
+        "pt-BR": "Capítulo XLVIII"
       }
     },
     {
       "id": "c49",
       "title": {
-        "es-ES": "Capítulo XLIX"
+        "es-ES": "Capítulo XLIX",
+        "pt-BR": "Capítulo XLIX"
       }
     },
     {
       "id": "c50",
       "title": {
-        "es-ES": "Capítulo L"
+        "es-ES": "Capítulo L",
+        "pt-BR": "Capítulo L"
       }
     },
     {
       "id": "c51",
       "title": {
-        "es-ES": "Capítulo LI"
+        "es-ES": "Capítulo LI",
+        "pt-BR": "Capítulo LI"
       }
     },
     {
       "id": "c52",
       "title": {
-        "es-ES": "Capítulo LII"
+        "es-ES": "Capítulo LII",
+        "pt-BR": "Capítulo LII"
       }
     },
     {
       "id": "c53",
       "title": {
-        "es-ES": "Capítulo LIII"
+        "es-ES": "Capítulo LIII",
+        "pt-BR": "Capítulo LIII"
       }
     },
     {
       "id": "c54",
       "title": {
-        "es-ES": "Capítulo LIV"
+        "es-ES": "Capítulo LIV",
+        "pt-BR": "Capítulo LIV"
       }
     },
     {
       "id": "c55",
       "title": {
-        "es-ES": "Capítulo LV"
+        "es-ES": "Capítulo LV",
+        "pt-BR": "Capítulo LV"
       }
     },
     {
       "id": "c56",
       "title": {
-        "es-ES": "Capítulo LVI"
+        "es-ES": "Capítulo LVI",
+        "pt-BR": "Capítulo LVI"
       }
     },
     {
       "id": "c57",
       "title": {
-        "es-ES": "Capítulo LVII"
+        "es-ES": "Capítulo LVII",
+        "pt-BR": "Capítulo LVII"
       }
     },
     {
       "id": "c58",
       "title": {
-        "es-ES": "Capítulo LVIII"
+        "es-ES": "Capítulo LVIII",
+        "pt-BR": "Capítulo LVIII"
       }
     },
     {
       "id": "c59",
       "title": {
-        "es-ES": "Capítulo LIX"
+        "es-ES": "Capítulo LIX",
+        "pt-BR": "Capítulo LIX"
       }
     },
     {
       "id": "c60",
       "title": {
-        "es-ES": "Capítulo LX"
+        "es-ES": "Capítulo LX",
+        "pt-BR": "Capítulo LX"
       }
     },
     {
       "id": "c61",
       "title": {
-        "es-ES": "Capítulo LXI"
+        "es-ES": "Capítulo LXI",
+        "pt-BR": "Capítulo LXI"
       }
     },
     {
       "id": "c62",
       "title": {
-        "es-ES": "Capítulo LXII"
+        "es-ES": "Capítulo LXII",
+        "pt-BR": "Capítulo LXII"
       }
     },
     {
       "id": "c63",
       "title": {
-        "es-ES": "Capítulo LXIII"
+        "es-ES": "Capítulo LXIII",
+        "pt-BR": "Capítulo LXIII"
       }
     },
     {
       "id": "c64",
       "title": {
-        "es-ES": "Capítulo LXIV"
+        "es-ES": "Capítulo LXIV",
+        "pt-BR": "Capítulo LXIV"
       }
     },
     {
       "id": "c65",
       "title": {
-        "es-ES": "Capítulo LXV"
+        "es-ES": "Capítulo LXV",
+        "pt-BR": "Capítulo LXV"
       }
     },
     {
       "id": "c66",
       "title": {
-        "es-ES": "Capítulo LXVI"
+        "es-ES": "Capítulo LXVI",
+        "pt-BR": "Capítulo LXVI"
       }
     },
     {
       "id": "c67",
       "title": {
-        "es-ES": "Capítulo LXVII"
+        "es-ES": "Capítulo LXVII",
+        "pt-BR": "Capítulo LXVII"
       }
     },
     {
       "id": "c68",
       "title": {
-        "es-ES": "Capítulo LXVIII"
+        "es-ES": "Capítulo LXVIII",
+        "pt-BR": "Capítulo LXVIII"
       }
     },
     {
       "id": "c69",
       "title": {
-        "es-ES": "Capítulo LXIX"
+        "es-ES": "Capítulo LXIX",
+        "pt-BR": "Capítulo LXIX"
       }
     },
     {
       "id": "c70",
       "title": {
-        "es-ES": "Capítulo LXX"
+        "es-ES": "Capítulo LXX",
+        "pt-BR": "Capítulo LXX"
       }
     },
     {
       "id": "c71",
       "title": {
-        "es-ES": "Capítulo LXXI"
+        "es-ES": "Capítulo LXXI",
+        "pt-BR": "Capítulo LXXI"
       }
     },
     {
       "id": "c72",
       "title": {
-        "es-ES": "Capítulo LXXII"
+        "es-ES": "Capítulo LXXII",
+        "pt-BR": "Capítulo LXXII"
       }
     },
     {
       "id": "c73",
       "title": {
-        "es-ES": "Capítulo LXXIII"
+        "es-ES": "Capítulo LXXIII",
+        "pt-BR": "Capítulo LXXIII"
       }
     }
   ]
