@@ -18,13 +18,19 @@
   },
   "composed": "c. 1425-1450",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "thomas-a-kempis/tractatuli-minores",
   "editions": {
     "la": {
       "editor": "Michael Joseph Pohl",
       "year": 1904
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,37 +47,43 @@
     {
       "id": "epistula-devota",
       "title": {
-        "la": "1. Epistula devota ad quendam regularem"
+        "la": "1. Epistula devota ad quendam regularem",
+        "pt-BR": "1. Carta devota a certo religioso"
       }
     },
     {
       "id": "recommendatio-humilitatis",
       "title": {
-        "la": "2. Recommendatio humilitatis"
+        "la": "2. Recommendatio humilitatis",
+        "pt-BR": "2. Elogio da humildade"
       }
     },
     {
       "id": "de-mortificata-vita",
       "title": {
-        "la": "3. De mortificata vita pro Christo"
+        "la": "3. De mortificata vita pro Christo",
+        "pt-BR": "3. Da vida mortificada por Cristo"
       }
     },
     {
       "id": "de-bona-pacifica-vita",
       "title": {
-        "la": "4. De bona pacifica vita cum Deo et hominibus"
+        "la": "4. De bona pacifica vita cum Deo et hominibus",
+        "pt-BR": "4. Da vida boa e pacífica com Deus e com os homens"
       }
     },
     {
       "id": "de-elevatione-mentis",
       "title": {
-        "la": "5. De elevatione mentis ad Deum"
+        "la": "5. De elevatione mentis ad Deum",
+        "pt-BR": "5. Da elevação da mente a Deus"
       }
     },
     {
       "id": "brevis-admonitio",
       "title": {
-        "la": "6. Brevis admonitio spiritualis exercitii"
+        "la": "6. Brevis admonitio spiritualis exercitii",
+        "pt-BR": "6. Breve admoestação sobre o exercício espiritual"
       }
     }
   ]
