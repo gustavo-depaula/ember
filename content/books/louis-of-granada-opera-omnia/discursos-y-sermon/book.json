@@ -18,13 +18,19 @@
   },
   "composed": "1580s",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "louis-of-granada/discursos",
   "editions": {
     "es-ES": {
       "editor": "Justo Cuervo OP",
       "year": 1906
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,25 +47,29 @@
     {
       "id": "encarnacion-lector",
       "title": {
-        "es-ES": "Discurso de la Encarnación: al curioso lector"
+        "es-ES": "Discurso de la Encarnación: al curioso lector",
+        "pt-BR": "Discurso da Encarnação: ao leitor curioso"
       }
     },
     {
       "id": "encarnacion",
       "title": {
-        "es-ES": "Discurso devoto del misterio de la Encarnación del Hijo de Dios"
+        "es-ES": "Discurso devoto del misterio de la Encarnación del Hijo de Dios",
+        "pt-BR": "Discurso devoto do mistério da Encarnação do Filho de Deus"
       }
     },
     {
       "id": "redencion",
       "title": {
-        "es-ES": "Discurso de la Pasión y redención del Salvador"
+        "es-ES": "Discurso de la Pasión y redención del Salvador",
+        "pt-BR": "Discurso da Paixão e redenção do Salvador"
       }
     },
     {
       "id": "caidas",
       "title": {
-        "es-ES": "Sermón en que se da aviso de las caídas públicas"
+        "es-ES": "Sermón en que se da aviso de las caídas públicas",
+        "pt-BR": "Sermão em que se dá aviso sobre as quedas públicas"
       }
     }
   ]
