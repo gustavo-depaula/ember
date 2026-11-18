@@ -14,17 +14,23 @@
   "description": {
     "es-ES": "Tratados-sermón de san Juan de Ávila de la Tercera parte de sus Obras (Madrid 1596): veintiséis sobre el Santísimo Sacramento (el Corpus, la comunión, sus efectos), cuatro sobre el Espíritu Santo y trece sobre la Virgen María. Edición del Apostolado de la Prensa (1941) con sumarios, que reproduce el Apostolado Mariano; el Tratado primero del Sacramento es el Tratado del amor de Dios, que tiene su propio libro.",
     "en-US": "Sermon-treatises of St. John of Ávila from the Third Part of his Works (Madrid 1596): twenty-six on the Blessed Sacrament (Corpus Christi, communion and its effects), four on the Holy Spirit and thirteen on the Virgin Mary. The Apostolado de la Prensa edition (1941) with its summaries, reprinted by Apostolado Mariano; the first treatise on the Sacrament is the Treatise on the Love of God, which is its own book.",
-    "pt-BR": "Tratados-sermão de São João de Ávila da Terceira parte de suas Obras (Madri 1596): vinte e seis sobre o Santíssimo Sacramento, quatro sobre o Espírito Santo e treze sobre a Virgem Maria."
+    "pt-BR": "Tratados-sermão de São João de Ávila da Terceira parte de suas Obras (Madri 1596): vinte e seis sobre o Santíssimo Sacramento (Corpus Christi, a comunhão e seus efeitos), quatro sobre o Espírito Santo e treze sobre a Virgem Maria. Edição do Apostolado de la Prensa (1941), com sumários, reproduzida pelo Apostolado Mariano; o Tratado primeiro do Sacramento é o Tratado do amor de Deus, que tem seu próprio livro."
   },
   "composed": "c. 1530–1569",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "john-of-avila/sermones",
   "editions": {
     "es-ES": {
       "editor": "Apostolado de la Prensa (1941), reprinted by Apostolado Mariano",
       "year": 2008
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -49,259 +55,302 @@
     {
       "id": "sacramento-02",
       "title": {
-        "es-ES": "Santísimo Sacramento 2. La procesión del Corpus"
+        "es-ES": "Santísimo Sacramento 2. La procesión del Corpus",
+        "pt-BR": "Santíssimo Sacramento 2. A procissão de Corpus Christi"
       }
     },
     {
       "id": "sacramento-03",
       "title": {
-        "es-ES": "Santísimo Sacramento 3. La comunión alimento del alma"
+        "es-ES": "Santísimo Sacramento 3. La comunión alimento del alma",
+        "pt-BR": "Santíssimo Sacramento 3. A comunhão, alimento da alma"
       }
     },
     {
       "id": "sacramento-04",
       "title": {
-        "es-ES": "Santísimo Sacramento 4. La comunión y la vida divina"
+        "es-ES": "Santísimo Sacramento 4. La comunión y la vida divina",
+        "pt-BR": "Santíssimo Sacramento 4. A comunhão e a vida divina"
       }
     },
     {
       "id": "sacramento-05",
       "title": {
-        "es-ES": "Santísimo Sacramento 5. Caída de Adán y Eva"
+        "es-ES": "Santísimo Sacramento 5. Caída de Adán y Eva",
+        "pt-BR": "Santíssimo Sacramento 5. Queda de Adão e Eva"
       }
     },
     {
       "id": "sacramento-06",
       "title": {
-        "es-ES": "Santísimo Sacramento 6. Suavidad de Jesús sacramentado"
+        "es-ES": "Santísimo Sacramento 6. Suavidad de Jesús sacramentado",
+        "pt-BR": "Santíssimo Sacramento 6. Suavidade de Jesus sacramentado"
       }
     },
     {
       "id": "sacramento-07",
       "title": {
-        "es-ES": "Santísimo Sacramento 7. La comunión y la Pasión de Cristo"
+        "es-ES": "Santísimo Sacramento 7. La comunión y la Pasión de Cristo",
+        "pt-BR": "Santíssimo Sacramento 7. A comunhão e a Paixão de Cristo"
       }
     },
     {
       "id": "sacramento-08",
       "title": {
-        "es-ES": "Santísimo Sacramento 8. Del propio conocimiento"
+        "es-ES": "Santísimo Sacramento 8. Del propio conocimiento",
+        "pt-BR": "Santíssimo Sacramento 8. Do conhecimento próprio"
       }
     },
     {
       "id": "sacramento-09",
       "title": {
-        "es-ES": "Santísimo Sacramento 9. La comunión remedio contra la concupiscencia"
+        "es-ES": "Santísimo Sacramento 9. La comunión remedio contra la concupiscencia",
+        "pt-BR": "Santíssimo Sacramento 9. A comunhão, remédio contra a concupiscência"
       }
     },
     {
       "id": "sacramento-10",
       "title": {
-        "es-ES": "Santísimo Sacramento 10. Cristo es nuestra cabeza"
+        "es-ES": "Santísimo Sacramento 10. Cristo es nuestra cabeza",
+        "pt-BR": "Santíssimo Sacramento 10. Cristo é nossa cabeça"
       }
     },
     {
       "id": "sacramento-11",
       "title": {
-        "es-ES": "Santísimo Sacramento 11. Preparación para la comunión"
+        "es-ES": "Santísimo Sacramento 11. Preparación para la comunión",
+        "pt-BR": "Santíssimo Sacramento 11. Preparação para a comunhão"
       }
     },
     {
       "id": "sacramento-12",
       "title": {
-        "es-ES": "Santísimo Sacramento 12. Señales de la verdadera Iglesia"
+        "es-ES": "Santísimo Sacramento 12. Señales de la verdadera Iglesia",
+        "pt-BR": "Santíssimo Sacramento 12. Sinais da verdadeira Igreja"
       }
     },
     {
       "id": "sacramento-13",
       "title": {
-        "es-ES": "Santísimo Sacramento 13. Reverencia en la procesión del Corpus"
+        "es-ES": "Santísimo Sacramento 13. Reverencia en la procesión del Corpus",
+        "pt-BR": "Santíssimo Sacramento 13. Reverência na procissão de Corpus Christi"
       }
     },
     {
       "id": "sacramento-14",
       "title": {
-        "es-ES": "Santísimo Sacramento 14. El pan celestial"
+        "es-ES": "Santísimo Sacramento 14. El pan celestial",
+        "pt-BR": "Santíssimo Sacramento 14. O pão celestial"
       }
     },
     {
       "id": "sacramento-15",
       "title": {
-        "es-ES": "Santísimo Sacramento 15. La Eucaristía, retablo de las maravillas de Dios"
+        "es-ES": "Santísimo Sacramento 15. La Eucaristía, retablo de las maravillas de Dios",
+        "pt-BR": "Santíssimo Sacramento 15. A Eucaristia, retábulo das maravilhas de Deus"
       }
     },
     {
       "id": "sacramento-16",
       "title": {
-        "es-ES": "Santísimo Sacramento 16. A comunión prenda de vida eterna"
+        "es-ES": "Santísimo Sacramento 16. A comunión prenda de vida eterna",
+        "pt-BR": "Santíssimo Sacramento 16. A comunhão, penhor de vida eterna"
       }
     },
     {
       "id": "sacramento-17",
       "title": {
-        "es-ES": "Santísimo Sacramento 17. La comunión remedio contra el pecado venial"
+        "es-ES": "Santísimo Sacramento 17. La comunión remedio contra el pecado venial",
+        "pt-BR": "Santíssimo Sacramento 17. A comunhão, remédio contra o pecado venial"
       }
     },
     {
       "id": "sacramento-18",
       "title": {
-        "es-ES": "Santísimo Sacramento 18. Fiesta y procesión del Corpus"
+        "es-ES": "Santísimo Sacramento 18. Fiesta y procesión del Corpus",
+        "pt-BR": "Santíssimo Sacramento 18. Festa e procissão de Corpus Christi"
       }
     },
     {
       "id": "sacramento-19",
       "title": {
-        "es-ES": "Santísimo Sacramento 19. El maná celestial"
+        "es-ES": "Santísimo Sacramento 19. El maná celestial",
+        "pt-BR": "Santíssimo Sacramento 19. O maná celestial"
       }
     },
     {
       "id": "sacramento-20",
       "title": {
-        "es-ES": "Santísimo Sacramento 20. El corazón de Dios padre"
+        "es-ES": "Santísimo Sacramento 20. El corazón de Dios padre",
+        "pt-BR": "Santíssimo Sacramento 20. O coração de Deus Pai"
       }
     },
     {
       "id": "sacramento-21",
       "title": {
-        "es-ES": "Santísimo Sacramento 21. Una persona mística con Cristo"
+        "es-ES": "Santísimo Sacramento 21. Una persona mística con Cristo",
+        "pt-BR": "Santíssimo Sacramento 21. Uma pessoa mística com Cristo"
       }
     },
     {
       "id": "sacramento-22",
       "title": {
-        "es-ES": "Santísimo Sacramento 22. La Eucaristía, dulce remedio del alma"
+        "es-ES": "Santísimo Sacramento 22. La Eucaristía, dulce remedio del alma",
+        "pt-BR": "Santíssimo Sacramento 22. A Eucaristia, doce remédio da alma"
       }
     },
     {
       "id": "sacramento-23",
       "title": {
-        "es-ES": "Santísimo Sacramento 23. Un caso de conciencia sobre la comunión"
+        "es-ES": "Santísimo Sacramento 23. Un caso de conciencia sobre la comunión",
+        "pt-BR": "Santíssimo Sacramento 23. Um caso de consciência sobre a comunhão"
       }
     },
     {
       "id": "sacramento-24",
       "title": {
-        "es-ES": "Santísimo Sacramento 24. Empeño del amor divino"
+        "es-ES": "Santísimo Sacramento 24. Empeño del amor divino",
+        "pt-BR": "Santíssimo Sacramento 24. Penhor do amor divino"
       }
     },
     {
       "id": "sacramento-25",
       "title": {
-        "es-ES": "Santísimo Sacramento 25. La comunión realza nuestras buenas obras"
+        "es-ES": "Santísimo Sacramento 25. La comunión realza nuestras buenas obras",
+        "pt-BR": "Santíssimo Sacramento 25. A comunhão realça nossas boas obras"
       }
     },
     {
       "id": "sacramento-26",
       "title": {
-        "es-ES": "Santísimo Sacramento 26. ¡Acordaos de mí!"
+        "es-ES": "Santísimo Sacramento 26. ¡Acordaos de mí!",
+        "pt-BR": "Santíssimo Sacramento 26. Lembrai-vos de mim!"
       }
     },
     {
       "id": "sacramento-27",
       "title": {
-        "es-ES": "Santísimo Sacramento 27. Efectos de la comunión"
+        "es-ES": "Santísimo Sacramento 27. Efectos de la comunión",
+        "pt-BR": "Santíssimo Sacramento 27. Efeitos da comunhão"
       }
     },
     {
       "id": "espiritu-01",
       "title": {
-        "es-ES": "Espíritu Santo 1. Apercibimiento para la venida del Espíritu Santo"
+        "es-ES": "Espíritu Santo 1. Apercibimiento para la venida del Espíritu Santo",
+        "pt-BR": "Espírito Santo 1. Preparação para a vinda do Espírito Santo"
       }
     },
     {
       "id": "espiritu-02",
       "title": {
-        "es-ES": "Espíritu Santo 2. El Espíritu de Cristo"
+        "es-ES": "Espíritu Santo 2. El Espíritu de Cristo",
+        "pt-BR": "Espírito Santo 2. O Espírito de Cristo"
       }
     },
     {
       "id": "espiritu-03",
       "title": {
-        "es-ES": "Espíritu Santo 3. La venida del Espíritu Santo"
+        "es-ES": "Espíritu Santo 3. La venida del Espíritu Santo",
+        "pt-BR": "Espírito Santo 3. A vinda do Espírito Santo"
       }
     },
     {
       "id": "espiritu-04",
       "title": {
-        "es-ES": "Espíritu Santo 4. El Espíritu Santo en las almas"
+        "es-ES": "Espíritu Santo 4. El Espíritu Santo en las almas",
+        "pt-BR": "Espírito Santo 4. O Espírito Santo nas almas"
       }
     },
     {
       "id": "virgen-02",
       "title": {
-        "es-ES": "Virgen 2. Matrimonio de la Virgen y San José"
+        "es-ES": "Virgen 2. Matrimonio de la Virgen y San José",
+        "pt-BR": "Virgem 2. Matrimônio da Virgem e São José"
       }
     },
     {
       "id": "virgen-03",
       "title": {
-        "es-ES": "Virgen 3. Natividad de la Santísima Virgen María (I)"
+        "es-ES": "Virgen 3. Natividad de la Santísima Virgen María (I)",
+        "pt-BR": "Virgem 3. Natividade da Santíssima Virgem Maria (I)"
       }
     },
     {
       "id": "virgen-04",
       "title": {
-        "es-ES": "Virgen 4. Presentación de la Santísima Virgen María"
+        "es-ES": "Virgen 4. Presentación de la Santísima Virgen María",
+        "pt-BR": "Virgem 4. Apresentação da Santíssima Virgem Maria"
       }
     },
     {
       "id": "virgen-05",
       "title": {
-        "es-ES": "Virgen 5. Visitación de la Santísima Virgen María"
+        "es-ES": "Virgen 5. Visitación de la Santísima Virgen María",
+        "pt-BR": "Virgem 5. Visitação da Santíssima Virgem Maria"
       }
     },
     {
       "id": "virgen-06",
       "title": {
-        "es-ES": "Virgen 6. Natividad de la Santísima Virgen María (II)"
+        "es-ES": "Virgen 6. Natividad de la Santísima Virgen María (II)",
+        "pt-BR": "Virgem 6. Natividade da Santíssima Virgem Maria (II)"
       }
     },
     {
       "id": "virgen-07",
       "title": {
-        "es-ES": "Virgen 7. Purificación de la Santísima Virgen María"
+        "es-ES": "Virgen 7. Purificación de la Santísima Virgen María",
+        "pt-BR": "Virgem 7. Purificação da Santíssima Virgem Maria"
       }
     },
     {
       "id": "virgen-08",
       "title": {
-        "es-ES": "Virgen 8. Soledad de la Santísima Virgen María"
+        "es-ES": "Virgen 8. Soledad de la Santísima Virgen María",
+        "pt-BR": "Virgem 8. Solidão da Santíssima Virgem Maria"
       }
     },
     {
       "id": "virgen-09",
       "title": {
-        "es-ES": "Virgen 9. Festividad de la Santísima Virgen de las Nieves"
+        "es-ES": "Virgen 9. Festividad de la Santísima Virgen de las Nieves",
+        "pt-BR": "Virgem 9. Festa da Santíssima Virgem das Neves"
       }
     },
     {
       "id": "virgen-10",
       "title": {
-        "es-ES": "Virgen 10. Asunción de la Santísima Virgen María (I)"
+        "es-ES": "Virgen 10. Asunción de la Santísima Virgen María (I)",
+        "pt-BR": "Virgem 10. Assunção da Santíssima Virgem Maria (I)"
       }
     },
     {
       "id": "virgen-11",
       "title": {
-        "es-ES": "Virgen 11. Asunción de la Santísima Virgen María (II)"
+        "es-ES": "Virgen 11. Asunción de la Santísima Virgen María (II)",
+        "pt-BR": "Virgem 11. Assunção da Santíssima Virgem Maria (II)"
       }
     },
     {
       "id": "virgen-12",
       "title": {
-        "es-ES": "Virgen 12. Natividad de la Santísima Virgen María (III)"
+        "es-ES": "Virgen 12. Natividad de la Santísima Virgen María (III)",
+        "pt-BR": "Virgem 12. Natividade da Santíssima Virgem Maria (III)"
       }
     },
     {
       "id": "virgen-13",
       "title": {
-        "es-ES": "Virgen 13. Anunciación de la Virgen María (II)"
+        "es-ES": "Virgen 13. Anunciación de la Virgen María (II)",
+        "pt-BR": "Virgem 13. Anunciação da Virgem Maria (II)"
       }
     },
     {
       "id": "virgen-14",
       "title": {
-        "es-ES": "Virgen 14. Festividad de todos los Santos"
+        "es-ES": "Virgen 14. Festividad de todos los Santos",
+        "pt-BR": "Virgem 14. Festa de todos os Santos"
       }
     }
   ]
