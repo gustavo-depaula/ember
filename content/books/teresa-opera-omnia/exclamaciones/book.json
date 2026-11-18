@@ -14,17 +14,23 @@
   "description": {
     "es-ES": "Diecisiete exclamaciones que Santa Teresa escribió en 1569, después de comulgar, en diversos días y conforme al espíritu que el Señor le comunicaba: el destierro de la vida, el deseo de ver a Dios, el amor, el arrepentimiento y la confianza. Texto crítico del P. Silverio de Santa Teresa, con sus notas.",
     "en-US": "Seventeen exclamations St. Teresa wrote in 1569, after Communion, on different days and as the Lord moved her: the exile of this life, the longing to see God, love, repentance and trust. P. Silverio de Santa Teresa's critical text with his notes.",
-    "pt-BR": "Dezessete exclamações que Santa Teresa escreveu em 1569, depois da comunhão: o desterro desta vida, o desejo de ver a Deus, o amor, o arrependimento e a confiança."
+    "pt-BR": "Dezessete exclamações que Santa Teresa escreveu em 1569, depois de comungar, em diversos dias e conforme o espírito que o Senhor lhe comunicava: o desterro desta vida, o desejo de ver a Deus, o amor, o arrependimento e a confiança. Texto crítico do P. Silverio de Santa Teresa, com as suas notas."
   },
   "composed": "1569",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "teresa-of-avila/exclamaciones",
   "editions": {
     "es-ES": {
       "editor": "P. Silverio de Santa Teresa",
       "year": 1917
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -48,103 +54,120 @@
     {
       "id": "e01",
       "title": {
-        "es-ES": "Exclamación I"
+        "es-ES": "Exclamación I",
+        "pt-BR": "Exclamação I"
       }
     },
     {
       "id": "e02",
       "title": {
-        "es-ES": "Exclamación II"
+        "es-ES": "Exclamación II",
+        "pt-BR": "Exclamação II"
       }
     },
     {
       "id": "e03",
       "title": {
-        "es-ES": "Exclamación III"
+        "es-ES": "Exclamación III",
+        "pt-BR": "Exclamação III"
       }
     },
     {
       "id": "e04",
       "title": {
-        "es-ES": "Exclamación IV"
+        "es-ES": "Exclamación IV",
+        "pt-BR": "Exclamação IV"
       }
     },
     {
       "id": "e05",
       "title": {
-        "es-ES": "Exclamación V"
+        "es-ES": "Exclamación V",
+        "pt-BR": "Exclamação V"
       }
     },
     {
       "id": "e06",
       "title": {
-        "es-ES": "Exclamación VI"
+        "es-ES": "Exclamación VI",
+        "pt-BR": "Exclamação VI"
       }
     },
     {
       "id": "e07",
       "title": {
-        "es-ES": "Exclamación VII"
+        "es-ES": "Exclamación VII",
+        "pt-BR": "Exclamação VII"
       }
     },
     {
       "id": "e08",
       "title": {
-        "es-ES": "Exclamación VIII"
+        "es-ES": "Exclamación VIII",
+        "pt-BR": "Exclamação VIII"
       }
     },
     {
       "id": "e09",
       "title": {
-        "es-ES": "Exclamación IX"
+        "es-ES": "Exclamación IX",
+        "pt-BR": "Exclamação IX"
       }
     },
     {
       "id": "e10",
       "title": {
-        "es-ES": "Exclamación X"
+        "es-ES": "Exclamación X",
+        "pt-BR": "Exclamação X"
       }
     },
     {
       "id": "e11",
       "title": {
-        "es-ES": "Exclamación XI"
+        "es-ES": "Exclamación XI",
+        "pt-BR": "Exclamação XI"
       }
     },
     {
       "id": "e12",
       "title": {
-        "es-ES": "Exclamación XII"
+        "es-ES": "Exclamación XII",
+        "pt-BR": "Exclamação XII"
       }
     },
     {
       "id": "e13",
       "title": {
-        "es-ES": "Exclamación XIII"
+        "es-ES": "Exclamación XIII",
+        "pt-BR": "Exclamação XIII"
       }
     },
     {
       "id": "e14",
       "title": {
-        "es-ES": "Exclamación XIV"
+        "es-ES": "Exclamación XIV",
+        "pt-BR": "Exclamação XIV"
       }
     },
     {
       "id": "e15",
       "title": {
-        "es-ES": "Exclamación XV"
+        "es-ES": "Exclamación XV",
+        "pt-BR": "Exclamação XV"
       }
     },
     {
       "id": "e16",
       "title": {
-        "es-ES": "Exclamación XVI"
+        "es-ES": "Exclamación XVI",
+        "pt-BR": "Exclamação XVI"
       }
     },
     {
       "id": "e17",
       "title": {
-        "es-ES": "Exclamación XVII"
+        "es-ES": "Exclamación XVII",
+        "pt-BR": "Exclamação XVII"
       }
     }
   ]
