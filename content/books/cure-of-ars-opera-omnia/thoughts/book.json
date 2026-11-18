@@ -14,13 +14,19 @@
   },
   "composed": "1864",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "cure-of-ars/thoughts",
   "editions": {
     "en-US": {
       "translator": "Flynn and Mahony (Boston)",
       "year": 1896
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -36,79 +42,92 @@
     {
       "id": "preface",
       "title": {
-        "en-US": "Editor’s Preface"
+        "en-US": "Editor’s Preface",
+        "pt-BR": "Prefácio do editor"
       }
     },
     {
       "id": "th-01",
       "title": {
-        "en-US": "Salvation"
+        "en-US": "Salvation",
+        "pt-BR": "Salvação"
       }
     },
     {
       "id": "th-02",
       "title": {
-        "en-US": "Love for God"
+        "en-US": "Love for God",
+        "pt-BR": "Amor a Deus"
       }
     },
     {
       "id": "th-03",
       "title": {
-        "en-US": "The Pure Soul"
+        "en-US": "The Pure Soul",
+        "pt-BR": "A alma pura"
       }
     },
     {
       "id": "th-04",
       "title": {
-        "en-US": "The Holy Spirit"
+        "en-US": "The Holy Spirit",
+        "pt-BR": "O Espírito Santo"
       }
     },
     {
       "id": "th-05",
       "title": {
-        "en-US": "The Blessed Virgin"
+        "en-US": "The Blessed Virgin",
+        "pt-BR": "A Santíssima Virgem"
       }
     },
     {
       "id": "th-06",
       "title": {
-        "en-US": "Prayer"
+        "en-US": "Prayer",
+        "pt-BR": "Oração"
       }
     },
     {
       "id": "th-07",
       "title": {
-        "en-US": "The Priest"
+        "en-US": "The Priest",
+        "pt-BR": "O sacerdote"
       }
     },
     {
       "id": "th-08",
       "title": {
-        "en-US": "The Eucharist"
+        "en-US": "The Eucharist",
+        "pt-BR": "A Eucaristia"
       }
     },
     {
       "id": "th-09",
       "title": {
-        "en-US": "Sin"
+        "en-US": "Sin",
+        "pt-BR": "Pecado"
       }
     },
     {
       "id": "th-10",
       "title": {
-        "en-US": "Hell"
+        "en-US": "Hell",
+        "pt-BR": "Inferno"
       }
     },
     {
       "id": "th-11",
       "title": {
-        "en-US": "Suffering"
+        "en-US": "Suffering",
+        "pt-BR": "Sofrimento"
       }
     },
     {
       "id": "th-12",
       "title": {
-        "en-US": "Hope and Heaven"
+        "en-US": "Hope and Heaven",
+        "pt-BR": "Esperança e Céu"
       }
     }
   ]
