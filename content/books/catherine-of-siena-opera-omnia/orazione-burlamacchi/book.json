@@ -14,17 +14,23 @@
   "description": {
     "it": "L’orazione allo Spirito Santo che santa Caterina da Siena scrisse di propria mano, con la lunga nota storica del curatore Burlamacchi (Milano 1842) sulle sue redazioni. Non sono ancora importate le ventisei Orazioni dettate ai segretari, per le quali non c’è un testo digitale pulito.",
     "en-US": "The prayer to the Holy Spirit that St. Catherine of Siena wrote in her own hand, with the editor Burlamacchi’s long historical note (Milan 1842) on its versions. The twenty-six Orazioni she dictated to her secretaries are not yet imported: no clean digital text exists.",
-    "pt-BR": "A oração ao Espírito Santo que santa Catarina de Sena escreveu de próprio punho, com a longa nota histórica do editor Burlamacchi (Milão 1842)."
+    "pt-BR": "A oração ao Espírito Santo que santa Catarina de Sena escreveu de próprio punho, com a longa nota histórica do editor Burlamacchi (Milão 1842) sobre suas versões. Ainda não foram importadas as vinte e seis Orações ditadas aos secretários, para as quais não há um texto digital limpo."
   },
   "composed": "1370-1380",
   "languages": [
-    "it"
+    "it",
+    "pt-BR"
   ],
   "work": "catherine-of-siena/orazioni",
   "editions": {
     "it": {
       "editor": "Francesco Burlamacchi (Epistole, Milano: Pirotta)",
       "year": 1842
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "it",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,7 +47,8 @@
     {
       "id": "orazione",
       "title": {
-        "it": "Orazione che ella di propria mano scrisse di cinabro"
+        "it": "Orazione che ella di propria mano scrisse di cinabro",
+        "pt-BR": "Oração que ela escreveu de próprio punho com cinábrio"
       }
     }
   ]
