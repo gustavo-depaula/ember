@@ -11,17 +11,23 @@
   },
   "description": {
     "en-US": "The complete cycle of Tauler's sermons for the Church year and for feasts (122 sermons and conferences) in Walter Elliott's English of 1910, translated from the German critical edition and checked against Surius, with Elliott's synopses, introduction and the legendary History and the Interview with the Beggar. Tauler's Middle High German (Vetter 1910) is not yet imported.",
-    "pt-BR": "O ciclo completo dos sermões de Tauler para o ano litúrgico e as festas (122 sermões e conferências), na tradução inglesa de Walter Elliott (1910), com sinopses, introdução e a lendária História de Tauler."
+    "pt-BR": "O ciclo completo dos sermões de Tauler para o ano litúrgico e as festas (122 sermões e conferências), na tradução inglesa de Walter Elliott de 1910, feita a partir da edição crítica alemã e cotejada com Surius, com as sinopses e a introdução de Elliott, a lendária História e a Entrevista com o Mendigo. O texto de Tauler em médio-alto-alemão (Vetter, 1910) ainda não foi importado."
   },
   "composed": "c. 1330-1361",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "tauler/predigten",
   "editions": {
     "en-US": {
       "translator": "Walter Elliott",
       "year": 1910
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,751 +44,876 @@
     {
       "id": "introduction",
       "title": {
-        "en-US": "Introduction"
+        "en-US": "Introduction",
+        "pt-BR": "Introdução"
       }
     },
     {
       "id": "history",
       "title": {
-        "en-US": "The History of the Reverend Master John Tauler"
+        "en-US": "The History of the Reverend Master John Tauler",
+        "pt-BR": "A História do Reverendo Mestre João Tauler"
       }
     },
     {
       "id": "interview",
       "title": {
-        "en-US": "The Interview of Master John Tauler with a Beggar"
+        "en-US": "The Interview of Master John Tauler with a Beggar",
+        "pt-BR": "A Entrevista do Mestre João Tauler com um Mendigo"
       }
     },
     {
       "id": "s001",
       "title": {
-        "en-US": "1. Advent and Its Lessons — Sermon for the First Sunday of Advent"
+        "en-US": "1. Advent and Its Lessons — Sermon for the First Sunday of Advent",
+        "pt-BR": "1. O Advento e suas lições — Sermão para o Primeiro Domingo do Advento"
       }
     },
     {
       "id": "s002",
       "title": {
-        "en-US": "2. Going Into the Dessert to Find God — Sermon for the Third Sunday of Advent"
+        "en-US": "2. Going Into the Dessert to Find God — Sermon for the Third Sunday of Advent",
+        "pt-BR": "2. Ir ao deserto para encontrar Deus — Sermão para o Terceiro Domingo do Advento"
       }
     },
     {
       "id": "s003",
       "title": {
-        "en-US": "3. Unity and Multiplicity — Sermon for the Fourth Sunday of Advent"
+        "en-US": "3. Unity and Multiplicity — Sermon for the Fourth Sunday of Advent",
+        "pt-BR": "3. Unidade e multiplicidade — Sermão para o Quarto Domingo do Advento"
       }
     },
     {
       "id": "s004",
       "title": {
-        "en-US": "4. The Three Births of Christ — First Sermon for the Feast of Christmas"
+        "en-US": "4. The Three Births of Christ — First Sermon for the Feast of Christmas",
+        "pt-BR": "4. Os três nascimentos de Cristo — Primeiro Sermão para a Festa do Natal"
       }
     },
     {
       "id": "s005",
       "title": {
-        "en-US": "5. The Four Dwelling Places of Christ — Second Sermon for the Feast of Christmas"
+        "en-US": "5. The Four Dwelling Places of Christ — Second Sermon for the Feast of Christmas",
+        "pt-BR": "5. As quatro moradas de Cristo — Segundo Sermão para a Festa do Natal"
       }
     },
     {
       "id": "s006",
       "title": {
-        "en-US": "6. The Generation of the Word in a Perfect Soul — Sermon for the Sunday After Christmas"
+        "en-US": "6. The Generation of the Word in a Perfect Soul — Sermon for the Sunday After Christmas",
+        "pt-BR": "6. A geração do Verbo numa alma perfeita — Sermão para o Domingo após o Natal"
       }
     },
     {
       "id": "s007",
       "title": {
-        "en-US": "7. Lessons for the New Year — Sermon for NewYear's Day"
+        "en-US": "7. Lessons for the New Year — Sermon for NewYear's Day",
+        "pt-BR": "7. Lições para o Ano-Novo — Sermão para o Dia de Ano-Novo"
       }
     },
     {
       "id": "s008",
       "title": {
-        "en-US": "8. The Holy Trinity in the Soul's Essence — Sermon for the Sunday After New Year's"
+        "en-US": "8. The Holy Trinity in the Soul's Essence — Sermon for the Sunday After New Year's",
+        "pt-BR": "8. A Santa Trindade na essência da alma — Sermão para o Domingo após o Ano-Novo"
       }
     },
     {
       "id": "s009",
       "title": {
-        "en-US": "9. The Day of Perfection — First Sermon for the Vigil of the Epiphany"
+        "en-US": "9. The Day of Perfection — First Sermon for the Vigil of the Epiphany",
+        "pt-BR": "9. O dia da perfeição — Primeiro Sermão para a Vigília da Epifania"
       }
     },
     {
       "id": "s010",
       "title": {
-        "en-US": "10. Seeking for God — Second Sermon for the Vigil of the Epiphany"
+        "en-US": "10. Seeking for God — Second Sermon for the Vigil of the Epiphany",
+        "pt-BR": "10. A busca de Deus — Segundo Sermão para a Vigília da Epifania"
       }
     },
     {
       "id": "s011",
       "title": {
-        "en-US": "11. How Bitter Myrrh is Turned into Sweet Incense — First Sermon for the Feast of the Epiphany"
+        "en-US": "11. How Bitter Myrrh is Turned into Sweet Incense — First Sermon for the Feast of the Epiphany",
+        "pt-BR": "11. Como a mirra amarga se transforma em doce incenso — Primeiro Sermão para a Festa da Epifania"
       }
     },
     {
       "id": "s012",
       "title": {
-        "en-US": "12. How Ignorance Leads to Wisdom — Second Sermon for the Feast of the Epiphany"
+        "en-US": "12. How Ignorance Leads to Wisdom — Second Sermon for the Feast of the Epiphany",
+        "pt-BR": "12. Como a ignorância conduz à sabedoria — Segundo Sermão para a Festa da Epifania"
       }
     },
     {
       "id": "s013",
       "title": {
-        "en-US": "13. God's Light in the Soul — Third Sermon for the Feast of the Epiphany"
+        "en-US": "13. God's Light in the Soul — Third Sermon for the Feast of the Epiphany",
+        "pt-BR": "13. A luz de Deus na alma — Terceiro Sermão para a Festa da Epifania"
       }
     },
     {
       "id": "s014",
       "title": {
-        "en-US": "14. God is Gained by Detachment from Creatures — Sermon for the First Sunday After the Epiphany"
+        "en-US": "14. God is Gained by Detachment from Creatures — Sermon for the First Sunday After the Epiphany",
+        "pt-BR": "14. Alcança-se Deus pelo desapego das criaturas — Sermão para o Primeiro Domingo após a Epifania"
       }
     },
     {
       "id": "s015",
       "title": {
-        "en-US": "15. How Men Thrist After God Differently — Sermon for the Second Sunday After the Epiphany"
+        "en-US": "15. How Men Thrist After God Differently — Sermon for the Second Sunday After the Epiphany",
+        "pt-BR": "15. Como os homens têm sede de Deus de maneiras diferentes — Sermão para o Segundo Domingo após a Epifania"
       }
     },
     {
       "id": "s016",
       "title": {
-        "en-US": "16. The Ftve Porches of the Pool of Healing — Sermon for the Third Sunday After the Epiphany"
+        "en-US": "16. The Ftve Porches of the Pool of Healing — Sermon for the Third Sunday After the Epiphany",
+        "pt-BR": "16. Os cinco pórticos da piscina da cura — Sermão para o Terceiro Domingo após a Epifania"
       }
     },
     {
       "id": "s017",
       "title": {
-        "en-US": "17. Marks of a Truly Converted Soul — Sermon for the Fourth Sunday After the Epiphany"
+        "en-US": "17. Marks of a Truly Converted Soul — Sermon for the Fourth Sunday After the Epiphany",
+        "pt-BR": "17. Sinais de uma alma verdadeiramente convertida — Sermão para o Quarto Domingo após a Epifania"
       }
     },
     {
       "id": "s018",
       "title": {
-        "en-US": "18. The Yoke of Christ is the Soul's Thought of God — Sermon for the Fifth Sunday After the Epiphany"
+        "en-US": "18. The Yoke of Christ is the Soul's Thought of God — Sermon for the Fifth Sunday After the Epiphany",
+        "pt-BR": "18. O jugo de Cristo é o pensamento da alma em Deus — Sermão para o Quinto Domingo após a Epifania"
       }
     },
     {
       "id": "s019",
       "title": {
-        "en-US": "19. Signs of a True Scholar of Christ — Sermon for the Sixth Sunday After the Epiphany"
+        "en-US": "19. Signs of a True Scholar of Christ — Sermon for the Sixth Sunday After the Epiphany",
+        "pt-BR": "19. Sinais de um verdadeiro discípulo de Cristo — Sermão para o Sexto Domingo após a Epifania"
       }
     },
     {
       "id": "s020",
       "title": {
-        "en-US": "20. The Different Degrees of Spirituality— Sermon for Septuagesima Sunday"
+        "en-US": "20. The Different Degrees of Spirituality— Sermon for Septuagesima Sunday",
+        "pt-BR": "20. Os diferentes graus de espiritualidade — Sermão para o Domingo da Septuagésima"
       }
     },
     {
       "id": "s021",
       "title": {
-        "en-US": "21. Not Our Own, but God's Activity Makes Us Perfect — Sermon for Sexagesima Sunday"
+        "en-US": "21. Not Our Own, but God's Activity Makes Us Perfect — Sermon for Sexagesima Sunday",
+        "pt-BR": "21. É a ação de Deus, e não a nossa, que nos torna perfeitos — Sermão para o Domingo da Sexagésima"
       }
     },
     {
       "id": "s022",
       "title": {
-        "en-US": "22. Suffering a Condition for Interior Progress — Sermon for Quinquagesima Sunday"
+        "en-US": "22. Suffering a Condition for Interior Progress — Sermon for Quinquagesima Sunday",
+        "pt-BR": "22. O sofrimento como condição do progresso interior — Sermão para o Domingo da Quinquagésima"
       }
     },
     {
       "id": "s023",
       "title": {
-        "en-US": "23. Gradations of Merit — Sermon for Ash Wednesday"
+        "en-US": "23. Gradations of Merit — Sermon for Ash Wednesday",
+        "pt-BR": "23. Graus de mérito — Sermão para a Quarta-Feira de Cinzas"
       }
     },
     {
       "id": "s024",
       "title": {
-        "en-US": "24. True and False Spiriiuality Compared — Sermon for the First Sunday of Lent"
+        "en-US": "24. True and False Spiriiuality Compared — Sermon for the First Sunday of Lent",
+        "pt-BR": "24. Comparação entre a verdadeira e a falsa espiritualidade — Sermão para o Primeiro Domingo da Quaresma"
       }
     },
     {
       "id": "s025",
       "title": {
-        "en-US": "25. The Hi iumf.nts of Perfection— First Sermon for the Second Sunday of Lent •"
+        "en-US": "25. The Hi iumf.nts of Perfection— First Sermon for the Second Sunday of Lent •",
+        "pt-BR": "25. Os rudimentos da perfeição — Primeiro Sermão para o Segundo Domingo da Quaresma"
       }
     },
     {
       "id": "s026",
       "title": {
-        "en-US": "26. lh tanrsM as an Element 01 I )evotion— Second Sermon for the Second Sunday of Lent 19i ciini'KKN or Abraham: True and False— Sermon for the Third Sunday of Lent"
+        "en-US": "26. lh tanrsM as an Element 01 I )evotion— Second Sermon for the Second Sunday of Lent 19i ciini'KKN or Abraham: True and False— Sermon for the Third Sunday of Lent",
+        "pt-BR": "26. [ilegível no OCR] como elemento da devoção — Segundo Sermão para o Segundo Domingo da Quaresma; Os filhos de Abraão: verdadeiros e falsos — Sermão para o Terceiro Domingo da Quaresma"
       }
     },
     {
       "id": "s027",
       "title": {
-        "en-US": "27. JESUS THE l'<xrs ok Divine Light— First Sermon for the Fourth Sunday of Lent"
+        "en-US": "27. JESUS THE l'<xrs ok Divine Light— First Sermon for the Fourth Sunday of Lent",
+        "pt-BR": "27. Jesus, foco da luz divina — Primeiro Sermão para o Quarto Domingo da Quaresma"
       }
     },
     {
       "id": "s028",
       "title": {
-        "en-US": "28. Tin: Soil's FESTIVAL Day— Second Sermon for the Fourth Sunday of Lent"
+        "en-US": "28. Tin: Soil's FESTIVAL Day— Second Sermon for the Fourth Sunday of Lent",
+        "pt-BR": "28. O dia de festa da alma — Segundo Sermão para o Quarto Domingo da Quaresma"
       }
     },
     {
       "id": "s029",
       "title": {
-        "en-US": "29. IUahi.m. and Bleeding fob Christ— First Sermon for Passion Sunday"
+        "en-US": "29. IUahi.m. and Bleeding fob Christ— First Sermon for Passion Sunday",
+        "pt-BR": "29. Ouvir e derramar sangue por Cristo — Primeiro Sermão para o Domingo da Paixão"
       }
     },
     {
       "id": "s030",
       "title": {
-        "en-US": "30. < u 1 h siring to ex Perfect — Second Sermon for Passion Sunday"
+        "en-US": "30. < u 1 h siring to ex Perfect — Second Sermon for Passion Sunday",
+        "pt-BR": "30. Sobre o desejo de ser perfeito — Segundo Sermão para o Domingo da Paixão"
       }
     },
     {
       "id": "s031",
       "title": {
-        "en-US": "31. Bhori Ci is to Holiness — First Sermon for Palm Sunday"
+        "en-US": "31. Bhori Ci is to Holiness — First Sermon for Palm Sunday",
+        "pt-BR": "31. Atalhos para a santidade — Primeiro Sermão para o Domingo de Ramos"
       }
     },
     {
       "id": "s032",
       "title": {
-        "en-US": "32. Chbibt's <i eansing of the Temple of the Soul — Second Sermon for Palm Sunday ^28 l i bsoiib OF Christ's Passion — First Sermon for Good Friday"
+        "en-US": "32. Chbibt's <i eansing of the Temple of the Soul — Second Sermon for Palm Sunday ^28 l i bsoiib OF Christ's Passion — First Sermon for Good Friday",
+        "pt-BR": "32. A purificação do templo da alma por Cristo — Segundo Sermão para o Domingo de Ramos; Lições da Paixão de Cristo — Primeiro Sermão para a Sexta-Feira Santa"
       }
     },
     {
       "id": "s033",
       "title": {
-        "en-US": "33. How <;oi> Draws Soils to Himself — Second Sermon for Good Friday"
+        "en-US": "33. How <;oi> Draws Soils to Himself — Second Sermon for Good Friday",
+        "pt-BR": "33. Como Deus atrai as almas a Si — Segundo Sermão para a Sexta-Feira Santa"
       }
     },
     {
       "id": "s034",
       "title": {
-        "en-US": "34. I'mon With God — Sermon for Easter Sunday : First Part"
+        "en-US": "34. I'mon With God — Sermon for Easter Sunday : First Part",
+        "pt-BR": "34. União com Deus — Sermão para o Domingo de Páscoa: Primeira Parte"
       }
     },
     {
       "id": "s035",
       "title": {
-        "en-US": "35. Union With God — Sermon for Easter Sunday : Second Part"
+        "en-US": "35. Union With God — Sermon for Easter Sunday : Second Part",
+        "pt-BR": "35. União com Deus — Sermão para o Domingo de Páscoa: Segunda Parte"
       }
     },
     {
       "id": "s036",
       "title": {
-        "en-US": "36. The DE6REE8 of Love — Sermon for Easter Monday"
+        "en-US": "36. The DE6REE8 of Love — Sermon for Easter Monday",
+        "pt-BR": "36. Os graus do amor — Sermão para a Segunda-Feira de Páscoa"
       }
     },
     {
       "id": "s037",
       "title": {
-        "en-US": "37. The Qualities of Love — Sermon for Thursday in Easter Week"
+        "en-US": "37. The Qualities of Love — Sermon for Thursday in Easter Week",
+        "pt-BR": "37. As qualidades do amor — Sermão para a Quinta-Feira da Semana da Páscoa"
       }
     },
     {
       "id": "s038",
       "title": {
-        "en-US": "38. The Call to Peace — First Sermon for Low Sunday"
+        "en-US": "38. The Call to Peace — First Sermon for Low Sunday",
+        "pt-BR": "38. O chamado à paz — Primeiro Sermão para o Domingo da Oitava da Páscoa"
       }
     },
     {
       "id": "s039",
       "title": {
-        "en-US": "39. Prayers Outward and Inward — Second Sermon for Low Sunday 26S The Winter of the Soul — Sermon for the Second Sunday After Easter"
+        "en-US": "39. Prayers Outward and Inward — Second Sermon for Low Sunday 26S The Winter of the Soul — Sermon for the Second Sunday After Easter",
+        "pt-BR": "39. Orações exteriores e interiores — Segundo Sermão para o Domingo da Oitava da Páscoa; O inverno da alma — Sermão para o Segundo Domingo após a Páscoa"
       }
     },
     {
       "id": "s040",
       "title": {
-        "en-US": "40. The Paraclete's Judgment Against the World — First Sermon for the Fourth Sunday After Easter"
+        "en-US": "40. The Paraclete's Judgment Against the World — First Sermon for the Fourth Sunday After Easter",
+        "pt-BR": "40. O juízo do Paráclito contra o mundo — Primeiro Sermão para o Quarto Domingo após a Páscoa"
       }
     },
     {
       "id": "s041",
       "title": {
-        "en-US": "41. Hindering the Coming of the Holy Ghost — Second Sermon for the Fourth Sun. lay After Easter"
+        "en-US": "41. Hindering the Coming of the Holy Ghost — Second Sermon for the Fourth Sun. lay After Easter",
+        "pt-BR": "41. Impedir a vinda do Espírito Santo — Segundo Sermão para o Quarto Domingo após a Páscoa"
       }
     },
     {
       "id": "s042",
       "title": {
-        "en-US": "42. Why Prayer is Without Fruit — Sermon for the Rogation Days"
+        "en-US": "42. Why Prayer is Without Fruit — Sermon for the Rogation Days",
+        "pt-BR": "42. Por que a oração não dá fruto — Sermão para os Dias das Rogações"
       }
     },
     {
       "id": "s043",
       "title": {
-        "en-US": "43. Why Christ Upbraids Men — First Sermon for the Feast of the Ascension"
+        "en-US": "43. Why Christ Upbraids Men — First Sermon for the Feast of the Ascension",
+        "pt-BR": "43. Por que Cristo repreende os homens — Primeiro Sermão para a Festa da Ascensão"
       }
     },
     {
       "id": "s044",
       "title": {
-        "en-US": "44. The Suit's Five Captivities — Second Sermon for the Feast of the Ascension"
+        "en-US": "44. The Suit's Five Captivities — Second Sermon for the Feast of the Ascension",
+        "pt-BR": "44. Os cinco cativeiros da alma — Segundo Sermão para a Festa da Ascensão"
       }
     },
     {
       "id": "s045",
       "title": {
-        "en-US": "45. How to Ascend with Christ into Heaven — Third Sermon for the Feast of the Ascension"
+        "en-US": "45. How to Ascend with Christ into Heaven — Third Sermon for the Feast of the Ascension",
+        "pt-BR": "45. Como subir ao Céu com Cristo — Terceiro Sermão para a Festa da Ascensão"
       }
     },
     {
       "id": "s046",
       "title": {
-        "en-US": "46. IIdw We Witness to Christ in Unrest and Suffering — Fourth Sermon f«>r the Feast of the Ascension"
+        "en-US": "46. IIdw We Witness to Christ in Unrest and Suffering — Fourth Sermon f«>r the Feast of the Ascension",
+        "pt-BR": "46. Como damos testemunho de Cristo na inquietação e no sofrimento — Quarto Sermão para a Festa da Ascensão"
       }
     },
     {
       "id": "s047",
       "title": {
-        "en-US": "47. The Exchange of Matthias for Judas in the Inner Life — Fifth Sermon for the Feast of the Ascension"
+        "en-US": "47. The Exchange of Matthias for Judas in the Inner Life — Fifth Sermon for the Feast of the Ascension",
+        "pt-BR": "47. A substituição de Judas por Matias na vida interior — Quinto Sermão para a Festa da Ascensão"
       }
     },
     {
       "id": "s048",
       "title": {
-        "en-US": "48. Prudence and Praying— Sermon for the Sunday After the Ascension"
+        "en-US": "48. Prudence and Praying— Sermon for the Sunday After the Ascension",
+        "pt-BR": "48. Prudência e oração — Sermão para o Domingo após a Ascensão"
       }
     },
     {
       "id": "s049",
       "title": {
-        "en-US": "49. Preparing to Receive the Holy Ghost — First Sermon for the Feast of Pentecost"
+        "en-US": "49. Preparing to Receive the Holy Ghost — First Sermon for the Feast of Pentecost",
+        "pt-BR": "49. Preparação para receber o Espírito Santo — Primeiro Sermão para a Festa de Pentecostes"
       }
     },
     {
       "id": "s050",
       "title": {
-        "en-US": "50. Giving God Unhindered Liberty in the Soul — Second Sermon for the Feast of Pentecost"
+        "en-US": "50. Giving God Unhindered Liberty in the Soul — Second Sermon for the Feast of Pentecost",
+        "pt-BR": "50. Dar a Deus plena liberdade na alma — Segundo Sermão para a Festa de Pentecostes"
       }
     },
     {
       "id": "s051",
       "title": {
-        "en-US": "51. Tin GIFTS of the Holy Ghost— Third Sermon for the Feast of Pentecost"
+        "en-US": "51. Tin GIFTS of the Holy Ghost— Third Sermon for the Feast of Pentecost",
+        "pt-BR": "51. Os dons do Espírito Santo — Terceiro Sermão para a Festa de Pentecostes"
       }
     },
     {
       "id": "s052",
       "title": {
-        "en-US": "52. The Good Shepherd and His Sheep — Fourth Sermon for the Feast of Pentecost"
+        "en-US": "52. The Good Shepherd and His Sheep — Fourth Sermon for the Feast of Pentecost",
+        "pt-BR": "52. O Bom Pastor e suas ovelhas — Quarto Sermão para a Festa de Pentecostes"
       }
     },
     {
       "id": "s053",
       "title": {
-        "en-US": "53. The Apostles Before Pentecost — Fifth Sermon for the Feast of Pentecost"
+        "en-US": "53. The Apostles Before Pentecost — Fifth Sermon for the Feast of Pentecost",
+        "pt-BR": "53. Os Apóstolos antes de Pentecostes — Quinto Sermão para a Festa de Pentecostes"
       }
     },
     {
       "id": "s054",
       "title": {
-        "en-US": "54. THE I >ra\\vin<; of the Holy Ghost— Sixth Sermon for Pentecost"
+        "en-US": "54. THE I >ra\\vin<; of the Holy Ghost— Sixth Sermon for Pentecost",
+        "pt-BR": "54. A atração do Espírito Santo — Sexto Sermão para Pentecostes"
       }
     },
     {
       "id": "s055",
       "title": {
-        "en-US": "55. Knowing God— First Sermon for Trinity Sunday"
+        "en-US": "55. Knowing God— First Sermon for Trinity Sunday",
+        "pt-BR": "55. Conhecer Deus — Primeiro Sermão para o Domingo da Santíssima Trindade"
       }
     },
     {
       "id": "s056",
       "title": {
-        "en-US": "56. The Trinity and the Interior Life— Second Sermon for Trinity Sunday"
+        "en-US": "56. The Trinity and the Interior Life— Second Sermon for Trinity Sunday",
+        "pt-BR": "56. A Trindade e a vida interior — Segundo Sermão para o Domingo da Santíssima Trindade"
       }
     },
     {
       "id": "s057",
       "title": {
-        "en-US": "57. ^--^^On Holy Communion — First Sermon for the Feast of Corpus Christi 36S Dispositions for Holy Communion — Second Sermon for the Feast of Corpus Christi"
+        "en-US": "57. ^--^^On Holy Communion — First Sermon for the Feast of Corpus Christi 36S Dispositions for Holy Communion — Second Sermon for the Feast of Corpus Christi",
+        "pt-BR": "57. Sobre a Santa Comunhão — Primeiro Sermão para a Festa de Corpus Christi; Disposições para a Santa Comunhão — Segundo Sermão para a Festa de Corpus Christi"
       }
     },
     {
       "id": "s058",
       "title": {
-        "en-US": "58. The Dignity and Worth of Holy Communion — Third Sermon for the Feast of Corpus Christi"
+        "en-US": "58. The Dignity and Worth of Holy Communion — Third Sermon for the Feast of Corpus Christi",
+        "pt-BR": "58. A dignidade e o valor da Santa Comunhão — Terceiro Sermão para a Festa de Corpus Christi"
       }
     },
     {
       "id": "s059",
       "title": {
-        "en-US": "59. The Fruit of Holy Communion — Fourth Sermon for the Feast of Corpus Christi"
+        "en-US": "59. The Fruit of Holy Communion — Fourth Sermon for the Feast of Corpus Christi",
+        "pt-BR": "59. O fruto da Santa Comunhão — Quarto Sermão para a Festa de Corpus Christi"
       }
     },
     {
       "id": "s060",
       "title": {
-        "en-US": "60. Foretastes of Heaven— Sermon for the Second Sunday After Trinity"
+        "en-US": "60. Foretastes of Heaven— Sermon for the Second Sunday After Trinity",
+        "pt-BR": "60. Antegozos do Céu — Sermão para o Segundo Domingo após a Trindade"
       }
     },
     {
       "id": "s061",
       "title": {
-        "en-US": "61. ?-Three Foundation Stones: Humility, Love and Detachment — First Sermon for the Third Sunday After Trinity"
+        "en-US": "61. ?-Three Foundation Stones: Humility, Love and Detachment — First Sermon for the Third Sunday After Trinity",
+        "pt-BR": "61. Três pedras fundamentais: humildade, amor e desapego — Primeiro Sermão para o Terceiro Domingo após a Trindade"
       }
     },
     {
       "id": "s062",
       "title": {
-        "en-US": "62. Four Classes of Sinners — Second Sermon for the Third Sunday After Trinity"
+        "en-US": "62. Four Classes of Sinners — Second Sermon for the Third Sunday After Trinity",
+        "pt-BR": "62. Quatro classes de pecadores — Segundo Sermão para o Terceiro Domingo após a Trindade"
       }
     },
     {
       "id": "s063",
       "title": {
-        "en-US": "63. God's Deep Searching of Our Souls — Third Sermon for the Third Sunday After Trinity"
+        "en-US": "63. God's Deep Searching of Our Souls — Third Sermon for the Third Sunday After Trinity",
+        "pt-BR": "63. Como Deus sonda profundamente nossas almas — Terceiro Sermão para o Terceiro Domingo após a Trindade"
       }
     },
     {
       "id": "s064",
       "title": {
-        "en-US": "64. Patience with Men and Patience with God — First Sermon for the Fourth Trinity"
+        "en-US": "64. Patience with Men and Patience with God — First Sermon for the Fourth Trinity",
+        "pt-BR": "64. Paciência com os homens e paciência com Deus — Primeiro Sermão para o Quarto Domingo após a Trindade"
       }
     },
     {
       "id": "s065",
       "title": {
-        "en-US": "65. Giving God Good Measure — Second Sermon for the Fourth Sunday After Trinity 42S Prayer, Vocal and Mental — First Sermon for the Fifth Sunday After J _— Trinity"
+        "en-US": "65. Giving God Good Measure — Second Sermon for the Fourth Sunday After Trinity 42S Prayer, Vocal and Mental — First Sermon for the Fifth Sunday After J _— Trinity",
+        "pt-BR": "65. Dar a Deus boa medida — Segundo Sermão para o Quarto Domingo após a Trindade; Oração vocal e mental — Primeiro Sermão para o Quinto Domingo após a Trindade"
       }
     },
     {
       "id": "s066",
       "title": {
-        "en-US": "66. Fishing in Deep Waters — Second Sermon for the Fifth Sunday After Trinity"
+        "en-US": "66. Fishing in Deep Waters — Second Sermon for the Fifth Sunday After Trinity",
+        "pt-BR": "66. Pescar em águas profundas — Segundo Sermão para o Quinto Domingo após a Trindade"
       }
     },
     {
       "id": "s067",
       "title": {
-        "en-US": "67. Interior Obedience to God — Third Sermon for the Fifth Sunday After Trinity"
+        "en-US": "67. Interior Obedience to God — Third Sermon for the Fifth Sunday After Trinity",
+        "pt-BR": "67. Obediência interior a Deus — Terceiro Sermão para o Quinto Domingo após a Trindade"
       }
     },
     {
       "id": "s068",
       "title": {
-        "en-US": "68. From the Alpha to the Omega of Perfection — Sermon for the Sixth Sunday After Trinity"
+        "en-US": "68. From the Alpha to the Omega of Perfection — Sermon for the Sixth Sunday After Trinity",
+        "pt-BR": "68. Do alfa ao ômega da perfeição — Sermão para o Sexto Domingo após a Trindade"
       }
     },
     {
       "id": "s069",
       "title": {
-        "en-US": "69. Who May Go Often to Communion — Sermon for the Seventh Sunday After Trinity"
+        "en-US": "69. Who May Go Often to Communion — Sermon for the Seventh Sunday After Trinity",
+        "pt-BR": "69. Quem pode comungar com frequência — Sermão para o Sétimo Domingo após a Trindade"
       }
     },
     {
       "id": "s070",
       "title": {
-        "en-US": "70. The Inspirations of Grace — Sermon for the Eighth Sunday After Trinity"
+        "en-US": "70. The Inspirations of Grace — Sermon for the Eighth Sunday After Trinity",
+        "pt-BR": "70. As inspirações da graça — Sermão para o Oitavo Domingo após a Trindade"
       }
     },
     {
       "id": "s071",
       "title": {
-        "en-US": "71. Fidelity in Little Things — First Sermon for the Tenth Sunday After Trinity"
+        "en-US": "71. Fidelity in Little Things — First Sermon for the Tenth Sunday After Trinity",
+        "pt-BR": "71. Fidelidade nas pequenas coisas — Primeiro Sermão para o Décimo Domingo após a Trindade"
       }
     },
     {
       "id": "s072",
       "title": {
-        "en-US": "72. Election and Reprobation — Second Sermon for the Tenth Sunday After Trinity"
+        "en-US": "72. Election and Reprobation — Second Sermon for the Tenth Sunday After Trinity",
+        "pt-BR": "72. Eleição e reprovação — Segundo Sermão para o Décimo Domingo após a Trindade"
       }
     },
     {
       "id": "s073",
       "title": {
-        "en-US": "73. Hindering and Helping a Worthy Communion — Sermon for the Eleventh Suuday After Trinity"
+        "en-US": "73. Hindering and Helping a Worthy Communion — Sermon for the Eleventh Suuday After Trinity",
+        "pt-BR": "73. Obstáculos e auxílios para uma comunhão digna — Sermão para o Décimo Primeiro Domingo após a Trindade"
       }
     },
     {
       "id": "s074",
       "title": {
-        "en-US": "74. How Patience Begets Hope and Love — First Sermon for the Twelfth Sunday After Trinity"
+        "en-US": "74. How Patience Begets Hope and Love — First Sermon for the Twelfth Sunday After Trinity",
+        "pt-BR": "74. Como a paciência gera esperança e amor — Primeiro Sermão para o Décimo Segundo Domingo após a Trindade"
       }
     },
     {
       "id": "s075",
       "title": {
-        "en-US": "75. Spiritual Deafness — Second Sermon for the Twelfth Sunday After Trinity"
+        "en-US": "75. Spiritual Deafness — Second Sermon for the Twelfth Sunday After Trinity",
+        "pt-BR": "75. Surdez espiritual — Segundo Sermão para o Décimo Segundo Domingo após a Trindade"
       }
     },
     {
       "id": "s076",
       "title": {
-        "en-US": "76. Spiritual Blindness — First Sermon for the Thirteenth Sunday After Trinity 49S The Inner Revelation — Second Sermon for the Thirteenth Sunday After Trinity"
+        "en-US": "76. Spiritual Blindness — First Sermon for the Thirteenth Sunday After Trinity 49S The Inner Revelation — Second Sermon for the Thirteenth Sunday After Trinity",
+        "pt-BR": "76. Cegueira espiritual — Primeiro Sermão para o Décimo Terceiro Domingo após a Trindade; A revelação interior — Segundo Sermão para o Décimo Terceiro Domingo após a Trindade"
       }
     },
     {
       "id": "s077",
       "title": {
-        "en-US": "77. In What Way a Perfect Man is Like God — Sermon for the Fourteenth Sunday After Trinity"
+        "en-US": "77. In What Way a Perfect Man is Like God — Sermon for the Fourteenth Sunday After Trinity",
+        "pt-BR": "77. De que modo um homem perfeito se assemelha a Deus — Sermão para o Décimo Quarto Domingo após a Trindade"
       }
     },
     {
       "id": "s078",
       "title": {
-        "en-US": "78. Ideals High and Low — First Sermon for the Fifteenth Sunday After Trinity"
+        "en-US": "78. Ideals High and Low — First Sermon for the Fifteenth Sunday After Trinity",
+        "pt-BR": "78. Ideais elevados e baixos — Primeiro Sermão para o Décimo Quinto Domingo após a Trindade"
       }
     },
     {
       "id": "s079",
       "title": {
-        "en-US": "79. Trusting God — Second Sermon for the Fifteenth Sunday After Trinity"
+        "en-US": "79. Trusting God — Second Sermon for the Fifteenth Sunday After Trinity",
+        "pt-BR": "79. Confiar em Deus — Segundo Sermão para o Décimo Quinto Domingo após a Trindade"
       }
     },
     {
       "id": "s080",
       "title": {
-        "en-US": "80. The Dimensions of the Soul — Third Sermon for the Fifteenth Sunday After Trinity"
+        "en-US": "80. The Dimensions of the Soul — Third Sermon for the Fifteenth Sunday After Trinity",
+        "pt-BR": "80. As dimensões da alma — Terceiro Sermão para o Décimo Quinto Domingo após a Trindade"
       }
     },
     {
       "id": "s081",
       "title": {
-        "en-US": "81. Bfi.innkrs, Proficients and the Perfect — First Sermon for the Sixteenth Sunday After Trinity"
+        "en-US": "81. Bfi.innkrs, Proficients and the Perfect — First Sermon for the Sixteenth Sunday After Trinity",
+        "pt-BR": "81. Principiantes, proficientes e perfeitos — Primeiro Sermão para o Décimo Sexto Domingo após a Trindade"
       }
     },
     {
       "id": "s082",
       "title": {
-        "en-US": "82. Peaci Through Patience and Mkekness — Second Sermon for Sixteenth Sunday After Trinity"
+        "en-US": "82. Peaci Through Patience and Mkekness — Second Sermon for Sixteenth Sunday After Trinity",
+        "pt-BR": "82. Paz pela paciência e pela mansidão — Segundo Sermão para o Décimo Sexto Domingo após a Trindade"
       }
     },
     {
       "id": "s083",
       "title": {
-        "en-US": "83. 1\\\\\\am> Pharisaism — Sermon for the Seventeenth Sunday After Trinity"
+        "en-US": "83. 1\\\\\\am> Pharisaism — Sermon for the Seventeenth Sunday After Trinity",
+        "pt-BR": "83. Farisaísmo interior — Sermão para o Décimo Sétimo Domingo após a Trindade"
       }
     },
     {
       "id": "s084",
       "title": {
-        "en-US": "84. Renewal of Spirit — Sormon for the Eighteenth Sunday After Trinity"
+        "en-US": "84. Renewal of Spirit — Sormon for the Eighteenth Sunday After Trinity",
+        "pt-BR": "84. Renovação do espírito — Sermão para o Décimo Oitavo Domingo após a Trindade"
       }
     },
     {
       "id": "s085",
       "title": {
-        "en-US": "85. A i iikim, iiik Bride for the Bridegroom — First Sermon for the Nineteenth Sunday After Trinity"
+        "en-US": "85. A i iikim, iiik Bride for the Bridegroom — First Sermon for the Nineteenth Sunday After Trinity",
+        "pt-BR": "85. Adornar a Esposa para o Esposo — Primeiro Sermão para o Décimo Nono Domingo após a Trindade"
       }
     },
     {
       "id": "s086",
       "title": {
-        "en-US": "86. Laying the Axe to the Roots of Imperfection — Second Sermon for the Nineteenth Sunday After Trinity"
+        "en-US": "86. Laying the Axe to the Roots of Imperfection — Second Sermon for the Nineteenth Sunday After Trinity",
+        "pt-BR": "86. Pôr o machado às raízes da imperfeição — Segundo Sermão para o Décimo Nono Domingo após a Trindade"
       }
     },
     {
       "id": "s087",
       "title": {
-        "en-US": "87. i >\\ Ti mii AiiciNs Sermon for the Twentieth Sunday After Trinity"
+        "en-US": "87. i >\\ Ti mii AiiciNs Sermon for the Twentieth Sunday After Trinity",
+        "pt-BR": "87. Sobre as tentações — Sermão para o Vigésimo Domingo após a Trindade"
       }
     },
     {
       "id": "s088",
       "title": {
-        "en-US": "88. Tin Wide Sweep of Love — Sermon for the Twenty-first Sunday After Trinity"
+        "en-US": "88. Tin Wide Sweep of Love — Sermon for the Twenty-first Sunday After Trinity",
+        "pt-BR": "88. O vasto alcance do amor — Sermão para o Vigésimo Primeiro Domingo após a Trindade"
       }
     },
     {
       "id": "s089",
       "title": {
-        "en-US": "89. Sin Deception, Its Cause and Its Cure — First Sermon for the Twentythird Sunday After Trinity"
+        "en-US": "89. Sin Deception, Its Cause and Its Cure — First Sermon for the Twentythird Sunday After Trinity",
+        "pt-BR": "89. O engano do pecado, sua causa e sua cura — Primeiro Sermão para o Vigésimo Terceiro Domingo após a Trindade"
       }
     },
     {
       "id": "s090",
       "title": {
-        "en-US": "90. God Alone— Second Sermon for the Twenty-third Sunday After Trinity"
+        "en-US": "90. God Alone— Second Sermon for the Twenty-third Sunday After Trinity",
+        "pt-BR": "90. Somente Deus — Segundo Sermão para o Vigésimo Terceiro Domingo após a Trindade"
       }
     },
     {
       "id": "s091",
       "title": {
-        "en-US": "91. Dwelling with GodSermon for the Feast of St. Andrew, the Apostle"
+        "en-US": "91. Dwelling with GodSermon for the Feast of St. Andrew, the Apostle",
+        "pt-BR": "91. Habitar com Deus — Sermão para a Festa de Santo André, Apóstolo"
       }
     },
     {
       "id": "s092",
       "title": {
-        "en-US": "92. I M mini; Honestly with God — Sermon for the Feast of St. Barbara, or for that of any Virgin"
+        "en-US": "92. I M mini; Honestly with God — Sermon for the Feast of St. Barbara, or for that of any Virgin",
+        "pt-BR": "92. Tratar honestamente com Deus — Sermão para a Festa de Santa Bárbara ou para a de qualquer Virgem"
       }
     },
     {
       "id": "s093",
       "title": {
-        "en-US": "93. Holy Severity with Self — Sermon for the Feast of Our Lady's Coneept ion"
+        "en-US": "93. Holy Severity with Self — Sermon for the Feast of Our Lady's Coneept ion",
+        "pt-BR": "93. Santa severidade consigo mesmo — Sermão para a Festa da Conceição de Nossa Senhora"
       }
     },
     {
       "id": "s094",
       "title": {
-        "en-US": "94. A Dying Life Sermon for the Feast of St. Stephen"
+        "en-US": "94. A Dying Life Sermon for the Feast of St. Stephen",
+        "pt-BR": "94. Uma vida de morte para si — Sermão para a Festa de Santo Estêvão"
       }
     },
     {
       "id": "s095",
       "title": {
-        "en-US": "95. Si 1 1 I in i iiKix and Its Root — Sermon for the Feast of Our Lady's Nativity"
+        "en-US": "95. Si 1 1 I in i iiKix and Its Root — Sermon for the Feast of Our Lady's Nativity",
+        "pt-BR": "95. O autoengano e sua raiz — Sermão para a Festa da Natividade de Nossa Senhora"
       }
     },
     {
       "id": "s096",
       "title": {
-        "en-US": "96. Mystical Prayer — Sermon for the Feast of Our Lady's Visitation, or for the o.tave of Her Nativity"
+        "en-US": "96. Mystical Prayer — Sermon for the Feast of Our Lady's Visitation, or for the o.tave of Her Nativity",
+        "pt-BR": "96. Oração mística — Sermão para a Festa da Visitação de Nossa Senhora ou para a Oitava de sua Natividade"
       }
     },
     {
       "id": "s097",
       "title": {
-        "en-US": "97. Christian Purity — Sermon for the Feast of St. Agnes, Virgin and Martyr"
+        "en-US": "97. Christian Purity — Sermon for the Feast of St. Agnes, Virgin and Martyr",
+        "pt-BR": "97. Pureza cristã — Sermão para a Festa de Santa Inês, Virgem e Mártir"
       }
     },
     {
       "id": "s098",
       "title": {
-        "en-US": "98. The VIRGINAL State — Sermon for the Feast of St. Agatha, Virgin and Martyr"
+        "en-US": "98. The VIRGINAL State — Sermon for the Feast of St. Agatha, Virgin and Martyr",
+        "pt-BR": "98. O estado virginal — Sermão para a Festa de Santa Águeda, Virgem e Mártir"
       }
     },
     {
       "id": "s099",
       "title": {
-        "en-US": "99. Mary's Place in the Incarnation — Sermon for the Feast of the Annunciation of Our Blessed Lady"
+        "en-US": "99. Mary's Place in the Incarnation — Sermon for the Feast of the Annunciation of Our Blessed Lady",
+        "pt-BR": "99. O lugar de Maria na Encarnação — Sermão para a Festa da Anunciação de Nossa Senhora"
       }
     },
     {
       "id": "s100",
       "title": {
-        "en-US": "100. Sim RevelationFirst Sermon for the Feast of the Nativity of St. John the Baptist"
+        "en-US": "100. Sim RevelationFirst Sermon for the Feast of the Nativity of St. John the Baptist",
+        "pt-BR": "100. A revelação de si — Primeiro Sermão para a Festa da Natividade de São João Batista"
       }
     },
     {
       "id": "s101",
       "title": {
-        "en-US": "101. Con the Light or the Son. — Second Sermon for the Feast of the Nativity ..I\" St. John the Baptist"
+        "en-US": "101. Con the Light or the Son. — Second Sermon for the Feast of the Nativity ..I\" St. John the Baptist",
+        "pt-BR": "101. Deus, luz da alma — Segundo Sermão para a Festa da Natividade de São João Batista"
       }
     },
     {
       "id": "s102",
       "title": {
-        "en-US": "102. Fraternal Correction — Sermon for the Feast of St. Timothy"
+        "en-US": "102. Fraternal Correction — Sermon for the Feast of St. Timothy",
+        "pt-BR": "102. Correção fraterna — Sermão para a Festa de São Timóteo"
       }
     },
     {
       "id": "s103",
       "title": {
-        "en-US": "103. ii mNG off Superfluities — Sermon for the Feast of St. Mary Magdalene"
+        "en-US": "103. ii mNG off Superfluities — Sermon for the Feast of St. Mary Magdalene",
+        "pt-BR": "103. Cortar o supérfluo — Sermão para a Festa de Santa Maria Madalena"
       }
     },
     {
       "id": "s104",
       "title": {
-        "en-US": "104. Guidanci : Human and Divine— Sermon for the Feast of St. Lawrence, Martyr"
+        "en-US": "104. Guidanci : Human and Divine— Sermon for the Feast of St. Lawrence, Martyr",
+        "pt-BR": "104. Direção humana e divina — Sermão para a Festa de São Lourenço, Mártir"
       }
     },
     {
       "id": "s105",
       "title": {
-        "en-US": "105. Watching fob Friends and Enemies — Sermon for the Feast of St. Augustine"
+        "en-US": "105. Watching fob Friends and Enemies — Sermon for the Feast of St. Augustine",
+        "pt-BR": "105. Vigiar à espera de amigos e inimigos — Sermão para a Festa de Santo Agostinho"
       }
     },
     {
       "id": "s106",
       "title": {
-        "en-US": "106. The Supri m acy oi the < uoss ok Christ — First Sermon for the Feast of the Exaltation of the Holy Cross"
+        "en-US": "106. The Supri m acy oi the < uoss ok Christ — First Sermon for the Feast of the Exaltation of the Holy Cross",
+        "pt-BR": "106. A supremacia da Cruz de Cristo — Primeiro Sermão para a Festa da Exaltação da Santa Cruz"
       }
     },
     {
       "id": "s107",
       "title": {
-        "en-US": "107. Interior Cructfiction— Second Sermon for the Feast of the Exaltation of the Holy Cross"
+        "en-US": "107. Interior Cructfiction— Second Sermon for the Feast of the Exaltation of the Holy Cross",
+        "pt-BR": "107. Crucifixão interior — Segundo Sermão para a Festa da Exaltação da Santa Cruz"
       }
     },
     {
       "id": "s108",
       "title": {
-        "en-US": "108. Jesus fine nun Third Sermon for the Feast of the Exaltation of the Holy Cross"
+        "en-US": "108. Jesus fine nun Third Sermon for the Feast of the Exaltation of the Holy Cross",
+        "pt-BR": "108. Jesus crucificado — Terceiro Sermão para a Festa da Exaltação da Santa Cruz"
       }
     },
     {
       "id": "s109",
       "title": {
-        "en-US": "109. Giving Up All Sermon for the Feast of St. Matthew, Apostle and Evangelist"
+        "en-US": "109. Giving Up All Sermon for the Feast of St. Matthew, Apostle and Evangelist",
+        "pt-BR": "109. Renunciar a tudo — Sermão para a Festa de São Mateus, Apóstolo e Evangelista"
       }
     },
     {
       "id": "s110",
       "title": {
-        "en-US": "110. Paqe The Holy Angels — Sermon for the Feast of St. Michael and all Holy Angels"
+        "en-US": "110. Paqe The Holy Angels — Sermon for the Feast of St. Michael and all Holy Angels",
+        "pt-BR": "110. Os santos anjos — Sermão para a Festa de São Miguel e de Todos os Santos Anjos"
       }
     },
     {
       "id": "s111",
       "title": {
-        "en-US": "111. The Beatitudes — First Sermon for the Feast of all Saints"
+        "en-US": "111. The Beatitudes — First Sermon for the Feast of all Saints",
+        "pt-BR": "111. As bem-aventuranças — Primeiro Sermão para a Festa de Todos os Santos"
       }
     },
     {
       "id": "s112",
       "title": {
-        "en-US": "112. Interior Cleanliness — Second Sermon for the Feast of all Saints"
+        "en-US": "112. Interior Cleanliness — Second Sermon for the Feast of all Saints",
+        "pt-BR": "112. Pureza interior — Segundo Sermão para a Festa de Todos os Santos"
       }
     },
     {
       "id": "s113",
       "title": {
-        "en-US": "113. Perfection the Pearl of Great Price — Sermon for the Feast of St. Catherine, Virgin and Martyr 72S How Holy Love Joins Us to the Three Divine Persons — Sermon for the Feast of all the Holy Apostles"
+        "en-US": "113. Perfection the Pearl of Great Price — Sermon for the Feast of St. Catherine, Virgin and Martyr 72S How Holy Love Joins Us to the Three Divine Persons — Sermon for the Feast of all the Holy Apostles",
+        "pt-BR": "113. A perfeição, pérola de grande valor — Sermão para a Festa de Santa Catarina, Virgem e Mártir; Como o santo amor nos une às Três Pessoas Divinas — Sermão para a Festa de Todos os Santos Apóstolos"
       }
     },
     {
       "id": "s114",
       "title": {
-        "en-US": "114. The Suffering of a Bloodless Martyrdom and its Crown — Sermon for the Feast of Many Holy Martyrs"
+        "en-US": "114. The Suffering of a Bloodless Martyrdom and its Crown — Sermon for the Feast of Many Holy Martyrs",
+        "pt-BR": "114. O sofrimento de um martírio sem sangue e sua coroa — Sermão para a Festa de Muitos Santos Mártires"
       }
     },
     {
       "id": "s115",
       "title": {
-        "en-US": "115. How to Meet Temptations — Sermon for the Feast of a Holy Martyr"
+        "en-US": "115. How to Meet Temptations — Sermon for the Feast of a Holy Martyr",
+        "pt-BR": "115. Como enfrentar as tentações — Sermão para a Festa de um Santo Mártir"
       }
     },
     {
       "id": "s116",
       "title": {
-        "en-US": "116. On Human Respect — Sermon for the Feast of a Holy Bishop Confessor"
+        "en-US": "116. On Human Respect — Sermon for the Feast of a Holy Bishop Confessor",
+        "pt-BR": "116. Sobre o respeito humano — Sermão para a Festa de um Santo Bispo Confessor"
       }
     },
     {
       "id": "s117",
       "title": {
-        "en-US": "117. The Mistake of Turning Outward Instead of Inward — Sermon for a Feast of Many Holy Confessors"
+        "en-US": "117. The Mistake of Turning Outward Instead of Inward — Sermon for a Feast of Many Holy Confessors",
+        "pt-BR": "117. O erro de voltar-se para fora em vez de para dentro — Sermão para uma Festa de Muitos Santos Confessores"
       }
     },
     {
       "id": "s118",
       "title": {
-        "en-US": "118. The Triple Crown of Holy Love : Self-abnegation, Patience and Earnestness— Sermon for a Feast of Many Holy Virgins"
+        "en-US": "118. The Triple Crown of Holy Love : Self-abnegation, Patience and Earnestness— Sermon for a Feast of Many Holy Virgins",
+        "pt-BR": "118. A tríplice coroa do santo amor: abnegação de si, paciência e empenho — Sermão para uma Festa de Muitas Santas Virgens"
       }
     },
     {
       "id": "s119",
       "title": {
-        "en-US": "119. Human Nature Depraved and Sanctified — First Sermon for the Adversary of the Dedication of a Church"
+        "en-US": "119. Human Nature Depraved and Sanctified — First Sermon for the Adversary of the Dedication of a Church",
+        "pt-BR": "119. A natureza humana depravada e santificada — Primeiro Sermão para o Aniversário da Dedicação de uma Igreja"
       }
     },
     {
       "id": "s120",
       "title": {
-        "en-US": "120. Faith as a Practical Means of Sanctification — Second Sermon for the Anniversary of the Dedication of a Church"
+        "en-US": "120. Faith as a Practical Means of Sanctification — Second Sermon for the Anniversary of the Dedication of a Church",
+        "pt-BR": "120. A fé como meio prático de santificação — Segundo Sermão para o Aniversário da Dedicação de uma Igreja"
       }
     },
     {
       "id": "s121",
       "title": {
-        "en-US": "121. Two Useful Instructions About Confession"
+        "en-US": "121. Two Useful Instructions About Confession",
+        "pt-BR": "121. Duas instruções úteis sobre a confissão"
       }
     },
     {
       "id": "s122",
       "title": {
-        "en-US": "122. On the Attributes of God"
+        "en-US": "122. On the Attributes of God",
+        "pt-BR": "122. Sobre os atributos de Deus"
       }
     }
   ]
