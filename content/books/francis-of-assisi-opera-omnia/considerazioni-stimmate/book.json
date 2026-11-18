@@ -14,16 +14,22 @@
   "description": {
     "it": "Le cinque Considerazioni sulle sacre sante stimmate di san Francesco, che chiudono i Fioretti: la solitudine del monte della Verna, le apparizioni, la visione del Serafino e le stimmate, la fine della vita e i miracoli.",
     "en-US": "The five Considerations on the Holy Stigmata of St. Francis, the appendix to the Fioretti: the mountain of La Verna, the apparitions, the vision of the Seraph and the stigmata, the end of his life and the miracles. Italian.",
-    "pt-BR": "As cinco Considerações sobre os sagrados estigmas de São Francisco, apêndice dos Fioretti."
+    "pt-BR": "As cinco Considerações sobre os sagrados estigmas de São Francisco, que encerram os Fioretti: a solidão do monte Alverne, as aparições, a visão do serafim e os estigmas, o fim da vida e os milagres."
   },
   "composed": "c. 1370-1385",
   "languages": [
-    "it"
+    "it",
+    "pt-BR"
   ],
   "work": "francis-of-assisi/considerazioni-stimmate",
   "editions": {
     "it": {
       "editor": "transcription by M. Mastrorilli, Politecnico di Bari; edition not stated (the Cesari text family)"
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "it",
+      "year": 2026
     }
   },
   "sources": [
@@ -40,79 +46,92 @@
     {
       "id": "cap-001",
       "title": {
-        "it": "Della prima considerazione, delle sacre sante Istimate."
+        "it": "Della prima considerazione, delle sacre sante Istimate.",
+        "pt-BR": "Da primeira consideração dos sagrados estigmas."
       }
     },
     {
       "id": "cap-002",
       "title": {
-        "it": "Della seconda considerazione delle sacre sante Istimate."
+        "it": "Della seconda considerazione delle sacre sante Istimate.",
+        "pt-BR": "Da segunda consideração dos sagrados estigmas."
       }
     },
     {
       "id": "cap-003",
       "title": {
-        "it": "Della terza considerazione delle sacre sante Istimate."
+        "it": "Della terza considerazione delle sacre sante Istimate.",
+        "pt-BR": "Da terceira consideração dos sagrados estigmas."
       }
     },
     {
       "id": "cap-004",
       "title": {
-        "it": "Della quarta considerazione delle sacre sante Istimate."
+        "it": "Della quarta considerazione delle sacre sante Istimate.",
+        "pt-BR": "Da quarta consideração dos sagrados estigmas."
       }
     },
     {
       "id": "cap-005",
       "title": {
-        "it": "Come Messere Jeronimo toccò, e vide le sacre e sante Istimate di Santo Francesco, che prima non le credea."
+        "it": "Come Messere Jeronimo toccò, e vide le sacre e sante Istimate di Santo Francesco, che prima non le credea.",
+        "pt-BR": "Como o senhor Jerônimo tocou e viu os sagrados estigmas de São Francisco, nos quais antes não acreditava."
       }
     },
     {
       "id": "cap-006",
       "title": {
-        "it": "Del dì, e dello anno della morte di Santo Francesco."
+        "it": "Del dì, e dello anno della morte di Santo Francesco.",
+        "pt-BR": "Do dia e do ano da morte de São Francisco."
       }
     },
     {
       "id": "cap-007",
       "title": {
-        "it": "Della Canonizzazione di Santo Francesco."
+        "it": "Della Canonizzazione di Santo Francesco.",
+        "pt-BR": "Da canonização de São Francisco."
       }
     },
     {
       "id": "cap-008",
       "title": {
-        "it": "Della quinta, e ultima considerazione delle sacre sante Istimate."
+        "it": "Della quinta, e ultima considerazione delle sacre sante Istimate.",
+        "pt-BR": "Da quinta e última consideração dos sagrados estigmas."
       }
     },
     {
       "id": "cap-009",
       "title": {
-        "it": "Come uno santo Frate, leggendo la leggenda di Santo Francesco nel capitolo delle sacre sante Istimate, delle segrete parole, le quali disse il Serafino a Santo Francesco quando gli apparve, pregò tanto Iddio, che S. Frarncesco gliele rivelò."
+        "it": "Come uno santo Frate, leggendo la leggenda di Santo Francesco nel capitolo delle sacre sante Istimate, delle segrete parole, le quali disse il Serafino a Santo Francesco quando gli apparve, pregò tanto Iddio, che S. Frarncesco gliele rivelò.",
+        "pt-BR": "Como um santo irmão, lendo a legenda de São Francisco, no capítulo dos sagrados estigmas, acerca das palavras secretas que o serafim disse a São Francisco quando lhe apareceu, tanto suplicou a Deus que São Francisco lhas revelou."
       }
     },
     {
       "id": "cap-010",
       "title": {
-        "it": "Come Santo Francesco essendo morto apparve a Frate Giovanni della Verna, stando in orazione."
+        "it": "Come Santo Francesco essendo morto apparve a Frate Giovanni della Verna, stando in orazione.",
+        "pt-BR": "Como São Francisco, depois de morto, apareceu a frei João do Alverne, que estava em oração."
       }
     },
     {
       "id": "cap-011",
       "title": {
-        "it": "D'uno santo Frate, che vide una mirabile visione di uno suo compagno, essendo morto."
+        "it": "D'uno santo Frate, che vide una mirabile visione di uno suo compagno, essendo morto.",
+        "pt-BR": "De um santo irmão que teve uma maravilhosa visão de um companheiro seu que havia morrido."
       }
     },
     {
       "id": "cap-012",
       "title": {
-        "it": "Come uno nobile Cavaliere divoto di Santo Francesco fu certificato della morte, e delle sacre sante Istimate di Santo Francesco."
+        "it": "Come uno nobile Cavaliere divoto di Santo Francesco fu certificato della morte, e delle sacre sante Istimate di Santo Francesco.",
+        "pt-BR": "Como um nobre cavaleiro devoto de São Francisco recebeu a certeza da morte e dos sagrados estigmas de São Francisco."
       }
     },
     {
       "id": "cap-013",
       "title": {
-        "it": "Come Papa Gregorio Nono, dubitando delle Istimate di Santo Francesco, ne fu chiarito."
+        "it": "Come Papa Gregorio Nono, dubitando delle Istimate di Santo Francesco, ne fu chiarito.",
+        "pt-BR": "Como o papa Gregório IX, duvidando dos estigmas de São Francisco, foi esclarecido a respeito deles."
       }
     }
   ]
