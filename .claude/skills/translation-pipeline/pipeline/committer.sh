@@ -36,7 +36,7 @@ for src in sorted(glob.glob(d + "/" + lang + "/" + scope + "*.md")):
     # The English editions also cite in Roman numerals ("1 Cor. XI. 5", "iii. 1"),
     # which a translation writes as 11:5; those may appear in pt-BR only.
     roman = lambda r: sum({"i": 1, "v": 5, "x": 10, "l": 50, "c": 100}[c] * (-1 if k + 1 < len(r) and {"i": 1, "v": 5, "x": 10, "l": 50, "c": 100}[c] < {"i": 1, "v": 5, "x": 10, "l": 50, "c": 100}[r[k + 1]] else 1) for k, c in enumerate(r))
-    romanRefs = lambda s: {"%d:%s" % (roman(m.group(1).lower()), m.group(2)) for m in re.finditer(r"\b([IVXLCivxlc]+)\.\s*(\d+)", s)}
+    romanRefs = lambda s: {"%d:%s" % (roman(m.group(1).lower()), m.group(2)) for m in re.finditer(r"\b([IVXLCivxlc]+)[.,]\s*(\d+)", s)}
     for i, (x, y) in enumerate(zip(a, b)):
         if lang == "en-US" and (set(refs(x)) - set(refs(y)) or set(refs(y)) - set(refs(x)) - romanRefs(x)): problems.append("%s p%d: scripture refs differ" % (name, i + 1))
         wx, wy = len(x.split()), len(y.split())
