@@ -18,13 +18,19 @@
   },
   "composed": "c. 1471",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "thomas-a-kempis/chronica-montis-sanctae-agnetis",
   "editions": {
     "en-US": {
       "translator": "J. P. Arthur",
       "year": 1906
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,187 +47,218 @@
     {
       "id": "preface",
       "title": {
-        "en-US": "Preface"
+        "en-US": "Preface",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "part-1",
       "title": {
-        "en-US": "Of the foundation and the first Fathers of Mount St. Agnes"
+        "en-US": "Of the foundation and the first Fathers of Mount St. Agnes",
+        "pt-BR": "Da fundação e dos primeiros padres do Monte Santa Inês"
       },
       "children": [
         {
           "id": "p1-01",
           "title": {
-            "en-US": "1. Of the first founders of the Monastery at Mount St. Agnes, and how Master Gerard Groote first pointed out this place to them"
+            "en-US": "1. Of the first founders of the Monastery at Mount St. Agnes, and how Master Gerard Groote first pointed out this place to them",
+            "pt-BR": "1. Dos primeiros fundadores do Mosteiro do Monte Santa Inês e de como mestre Gerardo Groote lhes indicou esse lugar pela primeira vez"
           }
         },
         {
           "id": "p1-02",
           "title": {
-            "en-US": "2. Of the building of the first House on Mount St. Agnes"
+            "en-US": "2. Of the building of the first House on Mount St. Agnes",
+            "pt-BR": "2. Da construção da primeira casa no Monte Santa Inês"
           }
         },
         {
           "id": "p1-03",
           "title": {
-            "en-US": "3. Concerning the names of the first Brothers and their labours"
+            "en-US": "3. Concerning the names of the first Brothers and their labours",
+            "pt-BR": "3. Dos nomes dos primeiros irmãos e de seus trabalhos"
           }
         },
         {
           "id": "p1-04",
           "title": {
-            "en-US": "4. Of the scanty food and raiment of the Brothers, and how wondrously God did provide for them"
+            "en-US": "4. Of the scanty food and raiment of the Brothers, and how wondrously God did provide for them",
+            "pt-BR": "4. Da escassez de alimento e roupa dos irmãos e de como Deus os proveu maravilhosamente"
           }
         },
         {
           "id": "p1-05",
           "title": {
-            "en-US": "5. Of the consecration of the first chapel and altar at Mount St. Agnes"
+            "en-US": "5. Of the consecration of the first chapel and altar at Mount St. Agnes",
+            "pt-BR": "5. Da consagração da primeira capela e do primeiro altar no Monte Santa Inês"
           }
         },
         {
           "id": "p1-06",
           "title": {
-            "en-US": "6. Of the year and place in which the first four Brothers were invested"
+            "en-US": "6. Of the year and place in which the first four Brothers were invested",
+            "pt-BR": "6. Do ano e do lugar em que os primeiros quatro irmãos receberam o hábito"
           }
         },
         {
           "id": "p1-07",
           "title": {
-            "en-US": "7. How the monastery was removed from Westerhof to Mount St. Agnes"
+            "en-US": "7. How the monastery was removed from Westerhof to Mount St. Agnes",
+            "pt-BR": "7. De como o mosteiro foi transferido de Westerhof para o Monte Santa Inês"
           }
         },
         {
           "id": "p1-08",
           "title": {
-            "en-US": "8. How John Kempen was chosen as the first Prior of Mount St. Agnes"
+            "en-US": "8. How John Kempen was chosen as the first Prior of Mount St. Agnes",
+            "pt-BR": "8. De como João de Kempen foi escolhido como primeiro prior do Monte Santa Inês"
           }
         },
         {
           "id": "p1-09",
           "title": {
-            "en-US": "9. How the Burial-ground at Mount St. Agnes was consecrated"
+            "en-US": "9. How the Burial-ground at Mount St. Agnes was consecrated",
+            "pt-BR": "9. De como foi consagrado o cemitério do Monte Santa Inês"
           }
         },
         {
           "id": "p1-10",
           "title": {
-            "en-US": "10. Of the Brothers who were invested by John of Kempen, the first Prior"
+            "en-US": "10. Of the Brothers who were invested by John of Kempen, the first Prior",
+            "pt-BR": "10. Dos irmãos que receberam o hábito das mãos de João de Kempen, o primeiro prior"
           }
         },
         {
           "id": "p1-11",
           "title": {
-            "en-US": "11. Of the death of Brother Wolfard, Priest in the Monastery of Mount St. Agnes"
+            "en-US": "11. Of the death of Brother Wolfard, Priest in the Monastery of Mount St. Agnes",
+            "pt-BR": "11. Da morte do irmão Wolfard, sacerdote no Mosteiro do Monte Santa Inês"
           }
         },
         {
           "id": "p1-12",
           "title": {
-            "en-US": "12. How Brother William Forniken was chosen to be the second Prior in the House of Mount St. Agnes"
+            "en-US": "12. How Brother William Forniken was chosen to be the second Prior in the House of Mount St. Agnes",
+            "pt-BR": "12. De como o irmão Guilherme Forniken foi escolhido como segundo prior da Casa do Monte Santa Inês"
           }
         },
         {
           "id": "p1-13",
           "title": {
-            "en-US": "13. Of the death of Brother Nicholas Kreyenschot"
+            "en-US": "13. Of the death of Brother Nicholas Kreyenschot",
+            "pt-BR": "13. Da morte do irmão Nicolau Kreyenschot"
           }
         },
         {
           "id": "p1-14",
           "title": {
-            "en-US": "14. Of the consecration of our Church and of four Altars in the House of Mount St. Agnes"
+            "en-US": "14. Of the consecration of our Church and of four Altars in the House of Mount St. Agnes",
+            "pt-BR": "14. Da consagração de nossa igreja e de quatro altares na Casa do Monte Santa Inês"
           }
         },
         {
           "id": "p1-15",
           "title": {
-            "en-US": "15. Of the death of the beloved Father John Ummen, the first Founder of the Monastery of Mount St. Agnes"
+            "en-US": "15. Of the death of the beloved Father John Ummen, the first Founder of the Monastery of Mount St. Agnes",
+            "pt-BR": "15. Da morte do amado padre João Ummen, primeiro fundador do Mosteiro do Monte Santa Inês"
           }
         },
         {
           "id": "p1-16",
           "title": {
-            "en-US": "16. Of the pestilence that afflicted mankind, and how some of our Brothers died in this plague"
+            "en-US": "16. Of the pestilence that afflicted mankind, and how some of our Brothers died in this plague",
+            "pt-BR": "16. Da peste que afligiu a humanidade e de como alguns de nossos irmãos morreram nessa epidemia"
           }
         },
         {
           "id": "p1-17",
           "title": {
-            "en-US": "17. Of the death of William, son of Seger, a Priest in Hasselt"
+            "en-US": "17. Of the death of William, son of Seger, a Priest in Hasselt",
+            "pt-BR": "17. Da morte de Guilherme, filho de Seger, sacerdote em Hasselt"
           }
         },
         {
           "id": "p1-18",
           "title": {
-            "en-US": "18. Of the death of our most reverend Lord Frederic, Bishop of Utrecht"
+            "en-US": "18. Of the death of our most reverend Lord Frederic, Bishop of Utrecht",
+            "pt-BR": "18. Da morte de nosso reverendíssimo senhor Frederico, bispo de Utrecht"
           }
         },
         {
           "id": "p1-19",
           "title": {
-            "en-US": "19. Of the death of Brother John Vos of Huesden, who was the second Prior at Windesem"
+            "en-US": "19. Of the death of Brother John Vos of Huesden, who was the second Prior at Windesem",
+            "pt-BR": "19. Da morte do irmão João Vos de Huesden, que foi o segundo prior de Windesem"
           }
         },
         {
           "id": "p1-20",
           "title": {
-            "en-US": "20. How Brother Theodoric of Kleef was chosen to be the third Prior of the House on the Mount"
+            "en-US": "20. How Brother Theodoric of Kleef was chosen to be the third Prior of the House on the Mount",
+            "pt-BR": "20. De como o irmão Teodorico de Kleef foi escolhido como terceiro prior da Casa do Monte"
           }
         },
         {
           "id": "p1-21",
           "title": {
-            "en-US": "21. Of the death of Brother Egbert formerly Sub-Prior at the House on the Mount"
+            "en-US": "21. Of the death of Brother Egbert formerly Sub-Prior at the House on the Mount",
+            "pt-BR": "21. Da morte do irmão Egberto, antigo subprior da Casa do Monte"
           }
         },
         {
           "id": "p1-22",
           "title": {
-            "en-US": "22. How our Brothers and other Religious were driven from the land by reason of the Interdict"
+            "en-US": "22. How our Brothers and other Religious were driven from the land by reason of the Interdict",
+            "pt-BR": "22. De como nossos irmãos e outros religiosos foram expulsos da terra por causa do interdito"
           }
         },
         {
           "id": "p1-23",
           "title": {
-            "en-US": "23. Of the return of our Brothers from Frisia to Mount St. Agnes"
+            "en-US": "23. Of the return of our Brothers from Frisia to Mount St. Agnes",
+            "pt-BR": "23. Da volta de nossos irmãos da Frísia ao Monte Santa Inês"
           }
         },
         {
           "id": "p1-24",
           "title": {
-            "en-US": "24. Of the death of Brother John of Kempen, the first Prior of Mount St. Agnes"
+            "en-US": "24. Of the death of Brother John of Kempen, the first Prior of Mount St. Agnes",
+            "pt-BR": "24. Da morte do irmão João de Kempen, primeiro prior do Monte Santa Inês"
           }
         },
         {
           "id": "p1-25",
           "title": {
-            "en-US": "25. How Theodoric of Kleef, third Prior of the House on the Mount laid down his office, and was absolved therefrom"
+            "en-US": "25. How Theodoric of Kleef, third Prior of the House on the Mount laid down his office, and was absolved therefrom",
+            "pt-BR": "25. De como Teodorico de Kleef, terceiro prior da Casa do Monte, deixou seu ofício e foi dele dispensado"
           }
         },
         {
           "id": "p1-26",
           "title": {
-            "en-US": "26. How Brother Henry of Deventer was chosen to be the fourth Prior of the House of Mount St. Agnes"
+            "en-US": "26. How Brother Henry of Deventer was chosen to be the fourth Prior of the House of Mount St. Agnes",
+            "pt-BR": "26. De como o irmão Henrique de Deventer foi escolhido como quarto prior da Casa do Monte Santa Inês"
           }
         },
         {
           "id": "p1-27",
           "title": {
-            "en-US": "27. How Father Henry, the fourth Prior, resigned his office, and how Father George was chosen to be the fifth Prior"
+            "en-US": "27. How Father Henry, the fourth Prior, resigned his office, and how Father George was chosen to be the fifth Prior",
+            "pt-BR": "27. De como padre Henrique, o quarto prior, renunciou ao ofício e de como padre Jorge foi escolhido como quinto prior"
           }
         },
         {
           "id": "p1-28",
           "title": {
-            "en-US": "28. Of the ancient Reliquary of St. Agnes, and how it was gotten"
+            "en-US": "28. Of the ancient Reliquary of St. Agnes, and how it was gotten",
+            "pt-BR": "28. Do antigo relicário de Santa Inês e de como foi obtido"
           }
         },
         {
           "id": "p1-29",
           "title": {
-            "en-US": "29. Of the death of Brother Henry, son of William, the fourth Prior of our House"
+            "en-US": "29. Of the death of Brother Henry, son of William, the fourth Prior of our House",
+            "pt-BR": "29. Da morte do irmão Henrique, filho de Guilherme, quarto prior de nossa Casa"
           }
         }
       ]
@@ -229,151 +266,176 @@
     {
       "id": "part-2",
       "title": {
-        "en-US": "From the chronicle: matters not pertaining to our house"
+        "en-US": "From the chronicle: matters not pertaining to our house",
+        "pt-BR": "Da crônica: assuntos que não dizem respeito à nossa Casa"
       },
       "children": [
         {
           "id": "p2-01",
           "title": {
-            "en-US": "1. Concerning the year in which that reverend man, Florentius of Wevelichoven, was made Bishop of Utrecht"
+            "en-US": "1. Concerning the year in which that reverend man, Florentius of Wevelichoven, was made Bishop of Utrecht",
+            "pt-BR": "1. Do ano em que o reverendo Florêncio de Wevelichoven foi feito bispo de Utrecht"
           }
         },
         {
           "id": "p2-02",
           "title": {
-            "en-US": "2. Of the death of John Ruesbroeck, first Prior of the Groenendaal"
+            "en-US": "2. Of the death of John Ruesbroeck, first Prior of the Groenendaal",
+            "pt-BR": "2. Da morte de João Ruesbroeck, primeiro prior de Groenendaal"
           }
         },
         {
           "id": "p2-03",
           "title": {
-            "en-US": "3. Of the death of the venerable Master Gerard Groote, a man most devout"
+            "en-US": "3. Of the death of the venerable Master Gerard Groote, a man most devout",
+            "pt-BR": "3. Da morte do venerável mestre Gerardo Groote, homem devotíssimo"
           }
         },
         {
           "id": "p2-04",
           "title": {
-            "en-US": "4. Of the great eulogy passed upon Gerard by a certain doctor"
+            "en-US": "4. Of the great eulogy passed upon Gerard by a certain doctor",
+            "pt-BR": "4. Do grande elogio feito a Gerardo por certo doutor"
           }
         },
         {
           "id": "p2-05",
           "title": {
-            "en-US": "5. How, after his death, the number of the Devout and the Order of Regulars did increase"
+            "en-US": "5. How, after his death, the number of the Devout and the Order of Regulars did increase",
+            "pt-BR": "5. De como, depois de sua morte, aumentaram o número dos devotos e a ordem dos regulares"
           }
         },
         {
           "id": "p2-06",
           "title": {
-            "en-US": "6. Of the consecration of the Church, and the investiture of the first Brothers in Windesem"
+            "en-US": "6. Of the consecration of the Church, and the investiture of the first Brothers in Windesem",
+            "pt-BR": "6. Da consagração da igreja e da tomada de hábito dos primeiros irmãos em Windesem"
           }
         },
         {
           "id": "p2-07",
           "title": {
-            "en-US": "7. Of the death of John de Gronde, a Priest"
+            "en-US": "7. Of the death of John de Gronde, a Priest",
+            "pt-BR": "7. Da morte de João de Gronde, sacerdote"
           }
         },
         {
           "id": "p2-08",
           "title": {
-            "en-US": "8. Of the death of the most Reverend Florentius of Wevelichoven, Bishop of Utrecht"
+            "en-US": "8. Of the death of the most Reverend Florentius of Wevelichoven, Bishop of Utrecht",
+            "pt-BR": "8. Da morte do reverendíssimo Florêncio de Wevelichoven, bispo de Utrecht"
           }
         },
         {
           "id": "p2-09",
           "title": {
-            "en-US": "9. How Frederick of Blanckenhem was chosen to be Bishop"
+            "en-US": "9. How Frederick of Blanckenhem was chosen to be Bishop",
+            "pt-BR": "9. De como Frederico de Blanckenhem foi escolhido como bispo"
           }
         },
         {
           "id": "p2-10",
           "title": {
-            "en-US": "10. How the monastery at Northorn was founded"
+            "en-US": "10. How the monastery at Northorn was founded",
+            "pt-BR": "10. De como foi fundado o mosteiro de Northorn"
           }
         },
         {
           "id": "p2-11",
           "title": {
-            "en-US": "11. Of the death of that most devout Priest Florentius, Vicar of the Church of Deventer"
+            "en-US": "11. Of the death of that most devout Priest Florentius, Vicar of the Church of Deventer",
+            "pt-BR": "11. Da morte do devotíssimo sacerdote Florêncio, vigário da igreja de Deventer"
           }
         },
         {
           "id": "p2-12",
           "title": {
-            "en-US": "12. Of the death of Everard of Eza, a Curate in Almelo and a great master of Physic"
+            "en-US": "12. Of the death of Everard of Eza, a Curate in Almelo and a great master of Physic",
+            "pt-BR": "12. Da morte de Everardo de Eza, pároco em Almelo e grande mestre de medicina"
           }
         },
         {
           "id": "p2-13",
           "title": {
-            "en-US": "13. Of the death of the Priest Amilius that succeeded Florentius at Deventer"
+            "en-US": "13. Of the death of the Priest Amilius that succeeded Florentius at Deventer",
+            "pt-BR": "13. Da morte do sacerdote Emílio, que sucedeu a Florêncio em Deventer"
           }
         },
         {
           "id": "p2-14",
           "title": {
-            "en-US": "14. Of the first investiture of the Sisters of our Order in Diepenvene near Deventer"
+            "en-US": "14. Of the first investiture of the Sisters of our Order in Diepenvene near Deventer",
+            "pt-BR": "14. Da primeira tomada de hábito das irmãs de nossa ordem em Diepenvene, perto de Deventer"
           }
         },
         {
           "id": "p2-15",
           "title": {
-            "en-US": "15. How the monastery in Budiken was reformed"
+            "en-US": "15. How the monastery in Budiken was reformed",
+            "pt-BR": "15. De como foi reformado o mosteiro de Budiken"
           }
         },
         {
           "id": "p2-16",
           "title": {
-            "en-US": "16. Of the death of Gerard Kalker, a devout Priest, and Rector of the House of Clerks"
+            "en-US": "16. Of the death of Gerard Kalker, a devout Priest, and Rector of the House of Clerks",
+            "pt-BR": "16. Da morte de Gerardo Kalker, sacerdote devoto e reitor da Casa dos Clérigos"
           }
         },
         {
           "id": "p2-17",
           "title": {
-            "en-US": "17. Of the death of Henry of Gouda, a devout Priest, at Zwolle"
+            "en-US": "17. Of the death of Henry of Gouda, a devout Priest, at Zwolle",
+            "pt-BR": "17. Da morte de Henrique de Gouda, sacerdote devoto, em Zwolle"
           }
         },
         {
           "id": "p2-18",
           "title": {
-            "en-US": "18. How the Sisters in Bronope were invested"
+            "en-US": "18. How the Sisters in Bronope were invested",
+            "pt-BR": "18. De como as irmãs de Bronope receberam o hábito"
           }
         },
         {
           "id": "p2-19",
           "title": {
-            "en-US": "19. The death of Wermbold the Priest"
+            "en-US": "19. The death of Wermbold the Priest",
+            "pt-BR": "19. A morte do sacerdote Wermbold"
           }
         },
         {
           "id": "p2-20",
           "title": {
-            "en-US": "20. Of the death of John Cele, Rector of the School at Zwolle"
+            "en-US": "20. Of the death of John Cele, Rector of the School at Zwolle",
+            "pt-BR": "20. Da morte de João Cele, reitor da escola de Zwolle"
           }
         },
         {
           "id": "p2-21",
           "title": {
-            "en-US": "21. Concerning John Brinckerinck, a disciple of Master Gerard"
+            "en-US": "21. Concerning John Brinckerinck, a disciple of Master Gerard",
+            "pt-BR": "21. De João Brinckerinck, discípulo de mestre Gerardo"
           }
         },
         {
           "id": "p2-22",
           "title": {
-            "en-US": "22. Of the death of Gisbert Dou, Rector of the Sisters at Amsterdam"
+            "en-US": "22. Of the death of Gisbert Dou, Rector of the Sisters at Amsterdam",
+            "pt-BR": "22. Da morte de Gisberto Dou, reitor das irmãs em Amsterdã"
           }
         },
         {
           "id": "p2-23",
           "title": {
-            "en-US": "23. As to the gaining of Indulgences at the stations in Rome"
+            "en-US": "23. As to the gaining of Indulgences at the stations in Rome",
+            "pt-BR": "23. Da obtenção de indulgências nas estações de Roma"
           }
         },
         {
           "id": "p2-24",
           "title": {
-            "en-US": "24. The letter of the Cardinal of Bologna"
+            "en-US": "24. The letter of the Cardinal of Bologna",
+            "pt-BR": "24. A carta do cardeal de Bolonha"
           }
         }
       ]
@@ -381,187 +443,218 @@
     {
       "id": "part-3",
       "title": {
-        "en-US": "A letter concerning the first institution of the monastery at Windesheim (William Vornken)"
+        "en-US": "A letter concerning the first institution of the monastery at Windesheim (William Vornken)",
+        "pt-BR": "Carta sobre a primeira fundação do mosteiro de Windesheim (Guilherme Vornken)"
       },
       "children": [
         {
           "id": "p3-01",
           "title": {
-            "en-US": "Prologue"
+            "en-US": "Prologue",
+            "pt-BR": "Prólogo"
           }
         },
         {
           "id": "p3-02",
           "title": {
-            "en-US": "2. The history of the origin of the New Devotion"
+            "en-US": "2. The history of the origin of the New Devotion",
+            "pt-BR": "2. A história da origem da Nova Devoção"
           }
         },
         {
           "id": "p3-03",
           "title": {
-            "en-US": "3. Of them by whom this land was turned to the Faith of Christ"
+            "en-US": "3. Of them by whom this land was turned to the Faith of Christ",
+            "pt-BR": "3. Daqueles por quem esta terra foi convertida à fé de Cristo"
           }
         },
         {
           "id": "p3-04",
           "title": {
-            "en-US": "4. A lamentation over the waning of the aforesaid fervour"
+            "en-US": "4. A lamentation over the waning of the aforesaid fervour",
+            "pt-BR": "4. Lamentação pelo declínio do referido fervor"
           }
         },
         {
           "id": "p3-05",
           "title": {
-            "en-US": "5. Of the rise of the New Devotion in our land"
+            "en-US": "5. Of the rise of the New Devotion in our land",
+            "pt-BR": "5. Do surgimento da Nova Devoção em nossa terra"
           }
         },
         {
           "id": "p3-06",
           "title": {
-            "en-US": "6. Of Master Gherard Groet"
+            "en-US": "6. Of Master Gherard Groet",
+            "pt-BR": "6. De mestre Gerardo Groote"
           }
         },
         {
           "id": "p3-07",
           "title": {
-            "en-US": "7. Of his death"
+            "en-US": "7. Of his death",
+            "pt-BR": "7. De sua morte"
           }
         },
         {
           "id": "p3-08",
           "title": {
-            "en-US": "8. Concerning Florentius and his companions"
+            "en-US": "8. Concerning Florentius and his companions",
+            "pt-BR": "8. De Florêncio e seus companheiros"
           }
         },
         {
           "id": "p3-09",
           "title": {
-            "en-US": "9. How like things were done in other cities"
+            "en-US": "9. How like things were done in other cities",
+            "pt-BR": "9. De como coisas semelhantes foram feitas em outras cidades"
           }
         },
         {
           "id": "p3-10",
           "title": {
-            "en-US": "10. Of the names of the Fathers and Rectors of the first congregation"
+            "en-US": "10. Of the names of the Fathers and Rectors of the first congregation",
+            "pt-BR": "10. Dos nomes dos padres e reitores da primeira congregação"
           }
         },
         {
           "id": "p3-11",
           "title": {
-            "en-US": "11. Of the multiplication of the devout, especially of virgins"
+            "en-US": "11. Of the multiplication of the devout, especially of virgins",
+            "pt-BR": "11. Da multiplicação dos devotos, especialmente das virgens"
           }
         },
         {
           "id": "p3-12",
           "title": {
-            "en-US": "12. How a certain monk of Cologne was put to confusion"
+            "en-US": "12. How a certain monk of Cologne was put to confusion",
+            "pt-BR": "12. De como certo monge de Colônia foi confundido"
           }
         },
         {
           "id": "p3-13",
           "title": {
-            "en-US": "13. How the Sisters were examined"
+            "en-US": "13. How the Sisters were examined",
+            "pt-BR": "13. De como as irmãs foram examinadas"
           }
         },
         {
           "id": "p3-14",
           "title": {
-            "en-US": "14. Concerning Master Bernard de Reyda"
+            "en-US": "14. Concerning Master Bernard de Reyda",
+            "pt-BR": "14. De mestre Bernardo de Reyda"
           }
         },
         {
           "id": "p3-15",
           "title": {
-            "en-US": "15. Of the origin of the House at Windesem"
+            "en-US": "15. Of the origin of the House at Windesem",
+            "pt-BR": "15. Da origem da Casa de Windesem"
           }
         },
         {
           "id": "p3-16",
           "title": {
-            "en-US": "16. Concerning Brother Bertold, and the site of this monastery"
+            "en-US": "16. Concerning Brother Bertold, and the site of this monastery",
+            "pt-BR": "16. Do irmão Bertoldo e do terreno deste mosteiro"
           }
         },
         {
           "id": "p3-17",
           "title": {
-            "en-US": "17. Of the goodwill and consent of Florentius the Lord Bishop"
+            "en-US": "17. Of the goodwill and consent of Florentius the Lord Bishop",
+            "pt-BR": "17. Da boa vontade e do consentimento do senhor bispo Florêncio"
           }
         },
         {
           "id": "p3-18",
           "title": {
-            "en-US": "18. Of the first Brothers of this monastery"
+            "en-US": "18. Of the first Brothers of this monastery",
+            "pt-BR": "18. Dos primeiros irmãos deste mosteiro"
           }
         },
         {
           "id": "p3-19",
           "title": {
-            "en-US": "19. The praise of the early Fathers"
+            "en-US": "19. The praise of the early Fathers",
+            "pt-BR": "19. O elogio dos primeiros padres"
           }
         },
         {
           "id": "p3-20",
           "title": {
-            "en-US": "20. How the Brothers aforesaid were promoted in other monasteries"
+            "en-US": "20. How the Brothers aforesaid were promoted in other monasteries",
+            "pt-BR": "20. De como os referidos irmãos foram elevados a cargos em outros mosteiros"
           }
         },
         {
           "id": "p3-21",
           "title": {
-            "en-US": "21. Of the pattern of virtue left for us by the Fathers"
+            "en-US": "21. Of the pattern of virtue left for us by the Fathers",
+            "pt-BR": "21. Do modelo de virtude que os padres nos deixaram"
           }
         },
         {
           "id": "p3-22",
           "title": {
-            "en-US": "22. Of their simplicity and poverty"
+            "en-US": "22. Of their simplicity and poverty",
+            "pt-BR": "22. De sua simplicidade e pobreza"
           }
         },
         {
           "id": "p3-23",
           "title": {
-            "en-US": "23. Of their Victual"
+            "en-US": "23. Of their Victual",
+            "pt-BR": "23. De sua alimentação"
           }
         },
         {
           "id": "p3-24",
           "title": {
-            "en-US": "24. Of their Vesture"
+            "en-US": "24. Of their Vesture",
+            "pt-BR": "24. De sua vestimenta"
           }
         },
         {
           "id": "p3-25",
           "title": {
-            "en-US": "25. How they avoided all occasion of scandal"
+            "en-US": "25. How they avoided all occasion of scandal",
+            "pt-BR": "25. De como evitavam toda ocasião de escândalo"
           }
         },
         {
           "id": "p3-26",
           "title": {
-            "en-US": "26. Of their Charity"
+            "en-US": "26. Of their Charity",
+            "pt-BR": "26. De sua caridade"
           }
         },
         {
           "id": "p3-27",
           "title": {
-            "en-US": "27. Concerning Gherard of Renen"
+            "en-US": "27. Concerning Gherard of Renen",
+            "pt-BR": "27. De Gerardo de Renen"
           }
         },
         {
           "id": "p3-28",
           "title": {
-            "en-US": "28. Of the privileges obtained for the binding together of the Chapters"
+            "en-US": "28. Of the privileges obtained for the binding together of the Chapters",
+            "pt-BR": "28. Dos privilégios obtidos para a união dos capítulos"
           }
         },
         {
           "id": "p3-29",
           "title": {
-            "en-US": "29. Of their manner of holding the Chapter"
+            "en-US": "29. Of their manner of holding the Chapter",
+            "pt-BR": "29. De seu modo de realizar o capítulo"
           }
         },
         {
           "id": "p3-30",
           "title": {
-            "en-US": "30. The Conclusion"
+            "en-US": "30. The Conclusion",
+            "pt-BR": "30. A conclusão"
           }
         }
       ]

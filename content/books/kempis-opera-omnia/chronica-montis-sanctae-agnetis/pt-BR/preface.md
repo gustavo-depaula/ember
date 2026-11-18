@@ -1,0 +1,7 @@
+# Prefácio
+
+O piedoso desejo de alguns de nossos irmãos levou-me a compor uma breve crônica sobre o começo de nossa Casa e a primeira fundação de nosso mosteiro no Monte Santa Inês, para que essa crônica seja uma consolação para os que agora vivem e uma memória para os que vierem depois. Por isso, atendendo humildemente a seus piedosos desejos, reuni umas poucas coisas dentre muitas, que vi com meus próprios olhos, ouvi dos anciãos de nossa Casa ou recolhi dos escritos de outros.
+
+Alguns dos anciãos que primeiro moraram nesta Casa nos contaram que, antes de se construir um mosteiro neste lugar e antes de alguém vir aqui servir a Deus, muitas vezes apareciam aos pastores e aos moradores das proximidades visões de homens vestidos de branco, que pareciam andar em procissão ao redor do monte; e o significado e o sentido assim anunciados se tornaram bastante claros depois, com o passar do tempo, quando surgiu o mosteiro, começado neste lugar pela graça de Deus por uns poucos irmãos e depois concluído com muito trabalho, e uma grande comunidade de irmãos passou a morar nele; pois então se viu como a devota congregação dos cônegos regulares, vestida de branco, servia a Deus com devoção, cantando hinos e salmos e celebrando a missa; também recitando todos os dias as devidas horas canônicas em seu louvor e rezando por nossos benfeitores, vivos e mortos, sobretudo por aqueles que estão sepultados neste mosteiro.
+
+A CRÔNICA DOS CÔNEGOS REGULARES DO MONTE SANTA INÊS.
