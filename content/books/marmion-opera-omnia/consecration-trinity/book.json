@@ -17,13 +17,19 @@
   },
   "composed": "1908",
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "marmion/consecration-trinity",
   "editions": {
     "fr-FR": {
       "editor": "Dom Raymond Thibaut, O.S.B. (quoted in Dom Columba Marmion, Maredsous, 2nd ed.)",
       "year": 1930
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -40,7 +46,8 @@
     {
       "id": "acte-de-consecration",
       "title": {
-        "fr-FR": "Acte de consécration (Noël 1908)"
+        "fr-FR": "Acte de consécration (Noël 1908)",
+        "pt-BR": "Ato de consagração (Natal de 1908)"
       }
     }
   ]
