@@ -18,13 +18,19 @@
   },
   "composed": "c. 1425-1440",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "thomas-a-kempis/libellus-spiritualis-exercitii",
   "editions": {
     "la": {
       "editor": "Michael Joseph Pohl",
       "year": 1904
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,73 +47,85 @@
     {
       "id": "p1-01",
       "title": {
-        "la": "1. De fervida exhortatione ad virtutes"
+        "la": "1. De fervida exhortatione ad virtutes",
+        "pt-BR": "1. Da fervorosa exortação às virtudes"
       }
     },
     {
       "id": "p1-02",
       "title": {
-        "la": "2. De firmo proposito servando per diem"
+        "la": "2. De firmo proposito servando per diem",
+        "pt-BR": "2. Do firme propósito a guardar durante o dia"
       }
     },
     {
       "id": "p1-03",
       "title": {
-        "la": "3. De elevatione et directione cordis ad deum"
+        "la": "3. De elevatione et directione cordis ad deum",
+        "pt-BR": "3. Da elevação e direção do coração a Deus"
       }
     },
     {
       "id": "p1-04",
       "title": {
-        "la": "4. De custodia cellae et sensuum exteriorum"
+        "la": "4. De custodia cellae et sensuum exteriorum",
+        "pt-BR": "4. Da guarda da cela e dos sentidos exteriores"
       }
     },
     {
       "id": "p1-05",
       "title": {
-        "la": "5. De hora surgendi et officio divino"
+        "la": "5. De hora surgendi et officio divino",
+        "pt-BR": "5. Da hora de levantar e do ofício divino"
       }
     },
     {
       "id": "p1-06",
       "title": {
-        "la": "6. De refectorio et cibis sumendis"
+        "la": "6. De refectorio et cibis sumendis",
+        "pt-BR": "6. Do refeitório e da refeição"
       }
     },
     {
       "id": "p1-07",
       "title": {
-        "la": "7. De fabulis et otio vitandis"
+        "la": "7. De fabulis et otio vitandis",
+        "pt-BR": "7. Das conversas fúteis e da ociosidade que se devem evitar"
       }
     },
     {
       "id": "p1-08",
       "title": {
-        "la": "8. De beneplacito Dei et confidentia in aduersis habenda"
+        "la": "8. De beneplacito Dei et confidentia in aduersis habenda",
+        "pt-BR": "8. Do beneplácito de Deus e da confiança nas adversidades"
       }
     },
     {
       "id": "p1-09",
       "title": {
-        "la": "9. De examinatione conscientiae completorio finito"
+        "la": "9. De examinatione conscientiae completorio finito",
+        "pt-BR": "9. Do exame de consciência depois de Completas"
       }
     },
     {
       "id": "p1-10",
       "title": {
-        "la": "10. De scrutinio conscientiae in speciali"
+        "la": "10. De scrutinio conscientiae in speciali",
+        "pt-BR": "10. Do exame particular da consciência"
       }
     },
     {
       "id": "p1-11",
       "title": {
-        "la": "11. De hora dormitionis et nocturnae quietis"
+        "la": "11. De hora dormitionis et nocturnae quietis",
+        "pt-BR": "11. Da hora de dormir e do repouso noturno"
       }
     },
     {
       "id": "p1-12",
       "title": {
-        "la": "12. De virtute sanctae oboedientiae"
+        "la": "12. De virtute sanctae oboedientiae",
+        "pt-BR": "12. Da virtude da santa obediência"
       }
     }
   ]
