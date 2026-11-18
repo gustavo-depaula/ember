@@ -18,13 +18,19 @@
   },
   "composed": "c. 1425-1440",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "thomas-a-kempis/doctrinale-iuvenum",
   "editions": {
     "la": {
       "editor": "Michael Joseph Pohl",
       "year": 1918
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,73 +47,85 @@
     {
       "id": "p1-01",
       "title": {
-        "la": "1. De recommendatione sacrae scripturae"
+        "la": "1. De recommendatione sacrae scripturae",
+        "pt-BR": "1. Da recomendação da Sagrada Escritura"
       }
     },
     {
       "id": "p1-02",
       "title": {
-        "la": "2. De differentia clerici et monachi"
+        "la": "2. De differentia clerici et monachi",
+        "pt-BR": "2. Da diferença entre o clérigo e o monge"
       }
     },
     {
       "id": "p1-03",
       "title": {
-        "la": "3. De thesauro eloquiorum divinorum"
+        "la": "3. De thesauro eloquiorum divinorum",
+        "pt-BR": "3. Do tesouro das palavras divinas"
       }
     },
     {
       "id": "p1-04",
       "title": {
-        "la": "4. De bonis scriptoribus libroru m"
+        "la": "4. De bonis scriptoribus libroru m",
+        "pt-BR": "4. Dos bons copistas de livros"
       }
     },
     {
       "id": "p1-05",
       "title": {
-        "la": "5. De firma custodia librorum"
+        "la": "5. De firma custodia librorum",
+        "pt-BR": "5. Da guarda segura dos livros"
       }
     },
     {
       "id": "p1-06",
       "title": {
-        "la": "6. De ornatu claustri bene fundati"
+        "la": "6. De ornatu claustri bene fundati",
+        "pt-BR": "6. Do ornamento de um claustro bem fundado"
       }
     },
     {
       "id": "p1-07",
       "title": {
-        "la": "7. De indocto clerico sine sacris libris"
+        "la": "7. De indocto clerico sine sacris libris",
+        "pt-BR": "7. Do clérigo sem instrução e sem livros sagrados"
       }
     },
     {
       "id": "p1-08",
       "title": {
-        "la": "8. De cantu ecclesiae in hymnis et. psalmis"
+        "la": "8. De cantu ecclesiae in hymnis et. psalmis",
+        "pt-BR": "8. Do canto da Igreja em hinos e salmos"
       }
     },
     {
       "id": "p1-09",
       "title": {
-        "la": "9. De festis Christi, et reliquiis sanctorum"
+        "la": "9. De festis Christi, et reliquiis sanctorum",
+        "pt-BR": "9. Das festas de Cristo e das relíquias dos santos"
       }
     },
     {
       "id": "p1-10",
       "title": {
-        "la": "10. De moribus humilis fratris, et vitiis superbi et pigri"
+        "la": "10. De moribus humilis fratris, et vitiis superbi et pigri",
+        "pt-BR": "10. Dos costumes do irmão humilde e dos vícios do soberbo e do preguiçoso"
       }
     },
     {
       "id": "p1-11",
       "title": {
-        "la": "11. De abnegatione sui et omnium rerum"
+        "la": "11. De abnegatione sui et omnium rerum",
+        "pt-BR": "11. Da renúncia a si mesmo e a todas as coisas"
       }
     },
     {
       "id": "p1-12",
       "title": {
-        "la": "12. De desiderio caelestium gaudiorum"
+        "la": "12. De desiderio caelestium gaudiorum",
+        "pt-BR": "12. Do desejo das alegrias celestes"
       }
     }
   ]
