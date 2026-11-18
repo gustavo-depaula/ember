@@ -18,13 +18,19 @@
   },
   "composed": "c. 1425-1440",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "thomas-a-kempis/de-disciplina-claustralium",
   "editions": {
     "la": {
       "editor": "Michael Joseph Pohl",
       "year": 1904
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,97 +47,113 @@
     {
       "id": "p1-01",
       "title": {
-        "la": "1. In quibus consistit disciplina claustralis"
+        "la": "1. In quibus consistit disciplina claustralis",
+        "pt-BR": "1. Em que consiste a disciplina claustral"
       }
     },
     {
       "id": "p1-02",
       "title": {
-        "la": "2. De diversis temptationibus et insidiis diaboli"
+        "la": "2. De diversis temptationibus et insidiis diaboli",
+        "pt-BR": "2. Das diversas tentações e ciladas do diabo"
       }
     },
     {
       "id": "p1-03",
       "title": {
-        "la": "3. De vera conversione ad Deum qui est summum bonum"
+        "la": "3. De vera conversione ad Deum qui est summum bonum",
+        "pt-BR": "3. Da verdadeira conversão a Deus, que é o sumo bem"
       }
     },
     {
       "id": "p1-04",
       "title": {
-        "la": "4. De oboedientia humilis subditi erga praelatum suum"
+        "la": "4. De oboedientia humilis subditi erga praelatum suum",
+        "pt-BR": "4. Da obediência do súdito humilde a seu superior"
       }
     },
     {
       "id": "p1-05",
       "title": {
-        "la": "5. De custodia cordis et reditu ad interiora"
+        "la": "5. De custodia cordis et reditu ad interiora",
+        "pt-BR": "5. Da guarda do coração e do retorno à vida interior"
       }
     },
     {
       "id": "p1-06",
       "title": {
-        "la": "6. De custodia oris et exercitio laboris"
+        "la": "6. De custodia oris et exercitio laboris",
+        "pt-BR": "6. Da guarda da boca e do exercício do trabalho"
       }
     },
     {
       "id": "p1-07",
       "title": {
-        "la": "7. De recommendatione cellae et solitudinis"
+        "la": "7. De recommendatione cellae et solitudinis",
+        "pt-BR": "7. Do valor da cela e da solidão"
       }
     },
     {
       "id": "p1-08",
       "title": {
-        "la": "8. De choro et divino officio peragendo"
+        "la": "8. De choro et divino officio peragendo",
+        "pt-BR": "8. Do coro e da celebração do ofício divino"
       }
     },
     {
       "id": "p1-09",
       "title": {
-        "la": "9. De discretione in omni spirituali exercitio servanda"
+        "la": "9. De discretione in omni spirituali exercitio servanda",
+        "pt-BR": "9. Do discernimento a observar em todo exercício espiritual"
       }
     },
     {
       "id": "p1-10",
       "title": {
-        "la": "10. Oratio de felici consummatione in virtutibus"
+        "la": "10. Oratio de felici consummatione in virtutibus",
+        "pt-BR": "10. Oração pela feliz consumação nas virtudes"
       }
     },
     {
       "id": "p1-11",
       "title": {
-        "la": "11. De caritate Dei et proximi et odio vitiorum"
+        "la": "11. De caritate Dei et proximi et odio vitiorum",
+        "pt-BR": "11. Da caridade para com Deus e o próximo e do ódio aos vícios"
       }
     },
     {
       "id": "p1-12",
       "title": {
-        "la": "12. De abstinentia et castitate"
+        "la": "12. De abstinentia et castitate",
+        "pt-BR": "12. Da abstinência e da castidade"
       }
     },
     {
       "id": "p1-13",
       "title": {
-        "la": "13. De utili exercitio in vita et passione Christi"
+        "la": "13. De utili exercitio in vita et passione Christi",
+        "pt-BR": "13. Do proveitoso exercício na vida e paixão de Cristo"
       }
     },
     {
       "id": "p1-14",
       "title": {
-        "la": "14. De commemoratione et invocatione beatissimae Virginis Mariae"
+        "la": "14. De commemoratione et invocatione beatissimae Virginis Mariae",
+        "pt-BR": "14. Da comemoração e invocação da bem-aventurada Virgem Maria"
       }
     },
     {
       "id": "p1-15",
       "title": {
-        "la": "15. De suffragiis sanctorum sedule petendis"
+        "la": "15. De suffragiis sanctorum sedule petendis",
+        "pt-BR": "15. Da solicitude em pedir os sufrágios dos santos"
       }
     },
     {
       "id": "p1-16",
       "title": {
-        "la": "16. De desiderio animae ad caeleste regnum"
+        "la": "16. De desiderio animae ad caeleste regnum",
+        "pt-BR": "16. Do desejo da alma pelo reino celeste"
       }
     }
   ]
