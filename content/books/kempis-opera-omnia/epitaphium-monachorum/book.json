@@ -18,13 +18,19 @@
   },
   "composed": "c. 1430-1440",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "thomas-a-kempis/epitaphium-monachorum",
   "editions": {
     "la": {
       "editor": "Michael Joseph Pohl",
       "year": 1918
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,61 +47,71 @@
     {
       "id": "p1-01",
       "title": {
-        "la": "1. De recta via iustorum ad regnum caelorum"
+        "la": "1. De recta via iustorum ad regnum caelorum",
+        "pt-BR": "1. Do caminho reto dos justos para o reino dos céus"
       }
     },
     {
       "id": "p1-02",
       "title": {
-        "la": "2. De bona custodia cordis et oris"
+        "la": "2. De bona custodia cordis et oris",
+        "pt-BR": "2. Da boa guarda do coração e da boca"
       }
     },
     {
       "id": "p1-03",
       "title": {
-        "la": "3. De frequenti invocatione nominis Iesu et Mariae"
+        "la": "3. De frequenti invocatione nominis Iesu et Mariae",
+        "pt-BR": "3. Da frequente invocação do nome de Jesus e de Maria"
       }
     },
     {
       "id": "p1-04",
       "title": {
-        "la": "4. De certamine contra cotidiana vitia"
+        "la": "4. De certamine contra cotidiana vitia",
+        "pt-BR": "4. Do combate contra os vícios de cada dia"
       }
     },
     {
       "id": "p1-05",
       "title": {
-        "la": "5. De optimis bonis animae"
+        "la": "5. De optimis bonis animae",
+        "pt-BR": "5. Dos melhores bens da alma"
       }
     },
     {
       "id": "p1-06",
       "title": {
-        "la": "6. De vera et interna consolatione animae"
+        "la": "6. De vera et interna consolatione animae",
+        "pt-BR": "6. Da verdadeira e interior consolação da alma"
       }
     },
     {
       "id": "p1-07",
       "title": {
-        "la": "7. De recollectione cordis in silentio oris"
+        "la": "7. De recollectione cordis in silentio oris",
+        "pt-BR": "7. Do recolhimento do coração no silêncio da boca"
       }
     },
     {
       "id": "p1-08",
       "title": {
-        "la": "8. De remediis contra vanam gloriam et laudem"
+        "la": "8. De remediis contra vanam gloriam et laudem",
+        "pt-BR": "8. Dos remédios contra a glória vã e o louvor"
       }
     },
     {
       "id": "p1-09",
       "title": {
-        "la": "9. De munditia cordis a vitiis et passionibus occultis"
+        "la": "9. De munditia cordis a vitiis et passionibus occultis",
+        "pt-BR": "9. Da pureza do coração livre dos vícios e das paixões ocultas"
       }
     },
     {
       "id": "p1-10",
       "title": {
-        "la": "10. De vera pace cordis in virtutibus"
+        "la": "10. De vera pace cordis in virtutibus",
+        "pt-BR": "10. Da verdadeira paz do coração nas virtudes"
       }
     }
   ]
