@@ -14,17 +14,23 @@
   "description": {
     "es-ES": "Cien cartas de dirección espiritual de san Juan de Ávila a predicadores, sacerdotes, señoras, doncellas y religiosas, y a Teresa de Jesús, san Juan de Dios, san Ignacio y san Francisco de Borja; la colección del Epistolario espiritual en la edición modernizada del Apostolado Mariano (2012), que traduce al español sus citas latinas entre corchetes.",
     "en-US": "One hundred letters of spiritual direction by St. John of Ávila to preachers, priests, ladies, maidens and nuns, and to Teresa of Jesus, St. John of God, St. Ignatius and St. Francis Borgia: the Epistolario espiritual collection in the modernised Apostolado Mariano digital edition (2012), which glosses his Latin quotations in Spanish in square brackets.",
-    "pt-BR": "Cem cartas de direção espiritual de São João de Ávila a pregadores, sacerdotes, senhoras, donzelas e religiosas, e a Teresa de Jesus, São João de Deus, Santo Inácio e São Francisco de Borja."
+    "pt-BR": "Cem cartas de direção espiritual de São João de Ávila a pregadores, sacerdotes, senhoras, donzelas e religiosas, e a Teresa de Jesus, São João de Deus, Santo Inácio e São Francisco de Borja; a coleção do Epistolário espiritual na edição modernizada do Apostolado Mariano (2012), que traduz para o espanhol, entre colchetes, as suas citações latinas."
   },
   "composed": "1535–1569",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "john-of-avila/epistolario",
   "editions": {
     "es-ES": {
       "editor": "Apostolado Mariano (modernised digital edition)",
       "year": 2012
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -49,601 +55,701 @@
     {
       "id": "l001",
       "title": {
-        "es-ES": "Carta 1. A un predicador"
+        "es-ES": "Carta 1. A un predicador",
+        "pt-BR": "Carta 1. A um pregador"
       }
     },
     {
       "id": "l002",
       "title": {
-        "es-ES": "Carta 2. Al P. Fray Alonso de Vergara, predicador"
+        "es-ES": "Carta 2. Al P. Fray Alonso de Vergara, predicador",
+        "pt-BR": "Carta 2. Ao P. Frei Alonso de Vergara, pregador"
       }
     },
     {
       "id": "l003",
       "title": {
-        "es-ES": "Carta 3. A un predicador"
+        "es-ES": "Carta 3. A un predicador",
+        "pt-BR": "Carta 3. A um pregador"
       }
     },
     {
       "id": "l004",
       "title": {
-        "es-ES": "Carta 4. A un predicador"
+        "es-ES": "Carta 4. A un predicador",
+        "pt-BR": "Carta 4. A um pregador"
       }
     },
     {
       "id": "l005",
       "title": {
-        "es-ES": "Carta 5. Al Maestro García Arias, predicador"
+        "es-ES": "Carta 5. Al Maestro García Arias, predicador",
+        "pt-BR": "Carta 5. Ao Mestre García Arias, pregador"
       }
     },
     {
       "id": "l006",
       "title": {
-        "es-ES": "Carta 6. A un sacerdote"
+        "es-ES": "Carta 6. A un sacerdote",
+        "pt-BR": "Carta 6. A um sacerdote"
       }
     },
     {
       "id": "l007",
       "title": {
-        "es-ES": "Carta 7. Para un Mancebo"
+        "es-ES": "Carta 7. Para un Mancebo",
+        "pt-BR": "Carta 7. Para um jovem"
       }
     },
     {
       "id": "l008",
       "title": {
-        "es-ES": "Carta 8. A un sacerdote"
+        "es-ES": "Carta 8. A un sacerdote",
+        "pt-BR": "Carta 8. A um sacerdote"
       }
     },
     {
       "id": "l009",
       "title": {
-        "es-ES": "Carta 9. A un sacerdote"
+        "es-ES": "Carta 9. A un sacerdote",
+        "pt-BR": "Carta 9. A um sacerdote"
       }
     },
     {
       "id": "l010",
       "title": {
-        "es-ES": "Carta 10. A un señor de este reino, siendo asistente de Sevilla"
+        "es-ES": "Carta 10. A un señor de este reino, siendo asistente de Sevilla",
+        "pt-BR": "Carta 10. A um senhor deste reino, sendo assistente de Sevilha"
       }
     },
     {
       "id": "l011",
       "title": {
-        "es-ES": "Carta 11. A un señor de estos reinos"
+        "es-ES": "Carta 11. A un señor de estos reinos",
+        "pt-BR": "Carta 11. A um senhor destes reinos"
       }
     },
     {
       "id": "l012",
       "title": {
-        "es-ES": "Carta 12. A un señor de estos reinos"
+        "es-ES": "Carta 12. A un señor de estos reinos",
+        "pt-BR": "Carta 12. A um senhor destes reinos"
       }
     },
     {
       "id": "l013",
       "title": {
-        "es-ES": "Carta 13. A una mujer"
+        "es-ES": "Carta 13. A una mujer",
+        "pt-BR": "Carta 13. A uma mulher"
       }
     },
     {
       "id": "l014",
       "title": {
-        "es-ES": "Carta 14. A una mujer"
+        "es-ES": "Carta 14. A una mujer",
+        "pt-BR": "Carta 14. A uma mulher"
       }
     },
     {
       "id": "l015",
       "title": {
-        "es-ES": "Carta 15. A una mujer atribulada"
+        "es-ES": "Carta 15. A una mujer atribulada",
+        "pt-BR": "Carta 15. A uma mulher atribulada"
       }
     },
     {
       "id": "l016",
       "title": {
-        "es-ES": "Carta 16. A una señora casada"
+        "es-ES": "Carta 16. A una señora casada",
+        "pt-BR": "Carta 16. A uma senhora casada"
       }
     },
     {
       "id": "l017",
       "title": {
-        "es-ES": "Carta 17. A doña Sancha Carrillo"
+        "es-ES": "Carta 17. A doña Sancha Carrillo",
+        "pt-BR": "Carta 17. A dona Sancha Carrillo"
       }
     },
     {
       "id": "l018",
       "title": {
-        "es-ES": "Carta 18. A una señora monja, atribulada"
+        "es-ES": "Carta 18. A una señora monja, atribulada",
+        "pt-BR": "Carta 18. A uma senhora monja, atribulada"
       }
     },
     {
       "id": "l019",
       "title": {
-        "es-ES": "Carta 19. A una doncella"
+        "es-ES": "Carta 19. A una doncella",
+        "pt-BR": "Carta 19. A uma donzela"
       }
     },
     {
       "id": "l020",
       "title": {
-        "es-ES": "Carta 20. A Doña Isabel de Ávalos"
+        "es-ES": "Carta 20. A Doña Isabel de Ávalos",
+        "pt-BR": "Carta 20. A Dona Isabel de Ávalos"
       }
     },
     {
       "id": "l021",
       "title": {
-        "es-ES": "Carta 21. A una señora ilustrísima"
+        "es-ES": "Carta 21. A una señora ilustrísima",
+        "pt-BR": "Carta 21. A uma senhora ilustríssima"
       }
     },
     {
       "id": "l022",
       "title": {
-        "es-ES": "Carta 22. A una doncella"
+        "es-ES": "Carta 22. A una doncella",
+        "pt-BR": "Carta 22. A uma donzela"
       }
     },
     {
       "id": "l023",
       "title": {
-        "es-ES": "Carta 23. A una doncella"
+        "es-ES": "Carta 23. A una doncella",
+        "pt-BR": "Carta 23. A uma donzela"
       }
     },
     {
       "id": "l024",
       "title": {
-        "es-ES": "Carta 24. A una doncella"
+        "es-ES": "Carta 24. A una doncella",
+        "pt-BR": "Carta 24. A uma donzela"
       }
     },
     {
       "id": "l025",
       "title": {
-        "es-ES": "Carta 25. A una señora"
+        "es-ES": "Carta 25. A una señora",
+        "pt-BR": "Carta 25. A uma senhora"
       }
     },
     {
       "id": "l026",
       "title": {
-        "es-ES": "Carta 26. A una doncella consagrada a Dios"
+        "es-ES": "Carta 26. A una doncella consagrada a Dios",
+        "pt-BR": "Carta 26. A uma donzela consagrada a Deus"
       }
     },
     {
       "id": "l027",
       "title": {
-        "es-ES": "Carta 27. A una señora ilustrísima"
+        "es-ES": "Carta 27. A una señora ilustrísima",
+        "pt-BR": "Carta 27. A uma senhora ilustríssima"
       }
     },
     {
       "id": "l028",
       "title": {
-        "es-ES": "Carta 28. A una monja"
+        "es-ES": "Carta 28. A una monja",
+        "pt-BR": "Carta 28. A uma monja"
       }
     },
     {
       "id": "l029",
       "title": {
-        "es-ES": "Carta 29. A una señora ilustrísima"
+        "es-ES": "Carta 29. A una señora ilustrísima",
+        "pt-BR": "Carta 29. A uma senhora ilustríssima"
       }
     },
     {
       "id": "l030",
       "title": {
-        "es-ES": "Carta 30. A la misma señora ilustrísima"
+        "es-ES": "Carta 30. A la misma señora ilustrísima",
+        "pt-BR": "Carta 30. À mesma senhora ilustríssima"
       }
     },
     {
       "id": "l031",
       "title": {
-        "es-ES": "Carta 31. A doña Leonor de Hinestrosa"
+        "es-ES": "Carta 31. A doña Leonor de Hinestrosa",
+        "pt-BR": "Carta 31. A dona Leonor de Hinestrosa"
       }
     },
     {
       "id": "l032",
       "title": {
-        "es-ES": "Carta 32. Para Juan de Dios"
+        "es-ES": "Carta 32. Para Juan de Dios",
+        "pt-BR": "Carta 32. Para João de Deus"
       }
     },
     {
       "id": "l033",
       "title": {
-        "es-ES": "Carta 33. Al mismo Juan de Dios"
+        "es-ES": "Carta 33. Al mismo Juan de Dios",
+        "pt-BR": "Carta 33. Ao mesmo João de Deus"
       }
     },
     {
       "id": "l034",
       "title": {
-        "es-ES": "Carta 34. A una doncella"
+        "es-ES": "Carta 34. A una doncella",
+        "pt-BR": "Carta 34. A uma donzela"
       }
     },
     {
       "id": "l035",
       "title": {
-        "es-ES": "Carta 35. A una monja devota"
+        "es-ES": "Carta 35. A una monja devota",
+        "pt-BR": "Carta 35. A uma monja devota"
       }
     },
     {
       "id": "l036",
       "title": {
-        "es-ES": "Carta 36. A una religiosa"
+        "es-ES": "Carta 36. A una religiosa",
+        "pt-BR": "Carta 36. A uma religiosa"
       }
     },
     {
       "id": "l037",
       "title": {
-        "es-ES": "Carta 37. A una persona"
+        "es-ES": "Carta 37. A una persona",
+        "pt-BR": "Carta 37. A uma pessoa"
       }
     },
     {
       "id": "l038",
       "title": {
-        "es-ES": "Carta 38. A Doña Sancha Carrillo"
+        "es-ES": "Carta 38. A Doña Sancha Carrillo",
+        "pt-BR": "Carta 38. A Dona Sancha Carrillo"
       }
     },
     {
       "id": "l039",
       "title": {
-        "es-ES": "Carta 39. A unas mujeres devotas"
+        "es-ES": "Carta 39. A unas mujeres devotas",
+        "pt-BR": "Carta 39. A umas mulheres devotas"
       }
     },
     {
       "id": "l040",
       "title": {
-        "es-ES": "Carta 40. A unos sus devotos"
+        "es-ES": "Carta 40. A unos sus devotos",
+        "pt-BR": "Carta 40. A uns devotos seus"
       }
     },
     {
       "id": "l041",
       "title": {
-        "es-ES": "Carta 41. A una señora"
+        "es-ES": "Carta 41. A una señora",
+        "pt-BR": "Carta 41. A uma senhora"
       }
     },
     {
       "id": "l042",
       "title": {
-        "es-ES": "Carta 42. A una señora"
+        "es-ES": "Carta 42. A una señora",
+        "pt-BR": "Carta 42. A uma senhora"
       }
     },
     {
       "id": "l043",
       "title": {
-        "es-ES": "Carta 43. A un devoto suyo"
+        "es-ES": "Carta 43. A un devoto suyo",
+        "pt-BR": "Carta 43. A um devoto seu"
       }
     },
     {
       "id": "l044",
       "title": {
-        "es-ES": "Carta 44. A unos amigos"
+        "es-ES": "Carta 44. A unos amigos",
+        "pt-BR": "Carta 44. A uns amigos"
       }
     },
     {
       "id": "l045",
       "title": {
-        "es-ES": "Carta 45. A una señora"
+        "es-ES": "Carta 45. A una señora",
+        "pt-BR": "Carta 45. A uma senhora"
       }
     },
     {
       "id": "l046",
       "title": {
-        "es-ES": "Carta 46. A una señora"
+        "es-ES": "Carta 46. A una señora",
+        "pt-BR": "Carta 46. A uma senhora"
       }
     },
     {
       "id": "l047",
       "title": {
-        "es-ES": "Carta 47. A una persona"
+        "es-ES": "Carta 47. A una persona",
+        "pt-BR": "Carta 47. A uma pessoa"
       }
     },
     {
       "id": "l048",
       "title": {
-        "es-ES": "Carta 48. A una doncella"
+        "es-ES": "Carta 48. A una doncella",
+        "pt-BR": "Carta 48. A uma donzela"
       }
     },
     {
       "id": "l049",
       "title": {
-        "es-ES": "Carta 49. A un estudiante"
+        "es-ES": "Carta 49. A un estudiante",
+        "pt-BR": "Carta 49. A um estudante"
       }
     },
     {
       "id": "l050",
       "title": {
-        "es-ES": "Carta 50. A un caballero de Córdoba"
+        "es-ES": "Carta 50. A un caballero de Córdoba",
+        "pt-BR": "Carta 50. A um cavaleiro de Córdoba"
       }
     },
     {
       "id": "l051",
       "title": {
-        "es-ES": "Carta 51. A una persona virtuosa"
+        "es-ES": "Carta 51. A una persona virtuosa",
+        "pt-BR": "Carta 51. A uma pessoa virtuosa"
       }
     },
     {
       "id": "l052",
       "title": {
-        "es-ES": "Carta 52. A un religioso"
+        "es-ES": "Carta 52. A un religioso",
+        "pt-BR": "Carta 52. A um religioso"
       }
     },
     {
       "id": "l053",
       "title": {
-        "es-ES": "Carta 53. A Tello de Águilar"
+        "es-ES": "Carta 53. A Tello de Águilar",
+        "pt-BR": "Carta 53. A Tello de Águilar"
       }
     },
     {
       "id": "l054",
       "title": {
-        "es-ES": "Carta 54. A unos amigos atribulados suyos"
+        "es-ES": "Carta 54. A unos amigos atribulados suyos",
+        "pt-BR": "Carta 54. A uns amigos seus atribulados"
       }
     },
     {
       "id": "l055",
       "title": {
-        "es-ES": "Carta 55. A una doncella"
+        "es-ES": "Carta 55. A una doncella",
+        "pt-BR": "Carta 55. A uma donzela"
       }
     },
     {
       "id": "l056",
       "title": {
-        "es-ES": "Carta 56. A una doncella"
+        "es-ES": "Carta 56. A una doncella",
+        "pt-BR": "Carta 56. A uma donzela"
       }
     },
     {
       "id": "l057",
       "title": {
-        "es-ES": "Carta 57. A una monja"
+        "es-ES": "Carta 57. A una monja",
+        "pt-BR": "Carta 57. A uma monja"
       }
     },
     {
       "id": "l058",
       "title": {
-        "es-ES": "Carta 58. A una monja"
+        "es-ES": "Carta 58. A una monja",
+        "pt-BR": "Carta 58. A uma monja"
       }
     },
     {
       "id": "l059",
       "title": {
-        "es-ES": "Carta 59. A un desconsolado"
+        "es-ES": "Carta 59. A un desconsolado",
+        "pt-BR": "Carta 59. A um desconsolado"
       }
     },
     {
       "id": "l060",
       "title": {
-        "es-ES": "Carta 60. A una doncella"
+        "es-ES": "Carta 60. A una doncella",
+        "pt-BR": "Carta 60. A uma donzela"
       }
     },
     {
       "id": "l061",
       "title": {
-        "es-ES": "Carta 61. A una doncella"
+        "es-ES": "Carta 61. A una doncella",
+        "pt-BR": "Carta 61. A uma donzela"
       }
     },
     {
       "id": "l062",
       "title": {
-        "es-ES": "Carta 62. A una señora"
+        "es-ES": "Carta 62. A una señora",
+        "pt-BR": "Carta 62. A uma senhora"
       }
     },
     {
       "id": "l063",
       "title": {
-        "es-ES": "Carta 63. A la misma señora"
+        "es-ES": "Carta 63. A la misma señora",
+        "pt-BR": "Carta 63. À mesma senhora"
       }
     },
     {
       "id": "l064",
       "title": {
-        "es-ES": "Carta 64. A la misma señora"
+        "es-ES": "Carta 64. A la misma señora",
+        "pt-BR": "Carta 64. À mesma senhora"
       }
     },
     {
       "id": "l065",
       "title": {
-        "es-ES": "Carta 65. A una señora"
+        "es-ES": "Carta 65. A una señora",
+        "pt-BR": "Carta 65. A uma senhora"
       }
     },
     {
       "id": "l066",
       "title": {
-        "es-ES": "Carta 66. A una señora"
+        "es-ES": "Carta 66. A una señora",
+        "pt-BR": "Carta 66. A uma senhora"
       }
     },
     {
       "id": "l067",
       "title": {
-        "es-ES": "Carta 67. A una señora afligida"
+        "es-ES": "Carta 67. A una señora afligida",
+        "pt-BR": "Carta 67. A uma senhora aflita"
       }
     },
     {
       "id": "l068",
       "title": {
-        "es-ES": "Carta 68. A una señora muy afligida"
+        "es-ES": "Carta 68. A una señora muy afligida",
+        "pt-BR": "Carta 68. A uma senhora muito aflita"
       }
     },
     {
       "id": "l069",
       "title": {
-        "es-ES": "Carta 69. A una devota suya"
+        "es-ES": "Carta 69. A una devota suya",
+        "pt-BR": "Carta 69. A uma devota sua"
       }
     },
     {
       "id": "l070",
       "title": {
-        "es-ES": "Carta 70. A una señora devota"
+        "es-ES": "Carta 70. A una señora devota",
+        "pt-BR": "Carta 70. A uma senhora devota"
       }
     },
     {
       "id": "l071",
       "title": {
-        "es-ES": "Carta 71. A una señora"
+        "es-ES": "Carta 71. A una señora",
+        "pt-BR": "Carta 71. A uma senhora"
       }
     },
     {
       "id": "l072",
       "title": {
-        "es-ES": "Carta 72. A una señora afligida"
+        "es-ES": "Carta 72. A una señora afligida",
+        "pt-BR": "Carta 72. A uma senhora aflita"
       }
     },
     {
       "id": "l073",
       "title": {
-        "es-ES": "Carta 73. A un caballero amigo suyo"
+        "es-ES": "Carta 73. A un caballero amigo suyo",
+        "pt-BR": "Carta 73. A um cavaleiro amigo seu"
       }
     },
     {
       "id": "l074",
       "title": {
-        "es-ES": "Carta 74. A una mujer devota"
+        "es-ES": "Carta 74. A una mujer devota",
+        "pt-BR": "Carta 74. A uma mulher devota"
       }
     },
     {
       "id": "l075",
       "title": {
-        "es-ES": "Carta 75. A una señora"
+        "es-ES": "Carta 75. A una señora",
+        "pt-BR": "Carta 75. A uma senhora"
       }
     },
     {
       "id": "l076",
       "title": {
-        "es-ES": "Carta 76. A una doncella"
+        "es-ES": "Carta 76. A una doncella",
+        "pt-BR": "Carta 76. A uma donzela"
       }
     },
     {
       "id": "l077",
       "title": {
-        "es-ES": "Carta 77. A una señora"
+        "es-ES": "Carta 77. A una señora",
+        "pt-BR": "Carta 77. A uma senhora"
       }
     },
     {
       "id": "l078",
       "title": {
-        "es-ES": "Carta 78. A una señora"
+        "es-ES": "Carta 78. A una señora",
+        "pt-BR": "Carta 78. A uma senhora"
       }
     },
     {
       "id": "l079",
       "title": {
-        "es-ES": "Carta 79. A una señora ilustrísima"
+        "es-ES": "Carta 79. A una señora ilustrísima",
+        "pt-BR": "Carta 79. A uma senhora ilustríssima"
       }
     },
     {
       "id": "l080",
       "title": {
-        "es-ES": "Carta 80. A una señora en navidad"
+        "es-ES": "Carta 80. A una señora en navidad",
+        "pt-BR": "Carta 80. A uma senhora no Natal"
       }
     },
     {
       "id": "l081",
       "title": {
-        "es-ES": "Carta 81. A una persona escrupulosa"
+        "es-ES": "Carta 81. A una persona escrupulosa",
+        "pt-BR": "Carta 81. A uma pessoa escrupulosa"
       }
     },
     {
       "id": "l082",
       "title": {
-        "es-ES": "Carta 82. Para el P. Antonio de Córdoba, de la Compañía de Jesús"
+        "es-ES": "Carta 82. Para el P. Antonio de Córdoba, de la Compañía de Jesús",
+        "pt-BR": "Carta 82. Para o P. Antonio de Córdoba, da Companhia de Jesus"
       }
     },
     {
       "id": "l083",
       "title": {
-        "es-ES": "Carta 83. A Teresa de Jesús"
+        "es-ES": "Carta 83. A Teresa de Jesús",
+        "pt-BR": "Carta 83. A Teresa de Jesus"
       }
     },
     {
       "id": "l084",
       "title": {
-        "es-ES": "Carta 84. A una monja, hija suya espiritual"
+        "es-ES": "Carta 84. A una monja, hija suya espiritual",
+        "pt-BR": "Carta 84. A uma monja, sua filha espiritual"
       }
     },
     {
       "id": "l085",
       "title": {
-        "es-ES": "Carta 85. A un predicador"
+        "es-ES": "Carta 85. A un predicador",
+        "pt-BR": "Carta 85. A um pregador"
       }
     },
     {
       "id": "l086",
       "title": {
-        "es-ES": "Carta 86. A un discípulo sacerdote"
+        "es-ES": "Carta 86. A un discípulo sacerdote",
+        "pt-BR": "Carta 86. A um discípulo sacerdote"
       }
     },
     {
       "id": "l087",
       "title": {
-        "es-ES": "Carta 87. Para una religiosa, hija suya espiritual"
+        "es-ES": "Carta 87. Para una religiosa, hija suya espiritual",
+        "pt-BR": "Carta 87. Para uma religiosa, sua filha espiritual"
       }
     },
     {
       "id": "l088",
       "title": {
-        "es-ES": "Carta 88. Para Torreblanca"
+        "es-ES": "Carta 88. Para Torreblanca",
+        "pt-BR": "Carta 88. Para Torreblanca"
       }
     },
     {
       "id": "l089",
       "title": {
-        "es-ES": "Carta 89. A don Pedro Guerrero"
+        "es-ES": "Carta 89. A don Pedro Guerrero",
+        "pt-BR": "Carta 89. A dom Pedro Guerrero"
       }
     },
     {
       "id": "l090",
       "title": {
-        "es-ES": "Carta 90. A don Pedro Guerrero, arzobispo de Granada"
+        "es-ES": "Carta 90. A don Pedro Guerrero, arzobispo de Granada",
+        "pt-BR": "Carta 90. A dom Pedro Guerrero, arcebispo de Granada"
       }
     },
     {
       "id": "l091",
       "title": {
-        "es-ES": "Carta 91. A don Cristóbal de Rojas y Sandoval, obispo de Córdoba"
+        "es-ES": "Carta 91. A don Cristóbal de Rojas y Sandoval, obispo de Córdoba",
+        "pt-BR": "Carta 91. A dom Cristóbal de Rojas y Sandoval, bispo de Córdoba"
       }
     },
     {
       "id": "l092",
       "title": {
-        "es-ES": "Carta 92. Al obispo de Córdoba, presidente del Concilio"
+        "es-ES": "Carta 92. Al obispo de Córdoba, presidente del Concilio",
+        "pt-BR": "Carta 92. Ao bispo de Córdoba, presidente do Concílio"
       }
     },
     {
       "id": "l093",
       "title": {
-        "es-ES": "Carta 93. A la muy ilustre señora la condesa de Feria"
+        "es-ES": "Carta 93. A la muy ilustre señora la condesa de Feria",
+        "pt-BR": "Carta 93. À muito ilustre senhora condessa de Feria"
       }
     },
     {
       "id": "l094",
       "title": {
-        "es-ES": "Carta 94. A San Ignacio de Loyola"
+        "es-ES": "Carta 94. A San Ignacio de Loyola",
+        "pt-BR": "Carta 94. A Santo Inácio de Loyola"
       }
     },
     {
       "id": "l095",
       "title": {
-        "es-ES": "Carta 95. Al P. Diego Laínez"
+        "es-ES": "Carta 95. Al P. Diego Laínez",
+        "pt-BR": "Carta 95. Ao P. Diego Laínez"
       }
     },
     {
       "id": "l096",
       "title": {
-        "es-ES": "Carta 96. A San Francisco de Borja"
+        "es-ES": "Carta 96. A San Francisco de Borja",
+        "pt-BR": "Carta 96. A São Francisco de Borja"
       }
     },
     {
       "id": "l097",
       "title": {
-        "es-ES": "Carta 97. A San Francisco de Borja"
+        "es-ES": "Carta 97. A San Francisco de Borja",
+        "pt-BR": "Carta 97. A São Francisco de Borja"
       }
     },
     {
       "id": "l098",
       "title": {
-        "es-ES": "Carta 98. Al Padre Martín Gutiérrez"
+        "es-ES": "Carta 98. Al Padre Martín Gutiérrez",
+        "pt-BR": "Carta 98. Ao Padre Martín Gutiérrez"
       }
     },
     {
       "id": "l099",
       "title": {
-        "es-ES": "Carta 99. A un hijo espiritual"
+        "es-ES": "Carta 99. A un hijo espiritual",
+        "pt-BR": "Carta 99. A um filho espiritual"
       }
     },
     {
       "id": "l100",
       "title": {
-        "es-ES": "Carta 100. A un sacerdote"
+        "es-ES": "Carta 100. A un sacerdote",
+        "pt-BR": "Carta 100. A um sacerdote"
       }
     }
   ]
