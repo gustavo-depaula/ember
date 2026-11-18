@@ -16,13 +16,19 @@
   },
   "composed": "1741",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "caussade/instructions-spirituelles",
   "editions": {
     "en-US": {
       "translator": "Algar Thorold",
       "year": 1931
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -39,127 +45,148 @@
     {
       "id": "introduction",
       "title": {
-        "en-US": "Introduction by the Abbot of Downside"
+        "en-US": "Introduction by the Abbot of Downside",
+        "pt-BR": "Introdução do abade de Downside"
       }
     },
     {
       "id": "translators-note",
       "title": {
-        "en-US": "Translator’s Note"
+        "en-US": "Translator’s Note",
+        "pt-BR": "Nota do tradutor"
       }
     },
     {
       "id": "preface",
       "title": {
-        "en-US": "Preface by Fr. Ludovic de Besse"
+        "en-US": "Preface by Fr. Ludovic de Besse",
+        "pt-BR": "Prefácio do Padre Ludovic de Besse"
       }
     },
     {
       "id": "book-1",
       "title": {
-        "en-US": "Book I. The errors of the false mystics and the doctrine of Bossuet"
+        "en-US": "Book I. The errors of the false mystics and the doctrine of Bossuet",
+        "pt-BR": "Livro I. Os erros dos falsos místicos e a doutrina de Bossuet"
       },
       "children": [
         {
           "id": "b1-prelim",
           "title": {
-            "en-US": "Book I. Preliminary Dialogue: On the occasion of Bossuet’s publishing his Instruction sur les divers états d’oraison, and the author’s twofold intention"
+            "en-US": "Book I. Preliminary Dialogue: On the occasion of Bossuet’s publishing his Instruction sur les divers états d’oraison, and the author’s twofold intention",
+            "pt-BR": "Livro I. Diálogo preliminar: Sobre a ocasião da publicação da Instruction sur les divers états d’oraison de Bossuet e a dupla intenção do autor"
           }
         },
         {
           "id": "b1-d01",
           "title": {
-            "en-US": "Book I. Dialogue I: General exposition of the errors of the false mystics on prayer; how these errors penetrated into France"
+            "en-US": "Book I. Dialogue I: General exposition of the errors of the false mystics on prayer; how these errors penetrated into France",
+            "pt-BR": "Livro I. Diálogo I: Exposição geral dos erros dos falsos místicos sobre a oração; como esses erros penetraram na França"
           }
         },
         {
           "id": "b1-d02",
           "title": {
-            "en-US": "Book I. Dialogue II: On the particular errors of the false mystics of the seventeenth century: Bossuet opposes to them the principles of the true mystics"
+            "en-US": "Book I. Dialogue II: On the particular errors of the false mystics of the seventeenth century: Bossuet opposes to them the principles of the true mystics",
+            "pt-BR": "Livro I. Diálogo II: Sobre os erros particulares dos falsos místicos do século XVII: Bossuet lhes opõe os princípios dos verdadeiros místicos"
           }
         },
         {
           "id": "b1-d03",
           "title": {
-            "en-US": "Book I. Dialogue III: Bossuet refutes in particular the insidious passages in the books of the new mystics, and lays down the rule for distinguishing between the writings of the false and the true mystics"
+            "en-US": "Book I. Dialogue III: Bossuet refutes in particular the insidious passages in the books of the new mystics, and lays down the rule for distinguishing between the writings of the false and the true mystics",
+            "pt-BR": "Livro I. Diálogo III: Bossuet refuta em particular as passagens insidiosas dos livros dos novos místicos e estabelece a regra para distinguir os escritos dos falsos e dos verdadeiros místicos"
           }
         },
         {
           "id": "b1-d04",
           "title": {
-            "en-US": "Book I. Dialogue IV: The doctrine of the saints opposed to the modern errors of the false mystics"
+            "en-US": "Book I. Dialogue IV: The doctrine of the saints opposed to the modern errors of the false mystics",
+            "pt-BR": "Livro I. Diálogo IV: A doutrina dos santos oposta aos erros modernos dos falsos místicos"
           }
         },
         {
           "id": "b1-d05",
           "title": {
-            "en-US": "Book I. Dialogue V: The imperceptibility of our acts: the soul begins, by means of the prayer of pure faith, to distinguish intellectual acts from acts of the senses"
+            "en-US": "Book I. Dialogue V: The imperceptibility of our acts: the soul begins, by means of the prayer of pure faith, to distinguish intellectual acts from acts of the senses",
+            "pt-BR": "Livro I. Diálogo V: A imperceptibilidade de nossos atos: a alma começa, por meio da oração de pura fé, a distinguir os atos intelectuais dos atos dos sentidos"
           }
         },
         {
           "id": "b1-d06",
           "title": {
-            "en-US": "Book I. Dialogue VI: Other errors of the false mystics: to be aware of one’s acts is culpable only in so far as it feeds one’s self-love"
+            "en-US": "Book I. Dialogue VI: Other errors of the false mystics: to be aware of one’s acts is culpable only in so far as it feeds one’s self-love",
+            "pt-BR": "Livro I. Diálogo VI: Outros erros dos falsos místicos: ter consciência dos próprios atos só é culpável na medida em que alimenta o amor-próprio"
           }
         },
         {
           "id": "b1-d07",
           "title": {
-            "en-US": "Book I. Dialogue VII: The reality of passive prayer: various passive prayers"
+            "en-US": "Book I. Dialogue VII: The reality of passive prayer: various passive prayers",
+            "pt-BR": "Livro I. Diálogo VII: A realidade da oração passiva: diversas orações passivas"
           }
         },
         {
           "id": "b1-d08",
           "title": {
-            "en-US": "Book I. Dialogue VIII: The same subject continued: this kind of prayer does not exclude the acts commanded for the Christian life"
+            "en-US": "Book I. Dialogue VIII: The same subject continued: this kind of prayer does not exclude the acts commanded for the Christian life",
+            "pt-BR": "Livro I. Diálogo VIII: Continuação do mesmo assunto: essa espécie de oração não exclui os atos ordenados para a vida cristã"
           }
         },
         {
           "id": "b1-d09",
           "title": {
-            "en-US": "Book I. Dialogue IX: On perfect love of God, which does not exclude the hope of reward"
+            "en-US": "Book I. Dialogue IX: On perfect love of God, which does not exclude the hope of reward",
+            "pt-BR": "Livro I. Diálogo IX: Sobre o amor perfeito a Deus, que não exclui a esperança da recompensa"
           }
         },
         {
           "id": "b1-d10",
           "title": {
-            "en-US": "Book I. Dialogue X: S. Francis de Sales professes the same doctrine: Christian indifference, and how it should be understood"
+            "en-US": "Book I. Dialogue X: S. Francis de Sales professes the same doctrine: Christian indifference, and how it should be understood",
+            "pt-BR": "Livro I. Diálogo X: São Francisco de Sales professa a mesma doutrina: a indiferença cristã e como deve ser entendida"
           }
         },
         {
           "id": "b1-d11",
           "title": {
-            "en-US": "Book I. Dialogue XI: The Bishop of Meaux’s views on the prayer of the Venerable Mother de Chantal, approved by S. Francis de Sales"
+            "en-US": "Book I. Dialogue XI: The Bishop of Meaux’s views on the prayer of the Venerable Mother de Chantal, approved by S. Francis de Sales",
+            "pt-BR": "Livro I. Diálogo XI: As concepções do bispo de Meaux sobre a oração da Venerável Madre de Chantal, aprovada por São Francisco de Sales"
           }
         },
         {
           "id": "b1-d12",
           "title": {
-            "en-US": "Book I. Dialogue XII: On the prayer of the Venerable Mother de Chantal (continued): what writings she has left us on this important matter"
+            "en-US": "Book I. Dialogue XII: On the prayer of the Venerable Mother de Chantal (continued): what writings she has left us on this important matter",
+            "pt-BR": "Livro I. Diálogo XII: Sobre a oração da Venerável Madre de Chantal (continuação): os escritos que nos deixou sobre essa importante matéria"
           }
         },
         {
           "id": "b1-d13",
           "title": {
-            "en-US": "Book I. Dialogue XIII: On the impossible suppositions by which S. Francis de Sales and several other saints have from the beginning of the Church expressed the excess of love"
+            "en-US": "Book I. Dialogue XIII: On the impossible suppositions by which S. Francis de Sales and several other saints have from the beginning of the Church expressed the excess of love",
+            "pt-BR": "Livro I. Diálogo XIII: Sobre as suposições impossíveis pelas quais São Francisco de Sales e vários outros santos, desde o início da Igreja, expressaram o excesso do amor"
           }
         },
         {
           "id": "b1-d14",
           "title": {
-            "en-US": "Book I. Dialogue XIV: On the trials of afflicted souls and the act of abandonment most perfect and most fitting to their state"
+            "en-US": "Book I. Dialogue XIV: On the trials of afflicted souls and the act of abandonment most perfect and most fitting to their state",
+            "pt-BR": "Livro I. Diálogo XIV: Sobre as provações das almas aflitas e o ato de abandono mais perfeito e mais adequado ao seu estado"
           }
         },
         {
           "id": "b1-d15",
           "title": {
-            "en-US": "Book I. Dialogue XV: On the acts of the condemnation of the Quietists: the precautions taken by the Bishops in condemning errors not to harm the teaching of the saints"
+            "en-US": "Book I. Dialogue XV: On the acts of the condemnation of the Quietists: the precautions taken by the Bishops in condemning errors not to harm the teaching of the saints",
+            "pt-BR": "Livro I. Diálogo XV: Sobre os atos da condenação dos quietistas: as precauções tomadas pelos bispos ao condenar os erros para não prejudicar o ensinamento dos santos"
           }
         },
         {
           "id": "b1-d16",
           "title": {
-            "en-US": "Book I. Dialogue XVI: The Ordinances continued: the views of the Bishop of Meaux on the same subject"
+            "en-US": "Book I. Dialogue XVI: The Ordinances continued: the views of the Bishop of Meaux on the same subject",
+            "pt-BR": "Livro I. Diálogo XVI: Continuação das Ordenações: as concepções do bispo de Meaux sobre o mesmo assunto"
           }
         }
       ]
@@ -167,73 +194,85 @@
     {
       "id": "book-2",
       "title": {
-        "en-US": "Book II. The practice of prayer"
+        "en-US": "Book II. The practice of prayer",
+        "pt-BR": "Livro II. A prática da oração"
       },
       "children": [
         {
           "id": "b2-prelim",
           "title": {
-            "en-US": "Book II. Preliminary Dialogue: On several questions touching the direct acts in which the different forms of mystical prayer consist, and the various names Bossuet gave to these forms of prayer"
+            "en-US": "Book II. Preliminary Dialogue: On several questions touching the direct acts in which the different forms of mystical prayer consist, and the various names Bossuet gave to these forms of prayer",
+            "pt-BR": "Livro II. Diálogo preliminar: Sobre várias questões relativas aos atos diretos em que consistem as diferentes formas de oração mística e aos diversos nomes que Bossuet deu a essas formas de oração"
           }
         },
         {
           "id": "b2-d01",
           "title": {
-            "en-US": "Book II. Dialogue I: On purity of conscience"
+            "en-US": "Book II. Dialogue I: On purity of conscience",
+            "pt-BR": "Livro II. Diálogo I: Sobre a pureza de consciência"
           }
         },
         {
           "id": "b2-d02",
           "title": {
-            "en-US": "Book II. Dialogue II: On purity of heart"
+            "en-US": "Book II. Dialogue II: On purity of heart",
+            "pt-BR": "Livro II. Diálogo II: Sobre a pureza de coração"
           }
         },
         {
           "id": "b2-d03",
           "title": {
-            "en-US": "Book II. Dialogue III: On purity of spirit"
+            "en-US": "Book II. Dialogue III: On purity of spirit",
+            "pt-BR": "Livro II. Diálogo III: Sobre a pureza de espírito"
           }
         },
         {
           "id": "b2-d04",
           "title": {
-            "en-US": "Book II. Dialogue IV: On purity of action"
+            "en-US": "Book II. Dialogue IV: On purity of action",
+            "pt-BR": "Livro II. Diálogo IV: Sobre a pureza de ação"
           }
         },
         {
           "id": "b2-d05",
           "title": {
-            "en-US": "Book II. Dialogue V: On the proximate dispositions for recollection, which consist in two rules to be observed"
+            "en-US": "Book II. Dialogue V: On the proximate dispositions for recollection, which consist in two rules to be observed",
+            "pt-BR": "Livro II. Diálogo V: Sobre as disposições próximas para o recolhimento, que consistem em duas regras a observar"
           }
         },
         {
           "id": "b2-d06",
           "title": {
-            "en-US": "Book II. Dialogue VI: Advice for beginners"
+            "en-US": "Book II. Dialogue VI: Advice for beginners",
+            "pt-BR": "Livro II. Diálogo VI: Conselhos para principiantes"
           }
         },
         {
           "id": "b2-d07",
           "title": {
-            "en-US": "Book II. Dialogue VII: Advice to advanced souls on the aridities of their prayer, and on the particular temptations which accompany them"
+            "en-US": "Book II. Dialogue VII: Advice to advanced souls on the aridities of their prayer, and on the particular temptations which accompany them",
+            "pt-BR": "Livro II. Diálogo VII: Conselhos às almas adiantadas sobre as securas de sua oração e sobre as tentações particulares que as acompanham"
           }
         },
         {
           "id": "b2-d08",
           "title": {
-            "en-US": "Book II. Dialogue VIII: On emptiness of spirit, on the impotence which follows and the extraordinary revolts of the passions"
+            "en-US": "Book II. Dialogue VIII: On emptiness of spirit, on the impotence which follows and the extraordinary revolts of the passions",
+            "pt-BR": "Livro II. Diálogo VIII: Sobre o vazio de espírito, a impotência que se segue e as revoltas extraordinárias das paixões"
           }
         },
         {
           "id": "b2-d09",
           "title": {
-            "en-US": "Book II. Dialogue IX: Advice to those who have made great progress"
+            "en-US": "Book II. Dialogue IX: Advice to those who have made great progress",
+            "pt-BR": "Livro II. Diálogo IX: Conselhos aos que fizeram grandes progressos"
           }
         },
         {
           "id": "b2-d10",
           "title": {
-            "en-US": "Book II. Dialogue X: The same subject continued"
+            "en-US": "Book II. Dialogue X: The same subject continued",
+            "pt-BR": "Livro II. Diálogo X: Continuação do mesmo assunto"
           }
         }
       ]

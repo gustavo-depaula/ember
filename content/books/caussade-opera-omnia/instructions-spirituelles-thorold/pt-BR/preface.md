@@ -1,0 +1,65 @@
+# Prefácio do Padre Ludovic de Besse
+
+Pelo Padre Ludovic de Besse, O.S.F.C.
+
+Possuímos um longo e erudito tratado de Bossuet sobre os diversos estados de oração. É uma obra de controvérsia dirigida contra os quietistas. Como um atleta vigoroso que se compraz em derrubar os adversários, o ardoroso polemista toma esses hereges pelos ombros, por assim dizer, lança-os ao chão e os faz morder o pó. Enquanto assim os mantém sob seus pés, chama em seu auxílio todas as autoridades que podem aumentar seu triunfo. O Antigo e o Novo Testamentos, os Padres das Igrejas grega e latina, Santo Tomás e a Escolástica, os autores místicos mais modernos, Tauler, Ruysbroeck, Gerson, Santa Catarina de Gênova, São João da Cruz e Santa Teresa, São Francisco de Sales e Santa Joana de Chantal... nenhum é esquecido. As longas e numerosas citações que enchem esse livro são regularmente acompanhadas de argumentos rigorosos à maneira dos escolásticos. Encontramos até silogismos formais como os que se empregam nas discussões teológicas.
+
+Apesar de todo esse aparato científico, o livro de Bossuet encontrou muitos leitores, pois foi publicado num momento oportuno, quando as querelas dos quietistas agitavam o público. Foi um golpe mortal para os hereges: nunca se recuperaram dele. Como observa o Padre de Caussade, “talvez não tenha precedentes que, pouco depois de sua publicação, os ânimos se tenham acalmado a tal ponto que ninguém mais se ocupou dos falsos místicos”.
+
+O sucesso do livro de Bossuet foi seu fracasso. Ninguém hoje, à exceção de alguns eruditos, teria
+
+## XXXV
+
+XXXVI PREFÁCIO a coragem de ler até o fim uma longa controvérsia teológica na qual hereges hoje completamente esquecidos são perseguidos com ferocidade. E, no entanto, há muito ouro por cunhar no tratado do erudito bispo de Meaux. Em nenhum lugar, talvez, as verdades e falsidades da oração são expostas com tanta clareza, com tanta precisão e tanto rigor teológico. Uma alma nutrida pelo ensinamento desse livro pode avançar com segurança no caminho da perfeição. Quaisquer que sejam os perigos encontrados nas vias da vida interior, são facilmente superados quando se aprenderam com Bossuet os verdadeiros princípios ensinados pelas Escrituras, pelos Padres da Igreja e pelos grandes místicos.
+
+Aflito por ver uma obra de tão grande importância cair no esquecimento, um piedoso jesuíta, o Padre de Caussade, que viveu no início do século XVIII, procurou um modo de remediar esse mal. Julgou que, eliminando aquelas dissertações eruditas que desanimavam os leitores, seria possível reunir num pequeno volume os tesouros dispersos pela obra de Bossuet. Queria a todo custo tornar amplamente conhecida a doutrina dos santos sobre a oração, tal como a expôs o grande bispo de Meaux. Para atingir mais facilmente esse fim, adotou a forma usada nos catecismos e compôs certo número de diálogos com perguntas e respostas. O livro do Padre de Caussade foi publicado pela primeira vez em Perpignan em 1741 e intitulava-se Instructions spirituelles, en forme de dialogues, sur les divers états d’oraison, suivant la doctrine de Bossuet. Divide-se em duas partes, a primeira contendo dezessete diálogos, a segunda apenas doze. Ambas tratam do mesmo assunto, mas uma se ocupa especialmente da teoria, e a outra, da prática.
+
+A edição de Perpignan foi reimpressa tal como estava em Toulouse alguns anos depois. Mas, em 1758, alguém em Perpignan teve a curiosa ideia de reeditar a segunda parte da excelente obra do Padre de Caussade sem a primeira, que nem sequer resumiu ou mencionou. Além disso, os mesmos erros se repetiram a cada vez.
+
+Vimos várias edições da segunda parte das “Instructions spirituelles”, mas, até onde sabemos, existe apenas uma reedição completa da obra, feita em 1825 por Sequin, em Avignon. Como esta última está esgotada há muito tempo, a primeira parte do livro do Padre de Caussade tornou-se praticamente impossível de encontrar.
+
+Há vários meses, em agradecimento pelos “Éclaircissements sur les œuvres mystiques de Saint Jean de la Croix”, 1 que publicamos em dezembro de 1893, as carmelitas de Reims nos enviaram um exemplar das “Instructions spirituelles” do Padre de Caussade, que haviam sido reeditadas duas vezes por seu antigo superior, o cônego Bussenot, secretário-geral do arcebispo. Mais uma vez, o pequeno volume continha apenas a segunda parte da preciosa obra. Foi impossível ocultar nosso espanto e nossa aflição diante dessa descoberta. A explicação, porém, era muito simples. O cônego Bussenot nunca conseguira obter a primeira parte. Como tínhamos a felicidade de possuir um exemplar, apressamo-nos em colocá-lo à sua disposição. O cônego Bussenot decidiu imediatamente reeditar, enfim, a parte da obra do piedoso jesuíta tão lamentavelmente sacrificada e nos pediu que escrevêssemos uma introdução.
+
+Ignoramos os motivos que levaram a cortar ao meio uma obra tão excelente sob todos os aspectos, de modo a deixar apenas a segunda metade. Ter-se-ia imaginado que, nessas matérias, só a prática bastava? 2
+
+1 Tradução inglesa: Light on Mount Carmel, Londres.
+
+* Já havíamos escrito esta introdução quando chegou ao nosso conhecimento o prefácio da edição mutilada de 1758. Seu autor não teve a coragem de se dar a conhecer, pois nesse volume não se nomeia nem o impressor nem o editor. Há simplesmente, sob o título: “Perpignan, MDCCLVIII”. Como explicação dessa mutilação do livro do Padre de Caussade, o editor anônimo apresenta as seguintes razões: “Como esta obra se divide em duas partes, a primeira das quais trata inteiramente da teoria e a segunda da prática, julgou-se suficiente dar ao leitor apenas esta última, por três razões:
+
+(i) Porque a primeira parte, escrita apenas para evitar ataques à segunda, não sofreu contestação dos teólogos, que todos lhe deram sua aprovação, e, portanto, julgou-se inútil publicá-la;
+
+XXXVIII PREFÁCIO
+
+Boas teorias produzem boas práticas; e, embora seja verdade que algumas almas piedosas e simples que obedecem de olhos fechados não têm necessidade de compreender as regras que governam sua conduta, isso não se pode dizer das pessoas instruídas, menos ainda dos confessores. Estes, em todo caso, devem conhecer as razões da conduta interior das almas colocadas sob seus cuidados. Se agissem de outro modo, mereceriam ser comparados a cegos que conduzem cegos.
+
+Embora o tratado de Bossuet tenha sido escrito contra os quietistas, seria errado dizer que, por terem desaparecido esses hereges, é inútil estudar a refutação de seus erros. Em primeiro lugar, Bossuet declarou formalmente que esse erro lhe deu um pretexto “para ensinar melhor a verdade”; queria “dar às almas piedosas o gosto (pela verdade), aproximá-las da oração e ajudá-las a se entregarem com menos temor aos atrativos divinos”. Ora, a verdade é de todos os tempos. Sempre será utilíssimo aprender teorias que, tornando-a mais facilmente compreensível, permitam aplicá-la melhor.
+
+Em segundo lugar, nas coisas práticas, de aplicação diária e às vezes difícil, como a oração, os erros também são de todos os tempos. Se certos erros de caráter extraordinário podem se espalhar num momento como uma epidemia e, no momento seguinte, desaparecer completamente, não acontece o mesmo com os erros comuns, frutos da ignorância,
+
+(ii) Porque as pessoas que hoje procuram esta obra geralmente não querem senão a segunda parte, que, de fato, é a única ao alcance de sua compreensão;
+
+(iii) Por fim, ao reduzir este livro à metade, considerou-se a diminuição do preço.”
+
+São todas razões muito adequadas, sem dúvida. Nós, por outro lado, pensamos que a primeira parte está ao alcance da compreensão de todos e que é absolutamente necessário que os teólogos de nossos dias a conheçam, para não criticarem a segunda e para aconselharem sua leitura às almas de oração. E, por fim, julgamos que uma pequena economia não compensa o bem espiritual que se sacrifica quando não se lê o livro inteiro do Padre de Caussade.
+
+L. de B.
+
+XXXIX da irreflexão e de certos preconceitos quase indestrutíveis. Tal preconceito, nascido do quietismo, existe ainda hoje. É aquele que inclui numa única reprovação os verdadeiros e os falsos místicos. Não se faz distinção entre eles: todas as obras dos místicos são proscritas, mesmo aquelas escritas por santos sob uma evidente inspiração de Deus. As pessoas têm medo de ler tais livros e preferem obras medíocres escritas sem autoridade.
+
+O Padre de Caussade já havia reconhecido esse mal e deplorava seus lamentáveis efeitos: “esses infelizes preconceitos desencorajaram a leitura dos verdadeiros místicos dos tempos recentes; e assim, mesmo no claustro, já não se vê um número tão grande de almas interiores desapegadas de tudo e mortas para o mundo e para si mesmas. Dirão que, em todas aquelas comunidades que permaneceram devotadas às obras de São João da Cruz, Santa Teresa, São Francisco de Sales, Padre Lallemant e seus dois discípulos, os Padres Rigoleuc e Surin, tão admirados por Bossuet, também se vê um espírito interior proporcionalmente maior, mais abnegação de si, mais humildade e simplicidade evangélica...
+
+Neste ponto, bem poderíamos encerrar este prefácio. Pedimos, porém, licença para acrescentar algumas palavras que mostrarão mais claramente a utilidade do pequeno livro do Padre de Caussade. Todos sabem que a salvação é, ao mesmo tempo, obra de Deus e nossa. *Gratia Dei mecum*, como diz São Paulo. Mas em que proporção devem se combinar a atividade divina e a nossa?
+
+No início da vida espiritual, essa proporção é facilmente encontrada. O homem deve empenhar todas as energias que possui na conquista da salvação. Como Deus nunca recusa sua graça aos de boa vontade, a graça aumentará segundo a atividade espiritual da alma. Por isso, a primeira via da oração é a meditação, durante a qual são postas em ação todas as faculdades do espírito, memória, imaginação, razão, e todas as faculdades do coração, sensibilidade e vontade. Há aqueles que permanecem a vida inteira na via da meditação e se elevam a um alto estado de virtude por esse exercício. Não há dúvida de que Deus pode tornar uma alma santa e perfeita, pode enchê-la de sua sabedoria e de seu santo amor, simplesmente ajudando-a a fazer, a cada dia, melhor uso de suas faculdades naturais. Manifesta-se nesse caso uma maravilhosa harmonia entre duas espécies de atividade, uma das quais, de poder ilimitado, se digna adaptar-se à pequenez da outra. Essa é a via ordinária que todos os cristãos seguem, demasiadas vezes, infelizmente, sem fazer grandes progressos.
+
+Mas nem todas as almas permanecem nesse caminho. Há almas cuja atividade exuberante, em vez de sustentar a ação da graça, destruiria para sempre seus efeitos, se Deus, em sua compassiva sabedoria, não cuidasse de acalmar, durante a oração, seu ardor natural. Não chega a destruir sua atividade, como erroneamente afirmam os quietistas, mas torna seu movimento mais lento, contém suas manifestações e as simplifica, e substitui os inúmeros pensamentos do espírito por um doce e pacífico afeto da vontade, que Bossuet chama de linguagem do coração.
+
+A alma deve então mudar seu método de oração, sob pena de resistir ao Espírito Santo, deter todo progresso e até retroceder. Deve agora passar do raciocínio à contemplação, que ainda não é oração passiva, embora seja frequentemente assim chamada para distingui-la da meditação ordinária. Nesse estado, a atividade está em repouso; mas se exerce por meio de um simples olhar do coração, que se dá a Deus, o adora, o ama, lhe dá graças e o louva sem formular grandes frases, sem despertar na sensibilidade nenhuma impressão viva que pudesse baixar seu olhar em vez de elevá-lo. Bossuet chama isso de oração de atos diretos, que põe a alma e Deus, o coração do fiel e o de Jesus, em contato imediato. Chama esses atos também de atos inclusivos, porque um só desses atos contém em sua simplicidade um grande número de atos. Essa oração de contemplação é mais comum do que se supõe, tanto no claustro quanto no mundo. Bossuet toma por testemunha Santa Joana de Chantal, declarando que, nas casas da Visitação, seu atrativo é quase universal. A santa acrescenta: “Eu poderia até suprimir o quase[^1]
+
+Nossa experiência pessoal nos levou a crer que, mesmo no mundo, aqueles que se aplicam fielmente à meditação são muitas vezes atraídos para uma oração de simples presença de Deus, para a qual necessitam de um ensinamento especial que nem sempre se encontra nas obras de piedade. É esse ensinamento que o Padre de Caussade toma de Bossuet e expõe com grande clareza.
+
+É, portanto, impossível negar a utilidade deste pequeno livro. Ao reeditar a primeira parte, depois de ter reeditado duas vezes a segunda, o cônego Bussenot prestou um serviço considerável às almas piedosas. Se um público instruído der a esta obra a acolhida que ela merece, logo será necessário reeditar juntas as duas partes das “Instructions spirituelles”, e teremos o livro do Padre de Caussade em sua integridade, tal como ele no-lo deu pela primeira vez em 1741.
+
+Padre Ludovic de Besse, capuchinho.
+
+[^1]: Abaixo, Diálogo XII. ..... - VVVVVVVVVVVVVVVVVVVY XX ********** LIVRO I
