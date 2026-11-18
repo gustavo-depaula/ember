@@ -328,7 +328,7 @@ S’ensuit-il que Jésus sur la Croix ait souffert des péchés ‘des hommes da
 
 Scot et Suarez l’ont pensé. — Saint Thomas enseigne au contraire en ses différents ouvrages [^45] que Notre-Seigneur n’a pas souffert du péché in ratione superiori, a la cime de son esprit; par elle, il possédait le Souverain Bien vu face a face et aimé par-dessus tout, comme le possédent au ciel les bienheureux, qui ne souffrent plus du péché, bien qu’il leur déplaise comme a Dieu méme [^46],
 
-Faut-il dire alors que, pour saint Thomas, la grande souffrance qu’éprouva Notre-Seigneur a la vue des péchés de tous les hommes n’appartenait qu’a la « raison inférieure » ? — Cajetan (3) parait bien conserver la pensée de son maitre en disant : elle appartenait, selon lui, @ la ratson inférieure du Christ dirigée par la raison supérieure. Selon la terminologie de saint Augustin en effet, la raison
+Faut-il dire alors que, pour saint Thomas, la grande souffrance qu’éprouva Notre-Seigneur a la vue des péchés de tous les hommes n’appartenait qu’a la « raison inférieure » ? — Cajetan[^47] parait bien conserver la pensée de son maitre en disant : elle appartenait, selon lui, @ la ratson inférieure du Christ dirigée par la raison supérieure. Selon la terminologie de saint Augustin en effet, la raison
 
 L’AMOUR DE DiEU ET LE MYSTERE DE LA CROIX 949 dite « inférieure » porte sur les choses temporelles, et le péché est chose temporelle; mais cependant la tristesse qu’éprouve le juste 4 la vue du péché vient de «la raison supérieure » qui contemple la loi éternelle de Dieu [^48]. Le péché fait souffrir le juste en tant surtout qu’il est une offense faite 4 Dieu.
 

@@ -1044,7 +1044,7 @@ Oraison acquise, commune, 255-266. Comment parvenir à la vie d’oraison et y p
 
 Oraison infuse, 298-306; ses degrés, 3o7-3io; quiétude, 3io-3n; union simple, 3n-3i4; union extatique, 3i6-3i8 ; union transformante, 3i8-32i.
 
-Ordinaire et extraordinaire dans la vie spirituelle, 45, 290-295. — La contemplation infuse est ordinairement accordée aux parfaits, 43o-463, voir Table analytique, ch. V, a. II, 509-527. Appendice I [^Wî)]- Épilogue [81] ss. Extraordinaire, 536-562.
+Ordinaire et extraordinaire dans la vie spirituelle, 45, 290-295. — La contemplation infuse est ordinairement accordée aux parfaits, 43o-463, voir Table analytique, ch. V, a. II, 509-527. Appendice I. — Épilogue [81] ss. Extraordinaire, 536-562.
 
 Orgueil, la nuit de l’esprit nécessaire pour détruire ce qui reste en nous d’orgueil inconscient, 180, 181, 182, 3i4ss., 447 ss., 629. Cf. Humilité et Magnanimité.
 
