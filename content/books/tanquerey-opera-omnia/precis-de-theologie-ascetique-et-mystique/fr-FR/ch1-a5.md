@@ -48,8 +48,6 @@ II. Sa nécessité et son efficacité.
 
 414. 1° Nécessité. Le désir est le premier pas vers la perfection, la condition sine qué non pour y parvenir. Le chemin de la perfection est ardu et suppose des efforts énergiques et constants, puisque, titus sapientiæ vel aliorum spiritualium bonorum, interdum concupiscentia nominatur... propter intensionem appetitûs superioris partis, ex quo fit redundantia in appetitum inferiorem, ut simul etiam ipse inferior appetitus suo modo tendat in spirituale bonum consequens appetitum superiorem... sicut dicitur : Cor meum et caro mea exultaverunt in Deum vivum. »
 
-276 CHAPITRE VY.
-
 comme nous l’avons dit, on ne peut progresser dans l’amour de Dieu sans sacrifices, sans lutter contre la triple concupiscence et la loi du moindre effort. Or on wentre pas dans un chemin difficile, escarpé, si on n’a pas le désir ardent d’arriver au but; y fût-on entré, on l’abandonnerait vite, si on n’était soutenu dans ses efforts par l’élan de l’âme vers la perfection,
 
 A) Aussi tout, dans nos Saints Livres, tend à exciter en nous ce désir, Dans les Evangiles comme dans les Epîtres, on nous exhorte sans cesse à la perfection. Nous lavons déjà montré en parlant de l’obligation de tendre à la perfection : les textes qui établissent cette nécessité ont pour but de stimuler notre désir du progrès. Si on nous donne comme zdéal limitation des perfections divines et comme modèle Jésus lui même, si on raconte ses vertus, si on nous presse de limiter, n’est-ce pas pour exciter en nous le désir de la perfection?
@@ -317,8 +315,6 @@ les a beaucoup perfectionnées. Dans ses Exercices spirituels, il distingue avec
 1 Exercices spirituels, re Sem. — Les paroles entre guillemets sont le texte même de S. Ignace. Nous utilisons la traduction du P, Jennesseaux.
 
 2 Dans la méthode de S. Sulpice, ou y ajoute l’adoration, c’est à dire tous ces actes de religion, par lesquels nous adorons, louons, bénissons, aimons et remercions Dieu; et on se met en face de Jésus, modèle et juge, comme il a été exposé, n. 462.
-
-304 CHAPITRE W:
 
 les paroles, puis sur les actions, selon l’ordre indiqué dans l’examen particulier ».
 

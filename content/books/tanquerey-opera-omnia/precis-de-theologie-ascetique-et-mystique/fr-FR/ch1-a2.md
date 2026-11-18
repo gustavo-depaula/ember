@@ -674,8 +674,6 @@ I. Lutte contre la concupiscence 1, Saint Jean a décrit la concupiscence dans c
 
 1 Voir l’admirable petit traité de BOSSUET sur /a Concupiscence.
 
-134 CHAPITRE IIl.
-
 vitæ»1, Ce que nous allons dire en sera l’explication, 1° LA CONCUPISCENCE DE LA CHAIR.
 
 193. La concupiscence de la chair c’est l’amour désordonné des plaisirs des sens.
@@ -883,8 +881,6 @@ e) Enfin ces mêmes actes ont aussi une valeur impétratoire, en tant qu’ils c
 Pour le but que nous nous proposons, il nous suffira d’exposer la doctrine sur le mérite : 1° sa nature; 2° les conditions qui en augmentent la valeur.
 
 Le 1 Sess. XIV, De sacram. pænitent., cap. 9 : ‘ Docet præterea tantam esse divinæ munificentiæ largitatem, ut non solum pœnis sponte a nobis pro vindicando peccato susceptis... sed etiam (quod maximum amoris argumentum est) temporalibus flagellis a Deo inflictis et a nobis patienter toleratis apud Deum Patrem per Christum Jesum satisfacere valeamus ".
-
-160 CHAPITRE SR EE
 
 I. La nature du mérite.
 

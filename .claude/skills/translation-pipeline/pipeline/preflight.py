@@ -78,6 +78,18 @@ heads = []
 for f in sorted(os.listdir(src)):
     if f.endswith(".md") and f.startswith(scope):
         heads += ["%s: %s" % (f, m.group(0).split("\n\n")[1][:40]) for m in headSplit.finditer(open("%s/%s" % (src, f)).read())]
+# A running head that stands as a paragraph of its own ("The Apostles' Creed. 115",
+# "50 LETTERS AND INSTRUCTIONS"): the model drops it and the span is a paragraph
+# short (Granada's Memorial). Counted only when its title recurs in the book.
+standalone = re.compile(r"^([0-9il|]{1,4}[ ]+[A-Za-zÀ-ÿ:.,' ]{6,}|[A-ZÀ-Ý][A-Za-zÀ-ÿ:.,' ]{5,}[ .]\s*[0-9il]{1,3})$")
+def headKey(p): return re.sub(r"[^a-z]", "", re.sub(r"^[0-9il| .]+|[ .]*[0-9il]+$", "", p).lower())[:10]
+alone = [(f, p) for f in sorted(os.listdir(src)) if f.endswith(".md") and f.startswith(scope)
+         for p in paras(open("%s/%s" % (src, f)).read())
+         if 4 < len(p) < 80 and not p.startswith(("#", "[^", "|", ">", "*", "-")) and standalone.match(p)]
+keys = [headKey(p) for f, p in alone]
+alone = [(f, p) for (f, p), k in zip(alone, keys) if len(k) >= 5 and keys.count(k) >= 2]
+if len(alone) >= 3:
+    hard.append("%d running heads stand as paragraphs, e.g. %s" % (len(alone), "; ".join("%s: %s" % x for x in alone[:3])))
 if len(heads) >= 3:
     hard.append("%d paragraphs split by a running head, e.g. %s" % (len(heads), "; ".join(heads[:3])))
 

@@ -396,8 +396,6 @@ Il reste vrai cependant que certains cas peuvent relever d’un état physiologi
 
 LBccir, TEI, 27: 2 Vie dévote, IIIe P., ch. XXXIII.
 
-560 CHAPITRE IY.
-
 Nous ne pouvons que rappeler quelques-unes de ses prescriptions se rapportant plus directement à la chasteté.
 
 a) Les yeux doivent être particulièrement surveillés, parce que les regards imprudents allument les désirs, et ceux-ci entraînent la volonté. Voilà pourquoi Notre Seigneur déclare que quiconque regarde une femme avec convoitise a déjà commis l’adultère dans son cœur : «gui viderit mulierem ad concupiscendam eam, jam maæchatus est in corde suo »*; et il ajoute que si notre œil droit est une occasion de scandale, il faut l’arracher*, c’est-à-dire détacher énergiquement son regard de l’objet qui nous scandalise. Cette modestie des yeux s’impose d’autant plus aujourd’hui qu’on est plus exposé à rencontrer presque partout des personnes et des objets capables de susciter des tentations.
