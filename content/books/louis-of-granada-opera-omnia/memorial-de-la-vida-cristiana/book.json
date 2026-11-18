@@ -18,13 +18,19 @@
   },
   "composed": "1565",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "louis-of-granada/memorial-de-la-vida-cristiana",
   "editions": {
     "es-ES": {
       "editor": "Justo Cuervo OP",
       "year": 1907
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,43 +47,50 @@
     {
       "id": "dedicatoria",
       "title": {
-        "es-ES": "A la serenísima infanta doña María. Doña María"
+        "es-ES": "A la serenísima infanta doña María. Doña María",
+        "pt-BR": "À sereníssima infanta dona Maria. Dona Maria"
       }
     },
     {
       "id": "prologo",
       "title": {
-        "es-ES": "Prólogo al cristiano lector"
+        "es-ES": "Prólogo al cristiano lector",
+        "pt-BR": "Prólogo ao leitor cristão"
       }
     },
     {
       "id": "tratado-1",
       "title": {
-        "es-ES": "Tratado I: Exhortación a bien vivir"
+        "es-ES": "Tratado I: Exhortación a bien vivir",
+        "pt-BR": "Tratado I: Exortação ao bem viver"
       },
       "children": [
         {
           "id": "t1-c1",
           "title": {
-            "es-ES": "Tratado I, capítulo II"
+            "es-ES": "Tratado I, capítulo II",
+            "pt-BR": "Tratado I, capítulo II"
           }
         },
         {
           "id": "t1-c2",
           "title": {
-            "es-ES": "Tratado I, capítulo III"
+            "es-ES": "Tratado I, capítulo III",
+            "pt-BR": "Tratado I, capítulo III"
           }
         },
         {
           "id": "t1-c3",
           "title": {
-            "es-ES": "Tratado I, capítulo IV"
+            "es-ES": "Tratado I, capítulo IV",
+            "pt-BR": "Tratado I, capítulo IV"
           }
         },
         {
           "id": "t1-c4",
           "title": {
-            "es-ES": "Tratado I, capítulo V"
+            "es-ES": "Tratado I, capítulo V",
+            "pt-BR": "Tratado I, capítulo V"
           }
         }
       ]
@@ -85,85 +98,99 @@
     {
       "id": "tratado-2",
       "title": {
-        "es-ES": "Tratado II: De la penitencia y confesión"
+        "es-ES": "Tratado II: De la penitencia y confesión",
+        "pt-BR": "Tratado II: Da penitência e confissão"
       },
       "children": [
         {
           "id": "t2-prologo",
           "title": {
-            "es-ES": "Tratado II, prólogo"
+            "es-ES": "Tratado II, prólogo",
+            "pt-BR": "Tratado II, prólogo"
           }
         },
         {
           "id": "t2-c1",
           "title": {
-            "es-ES": "Tratado II, capítulo I"
+            "es-ES": "Tratado II, capítulo I",
+            "pt-BR": "Tratado II, capítulo I"
           }
         },
         {
           "id": "t2-c2",
           "title": {
-            "es-ES": "Tratado II, capítulo II"
+            "es-ES": "Tratado II, capítulo II",
+            "pt-BR": "Tratado II, capítulo II"
           }
         },
         {
           "id": "t2-c3",
           "title": {
-            "es-ES": "Tratado II, capítulo III"
+            "es-ES": "Tratado II, capítulo III",
+            "pt-BR": "Tratado II, capítulo III"
           }
         },
         {
           "id": "t2-c4",
           "title": {
-            "es-ES": "Tratado II, capítulo IV"
+            "es-ES": "Tratado II, capítulo IV",
+            "pt-BR": "Tratado II, capítulo IV"
           }
         },
         {
           "id": "t2-c5",
           "title": {
-            "es-ES": "Tratado II, capítulo V"
+            "es-ES": "Tratado II, capítulo V",
+            "pt-BR": "Tratado II, capítulo V"
           }
         },
         {
           "id": "t2-c6",
           "title": {
-            "es-ES": "Tratado II, capítulo VI"
+            "es-ES": "Tratado II, capítulo VI",
+            "pt-BR": "Tratado II, capítulo VI"
           }
         },
         {
           "id": "t2-c7",
           "title": {
-            "es-ES": "Tratado II, capítulo I"
+            "es-ES": "Tratado II, capítulo I",
+            "pt-BR": "Tratado II, capítulo I"
           }
         },
         {
           "id": "t2-c8",
           "title": {
-            "es-ES": "Tratado II, capítulo II"
+            "es-ES": "Tratado II, capítulo II",
+            "pt-BR": "Tratado II, capítulo II"
           }
         },
         {
           "id": "t2-c9",
           "title": {
-            "es-ES": "Tratado II, capítulo I"
+            "es-ES": "Tratado II, capítulo I",
+            "pt-BR": "Tratado II, capítulo I"
           }
         },
         {
           "id": "t2-c10",
           "title": {
-            "es-ES": "Tratado II, capítulo II"
+            "es-ES": "Tratado II, capítulo II",
+            "pt-BR": "Tratado II, capítulo II"
           }
         },
         {
           "id": "t2-c11",
           "title": {
-            "es-ES": "Tratado II, capítulo III"
+            "es-ES": "Tratado II, capítulo III",
+            "pt-BR": "Tratado II, capítulo III"
           }
         },
         {
           "id": "t2-c12",
           "title": {
-            "es-ES": "Tratado II, capítulo V"
+            "es-ES": "Tratado II, capítulo V",
+            "pt-BR": "Tratado II, capítulo V"
           }
         }
       ]
@@ -171,67 +198,78 @@
     {
       "id": "tratado-3",
       "title": {
-        "es-ES": "Tratado III: De la comunión"
+        "es-ES": "Tratado III: De la comunión",
+        "pt-BR": "Tratado III: Da comunhão"
       },
       "children": [
         {
           "id": "t3-c1",
           "title": {
-            "es-ES": "Tratado III, capítulo Primero"
+            "es-ES": "Tratado III, capítulo Primero",
+            "pt-BR": "Tratado III, capítulo Primeiro"
           }
         },
         {
           "id": "t3-c2",
           "title": {
-            "es-ES": "Tratado III, capítulo II"
+            "es-ES": "Tratado III, capítulo II",
+            "pt-BR": "Tratado III, capítulo II"
           }
         },
         {
           "id": "t3-c3",
           "title": {
-            "es-ES": "Tratado III, capítulo III"
+            "es-ES": "Tratado III, capítulo III",
+            "pt-BR": "Tratado III, capítulo III"
           }
         },
         {
           "id": "t3-c4",
           "title": {
-            "es-ES": "Tratado III, capítulo IV"
+            "es-ES": "Tratado III, capítulo IV",
+            "pt-BR": "Tratado III, capítulo IV"
           }
         },
         {
           "id": "t3-c5",
           "title": {
-            "es-ES": "Tratado III, capítulo V"
+            "es-ES": "Tratado III, capítulo V",
+            "pt-BR": "Tratado III, capítulo V"
           }
         },
         {
           "id": "t3-c6",
           "title": {
-            "es-ES": "Tratado III, capítulo VI"
+            "es-ES": "Tratado III, capítulo VI",
+            "pt-BR": "Tratado III, capítulo VI"
           }
         },
         {
           "id": "t3-c7",
           "title": {
-            "es-ES": "Tratado III, capítulo VII"
+            "es-ES": "Tratado III, capítulo VII",
+            "pt-BR": "Tratado III, capítulo VII"
           }
         },
         {
           "id": "t3-c8",
           "title": {
-            "es-ES": "Tratado III, capítulo VIII"
+            "es-ES": "Tratado III, capítulo VIII",
+            "pt-BR": "Tratado III, capítulo VIII"
           }
         },
         {
           "id": "t3-c9",
           "title": {
-            "es-ES": "Tratado III, capítulo IX"
+            "es-ES": "Tratado III, capítulo IX",
+            "pt-BR": "Tratado III, capítulo IX"
           }
         },
         {
           "id": "t3-c10",
           "title": {
-            "es-ES": "Tratado III, capítulo X"
+            "es-ES": "Tratado III, capítulo X",
+            "pt-BR": "Tratado III, capítulo X"
           }
         }
       ]
@@ -239,55 +277,64 @@
     {
       "id": "tratado-4",
       "title": {
-        "es-ES": "Tratado IV: Regla de bien vivir"
+        "es-ES": "Tratado IV: Regla de bien vivir",
+        "pt-BR": "Tratado IV: Regra de bem viver"
       },
       "children": [
         {
           "id": "t4-prologo",
           "title": {
-            "es-ES": "Tratado IV, prólogo"
+            "es-ES": "Tratado IV, prólogo",
+            "pt-BR": "Tratado IV, prólogo"
           }
         },
         {
           "id": "t4-c1",
           "title": {
-            "es-ES": "Tratado IV, capítulo I"
+            "es-ES": "Tratado IV, capítulo I",
+            "pt-BR": "Tratado IV, capítulo I"
           }
         },
         {
           "id": "t4-c2",
           "title": {
-            "es-ES": "Tratado IV, capítulo II"
+            "es-ES": "Tratado IV, capítulo II",
+            "pt-BR": "Tratado IV, capítulo II"
           }
         },
         {
           "id": "t4-c3",
           "title": {
-            "es-ES": "Tratado IV, capítulo I"
+            "es-ES": "Tratado IV, capítulo I",
+            "pt-BR": "Tratado IV, capítulo I"
           }
         },
         {
           "id": "t4-c4",
           "title": {
-            "es-ES": "Tratado IV, capítulo II"
+            "es-ES": "Tratado IV, capítulo II",
+            "pt-BR": "Tratado IV, capítulo II"
           }
         },
         {
           "id": "t4-c5",
           "title": {
-            "es-ES": "Tratado IV, capítulo III"
+            "es-ES": "Tratado IV, capítulo III",
+            "pt-BR": "Tratado IV, capítulo III"
           }
         },
         {
           "id": "t4-c6",
           "title": {
-            "es-ES": "Tratado IV, capítulo IV"
+            "es-ES": "Tratado IV, capítulo IV",
+            "pt-BR": "Tratado IV, capítulo IV"
           }
         },
         {
           "id": "t4-c7",
           "title": {
-            "es-ES": "Tratado IV, capítulo V"
+            "es-ES": "Tratado IV, capítulo V",
+            "pt-BR": "Tratado IV, capítulo V"
           }
         }
       ]
@@ -295,37 +342,43 @@
     {
       "id": "tratado-5",
       "title": {
-        "es-ES": "Tratado V: De la oración vocal"
+        "es-ES": "Tratado V: De la oración vocal",
+        "pt-BR": "Tratado V: Da oração vocal"
       },
       "children": [
         {
           "id": "t5-prologo",
           "title": {
-            "es-ES": "Tratado V, prólogo"
+            "es-ES": "Tratado V, prólogo",
+            "pt-BR": "Tratado V, prólogo"
           }
         },
         {
           "id": "t5-c1",
           "title": {
-            "es-ES": "Tratado V, capítulo I"
+            "es-ES": "Tratado V, capítulo I",
+            "pt-BR": "Tratado V, capítulo I"
           }
         },
         {
           "id": "t5-c2",
           "title": {
-            "es-ES": "Tratado V, capítulo II"
+            "es-ES": "Tratado V, capítulo II",
+            "pt-BR": "Tratado V, capítulo II"
           }
         },
         {
           "id": "t5-c3",
           "title": {
-            "es-ES": "Tratado V, capítulo III"
+            "es-ES": "Tratado V, capítulo III",
+            "pt-BR": "Tratado V, capítulo III"
           }
         },
         {
           "id": "t5-c4",
           "title": {
-            "es-ES": "Tratado V, capítulo IV"
+            "es-ES": "Tratado V, capítulo IV",
+            "pt-BR": "Tratado V, capítulo IV"
           }
         }
       ]
@@ -333,49 +386,57 @@
     {
       "id": "tratado-6",
       "title": {
-        "es-ES": "Tratado VI: De la oración mental y del Vita Christi"
+        "es-ES": "Tratado VI: De la oración mental y del Vita Christi",
+        "pt-BR": "Tratado VI: Da oração mental e do Vita Christi"
       },
       "children": [
         {
           "id": "t6-portada",
           "title": {
-            "es-ES": "Tratado 6"
+            "es-ES": "Tratado 6",
+            "pt-BR": "Tratado 6"
           }
         },
         {
           "id": "t6-prologo",
           "title": {
-            "es-ES": "Tratado VI, prólogo"
+            "es-ES": "Tratado VI, prólogo",
+            "pt-BR": "Tratado VI, prólogo"
           }
         },
         {
           "id": "t6-c1",
           "title": {
-            "es-ES": "Tratado VI, capítulo Primero"
+            "es-ES": "Tratado VI, capítulo Primero",
+            "pt-BR": "Tratado VI, capítulo Primeiro"
           }
         },
         {
           "id": "t6-c2",
           "title": {
-            "es-ES": "Tratado VI, capítulo II"
+            "es-ES": "Tratado VI, capítulo II",
+            "pt-BR": "Tratado VI, capítulo II"
           }
         },
         {
           "id": "t6-c3",
           "title": {
-            "es-ES": "Tratado VI, capítulo IIL"
+            "es-ES": "Tratado VI, capítulo IIL",
+            "pt-BR": "Tratado VI, capítulo III"
           }
         },
         {
           "id": "t6-c4",
           "title": {
-            "es-ES": "Tratado VI, capítulo IV"
+            "es-ES": "Tratado VI, capítulo IV",
+            "pt-BR": "Tratado VI, capítulo IV"
           }
         },
         {
           "id": "t6-c5",
           "title": {
-            "es-ES": "Tratado VI, capítulo V"
+            "es-ES": "Tratado VI, capítulo V",
+            "pt-BR": "Tratado VI, capítulo V"
           }
         }
       ]
@@ -383,61 +444,71 @@
     {
       "id": "tratado-7",
       "title": {
-        "es-ES": "Tratado VII: Del amor de Dios"
+        "es-ES": "Tratado VII: Del amor de Dios",
+        "pt-BR": "Tratado VII: Do amor de Deus"
       },
       "children": [
         {
           "id": "t7-c1",
           "title": {
-            "es-ES": "Tratado VII, capítulo I"
+            "es-ES": "Tratado VII, capítulo I",
+            "pt-BR": "Tratado VII, capítulo I"
           }
         },
         {
           "id": "t7-c2",
           "title": {
-            "es-ES": "Tratado VII, capítulo II"
+            "es-ES": "Tratado VII, capítulo II",
+            "pt-BR": "Tratado VII, capítulo II"
           }
         },
         {
           "id": "t7-c3",
           "title": {
-            "es-ES": "Tratado VII, capítulo III"
+            "es-ES": "Tratado VII, capítulo III",
+            "pt-BR": "Tratado VII, capítulo III"
           }
         },
         {
           "id": "t7-c4",
           "title": {
-            "es-ES": "Tratado VII, capítulo IV"
+            "es-ES": "Tratado VII, capítulo IV",
+            "pt-BR": "Tratado VII, capítulo IV"
           }
         },
         {
           "id": "t7-c5",
           "title": {
-            "es-ES": "Tratado VII, capítulo V"
+            "es-ES": "Tratado VII, capítulo V",
+            "pt-BR": "Tratado VII, capítulo V"
           }
         },
         {
           "id": "t7-c6",
           "title": {
-            "es-ES": "Tratado VII, capítulo VI"
+            "es-ES": "Tratado VII, capítulo VI",
+            "pt-BR": "Tratado VII, capítulo VI"
           }
         },
         {
           "id": "t7-oracion-1",
           "title": {
-            "es-ES": "Tratado VII, oración primera sobre el Pater noster. Sobre la oración del pater noster"
+            "es-ES": "Tratado VII, oración primera sobre el Pater noster. Sobre la oración del pater noster",
+            "pt-BR": "Tratado VII, primeira oração sobre o Pater noster. Sobre a oração do pater noster"
           }
         },
         {
           "id": "t7-meditacion-2",
           "title": {
-            "es-ES": "Tratado VII, segunda meditación sobre el Pater noster. En la cual se prosigue la declaración del pater noster"
+            "es-ES": "Tratado VII, segunda meditación sobre el Pater noster. En la cual se prosigue la declaración del pater noster",
+            "pt-BR": "Tratado VII, segunda meditação sobre o Pater noster. Na qual se prossegue a explicação do pater noster"
           }
         },
         {
           "id": "t7-meditacion-3",
           "title": {
-            "es-ES": "Tratado VII, tercera meditación sobre el Pater noster. Sobre la oración del pater noster"
+            "es-ES": "Tratado VII, tercera meditación sobre el Pater noster. Sobre la oración del pater noster",
+            "pt-BR": "Tratado VII, terceira meditação sobre o Pater noster. Sobre a oração do pater noster"
           }
         }
       ]
