@@ -28,7 +28,7 @@ for src in sorted(glob.glob(d + "/" + lang + "/" + scope + "*.md")):
         problems.append("missing " + tgt); continue
     a = paras(src)
     # A translator's footnote is the one paragraph pt-BR may add.
-    b = [p for p in paras(tgt) if not (p.startswith("[^") and "Nota do tradutor" in p)]
+    b = [p for p in paras(tgt) if not (p.startswith("[^") and "Nota do tradutor" in p[:40])]
     if len(a) != len(b):
         problems.append("%s: %d vs %d paragraphs" % (name, len(a), len(b))); continue
     # OCR reads 1 as l in the English editions ("Galatians 6:l", "Luke 7:12-l5").

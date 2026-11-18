@@ -32,7 +32,7 @@ def blocks(text):
     out = []
     for m in re.finditer(r"(?:[^\n]|\n(?!\s*\n))+", text):
         s = m.group(0).strip()
-        if not s or (s.startswith("[^") and "Nota do tradutor" in s):
+        if not s or (s.startswith("[^") and "Nota do tradutor" in s[:40]):
             continue
         start = m.start() + (len(m.group(0)) - len(m.group(0).lstrip()))
         out.append((start, start + len(s)))
@@ -100,7 +100,7 @@ def parts(book, maxWords):
 def notes(path):
     """The translator's footnotes of a chapter file, which the paragraph numbering skips."""
     if not os.path.exists(path): return ""
-    ns = [p.strip() for p in open(path).read().split("\n\n") if p.strip().startswith("[^") and "Nota do tradutor" in p]
+    ns = [p.strip() for p in open(path).read().split("\n\n") if p.strip().startswith("[^") and "Nota do tradutor" in p[:40]]
     return "\n\n".join(ns)
 
 

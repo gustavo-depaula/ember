@@ -224,7 +224,7 @@ def write(book, k, ans):
         ps = [re.sub(r"^\[\d+\] ", "", p) for p in paras(got)]
         src = paras(open("%s/%s/%s" % (book, lang(book), ch)).read())
         # A translator's footnote may follow the paragraphs it serves.
-        body = [p for p in ps if not (p.startswith("[^") and "Nota do tradutor" in p)]
+        body = [p for p in ps if not (p.startswith("[^") and "Nota do tradutor" in p[:40])]
         # A span that ends before its chapter's notes carries their markers, and the
         # model may write a note's definition after the paragraph that cites it
         # (Granada's Vidas, enrique.md); the note comes with its own span later.
@@ -243,7 +243,7 @@ def write(book, k, ans):
         if a > 0 and os.path.exists(path):
             # The paragraphs before this span (a rerun of this span replaces its own).
             for x in paras(open(path).read()):
-                if sum(1 for y in have if not (y.startswith("[^") and "Nota do tradutor" in y)) >= a: break
+                if sum(1 for y in have if not (y.startswith("[^") and "Nota do tradutor" in y[:40])) >= a: break
                 have.append(x)
         open(path, "w").write("\n\n".join(have + ps) + "\n")
     if problems:
@@ -292,7 +292,7 @@ def check(book):
         if not os.path.exists(p):
             problems.append("missing pt-BR/" + ch); continue
         a = paras(open("%s/%s/%s" % (book, lang(book), ch)).read())
-        b = [x for x in paras(open(p).read()) if not (x.startswith("[^") and "Nota do tradutor" in x)]
+        b = [x for x in paras(open(p).read()) if not (x.startswith("[^") and "Nota do tradutor" in x[:40])]
         if len(a) != len(b):
             problems.append("pt-BR/%s: %d paragraphs for %d" % (ch, len(b), len(a)))
     if problems:

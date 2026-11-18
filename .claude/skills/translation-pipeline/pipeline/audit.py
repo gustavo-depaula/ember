@@ -83,7 +83,7 @@ for src in sorted(glob.glob("%s/%s/%s*.md" % (book, lang, scope))):
     a = paras(src)
     b = paras(tgt)
     # A translator's footnote is the one block pt-BR may add.
-    notes = [p for p in b if p.startswith("[^") and "Nota do tradutor" in p]
+    notes = [p for p in b if p.startswith("[^") and "Nota do tradutor" in p[:40]]
     b = [p for p in b if p not in notes]
     aligned = len(a) == len(b)
     if not aligned:
