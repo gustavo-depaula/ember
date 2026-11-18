@@ -24,8 +24,6 @@ Poor in goodness,
 
 YfflGO.
 
-OF ST. IGNATIUS LOYOLA 41
-
 Since writing this I have received a letter from you, and as Our Lord is to judge me it seems to me and I feel that if where you are you have much to do, here you have much more, and more opportunities of serving the Lord according to your desire. Consequently do what you can that soon we may meet.
 
 **Notes on the text**

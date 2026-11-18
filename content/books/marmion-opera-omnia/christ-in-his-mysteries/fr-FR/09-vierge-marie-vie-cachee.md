@@ -108,8 +108,6 @@ Tout comme elle avait donné son assentiment au nom de l’humanité quand l’a
 
 N’oubliez pas non plus que celui qu’elle offre ainsi est son propre Fils, celui qu’elle a porté dans son sein virginal et fécond. Quel prêtre, quel saint a jamais présenté à Dieu l’oblation eucharistique dans une union aussi étroite avec la divine victime que l’était la Vierge en ce moment ? Non seulement elle était unie à Jésus par des sentiments de foi et d’amour, comme nous pouvons l’être nous-mêmes, quoique à un degré infiniment moindre ; mais le lien qui l’unissait au Christ Jésus était unique : Jésus était le propre fruit de ses entrailles. Voilà pourquoi Marie, dès ce jour où elle présente Jésus comme les prémices du futur sacrifice, a une part si prépondérante dans l’œuvre de notre rédemption. i. Antienne Adorna de la bénédiction des cierges, à la fête de la Purification.
 
-Le Christ dans ses mystères. 13
-
 Et voyez comment, dès cet instant aussi, le Christ Jésus veut associer sa divine Mère à sa qualité de victime.
 
 Voici que s’amène le vieillard Siméon, guidé par le Saint-Esprit dont il était rempli : Et Spiritus sanctus erat in eo... et venit in Spiritu in templum. 11 reconnaît le Sauveur du monde dans cet enfant : il le prend dans ses bras et chante sa joie d’avoir enfin vu de ses yeux le Messie promis. Après avoir exalté « la lumière qui doit se manifester un jour à toutes les nations », voici qu’il rend Jésus à sa Mère, et s’adressant à celle-ci il lui dit : « Cet enfant est prédestiné à la ruine et à la résurrection de beaucoup en Israël. Il sera un signe auquel on contredira ; et votre âme sera percée d’un glaive ». C’était l’annonce imprécise du sacrifice sanglant du Calvaire.

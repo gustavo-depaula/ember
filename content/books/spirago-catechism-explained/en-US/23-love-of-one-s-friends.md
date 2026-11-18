@@ -16,8 +16,6 @@ Friendship, like a building, must rest upon a solid foundation; and only when th
 
 False friendships are those which are formed merely for the sake of pleasure or gain, or some bad purpose; or between men who need one another's assistance in perpetrating some dark deed. Thus Judas made an agreement with the high priests against Our Lord; and Pilate and Herod were made friends on the 'occasion of His condemnation. False friends are only steadfast as long as they need each other (Ecclus. vi. 7 seq.}. When Judas in desperation took the money back to the chief priests with self -accusations, they spoke as if they knew nothing about him: "What is that to us? Look thou to it" (Matt, xxvii. 4). False friends act like the swallows; as long as it is warm here, they stay happily in this country with us ; but as soon as they feel the inclement winter approaching, they take flight to a sunnier clime. Or they may be compared to bees, which fly away from a flower when they have sucked all the honey out of its cup (Segneri). They are like a reed, which breaks when one leans on it.
 
-302 The Commandments.
-
 The Eomans used to say : " As long as thou art happy thou wilt have many friends, but as soon as adversity overtakes thee thou wilt find thyself alone." Misfortune is the test of true friendship.
 
 4. It is not wrong to have friends, and to love them more than other men; for Christ had friends whom He loved with a special predilection.
@@ -31,5 +29,3 @@ Blessed is he that findeth a true friend (Ecclus. xxv. 12). A friend makes our l
 6. One must not be rash in forming friendships, nor must one do wrong to please a friend.
 
 David complains : " The man in whom I trusted, who eat my bread, hath greatly supplanted me" (Ps. xl. 10). Holy Scripture also warns us to try a friend before taking him, and not to trust him too readily (Ecclus. vi. 7). Do not judge of him as much by his words as by his deeds. And if he asks you to do evil for his sake, answer him as the Greek answered the friend who wanted him to swear falsely in his interest : " I am only thy friend in so far as I do not lose the friendship of God." The friendship of God is indeed worth more than any human friendship.
-
-The Commandment to Love our Enemy. 303

@@ -12,11 +12,7 @@ God is like a gardener who waters his plants while they are still tender and sma
 
 2. Miracles are such extraordinary works as cannot be performed by the mere powers of nature, but are brought about by the intervention of a higher power.
 
-An extraordinary work is one that fills us with astonishment, because we have never seen or heard of anything like it and are unable to find any natural explanation of it: e.g., the telegraph and the phonograph were extraordinary wonders at the time ^ of their first invention. But their unwonted character is not sufficient to constitute these things as miracles; a miracle must also surpass all the forces of nature. Thus the raising of the dead to life is not only an
-
-96 Faith.
-
-extraordinary fact, but it is one that no amount of skill or knowledge will enable a man to perform. Miracles are thus exceptions to the ordinary course of nature; they appear to transgress the laws of nature, but they do not really do so. The laws of nature still hold good, but they are suspended in their action by an intervening power.
+An extraordinary work is one that fills us with astonishment, because we have never seen or heard of anything like it and are unable to find any natural explanation of it: e.g., the telegraph and the phonograph were extraordinary wonders at the time ^ of their first invention. But their unwonted character is not sufficient to constitute these things as miracles; a miracle must also surpass all the forces of nature. Thus the raising of the dead to life is not only an extraordinary fact, but it is one that no amount of skill or knowledge will enable a man to perform. Miracles are thus exceptions to the ordinary course of nature; they appear to transgress the laws of nature, but they do not really do so. The laws of nature still hold good, but they are suspended in their action by an intervening power.
 
 There are true and false miracles.
 
@@ -40,11 +36,7 @@ Prophecy also includes a prediction of future events, which depend on the free w
 
 6. God for the most part intrusts the prophesying of future events to His messengers, for the confirmation of the true faith or for the benefit of men.
 
-Thus God intrusted the prophets of the Jewish covenant with the prophecy of a Redeemer to come, in order to confirm the belief in Him, to convince those to whom He came that He was the true Messias and those who have lived since His coming of the truth of the Christian religion. He sent Noe to prophesy the Flood, in order to lead men to do penance. Sometimes He revealed the future to wicked men, as when to Baltassar He foretold his coming destruction by the handwriting on the wall. Sometimes He employed wicked men as the instruments through which He foretold the future, as e.g., Balaam (Numb. xxiv. 1 seq.), and Caiphas, as being the high priest of the year (John xi. 49). But in general He only employed as instruments of prophecy His own faithful servants, revealing the future event either through a vision, or by an ang^l, or through some interior illumination. Thus the archangel Gabriel was sent ^to instruct Daniel during the Babylonian captivity respecting the time of
-
-98 Faith.
-
-the coming of the Messias. The prophecies of the Apocalypse were mostly put before St. John in the form of a vision. Such communications were given to the prophets only from time to time. None of them had a permanent knowledge of future events. Thus Samuel did not know who was to be the future king of Israel till David was actually presented to him (1 Kings xvi. 6-12).
+Thus God intrusted the prophets of the Jewish covenant with the prophecy of a Redeemer to come, in order to confirm the belief in Him, to convince those to whom He came that He was the true Messias and those who have lived since His coming of the truth of the Christian religion. He sent Noe to prophesy the Flood, in order to lead men to do penance. Sometimes He revealed the future to wicked men, as when to Baltassar He foretold his coming destruction by the handwriting on the wall. Sometimes He employed wicked men as the instruments through which He foretold the future, as e.g., Balaam (Numb. xxiv. 1 seq.), and Caiphas, as being the high priest of the year (John xi. 49). But in general He only employed as instruments of prophecy His own faithful servants, revealing the future event either through a vision, or by an ang^l, or through some interior illumination. Thus the archangel Gabriel was sent ^to instruct Daniel during the Babylonian captivity respecting the time of the coming of the Messias. The prophecies of the Apocalypse were mostly put before St. John in the form of a vision. Such communications were given to the prophets only from time to time. None of them had a permanent knowledge of future events. Thus Samuel did not know who was to be the future king of Israel till David was actually presented to him (1 Kings xvi. 6-12).
 
 The gift of prophecy is therefore, generally speaking, a proof that he who possesses it is a messenger from God.
 

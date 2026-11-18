@@ -20,8 +20,6 @@ St. John says : " He that loveth not, abideth in death " (1 John iii. 14). St. A
 
 Of ourselves we are incapable of loving God above all things. Ever since the blight of original sin fell upon us, it is with our heart as with the date-palm, which transplanted to a colder clime does indeed bear fruit, but cannot produce the ripe and delicious dates of the land where it is indigenous. So our hearts would fain love
 
-286 The Commandments.
-
 God, but the power is lacking to them; they can only attain to true charity when informed by divine grace. " To will is present with me, but how to accomplish that which is good I know not" (Rom. vii. 18). ~Not until the Holy Spirit takes possession of us by Baptism or penance is the love of God shed abroad in our heart. The love of our neighbor is implanted within us at the same time as the love of God; they are, but one, the only difference is in the object towards which they are directed. The love of God and of our neigh bor may be compared to two streams, issuing from one and the selfsame source. St. Augustine says that Christ gave the Holy Spirit to the apostles twice (when He breathed upon them and on the Day of Pentecost) because with the Holy Spirit a twofold charity is imparted to us
 
 4. The love of God is inseparably united to tne iove of our neighbor.

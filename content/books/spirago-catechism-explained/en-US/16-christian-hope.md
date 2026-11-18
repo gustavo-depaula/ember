@@ -8,11 +8,7 @@ Christian hope is the confident expectation of all those things which Christ pro
 
 1. As the reward of carrying out God's will, Christ has promised us eternal happiness, and the means required for attain ing it ; in particular God's grace, temporal goods for the sustaining of life, forgiveness of sins, help in our necessities, and the answer ing of our prayers.
 
-Christ promised us eternal happiness (1 John ii. 25) ; "In the house of My Father are many mansions. If not I would have told you that I go to prepare a place for you " (John xiv. 2) ; He has further promised to raise our bodies again after death (John v. 28). The desire for perfect happiness is planted deep in our nature. Christ also promised His grace, i.e., the help of the Holy Spirit, for His will is that all men be saved (1 Tim. ii. 4). Grace is absolutely necessary for salvation: actual grace for our conversion, sanctifying grace for entrance into heaven. Temporal goods are promised : " Be
-
-Christian Hope. 275
-
-not solicitous for your life what you shall eat, nor for your body what you shall put on. . . . For your Father knoweth that you have need of all these things," and we are taught that since the Father feeds the birds of the air, and clothes the weeds of the field, much more will be His care for us (Matt. vi. 25-32). The experience of the saints in this matter is a great consolation and lesson to us; over and over again they have been in difficulties for the means of subsistence, yet help always came. Forgiveness of sin is assured to us if we wish to amend: " There shall be joy in heaven upon one sinner that doth penance, more than over ninety-nine just who need not penance" (Luke xv. 7). The parable of the prodigal son and of the lost sheep reveal to us how readily God will forgive the sinner : " So long as we are on the earth it is never too late to repent," says St. Cyprian. The penitent thief on the cross found salvation. " God wills not the death of the sinner, but that he be converted and live " (Ezech. xviii. 32). We are certain of help in our necessities. When the apostles were filled with fear at the storm on the lake, Christ's reproach to them was: "Why do you fear, O ye of little faith?" (Matt. viii. 26). God is called the " helper in tribulations" (Ps. xlv. 2). It is true He seems at times to delay answering our prayers, as in the marriage-feast at Cana, when He said : " My hour is not yet come " (John ii. 4) ; yet the longer we have to wait, the more wonderful is His answer, and we might reflect on the calming of the storm on the lake, on the release of St. Peter from prison, on the fate of Aman, the persecutor of the Jews (Esther vii.). " When our necessity is greatest," says St. Ambrose, " God's help is nearest." Christ promised that our petitions shall always be heard : " If you shall ask Me anything in My name, that will I do " (John xiv. 14). " Amen, Amen, I say to you; if you ask the Father anything in My name, He will give it you" (John xvi. 23).
+Christ promised us eternal happiness (1 John ii. 25) ; "In the house of My Father are many mansions. If not I would have told you that I go to prepare a place for you " (John xiv. 2) ; He has further promised to raise our bodies again after death (John v. 28). The desire for perfect happiness is planted deep in our nature. Christ also promised His grace, i.e., the help of the Holy Spirit, for His will is that all men be saved (1 Tim. ii. 4). Grace is absolutely necessary for salvation: actual grace for our conversion, sanctifying grace for entrance into heaven. Temporal goods are promised : " Be not solicitous for your life what you shall eat, nor for your body what you shall put on. . . . For your Father knoweth that you have need of all these things," and we are taught that since the Father feeds the birds of the air, and clothes the weeds of the field, much more will be His care for us (Matt. vi. 25-32). The experience of the saints in this matter is a great consolation and lesson to us; over and over again they have been in difficulties for the means of subsistence, yet help always came. Forgiveness of sin is assured to us if we wish to amend: " There shall be joy in heaven upon one sinner that doth penance, more than over ninety-nine just who need not penance" (Luke xv. 7). The parable of the prodigal son and of the lost sheep reveal to us how readily God will forgive the sinner : " So long as we are on the earth it is never too late to repent," says St. Cyprian. The penitent thief on the cross found salvation. " God wills not the death of the sinner, but that he be converted and live " (Ezech. xviii. 32). We are certain of help in our necessities. When the apostles were filled with fear at the storm on the lake, Christ's reproach to them was: "Why do you fear, O ye of little faith?" (Matt. viii. 26). God is called the " helper in tribulations" (Ps. xlv. 2). It is true He seems at times to delay answering our prayers, as in the marriage-feast at Cana, when He said : " My hour is not yet come " (John ii. 4) ; yet the longer we have to wait, the more wonderful is His answer, and we might reflect on the calming of the storm on the lake, on the release of St. Peter from prison, on the fate of Aman, the persecutor of the Jews (Esther vii.). " When our necessity is greatest," says St. Ambrose, " God's help is nearest." Christ promised that our petitions shall always be heard : " If you shall ask Me anything in My name, that will I do " (John xiv. 14). " Amen, Amen, I say to you; if you ask the Father anything in My name, He will give it you" (John xvi. 23).
 
 Christ taught us in the Our Father to ask our heavenly Father for all these things.
 
@@ -20,11 +16,7 @@ The second petition is a prayer for salvation, the third for grace, the fourth f
 
 2. Christian hope is based on faith, for we hope for the fulfil ment of God's promises because we believe that God is infinitely true, infinitely powerful, and infinitely good, and that Christ has merited all for us.
 
-" We are firmly convinced," says St. Clement of Rome, " that He Who forbade deceit cannot Himself deceive." Hence the words of St. Paul : " Let us hold fast the confession of our hope without wavering, for He is faithful that hath promised" (Heb. x. 23). Moreover, we are convinced that God, to Whom nothing is impossible (Luke i. 37), is able to carry out His promises (Rom. iv. 18) ; that God, Who is love itself (1 John iv. 8), is more ready to give than we are to receive (St. Jerome) ; that Christ, by His death on the cross, has merited for us salvation and all things necessary for its attainment. Thus St. Augustine, " I could never hope for pardon or heaven when I think of my great sins, but I venture to hope that through the
-
-276 Faith.
-
-merits of Christ I may be saved by means of penance and keeping of the commandments."
+" We are firmly convinced," says St. Clement of Rome, " that He Who forbade deceit cannot Himself deceive." Hence the words of St. Paul : " Let us hold fast the confession of our hope without wavering, for He is faithful that hath promised" (Heb. x. 23). Moreover, we are convinced that God, to Whom nothing is impossible (Luke i. 37), is able to carry out His promises (Rom. iv. 18) ; that God, Who is love itself (1 John iv. 8), is more ready to give than we are to receive (St. Jerome) ; that Christ, by His death on the cross, has merited for us salvation and all things necessary for its attainment. Thus St. Augustine, " I could never hope for pardon or heaven when I think of my great sins, but I venture to hope that through the merits of Christ I may be saved by means of penance and keeping of the commandments."
 
 3. He only who carries out God's will can hope for the good things promised by Christ.
 
@@ -41,8 +33,6 @@ Christ's words are: " Seek first the kingdom of God and His justice, and all oth
 4. A wholesome fear of falling into sin must always accompany Christian hope.
 
 God's will is that we should work out our salvation in fear and trembling (Phil. ii. 12). ISTo one has complete assurance that he belongs to the number of the elect, or that he will persevere in virtue till death (Council of Trent, 6, Can. 15, 16). Many an old and rotten ship has reached harbor, while many a great and noble vessel has sunk in the sea. Men, illumined of God, like Solomon, have fallen into godless ways before their death, and many a great sinner, like St. Augustine or St. Mary Magdalen, has become a very great saint.
-
-Christian Hope. 277
 
 " He that thinketh himself to stand take heed lest he fall " (1 Cor. x. 12). "We carry our treasure in frail and earthen vessels" (2 Cor. iv. 7). "Mistrust of ourselves," says St. Augustine, " should help us to hope." Hope and fear are companions ; where they reign, the heavenly crown is easily secured (St. John Chrysostom). Hope makes us strong and fear makes us prudent. Hope is like the breeze to a ship, driving it in to the harbor; fear is like the ballast, steadying it and preventing shipwreck. Fear, so far from diminishing hope, increases it. " Trust in God and distrust of ourselves," says St. Francis of Sales, "are like the two arms of a balance; as one rises the other goes down; the more we distrust ourselves, the more we confide in God, and vice versa"
 
@@ -74,8 +64,6 @@ We have examples in David before Goliath and Leo before Attila. St. Martin was o
 
 4. He who hopes in God is impelled to the performance of good works and of heroic acts.
 
-Christian Hope. 279
-
 This is the secret of the zeal of missionaries in the land of the heathen. The hope of the Christian is something more solid than that of the husbandman, or the warrior, or the artist. " He hopes for that which Truth itself has promised," says St. Paulinus. Our hope is as certain as though it were already an accomplished fact (St. Augustine).
 
 ## 3. The Object of Christian Hope
@@ -96,11 +84,7 @@ The Christian may not despair, because God's mercy is in finite, and God's help 
 
 Despair often ends in suicide and everlasting death.
 
-Judas is an example of this. Despair is a sin against the Holy Ghost, and as such is never forgiven. " Hope," says St. Isidore, " opens heaven's gates, while despair closes them." St. Augustine says that he who despairs of God's mercy, dishonors God as though be did not believe in His existence; and St. Jerome adds that the
-
-280 Faith.
-
-sin of Judas in despairing of God's mercy was greater than his sin of betraying Christ. He who sins kills his soul, but he who despairs is already in hell.
+Judas is an example of this. Despair is a sin against the Holy Ghost, and as such is never forgiven. " Hope," says St. Isidore, " opens heaven's gates, while despair closes them." St. Augustine says that he who despairs of God's mercy, dishonors God as though be did not believe in His existence; and St. Jerome adds that the sin of Judas in despairing of God's mercy was greater than his sin of betraying Christ. He who sins kills his soul, but he who despairs is already in hell.
 
 3. The Christian must never presume on his trust in God's mercy, i.e., he may not continue sinning with the idea that God's mercy can never condemn him to hell.
 

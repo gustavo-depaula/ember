@@ -12,8 +12,6 @@ God desires the sinner to be converted, the just to strive after perfection. The
 
 Christ says : " I am the way, the truth and the life " (John xiv. 6). When the rich youth asked Our Lord what he was to do in order to be perfect, the answer given him was : " Follow Me " (Matt. xix.
 
-510 Christian Perfection.
-
 21). St. Paul bids us: "Put ye on the Lord Jesus Christ" (Rom. xiii. 14). As an apprentice watches his master at work, that he may learn to work like him, so we ought to keep our eyes fixed on our Master Christ. The saints meditated unceasingly on the life and Passion of Our Lord. He is the Christian's pattern. The saints are also examples of perfection, for they imitate Christ; their life is a copy of His life. St. Paul exhorts the Corinthians : " Be ye followers of me" (1 Cor. iv. 10), and he enjoins on the Hebrews the necessity of imitating the saints (Heb. vi. 12). The Church commemorates one or more of the saints on each day of the ecclesiastical year, in order to incite us to their imitation. The saints stand in the same relation to Christ as the stars do to the sun; He surpasses them all in perfection. Thus it is easier for us to imitate the saints ; we know that it is impossible for us ever to attain to the perfection of which Christ sets us the example, but the sanctity of the saints is within our reach. And here it must be remarked that almost every saint excelled in the practice of one particular virtue. Also that the actions of each were suited to and in conformity with the circumstances, the environment in which they were placed; e.g., their calling, their means, their bodily strength and natural temperament. Every one ought to choose for his model a saint whose position and calling were similar to his own.
 
 3. The perfection of the Christian consists in charity towards God and his neighbor, and in detachment of heart from the things of this world.
@@ -31,7 +29,5 @@ Our Lord says: "Blessed are they that hunger and thirst after justice for they s
 5. There is no state or calling of life in which Christian perfection is not possible.
 
 Saints are formed in every class, from the highest to the lowest. To love God and one's neighbor is within every one's power. " How easy a thing it is," savs St. Bonaventure, " to love God ; there is nothing laborious, nothing disagreeable involved in it." In fact nothing is more delightful to the heart than to love God. From other good works a man may excuse himself, saying: "I cannot fast ; I have not the means to give alms ; " but no one can say : " I cannot love." Pious practices must be proportioned to the powers and adapted to the occupations and duties of the individual. St.
-
-512 Christian Perfection.
 
 Francis of Sales compares piety to a fluid, which takes the shape of the vessel in which it is contained.

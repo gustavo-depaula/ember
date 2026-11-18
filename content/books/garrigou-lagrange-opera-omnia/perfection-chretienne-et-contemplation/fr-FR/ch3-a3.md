@@ -70,8 +70,6 @@ Enfin a l’âme possède les sept dons du Saint-Esprit, selon l’entière perf
 
 union parfaite. — Voir à ce sujet le dernier ouvrage du P. Arintero, O. P., Cantar de los Cantares, Exposicion mistica. Saiamanca.
 
-LA PLEINE PERFECTION DE LA VIE CHRÉTIENNE i85
-
 Selon saint Jean de la Croix, la voie illuminative et la voie unitive appartiennent donc à la vie mystique proprement dite. C’est là certes une très haute conception de ce que doit être le plein développement de « la grâce des vertus et des dons », de ce que doit devenir normalement l’intimité de l’union divine dans une âme intérieure qui a passé sa vie dans une grande fidélité au Saint-Esprit.
 
 Cette conception de la vie unitive ou parfaite, est-il besoin de le dire? dépasse de beaucoup ce que nombre d’auteurs ascétiques modernes appellent la vie unitive ordinaire. Cette dernière, pour eux, ne suppose pas les douloureuses purifications passives, tout au moins celles de l’esprit, qui appartiennent aux états mystiques (1). Or il y a une différence considérable entre les âmes qui ont vaillamment traversé ces grandes épreuves et celles qui ne les ont pas encore subies. D’où provient cette divergence de l’enseignement ascétique de ces auteurs modernes et de la doctrine de saint Jean de la Croix? C’est ce que nous examinerons dans l’article suivant.

@@ -24,11 +24,7 @@ The persons whom it is customary to consecrate in a solemn manner are: The Pope,
 
 The consecration of priests, be it remembered, is a sacrament.
 
-The things which it is customary to bless are: Holy water, the water to be used in Baptism (this is blessed on Holy Saturday and on the eve of Pentecost) ; candles (on the Purification,
-
-670 The Means of Grace.
-
-and the Paschal candle at Easter); ashes (on Ash Wednesday); palms (on Palm Sunday); the holy oils (on Maundy Thursday in the cathedrals), besides crosses, images, rosaries, medals, banners; places also are blessed, such as churches, chapels, altars, cemeteries.
+The things which it is customary to bless are: Holy water, the water to be used in Baptism (this is blessed on Holy Saturday and on the eve of Pentecost) ; candles (on the Purification, and the Paschal candle at Easter); ashes (on Ash Wednesday); palms (on Palm Sunday); the holy oils (on Maundy Thursday in the cathedrals), besides crosses, images, rosaries, medals, banners; places also are blessed, such as churches, chapels, altars, cemeteries.
 
 The Church blesses everything which appertains to divine service.
 
@@ -42,11 +38,7 @@ Several acts of consecration appertain to the episcopal office, and may only be 
 
 3. The use of blessed or consecrated objects is profitable; for if used with pious dispositions, they increase our fear and love of God, remit venial sins, and preserve us from many temptations and from bodily harm ; excepting such temptations and ills of the body as are for our spiritual welfare. •
 
-The sacramentals remit venial sin, and deliver us from some of the evil consequences of sin. They help us in the hour of temptation ; St. Teresa cannot say enough concerning the power of holy water to drive away the devil. They are also of use in bodily ills and in firmities; the apostles anointed with oil many who were sick and healed them (Mark vi. 13). They are thus a remedy and a shield. Is it superstition on the part of the soldier who carries with him a blessed crucifix when he goes to battle, hoping that by God's mercy it may be his protection ? By no means, i^or is the sick man to blame if he sprinkles himself frequently with holy water, thinking thus to accelerate his recovery. But we must beware of trusting too much to the efficacy of sacramentals; or imputing to them more power than the prayer of the Church imparts to them; they are not
-
-Prayer. 671
-
-like the sacraments. The sacraments confer upon those who receive them the grace of the Holy Spirit; the sacramentals only purify the soul, and render it more fit for the reception of sanctifying grace. The sacramentals derive all their power from the prayers of the Church ; it is in the name of the Church that the priest blesses them. The petitions of the Church have immense power, for they are united to the prayer of Our Lord and to the supplications of the saints.
+The sacramentals remit venial sin, and deliver us from some of the evil consequences of sin. They help us in the hour of temptation ; St. Teresa cannot say enough concerning the power of holy water to drive away the devil. They are also of use in bodily ills and in firmities; the apostles anointed with oil many who were sick and healed them (Mark vi. 13). They are thus a remedy and a shield. Is it superstition on the part of the soldier who carries with him a blessed crucifix when he goes to battle, hoping that by God's mercy it may be his protection ? By no means, i^or is the sick man to blame if he sprinkles himself frequently with holy water, thinking thus to accelerate his recovery. But we must beware of trusting too much to the efficacy of sacramentals; or imputing to them more power than the prayer of the Church imparts to them; they are not like the sacraments. The sacraments confer upon those who receive them the grace of the Holy Spirit; the sacramentals only purify the soul, and render it more fit for the reception of sanctifying grace. The sacramentals derive all their power from the prayers of the Church ; it is in the name of the Church that the priest blesses them. The petitions of the Church have immense power, for they are united to the prayer of Our Lord and to the supplications of the saints.
 
 4. The sacramentals can, however, only be used with profit by persons who are free from mortal sin, and who use them in a spirit of faith and confidence.
 

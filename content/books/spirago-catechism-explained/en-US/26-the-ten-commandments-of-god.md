@@ -20,8 +20,6 @@ In the First Commandment He requires from us worship and fidelity; in the Second
 
 The Fourth contains our duty towards those who are God's representatives upon earth, and who are at the same time of all men our greatest benefactors.
 
-308 The Commandmenis.
-
 The remaining six commandments contain our duties to ourselves and to our fellow-men. The Fifth is for the protection of life, the Sixth of purity, the Seventh of property, the Eighth of honor, the Ninth and Tenth of the domestic life of one's neighbor.
 
 4. He who keeps all these commandments receives a great reward from God on earth, and after death he may look forward to eternal felicity as his portion.
@@ -33,8 +31,6 @@ God has ordained that what is to us the means of attaining everlasting happiness
 He who trangresses the commandments will have both temporal and eternal punishment. The temporal punishments of sin are in general, discontent, sickness, the loss of honor or of property, hunger and other miseries. He who does not keep God's commandments will have no help from God in the time of affliction. Our Lord says the house of such a one is built on the sand, and will be destroyed (Matt. vii. 27). The lightnings and smoke on Mount Sinai are typical of the fire which will be the penalty of those who transgress God's law. " Whosoever shall keep the whole law but offend in one point, is become guilty of all" (Jas. ii. 10). The reason of this is because all the commandments form one whole ; they are so closely bound up together, that one cannot be maintained without the others. He who violates one commandment transgresses the law of charity, on which all the commandments depend (St. Augustine). In this they are like a stringed instrument; one broken string will ruin the melody. Or like the human body; if one member be diseased, it is enough to cause death. If the whole city is guarded and one part left unwatched the enemy will effect an entrance. The lost in hell kept a great many of the commandments; they are damned because they did not keep all.
 
 6. It is not a difficult matter to keep these commandments as long as God helps us with His grace; hence Christ says to
-
-The Ten Commandments of God. 309
 
 His followers: "My yoke is easy and My burden is light" (Matt. xi. 30).
 

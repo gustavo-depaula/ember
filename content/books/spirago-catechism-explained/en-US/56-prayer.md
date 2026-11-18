@@ -2,11 +2,7 @@
 
 1. Prayer is the elevation of the heart to God.
 
-When we are engaged in conversation with any one, we forget everything else. This is what we should do when we talk with God, that is, when we pray. In prayer, we must direct all the powers of the soul to God; the understanding, for we must think of Him; the memory, for we must forget the things of earth ; the affections, for we must delight in Him. The mere thought of God is no prayer; the devils think of God, but they do not pray to Him. Let Our Lord's ascension be to us a symbol of prayer; so are the clouds of incense that float upwards on the air ; the lark that soars aloft as she warbles her song. It is recorded of some saints that the elevation of their souls in prayer was made manifest by external signs ; they wrere raised from the ground, they were surrounded by a supernatural radiance. St. John Chrysostom says that to be permitted to talk with his Creator and hold familiar intercourse with Him, is the greatest honor
-
-672 The Means of Grace.
-
-and privilege mortal man can enjoy. Who can fail to admire and wonder at the gracious condescension of the Most High, that He not only permits, but commands us to converse with Him?
+When we are engaged in conversation with any one, we forget everything else. This is what we should do when we talk with God, that is, when we pray. In prayer, we must direct all the powers of the soul to God; the understanding, for we must think of Him; the memory, for we must forget the things of earth ; the affections, for we must delight in Him. The mere thought of God is no prayer; the devils think of God, but they do not pray to Him. Let Our Lord's ascension be to us a symbol of prayer; so are the clouds of incense that float upwards on the air ; the lark that soars aloft as she warbles her song. It is recorded of some saints that the elevation of their souls in prayer was made manifest by external signs ; they wrere raised from the ground, they were surrounded by a supernatural radiance. St. John Chrysostom says that to be permitted to talk with his Creator and hold familiar intercourse with Him, is the greatest honor and privilege mortal man can enjoy. Who can fail to admire and wonder at the gracious condescension of the Most High, that He not only permits, but commands us to converse with Him?
 
 When we pray it is customary to employ external signs of devotion, such as kneeling down, folding the hands, striking the breast, etc.
 
@@ -19,8 +15,6 @@ One may raise one's heart in prayer to God without those who are around us perce
 Prayer with the lips only, and not with the spirit, is worth less.
 
 Our Lord complains of the Pharisees : " This people honoreth Me with their lips, but their heart is far from Me " (Matt. xv. 8) . St. Augustine says many call upon God with the voice of the body, not with the vcice of the soul. All attitudes and gestures too, which are merely formal have no value. God is a spirit, and they that adore Him must adore Him in spirit and in truth (John iv. 24).
-
-Prayer. 673
 
 We can also pray with the voice of song.
 
@@ -36,11 +30,7 @@ Our Lord exhorts us to pray to Our Father in secret (Matt. vi. 5), and also to o
 
 3. Our prayers have a threefold object: That of praise, of supplication, and of thanksgiving.
 
-We ought to praise God on account of His infinite perfections. The Church gives praise to Him unceasingly; the Gloria and the Sanctus in the Mass, the Te Deum which is sung on great festivals, the Gloria Patri which we repeat so often, are all ascriptions of praise. The thrice holy of the seraphim (Is. vi. 3), the song the angels sung at Our Lord's birth (Luke ii. 14), are hymns of praise. We read in the Apocalypse that the principal occupation of the happy denizens of heaven is to give honor and glory to the Lord their God (Apoc. iv.), and by praising Him we may while still on earth join in their ceaseless song. The Magnificat uttered by the Blessed Virgin is a canticle of praise. It is God's will that we should implore of Him all that we need. God gives nothing to those who ask nothing of Him (Jas. L 5). "He who asks not," says St. Teresa, "receives not." Nay more, God desires that our petitions should be fervent and importunate; that we should not merely ask, but compel Him to hear us. The Lacedemonians used to place the bread for their children on i high beam, and force them to fetch it down for themselves ; thus God would have us earn what we beseech of Him, He is not, it is true, ignorant of our needs (Matt. vi. 32), and He could supply them without our telling Him of them ; but He will have us ask for •what we want, that we may not accept His gifts as a matter of course,
-
-674 The Means of Grace.
-
-but may recognize our dependence upon Him, and learn to be humble and thankful. The prayer of Our Lord in the garden and on the cross was a prayer of supplication ; as was that of the apostles on the sea of Galilee, that of the Christians for St. Peter when he was in prison. Prayer for the forgiveness of sin is a penitential prayer; witness the Miserere (Ps. 1.). Furthermore it is God's will that we thank Him for the benefits we receive from His hand (1 Thess. v. 18). Remember what Our Lord said to the leper who was healed (Lukfc xvii.). Gratitude is the surest means of obtaining fresh favors from God. The holocaust Noe offered was a sacrifice of thanksgiving (Gen. viii. 20). God withdraws many blessings from man because he takes no heed of them and neglects to render thanks to the Giver; He also sends calamities as a chastisement upon the unthankful.
+We ought to praise God on account of His infinite perfections. The Church gives praise to Him unceasingly; the Gloria and the Sanctus in the Mass, the Te Deum which is sung on great festivals, the Gloria Patri which we repeat so often, are all ascriptions of praise. The thrice holy of the seraphim (Is. vi. 3), the song the angels sung at Our Lord's birth (Luke ii. 14), are hymns of praise. We read in the Apocalypse that the principal occupation of the happy denizens of heaven is to give honor and glory to the Lord their God (Apoc. iv.), and by praising Him we may while still on earth join in their ceaseless song. The Magnificat uttered by the Blessed Virgin is a canticle of praise. It is God's will that we should implore of Him all that we need. God gives nothing to those who ask nothing of Him (Jas. L 5). "He who asks not," says St. Teresa, "receives not." Nay more, God desires that our petitions should be fervent and importunate; that we should not merely ask, but compel Him to hear us. The Lacedemonians used to place the bread for their children on i high beam, and force them to fetch it down for themselves ; thus God would have us earn what we beseech of Him, He is not, it is true, ignorant of our needs (Matt. vi. 32), and He could supply them without our telling Him of them ; but He will have us ask for •what we want, that we may not accept His gifts as a matter of course, but may recognize our dependence upon Him, and learn to be humble and thankful. The prayer of Our Lord in the garden and on the cross was a prayer of supplication ; as was that of the apostles on the sea of Galilee, that of the Christians for St. Peter when he was in prison. Prayer for the forgiveness of sin is a penitential prayer; witness the Miserere (Ps. 1.). Furthermore it is God's will that we thank Him for the benefits we receive from His hand (1 Thess. v. 18). Remember what Our Lord said to the leper who was healed (Lukfc xvii.). Gratitude is the surest means of obtaining fresh favors from God. The holocaust Noe offered was a sacrifice of thanksgiving (Gen. viii. 20). God withdraws many blessings from man because he takes no heed of them and neglects to render thanks to the Giver; He also sends calamities as a chastisement upon the unthankful.
 
 ## 2. The Utility and Necessity of Prayer
 
@@ -50,15 +40,11 @@ We have Our Lord's promise: Ask and it shall be given you (Matt. vii. 7), and ag
 
 Our prayers obtain a speedier answer if they are accom panied by fasting, almsdeeds, a promise, or if we invoke the intercession of the saints on onr behalf; a petition is sooner granted if it is proffered by several persons at the same time; also if the suppliant is of the number of the just.
 
-Prayer. 675
-
 Fasting and almsdeeds are said to be the wings of prayer. Remember the prayer of the centurion Cornelius (Acts x.). That prayer receives a speedier answer in which several persons join. Our Lord promises : " If two of you shall consent upon earth concerning anything whatsoever they shall ask, it shall be done to them by My Father Who is in heaven" (Matt, xviii. 19). "When the Christians assemble together in large numbers to pray," says Tertullian, " they are like a great army, which compels almighty God to grant their petition." Wood burns more fiercely if several logs are piled to gether, for one kindles the other. In the time of the Roman emperor, Marcus Aurelius, a Christian legion was surrounded by the enemy, and the supply of water cut off. In dire distress the Christian soldiers prayed fervently for rain; and before many hours had passed, a storm came up, and there was a heavy downpour. The united prayer of the Church for St. Peter was the cause of his deliverance from prison. How great is the power of united prayer ! This is why processions are held in times of calamity. The prayer of the just, moreover, obtains a speedier answer. The continual prayer of a just man availeth much (Jas. v. 16). The prayer of the prophet Elias for rain was quickly granted (3 Kings xvii.).
 
 Oftentimes God turns a deaf ear to our petition and the reason is generally because He will not give us what would be harmful for us; or because we do not deserve that our prayer should be granted.
 
 God acts like a wise physician who for the good of his patient will not allow him to have what would be injurious to him. If God sees that we shall employ His gifts amiss, He of His mercy withholds them from us (St. Augustine). St. Monica earnestly implored almighty God to prevent her son from going to Italy. Her prayer was not granted, because God designed that the preaching of St. Ambrose should be the means of Augustine's conversion. St. Augus tine himself at a later period exclaims : " Thou didst then deny my mother's request, O Lord, in order to grant that which had long been her continual prayer." God often does not grant our entreaty because we do not deserve that grace. Those who pray without devotion and without faith (Jas. i. 7), or who are in mortal sin, and will not renounce their evil ways, are unworthy of being heard (John ix. 31). Many persons do not obtain what they ask, because they do not persevere in prayer, their whole heart is not in their petition. Yet no prayer is offered in vain; if God does not give what is asked, He bestows on the suppliant something else, something better; like a parent who gives his child a rosy apple instead of the knife he is clamoring for. Even the sinner does not pray in vain, for by his prayers he earns the graces necessary for his conversion. When you pray, and your petition is not granted, do not ascribe this to unwillingness on God's part, but to the imperfection of your prayer, or to the poor use you would perhaps make of the grace if it were bestowed on you. Act thus, and if you have prayed aright, God will give you some other gift far more worth having than that which you asked for. God is able to do all things more abundantly than we desire or understand (Eph. iii. 20).
-
-676 The Means of Grace.
 
 2. By means of prayer sinners become just, and the just are enabled to continue in a state of grace.
 
@@ -70,11 +56,7 @@ By prayer we draw down upon us the Holy Spirit, we obtain actual grace. As the n
 
 Prayer enables the just to continue in a state of grace, because it is a safeguard against temptation and sin.
 
-Prayer is an antidote to the poison of temptation. The assaults of the devil darken the understanding and weaken the will; prayer does the very opposite ; it enlightens the understanding and strength ens the will. It acts upon temptation as water does on fire; it is a shield which the fiery darts of the evil one cannot pierce; it is an anchor to the tempest-tossed vessel. It banishes sadness; the Holy Ghost is a comforter, He imparts joy to the heart. Our Lord promises to refresh all who labor and are burdened, if they come to Him (Matt. xi. 28). St. James says: "Is any among you sad? let him pray" (Jas, .v. 13). During prayer, sometimes, a foretaste is given
-
-Prayer. 677
-
-us of the joys of heaven. Prayer affords to the troubled heart such solace as a child may find, who pours out his sorrows on the breast of a compassionate father. " O taste and see," says the Psalmist, "that the Lord is sweet" (Ps. xxxiii. 9). One day spent in prayer is better than years devoted to the pleasures and distractions of the world. By prayer the just man acquires many virtues. Pray aright, and you will live aright. Between those who are much together a certain resemblance may be perceived; thus if we are much with God, we shall become like to Him. Prayer is to the soul what the sunshine is to a plant; it makes it grow and bear fruit abundantly.
+Prayer is an antidote to the poison of temptation. The assaults of the devil darken the understanding and weaken the will; prayer does the very opposite ; it enlightens the understanding and strength ens the will. It acts upon temptation as water does on fire; it is a shield which the fiery darts of the evil one cannot pierce; it is an anchor to the tempest-tossed vessel. It banishes sadness; the Holy Ghost is a comforter, He imparts joy to the heart. Our Lord promises to refresh all who labor and are burdened, if they come to Him (Matt. xi. 28). St. James says: "Is any among you sad? let him pray" (Jas, .v. 13). During prayer, sometimes, a foretaste is given us of the joys of heaven. Prayer affords to the troubled heart such solace as a child may find, who pours out his sorrows on the breast of a compassionate father. " O taste and see," says the Psalmist, "that the Lord is sweet" (Ps. xxxiii. 9). One day spent in prayer is better than years devoted to the pleasures and distractions of the world. By prayer the just man acquires many virtues. Pray aright, and you will live aright. Between those who are much together a certain resemblance may be perceived; thus if we are much with God, we shall become like to Him. Prayer is to the soul what the sunshine is to a plant; it makes it grow and bear fruit abundantly.
 
 3. By prayer we obtain the remission of the temporal penalty due to sin, and merit an eternal recompense,
 
@@ -88,8 +70,6 @@ A servant who never saluted or spoke to his master would not long be retained in
 
 By praying we learn to pray. In this the proverb holds good: Practice makes perfect. Pray often, and you will find delight in prayer; pray seldom, and it will appear to you irksome and wearisome. God does not regard the length of our supplications but their fervor.
 
-673 The Means of Grace.
-
 If prayer is to be of utility to us, we must pray:
 
 1. In the name of Jesus; that is, we must ask what is in accordance with Our Lord's desires.
@@ -102,8 +82,6 @@ In our prayers we hold intercourse with God. When we hold inter course with our 
 
 In order to pray devoutly we must prepare ourselves before hand, and during the time of prayer we must guard our senses and see that we do not assume an irreverent posture.
 
-Prayer. 679
-
 " Before prayer prepare thy soul, be not as a man that tempteth God" (Ecclus. xviii. 23). The harper tunes his harp before begin ning to play, lest there should be any discord in the melody. How carefully those who are admitted to an audience of some earthly monarch perform their toilet ! Before commencing our prayer, we should place ourselves in the presence of God, endeavoring to realize that we stand in His sight, and then banish from our thoughts all worldly cares and interests. Let us imitate the patriarch Abraham, who when about to offer up his son Isaac on Mount Moria, left his servants, his ass, and all that was not wanted for the sacrifice, at the foot of the mountain, saying : " When we have worshipped, we will return unto you." As Our Lord drove those that sold out of the Temple, so we must banish all worldly affairs from our heart, when it is made a temple of prayer. Yet the distractions that are involuntary are not sinful, only they must be repulsed and withstood. At prayer we must close the door, that is keep custody of the eyes, and withdraw into the secret chamber of the soul. The use of a prayerbook often keeps the eyes from wandering. As a rule one prays with more recollection before the statue of a saint, or in a holy place, where all around breathes an atmosphere of devotion. Our attitude during prayer should not be lacking in reverence ; as far as possible we should remain upon our knees as an aid to devotion.
 
 3. We must pray with perseverance, that is, we ought not to desist from prayer, if our petition is not immediately granted.
@@ -111,8 +89,6 @@ Prayer. 679
 We should take example from children, who will not leave off clamoring until they get what they want. We mortals are apt to grow angry if a suppliant is too persistent, but it is not so with God ; He is pleased when we " batter the gates of heaven with storms of prayer." Remember the parable of the importunate friend, who continued knocking (Luke xi. 5). God sometimes puts the endurance of the suppliant to a severe test, as was the case with the woman of Chanaan (Matt. xv.). The Jews in Bethulia prayed all night, desiring help of the God of Israel, when Holofernes besieged their city, but the more they prayed, the more desperate the situation appeared. Yet they held out, and God sent them a deliverer in Judith. We have already said that for eighteen long years St. Monica ceased not to pray for her son's conversion, and how richly her constancy was rewarded ! For God loves to come to our aid when our need is greatest. Let us not then be discouraged, as some are, and cease to pray if our prayers are not answered; the wrise course would be to pray more earnestly the longer God delays granting our petition. For the longer He keeps us waiting, the more will His succor surpass our expectations. He is able to do abundantly more than we desire or under stand (Eph. iii. 20) . " We have to wait a whole year," says St. Francis of Sales, " before the seed we sow in the ground bears fruit ; and are we more impatient in regard to the fruit of our prayers ? "
 
 4. We must pray with a pure heart; that is, our conscience must be free from grievous sin, or at any rate we must be in penitential dispositions.
-
-680 The Means of Grace.
 
 The man whose heart is not clean has not power to raise his soul to God, for when he begins to pray, thoughts and images of sin crowd in upon his mind, and hold it captive upon earth. He who prays with an impure heart is like a man who enters the presence of royalty with mud-stained garments, to implore a favor. It is only just that he who will not conform to the divine precepts should be excluded from a share in the divine benefactions. Listen to the commands of God, if you would have Him listen to your supplications. But as soon as the sinner is sincerely contrite, he may hope to obtain a hearing; God will receive his petitions as graciously as if he had never offended Him. In this Pie is unlike men, who are prone to cast former offences in the teeth of those who ask a favor of them. God looks at the present intention, not at the past actions of a man. Remember how the prayer of the penitent publican in the Temple was accepted (Luke xviii. 13).
 
@@ -128,8 +104,6 @@ The prayer of him that humbleth himself shall pierce the clouds of what the pray
 
 "Not My will, but Thine be done " (Luke xxii. 42), was Our Lord'sprayer on the Mount of Olives. God knows best what is for our good; we ought no more to dictate to Him than a sick man, who knows nothing of the healing art, ought to tell the physician what drugs he is to give him. A certain mother once was importunate in prayer for the recovery of her sick child. The priest told her she would do better to ask that God's will might be done. "No," she exclaimed indignantly, " God must grant me my desire." The child was restored to health, took to evil ways, and at last came to the gallows. Happy would it have been for that man had he died in his childhood! How much wiser it is to leave all in the hands of God, for He knows the future.
 
-Prayer. 681
-
 ## 4. When Ought We to Pray ?
 
 1. As a matter of fact we ought to pray continually, for Our Lord requires of us " always to pray and not to faint " (Luke xviii.
@@ -142,11 +116,7 @@ Martha's vocation, that of active work for one's neighbor, ought to be united to
 
 While engaged in our work we can utter ejaculatory prayers, and we ought on commencing our work to direct our intention so as to do all to the glory of God.
 
-St. Teresa had in her cell a picture of Our Lord at Jacob's well; when her eyes fell upon it she said : " Lord, give me that living v/ater." St. Ignatius frequently exclaimed : " All for the greater glory of God." Let us accustom ourselves to say from time to time : " Lord, remember me in Thy kingdom." He who raises his heart to God ever and anon by ejaculatory prayers, will keep calm and recollected amid the turmoil and distractions of life, for ejaculations are
-
-682 The Means of Grace.
-
-no weak weapons of defence; their brevity, too, enables them to be said with greater fervor than longer prayers. St. Francis of Sales recommends the frequent and fervent repetition of the same ejaculation. Our Lord on the Mount of Olives prayed using the same words. St. Francis of Assisi spent the whole night repeating the words: " My God and my all." St. Paul bids us : " Whether ye eat or drink, or whatsoever else you do, do all to the glory of God " (1 Cor. x. 31). It is well to direct one's intention in the morning, and renew it before every undertaking of any importance.
+St. Teresa had in her cell a picture of Our Lord at Jacob's well; when her eyes fell upon it she said : " Lord, give me that living v/ater." St. Ignatius frequently exclaimed : " All for the greater glory of God." Let us accustom ourselves to say from time to time : " Lord, remember me in Thy kingdom." He who raises his heart to God ever and anon by ejaculatory prayers, will keep calm and recollected amid the turmoil and distractions of life, for ejaculations are no weak weapons of defence; their brevity, too, enables them to be said with greater fervor than longer prayers. St. Francis of Sales recommends the frequent and fervent repetition of the same ejaculation. Our Lord on the Mount of Olives prayed using the same words. St. Francis of Assisi spent the whole night repeating the words: " My God and my all." St. Paul bids us : " Whether ye eat or drink, or whatsoever else you do, do all to the glory of God " (1 Cor. x. 31). It is well to direct one's intention in the morning, and renew it before every undertaking of any importance.
 
 We should do well to employ our leisure time in prayer.
 
@@ -156,11 +126,7 @@ Blessed Clement Hofbauer answered a man who complained that his time hung heavy 
 
 1. In the morning we ought to give thanks to God for having preserved us during the night, and beseech Him to protect us during the day from misfortune and from sin, and to give us what is needful for our bodily sustenance.
 
-The morning prayer should be said kneeling, and before we take our breakfast. The birds set us an example in this respect; they warble their morning song before they seek to satisfy their hunger. "We ought to prevent the sun to bless Thee, and adore Thee at the dawning of the light" (Wisd. xvi. 28). A particular blessing rests upon our morning prayer. As the Israelites could only gather the manna before the sun was up, so we cannot expect God's blessing on the day if we do not consecrate its earliest hours to Him by prayer. As a well-spent youth influences a man's whole life, so the manner in which the day is begun influences all its later hours. In the morning God is more easily found : " They that in the morning early watch for Me shall find Me " (Prov. viii. 17). The
-
-Prayer. 683
-
-early Christians used to meet together at daybreak for divine worship. He who on rising neglects to pray, and gives his attention at once to temporal concerns, cannot expect God's blessing on his day's work. If the foundation of a house is unsound, the super structure will soon fall in.
+The morning prayer should be said kneeling, and before we take our breakfast. The birds set us an example in this respect; they warble their morning song before they seek to satisfy their hunger. "We ought to prevent the sun to bless Thee, and adore Thee at the dawning of the light" (Wisd. xvi. 28). A particular blessing rests upon our morning prayer. As the Israelites could only gather the manna before the sun was up, so we cannot expect God's blessing on the day if we do not consecrate its earliest hours to Him by prayer. As a well-spent youth influences a man's whole life, so the manner in which the day is begun influences all its later hours. In the morning God is more easily found : " They that in the morning early watch for Me shall find Me " (Prov. viii. 17). The early Christians used to meet together at daybreak for divine worship. He who on rising neglects to pray, and gives his attention at once to temporal concerns, cannot expect God's blessing on his day's work. If the foundation of a house is unsound, the super structure will soon fall in.
 
 2. At night we ought to give thanks to God for the benefits we have received during the day, and beseech Him to pardon the sins we have committed in its course, and to protect us during the coming night.
 
@@ -170,11 +136,7 @@ At our night prayers we ought to make an examination of conscience. Every mercha
 
 " When thou shalt have eaten and art full, take heed diligently lest thou forget the Lord" (Deut. vi. 12, 13). Daniel when in the lion's den thanked God for the dinner that He sent to him (Dan. xiv. 37). Those who do not give thanks before and after their meals are like the beasts of the field. King Alfonso of Aragoii, observing that his courtiers did not give thanks either before or after their repasts, gave them a practical lesson in this respect. He invited a beggar to his royal table, forbidding him most strictly either to make an obeisance on entering the dining hall, or to express his gratitude to the king when departing. The man obeyed his orders, and went away without a word or sign. The courtiers were highly incensed; but the king checked their wrath, saying: " Is not this exactly how you act towards your heavenly King? You neither ask a blessing nor return thanks; has He not as much reason to be indignant with you as you have with this ignorant mendicant?" The courtiers acknowledged the justice of the rebuke and never after omitted to say grace before and after meals. The sins committed at table usually are sins of intemperance, anger (if all is not to our liking), and detraction. And when the appetite is satisfied, there comes the temptation to sloth and self-indulgence.
 
-4. We ought also to pray when the Angelus rings, calling upon us three times a day, morning, noon, and evening, to say the Angelic Salutation; and if we are near a church, when we
-
-684 The Means of Grace.
-
-hear the bell for the consecration, or for benediction of the Blessed Sacrament.
+4. We ought also to pray when the Angelus rings, calling upon us three times a day, morning, noon, and evening, to say the Angelic Salutation; and if we are near a church, when we hear the bell for the consecration, or for benediction of the Blessed Sacrament.
 
 3. Furthermore we ought to pray in the hour of affliction, distress, or temptation, when entering upon an important undertaking, and when we feel an inspiration and desire to pray.
 
@@ -185,8 +147,6 @@ We ought to pray in times of distress, for God enjoins this upon us : " Call upo
 1. We can and ought to pray in every place, because God is everywhere present.
 
 Our Lord Himself prayed, not only in the Temple at Jerusalem, and in the synagogues, but also in the desert, on the mountains, in the cenacle, in the Garden of Olives, on the cross. Jacob prayed in the open country, Jonas in the belly of the whale, Job on the dunghill, Daniel in the lion's den, Manasses in prison. Paul and Silas lying bound in a dungeon, prayed and praised God, so that the foundations of the prison were shaken. We can only speak with God when He is present, and He is present everywhere (Acts xvii. 24). Remember Our Lord's words to the woman of Samaria (John iv. 23). God does not regard the place in which we pray, but the dispositions with which we pray.
-
-Prayer. 685
 
 2. The house of God is the place specially set apart for prayer.
 
@@ -205,8 +165,6 @@ Supposing a king said to you: "Ask what you will;" would you not ask a great fav
 2. We ought more especially to beseech almighty God to grant us such things as are conducive to His glory, and to our salvation, and in no wise to ask for what will only serve to gratify our earthly desires.
 
 To those who pray Our Lord says : " Seek ye first the kingdom of God and His justice, and all these things shall be added to you "
-
-686 The Means of Grace.
 
 (Matt. v. 33). Hence we may conclude that if we ask for the good things of eternity, those of time will also be bestowed on us. King Solomon prayed for wisdom to govern his people aright; God gave him a wise and understanding heart and in addition earthly riches and glory in abundance (3 Kings iii.). It is not right to ask of God what is only calculated to gratify our earthly concupiscences; such prayers are not granted (Jas. iv. 3). "There are many," says St. Augustine, " who, in what they ask, do not seek God's glory, but their own sensual pleasures; they would degrade God to be their servant, the servant of their covetousness, their pride, their avarice, their luxury." King Jeroboam's hand was withered, because he stretched it out against the man of God. He prayed that his hand might be restored, not that his sin might be forgiven (3 Kings xiii. 6). Many people do likewise; in their prayers they think only of the needs of the body, not those of the soul. Let us never pray that our will, but that God's will be done; let us not wish for the accomplishment of those desires which arise from our fallen nature, but of those with which the Holy Spirit inspires our soul.
 

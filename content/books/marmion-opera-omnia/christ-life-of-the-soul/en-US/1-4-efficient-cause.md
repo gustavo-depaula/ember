@@ -14,8 +14,6 @@ Christ indeed is not only a Model such as the artist contemplates when he paints
 
 1. Joan. xv, 5. — 2. Joan. xv, 5.
 
-Christ, the life of the soul. 5
-
 He wills us to act as children of a divine race. But it is through His Son, it is in His Son and by the grace His Son, Christ Jesus, has merited for us, that He gives us power to attain this holiness. All the holiness He has destined for each soul, God has placed in Christ, and it is of His fulness that we all must receive the graces which will make us holy. Christus factus est nobis sapientia a Deo, et justitia, et sanctificatio et redemptio*. If Christ possesses all the treasures of wisdom and knowledge? and holiness, it is that we may share in them. He came that we might have divine life in us and might have it in abundance : Vemi ut vitam habeant et abundantius habeant*. By His passion and death, He re-opened the source of divine life to all, but never forget that this source is in Him and not outside Him and that it is from Him it flows into us: grace, the principle of supernatural life, only comes through Him. That is why St. John writes: ” He that hath the Son, hath life. He that hath not the Son, hath not life.” Qui habet Filium habet vitam, qui non habet Filium vitam non habet +. i
 
 Let us contemplate Jesus during His earthly existence; we shall see how He is the efficient cause of all grace and the fountain of life. This contemplation is full of consolation, for it shows us how we may expect everything from Our Lord.

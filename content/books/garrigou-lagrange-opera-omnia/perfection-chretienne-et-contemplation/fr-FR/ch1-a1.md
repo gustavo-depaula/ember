@@ -94,8 +94,6 @@ En tout cela, il importe souverainement de distinguer Y extraordinaire de droit 
 
 Ainsi sous la lumière des notions et des principes théologiques nous pourrons discerner les faits et formuler les règles de direction, en les motivant.’
 
-LE PROBLÈME MYSTIQUE ACTUEL i5
-
 Telle est, croyons-nous, la vraie méthode de la théologie ascétique et mystique, et il ne peut en être autrement si celle-ci est, comme nous l’avons vu, l’application de la théologie à la direction des âmes vers une union à Dieu toujours plus intime.
 
 Il nous faut examiner maintenant la distinction de l’ascétique et de la mystique, leurs rapports et l’unité de la doctrine spirituelle; question délicate, dans laquelle il ne faut pas oublier que Dieu appelle toutes les âmes intérieures à boire à la source d’eau vive où elles trouveront la vie en abondance, au-delà même de leurs désirs : ut vitam habeant et abiindantius habeant. Selon les saints, l’âme qui travaille à se dépouiller pour l’amour de Dieu de tout ce qui n’est pas Dieu, est bientôt pénétrée de lumière et tellement unie à Dieu qu’elle lui devient toute semblable et entre en possession de tous ses biens.

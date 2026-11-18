@@ -8,11 +8,7 @@ In the eyes of eternal Truth poverty is not the slightest shame (Lev. xiii.). Ou
 
 2. The poor save their souls more easily than the rich.
 
-Our Lord declares that it is easier for a camel to pass through the eye of a needle, than for a rich man to enter into the kingdom of heaven (Matt. xix. 24). Wealth affords its possessor the means of gratifying every inordinate desire. It is otherwise with the poor; they have not this occasion of sin. Just as a traveller goes on his way more easily if he is not encumbered with baggage, so the poor man is less impeded on his journey to the goal whither he is bound. The pugilist overthrows his opponent with greater facility when he is stripped to the waist ; so the poor man is better prepared to, resist
-
-432 The Commandments.
-
-the temptations of the devil. Consequently many of the poor will have a higher place in the kingdom of heaven than their richer brethren. Christ says: "Many that are first shall be last, and the last first" (Mark x. 31). Lazarus after his death was carried to Abraham's bosom, while Dives was buried in hell.
+Our Lord declares that it is easier for a camel to pass through the eye of a needle, than for a rich man to enter into the kingdom of heaven (Matt. xix. 24). Wealth affords its possessor the means of gratifying every inordinate desire. It is otherwise with the poor; they have not this occasion of sin. Just as a traveller goes on his way more easily if he is not encumbered with baggage, so the poor man is less impeded on his journey to the goal whither he is bound. The pugilist overthrows his opponent with greater facility when he is stripped to the waist ; so the poor man is better prepared to, resist the temptations of the devil. Consequently many of the poor will have a higher place in the kingdom of heaven than their richer brethren. Christ says: "Many that are first shall be last, and the last first" (Mark x. 31). Lazarus after his death was carried to Abraham's bosom, while Dives was buried in hell.
 
 3. God often sends poverty upon a man for his salvation.
 
@@ -24,11 +20,7 @@ Those who are unhappy and forsaken in this world are especially dear to God. Chr
 
 5. The poor man who leads an upright life will never be forsaken by God; nay, more, he will enjoy happiness and contentment in this world.
 
-God Who feeds the birds of the air, and clothes the lilies and grass of the field, will also provide for man, who is of so much more value than they (Matt. v. 25-30). God does not allow the just to want the necessaries of life. Our Lord says : " Seek ye first the kingdom of God and His justice, [i.e., be solicitous for your salvation and keep the commandments] and all these things [i.e., the wherewithal to live] shall be added unto you" (Matt. vi. 33). David says: "I have been young, and now am old, and I have not seen the just forsaken, nor his seed seeking bread" (Ps. xxxvi. 25). When we read that by God's permission, just men, such as Job, Tobias, Joseph, fell into destitution and distress, we also read tnat in God's good time they
-
-The Poverty of the Christian. 433
-
-were restored to ease and plenty. Virtue is generally attended by temporal blessings here below (Ps. cxi. 2-3). A poor man may be very happy despite his poverty. Happiness by no means consists in the abundance of things that one possesses (Luke xii. 15), but in interior peace and content, and these the just man enjoys, whether he be rich or Door. St. Paul speaks of himself as having nothing, and yet possessing all things (2 Cor. vi. 10).
+God Who feeds the birds of the air, and clothes the lilies and grass of the field, will also provide for man, who is of so much more value than they (Matt. v. 25-30). God does not allow the just to want the necessaries of life. Our Lord says : " Seek ye first the kingdom of God and His justice, [i.e., be solicitous for your salvation and keep the commandments] and all these things [i.e., the wherewithal to live] shall be added unto you" (Matt. vi. 33). David says: "I have been young, and now am old, and I have not seen the just forsaken, nor his seed seeking bread" (Ps. xxxvi. 25). When we read that by God's permission, just men, such as Job, Tobias, Joseph, fell into destitution and distress, we also read tnat in God's good time they were restored to ease and plenty. Virtue is generally attended by temporal blessings here below (Ps. cxi. 2-3). A poor man may be very happy despite his poverty. Happiness by no means consists in the abundance of things that one possesses (Luke xii. 15), but in interior peace and content, and these the just man enjoys, whether he be rich or Door. St. Paul speaks of himself as having nothing, and yet possessing all things (2 Cor. vi. 10).
 
 6. The poor are not warranted in wresting from the rich the alms which they have a right to expect; they should rather bear their lot patiently and rely on help from God.
 

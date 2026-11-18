@@ -44,8 +44,6 @@ For the date, since Caraffa was created Cardinal on Dec. 22, ifS 3 6, and Ignati
 
 14 Letter VIII. — Father Juan de Verdolay appears to have been living at this time at Barcelona.
 
-OF ST. IGNATIUS LOYOLA 113
-
 From this letter, and from other sources, it is evident that he had won the esteem of St. Ignatius. Sacchini, Hist. Soc. Jesu, P. II, lib. VIII, n. 32, writes of him: “On account of his zealous care for souls in the kingdoms of Aragon, Valentia, and Catalonia, and on account of his great influence, both by his eloquence and learning, and by his piety and the offices he had held, few of his contemporaries could be compared with him. St. Ignatius had invited him to enter the Society along with himself, and had written to him with that object. This letter the father received with great delight, and always cherished it with the greatest veneration; still he made no effort to enter the Society” until after the death of the saint, 1556. He afterwards became a Carthusian.
 
 15 The allusion is here of course to the first members of the Society of Jesus, who had made their vows together before leaving Paris, and again met together for the first time in Venice. They were, Francis Xavier, James Laynez, Alphonsus Salmeron, Nicholas Bobadilla, Spaniards; Paschase Broet, John Codure, Frenchmen; Peter Faber, Claude le Jay, Savoyards; Simon Rodriguez, a Portuguese. To these should be added Didacus Hoces, a Spaniard, who also joined Ignatius in Venice, and was the first of the Society to die.

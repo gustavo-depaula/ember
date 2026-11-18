@@ -6,8 +6,6 @@ The Our Father is also known as the Lord's Prayer, because it was taught us by C
 
 There is no more holy and excellent prayer than the Our Father. It has greater cogency than any other prayer, because in it we do not merely pray in the name of Jesus, but in His own words. Of this prayer more than of any other Our Lord's promise holds good : " If you ask the Father anything in My name, He will give it you " (John xvi. 23). It is the simplest of all prayers; its words are few, but it is rich in meaning. It is so simple that a child's lips may utter it devoutly; yet the theologian seeks in vain to sound its depths; it is suited to every class and condition of men. In the Lord's Prayer we ask for all things that are needful for our soul and our body; it comprises all for which we ought to pray ; nothing that can be found in the most excellent of prayers is lacking in it. It is an epitome of the holy Gospel ISTot only does it teach us the things for which we ought to ask, but the right order in which to ask for them.
 
-688 The Means of Grace.
-
 The Our Father consists of an address, seven petitions, and the word Amen.
 
 2. The address places the soul in the right disposition for prayer; it awakens within us confidence in God and raises our thoughts to Him.
@@ -30,11 +28,7 @@ Tbe meaning of tbe first petition is tbis : Grant, O God, that we may acknowledg
 
 To give glory to God is the end of creation, and consequently it is the highest aim of every creature.
 
-4. In the next three petitions we ask for these blessings : Eternal salvation, grace to fulfil the divine will, and the possession of
-
-The Most Important Prayers. 689
-
-those things which are indispensable to the maintenance of our earthly existence.
+4. In the next three petitions we ask for these blessings : Eternal salvation, grace to fulfil the divine will, and the possession of those things which are indispensable to the maintenance of our earthly existence.
 
 The meaning of the second petition is this: Give unto us eternal life after death.
 
@@ -66,8 +60,6 @@ In other prayers the meaning of the word Amen is " So be it," or: We entreat mos
 
 As in the Lord's Prayer the word Amen is to be considered as God's answer, whenever it occurs in the Mass the priest says it, speaking in God's name; but at the conclusion of the other prayers and collects of the Church, the server says Amen. Our Lord often employed the word Amen, principally as an asseveration.
 
-690 The Means of Grace.
-
 The Our Father has from time immemorial been in use in the Church, both in holy Mass and almost all other public acts of worship.
 
 ## The Ave Maria
@@ -86,8 +78,6 @@ The salutation of the archangel runs thus : " Hail, full of grace, the Lord is w
 
 2. The Ave Maria is a most potent prayer, and one which is full of meaning.
 
-The Most Important Prayers. 691
-
 The Ave Maria is especially efficacious in time of temptation; many saints recommend the faithful to recite it, when evil thoughts assail them.
 
 By the words : " Hail Mar j " we testify our reverence for the Mother of God.
@@ -102,11 +92,7 @@ The words: " The Lord is with thee," have this signification: " Thou art united,
 
 In the Temple at Jerusalem, which was outwardly of a dazzling whiteness, and inwardly overlaid with gold, God was continually present in a luminous cloud. The Temple was a type of the Mother of God, for in her the incarnate God dwelt, making her the temple of the Deity. In celebrating Holy Mass the priest turns seven times to the people with the words: Dominus vobiscum; thus wishing them the closest union with the Godhead, through the sanctifying grace of the Holy Spirit. Of old such forms of greeting were customary; Saul made use of similar words when dismissing David before his contest with Goliath (1 Kings xvii. 37) ; David when dying, addressed Solomon in the same manner (1 Par. xxii. 11) ; and Tobias did the same when his son was starting on his journey (Tob. v. 21).
 
-The words: "Blessed art thou among women, and blessed is the fruit of thy womb, Jesus," have this signification : " Thou
-
-692 The Means of Grace.
-
-art the most blessed among women because thy child Jesus was supremely blessed."
+The words: "Blessed art thou among women, and blessed is the fruit of thy womb, Jesus," have this signification : " Thou art the most blessed among women because thy child Jesus was supremely blessed."
 
 As a tree is considered good if it bears good fruit, so Mary is lauded for the sake of her Son. She is the tree of life in paradise, and Christ is the fruit of that tree. All the angels of God adore the Child that was born of her (Heb. i. 6). Mothers who have had good children have always been called blessed; witness the woman, who after listening to Our Lord's discourse, lifted up her voice to extol His Mother (Luke xi. 27). It is not because Mary was blessed that her Child was blessed, but the contrary. He, the Author and Source of all grace, filled her with benediction. Christ is not said to be blessed among men, as Mary is among women, because He is the Creator of all men, and cannot be placed in comparison with His creatures. When Judith appeared before King Ozias after slaying Holofernes, he declared her to be blessed above all women on the earth (Judith xiii. 23). How much more does Mary merit this praise, since she co-operated in the redemption of the whole human race! Both the archangel and St. Elizabeth addressed the same words to her to indicate that she was to receive homage alike from angels and men.
 
@@ -140,8 +126,6 @@ Pope Clement XII. granted an indulgence of one hundred days to all who, hearing 
 
 The suppliant who prays fervently is wont to repeat over and over again words which come from the depth of the heart. Our Lord did this on Mount Olivet; David in Psalm cxxxv., exclaims no less than twenty-seven times " His mercy endureth forever," and St. Francis of Assisi spent whole nights repeating : " My God and my all." The devout servants of Mary used to address her frequently in the words of the archangel, adding one Ave Maria to another, as one places roses in a wreath.
 
-694 The Means of Grace.
-
 1. The Rosary is a prayer in which the Our Father, followed by ten Hail Marys, is repeated five or fifteen times, accompanied by meditation on the life, the Passion, and the exaltation of the Redeemer.
 
 We begin the Rosary with the Creed and three Hail Marys, for the increase within us of the three theological virtues. While reciting the Rosary every one must hold his own rosary in his hand, and touch the beads as he says the prayers; but if several persons join in saying it, it is only necessary for one to hold the rosary, in order thereby to regulate the number of the prayers. The Rosary is divided into the joyful, the sorrowful and the glorious mysteries; in the first we honor God the Father Who sent us the Saviour; in the second, God the Son Who redeemed us; in the third God the Holy Ghost, Who sanctifies us.
@@ -152,17 +136,11 @@ The hermits of the first centuries, who could not read1 the psalter, used to rec
 
 3. The Rosary is well pleasing to God, because of its humility, and because it is an imitation of the imceasing song of praise sung by the angels.
 
-The Most Important Prayers. 695
-
 The Rosary is the prayer of the humble, for in it well-known truths are simply stated and constantly repeated. The proud despise it, but God, Who looks down on the low things (Ps. cxii. 6), approves it. It is an imitation of the angel's song: we read in Holy Scripture that the angelic choirs cry to one another : " Holy, holy, holy, Lord God of hosts; all the earth is full of His glory" (Is. vi. 3). And when we recite the Rosary, we praise the Mother of God in a similar manner. It is beyond a doubt that this form of prayer is most acceptable to the Mother of God, for when she appeared at Lourdes she had a rosary in her hand. Pope Pius IX. unhesitatingly asserts that it is her gift to men, and she loves no other prayer as well.
 
 4. The Rosary is a most useful devotion, for by it we obtain great graces and sure help in time of trouble; many indulgences are besides attached to it.
 
-The Rosary is a very treasury of graces. Many sinners owe their conversion to it. It possesses marvellous power to banish sin and restore the transgressor to a state of grace. By it the just grow in virtue. All the saints who have lived subsequently to the institution of the Rosary have been assiduous in its use, and this may have contributed largely to their sanctification. Several holy bishops and servants of God are known to have pledged themselves by vow to recite it daily; St. Charles Borromeo, despite the numerous and pressing duties of his position, recited it every day with the seminarists and the members of his household. Blessed Clement Hofbauer was accustomed to say the Rosary while passing through the streets of Vienna, and rarely did he recite it in vain for the conversion of a sinner. It is recorded of several distinguished officers and victorious commanders that they never engaged in battle without first saying the Rosary, and to this they attributed their military successes. The Rosary has been called " the thermometer of Christianity," for the reason that where it is diligently recited faith is ardent, and good works are manifest; and where it is neglected religion is at a low ebb. In seasons of general calamity, miraculous aid has been granted to Christendom by means of the Rosary; this was especially the case in wars with the Turks, the victory of Lepanto (1571), the deliverance of Vienna (1683), the victory of Belgrade were all owing to the power of the Rosary. It was said that the beads of the chaplet did more execution than the bullets of the soldiers. It was in thanksgiving for these victories that the Holy See instituted the feast of the Holy Rosary on the first Sunday in October. Pope Sixtus IV. declared that many dangers which threatened the world are averted, and the wrath of God is appeased by the prayers of the Rosary. Our Holy Father Leo XIII. says that, as in St. Dominic's time the Rosary proved a sure remedy for the evils of the age, so it may now effect much towards the amelioration of the ills that afflict society. Every one who recites the Rosary must feel its supernatural power; there is no prayer which affords more consolation in affliction, more tranquillity to the troubled breast. It soothes in sorrow, it imparts the peace spoken of in the Gospel. Another proof of its excellence is the hatred and contempt wherewith unbelievers regard it. The devil in-
-
-696 TJie Means of Grace.
-
-cites them to decry what is a fruitful source of grace to the Christian, and by which souls are wrested from his grasp. The Rosary has been richly indulgenced by the Holy See, and the recital of it strongly urged upon the faithful. An indulgence of a hundred days may be gained for every Pater and Ave, if five consecutive decades be said, on a properly indulgenced rosary. Our Holy Father Leo XIII. has decreed that every day during the month of October, the Rosary, together with the litany of Loretto, be said in church either during the parish Mass, or in the afternoon, with the Blessed Sacrament exposed. For every time of assisting at this devotion seven years and seven quarantines are granted. Pope Pius IX. bequeathed, as a legacy to the faithful, this admonition : " Let the Rosary, this simple, beautiful method of prayer, enriched with many indulgences, be habitually recited of an evening in every household. These are my last words to you; the memorial I leave behind me." Again he said : " In the whole of the Vatican there is no greater treasure than the Rosary."
+The Rosary is a very treasury of graces. Many sinners owe their conversion to it. It possesses marvellous power to banish sin and restore the transgressor to a state of grace. By it the just grow in virtue. All the saints who have lived subsequently to the institution of the Rosary have been assiduous in its use, and this may have contributed largely to their sanctification. Several holy bishops and servants of God are known to have pledged themselves by vow to recite it daily; St. Charles Borromeo, despite the numerous and pressing duties of his position, recited it every day with the seminarists and the members of his household. Blessed Clement Hofbauer was accustomed to say the Rosary while passing through the streets of Vienna, and rarely did he recite it in vain for the conversion of a sinner. It is recorded of several distinguished officers and victorious commanders that they never engaged in battle without first saying the Rosary, and to this they attributed their military successes. The Rosary has been called " the thermometer of Christianity," for the reason that where it is diligently recited faith is ardent, and good works are manifest; and where it is neglected religion is at a low ebb. In seasons of general calamity, miraculous aid has been granted to Christendom by means of the Rosary; this was especially the case in wars with the Turks, the victory of Lepanto (1571), the deliverance of Vienna (1683), the victory of Belgrade were all owing to the power of the Rosary. It was said that the beads of the chaplet did more execution than the bullets of the soldiers. It was in thanksgiving for these victories that the Holy See instituted the feast of the Holy Rosary on the first Sunday in October. Pope Sixtus IV. declared that many dangers which threatened the world are averted, and the wrath of God is appeased by the prayers of the Rosary. Our Holy Father Leo XIII. says that, as in St. Dominic's time the Rosary proved a sure remedy for the evils of the age, so it may now effect much towards the amelioration of the ills that afflict society. Every one who recites the Rosary must feel its supernatural power; there is no prayer which affords more consolation in affliction, more tranquillity to the troubled breast. It soothes in sorrow, it imparts the peace spoken of in the Gospel. Another proof of its excellence is the hatred and contempt wherewith unbelievers regard it. The devil incites them to decry what is a fruitful source of grace to the Christian, and by which souls are wrested from his grasp. The Rosary has been richly indulgenced by the Holy See, and the recital of it strongly urged upon the faithful. An indulgence of a hundred days may be gained for every Pater and Ave, if five consecutive decades be said, on a properly indulgenced rosary. Our Holy Father Leo XIII. has decreed that every day during the month of October, the Rosary, together with the litany of Loretto, be said in church either during the parish Mass, or in the afternoon, with the Blessed Sacrament exposed. For every time of assisting at this devotion seven years and seven quarantines are granted. Pope Pius IX. bequeathed, as a legacy to the faithful, this admonition : " Let the Rosary, this simple, beautiful method of prayer, enriched with many indulgences, be habitually recited of an evening in every household. These are my last words to you; the memorial I leave behind me." Again he said : " In the whole of the Vatican there is no greater treasure than the Rosary."
 
 ## The Litany of Loretto and the Salve Regina
 
@@ -171,5 +149,3 @@ The Litany of Loretto is a form of prayer in which the most glorious titles are 
 The litany of Loretto takes its origin and its name from the place of pilgrimage in Italy, Loretto, where the holy house of Nazareth now stands. In this litany first of all God is called upon for mercy, as in the Kyrie Eleison of the Mass. This is followed by the invocation of the most Holy Trinity. Then the Blessed Mother of God is invoked, and her intercession is besought. These invocations may be divided into six groups: (1), The first three invocations express her special prerogatives: her sanctity, her divine maternity, her immaculate virginity; (2), Then her perfections as a Mother are enumerated: Mother of Christ; (3), She is next extolled in virtue of her virginity: Virgin most prudent, etc.; (4), Her glories are then depicted under a number of figures and types : Mirror of justice,
 
 tetc. ; (5), Mary is next shown in her relation to the Church Militant: Health of the sick, etc.; (6), And finally in her relation to the Church triumphant: Queen of angels, etc. At the conclusion of the litany, confiding in the mediation of our Advocate, we appeal to her divine Son, beseeching Him to spare, to hear, to have mercy upon us. Several of the invocations have been added by the Holy See in the course of centuries ; for instance, " Help of Christians " after the victory over the Turks ; "Queen conceived without original sin," after the proclamation of the dogma of the Immaculate Conception; and recently, " Queen of the most holy Rosary," on the introduction of the custom of reciting the Rosary in public during the month of October. An indulgence of three hundred days may be gained for each recital of this litany. The Salve Regina or " Hail, holy Queen," as it is also called, was composed in 1009 by Blessed Herman, and in 1146 the illustrious St. Bernard added to it the sweet words : " 0 clement, 0 pious, 0 sweet Virgin Mary."
-
-The Principal Devotional Exercises. 697

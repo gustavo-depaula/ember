@@ -10,8 +10,6 @@ Eternal thoughts are centred on Him : He is the Alpha, He is the Omega. In the d
 
 He is the Way, the only one by which to come to the
 
-Christ, the life of the soul. 9
-
 Eternal Father : Nemo venit ad Patrem Nisit per me* ; except this foundation preestablished by God, nothing is stable: Fundamentum enim aliud NEMO potest ponere, praeter id quod positum est, quod est Christus Jesus*. Without this Redeemer and without faith in His merits, there is no salvation, still less holiness: NON est IN ALIO aliquo salus. Nec enim aliud nomen est sub caelo datum hominibus, in quo oporteat nos salvos fieri®. Christ Jesus is the only Way, the only Truth, the only Life. Who follows not this way goes astray from truth and seeks in vain for life. Qu habet Filium, habet vitam ; qui non habet Filium, vitam non habet *.
 
 To live supernaturally is, for us all, to share in the plenitude of Divine life that is in Jesus Christ: Ego vem ut vitam habeant... Et de plenitudine ejus nos omnes accepimus. We receive our state of adoption from Him. We are only children of God in the measure we are conformed to Him Who, alone, is by right the only true Son of the Father, but Who wills to have with Himself a multitude of brethren through sanctifying grace. All the supernatural work considered from God’s point of view is summed up in this.

@@ -8,8 +8,6 @@ La première des trois raisons que nous avons invoquées plus haut en faveur de 
 
 On a contesté la valeur de cette preuve en prétendant que saint Thomas n’a pas connu les états mystiques, décrits seulement plus tard par sainte Thérèse ; comme s’il n’y avait pas eu des mystiques, et de très grands, avant le XVIe siècle.
 
-SYNTHÈSE ET CONFIRMATION 57i
-
 On a ajouté que dans les articles de la Somme Théologique, lla IIae q. 180, sur la contemplation, il n’est pas question de la contemplation mystique proprement dite, mais d’une simple transposition dans l’ordre surnaturel de la contemplation aristotélicienne. La doctrine thomiste des dons du Saint-Esprit, dit-on enfin, ne peut expliquer que la contemplation au sens large, telle que l’admettaient les anciens et encore saint Jean de la Croix, mais elle est insuffisante pour expliquer les divers degrés de l’oraison mystique proprement dite, accompagnés de ligature et d’extase, tels que nous les décrit dans le Château de l’âme sainte Thérèse [^1].
 
 Il y a là manifestement une grave erreur historique et une très grande méconnaissance de la doctrine de saint Thomas étudiée d’une façon matérielle et superficielle.

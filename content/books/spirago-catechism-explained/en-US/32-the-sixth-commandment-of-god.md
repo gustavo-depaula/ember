@@ -18,8 +18,6 @@ A man whose conversation is unclean has a thoroughly polluted conscience. Unchas
 
 These acts are differently designated, according as they are committed by the unmarried (Deut. xxii. 21), the married (Lev. xx. 10), persons related to one another (1 Cor. v. 1), or as they are sins against nature (Rom. i. 26).
 
-The Ten Commandments of God. 393
-
 4. Immodest looks.
 
 Bold looks are forbidden, because they lead to sin, just as a parent forbids his child to play with edged tools. The sin on which the eye looks with pleasure soon takes possession of the heart. " Many have perished by the beauty of a woman, and hereby lust is enkindled as a fire" (Ecclus. ix. 9). He who observes no custody of the eyes, is like a driver who pays no heed to his horses ; he will be carried away and dragged to destruction. Or like a fortress of which the gates are not guarded; the enemy soon effects an entrance through them. David would not have had so much to bewail, if he had kept watch over his eyes. " Look not round about thee in the ways of a city " (Ecclus. ix. 7).

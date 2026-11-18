@@ -16,8 +16,6 @@ On the one hand earthly riches contribute to our temporal welfare; they relieve 
 
 4. Earthly riches should consequently only be employed in accordance with the commands of God.
 
-The Works of Mercy. 419
-
 We are not even at liberty to make what use we choose of the senses and members of our body; we must employ them as God or dains. It is exactly the same with our property. And how are we to employ our property according to the will of God ? We must employ it to His glory and for the welfare of our fellow-men. As the steward has to give an account to his master, so we shall have to give an account to God; He will reckon with us concerning the use of the talents entrusted to us (Matt. xxv. 14). At our death He will say to us : " Give an account of thy stewardship " (Luke xvi. 2).
 
 ## 2. The Precept to Perform Works of Mercy
@@ -28,11 +26,7 @@ At the Last Judgment Our Lord will, as He tells us, set some men on His right ha
 
 1. The rich are chiefly bound to assist the needy.
 
-To whom much is given, of him much shall be required (Luke xii. 48). The rich ought of their abundance to supply the wants of the poor (2 Cor. viii. 14). They ought to sustain the poor, as the elm supports the vine. The elm is a stately tree, but it produces no fruit ; the vine is a creeping plant, and unless it clings to something, its branches trail on the ground and its fruit is apt to be spoiled. But if it casts its tendrils ronnrl tbp elm, and clings to its trunk, it will grow up and flourish. The rich man is like the elm; his wealth alone gives him no claim to an eternal reward, but bv the help he renders to the poor he will purchase for himself everlasting treasures. But if the rich do not give willingly, they imperil their eternal sal-
-
-420 The Commandments.
-
-vation. Our Lord says: "It is easier for a camel to pass through the eye of a needle, than for a rich man to enter into the kingdom of heaven" (Matt. xix. 24). The rich run risk of shipwreck, like a vessel that is too heavily freighted. They are reluctant to part with their money because they think the enjoyment of the present is real happiness; they mistake the shadow for the reality, and value the false more than the true. In the hour of death they will discover their sad mistake, as a bird resting upon a limed bough only finds that he is a captive when he attempts to fly away. The rich man, when the moment comes for him to pass from time into eternity, will feel how bitter has been his deception, like one who awakens from a delightful dream to find his happiness a delusion (Ps. Ixxv. 6). Therefore God has made the way to the attainment of riches a difficult and thorny path, as a farmer plants a quickset hedge round the field that he does not want trodden down.
+To whom much is given, of him much shall be required (Luke xii. 48). The rich ought of their abundance to supply the wants of the poor (2 Cor. viii. 14). They ought to sustain the poor, as the elm supports the vine. The elm is a stately tree, but it produces no fruit ; the vine is a creeping plant, and unless it clings to something, its branches trail on the ground and its fruit is apt to be spoiled. But if it casts its tendrils ronnrl tbp elm, and clings to its trunk, it will grow up and flourish. The rich man is like the elm; his wealth alone gives him no claim to an eternal reward, but bv the help he renders to the poor he will purchase for himself everlasting treasures. But if the rich do not give willingly, they imperil their eternal salvation. Our Lord says: "It is easier for a camel to pass through the eye of a needle, than for a rich man to enter into the kingdom of heaven" (Matt. xix. 24). The rich run risk of shipwreck, like a vessel that is too heavily freighted. They are reluctant to part with their money because they think the enjoyment of the present is real happiness; they mistake the shadow for the reality, and value the false more than the true. In the hour of death they will discover their sad mistake, as a bird resting upon a limed bough only finds that he is a captive when he attempts to fly away. The rich man, when the moment comes for him to pass from time into eternity, will feel how bitter has been his deception, like one who awakens from a delightful dream to find his happiness a delusion (Ps. Ixxv. 6). Therefore God has made the way to the attainment of riches a difficult and thorny path, as a farmer plants a quickset hedge round the field that he does not want trodden down.
 
 2. Even the poor man can help his neighbor who is in need.
 
@@ -49,8 +43,6 @@ These works are called works of mercy, because in performing them we are actuate
 3. The works of mercy are either spiritual or corporal, accord ing as the necessities we relieve are spiritual or corporal.
 
 The corporal wants of our neighbor are : Food, drink, clothing, shelter, liberty, health, or life. What can we do to supply him with these? His spiritual wants, the needs of the soul, are: The knowledge of the truth (for which instruction or counsel is required) ; a good will, through lack of which he offends God or his fellow-man
-
-The Works of Mercy. 421
 
 (which calls for correction, patient endurance or forgiveness) ; a joyful spirit (in lack of which he needs consolation). If we can do little or nothing to succor and solace our neighbor, we must pray for him, that God may come to his aid.
 
@@ -94,11 +86,7 @@ First we are told to rebuke our brother when we are alone with him. If he will n
 
 "We must admonish our neighbor with gentleness and charity.
 
-The greater the gentleness and tact wherewith a reprimand is administered, the more effect it produces. If our admonition is to be of use, it must fall on the heart like a gentle rain upon the earth ; for it is the still, quiet rain that sinks into and fertilizes the soil, whereas a violent, sudden downpour only breaks up the surface of the ground and rushes away. The bitterness of the reproof should be tempered with kindness and charity, as sour fruit is sweetened with sugar and cooked to render it digestible. Before rebuking any one, it is well to mention something praiseworthy in his conduct, and afterwards to speak a word of encouragement. If the rebuke is harsh
-
-424 The Commandments.
-
-and severe, it will do no good, only harm. Rough reproaches will not bring a man to a better mind, any more than kicks will put a wanderer in the right road. They will only drive him in the opposite direction. The sinner will not resolve to amend his ways unless he feels that the admonisher has his welfare sincerely at heart. The Christian %nust treat his erring brother as the coachman treats a timid horse, which is not to be managed by the violent use of the whip, but by a gentle hand on the rein.
+The greater the gentleness and tact wherewith a reprimand is administered, the more effect it produces. If our admonition is to be of use, it must fall on the heart like a gentle rain upon the earth ; for it is the still, quiet rain that sinks into and fertilizes the soil, whereas a violent, sudden downpour only breaks up the surface of the ground and rushes away. The bitterness of the reproof should be tempered with kindness and charity, as sour fruit is sweetened with sugar and cooked to render it digestible. Before rebuking any one, it is well to mention something praiseworthy in his conduct, and afterwards to speak a word of encouragement. If the rebuke is harsh and severe, it will do no good, only harm. Rough reproaches will not bring a man to a better mind, any more than kicks will put a wanderer in the right road. They will only drive him in the opposite direction. The sinner will not resolve to amend his ways unless he feels that the admonisher has his welfare sincerely at heart. The Christian %nust treat his erring brother as the coachman treats a timid horse, which is not to be managed by the violent use of the whip, but by a gentle hand on the rein.
 
 " He who causeth a sinner to be converted from the error of his ways shall save his soul from death, and cover a multitude of sins " (Jas. v. 20).
 
@@ -110,11 +98,7 @@ David bore Semei's abuse patiently, and after a time he acknowledged his sin and
 
 By forgiving offences willingly is meant that we do not seek to avenge ourselves on those who offend against us, but treat them kindly, and are ready to confer upon them any benefit within our power.
 
-Joseph's conduct towards his brethren affords a beautiful example of this virtue; instead of revenging himself on them, he embraced
-
-The Works of Mercy. 425
-
-them and kissed them and loaded them with gifts. If we willingly forgive those who trespass against us, God will forgive our transgressions, as we are told in the fifth clause of the Our Father.
+Joseph's conduct towards his brethren affords a beautiful example of this virtue; instead of revenging himself on them, he embraced them and kissed them and loaded them with gifts. If we willingly forgive those who trespass against us, God will forgive our transgressions, as we are told in the fifth clause of the Our Father.
 
 We can comfort the afflicted by showing them heartfelt sympathy, by suggesting grounds of consolation, or by succoring them in need.
 
@@ -127,8 +111,6 @@ St. Paul declares that it is good and acceptable in the sight of God, that praye
 ## 4. In What Spirit Should the Works of Mercy Be Performed ?
 
 1. We ought not to do good to our neighbor in order to beseen and praised by men, for in that case we bave our reward on earth (Matt. vi. 1),
-
-426 The Commandments.
 
 Nor should we do good to our neighbor in the hope that he will requite our kindness (Luke xiv. 12).
 
@@ -148,11 +130,7 @@ In no wise are we bound to deprive ourselves of what is necessary for our subsis
 
 5. We must only give alms out of what is our own, and only give to those who are really poor or who are unable to work.
 
-Some people think they will give alms at another's expense; they take from one what they give to another. Such almsgiving, which is an act of injustice, is abhorrent to God. Therefore let a
-
-The Works of Mercy. 427
-
-man who is in debt pay his creditors, instead of giving alms to the poor. Justice conies before generosity. " How manifestly unjust it would be to take the coat off one man's back to give it to another; it is no less unjust to give in alms money which thou owest to another " (St. John Chrysostom). As well might a thief, when brought to trial, offer the judge a part of the stolen property; he would only insure his conviction. " And canst thou hope to gain the favor of God by giving alms of what is not thy own?" (St. Augustine.) To give to those who are known to be idle and addicted to drink, is to encourage them in sin; but it is better to err on the side of charity than of severity. When the Master of the house is so liberal, it ill becomes His steward to be niggardly. As all shipwrecked sailors without distinction are received in a port, so we should not sit in judgment upon those who have fallen into poverty, but hasten to help them in their misfortune.
+Some people think they will give alms at another's expense; they take from one what they give to another. Such almsgiving, which is an act of injustice, is abhorrent to God. Therefore let a man who is in debt pay his creditors, instead of giving alms to the poor. Justice conies before generosity. " How manifestly unjust it would be to take the coat off one man's back to give it to another; it is no less unjust to give in alms money which thou owest to another " (St. John Chrysostom). As well might a thief, when brought to trial, offer the judge a part of the stolen property; he would only insure his conviction. " And canst thou hope to gain the favor of God by giving alms of what is not thy own?" (St. Augustine.) To give to those who are known to be idle and addicted to drink, is to encourage them in sin; but it is better to err on the side of charity than of severity. When the Master of the house is so liberal, it ill becomes His steward to be niggardly. As all shipwrecked sailors without distinction are received in a port, so we should not sit in judgment upon those who have fallen into poverty, but hasten to help them in their misfortune.
 
 6. In giving alms, preference should be shown to our relatives, our fellow Catholics, and those who are in the greatest need.
 
@@ -164,11 +142,7 @@ TO US?
 
 1. Almsgiving obtains for us the remission of our sins; that is to say the sinner obtains the grace of repentance, while the just man receives the pardon of venial sin, and the remission of the temporal penalty.
 
-Our Lord therefore says : " Blessed are the merciful, for they shall obtain mercy" (Matt. v. 7). "Water quencheth a flaming fire and alms resisteth sins" (Ecclus. iii. 33). St. Ambrose exhorts the sinner to employ his money to ransom his soul. Daniel gives similar counsel to King Nabuchodonosor (Dan. iv. 24). By almsgiving the sinner obtains actual graces, which gradually bring about his conversion, or sometimes he obtains extraordinary graces. Cornelius, a heathen centurion at Csesarea, was the recipient of great graces as the reward of his prayers and alms ; an angel was sent to him, and he was converted by the preaching of St. Peter. " A merciful man doeth good to his own soul " (Prov. xi. 17) ; almsgiving is a means whereby we may escape eternal perdition. The archangel Raphael expressly told Tobias: " Alms deliver from all sin, and from death, and will not suffer the soul to go into darkness " (Tob. iv. 11). " He who has made the poor man happy," says St. John Chrysostoi i, "will not himself suffer misery." God will not allow a man who has shown mercy to be lost; He will grant him the graces necessary for his conversion. St. Jerome declares that he has never known one who in his lifetime was liberal to the poor, to make a bad end; for the charitable have many to intercede for them. The just man obtains the remission
-
-428 The Commandments.
-
-of what is due to his sins by almsgiving; for St. Thomas Aquinas says the satisfaction made by alms is greater than that which is effected by prayer and fasting.
+Our Lord therefore says : " Blessed are the merciful, for they shall obtain mercy" (Matt. v. 7). "Water quencheth a flaming fire and alms resisteth sins" (Ecclus. iii. 33). St. Ambrose exhorts the sinner to employ his money to ransom his soul. Daniel gives similar counsel to King Nabuchodonosor (Dan. iv. 24). By almsgiving the sinner obtains actual graces, which gradually bring about his conversion, or sometimes he obtains extraordinary graces. Cornelius, a heathen centurion at Csesarea, was the recipient of great graces as the reward of his prayers and alms ; an angel was sent to him, and he was converted by the preaching of St. Peter. " A merciful man doeth good to his own soul " (Prov. xi. 17) ; almsgiving is a means whereby we may escape eternal perdition. The archangel Raphael expressly told Tobias: " Alms deliver from all sin, and from death, and will not suffer the soul to go into darkness " (Tob. iv. 11). " He who has made the poor man happy," says St. John Chrysostoi i, "will not himself suffer misery." God will not allow a man who has shown mercy to be lost; He will grant him the graces necessary for his conversion. St. Jerome declares that he has never known one who in his lifetime was liberal to the poor, to make a bad end; for the charitable have many to intercede for them. The just man obtains the remission of what is due to his sins by almsgiving; for St. Thomas Aquinas says the satisfaction made by alms is greater than that which is effected by prayer and fasting.
 
 2. By almsgiving we obtain an eternal recompense, provided that at the time we are in a state of grace.
 

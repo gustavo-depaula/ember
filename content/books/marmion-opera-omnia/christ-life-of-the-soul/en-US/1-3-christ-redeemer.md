@@ -38,8 +38,6 @@ Such is the solution God Himself gives; He could have given others, but it is th
 
 1. S. Thom. III, q.1, a. 2, ad. —2. Ibid. q. 1v, a.6. — 3. Moralia, XVII, C. 30, n. 46. — 4. “Preface” of Passiontide. — 5. Gal. Iv, 4-5.
 
-Christ, the life of the soul. 4
-
 His Name, the Name of Jesus, given by God Himself, is not without signification: Jesus nomen vanum aut inane non portat*. This Name signifies His special mission of salvation and denotes His special work: the Redemption of the world. ” Thou shalt call His Name Jesus”, says the angel sent to St. Joseph, ” for He shall save His people from their sins 2.”
 
 Let us contemplate Him at this solemn moment, unique in the history of humanity. What does He say ? What is it that He does? Jngrediens mundum dicit: Hostiam et oblationem nolusti, corpus autem aptasti mihi; holocautomata pro peccato non tibt placuerunt ; tunc dixi: ecce venio...* ' When He cometh into the world He saith : (to His Father) Sacrifice and oblation Thou wouldst not; but a body Thou hast fitted to Me. Holocausts for sin did not please Thee. Then said I: Behold I come.” These words taken from St. Paul, reveal to us the very first movement of the Heart of Christ at the moment of His Incarnation. And having made this initial act of total oblation, Christ ” hath rejoiced as a giant to run His course” : Exsultavit ut gigas ad currendam viam *.

@@ -3,5 +3,3 @@
 OF SINS.
 
 (See the chapter on Sin, page 449.)
-
-254 Faith.

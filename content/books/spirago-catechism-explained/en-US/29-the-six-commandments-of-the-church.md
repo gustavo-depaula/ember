@@ -40,11 +40,7 @@ The five feasts of the Mother of God are: (1), The Immaculate Conception (Dec. 8
 
 The life of the Mother of God is so intimately connected with that of her divine Son that the Church commemorates its principal events. Unlike the other saints, who are commemorated on the day of their death, because it was their birth to a better life, the day of Mary's birth is solemnized, because she was born without sin.
 
-The three festivals of the saints are: (1) The feast of St Stephen (Dec. 26th), no longer a holyday of obligation; (2), The feast of St. Peter and St. Paul (June '28th), not a holyday in the United States; (3), The feast of All Saints (Nov. 1st). In some lands the feast of the patron .saint of the country is
-
-The Ten Commandments of God. 359
-
-kept as a general holiday. These festivals are either fixed or movable. The former are kept yearly on the same day, the latter vary as to the date of celebration.
+The three festivals of the saints are: (1) The feast of St Stephen (Dec. 26th), no longer a holyday of obligation; (2), The feast of St. Peter and St. Paul (June '28th), not a holyday in the United States; (3), The feast of All Saints (Nov. 1st). In some lands the feast of the patron .saint of the country is kept as a general holiday. These festivals are either fixed or movable. The former are kept yearly on the same day, the latter vary as to the date of celebration.
 
 The fixed festivals are: The Immaculate Conception, Christmas, the Circumcision, the Epiphany, the Annunciation, St. Peter and St. Paul, the Assumption of and Nativity of Our Lady, the feast of All Saints. The movable feasts are: Easter, which is kept on the first Sunday following the first new moon after the spring equinox, consequently in the interval between the twenty-second of March and the twenty-fifth of April; the Ascension, forty days after Easter; Pentecost, fifty days after Easter; Corpus Christi, the Thursday of the second week after Whitsunday. The Church has instituted some of her festivals as substitutes for the feasts of the Old Testament, which were a foreshadowing of the Christian festivals. Others take the place of heathen festivities ; the birth of Our Lord is commemorated in the season when the pagans consecrated the long winter nights to the worship of the sun; the processions in different countries on Candlemas Day is a Christianized form of the torch light processions held in the first days of February, when the days begin perceptibly to lengthen, in honor of the divinities of the ancients. This the Church did in order to render the evangelization of the heathen more easy, by changing, instead of abrogating, their ceremonies.
 
@@ -58,11 +54,7 @@ The Jews of old used to observe a number of feasts besides the Sabbath in commem
 
 1. The ecclesiastical year is an annual commemoration and representation of the life of Christ and of the time before and after His birth.
 
-The Church places these events before us in order that we may meditate upon them and imitate Our Lord's life. In Advent we are called upon to anticipate with the patriarchs of the Old Testament, the coming of the long-expected Redeemer; at Christmas we rejoice with the shepherds at His birth; in Lent we fast forty days with Christ; at Easter we rise again with Him; at Pentecost we join with
-
-360 The Commandments.
-
-the disciples in praying for the coming of the Holy Ghost. On almost every day of the year the Church commemorates one or more of the saints; they are like planets, revolving around the Sun of justice. She bids us consider their lives, how they imitated Christ, and thus became patterns of Christian perfection ; and she desires to encourage us to imitate Him too. It is besides the intention of the Church that we should implore the intercession of the saints, that we may the more surely be made partakers of the merits of Christ. Finally by weaving these saints' days into the cycle of the ecclesiastical year, she would teach us amid all our earthly occupations to keep our thoughts fixed upon God, doing all, as the Apostle exhorts us, to His glory (1 Cor. x. 31).
+The Church places these events before us in order that we may meditate upon them and imitate Our Lord's life. In Advent we are called upon to anticipate with the patriarchs of the Old Testament, the coming of the long-expected Redeemer; at Christmas we rejoice with the shepherds at His birth; in Lent we fast forty days with Christ; at Easter we rise again with Him; at Pentecost we join with the disciples in praying for the coming of the Holy Ghost. On almost every day of the year the Church commemorates one or more of the saints; they are like planets, revolving around the Sun of justice. She bids us consider their lives, how they imitated Christ, and thus became patterns of Christian perfection ; and she desires to encourage us to imitate Him too. It is besides the intention of the Church that we should implore the intercession of the saints, that we may the more surely be made partakers of the merits of Christ. Finally by weaving these saints' days into the cycle of the ecclesiastical year, she would teach us amid all our earthly occupations to keep our thoughts fixed upon God, doing all, as the Apostle exhorts us, to His glory (1 Cor. x. 31).
 
 2. The ecclesiastical year begins upon the first Sunday in Advent; its three principal feasts are: Christinas, when the birth of Christ is celebrated; Easter, the day of His resurrection; and Pentecost, when the coming of the Holy Spirit is commemorated.
 
@@ -77,8 +69,6 @@ The four weeks of Advent represent the four thousand years during which the comi
 The forty days of Lent are the preparation for Easter; and the Paschal time lasts during the subsequent forty days before the ascension.
 
 The preparation for Lent includes the three Sundays called respectively Septuagesima (YO), Sexagesima (60), and Quinquagesima (50). They were so named because in the early days of Christianity many communities began the fast fifty, sixty, or seventy days before Easter, in order not to have to fast every day of the forty. The Wednesday after Quinquagesima is called Ash Wednesday, because of the ceremony of sprinkling ashes upon the foreheads of the faithful. On Ash Wednesday the season of Lent commences; it is forty-six days before Easter; thus the number of days is completed without the six
-
-TJie Ten Commandments of God. 361
 
 Sundays, on which we do not fast. During Lent the public life of Our Lord is set before us, His previous fast, His Passion and death. The forty days which intervene before the ascension represent the forty days He spent on earth after His resurrection. The three days before the ascension are the Rogation days; on these processions are held.
 
@@ -98,11 +88,7 @@ The gospels are portions taken from the four gospels, and the epistles from othe
 
 By the second commandment of the Church the precept of fasting is laid upon us.
 
-Fasting is as ancient as the human race itself. Even in paradise it was enjoined upon man to abstain from the fruit of one tree: moreover, certain meats were forbidden to the Jews; pork, for instance (Lev. xi.). On the Day of Propitiation the Jews wore not permitted to taste food for twenty-four hours. Our Lord fasted forty
-
-362 The Commandments.
-
-days; so did Moses and Elias before Him; and St. John Baptist, the Precursor, fasted most rigorously. The Church has good reasons for laying the obligation of fasting upon the faithful.
+Fasting is as ancient as the human race itself. Even in paradise it was enjoined upon man to abstain from the fruit of one tree: moreover, certain meats were forbidden to the Jews; pork, for instance (Lev. xi.). On the Day of Propitiation the Jews wore not permitted to taste food for twenty-four hours. Our Lord fasted forty days; so did Moses and Elias before Him; and St. John Baptist, the Precursor, fasted most rigorously. The Church has good reasons for laying the obligation of fasting upon the faithful.
 
 The laws of the Church in regard to fasting are in reality very strict; they have, however, been largely relaxed by the bishops to suit the exigencies of time and place.
 
@@ -119,8 +105,6 @@ Not only is meat prohibited, but all dishes in the preparation of which it enter
 In early ages the use of meat was also forbidden on Saturdays.
 
 The original object of this prohibition was to suppress the observance of the Sabbath day, which still lingered among Christian converts. It is now done away with; yet Christians often impose some restriction upon their amusements on Saturday, in view of better sanctifying the morrow.
-
-The Ten Commandments of God. 363
 
 2. During the forty days of Lent only one full meal is to be taken, as a partial imitation of Our Lord's fast of forty days, and as a suitable preparation for celebrating the festival of Easter.
 
@@ -175,8 +159,6 @@ Fasting is not in itself an excellent thing (1 Cor. viii. 8), but only as a mean
 ## 3. The Third and Fourth Commandments of the Church
 
 1. In the third and fourth commandments the Church enjoins upon us the duty of approaching the Sacrament of Penance and receiving holy communion at Easter.
-
-The Ten Commandments of God. 367
 
 Holy communion ought to be received often, because it is the food of the soul. That soul will be starved which for a long time does not receive this nourishment. Our Lord says : " Except you eat the flesh of the Son of man, and drink His blood, you shall not have life in you" (John vi. 54). The early Christians used originally to receive holy communion every day; later on only on the three great feasts, Christmas, Easter, and Pentecost. And when in the Middle Ages the fervor of many grew cold, the Council of Lateran (1215), ordained that all Christians who were capable of distinguishing good from evil were obliged to confess their sins at least once a year, and at Easter, at the least, devoutly to receive the Sacrament of the Altar. The Council of Trent expresses the wish that the confession also should be made at Easter, for it says : " Throughout the whole Church the salutary custom prevails of making confession of sin during the holy and most suitable season of Lent; a custom which the Church approves and accepts as pious and most certainly to be retained" (14 C. 5). Holy communion should be preceded by confession, lest any man should approach holy communion in a state of mortal sin ; the Easter communion is no exception to this rule. The obligation of the Easter precept is not fulfilled by a sacrilegious communion, nor by an invalid confession. Although the Church only requires every Christian to confess his sins once a year, yet it need hardly be said that if any man has the misfortune to fall into mortal sin, he should go to confession without delay.
 

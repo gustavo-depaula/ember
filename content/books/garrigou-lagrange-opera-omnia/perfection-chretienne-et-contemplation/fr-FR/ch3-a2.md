@@ -120,8 +120,6 @@ Pourquoi la charité est-elle supérieure à notre connaissance de Dieu?
 
 A cette grande doctrine traditionnelle certains esprits, surtout intellectuels, feront une objection. L’intelligence, diront-ils, n’est-elle pas la première faculté de l’homme, celle qui dirige les autres et qui premièrement nous distingue de la bête? Ne faut-il pas conclure que la perfection de l’homme se trouve spécialement dans la connaissance intellectuelle qu’il peut avoir de toutes choses considérées dans leur principe et dans leur fin, et donc dans la connaissance de Dieu, règle suprême de la vie humaine?
 
-LA PLEINE PERPEGÏION DE LA VIE CHRÉTIENNE i65
-
 Saint Thomas d’Aquin n’a certes pas méconnu cet aspect du problème de la perfection.
 
 Il admet lui-même que l’intelligence est supérieure à la volonté qu’elle dirige : l’intelligence a en effet un ïbjet plus simple, plus absolu, plus universel, l’être clans toute son universalité, et par suite tous les êtres; la volonté a un objet plus restreint, le bien, qui est une modalité de l’être, et en chaque chose la perfection qui la rend désirable. Comme le bien suppose être, la volonté suppose l’intelligence et est dirigée par elle ; c’est donc bien par l’intelligence que l’homme liffère premièrement de la bête, c’est la première de ses facultés [^19].

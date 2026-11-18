@@ -18,8 +18,6 @@ Sentimens affectueux.
 
 5° Par le péchés, vous vous êtes rendu coupable de parjure envers Dieu le père, puisqu’en péchant, vous avez rompu le pacte d’alliance par lequel vous lui aviez juré une fidélité inviolable. Vous vous êtes rendu coupable de déicide envers Jésus - Christ, fils unique de Dieu, et
 
-ET SENTIMENS AFl lî C T U E UX. 203
-
 Dieu lui-même, puisqu’en péchant, vous avez anéanti par rapport à vous, les mérites de ses soufFrances, et foulé aux pieds son sang adorable. Vous vous êtes rendu coupable de sacrilège envers l’Esprit Saint, puisque vous avez profané votre âme et votre corps qui étoient consacrés à cet esprit sanctificateur. Que ces réflexions vous pénètrent des sentimens qu’elles doivent vous inspirer. Abîmez-vous dans la confusion et la douleur. Pieconnoissez qu’il n’y a point d’humiliations, point de tourmens que vous n’ayez mérités. Soyez dans l’étonnement de ce que Dieu ne vous a pas précipité au fond des abîmes ; admirez l’excès de sa tendresse, qui le porte à vous pardonner si vous retournez à lui de tout votre cœur.
 
 Sentimens affectueux.
@@ -227,8 +225,6 @@ O Jésus, mon cher Sauveur, vous êtes venu sur la terre pour y apporter l’amo
 Ayez un temps fixé pour le lever, les repas, les exercices de piété, le travail et le repos. Ne changez cet ordre que quand la nécessité ou la charité le demandent.
 
 Faites toujours tout pour la plus grande gloire de Dieu.
-
-ET SENTIMENS A F F E C T U K TI X. 295
 
 Ne VOUS conformez jamais au monde. \ous devez le regarder comme l’ennemi de Jésus- Christ et le vôtre. Vous ne devez point vous lier d’amitié avec ceux qui se laissent éblouir par ses vanités, et qui poursuivent ses faux biens.
 

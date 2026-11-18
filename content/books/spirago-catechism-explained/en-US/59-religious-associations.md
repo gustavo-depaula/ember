@@ -2,8 +2,6 @@
 
 The Church makes use of religious associations as a further means of promoting the salvation of souls.
 
-Religious Associations. 711
-
 In the present day, when the enemies of the Church are so numerically strong, it behooves her loyal children to form, as it were, into ranks, and with united forces to withstand the foe. Only in thiswise can victory be ensured. " Few men," says Mirabeau, " acting conjointly, can make a hundred thousand isolated individuals tremble." This language may appear somewhat exaggerated, but there is much truth in it. Union is strength. We cannot raise a weight with a single thread ; but a twisted cord is not easily broken.
 
 1. Religious associations are voluntary societies formed among the faithful, with the object of furthering their own salvation or the salvation of their fellow-men.
@@ -34,11 +32,7 @@ St. Francis of Sales was a member of several confraternities; he gave as a reaso
 
 6. Third Orders are, however, in every way more important than ordinary religious associations.
 
-The Third Order is not to be classed with confraternities, as it is affiliated to one of the great monastic Orders. " The religious
-
-Religious Associations. 713
-
-state," says St. Alphonsus, " is preferable to all the dignities and riches of the world."
+The Third Order is not to be classed with confraternities, as it is affiliated to one of the great monastic Orders. " The religious state," says St. Alphonsus, " is preferable to all the dignities and riches of the world."
 
 ## The Third Order of St. Francis
 
@@ -54,8 +48,6 @@ Tertiaries, i.e., members of the Third Order, wear a small scapular under their 
 
 The obligations of the rule are very light. They were considerably mitigated in 1883 by Pope Leo XIII. and adapted to the requirements of the times. The rule enjoins upon the tertiaries;
 
-714 The Means of Grace.
-
 " To obey God's commandments and the precepts of the Church ; to avoid faction and quarrelling, to observe moderation in food, drink and clothing; to avoid luxury, to refrain as far as they can from the dangerous seductions of dances and the theatre." They are also required to fast on the eve of the feast of St. Francis and of the Immaculate Conception, to approach the sacraments every month, to recite twelve Paters, Aves and Glorias daily, to hear Mass, if possible, every day, to attend the monthly meetings, to assist those of their fellow-members who are sick or destitute, and to pray for deceased members. Any one who is unable to perform one or more of these obligations can be dispensed. Special privileges are conceded to priests.
 
 4. The members of the Third Order have greater graces within their reach than the members of almost any other exist ing confraternity.
@@ -69,8 +61,6 @@ It would be impossible to enumerate in these pages the crowned heads, the saints
 ## The Mope Widespread Confraternities
 
 "No confraternity can be established in a parish without the permission of the bishop; affiliation to an archconfraternity is also necessary.
-
-Religious Associations. 715
 
 1. The object of the Society for the Propagation of the Faith is to aid and support the work of missions to the heathen by means of prayer and alms.
 
@@ -86,11 +76,7 @@ The members of this association are required to recite one Our Father, one Hail 
 
 4. The object of the Confraternity of the Blessed Sacrament is the adoration of the Most Holy Sacrament of the Altar.
 
-In the present day the Confraternity of the Perpetual Adoration is being widely propagated. Each member pledges himself to spend an hour every month in adoration of the Blessed Sacrament,
-
-716 The Means of Grace.
-
-members watch in turn, generally on Sundays or holydays. The chief indulgences are a plenary indulgence once a month, the day being optional; on the first Thursday in the month; on the feast of Corpus Christi or in the octave; on the five principal feasts of Our Lady, besides other festivals, and in the hour of death. It is meet that Our Lord, present under the eucharistic veils, should be perpetually adored. Just as there is no hour of the day or night in which in some place on earth the holy sacrifice is not offered, and as in heaven the hosts of angels and the company of the redeemed unceasingly sing the Tersanctus, so it is right that on earth the ascription of praise should incessantly resound : " O Sacrament most holy, O Sacrament divine ! All praise and all thanksgiving be every moment Thine." In addition to the Confraternity of Perpetual Adoration there are besides in every town, tabernacle or altar societies, the object of which is to honor the Adorable Sacrament of the Altar by doing the sacristy work, and providing altar linen, vestments, etc., for poor churches. Each member of these societies pledges herself to spend an hour in church every month in watching before the Blessed Sacrament.
+In the present day the Confraternity of the Perpetual Adoration is being widely propagated. Each member pledges himself to spend an hour every month in adoration of the Blessed Sacrament, members watch in turn, generally on Sundays or holydays. The chief indulgences are a plenary indulgence once a month, the day being optional; on the first Thursday in the month; on the feast of Corpus Christi or in the octave; on the five principal feasts of Our Lady, besides other festivals, and in the hour of death. It is meet that Our Lord, present under the eucharistic veils, should be perpetually adored. Just as there is no hour of the day or night in which in some place on earth the holy sacrifice is not offered, and as in heaven the hosts of angels and the company of the redeemed unceasingly sing the Tersanctus, so it is right that on earth the ascription of praise should incessantly resound : " O Sacrament most holy, O Sacrament divine ! All praise and all thanksgiving be every moment Thine." In addition to the Confraternity of Perpetual Adoration there are besides in every town, tabernacle or altar societies, the object of which is to honor the Adorable Sacrament of the Altar by doing the sacristy work, and providing altar linen, vestments, etc., for poor churches. Each member of these societies pledges herself to spend an hour in church every month in watching before the Blessed Sacrament.
 
 5. The object of the Confraternity of the Sacred Heart of Jesus is to venerate and adore the Sacred Heart of Our Lord, and participate in the abundant graces He promises to those who practise this devotion.
 
@@ -110,8 +96,6 @@ This confraternity was founded in 1250 by St. Simon Stock, then general of the C
 
 8. The object of the Confraternity of the Bona Mors is to obtain for its members who are yet on earth the privilege of a happy death, and for the departed a speedy release from the cleansing fires.
 
-718 The Means of Grace.
-
 The members of this confraternity are bound to have a Mass said once every year for the intention of their fellow-members, that the one who is the next to die may have a happy death, and those who are already gone before may experience a mitigation of the pains of purgatory. They are also exhorted to approach the sacraments frequently, to entertain a special devotion to the Immaculate Conception, to St. Joseph, the patron of a good death, and often to make acts of the theological virtues and of contrition. This confraternity is very richly indulgenced. For every visit to a sick person, twenty years ; for every meditation of half -an-hour's length, sixty years ; for every visit to a church, seven years, etc. All these indulgences are applicable to the souls in purgatory.
 
 9. The object of the Confraternity of the Holy Ghost is to beseech the Holy Ghost to multiply the number of priests, and enlighten them with His divine light.
@@ -126,11 +110,7 @@ The Apostleship of Prayer is not a confraternity or sodality, but a pious organi
 
 Two things are necessary for membership:
 
-(1), Registration of one's name by a local director in an affiliated centre; (2), A certificate of admission. Centres are affiliated by diplomas from the director general (a father of the Society of Jesus, residing at Toulouse, France) and transmitted to them by the diocesan directors, whom, with the license and in accordance with the nomination of the Ordinary, he has appointed for that purpose. The second degree consists in the daily recital of one Our Father and ten Hail Marys for the monthly intention approved by the Holy Father; and the third degree in offering a communion of atonement to the Sacred Heart, once a week, or at least once a month on a day or days
-
-Religious Associations. 719
-
-fixed by arrangement with a promoter of the Apostleship of Prayer. The organ of the association is called " The Messenger of the Sacred Heart" published by the authorized editors in various countries under the direction of the director general. There are thirty-seven distinct editions of the Messenger. The members of the Apostleship of Prayer in the whole world number some twenty to thirty millions.
+(1), Registration of one's name by a local director in an affiliated centre; (2), A certificate of admission. Centres are affiliated by diplomas from the director general (a father of the Society of Jesus, residing at Toulouse, France) and transmitted to them by the diocesan directors, whom, with the license and in accordance with the nomination of the Ordinary, he has appointed for that purpose. The second degree consists in the daily recital of one Our Father and ten Hail Marys for the monthly intention approved by the Holy Father; and the third degree in offering a communion of atonement to the Sacred Heart, once a week, or at least once a month on a day or days fixed by arrangement with a promoter of the Apostleship of Prayer. The organ of the association is called " The Messenger of the Sacred Heart" published by the authorized editors in various countries under the direction of the director general. There are thirty-seven distinct editions of the Messenger. The members of the Apostleship of Prayer in the whole world number some twenty to thirty millions.
 
 ## Charitable Societies
 
@@ -146,11 +126,7 @@ It is not intended to encourage and promote emigration; on the contrary, many pe
 
 4. The Catholic Society for Friendless Youths.
 
-This proposes as its object to lead young workingmen to follow a religious and upright life, to encourage a spirit of industry and brotherly kindness among them. A priest presides over this society; the youths are assembled of an evening for innocent entertainment,
-
-720 The Means of Grace.
-
-reading, and religious instruction. They are assisted in sickness or poverty, and every endeavor is made to render them useful members of society.
+This proposes as its object to lead young workingmen to follow a religious and upright life, to encourage a spirit of industry and brotherly kindness among them. A priest presides over this society; the youths are assembled of an evening for innocent entertainment, reading, and religious instruction. They are assisted in sickness or poverty, and every endeavor is made to render them useful members of society.
 
 5. The Workingman's Guild.
 

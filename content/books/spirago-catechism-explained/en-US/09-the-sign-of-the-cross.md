@@ -35,5 +35,3 @@ We should make the sign of the cross in the morning in order to obtain the bless
 When we make the sign of the cross, we should, if possible, make it with holy water.
 
 Holy water has a special power to defend us against all attacks of the devil. When we make the sign of the cross with holy water, we gain each time an indulgence of one hundred days (Pius IX., March 23, 1876). Holy water is placed at the doors of our churches, and should be placed at the door of our rooms. We must never be ashamed of the sign of the cross, lest Christ be ashamed of us. The devil rejoices when he sees any one neglect to make the sign of the cross, for he knows that the cross is his destruction and a sign of victory over his temptations.
-
-108 Faith.

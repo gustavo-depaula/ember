@@ -20,11 +20,7 @@ As the worm gnaws away the wood to which it owes its origin, BO envy eats out th
 
 4. The best means of overcoming feelings of envy is to do all the good we possibly can to our fellow-men.
 
-In order to thrust the monster of envy out of the heart, 110 sword, no breastplate, no helmet is needed, only the panoply of love. Do all the good you can to the person whom you envy ; at least pray for him, that his happiness may be increased. Thus you will banish the demon from your heart; you will thereby deserve a twofold crown; the one for your victory over envy, the other for the charitable deed you have performed (St. John Chrysostom). Consider also how short lived is all here below. In a little while we must leave all. It will not then matter what have been your possessions, what high offices you have filled; your future happiness will entirely depend upon your good works, If you will be great hereafter humble yourself
-
-300 The Commandments,
-
-now; love to be unknown and despised, for he that humbleth himself shall be exalted (Luke xiv. 11).
+In order to thrust the monster of envy out of the heart, 110 sword, no breastplate, no helmet is needed, only the panoply of love. Do all the good you can to the person whom you envy ; at least pray for him, that his happiness may be increased. Thus you will banish the demon from your heart; you will thereby deserve a twofold crown; the one for your victory over envy, the other for the charitable deed you have performed (St. John Chrysostom). Consider also how short lived is all here below. In a little while we must leave all. It will not then matter what have been your possessions, what high offices you have filled; your future happiness will entirely depend upon your good works, If you will be great hereafter humble yourself now; love to be unknown and despised, for he that humbleth himself shall be exalted (Luke xiv. 11).
 
 2. He does not love his neighbor who injures him, whether in regard to his life, his innocence, his property, his honor, or his household.
 

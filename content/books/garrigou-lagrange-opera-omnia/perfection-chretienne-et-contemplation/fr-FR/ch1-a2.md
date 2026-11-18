@@ -74,8 +74,6 @@ Quelques-uns ont pensé que ce terme normal du progrès spirituel ne dépasse pa
 
 Mais il semble bien, par ce que dit sainte Thérèse des âmes qui ne dépassent pas la quiétude, qu’il y a eu chez elles un manque de fidélité au Saint-Esprit et que normalement elles auraient dû arriver à une union à Dieu plus profonde qu’elle appelle « un plus haut degré de perfection » [^28].
 
-LE PROBLÈME MYSTIQUE ACTUEL 3i
-
 Saint Jean de la Croix s’exprime de même [^29].
 
 Il se peut bien que l’extase n’implique (au moins nécessairement) rien d’extraordinaire au sens propre du mot. Elle paraît souvent provenir de la faiblesse de l’organisme qui déjaille sous l’action divine; elle peut n’être que le contre-coup d’une grâce intérieure profonde, qui absorbe toute l’attention et toute la force de l’âme sur Dieu, qui lui est intimement présent et qui se fait sentir à elle. De ce point de vue, il y aurait continuité entre tous les degrés de l’union mystique, de la quiétude à l’union transformante, où l’âme ne connaît plus « la faiblesse de l’extase », selon l’expression de sainte Hildegarde.

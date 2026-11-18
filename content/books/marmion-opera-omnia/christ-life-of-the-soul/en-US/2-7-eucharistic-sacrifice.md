@@ -6,8 +6,6 @@ Summary. — The Eucharist, source of Divine life. — J. The Eucharist consider
 
 When a soul has understood the greatness of this life, when it has grasped that its principle is union with Christ by faith and love, it aspires to the perfection of this union; it seeks the fulness of this life which is to be its own according to the eternal designs. Perhaps we ask ourselves if such intimate union is not only a dream. No, sublime as it is, it is not a dream; it can and ought to become a reality.
 
-Christ, the life of the soul. 17
-
 What seems impossible to men is easy to God: Apud homines hoc impossibile est, apud Deum autem omnia sunt possibilia*. ;
 
 It is true that all the efforts of human nature, left to itself, apart from Christ, cannot advance us a step in the attainment of this union, nor in the birth and development of the life which is the fruit of this union. It is God alone Who gives the seed and the increase. We tend the plant, we water it: that is necessary, it is indispensable, says St. Paul *; but the fruits of life are only produced because God makes the sap of His grace to spring up within us.

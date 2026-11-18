@@ -134,8 +134,6 @@ X. JÉSUS EST DÉPOUILLÉ DE SES VÊTEMENTS.
 
 « Ils se sont partagé mes vêtements et ils ont tiré ma robe au sort. » C’est la prophétie du psalmiste. — Jé-
 
-Le Christ dans ses mystères. 22
-
 338 le christ dans ses mystères sus est dépouillé de tout et mis dans la nudité d’une pauvreté absolue, il ne dispose pas même de ses vêtements ; car dès qu’il sera élevé en croix, les soldats se les partageront et jetteront sa tunique au sort. — Jésus par un mouvement de l’Esprit-Saint : Per Spiritum sanctum semetipsum obtulit Deo \ s’abandonne à ses bourreaux comme victime pour nos péchés.
 
 Rien n’est si glorieux pour Dieu ni si utile pour nos âmes que d’unir l’offrande absolue et sans condition de nous-mêmes à celle qu’a faite Jésus au moment où il s’abandonnait aux bourreaux pour être dépouillé de ses vêtements et attaché à la croix « afin de nous rendre, par son dénuement, les richesses de sa grâce 2 ». Cette offrande de nous-mêmes est un véritable sacrifice ; cette immolation à la volonté divine est le fond de toute la vie spirituelle. Mais pour qu’elle acquière toute sa valeur, nous devons l’unir à celle de Jésus, car « c’est par cette oblation qu’il nous a tous sanctifiés » : In qua voluntate sanctificati sumus 3.
