@@ -225,6 +225,15 @@ def write(book, k, ans):
         src = paras(open("%s/%s/%s" % (book, lang(book), ch)).read())
         # A translator's footnote may follow the paragraphs it serves.
         body = [p for p in ps if not (p.startswith("[^") and "Nota do tradutor" in p)]
+        # A span that ends before its chapter's notes carries their markers, and the
+        # model may write a note's definition after the paragraph that cites it
+        # (Granada's Vidas, enrique.md); the note comes with its own span later.
+        if len(body) > b - a + 1:
+            spanDefs = sum(1 for p in src[a:b + 1] if re.match(r"\[\^[^\]]+\]:", p))
+            early = [p for p in body if re.match(r"\[\^[^\]]+\]:", p)]
+            if len(body) - len(early) + spanDefs == b - a + 1 and spanDefs == 0:
+                ps = [p for p in ps if p not in early]
+                body = [p for p in body if p not in early]
         if len(body) != b - a + 1:
             problems.append("pt-BR/%s [%d-%d]: %d paragraphs for %d" % (ch, a + 1, b + 1, len(body), b - a + 1)); continue
         if re.search(r"truncated to [0-9]+ chars", got):
