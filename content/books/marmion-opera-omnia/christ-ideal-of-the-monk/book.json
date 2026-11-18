@@ -14,13 +14,19 @@
   },
   "composed": "1922",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "marmion/christ-ideal-du-moine",
   "editions": {
     "en-US": {
       "translator": "A Nun of Tyburn Convent (from the 8th French edition)",
       "year": 1926
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -37,115 +43,134 @@
     {
       "id": "preface",
       "title": {
-        "en-US": "Preface"
+        "en-US": "Preface",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "01-seek-god",
       "title": {
-        "en-US": "I. “To Seek God”"
+        "en-US": "I. “To Seek God”",
+        "pt-BR": "I. “Buscar a Deus”"
       }
     },
     {
       "id": "02-following-of-christ",
       "title": {
-        "en-US": "II. The Following of Christ"
+        "en-US": "II. The Following of Christ",
+        "pt-BR": "II. O seguimento de Cristo"
       }
     },
     {
       "id": "03-abbot",
       "title": {
-        "en-US": "III. The Abbot, Christ’s Representative"
+        "en-US": "III. The Abbot, Christ’s Representative",
+        "pt-BR": "III. O abade, representante de Cristo"
       }
     },
     {
       "id": "04-cenobitical-society",
       "title": {
-        "en-US": "IV. The Cenobitical Society"
+        "en-US": "IV. The Cenobitical Society",
+        "pt-BR": "IV. A sociedade cenobítica"
       }
     },
     {
       "id": "05-faith",
       "title": {
-        "en-US": "V. Our Faith, the Victory over the World"
+        "en-US": "V. Our Faith, the Victory over the World",
+        "pt-BR": "V. Nossa fé, a vitória sobre o mundo"
       }
     },
     {
       "id": "06-profession",
       "title": {
-        "en-US": "VI. Monastic Profession"
+        "en-US": "VI. Monastic Profession",
+        "pt-BR": "VI. A profissão monástica"
       }
     },
     {
       "id": "07-instruments-good-works",
       "title": {
-        "en-US": "VII. The “Instruments of Good Works”"
+        "en-US": "VII. The “Instruments of Good Works”",
+        "pt-BR": "VII. Os “instrumentos das boas obras”"
       }
     },
     {
       "id": "08-compunction",
       "title": {
-        "en-US": "VIII. Compunction of Heart"
+        "en-US": "VIII. Compunction of Heart",
+        "pt-BR": "VIII. A compunção do coração"
       }
     },
     {
       "id": "09-self-renunciation",
       "title": {
-        "en-US": "IX. Self-Renunciation"
+        "en-US": "IX. Self-Renunciation",
+        "pt-BR": "IX. A renúncia a si mesmo"
       }
     },
     {
       "id": "10-poverty",
       "title": {
-        "en-US": "X. Poverty"
+        "en-US": "X. Poverty",
+        "pt-BR": "X. A pobreza"
       }
     },
     {
       "id": "11-humility",
       "title": {
-        "en-US": "XI. Humility"
+        "en-US": "XI. Humility",
+        "pt-BR": "XI. A humildade"
       }
     },
     {
       "id": "12-bonum-obedientiae",
       "title": {
-        "en-US": "XII. Bonum obedientiae"
+        "en-US": "XII. Bonum obedientiae",
+        "pt-BR": "XII. Bonum obedientiae"
       }
     },
     {
       "id": "13-opus-dei-praise",
       "title": {
-        "en-US": "XIII. The Opus Dei: Divine Praise"
+        "en-US": "XIII. The Opus Dei: Divine Praise",
+        "pt-BR": "XIII. O Opus Dei: o louvor divino"
       }
     },
     {
       "id": "14-opus-dei-union",
       "title": {
-        "en-US": "XIV. The Opus Dei: Means of Union with God"
+        "en-US": "XIV. The Opus Dei: Means of Union with God",
+        "pt-BR": "XIV. O Opus Dei: meio de união com Deus"
       }
     },
     {
       "id": "15-monastic-prayer",
       "title": {
-        "en-US": "XV. Monastic Prayer"
+        "en-US": "XV. Monastic Prayer",
+        "pt-BR": "XV. A oração monástica"
       }
     },
     {
       "id": "16-abandonment",
       "title": {
-        "en-US": "XVI. The Spirit of Abandonment to God’s Will"
+        "en-US": "XVI. The Spirit of Abandonment to God’s Will",
+        "pt-BR": "XVI. O espírito de abandono à vontade de Deus"
       }
     },
     {
       "id": "17-good-zeal",
       "title": {
-        "en-US": "XVII. Good Zeal"
+        "en-US": "XVII. Good Zeal",
+        "pt-BR": "XVII. O bom zelo"
       }
     },
     {
       "id": "18-peace-of-christ",
       "title": {
-        "en-US": "XVIII. The Peace of Christ"
+        "en-US": "XVIII. The Peace of Christ",
+        "pt-BR": "XVIII. A paz de Cristo"
       }
     }
   ]
