@@ -14,17 +14,23 @@
   "description": {
     "es-ES": "Las dos pláticas de san Juan de Ávila a los clérigos de Córdoba sobre la dignidad y las obligaciones del sacerdocio (Elegit nos ab omni vivente; Bonitatem et disciplinam et scientiam doce me), publicadas por primera vez en Córdoba en 1595.",
     "en-US": "The two talks of St. John of Ávila to the clergy of Córdoba on the dignity and duties of the priesthood (Elegit nos ab omni vivente; Bonitatem et disciplinam et scientiam doce me), first printed at Córdoba in 1595.",
-    "pt-BR": "As duas palestras de São João de Ávila aos clérigos de Córdoba sobre a dignidade e as obrigações do sacerdócio, publicadas pela primeira vez em Córdoba em 1595."
+    "pt-BR": "As duas palestras de São João de Ávila aos clérigos de Córdoba sobre a dignidade e as obrigações do sacerdócio (*Elegit nos ab omni vivente*; *Bonitatem et disciplinam et scientiam doce me*), publicadas pela primeira vez em Córdoba em 1595."
   },
   "composed": "c. 1560",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "john-of-avila/platicas",
   "editions": {
     "es-ES": {
       "editor": "Apostolado de la Prensa (1941), reprinted by Apostolado Mariano",
       "year": 2007
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,13 +47,15 @@
     {
       "id": "platica-1",
       "title": {
-        "es-ES": "Plática primera a los clérigos de Córdoba"
+        "es-ES": "Plática primera a los clérigos de Córdoba",
+        "pt-BR": "Primeira palestra aos clérigos de Córdoba"
       }
     },
     {
       "id": "platica-2",
       "title": {
-        "es-ES": "Plática segunda a los clérigos de Córdoba"
+        "es-ES": "Plática segunda a los clérigos de Córdoba",
+        "pt-BR": "Segunda palestra aos clérigos de Córdoba"
       }
     }
   ]
