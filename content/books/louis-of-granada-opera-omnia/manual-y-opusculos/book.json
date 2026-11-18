@@ -18,13 +18,19 @@
   },
   "composed": "1557-1574",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "louis-of-granada/manual-y-opusculos",
   "editions": {
     "es-ES": {
       "editor": "Justo Cuervo OP",
       "year": 1906
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,43 +47,50 @@
     {
       "id": "manual-1557",
       "title": {
-        "es-ES": "Manual de diversas oraciones y espirituales ejercicios (1557)"
+        "es-ES": "Manual de diversas oraciones y espirituales ejercicios (1557)",
+        "pt-BR": "Manual de diversas orações e exercícios espirituais (1557)"
       }
     },
     {
       "id": "manual-ampliado",
       "title": {
-        "es-ES": "Manual de oraciones y meditaciones (edición ampliada)"
+        "es-ES": "Manual de oraciones y meditaciones (edición ampliada)",
+        "pt-BR": "Manual de orações e meditações (edição ampliada)"
       }
     },
     {
       "id": "memorial-del-cristiano",
       "title": {
-        "es-ES": "Memorial de lo que debe hacer el cristiano"
+        "es-ES": "Memorial de lo que debe hacer el cristiano",
+        "pt-BR": "Memorial do que deve fazer o cristão"
       }
     },
     {
       "id": "tratado-de-oraciones",
       "title": {
-        "es-ES": "Tratado de algunas oraciones muy devotas"
+        "es-ES": "Tratado de algunas oraciones muy devotas",
+        "pt-BR": "Tratado de algumas orações muito devotas"
       }
     },
     {
       "id": "vita-christi",
       "title": {
-        "es-ES": "Vita Christi: breve sumario de la vida de Cristo"
+        "es-ES": "Vita Christi: breve sumario de la vida de Cristo",
+        "pt-BR": "Vita Christi: breve sumário da vida de Cristo"
       }
     },
     {
       "id": "tratado-de-meditacion",
       "title": {
-        "es-ES": "Tratado de la meditación"
+        "es-ES": "Tratado de la meditación",
+        "pt-BR": "Tratado da meditação"
       }
     },
     {
       "id": "recopilacion",
       "title": {
-        "es-ES": "Recopilación breve del Libro de la oración"
+        "es-ES": "Recopilación breve del Libro de la oración",
+        "pt-BR": "Recopilação breve do Livro da oração"
       }
     }
   ]
