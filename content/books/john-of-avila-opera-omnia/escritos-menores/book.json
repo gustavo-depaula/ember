@@ -18,13 +18,19 @@
   },
   "composed": "c. 1535–1569",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "john-of-avila/escritos-menores",
   "editions": {
     "es-ES": {
       "editor": "Apostolado de la Prensa (1941), reprinted by Apostolado Mariano",
       "year": 2007
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,43 +47,50 @@
     {
       "id": "doctrina-admirable",
       "title": {
-        "es-ES": "Doctrina admirable (instrucción a un mancebo)"
+        "es-ES": "Doctrina admirable (instrucción a un mancebo)",
+        "pt-BR": "Doutrina admirável (instrução a um jovem)"
       }
     },
     {
       "id": "bienaventuranzas",
       "title": {
-        "es-ES": "Exposición breve de las bienaventuranzas"
+        "es-ES": "Exposición breve de las bienaventuranzas",
+        "pt-BR": "Exposição breve das bem-aventuranças"
       }
     },
     {
       "id": "reglas-de-vida-perfecta",
       "title": {
-        "es-ES": "Reglas de vida perfecta"
+        "es-ES": "Reglas de vida perfecta",
+        "pt-BR": "Regras de vida perfeita"
       }
     },
     {
       "id": "diez-documentos",
       "title": {
-        "es-ES": "Diez documentos para la vida espiritual"
+        "es-ES": "Diez documentos para la vida espiritual",
+        "pt-BR": "Dez documentos para a vida espiritual"
       }
     },
     {
       "id": "grados-de-humildad",
       "title": {
-        "es-ES": "Grados de humildad"
+        "es-ES": "Grados de humildad",
+        "pt-BR": "Graus de humildade"
       }
     },
     {
       "id": "diez-avisos",
       "title": {
-        "es-ES": "Diez avisos para caminar por la vía recta"
+        "es-ES": "Diez avisos para caminar por la vía recta",
+        "pt-BR": "Dez avisos para caminhar pela via reta"
       }
     },
     {
       "id": "quince-avisos",
       "title": {
-        "es-ES": "Quince avisos para quien desea ser religioso"
+        "es-ES": "Quince avisos para quien desea ser religioso",
+        "pt-BR": "Quinze avisos para quem deseja ser religioso"
       }
     }
   ]
