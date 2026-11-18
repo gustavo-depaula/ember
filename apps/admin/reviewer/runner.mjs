@@ -20,6 +20,9 @@ const concurrent = 3
 // A run with nothing new to say still reports this often, so the desk can tell it from a dead one.
 const reportEveryMs = 2_000
 const heartbeatMs = 30_000
+// A review takes a few minutes. One still going after this is stuck, and would hold the box up
+// (worker/reviewer.ts keeps it awake while any run is under way).
+const runLimitMs = 20 * 60_000
 
 const tools = 'Read,WebFetch,WebSearch'
 const waiting = []
@@ -79,6 +82,11 @@ async function work(job) {
   const timer = setInterval(() => {
     if (pending.length > 0 || Date.now() - lastReport > heartbeatMs) report()
   }, reportEveryMs)
+  let overran = false
+  const limit = setTimeout(() => {
+    overran = true
+    abort.abort()
+  }, runLimitMs)
 
   try {
     report()
@@ -107,8 +115,15 @@ async function work(job) {
   } catch (error) {
     clearInterval(timer)
     await reporting
-    if (!abort.signal.aborted) await tell(job.id, 'done', { error: error.message })
+    if (overran) {
+      await tell(job.id, 'done', {
+        error: `The review was still running after ${runLimitMs / 60_000} minutes and was stopped. Start it again.`,
+      })
+    } else if (!abort.signal.aborted) {
+      await tell(job.id, 'done', { error: error.message })
+    }
   } finally {
+    clearTimeout(limit)
     clearInterval(timer)
     aborts.delete(job.id)
   }
@@ -149,7 +164,13 @@ function runClaude({ cwd, prompt, resume, schema, model, runId, signal, onActivi
   ]
 
   return new Promise((resolve, reject) => {
-    const child = spawn('claude', args, { cwd, signal, stdio: ['ignore', 'pipe', 'pipe'] })
+    // SIGKILL, so a run that is stopped ends even if the CLI is past answering SIGTERM.
+    const child = spawn('claude', args, {
+      cwd,
+      signal,
+      killSignal: 'SIGKILL',
+      stdio: ['ignore', 'pipe', 'pipe'],
+    })
     let result
     let stderr = ''
     child.stderr.on('data', (chunk) => {
@@ -235,9 +256,13 @@ createServer(async (req, res) => {
       aborts.get(stopping[1])?.abort()
       return send(200, { ok: true })
     }
-    // The Worker's readiness check, and its way of keeping this box awake.
+    // The Worker's readiness check, and how it learns whether this box may be put to sleep.
     send(200, { active, waiting: waiting.length })
   } catch (error) {
     send(500, { error: error.message })
   }
 }).listen(Number(PORT), '0.0.0.0')
+
+// This is the container's first process, and Linux delivers that one no signal it has not asked
+// for: without these the box ignores the Worker's SIGTERM and never goes to sleep.
+for (const signal of ['SIGTERM', 'SIGINT']) process.on(signal, () => process.exit(0))

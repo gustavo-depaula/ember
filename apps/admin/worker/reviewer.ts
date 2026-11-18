@@ -29,9 +29,11 @@ const anthropicHost = 'api.anthropic.com'
 
 export class Reviewer extends Container<Env> {
   defaultPort = 8080
-  // Counted from the last request the Worker sent it. Long enough for the reviews one request
-  // queues to finish with nobody watching; the page's polling keeps it awake past that.
-  sleepAfter = '20m'
+  // Counted from the last request the Worker sent it. Reviews still under way outlast it (see
+  // `onActivityExpired`); for an idle box it is how long the sessions stay on disk for an
+  // instruction to resume. Every idle hour is billed, so nothing else may keep the box up: not a
+  // page left open, not a run that hangs.
+  sleepAfter = '5m'
   interceptHttps = true
   envVars = {
     DESK_URL: `http://${deskHost}`,
@@ -41,6 +43,29 @@ export class Reviewer extends Container<Env> {
     NODE_EXTRA_CA_CERTS: '/etc/cloudflare/certs/cloudflare-containers-ca.crt',
     CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC: '1',
     DISABLE_AUTOUPDATER: '1',
+  }
+
+  // The library's default sends SIGTERM and trusts the box to exit. This one asks the box whether
+  // it still has reviews, and kills an idle one outright: a program that ignores the signal would
+  // otherwise run, and be billed, until the next deploy.
+  override async onActivityExpired() {
+    if (!this.ctx.container?.running) return
+    if (await this.working()) return
+    await this.destroy()
+  }
+
+  // A box that cannot say what it is doing is treated as idle: its runs report to the desk
+  // themselves, and the desk shows the ones that go silent as failed.
+  private async working(): Promise<boolean> {
+    try {
+      const response = await this.containerFetch('http://reviewer/ping', {
+        signal: AbortSignal.timeout(5000),
+      })
+      const { active, waiting } = (await response.json()) as { active: number; waiting: number }
+      return active + waiting > 0
+    } catch {
+      return false
+    }
   }
 }
 

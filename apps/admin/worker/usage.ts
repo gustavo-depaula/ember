@@ -4,10 +4,21 @@ import type { Usage, UsageFilter } from './types'
 // for accounts, only sums over the account tables (nothing here reads an account's details).
 //
 // An install is the unit throughout. `day` and `hour` are the device's own, so a habit reads in
-// its owner's time; "today" is the latest day any install has reached.
+// its owner's time; "today" is the latest day any install has reached. Everything but the cohorts
+// is read over the period the filter names, so switching it changes the whole page.
 
-// The actions that mean someone prayed.
-const prayed = "('CompletionLogged', 'CompletionsBatchLogged')"
+// Praying, for each install on each day, as two separate facts: `opened`, the prayer screen was
+// shown, and `amen`, the Amen at its end was tapped. A tick on the plan and a Mass check-in mark a
+// practice done without either. Builds from before the app sent `via` cannot tell an Amen from a
+// tick, so their completions count as an Amen only on a day the install opened a prayer.
+const prayer = `pd AS (SELECT install, day,
+      COALESCE(MAX(name = 'screen' AND json_extract(props, '$.route') = '/pray/[practiceId]'), 0)
+        AS opened,
+      COALESCE(MAX(name = 'CompletionLogged' AND json_extract(props, '$.via') = 'amen'), 0) AS said,
+      COALESCE(MAX(name = 'CompletionLogged' AND json_extract(props, '$.via') IS NULL), 0)
+        AS unmarked
+    FROM a WHERE day >= ?5 GROUP BY install, day),
+    p AS (SELECT install, day, opened, (said OR (unmarked AND opened)) AS amen FROM pd)`
 
 type Row = Record<string, unknown>
 
@@ -29,36 +40,28 @@ export async function loadUsage(db: D1Database, filter: UsageFilter): Promise<Us
     shift(today, -(2 * days - 1)),
   ]
   const statements = {
-    pulse: `${scoped}
+    pulse: `${scoped}, ${prayer}
       SELECT
-        COUNT(DISTINCT CASE WHEN day = ?3 THEN install END) AS today,
-        COUNT(DISTINCT CASE WHEN day = date(?3, '-1 day') THEN install END) AS yesterday,
-        COUNT(DISTINCT CASE WHEN day > date(?3, '-7 days') THEN install END) AS week,
-        COUNT(DISTINCT CASE WHEN day > date(?3, '-14 days') AND day <= date(?3, '-7 days')
-          THEN install END) AS weekBefore,
-        COUNT(DISTINCT CASE WHEN day > date(?3, '-28 days') THEN install END) AS month,
-        COUNT(DISTINCT CASE WHEN day > date(?3, '-56 days') AND day <= date(?3, '-28 days')
-          THEN install END) AS monthBefore,
-        COUNT(DISTINCT CASE WHEN day > date(?3, '-7 days') AND name IN ${prayed}
-          THEN install END) AS prayingWeek,
-        COUNT(DISTINCT CASE WHEN day > date(?3, '-14 days') AND day <= date(?3, '-7 days')
-          AND name IN ${prayed} THEN install END) AS prayingWeekBefore,
-        COUNT(DISTINCT install) AS ever
-      FROM a`,
+        (SELECT COUNT(DISTINCT install) FROM a WHERE day = ?3) AS today,
+        (SELECT COUNT(DISTINCT install) FROM a WHERE day = date(?3, '-1 day')) AS yesterday,
+        (SELECT COUNT(DISTINCT install) FROM a WHERE day >= ?4) AS period,
+        (SELECT COUNT(DISTINCT install) FROM a WHERE day >= ?5 AND day < ?4) AS periodBefore,
+        (SELECT COUNT(DISTINCT install) FROM p WHERE day >= ?4 AND opened) AS opened,
+        (SELECT COUNT(DISTINCT install) FROM p WHERE day < ?4 AND opened) AS openedBefore,
+        (SELECT COUNT(DISTINCT install) FROM p WHERE day >= ?4 AND amen) AS amen,
+        (SELECT COUNT(DISTINCT install) FROM p WHERE day < ?4 AND amen) AS amenBefore,
+        (SELECT COUNT(DISTINCT install) FROM a) AS ever`,
     newcomers: `${scoped}, f AS (SELECT install, MIN(day) AS first FROM a GROUP BY install)
       SELECT SUM(first >= ?4) AS period, SUM(first >= ?5 AND first < ?4) AS before FROM f`,
-    // Each day of the period: who was there, who was new, who prayed, and who had been there
-    // in the seven days up to it.
-    daily: `${scoped},
+    // Each day of the period: who was there, who was new, who opened a prayer, who said Amen.
+    daily: `${scoped}, ${prayer},
       f AS (SELECT install, MIN(day) AS first FROM a GROUP BY install),
       d AS (SELECT DISTINCT day FROM a WHERE day >= ?4)
       SELECT d.day,
         (SELECT COUNT(DISTINCT install) FROM a WHERE a.day = d.day) AS active,
-        (SELECT COUNT(DISTINCT install) FROM a WHERE a.day = d.day AND name IN ${prayed})
-          AS praying,
+        (SELECT COUNT(*) FROM p WHERE p.day = d.day AND opened) AS opened,
+        (SELECT COUNT(*) FROM p WHERE p.day = d.day AND amen) AS amen,
         (SELECT COUNT(*) FROM f WHERE first = d.day) AS new,
-        (SELECT COUNT(DISTINCT install) FROM a
-          WHERE a.day > date(d.day, '-7 days') AND a.day <= d.day) AS week,
         (SELECT COUNT(*) FROM a WHERE a.day = d.day AND name = 'app_opened') AS opens
       FROM d ORDER BY d.day`,
     // Weekly cohorts by first day seen, and for each, how many came back in each week after.
@@ -70,13 +73,23 @@ export async function loadUsage(db: D1Database, filter: UsageFilter): Promise<Us
       FROM a JOIN f USING (install)
       WHERE f.first > date(?3, '-84 days')
       GROUP BY cohort, week ORDER BY cohort, week`,
-    // Of the installs seen in the last 28 days, on how many of those days each prayed.
-    habit: `${scoped},
-      seen AS (SELECT DISTINCT install FROM a WHERE day > date(?3, '-28 days')),
-      p AS (SELECT install, COUNT(DISTINCT day) AS days FROM a
-        WHERE day > date(?3, '-28 days') AND name IN ${prayed} GROUP BY install)
-      SELECT COALESCE(p.days, 0) AS days, COUNT(*) AS installs
-      FROM seen LEFT JOIN p USING (install) GROUP BY 1 ORDER BY 1`,
+    // Of the installs seen in the period, on how many of its days each opened a prayer, and on
+    // how many each said Amen.
+    habit: `${scoped}, ${prayer},
+      seen AS (SELECT DISTINCT install FROM a WHERE day >= ?4),
+      c AS (SELECT install, SUM(opened) AS opened, SUM(amen) AS amen FROM p
+        WHERE day >= ?4 GROUP BY install)
+      SELECT 'opened' AS what, COALESCE(c.opened, 0) AS days, COUNT(*) AS installs
+        FROM seen LEFT JOIN c USING (install) GROUP BY 2
+      UNION ALL SELECT 'amen', COALESCE(c.amen, 0), COUNT(*)
+        FROM seen LEFT JOIN c USING (install) GROUP BY 2`,
+    // Where an opened prayer stops short of its Amen: by the day, and by the install.
+    unfinished: `${scoped}, ${prayer}
+      SELECT COALESCE(SUM(opened), 0) AS openedDays,
+        COALESCE(SUM(opened AND amen), 0) AS amenDays,
+        (SELECT COUNT(*) FROM (SELECT install FROM p WHERE day >= ?4 GROUP BY install
+          HAVING MAX(opened) = 1 AND MAX(amen) = 0)) AS neverAmen
+      FROM p WHERE day >= ?4`,
     // One pass over the counts that name a practice: finished in the period, finished in the one
     // before, and opened on the prayer's own screen.
     practices: `${scoped},
@@ -111,8 +124,8 @@ export async function loadUsage(db: D1Database, filter: UsageFilter): Promise<Us
       SELECT name, COUNT(*) AS times, COUNT(DISTINCT install) AS installs
       FROM a WHERE name NOT IN ('screen', 'app_opened') AND day >= ?4
       GROUP BY name ORDER BY installs DESC, times DESC`,
-    // Who the installs of the last seven days are.
-    audience: `${scoped}, w AS (SELECT * FROM a WHERE day > date(?3, '-7 days'))
+    // Who the installs of the period are.
+    audience: `${scoped}, w AS (SELECT * FROM a WHERE day >= ?4)
       SELECT 'platform' AS facet, platform AS value, COUNT(DISTINCT install) AS installs
         FROM w GROUP BY 2
       UNION ALL SELECT 'language', language, COUNT(DISTINCT install) FROM w GROUP BY 2
@@ -135,6 +148,7 @@ export async function loadUsage(db: D1Database, filter: UsageFilter): Promise<Us
     daily: rows.daily as Usage['daily'],
     cohorts: rows.cohorts as Usage['cohorts'],
     habit: rows.habit as Usage['habit'],
+    unfinished: rows.unfinished[0] as Usage['unfinished'],
     practices: rows.practices as Usage['practices'],
     books: rows.books as Usage['books'],
     hours: rows.hours as Usage['hours'],

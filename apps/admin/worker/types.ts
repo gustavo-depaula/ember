@@ -96,25 +96,26 @@ export type Usage = {
   pulse: {
     today: number
     yesterday: number
-    week: number
-    weekBefore: number
-    month: number
-    monthBefore: number
-    prayingWeek: number
-    prayingWeekBefore: number
+    period: number
+    periodBefore: number
+    opened: number
+    openedBefore: number
+    amen: number
+    amenBefore: number
     ever: number
   }
   newcomers: { period: number; before: number }
   daily: {
     day: string
     active: number
-    praying: number
+    opened: number
+    amen: number
     new: number
-    week: number
     opens: number
   }[]
   cohorts: { cohort: string; week: number; installs: number }[]
-  habit: { days: number; installs: number }[]
+  habit: { what: 'opened' | 'amen'; days: number; installs: number }[]
+  unfinished: { openedDays: number; amenDays: number; neverAmen: number }
   practices: { id: string; times: number; installs: number; before: number; opened?: number }[]
   books: { id: string; installs: number; sittings: number; minutes: number }[]
   hours: { weekday: number; hour: number; times: number }[]

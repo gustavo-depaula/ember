@@ -4,8 +4,8 @@ import type { Usage, UsageFilter } from '../../worker/types'
 import { Change, DayChart, Meter, shade } from './charts'
 
 // How Ember is used, from the counts installs send (lib/usage.ts in the app). It answers, in
-// order: is anyone here, do they come back, do they pray, what do they pray and read and when,
-// who they are, and how many keep an account.
+// order: is anyone here, do they come back, do they open a prayer and do they reach its Amen,
+// what do they pray and read and when, who they are, and how many keep an account.
 
 async function fetchUsage(filter: UsageFilter): Promise<Usage> {
   const query = new URLSearchParams({
@@ -42,7 +42,6 @@ export function UsagePage() {
     <div className="usage">
       <header className="top">
         <h1>Usage</h1>
-        <a href="/">Mass times desk</a>
         <span className="spacer" />
         <div className="segmented">
           {[7, 28, 90].map((days) => (
@@ -71,35 +70,37 @@ export function UsagePage() {
       {(() => {
         if (usage.error) return <p className="error usage-body">{usage.error.message}</p>
         if (!usage.data) return <p className="muted usage-body">Reading the counts…</p>
-        return <Body usage={usage.data} />
+        // Until the counts for a new filter arrive the old ones stay, dimmed.
+        return <Body usage={usage.data} stale={usage.isPlaceholderData} />
       })()}
     </div>
   )
 }
 
-function Body({ usage }: { usage: Usage }) {
+function Body({ usage, stale }: { usage: Usage; stale: boolean }) {
   const { pulse, newcomers, daily } = usage
   const days = usage.filter.days
   return (
-    <div className="usage-body">
+    <div className={`usage-body${stale ? ' usage-body--stale' : ''}`}>
       <section>
         <h2>Pulse · up to {usage.today}</h2>
         <div className="tiles">
           <Tile label="Today" value={pulse.today}>
             <Change now={pulse.today} before={pulse.yesterday} /> on yesterday
           </Tile>
-          <Tile label="Last 7 days" value={pulse.week}>
-            <Change now={pulse.week} before={pulse.weekBefore} /> on the 7 before
+          <Tile label={`Last ${days} days`} value={pulse.period}>
+            <Change now={pulse.period} before={pulse.periodBefore} /> on the {days} before
           </Tile>
-          <Tile label="Last 28 days" value={pulse.month}>
-            <Change now={pulse.month} before={pulse.monthBefore} /> on the 28 before
+          <Tile label="Opened a prayer" value={pulse.opened}>
+            {percent(pulse.opened, pulse.period)} of the {days} days' ·{' '}
+            <Change now={pulse.opened} before={pulse.openedBefore} />
           </Tile>
-          <Tile label="Prayed this week" value={pulse.prayingWeek}>
-            {percent(pulse.prayingWeek, pulse.week)} of the week's ·{' '}
-            <Change now={pulse.prayingWeek} before={pulse.prayingWeekBefore} />
+          <Tile label="Said Amen" value={pulse.amen}>
+            {percent(pulse.amen, pulse.period)} of the {days} days' ·{' '}
+            <Change now={pulse.amen} before={pulse.amenBefore} />
           </Tile>
-          <Tile label="Stickiness" value={percent(pulse.today, pulse.month)}>
-            today's share of the month's
+          <Tile label="Stickiness" value={percent(pulse.today, pulse.period)}>
+            today's share of the {days} days'
           </Tile>
           <Tile label={`New in ${days} days`} value={newcomers.period}>
             <Change now={newcomers.period} before={newcomers.before} /> · {pulse.ever} ever
@@ -112,8 +113,8 @@ function Body({ usage }: { usage: Usage }) {
         <DayChart
           days={daily.map((d) => d.day)}
           bars={{ values: daily.map((d) => d.active), label: 'opened Ember' }}
-          line={{ values: daily.map((d) => d.praying), label: 'prayed' }}
-          dashed={{ values: daily.map((d) => d.week), label: 'seen in the 7 days up to it' }}
+          line={{ values: daily.map((d) => d.opened), label: 'opened a prayer' }}
+          dashed={{ values: daily.map((d) => d.amen), label: 'said Amen' }}
         />
         <div className="pair">
           <DayChart
@@ -132,10 +133,9 @@ function Body({ usage }: { usage: Usage }) {
         </div>
       </section>
 
-      <div className="columns">
-        <Cohorts usage={usage} />
-        <Habit usage={usage} />
-      </div>
+      <Cohorts usage={usage} />
+
+      <Praying usage={usage} />
 
       <Practices usage={usage} />
 
@@ -206,6 +206,7 @@ function Cohorts({ usage }: { usage: Usage }) {
       <h2>Do they come back?</h2>
       <p className="lede">
         Installs by the week they first opened Ember, and the share seen again each week after.
+        Always the last twelve weeks, whatever the period.
       </p>
       <table className="cohorts">
         <thead>
@@ -247,47 +248,98 @@ function Cohorts({ usage }: { usage: Usage }) {
   )
 }
 
-// The prayer app's own measure: of those here this month, on how many days each prayed.
-function Habit({ usage }: { usage: Usage }) {
-  const bands = [
-    { label: 'Not at all', from: 0, to: 0 },
-    { label: '1 day', from: 1, to: 1 },
-    { label: '2–3 days', from: 2, to: 3 },
-    { label: '4–7 days', from: 4, to: 7 },
-    { label: '8–14 days', from: 8, to: 14 },
-    { label: '15–21 days', from: 15, to: 21 },
-    { label: '22–28 days', from: 22, to: 28 },
-  ].map((band) => ({
-    ...band,
-    installs: usage.habit
-      .filter((h) => h.days >= band.from && h.days <= band.to)
-      .reduce((sum, h) => sum + h.installs, 0),
-  }))
-  const total = bands.reduce((sum, b) => sum + b.installs, 0)
-  const faithful = bands.filter((b) => b.from >= 8).reduce((sum, b) => sum + b.installs, 0)
-  const top = Math.max(1, ...bands.map((b) => b.installs))
+const habitBands = [
+  [0, 0],
+  [1, 1],
+  [2, 3],
+  [4, 7],
+  [8, 14],
+  [15, 21],
+  [22, 28],
+  [29, 60],
+  [61, 90],
+] as const
+
+// The prayer app's own measure, as two: on how many days of the period each install opened a
+// prayer, and on how many it tapped the Amen at the end. The gap between them is prayer the
+// Amen never recorded, or prayer left unfinished.
+function Praying({ usage }: { usage: Usage }) {
+  const { pulse, unfinished } = usage
+  const days = usage.filter.days
   return (
     <section>
-      <h2>Do they pray?</h2>
+      <h2>Do they pray? · {days} days</h2>
       <p className="lede">
-        Of the {total} installs seen in the last 28 days, how many days each prayed.{' '}
-        <strong>{percent(faithful, total)}</strong> prayed on 8 days or more, about twice a week.
+        Of the {pulse.period} installs seen, <strong>{pulse.opened}</strong> opened a prayer and{' '}
+        <strong>{pulse.amen}</strong> said Amen at its end. <strong>{unfinished.neverAmen}</strong>{' '}
+        opened one and never said Amen; of the {unfinished.openedDays} days on which someone opened
+        a prayer, <strong>{percent(unfinished.amenDays, unfinished.openedDays)}</strong> ended in an
+        Amen.
       </p>
-      <table className="ranked">
-        <tbody>
-          {bands.map((band) => (
-            <tr key={band.label}>
-              <td>{band.label}</td>
-              <td className="wide">
-                <Meter value={band.installs} of={top} />
-              </td>
-              <td className="num">{band.installs}</td>
-              <td className="num muted">{percent(band.installs, total)}</td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
+      <div className="columns">
+        <Habit usage={usage} what="opened" heading="Opened a prayer" />
+        <Habit usage={usage} what="amen" heading="Said Amen" />
+      </div>
+      <p className="muted">
+        Amen is the button that ends the prayer screen; a tick on the plan and a Mass check-in are
+        neither. Builds that don't yet say which it was count a completion as an Amen on a day the
+        install opened a prayer.
+      </p>
     </section>
+  )
+}
+
+function Habit({
+  usage,
+  what,
+  heading,
+}: {
+  usage: Usage
+  what: 'opened' | 'amen'
+  heading: string
+}) {
+  const period = usage.filter.days
+  const counts = usage.habit.filter((h) => h.what === what)
+  const bands = habitBands
+    .filter(([from]) => from <= period)
+    .map(([from, to]) => {
+      const last = Math.min(to, period)
+      return {
+        label: (() => {
+          if (from === 0) return 'Not at all'
+          if (from === 1) return '1 day'
+          return `${from}–${last} days`
+        })(),
+        installs: counts
+          .filter((h) => h.days >= from && h.days <= last)
+          .reduce((sum, h) => sum + h.installs, 0),
+      }
+    })
+  const total = bands.reduce((sum, b) => sum + b.installs, 0)
+  const top = Math.max(1, ...bands.map((b) => b.installs))
+  return (
+    <table className="ranked">
+      <thead>
+        <tr>
+          <th>{heading}</th>
+          <th className="wide" />
+          <th className="num">Installs</th>
+          <th className="num" />
+        </tr>
+      </thead>
+      <tbody>
+        {bands.map((band) => (
+          <tr key={band.label}>
+            <td>{band.label}</td>
+            <td className="wide">
+              <Meter value={band.installs} of={top} />
+            </td>
+            <td className="num">{band.installs}</td>
+            <td className="num muted">{percent(band.installs, total)}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
   )
 }
 
@@ -297,8 +349,9 @@ function Practices({ usage }: { usage: Usage }) {
     <section>
       <h2>What is prayed · {usage.filter.days} days</h2>
       <p className="lede">
-        By installs that finished it at least once. <em>Finished</em> is the share of installs that
-        opened the prayer and reached its end; <em>change</em> compares with the period before.
+        By installs that marked it done at least once, by Amen or by a tick. <em>Finished</em> is
+        the share of installs that opened the prayer and marked it done; <em>change</em> compares
+        with the period before.
       </p>
       <table className="ranked">
         <thead>
@@ -419,7 +472,7 @@ const facets = [
 function Audience({ usage }: { usage: Usage }) {
   return (
     <section>
-      <h2>Who · last 7 days</h2>
+      <h2>Who · {usage.filter.days} days</h2>
       {facets.map(([facet, label]) => {
         const rows = usage.audience
           .filter((a) => a.facet === facet)

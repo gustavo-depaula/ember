@@ -1,9 +1,8 @@
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import { App } from './App'
+import { Shell } from './Shell'
 import './styles.css'
-import { UsagePage } from './usage/UsagePage'
 
 // The desk's data is pushed over the event stream, so a query never goes stale on its own.
 const queryClient = new QueryClient({
@@ -16,7 +15,7 @@ if (!root) throw new Error('index.html has no #root')
 createRoot(root).render(
   <StrictMode>
     <QueryClientProvider client={queryClient}>
-      {location.pathname.startsWith('/usage') ? <UsagePage /> : <App />}
+      <Shell />
     </QueryClientProvider>
   </StrictMode>,
 )

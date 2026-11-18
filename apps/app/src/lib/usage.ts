@@ -46,11 +46,14 @@ export function corpusRef(value: unknown): string | undefined {
 function named(event: AppEvent): Record<string, string> | undefined {
   const fields = event as { practiceId?: unknown; bookId?: unknown; itemId?: unknown }
   const id = [fields.practiceId, fields.bookId, fields.itemId].map(corpusRef).find(Boolean)
-  if (!id) return undefined
+  // How a practice was marked done: the Amen that ends its prayer, a tick on the plan, a Mass
+  // check-in. Only the first is praying in Ember, and the counts are read apart by it.
+  const via = event.type === 'CompletionLogged' && event.via ? { via: event.via } : undefined
+  if (!id) return via
   if (event.type === 'ReadingLogged' && event.ms > 0) {
     return { id, minutes: String(Math.round(event.ms / 60_000)) }
   }
-  return { id }
+  return { id, ...via }
 }
 
 // Which update the app runs, so the reach of each one shows.

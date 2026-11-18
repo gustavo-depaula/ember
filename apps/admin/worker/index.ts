@@ -3,7 +3,6 @@ import { Hono } from 'hono'
 import { identify } from './access'
 import { createDesk, issues, message } from './desk'
 import type { Env } from './env'
-import { reviewer } from './reviewer'
 import type { Seen } from './types'
 import { loadUsage } from './usage'
 
@@ -40,13 +39,9 @@ const desk = (c: { env: Env; req: { url: string } }) =>
 app.get('/desk', async (c) => c.json(await desk(c).load()))
 app.post('/refresh', async (c) => c.json(await desk(c).load()))
 
-app.get('/progress', async (c) => {
-  const progress = await desk(c).progress()
-  // Someone is watching reviews run, so the box running them stays up.
-  const working = Object.values(progress.runs).some((run) => run.status !== 'failed')
-  if (working) c.executionCtx.waitUntil(reviewer(c.env).fetch('http://reviewer/ping'))
-  return c.json(progress)
-})
+// Read from D1 alone. The page polls this, and a poll must never reach the reviewer's box: any
+// request to it restarts the clock it sleeps by.
+app.get('/progress', async (c) => c.json(await desk(c).progress()))
 
 app.get('/photos/:churchId/:key', (c) =>
   desk(c).photoResponse(c.req.param('churchId'), c.req.param('key')),

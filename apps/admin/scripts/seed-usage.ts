@@ -94,6 +94,8 @@ for (let n = 0; n < 700; n++) {
     if (random() < 0.5) add('app_opened', 12, { start: 'warm' })
     if (random() < 0.6) add('app_opened', evening, { start: 'warm' })
     for (const id of new Set(kept)) {
+      // Not every practice is kept every day, and some days none is.
+      if (random() < 0.3) continue
       const hour =
         id === 'practice/examination-conscience'
           ? evening + 1
@@ -101,9 +103,12 @@ for (let n = 0; n < 700; n++) {
             ? 12
             : pick([morning, evening])
       add('screen', hour, { route: '/pray/[practiceId]', id })
-      // Some are opened and left.
-      if (random() < 0.82) add('CompletionLogged', hour, { id })
+      // Some are opened and left. Builds before 1.1.0 don't say how a completion was made.
+      const via = version === '1.0.0' ? {} : { via: 'amen' }
+      if (random() < 0.7) add('CompletionLogged', hour, { id, ...via })
     }
+    // A tick on the plan, with no prayer opened.
+    if (random() < 0.12) add('CompletionLogged', morning, { id: weighted(), via: 'checklist' })
     if (random() < 0.15) add('screen', evening, { route: '/pray/[practiceId]', id: weighted() })
     if (random() < 0.4) add('screen', morning, { route: pick(routes) })
     if (reader && random() < 0.5) {

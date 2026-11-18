@@ -199,10 +199,55 @@ textarea {
 
 /* Frame */
 
+/* The desks down the side, the open one beside them. Each desk scrolls inside its own page. */
+.shell {
+  display: grid;
+  grid-template-columns: 176px minmax(0, 1fr);
+  height: 100dvh;
+}
+
+.rail {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 14px 10px;
+  background: var(--panel);
+  border-right: 1px solid var(--border);
+}
+
+.rail-name {
+  padding: 0 10px 12px;
+  font: 400 17px var(--display);
+  letter-spacing: 0.06em;
+}
+
+.rail a {
+  padding: 7px 10px;
+  border-radius: 8px;
+  color: var(--text-2);
+  text-decoration: none;
+  transition: background 120ms ease;
+}
+
+.rail a:hover {
+  background: var(--hover);
+}
+
+.rail a.on {
+  background: var(--selected);
+  color: var(--text);
+  font-weight: 600;
+}
+
+.shell-page {
+  min-width: 0;
+  overflow-y: auto;
+}
+
 .desk {
   display: grid;
   grid-template: auto 1fr / 300px 1fr;
-  height: 100dvh;
+  height: 100%;
 }
 
 .top {
@@ -893,6 +938,25 @@ button.reject:not(:disabled) {
     font-size: 16px;
   }
 
+  /* On a phone the rail lies along the top. */
+  .shell {
+    grid-template: auto minmax(0, 1fr) / minmax(0, 1fr);
+  }
+
+  .rail {
+    flex-direction: row;
+    align-items: center;
+    gap: 4px;
+    padding: 8px 14px;
+    border-right: 0;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .rail-name {
+    padding: 0 8px 0 0;
+    font-size: 15px;
+  }
+
   .desk {
     grid-template: auto 1fr / minmax(0, 1fr);
   }
@@ -1097,6 +1161,11 @@ button.reject:not(:disabled) {
   max-width: 1240px;
   margin: 0 auto;
   padding: 24px 24px 60px;
+}
+
+.usage-body--stale {
+  opacity: 0.45;
+  transition: opacity 150ms ease 200ms;
 }
 
 .usage-body section {
