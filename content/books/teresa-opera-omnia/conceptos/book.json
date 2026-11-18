@@ -19,7 +19,8 @@
   "composed": "1571–1574",
   "languages": [
     "es-ES",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "teresa-of-avila/conceptos",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "Benedictines of Stanbrook",
       "year": 1913
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -62,56 +68,64 @@
       "id": "prologo",
       "title": {
         "es-ES": "Prólogo",
-        "en-US": "Prologue"
+        "en-US": "Prologue",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "c01",
       "title": {
         "es-ES": "Capítulo I",
-        "en-US": "Chapter I"
+        "en-US": "Chapter I",
+        "pt-BR": "Capítulo I"
       }
     },
     {
       "id": "c02",
       "title": {
         "es-ES": "Capítulo II",
-        "en-US": "Chapter II"
+        "en-US": "Chapter II",
+        "pt-BR": "Capítulo II"
       }
     },
     {
       "id": "c03",
       "title": {
         "es-ES": "Capítulo III",
-        "en-US": "Chapter III"
+        "en-US": "Chapter III",
+        "pt-BR": "Capítulo III"
       }
     },
     {
       "id": "c04",
       "title": {
         "es-ES": "Capítulo IV",
-        "en-US": "Chapter IV"
+        "en-US": "Chapter IV",
+        "pt-BR": "Capítulo IV"
       }
     },
     {
       "id": "c05",
       "title": {
         "es-ES": "Capítulo V",
-        "en-US": "Chapter V"
+        "en-US": "Chapter V",
+        "pt-BR": "Capítulo V"
       }
     },
     {
       "id": "c06",
       "title": {
         "es-ES": "Capítulo VI",
-        "en-US": "Chapter VI"
+        "en-US": "Chapter VI",
+        "pt-BR": "Capítulo VI"
       }
     },
     {
       "id": "c07",
       "title": {
         "es-ES": "Capítulo VII",
-        "en-US": "Chapter VII"
+        "en-US": "Chapter VII",
+        "pt-BR": "Capítulo VII"
       }
     }
   ]
