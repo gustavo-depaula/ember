@@ -1,0 +1,23 @@
+# Carta MCDII. À Irmã de Blonay, Mestra de Noviças na Visitação de Lyon
+
+*A fé na Providência no meio das securas espirituais. – Que exame é preciso fazer. – O grande ato de amor de Nosso Senhor na cruz. – Proveito que devemos tirar das nossas imperfeições. – Viver alegre sob o olhar de Deus. – Saudações paternas.*
+
+Annecy, 18 de fevereiro de 1618.
+
+Ter-me-ia sido uma consolação sem par ver-vos a todas de passagem, mas, não o tendo Deus querido, detenho-me nisso; e, entretanto, minha caríssima Filha, de muito bom grado leio as vossas cartas e lhes respondo.
+
+Ó Nossa Senhora! minha caríssima Filha, se Nosso Senhor pensa em vós e se vos olha com amor? Sim, minha caríssima Filha, ele pensa em vós, e não somente em vós, mas no menor cabelo da vossa cabeça
+
+( Mateus 10:30; Lucas 21:18 ): é um artigo de fé, e não se deve de modo algum duvidar disso. Mas sei bem também que não duvidais, antes somente exprimis assim a aridez, secura e insensibilidade em que a porção inferior da vossa alma se encontra agora. Verdadeiramente, Deus está neste lugar, e eu não o sabia, dizia Jacó ( Gênesis 28:16 ); isto é, eu não o percebia, não tinha disso nenhum sentimento, não me parecia. Falei disto no livro do Amor de Deus, tratando da morte da vontade e das resignações; não me lembro em que Livro ( TAD 9, cap. 3-11-13 ).
+
+E que Deus vos olha com amor, não tendes nenhum motivo para duvidar; pois ele olha amorosamente os mais horríveis pecadores do mundo, por pouco verdadeiro desejo que tenham de se converter. E dizei-me, minha caríssima Filha, não tendes intenção de ser de Deus? Não quereríeis servi-lo fielmente? E quem vos dá este desejo e esta intenção, senão ele mesmo no seu olhar amoroso? Examinar se o vosso coração lhe agrada, não se deve fazer, mas sim se o coração dele vos agrada; e, se olhardes o seu coração, será impossível que não vos agrade, pois é um coração tão doce, tão suave, tão condescendente, tão amoroso das pobres criaturas, contanto que reconheçam a sua miséria, tão benigno para com os miseráveis, tão bom para com os penitentes! E quem não amaria este coração real, paternalmente maternal para conosco?
+
+Dizeis bem, minha caríssima Filha, que estas tentações vos sobrevêm porque o vosso coração está sem ternura para com Deus; pois é verdade que, se tivésseis ternura, teríeis consolação, e, se tivésseis consolação, já não estaríeis em pena. Mas, minha Filha, o amor de Deus não consiste em consolação nem em ternura; de outro modo, Nosso Senhor não teria amado o seu Pai quando estava triste até a morte ( Mateus 26:38 ) e clamava: Meu Pai, meu Pai, por que me abandonaste ( Mateus 27:46 )? E era então, contudo, que fazia o maior ato de amor que é possível imaginar.
+
+Em suma, quereríamos sempre ter um pouco de consolação e de açúcar sobre os nossos alimentos, isto é, ter o sentimento do amor e a ternura, e por conseguinte a consolação. E igualmente quereríamos bem estar sem imperfeições; mas, minha caríssima Filha, é preciso ter paciência de ser da natureza humana e não da angélica. As nossas imperfeições não nos devem agradar, antes devemos dizer com o santo Apóstolo ( Romanos 7:24 ): Ó miserável de mim! quem me livrará do corpo desta morte? mas elas não nos devem nem espantar nem tirar a coragem. Devemos, na verdade, tirar delas a submissão, a humildade e a desconfiança de nós mesmos; mas não o desânimo nem a aflição do coração, e muito menos a desconfiança do amor de Deus para conosco; pois assim Deus não ama as nossas imperfeições e pecados veniais, mas ama-nos bem, não obstante eles. Assim como a fraqueza e a enfermidade da criança desagradam à sua mãe, e, no entanto, não somente ela não deixa por isso de a amar, mas a ama ternamente e com compaixão, do mesmo modo, embora Deus não ame as nossas imperfeições e pecados veniais, não deixa de nos amar ternamente; de sorte que Davi teve razão de dizer a nosso Senhor ( Salmos 6:3 ): Tem misericórdia, Senhor, porque sou enfermo.
+
+Ora bem, basta, minha caríssima Filha. Vivei alegre: Nosso Senhor vos olha, e vos olha com amor, e com tanto mais ternura quanto mais fraqueza tendes. Nunca permitais ao vosso espírito nutrir voluntariamente pensamentos contrários; e, quando vos sobrevierem, não os olheis em si mesmos, desviai os vossos olhos da sua iniquidade e voltai-vos para Deus com uma corajosa humildade, para lhe falar da sua bondade inefável, pela qual ele ama a nossa mesquinha, pobre e abjeta natureza humana, não obstante as suas enfermidades.
+
+Rogai pela minha alma, minha querida Filha, e recomendai-me às vossas queridas filhas noviças, que conheço todas, exceto minha Irmã Colin. Sou inteiramente vosso em Nosso Senhor, que viva para sempre em nossos corações. Amém.
+
+Annecy, XVIII de fevereiro de 1618.
