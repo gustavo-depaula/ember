@@ -1,0 +1,31 @@
+{
+  "name": {
+    "en-US": "A.-D. Sertillanges",
+    "pt-BR": "A.-D. Sertillanges"
+  },
+  "century": 20,
+  "matches": [
+    "A.-D. Sertillanges",
+    "A.-D. Sertillanges, O.P.",
+    "Antonin-Dalmace Sertillanges",
+    "Antonin-Gilbert Sertillanges",
+    "Sertillanges"
+  ],
+  "guide": [
+    {
+      "title": {
+        "en-US": "Start here",
+        "pt-BR": "Comece por aqui"
+      },
+      "works": [
+        {
+          "work": "sertillanges/vie-intellectuelle",
+          "why": {
+            "en-US": "His classic on the spirit, conditions and methods of intellectual work",
+            "pt-BR": "Seu clássico sobre o espírito, as condições e os métodos do trabalho intelectual"
+          }
+        }
+      ]
+    }
+  ]
+}
