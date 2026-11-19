@@ -12,17 +12,23 @@
   },
   "description": {
     "en-US": "Twenty-four letters and instructions of St. Ignatius, 1524–1547, chosen for their spiritual interest and translated from the Spanish edition of the Cartas by D. F. O'Leary, edited with notes by A. Goodier, S.J. (1914), with the editor's endnotes. Only this first volume of the English selection appeared.",
-    "pt-BR": "Vinte e quatro cartas e instruções de Santo Inácio, de 1524 a 1547, escolhidas por seu interesse espiritual e traduzidas por D. F. O'Leary, com notas de A. Goodier, S.J. (1914)."
+    "pt-BR": "Vinte e quatro cartas e instruções de Santo Inácio, de 1524 a 1547, escolhidas por seu interesse espiritual e traduzidas da edição espanhola das Cartas por D. F. O'Leary, editadas com notas por A. Goodier, S.J. (1914), incluindo as notas finais do editor. Publicou-se apenas este primeiro volume da seleção inglesa."
   },
   "composed": "1524–1547",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "ignatius-of-loyola/cartas",
   "editions": {
     "en-US": {
       "translator": "D. F. O'Leary (selected and edited with notes by A. Goodier, S.J.)",
       "year": 1914
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -39,157 +45,183 @@
     {
       "id": "preface",
       "title": {
-        "en-US": "Preface and Introduction"
+        "en-US": "Preface and Introduction",
+        "pt-BR": "Prefácio e introdução"
       }
     },
     {
       "id": "letter-01",
       "title": {
-        "en-US": "Letter I. To Inés Pascual"
+        "en-US": "Letter I. To Inés Pascual",
+        "pt-BR": "Carta I. A Inés Pascual"
       }
     },
     {
       "id": "letter-02",
       "title": {
-        "en-US": "Letter II. To Inés Pascual"
+        "en-US": "Letter II. To Inés Pascual",
+        "pt-BR": "Carta II. A Inés Pascual"
       }
     },
     {
       "id": "letter-03",
       "title": {
-        "en-US": "Letter III. To Martín García de Oñaz"
+        "en-US": "Letter III. To Martín García de Oñaz",
+        "pt-BR": "Carta III. A Martín García de Oñaz"
       }
     },
     {
       "id": "letter-04",
       "title": {
-        "en-US": "Letter IV. To Jaime Cazador"
+        "en-US": "Letter IV. To Jaime Cazador",
+        "pt-BR": "Carta IV. A Jaime Cazador"
       }
     },
     {
       "id": "letter-05",
       "title": {
-        "en-US": "Letter V. To Teresa Rejadella"
+        "en-US": "Letter V. To Teresa Rejadella",
+        "pt-BR": "Carta V. A Teresa Rejadella"
       }
     },
     {
       "id": "letter-06",
       "title": {
-        "en-US": "Letter VI. To Teresa Rejadella"
+        "en-US": "Letter VI. To Teresa Rejadella",
+        "pt-BR": "Carta VI. A Teresa Rejadella"
       }
     },
     {
       "id": "letter-07",
       "title": {
-        "en-US": "Letter VII. To Giovanni Pietro Caraffa"
+        "en-US": "Letter VII. To Giovanni Pietro Caraffa",
+        "pt-BR": "Carta VII. A Giovanni Pietro Caraffa"
       }
     },
     {
       "id": "letter-08",
       "title": {
-        "en-US": "Letter VIII. To Juan de Verdolay"
+        "en-US": "Letter VIII. To Juan de Verdolay",
+        "pt-BR": "Carta VIII. A Juan de Verdolay"
       }
     },
     {
       "id": "letter-09",
       "title": {
-        "en-US": "Letter IX. To Pietro Contarini"
+        "en-US": "Letter IX. To Pietro Contarini",
+        "pt-BR": "Carta IX. A Pietro Contarini"
       }
     },
     {
       "id": "letter-10",
       "title": {
-        "en-US": "Letter X. To the Citizens of Azpeitia"
+        "en-US": "Letter X. To the Citizens of Azpeitia",
+        "pt-BR": "Carta X. Aos cidadãos de Azpeitia"
       }
     },
     {
       "id": "letter-11",
       "title": {
-        "en-US": "Letter XI. To Magdalena de Loyola"
+        "en-US": "Letter XI. To Magdalena de Loyola",
+        "pt-BR": "Carta XI. A Magdalena de Loyola"
       }
     },
     {
       "id": "letter-12",
       "title": {
-        "en-US": "Letter XII. To Fathers Broet and Salmerón"
+        "en-US": "Letter XII. To Fathers Broet and Salmerón",
+        "pt-BR": "Carta XII. Aos padres Broët e Salmerón"
       }
     },
     {
       "id": "letter-13",
       "title": {
-        "en-US": "Letter XIII. Further Instructions to the Same Legates"
+        "en-US": "Letter XIII. Further Instructions to the Same Legates",
+        "pt-BR": "Carta XIII. Novas instruções aos mesmos legados"
       }
     },
     {
       "id": "letter-14",
       "title": {
-        "en-US": "Letter XIV. To Fathers Broet and Salmerón"
+        "en-US": "Letter XIV. To Fathers Broet and Salmerón",
+        "pt-BR": "Carta XIV. Aos padres Broët e Salmerón"
       }
     },
     {
       "id": "letter-15",
       "title": {
-        "en-US": "Letter XV. To Giovanni Battista Viola"
+        "en-US": "Letter XV. To Giovanni Battista Viola",
+        "pt-BR": "Carta XV. A Giovanni Battista Viola"
       }
     },
     {
       "id": "letter-16",
       "title": {
-        "en-US": "Letter XVI. To Teresa Rejadella"
+        "en-US": "Letter XVI. To Teresa Rejadella",
+        "pt-BR": "Carta XVI. A Teresa Rejadella"
       }
     },
     {
       "id": "letter-17",
       "title": {
-        "en-US": "Letter XVII. To a Man Tempted"
+        "en-US": "Letter XVII. To a Man Tempted",
+        "pt-BR": "Carta XVII. A um homem tentado"
       }
     },
     {
       "id": "letter-18",
       "title": {
-        "en-US": "Letter XVIII. To the Jesuits Banished from Cologne"
+        "en-US": "Letter XVIII. To the Jesuits Banished from Cologne",
+        "pt-BR": "Carta XVIII. Aos jesuítas expulsos de Colônia"
       }
     },
     {
       "id": "letter-19",
       "title": {
-        "en-US": "Letter XIX. To Francis Borgia"
+        "en-US": "Letter XIX. To Francis Borgia",
+        "pt-BR": "Carta XIX. A Francisco de Borja"
       }
     },
     {
       "id": "letter-20",
       "title": {
-        "en-US": "Letter XX. To the Society at Trent"
+        "en-US": "Letter XX. To the Society at Trent",
+        "pt-BR": "Carta XX. À Companhia em Trento"
       }
     },
     {
       "id": "letter-21",
       "title": {
-        "en-US": "Letter XXI. To Bartholomew Ferronius"
+        "en-US": "Letter XXI. To Bartholomew Ferronius",
+        "pt-BR": "Carta XXI. A Bartolomeu Ferrão"
       }
     },
     {
       "id": "letter-22",
       "title": {
-        "en-US": "Letter XXII. To Francis Borgia, Duke of Gandía"
+        "en-US": "Letter XXII. To Francis Borgia, Duke of Gandía",
+        "pt-BR": "Carta XXII. A Francisco de Borja, duque de Gandía"
       }
     },
     {
       "id": "letter-23",
       "title": {
-        "en-US": "Letter XXIII. To Juan de Polanco"
+        "en-US": "Letter XXIII. To Juan de Polanco",
+        "pt-BR": "Carta XXIII. A Juan de Polanco"
       }
     },
     {
       "id": "letter-24",
       "title": {
-        "en-US": "Letter XXIV. To the Fathers and Brothers at Coimbra"
+        "en-US": "Letter XXIV. To the Fathers and Brothers at Coimbra",
+        "pt-BR": "Carta XXIV. Aos padres e irmãos de Coimbra"
       }
     },
     {
       "id": "notes",
       "title": {
-        "en-US": "Notes"
+        "en-US": "Notes",
+        "pt-BR": "Notas"
       }
     }
   ]
