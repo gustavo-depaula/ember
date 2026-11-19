@@ -1,0 +1,21 @@
+# Carta MDCCLXXXI. À Irmã de Blonay, Assistente encarregada da Visitação de Lyon
+
+*Dificuldade do santo Bispo em se pronunciar a respeito de uma Noviça. - Fazer por sua salvação tudo o que a caridade exige; necessidade de que ela coopere. - Uma questão impossível de resolver inteiramente. - Que é Deus? - Sua presença neste mundo. - Ele é o princípio e a vida de todas as coisas. - Confissão da impotência e do nada do homem.*
+
+Annecy, 25 de abril de 1621.
+
+Não saberia me decidir, minha caríssima Filha, sobre a pergunta que me fazes acerca de minha opinião sobre se convém conservar ou mandar embora essa filha, porque não a conheço suficientemente. Creio, sim, que se poderia dar-lhe ainda algum tempo, umas seis semanas, e dizer-lhe ou mandar dizer abertamente o que se exige de seu espírito e de sua conduta, a fim de que se dedicasse seriamente a adquiri-lo; e, se ela se mostrasse dócil, poder-se-ia conservá-la, pois, verdadeiramente, tem extrema necessidade de permanecer na vida religiosa, já que seu espírito, parece-me, no mundo só poderia correr o risco de muitos desregramentos. Por isso é preciso, por caridade, fazer o que razoavelmente se puder fazer por sua salvação. Mas, se de sua parte ela não cooperar, humilhando-se, submetendo-se, renunciando ao próprio espírito e seguindo o do Instituto ao qual aspira, serão dela o dano e a culpa, somente dela.
+
+Quanto à outra pergunta que me fazes, é impossível responder-lhe inteiramente, não só a mim, mas também aos Anjos e aos Querubins; pois Deus está acima de toda inteligência, e, se houvesse uma inteligência que pudesse compreender ou dizer perfeitamente o que Deus é, seria preciso que essa inteligência fosse Deus, pois seria preciso que fosse infinita em perfeição. Vê, suplico-te, os três primeiros capítulos do 2º Livro do Amor de Deus; mas vê sobretudo o primeiro capítulo, e ainda os capítulos 9, 10, 11, 12, 13, 14 e 15 do 3º Livro do Amor de Deus, pois isso te dará luz suficiente para conceber de algum modo o que é Deus: isto é, aprenderás, tanto quanto é necessário, o que se deve crer a seu respeito.
+
+E eis o que, por ora, posso te dizer sobre isso. Deus é um espírito infinito, que é a causa e o movimento de todas as coisas, no qual e pelo qual tudo é, tudo subsiste e tem seu movimento. Ele é, por conseguinte, invisível em si mesmo, não podendo ser visto senão na humanidade de Nosso Senhor, que uniu à sua Divindade. É infinito, está em toda parte e sustenta tudo por seu poder; nada o encerra para abrangê-lo, mas ele abrange e contém tudo, sem ser contido por coisa alguma. Em suma, minha Filha, assim como nossa alma está em nosso corpo sem que a vejamos, assim Deus está no mundo sem que o vejamos; assim como nossa alma mantém vivo todo o nosso corpo enquanto está nele, assim Deus mantém na existência o mundo inteiro enquanto está nele, e, se o mundo deixasse de estar em Deus, deixaria imediatamente de existir. E assim como, de certo modo, nossa alma está de tal maneira em nosso corpo que não deixa de estar fora de nosso corpo, não estando contida nele, pois vê, entende, ouve e realiza suas operações fora de nosso corpo e além de nosso corpo, assim Deus está de tal maneira no mundo que não deixa de estar fora do mundo e além do mundo e de tudo o que podemos pensar. E, por fim, Deus é o soberano Ser, o princípio e a causa das coisas que são boas, isto é, que não são pecado.
+
+Ó minha Filha, é um abismo! É o Espírito que vivifica tudo, que causa tudo, que conserva tudo, de quem todas as coisas precisam para existir; e ele não precisa de coisa alguma, nunca tendo sido senão infinitíssimo em tudo o que é, e é felicíssimo, não podendo começar a existir nem acabar, porque é eterno e não pode deixar de ser eterno. Só a ele sejam honra e glória. Amém (1 Timóteo 1:17).
+
+Não disse isso para te dizer o que ele é, mas para te fazer compreender tanto melhor que não o posso nem sei dizer, e que nada sei senão confessar que sou um verdadeiro nada diante dele (Salmos 38:6), a quem adoro muito profundamente, como também a humanidade de nosso Salvador, à qual se uniu, a fim de que nela possamos nos aproximar dele e vê-lo com nossos sentidos e sentimentos no Céu, e com nossos corações e nossos corpos aqui na terra, no divino Sacramento da Eucaristia. Amém.
+
+………………………………………………………………………….
+
+FRANCISCO, B. de Genebra,
+
+25 de abril de 1621, Annecy.
