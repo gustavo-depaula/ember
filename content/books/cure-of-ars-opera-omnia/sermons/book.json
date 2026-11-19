@@ -17,13 +17,19 @@
   },
   "composed": "1818–1827",
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "cure-of-ars/sermons",
   "editions": {
     "fr-FR": {
       "editor": "Ecclésiastiques de Lyon (Lecoffre / Ruban)",
       "year": 1883
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -39,139 +45,162 @@
     {
       "id": "preface",
       "title": {
-        "fr-FR": "Préface de l’éditeur"
+        "fr-FR": "Préface de l’éditeur",
+        "pt-BR": "Prefácio do editor"
       }
     },
     {
       "id": "tome-1",
       "title": {
-        "fr-FR": "Tome I — du premier dimanche de l’Avent au Vendredi saint"
+        "fr-FR": "Tome I — du premier dimanche de l’Avent au Vendredi saint",
+        "pt-BR": "Tomo I — do primeiro domingo do Advento à Sexta-feira Santa"
       },
       "children": [
         {
           "id": "s-01",
           "title": {
-            "fr-FR": "Premier dimanche de l’Avent — Sur le Jugement dernier"
+            "fr-FR": "Premier dimanche de l’Avent — Sur le Jugement dernier",
+            "pt-BR": "Primeiro domingo do Advento — Sobre o Juízo final"
           }
         },
         {
           "id": "s-02",
           "title": {
-            "fr-FR": "Premier dimanche de l’Avent — Sur les vérités éternelles (deuxième sermon)"
+            "fr-FR": "Premier dimanche de l’Avent — Sur les vérités éternelles (deuxième sermon)",
+            "pt-BR": "Primeiro domingo do Advento — Sobre as verdades eternas (segundo sermão)"
           }
         },
         {
           "id": "s-03",
           "title": {
-            "fr-FR": "Deuxième dimanche de l’Avent — Sur le respect humain"
+            "fr-FR": "Deuxième dimanche de l’Avent — Sur le respect humain",
+            "pt-BR": "Segundo domingo do Advento — Sobre o respeito humano"
           }
         },
         {
           "id": "s-04",
           "title": {
-            "fr-FR": "Quatrième dimanche de l’Avent — Sur la Satisfaction"
+            "fr-FR": "Quatrième dimanche de l’Avent — Sur la Satisfaction",
+            "pt-BR": "Quarto domingo do Advento — Sobre a Satisfação"
           }
         },
         {
           "id": "s-05",
           "title": {
-            "fr-FR": "Pour le jour de Noël — Sur le Mystère"
+            "fr-FR": "Pour le jour de Noël — Sur le Mystère",
+            "pt-BR": "Para o dia de Natal — Sobre o Mistério"
           }
         },
         {
           "id": "s-06",
           "title": {
-            "fr-FR": "Pour le jour de Noël — Sur le Mystère (deuxième sermon)"
+            "fr-FR": "Pour le jour de Noël — Sur le Mystère (deuxième sermon)",
+            "pt-BR": "Para o dia de Natal — Sobre o Mistério (segundo sermão)"
           }
         },
         {
           "id": "s-07",
           "title": {
-            "fr-FR": "Premier dimanche de l’année"
+            "fr-FR": "Premier dimanche de l’année",
+            "pt-BR": "Primeiro domingo do ano"
           }
         },
         {
           "id": "s-08",
           "title": {
-            "fr-FR": "Épiphanie"
+            "fr-FR": "Épiphanie",
+            "pt-BR": "Epifania"
           }
         },
         {
           "id": "s-09",
           "title": {
-            "fr-FR": "Deuxième dimanche après l’Épiphanie — Sur le Mariage"
+            "fr-FR": "Deuxième dimanche après l’Épiphanie — Sur le Mariage",
+            "pt-BR": "Segundo domingo depois da Epifania — Sobre o Matrimônio"
           }
         },
         {
           "id": "s-10",
           "title": {
-            "fr-FR": "Troisième dimanche après l’Épiphanie — Sur la prière d’un pécheur qui ne veut pas quitter le péché"
+            "fr-FR": "Troisième dimanche après l’Épiphanie — Sur la prière d’un pécheur qui ne veut pas quitter le péché",
+            "pt-BR": "Terceiro domingo depois da Epifania — Sobre a oração de um pecador que não quer deixar o pecado"
           }
         },
         {
           "id": "s-11",
           "title": {
-            "fr-FR": "Troisième dimanche après l’Épiphanie — Sur l’enfer des Chrétiens"
+            "fr-FR": "Troisième dimanche après l’Épiphanie — Sur l’enfer des Chrétiens",
+            "pt-BR": "Terceiro domingo depois da Epifania — Sobre o inferno dos Cristãos"
           }
         },
         {
           "id": "s-12",
           "title": {
-            "fr-FR": "Quatrième dimanche après l’Épiphanie — Sur les ennemis de notre salut"
+            "fr-FR": "Quatrième dimanche après l’Épiphanie — Sur les ennemis de notre salut",
+            "pt-BR": "Quarto domingo depois da Epifania — Sobre os inimigos de nossa salvação"
           }
         },
         {
           "id": "s-13",
           "title": {
-            "fr-FR": "La Sexagésime — Sur la parole de Dieu"
+            "fr-FR": "La Sexagésime — Sur la parole de Dieu",
+            "pt-BR": "A Sexagésima — Sobre a palavra de Deus"
           }
         },
         {
           "id": "s-14",
           "title": {
-            "fr-FR": "Premier dimanche de Carême — Sur les Tentations"
+            "fr-FR": "Premier dimanche de Carême — Sur les Tentations",
+            "pt-BR": "Primeiro domingo da Quaresma — Sobre as Tentações"
           }
         },
         {
           "id": "s-15",
           "title": {
-            "fr-FR": "Premier dimanche de Carême — Sur les Indulgences"
+            "fr-FR": "Premier dimanche de Carême — Sur les Indulgences",
+            "pt-BR": "Primeiro domingo da Quaresma — Sobre as Indulgências"
           }
         },
         {
           "id": "s-16",
           "title": {
-            "fr-FR": "Quatrième dimanche de Carême — Sur la mort du pécheur (inachevé)"
+            "fr-FR": "Quatrième dimanche de Carême — Sur la mort du pécheur (inachevé)",
+            "pt-BR": "Quarto domingo da Quaresma — Sobre a morte do pecador (inacabado)"
           }
         },
         {
           "id": "s-17",
           "title": {
-            "fr-FR": "Quatrième dimanche de Carême — Délai de la Conversion"
+            "fr-FR": "Quatrième dimanche de Carême — Délai de la Conversion",
+            "pt-BR": "Quarto domingo da Quaresma — Adiamento da Conversão"
           }
         },
         {
           "id": "s-18",
           "title": {
-            "fr-FR": "Dimanche de la Passion — Sur la Contrition"
+            "fr-FR": "Dimanche de la Passion — Sur la Contrition",
+            "pt-BR": "Domingo da Paixão — Sobre a Contrição"
           }
         },
         {
           "id": "s-19",
           "title": {
-            "fr-FR": "Jeudi saint"
+            "fr-FR": "Jeudi saint",
+            "pt-BR": "Quinta-feira Santa"
           }
         },
         {
           "id": "s-20",
           "title": {
-            "fr-FR": "Vendredi saint — Le péché renouvelle la passion de Jésus-Christ"
+            "fr-FR": "Vendredi saint — Le péché renouvelle la passion de Jésus-Christ",
+            "pt-BR": "Sexta-feira Santa — O pecado renova a paixão de Jesus Cristo"
           }
         },
         {
           "id": "notes-1",
           "title": {
-            "fr-FR": "Notes de l’éditeur (tome I)"
+            "fr-FR": "Notes de l’éditeur (tome I)",
+            "pt-BR": "Notas do editor (tomo I)"
           }
         }
       ]
@@ -179,145 +208,169 @@
     {
       "id": "tome-2",
       "title": {
-        "fr-FR": "Tome II — de Quasimodo au onzième dimanche après la Pentecôte"
+        "fr-FR": "Tome II — de Quasimodo au onzième dimanche après la Pentecôte",
+        "pt-BR": "Tomo II — de Quasímodo ao décimo primeiro domingo depois de Pentecostes"
       },
       "children": [
         {
           "id": "s-21",
           "title": {
-            "fr-FR": "Dimanche de Quasimodo — Sur la Confession pascale"
+            "fr-FR": "Dimanche de Quasimodo — Sur la Confession pascale",
+            "pt-BR": "Domingo de Quasímodo — Sobre a Confissão pascal"
           }
         },
         {
           "id": "s-22",
           "title": {
-            "fr-FR": "Deuxième dimanche après Pâques — Sur la Persévérance"
+            "fr-FR": "Deuxième dimanche après Pâques — Sur la Persévérance",
+            "pt-BR": "Segundo domingo depois da Páscoa — Sobre a Perseverança"
           }
         },
         {
           "id": "s-23",
           "title": {
-            "fr-FR": "Troisième dimanche après Pâques — Sur les Afflictions"
+            "fr-FR": "Troisième dimanche après Pâques — Sur les Afflictions",
+            "pt-BR": "Terceiro domingo depois da Páscoa — Sobre as Aflições"
           }
         },
         {
           "id": "s-24",
           "title": {
-            "fr-FR": "Cinquième dimanche après Pâques — Sur la Prière"
+            "fr-FR": "Cinquième dimanche après Pâques — Sur la Prière",
+            "pt-BR": "Quinto domingo depois da Páscoa — Sobre a Oração"
           }
         },
         {
           "id": "s-25",
           "title": {
-            "fr-FR": "Sur les Rogations, les Processions, l’Abstinence et les Quatre-Temps"
+            "fr-FR": "Sur les Rogations, les Processions, l’Abstinence et les Quatre-Temps",
+            "pt-BR": "Sobre as Rogações, as Procissões, a Abstinência e as Quatro Têmporas"
           }
         },
         {
           "id": "s-26",
           "title": {
-            "fr-FR": "Pour le jour de l’Ascension"
+            "fr-FR": "Pour le jour de l’Ascension",
+            "pt-BR": "Para o dia da Ascensão"
           }
         },
         {
           "id": "s-27",
           "title": {
-            "fr-FR": "Fête-Dieu"
+            "fr-FR": "Fête-Dieu",
+            "pt-BR": "Festa de Corpus Christi"
           }
         },
         {
           "id": "s-28",
           "title": {
-            "fr-FR": "Deuxième dimanche après la Pentecôte — Sur la sainte Messe"
+            "fr-FR": "Deuxième dimanche après la Pentecôte — Sur la sainte Messe",
+            "pt-BR": "Segundo domingo depois de Pentecostes — Sobre a santa Missa"
           }
         },
         {
           "id": "s-29",
           "title": {
-            "fr-FR": "Troisième dimanche après la Pentecôte — Sur la miséricorde de Dieu"
+            "fr-FR": "Troisième dimanche après la Pentecôte — Sur la miséricorde de Dieu",
+            "pt-BR": "Terceiro domingo depois de Pentecostes — Sobre a misericórdia de Deus"
           }
         },
         {
           "id": "s-30",
           "title": {
-            "fr-FR": "Troisième dimanche après la Pentecôte — Sur la miséricorde de Dieu envers le pécheur (même sujet)"
+            "fr-FR": "Troisième dimanche après la Pentecôte — Sur la miséricorde de Dieu envers le pécheur (même sujet)",
+            "pt-BR": "Terceiro domingo depois de Pentecostes — Sobre a misericórdia de Deus para com o pecador (mesmo assunto)"
           }
         },
         {
           "id": "s-31",
           "title": {
-            "fr-FR": "Quatrième dimanche après la Pentecôte — Sur l’Espérance"
+            "fr-FR": "Quatrième dimanche après la Pentecôte — Sur l’Espérance",
+            "pt-BR": "Quarto domingo depois de Pentecostes — Sobre a Esperança"
           }
         },
         {
           "id": "s-32",
           "title": {
-            "fr-FR": "Cinquième dimanche après la Pentecôte — Sur le deuxième Commandement de Dieu"
+            "fr-FR": "Cinquième dimanche après la Pentecôte — Sur le deuxième Commandement de Dieu",
+            "pt-BR": "Quinto domingo depois de Pentecostes — Sobre o segundo Mandamento de Deus"
           }
         },
         {
           "id": "s-33",
           "title": {
-            "fr-FR": "Sixième dimanche après la Pentecôte — Sur la Communion"
+            "fr-FR": "Sixième dimanche après la Pentecôte — Sur la Communion",
+            "pt-BR": "Sexto domingo depois de Pentecostes — Sobre a Comunhão"
           }
         },
         {
           "id": "s-34",
           "title": {
-            "fr-FR": "Septième dimanche après la Pentecôte — Sur la fausse et vraie Vertu"
+            "fr-FR": "Septième dimanche après la Pentecôte — Sur la fausse et vraie Vertu",
+            "pt-BR": "Sétimo domingo depois de Pentecostes — Sobre a falsa e a verdadeira Virtude"
           }
         },
         {
           "id": "s-35",
           "title": {
-            "fr-FR": "Septième dimanche après la Pentecôte — Sur le Mensonge"
+            "fr-FR": "Septième dimanche après la Pentecôte — Sur le Mensonge",
+            "pt-BR": "Sétimo domingo depois de Pentecostes — Sobre a Mentira"
           }
         },
         {
           "id": "s-36",
           "title": {
-            "fr-FR": "Septième dimanche après la Pentecôte — Sur la nécessité de faire de bonnes œuvres"
+            "fr-FR": "Septième dimanche après la Pentecôte — Sur la nécessité de faire de bonnes œuvres",
+            "pt-BR": "Sétimo domingo depois de Pentecostes — Sobre a necessidade de fazer boas obras"
           }
         },
         {
           "id": "s-37",
           "title": {
-            "fr-FR": "Huitième dimanche après la Pentecôte — Sur le jugement particulier"
+            "fr-FR": "Huitième dimanche après la Pentecôte — Sur le jugement particulier",
+            "pt-BR": "Oitavo domingo depois de Pentecostes — Sobre o juízo particular"
           }
         },
         {
           "id": "s-38",
           "title": {
-            "fr-FR": "Neuvième dimanche après la Pentecôte — Sur les larmes de Jésus-Christ"
+            "fr-FR": "Neuvième dimanche après la Pentecôte — Sur les larmes de Jésus-Christ",
+            "pt-BR": "Nono domingo depois de Pentecostes — Sobre as lágrimas de Jesus Cristo"
           }
         },
         {
           "id": "s-39",
           "title": {
-            "fr-FR": "Dixième dimanche après la Pentecôte — Sur l’Orgueil"
+            "fr-FR": "Dixième dimanche après la Pentecôte — Sur l’Orgueil",
+            "pt-BR": "Décimo domingo depois de Pentecostes — Sobre o Orgulho"
           }
         },
         {
           "id": "s-40",
           "title": {
-            "fr-FR": "Onzième dimanche après la Pentecôte — Sur le Jugement téméraire"
+            "fr-FR": "Onzième dimanche après la Pentecôte — Sur le Jugement téméraire",
+            "pt-BR": "Décimo primeiro domingo depois de Pentecostes — Sobre o Juízo temerário"
           }
         },
         {
           "id": "s-41",
           "title": {
-            "fr-FR": "Onzième dimanche après la Pentecôte — Sur la Médisance"
+            "fr-FR": "Onzième dimanche après la Pentecôte — Sur la Médisance",
+            "pt-BR": "Décimo primeiro domingo depois de Pentecostes — Sobre a Maledicência"
           }
         },
         {
           "id": "s-42",
           "title": {
-            "fr-FR": "Onzième dimanche après la Pentecôte — Sur les péchés cachés en confession"
+            "fr-FR": "Onzième dimanche après la Pentecôte — Sur les péchés cachés en confession",
+            "pt-BR": "Décimo primeiro domingo depois de Pentecostes — Sobre os pecados ocultados na confissão"
           }
         },
         {
           "id": "notes-2",
           "title": {
-            "fr-FR": "Notes de l’éditeur (tome II)"
+            "fr-FR": "Notes de l’éditeur (tome II)",
+            "pt-BR": "Notas do editor (tomo II)"
           }
         }
       ]
@@ -325,127 +378,148 @@
     {
       "id": "tome-3",
       "title": {
-        "fr-FR": "Tome III — du douzième au vingt-troisième dimanche après la Pentecôte"
+        "fr-FR": "Tome III — du douzième au vingt-troisième dimanche après la Pentecôte",
+        "pt-BR": "Tomo III — do décimo segundo ao vigésimo terceiro domingo depois de Pentecostes"
       },
       "children": [
         {
           "id": "s-43",
           "title": {
-            "fr-FR": "Douzième dimanche après la Pentecôte — Sur le premier Commandement de Dieu"
+            "fr-FR": "Douzième dimanche après la Pentecôte — Sur le premier Commandement de Dieu",
+            "pt-BR": "Décimo segundo domingo depois de Pentecostes — Sobre o primeiro Mandamento de Deus"
           }
         },
         {
           "id": "s-44",
           "title": {
-            "fr-FR": "Douzième dimanche après la Pentecôte — Sur le premier Commandement de Dieu (deuxième sermon)"
+            "fr-FR": "Douzième dimanche après la Pentecôte — Sur le premier Commandement de Dieu (deuxième sermon)",
+            "pt-BR": "Décimo segundo domingo depois de Pentecostes — Sobre o primeiro Mandamento de Deus (segundo sermão)"
           }
         },
         {
           "id": "s-45",
           "title": {
-            "fr-FR": "Douzième dimanche après la Pentecôte — Sur l’amour du prochain (troisième sermon)"
+            "fr-FR": "Douzième dimanche après la Pentecôte — Sur l’amour du prochain (troisième sermon)",
+            "pt-BR": "Décimo segundo domingo depois de Pentecostes — Sobre o amor ao próximo (terceiro sermão)"
           }
         },
         {
           "id": "s-46",
           "title": {
-            "fr-FR": "Treizième dimanche après la Pentecôte — Sur l’Absolution"
+            "fr-FR": "Treizième dimanche après la Pentecôte — Sur l’Absolution",
+            "pt-BR": "Décimo terceiro domingo depois de Pentecostes — Sobre a Absolvição"
           }
         },
         {
           "id": "s-47",
           "title": {
-            "fr-FR": "Quatorzième dimanche après la Pentecôte — Sur le service de Dieu"
+            "fr-FR": "Quatorzième dimanche après la Pentecôte — Sur le service de Dieu",
+            "pt-BR": "Décimo quarto domingo depois de Pentecostes — Sobre o serviço de Deus"
           }
         },
         {
           "id": "s-48",
           "title": {
-            "fr-FR": "Quatorzième dimanche après la Pentecôte — Sur le Monde"
+            "fr-FR": "Quatorzième dimanche après la Pentecôte — Sur le Monde",
+            "pt-BR": "Décimo quarto domingo depois de Pentecostes — Sobre o Mundo"
           }
         },
         {
           "id": "s-49",
           "title": {
-            "fr-FR": "Quinzième dimanche après la Pentecôte — Sur la pensée de la mort"
+            "fr-FR": "Quinzième dimanche après la Pentecôte — Sur la pensée de la mort",
+            "pt-BR": "Décimo quinto domingo depois de Pentecostes — Sobre o pensamento da morte"
           }
         },
         {
           "id": "s-50",
           "title": {
-            "fr-FR": "Seizième dimanche après la Pentecôte — Sur l’Humilité"
+            "fr-FR": "Seizième dimanche après la Pentecôte — Sur l’Humilité",
+            "pt-BR": "Décimo sexto domingo depois de Pentecostes — Sobre a Humildade"
           }
         },
         {
           "id": "s-51",
           "title": {
-            "fr-FR": "Dix-septième dimanche après la Pentecôte — Sur l’amour de Dieu"
+            "fr-FR": "Dix-septième dimanche après la Pentecôte — Sur l’amour de Dieu",
+            "pt-BR": "Décimo sétimo domingo depois de Pentecostes — Sobre o amor de Deus"
           }
         },
         {
           "id": "s-52",
           "title": {
-            "fr-FR": "Dix-septième dimanche après la Pentecôte — Sur la Charité"
+            "fr-FR": "Dix-septième dimanche après la Pentecôte — Sur la Charité",
+            "pt-BR": "Décimo sétimo domingo depois de Pentecostes — Sobre a Caridade"
           }
         },
         {
           "id": "s-53",
           "title": {
-            "fr-FR": "Dix-septième dimanche après la Pentecôte — Sur la pureté"
+            "fr-FR": "Dix-septième dimanche après la Pentecôte — Sur la pureté",
+            "pt-BR": "Décimo sétimo domingo depois de Pentecostes — Sobre a pureza"
           }
         },
         {
           "id": "s-54",
           "title": {
-            "fr-FR": "Dix-huitième dimanche après la Pentecôte — Sur la Tiédeur"
+            "fr-FR": "Dix-huitième dimanche après la Pentecôte — Sur la Tiédeur",
+            "pt-BR": "Décimo oitavo domingo depois de Pentecostes — Sobre a Tibieza"
           }
         },
         {
           "id": "s-55",
           "title": {
-            "fr-FR": "Dix-huitième dimanche après la Pentecôte — Sur l’Envie"
+            "fr-FR": "Dix-huitième dimanche après la Pentecôte — Sur l’Envie",
+            "pt-BR": "Décimo oitavo domingo depois de Pentecostes — Sobre a Inveja"
           }
         },
         {
           "id": "s-56",
           "title": {
-            "fr-FR": "Dix-neuvième dimanche après la Pentecôte — Sur l’Impureté"
+            "fr-FR": "Dix-neuvième dimanche après la Pentecôte — Sur l’Impureté",
+            "pt-BR": "Décimo nono domingo depois de Pentecostes — Sobre a Impureza"
           }
         },
         {
           "id": "s-57",
           "title": {
-            "fr-FR": "Vingtième dimanche après la Pentecôte — Devoir des parents envers les enfants"
+            "fr-FR": "Vingtième dimanche après la Pentecôte — Devoir des parents envers les enfants",
+            "pt-BR": "Vigésimo domingo depois de Pentecostes — Dever dos pais para com os filhos"
           }
         },
         {
           "id": "s-58",
           "title": {
-            "fr-FR": "Vingtième dimanche après la Pentecôte — Sur l’Ivrognerie"
+            "fr-FR": "Vingtième dimanche après la Pentecôte — Sur l’Ivrognerie",
+            "pt-BR": "Vigésimo domingo depois de Pentecostes — Sobre a Embriaguez"
           }
         },
         {
           "id": "s-59",
           "title": {
-            "fr-FR": "Vingt et unième dimanche après la Pentecôte — Sur la Colère"
+            "fr-FR": "Vingt et unième dimanche après la Pentecôte — Sur la Colère",
+            "pt-BR": "Vigésimo primeiro domingo depois de Pentecostes — Sobre a Ira"
           }
         },
         {
           "id": "s-60",
           "title": {
-            "fr-FR": "Vingt-deuxième dimanche après la Pentecôte — Sur la Restitution"
+            "fr-FR": "Vingt-deuxième dimanche après la Pentecôte — Sur la Restitution",
+            "pt-BR": "Vigésimo segundo domingo depois de Pentecostes — Sobre a Restituição"
           }
         },
         {
           "id": "s-61",
           "title": {
-            "fr-FR": "Vingt-troisième dimanche après la Pentecôte — Sur la mort du juste"
+            "fr-FR": "Vingt-troisième dimanche après la Pentecôte — Sur la mort du juste",
+            "pt-BR": "Vigésimo terceiro domingo depois de Pentecostes — Sobre a morte do justo"
           }
         },
         {
           "id": "notes-3",
           "title": {
-            "fr-FR": "Notes de l’éditeur (tome III)"
+            "fr-FR": "Notes de l’éditeur (tome III)",
+            "pt-BR": "Notas do editor (tomo III)"
           }
         }
       ]
@@ -453,109 +527,127 @@
     {
       "id": "tome-4",
       "title": {
-        "fr-FR": "Tome IV — fêtes, sermons divers"
+        "fr-FR": "Tome IV — fêtes, sermons divers",
+        "pt-BR": "Tomo IV — festas, sermões diversos"
       },
       "children": [
         {
           "id": "s-62",
           "title": {
-            "fr-FR": "Invention de la sainte Croix — Sur la Croix"
+            "fr-FR": "Invention de la sainte Croix — Sur la Croix",
+            "pt-BR": "Invenção da Santa Cruz — Sobre a Cruz"
           }
         },
         {
           "id": "s-63",
           "title": {
-            "fr-FR": "Fête de saint Jean-Baptiste"
+            "fr-FR": "Fête de saint Jean-Baptiste",
+            "pt-BR": "Festa de São João Batista"
           }
         },
         {
           "id": "s-64",
           "title": {
-            "fr-FR": "Sur le martyre des Machabées"
+            "fr-FR": "Sur le martyre des Machabées",
+            "pt-BR": "Sobre o martírio dos Macabeus"
           }
         },
         {
           "id": "s-65",
           "title": {
-            "fr-FR": "Fête de l’Assomption de la sainte Vierge — Sur les grandeurs de Marie"
+            "fr-FR": "Fête de l’Assomption de la sainte Vierge — Sur les grandeurs de Marie",
+            "pt-BR": "Festa da Assunção da Santíssima Virgem — Sobre as grandezas de Maria"
           }
         },
         {
           "id": "s-66",
           "title": {
-            "fr-FR": "Fête de la Nativité de la sainte Vierge"
+            "fr-FR": "Fête de la Nativité de la sainte Vierge",
+            "pt-BR": "Festa da Natividade da Santíssima Virgem"
           }
         },
         {
           "id": "s-67",
           "title": {
-            "fr-FR": "Premier dimanche d’octobre — Fête du saint Rosaire"
+            "fr-FR": "Premier dimanche d’octobre — Fête du saint Rosaire",
+            "pt-BR": "Primeiro domingo de outubro — Festa do Santo Rosário"
           }
         },
         {
           "id": "s-68",
           "title": {
-            "fr-FR": "Fête des saints Anges gardiens"
+            "fr-FR": "Fête des saints Anges gardiens",
+            "pt-BR": "Festa dos Santos Anjos da Guarda"
           }
         },
         {
           "id": "s-69",
           "title": {
-            "fr-FR": "Fête de tous les Saints — Sur la Sainteté"
+            "fr-FR": "Fête de tous les Saints — Sur la Sainteté",
+            "pt-BR": "Festa de Todos os Santos — Sobre a Santidade"
           }
         },
         {
           "id": "s-70",
           "title": {
-            "fr-FR": "Fête de tous les Saints — Sur le culte des Saints et des saintes Images"
+            "fr-FR": "Fête de tous les Saints — Sur le culte des Saints et des saintes Images",
+            "pt-BR": "Festa de Todos os Santos — Sobre o culto dos Santos e das santas Imagens"
           }
         },
         {
           "id": "s-71",
           "title": {
-            "fr-FR": "Commémoration des Morts"
+            "fr-FR": "Commémoration des Morts",
+            "pt-BR": "Comemoração dos Mortos"
           }
         },
         {
           "id": "s-72",
           "title": {
-            "fr-FR": "Autre sermon pour le jour des Morts"
+            "fr-FR": "Autre sermon pour le jour des Morts",
+            "pt-BR": "Outro sermão para o dia dos Mortos"
           }
         },
         {
           "id": "s-73",
           "title": {
-            "fr-FR": "Pour la fête du saint Patron"
+            "fr-FR": "Pour la fête du saint Patron",
+            "pt-BR": "Para a festa do santo Padroeiro"
           }
         },
         {
           "id": "s-74",
           "title": {
-            "fr-FR": "Fête de la Dédicace — Du respect que l’on doit avoir dans les églises"
+            "fr-FR": "Fête de la Dédicace — Du respect que l’on doit avoir dans les églises",
+            "pt-BR": "Festa da Dedicação — Do respeito que se deve ter nas igrejas"
           }
         },
         {
           "id": "s-75",
           "title": {
-            "fr-FR": "Sur la Religion"
+            "fr-FR": "Sur la Religion",
+            "pt-BR": "Sobre a Religião"
           }
         },
         {
           "id": "s-76",
           "title": {
-            "fr-FR": "Sur la Confirmation"
+            "fr-FR": "Sur la Confirmation",
+            "pt-BR": "Sobre a Confirmação"
           }
         },
         {
           "id": "s-77",
           "title": {
-            "fr-FR": "Sur l’Extrême-Onction"
+            "fr-FR": "Sur l’Extrême-Onction",
+            "pt-BR": "Sobre a Extrema-Unção"
           }
         },
         {
           "id": "notes-4",
           "title": {
-            "fr-FR": "Notes de l’éditeur (tome IV)"
+            "fr-FR": "Notes de l’éditeur (tome IV)",
+            "pt-BR": "Notas do editor (tomo IV)"
           }
         }
       ]
