@@ -18,13 +18,19 @@
   },
   "composed": "c. 1106-1107",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "anselm/de-sacramentis-ecclesiae",
   "editions": {
     "la": {
       "editor": "J.-P. Migne (Patrologia Latina 158)",
       "year": 1853
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,25 +47,29 @@
     {
       "id": "responsio",
       "title": {
-        "la": "Responsio"
+        "la": "Responsio",
+        "pt-BR": "Resposta"
       }
     },
     {
       "id": "c01",
       "title": {
-        "la": "Caput I. Varietatem rituum cum unitate fidei cohaerere"
+        "la": "Caput I. Varietatem rituum cum unitate fidei cohaerere",
+        "pt-BR": "Capítulo I. A variedade dos ritos condiz com a unidade da fé"
       }
     },
     {
       "id": "c02",
       "title": {
-        "la": "Caput II. Ad querelas de una signi crucis formatione"
+        "la": "Caput II. Ad querelas de una signi crucis formatione",
+        "pt-BR": "Capítulo II. Às queixas acerca de um único sinal da cruz"
       }
     },
     {
       "id": "c03",
       "title": {
-        "la": "Caput III. De operimento calicis inter sacrificandum"
+        "la": "Caput III. De operimento calicis inter sacrificandum",
+        "pt-BR": "Capítulo III. Da cobertura do cálice durante o sacrifício"
       }
     }
   ]
