@@ -15,13 +15,19 @@
   },
   "composed": 1898,
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "spirago/katholischer-volkskatechismus",
   "editions": {
     "en-US": {
       "editor": "Richard F. Clarke",
       "year": 1899
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -35,355 +41,414 @@
     {
       "id": "01-the-knowledge-of-god",
       "title": {
-        "en-US": "Part I, Faith: The Knowledge of God"
+        "en-US": "Part I, Faith: The Knowledge of God",
+        "pt-BR": "Parte I, A Fé: O Conhecimento de Deus"
       }
     },
     {
       "id": "02-divine-revelation",
       "title": {
-        "en-US": "Part I, Faith: Divine Revelation"
+        "en-US": "Part I, Faith: Divine Revelation",
+        "pt-BR": "Parte I, A Fé: A Revelação Divina"
       }
     },
     {
       "id": "03-the-preaching-of-the-gospel",
       "title": {
-        "en-US": "Part I, Faith: The Preaching of the Gospel"
+        "en-US": "Part I, Faith: The Preaching of the Gospel",
+        "pt-BR": "Parte I, A Fé: A Pregação do Evangelho"
       }
     },
     {
       "id": "04-holy-scripture-and-tradition",
       "title": {
-        "en-US": "Part I, Faith: Holy Scripture and Tradition"
+        "en-US": "Part I, Faith: Holy Scripture and Tradition",
+        "pt-BR": "Parte I, A Fé: A Sagrada Escritura e a Tradição"
       }
     },
     {
       "id": "05-the-christian-faith",
       "title": {
-        "en-US": "Part I, Faith: The Christian Faith"
+        "en-US": "Part I, Faith: The Christian Faith",
+        "pt-BR": "Parte I, A Fé: A Fé Cristã"
       }
     },
     {
       "id": "06-the-motives-of-faith",
       "title": {
-        "en-US": "Part I, Faith: The Motives of Faith"
+        "en-US": "Part I, Faith: The Motives of Faith",
+        "pt-BR": "Parte I, A Fé: Os Motivos da Fé"
       }
     },
     {
       "id": "07-on-the-absence-and-loss-of-faith",
       "title": {
-        "en-US": "Part I, Faith: On the Absence and Loss of Faith"
+        "en-US": "Part I, Faith: On the Absence and Loss of Faith",
+        "pt-BR": "Parte I, A Fé: Sobre a Ausência e a Perda da Fé"
       }
     },
     {
       "id": "08-on-the-duty-of-confessing-our-faith",
       "title": {
-        "en-US": "Part I, Faith: On the Duty of Confessing Our Faith"
+        "en-US": "Part I, Faith: On the Duty of Confessing Our Faith",
+        "pt-BR": "Parte I, A Fé: Sobre o Dever de Professar Nossa Fé"
       }
     },
     {
       "id": "09-the-sign-of-the-cross",
       "title": {
-        "en-US": "Part I, Faith: The Sign of the Cross"
+        "en-US": "Part I, Faith: The Sign of the Cross",
+        "pt-BR": "Parte I, A Fé: O Sinal da Cruz"
       }
     },
     {
       "id": "10-the-apostles-creed-and-the-first-article",
       "title": {
-        "en-US": "Part I, Faith: The Apostles' Creed and the First Article"
+        "en-US": "Part I, Faith: The Apostles' Creed and the First Article",
+        "pt-BR": "Parte I, A Fé: O Símbolo dos Apóstolos e o Primeiro Artigo"
       }
     },
     {
       "id": "11-the-second-to-the-seventh-article-of-the-creed-j",
       "title": {
-        "en-US": "Part I, Faith: The Second to the Seventh Article of the Creed: Jesus Christ"
+        "en-US": "Part I, Faith: The Second to the Seventh Article of the Creed: Jesus Christ",
+        "pt-BR": "Parte I, A Fé: Do Segundo ao Sétimo Artigo do Credo: Jesus Cristo"
       }
     },
     {
       "id": "12-the-eighth-article-of-the-creed-the-holy-ghost",
       "title": {
-        "en-US": "Part I, Faith: The Eighth Article of the Creed: The Holy Ghost"
+        "en-US": "Part I, Faith: The Eighth Article of the Creed: The Holy Ghost",
+        "pt-BR": "Parte I, A Fé: O Oitavo Artigo do Credo: O Espírito Santo"
       }
     },
     {
       "id": "13-the-ninth-article-of-the-creed-the-catholic-chur",
       "title": {
-        "en-US": "Part I, Faith: The Ninth Article of the Creed: The Catholic Church"
+        "en-US": "Part I, Faith: The Ninth Article of the Creed: The Catholic Church",
+        "pt-BR": "Parte I, A Fé: O Nono Artigo do Credo: A Igreja Católica"
       }
     },
     {
       "id": "14-the-tenth-article-of-the-creed-the-forgiveness-o",
       "title": {
-        "en-US": "Part I, Faith: The Tenth Article of the Creed: The Forgiveness of Sins"
+        "en-US": "Part I, Faith: The Tenth Article of the Creed: The Forgiveness of Sins",
+        "pt-BR": "Parte I, A Fé: O Décimo Artigo do Credo: O Perdão dos Pecados"
       }
     },
     {
       "id": "15-the-eleventh-and-twelfth-articles-of-the-creed-t",
       "title": {
-        "en-US": "Part I, Faith: The Eleventh and Twelfth Articles of the Creed: The Last Things"
+        "en-US": "Part I, Faith: The Eleventh and Twelfth Articles of the Creed: The Last Things",
+        "pt-BR": "Parte I, A Fé: O Décimo Primeiro e o Décimo Segundo Artigos do Credo: Os Novíssimos"
       }
     },
     {
       "id": "16-christian-hope",
       "title": {
-        "en-US": "Part I, Faith: Christian Hope"
+        "en-US": "Part I, Faith: Christian Hope",
+        "pt-BR": "Parte I, A Fé: A Esperança Cristã"
       }
     },
     {
       "id": "17-what-commandments-has-god-given-us",
       "title": {
-        "en-US": "Part II, The Commandments: What Commandments Has God Given Us?"
+        "en-US": "Part II, The Commandments: What Commandments Has God Given Us?",
+        "pt-BR": "Parte II, Os Mandamentos: Que Mandamentos Deus nos Deu?"
       }
     },
     {
       "id": "18-the-two-commandments-of-charity",
       "title": {
-        "en-US": "Part II, The Commandments: The Two Commandments of Charity"
+        "en-US": "Part II, The Commandments: The Two Commandments of Charity",
+        "pt-BR": "Parte II, Os Mandamentos: Os Dois Mandamentos da Caridade"
       }
     },
     {
       "id": "19-the-precept-of-the-love-of-god",
       "title": {
-        "en-US": "Part II, The Commandments: The Precept of the Love of God"
+        "en-US": "Part II, The Commandments: The Precept of the Love of God",
+        "pt-BR": "Parte II, Os Mandamentos: O Preceito do Amor de Deus"
       }
     },
     {
       "id": "20-the-love-of-the-world-is-opposed-to-the-love-of",
       "title": {
-        "en-US": "Part II, The Commandments: The Love of the World Is Opposed to the Love of God"
+        "en-US": "Part II, The Commandments: The Love of the World Is Opposed to the Love of God",
+        "pt-BR": "Parte II, Os Mandamentos: O Amor do Mundo se Opõe ao Amor de Deus"
       }
     },
     {
       "id": "21-the-commandment-of-charity-towards-our-neighbor",
       "title": {
-        "en-US": "Part II, The Commandments: The Commandment of Charity towards Our Neighbor"
+        "en-US": "Part II, The Commandments: The Commandment of Charity towards Our Neighbor",
+        "pt-BR": "Parte II, Os Mandamentos: O Mandamento da Caridade para com o Próximo"
       }
     },
     {
       "id": "22-lack-of-charity-to-one-s-neighbor",
       "title": {
-        "en-US": "Part II, The Commandments: Lack of Charity to One's Neighbor"
+        "en-US": "Part II, The Commandments: Lack of Charity to One's Neighbor",
+        "pt-BR": "Parte II, Os Mandamentos: A Falta de Caridade para com o Próximo"
       }
     },
     {
       "id": "23-love-of-one-s-friends",
       "title": {
-        "en-US": "Part II, The Commandments: Love of One's Friends"
+        "en-US": "Part II, The Commandments: Love of One's Friends",
+        "pt-BR": "Parte II, Os Mandamentos: O Amor aos Amigos"
       }
     },
     {
       "id": "24-the-commandment-to-love-our-enemy",
       "title": {
-        "en-US": "Part II, The Commandments: The Commandment to Love Our Enemy"
+        "en-US": "Part II, The Commandments: The Commandment to Love Our Enemy",
+        "pt-BR": "Parte II, Os Mandamentos: O Mandamento de Amar o Inimigo"
       }
     },
     {
       "id": "25-the-love-of-one-s-self",
       "title": {
-        "en-US": "Part II, The Commandments: The Love of One's Self"
+        "en-US": "Part II, The Commandments: The Love of One's Self",
+        "pt-BR": "Parte II, Os Mandamentos: O Amor de Si Mesmo"
       }
     },
     {
       "id": "26-the-ten-commandments-of-god",
       "title": {
-        "en-US": "Part II, The Commandments: The Ten Commandments of God"
+        "en-US": "Part II, The Commandments: The Ten Commandments of God",
+        "pt-BR": "Parte II, Os Mandamentos: Os Dez Mandamentos de Deus"
       }
     },
     {
       "id": "27-the-first-commandment-of-god",
       "title": {
-        "en-US": "Part II, The Commandments: The First Commandment of God"
+        "en-US": "Part II, The Commandments: The First Commandment of God",
+        "pt-BR": "Parte II, Os Mandamentos: O Primeiro Mandamento de Deus"
       }
     },
     {
       "id": "28-the-second-and-third-commandments-of-god",
       "title": {
-        "en-US": "Part II, The Commandments: The Second and Third Commandments of God"
+        "en-US": "Part II, The Commandments: The Second and Third Commandments of God",
+        "pt-BR": "Parte II, Os Mandamentos: O Segundo e o Terceiro Mandamentos de Deus"
       }
     },
     {
       "id": "29-the-six-commandments-of-the-church",
       "title": {
-        "en-US": "Part II, The Commandments: The Six Commandments of the Church"
+        "en-US": "Part II, The Commandments: The Six Commandments of the Church",
+        "pt-BR": "Parte II, Os Mandamentos: Os Seis Mandamentos da Igreja"
       }
     },
     {
       "id": "30-the-fourth-commandment-of-god",
       "title": {
-        "en-US": "Part II, The Commandments: The Fourth Commandment of God"
+        "en-US": "Part II, The Commandments: The Fourth Commandment of God",
+        "pt-BR": "Parte II, Os Mandamentos: O Quarto Mandamento de Deus"
       }
     },
     {
       "id": "31-the-fifth-commandment-of-god",
       "title": {
-        "en-US": "Part II, The Commandments: The Fifth Commandment of God"
+        "en-US": "Part II, The Commandments: The Fifth Commandment of God",
+        "pt-BR": "Parte II, Os Mandamentos: O Quinto Mandamento de Deus"
       }
     },
     {
       "id": "32-the-sixth-commandment-of-god",
       "title": {
-        "en-US": "Part II, The Commandments: The Sixth Commandment of God"
+        "en-US": "Part II, The Commandments: The Sixth Commandment of God",
+        "pt-BR": "Parte II, Os Mandamentos: O Sexto Mandamento de Deus"
       }
     },
     {
       "id": "33-the-seventh-commandment-of-god",
       "title": {
-        "en-US": "Part II, The Commandments: The Seventh Commandment of God"
+        "en-US": "Part II, The Commandments: The Seventh Commandment of God",
+        "pt-BR": "Parte II, Os Mandamentos: O Sétimo Mandamento de Deus"
       }
     },
     {
       "id": "34-the-eighth-commandment-of-god",
       "title": {
-        "en-US": "Part II, The Commandments: The Eighth Commandment of God"
+        "en-US": "Part II, The Commandments: The Eighth Commandment of God",
+        "pt-BR": "Parte II, Os Mandamentos: O Oitavo Mandamento de Deus"
       }
     },
     {
       "id": "35-the-ninth-commandment-of-god",
       "title": {
-        "en-US": "Part II, The Commandments: The Ninth Commandment of God"
+        "en-US": "Part II, The Commandments: The Ninth Commandment of God",
+        "pt-BR": "Parte II, Os Mandamentos: O Nono Mandamento de Deus"
       }
     },
     {
       "id": "36-the-tenth-commandment-of-god",
       "title": {
-        "en-US": "Part II, The Commandments: The Tenth Commandment of God"
+        "en-US": "Part II, The Commandments: The Tenth Commandment of God",
+        "pt-BR": "Parte II, Os Mandamentos: O Décimo Mandamento de Deus"
       }
     },
     {
       "id": "37-the-works-of-mercy",
       "title": {
-        "en-US": "Part II, The Commandments: The Works of Mercy"
+        "en-US": "Part II, The Commandments: The Works of Mercy",
+        "pt-BR": "Parte II, Os Mandamentos: As Obras de Misericórdia"
       }
     },
     {
       "id": "38-the-duty-of-gratitude",
       "title": {
-        "en-US": "Part II, The Commandments: The Duty of Gratitude"
+        "en-US": "Part II, The Commandments: The Duty of Gratitude",
+        "pt-BR": "Parte II, Os Mandamentos: O Dever de Gratidão"
       }
     },
     {
       "id": "39-the-poverty-of-the-christian",
       "title": {
-        "en-US": "Part II, The Commandments: The Poverty of the Christian"
+        "en-US": "Part II, The Commandments: The Poverty of the Christian",
+        "pt-BR": "Parte II, Os Mandamentos: A Pobreza do Cristão"
       }
     },
     {
       "id": "40-good-works",
       "title": {
-        "en-US": "Part II, Good Works, Virtue, Sin, Vice: Good Works"
+        "en-US": "Part II, Good Works, Virtue, Sin, Vice: Good Works",
+        "pt-BR": "Parte II, Boas Obras, Virtude, Pecado, Vício: As Boas Obras"
       }
     },
     {
       "id": "41-virtue",
       "title": {
-        "en-US": "Part II, Good Works, Virtue, Sin, Vice: Virtue"
+        "en-US": "Part II, Good Works, Virtue, Sin, Vice: Virtue",
+        "pt-BR": "Parte II, Boas Obras, Virtude, Pecado, Vício: A Virtude"
       }
     },
     {
       "id": "42-sin",
       "title": {
-        "en-US": "Part II, Good Works, Virtue, Sin, Vice: Sin"
+        "en-US": "Part II, Good Works, Virtue, Sin, Vice: Sin",
+        "pt-BR": "Parte II, Boas Obras, Virtude, Pecado, Vício: O Pecado"
       }
     },
     {
       "id": "43-vice",
       "title": {
-        "en-US": "Part II, Good Works, Virtue, Sin, Vice: Vice"
+        "en-US": "Part II, Good Works, Virtue, Sin, Vice: Vice",
+        "pt-BR": "Parte II, Boas Obras, Virtude, Pecado, Vício: O Vício"
       }
     },
     {
       "id": "44-the-forgiveness-of-sin",
       "title": {
-        "en-US": "Part II, Good Works, Virtue, Sin, Vice: The Forgiveness of Sin"
+        "en-US": "Part II, Good Works, Virtue, Sin, Vice: The Forgiveness of Sin",
+        "pt-BR": "Parte II, Boas Obras, Virtude, Pecado, Vício: O Perdão do Pecado"
       }
     },
     {
       "id": "45-temptation",
       "title": {
-        "en-US": "Part II, Good Works, Virtue, Sin, Vice: Temptation"
+        "en-US": "Part II, Good Works, Virtue, Sin, Vice: Temptation",
+        "pt-BR": "Parte II, Boas Obras, Virtude, Pecado, Vício: A Tentação"
       }
     },
     {
       "id": "46-occasions-of-sin",
       "title": {
-        "en-US": "Part II, Good Works, Virtue, Sin, Vice: Occasions of Sin"
+        "en-US": "Part II, Good Works, Virtue, Sin, Vice: Occasions of Sin",
+        "pt-BR": "Parte II, Boas Obras, Virtude, Pecado, Vício: As Ocasiões de Pecado"
       }
     },
     {
       "id": "47-the-seven-principal-virtues-and-the-seven-princi",
       "title": {
-        "en-US": "Part II, Good Works, Virtue, Sin, Vice: The Seven Principal Virtues and the Seven Principal Vices"
+        "en-US": "Part II, Good Works, Virtue, Sin, Vice: The Seven Principal Virtues and the Seven Principal Vices",
+        "pt-BR": "Parte II, Boas Obras, Virtude, Pecado, Vício: As Sete Virtudes Principais e os Sete Vícios Principais"
       }
     },
     {
       "id": "48-the-aspiration-after-christian-perfection",
       "title": {
-        "en-US": "Part II, Christian Perfection: The Aspiration after Christian Perfection"
+        "en-US": "Part II, Christian Perfection: The Aspiration after Christian Perfection",
+        "pt-BR": "Parte II, A Perfeição Cristã: A Aspiração à Perfeição Cristã"
       }
     },
     {
       "id": "49-general-means-for-the-attainment-of-perfection",
       "title": {
-        "en-US": "Part II, Christian Perfection: General Means for the Attainment of Perfection"
+        "en-US": "Part II, Christian Perfection: General Means for the Attainment of Perfection",
+        "pt-BR": "Parte II, A Perfeição Cristã: Meios Gerais para Alcançar a Perfeição"
       }
     },
     {
       "id": "50-special-means-for-the-attainment-of-perfection",
       "title": {
-        "en-US": "Part II, Christian Perfection: Special Means for the Attainment of Perfection"
+        "en-US": "Part II, Christian Perfection: Special Means for the Attainment of Perfection",
+        "pt-BR": "Parte II, A Perfeição Cristã: Meios Especiais para Alcançar a Perfeição"
       }
     },
     {
       "id": "51-the-eight-beatitudes",
       "title": {
-        "en-US": "Part II, Christian Perfection: The Eight Beatitudes"
+        "en-US": "Part II, Christian Perfection: The Eight Beatitudes",
+        "pt-BR": "Parte II, A Perfeição Cristã: As Oito Bem-aventuranças"
       }
     },
     {
       "id": "52-the-holy-sacrifice-of-the-mass",
       "title": {
-        "en-US": "Part III, The Means of Grace: The Holy Sacrifice of the Mass"
+        "en-US": "Part III, The Means of Grace: The Holy Sacrifice of the Mass",
+        "pt-BR": "Parte III, Os Meios da Graça: O Santo Sacrifício da Missa"
       }
     },
     {
       "id": "53-the-sacraments",
       "title": {
-        "en-US": "Part III, The Means of Grace: The Sacraments"
+        "en-US": "Part III, The Means of Grace: The Sacraments",
+        "pt-BR": "Parte III, Os Meios da Graça: Os Sacramentos"
       }
     },
     {
       "id": "54-indulgences",
       "title": {
-        "en-US": "Part III, The Means of Grace: Indulgences"
+        "en-US": "Part III, The Means of Grace: Indulgences",
+        "pt-BR": "Parte III, Os Meios da Graça: As Indulgências"
       }
     },
     {
       "id": "55-the-sacramentals",
       "title": {
-        "en-US": "Part III, The Means of Grace: The Sacramentals"
+        "en-US": "Part III, The Means of Grace: The Sacramentals",
+        "pt-BR": "Parte III, Os Meios da Graça: Os Sacramentais"
       }
     },
     {
       "id": "56-prayer",
       "title": {
-        "en-US": "Part III, The Means of Grace: Prayer"
+        "en-US": "Part III, The Means of Grace: Prayer",
+        "pt-BR": "Parte III, Os Meios da Graça: A Oração"
       }
     },
     {
       "id": "57-the-most-important-prayers",
       "title": {
-        "en-US": "Part III, The Means of Grace: The Most Important Prayers"
+        "en-US": "Part III, The Means of Grace: The Most Important Prayers",
+        "pt-BR": "Parte III, Os Meios da Graça: As Orações Mais Importantes"
       }
     },
     {
       "id": "58-the-principal-devotional-exercises",
       "title": {
-        "en-US": "Part III, The Means of Grace: The Principal Devotional Exercises"
+        "en-US": "Part III, The Means of Grace: The Principal Devotional Exercises",
+        "pt-BR": "Parte III, Os Meios da Graça: Os Principais Exercícios de Devoção"
       }
     },
     {
       "id": "59-religious-associations",
       "title": {
-        "en-US": "Part III, The Means of Grace: Religious Associations"
+        "en-US": "Part III, The Means of Grace: Religious Associations",
+        "pt-BR": "Parte III, Os Meios da Graça: As Associações Religiosas"
       }
     }
   ]
