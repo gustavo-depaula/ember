@@ -14,17 +14,23 @@
   "description": {
     "fr-FR": "Les lettres de saint François de Sales du tome XVII de l’édition d’Annecy (1615-1617), une lettre par chapitre, groupées par année : numéro, destinataire, résumé et date de l’édition critique, puis le texte en orthographe d’époque.",
     "en-US": "The letters of St. Francis de Sales in volume XVII of the Annecy edition (1615-1617), one letter per chapter and grouped by year: the edition’s number, addressee, summary and date, then the text in period spelling.",
-    "pt-BR": "As cartas de São Francisco de Sales do tomo XVII da edição de Annecy (1615-1617)."
+    "pt-BR": "As cartas de São Francisco de Sales do tomo XVII da edição de Annecy (1615-1617), uma carta por capítulo, agrupadas por ano: número, destinatário, resumo e data da edição crítica, seguidos do texto em ortografia da época."
   },
   "composed": "1615-1617",
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "francis-de-sales/lettres-xvii",
   "editions": {
     "fr-FR": {
       "editor": "Religieuses de la Visitation d’Annecy",
       "year": 1912
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,421 +47,491 @@
     {
       "id": "annee-01",
       "title": {
-        "fr-FR": "Année 1615"
+        "fr-FR": "Année 1615",
+        "pt-BR": "Ano de 1615"
       },
       "children": [
         {
           "id": "lettre-1086",
           "title": {
-            "fr-FR": "Lettre MLXXXVI. À Madame de la Fléchère"
+            "fr-FR": "Lettre MLXXXVI. À Madame de la Fléchère",
+            "pt-BR": "Carta MLXXXVI. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1087",
           "title": {
-            "fr-FR": "Lettre MLXXXVII. Au Comte Prosper-Marc de Tournon ( L3, Note 434 )"
+            "fr-FR": "Lettre MLXXXVII. Au Comte Prosper-Marc de Tournon ( L3, Note 434 )",
+            "pt-BR": "Carta MLXXXVII. Ao Conde Prosper-Marc de Tournon ( L3, Nota 434 )"
           }
         },
         {
           "id": "lettre-1088",
           "title": {
-            "fr-FR": "Lettre MLXXXVIII. À la Mère de Chantal, a Lyon"
+            "fr-FR": "Lettre MLXXXVIII. À la Mère de Chantal, a Lyon",
+            "pt-BR": "Carta MLXXXVIII. À Madre de Chantal, em Lyon"
           }
         },
         {
           "id": "lettre-1089",
           "title": {
-            "fr-FR": "Lettre MLXXXIX. À Madame de Peyzieu"
+            "fr-FR": "Lettre MLXXXIX. À Madame de Peyzieu",
+            "pt-BR": "Carta MLXXXIX. À Senhora de Peyzieu"
           }
         },
         {
           "id": "lettre-1090",
           "title": {
-            "fr-FR": "Lettre MXC. À Madame de la Flechere"
+            "fr-FR": "Lettre MXC. À Madame de la Flechere",
+            "pt-BR": "Carta MXC. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1091",
           "title": {
-            "fr-FR": "Lettre MXCI. À Madame de Ruans"
+            "fr-FR": "Lettre MXCI. À Madame de Ruans",
+            "pt-BR": "Carta MXCI. À Senhora de Ruans"
           }
         },
         {
           "id": "lettre-1092",
           "title": {
-            "fr-FR": "Lettre MXCII. À Madame de la Croix d'Autherin"
+            "fr-FR": "Lettre MXCII. À Madame de la Croix d'Autherin",
+            "pt-BR": "Carta MXCII. À Senhora de la Croix d’Autherin"
           }
         },
         {
           "id": "lettre-1093",
           "title": {
-            "fr-FR": "Lettre MXCIII. À la Même"
+            "fr-FR": "Lettre MXCIII. À la Même",
+            "pt-BR": "Carta MXCIII. À mesma"
           }
         },
         {
           "id": "lettre-1094",
           "title": {
-            "fr-FR": "Lettre MXCIV. Au Cardinal Denis-Simon de Marquemont Archevêque de Lyon"
+            "fr-FR": "Lettre MXCIV. Au Cardinal Denis-Simon de Marquemont Archevêque de Lyon",
+            "pt-BR": "Carta MXCIV. Ao Cardeal Denis-Simon de Marquemont, Arcebispo de Lyon"
           }
         },
         {
           "id": "lettre-1095",
           "title": {
-            "fr-FR": "Lettre MXCV. À la Mère de Chantal, a Lyon"
+            "fr-FR": "Lettre MXCV. À la Mère de Chantal, a Lyon",
+            "pt-BR": "Carta MXCV. À Madre de Chantal, em Lyon"
           }
         },
         {
           "id": "lettre-1096",
           "title": {
-            "fr-FR": "Lettre MXCVI. À la Même, a Lyon"
+            "fr-FR": "Lettre MXCVI. À la Même, a Lyon",
+            "pt-BR": "Carta MXCVI. À mesma, em Lyon"
           }
         },
         {
           "id": "lettre-1097",
           "title": {
-            "fr-FR": "Lettre MXCVII. À la Même, a Lyon"
+            "fr-FR": "Lettre MXCVII. À la Même, a Lyon",
+            "pt-BR": "Carta MXCVII. À mesma, em Lyon"
           }
         },
         {
           "id": "lettre-1098",
           "title": {
-            "fr-FR": "Lettre MXCVIII. Au Supérieur d'Une Communauté"
+            "fr-FR": "Lettre MXCVIII. Au Supérieur d'Une Communauté",
+            "pt-BR": "Carta MXCVIII. Ao Superior de uma Comunidade"
           }
         },
         {
           "id": "lettre-1099",
           "title": {
-            "fr-FR": "Lettre MXCIX. À la Mère de Chantal, a Lyon"
+            "fr-FR": "Lettre MXCIX. À la Mère de Chantal, a Lyon",
+            "pt-BR": "Carta MXCIX. À Madre de Chantal, em Lyon"
           }
         },
         {
           "id": "lettre-1100",
           "title": {
-            "fr-FR": "Lettre MC. À Monseigneur Pierre Fenouillet Éveque de Montpellier ( L4, Note 11 )"
+            "fr-FR": "Lettre MC. À Monseigneur Pierre Fenouillet Éveque de Montpellier ( L4, Note 11 )",
+            "pt-BR": "Carta MC. A Dom Pierre Fenouillet, Bispo de Montpellier ( L4, Nota 11 )"
           }
         },
         {
           "id": "lettre-1101",
           "title": {
-            "fr-FR": "Lettre MCI. À M. Antoine des Hayes ( L2, Note 276 )"
+            "fr-FR": "Lettre MCI. À M. Antoine des Hayes ( L2, Note 276 )",
+            "pt-BR": "Carta MCI. Ao Sr. Antoine des Hayes ( L2, Nota 276 )"
           }
         },
         {
           "id": "lettre-1102",
           "title": {
-            "fr-FR": "Lettre MCII. À Madame de Travernay"
+            "fr-FR": "Lettre MCII. À Madame de Travernay",
+            "pt-BR": "Carta MCII. À Senhora de Travernay"
           }
         },
         {
           "id": "lettre-1103",
           "title": {
-            "fr-FR": "Lettre MCIII. À Monseigneur Pierre Fenouillet Évêque de Montpellier"
+            "fr-FR": "Lettre MCIII. À Monseigneur Pierre Fenouillet Évêque de Montpellier",
+            "pt-BR": "Carta MCIII. A Dom Pierre Fenouillet, Bispo de Montpellier"
           }
         },
         {
           "id": "lettre-1105",
           "title": {
-            "fr-FR": "Lettre MCV. À la Mère de Chantal, a Lyon"
+            "fr-FR": "Lettre MCV. À la Mère de Chantal, a Lyon",
+            "pt-BR": "Carta MCV. À Madre de Chantal, em Lyon"
           }
         },
         {
           "id": "lettre-1106",
           "title": {
-            "fr-FR": "Lettre MCVI. À la Même, a Lyon"
+            "fr-FR": "Lettre MCVI. À la Même, a Lyon",
+            "pt-BR": "Carta MCVI. À mesma, em Lyon"
           }
         },
         {
           "id": "lettre-1107",
           "title": {
-            "fr-FR": "Lettre MCVII. À la Soeur de Bréchard Assistante de la Visitation d'Annecy ( L4, Note 116 )"
+            "fr-FR": "Lettre MCVII. À la Soeur de Bréchard Assistante de la Visitation d'Annecy ( L4, Note 116 )",
+            "pt-BR": "Carta MCVII. À Irmã de Bréchard, Assistente da Visitação de Annecy ( L4, Nota 116 )"
           }
         },
         {
           "id": "lettre-1108",
           "title": {
-            "fr-FR": "Lettre MCVIII. À la Même"
+            "fr-FR": "Lettre MCVIII. À la Même",
+            "pt-BR": "Carta MCVIII. À mesma"
           }
         },
         {
           "id": "lettre-1109",
           "title": {
-            "fr-FR": "Lettre MCIX. À Madame de Peyzieu"
+            "fr-FR": "Lettre MCIX. À Madame de Peyzieu",
+            "pt-BR": "Carta MCIX. À Senhora de Peyzieu"
           }
         },
         {
           "id": "lettre-1110",
           "title": {
-            "fr-FR": "Lettre MCX. Au Prince de Piémont Victor-Amédée"
+            "fr-FR": "Lettre MCX. Au Prince de Piémont Victor-Amédée",
+            "pt-BR": "Carta MCX. Ao Príncipe do Piemonte, Vítor Amadeu"
           }
         },
         {
           "id": "lettre-1111",
           "title": {
-            "fr-FR": "Lettre MCXI. Au Chanoine Jean-François de Sales, son Frère"
+            "fr-FR": "Lettre MCXI. Au Chanoine Jean-François de Sales, son Frère",
+            "pt-BR": "Carta MCXI. Ao Cônego Jean-François de Sales, seu irmão"
           }
         },
         {
           "id": "lettre-1112",
           "title": {
-            "fr-FR": "Lettre MCXII. À Mm. les Examinateurs pour les Concours"
+            "fr-FR": "Lettre MCXII. À Mm. les Examinateurs pour les Concours",
+            "pt-BR": "Carta MCXII. Aos Srs. Examinadores dos Concursos"
           }
         },
         {
           "id": "lettre-1113",
           "title": {
-            "fr-FR": "Lettre MCXIII. Au Chanoine Jean-François de Sales, son Frère"
+            "fr-FR": "Lettre MCXIII. Au Chanoine Jean-François de Sales, son Frère",
+            "pt-BR": "Carta MCXIII. Ao Cônego Jean-François de Sales, seu irmão"
           }
         },
         {
           "id": "lettre-1114",
           "title": {
-            "fr-FR": "Lettre MCXIV. À la Mère Claudine de Blonay Abbesse de Sainte-Claire d'Évian ( L6, Note 502 )"
+            "fr-FR": "Lettre MCXIV. À la Mère Claudine de Blonay Abbesse de Sainte-Claire d'Évian ( L6, Note 502 )",
+            "pt-BR": "Carta MCXIV. À Madre Claudine de Blonay, Abadessa de Santa Clara de Évian ( L6, Nota 502 )"
           }
         },
         {
           "id": "lettre-1115",
           "title": {
-            "fr-FR": "Lettre MCXV. Au Duc de Savoie. Charles-Emmanuel 1er"
+            "fr-FR": "Lettre MCXV. Au Duc de Savoie. Charles-Emmanuel 1er",
+            "pt-BR": "Carta MCXV. Ao Duque de Saboia, Carlos Emanuel I"
           }
         },
         {
           "id": "lettre-1115-bis",
           "title": {
-            "fr-FR": "Lettre MCXV bis. Ndlr : Dans Notre Répertoire, Nous Attribuons Ce Nouveau Numéro à la Lettre Qui Suit et Qui a Été Remise à sa Vraie Place. Dans le Volume Xvii, Ainsi Que l'Indique la Note 176, Elle Avait Été Placée en Fin de Livre, aux Pages 400/401, Sous le Numéro Mcccvii. la Table des Matières Tient Compte de la Réorganisation"
+            "fr-FR": "Lettre MCXV bis. Ndlr : Dans Notre Répertoire, Nous Attribuons Ce Nouveau Numéro à la Lettre Qui Suit et Qui a Été Remise à sa Vraie Place. Dans le Volume Xvii, Ainsi Que l'Indique la Note 176, Elle Avait Été Placée en Fin de Livre, aux Pages 400/401, Sous le Numéro Mcccvii. la Table des Matières Tient Compte de la Réorganisation",
+            "pt-BR": "Carta MCXV bis. Nota da redação: Em nosso repertório, atribuímos este novo número à carta seguinte, que foi recolocada em seu verdadeiro lugar. No volume XVII, como indica a nota 176, ela havia sido colocada no fim do livro, nas páginas 400/401, sob o número MCCCVII. O sumário leva em conta a reorganização"
           }
         },
         {
           "id": "lettre-1116",
           "title": {
-            "fr-FR": "Lettre MCXVI. À Madame de la Fléchère"
+            "fr-FR": "Lettre MCXVI. À Madame de la Fléchère",
+            "pt-BR": "Carta MCXVI. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1117",
           "title": {
-            "fr-FR": "Lettre MCXVII. Au Duc de Savoie, Charles-Emmanuel 1er"
+            "fr-FR": "Lettre MCXVII. Au Duc de Savoie, Charles-Emmanuel 1er",
+            "pt-BR": "Carta MCXVII. Ao Duque de Saboia, Carlos Emanuel I"
           }
         },
         {
           "id": "lettre-1118",
           "title": {
-            "fr-FR": "Lettre MCXVIII. À Monseigneur Pierre Fenouillet, Evêque de Montpellier"
+            "fr-FR": "Lettre MCXVIII. À Monseigneur Pierre Fenouillet, Evêque de Montpellier",
+            "pt-BR": "Carta MCXVIII. A Dom Pierre Fenouillet, Bispo de Montpellier"
           }
         },
         {
           "id": "lettre-1119",
           "title": {
-            "fr-FR": "Lettre MCXIX. À la Mère Favre, Supérieure de la Visitation de Lyon ( L5, Note 323 )"
+            "fr-FR": "Lettre MCXIX. À la Mère Favre, Supérieure de la Visitation de Lyon ( L5, Note 323 )",
+            "pt-BR": "Carta MCXIX. À Madre Favre, Superiora da Visitação de Lyon ( L5, Nota 323 )"
           }
         },
         {
           "id": "lettre-1120",
           "title": {
-            "fr-FR": "Lettre MCXX. À Madame de la Fléchère"
+            "fr-FR": "Lettre MCXX. À Madame de la Fléchère",
+            "pt-BR": "Carta MCXX. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1121",
           "title": {
-            "fr-FR": "Lettre MCXXI. À la Mère de Chantal, a Lyon"
+            "fr-FR": "Lettre MCXXI. À la Mère de Chantal, a Lyon",
+            "pt-BR": "Carta MCXXI. À Madre de Chantal, em Lyon"
           }
         },
         {
           "id": "lettre-1122",
           "title": {
-            "fr-FR": "Lettre MCXXII. À la Mère Favre Supérieure de la Visitation de Lyon"
+            "fr-FR": "Lettre MCXXII. À la Mère Favre Supérieure de la Visitation de Lyon",
+            "pt-BR": "Carta MCXXII. À Madre Favre, Superiora da Visitação de Lyon"
           }
         },
         {
           "id": "lettre-1123",
           "title": {
-            "fr-FR": "Lettre MCXXIII. À M. Claude de Blonay ( L2, Note 148 )"
+            "fr-FR": "Lettre MCXXIII. À M. Claude de Blonay ( L2, Note 148 )",
+            "pt-BR": "Carta MCXXIII. Ao Sr. Claude de Blonay ( L2, Nota 148 )"
           }
         },
         {
           "id": "lettre-1124",
           "title": {
-            "fr-FR": "Lettre MCXXIV. À Madame de la Fléchere"
+            "fr-FR": "Lettre MCXXIV. À Madame de la Fléchere",
+            "pt-BR": "Carta MCXXIV. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1125",
           "title": {
-            "fr-FR": "Lettre MCXXV. À Monseigneur Pierre Fenouillet Évêque de Montpellier"
+            "fr-FR": "Lettre MCXXV. À Monseigneur Pierre Fenouillet Évêque de Montpellier",
+            "pt-BR": "Carta MCXXV. A Dom Pierre Fenouillet, Bispo de Montpellier"
           }
         },
         {
           "id": "lettre-1126",
           "title": {
-            "fr-FR": "Lettre MCXXVI. À la Mère de Chantal"
+            "fr-FR": "Lettre MCXXVI. À la Mère de Chantal",
+            "pt-BR": "Carta MCXXVI. À Madre de Chantal"
           }
         },
         {
           "id": "lettre-1127",
           "title": {
-            "fr-FR": "Lettre MCXXVII. À la Mère Favre, Supérieure de la Visitation de Lyon"
+            "fr-FR": "Lettre MCXXVII. À la Mère Favre, Supérieure de la Visitation de Lyon",
+            "pt-BR": "Carta MCXXVII. À Madre Favre, Superiora da Visitação de Lyon"
           }
         },
         {
           "id": "lettre-1128",
           "title": {
-            "fr-FR": "Lettre MCXXVIII. À Madame de la Fléchère"
+            "fr-FR": "Lettre MCXXVIII. À Madame de la Fléchère",
+            "pt-BR": "Carta MCXXVIII. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1129",
           "title": {
-            "fr-FR": "Lettre MCXXIX. À U Duc de Savole, Charles-Emmanuel 1er"
+            "fr-FR": "Lettre MCXXIX. À U Duc de Savole, Charles-Emmanuel 1er",
+            "pt-BR": "Carta MCXXIX. Ao Duque de Saboia, Carlos Emanuel I"
           }
         },
         {
           "id": "lettre-1130",
           "title": {
-            "fr-FR": "Lettre MCXXX. À Monseigneur Pierre Fenouillet Évêque de Montpellier"
+            "fr-FR": "Lettre MCXXX. À Monseigneur Pierre Fenouillet Évêque de Montpellier",
+            "pt-BR": "Carta MCXXX. A Dom Pierre Fenouillet, Bispo de Montpellier"
           }
         },
         {
           "id": "lettre-1131",
           "title": {
-            "fr-FR": "Lettre MCXXXI. À Madame de Peyzieu"
+            "fr-FR": "Lettre MCXXXI. À Madame de Peyzieu",
+            "pt-BR": "Carta MCXXXI. À Senhora de Peyzieu"
           }
         },
         {
           "id": "lettre-1132",
           "title": {
-            "fr-FR": "Lettre MCXXXII. Au Marquis Sigismond de Lans"
+            "fr-FR": "Lettre MCXXXII. Au Marquis Sigismond de Lans",
+            "pt-BR": "Carta MCXXXII. Ao Marquês Sigismond de Lans"
           }
         },
         {
           "id": "lettre-1133",
           "title": {
-            "fr-FR": "Lettre MCXXXIII. À la Mère de Chantal"
+            "fr-FR": "Lettre MCXXXIII. À la Mère de Chantal",
+            "pt-BR": "Carta MCXXXIII. À Madre de Chantal"
           }
         },
         {
           "id": "lettre-1134",
           "title": {
-            "fr-FR": "Lettre MCXXXIV. À la Même"
+            "fr-FR": "Lettre MCXXXIV. À la Même",
+            "pt-BR": "Carta MCXXXIV. À mesma"
           }
         },
         {
           "id": "lettre-1135",
           "title": {
-            "fr-FR": "Lettre MCXXXV. À la Mere Favre, Supérieure de la Visitation de Lyon"
+            "fr-FR": "Lettre MCXXXV. À la Mere Favre, Supérieure de la Visitation de Lyon",
+            "pt-BR": "Carta MCXXXV. À Madre Favre, Superiora da Visitação de Lyon"
           }
         },
         {
           "id": "lettre-1136",
           "title": {
-            "fr-FR": "Lettre MCXXXVI. À la Mere de Chantal"
+            "fr-FR": "Lettre MCXXXVI. À la Mere de Chantal",
+            "pt-BR": "Carta MCXXXVI. À Madre de Chantal"
           }
         },
         {
           "id": "lettre-1137",
           "title": {
-            "fr-FR": "Lettre MCXXXVII. À M. Guillaume de Bernard de Foras (l6, Note 541)"
+            "fr-FR": "Lettre MCXXXVII. À M. Guillaume de Bernard de Foras (l6, Note 541)",
+            "pt-BR": "Carta MCXXXVII. Ao Sr. Guillaume de Bernard de Foras (l6, Nota 541)"
           }
         },
         {
           "id": "lettre-1138",
           "title": {
-            "fr-FR": "Lettre MCXXXVIII. À Madame de la Fléchère"
+            "fr-FR": "Lettre MCXXXVIII. À Madame de la Fléchère",
+            "pt-BR": "Carta MCXXXVIII. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1139",
           "title": {
-            "fr-FR": "Lettre MCXXXIX. À la Mère Favre Supérieure de la Visitation de Lyon"
+            "fr-FR": "Lettre MCXXXIX. À la Mère Favre Supérieure de la Visitation de Lyon",
+            "pt-BR": "Carta MCXXXIX. À Madre Favre, Superiora da Visitação de Lyon"
           }
         },
         {
           "id": "lettre-1140",
           "title": {
-            "fr-FR": "Lettre MCXL. À la Soeur de Blonay"
+            "fr-FR": "Lettre MCXL. À la Soeur de Blonay",
+            "pt-BR": "Carta MCXL. À Irmã de Blonay"
           }
         },
         {
           "id": "lettre-1141",
           "title": {
-            "fr-FR": "Lettre MCXLI. Au Marquis Sigismond de Lans"
+            "fr-FR": "Lettre MCXLI. Au Marquis Sigismond de Lans",
+            "pt-BR": "Carta MCXLI. Ao Marquês Sigismond de Lans"
           }
         },
         {
           "id": "lettre-1142",
           "title": {
-            "fr-FR": "Lettre MCXLII. Au Duc de Savoie, Charles-Emmanuel 1er"
+            "fr-FR": "Lettre MCXLII. Au Duc de Savoie, Charles-Emmanuel 1er",
+            "pt-BR": "Carta MCXLII. Ao Duque de Saboia, Carlos Emanuel I"
           }
         },
         {
           "id": "lettre-1143",
           "title": {
-            "fr-FR": "Lettre MCXLIII. À M. Claude-Amedée Vibod"
+            "fr-FR": "Lettre MCXLIII. À M. Claude-Amedée Vibod",
+            "pt-BR": "Carta MCXLIII. Ao Sr. Claude-Amédée Vibod"
           }
         },
         {
           "id": "lettre-1144",
           "title": {
-            "fr-FR": "Lettre MCXLIV. À Madame de la Fléchère"
+            "fr-FR": "Lettre MCXLIV. À Madame de la Fléchère",
+            "pt-BR": "Carta MCXLIV. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1145",
           "title": {
-            "fr-FR": "Lettre MCXLV. À Dom Sens de Sainte-Catherine Général des Feuillants"
+            "fr-FR": "Lettre MCXLV. À Dom Sens de Sainte-Catherine Général des Feuillants",
+            "pt-BR": "Carta MCXLV. A Dom Sens de Santa Catarina, Geral dos Feuillants"
           }
         },
         {
           "id": "lettre-1146",
           "title": {
-            "fr-FR": "Lettre MCXLVI. À la Mère Favre Supérieure de la Visitation de Lyon"
+            "fr-FR": "Lettre MCXLVI. À la Mère Favre Supérieure de la Visitation de Lyon",
+            "pt-BR": "Carta MCXLVI. À Madre Favre, Superiora da Visitação de Lyon"
           }
         },
         {
           "id": "lettre-1147",
           "title": {
-            "fr-FR": "Lettre MCXLVII. À Madame de Vignod"
+            "fr-FR": "Lettre MCXLVII. À Madame de Vignod",
+            "pt-BR": "Carta MCXLVII. À Senhora de Vignod"
           }
         },
         {
           "id": "lettre-1148",
           "title": {
-            "fr-FR": "Lettre MCXLVIII. À la Mère Favre Supérieure de la Visitation de Lyon"
+            "fr-FR": "Lettre MCXLVIII. À la Mère Favre Supérieure de la Visitation de Lyon",
+            "pt-BR": "Carta MCXLVIII. À Madre Favre, Superiora da Visitação de Lyon"
           }
         },
         {
           "id": "lettre-1149",
           "title": {
-            "fr-FR": "Lettre MCXLIX. À M. Jean-François du Martherey"
+            "fr-FR": "Lettre MCXLIX. À M. Jean-François du Martherey",
+            "pt-BR": "Carta MCXLIX. Ao Sr. Jean-François du Martherey"
           }
         },
         {
           "id": "lettre-1150",
           "title": {
-            "fr-FR": "Lettre MCL. À M. Guillaume de Bernard de Foras"
+            "fr-FR": "Lettre MCL. À M. Guillaume de Bernard de Foras",
+            "pt-BR": "Carta MCL. Ao Sr. Guillaume de Bernard de Foras"
           }
         },
         {
           "id": "lettre-1151",
           "title": {
-            "fr-FR": "Lettre MCLI. À Monseigneur Hildebrand Jost, Évêque de Sion"
+            "fr-FR": "Lettre MCLI. À Monseigneur Hildebrand Jost, Évêque de Sion",
+            "pt-BR": "Carta MCLI. A Dom Hildebrand Jost, Bispo de Sion"
           }
         },
         {
           "id": "lettre-1152",
           "title": {
-            "fr-FR": "Lettre MCLII. À la Mère de Chantal"
+            "fr-FR": "Lettre MCLII. À la Mère de Chantal",
+            "pt-BR": "Carta MCLII. À Madre de Chantal"
           }
         },
         {
           "id": "lettre-1153",
           "title": {
-            "fr-FR": "Lettre MCLIII. À la Soeur de Chastel Religieuse de la Visitation a Lyon"
+            "fr-FR": "Lettre MCLIII. À la Soeur de Chastel Religieuse de la Visitation a Lyon",
+            "pt-BR": "Carta MCLIII. À Irmã de Chastel, Religiosa da Visitação em Lyon"
           }
         },
         {
           "id": "lettre-1154",
           "title": {
-            "fr-FR": "Lettre MCLIV. À la Mère Favre, Supérieure de la Visitation de Lyon"
+            "fr-FR": "Lettre MCLIV. À la Mère Favre, Supérieure de la Visitation de Lyon",
+            "pt-BR": "Carta MCLIV. À Madre Favre, Superiora da Visitação de Lyon"
           }
         }
       ]
@@ -463,679 +539,792 @@
     {
       "id": "annee-02",
       "title": {
-        "fr-FR": "Année 1616"
+        "fr-FR": "Année 1616",
+        "pt-BR": "Ano de 1616"
       },
       "children": [
         {
           "id": "lettre-1155",
           "title": {
-            "fr-FR": "Lettre MCLV. À la Mère de Chantal"
+            "fr-FR": "Lettre MCLV. À la Mère de Chantal",
+            "pt-BR": "Carta MCLV. À Madre de Chantal"
           }
         },
         {
           "id": "lettre-1156",
           "title": {
-            "fr-FR": "Lettre MCLVI. Au Duc de Bellegarde"
+            "fr-FR": "Lettre MCLVI. Au Duc de Bellegarde",
+            "pt-BR": "Carta MCLVI. Ao Duque de Bellegarde"
           }
         },
         {
           "id": "lettre-1157",
           "title": {
-            "fr-FR": "Lettre MCLVII. À Monseigneur Pierre Fenouillet Evêque de Montpellier"
+            "fr-FR": "Lettre MCLVII. À Monseigneur Pierre Fenouillet Evêque de Montpellier",
+            "pt-BR": "Carta MCLVII. A Dom Pierre Fenouillet, Bispo de Montpellier"
           }
         },
         {
           "id": "lettre-1158",
           "title": {
-            "fr-FR": "Lettre MCLVIII. À Madame de la Flechère"
+            "fr-FR": "Lettre MCLVIII. À Madame de la Flechère",
+            "pt-BR": "Carta MCLVIII. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1159",
           "title": {
-            "fr-FR": "Lettre MCLIX. À la Mère Favre Supérieure de la Visitation de Lyon"
+            "fr-FR": "Lettre MCLIX. À la Mère Favre Supérieure de la Visitation de Lyon",
+            "pt-BR": "Carta MCLIX. À Madre Favre, Superiora da Visitação de Lyon"
           }
         },
         {
           "id": "lettre-1160",
           "title": {
-            "fr-FR": "Lettre MCLX. À Madame de la Fléchère"
+            "fr-FR": "Lettre MCLX. À Madame de la Fléchère",
+            "pt-BR": "Carta MCLX. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1161",
           "title": {
-            "fr-FR": "Lettre MCLXI. À Monseigneur Pierre Fenouillet Évêque de Montpellier"
+            "fr-FR": "Lettre MCLXI. À Monseigneur Pierre Fenouillet Évêque de Montpellier",
+            "pt-BR": "Carta MCLXI. A Dom Pierre Fenouillet, Bispo de Montpellier"
           }
         },
         {
           "id": "lettre-1162",
           "title": {
-            "fr-FR": "Lettre MCLXII. À la Mère Favre Supérieure de la Visitation de Lyon"
+            "fr-FR": "Lettre MCLXII. À la Mère Favre Supérieure de la Visitation de Lyon",
+            "pt-BR": "Carta MCLXII. À Madre Favre, Superiora da Visitação de Lyon"
           }
         },
         {
           "id": "lettre-1163",
           "title": {
-            "fr-FR": "Lettre MCLXIII. À Madame de la Fléchere"
+            "fr-FR": "Lettre MCLXIII. À Madame de la Fléchere",
+            "pt-BR": "Carta MCLXIII. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1164",
           "title": {
-            "fr-FR": "Lettre MCLXIV. À M. Philippe de Quoex"
+            "fr-FR": "Lettre MCLXIV. À M. Philippe de Quoex",
+            "pt-BR": "Carta MCLXIV. Ao Sr. Philippe de Quoex"
           }
         },
         {
           "id": "lettre-1165",
           "title": {
-            "fr-FR": "Lettre MCLXV. À Madame de la Fléchère"
+            "fr-FR": "Lettre MCLXV. À Madame de la Fléchère",
+            "pt-BR": "Carta MCLXV. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1166",
           "title": {
-            "fr-FR": "Lettre MCLXVI. À Madame de Mieudry"
+            "fr-FR": "Lettre MCLXVI. À Madame de Mieudry",
+            "pt-BR": "Carta MCLXVI. À Senhora de Mieudry"
           }
         },
         {
           "id": "lettre-1167",
           "title": {
-            "fr-FR": "Lettre MCLXVII. À M. Jacques de Cerisier"
+            "fr-FR": "Lettre MCLXVII. À M. Jacques de Cerisier",
+            "pt-BR": "Carta MCLXVII. Ao Sr. Jacques de Cerisier"
           }
         },
         {
           "id": "lettre-1168",
           "title": {
-            "fr-FR": "Lettre MCLXVIII. À la Mere Favre Supérieure de la Visitation de Lyon"
+            "fr-FR": "Lettre MCLXVIII. À la Mere Favre Supérieure de la Visitation de Lyon",
+            "pt-BR": "Carta MCLXVIII. À Madre Favre, Superiora da Visitação de Lyon"
           }
         },
         {
           "id": "lettre-1169",
           "title": {
-            "fr-FR": "Lettre MCLXIX. À Madame de la Fléchère"
+            "fr-FR": "Lettre MCLXIX. À Madame de la Fléchère",
+            "pt-BR": "Carta MCLXIX. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1170",
           "title": {
-            "fr-FR": "Lettre MCLXX. Au Comte Prosper-Marc de Tournon"
+            "fr-FR": "Lettre MCLXX. Au Comte Prosper-Marc de Tournon",
+            "pt-BR": "Carta MCLXX. Ao Conde Prosper-Marc de Tournon"
           }
         },
         {
           "id": "lettre-1171",
           "title": {
-            "fr-FR": "Lettre MCLXXI. Au Duc de Savoie, Charles-Emmanuel 1er"
+            "fr-FR": "Lettre MCLXXI. Au Duc de Savoie, Charles-Emmanuel 1er",
+            "pt-BR": "Carta MCLXXI. Ao Duque de Saboia, Carlos Emanuel I"
           }
         },
         {
           "id": "lettre-1172",
           "title": {
-            "fr-FR": "Lettre MCLXXII. Au Cardinal Frédéric Borromée Archevêque de Milan"
+            "fr-FR": "Lettre MCLXXII. Au Cardinal Frédéric Borromée Archevêque de Milan",
+            "pt-BR": "Carta MCLXXII. Ao Cardeal Frederico Borromeu, Arcebispo de Milão"
           }
         },
         {
           "id": "lettre-1173",
           "title": {
-            "fr-FR": "Lettre MCLXXIII. À la Soeur de Chevron-Villette Novice de la Visitation de Lyon"
+            "fr-FR": "Lettre MCLXXIII. À la Soeur de Chevron-Villette Novice de la Visitation de Lyon",
+            "pt-BR": "Carta MCLXXIII. À Irmã de Chevron-Villette, Noviça da Visitação de Lyon"
           }
         },
         {
           "id": "lettre-1174",
           "title": {
-            "fr-FR": "Lettre MCLXXIV. À une Personne Inconnue"
+            "fr-FR": "Lettre MCLXXIV. À une Personne Inconnue",
+            "pt-BR": "Carta MCLXXIV. A uma pessoa desconhecida"
           }
         },
         {
           "id": "lettre-1175",
           "title": {
-            "fr-FR": "Lettre MCLXXV. À Madame de la Fléchere"
+            "fr-FR": "Lettre MCLXXV. À Madame de la Fléchere",
+            "pt-BR": "Carta MCLXXV. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1176",
           "title": {
-            "fr-FR": "Lettre MCLXXVI. À une Dame"
+            "fr-FR": "Lettre MCLXXVI. À une Dame",
+            "pt-BR": "Carta MCLXXVI. A uma senhora"
           }
         },
         {
           "id": "lettre-1177",
           "title": {
-            "fr-FR": "Lettre MCLXXVII. À Madame de la Fléchère"
+            "fr-FR": "Lettre MCLXXVII. À Madame de la Fléchère",
+            "pt-BR": "Carta MCLXXVII. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1178",
           "title": {
-            "fr-FR": "Lettre MCLXXVIII. À Don Juste Guérin, Barnabite"
+            "fr-FR": "Lettre MCLXXVIII. À Don Juste Guérin, Barnabite",
+            "pt-BR": "Carta MCLXXVIII. A Dom Justo Guérin, Barnabita"
           }
         },
         {
           "id": "lettre-1179",
           "title": {
-            "fr-FR": "Lettre MCLXXIX. Au Prince Cardinal Maurice de Savoie ( L3, Note 451 )"
+            "fr-FR": "Lettre MCLXXIX. Au Prince Cardinal Maurice de Savoie ( L3, Note 451 )",
+            "pt-BR": "Carta MCLXXIX. Ao Príncipe Cardeal Maurício de Saboia ( L3, Nota 451 )"
           }
         },
         {
           "id": "lettre-1180",
           "title": {
-            "fr-FR": "Lettre MCLXXX. Au Duc de Savoie, Charles-Emmanuel 1er"
+            "fr-FR": "Lettre MCLXXX. Au Duc de Savoie, Charles-Emmanuel 1er",
+            "pt-BR": "Carta MCLXXX. Ao Duque de Saboia, Carlos Emanuel I"
           }
         },
         {
           "id": "lettre-1181",
           "title": {
-            "fr-FR": "Lettre MCLXXXI. Au Prince de Piémont, Victor-Amédée"
+            "fr-FR": "Lettre MCLXXXI. Au Prince de Piémont, Victor-Amédée",
+            "pt-BR": "Carta MCLXXXI. Ao Príncipe do Piemonte, Vítor Amadeu"
           }
         },
         {
           "id": "lettre-1182",
           "title": {
-            "fr-FR": "Lettre MCLXXXII. À Madame de la Fléchère"
+            "fr-FR": "Lettre MCLXXXII. À Madame de la Fléchère",
+            "pt-BR": "Carta MCLXXXII. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1183",
           "title": {
-            "fr-FR": "Lettre MCLXXXIII. Au Duc de Nemours, Henri de Savoie"
+            "fr-FR": "Lettre MCLXXXIII. Au Duc de Nemours, Henri de Savoie",
+            "pt-BR": "Carta MCLXXXIII. Ao Duque de Nemours, Henrique de Saboia"
           }
         },
         {
           "id": "lettre-1184",
           "title": {
-            "fr-FR": "Lettre MCLXXXIV. À Don Juste Guérin, Barnabite"
+            "fr-FR": "Lettre MCLXXXIV. À Don Juste Guérin, Barnabite",
+            "pt-BR": "Carta MCLXXXIV. A Dom Justo Guérin, Barnabita"
           }
         },
         {
           "id": "lettre-1185",
           "title": {
-            "fr-FR": "Lettre MCLXXXV. Au Père Dominique de Chambéry, Capucin"
+            "fr-FR": "Lettre MCLXXXV. Au Père Dominique de Chambéry, Capucin",
+            "pt-BR": "Carta MCLXXXV. Ao Padre Domingos de Chambéry, Capuchinho"
           }
         },
         {
           "id": "lettre-1186",
           "title": {
-            "fr-FR": "Lettre MCLXXXVI. À la Soeur de Blonay"
+            "fr-FR": "Lettre MCLXXXVI. À la Soeur de Blonay",
+            "pt-BR": "Carta MCLXXXVI. À Irmã de Blonay"
           }
         },
         {
           "id": "lettre-1187",
           "title": {
-            "fr-FR": "Lettre MCLXXXVII. Au Duc de Savoie, Charles-Emmanuel 1er"
+            "fr-FR": "Lettre MCLXXXVII. Au Duc de Savoie, Charles-Emmanuel 1er",
+            "pt-BR": "Carta MCLXXXVII. Ao Duque de Saboia, Carlos Emanuel I"
           }
         },
         {
           "id": "lettre-1188",
           "title": {
-            "fr-FR": "Lettre MCLXXXVIII. À M. Claude-Amédée Vibod ( Note 309 )"
+            "fr-FR": "Lettre MCLXXXVIII. À M. Claude-Amédée Vibod ( Note 309 )",
+            "pt-BR": "Carta MCLXXXVIII. Ao Sr. Claude-Amédée Vibod ( Nota 309 )"
           }
         },
         {
           "id": "lettre-1189",
           "title": {
-            "fr-FR": "Lettre MCLXXXIX. Au Duc de Nemours, Henri de Savoie"
+            "fr-FR": "Lettre MCLXXXIX. Au Duc de Nemours, Henri de Savoie",
+            "pt-BR": "Carta MCLXXXIX. Ao Duque de Nemours, Henrique de Saboia"
           }
         },
         {
           "id": "lettre-1190",
           "title": {
-            "fr-FR": "Lettre MCXC. À Madame de Bressieu"
+            "fr-FR": "Lettre MCXC. À Madame de Bressieu",
+            "pt-BR": "Carta MCXC. À Senhora de Bressieu"
           }
         },
         {
           "id": "lettre-1191",
           "title": {
-            "fr-FR": "Lettre MCXCI. À la Mère de Chantal"
+            "fr-FR": "Lettre MCXCI. À la Mère de Chantal",
+            "pt-BR": "Carta MCXCI. À Madre de Chantal"
           }
         },
         {
           "id": "lettre-1192",
           "title": {
-            "fr-FR": "Lettre MCXCII. À la Mère Favre Supérieure de la Visitation de Lyon"
+            "fr-FR": "Lettre MCXCII. À la Mère Favre Supérieure de la Visitation de Lyon",
+            "pt-BR": "Carta MCXCII. À Madre Favre, Superiora da Visitação de Lyon"
           }
         },
         {
           "id": "lettre-1193",
           "title": {
-            "fr-FR": "Lettre MCXCIII. À Madame de la Fléchère"
+            "fr-FR": "Lettre MCXCIII. À Madame de la Fléchère",
+            "pt-BR": "Carta MCXCIII. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1194",
           "title": {
-            "fr-FR": "Lettre MCXCIV. À la Même"
+            "fr-FR": "Lettre MCXCIV. À la Même",
+            "pt-BR": "Carta MCXCIV. À mesma"
           }
         },
         {
           "id": "lettre-1195",
           "title": {
-            "fr-FR": "Lettre MCXCV. Au Duc de Savoie, Charles-Emmanuel 1er"
+            "fr-FR": "Lettre MCXCV. Au Duc de Savoie, Charles-Emmanuel 1er",
+            "pt-BR": "Carta MCXCV. Ao Duque de Saboia, Carlos Emanuel I"
           }
         },
         {
           "id": "lettre-1196",
           "title": {
-            "fr-FR": "Lettre MCXCVI. À un Gentilhomme"
+            "fr-FR": "Lettre MCXCVI. À un Gentilhomme",
+            "pt-BR": "Carta MCXCVI. A um Fidalgo"
           }
         },
         {
           "id": "lettre-1197",
           "title": {
-            "fr-FR": "Lettre MCXCVII. À la Soeur de Blonay"
+            "fr-FR": "Lettre MCXCVII. À la Soeur de Blonay",
+            "pt-BR": "Carta MCXCVII. À Irmã de Blonay"
           }
         },
         {
           "id": "lettre-1199",
           "title": {
-            "fr-FR": "Lettre MCXCIX. À la Mere de Chantal"
+            "fr-FR": "Lettre MCXCIX. À la Mere de Chantal",
+            "pt-BR": "Carta MCXCIX. À Madre de Chantal"
           }
         },
         {
           "id": "lettre-1200",
           "title": {
-            "fr-FR": "Lettre MCC. À Madame de la Fléchère"
+            "fr-FR": "Lettre MCC. À Madame de la Fléchère",
+            "pt-BR": "Carta MCC. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1201",
           "title": {
-            "fr-FR": "Lettre MCCI. À la Mère de Chantal"
+            "fr-FR": "Lettre MCCI. À la Mère de Chantal",
+            "pt-BR": "Carta MCCI. À Madre de Chantal"
           }
         },
         {
           "id": "lettre-1202",
           "title": {
-            "fr-FR": "Lettre MCCII. À la Même"
+            "fr-FR": "Lettre MCCII. À la Même",
+            "pt-BR": "Carta MCCII. À mesma"
           }
         },
         {
           "id": "lettre-1203",
           "title": {
-            "fr-FR": "Lettre MCCIII. À la Même"
+            "fr-FR": "Lettre MCCIII. À la Même",
+            "pt-BR": "Carta MCCIII. À mesma"
           }
         },
         {
           "id": "lettre-1204",
           "title": {
-            "fr-FR": "Lettre MCCIV. À la Même"
+            "fr-FR": "Lettre MCCIV. À la Même",
+            "pt-BR": "Carta MCCIV. À mesma"
           }
         },
         {
           "id": "lettre-1205",
           "title": {
-            "fr-FR": "Lettre MCCV. À la Même"
+            "fr-FR": "Lettre MCCV. À la Même",
+            "pt-BR": "Carta MCCV. À mesma"
           }
         },
         {
           "id": "lettre-1206",
           "title": {
-            "fr-FR": "Lettre MCCVI. À la Même"
+            "fr-FR": "Lettre MCCVI. À la Même",
+            "pt-BR": "Carta MCCVI. À mesma"
           }
         },
         {
           "id": "lettre-1207",
           "title": {
-            "fr-FR": "Lettre MCCVII. À Madame Louise de Ballon Religieuse de l'Abbaye de Sainte-Catherine"
+            "fr-FR": "Lettre MCCVII. À Madame Louise de Ballon Religieuse de l'Abbaye de Sainte-Catherine",
+            "pt-BR": "Carta MCCVII. À Senhora Louise de Ballon, Religiosa da Abadia de Santa Catarina"
           }
         },
         {
           "id": "lettre-1208",
           "title": {
-            "fr-FR": "Lettre MCCVIII. À la Mère Favre Supérieure de la Visitation de Lyon"
+            "fr-FR": "Lettre MCCVIII. À la Mère Favre Supérieure de la Visitation de Lyon",
+            "pt-BR": "Carta MCCVIII. À Madre Favre, Superiora da Visitação de Lyon"
           }
         },
         {
           "id": "lettre-1209",
           "title": {
-            "fr-FR": "Lettre MCCIX. À Madame de la Fléchère"
+            "fr-FR": "Lettre MCCIX. À Madame de la Fléchère",
+            "pt-BR": "Carta MCCIX. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1210",
           "title": {
-            "fr-FR": "Lettre MCCX. À la Même"
+            "fr-FR": "Lettre MCCX. À la Même",
+            "pt-BR": "Carta MCCX. À mesma"
           }
         },
         {
           "id": "lettre-1211",
           "title": {
-            "fr-FR": "Lettre MCCXI. À Madame Colin"
+            "fr-FR": "Lettre MCCXI. À Madame Colin",
+            "pt-BR": "Carta MCCXI. À Senhora Colin"
           }
         },
         {
           "id": "lettre-1212",
           "title": {
-            "fr-FR": "Lettre MCCXII. À Madame de la Fléchère"
+            "fr-FR": "Lettre MCCXII. À Madame de la Fléchère",
+            "pt-BR": "Carta MCCXII. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1213",
           "title": {
-            "fr-FR": "Lettre MCCXIII. À la Mère de Chantal"
+            "fr-FR": "Lettre MCCXIII. À la Mère de Chantal",
+            "pt-BR": "Carta MCCXIII. À Madre de Chantal"
           }
         },
         {
           "id": "lettre-1214",
           "title": {
-            "fr-FR": "Lettre MCCXIV. À la Même"
+            "fr-FR": "Lettre MCCXIV. À la Même",
+            "pt-BR": "Carta MCCXIV. À mesma"
           }
         },
         {
           "id": "lettre-1215",
           "title": {
-            "fr-FR": "Lettre MCCXV. À Madame de la Fléchère"
+            "fr-FR": "Lettre MCCXV. À Madame de la Fléchère",
+            "pt-BR": "Carta MCCXV. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1216",
           "title": {
-            "fr-FR": "Lettre MCCXVI. À la Mère de Chantal"
+            "fr-FR": "Lettre MCCXVI. À la Mère de Chantal",
+            "pt-BR": "Carta MCCXVI. À Madre de Chantal"
           }
         },
         {
           "id": "lettre-1217",
           "title": {
-            "fr-FR": "Lettre MCCXVII. À la Soeur Coton, Novice de la Visitation de Lyon"
+            "fr-FR": "Lettre MCCXVII. À la Soeur Coton, Novice de la Visitation de Lyon",
+            "pt-BR": "Carta MCCXVII. À Irmã Coton, Noviça da Visitação de Lyon"
           }
         },
         {
           "id": "lettre-1218",
           "title": {
-            "fr-FR": "Lettre MCCXVIII. À M. Michel Favre"
+            "fr-FR": "Lettre MCCXVIII. À M. Michel Favre",
+            "pt-BR": "Carta MCCXVIII. Ao Sr. Michel Favre"
           }
         },
         {
           "id": "lettre-1219",
           "title": {
-            "fr-FR": "Lettre MCCXIX. Au Cardinal Robert Bellarmin"
+            "fr-FR": "Lettre MCCXIX. Au Cardinal Robert Bellarmin",
+            "pt-BR": "Carta MCCXIX. Ao Cardeal Roberto Belarmino"
           }
         },
         {
           "id": "lettre-1220",
           "title": {
-            "fr-FR": "Lettre MCCXX. À M. Melchior de Cornillon, son Beau-Frère"
+            "fr-FR": "Lettre MCCXX. À M. Melchior de Cornillon, son Beau-Frère",
+            "pt-BR": "Carta MCCXX. Ao Sr. Melchior de Cornillon, seu cunhado"
           }
         },
         {
           "id": "lettre-1221",
           "title": {
-            "fr-FR": "Lettre MCCXXI. À M. Claude Feydeau"
+            "fr-FR": "Lettre MCCXXI. À M. Claude Feydeau",
+            "pt-BR": "Carta MCCXXI. Ao Sr. Claude Feydeau"
           }
         },
         {
           "id": "lettre-1222",
           "title": {
-            "fr-FR": "Lettre MCCXXII. Au Même"
+            "fr-FR": "Lettre MCCXXII. Au Même",
+            "pt-BR": "Carta MCCXXII. Ao mesmo"
           }
         },
         {
           "id": "lettre-1223",
           "title": {
-            "fr-FR": "Lettre MCCXXIII. À la Mère de Bréchard Supérieure de la Visitation de Moulins"
+            "fr-FR": "Lettre MCCXXIII. À la Mère de Bréchard Supérieure de la Visitation de Moulins",
+            "pt-BR": "Carta MCCXXIII. À Madre de Bréchard, Superiora da Visitação de Moulins"
           }
         },
         {
           "id": "lettre-1224",
           "title": {
-            "fr-FR": "Lettre MCCXXIV. À la Soeur Bailly, Religieuse de la Visitation"
+            "fr-FR": "Lettre MCCXXIV. À la Soeur Bailly, Religieuse de la Visitation",
+            "pt-BR": "Carta MCCXXIV. À Irmã Bailly, Religiosa da Visitação"
           }
         },
         {
           "id": "lettre-1225",
           "title": {
-            "fr-FR": "Lettre MCCXXV. À la Soeur Humbert, Religieuse de la Visitation"
+            "fr-FR": "Lettre MCCXXV. À la Soeur Humbert, Religieuse de la Visitation",
+            "pt-BR": "Carta MCCXXV. À Irmã Humbert, Religiosa da Visitação"
           }
         },
         {
           "id": "lettre-1226",
           "title": {
-            "fr-FR": "Lettre MCCXXVI. À la Soeur de la Croix, Religieuse de la Visitation"
+            "fr-FR": "Lettre MCCXXVI. À la Soeur de la Croix, Religieuse de la Visitation",
+            "pt-BR": "Carta MCCXXVI. À Irmã da Cruz, Religiosa da Visitação"
           }
         },
         {
           "id": "lettre-1227",
           "title": {
-            "fr-FR": "Lettre MCCXXVII. Au Chanoine Roland Viot"
+            "fr-FR": "Lettre MCCXXVII. Au Chanoine Roland Viot",
+            "pt-BR": "Carta MCCXXVII. Ao Cônego Roland Viot"
           }
         },
         {
           "id": "lettre-1228",
           "title": {
-            "fr-FR": "Lettre MCCXXVIII. À .madame de la Fléchère"
+            "fr-FR": "Lettre MCCXXVIII. À .madame de la Fléchère",
+            "pt-BR": "Carta MCCXXVIII. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1229",
           "title": {
-            "fr-FR": "Lettre MCCXXIX. À la Même"
+            "fr-FR": "Lettre MCCXXIX. À la Même",
+            "pt-BR": "Carta MCCXXIX. À mesma"
           }
         },
         {
           "id": "lettre-1230",
           "title": {
-            "fr-FR": "Lettre MCCXXX. À la .mère de Chantal"
+            "fr-FR": "Lettre MCCXXX. À la .mère de Chantal",
+            "pt-BR": "Carta MCCXXX. À Madre de Chantal"
           }
         },
         {
           "id": "lettre-1231",
           "title": {
-            "fr-FR": "Lettre MCCXXXI. Au Duc Roger de Bellegarde"
+            "fr-FR": "Lettre MCCXXXI. Au Duc Roger de Bellegarde",
+            "pt-BR": "Carta MCCXXXI. Ao Duque Roger de Bellegarde"
           }
         },
         {
           "id": "lettre-1232",
           "title": {
-            "fr-FR": "Lettre MCCXXXII. Au Prince de Piémont Victor-Amédée"
+            "fr-FR": "Lettre MCCXXXII. Au Prince de Piémont Victor-Amédée",
+            "pt-BR": "Carta MCCXXXII. Ao Príncipe do Piemonte, Vítor Amadeu"
           }
         },
         {
           "id": "lettre-1233",
           "title": {
-            "fr-FR": "Lettre MCCXXXIII. Au Duc de Savoie, Charles-Emmanuel 1er"
+            "fr-FR": "Lettre MCCXXXIII. Au Duc de Savoie, Charles-Emmanuel 1er",
+            "pt-BR": "Carta MCCXXXIII. Ao Duque de Saboia, Carlos Emanuel I"
           }
         },
         {
           "id": "lettre-1234",
           "title": {
-            "fr-FR": "Lettre MCCXXXIV. Au Même"
+            "fr-FR": "Lettre MCCXXXIV. Au Même",
+            "pt-BR": "Carta MCCXXXIV. Ao mesmo"
           }
         },
         {
           "id": "lettre-1235",
           "title": {
-            "fr-FR": "Lettre MCCXXXV. À la Mère de Chantal"
+            "fr-FR": "Lettre MCCXXXV. À la Mère de Chantal",
+            "pt-BR": "Carta MCCXXXV. À Madre de Chantal"
           }
         },
         {
           "id": "lettre-1236",
           "title": {
-            "fr-FR": "Lettre MCCXXXVI. À la Mère de Bréchard Supérieure de la Visitation de Moulins"
+            "fr-FR": "Lettre MCCXXXVI. À la Mère de Bréchard Supérieure de la Visitation de Moulins",
+            "pt-BR": "Carta MCCXXXVI. À Madre de Bréchard, Superiora da Visitação de Moulins"
           }
         },
         {
           "id": "lettre-1237",
           "title": {
-            "fr-FR": "Lettre MCCXXXVII. À Madame des Gouffiers, a Moulins"
+            "fr-FR": "Lettre MCCXXXVII. À Madame des Gouffiers, a Moulins",
+            "pt-BR": "Carta MCCXXXVII. À Senhora des Gouffiers, em Moulins"
           }
         },
         {
           "id": "lettre-1238",
           "title": {
-            "fr-FR": "Lettre MCCXXXVIII. À Soeur Françoise de Cerisier, Clarisse d'Annecy"
+            "fr-FR": "Lettre MCCXXXVIII. À Soeur Françoise de Cerisier, Clarisse d'Annecy",
+            "pt-BR": "Carta MCCXXXVIII. À Irmã Françoise de Cerisier, Clarissa de Annecy"
           }
         },
         {
           "id": "lettre-1239",
           "title": {
-            "fr-FR": "Lettre MCCXXXIX. À la Mère de Chantal"
+            "fr-FR": "Lettre MCCXXXIX. À la Mère de Chantal",
+            "pt-BR": "Carta MCCXXXIX. À Madre de Chantal"
           }
         },
         {
           "id": "lettre-1240",
           "title": {
-            "fr-FR": "Lettre MCCXL. À Monseigneur Pierre Fenouillet Évêque de Montpellier"
+            "fr-FR": "Lettre MCCXL. À Monseigneur Pierre Fenouillet Évêque de Montpellier",
+            "pt-BR": "Carta MCCXL. A Dom Pierre Fenouillet, Bispo de Montpellier"
           }
         },
         {
           "id": "lettre-1241",
           "title": {
-            "fr-FR": "Lettre MCCXLI. À Madame de la Fléchère"
+            "fr-FR": "Lettre MCCXLI. À Madame de la Fléchère",
+            "pt-BR": "Carta MCCXLI. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1242",
           "title": {
-            "fr-FR": "Lettre MCCXLII. À Madame des Gouffiers"
+            "fr-FR": "Lettre MCCXLII. À Madame des Gouffiers",
+            "pt-BR": "Carta MCCXLII. À Senhora des Gouffiers"
           }
         },
         {
           "id": "lettre-1243",
           "title": {
-            "fr-FR": "Lettre MCCXLIII. À la Mère de Bréchard Supérieure de la Visitation de Moulins"
+            "fr-FR": "Lettre MCCXLIII. À la Mère de Bréchard Supérieure de la Visitation de Moulins",
+            "pt-BR": "Carta MCCXLIII. À Madre de Bréchard, Superiora da Visitação de Moulins"
           }
         },
         {
           "id": "lettre-1244",
           "title": {
-            "fr-FR": "Lettre MCCXLIV. À M. Claude de Blonay"
+            "fr-FR": "Lettre MCCXLIV. À M. Claude de Blonay",
+            "pt-BR": "Carta MCCXLIV. Ao Sr. Claude de Blonay"
           }
         },
         {
           "id": "lettre-1245",
           "title": {
-            "fr-FR": "Lettre MCCXLV. À M. Laurent Scotto"
+            "fr-FR": "Lettre MCCXLV. À M. Laurent Scotto",
+            "pt-BR": "Carta MCCXLV. Ao Sr. Laurent Scotto"
           }
         },
         {
           "id": "lettre-1246",
           "title": {
-            "fr-FR": "Lettre MCCXLVI. À M. Claude-Amédée Vlbod"
+            "fr-FR": "Lettre MCCXLVI. À M. Claude-Amédée Vlbod",
+            "pt-BR": "Carta MCCXLVI. Ao Sr. Claude-Amédée Vibod"
           }
         },
         {
           "id": "lettre-1247",
           "title": {
-            "fr-FR": "Lettre MCCXLVII. Au Duc de Savoie, Charles-Emmanuel 1er"
+            "fr-FR": "Lettre MCCXLVII. Au Duc de Savoie, Charles-Emmanuel 1er",
+            "pt-BR": "Carta MCCXLVII. Ao Duque de Saboia, Carlos Emanuel I"
           }
         },
         {
           "id": "lettre-1248",
           "title": {
-            "fr-FR": "Lettre MCCXLVIII. Au Prince de Piémont, Victor-Amédée"
+            "fr-FR": "Lettre MCCXLVIII. Au Prince de Piémont, Victor-Amédée",
+            "pt-BR": "Carta MCCXLVIII. Ao Príncipe do Piemonte, Vítor Amadeu"
           }
         },
         {
           "id": "lettre-1249",
           "title": {
-            "fr-FR": "Lettre MCCXLIX. Au Duc de Savoie, Charles-Emmanuel 1er"
+            "fr-FR": "Lettre MCCXLIX. Au Duc de Savoie, Charles-Emmanuel 1er",
+            "pt-BR": "Carta MCCXLIX. Ao Duque de Saboia, Carlos Emanuel I"
           }
         },
         {
           "id": "lettre-1250",
           "title": {
-            "fr-FR": "Lettre MCCL. À M. Claude-Amédée Vibod"
+            "fr-FR": "Lettre MCCL. À M. Claude-Amédée Vibod",
+            "pt-BR": "Carta MCCL. Ao Sr. Claude-Amédée Vibod"
           }
         },
         {
           "id": "lettre-1251",
           "title": {
-            "fr-FR": "Lettre MCCLI. À un Gentilhomme"
+            "fr-FR": "Lettre MCCLI. À un Gentilhomme",
+            "pt-BR": "Carta MCCLI. A um Fidalgo"
           }
         },
         {
           "id": "lettre-1252",
           "title": {
-            "fr-FR": "Lettre MCCLII. À Madame de la Fléchère"
+            "fr-FR": "Lettre MCCLII. À Madame de la Fléchère",
+            "pt-BR": "Carta MCCLII. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1253",
           "title": {
-            "fr-FR": "Lettre MCCLIII. À M. Barthélemy Flocard"
+            "fr-FR": "Lettre MCCLIII. À M. Barthélemy Flocard",
+            "pt-BR": "Carta MCCLIII. Ao Sr. Barthélemy Flocard"
           }
         },
         {
           "id": "lettre-1254",
           "title": {
-            "fr-FR": "Lettre MCCLIV. À Madame Guillet de Monthoux"
+            "fr-FR": "Lettre MCCLIV. À Madame Guillet de Monthoux",
+            "pt-BR": "Carta MCCLIV. À Senhora Guillet de Monthoux"
           }
         },
         {
           "id": "lettre-1255",
           "title": {
-            "fr-FR": "Lettre MCCLV. À Madame de la Fléchère"
+            "fr-FR": "Lettre MCCLV. À Madame de la Fléchère",
+            "pt-BR": "Carta MCCLV. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1256",
           "title": {
-            "fr-FR": "Lettre MCCLVI. Au Prince de Piémont, Victor-Amédée"
+            "fr-FR": "Lettre MCCLVI. Au Prince de Piémont, Victor-Amédée",
+            "pt-BR": "Carta MCCLVI. Ao Príncipe do Piemonte, Vítor Amadeu"
           }
         },
         {
           "id": "lettre-1257",
           "title": {
-            "fr-FR": "Lettre MCCLVII. À M. Annibal Boschi"
+            "fr-FR": "Lettre MCCLVII. À M. Annibal Boschi",
+            "pt-BR": "Carta MCCLVII. Ao Sr. Annibal Boschi"
           }
         },
         {
           "id": "lettre-1258",
           "title": {
-            "fr-FR": "Lettre MCCLVIII. Au Prince de Piémont, Victor-Amedée"
+            "fr-FR": "Lettre MCCLVIII. Au Prince de Piémont, Victor-Amedée",
+            "pt-BR": "Carta MCCLVIII. Ao Príncipe do Piemonte, Vítor Amadeu"
           }
         },
         {
           "id": "lettre-1259",
           "title": {
-            "fr-FR": "Lettre MCCLIX. À Madame de la Fléchère"
+            "fr-FR": "Lettre MCCLIX. À Madame de la Fléchère",
+            "pt-BR": "Carta MCCLIX. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1260",
           "title": {
-            "fr-FR": "Lettre MCCLX. À M. Jean Massen"
+            "fr-FR": "Lettre MCCLX. À M. Jean Massen",
+            "pt-BR": "Carta MCCLX. Ao Sr. Jean Massen"
           }
         },
         {
           "id": "lettre-1261",
           "title": {
-            "fr-FR": "Lettre MCCLXI. À M. René Gros de Saint-Joyre"
+            "fr-FR": "Lettre MCCLXI. À M. René Gros de Saint-Joyre",
+            "pt-BR": "Carta MCCLXI. Ao Sr. René Gros de Saint-Joyre"
           }
         },
         {
           "id": "lettre-1262",
           "title": {
-            "fr-FR": "Lettre MCCLXII. À la Mère de Chantal"
+            "fr-FR": "Lettre MCCLXII. À la Mère de Chantal",
+            "pt-BR": "Carta MCCLXII. À Madre de Chantal"
           }
         },
         {
           "id": "lettre-1263",
           "title": {
-            "fr-FR": "Lettre MCCLXIII. À la Même"
+            "fr-FR": "Lettre MCCLXIII. À la Même",
+            "pt-BR": "Carta MCCLXIII. À mesma"
           }
         },
         {
           "id": "lettre-1264",
           "title": {
-            "fr-FR": "Lettre MCCLXIV. À la Même"
+            "fr-FR": "Lettre MCCLXIV. À la Même",
+            "pt-BR": "Carta MCCLXIV. À mesma"
           }
         },
         {
           "id": "lettre-1265",
           "title": {
-            "fr-FR": "Lettre MCCLXV. À Monseigneur Fenouillet, Évêque de Montpellier"
+            "fr-FR": "Lettre MCCLXV. À Monseigneur Fenouillet, Évêque de Montpellier",
+            "pt-BR": "Carta MCCLXV. A Dom Fenouillet, Bispo de Montpellier"
           }
         },
         {
           "id": "lettre-1266",
           "title": {
-            "fr-FR": "Lettre MCCLXVI. À la Mère de Chantal"
+            "fr-FR": "Lettre MCCLXVI. À la Mère de Chantal",
+            "pt-BR": "Carta MCCLXVI. À Madre de Chantal"
           }
         },
         {
           "id": "lettre-1267",
           "title": {
-            "fr-FR": "Lettre MCCLXVII. À la Même"
+            "fr-FR": "Lettre MCCLXVII. À la Même",
+            "pt-BR": "Carta MCCLXVII. À mesma"
           }
         }
       ]
@@ -1143,241 +1332,281 @@
     {
       "id": "annee-03",
       "title": {
-        "fr-FR": "Année 1617"
+        "fr-FR": "Année 1617",
+        "pt-BR": "Ano de 1617"
       },
       "children": [
         {
           "id": "lettre-1268",
           "title": {
-            "fr-FR": "Lettre MCCLXVIII. À la Mère de Chantal"
+            "fr-FR": "Lettre MCCLXVIII. À la Mère de Chantal",
+            "pt-BR": "Carta MCCLXVIII. À Madre de Chantal"
           }
         },
         {
           "id": "lettre-1269",
           "title": {
-            "fr-FR": "Lettre MCCLXIX. Au Chanoine Denis de Granier"
+            "fr-FR": "Lettre MCCLXIX. Au Chanoine Denis de Granier",
+            "pt-BR": "Carta MCCLXIX. Ao Cônego Denis de Granier"
           }
         },
         {
           "id": "lettre-1270",
           "title": {
-            "fr-FR": "Lettre MCCLXX. À la Mère de Chantal"
+            "fr-FR": "Lettre MCCLXX. À la Mère de Chantal",
+            "pt-BR": "Carta MCCLXX. À Madre de Chantal"
           }
         },
         {
           "id": "lettre-1271",
           "title": {
-            "fr-FR": "Lettre MCCLXXI. Au Duc de Nemours, Henri de Savoie"
+            "fr-FR": "Lettre MCCLXXI. Au Duc de Nemours, Henri de Savoie",
+            "pt-BR": "Carta MCCLXXI. Ao Duque de Nemours, Henrique de Saboia"
           }
         },
         {
           "id": "lettre-1272",
           "title": {
-            "fr-FR": "Lettre MCCLXXII. Au Prince de Piémont, Victor-.amédée"
+            "fr-FR": "Lettre MCCLXXII. Au Prince de Piémont, Victor-.amédée",
+            "pt-BR": "Carta MCCLXXII. Ao Príncipe do Piemonte, Vítor Amadeu"
           }
         },
         {
           "id": "lettre-1273",
           "title": {
-            "fr-FR": "Lettre MCCLXXIII. Au Duc de Savoie, Charles-Emmanuel 1er"
+            "fr-FR": "Lettre MCCLXXIII. Au Duc de Savoie, Charles-Emmanuel 1er",
+            "pt-BR": "Carta MCCLXXIII. Ao Duque de Saboia, Carlos Emanuel I"
           }
         },
         {
           "id": "lettre-1274",
           "title": {
-            "fr-FR": "Lettre MCCLXXIV. À la Mère Favre Supérieure de la Visitation de Lyon"
+            "fr-FR": "Lettre MCCLXXIV. À la Mère Favre Supérieure de la Visitation de Lyon",
+            "pt-BR": "Carta MCCLXXIV. À Madre Favre, Superiora da Visitação de Lyon"
           }
         },
         {
           "id": "lettre-1275",
           "title": {
-            "fr-FR": "Lettre MCCLXXV. À la Mère de Chantal"
+            "fr-FR": "Lettre MCCLXXV. À la Mère de Chantal",
+            "pt-BR": "Carta MCCLXXV. À Madre de Chantal"
           }
         },
         {
           "id": "lettre-1276",
           "title": {
-            "fr-FR": "Lettre MCCLXXVI. À la Mère Claudine de Blonay Abbesse de Sainte-Claire d'Évian"
+            "fr-FR": "Lettre MCCLXXVI. À la Mère Claudine de Blonay Abbesse de Sainte-Claire d'Évian",
+            "pt-BR": "Carta MCCLXXVI. À Madre Claudine de Blonay, Abadessa de Santa Clara de Évian"
           }
         },
         {
           "id": "lettre-1277",
           "title": {
-            "fr-FR": "Lettre MCCLXXVII. À une Religieuse de l'Abbaye de Sainte-Catherine"
+            "fr-FR": "Lettre MCCLXXVII. À une Religieuse de l'Abbaye de Sainte-Catherine",
+            "pt-BR": "Carta MCCLXXVII. A uma Religiosa da Abadia de Santa Catarina"
           }
         },
         {
           "id": "lettre-1278",
           "title": {
-            "fr-FR": "Lettre MCCLXXVIII. Aux Chanoines de la Collégiale de Saint-Jacques de Sallanches"
+            "fr-FR": "Lettre MCCLXXVIII. Aux Chanoines de la Collégiale de Saint-Jacques de Sallanches",
+            "pt-BR": "Carta MCCLXXVIII. Aos Cônegos da Colegiada de São Tiago de Sallanches"
           }
         },
         {
           "id": "lettre-1279",
           "title": {
-            "fr-FR": "Lettre MCCLXXIX. À la Mère de Chantal"
+            "fr-FR": "Lettre MCCLXXIX. À la Mère de Chantal",
+            "pt-BR": "Carta MCCLXXIX. À Madre de Chantal"
           }
         },
         {
           "id": "lettre-1280",
           "title": {
-            "fr-FR": "Lettre MCCLXXX. À Madame des Gouffiers"
+            "fr-FR": "Lettre MCCLXXX. À Madame des Gouffiers",
+            "pt-BR": "Carta MCCLXXX. À Senhora des Gouffiers"
           }
         },
         {
           "id": "lettre-1281",
           "title": {
-            "fr-FR": "Lettre MCCLXXXI. À la Mère de Bréchard Supérieure de la Visitation de Moulins"
+            "fr-FR": "Lettre MCCLXXXI. À la Mère de Bréchard Supérieure de la Visitation de Moulins",
+            "pt-BR": "Carta MCCLXXXI. À Madre de Bréchard, Superiora da Visitação de Moulins"
           }
         },
         {
           "id": "lettre-1282",
           "title": {
-            "fr-FR": "Lettre MCCLXXXII. Au Duc de Savoie, Charles-Emmanuel 1er"
+            "fr-FR": "Lettre MCCLXXXII. Au Duc de Savoie, Charles-Emmanuel 1er",
+            "pt-BR": "Carta MCCLXXXII. Ao Duque de Saboia, Carlos Emanuel I"
           }
         },
         {
           "id": "lettre-1283",
           "title": {
-            "fr-FR": "Lettre MCCLXXXIII. À la Mère Favre Supérieure de la Visitation de Lyon"
+            "fr-FR": "Lettre MCCLXXXIII. À la Mère Favre Supérieure de la Visitation de Lyon",
+            "pt-BR": "Carta MCCLXXXIII. À Madre Favre, Superiora da Visitação de Lyon"
           }
         },
         {
           "id": "lettre-1284",
           "title": {
-            "fr-FR": "Lettre MCCLXXXIV. Au Chanoine Jean-François de Sales, son Frère"
+            "fr-FR": "Lettre MCCLXXXIV. Au Chanoine Jean-François de Sales, son Frère",
+            "pt-BR": "Carta MCCLXXXIV. Ao Cônego Jean-François de Sales, seu irmão"
           }
         },
         {
           "id": "lettre-1285",
           "title": {
-            "fr-FR": "Lettre MCCLXXXV. Au Prince de Piémont, Victor-Amédée"
+            "fr-FR": "Lettre MCCLXXXV. Au Prince de Piémont, Victor-Amédée",
+            "pt-BR": "Carta MCCLXXXV. Ao Príncipe do Piemonte, Vítor Amadeu"
           }
         },
         {
           "id": "lettre-1286",
           "title": {
-            "fr-FR": "Lettre MCCLXXXVI. Au Même"
+            "fr-FR": "Lettre MCCLXXXVI. Au Même",
+            "pt-BR": "Carta MCCLXXXVI. Ao mesmo"
           }
         },
         {
           "id": "lettre-1287",
           "title": {
-            "fr-FR": "Lettre MCCLXXXVII. Au Même"
+            "fr-FR": "Lettre MCCLXXXVII. Au Même",
+            "pt-BR": "Carta MCCLXXXVII. Ao mesmo"
           }
         },
         {
           "id": "lettre-1288",
           "title": {
-            "fr-FR": "Lettre MCCLXXXVIII. À la Mere de Chantal"
+            "fr-FR": "Lettre MCCLXXXVIII. À la Mere de Chantal",
+            "pt-BR": "Carta MCCLXXXVIII. À Madre de Chantal"
           }
         },
         {
           "id": "lettre-1289",
           "title": {
-            "fr-FR": "Lettre MCCLXXXIX. À Madame de Grandmaison"
+            "fr-FR": "Lettre MCCLXXXIX. À Madame de Grandmaison",
+            "pt-BR": "Carta MCCLXXXIX. À Senhora de Grandmaison"
           }
         },
         {
           "id": "lettre-1290",
           "title": {
-            "fr-FR": "Lettre MCCXC. À la Mère Favre Supérieure de la Visitation de Lyon"
+            "fr-FR": "Lettre MCCXC. À la Mère Favre Supérieure de la Visitation de Lyon",
+            "pt-BR": "Carta MCCXC. À Madre Favre, Superiora da Visitação de Lyon"
           }
         },
         {
           "id": "lettre-1291",
           "title": {
-            "fr-FR": "Lettre MCCXCI. À Madame de Vellepesle de Villeneuve"
+            "fr-FR": "Lettre MCCXCI. À Madame de Vellepesle de Villeneuve",
+            "pt-BR": "Carta MCCXCI. À Senhora de Vellepesle de Villeneuve"
           }
         },
         {
           "id": "lettre-1292",
           "title": {
-            "fr-FR": "Lettre MCCXCII. À Madame de Blanieu"
+            "fr-FR": "Lettre MCCXCII. À Madame de Blanieu",
+            "pt-BR": "Carta MCCXCII. À Senhora de Blanieu"
           }
         },
         {
           "id": "lettre-1293",
           "title": {
-            "fr-FR": "Lettre MCCXCIII. Aux Peres Barnabites Réunis en Chapitre Général a Milan"
+            "fr-FR": "Lettre MCCXCIII. Aux Peres Barnabites Réunis en Chapitre Général a Milan",
+            "pt-BR": "Carta MCCXCIII. Aos Padres Barnabitas reunidos em Capítulo Geral em Milão"
           }
         },
         {
           "id": "lettre-1294",
           "title": {
-            "fr-FR": "Lettre MCCXCIV. À la Présidente le Blanc De' Mions"
+            "fr-FR": "Lettre MCCXCIV. À la Présidente le Blanc De' Mions",
+            "pt-BR": "Carta MCCXCIV. À Senhora do presidente Le Blanc de Mions"
           }
         },
         {
           "id": "lettre-1295",
           "title": {
-            "fr-FR": "Lettre MCCXCV. À Madame de Veyssilieu"
+            "fr-FR": "Lettre MCCXCV. À Madame de Veyssilieu",
+            "pt-BR": "Carta MCCXCV. À Senhora de Veyssilieu"
           }
         },
         {
           "id": "lettre-1296",
           "title": {
-            "fr-FR": "Lettre MCCXCVI. À Madame Cottin"
+            "fr-FR": "Lettre MCCXCVI. À Madame Cottin",
+            "pt-BR": "Carta MCCXCVI. À Senhora Cottin"
           }
         },
         {
           "id": "lettre-1297",
           "title": {
-            "fr-FR": "Lettre MCCXCVII. Au Président Antoine Favre ( L1,note 50 )"
+            "fr-FR": "Lettre MCCXCVII. Au Président Antoine Favre ( L1,note 50 )",
+            "pt-BR": "Carta MCCXCVII. Ao Presidente Antoine Favre ( L1,nota 50 )"
           }
         },
         {
           "id": "lettre-1298",
           "title": {
-            "fr-FR": "Lettre MCCXCVIII. À M. Bénigne Milletot ( L5, Note 10 )"
+            "fr-FR": "Lettre MCCXCVIII. À M. Bénigne Milletot ( L5, Note 10 )",
+            "pt-BR": "Carta MCCXCVIII. Ao Sr. Bénigne Milletot ( L5, Nota 10 )"
           }
         },
         {
           "id": "lettre-1299",
           "title": {
-            "fr-FR": "Lettre MCCXCIX. Au Pere Général des Barnabites"
+            "fr-FR": "Lettre MCCXCIX. Au Pere Général des Barnabites",
+            "pt-BR": "Carta MCCXCIX. Ao Padre Geral dos Barnabitas"
           }
         },
         {
           "id": "lettre-1300",
           "title": {
-            "fr-FR": "Lettre MCCC. À la Comtesse de San Secondo"
+            "fr-FR": "Lettre MCCC. À la Comtesse de San Secondo",
+            "pt-BR": "Carta MCCC. À Condessa de San Secondo"
           }
         },
         {
           "id": "lettre-1301",
           "title": {
-            "fr-FR": "Lettre MCCCI. À la Présidente le Blanc de Mjons"
+            "fr-FR": "Lettre MCCCI. À la Présidente le Blanc de Mjons",
+            "pt-BR": "Carta MCCCI. À Senhora do presidente Le Blanc de Mions"
           }
         },
         {
           "id": "lettre-1302",
           "title": {
-            "fr-FR": "Lettre MCCCII. Au Prince de Piémont, Victor-Amédée"
+            "fr-FR": "Lettre MCCCII. Au Prince de Piémont, Victor-Amédée",
+            "pt-BR": "Carta MCCCII. Ao Príncipe do Piemonte, Vítor Amadeu"
           }
         },
         {
           "id": "lettre-1303",
           "title": {
-            "fr-FR": "Lettre MCCCIII. Au Duc de Savoie, Charles-Emmanuel 1er"
+            "fr-FR": "Lettre MCCCIII. Au Duc de Savoie, Charles-Emmanuel 1er",
+            "pt-BR": "Carta MCCCIII. Ao Duque de Saboia, Carlos Emanuel I"
           }
         },
         {
           "id": "lettre-1304",
           "title": {
-            "fr-FR": "Lettre MCCCIV. À Madame de la Fléchère"
+            "fr-FR": "Lettre MCCCIV. À Madame de la Fléchère",
+            "pt-BR": "Carta MCCCIV. À Senhora de la Fléchère"
           }
         },
         {
           "id": "lettre-1305",
           "title": {
-            "fr-FR": "Lettre MCCCV. À Madame de Granieu"
+            "fr-FR": "Lettre MCCCV. À Madame de Granieu",
+            "pt-BR": "Carta MCCCV. À Senhora de Granieu"
           }
         },
         {
           "id": "lettre-1306",
           "title": {
-            "fr-FR": "Lettre MCCCVI. Au Cardinal Robert Bellarmin"
+            "fr-FR": "Lettre MCCCVI. Au Cardinal Robert Bellarmin",
+            "pt-BR": "Carta MCCCVI. Ao Cardeal Roberto Belarmino"
           }
         }
       ]
