@@ -18,13 +18,19 @@
   },
   "composed": "1546–1582",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "teresa-of-avila/epistolario",
   "editions": {
     "es-ES": {
       "editor": "P. Silverio de Santa Teresa",
       "year": 1922
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -57,2569 +63,2997 @@
     {
       "id": "l001",
       "title": {
-        "es-ES": "Carta I"
+        "es-ES": "Carta I",
+        "pt-BR": "Carta I"
       }
     },
     {
       "id": "l002",
       "title": {
-        "es-ES": "Carta II"
+        "es-ES": "Carta II",
+        "pt-BR": "Carta II"
       }
     },
     {
       "id": "l003",
       "title": {
-        "es-ES": "Carta III"
+        "es-ES": "Carta III",
+        "pt-BR": "Carta III"
       }
     },
     {
       "id": "l004",
       "title": {
-        "es-ES": "Carta IV"
+        "es-ES": "Carta IV",
+        "pt-BR": "Carta IV"
       }
     },
     {
       "id": "l005",
       "title": {
-        "es-ES": "Carta V"
+        "es-ES": "Carta V",
+        "pt-BR": "Carta V"
       }
     },
     {
       "id": "l006",
       "title": {
-        "es-ES": "Carta VI"
+        "es-ES": "Carta VI",
+        "pt-BR": "Carta VI"
       }
     },
     {
       "id": "l007",
       "title": {
-        "es-ES": "Carta VII"
+        "es-ES": "Carta VII",
+        "pt-BR": "Carta VII"
       }
     },
     {
       "id": "l008",
       "title": {
-        "es-ES": "Carta VIII"
+        "es-ES": "Carta VIII",
+        "pt-BR": "Carta VIII"
       }
     },
     {
       "id": "l009",
       "title": {
-        "es-ES": "Carta IX"
+        "es-ES": "Carta IX",
+        "pt-BR": "Carta IX"
       }
     },
     {
       "id": "l010",
       "title": {
-        "es-ES": "Carta X"
+        "es-ES": "Carta X",
+        "pt-BR": "Carta X"
       }
     },
     {
       "id": "l011",
       "title": {
-        "es-ES": "Carta XI"
+        "es-ES": "Carta XI",
+        "pt-BR": "Carta XI"
       }
     },
     {
       "id": "l012",
       "title": {
-        "es-ES": "Carta XII"
+        "es-ES": "Carta XII",
+        "pt-BR": "Carta XII"
       }
     },
     {
       "id": "l013",
       "title": {
-        "es-ES": "Carta XIII"
+        "es-ES": "Carta XIII",
+        "pt-BR": "Carta XIII"
       }
     },
     {
       "id": "l014",
       "title": {
-        "es-ES": "Carta XIV"
+        "es-ES": "Carta XIV",
+        "pt-BR": "Carta XIV"
       }
     },
     {
       "id": "l015",
       "title": {
-        "es-ES": "Carta XV"
+        "es-ES": "Carta XV",
+        "pt-BR": "Carta XV"
       }
     },
     {
       "id": "l016",
       "title": {
-        "es-ES": "Carta XVI"
+        "es-ES": "Carta XVI",
+        "pt-BR": "Carta XVI"
       }
     },
     {
       "id": "l017",
       "title": {
-        "es-ES": "Carta XVII"
+        "es-ES": "Carta XVII",
+        "pt-BR": "Carta XVII"
       }
     },
     {
       "id": "l018",
       "title": {
-        "es-ES": "Carta XVIII"
+        "es-ES": "Carta XVIII",
+        "pt-BR": "Carta XVIII"
       }
     },
     {
       "id": "l019",
       "title": {
-        "es-ES": "Carta XIX"
+        "es-ES": "Carta XIX",
+        "pt-BR": "Carta XIX"
       }
     },
     {
       "id": "l020",
       "title": {
-        "es-ES": "Carta XX"
+        "es-ES": "Carta XX",
+        "pt-BR": "Carta XX"
       }
     },
     {
       "id": "l021",
       "title": {
-        "es-ES": "Carta XXI"
+        "es-ES": "Carta XXI",
+        "pt-BR": "Carta XXI"
       }
     },
     {
       "id": "l022",
       "title": {
-        "es-ES": "Carta XXII"
+        "es-ES": "Carta XXII",
+        "pt-BR": "Carta XXII"
       }
     },
     {
       "id": "l023",
       "title": {
-        "es-ES": "Carta XXIII"
+        "es-ES": "Carta XXIII",
+        "pt-BR": "Carta XXIII"
       }
     },
     {
       "id": "l024",
       "title": {
-        "es-ES": "Carta XXIV"
+        "es-ES": "Carta XXIV",
+        "pt-BR": "Carta XXIV"
       }
     },
     {
       "id": "l025",
       "title": {
-        "es-ES": "Carta XXV"
+        "es-ES": "Carta XXV",
+        "pt-BR": "Carta XXV"
       }
     },
     {
       "id": "l026",
       "title": {
-        "es-ES": "Carta XXVI"
+        "es-ES": "Carta XXVI",
+        "pt-BR": "Carta XXVI"
       }
     },
     {
       "id": "l027",
       "title": {
-        "es-ES": "Carta XXVII"
+        "es-ES": "Carta XXVII",
+        "pt-BR": "Carta XXVII"
       }
     },
     {
       "id": "l028",
       "title": {
-        "es-ES": "Carta XXVIII"
+        "es-ES": "Carta XXVIII",
+        "pt-BR": "Carta XXVIII"
       }
     },
     {
       "id": "l029",
       "title": {
-        "es-ES": "Carta XXIX"
+        "es-ES": "Carta XXIX",
+        "pt-BR": "Carta XXIX"
       }
     },
     {
       "id": "l030",
       "title": {
-        "es-ES": "Carta XXX"
+        "es-ES": "Carta XXX",
+        "pt-BR": "Carta XXX"
       }
     },
     {
       "id": "l031",
       "title": {
-        "es-ES": "Carta XXXI"
+        "es-ES": "Carta XXXI",
+        "pt-BR": "Carta XXXI"
       }
     },
     {
       "id": "l032",
       "title": {
-        "es-ES": "Carta XXXII"
+        "es-ES": "Carta XXXII",
+        "pt-BR": "Carta XXXII"
       }
     },
     {
       "id": "l033",
       "title": {
-        "es-ES": "Carta XXXIII"
+        "es-ES": "Carta XXXIII",
+        "pt-BR": "Carta XXXIII"
       }
     },
     {
       "id": "l034",
       "title": {
-        "es-ES": "Carta XXXIV"
+        "es-ES": "Carta XXXIV",
+        "pt-BR": "Carta XXXIV"
       }
     },
     {
       "id": "l035",
       "title": {
-        "es-ES": "Carta XXXV"
+        "es-ES": "Carta XXXV",
+        "pt-BR": "Carta XXXV"
       }
     },
     {
       "id": "l036",
       "title": {
-        "es-ES": "Carta XXXVI"
+        "es-ES": "Carta XXXVI",
+        "pt-BR": "Carta XXXVI"
       }
     },
     {
       "id": "l037",
       "title": {
-        "es-ES": "Carta XXXVII"
+        "es-ES": "Carta XXXVII",
+        "pt-BR": "Carta XXXVII"
       }
     },
     {
       "id": "l038",
       "title": {
-        "es-ES": "Carta XXXVIII"
+        "es-ES": "Carta XXXVIII",
+        "pt-BR": "Carta XXXVIII"
       }
     },
     {
       "id": "l039",
       "title": {
-        "es-ES": "Carta XXXIX"
+        "es-ES": "Carta XXXIX",
+        "pt-BR": "Carta XXXIX"
       }
     },
     {
       "id": "l040",
       "title": {
-        "es-ES": "Carta XL"
+        "es-ES": "Carta XL",
+        "pt-BR": "Carta XL"
       }
     },
     {
       "id": "l041",
       "title": {
-        "es-ES": "Carta XLI"
+        "es-ES": "Carta XLI",
+        "pt-BR": "Carta XLI"
       }
     },
     {
       "id": "l042",
       "title": {
-        "es-ES": "Carta XLII"
+        "es-ES": "Carta XLII",
+        "pt-BR": "Carta XLII"
       }
     },
     {
       "id": "l043",
       "title": {
-        "es-ES": "Carta XLIII"
+        "es-ES": "Carta XLIII",
+        "pt-BR": "Carta XLIII"
       }
     },
     {
       "id": "l044",
       "title": {
-        "es-ES": "Carta XLIV"
+        "es-ES": "Carta XLIV",
+        "pt-BR": "Carta XLIV"
       }
     },
     {
       "id": "l045",
       "title": {
-        "es-ES": "Carta XLV"
+        "es-ES": "Carta XLV",
+        "pt-BR": "Carta XLV"
       }
     },
     {
       "id": "l046",
       "title": {
-        "es-ES": "Carta XLVI"
+        "es-ES": "Carta XLVI",
+        "pt-BR": "Carta XLVI"
       }
     },
     {
       "id": "l047",
       "title": {
-        "es-ES": "Carta XLVII"
+        "es-ES": "Carta XLVII",
+        "pt-BR": "Carta XLVII"
       }
     },
     {
       "id": "l048",
       "title": {
-        "es-ES": "Carta XLVIII"
+        "es-ES": "Carta XLVIII",
+        "pt-BR": "Carta XLVIII"
       }
     },
     {
       "id": "l050",
       "title": {
-        "es-ES": "Carta L"
+        "es-ES": "Carta L",
+        "pt-BR": "Carta L"
       }
     },
     {
       "id": "l051",
       "title": {
-        "es-ES": "Carta LI"
+        "es-ES": "Carta LI",
+        "pt-BR": "Carta LI"
       }
     },
     {
       "id": "l052",
       "title": {
-        "es-ES": "Carta LII"
+        "es-ES": "Carta LII",
+        "pt-BR": "Carta LII"
       }
     },
     {
       "id": "l053",
       "title": {
-        "es-ES": "Carta LIII"
+        "es-ES": "Carta LIII",
+        "pt-BR": "Carta LIII"
       }
     },
     {
       "id": "l054",
       "title": {
-        "es-ES": "Carta LIV"
+        "es-ES": "Carta LIV",
+        "pt-BR": "Carta LIV"
       }
     },
     {
       "id": "l055",
       "title": {
-        "es-ES": "Carta LV"
+        "es-ES": "Carta LV",
+        "pt-BR": "Carta LV"
       }
     },
     {
       "id": "l056",
       "title": {
-        "es-ES": "Carta LVI"
+        "es-ES": "Carta LVI",
+        "pt-BR": "Carta LVI"
       }
     },
     {
       "id": "l057",
       "title": {
-        "es-ES": "Carta LVII"
+        "es-ES": "Carta LVII",
+        "pt-BR": "Carta LVII"
       }
     },
     {
       "id": "l058",
       "title": {
-        "es-ES": "Carta LVIII"
+        "es-ES": "Carta LVIII",
+        "pt-BR": "Carta LVIII"
       }
     },
     {
       "id": "l059",
       "title": {
-        "es-ES": "Carta LIX"
+        "es-ES": "Carta LIX",
+        "pt-BR": "Carta LIX"
       }
     },
     {
       "id": "l060",
       "title": {
-        "es-ES": "Carta LX"
+        "es-ES": "Carta LX",
+        "pt-BR": "Carta LX"
       }
     },
     {
       "id": "l061",
       "title": {
-        "es-ES": "Carta LXI"
+        "es-ES": "Carta LXI",
+        "pt-BR": "Carta LXI"
       }
     },
     {
       "id": "l062",
       "title": {
-        "es-ES": "Carta LXII"
+        "es-ES": "Carta LXII",
+        "pt-BR": "Carta LXII"
       }
     },
     {
       "id": "l063",
       "title": {
-        "es-ES": "Carta LXIII"
+        "es-ES": "Carta LXIII",
+        "pt-BR": "Carta LXIII"
       }
     },
     {
       "id": "l064",
       "title": {
-        "es-ES": "Carta LXIV"
+        "es-ES": "Carta LXIV",
+        "pt-BR": "Carta LXIV"
       }
     },
     {
       "id": "l065",
       "title": {
-        "es-ES": "Carta LXV"
+        "es-ES": "Carta LXV",
+        "pt-BR": "Carta LXV"
       }
     },
     {
       "id": "l067",
       "title": {
-        "es-ES": "Carta LXVII"
+        "es-ES": "Carta LXVII",
+        "pt-BR": "Carta LXVII"
       }
     },
     {
       "id": "l068",
       "title": {
-        "es-ES": "Carta LXVIII"
+        "es-ES": "Carta LXVIII",
+        "pt-BR": "Carta LXVIII"
       }
     },
     {
       "id": "l069",
       "title": {
-        "es-ES": "Carta LXIX"
+        "es-ES": "Carta LXIX",
+        "pt-BR": "Carta LXIX"
       }
     },
     {
       "id": "l070",
       "title": {
-        "es-ES": "Carta LXX"
+        "es-ES": "Carta LXX",
+        "pt-BR": "Carta LXX"
       }
     },
     {
       "id": "l071",
       "title": {
-        "es-ES": "Carta LXXI"
+        "es-ES": "Carta LXXI",
+        "pt-BR": "Carta LXXI"
       }
     },
     {
       "id": "l072",
       "title": {
-        "es-ES": "Carta LXXII"
+        "es-ES": "Carta LXXII",
+        "pt-BR": "Carta LXXII"
       }
     },
     {
       "id": "l073",
       "title": {
-        "es-ES": "Carta LXXIII"
+        "es-ES": "Carta LXXIII",
+        "pt-BR": "Carta LXXIII"
       }
     },
     {
       "id": "l074",
       "title": {
-        "es-ES": "Carta LXXIV"
+        "es-ES": "Carta LXXIV",
+        "pt-BR": "Carta LXXIV"
       }
     },
     {
       "id": "l075",
       "title": {
-        "es-ES": "Carta LXXV"
+        "es-ES": "Carta LXXV",
+        "pt-BR": "Carta LXXV"
       }
     },
     {
       "id": "l077",
       "title": {
-        "es-ES": "Carta LXXVII"
+        "es-ES": "Carta LXXVII",
+        "pt-BR": "Carta LXXVII"
       }
     },
     {
       "id": "l078",
       "title": {
-        "es-ES": "Carta LXXVIII"
+        "es-ES": "Carta LXXVIII",
+        "pt-BR": "Carta LXXVIII"
       }
     },
     {
       "id": "l079",
       "title": {
-        "es-ES": "Carta LXXIX"
+        "es-ES": "Carta LXXIX",
+        "pt-BR": "Carta LXXIX"
       }
     },
     {
       "id": "l080",
       "title": {
-        "es-ES": "Carta LXXX"
+        "es-ES": "Carta LXXX",
+        "pt-BR": "Carta LXXX"
       }
     },
     {
       "id": "l081",
       "title": {
-        "es-ES": "Carta LXXXI"
+        "es-ES": "Carta LXXXI",
+        "pt-BR": "Carta LXXXI"
       }
     },
     {
       "id": "l082",
       "title": {
-        "es-ES": "Carta LXXXII"
+        "es-ES": "Carta LXXXII",
+        "pt-BR": "Carta LXXXII"
       }
     },
     {
       "id": "l083",
       "title": {
-        "es-ES": "Carta LXXXIII"
+        "es-ES": "Carta LXXXIII",
+        "pt-BR": "Carta LXXXIII"
       }
     },
     {
       "id": "l084",
       "title": {
-        "es-ES": "Carta LXXXIV"
+        "es-ES": "Carta LXXXIV",
+        "pt-BR": "Carta LXXXIV"
       }
     },
     {
       "id": "l085",
       "title": {
-        "es-ES": "Carta LXXXV"
+        "es-ES": "Carta LXXXV",
+        "pt-BR": "Carta LXXXV"
       }
     },
     {
       "id": "l086",
       "title": {
-        "es-ES": "Carta LXXXVI"
+        "es-ES": "Carta LXXXVI",
+        "pt-BR": "Carta LXXXVI"
       }
     },
     {
       "id": "l087",
       "title": {
-        "es-ES": "Carta LXXXVII"
+        "es-ES": "Carta LXXXVII",
+        "pt-BR": "Carta LXXXVII"
       }
     },
     {
       "id": "l088",
       "title": {
-        "es-ES": "Carta LXXXVIII"
+        "es-ES": "Carta LXXXVIII",
+        "pt-BR": "Carta LXXXVIII"
       }
     },
     {
       "id": "l089",
       "title": {
-        "es-ES": "Carta LXXXIX"
+        "es-ES": "Carta LXXXIX",
+        "pt-BR": "Carta LXXXIX"
       }
     },
     {
       "id": "l090",
       "title": {
-        "es-ES": "Carta XC"
+        "es-ES": "Carta XC",
+        "pt-BR": "Carta XC"
       }
     },
     {
       "id": "l091",
       "title": {
-        "es-ES": "Carta XCI"
+        "es-ES": "Carta XCI",
+        "pt-BR": "Carta XCI"
       }
     },
     {
       "id": "l092",
       "title": {
-        "es-ES": "Carta XCII"
+        "es-ES": "Carta XCII",
+        "pt-BR": "Carta XCII"
       }
     },
     {
       "id": "l093",
       "title": {
-        "es-ES": "Carta XCIII"
+        "es-ES": "Carta XCIII",
+        "pt-BR": "Carta XCIII"
       }
     },
     {
       "id": "l094",
       "title": {
-        "es-ES": "Carta XCIV"
+        "es-ES": "Carta XCIV",
+        "pt-BR": "Carta XCIV"
       }
     },
     {
       "id": "l095",
       "title": {
-        "es-ES": "Carta XCV"
+        "es-ES": "Carta XCV",
+        "pt-BR": "Carta XCV"
       }
     },
     {
       "id": "l096",
       "title": {
-        "es-ES": "Carta XCVI"
+        "es-ES": "Carta XCVI",
+        "pt-BR": "Carta XCVI"
       }
     },
     {
       "id": "l097",
       "title": {
-        "es-ES": "Carta XCVII"
+        "es-ES": "Carta XCVII",
+        "pt-BR": "Carta XCVII"
       }
     },
     {
       "id": "l098",
       "title": {
-        "es-ES": "Carta XCVIII"
+        "es-ES": "Carta XCVIII",
+        "pt-BR": "Carta XCVIII"
       }
     },
     {
       "id": "l099",
       "title": {
-        "es-ES": "Carta XCIX"
+        "es-ES": "Carta XCIX",
+        "pt-BR": "Carta XCIX"
       }
     },
     {
       "id": "l100",
       "title": {
-        "es-ES": "Carta C"
+        "es-ES": "Carta C",
+        "pt-BR": "Carta C"
       }
     },
     {
       "id": "l101",
       "title": {
-        "es-ES": "Carta CI"
+        "es-ES": "Carta CI",
+        "pt-BR": "Carta CI"
       }
     },
     {
       "id": "l102",
       "title": {
-        "es-ES": "Carta CII"
+        "es-ES": "Carta CII",
+        "pt-BR": "Carta CII"
       }
     },
     {
       "id": "l103",
       "title": {
-        "es-ES": "Carta CIII"
+        "es-ES": "Carta CIII",
+        "pt-BR": "Carta CIII"
       }
     },
     {
       "id": "l104",
       "title": {
-        "es-ES": "Carta CIV"
+        "es-ES": "Carta CIV",
+        "pt-BR": "Carta CIV"
       }
     },
     {
       "id": "l105",
       "title": {
-        "es-ES": "Carta CV"
+        "es-ES": "Carta CV",
+        "pt-BR": "Carta CV"
       }
     },
     {
       "id": "l106",
       "title": {
-        "es-ES": "Carta CVI"
+        "es-ES": "Carta CVI",
+        "pt-BR": "Carta CVI"
       }
     },
     {
       "id": "l107",
       "title": {
-        "es-ES": "Carta CVII"
+        "es-ES": "Carta CVII",
+        "pt-BR": "Carta CVII"
       }
     },
     {
       "id": "l108",
       "title": {
-        "es-ES": "Carta CVIII"
+        "es-ES": "Carta CVIII",
+        "pt-BR": "Carta CVIII"
       }
     },
     {
       "id": "l109",
       "title": {
-        "es-ES": "Carta CIX"
+        "es-ES": "Carta CIX",
+        "pt-BR": "Carta CIX"
       }
     },
     {
       "id": "l110",
       "title": {
-        "es-ES": "Carta CX"
+        "es-ES": "Carta CX",
+        "pt-BR": "Carta CX"
       }
     },
     {
       "id": "l111",
       "title": {
-        "es-ES": "Carta CXI"
+        "es-ES": "Carta CXI",
+        "pt-BR": "Carta CXI"
       }
     },
     {
       "id": "l112",
       "title": {
-        "es-ES": "Carta CXII"
+        "es-ES": "Carta CXII",
+        "pt-BR": "Carta CXII"
       }
     },
     {
       "id": "l113",
       "title": {
-        "es-ES": "Carta CXIII"
+        "es-ES": "Carta CXIII",
+        "pt-BR": "Carta CXIII"
       }
     },
     {
       "id": "l114",
       "title": {
-        "es-ES": "Carta CXIV"
+        "es-ES": "Carta CXIV",
+        "pt-BR": "Carta CXIV"
       }
     },
     {
       "id": "l115",
       "title": {
-        "es-ES": "Carta CXV"
+        "es-ES": "Carta CXV",
+        "pt-BR": "Carta CXV"
       }
     },
     {
       "id": "l116",
       "title": {
-        "es-ES": "Carta CXVI"
+        "es-ES": "Carta CXVI",
+        "pt-BR": "Carta CXVI"
       }
     },
     {
       "id": "l117",
       "title": {
-        "es-ES": "Carta CXVII"
+        "es-ES": "Carta CXVII",
+        "pt-BR": "Carta CXVII"
       }
     },
     {
       "id": "l118",
       "title": {
-        "es-ES": "Carta CXVIII"
+        "es-ES": "Carta CXVIII",
+        "pt-BR": "Carta CXVIII"
       }
     },
     {
       "id": "l119",
       "title": {
-        "es-ES": "Carta CXIX"
+        "es-ES": "Carta CXIX",
+        "pt-BR": "Carta CXIX"
       }
     },
     {
       "id": "l120",
       "title": {
-        "es-ES": "Carta CXX"
+        "es-ES": "Carta CXX",
+        "pt-BR": "Carta CXX"
       }
     },
     {
       "id": "l121",
       "title": {
-        "es-ES": "Carta CXXI"
+        "es-ES": "Carta CXXI",
+        "pt-BR": "Carta CXXI"
       }
     },
     {
       "id": "l122",
       "title": {
-        "es-ES": "Carta CXXII"
+        "es-ES": "Carta CXXII",
+        "pt-BR": "Carta CXXII"
       }
     },
     {
       "id": "l123",
       "title": {
-        "es-ES": "Carta CXXIII"
+        "es-ES": "Carta CXXIII",
+        "pt-BR": "Carta CXXIII"
       }
     },
     {
       "id": "l124",
       "title": {
-        "es-ES": "Carta CXXIV"
+        "es-ES": "Carta CXXIV",
+        "pt-BR": "Carta CXXIV"
       }
     },
     {
       "id": "l125",
       "title": {
-        "es-ES": "Carta CXXV"
+        "es-ES": "Carta CXXV",
+        "pt-BR": "Carta CXXV"
       }
     },
     {
       "id": "l126",
       "title": {
-        "es-ES": "Carta CXXVI"
+        "es-ES": "Carta CXXVI",
+        "pt-BR": "Carta CXXVI"
       }
     },
     {
       "id": "l127",
       "title": {
-        "es-ES": "Carta CXXVII"
+        "es-ES": "Carta CXXVII",
+        "pt-BR": "Carta CXXVII"
       }
     },
     {
       "id": "l128",
       "title": {
-        "es-ES": "Carta CXXVIII"
+        "es-ES": "Carta CXXVIII",
+        "pt-BR": "Carta CXXVIII"
       }
     },
     {
       "id": "l129",
       "title": {
-        "es-ES": "Carta CXXIX"
+        "es-ES": "Carta CXXIX",
+        "pt-BR": "Carta CXXIX"
       }
     },
     {
       "id": "l130",
       "title": {
-        "es-ES": "Carta CXXX"
+        "es-ES": "Carta CXXX",
+        "pt-BR": "Carta CXXX"
       }
     },
     {
       "id": "l131",
       "title": {
-        "es-ES": "Carta CXXXI"
+        "es-ES": "Carta CXXXI",
+        "pt-BR": "Carta CXXXI"
       }
     },
     {
       "id": "l132",
       "title": {
-        "es-ES": "Carta CXXXII"
+        "es-ES": "Carta CXXXII",
+        "pt-BR": "Carta CXXXII"
       }
     },
     {
       "id": "l133",
       "title": {
-        "es-ES": "Carta CXXXIII"
+        "es-ES": "Carta CXXXIII",
+        "pt-BR": "Carta CXXXIII"
       }
     },
     {
       "id": "l134",
       "title": {
-        "es-ES": "Carta CXXXIV"
+        "es-ES": "Carta CXXXIV",
+        "pt-BR": "Carta CXXXIV"
       }
     },
     {
       "id": "l135",
       "title": {
-        "es-ES": "Carta CXXXV"
+        "es-ES": "Carta CXXXV",
+        "pt-BR": "Carta CXXXV"
       }
     },
     {
       "id": "l137",
       "title": {
-        "es-ES": "Carta CXXXVII"
+        "es-ES": "Carta CXXXVII",
+        "pt-BR": "Carta CXXXVII"
       }
     },
     {
       "id": "l138",
       "title": {
-        "es-ES": "Carta CXXXVIII"
+        "es-ES": "Carta CXXXVIII",
+        "pt-BR": "Carta CXXXVIII"
       }
     },
     {
       "id": "l139",
       "title": {
-        "es-ES": "Carta CXXXIX"
+        "es-ES": "Carta CXXXIX",
+        "pt-BR": "Carta CXXXIX"
       }
     },
     {
       "id": "l140",
       "title": {
-        "es-ES": "Carta CXL"
+        "es-ES": "Carta CXL",
+        "pt-BR": "Carta CXL"
       }
     },
     {
       "id": "l141",
       "title": {
-        "es-ES": "Carta CXLI"
+        "es-ES": "Carta CXLI",
+        "pt-BR": "Carta CXLI"
       }
     },
     {
       "id": "l143",
       "title": {
-        "es-ES": "Carta CXLIII"
+        "es-ES": "Carta CXLIII",
+        "pt-BR": "Carta CXLIII"
       }
     },
     {
       "id": "l144",
       "title": {
-        "es-ES": "Carta CXLIV"
+        "es-ES": "Carta CXLIV",
+        "pt-BR": "Carta CXLIV"
       }
     },
     {
       "id": "l145",
       "title": {
-        "es-ES": "Carta CXLV"
+        "es-ES": "Carta CXLV",
+        "pt-BR": "Carta CXLV"
       }
     },
     {
       "id": "l146",
       "title": {
-        "es-ES": "Carta CXLVI"
+        "es-ES": "Carta CXLVI",
+        "pt-BR": "Carta CXLVI"
       }
     },
     {
       "id": "l147",
       "title": {
-        "es-ES": "Carta CXLVII"
+        "es-ES": "Carta CXLVII",
+        "pt-BR": "Carta CXLVII"
       }
     },
     {
       "id": "l148",
       "title": {
-        "es-ES": "Carta CXLVIII"
+        "es-ES": "Carta CXLVIII",
+        "pt-BR": "Carta CXLVIII"
       }
     },
     {
       "id": "l149",
       "title": {
-        "es-ES": "Carta CXLIX"
+        "es-ES": "Carta CXLIX",
+        "pt-BR": "Carta CXLIX"
       }
     },
     {
       "id": "l150",
       "title": {
-        "es-ES": "Carta CL"
+        "es-ES": "Carta CL",
+        "pt-BR": "Carta CL"
       }
     },
     {
       "id": "l151",
       "title": {
-        "es-ES": "Carta CLI"
+        "es-ES": "Carta CLI",
+        "pt-BR": "Carta CLI"
       }
     },
     {
       "id": "l152",
       "title": {
-        "es-ES": "Carta CLII"
+        "es-ES": "Carta CLII",
+        "pt-BR": "Carta CLII"
       }
     },
     {
       "id": "l154",
       "title": {
-        "es-ES": "Carta CLIV"
+        "es-ES": "Carta CLIV",
+        "pt-BR": "Carta CLIV"
       }
     },
     {
       "id": "l155",
       "title": {
-        "es-ES": "Carta CLV"
+        "es-ES": "Carta CLV",
+        "pt-BR": "Carta CLV"
       }
     },
     {
       "id": "l157",
       "title": {
-        "es-ES": "Carta CLVII"
+        "es-ES": "Carta CLVII",
+        "pt-BR": "Carta CLVII"
       }
     },
     {
       "id": "l158",
       "title": {
-        "es-ES": "Carta CLVIII"
+        "es-ES": "Carta CLVIII",
+        "pt-BR": "Carta CLVIII"
       }
     },
     {
       "id": "l159",
       "title": {
-        "es-ES": "Carta CLIX"
+        "es-ES": "Carta CLIX",
+        "pt-BR": "Carta CLIX"
       }
     },
     {
       "id": "l160",
       "title": {
-        "es-ES": "Carta CLX"
+        "es-ES": "Carta CLX",
+        "pt-BR": "Carta CLX"
       }
     },
     {
       "id": "l161",
       "title": {
-        "es-ES": "Carta CLXI"
+        "es-ES": "Carta CLXI",
+        "pt-BR": "Carta CLXI"
       }
     },
     {
       "id": "l162",
       "title": {
-        "es-ES": "Carta CLXII"
+        "es-ES": "Carta CLXII",
+        "pt-BR": "Carta CLXII"
       }
     },
     {
       "id": "l163",
       "title": {
-        "es-ES": "Carta CLXIII"
+        "es-ES": "Carta CLXIII",
+        "pt-BR": "Carta CLXIII"
       }
     },
     {
       "id": "l164",
       "title": {
-        "es-ES": "Carta CLXIV"
+        "es-ES": "Carta CLXIV",
+        "pt-BR": "Carta CLXIV"
       }
     },
     {
       "id": "l165",
       "title": {
-        "es-ES": "Carta CLXV"
+        "es-ES": "Carta CLXV",
+        "pt-BR": "Carta CLXV"
       }
     },
     {
       "id": "l166",
       "title": {
-        "es-ES": "Carta CLXVI"
+        "es-ES": "Carta CLXVI",
+        "pt-BR": "Carta CLXVI"
       }
     },
     {
       "id": "l167",
       "title": {
-        "es-ES": "Carta CLXVII"
+        "es-ES": "Carta CLXVII",
+        "pt-BR": "Carta CLXVII"
       }
     },
     {
       "id": "l168",
       "title": {
-        "es-ES": "Carta CLXVIII"
+        "es-ES": "Carta CLXVIII",
+        "pt-BR": "Carta CLXVIII"
       }
     },
     {
       "id": "l169",
       "title": {
-        "es-ES": "Carta CLXIX"
+        "es-ES": "Carta CLXIX",
+        "pt-BR": "Carta CLXIX"
       }
     },
     {
       "id": "l170",
       "title": {
-        "es-ES": "Carta CLXX"
+        "es-ES": "Carta CLXX",
+        "pt-BR": "Carta CLXX"
       }
     },
     {
       "id": "l171",
       "title": {
-        "es-ES": "Carta CLXXI"
+        "es-ES": "Carta CLXXI",
+        "pt-BR": "Carta CLXXI"
       }
     },
     {
       "id": "l172",
       "title": {
-        "es-ES": "Carta CLXXII"
+        "es-ES": "Carta CLXXII",
+        "pt-BR": "Carta CLXXII"
       }
     },
     {
       "id": "l173",
       "title": {
-        "es-ES": "Carta CLXXIII"
+        "es-ES": "Carta CLXXIII",
+        "pt-BR": "Carta CLXXIII"
       }
     },
     {
       "id": "l174",
       "title": {
-        "es-ES": "Carta CLXXIV"
+        "es-ES": "Carta CLXXIV",
+        "pt-BR": "Carta CLXXIV"
       }
     },
     {
       "id": "l175",
       "title": {
-        "es-ES": "Carta CLXXV"
+        "es-ES": "Carta CLXXV",
+        "pt-BR": "Carta CLXXV"
       }
     },
     {
       "id": "l176",
       "title": {
-        "es-ES": "Carta CLXXVI"
+        "es-ES": "Carta CLXXVI",
+        "pt-BR": "Carta CLXXVI"
       }
     },
     {
       "id": "l177",
       "title": {
-        "es-ES": "Carta CLXXVII"
+        "es-ES": "Carta CLXXVII",
+        "pt-BR": "Carta CLXXVII"
       }
     },
     {
       "id": "l178",
       "title": {
-        "es-ES": "Carta CLXXVIII"
+        "es-ES": "Carta CLXXVIII",
+        "pt-BR": "Carta CLXXVIII"
       }
     },
     {
       "id": "l179",
       "title": {
-        "es-ES": "Carta CLXXIX"
+        "es-ES": "Carta CLXXIX",
+        "pt-BR": "Carta CLXXIX"
       }
     },
     {
       "id": "l180",
       "title": {
-        "es-ES": "Carta CLXXX"
+        "es-ES": "Carta CLXXX",
+        "pt-BR": "Carta CLXXX"
       }
     },
     {
       "id": "l181",
       "title": {
-        "es-ES": "Carta CLXXXI"
+        "es-ES": "Carta CLXXXI",
+        "pt-BR": "Carta CLXXXI"
       }
     },
     {
       "id": "l182",
       "title": {
-        "es-ES": "Carta CLXXXII"
+        "es-ES": "Carta CLXXXII",
+        "pt-BR": "Carta CLXXXII"
       }
     },
     {
       "id": "l183",
       "title": {
-        "es-ES": "Carta CLXXXIII"
+        "es-ES": "Carta CLXXXIII",
+        "pt-BR": "Carta CLXXXIII"
       }
     },
     {
       "id": "l184",
       "title": {
-        "es-ES": "Carta CLXXXIV"
+        "es-ES": "Carta CLXXXIV",
+        "pt-BR": "Carta CLXXXIV"
       }
     },
     {
       "id": "l185",
       "title": {
-        "es-ES": "Carta CLXXXV"
+        "es-ES": "Carta CLXXXV",
+        "pt-BR": "Carta CLXXXV"
       }
     },
     {
       "id": "l186",
       "title": {
-        "es-ES": "Carta CLXXXVI"
+        "es-ES": "Carta CLXXXVI",
+        "pt-BR": "Carta CLXXXVI"
       }
     },
     {
       "id": "l187",
       "title": {
-        "es-ES": "Carta CLXXXVII"
+        "es-ES": "Carta CLXXXVII",
+        "pt-BR": "Carta CLXXXVII"
       }
     },
     {
       "id": "l188",
       "title": {
-        "es-ES": "Carta CLXXXVIII"
+        "es-ES": "Carta CLXXXVIII",
+        "pt-BR": "Carta CLXXXVIII"
       }
     },
     {
       "id": "l189",
       "title": {
-        "es-ES": "Carta CLXXXIX"
+        "es-ES": "Carta CLXXXIX",
+        "pt-BR": "Carta CLXXXIX"
       }
     },
     {
       "id": "l190",
       "title": {
-        "es-ES": "Carta CXC"
+        "es-ES": "Carta CXC",
+        "pt-BR": "Carta CXC"
       }
     },
     {
       "id": "l191",
       "title": {
-        "es-ES": "Carta CXCI"
+        "es-ES": "Carta CXCI",
+        "pt-BR": "Carta CXCI"
       }
     },
     {
       "id": "l192",
       "title": {
-        "es-ES": "Carta CXCII"
+        "es-ES": "Carta CXCII",
+        "pt-BR": "Carta CXCII"
       }
     },
     {
       "id": "l193",
       "title": {
-        "es-ES": "Carta CXCIII"
+        "es-ES": "Carta CXCIII",
+        "pt-BR": "Carta CXCIII"
       }
     },
     {
       "id": "l194",
       "title": {
-        "es-ES": "Carta CXCIV"
+        "es-ES": "Carta CXCIV",
+        "pt-BR": "Carta CXCIV"
       }
     },
     {
       "id": "l195",
       "title": {
-        "es-ES": "Carta CXCV"
+        "es-ES": "Carta CXCV",
+        "pt-BR": "Carta CXCV"
       }
     },
     {
       "id": "l196",
       "title": {
-        "es-ES": "Carta CXCVI"
+        "es-ES": "Carta CXCVI",
+        "pt-BR": "Carta CXCVI"
       }
     },
     {
       "id": "l197",
       "title": {
-        "es-ES": "Carta CXCVII"
+        "es-ES": "Carta CXCVII",
+        "pt-BR": "Carta CXCVII"
       }
     },
     {
       "id": "l198",
       "title": {
-        "es-ES": "Carta CXCVIII"
+        "es-ES": "Carta CXCVIII",
+        "pt-BR": "Carta CXCVIII"
       }
     },
     {
       "id": "l199",
       "title": {
-        "es-ES": "Carta CXCIX"
+        "es-ES": "Carta CXCIX",
+        "pt-BR": "Carta CXCIX"
       }
     },
     {
       "id": "l200",
       "title": {
-        "es-ES": "Carta CC"
+        "es-ES": "Carta CC",
+        "pt-BR": "Carta CC"
       }
     },
     {
       "id": "l201",
       "title": {
-        "es-ES": "Carta CCI"
+        "es-ES": "Carta CCI",
+        "pt-BR": "Carta CCI"
       }
     },
     {
       "id": "l202",
       "title": {
-        "es-ES": "Carta CCII"
+        "es-ES": "Carta CCII",
+        "pt-BR": "Carta CCII"
       }
     },
     {
       "id": "l203",
       "title": {
-        "es-ES": "Carta CCIII"
+        "es-ES": "Carta CCIII",
+        "pt-BR": "Carta CCIII"
       }
     },
     {
       "id": "l204",
       "title": {
-        "es-ES": "Carta CCIV"
+        "es-ES": "Carta CCIV",
+        "pt-BR": "Carta CCIV"
       }
     },
     {
       "id": "l205",
       "title": {
-        "es-ES": "Carta CCV"
+        "es-ES": "Carta CCV",
+        "pt-BR": "Carta CCV"
       }
     },
     {
       "id": "l206",
       "title": {
-        "es-ES": "Carta CCVI"
+        "es-ES": "Carta CCVI",
+        "pt-BR": "Carta CCVI"
       }
     },
     {
       "id": "l207",
       "title": {
-        "es-ES": "Carta CCVII"
+        "es-ES": "Carta CCVII",
+        "pt-BR": "Carta CCVII"
       }
     },
     {
       "id": "l208",
       "title": {
-        "es-ES": "Carta CCVIII"
+        "es-ES": "Carta CCVIII",
+        "pt-BR": "Carta CCVIII"
       }
     },
     {
       "id": "l209",
       "title": {
-        "es-ES": "Carta CCIX"
+        "es-ES": "Carta CCIX",
+        "pt-BR": "Carta CCIX"
       }
     },
     {
       "id": "l210",
       "title": {
-        "es-ES": "Carta CCX"
+        "es-ES": "Carta CCX",
+        "pt-BR": "Carta CCX"
       }
     },
     {
       "id": "l211",
       "title": {
-        "es-ES": "Carta CCXI"
+        "es-ES": "Carta CCXI",
+        "pt-BR": "Carta CCXI"
       }
     },
     {
       "id": "l212",
       "title": {
-        "es-ES": "Carta CCXII"
+        "es-ES": "Carta CCXII",
+        "pt-BR": "Carta CCXII"
       }
     },
     {
       "id": "l213",
       "title": {
-        "es-ES": "Carta CCXIII"
+        "es-ES": "Carta CCXIII",
+        "pt-BR": "Carta CCXIII"
       }
     },
     {
       "id": "l214",
       "title": {
-        "es-ES": "Carta CCXIV"
+        "es-ES": "Carta CCXIV",
+        "pt-BR": "Carta CCXIV"
       }
     },
     {
       "id": "l215",
       "title": {
-        "es-ES": "Carta CCXV"
+        "es-ES": "Carta CCXV",
+        "pt-BR": "Carta CCXV"
       }
     },
     {
       "id": "l216",
       "title": {
-        "es-ES": "Carta CCXVI"
+        "es-ES": "Carta CCXVI",
+        "pt-BR": "Carta CCXVI"
       }
     },
     {
       "id": "l217",
       "title": {
-        "es-ES": "Carta CCXVII"
+        "es-ES": "Carta CCXVII",
+        "pt-BR": "Carta CCXVII"
       }
     },
     {
       "id": "l218",
       "title": {
-        "es-ES": "Carta CCXVIII"
+        "es-ES": "Carta CCXVIII",
+        "pt-BR": "Carta CCXVIII"
       }
     },
     {
       "id": "l219",
       "title": {
-        "es-ES": "Carta CCXIX"
+        "es-ES": "Carta CCXIX",
+        "pt-BR": "Carta CCXIX"
       }
     },
     {
       "id": "l220",
       "title": {
-        "es-ES": "Carta CCXX"
+        "es-ES": "Carta CCXX",
+        "pt-BR": "Carta CCXX"
       }
     },
     {
       "id": "l221",
       "title": {
-        "es-ES": "Carta CCXXI"
+        "es-ES": "Carta CCXXI",
+        "pt-BR": "Carta CCXXI"
       }
     },
     {
       "id": "l222",
       "title": {
-        "es-ES": "Carta CCXXII"
+        "es-ES": "Carta CCXXII",
+        "pt-BR": "Carta CCXXII"
       }
     },
     {
       "id": "l223",
       "title": {
-        "es-ES": "Carta CCXXIII"
+        "es-ES": "Carta CCXXIII",
+        "pt-BR": "Carta CCXXIII"
       }
     },
     {
       "id": "l224",
       "title": {
-        "es-ES": "Carta CCXXIV"
+        "es-ES": "Carta CCXXIV",
+        "pt-BR": "Carta CCXXIV"
       }
     },
     {
       "id": "l225",
       "title": {
-        "es-ES": "Carta CCXXV"
+        "es-ES": "Carta CCXXV",
+        "pt-BR": "Carta CCXXV"
       }
     },
     {
       "id": "l226",
       "title": {
-        "es-ES": "Carta CCXXVI"
+        "es-ES": "Carta CCXXVI",
+        "pt-BR": "Carta CCXXVI"
       }
     },
     {
       "id": "l227",
       "title": {
-        "es-ES": "Carta CCXXVII"
+        "es-ES": "Carta CCXXVII",
+        "pt-BR": "Carta CCXXVII"
       }
     },
     {
       "id": "l228",
       "title": {
-        "es-ES": "Carta CCXXVIII"
+        "es-ES": "Carta CCXXVIII",
+        "pt-BR": "Carta CCXXVIII"
       }
     },
     {
       "id": "l229",
       "title": {
-        "es-ES": "Carta CCXXIX"
+        "es-ES": "Carta CCXXIX",
+        "pt-BR": "Carta CCXXIX"
       }
     },
     {
       "id": "l230",
       "title": {
-        "es-ES": "Carta CCXXX"
+        "es-ES": "Carta CCXXX",
+        "pt-BR": "Carta CCXXX"
       }
     },
     {
       "id": "l231",
       "title": {
-        "es-ES": "Carta CCXXXI"
+        "es-ES": "Carta CCXXXI",
+        "pt-BR": "Carta CCXXXI"
       }
     },
     {
       "id": "l232",
       "title": {
-        "es-ES": "Carta CCXXXII"
+        "es-ES": "Carta CCXXXII",
+        "pt-BR": "Carta CCXXXII"
       }
     },
     {
       "id": "l233",
       "title": {
-        "es-ES": "Carta CCXXXIII"
+        "es-ES": "Carta CCXXXIII",
+        "pt-BR": "Carta CCXXXIII"
       }
     },
     {
       "id": "l234",
       "title": {
-        "es-ES": "Carta CCXXXIV"
+        "es-ES": "Carta CCXXXIV",
+        "pt-BR": "Carta CCXXXIV"
       }
     },
     {
       "id": "l235",
       "title": {
-        "es-ES": "Carta CCXXXV"
+        "es-ES": "Carta CCXXXV",
+        "pt-BR": "Carta CCXXXV"
       }
     },
     {
       "id": "l236",
       "title": {
-        "es-ES": "Carta CCXXXVI"
+        "es-ES": "Carta CCXXXVI",
+        "pt-BR": "Carta CCXXXVI"
       }
     },
     {
       "id": "l237",
       "title": {
-        "es-ES": "Carta CCXXXVII"
+        "es-ES": "Carta CCXXXVII",
+        "pt-BR": "Carta CCXXXVII"
       }
     },
     {
       "id": "l238",
       "title": {
-        "es-ES": "Carta CCXXXVIII"
+        "es-ES": "Carta CCXXXVIII",
+        "pt-BR": "Carta CCXXXVIII"
       }
     },
     {
       "id": "l239",
       "title": {
-        "es-ES": "Carta CCXXXIX"
+        "es-ES": "Carta CCXXXIX",
+        "pt-BR": "Carta CCXXXIX"
       }
     },
     {
       "id": "l240",
       "title": {
-        "es-ES": "Carta CCXL"
+        "es-ES": "Carta CCXL",
+        "pt-BR": "Carta CCXL"
       }
     },
     {
       "id": "l241",
       "title": {
-        "es-ES": "Carta CCXLI"
+        "es-ES": "Carta CCXLI",
+        "pt-BR": "Carta CCXLI"
       }
     },
     {
       "id": "l242",
       "title": {
-        "es-ES": "Carta CCXLII"
+        "es-ES": "Carta CCXLII",
+        "pt-BR": "Carta CCXLII"
       }
     },
     {
       "id": "l243",
       "title": {
-        "es-ES": "Carta CCXLIII"
+        "es-ES": "Carta CCXLIII",
+        "pt-BR": "Carta CCXLIII"
       }
     },
     {
       "id": "l244",
       "title": {
-        "es-ES": "Carta CCXLIV"
+        "es-ES": "Carta CCXLIV",
+        "pt-BR": "Carta CCXLIV"
       }
     },
     {
       "id": "l245",
       "title": {
-        "es-ES": "Carta CCXLV"
+        "es-ES": "Carta CCXLV",
+        "pt-BR": "Carta CCXLV"
       }
     },
     {
       "id": "l246",
       "title": {
-        "es-ES": "Carta CCXLVI"
+        "es-ES": "Carta CCXLVI",
+        "pt-BR": "Carta CCXLVI"
       }
     },
     {
       "id": "l247",
       "title": {
-        "es-ES": "Carta CCXLVII"
+        "es-ES": "Carta CCXLVII",
+        "pt-BR": "Carta CCXLVII"
       }
     },
     {
       "id": "l248",
       "title": {
-        "es-ES": "Carta CCXLVIII"
+        "es-ES": "Carta CCXLVIII",
+        "pt-BR": "Carta CCXLVIII"
       }
     },
     {
       "id": "l249",
       "title": {
-        "es-ES": "Carta CCXLIX"
+        "es-ES": "Carta CCXLIX",
+        "pt-BR": "Carta CCXLIX"
       }
     },
     {
       "id": "l250",
       "title": {
-        "es-ES": "Carta CCL"
+        "es-ES": "Carta CCL",
+        "pt-BR": "Carta CCL"
       }
     },
     {
       "id": "l251",
       "title": {
-        "es-ES": "Carta CCLI"
+        "es-ES": "Carta CCLI",
+        "pt-BR": "Carta CCLI"
       }
     },
     {
       "id": "l252",
       "title": {
-        "es-ES": "Carta CCLII"
+        "es-ES": "Carta CCLII",
+        "pt-BR": "Carta CCLII"
       }
     },
     {
       "id": "l253",
       "title": {
-        "es-ES": "Carta CCLIII"
+        "es-ES": "Carta CCLIII",
+        "pt-BR": "Carta CCLIII"
       }
     },
     {
       "id": "l254",
       "title": {
-        "es-ES": "Carta CCLIV"
+        "es-ES": "Carta CCLIV",
+        "pt-BR": "Carta CCLIV"
       }
     },
     {
       "id": "l255",
       "title": {
-        "es-ES": "Carta CCLV"
+        "es-ES": "Carta CCLV",
+        "pt-BR": "Carta CCLV"
       }
     },
     {
       "id": "l257",
       "title": {
-        "es-ES": "Carta CCLVII"
+        "es-ES": "Carta CCLVII",
+        "pt-BR": "Carta CCLVII"
       }
     },
     {
       "id": "l258",
       "title": {
-        "es-ES": "Carta CCLVIII"
+        "es-ES": "Carta CCLVIII",
+        "pt-BR": "Carta CCLVIII"
       }
     },
     {
       "id": "l259",
       "title": {
-        "es-ES": "Carta CCLIX"
+        "es-ES": "Carta CCLIX",
+        "pt-BR": "Carta CCLIX"
       }
     },
     {
       "id": "l260",
       "title": {
-        "es-ES": "Carta CCLX"
+        "es-ES": "Carta CCLX",
+        "pt-BR": "Carta CCLX"
       }
     },
     {
       "id": "l261",
       "title": {
-        "es-ES": "Carta CCLXI"
+        "es-ES": "Carta CCLXI",
+        "pt-BR": "Carta CCLXI"
       }
     },
     {
       "id": "l262",
       "title": {
-        "es-ES": "Carta CCLXII"
+        "es-ES": "Carta CCLXII",
+        "pt-BR": "Carta CCLXII"
       }
     },
     {
       "id": "l263",
       "title": {
-        "es-ES": "Carta CCLXIII"
+        "es-ES": "Carta CCLXIII",
+        "pt-BR": "Carta CCLXIII"
       }
     },
     {
       "id": "l264",
       "title": {
-        "es-ES": "Carta CCLXIV"
+        "es-ES": "Carta CCLXIV",
+        "pt-BR": "Carta CCLXIV"
       }
     },
     {
       "id": "l265",
       "title": {
-        "es-ES": "Carta CCLXV"
+        "es-ES": "Carta CCLXV",
+        "pt-BR": "Carta CCLXV"
       }
     },
     {
       "id": "l266",
       "title": {
-        "es-ES": "Carta CCLXVI"
+        "es-ES": "Carta CCLXVI",
+        "pt-BR": "Carta CCLXVI"
       }
     },
     {
       "id": "l267",
       "title": {
-        "es-ES": "Carta CCLXVII"
+        "es-ES": "Carta CCLXVII",
+        "pt-BR": "Carta CCLXVII"
       }
     },
     {
       "id": "l269",
       "title": {
-        "es-ES": "Carta CCLXIX"
+        "es-ES": "Carta CCLXIX",
+        "pt-BR": "Carta CCLXIX"
       }
     },
     {
       "id": "l270",
       "title": {
-        "es-ES": "Carta CCLXX"
+        "es-ES": "Carta CCLXX",
+        "pt-BR": "Carta CCLXX"
       }
     },
     {
       "id": "l271",
       "title": {
-        "es-ES": "Carta CCLXXI"
+        "es-ES": "Carta CCLXXI",
+        "pt-BR": "Carta CCLXXI"
       }
     },
     {
       "id": "l272",
       "title": {
-        "es-ES": "Carta CCLXXII"
+        "es-ES": "Carta CCLXXII",
+        "pt-BR": "Carta CCLXXII"
       }
     },
     {
       "id": "l273",
       "title": {
-        "es-ES": "Carta CCLXXIII"
+        "es-ES": "Carta CCLXXIII",
+        "pt-BR": "Carta CCLXXIII"
       }
     },
     {
       "id": "l274",
       "title": {
-        "es-ES": "Carta CCLXXIV"
+        "es-ES": "Carta CCLXXIV",
+        "pt-BR": "Carta CCLXXIV"
       }
     },
     {
       "id": "l275",
       "title": {
-        "es-ES": "Carta CCLXXV"
+        "es-ES": "Carta CCLXXV",
+        "pt-BR": "Carta CCLXXV"
       }
     },
     {
       "id": "l276",
       "title": {
-        "es-ES": "Carta CCLXXVI"
+        "es-ES": "Carta CCLXXVI",
+        "pt-BR": "Carta CCLXXVI"
       }
     },
     {
       "id": "l277",
       "title": {
-        "es-ES": "Carta CCLXXVII"
+        "es-ES": "Carta CCLXXVII",
+        "pt-BR": "Carta CCLXXVII"
       }
     },
     {
       "id": "l278",
       "title": {
-        "es-ES": "Carta CCLXXVIII"
+        "es-ES": "Carta CCLXXVIII",
+        "pt-BR": "Carta CCLXXVIII"
       }
     },
     {
       "id": "l279",
       "title": {
-        "es-ES": "Carta CCLXXIX"
+        "es-ES": "Carta CCLXXIX",
+        "pt-BR": "Carta CCLXXIX"
       }
     },
     {
       "id": "l280",
       "title": {
-        "es-ES": "Carta CCLXXX"
+        "es-ES": "Carta CCLXXX",
+        "pt-BR": "Carta CCLXXX"
       }
     },
     {
       "id": "l281",
       "title": {
-        "es-ES": "Carta CCLXXXI"
+        "es-ES": "Carta CCLXXXI",
+        "pt-BR": "Carta CCLXXXI"
       }
     },
     {
       "id": "l282",
       "title": {
-        "es-ES": "Carta CCLXXXII"
+        "es-ES": "Carta CCLXXXII",
+        "pt-BR": "Carta CCLXXXII"
       }
     },
     {
       "id": "l283",
       "title": {
-        "es-ES": "Carta CCLXXXIII"
+        "es-ES": "Carta CCLXXXIII",
+        "pt-BR": "Carta CCLXXXIII"
       }
     },
     {
       "id": "l284",
       "title": {
-        "es-ES": "Carta CCLXXXIV"
+        "es-ES": "Carta CCLXXXIV",
+        "pt-BR": "Carta CCLXXXIV"
       }
     },
     {
       "id": "l285",
       "title": {
-        "es-ES": "Carta CCLXXXV"
+        "es-ES": "Carta CCLXXXV",
+        "pt-BR": "Carta CCLXXXV"
       }
     },
     {
       "id": "l286",
       "title": {
-        "es-ES": "Carta CCLXXXVI"
+        "es-ES": "Carta CCLXXXVI",
+        "pt-BR": "Carta CCLXXXVI"
       }
     },
     {
       "id": "l287",
       "title": {
-        "es-ES": "Carta CCLXXXVII"
+        "es-ES": "Carta CCLXXXVII",
+        "pt-BR": "Carta CCLXXXVII"
       }
     },
     {
       "id": "l288",
       "title": {
-        "es-ES": "Carta CCLXXXVIII"
+        "es-ES": "Carta CCLXXXVIII",
+        "pt-BR": "Carta CCLXXXVIII"
       }
     },
     {
       "id": "l289",
       "title": {
-        "es-ES": "Carta CCLXXXIX"
+        "es-ES": "Carta CCLXXXIX",
+        "pt-BR": "Carta CCLXXXIX"
       }
     },
     {
       "id": "l290",
       "title": {
-        "es-ES": "Carta CCXC"
+        "es-ES": "Carta CCXC",
+        "pt-BR": "Carta CCXC"
       }
     },
     {
       "id": "l291",
       "title": {
-        "es-ES": "Carta CCXCI"
+        "es-ES": "Carta CCXCI",
+        "pt-BR": "Carta CCXCI"
       }
     },
     {
       "id": "l292",
       "title": {
-        "es-ES": "Carta CCXCII"
+        "es-ES": "Carta CCXCII",
+        "pt-BR": "Carta CCXCII"
       }
     },
     {
       "id": "l293",
       "title": {
-        "es-ES": "Carta CCXCIII"
+        "es-ES": "Carta CCXCIII",
+        "pt-BR": "Carta CCXCIII"
       }
     },
     {
       "id": "l294",
       "title": {
-        "es-ES": "Carta CCXCIV"
+        "es-ES": "Carta CCXCIV",
+        "pt-BR": "Carta CCXCIV"
       }
     },
     {
       "id": "l295",
       "title": {
-        "es-ES": "Carta CCXCV"
+        "es-ES": "Carta CCXCV",
+        "pt-BR": "Carta CCXCV"
       }
     },
     {
       "id": "l296",
       "title": {
-        "es-ES": "Carta CCXCVI"
+        "es-ES": "Carta CCXCVI",
+        "pt-BR": "Carta CCXCVI"
       }
     },
     {
       "id": "l297",
       "title": {
-        "es-ES": "Carta CCXCVII"
+        "es-ES": "Carta CCXCVII",
+        "pt-BR": "Carta CCXCVII"
       }
     },
     {
       "id": "l298",
       "title": {
-        "es-ES": "Carta CCXCVIII"
+        "es-ES": "Carta CCXCVIII",
+        "pt-BR": "Carta CCXCVIII"
       }
     },
     {
       "id": "l299",
       "title": {
-        "es-ES": "Carta CCXCIX"
+        "es-ES": "Carta CCXCIX",
+        "pt-BR": "Carta CCXCIX"
       }
     },
     {
       "id": "l300",
       "title": {
-        "es-ES": "Carta CCC"
+        "es-ES": "Carta CCC",
+        "pt-BR": "Carta CCC"
       }
     },
     {
       "id": "l301",
       "title": {
-        "es-ES": "Carta CCCI"
+        "es-ES": "Carta CCCI",
+        "pt-BR": "Carta CCCI"
       }
     },
     {
       "id": "l302",
       "title": {
-        "es-ES": "Carta CCCII"
+        "es-ES": "Carta CCCII",
+        "pt-BR": "Carta CCCII"
       }
     },
     {
       "id": "l303",
       "title": {
-        "es-ES": "Carta CCCIII"
+        "es-ES": "Carta CCCIII",
+        "pt-BR": "Carta CCCIII"
       }
     },
     {
       "id": "l304",
       "title": {
-        "es-ES": "Carta CCCIV"
+        "es-ES": "Carta CCCIV",
+        "pt-BR": "Carta CCCIV"
       }
     },
     {
       "id": "l305",
       "title": {
-        "es-ES": "Carta CCCV"
+        "es-ES": "Carta CCCV",
+        "pt-BR": "Carta CCCV"
       }
     },
     {
       "id": "l306",
       "title": {
-        "es-ES": "Carta CCCVI"
+        "es-ES": "Carta CCCVI",
+        "pt-BR": "Carta CCCVI"
       }
     },
     {
       "id": "l307",
       "title": {
-        "es-ES": "Carta CCCVII"
+        "es-ES": "Carta CCCVII",
+        "pt-BR": "Carta CCCVII"
       }
     },
     {
       "id": "l308",
       "title": {
-        "es-ES": "Carta CCCVIII"
+        "es-ES": "Carta CCCVIII",
+        "pt-BR": "Carta CCCVIII"
       }
     },
     {
       "id": "l309",
       "title": {
-        "es-ES": "Carta CCCIX"
+        "es-ES": "Carta CCCIX",
+        "pt-BR": "Carta CCCIX"
       }
     },
     {
       "id": "l310",
       "title": {
-        "es-ES": "Carta CCCX"
+        "es-ES": "Carta CCCX",
+        "pt-BR": "Carta CCCX"
       }
     },
     {
       "id": "l311",
       "title": {
-        "es-ES": "Carta CCCXI"
+        "es-ES": "Carta CCCXI",
+        "pt-BR": "Carta CCCXI"
       }
     },
     {
       "id": "l312",
       "title": {
-        "es-ES": "Carta CCCXII"
+        "es-ES": "Carta CCCXII",
+        "pt-BR": "Carta CCCXII"
       }
     },
     {
       "id": "l313",
       "title": {
-        "es-ES": "Carta CCCXIII"
+        "es-ES": "Carta CCCXIII",
+        "pt-BR": "Carta CCCXIII"
       }
     },
     {
       "id": "l314",
       "title": {
-        "es-ES": "Carta CCCXIV"
+        "es-ES": "Carta CCCXIV",
+        "pt-BR": "Carta CCCXIV"
       }
     },
     {
       "id": "l315",
       "title": {
-        "es-ES": "Carta CCCXV"
+        "es-ES": "Carta CCCXV",
+        "pt-BR": "Carta CCCXV"
       }
     },
     {
       "id": "l316",
       "title": {
-        "es-ES": "Carta CCCXVI"
+        "es-ES": "Carta CCCXVI",
+        "pt-BR": "Carta CCCXVI"
       }
     },
     {
       "id": "l317",
       "title": {
-        "es-ES": "Carta CCCXVII"
+        "es-ES": "Carta CCCXVII",
+        "pt-BR": "Carta CCCXVII"
       }
     },
     {
       "id": "l318",
       "title": {
-        "es-ES": "Carta CCCXVIII"
+        "es-ES": "Carta CCCXVIII",
+        "pt-BR": "Carta CCCXVIII"
       }
     },
     {
       "id": "l319",
       "title": {
-        "es-ES": "Carta CCCXIX"
+        "es-ES": "Carta CCCXIX",
+        "pt-BR": "Carta CCCXIX"
       }
     },
     {
       "id": "l320",
       "title": {
-        "es-ES": "Carta CCCXX"
+        "es-ES": "Carta CCCXX",
+        "pt-BR": "Carta CCCXX"
       }
     },
     {
       "id": "l321",
       "title": {
-        "es-ES": "Carta CCCXXI"
+        "es-ES": "Carta CCCXXI",
+        "pt-BR": "Carta CCCXXI"
       }
     },
     {
       "id": "l322",
       "title": {
-        "es-ES": "Carta CCCXXII"
+        "es-ES": "Carta CCCXXII",
+        "pt-BR": "Carta CCCXXII"
       }
     },
     {
       "id": "l323",
       "title": {
-        "es-ES": "Carta CCCXXIII"
+        "es-ES": "Carta CCCXXIII",
+        "pt-BR": "Carta CCCXXIII"
       }
     },
     {
       "id": "l324",
       "title": {
-        "es-ES": "Carta CCCXXIV"
+        "es-ES": "Carta CCCXXIV",
+        "pt-BR": "Carta CCCXXIV"
       }
     },
     {
       "id": "l325",
       "title": {
-        "es-ES": "Carta CCCXXV"
+        "es-ES": "Carta CCCXXV",
+        "pt-BR": "Carta CCCXXV"
       }
     },
     {
       "id": "l326",
       "title": {
-        "es-ES": "Carta CCCXXVI"
+        "es-ES": "Carta CCCXXVI",
+        "pt-BR": "Carta CCCXXVI"
       }
     },
     {
       "id": "l327",
       "title": {
-        "es-ES": "Carta CCCXXVII"
+        "es-ES": "Carta CCCXXVII",
+        "pt-BR": "Carta CCCXXVII"
       }
     },
     {
       "id": "l328",
       "title": {
-        "es-ES": "Carta CCCXXVIII"
+        "es-ES": "Carta CCCXXVIII",
+        "pt-BR": "Carta CCCXXVIII"
       }
     },
     {
       "id": "l329",
       "title": {
-        "es-ES": "Carta CCCXXIX"
+        "es-ES": "Carta CCCXXIX",
+        "pt-BR": "Carta CCCXXIX"
       }
     },
     {
       "id": "l330",
       "title": {
-        "es-ES": "Carta CCCXXX"
+        "es-ES": "Carta CCCXXX",
+        "pt-BR": "Carta CCCXXX"
       }
     },
     {
       "id": "l331",
       "title": {
-        "es-ES": "Carta CCCXXXI"
+        "es-ES": "Carta CCCXXXI",
+        "pt-BR": "Carta CCCXXXI"
       }
     },
     {
       "id": "l332",
       "title": {
-        "es-ES": "Carta CCCXXXII"
+        "es-ES": "Carta CCCXXXII",
+        "pt-BR": "Carta CCCXXXII"
       }
     },
     {
       "id": "l333",
       "title": {
-        "es-ES": "Carta CCCXXXIII"
+        "es-ES": "Carta CCCXXXIII",
+        "pt-BR": "Carta CCCXXXIII"
       }
     },
     {
       "id": "l334",
       "title": {
-        "es-ES": "Carta CCCXXXIV"
+        "es-ES": "Carta CCCXXXIV",
+        "pt-BR": "Carta CCCXXXIV"
       }
     },
     {
       "id": "l335",
       "title": {
-        "es-ES": "Carta CCCXXXV"
+        "es-ES": "Carta CCCXXXV",
+        "pt-BR": "Carta CCCXXXV"
       }
     },
     {
       "id": "l336",
       "title": {
-        "es-ES": "Carta CCCXXXVI"
+        "es-ES": "Carta CCCXXXVI",
+        "pt-BR": "Carta CCCXXXVI"
       }
     },
     {
       "id": "l337",
       "title": {
-        "es-ES": "Carta CCCXXXVII"
+        "es-ES": "Carta CCCXXXVII",
+        "pt-BR": "Carta CCCXXXVII"
       }
     },
     {
       "id": "l338",
       "title": {
-        "es-ES": "Carta CCCXXXVIII"
+        "es-ES": "Carta CCCXXXVIII",
+        "pt-BR": "Carta CCCXXXVIII"
       }
     },
     {
       "id": "l339",
       "title": {
-        "es-ES": "Carta CCCXXXIX"
+        "es-ES": "Carta CCCXXXIX",
+        "pt-BR": "Carta CCCXXXIX"
       }
     },
     {
       "id": "l340",
       "title": {
-        "es-ES": "Carta CCCXL"
+        "es-ES": "Carta CCCXL",
+        "pt-BR": "Carta CCCXL"
       }
     },
     {
       "id": "l341",
       "title": {
-        "es-ES": "Carta CCCXLI"
+        "es-ES": "Carta CCCXLI",
+        "pt-BR": "Carta CCCXLI"
       }
     },
     {
       "id": "l342",
       "title": {
-        "es-ES": "Carta CCCXLII"
+        "es-ES": "Carta CCCXLII",
+        "pt-BR": "Carta CCCXLII"
       }
     },
     {
       "id": "l343",
       "title": {
-        "es-ES": "Carta CCCXLIII"
+        "es-ES": "Carta CCCXLIII",
+        "pt-BR": "Carta CCCXLIII"
       }
     },
     {
       "id": "l344",
       "title": {
-        "es-ES": "Carta CCCXLIV"
+        "es-ES": "Carta CCCXLIV",
+        "pt-BR": "Carta CCCXLIV"
       }
     },
     {
       "id": "l345",
       "title": {
-        "es-ES": "Carta CCCXLV"
+        "es-ES": "Carta CCCXLV",
+        "pt-BR": "Carta CCCXLV"
       }
     },
     {
       "id": "l346",
       "title": {
-        "es-ES": "Carta CCCXLVI"
+        "es-ES": "Carta CCCXLVI",
+        "pt-BR": "Carta CCCXLVI"
       }
     },
     {
       "id": "l347",
       "title": {
-        "es-ES": "Carta CCCXLVII"
+        "es-ES": "Carta CCCXLVII",
+        "pt-BR": "Carta CCCXLVII"
       }
     },
     {
       "id": "l348",
       "title": {
-        "es-ES": "Carta CCCXLVIII"
+        "es-ES": "Carta CCCXLVIII",
+        "pt-BR": "Carta CCCXLVIII"
       }
     },
     {
       "id": "l349",
       "title": {
-        "es-ES": "Carta CCCXLIX"
+        "es-ES": "Carta CCCXLIX",
+        "pt-BR": "Carta CCCXLIX"
       }
     },
     {
       "id": "l350",
       "title": {
-        "es-ES": "Carta CCCL"
+        "es-ES": "Carta CCCL",
+        "pt-BR": "Carta CCCL"
       }
     },
     {
       "id": "l351",
       "title": {
-        "es-ES": "Carta CCCLI"
+        "es-ES": "Carta CCCLI",
+        "pt-BR": "Carta CCCLI"
       }
     },
     {
       "id": "l352",
       "title": {
-        "es-ES": "Carta CCCLII"
+        "es-ES": "Carta CCCLII",
+        "pt-BR": "Carta CCCLII"
       }
     },
     {
       "id": "l353",
       "title": {
-        "es-ES": "Carta CCCLIII"
+        "es-ES": "Carta CCCLIII",
+        "pt-BR": "Carta CCCLIII"
       }
     },
     {
       "id": "l354",
       "title": {
-        "es-ES": "Carta CCCLIV"
+        "es-ES": "Carta CCCLIV",
+        "pt-BR": "Carta CCCLIV"
       }
     },
     {
       "id": "l355",
       "title": {
-        "es-ES": "Carta CCCLV"
+        "es-ES": "Carta CCCLV",
+        "pt-BR": "Carta CCCLV"
       }
     },
     {
       "id": "l356",
       "title": {
-        "es-ES": "Carta CCCLVI"
+        "es-ES": "Carta CCCLVI",
+        "pt-BR": "Carta CCCLVI"
       }
     },
     {
       "id": "l357",
       "title": {
-        "es-ES": "Carta CCCLVII"
+        "es-ES": "Carta CCCLVII",
+        "pt-BR": "Carta CCCLVII"
       }
     },
     {
       "id": "l358",
       "title": {
-        "es-ES": "Carta CCCLVIII"
+        "es-ES": "Carta CCCLVIII",
+        "pt-BR": "Carta CCCLVIII"
       }
     },
     {
       "id": "l359",
       "title": {
-        "es-ES": "Carta CCCLIX"
+        "es-ES": "Carta CCCLIX",
+        "pt-BR": "Carta CCCLIX"
       }
     },
     {
       "id": "l360",
       "title": {
-        "es-ES": "Carta CCCLX"
+        "es-ES": "Carta CCCLX",
+        "pt-BR": "Carta CCCLX"
       }
     },
     {
       "id": "l361",
       "title": {
-        "es-ES": "Carta CCCLXI"
+        "es-ES": "Carta CCCLXI",
+        "pt-BR": "Carta CCCLXI"
       }
     },
     {
       "id": "l362",
       "title": {
-        "es-ES": "Carta CCCLXII"
+        "es-ES": "Carta CCCLXII",
+        "pt-BR": "Carta CCCLXII"
       }
     },
     {
       "id": "l363",
       "title": {
-        "es-ES": "Carta CCCLXIII"
+        "es-ES": "Carta CCCLXIII",
+        "pt-BR": "Carta CCCLXIII"
       }
     },
     {
       "id": "l364",
       "title": {
-        "es-ES": "Carta CCCLXIV"
+        "es-ES": "Carta CCCLXIV",
+        "pt-BR": "Carta CCCLXIV"
       }
     },
     {
       "id": "l365",
       "title": {
-        "es-ES": "Carta CCCLXV"
+        "es-ES": "Carta CCCLXV",
+        "pt-BR": "Carta CCCLXV"
       }
     },
     {
       "id": "l366",
       "title": {
-        "es-ES": "Carta CCCLXVI"
+        "es-ES": "Carta CCCLXVI",
+        "pt-BR": "Carta CCCLXVI"
       }
     },
     {
       "id": "l367",
       "title": {
-        "es-ES": "Carta CCCLXVII"
+        "es-ES": "Carta CCCLXVII",
+        "pt-BR": "Carta CCCLXVII"
       }
     },
     {
       "id": "l368",
       "title": {
-        "es-ES": "Carta CCCLXVIII"
+        "es-ES": "Carta CCCLXVIII",
+        "pt-BR": "Carta CCCLXVIII"
       }
     },
     {
       "id": "l369",
       "title": {
-        "es-ES": "Carta CCCLXIX"
+        "es-ES": "Carta CCCLXIX",
+        "pt-BR": "Carta CCCLXIX"
       }
     },
     {
       "id": "l370",
       "title": {
-        "es-ES": "Carta CCCLXX"
+        "es-ES": "Carta CCCLXX",
+        "pt-BR": "Carta CCCLXX"
       }
     },
     {
       "id": "l371",
       "title": {
-        "es-ES": "Carta CCCLXXI"
+        "es-ES": "Carta CCCLXXI",
+        "pt-BR": "Carta CCCLXXI"
       }
     },
     {
       "id": "l372",
       "title": {
-        "es-ES": "Carta CCCLXXII"
+        "es-ES": "Carta CCCLXXII",
+        "pt-BR": "Carta CCCLXXII"
       }
     },
     {
       "id": "l373",
       "title": {
-        "es-ES": "Carta CCCLXXIII"
+        "es-ES": "Carta CCCLXXIII",
+        "pt-BR": "Carta CCCLXXIII"
       }
     },
     {
       "id": "l374",
       "title": {
-        "es-ES": "Carta CCCLXXIV"
+        "es-ES": "Carta CCCLXXIV",
+        "pt-BR": "Carta CCCLXXIV"
       }
     },
     {
       "id": "l375",
       "title": {
-        "es-ES": "Carta CCCLXXV"
+        "es-ES": "Carta CCCLXXV",
+        "pt-BR": "Carta CCCLXXV"
       }
     },
     {
       "id": "l376",
       "title": {
-        "es-ES": "Carta CCCLXXVI"
+        "es-ES": "Carta CCCLXXVI",
+        "pt-BR": "Carta CCCLXXVI"
       }
     },
     {
       "id": "l377",
       "title": {
-        "es-ES": "Carta CCCLXXVII"
+        "es-ES": "Carta CCCLXXVII",
+        "pt-BR": "Carta CCCLXXVII"
       }
     },
     {
       "id": "l378",
       "title": {
-        "es-ES": "Carta CCCLXXVIII"
+        "es-ES": "Carta CCCLXXVIII",
+        "pt-BR": "Carta CCCLXXVIII"
       }
     },
     {
       "id": "l379",
       "title": {
-        "es-ES": "Carta CCCLXXIX"
+        "es-ES": "Carta CCCLXXIX",
+        "pt-BR": "Carta CCCLXXIX"
       }
     },
     {
       "id": "l380",
       "title": {
-        "es-ES": "Carta CCCLXXX"
+        "es-ES": "Carta CCCLXXX",
+        "pt-BR": "Carta CCCLXXX"
       }
     },
     {
       "id": "l381",
       "title": {
-        "es-ES": "Carta CCCLXXXI"
+        "es-ES": "Carta CCCLXXXI",
+        "pt-BR": "Carta CCCLXXXI"
       }
     },
     {
       "id": "l382",
       "title": {
-        "es-ES": "Carta CCCLXXXII"
+        "es-ES": "Carta CCCLXXXII",
+        "pt-BR": "Carta CCCLXXXII"
       }
     },
     {
       "id": "l383",
       "title": {
-        "es-ES": "Carta CCCLXXXIII"
+        "es-ES": "Carta CCCLXXXIII",
+        "pt-BR": "Carta CCCLXXXIII"
       }
     },
     {
       "id": "l384",
       "title": {
-        "es-ES": "Carta CCCLXXXIV"
+        "es-ES": "Carta CCCLXXXIV",
+        "pt-BR": "Carta CCCLXXXIV"
       }
     },
     {
       "id": "l385",
       "title": {
-        "es-ES": "Carta CCCLXXXV"
+        "es-ES": "Carta CCCLXXXV",
+        "pt-BR": "Carta CCCLXXXV"
       }
     },
     {
       "id": "l386",
       "title": {
-        "es-ES": "Carta CCCLXXXVI"
+        "es-ES": "Carta CCCLXXXVI",
+        "pt-BR": "Carta CCCLXXXVI"
       }
     },
     {
       "id": "l387",
       "title": {
-        "es-ES": "Carta CCCLXXXVII"
+        "es-ES": "Carta CCCLXXXVII",
+        "pt-BR": "Carta CCCLXXXVII"
       }
     },
     {
       "id": "l388",
       "title": {
-        "es-ES": "Carta CCCLXXXVIII"
+        "es-ES": "Carta CCCLXXXVIII",
+        "pt-BR": "Carta CCCLXXXVIII"
       }
     },
     {
       "id": "l389",
       "title": {
-        "es-ES": "Carta CCCLXXXIX"
+        "es-ES": "Carta CCCLXXXIX",
+        "pt-BR": "Carta CCCLXXXIX"
       }
     },
     {
       "id": "l390",
       "title": {
-        "es-ES": "Carta CCCXC"
+        "es-ES": "Carta CCCXC",
+        "pt-BR": "Carta CCCXC"
       }
     },
     {
       "id": "l391",
       "title": {
-        "es-ES": "Carta CCCXCI"
+        "es-ES": "Carta CCCXCI",
+        "pt-BR": "Carta CCCXCI"
       }
     },
     {
       "id": "l392",
       "title": {
-        "es-ES": "Carta CCCXCII"
+        "es-ES": "Carta CCCXCII",
+        "pt-BR": "Carta CCCXCII"
       }
     },
     {
       "id": "l393",
       "title": {
-        "es-ES": "Carta CCCXCIII"
+        "es-ES": "Carta CCCXCIII",
+        "pt-BR": "Carta CCCXCIII"
       }
     },
     {
       "id": "l394",
       "title": {
-        "es-ES": "Carta CCCXCIV"
+        "es-ES": "Carta CCCXCIV",
+        "pt-BR": "Carta CCCXCIV"
       }
     },
     {
       "id": "l395",
       "title": {
-        "es-ES": "Carta CCCXCV"
+        "es-ES": "Carta CCCXCV",
+        "pt-BR": "Carta CCCXCV"
       }
     },
     {
       "id": "l396",
       "title": {
-        "es-ES": "Carta CCCXCVI"
+        "es-ES": "Carta CCCXCVI",
+        "pt-BR": "Carta CCCXCVI"
       }
     },
     {
       "id": "l397",
       "title": {
-        "es-ES": "Carta CCCXCVII"
+        "es-ES": "Carta CCCXCVII",
+        "pt-BR": "Carta CCCXCVII"
       }
     },
     {
       "id": "l398",
       "title": {
-        "es-ES": "Carta CCCXCVIII"
+        "es-ES": "Carta CCCXCVIII",
+        "pt-BR": "Carta CCCXCVIII"
       }
     },
     {
       "id": "l399",
       "title": {
-        "es-ES": "Carta CCCXCIX"
+        "es-ES": "Carta CCCXCIX",
+        "pt-BR": "Carta CCCXCIX"
       }
     },
     {
       "id": "l400",
       "title": {
-        "es-ES": "Carta CD"
+        "es-ES": "Carta CD",
+        "pt-BR": "Carta CD"
       }
     },
     {
       "id": "l401",
       "title": {
-        "es-ES": "Carta CDI"
+        "es-ES": "Carta CDI",
+        "pt-BR": "Carta CDI"
       }
     },
     {
       "id": "l402",
       "title": {
-        "es-ES": "Carta CDII"
+        "es-ES": "Carta CDII",
+        "pt-BR": "Carta CDII"
       }
     },
     {
       "id": "l403",
       "title": {
-        "es-ES": "Carta CDIII"
+        "es-ES": "Carta CDIII",
+        "pt-BR": "Carta CDIII"
       }
     },
     {
       "id": "l404",
       "title": {
-        "es-ES": "Carta CDIV"
+        "es-ES": "Carta CDIV",
+        "pt-BR": "Carta CDIV"
       }
     },
     {
       "id": "l405",
       "title": {
-        "es-ES": "Carta CDV"
+        "es-ES": "Carta CDV",
+        "pt-BR": "Carta CDV"
       }
     },
     {
       "id": "l406",
       "title": {
-        "es-ES": "Carta CDVI"
+        "es-ES": "Carta CDVI",
+        "pt-BR": "Carta CDVI"
       }
     },
     {
       "id": "l407",
       "title": {
-        "es-ES": "Carta CDVII"
+        "es-ES": "Carta CDVII",
+        "pt-BR": "Carta CDVII"
       }
     },
     {
       "id": "l408",
       "title": {
-        "es-ES": "Carta CDVIII"
+        "es-ES": "Carta CDVIII",
+        "pt-BR": "Carta CDVIII"
       }
     },
     {
       "id": "l409",
       "title": {
-        "es-ES": "Carta CDIX"
+        "es-ES": "Carta CDIX",
+        "pt-BR": "Carta CDIX"
       }
     },
     {
       "id": "l410",
       "title": {
-        "es-ES": "Carta CDX"
+        "es-ES": "Carta CDX",
+        "pt-BR": "Carta CDX"
       }
     },
     {
       "id": "l411",
       "title": {
-        "es-ES": "Carta CDXI"
+        "es-ES": "Carta CDXI",
+        "pt-BR": "Carta CDXI"
       }
     },
     {
       "id": "l412",
       "title": {
-        "es-ES": "Carta CDXII"
+        "es-ES": "Carta CDXII",
+        "pt-BR": "Carta CDXII"
       }
     },
     {
       "id": "l413",
       "title": {
-        "es-ES": "Carta CDXIII"
+        "es-ES": "Carta CDXIII",
+        "pt-BR": "Carta CDXIII"
       }
     },
     {
       "id": "l414",
       "title": {
-        "es-ES": "Carta CDXIV"
+        "es-ES": "Carta CDXIV",
+        "pt-BR": "Carta CDXIV"
       }
     },
     {
       "id": "l415",
       "title": {
-        "es-ES": "Carta CDXV"
+        "es-ES": "Carta CDXV",
+        "pt-BR": "Carta CDXV"
       }
     },
     {
       "id": "l416",
       "title": {
-        "es-ES": "Carta CDXVI"
+        "es-ES": "Carta CDXVI",
+        "pt-BR": "Carta CDXVI"
       }
     },
     {
       "id": "l417",
       "title": {
-        "es-ES": "Carta CDXVII"
+        "es-ES": "Carta CDXVII",
+        "pt-BR": "Carta CDXVII"
       }
     },
     {
       "id": "l418",
       "title": {
-        "es-ES": "Carta CDXVIII"
+        "es-ES": "Carta CDXVIII",
+        "pt-BR": "Carta CDXVIII"
       }
     },
     {
       "id": "l419",
       "title": {
-        "es-ES": "Carta CDXIX"
+        "es-ES": "Carta CDXIX",
+        "pt-BR": "Carta CDXIX"
       }
     },
     {
       "id": "l420",
       "title": {
-        "es-ES": "Carta CDXX"
+        "es-ES": "Carta CDXX",
+        "pt-BR": "Carta CDXX"
       }
     },
     {
       "id": "l421",
       "title": {
-        "es-ES": "Carta CDXXI"
+        "es-ES": "Carta CDXXI",
+        "pt-BR": "Carta CDXXI"
       }
     },
     {
       "id": "l422",
       "title": {
-        "es-ES": "Carta CDXXII"
+        "es-ES": "Carta CDXXII",
+        "pt-BR": "Carta CDXXII"
       }
     },
     {
       "id": "l423",
       "title": {
-        "es-ES": "Carta CDXXIII"
+        "es-ES": "Carta CDXXIII",
+        "pt-BR": "Carta CDXXIII"
       }
     },
     {
       "id": "l424",
       "title": {
-        "es-ES": "Carta CDXXIV"
+        "es-ES": "Carta CDXXIV",
+        "pt-BR": "Carta CDXXIV"
       }
     },
     {
       "id": "l425",
       "title": {
-        "es-ES": "Carta CDXXV"
+        "es-ES": "Carta CDXXV",
+        "pt-BR": "Carta CDXXV"
       }
     },
     {
       "id": "l426",
       "title": {
-        "es-ES": "Carta CDXXVI"
+        "es-ES": "Carta CDXXVI",
+        "pt-BR": "Carta CDXXVI"
       }
     },
     {
       "id": "l427",
       "title": {
-        "es-ES": "Carta CDXXVII"
+        "es-ES": "Carta CDXXVII",
+        "pt-BR": "Carta CDXXVII"
       }
     },
     {
       "id": "l428",
       "title": {
-        "es-ES": "Carta CDXXVIII"
+        "es-ES": "Carta CDXXVIII",
+        "pt-BR": "Carta CDXXVIII"
       }
     },
     {
       "id": "l429",
       "title": {
-        "es-ES": "Carta CDXXIX"
+        "es-ES": "Carta CDXXIX",
+        "pt-BR": "Carta CDXXIX"
       }
     },
     {
       "id": "l430",
       "title": {
-        "es-ES": "Carta CDXXX"
+        "es-ES": "Carta CDXXX",
+        "pt-BR": "Carta CDXXX"
       }
     },
     {
       "id": "l431",
       "title": {
-        "es-ES": "Carta CDXXXI"
+        "es-ES": "Carta CDXXXI",
+        "pt-BR": "Carta CDXXXI"
       }
     },
     {
       "id": "l432",
       "title": {
-        "es-ES": "Carta CDXXXII"
+        "es-ES": "Carta CDXXXII",
+        "pt-BR": "Carta CDXXXII"
       }
     },
     {
       "id": "l433",
       "title": {
-        "es-ES": "Carta CDXXXIII"
+        "es-ES": "Carta CDXXXIII",
+        "pt-BR": "Carta CDXXXIII"
       }
     },
     {
       "id": "l434",
       "title": {
-        "es-ES": "Carta CDXXXIV"
+        "es-ES": "Carta CDXXXIV",
+        "pt-BR": "Carta CDXXXIV"
       }
     },
     {
       "id": "l435",
       "title": {
-        "es-ES": "Carta CDXXXV"
+        "es-ES": "Carta CDXXXV",
+        "pt-BR": "Carta CDXXXV"
       }
     },
     {
       "id": "l436",
       "title": {
-        "es-ES": "Carta CDXXXVI"
+        "es-ES": "Carta CDXXXVI",
+        "pt-BR": "Carta CDXXXVI"
       }
     },
     {
       "id": "l437",
       "title": {
-        "es-ES": "Carta CDXXXVII"
+        "es-ES": "Carta CDXXXVII",
+        "pt-BR": "Carta CDXXXVII"
       }
     }
   ]
