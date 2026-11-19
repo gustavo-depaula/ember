@@ -18,13 +18,19 @@
   },
   "composed": "c. 1430-1440",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "thomas-a-kempis/vita-boni-monachi",
   "editions": {
     "la": {
       "editor": "Michael Joseph Pohl",
       "year": 1918
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,61 +47,71 @@
     {
       "id": "p1-00",
       "title": {
-        "la": "Prooemium"
+        "la": "Prooemium",
+        "pt-BR": "Proêmio"
       }
     },
     {
       "id": "p1-01",
       "title": {
-        "la": "1. De renuntiatione saeculi"
+        "la": "1. De renuntiatione saeculi",
+        "pt-BR": "1. Da renúncia ao mundo"
       }
     },
     {
       "id": "p1-02",
       "title": {
-        "la": "2. De remediis vitiorum"
+        "la": "2. De remediis vitiorum",
+        "pt-BR": "2. Dos remédios contra os vícios"
       }
     },
     {
       "id": "p1-03",
       "title": {
-        "la": "3. De exemplis eremitarum"
+        "la": "3. De exemplis eremitarum",
+        "pt-BR": "3. Dos exemplos dos eremitas"
       }
     },
     {
       "id": "p1-04",
       "title": {
-        "la": "4. De patientia martyrum"
+        "la": "4. De patientia martyrum",
+        "pt-BR": "4. Da paciência dos mártires"
       }
     },
     {
       "id": "p1-05",
       "title": {
-        "la": "5. De studio doctorum"
+        "la": "5. De studio doctorum",
+        "pt-BR": "5. Do estudo dos doutores"
       }
     },
     {
       "id": "p1-06",
       "title": {
-        "la": "6. De labore et oratione confessorum"
+        "la": "6. De labore et oratione confessorum",
+        "pt-BR": "6. Do trabalho e da oração dos confessores"
       }
     },
     {
       "id": "p1-07",
       "title": {
-        "la": "7. De extirpatione vitiorum"
+        "la": "7. De extirpatione vitiorum",
+        "pt-BR": "7. Da extirpação dos vícios"
       }
     },
     {
       "id": "p1-08",
       "title": {
-        "la": "8. De exercitiis monachorum"
+        "la": "8. De exercitiis monachorum",
+        "pt-BR": "8. Dos exercícios dos monges"
       }
     },
     {
       "id": "p1-09",
       "title": {
-        "la": "9. De corona et praemio monachorum"
+        "la": "9. De corona et praemio monachorum",
+        "pt-BR": "9. Da coroa e do prêmio dos monges"
       }
     }
   ]
