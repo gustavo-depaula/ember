@@ -14,7 +14,7 @@ Les qualités du caractère ont en toute chose un rôle prépondérant. L'intell
 
 N'y aurait-il pas quelque chose de choquant à voir une grande découverte issue d'un gredin ? La candeur d'un homme simple en serait toute meurtrie. On est scandalisé d'une dissociation qui offense l'harmonie humaine. On ne croit pas à ces joailliers qui vendent des perles et n'en portent pas. Voisiner avec la source sublime sans emprunter de sa nature morale, cela semble un paradoxe. Jouir du pouvoir de l'intelligence et en faire une force isolée, une « bosse », on soupçonne que c'est un jeu périlleux, car toute force isolée, au sein d'un tout équilibré, en devient la victime.
 
-Si le caractère vient à sombrer, on doit donc s'attendre à ce que le sens des grandes vérités en pâtisse. L'esprit n'étant plus contrôlé, ne trouvant plus son niveau, s'engagera sur les mauvaises pentes, et l'on sait qu'une petite erreur au commencement devient grande à la fin. La force logique pourra précipiter plus bas celui dont l'âme a laissé le discernement sans sauvegardes. De là tant de chutes retentissantes, et tant de bévues quelquefois géniales, chez des maîtres désorientés.
+Si le caractère vient à sombrer, on doit donc s'attendre à ce que le sens des grandes vérités en pâtisse. L'esprit n'étant plus contrôlé, ne trouvant plus son niveau, s'engagera sur les mauvaises pentes, et l'on sait qu'*une petite erreur au commencement devient grande à la fin*. La force logique pourra précipiter plus bas celui dont l'âme a laissé le discernement sans sauvegardes. De là tant de chutes retentissantes, et tant de bévues quelquefois géniales, chez des maîtres désorientés.
 
 La vie est une unité : il serait bien surprenant qu'on en pût mener une fonction en plein essor en négligeant l'autre, et que vivre les idées ne nous aidât point à les percevoir.
 
@@ -56,7 +56,7 @@ Ce n'est point par ce qu'il y a en nous d'individuel que nous accédons à la v�
 
 Gravissez la Grande Pyramide par ces marches géantes qui représentent si exactement l'ascension du vrai : si vous montez par l'arête nord, pouvez-vous arriver au sommet sans vous rapprocher de l'arête sud ? Vous en tenir à distance, c'est demeurer dans les niveaux bas ; vous en éloigner, c'est biaiser et redescendre. Ainsi le génie du vrai tend de lui-même à rejoindre le bien ; s'il s'en écarte, c'est aux dépens de son essor vers les cimes.
 
-Bienheureux les cœurs purs, a dit le Seigneur, ils verront Dieu. « Garde la pureté de conscience », dit saint Thomas à son étudiant ; « ne laisse pas d'imiter la conduite des saints et des hommes de bien. » L'obéissance de l'âme à la source ineffable, ses dispositions filiales et aimantes l'ouvrent à l'envahissement des clartés comme à celui des ardeurs et des rectitudes. Aimée et réalisée comme vie, la vérité se révèle comme principe ; on voit selon ce qu'on est ; on participe à la vérité en participant à l'Esprit selon lequel elle existe. Les grandes intuitions personnelles, les lumières pénétrantes viennent, à égalité de valeur, du perfectionnement moral, du détachement de soi et des banalités coutumières, de l'humilité, de la simplicité, de la discipline des sens et de l'imagination, de l'élan vers les grandes fins.
+*Bienheureux les cœurs purs*, a dit le Seigneur, *ils verront Dieu*. « Garde la pureté de conscience », dit saint Thomas à son étudiant ; « ne laisse pas d'imiter la conduite des saints et des hommes de bien. » L'obéissance de l'âme à la source ineffable, ses dispositions filiales et aimantes l'ouvrent à l'envahissement des clartés comme à celui des ardeurs et des rectitudes. Aimée et réalisée comme vie, la vérité se révèle comme principe ; on voit selon ce qu'on est ; on participe à la vérité en participant à l'Esprit selon lequel elle existe. Les grandes intuitions personnelles, les lumières pénétrantes viennent, à égalité de valeur, du perfectionnement moral, du détachement de soi et des banalités coutumières, de l'humilité, de la simplicité, de la discipline des sens et de l'imagination, de l'élan vers les grandes fins.
 
 Il ne s'agit plus ici de prouver son adresse, de faire briller ses facultés ainsi qu'un joyau ; on veut communiquer avec le foyer de lumière et de vie ; on aborde ce centre en son unité, tel qu'il est ; on l'adore, et l'on renonce à ce qui lui est ennemi pour que sa gloire vous inonde. N'est-ce pas un peu tout cela que signifie le mot célèbre : « Les grandes pensées viennent du cœur » ?
 
@@ -66,9 +66,9 @@ Nous voilà donc assurés que la vertu prise en général est nécessaire à la 
 
 La vertu propre à l'homme d'étude est évidemment la studiosité. Qu'on ne se hâte pas de trouver cela simplet : nos maîtres en la doctrine ont mis là beaucoup de choses, et en ont écarté beaucoup d'autres[^2].
 
-Saint Thomas rangeait la studiosité sous la tempérance modératrice, pour indiquer que de soi, le savoir est sans doute toujours le bienvenu, mais que la constitution de la vie nous demande de tempérer, c'est-à-dire d'adapter aux circonstances et de relier aux autres devoirs un appétit de connaître qui facilement excède.
+Saint Thomas rangeait la studiosité sous la tempérance modératrice, pour indiquer que de soi, le savoir est sans doute toujours le bienvenu, mais que la constitution de la vie nous demande de *tempérer*, c'est-à-dire d'adapter aux circonstances et de relier aux autres devoirs un appétit de connaître qui facilement excède.
 
-Quand je dis excéder, je l'entends dans les deux sens. Au règne de la studiosité, deux vices s'opposent : la négligence d'une part, la vaine curiosité de l'autre. Omettons ici la première : si elle n'est pas odieuse au lecteur au moment de fermer ce petit livre, c'est qu'il se sera rebuté en chemin ou que nous aurons bien mal fait la route. Mais je n'en dis pas autant de la curiosité. Celle-ci peut profiter de nos meilleurs instincts et les vicier au moment même où elle prétend les satisfaire.
+Quand je dis excéder, je l'entends dans les deux sens. Au règne de la studiosité, deux vices s'opposent : la *négligence* d'une part, la *vaine curiosité* de l'autre. Omettons ici la première : si elle n'est pas odieuse au lecteur au moment de fermer ce petit livre, c'est qu'il se sera rebuté en chemin ou que nous aurons bien mal fait la route. Mais je n'en dis pas autant de la *curiosité*. Celle-ci peut profiter de nos meilleurs instincts et les vicier au moment même où elle prétend les satisfaire.
 
 Nous avons déjà cité les vues ambitieuses qui désorientent une vocation intellectuelle. Sans aller jusque là, l'ambition peut altérer la studiosité et ses effets utiles. Un acte d'ambition à propos de la science, ce n'est plus un acte de science, et celui qui s'y livre ne mérite plus le nom d'intellectuel.
 
@@ -82,7 +82,7 @@ Un curé de campagne qui se dévoue pour ses paroissiens, un praticien qui négl
 
 On voit ainsi beaucoup de curieux de la science qui ne craignent pas de lui sacrifier leurs plus stricts devoirs. Ce ne sont plus des savants, ce sont des dilettantes. Ou bien, ils laissent l'étude qui répond à leurs obligations et poursuivent celle qui flatte leurs désirs, et la dépréciation est la même.
 
-Ceux qui visent plus haut que leurs forces et s'exposent à l'erreur, ceux qui gâchent leurs facultés réelles pour en acquérir d'illusoires sont aussi des curieux au sens ancien. Deux des seize conseils de saint Thomas en matière d'étude les visent : « altiora te ne quæsieries, ne cherche pas au-dessus de ta portée ». « Volo ut per rivulos, non statim, in mare eligas introire : Je veux que tu décides d'entrer dans la mer par les ruisselets, non directement. » Précieux conseils, qui profitent à la science comme à la vertu en équilibrant l'homme.
+Ceux qui visent plus haut que leurs forces et s'exposent à l'erreur, ceux qui gâchent leurs facultés réelles pour en acquérir d'illusoires sont aussi des *curieux* au sens ancien. Deux des seize conseils de saint Thomas en matière d'étude les visent : « *altiora te ne quæsieries*, ne cherche pas au-dessus de ta portée ». « *Volo ut per rivulos, non statim, in mare eligas introire* : Je veux que tu décides d'entrer dans la mer par les ruisselets, non directement. » Précieux conseils, qui profitent à la science comme à la vertu en équilibrant l'homme.
 
 Ne chargez pas le sol avec excès ; ne poussez pas la construction plus que ne permet la base, ou avant que la base ne soit affermie : ce serait faire en sorte que tout s'effondre.
 
@@ -102,7 +102,7 @@ L'ordre de l'esprit doit répondre à l'ordre des choses. Dans le réel tout mon
 
 Ces dispositions seront sauves si, indépendamment de la piété préalable à l'étude, on cultive dans le travail même l'esprit d'oraison.
 
-C'est encore saint Thomas qui dit au passionné de la science : « orationi vacare non desinas : n'abandonne jamais l'oraison », et Van Helmont nous explique ce précepte en prononçant cette sublime parole : « Toute étude est une étude de l'éternité. »
+C'est encore saint Thomas qui dit au passionné de la science : « *orationi vacare non desinas* : n'abandonne jamais l'oraison », et Van Helmont nous explique ce précepte en prononçant cette sublime parole : « Toute étude est une étude de l'éternité. »
 
 La science est une connaissance par les causes, disons-nous sans cesse. Les détails ne sont rien; les faits ne sont rien ; ce qui importe, ce sont les dépendances, les communications d'influence, les liaisons, les échanges qui constituent la vie de la nature. Or, en arrière de toutes les dépendances, il y a la dépendance première ; au nœud de toutes les liaisons, le suprême Lien ; au sommet des communications, la Source ; sous les échanges, le Don ; sous la systole et la diastole du monde, le Cœur, l'immense Cœur de l'Etre. Ne faut-il pas que l'esprit s'y réfère incessamment et ne perde pas une minute le contact de ce qui est ainsi le tout de toutes choses et par conséquent de toute science ?
 
@@ -124,7 +124,7 @@ Pour obtenir cet esprit d'oraison dans la science, il n'est d'ailleurs pas néce
 
 Tout ce qui instruit mène à Dieu par un chemin couvert. Toute vérité authentique est, de soi, éternelle, et l'éternité qu'elle porte oriente vers celle dont elle est la révélation. A travers la nature et l'âme, où peut-on bien aller, si ce n'est vers leur source ? Si l'on n'aboutit pas, c'est qu'on a dévié en chemin. D'un bond l'esprit inspiré et droit passe les intermédiaires, et à toute question qui se pose en lui, quelques réponses particulières qu'il puisse faire, une voix secrète répond : Dieu !
 
-Dès lors, il n'y a qu'à laisser l'esprit à son essor d'une part, à son attention d'autre part, pour que, entre l'objet d'une étude particulière et celui de la contemplation religieuse, un va-et-vient s'établisse au profit de l'un et de l'autre. D'un élan rapide et souvent inconscient, on passe du vestige ou de l'image à Dieu, et de là, rebondissant avec de nouvelles forces, on revient sur les traces du divin Marcheur. Ce qu'on y découvre est alors commenté, magnifié ; on y voit un épisode d'un immense événement spirituel; même s'occupant d'un rien, on se sent le client de vérités devant lesquelles les montagnes sont éphémères ; l'Etre infini et la durée infinie vous enveloppent, et votre étude est bien vraiment « une étude de l'éternité ».
+Dès lors, il n'y a qu'à laisser l'esprit à son essor d'une part, à son attention d'autre part, pour que, entre l'objet d'une étude particulière et celui de la contemplation religieuse, un va-et-vient s'établisse au profit de l'un et de l'autre. D'un élan rapide et souvent inconscient, on passe du *vestige* ou de l'*image* à Dieu, et de là, rebondissant avec de nouvelles forces, on revient sur les traces du divin Marcheur. Ce qu'on y découvre est alors commenté, magnifié ; on y voit un épisode d'un immense événement spirituel; même s'occupant d'un rien, on se sent le client de vérités devant lesquelles les montagnes sont éphémères ; l'Etre infini et la durée infinie vous enveloppent, et votre étude est bien vraiment « une étude de l'éternité ».
 
 ## IV. La discipline du corps
 
@@ -140,7 +140,7 @@ Or, il y a deux choses qu'il faut envisager l'une et l'autre sans aucun respect 
 
 Tout d'abord, n'ayez pas honte de songer à vous bien porter.
 
-Des génies ont eu des santés déplorables, et si Dieu veut qu'il en soit ainsi de vous, ne discutons pas. Mais que ce soit de votre fait, c'est un cas de tentation de Dieu fort coupable. Etes-vous bien sûr, élève des génies, d'avoir comme eux assez de vigueur pour tirer un triomphe de la lutte incessante de l'âme contre la débilité de sa chair? Rien ne dit que les génies mêmes n'aient pas vu leurs tares physiologiques dévier ou réduire leurs talents. Bien des anomalies intellectuelles, chez les mieux doués, s'expliqueraient peut-être ainsi, et la faible production de certains s'expliquerait de même.
+Des génies ont eu des santés déplorables, et si Dieu veut qu'il en soit ainsi de vous, ne discutons pas. Mais que ce soit de votre fait, c'est un cas de *tentation de Dieu* fort coupable. Etes-vous bien sûr, élève des génies, d'avoir comme eux assez de vigueur pour tirer un triomphe de la lutte incessante de l'âme contre la débilité de sa chair? Rien ne dit que les génies mêmes n'aient pas vu leurs tares physiologiques dévier ou réduire leurs talents. Bien des anomalies intellectuelles, chez les mieux doués, s'expliqueraient peut-être ainsi, et la faible production de certains s'expliquerait de même.
 
 A égalité de dons, il est certain que la maladie est une grave infériorité; elle diminue le rendement, elle empiète sur la liberté de l'âme au moment de ses délicates fonctions, elle dérive l'attention, elle peut fausser le jugement par les effets d'imagination et d'émotivité que provoque la souffrance. Une maladie d'estomac change le caractère d'un homme; son caractère change ses pensées. Si Léopardi n'avait pas été l'avorton qu'il fut, le compterait-on parmi les pessimistes?
 
@@ -166,32 +166,32 @@ Mais le souci du conjoint corporel comporte aussi d'autres éléments. Nous avon
 
 Si l'on demeure un gourmand, un paresseux, un esclave de l'oreiller et de la table; si l'on abuse du vin, de l'alcool, du tabac; si l'on s'oublie dans des excitations malsaines, dans des habitudes à la fois débilitantes et énervantes, dans des péchés peut-être pardonnés périodiquement, mais dont les effets demeurent, comment pratiquera-t-on l'hygiène dont nous venons de plaider la nécessité?
 
-Un ami du plaisir est un ennemi de son corps et devient donc promptement un ennemi de son âme. La mortification des sens est requise à la pensée et peut seul nous amener à cet état clairvoyant dont parlait Gratry. Obéissez-vous à la chair, vous êtes en passe de devenir chair, alors qu'il faut devenir tout esprit.
+Un ami du plaisir est un ennemi de son corps et devient donc promptement un ennemi de son âme. La mortification des sens est requise à la pensée et peut seul nous amener à cet *état clairvoyant* dont parlait Gratry. Obéissez-vous à la chair, vous êtes en passe de devenir chair, alors qu'il faut devenir tout esprit.
 
-Pourquoi appelle-t-on saint Thomas le Docteur angélique? Est-ce uniquement pour son génie ailé? Non, c'est parce que tout en lui se subordonnait à la pensée géniale et sainte, parce que sa chair, issue des rives tyrrhéniennes, avait revêtu les blancheurs du Carmel et de l'Hermon; parce que, chaste, sobre, prompt à l'élan et éloigné de tout excès, il était tout entier une âme, « une intelligence servie par des organes, » selon la définition célèbre.
+Pourquoi appelle-t-on saint Thomas le *Docteur angélique*? Est-ce uniquement pour son génie ailé? Non, c'est parce que tout en lui se subordonnait à la pensée géniale et sainte, parce que sa chair, issue des rives tyrrhéniennes, avait revêtu les blancheurs du Carmel et de l'Hermon; parce que, chaste, sobre, prompt à l'élan et éloigné de tout excès, il était tout entier une âme, « une intelligence servie par des organes, » selon la définition célèbre.
 
 La discipline du corps et sa mortification, jointes aux soins nécessaires dont, pour leur compte, elles constituent la meilleure part: telle est, travailleurs chrétiens, et vous surtout, jeunes hommes, une des plus précieuses sauvegarde de votre avenir.
 
-[^1]: VII Physic, lib. 6.
+[^1]: VII *Physic*, lib. 6.
 
-[^2]: Cf. Saint Thomas, Somme théologique, IIa IIæ, Q. CLXVII.
+[^2]: Cf. Saint Thomas, *Somme théologique*, IIa IIæ, Q. CLXVII.
 
-[^3]: Cf. infra. Le Champ du Travail : La Science comparée.
+[^3]: Cf. infra. *Le Champ du Travail* : *La Science comparée*.
 
-[^4]: Cf. Les Prières de saint Thomas d'Aquin. A l'art catholique, Paris.
+[^4]: Cf. *Les Prières de saint Thomas d'Aquin*. A l'art catholique, Paris.
 
-[^5]: Q. XIX de Veritate, art. 1, arg. 1.
+[^5]: Q. XIX *de Veritate*, art. 1, arg. 1.
 
-[^6]: De memoria, lect. 1.
+[^6]: *De memoria*, lect. 1.
 
-[^7]: In II de Anima, lect. 19.
+[^7]: In II *de Anima*, lect. 19.
 
-[^8]: S. Thomas. Q. XXVI, de Veritate, art. 3, ad 12m.
+[^8]: S. Thomas. Q. XXVI, *de Veritate*, art. 3, ad 12m.
 
-[^9]: Cf. Réveillé Parise : Physiologie et hygiène des hommes livrés aux travaux de l'esprit, 1881.
+[^9]: Cf. Réveillé Parise : *Physiologie et hygiène des hommes livrés aux travaux de l'esprit*, 1881.
 
-[^10]: Cf. J.-P. Muller. Mon système de respiration (Ed. Lafitte).
+[^10]: Cf. J.-P. Muller. *Mon système de respiration* (Ed. Lafitte).
 
-[^11]: J.-P. Muller : Mon système (Ed. Lafitte).
+[^11]: J.-P. Muller : *Mon système* (Ed. Lafitte).
 
-[^12]: Contra Gentes, III, cap. CXLI.
+[^12]: *Contra Gentes*, III, cap. CXLI.

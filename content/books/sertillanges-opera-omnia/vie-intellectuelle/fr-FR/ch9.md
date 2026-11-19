@@ -24,13 +24,13 @@ Celui qui ne pense qu'à son travail travaille mal; il se diminue; il prend un p
 
 Nous avons cité déjà ce mot d'un rabbin : « Dans un tonneau plein de noix, on peut encore verser beaucoup de mesures d'huile »; nous l'avons appliqué aux travaux qui se soutiennent l'un l'autre, au lieu de ce combattre. Appelons maintenant noix le travail technique tout entier, on peut y ajouter sans surcharge, au contraire en allégeant, l'huile de la vie intellectuelle facile des nobles loisirs, de la nature, de l'art.
 
-Le travail technique lui-même en profitera. Il profite amplement de la société, de l'amitié, de l'action extérieure, j'en ai dit les raisons. Ici, je ne fais qu'étendre la donnée, dont la portée est générale. Pense-t-on qu'une visite au Louvre, l'audition de la Symphonie héroïque ou de la Messe en Ré, une promenade à Versailles dans les dorures d'automne, la simple vue d'un coucher de soleil, une séance patriotique au Trocadéro ou au grand amphithéâtre de la Sorbonne, les jeux olympiques d'Anvers, un Mystère à Jumiège ou au théâtre d'Orange, un grand discours à Notre-Dame soient étrangers à quelque spécialité que ce soit?
+Le travail technique lui-même en profitera. Il profite amplement de la société, de l'amitié, de l'action extérieure, j'en ai dit les raisons. Ici, je ne fais qu'étendre la donnée, dont la portée est générale. Pense-t-on qu'une visite au Louvre, l'audition de la Symphonie héroïque ou de la Messe en *Ré*, une promenade à Versailles dans les dorures d'automne, la simple vue d'un coucher de soleil, une séance patriotique au Trocadéro ou au grand amphithéâtre de la Sorbonne, les jeux olympiques d'Anvers, un Mystère à Jumiège ou au théâtre d'Orange, un grand discours à Notre-Dame soient étrangers à quelque spécialité que ce soit?
 
 Ce serait bien mal comprendre la pensée que de n'en pas voir les liaisons avec toutes les manifestations créatrices. La nature renouvelle tout, rafraîchit toute tête bien faite, ouvre des voies et suggère des aperçus qu'ignore l'abstraction. L'arbre est un instructeur et le pré fourmille d'idées comme d'anémones ou de pâquerettes; le ciel roule des inspirations avec ses nuages et ses astres; les montagnes stabilisent nos pensées avec leur masse et les hautes méditations s'élancent à la suite des courants d'eau.
 
 Je sais quelqu'un qui en regardant un torrent rapide s'élevait invinciblement à l'idée des mondes, rêvant de ces masses qui se précipitent avec la même hâte, sous l'empire des mêmes lois, en la dépendance des mêmes forces, grâce au même Dieu d'où tout part et où tout revient. En retournant au travail il se sentait soulevé par la Force unique, pénétré de cette Présence répandue partout, et il plongeait son obscure action dans la communion des êtres.
 
-Mais vous, esprit ratatiné, cœur desséché, vous pensez perdre votre temps à suivre les torrents et à errer dans le troupeau des astres. L'univers remplit l'homme de sa gloire et vous ne le savez pas. L'étoile du soir s'ennuie dans son écrin sombre, elle veut loger dans la pensée, et vous lui refusez le gîte. Vous écrivez, vous calculez, vous enfilez des propositions et élaborez des thèses, et vous ne regardez pas.
+Mais vous, esprit ratatiné, cœur desséché, vous pensez perdre votre temps à suivre les torrents et à errer dans le troupeau des astres. L'univers remplit l'homme de sa gloire et vous ne le savez pas. L'étoile du soir s'ennuie dans son écrin sombre, elle veut loger dans la pensée, et vous lui refusez le gîte. Vous écrivez, vous calculez, vous enfilez des propositions et élaborez des thèses, et vous ne *regardez* pas.
 
 Qui ne sait que dans un concert, l'intellectuel peut être saisi par une impression de grandeur, de beauté, de puissance qui se transpose aussitôt en ses modes particuliers, profite à ses objets, colore ses thèmes accoutumés et lui procurera tout à l'heure une séance laborieuse plus riche? Ne va-t-il pas, au dos de son programme, griffonner hâtivement le schème d'un chapitre ou d'un discours, une idée de développement, une image vive? L'harmonie a haussé le ton de son inspiration, et le rythme, où il a été pris comme un passant dans une troupe en marche, l'a entraîné dans des routes nouvelles.
 
@@ -42,7 +42,7 @@ On est bien pauvre, à soi seul, dans un cabinet de travail! Il est vrai qu'on y
 
 Il faut ainsi élargir le travail, pour n'être pas un forçat à la chaîne et ne pas réduire l'intellectualité au rôle de carcan. Le travail est un acte libre.
 
-Vous donc qui entendez vous consacrer à la vocation de l'étude, gardez-vous de tourner le dos, en sa faveur, au reste de la vie. Ne renoncez à rien de ce qui est de l'homme. Gardez un équilibre où le poids dominant ne cherche pas à entraîner tout. Sachez établir une thèse et regarder une aurore, vous enfoncer dans les abstractions profondes et jouer, comme le divin Maître, avec les enfants. Aujourd'hui les « robes de pédants » et les « bonnets pointus » n'ont plus cours, ils sont rentrés, mais subsistent et sont dans les âmes : ne vous en affublez pas. Refusez d'être un cerveau qui s'est détaché de son corps et un humain qui s'est diminué de son âme. Ne faites pas du travail une monomanie.
+Vous donc qui entendez vous consacrer à la vocation de l'étude, gardez-vous de tourner le dos, en sa faveur, au reste de la vie. Ne renoncez à rien de ce qui est de l'homme. Gardez un équilibre où le poids dominant ne cherche pas à entraîner tout. Sachez établir une thèse et regarder une aurore, vous enfoncer dans les abstractions profondes et jouer, comme le divin Maître, avec les enfants. Aujourd'hui les « robes de pédants » et les « bonnets pointus » n'ont plus cours, ils sont *rentrés*, mais subsistent et sont dans les âmes : ne vous en affublez pas. Refusez d'être un cerveau qui s'est détaché de son corps et un humain qui s'est diminué de son âme. Ne faites pas du travail une monomanie.
 
 Mon intellectuel est l'homme d'un savoir large et varié prolongeant une spécialité pénétrée à fond; il est ami des arts et des beautés naturelles ; son esprit se révèle le même dans les occupations courantes et dans la méditation ; on le retrouve identique devant Dieu, devant ses pairs et devant sa servante, portant en soi un monde d'idées et de sentiments qui ne s'inscrivent pas seulement dans des livres et dans des discours, qui s'épanchent dans la conversation amicale et qui guident sa vie.
 
@@ -72,7 +72,7 @@ Nous avons déjà donné des indications en ce sens. En parlant de l'emploi du t
 
 Ce rangement des travaux selon leurs exigences cérébrales aura un double avantage : il évitera le surmenage et il rendra au travail intense toute sa pureté.
 
-Quand on n'a pas prévu le repos, le repos qu'on ne prend pas se prend; il s'intercalle subrepticement dans le travail, sous forme de distractions, de somnolence et de nécessités auxquelles il faut pourvoir, n'y ayant point songé en son temps.
+Quand on n'a pas prévu le repos, le repos qu'on ne prend pas *se prend*; il s'intercalle subrepticement dans le travail, sous forme de distractions, de somnolence et de nécessités auxquelles il faut pourvoir, n'y ayant point songé en son temps.
 
 Je suis en plein effort créateur : voici qu'une référence me manque; il n'y a plus d'encre dans l'encrier; un classement de notes a été oublié; un livre, un manuscrit dont j'ai besoin sont dans une autre pièce, ou enfouis dans des tas dont il faut les extraire. Il y a une heure, tout cela se fût fait en jouant, avec joie, songeant à la séance tranquille que je me fusse ainsi préparée. En ce moment, j'en suis troublé; mon élan s'arrête. Si j'ai omis ces préparations au bénéfice d'un faux travail que mon intempérance a voulu sauver, le malheur est double. J'en arrive à ceci : pas de vrai repos, pas de vrai travail. Le désordre règne.
 
@@ -86,7 +86,7 @@ Il n'y faut pas excéder non plus. Une trop longue détente, outre qu'elle dévo
 
 Ah! si l'on pouvait travailler en pleine nature, sa fenêtre ouverte sur un beau paysage, en position, dès que la fatigue vient, de se prélasser quelques instants au milieu des verdures, ou, si un arrêt se produit dans la pensée, d'en demander leur avis aux montagnes, à l'assemblée des arbres ou des nuées, aux bêtes qui passent, au lieu de se morfondre aigrement, je gage que le produit du travail serait double et qu'il serait autrement aimable, autrement humain.
 
-On est si réaliste, en courant la campagne, et l'âme se tient en même temps si haut! L'impératif catégorique n'a pas dû être rêvé dans un pré, et moins encore l'arithmétique soi-disant morale d'un Bentham.
+On est si réaliste, en courant la campagne, et l'âme se tient en même temps si haut! L'*impératif catégorique* n'a pas dû être rêvé dans un pré, et moins encore l'arithmétique soi-disant morale d'un Bentham.
 
 Jeunes gens qui aspirez haut et qui voulez aller loin, tenez-vous dans la réalité humaine. Gardez du loisir; ne vous épuisez pas; travaillez dans le calme et la joie spirituelle; soyez libre. Rusez au besoin avec vous-mêmes : promettez-vous, au moment de l'effort, quelque agréable soulagement dont l'image vous rafraîchira déjà la pensée, en attendant que lui-même répare vos forces.
 
@@ -96,7 +96,7 @@ Si vous êtes en groupe, soyez accueillants aux délassements les uns des autres
 
 Cet équilibre du travail et de la joie reposante est d'autant plus nécessaire que les épreuves du travailleur sont nombreuses. Plus d'une fois nous en avons donné le sentiment. En matière de science comme en toute chose, on n'arrive au salut que par la croix. Le mécontentement de soi, le retard de l'inspiration, l'indifférence du milieu, l'envie, les incompréhensions, les sarcasmes, les injustices, l'abandon des chefs, la défection des amis, tout peut concourir, et tout a son heure.
 
-Si vous devenez quelqu'un, attendez-vous à l'épreuve de choix, et apprêtez-vous à en goûter les saveurs diverses : épreuve de l'idéal, qui vous apparaît plus loin à mesure que vous activez la marche; épreuve des sots qui ne comprennent rien à vos dires et s'en scandalisent; épreuve des jaloux qui vous trouvent impudent d'avoir franchi leur ligne de combat; épreuve des bons qui se laissent ébranler, vous suspectent et vous lâchent ; épreuve des médiocres qui sont la foule et que vous gênez par la muette affirmation d'un monde supérieur. Si vous étiez de ce monde, déclare le Sauveur, ce monde aimerait ce qui lui appartient; mais parce que vous n'êtes pas de ce monde... à cause de cela le monde vous hait. (Jean XV, 19).
+Si vous devenez quelqu'un, attendez-vous à l'épreuve de choix, et apprêtez-vous à en goûter les saveurs diverses : épreuve de l'idéal, qui vous apparaît plus loin à mesure que vous activez la marche; épreuve des sots qui ne comprennent rien à vos dires et s'en scandalisent; épreuve des jaloux qui vous trouvent impudent d'avoir franchi leur ligne de combat; épreuve des bons qui se laissent ébranler, vous suspectent et vous lâchent ; épreuve des médiocres qui sont la foule et que vous gênez par la muette affirmation d'un monde supérieur. *Si vous étiez de ce monde*, déclare le Sauveur, *ce monde aimerait ce qui lui appartient; mais parce que vous n'êtes pas de ce monde... à cause de cela le monde vous hait*. (Jean XV, 19).
 
 Les diversions mentionnées ci-dessus comme moyens de détente pourront ici encore apporter leur aide. Tout ce qui repose du travail est apte aussi à calmer la peine. Toutefois, recourez surtout aux moyens surnaturels, et parmi eux au travail surnaturalisé qui est notre objet unique.
 
@@ -112,7 +112,7 @@ La vérité aussi est une défense ; elle nous affermit ; elle nous réjouit ; a
 
 Le travailleur est exposé, entre autres chagrins, à celui qui peut-être est le plus sensible à l'intellectuel, sinon à l'homme : la critique ne l'épargne point. Quand cette critique est légère et injuste, il souffre, il est porté à s'irriter ; si elle touche son point faible et relève en ses productions ou son caractère des défauts qu'il aimerait oublier et dérober aux regards, ne pouvant les vaincre, c'est alors surtout qu'il se sent atteint.
 
-Quelle riposte adéquate découvrir, et quelle attitude prendre? La même toujours. « A toutes les critiques je ne vois à faire qu'une réponse, dit Emerson : me remettre au travail[^4]. » On dit aussi de saint Thomas que lorsqu'il était attaqué, ce qui arrivait beaucoup plus souvent que ne le laisse supposer son triomphe posthume, il s'efforçait d'affermir sa position, de préciser et d'éclairer sa doctrine, après quoi il se taisait. Le bœuf muet de Sicile n'allait pas se laisser détourner de sa voie par les gestes et les cris d'une croisade d'enfants.
+Quelle riposte adéquate découvrir, et quelle attitude prendre? La même toujours. « A toutes les critiques je ne vois à faire qu'une réponse, dit Emerson : me remettre au travail[^4]. » On dit aussi de saint Thomas que lorsqu'il était attaqué, ce qui arrivait beaucoup plus souvent que ne le laisse supposer son triomphe posthume, il s'efforçait d'affermir sa position, de préciser et d'éclairer sa doctrine, après quoi il se taisait. Le *bœuf muet de Sicile* n'allait pas se laisser détourner de sa voie par les gestes et les cris d'une croisade d'enfants.
 
 Se corriger et se taire, c'est la grande maxime; ceux qui l'ont pratiquée sont toujours montés haut; de la force qu'on dépensait à les renverser ils ont fait une impulsion victorieuse; avec les pierres qu'on leur jetait ils ont bâti leur demeure.
 
@@ -138,7 +138,7 @@ On a beau travailler sans fruit apparent, semer et ne pas récolter, nager et se
 
 Du reste, il n'est pas dans le travail que contrariétés; le travail comporte ses joies, et c'est heureux, si la joie seule nous met en disposition laborieuse et nous détend après notre effort.
 
-Il faudrait être en joie même dans les afflictions et les contradictions, à l'exemple de l'Apôtre : « Je surabonde de joie au milieu de mes tribulations. » La tristesse et le doute tuent l'inspiration; mais elles la tuent uniquement quand on y cède. S'en relever par la joie chrétienne, c'est ranimer la flamme abattue.
+Il faudrait être en joie même dans les afflictions et les contradictions, à l'exemple de l'Apôtre : « *Je surabonde de joie au milieu de mes tribulations*. » La tristesse et le doute tuent l'inspiration; mais elles la tuent uniquement quand on y cède. S'en relever par la joie chrétienne, c'est ranimer la flamme abattue.
 
 Cela se peut toujours, et afin de nous y aider, Dieu permet que nous nous reposions parfois dans une allégresse tranquille.
 
@@ -146,7 +146,7 @@ Le sentiment de l'altitude donne au travailleur une âme à la fois étreinte et
 
 D'après l'angélique Docteur, la contemplation part de l'amour et se termine à la joie : amour de l'objet et amour de la connaissance comme acte de vie; joie de la possession idéale et de l'extase qu'elle provoque[^6].
 
-L'intellectuel chrétien a choisi le renoncement; mais le renoncement l'enrichit plus qu'une opulence hautaine. Il perd le monde et le monde lui est donné spirituellement; il accède au trône d'où l'on juge les douze tribus d'Israël. (Luc, XXII, 30). L'idéal est sa réalité à lui, qui lui remplace l'autre et en absorbe les tares dans la beauté. Dépouillé de tout selon l'esprit et si souvent d'une pauvreté effective, il se trouve augmenté de tout ce qu'il délaisse ou qui le délaisse, car il en retrouve en secret la magnifique possession. S'il oublie dans l'action intérieure la plus absorbante, au plus profond de ce sommeil apparent il pourrait dire, comme l'Epouse : « Je dors, mais mon cœur veille. » « Sur ma couche, pendant la nuit, j'ai cherché ce que mon cœur aime, je l'ai saisi et ne le laisserai pas aller. »
+L'intellectuel chrétien a choisi le renoncement; mais le renoncement l'enrichit plus qu'une opulence hautaine. Il perd le monde et le monde lui est donné spirituellement; il accède au trône d'où l'on juge les douze tribus d'Israël. (Luc, XXII, 30). L'idéal est sa réalité à lui, qui lui remplace l'autre et en absorbe les tares dans la beauté. Dépouillé de tout selon l'esprit et si souvent d'une pauvreté effective, il se trouve augmenté de tout ce qu'il délaisse ou qui le délaisse, car il en retrouve en secret la magnifique possession. S'il oublie dans l'action intérieure la plus absorbante, au plus profond de ce sommeil apparent il pourrait dire, comme l'Epouse : « *Je dors, mais mon cœur veille*. » « *Sur ma couche, pendant la nuit, j'ai cherché ce que mon cœur aime, je l'ai saisi et ne le laisserai pas aller*. »
 
 Quand on est dans les dispositions requises et que l'âme est tout entière à l'œuvre, quand on étudie bien, quand on lit bien, quand on note bien, quand on fait travailler l'inconscience et la nuit, les travaux qu'on prépare sont comme la graine sous le soleil, comme l'enfant que sa mère met au monde dans la douleur, mais tellement heureuse de ce qu'un homme est né qu'elle ne se souvient plus de sa douleur. (Jean XVI, 21).
 
@@ -166,7 +166,7 @@ On ne peut rien promettre à qui n'est pas doué. Mais la vocation supposée, on
 
 Le travail se fabrique à lui-même son propre instrument. Comme le forgeron qui trempe ses outils, il forme nos caractères et nous donne la solidité, par suite la confiance.
 
-Cette confiance qui est fondée sur une loi des choses, appartient au travail plus qu'au travailleur; toutefois le travailleur lui aussi doit avoir foi en lui-même. N'a-t-il pas avec lui le Dieu qui a dit : « Qui cherche trouve et à celui qui frappe il sera ouvert ? » Tous nous avons la Vérité derrière nous et elle nous pousse par l'intelligence; nous l'avons devant nous et elle nous appelle, au-dessus de nous et elle nous inspire.
+Cette confiance qui est fondée sur une loi des choses, appartient au travail plus qu'au travailleur; toutefois le travailleur lui aussi doit avoir foi en lui-même. N'a-t-il pas avec lui le Dieu qui a dit : « *Qui cherche trouve et à celui qui frappe il sera ouvert* ? » Tous nous avons la Vérité derrière nous et elle nous pousse par l'intelligence; nous l'avons devant nous et elle nous appelle, au-dessus de nous et elle nous inspire.
 
 L'âme est égale en tous; l'Esprit souffle en tous; le but et les aspirations profondes sont les mêmes pour tous; il n'y a de divers, outre les courages, que les éléments cérébraux plus ou moins libres et actifs, plus ou moins liés : or, nous savons qu'avec nos secours terrestres et célestes, nous pouvons venir à bout de bien des déficiences. La lumière peut filtrer à travers les fissures que notre effort élargit; quand elle est là, d'elle-même elle étend et corrobore son règne.
 
@@ -186,18 +186,18 @@ Il serait à désirer que notre vie fût une flamme sans fumée et sans scories,
 
 Décidé à payer, inscrivez-en sur les tablettes du cœur, aujourd'hui, si ce n'est fait déjà, la résolution ferme. Je vous conseille de l'écrire aussi noir sur blanc, bien lisible, et d'en placer les formules devant vous. En vous mettant au travail et après avoir prié, vous vous résoudrez de nouveau chaque jour. Vous aurez eu soin de noter spécialement ce qui vous est le moins naturel et le plus nécessaire, à vous, tel que vous êtes. Au besoin, vous le réciterez tout haut, pour que plus nettement votre parole vous soit donnée à vous-même.
 
-Alors, ajoutez et répétez en toute certitude : « Si tu fais cela, tu porteras des fruits utiles et tu atteindras ce que tu désires. »
+Alors, ajoutez et répétez en toute certitude : « *Si tu fais cela, tu porteras des fruits utiles et tu atteindras ce que tu désires*. »
 
 Adieu.
 
-[^1]: De Musica, c. II.
+[^1]: *De Musica*, c. II.
 
 [^2]: Cf. Saint Thomas IIa IIæ, q. CLXVIII, art. 2.
 
 [^3]: IIa IIæ, q. CLXVIII, art. 4.
 
-[^4]: Autobiographie. Edition Régis Michaud, p. 145. Colin éd.
+[^4]: *Autobiographie*. Edition Régis Michaud, p. 145. Colin éd.
 
-[^5]: In Psalm. XXVI.
+[^5]: *In Psalm.* XXVI.
 
 [^6]: IIa IIæ, q. CLXXX, art. 1er.
