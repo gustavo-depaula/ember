@@ -18,13 +18,19 @@
   },
   "composed": "c. 1127",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "bernard/de-baptismo",
   "editions": {
     "la": {
       "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182)",
       "year": 1854
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,43 +47,50 @@
     {
       "id": "admonitio",
       "title": {
-        "la": "Admonitio Mabillonii"
+        "la": "Admonitio Mabillonii",
+        "pt-BR": "Advertência de Mabillon"
       }
     },
     {
       "id": "praefatio",
       "title": {
-        "la": "Praefatio"
+        "la": "Praefatio",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "c01",
       "title": {
-        "la": "Caput I. Non obligasse Baptismum, ex quo dictum fuit Nicodemo, « Nisi quis renatus, »"
+        "la": "Caput I. Non obligasse Baptismum, ex quo dictum fuit Nicodemo, « Nisi quis renatus, »",
+        "pt-BR": "Capítulo I. O batismo não passou a obrigar desde que se disse a Nicodemos: “Se alguém não renascer”"
       }
     },
     {
       "id": "c02",
       "title": {
-        "la": "Caput II. Baptismi obligationem coepisse primum post sufficientem ejus promulgationem. In necessitatis tamen articulo sufficere Baptismum fide et voto susceptum, sicut et martyrium"
+        "la": "Caput II. Baptismi obligationem coepisse primum post sufficientem ejus promulgationem. In necessitatis tamen articulo sufficere Baptismum fide et voto susceptum, sicut et martyrium",
+        "pt-BR": "Capítulo II. A obrigação do batismo começou somente depois de sua suficiente promulgação. Em caso de necessidade, porém, basta o batismo recebido pela fé e pelo desejo, assim como o martírio"
       }
     },
     {
       "id": "c03",
       "title": {
-        "la": "Caput III. Justos Veteris Testamenti non tam claram habuisse notitiam futurorum mysteriorum fidei, quam nos habemus praeteritorum"
+        "la": "Caput III. Justos Veteris Testamenti non tam claram habuisse notitiam futurorum mysteriorum fidei, quam nos habemus praeteritorum",
+        "pt-BR": "Capítulo III. Os justos do Antigo Testamento não tiveram dos futuros mistérios da fé um conhecimento tão claro quanto nós temos dos passados"
       }
     },
     {
       "id": "c04",
       "title": {
-        "la": "Caput IV. Ostendit dari peccatum per ignorantiam contra assertorem contrariae opinionis"
+        "la": "Caput IV. Ostendit dari peccatum per ignorantiam contra assertorem contrariae opinionis",
+        "pt-BR": "Capítulo IV. Mostra que há pecado por ignorância, contra o defensor da opinião contrária"
       }
     },
     {
       "id": "c05",
       "title": {
-        "la": "Caput V. Sententiam quamdam suam male acceptam a calumnia vindicat, nempe, Quod Angelos latuerit consilium Incarnationis Dominicae"
+        "la": "Caput V. Sententiam quamdam suam male acceptam a calumnia vindicat, nempe, Quod Angelos latuerit consilium Incarnationis Dominicae",
+        "pt-BR": "Capítulo V. Defende da calúnia certa opinião sua mal compreendida: que os anjos desconheciam o desígnio da Encarnação do Senhor"
       }
     }
   ]
