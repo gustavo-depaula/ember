@@ -1,0 +1,7 @@
+# Carta DVIII. A caridade para com o próximo não deve levar-nos a encobrir o mal. Censuremos o vício, poupemos as pessoas. — Como devemos considerar as ações do próximo. — A caridade e os pecadores
+
+*Conjuro-te a nunca dizer mal do próximo nem coisa alguma que, por pouco que seja, o possa ofender. Não se deve, contudo, favorecer o mal, adulá-lo ou encobri-lo, mas falar sem rodeios e dizer francamente mal do mal, e censurar as coisas censuráveis quando o proveito daquele de quem se fala o requer; pois nisso Deus é glorificado. E, sobretudo, censurar o vício e poupar o mais possível a pessoa em quem ele está, tanto mais que a bondade de Deus é tão grande que um só momento basta para alcançar sua graça. E quem poderá assegurar que aquele que ontem era pecador e mau ainda o seja hoje?*
+
+Quando olhamos as ações do próximo, [vejamo-las] pelo lado mais brando, e, quando [nós] não podemos desculpar nem o fato nem a intenção daquele que, aliás, sabemos ser bom, não julguemos, mas tiremos isso de nosso espírito e deixemos o julgamento a Deus. Quando não podemos desculpar o pecado, tornemo-lo ao menos digno de compaixão, atribuindo-o à causa mais tolerável, como à ignorância ou à fraqueza.
+
+A caridade teme encontrar o mal, longe de ir procurá-lo (1 Coríntios 13:5); quando o encontra, desvia-se dele, faz como se não o visse, ou melhor, fecha os olhos antes de vê-lo; e, se é preciso vê-lo, desvia-se dele

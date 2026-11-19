@@ -1,0 +1,15 @@
+# Carta DXVII. À Senhora de la Fléchère
+
+*Análise de uma tentação de desânimo. — Como deve exercer-se o apostolado das mulheres cristãs fora de casa. — Conduta a seguir quando nos preocupa saber se agimos bem. — O amor-próprio e o amor de Deus. — As horas de sono e a saúde. — Por que o mundo às vezes é mais propício que o claustro à aquisição das virtudes.*
+
+Annecy, [março de 1609]
+
+Recebi tuas duas cartas, minha querida Filha, e vejo muito claramente que todo o mal que tiveste não passou de um verdadeiro embaraço do espírito, proveniente de dois desejos que não foram satisfeitos em ti: um era o desejo de servir a Deus na ocasião que se apresentava; o outro, o desejo de saber se havias cumprido fielmente teu dever. E em ambos tiveste uma afobação que te perturbou e inquietou, e depois te embaraçou. Ora, sem dúvida cumpriste bem teu dever. Teu espírito, que sempre se inclina um pouco à indignação, levou-te a achar pouco o que fizeste; e esse mesmo espírito, desejando muito satisfazer sua obrigação e não conseguindo convencer-se com certeza de tê-lo feito, caiu em tristeza e desânimo ou desgosto.
+
+Vamos, minha querida Filha, é preciso, pois, alegrar-te muito, esquecendo tudo isso e humilhando-te profundamente diante de Nosso Senhor, e lembrando-te de que teu sexo e tua vocação não te permitem impedir o mal fora de casa senão inspirando e propondo o bem, fazendo advertências simples, humildes e caridosas aos que faltam e avisando os Superiores quando isso for possível; digo isso para outra ocasião. A isso acrescento, como conselho geral, que, quando não sabemos discernir se cumprimos bem nosso dever em alguma circunstância e temos dúvida de haver ofendido a Deus, devemos então humilhar-nos, pedir a Deus que nos desculpe e solicitar mais luz para outra ocasião, esquecer inteiramente o que se passou e retomar o curso habitual; pois uma investigação curiosa e afobada para saber se agimos bem provém indubitavelmente do amor-próprio, que nos faz desejar saber se somos valentes, enquanto o puro amor de Deus nos diz: “Por mais vil ou covarde que eu tenha sido, humilha-te, apoia-te na misericórdia de Deus, pede sempre perdão e, renovando tua declaração de fidelidade, segue adiante na busca de teu progresso.”
+
+Aprovo que, salvo algumas vezes em que se necessita de repouso, não se durma até ficar inteiramente satisfeito; mas, para que isso não faça mal, em lugar de dormir, é preciso fazer um pouco mais de exercício, para dissipar os humores que a falta de sono deixou sem digerir. E assim poderás tirar uma hora de teu sono pela manhã, e não à noite, e estou certo de que te sentirás melhor. Quanto às demais austeridades, não te imponhas nenhuma extraordinária, pois tua constituição e tua vocação exigem que não o faças; tampouco aprovo um grande recolhimento por enquanto, pois, para adquirir as virtudes, é melhor exercê-las em meio às contradições; e não se deve desanimar nisso, mas preparar-se frequentemente para proceder bem nessas ocasiões.
+
+Deus seja sempre nosso único amor e nossa única aspiração, minha querida Filha, e sou nele todo teu.
+
+FRANCISCO, B. de Genebra.

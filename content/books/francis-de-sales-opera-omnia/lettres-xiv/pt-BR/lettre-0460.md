@@ -1,0 +1,53 @@
+# Carta CDLX. Ao Cardeal Pompeu Arrigoni, secretário do Santo Ofício
+
+*(MINUTA) (Italiano)*
+
+O Santo pede à Santa Sé a renovação de várias permissões que devem facilitar seu ministério e o de seus sacerdotes.
+
+Annecy, 10 de junho de 1608.
+
+Ilustríssimo, Reverendíssimo e muito honrado Senhor,
+
+Há já muito tempo, a Sagrada Congregação me havia concedido, para mim e para outras pessoas que eu julgasse capazes, a faculdade e a mais ampla autorização de ler e guardar as obras dos hereges, quaisquer que fossem, e também os livros proibidos por outro motivo; de receber os hereges penitentes, mesmo os relapsos; de delegar sacerdotes para reconciliar as igrejas e os cemitérios profanados e para benzer todos os paramentos necessários ao culto divino; de revalidar os matrimônios que os hereges convertidos houvessem contraído no quarto grau de afinidade ou de consanguinidade; de comutar os votos simples e de absolver os duelistas. Esses poderes eram por cinco anos; mas, absorvido por muitos outros pensamentos, deixei transcorrer esse período sem pensar em pedir novas permissões. Assim que me dei conta disso, apressei-me em recorrer a Vossa Senhoria Ilustríssima e Reverendíssima, para lhe pedir muito humildemente que me conceda as mesmas faculdades e, se de algum modo for possível, por um tempo mais longo.
+
+Eis as razões de minha súplica. Dos hereges que ainda temos na diocese, a maior parte volta a cada dia ao redil da Igreja, tanto pelo efeito das pregações públicas como das conversas particulares. Além disso, acontece a mim, como também aos outros pregadores, ter de combater de perto, por toda a diocese, não somente os hereges, mas também os ministros; ora, tais discussões são quase impossíveis se não se tiverem lido as obras proibidas. Qualquer homem competente o confirmará. Aliás, o proveito que tiramos dessa faculdade fica bastante claro pelo fato de que vários milhares de homens e mulheres, nestes últimos doze anos, abjuraram a heresia, em parte por meu ministério, em parte pelo de outros, e voltaram, pela graça de Deus, ao seio da Igreja Católica.
+
+Por isso, suplico a Vossa Senhoria Ilustríssima e Reverendíssima que se digne prorrogar em meu favor essa permissão. Peço-lhe isso em nome do Bispo soberano e Redentor das almas, e da Sé Apostólica que ele estabeleceu na terra.
+
+Em Annecy, no Genevois, 10 de junho de 1608.
+
+Revisto com base no autógrafo conservado na Visitação de Annecy.
+
+CDLXI,
+
+À BARONESA DE CHANTAL
+
+É preciso amar a espera que Deus impõe à realização de nossos desejos. — Projeto de viagem à Borgonha. — A sagração do Bispo de Lausanne. — O Santo amado por “muitos bons velhos”. — Pensamentos que lhe vieram enquanto fazia oração. — “É preciso que as meninas sejam um pouquinho bonitas.” — Retrato do P. de Monchy. — O Irmão Matthieu. — Para se ocupar de exorcismos, não se deve ser demasiado crédulo. — As mulheres e o culto; a parte que podem tomar nele. — Retorno de apóstatas. — Notícias e mensagens. — A Senhora de Charmoisy “caminha muito bem”.
+
+Annecy, 25 de junho de 1608.
+
+É de novo às pressas que te escrevo agora, minha querida Filha, a quem amo terna e incomparavelmente em Nosso Senhor. Recebi tuas duas cartas de 24 de maio e 8 de junho, e em ambas vejo esse grande desejo de teu retiro e tranquilidade. Tenho um, creio, igualmente forte, mas é preciso esperar que Deus o queira. Digo que é preciso esperá-lo com muita doçura e amor; quero dizer que é preciso amar essa espera, já que Deus a quer.
+
+Espero que me indiquem o momento em que deverei ir ao condado da Borgonha para sagrar o Senhor Bispo de Lausanne, pois um fidalgo que conduz esse assunto me assegurou que serei chamado; e, sendo assim, de lá irei infalivelmente a teu encontro e verei os demais parentes por afinidade daquela região, cada um em sua casa, salvo talvez os de Dijon, aonde talvez eu não possa ir, por receio de me prender num lugar de onde não poderia sair tão cedo quanto fosse necessário, sem deixar muitas de minhas [funções] por cumprir. Mas pensaremos nisso e, se eu não for chamado a essa sagração, encontrarei algum outro meio. Ontem falávamos disso, meu irmão de Groisy e eu; pois, como desejas, ele irá conosco. Espero que Deus nos conceda a graça de encontrar o senhor teu sogro cheio de vida, e será para mim uma consolação incrível poder conversar com ele. Imagino que me entenderei tranquilamente com ele, apesar da diferença de nossas idades, pois muitos bons velhos me amaram. Honro-o de todo o coração e hoje vou aplicar-lhe o santo Sacrifício do altar, no qual terei uma lembrança particular de nossas filhas, que amo ternamente.
+
+Quanto a ti, sei bem que te chamas Joana e que, durante toda esta oitava, pensas que te recomendo a esse glorioso Precursor. Na verdade, outro dia — foi no sábado — eu fazia oração sobre a grandeza do amor que Nossa Senhora nos tem. Entre outras coisas, veio-me ao espírito o que se diz de Bala, serva de Raquel: que dava à luz seus filhos sobre os joelhos e no regaço de sua senhora, e os filhos já não eram seus, mas de Raquel, sua senhora (Gênesis 30); e parecia-me que, se puséssemos, com uma justa confiança, nossos corações e nossas afeições sobre os joelhos e no regaço de Nossa Senhora, já não seriam nossos, mas dela: isso me consolava muito. Por fim, comecei a confiar-lhe não somente esses filhos de meu coração, mas também o coração de meus filhos e meus filhos do coração. Pensa, minha querida Filha, se estás entre eles e em que lugar eu te punha ali. Ó Deus, sentia uma suavidade tão ardente ao te colocar nesse regaço sagrado e dizer a Nossa Senhora: Eis tua filha, cujo coração te está inteiramente consagrado; não saberia dizer o que meu coração dizia, pois, como sabes, os corações têm uma linguagem secreta que ninguém entende senão eles. Ocorreu-me dizer-te isso e eu te disse.
+
+De fato, perguntei a Jean se nossa querida e bem-amada Marie usava o molde, mas não havia nisso nenhuma má intenção; pois sabes bem que gosto de cabeças bem moldadas, e, se essa cabecinha for moldada pela tua, eu a amarei ainda mais por isso. Que queres? É preciso que as meninas sejam um pouquinho bonitas.
+
+O Padre de Monchy te foi enviado exatamente como te escrevi: isto é, Thibaut lhe falou de ir servir tua capela, e depois eles me falaram disso; e, lembrando-me de que tinhas dificuldade em encontrar alguém, consenti que fosse e te escrevi. Quero dizer que não deves permitir que o senhor teu sogro seja incomodado por ele, se não for adequado para esse serviço. Escrevo-lhe que tire sem receio esse hábito e tome uma veste de sacerdote secular, já que Nosso Senhor não quis que permanecesse num lugar onde esse hábito fosse conveniente. É admirável nessas afeições às quais, como vês, se entrega inteiramente, e só se torna importuno por excesso de afeição. De resto, deseja muito servir a Deus. Contudo, está um pouco errado ao querer fazer exortações, pois não tem esse talento, ao que me parece. Mas não há remédio: é preciso suportar um pouco de indiscrição em seu zelo. Não deixarei de lhe escrever a esse respeito. Não consigo zangar-me com os que procedem com simplicidade.
+
+O Irmão Matthieu (Cartas 3, nota 237) fará bem em ir embora. Não me lembrei de te escrever que esse bom Padre (P. de Monchy) tem certa inclinação para os exorcismos, que não me agrada, pois ele é simples e crédulo demais para isso. Se por acaso quiser ocupar-se deles, ou mesmo falar muito desse assunto, diz-lhe que te proibi de conversar sobre essas coisas e de te envolveres nelas, assim como a qualquer pessoa que esteja contigo; pois são conversas em que ele vai além do que convém. O bom homem me escreve pedindo que lhe diga se deve levar a vida ativa ou a contemplativa, ou ambas. Vês bem como é simples; escrevo-lhe que leve a vida doce e devota. Entende bastante de casos de consciência, para a pouca instrução que tem; mas, como não possui o discernimento tão delicado quanto seria necessário, não te detenhas em seus conselhos. Poderás, pois, confessar-te com ele, e os outros também, e tudo o mais. Quanto aos cânticos, asseguro-te que não tenho tempo para compô-los; talvez ele tenha visto comigo alguns dos do Sr. de Lacurne (Cartas 3, nota 471) e pensado que fossem meus.
+
+Já te escrevi que podias cuidar dos corporais depois que o sacerdote os tivesse lavado em duas águas, e que não é preciso benzê-los de novo para usá-los depois. As mulheres e as moças não devem servir ao altar, mas podem responder; isto é, não devem nem pegar o livro nem entregar as galhetas. Já te havia escrito isso; não sei como não recebeste as cartas.
+
+Nestes dias passados fiz uma breve viagem a Thonon para receber alguns eclesiásticos instruídos que, por desregramento, se haviam passado para o meio dos huguenotes. Ah, que queda tinham sofrido! Foi uma grande consolação para mim vê-los voltar aos braços da Igreja, com grande esforço sobre si mesmos para isso. Ah, eram Religiosos, e um deles era jesuíta. A juventude, a vanglória e a carne os haviam arrastado a esse abismo, contra sua própria consciência. O jesuíta, sobretudo, contando-me sua queda, inspirava-me grande compaixão, e tanto maior alegria por sua constância em voltar. Ó Deus, que graça recebi por ter estado tanto tempo, tão jovem e tão fraco, entre os hereges, e tantas vezes atraído pelas mesmas iscas, sem que meu coração jamais quisesse sequer olhar para esses infortunados e infelizes objetos! Bendita seja a mão bondosa de meu Deus, que me manteve firme nesse recinto.
+
+O bom pároco de Bons, de quem me falas, perguntou-me por tua saúde e te honra com uma estima particular. Na volta, vi minha mãe e fiquei dois dias com ela, e, de cada três palavras, duas foram sobre ti e nossa querida Aimée. Minha irmã de Mayrens me fez prometer que te saudaria de sua parte, e ontem nossas senhoras também, mas especialmente a boa Senhora de Lalée (Cartas 3, nota 400). Quanto à Senhora de Charmoisy, não é preciso dizer com que afeição ela te ama. Caminha muito bem e progride cada vez mais; vejo-a com frequência, em comparação contigo, mas não tão frequentemente quanto gostaria, porque não tenho oportunidade de fazê-lo como convém. Falo de fora da confissão, pois, na confissão, vejo-a a cada oito dias durante a ausência de seu marido. Escrevi-te pela Senhorita de Traves (carta 485 e Cartas 3, nota 282), mas sempre às pressas.
+
+Adeus, minha queridíssima Filha; sejamos de Deus inteiramente e eternamente. Apliquei-te várias Missas nestes dias passados. Ó Deus, minha Filha, como este coração é teu, já que Deus o quis e o quer. Seja seu nome bendito para sempre! Amém.
+
+F.
+
+25 de junho de 1608.
+
+Revisto com base no autógrafo conservado na Biblioteca Municipal de Amiens.
