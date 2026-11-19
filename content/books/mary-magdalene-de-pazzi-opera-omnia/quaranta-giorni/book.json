@@ -17,13 +17,19 @@
   },
   "composed": "1584",
   "languages": [
-    "it"
+    "it",
+    "pt-BR"
   ],
   "work": "mary-magdalene-de-pazzi/quaranta-giorni",
   "editions": {
     "it": {
       "editor": "Ermanno del SS. Sacramento (Ermanno Ancilli), O.Carm.",
       "year": 1960
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "it",
+      "year": 2026
     }
   },
   "sources": [
@@ -40,307 +46,358 @@
     {
       "id": "presentazione",
       "title": {
-        "it": "Presentazione della redattrice"
+        "it": "Presentazione della redattrice",
+        "pt-BR": "Apresentação da redatora"
       }
     },
     {
       "id": "giorno-01",
       "title": {
-        "it": "Giorno 1. La mattina della S.ma Trinità"
+        "it": "Giorno 1. La mattina della S.ma Trinità",
+        "pt-BR": "Dia 1. Na manhã da S.ma Trindade"
       }
     },
     {
       "id": "giorno-02",
       "title": {
-        "it": "Giorno 2. Lunedì mattina [28 maggio]"
+        "it": "Giorno 2. Lunedì mattina [28 maggio]",
+        "pt-BR": "Dia 2. Segunda-feira de manhã [28 de maio]"
       }
     },
     {
       "id": "giorno-03",
       "title": {
-        "it": "Giorno 3. Martedì mattina [29 maggio]"
+        "it": "Giorno 3. Martedì mattina [29 maggio]",
+        "pt-BR": "Dia 3. Terça-feira de manhã [29 de maio]"
       }
     },
     {
       "id": "giorno-04",
       "title": {
-        "it": "Giorno 4. Mercoledì, addì 30 di Maggio 1584"
+        "it": "Giorno 4. Mercoledì, addì 30 di Maggio 1584",
+        "pt-BR": "Dia 4. Quarta-feira, dia 30 de maio de 1584"
       }
     },
     {
       "id": "giorno-05",
       "title": {
-        "it": "Giorno 5. Giovedì, addì, 31 di Maggio 1584"
+        "it": "Giorno 5. Giovedì, addì, 31 di Maggio 1584",
+        "pt-BR": "Dia 5. Quinta-feira, dia 31 de maio de 1584"
       }
     },
     {
       "id": "giorno-06",
       "title": {
-        "it": "Giorno 6. Venerdì, addì primo di Giugno 1584"
+        "it": "Giorno 6. Venerdì, addì primo di Giugno 1584",
+        "pt-BR": "Dia 6. Sexta-feira, dia primeiro de junho de 1584"
       }
     },
     {
       "id": "giorno-07",
       "title": {
-        "it": "Giorno 7. Sabbato, addì 2 di Giugno"
+        "it": "Giorno 7. Sabbato, addì 2 di Giugno",
+        "pt-BR": "Dia 7. Sábado, dia 2 de junho"
       }
     },
     {
       "id": "giorno-08",
       "title": {
-        "it": "Giorno 8. Domenica, addì 3 di Giugno 1554"
+        "it": "Giorno 8. Domenica, addì 3 di Giugno 1554",
+        "pt-BR": "Dia 8. Domingo, dia 3 de junho de 1554"
       }
     },
     {
       "id": "giorno-09",
       "title": {
-        "it": "Giorno 9. Lunedì, addì 4 di Giugno"
+        "it": "Giorno 9. Lunedì, addì 4 di Giugno",
+        "pt-BR": "Dia 9. Segunda-feira, dia 4 de junho"
       }
     },
     {
       "id": "giorno-10",
       "title": {
-        "it": "Giorno 10. Martedì, addì 5 di Giugno"
+        "it": "Giorno 10. Martedì, addì 5 di Giugno",
+        "pt-BR": "Dia 10. Terça-feira, dia 5 de junho"
       }
     },
     {
       "id": "giorno-11",
       "title": {
-        "it": "Giorno 11. Mercoledì, addì 6 di Giugno"
+        "it": "Giorno 11. Mercoledì, addì 6 di Giugno",
+        "pt-BR": "Dia 11. Quarta-feira, dia 6 de junho"
       }
     },
     {
       "id": "giorno-12",
       "title": {
-        "it": "Giorno 12. Giovedì, addì 7 di Giugno 1584"
+        "it": "Giorno 12. Giovedì, addì 7 di Giugno 1584",
+        "pt-BR": "Dia 12. Quinta-feira, dia 7 de junho de 1584"
       }
     },
     {
       "id": "giorno-13",
       "title": {
-        "it": "Giorno 13. Venerdì, addì 8 di Giugno"
+        "it": "Giorno 13. Venerdì, addì 8 di Giugno",
+        "pt-BR": "Dia 13. Sexta-feira, dia 8 de junho"
       }
     },
     {
       "id": "giorno-14",
       "title": {
-        "it": "Giorno 14. Sabbato, addì 9 di Giugno"
+        "it": "Giorno 14. Sabbato, addì 9 di Giugno",
+        "pt-BR": "Dia 14. Sábado, dia 9 de junho"
       }
     },
     {
       "id": "giorno-15",
       "title": {
-        "it": "Giorno 15. Domenica, addì X di Giugno"
+        "it": "Giorno 15. Domenica, addì X di Giugno",
+        "pt-BR": "Dia 15. Domingo, dia X de junho"
       }
     },
     {
       "id": "giorno-16",
       "title": {
-        "it": "Giorno 16. Lunedì, addì XI di Giugno"
+        "it": "Giorno 16. Lunedì, addì XI di Giugno",
+        "pt-BR": "Dia 16. Segunda-feira, dia XI de junho"
       }
     },
     {
       "id": "giorno-17",
       "title": {
-        "it": "Giorno 17. Martedì, 12 di Giugno"
+        "it": "Giorno 17. Martedì, 12 di Giugno",
+        "pt-BR": "Dia 17. Terça-feira, 12 de junho"
       }
     },
     {
       "id": "giorno-18",
       "title": {
-        "it": "Giorno 18. Mercoledì, addì 13 di Giugno"
+        "it": "Giorno 18. Mercoledì, addì 13 di Giugno",
+        "pt-BR": "Dia 18. Quarta-feira, dia 13 de junho"
       }
     },
     {
       "id": "giorno-19",
       "title": {
-        "it": "Giorno 19. Giovedì, addì 14 di Giugno 1584"
+        "it": "Giorno 19. Giovedì, addì 14 di Giugno 1584",
+        "pt-BR": "Dia 19. Quinta-feira, dia 14 de junho de 1584"
       }
     },
     {
       "id": "giorno-20",
       "title": {
-        "it": "Giorno 20. Il Giovedì sera [cioè, in Firenze, dopo il tramonto del sole, il venerdì]"
+        "it": "Giorno 20. Il Giovedì sera [cioè, in Firenze, dopo il tramonto del sole, il venerdì]",
+        "pt-BR": "Dia 20. Na quinta-feira à noite [isto é, em Florença, depois do pôr do sol, na sexta-feira]"
       }
     },
     {
       "id": "giorno-21",
       "title": {
-        "it": "Giorno 21. Sabbato, addì 16 di Giugno 1584"
+        "it": "Giorno 21. Sabbato, addì 16 di Giugno 1584",
+        "pt-BR": "Dia 21. Sábado, dia 16 de junho de 1584"
       }
     },
     {
       "id": "giorno-22",
       "title": {
-        "it": "Giorno 22. Domenica, addì 17 di Giugno"
+        "it": "Giorno 22. Domenica, addì 17 di Giugno",
+        "pt-BR": "Dia 22. Domingo, dia 17 de junho"
       }
     },
     {
       "id": "giorno-23",
       "title": {
-        "it": "Giorno 23. Lunedì, addì 18 di Giugno"
+        "it": "Giorno 23. Lunedì, addì 18 di Giugno",
+        "pt-BR": "Dia 23. Segunda-feira, dia 18 de junho"
       }
     },
     {
       "id": "giorno-24",
       "title": {
-        "it": "Giorno 24. Martedì, addì 19 di Giugno"
+        "it": "Giorno 24. Martedì, addì 19 di Giugno",
+        "pt-BR": "Dia 24. Terça-feira, dia 19 de junho"
       }
     },
     {
       "id": "giorno-25",
       "title": {
-        "it": "Giorno 25. Mercoledì, addì 20 di Giugno"
+        "it": "Giorno 25. Mercoledì, addì 20 di Giugno",
+        "pt-BR": "Dia 25. Quarta-feira, dia 20 de junho"
       }
     },
     {
       "id": "giorno-26",
       "title": {
-        "it": "Giorno 26. Giovedì, addì 21 di Giugno"
+        "it": "Giorno 26. Giovedì, addì 21 di Giugno",
+        "pt-BR": "Dia 26. Quinta-feira, dia 21 de junho"
       }
     },
     {
       "id": "giorno-27",
       "title": {
-        "it": "Giorno 27. Venerdì, addì 22 di Giugno"
+        "it": "Giorno 27. Venerdì, addì 22 di Giugno",
+        "pt-BR": "Dia 27. Sexta-feira, dia 22 de junho"
       }
     },
     {
       "id": "giorno-28",
       "title": {
-        "it": "Giorno 28. Sabato, addì 23 detto [giugno]"
+        "it": "Giorno 28. Sabato, addì 23 detto [giugno]",
+        "pt-BR": "Dia 28. Sábado, dia 23 do dito mês [junho]"
       }
     },
     {
       "id": "giorno-29",
       "title": {
-        "it": "Giorno 29. Domenica, addì 24 di Giugno"
+        "it": "Giorno 29. Domenica, addì 24 di Giugno",
+        "pt-BR": "Dia 29. Domingo, dia 24 de junho"
       }
     },
     {
       "id": "giorno-30",
       "title": {
-        "it": "Giorno 30. Lunedì, addì 25 di Giugno"
+        "it": "Giorno 30. Lunedì, addì 25 di Giugno",
+        "pt-BR": "Dia 30. Segunda-feira, dia 25 de junho"
       }
     },
     {
       "id": "giorno-31",
       "title": {
-        "it": "Giorno 31. Martedì, addì 26 di Giugno"
+        "it": "Giorno 31. Martedì, addì 26 di Giugno",
+        "pt-BR": "Dia 31. Terça-feira, dia 26 de junho"
       }
     },
     {
       "id": "giorno-32",
       "title": {
-        "it": "Giorno 32. Mercoledì, addì 27 di Giugno"
+        "it": "Giorno 32. Mercoledì, addì 27 di Giugno",
+        "pt-BR": "Dia 32. Quarta-feira, dia 27 de junho"
       }
     },
     {
       "id": "giorno-33",
       "title": {
-        "it": "Giorno 33. Giovedì, addì 28 di Giugno"
+        "it": "Giorno 33. Giovedì, addì 28 di Giugno",
+        "pt-BR": "Dia 33. Quinta-feira, dia 28 de junho"
       }
     },
     {
       "id": "giorno-34",
       "title": {
-        "it": "Giorno 34. Venerdì, addì 29 di Giugno"
+        "it": "Giorno 34. Venerdì, addì 29 di Giugno",
+        "pt-BR": "Dia 34. Sexta-feira, dia 29 de junho"
       }
     },
     {
       "id": "giorno-35",
       "title": {
-        "it": "Giorno 35. Sabato, addì 30 di Giugno"
+        "it": "Giorno 35. Sabato, addì 30 di Giugno",
+        "pt-BR": "Dia 35. Sábado, dia 30 de junho"
       }
     },
     {
       "id": "giorno-36",
       "title": {
-        "it": "Giorno 36. Domenica, addì primo di Luglio 1584"
+        "it": "Giorno 36. Domenica, addì primo di Luglio 1584",
+        "pt-BR": "Dia 36. Domingo, dia primeiro de julho de 1584"
       }
     },
     {
       "id": "giorno-37",
       "title": {
-        "it": "Giorno 37. Lunedì, addì 2 di Luglio"
+        "it": "Giorno 37. Lunedì, addì 2 di Luglio",
+        "pt-BR": "Dia 37. Segunda-feira, dia 2 de julho"
       }
     },
     {
       "id": "giorno-38",
       "title": {
-        "it": "Giorno 38. Martedì, addì 3 di Luglio"
+        "it": "Giorno 38. Martedì, addì 3 di Luglio",
+        "pt-BR": "Dia 38. Terça-feira, dia 3 de julho"
       }
     },
     {
       "id": "giorno-39",
       "title": {
-        "it": "Giorno 39. Mercoledì, addì 4 di Luglio"
+        "it": "Giorno 39. Mercoledì, addì 4 di Luglio",
+        "pt-BR": "Dia 39. Quarta-feira, dia 4 de julho"
       }
     },
     {
       "id": "giorno-40",
       "title": {
-        "it": "Giorno 40. Giovedì, addì 5 di Luglio"
+        "it": "Giorno 40. Giovedì, addì 5 di Luglio",
+        "pt-BR": "Dia 40. Quinta-feira, dia 5 de julho"
       }
     },
     {
       "id": "giorno-41",
       "title": {
-        "it": "Giorno 41. Venerdì, addì 6 di Luglio 1584"
+        "it": "Giorno 41. Venerdì, addì 6 di Luglio 1584",
+        "pt-BR": "Dia 41. Sexta-feira, dia 6 de julho de 1584"
       }
     },
     {
       "id": "giorno-42",
       "title": {
-        "it": "Giorno 42. Il Mercoledì, che fumo alli XI di Luglio 1584"
+        "it": "Giorno 42. Il Mercoledì, che fumo alli XI di Luglio 1584",
+        "pt-BR": "Dia 42. Na quarta-feira, em que estávamos a XI de julho de 1584"
       }
     },
     {
       "id": "giorno-43",
       "title": {
-        "it": "Giorno 43. Venerdì che fumo alli 13 di Luglio"
+        "it": "Giorno 43. Venerdì che fumo alli 13 di Luglio",
+        "pt-BR": "Dia 43. Sexta-feira, em que estávamos a 13 de julho"
       }
     },
     {
       "id": "giorno-44",
       "title": {
-        "it": "Giorno 44. Sabato, addì 14 di Luglio"
+        "it": "Giorno 44. Sabato, addì 14 di Luglio",
+        "pt-BR": "Dia 44. Sábado, dia 14 de julho"
       }
     },
     {
       "id": "giorno-45",
       "title": {
-        "it": "Giorno 45. Domenica, addì 15 di Luglio"
+        "it": "Giorno 45. Domenica, addì 15 di Luglio",
+        "pt-BR": "Dia 45. Domingo, dia 15 de julho"
       }
     },
     {
       "id": "giorno-46",
       "title": {
-        "it": "Giorno 46. Il sabato, che era la Vigilia di Santa Maria Maddalena, alli 21 di Luglio"
+        "it": "Giorno 46. Il sabato, che era la Vigilia di Santa Maria Maddalena, alli 21 di Luglio",
+        "pt-BR": "Dia 46. No sábado, que era a Vigília de Santa Maria Madalena, a 21 de julho"
       }
     },
     {
       "id": "giorno-47",
       "title": {
-        "it": "Giorno 47. Domenica, addì 22 di Luglio 1584 [festa di Santa Maria Maddalena]"
+        "it": "Giorno 47. Domenica, addì 22 di Luglio 1584 [festa di Santa Maria Maddalena]",
+        "pt-BR": "Dia 47. Domingo, dia 22 de julho de 1584 [festa de Santa Maria Madalena]"
       }
     },
     {
       "id": "giorno-48",
       "title": {
-        "it": "Giorno 48. Domenica, addì 5 d'Agosto 1584"
+        "it": "Giorno 48. Domenica, addì 5 d'Agosto 1584",
+        "pt-BR": "Dia 48. Domingo, dia 5 de agosto de 1584"
       }
     },
     {
       "id": "giorno-49",
       "title": {
-        "it": "Giorno 49. Il Martedì, addì 7 d'Agosto"
+        "it": "Giorno 49. Il Martedì, addì 7 d'Agosto",
+        "pt-BR": "Dia 49. Na terça-feira, dia 7 de agosto"
       }
     },
     {
       "id": "giorno-50",
       "title": {
-        "it": "Giorno 50. Mercoledì, addì 15 d'Agosto, che era la Solennità dell'Assuntione della Vergine"
+        "it": "Giorno 50. Mercoledì, addì 15 d'Agosto, che era la Solennità dell'Assuntione della Vergine",
+        "pt-BR": "Dia 50. Quarta-feira, dia 15 de agosto, que era a Solenidade da Assunção da Virgem"
       }
     }
   ]

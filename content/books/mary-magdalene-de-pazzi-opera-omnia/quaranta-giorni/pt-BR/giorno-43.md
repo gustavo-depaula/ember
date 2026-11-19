@@ -1,0 +1,7 @@
+# Dia 43. Sexta-feira, em que estávamos a 13 de julho
+
+Estando eu na Missa, quando o Padre oferecia a hóstia ao Pai eterno, vi sobre o Altar um belíssimo Crucifixo, o qual mantinha suas chagas abertas, como se desejasse que todas as criaturas entrassem nelas; mas particularmente me parecia que convidava a fazê-lo aquelas pessoas que estavam presentes, que eram as Monjas e ainda alguns seculares, digo, daqueles que estavam dispostos, para que, quando o Padre Confessor oferecesse seu Unigênito Filho ao Pai eterno, viesse ainda a oferecer com ele aquelas criaturas, e, aceitando o Pai eterno a oferta do Filho, viesse a aceitar também a elas, por estarem nesse seu Filho.
+
+Via ainda depois a Virgem Maria, a qual tinha na mão um Aspersório e o mergulhava no Lado de Jesus; e, tirando-o de lá cheio de Sangue, aspergia-o sobre o Padre e sobre as Monjas, banhando-as todas de Sangue. Mas via quem dele tirava Fruto e quem não. Particularmente via que o Padre estava coberto dele e que dele tirava fruto.
+
+Depois via outra irmã, chamada Irmã Maria Felicidade *[Orlandini]*, que recebia uma boa porção dele e tirava fruto, dando bom exemplo com palavras e atos. Via depois outra que o recebia, mas não tirava fruto e o deixava estar. Via ainda outra que o havia recebido, mas Jesus o retirava todo para si, dizendo-me que ela ainda não estava disposta e que ele o retirava para si, para que ela não o tivesse para sua condenação e para seu maior castigo.
