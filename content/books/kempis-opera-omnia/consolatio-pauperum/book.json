@@ -18,13 +18,19 @@
   },
   "composed": "c. 1425-1440",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "thomas-a-kempis/consolatio-pauperum",
   "editions": {
     "la": {
       "editor": "Michael Joseph Pohl",
       "year": 1918
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,55 +47,64 @@
     {
       "id": "proemium",
       "title": {
-        "la": "Prooemium"
+        "la": "Prooemium",
+        "pt-BR": "Proêmio"
       }
     },
     {
       "id": "pauper",
       "title": {
-        "la": "Pauper"
+        "la": "Pauper",
+        "pt-BR": "O pobre"
       }
     },
     {
       "id": "debilis",
       "title": {
-        "la": "Debilis"
+        "la": "Debilis",
+        "pt-BR": "O fraco"
       }
     },
     {
       "id": "lazarus-infirmus",
       "title": {
-        "la": "Lazarus infirmus"
+        "la": "Lazarus infirmus",
+        "pt-BR": "Lázaro enfermo"
       }
     },
     {
       "id": "ioseph-peregrinus",
       "title": {
-        "la": "Ioseph peregrinus"
+        "la": "Ioseph peregrinus",
+        "pt-BR": "José peregrino"
       }
     },
     {
       "id": "claudus-despectus",
       "title": {
-        "la": "Claudus despectus"
+        "la": "Claudus despectus",
+        "pt-BR": "O coxo desprezado"
       }
     },
     {
       "id": "columbanus-tacitus",
       "title": {
-        "la": "Columbanus tacitus"
+        "la": "Columbanus tacitus",
+        "pt-BR": "Columbano calado"
       }
     },
     {
       "id": "simplicianus-indoctus",
       "title": {
-        "la": "Simplicianus indoctus"
+        "la": "Simplicianus indoctus",
+        "pt-BR": "Simpliciano ignorante"
       }
     },
     {
       "id": "turtur-solitarius",
       "title": {
-        "la": "Turtur solitarius"
+        "la": "Turtur solitarius",
+        "pt-BR": "A rola solitária"
       }
     }
   ]

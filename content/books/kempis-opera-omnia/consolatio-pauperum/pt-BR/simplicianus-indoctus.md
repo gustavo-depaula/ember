@@ -1,0 +1,3 @@
+# Simpliciano ignorante
+
+[...] e louva a Deus, irmão Simpliciano, porque deixaste a prudência deste mundo e os enganos do diabo com as suas feiras, e lançaste para longe os seus cuidados terrenos. Dá graças, porque mereceste ouvir a sabedoria do verdadeiro Salomão, nosso Senhor Jesus Cristo, na sua humildade e mansidão. Aprende a quebrar a própria vontade e a vencer o prazer da carne, e luta todos os dias contra o assalto do diabo e a divagação do coração. Permanece firme, combate varonilmente; não te retires do lugar da batalha nem da boa companhia, porque contigo estão o Senhor teu Deus e os seus anjos, diante de cuja presença o espírito maligno fugirá depressa, como fumaça repelida pelo vento.

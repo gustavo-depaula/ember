@@ -1,0 +1,3 @@
+# A rola solitária
+
+Rola gemente, atende, tu que desejas a vida solitária e amas a castidade eterna. Quando te subtrais aos tumultos dos homens, orando, meditando, estudando, então te aproximas dos coros celestes dos anjos; e afastar-se-ão de ti os ímpetos dos demônios, as imagens dos ídolos torpes e os monstros de todos os vícios nocivos. Ninguém vive tão tranquilo na comunidade, ninguém passa deste mundo tão alegremente como o verdadeiro obediente, ó manso e humilde de coração, que renuncia perfeitamente a toda vontade própria, submisso a Deus e aos homens por amor de Deus, por virtude e sem demora. Grande virtude, grande graça: vencer-se a si mesmo e morrer a toda hora. Dura é a luta, mas prêmios gloriosos e eternos serão dados pela vitória consumada.

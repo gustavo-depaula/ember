@@ -1,0 +1,3 @@
+# Lázaro enfermo
+
+[...] no Senhor, irmão Lázaro, que agora estás coberto de muitas chagas; porque te é preparado o descanso eterno em troca de um pouco de comida pobre e mal preparada e de uma breve dor suportada no corpo. Pelas migalhas que te foram negadas, terás esplêndidos manjares no banquete do Rei celeste, e comerás sempre o pão do céu à mesa de Jesus Cristo, no reino de seu Pai. Pelas chagas que te foram infligidas, terás uma coroa de admirável beleza, ornada de flores de imensa suavidade. Pelos cães que lambiam as tuas chagas, terás anjos que te servirão com grande alegria, louvando a Deus pela tua múltipla indigência e pela tua benigna paciência.
