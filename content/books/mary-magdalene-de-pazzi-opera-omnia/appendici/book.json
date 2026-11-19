@@ -13,17 +13,23 @@
   "description": {
     "it": "L'appendice di Tutte le opere (Firenze: CIL, 1960-66): l'Esercizio spirituale che la santa faceva ogni mattina, i Detti e sentenze memorabili e il Breve ragguaglio della sua vita scritto dalla consorella suor Maria Pacifica del Tovaglia. Le introduzioni e le note dei curatori sono come stampate; un capitolo per scritto, con i testi lunghi suddivisi.",
     "en-US": "The appendix to Tutte le opere (Florence: CIL, 1960-66): the Spiritual Exercise the saint made each morning, the Sayings and Memorable Maxims, and the Brief Account of her life by her sister Maria Pacifica del Tovaglia. The editors' notes are as printed; one chapter per piece, long texts divided.",
-    "pt-BR": "O apêndice de Tutte le opere (Florença: CIL, 1960-66): o Exercício espiritual que a santa fazia a cada manhã, os Ditos e sentenças memoráveis e o Breve relato de sua vida escrito pela irmã Maria Pacífica del Tovaglia."
+    "pt-BR": "O apêndice de Tutte le opere (Florença: CIL, 1960-66): o Exercício espiritual que a santa fazia a cada manhã, os Ditos e sentenças memoráveis e o Breve relato de sua vida escrito pela irmã Maria Pacífica del Tovaglia. As notas dos editores vão como impressas; um capítulo por escrito, com os textos longos divididos."
   },
   "composed": "1566-1607",
   "languages": [
-    "it"
+    "it",
+    "pt-BR"
   ],
   "work": "mary-magdalene-de-pazzi/appendici",
   "editions": {
     "it": {
       "editor": "Carmelite scholars (Tutte le opere, ed. Fulvio Nardoni)",
       "year": 1966
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "it",
+      "year": 2026
     }
   },
   "sources": [
@@ -40,43 +46,50 @@
     {
       "id": "prefazione",
       "title": {
-        "it": "Appendici: i manoscritti e le edizioni"
+        "it": "Appendici: i manoscritti e le edizioni",
+        "pt-BR": "Apêndices: os manuscritos e as edições"
       }
     },
     {
       "id": "esercizio-spirituale",
       "title": {
-        "it": "Esercizio spirituale"
+        "it": "Esercizio spirituale",
+        "pt-BR": "Exercício espiritual"
       }
     },
     {
       "id": "detti-e-sentenze",
       "title": {
-        "it": "Detti e sentenze memorabili"
+        "it": "Detti e sentenze memorabili",
+        "pt-BR": "Ditos e sentenças memoráveis"
       }
     },
     {
       "id": "breve-ragguaglio-1",
       "title": {
-        "it": "Breve ragguaglio della vita della Santa Madre, di suor Maria Pacifica del Tovaglia (1/4)"
+        "it": "Breve ragguaglio della vita della Santa Madre, di suor Maria Pacifica del Tovaglia (1/4)",
+        "pt-BR": "Breve relato da vida da Santa Madre, por Irmã Maria Pacífica del Tovaglia (1/4)"
       }
     },
     {
       "id": "breve-ragguaglio-2",
       "title": {
-        "it": "Breve ragguaglio della vita della Santa Madre, di suor Maria Pacifica del Tovaglia (2/4)"
+        "it": "Breve ragguaglio della vita della Santa Madre, di suor Maria Pacifica del Tovaglia (2/4)",
+        "pt-BR": "Breve relato da vida da Santa Madre, por Irmã Maria Pacífica del Tovaglia (2/4)"
       }
     },
     {
       "id": "breve-ragguaglio-3",
       "title": {
-        "it": "Breve ragguaglio della vita della Santa Madre, di suor Maria Pacifica del Tovaglia (3/4)"
+        "it": "Breve ragguaglio della vita della Santa Madre, di suor Maria Pacifica del Tovaglia (3/4)",
+        "pt-BR": "Breve relato da vida da Santa Madre, por Irmã Maria Pacífica del Tovaglia (3/4)"
       }
     },
     {
       "id": "breve-ragguaglio-4",
       "title": {
-        "it": "Breve ragguaglio della vita della Santa Madre, di suor Maria Pacifica del Tovaglia (4/4)"
+        "it": "Breve ragguaglio della vita della Santa Madre, di suor Maria Pacifica del Tovaglia (4/4)",
+        "pt-BR": "Breve relato da vida da Santa Madre, por Irmã Maria Pacífica del Tovaglia (4/4)"
       }
     }
   ]
