@@ -18,13 +18,19 @@
   },
   "composed": "1346",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "bridget-of-sweden/regula-salvatoris",
   "editions": {
     "la": {
       "editor": "Sten Eklund (Svenska fornskriftsällskapet critical edition)",
       "year": 1975
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,193 +47,225 @@
     {
       "id": "p01",
       "title": {
-        "la": "Pars 1"
+        "la": "Pars 1",
+        "pt-BR": "Parte 1"
       }
     },
     {
       "id": "p02",
       "title": {
-        "la": "Pars 2"
+        "la": "Pars 2",
+        "pt-BR": "Parte 2"
       }
     },
     {
       "id": "p03",
       "title": {
-        "la": "Pars 3"
+        "la": "Pars 3",
+        "pt-BR": "Parte 3"
       }
     },
     {
       "id": "p04",
       "title": {
-        "la": "Pars 4"
+        "la": "Pars 4",
+        "pt-BR": "Parte 4"
       }
     },
     {
       "id": "p05",
       "title": {
-        "la": "Pars 5"
+        "la": "Pars 5",
+        "pt-BR": "Parte 5"
       }
     },
     {
       "id": "p06",
       "title": {
-        "la": "Pars 6"
+        "la": "Pars 6",
+        "pt-BR": "Parte 6"
       }
     },
     {
       "id": "p07",
       "title": {
-        "la": "Pars 7"
+        "la": "Pars 7",
+        "pt-BR": "Parte 7"
       }
     },
     {
       "id": "p08",
       "title": {
-        "la": "Pars 8"
+        "la": "Pars 8",
+        "pt-BR": "Parte 8"
       }
     },
     {
       "id": "p09",
       "title": {
-        "la": "Pars 9"
+        "la": "Pars 9",
+        "pt-BR": "Parte 9"
       }
     },
     {
       "id": "p10",
       "title": {
-        "la": "Pars 10"
+        "la": "Pars 10",
+        "pt-BR": "Parte 10"
       }
     },
     {
       "id": "p11",
       "title": {
-        "la": "Pars 11"
+        "la": "Pars 11",
+        "pt-BR": "Parte 11"
       }
     },
     {
       "id": "p12",
       "title": {
-        "la": "Pars 12"
+        "la": "Pars 12",
+        "pt-BR": "Parte 12"
       }
     },
     {
       "id": "p13",
       "title": {
-        "la": "Pars 13"
+        "la": "Pars 13",
+        "pt-BR": "Parte 13"
       }
     },
     {
       "id": "p14",
       "title": {
-        "la": "Pars 14"
+        "la": "Pars 14",
+        "pt-BR": "Parte 14"
       }
     },
     {
       "id": "p15",
       "title": {
-        "la": "Pars 15"
+        "la": "Pars 15",
+        "pt-BR": "Parte 15"
       }
     },
     {
       "id": "p16",
       "title": {
-        "la": "Pars 16"
+        "la": "Pars 16",
+        "pt-BR": "Parte 16"
       }
     },
     {
       "id": "p17",
       "title": {
-        "la": "Pars 17"
+        "la": "Pars 17",
+        "pt-BR": "Parte 17"
       }
     },
     {
       "id": "p18",
       "title": {
-        "la": "Pars 18"
+        "la": "Pars 18",
+        "pt-BR": "Parte 18"
       }
     },
     {
       "id": "p19",
       "title": {
-        "la": "Pars 19"
+        "la": "Pars 19",
+        "pt-BR": "Parte 19"
       }
     },
     {
       "id": "p20",
       "title": {
-        "la": "Pars 20"
+        "la": "Pars 20",
+        "pt-BR": "Parte 20"
       }
     },
     {
       "id": "p21",
       "title": {
-        "la": "Pars 21"
+        "la": "Pars 21",
+        "pt-BR": "Parte 21"
       }
     },
     {
       "id": "p22",
       "title": {
-        "la": "Pars 22"
+        "la": "Pars 22",
+        "pt-BR": "Parte 22"
       }
     },
     {
       "id": "p23",
       "title": {
-        "la": "Pars 23"
+        "la": "Pars 23",
+        "pt-BR": "Parte 23"
       }
     },
     {
       "id": "p24",
       "title": {
-        "la": "Pars 24"
+        "la": "Pars 24",
+        "pt-BR": "Parte 24"
       }
     },
     {
       "id": "p25",
       "title": {
-        "la": "Pars 25"
+        "la": "Pars 25",
+        "pt-BR": "Parte 25"
       }
     },
     {
       "id": "p26",
       "title": {
-        "la": "Pars 26"
+        "la": "Pars 26",
+        "pt-BR": "Parte 26"
       }
     },
     {
       "id": "p27",
       "title": {
-        "la": "Pars 27"
+        "la": "Pars 27",
+        "pt-BR": "Parte 27"
       }
     },
     {
       "id": "p28",
       "title": {
-        "la": "Pars 28"
+        "la": "Pars 28",
+        "pt-BR": "Parte 28"
       }
     },
     {
       "id": "p29",
       "title": {
-        "la": "Pars 29"
+        "la": "Pars 29",
+        "pt-BR": "Parte 29"
       }
     },
     {
       "id": "p30",
       "title": {
-        "la": "Pars 30"
+        "la": "Pars 30",
+        "pt-BR": "Parte 30"
       }
     },
     {
       "id": "p31",
       "title": {
-        "la": "Pars 31"
+        "la": "Pars 31",
+        "pt-BR": "Parte 31"
       }
     },
     {
       "id": "p32",
       "title": {
-        "la": "Pars 32"
+        "la": "Pars 32",
+        "pt-BR": "Parte 32"
       }
     }
   ]
