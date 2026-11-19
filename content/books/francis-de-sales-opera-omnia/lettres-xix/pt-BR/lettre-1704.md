@@ -1,0 +1,21 @@
+# Carta MDCCIV. A uma Senhora
+
+*A parte inferior da alma ressente-se dos incômodos do corpo. – Deus não deixa de aceitar os atos do espírito feitos com custo e sem alegria sensível. – Ser justo para conosco mesmos. – Como transformar o chumbo em ouro. – Um pintor capuchinho. – A futura “imagem viva da divina Majestade”.*
+
+Annecy, 29 de setembro de 1620.
+
+Minha caríssima Filha,
+
+Não me espanto de modo algum se a vossa coragem vos parece um pouco mais pesada e entorpecida, pois estais grávida; e é uma verdade manifesta que as nossas almas contraem ordinariamente as qualidades e condições dos nossos corpos, na porção inferior. E digo assim, minha caríssima Filha, na porção inferior, porque é ela que está imediatamente ligada ao corpo e sujeita a participar dos incômodos dele. Um corpo delicado, agravado pelo peso de uma gravidez, debilitado por esse trabalho de trazer uma criança, incomodado por várias dores, não pode permitir que o coração seja tão vivo, tão ativo, tão pronto nas suas operações. Mas tudo isso não prejudica de modo algum os atos do espírito, daquela ponta superior, tão agradáveis a Deus como poderiam ser no meio de todas as alegrias do mundo, e até, certamente, mais agradáveis, porque feitos com mais custo e luta; mas não são tão agradáveis à pessoa que os faz, porque, não estando na parte sensível, também não são sensíveis nem deleitáveis para nós.
+
+Minha caríssima Filha, não se deve ser injusto, nem exigir de nós senão o que está em nós. Quando estamos incomodados no corpo e na saúde, não devemos exigir do nosso espírito senão os atos de submissão e de aceitação da pena, e as santas uniões da nossa vontade ao beneplácito de Deus, que se formam no cimo da alma; e, quanto às ações exteriores, é preciso ordená-las e fazê-las o melhor que pudermos, e contentar-nos de fazê-las ainda que seja a contragosto, lânguida e pesadamente. E, para levantar esses langores, pesos e entorpecimentos do coração, e fazê-los servir ao amor divino, é preciso confessar, aceitar e amar a sua santa abjeção: assim transformareis o chumbo do vosso peso em ouro, e num ouro mais fino do que seria o das vossas mais vivas alegrias de coração. Tende, pois, paciência convosco mesma; que a vossa porção superior suporte o desarranjo da inferior; e oferecei muitas vezes à glória eterna do nosso Criador a pequena criatura para cuja formação ele vos quis tomar como cooperadora.
+
+Minha caríssima Filha, temos em Annecy um pintor capuchinho que, como podeis imaginar, não faz imagens senão para Deus e o seu templo; e, embora ao trabalhar tenha uma atenção tão grande que não pode fazer oração na mesma hora, e isso até ocupe e canse o seu espírito, ainda assim faz essas obras de bom coração, pela glória que delas deve resultar a Nosso Senhor e pela esperança que tem de que esses quadros excitarão muitos fiéis a louvar a Deus e bendizer a sua bondade. Ora, minha querida Filha, o vosso filho que se forma no meio das vossas entranhas será uma imagem viva da divina Majestade; mas, enquanto a vossa alma, as vossas forças, o vosso vigor natural estão ocupados nesta obra, ela não pode deixar de se cansar e fatigar, e não podeis ao mesmo tempo fazer os vossos exercícios ordinários tão ativa e alegremente. Mas sofrei amorosamente essas lassidões e pesos, em consideração da honra que Deus receberá da vossa produção; pois é a vossa imagem que será colocada no templo eterno da celeste Jerusalém e será olhada eternamente com prazer por Deus, pelos Anjos e pelos homens; e os Santos louvarão a Deus por ela, e vós também, quando a virdes lá. E, entretanto, tende paciência de sentir o vosso coração um pouco entorpecido e adormecido, e, com a parte superior, prendei-vos à santa vontade de Nosso Senhor, que assim o dispôs segundo a sua eterna sabedoria.
+
+Em suma, não sei o que a minha alma não pensa e não deseja para a perfeição da vossa, a qual, visto que Deus assim o quis e quer, está certamente no meio da minha. Praza à sua divina Bondade que tanto a vossa como a minha estejam ambas segundo o seu santíssimo beneplácito, e que ele encha toda a vossa querida família das suas sagradas bênçãos, e especialmente o senhor vosso caríssimo marido, de quem, assim como de vós, sou invariavelmente,
+
+Muito humilde e mais obediente servidor,
+
+FRANCISCO, B. de Genebra.
+
+No dia de São Miguel de 1620.
