@@ -13,17 +13,23 @@
   "description": {
     "it": "Il terzo libro dei manoscritti originali (8-16 giugno 1585): gli otto giorni e le otto notti dalla vigilia della Pentecoste, in cui suor Maria Maddalena, nei ratti, ha intelligenza dell'amore della Trinità, dello Spirito Santo e della Chiesa, e viene introdotta nella prova della «probazione». Edizione critica in Tutte le opere, vol. IV (Firenze: CIL, 1964). Un capitolo per giorno e per notte, con le glosse editoriali tra parentesi quadre.",
     "en-US": "The third of the original manuscript books (8-16 June 1585): the eight days and eight nights from Pentecost eve, in which Sister Maria Maddalena in ecstasy receives understanding of the Trinity's love, of the Holy Spirit and of the Church, and is led into the trial of the \"probation\". Critical edition in Tutte le opere, vol. IV (Florence: CIL, 1964). One chapter per day and per night, with the editor's bracketed glosses.",
-    "pt-BR": "O terceiro livro dos manuscritos originais (8 a 16 de junho de 1585): os oito dias e as oito noites a partir da vigília de Pentecostes, em que a irmã Maria Madalena, em êxtase, recebe inteligência do amor da Trindade, do Espírito Santo e da Igreja, e é introduzida na prova da «probação» (edição crítica, Florença: CIL, 1964)."
+    "pt-BR": "O terceiro livro dos manuscritos originais (8 a 16 de junho de 1585): os oito dias e as oito noites a partir da vigília de Pentecostes, em que a irmã Maria Madalena, em êxtase, recebe inteligência do amor da Trindade, do Espírito Santo e da Igreja, e é introduzida na prova da «probação». Edição crítica em Tutte le opere, vol. IV (Florença: CIL, 1964). Um capítulo por dia e por noite, com as glosas editoriais entre colchetes."
   },
   "composed": "1585",
   "languages": [
-    "it"
+    "it",
+    "pt-BR"
   ],
   "work": "mary-magdalene-de-pazzi/revelatione-e-intelligentie",
   "editions": {
     "it": {
       "editor": "Carmelite scholars (Tutte le opere, ed. Fulvio Nardoni)",
       "year": 1964
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "it",
+      "year": 2026
     }
   },
   "sources": [
@@ -40,109 +46,127 @@
     {
       "id": "presentazione",
       "title": {
-        "it": "Presentazione della redattrice"
+        "it": "Presentazione della redattrice",
+        "pt-BR": "Apresentação da redatora"
       }
     },
     {
       "id": "giorno-1",
       "title": {
-        "it": "Il primo giorno"
+        "it": "Il primo giorno",
+        "pt-BR": "O primeiro dia"
       }
     },
     {
       "id": "notte-1",
       "title": {
-        "it": "Notte 1"
+        "it": "Notte 1",
+        "pt-BR": "Noite 1"
       }
     },
     {
       "id": "giorno-2-1",
       "title": {
-        "it": "Il secondo giorno (1/2)"
+        "it": "Il secondo giorno (1/2)",
+        "pt-BR": "O segundo dia (1/2)"
       }
     },
     {
       "id": "giorno-2-2",
       "title": {
-        "it": "Il secondo giorno (2/2)"
+        "it": "Il secondo giorno (2/2)",
+        "pt-BR": "O segundo dia (2/2)"
       }
     },
     {
       "id": "notte-2",
       "title": {
-        "it": "Notte 2"
+        "it": "Notte 2",
+        "pt-BR": "Noite 2"
       }
     },
     {
       "id": "giorno-3",
       "title": {
-        "it": "Il terzo giorno"
+        "it": "Il terzo giorno",
+        "pt-BR": "O terceiro dia"
       }
     },
     {
       "id": "notte-3",
       "title": {
-        "it": "Notte 3"
+        "it": "Notte 3",
+        "pt-BR": "Noite 3"
       }
     },
     {
       "id": "giorno-4",
       "title": {
-        "it": "Il quarto giorno"
+        "it": "Il quarto giorno",
+        "pt-BR": "O quarto dia"
       }
     },
     {
       "id": "notte-4",
       "title": {
-        "it": "Notte 4"
+        "it": "Notte 4",
+        "pt-BR": "Noite 4"
       }
     },
     {
       "id": "giorno-5",
       "title": {
-        "it": "Il quinto giorno"
+        "it": "Il quinto giorno",
+        "pt-BR": "O quinto dia"
       }
     },
     {
       "id": "notte-5",
       "title": {
-        "it": "Notte 5"
+        "it": "Notte 5",
+        "pt-BR": "Noite 5"
       }
     },
     {
       "id": "giorno-6",
       "title": {
-        "it": "Il sesto giorno"
+        "it": "Il sesto giorno",
+        "pt-BR": "O sexto dia"
       }
     },
     {
       "id": "notte-6",
       "title": {
-        "it": "Notte 6"
+        "it": "Notte 6",
+        "pt-BR": "Noite 6"
       }
     },
     {
       "id": "giorno-7",
       "title": {
-        "it": "Il settimo giorno"
+        "it": "Il settimo giorno",
+        "pt-BR": "O sétimo dia"
       }
     },
     {
       "id": "notte-7",
       "title": {
-        "it": "Notte 7"
+        "it": "Notte 7",
+        "pt-BR": "Noite 7"
       }
     },
     {
       "id": "giorno-8",
       "title": {
-        "it": "Il ottavo giorno"
+        "it": "Il ottavo giorno",
+        "pt-BR": "O oitavo dia"
       }
     },
     {
       "id": "notte-8",
       "title": {
-        "it": "Notte 8"
+        "it": "Notte 8",
+        "pt-BR": "Noite 8"
       }
     }
   ]
