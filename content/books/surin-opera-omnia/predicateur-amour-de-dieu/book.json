@@ -14,17 +14,23 @@
   "description": {
     "fr-FR": "Ouvrage posthume attribué au P. Jean-Joseph Surin, S.J. (1600-1665) : les Questions sur l’amour de Dieu, en deux livres de questions et réponses sur le pur amour (chacune suivie d’un « coup d’œil sur les dispositions de son cœur », affections de l’éditeur), puis un mois de degrés pour s’élever à un grand amour de Dieu, des avis salutaires et trente entretiens du chrétien en oraison avec Jésus-Christ, extraits des autres écrits de Surin et mêlés de pages de François de Sales et de Jean de la Croix. Le style a été retouché par l’éditeur. Nouvelle édition de 1824, qui rétablit le chapitre supprimé par la censure impériale.",
     "en-US": "A posthumous work attributed to Fr. Jean-Joseph Surin, S.J. (1600-1665): the Questions on the Love of God, two books of questions and answers on pure love (each followed by a “glance at the dispositions of one’s heart”, affections added by the editor), then a month of steps to rise to great love of God, salutary counsels and thirty colloquies of the Christian at prayer with Jesus Christ, drawn from Surin’s other writings and mixed with pages of Francis de Sales and John of the Cross. The editor retouched the style. The new edition of 1824, which restores the chapter suppressed by the imperial censors.",
-    "pt-BR": "Obra póstuma atribuída ao P. Jean-Joseph Surin, S.J. (1600-1665): as Questões sobre o amor de Deus, em dois livros de perguntas e respostas sobre o puro amor (cada uma seguida de um « olhar sobre as disposições do coração », afetos acrescentados pelo editor), depois um mês de degraus para subir a um grande amor de Deus, avisos salutares e trinta colóquios do cristão em oração com Jesus Cristo, tirados dos outros escritos de Surin e entremeados de páginas de Francisco de Sales e de João da Cruz. O editor retocou o estilo. Edição nova de 1824."
+    "pt-BR": "Obra póstuma atribuída ao P. Jean-Joseph Surin, S.J. (1600-1665): as Questões sobre o amor de Deus, em dois livros de perguntas e respostas sobre o puro amor (cada uma seguida de um « olhar sobre as disposições do coração », afetos acrescentados pelo editor), depois um mês de degraus para subir a um grande amor de Deus, avisos salutares e trinta colóquios do cristão em oração com Jesus Cristo, tirados dos outros escritos de Surin e entremeados de páginas de Francisco de Sales e de João da Cruz. O editor retocou o estilo. Edição nova de 1824, que restabelece o capítulo suprimido pela censura imperial."
   },
   "composed": "c. 1660",
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "surin/predicateur-amour-de-dieu",
   "editions": {
     "fr-FR": {
       "editor": "Anonymous editor (Paris: Méquignon junior / Lyon: Périsse frères, “nouvelle édition”)",
       "year": 1824
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,73 +47,85 @@
     {
       "id": "avertissement",
       "title": {
-        "fr-FR": "À ceux qui veulent aimer Dieu"
+        "fr-FR": "À ceux qui veulent aimer Dieu",
+        "pt-BR": "Aos que querem amar a Deus"
       }
     },
     {
       "id": "livre-1",
       "title": {
-        "fr-FR": "Questions sur l’amour de Dieu, livre I"
+        "fr-FR": "Questions sur l’amour de Dieu, livre I",
+        "pt-BR": "Questões sobre o amor de Deus, livro I"
       },
       "children": [
         {
           "id": "l1-c01",
           "title": {
-            "fr-FR": "Livre I, chapitre I. De l’Amour de Dieu pur et parfait"
+            "fr-FR": "Livre I, chapitre I. De l’Amour de Dieu pur et parfait",
+            "pt-BR": "Livro I, capítulo I. Do amor de Deus puro e perfeito"
           }
         },
         {
           "id": "l1-c02",
           "title": {
-            "fr-FR": "Livre I, chapitre II. Explication de ces paroles de Saint Paul : Le Saint-Esprit rend témoignage à notre esprit , que nous sommes les enfans de Dieu"
+            "fr-FR": "Livre I, chapitre II. Explication de ces paroles de Saint Paul : Le Saint-Esprit rend témoignage à notre esprit , que nous sommes les enfans de Dieu",
+            "pt-BR": "Livro I, capítulo II. Explicação destas palavras de São Paulo: O Espírito Santo dá testemunho ao nosso espírito de que somos filhos de Deus"
           }
         },
         {
           "id": "l1-c03",
           "title": {
-            "fr-FR": "Livre I, chapitre III. De la manière de diriger son intention , pour maintenir een soi la pratique du pur amour de Dieu"
+            "fr-FR": "Livre I, chapitre III. De la manière de diriger son intention , pour maintenir een soi la pratique du pur amour de Dieu",
+            "pt-BR": "Livro I, capítulo III. Da maneira de dirigir a intenção para manter em si a prática do puro amor de Deus"
           }
         },
         {
           "id": "l1-c04",
           "title": {
-            "fr-FR": "Livre I, chapitre IV. Réponses aux objections qu’on peut faire contre cette Doctrine"
+            "fr-FR": "Livre I, chapitre IV. Réponses aux objections qu’on peut faire contre cette Doctrine",
+            "pt-BR": "Livro I, capítulo IV. Respostas às objeções que se podem fazer contra esta doutrina"
           }
         },
         {
           "id": "l1-c05",
           "title": {
-            "fr-FR": "Livre I, chapitre V. De la manière d’exécuter la pratique de ne vouloir que Dieu, et de ne se remplir que de lui"
+            "fr-FR": "Livre I, chapitre V. De la manière d’exécuter la pratique de ne vouloir que Dieu, et de ne se remplir que de lui",
+            "pt-BR": "Livro I, capítulo V. Da maneira de executar a prática de não querer senão a Deus e de não se encher senão dele"
           }
         },
         {
           "id": "l1-c06",
           "title": {
-            "fr-FR": "Livre I, chapitre VI. De la manière d’aimer les créatures , sans préjudicier à cette totalité d’amour pour Dieu"
+            "fr-FR": "Livre I, chapitre VI. De la manière d’aimer les créatures , sans préjudicier à cette totalité d’amour pour Dieu",
+            "pt-BR": "Livro I, capítulo VI. Da maneira de amar as criaturas sem prejuízo dessa totalidade de amor a Deus"
           }
         },
         {
           "id": "l1-c07",
           "title": {
-            "fr-FR": "Livre I, chapitre VII. D’une excellente méthode pour arriver à cette totalité d’amour qui n’envisage que Dieu"
+            "fr-FR": "Livre I, chapitre VII. D’une excellente méthode pour arriver à cette totalité d’amour qui n’envisage que Dieu",
+            "pt-BR": "Livro I, capítulo VII. De um excelente método para chegar a essa totalidade de amor que só tem Deus em vista"
           }
         },
         {
           "id": "l1-c08",
           "title": {
-            "fr-FR": "Livre I, chapitre VIII. Point de très-grande conséquence , que doivent observer les âmes qui tendent à cette pureté d’amour"
+            "fr-FR": "Livre I, chapitre VIII. Point de très-grande conséquence , que doivent observer les âmes qui tendent à cette pureté d’amour",
+            "pt-BR": "Livro I, capítulo VIII. Ponto de grandíssima importância que devem observar as almas que tendem a essa pureza de amor"
           }
         },
         {
           "id": "l1-c09",
           "title": {
-            "fr-FR": "Livre I, chapitre IX. Que c’est le propre des parfaits , non de renoncer aux vertus , mais de les consommer par la charité"
+            "fr-FR": "Livre I, chapitre IX. Que c’est le propre des parfaits , non de renoncer aux vertus , mais de les consommer par la charité",
+            "pt-BR": "Livro I, capítulo IX. Que é próprio dos perfeitos não renunciar às virtudes, mas consumá-las pela caridade"
           }
         },
         {
           "id": "l1-c10",
           "title": {
-            "fr-FR": "Livre I, chapitre X. D\\ne tentation fort ordinaire à plusieurs serviteurs de Dieu"
+            "fr-FR": "Livre I, chapitre X. D\\ne tentation fort ordinaire à plusieurs serviteurs de Dieu",
+            "pt-BR": "Livro I, capítulo X. De uma tentação muito comum a vários servos de Deus"
           }
         }
       ]
@@ -115,85 +133,99 @@
     {
       "id": "livre-2",
       "title": {
-        "fr-FR": "Questions sur l’amour de Dieu, livre II"
+        "fr-FR": "Questions sur l’amour de Dieu, livre II",
+        "pt-BR": "Questões sobre o amor de Deus, livro II"
       },
       "children": [
         {
           "id": "l2-c01",
           "title": {
-            "fr-FR": "Livre II, chapitre I. Du mojert d’acquérir ta facilité de faire tout uniquement pour Dieu"
+            "fr-FR": "Livre II, chapitre I. Du mojert d’acquérir ta facilité de faire tout uniquement pour Dieu",
+            "pt-BR": "Livro II, capítulo I. Do meio de adquirir a facilidade de fazer tudo unicamente por Deus"
           }
         },
         {
           "id": "l2-c02",
           "title": {
-            "fr-FR": "Livre II, chapitre II. C’est par la vole de C Amour parfait que Dieu purifie le cœur humain de tous les vices"
+            "fr-FR": "Livre II, chapitre II. C’est par la vole de C Amour parfait que Dieu purifie le cœur humain de tous les vices",
+            "pt-BR": "Livro II, capítulo II. É pela via do amor perfeito que Deus purifica o coração humano de todos os vícios"
           }
         },
         {
           "id": "l2-c03",
           "title": {
-            "fr-FR": "Livre II, chapitre III. // suit de là que le plus grand secret de la Fie spirituelle , est d’avoir de la force pour se mortifier"
+            "fr-FR": "Livre II, chapitre III. // suit de là que le plus grand secret de la Fie spirituelle , est d’avoir de la force pour se mortifier",
+            "pt-BR": "Livro II, capítulo III. Segue-se daí que o maior segredo da vida espiritual é ter força para se mortificar"
           }
         },
         {
           "id": "l2-c04",
           "title": {
-            "fr-FR": "Livre II, chapitre IV. Des choses qui donnent de la force pour se mortifier"
+            "fr-FR": "Livre II, chapitre IV. Des choses qui donnent de la force pour se mortifier",
+            "pt-BR": "Livro II, capítulo IV. Das coisas que dão força para se mortificar"
           }
         },
         {
           "id": "l2-c05",
           "title": {
-            "fr-FR": "Livre II, chapitre V. Des excellons fruits de la pratique de chercher Dieu en tout. Du premier fruit qui est un entier mépris de soi-même"
+            "fr-FR": "Livre II, chapitre V. Des excellons fruits de la pratique de chercher Dieu en tout. Du premier fruit qui est un entier mépris de soi-même",
+            "pt-BR": "Livro II, capítulo V. Dos excelentes frutos da prática de buscar a Deus em tudo. Do primeiro fruto, que é um inteiro desprezo de si mesmo"
           }
         },
         {
           "id": "l2-c06",
           "title": {
-            "fr-FR": "Livre II, chapitre VI. Du second fruit de l’Amour parfait, qui est d’être indifférent à tout"
+            "fr-FR": "Livre II, chapitre VI. Du second fruit de l’Amour parfait, qui est d’être indifférent à tout",
+            "pt-BR": "Livro II, capítulo VI. Do segundo fruto do amor perfeito, que é ser indiferente a tudo"
           }
         },
         {
           "id": "l2-c07",
           "title": {
-            "fr-FR": "Livre II, chapitre VII. Du troisième fruit de l’Amour divin , qui est Camour des mépris"
+            "fr-FR": "Livre II, chapitre VII. Du troisième fruit de l’Amour divin , qui est Camour des mépris",
+            "pt-BR": "Livro II, capítulo VII. Do terceiro fruto do amor divino, que é o amor dos desprezos"
           }
         },
         {
           "id": "l2-c08",
           "title": {
-            "fr-FR": "Livre II, chapitre VIII. Delà quatrième disposition que donne l’Amour parfait , qui est le total abandon , et la perte de soi-même , entre les mains de Dieu dans les événeniens les moins attendus , et les plus coûteux à la nature"
+            "fr-FR": "Livre II, chapitre VIII. Delà quatrième disposition que donne l’Amour parfait , qui est le total abandon , et la perte de soi-même , entre les mains de Dieu dans les événeniens les moins attendus , et les plus coûteux à la nature",
+            "pt-BR": "Livro II, capítulo VIII. Da quarta disposição que o amor perfeito dá, que é o total abandono e a perda de si mesmo nas mãos de Deus, nos acontecimentos menos esperados e mais custosos à natureza"
           }
         },
         {
           "id": "l2-c09",
           "title": {
-            "fr-FR": "Livre II, chapitre IX. Jusqu’à quel degré s’étend cette pratique de chercher Dieu en tout , et comment DteU la consomme en l’âme ?"
+            "fr-FR": "Livre II, chapitre IX. Jusqu’à quel degré s’étend cette pratique de chercher Dieu en tout , et comment DteU la consomme en l’âme ?",
+            "pt-BR": "Livro II, capítulo IX. Até que grau se estende esta prática de buscar a Deus em tudo, e como Deus a consuma na alma?"
           }
         },
         {
           "id": "l2-c10",
           "title": {
-            "fr-FR": "Livre II, chapitre X. De l’espèce d’Oraison que font ordinairement ceux qui sont fidèles à chercher Dieu en tout"
+            "fr-FR": "Livre II, chapitre X. De l’espèce d’Oraison que font ordinairement ceux qui sont fidèles à chercher Dieu en tout",
+            "pt-BR": "Livro II, capítulo X. Da espécie de oração que fazem ordinariamente os que são fiéis em buscar a Deus em tudo"
           }
         },
         {
           "id": "l2-c11",
           "title": {
-            "fr-FR": "Livre II, chapitre XI. Des richesses spirituelles que procure la pratique d’aimer Dieu purement , ne cherchant que lui en toutes choses"
+            "fr-FR": "Livre II, chapitre XI. Des richesses spirituelles que procure la pratique d’aimer Dieu purement , ne cherchant que lui en toutes choses",
+            "pt-BR": "Livro II, capítulo XI. Das riquezas espirituais que proporciona a prática de amar a Deus puramente, não buscando senão a ele em todas as coisas"
           }
         },
         {
           "id": "l2-c12",
           "title": {
-            "fr-FR": "Livre II, chapitre XII. De l’amour que Jésus nous témoigne dans l’Eucharistie , pour obtenir notre amour ; et de l’amour que nous devons lui témoigner"
+            "fr-FR": "Livre II, chapitre XII. De l’amour que Jésus nous témoigne dans l’Eucharistie , pour obtenir notre amour ; et de l’amour que nous devons lui témoigner",
+            "pt-BR": "Livro II, capítulo XII. Do amor que Jesus nos testemunha na Eucaristia para obter o nosso amor, e do amor que lhe devemos testemunhar"
           }
         },
         {
           "id": "l2-c13",
           "title": {
-            "fr-FR": "Livre II, chapitre XIII. De la promesse que ceux qui ne cherchent que Dieu lui font tous les jours , de lui do7iner tout sans se rien réserver"
+            "fr-FR": "Livre II, chapitre XIII. De la promesse que ceux qui ne cherchent que Dieu lui font tous les jours , de lui do7iner tout sans se rien réserver",
+            "pt-BR": "Livro II, capítulo XIII. Da promessa que os que só buscam a Deus lhe fazem todos os dias de lhe dar tudo sem nada reservar para si"
           }
         }
       ]
@@ -201,193 +233,225 @@
     {
       "id": "livre-3",
       "title": {
-        "fr-FR": "Livre III. Des différents degrés pour s’élever à un grand amour pour Dieu"
+        "fr-FR": "Livre III. Des différents degrés pour s’élever à un grand amour pour Dieu",
+        "pt-BR": "Livro III. Dos diferentes degraus para se elevar a um grande amor a Deus"
       },
       "children": [
         {
           "id": "l3-j01",
           "title": {
-            "fr-FR": "Livre III, 1er jour. Pour aimer Dieu, soyez fidèle à ces pratiques"
+            "fr-FR": "Livre III, 1er jour. Pour aimer Dieu, soyez fidèle à ces pratiques",
+            "pt-BR": "Livro III, 1º dia. Para amar a Deus, sê fiel a estas práticas"
           }
         },
         {
           "id": "l3-j02",
           "title": {
-            "fr-FR": "Livre III, 2e jour. Pour aimer Dieu , méprisez- vous vous-même»"
+            "fr-FR": "Livre III, 2e jour. Pour aimer Dieu , méprisez- vous vous-même»",
+            "pt-BR": "Livro III, 2º dia. Para amar a Deus, despreza-te a ti mesmo"
           }
         },
         {
           "id": "l3-j03",
           "title": {
-            "fr-FR": "Livre III, 3e jour. Pour aimer Dieu , quittez tout. -"
+            "fr-FR": "Livre III, 3e jour. Pour aimer Dieu , quittez tout. -",
+            "pt-BR": "Livro III, 3º dia. Para amar a Deus, deixa tudo"
           }
         },
         {
           "id": "l3-j04",
           "title": {
-            "fr-FR": "Livre III, 4e jour. Pour aimer Dieu, ne cherchez point à vous satisfaire : souniettez-vous à Dieu , et mortifiez-vous"
+            "fr-FR": "Livre III, 4e jour. Pour aimer Dieu, ne cherchez point à vous satisfaire : souniettez-vous à Dieu , et mortifiez-vous",
+            "pt-BR": "Livro III, 4º dia. Para amar a Deus, não procures satisfazer-te: submete-te a Deus e mortifica-te"
           }
         },
         {
           "id": "l3-j05",
           "title": {
-            "fr-FR": "Livre III, 5e jour. Pour aimer Dieu , ne cessez point de vous humilier à la vue de vos péchés"
+            "fr-FR": "Livre III, 5e jour. Pour aimer Dieu , ne cessez point de vous humilier à la vue de vos péchés",
+            "pt-BR": "Livro III, 5º dia. Para amar a Deus, não cesses de te humilhar à vista dos teus pecados"
           }
         },
         {
           "id": "l3-j06",
           "title": {
-            "fr-FR": "Livre III, 6e jour. Pour aimer Dieu , dévouez -vous à son service 3 et consentez d’être éprouvé"
+            "fr-FR": "Livre III, 6e jour. Pour aimer Dieu , dévouez -vous à son service 3 et consentez d’être éprouvé",
+            "pt-BR": "Livro III, 6º dia. Para amar a Deus, consagra-te ao seu serviço e consente em ser provado"
           }
         },
         {
           "id": "l3-j07",
           "title": {
-            "fr-FR": "Livre III, 7e jour. Pour aimer Dieu, conversez avec Jésus"
+            "fr-FR": "Livre III, 7e jour. Pour aimer Dieu, conversez avec Jésus",
+            "pt-BR": "Livro III, 7º dia. Para amar a Deus, conversa com Jesus"
           }
         },
         {
           "id": "l3-j08",
           "title": {
-            "fr-FR": "Livre III, 8e jour. Pour aimer Dieu, purifiez -vous , humlllezvous , et priez"
+            "fr-FR": "Livre III, 8e jour. Pour aimer Dieu, purifiez -vous , humlllezvous , et priez",
+            "pt-BR": "Livro III, 8º dia. Para amar a Deus, purifica-te, humilha-te e ora"
           }
         },
         {
           "id": "l3-j09",
           "title": {
-            "fr-FR": "Livre III, 9e jour. Pour aimer Dieu , travaillez à devenir intérieur"
+            "fr-FR": "Livre III, 9e jour. Pour aimer Dieu , travaillez à devenir intérieur",
+            "pt-BR": "Livro III, 9º dia. Para amar a Deus, trabalha para te tornares interior"
           }
         },
         {
           "id": "l3-j10",
           "title": {
-            "fr-FR": "Livre III, 10e jour. Pour aimer Dieu 3 efforcez -vous de vous vaincre"
+            "fr-FR": "Livre III, 10e jour. Pour aimer Dieu 3 efforcez -vous de vous vaincre",
+            "pt-BR": "Livro III, 10º dia. Para amar a Deus, esforça-te por te vencer"
           }
         },
         {
           "id": "l3-j11",
           "title": {
-            "fr-FR": "Livre III, 11e jour. Pour aimer Dieu , tnenez une vie mortifiée"
+            "fr-FR": "Livre III, 11e jour. Pour aimer Dieu , tnenez une vie mortifiée",
+            "pt-BR": "Livro III, 11º dia. Para amar a Deus, leva uma vida mortificada"
           }
         },
         {
           "id": "l3-j12",
           "title": {
-            "fr-FR": "Livre III, 12e jour. Pour aimer Dieu , soyez avides de souffrances"
+            "fr-FR": "Livre III, 12e jour. Pour aimer Dieu , soyez avides de souffrances",
+            "pt-BR": "Livro III, 12º dia. Para amar a Deus, sê ávido de sofrimentos"
           }
         },
         {
           "id": "l3-j13",
           "title": {
-            "fr-FR": "Livre III, 13e jour. Pour aimer Dieu , ne vous affectionnez à rien de créé"
+            "fr-FR": "Livre III, 13e jour. Pour aimer Dieu , ne vous affectionnez à rien de créé",
+            "pt-BR": "Livro III, 13º dia. Para amar a Deus, não te afeiçoes a nada criado"
           }
         },
         {
           "id": "l3-j14",
           "title": {
-            "fr-FR": "Livre III, 14e jour. Pour aimer Dieu , cherchez-le"
+            "fr-FR": "Livre III, 14e jour. Pour aimer Dieu , cherchez-le",
+            "pt-BR": "Livro III, 14º dia. Para amar a Deus, busca-o"
           }
         },
         {
           "id": "l3-j15",
           "title": {
-            "fr-FR": "Livre III, 15e jour. Pour aimer Dieu , formez continuellement de saints et ardens désirs"
+            "fr-FR": "Livre III, 15e jour. Pour aimer Dieu , formez continuellement de saints et ardens désirs",
+            "pt-BR": "Livro III, 15º dia. Para amar a Deus, forma continuamente santos e ardentes desejos"
           }
         },
         {
           "id": "l3-j16",
           "title": {
-            "fr-FR": "Livre III, 16e jour. Pour aimer Dieu , offrez-lui souvent un cœur qui soit tel qu’il le désire"
+            "fr-FR": "Livre III, 16e jour. Pour aimer Dieu , offrez-lui souvent un cœur qui soit tel qu’il le désire",
+            "pt-BR": "Livro III, 16º dia. Para amar a Deus, oferece-lhe muitas vezes um coração tal como ele o deseja"
           }
         },
         {
           "id": "l3-j17",
           "title": {
-            "fr-FR": "Livre III, 17e jour. Pour aimer Dieu , soyez assidu à l’Oraison"
+            "fr-FR": "Livre III, 17e jour. Pour aimer Dieu , soyez assidu à l’Oraison",
+            "pt-BR": "Livro III, 17º dia. Para amar a Deus, sê assíduo à oração"
           }
         },
         {
           "id": "l3-j18",
           "title": {
-            "fr-FR": "Livre III, 18e jour. Pour aimer Dieu, liez-vous étroitement à Jésus-Christ"
+            "fr-FR": "Livre III, 18e jour. Pour aimer Dieu, liez-vous étroitement à Jésus-Christ",
+            "pt-BR": "Livro III, 18º dia. Para amar a Deus, une-te estreitamente a Jesus Cristo"
           }
         },
         {
           "id": "l3-j19",
           "title": {
-            "fr-FR": "Livre III, 19e jour. Pour aimer Dieu , résistez à vos passions , et mortifiez - les"
+            "fr-FR": "Livre III, 19e jour. Pour aimer Dieu , résistez à vos passions , et mortifiez - les",
+            "pt-BR": "Livro III, 19º dia. Para amar a Deus, resiste às tuas paixões e mortifica-as"
           }
         },
         {
           "id": "l3-j20",
           "title": {
-            "fr-FR": "Livre III, 20e jour. Pour aimer Dieu , vivez de la Foi"
+            "fr-FR": "Livre III, 20e jour. Pour aimer Dieu , vivez de la Foi",
+            "pt-BR": "Livro III, 20º dia. Para amar a Deus, vive da fé"
           }
         },
         {
           "id": "l3-j21",
           "title": {
-            "fr-FR": "Livre III, 21e jour. Pour aimer Dieu , revâtez-vous de Jésus-Christ"
+            "fr-FR": "Livre III, 21e jour. Pour aimer Dieu , revâtez-vous de Jésus-Christ",
+            "pt-BR": "Livro III, 21º dia. Para amar a Deus, reveste-te de Jesus Cristo"
           }
         },
         {
           "id": "l3-j22",
           "title": {
-            "fr-FR": "Livre III, 22e jour. Pour aimer Dieu, laissez-vous guider par son amour"
+            "fr-FR": "Livre III, 22e jour. Pour aimer Dieu, laissez-vous guider par son amour",
+            "pt-BR": "Livro III, 22º dia. Para amar a Deus, deixa-te guiar pelo seu amor"
           }
         },
         {
           "id": "l3-j23",
           "title": {
-            "fr-FR": "Livre III, 23e jour. Pour aimer Dieu , abandonnez-vous à lui"
+            "fr-FR": "Livre III, 23e jour. Pour aimer Dieu , abandonnez-vous à lui",
+            "pt-BR": "Livro III, 23º dia. Para amar a Deus, abandona-te a ele"
           }
         },
         {
           "id": "l3-j24",
           "title": {
-            "fr-FR": "Livre III, 24e jour. Pour aimer Dieu, communiez avec ferveur"
+            "fr-FR": "Livre III, 24e jour. Pour aimer Dieu, communiez avec ferveur",
+            "pt-BR": "Livro III, 24º dia. Para amar a Deus, comunga com fervor"
           }
         },
         {
           "id": "l3-j25",
           "title": {
-            "fr-FR": "Livre III, 25e jour. Pour aimer DieUj faites régner Jésus- Christ"
+            "fr-FR": "Livre III, 25e jour. Pour aimer DieUj faites régner Jésus- Christ",
+            "pt-BR": "Livro III, 25º dia. Para amar a Deus, faze reinar Jesus Cristo"
           }
         },
         {
           "id": "l3-j26",
           "title": {
-            "fr-FR": "Livre III, 26e jour. Pour aimer Dieu , vojez-le continuellement en vous"
+            "fr-FR": "Livre III, 26e jour. Pour aimer Dieu , vojez-le continuellement en vous",
+            "pt-BR": "Livro III, 26º dia. Para amar a Deus, vê-o continuamente em ti"
           }
         },
         {
           "id": "l3-j27",
           "title": {
-            "fr-FR": "Livre III, 27e jour. Pour aimer Dieu, abandonnez ’ vous parfaitement à lui"
+            "fr-FR": "Livre III, 27e jour. Pour aimer Dieu, abandonnez ’ vous parfaitement à lui",
+            "pt-BR": "Livro III, 27º dia. Para amar a Deus, abandona-te perfeitamente a ele"
           }
         },
         {
           "id": "l3-j28",
           "title": {
-            "fr-FR": "Livre III, 28e jour. Pour aimer Dieu , faites tout pour sa gloire"
+            "fr-FR": "Livre III, 28e jour. Pour aimer Dieu , faites tout pour sa gloire",
+            "pt-BR": "Livro III, 28º dia. Para amar a Deus, faze tudo para a sua glória"
           }
         },
         {
           "id": "l3-j29",
           "title": {
-            "fr-FR": "Livre III, 29e jour. Pour aimer Dieu , tenez toujours voire cœur en paix"
+            "fr-FR": "Livre III, 29e jour. Pour aimer Dieu , tenez toujours voire cœur en paix",
+            "pt-BR": "Livro III, 29º dia. Para amar a Deus, conserva sempre o teu coração em paz"
           }
         },
         {
           "id": "l3-j30",
           "title": {
-            "fr-FR": "Livre III, 30e jour. Pour aimer Dieu, vivez de la vie de Jésus- Christ"
+            "fr-FR": "Livre III, 30e jour. Pour aimer Dieu, vivez de la vie de Jésus- Christ",
+            "pt-BR": "Livro III, 30º dia. Para amar a Deus, vive da vida de Jesus Cristo"
           }
         },
         {
           "id": "l3-j31",
           "title": {
-            "fr-FR": "Livre III, 31e jour. Pour aimer Dieu , appliquez-vous à vivre de sa vie divine"
+            "fr-FR": "Livre III, 31e jour. Pour aimer Dieu , appliquez-vous à vivre de sa vie divine",
+            "pt-BR": "Livro III, 31º dia. Para amar a Deus, aplica-te a viver da sua vida divina"
           }
         }
       ]
@@ -395,193 +459,225 @@
     {
       "id": "avis-salutaires",
       "title": {
-        "fr-FR": "Avis salutaires et sentiments affectueux"
+        "fr-FR": "Avis salutaires et sentiments affectueux",
+        "pt-BR": "Avisos salutares e sentimentos afetuosos"
       }
     },
     {
       "id": "chretien-en-oraison",
       "title": {
-        "fr-FR": "Le chrétien en oraison, s’entretenant avec Jésus-Christ"
+        "fr-FR": "Le chrétien en oraison, s’entretenant avec Jésus-Christ",
+        "pt-BR": "O cristão em oração, conversando com Jesus Cristo"
       },
       "children": [
         {
           "id": "entretien-01",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien I"
+            "fr-FR": "Le chrétien en oraison, entretien I",
+            "pt-BR": "O cristão em oração, colóquio I"
           }
         },
         {
           "id": "entretien-02",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien II"
+            "fr-FR": "Le chrétien en oraison, entretien II",
+            "pt-BR": "O cristão em oração, colóquio II"
           }
         },
         {
           "id": "entretien-03",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien III"
+            "fr-FR": "Le chrétien en oraison, entretien III",
+            "pt-BR": "O cristão em oração, colóquio III"
           }
         },
         {
           "id": "entretien-04",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien IV"
+            "fr-FR": "Le chrétien en oraison, entretien IV",
+            "pt-BR": "O cristão em oração, colóquio IV"
           }
         },
         {
           "id": "entretien-05",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien V"
+            "fr-FR": "Le chrétien en oraison, entretien V",
+            "pt-BR": "O cristão em oração, colóquio V"
           }
         },
         {
           "id": "entretien-06",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien VI"
+            "fr-FR": "Le chrétien en oraison, entretien VI",
+            "pt-BR": "O cristão em oração, colóquio VI"
           }
         },
         {
           "id": "entretien-07",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien VII"
+            "fr-FR": "Le chrétien en oraison, entretien VII",
+            "pt-BR": "O cristão em oração, colóquio VII"
           }
         },
         {
           "id": "entretien-08",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien VIII"
+            "fr-FR": "Le chrétien en oraison, entretien VIII",
+            "pt-BR": "O cristão em oração, colóquio VIII"
           }
         },
         {
           "id": "entretien-09",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien IX"
+            "fr-FR": "Le chrétien en oraison, entretien IX",
+            "pt-BR": "O cristão em oração, colóquio IX"
           }
         },
         {
           "id": "entretien-10",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien X"
+            "fr-FR": "Le chrétien en oraison, entretien X",
+            "pt-BR": "O cristão em oração, colóquio X"
           }
         },
         {
           "id": "entretien-11",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien XI"
+            "fr-FR": "Le chrétien en oraison, entretien XI",
+            "pt-BR": "O cristão em oração, colóquio XI"
           }
         },
         {
           "id": "entretien-12",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien XII"
+            "fr-FR": "Le chrétien en oraison, entretien XII",
+            "pt-BR": "O cristão em oração, colóquio XII"
           }
         },
         {
           "id": "entretien-13",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien XIII"
+            "fr-FR": "Le chrétien en oraison, entretien XIII",
+            "pt-BR": "O cristão em oração, colóquio XIII"
           }
         },
         {
           "id": "entretien-14",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien XIV"
+            "fr-FR": "Le chrétien en oraison, entretien XIV",
+            "pt-BR": "O cristão em oração, colóquio XIV"
           }
         },
         {
           "id": "entretien-15",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien XV"
+            "fr-FR": "Le chrétien en oraison, entretien XV",
+            "pt-BR": "O cristão em oração, colóquio XV"
           }
         },
         {
           "id": "entretien-16",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien XVI"
+            "fr-FR": "Le chrétien en oraison, entretien XVI",
+            "pt-BR": "O cristão em oração, colóquio XVI"
           }
         },
         {
           "id": "entretien-17",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien XVII"
+            "fr-FR": "Le chrétien en oraison, entretien XVII",
+            "pt-BR": "O cristão em oração, colóquio XVII"
           }
         },
         {
           "id": "entretien-18",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien XVIII"
+            "fr-FR": "Le chrétien en oraison, entretien XVIII",
+            "pt-BR": "O cristão em oração, colóquio XVIII"
           }
         },
         {
           "id": "entretien-19",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien XIX"
+            "fr-FR": "Le chrétien en oraison, entretien XIX",
+            "pt-BR": "O cristão em oração, colóquio XIX"
           }
         },
         {
           "id": "entretien-20",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien XX"
+            "fr-FR": "Le chrétien en oraison, entretien XX",
+            "pt-BR": "O cristão em oração, colóquio XX"
           }
         },
         {
           "id": "entretien-21",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien XXI"
+            "fr-FR": "Le chrétien en oraison, entretien XXI",
+            "pt-BR": "O cristão em oração, colóquio XXI"
           }
         },
         {
           "id": "entretien-22",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien XXII"
+            "fr-FR": "Le chrétien en oraison, entretien XXII",
+            "pt-BR": "O cristão em oração, colóquio XXII"
           }
         },
         {
           "id": "entretien-23",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien XXIII"
+            "fr-FR": "Le chrétien en oraison, entretien XXIII",
+            "pt-BR": "O cristão em oração, colóquio XXIII"
           }
         },
         {
           "id": "entretien-24",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien XXIV"
+            "fr-FR": "Le chrétien en oraison, entretien XXIV",
+            "pt-BR": "O cristão em oração, colóquio XXIV"
           }
         },
         {
           "id": "entretien-25",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien XXV"
+            "fr-FR": "Le chrétien en oraison, entretien XXV",
+            "pt-BR": "O cristão em oração, colóquio XXV"
           }
         },
         {
           "id": "entretien-26",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien XXVI"
+            "fr-FR": "Le chrétien en oraison, entretien XXVI",
+            "pt-BR": "O cristão em oração, colóquio XXVI"
           }
         },
         {
           "id": "entretien-27",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien XXVII"
+            "fr-FR": "Le chrétien en oraison, entretien XXVII",
+            "pt-BR": "O cristão em oração, colóquio XXVII"
           }
         },
         {
           "id": "entretien-28",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien XXVIII"
+            "fr-FR": "Le chrétien en oraison, entretien XXVIII",
+            "pt-BR": "O cristão em oração, colóquio XXVIII"
           }
         },
         {
           "id": "entretien-29",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien XXIX"
+            "fr-FR": "Le chrétien en oraison, entretien XXIX",
+            "pt-BR": "O cristão em oração, colóquio XXIX"
           }
         },
         {
           "id": "entretien-30",
           "title": {
-            "fr-FR": "Le chrétien en oraison, entretien XXX"
+            "fr-FR": "Le chrétien en oraison, entretien XXX",
+            "pt-BR": "O cristão em oração, colóquio XXX"
           }
         }
       ]
