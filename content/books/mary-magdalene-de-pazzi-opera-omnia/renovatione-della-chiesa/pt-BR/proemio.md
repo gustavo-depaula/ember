@@ -1,0 +1,91 @@
+# Renovação da Igreja: proêmio
+
+*YHS M.a*
+
+*Em Nome de Jesus Cr[is]to crucificado e de Maria Dulcíss[im]a*
+
+Neste livro contém-se uma inteligência que o Senhor comunicou à nossa dileta irmã, Irmã Maria Madalena de Pazzi, monja no nosso mosteiro de Santa Maria degli Angeli, em Borgo San Fr[id]iano, sobre a obra da renovação da Igreja, mostrando-lhe como a tinha escolhido para manifestar e ajudar tal obra; por isso ela escreveu algumas cartas em abstração de mente ao Sumo Pontífice e a outros Prelados e Servos de Deus a respeito de tal renovação, como se verá.
+
+Esteve em arrebatamento sobre tal inteligência 4 dias e 4 noites contínuos, começando no dia 11 de agosto de 1586 e durando até o dia 15 do mesmo mês; nesse tempo não esteve fora do arrebatamento senão quando dizia o Ofício, comia um pouco de pão, bebia um pouco de água e dormia uma hora entre o dia e a noite. No dito arrebatamento falou, como de costume, de muitas outras coisas (embora estivesse também muitas horas sem falar); mas escrevemos só um pouco da substância, tanto pela veemência do seu falar, pois às vezes não podíamos apanhar as próprias palavras, como também porque dizia muitas coisas que não se entendiam; por isso, para não dizer uma coisa por outra, preferimos deixá-las.
+
+Este arrebatamento não foi para ela de gosto e contentamento, mas antes de aflição, porque não quereria que o Senhor a manifestasse às criaturas, mas deseja ficar escondida e retirada. E, embora tenha um ardentíssimo desejo da salvação das almas, aspira contudo a ajudá-las escondidamente, e não destes modos aparentes; e de muito melhor vontade daria a vida mil vezes por dia, se fosse possível (como muitas vezes dizia no dito arrebatamento), em auxílio delas, do que ter estas inteligências e fazer a mínima coisa aparente às criaturas.
+
+No sobredito dia 11, que era domingo, foi pois arrebatada em espírito e, depois de ter estado algumas horas sem falar, disse as seguintes palavras, queixando-se ao Senhor: -----
+
+“Ah, amoroso Verbo, ah, dizei-me: comunicastes-me tantas coisas entre vós e mim, e agora por que quereis o contrário?” -----
+
+Queixava-se ao Senhor de que a fizesse falar em arrebatamento e perguntava-lhe a causa; por isso, entendendo-a, dizia:
+
+“Ah, é que o fazeis porque bem vedes quão a custo eu me resolveria a manifestar tais coisas, e porque conheceis a minha débil feitura. ----- E também porque mais facilmente creem em vós quando falais em mim. ----- E também para lhes manifestar o bem deles. Poderíeis fazê-lo por outra via, mas vos comprazeis nesta. ----- Ó Deus, tão grande que não podeis ser compreendido, e vos fazeis sujeito a uma mínima criatura, Deus meu! ----- *Quem quaeritis* (cf. João 18:4.7) *filii hominum*? Ó quão várias, Deus meu, são as pessoas que vos buscam; quão várias poderiam ser as respostas que vos serão dadas. A quem buscais? Quisera poder responder por todos: a verdade; ah, não posso dizer de mim que busco a verdade, pois outras seriam as minhas obras. ----- Ó de quantos se poderia mudar o nome e não dizer ‘verdade’, mas ‘vaidade’! Ó sim, sim. --- Ó verdade infalível, não podeis faltar a vós mesma; e, assim como não podeis faltar a vós mesma, não podeis faltar também àquela alma que aspira à verdade.
+
+“*Quemadmodum desiderat cervus ad fontes aquarum* (Salmos 41:2). ----- Vós, Verbo feito homem, sois como cervo sedento; e tal é a vossa criatura que entende a vossa vontade. ----- Ó Deus, quem não o experimenta não o pode entender; mas quem se acha sedenta volta sempre à fonte; e quem não tem sede admira-se de que se volte sempre aqui, porque não a tem. Mas como pode a alma deixar de buscar outras almas, que, por assim dizer, ama mais do que a si mesma? Quem penetrasse de quanta importância é uma alma não se admiraria de que ela voltasse sempre a entender a vossa vontade e a vossa obra. ----- Tal ansiosa sede teve o Verbo feito homem de buscar a sua criatura, olhando sempre para aquilo que o moveu a vir buscar essa criatura, que não foi outra coisa senão amor; e nunca passou o mínimo espaço de tempo, enquanto viveu conosco na terra, em que noite e dia não se afadigasse por reconduzir a criatura a si e acabar a sua obra. -----
+
+“Aspice, olhai para vós mesmo, e *Respice in faciem Christi tui* (Salmos 83:10). Haveis de contemplar os vossos ministros, que são a face do vosso Cristo. Haveis de contemplar, e não olhar, porque uma coisa é contemplar e outra é olhar.[^1] Muitas coisas se olham, e poucas se contemplam. Quando se contempla uma coisa, é sinal de que se ama, ou, se não se ama, de que se quer fazer juízo dela. -----
+
+[^1]: *Nota do tradutor:* A autora distingue *risguardare* (olhar de novo, com atenção e afeto, como o latim *respice*) de *guardare* (simplesmente olhar, como *aspice*). Traduz-se o primeiro por “contemplar” e o segundo por “olhar”.
+
+“Esta vossa contemplação faz como o sol, que aquece e faz frutificar. Assim, na alma que contemplais, fazeis frutificar no seu coração a vossa vontade; e não há coração tão gelado que, sendo contemplado por vós, não seja aquecido pela vossa íntima caridade. ---- Grata e grande, grande e grata é a vossa obra. ---- Grandes e inumeráveis são as obras que se contêm na vossa obra, Deus meu. ----- Aproveitem as palavras e penetre o vosso Sangue, Jesus meu! ---
+
+“Deus de suma bondade, de potência incrível, de sabedoria inefável; Deus eterno, perscrutador dos nossos corações, substância do vosso ser, tranquila unidade e unida tranquilidade, ah, dizei-me quanto amastes a vossa criatura, tirada de vós, quanto a amais e quanto a amareis. ---- Tanto a amastes que lhe destes o ser, criada e recriada. -----
+
+“Não conhece ser amado por Deus aquele que ama a si mesmo; não se torna apto a ser amado aquele que não anda com toda sinceridade, sem simulação alguma, com Deus e com as criaturas. Não se torna apto a ser reamado e glorificado por Deus aquele que não se aquieta em todas as coisas; não digo só nas feitas por Deus, mas também nas feitas pelas criaturas. Ainda que tivesse a confusão que há no inferno, é preciso aquietar-se em todas as coisas, e assim se torna apto a ser amado e glorificado por Deus. ---
+
+“Ó bone Jesu, cegos estão os nossos olhos, e ofuscados, e não vemos luz. E quem poderá escapar a tantos laços? Será bem preciso ter o olho puro para não ser apanhado, e ser forte para não ser vencido; por isso, dai luz, Deus meu. --- A nossa cegueira nasce de um humor que cai sobre a pupila do nosso olho; por isso é preciso ter uma contínua lima de uma luz e graça particular. ----- Esta superfluidade de humor nasce de um íntimo amor das coisas terrenas; mas não o quero chamar amor, antes ódio, porque nos priva do verdadeiro amor; e tal superfluidade vem ou da natureza, ou da graça, ou da sabedoria e ciência adquiridas. ----- A superfluidade da natureza não é outra coisa senão um apetite e desejo da própria comodidade. ----- A superfluidade da graça é um encobrimento que se faz com o desejo da união e dos gostos das coisas divinas, e quem tem tal desejo não é perfeito, porque se detém nos dons e não no doador. ----- A superfluidade da sabedoria e ciência e de outros dons adquiridos é a maldita vanglória; e todos esses três humores são como um pano grosso que se põe sobre a pupila do olho do nosso intelecto, o qual faz que não conheçamos a Deus, ---- de tal modo que, se pela virtude daquele ardente fogo que arde no peito divino não se faz destilar aquele Sangue por meio da humanidade, nunca se tirará tal cegueira dos nossos corações, que, aliás, há em todas as criaturas. E para isto não há remédio senão a vossa caridade, Deus meu, e o vosso Sangue. ----- Grande é a vossa obra”. -----
+
+Na seguinte inteligência é-lhe mostrado como a esposa Igreja renovada fará espiritualmente, por semelhança, a obra que fez o Verbo feito homem desde que se encarnou até que subiu glorioso ao céu.
+
+“Nesta renovação hão de concorrer todas aquelas pessoas que concorreram para a encarnação do Verbo. ----- --- Os nove coros dos Anjos há de atravessar este Verbo que há de fazer tal renovação. ---- A autoridade que tem o Vigário de Cristo é o Verbo, porque ela há de fazer tal renovação, sim, quanto à virtude, mas não quanto à presença. E o próprio Vigário é Maria, que há de dar o consentimento, porque, se Maria não consente, não se pode fazer a redenção, e por consequência a renovação. Mas bem é preciso que lho faça saber a fortaleza de Deus, sim.[^2] -----
+
+[^2]: *Nota do tradutor:* “Fortaleza de Deus” é o sentido tradicional do nome do arcanjo Gabriel, que anunciou a Maria a encarnação (Lucas 1:26-38).
+
+“Cinco palavras hão de dar e atrair aquele que há de fazer tal renovação, e, se não as houver, não poderá haver nem poder, nem saber, nem querer. ----- Cinco vozes hão de clamar na santa Igreja, que serão 5 graus de pessoas que há nela. ----- O primeiro há de ser o Vigário de Cristo. O 2º, todos os outros religiosos. O 3º, as religiosas. O 4º, os seculares, mas só os que têm luz. O 5º, o estado dos casados e continentes. -----
+
+A primeira voz há de clamar pobreza; a 2ª, caridade; a 3ª, pureza; a 4ª, paciência; a 5ª, perseverança. Com estas 5 virtudes há de renovar-se toda a santa Igreja. ---
+
+“Ó Espírito de bondade, ---- é mais digno o embaixador da renovação que o da redenção, porque o Espírito Santo é quem a dá a conhecer às suas criaturas, e a diferença é tanta quanta a do servo para o Senhor. ----- O Sangue do Cordeiro sangrado é o que há de obumbrar, o que há de conceber o Verbo e fazê-lo realizar todas as suas obras. -----
+
+“Os nove coros dos Anjos são nove graus, ou nove privilégios, que ele deve deixar e, como Vigário de Cristo, manter, porque é preciso fazer-se enfermo com os enfermos (cf. 1 Coríntios 9:22). ---- O primeiro, a honra das criaturas. O 2º, o rigor da justiça. 3º, parte das suas riquezas. 4º, não ter compaixão dos seus parentes, pois, como Pontífice, isso seria notado, sim, sim. 5º, o seu próprio conselho, porque, com São Jerônimo, é preciso que esteja preparado para a repreensão de um menino de um ano; pois quem é aquele que por si mesmo possa bastar para a sua própria salvação? 6º, o respeito pela sua própria religião. 7º, não como sumo Pontífice, ser humilde com todos e proceder e responder com benignidade. 8º, excluir todo interesse próprio. 9º, estar pronto a dar a vida. Coisas estas que, por ser ele sumo Pontífice, não pareceria que lhe conviessem; mas, se quer alcançar tal renovação, é preciso que deixe todos os sobreditos respeitos, ou graus, como lhes queiram chamar. -----
+
+“Ó Jesus meu, ah, fazei que ele concorra para aquilo que vejo ser a vossa vontade! ----- Jesus meu, contanto que se faça a vossa vontade. *Omnia possum in eo qui me confortat* (Filipenses 4:13). ---- Providência do eterno Verbo. --- Todas as coisas fazeis com infinita sabedoria; e quanto mais difíceis parecem aos nossos olhos, tanto mais fazeis que se dobrem à vossa vontade. ---- Deus meu, se ele tivesse consentido ao vosso primeiro impulso, teria sido tão conhecida a vossa obra? Certamente não. ----- E sob esta demora do vosso ministro há tanta providência vossa que criatura nenhuma jamais a poderia imaginar. ----- *Omnia in sapientia tu fecisti*” (Salmos 103:24). -----
+
+Queria falar do il.mo e r.mo Cardeal e Arcebispo nosso de Florença, que havia de vir aqui ao nosso mosteiro, a quem ela entendia ter de dar a conhecer tal obra, como depois fez quando ele veio, a 29 de setembro seguinte. ----
+
+“Vem depois esta Esposa, toda confiante e adornada, diante de vós, trazendo consigo uma fonte de leite para poder purificar as manchas que depois se farão, pois sempre haverá mais que purificar; e para dar também alimento aos pequeninos, que sempre surgem de novo e não têm dentes para mastigar o pão. ----
+
+Ela irá coroando-se de flores já pisadas e de folhas perdidas. ---- Mas é bem necessário acender a lâmpada para reencontrar esta dracma e convidar os vizinhos e os da vizinhança (cf. Lucas 15:8ss) e aqueles que já me mostrastes, e ir-se-á reencontrando o anel já perdido. ----- Mas, assim como ao acender a lâmpada se suporta fadiga, assim, para reencontrar as almas perdidas, será preciso suportar fadiga. -----
+
+“Para procurar a dracma, todo o corpo se afadiga e se abaixa; assim os verdadeiros servos de Deus, para reunir aqueles já consagrados a vós, Deus meu, hão de abaixar-se, hão de fatigar o olho do intelecto procurando entender qual é a vossa vontade e o que é necessário à vossa obra, hão de aplicar as mãos em contínuas e santas obras, hão de mover os pés com afetos inflamados. ----- E será necessário que haja nutrizes de tal força que possam tomar os fracos e enfermos sobre os próprios ombros. ----- Mas, Deus meu, se o princípio vem depois da fadiga, não duvido do perfeito e desejado fim ----
+
+“No lugar onde cantaram *Gloria in excelsis*, cantarão os anjos terrestres, não pelo nascimento do Verbo, mas por ter a esposa desse Verbo recuperado a beleza e o decoro. ---- Os pastores adoraram o Verbo feito homem. ----- Os pastores inclinar-se-ão diante do Vigário desse Verbo; e, assim como a eles foi anunciado pelo Anjo o nascimento do Verbo, será anunciada de cidade em cidade, de lugar em lugar, pelos sacerdotes a todos os outros, a renovação dessa esposa Igreja. ----
+
+“Foi adorado depois pelos Magos; e esta nova Esposa, não nova, mas recuperada a sua beleza, será adorada e reverenciada por três reis, porque todos os prelados que têm dignidade eclesiástica serão forçados, depois de a conhecerem, a inclinar-se também eles diante do Vigário de Cristo na terra, e oferecerão três dons: o ouro das riquezas, se não todas, em parte; o incenso da oração; e a mirra do viver continente e castamente. ----
+
+“Maria oferece o pequeno e grande Verbo encarnado, cuja grandeza enche a terra e que o céu não pode conter. A santa mãe Igreja oferecerá o pequeno, grande e maravilhoso fruto; de quem? De tantos cristos já perdidos e agora reencontrados, com as pombas e rolas das virgenzinhas consagradas a Deus. ---
+
+“Maria perde o seu amável filhinho e reencontra-o entre os doutores; a Igreja, depois de renovada, perderá o seu filhinho, que é aquele puro e simples viver que haverá em alguns no princípio dessa renovação, mas reencontrá-lo-á entre os doutores, na sabedoria e ciência adquiridas, contudo, em Cristo crucificado ----
+
+“É batizado depois o nosso Cristo; e de que modo será batizada a esposa Igreja, senão que aquelas almas que uma vez foram lavadas na água e no Sangue, mediante o santo batismo, se lavarão de novo no Sangue para recuperar a veste da inocência já perdida? -----
+
+“Foi-se ao deserto o amoroso Verbo feito homem. Ir-se-á a amorosa e renovada Igreja, isto é, os seus habitantes irão para o deserto do amoroso lado, habitado por tão poucos, e em parte para o deserto da pátria celeste; ali, aqueles que estiverem no lado padecerão e sentirão a mesma tentação do Verbo, pois lhes virá fome da união com Deus, e será preciso que respondam o que respondeu o Verbo: que ele não se honra só com a sua união, mas com a conformidade da vontade, como não só de pão vive o homem (cf. Lucas 4:4). ----
+
+“O nosso Cristo fez muitos e vários milagres, curando enfermos, ressuscitando mortos, iluminando cegos. Assim a virtude do Sangue do Esposo dessa Igreja fará muitos milagres, curando das enfermidades dos pecados, ressuscitando da eterna perdição, iluminando com a luz que dará, para que possam ver e gozar a visão de Deus. ----- Pregará com o exemplo e também com o Verbo, porque não faltará entre os habitantes dessa Igreja quem tenha sabedoria e ciência. -----
+
+“O Verbo de entranhado amor deixa a si mesmo pelo amor que tem encerrado em si; assim a amorosa Igreja deixará a si mesma pelo amor que terá em si, porque os seus habitantes, mediante a caridade, estarão ansiosos por dar a vida por Cristo. -----
+
+“Foi o nosso Cristo à paixão, onde tanto padeceu que foi pregado na cruz. Irá à paixão a esposa Igreja quando vier o anticristo: será açoitada pelos falsos profetas, será coroada de espinhos pelos amantes da iniquidade, será também ela pregada na cruz por aqueles que não quiserem crer no amoroso Crucificado. Será sepultada quando tantos dos seus filhos se afastarem dela, deixando a fé, e forem ao anticristo. Ressuscitará gloriosa quando Deus, com a sua potência, matar esse anticristo. -----
+
+“Ó bom Deus, grande é a vossa obra! ----- Ó amoroso Verbo, grande virtude conviria ter a quem há de tratar a vossa obra! ---- Ó bondade doce e infinita, é preciso que concorrais vós, ou antes, que vós mesmo sejais o operador nas vossas criaturas. ----- E, se a vossa obra não se seguir, não será porque não seja vossa vontade, mas por falta de disposição nas vossas criaturas. ----
+
+Grande é o nosso Deus e insondáveis os seus caminhos, mas amorosas as suas obras, e também escondidas. ----- Opera Dei abissus multa”. ----
+
+E assim terminaram os arrebatamentos dos sobreditos quatro dias sobre a inteligência da obra da renovação da Igreja.
+
+E, temendo esta bendita Alma que tal inteligência fosse engano, por não ver princípio algum do seu cumprimento (ainda que tivesse entendido que, se isso não se seguia de presente, seria por falta de disposição nas criaturas), comunicou-a ao nosso r.do Padre governador e confessor, Messer Francesco Benvenuti, cônego e penitencieiro da catedral, e ao r.do Padre frei Angelo *[Pientini: cf. infra pp. 55-61]*, da ordem dos Pregadores, juntamente com o r.do Padre Niccolò Fabbrini, florentino, reitor do colégio de São João Evangelista da Companhia de Jesus de Florença *[depois de 27 de fevereiro de 1594: cf. VI 223ss]*. E todos lhe responderam unanimemente que não temesse engano, porque aquilo era vontade de Deus, visto que no livro do Apocalipse de São João Evangelista se diz: *Tempus enim prope est* (Apocalipse 1:3), e *que oportet fieri cito* (Apocalipse 1:1), de algumas coisas que ainda hão de ser e não se veem cumpridas. E disseram-lhe também que já nestes tempos se veem alguns princípios da renovação da Igreja.
+
+*De tudo seja glória ao seu Esposo, qui est per omnia benedictus.*
+
+Seguem-se agora as cartas que ela escreveu em abstração de mente ao sumo Pontífice e a outros prelados e servos de Deus a respeito de tal renovação. -----
+
+*[CARTAS DITADAS EM ÊXTASE]*
+
+*[25 de julho – 4 de setembro de 1586]*

@@ -13,17 +13,23 @@
   "description": {
     "it": "Il settimo volume di Tutte le opere (Firenze: CIL, 1966): la «Renovatione della Chiesa», dodici lettere dettate in estasi (25 luglio-4 settembre 1586) al papa Sisto V, ai cardinali, al card. Alessandro de' Medici, a Caterina de' Ricci e ad altri; le ventisette lettere personali (1588-1606); i quaranta Ammaestramenti, gli Avvisi e i Ricordi lasciati alle novizie; le Dodici meditazioni, i Ricordi, detti e azioni, i Ratti e intelligenze e le Ultime estasi. Edizione critica di Fausto Vallainc e Claudio M. Catena, O.Carm. Un capitolo per lettera e per ammaestramento.",
     "en-US": "Volume VII of Tutte le opere (Florence: CIL, 1966): the \"Renewal of the Church\", twelve letters dictated in ecstasy (25 July - 4 September 1586) to Pope Sixtus V, the cardinals, Cardinal Alessandro de' Medici, Catherine de' Ricci and others; the twenty-seven personal letters (1588-1606); the forty Teachings, the Counsels and Remembrances left to the novices; the Twelve Meditations, Remembrances, Sayings and Actions, Ecstasies and Understandings, and the Last Ecstasies. Critical edition by Fausto Vallainc and Claudio M. Catena, O.Carm. One chapter per letter and per teaching.",
-    "pt-BR": "O sétimo volume de Tutte le opere (Florença: CIL, 1966): a «Renovatione della Chiesa», doze cartas ditadas em êxtase (25 de julho a 4 de setembro de 1586) ao papa Sisto V, aos cardeais, a Catarina de' Ricci e outros; as cartas pessoais (1588-1606); os quarenta Ensinamentos, Avisos e Lembranças deixados às noviças; as Doze meditações, os Êxtases e inteligências e os Últimos êxtases."
+    "pt-BR": "O sétimo volume de Tutte le opere (Florença: CIL, 1966): a «Renovatione della Chiesa», doze cartas ditadas em êxtase (25 de julho a 4 de setembro de 1586) ao papa Sisto V, aos cardeais, ao card. Alessandro de' Medici, a Catarina de' Ricci e a outros; as vinte e sete cartas pessoais (1588-1606); os quarenta Ensinamentos, os Avisos e as Lembranças deixados às noviças; as Doze meditações, as Lembranças, ditos e ações, os Arrebatamentos e inteligências e os Últimos êxtases. Edição crítica de Fausto Vallainc e Claudio M. Catena, O.Carm. Um capítulo por carta e por ensinamento."
   },
   "composed": "1586-1607",
   "languages": [
-    "it"
+    "it",
+    "pt-BR"
   ],
   "work": "mary-magdalene-de-pazzi/renovatione-della-chiesa",
   "editions": {
     "it": {
       "editor": "Fausto Vallainc and Claudio Maria Catena, O.Carm.",
       "year": 1966
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "it",
+      "year": 2026
     }
   },
   "sources": [
@@ -40,85 +46,99 @@
     {
       "id": "proemio",
       "title": {
-        "it": "Renovatione della Chiesa: proemio"
+        "it": "Renovatione della Chiesa: proemio",
+        "pt-BR": "Renovação da Igreja: proêmio"
       }
     },
     {
       "id": "lettere-estasi",
       "title": {
-        "it": "Lettere dettate in estasi (25 luglio - 4 settembre 1586)"
+        "it": "Lettere dettate in estasi (25 luglio - 4 settembre 1586)",
+        "pt-BR": "Cartas ditadas em êxtase (25 de julho - 4 de setembro de 1586)"
       },
       "children": [
         {
           "id": "estasi-01",
           "title": {
-            "it": "Lettera 1 dettata in estasi"
+            "it": "Lettera 1 dettata in estasi",
+            "pt-BR": "Carta 1 ditada em êxtase"
           }
         },
         {
           "id": "estasi-02",
           "title": {
-            "it": "Lettera 2 dettata in estasi: Al' Sommo Pontefice Et Vicario Di Christo In Terra Papa Sisto"
+            "it": "Lettera 2 dettata in estasi: Al' Sommo Pontefice Et Vicario Di Christo In Terra Papa Sisto",
+            "pt-BR": "Carta 2 ditada em êxtase: Ao Sumo Pontífice e Vigário de Cristo na terra, o papa Sisto"
           }
         },
         {
           "id": "estasi-03",
           "title": {
-            "it": "Lettera 3 dettata in estasi: Al' R.Mo Padre  E Rettore Della Compagnia Del Dolce Nome Di Jesu Com Tutti I Padri, E Frat"
+            "it": "Lettera 3 dettata in estasi: Al' R.Mo Padre  E Rettore Della Compagnia Del Dolce Nome Di Jesu Com Tutti I Padri, E Frat",
+            "pt-BR": "Carta 3 ditada em êxtase: Ao R.mo Padre e Reitor da Companhia do Doce Nome de Jesus, com todos os Padres e Irmãos"
           }
         },
         {
           "id": "estasi-04",
           "title": {
-            "it": "Lettera 4 dettata in estasi"
+            "it": "Lettera 4 dettata in estasi",
+            "pt-BR": "Carta 4 ditada em êxtase"
           }
         },
         {
           "id": "estasi-05",
           "title": {
-            "it": "Lettera 5 dettata in estasi: Al' R.Mo Padre Cardinale Et Arcivescovo Nostro"
+            "it": "Lettera 5 dettata in estasi: Al' R.Mo Padre Cardinale Et Arcivescovo Nostro",
+            "pt-BR": "Carta 5 ditada em êxtase: Ao R.mo Padre Cardeal e nosso Arcebispo"
           }
         },
         {
           "id": "estasi-06",
           "title": {
-            "it": "Lettera 6 dettata in estasi: Al R.Do P. Pietro  Della Compagnia Del Suave Nome Di Jesu"
+            "it": "Lettera 6 dettata in estasi: Al R.Do P. Pietro  Della Compagnia Del Suave Nome Di Jesu",
+            "pt-BR": "Carta 6 ditada em êxtase: Ao R.do P. Pietro, da Companhia do Suave Nome de Jesus"
           }
         },
         {
           "id": "estasi-07",
           "title": {
-            "it": "Lettera 7 dettata in estasi: All Ill.Mi Cardinali Che Si Truovon Presenti Alla Sede Apostolica"
+            "it": "Lettera 7 dettata in estasi: All Ill.Mi Cardinali Che Si Truovon Presenti Alla Sede Apostolica",
+            "pt-BR": "Carta 7 ditada em êxtase: Aos Il.mos Cardeais que se encontram presentes junto à Sé Apostólica"
           }
         },
         {
           "id": "estasi-08",
           "title": {
-            "it": "Lettera 8 dettata in estasi: Alla R.Da M.Re S.Or Veronica"
+            "it": "Lettera 8 dettata in estasi: Alla R.Da M.Re S.Or Veronica",
+            "pt-BR": "Carta 8 ditada em êxtase: À R.da M.e Ir. Verônica"
           }
         },
         {
           "id": "estasi-09",
           "title": {
-            "it": "Lettera 9 dettata in estasi: A Prato"
+            "it": "Lettera 9 dettata in estasi: A Prato",
+            "pt-BR": "Carta 9 ditada em êxtase: A Prato"
           }
         },
         {
           "id": "estasi-10",
           "title": {
-            "it": "Lettera 10 dettata in estasi: Alla R.Da M.Re S.Or Catherina De' Ricci"
+            "it": "Lettera 10 dettata in estasi: Alla R.Da M.Re S.Or Catherina De' Ricci",
+            "pt-BR": "Carta 10 ditada em êxtase: À R.da M.e Ir. Catarina de' Ricci"
           }
         },
         {
           "id": "estasi-11",
           "title": {
-            "it": "Lettera 11 dettata in estasi"
+            "it": "Lettera 11 dettata in estasi",
+            "pt-BR": "Carta 11 ditada em êxtase"
           }
         },
         {
           "id": "estasi-12",
           "title": {
-            "it": "Lettera 12 dettata in estasi: Al Sopradetto Ill.Mo Cardinale Padre Suo R.Mo"
+            "it": "Lettera 12 dettata in estasi: Al Sopradetto Ill.Mo Cardinale Padre Suo R.Mo",
+            "pt-BR": "Carta 12 ditada em êxtase: Ao sobredito Il.mo Cardeal, seu R.mo Padre"
           }
         }
       ]
@@ -126,175 +146,204 @@
     {
       "id": "lettere-personali",
       "title": {
-        "it": "Lettere personali (1588-1606)"
+        "it": "Lettere personali (1588-1606)",
+        "pt-BR": "Cartas pessoais (1588-1606)"
       },
       "children": [
         {
           "id": "lettera-01",
           "title": {
-            "it": "Lettera 1: A Suor Carità Rucellai"
+            "it": "Lettera 1: A Suor Carità Rucellai",
+            "pt-BR": "Carta 1: À Irmã Caridade Rucellai"
           }
         },
         {
           "id": "lettera-02",
           "title": {
-            "it": "Lettera 2: Alla Molto Reverenda In Cristo Jesu Dilettissima Suor Diamante Di"
+            "it": "Lettera 2: Alla Molto Reverenda In Cristo Jesu Dilettissima Suor Diamante Di",
+            "pt-BR": "Carta 2: À muito Reverenda em Cristo Jesus, diletíssima Irmã Diamante di"
           }
         },
         {
           "id": "lettera-03",
           "title": {
-            "it": "Lettera 3: Alle Molto Reverende In Christo Jesu Sorelle Suor Diamante E Suor Maria Fedele"
+            "it": "Lettera 3: Alle Molto Reverende In Christo Jesu Sorelle Suor Diamante E Suor Maria Fedele",
+            "pt-BR": "Carta 3: Às muito Reverendas Irmãs em Cristo Jesus, Irmã Diamante e Irmã Maria Fiel"
           }
         },
         {
           "id": "lettera-04",
           "title": {
-            "it": "Lettera 4: A Suor Carità Rucellai"
+            "it": "Lettera 4: A Suor Carità Rucellai",
+            "pt-BR": "Carta 4: À Irmã Caridade Rucellai"
           }
         },
         {
           "id": "lettera-05",
           "title": {
-            "it": "Lettera 5: A Suor Carità Rucellai"
+            "it": "Lettera 5: A Suor Carità Rucellai",
+            "pt-BR": "Carta 5: À Irmã Caridade Rucellai"
           }
         },
         {
           "id": "lettera-06",
           "title": {
-            "it": "Lettera 6: Al Molto Honorando Et Charissimo Padre Ms. Camillo De' Pazzi"
+            "it": "Lettera 6: Al Molto Honorando Et Charissimo Padre Ms. Camillo De' Pazzi",
+            "pt-BR": "Carta 6: Ao muito honrado e caríssimo pai Ms. Camillo de' Pazzi"
           }
         },
         {
           "id": "lettera-07",
           "title": {
-            "it": "Lettera 7: A Una Monaca"
+            "it": "Lettera 7: A Una Monaca",
+            "pt-BR": "Carta 7: A uma monja"
           }
         },
         {
           "id": "lettera-08",
           "title": {
-            "it": "Lettera 8: Al P. Vergilio Cepari Della Compagnia Di Gesù"
+            "it": "Lettera 8: Al P. Vergilio Cepari Della Compagnia Di Gesù",
+            "pt-BR": "Carta 8: Ao P. Vergilio Cepari, da Companhia de Jesus"
           }
         },
         {
           "id": "lettera-09",
           "title": {
-            "it": "Lettera 9: Alla Molto Reverenda In Christo Jesu Suor Carità Rucellai"
+            "it": "Lettera 9: Alla Molto Reverenda In Christo Jesu Suor Carità Rucellai",
+            "pt-BR": "Carta 9: À muito Reverenda em Cristo Jesus Irmã Caridade Rucellai"
           }
         },
         {
           "id": "lettera-10",
           "title": {
-            "it": "Lettera 10: Alla Sua Diletta E Charissima Nipote, La Maria De' Pazzi"
+            "it": "Lettera 10: Alla Sua Diletta E Charissima Nipote, La Maria De' Pazzi",
+            "pt-BR": "Carta 10: À sua dileta e caríssima sobrinha, Maria de' Pazzi"
           }
         },
         {
           "id": "lettera-11",
           "title": {
-            "it": "Lettera 11: Alla Molto Reverenda In Christo Sorella, Suor Maria Angela Guidi"
+            "it": "Lettera 11: Alla Molto Reverenda In Christo Sorella, Suor Maria Angela Guidi",
+            "pt-BR": "Carta 11: À muito Reverenda Irmã em Cristo, Irmã Maria Ângela Guidi"
           }
         },
         {
           "id": "lettera-12",
           "title": {
-            "it": "Lettera 12: Alla Reverenda E Carissima In Christo, La Madre Suor Carità Rucellai"
+            "it": "Lettera 12: Alla Reverenda E Carissima In Christo, La Madre Suor Carità Rucellai",
+            "pt-BR": "Carta 12: À Reverenda e caríssima em Cristo, Madre Irmã Caridade Rucellai"
           }
         },
         {
           "id": "lettera-13",
           "title": {
-            "it": "Lettera 13: Alla Christianissima Regina Di Francia , Signora Et Padrona Mia Colendissima"
+            "it": "Lettera 13: Alla Christianissima Regina Di Francia , Signora Et Padrona Mia Colendissima",
+            "pt-BR": "Carta 13: À Cristianíssima Rainha da França, minha Senhora e Patroa colendíssima"
           }
         },
         {
           "id": "lettera-14",
           "title": {
-            "it": "Lettera 14: Alla Signora Verginia Ridolfi Del Rinuccini"
+            "it": "Lettera 14: Alla Signora Verginia Ridolfi Del Rinuccini",
+            "pt-BR": "Carta 14: À Senhora Verginia Ridolfi del Rinuccini"
           }
         },
         {
           "id": "lettera-15",
           "title": {
-            "it": "Lettera 15: Alla Molto Reverenda In Cristo Sorella, Suor Margherita Medici"
+            "it": "Lettera 15: Alla Molto Reverenda In Cristo Sorella, Suor Margherita Medici",
+            "pt-BR": "Carta 15: À muito Reverenda Irmã em Cristo, Irmã Margarida Medici"
           }
         },
         {
           "id": "lettera-16",
           "title": {
-            "it": "Lettera 16: Al Molto Magnifico E Honorando Quanto Fratello M. Luvigi Ardinghelli"
+            "it": "Lettera 16: Al Molto Magnifico E Honorando Quanto Fratello M. Luvigi Ardinghelli",
+            "pt-BR": "Carta 16: Ao muito Magnífico e Honrado, como um irmão, M. Luvigi Ardinghelli"
           }
         },
         {
           "id": "lettera-17",
           "title": {
-            "it": "Lettera 17: Alla Molto Reverenda In Christo Madre Suor Giulia Sommai"
+            "it": "Lettera 17: Alla Molto Reverenda In Christo Madre Suor Giulia Sommai",
+            "pt-BR": "Carta 17: À muito Reverenda em Cristo Madre Irmã Júlia Sommai"
           }
         },
         {
           "id": "lettera-18",
           "title": {
-            "it": "Lettera 18: Al Molto Magnifico E Honorando Fratel Geri De' Pazzi"
+            "it": "Lettera 18: Al Molto Magnifico E Honorando Fratel Geri De' Pazzi",
+            "pt-BR": "Carta 18: Ao muito Magnífico e Honrado irmão Geri de' Pazzi"
           }
         },
         {
           "id": "lettera-19",
           "title": {
-            "it": "Lettera 19: Al Molto Magnifico E Honorando Fratello Ms. Geri De' Pazzi"
+            "it": "Lettera 19: Al Molto Magnifico E Honorando Fratello Ms. Geri De' Pazzi",
+            "pt-BR": "Carta 19: Ao muito Magnífico e Honrado irmão Ms. Geri de' Pazzi"
           }
         },
         {
           "id": "lettera-20",
           "title": {
-            "it": "Lettera 20: Alla Molto Magnifica Madonna Caterina Minerbetti"
+            "it": "Lettera 20: Alla Molto Magnifica Madonna Caterina Minerbetti",
+            "pt-BR": "Carta 20: À muito Magnífica Madonna Caterina Minerbetti"
           }
         },
         {
           "id": "lettera-21",
           "title": {
-            "it": "Lettera 21: A Suor Giulia Sommai"
+            "it": "Lettera 21: A Suor Giulia Sommai",
+            "pt-BR": "Carta 21: À Irmã Júlia Sommai"
           }
         },
         {
           "id": "lettera-22",
           "title": {
-            "it": "Lettera 22: A Ippolita Nasi - Sua Cognata"
+            "it": "Lettera 22: A Ippolita Nasi - Sua Cognata",
+            "pt-BR": "Carta 22: A Ippolita Nasi - sua cunhada"
           }
         },
         {
           "id": "lettera-23",
           "title": {
-            "it": "Lettera 23: A Geri De' Pazzi - Suo Fratello"
+            "it": "Lettera 23: A Geri De' Pazzi - Suo Fratello",
+            "pt-BR": "Carta 23: A Geri de' Pazzi - seu irmão"
           }
         },
         {
           "id": "lettera-24",
           "title": {
-            "it": "Lettera 24: A Suor Cherubina De' Pazzi, Monaca"
+            "it": "Lettera 24: A Suor Cherubina De' Pazzi, Monaca",
+            "pt-BR": "Carta 24: À Irmã Querubina de' Pazzi, monja"
           }
         },
         {
           "id": "lettera-25",
           "title": {
-            "it": "Lettera 25: Al Padre Giovanni Battista Rabattà"
+            "it": "Lettera 25: Al Padre Giovanni Battista Rabattà",
+            "pt-BR": "Carta 25: Ao Padre Giovanni Battista Rabattà"
           }
         },
         {
           "id": "lettera-26",
           "title": {
-            "it": "Lettera 26: A Madonna Violante Medici"
+            "it": "Lettera 26: A Madonna Violante Medici",
+            "pt-BR": "Carta 26: A Madonna Violante Medici"
           }
         },
         {
           "id": "lettera-27",
           "title": {
-            "it": "Lettera 27: Alla Molto Magnifica E Cara Nipote Madonna Caterina Busini"
+            "it": "Lettera 27: Alla Molto Magnifica E Cara Nipote Madonna Caterina Busini",
+            "pt-BR": "Carta 27: À muito Magnífica e cara sobrinha Madonna Caterina Busini"
           }
         },
         {
           "id": "persone-nominate",
           "title": {
-            "it": "Persone nominate nelle lettere"
+            "it": "Persone nominate nelle lettere",
+            "pt-BR": "Pessoas mencionadas nas cartas"
           }
         }
       ]
@@ -302,259 +351,302 @@
     {
       "id": "ammaestramenti",
       "title": {
-        "it": "Ammaestramenti, avvisi e ricordi"
+        "it": "Ammaestramenti, avvisi e ricordi",
+        "pt-BR": "Ensinamentos, avisos e lembranças"
       },
       "children": [
         {
           "id": "ammaestramenti-introduzione",
           "title": {
-            "it": "Ammaestramenti, avvisi e ricordi: introduzione e fonti"
+            "it": "Ammaestramenti, avvisi e ricordi: introduzione e fonti",
+            "pt-BR": "Ensinamentos, avisos e lembranças: introdução e fontes"
           }
         },
         {
           "id": "ammaestramento-01",
           "title": {
-            "it": "Ammaestramento 1. Della degnità, stima e gratitudine della vocazione religiosa"
+            "it": "Ammaestramento 1. Della degnità, stima e gratitudine della vocazione religiosa",
+            "pt-BR": "Ensinamento 1. Da dignidade, estima e gratidão da vocação religiosa"
           }
         },
         {
           "id": "ammaestramento-02",
           "title": {
-            "it": "Ammaestramento 2. Dell'amore et osservanza verso la nostra madre religione"
+            "it": "Ammaestramento 2. Dell'amore et osservanza verso la nostra madre religione",
+            "pt-BR": "Ensinamento 2. Do amor e da observância para com a nossa mãe Religião"
           }
         },
         {
           "id": "ammaestramento-03",
           "title": {
-            "it": "Ammaestramento 3. Dell'osservanza della regola e constituzione"
+            "it": "Ammaestramento 3. Dell'osservanza della regola e constituzione",
+            "pt-BR": "Ensinamento 3. Da observância da regra e das constituições"
           }
         },
         {
           "id": "ammaestramento-04",
           "title": {
-            "it": "Ammaestramento 4. Del desiderio e zelo della santa osservanza e della semplicità e perfezione religiosa"
+            "it": "Ammaestramento 4. Del desiderio e zelo della santa osservanza e della semplicità e perfezione religiosa",
+            "pt-BR": "Ensinamento 4. Do desejo e zelo da santa observância e da simplicidade e perfeição religiosa"
           }
         },
         {
           "id": "ammaestramento-05",
           "title": {
-            "it": "Ammaestramento 5. Come si deve portare verso le novelle piante della religione"
+            "it": "Ammaestramento 5. Come si deve portare verso le novelle piante della religione",
+            "pt-BR": "Ensinamento 5. Como se deve proceder com as novas plantas da religião"
           }
         },
         {
           "id": "ammaestramento-06",
           "title": {
-            "it": "Ammaestramento 6. Dell'aborrimento del mondo, e come si deve portare alle grate con i secolari"
+            "it": "Ammaestramento 6. Dell'aborrimento del mondo, e come si deve portare alle grate con i secolari",
+            "pt-BR": "Ensinamento 6. Da aversão ao mundo, e como se deve proceder nas grades com os seculares"
           }
         },
         {
           "id": "ammaestramento-07",
           "title": {
-            "it": "Ammaestramento 7. Dell'obbedienza"
+            "it": "Ammaestramento 7. Dell'obbedienza",
+            "pt-BR": "Ensinamento 7. Da obediência"
           }
         },
         {
           "id": "ammaestramento-08",
           "title": {
-            "it": "Ammaestramento 8. Della povertà"
+            "it": "Ammaestramento 8. Della povertà",
+            "pt-BR": "Ensinamento 8. Da pobreza"
           }
         },
         {
           "id": "ammaestramento-09",
           "title": {
-            "it": "Ammaestramento 9. Della castità"
+            "it": "Ammaestramento 9. Della castità",
+            "pt-BR": "Ensinamento 9. Da castidade"
           }
         },
         {
           "id": "ammaestramento-10",
           "title": {
-            "it": "Ammaestramento 10. De tre voti"
+            "it": "Ammaestramento 10. De tre voti",
+            "pt-BR": "Ensinamento 10. Dos três votos"
           }
         },
         {
           "id": "ammaestramento-11",
           "title": {
-            "it": "Ammaestramento 11. Dell'opere spirituali e del culto divino"
+            "it": "Ammaestramento 11. Dell'opere spirituali e del culto divino",
+            "pt-BR": "Ensinamento 11. Das obras espirituais e do culto divino"
           }
         },
         {
           "id": "ammaestramento-12",
           "title": {
-            "it": "Ammaestramento 12. Dell'ufizio divino"
+            "it": "Ammaestramento 12. Dell'ufizio divino",
+            "pt-BR": "Ensinamento 12. Do Ofício divino"
           }
         },
         {
           "id": "ammaestramento-13",
           "title": {
-            "it": "Ammaestramento 13. Dell'orazione"
+            "it": "Ammaestramento 13. Dell'orazione",
+            "pt-BR": "Ensinamento 13. Da oração"
           }
         },
         {
           "id": "ammaestramento-14",
           "title": {
-            "it": "Ammaestramento 14. Dell'esame della conscienza e della confessione"
+            "it": "Ammaestramento 14. Dell'esame della conscienza e della confessione",
+            "pt-BR": "Ensinamento 14. Do exame de consciência e da confissão"
           }
         },
         {
           "id": "ammaestramento-15",
           "title": {
-            "it": "Ammaestramento 15. Della s.ma comunione"
+            "it": "Ammaestramento 15. Della s.ma comunione",
+            "pt-BR": "Ensinamento 15. Da s.ma comunhão"
           }
         },
         {
           "id": "ammaestramento-16",
           "title": {
-            "it": "Ammaestramento 16. Della carità e dilezione fraterna"
+            "it": "Ammaestramento 16. Della carità e dilezione fraterna",
+            "pt-BR": "Ensinamento 16. Da caridade e dileção fraterna"
           }
         },
         {
           "id": "ammaestramento-17",
           "title": {
-            "it": "Ammaestramento 17. Della conversazione"
+            "it": "Ammaestramento 17. Della conversazione",
+            "pt-BR": "Ensinamento 17. Da conversação"
           }
         },
         {
           "id": "ammaestramento-18",
           "title": {
-            "it": "Ammaestramento 18. Circa le parole e del silenzio"
+            "it": "Ammaestramento 18. Circa le parole e del silenzio",
+            "pt-BR": "Ensinamento 18. Acerca das palavras e do silêncio"
           }
         },
         {
           "id": "ammaestramento-19",
           "title": {
-            "it": "Ammaestramento 19. Dell'opere"
+            "it": "Ammaestramento 19. Dell'opere",
+            "pt-BR": "Ensinamento 19. Das obras"
           }
         },
         {
           "id": "ammaestramento-20",
           "title": {
-            "it": "Ammaestramento 20. De gl'ufizi della religione"
+            "it": "Ammaestramento 20. De gl'ufizi della religione",
+            "pt-BR": "Ensinamento 20. Dos ofícios da religião"
           }
         },
         {
           "id": "ammaestramento-21",
           "title": {
-            "it": "Ammaestramento 21. Dello star lontana dalla colpa"
+            "it": "Ammaestramento 21. Dello star lontana dalla colpa",
+            "pt-BR": "Ensinamento 21. Do estar longe da culpa"
           }
         },
         {
           "id": "ammaestramento-22",
           "title": {
-            "it": "Ammaestramento 22. Del timor de cadere e della memoria della morte e giudizio"
+            "it": "Ammaestramento 22. Del timor de cadere e della memoria della morte e giudizio",
+            "pt-BR": "Ensinamento 22. Do temor de cair e da memória da morte e do juízo"
           }
         },
         {
           "id": "ammaestramento-23",
           "title": {
-            "it": "Ammaestramento 23. Delle cause della tiepidità"
+            "it": "Ammaestramento 23. Delle cause della tiepidità",
+            "pt-BR": "Ensinamento 23. Das causas da tibieza"
           }
         },
         {
           "id": "ammaestramento-24",
           "title": {
-            "it": "Ammaestramento 24. Della custodia del cuore"
+            "it": "Ammaestramento 24. Della custodia del cuore",
+            "pt-BR": "Ensinamento 24. Da guarda do coração"
           }
         },
         {
           "id": "ammaestramento-25",
           "title": {
-            "it": "Ammaestramento 25. De mezzi per vincere le passione"
+            "it": "Ammaestramento 25. De mezzi per vincere le passione",
+            "pt-BR": "Ensinamento 25. Dos meios para vencer as paixões"
           }
         },
         {
           "id": "ammaestramento-26",
           "title": {
-            "it": "Ammaestramento 26. Come se deve portare in quello che è contro il vostro gusto e sentimento e quel che dio pretende quando ci per"
+            "it": "Ammaestramento 26. Come se deve portare in quello che è contro il vostro gusto e sentimento e quel che dio pretende quando ci per",
+            "pt-BR": "Ensinamento 26. Como se deve proceder no que é contra o vosso gosto e sentimento e o que Deus pretende quando nos per…"
           }
         },
         {
           "id": "ammaestramento-27",
           "title": {
-            "it": "Ammaestramento 27. Come bisogna far verace fondamento nella virtù e come si deve superare tutte le dificultà che occorrono nel di"
+            "it": "Ammaestramento 27. Come bisogna far verace fondamento nella virtù e come si deve superare tutte le dificultà che occorrono nel di",
+            "pt-BR": "Ensinamento 27. Como é preciso fazer verdadeiro fundamento na virtude e como se devem superar todas as dificuldades que ocorrem no…"
           }
         },
         {
           "id": "ammaestramento-28",
           "title": {
-            "it": "Ammaestramento 28. Della mortificazione"
+            "it": "Ammaestramento 28. Della mortificazione",
+            "pt-BR": "Ensinamento 28. Da mortificação"
           }
         },
         {
           "id": "ammaestramento-29",
           "title": {
-            "it": "Ammaestramento 29. Come si deve portare nelle humiliazione e mortificazione e riprensione"
+            "it": "Ammaestramento 29. Come si deve portare nelle humiliazione e mortificazione e riprensione",
+            "pt-BR": "Ensinamento 29. Como se deve proceder nas humilhações, mortificações e repreensões"
           }
         },
         {
           "id": "ammaestramento-30",
           "title": {
-            "it": "Ammaestramento 30. Dell'humiltà"
+            "it": "Ammaestramento 30. Dell'humiltà",
+            "pt-BR": "Ensinamento 30. Da humildade"
           }
         },
         {
           "id": "ammaestramento-31",
           "title": {
-            "it": "Ammaestramento 31. Della mansuetudine e della pace secondo dio"
+            "it": "Ammaestramento 31. Della mansuetudine e della pace secondo dio",
+            "pt-BR": "Ensinamento 31. Da mansidão e da paz segundo Deus"
           }
         },
         {
           "id": "ammaestramento-32",
           "title": {
-            "it": "Ammaestramento 32. Del patire"
+            "it": "Ammaestramento 32. Del patire",
+            "pt-BR": "Ensinamento 32. Do padecer"
           }
         },
         {
           "id": "ammaestramento-33",
           "title": {
-            "it": "Ammaestramento 33. Della purità d'intenzione"
+            "it": "Ammaestramento 33. Della purità d'intenzione",
+            "pt-BR": "Ensinamento 33. Da pureza de intenção"
           }
         },
         {
           "id": "ammaestramento-34",
           "title": {
-            "it": "Ammaestramento 34. Come si deve cercare e operare la volontà di dio"
+            "it": "Ammaestramento 34. Come si deve cercare e operare la volontà di dio",
+            "pt-BR": "Ensinamento 34. Como se deve buscar e cumprir a vontade de Deus"
           }
         },
         {
           "id": "ammaestramento-35",
           "title": {
-            "it": "Ammaestramento 35. Della presenza di dio"
+            "it": "Ammaestramento 35. Della presenza di dio",
+            "pt-BR": "Ensinamento 35. Da presença de Deus"
           }
         },
         {
           "id": "ammaestramento-36",
           "title": {
-            "it": "Ammaestramento 36. Del traffico et unione con dio"
+            "it": "Ammaestramento 36. Del traffico et unione con dio",
+            "pt-BR": "Ensinamento 36. Do trato e união com Deus"
           }
         },
         {
           "id": "ammaestramento-37",
           "title": {
-            "it": "Ammaestramento 37. Dell'immitazione del verbo"
+            "it": "Ammaestramento 37. Dell'immitazione del verbo",
+            "pt-BR": "Ensinamento 37. Da imitação do Verbo"
           }
         },
         {
           "id": "ammaestramento-38",
           "title": {
-            "it": "Ammaestramento 38. Del zelo della salute delle anime"
+            "it": "Ammaestramento 38. Del zelo della salute delle anime",
+            "pt-BR": "Ensinamento 38. Do zelo pela salvação das almas"
           }
         },
         {
           "id": "ammaestramento-39",
           "title": {
-            "it": "Ammaestramento 39. Dell'amor di dio"
+            "it": "Ammaestramento 39. Dell'amor di dio",
+            "pt-BR": "Ensinamento 39. Do amor de Deus"
           }
         },
         {
           "id": "ammaestramento-40",
           "title": {
-            "it": "Ammaestramento 40. Tre ricordi che la nostra madre beata maria maddalena dette a tutte avanti la sua morte"
+            "it": "Ammaestramento 40. Tre ricordi che la nostra madre beata maria maddalena dette a tutte avanti la sua morte",
+            "pt-BR": "Ensinamento 40. Três lembranças que a nossa madre, a bem-aventurada Maria Madalena, deu a todas antes da sua morte"
           }
         },
         {
           "id": "appendice-ammaestramenti",
           "title": {
-            "it": "Appendice agli ammaestramenti (Suor Maria Benedetta Cambini)"
+            "it": "Appendice agli ammaestramenti (Suor Maria Benedetta Cambini)",
+            "pt-BR": "Apêndice aos ensinamentos (Irmã Maria Benedita Cambini)"
           }
         }
       ]
@@ -562,31 +654,36 @@
     {
       "id": "opere-minori",
       "title": {
-        "it": "Opere minori"
+        "it": "Opere minori",
+        "pt-BR": "Obras menores"
       },
       "children": [
         {
           "id": "dodici-meditazioni",
           "title": {
-            "it": "Dodici meditazioni"
+            "it": "Dodici meditazioni",
+            "pt-BR": "Doze meditações"
           }
         },
         {
           "id": "ricordi-detti-azioni",
           "title": {
-            "it": "Ricordi, detti e azioni"
+            "it": "Ricordi, detti e azioni",
+            "pt-BR": "Lembranças, ditos e ações"
           }
         },
         {
           "id": "ratti-intelligenze",
           "title": {
-            "it": "Ratti e intelligenze"
+            "it": "Ratti e intelligenze",
+            "pt-BR": "Arrebatamentos e inteligências"
           }
         },
         {
           "id": "ultime-estasi",
           "title": {
-            "it": "Ultime estasi"
+            "it": "Ultime estasi",
+            "pt-BR": "Últimos êxtases"
           }
         }
       ]

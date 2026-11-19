@@ -1,0 +1,23 @@
+# Carta 11 ditada em êxtase
+
+Ao Il.mo Cardeal, seu R.mo Padre *[Alessandro de' Medici]*
+
+A inútil serva dos servos de JESUS CRISTO e sua caríssima filha, em desejo e em obra obedientíssima, forçada pela antiga Verdade, por todos os Espíritos bem-aventurados, por todos os justos e, por assim dizer, pelo céu e pela terra, e, se me é lícito dizê-lo, até pelo inferno, a lembrar-lhe, incitá-lo e convidá-lo a querer vir entender a tão importante, agradável e útil vontade de Deus. E se Vossa Senhoria me dissesse: que importa a tão vil criatura a sua vinda, que dela tem tão ansioso desejo? Digo-lhe que o ansioso desejo, dá-o Deus, e o próprio Deus o move; e o que me força a ter esse ansioso desejo e a procurar que não deixe passar tanto tempo antes da sua vinda são as tantas e quase infinitas almas que vejo estarem em contínuo perigo da própria salvação, as quais, ainda que por agora não possa libertá-las de todo, deve contudo querer começar em alguma parte a erguê-las desse perigo. E se tivesse negócio ou obra que lhe parecesse de maior importância que esta, digo-lhe que esta é a maior obra que criatura alguma pode jamais fazer na terra. E se ele ainda não o penetra, rogo-lhe, por aquele Sangue derramado com tanto fogo de amor, que queira vir entendê-lo de quem tem disso uma pequena, pequena fresta de luz, e que em alguma parte lho dará a conhecer. Digo que queira vir entender a vontade de Deus, e ainda procurar ver se tal é a vontade de Deus.
+
+Ah, não queira olhar para a fadiga e o incômodo do corpo, mas lembre-se de que quem se ama nesta vida perde a vida eterna. *Qui amat animam suam perdet eam, et qui odit animam suam in hoc mundo, in vitam eternam custodit eam* (João 12:25). E não olhe para a vileza e baixeza de quem lhe profere tais palavras, mas fixe o olhar e aponte a mira para quem lhas faz dizer; e se duvida de quem lhas faz dizer, venha, venha esclarecer-se da verdade, e não queira mais tapar os ouvidos à voz e à exclamação da verdade, para que aquilo que a bondade de Deus lhe deu como dom singular, ao elegê-lo para tal obra, não se lhe converta em ira e furor, porque ai, ai daquele a quem Deus volta as costas. E ele, que tão familiarmente e, por assim dizer, tão saborosamente trata com as suas mãos o próprio Deus, Verbo encarnado, e pode dá-lo às criaturas e privá-las dele, não queira retribuir com ingratidão tal familiaridade, recuando de pôr em execução a vontade de Deus, que é fazer com que as almas se reconduzam a ele.
+
+Não queira tomar tais palavras como presunção ou leviandade, mas tome-as, sim, como de quem é forçada a dizê-las pela Verdade, que assim é na verdade. E repito-lhe que, se não crê que seja assim, e teme ou duvida que seja engano, venha esclarecer-se, não querendo mais suportar que uma alma a ele sujeita esteja em tal perigo, mas, como amoroso pai, fazer o seu ofício, vindo libertar uma filha sua de tal engano.
+
+Até agora houve muitas iluminações, que verdadeiramente não as posso chamar de outro modo, as quais agora não lhas dou a conhecer, reservando-as para a sua vinda; vinda para a qual muitas vezes fui forçada por Deus a incitá-lo e convidá-lo, mas não me foi permitido, por quem sou obrigada a obedecer, pô-lo em execução. Mas agora de novo sou constrangida a fazê-lo, forçada pelo Sangue do Cordeiro sangrado, Cristo crucificado, proferindo estas breves palavras familiarmente, tomando com Vossa Senhoria Il.ma aquela confiança que uma filha toma com seu amoroso pai, não querendo mais temê-lo como serva, mas amá-lo como amorosíssimo Pai. E rogo-lhe que tudo o que lhe parecer haver aqui de presunção se digne, olhando para o Cordeiro sangrado, Cristo crucificado na cruz, perdoar com aquela misericórdia com que ele perdoou aos que o ofendiam, ainda que estas palavras não sejam ditas para ofender, mas proferidas, como por quem é forçada, para lhe fazer entender a vontade de Deus.
+
+Não duvido que, como amador desse Deus e ansioso zelador da salvação das almas, não fará caso das palavras inconsideradas da sua serva e virá esclarecer-se da verdade, sem deixar passar mais tempo, porque o tempo não nos espera, ainda que nós o esperemos. Ah, não tenhamos por certo o incerto, mas queiramos hora por hora, instante por instante, fazer o que Deus quer na sua santa Igreja, a vós confiada em particular guarda.
+
+Não o incitarei nem provocarei dizendo-lhe mais palavras, mas, terminando, humildemente lhe peço a santa bênção. JESUS, JESUS, Verdade infalível, Amor tranquilo. JESUS. JESUS.
+
+Do nosso mosteiro de Santa Maria degli Angeli, junto a San Fridiano.
+
+No dia do glorioso apóstolo São Bartolomeu, 24 de agosto de 1586.
+
+A humilde Serva do Verbo feito homem
+
+*Irmã Maria Madalena de Pazzi*
