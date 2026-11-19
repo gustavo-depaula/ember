@@ -18,13 +18,19 @@
   },
   "composed": "1140",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "bernard/contra-errores-abaelardi",
   "editions": {
     "la": {
       "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182)",
       "year": 1854
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,61 +47,71 @@
     {
       "id": "praefatio",
       "title": {
-        "la": "Praefatio"
+        "la": "Praefatio",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "c01",
       "title": {
-        "la": "Caput I. Impia Abaelardi de sancta Trinitate dogmata recenset, et explodit"
+        "la": "Caput I. Impia Abaelardi de sancta Trinitate dogmata recenset, et explodit",
+        "pt-BR": "Capítulo I. Enumera e repudia os ímpios dogmas de Abelardo sobre a santa Trindade"
       }
     },
     {
       "id": "c02",
       "title": {
-        "la": "Caput II. In Trinitate non esse admittendam ullam disparitatem, sed omnimodam aequalitatem"
+        "la": "Caput II. In Trinitate non esse admittendam ullam disparitatem, sed omnimodam aequalitatem",
+        "pt-BR": "Capítulo II. Na Trindade não se deve admitir nenhuma desigualdade, mas uma igualdade completa"
       }
     },
     {
       "id": "c03",
       "title": {
-        "la": "Caput III. Absurdum dogma Abaelardi, nomina absoluta et essentialia uni personae proprie et specialiter attribuentis, oppugnat"
+        "la": "Caput III. Absurdum dogma Abaelardi, nomina absoluta et essentialia uni personae proprie et specialiter attribuentis, oppugnat",
+        "pt-BR": "Capítulo III. Combate o absurdo dogma de Abelardo, que atribui própria e especialmente a uma só pessoa os nomes absolutos e essenciais"
       }
     },
     {
       "id": "c04",
       "title": {
-        "la": "Caput IV. Refellit definitionem fidei, qua dicit Abaelardus fidem esse aestimationem"
+        "la": "Caput IV. Refellit definitionem fidei, qua dicit Abaelardus fidem esse aestimationem",
+        "pt-BR": "Capítulo IV. Refuta a definição de fé com que Abelardo diz que a fé é uma estimativa"
       }
     },
     {
       "id": "c05",
       "title": {
-        "la": "Caput V. Arguit Abaelardum, sua sensa aut somnia unanimi Patrum sententiae praeferentem; praesertim ubi dicit Christum non ideo incarnatum, ut hominem liberaret de potestate Satanae"
+        "la": "Caput V. Arguit Abaelardum, sua sensa aut somnia unanimi Patrum sententiae praeferentem; praesertim ubi dicit Christum non ideo incarnatum, ut hominem liberaret de potestate Satanae",
+        "pt-BR": "Capítulo V. Repreende Abelardo, que antepõe os seus pareceres ou sonhos à sentença unânime dos Padres, sobretudo quando diz que Cristo não se encarnou para libertar o homem do poder de Satanás"
       }
     },
     {
       "id": "c06",
       "title": {
-        "la": "Caput VI. In opere liberationis humanae non solum misericordiam, sed et justitiam relucere"
+        "la": "Caput VI. In opere liberationis humanae non solum misericordiam, sed et justitiam relucere",
+        "pt-BR": "Capítulo VI. Na obra da libertação humana resplandece não só a misericórdia, mas também a justiça"
       }
     },
     {
       "id": "c07",
       "title": {
-        "la": "Caput VII. Abaelardum perstringit, impie ac temere Dei secreta scrutantem et extenuantem"
+        "la": "Caput VII. Abaelardum perstringit, impie ac temere Dei secreta scrutantem et extenuantem",
+        "pt-BR": "Capítulo VII. Censura Abelardo, que ímpia e temerariamente perscruta e rebaixa os segredos de Deus"
       }
     },
     {
       "id": "c08",
       "title": {
-        "la": "Caput VIII. Quare Christus tam gravem ac laboriosum nos liberandi modum susceperit, cum sola ejus voluntas seu jussio sufficeret"
+        "la": "Caput VIII. Quare Christus tam gravem ac laboriosum nos liberandi modum susceperit, cum sola ejus voluntas seu jussio sufficeret",
+        "pt-BR": "Capítulo VIII. Por que Cristo assumiu um modo tão penoso e trabalhoso de nos libertar, quando bastaria só a sua vontade ou a sua ordem"
       }
     },
     {
       "id": "c09",
       "title": {
-        "la": "Caput IX. Christum venisse in mundum, non solius instructionis nostrae, sed et liberationis causa"
+        "la": "Caput IX. Christum venisse in mundum, non solius instructionis nostrae, sed et liberationis causa",
+        "pt-BR": "Capítulo IX. Cristo veio ao mundo não só para nos instruir, mas também para nos libertar"
       }
     }
   ]
