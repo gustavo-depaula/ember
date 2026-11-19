@@ -37,8 +37,10 @@ for src in sorted(glob.glob(d + "/" + lang + "/" + scope + "*.md")):
     # which a translation writes as 11:5; those may appear in pt-BR only.
     roman = lambda r: sum({"i": 1, "v": 5, "x": 10, "l": 50, "c": 100}[c] * (-1 if k + 1 < len(r) and {"i": 1, "v": 5, "x": 10, "l": 50, "c": 100}[c] < {"i": 1, "v": 5, "x": 10, "l": 50, "c": 100}[r[k + 1]] else 1) for k, c in enumerate(r))
     romanRefs = lambda s: {"%d:%s" % (roman(m.group(1).lower()), m.group(2)) for m in re.finditer(r"\b([IVXLCivxlc]+)[.,]\s*(\d+)", s)}
+    # ... and as "Ephes. 1, 4" or "Joan, xiv, 16": a book's abbreviation, then chapter and verse split by a comma.
+    bookRefs = lambda s: {"%s:%s" % (c if c.isdigit() else roman(c.lower()), v) for c, v in re.findall(r"\b[A-Z][a-z]{1,8}[.,]?\s+(\d+|[IVXLCivxlc]+)[.,]\s*(\d+)", s)}
     for i, (x, y) in enumerate(zip(a, b)):
-        if lang == "en-US" and (set(refs(x)) - set(refs(y)) or set(refs(y)) - set(refs(x)) - romanRefs(x)): problems.append("%s p%d: scripture refs differ" % (name, i + 1))
+        if lang == "en-US" and (set(refs(x)) - set(refs(y)) or set(refs(y)) - set(refs(x)) - romanRefs(x) - bookRefs(x)): problems.append("%s p%d: scripture refs differ" % (name, i + 1))
         wx, wy = len(x.split()), len(y.split())
         if wx > 40 and wy / wx < 0.6: problems.append("%s p%d: pt-BR only %.0f%% of source length" % (name, i + 1, 100 * wy / wx))
     if re.search(r"truncated to [0-9]+ chars", open(tgt).read()): problems.append(tgt + ": truncation marker")
