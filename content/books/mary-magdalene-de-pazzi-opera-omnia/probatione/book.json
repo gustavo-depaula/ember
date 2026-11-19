@@ -13,17 +13,23 @@
   "description": {
     "it": "Il quarto libro dei manoscritti originali, steso da suor Maria Pacifica del Tovaglia e altre: i cinque anni della «probazione» (1585-1590), la prova di aridità, tentazioni e abbandono con cui Dio purifica suor Maria Maddalena, e la seconda parte (1590-1600) con i ratti degli ultimi anni. Edizione critica in Tutte le opere, vol. V-VI (Firenze: CIL, 1965). Un capitolo per anno, con le sezioni lunghe suddivise; le glosse editoriali restano tra parentesi quadre.",
     "en-US": "The fourth of the original manuscript books, compiled by Sister Maria Pacifica del Tovaglia and others: the five years of the \"probation\" (1585-1590), the trial of aridity, temptation and abandonment by which God purifies Sister Maria Maddalena, and the second part (1590-1600) with the ecstasies of her last years. Critical edition in Tutte le opere, vols. V-VI (Florence: CIL, 1965). One chapter per year, long sections divided; the editors' glosses stay in square brackets.",
-    "pt-BR": "O quarto livro dos manuscritos originais, redigido por irmã Maria Pacífica del Tovaglia e outras: os cinco anos da «probação» (1585-1590), a prova de aridez, tentação e abandono com que Deus purifica a irmã Maria Madalena, e a segunda parte (1590-1600) com os êxtases dos últimos anos (edição crítica, Florença: CIL, 1965)."
+    "pt-BR": "O quarto livro dos manuscritos originais, redigido pela irmã Maria Pacífica del Tovaglia e outras: os cinco anos da «probação» (1585-1590), a prova de aridez, tentações e abandono com que Deus purifica a irmã Maria Madalena, e a segunda parte (1590-1600), com os arrebatamentos dos últimos anos. Edição crítica em Tutte le opere, vols. V-VI (Florença: CIL, 1965). Um capítulo por ano, com as seções longas subdivididas; as glosas editoriais permanecem entre colchetes."
   },
   "composed": "1585-1600",
   "languages": [
-    "it"
+    "it",
+    "pt-BR"
   ],
   "work": "mary-magdalene-de-pazzi/probatione",
   "editions": {
     "it": {
       "editor": "Carmelite scholars (Tutte le opere, ed. Fulvio Nardoni)",
       "year": 1965
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "it",
+      "year": 2026
     }
   },
   "sources": [
@@ -48,85 +54,99 @@
     {
       "id": "parte-1",
       "title": {
-        "it": "Prima parte (16 giugno 1585 - 12 giugno 1590)"
+        "it": "Prima parte (16 giugno 1585 - 12 giugno 1590)",
+        "pt-BR": "Primeira parte (16 de junho de 1585 - 12 de junho de 1590)"
       },
       "children": [
         {
           "id": "p1-1585",
           "title": {
-            "it": "Anno 1585"
+            "it": "Anno 1585",
+            "pt-BR": "Ano 1585"
           }
         },
         {
           "id": "p1-1586",
           "title": {
-            "it": "Anno 1586"
+            "it": "Anno 1586",
+            "pt-BR": "Ano 1586"
           }
         },
         {
           "id": "p1-1587-1",
           "title": {
-            "it": "Anno 1587 (1/4)"
+            "it": "Anno 1587 (1/4)",
+            "pt-BR": "Ano 1587 (1/4)"
           }
         },
         {
           "id": "p1-1587-2",
           "title": {
-            "it": "Anno 1587 (2/4)"
+            "it": "Anno 1587 (2/4)",
+            "pt-BR": "Ano 1587 (2/4)"
           }
         },
         {
           "id": "p1-1587-3",
           "title": {
-            "it": "Anno 1587 (3/4)"
+            "it": "Anno 1587 (3/4)",
+            "pt-BR": "Ano 1587 (3/4)"
           }
         },
         {
           "id": "p1-1587-4",
           "title": {
-            "it": "Anno 1587 (4/4)"
+            "it": "Anno 1587 (4/4)",
+            "pt-BR": "Ano 1587 (4/4)"
           }
         },
         {
           "id": "p1-1588-1",
           "title": {
-            "it": "Anno 1588 (1/4)"
+            "it": "Anno 1588 (1/4)",
+            "pt-BR": "Ano 1588 (1/4)"
           }
         },
         {
           "id": "p1-1588-2",
           "title": {
-            "it": "Anno 1588 (2/4)"
+            "it": "Anno 1588 (2/4)",
+            "pt-BR": "Ano 1588 (2/4)"
           }
         },
         {
           "id": "p1-1588-3",
           "title": {
-            "it": "Anno 1588 (3/4)"
+            "it": "Anno 1588 (3/4)",
+            "pt-BR": "Ano 1588 (3/4)"
           }
         },
         {
           "id": "p1-1588-4",
           "title": {
-            "it": "Anno 1588 (4/4)"
+            "it": "Anno 1588 (4/4)",
+            "pt-BR": "Ano 1588 (4/4)"
           }
         },
         {
           "id": "p1-1589",
           "title": {
-            "it": "Anno 1589"
+            "it": "Anno 1589",
+            "pt-BR": "Ano 1589"
           }
         },
         {
           "id": "p1-1590-1",
           "title": {
-            "it": "Anno 1590 (1/2)"
+            "it": "Anno 1590 (1/2)",
+            "pt-BR": "Ano 1590 (1/2)"
           }
         },
         {
           "id": "p1-1590-2",
           "title": {
-            "it": "Anno 1590 (2/2)"
+            "it": "Anno 1590 (2/2)",
+            "pt-BR": "Ano 1590 (2/2)"
           }
         }
       ]
@@ -134,91 +154,106 @@
     {
       "id": "parte-2",
       "title": {
-        "it": "Seconda parte (23 agosto 1590 - 30 ottobre 1600)"
+        "it": "Seconda parte (23 agosto 1590 - 30 ottobre 1600)",
+        "pt-BR": "Segunda parte (23 de agosto de 1590 - 30 de outubro de 1600)"
       },
       "children": [
         {
           "id": "p2-1590",
           "title": {
-            "it": "Anno 1590"
+            "it": "Anno 1590",
+            "pt-BR": "Ano 1590"
           }
         },
         {
           "id": "p2-1591",
           "title": {
-            "it": "Anno 1591"
+            "it": "Anno 1591",
+            "pt-BR": "Ano 1591"
           }
         },
         {
           "id": "p2-1592-1",
           "title": {
-            "it": "Anno 1592 (1/6)"
+            "it": "Anno 1592 (1/6)",
+            "pt-BR": "Ano 1592 (1/6)"
           }
         },
         {
           "id": "p2-1592-2",
           "title": {
-            "it": "Anno 1592 (2/6)"
+            "it": "Anno 1592 (2/6)",
+            "pt-BR": "Ano 1592 (2/6)"
           }
         },
         {
           "id": "p2-1592-3",
           "title": {
-            "it": "Anno 1592 (3/6)"
+            "it": "Anno 1592 (3/6)",
+            "pt-BR": "Ano 1592 (3/6)"
           }
         },
         {
           "id": "p2-1592-4",
           "title": {
-            "it": "Anno 1592 (4/6)"
+            "it": "Anno 1592 (4/6)",
+            "pt-BR": "Ano 1592 (4/6)"
           }
         },
         {
           "id": "p2-1592-5",
           "title": {
-            "it": "Anno 1592 (5/6)"
+            "it": "Anno 1592 (5/6)",
+            "pt-BR": "Ano 1592 (5/6)"
           }
         },
         {
           "id": "p2-1592-6",
           "title": {
-            "it": "Anno 1592 (6/6)"
+            "it": "Anno 1592 (6/6)",
+            "pt-BR": "Ano 1592 (6/6)"
           }
         },
         {
           "id": "p2-1593",
           "title": {
-            "it": "Anno 1593"
+            "it": "Anno 1593",
+            "pt-BR": "Ano 1593"
           }
         },
         {
           "id": "p2-1594",
           "title": {
-            "it": "Anno 1594"
+            "it": "Anno 1594",
+            "pt-BR": "Ano 1594"
           }
         },
         {
           "id": "p2-1596",
           "title": {
-            "it": "Anno 1595-1596"
+            "it": "Anno 1595-1596",
+            "pt-BR": "Ano 1595-1596"
           }
         },
         {
           "id": "p2-1597",
           "title": {
-            "it": "Anno 1597"
+            "it": "Anno 1597",
+            "pt-BR": "Ano 1597"
           }
         },
         {
           "id": "p2-1599",
           "title": {
-            "it": "Anno 1598-1599"
+            "it": "Anno 1598-1599",
+            "pt-BR": "Ano 1598-1599"
           }
         },
         {
           "id": "p2-1600",
           "title": {
-            "it": "Anno 1600"
+            "it": "Anno 1600",
+            "pt-BR": "Ano 1600"
           }
         }
       ]
