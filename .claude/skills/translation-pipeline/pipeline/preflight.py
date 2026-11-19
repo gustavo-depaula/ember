@@ -88,6 +88,15 @@ alone = [(f, p) for f in sorted(os.listdir(src)) if f.endswith(".md") and f.star
          if 4 < len(p) < 80 and not p.startswith(("#", "[^", "|", ">", "*", "-")) and standalone.match(p)]
 keys = [headKey(p) for f, p in alone]
 alone = [(f, p) for (f, p), k in zip(alone, keys) if len(k) >= 5 and keys.count(k) >= 2]
+# A page's footnotes fused into the middle of a paragraph ("…sans entrer tout d'abord dans
+# les i. Ps. CIX, 3. — 2. Philipp. II, 6…"): the sentence they cut is lost in translation
+# (Marmion's Christ dans ses mystères lost 19 passages so).
+fusedNote = re.compile(r"(?<=\s)[1-9il]\. (Ps|Joan|Matth|Marc|Luc|Rom|I+ ?Cor|Cor|Gal|Eph|Ephes|Philipp|Col|Hebr|Act|Apoc|Ibid|Cf|Isa|Is|Gen|Exod|Sap|Eccli|Prov|Cant|S\.|Op)\b[^.]{0,30}\.")
+fused = [(f, p) for f in sorted(os.listdir(src)) if f.endswith(".md") and f.startswith(scope)
+         for p in paras(open("%s/%s" % (src, f)).read())
+         if not p.startswith(("[^", "#")) and (m := fusedNote.search(p)) and m.start() > 60]
+if len(fused) >= 10:
+    hard.append("%d paragraphs have footnote text fused into them, e.g. %s" % (len(fused), "; ".join("%s: …%s" % (f, p[fusedNote.search(p).start() - 30:][:60]) for f, p in fused[:2])))
 if len(alone) >= 3:
     hard.append("%d running heads stand as paragraphs, e.g. %s" % (len(alone), "; ".join("%s: %s" % x for x in alone[:3])))
 if len(heads) >= 3:
