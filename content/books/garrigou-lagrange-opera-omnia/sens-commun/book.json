@@ -22,6 +22,11 @@
     "fr-FR": {
       "editor": "Nouvelle Librairie Nationale, Paris (2nd ed.)",
       "year": 1922
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -32,79 +37,92 @@
     }
   ],
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "toc": [
     {
       "id": "intro",
       "title": {
-        "fr-FR": "Préface et introduction"
+        "fr-FR": "Préface et introduction",
+        "pt-BR": "Prefácio e introdução"
       }
     },
     {
       "id": "ch1-intro",
       "title": {
-        "fr-FR": "Chapitre I. La théorie nominaliste du sens commun"
+        "fr-FR": "Chapitre I. La théorie nominaliste du sens commun",
+        "pt-BR": "Capítulo I. A teoria nominalista do senso comum"
       }
     },
     {
       "id": "ch2-intro",
       "title": {
-        "fr-FR": "Chapitre II. Théorie gongeptualiste-réaliste du sens commun"
+        "fr-FR": "Chapitre II. Théorie gongeptualiste-réaliste du sens commun",
+        "pt-BR": "Capítulo II. Teoria conceptualista-realista do senso comum"
       }
     },
     {
       "id": "ch3-intro",
       "title": {
-        "fr-FR": "Chapitre III. Comment le principe de raison d’être se rattache au principe d^dentité"
+        "fr-FR": "Chapitre III. Comment le principe de raison d’être se rattache au principe d^dentité",
+        "pt-BR": "Capítulo III. Como o princípio de razão de ser se vincula ao princípio de identidade"
       }
     },
     {
       "id": "ch4-intro",
       "title": {
-        "fr-FR": "Chapitre IV. :.a critique moderniste des preuves thomistes de l^existenge de dieu"
+        "fr-FR": "Chapitre IV. :.a critique moderniste des preuves thomistes de l^existenge de dieu",
+        "pt-BR": "Capítulo IV. A crítica modernista das provas tomistas da existência de Deus"
       }
     },
     {
       "id": "ch5-intro",
       "title": {
-        "fr-FR": "Chapitre V. Le panthéisme de la philosophie nouvelle"
+        "fr-FR": "Chapitre V. Le panthéisme de la philosophie nouvelle",
+        "pt-BR": "Capítulo V. O panteísmo da filosofia nova"
       }
     },
     {
       "id": "ch6-intro",
       "title": {
-        "fr-FR": "Chapitre VI. La vérité fondamentale de la philosophie de l^étre"
+        "fr-FR": "Chapitre VI. La vérité fondamentale de la philosophie de l^étre",
+        "pt-BR": "Capítulo VI. A verdade fundamental da filosofia do ser"
       }
     },
     {
       "id": "appendice-1",
       "title": {
-        "fr-FR": "Appendice I. Philosophie de l’être et ontologisme"
+        "fr-FR": "Appendice I. Philosophie de l’être et ontologisme",
+        "pt-BR": "Apêndice I. Filosofia do ser e ontologismo"
       }
     },
     {
       "id": "appendice-2",
       "title": {
-        "fr-FR": "Appendice II"
+        "fr-FR": "Appendice II",
+        "pt-BR": "Apêndice II"
       }
     },
     {
       "id": "ch7-intro",
       "title": {
-        "fr-FR": "Chapitre VII. Gomment les formules dogmatiques"
+        "fr-FR": "Chapitre VII. Gomment les formules dogmatiques",
+        "pt-BR": "Capítulo VII. Como as fórmulas dogmáticas"
       }
     },
     {
       "id": "ch8-intro",
       "title": {
-        "fr-FR": "Chapitre VIII. Les formules dogmatiques ainsi"
+        "fr-FR": "Chapitre VIII. Les formules dogmatiques ainsi",
+        "pt-BR": "Capítulo VIII. As fórmulas dogmáticas assim"
       }
     },
     {
       "id": "ch9-intro",
       "title": {
-        "fr-FR": "Chapitre IX. Les formules dogmatiques exprimées en langage philosophique"
+        "fr-FR": "Chapitre IX. Les formules dogmatiques exprimées en langage philosophique",
+        "pt-BR": "Capítulo IX. As fórmulas dogmáticas expressas em linguagem filosófica"
       }
     }
   ]
