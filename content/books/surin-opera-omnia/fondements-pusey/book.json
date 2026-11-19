@@ -11,17 +11,23 @@
   },
   "description": {
     "en-US": "Surin’s commentary on the maxims of the Imitation of Christ, in five books of questions and answers (first published in 1667 under the name Jean de Sainte-Foy), with a spiritual letter to a lady of rank. This is E. B. Pusey’s English of 1844, “adapted to the use of the English Church”: Pusey altered or left out Catholic matter, so it is a witness to his adaptation, not to Surin’s French. It has Pusey’s long Preface. The French original is not available as text in the corpus yet.",
-    "pt-BR": "O comentário de Surin às máximas da Imitação de Cristo, em cinco livros de perguntas e respostas (publicado pela primeira vez em 1667 sob o nome de Jean de Sainte-Foy), com uma carta espiritual a uma dama de alta posição. É o inglês de E. B. Pusey, de 1844, « adaptado ao uso da Igreja Inglesa »: Pusey alterou ou omitiu matéria católica, de modo que é testemunho da sua adaptação, não do francês de Surin."
+    "pt-BR": "O comentário de Surin às máximas da Imitação de Cristo, em cinco livros de perguntas e respostas (publicado pela primeira vez em 1667 sob o nome de Jean de Sainte-Foy), com uma carta espiritual a uma dama de alta posição. Esta é a versão inglesa de E. B. Pusey, de 1844, “adaptada ao uso da Igreja Inglesa”: Pusey alterou ou omitiu matéria católica, de modo que ela é testemunho de sua adaptação, não do francês de Surin. Inclui o longo Prefácio de Pusey. O original francês ainda não está disponível como texto no corpus."
   },
   "composed": "1667",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "surin/fondements-de-la-vie-spirituelle",
   "editions": {
     "en-US": {
       "translator": "Anonymous, ed. E. B. Pusey (adapted to the use of the English Church)",
       "year": 1844
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,67 +44,78 @@
     {
       "id": "preface",
       "title": {
-        "en-US": "Preface by the Editor"
+        "en-US": "Preface by the Editor",
+        "pt-BR": "Prefácio do editor"
       }
     },
     {
       "id": "book-1",
       "title": {
-        "en-US": "Book I"
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
       },
       "children": [
         {
           "id": "b1-c01",
           "title": {
-            "en-US": "Book I, Chapter I. To walk inwardly with God, and not to be kept abroad by any outward affection, is the state of a spiritual man"
+            "en-US": "Book I, Chapter I. To walk inwardly with God, and not to be kept abroad by any outward affection, is the state of a spiritual man",
+            "pt-BR": "Livro I, Capítulo I. Caminhar interiormente com Deus e não ser levado para fora de si por nenhum afeto exterior é o estado do homem espiritual"
           }
         },
         {
           "id": "b1-c02",
           "title": {
-            "en-US": "Book I, Chapter II. If thou attain to the full contempt of thyself, know that thou shalt then enjoy abundance of peace"
+            "en-US": "Book I, Chapter II. If thou attain to the full contempt of thyself, know that thou shalt then enjoy abundance of peace",
+            "pt-BR": "Livro I, Capítulo II. Se chegares ao pleno desprezo de ti mesmo, sabe que então gozarás de abundância de paz"
           }
         },
         {
           "id": "b1-c03",
           "title": {
-            "en-US": "Book I, Chapter III. All things are comprised in these few words : Forsake all, and thou shalt find all"
+            "en-US": "Book I, Chapter III. All things are comprised in these few words : Forsake all, and thou shalt find all",
+            "pt-BR": "Livro I, Capítulo III. Todas as coisas estão compreendidas nestas poucas palavras: abandona tudo e encontrarás tudo"
           }
         },
         {
           "id": "b1-c04",
           "title": {
-            "en-US": "Book I, Chapter IV. The more thou withdrawest thyself from solace of creatures, the more will I heap upon thee spi ritual joys"
+            "en-US": "Book I, Chapter IV. The more thou withdrawest thyself from solace of creatures, the more will I heap upon thee spi ritual joys",
+            "pt-BR": "Livro I, Capítulo IV. Quanto mais te afastares da consolação das criaturas, tanto mais te cumularei de alegrias espirituais"
           }
         },
         {
           "id": "b1-c05",
           "title": {
-            "en-US": "Book I, Chapter V. Rejoice to be thought guilty, that you may be innocent in the sight of God"
+            "en-US": "Book I, Chapter V. Rejoice to be thought guilty, that you may be innocent in the sight of God",
+            "pt-BR": "Livro I, Capítulo V. Alegra-te de ser tido por culpado, para que sejas inocente aos olhos de Deus"
           }
         },
         {
           "id": "b1-c06",
           "title": {
-            "en-US": "Book I, Chapter VI. Set thyself always in the lowest place, and the highest shall be given thee"
+            "en-US": "Book I, Chapter VI. Set thyself always in the lowest place, and the highest shall be given thee",
+            "pt-BR": "Livro I, Capítulo VI. Coloca-te sempre no último lugar, e o primeiro te será dado"
           }
         },
         {
           "id": "b1-c07",
           "title": {
-            "en-US": "Book I, Chapter VII. I cause all devout persons to pass through severe trials"
+            "en-US": "Book I, Chapter VII. I cause all devout persons to pass through severe trials",
+            "pt-BR": "Livro I, Capítulo VII. Faço todas as pessoas devotas passarem por severas provações"
           }
         },
         {
           "id": "b1-c08",
           "title": {
-            "en-US": "Book I, Chapter VIII. It is matter of great skill to know to hold converse with Jesus ; and to know how to keep Jesus, a point of great wisdom"
+            "en-US": "Book I, Chapter VIII. It is matter of great skill to know to hold converse with Jesus ; and to know how to keep Jesus, a point of great wisdom",
+            "pt-BR": "Livro I, Capítulo VIII. Saber conversar com Jesus é uma grande arte; e saber conservar Jesus é uma grande sabedoria"
           }
         },
         {
           "id": "b1-c09",
           "title": {
-            "en-US": "Book I, Chapter IX. A certain person, by loving Me entirely, learned divine things, and spake that which was admirable. He profited more by forsaking all things, than in studying subtleties"
+            "en-US": "Book I, Chapter IX. A certain person, by loving Me entirely, learned divine things, and spake that which was admirable. He profited more by forsaking all things, than in studying subtleties",
+            "pt-BR": "Livro I, Capítulo IX. Certa pessoa, amando-Me inteiramente, aprendeu coisas divinas e disse coisas admiráveis. Aproveitou mais abandonando todas as coisas do que estudando sutilezas"
           }
         }
       ]
@@ -106,61 +123,71 @@
     {
       "id": "book-2",
       "title": {
-        "en-US": "Book II"
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
       },
       "children": [
         {
           "id": "b2-c01",
           "title": {
-            "en-US": "Book II, Chapter I. Learn to despise outward things, and to give thyself to things inward, and thou shalt perceive the kingdom of God to come in thee"
+            "en-US": "Book II, Chapter I. Learn to despise outward things, and to give thyself to things inward, and thou shalt perceive the kingdom of God to come in thee",
+            "pt-BR": "Livro II, Capítulo I. Aprende a desprezar as coisas exteriores e a dedicar-te às interiores, e perceberás que o reino de Deus vem a ti"
           }
         },
         {
           "id": "b2-c02",
           "title": {
-            "en-US": "Book II, Chapter II. He that judgeth of all things as they are, and not as they are said, or esteemed to be, is truly wise, and taught rather of God than men"
+            "en-US": "Book II, Chapter II. He that judgeth of all things as they are, and not as they are said, or esteemed to be, is truly wise, and taught rather of God than men",
+            "pt-BR": "Livro II, Capítulo II. Aquele que julga todas as coisas como são, e não como se diz ou se julga que sejam, é verdadeiramente sábio e ensinado antes por Deus do que pelos homens"
           }
         },
         {
           "id": "b2-c03",
           "title": {
-            "en-US": "Book II, Chapter III. The more holy violence thou usest against thyself, the greater shall be thy spiritual profiting"
+            "en-US": "Book II, Chapter III. The more holy violence thou usest against thyself, the greater shall be thy spiritual profiting",
+            "pt-BR": "Livro II, Capítulo III. Quanto mais santa violência fizeres a ti mesmo, maior será teu progresso espiritual"
           }
         },
         {
           "id": "b2-c04",
           "title": {
-            "en-US": "Book II, Chapter IV. Presume not upon thyself. B. i. c. 7-"
+            "en-US": "Book II, Chapter IV. Presume not upon thyself. B. i. c. 7-",
+            "pt-BR": "Livro II, Capítulo IV. Não presumas de ti mesmo. L. I, c. 7"
           }
         },
         {
           "id": "b2-c05",
           "title": {
-            "en-US": "Book II, Chapter V. False freedom of mind, and great confij dence in ourselves, are very contrary to heavenly visi| tations"
+            "en-US": "Book II, Chapter V. False freedom of mind, and great confij dence in ourselves, are very contrary to heavenly visi| tations",
+            "pt-BR": "Livro II, Capítulo V. A falsa liberdade de espírito e a grande confiança em nós mesmos são muito contrárias às visitas celestes"
           }
         },
         {
           "id": "b2-c06",
           "title": {
-            "en-US": "Book II, Chapter VI. In whatever instance a person seeketh | himself, then he falleth from love"
+            "en-US": "Book II, Chapter VI. In whatever instance a person seeketh | himself, then he falleth from love",
+            "pt-BR": "Livro II, Capítulo VI. Em tudo aquilo em que uma pessoa busca a si mesma, afasta-se do amor"
           }
         },
         {
           "id": "b2-c07",
           "title": {
-            "en-US": "Book II, Chapter VII. Simplicity doth tend towards God; Purity doth apprehend and, as it were, taste Him"
+            "en-US": "Book II, Chapter VII. Simplicity doth tend towards God; Purity doth apprehend and, as it were, taste Him",
+            "pt-BR": "Livro II, Capítulo VII. A simplicidade tende para Deus; a pureza O apreende e, por assim dizer, O saboreia"
           }
         },
         {
           "id": "b2-c08",
           "title": {
-            "en-US": "Book II, Chapter VIII. He that can best tell how to suffer, will best keep himself in peace"
+            "en-US": "Book II, Chapter VIII. He that can best tell how to suffer, will best keep himself in peace",
+            "pt-BR": "Livro II, Capítulo VIII. Aquele que melhor sabe sofrer melhor se conservará em paz"
           }
         },
         {
           "id": "b2-c09",
           "title": {
-            "en-US": "Book II, Chapter IX. What is not savoury unto him, to whom j Thou art pleasing ?"
+            "en-US": "Book II, Chapter IX. What is not savoury unto him, to whom j Thou art pleasing ?",
+            "pt-BR": "Livro II, Capítulo IX. Que não será saboroso para aquele a quem Vós agradais?"
           }
         }
       ]
@@ -168,61 +195,71 @@
     {
       "id": "book-3",
       "title": {
-        "en-US": "Book III"
+        "en-US": "Book III",
+        "pt-BR": "Livro III"
       },
       "children": [
         {
           "id": "b3-c01",
           "title": {
-            "en-US": "Book III, Chapter I. Wheresoever thou findest thyself, renounce thyself"
+            "en-US": "Book III, Chapter I. Wheresoever thou findest thyself, renounce thyself",
+            "pt-BR": "Livro III, Capítulo I. Onde quer que te encontres, renuncia a ti mesmo"
           }
         },
         {
           "id": "b3-c02",
           "title": {
-            "en-US": "Book III, Chapter II. It is, therefore, no small matter fora man to forsake himself even in the smallest things. B. iii. c. 39"
+            "en-US": "Book III, Chapter II. It is, therefore, no small matter fora man to forsake himself even in the smallest things. B. iii. c. 39",
+            "pt-BR": "Livro III, Capítulo II. Não é, portanto, pouca coisa um homem abandonar a si mesmo até nas menores coisas. L. III, c. 39"
           }
         },
         {
           "id": "b3-c03",
           "title": {
-            "en-US": "Book III, Chapter III. That I may not feel myself"
+            "en-US": "Book III, Chapter III. That I may not feel myself",
+            "pt-BR": "Livro III, Capítulo III. Para que eu não sinta a mim mesmo"
           }
         },
         {
           "id": "b3-c04",
           "title": {
-            "en-US": "Book III, Chapter IV. If thou wouldst perfectly empty thyself from all creatures, Jesus would willingly dwell with thee"
+            "en-US": "Book III, Chapter IV. If thou wouldst perfectly empty thyself from all creatures, Jesus would willingly dwell with thee",
+            "pt-BR": "Livro III, Capítulo IV. Se te esvaziasses perfeitamente de todas as criaturas, Jesus de boa vontade habitaria contigo"
           }
         },
         {
           "id": "b3-c05",
           "title": {
-            "en-US": "Book III, Chapter V. Where shall one be found who is willing to serve God for nought ? B. ii. c. 2 Ill"
+            "en-US": "Book III, Chapter V. Where shall one be found who is willing to serve God for nought ? B. ii. c. 2 Ill",
+            "pt-BR": "Livro III, Capítulo V. Onde se encontrará alguém disposto a servir a Deus sem recompensa? L. II, c. 2 111"
           }
         },
         {
           "id": "b3-c06",
           "title": {
-            "en-US": "Book III, Chapter VI. If thou seekest thyself, thou shalt also find thyself"
+            "en-US": "Book III, Chapter VI. If thou seekest thyself, thou shalt also find thyself",
+            "pt-BR": "Livro III, Capítulo VI. Se buscas a ti mesmo, também encontrarás a ti mesmo"
           }
         },
         {
           "id": "b3-c07",
           "title": {
-            "en-US": "Book III, Chapter VII. If thou dost more rely upon thine own reason or industry, than upon that power which brings thee under the obedience of Jesus Christ, it will be j long before thou become illuminated. B. i. c. 14 119 !"
+            "en-US": "Book III, Chapter VII. If thou dost more rely upon thine own reason or industry, than upon that power which brings thee under the obedience of Jesus Christ, it will be j long before thou become illuminated. B. i. c. 14 119 !",
+            "pt-BR": "Livro III, Capítulo VII. Se confias mais em tua própria razão ou em teu esforço do que naquele poder que te submete à obediência de Jesus Cristo, demorará muito até que sejas iluminado. L. I, c. 14 119"
           }
         },
         {
           "id": "b3-c08",
           "title": {
-            "en-US": "Book III, Chapter VIII. A true lover of Christ, and a diligent ! follower of virtue, does not fall back on comforts, nor [ seek such sensible sweetnesses"
+            "en-US": "Book III, Chapter VIII. A true lover of Christ, and a diligent ! follower of virtue, does not fall back on comforts, nor [ seek such sensible sweetnesses",
+            "pt-BR": "Livro III, Capítulo VIII. Um verdadeiro amante de Cristo e diligente seguidor da virtude não se apoia em consolações nem busca tais doçuras sensíveis"
           }
         },
         {
           "id": "b3-c09",
           "title": {
-            "en-US": "Book III, Chapter IX. 0 happy minds and blessed souls, who have the privilege of receiving Thee, their Lord God, i with devout affection, and in so receiving Thee are permitted to be full of spiritual joy ! 0 how great a Lord do they entertain ! how beloved a Guest do they harbour ! how delightful a Companion do they receive ! how faithful a Friend do they welcome ! how lovely and noble a Spouse do they embrace"
+            "en-US": "Book III, Chapter IX. 0 happy minds and blessed souls, who have the privilege of receiving Thee, their Lord God, i with devout affection, and in so receiving Thee are permitted to be full of spiritual joy ! 0 how great a Lord do they entertain ! how beloved a Guest do they harbour ! how delightful a Companion do they receive ! how faithful a Friend do they welcome ! how lovely and noble a Spouse do they embrace",
+            "pt-BR": "Livro III, Capítulo IX. Ó espíritos felizes e almas bem-aventuradas, que têm o privilégio de receber-Vos, seu Senhor Deus, com devoto afeto, e, recebendo-Vos assim, podem encher-se de alegria espiritual! Oh, quão grande Senhor acolhem! Que amado Hóspede abrigam! Que agradável Companheiro recebem! Que fiel Amigo acolhem! Que amável e nobre Esposo abraçam"
           }
         }
       ]
@@ -230,61 +267,71 @@
     {
       "id": "book-4",
       "title": {
-        "en-US": "Book IV"
+        "en-US": "Book IV",
+        "pt-BR": "Livro IV"
       },
       "children": [
         {
           "id": "b4-c01",
           "title": {
-            "en-US": "Book IV, Chapter I. For a long while shall he be small, and lie grovelling below, whoever he be, that esteemeth any thing great but the One only Infinite Eternal Good"
+            "en-US": "Book IV, Chapter I. For a long while shall he be small, and lie grovelling below, whoever he be, that esteemeth any thing great but the One only Infinite Eternal Good",
+            "pt-BR": "Livro IV, Capítulo I. Por muito tempo será pequeno e jazerá rastejando cá embaixo, seja quem for, aquele que tiver por grande alguma coisa além do único Bem Infinito e Eterno"
           }
         },
         {
           "id": "b4-c02",
           "title": {
-            "en-US": "Book IV, Chapter II. If thou dost walk spiritually, thou wilt not much weigh fleeting words"
+            "en-US": "Book IV, Chapter II. If thou dost walk spiritually, thou wilt not much weigh fleeting words",
+            "pt-BR": "Livro IV, Capítulo II. Se caminhas espiritualmente, não darás muito peso a palavras passageiras"
           }
         },
         {
           "id": "b4-c03",
           "title": {
-            "en-US": "Book IV, Chapter III. For that is the cause why there are so few contemplative men to be found, for that few can wholly withdraw themselves from things created and perishing"
+            "en-US": "Book IV, Chapter III. For that is the cause why there are so few contemplative men to be found, for that few can wholly withdraw themselves from things created and perishing",
+            "pt-BR": "Livro IV, Capítulo III. Eis a razão de se encontrarem tão poucos homens contemplativos: poucos sabem afastar-se inteiramente das coisas criadas e perecíveis"
           }
         },
         {
           "id": "b4-c04",
           "title": {
-            "en-US": "Book IV, Chapter IV. As to be void of all desire of external things produceth inward peace, so the forsaking of ourselves inwardly, joineth us unto God"
+            "en-US": "Book IV, Chapter IV. As to be void of all desire of external things produceth inward peace, so the forsaking of ourselves inwardly, joineth us unto God",
+            "pt-BR": "Livro IV, Capítulo IV. Assim como estar livre de todo desejo das coisas exteriores produz a paz interior, também o abandono interior de nós mesmos nos une a Deus"
           }
         },
         {
           "id": "b4-c05",
           "title": {
-            "en-US": "Book IV, Chapter V. He that loveth with all his heart, is neither afraid of death, nor punishment, nor of judgment, nor of hell"
+            "en-US": "Book IV, Chapter V. He that loveth with all his heart, is neither afraid of death, nor punishment, nor of judgment, nor of hell",
+            "pt-BR": "Livro IV, Capítulo V. Aquele que ama de todo o coração não teme a morte, nem o castigo, nem o juízo, nem o inferno"
           }
         },
         {
           "id": "b4-c06",
           "title": {
-            "en-US": "Book IV, Chapter VI. Give all for all ; seek nothing ; require back nothing ; abide purely and with a firm confidence in Me, and thou shalt possess Me"
+            "en-US": "Book IV, Chapter VI. Give all for all ; seek nothing ; require back nothing ; abide purely and with a firm confidence in Me, and thou shalt possess Me",
+            "pt-BR": "Livro IV, Capítulo VI. Dá tudo por tudo; nada busques; nada peças de volta; permanece puramente e com firme confiança em Mim, e Me possuirás"
           }
         },
         {
           "id": "b4-c07",
           "title": {
-            "en-US": "Book IV, Chapter VII. He to whom the Eternal Word speaketh, is delivered from a world of unnecessary conceptions"
+            "en-US": "Book IV, Chapter VII. He to whom the Eternal Word speaketh, is delivered from a world of unnecessary conceptions",
+            "pt-BR": "Livro IV, Capítulo VII. Aquele a quem o Verbo Eterno fala é libertado de um mundo de concepções desnecessárias"
           }
         },
         {
           "id": "b4-c08",
           "title": {
-            "en-US": "Book IV, Chapter VIII. If it were well with thee, and thou wert well purified from sin, all things would fall out to thee for good, and to thy advancement in holiness"
+            "en-US": "Book IV, Chapter VIII. If it were well with thee, and thou wert well purified from sin, all things would fall out to thee for good, and to thy advancement in holiness",
+            "pt-BR": "Livro IV, Capítulo VIII. Se estivesses bem e bem purificado do pecado, todas as coisas te aconteceriam para teu bem e para teu progresso na santidade"
           }
         },
         {
           "id": "b4-c09",
           "title": {
-            "en-US": "Book IV, Chapter IX. A perfect contempt of the world, .will give us great confidence we shall die happily"
+            "en-US": "Book IV, Chapter IX. A perfect contempt of the world, .will give us great confidence we shall die happily",
+            "pt-BR": "Livro IV, Capítulo IX. Um perfeito desprezo do mundo nos dará grande confiança de que morreremos felizes"
           }
         }
       ]
@@ -292,91 +339,106 @@
     {
       "id": "book-5",
       "title": {
-        "en-US": "Book V"
+        "en-US": "Book V",
+        "pt-BR": "Livro V"
       },
       "children": [
         {
           "id": "b5-c01",
           "title": {
-            "en-US": "Book V, Chapter I. Desire to be unknown"
+            "en-US": "Book V, Chapter I. Desire to be unknown",
+            "pt-BR": "Livro V, Capítulo I. Deseja ser desconhecido"
           }
         },
         {
           "id": "b5-c02",
           "title": {
-            "en-US": "Book V, Chapter II. From that One Word are all things, and all speak that One"
+            "en-US": "Book V, Chapter II. From that One Word are all things, and all speak that One",
+            "pt-BR": "Livro V, Capítulo II. Daquele único Verbo procedem todas as coisas, e todas falam daquele único Verbo"
           }
         },
         {
           "id": "b5-c03",
           "title": {
-            "en-US": "Book V, Chapter III. Thou oughtest to give all for all, and to retain nothing of thyself"
+            "en-US": "Book V, Chapter III. Thou oughtest to give all for all, and to retain nothing of thyself",
+            "pt-BR": "Livro V, Capítulo III. Deves dar tudo por tudo e nada reter de ti mesmo"
           }
         },
         {
           "id": "b5-c04",
           "title": {
-            "en-US": "Book V, Chapter IV. The more thou canst go out of thyself, so much the more wilt thou be able to enter into Me"
+            "en-US": "Book V, Chapter IV. The more thou canst go out of thyself, so much the more wilt thou be able to enter into Me",
+            "pt-BR": "Livro V, Capítulo IV. Quanto mais puderes sair de ti mesmo, tanto mais poderás entrar em Mim"
           }
         },
         {
           "id": "b5-c05",
           "title": {
-            "en-US": "Book V, Chapter V. He that endeavours to withdraw himself from obedience, withdraweth himself from Grace ; and he who seeketh for himself private benefits, loseth those which are common"
+            "en-US": "Book V, Chapter V. He that endeavours to withdraw himself from obedience, withdraweth himself from Grace ; and he who seeketh for himself private benefits, loseth those which are common",
+            "pt-BR": "Livro V, Capítulo V. Aquele que procura afastar-se da obediência afasta-se da Graça; e aquele que busca para si benefícios particulares perde os que são comuns"
           }
         },
         {
           "id": "b5-c06",
           "title": {
-            "en-US": "Book V, Chapter VI. There is great difference between the wisdom of an illuminated and devout man, and the knowledge of a learned and studious clerk"
+            "en-US": "Book V, Chapter VI. There is great difference between the wisdom of an illuminated and devout man, and the knowledge of a learned and studious clerk",
+            "pt-BR": "Livro V, Capítulo VI. Há grande diferença entre a sabedoria de um homem iluminado e devoto e o conhecimento de um clérigo erudito e estudioso"
           }
         },
         {
           "id": "b5-c07",
           "title": {
-            "en-US": "Book V, Chapter VII. If thou hadst but once perfectly entered into the secrets of the Lord Jesus, and tasted a little of His ardent love, &c"
+            "en-US": "Book V, Chapter VII. If thou hadst but once perfectly entered into the secrets of the Lord Jesus, and tasted a little of His ardent love, &c",
+            "pt-BR": "Livro V, Capítulo VII. Se uma só vez tivesses entrado perfeitamente nos segredos do Senhor Jesus e saboreado um pouco de Seu ardente amor, etc."
           }
         },
         {
           "id": "b5-c08",
           "title": {
-            "en-US": "Book V, Chapter VIII. Drink of the Lord’s cup heartily.. As for comforts, leave them to God"
+            "en-US": "Book V, Chapter VIII. Drink of the Lord’s cup heartily.. As for comforts, leave them to God",
+            "pt-BR": "Livro V, Capítulo VIII. Bebe de coração o cálice do Senhor. Quanto às consolações, deixa-as a Deus"
           }
         },
         {
           "id": "b5-c09",
           "title": {
-            "en-US": "Book V, Chapter IX. God will have us perfectly subject unto Him, that being inflamed with his love, we may transcend the narrow limits of human reason"
+            "en-US": "Book V, Chapter IX. God will have us perfectly subject unto Him, that being inflamed with his love, we may transcend the narrow limits of human reason",
+            "pt-BR": "Livro V, Capítulo IX. Deus quer que estejamos perfeitamente sujeitos a Ele, para que, inflamados por Seu amor, possamos transcender os estreitos limites da razão humana"
           }
         },
         {
           "id": "b5-c10",
           "title": {
-            "en-US": "Book V, Chapter X. He is truly learned, that doeth the will of God. B. i. c. 14 201 OF THE FOUNDATION OF THE WHOLE SPIRITUAL LIFE, WHICH IS HUMILITY"
+            "en-US": "Book V, Chapter X. He is truly learned, that doeth the will of God. B. i. c. 14 201 OF THE FOUNDATION OF THE WHOLE SPIRITUAL LIFE, WHICH IS HUMILITY",
+            "pt-BR": "Livro V, Capítulo X. É verdadeiramente sábio aquele que faz a vontade de Deus. L. I, c. 14 201 DO FUNDAMENTO DE TODA A VIDA ESPIRITUAL, QUE É A HUMILDADE"
           }
         },
         {
           "id": "b5-c11",
           "title": {
-            "en-US": "Book V, Chapter XI. A man’s worthiness is not to be estimated by the number of visions and comforts which he may have, or by his skill in the Scriptures, or by his being placed in a higher station than others ; but the proof is, if he be grounded in true humility. B. iii. c. 7 207 OF THE PERFECT USE OF FAITH"
+            "en-US": "Book V, Chapter XI. A man’s worthiness is not to be estimated by the number of visions and comforts which he may have, or by his skill in the Scriptures, or by his being placed in a higher station than others ; but the proof is, if he be grounded in true humility. B. iii. c. 7 207 OF THE PERFECT USE OF FAITH",
+            "pt-BR": "Livro V, Capítulo XI. O valor de um homem não deve ser avaliado pelo número de visões e consolações que possa ter, nem por seu conhecimento das Escrituras, nem por estar numa posição mais elevada do que os outros; a prova, porém, está em que seja fundado na verdadeira humildade. L. III, c. 7 207 DO PERFEITO USO DA FÉ"
           }
         },
         {
           "id": "b5-c12",
           "title": {
-            "en-US": "Book V, Chapter XII. Endeavour to withdraw thy heart from the love of visible things, and to turn thyself to the invisible. B. i c. 1 213 OF THE REMEMBRANCE OF THE PASSION OF OUR LORD"
+            "en-US": "Book V, Chapter XII. Endeavour to withdraw thy heart from the love of visible things, and to turn thyself to the invisible. B. i c. 1 213 OF THE REMEMBRANCE OF THE PASSION OF OUR LORD",
+            "pt-BR": "Livro V, Capítulo XII. Esforça-te por afastar teu coração do amor das coisas visíveis e voltar-te para as invisíveis. L. I, c. 1 213 DA LEMBRANÇA DA PAIXÃO DE NOSSO SENHOR"
           }
         },
         {
           "id": "b5-c13",
           "title": {
-            "en-US": "Book V, Chapter XIII. If thou canst not contemplate high and heavenly things, rest thyself in the passion of Christ, and dwell willingly in His sacred wounds. B. ii. c. 1.. . 217 OF THE GOOD THINGS, FOR WHICH THOSE WHO EMBRACE VIRTUE MAY HOPE IN THIS LIFE"
+            "en-US": "Book V, Chapter XIII. If thou canst not contemplate high and heavenly things, rest thyself in the passion of Christ, and dwell willingly in His sacred wounds. B. ii. c. 1.. . 217 OF THE GOOD THINGS, FOR WHICH THOSE WHO EMBRACE VIRTUE MAY HOPE IN THIS LIFE",
+            "pt-BR": "Livro V, Capítulo XIII. Se não podes contemplar coisas elevadas e celestes, repousa na paixão de Cristo e demora-te de boa vontade em Suas sagradas chagas. L. II, c. 1 217 DOS BENS QUE AQUELES QUE ABRAÇAM A VIRTUDE PODEM ESPERAR NESTA VIDA"
           }
         },
         {
           "id": "b5-c14",
           "title": {
-            "en-US": "Book V, Chapter XIV. Great grace shall be given to those who shall have willingly subjected themselves to Thy most holy service. They who for thy love shall have renounced all carnal delights, shall find the sweetest consolations of the Holy Ghost. B. iii. c. 10 220 A spiritual letter to a lady of rank 227 THE"
+            "en-US": "Book V, Chapter XIV. Great grace shall be given to those who shall have willingly subjected themselves to Thy most holy service. They who for thy love shall have renounced all carnal delights, shall find the sweetest consolations of the Holy Ghost. B. iii. c. 10 220 A spiritual letter to a lady of rank 227 THE",
+            "pt-BR": "Livro V, Capítulo XIV. Grande graça será dada àqueles que se tiverem submetido de boa vontade ao Vosso santíssimo serviço. Aqueles que por Vosso amor tiverem renunciado a todas as delícias carnais encontrarão as mais doces consolações do Espírito Santo. L. III, c. 10 220 Uma carta espiritual a uma dama de alta posição 227 OS"
           }
         }
       ]
@@ -384,7 +446,8 @@
     {
       "id": "lettre",
       "title": {
-        "en-US": "A Spiritual Letter to a Lady of Rank"
+        "en-US": "A Spiritual Letter to a Lady of Rank",
+        "pt-BR": "Uma carta espiritual a uma dama de alta posição"
       }
     }
   ]
