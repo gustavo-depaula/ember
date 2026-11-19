@@ -18,13 +18,19 @@
   },
   "composed": "c. 1425-1440",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "thomas-a-kempis/alphabetum-monachi",
   "editions": {
     "la": {
       "editor": "Michael Joseph Pohl",
       "year": 1904
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,7 +47,8 @@
     {
       "id": "alphabetum",
       "title": {
-        "la": "Parvum alphabetum monachi in schola Dei"
+        "la": "Parvum alphabetum monachi in schola Dei",
+        "pt-BR": "O pequeno alfabeto do monge na escola de Deus"
       }
     }
   ]
