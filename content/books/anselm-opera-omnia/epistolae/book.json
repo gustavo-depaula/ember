@@ -17,6 +17,11 @@
     "la": {
       "editor": "J.-P. Migne (Patrologia Latina 158)",
       "year": 1853
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -35,475 +40,554 @@
     "pt-BR": "Santo Anselmo de Cantuária"
   },
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "toc": [
     {
       "id": "liber-1",
       "title": {
-        "la": "Liber I. Epistolae Anselmi nondum abbatis"
+        "la": "Liber I. Epistolae Anselmi nondum abbatis",
+        "pt-BR": "Livro I. Cartas de Anselmo antes de ser abade"
       },
       "children": [
         {
           "id": "l1-e001",
           "title": {
-            "la": "Epistola I. Ad Lanfrancum"
+            "la": "Epistola I. Ad Lanfrancum",
+            "pt-BR": "Carta I. A Lanfranco"
           }
         },
         {
           "id": "l1-e002",
           "title": {
-            "la": "Epistola II. Ad Odonem et Lanzonem"
+            "la": "Epistola II. Ad Odonem et Lanzonem",
+            "pt-BR": "Carta II. A Odo e Lanzão"
           }
         },
         {
           "id": "l1-e003",
           "title": {
-            "la": "Epistola III. Ad Robertum Monachum"
+            "la": "Epistola III. Ad Robertum Monachum",
+            "pt-BR": "Carta III. Ao monge Roberto"
           }
         },
         {
           "id": "l1-e004",
           "title": {
-            "la": "Epistola IV. Ad Gondulphum"
+            "la": "Epistola IV. Ad Gondulphum",
+            "pt-BR": "Carta IV. A Gondulfo"
           }
         },
         {
           "id": "l1-e005",
           "title": {
-            "la": "Epistola V. Ad Henricum"
+            "la": "Epistola V. Ad Henricum",
+            "pt-BR": "Carta V. A Henrique"
           }
         },
         {
           "id": "l1-e006",
           "title": {
-            "la": "Epistola VI. Ad Hugonem"
+            "la": "Epistola VI. Ad Hugonem",
+            "pt-BR": "Carta VI. A Hugo"
           }
         },
         {
           "id": "l1-e007",
           "title": {
-            "la": "Epistola VII. Ad Gondulfum"
+            "la": "Epistola VII. Ad Gondulfum",
+            "pt-BR": "Carta VII. A Gondulfo"
           }
         },
         {
           "id": "l1-e008",
           "title": {
-            "la": "Epistola VIII. Ad Herluinum"
+            "la": "Epistola VIII. Ad Herluinum",
+            "pt-BR": "Carta VIII. A Herluíno"
           }
         },
         {
           "id": "l1-e009",
           "title": {
-            "la": "Epistola IX. Ad Gerbertum Abbatem"
+            "la": "Epistola IX. Ad Gerbertum Abbatem",
+            "pt-BR": "Carta IX. Ao abade Gerberto"
           }
         },
         {
           "id": "l1-e010",
           "title": {
-            "la": "Epistola X. Ad Rodulfum"
+            "la": "Epistola X. Ad Rodulfum",
+            "pt-BR": "Carta X. A Rodolfo"
           }
         },
         {
           "id": "l1-e011",
           "title": {
-            "la": "Epistola XI. Ad eumdem"
+            "la": "Epistola XI. Ad eumdem",
+            "pt-BR": "Carta XI. Ao mesmo"
           }
         },
         {
           "id": "l1-e012",
           "title": {
-            "la": "Epistola XII. Ad Lanfrancum"
+            "la": "Epistola XII. Ad Lanfrancum",
+            "pt-BR": "Carta XII. A Lanfranco"
           }
         },
         {
           "id": "l1-e013",
           "title": {
-            "la": "Epistola XIII. Ad Girardum"
+            "la": "Epistola XIII. Ad Girardum",
+            "pt-BR": "Carta XIII. A Girardo"
           }
         },
         {
           "id": "l1-e014",
           "title": {
-            "la": "Epistola XIV. Ad Gondulfum. . 4 et 7 Supra"
+            "la": "Epistola XIV. Ad Gondulfum. . 4 et 7 Supra",
+            "pt-BR": "Carta XIV. A Gondulfo. . 4 e 7 acima"
           }
         },
         {
           "id": "l1-e015",
           "title": {
-            "la": "Epistola XV. Ad Henricum"
+            "la": "Epistola XV. Ad Henricum",
+            "pt-BR": "Carta XV. A Henrique"
           }
         },
         {
           "id": "l1-e016",
           "title": {
-            "la": "Epistola XVI. Ad Avesgotum"
+            "la": "Epistola XVI. Ad Avesgotum",
+            "pt-BR": "Carta XVI. A Avesgoto"
           }
         },
         {
           "id": "l1-e017",
           "title": {
-            "la": "Epistola XVII. Ad Guillelmum et Rogerium"
+            "la": "Epistola XVII. Ad Guillelmum et Rogerium",
+            "pt-BR": "Carta XVII. A Guilherme e Rogério"
           }
         },
         {
           "id": "l1-e018",
           "title": {
-            "la": "Epistola XVIII. Ad Lambertum et Folceradum Avunculos suos"
+            "la": "Epistola XVIII. Ad Lambertum et Folceradum Avunculos suos",
+            "pt-BR": "Carta XVIII. A Lamberto e Folceraldo, seus tios maternos"
           }
         },
         {
           "id": "l1-e019",
           "title": {
-            "la": "Epistola XIX. Ad Lanfrancum"
+            "la": "Epistola XIX. Ad Lanfrancum",
+            "pt-BR": "Carta XIX. A Lanfranco"
           }
         },
         {
           "id": "l1-e020",
           "title": {
-            "la": "Epistola XX. Ad Gondulfum"
+            "la": "Epistola XX. Ad Gondulfum",
+            "pt-BR": "Carta XX. A Gondulfo"
           }
         },
         {
           "id": "l1-e021",
           "title": {
-            "la": "Epistola XXI. Ad Rodulphum"
+            "la": "Epistola XXI. Ad Rodulphum",
+            "pt-BR": "Carta XXI. A Rodolfo"
           }
         },
         {
           "id": "l1-e022",
           "title": {
-            "la": "Epistola XXII. Lanfranci ad Anselmum"
+            "la": "Epistola XXII. Lanfranci ad Anselmum",
+            "pt-BR": "Carta XXII. De Lanfranco a Anselmo"
           }
         },
         {
           "id": "l1-e023",
           "title": {
-            "la": "Epistola XXIII. Lanfranci ad Lanfrancum et Guidonem"
+            "la": "Epistola XXIII. Lanfranci ad Lanfrancum et Guidonem",
+            "pt-BR": "Carta XXIII. De Lanfranco a Lanfranco e Guido"
           }
         },
         {
           "id": "l1-e024",
           "title": {
-            "la": "Epistola XXIV. Anselmi ad Lanfrancum. . 19 et 22"
+            "la": "Epistola XXIV. Anselmi ad Lanfrancum. . 19 et 22",
+            "pt-BR": "Carta XXIV. De Anselmo a Lanfranco. . 19 e 22"
           }
         },
         {
           "id": "l1-e025",
           "title": {
-            "la": "Epistola XXV. Ad Henricum"
+            "la": "Epistola XXV. Ad Henricum",
+            "pt-BR": "Carta XXV. A Henrique"
           }
         },
         {
           "id": "l1-e026",
           "title": {
-            "la": "Epistola XXVI. Ad Gondulfum"
+            "la": "Epistola XXVI. Ad Gondulfum",
+            "pt-BR": "Carta XXVI. A Gondulfo"
           }
         },
         {
           "id": "l1-e027",
           "title": {
-            "la": "Epistola XXVII. Ad Herluinum"
+            "la": "Epistola XXVII. Ad Herluinum",
+            "pt-BR": "Carta XXVII. A Herluíno"
           }
         },
         {
           "id": "l1-e028",
           "title": {
-            "la": "Epistola XXVIII. Ad Albertum"
+            "la": "Epistola XXVIII. Ad Albertum",
+            "pt-BR": "Carta XXVIII. A Alberto"
           }
         },
         {
           "id": "l1-e029",
           "title": {
-            "la": "Epistola XXIX. Ad Lanzonem"
+            "la": "Epistola XXIX. Ad Lanzonem",
+            "pt-BR": "Carta XXIX. A Lanzão"
           }
         },
         {
           "id": "l1-e030",
           "title": {
-            "la": "Epistola XXX. Ad Arnulfum"
+            "la": "Epistola XXX. Ad Arnulfum",
+            "pt-BR": "Carta XXX. A Arnulfo"
           }
         },
         {
           "id": "l1-e031",
           "title": {
-            "la": "Epistola XXXI. Ad Lanfrancum"
+            "la": "Epistola XXXI. Ad Lanfrancum",
+            "pt-BR": "Carta XXXI. A Lanfranco"
           }
         },
         {
           "id": "l1-e032",
           "title": {
-            "la": "Epistola XXXII. Ad Henricum"
+            "la": "Epistola XXXII. Ad Henricum",
+            "pt-BR": "Carta XXXII. A Henrique"
           }
         },
         {
           "id": "l1-e033",
           "title": {
-            "la": "Epistola XXXIII. Ad Gondulfum"
+            "la": "Epistola XXXIII. Ad Gondulfum",
+            "pt-BR": "Carta XXXIII. A Gondulfo"
           }
         },
         {
           "id": "l1-e034",
           "title": {
-            "la": "Epistola XXXIV. Ad Mauritium"
+            "la": "Epistola XXXIV. Ad Mauritium",
+            "pt-BR": "Carta XXXIV. A Maurício"
           }
         },
         {
           "id": "l1-e035",
           "title": {
-            "la": "Epistola XXXV. Ad Mauritium"
+            "la": "Epistola XXXV. Ad Mauritium",
+            "pt-BR": "Carta XXXV. A Maurício"
           }
         },
         {
           "id": "l1-e036",
           "title": {
-            "la": "Epistola XXXVI. Ad Albertum"
+            "la": "Epistola XXXVI. Ad Albertum",
+            "pt-BR": "Carta XXXVI. A Alberto"
           }
         },
         {
           "id": "l1-e037",
           "title": {
-            "la": "Epistola XXXVII. Ad Frodelinam"
+            "la": "Epistola XXXVII. Ad Frodelinam",
+            "pt-BR": "Carta XXXVII. A Frodelina"
           }
         },
         {
           "id": "l1-e038",
           "title": {
-            "la": "Epistola XXXVIII. Ad Guillelmum"
+            "la": "Epistola XXXVIII. Ad Guillelmum",
+            "pt-BR": "Carta XXXVIII. A Guilherme"
           }
         },
         {
           "id": "l1-e039",
           "title": {
-            "la": "Epistola XXXIX. Ad Mauritium"
+            "la": "Epistola XXXIX. Ad Mauritium",
+            "pt-BR": "Carta XXXIX. A Maurício"
           }
         },
         {
           "id": "l1-e040",
           "title": {
-            "la": "Epistola XL. Ad Helgotum"
+            "la": "Epistola XL. Ad Helgotum",
+            "pt-BR": "Carta XL. A Helgoto"
           }
         },
         {
           "id": "l1-e041",
           "title": {
-            "la": "Epistola XLI. Ad Lanfrancum"
+            "la": "Epistola XLI. Ad Lanfrancum",
+            "pt-BR": "Carta XLI. A Lanfranco"
           }
         },
         {
           "id": "l1-e042",
           "title": {
-            "la": "Epistola XLII. Ad Henricum"
+            "la": "Epistola XLII. Ad Henricum",
+            "pt-BR": "Carta XLII. A Henrique"
           }
         },
         {
           "id": "l1-e043",
           "title": {
-            "la": "Epistola XLIII. Ad Herluinum, Gondulfum et Mauritium"
+            "la": "Epistola XLIII. Ad Herluinum, Gondulfum et Mauritium",
+            "pt-BR": "Carta XLIII. A Herluíno, Gondulfo e Maurício"
           }
         },
         {
           "id": "l1-e044",
           "title": {
-            "la": "Epistola XLIV. Ad Hernostum"
+            "la": "Epistola XLIV. Ad Hernostum",
+            "pt-BR": "Carta XLIV. A Ernosto"
           }
         },
         {
           "id": "l1-e045",
           "title": {
-            "la": "Epistola XLV. Ad Lambertum et Folceraldum"
+            "la": "Epistola XLV. Ad Lambertum et Folceraldum",
+            "pt-BR": "Carta XLV. A Lamberto e Folceraldo"
           }
         },
         {
           "id": "l1-e046",
           "title": {
-            "la": "Epistola XLVI. Ad Folceraldum"
+            "la": "Epistola XLVI. Ad Folceraldum",
+            "pt-BR": "Carta XLVI. A Folceraldo"
           }
         },
         {
           "id": "l1-e047",
           "title": {
-            "la": "Epistola XLVII. Ad Petrum"
+            "la": "Epistola XLVII. Ad Petrum",
+            "pt-BR": "Carta XLVII. A Pedro"
           }
         },
         {
           "id": "l1-e048",
           "title": {
-            "la": "Epistola XLVIII. Ad Lanfrancum"
+            "la": "Epistola XLVIII. Ad Lanfrancum",
+            "pt-BR": "Carta XLVIII. A Lanfranco"
           }
         },
         {
           "id": "l1-e049",
           "title": {
-            "la": "Epistola XLIX. Ad Henricum"
+            "la": "Epistola XLIX. Ad Henricum",
+            "pt-BR": "Carta XLIX. A Henrique"
           }
         },
         {
           "id": "l1-e050",
           "title": {
-            "la": "Epistola L. Ad Gondulfum"
+            "la": "Epistola L. Ad Gondulfum",
+            "pt-BR": "Carta L. A Gondulfo"
           }
         },
         {
           "id": "l1-e051",
           "title": {
-            "la": "Epistola LI. Ad Mauritium"
+            "la": "Epistola LI. Ad Mauritium",
+            "pt-BR": "Carta LI. A Maurício"
           }
         },
         {
           "id": "l1-e052",
           "title": {
-            "la": "Epistola LII. Ad Fulconum"
+            "la": "Epistola LII. Ad Fulconum",
+            "pt-BR": "Carta LII. A Fulco"
           }
         },
         {
           "id": "l1-e053",
           "title": {
-            "la": "Epistola LIII. Ad Gualterum"
+            "la": "Epistola LIII. Ad Gualterum",
+            "pt-BR": "Carta LIII. A Gualtério"
           }
         },
         {
           "id": "l1-e054",
           "title": {
-            "la": "Epistola LIV. Ad Henricum"
+            "la": "Epistola LIV. Ad Henricum",
+            "pt-BR": "Carta LIV. A Henrique"
           }
         },
         {
           "id": "l1-e055",
           "title": {
-            "la": "Epistola LV. Ad Mauritium"
+            "la": "Epistola LV. Ad Mauritium",
+            "pt-BR": "Carta LV. A Maurício"
           }
         },
         {
           "id": "l1-e056",
           "title": {
-            "la": "Epistola LVI. Ad Guillelmum"
+            "la": "Epistola LVI. Ad Guillelmum",
+            "pt-BR": "Carta LVI. A Guilherme"
           }
         },
         {
           "id": "l1-e057",
           "title": {
-            "la": "Epistola LVII. Ad Lanfrancum"
+            "la": "Epistola LVII. Ad Lanfrancum",
+            "pt-BR": "Carta LVII. A Lanfranco"
           }
         },
         {
           "id": "l1-e058",
           "title": {
-            "la": "Epistola LVIII. Ad Henricum"
+            "la": "Epistola LVIII. Ad Henricum",
+            "pt-BR": "Carta LVIII. A Henrique"
           }
         },
         {
           "id": "l1-e059",
           "title": {
-            "la": "Epistola LIX. Ad Gondulfum"
+            "la": "Epistola LIX. Ad Gondulfum",
+            "pt-BR": "Carta LIX. A Gondulfo"
           }
         },
         {
           "id": "l1-e060",
           "title": {
-            "la": "Epistola LX. Ad Mauritium"
+            "la": "Epistola LX. Ad Mauritium",
+            "pt-BR": "Carta LX. A Maurício"
           }
         },
         {
           "id": "l1-e061",
           "title": {
-            "la": "Epistola LXI. Durandi ad Anselmum"
+            "la": "Epistola LXI. Durandi ad Anselmum",
+            "pt-BR": "Carta LXI. De Durando a Anselmo"
           }
         },
         {
           "id": "l1-e062",
           "title": {
-            "la": "Epistola LXII. Ad Durandum"
+            "la": "Epistola LXII. Ad Durandum",
+            "pt-BR": "Carta LXII. A Durando"
           }
         },
         {
           "id": "l1-e063",
           "title": {
-            "la": "Epistola LXIII. Ad Lanfrancum"
+            "la": "Epistola LXIII. Ad Lanfrancum",
+            "pt-BR": "Carta LXIII. A Lanfranco"
           }
         },
         {
           "id": "l1-e064",
           "title": {
-            "la": "Epistola LXIV. Ad Henricum"
+            "la": "Epistola LXIV. Ad Henricum",
+            "pt-BR": "Carta LXIV. A Henrique"
           }
         },
         {
           "id": "l1-e065",
           "title": {
-            "la": "Epistola LXV. Ad Mauritium"
+            "la": "Epistola LXV. Ad Mauritium",
+            "pt-BR": "Carta LXV. A Maurício"
           }
         },
         {
           "id": "l1-e066",
           "title": {
-            "la": "Epistola LXVI. Ad Lanfrancum"
+            "la": "Epistola LXVI. Ad Lanfrancum",
+            "pt-BR": "Carta LXVI. A Lanfranco"
           }
         },
         {
           "id": "l1-e067",
           "title": {
-            "la": "Epistola LXVII. Ad Rogerium"
+            "la": "Epistola LXVII. Ad Rogerium",
+            "pt-BR": "Carta LXVII. A Rogério"
           }
         },
         {
           "id": "l1-e068",
           "title": {
-            "la": "Epistola LXVIII. Ad Lanfrancum"
+            "la": "Epistola LXVIII. Ad Lanfrancum",
+            "pt-BR": "Carta LXVIII. A Lanfranco"
           }
         },
         {
           "id": "l1-e069",
           "title": {
-            "la": "Epistola LXIX. Ad Gondulfum"
+            "la": "Epistola LXIX. Ad Gondulfum",
+            "pt-BR": "Carta LXIX. A Gondulfo"
           }
         },
         {
           "id": "l1-e070",
           "title": {
-            "la": "Epistola LXX. Ad Mauritium"
+            "la": "Epistola LXX. Ad Mauritium",
+            "pt-BR": "Carta LXX. A Maurício"
           }
         },
         {
           "id": "l1-e071",
           "title": {
-            "la": "Epistola LXXI. Ad Paulum"
+            "la": "Epistola LXXI. Ad Paulum",
+            "pt-BR": "Carta LXXI. A Paulo"
           }
         },
         {
           "id": "l1-e072",
           "title": {
-            "la": "Epistola LXXII. Ad Humfridum"
+            "la": "Epistola LXXII. Ad Humfridum",
+            "pt-BR": "Carta LXXII. A Unfredo"
           }
         },
         {
           "id": "l1-e073",
           "title": {
-            "la": "Epistola LXXIII. Ad Idam"
+            "la": "Epistola LXXIII. Ad Idam",
+            "pt-BR": "Carta LXXIII. A Ida"
           }
         },
         {
           "id": "l1-e074",
           "title": {
-            "la": "Epistola LXXIV. Ad Rainaldum"
+            "la": "Epistola LXXIV. Ad Rainaldum",
+            "pt-BR": "Carta LXXIV. A Reinaldo"
           }
         },
         {
           "id": "l1-e075",
           "title": {
-            "la": "Epistola LXXV. Ad Gilbertum"
+            "la": "Epistola LXXV. Ad Gilbertum",
+            "pt-BR": "Carta LXXV. A Gilberto"
           }
         },
         {
           "id": "l1-e076",
           "title": {
-            "la": "Epistola LXXVI. Ad Gualterum"
+            "la": "Epistola LXXVI. Ad Gualterum",
+            "pt-BR": "Carta LXXVI. A Gualtério"
           }
         },
         {
           "id": "l1-e077",
           "title": {
-            "la": "Epistola LXXVII. Ad Adalam"
+            "la": "Epistola LXXVII. Ad Adalam",
+            "pt-BR": "Carta LXXVII. A Adela"
           }
         }
       ]
@@ -511,325 +595,379 @@
     {
       "id": "liber-2",
       "title": {
-        "la": "Liber II. Epistolae Anselmi abbatis Beccensis"
+        "la": "Liber II. Epistolae Anselmi abbatis Beccensis",
+        "pt-BR": "Livro II. Cartas de Anselmo, abade do Bec"
       },
       "children": [
         {
           "id": "l2-e001",
           "title": {
-            "la": "Epistola I. Ad Lanfrancum"
+            "la": "Epistola I. Ad Lanfrancum",
+            "pt-BR": "Carta I. A Lanfranco"
           }
         },
         {
           "id": "l2-e002",
           "title": {
-            "la": "Epistola II. Ad Lanfrancum"
+            "la": "Epistola II. Ad Lanfrancum",
+            "pt-BR": "Carta II. A Lanfranco"
           }
         },
         {
           "id": "l2-e003",
           "title": {
-            "la": "Epistola III. Ad Gondulfum"
+            "la": "Epistola III. Ad Gondulfum",
+            "pt-BR": "Carta III. A Gondulfo"
           }
         },
         {
           "id": "l2-e004",
           "title": {
-            "la": "Epistola IV. Ad Balduinum"
+            "la": "Epistola IV. Ad Balduinum",
+            "pt-BR": "Carta IV. A Balduíno"
           }
         },
         {
           "id": "l2-e005",
           "title": {
-            "la": "Epistola V. Ad Henricum"
+            "la": "Epistola V. Ad Henricum",
+            "pt-BR": "Carta V. A Henrique"
           }
         },
         {
           "id": "l2-e006",
           "title": {
-            "la": "Epistola VI. Anselmi et Ricardi ad Ricardum et Rohaidim"
+            "la": "Epistola VI. Anselmi et Ricardi ad Ricardum et Rohaidim",
+            "pt-BR": "Carta VI. De Anselmo e Ricardo a Ricardo e Roaíde"
           }
         },
         {
           "id": "l2-e007",
           "title": {
-            "la": "Epistola VII. Ad Ricardum et Monachos Beccenses"
+            "la": "Epistola VII. Ad Ricardum et Monachos Beccenses",
+            "pt-BR": "Carta VII. A Ricardo e aos monges do Bec"
           }
         },
         {
           "id": "l2-e008",
           "title": {
-            "la": "Epistola VIII. Ad Mauritium"
+            "la": "Epistola VIII. Ad Mauritium",
+            "pt-BR": "Carta VIII. A Maurício"
           }
         },
         {
           "id": "l2-e009",
           "title": {
-            "la": "Epistola IX. Ad Monachos Beccenses"
+            "la": "Epistola IX. Ad Monachos Beccenses",
+            "pt-BR": "Carta IX. Aos monges do Bec"
           }
         },
         {
           "id": "l2-e010",
           "title": {
-            "la": "Epistola X. Ad Rodulfum"
+            "la": "Epistola X. Ad Rodulfum",
+            "pt-BR": "Carta X. A Rodolfo"
           }
         },
         {
           "id": "l2-e011",
           "title": {
-            "la": "Epistola XI. Ad Hugonem"
+            "la": "Epistola XI. Ad Hugonem",
+            "pt-BR": "Carta XI. A Hugo"
           }
         },
         {
           "id": "l2-e012",
           "title": {
-            "la": "Epistola XII. Ad Helinandum"
+            "la": "Epistola XII. Ad Helinandum",
+            "pt-BR": "Carta XII. A Helinando"
           }
         },
         {
           "id": "l2-e013",
           "title": {
-            "la": "Epistola XIII. Ad Lanfrancum"
+            "la": "Epistola XIII. Ad Lanfrancum",
+            "pt-BR": "Carta XIII. A Lanfranco"
           }
         },
         {
           "id": "l2-e014",
           "title": {
-            "la": "Epistola XIV. Ad Monachos Beccenses"
+            "la": "Epistola XIV. Ad Monachos Beccenses",
+            "pt-BR": "Carta XIV. Aos monges do Bec"
           }
         },
         {
           "id": "l2-e015",
           "title": {
-            "la": "Epistola XV. Ad Fulconem"
+            "la": "Epistola XV. Ad Fulconem",
+            "pt-BR": "Carta XV. A Fulco"
           }
         },
         {
           "id": "l2-e016",
           "title": {
-            "la": "Epistola XVI. Ad Gislebertum"
+            "la": "Epistola XVI. Ad Gislebertum",
+            "pt-BR": "Carta XVI. A Gilberto"
           }
         },
         {
           "id": "l2-e017",
           "title": {
-            "la": "Epistola XVII. Ad Hugonem"
+            "la": "Epistola XVII. Ad Hugonem",
+            "pt-BR": "Carta XVII. A Hugo"
           }
         },
         {
           "id": "l2-e018",
           "title": {
-            "la": "Epistola XVIII. Ad Monachos Beccenses"
+            "la": "Epistola XVIII. Ad Monachos Beccenses",
+            "pt-BR": "Carta XVIII. Aos monges do Bec"
           }
         },
         {
           "id": "l2-e019",
           "title": {
-            "la": "Epistola XIX. Ad Guillelmum"
+            "la": "Epistola XIX. Ad Guillelmum",
+            "pt-BR": "Carta XIX. A Guilherme"
           }
         },
         {
           "id": "l2-e020",
           "title": {
-            "la": "Epistola XX. Ad Henricum"
+            "la": "Epistola XX. Ad Henricum",
+            "pt-BR": "Carta XX. A Henrique"
           }
         },
         {
           "id": "l2-e021",
           "title": {
-            "la": "Epistola XXI. Ad Folceraldum"
+            "la": "Epistola XXI. Ad Folceraldum",
+            "pt-BR": "Carta XXI. A Folceraldo"
           }
         },
         {
           "id": "l2-e022",
           "title": {
-            "la": "Epistola XXII. Ad Hugonem"
+            "la": "Epistola XXII. Ad Hugonem",
+            "pt-BR": "Carta XXII. A Hugo"
           }
         },
         {
           "id": "l2-e023",
           "title": {
-            "la": "Epistola XXIII. Ad Petrum"
+            "la": "Epistola XXIII. Ad Petrum",
+            "pt-BR": "Carta XXIII. A Pedro"
           }
         },
         {
           "id": "l2-e024",
           "title": {
-            "la": "Epistola XXIV. Ad Idam"
+            "la": "Epistola XXIV. Ad Idam",
+            "pt-BR": "Carta XXIV. A Ida"
           }
         },
         {
           "id": "l2-e025",
           "title": {
-            "la": "Epistola XXV. Ad Guillelmum"
+            "la": "Epistola XXV. Ad Guillelmum",
+            "pt-BR": "Carta XXV. A Guilherme"
           }
         },
         {
           "id": "l2-e026",
           "title": {
-            "la": "Epistola XXVI. Ad Monachos Beccenses"
+            "la": "Epistola XXVI. Ad Monachos Beccenses",
+            "pt-BR": "Carta XXVI. Aos monges do Bec"
           }
         },
         {
           "id": "l2-e027",
           "title": {
-            "la": "Epistola XXVII. Ad Robertum"
+            "la": "Epistola XXVII. Ad Robertum",
+            "pt-BR": "Carta XXVII. A Roberto"
           }
         },
         {
           "id": "l2-e028",
           "title": {
-            "la": "Epistola XXVIII. Ad Haymonem et Raynaldum Monachos"
+            "la": "Epistola XXVIII. Ad Haymonem et Raynaldum Monachos",
+            "pt-BR": "Carta XXVIII. Aos monges Haimão e Reinaldo"
           }
         },
         {
           "id": "l2-e029",
           "title": {
-            "la": "Epistola XXIX. Ad Henricum"
+            "la": "Epistola XXIX. Ad Henricum",
+            "pt-BR": "Carta XXIX. A Henrique"
           }
         },
         {
           "id": "l2-e030",
           "title": {
-            "la": "Epistola XXX. Ad Walchelmum"
+            "la": "Epistola XXX. Ad Walchelmum",
+            "pt-BR": "Carta XXX. A Valquelmo"
           }
         },
         {
           "id": "l2-e031",
           "title": {
-            "la": "Epistola XXXI. Gregorii Papae ad Anselmum"
+            "la": "Epistola XXXI. Gregorii Papae ad Anselmum",
+            "pt-BR": "Carta XXXI. Do papa Gregório a Anselmo"
           }
         },
         {
           "id": "l2-e032",
           "title": {
-            "la": "Epistola XXXII. Urbani Ii ad Anselmum"
+            "la": "Epistola XXXII. Urbani Ii ad Anselmum",
+            "pt-BR": "Carta XXXII. De Urbano II a Anselmo"
           }
         },
         {
           "id": "l2-e033",
           "title": {
-            "la": "Epistola XXXIII. Anselmi ad Urbanum"
+            "la": "Epistola XXXIII. Anselmi ad Urbanum",
+            "pt-BR": "Carta XXXIII. De Anselmo a Urbano"
           }
         },
         {
           "id": "l2-e034",
           "title": {
-            "la": "Epistola XXXIV. Ad Urbanum"
+            "la": "Epistola XXXIV. Ad Urbanum",
+            "pt-BR": "Carta XXXIV. A Urbano"
           }
         },
         {
           "id": "l2-e035",
           "title": {
-            "la": "Epistola XXXV. Ad Joannem"
+            "la": "Epistola XXXV. Ad Joannem",
+            "pt-BR": "Carta XXXV. A João"
           }
         },
         {
           "id": "l2-e036",
           "title": {
-            "la": "Epistola XXXVI. Ad Gislebertum"
+            "la": "Epistola XXXVI. Ad Gislebertum",
+            "pt-BR": "Carta XXXVI. A Gilberto"
           }
         },
         {
           "id": "l2-e037",
           "title": {
-            "la": "Epistola XXXVII. Ad Idam"
+            "la": "Epistola XXXVII. Ad Idam",
+            "pt-BR": "Carta XXXVII. A Ida"
           }
         },
         {
           "id": "l2-e038",
           "title": {
-            "la": "Epistola XXXVIII. Ad Robertum"
+            "la": "Epistola XXXVIII. Ad Robertum",
+            "pt-BR": "Carta XXXVIII. A Roberto"
           }
         },
         {
           "id": "l2-e039",
           "title": {
-            "la": "Epistola XXXIX. Ad Lambertum"
+            "la": "Epistola XXXIX. Ad Lambertum",
+            "pt-BR": "Carta XXXIX. A Lamberto"
           }
         },
         {
           "id": "l2-e040",
           "title": {
-            "la": "Epistola XL. Ad Ermengardam"
+            "la": "Epistola XL. Ad Ermengardam",
+            "pt-BR": "Carta XL. A Ermengarda"
           }
         },
         {
           "id": "l2-e041",
           "title": {
-            "la": "Epistola XLI. Ad Falconem"
+            "la": "Epistola XLI. Ad Falconem",
+            "pt-BR": "Carta XLI. A Falco"
           }
         },
         {
           "id": "l2-e042",
           "title": {
-            "la": "Epistola XLII. Ad Lanfrancum"
+            "la": "Epistola XLII. Ad Lanfrancum",
+            "pt-BR": "Carta XLII. A Lanfranco"
           }
         },
         {
           "id": "l2-e043",
           "title": {
-            "la": "Epistola XLIII. Ad Wandregisilium"
+            "la": "Epistola XLIII. Ad Wandregisilium",
+            "pt-BR": "Carta XLIII. A Vandrégisilo"
           }
         },
         {
           "id": "l2-e044",
           "title": {
-            "la": "Epistola XLIV. Ad Gislibertum"
+            "la": "Epistola XLIV. Ad Gislibertum",
+            "pt-BR": "Carta XLIV. A Gilberto"
           }
         },
         {
           "id": "l2-e045",
           "title": {
-            "la": "Epistola XLV. Ad Henricum"
+            "la": "Epistola XLV. Ad Henricum",
+            "pt-BR": "Carta XLV. A Henrique"
           }
         },
         {
           "id": "l2-e046",
           "title": {
-            "la": "Epistola XLVI. Ad Gondulfum"
+            "la": "Epistola XLVI. Ad Gondulfum",
+            "pt-BR": "Carta XLVI. A Gondulfo"
           }
         },
         {
           "id": "l2-e047",
           "title": {
-            "la": "Epistola XLVII. Ad Gislibertum"
+            "la": "Epistola XLVII. Ad Gislibertum",
+            "pt-BR": "Carta XLVII. A Gilberto"
           }
         },
         {
           "id": "l2-e048",
           "title": {
-            "la": "Epistola XLVIII. Ad Gualterum"
+            "la": "Epistola XLVIII. Ad Gualterum",
+            "pt-BR": "Carta XLVIII. A Gualtério"
           }
         },
         {
           "id": "l2-e049",
           "title": {
-            "la": "Epistola XLIX. Ad Girardum"
+            "la": "Epistola XLIX. Ad Girardum",
+            "pt-BR": "Carta XLIX. A Girardo"
           }
         },
         {
           "id": "l2-e050",
           "title": {
-            "la": "Epistola L. Ad Joannem et Bosonem"
+            "la": "Epistola L. Ad Joannem et Bosonem",
+            "pt-BR": "Carta L. A João e Bosão"
           }
         },
         {
           "id": "l2-e051",
           "title": {
-            "la": "Epistola LI. Ad Baldricum et Alios Monachos"
+            "la": "Epistola LI. Ad Baldricum et Alios Monachos",
+            "pt-BR": "Carta LI. A Baldrico e outros monges"
           }
         },
         {
           "id": "l2-e052",
           "title": {
-            "la": "Epistola LII. Ad Ernulfum"
+            "la": "Epistola LII. Ad Ernulfum",
+            "pt-BR": "Carta LII. A Ernulfo"
           }
         },
         {
           "id": "l2-e053",
           "title": {
-            "la": "Epistola LIII. Ad Lanfrancum et Omnes Beccenses Monachos"
+            "la": "Epistola LIII. Ad Lanfrancum et Omnes Beccenses Monachos",
+            "pt-BR": "Carta LIII. A Lanfranco e a todos os monges do Bec"
           }
         }
       ]
