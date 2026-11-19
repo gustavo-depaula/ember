@@ -13,17 +13,23 @@
   "description": {
     "it": "Il secondo libro dei manoscritti originali (25 dicembre 1584 - 4 giugno 1585): i colloqui serali delle suore con suor Maria Maddalena dopo le estasi, e le parole delle estasi stesse raccolte dalle consorelle, con le «cardiografie», il fidanzamento spirituale e le visioni della Chiesa. Edizione critica di Tutte le opere, vol. II-III (Firenze: CIL, 1962-1963), in due parti. La divisione in capitoli segue le sedute (colloqui) segnate dalle date; le sedute lunghe sono suddivise.",
     "en-US": "The second of the original manuscript books (25 December 1584 - 4 June 1585): the evening colloquies in which the sisters questioned Sister Maria Maddalena after her ecstasies, and the words of the ecstasies themselves as her sisters took them down, with the \"cardiographies\", the spiritual betrothal and the visions of the Church. Critical edition in Tutte le opere, vols. II-III (Florence: CIL, 1962-63), in two parts. Chapters follow the sessions marked by dates; long sessions are divided.",
-    "pt-BR": "O segundo livro dos manuscritos originais (25 de dezembro de 1584 a 4 de junho de 1585): os colóquios noturnos em que as irmãs interrogavam a irmã Maria Madalena depois dos êxtases, e as próprias palavras dos êxtases recolhidas por suas irmãs, em duas partes (edição crítica, Florença: CIL, 1962-63)."
+    "pt-BR": "O segundo livro dos manuscritos originais (25 de dezembro de 1584 a 4 de junho de 1585): os colóquios noturnos em que as irmãs interrogavam a irmã Maria Madalena depois dos êxtases, e as próprias palavras dos êxtases recolhidas por suas irmãs, com as “cardiografias”, o desposório espiritual e as visões da Igreja. Edição crítica em Tutte le opere, vols. II-III (Florença: CIL, 1962-63), em duas partes. A divisão em capítulos segue as sessões (colóquios) marcadas pelas datas; as sessões longas são subdivididas."
   },
   "composed": "1584-1585",
   "languages": [
-    "it"
+    "it",
+    "pt-BR"
   ],
   "work": "mary-magdalene-de-pazzi/colloqui",
   "editions": {
     "it": {
       "editor": "Carmelite scholars (Tutte le opere, ed. Fulvio Nardoni)",
       "year": 1962
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "it",
+      "year": 2026
     }
   },
   "sources": [
@@ -48,193 +54,225 @@
     {
       "id": "parte-1",
       "title": {
-        "it": "Prima parte (25 dicembre 1584 - 26 aprile 1585)"
+        "it": "Prima parte (25 dicembre 1584 - 26 aprile 1585)",
+        "pt-BR": "Primeira parte (25 de dezembro de 1584 - 26 de abril de 1585)"
       },
       "children": [
         {
           "id": "p1-00",
           "title": {
-            "it": "Presentazione e primo colloquio (Natale 1584)"
+            "it": "Presentazione e primo colloquio (Natale 1584)",
+            "pt-BR": "Apresentação e primeiro colóquio (Natal de 1584)"
           }
         },
         {
           "id": "p1-01",
           "title": {
-            "it": "Colloquio. Domenica sera addì 6 di Gennaio 1585"
+            "it": "Colloquio. Domenica sera addì 6 di Gennaio 1585",
+            "pt-BR": "Colóquio. Domingo à noite, 6 de janeiro de 1585"
           }
         },
         {
           "id": "p1-02",
           "title": {
-            "it": "Colloquio. Il' giovedì che fumo alli X di Gennaio 1585"
+            "it": "Colloquio. Il' giovedì che fumo alli X di Gennaio 1585",
+            "pt-BR": "Colóquio. A quinta-feira, que era o dia X de janeiro de 1585"
           }
         },
         {
           "id": "p1-03",
           "title": {
-            "it": "Colloquio. Domenica sera alli 13 di gennaio"
+            "it": "Colloquio. Domenica sera alli 13 di gennaio",
+            "pt-BR": "Colóquio. Domingo à noite, 13 de janeiro"
           }
         },
         {
           "id": "p1-04",
           "title": {
-            "it": "Colloquio. La sera del' glorioso Santo Antonio, che fu il' giovedì alli 17 di gennaio 1585"
+            "it": "Colloquio. La sera del' glorioso Santo Antonio, che fu il' giovedì alli 17 di gennaio 1585",
+            "pt-BR": "Colóquio. A noite do glorioso Santo Antão, que foi a quinta-feira, 17 de janeiro de 1585"
           }
         },
         {
           "id": "p1-05",
           "title": {
-            "it": "Colloquio. La domenica, che fummo alli 20 di Gennaio 1585"
+            "it": "Colloquio. La domenica, che fummo alli 20 di Gennaio 1585",
+            "pt-BR": "Colóquio. O domingo, que era o dia 20 de janeiro de 1585"
           }
         },
         {
           "id": "p1-06",
           "title": {
-            "it": "Colloquio. Lunedì sera, che era stato il' dì la festa"
+            "it": "Colloquio. Lunedì sera, che era stato il' dì la festa",
+            "pt-BR": "Colóquio. Segunda-feira à noite, depois de ter sido dia de festa"
           }
         },
         {
           "id": "p1-07",
           "title": {
-            "it": "Colloquio. Venerdì sera, alli 25 di gennaio"
+            "it": "Colloquio. Venerdì sera, alli 25 di gennaio",
+            "pt-BR": "Colóquio. Sexta-feira à noite, 25 de janeiro"
           }
         },
         {
           "id": "p1-08",
           "title": {
-            "it": "Colloquio. Domenica che fumo alli 27 di gennaio 1585"
+            "it": "Colloquio. Domenica che fumo alli 27 di gennaio 1585",
+            "pt-BR": "Colóquio. Domingo, que era o dia 27 de janeiro de 1585"
           }
         },
         {
           "id": "p1-09",
           "title": {
-            "it": "Colloquio. Mercoledì sera porgendocisi la comodità, facemo al solito il'"
+            "it": "Colloquio. Mercoledì sera porgendocisi la comodità, facemo al solito il'",
+            "pt-BR": "Colóquio. Quarta-feira à noite, apresentando-se-nos a ocasião, fizemos como de costume o"
           }
         },
         {
           "id": "p1-10",
           "title": {
-            "it": "Colloquio. Martedì sera alli 12 di febbraio 1585"
+            "it": "Colloquio. Martedì sera alli 12 di febbraio 1585",
+            "pt-BR": "Colóquio. Terça-feira à noite, 12 de fevereiro de 1585"
           }
         },
         {
           "id": "p1-11",
           "title": {
-            "it": "Colloquio. Domenica sera alli 17 di febbraio 1585"
+            "it": "Colloquio. Domenica sera alli 17 di febbraio 1585",
+            "pt-BR": "Colóquio. Domingo à noite, 17 de fevereiro de 1585"
           }
         },
         {
           "id": "p1-12",
           "title": {
-            "it": "Colloquio. Mercoledì addì 20 di febbraio 1585"
+            "it": "Colloquio. Mercoledì addì 20 di febbraio 1585",
+            "pt-BR": "Colóquio. Quarta-feira, 20 de fevereiro de 1585"
           }
         },
         {
           "id": "p1-13",
           "title": {
-            "it": "Colloquio. Domenica sera alli 24 di febbraio"
+            "it": "Colloquio. Domenica sera alli 24 di febbraio",
+            "pt-BR": "Colóquio. Domingo à noite, 24 de fevereiro"
           }
         },
         {
           "id": "p1-14",
           "title": {
-            "it": "Colloquio. Il' lunedì del' carnevale, che fu doppo la domenica della Quinquagesima, alli 4 di Marzo 1585"
+            "it": "Colloquio. Il' lunedì del' carnevale, che fu doppo la domenica della Quinquagesima, alli 4 di Marzo 1585",
+            "pt-BR": "Colóquio. A segunda-feira de carnaval, que foi depois do domingo da Quinquagésima, 4 de março de 1585"
           }
         },
         {
           "id": "p1-15",
           "title": {
-            "it": "Colloquio. Martedì, addì 5 di Marzo"
+            "it": "Colloquio. Martedì, addì 5 di Marzo",
+            "pt-BR": "Colóquio. Terça-feira, 5 de março"
           }
         },
         {
           "id": "p1-16",
           "title": {
-            "it": "Colloquio. Il' venerdì addì 8 di Marzo 1585"
+            "it": "Colloquio. Il' venerdì addì 8 di Marzo 1585",
+            "pt-BR": "Colóquio. A sexta-feira, 8 de março de 1585"
           }
         },
         {
           "id": "p1-17",
           "title": {
-            "it": "Colloquio. Giovedì, addì 21 di Marzo"
+            "it": "Colloquio. Giovedì, addì 21 di Marzo",
+            "pt-BR": "Colóquio. Quinta-feira, 21 de março"
           }
         },
         {
           "id": "p1-18",
           "title": {
-            "it": "Colloquio. Hieri e hoggi che siamo alli 23 di Marzo"
+            "it": "Colloquio. Hieri e hoggi che siamo alli 23 di Marzo",
+            "pt-BR": "Colóquio. Ontem e hoje, que estamos a 23 de março"
           }
         },
         {
           "id": "p1-19",
           "title": {
-            "it": "Colloquio. Martedì addì 26 di Marzo"
+            "it": "Colloquio. Martedì addì 26 di Marzo",
+            "pt-BR": "Colóquio. Terça-feira, 26 de março"
           }
         },
         {
           "id": "p1-20",
           "title": {
-            "it": "Colloquio. Giovedì, addì 28 di Marzo 1585"
+            "it": "Colloquio. Giovedì, addì 28 di Marzo 1585",
+            "pt-BR": "Colóquio. Quinta-feira, 28 de março de 1585"
           }
         },
         {
           "id": "p1-21",
           "title": {
-            "it": "Colloquio. Domenica addì ultimo di Marzo 1585"
+            "it": "Colloquio. Domenica addì ultimo di Marzo 1585",
+            "pt-BR": "Colóquio. Domingo, último dia de março de 1585"
           }
         },
         {
           "id": "p1-22",
           "title": {
-            "it": "Colloquio. Lunedì addì 6 di Aprile 1585"
+            "it": "Colloquio. Lunedì addì 6 di Aprile 1585",
+            "pt-BR": "Colóquio. Segunda-feira, 6 de abril de 1585"
           }
         },
         {
           "id": "p1-23",
           "title": {
-            "it": "Colloquio. Giovedì addì 11 d'Aprile 1585"
+            "it": "Colloquio. Giovedì addì 11 d'Aprile 1585",
+            "pt-BR": "Colóquio. Quinta-feira, 11 de abril de 1585"
           }
         },
         {
           "id": "p1-24",
           "title": {
-            "it": "Colloquio. Sabbato, addì 13 d'Aprile 1585"
+            "it": "Colloquio. Sabbato, addì 13 d'Aprile 1585",
+            "pt-BR": "Colóquio. Sábado, 13 de abril de 1585"
           }
         },
         {
           "id": "p1-25",
           "title": {
-            "it": "Colloquio. La Domenica delle Palme, addì 14 d'Aprile"
+            "it": "Colloquio. La Domenica delle Palme, addì 14 d'Aprile",
+            "pt-BR": "Colóquio. O Domingo de Ramos, 14 de abril"
           }
         },
         {
           "id": "p1-26",
           "title": {
-            "it": "Colloquio. Il' mercoledì santo, alli 17 d'Aprile"
+            "it": "Colloquio. Il' mercoledì santo, alli 17 d'Aprile",
+            "pt-BR": "Colóquio. A Quarta-feira Santa, 17 de abril"
           }
         },
         {
           "id": "p1-27-1",
           "title": {
-            "it": "Colloquio. Il' venerdì santo non havemo comodità nessuna di far (1/2)"
+            "it": "Colloquio. Il' venerdì santo non havemo comodità nessuna di far (1/2)",
+            "pt-BR": "Colóquio. Na Sexta-feira Santa não tivemos ocasião nenhuma de fazer (1/2)"
           }
         },
         {
           "id": "p1-27-2",
           "title": {
-            "it": "Colloquio. Il' venerdì santo non havemo comodità nessuna di far (2/2)"
+            "it": "Colloquio. Il' venerdì santo non havemo comodità nessuna di far (2/2)",
+            "pt-BR": "Colóquio. Na Sexta-feira Santa não tivemos ocasião nenhuma de fazer (2/2)"
           }
         },
         {
           "id": "p1-28",
           "title": {
-            "it": "Colloquio. Lunedì addì 22 d'Aprile 1585"
+            "it": "Colloquio. Lunedì addì 22 d'Aprile 1585",
+            "pt-BR": "Colóquio. Segunda-feira, 22 de abril de 1585"
           }
         },
         {
           "id": "p1-29",
           "title": {
-            "it": "Colloquio. Sabbato, addì 27 d'Aprile 1585"
+            "it": "Colloquio. Sabbato, addì 27 d'Aprile 1585",
+            "pt-BR": "Colóquio. Sábado, 27 de abril de 1585"
           }
         }
       ]
@@ -242,115 +280,134 @@
     {
       "id": "parte-2",
       "title": {
-        "it": "Seconda parte (28 aprile - 4 giugno 1585)"
+        "it": "Seconda parte (28 aprile - 4 giugno 1585)",
+        "pt-BR": "Segunda parte (28 de abril - 4 de junho de 1585)"
       },
       "children": [
         {
           "id": "p2-00",
           "title": {
-            "it": "Seconda parte: dal 28 aprile 1585"
+            "it": "Seconda parte: dal 28 aprile 1585",
+            "pt-BR": "Segunda parte: a partir de 28 de abril de 1585"
           }
         },
         {
           "id": "p2-01-1",
           "title": {
-            "it": "Colloquio. La domenica in Albis che fummo alli 28 di Aprile 1585 (1/3)"
+            "it": "Colloquio. La domenica in Albis che fummo alli 28 di Aprile 1585 (1/3)",
+            "pt-BR": "Colóquio. O domingo in Albis, que era o dia 28 de abril de 1585 (1/3)"
           }
         },
         {
           "id": "p2-01-2",
           "title": {
-            "it": "Colloquio. La domenica in Albis che fummo alli 28 di Aprile 1585 (2/3)"
+            "it": "Colloquio. La domenica in Albis che fummo alli 28 di Aprile 1585 (2/3)",
+            "pt-BR": "Colóquio. O domingo in Albis, que era o dia 28 de abril de 1585 (2/3)"
           }
         },
         {
           "id": "p2-01-3",
           "title": {
-            "it": "Colloquio. La domenica in Albis che fummo alli 28 di Aprile 1585 (3/3)"
+            "it": "Colloquio. La domenica in Albis che fummo alli 28 di Aprile 1585 (3/3)",
+            "pt-BR": "Colóquio. O domingo in Albis, que era o dia 28 de abril de 1585 (3/3)"
           }
         },
         {
           "id": "p2-02-1",
           "title": {
-            "it": "Colloquio. La mattina di Santa Croce, che questo Anno 1585 (1/3)"
+            "it": "Colloquio. La mattina di Santa Croce, che questo Anno 1585 (1/3)",
+            "pt-BR": "Colóquio. A manhã da Santa Cruz, que neste ano de 1585 (1/3)"
           }
         },
         {
           "id": "p2-02-2",
           "title": {
-            "it": "Colloquio. La mattina di Santa Croce, che questo Anno 1585 (2/3)"
+            "it": "Colloquio. La mattina di Santa Croce, che questo Anno 1585 (2/3)",
+            "pt-BR": "Colóquio. A manhã da Santa Cruz, que neste ano de 1585 (2/3)"
           }
         },
         {
           "id": "p2-02-3",
           "title": {
-            "it": "Colloquio. La mattina di Santa Croce, che questo Anno 1585 (3/3)"
+            "it": "Colloquio. La mattina di Santa Croce, che questo Anno 1585 (3/3)",
+            "pt-BR": "Colóquio. A manhã da Santa Cruz, que neste ano de 1585 (3/3)"
           }
         },
         {
           "id": "p2-03-1",
           "title": {
-            "it": "Colloquio. Il' martedì, addì 7 di Maggio 1585 (1/6)"
+            "it": "Colloquio. Il' martedì, addì 7 di Maggio 1585 (1/6)",
+            "pt-BR": "Colóquio. A terça-feira, 7 de maio de 1585 (1/6)"
           }
         },
         {
           "id": "p2-03-2",
           "title": {
-            "it": "Colloquio. Il' martedì, addì 7 di Maggio 1585 (2/6)"
+            "it": "Colloquio. Il' martedì, addì 7 di Maggio 1585 (2/6)",
+            "pt-BR": "Colóquio. A terça-feira, 7 de maio de 1585 (2/6)"
           }
         },
         {
           "id": "p2-03-3",
           "title": {
-            "it": "Colloquio. Il' martedì, addì 7 di Maggio 1585 (3/6)"
+            "it": "Colloquio. Il' martedì, addì 7 di Maggio 1585 (3/6)",
+            "pt-BR": "Colóquio. A terça-feira, 7 de maio de 1585 (3/6)"
           }
         },
         {
           "id": "p2-03-4",
           "title": {
-            "it": "Colloquio. Il' martedì, addì 7 di Maggio 1585 (4/6)"
+            "it": "Colloquio. Il' martedì, addì 7 di Maggio 1585 (4/6)",
+            "pt-BR": "Colóquio. A terça-feira, 7 de maio de 1585 (4/6)"
           }
         },
         {
           "id": "p2-03-5",
           "title": {
-            "it": "Colloquio. Il' martedì, addì 7 di Maggio 1585 (5/6)"
+            "it": "Colloquio. Il' martedì, addì 7 di Maggio 1585 (5/6)",
+            "pt-BR": "Colóquio. A terça-feira, 7 de maio de 1585 (5/6)"
           }
         },
         {
           "id": "p2-03-6",
           "title": {
-            "it": "Colloquio. Il' martedì, addì 7 di Maggio 1585 (6/6)"
+            "it": "Colloquio. Il' martedì, addì 7 di Maggio 1585 (6/6)",
+            "pt-BR": "Colóquio. A terça-feira, 7 de maio de 1585 (6/6)"
           }
         },
         {
           "id": "p2-04-1",
           "title": {
-            "it": "Colloquio. Il' venerdì, addì 17 di Maggio 1585 (1/3)"
+            "it": "Colloquio. Il' venerdì, addì 17 di Maggio 1585 (1/3)",
+            "pt-BR": "Colóquio. A sexta-feira, 17 de maio de 1585 (1/3)"
           }
         },
         {
           "id": "p2-04-2",
           "title": {
-            "it": "Colloquio. Il' venerdì, addì 17 di Maggio 1585 (2/3)"
+            "it": "Colloquio. Il' venerdì, addì 17 di Maggio 1585 (2/3)",
+            "pt-BR": "Colóquio. A sexta-feira, 17 de maio de 1585 (2/3)"
           }
         },
         {
           "id": "p2-04-3",
           "title": {
-            "it": "Colloquio. Il' venerdì, addì 17 di Maggio 1585 (3/3)"
+            "it": "Colloquio. Il' venerdì, addì 17 di Maggio 1585 (3/3)",
+            "pt-BR": "Colóquio. A sexta-feira, 17 de maio de 1585 (3/3)"
           }
         },
         {
           "id": "p2-05",
           "title": {
-            "it": "Colloquio. Martedì addi 28 di Maggio, facemo colloquio con la"
+            "it": "Colloquio. Martedì addi 28 di Maggio, facemo colloquio con la",
+            "pt-BR": "Colóquio. Terça-feira, 28 de maio, fizemos colóquio com a"
           }
         },
         {
           "id": "p2-06",
           "title": {
-            "it": "Colloquio. Mercoledì addì 5 di Giugno 1585"
+            "it": "Colloquio. Mercoledì addì 5 di Giugno 1585",
+            "pt-BR": "Colóquio. Quarta-feira, 5 de junho de 1585"
           }
         }
       ]
