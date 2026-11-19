@@ -18,13 +18,19 @@
   },
   "composed": "c. 1120-1153",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "bernard/opuscula-minora",
   "editions": {
     "la": {
       "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182-184)",
       "year": 1854
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,25 +47,29 @@
     {
       "id": "w6152",
       "title": {
-        "la": "De cantu"
+        "la": "De cantu",
+        "pt-BR": "Sobre o canto"
       },
       "children": [
         {
           "id": "w6152-admonitio",
           "title": {
-            "la": "Admonitio Mabillonii"
+            "la": "Admonitio Mabillonii",
+            "pt-BR": "Advertência de Mabillon"
           }
         },
         {
           "id": "w6152-epistola",
           "title": {
-            "la": "Epistola seu prologus"
+            "la": "Epistola seu prologus",
+            "pt-BR": "Carta ou prólogo"
           }
         },
         {
           "id": "w6152-praefatio",
           "title": {
-            "la": "Praefatio"
+            "la": "Praefatio",
+            "pt-BR": "Prefácio"
           }
         }
       ]
@@ -67,13 +77,15 @@
     {
       "id": "w6212",
       "title": {
-        "la": "Officium de S. Victore"
+        "la": "Officium de S. Victore",
+        "pt-BR": "Ofício de São Vítor"
       },
       "children": [
         {
           "id": "w6212-sermo",
           "title": {
-            "la": "Officium de S. Victore"
+            "la": "Officium de S. Victore",
+            "pt-BR": "Ofício de São Vítor"
           }
         }
       ]
@@ -81,13 +93,15 @@
     {
       "id": "w6149",
       "title": {
-        "la": "Chartae"
+        "la": "Chartae",
+        "pt-BR": "Cartas patentes"
       },
       "children": [
         {
           "id": "w6149-sermo",
           "title": {
-            "la": "Chartae"
+            "la": "Chartae",
+            "pt-BR": "Cartas patentes"
           }
         }
       ]
@@ -95,19 +109,22 @@
     {
       "id": "w6161",
       "title": {
-        "la": "Opuscula duo"
+        "la": "Opuscula duo",
+        "pt-BR": "Dois opúsculos"
       },
       "children": [
         {
           "id": "w6161-admonitio",
           "title": {
-            "la": "Admonitio Mabillonii"
+            "la": "Admonitio Mabillonii",
+            "pt-BR": "Advertência de Mabillon"
           }
         },
         {
           "id": "w6161-l1-prooemium",
           "title": {
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Proêmio"
           }
         }
       ]
@@ -115,13 +132,15 @@
     {
       "id": "w6175",
       "title": {
-        "la": "Formula confessionis privatae"
+        "la": "Formula confessionis privatae",
+        "pt-BR": "Fórmula de confissão privada"
       },
       "children": [
         {
           "id": "w6175-sermo",
           "title": {
-            "la": "Formula confessionis privatae"
+            "la": "Formula confessionis privatae",
+            "pt-BR": "Fórmula de confissão privada"
           }
         }
       ]
@@ -129,13 +148,15 @@
     {
       "id": "w6213",
       "title": {
-        "la": "Parabolae"
+        "la": "Parabolae",
+        "pt-BR": "Parábolas"
       },
       "children": [
         {
           "id": "w6213-sermo",
           "title": {
-            "la": "Parabolae"
+            "la": "Parabolae",
+            "pt-BR": "Parábolas"
           }
         }
       ]
@@ -143,13 +164,15 @@
     {
       "id": "w6215",
       "title": {
-        "la": "Sententiae"
+        "la": "Sententiae",
+        "pt-BR": "Sentenças"
       },
       "children": [
         {
           "id": "w6215-sermo",
           "title": {
-            "la": "Sententiae"
+            "la": "Sententiae",
+            "pt-BR": "Sentenças"
           }
         }
       ]
