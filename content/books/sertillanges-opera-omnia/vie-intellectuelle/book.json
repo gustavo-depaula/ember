@@ -3,15 +3,18 @@
   "cover": "quarter",
   "name": {
     "fr-FR": "La Vie intellectuelle : son esprit, ses conditions, ses méthodes",
-    "en-US": "The Intellectual Life: Its Spirit, Conditions, Methods"
+    "en-US": "The Intellectual Life: Its Spirit, Conditions, Methods",
+    "pt-BR": "A vida intelectual: seu espírito, suas condições, seus métodos"
   },
   "author": {
     "fr-FR": "A.-D. Sertillanges, O.P.",
-    "en-US": "A.-D. Sertillanges, O.P."
+    "en-US": "A.-D. Sertillanges, O.P.",
+    "pt-BR": "A.-D. Sertillanges, O.P."
   },
   "description": {
     "fr-FR": "Le classique du travail intellectuel chrétien, sur le fond des Seize préceptes de saint Thomas pour acquérir le trésor de la science : la vocation de l'intellectuel, ses vertus, l'organisation de la vie et du temps, la lecture, la mémoire et les notes, l'écriture, le repos et les joies du travail. Première édition, 1921.",
-    "en-US": "The classic of Christian intellectual work, built on St. Thomas's Sixteen Precepts for acquiring the treasure of knowledge: the intellectual's vocation and virtues, the organization of life and time, reading, memory and notes, writing, rest and the joys of work. First edition, 1921."
+    "en-US": "The classic of Christian intellectual work, built on St. Thomas's Sixteen Precepts for acquiring the treasure of knowledge: the intellectual's vocation and virtues, the organization of life and time, reading, memory and notes, writing, rest and the joys of work. First edition, 1921.",
+    "pt-BR": "O clássico do trabalho intelectual cristão, tendo como base os Dezesseis preceitos de Santo Tomás para adquirir o tesouro da ciência: a vocação do intelectual, suas virtudes, a organização da vida e do tempo, a leitura, a memória e as notas, a escrita, o repouso e as alegrias do trabalho. Primeira edição, 1921."
   },
   "composed": "1920",
   "work": "sertillanges/vie-intellectuelle",
@@ -19,6 +22,11 @@
     "fr-FR": {
       "editor": "Éditions de la Revue des Jeunes, Paris",
       "year": 1921
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -29,77 +37,88 @@
     }
   ],
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "toc": [
     {
       "id": "avant-propos",
       "title": {
         "fr-FR": "Avant-propos",
-        "en-US": "Foreword"
+        "en-US": "Foreword",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "ch1",
       "title": {
         "fr-FR": "Chapitre premier. La vocation intellectuelle",
-        "en-US": "Chapter I. The Intellectual Vocation"
+        "en-US": "Chapter I. The Intellectual Vocation",
+        "pt-BR": "Capítulo primeiro. A vocação intelectual"
       }
     },
     {
       "id": "ch2",
       "title": {
         "fr-FR": "Chapitre II. Les vertus d'un intellectuel chrétien",
-        "en-US": "Chapter II. The Virtues of a Christian Intellectual"
+        "en-US": "Chapter II. The Virtues of a Christian Intellectual",
+        "pt-BR": "Capítulo II. As virtudes de um intelectual cristão"
       }
     },
     {
       "id": "ch3",
       "title": {
         "fr-FR": "Chapitre III. L'organisation de la vie",
-        "en-US": "Chapter III. The Organization of Life"
+        "en-US": "Chapter III. The Organization of Life",
+        "pt-BR": "Capítulo III. A organização da vida"
       }
     },
     {
       "id": "ch4",
       "title": {
         "fr-FR": "Chapitre IV. Le temps du travail",
-        "en-US": "Chapter IV. The Time of Work"
+        "en-US": "Chapter IV. The Time of Work",
+        "pt-BR": "Capítulo IV. O tempo do trabalho"
       }
     },
     {
       "id": "ch5",
       "title": {
         "fr-FR": "Chapitre V. Le champ du travail",
-        "en-US": "Chapter V. The Field of Work"
+        "en-US": "Chapter V. The Field of Work",
+        "pt-BR": "Capítulo V. O campo do trabalho"
       }
     },
     {
       "id": "ch6",
       "title": {
         "fr-FR": "Chapitre VI. L'esprit du travail",
-        "en-US": "Chapter VI. The Spirit of Work"
+        "en-US": "Chapter VI. The Spirit of Work",
+        "pt-BR": "Capítulo VI. O espírito do trabalho"
       }
     },
     {
       "id": "ch7",
       "title": {
         "fr-FR": "Chapitre VII. La préparation du travail",
-        "en-US": "Chapter VII. The Preparation of Work"
+        "en-US": "Chapter VII. The Preparation of Work",
+        "pt-BR": "Capítulo VII. A preparação do trabalho"
       }
     },
     {
       "id": "ch8",
       "title": {
         "fr-FR": "Chapitre VIII. Le travail créateur",
-        "en-US": "Chapter VIII. Creative Work"
+        "en-US": "Chapter VIII. Creative Work",
+        "pt-BR": "Capítulo VIII. O trabalho criador"
       }
     },
     {
       "id": "ch9",
       "title": {
         "fr-FR": "Chapitre IX. Le travailleur et l'homme",
-        "en-US": "Chapter IX. The Worker and the Man"
+        "en-US": "Chapter IX. The Worker and the Man",
+        "pt-BR": "Capítulo IX. O trabalhador e o homem"
       }
     }
   ]
