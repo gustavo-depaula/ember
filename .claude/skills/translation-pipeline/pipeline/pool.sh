@@ -19,7 +19,9 @@ active() {
   local n=0 d e
   for d in $here/runs/*(N/); do
     e=codex; [[ -f $d/engine ]] && e=$(<$d/engine)
-    [[ $e == $engine && ! -f $d/DONE ]] && (( n++ ))
+    # A book waiting on Claude's quota (its review reads) spends no Codex: it
+    # does not hold a slot, or Claude's weekly cap idles the Codex pool (Nov 19).
+    [[ $e == $engine && ! -f $d/DONE ]] && ! tail -1 $d/status 2> /dev/null | grep -q 'quota: session' && (( n++ ))
   done
   print $n
 }
