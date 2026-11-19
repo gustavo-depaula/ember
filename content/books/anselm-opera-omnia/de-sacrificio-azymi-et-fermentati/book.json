@@ -18,13 +18,19 @@
   },
   "composed": "c. 1106-1107",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "anselm/de-sacrificio-azymi-et-fermentati",
   "editions": {
     "la": {
       "editor": "J.-P. Migne (Patrologia Latina 158)",
       "year": 1853
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,49 +47,57 @@
     {
       "id": "praefatio",
       "title": {
-        "la": "Praefatio"
+        "la": "Praefatio",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "c01",
       "title": {
-        "la": "Caput I. Salva Sacramenti veritate, azymum aut fermentatum panem assumi"
+        "la": "Caput I. Salva Sacramenti veritate, azymum aut fermentatum panem assumi",
+        "pt-BR": "Capítulo I. Salva a verdade do sacramento, pode-se tomar pão ázimo ou fermentado"
       }
     },
     {
       "id": "c02",
       "title": {
-        "la": "Caput II. Aptius in azymo confici Sacramentum, quam in fermentato"
+        "la": "Caput II. Aptius in azymo confici Sacramentum, quam in fermentato",
+        "pt-BR": "Capítulo II. É mais apropriado consagrar o sacramento no ázimo do que no fermentado"
       }
     },
     {
       "id": "c03",
       "title": {
-        "la": "Caput III. Latinos in azymo conficientes non Judaizare"
+        "la": "Caput III. Latinos in azymo conficientes non Judaizare",
+        "pt-BR": "Capítulo III. Os latinos, ao consagrarem no ázimo, não judaízam"
       }
     },
     {
       "id": "c04",
       "title": {
-        "la": "Caput IV. Retorquetur in Graecos argumentatio, qua probant Latinos in azymo conficientes judaizare"
+        "la": "Caput IV. Retorquetur in Graecos argumentatio, qua probant Latinos in azymo conficientes judaizare",
+        "pt-BR": "Capítulo IV. Volta-se contra os gregos o argumento com que provam que os latinos judaízam ao consagrar no ázimo"
       }
     },
     {
       "id": "c05",
       "title": {
-        "la": "Caput V. Loca Scripturae quibus Graeci contra Latinos in controversia de fermentato abutebantur, congrue exposita, ac primum tractatur illud: Littera occidit"
+        "la": "Caput V. Loca Scripturae quibus Graeci contra Latinos in controversia de fermentato abutebantur, congrue exposita, ac primum tractatur illud: Littera occidit",
+        "pt-BR": "Capítulo V. Expõem-se convenientemente os lugares da Escritura de que os gregos abusavam contra os latinos na controvérsia sobre o fermentado, e trata-se primeiro daquele: A letra mata"
       }
     },
     {
       "id": "c06",
       "title": {
-        "la": "Caput VI. Quomodo propheta jubeat sacrificari de fermentato laudem"
+        "la": "Caput VI. Quomodo propheta jubeat sacrificari de fermentato laudem",
+        "pt-BR": "Capítulo VI. Como o profeta manda sacrificar o louvor com fermentado"
       }
     },
     {
       "id": "c07",
       "title": {
-        "la": "Caput VII. Connubia Latinorum de eadem cognatione in certis gradibus dissitis, male a Graecis reprobata"
+        "la": "Caput VII. Connubia Latinorum de eadem cognatione in certis gradibus dissitis, male a Graecis reprobata",
+        "pt-BR": "Capítulo VII. Os casamentos dos latinos entre membros de uma mesma parentela, em certos graus afastados, injustamente reprovados pelos gregos"
       }
     }
   ]
