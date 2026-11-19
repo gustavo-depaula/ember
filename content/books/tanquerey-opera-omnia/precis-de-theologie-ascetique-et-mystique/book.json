@@ -22,6 +22,11 @@
     "fr-FR": {
       "editor": "Desclée et Cie, Tournai (10th ed.)",
       "year": 1928
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -32,55 +37,64 @@
     }
   ],
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "toc": [
     {
       "id": "introduction",
       "title": {
-        "fr-FR": "Introduction"
+        "fr-FR": "Introduction",
+        "pt-BR": "Introdução"
       }
     },
     {
       "id": "ch1",
       "title": {
-        "fr-FR": "Première partie : les principes"
+        "fr-FR": "Première partie : les principes",
+        "pt-BR": "Primeira parte: os princípios"
       },
       "children": [
         {
           "id": "ch1-intro",
           "title": {
-            "fr-FR": "Introduction"
+            "fr-FR": "Introduction",
+            "pt-BR": "Introdução"
           }
         },
         {
           "id": "ch1-a1",
           "title": {
-            "fr-FR": "Chapitre I. Les origines de la vie surnaturelle"
+            "fr-FR": "Chapitre I. Les origines de la vie surnaturelle",
+            "pt-BR": "Capítulo I. As origens da vida sobrenatural"
           }
         },
         {
           "id": "ch1-a2",
           "title": {
-            "fr-FR": "Chapitre II. Nature de la vie chrétienne"
+            "fr-FR": "Chapitre II. Nature de la vie chrétienne",
+            "pt-BR": "Capítulo II. Natureza da vida cristã"
           }
         },
         {
           "id": "ch1-a3",
           "title": {
-            "fr-FR": "Chapitre III. Perfection de la vie chrétienne"
+            "fr-FR": "Chapitre III. Perfection de la vie chrétienne",
+            "pt-BR": "Capítulo III. Perfeição da vida cristã"
           }
         },
         {
           "id": "ch1-a4",
           "title": {
-            "fr-FR": "Chapitre IV. “De l’obligation de tendre à la perfection. ?"
+            "fr-FR": "Chapitre IV. “De l’obligation de tendre à la perfection. ?",
+            "pt-BR": "Capítulo IV. Da obrigação de tender à perfeição"
           }
         },
         {
           "id": "ch1-a5",
           "title": {
-            "fr-FR": "Chapitre V. Des moyens généraux de perfection"
+            "fr-FR": "Chapitre V. Des moyens généraux de perfection",
+            "pt-BR": "Capítulo V. Dos meios gerais de perfeição"
           }
         }
       ]
@@ -88,79 +102,92 @@
     {
       "id": "ch2-intro",
       "title": {
-        "fr-FR": "Seconde partie : avant-propos"
+        "fr-FR": "Seconde partie : avant-propos",
+        "pt-BR": "Segunda parte: prefácio"
       }
     },
     {
       "id": "ch3",
       "title": {
-        "fr-FR": "Seconde partie : les trois voies"
+        "fr-FR": "Seconde partie : les trois voies",
+        "pt-BR": "Segunda parte: as três vias"
       },
       "children": [
         {
           "id": "ch3-intro",
           "title": {
-            "fr-FR": "Introduction"
+            "fr-FR": "Introduction",
+            "pt-BR": "Introdução"
           }
         },
         {
           "id": "ch3-a6",
           "title": {
-            "fr-FR": "Chapitre VI. La prière des commençants’,"
+            "fr-FR": "Chapitre VI. La prière des commençants’,",
+            "pt-BR": "Capítulo VI. A oração dos principiantes"
           }
         },
         {
           "id": "ch3-a7",
           "title": {
-            "fr-FR": "Chapitre VII. De la penitence"
+            "fr-FR": "Chapitre VII. De la penitence",
+            "pt-BR": "Capítulo VII. Da penitência"
           }
         },
         {
           "id": "ch3-a8",
           "title": {
-            "fr-FR": "Chapitre VIII. La mortification £"
+            "fr-FR": "Chapitre VIII. La mortification £",
+            "pt-BR": "Capítulo VIII. A mortificação"
           }
         },
         {
           "id": "ch3-a9",
           "title": {
-            "fr-FR": "Chapitre IX. Lutte contre les péchés capitaux `"
+            "fr-FR": "Chapitre IX. Lutte contre les péchés capitaux `",
+            "pt-BR": "Capítulo IX. Luta contra os pecados capitais"
           }
         },
         {
           "id": "ch3-a10",
           "title": {
-            "fr-FR": "Chapitre X. Lutte contre les tentations"
+            "fr-FR": "Chapitre X. Lutte contre les tentations",
+            "pt-BR": "Capítulo X. Luta contra as tentações"
           }
         },
         {
           "id": "ch3-a11",
           "title": {
-            "fr-FR": "Chapitre XI. De l’oraison affective. :"
+            "fr-FR": "Chapitre XI. De l’oraison affective. :",
+            "pt-BR": "Capítulo XI. Da oração afetiva"
           }
         },
         {
           "id": "ch3-a12",
           "title": {
-            "fr-FR": "Chapitre XII. Les retours offensifs de lennemi"
+            "fr-FR": "Chapitre XII. Les retours offensifs de lennemi",
+            "pt-BR": "Capítulo XII. As novas ofensivas do inimigo"
           }
         },
         {
           "id": "ch3-a13",
           "title": {
-            "fr-FR": "Chapitre XIII. De la contemplation infuse :"
+            "fr-FR": "Chapitre XIII. De la contemplation infuse :",
+            "pt-BR": "Capítulo XIII. Da contemplação infusa"
           }
         },
         {
           "id": "ch3-a14",
           "title": {
-            "fr-FR": "Chapitre XIV. 1484. Pour mieux faire saisir les erreurs de détail, mettons sur deux colonnes la doctrine catholique et"
+            "fr-FR": "Chapitre XIV. 1484. Pour mieux faire saisir les erreurs de détail, mettons sur deux colonnes la doctrine catholique et",
+            "pt-BR": "Capítulo XIV. 1484. Para fazer compreender melhor os erros de detalhe, coloquemos em duas colunas a doutrina católica e"
           }
         },
         {
           "id": "ch3-a15",
           "title": {
-            "fr-FR": "Chapitre XV. Questions controversées ’"
+            "fr-FR": "Chapitre XV. Questions controversées ’",
+            "pt-BR": "Capítulo XV. Questões controversas"
           }
         }
       ]
@@ -168,7 +195,8 @@
     {
       "id": "epilogue",
       "title": {
-        "fr-FR": "Épilogue : les trois voies et le cycle liturgique"
+        "fr-FR": "Épilogue : les trois voies et le cycle liturgique",
+        "pt-BR": "Epílogo: as três vias e o ciclo litúrgico"
       }
     }
   ]
