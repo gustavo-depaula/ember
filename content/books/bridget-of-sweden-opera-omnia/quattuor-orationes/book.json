@@ -19,7 +19,8 @@
   "composed": "c. 1350-1373",
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "bridget-of-sweden/quattuor-orationes",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "Anonymous (catholic-saints.net)",
       "year": 2013
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -55,35 +61,40 @@
       "id": "prohemium",
       "title": {
         "la": "Prohemium",
-        "en-US": "Proem"
+        "en-US": "Proem",
+        "pt-BR": "Proêmio"
       }
     },
     {
       "id": "oracio-1",
       "title": {
         "la": "Oracio prima",
-        "en-US": "Prayer 1"
+        "en-US": "Prayer 1",
+        "pt-BR": "Primeira oração"
       }
     },
     {
       "id": "oracio-2",
       "title": {
         "la": "Oracio secunda",
-        "en-US": "Prayer 2"
+        "en-US": "Prayer 2",
+        "pt-BR": "Segunda oração"
       }
     },
     {
       "id": "oracio-3",
       "title": {
         "la": "Oracio tercia",
-        "en-US": "Prayer 3"
+        "en-US": "Prayer 3",
+        "pt-BR": "Terceira oração"
       }
     },
     {
       "id": "oracio-4",
       "title": {
         "la": "Oracio quarta",
-        "en-US": "Prayer 4"
+        "en-US": "Prayer 4",
+        "pt-BR": "Quarta oração"
       }
     }
   ]
