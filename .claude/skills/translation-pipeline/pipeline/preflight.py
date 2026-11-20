@@ -103,6 +103,16 @@ bare = [(f, p) for f in sorted(os.listdir(src)) if f.endswith(".md") and f.start
         for p in paras(open("%s/%s" % (src, f)).read()) if re.fullmatch(r"[0-9]{1,3}-|[0-9]{2,3}", p)]
 if bare:
     hard.append("%d bare page numbers stand as paragraphs, e.g. %s" % (len(bare), "; ".join("%s: %s" % x for x in bare[:3])))
+# ... or set as a heading mid-sentence ("## Exercise for Anniversary of Your Baptism 305"):
+# the model drops one and the span is short (John Eudes, Life and Kingdom).
+headHeads = []
+for f in sorted(os.listdir(src)):
+    if f.endswith(".md") and f.startswith(scope):
+        ps = paras(open("%s/%s" % (src, f)).read())
+        headHeads += [(f, p) for k, p in enumerate(ps) if 0 < k < len(ps) - 1 and re.fullmatch(r"#{1,4} .*[A-Za-zÀ-ÿ.] [0-9]{1,3}", p)
+                      and not re.search(r"[.!?:;»”\"')\]]$", ps[k - 1]) and ps[k + 1][:1].islower()]
+if len(headHeads) >= 3:
+    hard.append("%d running heads set as headings, e.g. %s" % (len(headHeads), "; ".join("%s: %s" % x for x in headHeads[:3])))
 if len(alone) >= 3:
     hard.append("%d running heads stand as paragraphs, e.g. %s" % (len(alone), "; ".join("%s: %s" % x for x in alone[:3])))
 if len(heads) >= 3:
