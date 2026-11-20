@@ -82,8 +82,30 @@ codexModel=${CODEX_MODEL:-gpt-6.1-sol}
 # One tool-less claude-work call; the watchdog may stop it, and then it reruns
 # after the reset. A single turn reads its input once, so caching it would only
 # add the write premium.
+# At most CLAUDE_SLOTS claude calls at once across every driver (unset: no cap).
+# Each driver runs its own reviews, so sixty books in review start sixty calls,
+# and they spent a smaller account's whole session (37% to 100%) in ten
+# minutes, before the watchdog's once-a-minute reading could stop them.
+acquireClaudeSlot() {
+  local n=${CLAUDE_SLOTS:-0} i d
+  slot=
+  (( n )) || return 0
+  mkdir -p $here/claude-slots
+  while true; do
+    for i in {1..$n}; do
+      d=$here/claude-slots/$i
+      if mkdir $d 2>/dev/null; then print $$ > $d/pid; slot=$d; return; fi
+      # A slot whose driver died is freed.
+      if [[ -f $d/pid ]]; then kill -0 $(<$d/pid) 2>/dev/null || rm -rf $d
+      elif (( $(date +%s) - $(stat -f %m $d) > 300 )); then rm -rf $d; fi
+    done
+    sleep 30
+  done
+}
+
 claudeCall() { # system-prompt-file input output.json [effort]
-  local started
+  local started slot
+  acquireClaudeSlot
   while true; do
     waitForQuota
     started=$(date +%s)
@@ -93,9 +115,14 @@ claudeCall() { # system-prompt-file input output.json [effort]
     if [[ -f $here/HALT ]] && (( $(<$here/HALT) >= started )); then
       log "${3:t:r}: stopped by the watchdog near the session limit; rerunning after the reset"; continue
     fi
+    # Refused at the account's limit (429): not an answer, so not one of the round's two attempts.
+    if grep -q '"api_error_status":429' $3 2>/dev/null; then
+      log "${3:t:r}: refused at the usage limit; rerunning after the reset"; sleep 600; continue
+    fi
     netDown $3 ${3%.json}.log || break
     waitForNetwork ${3:t:r}
   done
+  [[ -n $slot ]] && rm -rf $slot
   python3 -c "import json,sys; d=json.load(open(sys.argv[1])); open(sys.argv[2],'w').write(d.get('result') or '')" $3 ${3%.json}.last.md 2>> ${3%.json}.log
 }
 
