@@ -112,8 +112,6 @@ Que le Dieu tout-puissant ait pitié de nous, qu’il nous pardonne nos pèches 
 
 Que le Seigneur tout-puissant et miséricordieux nous accorde l’indulgence, l’absolution et la rémission de nos péchés. Ainsi soit-il.
 
-54
-
 Ici, on pourra faire la Méditation, si Ton est dans l’usage de ce saint exercice. Elle doit principalement avoir pour objet, au temps du Carême, la justice de Dieu que nous avons bravée par nos péchés, sa souveraine sainteté qui a le mal en horreur ; la conversion du cœur, la rupture des habitudes dangereuses, la réparation du pêche’ que Ton a commis, la nécessité de l’expiation ; l’exemple que nous donne le Sauveur par son jeune de quarante jours sur la montagne ; enfin, et par-dessus tout, les souffrances de sa douloureuse Passion.
 
 La Méditation étant achevée, et même dans le cas où l’on eût été empêché de la faire, on demandera à Dieu par les prières suivantes la grâce d’éviter toute sorte de péchés durant la journée qui commence, disant toujours avec l’Église :

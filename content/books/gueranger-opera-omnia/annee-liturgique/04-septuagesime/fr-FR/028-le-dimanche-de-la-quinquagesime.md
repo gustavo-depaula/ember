@@ -48,8 +48,6 @@ Soyez-moi un Dieu protecteur et un lieu de refuge, pour me sauver ; car vous êt
 
 Ps. En vous, Seigneur, j’ai espéré; que je ne sois jamais confondu ! délivrez-moi par votre justice, et sauvez-moi. Gloire au Père. Soyez-moi un Dieu.
 
-221
-
 ## Collecte
 
 *Preces nostras, quæsumus, Domine, clementer exaudi : atque a peccatorum vinculis absolutos, ab omni nos adversitate custodi. Per Dominum nostrum Jesum Christum.*

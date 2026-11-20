@@ -97,6 +97,12 @@ fused = [(f, p) for f in sorted(os.listdir(src)) if f.endswith(".md") and f.star
          if not p.startswith(("[^", "#")) and (m := fusedNote.search(p)) and m.start() > 60]
 if len(fused) >= 10:
     hard.append("%d paragraphs have footnote text fused into them, e.g. %s" % (len(fused), "; ".join("%s: …%s" % (f, p[fusedNote.search(p).start() - 30:][:60]) for f, p in fused[:2])))
+# A bare page number left as a paragraph ("31-"): the model drops it and the span
+# comes back a paragraph short (John Eudes, Admirable Heart of Mary).
+bare = [(f, p) for f in sorted(os.listdir(src)) if f.endswith(".md") and f.startswith(scope)
+        for p in paras(open("%s/%s" % (src, f)).read()) if re.fullmatch(r"[0-9]{1,3}-|[0-9]{2,3}", p)]
+if bare:
+    hard.append("%d bare page numbers stand as paragraphs, e.g. %s" % (len(bare), "; ".join("%s: %s" % x for x in bare[:3])))
 if len(alone) >= 3:
     hard.append("%d running heads stand as paragraphs, e.g. %s" % (len(alone), "; ".join("%s: %s" % x for x in alone[:3])))
 if len(heads) >= 3:

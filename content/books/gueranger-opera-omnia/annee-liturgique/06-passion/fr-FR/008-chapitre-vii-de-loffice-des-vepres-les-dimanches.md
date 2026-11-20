@@ -116,8 +116,6 @@ Le pécheur le verra, et il entrera en fureur ; il grincera des dents et sécher
 
 Le quatrième Psaume est un Cantique de louange au Seigneur qui, du haut du ciel, a pris pitié de la nature humaine, et a daigné aplanir les voies pour nous ramener à lui.
 
-117
-
 ## Psaume cxii
 
 *Laudate, pueri, Dominum : * laudate Nomen Domini.*  
