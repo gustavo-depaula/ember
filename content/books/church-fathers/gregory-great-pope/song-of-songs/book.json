@@ -18,12 +18,18 @@
   },
   "composed": "c. 595",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "gregory-the-great/expositio-in-canticum",
   "editions": {
     "la": {
       "editor": "Corpus Corporum (Univ. of Zurich) transcription, labelled Migne 1849, PL 79; in the u-for-v orthography of the critical edition (CCSL 144)"
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -43,7 +49,8 @@
     {
       "id": "expositio",
       "title": {
-        "la": "Expositio in Canticum Canticorum"
+        "la": "Expositio in Canticum Canticorum",
+        "pt-BR": "Exposição sobre o Cântico dos Cânticos"
       }
     }
   ]
