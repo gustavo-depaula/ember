@@ -18,12 +18,18 @@
   },
   "composed": "590-593",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "gregory-the-great/homiliae-in-evangelia",
   "editions": {
     "la": {
       "editor": "Maurist edition (Sainte-Marthe, 1705), as reprinted in Migne, PL 76 (1849)"
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -43,247 +49,288 @@
     {
       "id": "praefatio",
       "title": {
-        "la": "Praefatio"
+        "la": "Praefatio",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "h01",
       "title": {
-        "la": "Homilia I"
+        "la": "Homilia I",
+        "pt-BR": "Homilia I"
       }
     },
     {
       "id": "h02",
       "title": {
-        "la": "Homilia II"
+        "la": "Homilia II",
+        "pt-BR": "Homilia II"
       }
     },
     {
       "id": "h03",
       "title": {
-        "la": "Homilia III"
+        "la": "Homilia III",
+        "pt-BR": "Homilia III"
       }
     },
     {
       "id": "h04",
       "title": {
-        "la": "Homilia IV"
+        "la": "Homilia IV",
+        "pt-BR": "Homilia IV"
       }
     },
     {
       "id": "h05",
       "title": {
-        "la": "Homilia V"
+        "la": "Homilia V",
+        "pt-BR": "Homilia V"
       }
     },
     {
       "id": "h06",
       "title": {
-        "la": "Homilia VI"
+        "la": "Homilia VI",
+        "pt-BR": "Homilia VI"
       }
     },
     {
       "id": "h07",
       "title": {
-        "la": "Homilia VII"
+        "la": "Homilia VII",
+        "pt-BR": "Homilia VII"
       }
     },
     {
       "id": "h08",
       "title": {
-        "la": "Homilia VIII"
+        "la": "Homilia VIII",
+        "pt-BR": "Homilia VIII"
       }
     },
     {
       "id": "h09",
       "title": {
-        "la": "Homilia IX"
+        "la": "Homilia IX",
+        "pt-BR": "Homilia IX"
       }
     },
     {
       "id": "h10",
       "title": {
-        "la": "Homilia X"
+        "la": "Homilia X",
+        "pt-BR": "Homilia X"
       }
     },
     {
       "id": "h11",
       "title": {
-        "la": "Homilia XI"
+        "la": "Homilia XI",
+        "pt-BR": "Homilia XI"
       }
     },
     {
       "id": "h12",
       "title": {
-        "la": "Homilia XII"
+        "la": "Homilia XII",
+        "pt-BR": "Homilia XII"
       }
     },
     {
       "id": "h13",
       "title": {
-        "la": "Homilia XIII"
+        "la": "Homilia XIII",
+        "pt-BR": "Homilia XIII"
       }
     },
     {
       "id": "h14",
       "title": {
-        "la": "Homilia XIV"
+        "la": "Homilia XIV",
+        "pt-BR": "Homilia XIV"
       }
     },
     {
       "id": "h15",
       "title": {
-        "la": "Homilia XV"
+        "la": "Homilia XV",
+        "pt-BR": "Homilia XV"
       }
     },
     {
       "id": "h16",
       "title": {
-        "la": "Homilia XVI"
+        "la": "Homilia XVI",
+        "pt-BR": "Homilia XVI"
       }
     },
     {
       "id": "h17",
       "title": {
-        "la": "Homilia XVII"
+        "la": "Homilia XVII",
+        "pt-BR": "Homilia XVII"
       }
     },
     {
       "id": "h18",
       "title": {
-        "la": "Homilia XVIII"
+        "la": "Homilia XVIII",
+        "pt-BR": "Homilia XVIII"
       }
     },
     {
       "id": "h19",
       "title": {
-        "la": "Homilia XIX"
+        "la": "Homilia XIX",
+        "pt-BR": "Homilia XIX"
       }
     },
     {
       "id": "h20",
       "title": {
-        "la": "Homilia XX"
+        "la": "Homilia XX",
+        "pt-BR": "Homilia XX"
       }
     },
     {
       "id": "h21",
       "title": {
-        "la": "Homilia XXI"
+        "la": "Homilia XXI",
+        "pt-BR": "Homilia XXI"
       }
     },
     {
       "id": "h22",
       "title": {
-        "la": "Homilia XXII"
+        "la": "Homilia XXII",
+        "pt-BR": "Homilia XXII"
       }
     },
     {
       "id": "h23",
       "title": {
-        "la": "Homilia XXIII"
+        "la": "Homilia XXIII",
+        "pt-BR": "Homilia XXIII"
       }
     },
     {
       "id": "h24",
       "title": {
-        "la": "Homilia XXIV"
+        "la": "Homilia XXIV",
+        "pt-BR": "Homilia XXIV"
       }
     },
     {
       "id": "h25",
       "title": {
-        "la": "Homilia XXV"
+        "la": "Homilia XXV",
+        "pt-BR": "Homilia XXV"
       }
     },
     {
       "id": "h26",
       "title": {
-        "la": "Homilia XXVI"
+        "la": "Homilia XXVI",
+        "pt-BR": "Homilia XXVI"
       }
     },
     {
       "id": "h27",
       "title": {
-        "la": "Homilia XXVII"
+        "la": "Homilia XXVII",
+        "pt-BR": "Homilia XXVII"
       }
     },
     {
       "id": "h28",
       "title": {
-        "la": "Homilia XXVIII"
+        "la": "Homilia XXVIII",
+        "pt-BR": "Homilia XXVIII"
       }
     },
     {
       "id": "h29",
       "title": {
-        "la": "Homilia XXIX"
+        "la": "Homilia XXIX",
+        "pt-BR": "Homilia XXIX"
       }
     },
     {
       "id": "h30",
       "title": {
-        "la": "Homilia XXX"
+        "la": "Homilia XXX",
+        "pt-BR": "Homilia XXX"
       }
     },
     {
       "id": "h31",
       "title": {
-        "la": "Homilia XXXI"
+        "la": "Homilia XXXI",
+        "pt-BR": "Homilia XXXI"
       }
     },
     {
       "id": "h32",
       "title": {
-        "la": "Homilia XXXII"
+        "la": "Homilia XXXII",
+        "pt-BR": "Homilia XXXII"
       }
     },
     {
       "id": "h33",
       "title": {
-        "la": "Homilia XXXIII"
+        "la": "Homilia XXXIII",
+        "pt-BR": "Homilia XXXIII"
       }
     },
     {
       "id": "h34",
       "title": {
-        "la": "Homilia XXXIV"
+        "la": "Homilia XXXIV",
+        "pt-BR": "Homilia XXXIV"
       }
     },
     {
       "id": "h35",
       "title": {
-        "la": "Homilia XXXV"
+        "la": "Homilia XXXV",
+        "pt-BR": "Homilia XXXV"
       }
     },
     {
       "id": "h36",
       "title": {
-        "la": "Homilia XXXVI"
+        "la": "Homilia XXXVI",
+        "pt-BR": "Homilia XXXVI"
       }
     },
     {
       "id": "h37",
       "title": {
-        "la": "Homilia XXXVII"
+        "la": "Homilia XXXVII",
+        "pt-BR": "Homilia XXXVII"
       }
     },
     {
       "id": "h38",
       "title": {
-        "la": "Homilia XXXVIII"
+        "la": "Homilia XXXVIII",
+        "pt-BR": "Homilia XXXVIII"
       }
     },
     {
       "id": "h39",
       "title": {
-        "la": "Homilia XXXIX"
+        "la": "Homilia XXXIX",
+        "pt-BR": "Homilia XXXIX"
       }
     },
     {
       "id": "h40",
       "title": {
-        "la": "Homilia XL"
+        "la": "Homilia XL",
+        "pt-BR": "Homilia XL"
       }
     }
   ]
