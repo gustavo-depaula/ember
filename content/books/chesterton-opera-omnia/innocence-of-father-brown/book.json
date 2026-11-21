@@ -15,13 +15,19 @@
   },
   "composed": "1911",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/innocence-of-father-brown",
   "editions": {
     "en-US": {
       "editor": "Cassell and Company",
       "year": 1911
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,73 +44,85 @@
     {
       "id": "ch01-the-blue-cross",
       "title": {
-        "en-US": "The Blue Cross"
+        "en-US": "The Blue Cross",
+        "pt-BR": "A Cruz Azul"
       }
     },
     {
       "id": "ch02-the-secret-garden",
       "title": {
-        "en-US": "The Secret Garden"
+        "en-US": "The Secret Garden",
+        "pt-BR": "O Jardim Secreto"
       }
     },
     {
       "id": "ch03-the-queer-feet",
       "title": {
-        "en-US": "The Queer Feet"
+        "en-US": "The Queer Feet",
+        "pt-BR": "Os Pés Estranhos"
       }
     },
     {
       "id": "ch04-the-flying-stars",
       "title": {
-        "en-US": "The Flying Stars"
+        "en-US": "The Flying Stars",
+        "pt-BR": "As Estrelas Voadoras"
       }
     },
     {
       "id": "ch05-the-invisible-man",
       "title": {
-        "en-US": "The Invisible Man"
+        "en-US": "The Invisible Man",
+        "pt-BR": "O Homem Invisível"
       }
     },
     {
       "id": "ch06-the-honour-of-israel-gow",
       "title": {
-        "en-US": "The Honour of Israel Gow"
+        "en-US": "The Honour of Israel Gow",
+        "pt-BR": "A Honra de Israel Gow"
       }
     },
     {
       "id": "ch07-the-wrong-shape",
       "title": {
-        "en-US": "The Wrong Shape"
+        "en-US": "The Wrong Shape",
+        "pt-BR": "A Forma Errada"
       }
     },
     {
       "id": "ch08-the-sins-of-prince-saradine",
       "title": {
-        "en-US": "The Sins of Prince Saradine"
+        "en-US": "The Sins of Prince Saradine",
+        "pt-BR": "Os Pecados do Príncipe Saradine"
       }
     },
     {
       "id": "ch09-the-hammer-of-god",
       "title": {
-        "en-US": "The Hammer of God"
+        "en-US": "The Hammer of God",
+        "pt-BR": "O Martelo de Deus"
       }
     },
     {
       "id": "ch10-the-eye-of-apollo",
       "title": {
-        "en-US": "The Eye of Apollo"
+        "en-US": "The Eye of Apollo",
+        "pt-BR": "O Olho de Apolo"
       }
     },
     {
       "id": "ch11-the-sign-of-the-broken-sword",
       "title": {
-        "en-US": "The Sign of the Broken Sword"
+        "en-US": "The Sign of the Broken Sword",
+        "pt-BR": "O Sinal da Espada Quebrada"
       }
     },
     {
       "id": "ch12-the-three-tools-of-death",
       "title": {
-        "en-US": "The Three Tools of Death"
+        "en-US": "The Three Tools of Death",
+        "pt-BR": "Os Três Instrumentos da Morte"
       }
     }
   ]
