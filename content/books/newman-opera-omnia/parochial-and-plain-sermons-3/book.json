@@ -15,13 +15,19 @@
   },
   "composed": "1836-1837",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "newman/parochial-and-plain-sermons-3",
   "editions": {
     "en-US": {
       "editor": "John Henry Newman, ed. William John Copeland (Rivingtons, 1868; Newman Reader)",
       "year": 1868
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,151 +44,176 @@
     {
       "id": "sermon-1",
       "title": {
-        "en-US": "Sermon 1. Abraham and Lot"
+        "en-US": "Sermon 1. Abraham and Lot",
+        "pt-BR": "Sermão 1. Abraão e Ló"
       }
     },
     {
       "id": "sermon-2",
       "title": {
-        "en-US": "Sermon 2. Wilfulness of Israel in Rejecting Samuel"
+        "en-US": "Sermon 2. Wilfulness of Israel in Rejecting Samuel",
+        "pt-BR": "Sermão 2. A obstinação de Israel ao rejeitar Samuel"
       }
     },
     {
       "id": "sermon-3",
       "title": {
-        "en-US": "Sermon 3. Saul"
+        "en-US": "Sermon 3. Saul",
+        "pt-BR": "Sermão 3. Saul"
       }
     },
     {
       "id": "sermon-4",
       "title": {
-        "en-US": "Sermon 4. Early years of David"
+        "en-US": "Sermon 4. Early years of David",
+        "pt-BR": "Sermão 4. Os primeiros anos de Davi"
       }
     },
     {
       "id": "sermon-5",
       "title": {
-        "en-US": "Sermon 5. Jeroboam"
+        "en-US": "Sermon 5. Jeroboam",
+        "pt-BR": "Sermão 5. Jeroboão"
       }
     },
     {
       "id": "sermon-6",
       "title": {
-        "en-US": "Sermon 6. Faith and Obedience"
+        "en-US": "Sermon 6. Faith and Obedience",
+        "pt-BR": "Sermão 6. Fé e obediência"
       }
     },
     {
       "id": "sermon-7",
       "title": {
-        "en-US": "Sermon 7. Christian Repentance"
+        "en-US": "Sermon 7. Christian Repentance",
+        "pt-BR": "Sermão 7. O arrependimento cristão"
       }
     },
     {
       "id": "sermon-8",
       "title": {
-        "en-US": "Sermon 8. Contracted Views in Religion"
+        "en-US": "Sermon 8. Contracted Views in Religion",
+        "pt-BR": "Sermão 8. Visões estreitas em matéria de religião"
       }
     },
     {
       "id": "sermon-9",
       "title": {
-        "en-US": "Sermon 9. A Particular Providence as Revealed in the Gospel"
+        "en-US": "Sermon 9. A Particular Providence as Revealed in the Gospel",
+        "pt-BR": "Sermão 9. Uma Providência particular tal como revelada no Evangelho"
       }
     },
     {
       "id": "sermon-10",
       "title": {
-        "en-US": "Sermon 10. Tears of Christ at the Grave of Lazarus"
+        "en-US": "Sermon 10. Tears of Christ at the Grave of Lazarus",
+        "pt-BR": "Sermão 10. As lágrimas de Cristo junto ao túmulo de Lázaro"
       }
     },
     {
       "id": "sermon-11",
       "title": {
-        "en-US": "Sermon 11. Bodily Suffering"
+        "en-US": "Sermon 11. Bodily Suffering",
+        "pt-BR": "Sermão 11. O sofrimento corporal"
       }
     },
     {
       "id": "sermon-12",
       "title": {
-        "en-US": "Sermon 12. The Humiliation of the Eternal Son"
+        "en-US": "Sermon 12. The Humiliation of the Eternal Son",
+        "pt-BR": "Sermão 12. A humilhação do Filho Eterno"
       }
     },
     {
       "id": "sermon-13",
       "title": {
-        "en-US": "Sermon 13. Jewish Zeal, a Pattern for Christians"
+        "en-US": "Sermon 13. Jewish Zeal, a Pattern for Christians",
+        "pt-BR": "Sermão 13. O zelo judaico, um modelo para os cristãos"
       }
     },
     {
       "id": "sermon-14",
       "title": {
-        "en-US": "Sermon 14. Submission to Church Authority"
+        "en-US": "Sermon 14. Submission to Church Authority",
+        "pt-BR": "Sermão 14. A submissão à autoridade da Igreja"
       }
     },
     {
       "id": "sermon-15",
       "title": {
-        "en-US": "Sermon 15. Contest between Truth and Falsehood in the Church"
+        "en-US": "Sermon 15. Contest between Truth and Falsehood in the Church",
+        "pt-BR": "Sermão 15. O combate entre a verdade e a falsidade na Igreja"
       }
     },
     {
       "id": "sermon-16",
       "title": {
-        "en-US": "Sermon 16. The Church Visible and Invisible"
+        "en-US": "Sermon 16. The Church Visible and Invisible",
+        "pt-BR": "Sermão 16. A Igreja visível e invisível"
       }
     },
     {
       "id": "sermon-17",
       "title": {
-        "en-US": "Sermon 17. The Visible Church an Encouragement to Faith"
+        "en-US": "Sermon 17. The Visible Church an Encouragement to Faith",
+        "pt-BR": "Sermão 17. A Igreja visível como estímulo à fé"
       }
     },
     {
       "id": "sermon-18",
       "title": {
-        "en-US": "Sermon 18. The Gift of the Spirit"
+        "en-US": "Sermon 18. The Gift of the Spirit",
+        "pt-BR": "Sermão 18. O dom do Espírito"
       }
     },
     {
       "id": "sermon-19",
       "title": {
-        "en-US": "Sermon 19. Regenerating Baptism"
+        "en-US": "Sermon 19. Regenerating Baptism",
+        "pt-BR": "Sermão 19. O Batismo regenerador"
       }
     },
     {
       "id": "sermon-20",
       "title": {
-        "en-US": "Sermon 20. Infant Baptism"
+        "en-US": "Sermon 20. Infant Baptism",
+        "pt-BR": "Sermão 20. O Batismo de crianças"
       }
     },
     {
       "id": "sermon-21",
       "title": {
-        "en-US": "Sermon 21. The Daily Service"
+        "en-US": "Sermon 21. The Daily Service",
+        "pt-BR": "Sermão 21. O Ofício diário"
       }
     },
     {
       "id": "sermon-22",
       "title": {
-        "en-US": "Sermon 22. The Good Part of Mary"
+        "en-US": "Sermon 22. The Good Part of Mary",
+        "pt-BR": "Sermão 22. A boa parte de Maria"
       }
     },
     {
       "id": "sermon-23",
       "title": {
-        "en-US": "Sermon 23. Religious Worship a Remedy for Excitements"
+        "en-US": "Sermon 23. Religious Worship a Remedy for Excitements",
+        "pt-BR": "Sermão 23. O culto religioso como remédio para as agitações"
       }
     },
     {
       "id": "sermon-24",
       "title": {
-        "en-US": "Sermon 24. Intercession"
+        "en-US": "Sermon 24. Intercession",
+        "pt-BR": "Sermão 24. A intercessão"
       }
     },
     {
       "id": "sermon-25",
       "title": {
-        "en-US": "Sermon 25. The Intermediate State"
+        "en-US": "Sermon 25. The Intermediate State",
+        "pt-BR": "Sermão 25. O estado intermediário"
       }
     }
   ]
