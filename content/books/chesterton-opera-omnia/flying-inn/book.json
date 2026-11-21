@@ -11,17 +11,23 @@
   },
   "description": {
     "en-US": "In an England half-conquered by a prohibitionist, pseudo-Islamic reform, the poet-adventurer Patrick Dalroy and the Irish innkeeper Humphrey Pump roll a barrel of rum and a great cheese from county to county, setting up an inn wherever they stop. Chesterton's satirical romance of liberty, tradition and drink, studded with songs.",
-    "pt-BR": "Numa Inglaterra meio conquistada por uma reforma proibicionista e pseudo-islâmica, o poeta-aventureiro Patrick Dalroy e o estalajadeiro irlandês Humphrey Pump rolam um barril de rum e um grande queijo de condado em condado, abrindo uma estalagem onde quer que parem. O romance satírico de Chesterton sobre a liberdade, a tradição e a bebida, pontuado de canções."
+    "pt-BR": "Numa Inglaterra meio conquistada por uma reforma proibicionista e pseudo-islâmica, o poeta-aventureiro Patrick Dalroy e o estalajadeiro inglês Humphrey Pump rolam um barril de rum e um grande queijo de condado em condado, abrindo uma estalagem onde quer que parem. O romance satírico de Chesterton sobre a liberdade, a tradição e a bebida, pontuado de canções."
   },
   "composed": "1914",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/flying-inn",
   "editions": {
     "en-US": {
       "editor": "Methuen",
       "year": 1914
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,151 +44,176 @@
     {
       "id": "ch01-a-sermon-on-inns",
       "title": {
-        "en-US": "I. A Sermon on Inns"
+        "en-US": "I. A Sermon on Inns",
+        "pt-BR": "I. Um sermão sobre estalagens"
       }
     },
     {
       "id": "ch02-the-end-of-olive-island",
       "title": {
-        "en-US": "II. The End of Olive Island"
+        "en-US": "II. The End of Olive Island",
+        "pt-BR": "II. O fim da Ilha das Oliveiras"
       }
     },
     {
       "id": "ch03-the-sign-of-the-old-ship",
       "title": {
-        "en-US": "III. The Sign of “The Old Ship”"
+        "en-US": "III. The Sign of “The Old Ship”",
+        "pt-BR": "III. A tabuleta de “O Velho Navio”"
       }
     },
     {
       "id": "ch04-the-inn-finds-wings",
       "title": {
-        "en-US": "IV. The Inn Finds Wings"
+        "en-US": "IV. The Inn Finds Wings",
+        "pt-BR": "IV. A estalagem ganha asas"
       }
     },
     {
       "id": "ch05-the-astonishment-of-the-agent",
       "title": {
-        "en-US": "V. The Astonishment of the Agent"
+        "en-US": "V. The Astonishment of the Agent",
+        "pt-BR": "V. O espanto do agente"
       }
     },
     {
       "id": "ch06-the-hole-in-heaven",
       "title": {
-        "en-US": "VI. The Hole in Heaven"
+        "en-US": "VI. The Hole in Heaven",
+        "pt-BR": "VI. O buraco no céu"
       }
     },
     {
       "id": "ch07-the-society-of-simple-souls",
       "title": {
-        "en-US": "VII. The Society of Simple Souls"
+        "en-US": "VII. The Society of Simple Souls",
+        "pt-BR": "VII. A Sociedade das Almas Simples"
       }
     },
     {
       "id": "ch08-vox-populi-vox-dei",
       "title": {
-        "en-US": "VIII. Vox Populi Vox Dei"
+        "en-US": "VIII. Vox Populi Vox Dei",
+        "pt-BR": "VIII. Vox Populi Vox Dei"
       }
     },
     {
       "id": "ch09-the-higher-criticism-and-mr-hibbs",
       "title": {
-        "en-US": "IX. The Higher Criticism and Mr. Hibbs"
+        "en-US": "IX. The Higher Criticism and Mr. Hibbs",
+        "pt-BR": "IX. A alta crítica e o Sr. Hibbs"
       }
     },
     {
       "id": "ch10-the-character-of-quoodle",
       "title": {
-        "en-US": "X. The Character of Quoodle"
+        "en-US": "X. The Character of Quoodle",
+        "pt-BR": "X. O caráter de Quoodle"
       }
     },
     {
       "id": "ch11-vegetarianism-in-the-drawing-room",
       "title": {
-        "en-US": "XI. Vegetarianism in the Drawing-room"
+        "en-US": "XI. Vegetarianism in the Drawing-room",
+        "pt-BR": "XI. O vegetarianismo na sala de visitas"
       }
     },
     {
       "id": "ch12-vegetarianism-in-the-forest",
       "title": {
-        "en-US": "XII. Vegetarianism in the Forest"
+        "en-US": "XII. Vegetarianism in the Forest",
+        "pt-BR": "XII. O vegetarianismo na floresta"
       }
     },
     {
       "id": "ch13-the-battle-of-the-tunnel",
       "title": {
-        "en-US": "XIII. The Battle of the Tunnel"
+        "en-US": "XIII. The Battle of the Tunnel",
+        "pt-BR": "XIII. A batalha do túnel"
       }
     },
     {
       "id": "ch14-the-creature-that-man-forgets",
       "title": {
-        "en-US": "XIV. The Creature That Man Forgets"
+        "en-US": "XIV. The Creature That Man Forgets",
+        "pt-BR": "XIV. A criatura que o homem esquece"
       }
     },
     {
       "id": "ch15-the-songs-of-the-car-club",
       "title": {
-        "en-US": "XV. The Songs of the Car Club"
+        "en-US": "XV. The Songs of the Car Club",
+        "pt-BR": "XV. As canções do clube automobilístico"
       }
     },
     {
       "id": "ch16-the-seven-moods-of-dorian",
       "title": {
-        "en-US": "XVI. The Seven Moods of Dorian"
+        "en-US": "XVI. The Seven Moods of Dorian",
+        "pt-BR": "XVI. Os sete humores de Dorian"
       }
     },
     {
       "id": "ch17-the-poet-in-parliament",
       "title": {
-        "en-US": "XVII. The Poet in Parliament"
+        "en-US": "XVII. The Poet in Parliament",
+        "pt-BR": "XVII. O poeta no Parlamento"
       }
     },
     {
       "id": "ch18-the-republic-of-peaceways",
       "title": {
-        "en-US": "XVIII. The Republic of Peaceways"
+        "en-US": "XVIII. The Republic of Peaceways",
+        "pt-BR": "XVIII. A República de Peaceways"
       }
     },
     {
       "id": "ch19-the-hospitality-of-the-captain",
       "title": {
-        "en-US": "XIX. The Hospitality of the Captain"
+        "en-US": "XIX. The Hospitality of the Captain",
+        "pt-BR": "XIX. A hospitalidade do Capitão"
       }
     },
     {
       "id": "ch20-the-turk-and-the-futurists",
       "title": {
-        "en-US": "XX. The Turk and the Futurists"
+        "en-US": "XX. The Turk and the Futurists",
+        "pt-BR": "XX. O turco e os futuristas"
       }
     },
     {
       "id": "ch21-the-road-to-roundabout",
       "title": {
-        "en-US": "XXI. The Road to Roundabout"
+        "en-US": "XXI. The Road to Roundabout",
+        "pt-BR": "XXI. A estrada para Roundabout"
       }
     },
     {
       "id": "ch22-the-chemistry-of-mr-crooke",
       "title": {
-        "en-US": "XXII. The Chemistry of Mr. Crooke"
+        "en-US": "XXII. The Chemistry of Mr. Crooke",
+        "pt-BR": "XXII. A química do Sr. Crooke"
       }
     },
     {
       "id": "ch23-the-march-on-ivywood",
       "title": {
-        "en-US": "XXIII. The March on Ivywood"
+        "en-US": "XXIII. The March on Ivywood",
+        "pt-BR": "XXIII. A marcha sobre Ivywood"
       }
     },
     {
       "id": "ch24-the-enigmas-of-lady-joan",
       "title": {
-        "en-US": "XXIV. The Enigmas of Lady Joan"
+        "en-US": "XXIV. The Enigmas of Lady Joan",
+        "pt-BR": "XXIV. Os enigmas de Lady Joan"
       }
     },
     {
       "id": "ch25-the-finding-of-the-superman",
       "title": {
-        "en-US": "XXV. The Finding of the Superman"
+        "en-US": "XXV. The Finding of the Superman",
+        "pt-BR": "XXV. A descoberta do super-homem"
       }
     }
   ]
