@@ -11,17 +11,23 @@
   },
   "description": {
     "en-US": "Chesterton's answer to H. G. Wells's Outline of History, and the book that, by C. S. Lewis's account, did most to shape his conversion. Part I treats man as the strange creature who draws, buries and worships, and who cannot be explained as one more animal; Part II treats Christ as a figure who cannot be explained as one more teacher. A history of religion told from the cave at the beginning to the cave at Bethlehem.",
-    "pt-BR": "A resposta de Chesterton ao Outline of History de H. G. Wells e o livro que, segundo C. S. Lewis, mais contribuiu para a sua conversão. A Parte I trata do homem como a criatura estranha que desenha, sepulta e adora, e que não se explica como mais um animal; a Parte II trata de Cristo como alguém que não se explica como mais um mestre. Uma história da religião contada da caverna do princípio à caverna de Belém."
+    "pt-BR": "A resposta de Chesterton ao Esboço da história de H. G. Wells e o livro que, segundo C. S. Lewis, mais contribuiu para a sua conversão. A Parte I trata do homem como a criatura estranha que desenha, sepulta e adora, e que não se explica como mais um animal; a Parte II trata de Cristo como alguém que não se explica como mais um mestre. Uma história da religião contada da caverna do princípio à caverna de Belém."
   },
   "composed": "1925",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/everlasting-man",
   "editions": {
     "en-US": {
       "publisher": "Hodder & Stoughton, London",
       "year": 1925
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,61 +44,71 @@
     {
       "id": "introduction",
       "title": {
-        "en-US": "Introduction: The Plan of This Book"
+        "en-US": "Introduction: The Plan of This Book",
+        "pt-BR": "Introdução: O plano deste livro"
       }
     },
     {
       "id": "part-1",
       "title": {
-        "en-US": "Part I: On the Creature Called Man"
+        "en-US": "Part I: On the Creature Called Man",
+        "pt-BR": "Parte I: Sobre a criatura chamada homem"
       },
       "children": [
         {
           "id": "p1-01-the-man-in-the-cave",
           "title": {
-            "en-US": "I. The Man in the Cave"
+            "en-US": "I. The Man in the Cave",
+            "pt-BR": "I. O homem na caverna"
           }
         },
         {
           "id": "p1-02-professors-and-prehistoric-men",
           "title": {
-            "en-US": "II. Professors and Prehistoric Men"
+            "en-US": "II. Professors and Prehistoric Men",
+            "pt-BR": "II. Professores e homens pré-históricos"
           }
         },
         {
           "id": "p1-03-the-antiquity-of-civilisation",
           "title": {
-            "en-US": "III. The Antiquity of Civilisation"
+            "en-US": "III. The Antiquity of Civilisation",
+            "pt-BR": "III. A antiguidade da civilização"
           }
         },
         {
           "id": "p1-04-god-and-comparative-religion",
           "title": {
-            "en-US": "IV. God and Comparative Religion"
+            "en-US": "IV. God and Comparative Religion",
+            "pt-BR": "IV. Deus e a religião comparada"
           }
         },
         {
           "id": "p1-05-man-and-mythologies",
           "title": {
-            "en-US": "V. Man and Mythologies"
+            "en-US": "V. Man and Mythologies",
+            "pt-BR": "V. O homem e as mitologias"
           }
         },
         {
           "id": "p1-06-the-demons-and-the-philosophers",
           "title": {
-            "en-US": "VI. The Demons and the Philosophers"
+            "en-US": "VI. The Demons and the Philosophers",
+            "pt-BR": "VI. Os demônios e os filósofos"
           }
         },
         {
           "id": "p1-07-the-war-of-the-gods-and-demons",
           "title": {
-            "en-US": "VII. The War of the Gods and Demons"
+            "en-US": "VII. The War of the Gods and Demons",
+            "pt-BR": "VII. A guerra dos deuses e dos demônios"
           }
         },
         {
           "id": "p1-08-the-end-of-the-world",
           "title": {
-            "en-US": "VIII. The End of the World"
+            "en-US": "VIII. The End of the World",
+            "pt-BR": "VIII. O fim do mundo"
           }
         }
       ]
@@ -100,43 +116,50 @@
     {
       "id": "part-2",
       "title": {
-        "en-US": "Part II: On the Man Called Christ"
+        "en-US": "Part II: On the Man Called Christ",
+        "pt-BR": "Parte II: Sobre o homem chamado Cristo"
       },
       "children": [
         {
           "id": "p2-01-the-god-in-the-cave",
           "title": {
-            "en-US": "I. The God in the Cave"
+            "en-US": "I. The God in the Cave",
+            "pt-BR": "I. O Deus na caverna"
           }
         },
         {
           "id": "p2-02-the-riddles-of-the-gospel",
           "title": {
-            "en-US": "II. The Riddles of the Gospel"
+            "en-US": "II. The Riddles of the Gospel",
+            "pt-BR": "II. Os enigmas do Evangelho"
           }
         },
         {
           "id": "p2-03-the-strangest-story-in-the-world",
           "title": {
-            "en-US": "III. The Strangest Story in the World"
+            "en-US": "III. The Strangest Story in the World",
+            "pt-BR": "III. A história mais estranha do mundo"
           }
         },
         {
           "id": "p2-04-the-witness-of-the-heretics",
           "title": {
-            "en-US": "IV. The Witness of the Heretics"
+            "en-US": "IV. The Witness of the Heretics",
+            "pt-BR": "IV. O testemunho dos hereges"
           }
         },
         {
           "id": "p2-05-the-escape-from-paganism",
           "title": {
-            "en-US": "V. The Escape from Paganism"
+            "en-US": "V. The Escape from Paganism",
+            "pt-BR": "V. A fuga do paganismo"
           }
         },
         {
           "id": "p2-06-the-five-deaths-of-the-faith",
           "title": {
-            "en-US": "VI. The Five Deaths of the Faith"
+            "en-US": "VI. The Five Deaths of the Faith",
+            "pt-BR": "VI. As cinco mortes da fé"
           }
         }
       ]
@@ -144,19 +167,22 @@
     {
       "id": "conclusion",
       "title": {
-        "en-US": "Conclusion: The Summary of This Book"
+        "en-US": "Conclusion: The Summary of This Book",
+        "pt-BR": "Conclusão: O resumo deste livro"
       }
     },
     {
       "id": "appendix-1",
       "title": {
-        "en-US": "Appendix I: On Prehistoric Man"
+        "en-US": "Appendix I: On Prehistoric Man",
+        "pt-BR": "Apêndice I: Sobre o homem pré-histórico"
       }
     },
     {
       "id": "appendix-2",
       "title": {
-        "en-US": "Appendix II: On Authority and Accuracy"
+        "en-US": "Appendix II: On Authority and Accuracy",
+        "pt-BR": "Apêndice II: Sobre a autoridade e a exatidão"
       }
     }
   ]
