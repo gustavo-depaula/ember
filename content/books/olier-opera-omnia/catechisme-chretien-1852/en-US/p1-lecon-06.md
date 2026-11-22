@@ -1,16 +1,16 @@
 # Part 1, lesson 6. Of the source of the malignity of the flesh, which we are obliged to renounce
 
-Q. Whence comes the' malig nity of our flesh ?
+Q. Whence comes the malignity of our flesh ?
 
 A. It comes from the devil, who insinuated his venom into the soul of our first parents: they received it with pleasure, and so infected their nature that all their posterity felt the effects of it.
 
 Q. Will you explain this to me by an example ?
 
-A. It is with the children of Adam as with those of a leper, whose corruption is so great, that all his flesh and substance are corrupted; so that all born of him are corrupted; all his childjcen. are lepers like himself.
+A. It is with the children of Adam as with those of a leper, whose corruption is so great, that all his flesh and substance are corrupted; so that all born of him are corrupted; all his children are lepers like himself.
 
-Q. Have you another exam ple?
+Q. Have you another example?
 
-A. Yes; they may be com pared to a source of stagnant and corrupt water; the streams flowing from it, are equally cor rupt, and retain its infection.
+A. Yes; they may be compared to a source of stagnant and corrupt water; the streams flowing from it, are equally corrupt, and retain its infection.
 
 Q. Our first parents were then infected with the malignity of the devil ?
 
@@ -22,7 +22,7 @@ A. Yes.
 
 Q. God has then a great hatred for our flesh ?
 
-A. Yes, since it is filled with the malignity of the devil him self.
+A. Yes, since it is filled with the malignity of the devil himself.
 
 Q. But the malice of the devil is consummated in hell ; does our flesh share in this consummated malice ?
 
@@ -32,26 +32,24 @@ Q. What! is our flesh capable of doing as much evil as the devil ?
 
 A. Our flesh would be guilty of all the evil that the devil can commit, if it were deserted by God and his Holy Spirit.
 
-Q. In this case, we ought to have a great hatred and horror for our flesh r
+Q. In this case, we ought to have a great hatred and horror for our flesh?
 
 A. Yes, we ought to hate it, as much as we do the devil; we ought to fly from it as from satan.
 
-Q. It is, perhaps, for this reason, that the saints treated their flesh so cruelly; and that, through the hatred they had for it, they tore it to pieces and disciplined and scourged them selves even to blood ?
+Q. It is, perhaps, for this reason, that the saints treated their flesh so cruelly; and that, through the hatred they had for it, they tore it to pieces and disciplined and scourged themselves even to blood ?
 
 A. Yes; they discharged their anger upon their flesh, as upon the sworn enemy of God.
 
-Q 0 ! how much we ought to hate the flesh, and renounce all that it may ask or desire of us !
+Q. O! how much we ought to hate the flesh, and renounce all that it may ask or desire of us !
 
 A. Yes.
 
-Q. Is it for this reason that our Lord said to his disciples, that he viho wishes to follow him must renounce himself?*
+Q. Is it for this reason that our Lord said to his disciples, that he who wishes to follow him must renounce himself?[^1]
 
 A. Yes.
 
-Q. What do you mean by re nouncing ourselves ?
+Q. What do you mean by renouncing ourselves ?
 
-A. To renounce ourselves, is to renounce all the inclinations of the flesh; the desire of honors, pleasures, and riches; J:he de sire of being loved; the desire of vengeance ; in a word, all the
+A. To renounce ourselves, is to renounce all the inclinations of the flesh; the desire of honors, pleasures, and riches; the desire of being loved; the desire of vengeance ; in a word, all the desires of sin that are in us, and are opposed to the cross of Christ.
 
-* Si quis vult post me yenire, abneget semetipsma Malth, xvi, 21.
-
-desires of sin that are in us, and are opposed to the cross of Christ.
+[^1]: *Si quis vult post me venire, abneget semetipsum.* Matth. xvi, 24.
