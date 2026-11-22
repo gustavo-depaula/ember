@@ -71,10 +71,54 @@
 			}
 		},
 		{
+			"type": "rubric",
+			"text": {
+				"en-US": "M. Olier gives these words for the beginning of meditation (*Catechism of an Interior Life*, Part II, lesson 7):",
+				"pt-BR": "M. Olier dá estas palavras para o começo da oração (*Catéchisme chrétien pour la vie intérieure*, II parte, lição 7):"
+			}
+		},
+		{
+			"type": "prayer",
+			"text": {
+				"en-US": "O my God and my all, I renounce myself and all my inclinations to sin; I clearly see that I cannot pray to thee, either in myself or by myself; I detest with all my heart whatever is displeasing to thee in me; and to cover my iniquities and malice, and obtain access to thy divine majesty, I give myself to Christ, thy Son, who lives in me, and is the prayer and praise of thy whole church.",
+				"pt-BR": "Meu Deus e meu tudo, renuncio a mim mesmo e às inclinações do pecado de que estou cheio. Vejo bem que não Vos posso rezar em mim mesmo nem por mim mesmo. Detesto de todo o coração tudo o que em mim Vos pode desagradar; e, para cobrir a minha iniquidade e a minha malícia e ter algum acesso junto da vossa divina majestade, dou-me a Jesus Cristo, vosso Filho, que habita em mim e que é a oração e o louvor de toda a vossa Igreja."
+			}
+		},
+		{
+			"type": "collapsible",
+			"title": {
+				"en-US": "When you feel nothing",
+				"pt-BR": "Quando não se sente nada"
+			},
+			"sections": [
+				{
+					"type": "meditation",
+					"text": {
+						"en-US": "If you wish to unite yourself with our Lord, you need no sensible representation or light in your mind, but you ought to be satisfied with simple faith and charity, without wishing to feel any sensible operation in your heart.\n— M. Olier, *Catechism of an Interior Life*, Part II, lesson 12",
+						"pt-BR": "Se quereis unir-vos a Nosso Senhor, não tendes necessidade de imagens nem de luzes sensíveis no vosso espírito; deveis contentar-vos com a simples fé e a só caridade, sem querer sentir nenhuma operação sensível no vosso coração.\n— M. Olier, *Catéchisme chrétien pour la vie intérieure*, II parte, lição 12"
+					}
+				},
+				{
+					"type": "meditation",
+					"text": {
+						"en-US": "We should unite ourselves to the Holy Spirit in the beginning, and at least in each part of our meditation; also, when we feel our soul in a state of dryness, obscurity, and interior desolation.\n— M. Olier, *Catechism of an Interior Life*, Part II, lesson 14",
+						"pt-BR": "Depois de vos terdes unido ao Espírito Santo ao começar, é bom renovar a vossa união, se não a cada ato, ao menos a cada parte da oração, e ainda quando a alma se encontra na secura e na obscuridade.\n— M. Olier, *Catéchisme chrétien pour la vie intérieure*, II parte, lição 14"
+					}
+				}
+			]
+		},
+		{
 			"type": "section-marker",
 			"title": {
 				"en-US": "II. Adoration",
 				"pt-BR": "II. Adoração"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "In our prayer, then, we adore Jesus in Himself, all that He is, and in all that He does, ' for all His days and moments are adorable by the dignity of His Person'; the least actions of Jesus are to be considered. ' Who can treat anything as little where all is so great, where each thing, however small it may seem, so nearly touches the Divinity?' We seek to penetrate into His mind ' to put on the mind of Christ,' to know His desires and sentiments and will; we read between the lines of the Gospel that we may enter into that unknown life ' the many things not written' of which St. John speaks. The virtues of the Christian life - humility, patience, love, etc. - must not be meditated on as abstract principles, but contemplated in the humble, patient, loving Jesus, and this very act of ' looking unto Jesus' serves to conform us to Him, transform our souls into His likeness.\n— Bede Frost, *The Art of Mental Prayer*",
+				"pt-BR": "Em nossa oração, portanto, adoramos Jesus em si mesmo, em tudo o que Ele é e em tudo o que faz, “pois todos os seus dias e momentos são adoráveis pela dignidade de sua Pessoa”; as menores ações de Jesus devem ser consideradas. “Quem pode tratar algo como pequeno onde tudo é tão grande, onde cada coisa, por menor que pareça, toca tão de perto a Divindade?” Procuramos penetrar em seu pensamento, “revestir-nos do pensamento de Cristo”, conhecer seus desejos, sentimentos e vontade; lemos nas entrelinhas do Evangelho para penetrar naquela vida desconhecida, “as muitas coisas não escritas” de que fala São João. As virtudes da vida cristã — humildade, paciência, amor etc. — não devem ser objeto de meditação como princípios abstratos, mas contempladas em Jesus humilde, paciente e amoroso; e esse próprio ato de “olhar para Jesus” serve para nos conformar a Ele, transformar nossas almas à sua semelhança.\n— Bede Frost, *The Art of Mental Prayer*"
 			}
 		},
 		{
@@ -92,6 +136,66 @@
 			}
 		},
 		{
+			"type": "rubric",
+			"text": {
+				"en-US": "M. Olier: to adore by Christ and with Him, we have only to tell Him with simplicity (*Catechism of an Interior Life*, Part II, lesson 11):",
+				"pt-BR": "M. Olier: para adorar por Cristo e com Ele, basta dizer-Lhe com simplicidade (*Catéchisme chrétien pour la vie intérieure*, II parte, lição 11):"
+			}
+		},
+		{
+			"type": "prayer",
+			"text": {
+				"en-US": "My Lord Jesus Christ, who art my praise, I rejoice in all the praises thou givest to thy Father; I unite and give myself to thee, to adore and praise him by thee and with thee; I wish to be one host of praise with thee, to glorify him during all eternity.",
+				"pt-BR": "Meu Senhor Jesus Cristo, que sois o meu louvor, comprazo-me e alegro-me em todos os louvores que dais a Deus vosso Pai; uno-me e dou-me a Vós para O adorar e para Lhe rezar por Vós e convosco; não quero ser senão uma hóstia de louvor convosco, para glorificar a Deus durante toda a eternidade."
+			}
+		},
+		{
+			"type": "collapsible",
+			"title": {
+				"en-US": "Why begin with adoration",
+				"pt-BR": "Por que começar pela adoração"
+			},
+			"sections": [
+				{
+					"type": "meditation",
+					"text": {
+						"en-US": "Q. Why do you begin with adoration?\nA. 1st. Because, of the two ends of meditation, the principal is to honor and glorify God; 2dly, because the church does so in the beginning of her public prayers, saying: Come, let us adore, and prostrate ourselves before God.\n\nQ. Why do you call the first part, adoration?\nA. Because the word adoration is often taken in the holy scripture, to signify that virtue of Religion which inclines the soul to annihilation, adoration, praise, thanksgiving, love, in a word, to all the duties and homages which we ought to pay to Almighty God in the first part of meditation.\n— M. Olier, *Catechism of an Interior Life*, Part II, lesson 8",
+						"pt-BR": "Por que começais pela adoração? — 1º Porque, dos dois fins da oração, o principal é honrar e glorificar a Deus; 2º porque a santa Igreja assim o pratica no começo das suas orações públicas, dizendo: Vinde, adoremos a Deus e prostremo-nos diante d’Ele, *Venite, adoremus, et procidamus ante Deum*.\n\nPor que chamais adoração a esta primeira parte? — Porque a palavra adoração, na Sagrada Escritura, toma-se muitas vezes pela de religião, virtude que leva a alma ao aniquilamento, à admiração, aos louvores, às ações de graças, ao amor, numa palavra, a toda sorte de deveres e homenagens que devemos prestar a Deus nesta primeira parte da oração.\n— M. Olier, *Catéchisme chrétien pour la vie intérieure*, II parte, lição 8"
+					}
+				}
+			]
+		},
+		{
+			"type": "collapsible",
+			"title": {
+				"en-US": "Example — Olier on penitence: Jesus before our eyes",
+				"pt-BR": "Exemplo — Olier sobre a penitência: Jesus diante dos olhos"
+			},
+			"sections": [
+				{
+					"type": "meditation",
+					"text": {
+						"en-US": "Consider with reverence Jesus Christ, penitent for our sins. Honour in Him the Holy Spirit of penitence, who animated Him throughout all His life and has filled the hearts of all the penitents of the Church.",
+						"pt-BR": "Considere com reverência Jesus Cristo, penitente pelos nossos pecados. Honre n'Ele o Espírito Santo de penitência, que O animou durante toda a sua vida e encheu os corações de todos os penitentes da Igreja."
+					}
+				},
+				{
+					"type": "meditation",
+					"text": {
+						"en-US": "Hold yourself in reverence and respect towards so holy and Divine a thing; and after your heart has poured itself out in love, praise and other duties, remain some time in silence before Him, in those same dispositions and religious sentiments rooted in the depth of your soul.",
+						"pt-BR": "Mantenha-se em reverência e respeito diante de coisa tão santa e Divina; e depois de o seu coração se ter derramado em amor, louvor e outros deveres, permaneça algum tempo em silêncio diante d'Ele, nessas mesmas disposições e sentimentos religiosos enraizados no fundo da alma."
+					}
+				},
+				{
+					"type": "rubric",
+					"text": {
+						"en-US": "M. Olier, *Introduction à la vie et aux vertus chrétiennes*, ch. 4",
+						"pt-BR": "M. Olier, *Introduction à la vie et aux vertus chrétiennes*, cap. 4"
+					}
+				}
+			]
+		},
+		{
 			"type": "section-marker",
 			"title": {
 				"en-US": "III. Communion",
@@ -106,17 +210,33 @@
 			}
 		},
 		{
+			"type": "collapsible",
+			"title": {
+				"en-US": "Why it is called communion",
+				"pt-BR": "Por que se chama comunhão"
+			},
+			"sections": [
+				{
+					"type": "meditation",
+					"text": {
+						"en-US": "Because, in this part, we give ourselves to God, to enter into a participation of his graces and perfections. Now, this participation is called communion, especially by the Greek Fathers, because in it God renders his riches common to us. The participation of the body of Jesus Christ is called sacramental communion, because this sacrament renders common to us the goods of our Lord, and communicates to us his choicest blessings; by the same reason, the participation that takes place in meditation is called spiritual communion, on account of the gifts which Almighty God communicates to us in it by the interior operation alone of his divine Spirit.\n— M. Olier, *Catechism of an Interior Life*, Part II, lesson 8",
+						"pt-BR": "Porque nesta parte nos damos a Deus para entrar em participação dos seus dons e das suas perfeições. Ora, esta participação é chamada comunhão, sobretudo pelos Padres gregos, porque Deus por ela nos torna comuns as suas riquezas. A participação no corpo de Jesus Cristo chama-se comunhão sacramental, porque este sacramento nos torna comuns os bens de Jesus Cristo e nos comunica os seus maiores dons; e a participação que se faz na oração chama-se comunhão espiritual, por causa dos dons que Deus nela comunica pela só operação íntima do seu Espírito.\n— M. Olier, *Catéchisme chrétien pour la vie intérieure*, II parte, lição 8"
+					}
+				}
+			]
+		},
+		{
 			"type": "subheading",
 			"text": {
-				"en-US": "1. Conviction",
-				"pt-BR": "1. Convicção"
+				"en-US": "1. Contrition",
+				"pt-BR": "1. Contrição"
 			}
 		},
 		{
 			"type": "rubric",
 			"text": {
-				"en-US": "We see not merely the beauty of the virtue, but the necessity of it for ourselves. For unless we are persuaded of our need we shall ask for it either coldly or not at all.",
-				"pt-BR": "Vemos não só a beleza da virtude, mas a sua necessidade para nós. Pois, se não estivermos persuadidos da nossa necessidade, pediremos com frieza ou não pediremos de todo."
+				"en-US": "In which we see not merely the beauty of the virtue, etc., but the necessity of it for ourselves. For unless we are persuaded of our need we shall ask for it either coldly or not at all.",
+				"pt-BR": "No qual vemos não apenas a beleza da virtude etc., mas a necessidade dela para nós mesmos. Pois, se não estivermos convencidos de nossa necessidade, nós a pediremos friamente ou nem sequer a pediremos."
 			}
 		},
 		{
@@ -129,8 +249,8 @@
 		{
 			"type": "meditation",
 			"text": {
-				"en-US": "Upon our lack of virtue; the obligations we are under to practise the particular one we are meditating upon; regret for the past neglect of this perfection; confusion at the realisation of our present poverty and misery; desire for the future, that we may earnestly seek to escape from our lukewarmness into a real communion with our Lord.",
-				"pt-BR": "Sobre a nossa falta de virtude; as obrigações que temos de praticar aquela em que meditamos; o pesar pela negligência passada desta perfeição; a confusão ao reconhecer a nossa pobreza e miséria presentes; o desejo, para o futuro, de buscar seriamente sair da nossa tibieza para uma verdadeira comunhão com o Senhor."
+				"en-US": "Our lack of virtue, the obligations we are under to practise the particular one we are meditating upon; regret for the past neglect of this perfection; confusion at the realisation of our present poverty and misery; desire for the future that we may earnestly seek to escape from our lukewarmness into a real communion with our Lord.",
+				"pt-BR": "Sobre nossa falta de virtude, sobre as obrigações que temos de praticar aquela em particular sobre a qual meditamos; de pesar pela negligência passada dessa perfeição, de confusão ao perceber nossa pobreza e miséria presentes, de desejo para o futuro, a fim de procurarmos com empenho sair de nossa tibieza para uma verdadeira comunhão com nosso Senhor."
 			}
 		},
 		{
@@ -143,8 +263,8 @@
 		{
 			"type": "meditation",
 			"text": {
-				"en-US": "Humble, confident and persevering, that God will give us the grace we need. We should do so by humbly representing to Him that it is His will; that it will be to His glory; that one so imperfect and lacking in grace should not be suffered in His Church; the merits of His Son; the Divine promises in Holy Scripture.",
-				"pt-BR": "Humilde, confiante e perseverante, para que Deus nos dê a graça de que precisamos. Façamo-lo representando-Lhe humildemente que é a sua vontade; que será para a sua glória; que não se deveria tolerar na sua Igreja alguém tão imperfeito e falto de graça; os méritos de seu Filho; as promessas Divinas na Sagrada Escritura."
+				"en-US": "Humble, confident and persevering, that God will give us the grace we need. We should do so by humbly representing to Him that it is His will; that it will be to His glory; that one so imperfect and lacking in grace should not be suffered in His Church; the merits of His Son; the Divine promises in Holy Scripture, etc.",
+				"pt-BR": "Humilde, confiante e perseverante, para que Deus nos dê a graça de que precisamos. Devemos fazê-lo apresentando-lhe humildemente que essa é sua vontade; que isso contribuirá para sua glória; que não se deve permitir que alguém tão imperfeito e tão desprovido de graça permaneça assim em sua Igreja; os méritos de seu Filho; as promessas divinas na Sagrada Escritura etc."
 			}
 		},
 		{
@@ -153,6 +273,43 @@
 				"en-US": "Further, we must beg the favour and aid of the most Holy Virgin, our guardian angel, our patrons and other Saints. Nor must we forget the needs of Holy Church and of those for whom we ought specially to pray.",
 				"pt-BR": "Além disso, devemos implorar o favor e o auxílio da Santíssima Virgem, do nosso anjo da guarda, dos nossos padroeiros e de outros Santos. Nem devemos esquecer as necessidades da Santa Igreja e daqueles por quem devemos especialmente orar."
 			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "When a soul experiences in itself any secret operations, it ought to hold itself in repose and silence, to receive, in their full extent, the gifts and communications of God, without acting by itself, or making any exertion that might disturb the pure and holy operations of the Holy Ghost.\n— M. Olier, *Catechism of an Interior Life*, Part II, lesson 8",
+				"pt-BR": "A alma que experimenta alguma operação secreta deve manter-se em repouso e em silêncio, para receber toda a extensão dos dons e das comunicações de Deus, sem agir por si mesma nem fazer esforços que perturbariam as operações puras e santas do Espírito divino.\n— M. Olier, *Catéchisme chrétien pour la vie intérieure*, II parte, lição 8"
+			}
+		},
+		{
+			"type": "collapsible",
+			"title": {
+				"en-US": "Example — Olier on penitence: Jesus in our heart",
+				"pt-BR": "Exemplo — Olier sobre a penitência: Jesus no coração"
+			},
+			"sections": [
+				{
+					"type": "meditation",
+					"text": {
+						"en-US": "After having so reverenced Jesus Christ and His Holy Spirit of penitence, we spend some time in seeking that same Spirit for ourselves. We pray that Spirit, to whom alone it belongs to make in us a new heart and to form a spirit of penitence in the soul, to be pleased to descend upon us. We implore Him, by all the inventions of love, to come into our soul in order to conform us to Jesus Christ penitent, continuing in us the penitence which He began in Him.",
+						"pt-BR": "Depois de assim termos reverenciado Jesus Cristo e o seu Santo Espírito de penitência, gastamos algum tempo buscando para nós esse mesmo Espírito. Pedimos a esse Espírito, a quem só pertence fazer em nós um coração novo e formar na alma um espírito de penitência, que se digne descer sobre nós. Imploramos-Lhe, por todas as invenções do amor, que venha à nossa alma para nos conformar a Jesus Cristo penitente, continuando em nós a penitência que n'Ele começou."
+					}
+				},
+				{
+					"type": "meditation",
+					"text": {
+						"en-US": "We give ourselves to Him to be possessed by Him and animated by His virtue; then remain in silence before Him, that we may be interiorly filled with His Divine unction, to the end that we may exercise, on all occasions, such mortification as pleases Him.",
+						"pt-BR": "Damo-nos a Ele para sermos possuídos por Ele e animados pela sua virtude; depois permanecemos em silêncio diante d'Ele, para sermos interiormente cheios da sua Divina unção, a fim de exercermos, em todas as ocasiões, a mortificação que Lhe agradar."
+					}
+				},
+				{
+					"type": "rubric",
+					"text": {
+						"en-US": "M. Olier, *Introduction à la vie et aux vertus chrétiennes*, ch. 4",
+						"pt-BR": "M. Olier, *Introduction à la vie et aux vertus chrétiennes*, cap. 4"
+					}
+				}
+			]
 		},
 		{
 			"type": "section-marker",
@@ -164,8 +321,8 @@
 		{
 			"type": "meditation",
 			"text": {
-				"en-US": "Co-operation and resolution, says M. Olier, mean the same thing; but the first expresses more strongly the power of the Holy Spirit, upon which we are more dependent than upon the good works of our own will.",
-				"pt-BR": "Cooperação e resolução, diz M. Olier, significam a mesma coisa; mas a primeira exprime com mais força o poder do Espírito Santo, do qual dependemos mais do que das boas obras da nossa própria vontade."
+				"en-US": "Co-operation and resolution, says M. Olier, mean the same thing; but the first expresses more strongly the power of the Holy Spirit, upon which we are more dependent than upon the good works of our own will; whilst the term resolution marks more expressly the determination of our will.",
+				"pt-BR": "As duas palavras, diz o Pe. Olier, significam a mesma coisa, mas a primeira exprime mais fortemente o poder do Espírito Santo, do qual dependemos mais do que das boas obras de nossa própria vontade; já o termo *resolução* assinala mais expressamente a determinação de nossa vontade."
 			}
 		},
 		{
@@ -174,6 +331,43 @@
 				"en-US": "Remembering, then, the need of our co-operation with grace, we make the resolution to live for the future in conformity with the light we have received in our prayer, and especially to practise, the same day, the perfection or virtue we have considered. Such resolutions should have six qualities: they must be particular, present, efficacious, humble, full of confidence and often reiterated — made with an entire distrust in ourselves and an entire confidence in Jesus Christ, without whom we can do nothing.",
 				"pt-BR": "Lembrando, pois, a necessidade da nossa cooperação com a graça, tomamos a resolução de viver daqui em diante em conformidade com a luz que recebemos na oração, e especialmente de praticar, no mesmo dia, a perfeição ou virtude que consideramos. Tais resoluções devem ter seis qualidades: ser particulares, presentes, eficazes, humildes, cheias de confiança e muitas vezes reiteradas — feitas com inteira desconfiança de nós mesmos e inteira confiança em Jesus Cristo, sem o qual nada podemos."
 			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Then we take good and fervent resolutions, foresee the occasions we may have to put them into execution in the course of the day, and abandon ourselves entirely to the Spirit of our Lord Jesus Christ, to obey and serve him, not only on the present day, but also during the remainder of our life… We must therefore conclude our meditation by a total abandonment of ourselves to the Holy Ghost, who will be our light, our virtue, and our love.\n— M. Olier, *Catechism of an Interior Life*, Part II, lesson 8",
+				"pt-BR": "Formam-se então bons propósitos, preveem-se as ocasiões que se terão de os executar durante o dia, e abandona-se perfeitamente ao Espírito de Nosso Senhor Jesus Cristo, para Lhe obedecer, não só no dia presente, mas ainda no resto da nossa vida… Por isso se deve concluir a oração por uma entrega e um abandono total de si mesmo ao Espírito Santo, que será a nossa luz, o nosso amor e a nossa virtude.\n— M. Olier, *Catéchisme chrétien pour la vie intérieure*, II parte, lição 8"
+			}
+		},
+		{
+			"type": "collapsible",
+			"title": {
+				"en-US": "Example — Olier on penitence: Jesus in our hands",
+				"pt-BR": "Exemplo — Olier sobre a penitência: Jesus nas mãos"
+			},
+			"sections": [
+				{
+					"type": "meditation",
+					"text": {
+						"en-US": "That is, to will that His Divine will should be accomplished in us who are His members, who ought in all things to be submissive to our Head, and not to have any movement which Jesus Christ, our life and our all, has not given us; who, filling our soul with His Spirit, His virtue and His power, ought to operate in us and by us all that He desires.",
+						"pt-BR": "Isto é, querer que a sua Divina vontade se cumpra em nós, que somos seus membros, que em tudo devemos estar submissos à nossa Cabeça, e não ter movimento algum que Jesus Cristo, nossa vida e nosso tudo, não nos tenha dado; o qual, enchendo a nossa alma do seu Espírito, da sua virtude e do seu poder, deve operar em nós e por nós tudo o que deseja."
+					}
+				},
+				{
+					"type": "meditation",
+					"text": {
+						"en-US": "He is in pastors, Pastor; in priests, Priest; in religious, Religious; in penitents, Penitent — operating in each the work of their vocation. He ought then to work in us the effects of penitence, and we ought always to be in this spirit, co-operating faithfully with all that He wills to do in and by us.",
+						"pt-BR": "Ele é nos pastores, Pastor; nos sacerdotes, Sacerdote; nos religiosos, Religioso; nos penitentes, Penitente — operando em cada um a obra da sua vocação. Deve, pois, operar em nós os efeitos da penitência, e nós devemos estar sempre neste espírito, cooperando fielmente com tudo o que Ele quer fazer em nós e por nós."
+					}
+				},
+				{
+					"type": "rubric",
+					"text": {
+						"en-US": "M. Olier, *Introduction à la vie et aux vertus chrétiennes*, ch. 4",
+						"pt-BR": "M. Olier, *Introduction à la vie et aux vertus chrétiennes*, cap. 4"
+					}
+				}
+			]
 		},
 		{
 			"type": "section-marker",
