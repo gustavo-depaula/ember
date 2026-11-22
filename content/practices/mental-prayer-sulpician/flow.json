@@ -79,7 +79,7 @@
 		},
 		{
 			"type": "prayer",
-			"text": {
+			"inline": {
 				"en-US": "O my God and my all, I renounce myself and all my inclinations to sin; I clearly see that I cannot pray to thee, either in myself or by myself; I detest with all my heart whatever is displeasing to thee in me; and to cover my iniquities and malice, and obtain access to thy divine majesty, I give myself to Christ, thy Son, who lives in me, and is the prayer and praise of thy whole church.",
 				"pt-BR": "Meu Deus e meu tudo, renuncio a mim mesmo e às inclinações do pecado de que estou cheio. Vejo bem que não Vos posso rezar em mim mesmo nem por mim mesmo. Detesto de todo o coração tudo o que em mim Vos pode desagradar; e, para cobrir a minha iniquidade e a minha malícia e ter algum acesso junto da vossa divina majestade, dou-me a Jesus Cristo, vosso Filho, que habita em mim e que é a oração e o louvor de toda a vossa Igreja."
 			}
@@ -144,7 +144,7 @@
 		},
 		{
 			"type": "prayer",
-			"text": {
+			"inline": {
 				"en-US": "My Lord Jesus Christ, who art my praise, I rejoice in all the praises thou givest to thy Father; I unite and give myself to thee, to adore and praise him by thee and with thee; I wish to be one host of praise with thee, to glorify him during all eternity.",
 				"pt-BR": "Meu Senhor Jesus Cristo, que sois o meu louvor, comprazo-me e alegro-me em todos os louvores que dais a Deus vosso Pai; uno-me e dou-me a Vós para O adorar e para Lhe rezar por Vós e convosco; não quero ser senão uma hóstia de louvor convosco, para glorificar a Deus durante toda a eternidade."
 			}

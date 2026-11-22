@@ -225,6 +225,20 @@ function visit(node: unknown, path: string, ctx: WalkCtx): void {
         })
       }
     }
+    // The engine reads a prayer's own words from `inline`; a localized `text`
+    // matches no prayer variant and resolves to nothing, so the prayer vanishes
+    // from the screen without an error.
+    if (
+      obj.type === 'prayer' &&
+      typeof obj.text === 'object' &&
+      !('ref' in obj || 'inline' in obj || 'sections' in obj)
+    ) {
+      issues.push({
+        file: ctx.file,
+        path,
+        message: 'prayer carries its words in "text" — use "inline" (the runtime drops this block)',
+      })
+    }
     if (obj.type === 'prose' && typeof obj.book === 'string') {
       for (const issue of validateProseChapter(obj, ctx.file, path)) issues.push(issue)
     }
