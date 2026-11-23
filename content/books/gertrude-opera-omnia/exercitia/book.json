@@ -18,13 +18,19 @@
   },
   "composed": "c. 1289-1302",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "gertrude/exercitia-spiritualia",
   "editions": {
     "en-US": {
       "translator": "Thomas Alder Pope (Oratory)",
       "year": 1921
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,49 +47,57 @@
     {
       "id": "praefatio",
       "title": {
-        "en-US": "Preface by Dom Prosper Guéranger"
+        "en-US": "Preface by Dom Prosper Guéranger",
+        "pt-BR": "Prefácio de Dom Prosper Guéranger"
       }
     },
     {
       "id": "exercitium-1",
       "title": {
-        "en-US": "First Exercise: The Renewal of Baptismal Innocence"
+        "en-US": "First Exercise: The Renewal of Baptismal Innocence",
+        "pt-BR": "Primeiro Exercício: A renovação da inocência batismal"
       }
     },
     {
       "id": "exercitium-2",
       "title": {
-        "en-US": "Second Exercise: Spiritual Conversion"
+        "en-US": "Second Exercise: Spiritual Conversion",
+        "pt-BR": "Segundo Exercício: A conversão espiritual"
       }
     },
     {
       "id": "exercitium-3",
       "title": {
-        "en-US": "Third Exercise: The Espousals and Consecration"
+        "en-US": "Third Exercise: The Espousals and Consecration",
+        "pt-BR": "Terceiro Exercício: O desposatório e a consagração"
       }
     },
     {
       "id": "exercitium-4",
       "title": {
-        "en-US": "Fourth Exercise: The Renewal of the Religious Profession"
+        "en-US": "Fourth Exercise: The Renewal of the Religious Profession",
+        "pt-BR": "Quarto Exercício: A renovação da profissão religiosa"
       }
     },
     {
       "id": "exercitium-5",
       "title": {
-        "en-US": "Fifth Exercise: The Exercise of Love"
+        "en-US": "Fifth Exercise: The Exercise of Love",
+        "pt-BR": "Quinto Exercício: O exercício de amor"
       }
     },
     {
       "id": "exercitium-6",
       "title": {
-        "en-US": "Sixth Exercise: Praise and Thanksgiving"
+        "en-US": "Sixth Exercise: Praise and Thanksgiving",
+        "pt-BR": "Sexto Exercício: Louvor e ação de graças"
       }
     },
     {
       "id": "exercitium-7",
       "title": {
-        "en-US": "Seventh Exercise: Reparation and Preparation for Death"
+        "en-US": "Seventh Exercise: Reparation and Preparation for Death",
+        "pt-BR": "Sétimo Exercício: Reparação e preparação para a morte"
       }
     }
   ]
