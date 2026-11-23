@@ -1,0 +1,7 @@
+# Carta 1798. A um eclesiástico
+
+Bem se vê que o Espírito de Deus derramou abundantemente suas graças em vosso amável coração e que o zelo e a caridade nele lançaram raízes profundas, pois nada é capaz de vos demover do propósito que concebestes de promover a maior glória de Deus, no presente e no futuro, no benefício eclesiástico que possuís [^1]. Digne-se sua divina bondade, Senhor, secundar vossas santas intenções e dar-lhes feliz cumprimento! Agradeço-vos, com todos os afetos de minha alma, a paciência que tendes conosco, que não pudemos receber a honra e os bens que nos oferecestes e que tampouco teríamos podido corresponder à vossa expectativa. Espero, Senhor, que encontreis em outros plena satisfação. Contudo, não vejo bem a quem podeis recorrer, porque duvido que os Senhores de Saint-Sulpice ou os Senhores de Saint-Nicolas-du-Chardonnet queiram dar-vos padres. São duas santas comunidades que fazem grande bem na Igreja e estendem muito os frutos de seus trabalhos; mas a primeira, tendo por finalidade os seminários, normalmente só se estabelece nas cidades principais; e a segunda, muito ocupada num grande número de santas funções a que se dedica para o serviço da Igreja, talvez não possa fornecer-vos tão cedo os operários que pedis. Julgo, contudo, que fareis bem em lhes apresentar a proposta, sendo ambas mais adequadas e capazes do que nós para começar e aperfeiçoar essa boa obra que tanto tendes no coração. [^2]
+
+[^1]: No Anjou.
+
+[^2]: Abelly, *op. cit.*, l. III, cap. XI, seção V, p. 149.

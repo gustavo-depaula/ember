@@ -1,0 +1,15 @@
+# Carta 1654. À madre Maria-Inês Le Roy
+
+[Setembro de 1653] [^1]
+
+Pois bem, minha querida Madre, eis boas notícias, graças a Deus [^2]! Bendito seja Jesus Cristo Nosso Senhor! Parece-me que vosso coração sente um pouco de dor por nos atribuírem tudo isso. Tanto melhor, minha querida Madre; não sois por demais feliz por serdes censurada por tão boa causa? Bem podeis imaginar que tenho nisso minha boa parte. Certamente, o bem não é bem se não se sofre ao fazê-lo. “A caridade é paciente [^3]”, diz o Apóstolo; há, portanto, sofrimento nos deveres da caridade, e até é muito de temer que o bem feito sem sofrimento não seja um bem perfeito! O Filho de Deus nos mostra essa verdade, tendo querido sofrer tanto em todos os bens que nos fez. Soframos, pois, corajosa e humildemente, minha querida Madre. Talvez descubrais no céu que este é um dos bens mais agradáveis a Deus que jamais fizestes. Se tiverdes alguma notícia, peço-vos que a compartilheis comigo e me informeis em que dias se escreve para Dover.
+
+VICENTE DE PAULO. [^4]
+
+[^1]: Ver nota 2.
+
+[^2]: O navio que transportava Charles Ozenne e as religiosas da Visitação destinadas à Polônia acabava de ser capturado por corsários ingleses; foi a notícia desse lamentável acontecimento que motivou a carta acima. Por um contrato celebrado em 14 de outubro de 1649 com a madre Maria-Inês Le Roy, superiora do segundo mosteiro de Paris, a rainha da Polônia se comprometera a dar 60.000 libras para a construção de um mosteiro e 6.000 libras de renda para as despesas de manutenção. Pedia às religiosas que acolhessem gratuitamente tantas jovens quantas fosse possível, sem contar as que pagariam pensão. A rainha fez a Sra. de Lamoignon intervir e enviou o Sr. des Noyers à França para tratar do assunto. As religiosas foram escolhidas e os móveis preparados. Só se esperava o fim dos tumultos de Paris para partir. Numa de suas visitas ao convento, o arcebispo falou das dificuldades do empreendimento e aconselhou a adiar sua execução. A rainha da Polônia tentou em vão demovê-lo; o prelado recusou as obediências. Na impossibilidade de eliminar a dificuldade, contornou-se o obstáculo. A madre Le Roy pediu às superioras dos conventos de Annecy e de Troyes que se dignassem fornecer o número necessário de irmãs. As irmãs de Troyes chegaram ao segundo mosteiro de Paris em 9 de junho, e as de Annecy, em 9 de julho. Saíram de Paris em 9 de agosto, em companhia do Sr. de Monthoux, seu confessor, de Charles Ozenne e do irmão Duperroy, e embarcaram em Dieppe, no dia 20, num navio hamburguês. No dia 21, às duas horas da tarde, o navio foi atacado, capturado e saqueado por corsários. Uma ordem vinda de Londres permitiu aos passageiros desembarcar em Dover, onde foram mantidos prisioneiros. Só lhes foi restituída a liberdade em 5 de outubro, e nesse mesmo dia as religiosas embarcaram de volta para a França. Deixavam em Dover Charles Ozenne e o irmão Nicolas Duperroy, que pretendiam continuar a viagem até a Polônia. (Biblioteca Mazarine, ms. 2438.)
+
+[^3]: Primeira Epístola aos Coríntios 13:4.
+
+[^4]: *Ano santo das religiosas da Visitação de Santa Maria*, t. V, p. 543.

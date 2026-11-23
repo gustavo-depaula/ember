@@ -1,0 +1,9 @@
+# Carta 1660. Ao cardeal Antônio Barberini, — prefeito da Propaganda
+
+3 de outubro de 1653.
+
+Monsenhor,
+
+Eu aguardava para me dar a honra de escrever a Vossa Eminência até ter recebido cartas de Argel sobre o estado atual de seus servidores levados como escravos para aquela cidade, pois, assim que tive notícia desse acontecimento, escrevi ao cônsul para lhe recomendar os interesses e as pessoas de Vossa Eminência, a fim de que tivesse grande cuidado em servi-los de todas as maneiras possíveis; o que sem dúvida fará. Mas, como sua resposta tarda a chegar, Monsenhor, não posso adiar por mais tempo a renovação a Vossa Eminência das ofertas dos muito humildes serviços de nossa pequena companhia e de minha perpétua obediência, como faço com todo o respeito e afeto de que sou capaz. Suplico muito humildemente a Vossa Eminência que se digne aceitá-las e tenha a bondade de honrar com sua proteção essa mesma companhia, particularmente nossa família de Roma, como sempre fez; por isso, Monsenhor, pediremos a Deus que seja vossa eterna recompensa e nos torne dignos das ordens de Vossa Eminência, assegurando-lhe que, se algum dia formos honrados com elas, as receberemos como uma bênção de Deus e um meio de reconhecer de algum modo vossos incomparáveis benefícios, cuja continuação espero da bondade de Deus e da de Vossa Eminência, que tem por próprio comunicar-se aos que menos o merecem. Juntamente com essa graça, Monsenhor, pedir-lhe-emos insistentemente vossa preciosa conservação para o bem de sua Igreja. É o que fazemos todos os dias, Monsenhor, particularmente eu, que tenho a felicidade de ser, mais do que qualquer pessoa no mundo, no amor de N. S., de Vossa Eminência, Monsenhor, vosso muito humilde, muito obediente e muito obrigado servidor. [^1]
+
+[^1]: Reg. I, f. 54, cópia da “minuta não assinada”.

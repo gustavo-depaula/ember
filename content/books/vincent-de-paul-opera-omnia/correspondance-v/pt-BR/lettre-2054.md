@@ -1,0 +1,15 @@
+# Carta 2054. A Pierre de Beaunont, superior, em Richelieu
+
+De 23 de abril de 1656.
+
+Não podeis, em boa consciência, recusar a assistência que a Senhora duquesa de Richelieu [^1] vos pede para as religiosas (2), quando houver entre elas alguma desordem; pois é assim que me apresentais a proposta; e acrescentais: *como fazia o falecido Sr. Le Gros*. Tomando, pois, a coisa ao pé da letra, a caridade quer que procuremos estabelecer a paz onde ela não existe; e, segundo isso, se surgir entre essas filhas alguma dificuldade à qual possais remediar, fareis bem em vos empregar nisso, conformando-vos tanto quanto puderdes à maneira como o falecido procedeu. Mas se, fora dessas necessidades extraordinárias, ele lhes prestou visitas e serviços mais por ofício do que por necessidade, o que não sei, e se quisessem exigir de vós a mesma coisa, ou se, sob esse pretexto de necessidade, pretendessem vos envolver pouco a pouco em alguma direção ou outro vínculo, deveis vos escusar e comunicar à referida senhora que, tendo nossa companhia considerado desde o início quais impedimentos poderiam desviá-la da salvação do pobre povo do campo, para a qual Deus a havia suscitado, verificou-se que um dos maiores era o serviço das religiosas; isso deu origem à regra que se fez a esse respeito e ao uso que temos de nunca nos comprometermos a confessá-las, pregar-lhes ou dirigi-las, nem mesmo para os exercícios espirituais, salvo talvez quando estamos efetivamente em missão no lugar onde elas se encontram, não havendo então inconveniente em fazê-las participar de nossos exercícios. Podereis acrescentar que, se tivésseis começado a prestar algum serviço às de Richelieu, as outras da vizinhança tirariam daí uma consequência e não lhes faltariam razões para vos pedir o mesmo auxílio; testemunham-no as ursulinas de l’Isle-Bouchard [^2], que vos pressionam por seus exercícios espirituais. E, para prevenir a objeção que vos podem fazer, de que eu mesmo sou o primeiro a praticar o contrário, sendo o padre espiritual dos mosteiros de Santa Maria de Paris, podeis dizer que já o era antes de existir a Missão, tendo o bem-aventurado bispo de Genebra, seu fundador, me encarregado disso pessoalmente; e, desde então, fui obrigado a continuar por ordem de meus superiores, embora várias vezes tenha me esforçado para obter dispensa e continue sempre nessa disposição. Por tudo isso podeis conhecer nossa intenção, para vos resguardardes de tais encargos.
+
+A faculdade que temos de absolver dos casos reservados ao papa não é para os lugares onde moramos, mas para aqueles onde fazemos os exercícios da missão, e somente durante a missão; de modo que, se em vossa paróquia ocorrer algum desses casos, não podeis absolver aqueles que deles se confessam; mas podeis lhes dizer que compareçam à próxima missão que se fará em tal lugar. [^3] [^4]
+
+[^1]: As Filhas de Nossa Senhora estabelecidas em Richelieu.
+
+[^2]: Hoje sede de cantão em Indre-et-Loire.
+
+[^3]: Reg. 2, p. 185.
+
+[^4]: Anne Poussard, casada em 26 de dezembro de 1649 com Armand-Jean du Plessis, duque de Richelieu, morta em 29 de maio de 1684.
