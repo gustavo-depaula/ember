@@ -185,6 +185,35 @@ class Bucket:
             if not token:
                 return found
 
+    def list_except(self, excludes: list[str]) -> dict[str, tuple[int, str]]:
+        """The whole bucket minus excluded top-level folders, which are never paged through.
+
+        The website shares its bucket with 140,000 corpus blobs it has no business listing.
+        """
+        ns = "{http://s3.amazonaws.com/doc/2006-03-01/}"
+        found: dict[str, tuple[int, str]] = {}
+        folders: list[str] = []
+        token = ""
+        while True:
+            query = {"list-type": "2", "delimiter": "/", "max-keys": "1000"}
+            if token:
+                query["continuation-token"] = token
+            root = ET.fromstring(self.request("GET", query=query))
+            for item in root.iter(f"{ns}Contents"):
+                found[item.findtext(f"{ns}Key") or ""] = (
+                    int(item.findtext(f"{ns}Size") or 0),
+                    (item.findtext(f"{ns}ETag") or "").strip('"'),
+                )
+            folders += [c.findtext(f"{ns}Prefix") or "" for c in root.iter(f"{ns}CommonPrefixes")]
+            token = root.findtext(f"{ns}NextContinuationToken") or ""
+            if not token:
+                break
+        wanted = [f for f in folders if not any(fnmatch.fnmatch(f, g) for g in excludes)]
+        with ThreadPoolExecutor(16) as pool:
+            for listed in pool.map(self.list, wanted):
+                found.update(listed)
+        return found
+
 
 def md5(path: Path) -> str:
     h = hashlib.md5()
@@ -235,7 +264,11 @@ def main() -> None:
 
     started = time.time()
     with ThreadPoolExecutor(2) as pool:
-        remote_future = pool.submit(bucket.list, prefix)
+        remote_future = (
+            pool.submit(bucket.list_except, args.exclude)
+            if args.exclude and not prefix
+            else pool.submit(bucket.list, prefix)
+        )
         local: dict[str, Path] = {}
         for root, _, files in os.walk(args.dir):
             for name in files:
