@@ -14,13 +14,19 @@
   },
   "composed": "1923",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "marmion/sponsa-verbi",
   "editions": {
     "en-US": {
       "translator": "Dom Francis Izard, O.S.B.",
       "year": 1925
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -37,49 +43,57 @@
     {
       "id": "editors-preface",
       "title": {
-        "en-US": "Editor’s Preface"
+        "en-US": "Editor’s Preface",
+        "pt-BR": "Prefácio do editor"
       }
     },
     {
       "id": "1-call",
       "title": {
-        "en-US": "I. The Call to the Dignity of a Spouse of Christ"
+        "en-US": "I. The Call to the Dignity of a Spouse of Christ",
+        "pt-BR": "I. O chamado à dignidade de esposa de Cristo"
       }
     },
     {
       "id": "2-human-nature",
       "title": {
-        "en-US": "II. The Human Nature in Christ, the Spouse of the Word"
+        "en-US": "II. The Human Nature in Christ, the Spouse of the Word",
+        "pt-BR": "II. A natureza humana em Cristo, esposa do Verbo"
       }
     },
     {
       "id": "3-relictis-omnibus",
       "title": {
-        "en-US": "III. Relictis omnibus"
+        "en-US": "III. Relictis omnibus",
+        "pt-BR": "III. Relictis omnibus"
       }
     },
     {
       "id": "4-votis-omnibus",
       "title": {
-        "en-US": "IV. Votis omnibus Verbo adhaerere"
+        "en-US": "IV. Votis omnibus Verbo adhaerere",
+        "pt-BR": "IV. Votis omnibus Verbo adhaerere"
       }
     },
     {
       "id": "5-verbo-vivere",
       "title": {
-        "en-US": "V. Verbo vivere, Verbo se regere"
+        "en-US": "V. Verbo vivere, Verbo se regere",
+        "pt-BR": "V. Verbo vivere, Verbo se regere"
       }
     },
     {
       "id": "6-means-of-union",
       "title": {
-        "en-US": "VI. Means of Union with the Spouse"
+        "en-US": "VI. Means of Union with the Spouse",
+        "pt-BR": "VI. Meios de união com o Esposo"
       }
     },
     {
       "id": "7-fecundity",
       "title": {
-        "en-US": "VII. The Admirable Fecundity of a Spouse of the Word"
+        "en-US": "VII. The Admirable Fecundity of a Spouse of the Word",
+        "pt-BR": "VII. A admirável fecundidade de uma esposa do Verbo"
       }
     }
   ]
