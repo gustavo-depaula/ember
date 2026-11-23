@@ -1,5 +1,5 @@
 ---
-import { listPages, type PageEntry } from '~/site/pages'
+import { pagesToRender, type PageEntry } from '~/site/pages'
 import { parseIsoDate } from '~/routes'
 import BibleBookView from '~/views/BibleBookView.astro'
 import BibleChapterView from '~/views/BibleChapterView.astro'
@@ -34,7 +34,7 @@ import PrayerView from '~/views/PrayerView.astro'
 import PrayersView from '~/views/PrayersView.astro'
 
 export async function getStaticPaths() {
-  const pages = await listPages()
+  const pages = await pagesToRender()
   return pages.map((entry) => ({
     params: { path: entry.path.replace(/^\/|\/$/g, '') || undefined },
     props: { entry },

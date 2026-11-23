@@ -1,0 +1,76 @@
+name: Build the corpus
+description: Holy-card images, the corpus and its creator metadata, assembled in _site/hearth/v2.
+
+runs:
+  using: composite
+  steps:
+    - name: Install tools
+      shell: bash
+      run: |
+        sudo apt-get update && sudo apt-get install -y webp
+        pip install pillow snowballstemmer
+
+    # The checkout leaves out the 2 GB of holy-card PNGs. Their list and git's
+    # hashes of them are in the index, which is all it takes to see what changed.
+    - name: Fingerprint source images
+      id: images
+      shell: bash
+      run: |
+        export LC_ALL=C
+        git ls-files -s content/art content/saints | grep '\.png$' | sort > "$RUNNER_TEMP/images.manifest"
+        echo "hash=$(sha256sum < "$RUNNER_TEMP/images.manifest" | cut -d' ' -f1)" >> "$GITHUB_OUTPUT"
+
+    - name: Restore converted images
+      uses: actions/cache@v4
+      with:
+        path: |
+          content/saints/*.webp
+          content/saints/thumbs
+          content/saints/prints
+          .hearth-images.manifest
+        key: hearth-images-${{ hashFiles('scripts/convert-webp.sh', 'scripts/print-cards.py') }}-${{ steps.images.outputs.hash }}
+        restore-keys: |
+          hearth-images-${{ hashFiles('scripts/convert-webp.sh', 'scripts/print-cards.py') }}-
+
+    - name: Convert changed images
+      shell: bash
+      run: |
+        export LC_ALL=C
+        new="$RUNNER_TEMP/images.manifest"
+        old=.hearth-images.manifest
+        if [ "$(cmp -s "$old" "$new" && echo same)" = same ]; then
+          echo "images unchanged"
+          exit 0
+        fi
+        if [ ! -f "$old" ] || [ -n "$(comm -23 <(cut -f2 "$old" | sort) <(cut -f2 "$new" | sort))" ]; then
+          # No earlier images, or a card was removed and would leave its images
+          # behind: fetch every PNG and convert from clean.
+          git sparse-checkout disable
+          git clean -fdxq content/saints
+          find content/art content/saints -name '*.png' -exec touch {} +
+        else
+          comm -13 "$old" "$new" | cut -f2 > "$RUNNER_TEMP/changed-images"
+          grep '^content/saints/' "$RUNNER_TEMP/changed-images" | sed 's|^|/|' \
+            | xargs -r git sparse-checkout add
+          find content/art -name '*.png' -exec touch -d '2000-01-01' {} +
+          while IFS= read -r f; do touch "$f"; done < "$RUNNER_TEMP/changed-images"
+        fi
+        scripts/convert-webp.sh
+        cp "$new" "$old"
+
+    - name: Stage corpus files
+      shell: bash
+      run: |
+        mkdir -p _site/hearth/v2
+        for d in art bible; do
+          [ -d "content/$d" ] && cp -r "content/$d" "_site/hearth/v2/$d"
+        done
+        rsync -a --exclude='/*.png' content/saints/ _site/hearth/v2/saints/
+
+    - name: Build corpus
+      shell: bash
+      run: |
+        mkdir -p .deploy
+        python3 scripts/r2-sync.py --get _build/index-cache.json .deploy/index-cache.json
+        python3 scripts/build-corpus.py _site/hearth/v2 --index-cache .deploy/index-cache.json
+        python3 scripts/build-creator-meta.py _site/hearth/v2

@@ -32,6 +32,7 @@ import sys
 import time
 import unicodedata
 from datetime import datetime, timezone
+from importlib import metadata
 from multiprocessing import Pool
 from pathlib import Path
 from typing import Any, Iterable
@@ -61,11 +62,24 @@ def sha256_hex(data: bytes) -> str:
     return hashlib.sha256(data).hexdigest()
 
 
+def index_cache_version() -> str:
+    """An index is a function of its chapters, this script and the stemmer."""
+    stemmer = metadata.version("snowballstemmer")
+    return sha256_hex(Path(__file__).read_bytes() + stemmer.encode())
+
+
 class Builder:
-    def __init__(self, output: Path):
+    def __init__(self, output: Path, index_cache_path: Path | None = None):
         self.output = output
         self.blobs_dir = output / "blobs"
         self.blobs_dir.mkdir(parents=True, exist_ok=True)
+
+        self.index_cache_path = index_cache_path
+        self.index_cache: dict = {}
+        if index_cache_path and index_cache_path.is_file():
+            self.index_cache = json.loads(index_cache_path.read_text(encoding="utf-8"))
+        self.index_cache_version_ok = self.index_cache.get("version") == index_cache_version()
+        self.next_index_cache: dict[str, dict] = {}
 
         # Hashes already written to disk (skip duplicate writes).
         self.written_hashes: set[str] = set()
@@ -108,6 +122,14 @@ class Builder:
         }
         catalog_path = self.output / "catalog.json"
         catalog_path.write_bytes(canonical_json(catalog))
+        if self.index_cache_path:
+            self.index_cache_path.write_text(
+                json.dumps(
+                    {"version": index_cache_version(), "books": self.next_index_cache},
+                    ensure_ascii=False,
+                ),
+                encoding="utf-8",
+            )
 
 
 def is_localized_leaf(obj: Any) -> bool:
@@ -676,7 +698,7 @@ def build_practices(b: Builder) -> None:
         if "tags" in manifest_data:
             catalog_entry["tags"] = manifest_data["tags"]
         if "categories" in manifest_data and isinstance(manifest_data["categories"], list):
-            catalog_entry["tags"] = list(set((catalog_entry.get("tags") or []) + manifest_data["categories"]))
+            catalog_entry["tags"] = list(dict.fromkeys((catalog_entry.get("tags") or []) + manifest_data["categories"]))
         # Tile hints: which card a tile draws (prayer vs practice, liturgical
         # prayers as a breviary page) and the minutes line, without a manifest fetch.
         for key in ("form", "liturgical", "estimatedMinutes", "duration"):
@@ -1192,13 +1214,31 @@ def build_books(b: Builder, authors: dict[str, str]) -> None:
     # Build search indexes in parallel — each book is independent. Results are
     # collected into a dict and consumed below in deterministic book order, so
     # blob/catalog output is identical regardless of worker completion order.
+    #
+    # With --index-cache a book whose chapters are unchanged keeps the index
+    # refs of the last published build instead of being indexed again. Its index
+    # blob is then not written here: it is already in the bucket, which
+    # `r2-sync.py --must-exist` confirms before anything points at it.
+    cached_indexes = b.index_cache.get("books", {}) if b.index_cache_version_ok else {}
+    index_keys = {
+        p["bid"]: sha256_hex(canonical_json(p["chapters_by_lang"]))
+        for p in pending
+        if p["chapters_by_lang"]
+    }
+    reused = {
+        bid: cached_indexes[bid]
+        for bid, key in index_keys.items()
+        if cached_indexes.get(bid, {}).get("key") == key
+    }
     jobs = [
         (p["bid"], p["chapters_by_lang"], p["chapter_paths"])
         for p in pending
-        if p["chapters_by_lang"]
+        if p["chapters_by_lang"] and p["bid"] not in reused
     ]
+    if b.index_cache_path:
+        print(f"  search indexes: {len(reused)} reused, {len(jobs)} to build")
     indexes_by_bid: dict[str, dict[str, dict]] = {}
-    minutes_by_bid: dict[str, dict[str, int]] = {}
+    minutes_by_bid: dict[str, dict[str, int]] = {bid: e["minutes"] for bid, e in reused.items()}
     if jobs:
         workers = min(len(jobs), os.cpu_count() or 1)
         if workers > 1:
@@ -1221,6 +1261,14 @@ def build_books(b: Builder, authors: dict[str, str]) -> None:
         for lang, index in indexes_by_bid.get(bid, {}).items():
             sih, sis = b.write_json_blob(index)
             search_index_refs[lang] = {"hash": sih, "size": sis}
+        if bid in reused:
+            search_index_refs = reused[bid]["indexes"]
+        if bid in index_keys:
+            b.next_index_cache[bid] = {
+                "key": index_keys[bid],
+                "indexes": search_index_refs,
+                "minutes": minutes_by_bid.get(bid, {}),
+            }
 
         item_manifest = {**meta, "id": f"book/{bid}", "chapters": p["chapters_by_lang"]}
         if style_entry:
@@ -1935,6 +1983,11 @@ def _mime_for(p: Path) -> str:
 
 
 def main(argv: list[str]) -> int:
+    index_cache = None
+    if "--index-cache" in argv:
+        at = argv.index("--index-cache")
+        index_cache = Path(argv[at + 1]).resolve()
+        argv = argv[:at] + argv[at + 2 :]
     output = Path(argv[1]) if len(argv) > 1 else (ROOT / "_site" / "hearth" / "v2")
     output = output.resolve()
     print(f"[corpus] output: {output}")
@@ -1944,7 +1997,7 @@ def main(argv: list[str]) -> int:
         return 1
 
     output.mkdir(parents=True, exist_ok=True)
-    b = Builder(output)
+    b = Builder(output, index_cache)
 
     t0 = time.time()
     print("[corpus] practices...")

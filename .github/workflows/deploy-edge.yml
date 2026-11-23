@@ -1,0 +1,38 @@
+name: Deploy web Worker
+
+on:
+  push:
+    branches: [main, r2-hosting]
+    paths:
+      - 'apps/edge/**'
+      - '.github/workflows/deploy-edge.yml'
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-edge
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            apps/edge
+            packages
+
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile --filter '@ember/edge'
+
+      - name: Deploy Worker
+        run: pnpm --filter '@ember/edge' exec wrangler deploy
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}

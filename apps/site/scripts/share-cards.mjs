@@ -3,7 +3,17 @@
 // `share/<lang>/<slug>.jpg`, and the page removed. Run after `astro build`.
 // A browser draws them so the card is the site's own stamp, type and color,
 // not a second drawing of them.
-import { createReadStream, existsSync, readdirSync, rmSync, statSync } from 'node:fs'
+import { createHash } from 'node:crypto'
+import {
+  appendFileSync,
+  createReadStream,
+  existsSync,
+  readdirSync,
+  readFileSync,
+  rmSync,
+  statSync,
+  writeFileSync,
+} from 'node:fs'
 import { createServer } from 'node:http'
 import { delimiter, extname, join, normalize, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
@@ -32,11 +42,33 @@ function browserPath() {
   return path
 }
 
-const pages = readdirSync(cards).flatMap((lang) =>
+const allPages = readdirSync(cards).flatMap((lang) =>
   readdirSync(join(cards, lang))
     .filter((slug) => statSync(join(cards, lang, slug)).isDirectory())
     .map((slug) => `${lang}/${slug}`),
 )
+
+// In a planned build a card whose page is byte for byte the published one keeps
+// its published image. The page names its styles and fonts by content hash, so
+// any change to how a card looks changes the page.
+const plan = process.env.EMBER_SITE_PLAN
+  ? JSON.parse(readFileSync(process.env.EMBER_SITE_PLAN, 'utf-8'))
+  : undefined
+const cardHashes = Object.fromEntries(
+  allPages.map((card) => [
+    card,
+    createHash('sha256')
+      .update(readFileSync(join(cards, card, 'index.html')))
+      .digest('hex'),
+  ]),
+)
+const unchanged = allPages.filter((card) => plan?.cards?.[card] === cardHashes[card])
+for (const card of unchanged) rmSync(join(cards, card), { recursive: true })
+if (plan) {
+  appendFileSync(plan.keptPagesFile, unchanged.map((card) => `share/${card}.jpg\n`).join(''))
+  writeFileSync(plan.cardsFile, JSON.stringify(cardHashes))
+}
+const pages = allPages.filter((card) => !unchanged.includes(card))
 
 // The pages name their fonts and styles from the root, so they are served, not opened as files.
 const server = createServer((req, res) => {
@@ -66,4 +98,4 @@ await Promise.all(
 )
 await browser.close()
 server.close()
-console.log(`${pages.length} share cards`)
+console.log(`${pages.length} share cards drawn, ${unchanged.length} kept`)

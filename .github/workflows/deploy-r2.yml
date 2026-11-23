@@ -1,0 +1,121 @@
+name: Deploy to R2
+
+# Two independent tracks, so the app's corpus never waits for the website.
+# Neither cancels a run in progress: a burst of pushes would otherwise keep
+# restarting it. GitHub queues only the newest, so nothing piles up.
+on:
+  push:
+    branches: [main, r2-hosting]
+    paths:
+      - 'content/**'
+      - 'apps/hearth/**'
+      - 'apps/site/**'
+      - 'apps/app/src/**'
+      - 'apps/app/assets/**'
+      - 'packages/**'
+      - 'pnpm-lock.yaml'
+      - 'scripts/build-corpus.py'
+      - 'scripts/build-creator-meta.py'
+      - 'scripts/convert-webp.sh'
+      - 'scripts/print-cards.py'
+      - 'scripts/r2-sync.py'
+      - '.github/actions/build-corpus/**'
+      - '.github/workflows/deploy-r2.yml'
+  # The website's Today, Mass and Office pages are built for a date. 03:10 in São Paulo.
+  schedule:
+    - cron: '10 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+  R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+  R2_S3_ENDPOINT: ${{ secrets.R2_S3_ENDPOINT }}
+
+jobs:
+  corpus:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: r2-corpus
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /*
+            !/content/saints/*.png
+
+      - uses: ./.github/actions/build-corpus
+
+      # Blobs are never deleted: an installed app may still hold a catalog that names them.
+      - name: Publish corpus
+        run: |
+          python3 scripts/r2-sync.py _site/hearth/v2 --prefix hearth/v2 \
+            --last 'hearth/v2/catalog.json' --delete --keep 'blobs/*' \
+            --must-exist .deploy/index-cache.json
+          python3 scripts/r2-sync.py --put _build/index-cache.json .deploy/index-cache.json
+
+  website:
+    if: vars.PUBLISH_SITE == 'true'
+    runs-on: ubuntu-latest
+    concurrency:
+      group: r2-website
+      cancel-in-progress: false
+    env:
+      NODE_OPTIONS: --max-old-space-size=8192
+      EMBER_SITE_OF_TEXTS: ${{ vars.SITE_OF_TEXTS }}
+      EMBER_SITE_CHURCHES: ${{ vars.SITE_CHURCHES || 'BR' }}
+      EMBER_SITE_ANALYTICS_TOKEN: ${{ vars.SITE_ANALYTICS_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /*
+            !/content/saints/*.png
+
+      - uses: ./.github/actions/build-corpus
+
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Plan the build
+        run: |
+          python3 scripts/r2-sync.py --get _build/site-state.json .deploy/site-state.json
+          node apps/site/scripts/plan-build.mjs plan .deploy/site-state.json \
+            _site/hearth/v2/catalog.json "$PWD/.deploy/plan.json"
+
+      - name: Build the website
+        env:
+          EMBER_SITE_PLAN: ${{ github.workspace }}/.deploy/plan.json
+        run: |
+          pnpm install --frozen-lockfile
+          pnpm --filter @ember/site run build
+          pnpm --filter @ember/site run check:links
+          cp apps/hearth/index.html _site/index.html
+          cp apps/hearth/privacy.html _site/privacy.html
+          cp apps/hearth/support.html _site/support.html
+          cp -r apps/hearth/site _site/site
+          node apps/site/scripts/landing.mjs apps/hearth/index.html _site
+          cp -r apps/site/dist/. _site/
+
+      # Assets go up before the pages that name them. The corpus and the deploy's
+      # own state live in the same bucket and are not this job's to touch.
+      - name: Publish website
+        run: |
+          python3 scripts/r2-sync.py _site --exclude 'hearth/*' --exclude '_build/*' --last '*.html' \
+            --delete --keep-list .deploy/kept-pages.txt
+          node apps/site/scripts/plan-build.mjs state _site/hearth/v2/catalog.json \
+            .deploy/plan.json .deploy/site-state.json
+          python3 scripts/r2-sync.py --put _build/site-state.json .deploy/site-state.json

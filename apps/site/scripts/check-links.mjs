@@ -35,8 +35,10 @@ function isThere(url) {
   return known
 }
 
-// A build limited to a few books (EMBER_SITE_BOOKS) links to books it did not build.
-const partial = !!process.env.EMBER_SITE_BOOKS
+// A build limited to some books (EMBER_SITE_BOOKS, EMBER_SITE_PLAN) links to chapters it did not build.
+const partial =
+  !!process.env.EMBER_SITE_BOOKS ||
+  (!!process.env.EMBER_SITE_PLAN && JSON.parse(readFileSync(process.env.EMBER_SITE_PLAN, 'utf-8')).partial)
 const bookLink = /^\/(pt\/livros|books)\/[^/]+\//
 
 const broken = new Map()

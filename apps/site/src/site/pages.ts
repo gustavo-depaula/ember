@@ -1,6 +1,8 @@
 // Every page of the site, as data. The catch-all route builds from this list,
 // and so do the sitemap and each page's hreflang links, so a page cannot exist
 // without being reachable and declared.
+import { mkdirSync, readFileSync, writeFileSync } from 'node:fs'
+import { dirname } from 'node:path'
 import { getEntry } from '@/content/contentIndex'
 import { getDrbBooks } from '@/lib/content'
 import { listBookNodes, listBooks } from '~/lib/books'
@@ -278,4 +280,30 @@ let cached: Promise<PageEntry[]> | undefined
 export function listPages(): Promise<PageEntry[]> {
   cached ??= drafts().then((all) => all.flatMap(resolve))
   return cached
+}
+
+// EMBER_SITE_PLAN (written by scripts/plan-build.mjs) names the books whose text
+// changed since the published build. A chapter page is a function of its book's
+// manifest and the site code, so the others are left as published: they stay in
+// this list, so the sitemap and hreflang links remain whole, but are not rendered,
+// and their paths are written out for the upload to keep them in the bucket.
+export async function pagesToRender(): Promise<PageEntry[]> {
+  const all = await listPages()
+  const planFile = process.env.EMBER_SITE_PLAN
+  if (!planFile) return all
+  const plan = JSON.parse(readFileSync(planFile, 'utf-8')) as {
+    changedBooks: string[]
+    keptPagesFile: string
+  }
+  const changed = new Set(plan.changedBooks)
+  const isKept = ({ page }: PageEntry) => page.view === 'chapter' && !changed.has(page.id)
+  mkdirSync(dirname(plan.keptPagesFile), { recursive: true })
+  writeFileSync(
+    plan.keptPagesFile,
+    all
+      .filter(isKept)
+      .map((entry) => `${entry.path.replace(/^\/|\/$/g, '')}/index.html\n`)
+      .join(''),
+  )
+  return all.filter((entry) => !isKept(entry))
 }

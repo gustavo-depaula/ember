@@ -441,6 +441,15 @@ importers:
         specifier: ^4.149.0
         version: 4.149.0(@cloudflare/workers-types@4.20260616.1)(@types/node@22.19.20)
 
+  apps/edge:
+    devDependencies:
+      '@cloudflare/workers-types':
+        specifier: ^4.20260616.1
+        version: 4.20260616.1
+      wrangler:
+        specifier: ^4.149.0
+        version: 4.149.0(@cloudflare/workers-types@4.20260616.1)(@types/node@25.5.0)
+
   apps/relay:
     dependencies:
       '@hono/zod-validator':
