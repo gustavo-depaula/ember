@@ -1,0 +1,31 @@
+# 5 de dezembro — Memória de São Sabas, Abade
+
+A Igreja Romana limita-se hoje ao Ofício da Féria; mas a ele acrescenta a Comemoração de São Sabas, Abade da famosa Laura da Palestina, que ainda hoje subsiste sob seu nome[^1]. Esse Santo, que morreu em 533, é a única figura da Ordem monástica de que a Igreja faz menção em seus Ofícios durante todo o Advento; poder-se-ia até dizer que, entre os simples Confessores, São Sabas é o único cujo nome se lê no Calendário litúrgico nesta parte do ano, pois o glorioso título de Apóstolo das Índias parece colocar São Francisco Xavier numa classe à parte. Devemos ver nisso a intenção da divina Providência que, para produzir uma impressão mais salutar sobre o povo cristão, se empenhou em escolher, de maneira característica, os Santos que deviam ser propostos à nossa imitação nestes dias de preparação para a vinda do Salvador. Encontramos aí Apóstolos, Pontífices, Doutores, Virgens, glorioso cortejo do Cristo Deus, Rei e Esposo; a simples Confissão só está representada por um homem, pelo Anacoreta e Cenobita Sabas, personagem que, ao menos por sua profissão monástica, se liga a Elias e aos outros solitários da antiga Aliança, cuja cadeia mística vem terminar em João, o Precursor. Honremos, pois, esse grande Abade, por quem a Igreja grega professa uma veneração filial e sob cuja invocação Roma colocou uma de suas Igrejas; e apoiemo-nos em sua intercessão junto de Deus, dizendo com a santa Liturgia:
+
+[^1]: *Nota do tradutor:* Laura é uma forma de organização monástica oriental em que os monges vivem em celas separadas, reunindo-se para celebrações e outros atos comunitários.
+
+## Oração
+
+*Intercessio nos quaesumus Domine, beati Sabbae Abbatis commandet, ut quod nostris meritis non valemus, ejus patrocinio assequamur. Per Christum Dominum nostrum. Amen.*
+
+Que a intercessão do bem-aventurado Sabas nos recomende, Senhor, junto de vós, nós vos pedimos; para que obtenhamos por seu patrocínio o que não podemos esperar por nossos méritos. Por Jesus Cristo nosso Senhor. Amém.
+
+Glorioso Sabas, homem de desejos, que, na expectativa d’Aquele que disse a seus servos que velassem até sua vinda, vos retirastes ao deserto, receando que os ruídos do mundo viessem distrair-vos de vossas esperanças, tende piedade de nós que, no meio do século e entregues a todas as suas preocupações, recebemos, contudo, como vós, a advertência de nos mantermos preparados para a chegada d’Aquele que amáveis como Salvador e que temíeis como Juiz. Rogai para que sejamos dignos de ir ao seu encontro quando ele aparecer. Lembrai-vos também do Estado monástico, do qual sois um dos principais ornamentos; reerguei suas ruínas entre nós; suscitai homens de oração e de fé como nos dias antigos; que vosso espírito repouse sobre eles e que assim a Igreja, privada de parte de sua glória, a recupere por vossa intercessão.
+
+Consideremos ainda a Profecia do Patriarca Jacó, que não anuncia apenas que o Messias deve ser a esperança das nações, mas exprime também que o cetro será tirado de Judá na época em que aparecer o Libertador prometido. O oráculo está agora cumprido. Os estandartes de César Augusto tremulam sobre as muralhas de Jerusalém; e, se o Templo foi preservado até este dia, se a abominação da desolação ainda não foi estabelecida no lugar santo, se o sacrifício ainda não foi interrompido, é porque o verdadeiro Templo de Deus, o Verbo encarnado, tampouco foi inaugurado; a Sinagoga não renegou Aquele que esperava; a Hóstia que deve substituir todas as outras ainda não foi imolada. Mas Judá já não tem chefe de sua linhagem, a moeda de César circula por toda a Palestina; e está próximo o dia em que os chefes do povo judeu confessarão, diante de um governador romano, que não lhes é permitido dar a morte a ninguém. Já não há, portanto, Rei no trono de Davi e de Salomão, nesse trono que devia durar para sempre. Ó Cristo, Filho de Davi, Rei Pacífico, é tempo de aparecerdes e virdes tomar esse cetro arrancado pela vitória às mãos de Judá e depositado por alguns dias nas de um Imperador. Vinde, pois sois Rei, e o Salmista, vosso antepassado, cantou de vós: “Cingi vossa espada à vossa coxa, ó valentíssimo! Mostrai vossa beleza e vossa glória; avançai e reinai, pois a verdade, a mansidão e a justiça estão em vós, e o poder de vosso braço vos fará sobressair. Lançadas por esse braço vencedor, vossas flechas atravessarão o coração dos inimigos de vossa Realeza e farão cair a vossos pés todos os povos. Vosso trono será eterno; o cetro de vosso Império será um cetro de equidade; Deus vos ungiu, a vós que também sois Deus, com um óleo de alegria que corre mais abundantemente sobre vós, ó Cristo, que dele tirais vosso nome, do que sobre todos os que alguma vez se honraram com o nome de Rei.” (Salmo 44.) Ó Messias, quando tiverdes vindo, os homens já não andarão errantes como ovelhas sem pastor; haverá um só redil onde reinareis pelo amor e pela justiça, pois todo poder vos será dado no céu e na terra; e quando, nos dias de vossa Paixão, vossos inimigos vos perguntarem: És Rei? Respondereis segundo a verdade: Sim, sou Rei. Ó Rei, vinde reinar sobre nossos corações; vinde reinar sobre este mundo que é vosso porque o fizestes e que em breve será uma vez mais vosso, porque o tereis resgatado. Oh! Reinai, pois, sobre este mundo e não espereis, para nele manifestar vossa realeza, o dia do qual está escrito: Esmagareis contra a terra a cabeça dos Reis (Salmo 109); reinai desde agora e fazei que todos os povos estejam a vossos pés numa homenagem universal de amor e submissão.
+
+## Sequência para o tempo do Advento
+
+(Composta no século XI e extraída dos antigos Missais Romano-Franceses.)  
+*Qui régis sceptra forti dextra solus cuncta,*  
+*Tu plebi tuam ostende magnam excitando potentiam ;*  
+*Praesta illi dona salutaria.*  
+*Quem praedixerunt prophetica vaticinia,*  
+*A clara poli regia,*  
+*In nostra Jesum mitte, Domine, arva. Amen.*  
+Vós que, sozinho, na força de vosso braço, reinais sobre todos os cetros,  
+Despertai vosso poder e fazei-o resplandecer aos olhos de vosso povo;  
+Concedei-lhe os dons da salvação.  
+Aquele que os oráculos proféticos anunciaram,  
+Enviai-o do radioso palácio do alto;  
+Senhor, enviai Jesus à nossa Terra. Amém.
