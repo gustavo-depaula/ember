@@ -15,13 +15,19 @@
   },
   "composed": "1932",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/chaucer",
   "editions": {
     "en-US": {
       "editor": "Faber & Faber",
       "year": 1932
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,61 +44,71 @@
     {
       "id": "ch01-introduction",
       "title": {
-        "en-US": "Introduction"
+        "en-US": "Introduction",
+        "pt-BR": "Introdução"
       }
     },
     {
       "id": "ch02-the-greatness-of-chaucer",
       "title": {
-        "en-US": "I. The Greatness of Chaucer"
+        "en-US": "I. The Greatness of Chaucer",
+        "pt-BR": "I. A grandeza de Chaucer"
       }
     },
     {
       "id": "ch03-the-age-of-chaucer",
       "title": {
-        "en-US": "II. The Age of Chaucer"
+        "en-US": "II. The Age of Chaucer",
+        "pt-BR": "II. A época de Chaucer"
       }
     },
     {
       "id": "ch04-public-and-private-life",
       "title": {
-        "en-US": "III. Public and Private Life"
+        "en-US": "III. Public and Private Life",
+        "pt-BR": "III. Vida pública e privada"
       }
     },
     {
       "id": "ch05-the-garden-of-romance",
       "title": {
-        "en-US": "IV. The Garden of Romance"
+        "en-US": "IV. The Garden of Romance",
+        "pt-BR": "IV. O jardim do romance"
       }
     },
     {
       "id": "ch06-the-canterbury-tales",
       "title": {
-        "en-US": "V. The Canterbury Tales"
+        "en-US": "V. The Canterbury Tales",
+        "pt-BR": "V. Os Contos de Cantuária"
       }
     },
     {
       "id": "ch07-chaucer-as-an-englishman",
       "title": {
-        "en-US": "VI. Chaucer as an Englishman"
+        "en-US": "VI. Chaucer as an Englishman",
+        "pt-BR": "VI. Chaucer como inglês"
       }
     },
     {
       "id": "ch08-chaucer-and-the-renaissance",
       "title": {
-        "en-US": "VII. Chaucer and the Renaissance"
+        "en-US": "VII. Chaucer and the Renaissance",
+        "pt-BR": "VII. Chaucer e o Renascimento"
       }
     },
     {
       "id": "ch09-the-religion-of-chaucer",
       "title": {
-        "en-US": "VIII. The Religion of Chaucer"
+        "en-US": "VIII. The Religion of Chaucer",
+        "pt-BR": "VIII. A religião de Chaucer"
       }
     },
     {
       "id": "ch10-the-moral-of-the-story",
       "title": {
-        "en-US": "IX. The Moral of the Story"
+        "en-US": "IX. The Moral of the Story",
+        "pt-BR": "IX. A moral da história"
       }
     }
   ]
