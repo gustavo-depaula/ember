@@ -3,15 +3,18 @@
   "cover": "quarter",
   "name": {
     "la": "Contra Faustum Manichaeum",
-    "en-US": "Reply to Faustus the Manichaean"
+    "en-US": "Reply to Faustus the Manichaean",
+    "pt-BR": "Contra Fausto, o maniqueu"
   },
   "author": {
     "la": "Aurelius Augustinus Hipponensis (354-430)",
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -33,231 +36,264 @@
       "id": "ch001",
       "title": {
         "la": "Liber I",
-        "en-US": "Book 1"
+        "en-US": "Book 1",
+        "pt-BR": "Livro I"
       }
     },
     {
       "id": "ch002",
       "title": {
         "la": "Liber II",
-        "en-US": "Book 2"
+        "en-US": "Book 2",
+        "pt-BR": "Livro II"
       }
     },
     {
       "id": "ch003",
       "title": {
         "la": "Liber III",
-        "en-US": "Book 3"
+        "en-US": "Book 3",
+        "pt-BR": "Livro III"
       }
     },
     {
       "id": "ch004",
       "title": {
         "la": "Liber IV",
-        "en-US": "Book 4"
+        "en-US": "Book 4",
+        "pt-BR": "Livro IV"
       }
     },
     {
       "id": "ch005",
       "title": {
         "la": "Liber V",
-        "en-US": "Book 5"
+        "en-US": "Book 5",
+        "pt-BR": "Livro V"
       }
     },
     {
       "id": "ch006",
       "title": {
         "la": "Liber VI",
-        "en-US": "Book 6"
+        "en-US": "Book 6",
+        "pt-BR": "Livro VI"
       }
     },
     {
       "id": "ch007",
       "title": {
         "la": "Liber VII",
-        "en-US": "Book 7"
+        "en-US": "Book 7",
+        "pt-BR": "Livro VII"
       }
     },
     {
       "id": "ch008",
       "title": {
         "la": "Liber VIII",
-        "en-US": "Book 8"
+        "en-US": "Book 8",
+        "pt-BR": "Livro VIII"
       }
     },
     {
       "id": "ch009",
       "title": {
         "la": "Liber IX",
-        "en-US": "Book 9"
+        "en-US": "Book 9",
+        "pt-BR": "Livro IX"
       }
     },
     {
       "id": "ch010",
       "title": {
         "la": "Liber X",
-        "en-US": "Book 10"
+        "en-US": "Book 10",
+        "pt-BR": "Livro X"
       }
     },
     {
       "id": "ch011",
       "title": {
         "la": "Liber XI",
-        "en-US": "Book 11"
+        "en-US": "Book 11",
+        "pt-BR": "Livro XI"
       }
     },
     {
       "id": "ch012",
       "title": {
         "la": "Liber XII",
-        "en-US": "Book 12"
+        "en-US": "Book 12",
+        "pt-BR": "Livro XII"
       }
     },
     {
       "id": "ch013",
       "title": {
         "la": "Liber XIII",
-        "en-US": "Book 13"
+        "en-US": "Book 13",
+        "pt-BR": "Livro XIII"
       }
     },
     {
       "id": "ch014",
       "title": {
         "la": "Liber XIV",
-        "en-US": "Book 14"
+        "en-US": "Book 14",
+        "pt-BR": "Livro XIV"
       }
     },
     {
       "id": "ch015",
       "title": {
         "la": "Liber XV",
-        "en-US": "Book 15"
+        "en-US": "Book 15",
+        "pt-BR": "Livro XV"
       }
     },
     {
       "id": "ch016",
       "title": {
         "la": "Liber XVI",
-        "en-US": "Book 16"
+        "en-US": "Book 16",
+        "pt-BR": "Livro XVI"
       }
     },
     {
       "id": "ch017",
       "title": {
         "la": "Liber XVII",
-        "en-US": "Book 17"
+        "en-US": "Book 17",
+        "pt-BR": "Livro XVII"
       }
     },
     {
       "id": "ch018",
       "title": {
         "la": "Liber XVIII",
-        "en-US": "Book 18"
+        "en-US": "Book 18",
+        "pt-BR": "Livro XVIII"
       }
     },
     {
       "id": "ch019",
       "title": {
         "la": "Liber XIX",
-        "en-US": "Book 19"
+        "en-US": "Book 19",
+        "pt-BR": "Livro XIX"
       }
     },
     {
       "id": "ch020",
       "title": {
         "la": "Liber XX",
-        "en-US": "Book 20"
+        "en-US": "Book 20",
+        "pt-BR": "Livro XX"
       }
     },
     {
       "id": "ch021",
       "title": {
         "la": "Liber XXI",
-        "en-US": "Book 21"
+        "en-US": "Book 21",
+        "pt-BR": "Livro XXI"
       }
     },
     {
       "id": "ch022",
       "title": {
         "la": "Liber XXII",
-        "en-US": "Book 22"
+        "en-US": "Book 22",
+        "pt-BR": "Livro XXII"
       }
     },
     {
       "id": "ch023",
       "title": {
         "la": "Liber XXIII",
-        "en-US": "Book 23"
+        "en-US": "Book 23",
+        "pt-BR": "Livro XXIII"
       }
     },
     {
       "id": "ch024",
       "title": {
         "la": "Liber XXIV",
-        "en-US": "Book 24"
+        "en-US": "Book 24",
+        "pt-BR": "Livro XXIV"
       }
     },
     {
       "id": "ch025",
       "title": {
         "la": "Liber XXV",
-        "en-US": "Book 25"
+        "en-US": "Book 25",
+        "pt-BR": "Livro XXV"
       }
     },
     {
       "id": "ch026",
       "title": {
         "la": "Liber XXVI",
-        "en-US": "Book 26"
+        "en-US": "Book 26",
+        "pt-BR": "Livro XXVI"
       }
     },
     {
       "id": "ch027",
       "title": {
         "la": "Liber XXVII",
-        "en-US": "Book 27"
+        "en-US": "Book 27",
+        "pt-BR": "Livro XXVII"
       }
     },
     {
       "id": "ch028",
       "title": {
         "la": "Liber XXVIII",
-        "en-US": "Book 28"
+        "en-US": "Book 28",
+        "pt-BR": "Livro XXVIII"
       }
     },
     {
       "id": "ch029",
       "title": {
         "la": "Liber XXIX",
-        "en-US": "Book 29"
+        "en-US": "Book 29",
+        "pt-BR": "Livro XXIX"
       }
     },
     {
       "id": "ch030",
       "title": {
         "la": "Liber XXX",
-        "en-US": "Book 30"
+        "en-US": "Book 30",
+        "pt-BR": "Livro XXX"
       }
     },
     {
       "id": "ch031",
       "title": {
         "la": "Liber XXXI",
-        "en-US": "Book 31"
+        "en-US": "Book 31",
+        "pt-BR": "Livro XXXI"
       }
     },
     {
       "id": "ch032",
       "title": {
         "la": "Liber XXXII",
-        "en-US": "Book 32"
+        "en-US": "Book 32",
+        "pt-BR": "Livro XXXII"
       }
     },
     {
       "id": "ch033",
       "title": {
         "la": "Liber XXXIII",
-        "en-US": "Book 33"
+        "en-US": "Book 33",
+        "pt-BR": "Livro XXXIII"
       }
     }
   ],
@@ -274,6 +310,11 @@
     "en-US": {
       "translator": "Richard Stothert",
       "year": 1887
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   }
 }
