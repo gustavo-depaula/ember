@@ -44,7 +44,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           submodules: true
-          filter: blob:none
+          filter: blob:limit=1m
           sparse-checkout-cone-mode: false
           sparse-checkout: |
             /*
@@ -75,7 +75,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           submodules: true
-          filter: blob:none
+          filter: blob:limit=1m
           sparse-checkout-cone-mode: false
           sparse-checkout: |
             /*
