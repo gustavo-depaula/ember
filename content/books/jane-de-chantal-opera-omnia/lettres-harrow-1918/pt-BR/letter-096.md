@@ -1,0 +1,7 @@
+# Carta XCVI. À Condessa de Toulonjon, em Alonne
+
+Viva ✠ Jesus!
+
+ANNECY, 1634.
+
+Vejo por tua carta que estás em grande aflição, e isso me toca profundamente. Não há dúvida: tuas tribulações são grandes e, vistas segundo o juízo deste mundo, são de natureza muito dolorosa. Mas ergue os olhos, acima dessas coisas baixas, miseráveis e passageiras, para aquela bem-aventurada eternidade em que se encontra uma consolação grande e sem fim, e te alegrarás por aqueles que pranteias a possuírem na felicidade, e uma doce paz encherá teu coração em meio às vicissitudes desta vida mortal. Ah! Quando refletiremos um pouco sobre essas verdades de fé? Quando saborearemos, caríssima filha, a doçura da vontade divina? Quando veremos em tudo o que nos acontece o beneplácito de Deus? Quer envie prosperidade, quer adversidade, Ele destina tudo igualmente ao nosso maior bem e dá tudo com um amor que nos é incompreensível. Mas, miseráveis criaturas que somos, transformamos em veneno os remédios destinados à nossa cura. Não façamos mais isso; antes, submetamo-nos amorosamente como filhos obedientes e cooperemos com os desígnios de nosso Pai celeste, cujo único propósito ao nos enviar aflições é unir-nos mais intimamente a si. Se assim agirmos, Ele será tudo para nós, tomará o lugar de irmão, filho, marido, mãe, de todas as coisas. Cobra ânimo com esses pensamentos que fortalecem. Peço a Nosso Senhor que te dê a conhecer os ricos tesouros que, em sua bondade, encerra nas aflições que nos envia.
