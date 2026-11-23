@@ -3,15 +3,18 @@
   "cover": "quarter",
   "name": {
     "la": "Sermones",
-    "en-US": "Sermons on Selected Lessons of the New Testament"
+    "en-US": "Sermons on Selected Lessons of the New Testament",
+    "pt-BR": "Sermões sobre passagens escolhidas do Novo Testamento"
   },
   "author": {
     "la": "Aurelius Augustinus Hipponensis (354-430)",
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -33,679 +36,776 @@
       "id": "ch001",
       "title": {
         "la": "Sermo 51",
-        "en-US": "Sermon 1"
+        "en-US": "Sermon 1",
+        "pt-BR": "Sermão 51"
       }
     },
     {
       "id": "ch002",
       "title": {
         "la": "Sermo 52",
-        "en-US": "Sermon 2"
+        "en-US": "Sermon 2",
+        "pt-BR": "Sermão 52"
       }
     },
     {
       "id": "ch003",
       "title": {
         "la": "Sermo 53",
-        "en-US": "Sermon 3"
+        "en-US": "Sermon 3",
+        "pt-BR": "Sermão 53"
       }
     },
     {
       "id": "ch004",
       "title": {
         "la": "Sermo 54",
-        "en-US": "Sermon 4"
+        "en-US": "Sermon 4",
+        "pt-BR": "Sermão 54"
       }
     },
     {
       "id": "ch005",
       "title": {
         "la": "Sermo 55",
-        "en-US": "Sermon 5"
+        "en-US": "Sermon 5",
+        "pt-BR": "Sermão 55"
       }
     },
     {
       "id": "ch006",
       "title": {
         "la": "Sermo 56",
-        "en-US": "Sermon 6"
+        "en-US": "Sermon 6",
+        "pt-BR": "Sermão 56"
       }
     },
     {
       "id": "ch007",
       "title": {
         "la": "Sermo 57",
-        "en-US": "Sermon 7"
+        "en-US": "Sermon 7",
+        "pt-BR": "Sermão 57"
       }
     },
     {
       "id": "ch008",
       "title": {
         "la": "Sermo 58",
-        "en-US": "Sermon 8"
+        "en-US": "Sermon 8",
+        "pt-BR": "Sermão 58"
       }
     },
     {
       "id": "ch009",
       "title": {
         "la": "Sermo 59",
-        "en-US": "Sermon 9"
+        "en-US": "Sermon 9",
+        "pt-BR": "Sermão 59"
       }
     },
     {
       "id": "ch010",
       "title": {
         "la": "Sermo 60",
-        "en-US": "Sermon 10"
+        "en-US": "Sermon 10",
+        "pt-BR": "Sermão 60"
       }
     },
     {
       "id": "ch011",
       "title": {
         "la": "Sermo 61",
-        "en-US": "Sermon 11"
+        "en-US": "Sermon 11",
+        "pt-BR": "Sermão 61"
       }
     },
     {
       "id": "ch012",
       "title": {
         "la": "Sermo 62",
-        "en-US": "Sermon 12"
+        "en-US": "Sermon 12",
+        "pt-BR": "Sermão 62"
       }
     },
     {
       "id": "ch013",
       "title": {
         "la": "Sermo 63",
-        "en-US": "Sermon 13"
+        "en-US": "Sermon 13",
+        "pt-BR": "Sermão 63"
       }
     },
     {
       "id": "ch014",
       "title": {
         "la": "Sermo 64",
-        "en-US": "Sermon 14"
+        "en-US": "Sermon 14",
+        "pt-BR": "Sermão 64"
       }
     },
     {
       "id": "ch015",
       "title": {
         "la": "Sermo 65",
-        "en-US": "Sermon 15"
+        "en-US": "Sermon 15",
+        "pt-BR": "Sermão 65"
       }
     },
     {
       "id": "ch016",
       "title": {
         "la": "Sermo 66",
-        "en-US": "Sermon 16"
+        "en-US": "Sermon 16",
+        "pt-BR": "Sermão 66"
       }
     },
     {
       "id": "ch017",
       "title": {
         "la": "Sermo 67",
-        "en-US": "Sermon 17"
+        "en-US": "Sermon 17",
+        "pt-BR": "Sermão 67"
       }
     },
     {
       "id": "ch018",
       "title": {
         "la": "Sermo 68",
-        "en-US": "Sermon 18"
+        "en-US": "Sermon 18",
+        "pt-BR": "Sermão 68"
       }
     },
     {
       "id": "ch019",
       "title": {
         "la": "Sermo 69",
-        "en-US": "Sermon 19"
+        "en-US": "Sermon 19",
+        "pt-BR": "Sermão 69"
       }
     },
     {
       "id": "ch020",
       "title": {
         "la": "Sermo 70",
-        "en-US": "Sermon 20"
+        "en-US": "Sermon 20",
+        "pt-BR": "Sermão 70"
       }
     },
     {
       "id": "ch021",
       "title": {
         "la": "Sermo 71",
-        "en-US": "Sermon 21"
+        "en-US": "Sermon 21",
+        "pt-BR": "Sermão 71"
       }
     },
     {
       "id": "ch022",
       "title": {
         "la": "Sermo 72",
-        "en-US": "Sermon 22"
+        "en-US": "Sermon 22",
+        "pt-BR": "Sermão 72"
       }
     },
     {
       "id": "ch023",
       "title": {
         "la": "Sermo 73",
-        "en-US": "Sermon 23"
+        "en-US": "Sermon 23",
+        "pt-BR": "Sermão 73"
       }
     },
     {
       "id": "ch024",
       "title": {
         "la": "Sermo 74",
-        "en-US": "Sermon 24"
+        "en-US": "Sermon 24",
+        "pt-BR": "Sermão 74"
       }
     },
     {
       "id": "ch025",
       "title": {
         "la": "Sermo 75",
-        "en-US": "Sermon 25"
+        "en-US": "Sermon 25",
+        "pt-BR": "Sermão 75"
       }
     },
     {
       "id": "ch026",
       "title": {
         "la": "Sermo 76",
-        "en-US": "Sermon 26"
+        "en-US": "Sermon 26",
+        "pt-BR": "Sermão 76"
       }
     },
     {
       "id": "ch027",
       "title": {
         "la": "Sermo 77",
-        "en-US": "Sermon 27"
+        "en-US": "Sermon 27",
+        "pt-BR": "Sermão 77"
       }
     },
     {
       "id": "ch028",
       "title": {
         "la": "Sermo 78",
-        "en-US": "Sermon 28"
+        "en-US": "Sermon 28",
+        "pt-BR": "Sermão 78"
       }
     },
     {
       "id": "ch029",
       "title": {
         "la": "Sermo 79",
-        "en-US": "Sermon 29"
+        "en-US": "Sermon 29",
+        "pt-BR": "Sermão 79"
       }
     },
     {
       "id": "ch030",
       "title": {
         "la": "Sermo 80",
-        "en-US": "Sermon 30"
+        "en-US": "Sermon 30",
+        "pt-BR": "Sermão 80"
       }
     },
     {
       "id": "ch031",
       "title": {
         "la": "Sermo 81",
-        "en-US": "Sermon 31"
+        "en-US": "Sermon 31",
+        "pt-BR": "Sermão 81"
       }
     },
     {
       "id": "ch032",
       "title": {
         "la": "Sermo 82",
-        "en-US": "Sermon 32"
+        "en-US": "Sermon 32",
+        "pt-BR": "Sermão 82"
       }
     },
     {
       "id": "ch033",
       "title": {
         "la": "Sermo 83",
-        "en-US": "Sermon 33"
+        "en-US": "Sermon 33",
+        "pt-BR": "Sermão 83"
       }
     },
     {
       "id": "ch034",
       "title": {
         "la": "Sermo 84",
-        "en-US": "Sermon 34"
+        "en-US": "Sermon 34",
+        "pt-BR": "Sermão 84"
       }
     },
     {
       "id": "ch035",
       "title": {
         "la": "Sermo 85",
-        "en-US": "Sermon 35"
+        "en-US": "Sermon 35",
+        "pt-BR": "Sermão 85"
       }
     },
     {
       "id": "ch036",
       "title": {
         "la": "Sermo 86",
-        "en-US": "Sermon 36"
+        "en-US": "Sermon 36",
+        "pt-BR": "Sermão 86"
       }
     },
     {
       "id": "ch037",
       "title": {
         "la": "Sermo 87",
-        "en-US": "Sermon 37"
+        "en-US": "Sermon 37",
+        "pt-BR": "Sermão 87"
       }
     },
     {
       "id": "ch038",
       "title": {
         "la": "Sermo 88",
-        "en-US": "Sermon 38"
+        "en-US": "Sermon 38",
+        "pt-BR": "Sermão 88"
       }
     },
     {
       "id": "ch039",
       "title": {
         "la": "Sermo 89",
-        "en-US": "Sermon 39"
+        "en-US": "Sermon 39",
+        "pt-BR": "Sermão 89"
       }
     },
     {
       "id": "ch040",
       "title": {
         "la": "Sermo 90",
-        "en-US": "Sermon 40"
+        "en-US": "Sermon 40",
+        "pt-BR": "Sermão 90"
       }
     },
     {
       "id": "ch041",
       "title": {
         "la": "Sermo 91",
-        "en-US": "Sermon 41"
+        "en-US": "Sermon 41",
+        "pt-BR": "Sermão 91"
       }
     },
     {
       "id": "ch042",
       "title": {
         "la": "Sermo 92",
-        "en-US": "Sermon 42"
+        "en-US": "Sermon 42",
+        "pt-BR": "Sermão 92"
       }
     },
     {
       "id": "ch043",
       "title": {
         "la": "Sermo 93",
-        "en-US": "Sermon 43"
+        "en-US": "Sermon 43",
+        "pt-BR": "Sermão 93"
       }
     },
     {
       "id": "ch044",
       "title": {
         "la": "Sermo 94",
-        "en-US": "Sermon 44"
+        "en-US": "Sermon 44",
+        "pt-BR": "Sermão 94"
       }
     },
     {
       "id": "ch045",
       "title": {
         "la": "Sermo 95",
-        "en-US": "Sermon 45"
+        "en-US": "Sermon 45",
+        "pt-BR": "Sermão 95"
       }
     },
     {
       "id": "ch046",
       "title": {
         "la": "Sermo 96",
-        "en-US": "Sermon 46"
+        "en-US": "Sermon 46",
+        "pt-BR": "Sermão 96"
       }
     },
     {
       "id": "ch047",
       "title": {
         "la": "Sermo 97",
-        "en-US": "Sermon 47"
+        "en-US": "Sermon 47",
+        "pt-BR": "Sermão 97"
       }
     },
     {
       "id": "ch048",
       "title": {
         "la": "Sermo 98",
-        "en-US": "Sermon 48"
+        "en-US": "Sermon 48",
+        "pt-BR": "Sermão 98"
       }
     },
     {
       "id": "ch049",
       "title": {
         "la": "Sermo 99",
-        "en-US": "Sermon 49"
+        "en-US": "Sermon 49",
+        "pt-BR": "Sermão 99"
       }
     },
     {
       "id": "ch050",
       "title": {
         "la": "Sermo 100",
-        "en-US": "Sermon 50"
+        "en-US": "Sermon 50",
+        "pt-BR": "Sermão 100"
       }
     },
     {
       "id": "ch051",
       "title": {
         "la": "Sermo 101",
-        "en-US": "Sermon 51"
+        "en-US": "Sermon 51",
+        "pt-BR": "Sermão 101"
       }
     },
     {
       "id": "ch052",
       "title": {
         "la": "Sermo 102",
-        "en-US": "Sermon 52"
+        "en-US": "Sermon 52",
+        "pt-BR": "Sermão 102"
       }
     },
     {
       "id": "ch053",
       "title": {
         "la": "Sermo 103",
-        "en-US": "Sermon 53"
+        "en-US": "Sermon 53",
+        "pt-BR": "Sermão 103"
       }
     },
     {
       "id": "ch054",
       "title": {
         "la": "Sermo 104",
-        "en-US": "Sermon 54"
+        "en-US": "Sermon 54",
+        "pt-BR": "Sermão 104"
       }
     },
     {
       "id": "ch055",
       "title": {
         "la": "Sermo 105",
-        "en-US": "Sermon 55"
+        "en-US": "Sermon 55",
+        "pt-BR": "Sermão 105"
       }
     },
     {
       "id": "ch056",
       "title": {
         "la": "Sermo 106",
-        "en-US": "Sermon 56"
+        "en-US": "Sermon 56",
+        "pt-BR": "Sermão 106"
       }
     },
     {
       "id": "ch057",
       "title": {
         "la": "Sermo 107",
-        "en-US": "Sermon 57"
+        "en-US": "Sermon 57",
+        "pt-BR": "Sermão 107"
       }
     },
     {
       "id": "ch058",
       "title": {
         "la": "Sermo 108",
-        "en-US": "Sermon 58"
+        "en-US": "Sermon 58",
+        "pt-BR": "Sermão 108"
       }
     },
     {
       "id": "ch059",
       "title": {
         "la": "Sermo 109",
-        "en-US": "Sermon 59"
+        "en-US": "Sermon 59",
+        "pt-BR": "Sermão 109"
       }
     },
     {
       "id": "ch060",
       "title": {
         "la": "Sermo 110",
-        "en-US": "Sermon 60"
+        "en-US": "Sermon 60",
+        "pt-BR": "Sermão 110"
       }
     },
     {
       "id": "ch061",
       "title": {
         "la": "Sermo 111",
-        "en-US": "Sermon 61"
+        "en-US": "Sermon 61",
+        "pt-BR": "Sermão 111"
       }
     },
     {
       "id": "ch062",
       "title": {
         "la": "Sermo 92",
-        "en-US": "Sermon 62"
+        "en-US": "Sermon 62",
+        "pt-BR": "Sermão 92"
       }
     },
     {
       "id": "ch063",
       "title": {
         "la": "Sermo 113",
-        "en-US": "Sermon 63"
+        "en-US": "Sermon 63",
+        "pt-BR": "Sermão 113"
       }
     },
     {
       "id": "ch064",
       "title": {
         "la": "Sermo 114",
-        "en-US": "Sermon 64"
+        "en-US": "Sermon 64",
+        "pt-BR": "Sermão 114"
       }
     },
     {
       "id": "ch065",
       "title": {
         "la": "Sermo 115",
-        "en-US": "Sermon 65"
+        "en-US": "Sermon 65",
+        "pt-BR": "Sermão 115"
       }
     },
     {
       "id": "ch066",
       "title": {
         "la": "Sermo 116",
-        "en-US": "Sermon 66"
+        "en-US": "Sermon 66",
+        "pt-BR": "Sermão 116"
       }
     },
     {
       "id": "ch067",
       "title": {
         "la": "Sermo 117",
-        "en-US": "Sermon 67"
+        "en-US": "Sermon 67",
+        "pt-BR": "Sermão 117"
       }
     },
     {
       "id": "ch068",
       "title": {
         "la": "Sermo 118",
-        "en-US": "Sermon 68"
+        "en-US": "Sermon 68",
+        "pt-BR": "Sermão 118"
       }
     },
     {
       "id": "ch069",
       "title": {
         "la": "Sermo 119",
-        "en-US": "Sermon 69"
+        "en-US": "Sermon 69",
+        "pt-BR": "Sermão 119"
       }
     },
     {
       "id": "ch070",
       "title": {
         "la": "Sermo 120",
-        "en-US": "Sermon 70"
+        "en-US": "Sermon 70",
+        "pt-BR": "Sermão 120"
       }
     },
     {
       "id": "ch071",
       "title": {
         "la": "Sermo 121",
-        "en-US": "Sermon 71"
+        "en-US": "Sermon 71",
+        "pt-BR": "Sermão 121"
       }
     },
     {
       "id": "ch072",
       "title": {
         "la": "Sermo 122",
-        "en-US": "Sermon 72"
+        "en-US": "Sermon 72",
+        "pt-BR": "Sermão 122"
       }
     },
     {
       "id": "ch073",
       "title": {
         "la": "Sermo 123",
-        "en-US": "Sermon 73"
+        "en-US": "Sermon 73",
+        "pt-BR": "Sermão 123"
       }
     },
     {
       "id": "ch074",
       "title": {
         "la": "Sermo 124",
-        "en-US": "Sermon 74"
+        "en-US": "Sermon 74",
+        "pt-BR": "Sermão 124"
       }
     },
     {
       "id": "ch075",
       "title": {
         "la": "Sermo 125",
-        "en-US": "Sermon 75"
+        "en-US": "Sermon 75",
+        "pt-BR": "Sermão 125"
       }
     },
     {
       "id": "ch076",
       "title": {
         "la": "Sermo 126",
-        "en-US": "Sermon 76"
+        "en-US": "Sermon 76",
+        "pt-BR": "Sermão 126"
       }
     },
     {
       "id": "ch077",
       "title": {
         "la": "Sermo 127",
-        "en-US": "Sermon 77"
+        "en-US": "Sermon 77",
+        "pt-BR": "Sermão 127"
       }
     },
     {
       "id": "ch078",
       "title": {
         "la": "Sermo 128",
-        "en-US": "Sermon 78"
+        "en-US": "Sermon 78",
+        "pt-BR": "Sermão 128"
       }
     },
     {
       "id": "ch079",
       "title": {
         "la": "Sermo 129",
-        "en-US": "Sermon 79"
+        "en-US": "Sermon 79",
+        "pt-BR": "Sermão 129"
       }
     },
     {
       "id": "ch080",
       "title": {
         "la": "Sermo 130",
-        "en-US": "Sermon 80"
+        "en-US": "Sermon 80",
+        "pt-BR": "Sermão 130"
       }
     },
     {
       "id": "ch081",
       "title": {
         "la": "Sermo 131",
-        "en-US": "Sermon 81"
+        "en-US": "Sermon 81",
+        "pt-BR": "Sermão 131"
       }
     },
     {
       "id": "ch082",
       "title": {
         "la": "Sermo 132",
-        "en-US": "Sermon 82"
+        "en-US": "Sermon 82",
+        "pt-BR": "Sermão 132"
       }
     },
     {
       "id": "ch083",
       "title": {
         "la": "Sermo 133",
-        "en-US": "Sermon 83"
+        "en-US": "Sermon 83",
+        "pt-BR": "Sermão 133"
       }
     },
     {
       "id": "ch084",
       "title": {
         "la": "Sermo 134",
-        "en-US": "Sermon 84"
+        "en-US": "Sermon 84",
+        "pt-BR": "Sermão 134"
       }
     },
     {
       "id": "ch085",
       "title": {
         "la": "Sermo 135",
-        "en-US": "Sermon 85"
+        "en-US": "Sermon 85",
+        "pt-BR": "Sermão 135"
       }
     },
     {
       "id": "ch086",
       "title": {
         "la": "Sermo 136",
-        "en-US": "Sermon 86"
+        "en-US": "Sermon 86",
+        "pt-BR": "Sermão 136"
       }
     },
     {
       "id": "ch087",
       "title": {
         "la": "Sermo 137",
-        "en-US": "Sermon 87"
+        "en-US": "Sermon 87",
+        "pt-BR": "Sermão 137"
       }
     },
     {
       "id": "ch088",
       "title": {
         "la": "Sermo 138",
-        "en-US": "Sermon 88"
+        "en-US": "Sermon 88",
+        "pt-BR": "Sermão 138"
       }
     },
     {
       "id": "ch089",
       "title": {
         "la": "Sermo 139",
-        "en-US": "Sermon 89"
+        "en-US": "Sermon 89",
+        "pt-BR": "Sermão 139"
       }
     },
     {
       "id": "ch090",
       "title": {
         "la": "Sermo 140",
-        "en-US": "Sermon 90"
+        "en-US": "Sermon 90",
+        "pt-BR": "Sermão 140"
       }
     },
     {
       "id": "ch091",
       "title": {
         "la": "Sermo 141",
-        "en-US": "Sermon 91"
+        "en-US": "Sermon 91",
+        "pt-BR": "Sermão 141"
       }
     },
     {
       "id": "ch092",
       "title": {
         "la": "Sermo 142",
-        "en-US": "Sermon 92"
+        "en-US": "Sermon 92",
+        "pt-BR": "Sermão 142"
       }
     },
     {
       "id": "ch093",
       "title": {
         "la": "Sermo 143",
-        "en-US": "Sermon 93"
+        "en-US": "Sermon 93",
+        "pt-BR": "Sermão 143"
       }
     },
     {
       "id": "ch094",
       "title": {
         "la": "Sermo 144",
-        "en-US": "Sermon 94"
+        "en-US": "Sermon 94",
+        "pt-BR": "Sermão 144"
       }
     },
     {
       "id": "ch095",
       "title": {
         "la": "Sermo 145",
-        "en-US": "Sermon 95"
+        "en-US": "Sermon 95",
+        "pt-BR": "Sermão 145"
       }
     },
     {
       "id": "ch096",
       "title": {
         "la": "Sermo 146",
-        "en-US": "Sermon 96"
+        "en-US": "Sermon 96",
+        "pt-BR": "Sermão 146"
       }
     },
     {
       "id": "ch097",
       "title": {
         "la": "Sermo 147",
-        "en-US": "Sermon 97"
+        "en-US": "Sermon 97",
+        "pt-BR": "Sermão 147"
       }
     }
   ],
@@ -722,6 +822,11 @@
     "en-US": {
       "translator": "R",
       "year": 1888
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   }
 }
