@@ -18,13 +18,19 @@
   },
   "composed": "1604–1641",
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "jane-de-chantal/papiers",
   "editions": {
     "fr-FR": {
       "editor": "Religieuses du Premier Monastère de la Visitation d’Annecy",
       "year": 1875
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,73 +47,85 @@
     {
       "id": "petit-livret",
       "title": {
-        "fr-FR": "Précieux fragments du Petit livret de notre bienheureuse Mère Jeanne-Françoise Frémyot de Chantal, ou recueil fait par elle des principaux avis de direction qu’elle avait reçus de saint François de Sales"
+        "fr-FR": "Précieux fragments du Petit livret de notre bienheureuse Mère Jeanne-Françoise Frémyot de Chantal, ou recueil fait par elle des principaux avis de direction qu’elle avait reçus de saint François de Sales",
+        "pt-BR": "Preciosos fragmentos do Pequeno Livro de nossa bem-aventurada Madre Joana-Francisca Frémyot de Chantal, ou coletânea feita por ela dos principais conselhos de direção que havia recebido de São Francisco de Sales"
       }
     },
     {
       "id": "cantique",
       "title": {
-        "fr-FR": "Cantique"
+        "fr-FR": "Cantique",
+        "pt-BR": "Cântico"
       }
     },
     {
       "id": "cantique-vierge",
       "title": {
-        "fr-FR": "Cantique à la sainte Vierge"
+        "fr-FR": "Cantique à la sainte Vierge",
+        "pt-BR": "Cântico à santa Virgem"
       }
     },
     {
       "id": "derniers-avis",
       "title": {
-        "fr-FR": "Derniers avis du Bienheureux (pendant la retraite de 1610)"
+        "fr-FR": "Derniers avis du Bienheureux (pendant la retraite de 1610)",
+        "pt-BR": "Últimos conselhos do Bem-aventurado (durante o retiro de 1610)"
       }
     },
     {
       "id": "exercices-retraite",
       "title": {
-        "fr-FR": "Exercices faits en retraite"
+        "fr-FR": "Exercices faits en retraite",
+        "pt-BR": "Exercícios feitos em retiro"
       }
     },
     {
       "id": "sentiments-resolutions",
       "title": {
-        "fr-FR": "Sentiments et résolutions à la fin d’une retraite annuelle"
+        "fr-FR": "Sentiments et résolutions à la fin d’une retraite annuelle",
+        "pt-BR": "Sentimentos e resoluções ao fim de um retiro anual"
       }
     },
     {
       "id": "autre-recueil",
       "title": {
-        "fr-FR": "Autre recueil de quelques paroles, instructions et avis de saint François de Sales donnés à Jeanne-Françoise Frémyot de Chantal"
+        "fr-FR": "Autre recueil de quelques paroles, instructions et avis de saint François de Sales donnés à Jeanne-Françoise Frémyot de Chantal",
+        "pt-BR": "Outra coletânea de algumas palavras, instruções e conselhos de São Francisco de Sales dados a Joana-Francisca Frémyot de Chantal"
       }
     },
     {
       "id": "questions-reponses",
       "title": {
-        "fr-FR": "Questions adressées par Jeanne-Françoise Frémyot de Chantal à saint François de Sales, et réponses faites par lui"
+        "fr-FR": "Questions adressées par Jeanne-Françoise Frémyot de Chantal à saint François de Sales, et réponses faites par lui",
+        "pt-BR": "Perguntas dirigidas por Joana-Francisca Frémyot de Chantal a São Francisco de Sales e respostas dadas por ele"
       }
     },
     {
       "id": "papiers-intimes",
       "title": {
-        "fr-FR": "Papiers intimes qui se sont trouvés sur la Sainte, et qu’elle ordonna être mis sur elle dans le cercueil"
+        "fr-FR": "Papiers intimes qui se sont trouvés sur la Sainte, et qu’elle ordonna être mis sur elle dans le cercueil",
+        "pt-BR": "Papéis íntimos encontrados com a Santa e que ela ordenou que fossem postos sobre ela no caixão"
       }
     },
     {
       "id": "papiers-constitutions",
       "title": {
-        "fr-FR": "Papiers trouvés dans le livre des Constitutions, écrits de sa main"
+        "fr-FR": "Papiers trouvés dans le livre des Constitutions, écrits de sa main",
+        "pt-BR": "Papéis encontrados no livro das Constituições, escritos de seu próprio punho"
       }
     },
     {
       "id": "avis-fondateur",
       "title": {
-        "fr-FR": "Avis de notre saint Fondateur à notre digne Mère, copiés dans le livre de ses Constitutions; oraison à saint François de Sales"
+        "fr-FR": "Avis de notre saint Fondateur à notre digne Mère, copiés dans le livre de ses Constitutions; oraison à saint François de Sales",
+        "pt-BR": "Conselhos de nosso santo Fundador à nossa digna Madre, copiados no livro de suas Constituições; oração a São Francisco de Sales"
       }
     },
     {
       "id": "reglement-retraite",
       "title": {
-        "fr-FR": "Règlement de retraite"
+        "fr-FR": "Règlement de retraite",
+        "pt-BR": "Regulamento de retiro"
       }
     }
   ]
