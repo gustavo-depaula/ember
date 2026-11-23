@@ -15,13 +15,19 @@
   },
   "composed": "1852-1873",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "newman/idea-of-a-university",
   "editions": {
     "en-US": {
       "editor": "John Henry Newman (uniform edition of 1873; Newman Reader)",
       "year": 1873
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -45,61 +51,71 @@
         {
           "id": "preface",
           "title": {
-            "en-US": "Preface"
+            "en-US": "Preface",
+            "pt-BR": "Prefácio"
           }
         },
         {
           "id": "discourse-1",
           "title": {
-            "en-US": "Discourse 1. Introductory"
+            "en-US": "Discourse 1. Introductory",
+            "pt-BR": "Discurso 1. Introdução"
           }
         },
         {
           "id": "discourse-2",
           "title": {
-            "en-US": "Discourse 2. Theology a Branch of Knowledge"
+            "en-US": "Discourse 2. Theology a Branch of Knowledge",
+            "pt-BR": "Discurso 2. A teologia como ramo do saber"
           }
         },
         {
           "id": "discourse-3",
           "title": {
-            "en-US": "Discourse 3. Bearing of Theology on other Branches of Knowledge"
+            "en-US": "Discourse 3. Bearing of Theology on other Branches of Knowledge",
+            "pt-BR": "Discurso 3. A influência da teologia sobre os outros ramos do saber"
           }
         },
         {
           "id": "discourse-4",
           "title": {
-            "en-US": "Discourse 4. Bearing of Other Branches of Knowledge on Theology"
+            "en-US": "Discourse 4. Bearing of Other Branches of Knowledge on Theology",
+            "pt-BR": "Discurso 4. A influência dos outros ramos do saber sobre a teologia"
           }
         },
         {
           "id": "discourse-5",
           "title": {
-            "en-US": "Discourse 5. Knowledge its Own End"
+            "en-US": "Discourse 5. Knowledge its Own End",
+            "pt-BR": "Discurso 5. O saber como fim em si mesmo"
           }
         },
         {
           "id": "discourse-6",
           "title": {
-            "en-US": "Discourse 6. Knowledge Viewed in Relation to Learning"
+            "en-US": "Discourse 6. Knowledge Viewed in Relation to Learning",
+            "pt-BR": "Discurso 6. O saber considerado em relação à aprendizagem"
           }
         },
         {
           "id": "discourse-7",
           "title": {
-            "en-US": "Discourse 7. Knowledge Viewed in Relation to Professional Skill"
+            "en-US": "Discourse 7. Knowledge Viewed in Relation to Professional Skill",
+            "pt-BR": "Discurso 7. O saber considerado em relação à competência profissional"
           }
         },
         {
           "id": "discourse-8",
           "title": {
-            "en-US": "Discourse 8. Knowledge Viewed in relation to Religion"
+            "en-US": "Discourse 8. Knowledge Viewed in relation to Religion",
+            "pt-BR": "Discurso 8. O saber considerado em relação à religião"
           }
         },
         {
           "id": "discourse-9",
           "title": {
-            "en-US": "Discourse 9. Duties of the Church towards Knowledge"
+            "en-US": "Discourse 9. Duties of the Church towards Knowledge",
+            "pt-BR": "Discurso 9. Os deveres da Igreja para com o saber"
           }
         }
       ]
@@ -114,61 +130,71 @@
         {
           "id": "article-1",
           "title": {
-            "en-US": "1. Christianity and Letters"
+            "en-US": "1. Christianity and Letters",
+            "pt-BR": "1. Cristianismo e letras"
           }
         },
         {
           "id": "article-2",
           "title": {
-            "en-US": "2. Literature"
+            "en-US": "2. Literature",
+            "pt-BR": "2. Literatura"
           }
         },
         {
           "id": "article-3",
           "title": {
-            "en-US": "3. English Catholic Literature"
+            "en-US": "3. English Catholic Literature",
+            "pt-BR": "3. Literatura católica inglesa"
           }
         },
         {
           "id": "article-4",
           "title": {
-            "en-US": "4. Elementary Studies"
+            "en-US": "4. Elementary Studies",
+            "pt-BR": "4. Estudos elementares"
           }
         },
         {
           "id": "article-5",
           "title": {
-            "en-US": "5. A Form of Infidelity of the Day"
+            "en-US": "5. A Form of Infidelity of the Day",
+            "pt-BR": "5. Uma forma de incredulidade de nossos dias"
           }
         },
         {
           "id": "article-6",
           "title": {
-            "en-US": "6. University Preaching"
+            "en-US": "6. University Preaching",
+            "pt-BR": "6. Pregação universitária"
           }
         },
         {
           "id": "article-7",
           "title": {
-            "en-US": "7. Christianity and Physical Science"
+            "en-US": "7. Christianity and Physical Science",
+            "pt-BR": "7. Cristianismo e ciência física"
           }
         },
         {
           "id": "article-8",
           "title": {
-            "en-US": "8. Christianity and Scientific Investigation"
+            "en-US": "8. Christianity and Scientific Investigation",
+            "pt-BR": "8. Cristianismo e investigação científica"
           }
         },
         {
           "id": "article-9",
           "title": {
-            "en-US": "9. Discipline of Mind"
+            "en-US": "9. Discipline of Mind",
+            "pt-BR": "9. Disciplina da mente"
           }
         },
         {
           "id": "article-10",
           "title": {
-            "en-US": "10. Christianity and Medial Science"
+            "en-US": "10. Christianity and Medial Science",
+            "pt-BR": "10. Cristianismo e ciência médica"
           }
         }
       ]
