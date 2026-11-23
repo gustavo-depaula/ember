@@ -2,13 +2,16 @@
   "id": "origen-against-celsus",
   "cover": "quarter",
   "name": {
-    "en-US": "Against Celsus"
+    "en-US": "Against Celsus",
+    "pt-BR": "Contra Celso"
   },
   "author": {
-    "en-US": "Origen"
+    "en-US": "Origen",
+    "pt-BR": "Orígenes"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,53 +24,68 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "BOOK I"
+        "en-US": "BOOK I",
+        "pt-BR": "LIVRO I"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "BOOK II"
+        "en-US": "BOOK II",
+        "pt-BR": "LIVRO II"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "BOOK III"
+        "en-US": "BOOK III",
+        "pt-BR": "LIVRO III"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "BOOK IV"
+        "en-US": "BOOK IV",
+        "pt-BR": "LIVRO IV"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "BOOK V"
+        "en-US": "BOOK V",
+        "pt-BR": "LIVRO V"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "BOOK VI"
+        "en-US": "BOOK VI",
+        "pt-BR": "LIVRO VI"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "en-US": "BOOK VII"
+        "en-US": "BOOK VII",
+        "pt-BR": "LIVRO VII"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "en-US": "BOOK VIII"
+        "en-US": "BOOK VIII",
+        "pt-BR": "LIVRO VIII"
       }
     }
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
