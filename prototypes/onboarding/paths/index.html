@@ -234,6 +234,101 @@ button:focus-visible { outline: 2px solid var(--label); outline-offset: 2px; }
 .alert .bt button { flex: 1; min-height: 44px; color: #0A7AFF; font-size: 16px; text-align: center; }
 .alert .bt button + button { border-left: 1px solid #C9C7C2; font-weight: 600; }
 
+/* the real "Acrescentar à regra" page */
+.view.guide { --cream:#F5EFE2; --creamSoft:rgba(245,239,226,.82); --label:#E8C97A; --ink:#2C2418; --muted:#6B5D4F; background:#fff; color:var(--ink); }
+.gchap { position:relative; margin-top:10px; padding:36px 34px 30px; text-align:center; overflow:hidden; }
+.gchap::before { content:""; position:absolute; inset:0; background:var(--art) center 30% / cover; opacity:.3; }
+.gchap::after { content:""; position:absolute; inset:-1px 0; background:linear-gradient(180deg,#fff,rgba(255,255,255,0) 32%,rgba(255,255,255,0) 58%,#fff); }
+.gchap > * { position:relative; z-index:1; }
+.gchap .num { font:400 12px var(--head); letter-spacing:4px; color:var(--burgundy); }
+.gchap .tt { font:italic 400 30px/38px var(--title); }
+.gchap .ln { font-style:italic; color:var(--muted); font-size:16px; line-height:22px; }
+.gchap .fl { color:var(--muted); font-size:13px; letter-spacing:8px; padding-top:6px; }
+.grow-row { display:flex; gap:10px; width:100%; padding:14px 22px; align-items:flex-start; }
+.grow-row + .grow-row { box-shadow:inset 0 .5px 0 var(--line); }
+.grow-row .tx { flex:1; min-width:0; }
+.grow-row b { display:block; font:400 21px/26px var(--body); }
+.grow-row em { display:block; font:400 10.5px/16px var(--head); font-style:normal; letter-spacing:1.6px; color:var(--goldDeep); text-transform:uppercase; }
+.grow-row small { display:block; font-style:italic; color:var(--muted); font-size:15.5px; line-height:21px; padding-top:2px; }
+.bead { flex:none; width:40px; height:40px; }
+.addedbar { display:flex; align-items:center; justify-content:space-between; gap:10px; min-height:54px; padding:0 2px; color:var(--muted); font-size:17px; }
+.addedbar button { min-height:44px; font:400 13px var(--head); letter-spacing:1.5px; color:var(--burgundy); }
+.foot.guidefoot { background:#fff; box-shadow:0 -.5px 0 var(--line); padding:6px 22px 20px; }
+.looks { display:flex; flex-wrap:wrap; gap:4px 20px; margin-top:14px; }
+.looks button { min-height:40px; padding:6px 0; font:italic 400 19px/24px var(--title); color:var(--stageMuted); box-shadow:inset 0 -1px 0 transparent; }
+.looks button.on { color:var(--burgundy); box-shadow:inset 0 -2px 0 var(--burgundy); }
+.prayer { background-image:linear-gradient(180deg, rgba(14,10,7,.68), rgba(14,10,7,.78) 42%, rgba(14,10,7,.92)), var(--pimg); }
+
+/* B · Paper: the language of the rule page everywhere. Paintings dissolve into the page. */
+.phone[data-look="paper"] { --night:#fff; --cream:#2C2418; --creamSoft:#6B5D4F; --label:#6B1D2A; --gold:#6B1D2A; background:#fff; }
+.phone[data-look="paper"] .status { color:#2C2418; text-shadow:none; }
+.phone[data-look="paper"] .back { color:#2C2418; background:rgba(255,255,255,.72); }
+.phone[data-look="paper"] .btn, .phone[data-look="paper"] .foot.dark .btn { background:#6B1D2A; color:#F5EFE2; }
+.phone[data-look="paper"] .foot.dark { background:linear-gradient(180deg,rgba(255,255,255,0),#fff 34%); }
+.phone[data-look="paper"] .askhead { text-align:center; }
+.phone[data-look="paper"] .h { font-style:italic; }
+.phone[data-look="paper"] .cover { align-items:center; text-align:center; background-color:#fff; }
+.phone[data-look="paper"] .cover::before { background:linear-gradient(180deg,rgba(255,255,255,.2),rgba(255,255,255,.08) 34%,rgba(255,255,255,.82) 70%,#fff); }
+.phone[data-look="paper"] .doors { gap:0; padding:0; }
+.phone[data-look="paper"] .door { border-radius:0; height:140px !important; padding:0 24px; align-items:center; box-shadow:inset 0 -.5px 0 var(--line); background-size:62% auto; background-repeat:no-repeat; background-position:right 28% !important; background-color:#fff; }
+.phone[data-look="paper"] .door::before { background:linear-gradient(90deg,#fff 38%,rgba(255,255,255,.6) 62%,rgba(255,255,255,.05)); }
+.phone[data-look="paper"] .door span { max-width:66%; }
+.phone[data-look="paper"] .pic { border-radius:4px; }
+.phone[data-look="paper"] .pic::before { background:linear-gradient(180deg,rgba(255,255,255,0) 30%,rgba(255,255,255,.92) 68%,#fff); }
+.phone[data-look="paper"] .wax { color:#E8C97A; }
+.phone[data-look="paper"] .feature .bgimg { opacity:.42; }
+.phone[data-look="paper"] .feature::after { background:linear-gradient(180deg,rgba(255,255,255,.3),rgba(255,255,255,.2) 42%,rgba(255,255,255,.94) 66%,#fff); }
+.phone[data-look="paper"] .dots i { background:#DDD3C3; }
+.phone[data-look="paper"] .dots i.on { background:#6B1D2A; }
+.phone[data-look="paper"] .prayer { background-image:linear-gradient(180deg,rgba(255,255,255,.78),rgba(255,255,255,.93) 30%,#fff 60%), var(--pimg); }
+.phone[data-look="paper"] .amenbtn { color:#F5EFE2; }
+.phone[data-look="paper"] .tom { border-top-color:var(--line); }
+
+/* C · Holy card: every painting is an arched card on a deep ground; the prayer is written on a card's back. */
+.phone[data-look="card"] { --night:#35101A; background:#35101A; }
+.phone[data-look="card"] .view:not(.dark):not(.today):not(.guide) { background:linear-gradient(180deg,#35101A 0 190px,#F5EFE2 190px); }
+.phone[data-look="card"] .cover { width:calc(100% - 64px); margin:58px 32px 0; height:292px; border-radius:150px 150px 5px 5px; box-shadow:0 0 0 6px #F5EFE2, 0 10px 22px rgba(20,4,8,.55); align-items:center; text-align:center; padding:0 20px 16px; }
+.phone[data-look="card"] .cover.short { height:236px; }
+.phone[data-look="card"] .cover .h { font-size:30px; line-height:34px; }
+.phone[data-look="card"] .cover p { font-size:15.5px; line-height:19px; }
+.phone[data-look="card"] .pad { padding-top:24px; }
+.phone[data-look="card"] .foot:not(.dark):not(.guidefoot) { background:linear-gradient(180deg,rgba(245,239,226,0),#F5EFE2 34%); }
+.phone[data-look="card"] .foot.dark { background:linear-gradient(180deg,rgba(53,16,26,0),#35101A 34%); }
+.phone[data-look="card"] .askhead { text-align:center; padding-top:62px; }
+.phone[data-look="card"] .doors { grid-template-columns:1fr 1fr; gap:17px 15px; padding:0 21px; }
+.phone[data-look="card"] .door { height:262px !important; border-radius:100px 100px 4px 4px; box-shadow:0 0 0 5px #F5EFE2, 0 8px 16px rgba(20,4,8,.55); padding:10px; justify-content:center; text-align:center; }
+.phone[data-look="card"] .door span { max-width:100%; }
+.phone[data-look="card"] .door b { font-size:18.5px; line-height:21px; }
+.phone[data-look="card"] .door small { font-size:13.5px; line-height:16px; }
+.phone[data-look="card"] .pics { gap:17px 15px; padding:4px 21px !important; }
+.phone[data-look="card"] .pic, .phone[data-look="card"] .pic.wide { aspect-ratio:.72; grid-column:auto; border-radius:90px 90px 4px 4px; box-shadow:0 0 0 5px #F5EFE2, 0 8px 16px rgba(20,4,8,.5); }
+.phone[data-look="card"] .pic.wide b, .phone[data-look="card"] .pic b { font-size:17px; line-height:19px; text-align:center; }
+.phone[data-look="card"] .pic small { text-align:center; }
+.phone[data-look="card"] .feature .bgimg { inset:58px 34px 268px; border-radius:150px 150px 5px 5px; box-shadow:0 0 0 6px #F5EFE2, 0 12px 24px rgba(20,4,8,.6); animation:none; }
+.phone[data-look="card"] .feature::after { background:linear-gradient(180deg,rgba(53,16,26,0) 56%,#35101A 70%); }
+.phone[data-look="card"] .fcopy { text-align:center; }
+.phone[data-look="card"] .prayer { --ink2:#2C2418; background:#35101A; color:#2C2418; padding:80px 38px 28px; }
+.phone[data-look="card"] .prayer::before { content:""; position:absolute; left:18px; right:18px; top:54px; bottom:20px; background:#F5EFE2; border-radius:5px; box-shadow:0 12px 26px rgba(20,4,8,.6); }
+.phone[data-look="card"] .prayer > * { position:relative; }
+.phone[data-look="card"] .prayer .back { position:absolute; color:#F5EFE2; top:8px; }
+.phone[data-look="card"] .prayer .eyebrow, .phone[data-look="card"] .prayer .tip { color:#6B1D2A; }
+.phone[data-look="card"] .prayer .lines { font-size:20px; line-height:29px; }
+.phone[data-look="card"] .amenbtn { background:#6B1D2A; color:#F5EFE2; }
+
+/* corrections across looks */
+.gstrip { position:sticky; top:0; z-index:25; height:46px; background:#fff; }
+.phone:has(.view.guide) .status { color:#2C2418; text-shadow:none; }
+.view.guide .back { top:56px; }
+.phone[data-look="paper"] .view.guide { --cream:#2C2418; --creamSoft:#6B5D4F; --label:#6B1D2A; }
+.phone[data-look="paper"] .bk, .phone[data-look="paper"] .view.today { --cream:#F5EFE2; --creamSoft:rgba(245,239,226,.8); --label:#E8C97A; --gold:#C9A84C; }
+.phone[data-look="card"] .view { background-attachment:local; }
+.phone[data-look="card"] .view.guide { background:linear-gradient(180deg,#35101A 0 236px,#fff 236px); background-attachment:local; }
+.phone[data-look="card"] .gstrip { background:#35101A; }
+.phone[data-look="card"]:has(.view.guide) .status { color:#F5EFE2; }
+.phone[data-look="card"] .view.guide .cover { margin-top:12px; }
+.phone[data-look="card"] .feature .bgimg { bottom:292px; }
+.phone[data-look="card"] .prayer .back { top:60px; left:24px; color:#2C2418; background:none; }
+
 @media (prefers-reduced-motion: reduce) { .view, .pic .wax, .bk .wax, .env .wax.press, .feature .bgimg, .amenbtn { animation: none !important; } }
 @media (max-width: 760px) {
   .layout { grid-template-columns: minmax(0, 1fr); gap: 22px; }
@@ -247,8 +342,9 @@ button:focus-visible { outline: 2px solid var(--label); outline-offset: 2px; }
 <div class="wrap">
   <header class="top">
     <h1>Ember First Steps</h1>
-    <p>One question, a short path for each kind of person, three pages of what Ember holds for them, and one prayer everyone ends on.</p>
+    <p>The same flow in three visual directions. Switch between them on any screen.</p>
   </header>
+  <div class="looks" id="looks" role="group" aria-label="Visual direction"></div>
   <nav class="chips" id="chips" aria-label="Paths"></nav>
   <main class="layout">
     <section class="phone" id="phone" aria-label="Prototype phone">
@@ -270,12 +366,12 @@ const paths = {
   'office-regular': { label: 'Office regular', features: ['hours', 'library', 'cards'], steps: ['ask', 'officeAsk', 'officeWhich', 'officeHours', ...tail] },
   'office-new': { label: 'Office newcomer', features: ['hours', 'readings', 'cards'], steps: ['ask', 'officeAsk', 'officeIntro', ...tail] },
   rule: { label: 'Rule of life', features: ['meditations', 'map', 'cards'], steps: ['ask', 'rule', 'ruleDay', ...tail] },
-  grow: { label: 'Wants to grow', features: ['readings', 'library', 'cards'], steps: ['ask', 'grow', 'growDay', 'growStep', ...tail] },
+  grow: { label: 'Wants to grow', features: ['readings', 'library', 'cards'], steps: ['ask', 'guide', ...tail] },
   start: { label: 'Starting out', features: ['readings', 'map', 'cards'], steps: ['ask', 'start', ...tail] },
   skip: { label: 'Skip setup', features: [], steps: ['ask', 'today'] },
 }
 const featureNames = { hours: 'Feature: the Office', readings: 'Feature: today’s readings', map: 'Feature: Masses nearby', library: 'Feature: the library', cards: 'Feature: holy cards', meditations: 'Feature: daily meditations' }
-const names = { ask: 'The one question', officeAsk: 'Do you pray it already?', officeWhich: 'Which Office', officeHours: 'Which hours', officeIntro: 'What it is, and a first hour', rule: 'Choose the rule', ruleDay: 'The rule’s day', grow: 'What you already pray', growDay: 'Your day', growStep: 'One next step', start: 'A small first plan', remind: 'Reminders', pray: 'The Our Father', amen: 'Amen', choose: 'First holy card', card: 'The card, and tomorrow’s', today: 'Today' }
+const names = { ask: 'The one question', officeAsk: 'Do you pray it already?', officeWhich: 'Which Office', officeHours: 'Which hours', officeIntro: 'What it is, and a first hour', rule: 'Choose the rule', ruleDay: 'The rule’s day', guide: 'Build the rule (the real page)', start: 'A small first plan', remind: 'Reminders', pray: 'The Our Father', amen: 'Amen', choose: 'First holy card', card: 'The card, and tomorrow’s', today: 'Today' }
 const why = {
   ask: 'Four reasons people come, each with its own painting. The quiet link keeps anyone from being trapped, and it leads to Today.',
   officeAsk: 'The Reddit comment showed that an Office fan can be brand new to the faith. One question separates the two.',
@@ -284,9 +380,7 @@ const why = {
   officeIntro: 'Two sentences of teaching, then one hour, each with its own painting.',
   rule: 'Fifteen real traditions with Opus Dei first, because that circle is already here.',
   ruleDay: 'The tradition’s real practices and times, on the arc of the day. Everything can be unticked.',
-  grow: 'Starts from what they already do. A wax seal marks each one, so a devout person is never handed a beginner’s plan.',
-  growDay: 'Their own prayers on the arc of the day, ready to adjust.',
-  growStep: 'One suggestion, chosen from what is missing. The order is a first guess for you to correct.',
+  guide: 'The real “Acrescentar à regra” page, with its five chapters, order, wording and dashed beads. One change: a tap adds at a suggested time, so marking several is quick. The app asks days and time for each.',
   start: 'The Beginner’s Minimum essentials. The Rosary and the Gospel stay as invitations for later.',
   remind: 'Up to four moments a day, because the Opus Dei plan alone would ring thirteen times. Grouping is new work.',
   hours: 'Compline for 23 November from the real breviary engine.',
@@ -311,23 +405,36 @@ const offices = [
 ]
 const lhHours = [['Ofício das Leituras', '06:00'], ['Laudes', '07:00'], ['Terça', '09:00'], ['Sexta', '12:00'], ['Noa', '15:00'], ['Vésperas', '18:00'], ['Completas', '22:00']]
 const oldHours = [['Matinas', '05:30'], ['Laudes', '07:00'], ['Prima', '08:00'], ['Terça', '09:00'], ['Sexta', '12:00'], ['Noa', '15:00'], ['Vésperas', '18:00'], ['Completas', '22:00']]
-const prayers = [
-  ['Santa Missa', '10:00', 'Dom', 'eucharistic'], ['Santo Rosário', '20:00', '', 'marian'], ['Liturgia das Horas', '07:00', '', 'meditation-patristic'], ['Exame de Consciência', '22:00', '', 'tpl-franciscan'],
-  ['Oração Mental', '07:30', '', 'mental-prayer'], ['Leitura Espiritual', '21:30', '', 'thomas-aquinas'], ['Angelus', '12:00', '', 'novenas'],
+const looks = { painted: 'A · Painted', paper: 'B · Paper', card: 'C · Holy card' }
+const guideTiers = [
+  ['I', 'Os sacramentos', 'Onde a vida da graça começa e se renova.', 'eucharistic', [
+    ['mass', 'Santa Missa', 'Aos domingos e dias santos', 'O Dia do Senhor. É o centro da semana cristã e o primeiro mandamento da Igreja.', '10:00', 'Dom'],
+    ['confession', 'Confissão', 'Uma vez por mês', 'A Igreja pede ao menos uma vez por ano; os santos aconselham com frequência. É o recomeço que Deus sempre oferece.', '', 'Mês']]],
+  ['II', 'O essencial de cada dia', 'Abrir e fechar o dia com Deus.', 'tpl-little-way', [
+    ['morningOffering', 'Oferecimento do Dia', 'Ao acordar · 1 min', 'Entregar a Deus o dia antes que ele comece, para que o trabalho e o cansaço também sejam oração.', '07:00'],
+    ['examination', 'Exame de Consciência', 'Antes de dormir · 5 min', 'Olhar o dia com Deus: agradecer, pedir perdão e propor-se a recomeçar amanhã.', '22:00']]],
+  ['III', 'Ao longo do dia', 'Pausas que fazem do dia inteiro uma oração.', 'marian', [
+    ['angelus', 'Angelus', 'Ao meio-dia · 3 min', 'Parar no meio do trabalho e lembrar que Deus se fez homem, com as palavras do anjo a Maria.', '12:00'],
+    ['rosary', 'Santo Rosário', '20 min', 'A vida de Cristo, mistério por mistério, contemplada com sua Mãe. Os papas não cessaram de recomendá-lo.', '20:00'],
+    ['gospel', 'Evangelho do Dia', '5 min', 'Alguns minutos com as palavras de Cristo que a Igreja lê hoje em todas as Missas.', '07:30']]],
+  ['IV', 'Mais perto de Cristo', 'Para quem quer aprofundar a amizade com Ele.', 'mental-prayer', [
+    ['visit', 'Visita ao Santíssimo Sacramento', '3 min', 'Cristo está no sacrário. Passar alguns minutos diante d’Ele, de passagem, como quem visita um amigo.', '17:30'],
+    ['mentalPrayer', 'Oração Mental', '15 min', 'Um tempo a sós com Deus, em silêncio, conversa de amigos, como dizia Santa Teresa.', '07:15'],
+    ['weekdayMass', 'Missa diária', 'Durante a semana · 40 min', 'Quem pode ir também nos dias de semana encontra Cristo todos os dias na Eucaristia.', '07:00', 'Seg–Sáb']]],
+  ['V', 'Se o coração pedir', 'Devoções a que alguns se sentem chamados.', 'sacred-heart', [
+    ['divineMercy', 'Terço da Divina Misericórdia', 'Às 15h · 10 min', 'A oração que Jesus confiou a Santa Faustina, pedindo misericórdia para nós e para o mundo inteiro.', '15:00'],
+    ['office', 'Liturgia das Horas', 'Manhã e tarde · 15 min', 'A oração da Igreja nas horas do dia; une a sua voz à de padres e religiosos no mundo inteiro.', '18:00'],
+    ['stations', 'Via Sacra', 'Às sextas-feiras · 30 min', 'Acompanhar Cristo da condenação ao sepulcro, estação por estação, no dia em que Ele morreu.', '15:00', 'Sex'],
+    ['sevenSorrows', 'Coroa das Sete Dores', '25 min', 'As sete dores de Maria, meditadas para aprender com ela a ficar de pé junto à Cruz.', '18:30'],
+    ['jesusPrayer', 'Oração de Jesus', '5 min', 'A breve oração do Oriente cristão, repetida devagar, para aprender a rezar sem cessar.', '12:30']]],
 ]
-const nextSteps = {
-  'Exame de Consciência': ['Um exame à noite', 'Cinco minutos para rever o dia com Deus. É o passo que mais sustenta os outros.', '22:00', 'tpl-franciscan'],
-  'Oração Mental': ['Dez minutos de oração mental', 'Um tempo em silêncio com o Senhor, além das orações vocais.', '07:30', 'mental-prayer'],
-  'Leitura Espiritual': ['Leitura espiritual', 'Dez minutos por dia com um santo. O Ember guarda a sua página.', '21:30', 'thomas-aquinas'],
-  Angelus: ['O Angelus ao meio-dia', 'Três minutos que param o dia para Deus.', '12:00', 'novenas'],
-  'Liturgia das Horas': ['Uma hora do Ofício', 'Comece por Completas, antes de dormir.', '22:00', 'meditation-patristic'],
-  'Santo Rosário': ['O Terço', 'Vinte minutos com Nossa Senhora.', '20:00', 'marian'],
-  'Santa Missa': ['A Missa dominical', 'O centro da semana.', '10:00', 'eucharistic'],
-}
-const stepOrder = Object.keys(nextSteps)
+const guideEntries = guideTiers.flatMap((t) => t[4])
+const hue = (t) => { const h = Number((t || '12').slice(0, 2)); return h < 11 ? '#D9A441' : h < 15 ? '#C9772F' : h < 20 ? '#8E3B46' : '#2A2F5C' }
+const openBead = `<svg class="bead" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="11" fill="none" stroke="#A8872E" stroke-width="1.2" stroke-dasharray="3 3"/><path d="M16 20h8M20 16v8" stroke="#A8872E" stroke-width="1.4" stroke-linecap="round"/></svg>`
+const fullBead = (t) => `<svg class="bead" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="10" fill="${hue(t)}"/></svg>`
 const beginner = TEMPLATES.find((t) => t.id === 'beginner-minimum')
-const fresh = () => ({ office: 'lh', hours: new Set(['Laudes', 'Vésperas', 'Completas']), firstHour: 'Completas', rule: 'opus-dei', off: new Set(), mine: new Set(), step: false, muted: new Set(), allowed: undefined, prayed: false, card: undefined })
-let path = 'start', step = 0, state = fresh()
+const fresh = () => ({ office: 'lh', hours: new Set(['Laudes', 'Vésperas', 'Completas']), firstHour: 'Completas', rule: 'opus-dei', off: new Set(), mine: new Set(), muted: new Set(), allowed: undefined, prayed: false, card: undefined })
+let path = 'start', step = 0, look = 'painted', state = fresh()
 
 const art = (id) => `a/${id}.webp`
 const cov = (id) => `c/${id}.webp`
@@ -342,23 +449,16 @@ function plan() {
   if (path === 'office-regular') return (state.office === 'lh' ? lhHours : oldHours).filter(([n]) => state.hours.has(n)).map(([n, t]) => ({ n, t }))
   if (path === 'office-new') return [{ n: state.firstHour, t: { Laudes: '07:00', 'Vésperas': '18:00', Completas: '22:00' }[state.firstHour] }]
   if (path === 'rule') return rule().p.filter((p, i) => p.t && !p.w && !state.off.has(i)).map((p) => ({ n: p.n, t: p.t }))
-  if (path === 'grow') {
-    const base = prayers.filter(([n]) => state.mine.has(n)).map(([n, t, w]) => ({ n, t, w }))
-    const pick = suggestion()
-    if (state.step && pick) base.push({ n: pick, t: nextSteps[pick][2] })
-    return base.filter((p) => !p.w).sort((a, b) => a.t.localeCompare(b.t))
-  }
+  if (path === 'grow') return guideEntries.filter((e) => state.mine.has(e[0]) && e[4]).map((e) => ({ n: e[1], t: e[4], w: e[5] })).sort((a, b) => a.t.localeCompare(b.t))
   if (path === 'start') return beginner.p.filter((p) => p.e && p.t && !p.w).map((p) => ({ n: p.n, t: p.t }))
   return []
 }
-const suggestion = () => stepOrder.find((n) => !state.mine.has(n))
 function moments() {
   return [['Manhã', 0, 11], ['Meio-dia', 11, 15], ['Tarde', 15, 20], ['Noite', 20, 24]].map(([label, a, b]) => {
     const items = plan().filter((p) => { const h = Number(p.t.slice(0, 2)); return h >= a && h < b })
     return items.length ? { label, time: items[0].t, items } : undefined
   }).filter(Boolean)
 }
-const ensureMine = () => { if (path === 'grow' && !state.mine.size) { state.mine.add('Santa Missa'); state.mine.add('Santo Rosário') } }
 
 const shelfBook = (t, a, from, to, left, top, r) => `<div class="fbook" style="left:${left}%;top:${top}px;transform:rotate(${r}deg)"><span class="bk" style="--from:${from};--to:${to}"><i>✠</i><b>${t}</b><em>${a.toUpperCase()}</em></span></div>`
 const features = {
@@ -408,15 +508,16 @@ const screens = {
     const daily = t.p.map((p, i) => [p, i]).filter(([p]) => p.t && !p.w); const other = t.p.map((p, i) => [p, i]).filter(([p]) => !p.t || p.w)
     return { body: `${back()}${cover(art(t.a), t.n, 'O seu <i>dia</i>', t.d)}<div class="pad"><div class="day">${daily.map(([p, i]) => row(p, i)).join('')}</div>${other.length ? `<div class="sub">Ao longo do tempo</div><div class="day">${other.map(([p, i]) => row(p, i)).join('')}</div>` : ''}</div>`, foot: `<button class="btn" data-next>Adotar este plano</button>` }
   },
-  grow: () => ({ dark: true, body: `${back()}<div class="askhead" style="padding-top:104px"><div class="eyebrow">Sua vida de oração</div><div class="h">O que você já <i>reza?</i></div></div>
-    <div class="pics" style="padding:0 14px">${prayers.map(([n, , , i], x) => `<button class="pic ${x === 0 ? 'wide' : ''} ${state.mine.size && !state.mine.has(n) ? 'idle' : ''}" data-act="mine" data-val="${n}" aria-pressed="${state.mine.has(n)}" style="background-image:url(${cov(i)})">${seal(state.mine.has(n))}<span class="cap"><b>${n}</b></span></button>`).join('')}</div>`, foot: `<button class="btn" data-next ${state.mine.size ? '' : 'disabled'}>${state.mine.size ? 'Continuar' : 'Marque pelo menos uma'}</button>`, footDark: true }),
-  growDay: () => { ensureMine(); const first = prayers.find(([n]) => state.mine.has(n)); return { body: `${back()}${cover(cov(first[3]), 'Sua vida de oração', 'O seu <i>dia</i>', 'Toque num horário para acertá-lo.', 'center', true)}<div class="pad"><div class="day">${prayers.filter(([n]) => state.mine.has(n)).sort((a, b) => a[1].localeCompare(b[1])).map(([n, t, w]) => slot({ act: 'noop', val: n, title: n, time: t, sub: w === 'Dom' ? 'Aos domingos' : 'Todo dia', on: true })).join('')}</div></div>`, foot: `<button class="btn" data-next>Continuar</button>` } },
-  growStep: () => { ensureMine(); const n = suggestion(); if (!n) return { dark: true, body: `${back()}<div class="nextstep" style="background-image:url(${cov('holy-spirit')})"><div class="eyebrow">Um próximo passo</div><div class="h">Sua regra já é <i>rica</i></div><p>Quando quiser, as tradições da Igreja estão em Você.</p></div>`, foot: `<button class="btn" data-next>Continuar</button>`, footDark: true }
-    const s = nextSteps[n]; return { dark: true, body: `${back()}<div class="nextstep" style="background-image:url(${cov(s[3])})"><div class="eyebrow">Um próximo passo · às ${s[2]}</div><div class="h">${s[0]}</div><p>${s[1]}</p></div>`, foot: `<button class="btn" data-act="takeStep" data-val="1">Adicionar ao meu plano</button><button class="link" data-act="takeStep" data-val="0">Agora não</button>`, footDark: true } },
+  guide: () => {
+    const n = state.mine.size
+    const row = (e) => { const on = state.mine.has(e[0]); return `<button class="grow-row" data-act="mine" data-val="${e[0]}" aria-pressed="${on}" aria-label="${on ? 'Tirar' : 'Acrescentar'}: ${e[1]}"><span class="tx"><b>${e[1]}</b><em>${on ? `Na regra${e[5] ? ` · ${e[5]}` : ''}${e[4] ? ` · ${e[4]}` : ` · ${e[2]}`}` : e[2]}</em><small>${e[3]}</small></span>${on ? fullBead(e[4]) : openBead}</button>` }
+    return { cls: 'guide', body: `<div class="gstrip"></div>${back()}${cover(cov('tpl-little-way'), 'Sua vida de oração', 'Acrescentar <i>à regra</i>', 'Uma regra de vida se constrói de cima para baixo: comece pelos primeiros degraus e desça quando cada um já for hábito.', '50% 30%')}${guideTiers.map((t) => `<section><div class="gchap" style="--art:url(${cov(t[3])})"><div class="num">${t[0]}</div><div class="tt">${t[1]}</div><div class="ln">${t[2]}</div><div class="fl" aria-hidden="true">· ✠ ·</div></div>${t[4].map(row).join('')}</section>`).join('')}<div style="height:30px"></div>`,
+      foot: n ? `<div class="addedbar"><span>${n} ${n === 1 ? 'prática acrescentada' : 'práticas acrescentadas'}</span><button data-next>Continuar ›</button></div>` : `<div class="addedbar"><span>Marque o que você já reza</span></div>`, footCls: 'guidefoot' }
+  },
   start: () => ({ body: `${back()}${cover(cov('tpl-beginner-minimum'), 'O Mínimo do Iniciante', 'Comece <i>pequeno</i>', 'Melhor viver isto com fidelidade por um ano do que fracassar numa regra heroica em um mês.', '50% 22%')}<div class="pad"><div class="day">${beginner.p.filter((p) => p.e && p.t).map((p) => slot({ act: 'noop', val: p.n, title: p.n, time: p.t, sub: p.w === 'Dom' ? 'Aos domingos' : '', on: true })).join('')}</div><div class="sub">Para os dias de ir além</div><p class="small">O Terço, o Evangelho do dia e a confissão mensal.</p></div>`, foot: `<button class="btn" data-next>Adotar este plano</button>` }),
-  remind: () => { ensureMine(); const m = moments(); return { body: `${back()}${cover(cov('tpl-opus-dei'), 'Lembretes', 'Quando <i>lembrar</i> você?', 'No máximo quatro vezes por dia.', '50% 55%', true)}<div class="pad"><div class="day">${m.map((x) => slot({ act: 'mute', val: x.label, title: x.label, time: x.time, sub: x.items.map((i) => i.n).join(' · '), on: !state.muted.has(x.label) })).join('')}</div></div>`, foot: `<button class="btn" data-act="ask-notify">Lembrar-me nestes horários</button><button class="link" data-act="no-notify">Sem lembretes por agora</button>` } },
+  remind: () => { const m = moments(); return { body: `${back()}${cover(cov('tpl-opus-dei'), 'Lembretes', 'Quando <i>lembrar</i> você?', 'No máximo quatro vezes por dia.', '50% 55%', true)}<div class="pad">${m.length ? '' : '<p class="small">Nada do que você marcou tem hora fixa.</p>'}<div class="day">${m.map((x) => slot({ act: 'mute', val: x.label, title: x.label, time: x.time, sub: x.items.map((i) => i.n).join(' · '), on: !state.muted.has(x.label) })).join('')}</div></div>`, foot: `<button class="btn" data-act="ask-notify">Lembrar-me nestes horários</button><button class="link" data-act="no-notify">Sem lembretes por agora</button>` } },
   f1: () => featureScreen(0), f2: () => featureScreen(1), f3: () => featureScreen(2),
-  pray: () => ({ raw: `<div class="prayer" style="background-image:linear-gradient(180deg, rgba(14,10,7,.68), rgba(14,10,7,.78) 42%, rgba(14,10,7,.92)), url(${cov('meditation-opus-dei')})">${back()}<div class="eyebrow">Para terminar, rezemos</div><div class="h" style="font-size:33px;line-height:38px">Pai <i>Nosso</i></div>
+  pray: () => ({ raw: `<div class="prayer" style="--pimg:url(${cov('meditation-opus-dei')})">${back()}<div class="eyebrow">Para terminar, rezemos</div><div class="h" style="font-size:33px;line-height:38px">Pai <i>Nosso</i></div>
     <p class="lines">Pai nosso, que estais nos céus,<br>santificado seja o vosso nome.<br>Venha a nós o vosso reino.<br>Seja feita a vossa vontade,<br>assim na terra como no céu.<br>O pão nosso de cada dia nos dai hoje,<br>perdoai as nossas ofensas,<br>assim como nós perdoamos<br>a quem nos tem ofendido.<br>E não nos deixeis cair em tentação,<br>mas livrai-nos do mal.</p>
     <p class="tip">Toda oração no Ember termina assim:</p><button class="amenbtn" data-next>Amém.</button></div>` }),
   amen: () => { state.prayed = true; return { dark: true, body: `<div style="padding:102px 24px 0;text-align:center"><div class="eyebrow">Pai Nosso · 20:17</div><div class="h" style="font-size:52px;line-height:60px">Amém.</div><img src="a/header_flourish_light.webp" alt="" style="width:190px;margin:7px auto 0;display:block">
@@ -429,7 +530,7 @@ const screens = {
 }
 const stamp = (name, mins, from, to) => `<div class="stamp" style="--from:${from};--to:${to}"><b>${name}</b><small>${mins}</small></div>`
 function todayBody() {
-  const items = plan(); const hasPlan = items.length > 0
+  const items = plan().filter((p) => !p.w); const hasPlan = items.length > 0
   const tonight = items.find((p) => p.t > '20:10'); const next = hasPlan ? tonight || items[0] : undefined
   const when = tonight ? 'A seguir' : 'Amanhã'
   const envelope = `<div class="hero"><div class="env"><div class="flap"></div><div class="wax">✠</div></div><small>2 santinhos para você</small><b>Um primeiro santinho</b><span>Escolha um santo para começar</span></div>`
@@ -446,8 +547,9 @@ function todayBody() {
 function render() {
   const key = paths[path].steps[step]; const s = screens[key]()
   const whyKey = s.key || key; const label = s.key ? featureNames[s.key] : names[key]
-  document.getElementById('phone').classList.toggle('light', !!s.light)
-  document.getElementById('screen').innerHTML = `${s.raw || `<div class="view ${s.dark ? 'dark' : ''} ${s.cls || ''}">${s.body}</div>`}${s.foot ? `<div class="foot ${s.footDark ? 'dark' : ''}">${s.foot}</div>` : ''}${s.after || ''}`
+  const phone = document.getElementById('phone'); phone.dataset.look = look; phone.classList.toggle('light', !!s.light)
+  document.getElementById('looks').innerHTML = Object.entries(looks).map(([k, l]) => `<button class="${k === look ? 'on' : ''}" data-look="${k}" aria-pressed="${k === look}">${l}</button>`).join('')
+  document.getElementById('screen').innerHTML = `${s.raw || `<div class="view ${s.dark ? 'dark' : ''} ${s.cls || ''}">${s.body}</div>`}${s.foot ? `<div class="foot ${s.footDark ? 'dark' : ''} ${s.footCls || ''}">${s.foot}</div>` : ''}${s.after || ''}`
   document.getElementById('overlay').innerHTML = ''
   document.getElementById('chips').innerHTML = Object.entries(paths).map(([k, p]) => `<button class="chip ${k === path && step > 0 ? 'on' : ''}" data-jump="${k}">${p.label}</button>`).join('')
   document.getElementById('pathName').textContent = step ? `${paths[path].label} · ${label}` : label
@@ -461,6 +563,7 @@ const keep = () => { const v = document.querySelector('.view'); const y = v ? v.
 
 document.addEventListener('click', (e) => {
   const b = e.target.closest('button'); if (!b) return
+  if (b.dataset.look) { look = b.dataset.look; return keep() }
   if (b.dataset.jump) { state = fresh(); return setPath(b.dataset.jump, 1) }
   if (b.dataset.step !== undefined) { step = Number(b.dataset.step); return render() }
   if ('back' in b.dataset) { step = Math.max(step - 1, 0); return render() }
