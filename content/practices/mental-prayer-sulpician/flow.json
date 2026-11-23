@@ -15,17 +15,52 @@
 			}
 		},
 		{
-			"type": "rubric",
+			"type": "subheading",
 			"text": {
-				"en-US": "Three acts, each of which has two:\n**1. Presence of God.** An act of faith in the presence of God in the place where we are and in our hearts; an act of adoration of the Divine Majesty.\n**2. Humility.** Acts of contrition occasioned by the thought of our sins; an act of union with and abandonment to our Lord, in order that we may appear before His Father in the Person of Jesus and pray in His Name.\n**3. Our inability.** A renouncing of our own spirit and of our affections; an invocation of the Holy Spirit, that we may make our prayer in His light, by His movements and as conducted by Him.",
-				"pt-BR": "Três atos, cada um dos quais tem dois:\n**1. Presença de Deus.** Um ato de fé na presença de Deus no lugar onde estamos e no nosso coração; um ato de adoração da Majestade Divina.\n**2. Humildade.** Atos de contrição ocasionados pelo pensamento dos nossos pecados; um ato de união e abandono ao Senhor, para comparecermos diante de seu Pai na Pessoa de Jesus e orarmos em seu Nome.\n**3. A nossa incapacidade.** Uma renúncia ao nosso próprio espírito e aos nossos afetos; uma invocação do Espírito Santo, para fazermos a nossa oração na sua luz, por seus movimentos e conduzidos por Ele."
+				"en-US": "1. Presence of God",
+				"pt-BR": "1. Presença de Deus"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "An act of faith in the presence of God in the place where we are and in our hearts; an act of adoration of the Divine Majesty.",
+				"pt-BR": "Um ato de fé na presença de Deus no lugar onde estamos e no nosso coração; um ato de adoração da Majestade Divina."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "2. Humility",
+				"pt-BR": "2. Humildade"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Acts of contrition occasioned by the thought of our sins; an act of union with and abandonment to our Lord, in order that we may appear before His Father in the Person of Jesus and pray in His Name.",
+				"pt-BR": "Atos de contrição ocasionados pelo pensamento dos nossos pecados; um ato de união e abandono ao Senhor, para comparecermos diante de seu Pai na Pessoa de Jesus e orarmos em seu Nome."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "3. Our inability to render anything to God",
+				"pt-BR": "3. A nossa incapacidade de dar algo a Deus"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "A renouncing of our own spirit and of our affections; an invocation of the Holy Spirit, that we may make our prayer in His light, by His movements and as conducted by Him.",
+				"pt-BR": "Uma renúncia ao nosso próprio espírito e aos nossos afetos; uma invocação do Espírito Santo, para fazermos a nossa oração na sua luz, por seus movimentos e conduzidos por Ele."
 			}
 		},
 		{
 			"type": "rubric",
 			"text": {
-				"en-US": "M. Olier gives these words for the beginning of meditation (*Catechism of an Interior Life*, Part II, lesson 7):",
-				"pt-BR": "M. Olier dá estas palavras para o começo da oração (*Catéchisme chrétien pour la vie intérieure*, II parte, lição 7):"
+				"en-US": "In M. Olier's words:",
+				"pt-BR": "Nas palavras de M. Olier:"
 			}
 		},
 		{
@@ -96,10 +131,17 @@
 			}
 		},
 		{
-			"type": "rubric",
+			"type": "subheading",
 			"text": {
-				"en-US": "**Consider** the subject — a perfection, virtue or mystery — *in Jesus*. Then render your duty to God according to the subject: **adoration · admiration · praise · thanksgiving · love · joy · compassion.**\nIt is not necessary always to follow this order; abandon yourself to the affections which God gives, and repeat those to which the Holy Spirit attracts you.",
-				"pt-BR": "**Considere** o tema — uma perfeição, uma virtude ou um mistério — *em Jesus*. Depois preste o seu dever a Deus conforme o tema: **adoração · admiração · louvor · ação de graças · amor · alegria · compaixão.**\nNão é necessário seguir sempre esta ordem; abandone-se aos afetos que Deus dá e repita aqueles a que o Espírito Santo o atrai."
+				"en-US": "1. The consideration of the subject",
+				"pt-BR": "1. A consideração do tema"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "The virtues of the Christian life — humility, patience, love, etc. — must not be meditated on as abstract principles, but contemplated in the humble, patient, loving Jesus.",
+				"pt-BR": "As virtudes da vida cristã — humildade, paciência, amor etc. — não devem ser objeto de meditação como princípios abstratos, mas contempladas em Jesus humilde, paciente e amoroso."
 			}
 		},
 		{
@@ -140,10 +182,24 @@
 			]
 		},
 		{
+			"type": "subheading",
+			"text": {
+				"en-US": "2. Our duty to God",
+				"pt-BR": "2. O nosso dever para com Deus"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Render our duty to God according to the subject, ordinarily in seven acts: adoration, admiration, praise, thanksgiving, love, joy and compassion. It is not necessary always to follow this order; we should abandon ourselves to the affections which God gives us and repeat those to which the Holy Spirit attracts us.",
+				"pt-BR": "Prestar o nosso dever a Deus conforme o tema, ordinariamente em sete atos: adoração, admiração, louvor, ação de graças, amor, alegria e compaixão. Não é necessário seguir sempre esta ordem; devemos abandonar-nos aos afetos que Deus nos dá e repetir aqueles a que o Espírito Santo nos atrai."
+			}
+		},
+		{
 			"type": "rubric",
 			"text": {
-				"en-US": "M. Olier: to adore by Christ and with Him, we have only to tell Him with simplicity (*Catechism of an Interior Life*, Part II, lesson 11):",
-				"pt-BR": "M. Olier: para adorar por Cristo e com Ele, basta dizer-Lhe com simplicidade (*Catéchisme chrétien pour la vie intérieure*, II parte, lição 11):"
+				"en-US": "In M. Olier's words:",
+				"pt-BR": "Nas palavras de M. Olier:"
 			}
 		},
 		{
@@ -263,17 +319,52 @@
 			}
 		},
 		{
-			"type": "rubric",
+			"type": "meditation",
 			"text": {
-				"en-US": "Desire to participate in the perfection, virtue or mystery you have adored. Three acts:\n**1. Contrition.** See not merely the beauty of the virtue, but the necessity of it for ourselves.\n**2. Reflection upon ourselves.** Our lack of virtue; regret for the past neglect of this perfection; confusion at our present poverty; desire for the future.\n**3. Petition.** Humble, confident and persevering, that God will give us the grace we need; beg the aid of the most Holy Virgin, our guardian angel and the Saints, and remember the needs of Holy Church.",
-				"pt-BR": "Deseje participar da perfeição, virtude ou mistério que adorou. Três atos:\n**1. Contrição.** Ver não apenas a beleza da virtude, mas a necessidade dela para nós mesmos.\n**2. Reflexão sobre nós mesmos.** A nossa falta de virtude; o pesar pela negligência passada dessa perfeição; a confusão pela nossa pobreza presente; o desejo para o futuro.\n**3. Petição.** Humilde, confiante e perseverante, para que Deus nos dê a graça de que precisamos; implorar o auxílio da Santíssima Virgem, do anjo da guarda e dos Santos, e lembrar as necessidades da Santa Igreja."
+				"en-US": "The consideration of the subject is designed to lead us to a fervent desire to participate in the perfection, virtue or mystery we have adored.",
+				"pt-BR": "A consideração do tema destina-se a levar-nos a um desejo fervoroso de participar da perfeição, virtude ou mistério que adoramos."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "1. Contrition",
+				"pt-BR": "1. Contrição"
 			}
 		},
 		{
 			"type": "meditation",
 			"text": {
-				"en-US": "When a soul experiences in itself any secret operations, it ought to hold itself in repose and silence, to receive, in their full extent, the gifts and communications of God, without acting by itself, or making any exertion that might disturb the pure and holy operations of the Holy Ghost.\n— M. Olier, *Catechism of an Interior Life*, Part II, lesson 8",
-				"pt-BR": "A alma que experimenta alguma operação secreta deve manter-se em repouso e em silêncio, para receber toda a extensão dos dons e das comunicações de Deus, sem agir por si mesma nem fazer esforços que perturbariam as operações puras e santas do Espírito divino.\n— M. Olier, *Catéchisme chrétien pour la vie intérieure*, II parte, lição 8"
+				"en-US": "We see not merely the beauty of the virtue, but the necessity of it for ourselves.",
+				"pt-BR": "Vemos não apenas a beleza da virtude, mas a necessidade dela para nós mesmos."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "2. Reflection upon ourselves",
+				"pt-BR": "2. Reflexão sobre nós mesmos"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Our lack of virtue; regret for the past neglect of this perfection; confusion at our present poverty; desire for the future.",
+				"pt-BR": "A nossa falta de virtude; o pesar pela negligência passada dessa perfeição; a confusão pela nossa pobreza presente; o desejo para o futuro."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "3. Petition",
+				"pt-BR": "3. Petição"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Humble, confident and persevering, that God will give us the grace we need. We beg the aid of the most Holy Virgin, our guardian angel and the Saints, and remember the needs of Holy Church.",
+				"pt-BR": "Humilde, confiante e perseverante, para que Deus nos dê a graça de que precisamos. Imploramos o auxílio da Santíssima Virgem, do anjo da guarda e dos Santos, e lembramos as necessidades da Santa Igreja."
 			}
 		},
 		{
@@ -365,6 +456,13 @@
 				{
 					"type": "meditation",
 					"text": {
+						"en-US": "When a soul experiences in itself any secret operations, it ought to hold itself in repose and silence, to receive, in their full extent, the gifts and communications of God, without acting by itself, or making any exertion that might disturb the pure and holy operations of the Holy Ghost.\n— M. Olier, *Catechism of an Interior Life*, Part II, lesson 8",
+						"pt-BR": "A alma que experimenta alguma operação secreta deve manter-se em repouso e em silêncio, para receber toda a extensão dos dons e das comunicações de Deus, sem agir por si mesma nem fazer esforços que perturbariam as operações puras e santas do Espírito divino.\n— M. Olier, *Catéchisme chrétien pour la vie intérieure*, II parte, lição 8"
+					}
+				},
+				{
+					"type": "meditation",
+					"text": {
 						"en-US": "The consideration of the subject is designed to lead us to a fervent desire to participate in the perfection, virtue or mystery we have adored. To this end three acts are necessary.\n— Bede Frost, *The Art of Mental Prayer*",
 						"pt-BR": "A consideração do tema destina-se a levar-nos a um fervoroso desejo de participar da perfeição, virtude ou mistério que adoramos. Para este fim são necessários três atos.\n— Bede Frost, *The Art of Mental Prayer*"
 					}
@@ -400,10 +498,31 @@
 			}
 		},
 		{
-			"type": "rubric",
+			"type": "subheading",
 			"text": {
-				"en-US": "Resolve to practise, the same day, the perfection or virtue you have considered. Resolutions must be **particular, present, efficacious, humble, full of confidence and often reiterated.** Foresee the occasions you will have to carry them out; then abandon yourself entirely to the Holy Spirit.",
-				"pt-BR": "Resolva praticar, no mesmo dia, a perfeição ou virtude que considerou. As resoluções devem ser **particulares, presentes, eficazes, humildes, cheias de confiança e muitas vezes reiteradas.** Preveja as ocasiões que terá de as executar; depois abandone-se inteiramente ao Espírito Santo."
+				"en-US": "Resolution",
+				"pt-BR": "Resolução"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "We resolve to practise, the same day, the perfection or virtue we have considered. Resolutions must be particular, present, efficacious, humble, full of confidence and often reiterated. We foresee the occasions we shall have to carry them out.",
+				"pt-BR": "Resolvemos praticar, no mesmo dia, a perfeição ou virtude que consideramos. As resoluções devem ser particulares, presentes, eficazes, humildes, cheias de confiança e muitas vezes reiteradas. Prevemos as ocasiões que teremos de as executar."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Abandonment",
+				"pt-BR": "Abandono"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "We conclude by a total abandonment of ourselves to the Holy Ghost, who will be our light, our virtue, and our love.",
+				"pt-BR": "Concluímos por um abandono total de nós mesmos ao Espírito Santo, que será a nossa luz, o nosso amor e a nossa virtude."
 			}
 		},
 		{
@@ -516,10 +635,31 @@
 			}
 		},
 		{
-			"type": "rubric",
+			"type": "subheading",
 			"text": {
-				"en-US": "Thank God for having allowed you to come into His presence, and for the graces given in this prayer; ask pardon for your faults and negligences in it; ask Him to bless your resolutions, this present day, your life and your death. Select some thought from your prayer to carry with you during the day — the spiritual nosegay of St. Francis de Sales — and conclude with the *Sub tuum praesidium*.",
-				"pt-BR": "Agradeça a Deus por lhe ter permitido vir à sua presença e pelas graças dadas nesta oração; peça perdão pelas suas faltas e negligências nela; peça-Lhe que abençoe as suas resoluções, este dia presente, a sua vida e a sua morte. Escolha algum pensamento da oração para levar consigo durante o dia — o ramalhete espiritual de São Francisco de Sales — e conclua com o *Sub tuum praesidium*."
+				"en-US": "Thanksgiving",
+				"pt-BR": "Ação de graças"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "We thank God for having allowed us to come into His presence, and for the graces given to us in our prayer. We pray Him to pardon all our faults and negligences in this prayer; to bless our resolutions, this present day, our life and our death.",
+				"pt-BR": "Agradecemos a Deus por nos ter permitido vir à sua presença, e pelas graças que nos deu na oração. Pedimos-Lhe que perdoe todas as nossas faltas e negligências nesta oração; que abençoe as nossas resoluções, este dia presente, a nossa vida e a nossa morte."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "The spiritual nosegay",
+				"pt-BR": "O ramalhete espiritual"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "We select some thought from our prayer to carry with us during the day — the spiritual nosegay of St. Francis de Sales — and conclude with the *Sub tuum praesidium*, placing all we have done and hope to do in the hands of Mary.",
+				"pt-BR": "Escolhemos algum pensamento da nossa oração para levar conosco durante o dia — o ramalhete espiritual de São Francisco de Sales — e concluímos com o *Sub tuum praesidium*, pondo nas mãos de Maria tudo o que fizemos e esperamos fazer."
 			}
 		},
 		{
