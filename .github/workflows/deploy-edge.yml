@@ -21,6 +21,7 @@ jobs:
           sparse-checkout: |
             apps/edge
             packages
+            patches
 
       - uses: pnpm/action-setup@v4
 
