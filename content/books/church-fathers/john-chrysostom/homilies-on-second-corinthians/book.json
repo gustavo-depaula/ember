@@ -2,13 +2,16 @@
   "id": "john-chrysostom-homilies-on-second-corinthians",
   "cover": "quarter",
   "name": {
-    "en-US": "Homilies on Second Corinthians"
+    "en-US": "Homilies on Second Corinthians",
+    "pt-BR": "Homilias sobre a Segunda Epístola aos Coríntios"
   },
   "author": {
-    "en-US": "John Chrysostom"
+    "en-US": "John Chrysostom",
+    "pt-BR": "João Crisóstomo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,186 +24,225 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Homily 1"
+        "en-US": "Homily 1",
+        "pt-BR": "Homilia 1"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Homily 2"
+        "en-US": "Homily 2",
+        "pt-BR": "Homilia 2"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Homily 3"
+        "en-US": "Homily 3",
+        "pt-BR": "Homilia 3"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Homily 4"
+        "en-US": "Homily 4",
+        "pt-BR": "Homilia 4"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "Homily 5"
+        "en-US": "Homily 5",
+        "pt-BR": "Homilia 5"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "Homily 6"
+        "en-US": "Homily 6",
+        "pt-BR": "Homilia 6"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "en-US": "Homily 7"
+        "en-US": "Homily 7",
+        "pt-BR": "Homilia 7"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "en-US": "Homily 8"
+        "en-US": "Homily 8",
+        "pt-BR": "Homilia 8"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "en-US": "Homily 9"
+        "en-US": "Homily 9",
+        "pt-BR": "Homilia 9"
       }
     },
     {
       "id": "ch010",
       "title": {
-        "en-US": "Homily 10"
+        "en-US": "Homily 10",
+        "pt-BR": "Homilia 10"
       }
     },
     {
       "id": "ch011",
       "title": {
-        "en-US": "Homily 11"
+        "en-US": "Homily 11",
+        "pt-BR": "Homilia 11"
       }
     },
     {
       "id": "ch012",
       "title": {
-        "en-US": "Homily 12"
+        "en-US": "Homily 12",
+        "pt-BR": "Homilia 12"
       }
     },
     {
       "id": "ch013",
       "title": {
-        "en-US": "Homily 13"
+        "en-US": "Homily 13",
+        "pt-BR": "Homilia 13"
       }
     },
     {
       "id": "ch014",
       "title": {
-        "en-US": "Homily 14"
+        "en-US": "Homily 14",
+        "pt-BR": "Homilia 14"
       }
     },
     {
       "id": "ch015",
       "title": {
-        "en-US": "Homily 15"
+        "en-US": "Homily 15",
+        "pt-BR": "Homilia 15"
       }
     },
     {
       "id": "ch016",
       "title": {
-        "en-US": "Homily 16"
+        "en-US": "Homily 16",
+        "pt-BR": "Homilia 16"
       }
     },
     {
       "id": "ch017",
       "title": {
-        "en-US": "Homily 17"
+        "en-US": "Homily 17",
+        "pt-BR": "Homilia 17"
       }
     },
     {
       "id": "ch018",
       "title": {
-        "en-US": "Homily 18"
+        "en-US": "Homily 18",
+        "pt-BR": "Homilia 18"
       }
     },
     {
       "id": "ch019",
       "title": {
-        "en-US": "Homily 19"
+        "en-US": "Homily 19",
+        "pt-BR": "Homilia 19"
       }
     },
     {
       "id": "ch020",
       "title": {
-        "en-US": "Homily 20"
+        "en-US": "Homily 20",
+        "pt-BR": "Homilia 20"
       }
     },
     {
       "id": "ch021",
       "title": {
-        "en-US": "Homily 21"
+        "en-US": "Homily 21",
+        "pt-BR": "Homilia 21"
       }
     },
     {
       "id": "ch022",
       "title": {
-        "en-US": "Homily 22"
+        "en-US": "Homily 22",
+        "pt-BR": "Homilia 22"
       }
     },
     {
       "id": "ch023",
       "title": {
-        "en-US": "Homily 23"
+        "en-US": "Homily 23",
+        "pt-BR": "Homilia 23"
       }
     },
     {
       "id": "ch024",
       "title": {
-        "en-US": "Homily 24"
+        "en-US": "Homily 24",
+        "pt-BR": "Homilia 24"
       }
     },
     {
       "id": "ch025",
       "title": {
-        "en-US": "Homily 25"
+        "en-US": "Homily 25",
+        "pt-BR": "Homilia 25"
       }
     },
     {
       "id": "ch026",
       "title": {
-        "en-US": "Homily 26"
+        "en-US": "Homily 26",
+        "pt-BR": "Homilia 26"
       }
     },
     {
       "id": "ch027",
       "title": {
-        "en-US": "Homily 27"
+        "en-US": "Homily 27",
+        "pt-BR": "Homilia 27"
       }
     },
     {
       "id": "ch028",
       "title": {
-        "en-US": "Homily 28"
+        "en-US": "Homily 28",
+        "pt-BR": "Homilia 28"
       }
     },
     {
       "id": "ch029",
       "title": {
-        "en-US": "Homily 29"
+        "en-US": "Homily 29",
+        "pt-BR": "Homilia 29"
       }
     },
     {
       "id": "ch030",
       "title": {
-        "en-US": "Homily 30"
+        "en-US": "Homily 30",
+        "pt-BR": "Homilia 30"
       }
     }
   ],
-  "commentsOn": ["2-corinthians"],
+  "commentsOn": [
+    "2-corinthians"
+  ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
