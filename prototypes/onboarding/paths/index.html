@@ -1,0 +1,411 @@
+<title>Ember First Steps</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<style>
+/* Layout: the app's real light theme inside a phone, with the map of paths beside it. */
+:root {
+  color-scheme: light;
+  --bg: #fff; --ink: #2C2418; --muted: #6B5D4F; --gold: #C9A84C; --goldDeep: #A8872E; --line: #E5DDD2;
+  --burgundy: #6B1D2A; --surface: #F5F5F5; --parch: #F1E8D3; --blockInk: #F5EFE2; --blockLabel: #E8C97A;
+  --green: #1E4A32; --stage: #E4DCCB; --stageInk: #4A3C22; --stageMuted: #5D5039;
+  --head: Cinzel, Georgia, serif; --title: Junicode, Garamond, Georgia, serif; --body: Garamond, Georgia, serif;
+}
+@font-face { font-family: Garamond; src: url(a/EBGaramond_400Regular.woff2); font-display: swap; }
+@font-face { font-family: Garamond; font-weight: 600; src: url(a/EBGaramond_600.ttf); font-display: swap; }
+@font-face { font-family: Garamond; font-style: italic; src: url(a/EBGaramond_400Regular_Italic.woff2); font-display: swap; }
+@font-face { font-family: Cinzel; src: url(a/Cinzel_400Regular.woff2); font-display: swap; }
+@font-face { font-family: Junicode; src: url(a/Junicode.woff2); font-display: swap; }
+@font-face { font-family: Junicode; font-style: italic; src: url(a/Junicode-Italic.woff2); font-display: swap; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: var(--stage); color: var(--ink); font: 18px/25px var(--body); }
+button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; text-align: left; }
+button:focus-visible { outline: 2px solid var(--burgundy); outline-offset: 2px; }
+.wrap { max-width: 1040px; margin: 0 auto; padding-block: 22px 56px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.top h1 { font: italic 400 31px/37px var(--title); color: var(--ink); }
+.top p { color: var(--stageMuted); margin-top: 3px; max-width: 680px; }
+.chips { display: flex; flex-wrap: wrap; gap: 7px; margin: 15px 0 18px; }
+.chip { font: 400 10.5px/14px var(--head); letter-spacing: 1.1px; padding: 9px 12px; min-height: 36px; border-radius: 18px; background: #F5EEDF; color: var(--burgundy); }
+.chip.on { background: var(--burgundy); color: var(--blockInk); }
+.layout { display: grid; grid-template-columns: minmax(0, 390px) minmax(0, 1fr); gap: 34px; align-items: start; }
+.side { min-width: 0; }
+.side h2 { font: 400 12px var(--head); letter-spacing: 2px; color: var(--burgundy); }
+.side .why { margin-top: 5px; color: var(--stageInk); max-width: 520px; }
+.steps { list-style: none; margin-top: 18px; display: grid; gap: 1px; max-width: 420px; }
+.steps button { display: flex; gap: 10px; width: 100%; min-height: 34px; padding: 5px 8px; border-radius: 6px; color: var(--stageMuted); font-size: 16px; line-height: 21px; }
+.steps button i { font: 400 11px/21px var(--head); width: 18px; color: var(--goldDeep); font-style: normal; font-variant-numeric: tabular-nums; }
+.steps button.on { background: #F5EEDF; color: var(--ink); }
+
+/* phone */
+.phone { position: relative; width: 100%; height: 790px; border-radius: 42px; background: var(--bg); overflow: hidden; box-shadow: 0 0 0 8px #15120E, 0 22px 44px rgba(40,28,10,.3); }
+.status { position: absolute; z-index: 30; top: 15px; left: 32px; right: 30px; display: flex; justify-content: space-between; font: 600 14px -apple-system, system-ui, sans-serif; pointer-events: none; }
+.island { position: absolute; z-index: 31; top: 10px; left: 50%; width: 112px; height: 31px; margin-left: -56px; border-radius: 18px; background: #000; }
+.view { position: absolute; inset: 0; overflow-y: auto; padding: 62px 24px 150px; scrollbar-width: none; background: var(--bg); animation: slide .24s ease-out; }
+.view::-webkit-scrollbar { display: none; }
+@keyframes slide { from { transform: translateX(26px); opacity: .35; } to { transform: none; opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { .view { animation: none; } }
+.back { position: absolute; z-index: 25; top: 50px; left: 13px; width: 44px; height: 44px; display: grid; place-items: center; color: var(--muted); font-size: 25px; text-align: center; }
+.foot { position: absolute; z-index: 20; left: 0; right: 0; bottom: 0; padding: 26px 24px 25px; display: grid; gap: 4px; background: linear-gradient(180deg, rgba(255,255,255,0), #fff 24%); }
+.btn { display: block; width: 100%; min-height: 52px; padding: 12px; border-radius: 10px; background: var(--burgundy); color: var(--blockInk); font: 400 13px var(--head); letter-spacing: 1.7px; text-align: center; text-transform: uppercase; }
+.btn[disabled] { background: #DDD5C8; color: #fff; cursor: default; }
+.btn.amen { background: var(--gold); color: #fff; font: italic 400 25px var(--title); letter-spacing: 0; text-transform: none; }
+.link { display: block; width: 100%; min-height: 44px; padding: 10px; color: var(--goldDeep); font: 400 11.5px var(--head); letter-spacing: 1.4px; text-align: center; text-transform: uppercase; }
+.eyebrow { font: 400 11px var(--head); letter-spacing: 2px; color: var(--burgundy); text-transform: uppercase; }
+.h { font: 400 34px/40px var(--title); margin-top: 3px; text-wrap: balance; }
+.h i { font-style: italic; }
+.lead { color: var(--muted); font-size: 17px; line-height: 23px; margin-top: 7px; }
+.corner { position: absolute; top: -14px; right: -16px; width: 390px; max-width: none; transform: scaleX(-1); pointer-events: none; }
+
+/* typographic choices: a rule between rows, the chosen one marked by ✠ and colour */
+.list { margin-top: 18px; }
+.opt { display: flex; align-items: center; gap: 14px; width: 100%; min-height: 66px; padding: 10px 0; border-top: 1px solid var(--line); }
+.opt:last-child { border-bottom: 1px solid var(--line); }
+.opt .th { width: 58px; height: 58px; flex: none; border-radius: 7px; background: center / cover; }
+.opt .tx { flex: 1; min-width: 0; }
+.opt b { display: block; font: 400 20px/24px var(--title); }
+.opt span { display: block; color: var(--muted); font-size: 15.5px; line-height: 19px; margin-top: 1px; }
+.opt em { font: 400 18px var(--title); color: var(--gold); font-style: normal; }
+.opt .mark { width: 22px; flex: none; color: var(--burgundy); font-size: 16px; text-align: center; }
+.opt.on b { color: var(--burgundy); }
+.opt .tm { width: 54px; flex: none; font: 400 14px var(--head); color: var(--goldDeep); font-variant-numeric: tabular-nums; }
+.opt.off b, .opt.off .tm { color: #B9AE9E; }
+.sub { font: 400 11px var(--head); letter-spacing: 2px; color: var(--muted); margin-top: 20px; text-transform: uppercase; }
+.sub + .list { margin-top: 7px; }
+.grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px 12px; margin-top: 16px; }
+.trad { display: block; min-width: 0; }
+.trad .pic { display: block; aspect-ratio: 1; border-radius: 10px; background: center / cover; box-shadow: 0 5px 12px rgba(0,0,0,.2); }
+.trad b { display: block; font: 400 17px/20px var(--title); margin-top: 7px; }
+.trad span { display: block; color: var(--muted); font-size: 14px; line-height: 17px; }
+.step-pick { margin-top: 20px; padding: 20px; border-radius: 12px; background: var(--parch); }
+.step-pick b { display: block; font: 400 25px/30px var(--title); margin-top: 3px; }
+.step-pick p { color: var(--muted); font-size: 16.5px; line-height: 22px; margin-top: 7px; }
+
+/* prayer page */
+.pname { font: 400 28px/33px var(--title); text-align: center; margin-top: 18px; }
+.pdate { font-style: italic; text-align: center; color: var(--muted); font-size: 15px; }
+.rub { font: 400 11px var(--head); letter-spacing: 1.7px; color: #9E2A2B; margin-top: 21px; text-transform: uppercase; }
+.txt { font-size: 18.5px; line-height: 27px; margin-top: 5px; }
+.txt.rubric { color: #9E2A2B; font-style: italic; font-size: 16px; line-height: 22px; }
+.collapsed { display: flex; gap: 10px; margin-top: 10px; color: var(--muted); font: 400 13px var(--head); letter-spacing: .8px; }
+.rule { width: 90px; height: 1px; background: var(--line); margin: 21px auto 0; }
+
+/* envelope and holy cards */
+.env { position: relative; width: 100%; aspect-ratio: 1.46; border-radius: 5px; overflow: hidden; background: #f1e3c2 url(a/envelope-paper.webp) center / cover; background-blend-mode: multiply; box-shadow: 0 10px 22px rgba(60,40,15,.26); }
+.env .flap { position: absolute; inset: 0 0 auto; height: 53%; clip-path: polygon(0 0, 100% 0, 50% 100%); background: #e6d6b2; }
+.env .from { position: absolute; top: 7%; left: 0; right: 0; text-align: center; color: #7D6647; font: 400 9.5px var(--head); letter-spacing: 1.2px; }
+.wax { position: absolute; top: 53%; left: 50%; width: 21%; aspect-ratio: 1; transform: translate(-50%, -50%); border-radius: 48% 52% 50% 50%; display: grid; place-items: center; color: var(--blockLabel); background: radial-gradient(circle at 38% 34%, #B23A3A, #7D1A1E 62%, #5E1114); box-shadow: 0 2px 4px rgba(0,0,0,.35); font-size: 21px; }
+.env .to { position: absolute; left: 0; right: 0; bottom: 9%; text-align: center; font: italic 400 19px var(--title); color: #3A2C1C; }
+.picks { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px 9px; margin-top: 15px; }
+.pick { display: block; min-width: 0; text-align: center; }
+.pick img { display: block; width: 100%; aspect-ratio: 2/3; object-fit: cover; border-radius: 5px; box-shadow: 0 4px 10px rgba(40,25,10,.28); }
+.pick span { display: block; font: 400 12.5px/15px var(--title); margin-top: 5px; }
+.bigcard { display: block; width: 62%; aspect-ratio: 2/3; object-fit: cover; margin: 10px auto 0; border-radius: 8px; box-shadow: 0 10px 22px rgba(40,25,10,.34); }
+.tomorrow { margin-top: 18px; border-top: 1px solid var(--line); }
+.tom { display: flex; gap: 12px; align-items: center; padding: 8px 0; border-bottom: 1px solid var(--line); }
+.tom img { width: 34px; height: 51px; object-fit: cover; border-radius: 3px; flex: none; }
+.tom small { display: block; font: 400 9.5px var(--head); letter-spacing: 1.2px; color: var(--muted); }
+.tom b { display: block; font: 400 17px/20px var(--title); }
+
+/* Today */
+.today { padding: 0 22px 110px; }
+.thead { position: relative; padding-top: 104px; }
+.thead .lab { font: 400 12px var(--head); letter-spacing: 1.4px; }
+.thead .date { font: italic 400 38px/46px var(--title); }
+.thead .date span { font-style: normal; color: #C8BCA8; font-size: 21px; margin-left: 9px; }
+.car { display: flex; gap: 12px; margin: 14px -22px 0; padding: 0 22px 8px; overflow-x: auto; scrollbar-width: none; }
+.car::-webkit-scrollbar, .row::-webkit-scrollbar { display: none; }
+.hero { position: relative; flex: 0 0 262px; height: 350px; border-radius: 17px; padding: 17px; display: flex; flex-direction: column; justify-content: flex-end; color: var(--blockInk); background: #17171C; }
+.hero.red { background: #260F12; }
+.hero small { font: 400 10.5px var(--head); letter-spacing: 1.5px; color: rgba(245,239,226,.68); text-transform: uppercase; }
+.hero b { font: 400 23px/27px var(--title); margin-top: 2px; }
+.hero span { color: rgba(245,239,226,.75); font-size: 15px; line-height: 19px; margin-top: 3px; }
+.hero .env { position: absolute; top: 24px; left: 42px; width: 178px; transform: rotate(90deg) translateX(30px); transform-origin: center; }
+.stamp { width: 148px; height: 148px; flex: none; display: grid; place-content: center; text-align: center; padding: 14px; color: var(--blockInk); background: linear-gradient(145deg, var(--from), var(--to)); -webkit-mask: linear-gradient(#000 0 0) center / calc(100% - 10px) calc(100% - 10px) no-repeat, radial-gradient(circle 4px, transparent 96%, #000) -6px -6px / 12px 12px; mask: linear-gradient(#000 0 0) center / calc(100% - 10px) calc(100% - 10px) no-repeat, radial-gradient(circle 4px, transparent 96%, #000) -6px -6px / 12px 12px; }
+.stamp b { font: 600 17px/20px var(--body); }
+.stamp small { font: 400 8.5px var(--head); letter-spacing: 1px; opacity: .75; margin-top: 3px; }
+.hero .stamp { position: absolute; top: 26px; left: 54px; }
+.row { display: flex; gap: 12px; margin: 13px -22px 0; padding: 0 22px 4px; overflow-x: auto; scrollbar-width: none; }
+.tile { flex: none; width: 148px; display: block; }
+.tile > small { display: block; font: 400 12px/15px var(--head); margin-top: 7px; }
+.plan { width: 148px; height: 148px; border-radius: 6px; overflow: hidden; background: linear-gradient(180deg, #F3EAD6, #E9DAB9); }
+.plan .band { display: flex; justify-content: space-between; padding: 7px 11px; color: var(--blockInk); font: 400 8.5px var(--head); letter-spacing: 1.2px; background: var(--green); }
+.plan.empty .band { background: #6B1620; }
+.plan b { display: block; padding: 6px 11px 1px; font: 600 17px/20px var(--body); }
+.plan ul { list-style: none; padding: 1px 11px; }
+.plan li { font: 400 8px/13px var(--head); letter-spacing: .6px; color: #6B1D2A; text-transform: uppercase; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.plan li.done { color: #9B8E74; text-decoration: line-through; }
+.plan p { padding: 3px 11px; font-size: 14px; line-height: 17px; font-style: italic; color: var(--muted); }
+.shelf { font: 400 16px var(--head); letter-spacing: 1.2px; margin-top: 22px; }
+.med { flex: 0 0 170px; height: 204px; border-radius: 14px; position: relative; overflow: hidden; background: center / cover; color: var(--blockInk); }
+.med::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, transparent 35%, rgba(0,0,0,.84)); }
+.med b { position: absolute; z-index: 1; left: 11px; right: 9px; bottom: 11px; font: 600 16.5px/19px var(--body); }
+.nav { position: absolute; z-index: 24; left: 20px; right: 20px; bottom: 23px; display: flex; justify-content: space-between; pointer-events: none; }
+.nav div { display: flex; height: 58px; padding: 5px; border-radius: 29px; background: rgba(255,255,255,.94); box-shadow: 0 4px 15px rgba(60,45,20,.18); }
+.nav span { width: 70px; display: grid; place-items: center; border-radius: 24px; }
+.nav span.on { background: #E9E5DE; }
+.nav div:last-child span { width: 48px; }
+.nav img { width: 37px; height: 37px; }
+
+/* the system permission alert */
+.scrim { position: absolute; z-index: 40; inset: 0; background: rgba(0,0,0,.34); display: grid; place-items: center; }
+.alert { width: 272px; border-radius: 15px; overflow: hidden; background: #F2F0EC; text-align: center; font-family: -apple-system, system-ui, sans-serif; }
+.alert div:first-child { padding: 18px 16px 14px; }
+.alert h4 { font-size: 16px; line-height: 21px; }
+.alert p { font-size: 13px; line-height: 17px; margin-top: 4px; }
+.alert .bt { display: flex; border-top: 1px solid #C9C7C2; }
+.alert .bt button { flex: 1; min-height: 44px; color: #0A7AFF; font-size: 16px; text-align: center; }
+.alert .bt button + button { border-left: 1px solid #C9C7C2; font-weight: 600; }
+
+@media (max-width: 760px) {
+  .layout { grid-template-columns: minmax(0, 1fr); gap: 22px; }
+  .phone { height: min(760px, calc(100dvh - 28px)); border-radius: 26px; box-shadow: 0 10px 24px rgba(40,28,10,.26); }
+  .island { display: none; }
+  .steps { max-width: none; }
+}
+@media (max-width: 370px) { .h { font-size: 30px; line-height: 35px; } }
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <h1>Ember First Steps</h1>
+    <p>One question, then a short path for each kind of person. Tap through it like the app, or jump to a path.</p>
+  </header>
+  <nav class="chips" id="chips" aria-label="Paths"></nav>
+  <main class="layout">
+    <section class="phone" id="phone" aria-label="Prototype phone">
+      <div class="island"></div><div class="status"><span>20:10</span><span>●●● ▮</span></div>
+      <div id="screen"></div><div id="overlay"></div>
+    </section>
+    <aside class="side">
+      <h2 id="pathName"></h2>
+      <p class="why" id="why"></p>
+      <ol class="steps" id="steps"></ol>
+    </aside>
+  </main>
+</div>
+
+<script src="data.js"></script>
+<script>
+const tail = ['remind', 'first', 'pray', 'amen', 'choose', 'card', 'today']
+const paths = {
+  'office-regular': { label: 'Office regular', steps: ['ask', 'officeAsk', 'officeWhich', 'officeHours', ...tail] },
+  'office-new': { label: 'Office newcomer', steps: ['ask', 'officeAsk', 'officeIntro', ...tail] },
+  rule: { label: 'Rule of life', steps: ['ask', 'rule', 'ruleDay', ...tail] },
+  grow: { label: 'Wants to grow', steps: ['ask', 'grow', 'growDay', 'growStep', ...tail] },
+  start: { label: 'Starting out', steps: ['ask', 'start', ...tail] },
+  skip: { label: 'Skip setup', steps: ['ask', 'today'] },
+}
+const names = { ask: 'The one question', officeAsk: 'Do you pray it already?', officeWhich: 'Which Office', officeHours: 'Which hours', officeIntro: 'What it is, and a first hour', rule: 'Choose the rule', ruleDay: 'The rule’s day', grow: 'What you already pray', growDay: 'Your day', growStep: 'One next step', start: 'A small first plan', remind: 'Reminders', first: 'Pray now', pray: 'The prayer', amen: 'Amen', choose: 'First holy card', card: 'The card, and tomorrow’s', today: 'Today' }
+const why = {
+  ask: 'Four reasons people come, in their words. The quiet link keeps anyone from being trapped, and it leads to Today.',
+  officeAsk: 'The comment on Reddit showed that an Office fan can be brand new to the faith. One question separates the two.',
+  officeWhich: 'Real editions from the corpus. Regulars know this vocabulary, so it can be asked plainly here and nowhere else.',
+  officeHours: 'Their hours become the plan. This is also what puts a permanent Office door on Today.',
+  officeIntro: 'Two sentences of teaching, then one hour. Nobody has to learn the seven hours before praying one.',
+  rule: 'Fifteen real traditions, with Opus Dei first because that circle is already here. Tapping one opens its day.',
+  ruleDay: 'The tradition’s real practices and times. Everything is on by default and can be unticked.',
+  grow: 'Starts from what they already do, so a devout person is never handed a beginner’s plan.',
+  growDay: 'Their own prayers on the clock, ready to adjust.',
+  growStep: 'One suggestion, chosen from what is missing. The order here is a first guess for you to correct.',
+  start: 'The Beginner’s Minimum essentials. The Rosary and the Gospel stay as invitations for later.',
+  remind: 'Reminders are grouped into up to four moments, because the Opus Dei plan alone would ring thirteen times a day. Grouping is new work.',
+  first: 'The first real prayer happens now, while the intent is fresh. The data ties this to returning.',
+  pray: 'Real text for 23 November. Office paths show the Liturgy of the Hours here; the real app would open the chosen edition.',
+  amen: 'Amen finally answers back. This replaces today’s silent return to the home screen.',
+  choose: 'The real starter pool. It comes right after praying, so the first card already feels received.',
+  card: 'Teaches how cards work with tomorrow’s real cards: Mass gives one, the Office or a prayed day gives another.',
+  today: 'The real Today, shaped by the path: a plan, reminders set, the next prayer first, and the person’s main door in the row.',
+}
+const offices = [
+  ['lh', 'Liturgia das Horas', 'Edição brasileira'],
+  ['1960', 'Breviário Romano', 'Rubricas de 1960'],
+  ['da', 'Breviário Romano', 'Divino Afflatu 1954'],
+  ['1570', 'Breviário Romano', 'Tridentino 1570'],
+  ['mon', 'Breviário Monástico', 'Monástico 1963'],
+  ['bvm', 'Pequeno Ofício de N. Senhora', 'Devoção mariana ao longo do dia'],
+]
+const lhHours = [['Ofício das Leituras', '06:00'], ['Laudes', '07:00'], ['Terça', '09:00'], ['Sexta', '12:00'], ['Noa', '15:00'], ['Vésperas', '18:00'], ['Completas', '22:00']]
+const oldHours = [['Matinas', '05:30'], ['Laudes', '07:00'], ['Prima', '08:00'], ['Terça', '09:00'], ['Sexta', '12:00'], ['Noa', '15:00'], ['Vésperas', '18:00'], ['Completas', '22:00']]
+const prayers = [
+  ['Santa Missa', '10:00', 'Dom'], ['Santo Rosário', '20:00', ''], ['Liturgia das Horas', '07:00', ''], ['Exame de Consciência', '22:00', ''],
+  ['Oração Mental', '07:30', ''], ['Leitura Espiritual', '21:30', ''], ['Angelus', '12:00', ''],
+]
+const nextSteps = {
+  'Exame de Consciência': ['Um exame à noite', 'Cinco minutos para rever o dia com Deus. É o passo que mais sustenta os outros.', '22:00'],
+  'Oração Mental': ['Dez minutos de oração mental', 'Um tempo em silêncio com o Senhor, além das orações vocais.', '07:30'],
+  'Leitura Espiritual': ['Leitura espiritual', 'Dez minutos por dia com um santo. O Ember guarda a sua página.', '21:30'],
+  Angelus: ['O Angelus ao meio-dia', 'Três minutos que param o dia para Deus.', '12:00'],
+  'Liturgia das Horas': ['Uma hora do Ofício', 'Comece por Completas, antes de dormir.', '22:00'],
+  'Santo Rosário': ['O Terço', 'Vinte minutos com Nossa Senhora.', '20:00'],
+  'Santa Missa': ['A Missa dominical', 'O centro da semana.', '10:00'],
+}
+const stepOrder = Object.keys(nextSteps)
+const beginner = TEMPLATES.find((t) => t.id === 'beginner-minimum')
+const fresh = () => ({ office: 'lh', hours: new Set(['Laudes', 'Vésperas', 'Completas']), firstHour: 'Completas', rule: 'opus-dei', off: new Set(), mine: new Set(), step: false, muted: new Set(), allowed: undefined, prayed: false, card: undefined })
+let path = 'start', step = 0, state = fresh()
+
+const art = (id) => `a/${id}.webp`
+const back = () => `<button class="back" data-back aria-label="Voltar">‹</button>`
+const opt = ({ act, val, title, sub, img, on, mark, time, off }) => `<button class="opt ${on ? 'on' : ''} ${off ? 'off' : ''}" data-act="${act}" data-val="${val}" aria-pressed="${on ? 'true' : 'false'}">
+  ${time ? `<span class="tm">${time}</span>` : ''}${img ? `<span class="th" style="background-image:url(${art(img)})"></span>` : ''}
+  <span class="tx"><b>${title}</b>${sub ? `<span>${sub}</span>` : ''}</span>${mark === undefined ? '<em>›</em>' : `<span class="mark">${mark}</span>`}</button>`
+const check = (on) => (on ? '✠' : '')
+const rule = () => TEMPLATES.find((t) => t.id === state.rule)
+
+function plan() {
+  if (path === 'office-regular') {
+    const list = state.office === 'lh' ? lhHours : oldHours
+    return list.filter(([n]) => state.hours.has(n)).map(([n, t]) => ({ n, t }))
+  }
+  if (path === 'office-new') {
+    const t = { Laudes: '07:00', 'Vésperas': '18:00', Completas: '22:00' }[state.firstHour]
+    return [{ n: state.firstHour, t }]
+  }
+  if (path === 'rule') return rule().p.filter((p, i) => p.t && !p.w && !state.off.has(i)).map((p) => ({ n: p.n, t: p.t }))
+  if (path === 'grow') {
+    const base = prayers.filter(([n]) => state.mine.has(n)).map(([n, t, w]) => ({ n, t, w }))
+    const pick = suggestion()
+    if (state.step && pick) base.push({ n: pick, t: nextSteps[pick][2] })
+    return base.filter((p) => !p.w).sort((a, b) => a.t.localeCompare(b.t))
+  }
+  if (path === 'start') return beginner.p.filter((p) => p.e && p.t && !p.w).map((p) => ({ n: p.n, t: p.t }))
+  return []
+}
+const suggestion = () => stepOrder.find((n) => !state.mine.has(n))
+function moments() {
+  const blocks = [['Manhã', 0, 11], ['Meio-dia', 11, 15], ['Tarde', 15, 20], ['Noite', 20, 24]]
+  return blocks.map(([label, a, b]) => {
+    const items = plan().filter((p) => { const h = Number(p.t.slice(0, 2)); return h >= a && h < b })
+    return items.length ? { label, time: items[0].t, items } : undefined
+  }).filter(Boolean)
+}
+const firstPrayer = () => path.startsWith('office') ? 'Completas' : path === 'rule' && state.rule === 'opus-dei' ? 'Três Ave-Marias' : 'Exame de Consciência'
+
+const screens = {
+  ask: () => ({ body: `<img class="corner" src="a/frame_corner_light.webp" alt="">
+    <div style="height:112px"></div><div class="eyebrow">Bem-vindo ao Ember</div><div class="h">O que te traz <i>aqui?</i></div>
+    <div class="list">
+      ${opt({ act: 'path', val: 'office', title: 'Rezar o Ofício Divino', sub: 'A oração da Igreja, hora por hora', img: 'tpl-benedictine' })}
+      ${opt({ act: 'path', val: 'rule', title: 'Sigo uma regra de vida', sub: 'Opus Dei, Carmelo, ordens terceiras…', img: 'tpl-opus-dei' })}
+      ${opt({ act: 'path', val: 'grow', title: 'Já rezo todo dia e quero crescer', sub: 'Fortalecer minha vida de oração', img: 'mental-prayer' })}
+      ${opt({ act: 'path', val: 'start', title: 'Quero começar a rezar', sub: 'Um começo pequeno e fiel', img: 'tpl-beginner-minimum' })}
+    </div>`, foot: `<button class="link" data-act="path" data-val="skip">Pular configuração</button>` }),
+  officeAsk: () => ({ body: `${back()}<div style="height:44px"></div><div class="eyebrow">Ofício Divino</div><div class="h">Você já <i>reza</i> o Ofício?</div>
+    <div class="list">${opt({ act: 'officePath', val: 'office-regular', title: 'Sim, já rezo', sub: 'Quero o meu Ofício à mão' })}${opt({ act: 'officePath', val: 'office-new', title: 'Estou começando', sub: 'Quero entender e rezar uma hora' })}</div>` }),
+  officeWhich: () => ({ body: `${back()}<div style="height:44px"></div><div class="eyebrow">Ofício Divino</div><div class="h">Qual <i>Ofício?</i></div>
+    <div class="list">${offices.map(([v, t, s]) => opt({ act: 'office', val: v, title: t, sub: s, on: state.office === v, mark: check(state.office === v) })).join('')}</div>`, foot: `<button class="btn" data-next>Continuar</button>` }),
+  officeHours: () => ({ body: `${back()}<div style="height:44px"></div><div class="eyebrow">Ofício Divino</div><div class="h">Quais <i>horas?</i></div><p class="lead">Elas formam o seu plano. Toque num horário para mudá-lo.</p>
+    <div class="list">${(state.office === 'lh' ? lhHours : oldHours).map(([n, t]) => opt({ act: 'hour', val: n, title: n, time: t, on: state.hours.has(n), off: !state.hours.has(n), mark: check(state.hours.has(n)) })).join('')}</div>`, foot: `<button class="btn" data-next ${state.hours.size ? '' : 'disabled'}>Continuar</button>` }),
+  officeIntro: () => ({ body: `${back()}<div style="height:44px"></div><div class="eyebrow">Ofício Divino</div><div class="h">A oração <i>da Igreja</i></div>
+    <p class="lead">Salmos, leituras e preces que santificam as horas do dia. Você não precisa rezar todas: comece por uma, e o Ember abre sempre no texto certo.</p>
+    <div class="sub">Sua primeira hora</div><div class="list">
+    ${[['Laudes', 'De manhã, para começar o dia'], ['Vésperas', 'No fim da tarde'], ['Completas', 'Antes de dormir. A mais curta']].map(([n, s]) => opt({ act: 'firstHour', val: n, title: n, sub: s, on: state.firstHour === n, mark: check(state.firstHour === n) })).join('')}</div>`, foot: `<button class="btn" data-next>Começar por ${state.firstHour}</button>` }),
+  rule: () => ({ body: `${back()}<div style="height:44px"></div><div class="eyebrow">Regra de vida</div><div class="h">Qual é a <i>sua?</i></div>
+    <div class="grid">${TEMPLATES.filter((t) => t.id !== 'beginner-minimum').map((t) => `<button class="trad" data-act="rule" data-val="${t.id}"><span class="pic" style="background-image:url(${art(t.a)})"></span><b>${t.n}</b><span>${t.d}</span></button>`).join('')}</div>` }),
+  ruleDay: () => {
+    const t = rule(); const row = (p, i) => opt({ act: 'ruleItem', val: i, title: p.n, time: p.t || '—', sub: p.w || (p.t ? '' : 'Conforme a sua regra'), on: !state.off.has(i), off: state.off.has(i), mark: check(!state.off.has(i)) })
+    const daily = t.p.map((p, i) => [p, i]).filter(([p]) => p.t && !p.w); const other = t.p.map((p, i) => [p, i]).filter(([p]) => !p.t || p.w)
+    return { body: `${back()}<div style="height:44px"></div><div class="eyebrow">${t.n}</div><div class="h">O seu <i>dia</i></div><p class="lead">${t.d} Desmarque o que não faz parte da sua regra.</p>
+      <div class="list">${daily.map(([p, i]) => row(p, i)).join('')}</div>${other.length ? `<div class="sub">Ao longo do tempo</div><div class="list">${other.map(([p, i]) => row(p, i)).join('')}</div>` : ''}`, foot: `<button class="btn" data-next>Adotar este plano</button>` }
+  },
+  grow: () => ({ body: `${back()}<div style="height:44px"></div><div class="eyebrow">Sua vida de oração</div><div class="h">O que você já <i>reza?</i></div><p class="lead">Marque o que já faz parte da sua semana.</p>
+    <div class="list">${prayers.map(([n]) => opt({ act: 'mine', val: n, title: n, on: state.mine.has(n), mark: check(state.mine.has(n)) })).join('')}</div>`, foot: `<button class="btn" data-next ${state.mine.size ? '' : 'disabled'}>${state.mine.size ? 'Continuar' : 'Marque pelo menos uma'}</button>` }),
+  growDay: () => { ensureMine(); return { body: `${back()}<div style="height:44px"></div><div class="eyebrow">Sua vida de oração</div><div class="h">O seu <i>dia</i></div><p class="lead">Toque num horário para acertá-lo.</p>
+    <div class="list">${prayers.filter(([n]) => state.mine.has(n)).map(([n, t, w]) => opt({ act: 'noop', val: n, title: n, time: t, sub: w === 'Dom' ? 'Aos domingos' : 'Todo dia', mark: '' })).join('')}</div>`, foot: `<button class="btn" data-next>Continuar</button>` } },
+  growStep: () => { ensureMine(); const n = suggestion(); if (!n) return { body: `${back()}<div style="height:44px"></div><div class="eyebrow">Um próximo passo</div><div class="h">Sua regra já é <i>rica</i></div><p class="lead">Quando quiser, as tradições da Igreja estão em Você.</p>`, foot: `<button class="btn" data-next>Continuar</button>` }
+    const s = nextSteps[n]; return { body: `${back()}<div style="height:44px"></div><div class="eyebrow">Um próximo passo</div><div class="h">Só <i>um</i>, por enquanto</div>
+    <div class="step-pick"><div class="eyebrow">Às ${s[2]}</div><b>${s[0]}</b><p>${s[1]}</p></div><p class="lead">As tradições da Igreja continuam à sua espera em Você, quando quiser uma regra inteira.</p>`, foot: `<button class="btn" data-act="takeStep" data-val="1">Adicionar ao meu plano</button><button class="link" data-act="takeStep" data-val="0">Agora não</button>` } },
+  start: () => ({ body: `${back()}<div style="height:44px"></div><div class="eyebrow">O Mínimo do Iniciante</div><div class="h">Comece <i>pequeno</i></div><p class="lead">Melhor viver isto com fidelidade por um ano do que fracassar numa regra heroica em um mês.</p>
+    <div class="list">${beginner.p.filter((p) => p.e && p.t).map((p) => opt({ act: 'noop', val: p.n, title: p.n, time: p.t, sub: p.w === 'Dom' ? 'Aos domingos' : '', on: true, mark: '✠' })).join('')}</div>
+    <div class="sub">Para os dias de ir além</div><p class="lead">O Terço, o Evangelho do dia e a confissão mensal.</p>`, foot: `<button class="btn" data-next>Adotar este plano</button>` }),
+  remind: () => { ensurePlan(); const m = moments(); return { body: `${back()}<div style="height:44px"></div><div class="eyebrow">Lembretes</div><div class="h">Quando <i>lembrar</i> você?</div><p class="lead">No máximo quatro vezes por dia, só para o que está no seu plano.</p>
+    <div class="list">${m.map((x) => opt({ act: 'mute', val: x.label, title: x.label, time: x.time, sub: x.items.map((i) => i.n).join(' · '), on: !state.muted.has(x.label), off: state.muted.has(x.label), mark: state.muted.has(x.label) ? '○' : '●' })).join('')}</div>`, foot: `<button class="btn" data-act="ask-notify">Lembrar-me nestes horários</button><button class="link" data-act="no-notify">Sem lembretes por agora</button>` } },
+  first: () => { ensurePlan(); const n = firstPrayer(); return { body: `<div style="height:92px"></div><div class="eyebrow">Sua primeira oração</div><div class="h">Agora, <i>${n === 'Exame de Consciência' ? 'o exame' : n === 'Completas' ? 'Completas' : 'as três Ave-Marias'}</i></div>
+    <p class="lead">${n === 'Completas' ? 'A oração da Igreja antes de dormir. Leva poucos minutos.' : n === 'Três Ave-Marias' ? 'As últimas de hoje, pela santa pureza. Dois minutos.' : 'Cinco minutos para rever o dia com Deus.'}</p>
+    <div class="rule" style="margin:28px 0 0"></div><p class="lead" style="font-style:italic">Sua regra começa com uma oração só.</p>`, foot: `<button class="btn" data-next>Rezar agora</button><button class="link" data-act="later">Depois</button>` } },
+  pray: () => { const n = firstPrayer(); return { body: `${back()}<div class="pname">${n === 'Exame de Consciência' ? 'Exame de Consciência' : n}</div><div class="pdate">segunda-feira, 23 de novembro</div>${prayerText(n)}<div style="height:24px"></div><button class="btn amen" data-next>Amém.</button>` } },
+  amen: () => { state.prayed = true; return { body: `<div style="height:86px"></div><div style="text-align:center"><div class="eyebrow" style="color:var(--muted)">${firstPrayer()} · 20:17</div><div class="h" style="font-size:44px;line-height:52px">Amém.</div><img src="a/header_flourish_light.webp" alt="" style="width:178px;margin:8px auto 0;display:block">
+    <p class="lead" style="margin:15px 8px 0">Sua primeira oração no Ember.<br>Por ela, um presente:</p></div><div style="width:262px;margin:24px auto 0"><div class="env"><div class="flap"></div><div class="from">UM PRIMEIRO SANTINHO</div><div class="wax">✠</div><div class="to">Para você</div></div></div>`, foot: `<button class="btn" data-next>Abrir</button>` } },
+  choose: () => ({ body: `<div style="height:38px"></div><div class="eyebrow">Um primeiro santinho</div><div class="h" style="font-size:29px;line-height:34px">Escolha um santo para <i>começar</i></div>
+    <div class="picks">${STARTERS.map((c) => `<button class="pick" data-act="card" data-val="${c.id}"><img src="${art(c.id)}" alt="" loading="lazy"><span>${c.n}</span></button>`).join('')}</div>` }),
+  card: () => { const c = STARTERS.find((x) => x.id === state.card) || STARTERS.find((x) => x.id === 'therese') || STARTERS[0]; return { body: `<div style="height:26px"></div><img class="bigcard" src="${art(c.id)}" alt="${c.n}"><div class="pname" style="margin-top:12px;font-size:24px;line-height:29px">${c.n}</div><div class="pdate">${c.po}</div>
+    <div class="sub" style="margin-top:15px">Amanhã, mais dois para receber</div><div class="tomorrow">
+    <div class="tom"><img src="${art('andrew_dung_lac')}" alt=""><div><small>INDO À MISSA</small><b>Santos André Dung-Lac e companheiros</b></div></div>
+    <div class="tom"><img src="${art('chrysogonus')}" alt=""><div><small>REZANDO O OFÍCIO, OU O DIA</small><b>São Crisógono</b></div></div></div>`, foot: `<button class="btn" data-next>Ir para Hoje</button>` } },
+  today: () => ({ cls: 'today', body: todayBody(), after: `<div class="nav"><div><span class="on"><img src="a/nav-today.webp" alt=""></span><span><img src="a/nav-you.webp" alt=""></span></div><div><span><img src="a/nav-search.webp" alt=""></span></div></div>` }),
+}
+function ensurePlan() { if (path === 'grow') ensureMine() }
+function ensureMine() { if (!state.mine.size) { state.mine.add('Santa Missa'); state.mine.add('Santo Rosário') } }
+function prayerText(n) {
+  if (n === 'Completas') return `<div class="rub">Introdução</div><p class="txt">℣. Vinde, ó Deus, em meu auxílio.<br>℟. Socorrei-me sem demora.</p>
+    <div class="rub">Hino</div><p class="txt">Agora que o clarão da luz se apaga,<br>a vós nós imploramos, Criador:<br>com vossa paternal misericórdia,<br>guardai-nos sob a luz do vosso amor.</p><div class="collapsed">› Salmo 85(86)</div>
+    <div class="rub">Leitura breve · 1Ts 5,9-10</div><p class="txt">Deus não nos destinou para a ira, mas para alcançarmos a salvação, por meio de nosso Senhor Jesus Cristo. Ele morreu por nós, para que, quer vigiando nesta vida, quer adormecidos na morte, alcancemos a vida junto dele.</p>
+    <div class="collapsed">› Cântico de Simeão</div><div class="rub">Oração</div><p class="txt">Concedei, Senhor, aos nossos corpos um sono restaurador, e fazei germinar para a messe eterna as sementes do Reino, que hoje lançamos com nosso trabalho. Por Cristo, nosso Senhor. Amém.</p>
+    <div class="rule"></div><p class="txt">O Senhor todo-poderoso nos conceda uma noite tranquila e, no fim da vida, uma morte santa.<br>℟. Amém.</p>`
+  if (n === 'Três Ave-Marias') return `<p class="txt rubric" style="margin-top:20px">Antes de dormir, três Ave-Marias a Nossa Senhora pelo dom da santa pureza — o conselho que São Josemaria dava uma e outra vez.</p>
+    <p class="txt" style="margin-top:17px">Pela pureza do corpo.</p><div class="collapsed">› Ave-Maria</div><p class="txt" style="margin-top:15px">Pela pureza da mente.</p><div class="collapsed">› Ave-Maria</div><p class="txt" style="margin-top:15px">Pela pureza do coração.</p><div class="collapsed">› Ave-Maria</div><p class="txt" style="margin-top:15px">Mãe puríssima, rogai por nós.</p>`
+  return `<div class="rub">Preparação</div><div class="collapsed">› Sinal da Cruz</div><div class="rub">Petição de Luz</div><div class="collapsed">› Vinde, Espírito Santo</div>
+    <div class="rub">Gratidão</div><p class="txt">Olhe para trás no dia com olhos gratos. Não comece com os fracassos; comece com os dons. Quais momentos de beleza, bondade ou graça você consegue identificar? Nomeie três coisas pelas quais você é genuinamente grato. Ofereça graças a Deus por cada uma delas.</p>
+    <div class="rub">Petição de Luz</div><p class="txt">Humildemente peça ao Espírito Santo que lhe dê clareza sobre si mesmo. Você não está se julgando sozinho — Deus está iluminando gentilmente sua alma com Sua misericórdia. Ore: ‘Vinde, Espírito Santo. Mostrai-me meu coração como Vós o vedes.’</p><div class="collapsed">› Revisão do Dia</div>`
+}
+const stamp = (name, mins, from, to) => `<div class="stamp" style="--from:${from};--to:${to}"><b>${name}</b><small>${mins}</small></div>`
+function todayBody() {
+  const items = plan(); const hasPlan = items.length > 0
+  const done = state.prayed ? firstPrayer() : undefined
+  const list = items
+  const pending = !state.card
+  const tonight = items.find((p) => p.t > '20:10' && p.n !== done)
+  const next = hasPlan ? tonight || items[0] : undefined
+  const when = tonight ? 'A seguir' : 'Amanhã'
+  const doneCount = items.some((p) => p.n === done) ? 1 : 0
+  const envelope = `<div class="hero"><div class="env"><div class="flap"></div><div class="wax">✠</div></div><small>2 santinhos para você</small><b>Um primeiro santinho</b><span>Escolha um santo para começar</span></div>`
+  const nextHero = next ? `<div class="hero red">${stamp(next.n, 'às ' + next.t, '#6B1620', '#2A080C')}<small>${when} · ${next.t}</small><b>${next.n}</b><span>${state.allowed ? 'Lembrete marcado' : 'No seu plano'}</span></div>` : `<div class="hero red">${stamp('Evangelho do Dia', '5 min', '#6B1620', '#2A080C')}<small>Sugestão · noite</small><b>Evangelho do Dia</b><span>O Evangelho da Missa de hoje</span></div>`
+  const gospel = `<div class="hero" style="background:#201318"><small>Evangelho do dia</small><b>Segunda-feira</b><span>A Palavra da Missa de hoje</span></div>`
+  const planCard = hasPlan ? `<div class="plan"><div class="band"><span>${doneCount} DE ${items.length}</span><span>EM DIA</span></div><b>Plano de Vida</b><ul>${list.slice(0, 5).map((p) => `<li class="${p.n === done ? 'done' : ''}">${p.n}</li>`).join('')}</ul></div>` : `<div class="plan empty"><div class="band"><span>PARA COMEÇAR</span></div><b>Plano de Vida</b><p>Algumas práticas, rezadas todo dia.</p></div>`
+  const door = path.startsWith('office') ? ['Ofício Divino', 'as horas de hoje', '#1E3A5C', '#0A1626'] : path === 'rule' ? ['Santo Rosário', '20 min', '#1E4A32', '#0C2418'] : ['Santo Rosário', '20 min', '#1E4A32', '#0C2418']
+  return `<div class="thead"><img class="corner" src="a/frame_corner_light.webp" alt="" style="right:-38px"><div class="lab" style="position:relative">SEGUNDA · TEMPO COMUM</div><div class="date" style="position:relative">Novembro 23<span>24</span></div></div>
+    <div class="car">${pending ? envelope : ''}${nextHero}${gospel}</div>
+    <div class="row"><div class="tile">${planCard}<small>${hasPlan ? 'O plano de hoje' : 'Monte seu plano'}</small></div>
+    <div class="tile">${stamp(door[0], door[1], door[2], door[3])}<small>${door[0]}</small></div><div class="tile">${stamp('Bíblia', 'ler', '#1E3A5C', '#0A1626')}<small>Bíblia</small></div></div>
+    <div class="shelf">MEDITAÇÕES DIÁRIAS</div><div class="row"><div class="med" style="background-image:url(a/meditation-intimita.webp)"><b>Intimidade Divina</b></div><div class="med" style="background-image:url(a/meditation-alphonsus.webp)"><b>Meditações de Santo Afonso</b></div></div>`
+}
+
+function render() {
+  const key = paths[path].steps[step]; const s = screens[key]()
+  document.getElementById('screen').innerHTML = `<div class="view ${s.cls || ''}">${s.body}</div>${s.foot ? `<div class="foot">${s.foot}</div>` : ''}${s.after || ''}`
+  document.getElementById('overlay').innerHTML = ''
+  document.getElementById('chips').innerHTML = Object.entries(paths).map(([k, p]) => `<button class="chip ${k === path && step > 0 ? 'on' : ''}" data-jump="${k}">${p.label}</button>`).join('')
+  document.getElementById('pathName').textContent = step ? `${paths[path].label} · ${names[key]}` : names[key]
+  document.getElementById('why').textContent = why[key]
+  document.getElementById('steps').innerHTML = paths[path].steps.map((k, i) => `<li><button class="${i === step ? 'on' : ''}" data-step="${i}"><i>${i + 1}</i>${names[k]}</button></li>`).join('')
+}
+function setPath(p, at = 0) { path = p; step = at; render() }
+function next() { step = Math.min(step + 1, paths[path].steps.length - 1); render() }
+function goToday() { step = paths[path].steps.indexOf('today'); render() }
+const toggle = (set, v) => (set.has(v) ? set.delete(v) : set.add(v))
+const keep = () => { const v = document.querySelector('.view'); const y = v ? v.scrollTop : 0; render(); const n = document.querySelector('.view'); if (n) { n.style.animation = 'none'; n.scrollTop = y } }
+
+document.addEventListener('click', (e) => {
+  const b = e.target.closest('button'); if (!b) return
+  if (b.dataset.jump) { state = fresh(); return setPath(b.dataset.jump, b.dataset.jump === 'skip' ? 1 : 1) }
+  if (b.dataset.step !== undefined) { step = Number(b.dataset.step); return render() }
+  if ('back' in b.dataset) { step = Math.max(step - 1, 0); return render() }
+  if ('next' in b.dataset) return next()
+  const { act, val } = b.dataset
+  if (act === 'path') { state = fresh(); const p = val === 'office' ? 'office-regular' : val; return setPath(p, 1) }
+  if (act === 'officePath') { path = val; return next() }
+  if (act === 'office') { state.office = val; state.hours = new Set(['Laudes', 'Vésperas', 'Completas']); return keep() }
+  if (act === 'hour') { toggle(state.hours, val); return keep() }
+  if (act === 'firstHour') { state.firstHour = val; return keep() }
+  if (act === 'rule') { state.rule = val; state.off = new Set(); return next() }
+  if (act === 'ruleItem') { toggle(state.off, Number(val)); return keep() }
+  if (act === 'mine') { toggle(state.mine, val); return keep() }
+  if (act === 'takeStep') { state.step = val === '1'; return next() }
+  if (act === 'mute') { toggle(state.muted, val); return keep() }
+  if (act === 'no-notify') { state.allowed = false; return next() }
+  if (act === 'ask-notify') { document.getElementById('overlay').innerHTML = `<div class="scrim"><div class="alert"><div><h4>“Ember” Deseja Enviar Notificações</h4><p>Lembretes do seu plano de vida, na hora de cada oração.</p></div><div class="bt"><button data-act="deny">Não Permitir</button><button data-act="allow">Permitir</button></div></div></div>`; return }
+  if (act === 'allow') { state.allowed = true; return next() }
+  if (act === 'deny') { state.allowed = false; return next() }
+  if (act === 'later') return goToday()
+  if (act === 'card') { state.card = val; return next() }
+})
+setPath('start', 0)
+</script>
