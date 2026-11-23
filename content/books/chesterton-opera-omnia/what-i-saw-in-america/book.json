@@ -15,13 +15,19 @@
   },
   "composed": "1922",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/what-i-saw-in-america",
   "editions": {
     "en-US": {
       "editor": "Hodder & Stoughton",
       "year": 1922
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,115 +44,134 @@
     {
       "id": "ch01-what-is-america",
       "title": {
-        "en-US": "What is America?"
+        "en-US": "What is America?",
+        "pt-BR": "O que é a América?"
       }
     },
     {
       "id": "ch02-a-meditation-in-a-new-york-hotel",
       "title": {
-        "en-US": "A Meditation in a New York Hotel"
+        "en-US": "A Meditation in a New York Hotel",
+        "pt-BR": "Uma meditação num hotel de Nova York"
       }
     },
     {
       "id": "ch03-a-meditation-in-broadway",
       "title": {
-        "en-US": "A Meditation in Broadway"
+        "en-US": "A Meditation in Broadway",
+        "pt-BR": "Uma meditação na Broadway"
       }
     },
     {
       "id": "ch04-irish-and-other-interviewers",
       "title": {
-        "en-US": "Irish and other Interviewers"
+        "en-US": "Irish and other Interviewers",
+        "pt-BR": "Entrevistadores irlandeses e outros"
       }
     },
     {
       "id": "ch05-some-american-cities",
       "title": {
-        "en-US": "Some American Cities"
+        "en-US": "Some American Cities",
+        "pt-BR": "Algumas cidades americanas"
       }
     },
     {
       "id": "ch06-in-the-american-country",
       "title": {
-        "en-US": "In the American Country"
+        "en-US": "In the American Country",
+        "pt-BR": "No interior americano"
       }
     },
     {
       "id": "ch07-the-american-business-man",
       "title": {
-        "en-US": "The American Business Man"
+        "en-US": "The American Business Man",
+        "pt-BR": "O homem de negócios americano"
       }
     },
     {
       "id": "ch08-presidents-and-problems",
       "title": {
-        "en-US": "Presidents and Problems"
+        "en-US": "Presidents and Problems",
+        "pt-BR": "Presidentes e problemas"
       }
     },
     {
       "id": "ch09-prohibition-in-fact-and-fancy",
       "title": {
-        "en-US": "Prohibition in Fact and Fancy"
+        "en-US": "Prohibition in Fact and Fancy",
+        "pt-BR": "A Lei Seca na realidade e na fantasia"
       }
     },
     {
       "id": "ch10-fads-and-public-opinion",
       "title": {
-        "en-US": "Fads and Public Opinion"
+        "en-US": "Fads and Public Opinion",
+        "pt-BR": "Modismos e opinião pública"
       }
     },
     {
       "id": "ch11-the-extraordinary-american",
       "title": {
-        "en-US": "The Extraordinary American"
+        "en-US": "The Extraordinary American",
+        "pt-BR": "O extraordinário americano"
       }
     },
     {
       "id": "ch12-the-republican-in-the-ruins",
       "title": {
-        "en-US": "The Republican in the Ruins"
+        "en-US": "The Republican in the Ruins",
+        "pt-BR": "O republicano nas ruínas"
       }
     },
     {
       "id": "ch13-is-the-atlantic-narrowing",
       "title": {
-        "en-US": "Is the Atlantic Narrowing?"
+        "en-US": "Is the Atlantic Narrowing?",
+        "pt-BR": "O Atlântico está se estreitando?"
       }
     },
     {
       "id": "ch14-lincoln-and-lost-causes",
       "title": {
-        "en-US": "Lincoln and Lost Causes"
+        "en-US": "Lincoln and Lost Causes",
+        "pt-BR": "Lincoln e as causas perdidas"
       }
     },
     {
       "id": "ch15-wells-and-the-world-state",
       "title": {
-        "en-US": "Wells and the World State"
+        "en-US": "Wells and the World State",
+        "pt-BR": "Wells e o Estado mundial"
       }
     },
     {
       "id": "ch16-a-new-martin-chuzzlewit",
       "title": {
-        "en-US": "A New Martin Chuzzlewit"
+        "en-US": "A New Martin Chuzzlewit",
+        "pt-BR": "Um novo Martin Chuzzlewit"
       }
     },
     {
       "id": "ch17-the-spirit-of-america",
       "title": {
-        "en-US": "The Spirit of America"
+        "en-US": "The Spirit of America",
+        "pt-BR": "O espírito da América"
       }
     },
     {
       "id": "ch18-the-spirit-of-england",
       "title": {
-        "en-US": "The Spirit of England"
+        "en-US": "The Spirit of England",
+        "pt-BR": "O espírito da Inglaterra"
       }
     },
     {
       "id": "ch19-the-future-of-democracy",
       "title": {
-        "en-US": "The Future of Democracy"
+        "en-US": "The Future of Democracy",
+        "pt-BR": "O futuro da democracia"
       }
     }
   ]
