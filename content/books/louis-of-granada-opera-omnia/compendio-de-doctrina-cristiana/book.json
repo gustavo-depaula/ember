@@ -18,13 +18,19 @@
   },
   "composed": "1559",
   "languages": [
-    "es-ES"
+    "es-ES",
+    "pt-BR"
   ],
   "work": "louis-of-granada/compendio-de-doctrina-cristiana",
   "editions": {
     "es-ES": {
       "editor": "Justo Cuervo OP",
       "year": 1906
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "es-ES",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,109 +47,127 @@
     {
       "id": "lector",
       "title": {
-        "es-ES": "Al cristiano lector"
+        "es-ES": "Al cristiano lector",
+        "pt-BR": "Ao leitor cristão"
       }
     },
     {
       "id": "p1",
       "title": {
-        "es-ES": "Primera parte"
+        "es-ES": "Primera parte",
+        "pt-BR": "Primeira parte"
       },
       "children": [
         {
           "id": "p1-c1",
           "title": {
-            "es-ES": "Capítulo 1. De la necesidad que hay de saber la doctrina cristiana, y de la manera de enseñarla"
+            "es-ES": "Capítulo 1. De la necesidad que hay de saber la doctrina cristiana, y de la manera de enseñarla",
+            "pt-BR": "Capítulo 1. Da necessidade de conhecer a doutrina cristã e da maneira de ensiná-la"
           }
         },
         {
           "id": "p1-c2",
           "title": {
-            "es-ES": "Capítulo 2. De las partes principales de la doctrina cristiana, y de la manera en que se ha de enseñar"
+            "es-ES": "Capítulo 2. De las partes principales de la doctrina cristiana, y de la manera en que se ha de enseñar",
+            "pt-BR": "Capítulo 2. Das partes principais da doutrina cristã e da maneira como se deve ensinar"
           }
         },
         {
           "id": "p1-c3",
           "title": {
-            "es-ES": "Capítulo 3. De la primera parte de la doctrina cristiana, que es el Símbolo ó conocimiento de Dios i donde también se declara qué cosa sea creer en Dios"
+            "es-ES": "Capítulo 3. De la primera parte de la doctrina cristiana, que es el Símbolo ó conocimiento de Dios i donde también se declara qué cosa sea creer en Dios",
+            "pt-BR": "Capítulo 3. Da primeira parte da doutrina cristã, que é o Símbolo ou conhecimento de Deus, onde também se explica o que é crer em Deus"
           }
         },
         {
           "id": "p1-c4",
           "title": {
-            "es-ES": "Capítulo 4. Del primer artículo de Nuestra Fe"
+            "es-ES": "Capítulo 4. Del primer artículo de Nuestra Fe",
+            "pt-BR": "Capítulo 4. Do primeiro artigo de Nossa Fé"
           }
         },
         {
           "id": "p1-c5",
           "title": {
-            "es-ES": "Capítulo 5. Del segundo artículo de la Fe y del misterio de la trinidad"
+            "es-ES": "Capítulo 5. Del segundo artículo de la Fe y del misterio de la trinidad",
+            "pt-BR": "Capítulo 5. Do segundo artigo da Fé e do mistério da trindade"
           }
         },
         {
           "id": "p1-c6",
           "title": {
-            "es-ES": "Capítulo 6. Del ttrcer articulo de la Fe y de la consideración y uso del"
+            "es-ES": "Capítulo 6. Del ttrcer articulo de la Fe y de la consideración y uso del",
+            "pt-BR": "Capítulo 6. Do terceiro artigo da Fé e de sua consideração e aplicação"
           }
         },
         {
           "id": "p1-c7",
           "title": {
-            "es-ES": "Capítulo 7. Del cuarto artículo de la Fe y de sus consideraciones"
+            "es-ES": "Capítulo 7. Del cuarto artículo de la Fe y de sus consideraciones",
+            "pt-BR": "Capítulo 7. Do quarto artigo da Fé e de suas considerações"
           }
         },
         {
           "id": "p1-c8",
           "title": {
-            "es-ES": "Capítulo 8. Del quinto artículo de la Fe y de la plática del"
+            "es-ES": "Capítulo 8. Del quinto artículo de la Fe y de la plática del",
+            "pt-BR": "Capítulo 8. Do quinto artigo da Fé e de sua prática"
           }
         },
         {
           "id": "p1-c9",
           "title": {
-            "es-ES": "Capítulo 9. Del sexto artículo de la Fe"
+            "es-ES": "Capítulo 9. Del sexto artículo de la Fe",
+            "pt-BR": "Capítulo 9. Do sexto artigo da Fé"
           }
         },
         {
           "id": "p1-c10",
           "title": {
-            "es-ES": "Capítulo 10. Del séptimo artículo de la Fe y del uso y consideración del"
+            "es-ES": "Capítulo 10. Del séptimo artículo de la Fe y del uso y consideración del",
+            "pt-BR": "Capítulo 10. Do sétimo artigo da Fé e de sua aplicação e consideração"
           }
         },
         {
           "id": "p1-c11",
           "title": {
-            "es-ES": "Capítulo 11. Del octavo articulo de la Fe y de la consideración del"
+            "es-ES": "Capítulo 11. Del octavo articulo de la Fe y de la consideración del",
+            "pt-BR": "Capítulo 11. Do oitavo artigo da Fé e de sua consideração"
           }
         },
         {
           "id": "p1-c12",
           "title": {
-            "es-ES": "Capítulo 12. Del nono artículo de la Fe y del uso y consideración del"
+            "es-ES": "Capítulo 12. Del nono artículo de la Fe y del uso y consideración del",
+            "pt-BR": "Capítulo 12. Do nono artigo da Fé e de sua aplicação e consideração"
           }
         },
         {
           "id": "p1-c13",
           "title": {
-            "es-ES": "Capítulo 13. Del décimo artículo de la Fe"
+            "es-ES": "Capítulo 13. Del décimo artículo de la Fe",
+            "pt-BR": "Capítulo 13. Do décimo artigo da Fé"
           }
         },
         {
           "id": "p1-c14",
           "title": {
-            "es-ES": "Capítulo 14. Del undécimo artículo de la Fe"
+            "es-ES": "Capítulo 14. Del undécimo artículo de la Fe",
+            "pt-BR": "Capítulo 14. Do undécimo artigo da Fé"
           }
         },
         {
           "id": "p1-c15",
           "title": {
-            "es-ES": "Capítulo 15. Del último artículo de la Fe"
+            "es-ES": "Capítulo 15. Del último artículo de la Fe",
+            "pt-BR": "Capítulo 15. Do último artigo da Fé"
           }
         },
         {
           "id": "p1-c16",
           "title": {
-            "es-ES": "Capítulo 16. De la segunda parte deste artículo, que es de la pena de los malos"
+            "es-ES": "Capítulo 16. De la segunda parte deste artículo, que es de la pena de los malos",
+            "pt-BR": "Capítulo 16. Da segunda parte deste artigo, que trata da pena dos maus"
           }
         }
       ]
@@ -151,145 +175,169 @@
     {
       "id": "p2",
       "title": {
-        "es-ES": "Segunda parte"
+        "es-ES": "Segunda parte",
+        "pt-BR": "Segunda parte"
       },
       "children": [
         {
           "id": "p2-c1",
           "title": {
-            "es-ES": "Capítulo 1. En que se declara cuánto nos importa la guarda de los mandamientos de Dios, con otras cosas á este propósito"
+            "es-ES": "Capítulo 1. En que se declara cuánto nos importa la guarda de los mandamientos de Dios, con otras cosas á este propósito",
+            "pt-BR": "Capítulo 1. Em que se explica quanto nos importa a observância dos mandamentos de Deus, com outras coisas a esse respeito"
           }
         },
         {
           "id": "p2-c2",
           "title": {
-            "es-ES": "Capítulo 2. Del primer mandamiento"
+            "es-ES": "Capítulo 2. Del primer mandamiento",
+            "pt-BR": "Capítulo 2. Do primeiro mandamento"
           }
         },
         {
           "id": "p2-c3",
           "title": {
-            "es-ES": "Capítulo 3. Del segundo mandamiento de la ley"
+            "es-ES": "Capítulo 3. Del segundo mandamiento de la ley",
+            "pt-BR": "Capítulo 3. Do segundo mandamento da lei"
           }
         },
         {
           "id": "p2-c4",
           "title": {
-            "es-ES": "Capítulo 4. Del tercer mandamiento de la ley y último de la primera tabla"
+            "es-ES": "Capítulo 4. Del tercer mandamiento de la ley y último de la primera tabla",
+            "pt-BR": "Capítulo 4. Do terceiro mandamento da lei e último da primeira tábua"
           }
         },
         {
           "id": "p2-c5",
           "title": {
-            "es-ES": "Capítulo 5. Del cuarto mandamiento de la ley, y primero de la segunda tabla"
+            "es-ES": "Capítulo 5. Del cuarto mandamiento de la ley, y primero de la segunda tabla",
+            "pt-BR": "Capítulo 5. Do quarto mandamento da lei e primeiro da segunda tábua"
           }
         },
         {
           "id": "p2-c6",
           "title": {
-            "es-ES": "Capítulo 6. Del quinto mandamiento"
+            "es-ES": "Capítulo 6. Del quinto mandamiento",
+            "pt-BR": "Capítulo 6. Do quinto mandamento"
           }
         },
         {
           "id": "p2-c7",
           "title": {
-            "es-ES": "Capítulo 7. Del sexto mandamiento"
+            "es-ES": "Capítulo 7. Del sexto mandamiento",
+            "pt-BR": "Capítulo 7. Do sexto mandamento"
           }
         },
         {
           "id": "p2-c8",
           "title": {
-            "es-ES": "Capítulo 8. Del séptimo mandamiento"
+            "es-ES": "Capítulo 8. Del séptimo mandamiento",
+            "pt-BR": "Capítulo 8. Do sétimo mandamento"
           }
         },
         {
           "id": "p2-c9",
           "title": {
-            "es-ES": "Capítulo 9. Del octavo mandamiento"
+            "es-ES": "Capítulo 9. Del octavo mandamiento",
+            "pt-BR": "Capítulo 9. Do oitavo mandamento"
           }
         },
         {
           "id": "p2-c10",
           "title": {
-            "es-ES": "Capítulo 10. Del nono y décimo mandamiento"
+            "es-ES": "Capítulo 10. Del nono y décimo mandamiento",
+            "pt-BR": "Capítulo 10. Do nono e do décimo mandamento"
           }
         },
         {
           "id": "p2-c11",
           "title": {
-            "es-ES": "Capítulo 11. De los mandamientos de la Iglesia"
+            "es-ES": "Capítulo 11. De los mandamientos de la Iglesia",
+            "pt-BR": "Capítulo 11. Dos mandamentos da Igreja"
           }
         },
         {
           "id": "p2-c12",
           "title": {
-            "es-ES": "Capítulo 12. De los pecados en común, así mortales como veniales"
+            "es-ES": "Capítulo 12. De los pecados en común, así mortales como veniales",
+            "pt-BR": "Capítulo 12. Dos pecados em geral, tanto mortais como veniais"
           }
         },
         {
           "id": "p2-c13",
           "title": {
-            "es-ES": "Capítulo 13. De los remedios generales que tenemos contra todos los pecados así mortales como veniales"
+            "es-ES": "Capítulo 13. De los remedios generales que tenemos contra todos los pecados así mortales como veniales",
+            "pt-BR": "Capítulo 13. Dos remédios gerais que temos contra todos os pecados, tanto mortais como veniais"
           }
         },
         {
           "id": "p2-c14",
           "title": {
-            "es-ES": "Capítulo 14. De los siete pecados que se llaman capitales y primero de la soberbia y de sus remedios"
+            "es-ES": "Capítulo 14. De los siete pecados que se llaman capitales y primero de la soberbia y de sus remedios",
+            "pt-BR": "Capítulo 14. Dos sete pecados que se chamam capitais e, primeiro, da soberba e de seus remédios"
           }
         },
         {
           "id": "p2-c15",
           "title": {
-            "es-ES": "Capítulo 15. Del segundo pecado capital, que es avaricia, y de sus remedios"
+            "es-ES": "Capítulo 15. Del segundo pecado capital, que es avaricia, y de sus remedios",
+            "pt-BR": "Capítulo 15. Do segundo pecado capital, que é a avareza, e de seus remédios"
           }
         },
         {
           "id": "p2-c16",
           "title": {
-            "es-ES": "Capítulo 16. Del tercero pecado mortal, que es la lujuria, y de sus remedios"
+            "es-ES": "Capítulo 16. Del tercero pecado mortal, que es la lujuria, y de sus remedios",
+            "pt-BR": "Capítulo 16. Do terceiro pecado mortal, que é a luxúria, e de seus remédios"
           }
         },
         {
           "id": "p2-c17",
           "title": {
-            "es-ES": "Capítulo 17. Del cuarto pecado capital , que es la envidia , y de sus remedios"
+            "es-ES": "Capítulo 17. Del cuarto pecado capital , que es la envidia , y de sus remedios",
+            "pt-BR": "Capítulo 17. Do quarto pecado capital, que é a inveja, e de seus remédios"
           }
         },
         {
           "id": "p2-c18",
           "title": {
-            "es-ES": "Capítulo 18. Del quinto pecado capital, que es la gula, y de sus remedios"
+            "es-ES": "Capítulo 18. Del quinto pecado capital, que es la gula, y de sus remedios",
+            "pt-BR": "Capítulo 18. Do quinto pecado capital, que é a gula, e de seus remédios"
           }
         },
         {
           "id": "p2-c19",
           "title": {
-            "es-ES": "Capítulo 19. Del sexto pecado capital, que es ira, y de sus remedios"
+            "es-ES": "Capítulo 19. Del sexto pecado capital, que es ira, y de sus remedios",
+            "pt-BR": "Capítulo 19. Do sexto pecado capital, que é a ira, e de seus remédios"
           }
         },
         {
           "id": "p2-c20",
           "title": {
-            "es-ES": "Capítulo 20. Del séptimo pecado capital^ que es accidia ó pereza, y de sus remedios"
+            "es-ES": "Capítulo 20. Del séptimo pecado capital^ que es accidia ó pereza, y de sus remedios",
+            "pt-BR": "Capítulo 20. Do sétimo pecado capital, que é a acídia ou preguiça, e de seus remédios"
           }
         },
         {
           "id": "p2-c21",
           "title": {
-            "es-ES": "Capítulo 21. De los pecados contra el Espíritu sancto"
+            "es-ES": "Capítulo 21. De los pecados contra el Espíritu sancto",
+            "pt-BR": "Capítulo 21. Dos pecados contra o Espírito Santo"
           }
         },
         {
           "id": "p2-c22",
           "title": {
-            "es-ES": "Capítulo 22. De los pecados que claman al cielo"
+            "es-ES": "Capítulo 22. De los pecados que claman al cielo",
+            "pt-BR": "Capítulo 22. Dos pecados que clamam ao céu"
           }
         },
         {
           "id": "p2-c23",
           "title": {
-            "es-ES": "Capítulo 23. De los pecados ajenos y participados"
+            "es-ES": "Capítulo 23. De los pecados ajenos y participados",
+            "pt-BR": "Capítulo 23. Dos pecados alheios e daqueles de que se participa"
           }
         }
       ]
@@ -297,121 +345,141 @@
     {
       "id": "p3",
       "title": {
-        "es-ES": "Tercera parte"
+        "es-ES": "Tercera parte",
+        "pt-BR": "Terceira parte"
       },
       "children": [
         {
           "id": "p3-c1",
           "title": {
-            "es-ES": "Capítulo 1. De la necesidad que tenemos de buscar la divina gracia para guardar los mandamientos de Dios y huir de los pecados"
+            "es-ES": "Capítulo 1. De la necesidad que tenemos de buscar la divina gracia para guardar los mandamientos de Dios y huir de los pecados",
+            "pt-BR": "Capítulo 1. Da necessidade que temos de buscar a graça divina para observar os mandamentos de Deus e fugir dos pecados"
           }
         },
         {
           "id": "p3-c2",
           "title": {
-            "es-ES": "Capítulo 2. De la necesidad de la oración y de la manera de orar"
+            "es-ES": "Capítulo 2. De la necesidad de la oración y de la manera de orar",
+            "pt-BR": "Capítulo 2. Da necessidade da oração e da maneira de orar"
           }
         },
         {
           "id": "p3-c3",
           "title": {
-            "es-ES": "Capítulo 3. De las condiciones que ha de tener la oración"
+            "es-ES": "Capítulo 3. De las condiciones que ha de tener la oración",
+            "pt-BR": "Capítulo 3. Das condições que deve ter a oração"
           }
         },
         {
           "id": "p3-c4",
           "title": {
-            "es-ES": "Capítulo 4. El cual se declara la oración del pater noster"
+            "es-ES": "Capítulo 4. El cual se declara la oración del pater noster",
+            "pt-BR": "Capítulo 4. Em que se explica a oração do pai-nosso"
           }
         },
         {
           "id": "p3-c5",
           "title": {
-            "es-ES": "Capítulo 5. De dos principales obras que deben acompañar á la oración, que son, el ayuno y la limosna y obras de misericordia"
+            "es-ES": "Capítulo 5. De dos principales obras que deben acompañar á la oración, que son, el ayuno y la limosna y obras de misericordia",
+            "pt-BR": "Capítulo 5. De duas obras principais que devem acompanhar a oração, que são o jejum e a esmola e as obras de misericórdia"
           }
         },
         {
           "id": "p3-c6",
           "title": {
-            "es-ES": "Capítulo 6. De los siete sacramentos, y primero del baptismo"
+            "es-ES": "Capítulo 6. De los siete sacramentos, y primero del baptismo",
+            "pt-BR": "Capítulo 6. Dos sete sacramentos e, primeiro, do batismo"
           }
         },
         {
           "id": "p3-c7",
           "title": {
-            "es-ES": "Capítulo 7. Del Sacramento de la confirmación"
+            "es-ES": "Capítulo 7. Del Sacramento de la confirmación",
+            "pt-BR": "Capítulo 7. Do Sacramento da confirmação"
           }
         },
         {
           "id": "p3-c8",
           "title": {
-            "es-ES": "Capítulo 8. Del Sacramento de la penltex\\cla y de sus partes"
+            "es-ES": "Capítulo 8. Del Sacramento de la penltex\\cla y de sus partes",
+            "pt-BR": "Capítulo 8. Do Sacramento da penitência e de suas partes"
           }
         },
         {
           "id": "p3-c9",
           "title": {
-            "es-ES": "Capítulo 9. De la primera parte de la penitencia, que es la contrición"
+            "es-ES": "Capítulo 9. De la primera parte de la penitencia, que es la contrición",
+            "pt-BR": "Capítulo 9. Da primeira parte da penitência, que é a contrição"
           }
         },
         {
           "id": "p3-c10",
           "title": {
-            "es-ES": "Capítulo 10. De siete cosas que se deben guardar en la segunda parte de la penitencia, que es la confesión"
+            "es-ES": "Capítulo 10. De siete cosas que se deben guardar en la segunda parte de la penitencia, que es la confesión",
+            "pt-BR": "Capítulo 10. De sete coisas que se devem observar na segunda parte da penitência, que é a confissão"
           }
         },
         {
           "id": "p3-c11",
           "title": {
-            "es-ES": "Capítulo 11. De los casos en que la confesión es nula"
+            "es-ES": "Capítulo 11. De los casos en que la confesión es nula",
+            "pt-BR": "Capítulo 11. Dos casos em que a confissão é nula"
           }
         },
         {
           "id": "p3-c12",
           "title": {
-            "es-ES": "Capítulo 12. Del Sacramento de la Eucaristía, que es de la sagrada comunión"
+            "es-ES": "Capítulo 12. Del Sacramento de la Eucaristía, que es de la sagrada comunión",
+            "pt-BR": "Capítulo 12. Do Sacramento da Eucaristia, que é o da sagrada comunhão"
           }
         },
         {
           "id": "p3-c13",
           "title": {
-            "es-ES": "Capítulo 13. De tres cosas que se requieren para dignamente comulgar"
+            "es-ES": "Capítulo 13. De tres cosas que se requieren para dignamente comulgar",
+            "pt-BR": "Capítulo 13. De três coisas que se requerem para comungar dignamente"
           }
         },
         {
           "id": "p3-c14",
           "title": {
-            "es-ES": "Capítulo 14. Del Sacramento de las ordenes"
+            "es-ES": "Capítulo 14. Del Sacramento de las ordenes",
+            "pt-BR": "Capítulo 14. Do Sacramento das ordens"
           }
         },
         {
           "id": "p3-c15",
           "title": {
-            "es-ES": "Capítulo 15. Del Sacramento del matrimonio"
+            "es-ES": "Capítulo 15. Del Sacramento del matrimonio",
+            "pt-BR": "Capítulo 15. Do Sacramento do matrimônio"
           }
         },
         {
           "id": "p3-c16",
           "title": {
-            "es-ES": "Capítulo 16. Del Sacramento de la extrema-unción"
+            "es-ES": "Capítulo 16. Del Sacramento de la extrema-unción",
+            "pt-BR": "Capítulo 16. Do Sacramento da extrema-unção"
           }
         },
         {
           "id": "p3-c17",
           "title": {
-            "es-ES": "Capítulo 17. En el cual se declara qué cosa sea misa"
+            "es-ES": "Capítulo 17. En el cual se declara qué cosa sea misa",
+            "pt-BR": "Capítulo 17. Em que se explica o que é a missa"
           }
         },
         {
           "id": "p3-c18",
           "title": {
-            "es-ES": "Capítulo 18. De la manera de oír y celebrar la misa, y de los aparejos que para esto se requieren"
+            "es-ES": "Capítulo 18. De la manera de oír y celebrar la misa, y de los aparejos que para esto se requieren",
+            "pt-BR": "Capítulo 18. Da maneira de ouvir e celebrar a missa e dos preparativos que para isso se requerem"
           }
         },
         {
           "id": "p3-c19",
           "title": {
-            "es-ES": "Capítulo 19. De la manera de oír el sermón"
+            "es-ES": "Capítulo 19. De la manera de oír el sermón",
+            "pt-BR": "Capítulo 19. Da maneira de ouvir o sermão"
           }
         }
       ]
@@ -419,7 +487,8 @@
     {
       "id": "sermones",
       "title": {
-        "es-ES": "Trece sermones de las tres Pascuas y de las fiestas de Cristo y de Nuestra Señora"
+        "es-ES": "Trece sermones de las tres Pascuas y de las fiestas de Cristo y de Nuestra Señora",
+        "pt-BR": "Treze sermões das três Páscoas e das festas de Cristo e de Nossa Senhora"
       }
     }
   ]
