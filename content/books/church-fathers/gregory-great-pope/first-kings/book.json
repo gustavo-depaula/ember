@@ -18,12 +18,18 @@
   },
   "composed": "doubtful (c. 6th-12th c.)",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "gregory-the-great/in-primum-regum",
   "editions": {
     "la": {
       "editor": "Maurist edition (Sainte-Marthe, 1705), as reprinted in Migne, PL 79 (1849)"
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -43,43 +49,50 @@
     {
       "id": "prooemium",
       "title": {
-        "la": "Prooemium"
+        "la": "Prooemium",
+        "pt-BR": "Proêmio"
       }
     },
     {
       "id": "b1",
       "title": {
-        "la": "Liber I"
+        "la": "Liber I",
+        "pt-BR": "Livro I"
       }
     },
     {
       "id": "b2",
       "title": {
-        "la": "Liber II"
+        "la": "Liber II",
+        "pt-BR": "Livro II"
       }
     },
     {
       "id": "b3",
       "title": {
-        "la": "Liber III"
+        "la": "Liber III",
+        "pt-BR": "Livro III"
       }
     },
     {
       "id": "b4",
       "title": {
-        "la": "Liber IV"
+        "la": "Liber IV",
+        "pt-BR": "Livro IV"
       }
     },
     {
       "id": "b5",
       "title": {
-        "la": "Liber V"
+        "la": "Liber V",
+        "pt-BR": "Livro V"
       }
     },
     {
       "id": "b6",
       "title": {
-        "la": "Liber VI"
+        "la": "Liber VI",
+        "pt-BR": "Livro VI"
       }
     }
   ]
