@@ -15,13 +15,19 @@
   },
   "composed": "1849",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "newman/discourses-to-mixed-congregations",
   "editions": {
     "en-US": {
       "editor": "John Henry Newman (Longmans, uniform edition; Newman Reader)",
       "year": 1849
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,109 +44,127 @@
     {
       "id": "discourse-1",
       "title": {
-        "en-US": "Discourse 1. The Salvation of the Hearer the Motive of the Preacher"
+        "en-US": "Discourse 1. The Salvation of the Hearer the Motive of the Preacher",
+        "pt-BR": "Discurso 1. A Salvação do Ouvinte como Motivo do Pregador"
       }
     },
     {
       "id": "discourse-2",
       "title": {
-        "en-US": "Discourse 2. Neglect of Divine Calls and Warnings"
+        "en-US": "Discourse 2. Neglect of Divine Calls and Warnings",
+        "pt-BR": "Discurso 2. A Negligência dos Chamados e das Advertências de Deus"
       }
     },
     {
       "id": "discourse-3",
       "title": {
-        "en-US": "Discourse 3. Men, not Angels, the Priests of the Gospel"
+        "en-US": "Discourse 3. Men, not Angels, the Priests of the Gospel",
+        "pt-BR": "Discurso 3. Homens, não Anjos, são os Sacerdotes do Evangelho"
       }
     },
     {
       "id": "discourse-4",
       "title": {
-        "en-US": "Discourse 4. Purity and Love"
+        "en-US": "Discourse 4. Purity and Love",
+        "pt-BR": "Discurso 4. Pureza e Amor"
       }
     },
     {
       "id": "discourse-5",
       "title": {
-        "en-US": "Discourse 5. Saintliness the Standard of Christian Principle"
+        "en-US": "Discourse 5. Saintliness the Standard of Christian Principle",
+        "pt-BR": "Discurso 5. A Santidade como Medida do Princípio Cristão"
       }
     },
     {
       "id": "discourse-6",
       "title": {
-        "en-US": "Discourse 6. God's Will the End of Life"
+        "en-US": "Discourse 6. God's Will the End of Life",
+        "pt-BR": "Discurso 6. A Vontade de Deus como Fim da Vida"
       }
     },
     {
       "id": "discourse-7",
       "title": {
-        "en-US": "Discourse 7. Perseverance in Grace"
+        "en-US": "Discourse 7. Perseverance in Grace",
+        "pt-BR": "Discurso 7. Perseverança na Graça"
       }
     },
     {
       "id": "discourse-8",
       "title": {
-        "en-US": "Discourse 8. Nature and Grace"
+        "en-US": "Discourse 8. Nature and Grace",
+        "pt-BR": "Discurso 8. Natureza e Graça"
       }
     },
     {
       "id": "discourse-9",
       "title": {
-        "en-US": "Discourse 9. Illuminating Grace"
+        "en-US": "Discourse 9. Illuminating Grace",
+        "pt-BR": "Discurso 9. A Graça Iluminadora"
       }
     },
     {
       "id": "discourse-10",
       "title": {
-        "en-US": "Discourse 10. Faith and Private Judgment"
+        "en-US": "Discourse 10. Faith and Private Judgment",
+        "pt-BR": "Discurso 10. Fé e Livre Exame"
       }
     },
     {
       "id": "discourse-11",
       "title": {
-        "en-US": "Discourse 11. Faith and Doubt"
+        "en-US": "Discourse 11. Faith and Doubt",
+        "pt-BR": "Discurso 11. Fé e Dúvida"
       }
     },
     {
       "id": "discourse-12",
       "title": {
-        "en-US": "Discourse 12. Prospects of the Catholic Missioner"
+        "en-US": "Discourse 12. Prospects of the Catholic Missioner",
+        "pt-BR": "Discurso 12. Perspectivas do Missionário Católico"
       }
     },
     {
       "id": "discourse-13",
       "title": {
-        "en-US": "Discourse 13. Mysteries of Nature and of Grace"
+        "en-US": "Discourse 13. Mysteries of Nature and of Grace",
+        "pt-BR": "Discurso 13. Mistérios da Natureza e da Graça"
       }
     },
     {
       "id": "discourse-14",
       "title": {
-        "en-US": "Discourse 14. The Mystery of Divine Condescension"
+        "en-US": "Discourse 14. The Mystery of Divine Condescension",
+        "pt-BR": "Discurso 14. O Mistério da Condescendência Divina"
       }
     },
     {
       "id": "discourse-15",
       "title": {
-        "en-US": "Discourse 15. The Infinitude of the Divine Attributes"
+        "en-US": "Discourse 15. The Infinitude of the Divine Attributes",
+        "pt-BR": "Discurso 15. A Infinitude dos Atributos Divinos"
       }
     },
     {
       "id": "discourse-16",
       "title": {
-        "en-US": "Discourse 16. Mental Sufferings of Our Lord in His Passion"
+        "en-US": "Discourse 16. Mental Sufferings of Our Lord in His Passion",
+        "pt-BR": "Discurso 16. Sofrimentos Interiores de Nosso Senhor em sua Paixão"
       }
     },
     {
       "id": "discourse-17",
       "title": {
-        "en-US": "Discourse 17. The Glories of Mary for the Sake of Her Son"
+        "en-US": "Discourse 17. The Glories of Mary for the Sake of Her Son",
+        "pt-BR": "Discurso 17. As Glórias de Maria por Amor de seu Filho"
       }
     },
     {
       "id": "discourse-18",
       "title": {
-        "en-US": "Discourse 18. On the Fitness of the Glories of Mary"
+        "en-US": "Discourse 18. On the Fitness of the Glories of Mary",
+        "pt-BR": "Discurso 18. Sobre a Conveniência das Glórias de Maria"
       }
     }
   ]
