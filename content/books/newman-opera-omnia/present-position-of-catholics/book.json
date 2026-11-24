@@ -15,13 +15,19 @@
   },
   "composed": "1851",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "newman/present-position-of-catholics",
   "editions": {
     "en-US": {
       "editor": "John Henry Newman (Longmans, uniform edition; Newman Reader)",
       "year": 1851
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,61 +44,71 @@
     {
       "id": "lecture-1",
       "title": {
-        "en-US": "Lecture 1. Protestant View of the Catholic Church"
+        "en-US": "Lecture 1. Protestant View of the Catholic Church",
+        "pt-BR": "Conferência 1. Visão Protestante da Igreja Católica"
       }
     },
     {
       "id": "lecture-2",
       "title": {
-        "en-US": "Lecture 2. Tradition the Sustaining Power of the Protestant View"
+        "en-US": "Lecture 2. Tradition the Sustaining Power of the Protestant View",
+        "pt-BR": "Conferência 2. A Tradição como Força Sustentadora da Visão Protestante"
       }
     },
     {
       "id": "lecture-3",
       "title": {
-        "en-US": "Lecture 3. Fable the Basis of the Protestant View"
+        "en-US": "Lecture 3. Fable the Basis of the Protestant View",
+        "pt-BR": "Conferência 3. A Fábula como Base da Visão Protestante"
       }
     },
     {
       "id": "lecture-4",
       "title": {
-        "en-US": "Lecture 4. True Testimony Insufficient for the Protestant View"
+        "en-US": "Lecture 4. True Testimony Insufficient for the Protestant View",
+        "pt-BR": "Conferência 4. A Insuficiência do Testemunho Verdadeiro para a Visão Protestante"
       }
     },
     {
       "id": "lecture-5",
       "title": {
-        "en-US": "Lecture 5. Logical Inconsistency of the Protestant View"
+        "en-US": "Lecture 5. Logical Inconsistency of the Protestant View",
+        "pt-BR": "Conferência 5. Incoerência Lógica da Visão Protestante"
       }
     },
     {
       "id": "lecture-6",
       "title": {
-        "en-US": "Lecture 6. Prejudice the Life of the Protestant View"
+        "en-US": "Lecture 6. Prejudice the Life of the Protestant View",
+        "pt-BR": "Conferência 6. O Preconceito como Vida da Visão Protestante"
       }
     },
     {
       "id": "lecture-7",
       "title": {
-        "en-US": "Lecture 7. Assumed Principles the Intellectual Ground of the Protestant View"
+        "en-US": "Lecture 7. Assumed Principles the Intellectual Ground of the Protestant View",
+        "pt-BR": "Conferência 7. Princípios Pressupostos como Fundamento Intelectual da Visão Protestante"
       }
     },
     {
       "id": "lecture-8",
       "title": {
-        "en-US": "Lecture 8. Ignorance Concerning Catholics the Protection of the Protestant View"
+        "en-US": "Lecture 8. Ignorance Concerning Catholics the Protection of the Protestant View",
+        "pt-BR": "Conferência 8. A Ignorância acerca dos Católicos como Proteção da Visão Protestante"
       }
     },
     {
       "id": "lecture-9",
       "title": {
-        "en-US": "Lecture 9. Duties of Catholics Towards the Protestant View"
+        "en-US": "Lecture 9. Duties of Catholics Towards the Protestant View",
+        "pt-BR": "Conferência 9. Deveres dos Católicos para com a Visão Protestante"
       }
     },
     {
       "id": "notes",
       "title": {
-        "en-US": "Notes"
+        "en-US": "Notes",
+        "pt-BR": "Notas"
       }
     }
   ]
