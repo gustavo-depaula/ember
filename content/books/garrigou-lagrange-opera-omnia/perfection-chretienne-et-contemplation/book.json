@@ -26,6 +26,11 @@
     "en-US": {
       "translator": "Sr. M. Timothea Doyle, O.P.",
       "year": 1937
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -47,42 +52,48 @@
   ],
   "languages": [
     "fr-FR",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "toc": [
     {
       "id": "intro",
       "title": {
         "fr-FR": "Introduction",
-        "en-US": "Introduction"
+        "en-US": "Introduction",
+        "pt-BR": "Introdução"
       }
     },
     {
       "id": "ch1",
       "title": {
         "fr-FR": "Chapitre I. Le Problème mystique actuel",
-        "en-US": "Chapter I. The Actual Mystical Problem ARTICLE I"
+        "en-US": "Chapter I. The Actual Mystical Problem ARTICLE I",
+        "pt-BR": "Capítulo I. O problema místico atual"
       },
       "children": [
         {
           "id": "ch1-a1",
           "title": {
             "fr-FR": "Article I. Objet et méthode de la théologie ascetique et mystique",
-            "en-US": "Article I. Object and Method of Ascetical and Mystical Theology"
+            "en-US": "Article I. Object and Method of Ascetical and Mystical Theology",
+            "pt-BR": "Artigo I. Objeto e método da teologia ascética e mística"
           }
         },
         {
           "id": "ch1-a2",
           "title": {
             "fr-FR": "Article II. La distinction de l’ascétique et de la mystique",
-            "en-US": "Article II. The Distinction Between Ascetical Theology and Mystical Theology and the Unity of Spiritual Doctrine"
+            "en-US": "Article II. The Distinction Between Ascetical Theology and Mystical Theology and the Unity of Spiritual Doctrine",
+            "pt-BR": "Artigo II. A distinção entre a ascética e a mística"
           }
         },
         {
           "id": "ch1-a3",
           "title": {
             "fr-FR": "Article III. Sens des termes du problème",
-            "en-US": "Article III. Meaning of the Terms of the Problem"
+            "en-US": "Article III. Meaning of the Terms of the Problem",
+            "pt-BR": "Artigo III. Sentido dos termos do problema"
           }
         }
       ]
@@ -91,35 +102,40 @@
       "id": "ch2",
       "title": {
         "fr-FR": "Chapitre II. La Mystique",
-        "en-US": "Chapter II. Mystical Theology and the Fundamental Doctrines of St. Thomas"
+        "en-US": "Chapter II. Mystical Theology and the Fundamental Doctrines of St. Thomas",
+        "pt-BR": "Capítulo II. A mística"
       },
       "children": [
         {
           "id": "ch2-a1",
           "title": {
             "fr-FR": "Article I. Vie intellectuelle naturelle et vie surnaturelle",
-            "en-US": "Article I. Natural Intellectual Life and Supernatural Life"
+            "en-US": "Article I. Natural Intellectual Life and Supernatural Life",
+            "pt-BR": "Artigo I. Vida intelectual natural e vida sobrenatural"
           }
         },
         {
           "id": "ch2-a2",
           "title": {
             "fr-FR": "Article II. La mystique et la surnaturalité essentielle de la foi infuse",
-            "en-US": "Article II. Mystical Theology and the Essentially Supernatural Character of Infused Faith"
+            "en-US": "Article II. Mystical Theology and the Essentially Supernatural Character of Infused Faith",
+            "pt-BR": "Artigo II. A mística e a sobrenaturalidade essencial da fé infusa"
           }
         },
         {
           "id": "ch2-a3",
           "title": {
             "fr-FR": "Article III. La mystique",
-            "en-US": "Article III. Mystical Theology and the Doctrine of St. Thomas on the Efficacy of Grace"
+            "en-US": "Article III. Mystical Theology and the Doctrine of St. Thomas on the Efficacy of Grace",
+            "pt-BR": "Artigo III. A mística"
           }
         },
         {
           "id": "ch2-a4",
           "title": {
             "fr-FR": "Article IV. Les conséquences pratiques de la doctrine de saint thomas sur la grace",
-            "en-US": "Article IV. The Practical Consequences of the Doctrine of St. Thomas"
+            "en-US": "Article IV. The Practical Consequences of the Doctrine of St. Thomas",
+            "pt-BR": "Artigo IV. As consequências práticas da doutrina de Santo Tomás sobre a graça"
           }
         }
       ]
@@ -128,42 +144,48 @@
       "id": "ch3",
       "title": {
         "fr-FR": "Chapitre III. La pleine perfection de la vie chrétienne",
-        "en-US": "Chapter III. The Full Perfection of Christian Life ARTICLE I"
+        "en-US": "Chapter III. The Full Perfection of Christian Life ARTICLE I",
+        "pt-BR": "Capítulo III. A plena perfeição da vida cristã"
       },
       "children": [
         {
           "id": "ch3-a1",
           "title": {
             "fr-FR": "Article I. La Perfection chrétienne ou la vie éternelle commencée",
-            "en-US": "Article I. Christian Perfection, or the Beginning of Eternal Life"
+            "en-US": "Article I. Christian Perfection, or the Beginning of Eternal Life",
+            "pt-BR": "Artigo I. A perfeição cristã ou a vida eterna começada"
           }
         },
         {
           "id": "ch3-a2",
           "title": {
             "fr-FR": "Article II. La perfection chrétienne consiste spécialement dans la charité",
-            "en-US": "Article II. Christian Perfection Consists Especially in Charity"
+            "en-US": "Article II. Christian Perfection Consists Especially in Charity",
+            "pt-BR": "Artigo II. A perfeição cristã consiste especialmente na caridade"
           }
         },
         {
           "id": "ch3-a3",
           "title": {
             "fr-FR": "Article III. La pleine perfection de la charité",
-            "en-US": "Article III. The Full Perfection of Charity Presupposes the Passive Purification of the Senses and of the Spirit"
+            "en-US": "Article III. The Full Perfection of Charity Presupposes the Passive Purification of the Senses and of the Spirit",
+            "pt-BR": "Artigo III. A plena perfeição da caridade"
           }
         },
         {
           "id": "ch3-a4",
           "title": {
             "fr-FR": "Article IV. La pleine perfection de la vie chrétienne",
-            "en-US": "Article IV. According to Tradition the Full Perfection of Christian Life Belongs to the Mystical Order"
+            "en-US": "Article IV. According to Tradition the Full Perfection of Christian Life Belongs to the Mystical Order",
+            "pt-BR": "Artigo IV. A plena perfeição da vida cristã"
           }
         },
         {
           "id": "ch3-a5",
           "title": {
             "fr-FR": "Article V. La Perfection et le précepte de l’amour de Dieu",
-            "en-US": "Article V. Perfection and the Precept of the Love of God"
+            "en-US": "Article V. Perfection and the Precept of the Love of God",
+            "pt-BR": "Artigo V. A perfeição e o preceito do amor de Deus"
           }
         }
       ]
@@ -172,56 +194,64 @@
       "id": "ch4",
       "title": {
         "fr-FR": "Chapitre IV. La Contemplation et ses degrés",
-        "en-US": "Chapter IV. Contemplation and Its Degrees"
+        "en-US": "Chapter IV. Contemplation and Its Degrees",
+        "pt-BR": "Capítulo IV. A contemplação e seus graus"
       },
       "children": [
         {
           "id": "ch4-intro",
           "title": {
             "fr-FR": "Introduction",
-            "en-US": "Introduction"
+            "en-US": "Introduction",
+            "pt-BR": "Introdução"
           }
         },
         {
           "id": "ch4-a1",
           "title": {
             "fr-FR": "Article I. La prière en général et l’oraison commune",
-            "en-US": "Article I. Prayer in General and Common Prayer"
+            "en-US": "Article I. Prayer in General and Common Prayer",
+            "pt-BR": "Artigo I. A prece em geral e a oração comum"
           }
         },
         {
           "id": "ch4-a2",
           "title": {
             "fr-FR": "Article II. Divers sens des mots « contemplation » , « ordinaire » et « extraordinaire ))",
-            "en-US": "Article II. Meaning of “Contemplation,” “Ordinary,” “Extraordinary”"
+            "en-US": "Article II. Meaning of “Contemplation,” “Ordinary,” “Extraordinary”",
+            "pt-BR": "Artigo II. Diversos sentidos das palavras “contemplação”, “ordinário” e “extraordinário”"
           }
         },
         {
           "id": "ch4-a3",
           "title": {
             "fr-FR": "Article III. Description de la contemplation infuse et de ses degrés, selon sainte therese",
-            "en-US": "Article III. Description of Infused Contemplation and its Degrees According to St. Teresa"
+            "en-US": "Article III. Description of Infused Contemplation and its Degrees According to St. Teresa",
+            "pt-BR": "Artigo III. Descrição da contemplação infusa e de seus graus segundo Santa Teresa"
           }
         },
         {
           "id": "ch4-a4",
           "title": {
             "fr-FR": "Article IV. Ce que la contemplation infuse",
-            "en-US": "Article IV. What Infused Contemplation Does Not Essentially Require"
+            "en-US": "Article IV. What Infused Contemplation Does Not Essentially Require",
+            "pt-BR": "Artigo IV. O que a contemplação infusa"
           }
         },
         {
           "id": "ch4-a5",
           "title": {
             "fr-FR": "Article V. Rapport essentiel de la contemplation infuse",
-            "en-US": "Article V. The Essential Relation of Infused Contemplation and of The Mystical Life with the Gifts of The Holy Ghost"
+            "en-US": "Article V. The Essential Relation of Infused Contemplation and of The Mystical Life with the Gifts of The Holy Ghost",
+            "pt-BR": "Artigo V. Relação essencial da contemplação infusa"
           }
         },
         {
           "id": "ch4-a6",
           "title": {
             "fr-FR": "Article VI. Caractère essentiel de la contemplation infuse. Comment procède-t-elle du don de sagesse et de la foi?",
-            "en-US": "Article VI. The Essential Character of Infused Contemplation;"
+            "en-US": "Article VI. The Essential Character of Infused Contemplation;",
+            "pt-BR": "Artigo VI. Caráter essencial da contemplação infusa. Como procede do dom de sabedoria e da fé?"
           }
         }
       ]
@@ -230,42 +260,48 @@
       "id": "ch5",
       "title": {
         "fr-FR": "Chapitre V. L’Appel à la contemplation ou à la vie mystique",
-        "en-US": "Chapter V. The Call to Contemplation or to the Mystical Life"
+        "en-US": "Chapter V. The Call to Contemplation or to the Mystical Life",
+        "pt-BR": "Capítulo V. O chamado à contemplação ou à vida mística"
       },
       "children": [
         {
           "id": "ch5-a1",
           "title": {
             "fr-FR": "Article I. Les divers sens du mot appel",
-            "en-US": "Article I. The Different Meanings of the Word \"Call”"
+            "en-US": "Article I. The Different Meanings of the Word \"Call”",
+            "pt-BR": "Artigo I. Os diversos sentidos da palavra chamado"
           }
         },
         {
           "id": "ch5-a2",
           "title": {
             "fr-FR": "Article II. L’appel général et éloigné a la contemplation MYSTIQUE",
-            "en-US": "Article II. The General and Remote Call to Mystical Contemplation"
+            "en-US": "Article II. The General and Remote Call to Mystical Contemplation",
+            "pt-BR": "Artigo II. O chamado geral e remoto à contemplação mística"
           }
         },
         {
           "id": "ch5-a3",
           "title": {
             "fr-FR": "Article III. L’Appel individuel et prochain a la contemplation",
-            "en-US": "Article III. The Individual and Proximate Call to Contemplation"
+            "en-US": "Article III. The Individual and Proximate Call to Contemplation",
+            "pt-BR": "Artigo III. O chamado individual e próximo à contemplação"
           }
         },
         {
           "id": "ch5-a4",
           "title": {
             "fr-FR": "Article IV. Conditions ordinairement requises a la contemplation infuse",
-            "en-US": "Article IV. The Conditions Ordinarily Required for Infused Contemplation"
+            "en-US": "Article IV. The Conditions Ordinarily Required for Infused Contemplation",
+            "pt-BR": "Artigo IV. Condições ordinariamente requeridas para a contemplação infusa"
           }
         },
         {
           "id": "ch5-a5",
           "title": {
             "fr-FR": "Article V. Les graces extraordinaires qui accompagnent parfois la contemplation infuse",
-            "en-US": "Article V. Extraordinary Graces that Sometimes Accompany Infused Contemplation"
+            "en-US": "Article V. Extraordinary Graces that Sometimes Accompany Infused Contemplation",
+            "pt-BR": "Artigo V. As graças extraordinárias que por vezes acompanham a contemplação infusa"
           }
         }
       ]
@@ -273,37 +309,43 @@
     {
       "id": "ch6",
       "title": {
-        "fr-FR": "Chapitre VI. Synthèse et confirmation"
+        "fr-FR": "Chapitre VI. Synthèse et confirmation",
+        "pt-BR": "Capítulo VI. Síntese e confirmação"
       },
       "children": [
         {
           "id": "ch6-a1",
           "title": {
-            "fr-FR": "Article I. L’autorité de saint Thomas en théologie mystique et les questions de méthode"
+            "fr-FR": "Article I. L’autorité de saint Thomas en théologie mystique et les questions de méthode",
+            "pt-BR": "Artigo I. A autoridade de Santo Tomás em teologia mística e as questões de método"
           }
         },
         {
           "id": "ch6-a2",
           "title": {
-            "fr-FR": "Article II. La Théologie de saint Thomas et la spiritualité"
+            "fr-FR": "Article II. La Théologie de saint Thomas et la spiritualité",
+            "pt-BR": "Artigo II. A teologia de Santo Tomás e a espiritualidade"
           }
         },
         {
           "id": "ch6-a3",
           "title": {
-            "fr-FR": "Article III. L’union de la vie intérieure et de la vie intellectuelle"
+            "fr-FR": "Article III. L’union de la vie intérieure et de la vie intellectuelle",
+            "pt-BR": "Artigo III. A união da vida interior e da vida intelectual"
           }
         },
         {
           "id": "ch6-a4",
           "title": {
-            "fr-FR": "Article IV. La contemplation et l’Eucharistie a l’école de la Bse Vierge, Mère de Dieu"
+            "fr-FR": "Article IV. La contemplation et l’Eucharistie a l’école de la Bse Vierge, Mère de Dieu",
+            "pt-BR": "Artigo IV. A contemplação e a Eucaristia na escola da Bem-aventurada Virgem, Mãe de Deus"
           }
         },
         {
           "id": "ch6-a5",
           "title": {
-            "fr-FR": "Article V. L’Accord des Maîtres"
+            "fr-FR": "Article V. L’Accord des Maîtres",
+            "pt-BR": "Artigo V. A concordância dos mestres"
           }
         }
       ]
@@ -311,7 +353,8 @@
     {
       "id": "appendices",
       "title": {
-        "fr-FR": "Appendices"
+        "fr-FR": "Appendices",
+        "pt-BR": "Apêndices"
       }
     }
   ]
