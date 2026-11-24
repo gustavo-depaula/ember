@@ -13,17 +13,23 @@
   "description": {
     "fr-FR": "Quatrième volume de l’Année liturgique : la Septuagésime, de la Septuagésime au samedi après les Cendres, avec le Propre des saints de février et mars.",
     "en-US": "Volume 4 of the 15-volume Liturgical Year (L’Année liturgique) in the original French: Septuagesima. One chapter per day or feast, with the liturgical texts in Latin and French as the edition prints them.",
-    "pt-BR": "Volume 4 dos 15 volumes de «O Ano Litúrgico» (L’Année liturgique) em francês: a Septuagésima. Um capítulo por dia ou festa, com os textos litúrgicos em latim e francês como a edição os imprime."
+    "pt-BR": "Volume 4 dos 15 volumes de «O Ano Litúrgico» (L’Année liturgique) traduzido do francês: a Septuagésima. Um capítulo por dia ou festa, com os textos litúrgicos em latim e português."
   },
   "composed": 1855,
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "gueranger/annee-liturgique",
   "editions": {
     "fr-FR": {
       "editor": "Dom Prosper Guéranger, abbé de Solesmes (14th ed., Oudin)",
       "year": 1900
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -56,361 +62,421 @@
     {
       "id": "001-la-septuagesime",
       "title": {
-        "fr-FR": "La Septuagésime"
+        "fr-FR": "La Septuagésime",
+        "pt-BR": "A Septuagésima"
       }
     },
     {
       "id": "002-chapitre-premier-historique-du-temps-de-la-septu",
       "title": {
-        "fr-FR": "Chapitre premier — Historique du temps de la Septuagésime"
+        "fr-FR": "Chapitre premier — Historique du temps de la Septuagésime",
+        "pt-BR": "Capítulo primeiro — História do tempo da Septuagésima"
       }
     },
     {
       "id": "003-chapitre-ii-mystique-du-temps-de-la-septuagesime",
       "title": {
-        "fr-FR": "Chapitre II — Mystique du temps de la Septuagésime"
+        "fr-FR": "Chapitre II — Mystique du temps de la Septuagésime",
+        "pt-BR": "Capítulo II — Mística do tempo da Septuagésima"
       }
     },
     {
       "id": "004-chapitre-iii-pratique-du-temps-de-la-septuagesim",
       "title": {
-        "fr-FR": "Chapitre III — Pratique du temps de la Septuagésime"
+        "fr-FR": "Chapitre III — Pratique du temps de la Septuagésime",
+        "pt-BR": "Capítulo III — Prática do tempo da Septuagésima"
       }
     },
     {
       "id": "005-chapitre-iv-prieres-du-matin-et-du-soir-au-temps",
       "title": {
-        "fr-FR": "Chapitre IV — Prières du matin et du soir, au temps de la Septuagésime"
+        "fr-FR": "Chapitre IV — Prières du matin et du soir, au temps de la Septuagésime",
+        "pt-BR": "Capítulo IV — Orações da manhã e da noite, no tempo da Septuagésima"
       }
     },
     {
       "id": "006-chapitre-v-de-lassistance-a-la-sainte-messe-au-t",
       "title": {
-        "fr-FR": "Chapitre V — De l’assistance à la Sainte Messe, au temps de la Septuagésime"
+        "fr-FR": "Chapitre V — De l’assistance à la Sainte Messe, au temps de la Septuagésime",
+        "pt-BR": "Capítulo V — Da assistência à Santa Missa, no tempo da Septuagésima"
       }
     },
     {
       "id": "007-chapitre-vi-pratique-de-la-sainte-communion-au-t",
       "title": {
-        "fr-FR": "Chapitre VI — Pratique de la Sainte Communion, au temps de la Septuagésime"
+        "fr-FR": "Chapitre VI — Pratique de la Sainte Communion, au temps de la Septuagésime",
+        "pt-BR": "Capítulo VI — Prática da Santa Comunhão, no tempo da Septuagésima"
       }
     },
     {
       "id": "008-chapitre-vii-de-loffice-des-vepres-des-dimanches",
       "title": {
-        "fr-FR": "Chapitre VII — De l’office des vêpres des dimanches et des fêtes, au temps de la Septuagésime"
+        "fr-FR": "Chapitre VII — De l’office des vêpres des dimanches et des fêtes, au temps de la Septuagésime",
+        "pt-BR": "Capítulo VII — Do ofício de vésperas dos domingos e das festas, no tempo da Septuagésima"
       }
     },
     {
       "id": "009-chapitre-viii-de-loffice-de-complies-au-temps-de",
       "title": {
-        "fr-FR": "Chapitre VIII — De l’office de complies, au temps de la Septuagésime"
+        "fr-FR": "Chapitre VIII — De l’office de complies, au temps de la Septuagésime",
+        "pt-BR": "Capítulo VIII — Do ofício de completas, no tempo da Septuagésima"
       }
     },
     {
       "id": "010-propre-du-temps-de-la-septuagesime",
       "title": {
-        "fr-FR": "Propre du temps de la Septuagésime"
+        "fr-FR": "Propre du temps de la Septuagésime",
+        "pt-BR": "Próprio do tempo da Septuagésima"
       }
     },
     {
       "id": "011-le-cinquieme-dimanche-apres-lepiphanie",
       "title": {
-        "fr-FR": "Le cinquième dimanche après l’Épiphanie"
+        "fr-FR": "Le cinquième dimanche après l’Épiphanie",
+        "pt-BR": "O quinto domingo depois da Epifania"
       }
     },
     {
       "id": "012-le-sixieme-dimanche-apres-lepiphanie",
       "title": {
-        "fr-FR": "Le sixième dimanche après l’Épiphanie"
+        "fr-FR": "Le sixième dimanche après l’Épiphanie",
+        "pt-BR": "O sexto domingo depois da Epifania"
       }
     },
     {
       "id": "013-le-samedi-avant-le-dimanche-de-la-septuagesime",
       "title": {
-        "fr-FR": "Le samedi avant le dimanche de la Septuagésime"
+        "fr-FR": "Le samedi avant le dimanche de la Septuagésime",
+        "pt-BR": "O sábado antes do domingo da Septuagésima"
       }
     },
     {
       "id": "014-le-dimanche-de-la-septuagesime",
       "title": {
-        "fr-FR": "Le dimanche de la Septuagésime"
+        "fr-FR": "Le dimanche de la Septuagésime",
+        "pt-BR": "O domingo da Septuagésima"
       }
     },
     {
       "id": "015-le-lundi-de-la-septuagesime",
       "title": {
-        "fr-FR": "Le lundi de la Septuagésime"
+        "fr-FR": "Le lundi de la Septuagésime",
+        "pt-BR": "A segunda-feira da Septuagésima"
       }
     },
     {
       "id": "016-le-mardi-de-la-septuagesime",
       "title": {
-        "fr-FR": "Le mardi de la Septuagésime"
+        "fr-FR": "Le mardi de la Septuagésime",
+        "pt-BR": "A terça-feira da Septuagésima"
       }
     },
     {
       "id": "017-le-mercredi-de-la-septuagesime",
       "title": {
-        "fr-FR": "Le mercredi de la Septuagésime"
+        "fr-FR": "Le mercredi de la Septuagésime",
+        "pt-BR": "A quarta-feira da Septuagésima"
       }
     },
     {
       "id": "018-le-jeudi-de-la-septuagesime",
       "title": {
-        "fr-FR": "Le jeudi de la Septuagésime"
+        "fr-FR": "Le jeudi de la Septuagésime",
+        "pt-BR": "A quinta-feira da Septuagésima"
       }
     },
     {
       "id": "019-le-vendredi-de-la-septuagesime",
       "title": {
-        "fr-FR": "Le vendredi de la Septuagésime"
+        "fr-FR": "Le vendredi de la Septuagésime",
+        "pt-BR": "A sexta-feira da Septuagésima"
       }
     },
     {
       "id": "020-le-samedi-de-la-septuagesime",
       "title": {
-        "fr-FR": "Le samedi de la Septuagésime"
+        "fr-FR": "Le samedi de la Septuagésime",
+        "pt-BR": "O sábado da Septuagésima"
       }
     },
     {
       "id": "021-le-dimanche-de-la-sexagesime",
       "title": {
-        "fr-FR": "Le dimanche de la Sexagésime"
+        "fr-FR": "Le dimanche de la Sexagésime",
+        "pt-BR": "O domingo da Sexagésima"
       }
     },
     {
       "id": "022-le-lundi-de-la-sexagesime",
       "title": {
-        "fr-FR": "Le lundi de la Sexagésime"
+        "fr-FR": "Le lundi de la Sexagésime",
+        "pt-BR": "A segunda-feira da Sexagésima"
       }
     },
     {
       "id": "023-le-mardi-de-la-sexagesime",
       "title": {
-        "fr-FR": "Le mardi de la Sexagésime"
+        "fr-FR": "Le mardi de la Sexagésime",
+        "pt-BR": "A terça-feira da Sexagésima"
       }
     },
     {
       "id": "024-le-mercredi-de-la-sexagesime",
       "title": {
-        "fr-FR": "Le mercredi de la Sexagésime"
+        "fr-FR": "Le mercredi de la Sexagésime",
+        "pt-BR": "A quarta-feira da Sexagésima"
       }
     },
     {
       "id": "025-le-jeudi-de-la-sexagesime",
       "title": {
-        "fr-FR": "Le jeudi de la Sexagésime"
+        "fr-FR": "Le jeudi de la Sexagésime",
+        "pt-BR": "A quinta-feira da Sexagésima"
       }
     },
     {
       "id": "026-le-vendredi-de-la-sexagesime",
       "title": {
-        "fr-FR": "Le vendredi de la Sexagésime"
+        "fr-FR": "Le vendredi de la Sexagésime",
+        "pt-BR": "A sexta-feira da Sexagésima"
       }
     },
     {
       "id": "027-le-samedi-de-la-sexagesime",
       "title": {
-        "fr-FR": "Le samedi de la Sexagésime"
+        "fr-FR": "Le samedi de la Sexagésime",
+        "pt-BR": "O sábado da Sexagésima"
       }
     },
     {
       "id": "028-le-dimanche-de-la-quinquagesime",
       "title": {
-        "fr-FR": "Le dimanche de la Quinquagésime"
+        "fr-FR": "Le dimanche de la Quinquagésime",
+        "pt-BR": "O domingo da Quinquagésima"
       }
     },
     {
       "id": "029-le-lundi-de-la-quinquagesime",
       "title": {
-        "fr-FR": "Le lundi de la Quinquagésime"
+        "fr-FR": "Le lundi de la Quinquagésime",
+        "pt-BR": "A segunda-feira da Quinquagésima"
       }
     },
     {
       "id": "030-le-mardi-de-la-quinquagesime",
       "title": {
-        "fr-FR": "Le mardi de la Quinquagésime"
+        "fr-FR": "Le mardi de la Quinquagésime",
+        "pt-BR": "A terça-feira da Quinquagésima"
       }
     },
     {
       "id": "031-le-mercredi-des-cendres",
       "title": {
-        "fr-FR": "Le mercredi des Cendres"
+        "fr-FR": "Le mercredi des Cendres",
+        "pt-BR": "A Quarta-feira de Cinzas"
       }
     },
     {
       "id": "032-le-jeudi-apres-les-cendres",
       "title": {
-        "fr-FR": "Le jeudi après les Cendres"
+        "fr-FR": "Le jeudi après les Cendres",
+        "pt-BR": "A quinta-feira depois das Cinzas"
       }
     },
     {
       "id": "033-le-vendredi-apres-les-cendres",
       "title": {
-        "fr-FR": "Le vendredi après les Cendres"
+        "fr-FR": "Le vendredi après les Cendres",
+        "pt-BR": "A sexta-feira depois das Cinzas"
       }
     },
     {
       "id": "034-le-samedi-apres-les-cendres",
       "title": {
-        "fr-FR": "Le samedi après les Cendres"
+        "fr-FR": "Le samedi après les Cendres",
+        "pt-BR": "O sábado depois das Cinzas"
       }
     },
     {
       "id": "035-propre-des-saints-de-la-septuagesime",
       "title": {
-        "fr-FR": "Propre des saints de la Septuagésime"
+        "fr-FR": "Propre des saints de la Septuagésime",
+        "pt-BR": "Próprio dos santos da Septuagésima"
       }
     },
     {
       "id": "036-3-fevrier-saint-blaise-eveque-et-martyr",
       "title": {
-        "fr-FR": "3 février — Saint Blaise, évêque et martyr"
+        "fr-FR": "3 février — Saint Blaise, évêque et martyr",
+        "pt-BR": "3 de fevereiro — São Brás, bispo e mártir"
       }
     },
     {
       "id": "037-4-fevrier-saint-andre-corsini-eveque-et-confesse",
       "title": {
-        "fr-FR": "4 février — Saint André corsini, évêque et confesseur"
+        "fr-FR": "4 février — Saint André corsini, évêque et confesseur",
+        "pt-BR": "4 de fevereiro — Santo André Corsini, bispo e confessor"
       }
     },
     {
       "id": "038-le-meme-jour-sainte-jeanne-de-valois-reine-de-fr",
       "title": {
-        "fr-FR": "Le meme jour. Sainte Jeanne de valois, reine de france"
+        "fr-FR": "Le meme jour. Sainte Jeanne de valois, reine de france",
+        "pt-BR": "No mesmo dia. Santa Joana de Valois, rainha da França"
       }
     },
     {
       "id": "039-5-fevrier-sainte-agathe-vierge-et-martyre",
       "title": {
-        "fr-FR": "5 février — Sainte Agathe, Vierge et martyre"
+        "fr-FR": "5 février — Sainte Agathe, Vierge et martyre",
+        "pt-BR": "5 de fevereiro — Santa Águeda, Virgem e mártir"
       }
     },
     {
       "id": "040-6-fevrier-sainte-dorothee-vierge-et-martyre",
       "title": {
-        "fr-FR": "6 février — Sainte Dorothée, Vierge et martyre"
+        "fr-FR": "6 février — Sainte Dorothée, Vierge et martyre",
+        "pt-BR": "6 de fevereiro — Santa Doroteia, Virgem e mártir"
       }
     },
     {
       "id": "041-7-fevrier-saint-romuald-abbe",
       "title": {
-        "fr-FR": "7 février — Saint Romuald, abbé"
+        "fr-FR": "7 février — Saint Romuald, abbé",
+        "pt-BR": "7 de fevereiro — São Romualdo, abade"
       }
     },
     {
       "id": "042-8-fevrier-saint-jean-de-matha-confesseur",
       "title": {
-        "fr-FR": "8 février — Saint Jean de matha, confesseur"
+        "fr-FR": "8 février — Saint Jean de matha, confesseur",
+        "pt-BR": "8 de fevereiro — São João da Mata, confessor"
       }
     },
     {
       "id": "043-9-fevrier-saint-cyrille-dalexandrie-eveque-et-do",
       "title": {
-        "fr-FR": "9 février — Saint Cyrille d’alexandrie, évêque et Docteur de l’Église"
+        "fr-FR": "9 février — Saint Cyrille d’alexandrie, évêque et Docteur de l’Église",
+        "pt-BR": "9 de fevereiro — São Cirilo de Alexandria, bispo e Doutor da Igreja"
       }
     },
     {
       "id": "044-le-meme-jour-sainte-apolline-vierge-et-martyre",
       "title": {
-        "fr-FR": "Le meme jour. Sainte Apolline, Vierge et martyre"
+        "fr-FR": "Le meme jour. Sainte Apolline, Vierge et martyre",
+        "pt-BR": "No mesmo dia. Santa Apolônia, Virgem e mártir"
       }
     },
     {
       "id": "045-10-fevrier-sainte-scholastique-vierge",
       "title": {
-        "fr-FR": "10 février — Sainte Scholastique, Vierge"
+        "fr-FR": "10 février — Sainte Scholastique, Vierge",
+        "pt-BR": "10 de fevereiro — Santa Escolástica, Virgem"
       }
     },
     {
       "id": "046-14-fevrier-saint-valentin-pretre-et-martyr",
       "title": {
-        "fr-FR": "14 février — Saint Valentin, prêtre et martyr"
+        "fr-FR": "14 février — Saint Valentin, prêtre et martyr",
+        "pt-BR": "14 de fevereiro — São Valentim, sacerdote e mártir"
       }
     },
     {
       "id": "047-15-fevrier-saint-faustin-et-saint-jovite-martyrs",
       "title": {
-        "fr-FR": "15 février — Saint Faustin et Saint Jovite, martyrs"
+        "fr-FR": "15 février — Saint Faustin et Saint Jovite, martyrs",
+        "pt-BR": "15 de fevereiro — São Faustino e São Jovita, mártires"
       }
     },
     {
       "id": "048-18-fevrier-saint-simeon-eveque-et-martyr",
       "title": {
-        "fr-FR": "18 février — Saint Siméon, évêque et martyr"
+        "fr-FR": "18 février — Saint Siméon, évêque et martyr",
+        "pt-BR": "18 de fevereiro — São Simeão, bispo e mártir"
       }
     },
     {
       "id": "049-22-fevrier-la-chaire-de-saint-pierre-a-antioche",
       "title": {
-        "fr-FR": "22 février — La chaire de Saint Pierre a antioche"
+        "fr-FR": "22 février — La chaire de Saint Pierre a antioche",
+        "pt-BR": "22 de fevereiro — A cátedra de São Pedro em Antioquia"
       }
     },
     {
       "id": "050-23-fevrier-saint-pierre-damien-cardinal-et-docte",
       "title": {
-        "fr-FR": "23 février — Saint Pierre damien, cardinal et Docteur de l’Église"
+        "fr-FR": "23 février — Saint Pierre damien, cardinal et Docteur de l’Église",
+        "pt-BR": "23 de fevereiro — São Pedro Damião, cardeal e Doutor da Igreja"
       }
     },
     {
       "id": "051-24-fevrier-saint-mathias-apotre",
       "title": {
-        "fr-FR": "24 février — Saint Mathias, Apôtre"
+        "fr-FR": "24 février — Saint Mathias, Apôtre",
+        "pt-BR": "24 de fevereiro — São Matias, Apóstolo"
       }
     },
     {
       "id": "052-26-fevrier-sainte-marguerite-de-cortone-penitent",
       "title": {
-        "fr-FR": "26 février — Sainte Marguerite de cortone, pénitente"
+        "fr-FR": "26 février — Sainte Marguerite de cortone, pénitente",
+        "pt-BR": "26 de fevereiro — Santa Margarida de Cortona, penitente"
       }
     },
     {
       "id": "053-4-mars-saint-casimir-confesseur",
       "title": {
-        "fr-FR": "4 mars — Saint Casimir, confesseur"
+        "fr-FR": "4 mars — Saint Casimir, confesseur",
+        "pt-BR": "4 de março — São Casimiro, confessor"
       }
     },
     {
       "id": "054-6-mars-sainte-perpetue-et-sainte-felicite-martyr",
       "title": {
-        "fr-FR": "6 mars — Sainte Perpétue et Sainte Félicité martyres"
+        "fr-FR": "6 mars — Sainte Perpétue et Sainte Félicité martyres",
+        "pt-BR": "6 de março — Santa Perpétua e Santa Felicidade, mártires"
       }
     },
     {
       "id": "055-7-mars-saint-thomas-daquin-docteur-de-leglise",
       "title": {
-        "fr-FR": "7 mars — Saint Thomas d’aquin, Docteur de l’Église"
+        "fr-FR": "7 mars — Saint Thomas d’aquin, Docteur de l’Église",
+        "pt-BR": "7 de março — São Tomás de Aquino, Doutor da Igreja"
       }
     },
     {
       "id": "056-8-mars-saint-jean-de-dieu-confesseur",
       "title": {
-        "fr-FR": "8 mars — Saint Jean de Dieu, confesseur"
+        "fr-FR": "8 mars — Saint Jean de Dieu, confesseur",
+        "pt-BR": "8 de março — São João de Deus, confessor"
       }
     },
     {
       "id": "057-9-mars-sainte-francoise-veuve-romaine",
       "title": {
-        "fr-FR": "9 mars — Sainte Françoise, veuve romaine"
+        "fr-FR": "9 mars — Sainte Françoise, veuve romaine",
+        "pt-BR": "9 de março — Santa Francisca, viúva romana"
       }
     },
     {
       "id": "058-10-mars-les-quarante-martyrs",
       "title": {
-        "fr-FR": "10 mars — Les quarante martyrs"
+        "fr-FR": "10 mars — Les quarante martyrs",
+        "pt-BR": "10 de março — Os quarenta mártires"
       }
     },
     {
       "id": "059-12-mars-saint-gregoire-le-grand-pape-et-docteur",
       "title": {
-        "fr-FR": "12 mars — Saint Grégoire le grand, Pape et Docteur de l’Église"
+        "fr-FR": "12 mars — Saint Grégoire le grand, Pape et Docteur de l’Église",
+        "pt-BR": "12 de março — São Gregório Magno, Papa e Doutor da Igreja"
       }
     },
     {
       "id": "060-11-fevrier-les-sept-saints-fondateurs-de-lordre",
       "title": {
-        "fr-FR": "11 février — Les sept Saints Fondateurs de l’ordre des servites de la b. v. Marie"
+        "fr-FR": "11 février — Les sept Saints Fondateurs de l’ordre des servites de la b. v. Marie",
+        "pt-BR": "11 de fevereiro — Os sete Santos Fundadores da ordem dos servitas da bem-aventurada Virgem Maria"
       }
     }
   ]

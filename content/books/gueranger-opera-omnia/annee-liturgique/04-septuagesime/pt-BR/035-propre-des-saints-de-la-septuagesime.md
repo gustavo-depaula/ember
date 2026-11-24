@@ -1,0 +1,5 @@
+# Próprio dos santos da Septuagésima
+
+As Festas em honra dos Santos não são muito numerosas no tempo da Septuagésima, sobretudo nos anos em que esse tempo só começa depois de dez de fevereiro. Contudo, tivemos de apresentar aqui um número ainda bastante considerável, a fim de não omitir nenhuma daquelas que podem ocorrer neste período, quando a Festa da Páscoa cai em suas datas mais tardias.
+
+Começamos em três de fevereiro, Festa de São Brás, e vamos até doze de março, consagrado a São Gregório Magno. A raridade das Festas durante esse longo intervalo se explica pela própria índole da Liturgia, que, sem as excluir inteiramente da Quaresma, evita multiplicá-las. Ora, todos sabem que, nos anos em que a Septuagésima recua até janeiro, uma parte mais ou menos considerável da Quaresma transcorre em fevereiro; assim, a Quarta-feira de Cinzas pode às vezes cair no quarto dia desse mês. Feitas essas advertências ao leitor católico, entramos de imediato na explicação das Festas dos Santos que podem ocorrer desde o dia seguinte à Purificação de Nossa Senhora até a data mais tardia em que pode cair o Sábado da Quinquagésima, véspera do primeiro Domingo da Quaresma.
