@@ -2,7 +2,7 @@ name: Deploy web Worker
 
 on:
   push:
-    branches: [main, r2-hosting]
+    branches: [main]
     paths:
       - 'apps/edge/**'
       - '.github/workflows/deploy-edge.yml'

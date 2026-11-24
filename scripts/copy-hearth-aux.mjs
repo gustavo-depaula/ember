@@ -14,7 +14,7 @@ import { fileURLToPath } from 'node:url'
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..')
 const outDir = resolve(root, process.argv[2] ?? '_site/hearth/v2')
 
-// Keep in sync with the aux-dir loop in .github/workflows/deploy.yml.
+// Keep in sync with the aux-dir loop in .github/actions/build-corpus/action.yml.
 const auxDirs = ['art', 'bible', 'saints']
 
 for (const dir of auxDirs) {

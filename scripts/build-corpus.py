@@ -10,7 +10,7 @@ Usage:
 
 Default output: _site/hearth/v2/
 
-The output is suitable for serving over static hosting (GitHub Pages):
+The output is suitable for serving over static hosting (Cloudflare R2):
 
     {output}/catalog.json
     {output}/blobs/{ab}/{cd}/{full-sha256}

@@ -184,8 +184,8 @@ const facts = [
   {
     term: l('Hosting', 'Hospedagem'),
     text: l(
-      `GitHub Pages: any origin, \`ETag\`s, \`max-age=600\`. Rebuilt from [content/](${sourceUrl('content')}) on every change.`,
-      `GitHub Pages: qualquer origem, \`ETag\`s, \`max-age=600\`. Refeito a partir de [content/](${sourceUrl('content')}) a cada mudança.`,
+      `Cloudflare R2: any origin, \`ETag\`s, range requests; blobs are immutable, everything else \`max-age=60\`. Rebuilt from [content/](${sourceUrl('content')}) on every change.`,
+      `Cloudflare R2: qualquer origem, \`ETag\`s, leituras parciais; blobs são imutáveis, o resto \`max-age=60\`. Refeito a partir de [content/](${sourceUrl('content')}) a cada mudança.`,
     ),
   },
 ]

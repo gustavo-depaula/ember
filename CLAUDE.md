@@ -7,7 +7,7 @@ Personal project with a single user, so schema changes are made in place: add a 
 ## Layout
 
 pnpm workspaces + turborepo:
-- `apps/app/` — Expo app · `apps/site/` — public read-only website (Astro, static) · `apps/backend/` — Mass-times API (Cloudflare Workers) · `apps/hearth/` — GitHub Pages landing page · `apps/workshop/` — content preview · `apps/admin/` — admin panel (Cloudflare Worker behind Access); its first desk reviews Mass-time suggestions (Claude Code drafts in a container, you approve)
+- `apps/app/` — Expo app · `apps/site/` — public read-only website (Astro, static) · `apps/backend/` — Mass-times API (Cloudflare Workers) · `apps/hearth/` — landing page · `apps/edge/` — Worker serving the website and corpus from R2 · `apps/workshop/` — content preview · `apps/admin/` — admin panel (Cloudflare Worker behind Access); its first desk reviews Mass-time suggestions (Claude Code drafts in a container, you approve)
 - `packages/` — shared libraries; `content/` — source of truth for the corpus, one flat dir per kind
 - `research/` — long-running investigations (method + dataset, not app code). Deliberately unstructured: let structure emerge from the work there
 - `docs/` — a few references (content authoring, content sources, design)
