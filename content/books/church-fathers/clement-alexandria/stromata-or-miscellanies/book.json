@@ -2,13 +2,16 @@
   "id": "clement-alexandria-stromata-or-miscellanies",
   "cover": "quarter",
   "name": {
-    "en-US": "The Stromata, or Miscellanies"
+    "en-US": "The Stromata, or Miscellanies",
+    "pt-BR": "Os Estrômatas, ou Miscelâneas"
   },
   "author": {
-    "en-US": "Clement of Alexandria"
+    "en-US": "Clement of Alexandria",
+    "pt-BR": "Clemente de Alexandria"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,53 +24,68 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Book I"
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Book II"
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Book III"
+        "en-US": "Book III",
+        "pt-BR": "Livro III"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Book IV"
+        "en-US": "Book IV",
+        "pt-BR": "Livro IV"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "Book V"
+        "en-US": "Book V",
+        "pt-BR": "Livro V"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "Book VI"
+        "en-US": "Book VI",
+        "pt-BR": "Livro VI"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "en-US": "Book VII"
+        "en-US": "Book VII",
+        "pt-BR": "Livro VII"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "en-US": "Book VIII"
+        "en-US": "Book VIII",
+        "pt-BR": "Livro VIII"
       }
     }
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
