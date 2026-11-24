@@ -15,13 +15,19 @@
   },
   "composed": "1920",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/new-jerusalem",
   "editions": {
     "en-US": {
       "editor": "Hodder & Stoughton",
       "year": 1920
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,85 +44,99 @@
     {
       "id": "ch01-the-way-of-the-cities",
       "title": {
-        "en-US": "I. The Way of the Cities"
+        "en-US": "I. The Way of the Cities",
+        "pt-BR": "I. O Caminho das Cidades"
       }
     },
     {
       "id": "ch02-the-way-of-the-desert",
       "title": {
-        "en-US": "II. The Way of the Desert"
+        "en-US": "II. The Way of the Desert",
+        "pt-BR": "II. O Caminho do Deserto"
       }
     },
     {
       "id": "ch03-the-gates-of-the-city",
       "title": {
-        "en-US": "III. The Gates of the City"
+        "en-US": "III. The Gates of the City",
+        "pt-BR": "III. As Portas da Cidade"
       }
     },
     {
       "id": "ch04-the-philosophy-of-sight-seeing",
       "title": {
-        "en-US": "IV. The Philosophy of Sight-seeing"
+        "en-US": "IV. The Philosophy of Sight-seeing",
+        "pt-BR": "IV. A Filosofia do Turismo"
       }
     },
     {
       "id": "ch05-the-streets-of-the-city",
       "title": {
-        "en-US": "V. The Streets of the City"
+        "en-US": "V. The Streets of the City",
+        "pt-BR": "V. As Ruas da Cidade"
       }
     },
     {
       "id": "ch06-the-groups-of-the-city",
       "title": {
-        "en-US": "VI. The Groups of the City"
+        "en-US": "VI. The Groups of the City",
+        "pt-BR": "VI. Os Grupos da Cidade"
       }
     },
     {
       "id": "ch07-the-shadow-of-the-problem",
       "title": {
-        "en-US": "VII. The Shadow of the Problem"
+        "en-US": "VII. The Shadow of the Problem",
+        "pt-BR": "VII. A Sombra do Problema"
       }
     },
     {
       "id": "ch08-the-other-side-of-the-desert",
       "title": {
-        "en-US": "VIII. The Other Side of the Desert"
+        "en-US": "VIII. The Other Side of the Desert",
+        "pt-BR": "VIII. O Outro Lado do Deserto"
       }
     },
     {
       "id": "ch09-the-battle-with-the-dragon",
       "title": {
-        "en-US": "IX. The Battle with the Dragon"
+        "en-US": "IX. The Battle with the Dragon",
+        "pt-BR": "IX. A Batalha com o Dragão"
       }
     },
     {
       "id": "ch10-the-endless-empire",
       "title": {
-        "en-US": "X. The Endless Empire"
+        "en-US": "X. The Endless Empire",
+        "pt-BR": "X. O Império sem Fim"
       }
     },
     {
       "id": "ch11-the-meaning-of-the-crusade",
       "title": {
-        "en-US": "XI. The Meaning of the Crusade"
+        "en-US": "XI. The Meaning of the Crusade",
+        "pt-BR": "XI. O Sentido da Cruzada"
       }
     },
     {
       "id": "ch12-the-fall-of-chivalry",
       "title": {
-        "en-US": "XII. The Fall of Chivalry"
+        "en-US": "XII. The Fall of Chivalry",
+        "pt-BR": "XII. A Queda da Cavalaria"
       }
     },
     {
       "id": "ch13-the-problem-of-zionism",
       "title": {
-        "en-US": "XIII. The Problem of Zionism"
+        "en-US": "XIII. The Problem of Zionism",
+        "pt-BR": "XIII. O Problema do Sionismo"
       }
     },
     {
       "id": "ch14-conclusion",
       "title": {
-        "en-US": "Conclusion"
+        "en-US": "Conclusion",
+        "pt-BR": "Conclusão"
       }
     }
   ]

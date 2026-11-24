@@ -1,0 +1,11 @@
+# Carta 1665. A François Fournier, padre da Missão, em Agen
+
+De 12 de outubro de 1653.
+
+Já vos escrevi algo sobre a alegria que senti por vos terdes apresentado em Agen para assistir o Sr. Edme [^1] em sua doença, apesar do perigo de peste que havia na cidade e da recusa que ele fizera de vosso auxílio, preferindo privar-se dessa consolação a expor vossa pessoa. Fiquei tão tocado por essa santa disputa que a comuniquei à companhia; e até lhe propus a questão de qual de vós dois havia feito nisso um ato maior de virtude. Depois, vi por vossa carta de 20 de setembro que vossa caridade prevaleceu sobre a resistência dele e que, por fim, fostes para junto do doente a fim de cuidar dele e consolá-lo; o que sem dúvida contribuirá muito para seu restabelecimento, coisa que também comuniquei à companhia, para edificá-la e levá-la a agradecer a Deus e a recomendar-vos ambos à sua divina bondade.
+
+O eclesiástico de condição elevada sobre o qual me escreveis nos honra demais ao querer recolher-se a alguma de nossas casas para ocupar-se de nossas funções. Sobre isso vos direi, Senhor, que a regra geral entre nós é não receber nenhum externo a não ser nos seminários. É verdade que outrora recebemos aqui o falecido Sr. de Vincy e que tivemos depois os Senhores abades de Chandenier, mas isso se deu por considerações que não podem ocorrer em outros; e as razões que temos para não receber mais ninguém são ponderáveis, particularmente esta: é preciso escolher uma de duas coisas, ou permitir-lhes que façam sua recreação conosco, ou dar-lhes algum dos nossos para fazê-la com eles. No primeiro caso, tiram-nos a santa liberdade de que gozamos nessas ocasiões; e, no segundo, isso divide as pessoas e o espírito da companhia; em ambos, é dar-lhes meio de conhecer os pontos fortes e fracos de cada um de nós. Há outro inconveniente: os descontentes, quando os há, vão desabafar com eles e, ao mesmo tempo, dão-lhes a conhecer tudo o que se passa na casa e na companhia, até os assuntos mais secretos. Se esse honrado eclesiástico quiser permanecer em vossa casa, que é um seminário, ou vir para o dos Bons-Enfants, será recebido de boa vontade; fora disso, fazei-o compreender a dificuldade. [^2]
+
+[^1]: Edme Menestrier. São Vicente nunca o designa senão pelo primeiro nome.
+
+[^2]: Reg. 2, p. 329.

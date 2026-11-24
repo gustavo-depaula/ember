@@ -1,0 +1,23 @@
+# Carta XLIX. Ao Senador Antônio Favre
+
+*(em latim)*
+
+Elogio de uma obra do P. Possevino. - Motivos que retardam a conversão de Pedro Poncet. - Presentes dos PP. Possevino e Querubim. - Encorajamentos recebidos de um amigo a respeito da missão.
+
+Thonon, 11 de abril de 1595. Ao ilustríssimo Senador Antônio Favre, seu dulcíssimo Irmão,
+
+Francisco de Sales apresenta suas saudações.
+
+Direi, meu Irmão, com que alegria íntima recebi anteontem tua carta e a do digníssimo P. Antônio Possevino? Se a simples lembrança de cada um de vós separadamente costuma bastar para deleitar toda a minha alma, como terá sido, pergunto-te, com esse precioso penhor, e já não apenas com a lembrança, da benevolência de ambos para comigo? Uma carta já é como um retrato de quem escreve; mas a imagem de Possevino é tão natural nessa encantadora obra sobre a Poesia e a Pintura que, para representar e pintar a si mesmo com tanta graça e exatidão, certamente não tomou emprestados os pensamentos de outrem. Por esse escrito ele me está quase tão presente quanto te está na realidade. Não penses, contudo, que, por tê-lo visto em seu livro, sinto desejo menos vivo de vê-lo em pessoa; pelo contrário, o apetite é aguçado por tão agradável atrativo. Uma só coisa me é penosa nesse deleite: ser-me oferecido num tempo em que devo permanecer firme neste campo, pelo menos por alguns dias.
+
+Com efeito, eis que finalmente começam a amarelar algumas espigas dessa grande messe (João 4:35), e, se nesta época infeliz eu não as recolhesse a tempo, seria de temer que os grãos da verdadeira fé fossem dispersos, sobretudo se o vento do norte viesse a soprar mais forte por estas paragens; pois todo mal vem do lado do aquilão, segundo a expressão do Profeta (Jeremias 1:14). Entre as espigas de que falo está Pedro Poncet, douto jurisconsulto e coração reto. Apesar de seus erros grosseiros em quase todos os pontos de nossa crença, havia muito tinha ideias justas sobre a presença real do corpo de Jesus Cristo na Eucaristia; assim, foi fácil desligá-lo da seita de Calvino, que se engana e engana os outros no que diz respeito a esse augusto Sacramento. Mas foi mais difícil fazê-lo voltar ao redil da Igreja. O medo de perder seus bens, as censuras dos amigos, a incerteza da duração das tréguas, tudo se reúne para entravar sua conversão. Se alguma vez se pôde aplicar em outro lugar o conselho de São Jerônimo: “Calca aos pés teu pai e corre a refugiar-te sob o estandarte da Cruz”, é particularmente aqui o caso de fazê-lo. Mas o velho provérbio é igualmente verdadeiro: “O mal vem a cavalo e volta a pé.” Permaneço, pois, aqui por causa das dores deste parto que chega ao sétimo mês. Em breve me escaparei, e tanto mais depressa quanto minha paciência jamais foi posta à prova de maneira mais cruel do que por esta enfadonha demora. O prazer compensará a longa espera.
+
+Entretanto, não quero deixar-te ignorar com que unanimidade de sentimentos os PP. Possevino e Querubim se anteciparam em me favorecer. Este me enviou uma imagem da Virgem Mãe adorando o Menino Jesus que dorme. Como quase não tenho aqui outro objeto em que repousar a vista, agrada-me tomar nas mãos de vez em quando esse querido e piedoso presente de um amigo muito terno. De Possevino recebi um livro magnífico e, mal o abro, encontro nele a encantadora cantiga de ninar da Virgem Mãe ao Cristo menino, composta por Horácio Torsellini. Um me deu, portanto, um retrato falado; o outro, um retrato verdadeiro e natural. Um encantou meus olhos, fatigados pela visão de nossos templos desertos e arruinados; o outro recreou meus ouvidos, continuamente atordoados por horríveis blasfêmias. Assim, com seus presentes tão piedosos e tão santos, ambos, cheios de benevolência para comigo, imprimem mais profundamente Jesus Cristo em meu coração. Pensa tu mesmo que conclusão tirarei disso a teu respeito, tu que és o autor desses bens.
+
+O cavaleiro de Compois me trouxe tua carta e me exortou a conceber melhores esperanças quanto a nossos assuntos religiosos. Baseia-se em não sei que predições, certamente favoráveis se forem verdadeiras. Como é um homem eminentemente católico e saboiano, ele próprio crê nelas com muita facilidade e insistiu muito comigo para que eu também creia. Esse mesmo cavaleiro se encarregará de levar-te esta carta e, se quiseres, de trazer-me outra tua. O barão de Hermance te saúda afetuosamente.
+
+Adeus; cuida, como o fazes, para que o P. Possevino em nada diminua sua benevolência para comigo. Que o Cristo te seja propício!
+
+Thonon, 11 de abril de 1595.
+
+Revisto sobre o autógrafo conservado em Enghien (Bélgica), na casa dos RR. PP. Jesuítas, casa Santo Agostinho.

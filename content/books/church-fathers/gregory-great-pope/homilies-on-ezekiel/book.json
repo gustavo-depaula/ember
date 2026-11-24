@@ -18,12 +18,18 @@
   },
   "composed": "593-601",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "gregory-the-great/homiliae-in-hiezechihelem",
   "editions": {
     "la": {
       "editor": "Maurist edition (Sainte-Marthe, 1705), as reprinted in Migne, PL 76 (1849)"
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -51,145 +57,169 @@
     {
       "id": "b1-praefatio",
       "title": {
-        "la": "Liber I, Praefatio"
+        "la": "Liber I, Praefatio",
+        "pt-BR": "Livro I, Prefácio"
       }
     },
     {
       "id": "b1-h01",
       "title": {
-        "la": "Liber I, Homilia I"
+        "la": "Liber I, Homilia I",
+        "pt-BR": "Livro I, Homilia I"
       }
     },
     {
       "id": "b1-h02",
       "title": {
-        "la": "Liber I, Homilia II"
+        "la": "Liber I, Homilia II",
+        "pt-BR": "Livro I, Homilia II"
       }
     },
     {
       "id": "b1-h03",
       "title": {
-        "la": "Liber I, Homilia III"
+        "la": "Liber I, Homilia III",
+        "pt-BR": "Livro I, Homilia III"
       }
     },
     {
       "id": "b1-h04",
       "title": {
-        "la": "Liber I, Homilia IV"
+        "la": "Liber I, Homilia IV",
+        "pt-BR": "Livro I, Homilia IV"
       }
     },
     {
       "id": "b1-h05",
       "title": {
-        "la": "Liber I, Homilia V"
+        "la": "Liber I, Homilia V",
+        "pt-BR": "Livro I, Homilia V"
       }
     },
     {
       "id": "b1-h06",
       "title": {
-        "la": "Liber I, Homilia VI"
+        "la": "Liber I, Homilia VI",
+        "pt-BR": "Livro I, Homilia VI"
       }
     },
     {
       "id": "b1-h07",
       "title": {
-        "la": "Liber I, Homilia VII"
+        "la": "Liber I, Homilia VII",
+        "pt-BR": "Livro I, Homilia VII"
       }
     },
     {
       "id": "b1-h08",
       "title": {
-        "la": "Liber I, Homilia VIII"
+        "la": "Liber I, Homilia VIII",
+        "pt-BR": "Livro I, Homilia VIII"
       }
     },
     {
       "id": "b1-h09",
       "title": {
-        "la": "Liber I, Homilia IX"
+        "la": "Liber I, Homilia IX",
+        "pt-BR": "Livro I, Homilia IX"
       }
     },
     {
       "id": "b1-h10",
       "title": {
-        "la": "Liber I, Homilia X"
+        "la": "Liber I, Homilia X",
+        "pt-BR": "Livro I, Homilia X"
       }
     },
     {
       "id": "b1-h11",
       "title": {
-        "la": "Liber I, Homilia XI"
+        "la": "Liber I, Homilia XI",
+        "pt-BR": "Livro I, Homilia XI"
       }
     },
     {
       "id": "b1-h12",
       "title": {
-        "la": "Liber I, Homilia XII"
+        "la": "Liber I, Homilia XII",
+        "pt-BR": "Livro I, Homilia XII"
       }
     },
     {
       "id": "b2-praefatio",
       "title": {
-        "la": "Liber II, Praefatio"
+        "la": "Liber II, Praefatio",
+        "pt-BR": "Livro II, Prefácio"
       }
     },
     {
       "id": "b2-h01",
       "title": {
-        "la": "Liber II, Homilia I"
+        "la": "Liber II, Homilia I",
+        "pt-BR": "Livro II, Homilia I"
       }
     },
     {
       "id": "b2-h02",
       "title": {
-        "la": "Liber II, Homilia II"
+        "la": "Liber II, Homilia II",
+        "pt-BR": "Livro II, Homilia II"
       }
     },
     {
       "id": "b2-h03",
       "title": {
-        "la": "Liber II, Homilia III"
+        "la": "Liber II, Homilia III",
+        "pt-BR": "Livro II, Homilia III"
       }
     },
     {
       "id": "b2-h04",
       "title": {
-        "la": "Liber II, Homilia IV"
+        "la": "Liber II, Homilia IV",
+        "pt-BR": "Livro II, Homilia IV"
       }
     },
     {
       "id": "b2-h05",
       "title": {
-        "la": "Liber II, Homilia V"
+        "la": "Liber II, Homilia V",
+        "pt-BR": "Livro II, Homilia V"
       }
     },
     {
       "id": "b2-h06",
       "title": {
-        "la": "Liber II, Homilia VI"
+        "la": "Liber II, Homilia VI",
+        "pt-BR": "Livro II, Homilia VI"
       }
     },
     {
       "id": "b2-h07",
       "title": {
-        "la": "Liber II, Homilia VII"
+        "la": "Liber II, Homilia VII",
+        "pt-BR": "Livro II, Homilia VII"
       }
     },
     {
       "id": "b2-h08",
       "title": {
-        "la": "Liber II, Homilia VIII"
+        "la": "Liber II, Homilia VIII",
+        "pt-BR": "Livro II, Homilia VIII"
       }
     },
     {
       "id": "b2-h09",
       "title": {
-        "la": "Liber II, Homilia IX"
+        "la": "Liber II, Homilia IX",
+        "pt-BR": "Livro II, Homilia IX"
       }
     },
     {
       "id": "b2-h10",
       "title": {
-        "la": "Liber II, Homilia X"
+        "la": "Liber II, Homilia X",
+        "pt-BR": "Livro II, Homilia X"
       }
     }
   ]

@@ -1,0 +1,3 @@
+# Carta LXXIX. Trecho de uma carta à Madre Favre
+
+Escrevendo de Bourges, em 1628, à Madre Favre, que acabava de ser eleita superiora do Segundo Mosteiro de Paris, santa Chantal diz: “Teu bom Padre (São Vicente de Paulo), por quem sinto tanta reverência e afeição, agradece-me pelo presente que lhe demos ao te dar a ele. Isso é, penso eu, para impedir de antemão que te levem embora. Tratarei disso com o Bispo de Genebra e contigo mesma. Que marota és! Mas por isso mesmo és ainda mais minha filha verdadeiramente amada, por quem tenho uma afeição incomparável. Envio minhas saudações a quem quiseres. Deus seja bendito!”

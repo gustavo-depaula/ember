@@ -1,0 +1,11 @@
+# Carta LIX. A uma religiosa do Primeiro Mosteiro da Visitação de Paris
+
+Viva ✠ Jesus!
+
+ANNECY, 1625.
+
+MINHA CARÍSSIMA FILHA,
+
+É preciso aparar as asas dessa pequena borboleta que se lança à luz antes do tempo; do contrário, ela se perderá. E assim também, minha filha, logo que perceberes teu espírito tomando esses altos voos, deves fazê-lo descer aos pés do crucifixo por um profundo, mas suave ato de humildade, permanecendo ali toda confusa e envergonhada. Isso porá fim à perturbação. Caminha com simplicidade, minha filha, e caminharás feliz. Esmaga o amor-próprio, extingue-o; e, com ele, a estima de ti mesma. Que a verdadeira humildade tome seu lugar, aquela humildade que sempre e em todas as circunstâncias procura o esquecimento e estar sob os pés de todos. Essa lição é difícil, mas Deus te convida a praticá-la. Segue sua vontade e seu exemplo, e Ele te conduzirá até alcançares aquela perfeição à qual sua Providência te chamou. Procura afastar de ti mesma teus pensamentos e nunca investigues minuciosamente o que se passa em teu interior. Deixa esta verdade habitar em teu coração e tem-na sempre presente ao espírito: qualquer pequeno bem que possa haver em ti vem de Deus, e, portanto, não tens direito de te orgulhar dele nem de te julgar melhor por causa dele. Lembra-te de que, por ti mesma, és puro nada, possuindo somente a abjeção de teus pecados e de tuas inúmeras imperfeições. E, tendo isso em mente, acolhe o desprezo e tudo o que mata o orgulho. Serve-te, para esse fim, daquele teu pensamento de que as Irmãs podem, com muita justiça, te julgar cheia de amor-próprio e de estima de ti mesma, ou de qualquer outra reflexão igualmente humilhante. Deseja ser empregada em coisas baixas e abjetas. Não que devas procurá-las, mas que estejas sempre disposta a aceitá-las de boa vontade. Pede à tua boa Madre que te ajude a adquirir essa querida virtude da humildade, sem, contudo, pedir nada em particular, pois escolher estragaria tudo. Se fizeres tudo isso, encontrarás a fonte da verdadeira vida; se não o fizeres, nunca terás paz nem poderás corresponder à tua vocação e aos desígnios de Deus a teu respeito. Suplico à sua Bondade que te conceda essa preciosa graça.
+
+Tua, etc.

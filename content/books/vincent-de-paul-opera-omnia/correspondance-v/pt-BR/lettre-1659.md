@@ -1,0 +1,7 @@
+# Carta 1659. Ao cardeal Fabio Chigi
+
+3 de outubro de 1653.
+
+Monsenhor,
+
+A posição que Vossa Eminência ocupa na Igreja e a elevada reputação que alcançou pelos incomparáveis méritos de sua pessoa sagrada, assim como pelo feliz êxito de tantos assuntos importantes que negociou, obrigam-me a prostrar-me em espírito a seus pés para lhe oferecer os modestos serviços da pequena congregação da Missão e os meus em particular. Suplico-vos muito humildemente, Monsenhor, que desculpeis a ousadia que nisso me permito e vos digneis tomar essa mesma companhia sob a proteção de Vossa Eminência, particularmente os padres da Missão de Roma, que o papa Urbano VIII teve a bondade de ali receber. E, embora não possamos merecer tão grande bem por nossos serviços, sendo indignos de prestá-los a vós e, por conseguinte, de oferecê-los, procuraremos ao menos reconhecê-lo por nossas orações, para que a Deus apraza, Monsenhor, conservar-vos por longo tempo e realizar cada vez mais vossas santas intenções para o bem de sua Igreja. Certamente, Monsenhor, foi para mim uma alegria indizível saber quanto Vossa Eminência ama o bem-aventurado bispo de Genebra e quanto estima seus escritos e suas filhas da Visitação. O interesse que tomo por elas, por ter sido honrado com a benevolência desse digno prelado durante sua vida e com a direção de seus mosteiros de Paris desde sua fundação até o presente, obriga-me a agradecer a Vossa Eminência com toda a humildade e submissão de que sou capaz, sendo igualmente, no amor de N. S., Monsenhor, seu…

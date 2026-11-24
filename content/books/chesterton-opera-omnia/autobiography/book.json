@@ -15,13 +15,19 @@
   },
   "composed": "1936",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/autobiography",
   "editions": {
     "en-US": {
       "editor": "Hutchinson & Co.",
       "year": 1936
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,97 +44,113 @@
     {
       "id": "ch01-hearsay-evidence",
       "title": {
-        "en-US": "Hearsay Evidence"
+        "en-US": "Hearsay Evidence",
+        "pt-BR": "Prova por ouvir dizer"
       }
     },
     {
       "id": "ch02-the-man-with-the-golden-key",
       "title": {
-        "en-US": "The Man with the Golden Key"
+        "en-US": "The Man with the Golden Key",
+        "pt-BR": "O homem da chave de ouro"
       }
     },
     {
       "id": "ch03-how-to-be-a-dunce",
       "title": {
-        "en-US": "How to Be a Dunce"
+        "en-US": "How to Be a Dunce",
+        "pt-BR": "Como ser um burro"
       }
     },
     {
       "id": "ch04-how-to-be-a-lunatic",
       "title": {
-        "en-US": "How to Be a Lunatic"
+        "en-US": "How to Be a Lunatic",
+        "pt-BR": "Como ser um lunático"
       }
     },
     {
       "id": "ch05-nationalism-and-notting-hill",
       "title": {
-        "en-US": "Nationalism and Notting Hill"
+        "en-US": "Nationalism and Notting Hill",
+        "pt-BR": "Nacionalismo e Notting Hill"
       }
     },
     {
       "id": "ch06-the-fantastic-suburb",
       "title": {
-        "en-US": "The Fantastic Suburb"
+        "en-US": "The Fantastic Suburb",
+        "pt-BR": "O subúrbio fantástico"
       }
     },
     {
       "id": "ch07-the-crime-of-orthodoxy",
       "title": {
-        "en-US": "The Crime of Orthodoxy"
+        "en-US": "The Crime of Orthodoxy",
+        "pt-BR": "O crime da ortodoxia"
       }
     },
     {
       "id": "ch08-figures-in-fleet-street",
       "title": {
-        "en-US": "Figures in Fleet Street"
+        "en-US": "Figures in Fleet Street",
+        "pt-BR": "Figuras da Fleet Street"
       }
     },
     {
       "id": "ch09-the-case-against-corruption",
       "title": {
-        "en-US": "The Case Against Corruption"
+        "en-US": "The Case Against Corruption",
+        "pt-BR": "O caso contra a corrupção"
       }
     },
     {
       "id": "ch10-friendship-and-foolery",
       "title": {
-        "en-US": "Friendship and Foolery"
+        "en-US": "Friendship and Foolery",
+        "pt-BR": "Amizade e extravagância"
       }
     },
     {
       "id": "ch11-the-shadow-of-the-sword",
       "title": {
-        "en-US": "The Shadow of the Sword"
+        "en-US": "The Shadow of the Sword",
+        "pt-BR": "A sombra da espada"
       }
     },
     {
       "id": "ch12-some-political-celebrities",
       "title": {
-        "en-US": "Some Political Celebrities"
+        "en-US": "Some Political Celebrities",
+        "pt-BR": "Algumas celebridades políticas"
       }
     },
     {
       "id": "ch13-some-literary-celebrities",
       "title": {
-        "en-US": "Some Literary Celebrities"
+        "en-US": "Some Literary Celebrities",
+        "pt-BR": "Algumas celebridades literárias"
       }
     },
     {
       "id": "ch14-portrait-of-a-friend",
       "title": {
-        "en-US": "Portrait of a Friend"
+        "en-US": "Portrait of a Friend",
+        "pt-BR": "Retrato de um amigo"
       }
     },
     {
       "id": "ch15-the-incomplete-traveller",
       "title": {
-        "en-US": "The Incomplete Traveller"
+        "en-US": "The Incomplete Traveller",
+        "pt-BR": "O viajante incompleto"
       }
     },
     {
       "id": "ch16-the-god-with-the-golden-key",
       "title": {
-        "en-US": "The God with the Golden Key"
+        "en-US": "The God with the Golden Key",
+        "pt-BR": "O Deus da chave de ouro"
       }
     }
   ]

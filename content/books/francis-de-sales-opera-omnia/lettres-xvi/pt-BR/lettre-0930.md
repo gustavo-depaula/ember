@@ -1,0 +1,25 @@
+# Carta CMXXX. À Senhora de Grandmaison
+
+*A parte da imaginação em nossas tristezas. — Os “pasquins” e o mundo; como se cura o mal da calúnia. — Uma palavra de São Gregório. As injúrias e o Crucifixo. — Para que serve uma revisão anual da alma; maneira de fazê-la. — As quedas graves e o progresso na devoção.*
+
+Annecy, por meados de novembro de 1613.
+
+Minha caríssima Irmã,
+
+Não tive a satisfação de ver o senhor de Rogemont, mas nem por isso deixo de saber que ficaste aflita por causa de certo pasquim que circulou por aí. E eu bem gostaria de carregar sempre tuas penas e teus trabalhos, ou ao menos ajudar-te a suportá-los; mas, já que a distância entre nossas moradas não permite que te socorra de outra maneira, peço a Nosso Senhor que seja o protetor de teu coração e dele expulse toda tristeza desordenada.
+
+Certamente, minha caríssima Irmã, a maior parte de nossos males é mais imaginária que real. Pensas que o mundo acredita nesses pasquins? Pode ser que alguns se entretenham com eles e que outros alimentem alguma suspeita; mas fica sabendo que, se nossa alma é boa e está bem resignada nas mãos de Nosso Senhor, toda espécie de ataques assim se desvanece ao vento como a fumaça, e quanto mais forte é o vento, mais depressa desaparecem. O mal da calúnia nunca se cura tão bem como quando fingimos ignorá-la, desprezando o desprezo e mostrando, por nossa firmeza, que estamos fora de seu alcance, sobretudo em matéria de pasquins; pois a calúnia que não tem pai nem mãe dispostos a reconhecê-la mostra que é ilegítima.
+
+Pois bem, minha caríssima Irmã, quero dizer-te uma palavra que São Gregório dirigia a um Bispo aflito (Cartas 4, nota 229): Ah!, dizia ele, se teu coração estivesse no Céu, os ventos da terra não o abalariam de modo algum. A quem renunciou ao mundo, nada do que se passa da parte do mundo pode fazer mal. Lança-te ao (sic)
+
+pé do Crucifixo e vê quantas injúrias ele recebe; suplica-lhe, pela doçura com que as recebeu, que te dê força para suportar essas pequenas parcelas que, como sua serva comprometida por juramento, te couberam em partilha. Bem-aventurados os pobres, pois serão ricos no Céu, uma vez que o reino lhes pertence (Mateus 5:3); e bem-aventurados os injuriados e caluniados (ibid., 11), pois serão honrados por Deus.
+
+Quanto ao mais, a revisão anual de nossas almas se faz, como entendes, para suprir por essa confissão as deficiências das confissões ordinárias, para nos estimular e exercitar numa humildade mais profunda, mas sobretudo para renovar, não os bons propósitos, mas as boas resoluções que devemos aplicar como remédios às inclinações, aos hábitos e às outras fontes de nossas ofensas às quais nos acharmos mais sujeitos. Ora, é verdade que seria mais conveniente fazer essa revisão diante daquele que já tivesse recebido a confissão geral, para que, pela consideração e comparação da vida anterior com a posterior, melhor se pudessem tomar as resoluções necessárias; e, sob todos os aspectos, isso seria mais desejável. Mas as almas que, como tu, não têm essa facilidade podem recorrer a algum outro confessor, o mais prudente e sábio que encontrarem.
+
+Quanto à tua segunda dificuldade, digo-te, minha caríssima Irmã, que não é de modo algum necessário, em tua revisão, indicar particularmente o número nem as circunstâncias miúdas de tuas faltas; basta dizer, em linhas gerais, quais são tuas principais quedas, quais teus particulares desarranjos de espírito, e não quantas vezes caíste neles, mas se estás muito sujeita e inclinada ao mal. Por exemplo: não deves investigar quantas vezes terás caído em cólera, pois talvez houvesse trabalho demais nisso; mas dirás simplesmente se estás sujeita a essa desordem, se, quando ela te acontece, permaneces envolvida nela por muito tempo, se isso se dá com muita amargura e violência e, enfim, quais são as ocasiões que mais frequentemente te provocam: se é o jogo, a altivez ou o orgulho, se é a melancolia ou a obstinação. Ora, isso fica dito como exemplo. E assim, em pouco tempo, terás terminado tua pequena revisão, sem muito atormentar nem tua memória nem teu tempo livre.
+
+Quanto à terceira dificuldade, algumas quedas em pecados mortais, contanto que não haja o propósito de neles permanecer nem um entorpecimento no mal, não impedem que se tenha progredido na devoção, a qual, embora se perca ao pecar mortalmente, se recupera, contudo, ao primeiro verdadeiro arrependimento que se tem do pecado, sobretudo, como digo, quando não se permaneceu por muito tempo nessa desgraça. De modo que essas revisões anuais são muito salutares aos espíritos que ainda são um pouco fracos; pois, embora as primeiras resoluções não os tenham firmado inteiramente, as segundas e terceiras os firmarão mais e, enfim, à força de se resolver muitas vezes, acaba-se ficando inteiramente resoluto. E não se deve de modo algum perder a coragem, mas, com uma santa humildade, olhar a própria fraqueza, acusá-la, pedir perdão e invocar o socorro do Céu (nota 235).
+
+………………………………………………………………..
+
+Revisto sobre o autógrafo conservado na Visitação de Mâcon.

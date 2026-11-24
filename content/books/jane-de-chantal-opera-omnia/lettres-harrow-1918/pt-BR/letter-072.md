@@ -1,0 +1,15 @@
+# Carta LXXII. À Madre Maria-Adriana Fichet, superiora em Rumilly
+
+Viva ✠ Jesus!
+
+ANNECY, 1627.
+
+[As primeiras linhas são ilegíveis.]
+
+Quanto às tuas tentações, desvia delas o pensamento e, nisso, faze violência a ti mesma, mas que seja uma violência suave e, contudo, firme. Essa firmeza temperada de brandura é, minha filha, o caminho para ti. Deus escondeu o prêmio da glória eterna na vitória sobre nós mesmos e em nossa mortificação, mas numa vitória e numa mortificação sempre acompanhadas de doçura; do contrário, com teu temperamento impetuoso, causarás sofrimento não só a ti mesma, mas também aos outros. Por isso, a doçura é um elemento importante no governo e, quando aliada à generosidade, vejo diariamente quanto ajuda e sustenta as almas. Conheces o amor muito especial que tenho por tua alma, e tua casa é para mim como um de nossos próprios dormitórios daqui. Falam de teu mosteiro como sendo infeliz e perguntam como é tão afligido. Não se deve falar de tal aflição como de uma desgraça, pois é um meio de dar glória a Deus: nenhuma de tuas Irmãs morreu sem que sua alma esteja a louvá-lo no Céu. Essa, caríssima filha, é a linguagem do mundo. A de Deus é bem diferente, pois, sempre que uma casa é visitada por uma tribulação que não o ofende, isso é um grande sinal de sua bênção sobre aquela comunidade. Continua, pois, a vigiar para que não haja nenhuma aspereza em tuas correções, pois a dureza não é conveniente nem frutuosa. Aqueles que têm outros a seu cargo geralmente não podem dizer com São Paulo: “Sou inocente de vosso sangue”,[^1] referindo-se às faltas que essas pessoas cometem. Pelo contrário, na maioria das vezes somos culpados não só de nossas próprias faltas, mas também das dos outros. Pois ou somos severos demais, ou indulgentes demais; ou corrigimos com aspereza, sem temperar nossas palavras com o açúcar da santa caridade, ou deixamos inteiramente de corrigir.
+
+Nada mais tenho a dizer, caríssima filha, senão que envio o dinheiro do hábito novo que fizeste para mim e te suplico que, na primeira oportunidade, me devolvas o antigo, que as irmãs guardaram. Nada me perturba mais do que essas manifestações exteriores de uma santidade imaginária em mim; são simplesmente laços que o demônio arma para me fazer cair na armadilha do orgulho. Já sou para mim mesma suficiente pedra de tropeço, sem que vós acrescenteis mais. Imploro a todas vós que não me sejais ocasião de tão perigosa tentação; e, se alguém tiver alguma coisa que me pertença, fará o favor de queimá-la. Prouvera a Deus que minhas irmãs me tratassem como mereço diante dele; então eu teria alguma esperança de, pelas humilhações, tornar-me aquilo que imaginam que sou. Mas esse contínuo fornecer-me tentações de vaidade é algo insuportável para mim. Digo-vos isso com dor no coração e lágrimas nos olhos. As boas N. e N. são muito felizes por terem tantas humilhações exteriores. Por causa delas, quero-lhes ainda mais bem e creio que, no juízo de Deus, tão diferente do dos homens, são ainda maiores em razão dessas humilhações.
+
+Tua, etc.
+
+[^1]: Atos 20:26.

@@ -1,0 +1,9 @@
+# Carta 1664. A Thomas Berthe, superior, em Roma
+
+De 10 de outubro de 1653.
+
+O Senhor Jolly me fez saber que está contente por ser provido do cargo de mestre do Saint-Esprit de Toul, mas que o Sr. Lambin não é desse parecer, dizendo que só se pode aceitar um benefício com a intenção de conservá-lo; o que é verdadeiro em certos casos, mas não neste: 1º porque o referido Sr. Jolly é membro do corpo ao qual cederá seu direito, e desse modo o conservará de alguma maneira; e, em segundo lugar, trata-se de um bem maior, que a Igreja não pretende impedir quando os santos cânones proíbem receber um benefício sem a intenção de conservá-lo; pelo contrário, essa proibição é feita muito a propósito para evitar abusos. Ora, é certo que há mais bem a esperar da união dessa casa a uma comunidade do que se a mesma casa pertencesse a um particular. Por isso, os doutores daqui são de parecer que um particular pode receber um benefício com a intenção de depois renunciar a ele para que seja unido a uma companhia bem regrada, em vista de um bem maior, contanto que isso não entre em pacto com aquele que lhe dá o benefício e que, depois de aceitá-lo, permaneça livre para conservá-lo ou renunciar a ele. Ora, o Sr. Jolly terá essa liberdade, tanto de nossa parte como da do Sr. Platel, que lhe fará a cessão sem condição alguma, e não queremos obrigá-lo, ao aceitá-lo, a dispor dele de outra maneira senão como lhe aprouver e segundo as luzes que Deus lhe der então. Peço-vos que consulteis os jesuítas daí sobre isso. [^1] [^2]
+
+[^1]: Reg. 2, p. 233.
+
+[^2]: Jean Dehorgny, anteriormente superior em Roma, acabava de ser chamado de volta a Paris, onde chegou no último dia do ano. (Cf. cartas 1677 e 1693.) Thomas Berthe, que exercia as funções de procurador-geral da companhia junto à Santa Sé, estava naturalmente indicado para suceder-lhe.

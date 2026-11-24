@@ -1,0 +1,9 @@
+# Carta 1966. Edme Jolly, superior em Roma, a São Vicente
+
+[Roma, novembro de 1655] [^1]
+
+Começarei esta carta com o muito humilde pedido que vossas últimas cartas me dão ocasião de vos fazer, que é suplicar-vos muito humildemente, Senhor, com todo o respeito que me é possível, que nada me atribuais do bom andamento dos negócios da companhia, porque, se eu tivesse tempo de vos dizer as faltas que cometi ao tratar deles, veríeis bem que não mereço louvor algum. É fácil ver que o que se fez de bom em nosso principal assunto foi o próprio Deus quem o fez, e a companhia está e estará eternamente obrigada a uma gratidão muito particular para com Sua Santidade e também para com os cardeais, prelados e doutores aos quais foi confiado o exame de nossa súplica. Mas que ações de graças daremos por isso a Deus, e quais à Santíssima Virgem, cuja assistência sentimos tão palpavelmente! Vistes, Senhor, que o próprio Deus quis fazer de nosso assunto o seu, apesar das poderosas oposições que se levantavam contra ele, das quais sua divina Providência se serviu, assim como das grandes faltas que cometi, para realizar a coisa com mais vantagem e em menos tempo. Foi o que reconheceram e reconhecem aqueles que tiveram conhecimento desse assunto, com louvor e admiração da providência de Deus, que assim mostrou que o fortalecimento da companhia vinha dele e não era de invenção humana. Oh! Bem-aventurados seremos se permanecermos sempre bem persuadidos dessa verdade, e de que o mesmo se dá com as outras regras e práticas da companhia! Queira a divina misericórdia que o conhecimento particular que disso me deu o trato desse assunto não sirva para minha condenação no julgamento de minha pobre alma! [^2]
+
+[^1]: Esta carta responde à carta 1948, que é de 22 de outubro de 1655.
+
+[^2]: Notícia manuscrita de Edme Jolly, p. 20. (Cf. *Notices*, t. III, p. 397.)

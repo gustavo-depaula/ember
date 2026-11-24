@@ -13,17 +13,23 @@
   "description": {
     "fr-FR": "Premier volume de l’Année liturgique : la préface générale, l’histoire, le mystère et la pratique de l’Avent, les prières du matin et du soir, de la messe et des offices, puis le Propre du temps et le Propre des saints, jour après jour.",
     "en-US": "Volume 1 of the 15-volume Liturgical Year (L’Année liturgique) in the original French: Advent. One chapter per day or feast, with the liturgical texts in Latin and French as the edition prints them.",
-    "pt-BR": "Volume 1 dos 15 volumes de «O Ano Litúrgico» (L’Année liturgique) em francês: o Advento. Um capítulo por dia ou festa, com os textos litúrgicos em latim e francês como a edição os imprime."
+    "pt-BR": "Volume 1 dos 15 volumes de «O Ano Litúrgico» (L’Année liturgique) traduzido do francês para o português: o Advento. Um capítulo por dia ou festa, com os textos litúrgicos em latim e português."
   },
   "composed": 1841,
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "gueranger/annee-liturgique",
   "editions": {
     "fr-FR": {
       "editor": "Dom Prosper Guéranger, abbé de Solesmes (14th ed., Oudin)",
       "year": 1900
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -64,421 +70,491 @@
     {
       "id": "001-preface-generale",
       "title": {
-        "fr-FR": "Préface générale"
+        "fr-FR": "Préface générale",
+        "pt-BR": "Prefácio geral"
       }
     },
     {
       "id": "002-chapitre-premier-historique-de-lavent",
       "title": {
-        "fr-FR": "Chapitre premier — Historique de l’Avent"
+        "fr-FR": "Chapitre premier — Historique de l’Avent",
+        "pt-BR": "Capítulo primeiro — História do Advento"
       }
     },
     {
       "id": "003-chapitre-ii-mystique-de-lavent",
       "title": {
-        "fr-FR": "Chapitre II — Mystique de l’Avent"
+        "fr-FR": "Chapitre II — Mystique de l’Avent",
+        "pt-BR": "Capítulo II — Mística do Advento"
       }
     },
     {
       "id": "004-chapitre-iii-pratique-de-lavent",
       "title": {
-        "fr-FR": "Chapitre III — Pratique de l’Avent"
+        "fr-FR": "Chapitre III — Pratique de l’Avent",
+        "pt-BR": "Capítulo III — Prática do Advento"
       }
     },
     {
       "id": "005-chapitre-iv-prieres-du-matin-et-du-soir-au-temps",
       "title": {
-        "fr-FR": "Chapitre IV — Prières du matin et du soir au temps de l’Avent"
+        "fr-FR": "Chapitre IV — Prières du matin et du soir au temps de l’Avent",
+        "pt-BR": "Capítulo IV — Orações da manhã e da noite no tempo do Advento"
       }
     },
     {
       "id": "006-chapitre-v-de-lassistance-a-la-sainte-messe-au-t",
       "title": {
-        "fr-FR": "Chapitre V — De l’assistance à la Sainte Messe au temps de l’Avent"
+        "fr-FR": "Chapitre V — De l’assistance à la Sainte Messe au temps de l’Avent",
+        "pt-BR": "Capítulo V — Da participação na Santa Missa no tempo do Advento"
       }
     },
     {
       "id": "007-chapitre-vi-pratique-de-la-sainte-communion-au-t",
       "title": {
-        "fr-FR": "Chapitre VI — Pratique de la Sainte Communion au temps de l’Avent"
+        "fr-FR": "Chapitre VI — Pratique de la Sainte Communion au temps de l’Avent",
+        "pt-BR": "Capítulo VI — Prática da Santa Comunhão no tempo do Advento"
       }
     },
     {
       "id": "008-chapitre-vii-de-loffice-des-vepres-des-dimanches",
       "title": {
-        "fr-FR": "Chapitre VII — De l’office des vêpres des dimanches et des fêtes, au temps de l’Avent"
+        "fr-FR": "Chapitre VII — De l’office des vêpres des dimanches et des fêtes, au temps de l’Avent",
+        "pt-BR": "Capítulo VII — Do ofício de vésperas dos domingos e das festas no tempo do Advento"
       }
     },
     {
       "id": "009-chapitre-viii-de-loffice-de-complies-au-temps-de",
       "title": {
-        "fr-FR": "Chapitre VIII — De l’office de complies, au temps de l’Avent"
+        "fr-FR": "Chapitre VIII — De l’office de complies, au temps de l’Avent",
+        "pt-BR": "Capítulo VIII — Do ofício de completas no tempo do Advento"
       }
     },
     {
       "id": "010-propre-du-temps-de-lavent",
       "title": {
-        "fr-FR": "Propre du temps de l’Avent"
+        "fr-FR": "Propre du temps de l’Avent",
+        "pt-BR": "Próprio do tempo do Advento"
       }
     },
     {
       "id": "011-le-premier-dimanche-de-lavent",
       "title": {
-        "fr-FR": "Le premier dimanche de l’Avent"
+        "fr-FR": "Le premier dimanche de l’Avent",
+        "pt-BR": "O primeiro domingo do Advento"
       }
     },
     {
       "id": "012-le-lundi-de-la-premiere-semaine-de-lavent",
       "title": {
-        "fr-FR": "Le lundi de la première semaine de l’Avent"
+        "fr-FR": "Le lundi de la première semaine de l’Avent",
+        "pt-BR": "A segunda-feira da primeira semana do Advento"
       }
     },
     {
       "id": "013-le-mardi-de-la-premiere-semaine-de-lavent",
       "title": {
-        "fr-FR": "Le mardi de la première semaine de l’Avent"
+        "fr-FR": "Le mardi de la première semaine de l’Avent",
+        "pt-BR": "A terça-feira da primeira semana do Advento"
       }
     },
     {
       "id": "014-le-mercredi-de-la-premiere-semaine-de-lavent",
       "title": {
-        "fr-FR": "Le mercredi de la première semaine de l’Avent"
+        "fr-FR": "Le mercredi de la première semaine de l’Avent",
+        "pt-BR": "A quarta-feira da primeira semana do Advento"
       }
     },
     {
       "id": "015-le-jeudi-de-la-premiere-semaine-de-lavent",
       "title": {
-        "fr-FR": "Le jeudi de la première semaine de l’Avent"
+        "fr-FR": "Le jeudi de la première semaine de l’Avent",
+        "pt-BR": "A quinta-feira da primeira semana do Advento"
       }
     },
     {
       "id": "016-le-vendredi-de-la-premiere-semaine-de-lavent",
       "title": {
-        "fr-FR": "Le vendredi de la première semaine de l’Avent"
+        "fr-FR": "Le vendredi de la première semaine de l’Avent",
+        "pt-BR": "A sexta-feira da primeira semana do Advento"
       }
     },
     {
       "id": "017-le-samedi-de-la-premiere-semaine-de-lavent",
       "title": {
-        "fr-FR": "Le samedi de la première semaine de l’Avent"
+        "fr-FR": "Le samedi de la première semaine de l’Avent",
+        "pt-BR": "O sábado da primeira semana do Advento"
       }
     },
     {
       "id": "018-le-deuxieme-dimanche-de-lavent",
       "title": {
-        "fr-FR": "Le deuxième dimanche de l’Avent"
+        "fr-FR": "Le deuxième dimanche de l’Avent",
+        "pt-BR": "O segundo domingo do Advento"
       }
     },
     {
       "id": "019-le-lundi-de-la-deuxieme-semaine-de-lavent",
       "title": {
-        "fr-FR": "Le lundi de la deuxième semaine de l’Avent"
+        "fr-FR": "Le lundi de la deuxième semaine de l’Avent",
+        "pt-BR": "A segunda-feira da segunda semana do Advento"
       }
     },
     {
       "id": "020-le-mardi-de-la-deuxieme-semaine-de-lavent",
       "title": {
-        "fr-FR": "Le mardi de la deuxième semaine de l’Avent"
+        "fr-FR": "Le mardi de la deuxième semaine de l’Avent",
+        "pt-BR": "A terça-feira da segunda semana do Advento"
       }
     },
     {
       "id": "021-le-mercredi-de-la-deuxieme-semaine-de-lavent",
       "title": {
-        "fr-FR": "Le mercredi de la deuxième semaine de l’Avent"
+        "fr-FR": "Le mercredi de la deuxième semaine de l’Avent",
+        "pt-BR": "A quarta-feira da segunda semana do Advento"
       }
     },
     {
       "id": "022-le-jeudi-de-la-deuxieme-semaine-de-lavent",
       "title": {
-        "fr-FR": "Le jeudi de la deuxième semaine de l’Avent"
+        "fr-FR": "Le jeudi de la deuxième semaine de l’Avent",
+        "pt-BR": "A quinta-feira da segunda semana do Advento"
       }
     },
     {
       "id": "023-le-vendredi-de-la-deuxieme-semaine-de-lavent",
       "title": {
-        "fr-FR": "Le vendredi de la deuxième semaine de l’Avent"
+        "fr-FR": "Le vendredi de la deuxième semaine de l’Avent",
+        "pt-BR": "A sexta-feira da segunda semana do Advento"
       }
     },
     {
       "id": "024-le-samedi-de-la-deuxieme-semaine-de-lavent",
       "title": {
-        "fr-FR": "Le samedi de la deuxième semaine de l’Avent"
+        "fr-FR": "Le samedi de la deuxième semaine de l’Avent",
+        "pt-BR": "O sábado da segunda semana do Advento"
       }
     },
     {
       "id": "025-le-troisieme-dimanche-de-lavent",
       "title": {
-        "fr-FR": "Le troisième dimanche de l’Avent"
+        "fr-FR": "Le troisième dimanche de l’Avent",
+        "pt-BR": "O terceiro domingo do Advento"
       }
     },
     {
       "id": "026-le-lundi-de-la-troisieme-semaine-de-lavent",
       "title": {
-        "fr-FR": "Le lundi de la troisième semaine de l’Avent"
+        "fr-FR": "Le lundi de la troisième semaine de l’Avent",
+        "pt-BR": "A segunda-feira da terceira semana do Advento"
       }
     },
     {
       "id": "027-le-mardi-de-la-troisieme-semaine-de-lavent",
       "title": {
-        "fr-FR": "Le mardi de la troisième semaine de l’Avent"
+        "fr-FR": "Le mardi de la troisième semaine de l’Avent",
+        "pt-BR": "A terça-feira da terceira semana do Advento"
       }
     },
     {
       "id": "028-le-mercredi-des-quatre-temps",
       "title": {
-        "fr-FR": "Le mercredi des Quatre-Temps"
+        "fr-FR": "Le mercredi des Quatre-Temps",
+        "pt-BR": "A quarta-feira das Têmporas"
       }
     },
     {
       "id": "029-le-jeudi-de-la-troisieme-semaine-de-lavent",
       "title": {
-        "fr-FR": "Le jeudi de la troisième semaine de l’Avent"
+        "fr-FR": "Le jeudi de la troisième semaine de l’Avent",
+        "pt-BR": "A quinta-feira da terceira semana do Advento"
       }
     },
     {
       "id": "030-le-vendredi-des-quatre-temps",
       "title": {
-        "fr-FR": "Le vendredi des Quatre-Temps"
+        "fr-FR": "Le vendredi des Quatre-Temps",
+        "pt-BR": "A sexta-feira das Têmporas"
       }
     },
     {
       "id": "031-le-samedi-des-quatre-temps",
       "title": {
-        "fr-FR": "Le samedi des Quatre-Temps"
+        "fr-FR": "Le samedi des Quatre-Temps",
+        "pt-BR": "O sábado das Têmporas"
       }
     },
     {
       "id": "032-le-quatrieme-dimanche-de-lavent",
       "title": {
-        "fr-FR": "Le quatrième dimanche de l’Avent"
+        "fr-FR": "Le quatrième dimanche de l’Avent",
+        "pt-BR": "O quarto domingo do Advento"
       }
     },
     {
       "id": "033-le-lundi-de-la-quatrieme-semaine-de-lavent",
       "title": {
-        "fr-FR": "Le lundi de la quatrième semaine de l’Avent"
+        "fr-FR": "Le lundi de la quatrième semaine de l’Avent",
+        "pt-BR": "A segunda-feira da quarta semana do Advento"
       }
     },
     {
       "id": "034-le-mardi-de-la-quatrieme-semaine-de-lavent",
       "title": {
-        "fr-FR": "Le mardi de la quatrième semaine de l’Avent"
+        "fr-FR": "Le mardi de la quatrième semaine de l’Avent",
+        "pt-BR": "A terça-feira da quarta semana do Advento"
       }
     },
     {
       "id": "035-le-mercredi-de-la-quatrieme-semaine-de-lavent",
       "title": {
-        "fr-FR": "Le mercredi de la quatrième semaine de l’Avent"
+        "fr-FR": "Le mercredi de la quatrième semaine de l’Avent",
+        "pt-BR": "A quarta-feira da quarta semana do Advento"
       }
     },
     {
       "id": "036-le-jeudi-de-la-quatrieme-semaine-de-lavent",
       "title": {
-        "fr-FR": "Le jeudi de la quatrième semaine de l’Avent"
+        "fr-FR": "Le jeudi de la quatrième semaine de l’Avent",
+        "pt-BR": "A quinta-feira da quarta semana do Advento"
       }
     },
     {
       "id": "037-le-vendredi-de-la-quatrieme-semaine-de-lavent",
       "title": {
-        "fr-FR": "Le vendredi de la quatrième semaine de l’Avent"
+        "fr-FR": "Le vendredi de la quatrième semaine de l’Avent",
+        "pt-BR": "A sexta-feira da quarta semana do Advento"
       }
     },
     {
       "id": "038-propre-des-saints-de-lavent",
       "title": {
-        "fr-FR": "Propre des saints de l’Avent"
+        "fr-FR": "Propre des saints de l’Avent",
+        "pt-BR": "Próprio dos santos do Advento"
       }
     },
     {
       "id": "039-30-novembre-saint-andre-apotre",
       "title": {
-        "fr-FR": "30 novembre — Saint André, Apôtre"
+        "fr-FR": "30 novembre — Saint André, Apôtre",
+        "pt-BR": "30 de novembro — Santo André, Apóstolo"
       }
     },
     {
       "id": "040-1er-decembre",
       "title": {
-        "fr-FR": "1er décembre"
+        "fr-FR": "1er décembre",
+        "pt-BR": "1º de dezembro"
       }
     },
     {
       "id": "041-2-decembre-sainte-bibiane-vierge-et-martyre",
       "title": {
-        "fr-FR": "2 décembre — Sainte Bibiane, vierge et martyre"
+        "fr-FR": "2 décembre — Sainte Bibiane, vierge et martyre",
+        "pt-BR": "2 de dezembro — Santa Bibiana, virgem e mártir"
       }
     },
     {
       "id": "042-3-decembre-saint-francois-xavier-confesseur-apot",
       "title": {
-        "fr-FR": "3 décembre — Saint François-Xavier, confesseur, apôtre des Indes"
+        "fr-FR": "3 décembre — Saint François-Xavier, confesseur, apôtre des Indes",
+        "pt-BR": "3 de dezembro — São Francisco Xavier, confessor, apóstolo das Índias"
       }
     },
     {
       "id": "043-4-decembre-saint-pierre-chrysologue-eveque-et-do",
       "title": {
-        "fr-FR": "4 décembre — Saint Pierre Chrysologue, évêque et Docteur de l’Église"
+        "fr-FR": "4 décembre — Saint Pierre Chrysologue, évêque et Docteur de l’Église",
+        "pt-BR": "4 de dezembro — São Pedro Crisólogo, bispo e Doutor da Igreja"
       }
     },
     {
       "id": "044-4-decembre-sainte-barbe-vierge-et-martyre",
       "title": {
-        "fr-FR": "4 décembre — Sainte Barbe, vierge et martyre"
+        "fr-FR": "4 décembre — Sainte Barbe, vierge et martyre",
+        "pt-BR": "4 de dezembro — Santa Bárbara, virgem e mártir"
       }
     },
     {
       "id": "045-5-decembre-memoire-de-saint-sabbas-abbe",
       "title": {
-        "fr-FR": "5 décembre — Mémoire de Saint Sabbas, Abbé"
+        "fr-FR": "5 décembre — Mémoire de Saint Sabbas, Abbé",
+        "pt-BR": "5 de dezembro — Memória de São Sabas, Abade"
       }
     },
     {
       "id": "046-6-decembre-saint-nicolas-eveque-de-myre-et-confe",
       "title": {
-        "fr-FR": "6 décembre — Saint Nicolas, évêque de Myre et confesseur"
+        "fr-FR": "6 décembre — Saint Nicolas, évêque de Myre et confesseur",
+        "pt-BR": "6 de dezembro — São Nicolau, bispo de Mira e confessor"
       }
     },
     {
       "id": "047-7-decembre-saint-ambroise-eveque-et-docteur-de-l",
       "title": {
-        "fr-FR": "7 décembre — Saint Ambroise, évêque et Docteur de l’Église"
+        "fr-FR": "7 décembre — Saint Ambroise, évêque et Docteur de l’Église",
+        "pt-BR": "7 de dezembro — Santo Ambrósio, bispo e Doutor da Igreja"
       }
     },
     {
       "id": "048-8-decembre-limmaculee-conception-de-la-tres-sain",
       "title": {
-        "fr-FR": "8 décembre — L’Immaculée Conception de la Très Sainte Vierge"
+        "fr-FR": "8 décembre — L’Immaculée Conception de la Très Sainte Vierge",
+        "pt-BR": "8 de dezembro — A Imaculada Conceição da Santíssima Virgem"
       }
     },
     {
       "id": "049-9-decembre-deuxieme-jour-dans-loctave-de-limmacu",
       "title": {
-        "fr-FR": "9 décembre — Deuxième jour dans l’octave de l’Immaculée Conception"
+        "fr-FR": "9 décembre — Deuxième jour dans l’octave de l’Immaculée Conception",
+        "pt-BR": "9 de dezembro — Segundo dia na oitava da Imaculada Conceição"
       }
     },
     {
       "id": "050-10-decembre-3e-jour-dans-loctave-de-limmaculee-c",
       "title": {
-        "fr-FR": "10 décembre — 3e jour dans l’octave de l’Immaculée Conception"
+        "fr-FR": "10 décembre — 3e jour dans l’octave de l’Immaculée Conception",
+        "pt-BR": "10 de dezembro — 3º dia na oitava da Imaculada Conceição"
       }
     },
     {
       "id": "051-10-decembre-saint-melchiade-pape-et-martyr",
       "title": {
-        "fr-FR": "10 décembre — Saint Melchiade, pape et martyr"
+        "fr-FR": "10 décembre — Saint Melchiade, pape et martyr",
+        "pt-BR": "10 de dezembro — São Melquíades, papa e mártir"
       }
     },
     {
       "id": "052-10-decembre-la-translation-de-la-sainte-maison-d",
       "title": {
-        "fr-FR": "10 décembre — La Translation de la Sainte Maison de Lorette"
+        "fr-FR": "10 décembre — La Translation de la Sainte Maison de Lorette",
+        "pt-BR": "10 de dezembro — A Trasladação da Santa Casa de Loreto"
       }
     },
     {
       "id": "053-10-decembre-sainte-eulalie-vierge-et-martyre",
       "title": {
-        "fr-FR": "10 décembre — Sainte Eulalie, vierge et martyre"
+        "fr-FR": "10 décembre — Sainte Eulalie, vierge et martyre",
+        "pt-BR": "10 de dezembro — Santa Eulália, virgem e mártir"
       }
     },
     {
       "id": "054-11-decembre-saint-damase-pape-et-confesseur",
       "title": {
-        "fr-FR": "11 décembre — Saint Damase, Pape et Confesseur"
+        "fr-FR": "11 décembre — Saint Damase, Pape et Confesseur",
+        "pt-BR": "11 de dezembro — São Dâmaso, Papa e Confessor"
       }
     },
     {
       "id": "055-12-decembre-5e-jour-dans-loctave-de-limmaculee-c",
       "title": {
-        "fr-FR": "12 décembre — 5e jour dans l’octave de l’Immaculee Conception"
+        "fr-FR": "12 décembre — 5e jour dans l’octave de l’Immaculee Conception",
+        "pt-BR": "12 de dezembro — 5º dia na oitava da Imaculada Conceição"
       }
     },
     {
       "id": "056-13-decembre-sainte-lucie-vierge-et-martyre",
       "title": {
-        "fr-FR": "13 décembre — Sainte Lucie, vierge et martyre"
+        "fr-FR": "13 décembre — Sainte Lucie, vierge et martyre",
+        "pt-BR": "13 de dezembro — Santa Luzia, virgem e mártir"
       }
     },
     {
       "id": "057-le-meme-jour-sainte-odile-vierge-et-abbesse",
       "title": {
-        "fr-FR": "Le même jour. Sainte Odile, vierge et Abbesse"
+        "fr-FR": "Le même jour. Sainte Odile, vierge et Abbesse",
+        "pt-BR": "No mesmo dia. Santa Odília, virgem e Abadessa"
       }
     },
     {
       "id": "058-14-decembre-7e-jour-dans-loctave-de-limmaculee-c",
       "title": {
-        "fr-FR": "14 décembre — 7e jour dans l’octave de l’Immaculée Conception"
+        "fr-FR": "14 décembre — 7e jour dans l’octave de l’Immaculée Conception",
+        "pt-BR": "14 de dezembro — 7º dia na oitava da Imaculada Conceição"
       }
     },
     {
       "id": "059-15-decembre-octave-de-limmaculee-conception-de-l",
       "title": {
-        "fr-FR": "15 décembre — Octave de l’Immaculée Conception de la Sainte Vierge"
+        "fr-FR": "15 décembre — Octave de l’Immaculée Conception de la Sainte Vierge",
+        "pt-BR": "15 de dezembro — Oitava da Imaculada Conceição da Santa Virgem"
       }
     },
     {
       "id": "060-16-decembre-saint-eusebe-eveque-de-verceil-et-ma",
       "title": {
-        "fr-FR": "16 décembre — Saint Eusèbe, évêque de Verceil et martyr"
+        "fr-FR": "16 décembre — Saint Eusèbe, évêque de Verceil et martyr",
+        "pt-BR": "16 de dezembro — Santo Eusébio, bispo de Vercelli e mártir"
       }
     },
     {
       "id": "061-17-decembre-commencement-des-grandes-antiennes",
       "title": {
-        "fr-FR": "17 décembre — Commencement des grandes antiennes"
+        "fr-FR": "17 décembre — Commencement des grandes antiennes",
+        "pt-BR": "17 de dezembro — Início das grandes antífonas"
       }
     },
     {
       "id": "062-18-decembre-iie-antienne",
       "title": {
-        "fr-FR": "18 décembre — IIe antienne"
+        "fr-FR": "18 décembre — IIe antienne",
+        "pt-BR": "18 de dezembro — II antífona"
       }
     },
     {
       "id": "063-18-decembre-lexpectation-de-lenfantement-de-la-s",
       "title": {
-        "fr-FR": "18 décembre — L’expectation de l’enfantement de la Sainte Vierge"
+        "fr-FR": "18 décembre — L’expectation de l’enfantement de la Sainte Vierge",
+        "pt-BR": "18 de dezembro — A Expectação do parto da Santa Virgem"
       }
     },
     {
       "id": "064-19-decembre-iiie-antienne",
       "title": {
-        "fr-FR": "19 décembre — IIIe antienne"
+        "fr-FR": "19 décembre — IIIe antienne",
+        "pt-BR": "19 de dezembro — III antífona"
       }
     },
     {
       "id": "065-20-decembre-ive-antienne",
       "title": {
-        "fr-FR": "20 décembre — IVe antienne"
+        "fr-FR": "20 décembre — IVe antienne",
+        "pt-BR": "20 de dezembro — IV antífona"
       }
     },
     {
       "id": "066-21-decembre",
       "title": {
-        "fr-FR": "21 décembre"
+        "fr-FR": "21 décembre",
+        "pt-BR": "21 de dezembro"
       }
     },
     {
       "id": "067-21-decembre-ve-antienne",
       "title": {
-        "fr-FR": "21 décembre — Ve antienne"
+        "fr-FR": "21 décembre — Ve antienne",
+        "pt-BR": "21 de dezembro — V antífona"
       }
     },
     {
       "id": "068-22-decembre-vie-antienne",
       "title": {
-        "fr-FR": "22 décembre — VIe antienne"
+        "fr-FR": "22 décembre — VIe antienne",
+        "pt-BR": "22 de dezembro — VI antífona"
       }
     },
     {
       "id": "069-23-decembre",
       "title": {
-        "fr-FR": "23 décembre"
+        "fr-FR": "23 décembre",
+        "pt-BR": "23 de dezembro"
       }
     },
     {
       "id": "070-24-decembre-la-vigile-de-noel",
       "title": {
-        "fr-FR": "24 décembre — La vigile de Noël"
+        "fr-FR": "24 décembre — La vigile de Noël",
+        "pt-BR": "24 de dezembro — A vigília do Natal"
       }
     }
   ]

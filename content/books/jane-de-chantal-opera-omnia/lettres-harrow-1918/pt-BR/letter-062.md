@@ -1,0 +1,11 @@
+# Carta LXII. À Madre Ana-Catarina de Beaumont, superiora do Primeiro Mosteiro de Paris
+
+Viva ✠ Jesus!
+
+ANNECY,
+
+_6 de janeiro de 1626._
+
+Louvado seja nosso bom Deus! Asseguro-te, minha caríssima filha, que foi uma grande consolação ler tua carta e ver o estado de teu bom coração, no qual percebo que a Bondade divina derrama muitas luzes santas e proveitosas, que sabes aproveitar bem. Esses pensamentos merecem ser anotados; são belos e constituem grandes graças da misericórdia divina. O mesmo se dá com essa diversidade de estados em que continuamente te encontras, pois ela mantém a alma mais desapegada e mais simplesmente unida ao seu Deus, em quem consiste toda a sua felicidade. Vejo também que não te falta sofrimento. O sofrimento é o cadinho em que Nosso Senhor deseja te purificar inteiramente. Tua correspondência interior deve consistir toda numa simples entrega de ti mesma, num completo abandono de ti; e, quanto ao exterior, em humildade, submissão e mansidão. E te suplico que, mesmo quando as luzes interiores superabundarem, não deixes de buscar conselho, preferindo, tanto quanto possível, as opiniões dos outros às tuas. Esse é um dos principais frutos daquela santíssima humildade que deve inspirar todas as nossas ações. Na verdade, se tua carta tivesse o dobro do tamanho, seria apenas ainda mais bem-vinda. Que Deus me conceda a graça de tirar proveito dela! Embora, em minha indignidade, eu não possa caminhar por uma via tão elevada e excelente, espero, ainda assim, que ela me faça bem.
+
+Fico muito contente por teres recebido aquelas duas boas candidatas, e te agradeço de todo o coração por nossa pequena Adriana. É bem verdade que nosso querido Arcebispo de Bourges cresce a cada dia em piedade e devoção, que me parecem autênticas, pois vêm acompanhadas de tanta humildade, mansidão de coração e desapego das coisas da terra. Rezaremos muito especialmente pelo bom Sr. de N. É uma pessoa por quem sempre tenho grande consideração, assim como pelo Reverendo Padre Superior. Envio a ambos minhas respeitosas saudações. Conserva-te muito humilde, minha caríssima filha, e considera-te muito indigna das graças de Deus, pois esse pequeno recuo as atrairá ainda mais sobre ti. Peço diariamente à sua Bondade que aumente essas graças em tua alma, que amo mais do que posso expressar.

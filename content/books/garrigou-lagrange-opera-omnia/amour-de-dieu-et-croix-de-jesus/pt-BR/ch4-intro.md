@@ -1,0 +1,25 @@
+# Introdução
+
+OU
+
+Ao falar da mortificação ou purificação ativa que devemos impor a nós mesmos, dissemos que ela é necessária por quatro grandes motivos principais: 1º para corrigir o que há de desordenado nas consequências do pecado original que subsistem no batizado; 2º para destruir as consequências de nossos pecados pessoais e reparar a ofensa feita a Deus; 3º para impedir que nossa “atividade natural” se extravie, desenvolvendo-se em detrimento da vida da graça e perdendo de vista a elevação infinita de nosso fim sobrenatural; 4º enfim, para imitar Jesus crucificado e trabalhar com ele pela salvação das almas.
+
+Esse quarto motivo nos é indicado pelo próprio Nosso Senhor, quando nos diz: “Se alguém quer vir após mim, renuncie a si mesmo, carregue sua cruz cada dia e me siga (1).” São Lucas, ao relatar essas palavras, observa que Jesus, ao dizê-las, “se dirigia a todos”. Com efeito, não basta mortificar-se a si mesmo; é preciso ainda carregar pacientemente a cruz que Deus nos envia, para nos purificar, para nos marcar com a efígie do Salvador e continuar, em certo sentido, com ele, por ele e nele, o mistério da redenção, que dura até o fim dos tempos.
+
+O que a linguagem cristã chama de cruz, por analogia com os sofrimentos e a morte de Nosso Senhor, são as penas cotidianas físicas e morais que nascem de nossas relações com o mundo exterior e com nossos semelhantes, mas são sobretudo os sofrimentos enviados mais diretamente por Deus, para nos tornar mais
+
+semelhantes ao Cristo Jesus, que teve de ser “obediente até a morte da Cruz” para o resgate da humanidade. “*Sicut mandatum dedit mihi Pater, sic facio*. Ajo segundo o mandamento que meu Pai me deu” (João 14:31). É até aí que todo cristão, cada um segundo sua condição, deve seguir o divino Mestre.
+
+A necessidade da cruz se impõe a nós, com efeito, por duas razões principais. A primeira é que trazemos em nós as raízes de um mal muitas vezes mais profundo do que pensamos, e não sabemos suficientemente onde se encontram em nós esses germes de morte. Mesmo quando nos mortificamos e fizemos sérios esforços para sermos regulares e fervorosos, restam em nós muitos defeitos inconscientes, que são outras tantas formas do egoísmo nas próprias coisas da piedade, do estudo, do apostolado: açodamento natural, sensualidade espiritual, orgulho espiritual ou intelectual, juízo próprio, vontade própria, que impedem o reino de Deus de se estabelecer profundamente em nós e nos afastam da união divina. Que distância entre a regularidade, mesmo acompanhada de certo fervor, e a verdadeira santidade! Essa distância é vencida pela cruz carregada pacientemente por amor. O Senhor sabe melhor que nós onde está nosso mal; envia-nos mensageiros que vêm dizer-nos, nem sempre muito caridosamente, nossas verdades e tocar-nos no ponto mais delicado. Ele próprio vem, quando é necessário, aplicar o ferro e o fogo às nossas chagas, para arrancar ou queimar os princípios de corrupção que nos impedem de ser a imagem viva de seu Filho.
+
+A segunda razão pela qual a cruz se impõe a nós tem uma relação ainda mais íntima com nossos dois grandes modelos: Jesus e Maria não tinham necessidade de ser purificados, mas tiveram de sofrer por nossa redenção. Nisso também é preciso imitá-los. À medida que nos tornamos mais intimamente unidos a Nosso Senhor, nós
+
+devemos ser associados a ele em sua obra redentora, e o principal meio de que ele próprio se serviu para resgatar o mundo é a Cruz, manifestação suprema de seu amor por seu Pai e por nós.
+
+Por conseguinte, e a vida de todos os santos nos mostra isso, a necessidade da cruz é proporcional à purificação de que as almas precisam e ao grau de união com Cristo Jesus, de vida apostólica e reparadora, ao qual Deus quer eficazmente conduzi-las. Certas almas, que permaneceram perfeitamente inocentes desde a infância, têm menos necessidade de purificação; outras, embora já muito puras, vivem em meio a sofrimentos quase contínuos, porque Nosso Senhor as chama a uma perfeição incomparavelmente mais alta que aquela com que se contentam muitos cristãos facilmente satisfeitos. Quanto mais Deus nos ama, mais pesadas são as cruzes que nos envia e mais se assemelham à de Cristo Jesus e de sua santa Mãe.
+
+Para carregar pacientemente a própria cruz, é preciso compreendê-la, ver para onde tende; é preciso carregá-la na luz, por amor a Nosso Senhor. Para isso, convém conhecer as diferentes maneiras pelas quais Deus geralmente prova as almas.
+
+Há as cruzes que têm por fim purificar nossa sensibilidade, submetê-la ao espírito: são frequentes, comuns a muitos, sobretudo aos principiantes. Depois há as cruzes do espírito, que têm por fim sobrenaturalizá-lo cada vez mais, submetê-lo plenamente a Deus: são a parte de um pequeno número, das almas já adiantadas,
+
+Convém falar desses dois gêneros de provações, frequentemente chamados pelos autores espirituais de purificações passivas dos sentidos e purificações passivas do espírito, determinar o que há de essencial em cada uma e quais são as provações concomitantes. Ver-se-á assim por que essa dupla purificação passiva é necessária para chegar à plena perfeição da vida cristã,

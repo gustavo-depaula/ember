@@ -14,17 +14,23 @@
   "description": {
     "fr-FR": "Les opuscules de sainte Jeanne-Françoise de Chantal : le petit traité sur l’oraison, ses réponses sur l’oraison de quiétude, ses conseils de direction à des religieuses et à des supérieures, des fragments du recueil de paroles de saint François de Sales à la Sainte, les paroles consolantes pour tous les jours de l’année recueillies par ses contemporaines, et les points de la vie religieuse expliqués par le saint Fondateur.",
     "en-US": "The minor writings of St. Jane Frances de Chantal: the short treatise on prayer, her answers on the prayer of quiet, her counsels of direction to religious and superiors, fragments of the collection of St. Francis de Sales’s words to the Saint, the consoling sayings for every day of the year gathered by her contemporaries, and the points of religious life explained by the holy Founder.",
-    "pt-BR": "Os opúsculos de santa Joana Francisca de Chantal: o pequeno tratado sobre a oração, suas respostas sobre a oração de quietude, seus conselhos de direção a religiosas e superioras, fragmentos do recolhimento de palavras de são Francisco de Sales à Santa, as palavras consoladoras para todos os dias do ano e os pontos da vida religiosa explicados pelo santo Fundador."
+    "pt-BR": "Os opúsculos de santa Joana Francisca de Chantal: o pequeno tratado sobre a oração, suas respostas sobre a oração de quietude, seus conselhos de direção a religiosas e superioras, fragmentos da coletânea de palavras de são Francisco de Sales à Santa, as palavras consoladoras para todos os dias do ano recolhidas por suas contemporâneas e os pontos da vida religiosa explicados pelo santo Fundador."
   },
   "composed": "1610–1641",
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "jane-de-chantal/opuscules",
   "editions": {
     "fr-FR": {
       "editor": "Religieuses du Premier Monastère de la Visitation d’Annecy",
       "year": 1876
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,229 +47,267 @@
     {
       "id": "petit-traite",
       "title": {
-        "fr-FR": "Petit traité sur l’oraison, ou recueil des plus beaux enseignements de la Sainte sur la manière de converser avec Dieu"
+        "fr-FR": "Petit traité sur l’oraison, ou recueil des plus beaux enseignements de la Sainte sur la manière de converser avec Dieu",
+        "pt-BR": "Pequeno tratado sobre a oração, ou coletânea dos mais belos ensinamentos da Santa sobre a maneira de conversar com Deus"
       }
     },
     {
       "id": "questions-quietude",
       "title": {
-        "fr-FR": "Questions adressées par écrit à la Sainte et ses réponses touchant l’oraison de quiétude"
+        "fr-FR": "Questions adressées par écrit à la Sainte et ses réponses touchant l’oraison de quiétude",
+        "pt-BR": "Perguntas dirigidas por escrito à Santa e suas respostas sobre a oração de quietude"
       }
     },
     {
       "id": "regles-discernement",
       "title": {
-        "fr-FR": "Règles données par la Sainte pour discerner si c’est l’esprit de Dieu qui opère en l’âme lorsqu’elle ne peut agir en l’oraison"
+        "fr-FR": "Règles données par la Sainte pour discerner si c’est l’esprit de Dieu qui opère en l’âme lorsqu’elle ne peut agir en l’oraison",
+        "pt-BR": "Regras dadas pela Santa para discernir se é o espírito de Deus que opera na alma quando ela não pode agir na oração"
       }
     },
     {
       "id": "paroles-simplicite",
       "title": {
-        "fr-FR": "Paroles de la Sainte à une âme conduite par la voie de simplicité et de complet dénuement"
+        "fr-FR": "Paroles de la Sainte à une âme conduite par la voie de simplicité et de complet dénuement",
+        "pt-BR": "Palavras da Santa a uma alma conduzida pela via da simplicidade e do completo despojamento"
       }
     },
     {
       "id": "paroles-autre",
       "title": {
-        "fr-FR": "Paroles de la Sainte à une autre, sur le même sujet"
+        "fr-FR": "Paroles de la Sainte à une autre, sur le même sujet",
+        "pt-BR": "Palavras da Santa a outra alma, sobre o mesmo assunto"
       }
     },
     {
       "id": "paroles-blonay",
       "title": {
-        "fr-FR": "Paroles de la Sainte à la Mère Marie-Aimée de Blonay, après une retraite annuelle"
+        "fr-FR": "Paroles de la Sainte à la Mère Marie-Aimée de Blonay, après une retraite annuelle",
+        "pt-BR": "Palavras da Santa à Madre Maria-Amada de Blonay, depois de um retiro anual"
       }
     },
     {
       "id": "conseils-abandon",
       "title": {
-        "fr-FR": "Conseils de la Sainte à une âme que la grâce sollicitait d’entrer dans une voie de simplicité et d’abandon"
+        "fr-FR": "Conseils de la Sainte à une âme que la grâce sollicitait d’entrer dans une voie de simplicité et d’abandon",
+        "pt-BR": "Conselhos da Santa a uma alma que a graça impelia a entrar num caminho de simplicidade e abandono"
       }
     },
     {
       "id": "conseils-religieuse",
       "title": {
-        "fr-FR": "Conseils de direction de la Sainte à une religieuse"
+        "fr-FR": "Conseils de direction de la Sainte à une religieuse",
+        "pt-BR": "Conselhos de direção da Santa a uma religiosa"
       }
     },
     {
       "id": "conseils-chaugy",
       "title": {
-        "fr-FR": "Conseils de la Sainte à la Mère Françoise-Madeleine de Chaugy pendant son noviciat, de 1629 à 1632"
+        "fr-FR": "Conseils de la Sainte à la Mère Françoise-Madeleine de Chaugy pendant son noviciat, de 1629 à 1632",
+        "pt-BR": "Conselhos da Santa à Madre Francisca-Madalena de Chaugy durante seu noviciado, de 1629 a 1632"
       }
     },
     {
       "id": "conseils-rabutin",
       "title": {
-        "fr-FR": "Conseils de la Sainte à la Mère Marie-Aimée de Rabutin"
+        "fr-FR": "Conseils de la Sainte à la Mère Marie-Aimée de Rabutin",
+        "pt-BR": "Conselhos da Santa à Madre Maria-Amada de Rabutin"
       }
     },
     {
       "id": "conseils-marigny",
       "title": {
-        "fr-FR": "Conseils de la Sainte à la Mère Louise-Dorothée de Marigny"
+        "fr-FR": "Conseils de la Sainte à la Mère Louise-Dorothée de Marigny",
+        "pt-BR": "Conselhos da Santa à Madre Luísa-Doroteia de Marigny"
       }
     },
     {
       "id": "conseils-joly",
       "title": {
-        "fr-FR": "Conseils de la Sainte à la Mère Claude-Agnès Joly de la Roche"
+        "fr-FR": "Conseils de la Sainte à la Mère Claude-Agnès Joly de la Roche",
+        "pt-BR": "Conselhos da Santa à Madre Cláudia-Inês Joly de la Roche"
       }
     },
     {
       "id": "conseils-joly-autres",
       "title": {
-        "fr-FR": "Autres conseils de la Sainte à la Mère Claude-Agnès"
+        "fr-FR": "Autres conseils de la Sainte à la Mère Claude-Agnès",
+        "pt-BR": "Outros conselhos da Santa à Madre Cláudia-Inês"
       }
     },
     {
       "id": "conseils-superieure",
       "title": {
-        "fr-FR": "Conseils de la Sainte à une supérieure"
+        "fr-FR": "Conseils de la Sainte à une supérieure",
+        "pt-BR": "Conselhos da Santa a uma superiora"
       }
     },
     {
       "id": "conseils-superieures",
       "title": {
-        "fr-FR": "Conseils aux supérieures en général"
+        "fr-FR": "Conseils aux supérieures en général",
+        "pt-BR": "Conselhos às superioras em geral"
       }
     },
     {
       "id": "fragments-superieure",
       "title": {
-        "fr-FR": "Fragments de conseils à une supérieure nouvellement élue"
+        "fr-FR": "Fragments de conseils à une supérieure nouvellement élue",
+        "pt-BR": "Fragmentos de conselhos a uma superiora recém-eleita"
       }
     },
     {
       "id": "fragments-autre-1",
       "title": {
-        "fr-FR": "Fragments de conseils à une autre"
+        "fr-FR": "Fragments de conseils à une autre",
+        "pt-BR": "Fragmentos de conselhos a outra superiora"
       }
     },
     {
       "id": "fragments-autre-2",
       "title": {
-        "fr-FR": "Fragments de conseils à une autre (suite)"
+        "fr-FR": "Fragments de conseils à une autre (suite)",
+        "pt-BR": "Fragmentos de conselhos a outra superiora (continuação)"
       }
     },
     {
       "id": "paroles-francois",
       "title": {
-        "fr-FR": "Fragments du recueil de quelques paroles, instructions et avis de notre bienheureux Père saint François de Sales, donnés à notre digne Mère Jeanne-Françoise Frémyot de Chantal"
+        "fr-FR": "Fragments du recueil de quelques paroles, instructions et avis de notre bienheureux Père saint François de Sales, donnés à notre digne Mère Jeanne-Françoise Frémyot de Chantal",
+        "pt-BR": "Fragmentos da coletânea de algumas palavras, instruções e conselhos de nosso bem-aventurado Pai São Francisco de Sales, dados à nossa digna Madre Joana-Francisca Frémyot de Chantal"
       }
     },
     {
       "id": "providence",
       "title": {
-        "fr-FR": "De la providence de Dieu"
+        "fr-FR": "De la providence de Dieu",
+        "pt-BR": "Da providência de Deus"
       }
     },
     {
       "id": "sentences-amour",
       "title": {
-        "fr-FR": "Paroles consolantes pour tous les jours de l’année : amour de Dieu, amour du prochain"
+        "fr-FR": "Paroles consolantes pour tous les jours de l’année : amour de Dieu, amour du prochain",
+        "pt-BR": "Palavras consoladoras para todos os dias do ano: amor de Deus, amor do próximo"
       }
     },
     {
       "id": "sentences-presence",
       "title": {
-        "fr-FR": "Paroles consolantes : présence de Dieu, prière vocale"
+        "fr-FR": "Paroles consolantes : présence de Dieu, prière vocale",
+        "pt-BR": "Palavras consoladoras: presença de Deus, oração vocal"
       }
     },
     {
       "id": "sentences-pauvrete",
       "title": {
-        "fr-FR": "Paroles consolantes : pauvreté et délaissement"
+        "fr-FR": "Paroles consolantes : pauvreté et délaissement",
+        "pt-BR": "Palavras consoladoras: pobreza e abandono"
       }
     },
     {
       "id": "sentences-croix",
       "title": {
-        "fr-FR": "Paroles consolantes : avantages des croix et des afflictions"
+        "fr-FR": "Paroles consolantes : avantages des croix et des afflictions",
+        "pt-BR": "Palavras consoladoras: benefícios das cruzes e das aflições"
       }
     },
     {
       "id": "sentences-resignation",
       "title": {
-        "fr-FR": "Paroles consolantes : résignation, force, patience"
+        "fr-FR": "Paroles consolantes : résignation, force, patience",
+        "pt-BR": "Palavras consoladoras: resignação, fortaleza, paciência"
       }
     },
     {
       "id": "sentences-mortification",
       "title": {
-        "fr-FR": "Paroles consolantes : mortification, abnégation de soi-même"
+        "fr-FR": "Paroles consolantes : mortification, abnégation de soi-même",
+        "pt-BR": "Palavras consoladoras: mortificação, abnegação de si mesma"
       }
     },
     {
       "id": "sentences-obeissance",
       "title": {
-        "fr-FR": "Paroles consolantes : obéissance"
+        "fr-FR": "Paroles consolantes : obéissance",
+        "pt-BR": "Palavras consoladoras: obediência"
       }
     },
     {
       "id": "sentences-humilite",
       "title": {
-        "fr-FR": "Paroles consolantes : humilité"
+        "fr-FR": "Paroles consolantes : humilité",
+        "pt-BR": "Palavras consoladoras: humildade"
       }
     },
     {
       "id": "sentences-oraison",
       "title": {
-        "fr-FR": "Paroles consolantes : oraison mentale"
+        "fr-FR": "Paroles consolantes : oraison mentale",
+        "pt-BR": "Palavras consoladoras: oração mental"
       }
     },
     {
       "id": "sentences-volonte",
       "title": {
-        "fr-FR": "Paroles consolantes : amour de la volonté de Dieu, abandon à sa providence"
+        "fr-FR": "Paroles consolantes : amour de la volonté de Dieu, abandon à sa providence",
+        "pt-BR": "Palavras consoladoras: amor à vontade de Deus, abandono à sua providência"
       }
     },
     {
       "id": "sentences-simplicite",
       "title": {
-        "fr-FR": "Paroles consolantes : simplicité, pur amour"
+        "fr-FR": "Paroles consolantes : simplicité, pur amour",
+        "pt-BR": "Palavras consoladoras: simplicidade, puro amor"
       }
     },
     {
       "id": "sentences-institut",
       "title": {
-        "fr-FR": "Paroles consolantes : esprit de l’Institut"
+        "fr-FR": "Paroles consolantes : esprit de l’Institut",
+        "pt-BR": "Palavras consoladoras: espírito do Instituto"
       }
     },
     {
       "id": "points-choix",
       "title": {
-        "fr-FR": "Quelques points de la vie religieuse expliqués par saint François de Sales : du choix des sujets, de l’instruction et de l’éducation religieuse des novices"
+        "fr-FR": "Quelques points de la vie religieuse expliqués par saint François de Sales : du choix des sujets, de l’instruction et de l’éducation religieuse des novices",
+        "pt-BR": "Alguns pontos da vida religiosa explicados por São Francisco de Sales: da escolha das candidatas, da instrução e da educação religiosa das noviças"
       }
     },
     {
       "id": "points-direction",
       "title": {
-        "fr-FR": "De la direction et des avantages qu’elle procure à l’âme"
+        "fr-FR": "De la direction et des avantages qu’elle procure à l’âme",
+        "pt-BR": "Da direção e dos benefícios que proporciona à alma"
       }
     },
     {
       "id": "points-defauts-pauvrete",
       "title": {
-        "fr-FR": "Défauts à éviter dans la direction et dans la pratique de quelques vertus : quelques points touchant la pauvreté"
+        "fr-FR": "Défauts à éviter dans la direction et dans la pratique de quelques vertus : quelques points touchant la pauvreté",
+        "pt-BR": "Defeitos a evitar na direção e na prática de algumas virtudes: alguns pontos relativos à pobreza"
       }
     },
     {
       "id": "points-charite",
       "title": {
-        "fr-FR": "De la charité, du respect pour ce qui est de l’Institut, de la prudence dans le gouvernement et dans l’usage des dots et des pensions"
+        "fr-FR": "De la charité, du respect pour ce qui est de l’Institut, de la prudence dans le gouvernement et dans l’usage des dots et des pensions",
+        "pt-BR": "Da caridade, do respeito pelo que pertence ao Instituto, da prudência no governo e no uso dos dotes e das pensões"
       }
     },
     {
       "id": "points-oraison",
       "title": {
-        "fr-FR": "De l’oraison et de sa préparation. Conduite pour la confession, la communion, la récitation du saint Office, et de la patience dans les adversités"
+        "fr-FR": "De l’oraison et de sa préparation. Conduite pour la confession, la communion, la récitation du saint Office, et de la patience dans les adversités",
+        "pt-BR": "Da oração e de sua preparação. Orientações para a confissão, a comunhão, a recitação do santo Ofício, e da paciência nas adversidades"
       }
     },
     {
       "id": "points-degres",
       "title": {
-        "fr-FR": "Divers degrés d’oraison. Conditions requises pour y progresser"
+        "fr-FR": "Divers degrés d’oraison. Conditions requises pour y progresser",
+        "pt-BR": "Diversos graus de oração. Condições necessárias para nela progredir"
       }
     }
   ]

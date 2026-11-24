@@ -14,17 +14,23 @@
   "description": {
     "fr-FR": "Les lettres de saint François de Sales du tome XI de l’édition d’Annecy (1590-1598), une lettre par chapitre, groupées par année : numéro, destinataire, résumé et date de l’édition critique, puis le texte en orthographe d’époque.",
     "en-US": "The letters of St. Francis de Sales in volume XI of the Annecy edition (1590-1598), one letter per chapter and grouped by year: the edition’s number, addressee, summary and date, then the text in period spelling.",
-    "pt-BR": "As cartas de São Francisco de Sales do tomo XI da edição de Annecy (1590-1598)."
+    "pt-BR": "As cartas de São Francisco de Sales do tomo XI da edição de Annecy (1590-1598), uma carta por capítulo, agrupadas por ano: número, destinatário, resumo e data da edição crítica, seguidos do texto em ortografia da época."
   },
   "composed": "1590-1598",
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "francis-de-sales/lettres-xi",
   "editions": {
     "fr-FR": {
       "editor": "Religieuses de la Visitation d’Annecy",
       "year": 1900
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,13 +47,15 @@
     {
       "id": "annee-01",
       "title": {
-        "fr-FR": "Années antérieures à 1593"
+        "fr-FR": "Années antérieures à 1593",
+        "pt-BR": "Anos anteriores a 1593"
       },
       "children": [
         {
           "id": "lettre-0001",
           "title": {
-            "fr-FR": "Lettre I. Au Baron d'Hermance"
+            "fr-FR": "Lettre I. Au Baron d'Hermance",
+            "pt-BR": "Carta I. Ao Barão de Hermance"
           }
         }
       ]
@@ -55,31 +63,36 @@
     {
       "id": "annee-02",
       "title": {
-        "fr-FR": "Année 1590"
+        "fr-FR": "Année 1590",
+        "pt-BR": "Ano de 1590"
       },
       "children": [
         {
           "id": "lettre-0001-bis",
           "title": {
-            "fr-FR": "Lettre I bis. À un Ancien Professeur"
+            "fr-FR": "Lettre I bis. À un Ancien Professeur",
+            "pt-BR": "Carta I bis. A um Antigo Professor"
           }
         },
         {
           "id": "lettre-0002",
           "title": {
-            "fr-FR": "Lettre II. À Dom François de la Fléchère, Prieur de Contamine"
+            "fr-FR": "Lettre II. À Dom François de la Fléchère, Prieur de Contamine",
+            "pt-BR": "Carta II. A Dom Francisco de la Fléchère, Prior de Contamine"
           }
         },
         {
           "id": "lettre-0003",
           "title": {
-            "fr-FR": "Lettre III. À un Inconnu"
+            "fr-FR": "Lettre III. À un Inconnu",
+            "pt-BR": "Carta III. A um Desconhecido"
           }
         },
         {
           "id": "lettre-0004",
           "title": {
-            "fr-FR": "Lettre IV. À un Inconnu"
+            "fr-FR": "Lettre IV. À un Inconnu",
+            "pt-BR": "Carta IV. A um Desconhecido"
           }
         }
       ]
@@ -87,19 +100,22 @@
     {
       "id": "annee-03",
       "title": {
-        "fr-FR": "Année 1591"
+        "fr-FR": "Année 1591",
+        "pt-BR": "Ano de 1591"
       },
       "children": [
         {
           "id": "lettre-0005",
           "title": {
-            "fr-FR": "Lettre V. À un Gentilhomme"
+            "fr-FR": "Lettre V. À un Gentilhomme",
+            "pt-BR": "Carta V. A um Fidalgo"
           }
         },
         {
           "id": "lettre-0006",
           "title": {
-            "fr-FR": "Lettre VI. À un Ami"
+            "fr-FR": "Lettre VI. À un Ami",
+            "pt-BR": "Carta VI. A um Amigo"
           }
         }
       ]
@@ -107,49 +123,57 @@
     {
       "id": "annee-04",
       "title": {
-        "fr-FR": "Année 1593"
+        "fr-FR": "Année 1593",
+        "pt-BR": "Ano de 1593"
       },
       "children": [
         {
           "id": "lettre-0007",
           "title": {
-            "fr-FR": "Lettre VII. À un Ancien Condisciple"
+            "fr-FR": "Lettre VII. À un Ancien Condisciple",
+            "pt-BR": "Carta VII. A um Antigo Condiscípulo"
           }
         },
         {
           "id": "lettre-0008",
           "title": {
-            "fr-FR": "Lettre VIII. Au Régent Ménenc"
+            "fr-FR": "Lettre VIII. Au Régent Ménenc",
+            "pt-BR": "Carta VIII. Ao Regente Ménenc"
           }
         },
         {
           "id": "lettre-0009",
           "title": {
-            "fr-FR": "Lettre IX. Au Sénateur Antoine Favre"
+            "fr-FR": "Lettre IX. Au Sénateur Antoine Favre",
+            "pt-BR": "Carta IX. Ao Senador Antônio Favre"
           }
         },
         {
           "id": "lettre-0010",
           "title": {
-            "fr-FR": "Lettre X. Au Même"
+            "fr-FR": "Lettre X. Au Même",
+            "pt-BR": "Carta X. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0011",
           "title": {
-            "fr-FR": "Lettre XI. Au Même"
+            "fr-FR": "Lettre XI. Au Même",
+            "pt-BR": "Carta XI. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0012",
           "title": {
-            "fr-FR": "Lettre XII. Au Même"
+            "fr-FR": "Lettre XII. Au Même",
+            "pt-BR": "Carta XII. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0013",
           "title": {
-            "fr-FR": "Lettre XIII. Au Même"
+            "fr-FR": "Lettre XIII. Au Même",
+            "pt-BR": "Carta XIII. Ao Mesmo"
           }
         }
       ]
@@ -157,175 +181,204 @@
     {
       "id": "annee-05",
       "title": {
-        "fr-FR": "Année 1594"
+        "fr-FR": "Année 1594",
+        "pt-BR": "Ano de 1594"
       },
       "children": [
         {
           "id": "lettre-0014",
           "title": {
-            "fr-FR": "Lettre XIV. Au Même (en Latin)"
+            "fr-FR": "Lettre XIV. Au Même (en Latin)",
+            "pt-BR": "Carta XIV. Ao Mesmo (em Latim)"
           }
         },
         {
           "id": "lettre-0015",
           "title": {
-            "fr-FR": "Lettre XV. Au Même"
+            "fr-FR": "Lettre XV. Au Même",
+            "pt-BR": "Carta XV. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0016",
           "title": {
-            "fr-FR": "Lettre XVI. Au Même"
+            "fr-FR": "Lettre XVI. Au Même",
+            "pt-BR": "Carta XVI. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0017",
           "title": {
-            "fr-FR": "Lettre XVII. Au Même"
+            "fr-FR": "Lettre XVII. Au Même",
+            "pt-BR": "Carta XVII. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0018",
           "title": {
-            "fr-FR": "Lettre XVIII. Au Même"
+            "fr-FR": "Lettre XVIII. Au Même",
+            "pt-BR": "Carta XVIII. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0019",
           "title": {
-            "fr-FR": "Lettre XIX. Au Même"
+            "fr-FR": "Lettre XIX. Au Même",
+            "pt-BR": "Carta XIX. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0020",
           "title": {
-            "fr-FR": "Lettre XX. Au Même"
+            "fr-FR": "Lettre XX. Au Même",
+            "pt-BR": "Carta XX. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0021",
           "title": {
-            "fr-FR": "Lettre XXI. Au Même"
+            "fr-FR": "Lettre XXI. Au Même",
+            "pt-BR": "Carta XXI. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0022",
           "title": {
-            "fr-FR": "Lettre XXII. Au Même"
+            "fr-FR": "Lettre XXII. Au Même",
+            "pt-BR": "Carta XXII. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0023",
           "title": {
-            "fr-FR": "Lettre XXIII. Au Même (en Latin)"
+            "fr-FR": "Lettre XXIII. Au Même (en Latin)",
+            "pt-BR": "Carta XXIII. Ao Mesmo (em Latim)"
           }
         },
         {
           "id": "lettre-0024",
           "title": {
-            "fr-FR": "Lettre XXIV. Au Même"
+            "fr-FR": "Lettre XXIV. Au Même",
+            "pt-BR": "Carta XXIV. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0025",
           "title": {
-            "fr-FR": "Lettre XXV. Au Même"
+            "fr-FR": "Lettre XXV. Au Même",
+            "pt-BR": "Carta XXV. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0026",
           "title": {
-            "fr-FR": "Lettre XXVI. À François Girard"
+            "fr-FR": "Lettre XXVI. À François Girard",
+            "pt-BR": "Carta XXVI. A Francisco Girard"
           }
         },
         {
           "id": "lettre-0027",
           "title": {
-            "fr-FR": "Lettre XXVII. Au Sénateur Antoine Favre"
+            "fr-FR": "Lettre XXVII. Au Sénateur Antoine Favre",
+            "pt-BR": "Carta XXVII. Ao Senador Antônio Favre"
           }
         },
         {
           "id": "lettre-0028",
           "title": {
-            "fr-FR": "Lettre XXVIII. Aux Fils du Sénateur Antoine Favre"
+            "fr-FR": "Lettre XXVIII. Aux Fils du Sénateur Antoine Favre",
+            "pt-BR": "Carta XXVIII. Aos Filhos do Senador Antônio Favre"
           }
         },
         {
           "id": "lettre-0029",
           "title": {
-            "fr-FR": "Lettre XXIX. À François Girard"
+            "fr-FR": "Lettre XXIX. À François Girard",
+            "pt-BR": "Carta XXIX. A Francisco Girard"
           }
         },
         {
           "id": "lettre-0030",
           "title": {
-            "fr-FR": "Lettre XXX. Au Sénateur Antoine Favre"
+            "fr-FR": "Lettre XXX. Au Sénateur Antoine Favre",
+            "pt-BR": "Carta XXX. Ao Senador Antônio Favre"
           }
         },
         {
           "id": "lettre-0031",
           "title": {
-            "fr-FR": "Lettre XXXI. Au Meme"
+            "fr-FR": "Lettre XXXI. Au Meme",
+            "pt-BR": "Carta XXXI. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0032",
           "title": {
-            "fr-FR": "Lettre XXXII. À un Gentilhomme de la Cour du Duc de Savoie"
+            "fr-FR": "Lettre XXXII. À un Gentilhomme de la Cour du Duc de Savoie",
+            "pt-BR": "Carta XXXII. A um Fidalgo da Corte do Duque de Saboia"
           }
         },
         {
           "id": "lettre-0033",
           "title": {
-            "fr-FR": "Lettre XXXIII. Au Sénateur Antoine Favre"
+            "fr-FR": "Lettre XXXIII. Au Sénateur Antoine Favre",
+            "pt-BR": "Carta XXXIII. Ao Senador Antônio Favre"
           }
         },
         {
           "id": "lettre-0034",
           "title": {
-            "fr-FR": "Lettre XXXIV. À un Religieux"
+            "fr-FR": "Lettre XXXIV. À un Religieux",
+            "pt-BR": "Carta XXXIV. A um Religioso"
           }
         },
         {
           "id": "lettre-0035",
           "title": {
-            "fr-FR": "Lettre XXXV. À Monseigneur Claude de Granier, Évêque de Genève"
+            "fr-FR": "Lettre XXXV. À Monseigneur Claude de Granier, Évêque de Genève",
+            "pt-BR": "Carta XXXV. A Dom Cláudio de Granier, Bispo de Genebra"
           }
         },
         {
           "id": "lettre-0036",
           "title": {
-            "fr-FR": "Lettre XXXVI. Au Sénateur Antoine Favre"
+            "fr-FR": "Lettre XXXVI. Au Sénateur Antoine Favre",
+            "pt-BR": "Carta XXXVI. Ao Senador Antônio Favre"
           }
         },
         {
           "id": "lettre-0037",
           "title": {
-            "fr-FR": "Lettre XXXVII. Au Même"
+            "fr-FR": "Lettre XXXVII. Au Même",
+            "pt-BR": "Carta XXXVII. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0038",
           "title": {
-            "fr-FR": "Lettre XXXVIII. À Monseigneur Alphonse Delbene, Évêque d'Albi"
+            "fr-FR": "Lettre XXXVIII. À Monseigneur Alphonse Delbene, Évêque d'Albi",
+            "pt-BR": "Carta XXXVIII. A Dom Afonso Delbene, Bispo de Albi"
           }
         },
         {
           "id": "lettre-0039",
           "title": {
-            "fr-FR": "Lettre XXXIX. Au Sénateur Antoine Favre"
+            "fr-FR": "Lettre XXXIX. Au Sénateur Antoine Favre",
+            "pt-BR": "Carta XXXIX. Ao Senador Antônio Favre"
           }
         },
         {
           "id": "lettre-0040",
           "title": {
-            "fr-FR": "Lettre XL. À un Curial"
+            "fr-FR": "Lettre XL. À un Curial",
+            "pt-BR": "Carta XL. A um Curial"
           }
         },
         {
           "id": "lettre-0041",
           "title": {
-            "fr-FR": "Lettre XLI. Au Père Antoine Possevin, de la Compagnie de Jésus"
+            "fr-FR": "Lettre XLI. Au Père Antoine Possevin, de la Compagnie de Jésus",
+            "pt-BR": "Carta XLI. Ao Padre Antônio Possevino, da Companhia de Jesus"
           }
         }
       ]
@@ -333,139 +386,162 @@
     {
       "id": "annee-06",
       "title": {
-        "fr-FR": "Année 1595"
+        "fr-FR": "Année 1595",
+        "pt-BR": "Ano de 1595"
       },
       "children": [
         {
           "id": "lettre-0042",
           "title": {
-            "fr-FR": "Lettre XLII. Au Sénateur Antoine Favre"
+            "fr-FR": "Lettre XLII. Au Sénateur Antoine Favre",
+            "pt-BR": "Carta XLII. Ao Senador Antônio Favre"
           }
         },
         {
           "id": "lettre-0043",
           "title": {
-            "fr-FR": "Lettre XLIII. Au Même"
+            "fr-FR": "Lettre XLIII. Au Même",
+            "pt-BR": "Carta XLIII. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0044",
           "title": {
-            "fr-FR": "Lettre XLIV. Au Même"
+            "fr-FR": "Lettre XLIV. Au Même",
+            "pt-BR": "Carta XLIV. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0045",
           "title": {
-            "fr-FR": "Lettre XLV. Au Même"
+            "fr-FR": "Lettre XLV. Au Même",
+            "pt-BR": "Carta XLV. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0046",
           "title": {
-            "fr-FR": "Lettre XLVI. À Monsieur de Boisy son Père"
+            "fr-FR": "Lettre XLVI. À Monsieur de Boisy son Père",
+            "pt-BR": "Carta XLVI. Ao Senhor de Boisy, seu Pai"
           }
         },
         {
           "id": "lettre-0047",
           "title": {
-            "fr-FR": "Lettre XLVII. À Monseigneur Claude de Granier, Évêque de Genève"
+            "fr-FR": "Lettre XLVII. À Monseigneur Claude de Granier, Évêque de Genève",
+            "pt-BR": "Carta XLVII. A Dom Cláudio de Granier, Bispo de Genebra"
           }
         },
         {
           "id": "lettre-0048",
           "title": {
-            "fr-FR": "Lettre XLVIII. Au Père Antoine Possevin, de la Compagnie de Jésus"
+            "fr-FR": "Lettre XLVIII. Au Père Antoine Possevin, de la Compagnie de Jésus",
+            "pt-BR": "Carta XLVIII. Ao Padre Antônio Possevino, da Companhia de Jesus"
           }
         },
         {
           "id": "lettre-0049",
           "title": {
-            "fr-FR": "Lettre XLIX. Au Sénateur Antoine Favre"
+            "fr-FR": "Lettre XLIX. Au Sénateur Antoine Favre",
+            "pt-BR": "Carta XLIX. Ao Senador Antônio Favre"
           }
         },
         {
           "id": "lettre-0050",
           "title": {
-            "fr-FR": "Lettre L. Au Même"
+            "fr-FR": "Lettre L. Au Même",
+            "pt-BR": "Carta L. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0051",
           "title": {
-            "fr-FR": "Lettre LI. Au Même"
+            "fr-FR": "Lettre LI. Au Même",
+            "pt-BR": "Carta LI. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0052",
           "title": {
-            "fr-FR": "Lettre LII. Au Même"
+            "fr-FR": "Lettre LII. Au Même",
+            "pt-BR": "Carta LII. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0053",
           "title": {
-            "fr-FR": "Lettre LIII. Au Même"
+            "fr-FR": "Lettre LIII. Au Même",
+            "pt-BR": "Carta LIII. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0054",
           "title": {
-            "fr-FR": "Lettre LIV. Au Bienheureux Pierre Canisius de la Compagnie de Jésus"
+            "fr-FR": "Lettre LIV. Au Bienheureux Pierre Canisius de la Compagnie de Jésus",
+            "pt-BR": "Carta LIV. Ao Bem-aventurado Pedro Canísio, da Companhia de Jesus"
           }
         },
         {
           "id": "lettre-0055",
           "title": {
-            "fr-FR": "Lettre LV. À Monseigneur Jules-César Riccardi"
+            "fr-FR": "Lettre LV. À Monseigneur Jules-César Riccardi",
+            "pt-BR": "Carta LV. A Dom Júlio César Riccardi"
           }
         },
         {
           "id": "lettre-0056",
           "title": {
-            "fr-FR": "Lettre LVI. Au Chanoine Gallois de Monthoux"
+            "fr-FR": "Lettre LVI. Au Chanoine Gallois de Monthoux",
+            "pt-BR": "Carta LVI. Ao Cônego Gallois de Monthoux"
           }
         },
         {
           "id": "lettre-0057",
           "title": {
-            "fr-FR": "Lettre LVII. Au Sénateur Antoine Favre"
+            "fr-FR": "Lettre LVII. Au Sénateur Antoine Favre",
+            "pt-BR": "Carta LVII. Ao Senador Antônio Favre"
           }
         },
         {
           "id": "lettre-0058",
           "title": {
-            "fr-FR": "Lettre LVIII. Au Même"
+            "fr-FR": "Lettre LVIII. Au Même",
+            "pt-BR": "Carta LVIII. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0059",
           "title": {
-            "fr-FR": "Lettre LIX. Au Même"
+            "fr-FR": "Lettre LIX. Au Même",
+            "pt-BR": "Carta LIX. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0060",
           "title": {
-            "fr-FR": "Lettre LX. Au Même"
+            "fr-FR": "Lettre LX. Au Même",
+            "pt-BR": "Carta LX. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0061",
           "title": {
-            "fr-FR": "Lettre LXI. Au Meme"
+            "fr-FR": "Lettre LXI. Au Meme",
+            "pt-BR": "Carta LXI. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0062",
           "title": {
-            "fr-FR": "Lettre LXII. Au Père Antoine Possevin, de la Compagnie de Jésus"
+            "fr-FR": "Lettre LXII. Au Père Antoine Possevin, de la Compagnie de Jésus",
+            "pt-BR": "Carta LXII. Ao Padre Antônio Possevino, da Companhia de Jesus"
           }
         },
         {
           "id": "lettre-0063",
           "title": {
-            "fr-FR": "Lettre LXIII. Au Duc de Savoie, Charles-Emmanuel 1er"
+            "fr-FR": "Lettre LXIII. Au Duc de Savoie, Charles-Emmanuel 1er",
+            "pt-BR": "Carta LXIII. Ao Duque de Saboia, Carlos Emanuel I"
           }
         }
       ]
@@ -473,109 +549,127 @@
     {
       "id": "annee-07",
       "title": {
-        "fr-FR": "Année 1596"
+        "fr-FR": "Année 1596",
+        "pt-BR": "Ano de 1596"
       },
       "children": [
         {
           "id": "lettre-0064",
           "title": {
-            "fr-FR": "Lettre LXIV. Au Sénateur Antoine Favre"
+            "fr-FR": "Lettre LXIV. Au Sénateur Antoine Favre",
+            "pt-BR": "Carta LXIV. Ao Senador Antônio Favre"
           }
         },
         {
           "id": "lettre-0065",
           "title": {
-            "fr-FR": "Lettre LXV. À Monsieur Chavent"
+            "fr-FR": "Lettre LXV. À Monsieur Chavent",
+            "pt-BR": "Carta LXV. Ao Senhor Chavent"
           }
         },
         {
           "id": "lettre-0066",
           "title": {
-            "fr-FR": "Lettre LXVI. À Monseigneur Jules-César Riccardi"
+            "fr-FR": "Lettre LXVI. À Monseigneur Jules-César Riccardi",
+            "pt-BR": "Carta LXVI. A Dom Júlio César Riccardi"
           }
         },
         {
           "id": "lettre-0067",
           "title": {
-            "fr-FR": "Lettre LXVII. Au Duc de Savoie, Charles-Emmanuel Ier"
+            "fr-FR": "Lettre LXVII. Au Duc de Savoie, Charles-Emmanuel Ier",
+            "pt-BR": "Carta LXVII. Ao Duque de Saboia, Carlos Emanuel I"
           }
         },
         {
           "id": "lettre-0068",
           "title": {
-            "fr-FR": "Lettre LXVIII. À Monseigneur Jules-César Riccardi Archevêque de Bari,"
+            "fr-FR": "Lettre LXVIII. À Monseigneur Jules-César Riccardi Archevêque de Bari,",
+            "pt-BR": "Carta LXVIII. A Dom Júlio César Riccardi, Arcebispo de Bari,"
           }
         },
         {
           "id": "lettre-0069",
           "title": {
-            "fr-FR": "Lettre LXIX. Au Sénateur Antoine Favre"
+            "fr-FR": "Lettre LXIX. Au Sénateur Antoine Favre",
+            "pt-BR": "Carta LXIX. Ao Senador Antônio Favre"
           }
         },
         {
           "id": "lettre-0070",
           "title": {
-            "fr-FR": "Lettre LXX. À M0nseigneur Jules-César Riccardi Archevêque de Bari,"
+            "fr-FR": "Lettre LXX. À M0nseigneur Jules-César Riccardi Archevêque de Bari,",
+            "pt-BR": "Carta LXX. A Dom Júlio César Riccardi, Arcebispo de Bari,"
           }
         },
         {
           "id": "lettre-0071",
           "title": {
-            "fr-FR": "Lettre LXXI. À Monsieur d'Avully"
+            "fr-FR": "Lettre LXXI. À Monsieur d'Avully",
+            "pt-BR": "Carta LXXI. Ao Senhor d’Avully"
           }
         },
         {
           "id": "lettre-0072",
           "title": {
-            "fr-FR": "Lettre LXXII. À Monseigneur Jules-César Riccardi Archevêque de Bari,"
+            "fr-FR": "Lettre LXXII. À Monseigneur Jules-César Riccardi Archevêque de Bari,",
+            "pt-BR": "Carta LXXII. A Dom Júlio César Riccardi, Arcebispo de Bari,"
           }
         },
         {
           "id": "lettre-0073",
           "title": {
-            "fr-FR": "Lettre LXXIII. Au Même"
+            "fr-FR": "Lettre LXXIII. Au Même",
+            "pt-BR": "Carta LXXIII. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0074",
           "title": {
-            "fr-FR": "Lettre LXXIV. Au Sénateur Antoine Favre"
+            "fr-FR": "Lettre LXXIV. Au Sénateur Antoine Favre",
+            "pt-BR": "Carta LXXIV. Ao Senador Antônio Favre"
           }
         },
         {
           "id": "lettre-0075",
           "title": {
-            "fr-FR": "Lettre LXXV. À un Cousin"
+            "fr-FR": "Lettre LXXV. À un Cousin",
+            "pt-BR": "Carta LXXV. A um Primo"
           }
         },
         {
           "id": "lettre-0076",
           "title": {
-            "fr-FR": "Lettre LXXVI. Au Sénateur Antoine Favre"
+            "fr-FR": "Lettre LXXVI. Au Sénateur Antoine Favre",
+            "pt-BR": "Carta LXXVI. Ao Senador Antônio Favre"
           }
         },
         {
           "id": "lettre-0078",
           "title": {
-            "fr-FR": "Lettre LXXVIII. Au Sénateur Antoine Favre"
+            "fr-FR": "Lettre LXXVIII. Au Sénateur Antoine Favre",
+            "pt-BR": "Carta LXXVIII. Ao Senador Antônio Favre"
           }
         },
         {
           "id": "lettre-0079",
           "title": {
-            "fr-FR": "Lettre LXXIX. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin"
+            "fr-FR": "Lettre LXXIX. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin",
+            "pt-BR": "Carta LXXIX. A Dom Júlio César Riccardi, Arcebispo de Bari, Núncio Apostólico em Turim"
           }
         },
         {
           "id": "lettre-0080",
           "title": {
-            "fr-FR": "Lettre LXXX. Au Duc de Savoie, Charles-Emmanuel Ier"
+            "fr-FR": "Lettre LXXX. Au Duc de Savoie, Charles-Emmanuel Ier",
+            "pt-BR": "Carta LXXX. Ao Duque de Saboia, Carlos Emanuel I"
           }
         },
         {
           "id": "lettre-0081",
           "title": {
-            "fr-FR": "Lettre LXXXI. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin"
+            "fr-FR": "Lettre LXXXI. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin",
+            "pt-BR": "Carta LXXXI. A Dom Júlio César Riccardi, Arcebispo de Bari, Núncio Apostólico em Turim"
           }
         }
       ]
@@ -583,127 +677,148 @@
     {
       "id": "annee-08",
       "title": {
-        "fr-FR": "Année 1597"
+        "fr-FR": "Année 1597",
+        "pt-BR": "Ano de 1597"
       },
       "children": [
         {
           "id": "lettre-0082",
           "title": {
-            "fr-FR": "Lettre LXXXII. À Monsieur Bochut, Curé d'Ayse"
+            "fr-FR": "Lettre LXXXII. À Monsieur Bochut, Curé d'Ayse",
+            "pt-BR": "Carta LXXXII. Ao Senhor Bochut, Pároco de Ayse"
           }
         },
         {
           "id": "lettre-0083",
           "title": {
-            "fr-FR": "Lettre LXXXIII. Au Duc de Savoie, Charles-Emmanuel Ier"
+            "fr-FR": "Lettre LXXXIII. Au Duc de Savoie, Charles-Emmanuel Ier",
+            "pt-BR": "Carta LXXXIII. Ao Duque de Saboia, Carlos Emanuel I"
           }
         },
         {
           "id": "lettre-0084",
           "title": {
-            "fr-FR": "Lettre LXXXIV. Au Conseil des Chevaliers des Saints Maurice et Lazare"
+            "fr-FR": "Lettre LXXXIV. Au Conseil des Chevaliers des Saints Maurice et Lazare",
+            "pt-BR": "Carta LXXXIV. Ao Conselho dos Cavaleiros dos Santos Maurício e Lázaro"
           }
         },
         {
           "id": "lettre-0085",
           "title": {
-            "fr-FR": "Lettre LXXXV. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin"
+            "fr-FR": "Lettre LXXXV. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin",
+            "pt-BR": "Carta LXXXV. A Dom Júlio César Riccardi, Arcebispo de Bari, Núncio Apostólico em Turim"
           }
         },
         {
           "id": "lettre-0086",
           "title": {
-            "fr-FR": "Lettre LXXXVI. Au Même"
+            "fr-FR": "Lettre LXXXVI. Au Même",
+            "pt-BR": "Carta LXXXVI. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0087",
           "title": {
-            "fr-FR": "Lettre LXXXVII. Au Même"
+            "fr-FR": "Lettre LXXXVII. Au Même",
+            "pt-BR": "Carta LXXXVII. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0088",
           "title": {
-            "fr-FR": "Lettre LXXXVIII. Au Duc de Savoie, Charles-Emmanuel Ier"
+            "fr-FR": "Lettre LXXXVIII. Au Duc de Savoie, Charles-Emmanuel Ier",
+            "pt-BR": "Carta LXXXVIII. Ao Duque de Saboia, Carlos Emanuel I"
           }
         },
         {
           "id": "lettre-0089",
           "title": {
-            "fr-FR": "Lettre LXXXIX. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin"
+            "fr-FR": "Lettre LXXXIX. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin",
+            "pt-BR": "Carta LXXXIX. A Dom Júlio César Riccardi, Arcebispo de Bari, Núncio Apostólico em Turim"
           }
         },
         {
           "id": "lettre-0090",
           "title": {
-            "fr-FR": "Lettre XC. Au Même"
+            "fr-FR": "Lettre XC. Au Même",
+            "pt-BR": "Carta XC. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0091",
           "title": {
-            "fr-FR": "Lettre XCI. Au Duc de Savoie, Charles-Emmanuel Ier"
+            "fr-FR": "Lettre XCI. Au Duc de Savoie, Charles-Emmanuel Ier",
+            "pt-BR": "Carta XCI. Ao Duque de Saboia, Carlos Emanuel I"
           }
         },
         {
           "id": "lettre-0092",
           "title": {
-            "fr-FR": "Lettre XCII. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin"
+            "fr-FR": "Lettre XCII. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin",
+            "pt-BR": "Carta XCII. A Dom Júlio César Riccardi, Arcebispo de Bari, Núncio Apostólico em Turim"
           }
         },
         {
           "id": "lettre-0093",
           "title": {
-            "fr-FR": "Lettre XCIII. À sa Sainteté Clément Viii"
+            "fr-FR": "Lettre XCIII. À sa Sainteté Clément Viii",
+            "pt-BR": "Carta XCIII. A Sua Santidade Clemente VIII"
           }
         },
         {
           "id": "lettre-0094",
           "title": {
-            "fr-FR": "Lettre XCIV. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin"
+            "fr-FR": "Lettre XCIV. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin",
+            "pt-BR": "Carta XCIV. A Dom Júlio César Riccardi, Arcebispo de Bari, Núncio Apostólico em Turim"
           }
         },
         {
           "id": "lettre-0095",
           "title": {
-            "fr-FR": "Lettre XCV. Au Duc de Savoie, Charles-Emmanuel Ier"
+            "fr-FR": "Lettre XCV. Au Duc de Savoie, Charles-Emmanuel Ier",
+            "pt-BR": "Carta XCV. Ao Duque de Saboia, Carlos Emanuel I"
           }
         },
         {
           "id": "lettre-0096",
           "title": {
-            "fr-FR": "Lettre XCVI. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin"
+            "fr-FR": "Lettre XCVI. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin",
+            "pt-BR": "Carta XCVI. A Dom Júlio César Riccardi, Arcebispo de Bari, Núncio Apostólico em Turim"
           }
         },
         {
           "id": "lettre-0097",
           "title": {
-            "fr-FR": "Lettre XCVII. Au Même"
+            "fr-FR": "Lettre XCVII. Au Même",
+            "pt-BR": "Carta XCVII. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0098",
           "title": {
-            "fr-FR": "Lettre XCVIII. Au Même"
+            "fr-FR": "Lettre XCVIII. Au Même",
+            "pt-BR": "Carta XCVIII. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0099",
           "title": {
-            "fr-FR": "Lettre XCIX. Au Duc de Savoie, Charles-Emmanuel Ier"
+            "fr-FR": "Lettre XCIX. Au Duc de Savoie, Charles-Emmanuel Ier",
+            "pt-BR": "Carta XCIX. Ao Duque de Saboia, Carlos Emanuel I"
           }
         },
         {
           "id": "lettre-0100",
           "title": {
-            "fr-FR": "Lettre C. À un Gentilhomme de la Cour du Duc de Savoie"
+            "fr-FR": "Lettre C. À un Gentilhomme de la Cour du Duc de Savoie",
+            "pt-BR": "Carta C. A um Fidalgo da Corte do Duque de Saboia"
           }
         },
         {
           "id": "lettre-0101",
           "title": {
-            "fr-FR": "Lettre CI. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin"
+            "fr-FR": "Lettre CI. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin",
+            "pt-BR": "Carta CI. A Dom Júlio César Riccardi, Arcebispo de Bari, Núncio Apostólico em Turim"
           }
         }
       ]
@@ -711,127 +826,148 @@
     {
       "id": "annee-09",
       "title": {
-        "fr-FR": "Année 1598"
+        "fr-FR": "Année 1598",
+        "pt-BR": "Ano de 1598"
       },
       "children": [
         {
           "id": "lettre-0102",
           "title": {
-            "fr-FR": "Lettre CII. À Monsieur Claude Marin, Procureur Fiscal en Chablais"
+            "fr-FR": "Lettre CII. À Monsieur Claude Marin, Procureur Fiscal en Chablais",
+            "pt-BR": "Carta CII. Ao Senhor Cláudio Marin, Procurador Fiscal no Chablais"
           }
         },
         {
           "id": "lettre-0103",
           "title": {
-            "fr-FR": "Lettre CIII. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin"
+            "fr-FR": "Lettre CIII. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin",
+            "pt-BR": "Carta CIII. A Dom Júlio César Riccardi, Arcebispo de Bari, Núncio Apostólico em Turim"
           }
         },
         {
           "id": "lettre-0104",
           "title": {
-            "fr-FR": "Lettre CIV. Au Duc de Savoie, Charles-Emmanuel Ier"
+            "fr-FR": "Lettre CIV. Au Duc de Savoie, Charles-Emmanuel Ier",
+            "pt-BR": "Carta CIV. Ao Duque de Saboia, Carlos Emanuel I"
           }
         },
         {
           "id": "lettre-0105",
           "title": {
-            "fr-FR": "Lettre CV. À Monsieur Louis de Pingon, Baron de Cusy"
+            "fr-FR": "Lettre CV. À Monsieur Louis de Pingon, Baron de Cusy",
+            "pt-BR": "Carta CV. Ao Senhor Luís de Pingon, Barão de Cusy"
           }
         },
         {
           "id": "lettre-0106",
           "title": {
-            "fr-FR": "Lettre CVI. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin"
+            "fr-FR": "Lettre CVI. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin",
+            "pt-BR": "Carta CVI. A Dom Júlio César Riccardi, Arcebispo de Bari, Núncio Apostólico em Turim"
           }
         },
         {
           "id": "lettre-0107",
           "title": {
-            "fr-FR": "Lettre CVII. Au Duc de Savoie, Charles-Emmanuel Ier"
+            "fr-FR": "Lettre CVII. Au Duc de Savoie, Charles-Emmanuel Ier",
+            "pt-BR": "Carta CVII. Ao Duque de Saboia, Carlos Emanuel I"
           }
         },
         {
           "id": "lettre-0108",
           "title": {
-            "fr-FR": "Lettre CVIII. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin"
+            "fr-FR": "Lettre CVIII. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin",
+            "pt-BR": "Carta CVIII. A Dom Júlio César Riccardi, Arcebispo de Bari, Núncio Apostólico em Turim"
           }
         },
         {
           "id": "lettre-0109",
           "title": {
-            "fr-FR": "Lettre CIX. Au Même"
+            "fr-FR": "Lettre CIX. Au Même",
+            "pt-BR": "Carta CIX. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0110",
           "title": {
-            "fr-FR": "Lettre CX. Au Même"
+            "fr-FR": "Lettre CX. Au Même",
+            "pt-BR": "Carta CX. Ao Mesmo"
           }
         },
         {
           "id": "lettre-0111",
           "title": {
-            "fr-FR": "Lettre CXI. À Monsieur Amédée de Chevron Seigneur de Villette"
+            "fr-FR": "Lettre CXI. À Monsieur Amédée de Chevron Seigneur de Villette",
+            "pt-BR": "Carta CXI. Ao Senhor Amadeu de Chevron, Senhor de Villette"
           }
         },
         {
           "id": "lettre-0111-bis",
           "title": {
-            "fr-FR": "Lettre CXI bis. (1)"
+            "fr-FR": "Lettre CXI bis. (1)",
+            "pt-BR": "Carta CXI bis. (1)"
           }
         },
         {
           "id": "lettre-0112",
           "title": {
-            "fr-FR": "Lettre CXII. À Monsieur Claude Marin, Procureur Fiscal en Chablais"
+            "fr-FR": "Lettre CXII. À Monsieur Claude Marin, Procureur Fiscal en Chablais",
+            "pt-BR": "Carta CXII. Ao Senhor Cláudio Marin, Procurador Fiscal no Chablais"
           }
         },
         {
           "id": "lettre-0113",
           "title": {
-            "fr-FR": "Lettre CXIII. À M0nsieur Sébastien Werro Administrateur Apostolique du Diocèse de Lausanne Prévôt de Saint-Nicolas de Fribourg"
+            "fr-FR": "Lettre CXIII. À M0nsieur Sébastien Werro Administrateur Apostolique du Diocèse de Lausanne Prévôt de Saint-Nicolas de Fribourg",
+            "pt-BR": "Carta CXIII. Ao Senhor Sebastião Werro, Administrador Apostólico da Diocese de Lausanne, Preboste de São Nicolau de Friburgo"
           }
         },
         {
           "id": "lettre-0114",
           "title": {
-            "fr-FR": "Lettre CXIV. À Don Juan de Mendoça Commandant des Troupes Espagnoles"
+            "fr-FR": "Lettre CXIV. À Don Juan de Mendoça Commandant des Troupes Espagnoles",
+            "pt-BR": "Carta CXIV. A Dom João de Mendoça, Comandante das Tropas Espanholas"
           }
         },
         {
           "id": "lettre-0115",
           "title": {
-            "fr-FR": "Lettre CXV. À Monsieur Sébastien Werro Administrateur Apostolique du Diocèse de Lausanne Prévôt de Saint-Nicolas de Fribourg"
+            "fr-FR": "Lettre CXV. À Monsieur Sébastien Werro Administrateur Apostolique du Diocèse de Lausanne Prévôt de Saint-Nicolas de Fribourg",
+            "pt-BR": "Carta CXV. Ao Senhor Sebastião Werro, Administrador Apostólico da Diocese de Lausanne, Preboste de São Nicolau de Friburgo"
           }
         },
         {
           "id": "lettre-0116",
           "title": {
-            "fr-FR": "Lettre CXVI. À Monsieur Amédée de Chevron Seigneur de Villette"
+            "fr-FR": "Lettre CXVI. À Monsieur Amédée de Chevron Seigneur de Villette",
+            "pt-BR": "Carta CXVI. Ao Senhor Amadeu de Chevron, Senhor de Villette"
           }
         },
         {
           "id": "lettre-0117",
           "title": {
-            "fr-FR": "Lettre CXVII. À Monsieur Jean Sarasin"
+            "fr-FR": "Lettre CXVII. À Monsieur Jean Sarasin",
+            "pt-BR": "Carta CXVII. Ao Senhor João Sarasin"
           }
         },
         {
           "id": "lettre-0118",
           "title": {
-            "fr-FR": "Lettre CXVIII. À Monseigneur Jules-César Riccardi Archevêque de .dari, Nonce Apostolique a Turin"
+            "fr-FR": "Lettre CXVIII. À Monseigneur Jules-César Riccardi Archevêque de .dari, Nonce Apostolique a Turin",
+            "pt-BR": "Carta CXVIII. A Dom Júlio César Riccardi, Arcebispo de Bari, Núncio Apostólico em Turim"
           }
         },
         {
           "id": "lettre-0119",
           "title": {
-            "fr-FR": "Lettre CXIX. À sa Sainteté Clément Viii"
+            "fr-FR": "Lettre CXIX. À sa Sainteté Clément Viii",
+            "pt-BR": "Carta CXIX. A Sua Santidade Clemente VIII"
           }
         },
         {
           "id": "lettre-0120",
           "title": {
-            "fr-FR": "Lettre CXX. Au Même"
+            "fr-FR": "Lettre CXX. Au Même",
+            "pt-BR": "Carta CXX. Ao Mesmo"
           }
         }
       ]

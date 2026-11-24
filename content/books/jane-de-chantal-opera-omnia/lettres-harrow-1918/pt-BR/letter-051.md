@@ -1,0 +1,25 @@
+# Carta LI. À Madre Maria-Jaquelina Favre, superiora em Dijon
+
+Viva ✠ Jesus!
+
+LYON,
+
+_8 de dezembro de 1622._
+
+MINHA CARÍSSIMA FILHA DO CORAÇÃO,
+
+Eis-nos de volta de nossa querida pequena Montferrand, onde certamente encontrei almas excelentes, cheias do desejo de progredir na perfeita observância. A pobre superiora[^1] estava quase abatida pelo temor de seu encargo; disse-me que já sabias disso por ela mesma; deixei-a muito animada. Ela realmente me dá alegria, pois tem bom juízo, boas aspirações e aparência e modos extremamente bons (várias linhas ilegíveis). Minha filha, celebra o Ofício, peço-te, como está indicado. Essas fantasias passam. Monsenhor deseja que mantenhamos um tom não muito alto, mas moderado, e que cantemos com clareza, distinção e uniformidade; quanto a outras falhas, não conheço nenhuma, a não ser algum defeito de pronúncia. Desejo muito que observemos a mesma maneira de cantar o Ofício em todas as casas; vejo que as mudanças se introduzem sorrateiramente. Mas, para o futuro, Monsenhor indicará como se deve proceder, e então só teremos de nos ater ao que ficar estabelecido. Em Saint-Étienne, arrastam o canto de modo deplorável. A propósito, há ali uma excelente superiora, que exerce seu encargo com grande discrição.[^2] Sabes como ela é exata; adapta-se admiravelmente à sua função. Digo-lhe que está em seu elemento. Certamente tudo vai bem naquela casa, e estou encantada com ela.... Monsenhor está aqui,[^3] e o vemos um pouco. Não deseja que partamos ainda; penso que seja por consideração ao Arcebispo de Bourges. A Irmã Maria de Valence também está aqui. É, sem dúvida, uma alma muito humilde e simples, sem modos constrangidos ou singulares, e sua filhinha é assim também.
+
+Peço-te, minha filha, que procures, se puderes, obter as cartas da Sra. de Puy-d'Orbe; gostaria que pudesses ajudá-la, pois tem grande necessidade.
+
+Monsenhor quer que pensemos seriamente num meio de manter as casas unidas. Pretende consultar a esse respeito os grandes Padres Jesuítas e deseja que sempre recorramos a eles, pois diz que ninguém os iguala. Estou muito contente por o Padre Reitor gostar tanto de ti; sempre foi assim. Saúda-o muito afetuosamente por mim, assim como o bom Padre Gentil; tenho por ambos o maior respeito. Mas é sobretudo ao Bispo de Langres que honro com singular reverência e afeição. Assegura-lhe isso, minha filha. Quando ele for a Dijon e eu souber que está aí, escreverei a ele.
+
+O Sr. Gariot está aqui: ele te incomodará com suas sugestões, mas não é necessário, penso eu, fazer tudo o que deseja; ao menos eu não faço, sobretudo no locutório, onde o interrompo; contudo, minha querida, pede ao conselheiro Berbisey que cuide dos assuntos dele. É urgente, pois ele deseja partir. Meu bom primo, devo te dizer, está cheio de admiração por ti (três linhas ilegíveis). Tem bom coração; sê inteiramente franca com ele e com a boa Irmã de Vigney, que também gosta muito de ti, como, aliás, todas as outras.
+
+Adeus, minha filha, minha filha verdadeiramente amável e caríssima. Deus seja bendito — dia de Nossa Senhora — manda rezar por nossos assuntos. Saúda de minha parte todos os nossos parentes, nossos amigos e quem mais desejares.
+
+[^1]: Madre Maria-Jaquelina Compain.
+
+[^2]: A fundação de Saint-Étienne acabava de ser feita, e a Madre Francisca-Jerônima de Vilette fora nomeada superiora.
+
+[^3]: “Em 8 de dezembro de 1622, enquanto o rei Luís XIII fazia sua entrada solene em Lyon, em meio a uma grande exibição de pompa por parte das duas cortes da França e de Saboia, São Francisco de Sales, desejoso, como verdadeiro pai, de gozar da companhia de suas filhas, mandou toda a sua comitiva assistir à festa e veio sozinho ao locutório do convento. Ali, no decorrer da conversa conosco, contrapôs a festa que a Igreja celebrava naquele dia à festa política que a cidade realizava em honra da entrada do Rei. Nossa venerável Madre de Chantal, que estava presente, ficou radiante de alegria por reencontrar o pai de sua alma, mas esse encontro não lhe daria a consolação que esperava. A cidade estava cheia de pessoas de distinção, e todas acorriam à Visitação para ali encontrar ‘o Sol dos Prelados’, como chamavam São Francisco de Sales. Certo dia, o Arcebispo de Bourges e seu sobrinho, o Abade de Neuchèze, a piedosa Irmã Maria de Valence e o Padre Cotton, S. J., encontraram-se todos em nosso locutório, de modo que se dizia que nossa casa era o ponto de encontro de todas as pessoas mais santas e se tornara, por assim dizer, uma corte do Céu, enquanto a corte da Princesa Real se reunia na cidade. Certo dia, tendo algumas horas livres, São Francisco veio ao locutório para conversar com a Venerável Fundadora; mas, por mais que ela desejasse lhe falar de seu estado interior, ele não o permitiu, adiando tudo para quando voltassem a Annecy e pedindo-lhe que visitasse os mosteiros de Valence, Grenoble e Belley antes de regressar a Saboia. Santa Joana Francisca partiu imediatamente, sem imaginar que vira seu bem-aventurado Padre pela última vez na terra.” (Extraído da “História da fundação de Lyon”.) São Francisco morreu no dia 28 daquele mesmo mês.

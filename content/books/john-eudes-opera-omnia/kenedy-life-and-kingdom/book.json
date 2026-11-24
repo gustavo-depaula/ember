@@ -12,17 +12,23 @@
   },
   "description": {
     "en-US": "The 1946 English translation of John Eudes’s Life and Kingdom of Jesus in Christian Souls, complete, in seven parts.",
-    "pt-BR": "A tradução inglesa de 1946 de A Vida e o Reino de Jesus nas almas cristãs, completa, em sete partes."
+    "pt-BR": "A tradução inglesa de 1946 de A Vida e o Reino de Jesus nas almas cristãs, de São João Eudes, completa, em sete partes."
   },
   "composed": 1946,
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "john-eudes/vie-et-royaume-de-jesus",
   "editions": {
     "en-US": {
       "translator": "a Trappist Father of the Abbey of Gethsemani",
       "year": 1946
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -39,259 +45,302 @@
     {
       "id": "lk-01",
       "title": {
-        "en-US": "Part one (1)"
+        "en-US": "Part one (1)",
+        "pt-BR": "Primeira parte (1)"
       }
     },
     {
       "id": "lk-02",
       "title": {
-        "en-US": "Part one (2): The Christian Life Must be a Continuation of the Most Holy"
+        "en-US": "Part one (2): The Christian Life Must be a Continuation of the Most Holy",
+        "pt-BR": "Primeira parte (2): A vida cristã deve ser uma continuação da santíssima"
       }
     },
     {
       "id": "lk-03",
       "title": {
-        "en-US": "Part one (3): Second Foundation of Christian Life and Sanctity: Hatred of Sin"
+        "en-US": "Part one (3): Second Foundation of Christian Life and Sanctity: Hatred of Sin",
+        "pt-BR": "Primeira parte (3): Segundo fundamento da vida e da santidade cristãs: o ódio ao pecado"
       }
     },
     {
       "id": "lk-04",
       "title": {
-        "en-US": "Part one (4): Self-detachment"
+        "en-US": "Part one (4): Self-detachment",
+        "pt-BR": "Primeira parte (4): Desapego de si mesmo"
       }
     },
     {
       "id": "lk-05",
       "title": {
-        "en-US": "Part one (5): Qualities of Prayer"
+        "en-US": "Part one (5): Qualities of Prayer",
+        "pt-BR": "Primeira parte (5): Qualidades da oração"
       }
     },
     {
       "id": "lk-06",
       "title": {
-        "en-US": "Part one (6): Dignity, Necessity and Importance of Christian Humility"
+        "en-US": "Part one (6): Dignity, Necessity and Importance of Christian Humility",
+        "pt-BR": "Primeira parte (6): Dignidade, necessidade e importância da humildade cristã"
       }
     },
     {
       "id": "lk-07",
       "title": {
-        "en-US": "Part one (7): Xix Practice of Christian Humility"
+        "en-US": "Part one (7): Xix Practice of Christian Humility",
+        "pt-BR": "Primeira parte (7): XIX. Prática da humildade cristã"
       }
     },
     {
       "id": "lk-08",
       "title": {
-        "en-US": "Part one (8): Additional Points on Confidence"
+        "en-US": "Part one (8): Additional Points on Confidence",
+        "pt-BR": "Primeira parte (8): Outros pontos sobre a confiança"
       }
     },
     {
       "id": "lk-09",
       "title": {
-        "en-US": "Part one (9): Perfection of Submission and Christian Obedience"
+        "en-US": "Part one (9): Perfection of Submission and Christian Obedience",
+        "pt-BR": "Primeira parte (9): Perfeição da submissão e da obediência cristã"
       }
     },
     {
       "id": "lk-10",
       "title": {
-        "en-US": "Part one (10): Charity and Zeal for the Salvation of Souls"
+        "en-US": "Part one (10): Charity and Zeal for the Salvation of Souls",
+        "pt-BR": "Primeira parte (10): Caridade e zelo pela salvação das almas"
       }
     },
     {
       "id": "lk-11",
       "title": {
-        "en-US": "Part one (11): True Christian Devotion 81"
+        "en-US": "Part one (11): True Christian Devotion 81",
+        "pt-BR": "Primeira parte (11): Verdadeira devoção cristã 81"
       }
     },
     {
       "id": "lk-12",
       "title": {
-        "en-US": "Part one (12): Spirit of Martyrdom"
+        "en-US": "Part one (12): Spirit of Martyrdom",
+        "pt-BR": "Primeira parte (12): Espírito de martírio"
       }
     },
     {
       "id": "lk-13",
       "title": {
-        "en-US": "Part one (13): Spirit of Martyrdom 99"
+        "en-US": "Part one (13): Spirit of Martyrdom 99",
+        "pt-BR": "Primeira parte (13): Espírito de martírio 99"
       }
     },
     {
       "id": "lk-14",
       "title": {
-        "en-US": "Part two (1): Some Devotional Exercises Necessary to,"
+        "en-US": "Part two (1): Some Devotional Exercises Necessary to,",
+        "pt-BR": "Segunda parte (1): Alguns exercícios de devoção necessários para,"
       }
     },
     {
       "id": "lk-15",
       "title": {
-        "en-US": "Part two (2): EVERYTHING THAT You Do SHOULD BEGIN AND END WITH JESUS"
+        "en-US": "Part two (2): EVERYTHING THAT You Do SHOULD BEGIN AND END WITH JESUS",
+        "pt-BR": "Segunda parte (2): TUDO O QUE FAZES DEVE COMEÇAR E TERMINAR COM JESUS"
       }
     },
     {
       "id": "lk-16",
       "title": {
-        "en-US": "Part two (3): PLEASING To GOD"
+        "en-US": "Part two (3): PLEASING To GOD",
+        "pt-BR": "Segunda parte (3): AGRADÁVEL A DEUS"
       }
     },
     {
       "id": "lk-17",
       "title": {
-        "en-US": "Part two (4): Act of Oblation"
+        "en-US": "Part two (4): Act of Oblation",
+        "pt-BR": "Segunda parte (4): Ato de oblação"
       }
     },
     {
       "id": "lk-18",
       "title": {
-        "en-US": "Part two (5): Prayer to Beg God for Contrition"
+        "en-US": "Part two (5): Prayer to Beg God for Contrition",
+        "pt-BR": "Segunda parte (5): Oração para pedir a Deus a contrição"
       }
     },
     {
       "id": "lk-19",
       "title": {
-        "en-US": "Part two (6): Xxiv. Prayer to the Blessed Virgin Mary, Mother of God"
+        "en-US": "Part two (6): Xxiv. Prayer to the Blessed Virgin Mary, Mother of God",
+        "pt-BR": "Segunda parte (6): XXIV. Oração à bem-aventurada Virgem Maria, Mãe de Deus"
       }
     },
     {
       "id": "lk-20",
       "title": {
-        "en-US": "Part three (1): Devotional Exercises to Be Done Each Day"
+        "en-US": "Part three (1): Devotional Exercises to Be Done Each Day",
+        "pt-BR": "Terceira parte (1): Exercícios de devoção para cada dia"
       }
     },
     {
       "id": "lk-21",
       "title": {
-        "en-US": "Part three (2): Obligation and Method to Perform Your Actions Devoutly"
+        "en-US": "Part three (2): Obligation and Method to Perform Your Actions Devoutly",
+        "pt-BR": "Terceira parte (2): Obrigação e método de realizar tuas ações devotamente"
       }
     },
     {
       "id": "lk-22",
       "title": {
-        "en-US": "Part three (3): Employing the Actions and Sufferings of Others for the Glory of God"
+        "en-US": "Part three (3): Employing the Actions and Sufferings of Others for the Glory of God",
+        "pt-BR": "Terceira parte (3): Empregar as ações e os sofrimentos dos outros para a glória de Deus"
       }
     },
     {
       "id": "lk-23",
       "title": {
-        "en-US": "Part three (4): Xxvi. Prayer During Holy Mass"
+        "en-US": "Part three (4): Xxvi. Prayer During Holy Mass",
+        "pt-BR": "Terceira parte (4): XXVI. Oração durante a santa Missa"
       }
     },
     {
       "id": "lk-24",
       "title": {
-        "en-US": "Part three (5): Another Method of Saying the Divine Office with Devotion"
+        "en-US": "Part three (5): Another Method of Saying the Divine Office with Devotion",
+        "pt-BR": "Terceira parte (5): Outro método de rezar o Ofício divino com devoção"
       }
     },
     {
       "id": "lk-25",
       "title": {
-        "en-US": "Part three (6): Xxxviii. Rosary of Jesus, Maria"
+        "en-US": "Part three (6): Xxxviii. Rosary of Jesus, Maria",
+        "pt-BR": "Terceira parte (6): XXXVIII. Rosário de Jesus, Maria"
       }
     },
     {
       "id": "lk-26",
       "title": {
-        "en-US": "Part four (1): Part Four"
+        "en-US": "Part four (1): Part Four",
+        "pt-BR": "Quarta parte (1): Quarta parte"
       }
     },
     {
       "id": "lk-27",
       "title": {
-        "en-US": "Part four (2): Sixth Meditation-friday"
+        "en-US": "Part four (2): Sixth Meditation-friday",
+        "pt-BR": "Quarta parte (2): Sexta meditação — sexta-feira"
       }
     },
     {
       "id": "lk-28",
       "title": {
-        "en-US": "Part five (1): Devotional Exercises to Be Done Each Month to"
+        "en-US": "Part five (1): Devotional Exercises to Be Done Each Month to",
+        "pt-BR": "Quinta parte (1): Exercícios de devoção para cada mês a fim de"
       }
     },
     {
       "id": "lk-29",
       "title": {
-        "en-US": "Part five (2): Exercise for the First and Last Days of the Month"
+        "en-US": "Part five (2): Exercise for the First and Last Days of the Month",
+        "pt-BR": "Quinta parte (2): Exercício para o primeiro e o último dia do mês"
       }
     },
     {
       "id": "lk-30",
       "title": {
-        "en-US": "Part five (3): Rosary of the Eternal Father"
+        "en-US": "Part five (3): Rosary of the Eternal Father",
+        "pt-BR": "Quinta parte (3): Rosário do Pai Eterno"
       }
     },
     {
       "id": "lk-31",
       "title": {
-        "en-US": "Part five (4): X. Acts of Love in Honor of the Birth and Holy Childhood of Jesus"
+        "en-US": "Part five (4): X. Acts of Love in Honor of the Birth and Holy Childhood of Jesus",
+        "pt-BR": "Quinta parte (4): X. Atos de amor em honra do nascimento e da santa infância de Jesus"
       }
     },
     {
       "id": "lk-32",
       "title": {
-        "en-US": "Part six (1): Devotional Exercises for the Beginning and"
+        "en-US": "Part six (1): Devotional Exercises for the Beginning and",
+        "pt-BR": "Sexta parte (1): Exercícios de devoção para o início e"
       }
     },
     {
       "id": "lk-33",
       "title": {
-        "en-US": "Part six (2): Beginning the New Year with Jesus"
+        "en-US": "Part six (2): Beginning the New Year with Jesus",
+        "pt-BR": "Sexta parte (2): Começar o novo ano com Jesus"
       }
     },
     {
       "id": "lk-34",
       "title": {
-        "en-US": "Part six (3): Viii. Seven Methods of Venerating the Mysteries of Our Lord"
+        "en-US": "Part six (3): Viii. Seven Methods of Venerating the Mysteries of Our Lord",
+        "pt-BR": "Sexta parte (3): VIII. Sete métodos de venerar os mistérios de Nosso Senhor"
       }
     },
     {
       "id": "lk-35",
       "title": {
-        "en-US": "Part six (4): Xii. Mysteries of the Life of the Blessed Virgin"
+        "en-US": "Part six (4): Xii. Mysteries of the Life of the Blessed Virgin",
+        "pt-BR": "Sexta parte (4): XII. Mistérios da vida da bem-aventurada Virgem"
       }
     },
     {
       "id": "lk-36",
       "title": {
-        "en-US": "Part six (5): Prayer to Jesus for the Renewal of the Three Vows of Religion"
+        "en-US": "Part six (5): Prayer to Jesus for the Renewal of the Three Vows of Religion",
+        "pt-BR": "Sexta parte (5): Oração a Jesus para a renovação dos três votos religiosos"
       }
     },
     {
       "id": "lk-37",
       "title": {
-        "en-US": "Part seven (1): Devotional Exercises for the Anniversary"
+        "en-US": "Part seven (1): Devotional Exercises for the Anniversary",
+        "pt-BR": "Sétima parte (1): Exercícios de devoção para o aniversário"
       }
     },
     {
       "id": "lk-38",
       "title": {
-        "en-US": "Part seven (2): CONCERNING THE RIGHTFUL HOMAGE YOU OUGHT To HAVE RENDERED To GOD AT"
+        "en-US": "Part seven (2): CONCERNING THE RIGHTFUL HOMAGE YOU OUGHT To HAVE RENDERED To GOD AT",
+        "pt-BR": "Sétima parte (2): SOBRE A JUSTA HOMENAGEM QUE DEVERIAS TER PRESTADO A DEUS NO"
       }
     },
     {
       "id": "lk-39",
       "title": {
-        "en-US": "Part seven (3): Prayer to Jesus"
+        "en-US": "Part seven (3): Prayer to Jesus",
+        "pt-BR": "Sétima parte (3): Oração a Jesus"
       }
     },
     {
       "id": "lk-40",
       "title": {
-        "en-US": "Part seven (4): Meditation on Submission to the Divine Will"
+        "en-US": "Part seven (4): Meditation on Submission to the Divine Will",
+        "pt-BR": "Sétima parte (4): Meditação sobre a submissão à vontade divina"
       }
     },
     {
       "id": "lk-41",
       "title": {
-        "en-US": "Part seven (5): Sixth Day"
+        "en-US": "Part seven (5): Sixth Day",
+        "pt-BR": "Sétima parte (5): Sexto dia"
       }
     },
     {
       "id": "lk-42",
       "title": {
-        "en-US": "Part seven (6): The Particular Judgment"
+        "en-US": "Part seven (6): The Particular Judgment",
+        "pt-BR": "Sétima parte (6): O juízo particular"
       }
     },
     {
       "id": "lk-43",
       "title": {
-        "en-US": "Part seven (7): Conclusion of the Exercise"
+        "en-US": "Part seven (7): Conclusion of the Exercise",
+        "pt-BR": "Sétima parte (7): Conclusão do exercício"
       }
     }
   ]

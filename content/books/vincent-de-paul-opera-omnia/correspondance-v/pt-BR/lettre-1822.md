@@ -1,0 +1,29 @@
+# Carta 1822. A Etienne Blatiron, superior, em Gênova
+
+De Paris, neste último dia de dezembro de 1654.
+
+Senhor,
+
+A graça de Nosso Senhor esteja convosco para sempre!
+
+Escrevi-vos em minha última carta sobre o pedido que nos faz o Senhor marquês de Pianezze, chefe do conselho de Sua Alteza Real de Saboia [^1], de dois missionários, para estabelecê-los em Turim. E, porque o Senhor Le Vazeux, superior de Annecy, me enviou a carta do Senhor primeiro presidente do senado de Chambéry, na qual lhe comunica que o referido Senhor marquês, em vez de dois padres da Missão, pede seis, para serem destinados a uma igreja do Santíssimo Sacramento da cidade de Turim, onde outrora se realizaram alguns milagres, sem que lhes seja permitido ir trabalhar no campo, não excluindo, porém, que, se houver recursos para sustentar outros além desse número, possam ser destinados ao campo e ali exercer nossas funções, foi isso, Senhor, que me fez pensar ser conveniente que façais uma viagem até lá, com a anuência de Monsenhor cardeal. São apenas três dias de viagem, segundo me asseguraram, e por bom caminho. É isso que me leva a vos pedir que tomeis esse trabalho e, estando em Turim, procureis o Senhor Tévenot, cirurgião de Sua Alteza Real, que é muito nosso amigo, como ele vos dirá; e, se não estiver lá, dirigir-vos-eis pessoalmente ao referido Senhor marquês, apresentar-lhe-eis nossos respeitos e lhe oferecereis os serviços da companhia e os meus em particular; dir-lhe-eis que vos pedi que fôsseis procurá-lo e que lhe désseis a entender, com todo o respeito de que fordes capaz, que o procurais por causa da ordem que me fez transmitir de lhe enviar missionários, e que lhe explicásseis a finalidade de nosso Instituto e como não podemos aceitar fundações senão com a condição de realizar missões no campo e, se houver ocasião, os exercícios da ordenação, caso os Senhores prelados o queiram, e que, de outro modo, agiríamos contra o desígnio de Deus a nosso respeito; mas que, se a coisa puder ser ajustada de maneira que se possa fazer uma coisa sem omitir a outra, procuraremos fazê-lo, embora não sem dificuldade, por causa das poucas pessoas que nos restam, depois de muitas que nos morreram nos anos passados e de muitas outras que enviamos a diversas fundações; que, se fosse possível que, desses seis padres que pede e para os quais há recursos, três fossem destinados às missões do campo, enquanto os outros três trabalhariam na cidade, faríamos assim o que Nosso Senhor e ele pedem de nós. Podereis depois informá-lo sobre as ordenações, os seminários e os outros exercícios da companhia. Talvez, como me escrevem que esse é um [projeto] [^2] daquela corte, talvez ele pudesse ajustar todas essas coisas, pois esses ministérios provavelmente não são menos úteis e necessários naquelas regiões do que em outras. Se ele vos falar em serdes um dos que lançarão os fundamentos dessa missão, dizei-lhe categoricamente que isso não é possível e assegurai a Monsenhor cardeal Durazzo que isso não acontecerá, que regressareis e continuareis, e que disso lhe dou minha palavra diante de Deus, em cuja presença lhe falo, e lhe suplico muito humildemente que consinta em que façais essa viagem. Recebi ontem à noite seu quadro [^3], que terei por muito caro e muito precioso toda a minha vida, e assim me fizestes um dos presentes mais ricos e mais agradáveis que me podíeis fazer [^4].
+
+Eis, Senhor, o pedido que vos faço e, por vosso intermédio, a Monsenhor cardeal. Seria muito desejável que pudésseis partir o mais depressa possível depois de terminada vossa missão, a qual peço a Deus que abençoe, assim como vossa querida pessoa, e peço à sua divina bondade que abençoe vossa viagem e vossa negociação. Quando estiverdes em Turim, escrevei-nos, por favor, sem demora, e dai notícia ao Senhor Berthe, em Roma, do que tiverdes feito.
+
+Sou, entretanto, no amor de Nosso Senhor, Senhor, vosso muito humilde servidor.
+
+VICENTE DE PAULO,
+
+i. p. d. M.
+
+Ao pé da primeira página: Sr. Blatiron. [^5]
+
+[^1]: Filipe-Emanuel-Filiberto-Jacinto de Simiane, marquês de Pianezza, participara em sua juventude das guerras de Monferrato e da região de Gênova e conquistara, por seu valor, o título de coronel-general da infantaria. Tão hábil diplomata quanto valente guerreiro, atraiu a atenção da duquesa regente, a Senhora Cristina de França, que o tomou como primeiro-ministro e lhe conservou a confiança durante toda a regência. A ascensão de Carlos Emanuel II não alterou em nada sua situação. Entretanto, o marquês de Pianezza não se sentia em seu lugar. Não tinha outra ambição senão viver tranquilamente numa casa religiosa, longe da corte e dos negócios. Foi necessária toda a autoridade de Alexandre VII para fazê-lo adiar a execução de seu projeto. Após a morte desse Pontífice, o primeiro-ministro entregou todos os seus bens ao filho, o marquês de Livorno, e retirou-se para o mosteiro de São Pancrácio. Consternado com esse abandono, Carlos Emanuel fez sucessivas tentativas para demovê-lo. Como o marquês não queria ceder, sugeriu-lhe a ideia de regressar a Turim e estabelecer-se numa casa religiosa de sua escolha, da qual só sairia quando fosse chamado à corte para dar seu parecer sobre assuntos importantes. O marquês de Pinnezza aceitou a proposta. Escolheu a casa dos padres da Missão, que ele próprio fundara e onde morreu em julho de 1677, aos sessenta e nove anos de idade. Tinha conhecimentos muito amplos sobre toda espécie de assuntos, até mesmo sobre teologia. Escreveu em italiano um *Tratado da verdade da religião cristã*, que o padre Bouhours traduziu para o francês em 1672, e em latim um opúsculo piedoso, *Pissimi in Deum affectus cordis*.
+
+[^2]: O original traz *des saints*.
+
+[^3]: Seu retrato.
+
+[^4]: Estas palavras, a partir de *toda a minha vida*, são da mão do santo.
+
+[^5]: L. s. — Dossiê de Turim, original.
