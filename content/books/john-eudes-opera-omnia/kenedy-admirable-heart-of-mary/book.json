@@ -16,13 +16,19 @@
   },
   "composed": 1948,
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "john-eudes/coeur-admirable",
   "editions": {
     "en-US": {
       "translator": "Charles di Targiani and Ruth Hauser",
       "year": 1948
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -39,535 +45,624 @@
     {
       "id": "ah-01",
       "title": {
-        "en-US": "Part one"
+        "en-US": "Part one",
+        "pt-BR": "Primeira parte"
       }
     },
     {
       "id": "ah-02",
       "title": {
-        "en-US": "Part one: Object of the Devotion"
+        "en-US": "Part one: Object of the Devotion",
+        "pt-BR": "Primeira parte: Objeto da devoção"
       }
     },
     {
       "id": "ah-03",
       "title": {
-        "en-US": "Part one, Chapter I: Reasons for the Name \"admirable\""
+        "en-US": "Part one, Chapter I: Reasons for the Name \"admirable\"",
+        "pt-BR": "Primeira parte, Capítulo I: Razões do nome “admirável”"
       }
     },
     {
       "id": "ah-04",
       "title": {
-        "en-US": "Part one, Chapter 11: The Heart of Mary in General"
+        "en-US": "Part one, Chapter 11: The Heart of Mary in General",
+        "pt-BR": "Primeira parte, Capítulo II: O Coração de Maria em geral"
       }
     },
     {
       "id": "ah-05",
       "title": {
-        "en-US": "Part one, Chapter III: The Corporeal Heart of Mary"
+        "en-US": "Part one, Chapter III: The Corporeal Heart of Mary",
+        "pt-BR": "Primeira parte, Capítulo III: O Coração corporal de Maria"
       }
     },
     {
       "id": "ah-06",
       "title": {
-        "en-US": "Part one, Chapter 1V: The Spiritual Heart of Mary"
+        "en-US": "Part one, Chapter 1V: The Spiritual Heart of Mary",
+        "pt-BR": "Primeira parte, Capítulo IV: O Coração espiritual de Maria"
       }
     },
     {
       "id": "ah-07",
       "title": {
-        "en-US": "Part one, Chapter V: The Divine Heart of Mary"
+        "en-US": "Part one, Chapter V: The Divine Heart of Mary",
+        "pt-BR": "Primeira parte, Capítulo V: O Coração divino de Maria"
       }
     },
     {
       "id": "ah-08",
       "title": {
-        "en-US": "Part two: First Foundation of the Devotion: The: Heart of God the Father"
+        "en-US": "Part two: First Foundation of the Devotion: The: Heart of God the Father",
+        "pt-BR": "Segunda parte: Primeiro fundamento da devoção: O Coração de Deus Pai"
       }
     },
     {
       "id": "ah-09",
       "title": {
-        "en-US": "Part two: First Foundation of the Devotion: Six Symbolic Pictures"
+        "en-US": "Part two: First Foundation of the Devotion: Six Symbolic Pictures",
+        "pt-BR": "Segunda parte: Primeiro fundamento da devoção: Seis imagens simbólicas"
       }
     },
     {
       "id": "ah-10",
       "title": {
-        "en-US": "Part two, Chapter I: God the Father, Delineator"
+        "en-US": "Part two, Chapter I: God the Father, Delineator",
+        "pt-BR": "Segunda parte, Capítulo I: Deus Pai, autor das imagens"
       }
     },
     {
       "id": "ah-11",
       "title": {
-        "en-US": "Part two, Chapter 11: Mary's Heart, the Heavens"
+        "en-US": "Part two, Chapter 11: Mary's Heart, the Heavens",
+        "pt-BR": "Segunda parte, Capítulo II: O Coração de Maria, os céus"
       }
     },
     {
       "id": "ah-12",
       "title": {
-        "en-US": "Part two, Chapter III: Mary's Heart, the Sun"
+        "en-US": "Part two, Chapter III: Mary's Heart, the Sun",
+        "pt-BR": "Segunda parte, Capítulo III: O Coração de Maria, o sol"
       }
     },
     {
       "id": "ah-13",
       "title": {
-        "en-US": "Part two, Chapter IV: Mary's Heart, the Center of the Earth"
+        "en-US": "Part two, Chapter IV: Mary's Heart, the Center of the Earth",
+        "pt-BR": "Segunda parte, Capítulo IV: O Coração de Maria, o centro da terra"
       }
     },
     {
       "id": "ah-14",
       "title": {
-        "en-US": "Part two, Chapter V: Mary's Heart, the Inexhaustible Fountain"
+        "en-US": "Part two, Chapter V: Mary's Heart, the Inexhaustible Fountain",
+        "pt-BR": "Segunda parte, Capítulo V: O Coração de Maria, a fonte inesgotável"
       }
     },
     {
       "id": "ah-15",
       "title": {
-        "en-US": "Part two, Chapter V1: Mary's Heart, the Sea"
+        "en-US": "Part two, Chapter V1: Mary's Heart, the Sea",
+        "pt-BR": "Segunda parte, Capítulo VI: O Coração de Maria, o mar"
       }
     },
     {
       "id": "ah-16",
       "title": {
-        "en-US": "Part two, Chapter V11: Mary's Heart, the Garden of Eden"
+        "en-US": "Part two, Chapter V11: Mary's Heart, the Garden of Eden",
+        "pt-BR": "Segunda parte, Capítulo VII: O Coração de Maria, o jardim do Éden"
       }
     },
     {
       "id": "ah-17",
       "title": {
-        "en-US": "Part three: Six Additional Symbolic Pictures"
+        "en-US": "Part three: Six Additional Symbolic Pictures",
+        "pt-BR": "Terceira parte: Mais seis imagens simbólicas"
       }
     },
     {
       "id": "ah-18",
       "title": {
-        "en-US": "Part three, Chapter I: Mary's Heart, the Burning Bush of Moses"
+        "en-US": "Part three, Chapter I: Mary's Heart, the Burning Bush of Moses",
+        "pt-BR": "Terceira parte, Capítulo I: O Coração de Maria, a sarça ardente de Moisés"
       }
     },
     {
       "id": "ah-19",
       "title": {
-        "en-US": "Part three, Chapter 11: Mary's Heart, the Harp of King David"
+        "en-US": "Part three, Chapter 11: Mary's Heart, the Harp of King David",
+        "pt-BR": "Terceira parte, Capítulo II: O Coração de Maria, a harpa do rei Davi"
       }
     },
     {
       "id": "ah-20",
       "title": {
-        "en-US": "Part three, Chapter III: Mary's Heart, the Throne of King Solomon"
+        "en-US": "Part three, Chapter III: Mary's Heart, the Throne of King Solomon",
+        "pt-BR": "Terceira parte, Capítulo III: O Coração de Maria, o trono do rei Salomão"
       }
     },
     {
       "id": "ah-21",
       "title": {
-        "en-US": "Part three, Chapter IV: Mary's Heart, the Temple of Jerusalem"
+        "en-US": "Part three, Chapter IV: Mary's Heart, the Temple of Jerusalem",
+        "pt-BR": "Terceira parte, Capítulo IV: O Coração de Maria, o templo de Jerusalém"
       }
     },
     {
       "id": "ah-22",
       "title": {
-        "en-US": "Part three, Chapter V: Mary's Heart, the Fiery Furnace of Babylon"
+        "en-US": "Part three, Chapter V: Mary's Heart, the Fiery Furnace of Babylon",
+        "pt-BR": "Terceira parte, Capítulo V: O Coração de Maria, a fornalha ardente de Babilônia"
       }
     },
     {
       "id": "ah-23",
       "title": {
-        "en-US": "Part three, Chapter V1: Mary's Heart, the Hill of Calvary"
+        "en-US": "Part three, Chapter V1: Mary's Heart, the Hill of Calvary",
+        "pt-BR": "Terceira parte, Capítulo VI: O Coração de Maria, o monte Calvário"
       }
     },
     {
       "id": "ah-24",
       "title": {
-        "en-US": "Part four: Second Foundation of the Devotion: The: Heart of God the Son"
+        "en-US": "Part four: Second Foundation of the Devotion: The: Heart of God the Son",
+        "pt-BR": "Quarta parte: Segundo fundamento da devoção: O Coração de Deus Filho"
       }
     },
     {
       "id": "ah-25",
       "title": {
-        "en-US": "Part four: Second Foundation of the Devotion: Divine Perfections Mirrored"
+        "en-US": "Part four: Second Foundation of the Devotion: Divine Perfections Mirrored",
+        "pt-BR": "Quarta parte: Segundo fundamento da devoção: Perfeições divinas refletidas"
       }
     },
     {
       "id": "ah-26",
       "title": {
-        "en-US": "Part four, Chapter I*: Our Lord Jesus Christ, Teacher of the Devo"
+        "en-US": "Part four, Chapter I*: Our Lord Jesus Christ, Teacher of the Devo",
+        "pt-BR": "Quarta parte, Capítulo I*: Nosso Senhor Jesus Cristo, Mestre da devo"
       }
     },
     {
       "id": "ah-27",
       "title": {
-        "en-US": "Part four, Chapter 11: Some Essential Divine Perfections(1) Mirrored"
+        "en-US": "Part four, Chapter 11: Some Essential Divine Perfections(1) Mirrored",
+        "pt-BR": "Quarta parte, Capítulo II: Algumas perfeições divinas essenciais(1) refletidas"
       }
     },
     {
       "id": "ah-28",
       "title": {
-        "en-US": "Part four, Chapter III: Purity and Sanctity of God Mirrored"
+        "en-US": "Part four, Chapter III: Purity and Sanctity of God Mirrored",
+        "pt-BR": "Quarta parte, Capítulo III: A pureza e a santidade de Deus refletidas"
       }
     },
     {
       "id": "ah-29",
       "title": {
-        "en-US": "Part four, Chapter 1V: Strength and Power of God Mirrored"
+        "en-US": "Part four, Chapter 1V: Strength and Power of God Mirrored",
+        "pt-BR": "Quarta parte, Capítulo IV: A força e o poder de Deus refletidos"
       }
     },
     {
       "id": "ah-30",
       "title": {
-        "en-US": "Part four, Chapter V: Wisdom and Truth of God Mirrored"
+        "en-US": "Part four, Chapter V: Wisdom and Truth of God Mirrored",
+        "pt-BR": "Quarta parte, Capítulo V: A sabedoria e a verdade de Deus refletidas"
       }
     },
     {
       "id": "ah-31",
       "title": {
-        "en-US": "Part four, Chapter VI: Goodness and Providence of God Mirrored: In the Admirable Heart of Mary"
+        "en-US": "Part four, Chapter VI: Goodness and Providence of God Mirrored: In the Admirable Heart of Mary",
+        "pt-BR": "Quarta parte, Capítulo VI: A bondade e a providência de Deus refletidas no Coração admirável de Maria"
       }
     },
     {
       "id": "ah-32",
       "title": {
-        "en-US": "Part five: Further Divine Perfections Mirrored: in the Admirable Heart of Mary"
+        "en-US": "Part five: Further Divine Perfections Mirrored: in the Admirable Heart of Mary",
+        "pt-BR": "Quinta parte: Outras perfeições divinas refletidas no Coração admirável de Maria"
       }
     },
     {
       "id": "ah-33",
       "title": {
-        "en-US": "Part five, Chapter 1: Mercy of God Mirrored in the Admirable: Heart of Mary"
+        "en-US": "Part five, Chapter 1: Mercy of God Mirrored in the Admirable: Heart of Mary",
+        "pt-BR": "Quinta parte, Capítulo I: A misericórdia de Deus refletida no Coração admirável de Maria"
       }
     },
     {
       "id": "ah-34",
       "title": {
-        "en-US": "Part five, Chapter 11: Meekness, Patience and Clemency of God"
+        "en-US": "Part five, Chapter 11: Meekness, Patience and Clemency of God",
+        "pt-BR": "Quinta parte, Capítulo II: A mansidão, a paciência e a clemência de Deus"
       }
     },
     {
       "id": "ah-35",
       "title": {
-        "en-US": "Part five, Chapter III: Justice of God Mirrored in the Admirable: Heart of Mary"
+        "en-US": "Part five, Chapter III: Justice of God Mirrored in the Admirable: Heart of Mary",
+        "pt-BR": "Quinta parte, Capítulo III: A justiça de Deus refletida no Coração admirável de Maria"
       }
     },
     {
       "id": "ah-36",
       "title": {
-        "en-US": "Part five, Chapter IV: Zeal of God Mirrored in the Admirable: Heart of Mary"
+        "en-US": "Part five, Chapter IV: Zeal of God Mirrored in the Admirable: Heart of Mary",
+        "pt-BR": "Quinta parte, Capítulo IV: O zelo de Deus refletido no Coração admirável de Maria"
       }
     },
     {
       "id": "ah-37",
       "title": {
-        "en-US": "Part five, Chapter V: Divine Sovereignty Mirrored"
+        "en-US": "Part five, Chapter V: Divine Sovereignty Mirrored",
+        "pt-BR": "Quinta parte, Capítulo V: A soberania divina refletida"
       }
     },
     {
       "id": "ah-38",
       "title": {
-        "en-US": "Part five, Chapter V1: Peace of God Mirrored"
+        "en-US": "Part five, Chapter V1: Peace of God Mirrored",
+        "pt-BR": "Quinta parte, Capítulo VI: A paz de Deus refletida"
       }
     },
     {
       "id": "ah-39",
       "title": {
-        "en-US": "Part five, Chapter V11: Glory and Felicity of God Mirrored: In the Admirable Heart of Mary"
+        "en-US": "Part five, Chapter V11: Glory and Felicity of God Mirrored: In the Admirable Heart of Mary",
+        "pt-BR": "Quinta parte, Capítulo VII: A glória e a felicidade de Deus refletidas no Coração admirável de Maria"
       }
     },
     {
       "id": "ah-40",
       "title": {
-        "en-US": "Part five, Chapter V111: The Admirable Heart of Mary: Compendium: Of the Life of God"
+        "en-US": "Part five, Chapter V111: The Admirable Heart of Mary: Compendium: Of the Life of God",
+        "pt-BR": "Quinta parte, Capítulo VIII: O Coração admirável de Maria: Compêndio da vida de Deus"
       }
     },
     {
       "id": "ah-41",
       "title": {
-        "en-US": "Part six: Third Foundation of the Devotion: The: Heart of God the Holy Ghost"
+        "en-US": "Part six: Third Foundation of the Devotion: The: Heart of God the Holy Ghost",
+        "pt-BR": "Sexta parte: Terceiro fundamento da devoção: O Coração de Deus Espírito Santo"
       }
     },
     {
       "id": "ah-42",
       "title": {
-        "en-US": "Part six: Third Foundation of the Devotion: The Heart of God the Holy Ghost(*)"
+        "en-US": "Part six: Third Foundation of the Devotion: The Heart of God the Holy Ghost(*)",
+        "pt-BR": "Sexta parte: Terceiro fundamento da devoção: O Coração de Deus Espírito Santo(*)"
       }
     },
     {
       "id": "ah-43",
       "title": {
-        "en-US": "Part six, Chapter I: \"all the Glory of the King's Daughter: Is Within\""
+        "en-US": "Part six, Chapter I: \"all the Glory of the King's Daughter: Is Within\"",
+        "pt-BR": "Sexta parte, Capítulo I: “Toda a glória da filha do rei está no interior”"
       }
     },
     {
       "id": "ah-44",
       "title": {
-        "en-US": "Part six, Chapter 11: \"a Bundle of Myrrh is My Beloved to Me\""
+        "en-US": "Part six, Chapter 11: \"a Bundle of Myrrh is My Beloved to Me\"",
+        "pt-BR": "Sexta parte, Capítulo II: “Um feixe de mirra é meu amado para mim”"
       }
     },
     {
       "id": "ah-45",
       "title": {
-        "en-US": "Part six, Chapter III: \"i Sleep, and My Heart Watcheth\""
+        "en-US": "Part six, Chapter III: \"i Sleep, and My Heart Watcheth\"",
+        "pt-BR": "Sexta parte, Capítulo III: “Eu durmo, e meu coração vela”"
       }
     },
     {
       "id": "ah-46",
       "title": {
-        "en-US": "Part six, Chapter IV: \"my Beloved to Me, and I to Him\""
+        "en-US": "Part six, Chapter IV: \"my Beloved to Me, and I to Him\"",
+        "pt-BR": "Sexta parte, Capítulo IV: “Meu amado para mim, e eu para ele”"
       }
     },
     {
       "id": "ah-47",
       "title": {
-        "en-US": "Part six, Chapter V: \"put Me as a Seal Upon Thy Heart\""
+        "en-US": "Part six, Chapter V: \"put Me as a Seal Upon Thy Heart\"",
+        "pt-BR": "Sexta parte, Capítulo V: “Põe-me como um selo sobre teu coração”"
       }
     },
     {
       "id": "ah-48",
       "title": {
-        "en-US": "Part six, Chapter VI: «mary Kept All These Words, Pondering Them: In her Heart»"
+        "en-US": "Part six, Chapter VI: «mary Kept All These Words, Pondering Them: In her Heart»",
+        "pt-BR": "Sexta parte, Capítulo VI: “Maria guardava todas essas palavras, meditando-as em seu coração”"
       }
     },
     {
       "id": "ah-49",
       "title": {
-        "en-US": "Part seven (1): Inspired Catholic Tradition Concerning"
+        "en-US": "Part seven (1): Inspired Catholic Tradition Concerning",
+        "pt-BR": "Sétima parte (1): A tradição católica inspirada acerca de"
       }
     },
     {
       "id": "ah-50",
       "title": {
-        "en-US": "Part seven': Inspired Catholic Tradition Concerning"
+        "en-US": "Part seven': Inspired Catholic Tradition Concerning",
+        "pt-BR": "Sétima parte: A tradição católica inspirada acerca de"
       }
     },
     {
       "id": "ah-51",
       "title": {
-        "en-US": "Part seven', Chapter I: Testimony of the Fathers and: Ascetical Writers"
+        "en-US": "Part seven', Chapter I: Testimony of the Fathers and: Ascetical Writers",
+        "pt-BR": "Sétima parte, Capítulo I: Testemunho dos Padres e dos escritores ascéticos"
       }
     },
     {
       "id": "ah-52",
       "title": {
-        "en-US": "Part seven', Chapter 1I: Ecclesiastical Approbations"
+        "en-US": "Part seven', Chapter 1I: Ecclesiastical Approbations",
+        "pt-BR": "Sétima parte, Capítulo II: Aprovações eclesiásticas"
       }
     },
     {
       "id": "ah-53",
       "title": {
-        "en-US": "Part seven', Chapter III: Example of Saints and Religious Orders"
+        "en-US": "Part seven', Chapter III: Example of Saints and Religious Orders",
+        "pt-BR": "Sétima parte, Capítulo III: Exemplo dos santos e das ordens religiosas"
       }
     },
     {
       "id": "ah-54",
       "title": {
-        "en-US": "Part eight: Fourth Foundation of the Devotion: Sanctity of the Admirable Heart of Mary"
+        "en-US": "Part eight: Fourth Foundation of the Devotion: Sanctity of the Admirable Heart of Mary",
+        "pt-BR": "Oitava parte: Quarto fundamento da devoção: Santidade do Coração admirável de Maria"
       }
     },
     {
       "id": "ah-55",
       "title": {
-        "en-US": "Part eight (*): Fourth Foundation of the Devotion: Sanctity of the Admirable"
+        "en-US": "Part eight (*): Fourth Foundation of the Devotion: Sanctity of the Admirable",
+        "pt-BR": "Oitava parte (*): Quarto fundamento da devoção: Santidade do admirável"
       }
     },
     {
       "id": "ah-56",
       "title": {
-        "en-US": "Part eight (*), Chapter I: Heart of Mary, Immaculate and Sinless"
+        "en-US": "Part eight (*), Chapter I: Heart of Mary, Immaculate and Sinless",
+        "pt-BR": "Oitava parte (*), Capítulo I: Coração de Maria, imaculado e sem pecado"
       }
     },
     {
       "id": "ah-57",
       "title": {
-        "en-US": "Part eight (*), Chapter 11: Heart of Mary, Ocean of Grace"
+        "en-US": "Part eight (*), Chapter 11: Heart of Mary, Ocean of Grace",
+        "pt-BR": "Oitava parte (*), Capítulo II: Coração de Maria, oceano de graça"
       }
     },
     {
       "id": "ah-58",
       "title": {
-        "en-US": "Part eight (*), Chapter III: Heart of Mary, Miracle of Love"
+        "en-US": "Part eight (*), Chapter III: Heart of Mary, Miracle of Love",
+        "pt-BR": "Oitava parte (*), Capítulo III: Coração de Maria, milagre de amor"
       }
     },
     {
       "id": "ah-59",
       "title": {
-        "en-US": "Part eight (*), Chapter IV: Heart of Mary, Mirror of Charity"
+        "en-US": "Part eight (*), Chapter IV: Heart of Mary, Mirror of Charity",
+        "pt-BR": "Oitava parte (*), Capítulo IV: Coração de Maria, espelho de caridade"
       }
     },
     {
       "id": "ah-60",
       "title": {
-        "en-US": "Part eight (*), Chapter V: Heart of Mary, Abyss of Humility"
+        "en-US": "Part eight (*), Chapter V: Heart of Mary, Abyss of Humility",
+        "pt-BR": "Oitava parte (*), Capítulo V: Coração de Maria, abismo de humildade"
       }
     },
     {
       "id": "ah-61",
       "title": {
-        "en-US": "Part eight (*), Chapter V1: Heart of Mary, Empire of the Divine Will"
+        "en-US": "Part eight (*), Chapter V1: Heart of Mary, Empire of the Divine Will",
+        "pt-BR": "Oitava parte (*), Capítulo VI: Coração de Maria, império da Vontade divina"
       }
     },
     {
       "id": "ah-62",
       "title": {
-        "en-US": "Part eight (*), Chapter V11: Heart of Mary, Treasure-house of: Gratuitous Graces"
+        "en-US": "Part eight (*), Chapter V11: Heart of Mary, Treasure-house of: Gratuitous Graces",
+        "pt-BR": "Oitava parte (*), Capítulo VII: Coração de Maria, tesouro de graças gratuitas"
       }
     },
     {
       "id": "ah-63",
       "title": {
-        "en-US": "Part eight (*), Chapter VIII: Heart of Mary, Inestimable Treasury"
+        "en-US": "Part eight (*), Chapter VIII: Heart of Mary, Inestimable Treasury",
+        "pt-BR": "Oitava parte (*), Capítulo VIII: Coração de Maria, tesouro inestimável"
       }
     },
     {
       "id": "ah-64",
       "title": {
-        "en-US": "Part eight (*), Chapter IX: Heart of Mary, Sanctuary, Censer and Altar: Of Divine Love"
+        "en-US": "Part eight (*), Chapter IX: Heart of Mary, Sanctuary, Censer and Altar: Of Divine Love",
+        "pt-BR": "Oitava parte (*), Capítulo IX: Coração de Maria, santuário, incensário e altar do Amor divino"
       }
     },
     {
       "id": "ah-65",
       "title": {
-        "en-US": "Part eight (*), Chapter X: Heart of Mary, Center of the Cross"
+        "en-US": "Part eight (*), Chapter X: Heart of Mary, Center of the Cross",
+        "pt-BR": "Oitava parte (*), Capítulo X: Coração de Maria, centro da Cruz"
       }
     },
     {
       "id": "ah-66",
       "title": {
-        "en-US": "Part eight (*), Chapter XI (i): Heart of Mary, World of Wonders"
+        "en-US": "Part eight (*), Chapter XI (i): Heart of Mary, World of Wonders",
+        "pt-BR": "Oitava parte (*), Capítulo XI (i): Coração de Maria, mundo de maravilhas"
       }
     },
     {
       "id": "ah-67",
       "title": {
-        "en-US": "Part nine: Practice of the Devotion to the Admirable: Heart of Mary"
+        "en-US": "Part nine: Practice of the Devotion to the Admirable: Heart of Mary",
+        "pt-BR": "Nona parte: Prática da devoção ao Coração admirável de Maria"
       }
     },
     {
       "id": "ah-68",
       "title": {
-        "en-US": "Part nine: Practice of the Devotion"
+        "en-US": "Part nine: Practice of the Devotion",
+        "pt-BR": "Nona parte: Prática da devoção"
       }
     },
     {
       "id": "ah-69",
       "title": {
-        "en-US": "Part nine, Chapter I: Twelve Reasons for Honoring the Heart"
+        "en-US": "Part nine, Chapter I: Twelve Reasons for Honoring the Heart",
+        "pt-BR": "Nona parte, Capítulo I: Doze razões para honrar o Coração"
       }
     },
     {
       "id": "ah-70",
       "title": {
-        "en-US": "Part nine, Chapter 11: Twelve Methods of Practising This Devotion"
+        "en-US": "Part nine, Chapter 11: Twelve Methods of Practising This Devotion",
+        "pt-BR": "Nona parte, Capítulo II: Doze métodos para praticar esta devoção"
       }
     },
     {
       "id": "ah-71",
       "title": {
-        "en-US": "Part ten: The Canticle of the Admirable Heart"
+        "en-US": "Part ten: The Canticle of the Admirable Heart",
+        "pt-BR": "Décima parte: O Cântico do Coração admirável"
       }
     },
     {
       "id": "ah-72",
       "title": {
-        "en-US": "Part ten"
+        "en-US": "Part ten",
+        "pt-BR": "Décima parte"
       }
     },
     {
       "id": "ah-73",
       "title": {
-        "en-US": "Part ten, Chapter I: Excellence of This Sublime Canticle"
+        "en-US": "Part ten, Chapter I: Excellence of This Sublime Canticle",
+        "pt-BR": "Décima parte, Capítulo I: Excelência deste sublime Cântico"
       }
     },
     {
       "id": "ah-74",
       "title": {
-        "en-US": "Part ten, Chapter 11: The True Canticle of Mary's Heart"
+        "en-US": "Part ten, Chapter 11: The True Canticle of Mary's Heart",
+        "pt-BR": "Décima parte, Capítulo II: O verdadeiro Cântico do Coração de Maria"
       }
     },
     {
       "id": "ah-75",
       "title": {
-        "en-US": "Part ten, Chapter III: \"my Soul Doth Magnify the Lord\""
+        "en-US": "Part ten, Chapter III: \"my Soul Doth Magnify the Lord\"",
+        "pt-BR": "Décima parte, Capítulo III: “Minha alma engrandece o Senhor”"
       }
     },
     {
       "id": "ah-76",
       "title": {
-        "en-US": "Part ten, Chapter IV My Spirit Hath Rejoiced in God My Saviour\""
+        "en-US": "Part ten, Chapter IV My Spirit Hath Rejoiced in God My Saviour\"",
+        "pt-BR": "Décima parte, Capítulo IV: “Meu espírito se alegrou em Deus, meu Salvador”"
       }
     },
     {
       "id": "ah-77",
       "title": {
-        "en-US": "Part ten, Chapter V: \"he Hath Regarded the Humility: Of his Handmaid\""
+        "en-US": "Part ten, Chapter V: \"he Hath Regarded the Humility: Of his Handmaid\"",
+        "pt-BR": "Décima parte, Capítulo V: “Ele olhou para a humildade de sua serva”"
       }
     },
     {
       "id": "ah-78",
       "title": {
-        "en-US": "Part ten, Chapter VI: \"henceforth All Generations: Shall Call Me Blessed\""
+        "en-US": "Part ten, Chapter VI: \"henceforth All Generations: Shall Call Me Blessed\"",
+        "pt-BR": "Décima parte, Capítulo VI: “Doravante todas as gerações me chamarão bem-aventurada”"
       }
     },
     {
       "id": "ah-79",
       "title": {
-        "en-US": "Part ten, Chapter V11: \"he That is Mighty Hath Done Great Things: Unto Me: and Holy is his Name\""
+        "en-US": "Part ten, Chapter V11: \"he That is Mighty Hath Done Great Things: Unto Me: and Holy is his Name\"",
+        "pt-BR": "Décima parte, Capítulo VII: “Aquele que é poderoso fez grandes coisas por mim: e santo é seu nome”"
       }
     },
     {
       "id": "ah-80",
       "title": {
-        "en-US": "Part ten, Chapter VIII: \"his Mercy is from Generation Unto Genera: Tion, to Them That Fear Him\""
+        "en-US": "Part ten, Chapter VIII: \"his Mercy is from Generation Unto Genera: Tion, to Them That Fear Him\"",
+        "pt-BR": "Décima parte, Capítulo VIII: “Sua misericórdia se estende de geração em geração sobre os que o temem”"
       }
     },
     {
       "id": "ah-81",
       "title": {
-        "en-US": "Part ten, Chapter IX: \"he Hath Showed Might in his Arm\""
+        "en-US": "Part ten, Chapter IX: \"he Hath Showed Might in his Arm\"",
+        "pt-BR": "Décima parte, Capítulo IX: “Ele mostrou força em seu braço”"
       }
     },
     {
       "id": "ah-82",
       "title": {
-        "en-US": "Part ten, Chapter X: \"he Hath Scattered the Proud in the Conceit: Of Their Heart\""
+        "en-US": "Part ten, Chapter X: \"he Hath Scattered the Proud in the Conceit: Of Their Heart\"",
+        "pt-BR": "Décima parte, Capítulo X: “Ele dispersou os soberbos na presunção de seu coração”"
       }
     },
     {
       "id": "ah-83",
       "title": {
-        "en-US": "Part ten, Chapter X1: \"he Hath Put Down the Mighty from Their"
+        "en-US": "Part ten, Chapter X1: \"he Hath Put Down the Mighty from Their",
+        "pt-BR": "Décima parte, Capítulo XI: “Ele depôs os poderosos de seus"
       }
     },
     {
       "id": "ah-84",
       "title": {
-        "en-US": "Part ten, Chapter XII: \"he Hath Filled the Hungry with Good: Things: and the Rich He Hath Sent"
+        "en-US": "Part ten, Chapter XII: \"he Hath Filled the Hungry with Good: Things: and the Rich He Hath Sent",
+        "pt-BR": "Décima parte, Capítulo XII: “Ele encheu de bens os famintos: e aos ricos enviou"
       }
     },
     {
       "id": "ah-85",
       "title": {
-        "en-US": "Part ten, Chapter XIII: \"he Hath Received Israel his Servant\""
+        "en-US": "Part ten, Chapter XIII: \"he Hath Received Israel his Servant\"",
+        "pt-BR": "Décima parte, Capítulo XIII: “Ele acolheu Israel, seu servo”"
       }
     },
     {
       "id": "ah-86",
       "title": {
-        "en-US": "Part ten, Chapter XIV: \"as He Spoke to Our Fathers, to Abraham and: His Seed Forever\" (1)"
+        "en-US": "Part ten, Chapter XIV: \"as He Spoke to Our Fathers, to Abraham and: His Seed Forever\" (1)",
+        "pt-BR": "Décima parte, Capítulo XIV: “Como falou a nossos pais, a Abraão e à sua descendência para sempre” (1)"
       }
     },
     {
       "id": "ah-87",
       "title": {
-        "en-US": "Part ten, Chapter XIV: \"as He Spoke to Our Fathers, to Abraham and: His Seed Forever\" (2)"
+        "en-US": "Part ten, Chapter XIV: \"as He Spoke to Our Fathers, to Abraham and: His Seed Forever\" (2)",
+        "pt-BR": "Décima parte, Capítulo XIV: “Como falou a nossos pais, a Abraão e à sua descendência para sempre” (2)"
       }
     },
     {
       "id": "ah-88",
       "title": {
-        "en-US": "Part ten, Chapter XIV: \"as He Spoke to Our Fathers, to Abraham and: His Seed Forever\" (3)"
+        "en-US": "Part ten, Chapter XIV: \"as He Spoke to Our Fathers, to Abraham and: His Seed Forever\" (3)",
+        "pt-BR": "Décima parte, Capítulo XIV: “Como falou a nossos pais, a Abraão e à sua descendência para sempre” (3)"
       }
     },
     {
       "id": "ah-89",
       "title": {
-        "en-US": "Part ten, Chapter XIV: \"as He Spoke to Our Fathers, to Abraham and: His Seed Forever\" (4)"
+        "en-US": "Part ten, Chapter XIV: \"as He Spoke to Our Fathers, to Abraham and: His Seed Forever\" (4)",
+        "pt-BR": "Décima parte, Capítulo XIV: “Como falou a nossos pais, a Abraão e à sua descendência para sempre” (4)"
       }
     }
   ]
