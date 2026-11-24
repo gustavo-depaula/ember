@@ -18,13 +18,19 @@
   },
   "composed": "590-604",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "gregory-the-great/registrum-epistularum",
   "editions": {
     "la": {
       "editor": "Maurists (Sainte-Marthe), Migne PL 77",
       "year": 1849
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -44,5077 +50,5923 @@
     {
       "id": "b01-e001",
       "title": {
-        "la": "Liber I, Epistola 1"
+        "la": "Liber I, Epistola 1",
+        "pt-BR": "Livro I, Carta 1"
       }
     },
     {
       "id": "b01-e002",
       "title": {
-        "la": "Liber I, Epistola 2"
+        "la": "Liber I, Epistola 2",
+        "pt-BR": "Livro I, Carta 2"
       }
     },
     {
       "id": "b01-e003",
       "title": {
-        "la": "Liber I, Epistola 3"
+        "la": "Liber I, Epistola 3",
+        "pt-BR": "Livro I, Carta 3"
       }
     },
     {
       "id": "b01-e004",
       "title": {
-        "la": "Liber I, Epistola 4"
+        "la": "Liber I, Epistola 4",
+        "pt-BR": "Livro I, Carta 4"
       }
     },
     {
       "id": "b01-e005",
       "title": {
-        "la": "Liber I, Epistola 5"
+        "la": "Liber I, Epistola 5",
+        "pt-BR": "Livro I, Carta 5"
       }
     },
     {
       "id": "b01-e006",
       "title": {
-        "la": "Liber I, Epistola 6"
+        "la": "Liber I, Epistola 6",
+        "pt-BR": "Livro I, Carta 6"
       }
     },
     {
       "id": "b01-e007",
       "title": {
-        "la": "Liber I, Epistola 7"
+        "la": "Liber I, Epistola 7",
+        "pt-BR": "Livro I, Carta 7"
       }
     },
     {
       "id": "b01-e008",
       "title": {
-        "la": "Liber I, Epistola 8"
+        "la": "Liber I, Epistola 8",
+        "pt-BR": "Livro I, Carta 8"
       }
     },
     {
       "id": "b01-e009",
       "title": {
-        "la": "Liber I, Epistola 9"
+        "la": "Liber I, Epistola 9",
+        "pt-BR": "Livro I, Carta 9"
       }
     },
     {
       "id": "b01-e010",
       "title": {
-        "la": "Liber I, Epistola 10"
+        "la": "Liber I, Epistola 10",
+        "pt-BR": "Livro I, Carta 10"
       }
     },
     {
       "id": "b01-e011",
       "title": {
-        "la": "Liber I, Epistola 11"
+        "la": "Liber I, Epistola 11",
+        "pt-BR": "Livro I, Carta 11"
       }
     },
     {
       "id": "b01-e012",
       "title": {
-        "la": "Liber I, Epistola 12"
+        "la": "Liber I, Epistola 12",
+        "pt-BR": "Livro I, Carta 12"
       }
     },
     {
       "id": "b01-e013",
       "title": {
-        "la": "Liber I, Epistola 13"
+        "la": "Liber I, Epistola 13",
+        "pt-BR": "Livro I, Carta 13"
       }
     },
     {
       "id": "b01-e014",
       "title": {
-        "la": "Liber I, Epistola 14"
+        "la": "Liber I, Epistola 14",
+        "pt-BR": "Livro I, Carta 14"
       }
     },
     {
       "id": "b01-e015",
       "title": {
-        "la": "Liber I, Epistola 15"
+        "la": "Liber I, Epistola 15",
+        "pt-BR": "Livro I, Carta 15"
       }
     },
     {
       "id": "b01-e016",
       "title": {
-        "la": "Liber I, Epistola 16"
+        "la": "Liber I, Epistola 16",
+        "pt-BR": "Livro I, Carta 16"
       }
     },
     {
       "id": "b01-e017",
       "title": {
-        "la": "Liber I, Epistola 17"
+        "la": "Liber I, Epistola 17",
+        "pt-BR": "Livro I, Carta 17"
       }
     },
     {
       "id": "b01-e018",
       "title": {
-        "la": "Liber I, Epistola 18"
+        "la": "Liber I, Epistola 18",
+        "pt-BR": "Livro I, Carta 18"
       }
     },
     {
       "id": "b01-e019",
       "title": {
-        "la": "Liber I, Epistola 19"
+        "la": "Liber I, Epistola 19",
+        "pt-BR": "Livro I, Carta 19"
       }
     },
     {
       "id": "b01-e020",
       "title": {
-        "la": "Liber I, Epistola 20"
+        "la": "Liber I, Epistola 20",
+        "pt-BR": "Livro I, Carta 20"
       }
     },
     {
       "id": "b01-e021",
       "title": {
-        "la": "Liber I, Epistola 21"
+        "la": "Liber I, Epistola 21",
+        "pt-BR": "Livro I, Carta 21"
       }
     },
     {
       "id": "b01-e022",
       "title": {
-        "la": "Liber I, Epistola 22"
+        "la": "Liber I, Epistola 22",
+        "pt-BR": "Livro I, Carta 22"
       }
     },
     {
       "id": "b01-e023",
       "title": {
-        "la": "Liber I, Epistola 23"
+        "la": "Liber I, Epistola 23",
+        "pt-BR": "Livro I, Carta 23"
       }
     },
     {
       "id": "b01-e024",
       "title": {
-        "la": "Liber I, Epistola 24"
+        "la": "Liber I, Epistola 24",
+        "pt-BR": "Livro I, Carta 24"
       }
     },
     {
       "id": "b01-e025",
       "title": {
-        "la": "Liber I, Epistola 25"
+        "la": "Liber I, Epistola 25",
+        "pt-BR": "Livro I, Carta 25"
       }
     },
     {
       "id": "b01-e026",
       "title": {
-        "la": "Liber I, Epistola 26"
+        "la": "Liber I, Epistola 26",
+        "pt-BR": "Livro I, Carta 26"
       }
     },
     {
       "id": "b01-e027",
       "title": {
-        "la": "Liber I, Epistola 27"
+        "la": "Liber I, Epistola 27",
+        "pt-BR": "Livro I, Carta 27"
       }
     },
     {
       "id": "b01-e028",
       "title": {
-        "la": "Liber I, Epistola 28"
+        "la": "Liber I, Epistola 28",
+        "pt-BR": "Livro I, Carta 28"
       }
     },
     {
       "id": "b01-e029",
       "title": {
-        "la": "Liber I, Epistola 29"
+        "la": "Liber I, Epistola 29",
+        "pt-BR": "Livro I, Carta 29"
       }
     },
     {
       "id": "b01-e030",
       "title": {
-        "la": "Liber I, Epistola 30"
+        "la": "Liber I, Epistola 30",
+        "pt-BR": "Livro I, Carta 30"
       }
     },
     {
       "id": "b01-e031",
       "title": {
-        "la": "Liber I, Epistola 31"
+        "la": "Liber I, Epistola 31",
+        "pt-BR": "Livro I, Carta 31"
       }
     },
     {
       "id": "b01-e032",
       "title": {
-        "la": "Liber I, Epistola 32"
+        "la": "Liber I, Epistola 32",
+        "pt-BR": "Livro I, Carta 32"
       }
     },
     {
       "id": "b01-e033",
       "title": {
-        "la": "Liber I, Epistola 33"
+        "la": "Liber I, Epistola 33",
+        "pt-BR": "Livro I, Carta 33"
       }
     },
     {
       "id": "b01-e034",
       "title": {
-        "la": "Liber I, Epistola 34"
+        "la": "Liber I, Epistola 34",
+        "pt-BR": "Livro I, Carta 34"
       }
     },
     {
       "id": "b01-e035",
       "title": {
-        "la": "Liber I, Epistola 35"
+        "la": "Liber I, Epistola 35",
+        "pt-BR": "Livro I, Carta 35"
       }
     },
     {
       "id": "b01-e036",
       "title": {
-        "la": "Liber I, Epistola 36"
+        "la": "Liber I, Epistola 36",
+        "pt-BR": "Livro I, Carta 36"
       }
     },
     {
       "id": "b01-e037",
       "title": {
-        "la": "Liber I, Epistola 37"
+        "la": "Liber I, Epistola 37",
+        "pt-BR": "Livro I, Carta 37"
       }
     },
     {
       "id": "b01-e038",
       "title": {
-        "la": "Liber I, Epistola 38"
+        "la": "Liber I, Epistola 38",
+        "pt-BR": "Livro I, Carta 38"
       }
     },
     {
       "id": "b01-e039",
       "title": {
-        "la": "Liber I, Epistola 39"
+        "la": "Liber I, Epistola 39",
+        "pt-BR": "Livro I, Carta 39"
       }
     },
     {
       "id": "b01-e040",
       "title": {
-        "la": "Liber I, Epistola 40"
+        "la": "Liber I, Epistola 40",
+        "pt-BR": "Livro I, Carta 40"
       }
     },
     {
       "id": "b01-e041",
       "title": {
-        "la": "Liber I, Epistola 41"
+        "la": "Liber I, Epistola 41",
+        "pt-BR": "Livro I, Carta 41"
       }
     },
     {
       "id": "b01-e042",
       "title": {
-        "la": "Liber I, Epistola 42"
+        "la": "Liber I, Epistola 42",
+        "pt-BR": "Livro I, Carta 42"
       }
     },
     {
       "id": "b01-e043",
       "title": {
-        "la": "Liber I, Epistola 43"
+        "la": "Liber I, Epistola 43",
+        "pt-BR": "Livro I, Carta 43"
       }
     },
     {
       "id": "b01-e044",
       "title": {
-        "la": "Liber I, Epistola 44"
+        "la": "Liber I, Epistola 44",
+        "pt-BR": "Livro I, Carta 44"
       }
     },
     {
       "id": "b01-e045",
       "title": {
-        "la": "Liber I, Epistola 45"
+        "la": "Liber I, Epistola 45",
+        "pt-BR": "Livro I, Carta 45"
       }
     },
     {
       "id": "b01-e046",
       "title": {
-        "la": "Liber I, Epistola 46"
+        "la": "Liber I, Epistola 46",
+        "pt-BR": "Livro I, Carta 46"
       }
     },
     {
       "id": "b01-e047",
       "title": {
-        "la": "Liber I, Epistola 47"
+        "la": "Liber I, Epistola 47",
+        "pt-BR": "Livro I, Carta 47"
       }
     },
     {
       "id": "b01-e048",
       "title": {
-        "la": "Liber I, Epistola 48"
+        "la": "Liber I, Epistola 48",
+        "pt-BR": "Livro I, Carta 48"
       }
     },
     {
       "id": "b01-e049",
       "title": {
-        "la": "Liber I, Epistola 49"
+        "la": "Liber I, Epistola 49",
+        "pt-BR": "Livro I, Carta 49"
       }
     },
     {
       "id": "b01-e050",
       "title": {
-        "la": "Liber I, Epistola 50"
+        "la": "Liber I, Epistola 50",
+        "pt-BR": "Livro I, Carta 50"
       }
     },
     {
       "id": "b01-e051",
       "title": {
-        "la": "Liber I, Epistola 51"
+        "la": "Liber I, Epistola 51",
+        "pt-BR": "Livro I, Carta 51"
       }
     },
     {
       "id": "b01-e052",
       "title": {
-        "la": "Liber I, Epistola 52"
+        "la": "Liber I, Epistola 52",
+        "pt-BR": "Livro I, Carta 52"
       }
     },
     {
       "id": "b01-e053",
       "title": {
-        "la": "Liber I, Epistola 53"
+        "la": "Liber I, Epistola 53",
+        "pt-BR": "Livro I, Carta 53"
       }
     },
     {
       "id": "b01-e054",
       "title": {
-        "la": "Liber I, Epistola 54"
+        "la": "Liber I, Epistola 54",
+        "pt-BR": "Livro I, Carta 54"
       }
     },
     {
       "id": "b01-e055",
       "title": {
-        "la": "Liber I, Epistola 55"
+        "la": "Liber I, Epistola 55",
+        "pt-BR": "Livro I, Carta 55"
       }
     },
     {
       "id": "b01-e056",
       "title": {
-        "la": "Liber I, Epistola 56"
+        "la": "Liber I, Epistola 56",
+        "pt-BR": "Livro I, Carta 56"
       }
     },
     {
       "id": "b01-e057",
       "title": {
-        "la": "Liber I, Epistola 57"
+        "la": "Liber I, Epistola 57",
+        "pt-BR": "Livro I, Carta 57"
       }
     },
     {
       "id": "b01-e058",
       "title": {
-        "la": "Liber I, Epistola 58"
+        "la": "Liber I, Epistola 58",
+        "pt-BR": "Livro I, Carta 58"
       }
     },
     {
       "id": "b01-e059",
       "title": {
-        "la": "Liber I, Epistola 59"
+        "la": "Liber I, Epistola 59",
+        "pt-BR": "Livro I, Carta 59"
       }
     },
     {
       "id": "b01-e060",
       "title": {
-        "la": "Liber I, Epistola 60"
+        "la": "Liber I, Epistola 60",
+        "pt-BR": "Livro I, Carta 60"
       }
     },
     {
       "id": "b01-e061",
       "title": {
-        "la": "Liber I, Epistola 61"
+        "la": "Liber I, Epistola 61",
+        "pt-BR": "Livro I, Carta 61"
       }
     },
     {
       "id": "b01-e062",
       "title": {
-        "la": "Liber I, Epistola 62"
+        "la": "Liber I, Epistola 62",
+        "pt-BR": "Livro I, Carta 62"
       }
     },
     {
       "id": "b01-e063",
       "title": {
-        "la": "Liber I, Epistola 63"
+        "la": "Liber I, Epistola 63",
+        "pt-BR": "Livro I, Carta 63"
       }
     },
     {
       "id": "b01-e064",
       "title": {
-        "la": "Liber I, Epistola 64"
+        "la": "Liber I, Epistola 64",
+        "pt-BR": "Livro I, Carta 64"
       }
     },
     {
       "id": "b01-e065",
       "title": {
-        "la": "Liber I, Epistola 65"
+        "la": "Liber I, Epistola 65",
+        "pt-BR": "Livro I, Carta 65"
       }
     },
     {
       "id": "b01-e066",
       "title": {
-        "la": "Liber I, Epistola 66"
+        "la": "Liber I, Epistola 66",
+        "pt-BR": "Livro I, Carta 66"
       }
     },
     {
       "id": "b01-e067",
       "title": {
-        "la": "Liber I, Epistola 67"
+        "la": "Liber I, Epistola 67",
+        "pt-BR": "Livro I, Carta 67"
       }
     },
     {
       "id": "b01-e068",
       "title": {
-        "la": "Liber I, Epistola 68"
+        "la": "Liber I, Epistola 68",
+        "pt-BR": "Livro I, Carta 68"
       }
     },
     {
       "id": "b01-e069",
       "title": {
-        "la": "Liber I, Epistola 69"
+        "la": "Liber I, Epistola 69",
+        "pt-BR": "Livro I, Carta 69"
       }
     },
     {
       "id": "b01-e070",
       "title": {
-        "la": "Liber I, Epistola 70"
+        "la": "Liber I, Epistola 70",
+        "pt-BR": "Livro I, Carta 70"
       }
     },
     {
       "id": "b01-e071",
       "title": {
-        "la": "Liber I, Epistola 71"
+        "la": "Liber I, Epistola 71",
+        "pt-BR": "Livro I, Carta 71"
       }
     },
     {
       "id": "b01-e072",
       "title": {
-        "la": "Liber I, Epistola 72"
+        "la": "Liber I, Epistola 72",
+        "pt-BR": "Livro I, Carta 72"
       }
     },
     {
       "id": "b01-e073",
       "title": {
-        "la": "Liber I, Epistola 73"
+        "la": "Liber I, Epistola 73",
+        "pt-BR": "Livro I, Carta 73"
       }
     },
     {
       "id": "b01-e074",
       "title": {
-        "la": "Liber I, Epistola 74"
+        "la": "Liber I, Epistola 74",
+        "pt-BR": "Livro I, Carta 74"
       }
     },
     {
       "id": "b01-e075",
       "title": {
-        "la": "Liber I, Epistola 75"
+        "la": "Liber I, Epistola 75",
+        "pt-BR": "Livro I, Carta 75"
       }
     },
     {
       "id": "b01-e076",
       "title": {
-        "la": "Liber I, Epistola 76"
+        "la": "Liber I, Epistola 76",
+        "pt-BR": "Livro I, Carta 76"
       }
     },
     {
       "id": "b01-e077",
       "title": {
-        "la": "Liber I, Epistola 77"
+        "la": "Liber I, Epistola 77",
+        "pt-BR": "Livro I, Carta 77"
       }
     },
     {
       "id": "b01-e078",
       "title": {
-        "la": "Liber I, Epistola 78"
+        "la": "Liber I, Epistola 78",
+        "pt-BR": "Livro I, Carta 78"
       }
     },
     {
       "id": "b01-e079",
       "title": {
-        "la": "Liber I, Epistola 79"
+        "la": "Liber I, Epistola 79",
+        "pt-BR": "Livro I, Carta 79"
       }
     },
     {
       "id": "b01-e080",
       "title": {
-        "la": "Liber I, Epistola 80"
+        "la": "Liber I, Epistola 80",
+        "pt-BR": "Livro I, Carta 80"
       }
     },
     {
       "id": "b01-e081",
       "title": {
-        "la": "Liber I, Epistola 81"
+        "la": "Liber I, Epistola 81",
+        "pt-BR": "Livro I, Carta 81"
       }
     },
     {
       "id": "b01-e082",
       "title": {
-        "la": "Liber I, Epistola 82"
+        "la": "Liber I, Epistola 82",
+        "pt-BR": "Livro I, Carta 82"
       }
     },
     {
       "id": "b01-e083",
       "title": {
-        "la": "Liber I, Epistola 83"
+        "la": "Liber I, Epistola 83",
+        "pt-BR": "Livro I, Carta 83"
       }
     },
     {
       "id": "b01-e084",
       "title": {
-        "la": "Liber I, Epistola 84"
+        "la": "Liber I, Epistola 84",
+        "pt-BR": "Livro I, Carta 84"
       }
     },
     {
       "id": "b01-e085",
       "title": {
-        "la": "Liber I, Epistola 85"
+        "la": "Liber I, Epistola 85",
+        "pt-BR": "Livro I, Carta 85"
       }
     },
     {
       "id": "b02-e001",
       "title": {
-        "la": "Liber II, Epistola 1"
+        "la": "Liber II, Epistola 1",
+        "pt-BR": "Livro II, Carta 1"
       }
     },
     {
       "id": "b02-e002",
       "title": {
-        "la": "Liber II, Epistola 2"
+        "la": "Liber II, Epistola 2",
+        "pt-BR": "Livro II, Carta 2"
       }
     },
     {
       "id": "b02-e003",
       "title": {
-        "la": "Liber II, Epistola 3"
+        "la": "Liber II, Epistola 3",
+        "pt-BR": "Livro II, Carta 3"
       }
     },
     {
       "id": "b02-e004",
       "title": {
-        "la": "Liber II, Epistola 4"
+        "la": "Liber II, Epistola 4",
+        "pt-BR": "Livro II, Carta 4"
       }
     },
     {
       "id": "b02-e005",
       "title": {
-        "la": "Liber II, Epistola 5"
+        "la": "Liber II, Epistola 5",
+        "pt-BR": "Livro II, Carta 5"
       }
     },
     {
       "id": "b02-e006",
       "title": {
-        "la": "Liber II, Epistola 6"
+        "la": "Liber II, Epistola 6",
+        "pt-BR": "Livro II, Carta 6"
       }
     },
     {
       "id": "b02-e007",
       "title": {
-        "la": "Liber II, Epistola 7"
+        "la": "Liber II, Epistola 7",
+        "pt-BR": "Livro II, Carta 7"
       }
     },
     {
       "id": "b02-e008",
       "title": {
-        "la": "Liber II, Epistola 8"
+        "la": "Liber II, Epistola 8",
+        "pt-BR": "Livro II, Carta 8"
       }
     },
     {
       "id": "b02-e009",
       "title": {
-        "la": "Liber II, Epistola 9"
+        "la": "Liber II, Epistola 9",
+        "pt-BR": "Livro II, Carta 9"
       }
     },
     {
       "id": "b02-e010",
       "title": {
-        "la": "Liber II, Epistola 10"
+        "la": "Liber II, Epistola 10",
+        "pt-BR": "Livro II, Carta 10"
       }
     },
     {
       "id": "b02-e011",
       "title": {
-        "la": "Liber II, Epistola 11"
+        "la": "Liber II, Epistola 11",
+        "pt-BR": "Livro II, Carta 11"
       }
     },
     {
       "id": "b02-e012",
       "title": {
-        "la": "Liber II, Epistola 12"
+        "la": "Liber II, Epistola 12",
+        "pt-BR": "Livro II, Carta 12"
       }
     },
     {
       "id": "b02-e013",
       "title": {
-        "la": "Liber II, Epistola 13"
+        "la": "Liber II, Epistola 13",
+        "pt-BR": "Livro II, Carta 13"
       }
     },
     {
       "id": "b02-e014",
       "title": {
-        "la": "Liber II, Epistola 14"
+        "la": "Liber II, Epistola 14",
+        "pt-BR": "Livro II, Carta 14"
       }
     },
     {
       "id": "b02-e015",
       "title": {
-        "la": "Liber II, Epistola 15"
+        "la": "Liber II, Epistola 15",
+        "pt-BR": "Livro II, Carta 15"
       }
     },
     {
       "id": "b02-e016",
       "title": {
-        "la": "Liber II, Epistola 16"
+        "la": "Liber II, Epistola 16",
+        "pt-BR": "Livro II, Carta 16"
       }
     },
     {
       "id": "b02-e017",
       "title": {
-        "la": "Liber II, Epistola 17"
+        "la": "Liber II, Epistola 17",
+        "pt-BR": "Livro II, Carta 17"
       }
     },
     {
       "id": "b02-e018",
       "title": {
-        "la": "Liber II, Epistola 18"
+        "la": "Liber II, Epistola 18",
+        "pt-BR": "Livro II, Carta 18"
       }
     },
     {
       "id": "b02-e019",
       "title": {
-        "la": "Liber II, Epistola 19"
+        "la": "Liber II, Epistola 19",
+        "pt-BR": "Livro II, Carta 19"
       }
     },
     {
       "id": "b02-e020",
       "title": {
-        "la": "Liber II, Epistola 20"
+        "la": "Liber II, Epistola 20",
+        "pt-BR": "Livro II, Carta 20"
       }
     },
     {
       "id": "b02-e021",
       "title": {
-        "la": "Liber II, Epistola 21"
+        "la": "Liber II, Epistola 21",
+        "pt-BR": "Livro II, Carta 21"
       }
     },
     {
       "id": "b02-e022",
       "title": {
-        "la": "Liber II, Epistola 22"
+        "la": "Liber II, Epistola 22",
+        "pt-BR": "Livro II, Carta 22"
       }
     },
     {
       "id": "b02-e023",
       "title": {
-        "la": "Liber II, Epistola 23"
+        "la": "Liber II, Epistola 23",
+        "pt-BR": "Livro II, Carta 23"
       }
     },
     {
       "id": "b02-e024",
       "title": {
-        "la": "Liber II, Epistola 24"
+        "la": "Liber II, Epistola 24",
+        "pt-BR": "Livro II, Carta 24"
       }
     },
     {
       "id": "b02-e025",
       "title": {
-        "la": "Liber II, Epistola 25"
+        "la": "Liber II, Epistola 25",
+        "pt-BR": "Livro II, Carta 25"
       }
     },
     {
       "id": "b02-e026",
       "title": {
-        "la": "Liber II, Epistola 26"
+        "la": "Liber II, Epistola 26",
+        "pt-BR": "Livro II, Carta 26"
       }
     },
     {
       "id": "b02-e027",
       "title": {
-        "la": "Liber II, Epistola 27"
+        "la": "Liber II, Epistola 27",
+        "pt-BR": "Livro II, Carta 27"
       }
     },
     {
       "id": "b02-e028",
       "title": {
-        "la": "Liber II, Epistola 28"
+        "la": "Liber II, Epistola 28",
+        "pt-BR": "Livro II, Carta 28"
       }
     },
     {
       "id": "b02-e029",
       "title": {
-        "la": "Liber II, Epistola 29"
+        "la": "Liber II, Epistola 29",
+        "pt-BR": "Livro II, Carta 29"
       }
     },
     {
       "id": "b02-e030",
       "title": {
-        "la": "Liber II, Epistola 30"
+        "la": "Liber II, Epistola 30",
+        "pt-BR": "Livro II, Carta 30"
       }
     },
     {
       "id": "b02-e031",
       "title": {
-        "la": "Liber II, Epistola 31"
+        "la": "Liber II, Epistola 31",
+        "pt-BR": "Livro II, Carta 31"
       }
     },
     {
       "id": "b02-e032",
       "title": {
-        "la": "Liber II, Epistola 32"
+        "la": "Liber II, Epistola 32",
+        "pt-BR": "Livro II, Carta 32"
       }
     },
     {
       "id": "b02-e033",
       "title": {
-        "la": "Liber II, Epistola 33"
+        "la": "Liber II, Epistola 33",
+        "pt-BR": "Livro II, Carta 33"
       }
     },
     {
       "id": "b02-e034",
       "title": {
-        "la": "Liber II, Epistola 34"
+        "la": "Liber II, Epistola 34",
+        "pt-BR": "Livro II, Carta 34"
       }
     },
     {
       "id": "b02-e035",
       "title": {
-        "la": "Liber II, Epistola 35"
+        "la": "Liber II, Epistola 35",
+        "pt-BR": "Livro II, Carta 35"
       }
     },
     {
       "id": "b02-e036",
       "title": {
-        "la": "Liber II, Epistola 36"
+        "la": "Liber II, Epistola 36",
+        "pt-BR": "Livro II, Carta 36"
       }
     },
     {
       "id": "b02-e037",
       "title": {
-        "la": "Liber II, Epistola 37"
+        "la": "Liber II, Epistola 37",
+        "pt-BR": "Livro II, Carta 37"
       }
     },
     {
       "id": "b02-e038",
       "title": {
-        "la": "Liber II, Epistola 38"
+        "la": "Liber II, Epistola 38",
+        "pt-BR": "Livro II, Carta 38"
       }
     },
     {
       "id": "b02-e039",
       "title": {
-        "la": "Liber II, Epistola 39"
+        "la": "Liber II, Epistola 39",
+        "pt-BR": "Livro II, Carta 39"
       }
     },
     {
       "id": "b02-e040",
       "title": {
-        "la": "Liber II, Epistola 40"
+        "la": "Liber II, Epistola 40",
+        "pt-BR": "Livro II, Carta 40"
       }
     },
     {
       "id": "b02-e041",
       "title": {
-        "la": "Liber II, Epistola 41"
+        "la": "Liber II, Epistola 41",
+        "pt-BR": "Livro II, Carta 41"
       }
     },
     {
       "id": "b02-e042",
       "title": {
-        "la": "Liber II, Epistola 42"
+        "la": "Liber II, Epistola 42",
+        "pt-BR": "Livro II, Carta 42"
       }
     },
     {
       "id": "b02-e043",
       "title": {
-        "la": "Liber II, Epistola 43"
+        "la": "Liber II, Epistola 43",
+        "pt-BR": "Livro II, Carta 43"
       }
     },
     {
       "id": "b02-e044",
       "title": {
-        "la": "Liber II, Epistola 44"
+        "la": "Liber II, Epistola 44",
+        "pt-BR": "Livro II, Carta 44"
       }
     },
     {
       "id": "b02-e045",
       "title": {
-        "la": "Liber II, Epistola 45"
+        "la": "Liber II, Epistola 45",
+        "pt-BR": "Livro II, Carta 45"
       }
     },
     {
       "id": "b02-e046",
       "title": {
-        "la": "Liber II, Epistola 46"
+        "la": "Liber II, Epistola 46",
+        "pt-BR": "Livro II, Carta 46"
       }
     },
     {
       "id": "b02-e047",
       "title": {
-        "la": "Liber II, Epistola 47"
+        "la": "Liber II, Epistola 47",
+        "pt-BR": "Livro II, Carta 47"
       }
     },
     {
       "id": "b02-e048",
       "title": {
-        "la": "Liber II, Epistola 48"
+        "la": "Liber II, Epistola 48",
+        "pt-BR": "Livro II, Carta 48"
       }
     },
     {
       "id": "b02-e049",
       "title": {
-        "la": "Liber II, Epistola 49"
+        "la": "Liber II, Epistola 49",
+        "pt-BR": "Livro II, Carta 49"
       }
     },
     {
       "id": "b02-e050",
       "title": {
-        "la": "Liber II, Epistola 50"
+        "la": "Liber II, Epistola 50",
+        "pt-BR": "Livro II, Carta 50"
       }
     },
     {
       "id": "b02-e051",
       "title": {
-        "la": "Liber II, Epistola 51"
+        "la": "Liber II, Epistola 51",
+        "pt-BR": "Livro II, Carta 51"
       }
     },
     {
       "id": "b02-e052",
       "title": {
-        "la": "Liber II, Epistola 52"
+        "la": "Liber II, Epistola 52",
+        "pt-BR": "Livro II, Carta 52"
       }
     },
     {
       "id": "b02-e053",
       "title": {
-        "la": "Liber II, Epistola 53"
+        "la": "Liber II, Epistola 53",
+        "pt-BR": "Livro II, Carta 53"
       }
     },
     {
       "id": "b02-e054",
       "title": {
-        "la": "Liber II, Epistola 54"
+        "la": "Liber II, Epistola 54",
+        "pt-BR": "Livro II, Carta 54"
       }
     },
     {
       "id": "b03-e001",
       "title": {
-        "la": "Liber III, Epistola 1"
+        "la": "Liber III, Epistola 1",
+        "pt-BR": "Livro III, Carta 1"
       }
     },
     {
       "id": "b03-e002",
       "title": {
-        "la": "Liber III, Epistola 2"
+        "la": "Liber III, Epistola 2",
+        "pt-BR": "Livro III, Carta 2"
       }
     },
     {
       "id": "b03-e003",
       "title": {
-        "la": "Liber III, Epistola 3"
+        "la": "Liber III, Epistola 3",
+        "pt-BR": "Livro III, Carta 3"
       }
     },
     {
       "id": "b03-e004",
       "title": {
-        "la": "Liber III, Epistola 4"
+        "la": "Liber III, Epistola 4",
+        "pt-BR": "Livro III, Carta 4"
       }
     },
     {
       "id": "b03-e005",
       "title": {
-        "la": "Liber III, Epistola 5"
+        "la": "Liber III, Epistola 5",
+        "pt-BR": "Livro III, Carta 5"
       }
     },
     {
       "id": "b03-e006",
       "title": {
-        "la": "Liber III, Epistola 6"
+        "la": "Liber III, Epistola 6",
+        "pt-BR": "Livro III, Carta 6"
       }
     },
     {
       "id": "b03-e007",
       "title": {
-        "la": "Liber III, Epistola 7"
+        "la": "Liber III, Epistola 7",
+        "pt-BR": "Livro III, Carta 7"
       }
     },
     {
       "id": "b03-e008",
       "title": {
-        "la": "Liber III, Epistola 8"
+        "la": "Liber III, Epistola 8",
+        "pt-BR": "Livro III, Carta 8"
       }
     },
     {
       "id": "b03-e009",
       "title": {
-        "la": "Liber III, Epistola 9"
+        "la": "Liber III, Epistola 9",
+        "pt-BR": "Livro III, Carta 9"
       }
     },
     {
       "id": "b03-e010",
       "title": {
-        "la": "Liber III, Epistola 10"
+        "la": "Liber III, Epistola 10",
+        "pt-BR": "Livro III, Carta 10"
       }
     },
     {
       "id": "b03-e011",
       "title": {
-        "la": "Liber III, Epistola 11"
+        "la": "Liber III, Epistola 11",
+        "pt-BR": "Livro III, Carta 11"
       }
     },
     {
       "id": "b03-e012",
       "title": {
-        "la": "Liber III, Epistola 12"
+        "la": "Liber III, Epistola 12",
+        "pt-BR": "Livro III, Carta 12"
       }
     },
     {
       "id": "b03-e013",
       "title": {
-        "la": "Liber III, Epistola 13"
+        "la": "Liber III, Epistola 13",
+        "pt-BR": "Livro III, Carta 13"
       }
     },
     {
       "id": "b03-e014",
       "title": {
-        "la": "Liber III, Epistola 14"
+        "la": "Liber III, Epistola 14",
+        "pt-BR": "Livro III, Carta 14"
       }
     },
     {
       "id": "b03-e015",
       "title": {
-        "la": "Liber III, Epistola 15"
+        "la": "Liber III, Epistola 15",
+        "pt-BR": "Livro III, Carta 15"
       }
     },
     {
       "id": "b03-e016",
       "title": {
-        "la": "Liber III, Epistola 16"
+        "la": "Liber III, Epistola 16",
+        "pt-BR": "Livro III, Carta 16"
       }
     },
     {
       "id": "b03-e017",
       "title": {
-        "la": "Liber III, Epistola 17"
+        "la": "Liber III, Epistola 17",
+        "pt-BR": "Livro III, Carta 17"
       }
     },
     {
       "id": "b03-e018",
       "title": {
-        "la": "Liber III, Epistola 18"
+        "la": "Liber III, Epistola 18",
+        "pt-BR": "Livro III, Carta 18"
       }
     },
     {
       "id": "b03-e019",
       "title": {
-        "la": "Liber III, Epistola 19"
+        "la": "Liber III, Epistola 19",
+        "pt-BR": "Livro III, Carta 19"
       }
     },
     {
       "id": "b03-e020",
       "title": {
-        "la": "Liber III, Epistola 20"
+        "la": "Liber III, Epistola 20",
+        "pt-BR": "Livro III, Carta 20"
       }
     },
     {
       "id": "b03-e021",
       "title": {
-        "la": "Liber III, Epistola 21"
+        "la": "Liber III, Epistola 21",
+        "pt-BR": "Livro III, Carta 21"
       }
     },
     {
       "id": "b03-e022",
       "title": {
-        "la": "Liber III, Epistola 22"
+        "la": "Liber III, Epistola 22",
+        "pt-BR": "Livro III, Carta 22"
       }
     },
     {
       "id": "b03-e023",
       "title": {
-        "la": "Liber III, Epistola 23"
+        "la": "Liber III, Epistola 23",
+        "pt-BR": "Livro III, Carta 23"
       }
     },
     {
       "id": "b03-e024",
       "title": {
-        "la": "Liber III, Epistola 24"
+        "la": "Liber III, Epistola 24",
+        "pt-BR": "Livro III, Carta 24"
       }
     },
     {
       "id": "b03-e025",
       "title": {
-        "la": "Liber III, Epistola 25"
+        "la": "Liber III, Epistola 25",
+        "pt-BR": "Livro III, Carta 25"
       }
     },
     {
       "id": "b03-e026",
       "title": {
-        "la": "Liber III, Epistola 26"
+        "la": "Liber III, Epistola 26",
+        "pt-BR": "Livro III, Carta 26"
       }
     },
     {
       "id": "b03-e027",
       "title": {
-        "la": "Liber III, Epistola 27"
+        "la": "Liber III, Epistola 27",
+        "pt-BR": "Livro III, Carta 27"
       }
     },
     {
       "id": "b03-e028",
       "title": {
-        "la": "Liber III, Epistola 28"
+        "la": "Liber III, Epistola 28",
+        "pt-BR": "Livro III, Carta 28"
       }
     },
     {
       "id": "b03-e029",
       "title": {
-        "la": "Liber III, Epistola 29"
+        "la": "Liber III, Epistola 29",
+        "pt-BR": "Livro III, Carta 29"
       }
     },
     {
       "id": "b03-e030",
       "title": {
-        "la": "Liber III, Epistola 30"
+        "la": "Liber III, Epistola 30",
+        "pt-BR": "Livro III, Carta 30"
       }
     },
     {
       "id": "b03-e031",
       "title": {
-        "la": "Liber III, Epistola 31"
+        "la": "Liber III, Epistola 31",
+        "pt-BR": "Livro III, Carta 31"
       }
     },
     {
       "id": "b03-e032",
       "title": {
-        "la": "Liber III, Epistola 32"
+        "la": "Liber III, Epistola 32",
+        "pt-BR": "Livro III, Carta 32"
       }
     },
     {
       "id": "b03-e033",
       "title": {
-        "la": "Liber III, Epistola 33"
+        "la": "Liber III, Epistola 33",
+        "pt-BR": "Livro III, Carta 33"
       }
     },
     {
       "id": "b03-e034",
       "title": {
-        "la": "Liber III, Epistola 34"
+        "la": "Liber III, Epistola 34",
+        "pt-BR": "Livro III, Carta 34"
       }
     },
     {
       "id": "b03-e035",
       "title": {
-        "la": "Liber III, Epistola 35"
+        "la": "Liber III, Epistola 35",
+        "pt-BR": "Livro III, Carta 35"
       }
     },
     {
       "id": "b03-e036",
       "title": {
-        "la": "Liber III, Epistola 36"
+        "la": "Liber III, Epistola 36",
+        "pt-BR": "Livro III, Carta 36"
       }
     },
     {
       "id": "b03-e037",
       "title": {
-        "la": "Liber III, Epistola 37"
+        "la": "Liber III, Epistola 37",
+        "pt-BR": "Livro III, Carta 37"
       }
     },
     {
       "id": "b03-e038",
       "title": {
-        "la": "Liber III, Epistola 38"
+        "la": "Liber III, Epistola 38",
+        "pt-BR": "Livro III, Carta 38"
       }
     },
     {
       "id": "b03-e039",
       "title": {
-        "la": "Liber III, Epistola 39"
+        "la": "Liber III, Epistola 39",
+        "pt-BR": "Livro III, Carta 39"
       }
     },
     {
       "id": "b03-e040",
       "title": {
-        "la": "Liber III, Epistola 40"
+        "la": "Liber III, Epistola 40",
+        "pt-BR": "Livro III, Carta 40"
       }
     },
     {
       "id": "b03-e041",
       "title": {
-        "la": "Liber III, Epistola 41"
+        "la": "Liber III, Epistola 41",
+        "pt-BR": "Livro III, Carta 41"
       }
     },
     {
       "id": "b03-e042",
       "title": {
-        "la": "Liber III, Epistola 42"
+        "la": "Liber III, Epistola 42",
+        "pt-BR": "Livro III, Carta 42"
       }
     },
     {
       "id": "b03-e043",
       "title": {
-        "la": "Liber III, Epistola 43"
+        "la": "Liber III, Epistola 43",
+        "pt-BR": "Livro III, Carta 43"
       }
     },
     {
       "id": "b03-e044",
       "title": {
-        "la": "Liber III, Epistola 44"
+        "la": "Liber III, Epistola 44",
+        "pt-BR": "Livro III, Carta 44"
       }
     },
     {
       "id": "b03-e045",
       "title": {
-        "la": "Liber III, Epistola 45"
+        "la": "Liber III, Epistola 45",
+        "pt-BR": "Livro III, Carta 45"
       }
     },
     {
       "id": "b03-e046",
       "title": {
-        "la": "Liber III, Epistola 46"
+        "la": "Liber III, Epistola 46",
+        "pt-BR": "Livro III, Carta 46"
       }
     },
     {
       "id": "b03-e047",
       "title": {
-        "la": "Liber III, Epistola 47"
+        "la": "Liber III, Epistola 47",
+        "pt-BR": "Livro III, Carta 47"
       }
     },
     {
       "id": "b03-e048",
       "title": {
-        "la": "Liber III, Epistola 48"
+        "la": "Liber III, Epistola 48",
+        "pt-BR": "Livro III, Carta 48"
       }
     },
     {
       "id": "b03-e049",
       "title": {
-        "la": "Liber III, Epistola 49"
+        "la": "Liber III, Epistola 49",
+        "pt-BR": "Livro III, Carta 49"
       }
     },
     {
       "id": "b03-e050",
       "title": {
-        "la": "Liber III, Epistola 50"
+        "la": "Liber III, Epistola 50",
+        "pt-BR": "Livro III, Carta 50"
       }
     },
     {
       "id": "b03-e051",
       "title": {
-        "la": "Liber III, Epistola 51"
+        "la": "Liber III, Epistola 51",
+        "pt-BR": "Livro III, Carta 51"
       }
     },
     {
       "id": "b03-e052",
       "title": {
-        "la": "Liber III, Epistola 52"
+        "la": "Liber III, Epistola 52",
+        "pt-BR": "Livro III, Carta 52"
       }
     },
     {
       "id": "b03-e053",
       "title": {
-        "la": "Liber III, Epistola 53"
+        "la": "Liber III, Epistola 53",
+        "pt-BR": "Livro III, Carta 53"
       }
     },
     {
       "id": "b03-e054",
       "title": {
-        "la": "Liber III, Epistola 54"
+        "la": "Liber III, Epistola 54",
+        "pt-BR": "Livro III, Carta 54"
       }
     },
     {
       "id": "b03-e055",
       "title": {
-        "la": "Liber III, Epistola 55"
+        "la": "Liber III, Epistola 55",
+        "pt-BR": "Livro III, Carta 55"
       }
     },
     {
       "id": "b03-e056",
       "title": {
-        "la": "Liber III, Epistola 56"
+        "la": "Liber III, Epistola 56",
+        "pt-BR": "Livro III, Carta 56"
       }
     },
     {
       "id": "b03-e057",
       "title": {
-        "la": "Liber III, Epistola 57"
+        "la": "Liber III, Epistola 57",
+        "pt-BR": "Livro III, Carta 57"
       }
     },
     {
       "id": "b03-e058",
       "title": {
-        "la": "Liber III, Epistola 58"
+        "la": "Liber III, Epistola 58",
+        "pt-BR": "Livro III, Carta 58"
       }
     },
     {
       "id": "b03-e059",
       "title": {
-        "la": "Liber III, Epistola 59"
+        "la": "Liber III, Epistola 59",
+        "pt-BR": "Livro III, Carta 59"
       }
     },
     {
       "id": "b03-e060",
       "title": {
-        "la": "Liber III, Epistola 60"
+        "la": "Liber III, Epistola 60",
+        "pt-BR": "Livro III, Carta 60"
       }
     },
     {
       "id": "b03-e061",
       "title": {
-        "la": "Liber III, Epistola 61"
+        "la": "Liber III, Epistola 61",
+        "pt-BR": "Livro III, Carta 61"
       }
     },
     {
       "id": "b03-e062",
       "title": {
-        "la": "Liber III, Epistola 62"
+        "la": "Liber III, Epistola 62",
+        "pt-BR": "Livro III, Carta 62"
       }
     },
     {
       "id": "b03-e063",
       "title": {
-        "la": "Liber III, Epistola 63"
+        "la": "Liber III, Epistola 63",
+        "pt-BR": "Livro III, Carta 63"
       }
     },
     {
       "id": "b03-e064",
       "title": {
-        "la": "Liber III, Epistola 64"
+        "la": "Liber III, Epistola 64",
+        "pt-BR": "Livro III, Carta 64"
       }
     },
     {
       "id": "b03-e065",
       "title": {
-        "la": "Liber III, Epistola 65"
+        "la": "Liber III, Epistola 65",
+        "pt-BR": "Livro III, Carta 65"
       }
     },
     {
       "id": "b03-e066",
       "title": {
-        "la": "Liber III, Epistola 66"
+        "la": "Liber III, Epistola 66",
+        "pt-BR": "Livro III, Carta 66"
       }
     },
     {
       "id": "b03-e067",
       "title": {
-        "la": "Liber III, Epistola 67"
+        "la": "Liber III, Epistola 67",
+        "pt-BR": "Livro III, Carta 67"
       }
     },
     {
       "id": "b04-e001",
       "title": {
-        "la": "Liber IV, Epistola 1"
+        "la": "Liber IV, Epistola 1",
+        "pt-BR": "Livro IV, Carta 1"
       }
     },
     {
       "id": "b04-e002",
       "title": {
-        "la": "Liber IV, Epistola 2"
+        "la": "Liber IV, Epistola 2",
+        "pt-BR": "Livro IV, Carta 2"
       }
     },
     {
       "id": "b04-e003",
       "title": {
-        "la": "Liber IV, Epistola 3"
+        "la": "Liber IV, Epistola 3",
+        "pt-BR": "Livro IV, Carta 3"
       }
     },
     {
       "id": "b04-e004",
       "title": {
-        "la": "Liber IV, Epistola 4"
+        "la": "Liber IV, Epistola 4",
+        "pt-BR": "Livro IV, Carta 4"
       }
     },
     {
       "id": "b04-e005",
       "title": {
-        "la": "Liber IV, Epistola 5"
+        "la": "Liber IV, Epistola 5",
+        "pt-BR": "Livro IV, Carta 5"
       }
     },
     {
       "id": "b04-e006",
       "title": {
-        "la": "Liber IV, Epistola 6"
+        "la": "Liber IV, Epistola 6",
+        "pt-BR": "Livro IV, Carta 6"
       }
     },
     {
       "id": "b04-e007",
       "title": {
-        "la": "Liber IV, Epistola 7"
+        "la": "Liber IV, Epistola 7",
+        "pt-BR": "Livro IV, Carta 7"
       }
     },
     {
       "id": "b04-e008",
       "title": {
-        "la": "Liber IV, Epistola 8"
+        "la": "Liber IV, Epistola 8",
+        "pt-BR": "Livro IV, Carta 8"
       }
     },
     {
       "id": "b04-e009",
       "title": {
-        "la": "Liber IV, Epistola 9"
+        "la": "Liber IV, Epistola 9",
+        "pt-BR": "Livro IV, Carta 9"
       }
     },
     {
       "id": "b04-e010",
       "title": {
-        "la": "Liber IV, Epistola 10"
+        "la": "Liber IV, Epistola 10",
+        "pt-BR": "Livro IV, Carta 10"
       }
     },
     {
       "id": "b04-e011",
       "title": {
-        "la": "Liber IV, Epistola 11"
+        "la": "Liber IV, Epistola 11",
+        "pt-BR": "Livro IV, Carta 11"
       }
     },
     {
       "id": "b04-e012",
       "title": {
-        "la": "Liber IV, Epistola 12"
+        "la": "Liber IV, Epistola 12",
+        "pt-BR": "Livro IV, Carta 12"
       }
     },
     {
       "id": "b04-e013",
       "title": {
-        "la": "Liber IV, Epistola 13"
+        "la": "Liber IV, Epistola 13",
+        "pt-BR": "Livro IV, Carta 13"
       }
     },
     {
       "id": "b04-e014",
       "title": {
-        "la": "Liber IV, Epistola 14"
+        "la": "Liber IV, Epistola 14",
+        "pt-BR": "Livro IV, Carta 14"
       }
     },
     {
       "id": "b04-e015",
       "title": {
-        "la": "Liber IV, Epistola 15"
+        "la": "Liber IV, Epistola 15",
+        "pt-BR": "Livro IV, Carta 15"
       }
     },
     {
       "id": "b04-e016",
       "title": {
-        "la": "Liber IV, Epistola 16"
+        "la": "Liber IV, Epistola 16",
+        "pt-BR": "Livro IV, Carta 16"
       }
     },
     {
       "id": "b04-e017",
       "title": {
-        "la": "Liber IV, Epistola 17"
+        "la": "Liber IV, Epistola 17",
+        "pt-BR": "Livro IV, Carta 17"
       }
     },
     {
       "id": "b04-e018",
       "title": {
-        "la": "Liber IV, Epistola 18"
+        "la": "Liber IV, Epistola 18",
+        "pt-BR": "Livro IV, Carta 18"
       }
     },
     {
       "id": "b04-e019",
       "title": {
-        "la": "Liber IV, Epistola 19"
+        "la": "Liber IV, Epistola 19",
+        "pt-BR": "Livro IV, Carta 19"
       }
     },
     {
       "id": "b04-e020",
       "title": {
-        "la": "Liber IV, Epistola 20"
+        "la": "Liber IV, Epistola 20",
+        "pt-BR": "Livro IV, Carta 20"
       }
     },
     {
       "id": "b04-e021",
       "title": {
-        "la": "Liber IV, Epistola 21"
+        "la": "Liber IV, Epistola 21",
+        "pt-BR": "Livro IV, Carta 21"
       }
     },
     {
       "id": "b04-e022",
       "title": {
-        "la": "Liber IV, Epistola 22"
+        "la": "Liber IV, Epistola 22",
+        "pt-BR": "Livro IV, Carta 22"
       }
     },
     {
       "id": "b04-e023",
       "title": {
-        "la": "Liber IV, Epistola 23"
+        "la": "Liber IV, Epistola 23",
+        "pt-BR": "Livro IV, Carta 23"
       }
     },
     {
       "id": "b04-e024",
       "title": {
-        "la": "Liber IV, Epistola 24"
+        "la": "Liber IV, Epistola 24",
+        "pt-BR": "Livro IV, Carta 24"
       }
     },
     {
       "id": "b04-e025",
       "title": {
-        "la": "Liber IV, Epistola 25"
+        "la": "Liber IV, Epistola 25",
+        "pt-BR": "Livro IV, Carta 25"
       }
     },
     {
       "id": "b04-e026",
       "title": {
-        "la": "Liber IV, Epistola 26"
+        "la": "Liber IV, Epistola 26",
+        "pt-BR": "Livro IV, Carta 26"
       }
     },
     {
       "id": "b04-e027",
       "title": {
-        "la": "Liber IV, Epistola 27"
+        "la": "Liber IV, Epistola 27",
+        "pt-BR": "Livro IV, Carta 27"
       }
     },
     {
       "id": "b04-e028",
       "title": {
-        "la": "Liber IV, Epistola 28"
+        "la": "Liber IV, Epistola 28",
+        "pt-BR": "Livro IV, Carta 28"
       }
     },
     {
       "id": "b04-e029",
       "title": {
-        "la": "Liber IV, Epistola 29"
+        "la": "Liber IV, Epistola 29",
+        "pt-BR": "Livro IV, Carta 29"
       }
     },
     {
       "id": "b04-e030",
       "title": {
-        "la": "Liber IV, Epistola 30"
+        "la": "Liber IV, Epistola 30",
+        "pt-BR": "Livro IV, Carta 30"
       }
     },
     {
       "id": "b04-e031",
       "title": {
-        "la": "Liber IV, Epistola 31"
+        "la": "Liber IV, Epistola 31",
+        "pt-BR": "Livro IV, Carta 31"
       }
     },
     {
       "id": "b04-e032",
       "title": {
-        "la": "Liber IV, Epistola 32"
+        "la": "Liber IV, Epistola 32",
+        "pt-BR": "Livro IV, Carta 32"
       }
     },
     {
       "id": "b04-e033",
       "title": {
-        "la": "Liber IV, Epistola 33"
+        "la": "Liber IV, Epistola 33",
+        "pt-BR": "Livro IV, Carta 33"
       }
     },
     {
       "id": "b04-e034",
       "title": {
-        "la": "Liber IV, Epistola 34"
+        "la": "Liber IV, Epistola 34",
+        "pt-BR": "Livro IV, Carta 34"
       }
     },
     {
       "id": "b04-e035",
       "title": {
-        "la": "Liber IV, Epistola 35"
+        "la": "Liber IV, Epistola 35",
+        "pt-BR": "Livro IV, Carta 35"
       }
     },
     {
       "id": "b04-e036",
       "title": {
-        "la": "Liber IV, Epistola 36"
+        "la": "Liber IV, Epistola 36",
+        "pt-BR": "Livro IV, Carta 36"
       }
     },
     {
       "id": "b04-e037",
       "title": {
-        "la": "Liber IV, Epistola 37"
+        "la": "Liber IV, Epistola 37",
+        "pt-BR": "Livro IV, Carta 37"
       }
     },
     {
       "id": "b04-e038",
       "title": {
-        "la": "Liber IV, Epistola 38"
+        "la": "Liber IV, Epistola 38",
+        "pt-BR": "Livro IV, Carta 38"
       }
     },
     {
       "id": "b04-e039",
       "title": {
-        "la": "Liber IV, Epistola 39"
+        "la": "Liber IV, Epistola 39",
+        "pt-BR": "Livro IV, Carta 39"
       }
     },
     {
       "id": "b04-e040",
       "title": {
-        "la": "Liber IV, Epistola 40"
+        "la": "Liber IV, Epistola 40",
+        "pt-BR": "Livro IV, Carta 40"
       }
     },
     {
       "id": "b04-e041",
       "title": {
-        "la": "Liber IV, Epistola 41"
+        "la": "Liber IV, Epistola 41",
+        "pt-BR": "Livro IV, Carta 41"
       }
     },
     {
       "id": "b04-e042",
       "title": {
-        "la": "Liber IV, Epistola 42"
+        "la": "Liber IV, Epistola 42",
+        "pt-BR": "Livro IV, Carta 42"
       }
     },
     {
       "id": "b04-e043",
       "title": {
-        "la": "Liber IV, Epistola 43"
+        "la": "Liber IV, Epistola 43",
+        "pt-BR": "Livro IV, Carta 43"
       }
     },
     {
       "id": "b04-e044",
       "title": {
-        "la": "Liber IV, Epistola 44"
+        "la": "Liber IV, Epistola 44",
+        "pt-BR": "Livro IV, Carta 44"
       }
     },
     {
       "id": "b04-e045",
       "title": {
-        "la": "Liber IV, Epistola 45"
+        "la": "Liber IV, Epistola 45",
+        "pt-BR": "Livro IV, Carta 45"
       }
     },
     {
       "id": "b04-e046",
       "title": {
-        "la": "Liber IV, Epistola 46"
+        "la": "Liber IV, Epistola 46",
+        "pt-BR": "Livro IV, Carta 46"
       }
     },
     {
       "id": "b04-e047",
       "title": {
-        "la": "Liber IV, Epistola 47"
+        "la": "Liber IV, Epistola 47",
+        "pt-BR": "Livro IV, Carta 47"
       }
     },
     {
       "id": "b05-e001",
       "title": {
-        "la": "Liber V, Epistola 1"
+        "la": "Liber V, Epistola 1",
+        "pt-BR": "Livro V, Carta 1"
       }
     },
     {
       "id": "b05-e002",
       "title": {
-        "la": "Liber V, Epistola 2"
+        "la": "Liber V, Epistola 2",
+        "pt-BR": "Livro V, Carta 2"
       }
     },
     {
       "id": "b05-e003",
       "title": {
-        "la": "Liber V, Epistola 3"
+        "la": "Liber V, Epistola 3",
+        "pt-BR": "Livro V, Carta 3"
       }
     },
     {
       "id": "b05-e004",
       "title": {
-        "la": "Liber V, Epistola 4"
+        "la": "Liber V, Epistola 4",
+        "pt-BR": "Livro V, Carta 4"
       }
     },
     {
       "id": "b05-e005",
       "title": {
-        "la": "Liber V, Epistola 5"
+        "la": "Liber V, Epistola 5",
+        "pt-BR": "Livro V, Carta 5"
       }
     },
     {
       "id": "b05-e006",
       "title": {
-        "la": "Liber V, Epistola 6"
+        "la": "Liber V, Epistola 6",
+        "pt-BR": "Livro V, Carta 6"
       }
     },
     {
       "id": "b05-e007",
       "title": {
-        "la": "Liber V, Epistola 7"
+        "la": "Liber V, Epistola 7",
+        "pt-BR": "Livro V, Carta 7"
       }
     },
     {
       "id": "b05-e008",
       "title": {
-        "la": "Liber V, Epistola 8"
+        "la": "Liber V, Epistola 8",
+        "pt-BR": "Livro V, Carta 8"
       }
     },
     {
       "id": "b05-e009",
       "title": {
-        "la": "Liber V, Epistola 9"
+        "la": "Liber V, Epistola 9",
+        "pt-BR": "Livro V, Carta 9"
       }
     },
     {
       "id": "b05-e010",
       "title": {
-        "la": "Liber V, Epistola 10"
+        "la": "Liber V, Epistola 10",
+        "pt-BR": "Livro V, Carta 10"
       }
     },
     {
       "id": "b05-e011",
       "title": {
-        "la": "Liber V, Epistola 11"
+        "la": "Liber V, Epistola 11",
+        "pt-BR": "Livro V, Carta 11"
       }
     },
     {
       "id": "b05-e012",
       "title": {
-        "la": "Liber V, Epistola 12"
+        "la": "Liber V, Epistola 12",
+        "pt-BR": "Livro V, Carta 12"
       }
     },
     {
       "id": "b05-e013",
       "title": {
-        "la": "Liber V, Epistola 13"
+        "la": "Liber V, Epistola 13",
+        "pt-BR": "Livro V, Carta 13"
       }
     },
     {
       "id": "b05-e014",
       "title": {
-        "la": "Liber V, Epistola 14"
+        "la": "Liber V, Epistola 14",
+        "pt-BR": "Livro V, Carta 14"
       }
     },
     {
       "id": "b05-e015",
       "title": {
-        "la": "Liber V, Epistola 15"
+        "la": "Liber V, Epistola 15",
+        "pt-BR": "Livro V, Carta 15"
       }
     },
     {
       "id": "b05-e016",
       "title": {
-        "la": "Liber V, Epistola 16"
+        "la": "Liber V, Epistola 16",
+        "pt-BR": "Livro V, Carta 16"
       }
     },
     {
       "id": "b05-e017",
       "title": {
-        "la": "Liber V, Epistola 17"
+        "la": "Liber V, Epistola 17",
+        "pt-BR": "Livro V, Carta 17"
       }
     },
     {
       "id": "b05-e018",
       "title": {
-        "la": "Liber V, Epistola 18"
+        "la": "Liber V, Epistola 18",
+        "pt-BR": "Livro V, Carta 18"
       }
     },
     {
       "id": "b05-e019",
       "title": {
-        "la": "Liber V, Epistola 19"
+        "la": "Liber V, Epistola 19",
+        "pt-BR": "Livro V, Carta 19"
       }
     },
     {
       "id": "b05-e020",
       "title": {
-        "la": "Liber V, Epistola 20"
+        "la": "Liber V, Epistola 20",
+        "pt-BR": "Livro V, Carta 20"
       }
     },
     {
       "id": "b05-e021",
       "title": {
-        "la": "Liber V, Epistola 21"
+        "la": "Liber V, Epistola 21",
+        "pt-BR": "Livro V, Carta 21"
       }
     },
     {
       "id": "b05-e022",
       "title": {
-        "la": "Liber V, Epistola 22"
+        "la": "Liber V, Epistola 22",
+        "pt-BR": "Livro V, Carta 22"
       }
     },
     {
       "id": "b05-e023",
       "title": {
-        "la": "Liber V, Epistola 23"
+        "la": "Liber V, Epistola 23",
+        "pt-BR": "Livro V, Carta 23"
       }
     },
     {
       "id": "b05-e024",
       "title": {
-        "la": "Liber V, Epistola 24"
+        "la": "Liber V, Epistola 24",
+        "pt-BR": "Livro V, Carta 24"
       }
     },
     {
       "id": "b05-e025",
       "title": {
-        "la": "Liber V, Epistola 25"
+        "la": "Liber V, Epistola 25",
+        "pt-BR": "Livro V, Carta 25"
       }
     },
     {
       "id": "b05-e026",
       "title": {
-        "la": "Liber V, Epistola 26"
+        "la": "Liber V, Epistola 26",
+        "pt-BR": "Livro V, Carta 26"
       }
     },
     {
       "id": "b05-e027",
       "title": {
-        "la": "Liber V, Epistola 27"
+        "la": "Liber V, Epistola 27",
+        "pt-BR": "Livro V, Carta 27"
       }
     },
     {
       "id": "b05-e028",
       "title": {
-        "la": "Liber V, Epistola 28"
+        "la": "Liber V, Epistola 28",
+        "pt-BR": "Livro V, Carta 28"
       }
     },
     {
       "id": "b05-e029",
       "title": {
-        "la": "Liber V, Epistola 29"
+        "la": "Liber V, Epistola 29",
+        "pt-BR": "Livro V, Carta 29"
       }
     },
     {
       "id": "b05-e030",
       "title": {
-        "la": "Liber V, Epistola 30"
+        "la": "Liber V, Epistola 30",
+        "pt-BR": "Livro V, Carta 30"
       }
     },
     {
       "id": "b05-e031",
       "title": {
-        "la": "Liber V, Epistola 31"
+        "la": "Liber V, Epistola 31",
+        "pt-BR": "Livro V, Carta 31"
       }
     },
     {
       "id": "b05-e032",
       "title": {
-        "la": "Liber V, Epistola 32"
+        "la": "Liber V, Epistola 32",
+        "pt-BR": "Livro V, Carta 32"
       }
     },
     {
       "id": "b05-e033",
       "title": {
-        "la": "Liber V, Epistola 33"
+        "la": "Liber V, Epistola 33",
+        "pt-BR": "Livro V, Carta 33"
       }
     },
     {
       "id": "b05-e034",
       "title": {
-        "la": "Liber V, Epistola 34"
+        "la": "Liber V, Epistola 34",
+        "pt-BR": "Livro V, Carta 34"
       }
     },
     {
       "id": "b05-e035",
       "title": {
-        "la": "Liber V, Epistola 35"
+        "la": "Liber V, Epistola 35",
+        "pt-BR": "Livro V, Carta 35"
       }
     },
     {
       "id": "b05-e036",
       "title": {
-        "la": "Liber V, Epistola 36"
+        "la": "Liber V, Epistola 36",
+        "pt-BR": "Livro V, Carta 36"
       }
     },
     {
       "id": "b05-e037",
       "title": {
-        "la": "Liber V, Epistola 37"
+        "la": "Liber V, Epistola 37",
+        "pt-BR": "Livro V, Carta 37"
       }
     },
     {
       "id": "b05-e038",
       "title": {
-        "la": "Liber V, Epistola 38"
+        "la": "Liber V, Epistola 38",
+        "pt-BR": "Livro V, Carta 38"
       }
     },
     {
       "id": "b05-e039",
       "title": {
-        "la": "Liber V, Epistola 39"
+        "la": "Liber V, Epistola 39",
+        "pt-BR": "Livro V, Carta 39"
       }
     },
     {
       "id": "b05-e040",
       "title": {
-        "la": "Liber V, Epistola 40"
+        "la": "Liber V, Epistola 40",
+        "pt-BR": "Livro V, Carta 40"
       }
     },
     {
       "id": "b05-e041",
       "title": {
-        "la": "Liber V, Epistola 41"
+        "la": "Liber V, Epistola 41",
+        "pt-BR": "Livro V, Carta 41"
       }
     },
     {
       "id": "b05-e042",
       "title": {
-        "la": "Liber V, Epistola 42"
+        "la": "Liber V, Epistola 42",
+        "pt-BR": "Livro V, Carta 42"
       }
     },
     {
       "id": "b05-e043",
       "title": {
-        "la": "Liber V, Epistola 43"
+        "la": "Liber V, Epistola 43",
+        "pt-BR": "Livro V, Carta 43"
       }
     },
     {
       "id": "b05-e044",
       "title": {
-        "la": "Liber V, Epistola 44"
+        "la": "Liber V, Epistola 44",
+        "pt-BR": "Livro V, Carta 44"
       }
     },
     {
       "id": "b05-e045",
       "title": {
-        "la": "Liber V, Epistola 45"
+        "la": "Liber V, Epistola 45",
+        "pt-BR": "Livro V, Carta 45"
       }
     },
     {
       "id": "b05-e046",
       "title": {
-        "la": "Liber V, Epistola 46"
+        "la": "Liber V, Epistola 46",
+        "pt-BR": "Livro V, Carta 46"
       }
     },
     {
       "id": "b05-e047",
       "title": {
-        "la": "Liber V, Epistola 47"
+        "la": "Liber V, Epistola 47",
+        "pt-BR": "Livro V, Carta 47"
       }
     },
     {
       "id": "b05-e048",
       "title": {
-        "la": "Liber V, Epistola 48"
+        "la": "Liber V, Epistola 48",
+        "pt-BR": "Livro V, Carta 48"
       }
     },
     {
       "id": "b05-e049",
       "title": {
-        "la": "Liber V, Epistola 49"
+        "la": "Liber V, Epistola 49",
+        "pt-BR": "Livro V, Carta 49"
       }
     },
     {
       "id": "b05-e050",
       "title": {
-        "la": "Liber V, Epistola 50"
+        "la": "Liber V, Epistola 50",
+        "pt-BR": "Livro V, Carta 50"
       }
     },
     {
       "id": "b05-e051",
       "title": {
-        "la": "Liber V, Epistola 51"
+        "la": "Liber V, Epistola 51",
+        "pt-BR": "Livro V, Carta 51"
       }
     },
     {
       "id": "b05-e052",
       "title": {
-        "la": "Liber V, Epistola 52"
+        "la": "Liber V, Epistola 52",
+        "pt-BR": "Livro V, Carta 52"
       }
     },
     {
       "id": "b05-e053",
       "title": {
-        "la": "Liber V, Epistola 53"
+        "la": "Liber V, Epistola 53",
+        "pt-BR": "Livro V, Carta 53"
       }
     },
     {
       "id": "b05-e054",
       "title": {
-        "la": "Liber V, Epistola 54"
+        "la": "Liber V, Epistola 54",
+        "pt-BR": "Livro V, Carta 54"
       }
     },
     {
       "id": "b05-e055",
       "title": {
-        "la": "Liber V, Epistola 55"
+        "la": "Liber V, Epistola 55",
+        "pt-BR": "Livro V, Carta 55"
       }
     },
     {
       "id": "b05-e056",
       "title": {
-        "la": "Liber V, Epistola 56"
+        "la": "Liber V, Epistola 56",
+        "pt-BR": "Livro V, Carta 56"
       }
     },
     {
       "id": "b05-e057",
       "title": {
-        "la": "Liber V, Epistola 57"
+        "la": "Liber V, Epistola 57",
+        "pt-BR": "Livro V, Carta 57"
       }
     },
     {
       "id": "b05-e058",
       "title": {
-        "la": "Liber V, Epistola 58"
+        "la": "Liber V, Epistola 58",
+        "pt-BR": "Livro V, Carta 58"
       }
     },
     {
       "id": "b06-e001",
       "title": {
-        "la": "Liber VI, Epistola 1"
+        "la": "Liber VI, Epistola 1",
+        "pt-BR": "Livro VI, Carta 1"
       }
     },
     {
       "id": "b06-e002",
       "title": {
-        "la": "Liber VI, Epistola 2"
+        "la": "Liber VI, Epistola 2",
+        "pt-BR": "Livro VI, Carta 2"
       }
     },
     {
       "id": "b06-e003",
       "title": {
-        "la": "Liber VI, Epistola 3"
+        "la": "Liber VI, Epistola 3",
+        "pt-BR": "Livro VI, Carta 3"
       }
     },
     {
       "id": "b06-e004",
       "title": {
-        "la": "Liber VI, Epistola 4"
+        "la": "Liber VI, Epistola 4",
+        "pt-BR": "Livro VI, Carta 4"
       }
     },
     {
       "id": "b06-e005",
       "title": {
-        "la": "Liber VI, Epistola 5"
+        "la": "Liber VI, Epistola 5",
+        "pt-BR": "Livro VI, Carta 5"
       }
     },
     {
       "id": "b06-e006",
       "title": {
-        "la": "Liber VI, Epistola 6"
+        "la": "Liber VI, Epistola 6",
+        "pt-BR": "Livro VI, Carta 6"
       }
     },
     {
       "id": "b06-e007",
       "title": {
-        "la": "Liber VI, Epistola 7"
+        "la": "Liber VI, Epistola 7",
+        "pt-BR": "Livro VI, Carta 7"
       }
     },
     {
       "id": "b06-e008",
       "title": {
-        "la": "Liber VI, Epistola 8"
+        "la": "Liber VI, Epistola 8",
+        "pt-BR": "Livro VI, Carta 8"
       }
     },
     {
       "id": "b06-e009",
       "title": {
-        "la": "Liber VI, Epistola 9"
+        "la": "Liber VI, Epistola 9",
+        "pt-BR": "Livro VI, Carta 9"
       }
     },
     {
       "id": "b06-e010",
       "title": {
-        "la": "Liber VI, Epistola 10"
+        "la": "Liber VI, Epistola 10",
+        "pt-BR": "Livro VI, Carta 10"
       }
     },
     {
       "id": "b06-e011",
       "title": {
-        "la": "Liber VI, Epistola 11"
+        "la": "Liber VI, Epistola 11",
+        "pt-BR": "Livro VI, Carta 11"
       }
     },
     {
       "id": "b06-e012",
       "title": {
-        "la": "Liber VI, Epistola 12"
+        "la": "Liber VI, Epistola 12",
+        "pt-BR": "Livro VI, Carta 12"
       }
     },
     {
       "id": "b06-e013",
       "title": {
-        "la": "Liber VI, Epistola 13"
+        "la": "Liber VI, Epistola 13",
+        "pt-BR": "Livro VI, Carta 13"
       }
     },
     {
       "id": "b06-e014",
       "title": {
-        "la": "Liber VI, Epistola 14"
+        "la": "Liber VI, Epistola 14",
+        "pt-BR": "Livro VI, Carta 14"
       }
     },
     {
       "id": "b06-e015",
       "title": {
-        "la": "Liber VI, Epistola 15"
+        "la": "Liber VI, Epistola 15",
+        "pt-BR": "Livro VI, Carta 15"
       }
     },
     {
       "id": "b06-e016",
       "title": {
-        "la": "Liber VI, Epistola 16"
+        "la": "Liber VI, Epistola 16",
+        "pt-BR": "Livro VI, Carta 16"
       }
     },
     {
       "id": "b06-e017",
       "title": {
-        "la": "Liber VI, Epistola 17"
+        "la": "Liber VI, Epistola 17",
+        "pt-BR": "Livro VI, Carta 17"
       }
     },
     {
       "id": "b06-e018",
       "title": {
-        "la": "Liber VI, Epistola 18"
+        "la": "Liber VI, Epistola 18",
+        "pt-BR": "Livro VI, Carta 18"
       }
     },
     {
       "id": "b06-e019",
       "title": {
-        "la": "Liber VI, Epistola 19"
+        "la": "Liber VI, Epistola 19",
+        "pt-BR": "Livro VI, Carta 19"
       }
     },
     {
       "id": "b06-e020",
       "title": {
-        "la": "Liber VI, Epistola 20"
+        "la": "Liber VI, Epistola 20",
+        "pt-BR": "Livro VI, Carta 20"
       }
     },
     {
       "id": "b06-e021",
       "title": {
-        "la": "Liber VI, Epistola 21"
+        "la": "Liber VI, Epistola 21",
+        "pt-BR": "Livro VI, Carta 21"
       }
     },
     {
       "id": "b06-e022",
       "title": {
-        "la": "Liber VI, Epistola 22"
+        "la": "Liber VI, Epistola 22",
+        "pt-BR": "Livro VI, Carta 22"
       }
     },
     {
       "id": "b06-e023",
       "title": {
-        "la": "Liber VI, Epistola 23"
+        "la": "Liber VI, Epistola 23",
+        "pt-BR": "Livro VI, Carta 23"
       }
     },
     {
       "id": "b06-e024",
       "title": {
-        "la": "Liber VI, Epistola 24"
+        "la": "Liber VI, Epistola 24",
+        "pt-BR": "Livro VI, Carta 24"
       }
     },
     {
       "id": "b06-e025",
       "title": {
-        "la": "Liber VI, Epistola 25"
+        "la": "Liber VI, Epistola 25",
+        "pt-BR": "Livro VI, Carta 25"
       }
     },
     {
       "id": "b06-e026",
       "title": {
-        "la": "Liber VI, Epistola 26"
+        "la": "Liber VI, Epistola 26",
+        "pt-BR": "Livro VI, Carta 26"
       }
     },
     {
       "id": "b06-e027",
       "title": {
-        "la": "Liber VI, Epistola 27"
+        "la": "Liber VI, Epistola 27",
+        "pt-BR": "Livro VI, Carta 27"
       }
     },
     {
       "id": "b06-e028",
       "title": {
-        "la": "Liber VI, Epistola 28"
+        "la": "Liber VI, Epistola 28",
+        "pt-BR": "Livro VI, Carta 28"
       }
     },
     {
       "id": "b06-e029",
       "title": {
-        "la": "Liber VI, Epistola 29"
+        "la": "Liber VI, Epistola 29",
+        "pt-BR": "Livro VI, Carta 29"
       }
     },
     {
       "id": "b06-e030",
       "title": {
-        "la": "Liber VI, Epistola 30"
+        "la": "Liber VI, Epistola 30",
+        "pt-BR": "Livro VI, Carta 30"
       }
     },
     {
       "id": "b06-e031",
       "title": {
-        "la": "Liber VI, Epistola 31"
+        "la": "Liber VI, Epistola 31",
+        "pt-BR": "Livro VI, Carta 31"
       }
     },
     {
       "id": "b06-e032",
       "title": {
-        "la": "Liber VI, Epistola 32"
+        "la": "Liber VI, Epistola 32",
+        "pt-BR": "Livro VI, Carta 32"
       }
     },
     {
       "id": "b06-e033",
       "title": {
-        "la": "Liber VI, Epistola 33"
+        "la": "Liber VI, Epistola 33",
+        "pt-BR": "Livro VI, Carta 33"
       }
     },
     {
       "id": "b06-e034",
       "title": {
-        "la": "Liber VI, Epistola 34"
+        "la": "Liber VI, Epistola 34",
+        "pt-BR": "Livro VI, Carta 34"
       }
     },
     {
       "id": "b06-e035",
       "title": {
-        "la": "Liber VI, Epistola 35"
+        "la": "Liber VI, Epistola 35",
+        "pt-BR": "Livro VI, Carta 35"
       }
     },
     {
       "id": "b06-e036",
       "title": {
-        "la": "Liber VI, Epistola 36"
+        "la": "Liber VI, Epistola 36",
+        "pt-BR": "Livro VI, Carta 36"
       }
     },
     {
       "id": "b06-e037",
       "title": {
-        "la": "Liber VI, Epistola 37"
+        "la": "Liber VI, Epistola 37",
+        "pt-BR": "Livro VI, Carta 37"
       }
     },
     {
       "id": "b06-e038",
       "title": {
-        "la": "Liber VI, Epistola 38"
+        "la": "Liber VI, Epistola 38",
+        "pt-BR": "Livro VI, Carta 38"
       }
     },
     {
       "id": "b06-e039",
       "title": {
-        "la": "Liber VI, Epistola 39"
+        "la": "Liber VI, Epistola 39",
+        "pt-BR": "Livro VI, Carta 39"
       }
     },
     {
       "id": "b06-e040",
       "title": {
-        "la": "Liber VI, Epistola 40"
+        "la": "Liber VI, Epistola 40",
+        "pt-BR": "Livro VI, Carta 40"
       }
     },
     {
       "id": "b06-e041",
       "title": {
-        "la": "Liber VI, Epistola 41"
+        "la": "Liber VI, Epistola 41",
+        "pt-BR": "Livro VI, Carta 41"
       }
     },
     {
       "id": "b06-e042",
       "title": {
-        "la": "Liber VI, Epistola 42"
+        "la": "Liber VI, Epistola 42",
+        "pt-BR": "Livro VI, Carta 42"
       }
     },
     {
       "id": "b06-e043",
       "title": {
-        "la": "Liber VI, Epistola 43"
+        "la": "Liber VI, Epistola 43",
+        "pt-BR": "Livro VI, Carta 43"
       }
     },
     {
       "id": "b06-e044",
       "title": {
-        "la": "Liber VI, Epistola 44"
+        "la": "Liber VI, Epistola 44",
+        "pt-BR": "Livro VI, Carta 44"
       }
     },
     {
       "id": "b06-e045",
       "title": {
-        "la": "Liber VI, Epistola 45"
+        "la": "Liber VI, Epistola 45",
+        "pt-BR": "Livro VI, Carta 45"
       }
     },
     {
       "id": "b06-e046",
       "title": {
-        "la": "Liber VI, Epistola 46"
+        "la": "Liber VI, Epistola 46",
+        "pt-BR": "Livro VI, Carta 46"
       }
     },
     {
       "id": "b06-e047",
       "title": {
-        "la": "Liber VI, Epistola 47"
+        "la": "Liber VI, Epistola 47",
+        "pt-BR": "Livro VI, Carta 47"
       }
     },
     {
       "id": "b06-e048",
       "title": {
-        "la": "Liber VI, Epistola 48"
+        "la": "Liber VI, Epistola 48",
+        "pt-BR": "Livro VI, Carta 48"
       }
     },
     {
       "id": "b06-e049",
       "title": {
-        "la": "Liber VI, Epistola 49"
+        "la": "Liber VI, Epistola 49",
+        "pt-BR": "Livro VI, Carta 49"
       }
     },
     {
       "id": "b06-e050",
       "title": {
-        "la": "Liber VI, Epistola 50"
+        "la": "Liber VI, Epistola 50",
+        "pt-BR": "Livro VI, Carta 50"
       }
     },
     {
       "id": "b06-e051",
       "title": {
-        "la": "Liber VI, Epistola 51"
+        "la": "Liber VI, Epistola 51",
+        "pt-BR": "Livro VI, Carta 51"
       }
     },
     {
       "id": "b06-e052",
       "title": {
-        "la": "Liber VI, Epistola 52"
+        "la": "Liber VI, Epistola 52",
+        "pt-BR": "Livro VI, Carta 52"
       }
     },
     {
       "id": "b06-e053",
       "title": {
-        "la": "Liber VI, Epistola 53"
+        "la": "Liber VI, Epistola 53",
+        "pt-BR": "Livro VI, Carta 53"
       }
     },
     {
       "id": "b06-e054",
       "title": {
-        "la": "Liber VI, Epistola 54"
+        "la": "Liber VI, Epistola 54",
+        "pt-BR": "Livro VI, Carta 54"
       }
     },
     {
       "id": "b06-e055",
       "title": {
-        "la": "Liber VI, Epistola 55"
+        "la": "Liber VI, Epistola 55",
+        "pt-BR": "Livro VI, Carta 55"
       }
     },
     {
       "id": "b06-e056",
       "title": {
-        "la": "Liber VI, Epistola 56"
+        "la": "Liber VI, Epistola 56",
+        "pt-BR": "Livro VI, Carta 56"
       }
     },
     {
       "id": "b06-e057",
       "title": {
-        "la": "Liber VI, Epistola 57"
+        "la": "Liber VI, Epistola 57",
+        "pt-BR": "Livro VI, Carta 57"
       }
     },
     {
       "id": "b06-e058",
       "title": {
-        "la": "Liber VI, Epistola 58"
+        "la": "Liber VI, Epistola 58",
+        "pt-BR": "Livro VI, Carta 58"
       }
     },
     {
       "id": "b06-e059",
       "title": {
-        "la": "Liber VI, Epistola 59"
+        "la": "Liber VI, Epistola 59",
+        "pt-BR": "Livro VI, Carta 59"
       }
     },
     {
       "id": "b06-e060",
       "title": {
-        "la": "Liber VI, Epistola 60"
+        "la": "Liber VI, Epistola 60",
+        "pt-BR": "Livro VI, Carta 60"
       }
     },
     {
       "id": "b06-e061",
       "title": {
-        "la": "Liber VI, Epistola 61"
+        "la": "Liber VI, Epistola 61",
+        "pt-BR": "Livro VI, Carta 61"
       }
     },
     {
       "id": "b06-e062",
       "title": {
-        "la": "Liber VI, Epistola 62"
+        "la": "Liber VI, Epistola 62",
+        "pt-BR": "Livro VI, Carta 62"
       }
     },
     {
       "id": "b06-e063",
       "title": {
-        "la": "Liber VI, Epistola 63"
+        "la": "Liber VI, Epistola 63",
+        "pt-BR": "Livro VI, Carta 63"
       }
     },
     {
       "id": "b06-e064",
       "title": {
-        "la": "Liber VI, Epistola 64"
+        "la": "Liber VI, Epistola 64",
+        "pt-BR": "Livro VI, Carta 64"
       }
     },
     {
       "id": "b06-e065",
       "title": {
-        "la": "Liber VI, Epistola 65"
+        "la": "Liber VI, Epistola 65",
+        "pt-BR": "Livro VI, Carta 65"
       }
     },
     {
       "id": "b06-e066",
       "title": {
-        "la": "Liber VI, Epistola 66"
+        "la": "Liber VI, Epistola 66",
+        "pt-BR": "Livro VI, Carta 66"
       }
     },
     {
       "id": "b07-e001",
       "title": {
-        "la": "Liber VII, Epistola 1"
+        "la": "Liber VII, Epistola 1",
+        "pt-BR": "Livro VII, Carta 1"
       }
     },
     {
       "id": "b07-e002",
       "title": {
-        "la": "Liber VII, Epistola 2"
+        "la": "Liber VII, Epistola 2",
+        "pt-BR": "Livro VII, Carta 2"
       }
     },
     {
       "id": "b07-e003",
       "title": {
-        "la": "Liber VII, Epistola 3"
+        "la": "Liber VII, Epistola 3",
+        "pt-BR": "Livro VII, Carta 3"
       }
     },
     {
       "id": "b07-e004",
       "title": {
-        "la": "Liber VII, Epistola 4"
+        "la": "Liber VII, Epistola 4",
+        "pt-BR": "Livro VII, Carta 4"
       }
     },
     {
       "id": "b07-e005",
       "title": {
-        "la": "Liber VII, Epistola 5"
+        "la": "Liber VII, Epistola 5",
+        "pt-BR": "Livro VII, Carta 5"
       }
     },
     {
       "id": "b07-e006",
       "title": {
-        "la": "Liber VII, Epistola 6"
+        "la": "Liber VII, Epistola 6",
+        "pt-BR": "Livro VII, Carta 6"
       }
     },
     {
       "id": "b07-e007",
       "title": {
-        "la": "Liber VII, Epistola 7"
+        "la": "Liber VII, Epistola 7",
+        "pt-BR": "Livro VII, Carta 7"
       }
     },
     {
       "id": "b07-e008",
       "title": {
-        "la": "Liber VII, Epistola 8"
+        "la": "Liber VII, Epistola 8",
+        "pt-BR": "Livro VII, Carta 8"
       }
     },
     {
       "id": "b07-e009",
       "title": {
-        "la": "Liber VII, Epistola 9"
+        "la": "Liber VII, Epistola 9",
+        "pt-BR": "Livro VII, Carta 9"
       }
     },
     {
       "id": "b07-e010",
       "title": {
-        "la": "Liber VII, Epistola 10"
+        "la": "Liber VII, Epistola 10",
+        "pt-BR": "Livro VII, Carta 10"
       }
     },
     {
       "id": "b07-e011",
       "title": {
-        "la": "Liber VII, Epistola 11"
+        "la": "Liber VII, Epistola 11",
+        "pt-BR": "Livro VII, Carta 11"
       }
     },
     {
       "id": "b07-e012",
       "title": {
-        "la": "Liber VII, Epistola 12"
+        "la": "Liber VII, Epistola 12",
+        "pt-BR": "Livro VII, Carta 12"
       }
     },
     {
       "id": "b07-e013",
       "title": {
-        "la": "Liber VII, Epistola 13"
+        "la": "Liber VII, Epistola 13",
+        "pt-BR": "Livro VII, Carta 13"
       }
     },
     {
       "id": "b07-e014",
       "title": {
-        "la": "Liber VII, Epistola 14"
+        "la": "Liber VII, Epistola 14",
+        "pt-BR": "Livro VII, Carta 14"
       }
     },
     {
       "id": "b07-e015",
       "title": {
-        "la": "Liber VII, Epistola 15"
+        "la": "Liber VII, Epistola 15",
+        "pt-BR": "Livro VII, Carta 15"
       }
     },
     {
       "id": "b07-e016",
       "title": {
-        "la": "Liber VII, Epistola 16"
+        "la": "Liber VII, Epistola 16",
+        "pt-BR": "Livro VII, Carta 16"
       }
     },
     {
       "id": "b07-e017",
       "title": {
-        "la": "Liber VII, Epistola 17"
+        "la": "Liber VII, Epistola 17",
+        "pt-BR": "Livro VII, Carta 17"
       }
     },
     {
       "id": "b07-e018",
       "title": {
-        "la": "Liber VII, Epistola 18"
+        "la": "Liber VII, Epistola 18",
+        "pt-BR": "Livro VII, Carta 18"
       }
     },
     {
       "id": "b07-e019",
       "title": {
-        "la": "Liber VII, Epistola 19"
+        "la": "Liber VII, Epistola 19",
+        "pt-BR": "Livro VII, Carta 19"
       }
     },
     {
       "id": "b07-e020",
       "title": {
-        "la": "Liber VII, Epistola 20"
+        "la": "Liber VII, Epistola 20",
+        "pt-BR": "Livro VII, Carta 20"
       }
     },
     {
       "id": "b07-e021",
       "title": {
-        "la": "Liber VII, Epistola 21"
+        "la": "Liber VII, Epistola 21",
+        "pt-BR": "Livro VII, Carta 21"
       }
     },
     {
       "id": "b07-e022",
       "title": {
-        "la": "Liber VII, Epistola 22"
+        "la": "Liber VII, Epistola 22",
+        "pt-BR": "Livro VII, Carta 22"
       }
     },
     {
       "id": "b07-e023",
       "title": {
-        "la": "Liber VII, Epistola 23"
+        "la": "Liber VII, Epistola 23",
+        "pt-BR": "Livro VII, Carta 23"
       }
     },
     {
       "id": "b07-e024",
       "title": {
-        "la": "Liber VII, Epistola 24"
+        "la": "Liber VII, Epistola 24",
+        "pt-BR": "Livro VII, Carta 24"
       }
     },
     {
       "id": "b07-e025",
       "title": {
-        "la": "Liber VII, Epistola 25"
+        "la": "Liber VII, Epistola 25",
+        "pt-BR": "Livro VII, Carta 25"
       }
     },
     {
       "id": "b07-e026",
       "title": {
-        "la": "Liber VII, Epistola 26"
+        "la": "Liber VII, Epistola 26",
+        "pt-BR": "Livro VII, Carta 26"
       }
     },
     {
       "id": "b07-e027",
       "title": {
-        "la": "Liber VII, Epistola 27"
+        "la": "Liber VII, Epistola 27",
+        "pt-BR": "Livro VII, Carta 27"
       }
     },
     {
       "id": "b07-e028",
       "title": {
-        "la": "Liber VII, Epistola 28"
+        "la": "Liber VII, Epistola 28",
+        "pt-BR": "Livro VII, Carta 28"
       }
     },
     {
       "id": "b07-e029",
       "title": {
-        "la": "Liber VII, Epistola 29"
+        "la": "Liber VII, Epistola 29",
+        "pt-BR": "Livro VII, Carta 29"
       }
     },
     {
       "id": "b07-e030",
       "title": {
-        "la": "Liber VII, Epistola 30"
+        "la": "Liber VII, Epistola 30",
+        "pt-BR": "Livro VII, Carta 30"
       }
     },
     {
       "id": "b07-e031",
       "title": {
-        "la": "Liber VII, Epistola 31"
+        "la": "Liber VII, Epistola 31",
+        "pt-BR": "Livro VII, Carta 31"
       }
     },
     {
       "id": "b07-e032",
       "title": {
-        "la": "Liber VII, Epistola 32"
+        "la": "Liber VII, Epistola 32",
+        "pt-BR": "Livro VII, Carta 32"
       }
     },
     {
       "id": "b07-e033",
       "title": {
-        "la": "Liber VII, Epistola 33"
+        "la": "Liber VII, Epistola 33",
+        "pt-BR": "Livro VII, Carta 33"
       }
     },
     {
       "id": "b07-e034",
       "title": {
-        "la": "Liber VII, Epistola 34"
+        "la": "Liber VII, Epistola 34",
+        "pt-BR": "Livro VII, Carta 34"
       }
     },
     {
       "id": "b07-e035",
       "title": {
-        "la": "Liber VII, Epistola 35"
+        "la": "Liber VII, Epistola 35",
+        "pt-BR": "Livro VII, Carta 35"
       }
     },
     {
       "id": "b07-e036",
       "title": {
-        "la": "Liber VII, Epistola 36"
+        "la": "Liber VII, Epistola 36",
+        "pt-BR": "Livro VII, Carta 36"
       }
     },
     {
       "id": "b07-e037",
       "title": {
-        "la": "Liber VII, Epistola 37"
+        "la": "Liber VII, Epistola 37",
+        "pt-BR": "Livro VII, Carta 37"
       }
     },
     {
       "id": "b07-e038",
       "title": {
-        "la": "Liber VII, Epistola 38"
+        "la": "Liber VII, Epistola 38",
+        "pt-BR": "Livro VII, Carta 38"
       }
     },
     {
       "id": "b07-e039",
       "title": {
-        "la": "Liber VII, Epistola 39"
+        "la": "Liber VII, Epistola 39",
+        "pt-BR": "Livro VII, Carta 39"
       }
     },
     {
       "id": "b07-e040",
       "title": {
-        "la": "Liber VII, Epistola 40"
+        "la": "Liber VII, Epistola 40",
+        "pt-BR": "Livro VII, Carta 40"
       }
     },
     {
       "id": "b07-e041",
       "title": {
-        "la": "Liber VII, Epistola 41"
+        "la": "Liber VII, Epistola 41",
+        "pt-BR": "Livro VII, Carta 41"
       }
     },
     {
       "id": "b07-e042",
       "title": {
-        "la": "Liber VII, Epistola 42"
+        "la": "Liber VII, Epistola 42",
+        "pt-BR": "Livro VII, Carta 42"
       }
     },
     {
       "id": "b07-e043",
       "title": {
-        "la": "Liber VII, Epistola 43"
+        "la": "Liber VII, Epistola 43",
+        "pt-BR": "Livro VII, Carta 43"
       }
     },
     {
       "id": "b07-e044",
       "title": {
-        "la": "Liber VII, Epistola 44"
+        "la": "Liber VII, Epistola 44",
+        "pt-BR": "Livro VII, Carta 44"
       }
     },
     {
       "id": "b07-e045",
       "title": {
-        "la": "Liber VII, Epistola 45"
+        "la": "Liber VII, Epistola 45",
+        "pt-BR": "Livro VII, Carta 45"
       }
     },
     {
       "id": "b08-e001",
       "title": {
-        "la": "Liber VIII, Epistola 1"
+        "la": "Liber VIII, Epistola 1",
+        "pt-BR": "Livro VIII, Carta 1"
       }
     },
     {
       "id": "b08-e002",
       "title": {
-        "la": "Liber VIII, Epistola 2"
+        "la": "Liber VIII, Epistola 2",
+        "pt-BR": "Livro VIII, Carta 2"
       }
     },
     {
       "id": "b08-e003",
       "title": {
-        "la": "Liber VIII, Epistola 3"
+        "la": "Liber VIII, Epistola 3",
+        "pt-BR": "Livro VIII, Carta 3"
       }
     },
     {
       "id": "b08-e004",
       "title": {
-        "la": "Liber VIII, Epistola 4"
+        "la": "Liber VIII, Epistola 4",
+        "pt-BR": "Livro VIII, Carta 4"
       }
     },
     {
       "id": "b08-e005",
       "title": {
-        "la": "Liber VIII, Epistola 5"
+        "la": "Liber VIII, Epistola 5",
+        "pt-BR": "Livro VIII, Carta 5"
       }
     },
     {
       "id": "b08-e006",
       "title": {
-        "la": "Liber VIII, Epistola 6"
+        "la": "Liber VIII, Epistola 6",
+        "pt-BR": "Livro VIII, Carta 6"
       }
     },
     {
       "id": "b08-e007",
       "title": {
-        "la": "Liber VIII, Epistola 7"
+        "la": "Liber VIII, Epistola 7",
+        "pt-BR": "Livro VIII, Carta 7"
       }
     },
     {
       "id": "b08-e008",
       "title": {
-        "la": "Liber VIII, Epistola 8"
+        "la": "Liber VIII, Epistola 8",
+        "pt-BR": "Livro VIII, Carta 8"
       }
     },
     {
       "id": "b08-e009",
       "title": {
-        "la": "Liber VIII, Epistola 9"
+        "la": "Liber VIII, Epistola 9",
+        "pt-BR": "Livro VIII, Carta 9"
       }
     },
     {
       "id": "b08-e010",
       "title": {
-        "la": "Liber VIII, Epistola 10"
+        "la": "Liber VIII, Epistola 10",
+        "pt-BR": "Livro VIII, Carta 10"
       }
     },
     {
       "id": "b08-e011",
       "title": {
-        "la": "Liber VIII, Epistola 11"
+        "la": "Liber VIII, Epistola 11",
+        "pt-BR": "Livro VIII, Carta 11"
       }
     },
     {
       "id": "b08-e012",
       "title": {
-        "la": "Liber VIII, Epistola 12"
+        "la": "Liber VIII, Epistola 12",
+        "pt-BR": "Livro VIII, Carta 12"
       }
     },
     {
       "id": "b08-e013",
       "title": {
-        "la": "Liber VIII, Epistola 13"
+        "la": "Liber VIII, Epistola 13",
+        "pt-BR": "Livro VIII, Carta 13"
       }
     },
     {
       "id": "b08-e014",
       "title": {
-        "la": "Liber VIII, Epistola 14"
+        "la": "Liber VIII, Epistola 14",
+        "pt-BR": "Livro VIII, Carta 14"
       }
     },
     {
       "id": "b08-e015",
       "title": {
-        "la": "Liber VIII, Epistola 15"
+        "la": "Liber VIII, Epistola 15",
+        "pt-BR": "Livro VIII, Carta 15"
       }
     },
     {
       "id": "b08-e016",
       "title": {
-        "la": "Liber VIII, Epistola 16"
+        "la": "Liber VIII, Epistola 16",
+        "pt-BR": "Livro VIII, Carta 16"
       }
     },
     {
       "id": "b08-e017",
       "title": {
-        "la": "Liber VIII, Epistola 17"
+        "la": "Liber VIII, Epistola 17",
+        "pt-BR": "Livro VIII, Carta 17"
       }
     },
     {
       "id": "b08-e018",
       "title": {
-        "la": "Liber VIII, Epistola 18"
+        "la": "Liber VIII, Epistola 18",
+        "pt-BR": "Livro VIII, Carta 18"
       }
     },
     {
       "id": "b08-e019",
       "title": {
-        "la": "Liber VIII, Epistola 19"
+        "la": "Liber VIII, Epistola 19",
+        "pt-BR": "Livro VIII, Carta 19"
       }
     },
     {
       "id": "b08-e020",
       "title": {
-        "la": "Liber VIII, Epistola 20"
+        "la": "Liber VIII, Epistola 20",
+        "pt-BR": "Livro VIII, Carta 20"
       }
     },
     {
       "id": "b08-e021",
       "title": {
-        "la": "Liber VIII, Epistola 21"
+        "la": "Liber VIII, Epistola 21",
+        "pt-BR": "Livro VIII, Carta 21"
       }
     },
     {
       "id": "b08-e022",
       "title": {
-        "la": "Liber VIII, Epistola 22"
+        "la": "Liber VIII, Epistola 22",
+        "pt-BR": "Livro VIII, Carta 22"
       }
     },
     {
       "id": "b08-e023",
       "title": {
-        "la": "Liber VIII, Epistola 23"
+        "la": "Liber VIII, Epistola 23",
+        "pt-BR": "Livro VIII, Carta 23"
       }
     },
     {
       "id": "b08-e024",
       "title": {
-        "la": "Liber VIII, Epistola 24"
+        "la": "Liber VIII, Epistola 24",
+        "pt-BR": "Livro VIII, Carta 24"
       }
     },
     {
       "id": "b08-e025",
       "title": {
-        "la": "Liber VIII, Epistola 25"
+        "la": "Liber VIII, Epistola 25",
+        "pt-BR": "Livro VIII, Carta 25"
       }
     },
     {
       "id": "b08-e026",
       "title": {
-        "la": "Liber VIII, Epistola 26"
+        "la": "Liber VIII, Epistola 26",
+        "pt-BR": "Livro VIII, Carta 26"
       }
     },
     {
       "id": "b08-e027",
       "title": {
-        "la": "Liber VIII, Epistola 27"
+        "la": "Liber VIII, Epistola 27",
+        "pt-BR": "Livro VIII, Carta 27"
       }
     },
     {
       "id": "b08-e028",
       "title": {
-        "la": "Liber VIII, Epistola 28"
+        "la": "Liber VIII, Epistola 28",
+        "pt-BR": "Livro VIII, Carta 28"
       }
     },
     {
       "id": "b08-e029",
       "title": {
-        "la": "Liber VIII, Epistola 29"
+        "la": "Liber VIII, Epistola 29",
+        "pt-BR": "Livro VIII, Carta 29"
       }
     },
     {
       "id": "b08-e030",
       "title": {
-        "la": "Liber VIII, Epistola 30"
+        "la": "Liber VIII, Epistola 30",
+        "pt-BR": "Livro VIII, Carta 30"
       }
     },
     {
       "id": "b08-e031",
       "title": {
-        "la": "Liber VIII, Epistola 31"
+        "la": "Liber VIII, Epistola 31",
+        "pt-BR": "Livro VIII, Carta 31"
       }
     },
     {
       "id": "b08-e032",
       "title": {
-        "la": "Liber VIII, Epistola 32"
+        "la": "Liber VIII, Epistola 32",
+        "pt-BR": "Livro VIII, Carta 32"
       }
     },
     {
       "id": "b08-e033",
       "title": {
-        "la": "Liber VIII, Epistola 33"
+        "la": "Liber VIII, Epistola 33",
+        "pt-BR": "Livro VIII, Carta 33"
       }
     },
     {
       "id": "b08-e034",
       "title": {
-        "la": "Liber VIII, Epistola 34"
+        "la": "Liber VIII, Epistola 34",
+        "pt-BR": "Livro VIII, Carta 34"
       }
     },
     {
       "id": "b08-e035",
       "title": {
-        "la": "Liber VIII, Epistola 35"
+        "la": "Liber VIII, Epistola 35",
+        "pt-BR": "Livro VIII, Carta 35"
       }
     },
     {
       "id": "b09-e001",
       "title": {
-        "la": "Liber IX, Epistola 1"
+        "la": "Liber IX, Epistola 1",
+        "pt-BR": "Livro IX, Carta 1"
       }
     },
     {
       "id": "b09-e002",
       "title": {
-        "la": "Liber IX, Epistola 2"
+        "la": "Liber IX, Epistola 2",
+        "pt-BR": "Livro IX, Carta 2"
       }
     },
     {
       "id": "b09-e003",
       "title": {
-        "la": "Liber IX, Epistola 3"
+        "la": "Liber IX, Epistola 3",
+        "pt-BR": "Livro IX, Carta 3"
       }
     },
     {
       "id": "b09-e004",
       "title": {
-        "la": "Liber IX, Epistola 4"
+        "la": "Liber IX, Epistola 4",
+        "pt-BR": "Livro IX, Carta 4"
       }
     },
     {
       "id": "b09-e005",
       "title": {
-        "la": "Liber IX, Epistola 5"
+        "la": "Liber IX, Epistola 5",
+        "pt-BR": "Livro IX, Carta 5"
       }
     },
     {
       "id": "b09-e006",
       "title": {
-        "la": "Liber IX, Epistola 6"
+        "la": "Liber IX, Epistola 6",
+        "pt-BR": "Livro IX, Carta 6"
       }
     },
     {
       "id": "b09-e007",
       "title": {
-        "la": "Liber IX, Epistola 7"
+        "la": "Liber IX, Epistola 7",
+        "pt-BR": "Livro IX, Carta 7"
       }
     },
     {
       "id": "b09-e008",
       "title": {
-        "la": "Liber IX, Epistola 8"
+        "la": "Liber IX, Epistola 8",
+        "pt-BR": "Livro IX, Carta 8"
       }
     },
     {
       "id": "b09-e009",
       "title": {
-        "la": "Liber IX, Epistola 9"
+        "la": "Liber IX, Epistola 9",
+        "pt-BR": "Livro IX, Carta 9"
       }
     },
     {
       "id": "b09-e010",
       "title": {
-        "la": "Liber IX, Epistola 10"
+        "la": "Liber IX, Epistola 10",
+        "pt-BR": "Livro IX, Carta 10"
       }
     },
     {
       "id": "b09-e011",
       "title": {
-        "la": "Liber IX, Epistola 11"
+        "la": "Liber IX, Epistola 11",
+        "pt-BR": "Livro IX, Carta 11"
       }
     },
     {
       "id": "b09-e012",
       "title": {
-        "la": "Liber IX, Epistola 12"
+        "la": "Liber IX, Epistola 12",
+        "pt-BR": "Livro IX, Carta 12"
       }
     },
     {
       "id": "b09-e013",
       "title": {
-        "la": "Liber IX, Epistola 13"
+        "la": "Liber IX, Epistola 13",
+        "pt-BR": "Livro IX, Carta 13"
       }
     },
     {
       "id": "b09-e014",
       "title": {
-        "la": "Liber IX, Epistola 14"
+        "la": "Liber IX, Epistola 14",
+        "pt-BR": "Livro IX, Carta 14"
       }
     },
     {
       "id": "b09-e015",
       "title": {
-        "la": "Liber IX, Epistola 15"
+        "la": "Liber IX, Epistola 15",
+        "pt-BR": "Livro IX, Carta 15"
       }
     },
     {
       "id": "b09-e016",
       "title": {
-        "la": "Liber IX, Epistola 16"
+        "la": "Liber IX, Epistola 16",
+        "pt-BR": "Livro IX, Carta 16"
       }
     },
     {
       "id": "b09-e017",
       "title": {
-        "la": "Liber IX, Epistola 17"
+        "la": "Liber IX, Epistola 17",
+        "pt-BR": "Livro IX, Carta 17"
       }
     },
     {
       "id": "b09-e018",
       "title": {
-        "la": "Liber IX, Epistola 18"
+        "la": "Liber IX, Epistola 18",
+        "pt-BR": "Livro IX, Carta 18"
       }
     },
     {
       "id": "b09-e019",
       "title": {
-        "la": "Liber IX, Epistola 19"
+        "la": "Liber IX, Epistola 19",
+        "pt-BR": "Livro IX, Carta 19"
       }
     },
     {
       "id": "b09-e020",
       "title": {
-        "la": "Liber IX, Epistola 20"
+        "la": "Liber IX, Epistola 20",
+        "pt-BR": "Livro IX, Carta 20"
       }
     },
     {
       "id": "b09-e021",
       "title": {
-        "la": "Liber IX, Epistola 21"
+        "la": "Liber IX, Epistola 21",
+        "pt-BR": "Livro IX, Carta 21"
       }
     },
     {
       "id": "b09-e022",
       "title": {
-        "la": "Liber IX, Epistola 22"
+        "la": "Liber IX, Epistola 22",
+        "pt-BR": "Livro IX, Carta 22"
       }
     },
     {
       "id": "b09-e023",
       "title": {
-        "la": "Liber IX, Epistola 23"
+        "la": "Liber IX, Epistola 23",
+        "pt-BR": "Livro IX, Carta 23"
       }
     },
     {
       "id": "b09-e024",
       "title": {
-        "la": "Liber IX, Epistola 24"
+        "la": "Liber IX, Epistola 24",
+        "pt-BR": "Livro IX, Carta 24"
       }
     },
     {
       "id": "b09-e025",
       "title": {
-        "la": "Liber IX, Epistola 25"
+        "la": "Liber IX, Epistola 25",
+        "pt-BR": "Livro IX, Carta 25"
       }
     },
     {
       "id": "b09-e026",
       "title": {
-        "la": "Liber IX, Epistola 26"
+        "la": "Liber IX, Epistola 26",
+        "pt-BR": "Livro IX, Carta 26"
       }
     },
     {
       "id": "b09-e027",
       "title": {
-        "la": "Liber IX, Epistola 27"
+        "la": "Liber IX, Epistola 27",
+        "pt-BR": "Livro IX, Carta 27"
       }
     },
     {
       "id": "b09-e028",
       "title": {
-        "la": "Liber IX, Epistola 28"
+        "la": "Liber IX, Epistola 28",
+        "pt-BR": "Livro IX, Carta 28"
       }
     },
     {
       "id": "b09-e029",
       "title": {
-        "la": "Liber IX, Epistola 29"
+        "la": "Liber IX, Epistola 29",
+        "pt-BR": "Livro IX, Carta 29"
       }
     },
     {
       "id": "b09-e030",
       "title": {
-        "la": "Liber IX, Epistola 30"
+        "la": "Liber IX, Epistola 30",
+        "pt-BR": "Livro IX, Carta 30"
       }
     },
     {
       "id": "b09-e031",
       "title": {
-        "la": "Liber IX, Epistola 31"
+        "la": "Liber IX, Epistola 31",
+        "pt-BR": "Livro IX, Carta 31"
       }
     },
     {
       "id": "b09-e032",
       "title": {
-        "la": "Liber IX, Epistola 32"
+        "la": "Liber IX, Epistola 32",
+        "pt-BR": "Livro IX, Carta 32"
       }
     },
     {
       "id": "b09-e033",
       "title": {
-        "la": "Liber IX, Epistola 33"
+        "la": "Liber IX, Epistola 33",
+        "pt-BR": "Livro IX, Carta 33"
       }
     },
     {
       "id": "b09-e034",
       "title": {
-        "la": "Liber IX, Epistola 34"
+        "la": "Liber IX, Epistola 34",
+        "pt-BR": "Livro IX, Carta 34"
       }
     },
     {
       "id": "b09-e035",
       "title": {
-        "la": "Liber IX, Epistola 35"
+        "la": "Liber IX, Epistola 35",
+        "pt-BR": "Livro IX, Carta 35"
       }
     },
     {
       "id": "b09-e036",
       "title": {
-        "la": "Liber IX, Epistola 36"
+        "la": "Liber IX, Epistola 36",
+        "pt-BR": "Livro IX, Carta 36"
       }
     },
     {
       "id": "b09-e037",
       "title": {
-        "la": "Liber IX, Epistola 37"
+        "la": "Liber IX, Epistola 37",
+        "pt-BR": "Livro IX, Carta 37"
       }
     },
     {
       "id": "b09-e038",
       "title": {
-        "la": "Liber IX, Epistola 38"
+        "la": "Liber IX, Epistola 38",
+        "pt-BR": "Livro IX, Carta 38"
       }
     },
     {
       "id": "b09-e039",
       "title": {
-        "la": "Liber IX, Epistola 39"
+        "la": "Liber IX, Epistola 39",
+        "pt-BR": "Livro IX, Carta 39"
       }
     },
     {
       "id": "b09-e040",
       "title": {
-        "la": "Liber IX, Epistola 40"
+        "la": "Liber IX, Epistola 40",
+        "pt-BR": "Livro IX, Carta 40"
       }
     },
     {
       "id": "b09-e041",
       "title": {
-        "la": "Liber IX, Epistola 41"
+        "la": "Liber IX, Epistola 41",
+        "pt-BR": "Livro IX, Carta 41"
       }
     },
     {
       "id": "b09-e042",
       "title": {
-        "la": "Liber IX, Epistola 42"
+        "la": "Liber IX, Epistola 42",
+        "pt-BR": "Livro IX, Carta 42"
       }
     },
     {
       "id": "b09-e043",
       "title": {
-        "la": "Liber IX, Epistola 43"
+        "la": "Liber IX, Epistola 43",
+        "pt-BR": "Livro IX, Carta 43"
       }
     },
     {
       "id": "b09-e044",
       "title": {
-        "la": "Liber IX, Epistola 44"
+        "la": "Liber IX, Epistola 44",
+        "pt-BR": "Livro IX, Carta 44"
       }
     },
     {
       "id": "b09-e045",
       "title": {
-        "la": "Liber IX, Epistola 45"
+        "la": "Liber IX, Epistola 45",
+        "pt-BR": "Livro IX, Carta 45"
       }
     },
     {
       "id": "b09-e046",
       "title": {
-        "la": "Liber IX, Epistola 46"
+        "la": "Liber IX, Epistola 46",
+        "pt-BR": "Livro IX, Carta 46"
       }
     },
     {
       "id": "b09-e047",
       "title": {
-        "la": "Liber IX, Epistola 47"
+        "la": "Liber IX, Epistola 47",
+        "pt-BR": "Livro IX, Carta 47"
       }
     },
     {
       "id": "b09-e048",
       "title": {
-        "la": "Liber IX, Epistola 48"
+        "la": "Liber IX, Epistola 48",
+        "pt-BR": "Livro IX, Carta 48"
       }
     },
     {
       "id": "b09-e049",
       "title": {
-        "la": "Liber IX, Epistola 49"
+        "la": "Liber IX, Epistola 49",
+        "pt-BR": "Livro IX, Carta 49"
       }
     },
     {
       "id": "b09-e050",
       "title": {
-        "la": "Liber IX, Epistola 50"
+        "la": "Liber IX, Epistola 50",
+        "pt-BR": "Livro IX, Carta 50"
       }
     },
     {
       "id": "b09-e051",
       "title": {
-        "la": "Liber IX, Epistola 51"
+        "la": "Liber IX, Epistola 51",
+        "pt-BR": "Livro IX, Carta 51"
       }
     },
     {
       "id": "b09-e052",
       "title": {
-        "la": "Liber IX, Epistola 52"
+        "la": "Liber IX, Epistola 52",
+        "pt-BR": "Livro IX, Carta 52"
       }
     },
     {
       "id": "b09-e053",
       "title": {
-        "la": "Liber IX, Epistola 53"
+        "la": "Liber IX, Epistola 53",
+        "pt-BR": "Livro IX, Carta 53"
       }
     },
     {
       "id": "b09-e054",
       "title": {
-        "la": "Liber IX, Epistola 54"
+        "la": "Liber IX, Epistola 54",
+        "pt-BR": "Livro IX, Carta 54"
       }
     },
     {
       "id": "b09-e055",
       "title": {
-        "la": "Liber IX, Epistola 55"
+        "la": "Liber IX, Epistola 55",
+        "pt-BR": "Livro IX, Carta 55"
       }
     },
     {
       "id": "b09-e056",
       "title": {
-        "la": "Liber IX, Epistola 56"
+        "la": "Liber IX, Epistola 56",
+        "pt-BR": "Livro IX, Carta 56"
       }
     },
     {
       "id": "b09-e057",
       "title": {
-        "la": "Liber IX, Epistola 57"
+        "la": "Liber IX, Epistola 57",
+        "pt-BR": "Livro IX, Carta 57"
       }
     },
     {
       "id": "b09-e058",
       "title": {
-        "la": "Liber IX, Epistola 58"
+        "la": "Liber IX, Epistola 58",
+        "pt-BR": "Livro IX, Carta 58"
       }
     },
     {
       "id": "b09-e059",
       "title": {
-        "la": "Liber IX, Epistola 59"
+        "la": "Liber IX, Epistola 59",
+        "pt-BR": "Livro IX, Carta 59"
       }
     },
     {
       "id": "b09-e060",
       "title": {
-        "la": "Liber IX, Epistola 60"
+        "la": "Liber IX, Epistola 60",
+        "pt-BR": "Livro IX, Carta 60"
       }
     },
     {
       "id": "b09-e061",
       "title": {
-        "la": "Liber IX, Epistola 61"
+        "la": "Liber IX, Epistola 61",
+        "pt-BR": "Livro IX, Carta 61"
       }
     },
     {
       "id": "b09-e062",
       "title": {
-        "la": "Liber IX, Epistola 62"
+        "la": "Liber IX, Epistola 62",
+        "pt-BR": "Livro IX, Carta 62"
       }
     },
     {
       "id": "b09-e063",
       "title": {
-        "la": "Liber IX, Epistola 63"
+        "la": "Liber IX, Epistola 63",
+        "pt-BR": "Livro IX, Carta 63"
       }
     },
     {
       "id": "b09-e064",
       "title": {
-        "la": "Liber IX, Epistola 64"
+        "la": "Liber IX, Epistola 64",
+        "pt-BR": "Livro IX, Carta 64"
       }
     },
     {
       "id": "b09-e065",
       "title": {
-        "la": "Liber IX, Epistola 65"
+        "la": "Liber IX, Epistola 65",
+        "pt-BR": "Livro IX, Carta 65"
       }
     },
     {
       "id": "b09-e066",
       "title": {
-        "la": "Liber IX, Epistola 66"
+        "la": "Liber IX, Epistola 66",
+        "pt-BR": "Livro IX, Carta 66"
       }
     },
     {
       "id": "b09-e067",
       "title": {
-        "la": "Liber IX, Epistola 67"
+        "la": "Liber IX, Epistola 67",
+        "pt-BR": "Livro IX, Carta 67"
       }
     },
     {
       "id": "b09-e068",
       "title": {
-        "la": "Liber IX, Epistola 68"
+        "la": "Liber IX, Epistola 68",
+        "pt-BR": "Livro IX, Carta 68"
       }
     },
     {
       "id": "b09-e069",
       "title": {
-        "la": "Liber IX, Epistola 69"
+        "la": "Liber IX, Epistola 69",
+        "pt-BR": "Livro IX, Carta 69"
       }
     },
     {
       "id": "b09-e070",
       "title": {
-        "la": "Liber IX, Epistola 70"
+        "la": "Liber IX, Epistola 70",
+        "pt-BR": "Livro IX, Carta 70"
       }
     },
     {
       "id": "b09-e071",
       "title": {
-        "la": "Liber IX, Epistola 71"
+        "la": "Liber IX, Epistola 71",
+        "pt-BR": "Livro IX, Carta 71"
       }
     },
     {
       "id": "b09-e072",
       "title": {
-        "la": "Liber IX, Epistola 72"
+        "la": "Liber IX, Epistola 72",
+        "pt-BR": "Livro IX, Carta 72"
       }
     },
     {
       "id": "b09-e073",
       "title": {
-        "la": "Liber IX, Epistola 73"
+        "la": "Liber IX, Epistola 73",
+        "pt-BR": "Livro IX, Carta 73"
       }
     },
     {
       "id": "b09-e074",
       "title": {
-        "la": "Liber IX, Epistola 74"
+        "la": "Liber IX, Epistola 74",
+        "pt-BR": "Livro IX, Carta 74"
       }
     },
     {
       "id": "b09-e075",
       "title": {
-        "la": "Liber IX, Epistola 75"
+        "la": "Liber IX, Epistola 75",
+        "pt-BR": "Livro IX, Carta 75"
       }
     },
     {
       "id": "b09-e076",
       "title": {
-        "la": "Liber IX, Epistola 76"
+        "la": "Liber IX, Epistola 76",
+        "pt-BR": "Livro IX, Carta 76"
       }
     },
     {
       "id": "b09-e077",
       "title": {
-        "la": "Liber IX, Epistola 77"
+        "la": "Liber IX, Epistola 77",
+        "pt-BR": "Livro IX, Carta 77"
       }
     },
     {
       "id": "b09-e078",
       "title": {
-        "la": "Liber IX, Epistola 78"
+        "la": "Liber IX, Epistola 78",
+        "pt-BR": "Livro IX, Carta 78"
       }
     },
     {
       "id": "b09-e079",
       "title": {
-        "la": "Liber IX, Epistola 79"
+        "la": "Liber IX, Epistola 79",
+        "pt-BR": "Livro IX, Carta 79"
       }
     },
     {
       "id": "b09-e080",
       "title": {
-        "la": "Liber IX, Epistola 80"
+        "la": "Liber IX, Epistola 80",
+        "pt-BR": "Livro IX, Carta 80"
       }
     },
     {
       "id": "b09-e081",
       "title": {
-        "la": "Liber IX, Epistola 81"
+        "la": "Liber IX, Epistola 81",
+        "pt-BR": "Livro IX, Carta 81"
       }
     },
     {
       "id": "b09-e082",
       "title": {
-        "la": "Liber IX, Epistola 82"
+        "la": "Liber IX, Epistola 82",
+        "pt-BR": "Livro IX, Carta 82"
       }
     },
     {
       "id": "b09-e083",
       "title": {
-        "la": "Liber IX, Epistola 83"
+        "la": "Liber IX, Epistola 83",
+        "pt-BR": "Livro IX, Carta 83"
       }
     },
     {
       "id": "b09-e084",
       "title": {
-        "la": "Liber IX, Epistola 84"
+        "la": "Liber IX, Epistola 84",
+        "pt-BR": "Livro IX, Carta 84"
       }
     },
     {
       "id": "b09-e085",
       "title": {
-        "la": "Liber IX, Epistola 85"
+        "la": "Liber IX, Epistola 85",
+        "pt-BR": "Livro IX, Carta 85"
       }
     },
     {
       "id": "b09-e086",
       "title": {
-        "la": "Liber IX, Epistola 86"
+        "la": "Liber IX, Epistola 86",
+        "pt-BR": "Livro IX, Carta 86"
       }
     },
     {
       "id": "b09-e087",
       "title": {
-        "la": "Liber IX, Epistola 87"
+        "la": "Liber IX, Epistola 87",
+        "pt-BR": "Livro IX, Carta 87"
       }
     },
     {
       "id": "b09-e088",
       "title": {
-        "la": "Liber IX, Epistola 88"
+        "la": "Liber IX, Epistola 88",
+        "pt-BR": "Livro IX, Carta 88"
       }
     },
     {
       "id": "b09-e089",
       "title": {
-        "la": "Liber IX, Epistola 89"
+        "la": "Liber IX, Epistola 89",
+        "pt-BR": "Livro IX, Carta 89"
       }
     },
     {
       "id": "b09-e090",
       "title": {
-        "la": "Liber IX, Epistola 90"
+        "la": "Liber IX, Epistola 90",
+        "pt-BR": "Livro IX, Carta 90"
       }
     },
     {
       "id": "b09-e091",
       "title": {
-        "la": "Liber IX, Epistola 91"
+        "la": "Liber IX, Epistola 91",
+        "pt-BR": "Livro IX, Carta 91"
       }
     },
     {
       "id": "b09-e092",
       "title": {
-        "la": "Liber IX, Epistola 92"
+        "la": "Liber IX, Epistola 92",
+        "pt-BR": "Livro IX, Carta 92"
       }
     },
     {
       "id": "b09-e093",
       "title": {
-        "la": "Liber IX, Epistola 93"
+        "la": "Liber IX, Epistola 93",
+        "pt-BR": "Livro IX, Carta 93"
       }
     },
     {
       "id": "b09-e094",
       "title": {
-        "la": "Liber IX, Epistola 94"
+        "la": "Liber IX, Epistola 94",
+        "pt-BR": "Livro IX, Carta 94"
       }
     },
     {
       "id": "b09-e095",
       "title": {
-        "la": "Liber IX, Epistola 95"
+        "la": "Liber IX, Epistola 95",
+        "pt-BR": "Livro IX, Carta 95"
       }
     },
     {
       "id": "b09-e096",
       "title": {
-        "la": "Liber IX, Epistola 96"
+        "la": "Liber IX, Epistola 96",
+        "pt-BR": "Livro IX, Carta 96"
       }
     },
     {
       "id": "b09-e097",
       "title": {
-        "la": "Liber IX, Epistola 97"
+        "la": "Liber IX, Epistola 97",
+        "pt-BR": "Livro IX, Carta 97"
       }
     },
     {
       "id": "b09-e098",
       "title": {
-        "la": "Liber IX, Epistola 98"
+        "la": "Liber IX, Epistola 98",
+        "pt-BR": "Livro IX, Carta 98"
       }
     },
     {
       "id": "b09-e099",
       "title": {
-        "la": "Liber IX, Epistola 99"
+        "la": "Liber IX, Epistola 99",
+        "pt-BR": "Livro IX, Carta 99"
       }
     },
     {
       "id": "b09-e100",
       "title": {
-        "la": "Liber IX, Epistola 100"
+        "la": "Liber IX, Epistola 100",
+        "pt-BR": "Livro IX, Carta 100"
       }
     },
     {
       "id": "b09-e101",
       "title": {
-        "la": "Liber IX, Epistola 101"
+        "la": "Liber IX, Epistola 101",
+        "pt-BR": "Livro IX, Carta 101"
       }
     },
     {
       "id": "b09-e102",
       "title": {
-        "la": "Liber IX, Epistola 102"
+        "la": "Liber IX, Epistola 102",
+        "pt-BR": "Livro IX, Carta 102"
       }
     },
     {
       "id": "b09-e103",
       "title": {
-        "la": "Liber IX, Epistola 103"
+        "la": "Liber IX, Epistola 103",
+        "pt-BR": "Livro IX, Carta 103"
       }
     },
     {
       "id": "b09-e104",
       "title": {
-        "la": "Liber IX, Epistola 104"
+        "la": "Liber IX, Epistola 104",
+        "pt-BR": "Livro IX, Carta 104"
       }
     },
     {
       "id": "b09-e105",
       "title": {
-        "la": "Liber IX, Epistola 105"
+        "la": "Liber IX, Epistola 105",
+        "pt-BR": "Livro IX, Carta 105"
       }
     },
     {
       "id": "b09-e106",
       "title": {
-        "la": "Liber IX, Epistola 106"
+        "la": "Liber IX, Epistola 106",
+        "pt-BR": "Livro IX, Carta 106"
       }
     },
     {
       "id": "b09-e107",
       "title": {
-        "la": "Liber IX, Epistola 107"
+        "la": "Liber IX, Epistola 107",
+        "pt-BR": "Livro IX, Carta 107"
       }
     },
     {
       "id": "b09-e108",
       "title": {
-        "la": "Liber IX, Epistola 108"
+        "la": "Liber IX, Epistola 108",
+        "pt-BR": "Livro IX, Carta 108"
       }
     },
     {
       "id": "b09-e109",
       "title": {
-        "la": "Liber IX, Epistola 109"
+        "la": "Liber IX, Epistola 109",
+        "pt-BR": "Livro IX, Carta 109"
       }
     },
     {
       "id": "b09-e110",
       "title": {
-        "la": "Liber IX, Epistola 110"
+        "la": "Liber IX, Epistola 110",
+        "pt-BR": "Livro IX, Carta 110"
       }
     },
     {
       "id": "b09-e111",
       "title": {
-        "la": "Liber IX, Epistola 111"
+        "la": "Liber IX, Epistola 111",
+        "pt-BR": "Livro IX, Carta 111"
       }
     },
     {
       "id": "b09-e112",
       "title": {
-        "la": "Liber IX, Epistola 112"
+        "la": "Liber IX, Epistola 112",
+        "pt-BR": "Livro IX, Carta 112"
       }
     },
     {
       "id": "b09-e113",
       "title": {
-        "la": "Liber IX, Epistola 113"
+        "la": "Liber IX, Epistola 113",
+        "pt-BR": "Livro IX, Carta 113"
       }
     },
     {
       "id": "b09-e114",
       "title": {
-        "la": "Liber IX, Epistola 114"
+        "la": "Liber IX, Epistola 114",
+        "pt-BR": "Livro IX, Carta 114"
       }
     },
     {
       "id": "b09-e115",
       "title": {
-        "la": "Liber IX, Epistola 115"
+        "la": "Liber IX, Epistola 115",
+        "pt-BR": "Livro IX, Carta 115"
       }
     },
     {
       "id": "b09-e116",
       "title": {
-        "la": "Liber IX, Epistola 116"
+        "la": "Liber IX, Epistola 116",
+        "pt-BR": "Livro IX, Carta 116"
       }
     },
     {
       "id": "b09-e117",
       "title": {
-        "la": "Liber IX, Epistola 117"
+        "la": "Liber IX, Epistola 117",
+        "pt-BR": "Livro IX, Carta 117"
       }
     },
     {
       "id": "b09-e118",
       "title": {
-        "la": "Liber IX, Epistola 118"
+        "la": "Liber IX, Epistola 118",
+        "pt-BR": "Livro IX, Carta 118"
       }
     },
     {
       "id": "b09-e119",
       "title": {
-        "la": "Liber IX, Epistola 119"
+        "la": "Liber IX, Epistola 119",
+        "pt-BR": "Livro IX, Carta 119"
       }
     },
     {
       "id": "b09-e120",
       "title": {
-        "la": "Liber IX, Epistola 120"
+        "la": "Liber IX, Epistola 120",
+        "pt-BR": "Livro IX, Carta 120"
       }
     },
     {
       "id": "b09-e121",
       "title": {
-        "la": "Liber IX, Epistola 121"
+        "la": "Liber IX, Epistola 121",
+        "pt-BR": "Livro IX, Carta 121"
       }
     },
     {
       "id": "b09-e122",
       "title": {
-        "la": "Liber IX, Epistola 122"
+        "la": "Liber IX, Epistola 122",
+        "pt-BR": "Livro IX, Carta 122"
       }
     },
     {
       "id": "b09-e123",
       "title": {
-        "la": "Liber IX, Epistola 123"
+        "la": "Liber IX, Epistola 123",
+        "pt-BR": "Livro IX, Carta 123"
       }
     },
     {
       "id": "b09-e124",
       "title": {
-        "la": "Liber IX, Epistola 124"
+        "la": "Liber IX, Epistola 124",
+        "pt-BR": "Livro IX, Carta 124"
       }
     },
     {
       "id": "b09-e125",
       "title": {
-        "la": "Liber IX, Epistola 125"
+        "la": "Liber IX, Epistola 125",
+        "pt-BR": "Livro IX, Carta 125"
       }
     },
     {
       "id": "b09-e126",
       "title": {
-        "la": "Liber IX, Epistola 126"
+        "la": "Liber IX, Epistola 126",
+        "pt-BR": "Livro IX, Carta 126"
       }
     },
     {
       "id": "b09-e127",
       "title": {
-        "la": "Liber IX, Epistola 127"
+        "la": "Liber IX, Epistola 127",
+        "pt-BR": "Livro IX, Carta 127"
       }
     },
     {
       "id": "b10-e001",
       "title": {
-        "la": "Liber X, Epistola 1"
+        "la": "Liber X, Epistola 1",
+        "pt-BR": "Livro X, Carta 1"
       }
     },
     {
       "id": "b10-e002",
       "title": {
-        "la": "Liber X, Epistola 2"
+        "la": "Liber X, Epistola 2",
+        "pt-BR": "Livro X, Carta 2"
       }
     },
     {
       "id": "b10-e003",
       "title": {
-        "la": "Liber X, Epistola 3"
+        "la": "Liber X, Epistola 3",
+        "pt-BR": "Livro X, Carta 3"
       }
     },
     {
       "id": "b10-e004",
       "title": {
-        "la": "Liber X, Epistola 4"
+        "la": "Liber X, Epistola 4",
+        "pt-BR": "Livro X, Carta 4"
       }
     },
     {
       "id": "b10-e005",
       "title": {
-        "la": "Liber X, Epistola 5"
+        "la": "Liber X, Epistola 5",
+        "pt-BR": "Livro X, Carta 5"
       }
     },
     {
       "id": "b10-e006",
       "title": {
-        "la": "Liber X, Epistola 6"
+        "la": "Liber X, Epistola 6",
+        "pt-BR": "Livro X, Carta 6"
       }
     },
     {
       "id": "b10-e007",
       "title": {
-        "la": "Liber X, Epistola 7"
+        "la": "Liber X, Epistola 7",
+        "pt-BR": "Livro X, Carta 7"
       }
     },
     {
       "id": "b10-e008",
       "title": {
-        "la": "Liber X, Epistola 8"
+        "la": "Liber X, Epistola 8",
+        "pt-BR": "Livro X, Carta 8"
       }
     },
     {
       "id": "b10-e009",
       "title": {
-        "la": "Liber X, Epistola 9"
+        "la": "Liber X, Epistola 9",
+        "pt-BR": "Livro X, Carta 9"
       }
     },
     {
       "id": "b10-e010",
       "title": {
-        "la": "Liber X, Epistola 10"
+        "la": "Liber X, Epistola 10",
+        "pt-BR": "Livro X, Carta 10"
       }
     },
     {
       "id": "b10-e011",
       "title": {
-        "la": "Liber X, Epistola 11"
+        "la": "Liber X, Epistola 11",
+        "pt-BR": "Livro X, Carta 11"
       }
     },
     {
       "id": "b10-e012",
       "title": {
-        "la": "Liber X, Epistola 12"
+        "la": "Liber X, Epistola 12",
+        "pt-BR": "Livro X, Carta 12"
       }
     },
     {
       "id": "b10-e013",
       "title": {
-        "la": "Liber X, Epistola 13"
+        "la": "Liber X, Epistola 13",
+        "pt-BR": "Livro X, Carta 13"
       }
     },
     {
       "id": "b10-e014",
       "title": {
-        "la": "Liber X, Epistola 14"
+        "la": "Liber X, Epistola 14",
+        "pt-BR": "Livro X, Carta 14"
       }
     },
     {
       "id": "b10-e015",
       "title": {
-        "la": "Liber X, Epistola 15"
+        "la": "Liber X, Epistola 15",
+        "pt-BR": "Livro X, Carta 15"
       }
     },
     {
       "id": "b10-e016",
       "title": {
-        "la": "Liber X, Epistola 16"
+        "la": "Liber X, Epistola 16",
+        "pt-BR": "Livro X, Carta 16"
       }
     },
     {
       "id": "b10-e017",
       "title": {
-        "la": "Liber X, Epistola 17"
+        "la": "Liber X, Epistola 17",
+        "pt-BR": "Livro X, Carta 17"
       }
     },
     {
       "id": "b10-e018",
       "title": {
-        "la": "Liber X, Epistola 18"
+        "la": "Liber X, Epistola 18",
+        "pt-BR": "Livro X, Carta 18"
       }
     },
     {
       "id": "b10-e019",
       "title": {
-        "la": "Liber X, Epistola 19"
+        "la": "Liber X, Epistola 19",
+        "pt-BR": "Livro X, Carta 19"
       }
     },
     {
       "id": "b10-e020",
       "title": {
-        "la": "Liber X, Epistola 20"
+        "la": "Liber X, Epistola 20",
+        "pt-BR": "Livro X, Carta 20"
       }
     },
     {
       "id": "b10-e021",
       "title": {
-        "la": "Liber X, Epistola 21"
+        "la": "Liber X, Epistola 21",
+        "pt-BR": "Livro X, Carta 21"
       }
     },
     {
       "id": "b10-e022",
       "title": {
-        "la": "Liber X, Epistola 22"
+        "la": "Liber X, Epistola 22",
+        "pt-BR": "Livro X, Carta 22"
       }
     },
     {
       "id": "b10-e023",
       "title": {
-        "la": "Liber X, Epistola 23"
+        "la": "Liber X, Epistola 23",
+        "pt-BR": "Livro X, Carta 23"
       }
     },
     {
       "id": "b10-e024",
       "title": {
-        "la": "Liber X, Epistola 24"
+        "la": "Liber X, Epistola 24",
+        "pt-BR": "Livro X, Carta 24"
       }
     },
     {
       "id": "b10-e025",
       "title": {
-        "la": "Liber X, Epistola 25"
+        "la": "Liber X, Epistola 25",
+        "pt-BR": "Livro X, Carta 25"
       }
     },
     {
       "id": "b10-e026",
       "title": {
-        "la": "Liber X, Epistola 26"
+        "la": "Liber X, Epistola 26",
+        "pt-BR": "Livro X, Carta 26"
       }
     },
     {
       "id": "b10-e027",
       "title": {
-        "la": "Liber X, Epistola 27"
+        "la": "Liber X, Epistola 27",
+        "pt-BR": "Livro X, Carta 27"
       }
     },
     {
       "id": "b10-e028",
       "title": {
-        "la": "Liber X, Epistola 28"
+        "la": "Liber X, Epistola 28",
+        "pt-BR": "Livro X, Carta 28"
       }
     },
     {
       "id": "b10-e029",
       "title": {
-        "la": "Liber X, Epistola 29"
+        "la": "Liber X, Epistola 29",
+        "pt-BR": "Livro X, Carta 29"
       }
     },
     {
       "id": "b10-e030",
       "title": {
-        "la": "Liber X, Epistola 30"
+        "la": "Liber X, Epistola 30",
+        "pt-BR": "Livro X, Carta 30"
       }
     },
     {
       "id": "b10-e031",
       "title": {
-        "la": "Liber X, Epistola 31"
+        "la": "Liber X, Epistola 31",
+        "pt-BR": "Livro X, Carta 31"
       }
     },
     {
       "id": "b10-e032",
       "title": {
-        "la": "Liber X, Epistola 32"
+        "la": "Liber X, Epistola 32",
+        "pt-BR": "Livro X, Carta 32"
       }
     },
     {
       "id": "b10-e033",
       "title": {
-        "la": "Liber X, Epistola 33"
+        "la": "Liber X, Epistola 33",
+        "pt-BR": "Livro X, Carta 33"
       }
     },
     {
       "id": "b10-e034",
       "title": {
-        "la": "Liber X, Epistola 34"
+        "la": "Liber X, Epistola 34",
+        "pt-BR": "Livro X, Carta 34"
       }
     },
     {
       "id": "b10-e035",
       "title": {
-        "la": "Liber X, Epistola 35"
+        "la": "Liber X, Epistola 35",
+        "pt-BR": "Livro X, Carta 35"
       }
     },
     {
       "id": "b10-e036",
       "title": {
-        "la": "Liber X, Epistola 36"
+        "la": "Liber X, Epistola 36",
+        "pt-BR": "Livro X, Carta 36"
       }
     },
     {
       "id": "b10-e037",
       "title": {
-        "la": "Liber X, Epistola 37"
+        "la": "Liber X, Epistola 37",
+        "pt-BR": "Livro X, Carta 37"
       }
     },
     {
       "id": "b10-e038",
       "title": {
-        "la": "Liber X, Epistola 38"
+        "la": "Liber X, Epistola 38",
+        "pt-BR": "Livro X, Carta 38"
       }
     },
     {
       "id": "b10-e039",
       "title": {
-        "la": "Liber X, Epistola 39"
+        "la": "Liber X, Epistola 39",
+        "pt-BR": "Livro X, Carta 39"
       }
     },
     {
       "id": "b10-e040",
       "title": {
-        "la": "Liber X, Epistola 40"
+        "la": "Liber X, Epistola 40",
+        "pt-BR": "Livro X, Carta 40"
       }
     },
     {
       "id": "b10-e041",
       "title": {
-        "la": "Liber X, Epistola 41"
+        "la": "Liber X, Epistola 41",
+        "pt-BR": "Livro X, Carta 41"
       }
     },
     {
       "id": "b10-e042",
       "title": {
-        "la": "Liber X, Epistola 42"
+        "la": "Liber X, Epistola 42",
+        "pt-BR": "Livro X, Carta 42"
       }
     },
     {
       "id": "b10-e043",
       "title": {
-        "la": "Liber X, Epistola 43"
+        "la": "Liber X, Epistola 43",
+        "pt-BR": "Livro X, Carta 43"
       }
     },
     {
       "id": "b10-e044",
       "title": {
-        "la": "Liber X, Epistola 44"
+        "la": "Liber X, Epistola 44",
+        "pt-BR": "Livro X, Carta 44"
       }
     },
     {
       "id": "b10-e045",
       "title": {
-        "la": "Liber X, Epistola 45"
+        "la": "Liber X, Epistola 45",
+        "pt-BR": "Livro X, Carta 45"
       }
     },
     {
       "id": "b10-e046",
       "title": {
-        "la": "Liber X, Epistola 46"
+        "la": "Liber X, Epistola 46",
+        "pt-BR": "Livro X, Carta 46"
       }
     },
     {
       "id": "b10-e047",
       "title": {
-        "la": "Liber X, Epistola 47"
+        "la": "Liber X, Epistola 47",
+        "pt-BR": "Livro X, Carta 47"
       }
     },
     {
       "id": "b10-e048",
       "title": {
-        "la": "Liber X, Epistola 48"
+        "la": "Liber X, Epistola 48",
+        "pt-BR": "Livro X, Carta 48"
       }
     },
     {
       "id": "b10-e049",
       "title": {
-        "la": "Liber X, Epistola 49"
+        "la": "Liber X, Epistola 49",
+        "pt-BR": "Livro X, Carta 49"
       }
     },
     {
       "id": "b10-e050",
       "title": {
-        "la": "Liber X, Epistola 50"
+        "la": "Liber X, Epistola 50",
+        "pt-BR": "Livro X, Carta 50"
       }
     },
     {
       "id": "b10-e051",
       "title": {
-        "la": "Liber X, Epistola 51"
+        "la": "Liber X, Epistola 51",
+        "pt-BR": "Livro X, Carta 51"
       }
     },
     {
       "id": "b10-e052",
       "title": {
-        "la": "Liber X, Epistola 52"
+        "la": "Liber X, Epistola 52",
+        "pt-BR": "Livro X, Carta 52"
       }
     },
     {
       "id": "b10-e053",
       "title": {
-        "la": "Liber X, Epistola 53"
+        "la": "Liber X, Epistola 53",
+        "pt-BR": "Livro X, Carta 53"
       }
     },
     {
       "id": "b10-e054",
       "title": {
-        "la": "Liber X, Epistola 54"
+        "la": "Liber X, Epistola 54",
+        "pt-BR": "Livro X, Carta 54"
       }
     },
     {
       "id": "b10-e055",
       "title": {
-        "la": "Liber X, Epistola 55"
+        "la": "Liber X, Epistola 55",
+        "pt-BR": "Livro X, Carta 55"
       }
     },
     {
       "id": "b10-e056",
       "title": {
-        "la": "Liber X, Epistola 56"
+        "la": "Liber X, Epistola 56",
+        "pt-BR": "Livro X, Carta 56"
       }
     },
     {
       "id": "b10-e057",
       "title": {
-        "la": "Liber X, Epistola 57"
+        "la": "Liber X, Epistola 57",
+        "pt-BR": "Livro X, Carta 57"
       }
     },
     {
       "id": "b10-e058",
       "title": {
-        "la": "Liber X, Epistola 58"
+        "la": "Liber X, Epistola 58",
+        "pt-BR": "Livro X, Carta 58"
       }
     },
     {
       "id": "b10-e059",
       "title": {
-        "la": "Liber X, Epistola 59"
+        "la": "Liber X, Epistola 59",
+        "pt-BR": "Livro X, Carta 59"
       }
     },
     {
       "id": "b10-e060",
       "title": {
-        "la": "Liber X, Epistola 60"
+        "la": "Liber X, Epistola 60",
+        "pt-BR": "Livro X, Carta 60"
       }
     },
     {
       "id": "b10-e061",
       "title": {
-        "la": "Liber X, Epistola 61"
+        "la": "Liber X, Epistola 61",
+        "pt-BR": "Livro X, Carta 61"
       }
     },
     {
       "id": "b10-e062",
       "title": {
-        "la": "Liber X, Epistola 62"
+        "la": "Liber X, Epistola 62",
+        "pt-BR": "Livro X, Carta 62"
       }
     },
     {
       "id": "b10-e063",
       "title": {
-        "la": "Liber X, Epistola 63"
+        "la": "Liber X, Epistola 63",
+        "pt-BR": "Livro X, Carta 63"
       }
     },
     {
       "id": "b10-e064",
       "title": {
-        "la": "Liber X, Epistola 64"
+        "la": "Liber X, Epistola 64",
+        "pt-BR": "Livro X, Carta 64"
       }
     },
     {
       "id": "b10-e065",
       "title": {
-        "la": "Liber X, Epistola 65"
+        "la": "Liber X, Epistola 65",
+        "pt-BR": "Livro X, Carta 65"
       }
     },
     {
       "id": "b10-e066",
       "title": {
-        "la": "Liber X, Epistola 66"
+        "la": "Liber X, Epistola 66",
+        "pt-BR": "Livro X, Carta 66"
       }
     },
     {
       "id": "b10-e067",
       "title": {
-        "la": "Liber X, Epistola 67"
+        "la": "Liber X, Epistola 67",
+        "pt-BR": "Livro X, Carta 67"
       }
     },
     {
       "id": "b10-e068",
       "title": {
-        "la": "Liber X, Epistola 68"
+        "la": "Liber X, Epistola 68",
+        "pt-BR": "Livro X, Carta 68"
       }
     },
     {
       "id": "b11-e001",
       "title": {
-        "la": "Liber XI, Epistola 1"
+        "la": "Liber XI, Epistola 1",
+        "pt-BR": "Livro XI, Carta 1"
       }
     },
     {
       "id": "b11-e002",
       "title": {
-        "la": "Liber XI, Epistola 2"
+        "la": "Liber XI, Epistola 2",
+        "pt-BR": "Livro XI, Carta 2"
       }
     },
     {
       "id": "b11-e003",
       "title": {
-        "la": "Liber XI, Epistola 3"
+        "la": "Liber XI, Epistola 3",
+        "pt-BR": "Livro XI, Carta 3"
       }
     },
     {
       "id": "b11-e004",
       "title": {
-        "la": "Liber XI, Epistola 4"
+        "la": "Liber XI, Epistola 4",
+        "pt-BR": "Livro XI, Carta 4"
       }
     },
     {
       "id": "b11-e005",
       "title": {
-        "la": "Liber XI, Epistola 5"
+        "la": "Liber XI, Epistola 5",
+        "pt-BR": "Livro XI, Carta 5"
       }
     },
     {
       "id": "b11-e006",
       "title": {
-        "la": "Liber XI, Epistola 6"
+        "la": "Liber XI, Epistola 6",
+        "pt-BR": "Livro XI, Carta 6"
       }
     },
     {
       "id": "b11-e007",
       "title": {
-        "la": "Liber XI, Epistola 7"
+        "la": "Liber XI, Epistola 7",
+        "pt-BR": "Livro XI, Carta 7"
       }
     },
     {
       "id": "b11-e008",
       "title": {
-        "la": "Liber XI, Epistola 8"
+        "la": "Liber XI, Epistola 8",
+        "pt-BR": "Livro XI, Carta 8"
       }
     },
     {
       "id": "b11-e009",
       "title": {
-        "la": "Liber XI, Epistola 9"
+        "la": "Liber XI, Epistola 9",
+        "pt-BR": "Livro XI, Carta 9"
       }
     },
     {
       "id": "b11-e010",
       "title": {
-        "la": "Liber XI, Epistola 10"
+        "la": "Liber XI, Epistola 10",
+        "pt-BR": "Livro XI, Carta 10"
       }
     },
     {
       "id": "b11-e011",
       "title": {
-        "la": "Liber XI, Epistola 11"
+        "la": "Liber XI, Epistola 11",
+        "pt-BR": "Livro XI, Carta 11"
       }
     },
     {
       "id": "b11-e012",
       "title": {
-        "la": "Liber XI, Epistola 12"
+        "la": "Liber XI, Epistola 12",
+        "pt-BR": "Livro XI, Carta 12"
       }
     },
     {
       "id": "b11-e013",
       "title": {
-        "la": "Liber XI, Epistola 13"
+        "la": "Liber XI, Epistola 13",
+        "pt-BR": "Livro XI, Carta 13"
       }
     },
     {
       "id": "b11-e014",
       "title": {
-        "la": "Liber XI, Epistola 14"
+        "la": "Liber XI, Epistola 14",
+        "pt-BR": "Livro XI, Carta 14"
       }
     },
     {
       "id": "b11-e015",
       "title": {
-        "la": "Liber XI, Epistola 15"
+        "la": "Liber XI, Epistola 15",
+        "pt-BR": "Livro XI, Carta 15"
       }
     },
     {
       "id": "b11-e016",
       "title": {
-        "la": "Liber XI, Epistola 16"
+        "la": "Liber XI, Epistola 16",
+        "pt-BR": "Livro XI, Carta 16"
       }
     },
     {
       "id": "b11-e017",
       "title": {
-        "la": "Liber XI, Epistola 17"
+        "la": "Liber XI, Epistola 17",
+        "pt-BR": "Livro XI, Carta 17"
       }
     },
     {
       "id": "b11-e018",
       "title": {
-        "la": "Liber XI, Epistola 18"
+        "la": "Liber XI, Epistola 18",
+        "pt-BR": "Livro XI, Carta 18"
       }
     },
     {
       "id": "b11-e019",
       "title": {
-        "la": "Liber XI, Epistola 19"
+        "la": "Liber XI, Epistola 19",
+        "pt-BR": "Livro XI, Carta 19"
       }
     },
     {
       "id": "b11-e020",
       "title": {
-        "la": "Liber XI, Epistola 20"
+        "la": "Liber XI, Epistola 20",
+        "pt-BR": "Livro XI, Carta 20"
       }
     },
     {
       "id": "b11-e021",
       "title": {
-        "la": "Liber XI, Epistola 21"
+        "la": "Liber XI, Epistola 21",
+        "pt-BR": "Livro XI, Carta 21"
       }
     },
     {
       "id": "b11-e022",
       "title": {
-        "la": "Liber XI, Epistola 22"
+        "la": "Liber XI, Epistola 22",
+        "pt-BR": "Livro XI, Carta 22"
       }
     },
     {
       "id": "b11-e023",
       "title": {
-        "la": "Liber XI, Epistola 23"
+        "la": "Liber XI, Epistola 23",
+        "pt-BR": "Livro XI, Carta 23"
       }
     },
     {
       "id": "b11-e024",
       "title": {
-        "la": "Liber XI, Epistola 24"
+        "la": "Liber XI, Epistola 24",
+        "pt-BR": "Livro XI, Carta 24"
       }
     },
     {
       "id": "b11-e025",
       "title": {
-        "la": "Liber XI, Epistola 25"
+        "la": "Liber XI, Epistola 25",
+        "pt-BR": "Livro XI, Carta 25"
       }
     },
     {
       "id": "b11-e026",
       "title": {
-        "la": "Liber XI, Epistola 26"
+        "la": "Liber XI, Epistola 26",
+        "pt-BR": "Livro XI, Carta 26"
       }
     },
     {
       "id": "b11-e027",
       "title": {
-        "la": "Liber XI, Epistola 27"
+        "la": "Liber XI, Epistola 27",
+        "pt-BR": "Livro XI, Carta 27"
       }
     },
     {
       "id": "b11-e028",
       "title": {
-        "la": "Liber XI, Epistola 28"
+        "la": "Liber XI, Epistola 28",
+        "pt-BR": "Livro XI, Carta 28"
       }
     },
     {
       "id": "b11-e029",
       "title": {
-        "la": "Liber XI, Epistola 29"
+        "la": "Liber XI, Epistola 29",
+        "pt-BR": "Livro XI, Carta 29"
       }
     },
     {
       "id": "b11-e030",
       "title": {
-        "la": "Liber XI, Epistola 30"
+        "la": "Liber XI, Epistola 30",
+        "pt-BR": "Livro XI, Carta 30"
       }
     },
     {
       "id": "b11-e031",
       "title": {
-        "la": "Liber XI, Epistola 31"
+        "la": "Liber XI, Epistola 31",
+        "pt-BR": "Livro XI, Carta 31"
       }
     },
     {
       "id": "b11-e032",
       "title": {
-        "la": "Liber XI, Epistola 32"
+        "la": "Liber XI, Epistola 32",
+        "pt-BR": "Livro XI, Carta 32"
       }
     },
     {
       "id": "b11-e033",
       "title": {
-        "la": "Liber XI, Epistola 33"
+        "la": "Liber XI, Epistola 33",
+        "pt-BR": "Livro XI, Carta 33"
       }
     },
     {
       "id": "b11-e034",
       "title": {
-        "la": "Liber XI, Epistola 34"
+        "la": "Liber XI, Epistola 34",
+        "pt-BR": "Livro XI, Carta 34"
       }
     },
     {
       "id": "b11-e035",
       "title": {
-        "la": "Liber XI, Epistola 35"
+        "la": "Liber XI, Epistola 35",
+        "pt-BR": "Livro XI, Carta 35"
       }
     },
     {
       "id": "b11-e036",
       "title": {
-        "la": "Liber XI, Epistola 36"
+        "la": "Liber XI, Epistola 36",
+        "pt-BR": "Livro XI, Carta 36"
       }
     },
     {
       "id": "b11-e037",
       "title": {
-        "la": "Liber XI, Epistola 37"
+        "la": "Liber XI, Epistola 37",
+        "pt-BR": "Livro XI, Carta 37"
       }
     },
     {
       "id": "b11-e038",
       "title": {
-        "la": "Liber XI, Epistola 38"
+        "la": "Liber XI, Epistola 38",
+        "pt-BR": "Livro XI, Carta 38"
       }
     },
     {
       "id": "b11-e039",
       "title": {
-        "la": "Liber XI, Epistola 39"
+        "la": "Liber XI, Epistola 39",
+        "pt-BR": "Livro XI, Carta 39"
       }
     },
     {
       "id": "b11-e040",
       "title": {
-        "la": "Liber XI, Epistola 40"
+        "la": "Liber XI, Epistola 40",
+        "pt-BR": "Livro XI, Carta 40"
       }
     },
     {
       "id": "b11-e041",
       "title": {
-        "la": "Liber XI, Epistola 41"
+        "la": "Liber XI, Epistola 41",
+        "pt-BR": "Livro XI, Carta 41"
       }
     },
     {
       "id": "b11-e042",
       "title": {
-        "la": "Liber XI, Epistola 42"
+        "la": "Liber XI, Epistola 42",
+        "pt-BR": "Livro XI, Carta 42"
       }
     },
     {
       "id": "b11-e043",
       "title": {
-        "la": "Liber XI, Epistola 43"
+        "la": "Liber XI, Epistola 43",
+        "pt-BR": "Livro XI, Carta 43"
       }
     },
     {
       "id": "b11-e044",
       "title": {
-        "la": "Liber XI, Epistola 44"
+        "la": "Liber XI, Epistola 44",
+        "pt-BR": "Livro XI, Carta 44"
       }
     },
     {
       "id": "b11-e045",
       "title": {
-        "la": "Liber XI, Epistola 45"
+        "la": "Liber XI, Epistola 45",
+        "pt-BR": "Livro XI, Carta 45"
       }
     },
     {
       "id": "b11-e046",
       "title": {
-        "la": "Liber XI, Epistola 46"
+        "la": "Liber XI, Epistola 46",
+        "pt-BR": "Livro XI, Carta 46"
       }
     },
     {
       "id": "b11-e047",
       "title": {
-        "la": "Liber XI, Epistola 47"
+        "la": "Liber XI, Epistola 47",
+        "pt-BR": "Livro XI, Carta 47"
       }
     },
     {
       "id": "b11-e048",
       "title": {
-        "la": "Liber XI, Epistola 48"
+        "la": "Liber XI, Epistola 48",
+        "pt-BR": "Livro XI, Carta 48"
       }
     },
     {
       "id": "b11-e049",
       "title": {
-        "la": "Liber XI, Epistola 49"
+        "la": "Liber XI, Epistola 49",
+        "pt-BR": "Livro XI, Carta 49"
       }
     },
     {
       "id": "b11-e050",
       "title": {
-        "la": "Liber XI, Epistola 50"
+        "la": "Liber XI, Epistola 50",
+        "pt-BR": "Livro XI, Carta 50"
       }
     },
     {
       "id": "b11-e051",
       "title": {
-        "la": "Liber XI, Epistola 51"
+        "la": "Liber XI, Epistola 51",
+        "pt-BR": "Livro XI, Carta 51"
       }
     },
     {
       "id": "b11-e052",
       "title": {
-        "la": "Liber XI, Epistola 52"
+        "la": "Liber XI, Epistola 52",
+        "pt-BR": "Livro XI, Carta 52"
       }
     },
     {
       "id": "b11-e053",
       "title": {
-        "la": "Liber XI, Epistola 53"
+        "la": "Liber XI, Epistola 53",
+        "pt-BR": "Livro XI, Carta 53"
       }
     },
     {
       "id": "b11-e054",
       "title": {
-        "la": "Liber XI, Epistola 54"
+        "la": "Liber XI, Epistola 54",
+        "pt-BR": "Livro XI, Carta 54"
       }
     },
     {
       "id": "b11-e055",
       "title": {
-        "la": "Liber XI, Epistola 55"
+        "la": "Liber XI, Epistola 55",
+        "pt-BR": "Livro XI, Carta 55"
       }
     },
     {
       "id": "b11-e056",
       "title": {
-        "la": "Liber XI, Epistola 56"
+        "la": "Liber XI, Epistola 56",
+        "pt-BR": "Livro XI, Carta 56"
       }
     },
     {
       "id": "b11-e057",
       "title": {
-        "la": "Liber XI, Epistola 57"
+        "la": "Liber XI, Epistola 57",
+        "pt-BR": "Livro XI, Carta 57"
       }
     },
     {
       "id": "b11-e058",
       "title": {
-        "la": "Liber XI, Epistola 58"
+        "la": "Liber XI, Epistola 58",
+        "pt-BR": "Livro XI, Carta 58"
       }
     },
     {
       "id": "b11-e059",
       "title": {
-        "la": "Liber XI, Epistola 59"
+        "la": "Liber XI, Epistola 59",
+        "pt-BR": "Livro XI, Carta 59"
       }
     },
     {
       "id": "b11-e060",
       "title": {
-        "la": "Liber XI, Epistola 60"
+        "la": "Liber XI, Epistola 60",
+        "pt-BR": "Livro XI, Carta 60"
       }
     },
     {
       "id": "b11-e061",
       "title": {
-        "la": "Liber XI, Epistola 61"
+        "la": "Liber XI, Epistola 61",
+        "pt-BR": "Livro XI, Carta 61"
       }
     },
     {
       "id": "b11-e062",
       "title": {
-        "la": "Liber XI, Epistola 62"
+        "la": "Liber XI, Epistola 62",
+        "pt-BR": "Livro XI, Carta 62"
       }
     },
     {
       "id": "b11-e063",
       "title": {
-        "la": "Liber XI, Epistola 63"
+        "la": "Liber XI, Epistola 63",
+        "pt-BR": "Livro XI, Carta 63"
       }
     },
     {
       "id": "b11-e064",
       "title": {
-        "la": "Liber XI, Epistola 64"
+        "la": "Liber XI, Epistola 64",
+        "pt-BR": "Livro XI, Carta 64"
       }
     },
     {
       "id": "b11-e065",
       "title": {
-        "la": "Liber XI, Epistola 65"
+        "la": "Liber XI, Epistola 65",
+        "pt-BR": "Livro XI, Carta 65"
       }
     },
     {
       "id": "b11-e066",
       "title": {
-        "la": "Liber XI, Epistola 66"
+        "la": "Liber XI, Epistola 66",
+        "pt-BR": "Livro XI, Carta 66"
       }
     },
     {
       "id": "b11-e067",
       "title": {
-        "la": "Liber XI, Epistola 67"
+        "la": "Liber XI, Epistola 67",
+        "pt-BR": "Livro XI, Carta 67"
       }
     },
     {
       "id": "b11-e068",
       "title": {
-        "la": "Liber XI, Epistola 68"
+        "la": "Liber XI, Epistola 68",
+        "pt-BR": "Livro XI, Carta 68"
       }
     },
     {
       "id": "b11-e069",
       "title": {
-        "la": "Liber XI, Epistola 69"
+        "la": "Liber XI, Epistola 69",
+        "pt-BR": "Livro XI, Carta 69"
       }
     },
     {
       "id": "b11-e070",
       "title": {
-        "la": "Liber XI, Epistola 70"
+        "la": "Liber XI, Epistola 70",
+        "pt-BR": "Livro XI, Carta 70"
       }
     },
     {
       "id": "b11-e071",
       "title": {
-        "la": "Liber XI, Epistola 71"
+        "la": "Liber XI, Epistola 71",
+        "pt-BR": "Livro XI, Carta 71"
       }
     },
     {
       "id": "b11-e072",
       "title": {
-        "la": "Liber XI, Epistola 72"
+        "la": "Liber XI, Epistola 72",
+        "pt-BR": "Livro XI, Carta 72"
       }
     },
     {
       "id": "b11-e073",
       "title": {
-        "la": "Liber XI, Epistola 73"
+        "la": "Liber XI, Epistola 73",
+        "pt-BR": "Livro XI, Carta 73"
       }
     },
     {
       "id": "b11-e074",
       "title": {
-        "la": "Liber XI, Epistola 74"
+        "la": "Liber XI, Epistola 74",
+        "pt-BR": "Livro XI, Carta 74"
       }
     },
     {
       "id": "b11-e075",
       "title": {
-        "la": "Liber XI, Epistola 75"
+        "la": "Liber XI, Epistola 75",
+        "pt-BR": "Livro XI, Carta 75"
       }
     },
     {
       "id": "b11-e076",
       "title": {
-        "la": "Liber XI, Epistola 76"
+        "la": "Liber XI, Epistola 76",
+        "pt-BR": "Livro XI, Carta 76"
       }
     },
     {
       "id": "b11-e077",
       "title": {
-        "la": "Liber XI, Epistola 77"
+        "la": "Liber XI, Epistola 77",
+        "pt-BR": "Livro XI, Carta 77"
       }
     },
     {
       "id": "b11-e078",
       "title": {
-        "la": "Liber XI, Epistola 78"
+        "la": "Liber XI, Epistola 78",
+        "pt-BR": "Livro XI, Carta 78"
       }
     },
     {
       "id": "b12-e001",
       "title": {
-        "la": "Liber XII, Epistola 1"
+        "la": "Liber XII, Epistola 1",
+        "pt-BR": "Livro XII, Carta 1"
       }
     },
     {
       "id": "b12-e002",
       "title": {
-        "la": "Liber XII, Epistola 2"
+        "la": "Liber XII, Epistola 2",
+        "pt-BR": "Livro XII, Carta 2"
       }
     },
     {
       "id": "b12-e003",
       "title": {
-        "la": "Liber XII, Epistola 3"
+        "la": "Liber XII, Epistola 3",
+        "pt-BR": "Livro XII, Carta 3"
       }
     },
     {
       "id": "b12-e004",
       "title": {
-        "la": "Liber XII, Epistola 4"
+        "la": "Liber XII, Epistola 4",
+        "pt-BR": "Livro XII, Carta 4"
       }
     },
     {
       "id": "b12-e005",
       "title": {
-        "la": "Liber XII, Epistola 5"
+        "la": "Liber XII, Epistola 5",
+        "pt-BR": "Livro XII, Carta 5"
       }
     },
     {
       "id": "b12-e006",
       "title": {
-        "la": "Liber XII, Epistola 6"
+        "la": "Liber XII, Epistola 6",
+        "pt-BR": "Livro XII, Carta 6"
       }
     },
     {
       "id": "b12-e007",
       "title": {
-        "la": "Liber XII, Epistola 7"
+        "la": "Liber XII, Epistola 7",
+        "pt-BR": "Livro XII, Carta 7"
       }
     },
     {
       "id": "b12-e008",
       "title": {
-        "la": "Liber XII, Epistola 8"
+        "la": "Liber XII, Epistola 8",
+        "pt-BR": "Livro XII, Carta 8"
       }
     },
     {
       "id": "b12-e009",
       "title": {
-        "la": "Liber XII, Epistola 9"
+        "la": "Liber XII, Epistola 9",
+        "pt-BR": "Livro XII, Carta 9"
       }
     },
     {
       "id": "b12-e010",
       "title": {
-        "la": "Liber XII, Epistola 10"
+        "la": "Liber XII, Epistola 10",
+        "pt-BR": "Livro XII, Carta 10"
       }
     },
     {
       "id": "b12-e011",
       "title": {
-        "la": "Liber XII, Epistola 11"
+        "la": "Liber XII, Epistola 11",
+        "pt-BR": "Livro XII, Carta 11"
       }
     },
     {
       "id": "b12-e012",
       "title": {
-        "la": "Liber XII, Epistola 12"
+        "la": "Liber XII, Epistola 12",
+        "pt-BR": "Livro XII, Carta 12"
       }
     },
     {
       "id": "b12-e013",
       "title": {
-        "la": "Liber XII, Epistola 13"
+        "la": "Liber XII, Epistola 13",
+        "pt-BR": "Livro XII, Carta 13"
       }
     },
     {
       "id": "b12-e014",
       "title": {
-        "la": "Liber XII, Epistola 14"
+        "la": "Liber XII, Epistola 14",
+        "pt-BR": "Livro XII, Carta 14"
       }
     },
     {
       "id": "b12-e015",
       "title": {
-        "la": "Liber XII, Epistola 15"
+        "la": "Liber XII, Epistola 15",
+        "pt-BR": "Livro XII, Carta 15"
       }
     },
     {
       "id": "b12-e016",
       "title": {
-        "la": "Liber XII, Epistola 16"
+        "la": "Liber XII, Epistola 16",
+        "pt-BR": "Livro XII, Carta 16"
       }
     },
     {
       "id": "b12-e017",
       "title": {
-        "la": "Liber XII, Epistola 17"
+        "la": "Liber XII, Epistola 17",
+        "pt-BR": "Livro XII, Carta 17"
       }
     },
     {
       "id": "b12-e018",
       "title": {
-        "la": "Liber XII, Epistola 18"
+        "la": "Liber XII, Epistola 18",
+        "pt-BR": "Livro XII, Carta 18"
       }
     },
     {
       "id": "b12-e019",
       "title": {
-        "la": "Liber XII, Epistola 19"
+        "la": "Liber XII, Epistola 19",
+        "pt-BR": "Livro XII, Carta 19"
       }
     },
     {
       "id": "b12-e020",
       "title": {
-        "la": "Liber XII, Epistola 20"
+        "la": "Liber XII, Epistola 20",
+        "pt-BR": "Livro XII, Carta 20"
       }
     },
     {
       "id": "b12-e021",
       "title": {
-        "la": "Liber XII, Epistola 21"
+        "la": "Liber XII, Epistola 21",
+        "pt-BR": "Livro XII, Carta 21"
       }
     },
     {
       "id": "b12-e022",
       "title": {
-        "la": "Liber XII, Epistola 22"
+        "la": "Liber XII, Epistola 22",
+        "pt-BR": "Livro XII, Carta 22"
       }
     },
     {
       "id": "b12-e023",
       "title": {
-        "la": "Liber XII, Epistola 23"
+        "la": "Liber XII, Epistola 23",
+        "pt-BR": "Livro XII, Carta 23"
       }
     },
     {
       "id": "b12-e024",
       "title": {
-        "la": "Liber XII, Epistola 24"
+        "la": "Liber XII, Epistola 24",
+        "pt-BR": "Livro XII, Carta 24"
       }
     },
     {
       "id": "b12-e025",
       "title": {
-        "la": "Liber XII, Epistola 25"
+        "la": "Liber XII, Epistola 25",
+        "pt-BR": "Livro XII, Carta 25"
       }
     },
     {
       "id": "b12-e026",
       "title": {
-        "la": "Liber XII, Epistola 26"
+        "la": "Liber XII, Epistola 26",
+        "pt-BR": "Livro XII, Carta 26"
       }
     },
     {
       "id": "b12-e027",
       "title": {
-        "la": "Liber XII, Epistola 27"
+        "la": "Liber XII, Epistola 27",
+        "pt-BR": "Livro XII, Carta 27"
       }
     },
     {
       "id": "b12-e028",
       "title": {
-        "la": "Liber XII, Epistola 28"
+        "la": "Liber XII, Epistola 28",
+        "pt-BR": "Livro XII, Carta 28"
       }
     },
     {
       "id": "b12-e029",
       "title": {
-        "la": "Liber XII, Epistola 29"
+        "la": "Liber XII, Epistola 29",
+        "pt-BR": "Livro XII, Carta 29"
       }
     },
     {
       "id": "b12-e030",
       "title": {
-        "la": "Liber XII, Epistola 30"
+        "la": "Liber XII, Epistola 30",
+        "pt-BR": "Livro XII, Carta 30"
       }
     },
     {
       "id": "b12-e031",
       "title": {
-        "la": "Liber XII, Epistola 31"
+        "la": "Liber XII, Epistola 31",
+        "pt-BR": "Livro XII, Carta 31"
       }
     },
     {
       "id": "b12-e032",
       "title": {
-        "la": "Liber XII, Epistola 32"
+        "la": "Liber XII, Epistola 32",
+        "pt-BR": "Livro XII, Carta 32"
       }
     },
     {
       "id": "b12-e033",
       "title": {
-        "la": "Liber XII, Epistola 33"
+        "la": "Liber XII, Epistola 33",
+        "pt-BR": "Livro XII, Carta 33"
       }
     },
     {
       "id": "b12-e034",
       "title": {
-        "la": "Liber XII, Epistola 34"
+        "la": "Liber XII, Epistola 34",
+        "pt-BR": "Livro XII, Carta 34"
       }
     },
     {
       "id": "b12-e035",
       "title": {
-        "la": "Liber XII, Epistola 35"
+        "la": "Liber XII, Epistola 35",
+        "pt-BR": "Livro XII, Carta 35"
       }
     },
     {
       "id": "b12-e036",
       "title": {
-        "la": "Liber XII, Epistola 36"
+        "la": "Liber XII, Epistola 36",
+        "pt-BR": "Livro XII, Carta 36"
       }
     },
     {
       "id": "b12-e037",
       "title": {
-        "la": "Liber XII, Epistola 37"
+        "la": "Liber XII, Epistola 37",
+        "pt-BR": "Livro XII, Carta 37"
       }
     },
     {
       "id": "b12-e038",
       "title": {
-        "la": "Liber XII, Epistola 38"
+        "la": "Liber XII, Epistola 38",
+        "pt-BR": "Livro XII, Carta 38"
       }
     },
     {
       "id": "b12-e039",
       "title": {
-        "la": "Liber XII, Epistola 39"
+        "la": "Liber XII, Epistola 39",
+        "pt-BR": "Livro XII, Carta 39"
       }
     },
     {
       "id": "b12-e040",
       "title": {
-        "la": "Liber XII, Epistola 40"
+        "la": "Liber XII, Epistola 40",
+        "pt-BR": "Livro XII, Carta 40"
       }
     },
     {
       "id": "b12-e041",
       "title": {
-        "la": "Liber XII, Epistola 41"
+        "la": "Liber XII, Epistola 41",
+        "pt-BR": "Livro XII, Carta 41"
       }
     },
     {
       "id": "b12-e042",
       "title": {
-        "la": "Liber XII, Epistola 42"
+        "la": "Liber XII, Epistola 42",
+        "pt-BR": "Livro XII, Carta 42"
       }
     },
     {
       "id": "b12-e043",
       "title": {
-        "la": "Liber XII, Epistola 43"
+        "la": "Liber XII, Epistola 43",
+        "pt-BR": "Livro XII, Carta 43"
       }
     },
     {
       "id": "b12-e044",
       "title": {
-        "la": "Liber XII, Epistola 44"
+        "la": "Liber XII, Epistola 44",
+        "pt-BR": "Livro XII, Carta 44"
       }
     },
     {
       "id": "b12-e045",
       "title": {
-        "la": "Liber XII, Epistola 45"
+        "la": "Liber XII, Epistola 45",
+        "pt-BR": "Livro XII, Carta 45"
       }
     },
     {
       "id": "b12-e046",
       "title": {
-        "la": "Liber XII, Epistola 46"
+        "la": "Liber XII, Epistola 46",
+        "pt-BR": "Livro XII, Carta 46"
       }
     },
     {
       "id": "b12-e047",
       "title": {
-        "la": "Liber XII, Epistola 47"
+        "la": "Liber XII, Epistola 47",
+        "pt-BR": "Livro XII, Carta 47"
       }
     },
     {
       "id": "b12-e048",
       "title": {
-        "la": "Liber XII, Epistola 48"
+        "la": "Liber XII, Epistola 48",
+        "pt-BR": "Livro XII, Carta 48"
       }
     },
     {
       "id": "b12-e049",
       "title": {
-        "la": "Liber XII, Epistola 49"
+        "la": "Liber XII, Epistola 49",
+        "pt-BR": "Livro XII, Carta 49"
       }
     },
     {
       "id": "b12-e050",
       "title": {
-        "la": "Liber XII, Epistola 50"
+        "la": "Liber XII, Epistola 50",
+        "pt-BR": "Livro XII, Carta 50"
       }
     },
     {
       "id": "b13-e001",
       "title": {
-        "la": "Liber XIII, Epistola 1"
+        "la": "Liber XIII, Epistola 1",
+        "pt-BR": "Livro XIII, Carta 1"
       }
     },
     {
       "id": "b13-e002",
       "title": {
-        "la": "Liber XIII, Epistola 2"
+        "la": "Liber XIII, Epistola 2",
+        "pt-BR": "Livro XIII, Carta 2"
       }
     },
     {
       "id": "b13-e003",
       "title": {
-        "la": "Liber XIII, Epistola 3"
+        "la": "Liber XIII, Epistola 3",
+        "pt-BR": "Livro XIII, Carta 3"
       }
     },
     {
       "id": "b13-e004",
       "title": {
-        "la": "Liber XIII, Epistola 4"
+        "la": "Liber XIII, Epistola 4",
+        "pt-BR": "Livro XIII, Carta 4"
       }
     },
     {
       "id": "b13-e005",
       "title": {
-        "la": "Liber XIII, Epistola 5"
+        "la": "Liber XIII, Epistola 5",
+        "pt-BR": "Livro XIII, Carta 5"
       }
     },
     {
       "id": "b13-e006",
       "title": {
-        "la": "Liber XIII, Epistola 6"
+        "la": "Liber XIII, Epistola 6",
+        "pt-BR": "Livro XIII, Carta 6"
       }
     },
     {
       "id": "b13-e007",
       "title": {
-        "la": "Liber XIII, Epistola 7"
+        "la": "Liber XIII, Epistola 7",
+        "pt-BR": "Livro XIII, Carta 7"
       }
     },
     {
       "id": "b13-e008",
       "title": {
-        "la": "Liber XIII, Epistola 8"
+        "la": "Liber XIII, Epistola 8",
+        "pt-BR": "Livro XIII, Carta 8"
       }
     },
     {
       "id": "b13-e009",
       "title": {
-        "la": "Liber XIII, Epistola 9"
+        "la": "Liber XIII, Epistola 9",
+        "pt-BR": "Livro XIII, Carta 9"
       }
     },
     {
       "id": "b13-e010",
       "title": {
-        "la": "Liber XIII, Epistola 10"
+        "la": "Liber XIII, Epistola 10",
+        "pt-BR": "Livro XIII, Carta 10"
       }
     },
     {
       "id": "b13-e011",
       "title": {
-        "la": "Liber XIII, Epistola 11"
+        "la": "Liber XIII, Epistola 11",
+        "pt-BR": "Livro XIII, Carta 11"
       }
     },
     {
       "id": "b13-e012",
       "title": {
-        "la": "Liber XIII, Epistola 12"
+        "la": "Liber XIII, Epistola 12",
+        "pt-BR": "Livro XIII, Carta 12"
       }
     },
     {
       "id": "b13-e013",
       "title": {
-        "la": "Liber XIII, Epistola 13"
+        "la": "Liber XIII, Epistola 13",
+        "pt-BR": "Livro XIII, Carta 13"
       }
     },
     {
       "id": "b13-e014",
       "title": {
-        "la": "Liber XIII, Epistola 14"
+        "la": "Liber XIII, Epistola 14",
+        "pt-BR": "Livro XIII, Carta 14"
       }
     },
     {
       "id": "b13-e015",
       "title": {
-        "la": "Liber XIII, Epistola 15"
+        "la": "Liber XIII, Epistola 15",
+        "pt-BR": "Livro XIII, Carta 15"
       }
     },
     {
       "id": "b13-e016",
       "title": {
-        "la": "Liber XIII, Epistola 16"
+        "la": "Liber XIII, Epistola 16",
+        "pt-BR": "Livro XIII, Carta 16"
       }
     },
     {
       "id": "b13-e017",
       "title": {
-        "la": "Liber XIII, Epistola 17"
+        "la": "Liber XIII, Epistola 17",
+        "pt-BR": "Livro XIII, Carta 17"
       }
     },
     {
       "id": "b13-e018",
       "title": {
-        "la": "Liber XIII, Epistola 18"
+        "la": "Liber XIII, Epistola 18",
+        "pt-BR": "Livro XIII, Carta 18"
       }
     },
     {
       "id": "b13-e019",
       "title": {
-        "la": "Liber XIII, Epistola 19"
+        "la": "Liber XIII, Epistola 19",
+        "pt-BR": "Livro XIII, Carta 19"
       }
     },
     {
       "id": "b13-e020",
       "title": {
-        "la": "Liber XIII, Epistola 20"
+        "la": "Liber XIII, Epistola 20",
+        "pt-BR": "Livro XIII, Carta 20"
       }
     },
     {
       "id": "b13-e021",
       "title": {
-        "la": "Liber XIII, Epistola 21"
+        "la": "Liber XIII, Epistola 21",
+        "pt-BR": "Livro XIII, Carta 21"
       }
     },
     {
       "id": "b13-e022",
       "title": {
-        "la": "Liber XIII, Epistola 22"
+        "la": "Liber XIII, Epistola 22",
+        "pt-BR": "Livro XIII, Carta 22"
       }
     },
     {
       "id": "b13-e023",
       "title": {
-        "la": "Liber XIII, Epistola 23"
+        "la": "Liber XIII, Epistola 23",
+        "pt-BR": "Livro XIII, Carta 23"
       }
     },
     {
       "id": "b13-e024",
       "title": {
-        "la": "Liber XIII, Epistola 24"
+        "la": "Liber XIII, Epistola 24",
+        "pt-BR": "Livro XIII, Carta 24"
       }
     },
     {
       "id": "b13-e025",
       "title": {
-        "la": "Liber XIII, Epistola 25"
+        "la": "Liber XIII, Epistola 25",
+        "pt-BR": "Livro XIII, Carta 25"
       }
     },
     {
       "id": "b13-e026",
       "title": {
-        "la": "Liber XIII, Epistola 26"
+        "la": "Liber XIII, Epistola 26",
+        "pt-BR": "Livro XIII, Carta 26"
       }
     },
     {
       "id": "b13-e027",
       "title": {
-        "la": "Liber XIII, Epistola 27"
+        "la": "Liber XIII, Epistola 27",
+        "pt-BR": "Livro XIII, Carta 27"
       }
     },
     {
       "id": "b13-e028",
       "title": {
-        "la": "Liber XIII, Epistola 28"
+        "la": "Liber XIII, Epistola 28",
+        "pt-BR": "Livro XIII, Carta 28"
       }
     },
     {
       "id": "b13-e029",
       "title": {
-        "la": "Liber XIII, Epistola 29"
+        "la": "Liber XIII, Epistola 29",
+        "pt-BR": "Livro XIII, Carta 29"
       }
     },
     {
       "id": "b13-e030",
       "title": {
-        "la": "Liber XIII, Epistola 30"
+        "la": "Liber XIII, Epistola 30",
+        "pt-BR": "Livro XIII, Carta 30"
       }
     },
     {
       "id": "b13-e031",
       "title": {
-        "la": "Liber XIII, Epistola 31"
+        "la": "Liber XIII, Epistola 31",
+        "pt-BR": "Livro XIII, Carta 31"
       }
     },
     {
       "id": "b13-e032",
       "title": {
-        "la": "Liber XIII, Epistola 32"
+        "la": "Liber XIII, Epistola 32",
+        "pt-BR": "Livro XIII, Carta 32"
       }
     },
     {
       "id": "b13-e033",
       "title": {
-        "la": "Liber XIII, Epistola 33"
+        "la": "Liber XIII, Epistola 33",
+        "pt-BR": "Livro XIII, Carta 33"
       }
     },
     {
       "id": "b13-e034",
       "title": {
-        "la": "Liber XIII, Epistola 34"
+        "la": "Liber XIII, Epistola 34",
+        "pt-BR": "Livro XIII, Carta 34"
       }
     },
     {
       "id": "b13-e035",
       "title": {
-        "la": "Liber XIII, Epistola 35"
+        "la": "Liber XIII, Epistola 35",
+        "pt-BR": "Livro XIII, Carta 35"
       }
     },
     {
       "id": "b13-e036",
       "title": {
-        "la": "Liber XIII, Epistola 36"
+        "la": "Liber XIII, Epistola 36",
+        "pt-BR": "Livro XIII, Carta 36"
       }
     },
     {
       "id": "b13-e037",
       "title": {
-        "la": "Liber XIII, Epistola 37"
+        "la": "Liber XIII, Epistola 37",
+        "pt-BR": "Livro XIII, Carta 37"
       }
     },
     {
       "id": "b13-e038",
       "title": {
-        "la": "Liber XIII, Epistola 38"
+        "la": "Liber XIII, Epistola 38",
+        "pt-BR": "Livro XIII, Carta 38"
       }
     },
     {
       "id": "b13-e039",
       "title": {
-        "la": "Liber XIII, Epistola 39"
+        "la": "Liber XIII, Epistola 39",
+        "pt-BR": "Livro XIII, Carta 39"
       }
     },
     {
       "id": "b13-e040",
       "title": {
-        "la": "Liber XIII, Epistola 40"
+        "la": "Liber XIII, Epistola 40",
+        "pt-BR": "Livro XIII, Carta 40"
       }
     },
     {
       "id": "b13-e041",
       "title": {
-        "la": "Liber XIII, Epistola 41"
+        "la": "Liber XIII, Epistola 41",
+        "pt-BR": "Livro XIII, Carta 41"
       }
     },
     {
       "id": "b13-e042",
       "title": {
-        "la": "Liber XIII, Epistola 42"
+        "la": "Liber XIII, Epistola 42",
+        "pt-BR": "Livro XIII, Carta 42"
       }
     },
     {
       "id": "b13-e043",
       "title": {
-        "la": "Liber XIII, Epistola 43"
+        "la": "Liber XIII, Epistola 43",
+        "pt-BR": "Livro XIII, Carta 43"
       }
     },
     {
       "id": "b13-e044",
       "title": {
-        "la": "Liber XIII, Epistola 44"
+        "la": "Liber XIII, Epistola 44",
+        "pt-BR": "Livro XIII, Carta 44"
       }
     },
     {
       "id": "b13-e045",
       "title": {
-        "la": "Liber XIII, Epistola 45"
+        "la": "Liber XIII, Epistola 45",
+        "pt-BR": "Livro XIII, Carta 45"
       }
     },
     {
       "id": "b13-x01",
       "title": {
-        "la": "Liber XIII, Capitulare II Legum Imperialium. pro Immunitate Clericorum, Joanni Defensori Eunti Hispaniam"
+        "la": "Liber XIII, Capitulare II Legum Imperialium. pro Immunitate Clericorum, Joanni Defensori Eunti Hispaniam",
+        "pt-BR": "Livro XIII, Capitular II das Leis Imperiais sobre a imunidade dos clérigos, ao defensor João, em viagem à Hispânia"
       }
     },
     {
       "id": "b13-x02",
       "title": {
-        "la": "Liber XIII, Sententia Joannis Defensoris"
+        "la": "Liber XIII, Sententia Joannis Defensoris",
+        "pt-BR": "Livro XIII, Sentença do defensor João"
       }
     },
     {
       "id": "b13-e046",
       "title": {
-        "la": "Liber XIII, Epistola 46"
+        "la": "Liber XIII, Epistola 46",
+        "pt-BR": "Livro XIII, Carta 46"
       }
     },
     {
       "id": "b13-e047",
       "title": {
-        "la": "Liber XIII, Epistola 47"
+        "la": "Liber XIII, Epistola 47",
+        "pt-BR": "Livro XIII, Carta 47"
       }
     },
     {
       "id": "b14-e001",
       "title": {
-        "la": "Liber XIV, Epistola 1"
+        "la": "Liber XIV, Epistola 1",
+        "pt-BR": "Livro XIV, Carta 1"
       }
     },
     {
       "id": "b14-e002",
       "title": {
-        "la": "Liber XIV, Epistola 2"
+        "la": "Liber XIV, Epistola 2",
+        "pt-BR": "Livro XIV, Carta 2"
       }
     },
     {
       "id": "b14-e003",
       "title": {
-        "la": "Liber XIV, Epistola 3"
+        "la": "Liber XIV, Epistola 3",
+        "pt-BR": "Livro XIV, Carta 3"
       }
     },
     {
       "id": "b14-e004",
       "title": {
-        "la": "Liber XIV, Epistola 4"
+        "la": "Liber XIV, Epistola 4",
+        "pt-BR": "Livro XIV, Carta 4"
       }
     },
     {
       "id": "b14-e005",
       "title": {
-        "la": "Liber XIV, Epistola 5"
+        "la": "Liber XIV, Epistola 5",
+        "pt-BR": "Livro XIV, Carta 5"
       }
     },
     {
       "id": "b14-e006",
       "title": {
-        "la": "Liber XIV, Epistola 6"
+        "la": "Liber XIV, Epistola 6",
+        "pt-BR": "Livro XIV, Carta 6"
       }
     },
     {
       "id": "b14-e007",
       "title": {
-        "la": "Liber XIV, Epistola 7"
+        "la": "Liber XIV, Epistola 7",
+        "pt-BR": "Livro XIV, Carta 7"
       }
     },
     {
       "id": "b14-e008",
       "title": {
-        "la": "Liber XIV, Epistola 8"
+        "la": "Liber XIV, Epistola 8",
+        "pt-BR": "Livro XIV, Carta 8"
       }
     },
     {
       "id": "b14-e009",
       "title": {
-        "la": "Liber XIV, Epistola 9"
+        "la": "Liber XIV, Epistola 9",
+        "pt-BR": "Livro XIV, Carta 9"
       }
     },
     {
       "id": "b14-e010",
       "title": {
-        "la": "Liber XIV, Epistola 10"
+        "la": "Liber XIV, Epistola 10",
+        "pt-BR": "Livro XIV, Carta 10"
       }
     },
     {
       "id": "b14-e011",
       "title": {
-        "la": "Liber XIV, Epistola 11"
+        "la": "Liber XIV, Epistola 11",
+        "pt-BR": "Livro XIV, Carta 11"
       }
     },
     {
       "id": "b14-e012",
       "title": {
-        "la": "Liber XIV, Epistola 12"
+        "la": "Liber XIV, Epistola 12",
+        "pt-BR": "Livro XIV, Carta 12"
       }
     },
     {
       "id": "b14-e013",
       "title": {
-        "la": "Liber XIV, Epistola 13"
+        "la": "Liber XIV, Epistola 13",
+        "pt-BR": "Livro XIV, Carta 13"
       }
     },
     {
       "id": "b14-e014",
       "title": {
-        "la": "Liber XIV, Epistola 14"
+        "la": "Liber XIV, Epistola 14",
+        "pt-BR": "Livro XIV, Carta 14"
       }
     },
     {
       "id": "b14-e015",
       "title": {
-        "la": "Liber XIV, Epistola 15"
+        "la": "Liber XIV, Epistola 15",
+        "pt-BR": "Livro XIV, Carta 15"
       }
     },
     {
       "id": "b14-e016",
       "title": {
-        "la": "Liber XIV, Epistola 16"
+        "la": "Liber XIV, Epistola 16",
+        "pt-BR": "Livro XIV, Carta 16"
       }
     },
     {
       "id": "b14-e017",
       "title": {
-        "la": "Liber XIV, Epistola 17"
+        "la": "Liber XIV, Epistola 17",
+        "pt-BR": "Livro XIV, Carta 17"
       }
     }
   ]
