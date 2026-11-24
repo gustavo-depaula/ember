@@ -1,0 +1,37 @@
+# Colóquio 56. Colóquio de 12 de novembro de 1653 — A irmãs enviadas a Nantes
+
+Na quarta-feira, dia doze de novembro de 1653, as três irmãs acima nomeadas [^1] partiram de Paris para ir a Nantes, e eis a exortação que nosso mui honrado Padre lhes fez.
+
+Minhas queridas irmãs, Deus vos escolheu para ir ao hospital de Nantes, e deveis entregar-vos inteiramente a Nosso Senhor, pois ele vos escolheu entre todas as outras. Tendes três razões para vos entregar a Deus a fim de cumprir bem vosso dever naquele lugar.
+
+A primeira razão, minhas queridas irmãs, é a razão geral que obriga a todos nós, sem exceção, a renunciar a nós mesmos para fazer a vontade de Nosso Senhor, de modo que nunca façamos a nossa.
+
+A segunda é que ides a um grande hospital, onde há mais a fazer do que em outro lugar. Não é como numa paróquia de Paris, onde cuidais apenas de um pequeno número de doentes, nem como no campo, onde tendes apenas de visitar e instruir os pobres. As coisas ali são inteiramente diferentes, e é por isso que deveis entregar-vos a Deus, para que vos conceda as graças de que precisais.
+
+A terceira razão, minhas queridas irmãs, julguei necessário dizê-la a vós: é que a divisão, por instigação do mau espírito, se instalou nesse hospital. Sim, minhas irmãs, o diabo teve tanto poder que, por suas astúcias, introduziu a discórdia entre nossas irmãs;
+
+e remediareis isso pela união e pela concórdia que haverá entre vós. Não é de admirar que o diabo tenha travado essa dura batalha, pois é seu costume atacar particularmente os servos e as servas de Deus; ataca as Companhias mais santas pelo ódio que lhes tem. Não se preocupa muito com esta ou aquela pessoa em particular, pois já as tem em seu poder; mas as casas consagradas ao serviço de Deus e unidas pelo vínculo da caridade, ah! Minhas irmãs, é nelas que ele lança a discórdia. Minhas irmãs, remediareis, portanto, as desordens que esse espírito maligno causou nesse hospital.
+
+E que fareis para isso? Minhas filhas, deveis saber que, quanto mais elevada é a condição de uma pessoa, mais virtude deve mostrar. A condição de Filha da Caridade que tendes vos obriga à mais alta perfeição a que se pode aspirar, de modo que é isso o que se espera de vós; por isso, fostes escolhidas para ir em socorro dos que foram feridos. Sabeis que, quando se vai à guerra, tomam-se armas, combate-se, uns são mortos, outros feridos, uns são vencedores e outros vencidos. Nossas pobres irmãs foram feridas na guerra que nosso inimigo lhes fez. Nem por isso se deve desprezá-las. São muito virtuosas, mas esse inimigo de divisão lhes travou uma batalha cruel, com a permissão de Deus, que quis dar-nos motivo de nos humilhar, mostrando-nos que ninguém está isento, e de aprender que nem sempre é para punir que ele envia aflições, mas para exercitar seus servos e suas servas. O diabo ameaçou um dia São Francisco: “Teus religiosos”, disse-lhe, “estão em repouso agora; mas virá um dia em que os exercitarei como convém, e será quando pessoas de condição entrarem na Ordem.”
+
+Foi o que ele fez, minhas irmãs. Não é, portanto, de admirar que o demônio tenha atacado nossas irmãs, pois ousou fazer a mesma coisa na companhia de Nosso Senhor.
+
+Minhas queridas irmãs, era necessário advertir-vos dessas coisas, a fim de que vos armeis das virtudes necessárias para vencer esse inimigo e esse espírito de divisão. Os que vão à guerra levam armas. Vossas armas são a humildade, a mansidão e a condescendência. Quando tiverdes essas virtudes, estareis armadas dos pés à cabeça para ir combater o inimigo. A condescendência é um meio poderoso de conservar a união entre as pessoas que se entregaram a Deus; é preciso, minhas queridas irmãs, que essa virtude esteja entre vós e que renuncieis à vossa vontade tantas vezes quantas vossas irmãs forem de opinião contrária à vossa, pois uma Filha da Caridade deve estar pronta a fazer ou não fazer o que a irmã serva lhe manda e lhe proíbe. Digo *a irmã serva*, porque não se deve ouvir o que outra irmã diz, quando seus conselhos tendem a outro fim. Pois, se se quisesse ouvir todo o mundo, não se faria nada que prestasse. Fazer o que diz a serva, e nunca o que diz Jacquette Maria, nem quem quer que seja, uma vez que a irmã serva tenha dado a ordem. E esse é o verdadeiro meio de serdes unidas, como devem ser verdadeiras servas de Deus. Sem isso, tudo fica em desordem. Uma é de uma opinião, outra de outra. Não que se devam desprezar os conselhos de nossas irmãs; oh! Não, mas aquelas que os dão devem ter igual indiferença, quer sejam seguidos, quer não.
+
+O Sr. de Genebra dizia: “Prefiro fazer a vontade dos outros a fazer com que outro se conforme à minha; e ajusto mais depressa minha vontade à vontade de cem pessoas do que conformo uma só à minha.” Vede, minhas irmãs, como esse bem-aventurado nos ensina muito bem a prática da condescendência e quanto ela é necessária entre vós. Um grande santo dizia que, para chegar à perfeição, é preciso abandonar a própria vontade, e que não é preciso outra coisa para chegar à perfeição. Eis, minhas queridas irmãs, as armas com que vos enviamos, para que vingueis nossas boas irmãs pelo bom exemplo que dareis. Todo o mundo espera isso de vós; e o bom odor que se espalhará dessas belas virtudes fará com que não tenhais em vão o nome de Filhas da Caridade.
+
+Ali tereis de tratar com os pais dos pobres e, em geral, com todos os que têm algum encargo relativo aos pobres. Vós lhes prestareis toda a honra e todo o respeito que vos for possível. Alguns eclesiásticos são pensionistas no hospital. É um pouco difícil dizer-vos de que maneira vos deveis comportar com eles, porque desejavam ser alimentados de modo diferente daquele que os pais dos pobres entendem. Culpam as irmãs por não terem a alimentação que desejam. Isso é um pouco penoso, minhas filhas; e daí veio uma parte do sofrimento e da desordem. Mas, seja o que for que vos digam, embora os eclesiásticos queiram ser alimentados de outro modo e melhor do que os pais dos pobres entendem, não cedais, mantende-vos firmes e nada façais contra a ordem dos superiores. Procurai ter condescendência com esses pensionistas e satisfazê-los com palavras da melhor maneira que puderdes. Se os pais dos pobres vos dissessem: “É preciso fazer tal coisa”, e os padres quisessem que fizésseis de outra maneira, oh! Seria preciso fazer o que os pais desejam.
+
+Há ainda Monsenhor, o bispo de Nantes. Ele diz que sois religiosas, porque lhe disseram que fazeis votos. Se vos falar disso, respondei-lhe que não sois religiosas. Minha irmã Joana [^2], que é a irmã serva, disse-lhe: “Monsenhor, os votos que fazemos não nos tornam religiosas, porque são votos simples, que se podem fazer em toda parte e até no mundo.”
+
+Com efeito, não se pode dizer que as Filhas da Caridade sejam religiosas, porque não poderiam ser Filhas da Caridade se o fossem, pois, para ser religiosa, é preciso viver na clausura. As Filhas da Caridade nunca poderão ser religiosas, e ai de quem falar em torná-las religiosas!
+
+Ide, portanto, minhas queridas irmãs, trabalhai para Nosso Senhor, estimai muito nossas queridas irmãs e respeitai-as, guardai-vos bem de formar mau juízo de alguma; enfim, mostrai que tendes o verdadeiro espírito que Deus quer que tenhais.
+
+*Benedictio Dei Patris…* [^3]
+
+[^1]: Maria Marta Trumeau, Ana de Vaux e Madalena Micquel.
+
+[^2]: Joana Lepeintre.
+
+[^3]: Manuscrito intitulado *Coletânea das atas*, p. 119 e seguintes. (Arq. das Filhas da Caridade.)

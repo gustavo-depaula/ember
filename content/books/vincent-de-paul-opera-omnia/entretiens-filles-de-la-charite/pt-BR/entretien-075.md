@@ -1,0 +1,63 @@
+# Colóquio 75. Instrução de 29 de julho de 1656 — A duas irmãs enviadas a La Fère
+
+Em 28 de julho de 1656, a rainha deu ordem à senhora ama de leite do rei para mandar pedir Filhas da Caridade a fim de assistir os pobres soldados feridos no cerco.
+
+O Sr. Vicente, nosso muito honrado Padre, nomeou duas, uma das quais ofereceu alguma resistência, com palavras bastante violentas, que mostravam não ter grande amor à sua vocação, pela repugnância que tinha em obedecer. A outra alegou alguma enfermidade. Vendo isso, nosso muito caridoso Padre não as quis constranger, embora a última se tivesse resolvido a ir, ainda que devesse morrer por isso. E a outra, por receio de ter desagradado a seu superior, mandou dizer-lhe no dia seguinte que faria o que lhe aprouvesse, contanto que enviassem uma irmã em cujas mãos ela entregaria suas contas. A disposição que transparecia nessa irmã merecia correção; contudo, a tolerância de nosso muito honrado Padre levou-o a dizer que, tendo sua caridade consideração por suas fraquezas, não julgava conveniente que fizessem essa viagem. E a Providência fez logo aparecer duas capazes desse encargo [^1], com todas as disposições necessárias. No dia 29 do mesmo mês, elas vieram à casa para partir no dia seguinte. Assim, à noite, indo nossas duas irmãs receber sua obediência, tiveram a felicidade de receber aproximadamente a seguinte instrução.
+
+Minhas queridas irmãs, sois, portanto, vós que a divina Providência escolheu para esta obra tão importante. Ah! Quem o teria pensado? Vós mesmas, minhas irmãs, teríeis acreditado nisso? Vossos pais e vossas mães alguma vez pensaram nisso? Que tu, minha querida irmã, estando em tua terra de Champanha, e tu, em Poissy, Deus pensasse em vós para vos colocar numa Companhia para servi-lo! Que vós, embora pobres moças do campo, na rudeza e na ignorância, tenhais sido olhadas e escolhidas por Deus para obras tão grandes! Como! Uma rainha pensa em vós, manda buscar-vos com uma bondade incrível para vos ocupar, por suas ordens, numa obra tão santa! Ó minhas filhas, quanto deveis humilhar-vos para ser agradecidas por graças tão grandes, crendo que não sois dignas delas, como de fato, minhas irmãs, é verdade!
+
+O fim pelo qual Nosso Senhor vos faz chamar, e aquele que deveis ter, minhas queridas irmãs, é honrar a vida do Filho de Deus na terra; pois que outra coisa fez ele senão o que ides fazer? Não trabalhava continuamente e com esforço pela salvação das almas e até pela saúde dos corpos? Isso vos parece pouca coisa, minhas irmãs? Mas poderá haver alguma na terra? Oh! Não, minhas filhas. Esta obra é tão grande que se disse que, se os anjos e os santos fossem capazes de desejar alguma coisa, seria esse santo exercício. Sim, minhas irmãs, os santos de bom grado o invejariam em vós. Oh! Que felicidade! Ó meu Salvador, vós conheceis sua importância! Como escolhestes pessoas tão humildes e tão insignificantes! Sabíeis as graças que lhes queríeis dar; sede para sempre bendito por isso, meu Salvador!
+
+Um dos fins que deveis ter e que Nosso Senhor também pode ter tido ao vos chamar ao serviço dos pobres doentes e feridos, minhas irmãs, é reparar de algum modo o que os homens quiseram destruir, querendo tirar a vida dessas boas pessoas. Ides ajudar a conservar aquela que Deus lhes deixou, fazendo o possível para lhes restituir a saúde ou para ajudá-las a se dispor a bem morrer. Ó que felicidade! Ó que felicidade, minhas queridas irmãs, serdes empregadas num exercício assim e tão santo, semelhante ao do Filho de Deus na terra!
+
+Um dos meios de fazer bem a obra de Nosso Senhor é humilhar-vos muito, mas com uma humildade verdadeira e sólida. — E que quereis dizer, Padre? Como nos humilharemos? — Será, minhas filhas, amando vossa condição humilde e o trabalho da terra, como teríeis feito se tivésseis constituído família segundo vossa condição. E eis que sois elevadas a um encargo tão alto! Serdes consideradas por uma rainha e por tantas outras pessoas de posição, serdes tornadas capazes, pela graça de Deus, de prestar serviço ao próximo, e de tal modo, minhas irmãs, que, se os anjos e os santos fossem suscetíveis de inveja, a teriam de vós, considerando que fazeis o que Nosso Senhor fez na terra e o que tanto recomendou a seus apóstolos e, neles, a todos os cristãos! Humilhai-vos, portanto, muito, minhas irmãs, eu vos peço.
+
+Outro meio de vos humilhar são as ocasiões que podereis ter por parte das próprias pessoas a quem fizerdes o bem. Ó minhas irmãs, podeis esperar por isso, pois é coisa muito comum. E, se isso não vos acontecesse, não imitaríeis inteiramente o Filho de Deus. Ah! Não foi isso que ele quis dar a entender a seus apóstolos, enviando-os para o serviço e a instrução do próximo, ao dizer-lhes: “Eu vos envio como ovelhas no meio de lobos; eles vos maltratarão, vos flagelarão e vos desprezarão” [^2]. Digo-vos o mesmo, minhas filhas. Poderá acontecer que se queixem, que vos desprezem. Dirão que estragais tudo, que nada entendeis, que prejudicais em vez de servir. Até as pessoas a quem tiverdes prestado mais serviços vos dirão injúrias, e então, minhas irmãs, alegrai-vos. O que não disseram a Nosso Senhor, que fazia o bem a todo o mundo! Ele sabia bem o que havia de acontecer àqueles que o imitassem; e por isso lhes dá a entender que há uma grande felicidade em sofrer essas coisas, pois ensina a alegrar-se em meio a tantos motivos aparentes de aflição. E talvez possa acontecer, minhas irmãs, que o desprezo que tiverem por vós seja tão grande que toda a Companhia sofra alguma censura por isso. Ora, é nisso, minhas queridas irmãs, que podereis praticar uma verdadeira humildade. Não basta que vejamos ou sintamos em nós mesmos os motivos que merecem grande desprezo, que amemos nossa própria abjeção; é preciso ainda amar o desprezo mais geral que se estende até à Companhia, contanto que a Companhia e vós estejais sem escândalo manifesto. Entregai-vos, portanto, a Deus, minhas queridas irmãs, para vos humilhar muito, e nunca temais. O desprezo dessa espécie não vos poderá prejudicar; ao contrário, servirá para vos tornar agradáveis a Deus, pois honrareis o estado de humilhação de seu Filho na terra.
+
+Essa humilhação, minhas irmãs, vos servirá para ter grande confiança em Deus. Não é essa confiança que vos deve fazer empreender todas as ações de caridade nas quais sois empregadas? Sabeis bem, minhas irmãs, que não sois vós que vos dais a coragem e a força para empreender tudo o que fazeis pela caridade. Não era essa confiança que fazia os apóstolos empreender todas as grandes obras que faziam, que os fazia falar com tanta segurança aos grandes e aos pequenos? Não era ela que fazia São Paulo dizer: “Tudo posso naquele que me fortalece?” [^3]. Sim, minhas irmãs, as criaturas mais insignificantes podem fazer tudo aquilo em que Deus as quer empregar, contanto que tenham confiança em Nosso Senhor Jesus Cristo, que nunca deixará de lhes dar sua graça, a qual é preciso também pedir-lhe. E, para isso, minhas irmãs, rezai, pois é um meio muito poderoso de obter de Deus que sua obra se cumpra segundo sua santa vontade.
+
+Outro meio, minhas irmãs, é a caridade, e que haja grande união entre vós para vos suportardes uma à outra. Pois, não duvideis, minhas filhas, nosso inimigo é inimigo da paz e não deixará de vos armar ciladas para tentar semear a divisão; mas permanecei firmes.
+
+Tu, minha irmã Marta, sê a serva de nossa irmã, eu te peço.
+
+Em sua humildade, declarou não ser capaz disso e, por submissão, aceitou.
+
+— Bendito seja Deus! Se nossa irmã fizer ou disser alguma coisa que te desagrade, suporta-o. E tu, se minha irmã te mandar fazer alguma coisa contrária ao teu parecer, desculpa-a; se ela te disser alguma coisa que te contrarie, pois podes ter certeza de que isso acontecerá, suporta-o. E como, minhas filhas, isso poderia deixar de acontecer, visto que nós mesmos nos contradizemos tanto? Dissemos uma coisa de manhã e à noite já não temos o mesmo parecer. Mas o que tendes a fazer nessas ocasiões é suportar-vos uma à outra. Pensai na tolerância que Nosso Senhor teve para com aqueles que o caluniavam e contradiziam, sem nunca se queixar disso.
+
+Também nunca vos queixeis, minhas queridas irmãs, às pessoas de fora, oh! Nunca, minhas queridas irmãs. Se vos acontecesse queixar-vos às pessoas do mundo, isso poderia levá-las a dizer: “Ah! Como essas irmãs suportarão com caridade os pobres doentes, se não conseguem suportar-se umas às outras! Como dariam repouso aos pobres, se nem sequer têm paz entre si!”
+
+Uma das irmãs disse:
+
+Meu Padre, parece-me que não há pena alguma, qualquer que seja, em servir os pobres, contanto que haja união e tolerância entre nós.
+
+— Oh! Deus te abençoe! Dizes uma coisa muito verdadeira. Por isso, minhas irmãs, eu vo-lo recomendo de todo o coração. Mas o que tendes a fazer, minhas queridas irmãs, para adquirir essa virtude da tolerância é, assim que uma tiver desagradado à outra, ajoelhar-vos imediatamente para pedir perdão uma à outra. Ó minhas irmãs, que excelente prática! Eu vos exorto a ela. Sim, minhas irmãs, os próprios superiores devem sempre ajoelhar-se. Ontem eu pedia perdão a toda a Companhia, e de joelhos. Oh! Sim, minhas irmãs, pois cabe aos superiores tomar sobre si todas as faltas que a Companhia comete. Nosso Senhor procedeu assim. Não se diz dele que tomou sobre si todos os pecados do mundo, e não foram todos os nossos crimes que o fizeram morrer? Ó minhas irmãs, como é bom proceder assim!
+
+Tende grande cuidado em observar vossas regras comuns, tanto quanto o serviço dos pobres vos permitir; pois sabeis que essa é vossa principal ocupação, pela qual deveis deixar tudo, sem, contudo, deixar de fazer uma parte do que puderdes, quando não puderdes fazer tudo.
+
+Quanto à santa comunhão, comungareis nos dias que vos são ordenados, se não fordes impedidas pela necessidade dos pobres.
+
+Omiti dizer, no artigo em que nosso muito honrado Padre recomenda não desabafar com ninguém de fora, que sua caridade disse que, se estivessem sobrecarregadas demais de penas, depois de as terem contado a Nosso Senhor, poderiam escrever sobre elas a seu próprio superior, em vez de dar escândalo à Companhia.
+
+E sua caridade acrescentou:
+
+Ó minhas filhas, é Nosso Senhor quem nos ensina essa prática quando, enviando seus discípulos para servir o próximo e pregar seu Evangelho, lhes diz: “Não cumprimenteis ninguém pelo caminho” [^4]. Sabeis por quê? Por receio de que, demorando-se nos cumprimentos, corressem o risco de falar de outras coisas e chegassem a falar do que se passava entre eles. Ó minhas queridas irmãs, que grande mal é revelar os segredos da Companhia! Grande cordialidade, portanto, minhas queridas irmãs.
+
+Perguntaram a nosso muito honrado Padre como as irmãs deviam comportar-se com os soldados convalescentes.
+
+— Ó minhas irmãs, é preciso que seja sempre com grande caridade e modéstia, pois, como já não têm o corpo doente, é preciso estar vigilantes, como se deve fazer com todos os outros homens. Se acontecesse que algum fosse insolente, seria preciso repreendê-lo com severidade. Se reincidisse, seria preciso ameaçar apresentar queixa dele. Também é preciso nunca vos aproximardes deles senão na medida em que for necessário para seu bem, prestando prontamente o serviço que lhes deveis.
+
+Não sei, minhas irmãs, como se proverá às necessidades dos pobres, tanto quanto ao alimento como às outras despesas; mas peço-vos que vos encarregueis disso o mínimo que puderdes. Se não puderdes evitar manusear o dinheiro, prestai contas dele o mais cedo que puderdes. Para isso, é necessário sempre anotar o que receberdes e gastardes. É coisa absolutamente necessária às Filhas da Caridade parecer e ser exatas nas contas.
+
+Observareis pelo caminho vossas pequenas regras e edificareis o próximo tanto quanto puderdes. Já fizestes viagens. Conheceis as pequenas práticas habituais nos caminhos. Nas hospedarias, retirai-vos sempre para um lugar reservado. Quando chegardes, ireis procurar a senhora ama de leite do rei, depois de terdes ido à igreja adorar a Deus no Santíssimo Sacramento do altar; e direis a essa boa senhora que ides receber suas ordens e saber dela o serviço que Deus quer que presteis aos pobres. Informar-vos-eis de onde podereis encontrar o Sr. de Saint-Jean, entregareis a ambos as cartas que lhes levais e seguireis em tudo os conselhos que vos derem.
+
+E, por fim, nosso muito honrado Padre deu sua bênção com os votos habituais para obter de nosso bom Deus a graça de fazer sua santíssima vontade. Bendito seja Deus! [^5]
+
+[^1]: Irmãs Maria Marta Trumeau e Isabel Brocard.
+
+[^2]: São Mateus 10:16-17.
+
+[^3]: Epístola aos Filipenses 4:13.
+
+[^4]: São Lucas 10:4.
+
+[^5]: *Coletânea das atas dos Conselhos*, p. 188 e seguintes.

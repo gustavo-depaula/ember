@@ -1,0 +1,21 @@
+# Colóquio 12. Conferência de julho (1642) — Sobre as virtudes de Margarida Naseau
+
+Memória do que foi dito no colóquio que o Sr. Vicente fez as Filhas da Caridade realizarem em sua presença sobre as oito primeiras irmãs falecidas, cujo primeiro ponto se encontra escrito no original.
+
+Segundo ponto, que consiste em considerar as virtudes que cada uma observou em nossas irmãs que foram para Deus.
+
+Minha irmã Margarida Naseau foi a primeira a vir servir os pobres doentes da paróquia de Saint-Sauveur, na qual a confraria da Caridade foi estabelecida no ano de 1630.
+
+Margarida Naseau, de Suresnes, foi a primeira irmã que teve a felicidade de mostrar o caminho às outras, tanto para ensinar as meninas como para assistir os pobres doentes, embora quase não tenha tido outro mestre ou mestra senão Deus. Era apenas uma pobre guardadora de vacas, sem instrução. Movida por uma forte inspiração do céu, teve a ideia de instruir a juventude, comprou um abecedário e, não podendo ir à escola para aprender, ia pedir ao senhor pároco ou ao vigário que lhe dissesse quais eram as quatro primeiras letras. Outra vez, perguntava pelas quatro seguintes, e assim pelo restante. Depois, enquanto guardava as vacas, estudava sua lição. Se via passar alguém que parecia saber ler, perguntava-lhe: “Senhor, como se pronuncia esta palavra?” Assim, pouco a pouco, aprendeu a ler; depois, ensinou outras moças de sua aldeia. Resolveu então ir de aldeia em aldeia para instruir a juventude, com duas ou três outras moças que havia formado. Uma ia para uma aldeia, outra para outra. Coisa notável: empreendeu isso sem dinheiro e sem outra provisão além da divina Providência. Muitas vezes jejuou dias inteiros, morou em lugares onde só havia paredes. Às vezes se dedicava dia e noite à instrução, não só das meninas, mas também das moças, e isso sem motivo de vaidade ou de interesse, sem outro propósito senão a glória de Deus, que provia às suas grandes necessidades sem que ela nisso pensasse. Ela mesma contou a Mademoiselle Le Gras que certa vez, depois de passar vários dias sem pão e sem ter dado a conhecer a ninguém sua aflição, aconteceu-lhe, ao voltar da missa, encontrar com que se alimentar por muito tempo. Quanto mais trabalhava na instrução da juventude, mais os aldeões zombavam dela e a caluniavam. Seu zelo só se tornava mais ardente. Tinha tamanho desapego que dava tudo o que possuía, tirando até do que lhe era necessário. Fez estudar alguns jovens que não tinham meios para isso, alimentava-os na maioria das vezes e os encorajava ao serviço de Deus; e esses jovens são agora bons padres.
+
+Por fim, assim que soube que havia em Paris uma confraria da Caridade para os pobres doentes, foi para lá, impelida pelo desejo de nela trabalhar; e, embora tivesse grande amor à continuação da instrução da juventude, deixou, contudo, esse exercício de caridade para abraçar o outro, que julgava mais perfeito e necessário; e Deus assim o queria para que ela fosse a primeira Filha da Caridade serva dos pobres doentes da cidade de Paris. Atraiu para lá outras moças, que havia ajudado a se desapegarem de todas as vaidades e a se dedicarem à devoção.
+
+Tinha grande humildade e submissão. Era tão desapegada que, em pouco tempo, mudou de boa vontade de três paróquias, das quais só saía para grande pesar de todos.
+
+Nas paróquias, mostrou-se sempre tão caridosa como no campo, dando tudo o que podia ter, quando a ocasião se apresentava; nada podia recusar e desejaria acolher todo o mundo em sua casa. É preciso notar que então ainda não havia comunidade formada, nem regra alguma que lhe mandasse agir de outro modo.
+
+Tinha grande paciência e nunca murmurava. Todos a amavam, porque nela nada havia que não fosse amável. Sua caridade foi tão grande que morreu por ter feito uma pobre moça doente de peste dormir consigo. Atingida por esse mal, despediu-se da irmã que estava com ela como se tivesse previsto sua morte e foi para Saint-Louis, com o coração cheio de alegria e de conformidade com a vontade de Deus. [^1] [^2]
+
+[^1]: Ms. Déf. 2, p. 101 e seguintes.
+
+[^2]: Este colóquio “sobre as oito primeiras irmãs falecidas” é anunciado na conferência anterior como devendo realizar-se quinze dias mais tarde.

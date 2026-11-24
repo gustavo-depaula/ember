@@ -14,17 +14,23 @@
   "description": {
     "fr-FR": "Les conférences et entretiens de saint Vincent aux Filles de la Charité (1634-1660), recueillis par les sœurs et édités par Pierre Coste (tomes IX-X) : le règlement, l’esprit de la compagnie, l’humilité, la charité, la prière, le service des pauvres, avec les notes de l’éditeur.",
     "en-US": "The conferences of St. Vincent to the Daughters of Charity (1634-1660), taken down by the sisters and edited by Pierre Coste (vols. IX-X): the rule, the spirit of the company, humility, charity, prayer, the service of the poor, with the editor’s notes.",
-    "pt-BR": "As conferências de São Vicente às Filhas da Caridade (1634-1660), recolhidas pelas irmãs e editadas por Pierre Coste (tomos IX-X): a regra, o espírito da companhia, a humildade, a caridade, a oração, o serviço dos pobres."
+    "pt-BR": "As conferências de São Vicente às Filhas da Caridade (1634-1660), recolhidas pelas irmãs e editadas por Pierre Coste (tomos IX-X): a regra, o espírito da companhia, a humildade, a caridade, a oração, o serviço dos pobres, com as notas do editor."
   },
   "composed": "1634-1660",
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "vincent-de-paul/entretiens-filles-de-la-charite",
   "editions": {
     "fr-FR": {
       "editor": "Pierre Coste, C.M.",
       "year": 1923
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,367 +47,428 @@
     {
       "id": "groupe-01",
       "title": {
-        "fr-FR": "Tome IX"
+        "fr-FR": "Tome IX",
+        "pt-BR": "Tomo IX"
       },
       "children": [
         {
           "id": "entretien-001",
           "title": {
-            "fr-FR": "Entretien 1. Conférence du 31 juillet 1634 — Explication du Règlement"
+            "fr-FR": "Entretien 1. Conférence du 31 juillet 1634 — Explication du Règlement",
+            "pt-BR": "Colóquio 1. Conferência de 31 de julho de 1634 — Explicação do Regulamento"
           }
         },
         {
           "id": "entretien-002",
           "title": {
-            "fr-FR": "Entretien 2. Conférence du 5 juillet 1640 — Sur la Vocation de Fille de la Charité"
+            "fr-FR": "Entretien 2. Conférence du 5 juillet 1640 — Sur la Vocation de Fille de la Charité",
+            "pt-BR": "Colóquio 2. Conferência de 5 de julho de 1640 — Sobre a vocação de Filha da Caridade"
           }
         },
         {
           "id": "entretien-003",
           "title": {
-            "fr-FR": "Entretien 3. Conférence du 19 juillet 1640 — Sur la Vocation de Fille de la Charité"
+            "fr-FR": "Entretien 3. Conférence du 19 juillet 1640 — Sur la Vocation de Fille de la Charité",
+            "pt-BR": "Colóquio 3. Conferência de 19 de julho de 1640 — Sobre a vocação de Filha da Caridade"
           }
         },
         {
           "id": "entretien-004",
           "title": {
-            "fr-FR": "Entretien 4. Conférence du 2 août 1640 — Sur la Fidélité au Lever et à l’Oraison"
+            "fr-FR": "Entretien 4. Conférence du 2 août 1640 — Sur la Fidélité au Lever et à l’Oraison",
+            "pt-BR": "Colóquio 4. Conferência de 2 de agosto de 1640 — Sobre a fidelidade ao levantar e à oração"
           }
         },
         {
           "id": "entretien-005",
           "title": {
-            "fr-FR": "Entretien 5. Conférence du 16 août 1640 — Sur la Fidélité au Lever et à l’Oraison"
+            "fr-FR": "Entretien 5. Conférence du 16 août 1640 — Sur la Fidélité au Lever et à l’Oraison",
+            "pt-BR": "Colóquio 5. Conferência de 16 de agosto de 1640 — Sobre a fidelidade ao levantar e à oração"
           }
         },
         {
           "id": "entretien-006",
           "title": {
-            "fr-FR": "Entretien 6. Conférence du 16 août 1641 — Explication du Règlement"
+            "fr-FR": "Entretien 6. Conférence du 16 août 1641 — Explication du Règlement",
+            "pt-BR": "Colóquio 6. Conferência de 16 de agosto de 1641 — Explicação do Regulamento"
           }
         },
         {
           "id": "entretien-007",
           "title": {
-            "fr-FR": "Entretien 7. Conférence du 15 octobre 1641 — Sur le Jubile"
+            "fr-FR": "Entretien 7. Conférence du 15 octobre 1641 — Sur le Jubile",
+            "pt-BR": "Colóquio 7. Conferência de 15 de outubro de 1641 — Sobre o jubileu"
           }
         },
         {
           "id": "entretien-008",
           "title": {
-            "fr-FR": "Entretien 8. Conférence du 6 janvier 1642 — Sur les Fautes de l’Année Écoulée"
+            "fr-FR": "Entretien 8. Conférence du 6 janvier 1642 — Sur les Fautes de l’Année Écoulée",
+            "pt-BR": "Colóquio 8. Conferência de 6 de janeiro de 1642 — Sobre as faltas do ano passado"
           }
         },
         {
           "id": "entretien-009",
           "title": {
-            "fr-FR": "Entretien 9. Conférence du 9 mars — Sur le Service des Malades"
+            "fr-FR": "Entretien 9. Conférence du 9 mars — Sur le Service des Malades",
+            "pt-BR": "Colóquio 9. Conferência de 9 de março — Sobre o serviço dos doentes"
           }
         },
         {
           "id": "entretien-010",
           "title": {
-            "fr-FR": "Entretien 10. Conférence du 16 mars — Sur le Service des Malades"
+            "fr-FR": "Entretien 10. Conférence du 16 mars — Sur le Service des Malades",
+            "pt-BR": "Colóquio 10. Conferência de 16 de março — Sobre o serviço dos doentes"
           }
         },
         {
           "id": "entretien-011",
           "title": {
-            "fr-FR": "Entretien 11. Conférence de Juin 1642 — Sur l’Obéissance"
+            "fr-FR": "Entretien 11. Conférence de Juin 1642 — Sur l’Obéissance",
+            "pt-BR": "Colóquio 11. Conferência de junho de 1642 — Sobre a obediência"
           }
         },
         {
           "id": "entretien-012",
           "title": {
-            "fr-FR": "Entretien 12. Conférence de Juillet (1642) — Sur les Vertus de Marguerite Naseau"
+            "fr-FR": "Entretien 12. Conférence de Juillet (1642) — Sur les Vertus de Marguerite Naseau",
+            "pt-BR": "Colóquio 12. Conferência de julho (1642) — Sobre as virtudes de Margarida Naseau"
           }
         },
         {
           "id": "entretien-013",
           "title": {
-            "fr-FR": "Entretien 13. Conférence du 25 janvier 1643 — Imitation des Filles des Champs"
+            "fr-FR": "Entretien 13. Conférence du 25 janvier 1643 — Imitation des Filles des Champs",
+            "pt-BR": "Colóquio 13. Conferência de 25 de janeiro de 1643 — Imitação das moças do campo"
           }
         },
         {
           "id": "entretien-014",
           "title": {
-            "fr-FR": "Entretien 14. Conférence du 26 avril 1643 — Sur l’Union entre les Membres de la Communauté"
+            "fr-FR": "Entretien 14. Conférence du 26 avril 1643 — Sur l’Union entre les Membres de la Communauté",
+            "pt-BR": "Colóquio 14. Conferência de 26 de abril de 1643 — Sobre a união entre os membros da comunidade"
           }
         },
         {
           "id": "entretien-015",
           "title": {
-            "fr-FR": "Entretien 15. Conférence du 14 juin 1643 — Explication du Règlement"
+            "fr-FR": "Entretien 15. Conférence du 14 juin 1643 — Explication du Règlement",
+            "pt-BR": "Colóquio 15. Conferência de 14 de junho de 1643 — Explicação do Regulamento"
           }
         },
         {
           "id": "entretien-016",
           "title": {
-            "fr-FR": "Entretien 16. Conférence du 7 décembre 1643 — Sur l’Œuvre des Enfants Trouves"
+            "fr-FR": "Entretien 16. Conférence du 7 décembre 1643 — Sur l’Œuvre des Enfants Trouves",
+            "pt-BR": "Colóquio 16. Conferência de 7 de dezembro de 1643 — Sobre a obra das crianças expostas"
           }
         },
         {
           "id": "entretien-017",
           "title": {
-            "fr-FR": "Entretien 17. Conférence du 1er janvier 1644 — Sur le Respect Cordial"
+            "fr-FR": "Entretien 17. Conférence du 1er janvier 1644 — Sur le Respect Cordial",
+            "pt-BR": "Colóquio 17. Conferência de 1º de janeiro de 1644 — Sobre o respeito cordial"
           }
         },
         {
           "id": "entretien-018",
           "title": {
-            "fr-FR": "Entretien 18. Conférence du 11 décembre 1644 — Sur l’Affection Déréglée de Soi-Même"
+            "fr-FR": "Entretien 18. Conférence du 11 décembre 1644 — Sur l’Affection Déréglée de Soi-Même",
+            "pt-BR": "Colóquio 18. Conferência de 11 de dezembro de 1644 — Sobre o amor desordenado de si mesma"
           }
         },
         {
           "id": "entretien-019",
           "title": {
-            "fr-FR": "Entretien 19. Conférence du (15 janvier 1645) — Sur les Vertus de la Sœur Jeanne Dalmagne"
+            "fr-FR": "Entretien 19. Conférence du (15 janvier 1645) — Sur les Vertus de la Sœur Jeanne Dalmagne",
+            "pt-BR": "Colóquio 19. Conferência de (15 de janeiro de 1645) — Sobre as virtudes da irmã Joana Dalmagne"
           }
         },
         {
           "id": "entretien-020",
           "title": {
-            "fr-FR": "Entretien 20. Conférence du 22 janvier 1645 — Sur l’Observance du Règlement"
+            "fr-FR": "Entretien 20. Conférence du 22 janvier 1645 — Sur l’Observance du Règlement",
+            "pt-BR": "Colóquio 20. Conferência de 22 de janeiro de 1645 — Sobre a observância do Regulamento"
           }
         },
         {
           "id": "entretien-021",
           "title": {
-            "fr-FR": "Entretien 21. Continuation de la Conférence du 22 janvier 1645 — Sur la Pratique du Règlement"
+            "fr-FR": "Entretien 21. Continuation de la Conférence du 22 janvier 1645 — Sur la Pratique du Règlement",
+            "pt-BR": "Colóquio 21. Continuação da conferência de 22 de janeiro de 1645 — Sobre a prática do Regulamento"
           }
         },
         {
           "id": "entretien-022",
           "title": {
-            "fr-FR": "Entretien 22. Conférence Donnée entre 1634 et 1646 — Sur la Réconciliation"
+            "fr-FR": "Entretien 22. Conférence Donnée entre 1634 et 1646 — Sur la Réconciliation",
+            "pt-BR": "Colóquio 22. Conferência dada entre 1634 e 1646 — Sobre a reconciliação"
           }
         },
         {
           "id": "entretien-023",
           "title": {
-            "fr-FR": "Entretien 23. Conférence du 22 janvier 1646 — Sur la Sainte Communion"
+            "fr-FR": "Entretien 23. Conférence du 22 janvier 1646 — Sur la Sainte Communion",
+            "pt-BR": "Colóquio 23. Conferência de 22 de janeiro de 1646 — Sobre a santa comunhão"
           }
         },
         {
           "id": "entretien-024",
           "title": {
-            "fr-FR": "Entretien 24. Conférence Dit 13 février 1646 — Amour de la Vocation et Assistance des Pauvres"
+            "fr-FR": "Entretien 24. Conférence Dit 13 février 1646 — Amour de la Vocation et Assistance des Pauvres",
+            "pt-BR": "Colóquio 24. Conferência de 13 de fevereiro de 1646 — Amor à vocação e assistência aos pobres"
           }
         },
         {
           "id": "entretien-025",
           "title": {
-            "fr-FR": "Entretien 25. Conférence du 1er mai 1646 — Sur l’Indifférence"
+            "fr-FR": "Entretien 25. Conférence du 1er mai 1646 — Sur l’Indifférence",
+            "pt-BR": "Colóquio 25. Conferência de 1º de maio de 1646 — Sobre a indiferença"
           }
         },
         {
           "id": "entretien-026",
           "title": {
-            "fr-FR": "Entretien 26. Entretien de Juillet (1646) — Avis pour la Visite des Établissements de Paris"
+            "fr-FR": "Entretien 26. Entretien de Juillet (1646) — Avis pour la Visite des Établissements de Paris",
+            "pt-BR": "Colóquio 26. Colóquio de julho (1646) — Conselhos para a visita aos estabelecimentos de Paris"
           }
         },
         {
           "id": "entretien-027",
           "title": {
-            "fr-FR": "Entretien 27. Conférence du 19 août 1646 — Sur la Pratique du Respect Mutuel et de la Douceur"
+            "fr-FR": "Entretien 27. Conférence du 19 août 1646 — Sur la Pratique du Respect Mutuel et de la Douceur",
+            "pt-BR": "Colóquio 27. Conferência de 19 de agosto de 1646 — Sobre a prática do respeito mútuo e da mansidão"
           }
         },
         {
           "id": "entretien-028",
           "title": {
-            "fr-FR": "Entretien 28. — Conférence du 22 octobre 1646 — Cacher et Excuser les Fautes des Sœurs"
+            "fr-FR": "Entretien 28. — Conférence du 22 octobre 1646 — Cacher et Excuser les Fautes des Sœurs",
+            "pt-BR": "Colóquio 28. — Conferência de 22 de outubro de 1646 — Ocultar e desculpar as faltas das irmãs"
           }
         },
         {
           "id": "entretien-029",
           "title": {
-            "fr-FR": "Entretien 29. Conférence du 2 février (1647) — Rapports des Sœurs avec le Dedans et le Dehors"
+            "fr-FR": "Entretien 29. Conférence du 2 février (1647) — Rapports des Sœurs avec le Dedans et le Dehors",
+            "pt-BR": "Colóquio 29. Conferência de 2 de fevereiro (1647) — Relações das irmãs dentro e fora da comunidade"
           }
         },
         {
           "id": "entretien-030",
           "title": {
-            "fr-FR": "Entretien 30. Conférence du 30 mai 1647 — Sur les Règles"
+            "fr-FR": "Entretien 30. Conférence du 30 mai 1647 — Sur les Règles",
+            "pt-BR": "Colóquio 30. Conferência de 30 de maio de 1647 — Sobre as Regras"
           }
         },
         {
           "id": "entretien-031",
           "title": {
-            "fr-FR": "Entretien 31. Conférence du 18 août 1647 — Sur la Sainte Communion"
+            "fr-FR": "Entretien 31. Conférence du 18 août 1647 — Sur la Sainte Communion",
+            "pt-BR": "Colóquio 31. Conferência de 18 de agosto de 1647 — Sobre a santa comunhão"
           }
         },
         {
           "id": "entretien-032",
           "title": {
-            "fr-FR": "Entretien 32. Conférence du 22 septembre 1647 — Sur la Persévérance dans sa Vocation"
+            "fr-FR": "Entretien 32. Conférence du 22 septembre 1647 — Sur la Persévérance dans sa Vocation",
+            "pt-BR": "Colóquio 32. Conferência de 22 de setembro de 1647 — Sobre a perseverança na própria vocação"
           }
         },
         {
           "id": "entretien-033",
           "title": {
-            "fr-FR": "Entretien 33. Conférence du 11 juillet (1) (1646-1649) — Sur la Pureté d’Intention"
+            "fr-FR": "Entretien 33. Conférence du 11 juillet (1) (1646-1649) — Sur la Pureté d’Intention",
+            "pt-BR": "Colóquio 33. Conferência de 11 de julho (1) (1646-1649) — Sobre a pureza de intenção"
           }
         },
         {
           "id": "entretien-034",
           "title": {
-            "fr-FR": "Entretien 34. Conférence du 22 janvier 1648 — Sur le Bon Usage des Avertissements"
+            "fr-FR": "Entretien 34. Conférence du 22 janvier 1648 — Sur le Bon Usage des Avertissements",
+            "pt-BR": "Colóquio 34. Conferência de 22 de janeiro de 1648 — Sobre o bom uso das advertências"
           }
         },
         {
           "id": "entretien-035",
           "title": {
-            "fr-FR": "Entretien 35. Conférence du 15 mars 1648 — Sur le Bon Usage des Avertissements"
+            "fr-FR": "Entretien 35. Conférence du 15 mars 1648 — Sur le Bon Usage des Avertissements",
+            "pt-BR": "Colóquio 35. Conferência de 15 de março de 1648 — Sobre o bom uso das advertências"
           }
         },
         {
           "id": "entretien-036",
           "title": {
-            "fr-FR": "Entretien 36. Conférence du 1er mai 1648 — Sur le Bon Usage des Instructions"
+            "fr-FR": "Entretien 36. Conférence du 1er mai 1648 — Sur le Bon Usage des Instructions",
+            "pt-BR": "Colóquio 36. Conferência de 1º de maio de 1648 — Sobre o bom uso das instruções"
           }
         },
         {
           "id": "entretien-037",
           "title": {
-            "fr-FR": "Entretien 37. Conférence du 31 mai 1648 — Sur l’Oraison"
+            "fr-FR": "Entretien 37. Conférence du 31 mai 1648 — Sur l’Oraison",
+            "pt-BR": "Colóquio 37. Conferência de 31 de maio de 1648 — Sobre a oração"
           }
         },
         {
           "id": "entretien-038",
           "title": {
-            "fr-FR": "Entretien 38. Conférence du 28 juillet 1648 — Sur l’Esprit du Monde"
+            "fr-FR": "Entretien 38. Conférence du 28 juillet 1648 — Sur l’Esprit du Monde",
+            "pt-BR": "Colóquio 38. Conferência de 28 de julho de 1648 — Sobre o espírito do mundo"
           }
         },
         {
           "id": "entretien-039",
           "title": {
-            "fr-FR": "Entretien 39. Conférence du 25 août 1648 — Sur l’Esprit du Monde"
+            "fr-FR": "Entretien 39. Conférence du 25 août 1648 — Sur l’Esprit du Monde",
+            "pt-BR": "Colóquio 39. Conferência de 25 de agosto de 1648 — Sobre o espírito do mundo"
           }
         },
         {
           "id": "entretien-040",
           "title": {
-            "fr-FR": "Entretien 40. Conférence du 25 décembre 1648 — Sur l’Amour de la Vocation"
+            "fr-FR": "Entretien 40. Conférence du 25 décembre 1648 — Sur l’Amour de la Vocation",
+            "pt-BR": "Colóquio 40. Conferência de 25 de dezembro de 1648 — Sobre o amor à vocação"
           }
         },
         {
           "id": "entretien-041",
           "title": {
-            "fr-FR": "Entretien 41. Conférence du 19 septembre 1649 — Sur l’Amour de Dieu"
+            "fr-FR": "Entretien 41. Conférence du 19 septembre 1649 — Sur l’Amour de Dieu",
+            "pt-BR": "Colóquio 41. Conferência de 19 de setembro de 1649 — Sobre o amor de Deus"
           }
         },
         {
           "id": "entretien-042",
           "title": {
-            "fr-FR": "Entretien 42. Conférence du 28 novembre 1649 — Sur l’Amour du Travail"
+            "fr-FR": "Entretien 42. Conférence du 28 novembre 1649 — Sur l’Amour du Travail",
+            "pt-BR": "Colóquio 42. Conferência de 28 de novembro de 1649 — Sobre o amor ao trabalho"
           }
         },
         {
           "id": "entretien-043",
           "title": {
-            "fr-FR": "Entretien 43. Conférence du 19 avril 1650 — Sur la Conduite à Tenir dans les Difficultés Loin de la Maison-Mère"
+            "fr-FR": "Entretien 43. Conférence du 19 avril 1650 — Sur la Conduite à Tenir dans les Difficultés Loin de la Maison-Mère",
+            "pt-BR": "Colóquio 43. Conferência de 19 de abril de 1650 — Sobre a conduta a seguir nas dificuldades longe da Casa-Mãe"
           }
         },
         {
           "id": "entretien-044",
           "title": {
-            "fr-FR": "Entretien 44. Conférence du 7 août 1650 — Sur l’Obéissance"
+            "fr-FR": "Entretien 44. Conférence du 7 août 1650 — Sur l’Obéissance",
+            "pt-BR": "Colóquio 44. Conferência de 7 de agosto de 1650 — Sobre a obediência"
           }
         },
         {
           "id": "entretien-045",
           "title": {
-            "fr-FR": "Entretien 45. Entretien du 22 octobre 1650 — A des Sœurs Envoyées en Province"
+            "fr-FR": "Entretien 45. Entretien du 22 octobre 1650 — A des Sœurs Envoyées en Province",
+            "pt-BR": "Colóquio 45. Colóquio de 22 de outubro de 1650 — A irmãs enviadas às províncias"
           }
         },
         {
           "id": "entretien-046",
           "title": {
-            "fr-FR": "Entretien 46. Conférence du 9 décembre — Vertus des Sœurs Anne de Gennes, Marie Lullen Marguerite Bossu et Cécile Delaitre"
+            "fr-FR": "Entretien 46. Conférence du 9 décembre — Vertus des Sœurs Anne de Gennes, Marie Lullen Marguerite Bossu et Cécile Delaitre",
+            "pt-BR": "Colóquio 46. Conferência de 9 de dezembro — Virtudes das irmãs Ana de Gennes, Maria Lullen, Margarida Bossu e Cecília Delaitre"
           }
         },
         {
           "id": "entretien-047",
           "title": {
-            "fr-FR": "Entretien 47. Conférence du 5 mars 1651 — Sur la Confession"
+            "fr-FR": "Entretien 47. Conférence du 5 mars 1651 — Sur la Confession",
+            "pt-BR": "Colóquio 47. Conferência de 5 de março de 1651 — Sobre a confissão"
           }
         },
         {
           "id": "entretien-048",
           "title": {
-            "fr-FR": "Entretien 48. Conférence du 14 juillet * (1650) — Sur l’Indifférence"
+            "fr-FR": "Entretien 48. Conférence du 14 juillet * (1650) — Sur l’Indifférence",
+            "pt-BR": "Colóquio 48. Conferência de 14 de julho * (1650) — Sobre a indiferença"
           }
         },
         {
           "id": "entretien-049",
           "title": {
-            "fr-FR": "Entretien 49. Conférence du 25 avril 1652 — Sur le Bon Usage des Avertissements"
+            "fr-FR": "Entretien 49. Conférence du 25 avril 1652 — Sur le Bon Usage des Avertissements",
+            "pt-BR": "Colóquio 49. Conferência de 25 de abril de 1652 — Sobre o bom uso das advertências"
           }
         },
         {
           "id": "entretien-050",
           "title": {
-            "fr-FR": "Entretien 50. Conférence du 2 février 1653 — Sur l’Esprit de la Compagnie"
+            "fr-FR": "Entretien 50. Conférence du 2 février 1653 — Sur l’Esprit de la Compagnie",
+            "pt-BR": "Colóquio 50. Conferência de 2 de fevereiro de 1653 — Sobre o espírito da Companhia"
           }
         },
         {
           "id": "entretien-051",
           "title": {
-            "fr-FR": "Entretien 51. Conférence du 9 février 1653 — Sur l’Esprit de la Compagnie"
+            "fr-FR": "Entretien 51. Conférence du 9 février 1653 — Sur l’Esprit de la Compagnie",
+            "pt-BR": "Colóquio 51. Conferência de 9 de fevereiro de 1653 — Sobre o espírito da Companhia"
           }
         },
         {
           "id": "entretien-052",
           "title": {
-            "fr-FR": "Entretien 52. Conférence du 24 février 1653 — Sur l’Esprit de la Compagnie"
+            "fr-FR": "Entretien 52. Conférence du 24 février 1653 — Sur l’Esprit de la Compagnie",
+            "pt-BR": "Colóquio 52. Conferência de 24 de fevereiro de 1653 — Sobre o espírito da Companhia"
           }
         },
         {
           "id": "entretien-053",
           "title": {
-            "fr-FR": "Entretien 53. Conférence du 17 avril 1653 — Sur le Jubile"
+            "fr-FR": "Entretien 53. Conférence du 17 avril 1653 — Sur le Jubile",
+            "pt-BR": "Colóquio 53. Conferência de 17 de abril de 1653 — Sobre o jubileu"
           }
         },
         {
           "id": "entretien-054",
           "title": {
-            "fr-FR": "Entretien 54. Conférence du 3 juin 1653 — Sur la Fidélité à Dieu"
+            "fr-FR": "Entretien 54. Conférence du 3 juin 1653 — Sur la Fidélité à Dieu",
+            "pt-BR": "Colóquio 54. Conferência de 3 de junho de 1653 — Sobre a fidelidade a Deus"
           }
         },
         {
           "id": "entretien-055",
           "title": {
-            "fr-FR": "Entretien 55. Conférence du 27 juillet 1653 — Sur la Pratique de Demander Permission"
+            "fr-FR": "Entretien 55. Conférence du 27 juillet 1653 — Sur la Pratique de Demander Permission",
+            "pt-BR": "Colóquio 55. Conferência de 27 de julho de 1653 — Sobre a prática de pedir permissão"
           }
         },
         {
           "id": "entretien-056",
           "title": {
-            "fr-FR": "Entretien 56. Entretien du 12 novembre 1653 — A des Sœurs Envoyées à Nantes"
+            "fr-FR": "Entretien 56. Entretien du 12 novembre 1653 — A des Sœurs Envoyées à Nantes",
+            "pt-BR": "Colóquio 56. Colóquio de 12 de novembro de 1653 — A irmãs enviadas a Nantes"
           }
         },
         {
           "id": "entretien-057",
           "title": {
-            "fr-FR": "Entretien 57. Conférence du 1er janvier 1654 — Sur la Conduite à Tenir Hors la Maison"
+            "fr-FR": "Entretien 57. Conférence du 1er janvier 1654 — Sur la Conduite à Tenir Hors la Maison",
+            "pt-BR": "Colóquio 57. Conferência de 1º de janeiro de 1654 — Sobre a conduta a seguir fora de casa"
           }
         },
         {
           "id": "entretien-058",
           "title": {
-            "fr-FR": "Entretien 58. Conférence du 15 mars 1654 — Sur l’Orgueil Cache"
+            "fr-FR": "Entretien 58. Conférence du 15 mars 1654 — Sur l’Orgueil Cache",
+            "pt-BR": "Colóquio 58. Conferência de 15 de março de 1654 — Sobre o orgulho oculto"
           }
         },
         {
           "id": "entretien-059",
           "title": {
-            "fr-FR": "Entretien 59. Conférence du 25 mai 1654 — Sur la Conservation de la Compagnie"
+            "fr-FR": "Entretien 59. Conférence du 25 mai 1654 — Sur la Conservation de la Compagnie",
+            "pt-BR": "Colóquio 59. Conferência de 25 de maio de 1654 — Sobre a conservação da Companhia"
           }
         },
         {
           "id": "entretien-060",
           "title": {
-            "fr-FR": "Entretien 60. Conférence du 24 juin 1654 — Sur l’Envie"
+            "fr-FR": "Entretien 60. Conférence du 24 juin 1654 — Sur l’Envie",
+            "pt-BR": "Colóquio 60. Conferência de 24 de junho de 1654 — Sobre a inveja"
           }
         }
       ]
@@ -409,361 +476,421 @@
     {
       "id": "groupe-02",
       "title": {
-        "fr-FR": "Tome X"
+        "fr-FR": "Tome X",
+        "pt-BR": "Tomo X"
       },
       "children": [
         {
           "id": "entretien-061",
           "title": {
-            "fr-FR": "Entretien 61. Entretien du 23 juillet 1654 — À Quatre Sœurs Envoyées à Sedan"
+            "fr-FR": "Entretien 61. Entretien du 23 juillet 1654 — À Quatre Sœurs Envoyées à Sedan",
+            "pt-BR": "Colóquio 61. Colóquio de 23 de julho de 1654 — A quatro irmãs enviadas a Sedan"
           }
         },
         {
           "id": "entretien-062",
           "title": {
-            "fr-FR": "Entretien 62. Conférence du 24 août 1654 — Sur les Tentations"
+            "fr-FR": "Entretien 62. Conférence du 24 août 1654 — Sur les Tentations",
+            "pt-BR": "Colóquio 62. Conferência de 24 de agosto de 1654 — Sobre as tentações"
           }
         },
         {
           "id": "entretien-063",
           "title": {
-            "fr-FR": "Entretien 63. Conférence du 9 octobre 1654 — Sur le Scandale"
+            "fr-FR": "Entretien 63. Conférence du 9 octobre 1654 — Sur le Scandale",
+            "pt-BR": "Colóquio 63. Conferência de 9 de outubro de 1654 — Sobre o escândalo"
           }
         },
         {
           "id": "entretien-064",
           "title": {
-            "fr-FR": "Entretien 64. Conférence du 15 novembre 1654 — Sur le Scandale"
+            "fr-FR": "Entretien 64. Conférence du 15 novembre 1654 — Sur le Scandale",
+            "pt-BR": "Colóquio 64. Conferência de 15 de novembro de 1654 — Sobre o escândalo"
           }
         },
         {
           "id": "entretien-065",
           "title": {
-            "fr-FR": "Entretien 65. Conférence du 3 janvier 1655 — Sur la Mortification des Sens et des Passions"
+            "fr-FR": "Entretien 65. Conférence du 3 janvier 1655 — Sur la Mortification des Sens et des Passions",
+            "pt-BR": "Colóquio 65. Conferência de 3 de janeiro de 1655 — Sobre a mortificação dos sentidos e das paixões"
           }
         },
         {
           "id": "entretien-066",
           "title": {
-            "fr-FR": "Entretien 66. Conférence du 2 février 1655 — Sur l’Esprit Caché"
+            "fr-FR": "Entretien 66. Conférence du 2 février 1655 — Sur l’Esprit Caché",
+            "pt-BR": "Colóquio 66. Conferência de 2 de fevereiro de 1655 — Sobre o espírito oculto"
           }
         },
         {
           "id": "entretien-067",
           "title": {
-            "fr-FR": "Entretien 67. Conférence du 23 mai 1655 — Sur l’Obéissance"
+            "fr-FR": "Entretien 67. Conférence du 23 mai 1655 — Sur l’Obéissance",
+            "pt-BR": "Colóquio 67. Conferência de 23 de maio de 1655 — Sobre a obediência"
           }
         },
         {
           "id": "entretien-068",
           "title": {
-            "fr-FR": "Entretien 68. Conférence du 1er août 1655 — Sur l’Observance des Règles"
+            "fr-FR": "Entretien 68. Conférence du 1er août 1655 — Sur l’Observance des Règles",
+            "pt-BR": "Colóquio 68. Conferência de 1º de agosto de 1655 — Sobre a observância das Regras"
           }
         },
         {
           "id": "entretien-069",
           "title": {
-            "fr-FR": "Entretien 69. Conférence du 8 août 1655 — Sur la Fidélité aux Règles"
+            "fr-FR": "Entretien 69. Conférence du 8 août 1655 — Sur la Fidélité aux Règles",
+            "pt-BR": "Colóquio 69. Conferência de 8 de agosto de 1655 — Sobre a fidelidade às Regras"
           }
         },
         {
           "id": "entretien-070",
           "title": {
-            "fr-FR": "Entretien 70. Conférence du 29 septembre 1655 — Explication des Règles Communes"
+            "fr-FR": "Entretien 70. Conférence du 29 septembre 1655 — Explication des Règles Communes",
+            "pt-BR": "Colóquio 70. Conferência de 29 de setembro de 1655 — Explicação das Regras Comuns"
           }
         },
         {
           "id": "entretien-071",
           "title": {
-            "fr-FR": "Entretien 71. Conférence du 18 octobre 1655 — Sur la Fin de la Compagnie"
+            "fr-FR": "Entretien 71. Conférence du 18 octobre 1655 — Sur la Fin de la Compagnie",
+            "pt-BR": "Colóquio 71. Conferência de 18 de outubro de 1655 — Sobre a finalidade da Companhia"
           }
         },
         {
           "id": "entretien-072",
           "title": {
-            "fr-FR": "Entretien 72. Conférence du 2 novembre 1655 — Sur les Maximes de Jesus-Christ et Celles du Monde"
+            "fr-FR": "Entretien 72. Conférence du 2 novembre 1655 — Sur les Maximes de Jesus-Christ et Celles du Monde",
+            "pt-BR": "Colóquio 72. Conferência de 2 de novembro de 1655 — Sobre as máximas de Jesus Cristo e as do mundo"
           }
         },
         {
           "id": "entretien-074",
           "title": {
-            "fr-FR": "Entretien 74. Conférence du 23 juillet 1656 — Sur l’Amour des Souffrances Physiques et Morales"
+            "fr-FR": "Entretien 74. Conférence du 23 juillet 1656 — Sur l’Amour des Souffrances Physiques et Morales",
+            "pt-BR": "Colóquio 74. Conferência de 23 de julho de 1656 — Sobre o amor aos sofrimentos físicos e morais"
           }
         },
         {
           "id": "entretien-075",
           "title": {
-            "fr-FR": "Entretien 75. Instruction du 29 juillet 1656 — À Deux Sœurs Envoyées à la Fère"
+            "fr-FR": "Entretien 75. Instruction du 29 juillet 1656 — À Deux Sœurs Envoyées à la Fère",
+            "pt-BR": "Colóquio 75. Instrução de 29 de julho de 1656 — A duas irmãs enviadas a La Fère"
           }
         },
         {
           "id": "entretien-076",
           "title": {
-            "fr-FR": "Entretien 76. Conférence du 20 août 1656 — Sur la Pauvreté"
+            "fr-FR": "Entretien 76. Conférence du 20 août 1656 — Sur la Pauvreté",
+            "pt-BR": "Colóquio 76. Conferência de 20 de agosto de 1656 — Sobre a pobreza"
           }
         },
         {
           "id": "entretien-077",
           "title": {
-            "fr-FR": "Entretien 77. Instruction du 30 août 1656 — À Deux Sœurs Envoyées à Arras"
+            "fr-FR": "Entretien 77. Instruction du 30 août 1656 — À Deux Sœurs Envoyées à Arras",
+            "pt-BR": "Colóquio 77. Instrução de 30 de agosto de 1656 — A duas irmãs enviadas a Arras"
           }
         },
         {
           "id": "entretien-078",
           "title": {
-            "fr-FR": "Entretien 78. Conférence du 14 décembre 1656 — Sur le Jubilé"
+            "fr-FR": "Entretien 78. Conférence du 14 décembre 1656 — Sur le Jubilé",
+            "pt-BR": "Colóquio 78. Conferência de 14 de dezembro de 1656 — Sobre o jubileu"
           }
         },
         {
           "id": "entretien-079",
           "title": {
-            "fr-FR": "Entretien 79. Conférence du 6 janvier 1657 — Sur l’Obligation de Travailler a sa Perfection"
+            "fr-FR": "Entretien 79. Conférence du 6 janvier 1657 — Sur l’Obligation de Travailler a sa Perfection",
+            "pt-BR": "Colóquio 79. Conferência de 6 de janeiro de 1657 — Sobre a obrigação de trabalhar pela própria perfeição"
           }
         },
         {
           "id": "entretien-080",
           "title": {
-            "fr-FR": "Entretien 80. — Conférence du 22 mai 1657 — Élection des Officières"
+            "fr-FR": "Entretien 80. — Conférence du 22 mai 1657 — Élection des Officières",
+            "pt-BR": "Colóquio 80. — Conferência de 22 de maio de 1657 — Eleição das irmãs encarregadas dos ofícios"
           }
         },
         {
           "id": "entretien-081",
           "title": {
-            "fr-FR": "Entretien 81. Conférence du 17 juin 1657 — Sur la Pratique de ne Rien Demander et de ne Rien Refuser"
+            "fr-FR": "Entretien 81. Conférence du 17 juin 1657 — Sur la Pratique de ne Rien Demander et de ne Rien Refuser",
+            "pt-BR": "Colóquio 81. Conferência de 17 de junho de 1657 — Sobre a prática de nada pedir e nada recusar"
           }
         },
         {
           "id": "entretien-082",
           "title": {
-            "fr-FR": "Entretien 82. Conférence du 5 août 1657 — Usage des Biens Mis à la Disposition des Sœurs"
+            "fr-FR": "Entretien 82. Conférence du 5 août 1657 — Usage des Biens Mis à la Disposition des Sœurs",
+            "pt-BR": "Colóquio 82. Conferência de 5 de agosto de 1657 — Uso dos bens postos à disposição das irmãs"
           }
         },
         {
           "id": "entretien-083",
           "title": {
-            "fr-FR": "Entretien 83. Conférence du 26 août 1657 — Ménager le Bien des Pauvres et de la Communauté"
+            "fr-FR": "Entretien 83. Conférence du 26 août 1657 — Ménager le Bien des Pauvres et de la Communauté",
+            "pt-BR": "Colóquio 83. Conferência de 26 de agosto de 1657 — Zelar pelos bens dos pobres e da comunidade"
           }
         },
         {
           "id": "entretien-084",
           "title": {
-            "fr-FR": "Entretien 84. Conférence du 8 septembre 1657 — N’Inviter Aucun Externe à Manger sans Permission"
+            "fr-FR": "Entretien 84. Conférence du 8 septembre 1657 — N’Inviter Aucun Externe à Manger sans Permission",
+            "pt-BR": "Colóquio 84. Conferência de 8 de setembro de 1657 — Não convidar ninguém de fora para comer sem permissão"
           }
         },
         {
           "id": "entretien-085",
           "title": {
-            "fr-FR": "Entretien 85. Conférence du 11 novembre 1657 — Sur le Service des Malades et le Soin de sa Propre Santé"
+            "fr-FR": "Entretien 85. Conférence du 11 novembre 1657 — Sur le Service des Malades et le Soin de sa Propre Santé",
+            "pt-BR": "Colóquio 85. Conferência de 11 de novembro de 1657 — Sobre o serviço dos doentes e o cuidado da própria saúde"
           }
         },
         {
           "id": "entretien-086",
           "title": {
-            "fr-FR": "Entretien 86. Conférence du 15 novembre 1657 — Sur l’Uniformité"
+            "fr-FR": "Entretien 86. Conférence du 15 novembre 1657 — Sur l’Uniformité",
+            "pt-BR": "Colóquio 86. Conferência de 15 de novembro de 1657 — Sobre a uniformidade"
           }
         },
         {
           "id": "entretien-087",
           "title": {
-            "fr-FR": "Entretien 87. Conférence du 18 novembre 1657 — Sur l’Uniformité, la Chasteté et la Modestie"
+            "fr-FR": "Entretien 87. Conférence du 18 novembre 1657 — Sur l’Uniformité, la Chasteté et la Modestie",
+            "pt-BR": "Colóquio 87. Conferência de 18 de novembro de 1657 — Sobre a uniformidade, a castidade e a modéstia"
           }
         },
         {
           "id": "entretien-088",
           "title": {
-            "fr-FR": "Entretien 88. Conférence du 2 décembre 1657 — Sur l’Obéissance"
+            "fr-FR": "Entretien 88. Conférence du 2 décembre 1657 — Sur l’Obéissance",
+            "pt-BR": "Colóquio 88. Conferência de 2 de dezembro de 1657 — Sobre a obediência"
           }
         },
         {
           "id": "entretien-089",
           "title": {
-            "fr-FR": "Entretien 89. Conférence du 9 décembre 1657 — Mortification, Correspondance, Repas, Sorties"
+            "fr-FR": "Entretien 89. Conférence du 9 décembre 1657 — Mortification, Correspondance, Repas, Sorties",
+            "pt-BR": "Colóquio 89. Conferência de 9 de dezembro de 1657 — Mortificação, correspondência, refeições, saídas"
           }
         },
         {
           "id": "entretien-090",
           "title": {
-            "fr-FR": "Entretien 90. Conférence du 23 décembre 1657 — Sur les Visites et le Devoir d’Avertir les Supérieurs"
+            "fr-FR": "Entretien 90. Conférence du 23 décembre 1657 — Sur les Visites et le Devoir d’Avertir les Supérieurs",
+            "pt-BR": "Colóquio 90. Conferência de 23 de dezembro de 1657 — Sobre as visitas e o dever de avisar os superiores"
           }
         },
         {
           "id": "entretien-091",
           "title": {
-            "fr-FR": "Entretien 91. Conférence du 30 décembre 1657 — Rapports avec les Externes, Murmures, Médisances"
+            "fr-FR": "Entretien 91. Conférence du 30 décembre 1657 — Rapports avec les Externes, Murmures, Médisances",
+            "pt-BR": "Colóquio 91. Conferência de 30 de dezembro de 1657 — Relações com as pessoas de fora, murmurações, maledicências"
           }
         },
         {
           "id": "entretien-092",
           "title": {
-            "fr-FR": "Entretien 92. Conférence du 6 janvier 1658 — A qui Dire ses Tentations, Conversations avec les Externes, Devoir du Secret"
+            "fr-FR": "Entretien 92. Conférence du 6 janvier 1658 — A qui Dire ses Tentations, Conversations avec les Externes, Devoir du Secret",
+            "pt-BR": "Colóquio 92. Conferência de 6 de janeiro de 1658 — A quem revelar as tentações, conversas com as pessoas de fora, dever do segredo"
           }
         },
         {
           "id": "entretien-093",
           "title": {
-            "fr-FR": "Entretien 93. Conférence du 4 mars 1658"
+            "fr-FR": "Entretien 93. Conférence du 4 mars 1658",
+            "pt-BR": "Colóquio 93. Conferência de 4 de março de 1658"
           }
         },
         {
           "id": "entretien-094",
           "title": {
-            "fr-FR": "Entretien 94. Instruction Donnée en Mai 1658 — À Deux Sœurs Envoyées à Ussel"
+            "fr-FR": "Entretien 94. Instruction Donnée en Mai 1658 — À Deux Sœurs Envoyées à Ussel",
+            "pt-BR": "Colóquio 94. Instrução dada em maio de 1658 — A duas irmãs enviadas a Ussel"
           }
         },
         {
           "id": "entretien-095",
           "title": {
-            "fr-FR": "Entretien 95. Conférence du 30 mai 1658 — Sur la Condescendance et le Support"
+            "fr-FR": "Entretien 95. Conférence du 30 mai 1658 — Sur la Condescendance et le Support",
+            "pt-BR": "Colóquio 95. Conferência de 30 de maio de 1658 — Sobre a condescendência e a tolerância"
           }
         },
         {
           "id": "entretien-096",
           "title": {
-            "fr-FR": "Entretien 96. Conférence du 2 juin 1658 — Cordialité, Respect, Amitiés Particulières"
+            "fr-FR": "Entretien 96. Conférence du 2 juin 1658 — Cordialité, Respect, Amitiés Particulières",
+            "pt-BR": "Colóquio 96. Conferência de 2 de junho de 1658 — Cordialidade, respeito, amizades particulares"
           }
         },
         {
           "id": "entretien-097",
           "title": {
-            "fr-FR": "Entretien 97. Conférence du 9 juin 1658 — Sur la Confiance en la Providence"
+            "fr-FR": "Entretien 97. Conférence du 9 juin 1658 — Sur la Confiance en la Providence",
+            "pt-BR": "Colóquio 97. Conferência de 9 de junho de 1658 — Sobre a confiança na Providência"
           }
         },
         {
           "id": "entretien-098",
           "title": {
-            "fr-FR": "Entretien 98. Conférence du 14 juillet 1658 — Sur l’Humilité, la Charité, l’Obéissance et la Patience"
+            "fr-FR": "Entretien 98. Conférence du 14 juillet 1658 — Sur l’Humilité, la Charité, l’Obéissance et la Patience",
+            "pt-BR": "Colóquio 98. Conferência de 14 de julho de 1658 — Sobre a humildade, a caridade, a obediência e a paciência"
           }
         },
         {
           "id": "entretien-099",
           "title": {
-            "fr-FR": "Entretien 99. Conférence du 21 juillet 1658 — Sur la Fidélité aux Règles"
+            "fr-FR": "Entretien 99. Conférence du 21 juillet 1658 — Sur la Fidélité aux Règles",
+            "pt-BR": "Colóquio 99. Conferência de 21 de julho de 1658 — Sobre a fidelidade às Regras"
           }
         },
         {
           "id": "entretien-100",
           "title": {
-            "fr-FR": "Entretien 100. Entretien du 4 août 1658 — À Quatre Sœurs Envoyées à Calais"
+            "fr-FR": "Entretien 100. Entretien du 4 août 1658 — À Quatre Sœurs Envoyées à Calais",
+            "pt-BR": "Colóquio 100. Colóquio de 4 de agosto de 1658 — A quatro irmãs enviadas a Calais"
           }
         },
         {
           "id": "entretien-101",
           "title": {
-            "fr-FR": "Entretien 101. Instruction du 26 août 1658 — À Quatre Sœurs Envoyées à Metz"
+            "fr-FR": "Entretien 101. Instruction du 26 août 1658 — À Quatre Sœurs Envoyées à Metz",
+            "pt-BR": "Colóquio 101. Instrução de 26 de agosto de 1658 — A quatro irmãs enviadas a Metz"
           }
         },
         {
           "id": "entretien-102",
           "title": {
-            "fr-FR": "Entretien 102. Conférence du 6 octobre 1658 — Sur le Lever, l’Oraison et l’Angelus"
+            "fr-FR": "Entretien 102. Conférence du 6 octobre 1658 — Sur le Lever, l’Oraison et l’Angelus",
+            "pt-BR": "Colóquio 102. Conferência de 6 de outubro de 1658 — Sobre o levantar, a oração e o Ângelus"
           }
         },
         {
           "id": "entretien-103",
           "title": {
-            "fr-FR": "Entretien 103. Conférence du 13 octobre 1658 — Sur l’Oraison"
+            "fr-FR": "Entretien 103. Conférence du 13 octobre 1658 — Sur l’Oraison",
+            "pt-BR": "Colóquio 103. Conferência de 13 de outubro de 1658 — Sobre a oração"
           }
         },
         {
           "id": "entretien-104",
           "title": {
-            "fr-FR": "Entretien 104. Instruction du 4 novembre 1658 — À Deux Sœurs Envoyées à Cahors"
+            "fr-FR": "Entretien 104. Instruction du 4 novembre 1658 — À Deux Sœurs Envoyées à Cahors",
+            "pt-BR": "Colóquio 104. Instrução de 4 de novembro de 1658 — A duas irmãs enviadas a Cahors"
           }
         },
         {
           "id": "entretien-105",
           "title": {
-            "fr-FR": "Entretien 105. Conférence du 17 novembre 1658 — Lever, Oraison, Examens et Autres Exercices"
+            "fr-FR": "Entretien 105. Conférence du 17 novembre 1658 — Lever, Oraison, Examens et Autres Exercices",
+            "pt-BR": "Colóquio 105. Conferência de 17 de novembro de 1658 — Levantar, oração, exames e outros exercícios"
           }
         },
         {
           "id": "entretien-106",
           "title": {
-            "fr-FR": "Entretien 106. Conférence du 25 novembre 1658 — Emploi de la Journée — Explication de l’Évangile des Vierges Sages et des Vierges Folles — Dévotion à Sainte Catherine"
+            "fr-FR": "Entretien 106. Conférence du 25 novembre 1658 — Emploi de la Journée — Explication de l’Évangile des Vierges Sages et des Vierges Folles — Dévotion à Sainte Catherine",
+            "pt-BR": "Colóquio 106. Conferência de 25 de novembro de 1658 — Emprego do dia — Explicação do Evangelho das virgens prudentes e das virgens insensatas — Devoção a Santa Catarina"
           }
         },
         {
           "id": "entretien-107",
           "title": {
-            "fr-FR": "Entretien 107. Conférence du 8 décembre 1658 — Récitation du Chapelet Occupations des Dimanches et Fêtes"
+            "fr-FR": "Entretien 107. Conférence du 8 décembre 1658 — Récitation du Chapelet Occupations des Dimanches et Fêtes",
+            "pt-BR": "Colóquio 107. Conferência de 8 de dezembro de 1658 — Recitação do terço, ocupações dos domingos e dias de festa"
           }
         },
         {
           "id": "entretien-108",
           "title": {
-            "fr-FR": "Entretien 108. Conférence du 16 mars 1659"
+            "fr-FR": "Entretien 108. Conférence du 16 mars 1659",
+            "pt-BR": "Colóquio 108. Conferência de 16 de março de 1659"
           }
         },
         {
           "id": "entretien-109",
           "title": {
-            "fr-FR": "Entretien 109. Conférence du 27 avril 1659 — Sur les Vertus de Sœur Barbe Angiboust"
+            "fr-FR": "Entretien 109. Conférence du 27 avril 1659 — Sur les Vertus de Sœur Barbe Angiboust",
+            "pt-BR": "Colóquio 109. Conferência de 27 de abril de 1659 — Sobre as virtudes da irmã Bárbara Angiboust"
           }
         },
         {
           "id": "entretien-110",
           "title": {
-            "fr-FR": "Entretien 110. Conférence du 11 août 1659 — Rapports des Sœurs des Maisons Éloignées avec les Supérieurs de Paris. — Choix des Confesseurs — Occupations aux Heures Libres — le Règlement n’Oblige Pas en Cas de Besoins Extraordinaires. — Lecture des Règles"
+            "fr-FR": "Entretien 110. Conférence du 11 août 1659 — Rapports des Sœurs des Maisons Éloignées avec les Supérieurs de Paris. — Choix des Confesseurs — Occupations aux Heures Libres — le Règlement n’Oblige Pas en Cas de Besoins Extraordinaires. — Lecture des Règles",
+            "pt-BR": "Colóquio 110. Conferência de 11 de agosto de 1659 — Relações das irmãs das casas distantes com os superiores de Paris. — Escolha dos confessores — Ocupações nas horas livres — O Regulamento não obriga em caso de necessidades extraordinárias. — Leitura das Regras"
           }
         },
         {
           "id": "entretien-111",
           "title": {
-            "fr-FR": "Entretien 111. Conférence du 24 août 1659 — Perfection Nécessaire aux Sœurs des Paroisses — Attache aux Confesseurs. — Monastère, Cellule, Chapelle, Cloître, Grille"
+            "fr-FR": "Entretien 111. Conférence du 24 août 1659 — Perfection Nécessaire aux Sœurs des Paroisses — Attache aux Confesseurs. — Monastère, Cellule, Chapelle, Cloître, Grille",
+            "pt-BR": "Colóquio 111. Conferência de 24 de agosto de 1659 — Perfeição necessária às irmãs das paróquias — Apego aos confessores. — Mosteiro, cela, capela, claustro, grade"
           }
         },
         {
           "id": "entretien-112",
           "title": {
-            "fr-FR": "Entretien 112. Instruction de Septembre 1659 — Aux Sœurs Envoyées à Narbonne et à Cahors"
+            "fr-FR": "Entretien 112. Instruction de Septembre 1659 — Aux Sœurs Envoyées à Narbonne et à Cahors",
+            "pt-BR": "Colóquio 112. Instrução de setembro de 1659 — Às irmãs enviadas a Narbona e a Cahors"
           }
         },
         {
           "id": "entretien-113",
           "title": {
-            "fr-FR": "Entretien 113. Conférence du 19 octobre 1659 — Sur le Service des Malades"
+            "fr-FR": "Entretien 113. Conférence du 19 octobre 1659 — Sur le Service des Malades",
+            "pt-BR": "Colóquio 113. Conferência de 19 de outubro de 1659 — Sobre o serviço dos doentes"
           }
         },
         {
           "id": "entretien-114",
           "title": {
-            "fr-FR": "Entretien 114. Conférence du 11 novembre 1659 — Service des Malades. — Vertus de Sœur Barbe Angiboust"
+            "fr-FR": "Entretien 114. Conférence du 11 novembre 1659 — Service des Malades. — Vertus de Sœur Barbe Angiboust",
+            "pt-BR": "Colóquio 114. Conferência de 11 de novembro de 1659 — Serviço dos doentes. — Virtudes da irmã Bárbara Angiboust"
           }
         },
         {
           "id": "entretien-115",
           "title": {
-            "fr-FR": "Entretien 115. Conférence du 25 novembre 1659 — — Service des Malades. —"
+            "fr-FR": "Entretien 115. Conférence du 25 novembre 1659 — — Service des Malades. —",
+            "pt-BR": "Colóquio 115. Conferência de 25 de novembro de 1659 — — Serviço dos doentes. —"
           }
         },
         {
           "id": "entretien-116",
           "title": {
-            "fr-FR": "Entretien 116. Conférence du 8 décembre 1659 — Sur l’Indifférence"
+            "fr-FR": "Entretien 116. Conférence du 8 décembre 1659 — Sur l’Indifférence",
+            "pt-BR": "Colóquio 116. Conferência de 8 de dezembro de 1659 — Sobre a indiferença"
           }
         },
         {
           "id": "entretien-117",
           "title": {
-            "fr-FR": "Entretien 117. Conférence du 14 décembre 1659 — Sur l’Indifférence"
+            "fr-FR": "Entretien 117. Conférence du 14 décembre 1659 — Sur l’Indifférence",
+            "pt-BR": "Colóquio 117. Conferência de 14 de dezembro de 1659 — Sobre a indiferença"
           }
         },
         {
           "id": "entretien-118",
           "title": {
-            "fr-FR": "Entretien 118. Conférence du 3 juillet 1660 — Sur les Vertus de Louise de Marillac"
+            "fr-FR": "Entretien 118. Conférence du 3 juillet 1660 — Sur les Vertus de Louise de Marillac",
+            "pt-BR": "Colóquio 118. Conferência de 3 de julho de 1660 — Sobre as virtudes de Luísa de Marillac"
           }
         },
         {
           "id": "entretien-119",
           "title": {
-            "fr-FR": "Entretien 119. Conférence du 24 juillet 1660 — Sur les Vertus de Louise de Marillac"
+            "fr-FR": "Entretien 119. Conférence du 24 juillet 1660 — Sur les Vertus de Louise de Marillac",
+            "pt-BR": "Colóquio 119. Conferência de 24 de julho de 1660 — Sobre as virtudes de Luísa de Marillac"
           }
         },
         {
           "id": "entretien-120",
           "title": {
-            "fr-FR": "Entretien 120. Conférence du 27 août 1660 — Élection des Officières"
+            "fr-FR": "Entretien 120. Conférence du 27 août 1660 — Élection des Officières",
+            "pt-BR": "Colóquio 120. Conferência de 27 de agosto de 1660 — Eleição das irmãs encarregadas dos ofícios"
           }
         }
       ]
