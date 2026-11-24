@@ -18,13 +18,19 @@
   },
   "composed": 1644,
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "john-eudes/constitutions-cjm",
   "editions": {
     "fr-FR": {
       "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
       "year": 1905
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,787 +47,918 @@
     {
       "id": "intro-01",
       "title": {
-        "fr-FR": "Introduction: 1. --composition et histoire des « regles et constitutions »"
+        "fr-FR": "Introduction: 1. --composition et histoire des « regles et constitutions »",
+        "pt-BR": "Introdução: 1. — Composição e história das “Regras e Constituições”"
       }
     },
     {
       "id": "intro-02",
       "title": {
-        "fr-FR": "Ii. les regles"
+        "fr-FR": "Ii. les regles",
+        "pt-BR": "II. As Regras"
       }
     },
     {
       "id": "intro-03",
       "title": {
-        "fr-FR": "Iii. les constitutions (1)"
+        "fr-FR": "Iii. les constitutions (1)",
+        "pt-BR": "III. As Constituições (1)"
       }
     },
     {
       "id": "intro-04",
       "title": {
-        "fr-FR": "Iii. les constitutions (2): Conclusion des « Constitutions »"
+        "fr-FR": "Iii. les constitutions (2): Conclusion des « Constitutions »",
+        "pt-BR": "III. As Constituições (2): Conclusão das “Constituições”"
       }
     },
     {
       "id": "const-01",
       "title": {
-        "fr-FR": "Constitutions: De la congrégation"
+        "fr-FR": "Constitutions: De la congrégation",
+        "pt-BR": "Constituições: Da Congregação"
       }
     },
     {
       "id": "const-02",
       "title": {
-        "fr-FR": "Partie première"
+        "fr-FR": "Partie première",
+        "pt-BR": "Primeira parte"
       }
     },
     {
       "id": "const-03",
       "title": {
-        "fr-FR": "Chapitre I. D e quelles personnes cette Congrégation est composée, et quel est son état"
+        "fr-FR": "Chapitre I. D e quelles personnes cette Congrégation est composée, et quel est son état",
+        "pt-BR": "Capítulo I. De quais pessoas esta Congregação se compõe e qual é seu estado"
       }
     },
     {
       "id": "const-04",
       "title": {
-        "fr-FR": "Chapitre II. De la dépendance que la Congrégation a de Messeigneurs les Évêques"
+        "fr-FR": "Chapitre II. De la dépendance que la Congrégation a de Messeigneurs les Évêques",
+        "pt-BR": "Capítulo II. Da dependência que a Congregação tem dos Excelentíssimos Senhores Bispos"
       }
     },
     {
       "id": "const-05",
       "title": {
-        "fr-FR": "Chapitre IV. Quel est le but et la fin de cette Congrégation"
+        "fr-FR": "Chapitre IV. Quel est le but et la fin de cette Congrégation",
+        "pt-BR": "Capítulo IV. Qual é o objetivo e o fim desta Congregação"
       }
     },
     {
       "id": "const-06",
       "title": {
-        "fr-FR": "Chapitre V. Quels sont les Fondements de cette Congrégation"
+        "fr-FR": "Chapitre V. Quels sont les Fondements de cette Congrégation",
+        "pt-BR": "Capítulo V. Quais são os Fundamentos desta Congregação"
       }
     },
     {
       "id": "const-07",
       "title": {
-        "fr-FR": "Chapitre VI. Quel est l'Esprit de cette Congrégation"
+        "fr-FR": "Chapitre VI. Quel est l'Esprit de cette Congrégation",
+        "pt-BR": "Capítulo VI. Qual é o Espírito desta Congregação"
       }
     },
     {
       "id": "const-08",
       "title": {
-        "fr-FR": "Partie deuxième: Contenant les constitutions communes et générales,"
+        "fr-FR": "Partie deuxième: Contenant les constitutions communes et générales,",
+        "pt-BR": "Segunda parte: Contendo as constituições comuns e gerais,"
       }
     },
     {
       "id": "const-09",
       "title": {
-        "fr-FR": "Chapitre PREMIER. Des choses qui doivent être observés en tout temps"
+        "fr-FR": "Chapitre PREMIER. Des choses qui doivent être observés en tout temps",
+        "pt-BR": "Capítulo PRIMEIRO. Das coisas que devem ser observadas em todo tempo"
       }
     },
     {
       "id": "const-10",
       "title": {
-        "fr-FR": "Chapitre II. Des choses qui doivent être observées en chaque jour"
+        "fr-FR": "Chapitre II. Des choses qui doivent être observées en chaque jour",
+        "pt-BR": "Capítulo II. Das coisas que devem ser observadas em cada dia"
       }
     },
     {
       "id": "const-11",
       "title": {
-        "fr-FR": "Chapitre III. De ce qu'il faut faire en chaque semaine"
+        "fr-FR": "Chapitre III. De ce qu'il faut faire en chaque semaine",
+        "pt-BR": "Capítulo III. Do que se deve fazer em cada semana"
       }
     },
     {
       "id": "const-12",
       "title": {
-        "fr-FR": "Chapitre IV. De ce qu'il faut faire en chaque mois"
+        "fr-FR": "Chapitre IV. De ce qu'il faut faire en chaque mois",
+        "pt-BR": "Capítulo IV. Do que se deve fazer em cada mês"
       }
     },
     {
       "id": "const-13",
       "title": {
-        "fr-FR": "Chapitre V. De ce qu'il faut faire en chaque année"
+        "fr-FR": "Chapitre V. De ce qu'il faut faire en chaque année",
+        "pt-BR": "Capítulo V. Do que se deve fazer em cada ano"
       }
     },
     {
       "id": "const-14",
       "title": {
-        "fr-FR": "Chapitre VI. De ce qui regarde les choses temporelles"
+        "fr-FR": "Chapitre VI. De ce qui regarde les choses temporelles",
+        "pt-BR": "Capítulo VI. Do que diz respeito às coisas temporais"
       }
     },
     {
       "id": "const-15",
       "title": {
-        "fr-FR": "Partie troisième: Particulier de la vertu de religion"
+        "fr-FR": "Partie troisième: Particulier de la vertu de religion",
+        "pt-BR": "Terceira parte: Particular da virtude de religião"
       }
     },
     {
       "id": "const-16",
       "title": {
-        "fr-FR": "Chapitre PREMIER. De la vertu de Religion au regard de Dieu, de la Mère de Dieu et des Saints"
+        "fr-FR": "Chapitre PREMIER. De la vertu de Religion au regard de Dieu, de la Mère de Dieu et des Saints",
+        "pt-BR": "Capítulo PRIMEIRO. Da virtude de Religião para com Deus, a Mãe de Deus e os Santos"
       }
     },
     {
       "id": "const-17",
       "title": {
-        "fr-FR": "Chapitre II. De la vertu de Religion au regard des saintes Reliques"
+        "fr-FR": "Chapitre II. De la vertu de Religion au regard des saintes Reliques",
+        "pt-BR": "Capítulo II. Da virtude de Religião para com as santas Relíquias"
       }
     },
     {
       "id": "const-18",
       "title": {
-        "fr-FR": "Chapitre IV. De la vertu de Religion au regard de la Sainte Église"
+        "fr-FR": "Chapitre IV. De la vertu de Religion au regard de la Sainte Église",
+        "pt-BR": "Capítulo IV. Da virtude de Religião para com a Santa Igreja"
       }
     },
     {
       "id": "const-19",
       "title": {
-        "fr-FR": "Chapitre V. Avertissements à tous les vrais chrétiens sur la manière en laquelle ils se doivent comporter en"
+        "fr-FR": "Chapitre V. Avertissements à tous les vrais chrétiens sur la manière en laquelle ils se doivent comporter en",
+        "pt-BR": "Capítulo V. Advertências a todos os verdadeiros cristãos sobre a maneira como devem comportar-se em"
       }
     },
     {
       "id": "const-20",
       "title": {
-        "fr-FR": "Chapitre VI. De la vertu de Religion au regard des fonctions ecclésiastiques"
+        "fr-FR": "Chapitre VI. De la vertu de Religion au regard des fonctions ecclésiastiques",
+        "pt-BR": "Capítulo VI. Da virtude de Religião em relação às funções eclesiásticas"
       }
     },
     {
       "id": "const-21",
       "title": {
-        "fr-FR": "Chapitre VII. Au regard du sacrifice de louange, c'est-à-dire de l ' O ffice divin"
+        "fr-FR": "Chapitre VII. Au regard du sacrifice de louange, c'est-à-dire de l ' O ffice divin",
+        "pt-BR": "Capítulo VII. A respeito do sacrifício de louvor, isto é, do Ofício divino"
       }
     },
     {
       "id": "const-22",
       "title": {
-        "fr-FR": "Chapitre VIII. Des Prières qu'on doit dire allant par le chemin"
+        "fr-FR": "Chapitre VIII. Des Prières qu'on doit dire allant par le chemin",
+        "pt-BR": "Capítulo VIII. Das Orações que se devem dizer em viagem"
       }
     },
     {
       "id": "const-23",
       "title": {
-        "fr-FR": "Chapitre IX. Des Prières que l'on doit faire quand on sort de la maison pour aller à la ville, et quand on"
+        "fr-FR": "Chapitre IX. Des Prières que l'on doit faire quand on sort de la maison pour aller à la ville, et quand on",
+        "pt-BR": "Capítulo IX. Das Orações que se devem fazer quando se sai de casa para ir à cidade e quando se"
       }
     },
     {
       "id": "const-24",
       "title": {
-        "fr-FR": "Chapitre X. Des autres Prières vocales que l'on fait en la Communauté"
+        "fr-FR": "Chapitre X. Des autres Prières vocales que l'on fait en la Communauté",
+        "pt-BR": "Capítulo X. Das outras Orações vocais que se fazem na Comunidade"
       }
     },
     {
       "id": "const-25",
       "title": {
-        "fr-FR": "Chapitre XI. Des Confessions que les prêtres entendent"
+        "fr-FR": "Chapitre XI. Des Confessions que les prêtres entendent",
+        "pt-BR": "Capítulo XI. Das Confissões que os sacerdotes ouvem"
       }
     },
     {
       "id": "const-26",
       "title": {
-        "fr-FR": "Chapitre XII. Des Prédications et des Catéchismes"
+        "fr-FR": "Chapitre XII. Des Prédications et des Catéchismes",
+        "pt-BR": "Capítulo XII. Das Pregações e das Catequeses"
       }
     },
     {
       "id": "const-27",
       "title": {
-        "fr-FR": "Chapitre XIII. L e s Matières des entretiens et conférences qui se doivent faire dans la Congrégation"
+        "fr-FR": "Chapitre XIII. L e s Matières des entretiens et conférences qui se doivent faire dans la Congrégation",
+        "pt-BR": "Capítulo XIII. As Matérias das conversas e conferências que se devem realizar na Congregação"
       }
     },
     {
       "id": "const-28",
       "title": {
-        "fr-FR": "Partie quatrième: Contenant ce qui concerne la charité chrétienne"
+        "fr-FR": "Partie quatrième: Contenant ce qui concerne la charité chrétienne",
+        "pt-BR": "Quarta parte: Contendo o que diz respeito à caridade cristã"
       }
     },
     {
       "id": "const-29",
       "title": {
-        "fr-FR": "Chapitre I. D e la Charité fraternelle que tous ceux de la Congrégation doivent avoir les uns pour les"
+        "fr-FR": "Chapitre I. D e la Charité fraternelle que tous ceux de la Congrégation doivent avoir les uns pour les",
+        "pt-BR": "Capítulo I. Da Caridade fraterna que todos os membros da Congregação devem ter uns para com os"
       }
     },
     {
       "id": "const-30",
       "title": {
-        "fr-FR": "Chapitre II. D e la charité et union qui doit être entre les maisons de l a Congrégation"
+        "fr-FR": "Chapitre II. D e la charité et union qui doit être entre les maisons de l a Congrégation",
+        "pt-BR": "Capítulo II. Da caridade e união que deve haver entre as casas da Congregação"
       }
     },
     {
       "id": "const-31",
       "title": {
-        "fr-FR": "Chapitre III. De l'uniformité aux habits"
+        "fr-FR": "Chapitre III. De l'uniformité aux habits",
+        "pt-BR": "Capítulo III. Da uniformidade no vestuário"
       }
     },
     {
       "id": "const-32",
       "title": {
-        "fr-FR": "Chapitre IV. Moyens pour conserver et fortifier l'union qui doit être entre les sujets de la Congrégation"
+        "fr-FR": "Chapitre IV. Moyens pour conserver et fortifier l'union qui doit être entre les sujets de la Congrégation",
+        "pt-BR": "Capítulo IV. Meios para conservar e fortalecer a união que deve haver entre os membros da Congregação"
       }
     },
     {
       "id": "const-33",
       "title": {
-        "fr-FR": "Chapitre VI. De la Charité vers les externes"
+        "fr-FR": "Chapitre VI. De la Charité vers les externes",
+        "pt-BR": "Capítulo VI. Da Caridade para com as pessoas de fora"
       }
     },
     {
       "id": "const-34",
       "title": {
-        "fr-FR": "Chapitre VII. Comme il faut se comporter au sujet des procès, pour y conserver la charité"
+        "fr-FR": "Chapitre VII. Comme il faut se comporter au sujet des procès, pour y conserver la charité",
+        "pt-BR": "Capítulo VII. Como se deve proceder nos processos, para neles conservar a caridade"
       }
     },
     {
       "id": "const-35",
       "title": {
-        "fr-FR": "Chapitre VIII. De la Gratitude et Reconnaissance au regard des Fondateurs e t Bienfaiteurs de la Congrégation"
+        "fr-FR": "Chapitre VIII. De la Gratitude et Reconnaissance au regard des Fondateurs e t Bienfaiteurs de la Congrégation",
+        "pt-BR": "Capítulo VIII. Da Gratidão e do Reconhecimento para com os Fundadores e Benfeitores da Congregação"
       }
     },
     {
       "id": "const-36",
       "title": {
-        "fr-FR": "Chapitre IX. Sur le Zèle du salut des âmes"
+        "fr-FR": "Chapitre IX. Sur le Zèle du salut des âmes",
+        "pt-BR": "Capítulo IX. Sobre o Zelo pela salvação das almas"
       }
     },
     {
       "id": "const-37",
       "title": {
-        "fr-FR": "Chapitre X. Sur la conservation de la santé des corps"
+        "fr-FR": "Chapitre X. Sur la conservation de la santé des corps",
+        "pt-BR": "Capítulo X. Sobre a conservação da saúde dos corpos"
       }
     },
     {
       "id": "const-38",
       "title": {
-        "fr-FR": "Partie cinquième"
+        "fr-FR": "Partie cinquième",
+        "pt-BR": "Quinta parte"
       }
     },
     {
       "id": "const-39",
       "title": {
-        "fr-FR": "Chapitre PREMIER. De l'Humilité"
+        "fr-FR": "Chapitre PREMIER. De l'Humilité",
+        "pt-BR": "Capítulo PRIMEIRO. Da Humildade"
       }
     },
     {
       "id": "const-40",
       "title": {
-        "fr-FR": "Chapitre II. Plusieurs pratiques d'humilité"
+        "fr-FR": "Chapitre II. Plusieurs pratiques d'humilité",
+        "pt-BR": "Capítulo II. Diversas práticas de humildade"
       }
     },
     {
       "id": "const-41",
       "title": {
-        "fr-FR": "Chapitre III. De l'obéissance"
+        "fr-FR": "Chapitre III. De l'obéissance",
+        "pt-BR": "Capítulo III. Da obediência"
       }
     },
     {
       "id": "const-42",
       "title": {
-        "fr-FR": "Chapitre IV. Conditions et qualités de la vraie et parfaite Obéissance"
+        "fr-FR": "Chapitre IV. Conditions et qualités de la vraie et parfaite Obéissance",
+        "pt-BR": "Capítulo IV. Condições e qualidades da verdadeira e perfeita Obediência"
       }
     },
     {
       "id": "const-43",
       "title": {
-        "fr-FR": "Chapitre V. De la Pauvreté"
+        "fr-FR": "Chapitre V. De la Pauvreté",
+        "pt-BR": "Capítulo V. Da Pobreza"
       }
     },
     {
       "id": "const-44",
       "title": {
-        "fr-FR": "Chapitre VI. De la Chasteté"
+        "fr-FR": "Chapitre VI. De la Chasteté",
+        "pt-BR": "Capítulo VI. Da Castidade"
       }
     },
     {
       "id": "const-45",
       "title": {
-        "fr-FR": "Chapitre VII. De la Sobriété"
+        "fr-FR": "Chapitre VII. De la Sobriété",
+        "pt-BR": "Capítulo VII. Da Sobriedade"
       }
     },
     {
       "id": "const-46",
       "title": {
-        "fr-FR": "Chapitre VIII. De la Modestie"
+        "fr-FR": "Chapitre VIII. De la Modestie",
+        "pt-BR": "Capítulo VIII. Da Modéstia"
       }
     },
     {
       "id": "const-47",
       "title": {
-        "fr-FR": "Chapitre IX. De la Simplicité"
+        "fr-FR": "Chapitre IX. De la Simplicité",
+        "pt-BR": "Capítulo IX. Da Simplicidade"
       }
     },
     {
       "id": "const-48",
       "title": {
-        "fr-FR": "Chapitre X. De la Vérité et Fidélité en ses paroles et promesses"
+        "fr-FR": "Chapitre X. De la Vérité et Fidélité en ses paroles et promesses",
+        "pt-BR": "Capítulo X. Da Veracidade e Fidelidade nas próprias palavras e promessas"
       }
     },
     {
       "id": "const-49",
       "title": {
-        "fr-FR": "Chapitre XI. De la Netteté et Propreté, et l'Office du Préfet de la netteté"
+        "fr-FR": "Chapitre XI. De la Netteté et Propreté, et l'Office du Préfet de la netteté",
+        "pt-BR": "Capítulo XI. Da Limpeza e do Asseio, e o Ofício do Prefeito da limpeza"
       }
     },
     {
       "id": "const-50",
       "title": {
-        "fr-FR": "Chapitre XII. Du Silence: Partie sixieme"
+        "fr-FR": "Chapitre XII. Du Silence: Partie sixieme",
+        "pt-BR": "Capítulo XII. Do Silêncio: Sexta parte"
       }
     },
     {
       "id": "const-51",
       "title": {
-        "fr-FR": "Chapitre PREMIER. Comme il faut se comporter au regard de ceux qui demandent d'être reçus en la"
+        "fr-FR": "Chapitre PREMIER. Comme il faut se comporter au regard de ceux qui demandent d'être reçus en la",
+        "pt-BR": "Capítulo PRIMEIRO. Como se deve proceder em relação àqueles que pedem para ser recebidos na"
       }
     },
     {
       "id": "const-52",
       "title": {
-        "fr-FR": "Chapitre II. Des choses que l'on observera en la maison de Probation"
+        "fr-FR": "Chapitre II. Des choses que l'on observera en la maison de Probation",
+        "pt-BR": "Capítulo II. Das coisas que se observarão na casa de Provação"
       }
     },
     {
       "id": "const-53",
       "title": {
-        "fr-FR": "Chapitre III. Exercices particuliers de la Maison de Probation"
+        "fr-FR": "Chapitre III. Exercices particuliers de la Maison de Probation",
+        "pt-BR": "Capítulo III. Exercícios particulares da Casa de Provação"
       }
     },
     {
       "id": "const-54",
       "title": {
-        "fr-FR": "Chapitre IV. Les Matières des Entretiens et des Conférences"
+        "fr-FR": "Chapitre IV. Les Matières des Entretiens et des Conférences",
+        "pt-BR": "Capítulo IV. As Matérias das Conversas e das Conferências"
       }
     },
     {
       "id": "const-55",
       "title": {
-        "fr-FR": "Chapitre V. La manière de faire ces Entretiens et Conférences"
+        "fr-FR": "Chapitre V. La manière de faire ces Entretiens et Conférences",
+        "pt-BR": "Capítulo V. A maneira de realizar essas Conversas e Conferências"
       }
     },
     {
       "id": "const-56",
       "title": {
-        "fr-FR": "Chapitre VI. A utres choses à observer par les Jeunes au temps de leur Probation"
+        "fr-FR": "Chapitre VI. A utres choses à observer par les Jeunes au temps de leur Probation",
+        "pt-BR": "Capítulo VI. Outras coisas a serem observadas pelos Jovens no tempo de sua Provação"
       }
     },
     {
       "id": "const-57",
       "title": {
-        "fr-FR": "Chapitre VII. L'Office du Directeur des Jeunes, et de son Aide ou Compagnon"
+        "fr-FR": "Chapitre VII. L'Office du Directeur des Jeunes, et de son Aide ou Compagnon",
+        "pt-BR": "Capítulo VII. O Ofício do Diretor dos Jovens e de seu Auxiliar ou Companheiro"
       }
     },
     {
       "id": "const-58",
       "title": {
-        "fr-FR": "Chapitre VIII. L e temps de la Probation; et ce qu'il faut faire des Jeunes après les premières"
+        "fr-FR": "Chapitre VIII. L e temps de la Probation; et ce qu'il faut faire des Jeunes après les premières",
+        "pt-BR": "Capítulo VIII. O tempo da Provação; e o que se deve fazer dos Jovens depois das primeiras"
       }
     },
     {
       "id": "const-59",
       "title": {
-        "fr-FR": "Chapitre IX. Qui sont ceux qui doivent être incorporés en la Congrégation"
+        "fr-FR": "Chapitre IX. Qui sont ceux qui doivent être incorporés en la Congrégation",
+        "pt-BR": "Capítulo IX. Quem são aqueles que devem ser incorporados à Congregação"
       }
     },
     {
       "id": "const-60",
       "title": {
-        "fr-FR": "Chapitre X. Qui sont ceux qu'il faut renvoyer; par qui, et pour quelles causes ils doivent être renvoyés"
+        "fr-FR": "Chapitre X. Qui sont ceux qu'il faut renvoyer; par qui, et pour quelles causes ils doivent être renvoyés",
+        "pt-BR": "Capítulo X. Quem são aqueles que se devem despedir; por quem e por quais motivos devem ser despedidos"
       }
     },
     {
       "id": "const-61",
       "title": {
-        "fr-FR": "Chapitre XI. De la manière en laquelle on se comportera au regard de ceux que l'on renverra, et de ceux qui"
+        "fr-FR": "Chapitre XI. De la manière en laquelle on se comportera au regard de ceux que l'on renverra, et de ceux qui",
+        "pt-BR": "Capítulo XI. Da maneira como se procederá em relação àqueles que forem despedidos e àqueles que"
       }
     },
     {
       "id": "const-62",
       "title": {
-        "fr-FR": "Chapitre XII. P our ce qui regarde l'étude et la science, et pour les étudiants"
+        "fr-FR": "Chapitre XII. P our ce qui regarde l'étude et la science, et pour les étudiants",
+        "pt-BR": "Capítulo XII. Sobre o que diz respeito ao estudo e à ciência, e para os estudantes"
       }
     },
     {
       "id": "const-63",
       "title": {
-        "fr-FR": "Chapitre XIII. Les moyens de bien étudier"
+        "fr-FR": "Chapitre XIII. Les moyens de bien étudier",
+        "pt-BR": "Capítulo XIII. Os meios de bem estudar"
       }
     },
     {
       "id": "const-64",
       "title": {
-        "fr-FR": "Chapitre XIV. Ce que il faut faire de ceux qui ont fait leurs études: Partie septième"
+        "fr-FR": "Chapitre XIV. Ce que il faut faire de ceux qui ont fait leurs études: Partie septième",
+        "pt-BR": "Capítulo XIV. O que se deve fazer daqueles que concluíram seus estudos: Sétima parte"
       }
     },
     {
       "id": "const-65",
       "title": {
-        "fr-FR": "Chapitre PREMIER. De ceux qu'on recevra dans le Séminaire"
+        "fr-FR": "Chapitre PREMIER. De ceux qu'on recevra dans le Séminaire",
+        "pt-BR": "Capítulo PRIMEIRO. Daqueles que serão recebidos no Seminário"
       }
     },
     {
       "id": "const-66",
       "title": {
-        "fr-FR": "Chapitre II. Les choses qu'on enseignera dans le Séminaire"
+        "fr-FR": "Chapitre II. Les choses qu'on enseignera dans le Séminaire",
+        "pt-BR": "Capítulo II. As coisas que se ensinarão no Seminário"
       }
     },
     {
       "id": "const-67",
       "title": {
-        "fr-FR": "Chapitre III. Les officiers du Séminaire"
+        "fr-FR": "Chapitre III. Les officiers du Séminaire",
+        "pt-BR": "Capítulo III. Os oficiais do Seminário"
       }
     },
     {
       "id": "const-68",
       "title": {
-        "fr-FR": "Chapitre IV. Pour les Séminaristes"
+        "fr-FR": "Chapitre IV. Pour les Séminaristes",
+        "pt-BR": "Capítulo IV. Para os Seminaristas"
       }
     },
     {
       "id": "const-69",
       "title": {
-        "fr-FR": "Chapitre V. L'Office du Préfet des Séminaristes"
+        "fr-FR": "Chapitre V. L'Office du Préfet des Séminaristes",
+        "pt-BR": "Capítulo V. O Ofício do Prefeito dos Seminaristas"
       }
     },
     {
       "id": "const-70",
       "title": {
-        "fr-FR": "Chapitre VI. L'office des Confesseurs du Séminaire"
+        "fr-FR": "Chapitre VI. L'office des Confesseurs du Séminaire",
+        "pt-BR": "Capítulo VI. O ofício dos Confessores do Seminário"
       }
     },
     {
       "id": "const-71",
       "title": {
-        "fr-FR": "Chapitre VII. La Manière en laquelle les Officiers du Séminaire et tous ceux de la Congrégation se doivent: Partie huitième"
+        "fr-FR": "Chapitre VII. La Manière en laquelle les Officiers du Séminaire et tous ceux de la Congrégation se doivent: Partie huitième",
+        "pt-BR": "Capítulo VII. A Maneira como os Oficiais do Seminário e todos os membros da Congregação devem: Oitava parte"
       }
     },
     {
       "id": "const-72",
       "title": {
-        "fr-FR": "Chapitre PREMIER. Les Règles des Missionnaires"
+        "fr-FR": "Chapitre PREMIER. Les Règles des Missionnaires",
+        "pt-BR": "Capítulo PRIMEIRO. As Regras dos Missionários"
       }
     },
     {
       "id": "const-73",
       "title": {
-        "fr-FR": "Chapitre II. Des Exercices de la Mission"
+        "fr-FR": "Chapitre II. Des Exercices de la Mission",
+        "pt-BR": "Capítulo II. Dos Exercícios da Missão"
       }
     },
     {
       "id": "const-74",
       "title": {
-        "fr-FR": "Chapitre III. Matières des Prédications de la Mission"
+        "fr-FR": "Chapitre III. Matières des Prédications de la Mission",
+        "pt-BR": "Capítulo III. Matérias das Pregações da Missão"
       }
     },
     {
       "id": "const-75",
       "title": {
-        "fr-FR": "Chapitre IV. Matières des Conférences pour les Prêtres"
+        "fr-FR": "Chapitre IV. Matières des Conférences pour les Prêtres",
+        "pt-BR": "Capítulo IV. Matérias das Conferências para os Sacerdotes"
       }
     },
     {
       "id": "const-76",
       "title": {
-        "fr-FR": "Chapitre V. Matières des Conférences pour les gentilshommes"
+        "fr-FR": "Chapitre V. Matières des Conférences pour les gentilshommes",
+        "pt-BR": "Capítulo V. Matérias das Conferências para os fidalgos"
       }
     },
     {
       "id": "const-77",
       "title": {
-        "fr-FR": "Chapitre VI. Matières des Conférences pour les Missionnaires"
+        "fr-FR": "Chapitre VI. Matières des Conférences pour les Missionnaires",
+        "pt-BR": "Capítulo VI. Matérias das Conferências para os Missionários"
       }
     },
     {
       "id": "const-78",
       "title": {
-        "fr-FR": "Chapitre VII. Comme il faut finir la Mission: Partie neuvième"
+        "fr-FR": "Chapitre VII. Comme il faut finir la Mission: Partie neuvième",
+        "pt-BR": "Capítulo VII. Como se deve concluir a Missão: Nona parte"
       }
     },
     {
       "id": "const-79",
       "title": {
-        "fr-FR": "Chapitre VI. L'Office du Préfet des pensionnaires étudiants du Séminaire de Lisieux"
+        "fr-FR": "Chapitre VI. L'Office du Préfet des pensionnaires étudiants du Séminaire de Lisieux",
+        "pt-BR": "Capítulo VI. O Ofício do Prefeito dos estudantes internos do Seminário de Lisieux"
       }
     },
     {
       "id": "const-80",
       "title": {
-        "fr-FR": "Chapitre VII. L e s Règles des Pensionnaires étudiants du Séminaire de Lisieux: Les pensionnaires étudiants se lèveront tous à même heure, à savoir,"
+        "fr-FR": "Chapitre VII. L e s Règles des Pensionnaires étudiants du Séminaire de Lisieux: Les pensionnaires étudiants se lèveront tous à même heure, à savoir,",
+        "pt-BR": "Capítulo VII. As Regras dos Estudantes internos do Seminário de Lisieux: Os estudantes internos se levantarão todos à mesma hora, a saber,"
       }
     },
     {
       "id": "const-81",
       "title": {
-        "fr-FR": "Chapitre VIII. Pour ce qui regarde les Cures: Partie dixième"
+        "fr-FR": "Chapitre VIII. Pour ce qui regarde les Cures: Partie dixième",
+        "pt-BR": "Capítulo VIII. Sobre o que diz respeito às Paróquias: Décima parte"
       }
     },
     {
       "id": "const-82",
       "title": {
-        "fr-FR": "Chapitre PREMIER. Auquel plusieurs moyens nécessaires pour conserver et augmenter la Congrégation sont"
+        "fr-FR": "Chapitre PREMIER. Auquel plusieurs moyens nécessaires pour conserver et augmenter la Congrégation sont",
+        "pt-BR": "Capítulo PRIMEIRO. No qual vários meios necessários para conservar e aumentar a Congregação são"
       }
     },
     {
       "id": "const-83",
       "title": {
-        "fr-FR": "Chapitre II. Le temps et le lieu auxquels l'Assemblée générale se doit faire; par qui elle doit être"
+        "fr-FR": "Chapitre II. Le temps et le lieu auxquels l'Assemblée générale se doit faire; par qui elle doit être",
+        "pt-BR": "Capítulo II. O tempo e o lugar em que se deve realizar a Assembleia geral; por quem ela deve ser"
       }
     },
     {
       "id": "const-84",
       "title": {
-        "fr-FR": "Chapitre III. La manière de faire la députation en chaque maison: Modèle de la procuration"
+        "fr-FR": "Chapitre III. La manière de faire la députation en chaque maison: Modèle de la procuration",
+        "pt-BR": "Capítulo III. A maneira de escolher os deputados em cada casa: Modelo da procuração"
       }
     },
     {
       "id": "const-85",
       "title": {
-        "fr-FR": "Chapitre IV. Autre manière de choisir et députer ceux qui se trouveront en l'Assemblée générale, au cas que: Ordre pour les députations de ceux qui seront nommés"
+        "fr-FR": "Chapitre IV. Autre manière de choisir et députer ceux qui se trouveront en l'Assemblée générale, au cas que: Ordre pour les députations de ceux qui seront nommés",
+        "pt-BR": "Capítulo IV. Outra maneira de escolher e delegar aqueles que participarão da Assembleia geral, no caso de: Ordem para a delegação daqueles que forem nomeados"
       }
     },
     {
       "id": "const-86",
       "title": {
-        "fr-FR": "Chapitre V. Les officiers de l'Assemblée générale"
+        "fr-FR": "Chapitre V. Les officiers de l'Assemblée générale",
+        "pt-BR": "Capítulo V. Os oficiais da Assembleia geral"
       }
     },
     {
       "id": "const-87",
       "title": {
-        "fr-FR": "Chapitre VI. Ce qu'il faut observer pour l'extérieur de l'Assemblée"
+        "fr-FR": "Chapitre VI. Ce qu'il faut observer pour l'extérieur de l'Assemblée",
+        "pt-BR": "Capítulo VI. O que se deve observar quanto ao exterior da Assembleia"
       }
     },
     {
       "id": "const-88",
       "title": {
-        "fr-FR": "Chapitre VII. Ce qu'il faut observer en l'Assemblée pour ce qui regarde l'intérieur et la piété"
+        "fr-FR": "Chapitre VII. Ce qu'il faut observer en l'Assemblée pour ce qui regarde l'intérieur et la piété",
+        "pt-BR": "Capítulo VII. O que se deve observar na Assembleia quanto ao interior e à piedade"
       }
     },
     {
       "id": "const-89",
       "title": {
-        "fr-FR": "Chapitre VIII. Du pouvoir de l'Assemblée. Des choses qui s'y traiteront. De la manière en laquelle on s'y"
+        "fr-FR": "Chapitre VIII. Du pouvoir de l'Assemblée. Des choses qui s'y traiteront. De la manière en laquelle on s'y",
+        "pt-BR": "Capítulo VIII. Do poder da Assembleia. Das coisas que nela serão tratadas. Da maneira como nela se"
       }
     },
     {
       "id": "const-90",
       "title": {
-        "fr-FR": "Chapitre PREMIER. Qu'il est nécessaire qu'elle ait un Supérieur général"
+        "fr-FR": "Chapitre PREMIER. Qu'il est nécessaire qu'elle ait un Supérieur général",
+        "pt-BR": "Capítulo PRIMEIRO. Que é necessário que ela tenha um Superior geral"
       }
     },
     {
       "id": "const-91",
       "title": {
-        "fr-FR": "Chapitre II. De l'élection du Supérieur de la Congrégation"
+        "fr-FR": "Chapitre II. De l'élection du Supérieur de la Congrégation",
+        "pt-BR": "Capítulo II. Da eleição do Superior da Congregação"
       }
     },
     {
       "id": "const-92",
       "title": {
-        "fr-FR": "Chapitre IV. De la dépendance que le Supérieur général de la Congrégation à de Messeigneurs les Évêques; et"
+        "fr-FR": "Chapitre IV. De la dépendance que le Supérieur général de la Congrégation à de Messeigneurs les Évêques; et",
+        "pt-BR": "Capítulo IV. Da dependência que o Superior geral da Congregação tem dos Excelentíssimos Senhores Bispos; e"
       }
     },
     {
       "id": "const-93",
       "title": {
-        "fr-FR": "Chapitre V. Du pouvoir que la Congrégation a sur le Supérieur général"
+        "fr-FR": "Chapitre V. Du pouvoir que la Congrégation a sur le Supérieur général",
+        "pt-BR": "Capítulo V. Do poder que a Congregação tem sobre o Superior geral"
       }
     },
     {
       "id": "const-94",
       "title": {
-        "fr-FR": "Chapitre VI. L'office du Supérieur de la Congrégation"
+        "fr-FR": "Chapitre VI. L'office du Supérieur de la Congrégation",
+        "pt-BR": "Capítulo VI. O ofício do Superior da Congregação"
       }
     },
     {
       "id": "const-95",
       "title": {
-        "fr-FR": "Chapitre VII. De la Visite annuelle"
+        "fr-FR": "Chapitre VII. De la Visite annuelle",
+        "pt-BR": "Capítulo VII. Da Visita anual"
       }
     },
     {
       "id": "const-96",
       "title": {
-        "fr-FR": "Chapitre VIII. I nstruction des choses sur lesquelles le Visiteur doit interroger les particuliers de"
+        "fr-FR": "Chapitre VIII. I nstruction des choses sur lesquelles le Visiteur doit interroger les particuliers de",
+        "pt-BR": "Capítulo VIII. Instrução sobre as coisas a respeito das quais o Visitador deve interrogar os membros de"
       }
     },
     {
       "id": "const-97",
       "title": {
-        "fr-FR": "Chapitre III. L'office du Supérieur particulier de chaque maison: Des choses qui regardent l'intérieur et le spirituel"
+        "fr-FR": "Chapitre III. L'office du Supérieur particulier de chaque maison: Des choses qui regardent l'intérieur et le spirituel",
+        "pt-BR": "Capítulo III. O ofício do Superior particular de cada casa: Das coisas que dizem respeito ao interior e ao espiritual"
       }
     },
     {
       "id": "const-98",
       "title": {
-        "fr-FR": "Chapitre IV. L'office des Assistants en général, tant du Supérieur de l a Congrégation que des"
+        "fr-FR": "Chapitre IV. L'office des Assistants en général, tant du Supérieur de l a Congrégation que des",
+        "pt-BR": "Capítulo IV. O ofício dos Assistentes em geral, tanto do Superior da Congregação como dos"
       }
     },
     {
       "id": "const-99",
       "title": {
-        "fr-FR": "Chapitre V. L'office du premier Assistant de chaque Supérieur particulier"
+        "fr-FR": "Chapitre V. L'office du premier Assistant de chaque Supérieur particulier",
+        "pt-BR": "Capítulo V. O ofício do primeiro Assistente de cada Superior particular"
       }
     },
     {
       "id": "const-100",
       "title": {
-        "fr-FR": "Chapitre VI. L'office du second Assistant de chaque Supérieur particulier"
+        "fr-FR": "Chapitre VI. L'office du second Assistant de chaque Supérieur particulier",
+        "pt-BR": "Capítulo VI. O ofício do segundo Assistente de cada Superior particular"
       }
     },
     {
       "id": "const-101",
       "title": {
-        "fr-FR": "Chapitre VII. L'office de l'Aide ou Moniteur, tant du Supérieur général, que des particuliers"
+        "fr-FR": "Chapitre VII. L'office de l'Aide ou Moniteur, tant du Supérieur général, que des particuliers",
+        "pt-BR": "Capítulo VII. O ofício do Auxiliar ou Monitor, tanto do Superior geral como dos particulares"
       }
     },
     {
       "id": "const-102",
       "title": {
-        "fr-FR": "Chapitre VIII. L'office de l'Économe"
+        "fr-FR": "Chapitre VIII. L'office de l'Économe",
+        "pt-BR": "Capítulo VIII. O ofício do Ecônomo"
       }
     },
     {
       "id": "const-103",
       "title": {
-        "fr-FR": "Chapitre PREMIER. L'office du Sacristain"
+        "fr-FR": "Chapitre PREMIER. L'office du Sacristain",
+        "pt-BR": "Capítulo PRIMEIRO. O ofício do Sacristão"
       }
     },
     {
       "id": "const-104",
       "title": {
-        "fr-FR": "Chapitre II. P our la netteté de toutes les choses qui appartiennent à l'église"
+        "fr-FR": "Chapitre II. P our la netteté de toutes les choses qui appartiennent à l'église",
+        "pt-BR": "Capítulo II. Para a limpeza de todas as coisas que pertencem à igreja"
       }
     },
     {
       "id": "const-105",
       "title": {
-        "fr-FR": "Chapitre III. L'office du Directeur du chœur et des cérémonies"
+        "fr-FR": "Chapitre III. L'office du Directeur du chœur et des cérémonies",
+        "pt-BR": "Capítulo III. O ofício do Diretor do coro e das cerimônias"
       }
     },
     {
       "id": "const-106",
       "title": {
-        "fr-FR": "Chapitre IV. L'office du Directeur des Retraites"
+        "fr-FR": "Chapitre IV. L'office du Directeur des Retraites",
+        "pt-BR": "Capítulo IV. O ofício do Diretor dos Retiros"
       }
     },
     {
       "id": "const-107",
       "title": {
-        "fr-FR": "Chapitre V. Diverses matières de Méditation"
+        "fr-FR": "Chapitre V. Diverses matières de Méditation",
+        "pt-BR": "Capítulo V. Diversas matérias de Meditação"
       }
     },
     {
       "id": "const-108",
       "title": {
-        "fr-FR": "Chapitre VI. L'Office du Préfet de la Bibliothèque"
+        "fr-FR": "Chapitre VI. L'Office du Préfet de la Bibliothèque",
+        "pt-BR": "Capítulo VI. O Ofício do Prefeito da Biblioteca"
       }
     },
     {
       "id": "const-109",
       "title": {
-        "fr-FR": "Chapitre VII. Pour celui qui fait la lecture au réfectoire: Dispositions intérieures avec lesquelles il faut faire cette action"
+        "fr-FR": "Chapitre VII. Pour celui qui fait la lecture au réfectoire: Dispositions intérieures avec lesquelles il faut faire cette action",
+        "pt-BR": "Capítulo VII. Para aquele que faz a leitura no refeitório: Disposições interiores com as quais se deve realizar essa ação"
       }
     },
     {
       "id": "const-110",
       "title": {
-        "fr-FR": "Chapitre VIII. Pour ceux qui servent au réfectoire: Trois dispositions intérieures avec lesquelles il faut faire cette"
+        "fr-FR": "Chapitre VIII. Pour ceux qui servent au réfectoire: Trois dispositions intérieures avec lesquelles il faut faire cette",
+        "pt-BR": "Capítulo VIII. Para aqueles que servem no refeitório: Três disposições interiores com as quais se deve realizar essa"
       }
     },
     {
       "id": "const-111",
       "title": {
-        "fr-FR": "Chapitre IX. L'office du Préfet de la santé"
+        "fr-FR": "Chapitre IX. L'office du Préfet de la santé",
+        "pt-BR": "Capítulo IX. O ofício do Prefeito da saúde"
       }
     },
     {
       "id": "const-112",
       "title": {
-        "fr-FR": "Chapitre X. L'office de l'Infirmier"
+        "fr-FR": "Chapitre X. L'office de l'Infirmier",
+        "pt-BR": "Capítulo X. O ofício do Enfermeiro"
       }
     },
     {
       "id": "const-113",
       "title": {
-        "fr-FR": "Chapitre XI. L'office du Dépensier"
+        "fr-FR": "Chapitre XI. L'office du Dépensier",
+        "pt-BR": "Capítulo XI. O ofício do Despenseiro"
       }
     },
     {
       "id": "const-114",
       "title": {
-        "fr-FR": "Chapitre XII. L'office du Vêtier"
+        "fr-FR": "Chapitre XII. L'office du Vêtier",
+        "pt-BR": "Capítulo XII. O ofício do Encarregado do vestuário"
       }
     },
     {
       "id": "const-115",
       "title": {
-        "fr-FR": "Chapitre XIII. L'office du Linger"
+        "fr-FR": "Chapitre XIII. L'office du Linger",
+        "pt-BR": "Capítulo XIII. O ofício do Encarregado da rouparia"
       }
     },
     {
       "id": "const-116",
       "title": {
-        "fr-FR": "Chapitre XIV. L'office du Réfectorier"
+        "fr-FR": "Chapitre XIV. L'office du Réfectorier",
+        "pt-BR": "Capítulo XIV. O ofício do Encarregado do refeitório"
       }
     },
     {
       "id": "const-117",
       "title": {
-        "fr-FR": "Chapitre XV. L'office du Jardinier"
+        "fr-FR": "Chapitre XV. L'office du Jardinier",
+        "pt-BR": "Capítulo XV. O ofício do Jardineiro"
       }
     },
     {
       "id": "const-118",
       "title": {
-        "fr-FR": "Chapitre XVI. L'office de l'Acheteur"
+        "fr-FR": "Chapitre XVI. L'office de l'Acheteur",
+        "pt-BR": "Capítulo XVI. O ofício do Comprador"
       }
     },
     {
       "id": "const-119",
       "title": {
-        "fr-FR": "Chapitre XVII. L'office du Portier"
+        "fr-FR": "Chapitre XVII. L'office du Portier",
+        "pt-BR": "Capítulo XVII. O ofício do Porteiro"
       }
     },
     {
       "id": "const-120",
       "title": {
-        "fr-FR": "Chapitre XVIII. L'office du Cuisinier"
+        "fr-FR": "Chapitre XVIII. L'office du Cuisinier",
+        "pt-BR": "Capítulo XVIII. O ofício do Cozinheiro"
       }
     },
     {
       "id": "const-121",
       "title": {
-        "fr-FR": "Chapitre XIX. L'office de celui qui doit éveiller au matin"
+        "fr-FR": "Chapitre XIX. L'office de celui qui doit éveiller au matin",
+        "pt-BR": "Capítulo XIX. O ofício daquele que deve despertar pela manhã"
       }
     },
     {
       "id": "const-122",
       "title": {
-        "fr-FR": "Chapitre XX. L'office de celui qui doit visiter les chambres au soir, après le signal de la retraite"
+        "fr-FR": "Chapitre XX. L'office de celui qui doit visiter les chambres au soir, après le signal de la retraite",
+        "pt-BR": "Capítulo XX. O ofício daquele que deve visitar os quartos à noite, depois do sinal de recolhimento"
       }
     },
     {
       "id": "const-123",
       "title": {
-        "fr-FR": "Chapitre XXI. Pour ce qui concerne les Frères domestiques"
+        "fr-FR": "Chapitre XXI. Pour ce qui concerne les Frères domestiques",
+        "pt-BR": "Capítulo XXI. Sobre o que diz respeito aos Irmãos domésticos"
       }
     },
     {
       "id": "const-124",
       "title": {
-        "fr-FR": "Chapitre XXII. L'office des Frères domestiques"
+        "fr-FR": "Chapitre XXII. L'office des Frères domestiques",
+        "pt-BR": "Capítulo XXII. O ofício dos Irmãos domésticos"
       }
     },
     {
       "id": "const-125",
       "title": {
-        "fr-FR": "Chapitre XXIII. L'office du Directeur des Frères domestiques"
+        "fr-FR": "Chapitre XXIII. L'office du Directeur des Frères domestiques",
+        "pt-BR": "Capítulo XXIII. O ofício do Diretor dos Irmãos domésticos"
       }
     },
     {
       "id": "const-126",
       "title": {
-        "fr-FR": "Chapitre XXIV. A quoi obligent les Constitutions de la Congrégation"
+        "fr-FR": "Chapitre XXIV. A quoi obligent les Constitutions de la Congrégation",
+        "pt-BR": "Capítulo XXIV. A que obrigam as Constituições da Congregação"
       }
     },
     {
       "id": "const-127",
       "title": {
-        "fr-FR": "Chapitre XXV. Qui doit être lu au réfectoire, au commencement de J anvier , de Mai et de Septembre, après: Premier moyen"
+        "fr-FR": "Chapitre XXV. Qui doit être lu au réfectoire, au commencement de J anvier , de Mai et de Septembre, après: Premier moyen",
+        "pt-BR": "Capítulo XXV. Que deve ser lido no refeitório, no começo de Janeiro, de Maio e de Setembro, depois: Primeiro meio"
       }
     }
   ]

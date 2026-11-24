@@ -1,0 +1,5 @@
+# Capítulo IX. Das Orações que se devem fazer quando se sai de casa para ir à cidade e quando se
+
+Quando se precisa sair à cidade, vai-se diante do Santíssimo Sacramento para consagrar a saída e tudo o que se vai fazer à glória da Santíssima Trindade, para oferecê-lo a Nosso Senhor Jesus Cristo, para colocar-se sob a proteção da bem-aventurada Virgem, para invocar a assistência dos Anjos e dos Santos e para receber a bênção do Superior e da Superiora da casa, isto é, de Jesus e de Maria. Para esses fins, diz-se: *Gloria Patri*, etc.; *Gloria tibi Domine*, etc.; *Ave Maria*; *Sub tuum praesidium*, etc.; *Sancti Angeli et omnes Sancti*, etc.; *Benedictum sit*, etc.
+
+Ao voltar, vai-se novamente diante do Santíssimo Sacramento, para adorar e agradecer à Santíssima Trindade e a Nosso Senhor Jesus Cristo, para saudar e agradecer à sagrada Virgem, aos Anjos da Guarda da casa e a todos os Santos. Para isso, diz-se o *Gloria Patri*, o *Gloria tibi Domine*, a *Ave Maria*, o *Avete omnes Angeli* e *Benedictum sit*, etc.
