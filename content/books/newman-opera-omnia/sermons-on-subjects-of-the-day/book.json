@@ -15,13 +15,19 @@
   },
   "composed": "1836-1843",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "newman/sermons-on-subjects-of-the-day",
   "editions": {
     "en-US": {
       "editor": "John Henry Newman (Longmans, uniform edition; Newman Reader)",
       "year": 1843
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,157 +44,183 @@
     {
       "id": "sermon-1",
       "title": {
-        "en-US": "Sermon 1. The Work of the Christian"
+        "en-US": "Sermon 1. The Work of the Christian",
+        "pt-BR": "Sermão 1. A Obra do Cristão"
       }
     },
     {
       "id": "sermon-2",
       "title": {
-        "en-US": "Sermon 2. Saintliness not Forfeited by the Penitent"
+        "en-US": "Sermon 2. Saintliness not Forfeited by the Penitent",
+        "pt-BR": "Sermão 2. O Penitente não Perde a Santidade"
       }
     },
     {
       "id": "sermon-3",
       "title": {
-        "en-US": "Sermon 3. Our Lord's Last Supper and His First"
+        "en-US": "Sermon 3. Our Lord's Last Supper and His First",
+        "pt-BR": "Sermão 3. A Última Ceia de Nosso Senhor e a Primeira"
       }
     },
     {
       "id": "sermon-4",
       "title": {
-        "en-US": "Sermon 4. Dangers to the Penitent"
+        "en-US": "Sermon 4. Dangers to the Penitent",
+        "pt-BR": "Sermão 4. Perigos para o Penitente"
       }
     },
     {
       "id": "sermon-5",
       "title": {
-        "en-US": "Sermon 5. The Three Offices of Christ"
+        "en-US": "Sermon 5. The Three Offices of Christ",
+        "pt-BR": "Sermão 5. Os Três Ofícios de Cristo"
       }
     },
     {
       "id": "sermon-6",
       "title": {
-        "en-US": "Sermon 6. Faith and Experience"
+        "en-US": "Sermon 6. Faith and Experience",
+        "pt-BR": "Sermão 6. Fé e Experiência"
       }
     },
     {
       "id": "sermon-7",
       "title": {
-        "en-US": "Sermon 7. Faith and the World"
+        "en-US": "Sermon 7. Faith and the World",
+        "pt-BR": "Sermão 7. A Fé e o Mundo"
       }
     },
     {
       "id": "sermon-8",
       "title": {
-        "en-US": "Sermon 8. The Church and the World"
+        "en-US": "Sermon 8. The Church and the World",
+        "pt-BR": "Sermão 8. A Igreja e o Mundo"
       }
     },
     {
       "id": "sermon-9",
       "title": {
-        "en-US": "Sermon 9. Indulgence in Religious Privileges"
+        "en-US": "Sermon 9. Indulgence in Religious Privileges",
+        "pt-BR": "Sermão 9. O Usufruto dos Privilégios Religiosos"
       }
     },
     {
       "id": "sermon-10",
       "title": {
-        "en-US": "Sermon 10. Connexion between Personal and Public Improvement"
+        "en-US": "Sermon 10. Connexion between Personal and Public Improvement",
+        "pt-BR": "Sermão 10. Relação entre o Aperfeiçoamento Pessoal e o Público"
       }
     },
     {
       "id": "sermon-11",
       "title": {
-        "en-US": "Sermon 11. Christian Nobleness"
+        "en-US": "Sermon 11. Christian Nobleness",
+        "pt-BR": "Sermão 11. A Nobreza Cristã"
       }
     },
     {
       "id": "sermon-12",
       "title": {
-        "en-US": "Sermon 12. Joshua a Type of Christ and His Followers"
+        "en-US": "Sermon 12. Joshua a Type of Christ and His Followers",
+        "pt-BR": "Sermão 12. Josué como Figura de Cristo e de seus Seguidores"
       }
     },
     {
       "id": "sermon-13",
       "title": {
-        "en-US": "Sermon 13. Elisha a Type of Christ and His Followers"
+        "en-US": "Sermon 13. Elisha a Type of Christ and His Followers",
+        "pt-BR": "Sermão 13. Eliseu como Figura de Cristo e de seus Seguidores"
       }
     },
     {
       "id": "sermon-14",
       "title": {
-        "en-US": "Sermon 14. The Christian Church a Continuation of the Jewish"
+        "en-US": "Sermon 14. The Christian Church a Continuation of the Jewish",
+        "pt-BR": "Sermão 14. A Igreja Cristã como Continuação da Judaica"
       }
     },
     {
       "id": "sermon-15",
       "title": {
-        "en-US": "Sermon 15. The Principle of Continuity between the Jewish and Christian Churches"
+        "en-US": "Sermon 15. The Principle of Continuity between the Jewish and Christian Churches",
+        "pt-BR": "Sermão 15. O Princípio de Continuidade entre as Igrejas Judaica e Cristã"
       }
     },
     {
       "id": "sermon-16",
       "title": {
-        "en-US": "Sermon 16. The Christian Church an Imperial Power"
+        "en-US": "Sermon 16. The Christian Church an Imperial Power",
+        "pt-BR": "Sermão 16. A Igreja Cristã como Poder Imperial"
       }
     },
     {
       "id": "sermon-17",
       "title": {
-        "en-US": "Sermon 17. Sanctity the Token of the Christian Empire"
+        "en-US": "Sermon 17. Sanctity the Token of the Christian Empire",
+        "pt-BR": "Sermão 17. A Santidade como Sinal do Império Cristão"
       }
     },
     {
       "id": "sermon-18",
       "title": {
-        "en-US": "Sermon 18. Condition of the Members of the Christian Empire"
+        "en-US": "Sermon 18. Condition of the Members of the Christian Empire",
+        "pt-BR": "Sermão 18. A Condição dos Membros do Império Cristão"
       }
     },
     {
       "id": "sermon-19",
       "title": {
-        "en-US": "Sermon 19. The Apostolical Christian"
+        "en-US": "Sermon 19. The Apostolical Christian",
+        "pt-BR": "Sermão 19. O Cristão Apostólico"
       }
     },
     {
       "id": "sermon-20",
       "title": {
-        "en-US": "Sermon 20. Wisdom and Innocence"
+        "en-US": "Sermon 20. Wisdom and Innocence",
+        "pt-BR": "Sermão 20. Sabedoria e Inocência"
       }
     },
     {
       "id": "sermon-21",
       "title": {
-        "en-US": "Sermon 21. Invisible Presence of Christ"
+        "en-US": "Sermon 21. Invisible Presence of Christ",
+        "pt-BR": "Sermão 21. A Presença Invisível de Cristo"
       }
     },
     {
       "id": "sermon-22",
       "title": {
-        "en-US": "Sermon 22. Outward and Inward Notes of the Church"
+        "en-US": "Sermon 22. Outward and Inward Notes of the Church",
+        "pt-BR": "Sermão 22. Os Sinais Exteriores e Interiores da Igreja"
       }
     },
     {
       "id": "sermon-23",
       "title": {
-        "en-US": "Sermon 23. Grounds for Steadfastness in our Religious Profession"
+        "en-US": "Sermon 23. Grounds for Steadfastness in our Religious Profession",
+        "pt-BR": "Sermão 23. Razões para a Firmeza em Nossa Profissão Religiosa"
       }
     },
     {
       "id": "sermon-24",
       "title": {
-        "en-US": "Sermon 24. Elijah the Prophet of the Latter Days"
+        "en-US": "Sermon 24. Elijah the Prophet of the Latter Days",
+        "pt-BR": "Sermão 24. Elias, o Profeta dos Últimos Dias"
       }
     },
     {
       "id": "sermon-25",
       "title": {
-        "en-US": "Sermon 25. Feasting in Captivity"
+        "en-US": "Sermon 25. Feasting in Captivity",
+        "pt-BR": "Sermão 25. Festejar no Cativeiro"
       }
     },
     {
       "id": "sermon-26",
       "title": {
-        "en-US": "Sermon 26. The Parting of Friends"
+        "en-US": "Sermon 26. The Parting of Friends",
+        "pt-BR": "Sermão 26. A Separação dos Amigos"
       }
     }
   ]
