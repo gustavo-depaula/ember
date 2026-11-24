@@ -18,13 +18,19 @@
   },
   "composed": 1637,
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "john-eudes/vie-et-royaume-de-jesus",
   "editions": {
     "fr-FR": {
       "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
       "year": 1905
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,247 +47,288 @@
     {
       "id": "vie-01",
       "title": {
-        "fr-FR": "Introduction (1): I.- importance du « royaume de jésus »"
+        "fr-FR": "Introduction (1): I.- importance du « royaume de jésus »",
+        "pt-BR": "Introdução (1): I.- importância do “reino de Jesus”"
       }
     },
     {
       "id": "vie-02",
       "title": {
-        "fr-FR": "Introduction (2): L'oblation de soi-même à Jésus"
+        "fr-FR": "Introduction (2): L'oblation de soi-même à Jésus",
+        "pt-BR": "Introdução (2): A oblação de si mesmo a Jesus"
       }
     },
     {
       "id": "vie-03",
       "title": {
-        "fr-FR": "Introduction (3): Jésus en toutes choses"
+        "fr-FR": "Introduction (3): Jésus en toutes choses",
+        "pt-BR": "Introdução (3): Jesus em todas as coisas"
       }
     },
     {
       "id": "vie-04",
       "title": {
-        "fr-FR": "Introduction (4): I v . - les sources du « royaume de jésus »"
+        "fr-FR": "Introduction (4): I v . - les sources du « royaume de jésus »",
+        "pt-BR": "Introdução (4): IV.- as fontes do “reino de Jesus”"
       }
     },
     {
       "id": "vie-05",
       "title": {
-        "fr-FR": "Introduction (5): Les éditions du « royaume de jésus»"
+        "fr-FR": "Introduction (5): Les éditions du « royaume de jésus»",
+        "pt-BR": "Introdução (5): As edições do “reino de Jesus”"
       }
     },
     {
       "id": "vie-06",
       "title": {
-        "fr-FR": "Introduction (6): A p p r o b a ti o n s"
+        "fr-FR": "Introduction (6): A p p r o b a ti o n s",
+        "pt-BR": "Introdução (6): Aprovações"
       }
     },
     {
       "id": "vie-07",
       "title": {
-        "fr-FR": "Introduction (7): Jean eudes,"
+        "fr-FR": "Introduction (7): Jean eudes,",
+        "pt-BR": "Introdução (7): João Eudes,"
       }
     },
     {
       "id": "vie-08",
       "title": {
-        "fr-FR": "Première partie (1): Régner jésus en nous"
+        "fr-FR": "Première partie (1): Régner jésus en nous",
+        "pt-BR": "Primeira parte (1): Reinar Jesus em nós"
       }
     },
     {
       "id": "vie-09",
       "title": {
-        "fr-FR": "Première partie (2): Exercice durant la journée"
+        "fr-FR": "Première partie (2): Exercice durant la journée",
+        "pt-BR": "Primeira parte (2): Exercício durante o dia"
       }
     },
     {
       "id": "vie-10",
       "title": {
-        "fr-FR": "Première partie (3): Ce qu'il faut faire devant la confession"
+        "fr-FR": "Première partie (3): Ce qu'il faut faire devant la confession",
+        "pt-BR": "Primeira parte (3): O que é preciso fazer antes da confissão"
       }
     },
     {
       "id": "vie-11",
       "title": {
-        "fr-FR": "Première partie (4): Pour la sainte communion"
+        "fr-FR": "Première partie (4): Pour la sainte communion",
+        "pt-BR": "Primeira parte (4): Para a santa comunhão"
       }
     },
     {
       "id": "vie-12",
       "title": {
-        "fr-FR": "Première partie (5): Professions chrétiennes"
+        "fr-FR": "Première partie (5): Professions chrétiennes",
+        "pt-BR": "Primeira parte (5): Profissões cristãs"
       }
     },
     {
       "id": "vie-13",
       "title": {
-        "fr-FR": "Seconde partie (1): Que le vie chrétienne doit être une continuation de la très sainte"
+        "fr-FR": "Seconde partie (1): Que le vie chrétienne doit être une continuation de la très sainte",
+        "pt-BR": "Segunda parte (1): Que a vida cristã deve ser uma continuação da santíssima"
       }
     },
     {
       "id": "vie-14",
       "title": {
-        "fr-FR": "Seconde partie (2)"
+        "fr-FR": "Seconde partie (2)",
+        "pt-BR": "Segunda parte (2)"
       }
     },
     {
       "id": "vie-15",
       "title": {
-        "fr-FR": "Seconde partie (3)"
+        "fr-FR": "Seconde partie (3)",
+        "pt-BR": "Segunda parte (3)"
       }
     },
     {
       "id": "vie-16",
       "title": {
-        "fr-FR": "Seconde partie (4): Des vertus chrétiennes"
+        "fr-FR": "Seconde partie (4): Des vertus chrétiennes",
+        "pt-BR": "Segunda parte (4): Das virtudes cristãs"
       }
     },
     {
       "id": "vie-17",
       "title": {
-        "fr-FR": "Seconde partie (5): De l'humilité de cœur"
+        "fr-FR": "Seconde partie (5): De l'humilité de cœur",
+        "pt-BR": "Segunda parte (5): Da humildade de coração"
       }
     },
     {
       "id": "vie-18",
       "title": {
-        "fr-FR": "Seconde partie (6): Ps. XXXII, 22"
+        "fr-FR": "Seconde partie (6): Ps. XXXII, 22",
+        "pt-BR": "Segunda parte (6): Salmos XXXII:22"
       }
     },
     {
       "id": "vie-19",
       "title": {
-        "fr-FR": "Seconde partie (7): Pratique de la parfaite soumission chrétienne"
+        "fr-FR": "Seconde partie (7): Pratique de la parfaite soumission chrétienne",
+        "pt-BR": "Segunda parte (7): Prática da perfeita submissão cristã"
       }
     },
     {
       "id": "vie-20",
       "title": {
-        "fr-FR": "Seconde partie (8): De la formation de Jésus en nous"
+        "fr-FR": "Seconde partie (8): De la formation de Jésus en nous",
+        "pt-BR": "Segunda parte (8): Da formação de Jesus em nós"
       }
     },
     {
       "id": "vie-21",
       "title": {
-        "fr-FR": "Seconde partie (9)"
+        "fr-FR": "Seconde partie (9)",
+        "pt-BR": "Segunda parte (9)"
       }
     },
     {
       "id": "vie-22",
       "title": {
-        "fr-FR": "Troisième partie (1)"
+        "fr-FR": "Troisième partie (1)",
+        "pt-BR": "Terceira parte (1)"
       }
     },
     {
       "id": "vie-23",
       "title": {
-        "fr-FR": "Troisième partie (2)"
+        "fr-FR": "Troisième partie (2)",
+        "pt-BR": "Terceira parte (2)"
       }
     },
     {
       "id": "vie-24",
       "title": {
-        "fr-FR": "Troisième partie (3): De la dévotion vers la tres sainte vierge"
+        "fr-FR": "Troisième partie (3): De la dévotion vers la tres sainte vierge",
+        "pt-BR": "Terceira parte (3): Da devoção à Santíssima Virgem"
       }
     },
     {
       "id": "vie-25",
       "title": {
-        "fr-FR": "Troisième partie (4): Excellence et pratique de la Retraite annuelle"
+        "fr-FR": "Troisième partie (4): Excellence et pratique de la Retraite annuelle",
+        "pt-BR": "Terceira parte (4): Excelência e prática do Retiro anual"
       }
     },
     {
       "id": "vie-26",
       "title": {
-        "fr-FR": "Troisième partie (5): Comme il faut finir l'année avec Jésus"
+        "fr-FR": "Troisième partie (5): Comme il faut finir l'année avec Jésus",
+        "pt-BR": "Terceira parte (5): Como é preciso terminar o ano com Jesus"
       }
     },
     {
       "id": "vie-27",
       "title": {
-        "fr-FR": "Quatrième partie (1): Ce qu'il faut faire au premier et dernier jour du mois"
+        "fr-FR": "Quatrième partie (1): Ce qu'il faut faire au premier et dernier jour du mois",
+        "pt-BR": "Quarta parte (1): O que é preciso fazer no primeiro e no último dia do mês"
       }
     },
     {
       "id": "vie-28",
       "title": {
-        "fr-FR": "Quatrième partie (2)"
+        "fr-FR": "Quatrième partie (2)",
+        "pt-BR": "Quarta parte (2)"
       }
     },
     {
       "id": "vie-29",
       "title": {
-        "fr-FR": "Quatrième partie (3): Qu'il est bon de prendre un Saint en chaque mois, pour nous aider"
+        "fr-FR": "Quatrième partie (3): Qu'il est bon de prendre un Saint en chaque mois, pour nous aider",
+        "pt-BR": "Quarta parte (3): Que é bom escolher um Santo a cada mês, para nos ajudar"
       }
     },
     {
       "id": "vie-30",
       "title": {
-        "fr-FR": "Cinquième partie (1): De trois jours de la semaine que nous devons employer avec plus"
+        "fr-FR": "Cinquième partie (1): De trois jours de la semaine que nous devons employer avec plus",
+        "pt-BR": "Quinta parte (1): De três dias da semana que devemos empregar com mais"
       }
     },
     {
       "id": "vie-31",
       "title": {
-        "fr-FR": "Cinquième partie (2)"
+        "fr-FR": "Cinquième partie (2)",
+        "pt-BR": "Quinta parte (2)"
       }
     },
     {
       "id": "vie-32",
       "title": {
-        "fr-FR": "Sixième partie (1): Saintement, et pour faire vivre et régner jésus en nous"
+        "fr-FR": "Sixième partie (1): Saintement, et pour faire vivre et régner jésus en nous",
+        "pt-BR": "Sexta parte (1): Santamente, e para fazer viver e reinar Jesus em nós"
       }
     },
     {
       "id": "vie-33",
       "title": {
-        "fr-FR": "Sixième partie (2): Ce qu'il faut faire pour assister dignement au saint sacrifice"
+        "fr-FR": "Sixième partie (2): Ce qu'il faut faire pour assister dignement au saint sacrifice",
+        "pt-BR": "Sexta parte (2): O que é preciso fazer para assistir dignamente ao santo sacrifício"
       }
     },
     {
       "id": "vie-34",
       "title": {
-        "fr-FR": "Sixième partie (3): De la préparation qui est requise pour le dire saintement"
+        "fr-FR": "Sixième partie (3): De la préparation qui est requise pour le dire saintement",
+        "pt-BR": "Sexta parte (3): Da preparação necessária para recitá-lo santamente"
       }
     },
     {
       "id": "vie-35",
       "title": {
-        "fr-FR": "Sixième partie (4): Que l'usage en est très saint et agréable"
+        "fr-FR": "Sixième partie (4): Que l'usage en est très saint et agréable",
+        "pt-BR": "Sexta parte (4): Que seu uso é muito santo e agradável"
       }
     },
     {
       "id": "vie-36",
       "title": {
-        "fr-FR": "Septième partie (1): Des devoirs que nous aurions dû rendre à Dieu au moment de notre"
+        "fr-FR": "Septième partie (1): Des devoirs que nous aurions dû rendre à Dieu au moment de notre",
+        "pt-BR": "Sétima parte (1): Dos deveres que deveríamos ter cumprido para com Deus no momento de nossa"
       }
     },
     {
       "id": "vie-37",
       "title": {
-        "fr-FR": "Septième partie (2): Élévation à Jésus, pour renouveler la profession que nous avons faite"
+        "fr-FR": "Septième partie (2): Élévation à Jésus, pour renouveler la profession que nous avons faite",
+        "pt-BR": "Sétima parte (2): Elevação a Jesus, para renovar a profissão que fizemos"
       }
     },
     {
       "id": "vie-38",
       "title": {
-        "fr-FR": "Septième partie (3): Pour le second jour"
+        "fr-FR": "Septième partie (3): Pour le second jour",
+        "pt-BR": "Sétima parte (3): Para o segundo dia"
       }
     },
     {
       "id": "vie-39",
       "title": {
-        "fr-FR": "Septième partie (4): Du testament de Jésus et de celui qu'il nous faut faire en l'honneur"
+        "fr-FR": "Septième partie (4): Du testament de Jésus et de celui qu'il nous faut faire en l'honneur",
+        "pt-BR": "Sétima parte (4): Do testamento de Jesus e daquele que devemos fazer em honra"
       }
     },
     {
       "id": "vie-40",
       "title": {
-        "fr-FR": "Septième partie (5): Du Jugement particulier qui se fait à l'heure de la mort"
+        "fr-FR": "Septième partie (5): Du Jugement particulier qui se fait à l'heure de la mort",
+        "pt-BR": "Sétima parte (5): Do Juízo particular que se realiza na hora da morte"
       }
     },
     {
       "id": "vie-41",
       "title": {
-        "fr-FR": "Septième partie (6): Pour le dixieme jour"
+        "fr-FR": "Septième partie (6): Pour le dixieme jour",
+        "pt-BR": "Sétima parte (6): Para o décimo dia"
       }
     }
   ]
