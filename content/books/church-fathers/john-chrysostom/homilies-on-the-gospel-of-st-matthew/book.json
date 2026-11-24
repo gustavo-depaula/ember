@@ -2,13 +2,16 @@
   "id": "john-chrysostom-homilies-on-the-gospel-of-st-matthew",
   "cover": "quarter",
   "name": {
-    "en-US": "Homilies on the Gospel of St. Matthew"
+    "en-US": "Homilies on the Gospel of St. Matthew",
+    "pt-BR": "Homilias sobre o Evangelho de São Mateus"
   },
   "author": {
-    "en-US": "John Chrysostom"
+    "en-US": "John Chrysostom",
+    "pt-BR": "João Crisóstomo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,546 +24,645 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Homily 1"
+        "en-US": "Homily 1",
+        "pt-BR": "Homilia 1"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Homily 2"
+        "en-US": "Homily 2",
+        "pt-BR": "Homilia 2"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Homily 3"
+        "en-US": "Homily 3",
+        "pt-BR": "Homilia 3"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Homily 4"
+        "en-US": "Homily 4",
+        "pt-BR": "Homilia 4"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "Homily 5"
+        "en-US": "Homily 5",
+        "pt-BR": "Homilia 5"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "Homily 6"
+        "en-US": "Homily 6",
+        "pt-BR": "Homilia 6"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "en-US": "Homily 7"
+        "en-US": "Homily 7",
+        "pt-BR": "Homilia 7"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "en-US": "Homily 8"
+        "en-US": "Homily 8",
+        "pt-BR": "Homilia 8"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "en-US": "Homily 9"
+        "en-US": "Homily 9",
+        "pt-BR": "Homilia 9"
       }
     },
     {
       "id": "ch010",
       "title": {
-        "en-US": "Homily 10"
+        "en-US": "Homily 10",
+        "pt-BR": "Homilia 10"
       }
     },
     {
       "id": "ch011",
       "title": {
-        "en-US": "Homily 11"
+        "en-US": "Homily 11",
+        "pt-BR": "Homilia 11"
       }
     },
     {
       "id": "ch012",
       "title": {
-        "en-US": "Homily 12"
+        "en-US": "Homily 12",
+        "pt-BR": "Homilia 12"
       }
     },
     {
       "id": "ch013",
       "title": {
-        "en-US": "Homily 13"
+        "en-US": "Homily 13",
+        "pt-BR": "Homilia 13"
       }
     },
     {
       "id": "ch014",
       "title": {
-        "en-US": "Homily 14"
+        "en-US": "Homily 14",
+        "pt-BR": "Homilia 14"
       }
     },
     {
       "id": "ch015",
       "title": {
-        "en-US": "Homily 15"
+        "en-US": "Homily 15",
+        "pt-BR": "Homilia 15"
       }
     },
     {
       "id": "ch016",
       "title": {
-        "en-US": "Homily 16"
+        "en-US": "Homily 16",
+        "pt-BR": "Homilia 16"
       }
     },
     {
       "id": "ch017",
       "title": {
-        "en-US": "Homily 17"
+        "en-US": "Homily 17",
+        "pt-BR": "Homilia 17"
       }
     },
     {
       "id": "ch018",
       "title": {
-        "en-US": "Homily 18"
+        "en-US": "Homily 18",
+        "pt-BR": "Homilia 18"
       }
     },
     {
       "id": "ch019",
       "title": {
-        "en-US": "Homily 19"
+        "en-US": "Homily 19",
+        "pt-BR": "Homilia 19"
       }
     },
     {
       "id": "ch020",
       "title": {
-        "en-US": "Homily 20"
+        "en-US": "Homily 20",
+        "pt-BR": "Homilia 20"
       }
     },
     {
       "id": "ch021",
       "title": {
-        "en-US": "Homily 21"
+        "en-US": "Homily 21",
+        "pt-BR": "Homilia 21"
       }
     },
     {
       "id": "ch022",
       "title": {
-        "en-US": "Homily 22"
+        "en-US": "Homily 22",
+        "pt-BR": "Homilia 22"
       }
     },
     {
       "id": "ch023",
       "title": {
-        "en-US": "Homily 23"
+        "en-US": "Homily 23",
+        "pt-BR": "Homilia 23"
       }
     },
     {
       "id": "ch024",
       "title": {
-        "en-US": "Homily 24"
+        "en-US": "Homily 24",
+        "pt-BR": "Homilia 24"
       }
     },
     {
       "id": "ch025",
       "title": {
-        "en-US": "Homily 25"
+        "en-US": "Homily 25",
+        "pt-BR": "Homilia 25"
       }
     },
     {
       "id": "ch026",
       "title": {
-        "en-US": "Homily 26"
+        "en-US": "Homily 26",
+        "pt-BR": "Homilia 26"
       }
     },
     {
       "id": "ch027",
       "title": {
-        "en-US": "Homily 27"
+        "en-US": "Homily 27",
+        "pt-BR": "Homilia 27"
       }
     },
     {
       "id": "ch028",
       "title": {
-        "en-US": "Homily 28"
+        "en-US": "Homily 28",
+        "pt-BR": "Homilia 28"
       }
     },
     {
       "id": "ch029",
       "title": {
-        "en-US": "Homily 29"
+        "en-US": "Homily 29",
+        "pt-BR": "Homilia 29"
       }
     },
     {
       "id": "ch030",
       "title": {
-        "en-US": "Homily 30"
+        "en-US": "Homily 30",
+        "pt-BR": "Homilia 30"
       }
     },
     {
       "id": "ch031",
       "title": {
-        "en-US": "Homily 31"
+        "en-US": "Homily 31",
+        "pt-BR": "Homilia 31"
       }
     },
     {
       "id": "ch032",
       "title": {
-        "en-US": "Homily 32"
+        "en-US": "Homily 32",
+        "pt-BR": "Homilia 32"
       }
     },
     {
       "id": "ch033",
       "title": {
-        "en-US": "Homily 33"
+        "en-US": "Homily 33",
+        "pt-BR": "Homilia 33"
       }
     },
     {
       "id": "ch034",
       "title": {
-        "en-US": "Homily 34"
+        "en-US": "Homily 34",
+        "pt-BR": "Homilia 34"
       }
     },
     {
       "id": "ch035",
       "title": {
-        "en-US": "Homily 35"
+        "en-US": "Homily 35",
+        "pt-BR": "Homilia 35"
       }
     },
     {
       "id": "ch036",
       "title": {
-        "en-US": "Homily 36"
+        "en-US": "Homily 36",
+        "pt-BR": "Homilia 36"
       }
     },
     {
       "id": "ch037",
       "title": {
-        "en-US": "Homily 37"
+        "en-US": "Homily 37",
+        "pt-BR": "Homilia 37"
       }
     },
     {
       "id": "ch038",
       "title": {
-        "en-US": "Homily 38"
+        "en-US": "Homily 38",
+        "pt-BR": "Homilia 38"
       }
     },
     {
       "id": "ch039",
       "title": {
-        "en-US": "Homily 39"
+        "en-US": "Homily 39",
+        "pt-BR": "Homilia 39"
       }
     },
     {
       "id": "ch040",
       "title": {
-        "en-US": "Homily 40"
+        "en-US": "Homily 40",
+        "pt-BR": "Homilia 40"
       }
     },
     {
       "id": "ch041",
       "title": {
-        "en-US": "Homily 41"
+        "en-US": "Homily 41",
+        "pt-BR": "Homilia 41"
       }
     },
     {
       "id": "ch042",
       "title": {
-        "en-US": "Homily 42"
+        "en-US": "Homily 42",
+        "pt-BR": "Homilia 42"
       }
     },
     {
       "id": "ch043",
       "title": {
-        "en-US": "Homily 43"
+        "en-US": "Homily 43",
+        "pt-BR": "Homilia 43"
       }
     },
     {
       "id": "ch044",
       "title": {
-        "en-US": "Homily 44"
+        "en-US": "Homily 44",
+        "pt-BR": "Homilia 44"
       }
     },
     {
       "id": "ch045",
       "title": {
-        "en-US": "Homily 45"
+        "en-US": "Homily 45",
+        "pt-BR": "Homilia 45"
       }
     },
     {
       "id": "ch046",
       "title": {
-        "en-US": "Homily 46"
+        "en-US": "Homily 46",
+        "pt-BR": "Homilia 46"
       }
     },
     {
       "id": "ch047",
       "title": {
-        "en-US": "Homily 47"
+        "en-US": "Homily 47",
+        "pt-BR": "Homilia 47"
       }
     },
     {
       "id": "ch048",
       "title": {
-        "en-US": "Homily 48"
+        "en-US": "Homily 48",
+        "pt-BR": "Homilia 48"
       }
     },
     {
       "id": "ch049",
       "title": {
-        "en-US": "Homily 49"
+        "en-US": "Homily 49",
+        "pt-BR": "Homilia 49"
       }
     },
     {
       "id": "ch050",
       "title": {
-        "en-US": "Homily 50"
+        "en-US": "Homily 50",
+        "pt-BR": "Homilia 50"
       }
     },
     {
       "id": "ch051",
       "title": {
-        "en-US": "Homily 51"
+        "en-US": "Homily 51",
+        "pt-BR": "Homilia 51"
       }
     },
     {
       "id": "ch052",
       "title": {
-        "en-US": "Homily 52"
+        "en-US": "Homily 52",
+        "pt-BR": "Homilia 52"
       }
     },
     {
       "id": "ch053",
       "title": {
-        "en-US": "Homily 53"
+        "en-US": "Homily 53",
+        "pt-BR": "Homilia 53"
       }
     },
     {
       "id": "ch054",
       "title": {
-        "en-US": "Homily 54"
+        "en-US": "Homily 54",
+        "pt-BR": "Homilia 54"
       }
     },
     {
       "id": "ch055",
       "title": {
-        "en-US": "Homily 55"
+        "en-US": "Homily 55",
+        "pt-BR": "Homilia 55"
       }
     },
     {
       "id": "ch056",
       "title": {
-        "en-US": "Homily 56"
+        "en-US": "Homily 56",
+        "pt-BR": "Homilia 56"
       }
     },
     {
       "id": "ch057",
       "title": {
-        "en-US": "Homily 57"
+        "en-US": "Homily 57",
+        "pt-BR": "Homilia 57"
       }
     },
     {
       "id": "ch058",
       "title": {
-        "en-US": "Homily 58"
+        "en-US": "Homily 58",
+        "pt-BR": "Homilia 58"
       }
     },
     {
       "id": "ch059",
       "title": {
-        "en-US": "Homily 59"
+        "en-US": "Homily 59",
+        "pt-BR": "Homilia 59"
       }
     },
     {
       "id": "ch060",
       "title": {
-        "en-US": "Homily 60"
+        "en-US": "Homily 60",
+        "pt-BR": "Homilia 60"
       }
     },
     {
       "id": "ch061",
       "title": {
-        "en-US": "Homily 61"
+        "en-US": "Homily 61",
+        "pt-BR": "Homilia 61"
       }
     },
     {
       "id": "ch062",
       "title": {
-        "en-US": "Homily 62"
+        "en-US": "Homily 62",
+        "pt-BR": "Homilia 62"
       }
     },
     {
       "id": "ch063",
       "title": {
-        "en-US": "Homily 63"
+        "en-US": "Homily 63",
+        "pt-BR": "Homilia 63"
       }
     },
     {
       "id": "ch064",
       "title": {
-        "en-US": "Homily 64"
+        "en-US": "Homily 64",
+        "pt-BR": "Homilia 64"
       }
     },
     {
       "id": "ch065",
       "title": {
-        "en-US": "Homily 65"
+        "en-US": "Homily 65",
+        "pt-BR": "Homilia 65"
       }
     },
     {
       "id": "ch066",
       "title": {
-        "en-US": "Homily 66"
+        "en-US": "Homily 66",
+        "pt-BR": "Homilia 66"
       }
     },
     {
       "id": "ch067",
       "title": {
-        "en-US": "Homily 67"
+        "en-US": "Homily 67",
+        "pt-BR": "Homilia 67"
       }
     },
     {
       "id": "ch068",
       "title": {
-        "en-US": "Homily 68"
+        "en-US": "Homily 68",
+        "pt-BR": "Homilia 68"
       }
     },
     {
       "id": "ch069",
       "title": {
-        "en-US": "Homily 69"
+        "en-US": "Homily 69",
+        "pt-BR": "Homilia 69"
       }
     },
     {
       "id": "ch070",
       "title": {
-        "en-US": "Homily 70"
+        "en-US": "Homily 70",
+        "pt-BR": "Homilia 70"
       }
     },
     {
       "id": "ch071",
       "title": {
-        "en-US": "Homily 71"
+        "en-US": "Homily 71",
+        "pt-BR": "Homilia 71"
       }
     },
     {
       "id": "ch072",
       "title": {
-        "en-US": "Homily 72"
+        "en-US": "Homily 72",
+        "pt-BR": "Homilia 72"
       }
     },
     {
       "id": "ch073",
       "title": {
-        "en-US": "Homily 73"
+        "en-US": "Homily 73",
+        "pt-BR": "Homilia 73"
       }
     },
     {
       "id": "ch074",
       "title": {
-        "en-US": "Homily 74"
+        "en-US": "Homily 74",
+        "pt-BR": "Homilia 74"
       }
     },
     {
       "id": "ch075",
       "title": {
-        "en-US": "Homily 75"
+        "en-US": "Homily 75",
+        "pt-BR": "Homilia 75"
       }
     },
     {
       "id": "ch076",
       "title": {
-        "en-US": "Homily 76"
+        "en-US": "Homily 76",
+        "pt-BR": "Homilia 76"
       }
     },
     {
       "id": "ch077",
       "title": {
-        "en-US": "Homily 77"
+        "en-US": "Homily 77",
+        "pt-BR": "Homilia 77"
       }
     },
     {
       "id": "ch078",
       "title": {
-        "en-US": "Homily 78"
+        "en-US": "Homily 78",
+        "pt-BR": "Homilia 78"
       }
     },
     {
       "id": "ch079",
       "title": {
-        "en-US": "Homily 79"
+        "en-US": "Homily 79",
+        "pt-BR": "Homilia 79"
       }
     },
     {
       "id": "ch080",
       "title": {
-        "en-US": "Homily 80"
+        "en-US": "Homily 80",
+        "pt-BR": "Homilia 80"
       }
     },
     {
       "id": "ch081",
       "title": {
-        "en-US": "Homily 81"
+        "en-US": "Homily 81",
+        "pt-BR": "Homilia 81"
       }
     },
     {
       "id": "ch082",
       "title": {
-        "en-US": "Homily 82"
+        "en-US": "Homily 82",
+        "pt-BR": "Homilia 82"
       }
     },
     {
       "id": "ch083",
       "title": {
-        "en-US": "Homily 83"
+        "en-US": "Homily 83",
+        "pt-BR": "Homilia 83"
       }
     },
     {
       "id": "ch084",
       "title": {
-        "en-US": "Homily 84"
+        "en-US": "Homily 84",
+        "pt-BR": "Homilia 84"
       }
     },
     {
       "id": "ch085",
       "title": {
-        "en-US": "Homily 85"
+        "en-US": "Homily 85",
+        "pt-BR": "Homilia 85"
       }
     },
     {
       "id": "ch086",
       "title": {
-        "en-US": "Homily 86"
+        "en-US": "Homily 86",
+        "pt-BR": "Homilia 86"
       }
     },
     {
       "id": "ch087",
       "title": {
-        "en-US": "Homily 87"
+        "en-US": "Homily 87",
+        "pt-BR": "Homilia 87"
       }
     },
     {
       "id": "ch088",
       "title": {
-        "en-US": "Homily 88"
+        "en-US": "Homily 88",
+        "pt-BR": "Homilia 88"
       }
     },
     {
       "id": "ch089",
       "title": {
-        "en-US": "Homily 89"
+        "en-US": "Homily 89",
+        "pt-BR": "Homilia 89"
       }
     },
     {
       "id": "ch090",
       "title": {
-        "en-US": "Homily 90"
+        "en-US": "Homily 90",
+        "pt-BR": "Homilia 90"
       }
     }
   ],
-  "commentsOn": ["matthew"],
+  "commentsOn": [
+    "matthew"
+  ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
