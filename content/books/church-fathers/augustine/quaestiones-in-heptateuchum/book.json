@@ -18,13 +18,19 @@
   },
   "composed": "419",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/quaestiones-in-heptateuchum",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,91 +47,106 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Liber I (Genesis), Quaestiones 1–70"
+        "la": "Liber I (Genesis), Quaestiones 1–70",
+        "pt-BR": "Livro I (Gênesis), Questões 1–70"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "Liber I (Genesis), Quaestiones 71–136"
+        "la": "Liber I (Genesis), Quaestiones 71–136",
+        "pt-BR": "Livro I (Gênesis), Questões 71–136"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "la": "Liber I (Genesis), Quaestiones 137–173"
+        "la": "Liber I (Genesis), Quaestiones 137–173",
+        "pt-BR": "Livro I (Gênesis), Questões 137–173"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "la": "Liber II (Exodus), Quaestiones 1–55"
+        "la": "Liber II (Exodus), Quaestiones 1–55",
+        "pt-BR": "Livro II (Êxodo), Questões 1–55"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "la": "Liber II (Exodus), Quaestiones 56–104"
+        "la": "Liber II (Exodus), Quaestiones 56–104",
+        "pt-BR": "Livro II (Êxodo), Questões 56–104"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "la": "Liber II (Exodus), Quaestiones 105–160"
+        "la": "Liber II (Exodus), Quaestiones 105–160",
+        "pt-BR": "Livro II (Êxodo), Questões 105–160"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "la": "Liber II (Exodus), Quaestiones 161–177"
+        "la": "Liber II (Exodus), Quaestiones 161–177",
+        "pt-BR": "Livro II (Êxodo), Questões 161–177"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "la": "Liber III (Leviticus), Quaestiones 1–33"
+        "la": "Liber III (Leviticus), Quaestiones 1–33",
+        "pt-BR": "Livro III (Levítico), Questões 1–33"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "la": "Liber III (Leviticus), Quaestiones 34–72"
+        "la": "Liber III (Leviticus), Quaestiones 34–72",
+        "pt-BR": "Livro III (Levítico), Questões 34–72"
       }
     },
     {
       "id": "ch010",
       "title": {
-        "la": "Liber III (Leviticus), Quaestiones 73–94"
+        "la": "Liber III (Leviticus), Quaestiones 73–94",
+        "pt-BR": "Livro III (Levítico), Questões 73–94"
       }
     },
     {
       "id": "ch011",
       "title": {
-        "la": "Liber IV (Numeri), Quaestiones 1–33"
+        "la": "Liber IV (Numeri), Quaestiones 1–33",
+        "pt-BR": "Livro IV (Números), Questões 1–33"
       }
     },
     {
       "id": "ch012",
       "title": {
-        "la": "Liber IV (Numeri), Quaestiones 34–65"
+        "la": "Liber IV (Numeri), Quaestiones 34–65",
+        "pt-BR": "Livro IV (Números), Questões 34–65"
       }
     },
     {
       "id": "ch013",
       "title": {
-        "la": "Liber V (Deuteronomium)"
+        "la": "Liber V (Deuteronomium)",
+        "pt-BR": "Livro V (Deuteronômio)"
       }
     },
     {
       "id": "ch014",
       "title": {
-        "la": "Liber VI (Iesus Nave)"
+        "la": "Liber VI (Iesus Nave)",
+        "pt-BR": "Livro VI (Josué)"
       }
     },
     {
       "id": "ch015",
       "title": {
-        "la": "Liber VII (Iudicum), Quaestiones 1–56"
+        "la": "Liber VII (Iudicum), Quaestiones 1–56",
+        "pt-BR": "Livro VII (Juízes), Questões 1–56"
       }
     }
   ],
