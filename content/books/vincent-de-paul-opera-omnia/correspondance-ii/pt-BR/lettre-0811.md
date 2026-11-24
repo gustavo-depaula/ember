@@ -1,0 +1,7 @@
+# Carta 811. Julien Guérin, padre da Missão, a São Vicente
+
+Túnis, junho de 1646.
+
+Dois ingleses se converteram à nossa santa fé e servem de exemplo a todos os outros católicos. Há um terceiro que tem apenas onze anos, uma das mais belas crianças que se possam ver e das mais fervorosas que se possam desejar, além de ser muito devoto da Santíssima Virgem, a quem invoca continuamente para que lhe obtenha a graça de morrer antes de renegar ou ofender Jesus Cristo. Pois esse é o propósito de seu senhor, que só o conserva consigo para fazê-lo renegar a fé cristã e emprega toda sorte de meios para isso. Se nos pudessem enviar duzentas piastras, nós o retiraríamos desse perigo, e haveria motivo para esperar que um dia, com a graça de Deus, fosse um segundo Beda, tanto discernimento e virtude possui, pois nada se vê nele que seja próprio de criança. Fez profissão da fé católica na quinta-feira da Semana Santa da última Quaresma e comungou no mesmo dia, o que repete com frequência. Já foi espancado duas vezes a golpes de bastão para ser obrigado a renegar Jesus Cristo. Da última vez, disse a seu senhor, enquanto este lhe batia: “Corta-me o pescoço, se quiseres, pois sou cristão e nunca serei outra coisa.” Declarou-me várias vezes estar resolvido a deixar-se matar a pancadas e a morrer antes de renunciar a Jesus Cristo. Toda a sua vida é admirável numa idade tão jovem e tão tenra. Posso dizer com verdade que é um pequeno templo onde repousa o Espírito Santo. [^1]
+
+[^1]: Abelly, *op. cit.*, l. II, cap. I, seç. VII, § 10, 1ª ed., p. 133.

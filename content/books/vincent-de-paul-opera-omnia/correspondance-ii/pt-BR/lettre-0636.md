@@ -1,0 +1,5 @@
+# Carta 636. A um padre da Missão
+
+Abraço-vos com toda a ternura de minha alma, considerando a vossa como uma vítima oferecida continuamente à glória de seu soberano Senhor, que trabalha por sua perfeição e pela salvação do próximo. Meu Deus, Senhor, como são bem-aventurados aqueles que se entregam a ele sem reserva para fazer as obras que J. C. fez e para praticar as virtudes que ele praticou, como a pobreza, a obediência, a humildade, a paciência, o zelo e as outras! Pois é assim que são os verdadeiros discípulos de tal mestre. Vivem puramente de seu espírito e difundem, com o perfume de sua vida divina, o mérito de suas santas ações, para a edificação das almas pelas quais ele morreu e ressuscitou. Se, pois, vos considero um de seus bons servidores, não tenho razão de vos amar e estimar nele e de implorar frequentemente, como faço, a continuação de suas graças, para lhe serdes fiel até a consumação dos séculos e serdes depois coroado de sua glória por toda a eternidade? São esses os desejos de meu coração para a felicidade do vosso. [^1]
+
+[^1]: *Cartas escolhidas de São Vicente de Paulo* (Arq. da Missão), carta 36.

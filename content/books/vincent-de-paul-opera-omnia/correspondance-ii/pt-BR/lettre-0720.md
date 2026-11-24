@@ -1,0 +1,7 @@
+# Carta 720. A Bernard Codoing, superior, em Roma
+
+De 6 de agosto de 1644.
+
+Vejo por vossa carta do dia 10 mais um novo projeto de educar as crianças nas letras humanas até a idade de 18 anos e como abandonais o projeto do seminário de eclesiásticos, assim como as propostas relativas aos benefícios a proporcionar à juventude da Catalunha. A esse respeito vos direi, Senhor, o que vos disse outras vezes: receio que vos apresseis demais em todas as coisas. É também o pensamento das pessoas de fora que observam vosso modo de proceder aí; e não vos ocultarei que um senhor de alta condição me disse isso pessoalmente. E isso acontece porque vos ocupais incessantemente com pensamentos e meios de progredir e vos apressais na execução. E, quando empreendeis alguma coisa que não sai a vosso gosto, falais em mudar às primeiras dificuldades que se apresentam. Em nome de Deus, Senhor, pensai nisso e no que vos disse a esse respeito outras vezes, e não vos deixeis levar pela impetuosidade dos movimentos do espírito. O que geralmente nos engana é a aparência do bem segundo a razão humana, que nunca ou raramente alcança a divina. Já vos disse outras vezes, Senhor, que as coisas de Deus se fazem por si mesmas e que a verdadeira sabedoria consiste em seguir a Providência passo a passo. E convencei-vos da verdade de uma máxima que parece um paradoxo: quem se apressa recua nas coisas de Deus. [^1]
+
+[^1]: Reg. 2, p. 227.

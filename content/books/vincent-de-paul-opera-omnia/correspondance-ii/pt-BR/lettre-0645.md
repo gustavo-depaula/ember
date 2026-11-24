@@ -1,0 +1,7 @@
+# Carta 645. As autoridades de Saint-Mihiel, a São Vicente
+
+1643
+
+Todo o corpo da cidade de Saint-Mihiel e todos os seus membros em particular vos dão um milhão de graças pelos esforços e cuidados que vos dignastes tomar para seu alívio, tanto pela distribuição de esmolas e assistência aos pobres doentes e necessitados como por nos aliviar de parte do encargo de nossa guarnição; suplicando-vos muito humildemente que continueis a nos conceder vossa proteção e vossas esmolas, das quais esta pobre e desolada cidade tem tanta necessidade como nunca; sendo bem verdade que, por esse meio, uma infinidade de pessoas estão vivas hoje, que não teriam permanecido assim sem isso; e, se vierem a reduzi-las ou retirá-las inteiramente, será inevitável que grande parte dos habitantes morra de fome ou vá procurar seu sustento em outro lugar; sem falar das distribuições que mandastes fazer aos conventos, por meio das quais em parte subsistiram, e da assistência que tantas outras pessoas envergonhadas de pedir, até mesmo de condição elevada, receberam de vossos padres em suas doenças e necessidades. Não podemos louvar suficientemente os grandes cuidados e o trabalho que tiveram nisso, nem vos pedir com suficiente insistência a continuação dos mesmos auxílios para tantos doentes e necessitados, além da glória e do mérito que disso tereis diante de Deus [^1]
+
+[^1]: Abelly, *op. cit.*, l. II, cap. XI, seç. I, 1ª ed., p. 382
