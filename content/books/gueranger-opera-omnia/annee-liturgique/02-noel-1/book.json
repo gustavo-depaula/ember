@@ -13,17 +13,23 @@
   "description": {
     "fr-FR": "Deuxième volume de l’Année liturgique : historique, mystique et pratique du temps de Noël, le saint jour de Noël, puis les fêtes du 26 décembre à la vigile de l’Épiphanie.",
     "en-US": "Volume 2 of the 15-volume Liturgical Year (L’Année liturgique) in the original French: Christmas, Book I. One chapter per day or feast, with the liturgical texts in Latin and French as the edition prints them.",
-    "pt-BR": "Volume 2 dos 15 volumes de «O Ano Litúrgico» (L’Année liturgique) em francês: o tempo do Natal, I. Um capítulo por dia ou festa, com os textos litúrgicos em latim e francês como a edição os imprime."
+    "pt-BR": "Volume 2 dos 15 volumes de «O Ano Litúrgico» (L’Année liturgique), traduzido do francês: o tempo do Natal, I. Um capítulo por dia ou festa, com os textos litúrgicos em latim e em tradução portuguesa."
   },
   "composed": 1853,
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "gueranger/annee-liturgique",
   "editions": {
     "fr-FR": {
       "editor": "Dom Prosper Guéranger, abbé de Solesmes (14th ed., Oudin)",
       "year": 1900
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -56,139 +62,162 @@
     {
       "id": "001-le-temps-de-noel",
       "title": {
-        "fr-FR": "Le temps de Noël"
+        "fr-FR": "Le temps de Noël",
+        "pt-BR": "O tempo do Natal"
       }
     },
     {
       "id": "002-chapitre-premier-historique-du-temps-de-noel",
       "title": {
-        "fr-FR": "Chapitre premier — Historique du temps de Noël"
+        "fr-FR": "Chapitre premier — Historique du temps de Noël",
+        "pt-BR": "Capítulo primeiro — História do tempo do Natal"
       }
     },
     {
       "id": "003-chapitre-ii-mystique-du-temps-de-noel",
       "title": {
-        "fr-FR": "Chapitre II — Mystique du temps de Noël"
+        "fr-FR": "Chapitre II — Mystique du temps de Noël",
+        "pt-BR": "Capítulo II — Mística do tempo do Natal"
       }
     },
     {
       "id": "004-chapitre-iii-pratique-du-temps-de-noel",
       "title": {
-        "fr-FR": "Chapitre III — Pratique du temps de Noël"
+        "fr-FR": "Chapitre III — Pratique du temps de Noël",
+        "pt-BR": "Capítulo III — Prática do tempo do Natal"
       }
     },
     {
       "id": "005-chapitre-iv-prieres-du-matin-et-du-soir-au-temps",
       "title": {
-        "fr-FR": "Chapitre IV — Prières du matin et du soir, au temps de Noël"
+        "fr-FR": "Chapitre IV — Prières du matin et du soir, au temps de Noël",
+        "pt-BR": "Capítulo IV — Orações da manhã e da noite, no tempo do Natal"
       }
     },
     {
       "id": "006-chapitre-v-de-lassistance-a-la-sainte-messe-au-t",
       "title": {
-        "fr-FR": "Chapitre V — De l’assistance à la Sainte Messe au temps de Noël"
+        "fr-FR": "Chapitre V — De l’assistance à la Sainte Messe au temps de Noël",
+        "pt-BR": "Capítulo V — Da assistência à Santa Missa no tempo do Natal"
       }
     },
     {
       "id": "007-chapitre-vi-pratique-de-la-sainte-communion-au-t",
       "title": {
-        "fr-FR": "Chapitre VI — Pratique de la Sainte Communion au temps de Noël"
+        "fr-FR": "Chapitre VI — Pratique de la Sainte Communion au temps de Noël",
+        "pt-BR": "Capítulo VI — Prática da Santa Comunhão no tempo do Natal"
       }
     },
     {
       "id": "008-chapitre-vii-de-loffice-de-tierce-sexte-et-none",
       "title": {
-        "fr-FR": "Chapitre VII — De l’office de tierce, sexte et none au temps de Noël"
+        "fr-FR": "Chapitre VII — De l’office de tierce, sexte et none au temps de Noël",
+        "pt-BR": "Capítulo VII — Do ofício de terça, sexta e noa no tempo do Natal"
       }
     },
     {
       "id": "009-chapitre-viii-de-loffice-des-vepres-des-dimanche",
       "title": {
-        "fr-FR": "Chapitre VIII — De l’office des vêpres des dimanches et des fêtes, au temps de Noël"
+        "fr-FR": "Chapitre VIII — De l’office des vêpres des dimanches et des fêtes, au temps de Noël",
+        "pt-BR": "Capítulo VIII — Do ofício de vésperas dos domingos e das festas, no tempo do Natal"
       }
     },
     {
       "id": "010-chapitre-ix-de-l-office-de-complies-au-temps-de",
       "title": {
-        "fr-FR": "Chapitre IX — De l’ office de complies, au temps de Noël"
+        "fr-FR": "Chapitre IX — De l’ office de complies, au temps de Noël",
+        "pt-BR": "Capítulo IX — Do ofício de completas, no tempo do Natal"
       }
     },
     {
       "id": "011-introduction",
       "title": {
-        "fr-FR": "Introduction"
+        "fr-FR": "Introduction",
+        "pt-BR": "Introdução"
       }
     },
     {
       "id": "012-26-decembre-saint-etienne-premier-martyr",
       "title": {
-        "fr-FR": "26 décembre — Saint Étienne, premier martyr"
+        "fr-FR": "26 décembre — Saint Étienne, premier martyr",
+        "pt-BR": "26 de dezembro — Santo Estêvão, primeiro mártir"
       }
     },
     {
       "id": "013-27-decembre-saint-jean-apotre-et-evangeliste",
       "title": {
-        "fr-FR": "27 décembre — Saint Jean, Apôtre et Évangéliste"
+        "fr-FR": "27 décembre — Saint Jean, Apôtre et Évangéliste",
+        "pt-BR": "27 de dezembro — São João, Apóstolo e Evangelista"
       }
     },
     {
       "id": "014-28-decembre-les-saints-innocents",
       "title": {
-        "fr-FR": "28 décembre — Les Saints Innocents"
+        "fr-FR": "28 décembre — Les Saints Innocents",
+        "pt-BR": "28 de dezembro — Os Santos Inocentes"
       }
     },
     {
       "id": "015-29-decembre-saint-thomas-archeveque-de-cantorber",
       "title": {
-        "fr-FR": "29 décembre — Saint Thomas, archévêque de cantorbery, et martyr"
+        "fr-FR": "29 décembre — Saint Thomas, archévêque de cantorbery, et martyr",
+        "pt-BR": "29 de dezembro — São Tomás, arcebispo de Cantuária e mártir"
       }
     },
     {
       "id": "016-30-decembre-le-dimanche-dans-loctave-de-noel-ou",
       "title": {
-        "fr-FR": "30 décembre — Le dimanche dans l’octave de Noël ou le sixième jour dans l’octave de Noël"
+        "fr-FR": "30 décembre — Le dimanche dans l’octave de Noël ou le sixième jour dans l’octave de Noël",
+        "pt-BR": "30 de dezembro — O domingo na oitava do Natal ou o sexto dia na oitava do Natal"
       }
     },
     {
       "id": "017-31-decembre-saint-silvestre-pape-et-confesseur",
       "title": {
-        "fr-FR": "31 décembre — Saint Silvestre Pape et confesseur"
+        "fr-FR": "31 décembre — Saint Silvestre Pape et confesseur",
+        "pt-BR": "31 de dezembro — São Silvestre, Papa e confessor"
       }
     },
     {
       "id": "018-1er-janvier-la-circoncision-de-notre-seigneur-et",
       "title": {
-        "fr-FR": "1er janvier — La Circoncision de notre-seigneur et l’octave de Noël"
+        "fr-FR": "1er janvier — La Circoncision de notre-seigneur et l’octave de Noël",
+        "pt-BR": "1º de janeiro — A Circuncisão de nosso Senhor e a oitava do Natal"
       }
     },
     {
       "id": "019-2-janvier-loctave-de-saint-etienne-premier-marty",
       "title": {
-        "fr-FR": "2 janvier — L’octave de Saint Étienne, premier martyr"
+        "fr-FR": "2 janvier — L’octave de Saint Étienne, premier martyr",
+        "pt-BR": "2 de janeiro — A oitava de Santo Estêvão, primeiro mártir"
       }
     },
     {
       "id": "020-3-janvier-loctave-de-saint-jean-apotre-et-evange",
       "title": {
-        "fr-FR": "3 janvier — L’octave de Saint Jean, Apôtre et Évangéliste"
+        "fr-FR": "3 janvier — L’octave de Saint Jean, Apôtre et Évangéliste",
+        "pt-BR": "3 de janeiro — A oitava de São João, Apóstolo e Evangelista"
       }
     },
     {
       "id": "021-3-janvier-sainte-genevieve-vierge-patronne-de-pa",
       "title": {
-        "fr-FR": "3 janvier — Sainte Geneviève Vierge, patronne de paris"
+        "fr-FR": "3 janvier — Sainte Geneviève Vierge, patronne de paris",
+        "pt-BR": "3 de janeiro — Santa Genoveva, Virgem, padroeira de Paris"
       }
     },
     {
       "id": "022-4-janvier-loctave-des-saints-innocents",
       "title": {
-        "fr-FR": "4 janvier — L’octave des Saints Innocents"
+        "fr-FR": "4 janvier — L’octave des Saints Innocents",
+        "pt-BR": "4 de janeiro — A oitava dos Santos Inocentes"
       }
     },
     {
       "id": "023-5-janvier-la-vigile-de-lepiphanie",
       "title": {
-        "fr-FR": "5 janvier — La vigile de l’Épiphanie"
+        "fr-FR": "5 janvier — La vigile de l’Épiphanie",
+        "pt-BR": "5 de janeiro — A vigília da Epifania"
       }
     }
   ]
