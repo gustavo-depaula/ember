@@ -19,7 +19,8 @@
   "composed": "578-595",
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "gregory-the-great/moralia-in-iob",
   "editions": {
@@ -30,6 +31,11 @@
       "translator": "Library of the Fathers (Oxford: Parker, 1844-50), preface by Charles Marriott",
       "year": 1844,
       "from": "la"
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -59,259 +65,296 @@
       "id": "epistola",
       "title": {
         "la": "Epistola ad Leandrum",
-        "en-US": "Epistle to Leander"
+        "en-US": "Epistle to Leander",
+        "pt-BR": "Carta a Leandro"
       }
     },
     {
       "id": "praefatio",
       "title": {
         "la": "Praefatio",
-        "en-US": "Preface"
+        "en-US": "Preface",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "b01",
       "title": {
         "la": "Liber I",
-        "en-US": "Book I"
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
       }
     },
     {
       "id": "b02",
       "title": {
         "la": "Liber II",
-        "en-US": "Book II"
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
       }
     },
     {
       "id": "b03",
       "title": {
         "la": "Liber III",
-        "en-US": "Book III"
+        "en-US": "Book III",
+        "pt-BR": "Livro III"
       }
     },
     {
       "id": "b04",
       "title": {
         "la": "Liber IV",
-        "en-US": "Book IV"
+        "en-US": "Book IV",
+        "pt-BR": "Livro IV"
       }
     },
     {
       "id": "b05",
       "title": {
         "la": "Liber V",
-        "en-US": "Book V"
+        "en-US": "Book V",
+        "pt-BR": "Livro V"
       }
     },
     {
       "id": "b06",
       "title": {
         "la": "Liber VI",
-        "en-US": "Book VI"
+        "en-US": "Book VI",
+        "pt-BR": "Livro VI"
       }
     },
     {
       "id": "b07",
       "title": {
         "la": "Liber VII",
-        "en-US": "Book VII"
+        "en-US": "Book VII",
+        "pt-BR": "Livro VII"
       }
     },
     {
       "id": "b08",
       "title": {
         "la": "Liber VIII",
-        "en-US": "Book VIII"
+        "en-US": "Book VIII",
+        "pt-BR": "Livro VIII"
       }
     },
     {
       "id": "b09",
       "title": {
         "la": "Liber IX",
-        "en-US": "Book IX"
+        "en-US": "Book IX",
+        "pt-BR": "Livro IX"
       }
     },
     {
       "id": "b10",
       "title": {
         "la": "Liber X",
-        "en-US": "Book X"
+        "en-US": "Book X",
+        "pt-BR": "Livro X"
       }
     },
     {
       "id": "b11",
       "title": {
         "la": "Liber XI",
-        "en-US": "Book XI"
+        "en-US": "Book XI",
+        "pt-BR": "Livro XI"
       }
     },
     {
       "id": "b12",
       "title": {
         "la": "Liber XII",
-        "en-US": "Book XII"
+        "en-US": "Book XII",
+        "pt-BR": "Livro XII"
       }
     },
     {
       "id": "b13",
       "title": {
         "la": "Liber XIII",
-        "en-US": "Book XIII"
+        "en-US": "Book XIII",
+        "pt-BR": "Livro XIII"
       }
     },
     {
       "id": "b14",
       "title": {
         "la": "Liber XIV",
-        "en-US": "Book XIV"
+        "en-US": "Book XIV",
+        "pt-BR": "Livro XIV"
       }
     },
     {
       "id": "b15",
       "title": {
         "la": "Liber XV",
-        "en-US": "Book XV"
+        "en-US": "Book XV",
+        "pt-BR": "Livro XV"
       }
     },
     {
       "id": "b16",
       "title": {
         "la": "Liber XVI",
-        "en-US": "Book XVI"
+        "en-US": "Book XVI",
+        "pt-BR": "Livro XVI"
       }
     },
     {
       "id": "b17",
       "title": {
         "la": "Liber XVII",
-        "en-US": "Book XVII"
+        "en-US": "Book XVII",
+        "pt-BR": "Livro XVII"
       }
     },
     {
       "id": "b18",
       "title": {
         "la": "Liber XVIII",
-        "en-US": "Book XVIII"
+        "en-US": "Book XVIII",
+        "pt-BR": "Livro XVIII"
       }
     },
     {
       "id": "b19",
       "title": {
         "la": "Liber XIX",
-        "en-US": "Book XIX"
+        "en-US": "Book XIX",
+        "pt-BR": "Livro XIX"
       }
     },
     {
       "id": "b20",
       "title": {
         "la": "Liber XX",
-        "en-US": "Book XX"
+        "en-US": "Book XX",
+        "pt-BR": "Livro XX"
       }
     },
     {
       "id": "b21",
       "title": {
         "la": "Liber XXI",
-        "en-US": "Book XXI"
+        "en-US": "Book XXI",
+        "pt-BR": "Livro XXI"
       }
     },
     {
       "id": "b22",
       "title": {
         "la": "Liber XXII",
-        "en-US": "Book XXII"
+        "en-US": "Book XXII",
+        "pt-BR": "Livro XXII"
       }
     },
     {
       "id": "b23",
       "title": {
         "la": "Liber XXIII",
-        "en-US": "Book XXIII"
+        "en-US": "Book XXIII",
+        "pt-BR": "Livro XXIII"
       }
     },
     {
       "id": "b24",
       "title": {
         "la": "Liber XXIV",
-        "en-US": "Book XXIV"
+        "en-US": "Book XXIV",
+        "pt-BR": "Livro XXIV"
       }
     },
     {
       "id": "b25",
       "title": {
         "la": "Liber XXV",
-        "en-US": "Book XXV"
+        "en-US": "Book XXV",
+        "pt-BR": "Livro XXV"
       }
     },
     {
       "id": "b26",
       "title": {
         "la": "Liber XXVI",
-        "en-US": "Book XXVI"
+        "en-US": "Book XXVI",
+        "pt-BR": "Livro XXVI"
       }
     },
     {
       "id": "b27",
       "title": {
         "la": "Liber XXVII",
-        "en-US": "Book XXVII"
+        "en-US": "Book XXVII",
+        "pt-BR": "Livro XXVII"
       }
     },
     {
       "id": "b28",
       "title": {
         "la": "Liber XXVIII",
-        "en-US": "Book XXVIII"
+        "en-US": "Book XXVIII",
+        "pt-BR": "Livro XXVIII"
       }
     },
     {
       "id": "b29",
       "title": {
         "la": "Liber XXIX",
-        "en-US": "Book XXIX"
+        "en-US": "Book XXIX",
+        "pt-BR": "Livro XXIX"
       }
     },
     {
       "id": "b30",
       "title": {
         "la": "Liber XXX",
-        "en-US": "Book XXX"
+        "en-US": "Book XXX",
+        "pt-BR": "Livro XXX"
       }
     },
     {
       "id": "b31",
       "title": {
         "la": "Liber XXXI",
-        "en-US": "Book XXXI"
+        "en-US": "Book XXXI",
+        "pt-BR": "Livro XXXI"
       }
     },
     {
       "id": "b32",
       "title": {
         "la": "Liber XXXII",
-        "en-US": "Book XXXII"
+        "en-US": "Book XXXII",
+        "pt-BR": "Livro XXXII"
       }
     },
     {
       "id": "b33",
       "title": {
         "la": "Liber XXXIII",
-        "en-US": "Book XXXIII"
+        "en-US": "Book XXXIII",
+        "pt-BR": "Livro XXXIII"
       }
     },
     {
       "id": "b34",
       "title": {
         "la": "Liber XXXIV",
-        "en-US": "Book XXXIV"
+        "en-US": "Book XXXIV",
+        "pt-BR": "Livro XXXIV"
       }
     },
     {
       "id": "b35",
       "title": {
         "la": "Liber XXXV",
-        "en-US": "Book XXXV"
+        "en-US": "Book XXXV",
+        "pt-BR": "Livro XXXV"
       }
     }
   ]
