@@ -17,13 +17,19 @@
   },
   "composed": 1857,
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "gueranger/annee-liturgique",
   "editions": {
     "fr-FR": {
       "editor": "Dom Prosper Guéranger, abbé de Solesmes (14th ed., Oudin)",
       "year": 1900
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -56,313 +62,365 @@
     {
       "id": "001-le-careme",
       "title": {
-        "fr-FR": "Le Carême"
+        "fr-FR": "Le Carême",
+        "pt-BR": "A Quaresma"
       }
     },
     {
       "id": "002-chapitre-premier-historique-du-careme",
       "title": {
-        "fr-FR": "Chapitre premier — — historique du Carême"
+        "fr-FR": "Chapitre premier — — historique du Carême",
+        "pt-BR": "Capítulo primeiro — — História da Quaresma"
       }
     },
     {
       "id": "003-chapitre-ii-mystique-du-careme",
       "title": {
-        "fr-FR": "Chapitre II — Mystique du Carême"
+        "fr-FR": "Chapitre II — Mystique du Carême",
+        "pt-BR": "Capítulo II — Mística da Quaresma"
       }
     },
     {
       "id": "004-chapitre-iii-pratique-du-careme",
       "title": {
-        "fr-FR": "Chapitre III — Pratique du Carême"
+        "fr-FR": "Chapitre III — Pratique du Carême",
+        "pt-BR": "Capítulo III — Prática da Quaresma"
       }
     },
     {
       "id": "005-chapitre-iv-prieres-du-matin-et-du-soir-au-temps",
       "title": {
-        "fr-FR": "Chapitre IV — Prières du matin et du soir au temps du Carême"
+        "fr-FR": "Chapitre IV — Prières du matin et du soir au temps du Carême",
+        "pt-BR": "Capítulo IV — Orações da manhã e da noite no tempo da Quaresma"
       }
     },
     {
       "id": "006-chapitre-v-de-lassistance-a-la-sainte-messe-au-t",
       "title": {
-        "fr-FR": "Chapitre V — De l’assistance à la Sainte Messe, au temps du Carême"
+        "fr-FR": "Chapitre V — De l’assistance à la Sainte Messe, au temps du Carême",
+        "pt-BR": "Capítulo V — Da assistência à Santa Missa no tempo da Quaresma"
       }
     },
     {
       "id": "007-chapitre-vi-pratique-de-la-sainte-communion-au-t",
       "title": {
-        "fr-FR": "Chapitre VI — Pratique de la Sainte Communion au temps du Carême"
+        "fr-FR": "Chapitre VI — Pratique de la Sainte Communion au temps du Carême",
+        "pt-BR": "Capítulo VI — Prática da Santa Comunhão no tempo da Quaresma"
       }
     },
     {
       "id": "008-chapitre-vii-de-loffice-des-vepres-des-dimanches",
       "title": {
-        "fr-FR": "Chapitre VII — De l’office des vêpres des dimanches et des fêtes, au temps du Carême"
+        "fr-FR": "Chapitre VII — De l’office des vêpres des dimanches et des fêtes, au temps du Carême",
+        "pt-BR": "Capítulo VII — Do Ofício de Vésperas dos domingos e das festas no tempo da Quaresma"
       }
     },
     {
       "id": "009-chapitre-viii-de-loffice-de-complies-au-temps-de",
       "title": {
-        "fr-FR": "Chapitre VIII — De l’office de complies, au temps de Carême"
+        "fr-FR": "Chapitre VIII — De l’office de complies, au temps de Carême",
+        "pt-BR": "Capítulo VIII — Do Ofício de Completas no tempo da Quaresma"
       }
     },
     {
       "id": "010-le-premier-dimanche-de-careme",
       "title": {
-        "fr-FR": "Le premier dimanche de Carême"
+        "fr-FR": "Le premier dimanche de Carême",
+        "pt-BR": "O primeiro domingo da Quaresma"
       }
     },
     {
       "id": "011-le-lundi-de-la-premiere-semaine-de-careme",
       "title": {
-        "fr-FR": "Le lundi de la première semaine de Carême"
+        "fr-FR": "Le lundi de la première semaine de Carême",
+        "pt-BR": "A segunda-feira da primeira semana da Quaresma"
       }
     },
     {
       "id": "012-le-mardi-de-la-premiere-semaine-de-careme",
       "title": {
-        "fr-FR": "Le mardi de la première semaine de Carême"
+        "fr-FR": "Le mardi de la première semaine de Carême",
+        "pt-BR": "A terça-feira da primeira semana da Quaresma"
       }
     },
     {
       "id": "013-le-mercredi-des-quatre-temps-de-careme",
       "title": {
-        "fr-FR": "Le mercredi des Quatre-Temps de Carême"
+        "fr-FR": "Le mercredi des Quatre-Temps de Carême",
+        "pt-BR": "A quarta-feira das Têmporas da Quaresma"
       }
     },
     {
       "id": "014-le-jeudi-de-la-premiere-semaine-de-careme",
       "title": {
-        "fr-FR": "Le jeudi de la première semaine de Carême"
+        "fr-FR": "Le jeudi de la première semaine de Carême",
+        "pt-BR": "A quinta-feira da primeira semana da Quaresma"
       }
     },
     {
       "id": "015-le-vendredi-des-quatre-temps-de-careme",
       "title": {
-        "fr-FR": "Le vendredi des Quatre-Temps de Carême"
+        "fr-FR": "Le vendredi des Quatre-Temps de Carême",
+        "pt-BR": "A sexta-feira das Têmporas da Quaresma"
       }
     },
     {
       "id": "016-le-samedi-des-quatre-temps-de-careme",
       "title": {
-        "fr-FR": "Le samedi des Quatre-Temps de Carême"
+        "fr-FR": "Le samedi des Quatre-Temps de Carême",
+        "pt-BR": "O sábado das Têmporas da Quaresma"
       }
     },
     {
       "id": "017-le-deuxieme-dimanche-de-careme",
       "title": {
-        "fr-FR": "Le deuxième dimanche de Carême"
+        "fr-FR": "Le deuxième dimanche de Carême",
+        "pt-BR": "O segundo domingo da Quaresma"
       }
     },
     {
       "id": "018-le-lundi-de-la-deuxieme-semaine-de-careme",
       "title": {
-        "fr-FR": "Le lundi de la deuxième semaine de Carême"
+        "fr-FR": "Le lundi de la deuxième semaine de Carême",
+        "pt-BR": "A segunda-feira da segunda semana da Quaresma"
       }
     },
     {
       "id": "019-le-mardi-de-la-deuxieme-semaine-de-careme",
       "title": {
-        "fr-FR": "Le mardi de la deuxième semaine de Carême"
+        "fr-FR": "Le mardi de la deuxième semaine de Carême",
+        "pt-BR": "A terça-feira da segunda semana da Quaresma"
       }
     },
     {
       "id": "020-le-mercredi-de-la-deuxieme-semaine-de-careme",
       "title": {
-        "fr-FR": "Le mercredi de la deuxième semaine de Carême"
+        "fr-FR": "Le mercredi de la deuxième semaine de Carême",
+        "pt-BR": "A quarta-feira da segunda semana da Quaresma"
       }
     },
     {
       "id": "021-le-jeudi-de-la-deuxieme-semaine-de-careme",
       "title": {
-        "fr-FR": "Le jeudi de la deuxième semaine de Carême"
+        "fr-FR": "Le jeudi de la deuxième semaine de Carême",
+        "pt-BR": "A quinta-feira da segunda semana da Quaresma"
       }
     },
     {
       "id": "022-le-vendredi-de-la-deuxieme-semaine-de-careme",
       "title": {
-        "fr-FR": "Le vendredi de la deuxième semaine de Carême"
+        "fr-FR": "Le vendredi de la deuxième semaine de Carême",
+        "pt-BR": "A sexta-feira da segunda semana da Quaresma"
       }
     },
     {
       "id": "023-le-samedi-de-la-deuxieme-semaine-de-careme",
       "title": {
-        "fr-FR": "Le samedi de la deuxième semaine de Carême"
+        "fr-FR": "Le samedi de la deuxième semaine de Carême",
+        "pt-BR": "O sábado da segunda semana da Quaresma"
       }
     },
     {
       "id": "024-le-troisieme-dimanche-de-careme",
       "title": {
-        "fr-FR": "Le troisième dimanche de Carême"
+        "fr-FR": "Le troisième dimanche de Carême",
+        "pt-BR": "O terceiro domingo da Quaresma"
       }
     },
     {
       "id": "025-le-lundi-de-la-troisieme-semaine-de-careme",
       "title": {
-        "fr-FR": "Le lundi de la troisième semaine de Carême"
+        "fr-FR": "Le lundi de la troisième semaine de Carême",
+        "pt-BR": "A segunda-feira da terceira semana da Quaresma"
       }
     },
     {
       "id": "026-le-mardi-de-la-troisieme-semaine-de-careme",
       "title": {
-        "fr-FR": "Le mardi de la troisième semaine de Carême"
+        "fr-FR": "Le mardi de la troisième semaine de Carême",
+        "pt-BR": "A terça-feira da terceira semana da Quaresma"
       }
     },
     {
       "id": "027-le-mercredi-de-la-troisieme-semaine-de-careme",
       "title": {
-        "fr-FR": "Le mercredi de la troisième semaine de Carême"
+        "fr-FR": "Le mercredi de la troisième semaine de Carême",
+        "pt-BR": "A quarta-feira da terceira semana da Quaresma"
       }
     },
     {
       "id": "028-le-jeudi-de-la-troisieme-semaine-de-careme",
       "title": {
-        "fr-FR": "Le jeudi de la troisième semaine de Carême"
+        "fr-FR": "Le jeudi de la troisième semaine de Carême",
+        "pt-BR": "A quinta-feira da terceira semana da Quaresma"
       }
     },
     {
       "id": "029-le-vendredi-de-la-troisieme-semaine-de-careme",
       "title": {
-        "fr-FR": "Le vendredi de la troisième semaine de Carême"
+        "fr-FR": "Le vendredi de la troisième semaine de Carême",
+        "pt-BR": "A sexta-feira da terceira semana da Quaresma"
       }
     },
     {
       "id": "030-le-samedi-de-la-troisieme-semaine-de-careme",
       "title": {
-        "fr-FR": "Le samedi de la troisième semaine de Carême"
+        "fr-FR": "Le samedi de la troisième semaine de Carême",
+        "pt-BR": "O sábado da terceira semana da Quaresma"
       }
     },
     {
       "id": "031-le-quatrieme-dimanche-de-careme",
       "title": {
-        "fr-FR": "Le quatrième dimanche de Carême"
+        "fr-FR": "Le quatrième dimanche de Carême",
+        "pt-BR": "O quarto domingo da Quaresma"
       }
     },
     {
       "id": "032-le-lundi-de-la-quatrieme-semaine-de-careme",
       "title": {
-        "fr-FR": "Le lundi de la quatrième semaine de Carême"
+        "fr-FR": "Le lundi de la quatrième semaine de Carême",
+        "pt-BR": "A segunda-feira da quarta semana da Quaresma"
       }
     },
     {
       "id": "033-le-mardi-de-la-quatrieme-semaine-de-careme",
       "title": {
-        "fr-FR": "Le mardi de la quatrième semaine de Carême"
+        "fr-FR": "Le mardi de la quatrième semaine de Carême",
+        "pt-BR": "A terça-feira da quarta semana da Quaresma"
       }
     },
     {
       "id": "034-le-mercredi-de-la-quatrieme-semaine-de-careme",
       "title": {
-        "fr-FR": "Le mercredi de la quatrième semaine de Carême"
+        "fr-FR": "Le mercredi de la quatrième semaine de Carême",
+        "pt-BR": "A quarta-feira da quarta semana da Quaresma"
       }
     },
     {
       "id": "035-le-jeudi-de-la-quatrieme-semaine-de-careme",
       "title": {
-        "fr-FR": "Le jeudi de la quatrième semaine de Carême"
+        "fr-FR": "Le jeudi de la quatrième semaine de Carême",
+        "pt-BR": "A quinta-feira da quarta semana da Quaresma"
       }
     },
     {
       "id": "036-le-vendredi-de-la-quatrieme-semaine-de-careme",
       "title": {
-        "fr-FR": "Le vendredi de la quatrième semaine de Carême"
+        "fr-FR": "Le vendredi de la quatrième semaine de Carême",
+        "pt-BR": "A sexta-feira da quarta semana da Quaresma"
       }
     },
     {
       "id": "037-le-samedi-de-la-quatrieme-semaine-de-careme",
       "title": {
-        "fr-FR": "Le samedi de la quatrième semaine de Carême"
+        "fr-FR": "Le samedi de la quatrième semaine de Carême",
+        "pt-BR": "O sábado da quarta semana da Quaresma"
       }
     },
     {
       "id": "038-propre-des-saints-du-careme",
       "title": {
-        "fr-FR": "Propre des saints du Carême"
+        "fr-FR": "Propre des saints du Carême",
+        "pt-BR": "Próprio dos Santos da Quaresma"
       }
     },
     {
       "id": "039-9-mars-sainte-francoise-veuve-romaine",
       "title": {
-        "fr-FR": "9 mars — Sainte Françoise, veuve romaine"
+        "fr-FR": "9 mars — Sainte Françoise, veuve romaine",
+        "pt-BR": "9 de março — Santa Francisca, viúva romana"
       }
     },
     {
       "id": "040-10-mars-les-quarante-martyrs",
       "title": {
-        "fr-FR": "10 mars — Les quarante martyrs"
+        "fr-FR": "10 mars — Les quarante martyrs",
+        "pt-BR": "10 de março — Os quarenta mártires"
       }
     },
     {
       "id": "041-12-mars-saint-gregoire-le-grand-pape-et-docteur",
       "title": {
-        "fr-FR": "12 mars — Saint Grégoire le grand, Pape et Docteur de l’Église"
+        "fr-FR": "12 mars — Saint Grégoire le grand, Pape et Docteur de l’Église",
+        "pt-BR": "12 de março — São Gregório Magno, Papa e Doutor da Igreja"
       }
     },
     {
       "id": "042-17-mars-s-patrice-eveque-et-confesseur",
       "title": {
-        "fr-FR": "17 mars — S. patrice, evêque et confesseur"
+        "fr-FR": "17 mars — S. patrice, evêque et confesseur",
+        "pt-BR": "17 de março — São Patrício, bispo e confessor"
       }
     },
     {
       "id": "043-18-mars-saint-cyrille-de-jerusalem-eveque-et-doc",
       "title": {
-        "fr-FR": "18 mars — Saint Cyrille de jérusalem, évêque et Docteur de l’Église"
+        "fr-FR": "18 mars — Saint Cyrille de jérusalem, évêque et Docteur de l’Église",
+        "pt-BR": "18 de março — São Cirilo de Jerusalém, bispo e Doutor da Igreja"
       }
     },
     {
       "id": "044-le-meme-jour-saint-gabriel-archange",
       "title": {
-        "fr-FR": "Le même jour. Saint Gabriel, archange"
+        "fr-FR": "Le même jour. Saint Gabriel, archange",
+        "pt-BR": "No mesmo dia. São Gabriel, arcanjo"
       }
     },
     {
       "id": "045-19-mars-saint-joseph-epoux-de-la-tres-sainte-vie",
       "title": {
-        "fr-FR": "19 mars — Saint Joseph, époux de la très Sainte Vierge et patron de l’Église universelle"
+        "fr-FR": "19 mars — Saint Joseph, époux de la très Sainte Vierge et patron de l’Église universelle",
+        "pt-BR": "19 de março — São José, esposo da Santíssima Virgem e padroeiro da Igreja universal"
       }
     },
     {
       "id": "046-21-mars-saint-benoit-abbe",
       "title": {
-        "fr-FR": "21 mars — Saint Benoît, abbé"
+        "fr-FR": "21 mars — Saint Benoît, abbé",
+        "pt-BR": "21 de março — São Bento, abade"
       }
     },
     {
       "id": "047-25-mars-lannonciation-de-la-tres-sainte-vierge",
       "title": {
-        "fr-FR": "25 mars — L’annonciation de la très Sainte Vierge"
+        "fr-FR": "25 mars — L’annonciation de la très Sainte Vierge",
+        "pt-BR": "25 de março — A Anunciação da Santíssima Virgem"
       }
     },
     {
       "id": "048-2-avril-saint-francois-de-paule-confesseur",
       "title": {
-        "fr-FR": "2 avril — Saint François de paule, confesseur"
+        "fr-FR": "2 avril — Saint François de paule, confesseur",
+        "pt-BR": "2 de abril — São Francisco de Paula, confessor"
       }
     },
     {
       "id": "049-4-avril-saint-isidore-eveque-et-docteur-de-legli",
       "title": {
-        "fr-FR": "4 avril — Saint Isidore, évêque et Docteur de l’Église"
+        "fr-FR": "4 avril — Saint Isidore, évêque et Docteur de l’Église",
+        "pt-BR": "4 de abril — Santo Isidoro, bispo e Doutor da Igreja"
       }
     },
     {
       "id": "050-5-avril-s-vincent-ferrier-confesseur",
       "title": {
-        "fr-FR": "5 avril — S. vincent ferrier, confesseur"
+        "fr-FR": "5 avril — S. vincent ferrier, confesseur",
+        "pt-BR": "5 de abril — São Vicente Ferrer, confessor"
       }
     },
     {
       "id": "051-9-avril-sainte-marie-egyptienne-penitente",
       "title": {
-        "fr-FR": "9 avril — Sainte Marie égyptienne, pénitente"
+        "fr-FR": "9 avril — Sainte Marie égyptienne, pénitente",
+        "pt-BR": "9 de abril — Santa Maria Egipcíaca, penitente"
       }
     },
     {
       "id": "052-28-mars-saint-jean-de-capistran-confesseur",
       "title": {
-        "fr-FR": "28 mars — Saint Jean de capistran, confesseur"
+        "fr-FR": "28 mars — Saint Jean de capistran, confesseur",
+        "pt-BR": "28 de março — São João de Capistrano, confessor"
       }
     }
   ]
