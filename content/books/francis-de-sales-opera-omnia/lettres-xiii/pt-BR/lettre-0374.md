@@ -1,0 +1,11 @@
+# Carta CCCLXXIV. A uma Religiosa
+
+*Exortação a bendizer a Deus por uma graça recebida. - O ponto principal da humildade para uma Religiosa. - As humildades mais refinadas. - O falar altivo, imoderado e o decoro religioso.*
+
+Annecy, dezembro de 1606. Sim, minha boa e querida Filha, bendigamos juntos a Deus por aquele feliz dia em que, por um fogo inteiramente novo, renovaste o holocausto de teu coração, oferecido e consagrado há muito à divina Majestade; e que esse dia, pois, seja contado entre os dias memoráveis de nossa vida. Oh! Que ocupe o segundo lugar depois do dia de nosso Batismo: dia da renovação de nosso templo interior; dia em que, por uma troca favorável, consagramos nossa vida a Deus para não mais viver senão em sua morte; dia que será, com a ajuda de Deus, fundamento de nossa salvação; dia que anuncia a santa e desejável eternidade de glória, dia cuja lembrança nos alegrará não somente na morte temporal, mas também na vida imortal. Ah! Minha caríssima Filha, é verdade: Deus, parece-me, fazia-te então renascer espiritualmente entre meus braços interiores, que certamente te abraçaram com ternura, e meu coração foi todo dedicado ao teu.
+
+Ora, sei bem que tens muitas vezes ocasião de exercitar o amor ao desprezo, às repreensões e à tua própria abjeção. Faze-o bem; pois é o ponto principal da humildade ver, servir, honrar e conversar, quando se apresenta a ocasião e é oportuno (pois não se deve tornar importuna nessa procura), com aqueles que nos são desagradáveis, e permanecer humilde, submissa, doce e tranquila entre eles. É um ponto muito admirável; pois, vês, minha Filha, as humildades que menos se veem são as mais refinadas. Mas, quanto ao exterior, eu bem gostaria, por causa do decoro religioso, que te corrigisses desse falar altivo e imoderado. Nada há de grave em sentir esses movimentos de cólera e de impaciência, contanto que sejam mortificados à medida que os vês nascer; isto é, que procures voltar à contenção e à pacificação do coração, pois, assim sendo, ainda que o combate durasse o dia inteiro, seria exercício, mas não perda para ti.
+
+Tem bom ânimo, minha Filha; vejo bem que Nosso Senhor quer amar-nos e fazer-nos seus. Espero em Nossa Senhora que jamais algum fogo abrasará nossos corações senão o do santo amor de seu Filho, pelo qual sou, com toda a verdade, inteiramente teu.
+
+FRANCISCO, B. de Genebra.
