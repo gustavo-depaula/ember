@@ -14,17 +14,23 @@
   "description": {
     "fr-FR": "Les lettres 1 à 416 de la Correspondance de saint Vincent, tome I de l’édition de Pierre Coste (1616-1639), une lettre par chapitre, groupées par année, avec les lettres adressées à Vincent que Coste y a intercalées, ses notices de sources et ses notes.",
     "en-US": "Letters 1 to 416 of St. Vincent’s Correspondence, vol. I of Pierre Coste’s edition (1616-1639), one letter per chapter and grouped by year, with the letters addressed to Vincent that Coste interleaves, his source notices and notes.",
-    "pt-BR": "As cartas 1 a 416 da Correspondência de São Vicente, tomo I da edição de Pierre Coste (1616-1639)."
+    "pt-BR": "As cartas 1 a 416 da Correspondência de São Vicente, tomo I da edição de Pierre Coste (1616-1639), uma carta por capítulo, agrupadas por ano, com as cartas dirigidas a Vicente que Coste intercalou, suas notícias sobre as fontes e suas notas."
   },
   "composed": "1616-1639",
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "vincent-de-paul/correspondance-i",
   "editions": {
     "fr-FR": {
       "editor": "Pierre Coste, C.M.",
       "year": 1920
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,37 +47,43 @@
     {
       "id": "groupe-01",
       "title": {
-        "fr-FR": "Année 1616"
+        "fr-FR": "Année 1616",
+        "pt-BR": "Ano de 1616"
       },
       "children": [
         {
           "id": "lettre-0001",
           "title": {
-            "fr-FR": "Lettre 1. À Monsieur de Comet"
+            "fr-FR": "Lettre 1. À Monsieur de Comet",
+            "pt-BR": "Carta 1. Ao Senhor de Comet"
           }
         },
         {
           "id": "lettre-0002",
           "title": {
-            "fr-FR": "Lettre 2. À Monsieur de Comet"
+            "fr-FR": "Lettre 2. À Monsieur de Comet",
+            "pt-BR": "Carta 2. Ao Senhor de Comet"
           }
         },
         {
           "id": "lettre-0003",
           "title": {
-            "fr-FR": "Lettre 3. À sa Mère, à Pouy"
+            "fr-FR": "Lettre 3. À sa Mère, à Pouy",
+            "pt-BR": "Carta 3. À sua Mãe, em Pouy"
           }
         },
         {
           "id": "lettre-0004",
           "title": {
-            "fr-FR": "Lettre 4. À Edme Mauljean, Vicaire Général de Sens"
+            "fr-FR": "Lettre 4. À Edme Mauljean, Vicaire Général de Sens",
+            "pt-BR": "Carta 4. A Edme Mauljean, Vigário-Geral de Sens"
           }
         },
         {
           "id": "lettre-0005",
           "title": {
-            "fr-FR": "Lettre 5. Edme Mauljean à Saint Vincent"
+            "fr-FR": "Lettre 5. Edme Mauljean à Saint Vincent",
+            "pt-BR": "Carta 5. Edme Mauljean a São Vicente"
           }
         }
       ]
@@ -79,37 +91,43 @@
     {
       "id": "groupe-02",
       "title": {
-        "fr-FR": "Année 1617"
+        "fr-FR": "Année 1617",
+        "pt-BR": "Ano de 1617"
       },
       "children": [
         {
           "id": "lettre-0006",
           "title": {
-            "fr-FR": "Lettre 6. À Philippe-Emmauel de Gondi (1), en Provence"
+            "fr-FR": "Lettre 6. À Philippe-Emmauel de Gondi (1), en Provence",
+            "pt-BR": "Carta 6. A Filipe Emanuel de Gondi (1), na Provença"
           }
         },
         {
           "id": "lettre-0007",
           "title": {
-            "fr-FR": "Lettre 7. Madame de Gondi à Saint Vincent"
+            "fr-FR": "Lettre 7. Madame de Gondi à Saint Vincent",
+            "pt-BR": "Carta 7. A Senhora de Gondi a São Vicente"
           }
         },
         {
           "id": "lettre-0008",
           "title": {
-            "fr-FR": "Lettre 8. À Madame de Gondi"
+            "fr-FR": "Lettre 8. À Madame de Gondi",
+            "pt-BR": "Carta 8. À Senhora de Gondi"
           }
         },
         {
           "id": "lettre-0009",
           "title": {
-            "fr-FR": "Lettre 9. Philippe-Emmanuel de Gondi à Saint Vincent"
+            "fr-FR": "Lettre 9. Philippe-Emmanuel de Gondi à Saint Vincent",
+            "pt-BR": "Carta 9. Filipe Emanuel de Gondi a São Vicente"
           }
         },
         {
           "id": "lettre-0010",
           "title": {
-            "fr-FR": "Lettre 10. À Charles du Fresne — Secrétaire de Philippe-Emmanuel de Gondi"
+            "fr-FR": "Lettre 10. À Charles du Fresne — Secrétaire de Philippe-Emmanuel de Gondi",
+            "pt-BR": "Carta 10. A Carlos du Fresne — Secretário de Filipe Emanuel de Gondi"
           }
         }
       ]
@@ -117,13 +135,15 @@
     {
       "id": "groupe-03",
       "title": {
-        "fr-FR": "Année 1625"
+        "fr-FR": "Année 1625",
+        "pt-BR": "Ano de 1625"
       },
       "children": [
         {
           "id": "lettre-0011",
           "title": {
-            "fr-FR": "Lettre 11. À Nicolas de Bailleul, Prévôt des Marchands"
+            "fr-FR": "Lettre 11. À Nicolas de Bailleul, Prévôt des Marchands",
+            "pt-BR": "Carta 11. A Nicolau de Bailleul, Preboste dos Mercadores"
           }
         }
       ]
@@ -131,25 +151,29 @@
     {
       "id": "groupe-04",
       "title": {
-        "fr-FR": "Année 1626"
+        "fr-FR": "Année 1626",
+        "pt-BR": "Ano de 1626"
       },
       "children": [
         {
           "id": "lettre-0012",
           "title": {
-            "fr-FR": "Lettre 12. À Louise de Marillac"
+            "fr-FR": "Lettre 12. À Louise de Marillac",
+            "pt-BR": "Carta 12. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0013",
           "title": {
-            "fr-FR": "Lettre 13. À Isabelle du Fay"
+            "fr-FR": "Lettre 13. À Isabelle du Fay",
+            "pt-BR": "Carta 13. A Isabel du Fay"
           }
         },
         {
           "id": "lettre-0014",
           "title": {
-            "fr-FR": "Lettre 14. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 14. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 14. Luísa de Marillac a São Vicente"
           }
         }
       ]
@@ -157,55 +181,64 @@
     {
       "id": "groupe-05",
       "title": {
-        "fr-FR": "Année 1627"
+        "fr-FR": "Année 1627",
+        "pt-BR": "Ano de 1627"
       },
       "children": [
         {
           "id": "lettre-0015",
           "title": {
-            "fr-FR": "Lettre 15. À Louise de Marillac"
+            "fr-FR": "Lettre 15. À Louise de Marillac",
+            "pt-BR": "Carta 15. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0016",
           "title": {
-            "fr-FR": "Lettre 16. À Louise de Marillac"
+            "fr-FR": "Lettre 16. À Louise de Marillac",
+            "pt-BR": "Carta 16. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0017",
           "title": {
-            "fr-FR": "Lettre 17. À Isabelle du Fay"
+            "fr-FR": "Lettre 17. À Isabelle du Fay",
+            "pt-BR": "Carta 17. A Isabel du Fay"
           }
         },
         {
           "id": "lettre-0018",
           "title": {
-            "fr-FR": "Lettre 18. À Louise de Marillac"
+            "fr-FR": "Lettre 18. À Louise de Marillac",
+            "pt-BR": "Carta 18. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0020",
           "title": {
-            "fr-FR": "Lettre 20. Un Abbé à Saint Vincent"
+            "fr-FR": "Lettre 20. Un Abbé à Saint Vincent",
+            "pt-BR": "Carta 20. Um Abade a São Vicente"
           }
         },
         {
           "id": "lettre-0021",
           "title": {
-            "fr-FR": "Lettre 21. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 21. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 21. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-0022",
           "title": {
-            "fr-FR": "Lettre 22. À Louise de Marillac"
+            "fr-FR": "Lettre 22. À Louise de Marillac",
+            "pt-BR": "Carta 22. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0023",
           "title": {
-            "fr-FR": "Lettre 23. À Louise de Marillac"
+            "fr-FR": "Lettre 23. À Louise de Marillac",
+            "pt-BR": "Carta 23. A Luísa de Marillac"
           }
         }
       ]
@@ -213,49 +246,57 @@
     {
       "id": "groupe-06",
       "title": {
-        "fr-FR": "Année 1628"
+        "fr-FR": "Année 1628",
+        "pt-BR": "Ano de 1628"
       },
       "children": [
         {
           "id": "lettre-0024",
           "title": {
-            "fr-FR": "Lettre 24. À Louise de Marillac"
+            "fr-FR": "Lettre 24. À Louise de Marillac",
+            "pt-BR": "Carta 24. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0025",
           "title": {
-            "fr-FR": "Lettre 25. Commandeur de Sillery (1) à Saint Vincent"
+            "fr-FR": "Lettre 25. Commandeur de Sillery (1) à Saint Vincent",
+            "pt-BR": "Carta 25. Comendador de Sillery (1) a São Vicente"
           }
         },
         {
           "id": "lettre-0026",
           "title": {
-            "fr-FR": "Lettre 26. Au Pape Urbain VIII"
+            "fr-FR": "Lettre 26. Au Pape Urbain VIII",
+            "pt-BR": "Carta 26. Ao Papa Urbano VIII"
           }
         },
         {
           "id": "lettre-0027",
           "title": {
-            "fr-FR": "Lettre 27. À Louise de Marillac"
+            "fr-FR": "Lettre 27. À Louise de Marillac",
+            "pt-BR": "Carta 27. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0028",
           "title": {
-            "fr-FR": "Lettre 28. Au Pape Urbain VIII"
+            "fr-FR": "Lettre 28. Au Pape Urbain VIII",
+            "pt-BR": "Carta 28. Ao Papa Urbano VIII"
           }
         },
         {
           "id": "lettre-0029",
           "title": {
-            "fr-FR": "Lettre 29. À Louise de Marillac"
+            "fr-FR": "Lettre 29. À Louise de Marillac",
+            "pt-BR": "Carta 29. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0030",
           "title": {
-            "fr-FR": "Lettre 30. À François du Coudray, Prêtre de la Mission"
+            "fr-FR": "Lettre 30. À François du Coudray, Prêtre de la Mission",
+            "pt-BR": "Carta 30. A Francisco du Coudray, Padre da Missão"
           }
         }
       ]
@@ -263,61 +304,71 @@
     {
       "id": "groupe-07",
       "title": {
-        "fr-FR": "Année 1629"
+        "fr-FR": "Année 1629",
+        "pt-BR": "Ano de 1629"
       },
       "children": [
         {
           "id": "lettre-0031",
           "title": {
-            "fr-FR": "Lettre 31. À Louise de Marillac"
+            "fr-FR": "Lettre 31. À Louise de Marillac",
+            "pt-BR": "Carta 31. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0032",
           "title": {
-            "fr-FR": "Lettre 32. À Louise de Marillac"
+            "fr-FR": "Lettre 32. À Louise de Marillac",
+            "pt-BR": "Carta 32. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0033",
           "title": {
-            "fr-FR": "Lettre 33. À Louise de Marillac"
+            "fr-FR": "Lettre 33. À Louise de Marillac",
+            "pt-BR": "Carta 33. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0034",
           "title": {
-            "fr-FR": "Lettre 34. À Louise de Marillac"
+            "fr-FR": "Lettre 34. À Louise de Marillac",
+            "pt-BR": "Carta 34. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0035",
           "title": {
-            "fr-FR": "Lettre 35. À Louise de Marillac"
+            "fr-FR": "Lettre 35. À Louise de Marillac",
+            "pt-BR": "Carta 35. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0036",
           "title": {
-            "fr-FR": "Lettre 36. À Louise de Marillac"
+            "fr-FR": "Lettre 36. À Louise de Marillac",
+            "pt-BR": "Carta 36. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0037",
           "title": {
-            "fr-FR": "Lettre 37. À Louise de Marillac"
+            "fr-FR": "Lettre 37. À Louise de Marillac",
+            "pt-BR": "Carta 37. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0038",
           "title": {
-            "fr-FR": "Lettre 38. À Louise de Marillac"
+            "fr-FR": "Lettre 38. À Louise de Marillac",
+            "pt-BR": "Carta 38. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0039",
           "title": {
-            "fr-FR": "Lettre 39. À Louise de Marillac"
+            "fr-FR": "Lettre 39. À Louise de Marillac",
+            "pt-BR": "Carta 39. A Luísa de Marillac"
           }
         }
       ]
@@ -325,127 +376,148 @@
     {
       "id": "groupe-08",
       "title": {
-        "fr-FR": "Année 1630"
+        "fr-FR": "Année 1630",
+        "pt-BR": "Ano de 1630"
       },
       "children": [
         {
           "id": "lettre-0040",
           "title": {
-            "fr-FR": "Lettre 40. À Louise de Marillac, à Saint-Cloud"
+            "fr-FR": "Lettre 40. À Louise de Marillac, à Saint-Cloud",
+            "pt-BR": "Carta 40. A Luísa de Marillac, em Saint-Cloud"
           }
         },
         {
           "id": "lettre-0041",
           "title": {
-            "fr-FR": "Lettre 41. À Louise de Marillac"
+            "fr-FR": "Lettre 41. À Louise de Marillac",
+            "pt-BR": "Carta 41. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0042",
           "title": {
-            "fr-FR": "Lettre 42. À Louise de Marillac"
+            "fr-FR": "Lettre 42. À Louise de Marillac",
+            "pt-BR": "Carta 42. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0043",
           "title": {
-            "fr-FR": "Lettre 43. À Louise de Marillac"
+            "fr-FR": "Lettre 43. À Louise de Marillac",
+            "pt-BR": "Carta 43. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0044",
           "title": {
-            "fr-FR": "Lettre 44. À Louise de Marillac"
+            "fr-FR": "Lettre 44. À Louise de Marillac",
+            "pt-BR": "Carta 44. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0045",
           "title": {
-            "fr-FR": "Lettre 45. À Louise de Marillac"
+            "fr-FR": "Lettre 45. À Louise de Marillac",
+            "pt-BR": "Carta 45. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0046",
           "title": {
-            "fr-FR": "Lettre 46. À Louise de Marillac, à Villepreux"
+            "fr-FR": "Lettre 46. À Louise de Marillac, à Villepreux",
+            "pt-BR": "Carta 46. A Luísa de Marillac, em Villepreux"
           }
         },
         {
           "id": "lettre-0047",
           "title": {
-            "fr-FR": "Lettre 47. À Louise de Marillac, à Villepreux"
+            "fr-FR": "Lettre 47. À Louise de Marillac, à Villepreux",
+            "pt-BR": "Carta 47. A Luísa de Marillac, em Villepreux"
           }
         },
         {
           "id": "lettre-0048",
           "title": {
-            "fr-FR": "Lettre 48. À Louise de Marillac"
+            "fr-FR": "Lettre 48. À Louise de Marillac",
+            "pt-BR": "Carta 48. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0049",
           "title": {
-            "fr-FR": "Lettre 49. À Louise de Marillac"
+            "fr-FR": "Lettre 49. À Louise de Marillac",
+            "pt-BR": "Carta 49. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0050",
           "title": {
-            "fr-FR": "Lettre 50. À Louise de Marillac"
+            "fr-FR": "Lettre 50. À Louise de Marillac",
+            "pt-BR": "Carta 50. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0051",
           "title": {
-            "fr-FR": "Lettre 51. À Antoine Portail, Prêtre de la Mission, à Croissy"
+            "fr-FR": "Lettre 51. À Antoine Portail, Prêtre de la Mission, à Croissy",
+            "pt-BR": "Carta 51. A Antônio Portail, Padre da Missão, em Croissy"
           }
         },
         {
           "id": "lettre-0052",
           "title": {
-            "fr-FR": "Lettre 52. À une Dame"
+            "fr-FR": "Lettre 52. À une Dame",
+            "pt-BR": "Carta 52. A uma Senhora"
           }
         },
         {
           "id": "lettre-0053",
           "title": {
-            "fr-FR": "Lettre 53. À Louise de Marillac"
+            "fr-FR": "Lettre 53. À Louise de Marillac",
+            "pt-BR": "Carta 53. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0054",
           "title": {
-            "fr-FR": "Lettre 54. À Monsieur de Saint-Martin"
+            "fr-FR": "Lettre 54. À Monsieur de Saint-Martin",
+            "pt-BR": "Carta 54. Ao Senhor de Saint-Martin"
           }
         },
         {
           "id": "lettre-0055",
           "title": {
-            "fr-FR": "Lettre 55. À Louise de Marillac"
+            "fr-FR": "Lettre 55. À Louise de Marillac",
+            "pt-BR": "Carta 55. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0056",
           "title": {
-            "fr-FR": "Lettre 56. À Louise de Marillac"
+            "fr-FR": "Lettre 56. À Louise de Marillac",
+            "pt-BR": "Carta 56. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0057",
           "title": {
-            "fr-FR": "Lettre 57. À Louise de Marillac, à Montmirail"
+            "fr-FR": "Lettre 57. À Louise de Marillac, à Montmirail",
+            "pt-BR": "Carta 57. A Luísa de Marillac, em Montmirail"
           }
         },
         {
           "id": "lettre-0058",
           "title": {
-            "fr-FR": "Lettre 58. À Louise de Marillac, à Beauvais (l)"
+            "fr-FR": "Lettre 58. À Louise de Marillac, à Beauvais (l)",
+            "pt-BR": "Carta 58. A Luísa de Marillac, em Beauvais (l)"
           }
         },
         {
           "id": "lettre-0059",
           "title": {
-            "fr-FR": "Lettre 59. À Louise de Marillac"
+            "fr-FR": "Lettre 59. À Louise de Marillac",
+            "pt-BR": "Carta 59. A Luísa de Marillac"
           }
         }
       ]
@@ -453,205 +525,239 @@
     {
       "id": "groupe-09",
       "title": {
-        "fr-FR": "Année 1631"
+        "fr-FR": "Année 1631",
+        "pt-BR": "Ano de 1631"
       },
       "children": [
         {
           "id": "lettre-0060",
           "title": {
-            "fr-FR": "Lettre 60. À Louise de Marillac"
+            "fr-FR": "Lettre 60. À Louise de Marillac",
+            "pt-BR": "Carta 60. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0062",
           "title": {
-            "fr-FR": "Lettre 62. À Louise de Marillac, à Montreuil"
+            "fr-FR": "Lettre 62. À Louise de Marillac, à Montreuil",
+            "pt-BR": "Carta 62. A Luísa de Marillac, em Montreuil"
           }
         },
         {
           "id": "lettre-0063",
           "title": {
-            "fr-FR": "Lettre 63. À Louise de Marillac"
+            "fr-FR": "Lettre 63. À Louise de Marillac",
+            "pt-BR": "Carta 63. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0064",
           "title": {
-            "fr-FR": "Lettre 64. À Louise de Marillac, à Montreuil"
+            "fr-FR": "Lettre 64. À Louise de Marillac, à Montreuil",
+            "pt-BR": "Carta 64. A Luísa de Marillac, em Montreuil"
           }
         },
         {
           "id": "lettre-0065",
           "title": {
-            "fr-FR": "Lettre 65. À Louise de Marillac, à Montreuil"
+            "fr-FR": "Lettre 65. À Louise de Marillac, à Montreuil",
+            "pt-BR": "Carta 65. A Luísa de Marillac, em Montreuil"
           }
         },
         {
           "id": "lettre-0066",
           "title": {
-            "fr-FR": "Lettre 66. À Louise de Marillac"
+            "fr-FR": "Lettre 66. À Louise de Marillac",
+            "pt-BR": "Carta 66. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0067",
           "title": {
-            "fr-FR": "Lettre 67. À Louise de Marillac"
+            "fr-FR": "Lettre 67. À Louise de Marillac",
+            "pt-BR": "Carta 67. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0068",
           "title": {
-            "fr-FR": "Lettre 68. À Isabelle du Fay"
+            "fr-FR": "Lettre 68. À Isabelle du Fay",
+            "pt-BR": "Carta 68. A Isabel du Fay"
           }
         },
         {
           "id": "lettre-0069",
           "title": {
-            "fr-FR": "Lettre 69. À Louise de Marillac"
+            "fr-FR": "Lettre 69. À Louise de Marillac",
+            "pt-BR": "Carta 69. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0070",
           "title": {
-            "fr-FR": "Lettre 70. À Antoine Portail, Prêtre de la Mission, — Aux Cévennes"
+            "fr-FR": "Lettre 70. À Antoine Portail, Prêtre de la Mission, — Aux Cévennes",
+            "pt-BR": "Carta 70. A Antônio Portail, Padre da Missão, — Nas Cévennes"
           }
         },
         {
           "id": "lettre-0071",
           "title": {
-            "fr-FR": "Lettre 71. À Louise de Marillac"
+            "fr-FR": "Lettre 71. À Louise de Marillac",
+            "pt-BR": "Carta 71. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0072",
           "title": {
-            "fr-FR": "Lettre 72. À François du Coudray, Prêtre de la Mission, à Rome"
+            "fr-FR": "Lettre 72. À François du Coudray, Prêtre de la Mission, à Rome",
+            "pt-BR": "Carta 72. A Francisco du Coudray, Padre da Missão, em Roma"
           }
         },
         {
           "id": "lettre-0073",
           "title": {
-            "fr-FR": "Lettre 73. À François du Coudray, Prêtre de la Mission, à Rome"
+            "fr-FR": "Lettre 73. À François du Coudray, Prêtre de la Mission, à Rome",
+            "pt-BR": "Carta 73. A Francisco du Coudray, Padre da Missão, em Roma"
           }
         },
         {
           "id": "lettre-0074",
           "title": {
-            "fr-FR": "Lettre 74. À Louise de Marillac"
+            "fr-FR": "Lettre 74. À Louise de Marillac",
+            "pt-BR": "Carta 74. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0075",
           "title": {
-            "fr-FR": "Lettre 75. À Louise de Marillac"
+            "fr-FR": "Lettre 75. À Louise de Marillac",
+            "pt-BR": "Carta 75. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0076",
           "title": {
-            "fr-FR": "Lettre 76. Au Curé de Bergères"
+            "fr-FR": "Lettre 76. Au Curé de Bergères",
+            "pt-BR": "Carta 76. Ao Pároco de Bergères"
           }
         },
         {
           "id": "lettre-0077",
           "title": {
-            "fr-FR": "Lettre 77. À Louise de Marillac"
+            "fr-FR": "Lettre 77. À Louise de Marillac",
+            "pt-BR": "Carta 77. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0078",
           "title": {
-            "fr-FR": "Lettre 78. À François du Coudray, Prêtre de la Mission à Rome"
+            "fr-FR": "Lettre 78. À François du Coudray, Prêtre de la Mission à Rome",
+            "pt-BR": "Carta 78. A Francisco du Coudray, Padre da Missão em Roma"
           }
         },
         {
           "id": "lettre-0079",
           "title": {
-            "fr-FR": "Lettre 79. Sainte Chantal à Saint Vincent"
+            "fr-FR": "Lettre 79. Sainte Chantal à Saint Vincent",
+            "pt-BR": "Carta 79. Santa Chantal a São Vicente"
           }
         },
         {
           "id": "lettre-0080",
           "title": {
-            "fr-FR": "Lettre 80. À François du Coudray, Prêtre de la Mission, à Rome"
+            "fr-FR": "Lettre 80. À François du Coudray, Prêtre de la Mission, à Rome",
+            "pt-BR": "Carta 80. A Francisco du Coudray, Padre da Missão, em Roma"
           }
         },
         {
           "id": "lettre-0081",
           "title": {
-            "fr-FR": "Lettre 81. À Louise de Marillac, à Montmirail"
+            "fr-FR": "Lettre 81. À Louise de Marillac, à Montmirail",
+            "pt-BR": "Carta 81. A Luísa de Marillac, em Montmirail"
           }
         },
         {
           "id": "lettre-0082",
           "title": {
-            "fr-FR": "Lettre 82. À Isabelle du Fay"
+            "fr-FR": "Lettre 82. À Isabelle du Fay",
+            "pt-BR": "Carta 82. A Isabel du Fay"
           }
         },
         {
           "id": "lettre-0083",
           "title": {
-            "fr-FR": "Lettre 83. À Louise de Marillac, au Mesnil"
+            "fr-FR": "Lettre 83. À Louise de Marillac, au Mesnil",
+            "pt-BR": "Carta 83. A Luísa de Marillac, em Le Mesnil"
           }
         },
         {
           "id": "lettre-0084",
           "title": {
-            "fr-FR": "Lettre 84. À Louise de Marillac"
+            "fr-FR": "Lettre 84. À Louise de Marillac",
+            "pt-BR": "Carta 84. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0085",
           "title": {
-            "fr-FR": "Lettre 85. À Louise de Marillac"
+            "fr-FR": "Lettre 85. À Louise de Marillac",
+            "pt-BR": "Carta 85. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0086",
           "title": {
-            "fr-FR": "Lettre 86. À Louise de Marillac"
+            "fr-FR": "Lettre 86. À Louise de Marillac",
+            "pt-BR": "Carta 86. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0087",
           "title": {
-            "fr-FR": "Lettre 87. À Monsieur Colletot"
+            "fr-FR": "Lettre 87. À Monsieur Colletot",
+            "pt-BR": "Carta 87. Ao Senhor Colletot"
           }
         },
         {
           "id": "lettre-0088",
           "title": {
-            "fr-FR": "Lettre 88. À Louise de Marillac"
+            "fr-FR": "Lettre 88. À Louise de Marillac",
+            "pt-BR": "Carta 88. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0090",
           "title": {
-            "fr-FR": "Lettre 90. À Jean de la Salle, Prêtre de la Mission, au Mesnil"
+            "fr-FR": "Lettre 90. À Jean de la Salle, Prêtre de la Mission, au Mesnil",
+            "pt-BR": "Carta 90. A João de la Salle, Padre da Missão, em Le Mesnil"
           }
         },
         {
           "id": "lettre-0091",
           "title": {
-            "fr-FR": "Lettre 91. À Guillaume de Lestocq, Curé de Saint-Laurent"
+            "fr-FR": "Lettre 91. À Guillaume de Lestocq, Curé de Saint-Laurent",
+            "pt-BR": "Carta 91. A Guilherme de Lestocq, Pároco de Saint-Laurent"
           }
         },
         {
           "id": "lettre-0092",
           "title": {
-            "fr-FR": "Lettre 92. À Louise de Marillac"
+            "fr-FR": "Lettre 92. À Louise de Marillac",
+            "pt-BR": "Carta 92. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0093",
           "title": {
-            "fr-FR": "Lettre 93. À Louise de Marillac"
+            "fr-FR": "Lettre 93. À Louise de Marillac",
+            "pt-BR": "Carta 93. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0096",
           "title": {
-            "fr-FR": "Lettre 96. À Louise de Marillac"
+            "fr-FR": "Lettre 96. À Louise de Marillac",
+            "pt-BR": "Carta 96. A Luísa de Marillac"
           }
         }
       ]
@@ -659,187 +765,218 @@
     {
       "id": "groupe-10",
       "title": {
-        "fr-FR": "Année 1632"
+        "fr-FR": "Année 1632",
+        "pt-BR": "Ano de 1632"
       },
       "children": [
         {
           "id": "lettre-0097",
           "title": {
-            "fr-FR": "Lettre 97. À Louise de Marillac"
+            "fr-FR": "Lettre 97. À Louise de Marillac",
+            "pt-BR": "Carta 97. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0098",
           "title": {
-            "fr-FR": "Lettre 98. À Louise de Marillac"
+            "fr-FR": "Lettre 98. À Louise de Marillac",
+            "pt-BR": "Carta 98. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0099",
           "title": {
-            "fr-FR": "Lettre 99. À Isabelle du Fay"
+            "fr-FR": "Lettre 99. À Isabelle du Fay",
+            "pt-BR": "Carta 99. A Isabel du Fay"
           }
         },
         {
           "id": "lettre-0100",
           "title": {
-            "fr-FR": "Lettre 100. À François du Coudray, Prêtre de la Mission, à Rome"
+            "fr-FR": "Lettre 100. À François du Coudray, Prêtre de la Mission, à Rome",
+            "pt-BR": "Carta 100. A Francisco du Coudray, Padre da Missão, em Roma"
           }
         },
         {
           "id": "lettre-0101",
           "title": {
-            "fr-FR": "Lettre 101. À Louise de Marillac"
+            "fr-FR": "Lettre 101. À Louise de Marillac",
+            "pt-BR": "Carta 101. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0102",
           "title": {
-            "fr-FR": "Lettre 102. À N *"
+            "fr-FR": "Lettre 102. À N *",
+            "pt-BR": "Carta 102. A N *"
           }
         },
         {
           "id": "lettre-0103",
           "title": {
-            "fr-FR": "Lettre 103. À Louise de Marillac"
+            "fr-FR": "Lettre 103. À Louise de Marillac",
+            "pt-BR": "Carta 103. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0104",
           "title": {
-            "fr-FR": "Lettre 104. À Louise de Marillac"
+            "fr-FR": "Lettre 104. À Louise de Marillac",
+            "pt-BR": "Carta 104. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0105",
           "title": {
-            "fr-FR": "Lettre 105. À Louise de Marillac"
+            "fr-FR": "Lettre 105. À Louise de Marillac",
+            "pt-BR": "Carta 105. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0106",
           "title": {
-            "fr-FR": "Lettre 106. À Louise de Marillac"
+            "fr-FR": "Lettre 106. À Louise de Marillac",
+            "pt-BR": "Carta 106. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0107",
           "title": {
-            "fr-FR": "Lettre 107. À Louise de Marillac"
+            "fr-FR": "Lettre 107. À Louise de Marillac",
+            "pt-BR": "Carta 107. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0108",
           "title": {
-            "fr-FR": "Lettre 108. À Louise de Marillac"
+            "fr-FR": "Lettre 108. À Louise de Marillac",
+            "pt-BR": "Carta 108. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0109",
           "title": {
-            "fr-FR": "Lettre 109. À Louise de Marillac"
+            "fr-FR": "Lettre 109. À Louise de Marillac",
+            "pt-BR": "Carta 109. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0110",
           "title": {
-            "fr-FR": "Lettre 110. À Louise de Marillac, à Villeneuve-Saint-Georges"
+            "fr-FR": "Lettre 110. À Louise de Marillac, à Villeneuve-Saint-Georges",
+            "pt-BR": "Carta 110. A Luísa de Marillac, em Villeneuve-Saint-Georges"
           }
         },
         {
           "id": "lettre-0111",
           "title": {
-            "fr-FR": "Lettre 111. À Louise de Marillac, à Villeneuve-Saint-Georges"
+            "fr-FR": "Lettre 111. À Louise de Marillac, à Villeneuve-Saint-Georges",
+            "pt-BR": "Carta 111. A Luísa de Marillac, em Villeneuve-Saint-Georges"
           }
         },
         {
           "id": "lettre-0112",
           "title": {
-            "fr-FR": "Lettre 112. À François du Coudray, Prêtre de la Mission. à Rome"
+            "fr-FR": "Lettre 112. À François du Coudray, Prêtre de la Mission. à Rome",
+            "pt-BR": "Carta 112. A Francisco du Coudray, Padre da Missão. em Roma"
           }
         },
         {
           "id": "lettre-0113",
           "title": {
-            "fr-FR": "Lettre 113. À Louise de Marillac"
+            "fr-FR": "Lettre 113. À Louise de Marillac",
+            "pt-BR": "Carta 113. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0114",
           "title": {
-            "fr-FR": "Lettre 114. À Isabelle du Fay"
+            "fr-FR": "Lettre 114. À Isabelle du Fay",
+            "pt-BR": "Carta 114. A Isabel du Fay"
           }
         },
         {
           "id": "lettre-0115",
           "title": {
-            "fr-FR": "Lettre 115. À Louise de Marillac"
+            "fr-FR": "Lettre 115. À Louise de Marillac",
+            "pt-BR": "Carta 115. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0116",
           "title": {
-            "fr-FR": "Lettre 116. À Louise de Marillac"
+            "fr-FR": "Lettre 116. À Louise de Marillac",
+            "pt-BR": "Carta 116. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0117",
           "title": {
-            "fr-FR": "Lettre 117. À Louise de Marillac"
+            "fr-FR": "Lettre 117. À Louise de Marillac",
+            "pt-BR": "Carta 117. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0118",
           "title": {
-            "fr-FR": "Lettre 118. À Isabelle du Fay"
+            "fr-FR": "Lettre 118. À Isabelle du Fay",
+            "pt-BR": "Carta 118. A Isabel du Fay"
           }
         },
         {
           "id": "lettre-0119",
           "title": {
-            "fr-FR": "Lettre 119. À Louise de Marillac"
+            "fr-FR": "Lettre 119. À Louise de Marillac",
+            "pt-BR": "Carta 119. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0120",
           "title": {
-            "fr-FR": "Lettre 120. À Louise de Marillac, à Asnières"
+            "fr-FR": "Lettre 120. À Louise de Marillac, à Asnières",
+            "pt-BR": "Carta 120. A Luísa de Marillac, em Asnières"
           }
         },
         {
           "id": "lettre-0121",
           "title": {
-            "fr-FR": "Lettre 121. À Louise de Marillac"
+            "fr-FR": "Lettre 121. À Louise de Marillac",
+            "pt-BR": "Carta 121. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0122",
           "title": {
-            "fr-FR": "Lettre 122. À Louise de Marillac"
+            "fr-FR": "Lettre 122. À Louise de Marillac",
+            "pt-BR": "Carta 122. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0123",
           "title": {
-            "fr-FR": "Lettre 123. À Louise de Marillac"
+            "fr-FR": "Lettre 123. À Louise de Marillac",
+            "pt-BR": "Carta 123. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0124",
           "title": {
-            "fr-FR": "Lettre 124. À François du Coudray, à Rome"
+            "fr-FR": "Lettre 124. À François du Coudray, à Rome",
+            "pt-BR": "Carta 124. A Francisco du Coudray, em Roma"
           }
         },
         {
           "id": "lettre-0125",
           "title": {
-            "fr-FR": "Lettre 125. À Antoine Portail"
+            "fr-FR": "Lettre 125. À Antoine Portail",
+            "pt-BR": "Carta 125. A Antônio Portail"
           }
         },
         {
           "id": "lettre-0126",
           "title": {
-            "fr-FR": "Lettre 126. À Louise de Marillac"
+            "fr-FR": "Lettre 126. À Louise de Marillac",
+            "pt-BR": "Carta 126. A Luísa de Marillac"
           }
         }
       ]
@@ -847,199 +984,232 @@
     {
       "id": "groupe-11",
       "title": {
-        "fr-FR": "Année 1633"
+        "fr-FR": "Année 1633",
+        "pt-BR": "Ano de 1633"
       },
       "children": [
         {
           "id": "lettre-0127",
           "title": {
-            "fr-FR": "Lettre 127. À N*"
+            "fr-FR": "Lettre 127. À N*",
+            "pt-BR": "Carta 127. A N*"
           }
         },
         {
           "id": "lettre-0128",
           "title": {
-            "fr-FR": "Lettre 128. À Louise de Marillac"
+            "fr-FR": "Lettre 128. À Louise de Marillac",
+            "pt-BR": "Carta 128. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0129",
           "title": {
-            "fr-FR": "Lettre 129. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 129. À un Prêtre de la Mission",
+            "pt-BR": "Carta 129. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-0130",
           "title": {
-            "fr-FR": "Lettre 130. Sainte Chantal à Saint Vincent"
+            "fr-FR": "Lettre 130. Sainte Chantal à Saint Vincent",
+            "pt-BR": "Carta 130. Santa Chantal a São Vicente"
           }
         },
         {
           "id": "lettre-0131",
           "title": {
-            "fr-FR": "Lettre 131. À Louise de Marillac"
+            "fr-FR": "Lettre 131. À Louise de Marillac",
+            "pt-BR": "Carta 131. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0132",
           "title": {
-            "fr-FR": "Lettre 132. À Louise de Marillac"
+            "fr-FR": "Lettre 132. À Louise de Marillac",
+            "pt-BR": "Carta 132. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0133",
           "title": {
-            "fr-FR": "Lettre 133. À Michel Alix, Curé de Saint-Ouen-L’aumône"
+            "fr-FR": "Lettre 133. À Michel Alix, Curé de Saint-Ouen-L’aumône",
+            "pt-BR": "Carta 133. A Miguel Alix, Pároco de Saint-Ouen-l’Aumône"
           }
         },
         {
           "id": "lettre-0135",
           "title": {
-            "fr-FR": "Lettre 135. Madame Goussault à Saint Vincent"
+            "fr-FR": "Lettre 135. Madame Goussault à Saint Vincent",
+            "pt-BR": "Carta 135. A Senhora Goussault a São Vicente"
           }
         },
         {
           "id": "lettre-0136",
           "title": {
-            "fr-FR": "Lettre 136. À Louise de Marillac"
+            "fr-FR": "Lettre 136. À Louise de Marillac",
+            "pt-BR": "Carta 136. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0137",
           "title": {
-            "fr-FR": "Lettre 137. À Louise de Marillac"
+            "fr-FR": "Lettre 137. À Louise de Marillac",
+            "pt-BR": "Carta 137. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0138",
           "title": {
-            "fr-FR": "Lettre 138. À Louise de Marillac"
+            "fr-FR": "Lettre 138. À Louise de Marillac",
+            "pt-BR": "Carta 138. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0139",
           "title": {
-            "fr-FR": "Lettre 139. - à Michel Alix, Curé de Saint-Ouen-L’aumône"
+            "fr-FR": "Lettre 139. - à Michel Alix, Curé de Saint-Ouen-L’aumône",
+            "pt-BR": "Carta 139. - a Miguel Alix, Pároco de Saint-Ouen-l’Aumône"
           }
         },
         {
           "id": "lettre-0140",
           "title": {
-            "fr-FR": "Lettre 140. À Louise de Marillac"
+            "fr-FR": "Lettre 140. À Louise de Marillac",
+            "pt-BR": "Carta 140. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0141",
           "title": {
-            "fr-FR": "Lettre 141. À un Ecclésiastique"
+            "fr-FR": "Lettre 141. À un Ecclésiastique",
+            "pt-BR": "Carta 141. A um Eclesiástico"
           }
         },
         {
           "id": "lettre-0142",
           "title": {
-            "fr-FR": "Lettre 142. À François du Coudray, à Rome"
+            "fr-FR": "Lettre 142. À François du Coudray, à Rome",
+            "pt-BR": "Carta 142. A Francisco du Coudray, em Roma"
           }
         },
         {
           "id": "lettre-0143",
           "title": {
-            "fr-FR": "Lettre 143. À Isabelle du Fay"
+            "fr-FR": "Lettre 143. À Isabelle du Fay",
+            "pt-BR": "Carta 143. A Isabel du Fay"
           }
         },
         {
           "id": "lettre-0144",
           "title": {
-            "fr-FR": "Lettre 144. À Louise de Marillac"
+            "fr-FR": "Lettre 144. À Louise de Marillac",
+            "pt-BR": "Carta 144. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0145",
           "title": {
-            "fr-FR": "Lettre 145. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 145. À un Prêtre de la Mission",
+            "pt-BR": "Carta 145. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-0146",
           "title": {
-            "fr-FR": "Lettre 146. À Alain de Solminihac"
+            "fr-FR": "Lettre 146. À Alain de Solminihac",
+            "pt-BR": "Carta 146. A Alano de Solminihac"
           }
         },
         {
           "id": "lettre-0147",
           "title": {
-            "fr-FR": "Lettre 147. À Louise de Marillac"
+            "fr-FR": "Lettre 147. À Louise de Marillac",
+            "pt-BR": "Carta 147. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0148",
           "title": {
-            "fr-FR": "Lettre 148. À Louise de Marillac"
+            "fr-FR": "Lettre 148. À Louise de Marillac",
+            "pt-BR": "Carta 148. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0149",
           "title": {
-            "fr-FR": "Lettre 149. À Louise de Marillac"
+            "fr-FR": "Lettre 149. À Louise de Marillac",
+            "pt-BR": "Carta 149. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0150",
           "title": {
-            "fr-FR": "Lettre 150. À Michel Alix, Curé de Saint-Ouen-L’aumône"
+            "fr-FR": "Lettre 150. À Michel Alix, Curé de Saint-Ouen-L’aumône",
+            "pt-BR": "Carta 150. A Miguel Alix, Pároco de Saint-Ouen-l’Aumône"
           }
         },
         {
           "id": "lettre-0151",
           "title": {
-            "fr-FR": "Lettre 151. À Louise de Marillac"
+            "fr-FR": "Lettre 151. À Louise de Marillac",
+            "pt-BR": "Carta 151. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0152",
           "title": {
-            "fr-FR": "Lettre 152. À Louise de Marillac"
+            "fr-FR": "Lettre 152. À Louise de Marillac",
+            "pt-BR": "Carta 152. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0153",
           "title": {
-            "fr-FR": "Lettre 153. À Louise de Marillac"
+            "fr-FR": "Lettre 153. À Louise de Marillac",
+            "pt-BR": "Carta 153. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0154",
           "title": {
-            "fr-FR": "Lettre 154. Au Lieutenant de Gannes"
+            "fr-FR": "Lettre 154. Au Lieutenant de Gannes",
+            "pt-BR": "Carta 154. Ao Tenente de Gannes"
           }
         },
         {
           "id": "lettre-0155",
           "title": {
-            "fr-FR": "Lettre 155. À Louise de Marillac"
+            "fr-FR": "Lettre 155. À Louise de Marillac",
+            "pt-BR": "Carta 155. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0156",
           "title": {
-            "fr-FR": "Lettre 156. À François du Coudray, Prêtre de la Mission, — À Rome"
+            "fr-FR": "Lettre 156. À François du Coudray, Prêtre de la Mission, — À Rome",
+            "pt-BR": "Carta 156. A Francisco du Coudray, Padre da Missão, — Em Roma"
           }
         },
         {
           "id": "lettre-0157",
           "title": {
-            "fr-FR": "Lettre 157. À Isabelle du Fay"
+            "fr-FR": "Lettre 157. À Isabelle du Fay",
+            "pt-BR": "Carta 157. A Isabel du Fay"
           }
         },
         {
           "id": "lettre-0158",
           "title": {
-            "fr-FR": "Lettre 158. À Jacques Perdu"
+            "fr-FR": "Lettre 158. À Jacques Perdu",
+            "pt-BR": "Carta 158. A Tiago Perdu"
           }
         },
         {
           "id": "lettre-0159",
           "title": {
-            "fr-FR": "Lettre 159. À Louise de Marillac"
+            "fr-FR": "Lettre 159. À Louise de Marillac",
+            "pt-BR": "Carta 159. A Luísa de Marillac"
           }
         }
       ]
@@ -1047,205 +1217,239 @@
     {
       "id": "groupe-12",
       "title": {
-        "fr-FR": "Année 1634"
+        "fr-FR": "Année 1634",
+        "pt-BR": "Ano de 1634"
       },
       "children": [
         {
           "id": "lettre-0160",
           "title": {
-            "fr-FR": "Lettre 160. À Louise de Marillac"
+            "fr-FR": "Lettre 160. À Louise de Marillac",
+            "pt-BR": "Carta 160. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0161",
           "title": {
-            "fr-FR": "Lettre 161. À Louise de Marillac"
+            "fr-FR": "Lettre 161. À Louise de Marillac",
+            "pt-BR": "Carta 161. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0162",
           "title": {
-            "fr-FR": "Lettre 162. À Louise de Marillac"
+            "fr-FR": "Lettre 162. À Louise de Marillac",
+            "pt-BR": "Carta 162. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0163",
           "title": {
-            "fr-FR": "Lettre 163. À Louise de Marillac"
+            "fr-FR": "Lettre 163. À Louise de Marillac",
+            "pt-BR": "Carta 163. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0164",
           "title": {
-            "fr-FR": "Lettre 164. À Louise de Marillac"
+            "fr-FR": "Lettre 164. À Louise de Marillac",
+            "pt-BR": "Carta 164. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0165",
           "title": {
-            "fr-FR": "Lettre 165. À Louise de Marillac"
+            "fr-FR": "Lettre 165. À Louise de Marillac",
+            "pt-BR": "Carta 165. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0166",
           "title": {
-            "fr-FR": "Lettre 166. À Louise de Marillac"
+            "fr-FR": "Lettre 166. À Louise de Marillac",
+            "pt-BR": "Carta 166. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0167",
           "title": {
-            "fr-FR": "Lettre 167. À Louise de Marillac"
+            "fr-FR": "Lettre 167. À Louise de Marillac",
+            "pt-BR": "Carta 167. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0168",
           "title": {
-            "fr-FR": "Lettre 168. À Louise de Marillac"
+            "fr-FR": "Lettre 168. À Louise de Marillac",
+            "pt-BR": "Carta 168. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0169",
           "title": {
-            "fr-FR": "Lettre 169. À Louise de Marillac, à Beauvais * (@)"
+            "fr-FR": "Lettre 169. À Louise de Marillac, à Beauvais * (@)",
+            "pt-BR": "Carta 169. A Luísa de Marillac, em Beauvais * (@)"
           }
         },
         {
           "id": "lettre-0170",
           "title": {
-            "fr-FR": "Lettre 170. À Louise de Marillac *"
+            "fr-FR": "Lettre 170. À Louise de Marillac *",
+            "pt-BR": "Carta 170. A Luísa de Marillac *"
           }
         },
         {
           "id": "lettre-0171",
           "title": {
-            "fr-FR": "Lettre 171. À Louise de Marillac"
+            "fr-FR": "Lettre 171. À Louise de Marillac",
+            "pt-BR": "Carta 171. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0172",
           "title": {
-            "fr-FR": "Lettre 172. À Louise de Marillac"
+            "fr-FR": "Lettre 172. À Louise de Marillac",
+            "pt-BR": "Carta 172. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0173",
           "title": {
-            "fr-FR": "Lettre 173. À Louise de Marillac, à Liancourt"
+            "fr-FR": "Lettre 173. À Louise de Marillac, à Liancourt",
+            "pt-BR": "Carta 173. A Luísa de Marillac, em Liancourt"
           }
         },
         {
           "id": "lettre-0174",
           "title": {
-            "fr-FR": "Lettre 174. À Louise de Marillac, à Liancourt"
+            "fr-FR": "Lettre 174. À Louise de Marillac, à Liancourt",
+            "pt-BR": "Carta 174. A Luísa de Marillac, em Liancourt"
           }
         },
         {
           "id": "lettre-0175",
           "title": {
-            "fr-FR": "Lettre 175. À Louise de Marillac"
+            "fr-FR": "Lettre 175. À Louise de Marillac",
+            "pt-BR": "Carta 175. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0176",
           "title": {
-            "fr-FR": "Lettre 176. À Louise de Marillac"
+            "fr-FR": "Lettre 176. À Louise de Marillac",
+            "pt-BR": "Carta 176. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0177",
           "title": {
-            "fr-FR": "Lettre 177. À François du Coudray, Prêtre de la Mission, — À Rome"
+            "fr-FR": "Lettre 177. À François du Coudray, Prêtre de la Mission, — À Rome",
+            "pt-BR": "Carta 177. A Francisco du Coudray, Padre da Missão, — Em Roma"
           }
         },
         {
           "id": "lettre-0178",
           "title": {
-            "fr-FR": "Lettre 178. Au Pape Urbain VIII"
+            "fr-FR": "Lettre 178. Au Pape Urbain VIII",
+            "pt-BR": "Carta 178. Ao Papa Urbano VIII"
           }
         },
         {
           "id": "lettre-0179",
           "title": {
-            "fr-FR": "Lettre 179. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 179. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 179. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-0180",
           "title": {
-            "fr-FR": "Lettre 180. À Louise de Marillac"
+            "fr-FR": "Lettre 180. À Louise de Marillac",
+            "pt-BR": "Carta 180. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0181",
           "title": {
-            "fr-FR": "Lettre 181. À Isabelle du Fay"
+            "fr-FR": "Lettre 181. À Isabelle du Fay",
+            "pt-BR": "Carta 181. A Isabel du Fay"
           }
         },
         {
           "id": "lettre-0182",
           "title": {
-            "fr-FR": "Lettre 182. À Louise de Marillac"
+            "fr-FR": "Lettre 182. À Louise de Marillac",
+            "pt-BR": "Carta 182. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0183",
           "title": {
-            "fr-FR": "Lettre 183. À Madame Goussault"
+            "fr-FR": "Lettre 183. À Madame Goussault",
+            "pt-BR": "Carta 183. À Senhora Goussault"
           }
         },
         {
           "id": "lettre-0184",
           "title": {
-            "fr-FR": "Lettre 184. À Louise de Marillac"
+            "fr-FR": "Lettre 184. À Louise de Marillac",
+            "pt-BR": "Carta 184. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0185",
           "title": {
-            "fr-FR": "Lettre 185. À Louise de Marillac"
+            "fr-FR": "Lettre 185. À Louise de Marillac",
+            "pt-BR": "Carta 185. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0186",
           "title": {
-            "fr-FR": "Lettre 186. À Louise de Marillac"
+            "fr-FR": "Lettre 186. À Louise de Marillac",
+            "pt-BR": "Carta 186. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0187",
           "title": {
-            "fr-FR": "Lettre 187. À Louise de Marillac"
+            "fr-FR": "Lettre 187. À Louise de Marillac",
+            "pt-BR": "Carta 187. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0188",
           "title": {
-            "fr-FR": "Lettre 188. À François du Coudray"
+            "fr-FR": "Lettre 188. À François du Coudray",
+            "pt-BR": "Carta 188. A Francisco du Coudray"
           }
         },
         {
           "id": "lettre-0189",
           "title": {
-            "fr-FR": "Lettre 189. À Jean de Fonteneil"
+            "fr-FR": "Lettre 189. À Jean de Fonteneil",
+            "pt-BR": "Carta 189. A João de Fonteneil"
           }
         },
         {
           "id": "lettre-0190",
           "title": {
-            "fr-FR": "Lettre 190. À Monsieur Belin"
+            "fr-FR": "Lettre 190. À Monsieur Belin",
+            "pt-BR": "Carta 190. Ao Senhor Belin"
           }
         },
         {
           "id": "lettre-0192",
           "title": {
-            "fr-FR": "Lettre 192. Jean de la Salle et Jean-Joseph Brunet"
+            "fr-FR": "Lettre 192. Jean de la Salle et Jean-Joseph Brunet",
+            "pt-BR": "Carta 192. João de la Salle e João José Brunet"
           }
         },
         {
           "id": "lettre-0194",
           "title": {
-            "fr-FR": "Lettre 194. À Saint Vincent"
+            "fr-FR": "Lettre 194. À Saint Vincent",
+            "pt-BR": "Carta 194. A São Vicente"
           }
         }
       ]
@@ -1253,121 +1457,141 @@
     {
       "id": "groupe-13",
       "title": {
-        "fr-FR": "Année 1635"
+        "fr-FR": "Année 1635",
+        "pt-BR": "Ano de 1635"
       },
       "children": [
         {
           "id": "lettre-0195",
           "title": {
-            "fr-FR": "Lettre 195. À N. *"
+            "fr-FR": "Lettre 195. À N. *",
+            "pt-BR": "Carta 195. A N. *"
           }
         },
         {
           "id": "lettre-0196",
           "title": {
-            "fr-FR": "Lettre 196. À Guy-François de Montholon"
+            "fr-FR": "Lettre 196. À Guy-François de Montholon",
+            "pt-BR": "Carta 196. A Guido Francisco de Montholon"
           }
         },
         {
           "id": "lettre-0197",
           "title": {
-            "fr-FR": "Lettre 197. À Antoine Portail, Prêtre de la Mission"
+            "fr-FR": "Lettre 197. À Antoine Portail, Prêtre de la Mission",
+            "pt-BR": "Carta 197. A Antônio Portail, Padre da Missão"
           }
         },
         {
           "id": "lettre-0198",
           "title": {
-            "fr-FR": "Lettre 198. À Antoine Lucas"
+            "fr-FR": "Lettre 198. À Antoine Lucas",
+            "pt-BR": "Carta 198. A Antônio Lucas"
           }
         },
         {
           "id": "lettre-0199",
           "title": {
-            "fr-FR": "Lettre 199. À Louise de Marillac"
+            "fr-FR": "Lettre 199. À Louise de Marillac",
+            "pt-BR": "Carta 199. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0200",
           "title": {
-            "fr-FR": "Lettre 200. À Louise de Marillac"
+            "fr-FR": "Lettre 200. À Louise de Marillac",
+            "pt-BR": "Carta 200. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0201",
           "title": {
-            "fr-FR": "Lettre 201. À Louise de Marillac"
+            "fr-FR": "Lettre 201. À Louise de Marillac",
+            "pt-BR": "Carta 201. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0202",
           "title": {
-            "fr-FR": "Lettre 202. À Antoine Portail, Prêtre de la Mission, — Aux Cévennes"
+            "fr-FR": "Lettre 202. À Antoine Portail, Prêtre de la Mission, — Aux Cévennes",
+            "pt-BR": "Carta 202. A Antônio Portail, Padre da Missão, — Nas Cévennes"
           }
         },
         {
           "id": "lettre-0203",
           "title": {
-            "fr-FR": "Lettre 203. À Louise de Marillac"
+            "fr-FR": "Lettre 203. À Louise de Marillac",
+            "pt-BR": "Carta 203. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0204",
           "title": {
-            "fr-FR": "Lettre 204. À Jean de Fonteneil"
+            "fr-FR": "Lettre 204. À Jean de Fonteneil",
+            "pt-BR": "Carta 204. A João de Fonteneil"
           }
         },
         {
           "id": "lettre-0205",
           "title": {
-            "fr-FR": "Lettre 205. À Louise de Marillac"
+            "fr-FR": "Lettre 205. À Louise de Marillac",
+            "pt-BR": "Carta 205. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0206",
           "title": {
-            "fr-FR": "Lettre 206. À Louise de Marillac"
+            "fr-FR": "Lettre 206. À Louise de Marillac",
+            "pt-BR": "Carta 206. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0207",
           "title": {
-            "fr-FR": "Lettre 207. À Clément de Bonzi, Évêque de Béziers"
+            "fr-FR": "Lettre 207. À Clément de Bonzi, Évêque de Béziers",
+            "pt-BR": "Carta 207. A Clemente de Bonzi, Bispo de Béziers"
           }
         },
         {
           "id": "lettre-0208",
           "title": {
-            "fr-FR": "Lettre 208. À Louise de Marillac"
+            "fr-FR": "Lettre 208. À Louise de Marillac",
+            "pt-BR": "Carta 208. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0209",
           "title": {
-            "fr-FR": "Lettre 209. À Antoine Portail, Prêtre de la Mission, — Aux Cévennes"
+            "fr-FR": "Lettre 209. À Antoine Portail, Prêtre de la Mission, — Aux Cévennes",
+            "pt-BR": "Carta 209. A Antônio Portail, Padre da Missão, — Nas Cévennes"
           }
         },
         {
           "id": "lettre-0210",
           "title": {
-            "fr-FR": "Lettre 210. À Louise de Marillac"
+            "fr-FR": "Lettre 210. À Louise de Marillac",
+            "pt-BR": "Carta 210. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0211",
           "title": {
-            "fr-FR": "Lettre 211. Sainte Chantal à Saint Vincent"
+            "fr-FR": "Lettre 211. Sainte Chantal à Saint Vincent",
+            "pt-BR": "Carta 211. Santa Chantal a São Vicente"
           }
         },
         {
           "id": "lettre-0212",
           "title": {
-            "fr-FR": "Lettre 212. À Louise de Marillac"
+            "fr-FR": "Lettre 212. À Louise de Marillac",
+            "pt-BR": "Carta 212. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0213",
           "title": {
-            "fr-FR": "Lettre 213. À Louise de Marillac"
+            "fr-FR": "Lettre 213. À Louise de Marillac",
+            "pt-BR": "Carta 213. A Luísa de Marillac"
           }
         }
       ]
@@ -1375,331 +1599,386 @@
     {
       "id": "groupe-14",
       "title": {
-        "fr-FR": "Année 1636"
+        "fr-FR": "Année 1636",
+        "pt-BR": "Ano de 1636"
       },
       "children": [
         {
           "id": "lettre-0214",
           "title": {
-            "fr-FR": "Lettre 214. À Louise de Marillac"
+            "fr-FR": "Lettre 214. À Louise de Marillac",
+            "pt-BR": "Carta 214. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0215",
           "title": {
-            "fr-FR": "Lettre 215. À Louise de Marillac"
+            "fr-FR": "Lettre 215. À Louise de Marillac",
+            "pt-BR": "Carta 215. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0216",
           "title": {
-            "fr-FR": "Lettre 216. À Louise de Marillac"
+            "fr-FR": "Lettre 216. À Louise de Marillac",
+            "pt-BR": "Carta 216. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0217",
           "title": {
-            "fr-FR": "Lettre 217. À Louise de Marillac"
+            "fr-FR": "Lettre 217. À Louise de Marillac",
+            "pt-BR": "Carta 217. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0218",
           "title": {
-            "fr-FR": "Lettre 218. À Louise de Marillac"
+            "fr-FR": "Lettre 218. À Louise de Marillac",
+            "pt-BR": "Carta 218. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0219",
           "title": {
-            "fr-FR": "Lettre 219. À Louise de Marillac"
+            "fr-FR": "Lettre 219. À Louise de Marillac",
+            "pt-BR": "Carta 219. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0220",
           "title": {
-            "fr-FR": "Lettre 220. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 220. À un Prêtre de la Mission",
+            "pt-BR": "Carta 220. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-0221",
           "title": {
-            "fr-FR": "Lettre 221. À Louise de Marillac"
+            "fr-FR": "Lettre 221. À Louise de Marillac",
+            "pt-BR": "Carta 221. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0222",
           "title": {
-            "fr-FR": "Lettre 222. À Louise de Marillac"
+            "fr-FR": "Lettre 222. À Louise de Marillac",
+            "pt-BR": "Carta 222. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0223",
           "title": {
-            "fr-FR": "Lettre 223. À Louise de Marillac"
+            "fr-FR": "Lettre 223. À Louise de Marillac",
+            "pt-BR": "Carta 223. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0224",
           "title": {
-            "fr-FR": "Lettre 224. À Louise de Marillac"
+            "fr-FR": "Lettre 224. À Louise de Marillac",
+            "pt-BR": "Carta 224. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0225",
           "title": {
-            "fr-FR": "Lettre 225. À Lambert aux Couteaux, Supérieur, à Toul"
+            "fr-FR": "Lettre 225. À Lambert aux Couteaux, Supérieur, à Toul",
+            "pt-BR": "Carta 225. A Lamberto aux Couteaux, Superior, em Toul"
           }
         },
         {
           "id": "lettre-0226",
           "title": {
-            "fr-FR": "Lettre 226. Jean-Jacques Olier à Saint- Vincent — Et aux Prêtres de la Conférence des Mardis"
+            "fr-FR": "Lettre 226. Jean-Jacques Olier à Saint- Vincent — Et aux Prêtres de la Conférence des Mardis",
+            "pt-BR": "Carta 226. João Tiago Olier a São Vicente — E aos Padres da Conferência das Terças-Feiras"
           }
         },
         {
           "id": "lettre-0227",
           "title": {
-            "fr-FR": "Lettre 227. À Louise de Marillac"
+            "fr-FR": "Lettre 227. À Louise de Marillac",
+            "pt-BR": "Carta 227. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0228",
           "title": {
-            "fr-FR": "Lettre 228. À Louise de Marillac"
+            "fr-FR": "Lettre 228. À Louise de Marillac",
+            "pt-BR": "Carta 228. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0229",
           "title": {
-            "fr-FR": "Lettre 229. À Louise de Marillac"
+            "fr-FR": "Lettre 229. À Louise de Marillac",
+            "pt-BR": "Carta 229. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0230",
           "title": {
-            "fr-FR": "Lettre 230. À Louise de Marillac"
+            "fr-FR": "Lettre 230. À Louise de Marillac",
+            "pt-BR": "Carta 230. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0231",
           "title": {
-            "fr-FR": "Lettre 231. À Louise de Marillac"
+            "fr-FR": "Lettre 231. À Louise de Marillac",
+            "pt-BR": "Carta 231. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0232",
           "title": {
-            "fr-FR": "Lettre 232. À Antoine Portail, Prêtre de la Mission, à Pébrac"
+            "fr-FR": "Lettre 232. À Antoine Portail, Prêtre de la Mission, à Pébrac",
+            "pt-BR": "Carta 232. A Antônio Portail, Padre da Missão, em Pébrac"
           }
         },
         {
           "id": "lettre-0233",
           "title": {
-            "fr-FR": "Lettre 233. À Monsieur de Saint Martin"
+            "fr-FR": "Lettre 233. À Monsieur de Saint Martin",
+            "pt-BR": "Carta 233. Ao Senhor de Saint Martin"
           }
         },
         {
           "id": "lettre-0234",
           "title": {
-            "fr-FR": "Lettre 234. À Louise de Marillac"
+            "fr-FR": "Lettre 234. À Louise de Marillac",
+            "pt-BR": "Carta 234. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0235",
           "title": {
-            "fr-FR": "Lettre 235. À Robert de Sergis, Prêtre de la Mission, — À Luzarches"
+            "fr-FR": "Lettre 235. À Robert de Sergis, Prêtre de la Mission, — À Luzarches",
+            "pt-BR": "Carta 235. A Roberto de Sergis, Padre da Missão, — Em Luzarches"
           }
         },
         {
           "id": "lettre-0236",
           "title": {
-            "fr-FR": "Lettre 236. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 236. À un Prêtre de la Mission",
+            "pt-BR": "Carta 236. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-0237",
           "title": {
-            "fr-FR": "Lettre 237. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 237. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 237. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-0238",
           "title": {
-            "fr-FR": "Lettre 238. À Louise de Marillac"
+            "fr-FR": "Lettre 238. À Louise de Marillac",
+            "pt-BR": "Carta 238. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0239",
           "title": {
-            "fr-FR": "Lettre 239. À Antoine Portail, Prêtre de la Mission"
+            "fr-FR": "Lettre 239. À Antoine Portail, Prêtre de la Mission",
+            "pt-BR": "Carta 239. A Antônio Portail, Padre da Missão"
           }
         },
         {
           "id": "lettre-0240",
           "title": {
-            "fr-FR": "Lettre 240. À Madame Goussault"
+            "fr-FR": "Lettre 240. À Madame Goussault",
+            "pt-BR": "Carta 240. À Senhora Goussault"
           }
         },
         {
           "id": "lettre-0241",
           "title": {
-            "fr-FR": "Lettre 241. À Louise de Marillac"
+            "fr-FR": "Lettre 241. À Louise de Marillac",
+            "pt-BR": "Carta 241. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0242",
           "title": {
-            "fr-FR": "Lettre 242. À Louise de Marillac"
+            "fr-FR": "Lettre 242. À Louise de Marillac",
+            "pt-BR": "Carta 242. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0243",
           "title": {
-            "fr-FR": "Lettre 243. À Robert de Sergis, Prêtre de la Mission"
+            "fr-FR": "Lettre 243. À Robert de Sergis, Prêtre de la Mission",
+            "pt-BR": "Carta 243. A Roberto de Sergis, Padre da Missão"
           }
         },
         {
           "id": "lettre-0244",
           "title": {
-            "fr-FR": "Lettre 244. À Robert de Sergis"
+            "fr-FR": "Lettre 244. À Robert de Sergis",
+            "pt-BR": "Carta 244. A Roberto de Sergis"
           }
         },
         {
           "id": "lettre-0245",
           "title": {
-            "fr-FR": "Lettre 245. À Robert de Sergis, Prêtre de la Mission, à Amiens"
+            "fr-FR": "Lettre 245. À Robert de Sergis, Prêtre de la Mission, à Amiens",
+            "pt-BR": "Carta 245. A Roberto de Sergis, Padre da Missão, em Amiens"
           }
         },
         {
           "id": "lettre-0246",
           "title": {
-            "fr-FR": "Lettre 246. À Louise de Marillac"
+            "fr-FR": "Lettre 246. À Louise de Marillac",
+            "pt-BR": "Carta 246. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0247",
           "title": {
-            "fr-FR": "Lettre 247. À Louise de Marillac"
+            "fr-FR": "Lettre 247. À Louise de Marillac",
+            "pt-BR": "Carta 247. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0248",
           "title": {
-            "fr-FR": "Lettre 248. À Louise de Marillac"
+            "fr-FR": "Lettre 248. À Louise de Marillac",
+            "pt-BR": "Carta 248. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0249",
           "title": {
-            "fr-FR": "Lettre 249. À Robert de Sergis, Prêtre de la Mission, à Amiens"
+            "fr-FR": "Lettre 249. À Robert de Sergis, Prêtre de la Mission, à Amiens",
+            "pt-BR": "Carta 249. A Roberto de Sergis, Padre da Missão, em Amiens"
           }
         },
         {
           "id": "lettre-0250",
           "title": {
-            "fr-FR": "Lettre 250. À Louise de Marillac"
+            "fr-FR": "Lettre 250. À Louise de Marillac",
+            "pt-BR": "Carta 250. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0251",
           "title": {
-            "fr-FR": "Lettre 251. À Louise de Marillac"
+            "fr-FR": "Lettre 251. À Louise de Marillac",
+            "pt-BR": "Carta 251. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0252",
           "title": {
-            "fr-FR": "Lettre 252. À Louise de Marillac"
+            "fr-FR": "Lettre 252. À Louise de Marillac",
+            "pt-BR": "Carta 252. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0253",
           "title": {
-            "fr-FR": "Lettre 253. À Louise de Marillac"
+            "fr-FR": "Lettre 253. À Louise de Marillac",
+            "pt-BR": "Carta 253. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0254",
           "title": {
-            "fr-FR": "Lettre 254. À Louise de Marillac"
+            "fr-FR": "Lettre 254. À Louise de Marillac",
+            "pt-BR": "Carta 254. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0255",
           "title": {
-            "fr-FR": "Lettre 255. À Louise de Marillac"
+            "fr-FR": "Lettre 255. À Louise de Marillac",
+            "pt-BR": "Carta 255. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0256",
           "title": {
-            "fr-FR": "Lettre 256. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 256. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 256. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-0257",
           "title": {
-            "fr-FR": "Lettre 257. Sainte Chantal à Saint Vincent"
+            "fr-FR": "Lettre 257. Sainte Chantal à Saint Vincent",
+            "pt-BR": "Carta 257. Santa Chantal a São Vicente"
           }
         },
         {
           "id": "lettre-0258",
           "title": {
-            "fr-FR": "Lettre 258. À Louise de Marillac"
+            "fr-FR": "Lettre 258. À Louise de Marillac",
+            "pt-BR": "Carta 258. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0259",
           "title": {
-            "fr-FR": "Lettre 259. À Jean de Fonteneil"
+            "fr-FR": "Lettre 259. À Jean de Fonteneil",
+            "pt-BR": "Carta 259. A João de Fonteneil"
           }
         },
         {
           "id": "lettre-0260",
           "title": {
-            "fr-FR": "Lettre 260. À Louise de Marillac"
+            "fr-FR": "Lettre 260. À Louise de Marillac",
+            "pt-BR": "Carta 260. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0261",
           "title": {
-            "fr-FR": "Lettre 261. À la Sœur Marie-Euphrosine Turpin"
+            "fr-FR": "Lettre 261. À la Sœur Marie-Euphrosine Turpin",
+            "pt-BR": "Carta 261. À Irmã Maria-Eufrosina Turpin"
           }
         },
         {
           "id": "lettre-0262",
           "title": {
-            "fr-FR": "Lettre 262. À Louise de Marillac"
+            "fr-FR": "Lettre 262. À Louise de Marillac",
+            "pt-BR": "Carta 262. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0263",
           "title": {
-            "fr-FR": "Lettre 263. À Louise de Marillac"
+            "fr-FR": "Lettre 263. À Louise de Marillac",
+            "pt-BR": "Carta 263. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0264",
           "title": {
-            "fr-FR": "Lettre 264. À Louise de Marillac"
+            "fr-FR": "Lettre 264. À Louise de Marillac",
+            "pt-BR": "Carta 264. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0265",
           "title": {
-            "fr-FR": "Lettre 265. À Louise de Marillac"
+            "fr-FR": "Lettre 265. À Louise de Marillac",
+            "pt-BR": "Carta 265. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0266",
           "title": {
-            "fr-FR": "Lettre 266. À Louise de Marillac"
+            "fr-FR": "Lettre 266. À Louise de Marillac",
+            "pt-BR": "Carta 266. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0267",
           "title": {
-            "fr-FR": "Lettre 267. À Louise de Marillac"
+            "fr-FR": "Lettre 267. À Louise de Marillac",
+            "pt-BR": "Carta 267. A Luísa de Marillac"
           }
         }
       ]
@@ -1707,127 +1986,148 @@
     {
       "id": "groupe-15",
       "title": {
-        "fr-FR": "Année 1637"
+        "fr-FR": "Année 1637",
+        "pt-BR": "Ano de 1637"
       },
       "children": [
         {
           "id": "lettre-0268",
           "title": {
-            "fr-FR": "Lettre 268. À Louise de Marillac"
+            "fr-FR": "Lettre 268. À Louise de Marillac",
+            "pt-BR": "Carta 268. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0269",
           "title": {
-            "fr-FR": "Lettre 269. À Antoine Collée, Supérieur, à Toul"
+            "fr-FR": "Lettre 269. À Antoine Collée, Supérieur, à Toul",
+            "pt-BR": "Carta 269. A Antônio Collée, Superior, em Toul"
           }
         },
         {
           "id": "lettre-0270",
           "title": {
-            "fr-FR": "Lettre 270. À Madame Goussault"
+            "fr-FR": "Lettre 270. À Madame Goussault",
+            "pt-BR": "Carta 270. À Senhora Goussault"
           }
         },
         {
           "id": "lettre-0271",
           "title": {
-            "fr-FR": "Lettre 271. Lascaris, Grand Maître de l’Ordre de Malte, — À Saint Vincent"
+            "fr-FR": "Lettre 271. Lascaris, Grand Maître de l’Ordre de Malte, — À Saint Vincent",
+            "pt-BR": "Carta 271. Lascaris, Grão-Mestre da Ordem de Malta, — A São Vicente"
           }
         },
         {
           "id": "lettre-0272",
           "title": {
-            "fr-FR": "Lettre 272. À Charles de Montchal, Archevêque — De Toulouse"
+            "fr-FR": "Lettre 272. À Charles de Montchal, Archevêque — De Toulouse",
+            "pt-BR": "Carta 272. A Carlos de Montchal, Arcebispo — De Toulouse"
           }
         },
         {
           "id": "lettre-0273",
           "title": {
-            "fr-FR": "Lettre 273. À Louise de Marillac"
+            "fr-FR": "Lettre 273. À Louise de Marillac",
+            "pt-BR": "Carta 273. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0274",
           "title": {
-            "fr-FR": "Lettre 274. À Louise de Marillac"
+            "fr-FR": "Lettre 274. À Louise de Marillac",
+            "pt-BR": "Carta 274. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0275",
           "title": {
-            "fr-FR": "Lettre 275. À Louise de Marillac"
+            "fr-FR": "Lettre 275. À Louise de Marillac",
+            "pt-BR": "Carta 275. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0276",
           "title": {
-            "fr-FR": "Lettre 276. À Louise de Marillac"
+            "fr-FR": "Lettre 276. À Louise de Marillac",
+            "pt-BR": "Carta 276. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0277",
           "title": {
-            "fr-FR": "Lettre 277. À Louise de Marillac"
+            "fr-FR": "Lettre 277. À Louise de Marillac",
+            "pt-BR": "Carta 277. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0278",
           "title": {
-            "fr-FR": "Lettre 278. - à Louise de Marillac"
+            "fr-FR": "Lettre 278. - à Louise de Marillac",
+            "pt-BR": "Carta 278. - a Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0280",
           "title": {
-            "fr-FR": "Lettre 280. À Louise de Marillac"
+            "fr-FR": "Lettre 280. À Louise de Marillac",
+            "pt-BR": "Carta 280. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0281",
           "title": {
-            "fr-FR": "Lettre 281. L’Abbé de Saint-Cyran (1) à Saint-Vincent,"
+            "fr-FR": "Lettre 281. L’Abbé de Saint-Cyran (1) à Saint-Vincent,",
+            "pt-BR": "Carta 281. O Abade de Saint-Cyran (1) a São Vicente,"
           }
         },
         {
           "id": "lettre-0282",
           "title": {
-            "fr-FR": "Lettre 282. À Monsieur Belin"
+            "fr-FR": "Lettre 282. À Monsieur Belin",
+            "pt-BR": "Carta 282. Ao Senhor Belin"
           }
         },
         {
           "id": "lettre-0283",
           "title": {
-            "fr-FR": "Lettre 283. À Louise de Marillac"
+            "fr-FR": "Lettre 283. À Louise de Marillac",
+            "pt-BR": "Carta 283. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0284",
           "title": {
-            "fr-FR": "Lettre 284. À la Mère de la Trinité I"
+            "fr-FR": "Lettre 284. À la Mère de la Trinité I",
+            "pt-BR": "Carta 284. À Madre da Trindade I"
           }
         },
         {
           "id": "lettre-0285",
           "title": {
-            "fr-FR": "Lettre 285. À Louise de Marillac"
+            "fr-FR": "Lettre 285. À Louise de Marillac",
+            "pt-BR": "Carta 285. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0286",
           "title": {
-            "fr-FR": "Lettre 286. À Louise de Marillac"
+            "fr-FR": "Lettre 286. À Louise de Marillac",
+            "pt-BR": "Carta 286. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0287",
           "title": {
-            "fr-FR": "Lettre 287. À Bernard Codoing, Prêtre de la Mission à Romans"
+            "fr-FR": "Lettre 287. À Bernard Codoing, Prêtre de la Mission à Romans",
+            "pt-BR": "Carta 287. A Bernardo Codoing, Padre da Missão em Romans"
           }
         },
         {
           "id": "lettre-0288",
           "title": {
-            "fr-FR": "Lettre 288. À Louise de Marillac"
+            "fr-FR": "Lettre 288. À Louise de Marillac",
+            "pt-BR": "Carta 288. A Luísa de Marillac"
           }
         }
       ]
@@ -1835,433 +2135,505 @@
     {
       "id": "groupe-16",
       "title": {
-        "fr-FR": "Année 1638"
+        "fr-FR": "Année 1638",
+        "pt-BR": "Ano de 1638"
       },
       "children": [
         {
           "id": "lettre-0289",
           "title": {
-            "fr-FR": "Lettre 289. À Louise de Marillac"
+            "fr-FR": "Lettre 289. À Louise de Marillac",
+            "pt-BR": "Carta 289. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0290",
           "title": {
-            "fr-FR": "Lettre 290. À Louise de Marillac"
+            "fr-FR": "Lettre 290. À Louise de Marillac",
+            "pt-BR": "Carta 290. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0291",
           "title": {
-            "fr-FR": "Lettre 291. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 291. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 291. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-0293",
           "title": {
-            "fr-FR": "Lettre 293. À Lambert aux Couteaux, Prêtre de la Mission, — À Richelieu"
+            "fr-FR": "Lettre 293. À Lambert aux Couteaux, Prêtre de la Mission, — À Richelieu",
+            "pt-BR": "Carta 293. A Lamberto aux Couteaux, Padre da Missão, — Em Richelieu"
           }
         },
         {
           "id": "lettre-0294",
           "title": {
-            "fr-FR": "Lettre 294. À Antoine Lucas"
+            "fr-FR": "Lettre 294. À Antoine Lucas",
+            "pt-BR": "Carta 294. A Antônio Lucas"
           }
         },
         {
           "id": "lettre-0295",
           "title": {
-            "fr-FR": "Lettre 295. À Louise de Marillac"
+            "fr-FR": "Lettre 295. À Louise de Marillac",
+            "pt-BR": "Carta 295. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0296",
           "title": {
-            "fr-FR": "Lettre 296. À Louise de Marillac"
+            "fr-FR": "Lettre 296. À Louise de Marillac",
+            "pt-BR": "Carta 296. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0297",
           "title": {
-            "fr-FR": "Lettre 297. À Louise de Marillac"
+            "fr-FR": "Lettre 297. À Louise de Marillac",
+            "pt-BR": "Carta 297. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0298",
           "title": {
-            "fr-FR": "Lettre 298. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 298. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 298. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-0299",
           "title": {
-            "fr-FR": "Lettre 299. À Robert de Sergis"
+            "fr-FR": "Lettre 299. À Robert de Sergis",
+            "pt-BR": "Carta 299. A Roberto de Sergis"
           }
         },
         {
           "id": "lettre-0300",
           "title": {
-            "fr-FR": "Lettre 300. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 300. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 300. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-0301",
           "title": {
-            "fr-FR": "Lettre 301. À Louise de Marillac"
+            "fr-FR": "Lettre 301. À Louise de Marillac",
+            "pt-BR": "Carta 301. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0302",
           "title": {
-            "fr-FR": "Lettre 302. À Louise de Marillac"
+            "fr-FR": "Lettre 302. À Louise de Marillac",
+            "pt-BR": "Carta 302. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0303",
           "title": {
-            "fr-FR": "Lettre 303. À Louise de Marillac"
+            "fr-FR": "Lettre 303. À Louise de Marillac",
+            "pt-BR": "Carta 303. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0304",
           "title": {
-            "fr-FR": "Lettre 304. À Louise de Marillac"
+            "fr-FR": "Lettre 304. À Louise de Marillac",
+            "pt-BR": "Carta 304. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0305",
           "title": {
-            "fr-FR": "Lettre 305. À Louise de Marillac"
+            "fr-FR": "Lettre 305. À Louise de Marillac",
+            "pt-BR": "Carta 305. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0306",
           "title": {
-            "fr-FR": "Lettre 306. À Lambert aux Couteaux"
+            "fr-FR": "Lettre 306. À Lambert aux Couteaux",
+            "pt-BR": "Carta 306. A Lamberto aux Couteaux"
           }
         },
         {
           "id": "lettre-0307",
           "title": {
-            "fr-FR": "Lettre 307. À Antoine Lucas"
+            "fr-FR": "Lettre 307. À Antoine Lucas",
+            "pt-BR": "Carta 307. A Antônio Lucas"
           }
         },
         {
           "id": "lettre-0308",
           "title": {
-            "fr-FR": "Lettre 308. À la Mère de la Trinité"
+            "fr-FR": "Lettre 308. À la Mère de la Trinité",
+            "pt-BR": "Carta 308. À Madre da Trindade"
           }
         },
         {
           "id": "lettre-0309",
           "title": {
-            "fr-FR": "Lettre 309. À Louise de Marillac"
+            "fr-FR": "Lettre 309. À Louise de Marillac",
+            "pt-BR": "Carta 309. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0310",
           "title": {
-            "fr-FR": "Lettre 310. À Louise de Marillac"
+            "fr-FR": "Lettre 310. À Louise de Marillac",
+            "pt-BR": "Carta 310. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0311",
           "title": {
-            "fr-FR": "Lettre 311. À Lambert aux Couteaux"
+            "fr-FR": "Lettre 311. À Lambert aux Couteaux",
+            "pt-BR": "Carta 311. A Lamberto aux Couteaux"
           }
         },
         {
           "id": "lettre-0312",
           "title": {
-            "fr-FR": "Lettre 312. À Louise de Marillac"
+            "fr-FR": "Lettre 312. À Louise de Marillac",
+            "pt-BR": "Carta 312. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0313",
           "title": {
-            "fr-FR": "Lettre 313. À Louise de Marillac"
+            "fr-FR": "Lettre 313. À Louise de Marillac",
+            "pt-BR": "Carta 313. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0314",
           "title": {
-            "fr-FR": "Lettre 314. À Louise de Marillac"
+            "fr-FR": "Lettre 314. À Louise de Marillac",
+            "pt-BR": "Carta 314. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0315",
           "title": {
-            "fr-FR": "Lettre 315. À Louise de Marillac"
+            "fr-FR": "Lettre 315. À Louise de Marillac",
+            "pt-BR": "Carta 315. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0316",
           "title": {
-            "fr-FR": "Lettre 316. À Lambert aux Couteaux"
+            "fr-FR": "Lettre 316. À Lambert aux Couteaux",
+            "pt-BR": "Carta 316. A Lamberto aux Couteaux"
           }
         },
         {
           "id": "lettre-0317",
           "title": {
-            "fr-FR": "Lettre 317. À Jean Bécu"
+            "fr-FR": "Lettre 317. À Jean Bécu",
+            "pt-BR": "Carta 317. A João Bécu"
           }
         },
         {
           "id": "lettre-0318",
           "title": {
-            "fr-FR": "Lettre 318. À Léonard Boucher"
+            "fr-FR": "Lettre 318. À Léonard Boucher",
+            "pt-BR": "Carta 318. A Leonardo Boucher"
           }
         },
         {
           "id": "lettre-0319",
           "title": {
-            "fr-FR": "Lettre 319. À Louise de Marillac"
+            "fr-FR": "Lettre 319. À Louise de Marillac",
+            "pt-BR": "Carta 319. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0320",
           "title": {
-            "fr-FR": "Lettre 320. — à Lambert aux Couteaux"
+            "fr-FR": "Lettre 320. — à Lambert aux Couteaux",
+            "pt-BR": "Carta 320. — a Lamberto aux Couteaux"
           }
         },
         {
           "id": "lettre-0321",
           "title": {
-            "fr-FR": "Lettre 321. Au Duc d’Atri"
+            "fr-FR": "Lettre 321. Au Duc d’Atri",
+            "pt-BR": "Carta 321. Ao Duque de Atri"
           }
         },
         {
           "id": "lettre-0322",
           "title": {
-            "fr-FR": "Lettre 322. À Antoine Portail, Prêtre de la Mission, — À Fréneville"
+            "fr-FR": "Lettre 322. À Antoine Portail, Prêtre de la Mission, — À Fréneville",
+            "pt-BR": "Carta 322. A Antônio Portail, Padre da Missão, — Em Fréneville"
           }
         },
         {
           "id": "lettre-0323",
           "title": {
-            "fr-FR": "Lettre 323. À Jean Bécu"
+            "fr-FR": "Lettre 323. À Jean Bécu",
+            "pt-BR": "Carta 323. A João Bécu"
           }
         },
         {
           "id": "lettre-0324",
           "title": {
-            "fr-FR": "Lettre 324. À Louise de Marillac"
+            "fr-FR": "Lettre 324. À Louise de Marillac",
+            "pt-BR": "Carta 324. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0325",
           "title": {
-            "fr-FR": "Lettre 325. À Louise de Marillac"
+            "fr-FR": "Lettre 325. À Louise de Marillac",
+            "pt-BR": "Carta 325. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0326",
           "title": {
-            "fr-FR": "Lettre 326. À Jean Bécu"
+            "fr-FR": "Lettre 326. À Jean Bécu",
+            "pt-BR": "Carta 326. A João Bécu"
           }
         },
         {
           "id": "lettre-0327",
           "title": {
-            "fr-FR": "Lettre 327. À Louise de Marillac"
+            "fr-FR": "Lettre 327. À Louise de Marillac",
+            "pt-BR": "Carta 327. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0328",
           "title": {
-            "fr-FR": "Lettre 328. À Nicolas Marceille"
+            "fr-FR": "Lettre 328. À Nicolas Marceille",
+            "pt-BR": "Carta 328. A Nicolau Marceille"
           }
         },
         {
           "id": "lettre-0329",
           "title": {
-            "fr-FR": "Lettre 329. À Jean Bécu"
+            "fr-FR": "Lettre 329. À Jean Bécu",
+            "pt-BR": "Carta 329. A João Bécu"
           }
         },
         {
           "id": "lettre-0330",
           "title": {
-            "fr-FR": "Lettre 330. À Jean Dehorgny"
+            "fr-FR": "Lettre 330. À Jean Dehorgny",
+            "pt-BR": "Carta 330. A João Dehorgny"
           }
         },
         {
           "id": "lettre-0331",
           "title": {
-            "fr-FR": "Lettre 331. À Jean de la Salle"
+            "fr-FR": "Lettre 331. À Jean de la Salle",
+            "pt-BR": "Carta 331. A João de la Salle"
           }
         },
         {
           "id": "lettre-0332",
           "title": {
-            "fr-FR": "Lettre 332. À Denis de Cordes"
+            "fr-FR": "Lettre 332. À Denis de Cordes",
+            "pt-BR": "Carta 332. A Dionísio de Cordes"
           }
         },
         {
           "id": "lettre-0333",
           "title": {
-            "fr-FR": "Lettre 333. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 333. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 333. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-0335",
           "title": {
-            "fr-FR": "Lettre 335. À Louise de Marillac"
+            "fr-FR": "Lettre 335. À Louise de Marillac",
+            "pt-BR": "Carta 335. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0336",
           "title": {
-            "fr-FR": "Lettre 336. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 336. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 336. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-0337",
           "title": {
-            "fr-FR": "Lettre 337. À Louise de Marillac"
+            "fr-FR": "Lettre 337. À Louise de Marillac",
+            "pt-BR": "Carta 337. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0338",
           "title": {
-            "fr-FR": "Lettre 338. À Louise de Marillac"
+            "fr-FR": "Lettre 338. À Louise de Marillac",
+            "pt-BR": "Carta 338. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0339",
           "title": {
-            "fr-FR": "Lettre 339. À Robert de Sergis"
+            "fr-FR": "Lettre 339. À Robert de Sergis",
+            "pt-BR": "Carta 339. A Roberto de Sergis"
           }
         },
         {
           "id": "lettre-0340",
           "title": {
-            "fr-FR": "Lettre 340. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 340. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 340. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-0343",
           "title": {
-            "fr-FR": "Lettre 343. À Bernard Codoing, Prêtre de la Mission, à Richelieu"
+            "fr-FR": "Lettre 343. À Bernard Codoing, Prêtre de la Mission, à Richelieu",
+            "pt-BR": "Carta 343. A Bernardo Codoing, Padre da Missão, em Richelieu"
           }
         },
         {
           "id": "lettre-0344",
           "title": {
-            "fr-FR": "Lettre 344. À Louise de Marillac"
+            "fr-FR": "Lettre 344. À Louise de Marillac",
+            "pt-BR": "Carta 344. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0346",
           "title": {
-            "fr-FR": "Lettre 346. À Madame Goussault"
+            "fr-FR": "Lettre 346. À Madame Goussault",
+            "pt-BR": "Carta 346. À Senhora Goussault"
           }
         },
         {
           "id": "lettre-0347",
           "title": {
-            "fr-FR": "Lettre 347. À Louise de Marillac"
+            "fr-FR": "Lettre 347. À Louise de Marillac",
+            "pt-BR": "Carta 347. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0348",
           "title": {
-            "fr-FR": "Lettre 348. À Louise de Marillac"
+            "fr-FR": "Lettre 348. À Louise de Marillac",
+            "pt-BR": "Carta 348. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0349",
           "title": {
-            "fr-FR": "Lettre 349. À Louise de Marillac"
+            "fr-FR": "Lettre 349. À Louise de Marillac",
+            "pt-BR": "Carta 349. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0350",
           "title": {
-            "fr-FR": "Lettre 350. À Louise de Marillac"
+            "fr-FR": "Lettre 350. À Louise de Marillac",
+            "pt-BR": "Carta 350. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0351",
           "title": {
-            "fr-FR": "Lettre 351. À Louise de Marillac"
+            "fr-FR": "Lettre 351. À Louise de Marillac",
+            "pt-BR": "Carta 351. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0352",
           "title": {
-            "fr-FR": "Lettre 352. À Lambert aux Couteaux"
+            "fr-FR": "Lettre 352. À Lambert aux Couteaux",
+            "pt-BR": "Carta 352. A Lamberto aux Couteaux"
           }
         },
         {
           "id": "lettre-0353",
           "title": {
-            "fr-FR": "Lettre 353. À Louise de Marillac"
+            "fr-FR": "Lettre 353. À Louise de Marillac",
+            "pt-BR": "Carta 353. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0354",
           "title": {
-            "fr-FR": "Lettre 354. À Louise de Marillac"
+            "fr-FR": "Lettre 354. À Louise de Marillac",
+            "pt-BR": "Carta 354. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0355",
           "title": {
-            "fr-FR": "Lettre 355. À Louise de Marillac"
+            "fr-FR": "Lettre 355. À Louise de Marillac",
+            "pt-BR": "Carta 355. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0357",
           "title": {
-            "fr-FR": "Lettre 357. À Louise de Marillac"
+            "fr-FR": "Lettre 357. À Louise de Marillac",
+            "pt-BR": "Carta 357. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0358",
           "title": {
-            "fr-FR": "Lettre 358. À Lambert aux Couteaux, Supérieur, à Richelieu"
+            "fr-FR": "Lettre 358. À Lambert aux Couteaux, Supérieur, à Richelieu",
+            "pt-BR": "Carta 358. A Lamberto aux Couteaux, Superior, em Richelieu"
           }
         },
         {
           "id": "lettre-0359",
           "title": {
-            "fr-FR": "Lettre 359. À Louise de Marillac"
+            "fr-FR": "Lettre 359. À Louise de Marillac",
+            "pt-BR": "Carta 359. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0360",
           "title": {
-            "fr-FR": "Lettre 360. À Louise de Marillac"
+            "fr-FR": "Lettre 360. À Louise de Marillac",
+            "pt-BR": "Carta 360. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0361",
           "title": {
-            "fr-FR": "Lettre 361. À Louise de Marillac"
+            "fr-FR": "Lettre 361. À Louise de Marillac",
+            "pt-BR": "Carta 361. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0362",
           "title": {
-            "fr-FR": "Lettre 362. À Madame Goussault"
+            "fr-FR": "Lettre 362. À Madame Goussault",
+            "pt-BR": "Carta 362. À Senhora Goussault"
           }
         },
         {
           "id": "lettre-0363",
           "title": {
-            "fr-FR": "Lettre 363. À Bernard Codoing, Prêtre de la Mission à Richelieu"
+            "fr-FR": "Lettre 363. À Bernard Codoing, Prêtre de la Mission à Richelieu",
+            "pt-BR": "Carta 363. A Bernardo Codoing, Padre da Missão em Richelieu"
           }
         },
         {
           "id": "lettre-0364",
           "title": {
-            "fr-FR": "Lettre 364. À Antoine Lucas"
+            "fr-FR": "Lettre 364. À Antoine Lucas",
+            "pt-BR": "Carta 364. A Antônio Lucas"
           }
         },
         {
           "id": "lettre-0365",
           "title": {
-            "fr-FR": "Lettre 365. À Robert de Sergis"
+            "fr-FR": "Lettre 365. À Robert de Sergis",
+            "pt-BR": "Carta 365. A Roberto de Sergis"
           }
         }
       ]
@@ -2269,313 +2641,365 @@
     {
       "id": "groupe-17",
       "title": {
-        "fr-FR": "Année 1639"
+        "fr-FR": "Année 1639",
+        "pt-BR": "Ano de 1639"
       },
       "children": [
         {
           "id": "lettre-0366",
           "title": {
-            "fr-FR": "Lettre 366. À Pierre du Chesne"
+            "fr-FR": "Lettre 366. À Pierre du Chesne",
+            "pt-BR": "Carta 366. A Pedro du Chesne"
           }
         },
         {
           "id": "lettre-0367",
           "title": {
-            "fr-FR": "Lettre 367. À Pierre du Chesne"
+            "fr-FR": "Lettre 367. À Pierre du Chesne",
+            "pt-BR": "Carta 367. A Pedro du Chesne"
           }
         },
         {
           "id": "lettre-0368",
           "title": {
-            "fr-FR": "Lettre 368. À Robert de Sergis"
+            "fr-FR": "Lettre 368. À Robert de Sergis",
+            "pt-BR": "Carta 368. A Roberto de Sergis"
           }
         },
         {
           "id": "lettre-0369",
           "title": {
-            "fr-FR": "Lettre 369. À Pierre du Chesne"
+            "fr-FR": "Lettre 369. À Pierre du Chesne",
+            "pt-BR": "Carta 369. A Pedro du Chesne"
           }
         },
         {
           "id": "lettre-0370",
           "title": {
-            "fr-FR": "Lettre 370. À Louise de Marillac"
+            "fr-FR": "Lettre 370. À Louise de Marillac",
+            "pt-BR": "Carta 370. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0371",
           "title": {
-            "fr-FR": "Lettre 371. À Louise de Marillac"
+            "fr-FR": "Lettre 371. À Louise de Marillac",
+            "pt-BR": "Carta 371. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0372",
           "title": {
-            "fr-FR": "Lettre 372. - à Louise de Marillac"
+            "fr-FR": "Lettre 372. - à Louise de Marillac",
+            "pt-BR": "Carta 372. - a Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0373",
           "title": {
-            "fr-FR": "Lettre 373. À Louise de Marillac"
+            "fr-FR": "Lettre 373. À Louise de Marillac",
+            "pt-BR": "Carta 373. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0374",
           "title": {
-            "fr-FR": "Lettre 374. À Adrien Bourdoise"
+            "fr-FR": "Lettre 374. À Adrien Bourdoise",
+            "pt-BR": "Carta 374. A Adriano Bourdoise"
           }
         },
         {
           "id": "lettre-0375",
           "title": {
-            "fr-FR": "Lettre 375. À Louise de Marillac"
+            "fr-FR": "Lettre 375. À Louise de Marillac",
+            "pt-BR": "Carta 375. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0376",
           "title": {
-            "fr-FR": "Lettre 376. À Louis Lebreton"
+            "fr-FR": "Lettre 376. À Louis Lebreton",
+            "pt-BR": "Carta 376. A Luís Lebreton"
           }
         },
         {
           "id": "lettre-0377",
           "title": {
-            "fr-FR": "Lettre 377. À Robert de Sergis, Prêtre de la Mission, à Toulouse"
+            "fr-FR": "Lettre 377. À Robert de Sergis, Prêtre de la Mission, à Toulouse",
+            "pt-BR": "Carta 377. A Roberto de Sergis, Padre da Missão, em Toulouse"
           }
         },
         {
           "id": "lettre-0378",
           "title": {
-            "fr-FR": "Lettre 378. À Louise de Marillac"
+            "fr-FR": "Lettre 378. À Louise de Marillac",
+            "pt-BR": "Carta 378. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0379",
           "title": {
-            "fr-FR": "Lettre 379. À Louise de Marillac"
+            "fr-FR": "Lettre 379. À Louise de Marillac",
+            "pt-BR": "Carta 379. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0380",
           "title": {
-            "fr-FR": "Lettre 380. À Louise de Marillac"
+            "fr-FR": "Lettre 380. À Louise de Marillac",
+            "pt-BR": "Carta 380. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0381",
           "title": {
-            "fr-FR": "Lettre 381. À Louise de Marillac"
+            "fr-FR": "Lettre 381. À Louise de Marillac",
+            "pt-BR": "Carta 381. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0382",
           "title": {
-            "fr-FR": "Lettre 382. À Louise de Marillac"
+            "fr-FR": "Lettre 382. À Louise de Marillac",
+            "pt-BR": "Carta 382. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0383",
           "title": {
-            "fr-FR": "Lettre 383. À Sainte Jeanne de Chantal"
+            "fr-FR": "Lettre 383. À Sainte Jeanne de Chantal",
+            "pt-BR": "Carta 383. A Santa Joana de Chantal"
           }
         },
         {
           "id": "lettre-0384",
           "title": {
-            "fr-FR": "Lettre 384. À Leonard Boucher, Prêtre de la Mission, à Toul"
+            "fr-FR": "Lettre 384. À Leonard Boucher, Prêtre de la Mission, à Toul",
+            "pt-BR": "Carta 384. A Leonardo Boucher, Padre da Missão, em Toul"
           }
         },
         {
           "id": "lettre-0385",
           "title": {
-            "fr-FR": "Lettre 385. À Louise de Marillac"
+            "fr-FR": "Lettre 385. À Louise de Marillac",
+            "pt-BR": "Carta 385. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0386",
           "title": {
-            "fr-FR": "Lettre 386. À Louise de Marillac"
+            "fr-FR": "Lettre 386. À Louise de Marillac",
+            "pt-BR": "Carta 386. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0387",
           "title": {
-            "fr-FR": "Lettre 387. À Louise de Marillac"
+            "fr-FR": "Lettre 387. À Louise de Marillac",
+            "pt-BR": "Carta 387. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0388",
           "title": {
-            "fr-FR": "Lettre 388. À Louise de Marillac"
+            "fr-FR": "Lettre 388. À Louise de Marillac",
+            "pt-BR": "Carta 388. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0389",
           "title": {
-            "fr-FR": "Lettre 389. Sainte Chantal à Saint Vincent"
+            "fr-FR": "Lettre 389. Sainte Chantal à Saint Vincent",
+            "pt-BR": "Carta 389. Santa Chantal a São Vicente"
           }
         },
         {
           "id": "lettre-0390",
           "title": {
-            "fr-FR": "Lettre 390. À Sainte Jeanne de Chantal"
+            "fr-FR": "Lettre 390. À Sainte Jeanne de Chantal",
+            "pt-BR": "Carta 390. A Santa Joana de Chantal"
           }
         },
         {
           "id": "lettre-0391",
           "title": {
-            "fr-FR": "Lettre 391. À Louise de Marillac"
+            "fr-FR": "Lettre 391. À Louise de Marillac",
+            "pt-BR": "Carta 391. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0392",
           "title": {
-            "fr-FR": "Lettre 392. À la Mère de la Trinité"
+            "fr-FR": "Lettre 392. À la Mère de la Trinité",
+            "pt-BR": "Carta 392. À Madre da Trindade"
           }
         },
         {
           "id": "lettre-0393",
           "title": {
-            "fr-FR": "Lettre 393. À Louise de Marillac"
+            "fr-FR": "Lettre 393. À Louise de Marillac",
+            "pt-BR": "Carta 393. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0394",
           "title": {
-            "fr-FR": "Lettre 394. À Louise de Marillac"
+            "fr-FR": "Lettre 394. À Louise de Marillac",
+            "pt-BR": "Carta 394. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0395",
           "title": {
-            "fr-FR": "Lettre 395. À Louise de Marillac"
+            "fr-FR": "Lettre 395. À Louise de Marillac",
+            "pt-BR": "Carta 395. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0396",
           "title": {
-            "fr-FR": "Lettre 396. À Nicolas Sanguin, Évêque de Senlis"
+            "fr-FR": "Lettre 396. À Nicolas Sanguin, Évêque de Senlis",
+            "pt-BR": "Carta 396. A Nicolau Sanguin, Bispo de Senlis"
           }
         },
         {
           "id": "lettre-0397",
           "title": {
-            "fr-FR": "Lettre 397. À Louise de Marillac"
+            "fr-FR": "Lettre 397. À Louise de Marillac",
+            "pt-BR": "Carta 397. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0398",
           "title": {
-            "fr-FR": "Lettre 398. À Louise de Marillac"
+            "fr-FR": "Lettre 398. À Louise de Marillac",
+            "pt-BR": "Carta 398. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0399",
           "title": {
-            "fr-FR": "Lettre 399. À Louise de Marillac"
+            "fr-FR": "Lettre 399. À Louise de Marillac",
+            "pt-BR": "Carta 399. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0400",
           "title": {
-            "fr-FR": "Lettre 400. À Louise de Marillac"
+            "fr-FR": "Lettre 400. À Louise de Marillac",
+            "pt-BR": "Carta 400. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0401",
           "title": {
-            "fr-FR": "Lettre 401. À la Mère de la Trinité"
+            "fr-FR": "Lettre 401. À la Mère de la Trinité",
+            "pt-BR": "Carta 401. À Madre da Trindade"
           }
         },
         {
           "id": "lettre-0402",
           "title": {
-            "fr-FR": "Lettre 402. À Louise de Marillac"
+            "fr-FR": "Lettre 402. À Louise de Marillac",
+            "pt-BR": "Carta 402. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0403",
           "title": {
-            "fr-FR": "Lettre 403. À Louise de Marillac"
+            "fr-FR": "Lettre 403. À Louise de Marillac",
+            "pt-BR": "Carta 403. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0404",
           "title": {
-            "fr-FR": "Lettre 404. À Louis Lebreton, Prêtre de la Mission, à Rome"
+            "fr-FR": "Lettre 404. À Louis Lebreton, Prêtre de la Mission, à Rome",
+            "pt-BR": "Carta 404. A Luís Lebreton, Padre da Missão, em Roma"
           }
         },
         {
           "id": "lettre-0405",
           "title": {
-            "fr-FR": "Lettre 405. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 405. À un Prêtre de la Mission",
+            "pt-BR": "Carta 405. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-0406",
           "title": {
-            "fr-FR": "Lettre 406. À Louise de Marillac"
+            "fr-FR": "Lettre 406. À Louise de Marillac",
+            "pt-BR": "Carta 406. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0407",
           "title": {
-            "fr-FR": "Lettre 407. À Benoît Bécu, Prêtre de la Mission, à Richelieu"
+            "fr-FR": "Lettre 407. À Benoît Bécu, Prêtre de la Mission, à Richelieu",
+            "pt-BR": "Carta 407. A Bento Bécu, Padre da Missão, em Richelieu"
           }
         },
         {
           "id": "lettre-0408",
           "title": {
-            "fr-FR": "Lettre 408. À Louis Lebreton"
+            "fr-FR": "Lettre 408. À Louis Lebreton",
+            "pt-BR": "Carta 408. A Luís Lebreton"
           }
         },
         {
           "id": "lettre-0409",
           "title": {
-            "fr-FR": "Lettre 409. À Louise de Marillac"
+            "fr-FR": "Lettre 409. À Louise de Marillac",
+            "pt-BR": "Carta 409. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0410",
           "title": {
-            "fr-FR": "Lettre 410. À Louise de Marillac"
+            "fr-FR": "Lettre 410. À Louise de Marillac",
+            "pt-BR": "Carta 410. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0411",
           "title": {
-            "fr-FR": "Lettre 411. À Louise de Marillac"
+            "fr-FR": "Lettre 411. À Louise de Marillac",
+            "pt-BR": "Carta 411. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0412",
           "title": {
-            "fr-FR": "Lettre 412. À Nicolas Durot, Prêtre de la Mission, à Toulouse"
+            "fr-FR": "Lettre 412. À Nicolas Durot, Prêtre de la Mission, à Toulouse",
+            "pt-BR": "Carta 412. A Nicolau Durot, Padre da Missão, em Toulouse"
           }
         },
         {
           "id": "lettre-0413",
           "title": {
-            "fr-FR": "Lettre 413. À un Diacre de la Mission, aux Bons-Enfants"
+            "fr-FR": "Lettre 413. À un Diacre de la Mission, aux Bons-Enfants",
+            "pt-BR": "Carta 413. A um Diácono da Missão, nos Bons-Enfants"
           }
         },
         {
           "id": "lettre-0414",
           "title": {
-            "fr-FR": "Lettre 414. À Louise de Marillac"
+            "fr-FR": "Lettre 414. À Louise de Marillac",
+            "pt-BR": "Carta 414. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-0415",
           "title": {
-            "fr-FR": "Lettre 415. À Louise de Marillac à Angers"
+            "fr-FR": "Lettre 415. À Louise de Marillac à Angers",
+            "pt-BR": "Carta 415. A Luísa de Marillac em Angers"
           }
         },
         {
           "id": "lettre-0416",
           "title": {
-            "fr-FR": "Lettre 416. À Guy Lasnier de Vaux"
+            "fr-FR": "Lettre 416. À Guy Lasnier de Vaux",
+            "pt-BR": "Carta 416. A Guido Lasnier de Vaux"
           }
         }
       ]

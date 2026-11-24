@@ -1,0 +1,13 @@
+# Carta 127. A N*
+
+[Por volta de 1633] [^1]
+
+Monsenhor, o arcebispo [^2], em conformidade com a antiga prática da Igreja, na qual os bispos mandavam instruir em suas casas, durante vários dias, aqueles que desejavam ser promovidos às ordens, determinou que, doravante, os de sua diocese que tiverem esse desejo se recolham, dez dias antes de cada ordem, à casa dos padres da Missão, para ali fazerem um retiro espiritual, exercitarem-se na meditação, tão necessária aos eclesiásticos, fazerem uma confissão geral de toda a sua vida passada, uma revisão da teologia moral, particularmente da que diz respeito à administração dos sacramentos, aprenderem a realizar bem as cerimônias de todas as funções das ordens e, enfim, instruírem-se em todas as outras coisas necessárias aos eclesiásticos. Durante esse tempo, recebem alojamento e alimentação, e daí resulta tal fruto, pela graça de Deus, que se tem visto que todos os que fizeram esses exercícios levam depois uma vida verdadeiramente eclesiástica; a maioria deles até se dedica de maneira muito particular às obras de piedade, o que começa a se tornar manifesto ao público [^3]. [^4]
+
+[^1]: Abelly diz que esta carta foi escrita “cerca de dois anos depois” da determinação episcopal relativa aos ordenandos, que é de 21 de fevereiro de 1631.
+
+[^2]: João Francisco de Gondi.
+
+[^3]: De 1631 a 1643, houve a cada ano seis retiros de ordenandos na casa-mãe dos padres da Missão. Depois de 1643, suprimiu-se o retiro do meio da Quaresma. A partir de 1638, aos ordenandos da diocese de Paris juntaram-se os de outras dioceses que vinham receber as ordens nessa cidade. O número de hóspedes de Saint-Lazare passou então a oscilar entre setenta e cem. Todos eram recebidos gratuitamente. Para poder cobrir os custos, o santo despertou o interesse das senhoras da Caridade por essa obra, e elas contribuíram generosamente, sobretudo a presidenta de Herse e a marquesa de Maignelay. A rainha-mãe também fez algumas doações generosas. Tudo correu bem até 1645. Então as doações se tornaram mais raras, e a casa de Saint-Lazare foi obrigada a arcar com quase todas as despesas. Conseguia fazê-lo com dificuldade; mas desses retiros resultava tamanho bem que São Vicente nunca consentiu em interrompê-los nem em reduzir o número dos ordenandos. Chamava a Saint-Lazare, para dirigir os exercícios, os padres ou mesmo os bispos mais recomendáveis por suas virtudes, seus talentos e seu zelo. Ali estiveram Pavillon, Caullet, Perrochel, que a rainha-mãe veio ouvir, Sevin e Bossuet. (Abelly, op. cit., t. II, cap. II, seç. I-V.)
+
+[^4]: Abelly, *op. cit.*, t. II, cap. II, seç. II, início, p. 215.
