@@ -17,13 +17,19 @@
   },
   "composed": 1853,
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "gueranger/annee-liturgique",
   "editions": {
     "fr-FR": {
       "editor": "Dom Prosper Guéranger, abbé de Solesmes (14th ed., Oudin)",
       "year": 1900
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -56,295 +62,344 @@
     {
       "id": "001-le-temps-de-noel-depuis-lepiphanie",
       "title": {
-        "fr-FR": "Le temps de Noël depuis l’Épiphanie"
+        "fr-FR": "Le temps de Noël depuis l’Épiphanie",
+        "pt-BR": "O tempo do Natal desde a Epifania"
       }
     },
     {
       "id": "002-chapitre-premier-prieres-du-matin-et-du-soir",
       "title": {
-        "fr-FR": "Chapitre premier — Prieres du matin et du soir"
+        "fr-FR": "Chapitre premier — Prieres du matin et du soir",
+        "pt-BR": "Capítulo primeiro — Orações da manhã e da noite"
       }
     },
     {
       "id": "003-chapitre-ii-de-lassistance-a-la-sainte-messe-au",
       "title": {
-        "fr-FR": "Chapitre II — De l’assistance à la Sainte Messe au temps de Noël"
+        "fr-FR": "Chapitre II — De l’assistance à la Sainte Messe au temps de Noël",
+        "pt-BR": "Capítulo II — Da assistência à Santa Missa no tempo do Natal"
       }
     },
     {
       "id": "004-chapitre-iii-pratique-de-la-sainte-communion-au",
       "title": {
-        "fr-FR": "Chapitre III — Pratique de la Sainte Communion au temps de Noël"
+        "fr-FR": "Chapitre III — Pratique de la Sainte Communion au temps de Noël",
+        "pt-BR": "Capítulo III — Prática da Santa Comunhão no tempo do Natal"
       }
     },
     {
       "id": "005-chapitre-iv-des-offices-de-tierce-sexte-et-none",
       "title": {
-        "fr-FR": "Chapitre IV — Des offices de tierce, sexte et none au temps de Noël"
+        "fr-FR": "Chapitre IV — Des offices de tierce, sexte et none au temps de Noël",
+        "pt-BR": "Capítulo IV — Dos ofícios de terça, sexta e noa no tempo do Natal"
       }
     },
     {
       "id": "006-chapitre-v-de-loffice-des-vepres-des-dimanches-a",
       "title": {
-        "fr-FR": "Chapitre V — De l’office des vêpres des dimanches, au temps de Noël"
+        "fr-FR": "Chapitre V — De l’office des vêpres des dimanches, au temps de Noël",
+        "pt-BR": "Capítulo V — Do ofício das vésperas dos domingos, no tempo do Natal"
       }
     },
     {
       "id": "007-chapitre-vi-de-loffice-de-complies-au-temps-de-n",
       "title": {
-        "fr-FR": "Chapitre VI — De l’office de complies, au temps de Noël"
+        "fr-FR": "Chapitre VI — De l’office de complies, au temps de Noël",
+        "pt-BR": "Capítulo VI — Do ofício de completas, no tempo do Natal"
       }
     },
     {
       "id": "008-lepiphanie",
       "title": {
-        "fr-FR": "L’Épiphanie"
+        "fr-FR": "L’Épiphanie",
+        "pt-BR": "A Epifania"
       }
     },
     {
       "id": "009-6-janvier",
       "title": {
-        "fr-FR": "6 janvier"
+        "fr-FR": "6 janvier",
+        "pt-BR": "6 de janeiro"
       }
     },
     {
       "id": "010-le-dimanche-dans-loctave-de-lepiphanie",
       "title": {
-        "fr-FR": "Le dimanche dans l’octave de l’Épiphanie"
+        "fr-FR": "Le dimanche dans l’octave de l’Épiphanie",
+        "pt-BR": "O domingo na oitava da Epifania"
       }
     },
     {
       "id": "011-7-janvier-le-deuxieme-jour-dans-loctave-de-lepip",
       "title": {
-        "fr-FR": "7 janvier — Le deuxième jour dans l’octave de l’Épiphanie"
+        "fr-FR": "7 janvier — Le deuxième jour dans l’octave de l’Épiphanie",
+        "pt-BR": "7 de janeiro — O segundo dia na oitava da Epifania"
       }
     },
     {
       "id": "012-8-janvier-le-troisieme-jour-dans-loctave-de-lepi",
       "title": {
-        "fr-FR": "8 janvier — Le troisième jour dans l’octave de l’Épiphanie"
+        "fr-FR": "8 janvier — Le troisième jour dans l’octave de l’Épiphanie",
+        "pt-BR": "8 de janeiro — O terceiro dia na oitava da Epifania"
       }
     },
     {
       "id": "013-9-janvier-le-quatrieme-jour-dans-loctave-de-lepi",
       "title": {
-        "fr-FR": "9 janvier — Le quatrième jour dans l’octave de l’Épiphanie"
+        "fr-FR": "9 janvier — Le quatrième jour dans l’octave de l’Épiphanie",
+        "pt-BR": "9 de janeiro — O quarto dia na oitava da Epifania"
       }
     },
     {
       "id": "014-10-janvier-le-cinquieme-jour-dans-loctave-de-lep",
       "title": {
-        "fr-FR": "10 janvier — Le cinquième jour dans l’octave de l’Épiphanie"
+        "fr-FR": "10 janvier — Le cinquième jour dans l’octave de l’Épiphanie",
+        "pt-BR": "10 de janeiro — O quinto dia na oitava da Epifania"
       }
     },
     {
       "id": "015-11-janvier-le-sixieme-jour-dans-loctave-de-lepip",
       "title": {
-        "fr-FR": "11 janvier — Le sixième jour dans l’octave de l’Épiphanie"
+        "fr-FR": "11 janvier — Le sixième jour dans l’octave de l’Épiphanie",
+        "pt-BR": "11 de janeiro — O sexto dia na oitava da Epifania"
       }
     },
     {
       "id": "016-12-janvier-le-septieme-jour-dans-loctave-de-lepi",
       "title": {
-        "fr-FR": "12 janvier — Le septième jour dans l’octave de l’Épiphanie"
+        "fr-FR": "12 janvier — Le septième jour dans l’octave de l’Épiphanie",
+        "pt-BR": "12 de janeiro — O sétimo dia na oitava da Epifania"
       }
     },
     {
       "id": "017-13-janvier-loctave-de-lepiphanie",
       "title": {
-        "fr-FR": "13 janvier — L’octave de l’Épiphanie"
+        "fr-FR": "13 janvier — L’octave de l’Épiphanie",
+        "pt-BR": "13 de janeiro — A oitava da Epifania"
       }
     },
     {
       "id": "018-le-deuxieme-dimanche-apres-lepiphanie-la-fete-du",
       "title": {
-        "fr-FR": "Le deuxième dimanche après l’Épiphanie. la fête du très Saint Nom de Jésus"
+        "fr-FR": "Le deuxième dimanche après l’Épiphanie. la fête du très Saint Nom de Jésus",
+        "pt-BR": "O segundo domingo depois da Epifania. A festa do santíssimo Nome de Jesus"
       }
     },
     {
       "id": "019-14-janvier-saint-hilaire-eveque-et-docteur-de-le",
       "title": {
-        "fr-FR": "14 janvier — Saint Hilaire, évêque et Docteur de l’Église"
+        "fr-FR": "14 janvier — Saint Hilaire, évêque et Docteur de l’Église",
+        "pt-BR": "14 de janeiro — Santo Hilário, bispo e Doutor da Igreja"
       }
     },
     {
       "id": "020-14-janvier-saint-felix-pretre-et-martyr",
       "title": {
-        "fr-FR": "14 janvier — Saint Félix, prêtre et martyr"
+        "fr-FR": "14 janvier — Saint Félix, prêtre et martyr",
+        "pt-BR": "14 de janeiro — São Félix, sacerdote e mártir"
       }
     },
     {
       "id": "021-15-janvier-saint-paul-premier-ermite",
       "title": {
-        "fr-FR": "15 janvier — Saint Paul, premier ermite"
+        "fr-FR": "15 janvier — Saint Paul, premier ermite",
+        "pt-BR": "15 de janeiro — São Paulo, primeiro eremita"
       }
     },
     {
       "id": "022-15-janvier-saint-maur-abbe",
       "title": {
-        "fr-FR": "15 janvier — Saint Maur, abbé"
+        "fr-FR": "15 janvier — Saint Maur, abbé",
+        "pt-BR": "15 de janeiro — São Mauro, abade"
       }
     },
     {
       "id": "023-16-janvier-saint-marcel-pape-et-martyr",
       "title": {
-        "fr-FR": "16 janvier — Saint Marcel, Pape et martyr"
+        "fr-FR": "16 janvier — Saint Marcel, Pape et martyr",
+        "pt-BR": "16 de janeiro — São Marcelo, Papa e mártir"
       }
     },
     {
       "id": "024-17-janvier-saint-antoine-abbe",
       "title": {
-        "fr-FR": "17 janvier — Saint Antoine, abbé"
+        "fr-FR": "17 janvier — Saint Antoine, abbé",
+        "pt-BR": "17 de janeiro — Santo Antão, abade"
       }
     },
     {
       "id": "025-18-janvier-la-chaire-de-saint-pierre-a-rome",
       "title": {
-        "fr-FR": "18 janvier — La chaire de Saint Pierre a rome"
+        "fr-FR": "18 janvier — La chaire de Saint Pierre a rome",
+        "pt-BR": "18 de janeiro — A cátedra de São Pedro em Roma"
       }
     },
     {
       "id": "026-19-janvier-saint-canut-roi-et-martyr",
       "title": {
-        "fr-FR": "19 janvier — Saint Canut, roi et martyr"
+        "fr-FR": "19 janvier — Saint Canut, roi et martyr",
+        "pt-BR": "19 de janeiro — São Canuto, rei e mártir"
       }
     },
     {
       "id": "027-20-janvier-saint-fabien-pape-et-martyr-et-saint",
       "title": {
-        "fr-FR": "20 janvier — Saint Fabien, Pape et martyr, et Saint Sébastien, martyr"
+        "fr-FR": "20 janvier — Saint Fabien, Pape et martyr, et Saint Sébastien, martyr",
+        "pt-BR": "20 de janeiro — São Fabiano, Papa e mártir, e São Sebastião, mártir"
       }
     },
     {
       "id": "028-21-janvier-sainte-agnes-vierge-et-martyre",
       "title": {
-        "fr-FR": "21 janvier — Sainte Agnès, Vierge et martyre"
+        "fr-FR": "21 janvier — Sainte Agnès, Vierge et martyre",
+        "pt-BR": "21 de janeiro — Santa Inês, Virgem e mártir"
       }
     },
     {
       "id": "029-22-janvier-saint-vincent-diacre-et-martyr-et-sai",
       "title": {
-        "fr-FR": "22 janvier — Saint Vincent, diacre et martyr, et Saint Anastase, martyr"
+        "fr-FR": "22 janvier — Saint Vincent, diacre et martyr, et Saint Anastase, martyr",
+        "pt-BR": "22 de janeiro — São Vicente, diácono e mártir, e Santo Anastácio, mártir"
       }
     },
     {
       "id": "030-23-janvier-saint-raymond-de-pegnafort-confesseur",
       "title": {
-        "fr-FR": "23 janvier — Saint Raymond de pegnafort, confesseur"
+        "fr-FR": "23 janvier — Saint Raymond de pegnafort, confesseur",
+        "pt-BR": "23 de janeiro — São Raimundo de Penhaforte, confessor"
       }
     },
     {
       "id": "031-23-janvier-saint-ildefonse-eveque-et-confesseur",
       "title": {
-        "fr-FR": "23 janvier — Saint Ildefonse, évêque et confesseur"
+        "fr-FR": "23 janvier — Saint Ildefonse, évêque et confesseur",
+        "pt-BR": "23 de janeiro — Santo Ildefonso, bispo e confessor"
       }
     },
     {
       "id": "032-24-janvier-saint-timothee-eveque-et-martyr",
       "title": {
-        "fr-FR": "24 janvier — Saint Timothée, évêque et martyr"
+        "fr-FR": "24 janvier — Saint Timothée, évêque et martyr",
+        "pt-BR": "24 de janeiro — São Timóteo, bispo e mártir"
       }
     },
     {
       "id": "033-25-janvier-la-conversion-de-saint-paul",
       "title": {
-        "fr-FR": "25 janvier — La conversion de Saint Paul"
+        "fr-FR": "25 janvier — La conversion de Saint Paul",
+        "pt-BR": "25 de janeiro — A conversão de São Paulo"
       }
     },
     {
       "id": "034-26-janvier-saint-polycarpe-eveque-et-martyr",
       "title": {
-        "fr-FR": "26 janvier — Saint Polycarpe, évêque et martyr"
+        "fr-FR": "26 janvier — Saint Polycarpe, évêque et martyr",
+        "pt-BR": "26 de janeiro — São Policarpo, bispo e mártir"
       }
     },
     {
       "id": "035-26-janvier-sainte-paule-veuve",
       "title": {
-        "fr-FR": "26 janvier — Sainte Paule, veuve"
+        "fr-FR": "26 janvier — Sainte Paule, veuve",
+        "pt-BR": "26 de janeiro — Santa Paula, viúva"
       }
     },
     {
       "id": "036-27-janvier-saint-jean-chrysostome-eveque-et-doct",
       "title": {
-        "fr-FR": "27 janvier — Saint Jean chrysostome, évêque et Docteur de l’Église"
+        "fr-FR": "27 janvier — Saint Jean chrysostome, évêque et Docteur de l’Église",
+        "pt-BR": "27 de janeiro — São João Crisóstomo, bispo e Doutor da Igreja"
       }
     },
     {
       "id": "037-27-janvier-saint-julien-eveque-du-mans",
       "title": {
-        "fr-FR": "27 janvier — Saint Julien, évêque du mans"
+        "fr-FR": "27 janvier — Saint Julien, évêque du mans",
+        "pt-BR": "27 de janeiro — São Julião, bispo de Le Mans"
       }
     },
     {
       "id": "038-28-janvier-sainte-agnes-pour-la-seconde-fois",
       "title": {
-        "fr-FR": "28 janvier — Sainte Agnès, pour la seconde fois"
+        "fr-FR": "28 janvier — Sainte Agnès, pour la seconde fois",
+        "pt-BR": "28 de janeiro — Santa Inês, pela segunda vez"
       }
     },
     {
       "id": "039-28-janvier-le-bienheureux-charlemagne-empereur",
       "title": {
-        "fr-FR": "28 janvier — Le bienheureux charlemagne, empereur"
+        "fr-FR": "28 janvier — Le bienheureux charlemagne, empereur",
+        "pt-BR": "28 de janeiro — O bem-aventurado Carlos Magno, imperador"
       }
     },
     {
       "id": "040-29-janvier-saint-francois-de-sales-eveque-et-doc",
       "title": {
-        "fr-FR": "29 janvier — Saint François de sales, évêque et Docteur de l’Église"
+        "fr-FR": "29 janvier — Saint François de sales, évêque et Docteur de l’Église",
+        "pt-BR": "29 de janeiro — São Francisco de Sales, bispo e Doutor da Igreja"
       }
     },
     {
       "id": "041-30-janvier-sainte-martine-vierge-et-martyre",
       "title": {
-        "fr-FR": "30 janvier — Sainte Martine,Vierge et martyre"
+        "fr-FR": "30 janvier — Sainte Martine,Vierge et martyre",
+        "pt-BR": "30 de janeiro — Santa Martina, Virgem e mártir"
       }
     },
     {
       "id": "042-30-janvier-sainte-bathilde-reine-de-france",
       "title": {
-        "fr-FR": "30 janvier — Sainte Bathilde, reine de france"
+        "fr-FR": "30 janvier — Sainte Bathilde, reine de france",
+        "pt-BR": "30 de janeiro — Santa Batilde, rainha da França"
       }
     },
     {
       "id": "043-31-janvier-saint-pierre-nolasque-confesseur",
       "title": {
-        "fr-FR": "31 janvier — Saint Pierre nolasque, confesseur"
+        "fr-FR": "31 janvier — Saint Pierre nolasque, confesseur",
+        "pt-BR": "31 de janeiro — São Pedro Nolasco, confessor"
       }
     },
     {
       "id": "044-2-fevrier-la-purification-de-la-tres-sainte-vier",
       "title": {
-        "fr-FR": "2 février — La purification de la très Sainte Vierge"
+        "fr-FR": "2 février — La purification de la très Sainte Vierge",
+        "pt-BR": "2 de fevereiro — A purificação da santíssima Virgem"
       }
     },
     {
       "id": "045-le-troisieme-dimanche-apres-l-epiphanie",
       "title": {
-        "fr-FR": "Le troisième dimanche après l’ Épiphanie"
+        "fr-FR": "Le troisième dimanche après l’ Épiphanie",
+        "pt-BR": "O terceiro domingo depois da Epifania"
       }
     },
     {
       "id": "046-le-quatrieme-dimanche-apres-lepiphanie",
       "title": {
-        "fr-FR": "Le quatrième dimanche après l’Épiphanie"
+        "fr-FR": "Le quatrième dimanche après l’Épiphanie",
+        "pt-BR": "O quarto domingo depois da Epifania"
       }
     },
     {
       "id": "047-le-dimanche-de-la-septuagesime",
       "title": {
-        "fr-FR": "Le dimanche de la Septuagésime"
+        "fr-FR": "Le dimanche de la Septuagésime",
+        "pt-BR": "O domingo da Septuagésima"
       }
     },
     {
       "id": "048-le-dimanche-de-la-sexagesime",
       "title": {
-        "fr-FR": "Le dimanche de la Sexagésime"
+        "fr-FR": "Le dimanche de la Sexagésime",
+        "pt-BR": "O domingo da Sexagésima"
       }
     },
     {
       "id": "049-le-dimanche-de-la-quinquagesime",
       "title": {
-        "fr-FR": "Le dimanche de la Quinquagésime"
+        "fr-FR": "Le dimanche de la Quinquagésime",
+        "pt-BR": "O domingo da Quinquagésima"
       }
     }
   ]
