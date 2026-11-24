@@ -18,13 +18,19 @@
   },
   "composed": 1652,
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "john-eudes/offices-propres",
   "editions": {
     "fr-FR": {
       "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
       "year": 1905
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,337 +47,393 @@
     {
       "id": "off-01",
       "title": {
-        "fr-FR": "Introduction"
+        "fr-FR": "Introduction",
+        "pt-BR": "Introdução"
       }
     },
     {
       "id": "off-02",
       "title": {
-        "fr-FR": "Introduction : I. origine et publication des « offices ». leur histoire (1)"
+        "fr-FR": "Introduction : I. origine et publication des « offices ». leur histoire (1)",
+        "pt-BR": "Introdução: I. Origem e publicação dos “Ofícios”. Sua história (1)"
       }
     },
     {
       "id": "off-03",
       "title": {
-        "fr-FR": "Introduction : I. origine et publication des « offices ». leur histoire (2)"
+        "fr-FR": "Introduction : I. origine et publication des « offices ». leur histoire (2)",
+        "pt-BR": "Introdução: I. Origem e publicação dos “Ofícios”. Sua história (2)"
       }
     },
     {
       "id": "off-04",
       "title": {
-        "fr-FR": "Introduction : I. origine et publication des « offices ». leur histoire (3)"
+        "fr-FR": "Introduction : I. origine et publication des « offices ». leur histoire (3)",
+        "pt-BR": "Introdução: I. Origem e publicação dos “Ofícios”. Sua história (3)"
       }
     },
     {
       "id": "off-05",
       "title": {
-        "fr-FR": "Introduction : I. origine et publication des « offices ». leur histoire (4)"
+        "fr-FR": "Introduction : I. origine et publication des « offices ». leur histoire (4)",
+        "pt-BR": "Introdução: I. Origem e publicação dos “Ofícios”. Sua história (4)"
       }
     },
     {
       "id": "off-06",
       "title": {
-        "fr-FR": "Le XIV janvier : L'office du très saint nom de jésus"
+        "fr-FR": "Le XIV janvier : L'office du très saint nom de jésus",
+        "pt-BR": "Dia XIV de janeiro: O Ofício do santíssimo Nome de Jesus"
       }
     },
     {
       "id": "off-07",
       "title": {
-        "fr-FR": "Le XXII janvier : En la fête du sacré mariage de la b. vierge marie et"
+        "fr-FR": "Le XXII janvier : En la fête du sacré mariage de la b. vierge marie et",
+        "pt-BR": "Dia XXII de janeiro: Na festa do sagrado matrimônio da bem-aventurada Virgem Maria e"
       }
     },
     {
       "id": "off-08",
       "title": {
-        "fr-FR": "Le XXIII janvier : En la fête des ss. clément et agathange et de"
+        "fr-FR": "Le XXIII janvier : En la fête des ss. clément et agathange et de",
+        "pt-BR": "Dia XXIII de janeiro: Na festa dos santos Clemente e Agatângelo e de"
       }
     },
     {
       "id": "off-09",
       "title": {
-        "fr-FR": "Le VI février : En la fête de la divine enfance de jésus"
+        "fr-FR": "Le VI février : En la fête de la divine enfance de jésus",
+        "pt-BR": "Dia VI de fevereiro: Na festa da divina Infância de Jesus"
       }
     },
     {
       "id": "off-10",
       "title": {
-        "fr-FR": "Le VIII de février : En la solennité du très saint cœur de la (1)"
+        "fr-FR": "Le VIII de février : En la solennité du très saint cœur de la (1)",
+        "pt-BR": "Dia VIII de fevereiro: Na solenidade do santíssimo Coração da (1)"
       }
     },
     {
       "id": "off-11",
       "title": {
-        "fr-FR": "Le VIII de février : En la solennité du très saint cœur de la (2)"
+        "fr-FR": "Le VIII de février : En la solennité du très saint cœur de la (2)",
+        "pt-BR": "Dia VIII de fevereiro: Na solenidade do santíssimo Coração da (2)"
       }
     },
     {
       "id": "off-12",
       "title": {
-        "fr-FR": "Le VIII de février : En la solennité du très saint cœur de la (3)"
+        "fr-FR": "Le VIII de février : En la solennité du très saint cœur de la (3)",
+        "pt-BR": "Dia VIII de fevereiro: Na solenidade do santíssimo Coração da (3)"
       }
     },
     {
       "id": "off-13",
       "title": {
-        "fr-FR": "Le VIII de février : En la solennité du très saint cœur de la (4)"
+        "fr-FR": "Le VIII de février : En la solennité du très saint cœur de la (4)",
+        "pt-BR": "Dia VIII de fevereiro: Na solenidade do santíssimo Coração da (4)"
       }
     },
     {
       "id": "off-14",
       "title": {
-        "fr-FR": "Le XIX de mars : En la fête de saint joseph"
+        "fr-FR": "Le XIX de mars : En la fête de saint joseph",
+        "pt-BR": "Dia XIX de março: Na festa de São José"
       }
     },
     {
       "id": "off-15",
       "title": {
-        "fr-FR": "Le XXIII mars : En la fête de saint gabriel archange (1)"
+        "fr-FR": "Le XXIII mars : En la fête de saint gabriel archange (1)",
+        "pt-BR": "Dia XXIII de março: Na festa de São Gabriel Arcanjo (1)"
       }
     },
     {
       "id": "off-16",
       "title": {
-        "fr-FR": "Le XXIII mars : En la fête de saint gabriel archange (2)"
+        "fr-FR": "Le XXIII mars : En la fête de saint gabriel archange (2)",
+        "pt-BR": "Dia XXIII de março: Na festa de São Gabriel Arcanjo (2)"
       }
     },
     {
       "id": "off-17",
       "title": {
-        "fr-FR": "Le XXIII mars : En la fête de saint gabriel archange (3)"
+        "fr-FR": "Le XXIII mars : En la fête de saint gabriel archange (3)",
+        "pt-BR": "Dia XXIII de março: Na festa de São Gabriel Arcanjo (3)"
       }
     },
     {
       "id": "off-18",
       "title": {
-        "fr-FR": "Le XXIII mars : En la fête de saint gabriel archange (4)"
+        "fr-FR": "Le XXIII mars : En la fête de saint gabriel archange (4)",
+        "pt-BR": "Dia XXIII de março: Na festa de São Gabriel Arcanjo (4)"
       }
     },
     {
       "id": "off-19",
       "title": {
-        "fr-FR": "Le VIII juillet : En la fête des joies de la b. vierge marie"
+        "fr-FR": "Le VIII juillet : En la fête des joies de la b. vierge marie",
+        "pt-BR": "Dia VIII de julho: Na festa das alegrias da bem-aventurada Virgem Maria"
       }
     },
     {
       "id": "off-20",
       "title": {
-        "fr-FR": "Le XXVI de juillet : En la fête de sainte anne"
+        "fr-FR": "Le XXVI de juillet : En la fête de sainte anne",
+        "pt-BR": "Dia XXVI de julho: Na festa de Santa Ana"
       }
     },
     {
       "id": "off-21",
       "title": {
-        "fr-FR": "Le XXIX de juillet : En la fête de sainte marthe, vierge"
+        "fr-FR": "Le XXIX de juillet : En la fête de sainte marthe, vierge",
+        "pt-BR": "Dia XXIX de julho: Na festa de Santa Marta, virgem"
       }
     },
     {
       "id": "off-22",
       "title": {
-        "fr-FR": "Le XXXI de juillet : En la fête de saint ignace de loyola"
+        "fr-FR": "Le XXXI de juillet : En la fête de saint ignace de loyola",
+        "pt-BR": "Dia XXXI de julho: Na festa de Santo Inácio de Loyola"
       }
     },
     {
       "id": "off-23",
       "title": {
-        "fr-FR": "Le XXV de septembre : En la fête du s. nom de la b. v. marie (1)"
+        "fr-FR": "Le XXV de septembre : En la fête du s. nom de la b. v. marie (1)",
+        "pt-BR": "Dia XXV de setembro: Na festa do santo Nome da bem-aventurada Virgem Maria (1)"
       }
     },
     {
       "id": "off-24",
       "title": {
-        "fr-FR": "Le XXV de septembre : En la fête du s. nom de la b. v. marie (2)"
+        "fr-FR": "Le XXV de septembre : En la fête du s. nom de la b. v. marie (2)",
+        "pt-BR": "Dia XXV de setembro: Na festa do santo Nome da bem-aventurada Virgem Maria (2)"
       }
     },
     {
       "id": "off-25",
       "title": {
-        "fr-FR": "Le VII d'octobre : En la fête de n.d. de la victoire"
+        "fr-FR": "Le VII d'octobre : En la fête de n.d. de la victoire",
+        "pt-BR": "Dia VII de outubro: Na festa de Nossa Senhora da Vitória"
       }
     },
     {
       "id": "off-26",
       "title": {
-        "fr-FR": "Le XII d'octobre : En la fête de la sainte enfance de la bienheureuse"
+        "fr-FR": "Le XII d'octobre : En la fête de la sainte enfance de la bienheureuse",
+        "pt-BR": "Dia XII de outubro: Na festa da santa Infância da bem-aventurada"
       }
     },
     {
       "id": "off-27",
       "title": {
-        "fr-FR": "Le XX d'octobre : En la solennité du cœur admirable de jésus"
+        "fr-FR": "Le XX d'octobre : En la solennité du cœur admirable de jésus",
+        "pt-BR": "Dia XX de outubro: Na solenidade do Coração admirável de Jesus"
       }
     },
     {
       "id": "off-28",
       "title": {
-        "fr-FR": "Le XXI D'OCTOBRE : Second jour de l'octave"
+        "fr-FR": "Le XXI D'OCTOBRE : Second jour de l'octave",
+        "pt-BR": "Dia XXI DE OUTUBRO: Segundo dia da oitava"
       }
     },
     {
       "id": "off-29",
       "title": {
-        "fr-FR": "Le XXII d'octobre : Troisième jour de l'octave"
+        "fr-FR": "Le XXII d'octobre : Troisième jour de l'octave",
+        "pt-BR": "Dia XXII de outubro: Terceiro dia da oitava"
       }
     },
     {
       "id": "off-30",
       "title": {
-        "fr-FR": "Le XIII d'octobre : Quatrième jour de l'octave"
+        "fr-FR": "Le XIII d'octobre : Quatrième jour de l'octave",
+        "pt-BR": "Dia XIII de outubro: Quarto dia da oitava"
       }
     },
     {
       "id": "off-31",
       "title": {
-        "fr-FR": "Le XXIV d'octobre : Cinquième jour de l'octave"
+        "fr-FR": "Le XXIV d'octobre : Cinquième jour de l'octave",
+        "pt-BR": "Dia XXIV de outubro: Quinto dia da oitava"
       }
     },
     {
       "id": "off-32",
       "title": {
-        "fr-FR": "Le XXV d'octobre : Sixième jour de l'octave"
+        "fr-FR": "Le XXV d'octobre : Sixième jour de l'octave",
+        "pt-BR": "Dia XXV de outubro: Sexto dia da oitava"
       }
     },
     {
       "id": "off-33",
       "title": {
-        "fr-FR": "Le XXVI d'octobre : Septième jour de l'octave"
+        "fr-FR": "Le XXVI d'octobre : Septième jour de l'octave",
+        "pt-BR": "Dia XXVI de outubro: Sétimo dia da oitava"
       }
     },
     {
       "id": "off-34",
       "title": {
-        "fr-FR": "Le XXVII d'octobre : Jour de l'octave"
+        "fr-FR": "Le XXVII d'octobre : Jour de l'octave",
+        "pt-BR": "Dia XXVII de outubro: Dia da oitava"
       }
     },
     {
       "id": "off-35",
       "title": {
-        "fr-FR": "Le XIII de novembre : En la fête du divin sacerdoce"
+        "fr-FR": "Le XIII de novembre : En la fête du divin sacerdoce",
+        "pt-BR": "Dia XIII de novembro: Na festa do divino Sacerdócio"
       }
     },
     {
       "id": "off-36",
       "title": {
-        "fr-FR": "Le XIV de novembre : Deuxième jour de l'octave"
+        "fr-FR": "Le XIV de novembre : Deuxième jour de l'octave",
+        "pt-BR": "Dia XIV de novembro: Segundo dia da oitava"
       }
     },
     {
       "id": "off-37",
       "title": {
-        "fr-FR": "Le XV de novembre : Troisième jour de l'octave"
+        "fr-FR": "Le XV de novembre : Troisième jour de l'octave",
+        "pt-BR": "Dia XV de novembro: Terceiro dia da oitava"
       }
     },
     {
       "id": "off-38",
       "title": {
-        "fr-FR": "Le XVI de novembre : Quatrième jour de l'octave"
+        "fr-FR": "Le XVI de novembre : Quatrième jour de l'octave",
+        "pt-BR": "Dia XVI de novembro: Quarto dia da oitava"
       }
     },
     {
       "id": "off-39",
       "title": {
-        "fr-FR": "Le XVII de novembre : Cinquième jour de l'octave"
+        "fr-FR": "Le XVII de novembre : Cinquième jour de l'octave",
+        "pt-BR": "Dia XVII de novembro: Quinto dia da oitava"
       }
     },
     {
       "id": "off-40",
       "title": {
-        "fr-FR": "Le XVIII de novembre : Sixième jour de l'octave"
+        "fr-FR": "Le XVIII de novembre : Sixième jour de l'octave",
+        "pt-BR": "Dia XVIII de novembro: Sexto dia da oitava"
       }
     },
     {
       "id": "off-41",
       "title": {
-        "fr-FR": "Le XIX de novembre : Septième jour de l'octave"
+        "fr-FR": "Le XIX de novembre : Septième jour de l'octave",
+        "pt-BR": "Dia XIX de novembro: Sétimo dia da oitava"
       }
     },
     {
       "id": "off-42",
       "title": {
-        "fr-FR": "Le XX de novembre : Jour de l'octave"
+        "fr-FR": "Le XX de novembre : Jour de l'octave",
+        "pt-BR": "Dia XX de novembro: Dia da oitava"
       }
     },
     {
       "id": "off-43",
       "title": {
-        "fr-FR": "Le XXVII de novembre : En la fête de tous les saints dont on a les sacrées"
+        "fr-FR": "Le XXVII de novembre : En la fête de tous les saints dont on a les sacrées",
+        "pt-BR": "Dia XXVII de novembro: Na festa de todos os santos dos quais se têm as sagradas"
       }
     },
     {
       "id": "off-44",
       "title": {
-        "fr-FR": "Le XVIII de décembre : En la fête de l'expectation de la b. vierge marie (1)"
+        "fr-FR": "Le XVIII de décembre : En la fête de l'expectation de la b. vierge marie (1)",
+        "pt-BR": "Dia XVIII de dezembro: Na festa da Expectação da bem-aventurada Virgem Maria (1)"
       }
     },
     {
       "id": "off-45",
       "title": {
-        "fr-FR": "Le XVIII de décembre : En la fête de l'expectation de la b. vierge marie (2)"
+        "fr-FR": "Le XVIII de décembre : En la fête de l'expectation de la b. vierge marie (2)",
+        "pt-BR": "Dia XVIII de dezembro: Na festa da Expectação da bem-aventurada Virgem Maria (2)"
       }
     },
     {
       "id": "off-46",
       "title": {
-        "fr-FR": "Le XXVIII de janvier : En la fête de la solennité de jésus"
+        "fr-FR": "Le XXVIII de janvier : En la fête de la solennité de jésus",
+        "pt-BR": "Dia XXVIII de janeiro: Na festa da solenidade de Jesus"
       }
     },
     {
       "id": "off-47",
       "title": {
-        "fr-FR": "Le XX de mars : En la fête de s. joachim, confesseur"
+        "fr-FR": "Le XX de mars : En la fête de s. joachim, confesseur",
+        "pt-BR": "Dia XX de março: Na festa de São Joaquim, confessor"
       }
     },
     {
       "id": "off-48",
       "title": {
-        "fr-FR": "Le XVII de juillet : En la fête de s. alexis, confesseur"
+        "fr-FR": "Le XVII de juillet : En la fête de s. alexis, confesseur",
+        "pt-BR": "Dia XVII de julho: Na festa de Santo Aleixo, confessor"
       }
     },
     {
       "id": "off-49",
       "title": {
-        "fr-FR": "Le XXII de juillet : En la fête de sainte madeleine"
+        "fr-FR": "Le XXII de juillet : En la fête de sainte madeleine",
+        "pt-BR": "Dia XXII de julho: Na festa de Santa Madalena"
       }
     },
     {
       "id": "off-50",
       "title": {
-        "fr-FR": "Le XIII d'aout : En la fête de saint symphorien, martyr"
+        "fr-FR": "Le XIII d'aout : En la fête de saint symphorien, martyr",
+        "pt-BR": "Dia XIII de agosto: Na festa de São Sinforiano, mártir"
       }
     },
     {
       "id": "off-51",
       "title": {
-        "fr-FR": "Le XVII de septembre : En la solennité de la b. vierge marie"
+        "fr-FR": "Le XVII de septembre : En la solennité de la b. vierge marie",
+        "pt-BR": "Dia XVII de setembro: Na solenidade da bem-aventurada Virgem Maria"
       }
     },
     {
       "id": "off-52",
       "title": {
-        "fr-FR": "Le XI d'octobre : En la fête de saint siméon, confesseur (1)"
+        "fr-FR": "Le XI d'octobre : En la fête de saint siméon, confesseur (1)",
+        "pt-BR": "Dia XI de outubro: Na festa de São Simeão, confessor (1)"
       }
     },
     {
       "id": "off-53",
       "title": {
-        "fr-FR": "Le XI d'octobre : En la fête de saint siméon, confesseur (2)"
+        "fr-FR": "Le XI d'octobre : En la fête de saint siméon, confesseur (2)",
+        "pt-BR": "Dia XI de outubro: Na festa de São Simeão, confessor (2)"
       }
     },
     {
       "id": "off-54",
       "title": {
-        "fr-FR": "Le IV de novembre : En la fête de saint charles, pontife"
+        "fr-FR": "Le IV de novembre : En la fête de saint charles, pontife",
+        "pt-BR": "Dia IV de novembro: Na festa de São Carlos, pontífice"
       }
     },
     {
       "id": "off-55",
       "title": {
-        "fr-FR": "Le VIII de décembre : En la fête de la conception de la (1)"
+        "fr-FR": "Le VIII de décembre : En la fête de la conception de la (1)",
+        "pt-BR": "Dia VIII de dezembro: Na festa da Conceição da (1)"
       }
     },
     {
       "id": "off-56",
       "title": {
-        "fr-FR": "Le VIII de décembre : En la fête de la conception de la (2)"
+        "fr-FR": "Le VIII de décembre : En la fête de la conception de la (2)",
+        "pt-BR": "Dia VIII de dezembro: Na festa da Conceição da (2)"
       }
     }
   ]
