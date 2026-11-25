@@ -495,6 +495,7 @@ const why = {
   today: 'The real Today, shaped by the path: a plan, reminders set, the next prayer first.',
 }
 const whyAlt = {
+  order: { A: 'A ladder from the smallest step up: begin, grow, a rule, the Office. A beginner meets themselves first and sees where the road goes; people who know what they want (a tertiary, someone with a breviary) scan four lines and find theirs. A rule sits above the Office because the Benedictine, Carmelite, Dominican and Franciscan rules already hold the Hours, so a tertiary taps the rule first and gets both.', B: 'The order so far: the most specific reasons first, the catch-all last. It reads as an app for seasoned pray-ers, which honours some and closes the door on a beginner, who meets the Office first.', C: 'The middle first: someone who already prays a little, then beginners, then a rule and the Office. It bets that most people who install a Catholic prayer app already pray something; there is no data on that yet.' },
   ask: { D: 'Each reason as one of Today’s jewel cards with its stamp, swiped sideways under the ✠ pager. The first screen already looks like Today, but only one reason shows at a time.', E: 'Four of Today’s stamp tiles, with icons and perforated edges, the name in Cinzel beneath. Compact and playful; the shortest screen of all.', F: 'No pictures: the question becomes a sentence to finish, set large in italic between hairlines, like a missal’s headings. Reads fast and feels most like prayer.', G: 'One painting carries the whole page (Millet’s Angelus), with the reasons as a list on the white beneath, as on a tradition’s page. Calm, and one strong image instead of four.', H: 'Each reason is a saint’s holy card from the starter pool: Benedict for the Office, Ignatius for a rule, Teresa for growing, Thérèse for beginning. It teaches the cards before the first one is given.', I: 'An old book’s table of contents: roman numerals, dotted leaders, a red versal. The most bookish; it treats Ember as a Book of Hours.', B: 'Each reason is a chapter title from “Acrescentar à regra”: a faint painting dissolving into the page, the name in italic. The most “Ember” of the three, and the calmest.', C: 'A plain list with a small painting, as search and the library list things. The quickest to read, the least ceremonial.' },
   features: { B: 'No separate pages: the real Today, already shaped by their setup, with one part lit at a time. It teaches where things are, which feature pages cannot.', C: 'One page instead of three: each feature as one of Today’s jewel cards. Shortest; nothing to swipe.' },
   remind: { B: 'The plan’s thread with a bell beside each prayer. Finer control, but the Opus Dei plan would show thirteen bells.', C: 'One question: remind me at each prayer’s time, yes or no. The thread is only a preview. Simplest, but a big plan means many notifications.' },
@@ -541,9 +542,11 @@ const altGroups = {
   ask: { label: 'First screen', keys: ['ask'], opts: { A: 'Painted tiles', B: 'Chapter bands', C: 'A plain list', D: 'Today’s cards', E: 'Stamps', F: 'A sentence', G: 'One painting', H: 'Holy cards', I: 'A book’s contents' } },
   features: { label: 'Feature pages', keys: ['f1', 'f2', 'f3', 'fall'], opts: { A: 'Three painted pages', B: 'Today, lit up', C: 'One page of cards' } },
   remind: { label: 'Reminders', keys: ['remind'], opts: { A: 'Four moments', B: 'A bell per prayer', C: 'One question' } },
+  order: { label: 'Order (plain list)', keys: [], opts: { A: 'Smallest step first', B: 'Most specific first', C: 'Growing first' } },
   amen: { label: 'After Amen', keys: ['amen', 'choose'], opts: { A: 'Envelope, then saints', B: 'Straight to the saints' } },
 }
-const alt = { ask: 'A', features: 'A', remind: 'A', amen: 'A' }
+const alt = { ask: 'C', order: 'A', features: 'A', remind: 'A', amen: 'A' }
+const orders = { A: ['start', 'grow', 'rule', 'office'], B: ['office', 'rule', 'grow', 'start'], C: ['grow', 'start', 'rule', 'office'] }
 const groupOf = (k) => Object.keys(altGroups).find((g) => altGroups[g].keys.includes(k))
 function stepsOf(p) {
   let s = paths[p].steps
@@ -640,7 +643,7 @@ const crosses = (i, n = 3) => `<div class="crosses" aria-hidden="true">${Array.f
 const textbar = (left, right) => `<div class="textbar">${left || '<span></span>'}${right}</div>`
 const screens = {
   ask: () => {
-    const reasons = [['office', 'Rezar o Ofício Divino', 'A oração da Igreja, hora por hora', 'meditation-patristic', '50% 22%'], ['rule', 'Sigo uma regra de vida', 'Opus Dei, Carmelo, ordens terceiras…', 'tpl-opus-dei', '50% 50%'], ['grow', 'Já rezo e quero crescer', 'Fortalecer minha vida de oração', 'mental-prayer', '50% 25%'], ['start', 'Quero começar a rezar', 'Um começo pequeno e fiel', 'tpl-beginner-minimum', '40% 50%']]
+    const reasons = [['office', 'Quero rezar o Ofício', 'Já rezo, ou quero aprender', 'meditation-patristic', '50% 22%'], ['rule', 'Sigo uma regra de vida', 'Opus Dei, Carmelo, ordens terceiras…', 'tpl-opus-dei', '50% 50%'], ['grow', 'Já rezo e quero crescer', 'Fortalecer minha vida de oração', 'mental-prayer', '50% 25%'], ['start', 'Quero começar a rezar', 'Um começo pequeno e fiel', 'tpl-beginner-minimum', '40% 50%']].sort((a, b) => orders[alt.order].indexOf(a[0]) - orders[alt.order].indexOf(b[0]))
     const foot = `<button class="link" data-act="path" data-val="skip">Pular configuração</button>`
     if (alt.ask === 'B') return { body: `<div class="mast"><img src="a/notch_you_light.webp" alt=""></div>${head('Bem-vindo ao Ember', 'O que te traz aqui?')}<div class="bands">${reasons.map(([v, t, sub, i, p]) => `<button class="band" data-act="path" data-val="${v}" style="--art:url(${cov(i)});--pos:${p}"><b>${t}</b><small>${sub}</small><span class="fl" aria-hidden="true">· ✠ ·</span></button>`).join('')}</div>`, foot }
     const mast = `<div class="mast"><img src="a/notch_you_light.webp" alt=""></div>`
@@ -740,7 +743,7 @@ function render() {
   document.getElementById('overlay').innerHTML = ''
   document.getElementById('chips').innerHTML = Object.entries(paths).map(([k, p]) => `<button class="chip ${k === path && step > 0 ? 'on' : ''}" data-jump="${k}">${p.label}</button>`).join('')
   document.getElementById('pathName').textContent = step ? `${paths[path].label} · ${label}` : label
-  document.getElementById('why').textContent = (g && whyAlt[g]?.[alt[g]] && !(g === 'features' && alt.features === 'A')) ? whyAlt[g][alt[g]] : why[whyKey] || why[key]
+  document.getElementById('why').textContent = (key === 'ask' && alt.ask === 'C') ? `${whyAlt.ask.C} ${whyAlt.order[alt.order]}` : (g && whyAlt[g]?.[alt[g]] && !(g === 'features' && alt.features === 'A')) ? whyAlt[g][alt[g]] : why[whyKey] || why[key]
   document.getElementById('alts').innerHTML = Object.entries(altGroups).map(([k, gr]) => `<div class="altrow ${k === g ? 'here' : ''}"><span>${gr.label}</span>${Object.entries(gr.opts).map(([o, l]) => `<button class="${alt[k] === o ? 'on' : ''}" data-alt="${k}" data-opt="${o}" aria-pressed="${alt[k] === o}">${o} · ${l}</button>`).join('')}</div>`).join('')
   document.getElementById('steps').innerHTML = stepsOf(path).map((k, i) => { const fi = { f1: 0, f2: 1, f3: 2 }[k]; const n = fi === undefined ? names[k] : alt.features === 'B' ? tourNames[fi] : featureNames[paths[path].features[fi]]; return `<li><button class="${i === step ? 'on' : ''}" data-step="${i}"><i>${i + 1}</i>${n}</button></li>` }).join('')
 }
