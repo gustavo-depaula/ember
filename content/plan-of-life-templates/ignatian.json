@@ -39,7 +39,7 @@
       }
     },
     {
-      "ref": "gospel-of-the-day",
+      "ref": "daily-liturgy",
       "tier": "essential",
       "schedule": { "type": "daily" },
       "time": "07:30",

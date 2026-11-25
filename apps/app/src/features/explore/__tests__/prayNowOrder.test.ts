@@ -92,7 +92,7 @@ describe('pray now: which practice', () => {
   it("closes a practice's timeframe with its part of the day", () => {
     // The Franciscan 08:00 Gospel holds until noon — the morning's end — not
     // until the 21:30 examen.
-    expect(pick('franciscan', '11:30').ref).toBe('gospel-of-the-day')
+    expect(pick('franciscan', '11:30').ref).toBe('daily-liturgy')
     expect(pick('franciscan', '13:00')).toEqual({
       ref: 'examination-of-conscience',
       comingUp: true,

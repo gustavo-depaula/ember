@@ -50,7 +50,7 @@ export const ruleGuide: GuideTier[] = [
     entries: [
       { key: 'angelus', practiceId: 'practice/angelus' },
       { key: 'rosary', practiceId: 'practice/rosary' },
-      { key: 'gospel', practiceId: 'practice/gospel-of-the-day' },
+      { key: 'gospel', practiceId: 'practice/daily-liturgy' },
     ],
   },
   {

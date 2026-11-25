@@ -18,7 +18,7 @@ import {
   loadMissalCalendar,
   regionsForJurisdiction,
 } from '@/lib/missal/loaders'
-import { buildMass, buildProper, massLabel } from './missal/buildMass'
+import { buildMass, buildProper, buildProperParts, massLabel } from './missal/buildMass'
 import type { LangPrefs } from './missal/render'
 import type { ContentSource, SourceFetchContext } from './types'
 
@@ -144,7 +144,9 @@ export const missalMassSource: ContentSource<Primitive[]> = {
 
 /**
  * producer/mass-proper-of — the same Masses of the day, each as its proper
- * alone: the antiphons, the collect and the readings.
+ * alone: the antiphons, the collect and the readings. With `layout: "parts"`,
+ * the daily liturgy's tabs: the collect and each reading, without the
+ * antiphons. An app from before the param shows the whole proper instead.
  */
 export const missalProperSource: ContentSource<Primitive[]> = {
   id: 'producer/mass-proper-of',
@@ -153,5 +155,6 @@ export const missalProperSource: ContentSource<Primitive[]> = {
   },
   prefsDeps: ['lang', 'jurisdiction'],
   dateScoped: true,
-  fetch: (ctx: SourceFetchContext) => massesOfDay(ctx, buildProper),
+  fetch: (ctx: SourceFetchContext) =>
+    massesOfDay(ctx, ctx.params.layout === 'parts' ? buildProperParts : buildProper),
 }

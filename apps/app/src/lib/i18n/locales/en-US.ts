@@ -1693,6 +1693,7 @@ export default {
       suggestion: 'Suggestion',
     },
     celebrationOfDay: 'Celebration of the Day',
+    dailyLiturgy: 'Daily Liturgy',
     saintReadingTagline: 'Today’s life and reflection, from the Pictorial Lives of the Saints.',
     alsoToday: 'Also today',
     forThisSeason: 'For this Season',

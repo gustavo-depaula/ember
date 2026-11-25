@@ -1694,6 +1694,7 @@ export default {
       suggestion: 'Sugestão',
     },
     celebrationOfDay: 'Celebração do Dia',
+    dailyLiturgy: 'Liturgia Diária',
     saintReadingTagline: 'A vida e a reflexão de hoje, das Vidas Ilustradas dos Santos.',
     alsoToday: 'Também hoje',
     forThisSeason: 'Para este Tempo',

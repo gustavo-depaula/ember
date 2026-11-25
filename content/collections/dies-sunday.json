@@ -54,7 +54,7 @@
 				{ "kind": "item", "ref": "practice/mass" },
 				{ "kind": "item", "ref": "practice/te-deum" },
 				{ "kind": "item", "ref": "practice/holy-god" },
-				{ "kind": "item", "ref": "practice/gospel-of-the-day" }
+				{ "kind": "item", "ref": "practice/daily-liturgy" }
 			]
 		}
 	]

@@ -37,7 +37,7 @@ export function GospelOfTheDay() {
       onPress={() =>
         router.push({
           pathname: '/pray/[practiceId]',
-          params: { practiceId: 'gospel-of-the-day' },
+          params: { practiceId: 'daily-liturgy' },
         })
       }
       accessibilityRole="link"
