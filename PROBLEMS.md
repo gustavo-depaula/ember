@@ -574,3 +574,10 @@ Found reviewing the 1962 Mass in pt-BR against its Latin (November 2026). `conte
 - Old spellings in the propers: *abysmo*, *abysmos*, *mystérios*.
 - The Gradual of the 23rd Sunday after Pentecost ends with "Aleluia." and then "Alleluia." on a line of its own, the alleluia given twice.
 - `Ordo/Communio`: the faithful's Communion opens with the Confiteor, Misereátur and Indulgéntiam, which the 1962 missal dropped. The Portuguese notes it ("[Isto foi omitido no Missal de 1962]"); the Latin does not.
+
+## Matos Soares Bible (`content/bible/matos-soares`)
+
+Found on 2026-11-23 while typesetting John 1 for a social video. Not fixed in the corpus.
+
+- "principio" without its accent in 23 verses, beside the correct "princípio" elsewhere (John 1:1 has "No principio", John 1:2 "no princípio"). The others include 1 John 1:1, 2:24 and 3:8, 2 John 1:5, Ecclesiasticus 15:14 and 36:13, Ephesians 3:9, Genesis 31:2 and 31:5, Hebrews 1:10, Job 20:4 and 36:3. It reads as a scanning slip, not the edition's spelling; a search for `\bprincipio\b` lists all of them.
+- John 1 also keeps pre-reform spellings ("crêssem" in 1:7, "crêem" in 1:12, "há-de" in 1:15). These may be the printed edition's own and were only noticed, not checked against it.
