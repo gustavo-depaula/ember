@@ -175,7 +175,11 @@ export function getAllEntries(): Map<string, CatalogEntry> {
   if (mergedEntries) return mergedEntries
   const out = new Map<string, CatalogEntry>()
   for (const [id, entry] of localItems) out.set(id, entry)
-  for (const [id, entry] of Object.entries(catalog.items)) out.set(id, entry)
+  for (const [id, entry] of Object.entries(catalog.items)) {
+    // A former id is reached through getEntry and canonicalize; listed, it
+    // would show the practice twice.
+    if (!entry.aliasOf) out.set(id, entry)
+  }
   mergedEntries = out
   return out
 }
@@ -214,6 +218,12 @@ export function bareId(ref: string): string {
  * when the caller asked for a practice.
  */
 export function canonicalize(id: string, hintKind?: CatalogItemKind): string | undefined {
+  const found = findCanonical(id, hintKind)
+  // A merged practice's former id stands for the one it became.
+  return (found && getEntry(found)?.aliasOf) || found
+}
+
+function findCanonical(id: string, hintKind?: CatalogItemKind): string | undefined {
   if (hintKind) {
     if (id.startsWith(`${hintKind}/`) && hasEntry(id)) return id
     const candidate = `${hintKind}/${id.replace(/^[^/]+\//, '')}`

@@ -116,6 +116,9 @@ export type CatalogEntry = {
   // Praying this practice is one of the three prayers of a prayed day (holy
   // cards); carried to forms as `liturgicalAct` is.
   dayPrayer?: DayPrayer
+  // A former id of a practice merged into another: this entry is that practice
+  // published again under the old id, so older apps still open it.
+  aliasOf?: string
 }
 
 export type LiturgicalAct = 'mass' | 'office'
