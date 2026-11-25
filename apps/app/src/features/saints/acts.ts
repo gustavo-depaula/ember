@@ -39,12 +39,14 @@ function catalogDayPrayerOf(practiceId: string): DayPrayer | undefined {
   return id ? getEntry(id)?.dayPrayer : undefined
 }
 
-export const dayPrayers: readonly DayPrayer[] = ['offering', 'rosary', 'examen']
+/** The three prayers along the day that, all prayed, keep it as the rosary alone does. */
+export const dayPrayers: readonly Exclude<DayPrayer, 'rosary'>[] = ['offering', 'midday', 'examen']
 
 /**
- * Which of the day's three prayers — the morning offering, the rosary, the
- * examination of conscience, in any of their forms — were prayed on each date.
- * Backfilled days aren't prayers the user marked, so they never count.
+ * Which of the day's prayers — the morning offering, the midday prayer, the
+ * examination of conscience and the rosary, in any of their forms — were
+ * prayed on each date. Backfilled days aren't prayers the user marked, so they
+ * never count.
  */
 export function dayPrayersByDate(
   completions: Iterable<Completion>,
@@ -59,10 +61,15 @@ export function dayPrayersByDate(
   return byDate
 }
 
-/** The days kept with all three: each counts as the Office does. */
+/** Whether a day's prayers keep it: the rosary, or all three along the day. */
+export function dayKept(prayed: ReadonlySet<DayPrayer>): boolean {
+  return prayed.has('rosary') || dayPrayers.every((p) => prayed.has(p))
+}
+
+/** The days kept with the rosary or with all three: each counts as the Office does. */
 export function prayedDayActs(completions: Iterable<Completion>): Act[] {
   return [...dayPrayersByDate(completions)]
-    .filter(([, prayed]) => prayed.size === dayPrayers.length)
+    .filter(([, prayed]) => dayKept(prayed))
     .map(([date]) => ({ kind: 'prayedDay', date }))
 }
 

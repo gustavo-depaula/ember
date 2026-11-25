@@ -1,5 +1,6 @@
 {
   "id": "daily-liturgy",
+  "dayPrayer": "midday",
   "icon": "book",
   "name": {
     "en-US": "Daily Liturgy",

@@ -130,8 +130,12 @@ export type PracticeDuration =
   | { type: 'chosen'; default: number; choices: number[] }
   | { type: 'by-day'; weekday: number; sunday: number }
 
-/** The morning offering, the rosary and the examination of conscience: all three prayed on one day give what the Office gives. */
-export type DayPrayer = 'offering' | 'rosary' | 'examen'
+/**
+ * The prayers of a prayed day, which gives what the Office gives: the rosary
+ * alone, or the morning offering, a midday prayer (the Angelus, Regina Caeli
+ * or the daily liturgy) and the examination of conscience, all three.
+ */
+export type DayPrayer = 'offering' | 'rosary' | 'midday' | 'examen'
 
 export type Catalog = {
   version: 2
