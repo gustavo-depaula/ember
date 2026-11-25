@@ -85,11 +85,11 @@ function HomePage({ onSelectDate }: { onSelectDate: (date: string | undefined) =
         <TodayRow plan={plan} showPlan={!expanded} />
       </FadeInView>
 
-      <ContinueRow />
-
       <DailyMeditations />
 
       <EventsRow />
+
+      <ContinueRow />
     </YStack>
   )
   const fidelityWall = todaySlots.length > 0 && (
