@@ -311,9 +311,10 @@ vi.mock('expo-audio', () => ({
 
 vi.mock('expo-notifications', () => ({
   setNotificationHandler: () => {},
-  getPermissionsAsync: async () => ({ status: 'granted', granted: true }),
-  requestPermissionsAsync: async () => ({ status: 'granted', granted: true }),
-  scheduleNotificationAsync: async () => 'mock-id',
+  // Spies with granted defaults: a test can count what was scheduled, or refuse leave.
+  getPermissionsAsync: vi.fn(async () => ({ status: 'granted', granted: true })),
+  requestPermissionsAsync: vi.fn(async () => ({ status: 'granted', granted: true })),
+  scheduleNotificationAsync: vi.fn(async () => 'mock-id'),
   cancelScheduledNotificationAsync: async () => {},
   cancelAllScheduledNotificationsAsync: async () => {},
   getAllScheduledNotificationsAsync: async () => [],

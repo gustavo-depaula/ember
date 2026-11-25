@@ -27,6 +27,8 @@ export type TestFixtures = {
   language?: string
   /** Days before `now` to fill with completions of the enabled slots, for screens that draw a record. */
   historyDays?: number
+  /** Start as a first install that has not been through onboarding; otherwise it counts as done. */
+  onboarding?: boolean
 }
 
 export async function resetForTests(fixtures: TestFixtures = {}): Promise<void> {
@@ -66,6 +68,8 @@ export async function resetForTests(fixtures: TestFixtures = {}): Promise<void> 
   usePreferencesStore.getState().setLanguage(fixtures.language ?? 'en-US')
 
   usePreferencesStore.getState().setTimeTravelDate(fixtures.now)
+  usePreferencesStore.getState().setOnboarding(fixtures.onboarding ? 'new' : 'done')
+  usePreferencesStore.setState({ seenHints: [], onboardingKept: [] })
 }
 
 // A kept rule with the odd lapse: every slot on most days, a deterministic

@@ -431,7 +431,7 @@ function TimeFace({
   )
 }
 
-function TimeWheel({
+export function TimeWheel({
   value,
   onChange,
   onDone,

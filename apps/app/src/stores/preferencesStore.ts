@@ -61,6 +61,14 @@ type PreferencesState = {
   readerPalette: ReaderPaletteId
 
   bookReaderHintSeen: boolean
+  // The first-run onboarding: not met yet, under way (a relaunch resumes it), or
+  // finished or skipped. Device-local, so it never travels by sync.
+  onboarding: OnboardingStage
+  // The slots the plan held when onboarding began: going back to its first
+  // question undoes everything else, and never these.
+  onboardingKept: string[]
+  // The tabs whose one-time hint has been seen.
+  seenHints: string[]
 
   fontFamily: ReadingFontId
   fontSizeStep: number
@@ -85,6 +93,9 @@ type PreferencesState = {
   setTheme: (theme: ThemePreference) => void
   setReaderPalette: (palette: ReaderPaletteId) => void
   setBookReaderHintSeen: (seen: boolean) => void
+  setOnboarding: (stage: OnboardingStage) => void
+  setOnboardingKept: (slotIds: string[]) => void
+  markHintSeen: (hint: string) => void
 
   setFontFamily: (id: ReadingFontId) => void
   setFontSizeStep: (step: number) => void
@@ -100,8 +111,10 @@ type PreferencesState = {
 // from the same detection so the settings never show one language over another.
 const initialLanguage = detectLanguage()
 
+export type OnboardingStage = 'new' | 'started' | 'done'
+
 export const usePreferencesStore = create<PreferencesState>()(
-  immer((set) => ({
+  immer((set, get) => ({
     translation: defaultTranslationForLanguage[initialLanguage] ?? 'DRB',
     psalterCycle: '30-day',
     language: initialLanguage,
@@ -114,6 +127,9 @@ export const usePreferencesStore = create<PreferencesState>()(
     theme: 'system',
     readerPalette: 'auto',
     bookReaderHintSeen: false,
+    onboarding: 'new',
+    onboardingKept: [],
+    seenHints: [],
     fontFamily: 'eb-garamond',
     fontSizeStep: 3,
     lineHeightStep: 5,
@@ -225,6 +241,29 @@ export const usePreferencesStore = create<PreferencesState>()(
       setPreference('book-reader-hint-seen', seen ? '1' : '0')
     },
 
+    setOnboarding: (stage) => {
+      set((state) => {
+        state.onboarding = stage
+      })
+      setPreference('onboarding', stage)
+    },
+
+    setOnboardingKept: (slotIds) => {
+      set((state) => {
+        state.onboardingKept = slotIds
+      })
+      setPreference('onboarding.kept', slotIds.join(','))
+    },
+
+    markHintSeen: (hint) => {
+      if (get().seenHints.includes(hint)) return
+      const seen = [...get().seenHints, hint]
+      set((state) => {
+        state.seenHints = seen
+      })
+      setPreference('hints.seen', seen.join(','))
+    },
+
     setFontFamily: (id) => {
       set((state) => {
         state.fontFamily = id
@@ -321,6 +360,10 @@ export const usePreferencesStore = create<PreferencesState>()(
         }
 
         if (prefs['book-reader-hint-seen'] === '1') state.bookReaderHintSeen = true
+        const onboarding = prefs.onboarding
+        if (onboarding === 'started' || onboarding === 'done') state.onboarding = onboarding
+        if (prefs['onboarding.kept']) state.onboardingKept = prefs['onboarding.kept'].split(',')
+        if (prefs['hints.seen']) state.seenHints = prefs['hints.seen'].split(',')
 
         const fontFamily = prefs['reading-font-family']
         if (fontFamily && validFontIds.has(fontFamily as ReadingFontId)) {

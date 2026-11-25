@@ -204,8 +204,15 @@ export function RouterOutlet() {
   )
   const match = matchRoute(path)
   if (!match) return <Fragment>{`[router-fake] no route registered for ${path}`}</Fragment>
-  const Component = match.entry.component as ScreenComponent
-  return <Fragment>{Component()}</Fragment>
+  // Each route mounts as its own component, keyed by path, so a test can walk
+  // screen to screen without one's hooks running in another's place.
+  const Screen = match.entry.component as () => ReactNode
+  return <Screen key={path} />
+}
+
+/** The path the harness is on, for a test following a flow from screen to screen. */
+export function currentPath(): string {
+  return useRouterStore.getState().path
 }
 
 export function resetRouter(initial = '/'): void {

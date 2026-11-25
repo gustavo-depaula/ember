@@ -8,6 +8,7 @@ import { useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, PageFlourish, PageHeader, ScreenLayout } from '@/components'
 import { SearchField } from '@/components/SearchField'
+import { TabHint } from '@/features/onboarding'
 import { SearchAutocomplete } from '@/features/practices/components'
 import { Acervo, Places, RecentRow } from '@/features/search'
 import { useDeferredTabMount } from '@/hooks/useDeferredTabMount'
@@ -83,6 +84,7 @@ export default function SearchScreen() {
     () => (
       <YStack gap="$xl" paddingTop="$sm" paddingBottom="$lg">
         {!inPageField && <PageHeader title={t('nav.searchPlaceholder')} />}
+        <TabHint tab="search" />
         <Places />
         <Acervo />
         <RecentRow />

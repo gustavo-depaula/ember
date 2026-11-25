@@ -14,6 +14,7 @@ import {
 } from '@/components'
 import { LibraryFeed } from '@/features/library'
 import { ChronicleDayRow } from '@/features/memoria'
+import { TabHint } from '@/features/onboarding'
 import { FootLink, RuleOfLifeSections, YouMasthead } from '@/features/plan-of-life'
 import { useChronicle } from '@/features/plan-of-life/useRuleRecord'
 import { AccountCard } from '@/features/sync'
@@ -75,6 +76,7 @@ function YouPage() {
           </Pressable>
         </XStack>
 
+        <TabHint tab="you" />
         <AccountCard />
 
         {expanded ? (

@@ -1,3 +1,4 @@
+import { Redirect } from 'expo-router'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { View, YStack } from 'tamagui'
@@ -27,6 +28,7 @@ import {
   useTodayPlan,
 } from '@/features/home'
 import { ContinueRow } from '@/features/library'
+import { useNeedsOnboarding } from '@/features/onboarding'
 import { MissedDaysSheet } from '@/features/plan-of-life'
 import { usePlanFidelity } from '@/features/plan-of-life/useRuleRecord'
 import { ViewedDayContext } from '@/hooks/useToday'
@@ -43,6 +45,8 @@ import { useOfTransfers } from '@/lib/missal/useOfTransfers'
  */
 export default function HomeScreen() {
   const [viewed, setViewed] = useState<string>()
+  // A first install meets onboarding before Today, and a half-finished one resumes it.
+  if (useNeedsOnboarding()) return <Redirect href="/onboarding" />
   return (
     <ViewedDayContext.Provider value={viewed}>
       <HomePage onSelectDate={setViewed} />

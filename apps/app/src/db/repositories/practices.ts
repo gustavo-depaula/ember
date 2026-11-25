@@ -187,29 +187,34 @@ export async function addSlot(practiceId: string, data: SlotInput): Promise<stri
   return slotKey
 }
 
-export async function updateSlot(
-  slotId: string,
-  data: Partial<{
-    enabled: number
-    sortOrder: number
-    tier: Tier
-    time: string | null
-    timeBlock: TimeBlock
-    notify: string | null
-    schedule: string
-    pins: Record<string, string>
-    minutes: number
-  }>,
-): Promise<void> {
-  if (data.time !== undefined && data.timeBlock === undefined) {
-    data.timeBlock = deriveTimeBlock(data.time)
-  }
+type SlotChanges = Partial<{
+  enabled: number
+  sortOrder: number
+  tier: Tier
+  time: string | null
+  timeBlock: TimeBlock
+  notify: string | null
+  schedule: string
+  pins: Record<string, string>
+  minutes: number
+}>
 
-  await emit({
-    type: 'SlotUpdated',
-    slotKey: slotId,
-    changes: data,
-  })
+function slotUpdatedEvent(slotId: string, data: SlotChanges) {
+  const changes =
+    data.time !== undefined && data.timeBlock === undefined
+      ? { ...data, timeBlock: deriveTimeBlock(data.time) }
+      : data
+  return { type: 'SlotUpdated' as const, slotKey: slotId, changes }
+}
+
+export async function updateSlot(slotId: string, data: SlotChanges): Promise<void> {
+  await emit(slotUpdatedEvent(slotId, data))
+}
+
+/** Several slots changed at once, as one write. */
+export async function updateSlots(updates: { id: string; data: SlotChanges }[]): Promise<void> {
+  if (updates.length === 0) return
+  await emitBatch(updates.map(({ id, data }) => slotUpdatedEvent(id, data)))
 }
 
 export async function deleteSlot(slotId: string): Promise<void> {

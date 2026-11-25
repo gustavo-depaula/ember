@@ -41,6 +41,7 @@ export {
   unarchivePractice,
   updatePractice,
   updateSlot,
+  updateSlots,
 } from './practices'
 export { clearVoice, getVoice, setVoice } from './practiceVoice'
 export {

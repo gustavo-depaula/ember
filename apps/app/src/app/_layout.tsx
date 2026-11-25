@@ -304,6 +304,10 @@ export default function RootLayout() {
                 }}
               >
                 <Stack.Screen name="(tabs)" options={{ title: i18n.t('a11y.home') }} />
+                <Stack.Screen
+                  name="onboarding"
+                  options={{ title: i18n.t('onboarding.reason.kicker'), gestureEnabled: false }}
+                />
               </Stack>
             </ThemeProvider>
             <FloatingOfflineChip />

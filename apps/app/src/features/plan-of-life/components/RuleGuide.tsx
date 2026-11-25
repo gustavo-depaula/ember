@@ -50,8 +50,11 @@ type Report = (key: string, added: boolean) => void
  * Builds a rule from the top down: five chapters, the sacraments first and
  * what some are called to last, each practice with a line on why it belongs;
  * then how any other prayer joins the rule from its own page.
+ *
+ * With `onContinue` it is a step of onboarding: full screen, and its bar leads
+ * on instead of back to the plan.
  */
-export function RuleGuide() {
+export function RuleGuide({ onContinue }: { onContinue?: () => void } = {}) {
   const { t } = useTranslation()
   const router = useRouter()
   const [added, setAdded] = useState<ReadonlySet<string>>(new Set())
@@ -66,7 +69,7 @@ export function RuleGuide() {
 
   return (
     <View style={{ flex: 1 }}>
-      <ScreenLayout>
+      <ScreenLayout modal={!!onContinue}>
         <YStack paddingVertical="$lg">
           <PracticeHeader
             onBack={() => router.back()}
@@ -81,7 +84,7 @@ export function RuleGuide() {
           {added.size > 0 && <YStack height={64} />}
         </YStack>
       </ScreenLayout>
-      {added.size > 0 && <AddedBar count={added.size} />}
+      {added.size > 0 && <AddedBar count={added.size} onContinue={onContinue} />}
     </View>
   )
 }
@@ -631,10 +634,11 @@ function Pulse({ children }: { children: ReactNode }) {
   )
 }
 
-function AddedBar({ count }: { count: number }) {
+function AddedBar({ count, onContinue }: { count: number; onContinue?: () => void }) {
   const { t } = useTranslation()
   const router = useRouter()
-  const bottom = useSafeAreaInsets().bottom + dockedTabBarLift
+  const bottom = useSafeAreaInsets().bottom + (onContinue ? 0 : dockedTabBarLift)
+  const label = onContinue ? t('onboarding.continue') : t('ruleGuide.seeRule')
   return (
     <XStack
       position="absolute"
@@ -653,17 +657,19 @@ function AddedBar({ count }: { count: number }) {
         {t('ruleGuide.added', { count })}
       </Typography>
       <AnimatedPressable
+        testID="rule-guide-continue"
         onPress={() => {
           lightTap()
+          if (onContinue) return onContinue()
           router.back()
           openPlanSheet()
         }}
         accessibilityRole="link"
-        accessibilityLabel={t('ruleGuide.seeRule')}
+        accessibilityLabel={label}
         hitSlop={12}
       >
         <Typography variant="label" fontSize={14} letterSpacing={1.5} color="$accent">
-          {t('ruleGuide.seeRule').toUpperCase()} ›
+          {label.toUpperCase()} ›
         </Typography>
       </AnimatedPressable>
     </XStack>
