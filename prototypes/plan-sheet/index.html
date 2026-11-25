@@ -365,7 +365,7 @@ button:focus-visible { outline: 2px solid var(--goldDeep); outline-offset: 2px; 
 .emptyplan p { color: var(--muted); font-style: italic; font-size: 16.5px; line-height: 22px; margin-top: 8px; }
 .emptyplan .go { display: inline-block; margin-top: 18px; font: 400 13px var(--head); letter-spacing: 1.8px; color: var(--goldDeep); min-height: 44px; }
 .emptyplan .quiet { display: block; margin: 0 auto; color: var(--muted); font-size: 15px; min-height: 44px; }
-.sheetwrap { position: relative; min-height: 100%; background: #8f8a84; }
+.view.sheetwrap { background: #8f8a84; padding-bottom: 0; }
 .sheetwrap .behind { opacity: .45; height: 150px; overflow: hidden; background: #fff; }
 .sheet { position: relative; background: #fff; border-radius: 26px 26px 0 0; margin-top: -10px; padding: 10px 24px 60px; min-height: 720px; }
 .sheet .grab { width: 38px; height: 4px; border-radius: 2px; background: #2C2418; margin: 0 auto 18px; opacity: .7; }
@@ -375,7 +375,7 @@ button:focus-visible { outline: 2px solid var(--goldDeep); outline-offset: 2px; 
 .sheet .sec { font: 400 14px var(--head); letter-spacing: 1.8px; margin-top: 30px; }
 .sheet .sec + p { color: var(--muted); font-style: italic; font-size: 15.5px; line-height: 21px; margin-top: 4px; }
 .offrow { display: flex; gap: 12px; margin-top: 14px; }
-.offrow button { flex: 1; min-width: 0; text-align: center; }
+.offrow button { flex: 1; min-width: 0; text-align: center; align-self: flex-start; }
 .offrow small { display: block; font-size: 12.5px; line-height: 15px; color: var(--muted); font-style: italic; margin-top: 6px; }
 .kept { display: flex; gap: 14px; align-items: center; margin-top: 14px; }
 .kept .bkw { width: 64px; flex: none; }
