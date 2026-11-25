@@ -599,7 +599,7 @@ const oldHours = [['Matinas', '05:30'], ['Laudes', '07:00'], ['Prima', '08:00'],
 const guideTiers = [
   ['I', 'Os sacramentos', 'Onde a vida da graça começa e se renova.', 'eucharistic', [
     ['mass', 'Santa Missa', 'Aos domingos e dias santos', 'O Dia do Senhor. É o centro da semana cristã e o primeiro mandamento da Igreja.', '10:00', 'dom'],
-    ['confession', 'Confissão', 'Uma vez por mês', 'A Igreja pede ao menos uma vez por ano; os santos aconselham com frequência. É o recomeço que Deus sempre oferece.', '', '1º sáb']]],
+    ['confession', 'Confissão', 'Uma vez por mês', 'A Igreja pede ao menos uma vez por ano; os santos aconselham com frequência. É o recomeço que Deus sempre oferece.', '10:00', '1º sáb']]],
   ['II', 'O essencial de cada dia', 'Abrir e fechar o dia com Deus.', 'tpl-little-way', [
     ['morningOffering', 'Oferecimento do Dia', 'Ao acordar · 1 min', 'Entregar a Deus o dia antes que ele comece, para que o trabalho e o cansaço também sejam oração.', '07:00'],
     ['examination', 'Exame de Consciência', 'Antes de dormir · 5 min', 'Olhar o dia com Deus: agradecer, pedir perdão e propor-se a recomeçar amanhã.', '21:00']]],
@@ -683,11 +683,13 @@ const rule = () => TEMPLATES.find((t) => t.id === state.rule)
 function plan() {
   return basePlan().map((p) => ({ ...p, t: state.times[p.n] || p.t, w: state.days[p.n] && p.w ? p.w.replace(weekRe, state.days[p.n]) : p.w })).sort((a, b) => (a.t || '').localeCompare(b.t || ''))
 }
+// The guide writes days in lowercase ("1º sáb"); the plan writes them as the templates do ("1º Sáb do mês").
+const guideDay = (w) => !w ? '' : w.replace(/^(\d+º )?(\S+)$/, (_, n, d) => `${n || ''}${d[0].toUpperCase()}${d.slice(1)}${n ? ' do mês' : ''}`)
 function basePlan() {
   if (path === 'office-regular') return (state.office === 'lh' ? lhHours : oldHours).filter(([n]) => state.hours.has(n)).map(([n, t]) => ({ n, t }))
   if (path === 'office-new') return [{ n: state.firstHour, t: { Laudes: '07:00', 'Vésperas': '18:00', Completas: '22:00' }[state.firstHour] }]
   if (path === 'rule') return rule().p.filter((p, i) => p.t && !state.off.has(i)).map((p) => ({ n: p.n, t: p.t, w: p.w }))
-  if (path === 'grow') return guideEntries.filter((e) => state.mine.has(e[0]) && e[4]).map((e) => ({ n: e[1], t: e[4], w: e[5] })).sort((a, b) => a.t.localeCompare(b.t))
+  if (path === 'grow') return guideEntries.filter((e) => state.mine.has(e[0]) && e[4]).map((e) => ({ n: e[1], t: e[4], w: guideDay(e[5]) })).sort((a, b) => a.t.localeCompare(b.t))
   if (path === 'start') return beginner.p.filter((p) => p.t).map((p) => ({ n: p.n, t: p.t, w: p.w }))
   return []
 }
