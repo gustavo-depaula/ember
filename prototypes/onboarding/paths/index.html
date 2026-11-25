@@ -558,7 +558,7 @@ const whyAlt = {
   ask: { D: 'Each reason as one of Today’s jewel cards with its stamp, swiped sideways under the ✠ pager. The first screen already looks like Today, but only one reason shows at a time.', E: 'Four of Today’s stamp tiles, with icons and perforated edges, the name in Cinzel beneath. Compact and playful; the shortest screen of all.', F: 'No pictures: the question becomes a sentence to finish, set large in italic between hairlines, like a missal’s headings. Reads fast and feels most like prayer.', G: 'One painting carries the whole page (Millet’s Angelus), with the reasons as a list on the white beneath, as on a tradition’s page. Calm, and one strong image instead of four.', H: 'Each reason is a saint’s holy card from the starter pool: Benedict for the Office, Ignatius for a rule, Teresa for growing, Thérèse for beginning. It teaches the cards before the first one is given.', I: 'An old book’s table of contents: roman numerals, dotted leaders, a red versal. The most bookish; it treats Ember as a Book of Hours.', B: 'Each reason is a chapter title from “Acrescentar à regra”: a faint painting dissolving into the page, the name in italic. The most “Ember” of the three, and the calmest.', C: 'A plain list with a small painting, as search and the library list things. The quickest to read, the least ceremonial.' },
   features: { D: 'No feature pages in setup. Setup ends on Today, and each tab explains itself once, the first time it is opened: one line on the thing this path needs there, no dimming, gone with a tap. Try the bar at the bottom of Today. Nothing is shown before the person has a reason to look at it.', B: 'No separate pages: the real app, already shaped by their setup, one stop on each tab in the order of the bar (Today, You, Search). Each stop lights the one thing this path needs there, and a quiet line names the rest of the tab. Three stops show the whole app; nothing is explained twice.', C: 'One page instead of three: each feature as one of Today’s jewel cards. Shortest; nothing to swipe.' },
   remind: { B: 'The plan’s thread with a bell beside each prayer. Finer control, but the Opus Dei plan would show thirteen bells.', C: 'One question: remind me at each prayer’s time, yes or no. The thread is only a preview. Simplest, but a big plan means many notifications.' },
-  amen: { B: 'Skips the envelope page: Amém answers back on the saint picker itself. One screen shorter.' },
+  amen: { C: 'The Amém ends setup and opens Today. The first holy card waits there as the sealed envelope, the first thing on the page, to be opened when the person wants.', B: 'Skips the envelope page: Amém answers back on the saint picker itself. One screen shorter.' },
 }
 const offices = [
   ['lh', 'Liturgia das Horas', 'Edição brasileira', '#1E3A5C', '#0A1626'],
@@ -602,9 +602,9 @@ const altGroups = {
   features: { label: 'Feature pages', keys: ['f1', 'f2', 'f3', 'fall'], opts: { D: 'None: hints in place', A: 'Three painted pages', B: 'Today, lit up', C: 'One page of cards' } },
   remind: { label: 'Reminders', keys: ['remind'], opts: { A: 'By part of the day', B: 'On the string', C: 'One question' } },
   order: { label: 'Order (plain list)', keys: [], opts: { A: 'Smallest step first', B: 'Most specific first', C: 'Growing first' } },
-  amen: { label: 'After Amen', keys: ['amen', 'choose'], opts: { A: 'Envelope, then saints', B: 'Straight to the saints' } },
+  amen: { label: 'After Amen', keys: ['amen', 'choose', 'card'], opts: { C: 'Nothing: straight to Today', A: 'Envelope, then saints', B: 'Straight to the saints' } },
 }
-const alt = { ask: 'C', order: 'A', features: 'D', remind: 'A', amen: 'A' }
+const alt = { ask: 'C', order: 'A', features: 'D', remind: 'A', amen: 'C' }
 const orders = { A: ['start', 'grow', 'rule', 'office'], B: ['office', 'rule', 'grow', 'start'], C: ['grow', 'start', 'rule', 'office'] }
 const groupOf = (k) => Object.keys(altGroups).find((g) => altGroups[g].keys.includes(k))
 function stepsOf(p) {
@@ -612,6 +612,7 @@ function stepsOf(p) {
   if (alt.features === 'D') s = s.filter((k) => !['f1', 'f2', 'f3'].includes(k))
   if (alt.features === 'C') s = s.flatMap((k) => (k === 'f1' ? ['fall'] : k === 'f2' || k === 'f3' ? [] : [k]))
   if (alt.amen === 'B') s = s.filter((k) => k !== 'amen')
+  if (alt.amen === 'C') s = s.filter((k) => !['amen', 'choose', 'card'].includes(k))
   return s
 }
 
@@ -817,7 +818,7 @@ const screens = {
   today: () => {
     const tab = state.tab; const k = tourStops()[['today', 'you', 'search'].indexOf(tab)]
     const body = tab === 'today' ? todayBody() : tab === 'you' ? youBody() : searchBody()
-    const hint = alt.features === 'D' && !state.seen.has(tab) ? `<div class="hint"><div class="t">${k.t}</div><p>${k.p}${tab === 'today' ? ' O seu plano fica em Você; Missas, livros e orações, em Buscar.' : ''}</p><button data-act="seen" data-val="${tab}">Entendi</button></div>` : ''
+    const hint = alt.features === 'D' && !state.seen.has(tab) ? `<div class="hint"><div class="t">${k.t}</div><p>${k.p}${tab === 'today' ? `${state.card ? '' : ' O envelope traz o seu primeiro santinho.'} O seu plano fica em Você; Missas, livros e orações, em Buscar.` : ''}</p><button data-act="seen" data-val="${tab}">Entendi</button></div>` : ''
     const nav = `<div class="nav live"><div>${['today', 'you'].map((t) => `<button class="${t === tab ? 'on' : ''}" data-act="tab" data-val="${t}" aria-label="${t}"><img src="a/nav-${t}.webp" alt=""></button>`).join('')}</div><div><button class="${tab === 'search' ? 'on' : ''}" data-act="tab" data-val="search" aria-label="search"><img src="a/nav-search.webp" alt=""></button></div></div>`
     return { cls: tab === 'today' ? 'today' : 'tabp', body, after: `${nav}${hint}`, ring: hint ? k.sel : undefined }
   },
