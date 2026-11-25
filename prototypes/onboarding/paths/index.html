@@ -378,6 +378,55 @@ button:focus-visible { outline: 2px solid var(--goldDeep); outline-offset: 2px; 
 .hero .pill { position: relative; align-self: flex-start; margin-top: 9px; padding: 4px 11px; border-radius: 14px; background: rgba(245,239,226,.14); font-size: 13.5px; color: var(--cream); }
 .tilec .img[style*="tpl-dominican"] { background-size: 175%; background-position: 50% 28% !important; }
 
+/* first screen D: Today's jewel cards in a carousel */
+.askcar { display: flex; gap: 12px; overflow-x: auto; scroll-snap-type: x mandatory; padding: 4px 24px 6px; scrollbar-width: none; }
+.askcar::-webkit-scrollbar { display: none; }
+.askcar .hero { flex: 0 0 270px; height: 392px; scroll-snap-align: center; text-align: left; }
+.askcar .hero .stamp { position: absolute; top: 40px; left: 50%; margin-left: -72px; width: 144px; height: 144px; }
+.askcar .hero b { font-size: 25px; line-height: 29px; }
+/* E: stamps */
+.stamps { display: grid; grid-template-columns: 1fr 1fr; gap: 20px 16px; padding: 4px 24px; }
+.stampb { display: block; text-align: center; }
+.stampb .stamp { width: 100%; height: auto; aspect-ratio: 1; }
+.stampb .stamp b { font-size: 16px; line-height: 19px; }
+.stampb > span { display: block; font: 400 12.5px/16px var(--head); letter-spacing: 1px; text-transform: uppercase; margin-top: 9px; }
+/* F: a sentence to finish */
+.sentence { padding: 6px 24px 0; }
+.sentence .lead { font: italic 400 22px/28px var(--title); color: var(--muted); }
+.sentence button { display: block; width: 100%; padding: 15px 0 14px; box-shadow: inset 0 -.5px 0 var(--line); }
+.sentence button:first-of-type { box-shadow: inset 0 .5px 0 var(--line), inset 0 -.5px 0 var(--line); margin-top: 12px; }
+.sentence b { display: block; font: italic 400 29px/34px var(--title); text-wrap: balance; }
+.sentence small { display: block; color: var(--muted); font-size: 15.5px; line-height: 20px; margin-top: 3px; }
+/* G: one painting */
+.onepaint { position: relative; height: 360px; background: #333 center 40% / cover; display: flex; align-items: flex-end; padding: 0 24px 20px; color: #fff; }
+.onepaint::before { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(0,0,0,.25), rgba(0,0,0,0) 30%, rgba(0,0,0,0) 45%, rgba(0,0,0,.6)); }
+.onepaint > div { position: relative; }
+.onepaint .kicker { color: rgba(255,255,255,.86); font-size: 12.5px; }
+.onepaint .title { color: #fff; }
+.oprow { display: flex; align-items: center; gap: 10px; width: 100%; padding: 14px 24px; box-shadow: inset 0 -.5px 0 var(--line); }
+.oprow .tx { flex: 1; }
+.oprow b { display: block; font: 400 20px/24px var(--body); }
+.oprow small { display: block; font-style: italic; color: var(--muted); font-size: 15px; line-height: 19px; }
+/* H: holy cards */
+.hcards { display: grid; grid-template-columns: 1fr 1fr; gap: 18px 16px; padding: 4px 30px; }
+.hcard { display: block; text-align: center; }
+.hcard img { display: block; width: 100%; aspect-ratio: 2/3; object-fit: cover; border-radius: 6px; box-shadow: 0 5px 12px rgba(60,45,20,.24); }
+.hcard b { display: block; font: italic 400 19px/22px var(--title); margin-top: 8px; text-wrap: balance; }
+.hcard small { display: block; font: 400 9.5px var(--head); letter-spacing: 1.2px; text-transform: uppercase; color: var(--muted); margin-top: 2px; }
+/* I: a book's contents */
+.contents { padding: 0 24px; }
+.contents .versal { float: left; font: 400 64px/62px var(--title); color: var(--burgundy); margin: 2px 10px 0 0; }
+.contents .intro { font-size: 18px; line-height: 25px; }
+.contents .intro::after { content: ""; display: block; clear: both; }
+.crow { display: grid; grid-template-columns: 34px 1fr; gap: 0 6px; width: 100%; padding: 14px 0; }
+.crow + .crow { box-shadow: inset 0 .5px 0 var(--line); }
+.crow i { font: 400 13px/26px var(--head); letter-spacing: 1px; color: var(--burgundy); font-style: normal; }
+.crow .ln { display: flex; align-items: baseline; gap: 6px; }
+.crow b { font: 400 21px/26px var(--body); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.crow .dl { flex: 1; border-bottom: 1.5px dotted #C9BBA4; transform: translateY(-5px); }
+.crow .pg { font: italic 400 15px var(--body); color: var(--muted); }
+.crow small { grid-column: 2; font-style: italic; color: var(--muted); font-size: 15px; line-height: 19px; }
+
 @media (prefers-reduced-motion: reduce) { .view, .env .wax.press { animation: none !important; } }
 @media (max-width: 760px) {
   .layout { grid-template-columns: minmax(0, 1fr); gap: 22px; }
@@ -446,7 +495,7 @@ const why = {
   today: 'The real Today, shaped by the path: a plan, reminders set, the next prayer first.',
 }
 const whyAlt = {
-  ask: { B: 'Each reason is a chapter title from “Acrescentar à regra”: a faint painting dissolving into the page, the name in italic. The most “Ember” of the three, and the calmest.', C: 'A plain list with a small painting, as search and the library list things. The quickest to read, the least ceremonial.' },
+  ask: { D: 'Each reason as one of Today’s jewel cards with its stamp, swiped sideways under the ✠ pager. The first screen already looks like Today, but only one reason shows at a time.', E: 'Four of Today’s stamp tiles, with icons and perforated edges, the name in Cinzel beneath. Compact and playful; the shortest screen of all.', F: 'No pictures: the question becomes a sentence to finish, set large in italic between hairlines, like a missal’s headings. Reads fast and feels most like prayer.', G: 'One painting carries the whole page (Millet’s Angelus), with the reasons as a list on the white beneath, as on a tradition’s page. Calm, and one strong image instead of four.', H: 'Each reason is a saint’s holy card from the starter pool: Benedict for the Office, Ignatius for a rule, Teresa for growing, Thérèse for beginning. It teaches the cards before the first one is given.', I: 'An old book’s table of contents: roman numerals, dotted leaders, a red versal. The most bookish; it treats Ember as a Book of Hours.', B: 'Each reason is a chapter title from “Acrescentar à regra”: a faint painting dissolving into the page, the name in italic. The most “Ember” of the three, and the calmest.', C: 'A plain list with a small painting, as search and the library list things. The quickest to read, the least ceremonial.' },
   features: { B: 'No separate pages: the real Today, already shaped by their setup, with one part lit at a time. It teaches where things are, which feature pages cannot.', C: 'One page instead of three: each feature as one of Today’s jewel cards. Shortest; nothing to swipe.' },
   remind: { B: 'The plan’s thread with a bell beside each prayer. Finer control, but the Opus Dei plan would show thirteen bells.', C: 'One question: remind me at each prayer’s time, yes or no. The thread is only a preview. Simplest, but a big plan means many notifications.' },
   amen: { B: 'Skips the envelope page: Amém answers back on the saint picker itself. One screen shorter.' },
@@ -489,7 +538,7 @@ const beginner = TEMPLATES.find((t) => t.id === 'beginner-minimum')
 const fresh = () => ({ office: 'lh', hours: new Set(['Laudes', 'Vésperas', 'Completas']), firstHour: 'Completas', rule: 'opus-dei', off: new Set(), mine: new Set(), muted: new Set(), mutedOne: new Set(), allowed: undefined, card: undefined })
 let path = 'start', step = 0, state = fresh()
 const altGroups = {
-  ask: { label: 'First screen', keys: ['ask'], opts: { A: 'Painted tiles', B: 'Chapter bands', C: 'A plain list' } },
+  ask: { label: 'First screen', keys: ['ask'], opts: { A: 'Painted tiles', B: 'Chapter bands', C: 'A plain list', D: 'Today’s cards', E: 'Stamps', F: 'A sentence', G: 'One painting', H: 'Holy cards', I: 'A book’s contents' } },
   features: { label: 'Feature pages', keys: ['f1', 'f2', 'f3', 'fall'], opts: { A: 'Three painted pages', B: 'Today, lit up', C: 'One page of cards' } },
   remind: { label: 'Reminders', keys: ['remind'], opts: { A: 'Four moments', B: 'A bell per prayer', C: 'One question' } },
   amen: { label: 'After Amen', keys: ['amen', 'choose'], opts: { A: 'Envelope, then saints', B: 'Straight to the saints' } },
@@ -594,6 +643,14 @@ const screens = {
     const reasons = [['office', 'Rezar o Ofício Divino', 'A oração da Igreja, hora por hora', 'meditation-patristic', '50% 22%'], ['rule', 'Sigo uma regra de vida', 'Opus Dei, Carmelo, ordens terceiras…', 'tpl-opus-dei', '50% 50%'], ['grow', 'Já rezo e quero crescer', 'Fortalecer minha vida de oração', 'mental-prayer', '50% 25%'], ['start', 'Quero começar a rezar', 'Um começo pequeno e fiel', 'tpl-beginner-minimum', '40% 50%']]
     const foot = `<button class="link" data-act="path" data-val="skip">Pular configuração</button>`
     if (alt.ask === 'B') return { body: `<div class="mast"><img src="a/notch_you_light.webp" alt=""></div>${head('Bem-vindo ao Ember', 'O que te traz aqui?')}<div class="bands">${reasons.map(([v, t, sub, i, p]) => `<button class="band" data-act="path" data-val="${v}" style="--art:url(${cov(i)});--pos:${p}"><b>${t}</b><small>${sub}</small><span class="fl" aria-hidden="true">· ✠ ·</span></button>`).join('')}</div>`, foot }
+    const mast = `<div class="mast"><img src="a/notch_you_light.webp" alt=""></div>`
+    const jewels = { office: ['#1E3A5C', '#0A1626', officeIcon, 'Ofício Divino', 'as horas'], rule: ['#5A1722', '#24090E', rosaryIcon, 'Regra de vida', 'o seu plano'], grow: ['#3A1E4A', '#1A0E24', rosaryIcon, 'Oração', 'mais fundo'], start: ['#1E4A32', '#0C2418', rosaryIcon, 'Começar', 'pequeno e fiel'] }
+    if (alt.ask === 'D') return { body: `${mast}${head('Bem-vindo ao Ember', 'O que te traz aqui?')}<div class="askcar">${reasons.map(([v, t, sub]) => { const j = jewels[v]; return `<button class="hero jewel2" data-act="path" data-val="${v}" style="--j1:${j[0]};--j2:${j[1]}">${stamp(j[3], j[4], j[0], j[1], j[2])}<small>Para quem quer</small><b>${t}</b><span>${sub}</span></button>` }).join('')}</div>${crosses(0, 4)}`, foot }
+    if (alt.ask === 'E') return { body: `${mast}${head('Bem-vindo ao Ember', 'O que te traz aqui?')}<div class="stamps">${reasons.map(([v, t]) => { const j = jewels[v]; return `<button class="stampb" data-act="path" data-val="${v}">${stamp(j[3], j[4], j[0], j[1], j[2])}<span>${t}</span></button>` }).join('')}</div>`, foot }
+    if (alt.ask === 'F') return { body: `${mast}${head('Bem-vindo ao Ember', 'O que te traz aqui?')}<div class="sentence"><div class="lead">Eu…</div>${[['office', 'rezo o Ofício Divino,', 'ou quero aprender a rezá-lo'], ['rule', 'sigo uma regra de vida', 'do Opus Dei, do Carmelo, de uma ordem terceira'], ['grow', 'já rezo todo dia, e quero crescer', 'fortalecer a minha vida de oração'], ['start', 'quero começar a rezar', 'com um começo pequeno e fiel']].map(([v, t, sub]) => `<button data-act="path" data-val="${v}"><b>${t}</b><small>${sub}</small></button>`).join('')}</div>`, foot }
+    if (alt.ask === 'G') return { onart: true, body: `<div class="onepaint" style="background-image:url(${cov('tpl-opus-dei')})"><div><div class="kicker">Bem-vindo ao Ember</div><div class="title">O que te traz aqui?</div></div></div>${reasons.map(([v, t, sub]) => `<button class="oprow" data-act="path" data-val="${v}"><span class="tx"><b>${t}</b><small>${sub}</small></span>${chevron('#C9A84C').replace('m15 18-6-6 6-6', 'm9 18 6-6-6-6')}</button>`).join('')}`, foot }
+    if (alt.ask === 'H') return { body: `${mast}${head('Bem-vindo ao Ember', 'O que te traz aqui?')}<div class="hcards">${[['office', 'benedict', 'Rezar o Ofício Divino', 'com São Bento'], ['rule', 'ignatius_loyola', 'Sigo uma regra de vida', 'com Santo Inácio'], ['grow', 'teresa', 'Já rezo e quero crescer', 'com Santa Teresa'], ['start', 'therese', 'Quero começar a rezar', 'com Santa Teresinha']].map(([v, c, t, w]) => `<button class="hcard" data-act="path" data-val="${v}"><img src="${art(c)}" alt=""><b>${t}</b><small>${w}</small></button>`).join('')}</div>`, foot }
+    if (alt.ask === 'I') return { body: `${mast}${head('Bem-vindo ao Ember', 'O que te traz aqui?')}<div class="contents"><p class="intro"><span class="versal">E</span>ste livro se abre de um jeito para cada um. Escolha o capítulo que é seu; os outros continuam aqui.</p>${[['I', 'office', 'O Ofício Divino', 'A oração da Igreja, hora por hora'], ['II', 'rule', 'Uma regra de vida', 'Opus Dei, Carmelo, ordens terceiras…'], ['III', 'grow', 'Crescer na oração', 'Para quem já reza todo dia'], ['IV', 'start', 'Começar a rezar', 'Um começo pequeno e fiel']].map(([n, v, t, sub]) => `<button class="crow" data-act="path" data-val="${v}"><i>${n}</i><span class="ln"><b>${t}</b><span class="dl"></span><span class="pg">›</span></span><small>${sub}</small></button>`).join('')}</div>`, foot }
     if (alt.ask === 'C') return { body: `<div class="mast"><img src="a/notch_you_light.webp" alt=""></div>${head('Bem-vindo ao Ember', 'O que te traz aqui?', 'Escolha o que mais se parece com você. Dá para mudar depois.')}${reasons.map(([v, t, sub, i, p]) => `<button class="listr" data-act="path" data-val="${v}"><span class="th" style="background-image:url(${cov(i)});background-position:${p}"></span><span class="tx"><b>${t}</b><small>${sub}</small></span>${chevron('#C9A84C').replace('m15 18-6-6 6-6', 'm9 18 6-6-6-6')}</button>`).join('')}`, foot }
     return screens._askA()
   },
