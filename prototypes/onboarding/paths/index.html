@@ -342,7 +342,7 @@ button:focus-visible { outline: 2px solid var(--goldDeep); outline-offset: 2px; 
 .mgroup .ml { flex: none; width: 74px; font: 400 10.5px var(--head); letter-spacing: 1.4px; text-transform: uppercase; color: var(--muted); }
 .mgroup .mn { flex: 1; min-width: 0; }
 .mgroup .bellb { flex: none; width: 40px; height: 44px; display: grid; place-items: center; margin-right: -8px; }
-.mgroup.off .mn { color: #B5AA9B; }
+.mgroup .mi.off .mn { color: #B5AA9B; }
 .tabp { padding-bottom: 440px; }
 .mast img { height: auto; }
 .tabp .sec { display: flex; align-items: center; gap: 8px; font: 400 14px var(--head); letter-spacing: 1.8px; padding: 0 24px; margin-top: 26px; }
@@ -531,7 +531,7 @@ const why = {
   ruleDay: 'The tradition’s real page: its painting, the first paragraph of its manifesto, then its practices on the thread.',
   guide: 'The real “Acrescentar à regra” page, unchanged: five chapters, wording, beads and the bar at the foot. As in the app, one tap adds a practice at its usual hour; only the Mass asks for days.',
   start: 'The Beginner’s Minimum page with its real manifesto and its essentials on the thread.',
-  remind: 'The plan sheet’s parts of the day, folded into four moments with a bell each, because the Opus Dei plan alone would ring thirteen times.',
+  remind: 'Every prayer in the plan gets its own reminder, grouped under the parts of the day so a long plan stays readable. Each bell can be silenced; each time and day can be changed.',
   hours: 'Compline for 23 November from the real breviary engine, set as the prayer flow sets it.',
   readings: 'Today’s real readings from the lectionary, under St. Luke, because today’s Gospel is his.',
   map: 'Real churches around Praça da Sé with their real Monday times.',
@@ -591,7 +591,7 @@ let path = 'start', step = 0, state = fresh()
 const altGroups = {
   ask: { label: 'First screen', keys: ['ask'], opts: { A: 'Painted tiles', B: 'Chapter bands', C: 'A plain list', D: 'Today’s cards', E: 'Stamps', F: 'A sentence', G: 'One painting', H: 'Holy cards', I: 'A book’s contents' } },
   features: { label: 'Feature pages', keys: ['f1', 'f2', 'f3', 'fall'], opts: { A: 'Three painted pages', B: 'Today, lit up', C: 'One page of cards' } },
-  remind: { label: 'Reminders', keys: ['remind'], opts: { A: 'Four moments', B: 'A bell per prayer', C: 'One question' } },
+  remind: { label: 'Reminders', keys: ['remind'], opts: { A: 'By part of the day', B: 'On the string', C: 'One question' } },
   order: { label: 'Order (plain list)', keys: [], opts: { A: 'Smallest step first', B: 'Most specific first', C: 'Growing first' } },
   amen: { label: 'After Amen', keys: ['amen', 'choose'], opts: { A: 'Envelope, then saints', B: 'Straight to the saints' } },
 }
@@ -789,7 +789,7 @@ const screens = {
     return screens._remindA()
   },
   _remindA: () => { const m = moments()
-    return { body: `${navrow()}${head('', 'Quando lembrar você?', 'Um lembrete por momento do dia. Dá para mudar depois, no seu Plano de Vida.')}<div class="pad">${m.length ? '' : '<p class="lede">Nada do que você marcou tem hora fixa.</p>'}${m.map((x) => { const on = !state.muted.has(x.label); return `<div class="mgroup ${on ? '' : 'off'}">${x.items.map((i, k) => `<div class="mi"><span class="ml">${k ? '' : x.label}</span><span class="mn">${i.n}</span>${timeCell(i.n, i.t)}${k ? '<span class="bellb"></span>' : `<button class="bellb" data-act="mute" data-val="${x.label}" aria-pressed="${on}" aria-label="Lembrete: ${x.label}">${bell(on)}</button>`}</div>`).join('')}</div>` }).join('')}${weekRows(plan().filter((p) => p.w))}</div>`,
+    return { body: `${navrow()}${head('', 'Quando lembrar você?', 'Um lembrete para cada oração. Dá para mudar depois, no seu Plano de Vida.')}<div class="pad">${m.length ? '' : '<p class="lede">Nada do que você marcou tem hora fixa.</p>'}${m.map((x) => `<div class="mgroup">${x.items.map((i, k) => { const on = !state.mutedOne.has(i.n); return `<div class="mi ${on ? '' : 'off'}"><span class="ml">${k ? '' : x.label}</span><span class="mn">${i.n}</span>${timeCell(i.n, i.t)}<button class="bellb" data-act="muteOne" data-val="${i.n}" aria-pressed="${on}" aria-label="Lembrete: ${i.n}">${bell(on)}</button></div>` }).join('')}</div>`).join('')}${weekRows(plan().filter((p) => p.w))}</div>`,
       foot: `<button class="btn" data-act="ask-notify">Lembrar-me nestes horários</button><button class="link" data-act="no-notify">Sem lembretes por agora</button>` } },
   f1: () => featureScreen(0), f2: () => featureScreen(1), f3: () => featureScreen(2),
   fall: () => ({ body: `${navrow()}${head('O Ember para você', 'Tudo num só lugar')}${paths[path].features.map((k) => { const f = features[k]; return `<div class="jewel" style="background-image:url(${cov(f.bg)});background-position:${f.pos}"><small>${f.kick}</small><b>${f.title}</b><span>${f.text}</span></div>` }).join('')}`, foot: textbar('', '<button data-next>Continuar ›</button>'), footCls: 'bar' }),
