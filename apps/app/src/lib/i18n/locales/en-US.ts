@@ -2788,6 +2788,8 @@ export default {
       skip: 'Skip setup',
     },
     adopt: 'Adopt this plan',
+    essential: 'The essentials',
+    beyond: 'To go further',
     continue: 'Continue',
     otherPrayer: {
       title: 'Any other prayer',

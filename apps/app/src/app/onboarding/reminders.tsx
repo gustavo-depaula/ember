@@ -21,6 +21,7 @@ import { TimeWheel } from '@/features/plan-of-life/components/RuleSheets'
 import { nextHalfHour } from '@/features/plan-of-life/defaultSlot'
 import { enrichSlot } from '@/features/plan-of-life/getPracticeName'
 import { phrasing } from '@/features/plan-of-life/phrasing'
+import { formatSlotTime } from '@/features/plan-of-life/ruleString'
 import { parseSchedule } from '@/features/plan-of-life/schedule'
 import { PracticeHeader } from '@/features/practices/components/PracticeHeader'
 import { lightTap } from '@/lib/haptics'
@@ -195,8 +196,8 @@ function ReminderRow({
         ) : null}
         <InlineEdit
           testID={`reminder-time-${slot.practice_id}`}
-          label={words.clock(time)}
-          a11y={t('a11y.reminderTime', { name, time: words.clock(time) })}
+          label={formatSlotTime(time, i18n.language)}
+          a11y={t('a11y.reminderTime', { name, time: formatSlotTime(time, i18n.language) })}
           open={turning}
           onPress={() => setTurning((x) => !x)}
         />

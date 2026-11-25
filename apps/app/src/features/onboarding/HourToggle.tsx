@@ -4,7 +4,7 @@ import { useTheme, useThemeName, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, Typography } from '@/components'
 import { OpenBead } from '@/features/plan-of-life/components/RuleGuide'
-import { hourHue } from '@/features/plan-of-life/ruleString'
+import { formatSlotTime, hourHue } from '@/features/plan-of-life/ruleString'
 import { lightTap } from '@/lib/haptics'
 
 /**
@@ -26,7 +26,7 @@ export function HourToggle({
   on: boolean
   onToggle: () => void
 }) {
-  const { t } = useTranslation()
+  const { t, i18n } = useTranslation()
   const theme = useTheme()
   const dark = useThemeName().startsWith('dark')
   return (
@@ -58,7 +58,7 @@ export function HourToggle({
           {hint ? <Typography variant="caption">{hint}</Typography> : null}
         </YStack>
         <Typography tone="muted" fontSize={15}>
-          {time}
+          {time ? formatSlotTime(time, i18n.language) : ''}
         </Typography>
       </XStack>
     </AnimatedPressable>

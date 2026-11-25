@@ -6,6 +6,7 @@ import { TemplateView, useAdoptTemplate, useTemplateManifest } from '@/features/
 
 import { reportFailure } from './failure'
 import { OtherPrayerLine } from './OtherPrayerLine'
+import { TemplateString } from './TemplateString'
 
 /** A tradition's page where the way in adopts its whole rule and moves on to reminders. */
 export function AdoptStep({ templateId }: { templateId: string }) {
@@ -32,6 +33,8 @@ export function AdoptStep({ templateId }: { templateId: string }) {
           ),
       }}
       footer={<OtherPrayerLine />}
+      rule={<TemplateString template={manifest} />}
+      opening
     />
   )
 }

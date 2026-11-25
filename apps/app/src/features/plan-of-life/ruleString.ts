@@ -5,7 +5,7 @@ import { getManifest } from '@/content/resolver'
 import type { SlotState } from '@/db/events'
 import type { Tier } from '@/db/schema'
 
-import { parseSchedule } from './schedule'
+import { parseSchedule, type Schedule } from './schedule'
 import { type DayPart, dayPartOfHour } from './timeBlocks'
 
 // The rule drawn as a string of beads: one bead per prayer time, in the day's
@@ -55,7 +55,11 @@ export function isProgramSlot(slot: SlotState): boolean {
  * the cadence word for a monthly or holy-day rule. Undefined for every day.
  */
 export function slotDaysLabel(slot: SlotState, t: TFunction): string | undefined {
-  const schedule = parseSchedule(slot.schedule)
+  return scheduleDaysLabel(parseSchedule(slot.schedule), t)
+}
+
+/** The days a schedule keeps, as the plan's string names them; none for every day. */
+export function scheduleDaysLabel(schedule: Schedule, t: TFunction): string | undefined {
   switch (schedule.type) {
     case 'daily':
       return undefined

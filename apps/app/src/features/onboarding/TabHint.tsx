@@ -35,6 +35,7 @@ export function TabHint({ tab }: { tab: 'you' | 'search' }) {
         testID={`tab-hint-${tab}-dismiss`}
         label={t('onboarding.hints.dismiss')}
         align="flex-end"
+        tone="accent"
         onPress={() => markHintSeen(tab)}
       />
     </YStack>

@@ -2795,6 +2795,8 @@ export default {
       skip: 'Pular configuração',
     },
     adopt: 'Adotar este plano',
+    essential: 'O essencial',
+    beyond: 'Para ir além',
     continue: 'Continuar',
     otherPrayer: {
       title: 'E qualquer outra oração',

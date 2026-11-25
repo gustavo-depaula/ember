@@ -49,7 +49,7 @@ export function Slab({
         opacity={off ? 0.5 : 1}
       >
         {children ?? (
-          <Typography variant="label" fontSize="$3" color="$background">
+          <Typography variant="label" fontSize="$3" color="$background" textAlign="center">
             {label}
           </Typography>
         )}

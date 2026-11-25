@@ -61,17 +61,23 @@ export function ChoiceRow({
   )
 }
 
-/** A quiet way on or out, in tracked gold caps: skip, no reminders, got it. */
+/**
+ * A way on or out that is not the page's commitment. `quiet` (the default) is
+ * the way out — skip, no reminders — small and muted, so it never competes with
+ * the gold slab; `accent` is a plain way on, as dismissing a hint.
+ */
 export function TextLink({
   testID,
   label,
   onPress,
   align = 'center',
+  tone = 'quiet',
 }: {
   testID: string
   label: string
   onPress: () => void
   align?: 'center' | 'flex-end'
+  tone?: 'quiet' | 'accent'
 }) {
   return (
     <AnimatedPressable
@@ -84,15 +90,21 @@ export function TextLink({
       accessibilityLabel={label}
       style={{ alignSelf: align }}
     >
-      <YStack minHeight={48} justifyContent="center">
-        <Typography
-          variant="label"
-          color="$accentHover"
-          textTransform="uppercase"
-          letterSpacing={1.5}
-        >
-          {label}
-        </Typography>
+      <YStack minHeight={44} justifyContent="center">
+        {tone === 'quiet' ? (
+          <Typography tone="muted" fontSize={15}>
+            {label}
+          </Typography>
+        ) : (
+          <Typography
+            variant="label"
+            color="$accentHover"
+            textTransform="uppercase"
+            letterSpacing={1.5}
+          >
+            {label}
+          </Typography>
+        )}
       </YStack>
     </AnimatedPressable>
   )

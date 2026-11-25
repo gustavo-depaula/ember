@@ -14,4 +14,5 @@ export {
 } from './plan'
 export { confirmReminders, movableDay, onWeekday, reminderGroups } from './reminders'
 export { TabHint } from './TabHint'
+export { TemplateString } from './TemplateString'
 export { useOfficeHours } from './useOfficeHours'

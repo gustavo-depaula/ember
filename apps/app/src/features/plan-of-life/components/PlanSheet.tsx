@@ -20,16 +20,11 @@ import { enrichSlot } from '../getPracticeName'
 import { useArchivedPractices, usePinnedFlows } from '../hooks'
 import { beadRadius, dayPartHue, formatSlotTime, hourHue, slotDaysLabel } from '../ruleString'
 import { dayPartOrder, getActiveBlocks } from '../timeBlocks'
+import { BeadRow, beadRowHeight, beadX, threadPath } from './BeadRow'
 
 const sheet = createSheet()
 
 export const openPlanSheet = sheet.open
-
-const rowHeight = 50
-const railWidth = 52
-const sway = 12
-// The string winds gently as it descends; each row draws its own stretch of it.
-const beadX = (i: number) => railWidth / 2 + sway * Math.sin(i * 1.1)
 
 /**
  * The whole rule, drawn up over the You page: the bead string stood upright
@@ -129,35 +124,16 @@ function UprightString({ slots }: { slots: SlotState[] }) {
             accessibilityRole="link"
             accessibilityLabel={`${name} ${when}`}
           >
-            <XStack height={rowHeight} alignItems="center" gap="$sm">
-              <Svg width={railWidth} height={rowHeight}>
-                <Path
-                  d={thread(i, ordered.length + 1)}
-                  stroke={hue}
-                  strokeOpacity={0.55}
-                  strokeWidth={1.3}
-                  fill="none"
-                />
-                {days ? (
-                  <Circle
-                    cx={beadX(i)}
-                    cy={rowHeight / 2}
-                    r={beadRadius[slot.tier]}
-                    fill={theme.background.val}
-                    stroke={hue}
-                    strokeWidth={1.6}
-                  />
-                ) : (
-                  <Circle cx={beadX(i)} cy={rowHeight / 2} r={beadRadius[slot.tier]} fill={hue} />
-                )}
-              </Svg>
-              <Typography flex={1} fontSize="$3" numberOfLines={1}>
-                {name}
-              </Typography>
-              <Typography tone="muted" fontSize="$1">
-                {when}
-              </Typography>
-            </XStack>
+            <BeadRow
+              index={i}
+              count={ordered.length + 1}
+              hue={hue}
+              radius={beadRadius[slot.tier]}
+              hollow={!!days}
+              background={theme.background.val}
+              name={name}
+              when={when}
+            />
           </AnimatedPressable>
         )
       })}
@@ -170,10 +146,10 @@ function UprightString({ slots }: { slots: SlotState[] }) {
         accessibilityRole="link"
         accessibilityLabel={t('a11y.openAddToRule')}
       >
-        <XStack height={rowHeight} alignItems="center" gap="$sm">
-          <Svg width={railWidth} height={rowHeight}>
+        <XStack height={beadRowHeight} alignItems="center" gap="$sm">
+          <Svg width={52} height={beadRowHeight}>
             <Path
-              d={thread(ordered.length, ordered.length + 1)}
+              d={threadPath(ordered.length, ordered.length + 1)}
               stroke={theme.accent.val}
               strokeOpacity={0.4}
               strokeWidth={1.3}
@@ -182,7 +158,7 @@ function UprightString({ slots }: { slots: SlotState[] }) {
             />
             <Circle
               cx={beadX(ordered.length)}
-              cy={rowHeight / 2}
+              cy={beadRowHeight / 2}
               r={11}
               fill={theme.background.val}
               stroke={theme.accent.val}
@@ -190,7 +166,7 @@ function UprightString({ slots }: { slots: SlotState[] }) {
               strokeDasharray="3 3"
             />
             <Path
-              d={`M${beadX(ordered.length) - 4},${rowHeight / 2}h8M${beadX(ordered.length)},${rowHeight / 2 - 4}v8`}
+              d={`M${beadX(ordered.length) - 4},${beadRowHeight / 2}h8M${beadX(ordered.length)},${beadRowHeight / 2 - 4}v8`}
               stroke={theme.accent.val}
               strokeWidth={1.4}
               strokeLinecap="round"
@@ -203,15 +179,6 @@ function UprightString({ slots }: { slots: SlotState[] }) {
       </AnimatedPressable>
     </YStack>
   )
-}
-
-// Row i's stretch of the string: from halfway to the bead above, through its
-// own bead, to halfway to the one below.
-function thread(i: number, count: number): string {
-  const mid = rowHeight / 2
-  const from = i > 0 ? `M${(beadX(i - 1) + beadX(i)) / 2},0 L` : 'M'
-  const to = i < count - 1 ? ` L${(beadX(i) + beadX(i + 1)) / 2},${rowHeight}` : ''
-  return `${from}${beadX(i)},${mid}${to}`
 }
 
 function Traditions() {

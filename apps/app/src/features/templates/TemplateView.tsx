@@ -21,17 +21,22 @@ import { TemplateHero } from './TemplateHero'
 /**
  * A tradition's page: its painting and name, the manifesto, then the rule it
  * proposes and the one way in (`action`), with an optional `footer` under it.
- * The tradition's own screen opens the cherry-pick sheet from the action;
- * onboarding adopts the whole rule.
+ * The tradition's own screen walks the rule practice by practice and opens the
+ * cherry-pick sheet; onboarding gives `rule` (its string at a glance) under the
+ * manifesto's `opening` paragraph alone, and adopts the whole rule.
  */
 export function TemplateView({
   manifest,
   action,
   footer,
+  rule,
+  opening,
 }: {
   manifest: PlanOfLifeTemplateManifest
   action: { label: string; onPress: () => void; busy?: boolean }
   footer?: ReactNode
+  rule?: ReactNode
+  opening?: boolean
 }) {
   const theme = useTheme()
   const insets = useSafeAreaInsets()
@@ -44,11 +49,12 @@ export function TemplateView({
   })
 
   const id = manifest.id
-  const manifesto = localizeContent(manifest.manifesto)
+  const full = localizeContent(manifest.manifesto)
+  const manifesto = opening ? full.split(/\n\s*\n/)[0] : full
 
   const proposal = (
     <>
-      <ProposedPractices template={manifest} />
+      {rule ?? <ProposedPractices template={manifest} />}
       <Slab
         label={action.label}
         onPress={action.onPress}
