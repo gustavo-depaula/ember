@@ -329,14 +329,16 @@ button:focus-visible { outline: 2px solid var(--goldDeep); outline-offset: 2px; 
 .tedit { position: relative; flex: none; font: 400 16px var(--body); color: var(--goldDeep); font-variant-numeric: tabular-nums; border-bottom: 1px dotted var(--gold); padding: 1px 1px 0; line-height: 21px; cursor: pointer; }
 .tedit input { position: absolute; inset: 0; width: 100%; height: 100%; opacity: 0; border: 0; padding: 0; cursor: pointer; }
 .bead-row.edit .bellb { height: 44px; }
-.mgroup { padding: 14px 0 10px; box-shadow: inset 0 -.5px 0 var(--line); }
+.mgroup { padding: 3px 0; box-shadow: inset 0 -.5px 0 var(--line); }
 .mgroup .mh { display: flex; align-items: center; gap: 10px; }
 .mgroup .mh .label { flex: 1; }
 .mgroup .mh small { color: var(--muted); font-size: 14.5px; font-style: italic; }
 .mgroup .mh .bellb { width: 44px; height: 44px; display: grid; place-items: center; margin-right: -10px; }
-.mgroup .mi { display: flex; align-items: baseline; gap: 10px; padding: 6px 0 2px; font-size: 17.5px; line-height: 22px; }
-.mgroup .mi span:first-child { flex: 1; min-width: 0; }
-.mgroup.off .label, .mgroup.off .mi > span:first-child { color: #B5AA9B; }
+.mgroup .mi { display: flex; align-items: center; gap: 10px; min-height: 46px; font-size: 17.5px; line-height: 22px; }
+.mgroup .ml { flex: none; width: 74px; font: 400 10.5px var(--head); letter-spacing: 1.4px; text-transform: uppercase; color: var(--muted); }
+.mgroup .mn { flex: 1; min-width: 0; }
+.mgroup .bellb { flex: none; width: 40px; height: 44px; display: grid; place-items: center; margin-right: -8px; }
+.mgroup.off .mn { color: #B5AA9B; }
 .tabp { padding-bottom: 440px; }
 .mast img { height: auto; }
 .tabp .sec { display: flex; align-items: center; gap: 8px; font: 400 14px var(--head); letter-spacing: 1.8px; padding: 0 24px; margin-top: 26px; }
@@ -605,7 +607,7 @@ const cov = (id) => `c/${id}.webp`
 const hue = (t) => { const h = Number((t || '08').slice(0, 2)); return h < 8 ? '#C2567A' : h < 12 ? '#B8871F' : h < 14 ? '#CDAA00' : h < 18 ? '#C0651E' : h < 21 ? '#8E5BB0' : '#4A6FB5' }
 const chevron = (c = '#2C2418') => `<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="${c}" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m15 18-6-6 6-6"/></svg>`
 const navrow = () => `<div class="navrow"><button class="backb" data-back aria-label="Voltar">${chevron()}</button><span class="hair" aria-hidden="true"></span></div>`
-const head = (kicker, title, lede) => `<div class="head"><div class="kicker">${kicker}</div><div class="title">${title}</div>${lede ? `<p class="lede">${lede}</p>` : ''}</div>`
+const head = (kicker, title, lede) => `<div class="head">${kicker ? `<div class="kicker">${kicker}</div>` : ''}<div class="title">${title}</div>${lede ? `<p class="lede">${lede}</p>` : ''}</div>`
 const tpl = (img, kicker, title, pos = 'center', short = false) => `<div class="tpl ${short ? 'short' : ''}" style="background-image:url(${img});background-position:${pos}"><button class="backb" data-back aria-label="Voltar">${chevron('#fff')}</button><div>${kicker ? `<div class="kicker">${kicker}</div>` : ''}<div class="title">${title}</div></div></div>`
 const tile = (act, val, title, sub, img, pos = 'center') => `<button class="tilec" data-act="${act}" data-val="${val}"><span class="img" style="background-image:url(${img});background-position:${pos}"></span><b>${title}</b>${sub ? `<small>${sub}</small>` : ''}</button>`
 const openBead = (c = '#C9A84C') => `<svg class="bead" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="11" fill="none" stroke="${c}" stroke-width="1.2" stroke-dasharray="3 3"/><path d="M16 20h8M20 16v8" stroke="${c}" stroke-width="1.4" stroke-linecap="round"/></svg>`
@@ -767,15 +769,15 @@ const screens = {
   start: () => ({ onart: true, body: `${tpl(art(beginner.a), '', beginner.n, '30% 24%')}<div class="pad"><p class="just">${beginner.m}</p><div class="label" style="margin-top:22px">O essencial</div>${string(beginner.p.filter((p) => p.e && p.t).map((p) => ({ name: p.n, sub: p.w === 'Dom' ? 'Aos domingos' : p.w, time: p.t, on: true })))}</div>`, foot: `<button class="btn" data-next>Adotar este plano</button>` }),
   remind: () => {
     if (alt.remind === 'B') { const items = plan().filter((p) => !p.w)
-      return { body: `${navrow()}${head('Lembretes', 'Quando lembrar você?', 'Um sino para cada oração. Toque na hora para mudá-la, no sino para silenciar.')}<div class="pad">${editRows(items, true)}</div>`,
+      return { body: `${navrow()}${head('', 'Quando lembrar você?', 'Um sino para cada oração. Dá para mudar depois, no seu Plano de Vida.')}<div class="pad">${editRows(items, true)}</div>`,
         foot: `<button class="btn" data-act="ask-notify">Lembrar-me nestes horários</button><button class="link" data-act="no-notify">Sem lembretes por agora</button>` } }
     if (alt.remind === 'C') { const items = plan().filter((p) => !p.w)
-      return { body: `${navrow()}${head('Lembretes', 'Quer que o Ember lembre você?', `Na hora de cada oração do seu plano${items.length > 4 ? `: ${items.length} lembretes por dia` : ''}. Toque numa hora para mudá-la.`)}<div class="pad">${editRows(items, false)}</div>`,
+      return { body: `${navrow()}${head('', 'Quer que o Ember lembre você?', `Na hora de cada oração do seu plano${items.length > 4 ? `: ${items.length} lembretes por dia` : ''}. Dá para mudar depois, no seu Plano de Vida.`)}<div class="pad">${editRows(items, false)}</div>`,
         foot: `<button class="btn" data-act="ask-notify">Sim, lembrar-me</button><button class="link" data-act="no-notify">Agora não</button>` } }
     return screens._remindA()
   },
   _remindA: () => { const m = moments()
-    return { body: `${navrow()}${head('Lembretes', 'Quando lembrar você?', 'No máximo quatro vezes por dia, na primeira oração de cada momento. Toque numa hora para mudá-la.')}<div class="pad">${m.length ? '' : '<p class="lede">Nada do que você marcou tem hora fixa.</p>'}${m.map((x) => { const on = !state.muted.has(x.label); return `<div class="mgroup ${on ? '' : 'off'}"><div class="mh"><span class="label">${x.label}</span><small>${on ? `lembrete às ${x.time}` : 'sem lembrete'}</small><button class="bellb" data-act="mute" data-val="${x.label}" aria-pressed="${on}" aria-label="Lembrete: ${x.label}">${bell(on)}</button></div>${x.items.map((i) => `<div class="mi"><span>${i.n}</span>${timeCell(i.n, i.t)}</div>`).join('')}</div>` }).join('')}</div>`,
+    return { body: `${navrow()}${head('', 'Quando lembrar você?', 'Um lembrete por momento do dia. Dá para mudar depois, no seu Plano de Vida.')}<div class="pad">${m.length ? '' : '<p class="lede">Nada do que você marcou tem hora fixa.</p>'}${m.map((x) => { const on = !state.muted.has(x.label); return `<div class="mgroup ${on ? '' : 'off'}">${x.items.map((i, k) => `<div class="mi"><span class="ml">${k ? '' : x.label}</span><span class="mn">${i.n}</span>${timeCell(i.n, i.t)}${k ? '<span class="bellb"></span>' : `<button class="bellb" data-act="mute" data-val="${x.label}" aria-pressed="${on}" aria-label="Lembrete: ${x.label}">${bell(on)}</button>`}</div>`).join('')}</div>` }).join('')}</div>`,
       foot: `<button class="btn" data-act="ask-notify">Lembrar-me nestes horários</button><button class="link" data-act="no-notify">Sem lembretes por agora</button>` } },
   f1: () => featureScreen(0), f2: () => featureScreen(1), f3: () => featureScreen(2),
   fall: () => ({ body: `${navrow()}${head('O Ember para você', 'Tudo num só lugar')}${paths[path].features.map((k) => { const f = features[k]; return `<div class="jewel" style="background-image:url(${cov(f.bg)});background-position:${f.pos}"><small>${f.kick}</small><b>${f.title}</b><span>${f.text}</span></div>` }).join('')}`, foot: textbar('', '<button data-next>Continuar ›</button>'), footCls: 'bar' }),
