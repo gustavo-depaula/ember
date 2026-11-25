@@ -1,5 +1,5 @@
-import { type Href, useRouter } from 'expo-router'
-import { useEffect } from 'react'
+import { type Href, useFocusEffect, useRouter } from 'expo-router'
+import { useCallback } from 'react'
 import { useTranslation } from 'react-i18next'
 import { YStack } from 'tamagui'
 
@@ -34,16 +34,19 @@ export default function OnboardingReason() {
   const setOnboarding = usePreferencesStore((s) => s.setOnboarding)
 
   // The first arrival notes the plan as it stands; any later one (a relaunch,
-  // a step back) undoes what onboarding has added since, and only that.
-  useEffect(() => {
-    const { onboarding, onboardingKept, setOnboardingKept } = usePreferencesStore.getState()
-    if (onboarding === 'new') {
-      setOnboardingKept(planSlotIds())
-      setOnboarding('started')
-      return
-    }
-    clearOnboardingPlan(new Set(onboardingKept)).catch(reportFailure)
-  }, [setOnboarding])
+  // a step back) undoes what onboarding has added since, and only that. On
+  // focus, not mount: stepping back uncovers this screen without remounting it.
+  useFocusEffect(
+    useCallback(() => {
+      const { onboarding, onboardingKept, setOnboardingKept } = usePreferencesStore.getState()
+      if (onboarding === 'new') {
+        setOnboardingKept(planSlotIds())
+        setOnboarding('started')
+        return
+      }
+      clearOnboardingPlan(new Set(onboardingKept)).catch(reportFailure)
+    }, [setOnboarding]),
+  )
 
   return (
     <ScreenLayout modal>

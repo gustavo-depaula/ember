@@ -49,6 +49,7 @@ import {
   warmDeferredManifests,
 } from '@/content/resolver'
 import { useDbInit } from '@/db/client'
+import { useNeedsOnboarding } from '@/features/onboarding/gate'
 import { rehydratePinned } from '@/features/pinning/pinningManager'
 import { straightenPlanOnce } from '@/features/plan-of-life/straighten'
 import { startSync } from '@/features/sync'
@@ -137,6 +138,10 @@ export default function RootLayout() {
   const [fontsLoaded] = useFonts(appFonts)
 
   const { success: dbReady } = useDbInit()
+  // A first install, or one half through onboarding, reaches only onboarding;
+  // finishing it opens the app. Read before the stores load, it says onboard
+  // with nothing to settle, and the Stack is not drawn until they have.
+  const needsOnboarding = useNeedsOnboarding()
 
   const systemScheme = useColorScheme()
   const {
@@ -303,11 +308,15 @@ export default function RootLayout() {
                   contentStyle: { backgroundColor: rootBg },
                 }}
               >
-                <Stack.Screen name="(tabs)" options={{ title: i18n.t('a11y.home') }} />
-                <Stack.Screen
-                  name="onboarding"
-                  options={{ title: i18n.t('onboarding.reason.kicker'), gestureEnabled: false }}
-                />
+                <Stack.Protected guard={!needsOnboarding}>
+                  <Stack.Screen name="(tabs)" options={{ title: i18n.t('a11y.home') }} />
+                </Stack.Protected>
+                <Stack.Protected guard={needsOnboarding}>
+                  <Stack.Screen
+                    name="onboarding"
+                    options={{ title: i18n.t('onboarding.reason.kicker'), gestureEnabled: false }}
+                  />
+                </Stack.Protected>
               </Stack>
             </ThemeProvider>
             <FloatingOfflineChip />

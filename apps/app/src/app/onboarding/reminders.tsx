@@ -164,7 +164,15 @@ function ReminderRow({
     <YStack testID={`reminder-row-${slot.practice_id}`}>
       <XStack alignItems="center" gap="$sm" minHeight={48}>
         {weekly ? null : (
-          <Typography variant="label" tone="muted" fontSize={10.5} letterSpacing={1.4} width={78}>
+          <Typography
+            variant="label"
+            tone="muted"
+            fontSize={10.5}
+            letterSpacing={1.4}
+            width={78}
+            numberOfLines={1}
+            adjustsFontSizeToFit
+          >
             {part.toUpperCase()}
           </Typography>
         )}

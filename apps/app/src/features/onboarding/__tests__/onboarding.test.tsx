@@ -35,7 +35,7 @@ const screens = {
   '/onboarding/pray': OnboardingPray,
 }
 
-// Today, reduced to its gate: the real redirect, and a mark once past it.
+// Today behind the root's guard: the gate the root layout reads, and a mark once past it.
 function Today() {
   if (useNeedsOnboarding()) return <Redirect href="/onboarding" />
   return <Text testID="today">today</Text>

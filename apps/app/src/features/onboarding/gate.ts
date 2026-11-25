@@ -18,7 +18,7 @@ export function gateOf(stage: OnboardingStage, hasPlan: boolean): 'onboard' | 's
   return hasPlan ? 'settle' : 'onboard'
 }
 
-/** Whether Today should hand over to onboarding; settles a kept rule as done. */
+/** Whether the app should open on onboarding (the root guards on it); settles a kept rule as done. */
 export function useNeedsOnboarding(): boolean {
   const stage = usePreferencesStore((s) => s.onboarding)
   const setOnboarding = usePreferencesStore((s) => s.setOnboarding)
