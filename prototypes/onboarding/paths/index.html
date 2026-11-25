@@ -650,7 +650,7 @@ function basePlan() {
   if (path === 'office-new') return [{ n: state.firstHour, t: { Laudes: '07:00', 'Vésperas': '18:00', Completas: '22:00' }[state.firstHour] }]
   if (path === 'rule') return rule().p.filter((p, i) => p.t && !state.off.has(i)).map((p) => ({ n: p.n, t: p.t, w: p.w }))
   if (path === 'grow') return guideEntries.filter((e) => state.mine.has(e[0]) && e[4]).map((e) => ({ n: e[1], t: e[4], w: e[5] })).sort((a, b) => a.t.localeCompare(b.t))
-  if (path === 'start') return beginner.p.filter((p) => p.e && p.t).map((p) => ({ n: p.n, t: p.t, w: p.w }))
+  if (path === 'start') return beginner.p.filter((p) => p.t).map((p) => ({ n: p.n, t: p.t, w: p.w }))
   return []
 }
 function moments() {
@@ -778,7 +778,7 @@ const screens = {
     const row = (e) => { const on = state.mine.has(e[0]); return `<button class="grow-row" data-act="mine" data-val="${e[0]}" aria-pressed="${on}"><span class="tx"><b>${e[1]}</b><em>${on ? `Na regra · ${[e[5], e[4]].filter(Boolean).join(' ') || e[2]}` : e[2]}</em><small>${e[3]}</small></span>${on ? fullBead(e[4]) : openBead()}</button>` }
     return { body: `${navrow()}<div class="rgtitle"><div class="t">Acrescentar à regra</div><p class="lede">Uma regra de vida se constrói de cima para baixo: comece pelos primeiros degraus e desça quando cada um já for hábito.</p><hr></div>${guideTiers.map((t) => `<section><div class="gchap" style="--art:url(${cov(t[3])})"><div class="num">${t[0]}</div><div class="tt">${t[1]}</div><div class="ln">${t[2]}</div><div class="fl" aria-hidden="true">· ✠ ·</div></div>${t[4].map(row).join('')}</section>`).join('')}`,
       foot: `<div class="addedbar">${n ? `<span>${n} ${n === 1 ? 'prática acrescentada' : 'práticas acrescentadas'}</span><button data-next>Continuar ›</button>` : '<span>Toque em ⊕ no que você já reza</span>'}</div>`, footCls: 'bar' } },
-  start: () => ({ onart: true, body: `${tpl(art(beginner.a), '', beginner.n, '30% 24%')}<div class="pad"><p class="just">${beginner.m}</p><div class="label" style="margin-top:22px">O essencial</div>${string(beginner.p.filter((p) => p.e && p.t).map((p) => ({ name: p.n, sub: p.w === 'Dom' ? 'Aos domingos' : p.w, time: p.t, on: true })))}</div>`, foot: `<button class="btn" data-next>Adotar este plano</button>` }),
+  start: () => ({ onart: true, body: `${tpl(art(beginner.a), '', beginner.n, '30% 24%')}<div class="pad"><p class="just">${beginner.m}</p><div class="label" style="margin-top:22px">O essencial</div>${string(beginner.p.filter((p) => p.e && p.t).map((p) => ({ name: p.n, sub: p.w === 'Dom' ? 'Aos domingos' : p.w === '1º Sáb do mês' ? 'No 1º sábado do mês' : p.w, time: p.t, on: true })))}<div class="label" style="margin-top:22px">Para ir além</div>${string(beginner.p.filter((p) => !p.e && p.t).map((p) => ({ name: p.n, time: p.t, on: true, r: 6 })))}</div>`, foot: `<button class="btn" data-next>Adotar este plano</button>` }),
   remind: () => {
     if (alt.remind === 'B') { const items = plan().filter((p) => !p.w)
       return { body: `${navrow()}${head('', 'Quando lembrar você?', 'Um sino para cada oração. Dá para mudar depois, no seu Plano de Vida.')}<div class="pad">${editRows(items, true)}${weekRows(plan().filter((p) => p.w))}</div>`,
