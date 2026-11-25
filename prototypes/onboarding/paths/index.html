@@ -510,7 +510,7 @@ const tail = ['remind', 'f1', 'f2', 'f3', 'pray', 'amen', 'choose', 'card', 'tod
 const paths = {
   'office-regular': { label: 'Office regular', features: ['hours', 'library', 'cards'], steps: ['ask', 'officeAsk', 'officeWhich', 'officeHours', ...tail] },
   'office-new': { label: 'Office newcomer', features: ['hours', 'readings', 'cards'], steps: ['ask', 'officeAsk', 'officeIntro', ...tail] },
-  rule: { label: 'Rule of life', features: ['meditations', 'map', 'cards'], steps: ['ask', 'rule', 'ruleDay', ...tail] },
+  rule: { label: 'Opus Dei', features: ['meditations', 'map', 'cards'], steps: ['ask', 'ruleDay', ...tail] },
   grow: { label: 'Wants to grow', features: ['readings', 'library', 'cards'], steps: ['ask', 'guide', ...tail] },
   start: { label: 'Starting out', features: ['readings', 'map', 'cards'], steps: ['ask', 'start', ...tail] },
   skip: { label: 'Skip setup', features: [], steps: ['ask', 'today'] },
@@ -687,7 +687,7 @@ function tourStops() {
   const search = {
     'office-regular': { sel: '#sChant', name: 'Search: chant', t: 'O Ofício, também cantado', p: 'O Kyriale, hinos e antífonas em notação quadrada.', also: 'Também em Buscar: a Bíblia, 1.805 livros e Missas perto de você.' },
     'office-new': { sel: '#sStamps', name: 'Search: Mass, Bible, Rosary', t: 'A Missa, a Bíblia, o Rosário', p: 'O essencial da oração católica, a um toque, além do Ofício.', also: 'Também em Buscar: Missas perto de você e 1.805 livros.' },
-    rule: { sel: '#sColl', name: 'Search: collections', t: 'A sua escola, reunida', p: 'Coleções por devoção, escola e autor, para ir além do plano.', also: 'Também em Buscar: Missas perto de você, a Bíblia e 1.805 livros.' },
+    rule: { sel: '#sColl', name: 'Search: collections', t: 'A Obra, reunida', p: 'As Normas de Piedade e o Devocionário, entre 47 coleções de devoções, escolas e autores.', also: 'Também em Buscar: Missas perto de você, a Bíblia e 1.805 livros.' },
     grow: { sel: '#sBooks', name: 'Search: the books', t: 'Dois mil anos para ler', p: '1.805 livros dos Padres, dos doutores e dos santos, com a sua página guardada.', also: 'Também em Buscar: Missas perto de você, a Bíblia e 462 orações.' },
     start: { sel: '#sChurches', name: 'Search: Mass nearby', t: 'Uma Missa perto de você', p: 'Horários de Missa e de confissão das igrejas ao seu redor.', also: 'Também em Buscar: a Bíblia, o Rosário e 462 orações.' },
   }[path] || {}
@@ -735,7 +735,7 @@ const crosses = (i, n = 3) => `<div class="crosses" aria-hidden="true">${Array.f
 const textbar = (left, right) => `<div class="textbar">${left || '<span></span>'}${right}</div>`
 const screens = {
   ask: () => {
-    const reasons = [['office', 'Quero rezar o Ofício', 'Já rezo, ou quero aprender', 'meditation-patristic', '50% 22%'], ['rule', 'Sigo uma regra de vida', 'Opus Dei, Carmelo, ordens terceiras…', 'tpl-opus-dei', '50% 50%'], ['grow', 'Já rezo e quero crescer', 'Fortalecer minha vida de oração', 'mental-prayer', '50% 25%'], ['start', 'Quero começar a rezar', 'Um começo pequeno e fiel', 'tpl-beginner-minimum', '40% 50%']].sort((a, b) => orders[alt.order].indexOf(a[0]) - orders[alt.order].indexOf(b[0]))
+    const reasons = [['office', 'Quero rezar o Ofício', 'Já rezo, ou quero aprender', 'meditation-patristic', '50% 22%'], ['rule', 'Sigo o plano da Obra', 'As normas de piedade do Opus Dei', 'tpl-opus-dei', '50% 50%'], ['grow', 'Já rezo e quero crescer', 'Fortalecer minha vida de oração', 'mental-prayer', '50% 25%'], ['start', 'Quero começar a rezar', 'Um começo pequeno e fiel', 'tpl-beginner-minimum', '40% 50%']].sort((a, b) => orders[alt.order].indexOf(a[0]) - orders[alt.order].indexOf(b[0]))
     const foot = `<button class="link" data-act="path" data-val="skip">Pular configuração</button>`
     if (alt.ask === 'B') return { body: `<div class="mast"><img src="a/notch_you_light.webp" alt=""></div>${head('Bem-vindo ao Ember', 'O que te traz aqui?')}<div class="bands">${reasons.map(([v, t, sub, i, p]) => `<button class="band" data-act="path" data-val="${v}" style="--art:url(${cov(i)});--pos:${p}"><b>${t}</b><small>${sub}</small><span class="fl" aria-hidden="true">· ✠ ·</span></button>`).join('')}</div>`, foot }
     const mast = `<div class="mast"><img src="a/notch_you_light.webp" alt=""></div>`
@@ -750,7 +750,7 @@ const screens = {
     return screens._askA()
   },
   _askA: () => ({ body: `<div class="mast"><img src="a/notch_you_light.webp" alt=""></div>${head('Bem-vindo ao Ember', 'O que te traz aqui?')}
-    <div class="tiles">${[['office', 'Rezar o Ofício Divino', 'A oração da Igreja, hora por hora', 'meditation-patristic', '50% 22%'], ['rule', 'Sigo uma regra de vida', 'Opus Dei, Carmelo, ordens terceiras…', 'tpl-opus-dei', '50% 50%'], ['grow', 'Já rezo e quero crescer', 'Fortalecer minha vida de oração', 'mental-prayer', '50% 25%'], ['start', 'Quero começar a rezar', 'Um começo pequeno e fiel', 'tpl-beginner-minimum', '40% 50%']].map(([v, t, s, i, p]) => tile('path', v, t, s, cov(i), p)).join('')}</div>`,
+    <div class="tiles">${[['office', 'Rezar o Ofício Divino', 'A oração da Igreja, hora por hora', 'meditation-patristic', '50% 22%'], ['rule', 'Sigo o plano da Obra', 'As normas de piedade do Opus Dei', 'tpl-opus-dei', '50% 50%'], ['grow', 'Já rezo e quero crescer', 'Fortalecer minha vida de oração', 'mental-prayer', '50% 25%'], ['start', 'Quero começar a rezar', 'Um começo pequeno e fiel', 'tpl-beginner-minimum', '40% 50%']].map(([v, t, s, i, p]) => tile('path', v, t, s, cov(i), p)).join('')}</div>`,
     foot: `<button class="link" data-act="path" data-val="skip">Pular configuração</button>` }),
   officeAsk: () => ({ body: `${navrow()}${head('Ofício Divino', 'Você já reza o Ofício?')}
     <div class="tiles big">${tile('officePath', 'office-regular', 'Sim, já rezo', 'Quero o meu Ofício à mão', cov('meditation-patristic'), '50% 22%')}${tile('officePath', 'office-new', 'Estou começando', 'Quero entender e rezar uma hora', cov('meditation-opus-dei'), '50% 40%')}</div>` }),
