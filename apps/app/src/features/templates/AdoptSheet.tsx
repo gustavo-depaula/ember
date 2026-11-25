@@ -8,12 +8,16 @@ import { useTheme, XStack, YStack } from 'tamagui'
 import { pullDown } from '@/components/NativeSheet'
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { Typography } from '@/components/typography'
-import { canonicalize } from '@/content/contentIndex'
-import { isTemplatePlaceholder, type PlanOfLifeTemplateManifest } from '@/content/manifestTypes'
-import { findGroupMemberInSet, getManifest } from '@/content/resolver'
-import { useCreatePractice, useSlots, useUpdatePractice } from '@/features/plan-of-life'
+import type {
+  PlanOfLifeTemplateManifest,
+  PlanOfLifeTemplatePlaceholder,
+} from '@/content/manifestTypes'
+import { getManifest } from '@/content/resolver'
+import { useSlots } from '@/features/plan-of-life'
 import { localizeContent } from '@/lib/i18n'
+import { proposalsOf } from './adopt'
 import { cadenceLabel } from './cadence'
+import { useAdoptTemplate } from './hooks'
 import { resolvePracticeIcon, resolvePracticeName } from './resolvePractice'
 
 /**
@@ -43,46 +47,27 @@ export function AdoptSheet({
   const insets = useSafeAreaInsets()
   const { height: windowHeight } = useWindowDimensions()
   const slots = useSlots()
-  const createPractice = useCreatePractice()
-  const updatePractice = useUpdatePractice()
+  const adopt = useAdoptTemplate()
 
-  // A practice is "already in the rule" if any enabled slot is one of its own.
   const inRule = useMemo(() => new Set(slots.map((s) => s.practice_id)), [slots])
 
-  // Normalize each proposed practice. Stable index — a template may list the
-  // same ref twice (e.g. Opus Dei's two prayer periods). Placeholders are shown
-  // for fidelity but never adoptable (the corpus doesn't host them yet).
-  const proposed = template.practices.map((p, i) => {
-    if (isTemplatePlaceholder(p)) {
-      return {
-        index: i,
-        placeholder: true as const,
-        name: localizeContent(p.name),
-        icon: p.icon ?? 'prayer',
-      }
+  const proposed = proposalsOf(template, inRule).map((p) => {
+    if (p.placeholder) {
+      const raw = template.practices[p.index] as PlanOfLifeTemplatePlaceholder
+      return { ...p, name: localizeContent(raw.name), icon: raw.icon ?? 'prayer' }
     }
-    // Templates name practices by bare id; the plan keeps the canonical one.
-    const ref = canonicalize(p.ref, 'practice') ?? p.ref
-    const already = inRule.has(ref)
-    // If an exact match isn't in the rule but a sibling in the same
-    // alternativeTo group is, this row is a variant swap, not a new add.
-    const replacesId = already ? undefined : findGroupMemberInSet(ref, inRule)
     return {
-      index: i,
-      placeholder: false as const,
-      ref,
-      tier: p.tier,
-      time: p.time,
-      schedule: p.schedule,
-      name: resolvePracticeName(ref),
-      icon: resolvePracticeIcon(ref),
-      already,
-      replacesId,
-      replacesLabel: replacesId ? variantDisplayName(replacesId) : undefined,
+      ...p,
+      name: resolvePracticeName(p.ref),
+      icon: resolvePracticeIcon(p.ref),
+      replacesLabel: p.replacesId ? variantDisplayName(p.replacesId) : undefined,
     }
   })
 
-  const actionable = proposed.filter((p) => !p.placeholder && !p.already)
+  const actionable = proposed.filter(
+    (p): p is Extract<(typeof proposed)[number], { placeholder: false }> =>
+      !p.placeholder && !p.already,
+  )
 
   const [checked, setChecked] = useState<Set<number>>(() => new Set(actionable.map((p) => p.index)))
 
@@ -100,27 +85,8 @@ export function AdoptSheet({
   }
 
   async function confirm() {
-    if (selectedCount === 0 || createPractice.isPending || updatePractice.isPending) return
-    for (const p of proposed) {
-      if (p.placeholder || p.already || !checked.has(p.index)) continue
-      if (p.replacesId) {
-        // As picking a form does: flip active_variant on the existing row.
-        // No archive, no new slot — the user's schedule and tier survive.
-        await updatePractice.mutateAsync({
-          id: p.replacesId,
-          data: { activeVariant: p.ref },
-        })
-      } else {
-        await createPractice.mutateAsync({
-          id: p.ref,
-          slot: {
-            tier: p.tier,
-            time: p.time,
-            schedule: JSON.stringify(p.schedule),
-          },
-        })
-      }
-    }
+    if (selectedCount === 0 || adopt.isPending) return
+    await adopt.mutateAsync({ template, only: checked })
     // TODO: pin template.collections — deferred; practice adoption is the priority.
     onClose()
     onAdopted?.()
@@ -216,7 +182,7 @@ export function AdoptSheet({
         <YStack paddingHorizontal="$lg">
           <Pressable
             onPress={confirm}
-            disabled={selectedCount === 0 || createPractice.isPending || updatePractice.isPending}
+            disabled={selectedCount === 0 || adopt.isPending}
             accessibilityRole="button"
             accessibilityLabel={ctaLabel}
           >
@@ -225,11 +191,7 @@ export function AdoptSheet({
               borderRadius="$md"
               padding="$md"
               alignItems="center"
-              opacity={
-                selectedCount === 0 || createPractice.isPending || updatePractice.isPending
-                  ? 0.5
-                  : 1
-              }
+              opacity={selectedCount === 0 || adopt.isPending ? 0.5 : 1}
             >
               <Typography variant="label" fontSize="$3" color="$background">
                 {ctaLabel}

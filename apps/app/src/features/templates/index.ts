@@ -1,6 +1,12 @@
 export { AdoptSheet } from './AdoptSheet'
+export { adoptTemplate, type Proposal, practicesInRule, proposalsOf } from './adopt'
 export { cadenceLabel } from './cadence'
-export { type TemplateListItem, useTemplateList, useTemplateManifest } from './hooks'
+export {
+  type TemplateListItem,
+  useAdoptTemplate,
+  useTemplateList,
+  useTemplateManifest,
+} from './hooks'
 export { ProposedPractices } from './ProposedPractices'
 export { resolvePracticeIcon, resolvePracticeName } from './resolvePractice'
 export { TemplateCard } from './TemplateCard'

@@ -46,7 +46,7 @@ function sortedSlots(slots: Iterable<SlotState>): SlotState[] {
   return [...slots].sort((a, b) => a.sort_order - b.sort_order)
 }
 
-function resyncReminders() {
+export function resyncReminders() {
   setTimeout(() => {
     rescheduleAllReminders().catch((error) => {
       console.error('[reminders] reschedule failed', error)
@@ -355,7 +355,7 @@ export function useBackfillMissedDays() {
 // daily prayers are always available offline. Best-effort: never blocks the
 // mutation, never raises if the practice id isn't a corpus item (custom user
 // practices have no manifest).
-function autoPinForPlan(practiceId: string): void {
+export function autoPinForPlan(practiceId: string): void {
   void (async () => {
     try {
       const { getEntry } = await import('@/content/contentIndex')

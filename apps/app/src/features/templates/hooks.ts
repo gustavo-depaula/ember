@@ -1,9 +1,12 @@
-import { useQuery } from '@tanstack/react-query'
+import { useMutation, useQuery } from '@tanstack/react-query'
 import { useMemo } from 'react'
 
 import { ensureManifestBody, getEntriesByKind, getEntry } from '@/content/contentIndex'
 import type { CatalogEntry, PlanOfLifeTemplateManifest } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
+import { autoPinForPlan, resyncReminders } from '@/features/plan-of-life/hooks'
+
+import { adoptTemplate } from './adopt'
 
 // Browse order, sized to the likely audience. Anything not listed sorts after,
 // alphabetically — so a newly-authored template still shows.
@@ -71,4 +74,21 @@ export function useTemplateManifest(bareId: string | undefined) {
   // by then, treat it as unknown rather than perpetually loading.
   const catalogReady = getEntriesByKind('plan-of-life-template').length > 0
   return { ...query, entryExists: !!entry, catalogReady }
+}
+
+/** Adopts a template into the rule, as `adoptTemplate`; reminders and offline pins follow. */
+export function useAdoptTemplate() {
+  return useMutation({
+    mutationFn: ({
+      template,
+      only,
+    }: {
+      template: PlanOfLifeTemplateManifest
+      only?: ReadonlySet<number>
+    }) => adoptTemplate(template, only),
+    onSuccess: ({ added }) => {
+      resyncReminders()
+      for (const id of added) autoPinForPlan(id)
+    },
+  })
 }
