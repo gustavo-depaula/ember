@@ -327,6 +327,10 @@ button:focus-visible { outline: 2px solid var(--goldDeep); outline-offset: 2px; 
 .coach .also { font-style: italic; font-size: 14.5px; line-height: 19px; margin-top: 8px; color: #8A7C6B; }
 .nav span.ring { box-shadow: 0 0 0 2px var(--gold); background: #fff; }
 .tedit { position: relative; flex: none; font: 400 16px var(--body); color: var(--goldDeep); font-variant-numeric: tabular-nums; border-bottom: 1px dotted var(--gold); padding: 1px 1px 0; line-height: 21px; cursor: pointer; }
+.wrow { display: flex; align-items: center; gap: 10px; min-height: 48px; font-size: 17.5px; line-height: 22px; box-shadow: inset 0 -.5px 0 var(--line); }
+.wrow .mn { flex: 1; min-width: 0; }
+.wrow .bellb { flex: none; width: 40px; height: 44px; display: grid; place-items: center; margin-right: -8px; }
+.tedit select { position: absolute; inset: 0; width: 100%; height: 100%; opacity: 0; border: 0; cursor: pointer; }
 .tedit input { position: absolute; inset: 0; width: 100%; height: 100%; opacity: 0; border: 0; padding: 0; cursor: pointer; }
 .bead-row.edit .bellb { height: 44px; }
 .mgroup { padding: 3px 0; box-shadow: inset 0 -.5px 0 var(--line); }
@@ -582,7 +586,7 @@ const guideTiers = [
 ]
 const guideEntries = guideTiers.flatMap((t) => t[4])
 const beginner = TEMPLATES.find((t) => t.id === 'beginner-minimum')
-const fresh = () => ({ office: 'lh', hours: new Set(['Laudes', 'Vésperas', 'Completas']), firstHour: 'Completas', rule: 'opus-dei', off: new Set(), mine: new Set(), muted: new Set(), mutedOne: new Set(), times: {}, allowed: undefined, card: undefined })
+const fresh = () => ({ office: 'lh', hours: new Set(['Laudes', 'Vésperas', 'Completas']), firstHour: 'Completas', rule: 'opus-dei', off: new Set(), mine: new Set(), muted: new Set(), mutedOne: new Set(), times: {}, days: {}, allowed: undefined, card: undefined })
 let path = 'start', step = 0, state = fresh()
 const altGroups = {
   ask: { label: 'First screen', keys: ['ask'], opts: { A: 'Painted tiles', B: 'Chapter bands', C: 'A plain list', D: 'Today’s cards', E: 'Stamps', F: 'A sentence', G: 'One painting', H: 'Holy cards', I: 'A book’s contents' } },
@@ -625,20 +629,28 @@ function string(items) {
   return `<div class="string"><svg class="thread" width="52" height="${items.length * rowH}" aria-hidden="true"><path d="${d}" stroke="#D8C9A6" stroke-width="1.3" fill="none"/>${beads}</svg>${items.map((it) => it.edit ? `<div class="bead-row edit"><span class="nm">${it.name}</span>${timeCell(it.name, it.time)}${it.bell !== undefined ? `<button class="bellb" data-act="${it.act}" data-val="${it.val}" aria-pressed="${it.bell}" aria-label="Lembrete">${bell(it.bell)}</button>` : ''}</div>` : `<button class="bead-row ${it.on ? '' : 'off'}" data-act="${it.act || 'noop'}" data-val="${it.val ?? ''}" aria-pressed="${it.on ? 'true' : 'false'}"><span class="nm">${it.name}${it.sub ? `<small>${it.sub}</small>` : ''}</span><span class="tm">${it.time || ''}</span>${it.bell !== undefined ? `<span class="bellb">${bell(it.bell)}</span>` : ''}</button>`).join('')}</div>`
 }
 const timeCell = (name, t) => `<label class="tedit"><span>${t}</span><input type="time" value="${t}" data-time="${name}" aria-label="Hora: ${name}"></label>`
+const weekdays = ['Dom', 'Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb']
+const weekRe = /Dom|Seg|Ter|Qua|Qui|Sex|Sáb/
+const dayName = { Dom: 'domingo', Seg: 'segunda', Ter: 'terça', Qua: 'quarta', Qui: 'quinta', Sex: 'sexta', 'Sáb': 'sábado' }
+// "Sáb" → "aos sábados"; "1º Sáb do mês" → "1º sábado do mês": the weekday is the part you can change.
+const dayCell = (name, w) => { const d = (w.match(weekRe) || ['Dom'])[0]; const monthly = /mês/.test(w)
+  return `<label class="tedit"><span>${monthly ? w.replace(d, dayName[d]) : d === 'Sáb' || d === 'Dom' ? `aos ${dayName[d]}s` : `às ${dayName[d]}s`}</span><select data-day="${name}" aria-label="Dia: ${name}">${weekdays.map((x) => `<option value="${x}" ${x === d ? 'selected' : ''}>${dayName[x]}</option>`).join('')}</select></label>` }
+// Weekly and monthly practices: one line each, the day and the time both editable.
+const weekRows = (items) => items.length ? `<div class="label" style="margin-top:26px;color:var(--muted)">Na semana e no mês</div>${items.map((p) => { const on = !state.mutedOne.has(p.n); return `<div class="wrow"><span class="mn">${p.n}</span>${/Missa/.test(p.n) && p.w === 'Dom' ? '<span style="color:var(--muted);font-size:16px">aos domingos</span>' : dayCell(p.n, p.w)}${timeCell(p.n, p.t)}<button class="bellb" data-act="muteOne" data-val="${p.n}" aria-pressed="${on}" aria-label="Lembrete: ${p.n}">${bell(on)}</button></div>` }).join('')}` : ''
 const editRows = (items, bells) => string(items.map((p) => ({ name: p.n, time: p.t, on: true, edit: true, act: bells ? 'muteOne' : undefined, val: p.n, bell: bells ? !state.mutedOne.has(p.n) : undefined })))
 const legend = `<div class="legend">${[['madrugada', '06:00'], ['manhã', '09:00'], ['meio-dia', '12:00'], ['tarde', '15:00'], ['entardecer', '19:00'], ['noite', '22:00']].map(([n, t]) => `<span><i style="background:${hue(t)}"></i>${n}</span>`).join('')}</div>`
 
 const rule = () => TEMPLATES.find((t) => t.id === state.rule)
 // A time changed on the reminders page moves the prayer everywhere: the string, the moments, Today.
 function plan() {
-  return basePlan().map((p) => ({ ...p, t: state.times[p.n] || p.t })).sort((a, b) => (a.t || '').localeCompare(b.t || ''))
+  return basePlan().map((p) => ({ ...p, t: state.times[p.n] || p.t, w: state.days[p.n] && p.w ? p.w.replace(weekRe, state.days[p.n]) : p.w })).sort((a, b) => (a.t || '').localeCompare(b.t || ''))
 }
 function basePlan() {
   if (path === 'office-regular') return (state.office === 'lh' ? lhHours : oldHours).filter(([n]) => state.hours.has(n)).map(([n, t]) => ({ n, t }))
   if (path === 'office-new') return [{ n: state.firstHour, t: { Laudes: '07:00', 'Vésperas': '18:00', Completas: '22:00' }[state.firstHour] }]
-  if (path === 'rule') return rule().p.filter((p, i) => p.t && !p.w && !state.off.has(i)).map((p) => ({ n: p.n, t: p.t }))
+  if (path === 'rule') return rule().p.filter((p, i) => p.t && !state.off.has(i)).map((p) => ({ n: p.n, t: p.t, w: p.w }))
   if (path === 'grow') return guideEntries.filter((e) => state.mine.has(e[0]) && e[4]).map((e) => ({ n: e[1], t: e[4], w: e[5] })).sort((a, b) => a.t.localeCompare(b.t))
-  if (path === 'start') return beginner.p.filter((p) => p.e && p.t && !p.w).map((p) => ({ n: p.n, t: p.t }))
+  if (path === 'start') return beginner.p.filter((p) => p.e && p.t).map((p) => ({ n: p.n, t: p.t, w: p.w }))
   return []
 }
 function moments() {
@@ -769,15 +781,15 @@ const screens = {
   start: () => ({ onart: true, body: `${tpl(art(beginner.a), '', beginner.n, '30% 24%')}<div class="pad"><p class="just">${beginner.m}</p><div class="label" style="margin-top:22px">O essencial</div>${string(beginner.p.filter((p) => p.e && p.t).map((p) => ({ name: p.n, sub: p.w === 'Dom' ? 'Aos domingos' : p.w, time: p.t, on: true })))}</div>`, foot: `<button class="btn" data-next>Adotar este plano</button>` }),
   remind: () => {
     if (alt.remind === 'B') { const items = plan().filter((p) => !p.w)
-      return { body: `${navrow()}${head('', 'Quando lembrar você?', 'Um sino para cada oração. Dá para mudar depois, no seu Plano de Vida.')}<div class="pad">${editRows(items, true)}</div>`,
+      return { body: `${navrow()}${head('', 'Quando lembrar você?', 'Um sino para cada oração. Dá para mudar depois, no seu Plano de Vida.')}<div class="pad">${editRows(items, true)}${weekRows(plan().filter((p) => p.w))}</div>`,
         foot: `<button class="btn" data-act="ask-notify">Lembrar-me nestes horários</button><button class="link" data-act="no-notify">Sem lembretes por agora</button>` } }
     if (alt.remind === 'C') { const items = plan().filter((p) => !p.w)
-      return { body: `${navrow()}${head('', 'Quer que o Ember lembre você?', `Na hora de cada oração do seu plano${items.length > 4 ? `: ${items.length} lembretes por dia` : ''}. Dá para mudar depois, no seu Plano de Vida.`)}<div class="pad">${editRows(items, false)}</div>`,
+      return { body: `${navrow()}${head('', 'Quer que o Ember lembre você?', `Na hora de cada oração do seu plano${items.length > 4 ? `: ${items.length} lembretes por dia` : ''}. Dá para mudar depois, no seu Plano de Vida.`)}<div class="pad">${editRows(items, false)}${weekRows(plan().filter((p) => p.w))}</div>`,
         foot: `<button class="btn" data-act="ask-notify">Sim, lembrar-me</button><button class="link" data-act="no-notify">Agora não</button>` } }
     return screens._remindA()
   },
   _remindA: () => { const m = moments()
-    return { body: `${navrow()}${head('', 'Quando lembrar você?', 'Um lembrete por momento do dia. Dá para mudar depois, no seu Plano de Vida.')}<div class="pad">${m.length ? '' : '<p class="lede">Nada do que você marcou tem hora fixa.</p>'}${m.map((x) => { const on = !state.muted.has(x.label); return `<div class="mgroup ${on ? '' : 'off'}">${x.items.map((i, k) => `<div class="mi"><span class="ml">${k ? '' : x.label}</span><span class="mn">${i.n}</span>${timeCell(i.n, i.t)}${k ? '<span class="bellb"></span>' : `<button class="bellb" data-act="mute" data-val="${x.label}" aria-pressed="${on}" aria-label="Lembrete: ${x.label}">${bell(on)}</button>`}</div>`).join('')}</div>` }).join('')}</div>`,
+    return { body: `${navrow()}${head('', 'Quando lembrar você?', 'Um lembrete por momento do dia. Dá para mudar depois, no seu Plano de Vida.')}<div class="pad">${m.length ? '' : '<p class="lede">Nada do que você marcou tem hora fixa.</p>'}${m.map((x) => { const on = !state.muted.has(x.label); return `<div class="mgroup ${on ? '' : 'off'}">${x.items.map((i, k) => `<div class="mi"><span class="ml">${k ? '' : x.label}</span><span class="mn">${i.n}</span>${timeCell(i.n, i.t)}${k ? '<span class="bellb"></span>' : `<button class="bellb" data-act="mute" data-val="${x.label}" aria-pressed="${on}" aria-label="Lembrete: ${x.label}">${bell(on)}</button>`}</div>`).join('')}</div>` }).join('')}${weekRows(plan().filter((p) => p.w))}</div>`,
       foot: `<button class="btn" data-act="ask-notify">Lembrar-me nestes horários</button><button class="link" data-act="no-notify">Sem lembretes por agora</button>` } },
   f1: () => featureScreen(0), f2: () => featureScreen(1), f3: () => featureScreen(2),
   fall: () => ({ body: `${navrow()}${head('O Ember para você', 'Tudo num só lugar')}${paths[path].features.map((k) => { const f = features[k]; return `<div class="jewel" style="background-image:url(${cov(f.bg)});background-position:${f.pos}"><small>${f.kick}</small><b>${f.title}</b><span>${f.text}</span></div>` }).join('')}`, foot: textbar('', '<button data-next>Continuar ›</button>'), footCls: 'bar' }),
@@ -849,6 +861,10 @@ const keep = () => { const v = document.querySelector('.view'); const y = v ? v.
 document.addEventListener('change', (e) => {
   const i = e.target.closest('input[data-time]'); if (!i || !i.value) return
   state.times[i.dataset.time] = i.value; keep()
+})
+document.addEventListener('change', (e) => {
+  const d = e.target.closest('select[data-day]'); if (!d) return
+  state.days[d.dataset.day] = d.value; keep()
 })
 document.addEventListener('click', (e) => {
   const ti = e.target.closest('input[data-time]'); if (ti) { try { ti.showPicker() } catch {} return }
