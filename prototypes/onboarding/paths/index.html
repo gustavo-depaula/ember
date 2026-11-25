@@ -324,6 +324,15 @@ button:focus-visible { outline: 2px solid var(--goldDeep); outline-offset: 2px; 
 .coach .t { font: italic 400 27px/32px var(--title); margin-top: 2px; }
 .coach p { color: var(--muted); font-size: 16.5px; line-height: 22px; margin-top: 4px; }
 .coach .dots { margin: 14px 0 10px; }
+.nav.live { pointer-events: auto; }
+.nav.live button { width: 70px; display: grid; place-items: center; border-radius: 24px; }
+.nav.live button.on { background: #E9E5DE; }
+.nav.live div:last-child button { width: 48px; }
+.hint { position: absolute; z-index: 30; left: 14px; right: 14px; bottom: 96px; background: #fff; border-radius: 16px; padding: 13px 18px 6px; box-shadow: 0 8px 26px rgba(60,45,20,.22); }
+.hint .t { font: italic 400 21px/26px var(--title); }
+.hint p { color: var(--muted); font-size: 15.5px; line-height: 20px; margin-top: 2px; }
+.hint button { display: block; margin-left: auto; min-height: 40px; font: 400 12px var(--head); letter-spacing: 1.6px; color: var(--goldDeep); text-transform: uppercase; }
+.ringed { box-shadow: 0 0 0 2px var(--gold) !important; border-radius: 16px; }
 .coach .also { font-style: italic; font-size: 14.5px; line-height: 19px; margin-top: 8px; color: #8A7C6B; }
 .nav span.ring { box-shadow: 0 0 0 2px var(--gold); background: #fff; }
 .tedit { position: relative; flex: none; font: 400 16px var(--body); color: var(--goldDeep); font-variant-numeric: tabular-nums; border-bottom: 1px dotted var(--gold); padding: 1px 1px 0; line-height: 21px; cursor: pointer; }
@@ -547,7 +556,7 @@ const why = {
 const whyAlt = {
   order: { A: 'A ladder from the smallest step up: begin, grow, a rule, the Office. A beginner meets themselves first and sees where the road goes; people who know what they want (a tertiary, someone with a breviary) scan four lines and find theirs. A rule sits above the Office because the Benedictine, Carmelite, Dominican and Franciscan rules already hold the Hours, so a tertiary taps the rule first and gets both.', B: 'The order so far: the most specific reasons first, the catch-all last. It reads as an app for seasoned pray-ers, which honours some and closes the door on a beginner, who meets the Office first.', C: 'The middle first: someone who already prays a little, then beginners, then a rule and the Office. It bets that most people who install a Catholic prayer app already pray something; there is no data on that yet.' },
   ask: { D: 'Each reason as one of Today’s jewel cards with its stamp, swiped sideways under the ✠ pager. The first screen already looks like Today, but only one reason shows at a time.', E: 'Four of Today’s stamp tiles, with icons and perforated edges, the name in Cinzel beneath. Compact and playful; the shortest screen of all.', F: 'No pictures: the question becomes a sentence to finish, set large in italic between hairlines, like a missal’s headings. Reads fast and feels most like prayer.', G: 'One painting carries the whole page (Millet’s Angelus), with the reasons as a list on the white beneath, as on a tradition’s page. Calm, and one strong image instead of four.', H: 'Each reason is a saint’s holy card from the starter pool: Benedict for the Office, Ignatius for a rule, Teresa for growing, Thérèse for beginning. It teaches the cards before the first one is given.', I: 'An old book’s table of contents: roman numerals, dotted leaders, a red versal. The most bookish; it treats Ember as a Book of Hours.', B: 'Each reason is a chapter title from “Acrescentar à regra”: a faint painting dissolving into the page, the name in italic. The most “Ember” of the three, and the calmest.', C: 'A plain list with a small painting, as search and the library list things. The quickest to read, the least ceremonial.' },
-  features: { B: 'No separate pages: the real app, already shaped by their setup, one stop on each tab in the order of the bar (Today, You, Search). Each stop lights the one thing this path needs there, and a quiet line names the rest of the tab. Three stops show the whole app; nothing is explained twice.', C: 'One page instead of three: each feature as one of Today’s jewel cards. Shortest; nothing to swipe.' },
+  features: { D: 'No feature pages in setup. Setup ends on Today, and each tab explains itself once, the first time it is opened: one line on the thing this path needs there, no dimming, gone with a tap. Try the bar at the bottom of Today. Nothing is shown before the person has a reason to look at it.', B: 'No separate pages: the real app, already shaped by their setup, one stop on each tab in the order of the bar (Today, You, Search). Each stop lights the one thing this path needs there, and a quiet line names the rest of the tab. Three stops show the whole app; nothing is explained twice.', C: 'One page instead of three: each feature as one of Today’s jewel cards. Shortest; nothing to swipe.' },
   remind: { B: 'The plan’s thread with a bell beside each prayer. Finer control, but the Opus Dei plan would show thirteen bells.', C: 'One question: remind me at each prayer’s time, yes or no. The thread is only a preview. Simplest, but a big plan means many notifications.' },
   amen: { B: 'Skips the envelope page: Amém answers back on the saint picker itself. One screen shorter.' },
 }
@@ -586,20 +595,21 @@ const guideTiers = [
 ]
 const guideEntries = guideTiers.flatMap((t) => t[4])
 const beginner = TEMPLATES.find((t) => t.id === 'beginner-minimum')
-const fresh = () => ({ office: 'lh', hours: new Set(['Laudes', 'Vésperas', 'Completas']), firstHour: 'Completas', rule: 'opus-dei', off: new Set(), mine: new Set(), muted: new Set(), mutedOne: new Set(), times: {}, days: {}, allowed: undefined, card: undefined })
+const fresh = () => ({ office: 'lh', hours: new Set(['Laudes', 'Vésperas', 'Completas']), firstHour: 'Completas', rule: 'opus-dei', off: new Set(), mine: new Set(), muted: new Set(), mutedOne: new Set(), times: {}, days: {}, tab: 'today', seen: new Set(), allowed: undefined, card: undefined })
 let path = 'start', step = 0, state = fresh()
 const altGroups = {
   ask: { label: 'First screen', keys: ['ask'], opts: { A: 'Painted tiles', B: 'Chapter bands', C: 'A plain list', D: 'Today’s cards', E: 'Stamps', F: 'A sentence', G: 'One painting', H: 'Holy cards', I: 'A book’s contents' } },
-  features: { label: 'Feature pages', keys: ['f1', 'f2', 'f3', 'fall'], opts: { A: 'Three painted pages', B: 'Today, lit up', C: 'One page of cards' } },
+  features: { label: 'Feature pages', keys: ['f1', 'f2', 'f3', 'fall'], opts: { D: 'None: hints in place', A: 'Three painted pages', B: 'Today, lit up', C: 'One page of cards' } },
   remind: { label: 'Reminders', keys: ['remind'], opts: { A: 'By part of the day', B: 'On the string', C: 'One question' } },
   order: { label: 'Order (plain list)', keys: [], opts: { A: 'Smallest step first', B: 'Most specific first', C: 'Growing first' } },
   amen: { label: 'After Amen', keys: ['amen', 'choose'], opts: { A: 'Envelope, then saints', B: 'Straight to the saints' } },
 }
-const alt = { ask: 'C', order: 'A', features: 'B', remind: 'A', amen: 'A' }
+const alt = { ask: 'C', order: 'A', features: 'D', remind: 'A', amen: 'A' }
 const orders = { A: ['start', 'grow', 'rule', 'office'], B: ['office', 'rule', 'grow', 'start'], C: ['grow', 'start', 'rule', 'office'] }
 const groupOf = (k) => Object.keys(altGroups).find((g) => altGroups[g].keys.includes(k))
 function stepsOf(p) {
   let s = paths[p].steps
+  if (alt.features === 'D') s = s.filter((k) => !['f1', 'f2', 'f3'].includes(k))
   if (alt.features === 'C') s = s.flatMap((k) => (k === 'f1' ? ['fall'] : k === 'f2' || k === 'f3' ? [] : [k]))
   if (alt.amen === 'B') s = s.filter((k) => k !== 'amen')
   return s
@@ -689,12 +699,12 @@ const features = {
 function tourStops() {
   const items = plan().filter((x) => !x.w); const first = items.find((x) => x.t > '20:10') || items[0]
   const office = path.startsWith('office')
-  const today = { tab: 'today', sel: '#nextHero', name: 'Today: the next prayer', kick: 'Hoje', t: 'A próxima oração, primeiro',
-    p: first ? `${first.n}, às ${first.t}, abre a página, com o lembrete marcado.` : 'O que vem a seguir no seu plano abre a página.',
+  const today = { tab: 'today', sel: first ? '#nextHero' : '.car', name: 'Today: the next prayer', kick: 'Hoje', t: first ? 'A próxima oração, primeiro' : 'O dia de hoje',
+    p: first ? `${first.n}, às ${first.t}, abre a página, com o lembrete marcado.` : 'A liturgia, os santos e as orações de hoje, já abertos.',
     also: 'Também no Hoje: o Evangelho do dia, as meditações e os santinhos.' }
   const you = { tab: 'you', sel: '#youPlan', name: 'You: the plan', kick: 'Você',
     t: office ? 'As suas horas, num fio' : path === 'start' ? 'O próximo degrau fica aqui' : 'O seu plano, num fio',
-    p: { 'office-regular': 'Mude a hora de uma oração, ou acrescente outra hora quando quiser.', 'office-new': 'Quando esta hora firmar, acrescente a próxima por aqui.', rule: `O plano ${rule().n}, prática por prática. Mude uma hora ou acrescente o que faltar.`, grow: 'O que você já reza, num só lugar. Quando um degrau firmar, acrescente o próximo.', start: 'Quando o mínimo virar hábito, acrescente uma prática aqui. Uma de cada vez.' }[path],
+    p: { 'office-regular': 'Mude a hora de uma oração, ou acrescente outra hora quando quiser.', 'office-new': 'Quando esta hora firmar, acrescente a próxima por aqui.', rule: `O plano ${rule().n}, prática por prática. Mude uma hora ou acrescente o que faltar.`, grow: 'O que você já reza, num só lugar. Quando um degrau firmar, acrescente o próximo.', start: 'Quando o mínimo virar hábito, acrescente uma prática aqui. Uma de cada vez.' }[path] || 'Monte o seu plano de vida aqui, quando quiser: algumas práticas, rezadas todo dia.',
     also: 'Também em Você: a crônica de cada dia rezado e as suas coleções.' }
   const search = {
     'office-regular': { sel: '#sChant', name: 'Search: chant', t: 'O Ofício, também cantado', p: 'O Kyriale, hinos e antífonas em notação quadrada.', also: 'Também em Buscar: a Bíblia, 1.805 livros e Missas perto de você.' },
@@ -702,7 +712,7 @@ function tourStops() {
     rule: { sel: '#sColl', name: 'Search: collections', t: 'A Obra, reunida', p: 'As Normas de Piedade e o Devocionário, entre 47 coleções de devoções, escolas e autores.', also: 'Também em Buscar: Missas perto de você, a Bíblia e 1.805 livros.' },
     grow: { sel: '#sBooks', name: 'Search: the books', t: 'Dois mil anos para ler', p: '1.805 livros dos Padres, dos doutores e dos santos, com a sua página guardada.', also: 'Também em Buscar: Missas perto de você, a Bíblia e 462 orações.' },
     start: { sel: '#sChurches', name: 'Search: Mass nearby', t: 'Uma Missa perto de você', p: 'Horários de Missa e de confissão das igrejas ao seu redor.', also: 'Também em Buscar: a Bíblia, o Rosário e 462 orações.' },
-  }[path] || {}
+  }[path] || { sel: '#sChurches', name: 'Search: Mass nearby', t: 'Uma Missa perto de você', p: 'Horários de Missa e de confissão das igrejas ao seu redor.', also: '' }
   return [today, you, { tab: 'search', kick: 'Buscar', ...search }]
 }
 const navBar = (tab, ring) => `<div class="nav"><div>${['today', 'you'].map((k) => `<span class="${k === tab ? 'on' : ''} ${k === ring ? 'ring' : ''}"><img src="a/nav-${k}.webp" alt=""></span>`).join('')}</div><div><span class="${tab === 'search' ? 'on' : ''} ${ring === 'search' ? 'ring' : ''}"><img src="a/nav-search.webp" alt=""></span></div></div>`
@@ -804,7 +814,13 @@ const screens = {
     <div class="picks">${STARTERS.map((c) => `<button class="pick" data-act="card" data-val="${c.id}"><img src="${art(c.id)}" alt="" loading="lazy"><span>${c.n}</span></button>`).join('')}</div>` }),
   card: () => { const c = STARTERS.find((x) => x.id === state.card) || STARTERS.find((x) => x.id === 'therese')
     return { body: `<div class="cardtop"><img class="bigcard" style="width:48%" src="${art(c.id)}" alt="${c.n}"><div class="nm">${c.n}</div><div class="dt">UM PRIMEIRO SANTINHO</div><div class="po">${c.po}</div></div><p class="quote"><span style="display:block;color:var(--gold);font-style:normal;font-size:13px;margin-bottom:6px">✠</span>${c.q}</p><div class="pad" style="margin-top:20px">${cardsToday('Santinhos de amanhã', 'terça, 24 de novembro')}</div>`, foot: textbar('', '<button data-next>Ir para Hoje ›</button>'), footCls: 'bar' } },
-  today: () => ({ cls: 'today', body: todayBody(), after: `<div class="nav"><div><span class="on"><img src="a/nav-today.webp" alt=""></span><span><img src="a/nav-you.webp" alt=""></span></div><div><span><img src="a/nav-search.webp" alt=""></span></div></div>` }),
+  today: () => {
+    const tab = state.tab; const k = tourStops()[['today', 'you', 'search'].indexOf(tab)]
+    const body = tab === 'today' ? todayBody() : tab === 'you' ? youBody() : searchBody()
+    const hint = alt.features === 'D' && !state.seen.has(tab) ? `<div class="hint"><div class="t">${k.t}</div><p>${k.p}${tab === 'today' ? ' O seu plano fica em Você; Missas, livros e orações, em Buscar.' : ''}</p><button data-act="seen" data-val="${tab}">Entendi</button></div>` : ''
+    const nav = `<div class="nav live"><div>${['today', 'you'].map((t) => `<button class="${t === tab ? 'on' : ''}" data-act="tab" data-val="${t}" aria-label="${t}"><img src="a/nav-${t}.webp" alt=""></button>`).join('')}</div><div><button class="${tab === 'search' ? 'on' : ''}" data-act="tab" data-val="search" aria-label="search"><img src="a/nav-search.webp" alt=""></button></div></div>`
+    return { cls: tab === 'today' ? 'today' : 'tabp', body, after: `${nav}${hint}`, ring: hint ? k.sel : undefined }
+  },
 }
 const stamp = (name, mins, from, to, icon = '') => `<div class="stamp" style="--from:${from};--to:${to}">${icon}<b>${name}</b><small>${mins}</small></div>`
 function todayBody() {
@@ -842,6 +858,7 @@ function render() {
       Object.assign(sp.style, { left: `${r.left - pr.left - 6}px`, top: `${r.top - pr.top - 6}px`, width: `${r.width + 12}px`, height: `${h}px` })
     }
   }
+  if (s.ring) { const v = document.querySelector('#screen .view'); const t = v.querySelector(s.ring); if (t) { t.classList.add('ringed'); if (s.ring !== '#nextHero') { v.style.animation = 'none'; v.scrollTop = Math.max(0, t.offsetTop - 90) } } }
   const view = document.querySelector('#screen .view')
   // The status bar sits on the painting at first, then on white once the page has scrolled under it.
   view.addEventListener('scroll', () => phone.classList.toggle('scrolled', view.scrollTop > (s.onart ? 230 : 40)))
@@ -889,6 +906,8 @@ document.addEventListener('click', (e) => {
   if (act === 'rule') { state.rule = val; state.off = new Set(); return next() }
   if (act === 'ruleItem') { toggle(state.off, Number(val)); return keep() }
   if (act === 'mine') { toggle(state.mine, val); return keep() }
+  if (act === 'tab') { if (state.tab !== val) state.seen.add(state.tab); state.tab = val; return render() }
+  if (act === 'seen') { state.seen.add(val); return keep() }
   if (act === 'muteOne') { toggle(state.mutedOne, val); return keep() }
   if (act === 'mute') { toggle(state.muted, val); return keep() }
   if (act === 'no-notify') { state.allowed = false; return next() }
