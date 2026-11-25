@@ -229,6 +229,9 @@ export type PracticeManifest = {
   completion?: 'flow-end' | 'manual'
   program?: ProgramConfig
   theme?: 'office'
+  // Read with the day's Mass (the daily liturgy): its end also offers "I went
+  // to Mass", which marks the Mass instead of this practice.
+  followsMass?: boolean
   // Praying this counts as attending Mass or praying the Divine Office (holy
   // cards). Set on a form group's primary; the build gives it to every form.
   liturgicalAct?: LiturgicalAct

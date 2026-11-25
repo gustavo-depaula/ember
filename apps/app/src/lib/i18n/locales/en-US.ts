@@ -2093,6 +2093,8 @@ export default {
     contentLoadFailed: 'Couldn’t load today’s prayer. Please try again.',
     shareFailed: 'Couldn’t open the share sheet.',
     completionSyncFailed: 'Couldn’t update your progress',
+    wentToMass: 'I went to Mass',
+    wentToMassCheckIn: 'Check in at Mass',
     completionSyncFailedDesc:
       'Your prayer was recorded, but we couldn’t advance to the next day. Please try again later.',
     variants: 'Variants',
@@ -2720,6 +2722,7 @@ export default {
     otherChurch: 'Another church…',
     amenAndCheckInLabel: 'Amen and check in',
     amenAndCheckIn: 'Amen and check in at {{name}}',
+    wentToMassCheckIn: 'Check in at Mass at {{name}}',
     checkInShort: 'Check in',
     checkedInToday: 'Done today',
     checkedInAt: 'Checked in today at {{time}}',

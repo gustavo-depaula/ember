@@ -2094,6 +2094,8 @@ export default {
     contentLoadFailed: 'Não foi possível carregar a oração de hoje. Tente novamente.',
     shareFailed: 'Não foi possível abrir o compartilhamento.',
     completionSyncFailed: 'Não foi possível atualizar seu progresso',
+    wentToMass: 'Fui à Missa',
+    wentToMassCheckIn: 'Check-in na Missa',
     completionSyncFailedDesc:
       'Sua oração foi registrada, mas não conseguimos avançar para o próximo dia. Tente novamente mais tarde.',
     variants: 'Variantes',
@@ -2724,6 +2726,7 @@ export default {
     otherChurch: 'Outra igreja…',
     amenAndCheckInLabel: 'Amém e check-in',
     amenAndCheckIn: 'Amém e check-in em {{name}}',
+    wentToMassCheckIn: 'Check-in na Missa em {{name}}',
     checkInShort: 'Check-in',
     checkedInToday: 'Feito hoje',
     checkedInAt: 'Check-in feito hoje às {{time}}',
