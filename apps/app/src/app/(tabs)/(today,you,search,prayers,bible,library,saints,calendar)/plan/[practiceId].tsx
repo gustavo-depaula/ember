@@ -66,7 +66,7 @@ const tiers: Tier[] = ['essential', 'ideal', 'extra']
 
 type Sheet =
   | { kind: 'when'; mode: 'edit' | 'days'; slots: SlotState[] }
-  | { kind: 'new'; schedule: Schedule; time: string; pins?: Record<string, string> }
+  | { kind: 'new'; schedule: Schedule; time?: string; pins?: Record<string, string> }
   | { kind: 'tier' | 'reminder' | 'length' | 'hours' | 'form' }
 
 /**
@@ -231,7 +231,7 @@ export default function PlanPracticeScreen() {
   const openNew = () => {
     if (hours) return show({ kind: 'hours' })
     const last = sentences.at(-1)?.clauses.at(-1)
-    show({ kind: 'new', schedule: last?.schedule ?? { type: 'daily' }, time: '08:00' })
+    show({ kind: 'new', schedule: last?.schedule ?? { type: 'daily' } })
   }
 
   const prayed = record?.count ?? 0
@@ -446,7 +446,7 @@ export default function PlanPracticeScreen() {
           onClose={close}
           title={capitalize(words.days(parseSchedule(sheet.slots[0].schedule)))}
           schedule={parseSchedule(sheet.slots[0].schedule)}
-          time={sheet.slots[0].time ?? '08:00'}
+          time={sheet.slots[0].time ?? undefined}
           fields={sheet.mode === 'days' ? 'days' : isProgram ? 'time' : 'both'}
           taken={takenFor(sheet.slots)}
           confirmLabel={t('rule.save')}
@@ -572,7 +572,7 @@ export default function PlanPracticeScreen() {
               ? { type: 'daily' }
               : { type: 'days-of-week', days: free.length ? free : [0] }
             const suggested = taken?.size ? undefined : hours.options.find((o) => o.id === id)?.time
-            show({ kind: 'new', schedule, time: suggested ?? '08:00', pins })
+            show({ kind: 'new', schedule, time: suggested, pins })
           }}
         />
       ) : null}

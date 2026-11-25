@@ -9,7 +9,7 @@ import { Typography } from '@/components'
 import { pullDown } from '@/components/sheetController'
 import { dayKeys } from '@/config/constants'
 import { lightTap } from '@/lib/haptics'
-
+import { nextHalfHour } from '../defaultSlot'
 import { phrasing } from '../phrasing'
 import type { Schedule } from '../schedule'
 
@@ -164,8 +164,16 @@ export type TakenBy = { id: string; time?: string }
 type Kind = 'week' | 'month' | 'holy' | 'ember'
 type Draft = { kind: Kind; days: number[]; n: number[]; day: number; time: string }
 
-function draftOf(schedule: Schedule, time: string): Draft {
-  const base = { kind: 'week' as Kind, days: [] as number[], n: [1], day: 6, time }
+// A time with no hour yet opens on the next half hour: someone adding a prayer
+// has usually just met it, and a fixed hour gets confirmed unread.
+function draftOf(schedule: Schedule, time: string | undefined): Draft {
+  const base = {
+    kind: 'week' as Kind,
+    days: [] as number[],
+    n: [1],
+    day: 6,
+    time: time ?? nextHalfHour(),
+  }
   switch (schedule.type) {
     case 'daily':
       return { ...base, days: [0, 1, 2, 3, 4, 5, 6] }
@@ -220,7 +228,8 @@ export function WhenSheet({
   onClose: () => void
   title: string
   schedule: Schedule
-  time: string
+  /** Absent for a time with no hour yet. */
+  time?: string
   fields?: 'both' | 'days' | 'time'
   taken?: Map<number, TakenBy>
   confirmLabel: string

@@ -160,6 +160,8 @@ vi.mock('react-native-reanimated', async () => {
     runOnJS,
     runOnUI,
     cancelAnimation: () => {},
+    // Tests run with motion on, so a pulse or fade renders as it does by default.
+    useReducedMotion: () => false,
     Extrapolation: { CLAMP: 'clamp', EXTEND: 'extend', IDENTITY: 'identity' },
     ReduceMotion: { System: 'system', Always: 'always', Never: 'never' },
     FadeIn: layoutAnimationBuilder,

@@ -50,6 +50,7 @@
 				"schedule": {
 					"type": "daily"
 				},
+				"time": "20:00",
 				"tier": "essential"
 			}
 		]

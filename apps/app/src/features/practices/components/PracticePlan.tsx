@@ -179,7 +179,6 @@ export function PracticePlanEditor({ plan }: { plan: ReturnType<typeof usePracti
       onClose={plan.closeAsking}
       title={t('rule.addToRule')}
       schedule={asking?.schedule ?? { type: 'daily' }}
-      time="08:00"
       fields={asking?.fields}
       confirmLabel={t('rule.add')}
       onConfirm={(when) => {

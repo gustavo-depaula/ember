@@ -38,6 +38,7 @@
 				"schedule": {
 					"type": "daily"
 				},
+				"time": "07:15",
 				"tier": "essential"
 			}
 		]

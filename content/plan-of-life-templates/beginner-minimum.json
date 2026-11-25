@@ -8,8 +8,8 @@
     "pt-BR": "Simples, fiel — comece aqui."
   },
   "manifesto": {
-    "en-US": "This is not a school of holiness; it is a starting line for consistency. A morning offering, the Angelus at noon and at six, a sixty-second examination at night, Sunday Mass, monthly confession — that is all. The Rosary and the Gospel of the day are there for the days you can reach further. The point is not asceticism but proof: that a plan of life can be kept at all.\n\nBetter to live this faithfully for a year than to fail at a heroic rule in a month. When it has become second nature, the door to every other tradition stands open.",
-    "pt-BR": "Esta não é uma escola de santidade; é uma linha de partida para a constância. Um oferecimento ao amanhecer, o Angelus ao meio-dia e às seis da tarde, um exame de sessenta segundos à noite, a Missa dominical, a confissão mensal — e nada mais. O Rosário e o Evangelho do dia ficam para os dias em que se pode ir além. O objetivo não é a ascese, mas a prova: a de que um plano de vida pode, sim, ser cumprido.\n\nMelhor viver isto com fidelidade por um ano do que fracassar numa regra heroica em um mês. Quando se tornar segunda natureza, a porta de toda outra tradição estará aberta."
+    "en-US": "This is not a school of spirituality; it is a starting point for praying every day. A morning offering, the Angelus at noon and at six, a short examination before sleep, Sunday Mass and confession once a month — that is all. The Rosary and the day's liturgy are there as ideals, for the days you can reach further. The point is not to do much, but to find that a plan of life does fit in your life.\n\nBetter to live this faithfully for a year than to give up on a heroic rule in a month. When it has become habit, every other tradition stands open to you.",
+    "pt-BR": "Não é uma escola de espiritualidade: é um ponto de partida para rezar todos os dias. Um oferecimento ao acordar, o Angelus ao meio-dia e às seis da tarde, um breve exame antes de dormir, a Missa aos domingos e a confissão uma vez por mês. É só isso. O Rosário e a liturgia do dia ficam como ideais, para os dias em que der para ir além. A meta não é fazer muito, é descobrir que um plano de vida cabe, sim, na sua vida.\n\nMelhor viver isto com fidelidade por um ano do que desistir de uma regra heroica em um mês. Quando virar hábito, todas as outras tradições estarão abertas para você."
   },
   "icon": "sunrise",
   "tags": ["beginner", "essential"],
@@ -86,7 +86,7 @@
     },
     {
       "ref": "confession",
-      "tier": "ideal",
+      "tier": "essential",
       "schedule": { "type": "nth-weekday", "n": [1], "day": 6 },
       "time": "10:00",
       "note": {

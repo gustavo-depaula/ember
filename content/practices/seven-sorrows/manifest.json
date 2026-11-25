@@ -54,6 +54,7 @@
 				"schedule": {
 					"type": "daily"
 				},
+				"time": "18:30",
 				"tier": "extra",
 				"enabled": false
 			}

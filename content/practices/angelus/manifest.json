@@ -43,6 +43,7 @@
 				"schedule": {
 					"type": "daily"
 				},
+				"time": "12:00",
 				"tier": "ideal"
 			}
 		]
