@@ -18,13 +18,19 @@
   },
   "composed": 1654,
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "john-eudes/contrat-avec-dieu-par-le-bapteme",
   "editions": {
     "fr-FR": {
       "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
       "year": 1905
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,19 +47,22 @@
     {
       "id": "contrat-01",
       "title": {
-        "fr-FR": "Le Contrat (1): Contrat de l'homme avec dieu"
+        "fr-FR": "Le Contrat (1): Contrat de l'homme avec dieu",
+        "pt-BR": "O Contrato (1): Contrato do homem com Deus"
       }
     },
     {
       "id": "contrat-02",
       "title": {
-        "fr-FR": "Le Contrat (2)"
+        "fr-FR": "Le Contrat (2)",
+        "pt-BR": "O Contrato (2)"
       }
     },
     {
       "id": "contrat-03",
       "title": {
-        "fr-FR": "Le Contrat (3): En chrétien; et des moyens dont il faut se servir pour cette fin"
+        "fr-FR": "Le Contrat (3): En chrétien; et des moyens dont il faut se servir pour cette fin",
+        "pt-BR": "O Contrato (3): Como cristão; e dos meios de que é preciso servir-se para esse fim"
       }
     }
   ]
