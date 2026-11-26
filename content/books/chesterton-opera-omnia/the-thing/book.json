@@ -15,13 +15,19 @@
   },
   "composed": "1929",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/the-thing",
   "editions": {
     "en-US": {
       "publisher": "Dodd, Mead & Company, New York (as The Thing: Why I Am a Catholic; English edition Sheed & Ward, London, 1929)",
       "year": 1930
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,211 +44,246 @@
     {
       "id": "introduction",
       "title": {
-        "en-US": "Introduction"
+        "en-US": "Introduction",
+        "pt-BR": "Introdução"
       }
     },
     {
       "id": "01-the-sceptic-as-a-critic",
       "title": {
-        "en-US": "The Sceptic as a Critic"
+        "en-US": "The Sceptic as a Critic",
+        "pt-BR": "O cético como crítico"
       }
     },
     {
       "id": "02-is-humanism-a-religion",
       "title": {
-        "en-US": "Is Humanism a Religion?"
+        "en-US": "Is Humanism a Religion?",
+        "pt-BR": "O humanismo é uma religião?"
       }
     },
     {
       "id": "03-the-drift-from-domesticity",
       "title": {
-        "en-US": "The Drift from Domesticity"
+        "en-US": "The Drift from Domesticity",
+        "pt-BR": "A deriva para longe da vida doméstica"
       }
     },
     {
       "id": "04-logic-and-lawn-tennis",
       "title": {
-        "en-US": "Logic—and Lawn Tennis"
+        "en-US": "Logic—and Lawn Tennis",
+        "pt-BR": "A lógica — e o tênis"
       }
     },
     {
       "id": "05-obstinate-orthodoxy",
       "title": {
-        "en-US": "Obstinate Orthodoxy"
+        "en-US": "Obstinate Orthodoxy",
+        "pt-BR": "Ortodoxia obstinada"
       }
     },
     {
       "id": "06-the-usual-article",
       "title": {
-        "en-US": "The Usual Article"
+        "en-US": "The Usual Article",
+        "pt-BR": "O artigo de sempre"
       }
     },
     {
       "id": "07-why-i-am-a-catholic",
       "title": {
-        "en-US": "Why I Am a Catholic"
+        "en-US": "Why I Am a Catholic",
+        "pt-BR": "Por que sou católico"
       }
     },
     {
       "id": "08-what-do-they-think",
       "title": {
-        "en-US": "What Do They Think?"
+        "en-US": "What Do They Think?",
+        "pt-BR": "O que eles pensam?"
       }
     },
     {
       "id": "09-the-mask-of-the-agnostic",
       "title": {
-        "en-US": "The Mask of the Agnostic"
+        "en-US": "The Mask of the Agnostic",
+        "pt-BR": "A máscara do agnóstico"
       }
     },
     {
       "id": "10-the-early-bird-in-history",
       "title": {
-        "en-US": "The Early Bird in History"
+        "en-US": "The Early Bird in History",
+        "pt-BR": "O pássaro madrugador na história"
       }
     },
     {
       "id": "11-protestantism-a-problem-novel",
       "title": {
-        "en-US": "Protestantism: A Problem Novel"
+        "en-US": "Protestantism: A Problem Novel",
+        "pt-BR": "Protestantismo: um romance de tese"
       }
     },
     {
       "id": "12-a-simple-thought",
       "title": {
-        "en-US": "A Simple Thought"
+        "en-US": "A Simple Thought",
+        "pt-BR": "Um pensamento simples"
       }
     },
     {
       "id": "13-the-call-to-the-barbarians",
       "title": {
-        "en-US": "The Call to the Barbarians"
+        "en-US": "The Call to the Barbarians",
+        "pt-BR": "O chamado aos bárbaros"
       }
     },
     {
       "id": "14-on-the-novel-with-a-purpose",
       "title": {
-        "en-US": "On the Novel with a Purpose"
+        "en-US": "On the Novel with a Purpose",
+        "pt-BR": "Sobre o romance com um propósito"
       }
     },
     {
       "id": "15-the-revolt-against-ideas",
       "title": {
-        "en-US": "The Revolt Against Ideas"
+        "en-US": "The Revolt Against Ideas",
+        "pt-BR": "A revolta contra as ideias"
       }
     },
     {
       "id": "16-the-feasts-and-the-ascetic",
       "title": {
-        "en-US": "The Feasts and the Ascetic"
+        "en-US": "The Feasts and the Ascetic",
+        "pt-BR": "As festas e o asceta"
       }
     },
     {
       "id": "17-who-are-the-conspirators",
       "title": {
-        "en-US": "Who Are the Conspirators?"
+        "en-US": "Who Are the Conspirators?",
+        "pt-BR": "Quem são os conspiradores?"
       }
     },
     {
       "id": "18-the-hat-and-the-halo",
       "title": {
-        "en-US": "The Hat and the Halo"
+        "en-US": "The Hat and the Halo",
+        "pt-BR": "O chapéu e a auréola"
       }
     },
     {
       "id": "19-on-two-allegories",
       "title": {
-        "en-US": "On Two Allegories"
+        "en-US": "On Two Allegories",
+        "pt-BR": "Sobre duas alegorias"
       }
     },
     {
       "id": "20-the-protestant-superstitions",
       "title": {
-        "en-US": "The Protestant Superstitions"
+        "en-US": "The Protestant Superstitions",
+        "pt-BR": "As superstições protestantes"
       }
     },
     {
       "id": "21-on-courage-and-independence",
       "title": {
-        "en-US": "On Courage and Independence"
+        "en-US": "On Courage and Independence",
+        "pt-BR": "Sobre a coragem e a independência"
       }
     },
     {
       "id": "22-the-nordic-hindoo",
       "title": {
-        "en-US": "The Nordic Hindoo"
+        "en-US": "The Nordic Hindoo",
+        "pt-BR": "O hindu nórdico"
       }
     },
     {
       "id": "23-a-spiritualist-looks-back",
       "title": {
-        "en-US": "A Spiritualist Looks Back"
+        "en-US": "A Spiritualist Looks Back",
+        "pt-BR": "Um espírita olha para trás"
       }
     },
     {
       "id": "24-the-roots-of-sanity",
       "title": {
-        "en-US": "The Roots of Sanity"
+        "en-US": "The Roots of Sanity",
+        "pt-BR": "As raízes da sanidade"
       }
     },
     {
       "id": "25-some-of-our-errors",
       "title": {
-        "en-US": "Some of Our Errors"
+        "en-US": "Some of Our Errors",
+        "pt-BR": "Alguns de nossos erros"
       }
     },
     {
       "id": "26-the-slavery-of-the-mind",
       "title": {
-        "en-US": "The Slavery of the Mind"
+        "en-US": "The Slavery of the Mind",
+        "pt-BR": "A escravidão da mente"
       }
     },
     {
       "id": "27-inge-versus-barnes",
       "title": {
-        "en-US": "Inge versus Barnes"
+        "en-US": "Inge versus Barnes",
+        "pt-BR": "Inge contra Barnes"
       }
     },
     {
       "id": "28-what-we-think-about",
       "title": {
-        "en-US": "What We Think About"
+        "en-US": "What We Think About",
+        "pt-BR": "Em que pensamos"
       }
     },
     {
       "id": "29-the-optimist-as-a-suicide",
       "title": {
-        "en-US": "The Optimist as a Suicide"
+        "en-US": "The Optimist as a Suicide",
+        "pt-BR": "O otimista como suicida"
       }
     },
     {
       "id": "30-the-outline-of-the-fall",
       "title": {
-        "en-US": "The Outline of the Fall"
+        "en-US": "The Outline of the Fall",
+        "pt-BR": "O esboço da Queda"
       }
     },
     {
       "id": "31-the-idols-of-scotland",
       "title": {
-        "en-US": "The Idols of Scotland"
+        "en-US": "The Idols of Scotland",
+        "pt-BR": "Os ídolos da Escócia"
       }
     },
     {
       "id": "32-if-they-had-believed",
       "title": {
-        "en-US": "If They Had Believed"
+        "en-US": "If They Had Believed",
+        "pt-BR": "Se tivessem acreditado"
       }
     },
     {
       "id": "33-peace-and-the-papacy",
       "title": {
-        "en-US": "Peace and the Papacy"
+        "en-US": "Peace and the Papacy",
+        "pt-BR": "A paz e o Papado"
       }
     },
     {
       "id": "34-the-spirit-of-christmas",
       "title": {
-        "en-US": "The Spirit of Christmas"
+        "en-US": "The Spirit of Christmas",
+        "pt-BR": "O espírito do Natal"
       }
     }
   ]
