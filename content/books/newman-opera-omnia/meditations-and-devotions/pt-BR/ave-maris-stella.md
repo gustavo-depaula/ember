@@ -1,0 +1,9 @@
+# Ave Maris Stella
+
+*Salve, Estrela do Mar*
+
+Verdadeiramente és uma estrela, ó Maria! Nosso próprio Senhor, Jesus Cristo, é de fato a mais verdadeira e principal Estrela, a Estrela brilhante da manhã, como São João O chama; aquela Estrela que desde o princípio foi anunciada como destinada a surgir de Israel, e que foi mostrada em figura pela estrela que apareceu aos sábios no Oriente. Mas, se os sábios e os instruídos e os que ensinam aos homens a justiça brilharão como estrelas pelos séculos dos séculos; se os anjos das Igrejas são chamados estrelas na Mão de Cristo; se Ele honrou os apóstolos, ainda nos dias de sua carne, com um título, chamando-os luzes do mundo; se até aqueles anjos que caíram do céu são chamados estrelas pelo discípulo amado; se, por fim, todos os santos na bem-aventurança são chamados estrelas, por serem como estrelas que diferem umas das outras em glória; então, com toda a certeza, sem nenhuma diminuição da honra de nosso Senhor, Maria, Sua mãe, é chamada Estrela do Mar, tanto mais que também traz sobre a cabeça uma coroa de doze estrelas. Jesus é a Luz do mundo, que ilumina todo homem que nele vem, abrindo nossos olhos com o dom da fé, tornando luminosas as almas por Sua graça todo-poderosa; e Maria é a Estrela, que brilha com a luz de Jesus, formosa como a lua e singular [^2] como o sol, a estrela dos céus, que é bom contemplar, a estrela do mar, bem-vinda aos que são açoitados pela tempestade, a cujo sorriso o espírito maligno foge, as paixões se aquietam e a paz se derrama sobre a alma.
+
+Salve, pois, Estrela do Mar, alegramo-nos ao lembrar de ti. Roga por nós sempre junto ao trono da Graça; defende nossa causa, reza conosco, apresenta nossas orações a teu Filho e Senhor — agora e na hora da morte, Maria, sê nosso auxílio.
+
+[^2]: O manuscrito do Cardeal traz “special” [singular] como tradução do latim “*electa*”.

@@ -1,0 +1,3 @@
+# Oração por uma boa morte
+
+Ó meu Senhor e Salvador, sustentai-me naquela hora nos braços fortes de Vossos Sacramentos e com a fragrância renovada de Vossas consolações. Sejam pronunciadas sobre mim as palavras de absolvição, e o santo óleo me marque e sele, e Vosso próprio Corpo seja meu alimento, e Vosso Sangue me asperja; e minha doce Mãe, Maria, sopre sobre mim, e meu Anjo me sussurre paz, e meus gloriosos Santos ... sorriam para mim; para que, em todos eles e por todos eles, eu receba o dom da perseverança e morra, como desejo viver, em Vossa fé, em Vossa Igreja, em Vosso serviço e em Vosso amor. Amém.

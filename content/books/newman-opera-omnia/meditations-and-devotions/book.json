@@ -15,13 +15,19 @@
   },
   "composed": "1848-1893",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "newman/meditations-and-devotions",
   "editions": {
     "en-US": {
       "editor": "William P. Neville (Birmingham Oratory)",
       "year": 1893
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -45,49 +51,57 @@
         {
           "id": "may-introductory",
           "title": {
-            "en-US": "Introductory: May the Month of Promise and of Joy"
+            "en-US": "Introductory: May the Month of Promise and of Joy",
+            "pt-BR": "Introdução: Maio, o mês da promessa e da alegria"
           }
         },
         {
           "id": "may-immaculate-conception",
           "title": {
-            "en-US": "On the Immaculate Conception"
+            "en-US": "On the Immaculate Conception",
+            "pt-BR": "Sobre a Imaculada Conceição"
           }
         },
         {
           "id": "may-annunciation",
           "title": {
-            "en-US": "On the Annunciation"
+            "en-US": "On the Annunciation",
+            "pt-BR": "Sobre a Anunciação"
           }
         },
         {
           "id": "may-dolours",
           "title": {
-            "en-US": "Our Lady's Dolours"
+            "en-US": "Our Lady's Dolours",
+            "pt-BR": "As dores de Nossa Senhora"
           }
         },
         {
           "id": "may-assumption",
           "title": {
-            "en-US": "On the Assumption"
+            "en-US": "On the Assumption",
+            "pt-BR": "Sobre a Assunção"
           }
         },
         {
           "id": "memorandum-immaculate-conception",
           "title": {
-            "en-US": "Memorandum on the Immaculate Conception"
+            "en-US": "Memorandum on the Immaculate Conception",
+            "pt-BR": "Memorando sobre a Imaculada Conceição"
           }
         },
         {
           "id": "novena-st-philip",
           "title": {
-            "en-US": "Novena of St. Philip"
+            "en-US": "Novena of St. Philip",
+            "pt-BR": "Novena de São Filipe"
           }
         },
         {
           "id": "litany-st-philip-i",
           "title": {
-            "en-US": "Litany of St. Philip"
+            "en-US": "Litany of St. Philip",
+            "pt-BR": "Ladainha de São Filipe"
           }
         }
       ]
@@ -102,91 +116,106 @@
         {
           "id": "stations",
           "title": {
-            "en-US": "Meditations on the Stations of the Cross"
+            "en-US": "Meditations on the Stations of the Cross",
+            "pt-BR": "Meditações sobre as estações da Via-Sacra"
           }
         },
         {
           "id": "stations-short",
           "title": {
-            "en-US": "Short Meditations on the Stations of the Cross"
+            "en-US": "Short Meditations on the Stations of the Cross",
+            "pt-BR": "Breves meditações sobre as estações da Via-Sacra"
           }
         },
         {
           "id": "good-friday",
           "title": {
-            "en-US": "Twelve Meditations and Intercessions for Good Friday"
+            "en-US": "Twelve Meditations and Intercessions for Good Friday",
+            "pt-BR": "Doze meditações e intercessões para a Sexta-feira Santa"
           }
         },
         {
           "id": "eight-days",
           "title": {
-            "en-US": "Meditations for Eight Days"
+            "en-US": "Meditations for Eight Days",
+            "pt-BR": "Meditações para oito dias"
           }
         },
         {
           "id": "litanies",
           "title": {
-            "en-US": "Litanies"
+            "en-US": "Litanies",
+            "pt-BR": "Ladainhas"
           }
         },
         {
           "id": "litany-st-philip-ii",
           "title": {
-            "en-US": "Litany of St. Philip"
+            "en-US": "Litany of St. Philip",
+            "pt-BR": "Ladainha de São Filipe"
           }
         },
         {
           "id": "anima-christi",
           "title": {
-            "en-US": "Anima Christi"
+            "en-US": "Anima Christi",
+            "pt-BR": "Anima Christi"
           }
         },
         {
           "id": "heart-of-mary",
           "title": {
-            "en-US": "The Heart of Mary"
+            "en-US": "The Heart of Mary",
+            "pt-BR": "O Coração de Maria"
           }
         },
         {
           "id": "rosary-sunday",
           "title": {
-            "en-US": "A Short Service for Rosary Sunday"
+            "en-US": "A Short Service for Rosary Sunday",
+            "pt-BR": "Um breve ofício para o Domingo do Rosário"
           }
         },
         {
           "id": "ave-maris-stella",
           "title": {
-            "en-US": "Ave Maris Stella"
+            "en-US": "Ave Maris Stella",
+            "pt-BR": "Ave Maris Stella"
           }
         },
         {
           "id": "triduo-st-joseph",
           "title": {
-            "en-US": "A Triduo to St. Joseph"
+            "en-US": "A Triduo to St. Joseph",
+            "pt-BR": "Um tríduo a São José"
           }
         },
         {
           "id": "four-prayers-st-philip",
           "title": {
-            "en-US": "Four Prayers to St. Philip"
+            "en-US": "Four Prayers to St. Philip",
+            "pt-BR": "Quatro orações a São Filipe"
           }
         },
         {
           "id": "short-road",
           "title": {
-            "en-US": "A Short Road to Perfection"
+            "en-US": "A Short Road to Perfection",
+            "pt-BR": "Um caminho breve para a perfeição"
           }
         },
         {
           "id": "light-of-truth",
           "title": {
-            "en-US": "Prayer for the Light of Truth"
+            "en-US": "Prayer for the Light of Truth",
+            "pt-BR": "Oração pela luz da verdade"
           }
         },
         {
           "id": "happy-death",
           "title": {
-            "en-US": "Prayer for a Happy Death"
+            "en-US": "Prayer for a Happy Death",
+            "pt-BR": "Oração por uma boa morte"
           }
         }
       ]
@@ -201,151 +230,176 @@
         {
           "id": "visit-blessed-sacrament",
           "title": {
-            "en-US": "A Short Visit to the Blessed Sacrament before Meditation"
+            "en-US": "A Short Visit to the Blessed Sacrament before Meditation",
+            "pt-BR": "Uma breve visita ao Santíssimo Sacramento antes da meditação"
           }
         },
         {
           "id": "hope-creator",
           "title": {
-            "en-US": "I. Hope in God: Creator"
+            "en-US": "I. Hope in God: Creator",
+            "pt-BR": "I. Esperança em Deus: Criador"
           }
         },
         {
           "id": "hope-redeemer",
           "title": {
-            "en-US": "II. Hope in God: Redeemer"
+            "en-US": "II. Hope in God: Redeemer",
+            "pt-BR": "II. Esperança em Deus: Redentor"
           }
         },
         {
           "id": "god-and-the-soul",
           "title": {
-            "en-US": "III. God and the Soul"
+            "en-US": "III. God and the Soul",
+            "pt-BR": "III. Deus e a alma"
           }
         },
         {
           "id": "sin",
           "title": {
-            "en-US": "IV. Sin"
+            "en-US": "IV. Sin",
+            "pt-BR": "IV. O pecado"
           }
         },
         {
           "id": "power-of-the-cross",
           "title": {
-            "en-US": "V. The Power of the Cross"
+            "en-US": "V. The Power of the Cross",
+            "pt-BR": "V. O poder da Cruz"
           }
         },
         {
           "id": "resurrection",
           "title": {
-            "en-US": "VI. The Resurrection"
+            "en-US": "VI. The Resurrection",
+            "pt-BR": "VI. A Ressurreição"
           }
         },
         {
           "id": "god-with-us",
           "title": {
-            "en-US": "VII. God with Us"
+            "en-US": "VII. God with Us",
+            "pt-BR": "VII. Deus conosco"
           }
         },
         {
           "id": "god-all-sufficient",
           "title": {
-            "en-US": "VIII. God All-Sufficient"
+            "en-US": "VIII. God All-Sufficient",
+            "pt-BR": "VIII. Deus basta para tudo"
           }
         },
         {
           "id": "god-alone-unchangeable",
           "title": {
-            "en-US": "IX. God Alone Unchangeable"
+            "en-US": "IX. God Alone Unchangeable",
+            "pt-BR": "IX. Só Deus é imutável"
           }
         },
         {
           "id": "god-is-love",
           "title": {
-            "en-US": "X. God is Love"
+            "en-US": "X. God is Love",
+            "pt-BR": "X. Deus é amor"
           }
         },
         {
           "id": "sanctity-of-god",
           "title": {
-            "en-US": "XI. The Sanctity of God"
+            "en-US": "XI. The Sanctity of God",
+            "pt-BR": "XI. A santidade de Deus"
           }
         },
         {
           "id": "forty-days",
           "title": {
-            "en-US": "XII. The Forty Days’ Teaching"
+            "en-US": "XII. The Forty Days’ Teaching",
+            "pt-BR": "XII. O ensinamento dos quarenta dias"
           }
         },
         {
           "id": "ascension",
           "title": {
-            "en-US": "XIII. The Ascension"
+            "en-US": "XIII. The Ascension",
+            "pt-BR": "XIII. A Ascensão"
           }
         },
         {
           "id": "paraclete",
           "title": {
-            "en-US": "XIV. The Paraclete"
+            "en-US": "XIV. The Paraclete",
+            "pt-BR": "XIV. O Paráclito"
           }
         },
         {
           "id": "holy-sacrifice",
           "title": {
-            "en-US": "XV. The Holy Sacrifice"
+            "en-US": "XV. The Holy Sacrifice",
+            "pt-BR": "XV. O Santo Sacrifício"
           }
         },
         {
           "id": "sacred-heart",
           "title": {
-            "en-US": "XVI. The Sacred Heart"
+            "en-US": "XVI. The Sacred Heart",
+            "pt-BR": "XVI. O Sagrado Coração"
           }
         },
         {
           "id": "infinite-perfection",
           "title": {
-            "en-US": "XVII. The Infinite Perfection of God"
+            "en-US": "XVII. The Infinite Perfection of God",
+            "pt-BR": "XVII. A infinita perfeição de Deus"
           }
         },
         {
           "id": "infinite-knowledge",
           "title": {
-            "en-US": "XVIII. The Infinite Knowledge of God"
+            "en-US": "XVIII. The Infinite Knowledge of God",
+            "pt-BR": "XVIII. O infinito conhecimento de Deus"
           }
         },
         {
           "id": "providence",
           "title": {
-            "en-US": "XIX. The Providence of God"
+            "en-US": "XIX. The Providence of God",
+            "pt-BR": "XIX. A Providência de Deus"
           }
         },
         {
           "id": "all-in-all",
           "title": {
-            "en-US": "XX. God is All in All"
+            "en-US": "XX. God is All in All",
+            "pt-BR": "XX. Deus é tudo em todos"
           }
         },
         {
           "id": "incommunicable-perfection",
           "title": {
-            "en-US": "XXI. God the Incommunicable Perfection"
+            "en-US": "XXI. God the Incommunicable Perfection",
+            "pt-BR": "XXI. Deus, a perfeição incomunicável"
           }
         },
         {
           "id": "god-communicated",
           "title": {
-            "en-US": "XXII. God Communicated to Us"
+            "en-US": "XXII. God Communicated to Us",
+            "pt-BR": "XXII. Deus comunicado a nós"
           }
         },
         {
           "id": "sole-stay",
           "title": {
-            "en-US": "XXIII. God the Sole Stay for Eternity"
+            "en-US": "XXIII. God the Sole Stay for Eternity",
+            "pt-BR": "XXIII. Deus, o único sustentáculo para a eternidade"
           }
         },
         {
           "id": "conclusion",
           "title": {
-            "en-US": "Conclusion: Written in Prospect of Death"
+            "en-US": "Conclusion: Written in Prospect of Death",
+            "pt-BR": "Conclusão: Escrito na perspectiva da morte"
           }
         }
       ]
