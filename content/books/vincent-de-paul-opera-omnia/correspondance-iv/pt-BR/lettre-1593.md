@@ -1,0 +1,13 @@
+# Carta 1593. Luísa de Marillac a São Vicente
+
+[Março de 1653] [^1]
+
+A pequena família não deixou de se reunir, com exceção de uma pessoa de cada lado, que ainda não tinham vindo [^2]. Mas creio, Senhor, que é necessário que vossa caridade se dê ao trabalho de instalá-los amanhã de manhã e fazê-los praticar alguma devoção, como adorar a santa Cruz, e fazer-lhes alguma exortação sobre a Paixão. É muita ousadia fazer essa proposta. Queira também vossa caridade determinar, esta noite ou amanhã bem cedo, se lhes serão dadas as roupas que lhes foram preparadas.
+
+Vossa bênção, por favor, a toda a companhia. [^3]
+
+[^1]: Data acrescentada no verso do original pelo irmão Ducournau.
+
+[^2]: Trata-se aqui dos primeiros começos do asilo do Nom-de-Jésus. A fundação desse estabelecimento se deve à generosidade anônima de um rico burguês de Paris, que um dia trouxe 100.000 libras a São Vicente para uma boa obra cuja escolha deixava a ele. O santo refletiu e, depois de comunicar seu plano ao caridoso doador, resolveu empregar 11.000 libras na compra da casa chamada Nom-de-Jésus, que pertencia a Saint-Lazare; 20.000 libras na ampliação das instalações, caso o espaço se tornasse insuficiente; 60.000 libras na constituição de uma renda de um por vinte sobre Saint-Lazare, que mais tarde remiu essa renda; 5.400 libras em móveis e ornamentos para a capela; 3.600 libras para a alimentação e a manutenção de quarenta pobres durante um ano; tudo sob a condição de que os superiores gerais dos padres da Missão, com os burgueses de Paris que eles próprios associassem a si, tivessem a direção espiritual e temporal do hospital e, a esse título, pudessem receber os pobres e dispensá-los. O contrato foi celebrado em 29 de outubro de 1653, aprovado pelos vigários-gerais em 15 de março de 1654 e confirmado por cartas patentes no mês de novembro. (Arq. Nac. M 53.) A obra já funcionava desde março de 1653. São Vicente escolheu quarenta pobres artesãos, vinte de cada sexo, reduzidos pela velhice ou pelas enfermidades à impossibilidade de ganhar a vida. Os homens e as mulheres moravam em dois blocos separados. Embora reunidos numa mesma capela para ouvir a missa, não podiam ver-se nem falar-se. Puseram-lhes nas mãos teares e ferramentas para ocupar seu tempo. Filhas da Caridade estavam a seu serviço, e um padre da Missão, conforme os termos do contrato, exercia as funções de capelão. Vicente de Paulo vinha frequentemente visitá-los e instruí-los. (Cf. Abelly, *op. cit.*, l. I, cap. XLV, pp. 211-213.) De 1802 a 1816, o asilo do Nom-de-Jésus foi uma casa municipal de saúde. Os edifícios já não existem; situavam-se no local ocupado hoje pelas dependências da estação do Leste.
+
+[^3]: L. a. — Dossiê das Filhas da Caridade, original.

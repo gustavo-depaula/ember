@@ -1,0 +1,7 @@
+# Carta 1590. A Estêvão Blatiron, Superior. em Gênova
+
+De 21 de fevereiro de 1653.
+
+Fizestes bem, Senhor, em deixar seguir seu curso a pequena perturbação do Sr.…, sem lhe dizer nada sobre as faltas a que se deixou levar; durante essas indisposições de espírito, das quais há motivo para esperar que se restabeleça, o remédio se encontra mais na tolerância e na paciência do que na correção. Talvez tenha se escusado de pregar àquelas moças pela grande aversão que alguns têm a toda espécie de contato com esse sexo. Só me entristece que todo o encargo recaia sobre vós; mas por que não vos descarregais sobre outros? Deveis exercitar todos os vossos na pregação e empregá-los fora de casa; de outro modo, nunca se tornarão bons operários. Bem sei que não produzirão tanto fruto quanto vós poderíeis produzir, mas produzirão tanto quanto agradar a Deus. E, a esse propósito, vos contarei o que ouvi dizer ao Sr. Lamberto, de que me lembrarei por muito tempo: quando Deus não nos deu excelentes membros para ter êxito em nossas funções, agrada-lhe muito que nelas empreguemos aqueles que temos, embora fracos. Sempre receio que tomeis muito sobre vós e que vossos grandes trabalhos vos acabrunhem; fora esse receio, porém, eles me consolam muito, e até consolo muitas vezes a companhia com eles. Há apenas dois dias eu lhe contava as grandes e frequentes missões que fazeis e as singulares graças com que Deus as abençoa. [^1]
+
+[^1]: Reg. 2, p. 203.

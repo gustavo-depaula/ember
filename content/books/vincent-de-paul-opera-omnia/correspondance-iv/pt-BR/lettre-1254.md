@@ -1,0 +1,11 @@
+# Carta 1254. A Estêvão Blatiron, Superior, em Gênova
+
+2 de setembro de 1650.
+
+Receio que, se começardes a prestar contas, isso crie um precedente e que, depois de Monsenhor o cardeal, o arcebispo que lhe suceder, encontrando-vos com esse costume, vos obrigue a continuar; e é precisamente isso que se deve evitar acima de todas as coisas do mundo, por ser uma sujeição muito penosa. Antes de estarmos em Saint-Lazare, nossos antecessores prestavam contas todos os anos aos bispos de Paris; de modo que, quando ali nos estabelecemos, Monsenhor o arcebispo quis obrigar-nos a fazer o mesmo; mas pedi-lhe insistentemente que nos dispensasse disso; como não quisesse fazê-lo, disse-lhe que preferíamos retirar-nos, e o teríamos feito sem falta, se ele tivesse persistido. É difícil para os missionários, que vão e vêm, registrar com exatidão o que gastam na cidade e no campo, porque fazem diversas pequenas despesas inevitáveis que pareceriam supérfluas aos examinadores das contas. Além disso, esquecem-se várias coisas, de modo que, para fechar as contas quando as apresentais e igualar a despesa à receita, é preciso fazer suposições, como fazem algumas companhias; e essas suposições podem causar prejuízo e podem ser pecado. Disse isso a Monsenhor de Paris e vo-lo escrevo para que vos sirvais dessa razão, se for conveniente.
+
+Ainda não tive tempo de examinar vosso regulamento da Caridade; direi, contudo, que, quanto aos protetores e conselheiros, esse costume pode ser bom na Itália; mas a experiência nos mostrou que é prejudicial na França. Os homens e as mulheres juntos não se entendem em matéria de administração; aqueles querem atribuí-la inteiramente a si, e estas não o podem suportar. As Caridades de Joigny e de Montmirail [^1] foram inicialmente governadas por ambos os sexos; encarregaram-se os homens do cuidado dos pobres aptos para o trabalho e as mulheres dos incapacitados; mas, como havia uma caixa comum, foi preciso afastar os homens. E posso dar este testemunho em favor das mulheres: nada há que censurar em sua administração, tanto é o cuidado e a fidelidade que demonstram. Talvez na Itália elas sejam menos capazes dessas coisas; por isso, não vos dou como regra o que acabo de dizer. [^2]
+
+[^1]: Caridades fundadas em 1618 pelo próprio São Vicente.
+
+[^2]: Reg. 2, p. 63.
