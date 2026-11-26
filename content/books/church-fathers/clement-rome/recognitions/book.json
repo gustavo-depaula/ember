@@ -2,13 +2,16 @@
   "id": "clement-rome-recognitions",
   "cover": "quarter",
   "name": {
-    "en-US": "Recognitions"
+    "en-US": "Recognitions",
+    "pt-BR": "Reconhecimentos"
   },
   "author": {
-    "en-US": "Clement of Rome"
+    "en-US": "Clement of Rome",
+    "pt-BR": "Clemente de Roma"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,71 +24,89 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Preface"
+        "en-US": "Preface",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Book I"
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Book II"
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Book III"
+        "en-US": "Book III",
+        "pt-BR": "Livro III"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "Book IV"
+        "en-US": "Book IV",
+        "pt-BR": "Livro IV"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "Book V"
+        "en-US": "Book V",
+        "pt-BR": "Livro V"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "en-US": "Book VI"
+        "en-US": "Book VI",
+        "pt-BR": "Livro VI"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "en-US": "Book VII"
+        "en-US": "Book VII",
+        "pt-BR": "Livro VII"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "en-US": "Book VIII"
+        "en-US": "Book VIII",
+        "pt-BR": "Livro VIII"
       }
     },
     {
       "id": "ch010",
       "title": {
-        "en-US": "Book IX"
+        "en-US": "Book IX",
+        "pt-BR": "Livro IX"
       }
     },
     {
       "id": "ch011",
       "title": {
-        "en-US": "Book X"
+        "en-US": "Book X",
+        "pt-BR": "Livro X"
       }
     }
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
