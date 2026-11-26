@@ -1,0 +1,7 @@
+# Carta 3198. A Tiago Pesnelle, superior, em Gênova
+
+De 13 de agosto de 1660
+
+Nossa regra, ao nos ordenar fazer todos os dias uma hora de oração mental, não excetua os dias em que se descansa; e assim, Senhor, é preciso fazê-la nesses dias por uma hora inteira, como se não se tivesse descansado; não é justo tirar esse descanso da ação mais importante do dia. Deve-se, contudo, adaptar-se à necessidade dos afazeres. Às vezes há coisas a resolver que não podem ser adiadas nem conciliadas com a hora de oração; nesse caso, levam-se em conta tais impedimentos, depois, porém, de os ter considerado diante de Deus e julgado razoáveis; pois Deus não nos pede nada que seja contrário à razão. Mas, como isso não acontece sempre nem a todas as pessoas, convém, de modo geral, ater-se à regra, não somente quanto à oração, mas também é conveniente consultar a mesma regra em todas as dúvidas e dificuldades que nos surgem, para nos conformarmos a ela tanto quanto possível. Monsenhor o príncipe de Conti será um dia nosso juiz, ao menos o meu. É admirável em sua fidelidade à oração; faz todos os dias duas horas, uma pela manhã e outra à noite; e, por maiores que sejam suas ocupações e por mais gente que o cerque, nunca falta a ela. É verdade que não está tão preso aos horários que não os adiante ou atrase, conforme a exigência dos afazeres. Praza a Deus dar-nos essa inclinação para nos unirmos a Nosso Senhor, em quem sou... [^1]
+
+[^1]: Reg. 2, p. 215.
