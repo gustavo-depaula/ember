@@ -15,13 +15,19 @@
   },
   "composed": "1850",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "newman/difficulties-felt-by-anglicans",
   "editions": {
     "en-US": {
       "editor": "John Henry Newman (Longmans, uniform edition, vol. 1; Newman Reader)",
       "year": 1850
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,73 +44,85 @@
     {
       "id": "lecture-1",
       "title": {
-        "en-US": "Lecture 1. On the Relation of the National Church to the Nation"
+        "en-US": "Lecture 1. On the Relation of the National Church to the Nation",
+        "pt-BR": "Conferência 1. Sobre a Relação da Igreja Nacional com a Nação"
       }
     },
     {
       "id": "lecture-2",
       "title": {
-        "en-US": "Lecture 2. The Movement of 1833 Foreign to the National Church"
+        "en-US": "Lecture 2. The Movement of 1833 Foreign to the National Church",
+        "pt-BR": "Conferência 2. O Movimento de 1833 é Estranho à Igreja Nacional"
       }
     },
     {
       "id": "lecture-3",
       "title": {
-        "en-US": "Lecture 3. The Life of the Movement of 1833 not derived from the National Church"
+        "en-US": "Lecture 3. The Life of the Movement of 1833 not derived from the National Church",
+        "pt-BR": "Conferência 3. A Vida do Movimento de 1833 não Deriva da Igreja Nacional"
       }
     },
     {
       "id": "lecture-4",
       "title": {
-        "en-US": "Lecture 4. The Providential Course of the Movement of 1833 Not in the Direction of the National Church"
+        "en-US": "Lecture 4. The Providential Course of the Movement of 1833 Not in the Direction of the National Church",
+        "pt-BR": "Conferência 4. O Curso Providencial do Movimento de 1833 não se Dirige à Igreja Nacional"
       }
     },
     {
       "id": "lecture-5",
       "title": {
-        "en-US": "Lecture 5. The Providential Course of the Movement of 1833 Not in the Direction of a Party in the National Church"
+        "en-US": "Lecture 5. The Providential Course of the Movement of 1833 Not in the Direction of a Party in the National Church",
+        "pt-BR": "Conferência 5. O Curso Providencial do Movimento de 1833 não se Dirige a um Partido na Igreja Nacional"
       }
     },
     {
       "id": "lecture-6",
       "title": {
-        "en-US": "Lecture 6. The Providential Course of the Movement of 1833 Not in the Direction of a Branch Church"
+        "en-US": "Lecture 6. The Providential Course of the Movement of 1833 Not in the Direction of a Branch Church",
+        "pt-BR": "Conferência 6. O Curso Providencial do Movimento de 1833 não se Dirige a uma Igreja-Ramo"
       }
     },
     {
       "id": "lecture-7",
       "title": {
-        "en-US": "Lecture 7. The Providential Course of the Movement of 1833 Not in the Direction of a Sect"
+        "en-US": "Lecture 7. The Providential Course of the Movement of 1833 Not in the Direction of a Sect",
+        "pt-BR": "Conferência 7. O Curso Providencial do Movimento de 1833 não se Dirige a uma Seita"
       }
     },
     {
       "id": "lecture-8",
       "title": {
-        "en-US": "Lecture 8. The Social State of Catholic Countries No Prejudice to the Sanctity of the Church"
+        "en-US": "Lecture 8. The Social State of Catholic Countries No Prejudice to the Sanctity of the Church",
+        "pt-BR": "Conferência 8. O Estado Social dos Países Católicos não Depõe contra a Santidade da Igreja"
       }
     },
     {
       "id": "lecture-9",
       "title": {
-        "en-US": "Lecture 9. The Religious State of Catholic Countries No Prejudice to the Sanctity of the Church"
+        "en-US": "Lecture 9. The Religious State of Catholic Countries No Prejudice to the Sanctity of the Church",
+        "pt-BR": "Conferência 9. O Estado Religioso dos Países Católicos não Depõe contra a Santidade da Igreja"
       }
     },
     {
       "id": "lecture-10",
       "title": {
-        "en-US": "Lecture 10. Differences Among Catholics No Prejudice to the Unity of the Church"
+        "en-US": "Lecture 10. Differences Among Catholics No Prejudice to the Unity of the Church",
+        "pt-BR": "Conferência 10. As Divergências entre Católicos não Depõem contra a Unidade da Igreja"
       }
     },
     {
       "id": "lecture-11",
       "title": {
-        "en-US": "Lecture 11. Heretical and Schismatical Bodies No Prejudice to the Catholicity of the Church"
+        "en-US": "Lecture 11. Heretical and Schismatical Bodies No Prejudice to the Catholicity of the Church",
+        "pt-BR": "Conferência 11. Os Corpos Heréticos e Cismáticos não Depõem contra a Catolicidade da Igreja"
       }
     },
     {
       "id": "lecture-12",
       "title": {
-        "en-US": "Lecture 12. Ecclesiastical History No Prejudice to the Apostolicity of the Church"
+        "en-US": "Lecture 12. Ecclesiastical History No Prejudice to the Apostolicity of the Church",
+        "pt-BR": "Conferência 12. A História Eclesiástica não Depõe contra a Apostolicidade da Igreja"
       }
     }
   ]
