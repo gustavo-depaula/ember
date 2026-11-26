@@ -15,13 +15,19 @@
   },
   "composed": "1875",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "newman/letter-to-the-duke-of-norfolk",
   "editions": {
     "en-US": {
       "editor": "John Henry Newman (Longmans, uniform edition, Difficulties of Anglicans vol. 2; Newman Reader)",
       "year": 1875
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,67 +44,78 @@
     {
       "id": "section-1",
       "title": {
-        "en-US": "1. Introductory Remarks"
+        "en-US": "1. Introductory Remarks",
+        "pt-BR": "1. Observações introdutórias"
       }
     },
     {
       "id": "section-2",
       "title": {
-        "en-US": "2. The Ancient Church"
+        "en-US": "2. The Ancient Church",
+        "pt-BR": "2. A Igreja antiga"
       }
     },
     {
       "id": "section-3",
       "title": {
-        "en-US": "3. The Papal Church"
+        "en-US": "3. The Papal Church",
+        "pt-BR": "3. A Igreja papal"
       }
     },
     {
       "id": "section-4",
       "title": {
-        "en-US": "4. Divided Allegiance"
+        "en-US": "4. Divided Allegiance",
+        "pt-BR": "4. Lealdade dividida"
       }
     },
     {
       "id": "section-5",
       "title": {
-        "en-US": "5. Conscience."
+        "en-US": "5. Conscience.",
+        "pt-BR": "5. Consciência."
       }
     },
     {
       "id": "section-6",
       "title": {
-        "en-US": "6. The Encyclical of 1864"
+        "en-US": "6. The Encyclical of 1864",
+        "pt-BR": "6. A Encíclica de 1864"
       }
     },
     {
       "id": "section-7",
       "title": {
-        "en-US": "7. The Syllabus"
+        "en-US": "7. The Syllabus",
+        "pt-BR": "7. O Syllabus"
       }
     },
     {
       "id": "section-8",
       "title": {
-        "en-US": "8. The Vatican Council"
+        "en-US": "8. The Vatican Council",
+        "pt-BR": "8. O Concílio Vaticano"
       }
     },
     {
       "id": "section-9",
       "title": {
-        "en-US": "9. The Vatican Definition"
+        "en-US": "9. The Vatican Definition",
+        "pt-BR": "9. A definição vaticana"
       }
     },
     {
       "id": "section-10",
       "title": {
-        "en-US": "10. Conclusion"
+        "en-US": "10. Conclusion",
+        "pt-BR": "10. Conclusão"
       }
     },
     {
       "id": "postscript",
       "title": {
-        "en-US": "Postscript"
+        "en-US": "Postscript",
+        "pt-BR": "Pós-escrito"
       }
     }
   ]
