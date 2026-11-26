@@ -15,13 +15,19 @@
   },
   "composed": "1926",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/incredulity-of-father-brown",
   "editions": {
     "en-US": {
       "editor": "Cassell and Company",
       "year": 1926
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,49 +44,57 @@
     {
       "id": "ch01-the-resurrection-of-father-brown",
       "title": {
-        "en-US": "The Resurrection of Father Brown"
+        "en-US": "The Resurrection of Father Brown",
+        "pt-BR": "A Ressurreição do Padre Brown"
       }
     },
     {
       "id": "ch02-the-arrow-of-heaven",
       "title": {
-        "en-US": "The Arrow of Heaven"
+        "en-US": "The Arrow of Heaven",
+        "pt-BR": "A Flecha do Céu"
       }
     },
     {
       "id": "ch03-the-oracle-of-the-dog",
       "title": {
-        "en-US": "The Oracle of the Dog"
+        "en-US": "The Oracle of the Dog",
+        "pt-BR": "O Oráculo do Cão"
       }
     },
     {
       "id": "ch04-the-miracle-of-moon-crescent",
       "title": {
-        "en-US": "The Miracle of Moon Crescent"
+        "en-US": "The Miracle of Moon Crescent",
+        "pt-BR": "O Milagre de Moon Crescent"
       }
     },
     {
       "id": "ch05-the-curse-of-the-golden-cross",
       "title": {
-        "en-US": "The Curse of the Golden Cross"
+        "en-US": "The Curse of the Golden Cross",
+        "pt-BR": "A Maldição da Cruz de Ouro"
       }
     },
     {
       "id": "ch06-the-dagger-with-wings",
       "title": {
-        "en-US": "The Dagger with Wings"
+        "en-US": "The Dagger with Wings",
+        "pt-BR": "A Adaga com Asas"
       }
     },
     {
       "id": "ch07-the-doom-of-the-darnaways",
       "title": {
-        "en-US": "The Doom of the Darnaways"
+        "en-US": "The Doom of the Darnaways",
+        "pt-BR": "A Sina dos Darnaway"
       }
     },
     {
       "id": "ch08-the-ghost-of-gideon-wise",
       "title": {
-        "en-US": "The Ghost of Gideon Wise"
+        "en-US": "The Ghost of Gideon Wise",
+        "pt-BR": "O Fantasma de Gideon Wise"
       }
     }
   ]
