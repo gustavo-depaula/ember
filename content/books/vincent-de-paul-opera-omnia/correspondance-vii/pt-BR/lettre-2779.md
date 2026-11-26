@@ -1,0 +1,7 @@
+# Carta 2779. A Domingos Lhuillier, Padre da Missão, em Crécy
+
+Saint-Lazare, neste último dia de janeiro de 1659
+
+Recebi tua carta e soube de tua doença, que me causa grande dor. Rezei a Deus e mandei rezar por ti, para que lhe agrade devolver-te a saúde e, entretanto, conceder-te a graça de aproveitar o estado em que te encontras para ti e para os outros, pois Nosso Senhor, tendo parecido amar mais a Deus e resgatar os homens pelo sofrimento do que por outros meios, mostrou a seus servidores que é por ele que os podem servir com maior proveito. É preciso, contudo, fazer tudo o que for possível para que fiques bem, e peço-te que contribuas com tudo o que depende de ti. E, como não estás num lugar onde possas ser bem assistido, pensamos em te fazer vir para cá, e envio este portador expressamente para saber como fazê-lo. Vê, Senhor, se estás em condições de ir a Meaux tomar um lugar na diligência, ou se poderás suportar a fadiga de viajar a cavalo, ou se é preciso enviar-te uma padiola, o que farei assim que for avisado, seja de que maneira for. Peço-te que te disponhas a fazê-lo sem esperar outra resolução nossa; enviaremos um padre em teu lugar na segunda-feira de manhã, para chegar à noite. Digo-te novamente que estou muito aflito com tua doença; mas que fazer! É preciso conformar-se ao beneplácito de Deus e esperar de sua bondade que isso não seja nada. Terei grande alegria em te ver, assim como toda a casa.[^1]
+
+[^1]: Manuscrito de Marselha.

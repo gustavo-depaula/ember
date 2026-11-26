@@ -1,0 +1,13 @@
+# Carta 2706. Edmundo Jolly, Superior em Roma, a São Vicente
+
+[Roma, 5 de novembro de 1658] [^1]
+
+Dos três irmãos que o Sr. Berthe nos enviou aqui por tua ordem, Senhor, e que chegaram, como te informei em minha última carta, no mesmo dia em que a escrevi, um [^2], que ainda não concluiu os dois anos de seu seminário, está muito aflito por não ter encontrado, como pensava, uma classe de teologia nesta casa, onde, segundo diz, lhe prometeram de tua parte, Senhor, que estudaria. Fiz todo o possível tanto para lhe mostrar que o ajudaríamos nos estudos em tudo o que pudéssemos como para levá-lo a ser bem indiferente em todas as coisas, como é necessário que seja um missionário. Mas é lastimável ver a intensidade de sua tentação, pois não se mostra capaz de aceitar razão alguma, nem divina nem humana, embora, por outro lado, se mostre firme em sua vocação; e acredita estar perfeitamente desapegado de todas as coisas do mundo, dizendo que se tornou bem indiferente em tudo, mas não nesse ponto dos estudos, pois lhe haviam prometido o contrário. Parece-me, Senhor, que me fizeste propor, entre outras coisas, algo semelhante a isto num retiro aos seminaristas, a saber, firmá-los bem na indiferença quanto aos estudos; e vejo isso agora mais necessário do que o via então, pois esse pobre irmão está perdido nessa tentação; e, se não tirar isso do espírito, ou antes, se Nosso Senhor não lho tirar, será uma porta aberta a mil inquietações e a tornar-se pouco apto para o serviço de sua vocação. Manifestou-me o desejo de te pedir e de fazer com que te pedissem que o enviasses a Gênova para lá estudar, segundo seu grandíssimo desejo; disse-lhe que podia escrever-te; mas não o aconselhava a fazer com que outros intercedessem junto de ti, nem mesmo a te pedir isso pessoalmente, porque não ficaria satisfeito por ter cedido à tentação, sendo muito melhor nos acomodarmos aos desígnios de Deus sobre nós do que fazer nossa vontade contra seu beneplácito.
+
+Enfim, exortei-o a ter grande paciência, pois não é provável que uma tentação tão veemente e uma perturbação tão grande durem muito numa pessoa que quer ser inteiramente de Deus; mas o mal é que não se consegue fazê-lo compreender que esse apego é desordenado. Nosso Senhor o fará, se lhe aprouver, por tuas orações, Senhor. Está nos exercícios espirituais com os dois que vieram com ele. Depois dos exercícios, veremos se o estudo que fará, com a assistência que alguém da casa lhe dará, o acalmará de algum modo. Volta sempre à promessa que diz lhe terem feito de fazê-lo estudar sob um mestre com outros alunos. [^3]
+
+[^1]: Ver carta 2741.
+
+[^2]: Le Mercier.
+
+[^3]: Notícia manuscrita de Edmundo Jolly, p. 142. (Cf. *Notícias*, t. III, p. 462.

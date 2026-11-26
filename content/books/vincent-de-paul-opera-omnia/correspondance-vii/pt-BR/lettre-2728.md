@@ -1,0 +1,13 @@
+# Carta 2728. A Estêvão Bienvenu, Padre da Missão, em Le Mans
+
+[Novembro ou dezembro de 1658][^1]
+
+Senhor,
+
+Li tua carta com dor, vendo que me pedes licença para te retirares. Que te fizemos para nos deixares? Que desgosto recebeste da companhia para fazer tal separação? A única razão que me dás é que estás enfermo; e eu te peço que consideres que não há ninguém que não fique por vezes indisposto, e que, a qualquer lugar aonde se vá, leva-se o próprio corpo, que está sujeito a isso. Acrescento que te será difícil encontrar em outro lugar o mesmo tratamento em tuas enfermidades que a companhia dá a seus filhos. Ela tem médicos remunerados, tem remédios e pessoas para cuidar deles, e provê com grande caridade ao restante do que convém para sua consolação e alívio. Assim, sua intenção é que a casa onde estás cuide de ti quando estiveres indisposto; e julgo que nada omite nisso. Se, contudo, houvesse algo a dizer, seria preciso comunicar-me, para remediá-lo. Quero crer que és de constituição delicada; mas sempre te vi em condições de fazer como os outros, e ainda não soube que tenhas tido doença considerável, nem que algo te impeça agora de seguir teu curso habitual.
+
+Mas, ainda que fosse verdade que estivesses acometido de alguma enfermidade importante, isso não seria motivo suficiente para romper uma promessa que fizeste a Deus, de viver e morrer na companhia. Meu Deus, Senhor, que queres fazer? Como! Ser infiel a Deus, que te chamou, voltar as costas à tua vocação, que te oferece tantos meios de te salvares, e perder num momento uma eternidade de felicidade, que só se concede à perseverança! Ó Senhor, que grande pesar terias à hora da morte se tivesses cometido tal falta! Pois ela é da natureza das irreparáveis, uma vez que, abandonando o estado em que Deus te colocou, correrias grande perigo de que ele te abandonasse àquele que tua vontade própria te tivesse feito abraçar. Guarda-te bem de segui-la. Faze alguns dias de retiro para considerar a importância de fazer a vontade de Deus e de cumprir teus votos reiterados. Estás obrigado a isso, como te fiz ver pela carta que te escrevi no mês de outubro passado, declarando-te que não posso nem quero, de palavra nem por escrito, permitir que saias da companhia, nem, por conseguinte, conceder-te o restante que pedes, porque sou, como convém, no amor de N. S., Senhor, teu muito humilde servidor.[^2]
+
+[^1]: Esta carta deve certamente ser situada entre novembro de 1658 e outubro de 1659. Tudo leva a crer que foi enviada pouco depois da carta de 26 de outubro. O secretário escreveu as duas minutas uma em seguida à outra
+
+[^2]: L. non s. — Dossiê da Missão, minuta, pela mão do secretário.
