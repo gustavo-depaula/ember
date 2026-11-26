@@ -1,0 +1,7 @@
+# Carta 2438. João Martin a São Vicente
+
+27 de outubro de 1657.
+
+Creio que será preciso adiar para outra ocasião a missão que a Senhora Real nos ordenou fazer em Bra, que lhe pertence, porque o fogo da divisão cresceu tanto ali que agora as ruas estão barricadas, as casas cheias de fuzileiros e de homens armados; matam-se uns aos outros até dentro das igrejas e estão tão encarniçados uns contra os outros que chegam a escalar as casas para entrar à força, e cada um procura fortificar-se na sua de tal modo que esteja em condições de repelir seu inimigo e até de lhe tirar a vida, se passar diante dela. Esperava-se que, por meio de algum acordo, se pudesse conseguir uma suspensão de armas e obter segurança para uns e outros durante o tempo da missão, e que, pelas pregações, exortações e admoestações públicas e particulares, se pudessem abrandar os ânimos e dispô-los a algumas reconciliações; mas estão tão longe disso que, tendo a Senhora Real enviado para esse fim alguns dos principais ministros deste Estado, eles nada puderam fazer; de modo que seria uma empresa não somente inútil ir fazer missão num lugar onde ninguém poderia comparecer às pregações nem aos outros exercícios, mas até temerária e prejudicial aos que se arriscassem a assistir a eles. Não nos faltam outros lugares onde possamos trabalhar agora. [^1]
+
+[^1]: Abelly, *op. cit.*, l. II, cap. I, seç. VI, p. 85. Este trecho de carta foi igualmente reproduzido na notícia biográfica de João Martin (*Notices*, t. I, 290). Entre os dois textos se constatam muitas variantes de mera forma.

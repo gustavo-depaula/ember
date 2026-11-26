@@ -1,0 +1,17 @@
+# Carta 2187. A Guilherme Delville, Padre da Missão, em Arras
+
+6 de janeiro de 1657.
+
+Os três postulantes que nos enviastes chegaram; nós os acolhemos com afeição, por virem de vossa parte 1 Informais-me da razão pela qual nos havíeis encaminhado o coxo que regressou há pouco. Eu bem imaginara, Senhor, que vos tinham pressionado e que, não tendo tido força para resistir às persuasões daqueles que vos solicitaram em favor dele, fostes obrigado a condescender com eles.
+
+Quero crer que a mesma coisa vos aconteceu ainda com um desses três, chamado…, em quem não encontrastes as qualidades necessárias à companhia; e, contudo, o enviastes para contentar aqueles que vos pediram isso, não tendo coragem de lhes recusar e vendo nele boa vontade. É o que muito me entristece, por causa do desgosto que tereis por não o termos recebido no seminário. Achamo-lo muito fraco em latim; e vos envio uma composição que fez, na qual vereis quanto está aquém dos estudos que deveria ter. Todos aqueles a quem mandei examiná-lo quanto aos sinais de uma verdadeira vocação, tendo julgado que não os possuía, aconselharam-no a regressar. Isso me obriga a vos pedir novamente que não arrisqueis mais à viagem ninguém que não vos pareça chamado por Deus. Nem todos os que se apresentam o são, pelo menos aqueles a quem faltam as condições de corpo e de espírito adequadas a nosso Instituto e a nossos trabalhos. Os dois anos de provação não são para verificar se possuem as disposições exigidas, pois é preciso tê-las verificado antes, mas para que nelas se fortaleçam ainda mais e, sobre esse fundamento, levantem o edifício das virtudes que fazem um bom missionário. Portanto, Senhor, devemos conservar tamanha liberdade na escolha que ela esteja acima de todas as considerações humanas. “Não fostes vós”, dizia Nosso Senhor, “que me elegestes; fui eu que vos escolhi e ordenei [^1]”, para que saibamos que somente ele tem o direito de chamar às funções evangélicas. Por isso, há entre uma vocação e outra a diferença que há entre o sol e a lua, entre o dia e a noite; porque aquela que não vem de Deus é apenas a sombra da verdadeira vocação, embora esteja coberta de belos pretextos e das mesmas vestes. Não duvido, contudo, Senhor, de vosso bom discernimento; mas, assim como não me fio em meu próprio juízo quando se trata de admitir os candidatos entre nós, pois, depois de os provar de diversas maneiras, ainda tomo o parecer de vários membros da companhia, julgo também que deveis usar de muitas precauções para não vos enganardes, particularmente destas: fazê-los sempre redigir uma composição em vossa presença, enviar-nos suas composições e informar-nos exatamente de seus costumes, idades, saúde, qualidades etc., para que possamos julgar se nos serão adequados antes de os mandar vir.
+
+Perguntais-me se, quanto aos padres postulantes, nós os receberemos, ainda que não paguem as cem libras para suas roupas. Sim, Senhor, nós os receberemos, se o único impedimento for esse, contanto que, no mais, sejam como se deseja, porque, estando vestidos como eclesiásticos, supomos que cada um terá sua batina e seu manto.
+
+Supomos também que os outros, que não são padres, trarão cada um seu título em devida forma e que, antes de os enviar, tereis a bondade de informá-los sobre nossas práticas mais difíceis e a submissão que é preciso ter, para que, estando aqui, nada achem estranho. [^2] [^3]
+
+[^1]: Evangelho de São João 15:16.
+
+[^2]: Reg. 2, p. 38.
+
+[^3]: Maximiliano Francisco Cuveron, Carlos Taquet e um terceiro, que não ficou.

@@ -14,17 +14,23 @@
   "description": {
     "fr-FR": "Les lettres 2091 à 2474 de la Correspondance de saint Vincent, tome VI de l’édition de Pierre Coste (1656-1657), une lettre par chapitre, groupées par année, avec les lettres adressées à Vincent que Coste y a intercalées, ses notices de sources et ses notes.",
     "en-US": "Letters 2091 to 2474 of St. Vincent’s Correspondence, vol. VI of Pierre Coste’s edition (1656-1657), one letter per chapter and grouped by year, with the letters addressed to Vincent that Coste interleaves, his source notices and notes.",
-    "pt-BR": "As cartas 2091 a 2474 da Correspondência de São Vicente, tomo VI da edição de Pierre Coste (1656-1657)."
+    "pt-BR": "As cartas 2091 a 2474 da Correspondência de São Vicente, tomo VI da edição de Pierre Coste (1656-1657), uma carta por capítulo, agrupadas por ano, com as cartas dirigidas a Vicente que Coste intercalou, suas indicações de fontes e suas notas."
   },
   "composed": "1656-1657",
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "vincent-de-paul/correspondance-vi",
   "editions": {
     "fr-FR": {
       "editor": "Pierre Coste, C.M.",
       "year": 1922
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,487 +47,568 @@
     {
       "id": "groupe-01",
       "title": {
-        "fr-FR": "Année 1656"
+        "fr-FR": "Année 1656",
+        "pt-BR": "Ano de 1656"
       },
       "children": [
         {
           "id": "lettre-2091",
           "title": {
-            "fr-FR": "Lettre 2091. À Jean Martin, Supérieur, à Turin"
+            "fr-FR": "Lettre 2091. À Jean Martin, Supérieur, à Turin",
+            "pt-BR": "Carta 2091. A João Martin, Superior, em Turim"
           }
         },
         {
           "id": "lettre-2092",
           "title": {
-            "fr-FR": "Lettre 2092. À Charles Ozenne"
+            "fr-FR": "Lettre 2092. À Charles Ozenne",
+            "pt-BR": "Carta 2092. A Carlos Ozenne"
           }
         },
         {
           "id": "lettre-2093",
           "title": {
-            "fr-FR": "Lettre 2093. Au Frère Jean Barreau"
+            "fr-FR": "Lettre 2093. Au Frère Jean Barreau",
+            "pt-BR": "Carta 2093. Ao Irmão João Barreau"
           }
         },
         {
           "id": "lettre-2094",
           "title": {
-            "fr-FR": "Lettre 2094. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 2094. À un Prêtre de la Mission",
+            "pt-BR": "Carta 2094. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-2095",
           "title": {
-            "fr-FR": "Lettre 2095. Claude Dufour, Prêtre de la Mission, à Saint Vincent"
+            "fr-FR": "Lettre 2095. Claude Dufour, Prêtre de la Mission, à Saint Vincent",
+            "pt-BR": "Carta 2095. Cláudio Dufour, Padre da Missão, a São Vicente"
           }
         },
         {
           "id": "lettre-2096",
           "title": {
-            "fr-FR": "Lettre 2096. À Dominique Lhuillier"
+            "fr-FR": "Lettre 2096. À Dominique Lhuillier",
+            "pt-BR": "Carta 2096. A Domingos Lhuillier"
           }
         },
         {
           "id": "lettre-2097",
           "title": {
-            "fr-FR": "Lettre 2097. À Nicolas Bagni"
+            "fr-FR": "Lettre 2097. À Nicolas Bagni",
+            "pt-BR": "Carta 2097. A Nicolau Bagni"
           }
         },
         {
           "id": "lettre-2098",
           "title": {
-            "fr-FR": "Lettre 2098. À Etienne Blatiron"
+            "fr-FR": "Lettre 2098. À Etienne Blatiron",
+            "pt-BR": "Carta 2098. A Estêvão Blatiron"
           }
         },
         {
           "id": "lettre-2099",
           "title": {
-            "fr-FR": "Lettre 2099. À Edme Jolly, Supérieur, à Rome"
+            "fr-FR": "Lettre 2099. À Edme Jolly, Supérieur, à Rome",
+            "pt-BR": "Carta 2099. A Edmundo Jolly, Superior, em Roma"
           }
         },
         {
           "id": "lettre-2100",
           "title": {
-            "fr-FR": "Lettre 2100. À Jean Martin, Supérieur, à Turin"
+            "fr-FR": "Lettre 2100. À Jean Martin, Supérieur, à Turin",
+            "pt-BR": "Carta 2100. A João Martin, Superior, em Turim"
           }
         },
         {
           "id": "lettre-2101",
           "title": {
-            "fr-FR": "Lettre 2101. À Jean-Jacques Planchamp"
+            "fr-FR": "Lettre 2101. À Jean-Jacques Planchamp",
+            "pt-BR": "Carta 2101. A João Tiago Planchamp"
           }
         },
         {
           "id": "lettre-2102",
           "title": {
-            "fr-FR": "Lettre 2102. À Charles Ozenne"
+            "fr-FR": "Lettre 2102. À Charles Ozenne",
+            "pt-BR": "Carta 2102. A Carlos Ozenne"
           }
         },
         {
           "id": "lettre-2103",
           "title": {
-            "fr-FR": "Lettre 2103. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2103. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2103. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2104",
           "title": {
-            "fr-FR": "Lettre 2104. À Donat Cruoly, Supérieur, au Mans"
+            "fr-FR": "Lettre 2104. À Donat Cruoly, Supérieur, au Mans",
+            "pt-BR": "Carta 2104. A Donato Cruoly, Superior, em Le Mans"
           }
         },
         {
           "id": "lettre-2105",
           "title": {
-            "fr-FR": "Lettre 2105. À Louis de Chandenier"
+            "fr-FR": "Lettre 2105. À Louis de Chandenier",
+            "pt-BR": "Carta 2105. A Luís de Chandenier"
           }
         },
         {
           "id": "lettre-2106",
           "title": {
-            "fr-FR": "Lettre 2106. À Jean Martin"
+            "fr-FR": "Lettre 2106. À Jean Martin",
+            "pt-BR": "Carta 2106. A João Martin"
           }
         },
         {
           "id": "lettre-2107",
           "title": {
-            "fr-FR": "Lettre 2107. À Nicolas Duperroy"
+            "fr-FR": "Lettre 2107. À Nicolas Duperroy",
+            "pt-BR": "Carta 2107. A Nicolau Duperroy"
           }
         },
         {
           "id": "lettre-2108",
           "title": {
-            "fr-FR": "Lettre 2108. À Edme Jolly, Supérieur à Rome"
+            "fr-FR": "Lettre 2108. À Edme Jolly, Supérieur à Rome",
+            "pt-BR": "Carta 2108. A Edmundo Jolly, Superior em Roma"
           }
         },
         {
           "id": "lettre-2110",
           "title": {
-            "fr-FR": "Lettre 2110. À la Sœur Charlotte Royer, Supérieure, à Richelieu"
+            "fr-FR": "Lettre 2110. À la Sœur Charlotte Royer, Supérieure, à Richelieu",
+            "pt-BR": "Carta 2110. À Irmã Carlota Royer, Superiora, em Richelieu"
           }
         },
         {
           "id": "lettre-2111",
           "title": {
-            "fr-FR": "Lettre 2111. À Etienne Blatiron, Supérieur, à Gênes"
+            "fr-FR": "Lettre 2111. À Etienne Blatiron, Supérieur, à Gênes",
+            "pt-BR": "Carta 2111. A Estêvão Blatiron, Superior, em Gênova"
           }
         },
         {
           "id": "lettre-2112",
           "title": {
-            "fr-FR": "Lettre 2112. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2112. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2112. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2113",
           "title": {
-            "fr-FR": "Lettre 2113. À Charles Ozenne"
+            "fr-FR": "Lettre 2113. À Charles Ozenne",
+            "pt-BR": "Carta 2113. A Carlos Ozenne"
           }
         },
         {
           "id": "lettre-2114",
           "title": {
-            "fr-FR": "Lettre 2114. À Jean Martin"
+            "fr-FR": "Lettre 2114. À Jean Martin",
+            "pt-BR": "Carta 2114. A João Martin"
           }
         },
         {
           "id": "lettre-2115",
           "title": {
-            "fr-FR": "Lettre 2115. Un Évêque à Saint Vincent"
+            "fr-FR": "Lettre 2115. Un Évêque à Saint Vincent",
+            "pt-BR": "Carta 2115. Um Bispo a São Vicente"
           }
         },
         {
           "id": "lettre-2116",
           "title": {
-            "fr-FR": "Lettre 2116. A * à François Liebe, Supérieur, à Notre-Dame de Lorm"
+            "fr-FR": "Lettre 2116. A * à François Liebe, Supérieur, à Notre-Dame de Lorm",
+            "pt-BR": "Carta 2116. A * a Francisco Liebe, Superior, em Notre-Dame de Lorm"
           }
         },
         {
           "id": "lettre-2117",
           "title": {
-            "fr-FR": "Lettre 2117. À Louis Dupont, Supérieur, à Tréguier"
+            "fr-FR": "Lettre 2117. À Louis Dupont, Supérieur, à Tréguier",
+            "pt-BR": "Carta 2117. A Luís Dupont, Superior, em Tréguier"
           }
         },
         {
           "id": "lettre-2118",
           "title": {
-            "fr-FR": "Lettre 2118. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2118. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2118. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2119",
           "title": {
-            "fr-FR": "Lettre 2119. À Donat Cruoly, Supérieur, au Mans"
+            "fr-FR": "Lettre 2119. À Donat Cruoly, Supérieur, au Mans",
+            "pt-BR": "Carta 2119. A Donato Cruoly, Superior, em Le Mans"
           }
         },
         {
           "id": "lettre-2120",
           "title": {
-            "fr-FR": "Lettre 2120. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 2120. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 2120. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-2121",
           "title": {
-            "fr-FR": "Lettre 2121. A Etienne Blatiron, Supérieur, à Gênes"
+            "fr-FR": "Lettre 2121. A Etienne Blatiron, Supérieur, à Gênes",
+            "pt-BR": "Carta 2121. A Estêvão Blatiron, Superior, em Gênova"
           }
         },
         {
           "id": "lettre-2122",
           "title": {
-            "fr-FR": "Lettre 2122. À Edme Jolly, Supérieur, à Rome"
+            "fr-FR": "Lettre 2122. À Edme Jolly, Supérieur, à Rome",
+            "pt-BR": "Carta 2122. A Edmundo Jolly, Superior, em Roma"
           }
         },
         {
           "id": "lettre-2123",
           "title": {
-            "fr-FR": "Lettre 2123. À Pierre Leclerc, Frère Coadjuteur, à Agen"
+            "fr-FR": "Lettre 2123. À Pierre Leclerc, Frère Coadjuteur, à Agen",
+            "pt-BR": "Carta 2123. A Pedro Leclerc, Irmão Coadjutor, em Agen"
           }
         },
         {
           "id": "lettre-2124",
           "title": {
-            "fr-FR": "Lettre 2124. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 2124. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 2124. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-2125",
           "title": {
-            "fr-FR": "Lettre 2125. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2125. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2125. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2127",
           "title": {
-            "fr-FR": "Lettre 2127. À Madame Legouz"
+            "fr-FR": "Lettre 2127. À Madame Legouz",
+            "pt-BR": "Carta 2127. À Senhora Legouz"
           }
         },
         {
           "id": "lettre-2128",
           "title": {
-            "fr-FR": "Lettre 2128. À un Prêtre de la Mission, à Rennes"
+            "fr-FR": "Lettre 2128. À un Prêtre de la Mission, à Rennes",
+            "pt-BR": "Carta 2128. A um Padre da Missão, em Rennes"
           }
         },
         {
           "id": "lettre-2129",
           "title": {
-            "fr-FR": "Lettre 2129. À Antoine Durand, Supérieur, à Agde"
+            "fr-FR": "Lettre 2129. À Antoine Durand, Supérieur, à Agde",
+            "pt-BR": "Carta 2129. A Antônio Durand, Superior, em Agde"
           }
         },
         {
           "id": "lettre-2130",
           "title": {
-            "fr-FR": "Lettre 2130. À Guillaume Delville, Prêtre de la Mission, à Arras"
+            "fr-FR": "Lettre 2130. À Guillaume Delville, Prêtre de la Mission, à Arras",
+            "pt-BR": "Carta 2130. A Guilherme Delville, Padre da Missão, em Arras"
           }
         },
         {
           "id": "lettre-2131",
           "title": {
-            "fr-FR": "Lettre 2131. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2131. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2131. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2132",
           "title": {
-            "fr-FR": "Lettre 2132. A Etienne Blatiron, Supérieur, à Gênes"
+            "fr-FR": "Lettre 2132. A Etienne Blatiron, Supérieur, à Gênes",
+            "pt-BR": "Carta 2132. A Estêvão Blatiron, Superior, em Gênova"
           }
         },
         {
           "id": "lettre-2133",
           "title": {
-            "fr-FR": "Lettre 2133. À Jean Martin, Supérieur, à Turin"
+            "fr-FR": "Lettre 2133. À Jean Martin, Supérieur, à Turin",
+            "pt-BR": "Carta 2133. A João Martin, Superior, em Turim"
           }
         },
         {
           "id": "lettre-2134",
           "title": {
-            "fr-FR": "Lettre 2134. Au Duc de Noirmoutiers"
+            "fr-FR": "Lettre 2134. Au Duc de Noirmoutiers",
+            "pt-BR": "Carta 2134. Ao Duque de Noirmoutiers"
           }
         },
         {
           "id": "lettre-2135",
           "title": {
-            "fr-FR": "Lettre 2135. À Jean Martin, Supérieur, à Turin"
+            "fr-FR": "Lettre 2135. À Jean Martin, Supérieur, à Turin",
+            "pt-BR": "Carta 2135. A João Martin, Superior, em Turim"
           }
         },
         {
           "id": "lettre-2136",
           "title": {
-            "fr-FR": "Lettre 2136. À Edme Jolly, Supérieur, à Rome"
+            "fr-FR": "Lettre 2136. À Edme Jolly, Supérieur, à Rome",
+            "pt-BR": "Carta 2136. A Edmundo Jolly, Superior, em Roma"
           }
         },
         {
           "id": "lettre-2137",
           "title": {
-            "fr-FR": "Lettre 2137. À Charles Ozenne"
+            "fr-FR": "Lettre 2137. À Charles Ozenne",
+            "pt-BR": "Carta 2137. A Carlos Ozenne"
           }
         },
         {
           "id": "lettre-2138",
           "title": {
-            "fr-FR": "Lettre 2138. À Jean Martin"
+            "fr-FR": "Lettre 2138. À Jean Martin",
+            "pt-BR": "Carta 2138. A João Martin"
           }
         },
         {
           "id": "lettre-2139",
           "title": {
-            "fr-FR": "Lettre 2139. À Monsieur Aubert"
+            "fr-FR": "Lettre 2139. À Monsieur Aubert",
+            "pt-BR": "Carta 2139. Ao Senhor Aubert"
           }
         },
         {
           "id": "lettre-2140",
           "title": {
-            "fr-FR": "Lettre 2140. À Louis Rivet, Supérieur, à Saintes"
+            "fr-FR": "Lettre 2140. À Louis Rivet, Supérieur, à Saintes",
+            "pt-BR": "Carta 2140. A Luís Rivet, Superior, em Saintes"
           }
         },
         {
           "id": "lettre-2141",
           "title": {
-            "fr-FR": "Lettre 2141. À Monsieur Aubert"
+            "fr-FR": "Lettre 2141. À Monsieur Aubert",
+            "pt-BR": "Carta 2141. Ao Senhor Aubert"
           }
         },
         {
           "id": "lettre-2142",
           "title": {
-            "fr-FR": "Lettre 2142. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2142. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2142. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2143",
           "title": {
-            "fr-FR": "Lettre 2143. À Guillaume Delville, à Arras"
+            "fr-FR": "Lettre 2143. À Guillaume Delville, à Arras",
+            "pt-BR": "Carta 2143. A Guilherme Delville, em Arras"
           }
         },
         {
           "id": "lettre-2144",
           "title": {
-            "fr-FR": "Lettre 2144. À Donat Cruoly, Supérieur, au Mans"
+            "fr-FR": "Lettre 2144. À Donat Cruoly, Supérieur, au Mans",
+            "pt-BR": "Carta 2144. A Donato Cruoly, Superior, em Le Mans"
           }
         },
         {
           "id": "lettre-2145",
           "title": {
-            "fr-FR": "Lettre 2145. Au Père Bagot"
+            "fr-FR": "Lettre 2145. Au Père Bagot",
+            "pt-BR": "Carta 2145. Ao Padre Bagot"
           }
         },
         {
           "id": "lettre-2146",
           "title": {
-            "fr-FR": "Lettre 2146. À Edme Jolly, Supérieur, à Rome"
+            "fr-FR": "Lettre 2146. À Edme Jolly, Supérieur, à Rome",
+            "pt-BR": "Carta 2146. A Edmundo Jolly, Superior, em Roma"
           }
         },
         {
           "id": "lettre-2147",
           "title": {
-            "fr-FR": "Lettre 2147. À Jacques Desclaux, Évêque de Dax"
+            "fr-FR": "Lettre 2147. À Jacques Desclaux, Évêque de Dax",
+            "pt-BR": "Carta 2147. A Tiago Desclaux, Bispo de Dax"
           }
         },
         {
           "id": "lettre-2148",
           "title": {
-            "fr-FR": "Lettre 2148. À la Sœur Nicole Haran, Supérieure, à Nantes"
+            "fr-FR": "Lettre 2148. À la Sœur Nicole Haran, Supérieure, à Nantes",
+            "pt-BR": "Carta 2148. À Irmã Nicole Haran, Superiora, em Nantes"
           }
         },
         {
           "id": "lettre-2149",
           "title": {
-            "fr-FR": "Lettre 2149. À Charles Ozenne, Supérieur, en Pologne"
+            "fr-FR": "Lettre 2149. À Charles Ozenne, Supérieur, en Pologne",
+            "pt-BR": "Carta 2149. A Carlos Ozenne, Superior, na Polônia"
           }
         },
         {
           "id": "lettre-2150",
           "title": {
-            "fr-FR": "Lettre 2150. À Jean Martin"
+            "fr-FR": "Lettre 2150. À Jean Martin",
+            "pt-BR": "Carta 2150. A João Martin"
           }
         },
         {
           "id": "lettre-2151",
           "title": {
-            "fr-FR": "Lettre 2151. À Etienne Blatiron, Supérieur, à Gênes"
+            "fr-FR": "Lettre 2151. À Etienne Blatiron, Supérieur, à Gênes",
+            "pt-BR": "Carta 2151. A Estêvão Blatiron, Superior, em Gênova"
           }
         },
         {
           "id": "lettre-2152",
           "title": {
-            "fr-FR": "Lettre 2152. À la Sœur Marguerite Chétif, Supérieure, à Arras"
+            "fr-FR": "Lettre 2152. À la Sœur Marguerite Chétif, Supérieure, à Arras",
+            "pt-BR": "Carta 2152. À Irmã Margarida Chétif, Superiora, em Arras"
           }
         },
         {
           "id": "lettre-2153",
           "title": {
-            "fr-FR": "Lettre 2153. À Donat Cruoly, Supérieur, au Mans"
+            "fr-FR": "Lettre 2153. À Donat Cruoly, Supérieur, au Mans",
+            "pt-BR": "Carta 2153. A Donato Cruoly, Superior, em Le Mans"
           }
         },
         {
           "id": "lettre-2154",
           "title": {
-            "fr-FR": "Lettre 2154. À la Supérieure du Premier Monastère de la Visitatton de Paris"
+            "fr-FR": "Lettre 2154. À la Supérieure du Premier Monastère de la Visitatton de Paris",
+            "pt-BR": "Carta 2154. À Superiora do Primeiro Mosteiro da Visitação de Paris"
           }
         },
         {
           "id": "lettre-2155",
           "title": {
-            "fr-FR": "Lettre 2155. À Etienne Blatiron, Supérieur, à Gênes"
+            "fr-FR": "Lettre 2155. À Etienne Blatiron, Supérieur, à Gênes",
+            "pt-BR": "Carta 2155. A Estêvão Blatiron, Superior, em Gênova"
           }
         },
         {
           "id": "lettre-2156",
           "title": {
-            "fr-FR": "Lettre 2156. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2156. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2156. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2157",
           "title": {
-            "fr-FR": "Lettre 2157. À Donat Cruoly, Supérieur, au Mans"
+            "fr-FR": "Lettre 2157. À Donat Cruoly, Supérieur, au Mans",
+            "pt-BR": "Carta 2157. A Donato Cruoly, Superior, em Le Mans"
           }
         },
         {
           "id": "lettre-2158",
           "title": {
-            "fr-FR": "Lettre 2158. La Duchesse d’Aiguillon à Saint Vincent"
+            "fr-FR": "Lettre 2158. La Duchesse d’Aiguillon à Saint Vincent",
+            "pt-BR": "Carta 2158. A Duquesa de Aiguillon a São Vicente"
           }
         },
         {
           "id": "lettre-2159",
           "title": {
-            "fr-FR": "Lettre 2159. À Jean Martin, Supérieur, à Turin"
+            "fr-FR": "Lettre 2159. À Jean Martin, Supérieur, à Turin",
+            "pt-BR": "Carta 2159. A João Martin, Superior, em Turim"
           }
         },
         {
           "id": "lettre-2160",
           "title": {
-            "fr-FR": "Lettre 2160. À la Sœur Marguerite Chétif"
+            "fr-FR": "Lettre 2160. À la Sœur Marguerite Chétif",
+            "pt-BR": "Carta 2160. À Irmã Margarida Chétif"
           }
         },
         {
           "id": "lettre-2161",
           "title": {
-            "fr-FR": "Lettre 2161. À Edme Jolly, Supérieur, à Rome"
+            "fr-FR": "Lettre 2161. À Edme Jolly, Supérieur, à Rome",
+            "pt-BR": "Carta 2161. A Edmundo Jolly, Superior, em Roma"
           }
         },
         {
           "id": "lettre-2162",
           "title": {
-            "fr-FR": "Lettre 2162. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 2162. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 2162. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-2163",
           "title": {
-            "fr-FR": "Lettre 2163. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 2163. À un Prêtre de la Mission",
+            "pt-BR": "Carta 2163. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-2164",
           "title": {
-            "fr-FR": "Lettre 2164. À Jean Martin, Supérieur, à Turin"
+            "fr-FR": "Lettre 2164. À Jean Martin, Supérieur, à Turin",
+            "pt-BR": "Carta 2164. A João Martin, Superior, em Turim"
           }
         },
         {
           "id": "lettre-2165",
           "title": {
-            "fr-FR": "Lettre 2165. À Balthazar Grangier de Liverdi, Évêque de Tréguier"
+            "fr-FR": "Lettre 2165. À Balthazar Grangier de Liverdi, Évêque de Tréguier",
+            "pt-BR": "Carta 2165. A Baltasar Grangier de Liverdi, Bispo de Tréguier"
           }
         },
         {
           "id": "lettre-2166",
           "title": {
-            "fr-FR": "Lettre 2166. À Charles Ozenne"
+            "fr-FR": "Lettre 2166. À Charles Ozenne",
+            "pt-BR": "Carta 2166. A Carlos Ozenne"
           }
         },
         {
           "id": "lettre-2167",
           "title": {
-            "fr-FR": "Lettre 2167. À Edme Jolly, Supérieur, à Rome"
+            "fr-FR": "Lettre 2167. À Edme Jolly, Supérieur, à Rome",
+            "pt-BR": "Carta 2167. A Edmundo Jolly, Superior, em Roma"
           }
         },
         {
           "id": "lettre-2169",
           "title": {
-            "fr-FR": "Lettre 2169. Au Marquis de Fabert"
+            "fr-FR": "Lettre 2169. Au Marquis de Fabert",
+            "pt-BR": "Carta 2169. Ao Marquês de Fabert"
           }
         },
         {
           "id": "lettre-2170",
           "title": {
-            "fr-FR": "Lettre 2170. À Louis Serre, Supérieur, à Saint-Méen"
+            "fr-FR": "Lettre 2170. À Louis Serre, Supérieur, à Saint-Méen",
+            "pt-BR": "Carta 2170. A Luís Serre, Superior, em Saint-Méen"
           }
         },
         {
           "id": "lettre-2171",
           "title": {
-            "fr-FR": "Lettre 2171. À Donat Cruoly, Supérieur, au Mans"
+            "fr-FR": "Lettre 2171. À Donat Cruoly, Supérieur, au Mans",
+            "pt-BR": "Carta 2171. A Donato Cruoly, Superior, em Le Mans"
           }
         },
         {
           "id": "lettre-2172",
           "title": {
-            "fr-FR": "Lettre 2172. À Jean Barreau"
+            "fr-FR": "Lettre 2172. À Jean Barreau",
+            "pt-BR": "Carta 2172. A João Barreau"
           }
         },
         {
           "id": "lettre-2173",
           "title": {
-            "fr-FR": "Lettre 2173. À Louise de Marillac"
+            "fr-FR": "Lettre 2173. À Louise de Marillac",
+            "pt-BR": "Carta 2173. A Luísa de Marillac"
           }
         }
       ]
@@ -529,73 +616,85 @@
     {
       "id": "groupe-02",
       "title": {
-        "fr-FR": "Année 1656 (2e partie)"
+        "fr-FR": "Année 1656 (2e partie)",
+        "pt-BR": "Ano de 1656 (2ª parte)"
       },
       "children": [
         {
           "id": "lettre-2174",
           "title": {
-            "fr-FR": "Lettre 2174. A Etienne Blatiron, Supérieur, à Gênes"
+            "fr-FR": "Lettre 2174. A Etienne Blatiron, Supérieur, à Gênes",
+            "pt-BR": "Carta 2174. A Estêvão Blatiron, Superior, em Gênova"
           }
         },
         {
           "id": "lettre-2175",
           "title": {
-            "fr-FR": "Lettre 2175. À Jean Martin"
+            "fr-FR": "Lettre 2175. À Jean Martin",
+            "pt-BR": "Carta 2175. A João Martin"
           }
         },
         {
           "id": "lettre-2176",
           "title": {
-            "fr-FR": "Lettre 2176. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 2176. À un Prêtre de la Mission",
+            "pt-BR": "Carta 2176. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-2177",
           "title": {
-            "fr-FR": "Lettre 2177. À Donat Cruoly, Supérieur, au Mans"
+            "fr-FR": "Lettre 2177. À Donat Cruoly, Supérieur, au Mans",
+            "pt-BR": "Carta 2177. A Donato Cruoly, Superior, em Le Mans"
           }
         },
         {
           "id": "lettre-2178",
           "title": {
-            "fr-FR": "Lettre 2178. À Guillaume Delville, Prêtre de la Mission, à Arras"
+            "fr-FR": "Lettre 2178. À Guillaume Delville, Prêtre de la Mission, à Arras",
+            "pt-BR": "Carta 2178. A Guilherme Delville, Padre da Missão, em Arras"
           }
         },
         {
           "id": "lettre-2179",
           "title": {
-            "fr-FR": "Lettre 2179. À la Mère Jeanne-Françoise le Tort"
+            "fr-FR": "Lettre 2179. À la Mère Jeanne-Françoise le Tort",
+            "pt-BR": "Carta 2179. À Madre Joana Francisca le Tort"
           }
         },
         {
           "id": "lettre-2180",
           "title": {
-            "fr-FR": "Lettre 2180. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2180. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2180. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2181",
           "title": {
-            "fr-FR": "Lettre 2181. À un Frère Coadjuteur"
+            "fr-FR": "Lettre 2181. À un Frère Coadjuteur",
+            "pt-BR": "Carta 2181. A um Irmão Coadjutor"
           }
         },
         {
           "id": "lettre-2182",
           "title": {
-            "fr-FR": "Lettre 2182. À Jean Martin"
+            "fr-FR": "Lettre 2182. À Jean Martin",
+            "pt-BR": "Carta 2182. A João Martin"
           }
         },
         {
           "id": "lettre-2183",
           "title": {
-            "fr-FR": "Lettre 2183. À Donat Cruoly, Supérieur, au Nans"
+            "fr-FR": "Lettre 2183. À Donat Cruoly, Supérieur, au Nans",
+            "pt-BR": "Carta 2183. A Donato Cruoly, Superior, em Le Mans"
           }
         },
         {
           "id": "lettre-2184",
           "title": {
-            "fr-FR": "Lettre 2184. À Jean Martin"
+            "fr-FR": "Lettre 2184. À Jean Martin",
+            "pt-BR": "Carta 2184. A João Martin"
           }
         }
       ]
@@ -603,487 +702,568 @@
     {
       "id": "groupe-03",
       "title": {
-        "fr-FR": "Année 1657"
+        "fr-FR": "Année 1657",
+        "pt-BR": "Ano de 1657"
       },
       "children": [
         {
           "id": "lettre-2185",
           "title": {
-            "fr-FR": "Lettre 2185. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2185. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2185. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2186",
           "title": {
-            "fr-FR": "Lettre 2186. À Edme Jolly, Supérieur, à Rome"
+            "fr-FR": "Lettre 2186. À Edme Jolly, Supérieur, à Rome",
+            "pt-BR": "Carta 2186. A Edmundo Jolly, Superior, em Roma"
           }
         },
         {
           "id": "lettre-2187",
           "title": {
-            "fr-FR": "Lettre 2187. À Guillaume Delville, Prêtre de la Mission, à Arras"
+            "fr-FR": "Lettre 2187. À Guillaume Delville, Prêtre de la Mission, à Arras",
+            "pt-BR": "Carta 2187. A Guilherme Delville, Padre da Missão, em Arras"
           }
         },
         {
           "id": "lettre-2188",
           "title": {
-            "fr-FR": "Lettre 2188. À Jacques Chiroye, Supérieur, à Luçon"
+            "fr-FR": "Lettre 2188. À Jacques Chiroye, Supérieur, à Luçon",
+            "pt-BR": "Carta 2188. A Tiago Chiroye, Superior, em Luçon"
           }
         },
         {
           "id": "lettre-2189",
           "title": {
-            "fr-FR": "Lettre 2189. À N *"
+            "fr-FR": "Lettre 2189. À N *",
+            "pt-BR": "Carta 2189. A N *"
           }
         },
         {
           "id": "lettre-2190",
           "title": {
-            "fr-FR": "Lettre 2190. À Donat Cruoly, Supérieur, au Mans"
+            "fr-FR": "Lettre 2190. À Donat Cruoly, Supérieur, au Mans",
+            "pt-BR": "Carta 2190. A Donato Cruoly, Superior, em Le Mans"
           }
         },
         {
           "id": "lettre-2191",
           "title": {
-            "fr-FR": "Lettre 2191. À Jean Chrétien, Supérieur, à la Rose"
+            "fr-FR": "Lettre 2191. À Jean Chrétien, Supérieur, à la Rose",
+            "pt-BR": "Carta 2191. A João Chrétien, Superior, em La Rose"
           }
         },
         {
           "id": "lettre-2192",
           "title": {
-            "fr-FR": "Lettre 2192. À Charles Ozenne"
+            "fr-FR": "Lettre 2192. À Charles Ozenne",
+            "pt-BR": "Carta 2192. A Carlos Ozenne"
           }
         },
         {
           "id": "lettre-2193",
           "title": {
-            "fr-FR": "Lettre 2193. À Firmin Get"
+            "fr-FR": "Lettre 2193. À Firmin Get",
+            "pt-BR": "Carta 2193. A Firmino Get"
           }
         },
         {
           "id": "lettre-2194",
           "title": {
-            "fr-FR": "Lettre 2194. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2194. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2194. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2195",
           "title": {
-            "fr-FR": "Lettre 2195. À Jean Barreau"
+            "fr-FR": "Lettre 2195. À Jean Barreau",
+            "pt-BR": "Carta 2195. A João Barreau"
           }
         },
         {
           "id": "lettre-2196",
           "title": {
-            "fr-FR": "Lettre 2196. À Nicolas Pavillon, Évêque d’Alet"
+            "fr-FR": "Lettre 2196. À Nicolas Pavillon, Évêque d’Alet",
+            "pt-BR": "Carta 2196. A Nicolau Pavillon, Bispo de Alet"
           }
         },
         {
           "id": "lettre-2197",
           "title": {
-            "fr-FR": "Lettre 2197. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 2197. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 2197. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-2198",
           "title": {
-            "fr-FR": "Lettre 2198. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2198. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2198. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2200",
           "title": {
-            "fr-FR": "Lettre 2200. Jean Martin, à Saint Vincent"
+            "fr-FR": "Lettre 2200. Jean Martin, à Saint Vincent",
+            "pt-BR": "Carta 2200. João Martin, a São Vicente"
           }
         },
         {
           "id": "lettre-2201",
           "title": {
-            "fr-FR": "Lettre 2201. À une Dame"
+            "fr-FR": "Lettre 2201. À une Dame",
+            "pt-BR": "Carta 2201. A uma Senhora"
           }
         },
         {
           "id": "lettre-2202",
           "title": {
-            "fr-FR": "Lettre 2202. À Louis Dupont, Supérieur, à Tréguier"
+            "fr-FR": "Lettre 2202. À Louis Dupont, Supérieur, à Tréguier",
+            "pt-BR": "Carta 2202. A Luís Dupont, Superior, em Tréguier"
           }
         },
         {
           "id": "lettre-2203",
           "title": {
-            "fr-FR": "Lettre 2203. À Guillaume Delville, Prêtre de la Mission, — À Arras"
+            "fr-FR": "Lettre 2203. À Guillaume Delville, Prêtre de la Mission, — À Arras",
+            "pt-BR": "Carta 2203. A Guilherme Delville, Padre da Missão, — Em Arras"
           }
         },
         {
           "id": "lettre-2204",
           "title": {
-            "fr-FR": "Lettre 2204. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2204. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2204. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2205",
           "title": {
-            "fr-FR": "Lettre 2205. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 2205. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 2205. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-2206",
           "title": {
-            "fr-FR": "Lettre 2206. À Madame de Herse"
+            "fr-FR": "Lettre 2206. À Madame de Herse",
+            "pt-BR": "Carta 2206. À Senhora de Herse"
           }
         },
         {
           "id": "lettre-2207",
           "title": {
-            "fr-FR": "Lettre 2207. À Jean Martin"
+            "fr-FR": "Lettre 2207. À Jean Martin",
+            "pt-BR": "Carta 2207. A João Martin"
           }
         },
         {
           "id": "lettre-2208",
           "title": {
-            "fr-FR": "Lettre 2208. À Firmin Get"
+            "fr-FR": "Lettre 2208. À Firmin Get",
+            "pt-BR": "Carta 2208. A Firmino Get"
           }
         },
         {
           "id": "lettre-2209",
           "title": {
-            "fr-FR": "Lettre 2209. À Edme Jolly, Supérieur, à Rome"
+            "fr-FR": "Lettre 2209. À Edme Jolly, Supérieur, à Rome",
+            "pt-BR": "Carta 2209. A Edmundo Jolly, Superior, em Roma"
           }
         },
         {
           "id": "lettre-2210",
           "title": {
-            "fr-FR": "Lettre 2210. À Charles Ozenne"
+            "fr-FR": "Lettre 2210. À Charles Ozenne",
+            "pt-BR": "Carta 2210. A Carlos Ozenne"
           }
         },
         {
           "id": "lettre-2211",
           "title": {
-            "fr-FR": "Lettre 2211. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 2211. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 2211. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-2212",
           "title": {
-            "fr-FR": "Lettre 2212. À la Propagande"
+            "fr-FR": "Lettre 2212. À la Propagande",
+            "pt-BR": "Carta 2212. À Propaganda"
           }
         },
         {
           "id": "lettre-2213",
           "title": {
-            "fr-FR": "Lettre 2213. À Guillaume Delville, Prêtre de la Mission, à Arras"
+            "fr-FR": "Lettre 2213. À Guillaume Delville, Prêtre de la Mission, à Arras",
+            "pt-BR": "Carta 2213. A Guilherme Delville, Padre da Missão, em Arras"
           }
         },
         {
           "id": "lettre-2214",
           "title": {
-            "fr-FR": "Lettre 2214. À la Sœur Marguerite Chétif"
+            "fr-FR": "Lettre 2214. À la Sœur Marguerite Chétif",
+            "pt-BR": "Carta 2214. À Irmã Margarida Chétif"
           }
         },
         {
           "id": "lettre-2215",
           "title": {
-            "fr-FR": "Lettre 2215. Toussaint Bourdaise, Prêtre de la Mission, à Saint Vincent"
+            "fr-FR": "Lettre 2215. Toussaint Bourdaise, Prêtre de la Mission, à Saint Vincent",
+            "pt-BR": "Carta 2215. Toussaint Bourdaise, Padre da Missão, a São Vicente"
           }
         },
         {
           "id": "lettre-2216",
           "title": {
-            "fr-FR": "Lettre 2216. Toussait Bourdaise, Prêtre de la Mission, à Saint Vincent"
+            "fr-FR": "Lettre 2216. Toussait Bourdaise, Prêtre de la Mission, à Saint Vincent",
+            "pt-BR": "Carta 2216. Toussaint Bourdaise, Padre da Missão, a São Vicente"
           }
         },
         {
           "id": "lettre-2217",
           "title": {
-            "fr-FR": "Lettre 2217. À Jean-Jacques Planchamp"
+            "fr-FR": "Lettre 2217. À Jean-Jacques Planchamp",
+            "pt-BR": "Carta 2217. A João Tiago Planchamp"
           }
         },
         {
           "id": "lettre-2218",
           "title": {
-            "fr-FR": "Lettre 2218. À Jean Martin"
+            "fr-FR": "Lettre 2218. À Jean Martin",
+            "pt-BR": "Carta 2218. A João Martin"
           }
         },
         {
           "id": "lettre-2219",
           "title": {
-            "fr-FR": "Lettre 2219. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2219. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2219. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2220",
           "title": {
-            "fr-FR": "Lettre 2220. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2220. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2220. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2221",
           "title": {
-            "fr-FR": "Lettre 2221. À Jean Martin"
+            "fr-FR": "Lettre 2221. À Jean Martin",
+            "pt-BR": "Carta 2221. A João Martin"
           }
         },
         {
           "id": "lettre-2222",
           "title": {
-            "fr-FR": "Lettre 2222. À N *"
+            "fr-FR": "Lettre 2222. À N *",
+            "pt-BR": "Carta 2222. A N *"
           }
         },
         {
           "id": "lettre-2223",
           "title": {
-            "fr-FR": "Lettre 2223. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2223. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2223. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2224",
           "title": {
-            "fr-FR": "Lettre 2224. À Charles Ozenne"
+            "fr-FR": "Lettre 2224. À Charles Ozenne",
+            "pt-BR": "Carta 2224. A Carlos Ozenne"
           }
         },
         {
           "id": "lettre-2225",
           "title": {
-            "fr-FR": "Lettre 2225. À Louis Rivet, Supérieur, à Saintes"
+            "fr-FR": "Lettre 2225. À Louis Rivet, Supérieur, à Saintes",
+            "pt-BR": "Carta 2225. A Luís Rivet, Superior, em Saintes"
           }
         },
         {
           "id": "lettre-2226",
           "title": {
-            "fr-FR": "Lettre 2226. À la Duchesse d’Aiguillon"
+            "fr-FR": "Lettre 2226. À la Duchesse d’Aiguillon",
+            "pt-BR": "Carta 2226. À Duquesa de Aiguillon"
           }
         },
         {
           "id": "lettre-2227",
           "title": {
-            "fr-FR": "Lettre 2227. À la Sœur Haran, Supérieure, à Nantes"
+            "fr-FR": "Lettre 2227. À la Sœur Haran, Supérieure, à Nantes",
+            "pt-BR": "Carta 2227. À Irmã Haran, Superiora, em Nantes"
           }
         },
         {
           "id": "lettre-2228",
           "title": {
-            "fr-FR": "Lettre 2228. À Charles Ozenne"
+            "fr-FR": "Lettre 2228. À Charles Ozenne",
+            "pt-BR": "Carta 2228. A Carlos Ozenne"
           }
         },
         {
           "id": "lettre-2229",
           "title": {
-            "fr-FR": "Lettre 2229. À Firmin Get"
+            "fr-FR": "Lettre 2229. À Firmin Get",
+            "pt-BR": "Carta 2229. A Firmino Get"
           }
         },
         {
           "id": "lettre-2230",
           "title": {
-            "fr-FR": "Lettre 2230. À Monsieur de Mauroy"
+            "fr-FR": "Lettre 2230. À Monsieur de Mauroy",
+            "pt-BR": "Carta 2230. Ao Senhor de Mauroy"
           }
         },
         {
           "id": "lettre-2231",
           "title": {
-            "fr-FR": "Lettre 2231. À la Duceiesse d’Aiguillon"
+            "fr-FR": "Lettre 2231. À la Duceiesse d’Aiguillon",
+            "pt-BR": "Carta 2231. À Duquesa de Aiguillon"
           }
         },
         {
           "id": "lettre-2232",
           "title": {
-            "fr-FR": "Lettre 2232. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2232. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2232. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2233",
           "title": {
-            "fr-FR": "Lettre 2233. À Donat Cruoly, Supérieur, au Mans"
+            "fr-FR": "Lettre 2233. À Donat Cruoly, Supérieur, au Mans",
+            "pt-BR": "Carta 2233. A Donato Cruoly, Superior, em Le Mans"
           }
         },
         {
           "id": "lettre-2234",
           "title": {
-            "fr-FR": "Lettre 2234. À Firmin Get"
+            "fr-FR": "Lettre 2234. À Firmin Get",
+            "pt-BR": "Carta 2234. A Firmino Get"
           }
         },
         {
           "id": "lettre-2235",
           "title": {
-            "fr-FR": "Lettre 2235. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 2235. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 2235. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-2236",
           "title": {
-            "fr-FR": "Lettre 2236. À Jean Martin"
+            "fr-FR": "Lettre 2236. À Jean Martin",
+            "pt-BR": "Carta 2236. A João Martin"
           }
         },
         {
           "id": "lettre-2237",
           "title": {
-            "fr-FR": "Lettre 2237. À un Évêque"
+            "fr-FR": "Lettre 2237. À un Évêque",
+            "pt-BR": "Carta 2237. A um Bispo"
           }
         },
         {
           "id": "lettre-2238",
           "title": {
-            "fr-FR": "Lettre 2238. À Jean Deslyons, Doyen de Senlis"
+            "fr-FR": "Lettre 2238. À Jean Deslyons, Doyen de Senlis",
+            "pt-BR": "Carta 2238. A João Deslyons, Deão de Senlis"
           }
         },
         {
           "id": "lettre-2239",
           "title": {
-            "fr-FR": "Lettre 2239. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 2239. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 2239. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-2240",
           "title": {
-            "fr-FR": "Lettre 2240. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 2240. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 2240. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-2241",
           "title": {
-            "fr-FR": "Lettre 2241. À Louis Serre, Supérieur, à Saint-Méen"
+            "fr-FR": "Lettre 2241. À Louis Serre, Supérieur, à Saint-Méen",
+            "pt-BR": "Carta 2241. A Luís Serre, Superior, em Saint-Méen"
           }
         },
         {
           "id": "lettre-2242",
           "title": {
-            "fr-FR": "Lettre 2242. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2242. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2242. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2243",
           "title": {
-            "fr-FR": "Lettre 2243. À Edme Jolly"
+            "fr-FR": "Lettre 2243. À Edme Jolly",
+            "pt-BR": "Carta 2243. A Edmundo Jolly"
           }
         },
         {
           "id": "lettre-2244",
           "title": {
-            "fr-FR": "Lettre 2244. À Monsieur Aubert"
+            "fr-FR": "Lettre 2244. À Monsieur Aubert",
+            "pt-BR": "Carta 2244. Ao Senhor Aubert"
           }
         },
         {
           "id": "lettre-2245",
           "title": {
-            "fr-FR": "Lettre 2245. À Charles Ozenne"
+            "fr-FR": "Lettre 2245. À Charles Ozenne",
+            "pt-BR": "Carta 2245. A Carlos Ozenne"
           }
         },
         {
           "id": "lettre-2246",
           "title": {
-            "fr-FR": "Lettre 2246. À Jean Martin"
+            "fr-FR": "Lettre 2246. À Jean Martin",
+            "pt-BR": "Carta 2246. A João Martin"
           }
         },
         {
           "id": "lettre-2248",
           "title": {
-            "fr-FR": "Lettre 2248. Louis Serre, Supérieur à Saint-Méen, à Saint Vincent"
+            "fr-FR": "Lettre 2248. Louis Serre, Supérieur à Saint-Méen, à Saint Vincent",
+            "pt-BR": "Carta 2248. Luís Serre, Superior em Saint-Méen, a São Vicente"
           }
         },
         {
           "id": "lettre-2249",
           "title": {
-            "fr-FR": "Lettre 2249. À Charles Ozenne"
+            "fr-FR": "Lettre 2249. À Charles Ozenne",
+            "pt-BR": "Carta 2249. A Carlos Ozenne"
           }
         },
         {
           "id": "lettre-2250",
           "title": {
-            "fr-FR": "Lettre 2250. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2250. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2250. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2251",
           "title": {
-            "fr-FR": "Lettre 2251. Edme Jolly, Supérieur, à Rome"
+            "fr-FR": "Lettre 2251. Edme Jolly, Supérieur, à Rome",
+            "pt-BR": "Carta 2251. Edmundo Jolly, Superior, em Roma"
           }
         },
         {
           "id": "lettre-2252",
           "title": {
-            "fr-FR": "Lettre 2252. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 2252. À un Prêtre de la Mission",
+            "pt-BR": "Carta 2252. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-2253",
           "title": {
-            "fr-FR": "Lettre 2253. À Charles Ozenne"
+            "fr-FR": "Lettre 2253. À Charles Ozenne",
+            "pt-BR": "Carta 2253. A Carlos Ozenne"
           }
         },
         {
           "id": "lettre-2254",
           "title": {
-            "fr-FR": "Lettre 2254. À Guillaume Delville, Prêtre de la Mission, à Arras"
+            "fr-FR": "Lettre 2254. À Guillaume Delville, Prêtre de la Mission, à Arras",
+            "pt-BR": "Carta 2254. A Guilherme Delville, Padre da Missão, em Arras"
           }
         },
         {
           "id": "lettre-2255",
           "title": {
-            "fr-FR": "Lettre 2255. — à Jean Martin"
+            "fr-FR": "Lettre 2255. — à Jean Martin",
+            "pt-BR": "Carta 2255. — a João Martin"
           }
         },
         {
           "id": "lettre-2256",
           "title": {
-            "fr-FR": "Lettre 2256. Monsieur Horcholle"
+            "fr-FR": "Lettre 2256. Monsieur Horcholle",
+            "pt-BR": "Carta 2256. Senhor Horcholle"
           }
         },
         {
           "id": "lettre-2257",
           "title": {
-            "fr-FR": "Lettre 2257. À Madenoiselle de Vervin"
+            "fr-FR": "Lettre 2257. À Madenoiselle de Vervin",
+            "pt-BR": "Carta 2257. À Senhorita de Vervin"
           }
         },
         {
           "id": "lettre-2258",
           "title": {
-            "fr-FR": "Lettre 2258. À Nicolas Guillot, Supérieur, à Montmirail"
+            "fr-FR": "Lettre 2258. À Nicolas Guillot, Supérieur, à Montmirail",
+            "pt-BR": "Carta 2258. A Nicolau Guillot, Superior, em Montmirail"
           }
         },
         {
           "id": "lettre-2259",
           "title": {
-            "fr-FR": "Lettre 2259. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 2259. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 2259. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-2260",
           "title": {
-            "fr-FR": "Lettre 2260. À Antoine Durand, Supérieur, à Agde"
+            "fr-FR": "Lettre 2260. À Antoine Durand, Supérieur, à Agde",
+            "pt-BR": "Carta 2260. A Antônio Durand, Superior, em Agde"
           }
         },
         {
           "id": "lettre-2261",
           "title": {
-            "fr-FR": "Lettre 2261. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2261. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2261. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2262",
           "title": {
-            "fr-FR": "Lettre 2262. À Louis Rivet, Supérieur, à Saintes"
+            "fr-FR": "Lettre 2262. À Louis Rivet, Supérieur, à Saintes",
+            "pt-BR": "Carta 2262. A Luís Rivet, Superior, em Saintes"
           }
         },
         {
           "id": "lettre-2263",
           "title": {
-            "fr-FR": "Lettre 2263. À Philippe-Emmanuel de Gondi"
+            "fr-FR": "Lettre 2263. À Philippe-Emmanuel de Gondi",
+            "pt-BR": "Carta 2263. A Filipe Emanuel de Gondi"
           }
         },
         {
           "id": "lettre-2264",
           "title": {
-            "fr-FR": "Lettre 2264. À Edme Jolly, Supérieur, à Rome"
+            "fr-FR": "Lettre 2264. À Edme Jolly, Supérieur, à Rome",
+            "pt-BR": "Carta 2264. A Edmundo Jolly, Superior, em Roma"
           }
         },
         {
           "id": "lettre-2265",
           "title": {
-            "fr-FR": "Lettre 2265. À Guillaume Desdames"
+            "fr-FR": "Lettre 2265. À Guillaume Desdames",
+            "pt-BR": "Carta 2265. A Guilherme Desdames"
           }
         },
         {
           "id": "lettre-2266",
           "title": {
-            "fr-FR": "Lettre 2266. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2266. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2266. A Firmino Get, Superior, em Marselha"
           }
         }
       ]
@@ -1091,487 +1271,568 @@
     {
       "id": "groupe-04",
       "title": {
-        "fr-FR": "Année 1657 (2e partie)"
+        "fr-FR": "Année 1657 (2e partie)",
+        "pt-BR": "Ano de 1657 (2ª parte)"
       },
       "children": [
         {
           "id": "lettre-2267",
           "title": {
-            "fr-FR": "Lettre 2267. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2267. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2267. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2268",
           "title": {
-            "fr-FR": "Lettre 2268. Au Cardinal Nicolas Bagni, à Rome"
+            "fr-FR": "Lettre 2268. Au Cardinal Nicolas Bagni, à Rome",
+            "pt-BR": "Carta 2268. Ao Cardeal Nicolau Bagni, em Roma"
           }
         },
         {
           "id": "lettre-2269",
           "title": {
-            "fr-FR": "Lettre 2269. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 2269. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 2269. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-2270",
           "title": {
-            "fr-FR": "Lettre 2270. La Duchesse d’Aiguillon à Saint Vincent"
+            "fr-FR": "Lettre 2270. La Duchesse d’Aiguillon à Saint Vincent",
+            "pt-BR": "Carta 2270. A Duquesa de Aiguillon a São Vicente"
           }
         },
         {
           "id": "lettre-2271",
           "title": {
-            "fr-FR": "Lettre 2271. À Charles Ozenne, Supérieur, à Opole"
+            "fr-FR": "Lettre 2271. À Charles Ozenne, Supérieur, à Opole",
+            "pt-BR": "Carta 2271. A Carlos Ozenne, Superior, em Opole"
           }
         },
         {
           "id": "lettre-2272",
           "title": {
-            "fr-FR": "Lettre 2272. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2272. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2272. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2273",
           "title": {
-            "fr-FR": "Lettre 2273. À Jean Martin, Supérieur, à Turin"
+            "fr-FR": "Lettre 2273. À Jean Martin, Supérieur, à Turin",
+            "pt-BR": "Carta 2273. A João Martin, Superior, em Turim"
           }
         },
         {
           "id": "lettre-2274",
           "title": {
-            "fr-FR": "Lettre 2274. À Achille le Vazeux, Supérieur, à Annecy"
+            "fr-FR": "Lettre 2274. À Achille le Vazeux, Supérieur, à Annecy",
+            "pt-BR": "Carta 2274. A Aquiles le Vazeux, Superior, em Annecy"
           }
         },
         {
           "id": "lettre-2275",
           "title": {
-            "fr-FR": "Lettre 2275. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2275. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2275. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2276",
           "title": {
-            "fr-FR": "Lettre 2276. À Nicolas Duperroy"
+            "fr-FR": "Lettre 2276. À Nicolas Duperroy",
+            "pt-BR": "Carta 2276. A Nicolau Duperroy"
           }
         },
         {
           "id": "lettre-2277",
           "title": {
-            "fr-FR": "Lettre 2277. Jean Martin, Supérieur à Turin, à Saint Vincent"
+            "fr-FR": "Lettre 2277. Jean Martin, Supérieur à Turin, à Saint Vincent",
+            "pt-BR": "Carta 2277. João Martin, Superior em Turim, a São Vicente"
           }
         },
         {
           "id": "lettre-2279",
           "title": {
-            "fr-FR": "Lettre 2279. À Firmin Get"
+            "fr-FR": "Lettre 2279. À Firmin Get",
+            "pt-BR": "Carta 2279. A Firmino Get"
           }
         },
         {
           "id": "lettre-2280",
           "title": {
-            "fr-FR": "Lettre 2280. Sœur Toussaint David à Saint Vincent"
+            "fr-FR": "Lettre 2280. Sœur Toussaint David à Saint Vincent",
+            "pt-BR": "Carta 2280. Irmã Toussaint David a São Vicente"
           }
         },
         {
           "id": "lettre-2282",
           "title": {
-            "fr-FR": "Lettre 2282. À Louise de Marillac"
+            "fr-FR": "Lettre 2282. À Louise de Marillac",
+            "pt-BR": "Carta 2282. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-2283",
           "title": {
-            "fr-FR": "Lettre 2283. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 2283. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 2283. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-2284",
           "title": {
-            "fr-FR": "Lettre 2284. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2284. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2284. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2286",
           "title": {
-            "fr-FR": "Lettre 2286. À Jean Barreau, Consul, à Alger"
+            "fr-FR": "Lettre 2286. À Jean Barreau, Consul, à Alger",
+            "pt-BR": "Carta 2286. A João Barreau, Cônsul, em Argel"
           }
         },
         {
           "id": "lettre-2287",
           "title": {
-            "fr-FR": "Lettre 2287. À Charles Ozenne"
+            "fr-FR": "Lettre 2287. À Charles Ozenne",
+            "pt-BR": "Carta 2287. A Carlos Ozenne"
           }
         },
         {
           "id": "lettre-2288",
           "title": {
-            "fr-FR": "Lettre 2288. À Guillaume Desdames"
+            "fr-FR": "Lettre 2288. À Guillaume Desdames",
+            "pt-BR": "Carta 2288. A Guilherme Desdames"
           }
         },
         {
           "id": "lettre-2289",
           "title": {
-            "fr-FR": "Lettre 2289. À Edme Jolly, Supérieur, à Rome"
+            "fr-FR": "Lettre 2289. À Edme Jolly, Supérieur, à Rome",
+            "pt-BR": "Carta 2289. A Edmundo Jolly, Superior, em Roma"
           }
         },
         {
           "id": "lettre-2290",
           "title": {
-            "fr-FR": "Lettre 2290. À Jean Martin, Supérieur, à Turin"
+            "fr-FR": "Lettre 2290. À Jean Martin, Supérieur, à Turin",
+            "pt-BR": "Carta 2290. A João Martin, Superior, em Turim"
           }
         },
         {
           "id": "lettre-2291",
           "title": {
-            "fr-FR": "Lettre 2291. À Firmin Get"
+            "fr-FR": "Lettre 2291. À Firmin Get",
+            "pt-BR": "Carta 2291. A Firmino Get"
           }
         },
         {
           "id": "lettre-2292",
           "title": {
-            "fr-FR": "Lettre 2292. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2292. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2292. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2293",
           "title": {
-            "fr-FR": "Lettre 2293. À Louis Rivet, Supérieur, à Saintes"
+            "fr-FR": "Lettre 2293. À Louis Rivet, Supérieur, à Saintes",
+            "pt-BR": "Carta 2293. A Luís Rivet, Superior, em Saintes"
           }
         },
         {
           "id": "lettre-2294",
           "title": {
-            "fr-FR": "Lettre 2294. À Dominique Lhuillier"
+            "fr-FR": "Lettre 2294. À Dominique Lhuillier",
+            "pt-BR": "Carta 2294. A Domingos Lhuillier"
           }
         },
         {
           "id": "lettre-2295",
           "title": {
-            "fr-FR": "Lettre 2295. À Edme Barry, Supérieur, à N.-D. de Lorm"
+            "fr-FR": "Lettre 2295. À Edme Barry, Supérieur, à N.-D. de Lorm",
+            "pt-BR": "Carta 2295. A Edmundo Barry, Superior, em N.-D. de Lorm"
           }
         },
         {
           "id": "lettre-2296",
           "title": {
-            "fr-FR": "Lettre 2296. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2296. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2296. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2297",
           "title": {
-            "fr-FR": "Lettre 2297. À Nicolas Duperroy, Prêtre de la Mission, en Pologne"
+            "fr-FR": "Lettre 2297. À Nicolas Duperroy, Prêtre de la Mission, en Pologne",
+            "pt-BR": "Carta 2297. A Nicolau Duperroy, Padre da Missão, na Polônia"
           }
         },
         {
           "id": "lettre-2298",
           "title": {
-            "fr-FR": "Lettre 2298. À Charles Ozenne, Supérieur, en Pologne"
+            "fr-FR": "Lettre 2298. À Charles Ozenne, Supérieur, en Pologne",
+            "pt-BR": "Carta 2298. A Carlos Ozenne, Superior, na Polônia"
           }
         },
         {
           "id": "lettre-2299",
           "title": {
-            "fr-FR": "Lettre 2299. À Edme Jolly, Supérieur, à Rome"
+            "fr-FR": "Lettre 2299. À Edme Jolly, Supérieur, à Rome",
+            "pt-BR": "Carta 2299. A Edmundo Jolly, Superior, em Roma"
           }
         },
         {
           "id": "lettre-2300",
           "title": {
-            "fr-FR": "Lettre 2300. À Nicolas Demonchy"
+            "fr-FR": "Lettre 2300. À Nicolas Demonchy",
+            "pt-BR": "Carta 2300. A Nicolau Demonchy"
           }
         },
         {
           "id": "lettre-2301",
           "title": {
-            "fr-FR": "Lettre 2301. À Pierre Gabel"
+            "fr-FR": "Lettre 2301. À Pierre Gabel",
+            "pt-BR": "Carta 2301. A Pedro Gabel"
           }
         },
         {
           "id": "lettre-2302",
           "title": {
-            "fr-FR": "Lettre 2302. À Edme Menestrier, Supérieur, à Agen"
+            "fr-FR": "Lettre 2302. À Edme Menestrier, Supérieur, à Agen",
+            "pt-BR": "Carta 2302. A Edmundo Menestrier, Superior, em Agen"
           }
         },
         {
           "id": "lettre-2303",
           "title": {
-            "fr-FR": "Lettre 2303. À N *"
+            "fr-FR": "Lettre 2303. À N *",
+            "pt-BR": "Carta 2303. A N *"
           }
         },
         {
           "id": "lettre-2304",
           "title": {
-            "fr-FR": "Lettre 2304. À Firmin Get"
+            "fr-FR": "Lettre 2304. À Firmin Get",
+            "pt-BR": "Carta 2304. A Firmino Get"
           }
         },
         {
           "id": "lettre-2305",
           "title": {
-            "fr-FR": "Lettre 2305. À Edme Jolly"
+            "fr-FR": "Lettre 2305. À Edme Jolly",
+            "pt-BR": "Carta 2305. A Edmundo Jolly"
           }
         },
         {
           "id": "lettre-2306",
           "title": {
-            "fr-FR": "Lettre 2306. À Nicolas Duport, Prêtre de la Mission, à Gênes"
+            "fr-FR": "Lettre 2306. À Nicolas Duport, Prêtre de la Mission, à Gênes",
+            "pt-BR": "Carta 2306. A Nicolau Duport, Padre da Missão, em Gênova"
           }
         },
         {
           "id": "lettre-2307",
           "title": {
-            "fr-FR": "Lettre 2307. À Gilles Buhot"
+            "fr-FR": "Lettre 2307. À Gilles Buhot",
+            "pt-BR": "Carta 2307. A Gil Buhot"
           }
         },
         {
           "id": "lettre-2308",
           "title": {
-            "fr-FR": "Lettre 2308. À Donat Cruoly, Supérieur, au Mans"
+            "fr-FR": "Lettre 2308. À Donat Cruoly, Supérieur, au Mans",
+            "pt-BR": "Carta 2308. A Donato Cruoly, Superior, em Le Mans"
           }
         },
         {
           "id": "lettre-2309",
           "title": {
-            "fr-FR": "Lettre 2309. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 2309. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 2309. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-2310",
           "title": {
-            "fr-FR": "Lettre 2310. À Edme Barry, Supérieur, à N.-D. De-Lorm"
+            "fr-FR": "Lettre 2310. À Edme Barry, Supérieur, à N.-D. De-Lorm",
+            "pt-BR": "Carta 2310. A Edmundo Barry, Superior, em N.-D. De-Lorm"
           }
         },
         {
           "id": "lettre-2311",
           "title": {
-            "fr-FR": "Lettre 2311. À Louis Dupont, Supérieur, à Tréguier"
+            "fr-FR": "Lettre 2311. À Louis Dupont, Supérieur, à Tréguier",
+            "pt-BR": "Carta 2311. A Luís Dupont, Superior, em Tréguier"
           }
         },
         {
           "id": "lettre-2312",
           "title": {
-            "fr-FR": "Lettre 2312. À N *"
+            "fr-FR": "Lettre 2312. À N *",
+            "pt-BR": "Carta 2312. A N *"
           }
         },
         {
           "id": "lettre-2313",
           "title": {
-            "fr-FR": "Lettre 2313. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2313. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2313. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2314",
           "title": {
-            "fr-FR": "Lettre 2314. À Charles Ozenne, Supérieur, à Opole"
+            "fr-FR": "Lettre 2314. À Charles Ozenne, Supérieur, à Opole",
+            "pt-BR": "Carta 2314. A Carlos Ozenne, Superior, em Opole"
           }
         },
         {
           "id": "lettre-2315",
           "title": {
-            "fr-FR": "Lettre 2315. À Edme Jolly"
+            "fr-FR": "Lettre 2315. À Edme Jolly",
+            "pt-BR": "Carta 2315. A Edmundo Jolly"
           }
         },
         {
           "id": "lettre-2316",
           "title": {
-            "fr-FR": "Lettre 2316. Au Frère Jean Parre"
+            "fr-FR": "Lettre 2316. Au Frère Jean Parre",
+            "pt-BR": "Carta 2316. Ao Irmão João Parre"
           }
         },
         {
           "id": "lettre-2317",
           "title": {
-            "fr-FR": "Lettre 2317. À François Caulet, Évêque de Pamiers"
+            "fr-FR": "Lettre 2317. À François Caulet, Évêque de Pamiers",
+            "pt-BR": "Carta 2317. A Francisco Caulet, Bispo de Pamiers"
           }
         },
         {
           "id": "lettre-2318",
           "title": {
-            "fr-FR": "Lettre 2318. À Pierre Cabel, Prêtre de la Mission, à Sedan"
+            "fr-FR": "Lettre 2318. À Pierre Cabel, Prêtre de la Mission, à Sedan",
+            "pt-BR": "Carta 2318. A Pedro Cabel, Padre da Missão, em Sedan"
           }
         },
         {
           "id": "lettre-2320",
           "title": {
-            "fr-FR": "Lettre 2320. À Charles Ozenne"
+            "fr-FR": "Lettre 2320. À Charles Ozenne",
+            "pt-BR": "Carta 2320. A Carlos Ozenne"
           }
         },
         {
           "id": "lettre-2321",
           "title": {
-            "fr-FR": "Lettre 2321. À Nicolas Duport, Prêtre de la Mission, à Gênes"
+            "fr-FR": "Lettre 2321. À Nicolas Duport, Prêtre de la Mission, à Gênes",
+            "pt-BR": "Carta 2321. A Nicolau Duport, Padre da Missão, em Gênova"
           }
         },
         {
           "id": "lettre-2322",
           "title": {
-            "fr-FR": "Lettre 2322. A Etienne Blatiron, Supérieur, à Gênes,"
+            "fr-FR": "Lettre 2322. A Etienne Blatiron, Supérieur, à Gênes,",
+            "pt-BR": "Carta 2322. A Estêvão Blatiron, Superior, em Gênova,"
           }
         },
         {
           "id": "lettre-2323",
           "title": {
-            "fr-FR": "Lettre 2323. Au Frère Jean Parre"
+            "fr-FR": "Lettre 2323. Au Frère Jean Parre",
+            "pt-BR": "Carta 2323. Ao Irmão João Parre"
           }
         },
         {
           "id": "lettre-2324",
           "title": {
-            "fr-FR": "Lettre 2324. À Louis Rivet, Supérieur, à Saintes"
+            "fr-FR": "Lettre 2324. À Louis Rivet, Supérieur, à Saintes",
+            "pt-BR": "Carta 2324. A Luís Rivet, Superior, em Saintes"
           }
         },
         {
           "id": "lettre-2325",
           "title": {
-            "fr-FR": "Lettre 2325. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 2325. À un Prêtre de la Mission",
+            "pt-BR": "Carta 2325. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-2326",
           "title": {
-            "fr-FR": "Lettre 2326. À Edme Jolly, Supérieur, à Rome"
+            "fr-FR": "Lettre 2326. À Edme Jolly, Supérieur, à Rome",
+            "pt-BR": "Carta 2326. A Edmundo Jolly, Superior, em Roma"
           }
         },
         {
           "id": "lettre-2327",
           "title": {
-            "fr-FR": "Lettre 2327. A Etienne Blatiron, Supérieur, à Gênes"
+            "fr-FR": "Lettre 2327. A Etienne Blatiron, Supérieur, à Gênes",
+            "pt-BR": "Carta 2327. A Estêvão Blatiron, Superior, em Gênova"
           }
         },
         {
           "id": "lettre-2328",
           "title": {
-            "fr-FR": "Lettre 2328. À Pierre Cabel"
+            "fr-FR": "Lettre 2328. À Pierre Cabel",
+            "pt-BR": "Carta 2328. A Pedro Cabel"
           }
         },
         {
           "id": "lettre-2329",
           "title": {
-            "fr-FR": "Lettre 2329. À Jean d’Aranthon d’Alex"
+            "fr-FR": "Lettre 2329. À Jean d’Aranthon d’Alex",
+            "pt-BR": "Carta 2329. A João d’Aranthon d’Alex"
           }
         },
         {
           "id": "lettre-2330",
           "title": {
-            "fr-FR": "Lettre 2330. À Honoré Bélart"
+            "fr-FR": "Lettre 2330. À Honoré Bélart",
+            "pt-BR": "Carta 2330. A Honorato Bélart"
           }
         },
         {
           "id": "lettre-2331",
           "title": {
-            "fr-FR": "Lettre 2331. À Monsieur Avril"
+            "fr-FR": "Lettre 2331. À Monsieur Avril",
+            "pt-BR": "Carta 2331. Ao Senhor Avril"
           }
         },
         {
           "id": "lettre-2332",
           "title": {
-            "fr-FR": "Lettre 2332. À Henri Arnauld, Évêque d’Angers"
+            "fr-FR": "Lettre 2332. À Henri Arnauld, Évêque d’Angers",
+            "pt-BR": "Carta 2332. A Henrique Arnauld, Bispo de Angers"
           }
         },
         {
           "id": "lettre-2333",
           "title": {
-            "fr-FR": "Lettre 2333. À Edme Jolly"
+            "fr-FR": "Lettre 2333. À Edme Jolly",
+            "pt-BR": "Carta 2333. A Edmundo Jolly"
           }
         },
         {
           "id": "lettre-2334",
           "title": {
-            "fr-FR": "Lettre 2334. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 2334. À un Prêtre de la Mission",
+            "pt-BR": "Carta 2334. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-2335",
           "title": {
-            "fr-FR": "Lettre 2335. Au Frère Jean Parre"
+            "fr-FR": "Lettre 2335. Au Frère Jean Parre",
+            "pt-BR": "Carta 2335. Ao Irmão João Parre"
           }
         },
         {
           "id": "lettre-2336",
           "title": {
-            "fr-FR": "Lettre 2336. Jean Martin à Saint Vincent"
+            "fr-FR": "Lettre 2336. Jean Martin à Saint Vincent",
+            "pt-BR": "Carta 2336. João Martin a São Vicente"
           }
         },
         {
           "id": "lettre-2337",
           "title": {
-            "fr-FR": "Lettre 2337. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 2337. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 2337. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-2338",
           "title": {
-            "fr-FR": "Lettre 2338. À Firmin Get"
+            "fr-FR": "Lettre 2338. À Firmin Get",
+            "pt-BR": "Carta 2338. A Firmino Get"
           }
         },
         {
           "id": "lettre-2339",
           "title": {
-            "fr-FR": "Lettre 2339. - à Edme Jolly"
+            "fr-FR": "Lettre 2339. - à Edme Jolly",
+            "pt-BR": "Carta 2339. - a Edmundo Jolly"
           }
         },
         {
           "id": "lettre-2340",
           "title": {
-            "fr-FR": "Lettre 2340. À Donat Cruoly, Supérieur, au Mans"
+            "fr-FR": "Lettre 2340. À Donat Cruoly, Supérieur, au Mans",
+            "pt-BR": "Carta 2340. A Donato Cruoly, Superior, em Le Mans"
           }
         },
         {
           "id": "lettre-2341",
           "title": {
-            "fr-FR": "Lettre 2341. Au Frère Jean Parre"
+            "fr-FR": "Lettre 2341. Au Frère Jean Parre",
+            "pt-BR": "Carta 2341. Ao Irmão João Parre"
           }
         },
         {
           "id": "lettre-2342",
           "title": {
-            "fr-FR": "Lettre 2342. À Guillaume Delville, Prêtre de la Mission, à Arras"
+            "fr-FR": "Lettre 2342. À Guillaume Delville, Prêtre de la Mission, à Arras",
+            "pt-BR": "Carta 2342. A Guilherme Delville, Padre da Missão, em Arras"
           }
         },
         {
           "id": "lettre-2343",
           "title": {
-            "fr-FR": "Lettre 2343. À Barbe Angiboust, Fille de la Charité, à Châteaudun"
+            "fr-FR": "Lettre 2343. À Barbe Angiboust, Fille de la Charité, à Châteaudun",
+            "pt-BR": "Carta 2343. A Bárbara Angiboust, Filha da Caridade, em Châteaudun"
           }
         },
         {
           "id": "lettre-2344",
           "title": {
-            "fr-FR": "Lettre 2344. À la Mère Elisabeth de Maupeou Supérieure du Premier Monastère de la Visitation"
+            "fr-FR": "Lettre 2344. À la Mère Elisabeth de Maupeou Supérieure du Premier Monastère de la Visitation",
+            "pt-BR": "Carta 2344. À Madre Isabel de Maupeou Superiora do Primeiro Mosteiro da Visitação"
           }
         },
         {
           "id": "lettre-2345",
           "title": {
-            "fr-FR": "Lettre 2345. À Nicolas Demonchy"
+            "fr-FR": "Lettre 2345. À Nicolas Demonchy",
+            "pt-BR": "Carta 2345. A Nicolau Demonchy"
           }
         },
         {
           "id": "lettre-2346",
           "title": {
-            "fr-FR": "Lettre 2346. À Nicolas Duperroy"
+            "fr-FR": "Lettre 2346. À Nicolas Duperroy",
+            "pt-BR": "Carta 2346. A Nicolau Duperroy"
           }
         },
         {
           "id": "lettre-2347",
           "title": {
-            "fr-FR": "Lettre 2347. À Edme Jolly"
+            "fr-FR": "Lettre 2347. À Edme Jolly",
+            "pt-BR": "Carta 2347. A Edmundo Jolly"
           }
         },
         {
           "id": "lettre-2348",
           "title": {
-            "fr-FR": "Lettre 2348. À Firmin Get"
+            "fr-FR": "Lettre 2348. À Firmin Get",
+            "pt-BR": "Carta 2348. A Firmino Get"
           }
         },
         {
           "id": "lettre-2349",
           "title": {
-            "fr-FR": "Lettre 2349. À Jean Martin"
+            "fr-FR": "Lettre 2349. À Jean Martin",
+            "pt-BR": "Carta 2349. A João Martin"
           }
         },
         {
           "id": "lettre-2350",
           "title": {
-            "fr-FR": "Lettre 2350. À Etienne Blatiron, Supérieur, à Gênes"
+            "fr-FR": "Lettre 2350. À Etienne Blatiron, Supérieur, à Gênes",
+            "pt-BR": "Carta 2350. A Estêvão Blatiron, Superior, em Gênova"
           }
         }
       ]
@@ -1579,487 +1840,568 @@
     {
       "id": "groupe-05",
       "title": {
-        "fr-FR": "Année 1657 (3e partie)"
+        "fr-FR": "Année 1657 (3e partie)",
+        "pt-BR": "Ano de 1657 (3ª parte)"
       },
       "children": [
         {
           "id": "lettre-2351",
           "title": {
-            "fr-FR": "Lettre 2351. Au Frère Jean Parre"
+            "fr-FR": "Lettre 2351. Au Frère Jean Parre",
+            "pt-BR": "Carta 2351. Ao Irmão João Parre"
           }
         },
         {
           "id": "lettre-2352",
           "title": {
-            "fr-FR": "Lettre 2352. À Jacques Chiroye"
+            "fr-FR": "Lettre 2352. À Jacques Chiroye",
+            "pt-BR": "Carta 2352. A Tiago Chiroye"
           }
         },
         {
           "id": "lettre-2353",
           "title": {
-            "fr-FR": "Lettre 2353. À Edme Menestrier"
+            "fr-FR": "Lettre 2353. À Edme Menestrier",
+            "pt-BR": "Carta 2353. A Edmundo Menestrier"
           }
         },
         {
           "id": "lettre-2354",
           "title": {
-            "fr-FR": "Lettre 2354. À Louis Rivet, Supérieur, à Saintes"
+            "fr-FR": "Lettre 2354. À Louis Rivet, Supérieur, à Saintes",
+            "pt-BR": "Carta 2354. A Luís Rivet, Superior, em Saintes"
           }
         },
         {
           "id": "lettre-2355",
           "title": {
-            "fr-FR": "Lettre 2355. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2355. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2355. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2356",
           "title": {
-            "fr-FR": "Lettre 2356. À Jacques Pesnelle"
+            "fr-FR": "Lettre 2356. À Jacques Pesnelle",
+            "pt-BR": "Carta 2356. A Tiago Pesnelle"
           }
         },
         {
           "id": "lettre-2357",
           "title": {
-            "fr-FR": "Lettre 2357. À Edme Jolly, Supérieur, à Rome"
+            "fr-FR": "Lettre 2357. À Edme Jolly, Supérieur, à Rome",
+            "pt-BR": "Carta 2357. A Edmundo Jolly, Superior, em Roma"
           }
         },
         {
           "id": "lettre-2358",
           "title": {
-            "fr-FR": "Lettre 2358. À Etienne Blatiron, Supérieur, à Gênes"
+            "fr-FR": "Lettre 2358. À Etienne Blatiron, Supérieur, à Gênes",
+            "pt-BR": "Carta 2358. A Estêvão Blatiron, Superior, em Gênova"
           }
         },
         {
           "id": "lettre-2359",
           "title": {
-            "fr-FR": "Lettre 2359. Au Frère Jean Parre"
+            "fr-FR": "Lettre 2359. Au Frère Jean Parre",
+            "pt-BR": "Carta 2359. Ao Irmão João Parre"
           }
         },
         {
           "id": "lettre-2363",
           "title": {
-            "fr-FR": "Lettre 2363. À Henri Arnauld, Évêque d’Angers"
+            "fr-FR": "Lettre 2363. À Henri Arnauld, Évêque d’Angers",
+            "pt-BR": "Carta 2363. A Henrique Arnauld, Bispo de Angers"
           }
         },
         {
           "id": "lettre-2364",
           "title": {
-            "fr-FR": "Lettre 2364. À Gérard Brin, Supérieur, à Meaux"
+            "fr-FR": "Lettre 2364. À Gérard Brin, Supérieur, à Meaux",
+            "pt-BR": "Carta 2364. A Geraldo Brin, Superior, em Meaux"
           }
         },
         {
           "id": "lettre-2365",
           "title": {
-            "fr-FR": "Lettre 2365. À Edme Jolly, Supérieur, à Rome"
+            "fr-FR": "Lettre 2365. À Edme Jolly, Supérieur, à Rome",
+            "pt-BR": "Carta 2365. A Edmundo Jolly, Superior, em Roma"
           }
         },
         {
           "id": "lettre-2366",
           "title": {
-            "fr-FR": "Lettre 2366. À Etienne Blatiron, Supérieur, à Gênes"
+            "fr-FR": "Lettre 2366. À Etienne Blatiron, Supérieur, à Gênes",
+            "pt-BR": "Carta 2366. A Estêvão Blatiron, Superior, em Gênova"
           }
         },
         {
           "id": "lettre-2367",
           "title": {
-            "fr-FR": "Lettre 2367. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 2367. À un Prêtre de la Mission",
+            "pt-BR": "Carta 2367. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-2368",
           "title": {
-            "fr-FR": "Lettre 2368. À Charles Ozenne"
+            "fr-FR": "Lettre 2368. À Charles Ozenne",
+            "pt-BR": "Carta 2368. A Carlos Ozenne"
           }
         },
         {
           "id": "lettre-2369",
           "title": {
-            "fr-FR": "Lettre 2369. À Firmin Get, Supérieur. à Marseille"
+            "fr-FR": "Lettre 2369. À Firmin Get, Supérieur. à Marseille",
+            "pt-BR": "Carta 2369. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2370",
           "title": {
-            "fr-FR": "Lettre 2370. Au Frère Jean Parre"
+            "fr-FR": "Lettre 2370. Au Frère Jean Parre",
+            "pt-BR": "Carta 2370. Ao Irmão João Parre"
           }
         },
         {
           "id": "lettre-2371",
           "title": {
-            "fr-FR": "Lettre 2371. À Pierre de Beaumont, Supérieur, à Richelieu"
+            "fr-FR": "Lettre 2371. À Pierre de Beaumont, Supérieur, à Richelieu",
+            "pt-BR": "Carta 2371. A Pedro de Beaumont, Superior, em Richelieu"
           }
         },
         {
           "id": "lettre-2372",
           "title": {
-            "fr-FR": "Lettre 2372. À Edme Menestrier"
+            "fr-FR": "Lettre 2372. À Edme Menestrier",
+            "pt-BR": "Carta 2372. A Edmundo Menestrier"
           }
         },
         {
           "id": "lettre-2373",
           "title": {
-            "fr-FR": "Lettre 2373. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 2373. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 2373. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-2375",
           "title": {
-            "fr-FR": "Lettre 2375. À Edme Barry, Supérieur, à N.-D.-de-Lorm"
+            "fr-FR": "Lettre 2375. À Edme Barry, Supérieur, à N.-D.-de-Lorm",
+            "pt-BR": "Carta 2375. A Edmundo Barry, Superior, em N.-D.-de-Lorm"
           }
         },
         {
           "id": "lettre-2376",
           "title": {
-            "fr-FR": "Lettre 2376. Au Frère Jean Barreau"
+            "fr-FR": "Lettre 2376. Au Frère Jean Barreau",
+            "pt-BR": "Carta 2376. Ao Irmão João Barreau"
           }
         },
         {
           "id": "lettre-2377",
           "title": {
-            "fr-FR": "Lettre 2377. À Edme Jolly, Supérieur, à Rome"
+            "fr-FR": "Lettre 2377. À Edme Jolly, Supérieur, à Rome",
+            "pt-BR": "Carta 2377. A Edmundo Jolly, Superior, em Roma"
           }
         },
         {
           "id": "lettre-2378",
           "title": {
-            "fr-FR": "Lettre 2378. À Jean Martin"
+            "fr-FR": "Lettre 2378. À Jean Martin",
+            "pt-BR": "Carta 2378. A João Martin"
           }
         },
         {
           "id": "lettre-2379",
           "title": {
-            "fr-FR": "Lettre 2379. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2379. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2379. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2380",
           "title": {
-            "fr-FR": "Lettre 2380. À Pierre Cabel, Prêtre de la Mission, à Sedan"
+            "fr-FR": "Lettre 2380. À Pierre Cabel, Prêtre de la Mission, à Sedan",
+            "pt-BR": "Carta 2380. A Pedro Cabel, Padre da Missão, em Sedan"
           }
         },
         {
           "id": "lettre-2381",
           "title": {
-            "fr-FR": "Lettre 2381. Au Frère Jean Parre"
+            "fr-FR": "Lettre 2381. Au Frère Jean Parre",
+            "pt-BR": "Carta 2381. Ao Irmão João Parre"
           }
         },
         {
           "id": "lettre-2382",
           "title": {
-            "fr-FR": "Lettre 2382. À Louis Rivet"
+            "fr-FR": "Lettre 2382. À Louis Rivet",
+            "pt-BR": "Carta 2382. A Luís Rivet"
           }
         },
         {
           "id": "lettre-2383",
           "title": {
-            "fr-FR": "Lettre 2383. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 2383. À un Prêtre de la Mission",
+            "pt-BR": "Carta 2383. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-2384",
           "title": {
-            "fr-FR": "Lettre 2384. Au Chapitre de Paris"
+            "fr-FR": "Lettre 2384. Au Chapitre de Paris",
+            "pt-BR": "Carta 2384. Ao Cabido de Paris"
           }
         },
         {
           "id": "lettre-2385",
           "title": {
-            "fr-FR": "Lettre 2385. À Edme Jolly, Supérieur, à Rome"
+            "fr-FR": "Lettre 2385. À Edme Jolly, Supérieur, à Rome",
+            "pt-BR": "Carta 2385. A Edmundo Jolly, Superior, em Roma"
           }
         },
         {
           "id": "lettre-2386",
           "title": {
-            "fr-FR": "Lettre 2386. À Jean Martin"
+            "fr-FR": "Lettre 2386. À Jean Martin",
+            "pt-BR": "Carta 2386. A João Martin"
           }
         },
         {
           "id": "lettre-2387",
           "title": {
-            "fr-FR": "Lettre 2387. Au Cardinal Nicolas Bagni"
+            "fr-FR": "Lettre 2387. Au Cardinal Nicolas Bagni",
+            "pt-BR": "Carta 2387. Ao Cardeal Nicolau Bagni"
           }
         },
         {
           "id": "lettre-2388",
           "title": {
-            "fr-FR": "Lettre 2388. À Louis Serre, Supérieur, à Saint-Méen"
+            "fr-FR": "Lettre 2388. À Louis Serre, Supérieur, à Saint-Méen",
+            "pt-BR": "Carta 2388. A Luís Serre, Superior, em Saint-Méen"
           }
         },
         {
           "id": "lettre-2389",
           "title": {
-            "fr-FR": "Lettre 2389. Au Frère Jean Parre"
+            "fr-FR": "Lettre 2389. Au Frère Jean Parre",
+            "pt-BR": "Carta 2389. Ao Irmão João Parre"
           }
         },
         {
           "id": "lettre-2390",
           "title": {
-            "fr-FR": "Lettre 2390. À Edme Menestrier"
+            "fr-FR": "Lettre 2390. À Edme Menestrier",
+            "pt-BR": "Carta 2390. A Edmundo Menestrier"
           }
         },
         {
           "id": "lettre-2391",
           "title": {
-            "fr-FR": "Lettre 2391. À Louis Rivet, Supérieur, à Saintes"
+            "fr-FR": "Lettre 2391. À Louis Rivet, Supérieur, à Saintes",
+            "pt-BR": "Carta 2391. A Luís Rivet, Superior, em Saintes"
           }
         },
         {
           "id": "lettre-2392",
           "title": {
-            "fr-FR": "Lettre 2392. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 2392. À un Prêtre de la Mission",
+            "pt-BR": "Carta 2392. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-2393",
           "title": {
-            "fr-FR": "Lettre 2393. À un Prêtre de la Mission, à Troyes"
+            "fr-FR": "Lettre 2393. À un Prêtre de la Mission, à Troyes",
+            "pt-BR": "Carta 2393. A um Padre da Missão, em Troyes"
           }
         },
         {
           "id": "lettre-2394",
           "title": {
-            "fr-FR": "Lettre 2394. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 2394. À un Prêtre de la Mission",
+            "pt-BR": "Carta 2394. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-2395",
           "title": {
-            "fr-FR": "Lettre 2395. À Edme Jolly"
+            "fr-FR": "Lettre 2395. À Edme Jolly",
+            "pt-BR": "Carta 2395. A Edmundo Jolly"
           }
         },
         {
           "id": "lettre-2396",
           "title": {
-            "fr-FR": "Lettre 2396. Louise de Marillac à Saint Vincent et en Réponse du Saint"
+            "fr-FR": "Lettre 2396. Louise de Marillac à Saint Vincent et en Réponse du Saint",
+            "pt-BR": "Carta 2396. Luísa de Marillac a São Vicente e em Resposta do Santo"
           }
         },
         {
           "id": "lettre-2397",
           "title": {
-            "fr-FR": "Lettre 2397. À la Sœur Françoise Ménage"
+            "fr-FR": "Lettre 2397. À la Sœur Françoise Ménage",
+            "pt-BR": "Carta 2397. À Irmã Francisca Ménage"
           }
         },
         {
           "id": "lettre-2398",
           "title": {
-            "fr-FR": "Lettre 2398. À Denis Laudin, Supérieur, au Mans"
+            "fr-FR": "Lettre 2398. À Denis Laudin, Supérieur, au Mans",
+            "pt-BR": "Carta 2398. A Dinis Laudin, Superior, em Le Mans"
           }
         },
         {
           "id": "lettre-2399",
           "title": {
-            "fr-FR": "Lettre 2399. À l’Abbé de Saint-Just, Grand Vicaire, à Lyon"
+            "fr-FR": "Lettre 2399. À l’Abbé de Saint-Just, Grand Vicaire, à Lyon",
+            "pt-BR": "Carta 2399. Ao Abade de Saint-Just, Vigário-Geral, em Lyon"
           }
         },
         {
           "id": "lettre-2400",
           "title": {
-            "fr-FR": "Lettre 2400. À Jean Martin, Supérieur, à Turin"
+            "fr-FR": "Lettre 2400. À Jean Martin, Supérieur, à Turin",
+            "pt-BR": "Carta 2400. A João Martin, Superior, em Turim"
           }
         },
         {
           "id": "lettre-2401",
           "title": {
-            "fr-FR": "Lettre 2401. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2401. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2401. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2402",
           "title": {
-            "fr-FR": "Lettre 2402. À Edme Jolly, Supérieur, à Rome"
+            "fr-FR": "Lettre 2402. À Edme Jolly, Supérieur, à Rome",
+            "pt-BR": "Carta 2402. A Edmundo Jolly, Superior, em Roma"
           }
         },
         {
           "id": "lettre-2403",
           "title": {
-            "fr-FR": "Lettre 2403. À Louis Serre, Supérieur, à Saint-Méen"
+            "fr-FR": "Lettre 2403. À Louis Serre, Supérieur, à Saint-Méen",
+            "pt-BR": "Carta 2403. A Luís Serre, Superior, em Saint-Méen"
           }
         },
         {
           "id": "lettre-2404",
           "title": {
-            "fr-FR": "Lettre 2404. À Pierre Cabel, Prêtre de la Mission, à Sedan"
+            "fr-FR": "Lettre 2404. À Pierre Cabel, Prêtre de la Mission, à Sedan",
+            "pt-BR": "Carta 2404. A Pedro Cabel, Padre da Missão, em Sedan"
           }
         },
         {
           "id": "lettre-2405",
           "title": {
-            "fr-FR": "Lettre 2405. Au Frère Jean Parre"
+            "fr-FR": "Lettre 2405. Au Frère Jean Parre",
+            "pt-BR": "Carta 2405. Ao Irmão João Parre"
           }
         },
         {
           "id": "lettre-2406",
           "title": {
-            "fr-FR": "Lettre 2406. À Georges des Jardins"
+            "fr-FR": "Lettre 2406. À Georges des Jardins",
+            "pt-BR": "Carta 2406. A Jorge des Jardins"
           }
         },
         {
           "id": "lettre-2407",
           "title": {
-            "fr-FR": "Lettre 2407. À Nicolas Guillot"
+            "fr-FR": "Lettre 2407. À Nicolas Guillot",
+            "pt-BR": "Carta 2407. A Nicolau Guillot"
           }
         },
         {
           "id": "lettre-2408",
           "title": {
-            "fr-FR": "Lettre 2408. À Jacques Chiroye, Supérieur, à Luçon"
+            "fr-FR": "Lettre 2408. À Jacques Chiroye, Supérieur, à Luçon",
+            "pt-BR": "Carta 2408. A Tiago Chiroye, Superior, em Luçon"
           }
         },
         {
           "id": "lettre-2409",
           "title": {
-            "fr-FR": "Lettre 2409. À Charles Ozenne"
+            "fr-FR": "Lettre 2409. À Charles Ozenne",
+            "pt-BR": "Carta 2409. A Carlos Ozenne"
           }
         },
         {
           "id": "lettre-2410",
           "title": {
-            "fr-FR": "Lettre 2410. À Hugues Perraud"
+            "fr-FR": "Lettre 2410. À Hugues Perraud",
+            "pt-BR": "Carta 2410. A Hugo Perraud"
           }
         },
         {
           "id": "lettre-2411",
           "title": {
-            "fr-FR": "Lettre 2411. À Edme Jolly, Supérieur, à Rome"
+            "fr-FR": "Lettre 2411. À Edme Jolly, Supérieur, à Rome",
+            "pt-BR": "Carta 2411. A Edmundo Jolly, Superior, em Roma"
           }
         },
         {
           "id": "lettre-2412",
           "title": {
-            "fr-FR": "Lettre 2412. Au Frère Jean Parre"
+            "fr-FR": "Lettre 2412. Au Frère Jean Parre",
+            "pt-BR": "Carta 2412. Ao Irmão João Parre"
           }
         },
         {
           "id": "lettre-2413",
           "title": {
-            "fr-FR": "Lettre 2413. À Monsieur Duport, à Soissons"
+            "fr-FR": "Lettre 2413. À Monsieur Duport, à Soissons",
+            "pt-BR": "Carta 2413. Ao Senhor Duport, em Soissons"
           }
         },
         {
           "id": "lettre-2414",
           "title": {
-            "fr-FR": "Lettre 2414. Thomas Lumsden, Prêtre de la Mission, à Saint Vincent"
+            "fr-FR": "Lettre 2414. Thomas Lumsden, Prêtre de la Mission, à Saint Vincent",
+            "pt-BR": "Carta 2414. Tomás Lumsden, Padre da Missão, a São Vicente"
           }
         },
         {
           "id": "lettre-2415",
           "title": {
-            "fr-FR": "Lettre 2415. À Guillaume Delville"
+            "fr-FR": "Lettre 2415. À Guillaume Delville",
+            "pt-BR": "Carta 2415. A Guilherme Delville"
           }
         },
         {
           "id": "lettre-2416",
           "title": {
-            "fr-FR": "Lettre 2416. À la Duchesse de Liancourt"
+            "fr-FR": "Lettre 2416. À la Duchesse de Liancourt",
+            "pt-BR": "Carta 2416. À Duquesa de Liancourt"
           }
         },
         {
           "id": "lettre-2417",
           "title": {
-            "fr-FR": "Lettre 2417. À Edme Jolly, Supérieur, à Rome"
+            "fr-FR": "Lettre 2417. À Edme Jolly, Supérieur, à Rome",
+            "pt-BR": "Carta 2417. A Edmundo Jolly, Superior, em Roma"
           }
         },
         {
           "id": "lettre-2418",
           "title": {
-            "fr-FR": "Lettre 2418. À Charles Ozenne"
+            "fr-FR": "Lettre 2418. À Charles Ozenne",
+            "pt-BR": "Carta 2418. A Carlos Ozenne"
           }
         },
         {
           "id": "lettre-2419",
           "title": {
-            "fr-FR": "Lettre 2419. À Jean Martin"
+            "fr-FR": "Lettre 2419. À Jean Martin",
+            "pt-BR": "Carta 2419. A João Martin"
           }
         },
         {
           "id": "lettre-2420",
           "title": {
-            "fr-FR": "Lettre 2420. À Denis Laudin, Supérieur, au Mans"
+            "fr-FR": "Lettre 2420. À Denis Laudin, Supérieur, au Mans",
+            "pt-BR": "Carta 2420. A Dinis Laudin, Superior, em Le Mans"
           }
         },
         {
           "id": "lettre-2421",
           "title": {
-            "fr-FR": "Lettre 2421. Au Frère Jean Parre"
+            "fr-FR": "Lettre 2421. Au Frère Jean Parre",
+            "pt-BR": "Carta 2421. Ao Irmão João Parre"
           }
         },
         {
           "id": "lettre-2422",
           "title": {
-            "fr-FR": "Lettre 2422. À Edme Menestrier, Supérieur, à Agen"
+            "fr-FR": "Lettre 2422. À Edme Menestrier, Supérieur, à Agen",
+            "pt-BR": "Carta 2422. A Edmundo Menestrier, Superior, em Agen"
           }
         },
         {
           "id": "lettre-2423",
           "title": {
-            "fr-FR": "Lettre 2423. À Louis Rivet, Supérieur, à Saintes"
+            "fr-FR": "Lettre 2423. À Louis Rivet, Supérieur, à Saintes",
+            "pt-BR": "Carta 2423. A Luís Rivet, Superior, em Saintes"
           }
         },
         {
           "id": "lettre-2424",
           "title": {
-            "fr-FR": "Lettre 2424. Au Frère Martin Baucher, Frère Coadjuteur, à Saintes"
+            "fr-FR": "Lettre 2424. Au Frère Martin Baucher, Frère Coadjuteur, à Saintes",
+            "pt-BR": "Carta 2424. Ao Irmão Martinho Baucher, Irmão Coadjutor, em Saintes"
           }
         },
         {
           "id": "lettre-2425",
           "title": {
-            "fr-FR": "Lettre 2425. À Guillaume Desdames"
+            "fr-FR": "Lettre 2425. À Guillaume Desdames",
+            "pt-BR": "Carta 2425. A Guilherme Desdames"
           }
         },
         {
           "id": "lettre-2426",
           "title": {
-            "fr-FR": "Lettre 2426. À Nicolas Duperroy"
+            "fr-FR": "Lettre 2426. À Nicolas Duperroy",
+            "pt-BR": "Carta 2426. A Nicolau Duperroy"
           }
         },
         {
           "id": "lettre-2427",
           "title": {
-            "fr-FR": "Lettre 2427. À Charles Ozenne"
+            "fr-FR": "Lettre 2427. À Charles Ozenne",
+            "pt-BR": "Carta 2427. A Carlos Ozenne"
           }
         },
         {
           "id": "lettre-2428",
           "title": {
-            "fr-FR": "Lettre 2428. À Hugues Perraud"
+            "fr-FR": "Lettre 2428. À Hugues Perraud",
+            "pt-BR": "Carta 2428. A Hugo Perraud"
           }
         },
         {
           "id": "lettre-2429",
           "title": {
-            "fr-FR": "Lettre 2429. Au Frère Jean Parre, à Reims"
+            "fr-FR": "Lettre 2429. Au Frère Jean Parre, à Reims",
+            "pt-BR": "Carta 2429. Ao Irmão João Parre, em Reims"
           }
         },
         {
           "id": "lettre-2430",
           "title": {
-            "fr-FR": "Lettre 2430. Au Frère Jean Parre"
+            "fr-FR": "Lettre 2430. Au Frère Jean Parre",
+            "pt-BR": "Carta 2430. Ao Irmão João Parre"
           }
         },
         {
           "id": "lettre-2431",
           "title": {
-            "fr-FR": "Lettre 2431. À François Villain, Prêtre de la Mission, à Troyes"
+            "fr-FR": "Lettre 2431. À François Villain, Prêtre de la Mission, à Troyes",
+            "pt-BR": "Carta 2431. A Francisco Villain, Padre da Missão, em Troyes"
           }
         },
         {
           "id": "lettre-2432",
           "title": {
-            "fr-FR": "Lettre 2432. Les Administrateurs de l’Hôpital de Châteaudun, à Saint Vincent"
+            "fr-FR": "Lettre 2432. Les Administrateurs de l’Hôpital de Châteaudun, à Saint Vincent",
+            "pt-BR": "Carta 2432. Os Administradores do Hospital de Châteaudun, a São Vicente"
           }
         },
         {
           "id": "lettre-2433",
           "title": {
-            "fr-FR": "Lettre 2433. À Charles Ozenne, Supérieur, en Pologne"
+            "fr-FR": "Lettre 2433. À Charles Ozenne, Supérieur, en Pologne",
+            "pt-BR": "Carta 2433. A Carlos Ozenne, Superior, na Polônia"
           }
         },
         {
           "id": "lettre-2434",
           "title": {
-            "fr-FR": "Lettre 2434. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 2434. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 2434. Luísa de Marillac a São Vicente"
           }
         }
       ]
@@ -2067,241 +2409,281 @@
     {
       "id": "groupe-06",
       "title": {
-        "fr-FR": "Année 1657 (4e partie)"
+        "fr-FR": "Année 1657 (4e partie)",
+        "pt-BR": "Ano de 1657 (4ª parte)"
       },
       "children": [
         {
           "id": "lettre-2435",
           "title": {
-            "fr-FR": "Lettre 2435. À Jean Martin"
+            "fr-FR": "Lettre 2435. À Jean Martin",
+            "pt-BR": "Carta 2435. A João Martin"
           }
         },
         {
           "id": "lettre-2436",
           "title": {
-            "fr-FR": "Lettre 2436. À Edme Jolly, Supérieur, à Rome"
+            "fr-FR": "Lettre 2436. À Edme Jolly, Supérieur, à Rome",
+            "pt-BR": "Carta 2436. A Edmundo Jolly, Superior, em Roma"
           }
         },
         {
           "id": "lettre-2437",
           "title": {
-            "fr-FR": "Lettre 2437. Au Frère Jean Parre"
+            "fr-FR": "Lettre 2437. Au Frère Jean Parre",
+            "pt-BR": "Carta 2437. Ao Irmão João Parre"
           }
         },
         {
           "id": "lettre-2438",
           "title": {
-            "fr-FR": "Lettre 2438. Jean Martin à Saint Vincent"
+            "fr-FR": "Lettre 2438. Jean Martin à Saint Vincent",
+            "pt-BR": "Carta 2438. João Martin a São Vicente"
           }
         },
         {
           "id": "lettre-2439",
           "title": {
-            "fr-FR": "Lettre 2439. À Louise de Marillac"
+            "fr-FR": "Lettre 2439. À Louise de Marillac",
+            "pt-BR": "Carta 2439. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-2440",
           "title": {
-            "fr-FR": "Lettre 2440. À Denis Laudin"
+            "fr-FR": "Lettre 2440. À Denis Laudin",
+            "pt-BR": "Carta 2440. A Dinis Laudin"
           }
         },
         {
           "id": "lettre-2441",
           "title": {
-            "fr-FR": "Lettre 2441. À Louis Dupont, Supérieur, à Tréguier"
+            "fr-FR": "Lettre 2441. À Louis Dupont, Supérieur, à Tréguier",
+            "pt-BR": "Carta 2441. A Luís Dupont, Superior, em Tréguier"
           }
         },
         {
           "id": "lettre-2442",
           "title": {
-            "fr-FR": "Lettre 2442. À Guillaume Delville"
+            "fr-FR": "Lettre 2442. À Guillaume Delville",
+            "pt-BR": "Carta 2442. A Guilherme Delville"
           }
         },
         {
           "id": "lettre-2443",
           "title": {
-            "fr-FR": "Lettre 2443. À Edme Barry, Supérieur, à N.-D.-de-Lorm"
+            "fr-FR": "Lettre 2443. À Edme Barry, Supérieur, à N.-D.-de-Lorm",
+            "pt-BR": "Carta 2443. A Edmundo Barry, Superior, em N.-D.-de-Lorm"
           }
         },
         {
           "id": "lettre-2444",
           "title": {
-            "fr-FR": "Lettre 2444. À Georges des Jardins, Supérieur, à Toul"
+            "fr-FR": "Lettre 2444. À Georges des Jardins, Supérieur, à Toul",
+            "pt-BR": "Carta 2444. A Jorge des Jardins, Superior, em Toul"
           }
         },
         {
           "id": "lettre-2445",
           "title": {
-            "fr-FR": "Lettre 2445. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2445. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2445. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2446",
           "title": {
-            "fr-FR": "Lettre 2446. À Edme Jolly"
+            "fr-FR": "Lettre 2446. À Edme Jolly",
+            "pt-BR": "Carta 2446. A Edmundo Jolly"
           }
         },
         {
           "id": "lettre-2447",
           "title": {
-            "fr-FR": "Lettre 2447. À Pierre Cabel"
+            "fr-FR": "Lettre 2447. À Pierre Cabel",
+            "pt-BR": "Carta 2447. A Pedro Cabel"
           }
         },
         {
           "id": "lettre-2448",
           "title": {
-            "fr-FR": "Lettre 2448. Au Frère Jean Parre"
+            "fr-FR": "Lettre 2448. Au Frère Jean Parre",
+            "pt-BR": "Carta 2448. Ao Irmão João Parre"
           }
         },
         {
           "id": "lettre-2449",
           "title": {
-            "fr-FR": "Lettre 2449. À Raoul de la Guibourgere, Évêque de la Rochelle"
+            "fr-FR": "Lettre 2449. À Raoul de la Guibourgere, Évêque de la Rochelle",
+            "pt-BR": "Carta 2449. A Raul de la Guibourgere, Bispo de La Rochelle"
           }
         },
         {
           "id": "lettre-2450",
           "title": {
-            "fr-FR": "Lettre 2450. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2450. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2450. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2451",
           "title": {
-            "fr-FR": "Lettre 2451. À Jean Martin"
+            "fr-FR": "Lettre 2451. À Jean Martin",
+            "pt-BR": "Carta 2451. A João Martin"
           }
         },
         {
           "id": "lettre-2452",
           "title": {
-            "fr-FR": "Lettre 2452. À Edme Jolly, Supérieur, à Rome"
+            "fr-FR": "Lettre 2452. À Edme Jolly, Supérieur, à Rome",
+            "pt-BR": "Carta 2452. A Edmundo Jolly, Superior, em Roma"
           }
         },
         {
           "id": "lettre-2453",
           "title": {
-            "fr-FR": "Lettre 2453. À Pierre Cabel"
+            "fr-FR": "Lettre 2453. À Pierre Cabel",
+            "pt-BR": "Carta 2453. A Pedro Cabel"
           }
         },
         {
           "id": "lettre-2454",
           "title": {
-            "fr-FR": "Lettre 2454. Au Frère Jean Parre"
+            "fr-FR": "Lettre 2454. Au Frère Jean Parre",
+            "pt-BR": "Carta 2454. Ao Irmão João Parre"
           }
         },
         {
           "id": "lettre-2455",
           "title": {
-            "fr-FR": "Lettre 2455. À Guillaume Delville"
+            "fr-FR": "Lettre 2455. À Guillaume Delville",
+            "pt-BR": "Carta 2455. A Guilherme Delville"
           }
         },
         {
           "id": "lettre-2456",
           "title": {
-            "fr-FR": "Lettre 2456. À Jacques Chiroye, Supérieur, à Luçon"
+            "fr-FR": "Lettre 2456. À Jacques Chiroye, Supérieur, à Luçon",
+            "pt-BR": "Carta 2456. A Tiago Chiroye, Superior, em Luçon"
           }
         },
         {
           "id": "lettre-2457",
           "title": {
-            "fr-FR": "Lettre 2457. À Edme Menestrier, Supérieur, à Agen"
+            "fr-FR": "Lettre 2457. À Edme Menestrier, Supérieur, à Agen",
+            "pt-BR": "Carta 2457. A Edmundo Menestrier, Superior, em Agen"
           }
         },
         {
           "id": "lettre-2458",
           "title": {
-            "fr-FR": "Lettre 2458. À Louis Dupont, Supérieur, à Tréguier"
+            "fr-FR": "Lettre 2458. À Louis Dupont, Supérieur, à Tréguier",
+            "pt-BR": "Carta 2458. A Luís Dupont, Superior, em Tréguier"
           }
         },
         {
           "id": "lettre-2459",
           "title": {
-            "fr-FR": "Lettre 2459. À Nicolas Guillot, Supérieur, à Montmirail"
+            "fr-FR": "Lettre 2459. À Nicolas Guillot, Supérieur, à Montmirail",
+            "pt-BR": "Carta 2459. A Nicolau Guillot, Superior, em Montmirail"
           }
         },
         {
           "id": "lettre-2460",
           "title": {
-            "fr-FR": "Lettre 2460. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2460. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2460. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2461",
           "title": {
-            "fr-FR": "Lettre 2461. À Edme Jolly, Supérieur, à Rome"
+            "fr-FR": "Lettre 2461. À Edme Jolly, Supérieur, à Rome",
+            "pt-BR": "Carta 2461. A Edmundo Jolly, Superior, em Roma"
           }
         },
         {
           "id": "lettre-2462",
           "title": {
-            "fr-FR": "Lettre 2462. À Charles Ozenne, * Prêtre de la Mission, à Varsovie"
+            "fr-FR": "Lettre 2462. À Charles Ozenne, * Prêtre de la Mission, à Varsovie",
+            "pt-BR": "Carta 2462. A Carlos Ozenne, * Padre da Missão, em Varsóvia"
           }
         },
         {
           "id": "lettre-2463",
           "title": {
-            "fr-FR": "Lettre 2463. À Pierre Cabel, Supérieur, à Sedan"
+            "fr-FR": "Lettre 2463. À Pierre Cabel, Supérieur, à Sedan",
+            "pt-BR": "Carta 2463. A Pedro Cabel, Superior, em Sedan"
           }
         },
         {
           "id": "lettre-2465",
           "title": {
-            "fr-FR": "Lettre 2465. Emerand Bajoue, Prêtre de la Mission, à Saint Vincent"
+            "fr-FR": "Lettre 2465. Emerand Bajoue, Prêtre de la Mission, à Saint Vincent",
+            "pt-BR": "Carta 2465. Emerando Bajoue, Padre da Missão, a São Vicente"
           }
         },
         {
           "id": "lettre-2466",
           "title": {
-            "fr-FR": "Lettre 2466. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2466. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2466. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2467",
           "title": {
-            "fr-FR": "Lettre 2467. À Edme Jolly, Supérieur, à Rome"
+            "fr-FR": "Lettre 2467. À Edme Jolly, Supérieur, à Rome",
+            "pt-BR": "Carta 2467. A Edmundo Jolly, Superior, em Roma"
           }
         },
         {
           "id": "lettre-2468",
           "title": {
-            "fr-FR": "Lettre 2468. Au Frère Jean Parre"
+            "fr-FR": "Lettre 2468. Au Frère Jean Parre",
+            "pt-BR": "Carta 2468. Ao Irmão João Parre"
           }
         },
         {
           "id": "lettre-2469",
           "title": {
-            "fr-FR": "Lettre 2469. À Madame de Ventelet"
+            "fr-FR": "Lettre 2469. À Madame de Ventelet",
+            "pt-BR": "Carta 2469. À Senhora de Ventelet"
           }
         },
         {
           "id": "lettre-2470",
           "title": {
-            "fr-FR": "Lettre 2470. À Guillaume Delville"
+            "fr-FR": "Lettre 2470. À Guillaume Delville",
+            "pt-BR": "Carta 2470. A Guilherme Delville"
           }
         },
         {
           "id": "lettre-2471",
           "title": {
-            "fr-FR": "Lettre 2471. À Edme Jolly, Supérieur, à Rome"
+            "fr-FR": "Lettre 2471. À Edme Jolly, Supérieur, à Rome",
+            "pt-BR": "Carta 2471. A Edmundo Jolly, Superior, em Roma"
           }
         },
         {
           "id": "lettre-2472",
           "title": {
-            "fr-FR": "Lettre 2472. À Firmin Get, Supérieur, à Marseille"
+            "fr-FR": "Lettre 2472. À Firmin Get, Supérieur, à Marseille",
+            "pt-BR": "Carta 2472. A Firmino Get, Superior, em Marselha"
           }
         },
         {
           "id": "lettre-2473",
           "title": {
-            "fr-FR": "Lettre 2473. À Jean Martin"
+            "fr-FR": "Lettre 2473. À Jean Martin",
+            "pt-BR": "Carta 2473. A João Martin"
           }
         },
         {
           "id": "lettre-2474",
           "title": {
-            "fr-FR": "Lettre 2474. À Louise de Marillac"
+            "fr-FR": "Lettre 2474. À Louise de Marillac",
+            "pt-BR": "Carta 2474. A Luísa de Marillac"
           }
         }
       ]

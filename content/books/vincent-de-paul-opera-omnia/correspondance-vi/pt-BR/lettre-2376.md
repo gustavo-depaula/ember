@@ -1,0 +1,23 @@
+# Carta 2376. Ao Irmão João Barreau
+
+De Paris, em 114 de setembro de 1657.
+
+Meu caro Irmão,
+
+A graça de N. S. esteja convosco para sempre!
+
+Creio ter-vos escrito a profunda aflição que me causaram os males que sofrestes, sentimento que se renova em mim todas as vezes que penso nisso; e, embora não possais imaginar quanto isso me toca, não duvidais, contudo, de que me atinge no mais íntimo, pois, trazendo-vos no coração como vos trago, não é possível que vossos sofrimentos não sejam os meus. Ora, pela mesma razão, cuido de vossos negócios como dos mais importantes que temos. Mandei falar deles ao Sr. de Brienne. Conversei sobre eles várias vezes com a Senhora duquesa de Aiguillon, bem como com as outras senhoras da Caridade, as únicas a quem posso recorrer. Elas manifestam, na verdade, compaixão por vossos sofrimentos e desejo de que sejais socorrido; mas não vejo que tomem nenhuma iniciativa. A referida senhora duquesa confessou-me que, de sua parte, pouco pode fazer. Os maus negócios que teve e o tratamento que lhe dá o Sr. duque de Richelieu a prejudicam consideravelmente. As guerras passadas enfraqueceram as melhores famílias e apertaram muito as bolsas, de modo que todas essas senhoras sentem os efeitos das dificuldades públicas e se desanimam com tantos pedidos que lhes fazem de todos os lados, particularmente quando se trata de somas consideráveis, como as que deveis. De fato, elas têm razão; pois onde se encontrarão os oito ou dez mil escudos que pedis, quando se tem toda a dificuldade do mundo para encontrar pequenas somas destinadas a necessidades públicas das quais não se pode prescindir? De modo que, meu caro Irmão, encontramo-nos em grande dificuldade para vos assistir. O Sr. Le Vacher, que se empenha nisso de todo o coração, é testemunha dos cuidados que temos e do pouco que avançamos. Ainda só temos 600 libras asseguradas. Tende a certeza de que continuaremos a trabalhar para vos proporcionar todo o alívio que pudermos; mas é preciso tempo e paciência. Algumas pessoas disseram que seria preciso cobrar essas somas que deveis dos mercadores que negociam em Argel; o Senhor de la Haye, filho do embaixador de Constantinopla, era até dessa opinião. Mas outros, vendo que isso não se pode fazer sem muitos inconvenientes penosos, são de opinião contrária; assim, não se deve mais falar disso. Quanto a dizer que a companhia deveria contrair uma obrigação para vos desobrigar, tomando essa soma emprestada, eu bem desejaria que ela o pudesse fazer; mas, além da dificuldade de encontrá-la por empréstimo ou mediante constituição de renda, porque se sabe que já está sobrecarregada de dívidas, não pode assumir novas obrigações sem se pôr em perigo de sucumbir. Vosso irmão nos disse que enviou a Marselha uma letra de câmbio de 3.000 libras para vos ser remetida. Eis com que começar a pagar vossas dívidas. Se em breve recebêsseis o pagamento do flamengo que tendes em vossa casa, poderíeis satisfazer os escravos mais necessitados que vos emprestaram seu dinheiro. Peço a N. S. que remedeie todas as vossas necessidades, pois é de temer que sejais esmagado por elas se sua providência não vos suscitar um socorro extraordinário, que está fora de nosso poder. Procuraremos, contudo, cooperar com ela.
+
+Aprouve a Deus afligir-nos de diversas maneiras quase ao mesmo tempo e tão profundamente quanto jamais o fez. A peste nos arrebatou, em Gênova, o Sr. Ennery e o Sr. Francisco Vincent, e depois atingiu os Srs. Duport e Lejuge, para os quais já não havia esperança de vida em 20 de julho. É provável que, desde então, outros tenham morrido, e talvez toda a família, composta dos melhores membros da companhia. Essa apreensão nos apavora.
+
+E, para levar nossa dor ao auge, os três missionários que haviam ido a Madagascar foram para junto de Deus, a saber, os Srs. Dufour, Prévost e de Belleville; este durante a viagem ao lugar de sua Missão, e os outros depois de lá chegarem. Deus nos concedeu a misericórdia de conservar o Sr. Bourdaise e de o abençoar de maneira maravilhosa. Ele nos fez um breve relato disso, bem como das belas ações e das virtudes apostólicas desses queridos falecidos. Recomendo os vivos e os mortos às vossas orações e sou, no amor de N. S., meu caro Irmão, vosso muito humilde servidor.
+
+VICENTE DE PAULO, i. p. d. M.
+
+Escrevemos e fizemos o Sr. Forne escrever a Amiens, para receber o pagamento de vosso escravo. Seu irmão dá esperança de enviar aqui o dinheiro. Os padres das Mercês nos fazem esperar o mesmo da parte deles, mas não estão em condições de fazê-lo, por causa da divisão que há nessa Ordem. [^1]
+
+Sobrescrito: Ao Senhor Senhor Barreau, cônsul da nação francesa, em Argel. [^2]
+
+[^1]: O pós-escrito é do próprio punho do santo.
+
+[^2]: L. s. — Dossiê da Missão, original.
