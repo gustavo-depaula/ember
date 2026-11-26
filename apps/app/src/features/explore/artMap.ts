@@ -61,6 +61,7 @@ const artFiles: Record<string, string> = {
   // The chapters of the page that guides building a rule (plan/add).
   'rule/sacraments': 'eucharistic.jpg',
   'rule/daily': 'tpl-little-way.jpg',
+  'rule/office': 'meditation-patristic.jpg',
 }
 
 // Bump when a painting is replaced at an existing filename — expo-image caches

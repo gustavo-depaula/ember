@@ -1,7 +1,9 @@
+import { Image, type ImageSource } from 'expo-image'
 import { useRouter } from 'expo-router'
-import { useState } from 'react'
+import { ChevronRight } from 'lucide-react-native'
+import { useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { ScrollView } from 'react-native'
+import { ScrollView, StyleSheet } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import Svg, { Circle, Path } from 'react-native-svg'
 import { useTheme, useThemeName, XStack, YStack } from 'tamagui'
@@ -11,17 +13,17 @@ import { createSheet, NativeSheet } from '@/components/NativeSheet'
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { getManifest } from '@/content/resolver'
 import type { SlotState } from '@/db/events'
-import { TemplateCard, useTemplateList } from '@/features/templates'
+import { artFor } from '@/features/explore/artMap'
+import { useTemplateList } from '@/features/templates'
 import { lightTap } from '@/lib/haptics'
 import { localizeContent } from '@/lib/i18n'
 
 import { enrichSlot } from '../getPracticeName'
 import { useArchivedPractices, usePinnedFlows } from '../hooks'
-import type { Office } from '../offices'
 import { beadRadius, dayPartHue, formatSlotTime, hourHue, slotDaysLabel } from '../ruleString'
 import { dayPartOrder, getActiveBlocks } from '../timeBlocks'
 import { BeadRow, beadRowHeight, beadX, threadPath } from './BeadRow'
-import { OfficeHoursStep, OfficeSection } from './OfficeSection'
+import { keptOffices, OfficeStep } from './OfficeStep'
 
 const sheet = createSheet()
 
@@ -30,12 +32,13 @@ export const openPlanSheet = sheet.open
 /**
  * The whole rule, drawn up over the You page: the bead string stood upright
  * with each time named, an open bead at its foot that opens the page for
- * adding a practice (plan/add), the two whole plans to begin from, and the
- * Divine Office, whose hours are chosen here in the sheet.
+ * adding a practice (plan/add), and the two whole plans and the Divine Office
+ * to begin from, the Office's book and hours chosen here in the sheet.
  */
 export function PlanSheet({ slots }: { slots: SlotState[] }) {
   const { t } = useTranslation()
   const insets = useSafeAreaInsets()
+  const scrollRef = useRef<ScrollView>(null)
 
   return (
     <NativeSheet sheet={sheet}>
@@ -46,9 +49,14 @@ export function PlanSheet({ slots }: { slots: SlotState[] }) {
           </Typography>
           {/* As on Today's sheet, the list scrolls only once the sheet is at
               the top: the native sheet can't hand an RN scroll to itself. */}
-          <ScrollView showsVerticalScrollIndicator={false} {...scroll}>
+          <ScrollView ref={scrollRef} showsVerticalScrollIndicator={false} {...scroll}>
             <YStack paddingHorizontal="$lg" paddingBottom={insets.bottom + 48} gap="$xl">
-              {bodyShown && <SheetBody slots={slots} />}
+              {bodyShown && (
+                <SheetBody
+                  slots={slots}
+                  toTop={() => scrollRef.current?.scrollTo({ y: 0, animated: false })}
+                />
+              )}
             </YStack>
           </ScrollView>
         </YStack>
@@ -58,16 +66,21 @@ export function PlanSheet({ slots }: { slots: SlotState[] }) {
 }
 
 // Mounted only while the sheet is up, so it opens on the string again each time.
-function SheetBody({ slots }: { slots: SlotState[] }) {
-  const [office, setOffice] = useState<Office>()
-  if (office)
-    return <OfficeHoursStep office={office} slots={slots} onDone={() => setOffice(undefined)} />
+// The Office opens from low on the sheet, so it starts at the top to show its title.
+function SheetBody({ slots, toTop }: { slots: SlotState[]; toTop: () => void }) {
+  const [office, setOffice] = useState(false)
+  if (office) return <OfficeStep slots={slots} onDone={() => setOffice(false)} />
   return (
     <>
       <HueKey />
       <UprightString slots={slots} />
-      <WholePlans />
-      <OfficeSection slots={slots} onChoose={setOffice} />
+      <BeginSection
+        slots={slots}
+        onOffice={() => {
+          setOffice(true)
+          toTop()
+        }}
+      />
       <Archived />
     </>
   )
@@ -191,34 +204,101 @@ function UprightString({ slots }: { slots: SlotState[] }) {
   )
 }
 
-// The two plans that are whole rules of their own, each opening its page to adopt.
-function WholePlans() {
+// The two whole plans and the Divine Office, one row each: a plan opens its
+// page to adopt, the Office opens its book and hours here in the sheet.
+function BeginSection({ slots, onOffice }: { slots: SlotState[]; onOffice: () => void }) {
   const { t } = useTranslation()
   const router = useRouter()
   const templates = useTemplateList()
+  const kept = keptOffices(slots, t)
 
   return (
-    <YStack gap="$md">
-      <YStack gap="$xs">
-        <Typography variant="label" textTransform="uppercase" letterSpacing={1.5}>
-          {t('plan.wholePlans')}
-        </Typography>
-        <Typography variant="caption">{t('plan.wholePlansLede')}</Typography>
+    <YStack gap="$xs">
+      <Typography variant="label" textTransform="uppercase" letterSpacing={1.5}>
+        {t('plan.begin')}
+      </Typography>
+      <Typography variant="caption">{t('plan.beginLede')}</Typography>
+      <YStack paddingTop="$xs">
+        {templates.map((item) => {
+          const templateId = item.id.slice(item.id.indexOf('/') + 1)
+          return (
+            <PlanRow
+              key={item.id}
+              testID={`plan-whole-${templateId}`}
+              art={artFor(item.id)}
+              title={item.entry.name ? localizeContent(item.entry.name) : item.id}
+              sub={item.entry.description && localizeContent(item.entry.description)}
+              onPress={() => {
+                sheet.close()
+                router.push({ pathname: '/templates/[templateId]', params: { templateId } })
+              }}
+            />
+          )
+        })}
+        <PlanRow
+          testID="plan-office"
+          art={artFor('rule/office')}
+          title={t(kept.length ? 'plan.officeRowKept' : 'plan.officeRow')}
+          sub={kept.length ? kept.join('; ') : t('plan.officeRowHint')}
+          onPress={onOffice}
+        />
       </YStack>
-      <XStack justifyContent="space-between">
-        {templates.map((item) => (
-          <TemplateCard
-            key={item.id}
-            item={item}
-            width="47%"
-            onPress={(templateId) => {
-              sheet.close()
-              router.push({ pathname: '/templates/[templateId]', params: { templateId } })
-            }}
-          />
-        ))}
-      </XStack>
     </YStack>
+  )
+}
+
+function PlanRow({
+  testID,
+  art,
+  title,
+  sub,
+  onPress,
+}: {
+  testID: string
+  art: ImageSource | undefined
+  title: string
+  sub: string | undefined
+  onPress: () => void
+}) {
+  const theme = useTheme()
+  return (
+    <AnimatedPressable
+      testID={testID}
+      onPress={() => {
+        lightTap()
+        onPress()
+      }}
+      accessibilityRole="link"
+      accessibilityLabel={title}
+    >
+      <XStack alignItems="center" gap="$md" paddingVertical="$sm">
+        <YStack
+          width={64}
+          height={64}
+          borderRadius="$md"
+          overflow="hidden"
+          backgroundColor="$backgroundStrong"
+        >
+          {art && (
+            <Image
+              source={art}
+              style={StyleSheet.absoluteFill}
+              contentFit="cover"
+              cachePolicy="memory-disk"
+            />
+          )}
+        </YStack>
+        <YStack flex={1} gap={2}>
+          <Typography fontSize="$4">{title}</Typography>
+          {sub && (
+            <Typography variant="caption" fontStyle="italic">
+              {sub}
+            </Typography>
+          )}
+        </YStack>
+        <ChevronRight size={20} strokeWidth={1.75} color={theme.accent.val} />
+      </XStack>
+    </AnimatedPressable>
   )
 }
 
