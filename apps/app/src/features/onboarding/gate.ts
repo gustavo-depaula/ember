@@ -22,16 +22,13 @@ export function gateOf(stage: OnboardingStage, hasPlan: boolean): 'onboard' | 's
 export function useNeedsOnboarding(): boolean {
   const stage = usePreferencesStore((s) => s.onboarding)
   const setOnboarding = usePreferencesStore((s) => s.setOnboarding)
-  const markHintSeen = usePreferencesStore((s) => s.markHintSeen)
   // Past onboarding the plan is never asked about, so Today's every change costs nothing here.
   const hasPlan = useEventStore((s) => stage !== 'done' && planSlots(s).length > 0)
   const gate = gateOf(stage, hasPlan)
   useEffect(() => {
     if (gate !== 'settle') return
-    // One who kept a rule before needs neither the steps nor the hints after them.
+    // One who kept a rule before doesn't need the steps.
     setOnboarding('done')
-    markHintSeen('you')
-    markHintSeen('search')
-  }, [gate, setOnboarding, markHintSeen])
+  }, [gate, setOnboarding])
   return gate === 'onboard'
 }

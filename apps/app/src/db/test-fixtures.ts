@@ -69,7 +69,7 @@ export async function resetForTests(fixtures: TestFixtures = {}): Promise<void> 
 
   usePreferencesStore.getState().setTimeTravelDate(fixtures.now)
   usePreferencesStore.getState().setOnboarding(fixtures.onboarding ? 'new' : 'done')
-  usePreferencesStore.setState({ seenHints: [], onboardingKept: [] })
+  usePreferencesStore.setState({ onboardingKept: [] })
 }
 
 // A kept rule with the odd lapse: every slot on most days, a deterministic

@@ -21,7 +21,6 @@ import { renderApp } from '@/test/renderApp'
 import { currentPath } from '@/test/router-fake'
 
 import { gateOf, useNeedsOnboarding } from '../gate'
-import { TabHint } from '../TabHint'
 
 const screens = {
   '/onboarding': OnboardingReason,
@@ -106,7 +105,6 @@ describe('the gate', () => {
     })
     expect(await screen.findByTestId('today')).toBeInTheDocument()
     await expect.poll(() => usePreferencesStore.getState().onboarding).toBe('done')
-    expect(usePreferencesStore.getState().seenHints).toEqual(['you', 'search'])
   }, 30_000)
 
   it('leaves Today alone once onboarding is done', async () => {
@@ -300,19 +298,4 @@ describe('changing course', () => {
       vi.mocked(Notifications.requestPermissionsAsync).mockResolvedValue(granted)
     }
   }, 60_000)
-})
-
-describe('tab hints', () => {
-  it('shows once and stays gone', async () => {
-    const { screen, user } = await renderApp({
-      route: '/hint',
-      routes: [
-        { pattern: '/hint', loader: async () => ({ default: () => <TabHint tab="you" /> }) },
-      ],
-    })
-    await user.click(await screen.findByTestId('tab-hint-you-dismiss'))
-
-    expect(screen.queryByTestId('tab-hint-you')).toBeNull()
-    expect(usePreferencesStore.getState().seenHints).toEqual(['you'])
-  }, 30_000)
 })

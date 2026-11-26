@@ -497,7 +497,7 @@ export default {
     archivedCount: 'Arquivadas ({{count}})',
     emptyState: 'O seu plano de vida ainda é uma página em branco.',
     emptyStateDescription: 'Algumas práticas, rezadas todo dia: a oração, a leitura, o silêncio.',
-    emptyStateAction: 'Acrescentar práticas ›',
+    emptyStateAction: 'Montar minha rotina de oração ›',
     emptyStateWhole: 'ou começar por um plano inteiro',
     pinAll: 'Tornar plano disponível offline',
     pinAllInProgress: 'Salvando para offline… {{done}} de {{total}}',
@@ -2853,13 +2853,6 @@ export default {
       title: 'Pai Nosso',
       lede: 'Toda oração termina assim:',
       amen: 'Amém.',
-    },
-    hints: {
-      dismiss: 'Entendi',
-      youTitle: 'O seu plano, num fio',
-      youBody: 'Mude a hora de uma oração, ou acrescente outra quando quiser.',
-      searchTitle: 'Tudo o que há para rezar',
-      searchBody: 'Missas perto de você, a Bíblia, orações e livros dos santos.',
     },
   },
 } as const

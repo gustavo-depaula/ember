@@ -493,7 +493,7 @@ export default {
     archivedCount: 'Archived ({{count}})',
     emptyState: 'Your plan of life is still a blank page.',
     emptyStateDescription: 'A few practices, prayed every day: prayer, reading, silence.',
-    emptyStateAction: 'Add practices ›',
+    emptyStateAction: 'Build my prayer routine ›',
     emptyStateWhole: 'or begin from a whole plan',
     pinAll: 'Make plan available offline',
     pinAllInProgress: 'Saving for offline… {{done}} of {{total}}',
@@ -2847,13 +2847,6 @@ export default {
       title: 'Our Father',
       lede: 'Every prayer ends like this:',
       amen: 'Amen.',
-    },
-    hints: {
-      dismiss: 'Got it',
-      youTitle: 'Your plan, on one thread',
-      youBody: 'Change the time of a prayer, or add another whenever you like.',
-      searchTitle: 'All there is to pray',
-      searchBody: 'Masses near you, the Bible, prayers and the books of the saints.',
     },
   },
 } as const
