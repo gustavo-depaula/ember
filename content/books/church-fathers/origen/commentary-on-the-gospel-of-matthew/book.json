@@ -2,13 +2,16 @@
   "id": "origen-commentary-on-the-gospel-of-matthew",
   "cover": "quarter",
   "name": {
-    "en-US": "Commentary on the Gospel of Matthew"
+    "en-US": "Commentary on the Gospel of Matthew",
+    "pt-BR": "Comentário ao Evangelho de Mateus"
   },
   "author": {
-    "en-US": "Origen"
+    "en-US": "Origen",
+    "pt-BR": "Orígenes"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,48 +24,64 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Book I"
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Book II"
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Book X"
+        "en-US": "Book X",
+        "pt-BR": "Livro X"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Book XI"
+        "en-US": "Book XI",
+        "pt-BR": "Livro XI"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "Book XII"
+        "en-US": "Book XII",
+        "pt-BR": "Livro XII"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "Book XIII"
+        "en-US": "Book XIII",
+        "pt-BR": "Livro XIII"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "en-US": "Book XIV"
+        "en-US": "Book XIV",
+        "pt-BR": "Livro XIV"
       }
     }
   ],
-  "commentsOn": ["matthew"],
+  "commentsOn": [
+    "matthew"
+  ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
