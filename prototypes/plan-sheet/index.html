@@ -382,6 +382,24 @@ button:focus-visible { outline: 2px solid var(--goldDeep); outline-offset: 2px; 
 .kept b { display: block; font: 400 19px/23px var(--body); }
 .kept span { display: block; color: var(--muted); font-size: 15px; }
 .kept a, .kept button.more { display: inline-block; color: var(--goldDeep); font: 400 12px var(--head); letter-spacing: 1.6px; margin-top: 6px; }
+.orow { display: flex; align-items: center; gap: 14px; width: 100%; text-align: left; padding: 12px 0; }
+.orow + .orow { box-shadow: inset 0 .5px 0 var(--line); }
+.orow .bkw { width: 44px; flex: none; }
+.orow .bkw .bk b { font-size: 6.5px; line-height: 8px; } .orow .bkw .bk em { display: none; } .orow .bkw .bk i { font-size: 8px; margin-bottom: 2px; }
+.orow .th { flex: none; width: 64px; height: 64px; border-radius: 8px; background: #ddd center / cover; }
+.orow .tx { flex: 1; min-width: 0; }
+.orow b { display: block; font: 400 19px/23px var(--body); }
+.orow small { display: block; font-style: italic; color: var(--muted); font-size: 15px; line-height: 19px; margin-top: 2px; }
+.owide { display: block; width: 100%; text-align: left; margin-top: 14px; }
+.owide .img { display: block; height: 150px; border-radius: 12px; background: #ddd 50% 22% / cover; box-shadow: 0 5px 12px rgba(0,0,0,.22); }
+.owide b { display: block; font: italic 400 26px/30px var(--title); margin-top: 10px; }
+.owide small { display: block; font-style: italic; color: var(--muted); font-size: 15.5px; }
+.opick { display: block; width: 100%; text-align: left; padding: 9px 0; }
+.opick b { display: inline; font: 400 19px/24px var(--body); color: var(--muted); }
+.opick[aria-pressed="true"] b { color: #2C2418; box-shadow: inset 0 -2px 0 var(--gold); }
+.opick small { display: block; font-style: italic; color: var(--muted); font-size: 14.5px; line-height: 19px; margin-top: 3px; }
+.osub { color: var(--muted); font-size: 15px; line-height: 20px; margin-top: 10px; }
+.osub button { color: var(--goldDeep); font: 400 12px var(--head); letter-spacing: 1.5px; }
 .sheetnav { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
 .sheetnav .backb { width: 44px; height: 44px; margin-left: -12px; display: grid; place-items: center; }
 .wholeplans { margin: 16px 24px 0; text-align: center; color: var(--muted); font-size: 15.5px; line-height: 21px; }
@@ -613,6 +631,13 @@ const why = {
   today: 'The real Today, shaped by the path: a plan, reminders set, the next prayer first.',
 }
 const whyAlt = {
+  office: {
+    A: 'As built: four book covers under “Ofício Divino”. Clear to someone who already prays one of them; to anyone else four small books say nothing about what tapping does.',
+    B: 'The Office as one row, the same shape as a practice in the app: a painting, “Rezar o Ofício Divino”, one line on what it gives. Tapping it asks which book (each with a line of explanation) and which hours, on one page.',
+    C: 'No books on the sheet: the hours themselves, as open beads at their times. Tap the hours you want; one button adds them. It is the Liturgy of the Hours by default, and “Rezo outro breviário” opens the other books. The plan’s own language (beads on the string) does the explaining.',
+    D: 'A third painting, below the two plans and as large: “O Ofício Divino — rezar com a Igreja, hora por hora”. It reads as another whole thing to take up; the book and the hours come on the next page.',
+    E: 'Keeps the books, but as rows with the full name and one sentence on what each Office is, under a line saying what the Office itself is. Readable, and longer.',
+  },
   order: { A: 'A ladder from the smallest step up: begin, grow, a rule, the Office. A beginner meets themselves first and sees where the road goes; people who know what they want (a tertiary, someone with a breviary) scan four lines and find theirs. A rule sits above the Office because the Benedictine, Carmelite, Dominican and Franciscan rules already hold the Hours, so a tertiary taps the rule first and gets both.', B: 'The order so far: the most specific reasons first, the catch-all last. It reads as an app for seasoned pray-ers, which honours some and closes the door on a beginner, who meets the Office first.', C: 'The middle first: someone who already prays a little, then beginners, then a rule and the Office. It bets that most people who install a Catholic prayer app already pray something; there is no data on that yet.' },
   ask: { D: 'Each reason as one of Today’s jewel cards with its stamp, swiped sideways under the ✠ pager. The first screen already looks like Today, but only one reason shows at a time.', E: 'Four of Today’s stamp tiles, with icons and perforated edges, the name in Cinzel beneath. Compact and playful; the shortest screen of all.', F: 'No pictures: the question becomes a sentence to finish, set large in italic between hairlines, like a missal’s headings. Reads fast and feels most like prayer.', G: 'One painting carries the whole page (Millet’s Angelus), with the reasons as a list on the white beneath, as on a tradition’s page. Calm, and one strong image instead of four.', H: 'Each reason is a saint’s holy card from the starter pool: Benedict for the Office, Ignatius for a rule, Teresa for growing, Thérèse for beginning. It teaches the cards before the first one is given.', I: 'An old book’s table of contents: roman numerals, dotted leaders, a red versal. The most bookish; it treats Ember as a Book of Hours.', B: 'Each reason is a chapter title from “Acrescentar à regra”: a faint painting dissolving into the page, the name in italic. The most “Ember” of the three, and the calmest.', C: 'A plain list with a small painting, as search and the library list things. The quickest to read, the least ceremonial.' },
   features: { D: 'No feature pages in setup. Setup ends on a plain Today; You and Search each explain themselves once, the first time it is opened: one line on the thing this path needs there, no dimming, gone with a tap. Try the bar at the bottom of Today. Nothing is shown before the person has a reason to look at it.', B: 'No separate pages: the real app, already shaped by their setup, one stop on each tab in the order of the bar (Today, You, Search). Each stop lights the one thing this path needs there, and a quiet line names the rest of the tab. Three stops show the whole app; nothing is explained twice.', C: 'One page instead of three: each feature as one of Today’s jewel cards. Shortest; nothing to swipe.' },
@@ -654,16 +679,17 @@ const guideTiers = [
 ]
 const guideEntries = guideTiers.flatMap((t) => t[4])
 const beginner = TEMPLATES.find((t) => t.id === 'beginner-minimum')
-const fresh = () => ({ office: 'lh', hours: new Set(['Laudes', 'Vésperas', 'Completas']), firstHour: 'Completas', rule: 'opus-dei', off: new Set(), mine: new Set(), muted: new Set(), mutedOne: new Set(), times: {}, days: {}, sheetBook: 'lh', sheetHours: new Set(['Laudes', 'Vésperas', 'Completas']), tab: 'today', seen: new Set(), allowed: undefined, card: undefined })
+const fresh = () => ({ office: 'lh', hours: new Set(['Laudes', 'Vésperas', 'Completas']), firstHour: 'Completas', rule: 'opus-dei', off: new Set(), mine: new Set(), muted: new Set(), mutedOne: new Set(), times: {}, days: {}, sheetBook: 'lh', sheetHours: new Set(['Laudes', 'Vésperas', 'Completas']), cHours: new Set(), tab: 'today', seen: new Set(), allowed: undefined, card: undefined })
 let path = 'sheet', step = 1, state = fresh()
 const altGroups = {
   ask: { label: 'First screen', keys: ['ask'], opts: { A: 'Painted tiles', B: 'Chapter bands', C: 'A plain list', D: 'Today’s cards', E: 'Stamps', F: 'A sentence', G: 'One painting', H: 'Holy cards', I: 'A book’s contents' } },
   features: { label: 'Feature pages', keys: ['f1', 'f2', 'f3', 'fall'], opts: { D: 'None: hints in place', A: 'Three painted pages', B: 'Today, lit up', C: 'One page of cards' } },
   remind: { label: 'Reminders', keys: ['remind'], opts: { A: 'By part of the day', B: 'On the string', C: 'One question' } },
   order: { label: 'Order (plain list)', keys: [], opts: { A: 'Smallest step first', B: 'Most specific first', C: 'Growing first' } },
+  office: { label: 'The Office on the sheet', keys: ['sheet', 'sheetOffice', 'sheetAdded'], opts: { A: 'Four books', B: 'One row, like a practice', C: 'The hours on the string', D: 'A painting, like the plans', E: 'Books, explained' } },
   amen: { label: 'After Amen', keys: ['amen', 'choose', 'card'], opts: { C: 'Nothing: straight to Today', A: 'Envelope, then saints', B: 'Straight to the saints' } },
 }
-const alt = { ask: 'C', order: 'A', features: 'D', remind: 'A', amen: 'C' }
+const alt = { ask: 'C', order: 'A', features: 'D', remind: 'A', amen: 'C', office: 'B' }
 const orders = { A: ['start', 'grow', 'rule', 'office'], B: ['office', 'rule', 'grow', 'start'], C: ['grow', 'start', 'rule', 'office'] }
 const groupOf = (k) => Object.keys(altGroups).find((g) => altGroups[g].keys.includes(k))
 function stepsOf(p) {
@@ -719,7 +745,9 @@ const sheetOffices = [
   ['mon', 'Breviário Monástico', 'Monástico 1963', '#2E3A4A', '#11161E'],
   ['bvm', 'Pequeno Ofício de N. Senhora', 'Devoção mariana', '#4A2860', '#1F1030'],
 ]
-// The app's own hours for each (content/practices/*/flow.json).
+const officeAbout = { lh: 'Em português, como a Igreja reza hoje: Laudes, Vésperas, Completas…', da: 'O breviário tradicional, em latim com tradução.', mon: 'O Ofício dos monges beneditinos, em latim.', bvm: 'Um Ofício curto, todo dedicado a Nossa Senhora.' }
+const officePicker = () => `<div class="label" style="margin-top:4px;color:var(--muted)">Qual livro?</div>${sheetOffices.map((x) => `<button class="opick" data-act="sheetPick" data-val="${x[0]}" aria-pressed="${state.sheetBook === x[0]}"><b>${x[1]}</b><small>${officeAbout[x[0]]}</small></button>`).join('')}<div class="label" style="margin-top:20px;color:var(--muted)">Quais horas?</div>`
+// The app’s own hours for each (content/practices/*/flow.json).
 const lhReal = [['Ofício das Leituras', '05:00'], ['Laudes', '06:00'], ['Tércia', '09:00'], ['Sexta', '12:00'], ['Noa', '15:00'], ['Vésperas', '18:00'], ['Completas', '21:00']]
 const oldReal = [['Matinas', '05:00'], ['Laudes', '06:00'], ['Prima', '07:00'], ['Tércia', '09:00'], ['Sexta', '12:00'], ['Noa', '15:00'], ['Vésperas', '18:00'], ['Completas', '21:00']]
 const sheetPlan = [['Oferecimento do Dia', '07:00'], ['Angelus', '12:00'], ['Angelus', '18:00'], ['Santo Rosário', '20:00'], ['Exame de Consciência', '22:00']]
@@ -731,13 +759,26 @@ function sheetBody(added) {
   const beads = [...sheetPlan, ...(added ? hours : [])].sort((a, b) => a[1].localeCompare(b[1]))
   const office = added
     ? `<div class="kept"><div class="bkw">${book(o)}</div><div><b>${o[1]}</b><span>${hours.map(([n]) => n).join(' · ')}</span><button class="more" data-step="2">MUDAR AS HORAS ›</button></div></div>`
-    : `<div class="offrow">${sheetOffices.map((x) => `<button data-act="sheetBook" data-val="${x[0]}">${book(x)}<small>${x[2]}</small></button>`).join('')}</div>`
+    : officeChoice()
   return `${sheetBehind}<div class="sheet"><div class="grab"></div><div class="stitle">Plano de Vida</div>${legend}
     <div style="margin-top:10px">${string(beads.map(([n, t]) => ({ name: n, time: t, shown: ptTime(t), on: true })))}</div>
     <button class="addp" data-step="4"><em>+</em>Acrescentar uma prática</button>
     <div class="sec">UM PLANO INTEIRO</div><p>Para adotar de uma vez, ou acrescentar ao que você já reza.</p>
     <div class="tiles" style="padding:0;margin-top:14px">${tile('path', 'start', 'O Mínimo do Iniciante', 'Simples, fiel: comece aqui.', art('tpl-beginner-minimum'), '30% 24%')}${tile('path', 'rule', 'As normas da Obra', 'Santificar o trabalho.', art('tpl-opus-dei'))}</div>
-    <div class="sec">OFÍCIO DIVINO</div><p>${added ? 'As horas da Igreja, no seu plano.' : 'As horas da Igreja, no seu plano: escolha o seu livro.'}</p>${office}</div>`
+    <div class="sec">OFÍCIO DIVINO</div><p>${added ? 'As horas da Igreja, no seu plano.' : officeLede[alt.office]}</p>${office}</div>`
+}
+const officeLede = { A: 'As horas da Igreja, no seu plano: escolha o seu livro.', B: 'A oração da Igreja, que santifica as horas do dia.', C: 'A oração da Igreja, que santifica as horas do dia. Toque nas horas que quer rezar.', D: 'A oração da Igreja, que santifica as horas do dia.', E: 'A oração oficial da Igreja: salmos, hinos e leituras para cada hora do dia. Escolha o livro que você reza.' }
+function officeChoice() {
+  if (alt.office === 'B') return `<button class="orow" data-step="2"><span class="th" style="background-image:url(${cov('meditation-patristic')});background-position:50% 22%"></span><span class="tx"><b>Rezar o Ofício Divino</b><small>Laudes, Vésperas, Completas: escolha o livro e as horas</small></span>${chevron('#C9A84C').replace('m15 18-6-6 6-6', 'm9 18 6-6-6-6')}</button>`
+  if (alt.office === 'C') {
+    const n = state.cHours.size
+    return `<div style="margin-top:8px">${string(lhReal.map(([h, t]) => ({ name: h, time: t, shown: ptTime(t), on: state.cHours.has(h), act: 'cHour', val: h })))}</div>
+      ${n ? `<button class="btn" style="margin-top:14px" data-act="cAdd">Acrescentar ${n} ${n === 1 ? 'hora' : 'horas'} ao plano</button>` : ''}
+      <p class="osub">Na Liturgia das Horas, edição brasileira. <button data-step="2">REZO OUTRO BREVIÁRIO ›</button></p>`
+  }
+  if (alt.office === 'D') return `<button class="owide" data-step="2"><span class="img" style="background-image:url(${cov('meditation-patristic')})"></span><b>O Ofício Divino</b><small>Rezar com a Igreja, hora por hora.</small></button>`
+  if (alt.office === 'E') return sheetOffices.map((x) => `<button class="orow" data-act="sheetBook" data-val="${x[0]}"><span class="bkw">${book(x)}</span><span class="tx"><b>${x[1]}</b><small>${officeAbout[x[0]]}</small></span></button>`).join('')
+  return `<div class="offrow">${sheetOffices.map((x) => `<button data-act="sheetBook" data-val="${x[0]}">${book(x)}<small>${x[2]}</small></button>`).join('')}</div>`
 }
 const rule = () => TEMPLATES.find((t) => t.id === state.rule)
 // A time changed on the reminders page moves the prayer everywhere: the string, the moments, Today.
@@ -881,8 +922,8 @@ const screens = {
     after: `<div class="nav"><div><span><img src="a/nav-today.webp" alt=""></span><span class="on"><img src="a/nav-you.webp" alt=""></span></div><div><span><img src="a/nav-search.webp" alt=""></span></div></div>` }),
   sheet: () => ({ cls: 'sheetwrap', body: sheetBody(false) }),
   sheetOffice: () => { const o = sheetOffices.find((x) => x[0] === state.sheetBook) || sheetOffices[0]; const hours = o[0] === 'lh' ? lhReal : oldReal
-    return { cls: 'sheetwrap', body: `${sheetBehind}<div class="sheet"><div class="grab"></div><div class="sheetnav"><button class="backb" data-back aria-label="Voltar">${chevron()}</button><span class="label" style="color:var(--muted)">${o[1]}</span></div>
-      <div class="stitle">Quais horas?</div><p class="lede" style="margin-top:6px">Cada hora vira uma conta do seu fio, na sua hora. Toque para tirar ou pôr.</p>
+    return { cls: 'sheetwrap', body: `${sheetBehind}<div class="sheet"><div class="grab"></div><div class="sheetnav"><button class="backb" data-back aria-label="Voltar">${chevron()}</button><span class="label" style="color:var(--muted)">${['A', 'E'].includes(alt.office) ? o[1] : 'Ofício Divino'}</span></div>
+      <div class="stitle">${['A', 'E'].includes(alt.office) ? 'Quais horas?' : 'O seu Ofício'}</div><p class="lede" style="margin-top:6px">Cada hora vira uma conta do seu fio, na sua hora. Toque para tirar ou pôr.</p>${['A', 'E'].includes(alt.office) ? '' : `<div style="margin-top:14px">${officePicker()}</div>`}
       <div style="margin-top:12px">${string(hours.map(([n, t]) => ({ name: n, time: t, shown: ptTime(t), on: state.sheetHours.has(n), act: 'sheetHour', val: n })))}</div>
       <button class="btn" style="margin-top:22px" data-next ${state.sheetHours.size ? '' : 'disabled'}>Acrescentar ${state.sheetHours.size} ${state.sheetHours.size === 1 ? 'hora' : 'horas'} ao plano</button></div>` } },
   sheetAdded: () => ({ cls: 'sheetwrap', body: sheetBody(true) }),
@@ -970,7 +1011,7 @@ function render() {
   document.getElementById('chips').innerHTML = Object.entries(paths).filter(([k]) => k === 'sheet').map(([k, p]) => `<button class="chip ${k === path && step > 0 ? 'on' : ''}" data-jump="${k}">${p.label}</button>`).join('')
   document.getElementById('pathName').textContent = step ? `${paths[path].label} · ${label}` : label
   document.getElementById('why').textContent = (key === 'ask' && alt.ask === 'C') ? `${whyAlt.ask.C} ${whyAlt.order[alt.order]}` : (g && whyAlt[g]?.[alt[g]] && !(g === 'features' && alt.features === 'A')) ? whyAlt[g][alt[g]] : why[whyKey] || why[key]
-  document.getElementById('alts').innerHTML = Object.entries({}).map(([k, gr]) => `<div class="altrow ${k === g ? 'here' : ''}"><span>${gr.label}</span>${Object.entries(gr.opts).map(([o, l]) => `<button class="${alt[k] === o ? 'on' : ''}" data-alt="${k}" data-opt="${o}" aria-pressed="${alt[k] === o}">${o} · ${l}</button>`).join('')}</div>`).join('')
+  document.getElementById('alts').innerHTML = Object.entries(altGroups).filter(([k]) => k === 'office').map(([k, gr]) => `<div class="altrow ${k === g ? 'here' : ''}"><span>${gr.label}</span>${Object.entries(gr.opts).map(([o, l]) => `<button class="${alt[k] === o ? 'on' : ''}" data-alt="${k}" data-opt="${o}" aria-pressed="${alt[k] === o}">${o} · ${l}</button>`).join('')}</div>`).join('')
   document.getElementById('steps').innerHTML = stepsOf(path).map((k, i) => { const fi = { f1: 0, f2: 1, f3: 2 }[k]; const n = fi === undefined ? names[k] : alt.features === 'B' ? tourStops()[fi].name : featureNames[paths[path].features[fi]]; return `<li><button class="${i === step ? 'on' : ''}" data-step="${i}"><i>${i + 1}</i>${n}</button></li>` }).join('')
 }
 function setPath(p, at = 0) { path = p; step = at; render() }
@@ -1014,6 +1055,9 @@ document.addEventListener('click', (e) => {
   if (act === 'seen') { state.seen.add(val); return keep() }
   if (act === 'sheetBook') { state.sheetBook = val; state.sheetHours = new Set(['Laudes', 'Vésperas', 'Completas']); return next() }
   if (act === 'sheetHour') { toggle(state.sheetHours, val); return keep() }
+  if (act === 'sheetPick') { state.sheetBook = val; state.sheetHours = new Set(['Laudes', 'Vésperas', 'Completas']); return keep() }
+  if (act === 'cHour') { toggle(state.cHours, val); return keep() }
+  if (act === 'cAdd') { state.sheetBook = 'lh'; state.sheetHours = new Set(state.cHours); step = stepsOf(path).indexOf('sheetAdded'); return render() }
   if (act === 'muteOne') { toggle(state.mutedOne, val); return keep() }
   if (act === 'mute') { toggle(state.muted, val); return keep() }
   if (act === 'no-notify') { state.allowed = false; return next() }
