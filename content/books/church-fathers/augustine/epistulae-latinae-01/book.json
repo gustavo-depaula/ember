@@ -18,13 +18,19 @@
   },
   "composed": "date varies",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/epistulae",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,175 +47,204 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Epistula 12"
+        "la": "Epistula 12",
+        "pt-BR": "Carta 12"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "Epistula 24"
+        "la": "Epistula 24",
+        "pt-BR": "Carta 24"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "la": "Epistula 32"
+        "la": "Epistula 32",
+        "pt-BR": "Carta 32"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "la": "Epistula 45"
+        "la": "Epistula 45",
+        "pt-BR": "Carta 45"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "la": "Epistula 49"
+        "la": "Epistula 49",
+        "pt-BR": "Carta 49"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "la": "Epistula 52"
+        "la": "Epistula 52",
+        "pt-BR": "Carta 52"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "la": "Epistula 56"
+        "la": "Epistula 56",
+        "pt-BR": "Carta 56"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "la": "Epistula 57"
+        "la": "Epistula 57",
+        "pt-BR": "Carta 57"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "la": "Epistula 70"
+        "la": "Epistula 70",
+        "pt-BR": "Carta 70"
       }
     },
     {
       "id": "ch010",
       "title": {
-        "la": "Epistula 80"
+        "la": "Epistula 80",
+        "pt-BR": "Carta 80"
       }
     },
     {
       "id": "ch011",
       "title": {
-        "la": "Epistula 92/A"
+        "la": "Epistula 92/A",
+        "pt-BR": "Carta 92/A"
       }
     },
     {
       "id": "ch012",
       "title": {
-        "la": "Epistula 94"
+        "la": "Epistula 94",
+        "pt-BR": "Carta 94"
       }
     },
     {
       "id": "ch013",
       "title": {
-        "la": "Epistula 105"
+        "la": "Epistula 105",
+        "pt-BR": "Carta 105"
       }
     },
     {
       "id": "ch014",
       "title": {
-        "la": "Epistula 106"
+        "la": "Epistula 106",
+        "pt-BR": "Carta 106"
       }
     },
     {
       "id": "ch015",
       "title": {
-        "la": "Epistula 107"
+        "la": "Epistula 107",
+        "pt-BR": "Carta 107"
       }
     },
     {
       "id": "ch016",
       "title": {
-        "la": "Epistula 108"
+        "la": "Epistula 108",
+        "pt-BR": "Carta 108"
       }
     },
     {
       "id": "ch017",
       "title": {
-        "la": "Epistula 109"
+        "la": "Epistula 109",
+        "pt-BR": "Carta 109"
       }
     },
     {
       "id": "ch018",
       "title": {
-        "la": "Epistula 110"
+        "la": "Epistula 110",
+        "pt-BR": "Carta 110"
       }
     },
     {
       "id": "ch019",
       "title": {
-        "la": "Epistula 112"
+        "la": "Epistula 112",
+        "pt-BR": "Carta 112"
       }
     },
     {
       "id": "ch020",
       "title": {
-        "la": "Epistula 113"
+        "la": "Epistula 113",
+        "pt-BR": "Carta 113"
       }
     },
     {
       "id": "ch021",
       "title": {
-        "la": "Epistula 114"
+        "la": "Epistula 114",
+        "pt-BR": "Carta 114"
       }
     },
     {
       "id": "ch022",
       "title": {
-        "la": "Epistula 119"
+        "la": "Epistula 119",
+        "pt-BR": "Carta 119"
       }
     },
     {
       "id": "ch023",
       "title": {
-        "la": "Epistula 120"
+        "la": "Epistula 120",
+        "pt-BR": "Carta 120"
       }
     },
     {
       "id": "ch024",
       "title": {
-        "la": "Epistula 121"
+        "la": "Epistula 121",
+        "pt-BR": "Carta 121"
       }
     },
     {
       "id": "ch025",
       "title": {
-        "la": "Epistula 127"
+        "la": "Epistula 127",
+        "pt-BR": "Carta 127"
       }
     },
     {
       "id": "ch026",
       "title": {
-        "la": "Epistula 128"
+        "la": "Epistula 128",
+        "pt-BR": "Carta 128"
       }
     },
     {
       "id": "ch027",
       "title": {
-        "la": "Epistula 129"
+        "la": "Epistula 129",
+        "pt-BR": "Carta 129"
       }
     },
     {
       "id": "ch028",
       "title": {
-        "la": "Epistula 134"
+        "la": "Epistula 134",
+        "pt-BR": "Carta 134"
       }
     },
     {
       "id": "ch029",
       "title": {
-        "la": "Epistula 140"
+        "la": "Epistula 140",
+        "pt-BR": "Carta 140"
       }
     }
   ],
