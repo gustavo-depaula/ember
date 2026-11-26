@@ -43,13 +43,26 @@ export function pendingCards(input: EngineInput & { copies: Copy[]; today: IsoDa
     const group = byId.get(c.grant)?.group
     if (group) chosen.set(group, (chosen.get(group) ?? new Set()).add(c.card))
   }
-  return won
+  const opened = new Set(input.copies.map((c) => byId.get(c.grant)?.oneOf).filter(Boolean))
+  const waiting = won
     .filter((g) => !redeemed.has(g.id) && (!g.deadline || g.deadline >= input.today))
+    .filter((g) => !g.oneOf || !opened.has(g.oneOf))
     .map((g) => {
       const taken = g.group && chosen.get(g.group)
       return taken ? { ...g, choice: g.choice.filter((c) => !taken.has(c)) } : g
     })
-    .sort((a, b) => ascending(a.deadline ?? '9999', b.deadline ?? '9999'))
+  return firstOfEach(waiting).sort((a, b) => ascending(a.deadline ?? '9999', b.deadline ?? '9999'))
+}
+
+/** Of grants that are ways to one card (`oneOf`), only the first in `list` gives it. */
+export function firstOfEach<T extends Grant>(list: T[]): T[] {
+  const seen = new Set<string>()
+  return list.filter((g) => {
+    if (!g.oneOf) return true
+    if (seen.has(g.oneOf)) return false
+    seen.add(g.oneOf)
+    return true
+  })
 }
 
 /**

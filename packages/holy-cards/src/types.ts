@@ -87,6 +87,11 @@ type GrantBase = {
   drawn?: true
   /** Grants sharing a group give different cards: the second starter isn't the first. */
   group?: string
+  /**
+   * Grants sharing it are ways to one card: the first won gives it, and once
+   * one is opened the rest give nothing (the Office or a prayed day).
+   */
+  oneOf?: string
   /** Last day to redeem it (inclusive). Absent: no window. */
   deadline?: IsoDate
 }

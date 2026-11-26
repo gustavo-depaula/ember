@@ -4,6 +4,7 @@ import type { MissalCalendar } from '@ember/missal'
 import { describe, expect, it } from 'vitest'
 import { addDays, eachDay, isSunday } from '../dates'
 import { drawCard, grants, historyStart, pendingCards, redeem } from '../engine'
+import { offersToday } from '../today'
 import type { Act, Catalog, Copy, Door, EngineInput, Grant, Occurrence } from '../types'
 
 // The real calendar and the real saint cards; the non-saint cards (seasons,
@@ -137,16 +138,39 @@ describe('The Divine Office', () => {
     expect(grants(input([{ kind: 'prayedDay', date: '2026-06-10' }]))).toEqual([])
   })
 
-  it('gives two saints for a day kept both ways, where the day has two', () => {
+  it('gives one card for a day kept both ways, a choice where the day has two saints', () => {
     // 16 October: Gall and Gerard Majella, neither with a Mass.
     const both = (date: string): Act[] => [office(date), { kind: 'prayedDay', date }]
-    const waiting = pending(both('2026-10-16'), '2026-10-16')
-    expect(waiting.map((g) => g.door).sort()).toEqual(['office', 'prayedDay'])
-    const first = redeem(waiting[0], '2026-10-16', [], 'gall')
-    const [second] = pending(both('2026-10-16'), '2026-10-16', [first])
-    expect(second.choice).toEqual(['gerard_majella'])
-    // 9 October has Louis Bertrand alone: kept both ways, it still gives him once.
-    expect(pending(both('2026-10-09'), '2026-10-09').map((g) => g.door)).toEqual(['office'])
+    const [card, ...more] = pending(both('2026-10-16'), '2026-10-16')
+    expect(more).toEqual([])
+    expect(card.choice).toEqual(expect.arrayContaining(['gall', 'gerard_majella']))
+    const opened = redeem(card, '2026-10-16', [], 'gall')
+    expect(pending(both('2026-10-16'), '2026-10-16', [opened])).toEqual([])
+  })
+
+  it('keeps a card won by a prayed day when the Office is kept after it is opened', () => {
+    // 26 November: Peter of Alexandria alone, won by the Rosary before the Office.
+    const day = '2026-11-26'
+    const both: Act[] = [office(day), { kind: 'prayedDay', date: day }]
+    const [won] = pending([{ kind: 'prayedDay', date: day }], day)
+    const copy = redeem(won, day, [])
+    expect(pending(both, day, [copy])).toEqual([])
+    const offers = offersToday(input(both), day, [copy])
+    expect(offers.filter((o) => o.act !== 'mass').map((o) => o.grant.id)).toEqual([
+      `prayedDay:${day}`,
+    ])
+  })
+
+  it("offers the day's card through either act till one is kept, then through that one alone", () => {
+    const ways = (day: string, acts: Act[]) =>
+      offersToday(input(acts), day)
+        .filter((o) => o.act !== 'mass')
+        .map((o) => `${o.act}:${o.done}`)
+    for (const day of ['2026-11-26', '2026-10-16']) {
+      expect(ways(day, [])).toEqual(['office:false', 'prayedDay:false'])
+      expect(ways(day, [{ kind: 'prayedDay', date: day }])).toEqual(['prayedDay:true'])
+      expect(ways(day, [office(day)])).toEqual(['office:true'])
+    }
   })
 
   it("gives a saint of one region's calendar at Mass, not the Office", () => {
