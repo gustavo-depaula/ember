@@ -6,8 +6,9 @@ import type { Tier } from '@/db/schema'
 import { dayMinutes } from '@/features/plan-of-life/timeBlocks'
 import { pickByWindow } from '../prayNowOrder'
 
-// Real plans, straight from content/: the templates' times and tiers, on an
-// ordinary weekday — the practices kept every day.
+// Real plans: the two templates straight from content/, and the daily rules of
+// traditions Ember no longer offers as templates — their times and tiers as
+// they were — on an ordinary weekday: the practices kept every day.
 const content = resolve(__dirname, '../../../../../../content')
 type TemplatePractice = {
   ref?: string
@@ -23,7 +24,48 @@ const template = (id: string) =>
     }
   ).practices
 
+const retired: Record<string, [string, Tier, string][]> = {
+  'divine-mercy': [
+    ['morning-offering-faustina', 'essential', '07:00'],
+    ['chaplet-of-divine-mercy', 'essential', '15:00'],
+    ['three-oclock-prayer', 'ideal', '15:00'],
+    ['mass', 'ideal', '12:15'],
+  ],
+  carmelite: [
+    ['morning-offering-carmelite', 'ideal', '05:50'],
+    ['mental-prayer-teresian', 'essential', '06:00'],
+    ['mass', 'ideal', '07:00'],
+    ['liturgy-of-the-hours', 'essential', '07:30'],
+    ['spiritual-reading', 'essential', '21:00'],
+    ['rosary', 'ideal', '18:00'],
+    ['examination-of-conscience', 'essential', '21:30'],
+  ],
+  cursillo: [
+    ['morning-offering', 'essential', '06:30'],
+    ['mass', 'ideal', '07:00'],
+    ['mental-prayer', 'essential', '07:30'],
+    ['spiritual-reading', 'essential', '21:00'],
+    ['rosary', 'ideal', '18:00'],
+    ['visit-blessed-sacrament', 'ideal', '13:30'],
+    ['examination-of-conscience', 'essential', '21:30'],
+  ],
+  franciscan: [
+    ['morning-offering-franciscan', 'ideal', '06:45'],
+    ['liturgy-of-the-hours', 'essential', '07:00'],
+    ['mass', 'ideal', '07:30'],
+    ['gospel-of-the-day', 'essential', '08:00'],
+    ['examination-of-conscience', 'essential', '21:30'],
+  ],
+  'legion-of-mary': [
+    ['morning-offering', 'essential', '06:30'],
+    ['mass', 'ideal', '07:00'],
+    ['rosary', 'essential', '18:00'],
+  ],
+}
+
 function plan(id: string) {
+  const kept = retired[id]
+  if (kept) return kept.map(([ref, tier, time]) => ({ ref, tier, due: dayMinutes(time) }))
   return template(id).flatMap((p) => {
     if (!p.ref || !p.time || p.enabled === false) return []
     if (p.schedule && p.schedule.type !== 'daily') return []

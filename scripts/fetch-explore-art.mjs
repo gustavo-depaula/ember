@@ -45,67 +45,19 @@ const targets = [
   { id: 'collection/novenas', slug: 'novenas', q: 'Annunciation Fra Angelico' },
   { id: 'collection/litanies', slug: 'litanies', q: 'Madonna of the Rosary painting' },
 
-  // Plan-of-life templates. Each names the canonical PD masterpiece of its
-  // school. Modern founders (Josemaría, Thérèse photos) aren't PD, so the work
-  // is chosen by charism, not portrait: the Angelus for sanctified work, etc.
-  // Marian-consecration and sacred-heart reuse the collection paintings
-  // (mapped directly in artMap), so they're not refetched here.
+  // Plan-of-life templates. Modern founders (Josemaría) aren't PD, so the work
+  // is chosen by charism, not portrait: the Angelus for sanctified work.
   {
     id: 'plan-of-life-template/beginner-minimum',
     slug: 'tpl-beginner-minimum',
     q: 'Good Shepherd Murillo',
   },
-  // Salesian — *Introduction to the Devout Life* is a gentle guide to devotion
-  // in the world; Sassoferrato's serene Virgin in Prayer matches its sweetness
-  // far better than a bishop's portrait.
-  {
-    id: 'plan-of-life-template/salesian',
-    slug: 'tpl-salesian',
-    q: 'Virgin in Prayer Sassoferrato',
-  },
   { id: 'plan-of-life-template/opus-dei', slug: 'tpl-opus-dei', q: 'The Angelus Jean-François Millet' },
+  // The rule guide's daily chapter: spiritual childhood and trust.
   {
-    id: 'plan-of-life-template/ignatian',
-    slug: 'tpl-ignatian',
-    q: 'Saint Ignatius of Loyola Rubens',
-  },
-  // Little Way — spiritual childhood and trust; Bloch's children-of-Christ scene
-  // embodies it better than a roses still-life.
-  {
-    id: 'plan-of-life-template/little-way',
+    id: 'rule/daily',
     slug: 'tpl-little-way',
     q: 'Carl Bloch Suffer the Little Children to Come unto Me',
-  },
-  // Second-wave traditions. Carmelite reuses carmelite.jpg (St Teresa) and
-  // legion-of-mary reuses marian.jpg — mapped directly in artMap, not refetched.
-  { id: 'plan-of-life-template/dominican', slug: 'tpl-dominican', q: 'Fra Angelico Saint Dominic' },
-  {
-    id: 'plan-of-life-template/franciscan',
-    slug: 'tpl-franciscan',
-    q: 'Saint Francis of Assisi in Ecstasy Caravaggio',
-  },
-  {
-    id: 'plan-of-life-template/benedictine',
-    slug: 'tpl-benedictine',
-    q: 'Angelico Perugia Altarpiece Saint Benedict',
-  },
-  { id: 'plan-of-life-template/cursillo', slug: 'tpl-cursillo', q: 'Supper at Emmaus Caravaggio' },
-  {
-    id: 'plan-of-life-template/sulpician',
-    slug: 'tpl-sulpician',
-    q: 'Adoration of the Name of Jesus El Greco',
-  },
-  { id: 'plan-of-life-template/byzantine', slug: 'tpl-byzantine', q: 'Christ Pantocrator Sinai' },
-  // Divine Mercy — the canonical Hyła Image (1943) is still in copyright
-  // (Hyła †1965, PL life+70 expires ~2036). Kazimirowski's 1934 Vilnius Image
-  // — the original painted under Faustina's direct supervision — is in the
-  // public domain (Kazimirowski †1939, PL life+70 expired 2010) and is the
-  // theologically correct choice anyway. Falls back to the Crucifixion if the
-  // PD check on the Kazimirowski file fails.
-  {
-    id: 'plan-of-life-template/divine-mercy',
-    slug: 'tpl-divine-mercy',
-    q: 'Eugeniusz Kazimirowski Divine Mercy Vilnius',
   },
 
   // Dies Domini — one painting per weekday devotion. The query for each names

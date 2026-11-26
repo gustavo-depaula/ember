@@ -62,17 +62,6 @@ describe('adoptTemplate', () => {
     })
   }, 30_000)
 
-  it('never adopts a placeholder', async () => {
-    const benedictine = await template('benedictine')
-    const real = benedictine.practices.filter((p) => !('placeholder' in p)).length
-
-    await adoptTemplate(benedictine)
-
-    expect(real).toBeLessThan(benedictine.practices.length)
-    expect(new Set(slots().map((s) => s.practice_id)).size).toBeLessThanOrEqual(real)
-    expect(slots().some((s) => s.practice_id.includes('lectio'))).toBe(false)
-  }, 30_000)
-
   it('adds nothing the second time', async () => {
     const beginner = await template('beginner-minimum')
     await adoptTemplate(beginner)
@@ -85,14 +74,14 @@ describe('adoptTemplate', () => {
   it('switches a practice already kept to the tradition’s form instead of adding it again', async () => {
     await createPracticeWithSlot({ id: 'practice/morning-offering' }, { time: '06:00' })
 
-    await adoptTemplate(await template('carmelite'))
+    await adoptTemplate(await template('opus-dei'))
 
-    expect(slotsOf('practice/morning-offering-carmelite')).toEqual([])
+    expect(slotsOf('practice/morning-offering-opus-dei')).toEqual([])
     const [offering] = slotsOf('practice/morning-offering')
     expect(offering.time).toBe('06:00')
     expect(
       useEventStore.getState().practices.get('practice/morning-offering')?.active_variant,
-    ).toBe('practice/morning-offering-carmelite')
+    ).toBe('practice/morning-offering-opus-dei')
   }, 30_000)
 
   it('adopts only the chosen rows', async () => {

@@ -18,16 +18,8 @@ Explore feature blocks and cover rows. See `scripts/fetch-explore-art.mjs`.
 - **collection/novenas** → `novenas.jpg` — Fra Angelico. *La Anunciación, by Fra Angelico, from Prado in Google Earth.jpg* (Public domain).
 - **collection/litanies** → `litanies.jpg` — Caravaggio. *Michelangelo Merisi, called Caravaggio - Madonna of the Rosary - Google Art Project.jpg* (Public domain).
 - **plan-of-life-template/beginner-minimum** → `tpl-beginner-minimum.jpg` — Bartolomé Esteban Murillo. *BuenPastorMurillo1660.jpg* (Public domain).
-- **plan-of-life-template/salesian** → `tpl-salesian.jpg` — Giovanni Battista Salvi da Sassoferrato. *Sassoferrato - Jungfrun i bön.jpg* (Public domain).
 - **plan-of-life-template/opus-dei** → `tpl-opus-dei.jpg` — Jean-François Millet. *Jean-François Millet Angelus.jpg* (Public domain).
-- **plan-of-life-template/ignatian** → `tpl-ignatian.jpg` — Peter Paul Rubens. *Detail - Glory of St Ignatius of Loyola - Rubens - 1616 - KHM - Vienna.jpg* (Public domain).
-- **plan-of-life-template/little-way** → `tpl-little-way.jpg` — Carl Bloch. *Let the Little Children Come unto Jesus.jpg* (Public domain).
-- **plan-of-life-template/dominican** → `tpl-dominican.jpg` — Fra Angelico. *Fra Angelico - Saint Dominic Adoring the Crucifixion - WGA00562.jpg* (Public domain).
-- **plan-of-life-template/franciscan** → `tpl-franciscan.jpg` — Caravaggio. *Saint Francis of Assisi in Ecstasy-Caravaggio (c.1595).jpg* (Public domain).
-- **plan-of-life-template/cursillo** → `tpl-cursillo.jpg` — Caravaggio. *Supper at Emmaus-Caravaggio (1606).jpg* (Public domain).
-- **plan-of-life-template/sulpician** → `tpl-sulpician.png` — El Greco. *El Greco, The Adoration of the Name of Jesus.png* (Public domain).
-- **plan-of-life-template/byzantine** → `tpl-byzantine.jpg` — Unknown authorUnknown author. *Christ Icon Sinai 6th century.jpg* (Public domain).
-- **plan-of-life-template/benedictine** → `tpl-benedictine.jpg` — Fra Angelico. *Angelico - Perugia Altarpiece – Saint Benedict and Peter the Martyr.jpg* (Public domain).
+- **rule/daily** → `tpl-little-way.jpg` — Carl Bloch. *Let the Little Children Come unto Jesus.jpg* (Public domain).
 - **collection/dies-sunday** → `dies-sunday.jpg` — Nicholas Lochoff. *Nicolas Lokhoff. Copy of the picture, The Resurrection of Christ by Piero della Francesca.jpg* (Public domain).
 - **collection/dies-monday** → `dies-monday.jpg` — Cristóbal Rojas (1858-1890). *Cristobal Rojas 2012 033.JPG* (Public domain).
 - **collection/dies-tuesday** → `dies-tuesday.jpg` — Guido Reni. *GuidoReni MichaelDefeatsSatan.jpg* (Public domain).
@@ -35,7 +27,6 @@ Explore feature blocks and cover rows. See `scripts/fetch-explore-art.mjs`.
 - **collection/dies-thursday** → `dies-thursday.jpg` — Juan de Juanes. *El Salvador con la Eucaristía entre Melquisedec y Aarón (Museo del Prado).jpg* (Public domain).
 - **collection/dies-friday** → `dies-friday.jpg` — Diego Velázquez. *Cristo crucificado.jpg* (Public domain).
 - **collection/dies-saturday** → `dies-saturday.jpg` — Sandro Botticelli. *Madonna of the Magnificat* (c. 1481, Uffizi, Florence). Source photo by Livioandronico2013 on Wikimedia Commons (Public domain).
-- **plan-of-life-template/divine-mercy** → `tpl-divine-mercy.jpg` — Eugeniusz Kazimirowski. *Kazimirowski Eugeniusz, Divine Mercy, 1934.jpg* (Public domain).
 - **collection/thomas-aquinas** → `thomas-aquinas.jpg` — Carlo Crivelli. *St-thomas-aquinas.jpg* (Public domain).
 - **evangelist/matthew-1** → `evangelist-matthew-1.jpg` — Michelangelo Merisi da Caravaggio. *The Inspiration of Saint Matthew by Caravaggio.jpg* (Public domain).
 - **evangelist/matthew-2** → `evangelist-matthew-2.jpg` — Rembrandt. *The Evangelist Matthew Inspired by an Angel.jpg* (Public domain).

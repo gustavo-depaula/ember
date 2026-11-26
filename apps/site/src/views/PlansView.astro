@@ -19,8 +19,8 @@ const plan = id ? await loadPlan(id, locale) : undefined
 if (id && !plan) throw new Error(`No plan ${id}`)
 const listTitle = pt ? 'Planos de vida' : 'Plans of life'
 const listDescription = pt
-  ? 'Regras de vida das grandes escolas de espiritualidade católica: carmelita, inaciana, salesiana, beneditina, a Pequena Via e outras, prática por prática.'
-  : 'Rules of life from the great schools of Catholic spirituality: Carmelite, Ignatian, Salesian, Benedictine, the Little Way and others, practice by practice.'
+  ? 'Dois planos de vida, prática por prática: o Mínimo do Iniciante, para começar a rezar, e as normas de piedade do Opus Dei.'
+  : 'Two plans of life, practice by practice: the Beginner’s Minimum, to begin to pray, and the norms of piety of Opus Dei.'
 ---
 
 <Base

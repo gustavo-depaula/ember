@@ -3,9 +3,9 @@ import Svg, { Circle } from 'react-native-svg'
 import { useTheme, useThemeName, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, Typography } from '@/components'
-import { OpenBead } from '@/features/plan-of-life/components/RuleGuide'
-import { formatSlotTime, hourHue } from '@/features/plan-of-life/ruleString'
 import { lightTap } from '@/lib/haptics'
+import { formatSlotTime, hourHue } from '../ruleString'
+import { OpenBead } from './RuleGuide'
 
 /**
  * An hour of the Office on the plan's string: a bead in the hue of its time when

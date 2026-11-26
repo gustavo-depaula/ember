@@ -11,16 +11,17 @@ import { createSheet, NativeSheet } from '@/components/NativeSheet'
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { getManifest } from '@/content/resolver'
 import type { SlotState } from '@/db/events'
-import { CardRow } from '@/features/explore/CardRow'
 import { TemplateCard, useTemplateList } from '@/features/templates'
 import { lightTap } from '@/lib/haptics'
 import { localizeContent } from '@/lib/i18n'
 
 import { enrichSlot } from '../getPracticeName'
 import { useArchivedPractices, usePinnedFlows } from '../hooks'
+import type { Office } from '../offices'
 import { beadRadius, dayPartHue, formatSlotTime, hourHue, slotDaysLabel } from '../ruleString'
 import { dayPartOrder, getActiveBlocks } from '../timeBlocks'
 import { BeadRow, beadRowHeight, beadX, threadPath } from './BeadRow'
+import { OfficeHoursStep, OfficeSection } from './OfficeSection'
 
 const sheet = createSheet()
 
@@ -29,8 +30,8 @@ export const openPlanSheet = sheet.open
 /**
  * The whole rule, drawn up over the You page: the bead string stood upright
  * with each time named, an open bead at its foot that opens the page for
- * adding a practice (plan/add), and the
- * traditions to draw from.
+ * adding a practice (plan/add), the two whole plans to begin from, and the
+ * Divine Office, whose hours are chosen here in the sheet.
  */
 export function PlanSheet({ slots }: { slots: SlotState[] }) {
   const { t } = useTranslation()
@@ -47,19 +48,28 @@ export function PlanSheet({ slots }: { slots: SlotState[] }) {
               the top: the native sheet can't hand an RN scroll to itself. */}
           <ScrollView showsVerticalScrollIndicator={false} {...scroll}>
             <YStack paddingHorizontal="$lg" paddingBottom={insets.bottom + 48} gap="$xl">
-              {bodyShown && (
-                <>
-                  <HueKey />
-                  <UprightString slots={slots} />
-                  <Traditions />
-                  <Archived />
-                </>
-              )}
+              {bodyShown && <SheetBody slots={slots} />}
             </YStack>
           </ScrollView>
         </YStack>
       )}
     </NativeSheet>
+  )
+}
+
+// Mounted only while the sheet is up, so it opens on the string again each time.
+function SheetBody({ slots }: { slots: SlotState[] }) {
+  const [office, setOffice] = useState<Office>()
+  if (office)
+    return <OfficeHoursStep office={office} slots={slots} onDone={() => setOffice(undefined)} />
+  return (
+    <>
+      <HueKey />
+      <UprightString slots={slots} />
+      <WholePlans />
+      <OfficeSection slots={slots} onChoose={setOffice} />
+      <Archived />
+    </>
   )
 }
 
@@ -181,43 +191,33 @@ function UprightString({ slots }: { slots: SlotState[] }) {
   )
 }
 
-function Traditions() {
+// The two plans that are whole rules of their own, each opening its page to adopt.
+function WholePlans() {
   const { t } = useTranslation()
   const router = useRouter()
   const templates = useTemplateList()
 
   return (
     <YStack gap="$md">
-      <AnimatedPressable
-        onPress={() => {
-          sheet.close()
-          router.push('/templates' as never)
-        }}
-        accessibilityRole="link"
-        accessibilityLabel={t('a11y.openTraditions')}
-      >
-        <XStack gap="$sm" alignItems="center">
-          <Typography variant="label" textTransform="uppercase" letterSpacing={1.5}>
-            {t('plan.traditions')}
-          </Typography>
-          <Typography variant="label" color="$accent">
-            →
-          </Typography>
-        </XStack>
-      </AnimatedPressable>
-      <CardRow>
+      <YStack gap="$xs">
+        <Typography variant="label" textTransform="uppercase" letterSpacing={1.5}>
+          {t('plan.wholePlans')}
+        </Typography>
+        <Typography variant="caption">{t('plan.wholePlansLede')}</Typography>
+      </YStack>
+      <XStack justifyContent="space-between">
         {templates.map((item) => (
           <TemplateCard
             key={item.id}
             item={item}
-            width={164}
+            width="47%"
             onPress={(templateId) => {
               sheet.close()
               router.push({ pathname: '/templates/[templateId]', params: { templateId } })
             }}
           />
         ))}
-      </CardRow>
+      </XStack>
     </YStack>
   )
 }

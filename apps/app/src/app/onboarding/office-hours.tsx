@@ -4,11 +4,11 @@ import { useTranslation } from 'react-i18next'
 import { YStack } from 'tamagui'
 
 import { AnimatedPressable, ScreenLayout, Slab, Typography } from '@/components'
-import { HourToggle, OtherPrayerLine, offices, useOfficeHours } from '@/features/onboarding'
+import { OtherPrayerLine, useOfficeHours } from '@/features/onboarding'
+import { HourToggle } from '@/features/plan-of-life/components/HourToggle'
+import { type Office, offices } from '@/features/plan-of-life/offices'
 import { PracticeHeader } from '@/features/practices/components/PracticeHeader'
 import { localizeContent } from '@/lib/i18n'
-
-type Office = (typeof offices)[number]
 
 /** For one who prays the Office: which book, then which of its hours make the plan. */
 export default function OnboardingOfficeHours() {
@@ -39,7 +39,7 @@ export default function OnboardingOfficeHours() {
         <YStack>
           {offices.map((o) => {
             const selected = o.key === office.key
-            const name = t(`onboarding.office.forms.${o.key}`)
+            const name = t(`plan.offices.${o.key}`)
             return (
               <AnimatedPressable
                 key={o.key}
@@ -59,9 +59,7 @@ export default function OnboardingOfficeHours() {
                     backgroundColor="$accent"
                     marginVertical={3}
                   />
-                  <Typography variant="caption">
-                    {t(`onboarding.office.forms.${o.key}Hint`)}
-                  </Typography>
+                  <Typography variant="caption">{t(`plan.offices.${o.key}Hint`)}</Typography>
                 </YStack>
               </AnimatedPressable>
             )

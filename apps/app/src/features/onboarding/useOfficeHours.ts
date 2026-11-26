@@ -1,8 +1,7 @@
 import { useMutation, useQuery } from '@tanstack/react-query'
 import { useRouter } from 'expo-router'
-
+import { officeHours, setOfficeHours } from '@/features/plan-of-life/offices'
 import { reportFailure } from './failure'
-import { addOfficeHours, officeHours } from './plan'
 
 /** An Office's hours to choose from, and the step that keeps the chosen ones and moves on. */
 export function useOfficeHours(practiceId: string) {
@@ -12,7 +11,7 @@ export function useOfficeHours(practiceId: string) {
     queryFn: () => officeHours(practiceId),
   })
   const add = useMutation({
-    mutationFn: (hourIds: readonly string[]) => addOfficeHours(practiceId, hourIds),
+    mutationFn: (hourIds: readonly string[]) => setOfficeHours(practiceId, hourIds),
     onSuccess: () => router.push('/onboarding/reminders'),
     onError: reportFailure,
   })

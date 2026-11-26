@@ -4,7 +4,9 @@ import { useTranslation } from 'react-i18next'
 import { YStack } from 'tamagui'
 
 import { ScreenLayout, Slab, Typography } from '@/components'
-import { HourToggle, OtherPrayerLine, offices, useOfficeHours } from '@/features/onboarding'
+import { OtherPrayerLine, useOfficeHours } from '@/features/onboarding'
+import { HourToggle } from '@/features/plan-of-life/components/HourToggle'
+import { type Office, offices } from '@/features/plan-of-life/offices'
 import { PracticeHeader } from '@/features/practices/components/PracticeHeader'
 import { localizeContent } from '@/lib/i18n'
 

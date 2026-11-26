@@ -78,23 +78,47 @@ export function RuleOfLifeSections() {
         </XStack>
 
         {rule.length === 0 ? (
-          <AnimatedPressable
-            onPress={() => router.push('/templates' as never)}
-            accessibilityRole="button"
-            accessibilityLabel={t('plan.emptyStateAction')}
-          >
-            <YStack alignItems="center" gap="$sm" paddingVertical="$xl" paddingHorizontal="$lg">
-              <Typography variant="sacred-title" fontSize="$3">
-                {t('plan.emptyState')}
-              </Typography>
-              <Typography tone="muted" fontSize="$2" textAlign="center" fontStyle="italic">
-                {t('plan.emptyStateDescription')}
-              </Typography>
-              <Typography variant="label" color="$accent">
+          <YStack alignItems="center" gap="$sm" paddingVertical="$xl" paddingHorizontal="$lg">
+            <Typography variant="sacred-title" fontSize="$3" textAlign="center">
+              {t('plan.emptyState')}
+            </Typography>
+            <Typography tone="muted" fontSize="$2" textAlign="center" fontStyle="italic">
+              {t('plan.emptyStateDescription')}
+            </Typography>
+            <AnimatedPressable
+              testID="plan-empty-add"
+              onPress={() => {
+                lightTap()
+                router.push('/plan/add')
+              }}
+              accessibilityRole="link"
+              accessibilityLabel={t('a11y.openAddToRule')}
+            >
+              <Typography
+                variant="label"
+                color="$accent"
+                textTransform="uppercase"
+                letterSpacing={1.5}
+                minHeight={44}
+                paddingTop="$md"
+              >
                 {t('plan.emptyStateAction')}
               </Typography>
-            </YStack>
-          </AnimatedPressable>
+            </AnimatedPressable>
+            <AnimatedPressable
+              testID="plan-empty-whole"
+              onPress={() => {
+                lightTap()
+                openPlanSheet()
+              }}
+              accessibilityRole="button"
+              accessibilityLabel={t('plan.emptyStateWhole')}
+            >
+              <Typography tone="muted" fontSize={15} minHeight={44}>
+                {t('plan.emptyStateWhole')}
+              </Typography>
+            </AnimatedPressable>
+          </YStack>
         ) : (
           <>
             <RuleString slots={rule} onPress={openPlanSheet} />

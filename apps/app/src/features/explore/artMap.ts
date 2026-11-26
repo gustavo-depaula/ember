@@ -30,26 +30,9 @@ const artFiles: Record<string, string> = {
   'collection/novenas': 'novenas.jpg',
   'collection/litanies': 'litanies.jpg',
 
-  // Plan-of-life templates. Marian-consecration and sacred-heart reuse the
-  // collection paintings; the rest have their own (fetched as tpl-*.jpg).
+  // The two plan-of-life templates.
   'plan-of-life-template/beginner-minimum': 'tpl-beginner-minimum.jpg',
-  'plan-of-life-template/salesian': 'tpl-salesian.jpg',
   'plan-of-life-template/opus-dei': 'tpl-opus-dei.jpg',
-  'plan-of-life-template/ignatian': 'tpl-ignatian.jpg',
-  'plan-of-life-template/little-way': 'tpl-little-way.jpg',
-  'plan-of-life-template/marian-consecration': 'marian.jpg',
-  'plan-of-life-template/sacred-heart': 'sacred-heart.jpg',
-  'plan-of-life-template/divine-mercy': 'tpl-divine-mercy.jpg',
-  // Carmelite reuses St Teresa; legion-of-mary reuses the Marian Immaculate
-  // Conception.
-  'plan-of-life-template/carmelite': 'carmelite.jpg',
-  'plan-of-life-template/dominican': 'tpl-dominican.jpg',
-  'plan-of-life-template/franciscan': 'tpl-franciscan.jpg',
-  'plan-of-life-template/benedictine': 'tpl-benedictine.jpg',
-  'plan-of-life-template/cursillo': 'tpl-cursillo.jpg',
-  'plan-of-life-template/legion-of-mary': 'marian.jpg',
-  'plan-of-life-template/sulpician': 'tpl-sulpician.png',
-  'plan-of-life-template/byzantine': 'tpl-byzantine.jpg',
 
   'collection/dies-sunday': 'dies-sunday.jpg',
   'collection/dies-monday': 'dies-monday.jpg',

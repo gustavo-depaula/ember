@@ -8,30 +8,13 @@ import { autoPinForPlan, resyncReminders } from '@/features/plan-of-life/hooks'
 
 import { adoptTemplate } from './adopt'
 
-// Browse order, sized to the likely audience. Anything not listed sorts after,
-// alphabetically — so a newly-authored template still shows.
-const v1Order = [
-  'beginner-minimum',
-  'salesian',
-  'opus-dei',
-  'ignatian',
-  'little-way',
-  'marian-consecration',
-  'sacred-heart',
-  'carmelite',
-  'dominican',
-  'franciscan',
-  'benedictine',
-  'cursillo',
-  'legion-of-mary',
-  'sulpician',
-  'byzantine',
-]
+// The beginner's plan first. Anything not listed sorts after, alphabetically.
+const order = ['beginner-minimum', 'opus-dei']
 
 export type TemplateListItem = { id: string; entry: CatalogEntry }
 
 /**
- * List all `plan-of-life-template` catalog entries in browse order. Derived
+ * List all `plan-of-life-template` catalog entries, the beginner's first. Derived
  * from the live catalog, so the list fills in as deferred manifests warm
  * (keyed on `useCatalogVersion`). No manifest fetch — the catalog entry carries
  * the localized name / description / icon needed for the browse row.
@@ -43,8 +26,8 @@ export function useTemplateList(): TemplateListItem[] {
     const items = getEntriesByKind('plan-of-life-template').map(([id, entry]) => ({ id, entry }))
     const rank = (id: string) => {
       const slug = id.slice(id.indexOf('/') + 1)
-      const i = v1Order.indexOf(slug)
-      return i === -1 ? v1Order.length : i
+      const i = order.indexOf(slug)
+      return i === -1 ? order.length : i
     }
     return items.sort((a, b) => {
       const r = rank(a.id) - rank(b.id)
