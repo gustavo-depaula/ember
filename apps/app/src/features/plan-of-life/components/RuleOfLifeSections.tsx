@@ -52,27 +52,36 @@ export function RuleOfLifeSections() {
     <YStack gap="$xl">
       <YStack gap="$sm">
         <XStack alignItems="center" justifyContent="space-between">
-          <AnimatedPressable
-            onPress={() => {
-              lightTap()
-              openPlanSheet()
-            }}
-            accessibilityRole="button"
-            accessibilityLabel={t('a11y.openPlan')}
-          >
-            <XStack gap="$xs" alignItems="center" minHeight={44}>
+          {/* An empty plan has nothing to open: its rows below are the ways in. */}
+          {rule.length === 0 ? (
+            <XStack alignItems="center" minHeight={44}>
               <Typography variant="label" textTransform="uppercase" letterSpacing={1.5}>
                 {t('plan.title')}
               </Typography>
-              {/* Cinzel keeps descender room below its caps; lift the chevron to their middle. */}
-              <ChevronRight
-                size={24}
-                strokeWidth={1.75}
-                color={theme.accent?.val}
-                style={{ marginTop: -2 }}
-              />
             </XStack>
-          </AnimatedPressable>
+          ) : (
+            <AnimatedPressable
+              onPress={() => {
+                lightTap()
+                openPlanSheet()
+              }}
+              accessibilityRole="button"
+              accessibilityLabel={t('a11y.openPlan')}
+            >
+              <XStack gap="$xs" alignItems="center" minHeight={44}>
+                <Typography variant="label" textTransform="uppercase" letterSpacing={1.5}>
+                  {t('plan.title')}
+                </Typography>
+                {/* Cinzel keeps descender room below its caps; lift the chevron to their middle. */}
+                <ChevronRight
+                  size={24}
+                  strokeWidth={1.75}
+                  color={theme.accent?.val}
+                  style={{ marginTop: -2 }}
+                />
+              </XStack>
+            </AnimatedPressable>
+          )}
           {practiceIds.length > 0 ? (
             <AnimatedPressable
               onPress={() => {
