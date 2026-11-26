@@ -1,0 +1,3 @@
+# Carta 15. A Luísa de Marillac
+
+A carta nº 370 da edição Coste (t. I, p. 555-556), dirigida a Luísa de Marillac por volta de 1638, foi publicada por Coste segundo a edição Pémartin (1880), t. II, p. 3. Desde então, o original dessa carta foi encontrado (1942) no hospital de Tarbes, servido pelas Filhas da Caridade. O texto conforme ao original foi publicado nos *Anais da Congregação da Missão* 1941-1942, p. 559. As diferenças em relação ao texto Pémartin-Coste são insignificantes, razão pela qual não julgamos útil reproduzir aqui esse texto. Uma fotografia desse documento encontra-se nos Arquivos da Missão.
