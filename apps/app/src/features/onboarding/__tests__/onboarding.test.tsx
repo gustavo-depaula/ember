@@ -86,8 +86,8 @@ describe('the gate', () => {
     ['started', false, 'onboard'],
     ['new', false, 'onboard'],
     ['new', true, 'settle'],
-  ] as const)('%s with a plan=%s → %s', (stage, hasPlan, gate) => {
-    expect(gateOf(stage, hasPlan)).toBe(gate)
+  ] as const)('%s, settled=%s → %s', (stage, settled, gate) => {
+    expect(gateOf(stage, settled)).toBe(gate)
   })
 
   it('sends a first install from Today to onboarding', async () => {
@@ -95,17 +95,35 @@ describe('the gate', () => {
     await expect.poll(currentPath).toBe('/onboarding')
   }, 30_000)
 
+  // A plan of `practices`, the first prayed on `days` days.
+  const keeping = (practices: string[], days: number) => async () => {
+    const { createPracticeWithSlot, logCompletion } = await import('@/db/repositories')
+    for (const id of practices) await createPracticeWithSlot({ id }, { time: '20:00' })
+    for (let d = 1; d <= days; d++)
+      await logCompletion(practices[0], `2026-11-0${d}`, 'x', practices[0], 'checklist')
+  }
+
   it('leaves someone who already keeps a rule on Today, and never asks again', async () => {
     const { screen } = await boot({
       route: '/',
-      seed: async () => {
-        const { createPracticeWithSlot } = await import('@/db/repositories')
-        await createPracticeWithSlot({ id: 'practice/rosary' }, { time: '20:00' })
-      },
+      seed: keeping(['practice/rosary', 'practice/angelus'], 3),
     })
     expect(await screen.findByTestId('today')).toBeInTheDocument()
     await expect.poll(() => usePreferencesStore.getState().onboarding).toBe('done')
   }, 30_000)
+
+  it.each([
+    ['a single prayer in the plan, however often prayed', ['practice/rosary'], 5],
+    ['a plan barely prayed', ['practice/rosary', 'practice/angelus'], 2],
+  ])(
+    'still onboards %s, keeping what is there',
+    async (_, practices, days) => {
+      await boot({ route: '/', seed: keeping(practices, days) })
+      await expect.poll(currentPath).toBe('/onboarding')
+      expect(plan()).toHaveLength(practices.length)
+    },
+    30_000,
+  )
 
   it('leaves Today alone once onboarding is done', async () => {
     const { screen } = await boot({ route: '/', onboarding: false })

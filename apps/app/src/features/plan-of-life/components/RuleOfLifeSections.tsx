@@ -22,7 +22,7 @@ const emptyPlanWays: Record<ReasonKey, Href> = {
   begin: { pathname: '/templates/[templateId]', params: { templateId: 'beginner-minimum' } },
   grow: '/plan/add',
   obra: { pathname: '/templates/[templateId]', params: { templateId: 'opus-dei' } },
-  office: '/plan/office',
+  office: '/plan/office-ask',
 }
 
 /**
