@@ -2,6 +2,7 @@ import type { Copy, Season, Way } from '@ember/holy-cards'
 import { addDays, differenceInCalendarDays, format, parseISO } from 'date-fns'
 import { useRouter } from 'expo-router'
 import type { TFunction } from 'i18next'
+import { ChevronRight } from 'lucide-react-native'
 import { type ReactNode, useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import Svg, { Circle, Path } from 'react-native-svg'
@@ -96,7 +97,7 @@ function WayRow({
   const today = useToday()
   const text = describe(way, today, t)
   if (!text) return null
-  const row = (action?: string) => (
+  const row = (opens?: boolean) => (
     <Row
       glyph={text.glyph}
       title={text.title}
@@ -104,7 +105,7 @@ function WayRow({
       detail={text.detail}
       progress={text.progress}
       soon={text.soon}
-      action={action}
+      opens={opens}
     />
   )
   if (way.door !== 'office') return row()
@@ -117,7 +118,7 @@ function WayRow({
       accessibilityRole="link"
       accessibilityLabel={text.title}
     >
-      {row(t('saints.page.pray'))}
+      {row(true)}
     </AnimatedPressable>
   )
 }
@@ -157,11 +158,7 @@ function NovenaRow({ novena }: { novena: string }) {
         when={when}
         soon={!!underWay}
         progress={underWay ? { total, done: progress.completionCount } : undefined}
-        action={
-          underWay
-            ? t('saints.receive.prayDay', { day: progress.completionCount + 1 })
-            : t('saints.page.pray')
-        }
+        opens
       />
     </AnimatedPressable>
   )
@@ -212,7 +209,7 @@ function RoundRow({ practice, round: key }: { practice: string; round: string })
         }
         soon={underWay}
         progress={underWay ? { total, done } : undefined}
-        action={t('saints.page.pray')}
+        opens
       />
     </AnimatedPressable>
   )
@@ -250,7 +247,7 @@ function RosaryRow({ date }: { date: string }) {
         title={title}
         when={done ? t('saints.receive.rosaryDone') : dayAndDistance(date, day, t)}
         soon={date === today}
-        action={done ? undefined : t('saints.page.pray')}
+        opens={!done}
       />
     </AnimatedPressable>
   )
@@ -288,9 +285,18 @@ const stations: Record<(typeof dayPrayers)[number], { x: number; y: number; lit:
   examen: { x: 231.2, y: 51, lit: arc },
 }
 const stationAlign = { offering: 'flex-start', midday: 'center', examen: 'flex-end' } as const
+// The prayer each station opens. The Angelus gives way to the Regina Caeli in
+// Eastertide by itself; the midday's other form, the daily liturgy, opens from
+// its own line.
+const stationPractice = {
+  offering: 'morning-offering',
+  midday: 'angelus',
+  examen: 'examination-of-conscience',
+} as const
 
 function DayArc({ prayed }: { prayed: Set<DayPrayer> }) {
   const { t } = useTranslation()
+  const router = useRouter()
   const theme = useTheme()
   const ink = theme.accentHover.val
   const reached = dayPrayers.filter((_, i) =>
@@ -326,20 +332,55 @@ function DayArc({ prayed }: { prayed: Set<DayPrayer> }) {
         ))}
       </Svg>
       <XStack>
-        {dayPrayers.map((prayer) => (
-          <YStack key={prayer} flex={1} alignItems={stationAlign[prayer]}>
+        {dayPrayers.map((prayer) => {
+          const name = t(`saints.receive.dayPrayer.${prayer}`)
+          const when = t(`saints.receive.dayPrayerWhen.${prayer}`)
+          const title = (
             <Typography
               variant="interface"
               fontSize="$2"
               color={prayed.has(prayer) ? '$colorSecondary' : undefined}
             >
-              {t(`saints.receive.dayPrayer.${prayer}`)}
+              {name}
             </Typography>
-            <Typography variant="annotation">
-              {t(`saints.receive.dayPrayerWhen.${prayer}`)}
-            </Typography>
-          </YStack>
-        ))}
+          )
+          const open = (practice: string) => () => router.push(practiceHref(practice))
+          return (
+            <YStack key={prayer} flex={1} alignItems={stationAlign[prayer]}>
+              {prayer === 'midday' ? (
+                <>
+                  <AnimatedPressable
+                    onPress={open(stationPractice.midday)}
+                    accessibilityRole="link"
+                    accessibilityLabel={name}
+                    hitSlop={{ top: 12, left: 12, right: 12 }}
+                  >
+                    {title}
+                  </AnimatedPressable>
+                  <AnimatedPressable
+                    onPress={open('daily-liturgy')}
+                    accessibilityRole="link"
+                    accessibilityLabel={t('explore.dailyLiturgy')}
+                    hitSlop={{ bottom: 12, left: 12, right: 12 }}
+                  >
+                    <Typography variant="annotation">{when}</Typography>
+                  </AnimatedPressable>
+                </>
+              ) : (
+                <AnimatedPressable
+                  onPress={open(stationPractice[prayer])}
+                  accessibilityRole="link"
+                  accessibilityLabel={`${name} ${when}`}
+                  hitSlop={12}
+                  style={{ alignItems: stationAlign[prayer] }}
+                >
+                  {title}
+                  <Typography variant="annotation">{when}</Typography>
+                </AnimatedPressable>
+              )}
+            </YStack>
+          )
+        })}
       </XStack>
     </YStack>
   )
@@ -352,7 +393,7 @@ function Row({
   detail,
   progress,
   soon,
-  action,
+  opens,
   children,
 }: {
   glyph: Glyph
@@ -361,9 +402,10 @@ function Row({
   detail?: string
   progress?: { total: number; done: number }
   soon?: boolean
-  action?: string
+  opens?: boolean
   children?: ReactNode
 }) {
+  const theme = useTheme()
   return (
     <XStack gap="$md" paddingVertical="$md" borderBottomWidth={1} borderBottomColor="$borderColor">
       <View width={28} paddingTop={2}>
@@ -383,29 +425,12 @@ function Row({
             {detail}
           </Typography>
         )}
-        {action && (
-          <XStack paddingTop="$sm">
-            <View
-              borderWidth={1}
-              borderColor={soon ? '$colorBurgundy' : '$accent'}
-              backgroundColor={soon ? '$colorBurgundy' : 'transparent'}
-              borderRadius={14}
-              paddingHorizontal={10}
-              paddingVertical={3}
-            >
-              <Typography
-                variant="label"
-                fontSize={10}
-                letterSpacing={1.5}
-                textTransform="uppercase"
-                color={soon ? '$background' : '$accentHover'}
-              >
-                {action}
-              </Typography>
-            </View>
-          </XStack>
-        )}
       </YStack>
+      {opens && (
+        <View alignSelf="center">
+          <ChevronRight size={18} color={theme.accentSubtle?.val} />
+        </View>
+      )}
     </XStack>
   )
 }
