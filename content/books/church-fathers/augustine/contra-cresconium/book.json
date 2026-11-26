@@ -18,13 +18,19 @@
   },
   "composed": "405-406",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/contra-cresconium",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,49 +47,57 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Liber I"
+        "la": "Liber I",
+        "pt-BR": "Livro I"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "Liber II"
+        "la": "Liber II",
+        "pt-BR": "Livro II"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "la": "Liber III, Capita 1–32"
+        "la": "Liber III, Capita 1–32",
+        "pt-BR": "Livro III, Capítulos 1–32"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "la": "Liber III, Capita 33–64"
+        "la": "Liber III, Capita 33–64",
+        "pt-BR": "Livro III, Capítulos 33–64"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "la": "Liber III, Capita 65–82"
+        "la": "Liber III, Capita 65–82",
+        "pt-BR": "Livro III, Capítulos 65–82"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "la": "Liber IV, Capita 1–26"
+        "la": "Liber IV, Capita 1–26",
+        "pt-BR": "Livro IV, Capítulos 1–26"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "la": "Liber IV, Capita 27–57"
+        "la": "Liber IV, Capita 27–57",
+        "pt-BR": "Livro IV, Capítulos 27–57"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "la": "Liber IV, Capita 58–66"
+        "la": "Liber IV, Capita 58–66",
+        "pt-BR": "Livro IV, Capítulos 58–66"
       }
     }
   ],
