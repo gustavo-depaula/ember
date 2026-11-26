@@ -15,13 +15,19 @@
   },
   "composed": "1849-1878",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "newman/sermon-notes",
   "editions": {
     "en-US": {
       "editor": "Fathers of the Birmingham Oratory (Longmans, 1913)",
       "year": 1913
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -45,7 +51,8 @@
         {
           "id": "introduction",
           "title": {
-            "en-US": "Introduction"
+            "en-US": "Introduction",
+            "pt-BR": "Introdução"
           }
         }
       ]
@@ -60,49 +67,57 @@
         {
           "id": "sermon-notes-1",
           "title": {
-            "en-US": "Sermon Notes, Part 1"
+            "en-US": "Sermon Notes, Part 1",
+            "pt-BR": "Notas de sermões, Parte 1"
           }
         },
         {
           "id": "sermon-notes-2",
           "title": {
-            "en-US": "Sermon Notes, Part 2"
+            "en-US": "Sermon Notes, Part 2",
+            "pt-BR": "Notas de sermões, Parte 2"
           }
         },
         {
           "id": "sermon-notes-3",
           "title": {
-            "en-US": "Sermon Notes, Part 3"
+            "en-US": "Sermon Notes, Part 3",
+            "pt-BR": "Notas de sermões, Parte 3"
           }
         },
         {
           "id": "sermon-notes-4",
           "title": {
-            "en-US": "Sermon Notes, Part 4"
+            "en-US": "Sermon Notes, Part 4",
+            "pt-BR": "Notas de sermões, Parte 4"
           }
         },
         {
           "id": "sermon-notes-5",
           "title": {
-            "en-US": "Sermon Notes, Part 5"
+            "en-US": "Sermon Notes, Part 5",
+            "pt-BR": "Notas de sermões, Parte 5"
           }
         },
         {
           "id": "sermon-notes-6",
           "title": {
-            "en-US": "Sermon Notes, Part 6"
+            "en-US": "Sermon Notes, Part 6",
+            "pt-BR": "Notas de sermões, Parte 6"
           }
         },
         {
           "id": "sermon-notes-7",
           "title": {
-            "en-US": "Sermon Notes, Part 7"
+            "en-US": "Sermon Notes, Part 7",
+            "pt-BR": "Notas de sermões, Parte 7"
           }
         },
         {
           "id": "sermon-notes-8",
           "title": {
-            "en-US": "Sermon Notes, Part 8"
+            "en-US": "Sermon Notes, Part 8",
+            "pt-BR": "Notas de sermões, Parte 8"
           }
         }
       ]
@@ -117,7 +132,8 @@
         {
           "id": "catechetical-instructions",
           "title": {
-            "en-US": "Catechetical Instructions"
+            "en-US": "Catechetical Instructions",
+            "pt-BR": "Instruções catequéticas"
           }
         }
       ]
@@ -132,7 +148,8 @@
         {
           "id": "notes",
           "title": {
-            "en-US": "Notes"
+            "en-US": "Notes",
+            "pt-BR": "Notas"
           }
         }
       ]
