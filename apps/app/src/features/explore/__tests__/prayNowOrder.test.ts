@@ -53,7 +53,7 @@ const retired: Record<string, [string, Tier, string][]> = {
     ['morning-offering-franciscan', 'ideal', '06:45'],
     ['liturgy-of-the-hours', 'essential', '07:00'],
     ['mass', 'ideal', '07:30'],
-    ['gospel-of-the-day', 'essential', '08:00'],
+    ['daily-liturgy', 'essential', '08:00'],
     ['examination-of-conscience', 'essential', '21:30'],
   ],
   'legion-of-mary': [
