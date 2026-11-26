@@ -11,17 +11,23 @@
   },
   "description": {
     "en-US": "Eight stories framed by Father Brown's own account to a young American of how he does it: not by method but by becoming the criminal in imagination and repenting for him. The Mirror of the Magistrate, The Man with Two Beards and The Song of the Flying Fish, with Flambeau's last appearance.",
-    "pt-BR": "Oito histórias emolduradas pelo relato do próprio Padre Brown a um jovem americano sobre como ele faz: não por método, mas tornando-se o criminoso na imaginação e arrependendo-se por ele. O Espelho do Magistrado, O Homem das Duas Barbas e A Canção do Peixe-Voador, com a última aparição de Flambeau."
+    "pt-BR": "Oito histórias emolduradas pelo relato do próprio Padre Brown a um viajante americano sobre como ele faz: não por método, mas tornando-se o criminoso na imaginação e arrependendo-se por ele. O Espelho do Magistrado, O Homem das Duas Barbas e A Canção do Peixe-Voador, com a última aparição de Flambeau."
   },
   "composed": "1927",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/secret-of-father-brown",
   "editions": {
     "en-US": {
       "editor": "Cassell and Company",
       "year": 1927
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,61 +44,71 @@
     {
       "id": "ch01-the-secret-of-father-brown",
       "title": {
-        "en-US": "The Secret of Father Brown"
+        "en-US": "The Secret of Father Brown",
+        "pt-BR": "O Segredo do Padre Brown"
       }
     },
     {
       "id": "ch02-the-mirror-of-the-magistrate",
       "title": {
-        "en-US": "The Mirror of the Magistrate"
+        "en-US": "The Mirror of the Magistrate",
+        "pt-BR": "O Espelho do Magistrado"
       }
     },
     {
       "id": "ch03-the-man-with-two-beards",
       "title": {
-        "en-US": "The Man with Two Beards"
+        "en-US": "The Man with Two Beards",
+        "pt-BR": "O Homem das Duas Barbas"
       }
     },
     {
       "id": "ch04-the-song-of-the-flying-fish",
       "title": {
-        "en-US": "The Song of the Flying Fish"
+        "en-US": "The Song of the Flying Fish",
+        "pt-BR": "A Canção do Peixe-Voador"
       }
     },
     {
       "id": "ch05-the-actor-and-the-alibi",
       "title": {
-        "en-US": "The Actor and the Alibi"
+        "en-US": "The Actor and the Alibi",
+        "pt-BR": "O Ator e o Álibi"
       }
     },
     {
       "id": "ch06-the-vanishing-of-vaudrey",
       "title": {
-        "en-US": "The Vanishing of Vaudrey"
+        "en-US": "The Vanishing of Vaudrey",
+        "pt-BR": "O Desaparecimento de Vaudrey"
       }
     },
     {
       "id": "ch07-the-worst-crime-in-the-world",
       "title": {
-        "en-US": "The Worst Crime in the World"
+        "en-US": "The Worst Crime in the World",
+        "pt-BR": "O Pior Crime do Mundo"
       }
     },
     {
       "id": "ch08-the-red-moon-of-meru",
       "title": {
-        "en-US": "The Red Moon of Meru"
+        "en-US": "The Red Moon of Meru",
+        "pt-BR": "A Lua Vermelha de Meru"
       }
     },
     {
       "id": "ch09-the-chief-mourner-of-marne",
       "title": {
-        "en-US": "The Chief Mourner of Marne"
+        "en-US": "The Chief Mourner of Marne",
+        "pt-BR": "O Principal Enlutado de Marne"
       }
     },
     {
       "id": "ch10-the-secret-of-flambeau",
       "title": {
-        "en-US": "The Secret of Flambeau"
+        "en-US": "The Secret of Flambeau",
+        "pt-BR": "O Segredo de Flambeau"
       }
     }
   ]
