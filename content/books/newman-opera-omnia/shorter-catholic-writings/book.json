@@ -15,13 +15,19 @@
   },
   "composed": "1859-1884",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "newman/shorter-catholic-writings",
   "editions": {
     "en-US": {
       "editor": "John Henry Newman (Newman Reader transcriptions of the Rambler, the Nineteenth Century and the Contemporary Review texts)",
       "year": 1884
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,31 +44,36 @@
     {
       "id": "cathedra-sempiterna",
       "title": {
-        "en-US": "Cathedra Sempiterna"
+        "en-US": "Cathedra Sempiterna",
+        "pt-BR": "Cathedra Sempiterna"
       }
     },
     {
       "id": "consulting-the-faithful",
       "title": {
-        "en-US": "On Consulting the Faithful in Matters of Doctrine"
+        "en-US": "On Consulting the Faithful in Matters of Doctrine",
+        "pt-BR": "Sobre a Consulta aos Fiéis em Matéria de Doutrina"
       }
     },
     {
       "id": "five-letters-to-mozley",
       "title": {
-        "en-US": "Five Letters by Cardinal Newman"
+        "en-US": "Five Letters by Cardinal Newman",
+        "pt-BR": "Cinco Cartas do Cardeal Newman"
       }
     },
     {
       "id": "inspiration-of-scripture-1",
       "title": {
-        "en-US": "On the Inspiration of Scripture, Essay I"
+        "en-US": "On the Inspiration of Scripture, Essay I",
+        "pt-BR": "Sobre a Inspiração da Escritura, Ensaio I"
       }
     },
     {
       "id": "inspiration-of-scripture-2",
       "title": {
-        "en-US": "On the Inspiration of Scripture, Essay II: Further Illustrations"
+        "en-US": "On the Inspiration of Scripture, Essay II: Further Illustrations",
+        "pt-BR": "Sobre a Inspiração da Escritura, Ensaio II: Novas Ilustrações"
       }
     }
   ]
