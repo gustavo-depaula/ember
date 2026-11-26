@@ -18,13 +18,19 @@
   },
   "composed": "date varies",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/sermones",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,433 +47,505 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Sermo 216"
+        "la": "Sermo 216",
+        "pt-BR": "Sermão 216"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "Sermo 217"
+        "la": "Sermo 217",
+        "pt-BR": "Sermão 217"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "la": "Sermo 218"
+        "la": "Sermo 218",
+        "pt-BR": "Sermão 218"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "la": "Sermo 218/A"
+        "la": "Sermo 218/A",
+        "pt-BR": "Sermão 218/A"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "la": "Sermo 218/B"
+        "la": "Sermo 218/B",
+        "pt-BR": "Sermão 218/B"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "la": "Sermo 218/C"
+        "la": "Sermo 218/C",
+        "pt-BR": "Sermão 218/C"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "la": "Sermo 219"
+        "la": "Sermo 219",
+        "pt-BR": "Sermão 219"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "la": "Sermo 220"
+        "la": "Sermo 220",
+        "pt-BR": "Sermão 220"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "la": "Sermo 221"
+        "la": "Sermo 221",
+        "pt-BR": "Sermão 221"
       }
     },
     {
       "id": "ch010",
       "title": {
-        "la": "Sermo 222"
+        "la": "Sermo 222",
+        "pt-BR": "Sermão 222"
       }
     },
     {
       "id": "ch011",
       "title": {
-        "la": "Sermo 223"
+        "la": "Sermo 223",
+        "pt-BR": "Sermão 223"
       }
     },
     {
       "id": "ch012",
       "title": {
-        "la": "Sermo 223/A"
+        "la": "Sermo 223/A",
+        "pt-BR": "Sermão 223/A"
       }
     },
     {
       "id": "ch013",
       "title": {
-        "la": "Sermo 223/B"
+        "la": "Sermo 223/B",
+        "pt-BR": "Sermão 223/B"
       }
     },
     {
       "id": "ch014",
       "title": {
-        "la": "Sermo 223/C"
+        "la": "Sermo 223/C",
+        "pt-BR": "Sermão 223/C"
       }
     },
     {
       "id": "ch015",
       "title": {
-        "la": "Sermo 223/D"
+        "la": "Sermo 223/D",
+        "pt-BR": "Sermão 223/D"
       }
     },
     {
       "id": "ch016",
       "title": {
-        "la": "Sermo 223/E"
+        "la": "Sermo 223/E",
+        "pt-BR": "Sermão 223/E"
       }
     },
     {
       "id": "ch017",
       "title": {
-        "la": "Sermo 223/F"
+        "la": "Sermo 223/F",
+        "pt-BR": "Sermão 223/F"
       }
     },
     {
       "id": "ch018",
       "title": {
-        "la": "Sermo 223/G"
+        "la": "Sermo 223/G",
+        "pt-BR": "Sermão 223/G"
       }
     },
     {
       "id": "ch019",
       "title": {
-        "la": "Sermo 223/H"
+        "la": "Sermo 223/H",
+        "pt-BR": "Sermão 223/H"
       }
     },
     {
       "id": "ch020",
       "title": {
-        "la": "Sermo 223/I"
+        "la": "Sermo 223/I",
+        "pt-BR": "Sermão 223/I"
       }
     },
     {
       "id": "ch021",
       "title": {
-        "la": "Sermo 223/J"
+        "la": "Sermo 223/J",
+        "pt-BR": "Sermão 223/J"
       }
     },
     {
       "id": "ch022",
       "title": {
-        "la": "Sermo 223/K"
+        "la": "Sermo 223/K",
+        "pt-BR": "Sermão 223/K"
       }
     },
     {
       "id": "ch023",
       "title": {
-        "la": "Sermo 224"
+        "la": "Sermo 224",
+        "pt-BR": "Sermão 224"
       }
     },
     {
       "id": "ch024",
       "title": {
-        "la": "Sermo 225"
+        "la": "Sermo 225",
+        "pt-BR": "Sermão 225"
       }
     },
     {
       "id": "ch025",
       "title": {
-        "la": "Sermo 226"
+        "la": "Sermo 226",
+        "pt-BR": "Sermão 226"
       }
     },
     {
       "id": "ch026",
       "title": {
-        "la": "Sermo 227"
+        "la": "Sermo 227",
+        "pt-BR": "Sermão 227"
       }
     },
     {
       "id": "ch027",
       "title": {
-        "la": "Sermo 228"
+        "la": "Sermo 228",
+        "pt-BR": "Sermão 228"
       }
     },
     {
       "id": "ch028",
       "title": {
-        "la": "Sermo 228/A"
+        "la": "Sermo 228/A",
+        "pt-BR": "Sermão 228/A"
       }
     },
     {
       "id": "ch029",
       "title": {
-        "la": "Sermo 228/B"
+        "la": "Sermo 228/B",
+        "pt-BR": "Sermão 228/B"
       }
     },
     {
       "id": "ch030",
       "title": {
-        "la": "Sermo 229"
+        "la": "Sermo 229",
+        "pt-BR": "Sermão 229"
       }
     },
     {
       "id": "ch031",
       "title": {
-        "la": "Sermo 229/A"
+        "la": "Sermo 229/A",
+        "pt-BR": "Sermão 229/A"
       }
     },
     {
       "id": "ch032",
       "title": {
-        "la": "Sermo 229/B"
+        "la": "Sermo 229/B",
+        "pt-BR": "Sermão 229/B"
       }
     },
     {
       "id": "ch033",
       "title": {
-        "la": "Sermo 229/C"
+        "la": "Sermo 229/C",
+        "pt-BR": "Sermão 229/C"
       }
     },
     {
       "id": "ch034",
       "title": {
-        "la": "Sermo 229/D"
+        "la": "Sermo 229/D",
+        "pt-BR": "Sermão 229/D"
       }
     },
     {
       "id": "ch035",
       "title": {
-        "la": "Sermo 229/E"
+        "la": "Sermo 229/E",
+        "pt-BR": "Sermão 229/E"
       }
     },
     {
       "id": "ch036",
       "title": {
-        "la": "Sermo 229/F"
+        "la": "Sermo 229/F",
+        "pt-BR": "Sermão 229/F"
       }
     },
     {
       "id": "ch037",
       "title": {
-        "la": "Sermo 229/G"
+        "la": "Sermo 229/G",
+        "pt-BR": "Sermão 229/G"
       }
     },
     {
       "id": "ch038",
       "title": {
-        "la": "Sermo 229/H"
+        "la": "Sermo 229/H",
+        "pt-BR": "Sermão 229/H"
       }
     },
     {
       "id": "ch039",
       "title": {
-        "la": "Sermo 229/I"
+        "la": "Sermo 229/I",
+        "pt-BR": "Sermão 229/I"
       }
     },
     {
       "id": "ch040",
       "title": {
-        "la": "Sermo 229/J"
+        "la": "Sermo 229/J",
+        "pt-BR": "Sermão 229/J"
       }
     },
     {
       "id": "ch041",
       "title": {
-        "la": "Sermo 229/K"
+        "la": "Sermo 229/K",
+        "pt-BR": "Sermão 229/K"
       }
     },
     {
       "id": "ch042",
       "title": {
-        "la": "Sermo 229/L"
+        "la": "Sermo 229/L",
+        "pt-BR": "Sermão 229/L"
       }
     },
     {
       "id": "ch043",
       "title": {
-        "la": "Sermo 229/M"
+        "la": "Sermo 229/M",
+        "pt-BR": "Sermão 229/M"
       }
     },
     {
       "id": "ch044",
       "title": {
-        "la": "Sermo 229/N"
+        "la": "Sermo 229/N",
+        "pt-BR": "Sermão 229/N"
       }
     },
     {
       "id": "ch045",
       "title": {
-        "la": "Sermo 229/O"
+        "la": "Sermo 229/O",
+        "pt-BR": "Sermão 229/O"
       }
     },
     {
       "id": "ch046",
       "title": {
-        "la": "Sermo 229/P"
+        "la": "Sermo 229/P",
+        "pt-BR": "Sermão 229/P"
       }
     },
     {
       "id": "ch047",
       "title": {
-        "la": "Sermo 229/R"
+        "la": "Sermo 229/R",
+        "pt-BR": "Sermão 229/R"
       }
     },
     {
       "id": "ch048",
       "title": {
-        "la": "Sermo 229/S"
+        "la": "Sermo 229/S",
+        "pt-BR": "Sermão 229/S"
       }
     },
     {
       "id": "ch049",
       "title": {
-        "la": "Sermo 229/T"
+        "la": "Sermo 229/T",
+        "pt-BR": "Sermão 229/T"
       }
     },
     {
       "id": "ch050",
       "title": {
-        "la": "Sermo 229/U"
+        "la": "Sermo 229/U",
+        "pt-BR": "Sermão 229/U"
       }
     },
     {
       "id": "ch051",
       "title": {
-        "la": "Sermo 229/V"
+        "la": "Sermo 229/V",
+        "pt-BR": "Sermão 229/V"
       }
     },
     {
       "id": "ch052",
       "title": {
-        "la": "Sermo 230"
+        "la": "Sermo 230",
+        "pt-BR": "Sermão 230"
       }
     },
     {
       "id": "ch053",
       "title": {
-        "la": "Sermo 231"
+        "la": "Sermo 231",
+        "pt-BR": "Sermão 231"
       }
     },
     {
       "id": "ch054",
       "title": {
-        "la": "Sermo 232"
+        "la": "Sermo 232",
+        "pt-BR": "Sermão 232"
       }
     },
     {
       "id": "ch055",
       "title": {
-        "la": "Sermo 233"
+        "la": "Sermo 233",
+        "pt-BR": "Sermão 233"
       }
     },
     {
       "id": "ch056",
       "title": {
-        "la": "Sermo 234"
+        "la": "Sermo 234",
+        "pt-BR": "Sermão 234"
       }
     },
     {
       "id": "ch057",
       "title": {
-        "la": "Sermo 235"
+        "la": "Sermo 235",
+        "pt-BR": "Sermão 235"
       }
     },
     {
       "id": "ch058",
       "title": {
-        "la": "Sermo 236"
+        "la": "Sermo 236",
+        "pt-BR": "Sermão 236"
       }
     },
     {
       "id": "ch059",
       "title": {
-        "la": "Sermo 236/A"
+        "la": "Sermo 236/A",
+        "pt-BR": "Sermão 236/A"
       }
     },
     {
       "id": "ch060",
       "title": {
-        "la": "Sermo 237"
+        "la": "Sermo 237",
+        "pt-BR": "Sermão 237"
       }
     },
     {
       "id": "ch061",
       "title": {
-        "la": "Sermo 238"
+        "la": "Sermo 238",
+        "pt-BR": "Sermão 238"
       }
     },
     {
       "id": "ch062",
       "title": {
-        "la": "Sermo 239"
+        "la": "Sermo 239",
+        "pt-BR": "Sermão 239"
       }
     },
     {
       "id": "ch063",
       "title": {
-        "la": "Sermo 240"
+        "la": "Sermo 240",
+        "pt-BR": "Sermão 240"
       }
     },
     {
       "id": "ch064",
       "title": {
-        "la": "Sermo 241"
+        "la": "Sermo 241",
+        "pt-BR": "Sermão 241"
       }
     },
     {
       "id": "ch065",
       "title": {
-        "la": "Sermo 242"
+        "la": "Sermo 242",
+        "pt-BR": "Sermão 242"
       }
     },
     {
       "id": "ch066",
       "title": {
-        "la": "Sermo 242/A"
+        "la": "Sermo 242/A",
+        "pt-BR": "Sermão 242/A"
       }
     },
     {
       "id": "ch067",
       "title": {
-        "la": "Sermo 243"
+        "la": "Sermo 243",
+        "pt-BR": "Sermão 243"
       }
     },
     {
       "id": "ch068",
       "title": {
-        "la": "Sermo 244"
+        "la": "Sermo 244",
+        "pt-BR": "Sermão 244"
       }
     },
     {
       "id": "ch069",
       "title": {
-        "la": "Sermo 245"
+        "la": "Sermo 245",
+        "pt-BR": "Sermão 245"
       }
     },
     {
       "id": "ch070",
       "title": {
-        "la": "Sermo 246"
+        "la": "Sermo 246",
+        "pt-BR": "Sermão 246"
       }
     },
     {
       "id": "ch071",
       "title": {
-        "la": "Sermo 247"
+        "la": "Sermo 247",
+        "pt-BR": "Sermão 247"
       }
     },
     {
       "id": "ch072",
       "title": {
-        "la": "Sermo 248"
+        "la": "Sermo 248",
+        "pt-BR": "Sermão 248"
       }
     }
   ],
