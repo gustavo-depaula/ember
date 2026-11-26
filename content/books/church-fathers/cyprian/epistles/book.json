@@ -2,13 +2,16 @@
   "id": "cyprian-epistles",
   "cover": "quarter",
   "name": {
-    "en-US": "The Epistles of Cyprian"
+    "en-US": "The Epistles of Cyprian",
+    "pt-BR": "As Epístolas de Cipriano"
   },
   "author": {
-    "en-US": "Cyprian of Carthage"
+    "en-US": "Cyprian of Carthage",
+    "pt-BR": "Cipriano de Cartago"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,497 +24,586 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Epistle 1"
+        "en-US": "Epistle 1",
+        "pt-BR": "Epístola 1"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Epistle 2"
+        "en-US": "Epistle 2",
+        "pt-BR": "Epístola 2"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Epistle 3"
+        "en-US": "Epistle 3",
+        "pt-BR": "Epístola 3"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Epistle 4"
+        "en-US": "Epistle 4",
+        "pt-BR": "Epístola 4"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "Epistle 5"
+        "en-US": "Epistle 5",
+        "pt-BR": "Epístola 5"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "Epistle 6"
+        "en-US": "Epistle 6",
+        "pt-BR": "Epístola 6"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "en-US": "Epistle 7"
+        "en-US": "Epistle 7",
+        "pt-BR": "Epístola 7"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "en-US": "Epistle 8"
+        "en-US": "Epistle 8",
+        "pt-BR": "Epístola 8"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "en-US": "Epistle 9"
+        "en-US": "Epistle 9",
+        "pt-BR": "Epístola 9"
       }
     },
     {
       "id": "ch010",
       "title": {
-        "en-US": "Epistle 10"
+        "en-US": "Epistle 10",
+        "pt-BR": "Epístola 10"
       }
     },
     {
       "id": "ch011",
       "title": {
-        "en-US": "Epistle 11"
+        "en-US": "Epistle 11",
+        "pt-BR": "Epístola 11"
       }
     },
     {
       "id": "ch012",
       "title": {
-        "en-US": "Epistle 12"
+        "en-US": "Epistle 12",
+        "pt-BR": "Epístola 12"
       }
     },
     {
       "id": "ch013",
       "title": {
-        "en-US": "Epistle 13"
+        "en-US": "Epistle 13",
+        "pt-BR": "Epístola 13"
       }
     },
     {
       "id": "ch014",
       "title": {
-        "en-US": "Epistle 14"
+        "en-US": "Epistle 14",
+        "pt-BR": "Epístola 14"
       }
     },
     {
       "id": "ch015",
       "title": {
-        "en-US": "Epistle 15"
+        "en-US": "Epistle 15",
+        "pt-BR": "Epístola 15"
       }
     },
     {
       "id": "ch016",
       "title": {
-        "en-US": "Epistle 16"
+        "en-US": "Epistle 16",
+        "pt-BR": "Epístola 16"
       }
     },
     {
       "id": "ch017",
       "title": {
-        "en-US": "Epistle 17"
+        "en-US": "Epistle 17",
+        "pt-BR": "Epístola 17"
       }
     },
     {
       "id": "ch018",
       "title": {
-        "en-US": "Epistle 18"
+        "en-US": "Epistle 18",
+        "pt-BR": "Epístola 18"
       }
     },
     {
       "id": "ch019",
       "title": {
-        "en-US": "Epistle 19"
+        "en-US": "Epistle 19",
+        "pt-BR": "Epístola 19"
       }
     },
     {
       "id": "ch020",
       "title": {
-        "en-US": "Epistle 20"
+        "en-US": "Epistle 20",
+        "pt-BR": "Epístola 20"
       }
     },
     {
       "id": "ch021",
       "title": {
-        "en-US": "Epistle 21"
+        "en-US": "Epistle 21",
+        "pt-BR": "Epístola 21"
       }
     },
     {
       "id": "ch022",
       "title": {
-        "en-US": "Epistle 22"
+        "en-US": "Epistle 22",
+        "pt-BR": "Epístola 22"
       }
     },
     {
       "id": "ch023",
       "title": {
-        "en-US": "Epistle 23"
+        "en-US": "Epistle 23",
+        "pt-BR": "Epístola 23"
       }
     },
     {
       "id": "ch024",
       "title": {
-        "en-US": "Epistle 24"
+        "en-US": "Epistle 24",
+        "pt-BR": "Epístola 24"
       }
     },
     {
       "id": "ch025",
       "title": {
-        "en-US": "Epistle 25"
+        "en-US": "Epistle 25",
+        "pt-BR": "Epístola 25"
       }
     },
     {
       "id": "ch026",
       "title": {
-        "en-US": "Epistle 26"
+        "en-US": "Epistle 26",
+        "pt-BR": "Epístola 26"
       }
     },
     {
       "id": "ch027",
       "title": {
-        "en-US": "Epistle 27"
+        "en-US": "Epistle 27",
+        "pt-BR": "Epístola 27"
       }
     },
     {
       "id": "ch028",
       "title": {
-        "en-US": "Epistle 28"
+        "en-US": "Epistle 28",
+        "pt-BR": "Epístola 28"
       }
     },
     {
       "id": "ch029",
       "title": {
-        "en-US": "Epistle 29"
+        "en-US": "Epistle 29",
+        "pt-BR": "Epístola 29"
       }
     },
     {
       "id": "ch030",
       "title": {
-        "en-US": "Epistle 30"
+        "en-US": "Epistle 30",
+        "pt-BR": "Epístola 30"
       }
     },
     {
       "id": "ch031",
       "title": {
-        "en-US": "Epistle 31"
+        "en-US": "Epistle 31",
+        "pt-BR": "Epístola 31"
       }
     },
     {
       "id": "ch032",
       "title": {
-        "en-US": "Epistle 32"
+        "en-US": "Epistle 32",
+        "pt-BR": "Epístola 32"
       }
     },
     {
       "id": "ch033",
       "title": {
-        "en-US": "Epistle 33"
+        "en-US": "Epistle 33",
+        "pt-BR": "Epístola 33"
       }
     },
     {
       "id": "ch034",
       "title": {
-        "en-US": "Epistle 34"
+        "en-US": "Epistle 34",
+        "pt-BR": "Epístola 34"
       }
     },
     {
       "id": "ch035",
       "title": {
-        "en-US": "Epistle 35"
+        "en-US": "Epistle 35",
+        "pt-BR": "Epístola 35"
       }
     },
     {
       "id": "ch036",
       "title": {
-        "en-US": "Epistle 36"
+        "en-US": "Epistle 36",
+        "pt-BR": "Epístola 36"
       }
     },
     {
       "id": "ch037",
       "title": {
-        "en-US": "Epistle 37"
+        "en-US": "Epistle 37",
+        "pt-BR": "Epístola 37"
       }
     },
     {
       "id": "ch038",
       "title": {
-        "en-US": "Epistle 38"
+        "en-US": "Epistle 38",
+        "pt-BR": "Epístola 38"
       }
     },
     {
       "id": "ch039",
       "title": {
-        "en-US": "Epistle 39"
+        "en-US": "Epistle 39",
+        "pt-BR": "Epístola 39"
       }
     },
     {
       "id": "ch040",
       "title": {
-        "en-US": "Epistle 40"
+        "en-US": "Epistle 40",
+        "pt-BR": "Epístola 40"
       }
     },
     {
       "id": "ch041",
       "title": {
-        "en-US": "Epistle 41"
+        "en-US": "Epistle 41",
+        "pt-BR": "Epístola 41"
       }
     },
     {
       "id": "ch042",
       "title": {
-        "en-US": "Epistle 42"
+        "en-US": "Epistle 42",
+        "pt-BR": "Epístola 42"
       }
     },
     {
       "id": "ch043",
       "title": {
-        "en-US": "Epistle 43"
+        "en-US": "Epistle 43",
+        "pt-BR": "Epístola 43"
       }
     },
     {
       "id": "ch044",
       "title": {
-        "en-US": "Epistle 44"
+        "en-US": "Epistle 44",
+        "pt-BR": "Epístola 44"
       }
     },
     {
       "id": "ch045",
       "title": {
-        "en-US": "Epistle 45"
+        "en-US": "Epistle 45",
+        "pt-BR": "Epístola 45"
       }
     },
     {
       "id": "ch046",
       "title": {
-        "en-US": "Epistle 46"
+        "en-US": "Epistle 46",
+        "pt-BR": "Epístola 46"
       }
     },
     {
       "id": "ch047",
       "title": {
-        "en-US": "Epistle 47"
+        "en-US": "Epistle 47",
+        "pt-BR": "Epístola 47"
       }
     },
     {
       "id": "ch048",
       "title": {
-        "en-US": "Epistle 48"
+        "en-US": "Epistle 48",
+        "pt-BR": "Epístola 48"
       }
     },
     {
       "id": "ch049",
       "title": {
-        "en-US": "Epistle 49"
+        "en-US": "Epistle 49",
+        "pt-BR": "Epístola 49"
       }
     },
     {
       "id": "ch050",
       "title": {
-        "en-US": "Epistle 50"
+        "en-US": "Epistle 50",
+        "pt-BR": "Epístola 50"
       }
     },
     {
       "id": "ch051",
       "title": {
-        "en-US": "Epistle 51"
+        "en-US": "Epistle 51",
+        "pt-BR": "Epístola 51"
       }
     },
     {
       "id": "ch052",
       "title": {
-        "en-US": "Epistle 52"
+        "en-US": "Epistle 52",
+        "pt-BR": "Epístola 52"
       }
     },
     {
       "id": "ch053",
       "title": {
-        "en-US": "Epistle 53"
+        "en-US": "Epistle 53",
+        "pt-BR": "Epístola 53"
       }
     },
     {
       "id": "ch054",
       "title": {
-        "en-US": "Epistle 54"
+        "en-US": "Epistle 54",
+        "pt-BR": "Epístola 54"
       }
     },
     {
       "id": "ch055",
       "title": {
-        "en-US": "Epistle 55"
+        "en-US": "Epistle 55",
+        "pt-BR": "Epístola 55"
       }
     },
     {
       "id": "ch056",
       "title": {
-        "en-US": "Epistle 56"
+        "en-US": "Epistle 56",
+        "pt-BR": "Epístola 56"
       }
     },
     {
       "id": "ch057",
       "title": {
-        "en-US": "Epistle 57"
+        "en-US": "Epistle 57",
+        "pt-BR": "Epístola 57"
       }
     },
     {
       "id": "ch058",
       "title": {
-        "en-US": "Epistle 58"
+        "en-US": "Epistle 58",
+        "pt-BR": "Epístola 58"
       }
     },
     {
       "id": "ch059",
       "title": {
-        "en-US": "Epistle 59"
+        "en-US": "Epistle 59",
+        "pt-BR": "Epístola 59"
       }
     },
     {
       "id": "ch060",
       "title": {
-        "en-US": "Epistle 60"
+        "en-US": "Epistle 60",
+        "pt-BR": "Epístola 60"
       }
     },
     {
       "id": "ch061",
       "title": {
-        "en-US": "Epistle 61"
+        "en-US": "Epistle 61",
+        "pt-BR": "Epístola 61"
       }
     },
     {
       "id": "ch062",
       "title": {
-        "en-US": "Epistle 62"
+        "en-US": "Epistle 62",
+        "pt-BR": "Epístola 62"
       }
     },
     {
       "id": "ch063",
       "title": {
-        "en-US": "Epistle 63"
+        "en-US": "Epistle 63",
+        "pt-BR": "Epístola 63"
       }
     },
     {
       "id": "ch064",
       "title": {
-        "en-US": "Epistle 64"
+        "en-US": "Epistle 64",
+        "pt-BR": "Epístola 64"
       }
     },
     {
       "id": "ch065",
       "title": {
-        "en-US": "Epistle 65"
+        "en-US": "Epistle 65",
+        "pt-BR": "Epístola 65"
       }
     },
     {
       "id": "ch066",
       "title": {
-        "en-US": "Epistle 66"
+        "en-US": "Epistle 66",
+        "pt-BR": "Epístola 66"
       }
     },
     {
       "id": "ch067",
       "title": {
-        "en-US": "Epistle 67"
+        "en-US": "Epistle 67",
+        "pt-BR": "Epístola 67"
       }
     },
     {
       "id": "ch068",
       "title": {
-        "en-US": "Epistle 68"
+        "en-US": "Epistle 68",
+        "pt-BR": "Epístola 68"
       }
     },
     {
       "id": "ch069",
       "title": {
-        "en-US": "Epistle 69"
+        "en-US": "Epistle 69",
+        "pt-BR": "Epístola 69"
       }
     },
     {
       "id": "ch070",
       "title": {
-        "en-US": "Epistle 70"
+        "en-US": "Epistle 70",
+        "pt-BR": "Epístola 70"
       }
     },
     {
       "id": "ch071",
       "title": {
-        "en-US": "Epistle 71"
+        "en-US": "Epistle 71",
+        "pt-BR": "Epístola 71"
       }
     },
     {
       "id": "ch072",
       "title": {
-        "en-US": "Epistle 72"
+        "en-US": "Epistle 72",
+        "pt-BR": "Epístola 72"
       }
     },
     {
       "id": "ch073",
       "title": {
-        "en-US": "Epistle 73"
+        "en-US": "Epistle 73",
+        "pt-BR": "Epístola 73"
       }
     },
     {
       "id": "ch074",
       "title": {
-        "en-US": "Epistle 74"
+        "en-US": "Epistle 74",
+        "pt-BR": "Epístola 74"
       }
     },
     {
       "id": "ch075",
       "title": {
-        "en-US": "Epistle 75"
+        "en-US": "Epistle 75",
+        "pt-BR": "Epístola 75"
       }
     },
     {
       "id": "ch076",
       "title": {
-        "en-US": "Epistle 76"
+        "en-US": "Epistle 76",
+        "pt-BR": "Epístola 76"
       }
     },
     {
       "id": "ch077",
       "title": {
-        "en-US": "Epistle 77"
+        "en-US": "Epistle 77",
+        "pt-BR": "Epístola 77"
       }
     },
     {
       "id": "ch078",
       "title": {
-        "en-US": "Epistle 78"
+        "en-US": "Epistle 78",
+        "pt-BR": "Epístola 78"
       }
     },
     {
       "id": "ch079",
       "title": {
-        "en-US": "Epistle 79"
+        "en-US": "Epistle 79",
+        "pt-BR": "Epístola 79"
       }
     },
     {
       "id": "ch080",
       "title": {
-        "en-US": "Epistle 80"
+        "en-US": "Epistle 80",
+        "pt-BR": "Epístola 80"
       }
     },
     {
       "id": "ch081",
       "title": {
-        "en-US": "Epistle 81"
+        "en-US": "Epistle 81",
+        "pt-BR": "Epístola 81"
       }
     },
     {
       "id": "ch082",
       "title": {
-        "en-US": "Epistle 82"
+        "en-US": "Epistle 82",
+        "pt-BR": "Epístola 82"
       }
     }
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
