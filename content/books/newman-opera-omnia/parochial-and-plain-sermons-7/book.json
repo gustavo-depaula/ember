@@ -15,13 +15,19 @@
   },
   "composed": "1842-1843",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "newman/parochial-and-plain-sermons-7",
   "editions": {
     "en-US": {
       "editor": "John Henry Newman, ed. William John Copeland (Rivingtons, 1868; Newman Reader)",
       "year": 1868
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,109 +44,127 @@
     {
       "id": "sermon-1",
       "title": {
-        "en-US": "Sermon 1. The Lapse of Time"
+        "en-US": "Sermon 1. The Lapse of Time",
+        "pt-BR": "Sermão 1. O passar do tempo"
       }
     },
     {
       "id": "sermon-2",
       "title": {
-        "en-US": "Sermon 2. Religion a Weariness to the Natural Man"
+        "en-US": "Sermon 2. Religion a Weariness to the Natural Man",
+        "pt-BR": "Sermão 2. A religião como enfado para o homem natural"
       }
     },
     {
       "id": "sermon-3",
       "title": {
-        "en-US": "Sermon 3. The World our Enemy"
+        "en-US": "Sermon 3. The World our Enemy",
+        "pt-BR": "Sermão 3. O mundo, nosso inimigo"
       }
     },
     {
       "id": "sermon-4",
       "title": {
-        "en-US": "Sermon 4. The Praise of Men"
+        "en-US": "Sermon 4. The Praise of Men",
+        "pt-BR": "Sermão 4. O louvor dos homens"
       }
     },
     {
       "id": "sermon-5",
       "title": {
-        "en-US": "Sermon 5. Temporal Advantages"
+        "en-US": "Sermon 5. Temporal Advantages",
+        "pt-BR": "Sermão 5. Vantagens temporais"
       }
     },
     {
       "id": "sermon-6",
       "title": {
-        "en-US": "Sermon 6. The Season of Epiphany"
+        "en-US": "Sermon 6. The Season of Epiphany",
+        "pt-BR": "Sermão 6. O tempo da Epifania"
       }
     },
     {
       "id": "sermon-7",
       "title": {
-        "en-US": "Sermon 7. The Duty of Self-denial"
+        "en-US": "Sermon 7. The Duty of Self-denial",
+        "pt-BR": "Sermão 7. O dever da abnegação"
       }
     },
     {
       "id": "sermon-8",
       "title": {
-        "en-US": "Sermon 8. The Yoke of Christ"
+        "en-US": "Sermon 8. The Yoke of Christ",
+        "pt-BR": "Sermão 8. O jugo de Cristo"
       }
     },
     {
       "id": "sermon-9",
       "title": {
-        "en-US": "Sermon 9. Moses the Type of Christ"
+        "en-US": "Sermon 9. Moses the Type of Christ",
+        "pt-BR": "Sermão 9. Moisés, figura de Cristo"
       }
     },
     {
       "id": "sermon-10",
       "title": {
-        "en-US": "Sermon 10. The Crucifixion"
+        "en-US": "Sermon 10. The Crucifixion",
+        "pt-BR": "Sermão 10. A Crucifixão"
       }
     },
     {
       "id": "sermon-11",
       "title": {
-        "en-US": "Sermon 11. Attendance on Holy Communion"
+        "en-US": "Sermon 11. Attendance on Holy Communion",
+        "pt-BR": "Sermão 11. A participação na Santa Comunhão"
       }
     },
     {
       "id": "sermon-12",
       "title": {
-        "en-US": "Sermon 12. The Gospel Feast"
+        "en-US": "Sermon 12. The Gospel Feast",
+        "pt-BR": "Sermão 12. O banquete do Evangelho"
       }
     },
     {
       "id": "sermon-13",
       "title": {
-        "en-US": "Sermon 13. Love of Religion, a New Nature"
+        "en-US": "Sermon 13. Love of Religion, a New Nature",
+        "pt-BR": "Sermão 13. O amor à religião, uma nova natureza"
       }
     },
     {
       "id": "sermon-14",
       "title": {
-        "en-US": "Sermon 14. Religion Pleasant to the Religious"
+        "en-US": "Sermon 14. Religion Pleasant to the Religious",
+        "pt-BR": "Sermão 14. A religião é agradável aos religiosos"
       }
     },
     {
       "id": "sermon-15",
       "title": {
-        "en-US": "Sermon 15. Mental Prayer"
+        "en-US": "Sermon 15. Mental Prayer",
+        "pt-BR": "Sermão 15. A oração mental"
       }
     },
     {
       "id": "sermon-16",
       "title": {
-        "en-US": "Sermon 16. Infant Baptism"
+        "en-US": "Sermon 16. Infant Baptism",
+        "pt-BR": "Sermão 16. O batismo das crianças"
       }
     },
     {
       "id": "sermon-17",
       "title": {
-        "en-US": "Sermon 17. The Unity of the Church"
+        "en-US": "Sermon 17. The Unity of the Church",
+        "pt-BR": "Sermão 17. A unidade da Igreja"
       }
     },
     {
       "id": "sermon-18",
       "title": {
-        "en-US": "Sermon 18. Steadfastness in Old Paths"
+        "en-US": "Sermon 18. Steadfastness in Old Paths",
+        "pt-BR": "Sermão 18. A firmeza nos antigos caminhos"
       }
     }
   ]
