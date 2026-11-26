@@ -15,28 +15,22 @@ import { artFor } from '@/features/explore/artMap'
 import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
 import { localizeContent } from '@/lib/i18n'
 
-import { ProposedPractices } from './ProposedPractices'
 import { TemplateHero } from './TemplateHero'
+import { TemplateString } from './TemplateString'
 
 /**
- * A tradition's page: its painting and name, the manifesto, then the rule it
- * proposes and the one way in (`action`), with an optional `footer` under it.
- * The tradition's own screen walks the rule practice by practice and opens the
- * cherry-pick sheet; onboarding gives `rule` (its string at a glance) under the
- * manifesto's `opening` paragraph alone, and adopts the whole rule.
+ * A tradition's page, alike in onboarding and the plan sheet: its painting and
+ * name, the manifesto's opening paragraph, the rule as the string it will make,
+ * and the one way in (`action`), with an optional `footer` under it.
  */
 export function TemplateView({
   manifest,
   action,
   footer,
-  rule,
-  opening,
 }: {
   manifest: PlanOfLifeTemplateManifest
   action: { label: string; onPress: () => void; busy?: boolean }
   footer?: ReactNode
-  rule?: ReactNode
-  opening?: boolean
 }) {
   const theme = useTheme()
   const insets = useSafeAreaInsets()
@@ -49,12 +43,12 @@ export function TemplateView({
   })
 
   const id = manifest.id
-  const full = localizeContent(manifest.manifesto)
-  const manifesto = opening ? full.split(/\n\s*\n/)[0] : full
+  // The opening paragraph says why; the string beneath shows what it asks.
+  const manifesto = localizeContent(manifest.manifesto).split(/\n\s*\n/)[0]
 
   const proposal = (
     <>
-      {rule ?? <ProposedPractices template={manifest} />}
+      <TemplateString template={manifest} />
       <Slab
         label={action.label}
         onPress={action.onPress}

@@ -7,7 +7,7 @@ export {
   useTemplateList,
   useTemplateManifest,
 } from './hooks'
-export { ProposedPractices } from './ProposedPractices'
 export { resolvePracticeIcon, resolvePracticeName } from './resolvePractice'
 export { TemplateHero } from './TemplateHero'
+export { TemplateString } from './TemplateString'
 export { TemplateView } from './TemplateView'

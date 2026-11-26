@@ -14,7 +14,7 @@ import {
   hourHue,
   scheduleDaysLabel,
 } from '@/features/plan-of-life/ruleString'
-import { resolvePracticeName } from '@/features/templates'
+import { resolvePracticeName } from './resolvePractice'
 
 const byHour = (a: PlanOfLifeTemplatePracticeRef, b: PlanOfLifeTemplatePracticeRef) =>
   Number(a.schedule.type !== 'daily') - Number(b.schedule.type !== 'daily') ||
