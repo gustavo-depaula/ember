@@ -15,13 +15,19 @@
   },
   "composed": "1923",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/fancies-versus-fads",
   "editions": {
     "en-US": {
       "editor": "Methuen & Co.",
       "year": 1923
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,175 +44,204 @@
     {
       "id": "ch01-the-romance-of-rhyme",
       "title": {
-        "en-US": "The Romance of Rhyme"
+        "en-US": "The Romance of Rhyme",
+        "pt-BR": "O Romance da Rima"
       }
     },
     {
       "id": "ch02-hamlet-and-the-psycho-analyst",
       "title": {
-        "en-US": "Hamlet and the Psycho-Analyst"
+        "en-US": "Hamlet and the Psycho-Analyst",
+        "pt-BR": "Hamlet e o Psicanalista"
       }
     },
     {
       "id": "ch03-the-meaning-of-mock-turkey",
       "title": {
-        "en-US": "The Meaning of Mock Turkey"
+        "en-US": "The Meaning of Mock Turkey",
+        "pt-BR": "O Significado do Falso Peru"
       }
     },
     {
       "id": "ch04-shakespeare-and-the-legal-lady",
       "title": {
-        "en-US": "Shakespeare and the Legal Lady"
+        "en-US": "Shakespeare and the Legal Lady",
+        "pt-BR": "Shakespeare e a Dama Jurista"
       }
     },
     {
       "id": "ch05-on-being-an-old-bean",
       "title": {
-        "en-US": "On Being an Old Bean"
+        "en-US": "On Being an Old Bean",
+        "pt-BR": "Sobre Ser um Velho Camarada"
       }
     },
     {
       "id": "ch06-the-fear-of-the-film",
       "title": {
-        "en-US": "The Fear of the Film"
+        "en-US": "The Fear of the Film",
+        "pt-BR": "O Medo do Cinema"
       }
     },
     {
       "id": "ch07-wings-and-the-housemaid",
       "title": {
-        "en-US": "Wings and the Housemaid"
+        "en-US": "Wings and the Housemaid",
+        "pt-BR": "Asas e a Empregada Doméstica"
       }
     },
     {
       "id": "ch08-the-slavery-of-free-verse",
       "title": {
-        "en-US": "The Slavery of Free Verse"
+        "en-US": "The Slavery of Free Verse",
+        "pt-BR": "A Escravidão do Verso Livre"
       }
     },
     {
       "id": "ch09-prohibition-and-the-press",
       "title": {
-        "en-US": "Prohibition and the Press"
+        "en-US": "Prohibition and the Press",
+        "pt-BR": "A Lei Seca e a Imprensa"
       }
     },
     {
       "id": "ch10-a-defence-of-dramatic-unities",
       "title": {
-        "en-US": "A Defence of Dramatic Unities"
+        "en-US": "A Defence of Dramatic Unities",
+        "pt-BR": "Uma Defesa das Unidades Dramáticas"
       }
     },
     {
       "id": "ch11-the-boredom-of-butterflies",
       "title": {
-        "en-US": "The Boredom of Butterflies"
+        "en-US": "The Boredom of Butterflies",
+        "pt-BR": "O Tédio das Borboletas"
       }
     },
     {
       "id": "ch12-the-terror-of-a-toy",
       "title": {
-        "en-US": "The Terror of a Toy"
+        "en-US": "The Terror of a Toy",
+        "pt-BR": "O Terror de um Brinquedo"
       }
     },
     {
       "id": "ch13-false-theory-and-the-theatre",
       "title": {
-        "en-US": "False Theory and the Theatre"
+        "en-US": "False Theory and the Theatre",
+        "pt-BR": "A Falsa Teoria e o Teatro"
       }
     },
     {
       "id": "ch14-the-secret-society-of-mankind",
       "title": {
-        "en-US": "The Secret Society of Mankind"
+        "en-US": "The Secret Society of Mankind",
+        "pt-BR": "A Sociedade Secreta da Humanidade"
       }
     },
     {
       "id": "ch15-the-sentimentalism-of-divorce",
       "title": {
-        "en-US": "The Sentimentalism of Divorce"
+        "en-US": "The Sentimentalism of Divorce",
+        "pt-BR": "O Sentimentalismo do Divórcio"
       }
     },
     {
       "id": "ch16-street-cries-and-stretching-the-law",
       "title": {
-        "en-US": "Street Cries and Stretching the Law"
+        "en-US": "Street Cries and Stretching the Law",
+        "pt-BR": "Pregões de Rua e a Distorção da Lei"
       }
     },
     {
       "id": "ch17-the-revolt-of-the-spoilt-child",
       "title": {
-        "en-US": "The Revolt of the Spoilt Child"
+        "en-US": "The Revolt of the Spoilt Child",
+        "pt-BR": "A Revolta da Criança Mimada"
       }
     },
     {
       "id": "ch18-the-innocence-of-the-criminal",
       "title": {
-        "en-US": "The Innocence of the Criminal"
+        "en-US": "The Innocence of the Criminal",
+        "pt-BR": "A Inocência do Criminoso"
       }
     },
     {
       "id": "ch19-the-prudery-of-the-feminists",
       "title": {
-        "en-US": "The Prudery of the Feminists"
+        "en-US": "The Prudery of the Feminists",
+        "pt-BR": "O Puritanismo das Feministas"
       }
     },
     {
       "id": "ch20-how-mad-laws-are-made",
       "title": {
-        "en-US": "How Mad Laws are Made"
+        "en-US": "How Mad Laws are Made",
+        "pt-BR": "Como se Fazem Leis Insensatas"
       }
     },
     {
       "id": "ch21-the-pagoda-of-progress",
       "title": {
-        "en-US": "The Pagoda of Progress"
+        "en-US": "The Pagoda of Progress",
+        "pt-BR": "O Pagode do Progresso"
       }
     },
     {
       "id": "ch22-the-myth-of-the-mayflower",
       "title": {
-        "en-US": "The Myth of the “Mayflower”"
+        "en-US": "The Myth of the “Mayflower”",
+        "pt-BR": "O Mito do “Mayflower”"
       }
     },
     {
       "id": "ch23-much-too-modern-history",
       "title": {
-        "en-US": "Much Too Modern History"
+        "en-US": "Much Too Modern History",
+        "pt-BR": "História Moderna Demais"
       }
     },
     {
       "id": "ch24-the-evolution-of-slaves",
       "title": {
-        "en-US": "The Evolution of Slaves"
+        "en-US": "The Evolution of Slaves",
+        "pt-BR": "A Evolução dos Escravos"
       }
     },
     {
       "id": "ch25-is-darwin-dead",
       "title": {
-        "en-US": "Is Darwin Dead?"
+        "en-US": "Is Darwin Dead?",
+        "pt-BR": "Darwin Está Morto?"
       }
     },
     {
       "id": "ch26-turning-inside-out",
       "title": {
-        "en-US": "Turning Inside Out"
+        "en-US": "Turning Inside Out",
+        "pt-BR": "Virando do Avesso"
       }
     },
     {
       "id": "ch27-strikes-and-the-spirit-of-wonder",
       "title": {
-        "en-US": "Strikes and the Spirit of Wonder"
+        "en-US": "Strikes and the Spirit of Wonder",
+        "pt-BR": "As Greves e o Espírito de Deslumbramento"
       }
     },
     {
       "id": "ch28-a-note-on-old-nonsense",
       "title": {
-        "en-US": "A Note on Old Nonsense"
+        "en-US": "A Note on Old Nonsense",
+        "pt-BR": "Uma Nota sobre Antigos Disparates"
       }
     },
     {
       "id": "ch29-milton-and-merry-england",
       "title": {
-        "en-US": "Milton and Merry England"
+        "en-US": "Milton and Merry England",
+        "pt-BR": "Milton e a Alegre Inglaterra"
       }
     }
   ]
