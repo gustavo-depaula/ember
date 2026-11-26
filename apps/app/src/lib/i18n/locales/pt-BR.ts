@@ -2163,6 +2163,13 @@ export default {
       sat: 'S',
     },
   },
+  appStore: {
+    title: 'O Ember está na App Store',
+    body: 'Esta versão de teste vai parar de abrir. Instale o Ember pela App Store: suas orações e santinhos continuam.',
+    open: 'Abrir a App Store',
+    later: 'Depois',
+    openFailed: 'Não foi possível abrir a App Store',
+  },
   a11y: {
     prayerLanguage: 'Idioma da oração: {{languages}}',
     removeLanguageException: 'Remover a exceção de {{name}}',

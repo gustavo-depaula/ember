@@ -15,6 +15,7 @@ import {
 } from '@/components'
 import { DailyMeditations, ExploreFeatured, PrayNowCard, usePrayNow } from '@/features/explore'
 import {
+  AppStoreSheet,
   Aspiratio,
   EventsRow,
   FidelitySheet,
@@ -168,6 +169,7 @@ function HomePage({ onSelectDate }: { onSelectDate: (date: string | undefined) =
       <TodayPlanSheet plan={plan} />
       <FidelitySheet fidelity={fidelity} weeks={fidelityWeeks} />
       <MissedDaysSheet />
+      <AppStoreSheet />
     </View>
   )
 }

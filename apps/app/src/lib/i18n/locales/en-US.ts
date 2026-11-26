@@ -2161,6 +2161,13 @@ export default {
       sat: 'S',
     },
   },
+  appStore: {
+    title: 'Ember is on the App Store',
+    body: 'This test version will stop opening. Install Ember from the App Store: your prayers and holy cards stay.',
+    open: 'Open the App Store',
+    later: 'Later',
+    openFailed: 'Couldn’t open the App Store',
+  },
   a11y: {
     prayerLanguage: 'Prayer language: {{languages}}',
     removeLanguageException: 'Remove the exception for {{name}}',
