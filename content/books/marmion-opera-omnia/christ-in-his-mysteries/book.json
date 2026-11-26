@@ -18,7 +18,8 @@
   "composed": "1919",
   "languages": [
     "fr-FR",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "marmion/christ-in-his-mysteries",
   "editions": {
@@ -29,6 +30,11 @@
     "en-US": {
       "translator": "A Nun of Tyburn Convent (from the 10th French edition)",
       "year": 1924
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -54,147 +60,168 @@
       "id": "avant-propos",
       "title": {
         "fr-FR": "Avant-propos de la 1re édition",
-        "en-US": "Foreword to the First Edition"
+        "en-US": "Foreword to the First Edition",
+        "pt-BR": "Prefácio da primeira edição"
       }
     },
     {
       "id": "01-mysteres-du-christ",
       "title": {
         "fr-FR": "Les mystères du Christ sont nos mystères",
-        "en-US": "The Mysteries of Christ Are Our Mysteries"
+        "en-US": "The Mysteries of Christ Are Our Mysteries",
+        "pt-BR": "Os mistérios de Cristo são os nossos mistérios"
       }
     },
     {
       "id": "02-contact-mysteres",
       "title": {
         "fr-FR": "Comment nous nous assimilons le fruit des mystères de Jésus",
-        "en-US": "Our Contact with the Mysteries of Jesus"
+        "en-US": "Our Contact with the Mysteries of Jesus",
+        "pt-BR": "Como assimilamos o fruto dos mistérios de Jesus"
       }
     },
     {
       "id": "03-in-sinu-patris",
       "title": {
         "fr-FR": "In sinu Patris",
-        "en-US": "In sinu Patris"
+        "en-US": "In sinu Patris",
+        "pt-BR": "In sinu Patris"
       }
     },
     {
       "id": "04-verbe-fait-chair",
       "title": {
         "fr-FR": "« Et le Verbe s’est fait chair »",
-        "en-US": "« And the Word was made Flesh »"
+        "en-US": "« And the Word was made Flesh »",
+        "pt-BR": "“E o Verbo se fez carne”"
       }
     },
     {
       "id": "05-sauveur-pontife",
       "title": {
         "fr-FR": "Sauveur et Pontife",
-        "en-US": "Saviour and High Priest"
+        "en-US": "Saviour and High Priest",
+        "pt-BR": "Salvador e Pontífice"
       }
     },
     {
       "id": "06-preparations-divines",
       "title": {
         "fr-FR": "Les préparations divines (Temps de l’Avent)",
-        "en-US": "Divine Preparations (Advent)"
+        "en-US": "Divine Preparations (Advent)",
+        "pt-BR": "As preparações divinas (Tempo do Advento)"
       }
     },
     {
       "id": "07-admirabile-commercium",
       "title": {
         "fr-FR": "O admirabile commercium !",
-        "en-US": "O admirabile commercium !"
+        "en-US": "O admirabile commercium !",
+        "pt-BR": "O admirabile commercium !"
       }
     },
     {
       "id": "08-epiphanie",
       "title": {
         "fr-FR": "L’Épiphanie",
-        "en-US": "The Epiphany"
+        "en-US": "The Epiphany",
+        "pt-BR": "A Epifania"
       }
     },
     {
       "id": "09-vierge-marie-vie-cachee",
       "title": {
         "fr-FR": "La Vierge Marie, les mystères de l’enfance et de la vie cachée",
-        "en-US": "The Blessed Virgin Mary; the Mysteries of the Infancy and of the Hidden Life"
+        "en-US": "The Blessed Virgin Mary; the Mysteries of the Infancy and of the Hidden Life",
+        "pt-BR": "A Virgem Maria, os mistérios da infância e da vida oculta"
       }
     },
     {
       "id": "10-bapteme-tentation",
       "title": {
         "fr-FR": "Le baptême et la tentation de Jésus",
-        "en-US": "The Baptism and the Temptation of Jesus"
+        "en-US": "The Baptism and the Temptation of Jesus",
+        "pt-BR": "O batismo e a tentação de Jesus"
       }
     },
     {
       "id": "11-vie-publique",
       "title": {
         "fr-FR": "Quelques aspects de la vie publique de Jésus",
-        "en-US": "Some Aspects of the Public Life of Jesus"
+        "en-US": "Some Aspects of the Public Life of Jesus",
+        "pt-BR": "Alguns aspectos da vida pública de Jesus"
       }
     },
     {
       "id": "12-thabor",
       "title": {
         "fr-FR": "Au sommet du Thabor",
-        "en-US": "On the Heights of Thabor"
+        "en-US": "On the Heights of Thabor",
+        "pt-BR": "No alto do Tabor"
       }
     },
     {
       "id": "13-dilexit-ecclesiam",
       "title": {
         "fr-FR": "« Le Christ a aimé l’Église et s’est livré pour elle afin de la sanctifier »",
-        "en-US": "« Christ loved the Church and delivered Himself up for it, that He might sanctify it »"
+        "en-US": "« Christ loved the Church and delivered Himself up for it, that He might sanctify it »",
+        "pt-BR": "“Cristo amou a Igreja e entregou-se por ela para santificá-la”"
       }
     },
     {
       "id": "14-pretoire-calvaire",
       "title": {
         "fr-FR": "Sur les pas de Jésus, du prétoire au Calvaire",
-        "en-US": "In the Footsteps of Jesus, from the Praetorium to Calvary"
+        "en-US": "In the Footsteps of Jesus, from the Praetorium to Calvary",
+        "pt-BR": "Nos passos de Jesus, do pretório ao Calvário"
       }
     },
     {
       "id": "15-si-consurrexistis",
       "title": {
         "fr-FR": "Si consurrexistis cum Christo",
-        "en-US": "Si consurrexistis cum Christo"
+        "en-US": "Si consurrexistis cum Christo",
+        "pt-BR": "Si consurrexistis cum Christo"
       }
     },
     {
       "id": "16-glorifiez-votre-fils",
       "title": {
         "fr-FR": "« Et maintenant, ô Père, glorifiez votre Fils »",
-        "en-US": "« And now, Father, glorify Thy Son »"
+        "en-US": "« And now, Father, glorify Thy Son »",
+        "pt-BR": "“E agora, ó Pai, glorificai vosso Filho”"
       }
     },
     {
       "id": "17-saint-esprit",
       "title": {
         "fr-FR": "La mission du Saint-Esprit",
-        "en-US": "The Mission of the Holy Spirit"
+        "en-US": "The Mission of the Holy Spirit",
+        "pt-BR": "A missão do Espírito Santo"
       }
     },
     {
       "id": "18-in-mei-memoriam",
       "title": {
         "fr-FR": "In mei memoriam",
-        "en-US": "In mei memoriam"
+        "en-US": "In mei memoriam",
+        "pt-BR": "In mei memoriam"
       }
     },
     {
       "id": "19-coeur-du-christ",
       "title": {
         "fr-FR": "Le Cœur du Christ",
-        "en-US": "The Heart of Christ"
+        "en-US": "The Heart of Christ",
+        "pt-BR": "O Coração de Cristo"
       }
     },
     {
       "id": "20-couronne-des-saints",
       "title": {
         "fr-FR": "Le Christ, couronne de tous les saints",
-        "en-US": "Christ, the Crown of All the Saints"
+        "en-US": "Christ, the Crown of All the Saints",
+        "pt-BR": "Cristo, coroa de todos os santos"
       }
     }
   ]
