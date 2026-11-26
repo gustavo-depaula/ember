@@ -15,13 +15,19 @@
   },
   "composed": "1848",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "newman/loss-and-gain",
   "editions": {
     "en-US": {
       "editor": "John Henry Newman (Longmans text; Newman Reader)",
       "year": 1848
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -45,109 +51,127 @@
         {
           "id": "part-1-chapter-1",
           "title": {
-            "en-US": "Chapter 1"
+            "en-US": "Chapter 1",
+            "pt-BR": "Capítulo 1"
           }
         },
         {
           "id": "part-1-chapter-2",
           "title": {
-            "en-US": "Chapter 2"
+            "en-US": "Chapter 2",
+            "pt-BR": "Capítulo 2"
           }
         },
         {
           "id": "part-1-chapter-3",
           "title": {
-            "en-US": "Chapter 3"
+            "en-US": "Chapter 3",
+            "pt-BR": "Capítulo 3"
           }
         },
         {
           "id": "part-1-chapter-4",
           "title": {
-            "en-US": "Chapter 4"
+            "en-US": "Chapter 4",
+            "pt-BR": "Capítulo 4"
           }
         },
         {
           "id": "part-1-chapter-5",
           "title": {
-            "en-US": "Chapter 5"
+            "en-US": "Chapter 5",
+            "pt-BR": "Capítulo 5"
           }
         },
         {
           "id": "part-1-chapter-6",
           "title": {
-            "en-US": "Chapter 6"
+            "en-US": "Chapter 6",
+            "pt-BR": "Capítulo 6"
           }
         },
         {
           "id": "part-1-chapter-7",
           "title": {
-            "en-US": "Chapter 7"
+            "en-US": "Chapter 7",
+            "pt-BR": "Capítulo 7"
           }
         },
         {
           "id": "part-1-chapter-8",
           "title": {
-            "en-US": "Chapter 8"
+            "en-US": "Chapter 8",
+            "pt-BR": "Capítulo 8"
           }
         },
         {
           "id": "part-1-chapter-9",
           "title": {
-            "en-US": "Chapter 9"
+            "en-US": "Chapter 9",
+            "pt-BR": "Capítulo 9"
           }
         },
         {
           "id": "part-1-chapter-10",
           "title": {
-            "en-US": "Chapter 10"
+            "en-US": "Chapter 10",
+            "pt-BR": "Capítulo 10"
           }
         },
         {
           "id": "part-1-chapter-11",
           "title": {
-            "en-US": "Chapter 11"
+            "en-US": "Chapter 11",
+            "pt-BR": "Capítulo 11"
           }
         },
         {
           "id": "part-1-chapter-12",
           "title": {
-            "en-US": "Chapter 12"
+            "en-US": "Chapter 12",
+            "pt-BR": "Capítulo 12"
           }
         },
         {
           "id": "part-1-chapter-13",
           "title": {
-            "en-US": "Chapter 13"
+            "en-US": "Chapter 13",
+            "pt-BR": "Capítulo 13"
           }
         },
         {
           "id": "part-1-chapter-14",
           "title": {
-            "en-US": "Chapter 14"
+            "en-US": "Chapter 14",
+            "pt-BR": "Capítulo 14"
           }
         },
         {
           "id": "part-1-chapter-15",
           "title": {
-            "en-US": "Chapter 15"
+            "en-US": "Chapter 15",
+            "pt-BR": "Capítulo 15"
           }
         },
         {
           "id": "part-1-chapter-16",
           "title": {
-            "en-US": "Chapter 16"
+            "en-US": "Chapter 16",
+            "pt-BR": "Capítulo 16"
           }
         },
         {
           "id": "part-1-chapter-17",
           "title": {
-            "en-US": "Chapter 17"
+            "en-US": "Chapter 17",
+            "pt-BR": "Capítulo 17"
           }
         },
         {
           "id": "part-1-chapter-18",
           "title": {
-            "en-US": "Chapter 18"
+            "en-US": "Chapter 18",
+            "pt-BR": "Capítulo 18"
           }
         }
       ]
@@ -162,127 +186,148 @@
         {
           "id": "part-2-chapter-1",
           "title": {
-            "en-US": "Chapter 1"
+            "en-US": "Chapter 1",
+            "pt-BR": "Capítulo 1"
           }
         },
         {
           "id": "part-2-chapter-2",
           "title": {
-            "en-US": "Chapter 2"
+            "en-US": "Chapter 2",
+            "pt-BR": "Capítulo 2"
           }
         },
         {
           "id": "part-2-chapter-3",
           "title": {
-            "en-US": "Chapter 3"
+            "en-US": "Chapter 3",
+            "pt-BR": "Capítulo 3"
           }
         },
         {
           "id": "part-2-chapter-4",
           "title": {
-            "en-US": "Chapter 4"
+            "en-US": "Chapter 4",
+            "pt-BR": "Capítulo 4"
           }
         },
         {
           "id": "part-2-chapter-5",
           "title": {
-            "en-US": "Chapter 5"
+            "en-US": "Chapter 5",
+            "pt-BR": "Capítulo 5"
           }
         },
         {
           "id": "part-2-chapter-6",
           "title": {
-            "en-US": "Chapter 6"
+            "en-US": "Chapter 6",
+            "pt-BR": "Capítulo 6"
           }
         },
         {
           "id": "part-2-chapter-7",
           "title": {
-            "en-US": "Chapter 7"
+            "en-US": "Chapter 7",
+            "pt-BR": "Capítulo 7"
           }
         },
         {
           "id": "part-2-chapter-8",
           "title": {
-            "en-US": "Chapter 8"
+            "en-US": "Chapter 8",
+            "pt-BR": "Capítulo 8"
           }
         },
         {
           "id": "part-2-chapter-9",
           "title": {
-            "en-US": "Chapter 9"
+            "en-US": "Chapter 9",
+            "pt-BR": "Capítulo 9"
           }
         },
         {
           "id": "part-2-chapter-10",
           "title": {
-            "en-US": "Chapter 10"
+            "en-US": "Chapter 10",
+            "pt-BR": "Capítulo 10"
           }
         },
         {
           "id": "part-2-chapter-11",
           "title": {
-            "en-US": "Chapter 11"
+            "en-US": "Chapter 11",
+            "pt-BR": "Capítulo 11"
           }
         },
         {
           "id": "part-2-chapter-12",
           "title": {
-            "en-US": "Chapter 12"
+            "en-US": "Chapter 12",
+            "pt-BR": "Capítulo 12"
           }
         },
         {
           "id": "part-2-chapter-13",
           "title": {
-            "en-US": "Chapter 13"
+            "en-US": "Chapter 13",
+            "pt-BR": "Capítulo 13"
           }
         },
         {
           "id": "part-2-chapter-14",
           "title": {
-            "en-US": "Chapter 14"
+            "en-US": "Chapter 14",
+            "pt-BR": "Capítulo 14"
           }
         },
         {
           "id": "part-2-chapter-15",
           "title": {
-            "en-US": "Chapter 15"
+            "en-US": "Chapter 15",
+            "pt-BR": "Capítulo 15"
           }
         },
         {
           "id": "part-2-chapter-16",
           "title": {
-            "en-US": "Chapter 16"
+            "en-US": "Chapter 16",
+            "pt-BR": "Capítulo 16"
           }
         },
         {
           "id": "part-2-chapter-17",
           "title": {
-            "en-US": "Chapter 17"
+            "en-US": "Chapter 17",
+            "pt-BR": "Capítulo 17"
           }
         },
         {
           "id": "part-2-chapter-18",
           "title": {
-            "en-US": "Chapter 18"
+            "en-US": "Chapter 18",
+            "pt-BR": "Capítulo 18"
           }
         },
         {
           "id": "part-2-chapter-19",
           "title": {
-            "en-US": "Chapter 19"
+            "en-US": "Chapter 19",
+            "pt-BR": "Capítulo 19"
           }
         },
         {
           "id": "part-2-chapter-20",
           "title": {
-            "en-US": "Chapter 20"
+            "en-US": "Chapter 20",
+            "pt-BR": "Capítulo 20"
           }
         },
         {
           "id": "part-2-chapter-21",
           "title": {
-            "en-US": "Chapter 21"
+            "en-US": "Chapter 21",
+            "pt-BR": "Capítulo 21"
           }
         }
       ]
@@ -297,67 +342,78 @@
         {
           "id": "part-3-chapter-1",
           "title": {
-            "en-US": "Chapter 1"
+            "en-US": "Chapter 1",
+            "pt-BR": "Capítulo 1"
           }
         },
         {
           "id": "part-3-chapter-2",
           "title": {
-            "en-US": "Chapter 2"
+            "en-US": "Chapter 2",
+            "pt-BR": "Capítulo 2"
           }
         },
         {
           "id": "part-3-chapter-3",
           "title": {
-            "en-US": "Chapter 3"
+            "en-US": "Chapter 3",
+            "pt-BR": "Capítulo 3"
           }
         },
         {
           "id": "part-3-chapter-4",
           "title": {
-            "en-US": "Chapter 4"
+            "en-US": "Chapter 4",
+            "pt-BR": "Capítulo 4"
           }
         },
         {
           "id": "part-3-chapter-5",
           "title": {
-            "en-US": "Chapter 5"
+            "en-US": "Chapter 5",
+            "pt-BR": "Capítulo 5"
           }
         },
         {
           "id": "part-3-chapter-6",
           "title": {
-            "en-US": "Chapter 6"
+            "en-US": "Chapter 6",
+            "pt-BR": "Capítulo 6"
           }
         },
         {
           "id": "part-3-chapter-7",
           "title": {
-            "en-US": "Chapter 7"
+            "en-US": "Chapter 7",
+            "pt-BR": "Capítulo 7"
           }
         },
         {
           "id": "part-3-chapter-8",
           "title": {
-            "en-US": "Chapter 8"
+            "en-US": "Chapter 8",
+            "pt-BR": "Capítulo 8"
           }
         },
         {
           "id": "part-3-chapter-9",
           "title": {
-            "en-US": "Chapter 9"
+            "en-US": "Chapter 9",
+            "pt-BR": "Capítulo 9"
           }
         },
         {
           "id": "part-3-chapter-10",
           "title": {
-            "en-US": "Chapter 10"
+            "en-US": "Chapter 10",
+            "pt-BR": "Capítulo 10"
           }
         },
         {
           "id": "part-3-chapter-11",
           "title": {
-            "en-US": "Chapter 11"
+            "en-US": "Chapter 11",
+            "pt-BR": "Capítulo 11"
           }
         }
       ]
