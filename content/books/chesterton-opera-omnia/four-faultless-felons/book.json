@@ -15,13 +15,19 @@
   },
   "composed": "1930",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/four-faultless-felons",
   "editions": {
     "en-US": {
       "editor": "Cassell & Co.",
       "year": 1930
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,43 +44,50 @@
     {
       "id": "part01-prologue-of-the-pressman",
       "title": {
-        "en-US": "Prologue of the Pressman"
+        "en-US": "Prologue of the Pressman",
+        "pt-BR": "Prólogo do Jornalista"
       },
       "children": [
         {
           "id": "ch01-the-man-with-the-green-umbrella",
           "title": {
-            "en-US": "The Man with the Green Umbrella"
+            "en-US": "The Man with the Green Umbrella",
+            "pt-BR": "O Homem do Guarda-chuva Verde"
           }
         },
         {
           "id": "ch02-the-boy-who-made-a-scene",
           "title": {
-            "en-US": "The Boy Who Made a Scene"
+            "en-US": "The Boy Who Made a Scene",
+            "pt-BR": "O Menino que Fez uma Cena"
           }
         },
         {
           "id": "ch03-the-man-who-could-not-hate",
           "title": {
-            "en-US": "The Man Who Could not Hate"
+            "en-US": "The Man Who Could not Hate",
+            "pt-BR": "O Homem que Não Conseguia Odiar"
           }
         },
         {
           "id": "ch04-the-detective-and-the-parson",
           "title": {
-            "en-US": "The Detective and the Parson"
+            "en-US": "The Detective and the Parson",
+            "pt-BR": "O Detetive e o Pastor"
           }
         },
         {
           "id": "ch05-the-theory-of-moderate-murder",
           "title": {
-            "en-US": "The Theory of Moderate Murder"
+            "en-US": "The Theory of Moderate Murder",
+            "pt-BR": "A Teoria do Assassinato Moderado"
           }
         },
         {
           "id": "ch06-the-thing-that-really-happened",
           "title": {
-            "en-US": "The Thing That Really Happened"
+            "en-US": "The Thing That Really Happened",
+            "pt-BR": "O que Realmente Aconteceu"
           }
         }
       ]
@@ -82,43 +95,50 @@
     {
       "id": "part02-the-honest-quack",
       "title": {
-        "en-US": "The Honest Quack"
+        "en-US": "The Honest Quack",
+        "pt-BR": "O Charlatão Honesto"
       },
       "children": [
         {
           "id": "ch07-the-prologue-of-the-tree",
           "title": {
-            "en-US": "The Prologue of the Tree"
+            "en-US": "The Prologue of the Tree",
+            "pt-BR": "O Prólogo da Árvore"
           }
         },
         {
           "id": "ch08-the-man-with-the-black-bag",
           "title": {
-            "en-US": "The Man with the Black Bag"
+            "en-US": "The Man with the Black Bag",
+            "pt-BR": "O Homem da Maleta Preta"
           }
         },
         {
           "id": "ch09-the-trespasser-in-the-garden",
           "title": {
-            "en-US": "The Trespasser in the Garden"
+            "en-US": "The Trespasser in the Garden",
+            "pt-BR": "O Intruso no Jardim"
           }
         },
         {
           "id": "ch10-the-disease-of-duodiapsychosis",
           "title": {
-            "en-US": "The Disease of Duodiapsychosis"
+            "en-US": "The Disease of Duodiapsychosis",
+            "pt-BR": "A Doença da Duodiapsicose"
           }
         },
         {
           "id": "ch11-the-secret-of-the-tree",
           "title": {
-            "en-US": "The Secret of the Tree"
+            "en-US": "The Secret of the Tree",
+            "pt-BR": "O Segredo da Árvore"
           }
         },
         {
           "id": "ch12-the-epilogue-of-the-garden",
           "title": {
-            "en-US": "The Epilogue of the Garden"
+            "en-US": "The Epilogue of the Garden",
+            "pt-BR": "O Epílogo do Jardim"
           }
         }
       ]
@@ -126,43 +146,50 @@
     {
       "id": "part03-the-ecstatic-thief",
       "title": {
-        "en-US": "The Ecstatic Thief"
+        "en-US": "The Ecstatic Thief",
+        "pt-BR": "O Ladrão Extático"
       },
       "children": [
         {
           "id": "ch13-the-name-of-nadoway",
           "title": {
-            "en-US": "The Name of Nadoway"
+            "en-US": "The Name of Nadoway",
+            "pt-BR": "O Nome de Nadoway"
           }
         },
         {
           "id": "ch14-the-burglar-and-the-brooch",
           "title": {
-            "en-US": "The Burglar and the Brooch"
+            "en-US": "The Burglar and the Brooch",
+            "pt-BR": "O Arrombador e o Broche"
           }
         },
         {
           "id": "ch15-a-queer-reformation",
           "title": {
-            "en-US": "A Queer Reformation"
+            "en-US": "A Queer Reformation",
+            "pt-BR": "Uma Estranha Regeneração"
           }
         },
         {
           "id": "ch16-the-problems-of-detective-price",
           "title": {
-            "en-US": "The Problems of Detective Price"
+            "en-US": "The Problems of Detective Price",
+            "pt-BR": "Os Problemas do Detetive Price"
           }
         },
         {
           "id": "ch17-the-thief-on-trial",
           "title": {
-            "en-US": "The Thief on Trial"
+            "en-US": "The Thief on Trial",
+            "pt-BR": "O Ladrão em Julgamento"
           }
         },
         {
           "id": "ch18-the-cleansing-of-the-name",
           "title": {
-            "en-US": "The Cleansing of the Name"
+            "en-US": "The Cleansing of the Name",
+            "pt-BR": "A Reabilitação do Nome"
           }
         }
       ]
@@ -170,43 +197,50 @@
     {
       "id": "part04-the-loyal-traitor",
       "title": {
-        "en-US": "The Loyal Traitor"
+        "en-US": "The Loyal Traitor",
+        "pt-BR": "O Traidor Leal"
       },
       "children": [
         {
           "id": "ch19-the-menace-of-the-word",
           "title": {
-            "en-US": "The Menace of the Word"
+            "en-US": "The Menace of the Word",
+            "pt-BR": "A Ameaça da Palavra"
           }
         },
         {
           "id": "ch20-the-procession-of-the-plotters",
           "title": {
-            "en-US": "The Procession of the Plotters"
+            "en-US": "The Procession of the Plotters",
+            "pt-BR": "A Procissão dos Conspiradores"
           }
         },
         {
           "id": "ch21-the-princess-intervenes",
           "title": {
-            "en-US": "The Princess Intervenes"
+            "en-US": "The Princess Intervenes",
+            "pt-BR": "A Princesa Intervém"
           }
         },
         {
           "id": "ch22-the-unreasonableness-of-woman",
           "title": {
-            "en-US": "The Unreasonableness of Woman"
+            "en-US": "The Unreasonableness of Woman",
+            "pt-BR": "A Falta de Razão da Mulher"
           }
         },
         {
           "id": "ch23-the-terms-of-a-traitor",
           "title": {
-            "en-US": "The Terms of a Traitor"
+            "en-US": "The Terms of a Traitor",
+            "pt-BR": "As Condições de um Traidor"
           }
         },
         {
           "id": "ch24-the-speaking-of-the-word",
           "title": {
-            "en-US": "The Speaking of the Word"
+            "en-US": "The Speaking of the Word",
+            "pt-BR": "A Palavra Pronunciada"
           }
         }
       ]
@@ -214,7 +248,8 @@
     {
       "id": "ch25-epilogue-of-the-pressman",
       "title": {
-        "en-US": "Epilogue of the Pressman"
+        "en-US": "Epilogue of the Pressman",
+        "pt-BR": "Epílogo do Jornalista"
       }
     }
   ]
