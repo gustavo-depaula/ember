@@ -18,13 +18,19 @@
   },
   "composed": "date varies",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/sermones",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,121 +47,141 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Sermo 293/A (aucta)"
+        "la": "Sermo 293/A (aucta)",
+        "pt-BR": "Sermão 293/A (aucta)"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "Sermo 299/A (aucta)"
+        "la": "Sermo 299/A (aucta)",
+        "pt-BR": "Sermão 299/A (aucta)"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "la": "Sermo 114/B"
+        "la": "Sermo 114/B",
+        "pt-BR": "Sermão 114/B"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "la": "Sermo 23/B"
+        "la": "Sermo 23/B",
+        "pt-BR": "Sermão 23/B"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "la": "Sermo 142 (aucta)"
+        "la": "Sermo 142 (aucta)",
+        "pt-BR": "Sermão 142 (aucta)"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "la": "Sermo 29/B"
+        "la": "Sermo 29/B",
+        "pt-BR": "Sermão 29/B"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "la": "Sermo 162/C"
+        "la": "Sermo 162/C",
+        "pt-BR": "Sermão 162/C"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "la": "Sermo 90/A"
+        "la": "Sermo 90/A",
+        "pt-BR": "Sermão 90/A"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "la": "Sermo 354/A"
+        "la": "Sermo 354/A",
+        "pt-BR": "Sermão 354/A"
       }
     },
     {
       "id": "ch010",
       "title": {
-        "la": "Sermo 159/A"
+        "la": "Sermo 159/A",
+        "pt-BR": "Sermão 159/A"
       }
     },
     {
       "id": "ch011",
       "title": {
-        "la": "Sermo 352/A"
+        "la": "Sermo 352/A",
+        "pt-BR": "Sermão 352/A"
       }
     },
     {
       "id": "ch012",
       "title": {
-        "la": "Sermo 283 (aucta)"
+        "la": "Sermo 283 (aucta)",
+        "pt-BR": "Sermão 283 (aucta)"
       }
     },
     {
       "id": "ch013",
       "title": {
-        "la": "Sermo 72 (aucta)"
+        "la": "Sermo 72 (aucta)",
+        "pt-BR": "Sermão 72 (aucta)"
       }
     },
     {
       "id": "ch014",
       "title": {
-        "la": "Sermo 110/A"
+        "la": "Sermo 110/A",
+        "pt-BR": "Sermão 110/A"
       }
     },
     {
       "id": "ch015",
       "title": {
-        "la": "Sermo 306/E"
+        "la": "Sermo 306/E",
+        "pt-BR": "Sermão 306/E"
       }
     },
     {
       "id": "ch016",
       "title": {
-        "la": "Sermo 130/A"
+        "la": "Sermo 130/A",
+        "pt-BR": "Sermão 130/A"
       }
     },
     {
       "id": "ch017",
       "title": {
-        "la": "Sermo 14/A"
+        "la": "Sermo 14/A",
+        "pt-BR": "Sermão 14/A"
       }
     },
     {
       "id": "ch018",
       "title": {
-        "la": "Sermo 159/B"
+        "la": "Sermo 159/B",
+        "pt-BR": "Sermão 159/B"
       }
     },
     {
       "id": "ch019",
       "title": {
-        "la": "Sermo 341 (aucta)"
+        "la": "Sermo 341 (aucta)",
+        "pt-BR": "Sermão 341 (aucta)"
       }
     },
     {
       "id": "ch020",
       "title": {
-        "la": "Sermo 374 augm"
+        "la": "Sermo 374 augm",
+        "pt-BR": "Sermão 374 augm"
       }
     }
   ],
