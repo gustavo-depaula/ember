@@ -464,7 +464,6 @@ export default {
     officeRowKept: 'Your Divine Office',
     officeRowHint: 'Lauds, Vespers, Compline: choose the book and the hours',
     officeTitle: 'Your Office',
-    officeBook: 'Which book?',
     officeHours: 'Which hours?',
     officeHoursLede:
       'Each hour becomes a bead on your string, at its own time. Tap to take one out or put it back.',
@@ -473,16 +472,12 @@ export default {
     officeSave: 'Keep these hours',
     offices: {
       lh: 'Liturgy of the Hours',
-      lhHint: 'Brazilian edition',
       lhAbout: 'The Brazilian edition, as the Church prays today: Lauds, Vespers, Compline…',
       da: 'Roman Breviary',
-      daHint: 'Divino Afflatu, 1954',
       daAbout: 'The traditional breviary, in Latin with a translation.',
       mon: 'Monastic Breviary',
-      monHint: 'Rubrics of 1963',
       monAbout: 'The Office of the Benedictine monks, in Latin.',
       bvm: 'Little Office of Our Lady',
-      bvmHint: 'A Marian devotion',
       bvmAbout: 'A short Office, all given to Our Lady.',
     },
     title: 'Plan of Life',
@@ -2829,8 +2824,6 @@ export default {
       newHint: 'I want to understand it and pray one hour',
       which: 'Which is yours?',
       hours: 'Which hours?',
-      hoursLede: 'They make up your plan. Tap an hour to take it out or put it back.',
-      adoptHours: 'Adopt these hours',
       introTitle: 'The prayer of the Church',
       introText:
         'Psalms, readings and prayers that hallow the hours of the day. Priests and religious pray it the world over, and any of the faithful may join their voice to theirs. Begin with one hour.',

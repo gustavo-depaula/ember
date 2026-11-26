@@ -206,9 +206,9 @@ describe('the Office', () => {
     const { screen, user } = await boot()
     await user.click(await screen.findByTestId('onboarding-reason-office'))
     await user.click(await screen.findByTestId('onboarding-office-regular'))
-    await user.click(await screen.findByTestId('onboarding-hour-vespers'))
-    await user.click(await screen.findByTestId('onboarding-hour-sext'))
-    await user.click(await screen.findByTestId('onboarding-adopt-hours'))
+    await user.click(await screen.findByTestId('office-hour-vespers'))
+    await user.click(await screen.findByTestId('office-hour-sext'))
+    await user.click(await screen.findByTestId('office-save'))
     await expect.poll(currentPath).toBe('/onboarding/reminders')
 
     const hours = plan()

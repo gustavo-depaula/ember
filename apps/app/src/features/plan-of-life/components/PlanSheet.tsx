@@ -1,7 +1,7 @@
 import { Image, type ImageSource } from 'expo-image'
 import { useRouter } from 'expo-router'
 import { ChevronRight } from 'lucide-react-native'
-import { useRef, useState } from 'react'
+import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { ScrollView, StyleSheet } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
@@ -23,7 +23,7 @@ import { useArchivedPractices, usePinnedFlows } from '../hooks'
 import { beadRadius, dayPartHue, formatSlotTime, hourHue, slotDaysLabel } from '../ruleString'
 import { dayPartOrder, getActiveBlocks } from '../timeBlocks'
 import { BeadRow, beadRowHeight, beadX, threadPath } from './BeadRow'
-import { keptOffices, OfficeStep } from './OfficeStep'
+import { keptOffices } from './OfficeChooser'
 
 const sheet = createSheet()
 
@@ -33,12 +33,11 @@ export const openPlanSheet = sheet.open
  * The whole rule, drawn up over the You page: the bead string stood upright
  * with each time named, an open bead at its foot that opens the page for
  * adding a practice (plan/add), and the two whole plans and the Divine Office
- * to begin from, the Office's book and hours chosen here in the sheet.
+ * to begin from.
  */
 export function PlanSheet({ slots }: { slots: SlotState[] }) {
   const { t } = useTranslation()
   const insets = useSafeAreaInsets()
-  const scrollRef = useRef<ScrollView>(null)
 
   return (
     <NativeSheet sheet={sheet}>
@@ -49,14 +48,9 @@ export function PlanSheet({ slots }: { slots: SlotState[] }) {
           </Typography>
           {/* As on Today's sheet, the list scrolls only once the sheet is at
               the top: the native sheet can't hand an RN scroll to itself. */}
-          <ScrollView ref={scrollRef} showsVerticalScrollIndicator={false} {...scroll}>
+          <ScrollView showsVerticalScrollIndicator={false} {...scroll}>
             <YStack paddingHorizontal="$lg" paddingBottom={insets.bottom + 48} gap="$xl">
-              {bodyShown && (
-                <SheetBody
-                  slots={slots}
-                  toTop={() => scrollRef.current?.scrollTo({ y: 0, animated: false })}
-                />
-              )}
+              {bodyShown && <SheetBody slots={slots} />}
             </YStack>
           </ScrollView>
         </YStack>
@@ -65,22 +59,13 @@ export function PlanSheet({ slots }: { slots: SlotState[] }) {
   )
 }
 
-// Mounted only while the sheet is up, so it opens on the string again each time.
-// The Office opens from low on the sheet, so it starts at the top to show its title.
-function SheetBody({ slots, toTop }: { slots: SlotState[]; toTop: () => void }) {
-  const [office, setOffice] = useState(false)
-  if (office) return <OfficeStep slots={slots} onDone={() => setOffice(false)} />
+// Mounted only while the sheet is up.
+function SheetBody({ slots }: { slots: SlotState[] }) {
   return (
     <>
       <HueKey />
       <UprightString slots={slots} />
-      <BeginSection
-        slots={slots}
-        onOffice={() => {
-          setOffice(true)
-          toTop()
-        }}
-      />
+      <BeginSection slots={slots} />
       <Archived />
     </>
   )
@@ -205,8 +190,8 @@ function UprightString({ slots }: { slots: SlotState[] }) {
 }
 
 // The two whole plans and the Divine Office, one row each: a plan opens its
-// page to adopt, the Office opens its book and hours here in the sheet.
-function BeginSection({ slots, onOffice }: { slots: SlotState[]; onOffice: () => void }) {
+// page to adopt, the Office its page of book and hours.
+function BeginSection({ slots }: { slots: SlotState[] }) {
   const { t } = useTranslation()
   const router = useRouter()
   const templates = useTemplateList()
@@ -240,7 +225,10 @@ function BeginSection({ slots, onOffice }: { slots: SlotState[]; onOffice: () =>
           art={artFor('rule/office')}
           title={t(kept.length ? 'plan.officeRowKept' : 'plan.officeRow')}
           sub={kept.length ? kept.join('; ') : t('plan.officeRowHint')}
-          onPress={onOffice}
+          onPress={() => {
+            sheet.close()
+            router.push('/plan/office')
+          }}
         />
       </YStack>
     </YStack>
