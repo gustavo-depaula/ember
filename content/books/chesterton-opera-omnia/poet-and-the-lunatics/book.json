@@ -15,13 +15,19 @@
   },
   "composed": "1929",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/poet-and-the-lunatics",
   "editions": {
     "en-US": {
       "editor": "Cassell & Co.",
       "year": 1929
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,49 +44,57 @@
     {
       "id": "ch01-the-fantastic-friends",
       "title": {
-        "en-US": "The Fantastic Friends"
+        "en-US": "The Fantastic Friends",
+        "pt-BR": "Os Amigos Fantásticos"
       }
     },
     {
       "id": "ch02-the-yellow-bird",
       "title": {
-        "en-US": "The Yellow Bird"
+        "en-US": "The Yellow Bird",
+        "pt-BR": "O Pássaro Amarelo"
       }
     },
     {
       "id": "ch03-the-shadow-of-the-shark",
       "title": {
-        "en-US": "The Shadow of the Shark"
+        "en-US": "The Shadow of the Shark",
+        "pt-BR": "A Sombra do Tubarão"
       }
     },
     {
       "id": "ch04-the-crime-of-gabriel-gale",
       "title": {
-        "en-US": "The Crime of Gabriel Gale"
+        "en-US": "The Crime of Gabriel Gale",
+        "pt-BR": "O Crime de Gabriel Gale"
       }
     },
     {
       "id": "ch05-the-finger-of-stone",
       "title": {
-        "en-US": "The Finger of Stone"
+        "en-US": "The Finger of Stone",
+        "pt-BR": "O Dedo de Pedra"
       }
     },
     {
       "id": "ch06-the-house-of-the-peacock",
       "title": {
-        "en-US": "The House of the Peacock"
+        "en-US": "The House of the Peacock",
+        "pt-BR": "A Casa do Pavão"
       }
     },
     {
       "id": "ch07-the-purple-jewel",
       "title": {
-        "en-US": "The Purple Jewel"
+        "en-US": "The Purple Jewel",
+        "pt-BR": "A Joia Púrpura"
       }
     },
     {
       "id": "ch08-the-asylum-of-adventure",
       "title": {
-        "en-US": "The Asylum of Adventure"
+        "en-US": "The Asylum of Adventure",
+        "pt-BR": "O Asilo da Aventura"
       }
     }
   ]
