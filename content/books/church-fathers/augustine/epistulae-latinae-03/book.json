@@ -18,13 +18,19 @@
   },
   "composed": "date varies",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/epistulae",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,115 +47,134 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Epistula 176"
+        "la": "Epistula 176",
+        "pt-BR": "Carta 176"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "Epistula 177"
+        "la": "Epistula 177",
+        "pt-BR": "Carta 177"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "la": "Epistula 178"
+        "la": "Epistula 178",
+        "pt-BR": "Carta 178"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "la": "Epistula 179"
+        "la": "Epistula 179",
+        "pt-BR": "Carta 179"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "la": "Epistula 181"
+        "la": "Epistula 181",
+        "pt-BR": "Carta 181"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "la": "Epistula 182"
+        "la": "Epistula 182",
+        "pt-BR": "Carta 182"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "la": "Epistula 183"
+        "la": "Epistula 183",
+        "pt-BR": "Carta 183"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "la": "Epistula 184"
+        "la": "Epistula 184",
+        "pt-BR": "Carta 184"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "la": "Epistula 184/A"
+        "la": "Epistula 184/A",
+        "pt-BR": "Carta 184/A"
       }
     },
     {
       "id": "ch010",
       "title": {
-        "la": "Epistula 185/A"
+        "la": "Epistula 185/A",
+        "pt-BR": "Carta 185/A"
       }
     },
     {
       "id": "ch011",
       "title": {
-        "la": "Epistula 186"
+        "la": "Epistula 186",
+        "pt-BR": "Carta 186"
       }
     },
     {
       "id": "ch012",
       "title": {
-        "la": "Epistula 187"
+        "la": "Epistula 187",
+        "pt-BR": "Carta 187"
       }
     },
     {
       "id": "ch013",
       "title": {
-        "la": "Epistula 190"
+        "la": "Epistula 190",
+        "pt-BR": "Carta 190"
       }
     },
     {
       "id": "ch014",
       "title": {
-        "la": "Epistula 193"
+        "la": "Epistula 193",
+        "pt-BR": "Carta 193"
       }
     },
     {
       "id": "ch015",
       "title": {
-        "la": "Epistula 194"
+        "la": "Epistula 194",
+        "pt-BR": "Carta 194"
       }
     },
     {
       "id": "ch016",
       "title": {
-        "la": "Epistula 196"
+        "la": "Epistula 196",
+        "pt-BR": "Carta 196"
       }
     },
     {
       "id": "ch017",
       "title": {
-        "la": "Epistula 197"
+        "la": "Epistula 197",
+        "pt-BR": "Carta 197"
       }
     },
     {
       "id": "ch018",
       "title": {
-        "la": "Epistula 198"
+        "la": "Epistula 198",
+        "pt-BR": "Carta 198"
       }
     },
     {
       "id": "ch019",
       "title": {
-        "la": "Epistula 199"
+        "la": "Epistula 199",
+        "pt-BR": "Carta 199"
       }
     }
   ],
