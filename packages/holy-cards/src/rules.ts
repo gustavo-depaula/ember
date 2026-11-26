@@ -83,7 +83,9 @@ export const massRule: Rule = ({ acts, calendar, catalog }, since) =>
 /**
  * The Office gives the saints who have no Mass on any region's calendar, each
  * on its assigned day; so does a prayed day, the Office of those who don't
- * pray it. A day kept both ways gives two of the day's saints, where it has two.
+ * pray it. Either keeps the day, which gives one card, a choice where the day
+ * has more than one saint. Each kept door has its own grant, whatever else was
+ * kept, so a card won by one stays won when the other is kept later.
  */
 export const officeRule: Rule = ({ acts, calendar, catalog }, since) => {
   const doors = (['office', 'prayedDay'] as const).map(
@@ -103,13 +105,12 @@ export const officeRule: Rule = ({ acts, calendar, catalog }, since) => {
     if (!choice) return []
     return doors
       .filter(([, kept]) => kept.has(date))
-      .slice(0, choice.length)
       .map(([door]) => ({
         id: `${door}:${date}`,
         door,
         date,
         choice,
-        group: `office:${date}`,
+        oneOf: `office:${date}`,
         deadline: nextDay(date),
       }))
   })

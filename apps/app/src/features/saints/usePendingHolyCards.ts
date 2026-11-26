@@ -214,7 +214,7 @@ export function useCardsToday(): TodayCard[] | undefined {
     () =>
       rules &&
       todayCards(
-        offersToday(rules.input, rules.viewed),
+        offersToday(rules.input, rules.viewed, [...copies.values()]),
         new Map([...copies.values()].map((c) => [c.grant, c.card])),
       ),
     [rules, copies],

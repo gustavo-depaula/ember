@@ -97,7 +97,7 @@ export function EventPanel({
   )
 }
 
-const actGlyph = { mass: 'chalice', office: 'book', prayedDay: 'day' } as const
+const actGlyph = { mass: 'chalice', officeOrRosary: 'book' } as const
 
 /**
  * A day's holy cards as a ledger: a line per card, what to do on the left and
@@ -148,13 +148,13 @@ export function TodayPanel({ cards, date }: { cards: TodayCard[]; date?: string 
           names.length > 0
             ? names.reduce((a, b) => t('home.events.or', { a, b }))
             : t(grant.drawn ? 'home.events.drawn' : 'saints.redeem.unnamed')
+        // The Office, the Rosary and a prayed day are ways to one card, won or not.
+        const act = acts[0] === 'mass' ? 'mass' : 'officeOrRosary'
         const note = (() => {
           if (state === 'won') return `✦ ${t('home.events.won')}`
           if (state === 'redeemed') return `✦ ${t('home.events.redeemed')}`
           if (grant.drawn) return t('home.events.drawnNote', { count: grant.choice.length })
-          if (acts.includes('office') && acts.includes('prayedDay'))
-            return t('saints.receive.prayedDay')
-          if (acts[0] === 'prayedDay') return t('home.events.prayedDayNote')
+          if (act === 'officeOrRosary') return t('saints.receive.prayedDay')
           return undefined
         })()
         const first = saints[0]
@@ -163,7 +163,7 @@ export function TodayPanel({ cards, date }: { cards: TodayCard[]; date?: string 
           <AnimatedPressable
             key={grant.id}
             accessibilityRole="link"
-            accessibilityLabel={`${t(`home.events.act.${acts[0]}`)}, ${title}`}
+            accessibilityLabel={`${t(`home.events.act.${act}`)}, ${title}`}
             onPress={() => {
               if (state === 'won')
                 return router.push({ pathname: '/redeem', params: { grant: grant.id } })
@@ -192,7 +192,7 @@ export function TodayPanel({ cards, date }: { cards: TodayCard[]; date?: string 
               borderTopWidth={1}
               borderTopColor="$borderColor"
             >
-              <GlyphIcon glyph={actGlyph[acts[0]]} />
+              <GlyphIcon glyph={actGlyph[act]} />
               <YStack flex={1}>
                 <Typography
                   variant="label"
@@ -201,7 +201,7 @@ export function TodayPanel({ cards, date }: { cards: TodayCard[]; date?: string 
                   textTransform="uppercase"
                   tone="muted"
                 >
-                  {t(`home.events.act.${acts[0]}`)}
+                  {t(`home.events.act.${act}`)}
                 </Typography>
                 <Typography variant="sacred-title" textAlign="left" fontSize={18} lineHeight={22}>
                   {title}
