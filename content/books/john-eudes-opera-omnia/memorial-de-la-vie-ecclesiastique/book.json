@@ -18,13 +18,19 @@
   },
   "composed": 1666,
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "john-eudes/memorial-de-la-vie-ecclesiastique",
   "editions": {
     "fr-FR": {
       "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
       "year": 1905
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,127 +47,148 @@
     {
       "id": "mem-01",
       "title": {
-        "fr-FR": "Introduction (1): Le mémorial"
+        "fr-FR": "Introduction (1): Le mémorial",
+        "pt-BR": "Introdução (1): O memorial"
       }
     },
     {
       "id": "mem-02",
       "title": {
-        "fr-FR": "Introduction (2)"
+        "fr-FR": "Introduction (2)",
+        "pt-BR": "Introdução (2)"
       }
     },
     {
       "id": "mem-03",
       "title": {
-        "fr-FR": "Introduction (3): X vi i i"
+        "fr-FR": "Introduction (3): X vi i i",
+        "pt-BR": "Introdução (3): X vi i i"
       }
     },
     {
       "id": "mem-04",
       "title": {
-        "fr-FR": "Introduction (4)"
+        "fr-FR": "Introduction (4)",
+        "pt-BR": "Introdução (4)"
       }
     },
     {
       "id": "mem-05",
       "title": {
-        "fr-FR": "Introduction (5)"
+        "fr-FR": "Introduction (5)",
+        "pt-BR": "Introdução (5)"
       }
     },
     {
       "id": "mem-06",
       "title": {
-        "fr-FR": "Introduction (6)"
+        "fr-FR": "Introduction (6)",
+        "pt-BR": "Introdução (6)"
       }
     },
     {
       "id": "mem-07",
       "title": {
-        "fr-FR": "Introduction (7)"
+        "fr-FR": "Introduction (7)",
+        "pt-BR": "Introdução (7)"
       }
     },
     {
       "id": "mem-08",
       "title": {
-        "fr-FR": "Introduction (8)"
+        "fr-FR": "Introduction (8)",
+        "pt-BR": "Introdução (8)"
       }
     },
     {
       "id": "mem-09",
       "title": {
-        "fr-FR": "Première partie"
+        "fr-FR": "Première partie",
+        "pt-BR": "Primeira parte"
       }
     },
     {
       "id": "mem-10",
       "title": {
-        "fr-FR": "Deuxième partie"
+        "fr-FR": "Deuxième partie",
+        "pt-BR": "Segunda parte"
       }
     },
     {
       "id": "mem-11",
       "title": {
-        "fr-FR": "Troisième partie (1): En sortant du lit"
+        "fr-FR": "Troisième partie (1): En sortant du lit",
+        "pt-BR": "Terceira parte (1): Ao sair da cama"
       }
     },
     {
       "id": "mem-12",
       "title": {
-        "fr-FR": "Troisième partie (2): Ce qu'il faut faire apres la confession"
+        "fr-FR": "Troisième partie (2): Ce qu'il faut faire apres la confession",
+        "pt-BR": "Terceira parte (2): O que se deve fazer depois da confissão"
       }
     },
     {
       "id": "mem-13",
       "title": {
-        "fr-FR": "Troisième partie (3)"
+        "fr-FR": "Troisième partie (3)",
+        "pt-BR": "Terceira parte (3)"
       }
     },
     {
       "id": "mem-14",
       "title": {
-        "fr-FR": "Troisième partie (4): Croire toutes ces mêmes vérités, qui sont si certaines, qu'il n'y a"
+        "fr-FR": "Troisième partie (4): Croire toutes ces mêmes vérités, qui sont si certaines, qu'il n'y a",
+        "pt-BR": "Terceira parte (4): Crer em todas essas mesmas verdades, que são tão certas, que não há"
       }
     },
     {
       "id": "mem-15",
       "title": {
-        "fr-FR": "Quatrième partie (1)"
+        "fr-FR": "Quatrième partie (1)",
+        "pt-BR": "Quarta parte (1)"
       }
     },
     {
       "id": "mem-16",
       "title": {
-        "fr-FR": "Quatrième partie (2)"
+        "fr-FR": "Quatrième partie (2)",
+        "pt-BR": "Quarta parte (2)"
       }
     },
     {
       "id": "mem-17",
       "title": {
-        "fr-FR": "Quatrième partie (3)"
+        "fr-FR": "Quatrième partie (3)",
+        "pt-BR": "Quarta parte (3)"
       }
     },
     {
       "id": "mem-18",
       "title": {
-        "fr-FR": "Quatrième partie (4): Sur la tonsure"
+        "fr-FR": "Quatrième partie (4): Sur la tonsure",
+        "pt-BR": "Quarta parte (4): Sobre a tonsura"
       }
     },
     {
       "id": "mem-19",
       "title": {
-        "fr-FR": "Quatrième partie (5): Conférer le sacrement du baptême"
+        "fr-FR": "Quatrième partie (5): Conférer le sacrement du baptême",
+        "pt-BR": "Quarta parte (5): Conferir o sacramento do batismo"
       }
     },
     {
       "id": "mem-20",
       "title": {
-        "fr-FR": "Quatrième partie (6): Que les ecclésiastiques doivent renoncer entièrement au monde"
+        "fr-FR": "Quatrième partie (6): Que les ecclésiastiques doivent renoncer entièrement au monde",
+        "pt-BR": "Quarta parte (6): Que os eclesiásticos devem renunciar inteiramente ao mundo"
       }
     },
     {
       "id": "mem-21",
       "title": {
-        "fr-FR": "Quatrième partie (7): Oraisons jaculatoires"
+        "fr-FR": "Quatrième partie (7): Oraisons jaculatoires",
+        "pt-BR": "Quarta parte (7): Orações jaculatórias"
       }
     }
   ]
