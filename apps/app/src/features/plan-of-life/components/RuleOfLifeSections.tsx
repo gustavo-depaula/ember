@@ -1,10 +1,13 @@
-import { useRouter } from 'expo-router'
+import { type Href, useRouter } from 'expo-router'
 import { ChevronRight, CloudDownload } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, Typography } from '@/components'
+import { artFor } from '@/features/explore/artMap'
+import { ChoiceRow } from '@/features/onboarding/parts'
+import { type ReasonKey, reasons } from '@/features/onboarding/reasons'
 import { lightTap } from '@/lib/haptics'
 
 import { useSlots } from '../hooks'
@@ -13,6 +16,14 @@ import { InProgress } from './InProgress'
 import { PlanOfflineSheet } from './PlanOfflineSheet'
 import { openPlanSheet, PlanSheet } from './PlanSheet'
 import { RuleString } from './RuleString'
+
+// Onboarding's answers, each to the page that keeps it outside onboarding.
+const emptyPlanWays: Record<ReasonKey, Href> = {
+  begin: { pathname: '/templates/[templateId]', params: { templateId: 'beginner-minimum' } },
+  grow: '/plan/add',
+  obra: { pathname: '/templates/[templateId]', params: { templateId: 'opus-dei' } },
+  office: '/plan/office',
+}
 
 /**
  * The rule of life on the You page: its shape as a string of beads (the whole
@@ -78,46 +89,24 @@ export function RuleOfLifeSections() {
         </XStack>
 
         {rule.length === 0 ? (
-          <YStack alignItems="center" gap="$sm" paddingVertical="$xl" paddingHorizontal="$lg">
-            <Typography variant="sacred-title" fontSize="$3" textAlign="center">
+          <YStack gap="$xs" paddingTop="$md">
+            <Typography variant="sacred-title" fontSize="$3" textAlign="left">
               {t('plan.emptyState')}
             </Typography>
-            <Typography tone="muted" fontSize="$2" textAlign="center" fontStyle="italic">
-              {t('plan.emptyStateDescription')}
-            </Typography>
-            <AnimatedPressable
-              testID="plan-empty-add"
-              onPress={() => {
-                lightTap()
-                router.push('/plan/add')
-              }}
-              accessibilityRole="link"
-              accessibilityLabel={t('a11y.openAddToRule')}
-            >
-              <Typography
-                variant="label"
-                color="$accent"
-                textTransform="uppercase"
-                letterSpacing={1.5}
-                minHeight={44}
-                paddingTop="$md"
-              >
-                {t('plan.emptyStateAction')}
-              </Typography>
-            </AnimatedPressable>
-            <AnimatedPressable
-              testID="plan-empty-whole"
-              onPress={() => {
-                lightTap()
-                openPlanSheet()
-              }}
-              accessibilityRole="button"
-              accessibilityLabel={t('plan.emptyStateWhole')}
-            >
-              <Typography tone="muted" fontSize={15} minHeight={44}>
-                {t('plan.emptyStateWhole')}
-              </Typography>
-            </AnimatedPressable>
+            <Typography variant="caption">{t('plan.emptyStateDescription')}</Typography>
+            <YStack paddingTop="$sm">
+              {reasons.map((r, i) => (
+                <ChoiceRow
+                  key={r.key}
+                  testID={`plan-empty-${r.key}`}
+                  first={i === 0}
+                  title={t(`onboarding.reason.${r.key}`)}
+                  hint={t(`onboarding.reason.${r.key}Hint`)}
+                  image={artFor(r.art)}
+                  onPress={() => router.push(emptyPlanWays[r.key])}
+                />
+              ))}
+            </YStack>
           </YStack>
         ) : (
           <>

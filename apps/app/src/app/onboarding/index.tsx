@@ -9,6 +9,7 @@ import {
   ChoiceRow,
   clearOnboardingPlan,
   planSlotIds,
+  reasons,
   reportFailure,
   TextLink,
 } from '@/features/onboarding'
@@ -17,15 +18,6 @@ import { usePreferencesStore } from '@/stores/preferencesStore'
 
 const flourishDark = require('../../../assets/textures/notch_you_dark.png')
 const flourishLight = require('../../../assets/textures/notch_you_light.png')
-
-// The smallest step first: a beginner meets themselves at the top, and the
-// ones who know what they want (the Work, the Office) find their line below.
-const reasons = [
-  { key: 'begin', href: '/onboarding/begin', art: 'plan-of-life-template/beginner-minimum' },
-  { key: 'grow', href: '/onboarding/grow', art: 'collection/mental-prayer' },
-  { key: 'obra', href: '/onboarding/obra', art: 'plan-of-life-template/opus-dei' },
-  { key: 'office', href: '/onboarding/office', art: 'practice/patristic-reading' },
-] as const
 
 /** The one question: what brings this person here. Each answer is its own way in. */
 export default function OnboardingReason() {
@@ -77,7 +69,7 @@ export default function OnboardingReason() {
             image={artFor(r.art)}
             onPress={() => {
               track('onboarding_reason', { reason: r.key })
-              router.push(r.href as Href)
+              router.push(`/onboarding/${r.key}` as Href)
             }}
           />
         ))}
