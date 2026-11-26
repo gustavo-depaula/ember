@@ -15,13 +15,19 @@
   },
   "composed": 1926,
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/outline-of-sanity",
   "editions": {
     "en-US": {
       "editor": "Methuen & Co.",
       "year": 1926
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,37 +44,43 @@
     {
       "id": "chapter-01",
       "title": {
-        "en-US": "I. Some General Ideas"
+        "en-US": "I. Some General Ideas",
+        "pt-BR": "I. Algumas ideias gerais"
       }
     },
     {
       "id": "chapter-02",
       "title": {
-        "en-US": "II. Some Aspects of Big Business"
+        "en-US": "II. Some Aspects of Big Business",
+        "pt-BR": "II. Alguns aspectos da grande empresa"
       }
     },
     {
       "id": "chapter-03",
       "title": {
-        "en-US": "III. Some Aspects of the Land"
+        "en-US": "III. Some Aspects of the Land",
+        "pt-BR": "III. Alguns aspectos da terra"
       }
     },
     {
       "id": "chapter-04",
       "title": {
-        "en-US": "IV. Some Aspects of Machinery"
+        "en-US": "IV. Some Aspects of Machinery",
+        "pt-BR": "IV. Alguns aspectos da maquinaria"
       }
     },
     {
       "id": "chapter-05",
       "title": {
-        "en-US": "V. A Note on Emigration"
+        "en-US": "V. A Note on Emigration",
+        "pt-BR": "V. Uma nota sobre a emigração"
       }
     },
     {
       "id": "chapter-06",
       "title": {
-        "en-US": "VI. A Summary"
+        "en-US": "VI. A Summary",
+        "pt-BR": "VI. Um resumo"
       }
     }
   ]
