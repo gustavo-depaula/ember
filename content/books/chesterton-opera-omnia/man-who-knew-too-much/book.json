@@ -11,17 +11,23 @@
   },
   "description": {
     "en-US": "Eight stories of Horne Fisher, a pale and disillusioned English gentleman who knows the secrets of the great and the powerful and can solve any crime but never prosecute it. A bitter, brilliant companion to the Father Brown stories, with the English governing class in the dock.",
-    "pt-BR": "Oito histórias de Horne Fisher, um cavalheiro inglês pálido e desiludido que conhece os segredos dos grandes e poderosos e sabe resolver qualquer crime, mas nunca o denuncia. Um companheiro amargo e brilhante das histórias do Padre Brown, com a classe dirigente inglesa no banco dos réus."
+    "pt-BR": "Oito histórias de Horne Fisher, um cavalheiro inglês pálido e desiludido que conhece os segredos dos grandes e poderosos e é capaz de solucionar qualquer crime, mas nunca de levar o culpado a julgamento. Um companheiro amargo e brilhante das histórias do Padre Brown, com a classe dirigente inglesa no banco dos réus."
   },
   "composed": "1922",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/man-who-knew-too-much",
   "editions": {
     "en-US": {
       "editor": "Cassell and Company",
       "year": 1922
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,49 +44,57 @@
     {
       "id": "ch01-the-man-who-knew-too-much",
       "title": {
-        "en-US": "The Man Who Knew Too Much"
+        "en-US": "The Man Who Knew Too Much",
+        "pt-BR": "O Homem que Sabia Demais"
       }
     },
     {
       "id": "ch02-the-vanishing-prince",
       "title": {
-        "en-US": "The Vanishing Prince"
+        "en-US": "The Vanishing Prince",
+        "pt-BR": "O Príncipe que Desaparece"
       }
     },
     {
       "id": "ch03-the-soul-of-the-schoolboy",
       "title": {
-        "en-US": "The Soul of the Schoolboy"
+        "en-US": "The Soul of the Schoolboy",
+        "pt-BR": "A Alma do Colegial"
       }
     },
     {
       "id": "ch04-the-bottomless-well",
       "title": {
-        "en-US": "The Bottomless Well"
+        "en-US": "The Bottomless Well",
+        "pt-BR": "O Poço sem Fundo"
       }
     },
     {
       "id": "ch05-the-fad-of-the-fisherman",
       "title": {
-        "en-US": "The Fad of the Fisherman"
+        "en-US": "The Fad of the Fisherman",
+        "pt-BR": "A Mania do Pescador"
       }
     },
     {
       "id": "ch06-the-hole-in-the-wall",
       "title": {
-        "en-US": "The Hole in the Wall"
+        "en-US": "The Hole in the Wall",
+        "pt-BR": "O Buraco no Muro"
       }
     },
     {
       "id": "ch07-the-temple-of-silence",
       "title": {
-        "en-US": "The Temple of Silence"
+        "en-US": "The Temple of Silence",
+        "pt-BR": "O Templo do Silêncio"
       }
     },
     {
       "id": "ch08-the-vengeance-of-the-statue",
       "title": {
-        "en-US": "The Vengeance of the Statue"
+        "en-US": "The Vengeance of the Statue",
+        "pt-BR": "A Vingança da Estátua"
       }
     }
   ]
