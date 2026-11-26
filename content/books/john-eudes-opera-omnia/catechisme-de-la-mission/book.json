@@ -18,13 +18,19 @@
   },
   "composed": 1646,
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "john-eudes/catechisme-de-la-mission",
   "editions": {
     "fr-FR": {
       "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
       "year": 1905
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,49 +47,57 @@
     {
       "id": "cat-01",
       "title": {
-        "fr-FR": "Catéchisme (1): La vie du chrétien"
+        "fr-FR": "Catéchisme (1): La vie du chrétien",
+        "pt-BR": "Catecismo (1): A vida do cristão"
       }
     },
     {
       "id": "cat-02",
       "title": {
-        "fr-FR": "Catéchisme (2)"
+        "fr-FR": "Catéchisme (2)",
+        "pt-BR": "Catecismo (2)"
       }
     },
     {
       "id": "cat-03",
       "title": {
-        "fr-FR": "Catéchisme (3)"
+        "fr-FR": "Catéchisme (3)",
+        "pt-BR": "Catecismo (3)"
       }
     },
     {
       "id": "cat-04",
       "title": {
-        "fr-FR": "Catéchisme (4): D. -- Quelle est la septième?"
+        "fr-FR": "Catéchisme (4): D. -- Quelle est la septième?",
+        "pt-BR": "Catecismo (4): P. -- Qual é a sétima?"
       }
     },
     {
       "id": "cat-05",
       "title": {
-        "fr-FR": "Catéchisme (5)"
+        "fr-FR": "Catéchisme (5)",
+        "pt-BR": "Catecismo (5)"
       }
     },
     {
       "id": "cat-06",
       "title": {
-        "fr-FR": "Catéchisme (6)"
+        "fr-FR": "Catéchisme (6)",
+        "pt-BR": "Catecismo (6)"
       }
     },
     {
       "id": "cat-07",
       "title": {
-        "fr-FR": "Catéchisme (7): « jésus maria, jésus maria, jésus, maria.»"
+        "fr-FR": "Catéchisme (7): « jésus maria, jésus maria, jésus, maria.»",
+        "pt-BR": "Catecismo (7): “jesus maria, jesus maria, jesus, maria.”"
       }
     },
     {
       "id": "cat-08",
       "title": {
-        "fr-FR": "Catéchisme (8): Contre les commandements de l'église"
+        "fr-FR": "Catéchisme (8): Contre les commandements de l'église",
+        "pt-BR": "Catecismo (8): Contra os mandamentos da igreja"
       }
     }
   ]
