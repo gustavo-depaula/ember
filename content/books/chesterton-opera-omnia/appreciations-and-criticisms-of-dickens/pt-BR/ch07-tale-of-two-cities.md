@@ -1,0 +1,3 @@
+# Um conto de duas cidades
+
+Foi bom para ele, de todo modo, que o povo se levantasse na França. Foi bom para ele, de todo modo, que a guilhotina fosse erguida na Praça da Concórdia. Inconscientemente, mas não por acaso, Dickens desenvolvia aqui toda a verdadeira comparação entre o revolucionismo rápido de Paris e o evolucionismo lento de Londres. Sidney Carton é um daqueles ascetas sublimes cuja cabeça os faz tropeçar e que a cortam. Para ele, ao menos, era melhor que o sangue corresse em Paris do que o vinho continuasse a correr em Londres. E, se digo que ainda hoje a guilhotina talvez fosse a melhor cura para muito advogado londrino, peço-vos que acrediteis que não estou apenas sendo leviano. Mas não acreditareis.
