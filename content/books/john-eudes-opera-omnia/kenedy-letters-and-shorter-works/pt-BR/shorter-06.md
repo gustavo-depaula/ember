@@ -1,0 +1,17 @@
+# Carta à Santíssima Virgem
+
+Augustíssima Mãe de Deus, gloriosíssima Imperatriz do céu e da terra, prostrado em espírito e coração aos pés de vossa Suprema Majestade, com toda a humildade, respeito e devoção de todos os corações que vos amam, e desejando que meu espírito, entendimento, memória, vontade, coração, língua, mão e pena vos prestem toda a homenagem possível, ouso, embora infinitamente indigno, tomar a liberdade de vos escrever esta carta, à imitação de outros de vossos filhos.
+
+Em primeiro lugar, para vos declarar, diante do céu e da terra, que vos reconheço e honro como o digníssimo santuário da Santíssima Trindade, a digníssima filha do Pai Eterno, a caríssima Mãe de seu Filho, a amada Esposa do Espírito Santo, a poderosíssima Rainha do universo, minha soberana Senhora, minha honradíssima Mãe, e a mais santa, sábia, doce, feliz, bela, poderosa, generosa, condescendente, gloriosa, admirável e amável de todas as criaturas.
+
+Em segundo lugar, para vos oferecer todo o respeito, serviço, veneração, louvor, honra e glória que são devidos às vossas grandezas e que vos foram e serão prestados em todos os tempos passados, presentes e futuros.
+
+Em terceiro lugar, para vos prestar toda a gratidão e ação de graças possíveis
+
+pelos incontáveis efeitos de vossa incomparável bondade para comigo e para com todas as coisas criadas.
+
+Em quarto lugar, para vos pedir perdão muito humildemente e fazer uma reparação honrosa por toda a minha ingratidão, negligência e infidelidade para convosco, e por todos os ultrajes e ofensas que recebestes dos homens e dos demônios; e para vos oferecer, em compensação e reparação, o amabilíssimo Coração de vosso Filho Jesus, todo abrasado de amor por vós, juntamente com todo o amor e honra que vos foram e serão prestados no tempo e na eternidade.
+
+Em quinto lugar, para vos suplicar muito humildemente, pelo ardentíssimo amor que vosso Filho Jesus vos tem, por aquele que lhe tendes e por toda a bondade de vosso Coração materno, que obtenhais dele para mim o perdão de todos os meus pecados, que repareis todas as minhas ofensas contra sua Divina Majestade, que destruais em mim tudo o que lhe desagrada, que estabeleçais perfeitamente em mim o reino de seu divino amor e de sua adorável vontade, que me façais participar convosco de todas as coisas, da maneira que mais lhe agrade, que me formeis inteiramente segundo o Coração dele e o vosso, que me deis a conhecer, se tal for seu beneplácito, o momento em que ele se dignará chamar-me a si, que me assistais em minha morte, que me obtenhais de meu Salvador a graça de que meu último suspiro seja um ato de puro amor por ele e por vós, que recebais minha alma quando ela deixar meu corpo, que a apresenteis a meu Jesus, que a alojeis no Coração dele e no vosso, e que a mergulheis, a submerjais e a consumais para sempre nessa fornalha ardente do amor divino.
+
+São estas as humildíssimas e fervorosas súplicas que ouso apresentar à vossa incomparável benignidade, ó Mãe da graça, não somente por mim, mas por todos os vossos filhos, com os quais desejo ter um só coração e uma só alma para viver a mesma vida e morrer a mesma morte no santo amor do amabilíssimo Coração de Jesus e Maria, a quem e por quem sou, augustíssima Mãe de meu Deus, dulcíssima Rainha de meu coração e piedosíssima e boa Mãe de minha alma, de Vossa Soberana Majestade, o mais humilde, obediente, agradecido e sinceramente devotado servo em todas as coisas, JOÃO EUDES, sacerdote missionário.
