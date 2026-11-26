@@ -15,13 +15,19 @@
   },
   "composed": "1826-1843",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "newman/fifteen-oxford-university-sermons",
   "editions": {
     "en-US": {
       "editor": "John Henry Newman (Longmans, uniform edition; Newman Reader)",
       "year": 1872
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,91 +44,106 @@
     {
       "id": "sermon-1",
       "title": {
-        "en-US": "Sermon 1. The Philosophical Temper, First Enjoined by the Gospel"
+        "en-US": "Sermon 1. The Philosophical Temper, First Enjoined by the Gospel",
+        "pt-BR": "Sermão 1. O temperamento filosófico, primeiro exigido pelo Evangelho"
       }
     },
     {
       "id": "sermon-2",
       "title": {
-        "en-US": "Sermon 2. The Influence of Natural and Revealed Religion Respectively"
+        "en-US": "Sermon 2. The Influence of Natural and Revealed Religion Respectively",
+        "pt-BR": "Sermão 2. A influência da Religião Natural e da Revelada, respectivamente"
       }
     },
     {
       "id": "sermon-3",
       "title": {
-        "en-US": "Sermon 3. Evangelical Sanctity the Completion of Natural Virtue"
+        "en-US": "Sermon 3. Evangelical Sanctity the Completion of Natural Virtue",
+        "pt-BR": "Sermão 3. A santidade evangélica como plenitude da virtude natural"
       }
     },
     {
       "id": "sermon-4",
       "title": {
-        "en-US": "Sermon 4. The Usurpations of Reason"
+        "en-US": "Sermon 4. The Usurpations of Reason",
+        "pt-BR": "Sermão 4. As usurpações da razão"
       }
     },
     {
       "id": "sermon-5",
       "title": {
-        "en-US": "Sermon 5. Personal Influence, the Means of Propagating the Truth"
+        "en-US": "Sermon 5. Personal Influence, the Means of Propagating the Truth",
+        "pt-BR": "Sermão 5. A influência pessoal, meio de propagar a verdade"
       }
     },
     {
       "id": "sermon-6",
       "title": {
-        "en-US": "Sermon 6. On Justice, as a Principle of Divine Governance"
+        "en-US": "Sermon 6. On Justice, as a Principle of Divine Governance",
+        "pt-BR": "Sermão 6. Sobre a justiça como princípio do governo divino"
       }
     },
     {
       "id": "sermon-7",
       "title": {
-        "en-US": "Sermon 7. Contest between Faith and Sight"
+        "en-US": "Sermon 7. Contest between Faith and Sight",
+        "pt-BR": "Sermão 7. O conflito entre a fé e a visão"
       }
     },
     {
       "id": "sermon-8",
       "title": {
-        "en-US": "Sermon 8. Human Responsibility, as Independent of Circumstances"
+        "en-US": "Sermon 8. Human Responsibility, as Independent of Circumstances",
+        "pt-BR": "Sermão 8. A responsabilidade humana como independente das circunstâncias"
       }
     },
     {
       "id": "sermon-9",
       "title": {
-        "en-US": "Sermon 9. Wilfulness, the Sin of Saul"
+        "en-US": "Sermon 9. Wilfulness, the Sin of Saul",
+        "pt-BR": "Sermão 9. A obstinação, o pecado de Saul"
       }
     },
     {
       "id": "sermon-10",
       "title": {
-        "en-US": "Sermon 10. Faith and Reason, contrasted as Habits of Mind"
+        "en-US": "Sermon 10. Faith and Reason, contrasted as Habits of Mind",
+        "pt-BR": "Sermão 10. A fé e a razão, contrastadas como hábitos da mente"
       }
     },
     {
       "id": "sermon-11",
       "title": {
-        "en-US": "Sermon 11. The Nature of Faith in Relation to Reason"
+        "en-US": "Sermon 11. The Nature of Faith in Relation to Reason",
+        "pt-BR": "Sermão 11. A natureza da fé em relação à razão"
       }
     },
     {
       "id": "sermon-12",
       "title": {
-        "en-US": "Sermon 12. Love the Safeguard of Faith against Superstition"
+        "en-US": "Sermon 12. Love the Safeguard of Faith against Superstition",
+        "pt-BR": "Sermão 12. O amor como salvaguarda da fé contra a superstição"
       }
     },
     {
       "id": "sermon-13",
       "title": {
-        "en-US": "Sermon 13. Implicit and Explicit Reason"
+        "en-US": "Sermon 13. Implicit and Explicit Reason",
+        "pt-BR": "Sermão 13. Razão implícita e explícita"
       }
     },
     {
       "id": "sermon-14",
       "title": {
-        "en-US": "Sermon 14. Wisdom, as Contrasted with Faith and with Bigotry"
+        "en-US": "Sermon 14. Wisdom, as Contrasted with Faith and with Bigotry",
+        "pt-BR": "Sermão 14. A sabedoria, contrastada com a fé e com a intolerância"
       }
     },
     {
       "id": "sermon-15",
       "title": {
-        "en-US": "Sermon 15. The Theory of developments in Religious Doctrine"
+        "en-US": "Sermon 15. The Theory of developments in Religious Doctrine",
+        "pt-BR": "Sermão 15. A teoria dos desenvolvimentos na doutrina religiosa"
       }
     }
   ]
