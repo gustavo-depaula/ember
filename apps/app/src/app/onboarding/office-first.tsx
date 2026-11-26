@@ -6,7 +6,7 @@ import { YStack } from 'tamagui'
 import { ScreenLayout, Slab, Typography } from '@/components'
 import { OtherPrayerLine, useOfficeHours } from '@/features/onboarding'
 import { HourToggle } from '@/features/plan-of-life/components/HourToggle'
-import { type Office, offices } from '@/features/plan-of-life/offices'
+import { offices } from '@/features/plan-of-life/offices'
 import { PracticeHeader } from '@/features/practices/components/PracticeHeader'
 import { localizeContent } from '@/lib/i18n'
 
@@ -38,9 +38,11 @@ export default function OnboardingOfficeFirst() {
           {t('onboarding.office.firstHour')}
         </Typography>
         <YStack>
-          {offered.map((h) => (
+          {offered.map((h, i, all) => (
             <HourToggle
               key={h.id}
+              index={i}
+              count={all.length}
               testID={`onboarding-first-${h.id}`}
               label={localizeContent(h.label)}
               hint={t(`onboarding.office.${h.id as (typeof liturgy.hours)[number]}`)}

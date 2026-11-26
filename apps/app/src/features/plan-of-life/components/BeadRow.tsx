@@ -4,17 +4,18 @@ import { XStack } from 'tamagui'
 import { Typography } from '@/components'
 
 export const beadRowHeight = 50
-const railWidth = 52
+export const railWidth = 52
 const sway = 12
 // The string winds gently as it descends; each row draws its own stretch of it.
 export const beadX = (i: number) => railWidth / 2 + sway * Math.sin(i * 1.1)
 
 // Row i's stretch of the string: from halfway to the bead above, through its
-// own bead, to halfway to the one below.
-export function threadPath(i: number, count: number): string {
-  const mid = beadRowHeight / 2
+// own bead, to halfway to the one below. A taller row (a name with a line
+// under it) passes its own height.
+export function threadPath(i: number, count: number, height = beadRowHeight): string {
+  const mid = height / 2
   const from = i > 0 ? `M${(beadX(i - 1) + beadX(i)) / 2},0 L` : 'M'
-  const to = i < count - 1 ? ` L${(beadX(i) + beadX(i + 1)) / 2},${beadRowHeight}` : ''
+  const to = i < count - 1 ? ` L${(beadX(i) + beadX(i + 1)) / 2},${height}` : ''
   return `${from}${beadX(i)},${mid}${to}`
 }
 

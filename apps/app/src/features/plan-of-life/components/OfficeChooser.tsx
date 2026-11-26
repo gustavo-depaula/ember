@@ -130,9 +130,11 @@ export function OfficeChooser({
         <Typography variant="caption">{t('plan.officeHoursLede')}</Typography>
       </YStack>
       <YStack>
-        {(hours.data ?? []).map((h) => (
+        {(hours.data ?? []).map((h, i, all) => (
           <HourToggle
             key={h.id}
+            index={i}
+            count={all.length}
             testID={`office-hour-${h.id}`}
             label={localizeContent(h.label)}
             time={h.time}
