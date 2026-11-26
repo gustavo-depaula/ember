@@ -15,13 +15,19 @@
   },
   "composed": "1914",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/wisdom-of-father-brown",
   "editions": {
     "en-US": {
       "editor": "Cassell and Company",
       "year": 1914
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,73 +44,85 @@
     {
       "id": "ch01-the-absence-of-mr-glass",
       "title": {
-        "en-US": "The Absence of Mr Glass"
+        "en-US": "The Absence of Mr Glass",
+        "pt-BR": "A Ausência do Sr. Glass"
       }
     },
     {
       "id": "ch02-the-paradise-of-thieves",
       "title": {
-        "en-US": "The Paradise of Thieves"
+        "en-US": "The Paradise of Thieves",
+        "pt-BR": "O Paraíso dos Ladrões"
       }
     },
     {
       "id": "ch03-the-duel-of-dr-hirsch",
       "title": {
-        "en-US": "The Duel of Dr Hirsch"
+        "en-US": "The Duel of Dr Hirsch",
+        "pt-BR": "O Duelo do Dr. Hirsch"
       }
     },
     {
       "id": "ch04-the-man-in-the-passage",
       "title": {
-        "en-US": "The Man in the Passage"
+        "en-US": "The Man in the Passage",
+        "pt-BR": "O Homem no Corredor"
       }
     },
     {
       "id": "ch05-the-mistake-of-the-machine",
       "title": {
-        "en-US": "The Mistake of the Machine"
+        "en-US": "The Mistake of the Machine",
+        "pt-BR": "O Erro da Máquina"
       }
     },
     {
       "id": "ch06-the-head-of-caesar",
       "title": {
-        "en-US": "The Head of Caesar"
+        "en-US": "The Head of Caesar",
+        "pt-BR": "A Cabeça de César"
       }
     },
     {
       "id": "ch07-the-purple-wig",
       "title": {
-        "en-US": "The Purple Wig"
+        "en-US": "The Purple Wig",
+        "pt-BR": "A Peruca Roxa"
       }
     },
     {
       "id": "ch08-the-perishing-of-the-pendragons",
       "title": {
-        "en-US": "The Perishing of the Pendragons"
+        "en-US": "The Perishing of the Pendragons",
+        "pt-BR": "A Ruína dos Pendragon"
       }
     },
     {
       "id": "ch09-the-god-of-the-gongs",
       "title": {
-        "en-US": "The God of the Gongs"
+        "en-US": "The God of the Gongs",
+        "pt-BR": "O Deus dos Gongos"
       }
     },
     {
       "id": "ch10-the-salad-of-colonel-cray",
       "title": {
-        "en-US": "The Salad of Colonel Cray"
+        "en-US": "The Salad of Colonel Cray",
+        "pt-BR": "A Salada do Coronel Cray"
       }
     },
     {
       "id": "ch11-the-strange-crime-of-john-boulnois",
       "title": {
-        "en-US": "The Strange Crime of John Boulnois"
+        "en-US": "The Strange Crime of John Boulnois",
+        "pt-BR": "O Estranho Crime de John Boulnois"
       }
     },
     {
       "id": "ch12-the-fairy-tale-of-father-brown",
       "title": {
-        "en-US": "The Fairy Tale of Father Brown"
+        "en-US": "The Fairy Tale of Father Brown",
+        "pt-BR": "O Conto de Fadas do Padre Brown"
       }
     }
   ]
