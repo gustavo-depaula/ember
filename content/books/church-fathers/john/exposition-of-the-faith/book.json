@@ -2,13 +2,16 @@
   "id": "john-exposition-of-the-faith",
   "cover": "quarter",
   "name": {
-    "en-US": "Exposition of the Faith"
+    "en-US": "Exposition of the Faith",
+    "pt-BR": "Exposição da Fé"
   },
   "author": {
-    "en-US": "John of Damascus"
+    "en-US": "John of Damascus",
+    "pt-BR": "São João Damasceno"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,29 +24,40 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "BOOK I"
+        "en-US": "BOOK I",
+        "pt-BR": "LIVRO I"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "BOOK II"
+        "en-US": "BOOK II",
+        "pt-BR": "LIVRO II"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "BOOK III"
+        "en-US": "BOOK III",
+        "pt-BR": "LIVRO III"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "BOOK IV"
+        "en-US": "BOOK IV",
+        "pt-BR": "LIVRO IV"
       }
     }
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
