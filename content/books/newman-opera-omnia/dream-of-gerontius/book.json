@@ -15,13 +15,19 @@
   },
   "composed": "1865",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "newman/dream-of-gerontius",
   "editions": {
     "en-US": {
       "editor": "John Henry Newman (author's text; Gutenberg copy from Longmans 1910, ed. Maurice Francis Egan)",
       "year": 1865
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,43 +44,50 @@
     {
       "id": "part-1",
       "title": {
-        "en-US": "Part I"
+        "en-US": "Part I",
+        "pt-BR": "Parte I"
       }
     },
     {
       "id": "part-2",
       "title": {
-        "en-US": "Part II"
+        "en-US": "Part II",
+        "pt-BR": "Parte II"
       }
     },
     {
       "id": "part-3",
       "title": {
-        "en-US": "Part III"
+        "en-US": "Part III",
+        "pt-BR": "Parte III"
       }
     },
     {
       "id": "part-4",
       "title": {
-        "en-US": "Part IV"
+        "en-US": "Part IV",
+        "pt-BR": "Parte IV"
       }
     },
     {
       "id": "part-5",
       "title": {
-        "en-US": "Part V"
+        "en-US": "Part V",
+        "pt-BR": "Parte V"
       }
     },
     {
       "id": "part-6",
       "title": {
-        "en-US": "Part VI"
+        "en-US": "Part VI",
+        "pt-BR": "Parte VI"
       }
     },
     {
       "id": "part-7",
       "title": {
-        "en-US": "Part VII"
+        "en-US": "Part VII",
+        "pt-BR": "Parte VII"
       }
     }
   ]
