@@ -18,13 +18,19 @@
   },
   "composed": 1636,
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "john-eudes/exercice-de-piete",
   "editions": {
     "fr-FR": {
       "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
       "year": 1905
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,43 +47,50 @@
     {
       "id": "ex-01",
       "title": {
-        "fr-FR": "Exercice de piété (1): Exercice de piété"
+        "fr-FR": "Exercice de piété (1): Exercice de piété",
+        "pt-BR": "Exercício de piedade (1): Exercício de piedade"
       }
     },
     {
       "id": "ex-02",
       "title": {
-        "fr-FR": "Exercice de piété (2): Bouche doivent être remplis, spécialement à l'heure de la mort"
+        "fr-FR": "Exercice de piété (2): Bouche doivent être remplis, spécialement à l'heure de la mort",
+        "pt-BR": "Exercício de piedade (2): Boca devem estar repletos, especialmente na hora da morte"
       }
     },
     {
       "id": "ex-03",
       "title": {
-        "fr-FR": "Exercice de piété (3): Exercice pour le matin"
+        "fr-FR": "Exercice de piété (3): Exercice pour le matin",
+        "pt-BR": "Exercício de piedade (3): Exercício para a manhã"
       }
     },
     {
       "id": "ex-04",
       "title": {
-        "fr-FR": "Exercice de piété (4): Exercice pour le soir"
+        "fr-FR": "Exercice de piété (4): Exercice pour le soir",
+        "pt-BR": "Exercício de piedade (4): Exercício para a noite"
       }
     },
     {
       "id": "ex-05",
       "title": {
-        "fr-FR": "Exercice de piété (5): Le salut assuré"
+        "fr-FR": "Exercice de piété (5): Le salut assuré",
+        "pt-BR": "Exercício de piedade (5): A salvação assegurada"
       }
     },
     {
       "id": "ex-06",
       "title": {
-        "fr-FR": "Exercice de piété (6): La prière en famille"
+        "fr-FR": "Exercice de piété (6): La prière en famille",
+        "pt-BR": "Exercício de piedade (6): A oração em família"
       }
     },
     {
       "id": "ex-07",
       "title": {
-        "fr-FR": "Exercice de piété (7): Oremus 54"
+        "fr-FR": "Exercice de piété (7): Oremus 54",
+        "pt-BR": "Exercício de piedade (7): Oremus 54"
       }
     }
   ]
