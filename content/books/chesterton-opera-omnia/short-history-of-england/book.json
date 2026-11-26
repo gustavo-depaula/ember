@@ -15,13 +15,19 @@
   },
   "composed": "1917",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/short-history-of-england",
   "editions": {
     "en-US": {
       "editor": "Chatto & Windus",
       "year": 1917
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,109 +44,127 @@
     {
       "id": "ch01-introduction",
       "title": {
-        "en-US": "I. Introduction"
+        "en-US": "I. Introduction",
+        "pt-BR": "I. Introdução"
       }
     },
     {
       "id": "ch02-the-province-of-britain",
       "title": {
-        "en-US": "II. The Province of Britain"
+        "en-US": "II. The Province of Britain",
+        "pt-BR": "II. A Província da Britânia"
       }
     },
     {
       "id": "ch03-the-age-of-legends",
       "title": {
-        "en-US": "III. The Age of Legends"
+        "en-US": "III. The Age of Legends",
+        "pt-BR": "III. A Era das Lendas"
       }
     },
     {
       "id": "ch04-the-defeat-of-the-barbarians",
       "title": {
-        "en-US": "IV. The Defeat of the Barbarians"
+        "en-US": "IV. The Defeat of the Barbarians",
+        "pt-BR": "IV. A Derrota dos Bárbaros"
       }
     },
     {
       "id": "ch05-st-edward-and-the-norman-kings",
       "title": {
-        "en-US": "V. St. Edward and the Norman Kings"
+        "en-US": "V. St. Edward and the Norman Kings",
+        "pt-BR": "V. Santo Eduardo e os Reis Normandos"
       }
     },
     {
       "id": "ch06-the-age-of-the-crusades",
       "title": {
-        "en-US": "VI. The Age of the Crusades"
+        "en-US": "VI. The Age of the Crusades",
+        "pt-BR": "VI. A Era das Cruzadas"
       }
     },
     {
       "id": "ch07-the-problem-of-the-plantagenets",
       "title": {
-        "en-US": "VII. The Problem of the Plantagenets"
+        "en-US": "VII. The Problem of the Plantagenets",
+        "pt-BR": "VII. O Problema dos Plantagenetas"
       }
     },
     {
       "id": "ch08-the-meaning-of-merry-england",
       "title": {
-        "en-US": "VIII. The Meaning of Merry England"
+        "en-US": "VIII. The Meaning of Merry England",
+        "pt-BR": "VIII. O Significado da Alegre Inglaterra"
       }
     },
     {
       "id": "ch09-nationality-and-the-french-wars",
       "title": {
-        "en-US": "IX. Nationality and the French Wars"
+        "en-US": "IX. Nationality and the French Wars",
+        "pt-BR": "IX. Nacionalidade e as Guerras com a França"
       }
     },
     {
       "id": "ch10-the-war-of-the-usurpers",
       "title": {
-        "en-US": "X. The War of the Usurpers"
+        "en-US": "X. The War of the Usurpers",
+        "pt-BR": "X. A Guerra dos Usurpadores"
       }
     },
     {
       "id": "ch11-the-rebellion-of-the-rich",
       "title": {
-        "en-US": "XI. The Rebellion of the Rich"
+        "en-US": "XI. The Rebellion of the Rich",
+        "pt-BR": "XI. A Rebelião dos Ricos"
       }
     },
     {
       "id": "ch12-spain-and-the-schism-of-nations",
       "title": {
-        "en-US": "XII. Spain and the Schism of Nations"
+        "en-US": "XII. Spain and the Schism of Nations",
+        "pt-BR": "XII. A Espanha e o Cisma das Nações"
       }
     },
     {
       "id": "ch13-the-age-of-the-puritans",
       "title": {
-        "en-US": "XIII. The Age of the Puritans"
+        "en-US": "XIII. The Age of the Puritans",
+        "pt-BR": "XIII. A Era dos Puritanos"
       }
     },
     {
       "id": "ch14-the-triumph-of-the-whigs",
       "title": {
-        "en-US": "XIV. The Triumph of the Whigs"
+        "en-US": "XIV. The Triumph of the Whigs",
+        "pt-BR": "XIV. O Triunfo dos Whigs"
       }
     },
     {
       "id": "ch15-the-war-with-the-great-republics",
       "title": {
-        "en-US": "XV. The War with the Great Republics"
+        "en-US": "XV. The War with the Great Republics",
+        "pt-BR": "XV. A Guerra com as Grandes Repúblicas"
       }
     },
     {
       "id": "ch16-aristocracy-and-the-discontents",
       "title": {
-        "en-US": "XVI. Aristocracy and the Discontents"
+        "en-US": "XVI. Aristocracy and the Discontents",
+        "pt-BR": "XVI. A Aristocracia e os Descontentes"
       }
     },
     {
       "id": "ch17-the-return-of-the-barbarian",
       "title": {
-        "en-US": "XVII. The Return of the Barbarian"
+        "en-US": "XVII. The Return of the Barbarian",
+        "pt-BR": "XVII. O Retorno do Bárbaro"
       }
     },
     {
       "id": "ch18-conclusion",
       "title": {
-        "en-US": "XVIII. Conclusion"
+        "en-US": "XVIII. Conclusion",
+        "pt-BR": "XVIII. Conclusão"
       }
     }
   ]
