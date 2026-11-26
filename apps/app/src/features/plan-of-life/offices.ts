@@ -8,7 +8,7 @@ import { resyncReminders } from './hooks'
 
 /**
  * The Offices kept hour by hour, each a practice whose flow picks its hour.
- * `hours` are the ones proposed at first; the rest wait one tap away.
+ * `hours` are the ones a newcomer to the Office may begin with.
  */
 export const offices = [
   {

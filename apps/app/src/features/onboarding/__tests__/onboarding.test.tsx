@@ -206,8 +206,9 @@ describe('the Office', () => {
     const { screen, user } = await boot()
     await user.click(await screen.findByTestId('onboarding-reason-office'))
     await user.click(await screen.findByTestId('onboarding-office-regular'))
-    await user.click(await screen.findByTestId('office-hour-vespers'))
-    await user.click(await screen.findByTestId('office-hour-sext'))
+    // Every hour is proposed; these three are let go.
+    for (const hour of ['office-of-readings', 'terce', 'none'])
+      await user.click(await screen.findByTestId(`office-hour-${hour}`))
     await user.click(await screen.findByTestId('office-save'))
     await expect.poll(currentPath).toBe('/onboarding/reminders')
 
@@ -219,6 +220,7 @@ describe('the Office', () => {
       ['compline', '21:00'],
       ['lauds', '06:00'],
       ['sext', '12:00'],
+      ['vespers', '18:00'],
     ])
   }, 60_000)
 

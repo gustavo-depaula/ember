@@ -29,9 +29,9 @@ export function keptOffices(slots: SlotState[], t: (key: string) => string) {
 
 /**
  * The Divine Office as a page, from onboarding and from the plan sheet alike:
- * which book, then which of its hours join the plan — Lauds, Vespers and
- * Compline proposed for a book not yet kept, the kept hours otherwise. Each
- * book remembers its own choice while another is looked at.
+ * which book, then which of its hours join the plan — every hour proposed for
+ * a book not yet kept, the kept hours otherwise. Each book remembers its own
+ * choice while another is looked at.
  */
 export function OfficeChooser({
   title,
@@ -52,21 +52,22 @@ export function OfficeChooser({
     Object.fromEntries(
       offices.map((o) => {
         const kept = keptHours(slots, o.practiceId)
-        return [o.key, { kept: kept.length > 0, hours: kept.length ? kept : o.hours }]
+        return [o.key, { kept: kept.length > 0, hours: kept.length ? kept : undefined }]
       }),
     ),
   )
   const [office, setOffice] = useState<Office>(
     () => offices.find((o) => proposed[o.key].kept) ?? offices[0],
   )
-  const [chosen, setChosen] = useState<Record<string, readonly string[]>>(() =>
+  // A book not yet kept, and not yet touched, proposes all its hours: they come with its flow.
+  const [chosen, setChosen] = useState<Record<string, readonly string[] | undefined>>(() =>
     Object.fromEntries(offices.map((o) => [o.key, proposed[o.key].hours])),
   )
-  const kept = chosen[office.key]
   const hours = useQuery({
     queryKey: ['office-hours', office.practiceId],
     queryFn: () => officeHours(office.practiceId),
   })
+  const kept = chosen[office.key] ?? (hours.data ?? []).map((h) => h.id)
   const save = useMutation({
     mutationFn: () => setOfficeHours(office.practiceId, kept),
     onSuccess: () => {
