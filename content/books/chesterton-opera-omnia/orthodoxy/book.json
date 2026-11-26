@@ -11,17 +11,23 @@
   },
   "description": {
     "en-US": "Chesterton's account of how he came to believe the Christian faith: not an argument from evidence but a spiritual autobiography in paradoxes. Against the madness of reason without wonder, he finds in the creed the only philosophy that keeps both the sanity and the romance of the world. Companion to Heretics (1905).",
-    "pt-BR": "O relato de Chesterton sobre como chegou à fé cristã: não um argumento a partir de provas, mas uma autobiografia espiritual em paradoxos. Contra a loucura da razão sem assombro, ele encontra no credo a única filosofia que guarda ao mesmo tempo a sanidade e o romance do mundo. Companheiro de Heretics (1905)."
+    "pt-BR": "O relato de Chesterton sobre como chegou à fé cristã: não um argumento a partir de provas, mas uma autobiografia espiritual em paradoxos. Contra a loucura da razão sem assombro, ele encontra no credo a única filosofia que guarda ao mesmo tempo a sanidade e o espírito romanesco do mundo. Companheiro de Hereges (1905)."
   },
   "composed": "1908",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/orthodoxy",
   "editions": {
     "en-US": {
       "editor": "John Lane (The Bodley Head)",
       "year": 1908
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,61 +44,71 @@
     {
       "id": "preface",
       "title": {
-        "en-US": "Preface"
+        "en-US": "Preface",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "ch01-introduction-in-defence-of-everything-else",
       "title": {
-        "en-US": "I. Introduction in Defence of Everything Else"
+        "en-US": "I. Introduction in Defence of Everything Else",
+        "pt-BR": "I. Introdução em Defesa de Todo o Resto"
       }
     },
     {
       "id": "ch02-the-maniac",
       "title": {
-        "en-US": "II. The Maniac"
+        "en-US": "II. The Maniac",
+        "pt-BR": "II. O Maníaco"
       }
     },
     {
       "id": "ch03-the-suicide-of-thought",
       "title": {
-        "en-US": "III. The Suicide of Thought"
+        "en-US": "III. The Suicide of Thought",
+        "pt-BR": "III. O Suicídio do Pensamento"
       }
     },
     {
       "id": "ch04-the-ethics-of-elfland",
       "title": {
-        "en-US": "IV. The Ethics of Elfland"
+        "en-US": "IV. The Ethics of Elfland",
+        "pt-BR": "IV. A Ética do País das Fadas"
       }
     },
     {
       "id": "ch05-the-flag-of-the-world",
       "title": {
-        "en-US": "V. The Flag of the World"
+        "en-US": "V. The Flag of the World",
+        "pt-BR": "V. A Bandeira do Mundo"
       }
     },
     {
       "id": "ch06-the-paradoxes-of-christianity",
       "title": {
-        "en-US": "VI. The Paradoxes of Christianity"
+        "en-US": "VI. The Paradoxes of Christianity",
+        "pt-BR": "VI. Os Paradoxos do Cristianismo"
       }
     },
     {
       "id": "ch07-the-eternal-revolution",
       "title": {
-        "en-US": "VII. The Eternal Revolution"
+        "en-US": "VII. The Eternal Revolution",
+        "pt-BR": "VII. A Revolução Eterna"
       }
     },
     {
       "id": "ch08-the-romance-of-orthodoxy",
       "title": {
-        "en-US": "VIII. The Romance of Orthodoxy"
+        "en-US": "VIII. The Romance of Orthodoxy",
+        "pt-BR": "VIII. O Espírito Romanesco da Ortodoxia"
       }
     },
     {
       "id": "ch09-authority-and-the-adventurer",
       "title": {
-        "en-US": "IX. Authority and the Adventurer"
+        "en-US": "IX. Authority and the Adventurer",
+        "pt-BR": "IX. A Autoridade e o Aventureiro"
       }
     }
   ]
