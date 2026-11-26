@@ -15,13 +15,19 @@
   },
   "composed": "1908",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/all-things-considered",
   "editions": {
     "en-US": {
       "editor": "Methuen & Co.",
       "year": 1908
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,211 +44,246 @@
     {
       "id": "ch01-the-case-for-the-ephemeral",
       "title": {
-        "en-US": "The Case for the Ephemeral"
+        "en-US": "The Case for the Ephemeral",
+        "pt-BR": "Em defesa do efêmero"
       }
     },
     {
       "id": "ch02-cockneys-and-their-jokes",
       "title": {
-        "en-US": "Cockneys and Their Jokes"
+        "en-US": "Cockneys and Their Jokes",
+        "pt-BR": "Os cockneys e suas piadas"
       }
     },
     {
       "id": "ch03-the-fallacy-of-success",
       "title": {
-        "en-US": "The Fallacy of Success"
+        "en-US": "The Fallacy of Success",
+        "pt-BR": "A falácia do sucesso"
       }
     },
     {
       "id": "ch04-on-running-after-ones-hat",
       "title": {
-        "en-US": "On Running After One’s Hat"
+        "en-US": "On Running After One’s Hat",
+        "pt-BR": "Sobre correr atrás do próprio chapéu"
       }
     },
     {
       "id": "ch05-the-vote-and-the-house",
       "title": {
-        "en-US": "The Vote and the House"
+        "en-US": "The Vote and the House",
+        "pt-BR": "O voto e a casa"
       }
     },
     {
       "id": "ch06-conceit-and-caricature",
       "title": {
-        "en-US": "Conceit and Caricature"
+        "en-US": "Conceit and Caricature",
+        "pt-BR": "Presunção e caricatura"
       }
     },
     {
       "id": "ch07-patriotism-and-sport",
       "title": {
-        "en-US": "Patriotism and Sport"
+        "en-US": "Patriotism and Sport",
+        "pt-BR": "Patriotismo e esporte"
       }
     },
     {
       "id": "ch08-an-essay-on-two-cities",
       "title": {
-        "en-US": "An Essay on Two Cities"
+        "en-US": "An Essay on Two Cities",
+        "pt-BR": "Um ensaio sobre duas cidades"
       }
     },
     {
       "id": "ch09-french-and-english",
       "title": {
-        "en-US": "French and English"
+        "en-US": "French and English",
+        "pt-BR": "Franceses e ingleses"
       }
     },
     {
       "id": "ch10-the-zola-controversy",
       "title": {
-        "en-US": "The Zola Controversy"
+        "en-US": "The Zola Controversy",
+        "pt-BR": "A controvérsia sobre Zola"
       }
     },
     {
       "id": "ch11-oxford-from-without",
       "title": {
-        "en-US": "Oxford from Without"
+        "en-US": "Oxford from Without",
+        "pt-BR": "Oxford vista de fora"
       }
     },
     {
       "id": "ch12-woman",
       "title": {
-        "en-US": "Woman"
+        "en-US": "Woman",
+        "pt-BR": "A mulher"
       }
     },
     {
       "id": "ch13-the-modern-martyr",
       "title": {
-        "en-US": "The Modern Martyr"
+        "en-US": "The Modern Martyr",
+        "pt-BR": "O mártir moderno"
       }
     },
     {
       "id": "ch14-on-political-secrecy",
       "title": {
-        "en-US": "On Political Secrecy"
+        "en-US": "On Political Secrecy",
+        "pt-BR": "Sobre o sigilo político"
       }
     },
     {
       "id": "ch15-edward-vii-and-scotland",
       "title": {
-        "en-US": "Edward VII. and Scotland"
+        "en-US": "Edward VII. and Scotland",
+        "pt-BR": "Eduardo VII e a Escócia"
       }
     },
     {
       "id": "ch16-thoughts-around-koepenick",
       "title": {
-        "en-US": "Thoughts Around Koepenick"
+        "en-US": "Thoughts Around Koepenick",
+        "pt-BR": "Reflexões em torno de Koepenick"
       }
     },
     {
       "id": "ch17-the-boy",
       "title": {
-        "en-US": "The Boy"
+        "en-US": "The Boy",
+        "pt-BR": "O menino"
       }
     },
     {
       "id": "ch18-limericks-and-counsels-of-perfection",
       "title": {
-        "en-US": "Limericks and Counsels of Perfection"
+        "en-US": "Limericks and Counsels of Perfection",
+        "pt-BR": "Limeriques e conselhos de perfeição"
       }
     },
     {
       "id": "ch19-anonymity-and-further-counsels",
       "title": {
-        "en-US": "Anonymity and Further Counsels"
+        "en-US": "Anonymity and Further Counsels",
+        "pt-BR": "Anonimato e outros conselhos"
       }
     },
     {
       "id": "ch20-on-the-cryptic-and-the-elliptic",
       "title": {
-        "en-US": "On the Cryptic and the Elliptic"
+        "en-US": "On the Cryptic and the Elliptic",
+        "pt-BR": "Sobre o críptico e o elíptico"
       }
     },
     {
       "id": "ch21-the-worship-of-the-wealthy",
       "title": {
-        "en-US": "The Worship of the Wealthy"
+        "en-US": "The Worship of the Wealthy",
+        "pt-BR": "O culto aos ricos"
       }
     },
     {
       "id": "ch22-science-and-religion",
       "title": {
-        "en-US": "Science and Religion"
+        "en-US": "Science and Religion",
+        "pt-BR": "Ciência e religião"
       }
     },
     {
       "id": "ch23-the-methuselahite",
       "title": {
-        "en-US": "The Methuselahite"
+        "en-US": "The Methuselahite",
+        "pt-BR": "O matusalemita"
       }
     },
     {
       "id": "ch24-spiritualism",
       "title": {
-        "en-US": "Spiritualism"
+        "en-US": "Spiritualism",
+        "pt-BR": "Espiritismo"
       }
     },
     {
       "id": "ch25-the-error-of-impartiality",
       "title": {
-        "en-US": "The Error of Impartiality"
+        "en-US": "The Error of Impartiality",
+        "pt-BR": "O erro da imparcialidade"
       }
     },
     {
       "id": "ch26-phonetic-spelling",
       "title": {
-        "en-US": "Phonetic Spelling"
+        "en-US": "Phonetic Spelling",
+        "pt-BR": "Ortografia fonética"
       }
     },
     {
       "id": "ch27-humanitarianism-and-strength",
       "title": {
-        "en-US": "Humanitarianism and Strength"
+        "en-US": "Humanitarianism and Strength",
+        "pt-BR": "Humanitarismo e força"
       }
     },
     {
       "id": "ch28-wine-when-it-is-red",
       "title": {
-        "en-US": "Wine When It is Red"
+        "en-US": "Wine When It is Red",
+        "pt-BR": "O vinho quando é tinto"
       }
     },
     {
       "id": "ch29-demagogues-and-mystagogues",
       "title": {
-        "en-US": "Demagogues and Mystagogues"
+        "en-US": "Demagogues and Mystagogues",
+        "pt-BR": "Demagogos e mistagogos"
       }
     },
     {
       "id": "ch30-the-eatanswill-gazette",
       "title": {
-        "en-US": "The “Eatanswill Gazette”"
+        "en-US": "The “Eatanswill Gazette”",
+        "pt-BR": "A “Gazeta de Eatanswill”"
       }
     },
     {
       "id": "ch31-fairy-tales",
       "title": {
-        "en-US": "Fairy Tales"
+        "en-US": "Fairy Tales",
+        "pt-BR": "Contos de fadas"
       }
     },
     {
       "id": "ch32-tom-jones-and-morality",
       "title": {
-        "en-US": "Tom Jones and Morality"
+        "en-US": "Tom Jones and Morality",
+        "pt-BR": "Tom Jones e a moralidade"
       }
     },
     {
       "id": "ch33-the-maid-of-orleans",
       "title": {
-        "en-US": "The Maid of Orleans"
+        "en-US": "The Maid of Orleans",
+        "pt-BR": "A Donzela de Orléans"
       }
     },
     {
       "id": "ch34-a-dead-poet",
       "title": {
-        "en-US": "A Dead Poet"
+        "en-US": "A Dead Poet",
+        "pt-BR": "Um poeta morto"
       }
     },
     {
       "id": "ch35-christmas",
       "title": {
-        "en-US": "Christmas"
+        "en-US": "Christmas",
+        "pt-BR": "Natal"
       }
     }
   ]
