@@ -15,13 +15,19 @@
   },
   "composed": "1834-1835",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "newman/parochial-and-plain-sermons-1",
   "editions": {
     "en-US": {
       "editor": "John Henry Newman, ed. William John Copeland (Rivingtons, 1868; Newman Reader)",
       "year": 1868
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,157 +44,183 @@
     {
       "id": "sermon-1",
       "title": {
-        "en-US": "Sermon 1. Holiness Necessary for Future Blessedness"
+        "en-US": "Sermon 1. Holiness Necessary for Future Blessedness",
+        "pt-BR": "Sermão 1. A santidade necessária à bem-aventurança futura"
       }
     },
     {
       "id": "sermon-2",
       "title": {
-        "en-US": "Sermon 2. The Immortality of the Soul"
+        "en-US": "Sermon 2. The Immortality of the Soul",
+        "pt-BR": "Sermão 2. A imortalidade da alma"
       }
     },
     {
       "id": "sermon-3",
       "title": {
-        "en-US": "Sermon 3. Knowledge of God's Will without Obedience"
+        "en-US": "Sermon 3. Knowledge of God's Will without Obedience",
+        "pt-BR": "Sermão 3. Conhecimento da vontade de Deus sem obediência"
       }
     },
     {
       "id": "sermon-4",
       "title": {
-        "en-US": "Sermon 4. Secret Faults"
+        "en-US": "Sermon 4. Secret Faults",
+        "pt-BR": "Sermão 4. Faltas ocultas"
       }
     },
     {
       "id": "sermon-5",
       "title": {
-        "en-US": "Sermon 5. Self-Denial the Test of Religious Earnestness"
+        "en-US": "Sermon 5. Self-Denial the Test of Religious Earnestness",
+        "pt-BR": "Sermão 5. A abnegação como prova da seriedade religiosa"
       }
     },
     {
       "id": "sermon-6",
       "title": {
-        "en-US": "Sermon 6. The Spiritual Mind"
+        "en-US": "Sermon 6. The Spiritual Mind",
+        "pt-BR": "Sermão 6. A mente espiritual"
       }
     },
     {
       "id": "sermon-7",
       "title": {
-        "en-US": "Sermon 7. Sins of Ignorance and Weakness"
+        "en-US": "Sermon 7. Sins of Ignorance and Weakness",
+        "pt-BR": "Sermão 7. Pecados de ignorância e fraqueza"
       }
     },
     {
       "id": "sermon-8",
       "title": {
-        "en-US": "Sermon 8. God's Commandments not Grievous"
+        "en-US": "Sermon 8. God's Commandments not Grievous",
+        "pt-BR": "Sermão 8. Os mandamentos de Deus não são penosos"
       }
     },
     {
       "id": "sermon-9",
       "title": {
-        "en-US": "Sermon 9. The Religious Use of Excited Feelings"
+        "en-US": "Sermon 9. The Religious Use of Excited Feelings",
+        "pt-BR": "Sermão 9. O uso religioso dos sentimentos exaltados"
       }
     },
     {
       "id": "sermon-10",
       "title": {
-        "en-US": "Sermon 10. Profession without Practice"
+        "en-US": "Sermon 10. Profession without Practice",
+        "pt-BR": "Sermão 10. Profissão sem prática"
       }
     },
     {
       "id": "sermon-11",
       "title": {
-        "en-US": "Sermon 11. Profession without Hypocrisy"
+        "en-US": "Sermon 11. Profession without Hypocrisy",
+        "pt-BR": "Sermão 11. Profissão sem hipocrisia"
       }
     },
     {
       "id": "sermon-12",
       "title": {
-        "en-US": "Sermon 12. Profession without Ostentation"
+        "en-US": "Sermon 12. Profession without Ostentation",
+        "pt-BR": "Sermão 12. Profissão sem ostentação"
       }
     },
     {
       "id": "sermon-13",
       "title": {
-        "en-US": "Sermon 13. Promising without Doing"
+        "en-US": "Sermon 13. Promising without Doing",
+        "pt-BR": "Sermão 13. Prometer sem fazer"
       }
     },
     {
       "id": "sermon-14",
       "title": {
-        "en-US": "Sermon 14. Religious Emotion"
+        "en-US": "Sermon 14. Religious Emotion",
+        "pt-BR": "Sermão 14. A emoção religiosa"
       }
     },
     {
       "id": "sermon-15",
       "title": {
-        "en-US": "Sermon 15. Religious Faith Rational"
+        "en-US": "Sermon 15. Religious Faith Rational",
+        "pt-BR": "Sermão 15. A racionalidade da fé religiosa"
       }
     },
     {
       "id": "sermon-16",
       "title": {
-        "en-US": "Sermon 16. The Christian Mysteries"
+        "en-US": "Sermon 16. The Christian Mysteries",
+        "pt-BR": "Sermão 16. Os mistérios cristãos"
       }
     },
     {
       "id": "sermon-17",
       "title": {
-        "en-US": "Sermon 17. The Self-wise Inquirer"
+        "en-US": "Sermon 17. The Self-wise Inquirer",
+        "pt-BR": "Sermão 17. O investigador sábio aos próprios olhos"
       }
     },
     {
       "id": "sermon-18",
       "title": {
-        "en-US": "Sermon 18. Obedience the Remedy for Religious Perplexity"
+        "en-US": "Sermon 18. Obedience the Remedy for Religious Perplexity",
+        "pt-BR": "Sermão 18. A obediência como remédio para a perplexidade religiosa"
       }
     },
     {
       "id": "sermon-19",
       "title": {
-        "en-US": "Sermon 19. Times of Private Prayer"
+        "en-US": "Sermon 19. Times of Private Prayer",
+        "pt-BR": "Sermão 19. Momentos de oração privada"
       }
     },
     {
       "id": "sermon-20",
       "title": {
-        "en-US": "Sermon 20. Forms of Private Prayer"
+        "en-US": "Sermon 20. Forms of Private Prayer",
+        "pt-BR": "Sermão 20. Formas de oração privada"
       }
     },
     {
       "id": "sermon-21",
       "title": {
-        "en-US": "Sermon 21. The Resurrection of the Body"
+        "en-US": "Sermon 21. The Resurrection of the Body",
+        "pt-BR": "Sermão 21. A ressurreição do corpo"
       }
     },
     {
       "id": "sermon-22",
       "title": {
-        "en-US": "Sermon 22. Witnesses of the Resurrection"
+        "en-US": "Sermon 22. Witnesses of the Resurrection",
+        "pt-BR": "Sermão 22. Testemunhas da ressurreição"
       }
     },
     {
       "id": "sermon-23",
       "title": {
-        "en-US": "Sermon 23. Christian Reverence"
+        "en-US": "Sermon 23. Christian Reverence",
+        "pt-BR": "Sermão 23. A reverência cristã"
       }
     },
     {
       "id": "sermon-24",
       "title": {
-        "en-US": "Sermon 24. The Religion of the Day"
+        "en-US": "Sermon 24. The Religion of the Day",
+        "pt-BR": "Sermão 24. A religião de nossos dias"
       }
     },
     {
       "id": "sermon-25",
       "title": {
-        "en-US": "Sermon 25. Scripture a Record of Human Sorrow"
+        "en-US": "Sermon 25. Scripture a Record of Human Sorrow",
+        "pt-BR": "Sermão 25. A Escritura como registro do sofrimento humano"
       }
     },
     {
       "id": "sermon-26",
       "title": {
-        "en-US": "Sermon 26. Christian Manhood"
+        "en-US": "Sermon 26. Christian Manhood",
+        "pt-BR": "Sermão 26. A maturidade cristã"
       }
     }
   ]

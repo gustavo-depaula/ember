@@ -92,16 +92,16 @@ export function ExploreFeatured({ leading }: { leading?: ReactNode }) {
       gospel.text.length > 130 ? `${gospel.text.slice(0, 130).trimEnd()}…` : gospel.text
     blocks.push({
       key: 'gospel',
-      label: t('bible.discovery.gospelOfTheDay'),
-      title: gospel.citation ?? t('bible.discovery.gospelOfTheDay'),
+      label: t('explore.dailyLiturgy'),
+      title: gospel.citation ?? t('explore.dailyLiturgy'),
       subtitle: preview,
       image: evangelistArtFor(gospel.citation, dayIndex),
-      tone: toneForKey('gospel-of-the-day'),
+      tone: toneForKey('daily-liturgy'),
       onPress: () =>
         router.push(
           onViewedDay({
             pathname: '/pray/[practiceId]',
-            params: { practiceId: 'gospel-of-the-day' },
+            params: { practiceId: 'daily-liturgy' },
           }),
         ),
     })

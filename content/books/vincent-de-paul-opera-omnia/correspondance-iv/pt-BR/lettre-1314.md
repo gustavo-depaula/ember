@@ -1,0 +1,9 @@
+# Carta 1314. A Cristóvão d’Authier
+
+15 de janeiro de 1651.
+
+A graça de N. S. esteja convosco para sempre!
+
+Renovo-vos aqui as ofertas de minha obediência; suplico-vos que vos digneis aceitá-las, tanto mais que o faço com toda a humildade e afeição de que sou capaz; a isso tomo a liberdade de acrescentar, Senhor, que em nada contribuí para a dificuldade que o Sr. Deslyons encontrou em seu assunto; nem sequer sabia que ele tivesse qualquer intenção a respeito do bispado da Babilônia, até que Monsenhor o núncio me disse casualmente, há alguns dias, que havia recebido uma carta da Sagrada Congregação sobre esse assunto e que lhe havia respondido. Eu ainda ignoraria também que vós, Senhor, obtivestes anteriormente o decreto para esse bispado, se o Sr. Alméras não me tivesse comunicado, tendo-o sabido de vós. Digo-vos mais: nunca fiz nem disse coisa alguma contra vossa santa congregação; pelo contrário, Deus sempre me deu respeito por ela e um grande desejo de servi-la. E, como testemunho disso, desde que soube de sua ereção, nunca celebrei a santa missa sem a ter recomendado a Deus, expressamente, duas vezes, uma na preparação e outra no *Memento*, para que sua divina bondade a faça prosperar santamente e a acompanhe com suas bênçãos em seu propósito e em seus trabalhos, nomeando-a até antes da nossa, porque de fato a estimo mais. Falo como cristão, Senhor, e na presença de Deus, que sabe que digo a verdade. E, para que não duvideis disso, dai-me, por favor, ocasiões de vos demonstrá-lo de outro modo que por palavras; empregai-me no serviço de vossa congregação; espero que Nosso Senhor me conceda a graça de me dedicar a isso com todo o vigor que a obra de Deus exige; é assim que chamo o que contribui para o bem de uma companhia dedicada à sua maior glória, como é a vossa; e então o pai e os filhos talvez me façam a honra de acreditar que sou de todos em geral e de vós em particular, no amor de Nosso Senhor, Senhor, vosso…
+
+VICENTE DE PAULO.

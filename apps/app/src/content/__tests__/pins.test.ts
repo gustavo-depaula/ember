@@ -27,7 +27,7 @@ describe('getPinnableSelects', () => {
 
   it('offers nothing where a choice is how you pray, not what', () => {
     expect(getPinnableSelects(practiceFlow('mass'))).toEqual([])
-    expect(getPinnableSelects(practiceFlow('gospel-of-the-day'))).toEqual([])
+    expect(getPinnableSelects(practiceFlow('daily-liturgy'))).toEqual([])
   })
 })
 

@@ -56,7 +56,7 @@ export function ThemedReadings() {
   // Drop Gospel of the Day — it already has its own hero card above this grid.
   // `endsWith` covers bare ids and any future namespace prefix (`practice/…`).
   const scripturePractices = getAllManifests().filter(
-    (m) => m.categories?.includes('scripture') && !m.id.endsWith('gospel-of-the-day'),
+    (m) => m.categories?.includes('scripture') && !m.id.endsWith('daily-liturgy'),
   )
 
   if (scripturePractices.length === 0) return null

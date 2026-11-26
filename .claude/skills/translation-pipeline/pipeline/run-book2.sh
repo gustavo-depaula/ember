@@ -209,7 +209,9 @@ while true; do
     mode=full
   else
     p=$run/review-$n.result
-    [[ $(<$run/review-$n.mode) != full && $(field $p meaning) -gt 0 ]] && mode=full
+    # A meaning-level defect found by a delta read is fixed and the next delta
+    # read checks the fix with its neighbours; re-reading the whole book for it
+    # cost 44 Claude full reads (11M tokens) for 34 defects in the Nov 23 week.
     # A meaning-level fix that could not be applied is a defect still in the text.
     (( $(jq '[.failed[] | select(.fix.class == "meaning")] | length' $run/changes-$n.json) > 0 )) && mode=full
     (( r == 3 && $(field $p meaning) >= 3 )) && mode=full
@@ -220,6 +222,18 @@ while true; do
   # Claude's full read comes first; later full reads go to Codex, which
   # costs a fraction of Claude's uncached read of the whole book.
   claudeFull=$(for (( i = 1; i <= n; i++ )); do [[ $(<$run/review-$i.mode) == full && $(<$run/review-$i.engine) == claude ]] && print x; done | wc -l)
+  # Codex's full read waits for Codex rather than falling back to a second
+  # Claude full read: in the Nov 23 week, while Codex sat at 99%, Claude re-read
+  # 221 books after its own first read and found 136 meaning-level defects,
+  # where Codex's 150 reads after Claude's found 381 (53M Claude tokens spent).
+  if (( r >= 2 && codexFull == 0 && claudeFull > 0 )) && [[ -z ${NO_CODEX:-} ]]; then
+    while ! codexOk; do
+      checkDeadline
+      log "$name: waiting for Codex's full read (codex week $(codexUsed)%)"
+      sleep 600
+    done
+    mode=full
+  fi
   if (( r == 1 )); then
     eng=claude
     # Claude over its limit: Codex reads first, so a book does not idle on Claude's

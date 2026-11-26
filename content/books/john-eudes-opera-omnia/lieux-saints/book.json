@@ -18,13 +18,19 @@
   },
   "composed": 1648,
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "john-eudes/lieux-saints",
   "editions": {
     "fr-FR": {
       "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
       "year": 1905
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,19 +47,22 @@
     {
       "id": "lieux-01",
       "title": {
-        "fr-FR": "Traité (1): De l'honneur du aux lieux saints"
+        "fr-FR": "Traité (1): De l'honneur du aux lieux saints",
+        "pt-BR": "Tratado (1): Da honra devida aos lugares santos"
       }
     },
     {
       "id": "lieux-02",
       "title": {
-        "fr-FR": "Traité (2)"
+        "fr-FR": "Traité (2)",
+        "pt-BR": "Tratado (2)"
       }
     },
     {
       "id": "lieux-03",
       "title": {
-        "fr-FR": "Traité (3): Contre plusieurs autres profanations des lieux saints"
+        "fr-FR": "Traité (3): Contre plusieurs autres profanations des lieux saints",
+        "pt-BR": "Tratado (3): Contra várias outras profanações dos lugares santos"
       }
     }
   ]

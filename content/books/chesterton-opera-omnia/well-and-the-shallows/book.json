@@ -11,17 +11,23 @@
   },
   "description": {
     "en-US": "A late collection of Chesterton's essays, written as a Catholic of some years' standing. It opens with 'An Apology for Buffoons' and the seven-part 'My Six Conversions', then turns to the return to religion, hermits and asceticism, the Church and the modern mind, distributism and the family, St. Thomas More, and the quarrel with Protestant and sceptical opinion.",
-    "pt-BR": "Coletânea tardia de ensaios de Chesterton, escritos como católico de alguns anos. Abre com 'Uma apologia dos bufões' e a série 'Minhas seis conversões', e segue com o retorno à religião, os eremitas e o ascetismo, a Igreja e a mente moderna, o distributismo e a família, São Tomás More e a controvérsia com a opinião protestante e cética."
+    "pt-BR": "Coletânea tardia de ensaios de Chesterton, escritos como católico de alguns anos. Abre com 'Uma apologia dos bufões' e a série em sete partes 'Minhas seis conversões', e segue com o retorno à religião, os eremitas e o ascetismo, a Igreja e a mente moderna, o distributismo e a família, São Tomás More e a controvérsia com a opinião protestante e cética."
   },
   "composed": "1935",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/well-and-the-shallows",
   "editions": {
     "en-US": {
       "publisher": "Sheed & Ward, London",
       "year": 1935
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,61 +44,71 @@
     {
       "id": "introductory-note",
       "title": {
-        "en-US": "Introductory Note"
+        "en-US": "Introductory Note",
+        "pt-BR": "Nota Introdutória"
       }
     },
     {
       "id": "an-apology-for-buffoons",
       "title": {
-        "en-US": "An Apology for Buffoons"
+        "en-US": "An Apology for Buffoons",
+        "pt-BR": "Uma Apologia dos Bufões"
       }
     },
     {
       "id": "my-six-conversions",
       "title": {
-        "en-US": "My Six Conversions"
+        "en-US": "My Six Conversions",
+        "pt-BR": "Minhas Seis Conversões"
       },
       "children": [
         {
           "id": "conversion-1-the-religion-of-fossils",
           "title": {
-            "en-US": "I. The Religion of Fossils"
+            "en-US": "I. The Religion of Fossils",
+            "pt-BR": "I. A Religião dos Fósseis"
           }
         },
         {
           "id": "conversion-2-when-the-world-turned-back",
           "title": {
-            "en-US": "II. When the World Turned Back"
+            "en-US": "II. When the World Turned Back",
+            "pt-BR": "II. Quando o Mundo Voltou Atrás"
           }
         },
         {
           "id": "conversion-3-the-surrender-upon-sex",
           "title": {
-            "en-US": "III. The Surrender upon Sex"
+            "en-US": "III. The Surrender upon Sex",
+            "pt-BR": "III. A Rendição em Matéria de Sexo"
           }
         },
         {
           "id": "conversion-4-the-prayer-book-problem",
           "title": {
-            "en-US": "IV. The Prayer-Book Problem"
+            "en-US": "IV. The Prayer-Book Problem",
+            "pt-BR": "IV. O Problema do Livro de Oração"
           }
         },
         {
           "id": "conversion-5-the-collapse-of-materialism",
           "title": {
-            "en-US": "V. The Collapse of Materialism"
+            "en-US": "V. The Collapse of Materialism",
+            "pt-BR": "V. O Colapso do Materialismo"
           }
         },
         {
           "id": "conversion-6-the-case-of-spain",
           "title": {
-            "en-US": "VI. The Case of Spain"
+            "en-US": "VI. The Case of Spain",
+            "pt-BR": "VI. O Caso da Espanha"
           }
         },
         {
           "id": "conversion-7-the-well-and-the-shallows",
           "title": {
-            "en-US": "VII. The Well and the Shallows"
+            "en-US": "VII. The Well and the Shallows",
+            "pt-BR": "VII. O Poço e os Baixios"
           }
         }
       ]
@@ -100,193 +116,225 @@
     {
       "id": "03-the-return-to-religion",
       "title": {
-        "en-US": "The Return to Religion"
+        "en-US": "The Return to Religion",
+        "pt-BR": "O Retorno à Religião"
       }
     },
     {
       "id": "04-the-reaction-of-the-intellectuals",
       "title": {
-        "en-US": "The Reaction of the Intellectuals"
+        "en-US": "The Reaction of the Intellectuals",
+        "pt-BR": "A Reação dos Intelectuais"
       }
     },
     {
       "id": "05-levity-or-levitation",
       "title": {
-        "en-US": "Levity—or Levitation"
+        "en-US": "Levity—or Levitation",
+        "pt-BR": "Leveza — ou Levitação"
       }
     },
     {
       "id": "06-the-case-for-hermits",
       "title": {
-        "en-US": "The Case for Hermits"
+        "en-US": "The Case for Hermits",
+        "pt-BR": "Em Defesa dos Eremitas"
       }
     },
     {
       "id": "07-killing-the-nerve",
       "title": {
-        "en-US": "Killing the Nerve"
+        "en-US": "Killing the Nerve",
+        "pt-BR": "Matando o Nervo"
       }
     },
     {
       "id": "08-the-case-of-claudel",
       "title": {
-        "en-US": "The Case of Claudel"
+        "en-US": "The Case of Claudel",
+        "pt-BR": "O Caso de Claudel"
       }
     },
     {
       "id": "09-the-higher-nihilism",
       "title": {
-        "en-US": "The Higher Nihilism"
+        "en-US": "The Higher Nihilism",
+        "pt-BR": "O Niilismo Superior"
       }
     },
     {
       "id": "10-the-ascetic-at-large",
       "title": {
-        "en-US": "The Ascetic at Large"
+        "en-US": "The Ascetic at Large",
+        "pt-BR": "O Asceta à Solta"
       }
     },
     {
       "id": "11-the-backward-bolshie",
       "title": {
-        "en-US": "The Backward Bolshie"
+        "en-US": "The Backward Bolshie",
+        "pt-BR": "O Bolchevique Atrasado"
       }
     },
     {
       "id": "12-the-last-turn",
       "title": {
-        "en-US": "The Last Turn"
+        "en-US": "The Last Turn",
+        "pt-BR": "A Última Virada"
       }
     },
     {
       "id": "13-the-new-luther",
       "title": {
-        "en-US": "The New Luther"
+        "en-US": "The New Luther",
+        "pt-BR": "O Novo Lutero"
       }
     },
     {
       "id": "14-babies-and-distributism",
       "title": {
-        "en-US": "Babies and Distributism"
+        "en-US": "Babies and Distributism",
+        "pt-BR": "Bebês e Distributismo"
       }
     },
     {
       "id": "15-three-foes-of-the-family",
       "title": {
-        "en-US": "Three Foes of the Family"
+        "en-US": "Three Foes of the Family",
+        "pt-BR": "Três Inimigos da Família"
       }
     },
     {
       "id": "16-the-don-and-the-cavalier",
       "title": {
-        "en-US": "The Don and the Cavalier"
+        "en-US": "The Don and the Cavalier",
+        "pt-BR": "O Professor e o Cavaleiro"
       }
     },
     {
       "id": "17-the-church-and-agoraphobia",
       "title": {
-        "en-US": "The Church and Agoraphobia"
+        "en-US": "The Church and Agoraphobia",
+        "pt-BR": "A Igreja e a Agorafobia"
       }
     },
     {
       "id": "18-back-in-the-fog",
       "title": {
-        "en-US": "Back in the Fog"
+        "en-US": "Back in the Fog",
+        "pt-BR": "De Volta à Névoa"
       }
     },
     {
       "id": "19-the-historic-moment-1",
       "title": {
-        "en-US": "The Historic Moment (1)"
+        "en-US": "The Historic Moment (1)",
+        "pt-BR": "O Momento Histórico (1)"
       }
     },
     {
       "id": "20-mary-and-the-convert",
       "title": {
-        "en-US": "Mary and the Convert"
+        "en-US": "Mary and the Convert",
+        "pt-BR": "Maria e o Convertido"
       }
     },
     {
       "id": "21-a-century-of-emancipation",
       "title": {
-        "en-US": "A Century of Emancipation"
+        "en-US": "A Century of Emancipation",
+        "pt-BR": "Um Século de Emancipação"
       }
     },
     {
       "id": "22-trade-terms",
       "title": {
-        "en-US": "Trade Terms"
+        "en-US": "Trade Terms",
+        "pt-BR": "Termos Comerciais"
       }
     },
     {
       "id": "23-frozen-free-thought",
       "title": {
-        "en-US": "Frozen Free Thought"
+        "en-US": "Frozen Free Thought",
+        "pt-BR": "Livre-Pensamento Congelado"
       }
     },
     {
       "id": "24-shocking-the-modernists",
       "title": {
-        "en-US": "Shocking the Modernists"
+        "en-US": "Shocking the Modernists",
+        "pt-BR": "Chocando os Modernistas"
       }
     },
     {
       "id": "25-a-grammar-of-knighthood",
       "title": {
-        "en-US": "A Grammar of Knighthood"
+        "en-US": "A Grammar of Knighthood",
+        "pt-BR": "Uma Gramática da Cavalaria"
       }
     },
     {
       "id": "26-reflections-on-a-rotten-apple",
       "title": {
-        "en-US": "Reflections on a Rotten Apple"
+        "en-US": "Reflections on a Rotten Apple",
+        "pt-BR": "Reflexões sobre uma Maçã Podre"
       }
     },
     {
       "id": "27-sex-and-property",
       "title": {
-        "en-US": "Sex and Property"
+        "en-US": "Sex and Property",
+        "pt-BR": "Sexo e Propriedade"
       }
     },
     {
       "id": "28-st-thomas-more",
       "title": {
-        "en-US": "St. Thomas More"
+        "en-US": "St. Thomas More",
+        "pt-BR": "São Tomás More"
       }
     },
     {
       "id": "29-the-return-of-caesar",
       "title": {
-        "en-US": "The Return of Caesar"
+        "en-US": "The Return of Caesar",
+        "pt-BR": "O Retorno de César"
       }
     },
     {
       "id": "30-austria",
       "title": {
-        "en-US": "Austria"
+        "en-US": "Austria",
+        "pt-BR": "Áustria"
       }
     },
     {
       "id": "31-the-scripture-reader",
       "title": {
-        "en-US": "The Scripture Reader"
+        "en-US": "The Scripture Reader",
+        "pt-BR": "O Leitor da Escritura"
       }
     },
     {
       "id": "32-an-explanation",
       "title": {
-        "en-US": "An Explanation"
+        "en-US": "An Explanation",
+        "pt-BR": "Uma Explicação"
       }
     },
     {
       "id": "33-why-protestants-prohibit",
       "title": {
-        "en-US": "Why Protestants Prohibit"
+        "en-US": "Why Protestants Prohibit",
+        "pt-BR": "Por que os Protestantes Proíbem"
       }
     },
     {
       "id": "34-where-is-the-paradox",
       "title": {
-        "en-US": "Where Is the Paradox?"
+        "en-US": "Where Is the Paradox?",
+        "pt-BR": "Onde Está o Paradoxo?"
       }
     }
   ]

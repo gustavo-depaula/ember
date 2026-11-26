@@ -143,10 +143,13 @@ function PracticeReady({
   const canComplete = manifest.completion !== 'manual' && !isFutureDate && !readOnly
   // Following the Mass in the pew: when you're at a church, the Amém can say where too.
   const isMass = manifest.liturgicalAct === 'mass'
-  const { data: churchHere } = useChurchHere(canComplete && isMass)
+  // The daily liturgy read at Mass: its end can mark the Mass instead.
+  const followsMass = !isMass && !!manifest.followsMass
+  const asksWhere = canComplete && (isMass || followsMass)
+  const { data: churchHere } = useChurchHere(asksWhere)
   // The lookup is cached across screens, so a disabled query still hands back the last answer:
-  // only a Mass may use it.
-  const church = canComplete && isMass ? churchHere : undefined
+  // only a Mass, or what follows one, may use it.
+  const church = asksWhere ? churchHere : undefined
 
   // Mount the primitive tree in chunks: long practices (Mass, offices) render
   // hundreds of blocks, and mounting them all at once blocks the JS thread
@@ -224,49 +227,39 @@ function PracticeReady({
 
                   {canComplete && (
                     <YStack paddingHorizontal={readingMargin} paddingTop="$lg" gap="$sm">
-                      <AnimatedPressable
-                        onPress={() => completion.handleComplete()}
-                        disabled={completion.isCompleting}
-                        accessibilityRole="button"
+                      <EndButton
+                        primary
+                        label={completion.isCompleting ? t('office.completing') : t('office.amen')}
                         accessibilityLabel={t('office.amen')}
-                      >
-                        <YStack
-                          backgroundColor="$accent"
-                          borderRadius="$md"
-                          borderWidth={1}
-                          borderColor="$accentSubtle"
-                          paddingVertical="$md"
-                          alignItems="center"
-                          opacity={completion.isCompleting ? 0.6 : 1}
-                        >
-                          <Typography variant="section-title" color="$background">
-                            {completion.isCompleting ? t('office.completing') : t('office.amen')}
-                          </Typography>
-                        </YStack>
-                      </AnimatedPressable>
+                        busy={completion.isCompleting}
+                        onPress={() => completion.handleComplete()}
+                      />
+                      {followsMass && (
+                        <EndButton
+                          label={t('practice.wentToMass')}
+                          busy={completion.isCompleting}
+                          onPress={() => completion.handleComplete({ asMass: true })}
+                        />
+                      )}
                       {church ? (
-                        <AnimatedPressable
-                          onPress={() => completion.handleComplete(church)}
-                          disabled={completion.isCompleting}
-                          accessibilityRole="button"
-                          accessibilityLabel={t('massTimes.amenAndCheckIn', { name: church.name })}
-                        >
-                          <YStack
-                            backgroundColor="$backgroundSurface"
-                            borderRadius="$md"
-                            paddingVertical="$sm"
-                            paddingHorizontal="$md"
-                            alignItems="center"
-                            opacity={completion.isCompleting ? 0.6 : 1}
-                          >
-                            <Typography variant="interface" fontSize="$3">
-                              {t('massTimes.amenAndCheckInLabel')}
-                            </Typography>
-                            <Typography variant="annotation" numberOfLines={1}>
-                              {church.name}
-                            </Typography>
-                          </YStack>
-                        </AnimatedPressable>
+                        <EndButton
+                          label={t(
+                            followsMass
+                              ? 'practice.wentToMassCheckIn'
+                              : 'massTimes.amenAndCheckInLabel',
+                          )}
+                          place={church.name}
+                          accessibilityLabel={t(
+                            followsMass
+                              ? 'massTimes.wentToMassCheckIn'
+                              : 'massTimes.amenAndCheckIn',
+                            { name: church.name },
+                          )}
+                          busy={completion.isCompleting}
+                          onPress={() =>
+                            completion.handleComplete({ checkInAt: church, asMass: followsMass })
+                          }
+                        />
                       ) : null}
                     </YStack>
                   )}
@@ -436,5 +429,55 @@ function PracticeContentError({ onRetry }: { onRetry: () => void }) {
         </Pressable>
       </YStack>
     </ScreenLayout>
+  )
+}
+
+/**
+ * A button at the end of a prayer. Every one is Amen's size and type, so the
+ * choices beside it read as equals and are as easy to reach; Amen alone is
+ * filled. `place` names the church a check-in records.
+ */
+function EndButton({
+  label,
+  accessibilityLabel,
+  place,
+  primary,
+  busy,
+  onPress,
+}: {
+  label: string
+  accessibilityLabel?: string
+  place?: string
+  primary?: boolean
+  busy: boolean
+  onPress: () => void
+}) {
+  return (
+    <AnimatedPressable
+      onPress={onPress}
+      disabled={busy}
+      accessibilityRole="button"
+      accessibilityLabel={accessibilityLabel ?? label}
+    >
+      <YStack
+        backgroundColor={primary ? '$accent' : '$backgroundSurface'}
+        borderRadius="$md"
+        borderWidth={1}
+        borderColor={primary ? '$accentSubtle' : '$borderColor'}
+        paddingVertical="$md"
+        paddingHorizontal="$md"
+        alignItems="center"
+        opacity={busy ? 0.6 : 1}
+      >
+        <Typography variant="section-title" color={primary ? '$background' : '$color'}>
+          {label}
+        </Typography>
+        {place ? (
+          <Typography variant="annotation" numberOfLines={1}>
+            {place}
+          </Typography>
+        ) : null}
+      </YStack>
+    </AnimatedPressable>
   )
 }

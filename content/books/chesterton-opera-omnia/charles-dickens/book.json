@@ -15,13 +15,19 @@
   },
   "composed": "1906",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/charles-dickens",
   "editions": {
     "en-US": {
       "editor": "Methuen & Co.",
       "year": 1906
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,73 +44,85 @@
     {
       "id": "ch01-the-dickens-period",
       "title": {
-        "en-US": "I. The Dickens Period"
+        "en-US": "I. The Dickens Period",
+        "pt-BR": "I. O Período Dickensiano"
       }
     },
     {
       "id": "ch02-the-boyhood-of-dickens",
       "title": {
-        "en-US": "II. The Boyhood of Dickens"
+        "en-US": "II. The Boyhood of Dickens",
+        "pt-BR": "II. A Infância de Dickens"
       }
     },
     {
       "id": "ch03-the-youth-of-dickens",
       "title": {
-        "en-US": "III. The Youth of Dickens"
+        "en-US": "III. The Youth of Dickens",
+        "pt-BR": "III. A Juventude de Dickens"
       }
     },
     {
       "id": "ch04-the-pickwick-papers",
       "title": {
-        "en-US": "IV. “The Pickwick Papers”"
+        "en-US": "IV. “The Pickwick Papers”",
+        "pt-BR": "IV. “Os Papéis de Pickwick”"
       }
     },
     {
       "id": "ch05-the-great-popularity",
       "title": {
-        "en-US": "V. The Great Popularity"
+        "en-US": "V. The Great Popularity",
+        "pt-BR": "V. A Grande Popularidade"
       }
     },
     {
       "id": "ch06-dickens-and-america",
       "title": {
-        "en-US": "VI. Dickens and America"
+        "en-US": "VI. Dickens and America",
+        "pt-BR": "VI. Dickens e a América"
       }
     },
     {
       "id": "ch07-dickens-and-christmas",
       "title": {
-        "en-US": "VII. Dickens and Christmas"
+        "en-US": "VII. Dickens and Christmas",
+        "pt-BR": "VII. Dickens e o Natal"
       }
     },
     {
       "id": "ch08-the-time-of-transition",
       "title": {
-        "en-US": "VIII. The Time of Transition"
+        "en-US": "VIII. The Time of Transition",
+        "pt-BR": "VIII. O Tempo de Transição"
       }
     },
     {
       "id": "ch09-later-life-and-works",
       "title": {
-        "en-US": "IX. Later Life and Works"
+        "en-US": "IX. Later Life and Works",
+        "pt-BR": "IX. Os Últimos Anos e as Obras Tardias"
       }
     },
     {
       "id": "ch10-the-great-dickens-characters",
       "title": {
-        "en-US": "X. The Great Dickens Characters"
+        "en-US": "X. The Great Dickens Characters",
+        "pt-BR": "X. Os Grandes Personagens de Dickens"
       }
     },
     {
       "id": "ch11-on-the-alleged-optimism-of-dickens",
       "title": {
-        "en-US": "XI. On the Alleged Optimism of Dickens"
+        "en-US": "XI. On the Alleged Optimism of Dickens",
+        "pt-BR": "XI. Sobre o Suposto Otimismo de Dickens"
       }
     },
     {
       "id": "ch12-a-note-on-the-future-of-dickens",
       "title": {
-        "en-US": "XII. A Note on the Future of Dickens"
+        "en-US": "XII. A Note on the Future of Dickens",
+        "pt-BR": "XII. Uma Nota sobre o Futuro de Dickens"
       }
     }
   ]

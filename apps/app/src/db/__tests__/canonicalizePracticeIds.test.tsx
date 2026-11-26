@@ -6,7 +6,7 @@
  */
 import { Text } from 'tamagui'
 import { describe, expect, it } from 'vitest'
-import { canonicalizePracticeIds } from '@/db/canonicalizePracticeIds'
+import { canonicalizePracticeIds, foldMergedPractices } from '@/db/canonicalizePracticeIds'
 import { useEventStore } from '@/db/events'
 import { getEventCount } from '@/db/events/store'
 import { createPracticeWithSlot, logCompletion } from '@/db/repositories'
@@ -38,6 +38,39 @@ describe('canonicalizePracticeIds', () => {
 
     const settled = await getEventCount()
     await canonicalizePracticeIds()
+    expect(await getEventCount()).toBe(settled)
+  }, 30_000)
+})
+
+// The built catalog publishes Gospel of the Day again as an alias of the Daily
+// Liturgy it was merged into.
+describe('foldMergedPractices', () => {
+  it('moves a practice kept under a former id to the one it became, once', async () => {
+    await renderApp({
+      route: '/blank',
+      routes: [{ pattern: '/blank', loader: async () => ({ default: () => <Text>blank</Text> }) }],
+    })
+    await addSlotUnderKey({ id: 'practice/gospel-of-the-day' }, '1', { time: '07:15' })
+    await logCompletion(
+      'practice/gospel-of-the-day',
+      '2026-11-20',
+      '1',
+      'gospel-of-the-day',
+      'amen',
+    )
+
+    await foldMergedPractices()
+
+    const { practices, slots, completions } = useEventStore.getState()
+    expect(practices.has('practice/gospel-of-the-day')).toBe(false)
+    const moved = [...slots.values()].find((s) => s.time === '07:15')
+    expect(moved?.practice_id).toBe('practice/daily-liturgy')
+    expect([...completions.values()].map((c) => `${c.practice_id}::${c.sub_id}`)).toEqual([
+      moved?.id,
+    ])
+
+    const settled = await getEventCount()
+    await foldMergedPractices()
     expect(await getEventCount()).toBe(settled)
   }, 30_000)
 })

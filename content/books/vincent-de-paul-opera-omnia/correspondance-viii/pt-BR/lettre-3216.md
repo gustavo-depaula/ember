@@ -1,0 +1,9 @@
+# Carta 3216. A Renato Alméras, padre da Missão, — Em Richelieu
+
+De 22 de agosto de 1660.
+
+Vossa carta e a de nosso irmão Gautier, que me escreveu sobre o estado de vossa indisposição, tiraram-me de uma grande aflição pela esperança que me dão de vosso próximo restabelecimento, fundada em muitas razões; por isso dou graças a Deus. Quando será, pois, Senhor, que teremos a plena consolação de vos saber restabelecido? Oh! Quanto o desejo! Oh! Que grande graça Deus nos fará! Peço-lhe isso muitas vezes, não só por meu interesse particular, que não é pequeno, pois, estando cheio de estima e ternura por vós, sou o primeiro a sofrer com vosso mal e vossa ausência, mas também pelo bem da companhia, que, tendo recebido de vós, pela graça de Deus, grande edificação, ainda precisa de vosso auxílio e de vossos exemplos. Digo-vos isso, Senhor, com sentimento de gratidão para com Deus e para convosco, e não digo mais, porque isso basta para o fim que pretendo, que é mostrar-vos que fareis um sacrifício a Deus cuidando de vos conservar e de vos curar. Suplico-vos isso muito humildemente.
+
+Mas isso depende de mim, dir-me-eis? Sim, assim me parece, Senhor, na medida em que depende do repouso e dos remédios, que estão em vosso poder, e sobretudo do beneplácito de Deus, que não vos recusará as forças de corpo e de espírito necessárias aos desígnios que tem a vosso respeito na companhia, se lhas pedirdes por seu Filho Nosso Senhor, que, tendo suscitado a mesma companhia para seu serviço, também vos chamou a ela tão proveitosamente por sua graça. Não poupeis, pois, nada do que possa contribuir para vossa saúde e para apressar vosso retorno, pelo qual suspiramos. Não empreendais, contudo, a viagem senão com o parecer dos médicos, particularmente durante os calores. Teremos paciência. [^1]
+
+[^1]: Reg. 2, p. 269.

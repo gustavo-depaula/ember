@@ -1,0 +1,5 @@
+# Carta 2334. A um Padre da Missão
+
+Oh! Como sois feliz por servir a Nosso Senhor de instrumento para formar bons padres, e de um instrumento como sois, que os ilumina e ao mesmo tempo os aquece! Nisso exerceis o ofício do Espírito Santo, a quem somente pertence iluminar e inflamar os corações; ou, antes, é esse Espírito santo e santificador que o faz por vós; pois ele habita e opera em vós, não somente para vos fazer viver de sua vida divina, mas também para estabelecer essa mesma vida e suas operações nesses senhores, chamados ao mais alto ministério que há sobre a terra, pelo qual devem exercer as duas grandes virtudes de Jesus Cristo, a saber, a religião para com seu Pai e a caridade para com os homens. Vede, pois, Senhor, se há no mundo alguma ocupação mais necessária e mais desejável que a vossa. De minha parte, não conheço nenhuma, e penso que Deus não esperou tanto para vos fazer vê-lo, pois vos deu o amor para vos aplicardes a ela e a graça para nela terdes êxito. Humilhai-vos sem cessar e confiai plenamente em Nosso Senhor, para que ele vos faça uma só coisa com ele. [^1]
+
+[^1]: Abelly, *op. cit.*, l. III, cap. XI, seção V, p. 149.

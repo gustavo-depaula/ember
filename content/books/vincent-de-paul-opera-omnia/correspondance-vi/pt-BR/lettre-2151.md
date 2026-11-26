@@ -1,0 +1,5 @@
+# Carta 2151. A Estêvão Blatiron, Superior, em Gênova
+
+De 29 de setembro de 1656.
+
+Renovo a recomendação que já vos fiz várias vezes de velar por vossa própria conservação e pela da família, tanto quanto uma caridade prudente vos permitir. Se Monsenhor cardeal ordenar que algum dos vossos se exponha pela salvação dos doentes, muito bem. Por esse meio vos será conhecida a vontade de Deus. Mas, fora disso, contentai-vos em vos oferecer em espírito à sua divina bondade para tudo o que lhe aprouver, sem pedir a outros que vos empreguem nesse serviço perigoso, para o qual julgo que se encontrarão bastantes outros sacerdotes e religiosos. Seja como for, estou cheio de confiança de que Deus vos conservará e de que contribuireis para isso com todas as vossas forças. Se, porém, aprouvesse a Deus afligir-nos com algum resultado contrário e fazer de vossa casa um hospital, como se propõe, bendiremos por isso seu santo nome e procuraremos manter-nos em paz por uma humilde submissão à sua direção, que, sendo inteiramente boa e sábia, fará com que tudo redunde num bem maior.

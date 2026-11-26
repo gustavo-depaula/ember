@@ -14,17 +14,23 @@
   "description": {
     "la": "Gesta collationis Carthaginiensis (411). Textus Latinus secundum editionem Maurinorum.",
     "en-US": "Acts of the Conference of Carthage (411) (411), by St. Augustine of Hippo. Latin text of the Maurist edition; no public-domain English translation has been imported yet.",
-    "pt-BR": "Atas da Conferência de Cartago (411) (411), de Santo Agostinho de Hipona. Texto latino da edição dos Maurinos."
+    "pt-BR": "Atas da Conferência de Cartago (411), de Santo Agostinho de Hipona. Texto latino da edição dos Maurinos."
   },
   "composed": "411",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/gesta-collationis-carthaginiensis",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,55 +47,64 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Capitula et praefatio Marcellini"
+        "la": "Capitula et praefatio Marcellini",
+        "pt-BR": "Sumários e prefácio de Marcelino"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "Cognitio prima, Capita 1–55"
+        "la": "Cognitio prima, Capita 1–55",
+        "pt-BR": "Primeira audiência, capítulos 1–55"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "la": "Cognitio prima, Capita 56–133"
+        "la": "Cognitio prima, Capita 56–133",
+        "pt-BR": "Primeira audiência, capítulos 56–133"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "la": "Cognitio prima, Capita 134–202"
+        "la": "Cognitio prima, Capita 134–202",
+        "pt-BR": "Primeira audiência, capítulos 134–202"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "la": "Cognitio prima, Capita 203–223"
+        "la": "Cognitio prima, Capita 203–223",
+        "pt-BR": "Primeira audiência, capítulos 203–223"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "la": "Cognitio secunda"
+        "la": "Cognitio secunda",
+        "pt-BR": "Segunda audiência"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "la": "Cognitio tertia, Capita 1–113"
+        "la": "Cognitio tertia, Capita 1–113",
+        "pt-BR": "Terceira audiência, capítulos 1–113"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "la": "Cognitio tertia, Capita 114–226"
+        "la": "Cognitio tertia, Capita 114–226",
+        "pt-BR": "Terceira audiência, capítulos 114–226"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "la": "Cognitio tertia, Capita 227–281"
+        "la": "Cognitio tertia, Capita 227–281",
+        "pt-BR": "Terceira audiência, capítulos 227–281"
       }
     }
   ],

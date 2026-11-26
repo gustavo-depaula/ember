@@ -104,7 +104,7 @@ function pickNext(
 
 const backbone: Array<{ ref: string; time: string }> = [
   { ref: 'morning-offering', time: '07:00' },
-  { ref: 'gospel-of-the-day', time: '07:30' },
+  { ref: 'daily-liturgy', time: '07:30' },
   { ref: 'angelus', time: '12:00' },
   { ref: 'three-oclock-prayer', time: '15:00' },
   { ref: 'angelus', time: '18:00' },

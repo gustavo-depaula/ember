@@ -18,13 +18,19 @@
   },
   "composed": 1659,
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "john-eudes/manuel-communaute-ecclesiastique",
   "editions": {
     "fr-FR": {
       "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
       "year": 1905
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,109 +47,127 @@
     {
       "id": "man-01",
       "title": {
-        "fr-FR": "Introduction (1): Contenant plusieurs exercices de piété"
+        "fr-FR": "Introduction (1): Contenant plusieurs exercices de piété",
+        "pt-BR": "Introdução (1): Contendo vários exercícios de piedade"
       }
     },
     {
       "id": "man-02",
       "title": {
-        "fr-FR": "Introduction (2): Sur la très sainte Trinité que nous devons glorifier en toutes choses"
+        "fr-FR": "Introduction (2): Sur la très sainte Trinité que nous devons glorifier en toutes choses",
+        "pt-BR": "Introdução (2): Sobre a Santíssima Trindade, que devemos glorificar em todas as coisas"
       }
     },
     {
       "id": "man-03",
       "title": {
-        "fr-FR": "Partie première (1)"
+        "fr-FR": "Partie première (1)",
+        "pt-BR": "Primeira parte (1)"
       }
     },
     {
       "id": "man-04",
       "title": {
-        "fr-FR": "Partie première (2): Oremus 67"
+        "fr-FR": "Partie première (2): Oremus 67",
+        "pt-BR": "Primeira parte (2): Oremus 67"
       }
     },
     {
       "id": "man-05",
       "title": {
-        "fr-FR": "Partie première (3): Sancta sancte: et divina digne deo"
+        "fr-FR": "Partie première (3): Sancta sancte: et divina digne deo",
+        "pt-BR": "Primeira parte (3): Sancta sancte: et divina digne deo"
       }
     },
     {
       "id": "man-06",
       "title": {
-        "fr-FR": "Partie seconde (1)"
+        "fr-FR": "Partie seconde (1)",
+        "pt-BR": "Segunda parte (1)"
       }
     },
     {
       "id": "man-07",
       "title": {
-        "fr-FR": "Partie seconde (2): Trois dispositions pour bien faire cette action"
+        "fr-FR": "Partie seconde (2): Trois dispositions pour bien faire cette action",
+        "pt-BR": "Segunda parte (2): Três disposições para realizar bem esta ação"
       }
     },
     {
       "id": "man-08",
       "title": {
-        "fr-FR": "Partie troisième"
+        "fr-FR": "Partie troisième",
+        "pt-BR": "Terceira parte"
       }
     },
     {
       "id": "man-09",
       "title": {
-        "fr-FR": "Partie quatrième (1)"
+        "fr-FR": "Partie quatrième (1)",
+        "pt-BR": "Quarta parte (1)"
       }
     },
     {
       "id": "man-10",
       "title": {
-        "fr-FR": "Partie quatrième (2): Pour la veille de la fête"
+        "fr-FR": "Partie quatrième (2): Pour la veille de la fête",
+        "pt-BR": "Quarta parte (2): Para a véspera da festa"
       }
     },
     {
       "id": "man-11",
       "title": {
-        "fr-FR": "Partie quatrième (3): Pour le samedi de la quinquagésime"
+        "fr-FR": "Partie quatrième (3): Pour le samedi de la quinquagésime",
+        "pt-BR": "Quarta parte (3): Para o sábado da Quinquagésima"
       }
     },
     {
       "id": "man-12",
       "title": {
-        "fr-FR": "Partie quatrième (4): Jour de l'invention de la sainte croix"
+        "fr-FR": "Partie quatrième (4): Jour de l'invention de la sainte croix",
+        "pt-BR": "Quarta parte (4): Dia da Invenção da Santa Cruz"
       }
     },
     {
       "id": "man-13",
       "title": {
-        "fr-FR": "Partie quatrième (5): Jour de la fête de sainte anne"
+        "fr-FR": "Partie quatrième (5): Jour de la fête de sainte anne",
+        "pt-BR": "Quarta parte (5): Dia da festa de Santa Ana"
       }
     },
     {
       "id": "man-14",
       "title": {
-        "fr-FR": "Partie quatrième (6): Jour de la fête du très adorable cœur de jésus"
+        "fr-FR": "Partie quatrième (6): Jour de la fête du très adorable cœur de jésus",
+        "pt-BR": "Quarta parte (6): Dia da festa do adorabilíssimo Coração de Jesus"
       }
     },
     {
       "id": "man-15",
       "title": {
-        "fr-FR": "Partie quatrième (7)"
+        "fr-FR": "Partie quatrième (7)",
+        "pt-BR": "Quarta parte (7)"
       }
     },
     {
       "id": "man-16",
       "title": {
-        "fr-FR": "Partie quatrième (8): Adoration de l'enfant jésus"
+        "fr-FR": "Partie quatrième (8): Adoration de l'enfant jésus",
+        "pt-BR": "Quarta parte (8): Adoração do Menino Jesus"
       }
     },
     {
       "id": "man-17",
       "title": {
-        "fr-FR": "Partie cinquième (1)"
+        "fr-FR": "Partie cinquième (1)",
+        "pt-BR": "Quinta parte (1)"
       }
     },
     {
       "id": "man-18",
       "title": {
-        "fr-FR": "Partie cinquième (2): Psaume 19"
+        "fr-FR": "Partie cinquième (2): Psaume 19",
+        "pt-BR": "Quinta parte (2): Salmo 19"
       }
     }
   ]

@@ -1,6 +1,6 @@
 # Diário de tradução — Cristo, ideal do monge (pt-BR)
 
-Fonte: en-US/, Christ the Ideal of the Monk, spiritual conferences on the monastic and religious life, Londres: Sands / St. Louis: Herder, 1926; tradução de uma monja do Convento de Tyburn, a partir da 8ª edição francesa; digitalização do Internet Archive, texto OCR.
+Fonte: en-US/, *Christ the Ideal of the Monk, spiritual conferences on the monastic and religious life*, tradução de uma monja do Convento de Tyburn a partir da 8ª edição francesa, Londres: Sands / St. Louis: Herder, 1926; digitalização do Internet Archive, texto OCR.
 Destino: pt-BR.
 
 ## Termos
@@ -8,505 +8,476 @@ Destino: pt-BR.
 | Inglês | Português | Notas |
 |---|---|---|
 | Bl. Columba Marmion | Bem-aventurado Columba Marmion | Conforme os metadados e as obras afins. |
-| Christ, the Ideal of the Monk | Cristo, ideal do monge | Título estabelecido nas cartas inglesas. |
+| Christ, the Ideal of the Monk | Cristo, ideal do monge | Título estabelecido no corpus. |
 | Christ, the Life of the Soul / Christ in His Mysteries | Cristo, vida da alma / Cristo em seus mistérios | Conforme as obras afins. |
-| St. Benedict / St. Paul / St. John / St. Peter | São Bento / São Paulo / São João / São Pedro | |
-| St. Gregory / St. Ambrose / St. Augustine | São Gregório / Santo Ambrósio / Santo Agostinho | |
-| St. Thomas Aquinas / St. Bernard | Santo Tomás de Aquino / São Bernardo | “St. Thomas” nas notas: Santo Tomás. |
-| St. Catherine of Sienna / St. Teresa / St. Gertrude | Santa Catarina de Sena / Santa Teresa / Santa Gertrudes | Conforme as obras afins. |
-| St. Francis of Assisi / the Saint of Assisi | São Francisco de Assis / o Santo de Assis | |
-| Blessed Raymund of Capua / Blessed Bonomo | bem-aventurado Raimundo de Cápua / bem-aventurada Bonomo | Conservadas as designações da fonte. |
-| Pseudo-Denys the Areopagite / Blosius | Pseudo-Dionísio Areopagita / Blósio | |
-| great Patriarch / Holy Rule | grande Patriarca / Santa Regra | Referências a São Bento e à sua Regra. |
-| abbot / monk / Benedictine nun / lay brother | abade / monge / monja beneditina / irmão leigo | Conforme as cartas inglesas. |
-| postulant / monastic profession / religious state | postulante / profissão monástica / estado religioso | |
-| monastic life / cenobitical life / regular life | vida monástica / vida cenobítica / vida regular | “Regular” designa a vida ordenada pela regra religiosa. |
-| to seek God / seeking after God | buscar a Deus / busca de Deus | Expressão central do livro. |
+| St. Benedict / St. Gregory / St. Bernard | São Bento / São Gregório / São Bernardo | Conforme as obras afins. |
+| St. Paul / St. Peter / St. John / St. Ambrose | São Paulo / São Pedro / São João / Santo Ambrósio | Formas portuguesas tradicionais. |
+| St. Augustine / St. Thomas / St. Teresa | Santo Agostinho / Santo Tomás / Santa Teresa | Conforme as obras afins. |
+| St. Catherine of Sienna / Blessed Raymund of Capua | Santa Catarina de Sena / Bem-aventurado Raimundo de Cápua | Conservada a designação histórica da fonte. |
+| St. Gertrude / St. Agnes / Blessed Bonomo | Santa Gertrudes / Santa Inês / Bem-aventurada Bonomo | Conforme as obras afins e a forma abreviada da fonte. |
+| Pseudo-Denys the Areopagite / Blosius | Pseudo-Dionísio Areopagita / Blósio | Formas portuguesas dos nomes. |
+| Holy Rule / Rule / Prologue | Santa Regra / Regra / Prólogo | Regra de São Bento. |
+| Abbot / postulant / Lay Brother | abade / postulante / irmão leigo | Conforme o vocabulário monástico das obras afins. |
+| monastic life / cenobitical life / religious life | vida monástica / vida cenobítica / vida religiosa | Mantidas as distinções da fonte. |
+| religious state / monastic profession | estado religioso / profissão monástica | Conforme as obras afins. |
+| to seek God / seeking after God | buscar a Deus / busca de Deus | Expressão central do capítulo e da obra. |
 | end / last end / Supreme End | fim / fim último / Fim supremo | “Fim” conserva o sentido de finalidade. |
-| beatitude / heavenly bliss | bem-aventurança / felicidade celeste | |
-| union with God / divine adoption | união com Deus / adoção divina | Conforme as obras afins. |
-| soul / grace / sanctifying grace | alma / graça / graça santificante | Conforme as obras afins. |
-| infused virtues / theological virtues / moral virtues | virtudes infusas / virtudes teologais / virtudes morais | |
-| virtue of religion / charity | virtude da religião / caridade | Vocabulário teológico. |
-| Beatific Vision / Word / Divine Persons | visão beatífica / Verbo / Pessoas divinas | |
-| Divine good pleasure / self-love / affections | beneplácito divino / amor-próprio / afetos | Conforme a Via-Sacra; “affections” pode designar apegos conforme o contexto. |
-| compunction / abnegation / abandonment | compunção / abnegação / abandono | Conforme a Via-Sacra. |
-| self-renunciation / detachment | renúncia a si mesmo / desapego | |
-| Divine Office / Holy Scripture | Ofício Divino / Sagrada Escritura | Conforme as obras afins. |
-| Blessed Virgin / Holy Spirit / Holy of Holies | Santíssima Virgem / Espírito Santo / Santo dos Santos | Conforme as obras afins. |
-| Viaticum / pyx | Viático / píxide | A píxide transporta a Eucaristia. |
-| Opus Dei / Bonum obedientiae | *Opus Dei* / *Bonum obedientiae* | Fórmulas latinas conservadas. |
-| Genesis / Matthew / John / Luke / Mark | Gênesis / Mateus / João / Lucas / Marcos | Nomes bíblicos usados neste capítulo. |
-| Psalms / Wisdom / Ecclesiastes / Lamentations | Salmos / Sabedoria / Eclesiastes / Lamentações | Numeração dos salmos conservada conforme a fonte. |
-| Philippians / Ephesians / Hebrews / Corinthians | Filipenses / Efésios / Hebreus / Coríntios | |
-| Peter / Thessalonians | Pedro / Tessalonicenses | Nomes dos livros nas referências. |
-| the Following of Christ | o seguimento de Cristo | Título e expressão recorrente. |
-| High Priest / Pontiff / Mediator | sumo Sacerdote / Pontífice / Mediador | Conservada a distinção dos termos da fonte. |
-| Fountainhead of grace / mystical organism | Fonte da graça / organismo místico | |
-| divine adoption / supernatural adoption | adoção divina / adoção sobrenatural | |
-| hypostatic union / evangelical counsels | união hipostática / conselhos evangélicos | |
-| Elder Brother / Surety / Propitiation | Irmão mais velho / Fiador / Propiciação | Referências a Cristo. |
-| St. Mechtilde / Tertullian / Magdalen | Santa Matilde / Tertuliano / Madalena | |
-| Mother Deleloe / Abbot of Liessies | Madre Deleloe / abade de Liessies | |
-| Galatians / Titus / Acts / Colossians | Gálatas / Tito / Atos / Colossenses | Nomes dos livros nas referências. |
-| Romans / Apocalypse / Timothy | Romanos / Apocalipse / Timóteo | |
-| Christocentric / the Religious | cristocêntrico / o Religioso | A segunda expressão designa Cristo como modelo perfeito da vida religiosa. |
-| St. Anselm / Cassian | Santo Anselmo / Cassiano | |
-| St. Odilo / St. Hildegarde / St. Elisabeth of Schonau | Santo Odilon / Santa Hildegarda / Santa Isabel de Schönau | |
-| St. Frances of Rome / St. Margaret Mary | Santa Francisca Romana / Santa Margarida Maria | |
-| Sacred Humanity / Sacred Heart | Sagrada Humanidade / Sagrado Coração | |
-| The Mirror of the Soul / Sanctuary of the Faithful Soul | O espelho da alma / Santuário da alma fiel | Títulos de obras de Blósio citadas nas notas. |
-| A Book of Spiritual Instruction / The Book of Special Grace | Livro de instrução espiritual / O livro da graça especial | |
-| III Reg. | 3 Reis | Conservada a numeração da fonte. |
-| discretion | discrição | Virtude de discernir e ordenar os meios segundo o fim, com equilíbrio e atenção às pessoas; não significa aqui reserva no falar. |
-| kindness / loving kindness | bondade / bondade amorosa | Conforme o contexto pastoral. |
-| Pastor / Prince of Pastors / Good Shepherd | Pastor / Príncipe dos Pastores / Bom Pastor | “Pastor” também traduz “shepherd”, conforme o contexto. |
-| vitae meritum / gratia capitis | mérito de vida / *gratia capitis* | Conservado o latim onde citado no texto. |
-| Odo / Majolus / Hugh / Peter the Venerable | Odo / Maiolo / Hugo / Pedro, o Venerável | Abades de Cluny; Odilo permanece Odilon, conforme o termo já estabelecido. |
-| Ezechiel / Jeremias / Noe / Cham | Ezequiel / Jeremias / Noé / Cam | Nomes bíblicos. |
-| cellarer / Compline / abbatial blessing | celeireiro / Completas / bênção abacial | Vocabulário monástico e litúrgico. |
-| docility of mind / obedience of action | docilidade de espírito / obediência nas ações | Fórmulas recorrentes deste capítulo. |
-| conventual Mass / holy Oblation | Missa conventual / santa Oblação | Vocabulário litúrgico. |
-| supererogatory acts / vainglory | atos supererrogatórios / vanglória | |
-| Exodus / Proverbs / James | Êxodo / Provérbios / Tiago | Nomes dos livros nas referências. |
-| cenobitical society / common life / stability | sociedade cenobítica / vida comum / estabilidade | |
-| prior / dean / seniors | prior / decano / anciãos | Cargos e designação dos membros mais antigos da comunidade. |
-| patria potestas / good of obedience | *patria potestas* / bem da obediência | A fórmula latina designa a autoridade paterna. |
-| lectio divina / mental prayer | *lectio divina* / oração mental | |
-| Clothing / charter of monastic profession | tomada de hábito / documento da profissão monástica | |
-| hair shirt / discipline | cilício / disciplina | Instrumentos de penitência. |
-| singularity / self-effacement | singularidade / apagamento | “Singularidade” designa aqui a busca de distinguir-se dos demais. |
-| Venerable Bede / Stefano / Abraham / Moses | Venerável Beda / Estêvão / Abraão / Moisés | |
-| Antony / Macarius / Pachomius | Antão / Macário / Pacômio | Padres do monaquismo. |
-| purgative way / illuminative way / unitive life | via purgativa / via iluminativa / vida unitiva | Terminologia ascética e mística. |
-| Prime | Prima | Hora canônica. |
-| deifying light | luz deificante | Expressão explicada pela fórmula *deificum lumen*. |
-| spirit of faith / supernatural spirit | espírito de fé / espírito sobrenatural | |
-| habitus / habit | *habitus* / hábito | Disposição estável da virtude, fortalecida pelo exercício de seus atos. |
-| justification / Efficient Cause | justificação / Causa eficiente | Terminologia teológica. |
-| Thabor / Avignon | Tabor / Avignon | |
-| Job / I John | Jó / 1 João | Nomes dos livros nas referências. |
-| Bossuet, Meditations on the Holy Gospel | Bossuet, Meditações sobre o Santo Evangelho | Título traduzido na nota bibliográfica. |
-| holocaust / immolation / oblation | holocausto / imolação / oblação | Conservada a distinção do vocabulário sacrificial. |
-| stability, conversion of manners, and obedience | estabilidade, conversão dos costumes e obediência | Fórmula dos votos monásticos. |
-| canonical noviceship / neophyte | noviciado canônico / neófito | |
-| Council of Trent / Carthusian | Concílio de Trento / cartuxo | |
-| The Herald of Divine Love | O arauto do amor divino | Obra de Santa Gertrudes. |
-| Ordinary of the Mass / Canon of the Mass | Ordinário da Missa / Cânon da Missa | |
-| Paralipomenon | Paralipômenos | Conservada a designação histórica da fonte. |
-| instruments of good works / spiritual workshop / spiritual craft | instrumentos das boas obras / oficina espiritual / arte espiritual | Imagens centrais da conferência VII. |
-| ejaculatory prayer / rectitude of intention | oração jaculatória / retidão de intenção | |
-| Lauds / Benedicite / Decalogue | Laudes / *Benedicite* / Decálogo | |
-| Goths / John the Baptist / Samaritan woman | godos / João Batista / samaritana | |
+| beatitude / bliss | bem-aventurança / felicidade | “Bliss” conforme o contexto. |
+| holiness / sanctity / perfection | santidade / santidade / perfeição | Conforme as obras afins. |
+| union with God / charity | união com Deus / caridade | Conforme as obras afins. |
+| sanctifying grace / infused virtues / theological virtues | graça santificante / virtudes infusas / virtudes teologais | Terminologia teológica corrente. |
+| virtue of religion / moral virtues | virtude de religião / virtudes morais | Distinção desenvolvida no capítulo I. |
+| detachment / attachment / self-love | desapego / apego / amor-próprio | Conforme as obras afins. |
+| abandonment / good pleasure / compunction | abandono / beneplácito / compunção | Conforme as obras afins. |
+| Word / Divine Persons / Heavenly Father | Verbo / Pessoas divinas / Pai celeste | Conforme as obras afins. |
+| Holy Ghost / Holy Spirit / Holy Trinity | Espírito Santo / Espírito Santo / Santíssima Trindade | Conforme as obras afins. |
+| Beatific Vision / Blessed Virgin | visão beatífica / Santíssima Virgem | Formas católicas correntes. |
+| Sister of Charity / Viaticum / pyx | irmã da Caridade / Viático / píxide | No capítulo I, a píxide transporta a Eucaristia aos moribundos. |
+| Genesis / Matthew / John / Peter | Gênesis / Mateus / João / Pedro | Livros bíblicos nas referências. |
+| Psalms / Ecclesiastes / Wisdom / Lamentations | Salmos / Eclesiastes / Sabedoria / Lamentações | “Salmo” nas referências individuais; numeração da fonte conservada. |
+| Philippians / Thessalonians / Ephesians / Corinthians | Filipenses / Tessalonicenses / Efésios / Coríntios | Conforme as obras afins. |
+| Luke / Mark / Hebrews | Lucas / Marcos / Hebreus | Conforme as obras afins. |
+| The Herald of Divine Love | O arauto do amor divino | Título estabelecido nas obras afins. |
+| Meditations on/upon the Gospel | Meditações sobre o Evangelho | Uniformização do título de Bossuet nas duas variantes inglesas. |
+| Si revera Deum quaerit / Si revera quaerit Deum | *Si revera Deum quaerit* / *Si revera quaerit Deum* | Fórmulas latinas conservadas em itálico, na ordem de cada ocorrência; a glosa portuguesa segue a explicação do contexto. |
+| Ut in omnibus glorificetur Deus | para que em todas as coisas Deus seja glorificado | Fórmula latina conservada em itálico. |
+| Deus meus et omnia | Meu Deus e meu Tudo | Fórmula conservada em latim e na tradução fornecida pela fonte. |
+| High Priest / Mediator / Victim | Sumo Sacerdote / Mediador / Vítima | Conforme as obras afins; “Pontiff” permanece “Pontífice”. |
+| hypostatic union / evangelical counsels | união hipostática / conselhos evangélicos | Terminologia teológica e religiosa corrente; “união hipostática” conforme as obras afins. |
+| St. Mechtilde / St. Anselm / Tertullian / Magdalen | Santa Matilde / Santo Anselmo / Tertuliano / Madalena | “Santa Matilde” conforme *Cristo, vida da alma*; demais formas portuguesas tradicionais. |
+| Elder Brother / Forerunner / Surety | Irmão mais velho / Precursor / Fiador | Designações de Cristo no capítulo II. |
+| religious virtues / the Religious | virtudes de religião / o Religioso | A primeira expressão designa as virtudes relativas ao culto e serviço de Deus; a segunda aplica a Cristo a condição religiosa em grau eminente. |
+| mystical organism / Christocentric | organismo místico / cristocêntrico | Conservadas as imagens e a terminologia da fonte. |
+| Cassian | Cassiano | Autor monástico citado na nota 125. |
+| St Odilo / St Hildegarde / St Elisabeth of Schönau | Santo Odilon / Santa Hildegarda / Santa Isabel de Schönau | Formas portuguesas dos nomes. |
+| St Frances of Rome / St Margaret Mary | Santa Francisca Romana / Santa Margarida Maria | Formas portuguesas tradicionais. |
+| The Mirror of the Soul / Sanctuary of the Faithful Soul | O espelho da alma / Santuário da alma fiel | Títulos de obras de Blósio. |
+| A Book of Spiritual Instruction / The Book of Special Grace | Um livro de instrução espiritual / O livro da graça especial | Títulos traduzidos nas referências bibliográficas. |
+| discretion / kindness | discrição / bondade | A discrição beneditina é definida no capítulo como a arte sobrenatural de discernir e ajustar os meios ao fim. |
+| cellarer / prior / Compline | celeireiro / prior / Completas | Vocabulário dos ofícios e da vida monástica. |
+| Odo / Majolus / Hugh / Peter the Venerable | Odo / Maiolo / Hugo / Pedro, o Venerável | Abades de Cluny; Odilo permanece Odilon, conforme entrada anterior. |
+| Prince of Pastors / Father of Lights | Príncipe dos Pastores / Pai das luzes | Designações bíblicas conservadas no capítulo III. |
+| docility of mind / obedience of action | docilidade de espírito / obediência nas ações | Uniformização das expressões recorrentes no capítulo III. |
+| stability / common life | estabilidade / vida comum | A estabilidade vincula o monge à comunidade e ao mosteiro. |
+| Divine Office / mental prayer | Ofício Divino / oração mental | Mantida a distinção entre oração litúrgica e oração mental. |
+| singularity / self-effacement | singularidade / apagamento de si | “Singularidade” designa a conduta de quem se distingue dos costumes comuns. |
+| Clothing / chart of monastic profession | tomada de hábito / cédula da profissão monástica | Vocabulário dos ritos de ingresso e profissão. |
+| Venerable Bede / St Gregory the Great | Venerável Beda / São Gregório Magno | Formas portuguesas dos nomes. |
+| Antony / Macarius / Pachomius / Stefano | Antão / Macário / Pacômio / Estêvão | Os três primeiros são personagens da tradição monástica; Estêvão é o irmão de Santa Catarina de Sena. |
+| purgative way / illuminative way / unitive life | via purgativa / via iluminativa / vida unitiva | Terminologia ascética tradicional. |
+| Romans / Colossians / James / Acts | Romanos / Colossenses / Tiago / Atos | Nomes dos livros bíblicos. |
+| Office of Prime / Lauds | Ofício de Prima / Laudes | Nomes das horas litúrgicas. |
+| deifying light / spirit of faith / supernatural spirit | luz deificante / espírito de fé / espírito sobrenatural | Expressões centrais do capítulo V; a primeira traduz *deificum lumen*. |
+| divine adoption / divine veracity / justification | adoção divina / veracidade divina / justificação | Terminologia teológica do capítulo V. |
+| habitus | *habitus* | Conservado o termo latino; “habit”, na explicação subsequente do autor, traduzido por “hábito”. |
+| Job / Galatians / Timothy | Jó / Gálatas / Timóteo | Nomes dos livros bíblicos. |
+| Avignon / Mount Thabor | Avignon / monte Tabor | Formas dos topônimos empregadas neste capítulo. |
+| oblation / immolation / holocaust | oblação / imolação / holocausto | Conservada a distinção sacrificial central do capítulo VI. |
+| conversion of manners / emission of vows | conversão dos costumes / emissão dos votos | Vocabulário da profissão monástica. |
+| Canonical Noviceship / sacramental | noviciado canônico / sacramental | “Sacramental” é substantivo no parágrafo 57. |
+| Ordinary of the Mass / Canon of the Mass | Ordinário da Missa / Cânon da Missa | Designações litúrgicas nas notas. |
+| Paralipomenon | Paralipômenos | Conservada a designação histórica do livro bíblico na nota 25. |
+| instruments of good works / spiritual workshop / spiritual craft | instrumentos das boas obras / oficina espiritual / arte espiritual | Vocabulário central do capítulo VII; “tools” traduzido por “ferramentas”. |
+| ejaculatory prayer / rectitude of intention | oração jaculatória / retidão da intenção | Terminologia espiritual do capítulo VII. |
+| exactitude of love / outward observance | exatidão do amor / observância exterior | Distinção central na exposição sobre a fidelidade à Regra. |
 | fortitude / perseverance / final perseverance | fortaleza / perseverança / perseverança final | Distinção entre a virtude da perseverança e o dom gratuito da perseverança final. |
-| endurance / to endure | capacidade de suportar / suportar | No desenvolvimento sobre a fortaleza, corresponde a *sustinere*; conforme a construção, também “paciência”. |
-| St. Athanasius / St. Maur | Santo Atanásio / São Mauro | |
-| Boniface / Adalbert / Gregory VII / Pius VII | Bonifácio / Adalberto / Gregório VII / Pio VII | |
-| contrition / perfect contrition / tepidity | contrição / contrição perfeita / tibieza | Distintas da compunção, definida como estado habitual de contrição. |
-| St. Francis of Sales / St. Jerome / St. Hilarius | São Francisco de Sales / São Jerônimo / Santo Hilário | |
-| David / Absalom / Saul / Semei / Tobias | Davi / Absalão / Saul / Semei / Tobias | |
-| gift of tears / Miserere | dom das lágrimas / *Miserere* | |
-| Blessed Angela of Foligno | bem-aventurada Ângela de Foligno | Conservada a designação da fonte. |
-| Ecclesiasticus / Massorites | Eclesiástico / massoretas | |
-| Way of the Cross / Sacrament of Penance | Via-Sacra / sacramento da Penitência | |
-| Ember Days / Vigils | Têmporas / vigílias | Designações das observâncias litúrgicas mencionadas na edição de 1926. |
-| St. Barnabas / St. Charles Borromeo / St. Philip of Neri | São Barnabé / São Carlos Borromeu / São Filipe Néri | |
-| Whole Christ / satisfaction / self-will | Cristo total / satisfação / vontade própria | Vocabulário teológico e ascético desta conferência. |
-| Canticles / Venerable Louis Blosius | Cântico dos Cânticos / Venerável Luís Blósio | |
-| poverty / poor in spirit | pobreza / pobre de espírito | Distinção entre a privação material e o desapego interior. |
-| ownership / spirit of ownership / vice of ownership | propriedade / espírito de propriedade / vício de propriedade | Inclui, no desenvolvimento ascético, a apropriação do próprio juízo e da própria vontade. |
-| eulogy | eulogia | Pão bento ou pequeno presente religioso; explicado pela nota da edição. |
-| Pere de la Colombiere | Padre de la Colombière | Conservada a designação da fonte. |
-| First Principle / Principium sine principio | Primeiro Princípio / *Principium sine principio* | Vocabulário trinitário. |
-| self-esteem / love of complacency | estima de si mesmo / amor de complacência | |
-| Book of Visions | Livro das visões | Obra citada a propósito da bem-aventurada Ângela de Foligno. |
-| reverence towards God / self-abasement | reverência para com Deus / abaixamento de si mesmo | No desenvolvimento sobre a raiz da humildade. |
-| gift of fear / gift of piety | dom do temor / dom da piedade | Dons do Espírito Santo. |
-| St. John Climacus / Jacob / Isaias | São João Clímaco / Jacó / Isaías | |
-| Pharisee / Publican / Clairvaux | fariseu / publicano / Claraval | |
-| discursive prayer / simplified prayer | oração discursiva / oração simplificada | |
-| servile fear / imperfect fear / reverential fear | temor servil / temor imperfeito / temor reverencial | Conservadas as distinções do desenvolvimento sobre o primeiro grau de humildade. |
-| St. Gregory the Great / Elizabeth / Herod / Pilate | São Gregório Magno / Isabel / Herodes / Pilatos | |
-| substantial unity / perfect charity | unidade substancial / caridade perfeita | |
-| economic character | caráter econômico | Nos parágrafos 38–39, designa a função da obediência como meio ordenado ao fim particular de um instituto. |
-| private interpretation / self-judgment | interpretação individual / juízo próprio | |
-| Solomon / Isaac / Bethany | Salomão / Isaac / Betânia | Nomes bíblicos. |
-| obedience of judgment / murmuring / complaint | obediência de juízo / murmuração / queixa | Conservada a distinção entre murmuração resistente e queixa compatível com a aceitação amorosa. |
-| St. Placid / Nathan / Samuel / Zacheus / Amalecites | São Plácido / Natã / Samuel / Zaqueu / amalecitas | Nomes usados nesta chamada. |
-| Bishop Hedley / Abbot Delatte | Dom Hedley / abade Delatte | “Retreat”: “Retiro”; “Commentary on the Rule of St Benedict”: “Comentário à Regra de São Bento”. |
-| St. Peter Damian / St. Andrew | São Pedro Damião / Santo André | Nomes presentes no aparato desta chamada. |
-| The Foundations | As fundações | Obra de Santa Teresa citada no fim da conferência. |
-| I Reg. / II Reg. | 1 Reis / 2 Reis | Conservada a numeração histórica da fonte, conforme a convenção já adotada para 3 Reis. |
-| doxology / divine psalmody / Vespers | doxologia / salmodia divina / Vésperas | Vocabulário litúrgico desta conferência. |
-| theandric activity / Canons Regular | atividade teândrica / cônegos regulares | |
-| St. Magdalen of Pazzi / St. Alphonsus Liguori | Santa Maria Madalena de Pazzi / Santo Afonso de Ligório | |
-| Church Glorious / Church Militant | Igreja gloriosa / Igreja militante | Conservada a distinção da fonte. |
-| love of benevolence / sacrifice of praise | amor de benevolência / sacrifício de louvor | A fórmula latina *sacrificium laudis* é conservada onde citada. |
-| Collects / Matins / station | coletas / Matinas / estação | “Estação” designa aqui a reunião no claustro antes da entrada na igreja para o Ofício. |
-| Sister Mechtilde of Magdebourg / St. Bernardine of Siena | Irmã Matilde de Magdeburgo / São Bernardino de Sena | Mantidas as qualificações da fonte; “S. Bern. Senen.” identificado na referência bibliográfica. |
-| Church suffering / Church triumphant | Igreja padecente / Igreja triunfante | Designações empregadas nesta conferência. |
-| attentio ad verba / attentio ad sensum / attentio ad Deum | atenção às palavras / atenção ao sentido / atenção a Deus | Conservadas em latim nas ocorrências do texto. |
-| Invitatory / Rogations | Invitatório / Rogações | Vocabulário litúrgico. |
-| St. Scholastica / Philip / Saul | Santa Escolástica / Filipe / Saulo | “Saulo” no relato da conversão do perseguidor; “Saul” permanece para o rei do Antigo Testamento. |
-| Father Master / remote preparation / proximate preparation | Padre Mestre / preparação remota / preparação próxima | Vocabulário da formação monástica e da oração. |
-| Last Ends / Quakers | fins últimos / quacres | Conservada a descrição histórica e polêmica dos quacres feita pelo autor. |
-| affective prayer / state of prayer / transforming prayer | oração afetiva / estado de oração / oração transformadora | Conservada a distinção expressa entre “afetiva” e “sentimental”. |
-| St. Cecilia / Origen / Emmaus / Nazareth | Santa Cecília / Orígenes / Emaús / Nazaré | |
-| Osee / Deuteronomy | Oseias / Deuteronômio | Nomes dos livros nas referências. |
-| The Interior Castle / Mansion | O castelo interior / Morada | Obra de Santa Teresa e suas divisões. |
-| Madame Cecile J. Bruyere | Madame Cécile J. Bruyère | Abadessa de Solesmes; conservado o tratamento da fonte. |
-| good zeal / bitter zeal / evil zeal | bom zelo / zelo amargo / mau zelo | Conservada a distinção desenvolvida nesta conferência. |
-| St. Augustine of Canterbury / Martyrius / St. Wandrille | Santo Agostinho de Cantuária / Martírio / São Vandrilo | Nomes presentes no texto e no aparato. |
-| Maundy Thursday / officials | Quinta-feira Santa / oficiais | “Oficiais” designa aqui os monges encarregados de funções no mosteiro. |
-| Alcuin / Rabanus / St. Anscar / St. Willibrord | Alcuíno / Rabano / Santo Ansgário / São Vilibrordo | Nomes presentes na exposição histórica do apostolado monástico. |
-| Dom Maurus Wolter / Dom Gueranger / Dom Martene | Dom Mauro Wolter / Dom Guéranger / Dom Martène | Formas adotadas nesta chamada. |
-| Cicero / Livy / Frisia | Cícero / Tito Lívio / Frísia | |
-| Jehovah / hospitality / care of souls | Jeová / hospitalidade / cuidado das almas | |
-| peace / tranquillity of order / Prince of peace | paz / tranquilidade da ordem / Príncipe da paz | Expressões centrais da conferência XVIII. |
-| Newman / Maredsous Abbey | Newman / Abadia de Maredsous | |
-| original justice / peaceful King | justiça original / Rei pacífico | |
+| endurance / to endure | capacidade de suportar / suportar | Conforme o contexto; corresponde a *sustinere*, contraposto a *aggredi*. |
+| St Athanasius / Boniface / Adalbert | Santo Atanásio / Bonifácio / Adalberto | Formas portuguesas dos nomes. |
+| Gregory VII / Pius VII / Congregation of St Maur | Gregório VII / Pio VII / Congregação de São Mauro | Formas portuguesas dos nomes e da congregação. |
+| Proverbs | Provérbios | Nome do livro bíblico. |
+| habitual contrition / gift of tears | contrição habitual / dom das lágrimas | Expressões centrais do capítulo VIII. |
+| St. Francis of Sales / Father Faber | São Francisco de Sales / Padre Faber | Formas portuguesas dos nomes. |
+| David / Absalom / Saul / Semei / Tobias | Davi / Absalão / Saul / Semei / Tobias | Nomes bíblicos empregados neste trecho. |
+| tepidity / lukewarmness | tibieza | Estado espiritual contraposto ao espírito de compunção. |
+| Blessed Angela of Foligno | Bem-aventurada Ângela de Foligno | Conservada a designação histórica da fonte. |
+| St Jerome / St Hilarius | São Jerônimo / Santo Hilário | Formas portuguesas tradicionais. |
+| Way of the Cross / scape-goat | Via-Sacra / bode expiatório | Vocabulário devocional e sacrificial deste trecho. |
+| Isaias / Ecclesiasticus / II Reg. | Isaías / Eclesiástico / 2 Reis | Conservada, para Reis, a numeração histórica da fonte. |
+| self-renunciation / self-denial | renúncia a si mesmo / abnegação | Conforme o contexto; mantido o título estabelecido para o capítulo IX. |
+| satisfaction / mortification / self-will | satisfação / mortificação / vontade própria | Terminologia da expiação e da ascese no capítulo IX. |
+| Ember Days / Vespers / works of supererogation | Têmporas / Vésperas / obras de supererrogação | Vocabulário litúrgico e ascético. |
+| St Barnabas / St Charles Borromeo / St Philip of Neri | São Barnabé / São Carlos Borromeu / São Filipe Néri | Formas portuguesas tradicionais. |
+| Venerable Louis Blosius | Venerável Luís Blósio | Conservado o sobrenome conforme a entrada anterior. |
+| Canticles | Cântico dos Cânticos | Nome do livro bíblico. |
+| poverty / poverty of spirit / poor in spirit | pobreza / pobreza de espírito / pobres de espírito | Distinção entre a privação material e o desapego interior no capítulo X. |
+| private ownership / spirit of ownership / vice of ownership | propriedade privada / espírito de propriedade / vício de propriedade | O autor estende o último termo ao apego ao próprio juízo e à vontade própria. |
+| eulogy | eulógia | Pão bento e, por extensão, pequenos presentes religiosos; explicado pela própria fonte na nota 15. |
+| St. Francis of Assisi / Père de la Colombière | São Francisco de Assis / Padre de la Colombière | Formas dos nomes empregadas no capítulo X. |
+| self-esteem / love of complacency | estima de nós mesmos / amor de complacência | Conforme o contexto espiritual e teológico. |
+| pride / humility / vain glory | orgulho / humildade / vanglória | Vocabulário central do capítulo XI. |
+| reverence towards God / reverential fear / servile fear | reverência para com Deus / temor reverencial / temor servil | Mantidas as distinções desenvolvidas nas seções III e IV. |
+| self-abasement / self-annihilation | abaixamento de si / aniquilamento de si | Expressões da atitude da criatura diante da Majestade divina. |
+| Divine outpourings / Divine communications | efusões divinas / comunicações divinas | Vocabulário da comunicação de Deus à alma. |
+| Clairvaux / Patmos / Jericho / Jacob | Claraval / Patmos / Jericó / Jacó | Formas portuguesas dos nomes. |
+| St. John Climacus / Lucifer / Elizabeth | São João Clímaco / Lúcifer / Isabel | Formas portuguesas tradicionais. |
+| Frederick II / Gregory IX / Leo XIII | Frederico II / Gregório IX / Leão XIII | Formas portuguesas dos nomes. |
+| Apocalypse / Titus | Apocalipse / Tito | Nomes dos livros bíblicos. |
+| motive power / substantial unity / impeccable | força motriz / unidade substancial / impecável | Vocabulário filosófico e teológico deste trecho. |
+| The Book of Visions / The Ineffable | O livro das visões / O Inefável | Títulos citados nas notas referentes à Bem-aventurada Ângela de Foligno. |
+| L’âme du culte, la vertu de religion | A alma do culto, a virtude de religião | Título da obra de D. O. Lottin. |
+| The Interior Castle / Introduction to the Devout Life | O castelo interior / Introdução à vida devota | Títulos das obras de Santa Teresa e São Francisco de Sales citadas nas notas. |
+| Bonum obedientiae | bem da obediência | Fórmula latina conservada; “a good” traduzido por “um bem” na exposição. |
+| obedience of judgment / graces of state / infused knowledge | obediência de juízo / graças de estado / ciência infusa | Terminologia da exposição sobre a submissão interior no capítulo XII. |
+| economic character | caráter econômico | No contexto, designa a função da obediência como meio para um fim particular do instituto religioso. |
+| Maurus / Placid / Moses / Nathan / Samuel | Mauro / Plácido / Moisés / Natã / Samuel | Formas portuguesas dos nomes. |
+| Amalecites / Zacheus / Mount Horeb | amalecitas / Zaqueu / monte Horeb | Formas portuguesas dos nomes. |
+| murmuring / complaining | murmuração / queixa | Mantida a distinção espiritual desenvolvida nos parágrafos 106–112. |
+| St Peter Damian / The Foundations | São Pedro Damião / As fundações | Nome do santo e título da obra de Santa Teresa. |
+| Êxodo / São Leão / Santo André | Êxodo / São Leão / Santo André | Formas portuguesas de Exod., St Leo e St Andrew nas notas deste trecho. |
+| Retreat / Commentary on the Rule of St Benedict | Retiro / Comentário à Regra de São Bento | Títulos das obras de Dom Hedley e do abade Delatte. |
+| Divine Praise / doxology / psalmody | louvor divino / doxologia / salmodia | Vocabulário litúrgico central do capítulo XIII. |
+| theandric activity / stalls / Canons Regular | atividade teândrica / estalas / cônegos regrantes | Terminologia teológica e monástica do capítulo XIII. |
+| St. Magdalen of Pazzi / St. Alphonsus Liguori | Santa Maria Madalena de Pazzi / Santo Afonso de Ligório | Formas portuguesas dos nomes. |
+| Daniel / Exclamations | Daniel / Exclamações | Livro bíblico e obra de Santa Teresa mencionados neste capítulo. |
+| impetration / Collects | impetração / coletas | Vocabulário da oração de súplica e das orações litúrgicas. |
+| Matins / Invitatory / station | Matinas / Invitatório / estação | “Estação” designa aqui a reunião silenciosa no claustro antes da entrada na igreja. |
+| Mother Deleloë / Sister Mechtilde of Magdebourg | Madre Deleloë / irmã Matilde de Magdeburgo | Conservado o sobrenome da primeira; forma portuguesa do nome e do topônimo da segunda. |
+| Church triumphant / Church suffering | Igreja triunfante / Igreja padecente | Designações tradicionais dos estados da Igreja. |
+| devotion / devout | devoção / devoto | No capítulo XIV, a devoção é definida como consagração de todo o ser a Deus, distinta da consolação sensível. |
+| St Bernardine of Siena / Rogations | São Bernardino de Sena / Rogações | Nome do santo citado na nota 67 e designação litúrgica da nota 101. |
+| The Light of the Divinity / The True Apostolate | A luz da Divindade / O verdadeiro apostolado | Títulos traduzidos nas notas 68 e 75. |
+| St. Scholastica / Philip / Saul | Santa Escolástica / Filipe / Saulo | “Saulo” designa o futuro Apóstolo Paulo; “Saul” permanece a forma do rei bíblico, conforme a entrada anterior. |
+| Last Ends / affective prayer / Father Master | novíssimos / oração afetiva / Padre Mestre | Vocabulário ascético e monástico do capítulo XV. |
+| Liturgical Cycle / Breviary / secondary causes | ciclo litúrgico / Breviário / causas segundas | Terminologia litúrgica e filosófica deste trecho. |
+| state of prayer / exercise of prayer / transforming prayer | estado de oração / exercício da oração / oração transformante | Distinções desenvolvidas nas seções VI e VIII do capítulo XV. |
+| St Cecilia / Origen / Innocent XI | Santa Cecília / Orígenes / Inocêncio XI | Formas portuguesas dos nomes. |
+| Osee / Deuteronomy | Oseias / Deuteronômio | Nomes dos livros bíblicos. |
+| Elevations upon the Mysteries | Elevações sobre os mistérios | Título da obra de Bossuet nas notas 55 e 109. |
+| holy abandonment / self-surrender | santo abandono / entrega de si mesmo | Mantida a distinção vocabular, embora ambas as expressões descrevam a mesma disposição fundamental. |
+| Abraham / Sara / Isaac / Gethsemane | Abraão / Sara / Isaac / Getsêmani | Formas portuguesas dos nomes bíblicos e do topônimo. |
+| Joseph / Jeremias | José / Jeremias | Formas portuguesas dos nomes bíblicos. |
+| Le Saint Abandon / Way of Perfection / Etats d’oraison | O santo abandono / Caminho de perfeição / Estados de oração | Títulos traduzidos nas referências bibliográficas. |
+| good zeal / evil zeal / bitter zeal | bom zelo / mau zelo / zelo amargo | Mantidas as distinções centrais do capítulo XVII. |
+| St. Augustine of Canterbury / Martyrius | Santo Agostinho de Cantuária / Martírio | Formas portuguesas dos nomes. |
+| Bethania / Lazarus / Martha / Samaria | Betânia / Lázaro / Marta / Samaria | Formas portuguesas dos nomes bíblicos e topônimos. |
+| Alcuin / Rabanus / Dom Maurus Wolter | Alcuíno / Rabano / Dom Mauro Wolter | Formas portuguesas dos nomes; conservados os demais sobrenomes monásticos. |
+| Maundy Thursday / Jehovah | Quinta-feira Santa / Jeová | Designação litúrgica e forma do nome divino empregada na fonte. |
+| officials / care of souls | oficiais / cuidado das almas | “Oficiais” designa os monges encarregados de funções no mosteiro. |
+| St. Anscar / St. Willibrord / St. Wandrille | São Ansgário / São Vilibrordo / São Vandregisilo | Formas portuguesas dos nomes. |
+| Frisia / Cicero / Livy | Frísia / Cícero / Tito Lívio | Topônimo e nomes clássicos deste trecho. |
+| Notions sur la vie religieuse et monastique | Noções sobre a vida religiosa e monástica | Título da obra de Dom Guéranger. |
+| The Ideal of the Monastic Life found in the Apostolic Age | O ideal da vida monástica encontrado na era apostólica | Título da obra de Dom Morin nas notas 41 e 109. |
+| peace / tranquillity of order / peacemakers | paz / tranquilidade da ordem / pacificadores | Vocabulário central do capítulo XVIII. |
+| Prince of Peace / peaceful King / kiss of peace | Príncipe da Paz / Rei pacífico / ósculo da paz | Designações cristológicas e gesto de acolhida monástica. |
+| Sion / Apollo / Newman | Sião / Apolo / Newman | Formas portuguesas dos nomes; o sobrenome de Newman permanece inalterado. |
+| Exercises of St Gertrude / Confessions | Exercícios de Santa Gertrudes / Confissões | Títulos das obras citadas no capítulo XVIII. |
+| The Mission of St Benedict / Historical Sketches | A missão de São Bento / Esboços históricos | Títulos das obras de Newman citadas na nota 13. |
 
 ## Decisões
 
-- Tradução feita do inglês fornecido, conforme a fonte designada para esta chamada; não se reconstituiu um original francês.
-- Conservados os 100 parágrafos, os níveis dos títulos, os quinze marcadores e definições de notas e as referências numéricas que a extração mantém no corpo do texto. As notas agrupadas pela página não foram redistribuídas.
-- Corrigidas na tradução as separações de palavras e as falhas evidentes do OCR inglês. As citações latinas e o fragmento grego corrompido do parágrafo 29 foram conservados como fornecidos, em itálico; exigem conferência posterior com a edição impressa.
-- Conservado no parágrafo 7 o cabeçalho corrente “Cristo, ideal do monge”, presente no texto recebido, para não omitir material desta chamada.
-- Normalizadas as referências bíblicas para nomes portugueses e capítulo:versículo, sem alterar a numeração dos salmos. Na nota 9, mantido “Tessalonicenses 5:25”, sem acrescentar número de epístola nem corrigir o versículo por conjectura.
-- Nas referências bibliográficas, corrigidas as formas inequivocamente danificadas pelo OCR: “Une âme bénédictine” e “La Bse J. M. Bonomo, moniale bénédictine”. Não se acrescentaram dados bibliográficos ausentes.
-- Empregado “vós” nas exortações dirigidas aos ouvintes e no tratamento reverente de Deus; “tu” nas falas divinas dirigidas a uma alma singular e na apóstrofe à criatura.
-- “Conversation”, na citação de Santa Teresa, foi traduzido por “convivência”, no sentido de vida e trato orientados para o céu.
-- Não foram acrescentadas notas do tradutor, pois o capítulo já contém aparato abundante. As observações sobre os defeitos da fonte ficaram neste diário.
-- Mantidos os valores pt-BR já presentes nos metadados; acrescentados os títulos do sumário e pt-BR à lista de idiomas.
-- Conservados os 103 parágrafos desta chamada, inclusive os fragmentos de frases separados pela extração, as referências intercaladas no corpo dos parágrafos e o fragmento isolado “5-” do parágrafo 83. Não se deslocaram referências para recompor frases.
-- Conservados os marcadores de notas `[^1]` a `[^14]`; suas definições não constam do trecho recebido e não foram reconstruídas.
-- Retirados os resíduos tipográficos inequívocos “**■” no início do parágrafo 3 e “3t” no início do parágrafo 66; recuperada a inicial ausente de “The object” no parágrafo 2. As citações latinas foram conservadas como fornecidas, inclusive suas corrupções de OCR, e postas em itálico; exigem conferência posterior com a edição impressa.
-- Normalizados os algarismos romanos das referências bíblicas para capítulo:versículo. Conservados “Colossenses 10:20” e “Salmos 34:11” no aparato intercalado do parágrafo 53, sem emenda conjectural.
-- “Tradition”, no parágrafo 75, foi traduzido por “entrega”, no sentido de entrega integral de si à vontade divina; “superaddition”, no parágrafo 77, por “acréscimo”, conservando as aspas.
-- Na exortação de Blósio do parágrafo 60, adotado “tu” para o discípulo individual; na fala à Madre Deleloe e no diálogo de Santa Matilde com a Virgem, também se manteve o singular. Nas exortações aos ouvintes, conservado “vós”.
-- Não se acrescentaram notas do tradutor: o trecho já contém aparato abundante, embora parcialmente intercalado no texto pelo OCR.
-- Conservados os 18 parágrafos desta chamada e as catorze definições de notas, correspondentes aos marcadores da chamada anterior. Mantido o aparato intercalado dos parágrafos 104 e 106 e o fragmento bibliográfico do parágrafo 107, sem redistribuição.
-- Reunida em “efusões” a palavra inglesa “out-pourings”, interrompida pelo aparato no parágrafo 104; o aparato permanece entre “efusões” e “do venerável Blósio”. Mantida a divisão da citação entre os parágrafos 105 e 106.
-- Corrigidos os erros inequívocos de OCR em palavras, nomes, títulos e algarismos romanos. Conservadas as leituras ambíguas “cap. mi” no parágrafo 104 e “Mateus xvx:24” na nota 14, para conferência com a edição impressa; mantido também o latim “Quis ills” da nota 6.
-- Conservada a numeração interna repetida “1. — 3. — 3.” da nota 10. As referências abreviadas por “Ibid.” não receberam capítulos ou números de livros ausentes da fonte.
-- Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Conservados os 98 parágrafos desta chamada, inclusive frases interrompidas, fragmentos e aparato intercalado; mantidos os treze marcadores de notas, cujas definições não constam do trecho recebido.
-- Corrigidas as falhas inequívocas de OCR no inglês e nos números de capítulos identificáveis. Retirado o resíduo “5o” no início do parágrafo 51. As citações latinas foram conservadas como fornecidas, em itálico, inclusive suas corrupções; exigem conferência com a edição impressa.
-- Mantida a referência incompleta e corrompida “1. lX, 10” no aparato do parágrafo 32, sem atribuir-lhe por conjectura um livro bíblico. A referência a Mateus 4:4 permanece dividida entre os parágrafos 28 e 29, como na fonte.
-- No parágrafo 66, interpretados como números de chamadas os resíduos de OCR junto ao aparato e a “saúde delicada”; não acrescentada uma chamada ausente após “peregrinos”.
-- Traduzido “fellowship” por “fraternidade” na fórmula de admissão e na retomada referente à vida cenobítica. “Secular” designa aqui quem ainda não ingressou na comunidade.
-- Mantida a qualificação de Pedro, o Venerável, como santo no parágrafo 48, conforme a afirmação expressa da fonte, sem alterar sua designação no texto.
-- Conservado “vós” nas exortações aos monges e no tratamento de Deus; mantido “tu” nas palavras de Cristo ao jovem rico.
-- Não acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Conservados os 27 parágrafos desta chamada, inclusive os fragmentos e o aparato intercalado que interrompe a frase dos parágrafos 102–105; mantidas as catorze definições de notas e a chamada `[^14]`.
-- Retirado o resíduo de paginação “6o” no início do parágrafo 100. Corrigidos erros inequívocos de OCR em palavras e referências identificáveis; conservada a leitura ambígua “cap. urn” na nota 9, para conferência com a edição impressa.
-- Conservadas como fornecidas as citações latinas, inclusive as separações e corrupções de OCR, em itálico. “Tradition”, no parágrafo 105, permanece traduzido por “entrega”, conforme decisão anterior.
-- Mantido o aparato entre as duas partes da frase iniciada no parágrafo 99; não se acrescentaram números de chamadas ausentes nem se redistribuíram as referências. Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Aplicada a orientação da habilidade translate-book, subordinada às instruções específicas desta chamada e à fonte inglesa designada.
-- Conservados os 91 parágrafos desta chamada, inclusive os fragmentos de frases, cabeçalhos correntes e aparato intercalado; mantidos os doze marcadores de notas, cujas definições não constam do trecho recebido.
-- Conservado como parágrafo próprio o número de página “80” do parágrafo 79, normalizando apenas a letra “o” produzida pelo OCR, para manter a correspondência dos parágrafos.
-- Corrigidas falhas inequívocas do OCR no inglês e em referências identificáveis. Conservadas as citações latinas como fornecidas, em itálico, inclusive suas corrupções e separações; exigem conferência com a edição impressa.
-- Mantidos nos lugares recebidos os fragmentos latinos “Per” e “accidens”, separados pela extração nos parágrafos 29 e 33; não se recompôs a locução nem se deslocou o aparato que interrompe a exposição.
-- A referência “Salmos cx.xx, vi” do parágrafo 86 foi conservada sem conversão conjectural. No parágrafo 89, o capítulo da Regra tornou-se “[ilegível]”, pois o OCR não permite leitura segura; conservado no parágrafo 90 o fragmento “Kren u if^Cr>” e a leitura “°L Solesmes”, para conferência posterior.
-- Mantidos os números de referências intercalados no corpo do texto, inclusive a repetição de “3” no parágrafo 76 e o “4” isolado no parágrafo 91; não se acrescentaram chamadas ausentes nem se redistribuiu o aparato.
-- Conservado “vós” nas exortações aos monges e no tratamento de Deus; empregou-se “tu” na apóstrofe à Jerusalém monástica. Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Conservados os 24 parágrafos desta chamada, inclusive os títulos de transição e as doze definições de notas. Mantidos o título “VII” e a sequência dos títulos tal como recebidos.
-- Corrigidas falhas inequívocas do OCR inglês e das referências identificáveis; conservada a leitura ambígua “xi.tx” na nota 5, para conferência com a edição impressa.
-- Conservadas como fornecidas as citações latinas, inclusive suas corrupções e separações, em itálico. Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Conservados os 105 parágrafos desta chamada, inclusive os fragmentos, os cabeçalhos correntes e o aparato intercalado. Mantidas as treze chamadas de notas e as nove definições recebidas; as definições de 10 a 13 não foram reconstruídas.
-- Corrigidas falhas inequívocas de OCR no inglês, em nomes e em referências identificáveis. Retirados os resíduos tipográficos “g” no parágrafo 52 e “9-” no parágrafo 68; conservado o número de página 101 no cabeçalho do parágrafo 75.
-- Conservadas como fornecidas as citações latinas, inclusive suas corrupções, separações e a citação incompleta do parágrafo 91, em itálico; exigem conferência com a edição impressa.
-- Mantidos os fragmentos de referências nos parágrafos 13, 26, 37, 66–67 e 82, bem como na nota 5, sem recomposição nem deslocamento. Conservadas as leituras “João xvix:9” na nota 3, “Ibid. 12:36” no parágrafo 66 e “Ibid. 14:7” no parágrafo 67, sem emenda conjectural.
-- “Sensual man”, no parágrafo 54, foi traduzido por “homem sensual”, conservando o termo da fonte e seu sentido contextual de homem limitado à ordem natural; “visual power”, nos parágrafos 61 e 63, por “capacidade de ver própria da visão beatífica”.
-- Conservado “vós” nas exortações aos monges e no tratamento reverente de Deus; empregado “tu” nas palavras dirigidas ao discípulo individual, a Santa Catarina e na citação de Gênesis 15:1.
-- Conservados os quatro parágrafos finais de 05-faith e os 78 de 06-profession, incluindo os números de página, os cabeçalhos correntes, as frases interrompidas e o aparato intercalado. Mantidas as quatro definições de notas do primeiro trecho e as dez chamadas e definições do segundo.
-- No parágrafo 11, mantida em seu lugar a continuação da nota bibliográfica que interrompe a frase; não se reuniu esse trecho à definição incompleta da nota 1. Mantidas também as interrupções dos parágrafos 28–30, 44–46 e 63–64.
-- Corrigidas falhas inequívocas do OCR inglês e das referências identificáveis. Conservadas as leituras ambíguas “Hebreus IX, m”, “Regra, cap. ux”, “João vx, 58” e “Salmos CXVIII, lit”. No aparato fortemente corrompido do parágrafo 64, a referência a Mateus sem leitura segura foi indicada como “[referência ilegível]”; as demais partes foram conservadas ou normalizadas quando identificáveis.
-- Conservadas como fornecidas as citações latinas, inclusive suas corrupções e separações, em itálico; exigem conferência com a edição impressa. Resíduos tipográficos inequívocos foram retirados; os números de chamadas identificáveis foram normalizados sem redistribuir o aparato.
-- “Tradition”, nos parágrafos 35 e 63, foi traduzido por “entrega”, conforme a decisão anterior. “Reasonable service”, no parágrafo 32, foi traduzido por “culto racional”, no contexto de Romanos e da virtude da religião.
-- Conservado “vós” nas exortações aos monges e no tratamento reverente de Deus; empregado “tu” nas palavras de Jesus ao discípulo individual e nas palavras de Deus à alma no parágrafo 54.
-- Conservados os 84 parágrafos desta chamada, inclusive os fragmentos de frases, o cabeçalho corrente, o número de página 134 e o aparato intercalado. Mantidas as quinze chamadas de notas; suas definições não constam do trecho recebido e não foram reconstruídas.
-- Corrigidas falhas inequívocas do OCR inglês, inclusive o cabeçalho do parágrafo 45 e a referência a Filipenses 2:13 no parágrafo 61. Retirados os resíduos tipográficos inequívocos dos parágrafos 24, 38, 57, 69 e 76; os números de chamadas identificáveis foram normalizados sem redistribuir o aparato.
-- Conservadas como fornecidas as citações latinas, inclusive suas corrupções e separações, em itálico; exigem conferência com a edição impressa. Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Em “a soul’s progress” e nas passagens sobre a ação divina, “mainspring” foi traduzido conforme o contexto por “motor” ou “motivo de ação”; “spiritual craft” permanece “arte espiritual”, em consonância com a definição de arte desenvolvida pelo autor.
-- No parágrafo 74, “the first” foi entendido como referência à vida interior, conforme a comparação subsequente entre alma e corpo; no parágrafo 79, o sujeito da segunda frase foi explicitado como a fidelidade exterior, fruto da fé, da confiança e do amor interiores.
-- Conservado “vós” nas exortações aos monges, nas palavras de Cristo dirigidas à comunidade e no tratamento reverente de Deus; empregado “tu” nas palavras dirigidas ao discípulo individual e à bem-aventurada Bonomo.
-- Conservados os 60 parágrafos desta chamada, inclusive as frases interrompidas, os fragmentos, o cabeçalho corrente e o aparato intercalado. Mantidas as três chamadas de notas e as dezoito definições recebidas, sem redistribuir o aparato.
-- Corrigidas falhas inequívocas do OCR inglês e de referências identificáveis. No parágrafo 86, conservado como fragmento o trecho da citação de Pascal cujo início falta; não se reconstruiu a passagem ausente.
-- Conservadas como fornecidas as citações latinas, inclusive suas corrupções e separações, em itálico; exigem conferência com a edição impressa.
-- No aparato dos parágrafos 119–120, indicados os fragmentos sem leitura segura e a referência incompleta a Mateus, sem reconstruí-los. Conservadas as leituras “Lucas 20:62”, “Regra, cap. x-xxii”, “Salmos cxxvx, 1”, “2 Coríntios x, xy”, “Hebreus 10:559”, “Regra, cap. tin” e “Dialog. 1, n.”, para conferência posterior.
-- “Aggression”, no parágrafo 105, foi traduzido por “atacar”, em correspondência com *aggredi*, conservando a oposição ao ato de “suportar”, *sustinere*.
-- Conservado “vós” nas exortações aos monges e no tratamento reverente de Deus; empregado “tu” nas palavras dirigidas ao servo fiel. Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Conservados os 81 parágrafos desta chamada, inclusive os fragmentos de frases, o cabeçalho corrente e o aparato intercalado. Mantidas as onze chamadas de notas, cujas definições não constam do trecho recebido e não foram reconstruídas.
-- Corrigidas falhas inequívocas do OCR inglês e de referências identificáveis. No parágrafo 14, restituída a negação ausente em “does recognise”, pois a exclusão da herança e toda a argumentação exigem “não reconhece”; no parágrafo 58, “nutrition” foi entendido como corrupção de “contrition” e traduzido por “contrição”.
-- No parágrafo 5, indicada como “[referência ilegível]” a referência inicial à Regra, sem reconstrução conjectural. Conservados os fragmentos do aparato que interrompem as frases nos parágrafos 25, 41, 58 e 76–77, e a divisão da nota sobre a “bula de perdão” entre os parágrafos 37 e 41.
-- Conservadas como fornecidas as citações latinas, inclusive suas corrupções e separações, em itálico; exigem conferência com a edição impressa. Normalizados os números de chamadas identificáveis, sem redistribuir o aparato.
-- Conservado “vós” nas exortações aos monges e no tratamento reverente de Deus; empregado “tu” nas palavras ao filho pródigo e a seu pai, na apóstrofe a Jerusalém, nas falas de Deus a Satanás e nas citações dirigidas ao discípulo individual. Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Conservados os 31 parágrafos desta chamada, inclusive o cabeçalho corrente, o número de página 169 e o aparato intercalado. Mantidas as três chamadas de notas e as catorze definições recebidas, sem redistribuir o aparato.
-- Corrigidas falhas inequívocas do OCR inglês e de referências identificáveis. Conservadas as leituras ambíguas “Regra, cap. til” na nota 4 e “Mateus vai, 25” na nota 11, para conferência posterior.
-- Conservadas como fornecidas as citações latinas, inclusive suas corrupções e separações, em itálico; mantida também a forma “Dies trae” na nota 14. No parágrafo 83, preservada a interrupção “pois ele...”, sem reconstruir palavras ausentes.
-- Conservada a designação “bem-aventurada” de Ângela de Foligno e a identificação da pecadora do Evangelho com Madalena, conforme a fonte. Empregado “tu” nas palavras de Cristo à alma individual e “vós” nas exortações aos monges e no tratamento reverente de Deus. Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Conservados os 88 parágrafos desta chamada, inclusive as frases interrompidas, os números de página 177, 180 e 189, o cabeçalho corrente e o aparato intercalado. Mantidas as catorze chamadas e definições de notas, sem redistribuição.
-- Corrigidas falhas inequívocas do OCR inglês e de referências identificáveis. Conservadas as leituras “1 João 9:2”, “Salmos 26:41”, “Mateus 15:16” e “1 Coríntios 9:7”, sem emenda conjectural.
-- Conservadas como fornecidas as citações latinas, inclusive suas corrupções e separações, em itálico; exigem conferência com a edição impressa. Normalizados os números de chamadas identificáveis.
-- No parágrafo 46, mantida a formulação segundo a qual a virtude “serve de estímulo ao voto”, sem inverter a relação expressa na fonte. No parágrafo 67, “real” foi entendido como corrupção de “zeal” e traduzido por “zelo”.
-- Empregado “tu” nas palavras dirigidas à alma individual, a Santa Catarina e a Santa Matilde, inclusive na invocação ao Amor; conservado “vós” nas exortações aos monges e no tratamento reverente do Pai. Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Conservados os 83 parágrafos desta chamada, inclusive o cabeçalho corrente, as frases interrompidas e o aparato intercalado. Mantidas as quinze chamadas e definições de notas, sem redistribuição.
-- Corrigidas falhas inequívocas do OCR inglês e de referências identificáveis. No parágrafo 20, “detachment” foi entendido como corrupção de “attachment” e traduzido por “apego”, exigido pelo exemplo e pela consequência descrita. No parágrafo 53, a expressão defeituosa “distinctive from His Person” foi vertida por “caracteriza sua Pessoa”, conforme o desenvolvimento trinitário do próprio parágrafo.
-- Conservadas como fornecidas as citações latinas, inclusive suas corrupções e separações, em itálico; exigem conferência com a edição impressa. Normalizados os números de chamadas identificáveis, inclusive os referentes às eulogias e à distribuição dos presentes no parágrafo 17.
-- Conservadas as leituras “Dialog. I, II, cap. cxxvm, XXIX” na nota 6, “Mateus 13:6” na nota 7 e “João 6:58” na nota 13, sem emenda conjectural. Na nota 11, “evil, 7” foi reconhecido como corrupção de “xvii, 7” e normalizado para “17:7”, conforme a citação correspondente.
-- “Personality” permanece “personalidade”; preservadas as qualificações explícitas do autor de que sua sujeição a Cristo se dá na ordem da atividade e constitui uma união moral entre pessoas distintas.
-- Empregado “tu” nas palavras de Cristo ao jovem e à alma individual; conservado “vós” nas exortações aos monges e no tratamento reverente de Deus. Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Conservados os 70 parágrafos desta chamada, inclusive as frases interrompidas, os cabeçalhos correntes, o número de página 212 e o aparato intercalado. Mantidas as doze chamadas de notas, cujas definições não constam do trecho recebido e não foram reconstruídas.
-- No início do parágrafo 8, o fragmento sem leitura segura foi indicado como “[trecho ilegível]”; não se reconstruiu a oposição cujo primeiro termo falta. Conservados os fragmentos bibliográficos que interrompem os parágrafos 25, 36, 44, 48, 55 e 68.
-- Corrigidas falhas inequívocas do OCR inglês e de referências identificáveis. Conservadas as leituras “Salmos 11:3” no parágrafo 25 e “Salmos xcliv, 16” no parágrafo 55, sem emenda conjectural. Mantida a afirmação da fonte que situa São João Clímaco no século VI.
-- “Self-abasement” foi traduzido por “abaixamento de si mesmo”, distinguindo-o do “aniquilamento de si mesmo” expresso por “self-annihilation”; “selfless”, no parágrafo 66, por “inteiramente despojada de si”, em continuidade com o desenvolvimento ascético.
-- Empregado “tu” nas apóstrofes ao discípulo individual, inclusive nas citações de Santo Agostinho e São Paulo; conservado “vós” nas exortações aos monges e no tratamento reverente de Deus. Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Conservados os 69 parágrafos desta chamada, inclusive as frases interrompidas, o cabeçalho corrente, o número de página 240 e o aparato intercalado. Mantidas as onze chamadas de notas, cujas definições não constam do trecho recebido e não foram reconstruídas.
-- Corrigidas falhas inequívocas do OCR inglês e de referências identificáveis. No aparato fortemente corrompido do parágrafo 96, conservadas as partes reconhecíveis e indicados os trechos sem leitura segura, sem reconstrução conjectural; no parágrafo 129, indicada a referência corrompida, mantendo-se o fragmento sobre o caráter religioso da espiritualidade beneditina.
-- Conservadas como fornecidas as citações latinas, inclusive suas corrupções e separações, em itálico; mantida a divisão de “in gloria Patris” entre os parágrafos 133 e 134, com o aparato intercalado. Normalizados os números de chamadas identificáveis.
-- Conservadas as leituras “Diálogos, livro IX, cap. XXXV”, no parágrafo 104, “cap. xo”, no parágrafo 110, e “O livro das visões, 13, 1, cap. 3”, no parágrafo 134, para conferência com a edição impressa.
-- Mantida no parágrafo 89 a nota sobre manifestação de consciência e cân. 530 como afirmação da legislação vigente à época da edição de 1926, sem atualização normativa.
-- Empregado “vós” nas exortações aos monges e no tratamento reverente de Deus. Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Conservados os 30 parágrafos desta chamada, inclusive as 25 definições de notas, os fragmentos bibliográficos e os números de referências intercalados. Mantidas as chamadas `[^24]` e `[^25]`, sem redistribuir o aparato.
-- Corrigidas falhas inequívocas do OCR inglês e de referências identificáveis, inclusive “M37” por “meu” no parágrafo 142 e o título “Testem benevolentiae” na nota 2. Na mesma nota, conservado “Pedro 5:5” sem acrescentar o número da epístola ausente.
-- Conservadas como fornecidas as citações latinas, inclusive suas corrupções, em itálico. Mantidas as leituras ambíguas “nv” na nota 6, “Epist., 983” na nota 8, “Regra, cap. i. vii” na nota 18 e “q. lcxi” na nota 20, para conferência com a edição impressa.
-- Na nota 1, conservada a interrupção da explicação por “Divites” e pelo aparato de referências, sem reconstruir sua continuação. Mantida também a numeração fragmentária “3. — 3.” da nota 12.
-- Empregado “tu” nas palavras de Cristo à alma individual do parágrafo 142 e “vós” no tratamento reverente de Cristo no parágrafo 140. Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Conservados os 75 parágrafos desta chamada, inclusive os fragmentos, o cabeçalho corrente e o aparato intercalado. Mantidas as catorze chamadas de notas, cujas definições não constam do trecho recebido e não foram reconstruídas.
-- Corrigidas falhas inequívocas do OCR inglês, em nomes e em referências identificáveis; conservadas como fornecidas as citações latinas, inclusive suas corrupções e separações, em itálico, para conferência posterior com a edição impressa.
-- Mantida a divisão da palavra “obediência” entre os parágrafos 51 e 53, com o aparato intercalado, assim como as interrupções das frases nos parágrafos 32–34, 53–55 e 56–57. Nos parágrafos 62–63, a divisão de “God Himself” foi acomodada à ordem portuguesa como “próprio Deus”, conservando-se no parágrafo 63 o fechamento da citação.
-- “Economic character”, nos parágrafos 38–39, foi traduzido por “caráter econômico”, no sentido contextual de ordenação a um fim particular. “Support”, no parágrafo 49, foi entendido como “suportar”, em oposição expressa a “desejar”.
-- Empregado “tu” nas palavras dirigidas ao discípulo individual, nas falas de Cristo a Santa Gertrudes e na promessa divina ao monge; conservado “vós” nas exortações aos ouvintes e no tratamento reverente de Deus. Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Conservados os 73 parágrafos desta chamada, inclusive as frases interrompidas, os cabeçalhos correntes, o número de página 280 e o aparato intercalado. Mantidas as dez chamadas de notas, cujas definições não constam do trecho recebido e não foram reconstruídas.
-- Corrigidas falhas inequívocas do OCR inglês e de referências identificáveis. Conservadas como fornecidas as citações latinas, inclusive suas corrupções e separações, em itálico; mantidos os fragmentos separados de “Abbatem suum sincera et humili caritate diligant” e o cabeçalho corrompido “EONUM OBEDIENTIA E”, para conferência com a edição impressa.
-- Mantidas as interrupções dos parágrafos 79–80, 83–85, 92–94, 98–101, 107–109, 112–114, 117–118, 122–124, 138–139 e 145–147, sem deslocar o aparato para recompor as frases.
-- No parágrafo 90, conservada a expressão histórica “raça inteiramente inferior”, como afirmação expressa da fonte. No parágrafo 129, mantido “por nossa própria escolha”, apesar da tensão com o contexto da obediência; a leitura inglesa requer conferência com a edição impressa.
-- No parágrafo 147, conservada a combinação, presente na fonte, do mercador com o tesouro encontrado no campo, sem harmonizar as parábolas por conjectura.
-- Empregado “tu” nas falas dirigidas ao discípulo individual, a Moisés e às santas, bem como na resposta divina iniciada no parágrafo 148; conservado “vós” nas exortações aos ouvintes e no tratamento reverente de Deus. Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Conservados os 37 parágrafos desta chamada, inclusive as 25 definições de notas, o cabeçalho corrente e o aparato intercalado no parágrafo 149, que interrompe a resposta divina iniciada na chamada anterior. Mantida a chamada `[^25]`.
-- Corrigidas falhas inequívocas do OCR inglês, em nomes, títulos e referências identificáveis; na nota 22, normalizada a leitura “xn, .is-14” para “12:13-14”. Conservadas as referências “Marcos 14:49” e “João 19:39”, sem emenda conjectural.
-- Conservadas como fornecidas as citações latinas, inclusive suas corrupções e separações, em itálico, para conferência com a edição impressa. Mantidos os números intercalados no corpo do texto e as repetições da numeração interna das notas 10 e 23.
-- O trecho de Santa Teresa foi traduzido do inglês recebido, conforme a fonte designada, conservando suas divisões e a interrupção entre os parágrafos 159 e 160. Não se recompôs a citação a partir do espanhol.
-- Empregado “tu” na continuação da resposta de Deus à alma no parágrafo 149; conservado “vós” nas exortações aos ouvintes e no tratamento reverente de Deus. Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Conservados os 94 parágrafos desta chamada, inclusive os fragmentos, o cabeçalho corrente, os resíduos de paginação e o aparato intercalado. Mantidas as catorze chamadas e definições de notas, sem redistribuição.
-- Corrigidas falhas inequívocas do OCR inglês, em nomes, títulos e referências identificáveis. Conservadas como fornecidas as citações latinas, inclusive suas corrupções e separações, em itálico, para conferência com a edição impressa.
-- No parágrafo 45, indicados os fragmentos sem leitura segura e a interrupção do aparato, sem recompor a frase; o parágrafo 72, inteiramente corrompido, foi indicado como “[trecho ilegível]”. Conservadas as leituras ambíguas “SO”, no parágrafo 63, “mcviii”, no parágrafo 61, e “xux”, no parágrafo 79; normalizado “3o” para “30” no parágrafo 64.
-- Mantidas as interrupções dos parágrafos 16–17, 21–22, 25–26, 31–32, 35–37 e 60–65. Nos parágrafos 31–32, a divisão de “with Me” foi acomodada à palavra portuguesa “comigo”, dividida entre os dois parágrafos.
-- Conservado o fragmento “mesmo” no início da nota 8, que continua o aparato intercalado do parágrafo 45, sem deslocamento; preservado também o algarismo final de “Colossenses 1:13.1” na nota 10.
-- Empregado “tu” nas palavras dirigidas à monja individual, na apóstrofe à natureza humana e à própria alma; conservado “vós” nas exortações aos ouvintes e no tratamento reverente de Deus. Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Conservados os 65 parágrafos desta chamada, inclusive o cabeçalho corrente, os fragmentos de frases e o aparato intercalado. Mantidas as dez chamadas de notas; suas definições não constam do trecho recebido e não foram reconstruídas.
-- Mantida no sumário a ausência do número IV antes das disposições para o Ofício, conforme a fonte. Preservadas as interrupções dos parágrafos 12–14, 20–21, 31–32, 46–52, 54–55 e 57–58, sem deslocamento do aparato.
-- No parágrafo 46, “you” em “as you do” foi entendido como referência à comunidade que celebra as Horas, adotando-se “vós”; no restante do conselho, conservaram-se as construções impessoais da fonte. Empregado “tu” nas apóstrofes à própria alma e ao discípulo individual; mantido “vós” nas exortações aos ouvintes e no tratamento reverente de Deus.
-- Mantida a continuação da nota sobre Madre Deleloe no parágrafo 49, inclusive sua interrupção da expressão “de seus Anjos”, retomada no parágrafo 52. Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Conservados os 38 parágrafos desta chamada, inclusive as quinze definições de notas e o aparato dos parágrafos 83–84, que interrompe a frase iniciada no parágrafo 82. Mantidas as cinco chamadas de notas.
-- Corrigidas falhas inequívocas do OCR inglês, em nomes, títulos e referências identificáveis. Conservadas como fornecidas as citações latinas, inclusive suas corrupções e separações, em itálico, para conferência posterior com a edição impressa.
-- Conservadas as leituras ambíguas “Salmos lviiix, 2”, “Ibid., xlxii, 25-26”, “pp. in, ss.” e “Romanos vxi, 29”; mantida também a referência “Romanos 7:26”, sem emenda conjectural.
-- Mantidos o parêntese sem fechamento da nota 1, a numeração intercalada “— 2. —” da nota 4 e os números de referências no corpo do texto, sem redistribuição.
-- Empregado “tu” nas palavras de Cristo a Santa Matilde, na carta de Santa Teresa e na apóstrofe de Bossuet à alma religiosa; conservado “vós” nas exortações aos ouvintes e no tratamento reverente de Deus. Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Conservados os 73 parágrafos desta chamada, inclusive os cabeçalhos correntes, os fragmentos bibliográficos e o aparato intercalado. Mantidas as doze chamadas de notas; suas definições não constam do trecho recebido e não foram reconstruídas.
-- Preservadas as interrupções dos parágrafos 30–31, 47–48, 52–53, 56–57, 62–63 e 70–71, bem como o aparato que interrompe as frases nos parágrafos 43 e 67, sem redistribuição.
-- Corrigidas falhas inequívocas do OCR inglês, em nomes, títulos e referências identificáveis. Mantidas as leituras bibliográficas ambíguas “1, II, ep. xu” e “Enchiridion sumbolorum”; conservadas como fornecidas as citações latinas, inclusive suas corrupções e separações, em itálico, para conferência com a edição impressa.
-- No parágrafo 10, mantida a afirmação de que Deus “criou a oração”, conforme o inglês recebido, sem emenda conjectural. Conservados os números de referências intercalados, inclusive a sequência “3 — 2 — 5” do parágrafo 72.
-- Empregado “tu” no conselho da monja beneditina ao discípulo individual e nas palavras dirigidas ao servo fiel; conservado “vós” nas exortações aos ouvintes e no tratamento reverente de Deus. Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Conservados os 78 parágrafos desta chamada, inclusive os cabeçalhos correntes, os fragmentos bibliográficos e o aparato intercalado. Mantidas as oito chamadas recebidas e as vinte definições de notas, sem redistribuição.
-- Preservadas as interrupções dos parágrafos 76–77, 87–89, 97–98, 101–107, 120–121 e 124–127, bem como o aparato intercalado nos parágrafos 93, 112 e 129. Mantida no parágrafo 129 a divisão de “alcançar” em torno do aparato.
-- Corrigidas falhas inequívocas do OCR inglês, em nomes, títulos e referências identificáveis. No parágrafo 103, indicados os fragmentos sem leitura segura; conservados “36x”, no parágrafo 89, os resíduos dos parágrafos 106 e 126, “xxir”, no parágrafo 76, e “cap. ix a lxxiii”, na nota 17, para conferência com a edição impressa.
-- Conservadas como fornecidas as citações latinas, inclusive suas corrupções e separações, em itálico. Mantidas as referências “Salmos 118:155”, “Lucas 19:26” e “Lucas 8:4”, sem emenda conjectural.
-- O trecho de Santa Teresa no parágrafo 131 foi traduzido do inglês recebido, conforme a fonte designada, sem reconstituição a partir do espanhol.
-- Empregado “tu” na pergunta de São Gregório ao discípulo individual e nas palavras de Oseias dirigidas à alma; conservado “vós” nas exortações aos ouvintes e no tratamento reverente de Deus. Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Conservados os 72 parágrafos desta chamada, inclusive os fragmentos de frases e o aparato intercalado. Mantidas as quinze chamadas de notas; suas definições não constam do trecho recebido e não foram reconstruídas.
-- Preservadas as interrupções dos parágrafos 5–6, 11–12, 20–21, 23–24, 29–30, 38–39, 55–56, 60–63 e 66–67, bem como o aparato intercalado nos parágrafos 42 e 45. No parágrafo 61, mantida a referência a Salmos 37 dividida antes dos versículos, que abrem o parágrafo 62.
-- Corrigidas falhas inequívocas do OCR inglês e dos números de chamadas identificáveis. No parágrafo 5, indicada a referência ilegível à Regra, sem reconstruí-la; no parágrafo 19, “interrupted chain” foi entendido como corrupção de “uninterrupted chain” e traduzido por “cadeia ininterrupta”, conforme a imagem do encadeamento das graças.
-- Conservadas como fornecidas as citações latinas, inclusive suas corrupções e separações, em itálico. Mantida também a forma “jar niente” do parágrafo 22, para conferência com a edição impressa.
-- Conservadas as referências “Regra, cap. XLVIII”, no parágrafo 42, e “1 Coríntios 3:10”, no parágrafo 45, sem emenda pelo teor das citações. Não se completaram as referências ausentes do aparato deste último parágrafo.
-- “Support God”, no parágrafo 57, foi traduzido por “suportar Deus”, conservando a expressão explicada imediatamente pelo próprio autor como aceitação de tudo o que Deus quer.
-- Empregado “tu” nas apóstrofes ao leitor singular, nas palavras dirigidas às santas e ao cristão individual, inclusive nas citações de Santa Teresa e Bossuet; conservado “vós” nas exortações aos ouvintes, na fala de Cristo à comunidade e no tratamento reverente de Deus. Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Conservados os 34 parágrafos desta chamada, inclusive o título, as dezenove definições de notas e o aparato no início do parágrafo 75, que interrompe a frase iniciada no parágrafo 74. Mantidas as quatro chamadas de notas, sem redistribuição.
-- Corrigidas falhas inequívocas do OCR inglês, em títulos e referências identificáveis. Conservadas as leituras ambíguas “X. 2 Timóteo 1, U”, no parágrafo 75, “Lucas ci, iq” e “Isaías un, 7”, na nota 13, e “Salmos CXV XX”, na nota 18, para conferência com a edição impressa.
-- Conservadas como fornecidas as citações latinas, inclusive suas corrupções e separações, em itálico. Mantida a numeração interna fragmentária da nota 9, sem acrescentar números ausentes.
-- Empregado “tu” nas palavras de Cristo a Santa Gertrudes, de Deus a Catarina de Sena e à alma individual; conservado “vós” nas exortações aos ouvintes e no tratamento reverente de Deus. Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Conservados os 82 parágrafos desta chamada, inclusive o cabeçalho corrente, os números de página 408 e 415 e o aparato intercalado. Mantidas as oito chamadas de notas; suas definições não constam do trecho recebido e não foram reconstruídas.
-- Preservadas as interrupções dos parágrafos 18–21, 26–28, 38–40, 48–50, 67–69, 74–76 e 79–80, assim como o aparato que interrompe os parágrafos 11, 16, 35 e 53. Mantida a ausência de um título III antes da exposição sobre a paciência.
-- No parágrafo 2, separada por pontuação a fórmula latina final do sumário e o início da exposição, aglutinados pelo OCR. Corrigidas falhas inequívocas do inglês, de nomes e de referências identificáveis; conservadas como fornecidas as citações latinas, inclusive suas corrupções e separações, em itálico.
-- Indicadas as partes sem leitura segura do aparato dos parágrafos 27 e 53, sem reconstrução conjectural. Conservadas as referências “Gênesis 30:13”, “Mateus 11:20”, “Lucas 24:24”, “Colossenses 3:41-15”, “1 João 16:16” e “João 17:22-33”, para conferência com a edição impressa.
-- No parágrafo 54, “official charity” foi traduzido por “caridade oficial”, conservando-se o provérbio inglês em tradução literal; o contexto explicita a crítica à caridade meramente formal.
-- O trecho de Santa Teresa no parágrafo 76 foi traduzido do inglês recebido, mantendo-se o acréscimo entre colchetes da fonte.
-- Empregado “tu” nas palavras dirigidas a Agostinho de Cantuária, a Martírio, às santas e ao discípulo individual; conservado “vós” nas exortações aos ouvintes e no tratamento reverente de Deus. Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Conservados os 62 parágrafos desta chamada, inclusive os fragmentos, o cabeçalho corrente, a transição para a conferência XVIII e as onze definições de notas. Mantidas as três chamadas de notas e o aparato intercalado.
-- Preservadas as interrupções dos parágrafos 88, 90–92, 95–99, 104 e 106–108, bem como a continuação do aparato de Santa Teresa no parágrafo 116, sem deslocamento. Nos parágrafos 96–99, traduzidos os trechos reconhecíveis e indicadas as partes sem leitura segura, sem reconstruir palavras ausentes.
-- Corrigidas falhas inequívocas do OCR inglês, de nomes, títulos e referências identificáveis. Conservadas as leituras “cap. xxxttt”, no parágrafo 88, “P. L. 118, 420”, no parágrafo 107, e “Colossenses 3:35”, na nota 9, para conferência com a edição impressa.
-- Conservadas como fornecidas as citações latinas, inclusive suas corrupções e separações, em itálico. Mantida a referência histórica a vinte e três Doutores da Igreja como afirmação da edição, sem atualização.
-- No parágrafo 114, “to tear God” foi entendido como corrupção inequívoca de “to fear God” e traduzido por “temer a Deus”. No parágrafo 132, conservada a formulação “nossos próprios atos ou aos do público”, cuja leitura inglesa requer conferência com a edição impressa.
-- Os trechos de Santa Teresa foram traduzidos do inglês recebido. Conservado “vós” nas exortações aos ouvintes, às irmãs e aos noviços e no tratamento reverente de Deus; empregado “tu” nas palavras de Cristo à samaritana. Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
-- Conservados os 79 parágrafos da conferência XVIII e os 18 do Prefácio, inclusive as oito chamadas e definições de notas, o cabeçalho corrente, o número de página VIII e o aparato intercalado. Mantidas as interrupções dos parágrafos 25–26, 27–28, 33–34, 60–61, 65–66 e 68 da conferência, bem como 4–5 e 8–9 do Prefácio.
-- Corrigidas falhas inequívocas de OCR no inglês, nos nomes e nas referências identificáveis. No parágrafo 34 da conferência, traduzido o início danificado por “por Cristo”, conforme a continuação sintática; no parágrafo 35, recuperada a pergunta que introduz a seção II, sem acrescentar marcação de título ausente da fonte.
-- No parágrafo 16, recuperada a caracterização “virgiliana” da vida monástica e traduzida integralmente a crítica do autor a Newman. Indicadas as referências sem leitura segura nos parágrafos 16, 26 e 31, sem reconstrução conjectural. Conservadas as leituras “Mateus xuc, 27”, no parágrafo 68, “q. XXXIX”, na nota 2, e “xx.xvn, 6”, na nota 6.
-- Conservadas como fornecidas as citações latinas, inclusive suas corrupções e separações, em itálico, para conferência com a edição impressa. Mantidos os números e fragmentos do aparato em seus lugares, inclusive “a. 1, ad 1; a.” no parágrafo 68.
-- O Prefácio foi traduzido do inglês recebido, conforme a fonte designada. Sua nota final permanece numerada “1.”, sem criação de chamada ausente, e a data foi normalizada para “11 de julho de 1922”.
-- Conservado “vós” nas exortações aos ouvintes, nas palavras de Cristo à comunidade e no tratamento reverente de Deus; empregado “tu” na citação dirigida ao discípulo individual e na invocação ao Amor de Santa Gertrudes. Não foram acrescentadas notas do tradutor, dado o aparato abundante da edição.
+- Traduzido o capítulo I a partir do inglês recebido, conforme a fonte explicitamente indicada para esta obra.
+- Conservados os 149 parágrafos da fonte, incluindo cabeçalhos e as 66 definições de notas, na mesma ordem; não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Empregado “vós” nas exortações dirigidas à comunidade de monges e no tratamento reverente de Deus; mantido “tu” na fala de Deus à alma e nas demais interpelações singulares.
+- Traduzido “in an inamissible manner” por “de maneira que já não o possamos perder”, para conservar o sentido teológico com sintaxe corrente.
+- Traduzido “regular life” por “vida regular”, no sentido religioso de vida regida pela Regra; “the Saint of Assisi” permanece “o Santo de Assis”.
+- Mantidos em itálico o grego e as citações latinas, inclusive as formas aparentemente defeituosas do OCR “donee” na nota 41 do texto e “jacta” na definição da nota 45.
+- Conservadas as anomalias das referências recebidas: “I Matth.” na nota 3 tornou-se “1 Mateus”; “Thess. v, 25” na nota 29 tornou-se “Tessalonicenses 5:25”, sem acrescentar o número da epístola nem corrigir o versículo; “I, xv” na referência de *De Trinitate* da nota 66 foi mantido como “I, XV”. Exigem conferência editorial posterior.
+- Nas referências bíblicas, os algarismos romanos de capítulos foram convertidos em arábicos e empregados dois-pontos entre capítulo e versículo; mantida a numeração dos Salmos da fonte.
+- Na nota 45, a citação latina permanece sem tradução acrescentada, pois a fonte não a fornece. Os títulos bibliográficos em língua vernácula foram traduzidos; títulos latinos conservados.
+- O `book.json` recebido já contém todas as entradas pt-BR e o idioma em `languages`; foi reproduzido integralmente, sem alterações.
+- Conservados os 93 parágrafos deste trecho do capítulo II, incluindo o título e os cinco cabeçalhos de seção, com todos os marcadores de notas de 1 a 136; as definições não fazem parte do trecho recebido. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Traduzido “absolute tradition of the whole of ourselves” por “entrega absoluta de todo o nosso ser”, pois “tradition” tem aqui o sentido de entrega, não de tradição.
+- No parágrafo 15, interpretado “Who was merited for us” como lapso por “Who has merited for us”, traduzindo “que nos mereceu”, conforme a construção e o argumento.
+- No parágrafo 45, conservada a formulação inglesa “He prays that He may be with Him” em “Pede para estar com Ele”, apesar da discordância com o latim subsequente, *Ut illi sint mecum*. A anomalia exige conferência editorial.
+- Conservadas integralmente as formas das citações latinas recebidas, inclusive “quid loquor”, no parágrafo 22, e “conformes fieri imaginis Filii sui”, no parágrafo 66; não se harmonizaram as diferenças entre citações latinas e inglesas.
+- Traduzidas integralmente as 136 definições de notas reunidas no parágrafo 94 do capítulo II, conservando sua ordem e numeração; não foram acrescentadas notas do tradutor.
+- Na nota 8, “III Reg.” foi vertido como “3 Reis”, conservando a numeração histórica dos livros dos Reis empregada pela fonte.
+- Conservados sem tradução acrescentada os trechos latinos das notas 56 e 62, pois a fonte não fornece tradução; mantidas as abreviaturas latinas dos títulos de São Gregório.
+- Conservados os títulos dos periódicos *Revue Bénédictine* e *La Vie Spirituelle*; traduzidos os títulos vernáculos de livros e artigos. Mantida a remissão à página 36 na nota 74, conforme a edição de origem.
+- Conservados os 90 parágrafos deste trecho do capítulo III, incluindo o título, o sumário e os sete cabeçalhos de seção, com todos os marcadores de notas de 1 a 138; suas definições não integram o trecho recebido. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Traduzido “discretion” por “discrição”, no sentido monástico explicitamente definido nos parágrafos 52–56; “power of discretion”, no parágrafo 89, tornou-se “discernimento”, conforme a função da expressão na frase.
+- Corrigido na tradução o lapso evidente “ojin”, no parágrafo 88, entendido como “join”: “una”.
+- Conservadas as formas latinas recebidas, inclusive “sapientia doctrina”, “Miscens temporibus tempora terroribus blandimenta”, “Sic omnia temperet ut sit et fortes quod cupiant” e “Paena”; não foram corrigidas possíveis anomalias da fonte.
+- No parágrafo 82, mantida a ausência de “Evangelho” na citação inglesa traduzida, embora a palavra figure no latim subsequente; não se harmonizaram as duas formulações.
+- No parágrafo 89, conservado o francês *parti-pris*, expressão que designa uma posição preconcebida.
+- Conservados os 153 parágrafos finais do capítulo III: sete parágrafos de texto e as 146 definições de notas, na mesma ordem e com a numeração integral. Não foram acrescentadas notas do tradutor.
+- No parágrafo 91, “absolute tradition” foi traduzido por “entrega absoluta”, conforme a decisão anterior para a mesma expressão; conservada a distinção entre “matéria” e “forma” da perfeição.
+- Conservados sem tradução acrescentada os trechos latinos das notas 59, 113 e 121, pois a fonte não fornece tradução; preservados também os títulos latinos.
+- Na nota 55, conservada a designação litúrgica histórica “Semana da Paixão”. Na nota 46, mantida a remissão abreviada aos capítulos IX e LXXIII, sem acrescentar o título da obra omitido pela fonte.
+- Conservados os 89 parágrafos deste trecho do capítulo IV, incluindo título, sumário, seis cabeçalhos de seção e a nota complementar da edição, com todos os marcadores de notas de 1 a 84; suas definições não integram o trecho recebido. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Conservada em latim a expressão jurídica *patria potestas*, cujo sentido de autoridade paternal é desenvolvido pelo próprio autor.
+- No parágrafo 23, “in Himself” foi vertido como “em si mesmo”, referido a Deus; “adequate goal” tornou-se “meta plena”, no sentido de finalidade suficiente e abrangente da vida monástica.
+- No parágrafo 57, desconsiderado o lapso evidente “do it not let it be supposed”, traduzindo seu sentido inequívoco por “não se suponha”; igualmente corrigidos na tradução os lapsos tipográficos “individed”, “breath”, “wshes”, “noti” e “althought hese”.
+- Conservadas as remissões às páginas 82, 92 e 495 da edição, sem adaptação à paginação digital; as citações latinas foram mantidas integralmente, sem harmonização com as traduções inglesas.
+- Conservados os 84 parágrafos finais do capítulo IV, correspondentes às definições das notas 1–84, na mesma ordem e com a numeração integral. Não foram acrescentadas notas do tradutor.
+- Conservados sem tradução acrescentada os trechos latinos das notas 4 e 79, pois a fonte não fornece tradução; mantido também o título latino da nota 76.
+- Na nota 19, corrigido o lapso evidente “this monks”, traduzido como “seus monges”; na nota 78, o versículo em algarismos romanos foi convertido para a forma “Salmo 130:6”.
+- Conservados os 179 parágrafos do capítulo V, incluindo título, epígrafe, sumário, cinco cabeçalhos de seção e as 96 definições de notas, com todos os marcadores na ordem recebida. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Conservadas integralmente as formas latinas recebidas, inclusive “Quot natum est ex carne”, “susceptionum”, “cunciamque” e “Haec locutus vobis”, sem correção nem harmonização com as traduções inglesas.
+- Mantidas as referências aparentemente anômalas da fonte: Jó 10:5 na nota 27; “1 Ibid., 5:4-5” na nota 39; Gálatas 3:25 na nota 62; Mateus 16:15 na nota 76; João 5:4 na nota 77; e “Ibid., 1:5” na nota 82. Exigem conferência editorial posterior.
+- Mantida na nota 86 a atribuição à *Vida, pelo Bem-aventurado Raimundo*, embora o texto apresente a passagem como pertencente ao *Diálogo* de Santa Catarina.
+- No parágrafo 65, preservada a distinção argumentativa entre viver “da fé” (*EX fide*) e viver “com a fé” (*CUM fide*); no parágrafo 78, “inamissible” foi traduzido por “que já não se pode perder”, conforme a decisão anterior.
+- No parágrafo 72, corrigido na tradução o lapso evidente “of bring back”, entendido como “of bringing back”; no parágrafo 79, restabelecido o ponto ausente depois de “Christ”.
+- Conservados os 122 parágrafos do capítulo VI, incluindo título, sumário, cinco cabeçalhos de seção e as 62 definições de notas, com todos os marcadores na ordem recebida. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Traduzido “tradition” por “entrega” nos parágrafos 30 e 56, conforme a decisão anterior para essa acepção.
+- Conservadas integralmente as formas latinas recebidas, inclusive “ad aratum” no parágrafo 9, “ut faciam voluntatem tuam! Deus meus volui” no parágrafo 22 e “Ut se aliquando aliter fecerit” no parágrafo 51, sem harmonização com as citações inglesas.
+- Mantidas as referências aparentemente anômalas “Mateus 20:27” na nota 31 e “João 6:58” na nota 35, bem como “p. XXXIX” na referência de Migne da nota 61. Exigem conferência editorial posterior.
+- Na nota 25, interpretada a abreviatura “I Parab.” como lapso evidente por “I Paral.”, vertida como “1 Paralipômenos 29:17”.
+- Conservados sem tradução acrescentada os trechos latinos da nota 61, pois a fonte não fornece tradução; traduzida integralmente a explicação editorial sobre o sentido de “martírio”.
+- Conservados os 76 parágrafos deste trecho do capítulo VII, incluindo título, sumário e seis cabeçalhos de seção, com todos os marcadores de notas de 1 a 72; suas definições não integram o trecho recebido. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Traduzidos “ascetic industry” e “ascetical industry” por “trabalho ascético”, e “mainspring” conforme o contexto por “impulso” ou “motivação”.
+- Conservadas integralmente as formas latinas recebidas, inclusive “Non illico favore perterritus refugias viam salutis” no parágrafo 37, sem correção nem harmonização com a tradução inglesa.
+- No parágrafo 64, explicitado “a vida interior” como referente de “the first”, conforme a comparação subsequente entre alma e corpo.
+- Mantido o tratamento singular “tu” na exortação do parágrafo 37 e na fala de Cristo à Bem-aventurada Bonomo no parágrafo 70; empregado “vós” nas interpelações à comunidade e nas orações dirigidas a Deus.
+- Conservados os 135 parágrafos finais do capítulo VII, incluindo o cabeçalho de seção e as 106 definições de notas, na mesma ordem e com a numeração integral. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Traduzido “aggression”, no parágrafo 92, por “enfrentar”, em correspondência com *aggredi*, e “endurance” por “capacidade de suportar”, preservando a distinção entre os dois atos da fortaleza.
+- Mantidas as referências recebidas “Lucas 6:11” na nota 73 e “Regra, cap. LXXII” na nota 83; na nota 100, conservada a ausência do nome do livro bíblico em “22:28-29”. Exigem conferência editorial posterior.
+- Conservados sem tradução acrescentada os trechos latinos das notas 6 e 33, pois a fonte não fornece tradução; traduzida a indicação litúrgica abreviada da nota 106.
+- Conservada no parágrafo 105 a formulação inglesa da oração, sem harmonizá-la com o latim subsequente; mantida também a remissão à página 59 da edição na nota 57.
+- Conservados os 77 parágrafos deste trecho do capítulo VIII, incluindo título, sumário e os seis cabeçalhos de seção, com todos os marcadores de notas na ordem recebida, inclusive a repetição de `[^5]` no parágrafo 38. As definições das notas não integram o trecho recebido. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Conservadas integralmente as formas latinas recebidas, inclusive “recesser as” e “corner sio” no parágrafo 3, sem correção nem harmonização com as traduções inglesas.
+- No parágrafo 38, conservado e traduzido o fragmento bibliográfico “of pardon for her disciple. Life of Catherine by Bl. Raymund of Capua. 1“ Part., ch. ix.”, aparentemente intercalado por erro de OCR na oração latina. Mantida a interrupção entre “Aufer a nobis, quaesumus” e “Domine, iniquitates nostras”, que abre o parágrafo 39; a passagem exige conferência editorial.
+- No parágrafo 76, conservada a descontinuidade de “for it... the forgiveness of sins”, vertida por “pois ele... o perdão dos pecados”, sem reconstruir palavras ausentes.
+- No parágrafo 22, corrigido o lapso evidente “sm”, entendido como “sin”, traduzido por “pecado”.
+- Mantido “tu” nas falas entre o filho pródigo e seu pai, nas interpelações bíblicas singulares e nas palavras de Deus a Satanás; empregado “vós” nas exortações à comunidade e no tratamento reverente de Deus.
+- Conservados os 101 parágrafos finais do capítulo VIII: onze parágrafos de texto e as 90 definições de notas, na mesma ordem e com a numeração integral. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Conservado sem tradução acrescentada o trecho latino da nota 59, pois a fonte não fornece tradução; mantida a referência inicial a “Salmo 135”, apesar das referências subsequentes ao Salmo 136.
+- Na nota 26, traduzido integralmente o relato sobre a “bula de perdão”, que esclarece o fragmento bibliográfico intercalado no parágrafo 38 do trecho anterior; não se alterou retroativamente aquele parágrafo.
+- Corrigidos na tradução os lapsos evidentes de pontuação nos parágrafos 81, 84 e 88 e o lapso verbal “make” no parágrafo 86; mantida a interrogação ao final da fala citada no parágrafo 79.
+- Mantido “tu” nas falas de Cristo à alma nos parágrafos 79 e 81; empregado “vós” nas exortações à comunidade e no tratamento reverente de Deus.
+- Conservados os 135 parágrafos do capítulo IX, incluindo título, sumário, cinco cabeçalhos de seção e as 66 definições de notas, na mesma ordem e com todos os marcadores. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Conservadas as formas latinas recebidas, inclusive “Pontifcx” no parágrafo 9, “Scandalorum spinea” e “sclis” no parágrafo 39 e “PROPRI VOLUNTATE” no parágrafo 48; mantidas também as maiúsculas de ênfase, com o latim em itálico.
+- Corrigidos na tradução os lapsos evidentes “unde”, “sensitive native”, “will will”, “wether”, “oniy” e “me must”, bem como omissões evidentes de pontuação.
+- Na nota 18, interpretada a abreviatura “Co.” como Colossenses, conforme o texto citado. Mantidas as referências aparentemente anômalas “Salmo 26:41” na nota 36, “1 Coríntios 9:7” na nota 50 e “Mateus 15:16” na nota 57; exigem conferência editorial posterior.
+- Conservado sem tradução acrescentada o trecho latino da nota 62, pois a fonte não fornece tradução; mantidas as remissões às páginas 143 e 319 da edição.
+- No parágrafo 66, regularizadas as aspas do diálogo; mantido “tu” nas palavras de Cristo a Santa Matilde e “vós” na invocação reverente ao Amor divino.
+- Conservados os 151 parágrafos do capítulo X, incluindo título, sumário, cinco cabeçalhos de seção e as 86 definições de notas, na mesma ordem e com todos os marcadores. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- No parágrafo 18, conservado “detachment” como “desapego”, embora o contexto pareça exigir “attachment” (“apego”); a anomalia exige conferência editorial.
+- No parágrafo 51, traduzido “distinctive from His Person” por “distintivo de sua Pessoa”, conforme a explicação subsequente do atributo pessoal do Pai.
+- No parágrafo 59, fechado o itálico ao final da oração latina, cujo marcador de fechamento falta na fonte, para não incluir no latim a exposição inglesa subsequente. Colocados integralmente em itálico os trechos latinos dos parágrafos 5 e 35.
+- Mantidas as referências aparentemente anômalas “Mateus 19:27” na nota 4, “Mateus 13:6” na nota 40, “João 4:10” na nota 53, “Salmo 144:16” na nota 58 e “João 6:58” na nota 78; conservada também a forma bibliográfica “I, II c. CXXVIII, XXIX” na nota 30. Exigem conferência editorial posterior.
+- Conservado sem tradução acrescentada o trecho latino da nota 24, pois a fonte não fornece tradução. Mantida na nota 73 a referência sem nome de livro bíblico.
+- Mantido “tu” na interpelação singular do parágrafo 17 e nas palavras de Cristo ao jovem; empregado “vós” nas exortações à comunidade e no tratamento reverente de Deus.
+- Conservados os 62 parágrafos deste trecho do capítulo XI, incluindo título, sumário e quatro cabeçalhos de seção, com todos os marcadores de notas de 1 a 91; suas definições não integram o trecho recebido. Preservada a quebra da frase entre os parágrafos 7 e 8. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Conservadas integralmente as formas latinas recebidas, inclusive “omnihora” no parágrafo 59 e as diferenças entre “quasi non sint” e “quasi non sunt” nos parágrafos 47 e 49; mantidas as maiúsculas de ênfase, com todo o latim em itálico.
+- No parágrafo 38, conservada a formulação incomum “predisposes and contains” como “predispõe e contém”; no parágrafo 49, interpretado “this omniscient” como referência à onisciência divina, traduzindo “dessa onisciência”.
+- Mantido “tu” nas interpelações singulares de Santo Agostinho e São Paulo; empregado “vós” nas exortações à comunidade e no tratamento reverente de Deus.
+- Conservados os 117 parágrafos deste trecho do capítulo XI, incluindo seis cabeçalhos de seção e as definições das notas 1–58, com todos os marcadores na ordem recebida. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Colocadas integralmente em itálico as citações latinas, inclusive as palavras em maiúsculas de ênfase que estavam fora dos delimitadores; conservadas suas formas recebidas, sem harmonização com as traduções inglesas.
+- No parágrafo 70, corrigidos os lapsos evidentes “sestige” e “seirvant”, traduzidos como “vestígio” e “servo”; corrigidos igualmente “having see” no parágrafo 91, “supematurally” no parágrafo 116 e o ponto indevido em “highest. heavens” no parágrafo 120.
+- No parágrafo 114, integrada à mesma frase a enumeração fragmentária “His reverence towards His Father, and submission to His Father's Will”, conservando seus elementos e o parágrafo único.
+- Conservados sem tradução acrescentada os trechos latinos das notas 25 e 42, pois a fonte não fornece tradução; mantida a forma anômala “iiv” na nota 40 e a referência “Epist., 983” na nota 47, para conferência editorial.
+- Na nota 13, mantida a referência “Pedro 5:5” sem acrescentar o número da epístola, ausente na fonte; conservada também a forma bibliográfica “3. 2.”; fechado na nota 23 o parêntese que a fonte deixa aberto.
+- No parágrafo 106, conservada a explicação parentética “atos de humildade” como inserção entre colchetes dentro da citação. Mantido “tu” na interpelação singular de Cristo no parágrafo 119 e “vós” nas exortações à comunidade e no tratamento reverente de Deus.
+- Conservados os 99 parágrafos finais do capítulo XI, correspondentes às definições das notas 59–157, na mesma ordem e com a numeração integral. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Conservados sem tradução acrescentada os trechos latinos das notas, pois a fonte não fornece tradução; colocadas também em itálico as expressões latinas em maiúsculas da nota 138.
+- Na nota 68, conservada a numeração romana anômala “xcliv” em “Salmo xcliv:16”, sem conjecturar sua correção; na nota 147, mantida a sequência bibliográfica “13, 1, cap. 30”. Exigem conferência editorial posterior.
+- Na nota 101, conservadas a expressão temporal “atualmente em vigor” e a remissão ao cân. 530 como afirmações históricas da edição de 1926, sem atualização da legislação citada.
+- Conservados os 66 parágrafos deste trecho do capítulo XII, incluindo título, sumário e sete cabeçalhos de seção, com todos os marcadores das notas 1–84 na ordem recebida; suas definições não integram o trecho. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Conservadas integralmente as formas latinas recebidas, inclusive “donee” no parágrafo 11 e os colchetes de “[est]” no parágrafo 3 e “[Abbas]” no parágrafo 51, sem harmonização com as formulações inglesas.
+- No parágrafo 32, conservado “caráter econômico”, no sentido de ordenação instrumental da obediência a uma obra específica, explicado pelo próprio texto; no parágrafo 66, traduzido “tradition” por “entrega”, conforme as decisões anteriores.
+- Corrigidos na tradução os lapsos evidentes “Of cause”, no parágrafo 32, e “perceive th”, no parágrafo 38, e regularizada a pontuação, inclusive a aspa excedente depois da resposta de Cristo no parágrafo 46.
+- Mantido “tu” nas interpelações singulares, nas palavras de Cristo a Santa Gertrudes e na resposta de Deus ao monge no parágrafo 59; empregado “vós” nas exortações à comunidade e no tratamento reverente de Deus.
+- Conservados os 119 parágrafos deste trecho do capítulo XII, incluindo os cinco cabeçalhos de seção, a nota complementar e as definições das notas 1–60, com todos os marcadores na ordem recebida. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Conservadas integralmente as formas latinas recebidas, inclusive “forlasse” na nota 36 e a referência bibliográfica “P. L. 76, 12,3”; mantidas também as referências “Marcos 14:49” e “João 19:39” nas notas 17 e 20, para conferência editorial.
+- No parágrafo 74, conservada a expressão histórica “raça inteiramente inferior”, sem atenuar a formulação da fonte. No parágrafo 100, mantido “por nossa própria escolha” na citação de Blósio, apesar da tensão com a oposição subsequente entre obediência e vontade própria.
+- Traduzida a citação de Santa Teresa dos parágrafos 122–125 a partir do inglês fornecido, conforme a fonte desta chamada; mantida a atribuição à tradução espanhola de David Lewis como informação bibliográfica da edição.
+- No parágrafo 124, empregado “minhas filhas”, conforme o destinatário feminino da exortação de Santa Teresa; mantido “tu” nas falas singulares de Deus, “vós” nas exortações à comunidade e no tratamento reverente de Deus.
+- Mantidas as remissões às páginas 261, 280 e 223 da edição e a aspa de fechamento sem abertura correspondente no parágrafo 83; regularizada a pontuação nos demais trechos, inclusive os lapsos evidentes dos parágrafos 85 e 105.
+- Conservados os 101 parágrafos finais do capítulo XII, correspondentes às definições das notas 61–161, na mesma ordem e com a numeração integral. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Conservados sem tradução acrescentada os trechos latinos das notas 124, 127, 132, 156 e 159, pois a fonte não fornece tradução; mantida a numeração histórica dos livros dos Reis nas notas 141 e 142.
+- Na nota 100, conservado “século XVIII” no título bibliográfico recebido, sem conjecturar correção; a indicação exige conferência editorial.
+- Na nota 111, mantido “tu” na interpelação inicial a Santa Catarina e empregado “vós” nas referências à salvação e à visão pela fé, entendidas como dirigidas ao conjunto dos fiéis. Preservada a afirmação recebida de que a fidelidade de Cristo lhe obteve a visão, sem reformulação doutrinal.
+- Na nota 156, “talents” foi traduzido por “talentos”, conservando a imagem monetária desenvolvida pela fonte.
+- Conservados os 66 parágrafos recebidos do capítulo XIII, incluindo título, sumário, seis cabeçalhos de seção e o bloco final com as 91 definições de notas, na mesma ordem e com todos os marcadores. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Conservadas integralmente as formas latinas recebidas, inclusive “rondum” na nota 83; colocadas em itálico também as palavras latinas em maiúsculas de ênfase.
+- Mantidas a referência “João 6:58” na nota 25 e a divergência entre o inglês e o latim no parágrafo 53 quanto ao escabelo santo e à santidade do Senhor; não se harmonizaram as formulações.
+- No parágrafo 43, conservado “cold and light” como “frio e luz”, sem conjecturar correção. No parágrafo 64, regularizado o ponto indevido entre “loves us” e “Who has chosen us”.
+- Conservado sem tradução acrescentada o trecho latino da nota 83, pois a fonte não fornece tradução; mantida a designação litúrgica histórica “festa da Circuncisão” na nota 23.
+- Mantido “tu” na fala de Santa Maria Madalena de Pazzi à monja, na apóstrofe à natureza humana e na interpelação do Salmista à própria alma; empregado “vós” nas exortações à comunidade e no tratamento reverente de Deus.
+- Conservados os 58 parágrafos deste trecho do capítulo XIV, incluindo título, sumário e cinco cabeçalhos de seção, com todos os marcadores das notas 1–93 na ordem recebida; suas definições não integram o trecho. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Mantida no sumário a ausência do número IV antes das disposições para o Ofício, conforme a fonte, embora o cabeçalho IV apareça no corpo do texto.
+- Conservadas integralmente as formas latinas recebidas, inclusive “qui tecum vivum et regnat” no parágrafo 15 e “Quid mihi est in caelo et, a te, quid volui super terram” no parágrafo 14; colocados integralmente em itálico também os trechos latinos cujos delimitadores eram parciais.
+- Regularizada a pontuação nos parágrafos 12, 30, 44, 46 e 49; corrigido o lapso evidente “say us” no parágrafo 44, sem alteração do sentido.
+- No parágrafo 40, empregado “vós” na referência de Cristo ao modo como os religiosos recitam as Horas, entendida como plural; no parágrafo 46, mantido “tu” na fala de Cristo à irmã Matilde e “vós” na resposta reverente da religiosa.
+- Conservados os 123 parágrafos finais do capítulo XIV, incluindo o cabeçalho de seção e as 107 definições de notas, na mesma ordem e com todos os marcadores. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Mantidas as numerações romanas anômalas “lviiix” e “xlxii” nas notas 13 e 28, sem conjecturar correção; conservadas também as referências “Romanos 7:29” e “Romanos 7:26” nas notas 43 e 48. Exigem conferência editorial posterior.
+- Conservados sem tradução acrescentada os trechos latinos das notas 4, 59, 75, 83 e 97, pois a fonte não fornece tradução; na nota 4, colocado todo o texto latino em itálico e mantida a abertura de parêntese sem fechamento.
+- No parágrafo 73, corrigido o lapso evidente “do out utmost”, traduzindo “fazer todo o possível”. No parágrafo 59, “translate our adoration” foi vertido por “exprimimos nossa adoração”, conforme a acepção contextual.
+- Mantido “tu” nas palavras de Cristo a Santa Matilde e na apóstrofe de Bossuet à alma religiosa; empregado “vós” nas exortações à comunidade, na carta de Santa Teresa e no tratamento reverente de Deus.
+- Conservados os 67 parágrafos deste trecho do capítulo XV, incluindo título, sumário e cinco cabeçalhos de seção, com todos os marcadores das notas 1–68 na ordem recebida; suas definições não integram o trecho. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Conservadas integralmente as formas latinas recebidas, inclusive “cotidie in orationi” no parágrafo 12, “spirans minarum” no parágrafo 30 e “sapida” no parágrafo 58, sem harmonização com as formulações inglesas. No parágrafo 60, restabelecido o delimitador inicial de itálico de “Verba Christi spiritus et vita sunt”.
+- No parágrafo 8, conservada a formulação “Deus, que criou a oração”, correspondente a “God Who created prayer”, sem conjecturar alteração; a passagem exige conferência editorial.
+- No parágrafo 28, mantido o nome “quakers” e traduzida integralmente a descrição histórica e a explicação etimológica dadas pelo autor, sem atualização.
+- Corrigidos na tradução os lapsos evidentes “giving of of” no parágrafo 4, “when he say” no parágrafo 39 e “makes eternal life consists” no parágrafo 44; regularizadas as aspas e a pontuação.
+- Mantido “tu” nas palavras dirigidas ao servo no parágrafo 5; empregado “vós” nas exortações à comunidade, nas palavras divinas do parágrafo 26 e no tratamento reverente de Deus.
+- Conservados os 188 parágrafos finais do capítulo XV, incluindo os quatro cabeçalhos e as 145 definições de notas, na mesma ordem e com todos os marcadores. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Conservadas integralmente as formas latinas recebidas, inclusive “distollit” no parágrafo 82, a vírgula em “Dominus, vester” no parágrafo 102 e “Anima mea sicut terra sine aquat ibi” no parágrafo 106, sem correção nem harmonização com as formulações inglesas.
+- Mantidas as referências aparentemente anômalas “Salmo 118:155” na nota 129, “Lucas 12:26” na nota 135 e “Lucas 8:4” na nota 141; conservada também a remissão “cap. IX a LXXIII” na nota 95. Exigem conferência editorial posterior.
+- Conservados sem tradução acrescentada os trechos latinos das notas 42, 68 e 115, pois a fonte não fornece tradução; mantida a remissão à página 353 no cabeçalho da nota complementar.
+- No parágrafo 72, conservada integralmente a afirmação de que a alma deixa de lado até o que as verdades reveladas dizem de Deus; traduzida também a nota complementar que esclarece o lugar da Sagrada Humanidade na contemplação.
+- Regularizadas as aspas e a pontuação, inclusive a aspa indevida antes de “love” no parágrafo 73 e a ausência de separação entre orações nos parágrafos 102 e 105.
+- Mantido “tu” nas palavras de Deus à alma no parágrafo 74 e na interpelação de São Gregório no parágrafo 86; empregado “vós” nas exortações à comunidade e no tratamento reverente de Deus.
+- Conservados os 60 parágrafos recebidos do capítulo XVI, com todos os marcadores das notas 1–74; suas definições não integram o trecho. Mantido “## IV” no fim do parágrafo 41, na posição recebida, sem criar um parágrafo adicional. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Conservadas integralmente as formas latinas recebidas, inclusive “faccere” no parágrafo 10 e “perfecta[m]” no parágrafo 24, sem harmonização com as formulações inglesas.
+- No parágrafo 16, conservado “interrupted chain” como “cadeia interrompida”, sem conjecturar “ininterrupta”; a passagem exige conferência editorial.
+- No parágrafo 48, traduzido “support God” por “suportar Deus”, mantendo a formulação incomum e a explicação que o próprio autor fornece.
+- Corrigidos os lapsos evidentes “reel” no parágrafo 51, entendido como “feel”, e “command” no parágrafo 54, entendido como “commend”; regularizadas as aspas e a pontuação, inclusive o marcador de itálico indevido antes da última fala de Cristo no parágrafo 54.
+- Mantido “tu” nas interpelações singulares, nas palavras de Cristo a Santa Gertrudes e na exortação de Bossuet ao cristão; empregado “vós” nas exortações à comunidade, na citação de Santa Teresa e no tratamento reverente de Deus.
+- Conservados os 97 parágrafos finais do capítulo XVI, incluindo o cabeçalho de seção e as 84 definições de notas, na mesma ordem e com todos os marcadores. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Mantida a referência anômala “Lucas 101:19” na nota 63, correspondente a “Luc. CI, 19”, sem conjecturar correção; exige conferência editorial.
+- No parágrafo 68, corrigido o lapso evidente “science o the saints”, traduzido por “ciência dos santos”; regularizadas as aspas e a pontuação.
+- Mantido “tu” nas palavras de Cristo a Santa Gertrudes, na fala divina a Catarina de Sena e na resposta de Deus à alma; empregado “vós” nas exortações à comunidade e no tratamento reverente de Deus.
+- Conservados os 84 parágrafos deste trecho do capítulo XVII, incluindo título, sumário e os sete cabeçalhos de seção, com todos os marcadores das notas 1–97 na ordem recebida; suas definições não integram o trecho. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Conservadas integralmente as formas latinas recebidas, inclusive “proximo sua”, no parágrafo 42, e “Non quae suae”, no parágrafo 43, sem harmonização com as traduções inglesas; colocadas em itálico também as palavras latinas em maiúsculas de ênfase e “patientissime”, no parágrafo 35.
+- No parágrafo 15, conservada a expressão “sentimento do dever cumprido”, correspondente a “sense of duty accomplished”; no parágrafo 36, mantido “tendem à caridade”, sem substituir pela formulação bíblica habitual.
+- Regularizadas as aspas e a pontuação, inclusive a aspa indevida no parágrafo 35, o ponto entre “incarnate” e “Our Lord” no parágrafo 44 e a ausência de ponto entre “meditation” e “All” no parágrafo 66.
+- No parágrafo 78, conservada a indicação histórica “século passado”, referida ao contexto da edição, sem atualização.
+- Mantido “tu” na interpelação ao dono do campo, nas palavras de São Gregório a Santo Agostinho de Cantuária e nas falas de Cristo ao monge, à alma e a Santa Gertrudes; empregado “vós” nas exortações à comunidade, na citação de Santa Teresa e no tratamento reverente de Cristo e de Deus.
+- Conservados os 150 parágrafos finais do capítulo XVII, incluindo o cabeçalho de seção, a nota complementar e as 121 definições de notas, na mesma ordem e com todos os marcadores. Preservada a frase interrompida entre os parágrafos 89 e 90. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Conservados sem tradução acrescentada os trechos latinos das notas 74, 78, 99 e 111, pois a fonte não fornece tradução; mantidas integralmente as demais citações latinas, inclusive as maiúsculas de ênfase.
+- Mantidas as referências aparentemente anômalas “Colossenses 3:41-15” na nota 54, “1 João 16:16” na nota 66 e “Colossenses 3:35” na nota 95; preservada também a sequência “cf. 32 a 1 Tessalonicenses 5:14” na nota 51. Exigem conferência editorial posterior.
+- Conservados o “3.” inicial da nota 86, a indicação bibliográfica “p. VII” na nota 108 e as remissões às páginas 420 e 72 da edição. Na nota 87, mantida a contagem histórica de vinte e três Doutores da Igreja, sem atualização.
+- No parágrafo 113, conservada a formulação “às nossas próprias ações ou às do público”, correspondente a “our own deeds or those of the public”, sem conjecturar alteração.
+- Mantido “tu” nas palavras dirigidas à samaritana e na fala de Deus a Santa Catarina de Sena; empregado “vós” nas exortações à comunidade, nas citações dirigidas a religiosos e no tratamento reverente de Deus.
+- Conservados os 138 parágrafos do capítulo XVIII, incluindo título, epígrafe, sumário, quatro cabeçalhos de seção e as 80 definições de notas, e os 16 parágrafos do Prefácio, incluindo sua nota. Não foram acrescentadas notas do tradutor, dada a abundância do aparato da edição.
+- Conservadas integralmente as formas latinas recebidas, inclusive “donee” no parágrafo 22, “Investigabiles” no parágrafo 47 e “vivit” no parágrafo 48 do capítulo XVIII; todas as citações latinas foram colocadas em itálico, inclusive as do Prefácio e da nota 71, sem tradução acrescentada onde a fonte não a fornece.
+- Mantidas as referências aparentemente anômalas “Salmo 15:53; 16:20” na nota 11 e “II-II, q. XXXIX” na nota 21. Conservada também a sequência recebida das notas 62–64, cujas referências parecem deslocadas em relação aos respectivos marcadores; exige conferência editorial posterior.
+- Mantida a afirmação do parágrafo 5 de que São Bento se despede “no último capítulo”, juntamente com a remissão recebida ao capítulo LXXII, sem harmonização.
+- No parágrafo 47, conservado o passado de “Who strengthened me” em “que me fortaleceu”, apesar do presente na citação latina subsequente.
+- Regularizadas as aspas e a pontuação, inclusive a aspa indevida no parágrafo 34 e a ausência de ponto entre “Christ’s Kingdom” e “Christ Jesus” no parágrafo 36.
+- Mantido “tu” nas interpelações singulares das citações e “vós” nas exortações à comunidade e no tratamento reverente de Deus, de Cristo e do Amor personificado na oração de Santa Gertrudes.
+- No Prefácio, “virtue” no parágrafo 2 foi traduzido por “força”, no sentido de eficácia que emana das obras de Cristo; no parágrafo 4, “full acquisition” foi traduzido por “conquista plena”, conservando a imagem da alma conquistada pelo ensinamento e pelo exemplo do Verbo Encarnado.
 
 ## Review log
 
-### Part 1 of 6, Round 1 (codex, full read)
-Verdict: 2 meaning-level, 7 minor. Lidos integralmente os quatro capítulos, incluindo notas, e examinados os metadados, o diário e os apontamentos mecânicos: duas correções de sentido e sete menores.
-- `pt-BR/01-seek-god.md` [27]: “e está unido à virtude da justiça, mas não é uma virtude teologal.” → “a qual está unida à virtude da justiça, mas não é uma virtude teologal.” — A ligação à justiça e a classificação como virtude não teologal referem-se à virtude da religião; o masculino faz essas afirmações recaírem sobre o culto. *(meaning)*
-- `pt-BR/01-seek-god.md` [34]: “Dominus ubique semper est :” → “Dominus ubique semper est:” — Espaço indevido antes dos dois-pontos.
-- `pt-BR/01-seek-god.md` [68]: “só os primeiros passos custam” → “só os primeiros passos contam” — A fonte diz que os primeiros passos são os que contam, não que sejam os únicos que custam. *(meaning)*
-- `pt-BR/01-seek-god.md` [97]: “anima ralionalis ;” → “anima ralionalis;” — Espaço indevido antes do ponto e vírgula.
-- `pt-BR/02-following-of-christ.md` [23]: “quid loquor ;” → “quid loquor;” — Espaço indevido antes do ponto e vírgula.
-- `pt-BR/02-following-of-christ.md` [29]: “Credo da Missa, atividade, mas” → “Credo da Missa, mas” — A palavra que completa “human activity” já foi traduzida em “atividade humana” no parágrafo 27; sua retomada duplica o substantivo.
-- `pt-BR/03-abbot.md` [71]: “deve esforçar-se.[^9]” → “deve esforçar-se[^9]” — A frase continua no parágrafo seguinte com “por imitar”; o ponto separa o verbo de seu complemento.
-- `pt-BR/03-abbot.md` [99]: “aure cordis percipit ;” → “aure cordis percipit;” — Espaço indevido antes do ponto e vírgula.
-- `pt-BR/03-abbot.md` [108]: “in coelo et in terra !” → “in coelo et in terra!” — Espaço indevido antes do ponto de exclamação.
-- Rejected: Auditoria mecânica: ênfases e referências bíblicas — Diferenças numerosas na contagem de itálicos e referências. — Os itálicos assinalam as expressões latinas e gregas conservadas; as referências foram convertidas de algarismos romanos para capítulo:versículo, sem divergência numérica identificada.
-- Rejected: pt-BR/02-following-of-christ.md [21–22, 33–34, 46–49, 65–66, 105–106] — Aspas desequilibradas por parágrafo. — As citações continuam nos parágrafos seguintes e suas aspas se completam nesses trechos.
-- Rejected: pt-BR/01-seek-god.md [85] — Ausência dos parênteses de “if you can”. — A ressalva foi preservada como “se puderdes”, isolada por vírgulas.
-- Rejected: Diário: self-esteem, economic character e attentio ad verba — Formas portuguesas não localizadas pela auditoria. — Os dois primeiros termos pertencem a capítulos fora desta parte; para o terceiro, o próprio diário declara que as ocorrências são conservadas em latim.
-- Rejected: pt-BR/04-cenobitical-society.md [29, 33–34] — Fragmentos “Per” e “accidens” interrompem a exposição. — A interrupção e a posição dos fragmentos já existem na fonte e foram expressamente preservadas no diário; não cabe redistribuir o aparato nesta revisão.
+### Part 1 of 6, Round 1 (claude, full read)
+Verdict: 1 meaning-level, 1 minor. Read 01–04 in full, source beside translation; fixed one imperative-for-indicative error (ch. I [9]) and one reverential-capitalization inconsistency (ch. III [19]).
+- `pt-BR/01-seek-god.md` [9]: “valeis exatamente o que vale essa criatura; rebaixai-vos ao nível dela” → “valeis exatamente o que vale essa criatura; rebaixais-vos ao nível dela” — source 'you lower yourself to its level' is indicative, a consequence; 'rebaixai-vos' is imperative and turns the statement into a command *(meaning)*
+- `pt-BR/03-abbot.md` [19]: ““Eram vossos, e vós mos destes”” → ““Eram vossos, e Vós mos destes”” — this file capitalizes 'Vós' for the Father, including the same quotation in [97] ('Pai, eram vossos, e Vós mos destes'); keep the file consistent
+- Rejected: pt-BR/01-seek-god.md [86], [112] — '1 Mateus 25:40' and 'Tessalonicenses 5:25' look like wrong references — the journal deliberately kept these source anomalies for later editorial checking; the source is not corrected
+- Rejected: audit: emphasis and parentheses flags (01 [28], [83]; 02 [7]; 03 [18], [29], [82], [83], [86]) — italics added and parentheses replaced by commas or dashes — italicizing Greek and Latin is house style; turning parentheses into dashes or commas loses no content
+- Rejected: audit: space before punctuation in Latin (02 [22], 03 [32], [94], [156], [218], 04 [93]) — French spacing left inside Latin quotations — the journal keeps the received Latin forms intact; this is not a sense defect
+- Rejected: pt-BR/02-following-of-christ.md [65] — 'É porque Cristo é o fundamento..., porque Ele é' recasts 'that He is' — both readings give Christ as the reason for the preceding remark; the sense is preserved
+- Rejected: journal Key Terms 'Si revera Deum quaerit' — Portuguese form has 0 occurrences — the row states the Latin is kept as is; the gloss renders the sense, as in 03 [94] 'buscam verdadeiramente a Deus'
 
-### Part 1 of 6, Round 2 (claude, full read)
-Verdict: 3 meaning-level, 4 minor. Read part 1 (chapters 01–04) in full: 3 meaning fixes (a softened negation, an OCR “correctively”, an ambiguous reflexive) and 4 minor note-number fixes in 03.
-- `pt-BR/02-following-of-christ.md` [106]: “uma realidade viva sempre ao nosso lado, uma personalidade que não fosse apenas teórica e abstrata,” → “uma realidade viva sempre ao nosso lado, e não uma personalidade teórica e abstrata,” — source: “not a theoretical and abstract personality but a living actuality”; “não fosse apenas” turns the negation into “not only” *(meaning)*
-- `pt-BR/03-abbot.md` [76]: “também pode servir de correção para caracterizar” → “também pode servir para caracterizar corretamente” — “correctively” is an OCR slip for “correctly”; the principle serves to characterise the monks’ attitude correctly, not as a correction *(meaning)*
-- `pt-BR/04-cenobitical-society.md` [25]: “O monge “busca a Deus” em si mesmo 2, por Ele mesmo;” → “O monge “busca a Deus” tal como Ele é em si mesmo 2, por Ele mesmo;” — source “seeks God in Himself, for Himself”: “in Himself” refers to God; “em si mesmo” after the subject “o monge” reads as the monk *(meaning)*
-- `pt-BR/03-abbot.md` [8]: “*Ut ad Eum redeas* 8” → “*Ut ad Eum redeas* 3” — OCR “8” for “3”; note 3 of [^3] is the Prologue, the source of the quotation
-- `pt-BR/03-abbot.md` [20]: “*Data est miki omnis potestas* 6” → “*Data est miki omnis potestas* 5” — note 5 of [^4] is Matthew 28:18, the source of this quotation; 6 (Ephesians 4:7) belongs to the next quotation
-- `pt-BR/03-abbot.md` [23]: “*Nonne greges a pastoribus pascuntur* 6” → “*Nonne greges a pastoribus pascuntur* 5” — note 5 is Ezekiel 34:2, the source of this quotation; 6 (Jeremiah 3:15) belongs to the next one
-- `pt-BR/03-abbot.md` [94]: “nos corações bem-dispostos 6” → “nos corações bem-dispostos 5” — note 5 of [^13] is Luke 8:15 (good ground); 6 is John 6:64, cited next for “spirit and life”
-- Rejected: pt-BR/02-following-of-christ.md [53] — “Pede que possa estar com Ele” versus Latin *Ut illi sint mecum* (that they be with me) — the English source reads “that He may be with Him”; an emendation would correct the edition rather than an unmistakable OCR slip
-- Rejected: pt-BR/02-following-of-christ.md [53] — “Colossenses 10:20” should be 1:20 — the journal records it as deliberately kept without conjectural emendation
-- Rejected: book.json description — pt-BR description omits “English only: no open French text exists.” — that sentence is an editorial note on available sources, not part of the book’s description; the round-1 metadata check accepted it
-- Rejected: pt-BR/03-abbot.md [105] — isolated “?” after the footnote run — it closes the question of [102]; the source places it identically
+### Part 1 of 6, Round 2 (codex, full read)
+Verdict: 1 meaning-level, 1 minor. Lidos integralmente os quatro capítulos, suas notas, o diário e os metadados: um defeito de sentido e um desvio menor de terminologia.
+- `pt-BR/02-following-of-christ.md` [83]: “sustentada pela Palavra de Deus” → “sustentada pelo Verbo de Deus” — “Word” designa aqui o Filho, ao qual a alma se une; a tabela de termos estabelece “Verbo”.
+- `pt-BR/04-cenobitical-society.md` [21]: “a Igreja, o jardim da Esposa” → “a Igreja, o jardim do Esposo” — “The Garden of the Spouse” designa a Igreja como jardim de Cristo, seu Esposo; “da Esposa” troca o referente. *(meaning)*
+- Rejected: pt-BR/04-cenobitical-society.md [23] — “Em si mesmo” poderia parecer referido ao monge. — A expressão admite a leitura teológica “Deus em si mesmo”, confirmada pelo paralelo “por Ele mesmo”; não há erro inequívoco.
 
-### Part 1 of 6, Round 3 (codex, full read)
-Verdict: 0 meaning-level, 3 minor. Lidos integralmente os quatro capítulos e suas notas, com os metadados, o diário e a auditoria: três correções menores de chamadas de notas.
-- `pt-BR/02-following-of-christ.md` [58]: “*in finem dilexit* 8” → “*in finem dilexit* 4” — A chamada corrompida remete à nota 4 de [^7], João 13:1, correspondente à citação; não há nota 8 nesse grupo.
-- `pt-BR/03-abbot.md` [74]: “a paz que ultrapassa todo entendimento 6” → “a paz que ultrapassa todo entendimento 5” — A chamada corresponde à nota 5 de [^10], Filipenses 4:7; o 6 da fonte é um erro inequívoco de OCR.
-- `pt-BR/04-cenobitical-society.md` [84]: “abundância em tuas torres 6” → “abundância em tuas torres 5” — A chamada corresponde à nota 5 de [^12], Salmos 121:7; o 6 da fonte é um erro inequívoco de OCR.
-
-### Part 1 of 6, Round 4 (claude, delta read)
-Verdict: 0 meaning-level, 0 minor. Delta read of three note-number fixes in 02 [58], 03 [74] and 04 [84] and their neighbours: all correct, no new defects.
-- Rejected: pt-BR/04-cenobitical-society.md [84] — “até às próprias paredes” and the OCR form “*J erusalem sancta*” — “até às” is acceptable Portuguese, and the journal keeps the Latin quotations as received, with their OCR corruptions
-- Rejected: pt-BR/03-abbot.md [73] — “*f err uni abscissionis*” left split — the journal keeps the Latin quotations as received for later checking against the printed edition
+### Part 1 of 6, Round 3 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of 02 [82]–[84] and 04 [20]–[22]: both previous fixes are correct and no new defects were found.
+- Rejected: pt-BR/02-following-of-christ.md [83] — “sustentada pelo Verbo de Deus” might read as an over-reading of “Word of God” — The passage casts the Son as the bridegroom who feeds the soul, so “Word” is the Person; the Key Terms table prescribes “Verbo”.
+- Rejected: pt-BR/04-cenobitical-society.md [21] — “jardim do Esposo” versus “da Esposa” for “Garden of the Spouse” — In the source, “Spouse” refers to Christ, whose garden the Church is; the masculine form keeps the right referent and agrees with the sentence.
 
 ### Part 2 of 6, Round 1 (claude, full read)
-Verdict: 0 meaning-level, 3 minor. Full read of 05-faith, 06-profession and 07-instruments-good-works: three minor fixes (a wrong verb, a dropped qualifier, a reconstructed word in a fragment); otherwise faithful and complete.
-- `pt-BR/05-faith.md` [42]: “Despreza a vida sobrenatural, ignora-a sistematicamente” → “Negligencia a vida sobrenatural, ignora-a sistematicamente” — source says “neglects”; “despreza” (despises) is a different, stronger verb
-- `pt-BR/05-faith.md` [30]: “O que torna nossa vitória tão preciosa” → “O que verdadeiramente torna nossa vitória tão preciosa” — source “What truly makes”; qualifier dropped
-- `pt-BR/07-instruments-good-works.md` [86]: “coisas pequenas como grandes” → “coisas, assim como as grandes” — source fragment reads “things as well as great”; “pequenas” reconstructs a missing word, against the journal's no-reconstruction rule
-- Rejected: pt-BR/05-faith.md [26] — marker 6 after the young man's reply rendered as 5 — the interleaved apparatus gives 5 = Ibid. 20 (Mt 19:20, the reply); identifiable call-number normalization
-- Rejected: pt-BR/05-faith.md [103] — “I Ibid” rendered as “Ibid.”, making the reference point to João — the source is corrupt and any rendering would be conjectural; left for checking against the print edition
-- Rejected: pt-BR/07-instruments-good-works.md [108] — first marker 6 changed to 5 — the notes are 5 = Buathier, Sacrifice and Will, and 6 = instability, so the OCR duplicate is plausibly resolved
-- Rejected: pt-BR/06-profession.md [12] — source parentheses rendered as dashes — punctuation adaptation with content intact; not a defect
-- Rejected: pt-BR/05-faith.md [70] — “officials” rendered as “responsáveis pelos ofícios” rather than the Key Terms “oficiais” — descriptive rendering with the same sense in this context
+Verdict: 1 meaning-level, 1 minor. Read chapters V–VII in full: one mistranslated footnote clause (07 n.24) and one Key Terms drift (06 [12]); the rest is faithful.
+- `pt-BR/07-instruments-good-works.md` [129]: “acabara de escapar de ser envenenado” → “por pouco escapara de ser envenenado” — source “had only just escaped being poisoned” means he narrowly escaped, not that he had escaped a moment before *(meaning)*
+- `pt-BR/06-profession.md` [12]: “o da vontade humana, causa secundária” → “o da vontade humana, causa segunda” — Key Terms renders “secondary causes” as “causas segundas”
+- Rejected: audit: Key Terms “si revera deum quaerit” ×0 — row form apparently absent — it occurs inflected (“busca verdadeiramente a Deus”, 06 [10]; “busque verdadeiramente a Deus”, 07 [91]); the count is a matching artefact
+- Rejected: audit: Scripture references, emphasis, spacing in Latin — reference format, added italics, space before punctuation — references are converted to Portuguese form; italics mark retained Latin (quotidie, Deo placens, operantem…); the spacing sits inside the Latin quotations as received
+- Rejected: pt-BR/06-profession.md [12], [62] — parentheses differ — the parentheticals are kept as dashes or commas with their content intact; this is a style choice
+- Rejected: pt-BR/07-instruments-good-works.md [58] — clause order changed in the sentence on sin and weaknesses — the same contrast is preserved; the meaning is unchanged
 
 ### Part 2 of 6, Round 2 (codex, full read)
-Verdict: 2 meaning-level, 2 minor. Leitura integral dos três capítulos, incluindo notas, metadados e diário: dois defeitos de sentido e dois menores.
-- `pt-BR/05-faith.md` [31]: “a ideia de que poderia ser vencida pela pobreza e pela renúncia” → “a ideia de que o mundo poderia ser vencido pela pobreza e pela renúncia” — O que seria vencido é o mundo; o feminino atribui essa condição à sabedoria do mundo. *(meaning)*
-- `pt-BR/06-profession.md` [60]: “podem “levar as coisas com facilidade”” → “podem “acomodar-se”” — “Take things easily” significa relaxar os esforços, e não realizar as coisas com facilidade. *(meaning)*
-- `pt-BR/07-instruments-good-works.md` [65]: “quanto mais profundas forem nossa fé e nosso amor” → “quanto mais profundos forem nossa fé e nosso amor” — O adjetivo referente aos dois substantivos de gêneros diferentes deve ficar no masculino plural.
-- `pt-BR/07-instruments-good-works.md` [86]: “Não foi Pascal quem escreveu: coisas, assim como as grandes” → “Não foi Pascal quem escreveu: “coisas, assim como as grandes” — Falta a abertura das aspas da citação, cujo fechamento está presente; o fragmento permanece sem reconstrução.
-- Rejected: 05-faith.md, 06-profession.md e 07-instruments-good-works.md — espaços antes de pontuação — Dez ocorrências apontadas pela auditoria. — Todas pertencem a citações latinas conservadas exatamente como fornecidas pela fonte.
-- Rejected: 05-faith.md [37–38]; 06-profession.md [44–46]; 07-instruments-good-works.md [32–35, 56–57] — Aspas desequilibradas em parágrafos individuais. — As citações continuam nos parágrafos seguintes e têm abertura e fechamento correspondentes.
+Verdict: 0 meaning-level, 2 minor. Lidos integralmente os 512 parágrafos dos capítulos V–VII, incluindo as notas, com conferência da auditoria, do diário e dos metadados: encontrados dois defeitos menores.
+- `pt-BR/05-faith.md` [57]: “O princípio motor da atividade de Cristo” → “A força motriz da atividade de Cristo” — O diário estabelece “força motriz” para “motive power”; uniformização terminológica sem mudança de sentido.
+- `pt-BR/07-instruments-good-works.md` [55]: “quanto mais profundas forem nossa fé e nosso amor” → “quanto mais profundos forem nossa fé e nosso amor” — O predicativo referente aos dois substantivos de gêneros diferentes deve ficar no masculino plural.
 
 ### Part 2 of 6, Round 3 (claude, delta read)
-Verdict: 0 meaning-level, 0 minor. Delta read of 05-faith [30–32], 06-profession [59–61] and 07-instruments-good-works [64–66, 85–87]: all four previous fixes are correct and no new defects were found.
-- Rejected: pt-BR/05-faith.md [31] — “A sabedoria do mundo… a ideia de que o mundo poderia ser vencido” repeats “mundo” — The repetition makes the referent of the source's “it” explicit; it is a style choice, not a defect.
-- Rejected: pt-BR/07-instruments-good-works.md [86] — The added opening quotation mark is absent from the source fragment — The closing mark is present in both the source and the translation; the opening mark balances the quotation without reconstructing missing text.
+Verdict: 0 meaning-level, 0 minor. Delta read of 05 [56–58] and 07 [54–56]: both previous fixes are correct and no new defect was found.
+- Rejected: pt-BR/05-faith.md [57] — Check of the fix to “A força motriz da atividade de Cristo” — Matches the Key Terms row “motive power / força motriz”; the feminine concord with “era a luz” holds.
+- Rejected: pt-BR/07-instruments-good-works.md [55] — Check of the fix to “quanto mais profundos forem nossa fé e nosso amor” — A predicative referring to a feminine and a masculine noun takes the masculine plural; the sentence is intact.
+- Rejected: pt-BR/05-faith.md [56], [58] — “Aqui de baixo” for “Here below” — An unusual form, but it is understood as “cá embaixo” and does not change the sense; a style choice.
+- Rejected: pt-BR/05-faith.md [58] — “procured” → “promovida” and “pursues” → “realiza” — Defensible renderings in context; the meaning is kept.
 
 ### Part 3 of 6, Round 1 (claude, full read)
-Verdict: 1 meaning-level, 4 minor. Full read of 08-compunction, 09-self-renunciation and 10-poverty: fixed a split word, two footnote markers fused into Latin, a running head fused into a sentence, and one departure from the source (“in God”).
-- `pt-BR/08-compunction.md` [64]: “são aço itadas pela tentação” → “são açoitadas pela tentação” — source “buffeted”; word split in two
-- `pt-BR/08-compunction.md` [59]: “Cristo, ideal do monge, é, além disso,” → “Cristo, ideal do monge. é, além disso,” — running head fused into the sentence makes Christ the subject of “é uma das armas”; the subject is compunction from para 58. Punctuated as the file does elsewhere (10-poverty [16])
-- `pt-BR/09-self-renunciation.md` [31]: “et secura devotione percurrantx*” → “et secura devotione percurrant* 1” — the trailing “x” is footnote marker 1 (Collect for Ash Wednesday, [^7] item 1), not part of the Latin
-- `pt-BR/09-self-renunciation.md` [42]: “dilatentur spatia caritatisi*!” → “dilatentur spatia caritatis* 4!” — the trailing “i” is footnote marker 4 (S. Aug. L. c., [^8] item 4), not part of the Latin
-- `pt-BR/10-poverty.md` [62]: “O Verbo vive e reina como Deus” → “O Verbo vive e reina em Deus” — source: “The Word lives and reigns in God”; the translation changed the sense to “as God” *(meaning)*
-- Rejected: pt-BR/08-compunction.md [35], [54]; pt-BR/10-poverty.md [64], [73] — space before punctuation inside Latin — Latin quotations are kept as supplied, OCR spacing included, by journal decision
-- Rejected: pt-BR/09-self-renunciation.md [69]–[70] — unbalanced quotation marks in the St. Mechtilde passage — follows the source's own nesting across the two paragraphs; any rebalancing would be conjecture
-- Rejected: pt-BR/10-poverty.md [33] — straight quote in “Pauperum cum omni "sollicitudine” — OCR residue inside Latin, kept as supplied by journal decision
-- Rejected: pt-BR/10-poverty.md [57], [61]; journal Key Terms — “estima de si mesmo” not found — “estima de nós mesmos” is the same term inflected for first-person plural; no drift
-- Rejected: pt-BR/08-compunction.md [36], [43] — “self-abasement” not rendered “abaixamento de si mesmo” — the Key Terms row is scoped to the humility conference; the renderings here are accurate
+Verdict: 1 meaning-level, 5 minor. Read chapters VIII–X in full; fixed one meaning shift (Ch. X [60]), one broken comparative, two Key Terms drifts, and two journal rows naming forms absent from the text.
+- `pt-BR/10-poverty.md` [60]: “O Verbo vive e reina como Deus:” → “O Verbo vive e reina em Deus:” — source says “The Word lives and reigns in God”; the translation changed the statement *(meaning)*
+- `pt-BR/09-self-renunciation.md` [45]: “É tanto mais impossível escapar delas quanto menos dependem das circunstâncias do que de nossa condição humana.” → “É tanto mais impossível escapar delas por dependerem menos das circunstâncias do que de nossa condição humana.” — “tanto mais… quanto menos… do que” mixes two comparatives; source: “so much the more impossible… in that they have less to do with circumstances than with our human condition”
+- `pt-BR/08-compunction.md` [34]: “com o mais profundo aniquilamento de si” → “com o mais profundo abaixamento de si” — source “self-abasement”; Key Terms: self-abasement = abaixamento de si, self-annihilation = aniquilamento de si
+- `pt-BR/08-compunction.md` [40]: “do espírito de humilhação de si que dela resulta” → “do espírito de abaixamento de si que dela resulta” — source “self abasement”; Key Terms: abaixamento de si
+- `pt-BR/translation-journal.md`: “| Si revera Deum quaerit / Si revera quaerit Deum | buscar verdadeiramente a Deus | As duas ordens latinas permanecem conforme cada ocorrência. |” → “| Si revera Deum quaerit / Si revera quaerit Deum | *Si revera Deum quaerit* / *Si revera quaerit Deum* | Fórmulas latinas conservadas em itálico, na ordem de cada ocorrência; a glosa portuguesa segue a explicação do contexto. |” — the form “buscar verdadeiramente a Deus” does not occur in the translation; the Latin is kept and glossed from context (e.g. 10-poverty [33])
+- `pt-BR/translation-journal.md`: “| self-esteem / love of complacency | estima de si mesmo / amor de complacência |” → “| self-esteem / love of complacency | estima de nós mesmos / amor de complacência |” — “estima de si mesmo” does not occur; the text uses “estima de nós mesmos” (10-poverty [55], [59])
+- Rejected: pt-BR/09-self-renunciation.md [69] and note 62 — space before colon/semicolon in Latin — Latin quotation kept as received, per journal decision; not a Portuguese punctuation slip
+- Rejected: pt-BR/08-compunction.md emphasis flags — added italics — house rule italicizes retained Latin; the source left it roman
+- Rejected: pt-BR/10-poverty.md [18] — “desapego” where context suggests “apego” — source reads “detachment”; anomaly recorded in journal, source not corrected
+- Rejected: pt-BR/08-compunction.md [98] — Mateus 25:4 for the “Discedite” quotation (25:41) — source reads xxv, 4; reference kept as received
+- Rejected: pt-BR/08-compunction.md [39] — “ser livre da condenação eterna” — understandable rendering of “to be delivered”; not an objective error worth changing
 
 ### Part 3 of 6, Round 2 (codex, full read)
-Verdict: 1 meaning-level, 0 minor. Leitura integral dos 283 blocos dos três capítulos, incluindo notas, com conferência do aparato fornecido: encontrado um defeito de sentido.
-- `pt-BR/08-compunction.md` [26]: “e teve sua parte nos sofrimentos de Cristo Jesus” → “e contribuiu para os sofrimentos de Cristo Jesus” — A fonte atribui à alma uma contribuição causal para os sofrimentos de Cristo, decorrente de seus pecados; a tradução sugere participação nesses sofrimentos. *(meaning)*
-- Rejected: pt-BR/10-poverty.md [39] — A pergunta associa o pedido de pão à oferta de uma serpente. — Essa combinação está na própria fonte; a tradução a reproduz fielmente.
-
-### Part 3 of 6, Round 3 (claude, delta read)
-Verdict: 0 meaning-level, 0 minor. Checked the [26] fix and read [25]–[27] whole; the fix is correct and there are no new defects.
-- Rejected: pt-BR/08-compunction.md [25] — Scripture reference “Efésios 4:30.” inside the prodigal son's words, and the emphasis-marker count differs from the source — The reference is the edition's apparatus, left where the OCR placed it, as the journal records. The source's asterisk is OCR residue (“for*™”), not emphasis.
-- Rejected: pt-BR/08-compunction.md [26] — “contribuiu para os sofrimentos” could be too strong for “brought its share to” — The source says the soul added its own part to Christ's sufferings, through its sins. “Contribuiu para” carries that sense, and the sentence agrees in number and gender with its neighbours.
+Verdict: 0 meaning-level, 0 minor. Leitura integral dos 464 parágrafos dos capítulos VIII–X, incluindo notas, com conferência dos metadados, do diário e dos alertas mecânicos; nenhum novo defeito objetivo encontrado.
+- Rejected: pt-BR/08-compunction.md [70] — Possível omissão indicada pela diferença de extensão. — Todas as orações, qualificações, a citação latina e os marcadores estão presentes; a menor extensão decorre da formulação portuguesa.
+- Rejected: pt-BR/09-self-renunciation.md [19], [48]; pt-BR/10-poverty.md [35], [59] — Diferenças no número de marcadores de ênfase. — Os delimitadores foram ajustados para colocar integralmente em itálico as citações latinas e separar a exposição subsequente, sem perda de texto.
 
 ### Part 4 of 6, Round 1 (claude, full read)
-Verdict: 1 meaning-level, 1 minor. Full read of 11-humility and 12-bonum-obedientiae; one meaning fix (OCR 'or' for 'for' in [93]) and one minor fix (lost parentheses in [126]); the rest is faithful.
-- `pt-BR/11-humility.md` [93]: “e São Bento nos manda tomar cuidado com isso; ou é um “imenso orgulho”, diz Santo Tomás” → “e São Bento nos manda tomar cuidado com isso, pois é um “imenso orgulho”, diz Santo Tomás” — source 'beware of this or it is "immense pride"' is an evident OCR slip for 'for it is'; 'ou' turns the reason into an alternative *(meaning)*
-- `pt-BR/11-humility.md` [126]: ““supre os atos de humildade de uma maneira” → ““supre (os atos de humildade) de uma maneira” — source puts '(acts of humility)' in parentheses as the author's insertion into St. Teresa's words; without them the gloss reads as part of the quotation
-- Rejected: pt-BR/11-humility.md [45], 12-bonum-obedientiae.md [5] — Key Terms 'estima de si mesmo' reported absent — rendered as 'estima desordenada de si mesmo', consistent with the row; the audit only missed the non-contiguous form
-- Rejected: pt-BR/12-bonum-obedientiae.md [38] — 'economic character' row reported absent — rendered 'caráter acentuadamente econômico' and, in [39], 'caráter “econômico”'
-- Rejected: pt-BR/11-humility.md [31], 12-bonum-obedientiae.md [32]–[34], [62]–[63] and others — unbalanced quotes — the quotations run across paragraphs or footnote apparatus as in the source
-- Rejected: pt-BR/11-humility.md [70] — length outlier (66%) — all clauses present; Portuguese is simply more compact
-- Rejected: pt-BR/11-humility.md [81] — 'por uma de suas criaturas semelhantes' for 'one of his fellow creatures' — awkward but does not misinform; within the context of the divine economy the reading holds
+Verdict: 0 meaning-level, 1 minor. Read ch. 11 (Humility) and ch. 12 (Bonum obedientiae) in full, text and notes; one minor grammar fix (ch. 11 [76]), the rest is clean.
+- `pt-BR/11-humility.md` [76]: “considere os outros melhores que si mesmo” → “considere os outros melhores do que a si mesmo” — source: 'esteem others better than themselves'; the pronoun 'si' needs a preposition ('a si mesmo'), so 'que si mesmo' is ungrammatical
+- Rejected: pt-BR/11-humility.md [24] — audit flag: repeated word 'nos nos' — it is 'tomar-nos nos braços': an enclitic pronoun followed by the contraction 'nos'; correct
+- Rejected: pt-BR/11-humility.md [57], [96] — length outliers — every clause of the source is present; the Portuguese is simply more compact
+- Rejected: pt-BR/11-humility.md [83], [91], [106], [108]; pt-BR/12-bonum-obedientiae.md [111], [116] — parentheses differ from the source — the parentheticals are kept as dashes, commas or brackets with all their content; [106] brackets are recorded in the journal
+- Rejected: emphasis-count flags in ch. 11 and ch. 12 [104], [114] — italic markers differ from the source — capitalized Latin words were moved inside the italics, and 'de fide', 'sine qua non', 'Peccavi Domino' and 'bonum' were italicized as retained Latin; this is the journal's stated policy
+- Rejected: pt-BR/12-bonum-obedientiae.md [83], [122], [124] — unbalanced quotation marks — they follow the source's quotation structure; [83] is recorded in the journal, and [122]/[124] open quotes that continue into the following paragraphs
+- Rejected: pt-BR/12-bonum-obedientiae.md [86] — the question mark of Luke 12:50 became an exclamation mark — the verse reads naturally as an exclamation in Portuguese, and the sense is unchanged
+- Rejected: pt-BR/12-bonum-obedientiae.md [100] — placement of 'por nossa própria escolha' in the Blosius quotation — the journal already records it as kept to follow the source; no new argument
 
 ### Part 4 of 6, Round 2 (codex, full read)
-Verdict: 1 meaning-level, 1 minor. Leitura integral dos 354 blocos dos dois capítulos, com aparato, auditoria, metadados e diário: um defeito de sentido e um de formatação.
-- `pt-BR/12-bonum-obedientiae.md` [3]: “[est\* 2.” → “[est]* 2.” — A barra invertida escapa o asterisco e impede o fechamento do itálico; restaura-se também o colchete da palavra suprida.
-- `pt-BR/12-bonum-obedientiae.md` [16]: “que fomos justificados e salvos.” → “que somos justificados e salvos.” — A fonte diz “we are justified and saved”, no presente; a tradução desloca para o passado o efeito da obediência de Cristo. *(meaning)*
+Verdict: 0 meaning-level, 1 minor. Lidos integralmente os 564 blocos dos capítulos XI e XII, incluindo todas as notas; encontrado um defeito menor de pontuação.
+- `pt-BR/11-humility.md` [144]: “(Apêndice às obras de Santo Agostinho.” → “(Apêndice às obras de Santo Agostinho).” — O parêntese fica sem fechamento. Fechá-lo corrige a pontuação sem alterar o conteúdo bibliográfico da fonte.
+- Rejected: pt-BR/11-humility.md [269] — A referência Isaías 10:2-3 parece incompatível com a passagem citada. — A fonte traz expressamente “Isa. x, 2-3”; a tradução conserva sua referência, conforme as regras.
+- Rejected: pt-BR/12-bonum-obedientiae.md [115] — O negociante é associado ao tesouro encontrado num campo. — A combinação das imagens evangélicas já está na fonte e foi traduzida fielmente.
 
 ### Part 4 of 6, Round 3 (claude, delta read)
-Verdict: 0 meaning-level, 0 minor. Delta read of 12-bonum-obedientiae [2]–[4] and [15]–[17]: the two corrections are right and no new defects were found.
-- Rejected: pt-BR/12-bonum-obedientiae.md [3] — Correction “[est]* 2.” — The italic now closes correctly, and the bracket marking the supplied word is restored. The sentence and its neighbours are intact.
-- Rejected: pt-BR/12-bonum-obedientiae.md [16] — Correction “somos justificados e salvos” — It matches the source's present tense, “we are justified and saved”. It agrees with “nos tornamos” in the parallel clause and with the following paragraph.
-- Rejected: pt-BR/12-bonum-obedientiae.md [4] — “propter quern” and the footnote apparatus inserted into the quotation — The journal keeps Latin and OCR interruptions as given. The translation is faithful and complete.
-- Rejected: pt-BR/12-bonum-obedientiae.md [15] — “V erumtamen” split in two — This is an OCR corruption in a Latin quotation, kept on purpose under the journal's decision.
+Verdict: 0 meaning-level, 1 minor. Checked the fix to note 23 in ch. 11 and its neighbours [143]–[145]: the fix is correct; the journal entry it contradicts is updated.
+- `pt-BR/translation-journal.md`: “conservadas também a forma bibliográfica “3. 2.” e a abertura de parêntese sem fechamento na nota 23.” → “conservada também a forma bibliográfica “3. 2.”; fechado na nota 23 o parêntese que a fonte deixa aberto.” — The previous round closed the parenthesis in note 23 ([144]), so the journal's claim that it was left unclosed is now false.
+- Rejected: pt-BR/11-humility.md [144] — The closed parenthesis departs from the source, which leaves it open — The unclosed parenthesis is a typographic slip in the source; closing it changes no bibliographic content and keeps all of the note's text.
+
+### Part 4 of 6, Round 4 (codex, delta read)
+Verdict: 0 meaning-level, 0 minor. Verificada a alteração no diário: ela registra corretamente o fechamento do parêntese na nota 23 e não introduz defeitos. Nenhum parágrafo de capítulo foi apresentado nesta rodada.
 
 ### Part 5 of 6, Round 1 (claude, full read)
-Verdict: 3 meaning-level, 5 minor. Full read of chapters 13-15: fixed one corrupted word, one concord slip, three wrong or missing footnote markers, one wrong connective and two capitalization inconsistencies; the rest is faithful.
-- `pt-BR/14-opus-dei-union.md` [19]: “Ape reguei-me aos vossos testemunhos” → “Apeguei-me aos vossos testemunhos” — source 'I have stuck to Thy testimonies'; 'Ape reguei-me' is not a word
-- `pt-BR/14-opus-dei-union.md` [49]: “de seus meio, pela Bondade soberana” → “de seus meios, pela Bondade soberana” — source 'of His means'; 'seus meio' breaks number agreement
-- `pt-BR/14-opus-dei-union.md` [15]: “*Confitebor tibi in cithara Deus, Dcu-s meus* 3.” → “*Confitebor tibi in cithara Deus, Dcu-s meus* 5.” — source marker '&' is read as 5 elsewhere in this file (para 43); note 5 is Ps 42:3-4, the psalm quoted here; note 3 is Ps 27 *(meaning)*
-- `pt-BR/14-opus-dei-union.md` [16]: “*Quid tnihi est in caelo et, a te, quid volui super terrain* 4?” → “*Quid tnihi est in caelo et, a te, quid volui super terrain* 6?” — 'Quid mihi est in caelo' is Ps 72:25-26, note 6 (xlxii, 25-26); note 4 is Ps 142:6, quoted in para 15 *(meaning)*
-- `pt-BR/15-monastic-prayer.md` [99]: “*Illuxit cordibus nostris ad illuminationem scientiae claritatis Dei in facie Christi Jesui* Esse Verbo” → “*Illuxit cordibus nostris ad illuminationem scientiae claritatis Dei in facie Christi Jesu* 4. Esse Verbo” — the final 'i' is the OCR form of marker 4 (note 4 is 2 Cor 4:6, this verse); marker and sentence-ending period were missing *(meaning)*
-- `pt-BR/13-opus-dei-praise.md` [67]: “Não nos esqueçamos, portanto, de que” → “Não nos esqueçamos, além disso, de que” — source 'Then, do not let us forget' adds a further point; 'portanto' introduces an inference the source does not make
-- `pt-BR/14-opus-dei-union.md` [75]: “do Corpo místico de Jesus” → “do Corpo Místico de Jesus” — the file writes 'Corpo Místico' in paras 6, 49 and 61; keep the file consistent
-- `pt-BR/14-opus-dei-union.md` [87]: “sobre todo o seu Corpo místico” → “sobre todo o seu Corpo Místico” — the file writes 'Corpo Místico' in paras 6, 49 and 61; keep the file consistent
-- Rejected: pt-BR/13-opus-dei-praise.md [56] — audit flags repeated word 'nos nos' — the sequence does not occur in the paragraph as given
-- Rejected: pt-BR/14-opus-dei-union.md [46] — Christ addresses St. Mechtilde with 'vós o fazeis' rather than 'tu' — the journal records this choice: 'as you do' refers to the community that celebrates the Hours
-- Rejected: journal Key Terms (self-esteem, economic character, attentio ad verba) — audit says these renderings are absent from the pt-BR text — the first two rows belong to other chapters; the attentio row states that the Latin is kept, as it is in 14 [66]
-- Rejected: pt-BR/14-opus-dei-union.md [67] — space before the colon in the Latin 'propheta : servite' and 'iterum : Psallite' — the Latin quotations are kept as supplied, by documented decision
-- Rejected: pt-BR/13-opus-dei-praise.md [72], 14 [42] [73], 15 [72] — parentheses differ from the source — para 72 is marked illegible; elsewhere the parentheses became dashes or were absorbed, with the content intact
+Verdict: 0 meaning-level, 7 minor. Full read of chapters XIII–XV (13–15). The translation is faithful and complete; I fixed six inconsistent capitalisations of "Bem-aventurado Pai" and one pleonastic relative clause in chapter XV.
+- `pt-BR/15-monastic-prayer.md` [81]: “Vemos nosso bem-aventurado Pai deixar” → “Vemos nosso Bem-aventurado Pai deixar” — The file writes "Bem-aventurado Pai" in [14], [18] and [36]; keep the file's capitalisation consistent.
+- `pt-BR/15-monastic-prayer.md` [82]: “Por isso nosso bem-aventurado Pai raramente” → “Por isso nosso Bem-aventurado Pai raramente” — Same inconsistency in capitalisation as [81].
+- `pt-BR/15-monastic-prayer.md` [83]: “diz ainda nosso bem-aventurado Pai” → “diz ainda nosso Bem-aventurado Pai” — Same inconsistency in capitalisation as [81].
+- `pt-BR/15-monastic-prayer.md` [86]: “Nosso bem-aventurado Pai sabia” → “Nosso Bem-aventurado Pai sabia” — Same inconsistency in capitalisation as [81].
+- `pt-BR/15-monastic-prayer.md` [97]: “por que nosso bem-aventurado Pai, herdeiro” → “por que nosso Bem-aventurado Pai, herdeiro” — Same inconsistency in capitalisation as [81].
+- `pt-BR/15-monastic-prayer.md` [100]: “o preceito de nosso bem-aventurado Pai” → “o preceito de nosso Bem-aventurado Pai” — Same inconsistency in capitalisation as [81].
+- `pt-BR/15-monastic-prayer.md` [68]: “— que ele próprio faz eco às palavras” → “— que, por sua vez, faz eco às palavras” — The source says "who himself echoes". In the current wording, "que ele próprio" adds a pleonastic subject to the relative clause, so it reads as "which he himself echoes".
+- Rejected: pt-BR/13-opus-dei-praise.md [16] — The parenthetical "(Father's)" was dropped. — The source's clarification is worked into the sentence as "de seu Pai"; no content is lost.
+- Rejected: pt-BR/13-opus-dei-praise.md [51] — The audit flags the repeated word "nos nos". — The sequence does not occur in the PT paragraph.
+- Rejected: pt-BR/14-opus-dei-union.md [38] — The parentheses became commas, and "instantissima oratione" was italicised. — The punctuation change keeps the sense. Retained Latin goes in italics under the house rule.
+- Rejected: pt-BR/15-monastic-prayer.md [64] — The parenthetical "(in the deep meaning of the word)" became dashes. — The content is kept; only the punctuation changed.
+- Rejected: pt-BR/14-opus-dei-union.md [40] — Christ uses "vós" when speaking to St. Mechtilde. — The journal reads "as you do" as addressed to religious in general, which is a defensible reading.
+- Rejected: all three files — The audit reports mismatched Scripture references and spaces before punctuation in Latin. — The PT converts Roman numerals as the journal says, and the Latin keeps the source's form.
 
 ### Part 5 of 6, Round 2 (codex, full read)
-Verdict: 2 meaning-level, 0 minor. Leitura integral dos 348 blocos dos capítulos 13–15, incluindo aparato e alertas mecânicos: duas correções de chamadas de referências.
-- `pt-BR/14-opus-dei-union.md` [11]: “ab alienis parce servo tuo* 3.” → “ab alienis parce servo tuo* 4.” — A chamada corrompida após essa citação corresponde à referência 4, Salmos 18:13-14; a referência 3 identifica a citação anterior, de Salmos 24:7. *(meaning)*
-- `pt-BR/15-monastic-prayer.md` [17]: “laetus obtuli universal*.” → “laetus obtuli universa* 7.” — O OCR incorporou a chamada à palavra latina «universa». A referência 7 do aparato, 1 Paralipômenos 29:17, corresponde precisamente à citação; sua chamada desapareceu na tradução. *(meaning)*
-- Rejected: pt-BR/13-opus-dei-praise.md [21–22, 31–32, 58–59]; pt-BR/14-opus-dei-union.md [46–49, 57–58] — Aspas desequilibradas nos parágrafos apontados pelo audit. — As citações continuam em outros parágrafos, por vezes com aparato intercalado; as aspas se fecham nas respectivas continuações.
-- Rejected: pt-BR/14-opus-dei-union.md [49] — A sequência «Mãe bendita, de seus meios» parece atribuir meios à Mãe de Cristo. — O aparato interrompe a enumeração na própria fonte: «de seus» continua em «Anjos» no parágrafo 52; «meios» pertence à continuação da nota iniciada no parágrafo 46.
+Verdict: 0 meaning-level, 1 minor. Leitura integral dos 502 parágrafos dos capítulos XIII–XV, com notas, auditoria, metadados e diário: encontrado um defeito menor de pontuação.
+- `pt-BR/14-opus-dei-union.md` [78]: “(sábado da Semana da Paixão.” → “(sábado da Semana da Paixão).” — Falta fechar o parêntese da indicação litúrgica; o lapso de pontuação da fonte não precisa ser reproduzido na tradução.
 
 ### Part 5 of 6, Round 3 (claude, delta read)
-Verdict: 0 meaning-level, 0 minor. Delta read of 14 [10–12] and 15 [16–18]: both marker changes from round 2 are right; the paragraphs shown are faithful and clean.
-- Rejected: pt-BR/14-opus-dei-union.md [11] — The marker after the combined quotation of Ps 24:7 and Ps 18:13-14 was changed from 3 to 4; the source has only one corrupted marker (“tuoi”). — The marker follows the clause from Ps 18:13-14 (“ab occultis … servo tuo”). The surrounding numbering fits: 2 for Ps 50, 5 and 6 after it. The change is defensible and does not contradict the source.
-- Rejected: pt-BR/15-monastic-prayer.md [17] — The space before the period in “*In simplicitate . cordis mei*”. — The Latin quotations are kept as supplied, by a documented decision. The restored marker 7 follows 5 and 6 in paragraph 16.
-- Rejected: pt-BR/15-monastic-prayer.md [16] — “a Ele” and “dele” in the same paragraph differ in reverential capitalization. — The house rule forbids normalizing reverential capitalization. The variation does not change the sense.
+Verdict: 0 meaning-level, 0 minor. Delta read of 14-opus-dei-union.md [77]–[79]: the round-2 parenthesis fix is correct and the neighbouring notes are clean.
+- Rejected: pt-BR/14-opus-dei-union.md [78] — The italics now run past “erudita” to cover the whole Latin collect, unlike the source. — The rest of the sentence is also Latin, and the house rule puts retained Latin in italics. The closed parenthesis is a correct punctuation fix.
 
 ### Part 6 of 6, Round 1 (claude, full read)
-Verdict: 0 meaning-level, 3 minor. Full read of 16-abandonment, 17-good-zeal, 18-peace-of-christ and preface: three minor fixes (a missing object pronoun, a footnote number, the honorific for Baudrillart).
-- `pt-BR/18-peace-of-christ.md` [13]: “e de que fonte devemos haurir.” → “e de que fonte devemos haurí-la.” — source: “the source whence it is to be derived”; “haurir” is transitive and needs its object
-- `pt-BR/18-peace-of-christ.md` [57]: “pelos do mundo inteiro 8”” → “pelos do mundo inteiro 3”” — OCR “8” for note 3; footnote [^7] defines 3 as 1 João 2:2, the verse quoted
-- `pt-BR/17-good-zeal.md` [107]: “1. Cf. Dom Baudrillart,” → “1. Cf. Mons. Baudrillart,” — source “Mgr.”; Alfred Baudrillart was an Oratorian prelate, not a monk, so “Dom” is the wrong title
-- Rejected: pt-BR/16-abandonment.md [45] — “1 Coríntios 3:10” is probably 3:19 (the verse quoted) — OCR “io” is ambiguous; the journal deliberately kept it without conjectural emendation
-- Rejected: pt-BR/16-abandonment.md [47] — “tu” in “Tens medo de te lançares” amid “vós” address — individual rhetorical apostrophe; matches the journal’s stated tu/vós convention
-- Rejected: pt-BR/17-good-zeal.md [28] — “cartas 180, 227 a 312” may be “227 e 312” (OCR “4” for “&”) — the OCR reading is ambiguous; not a certain error
-- Rejected: audit: unbalanced quotes / emphasis / references — mechanical flags across the three conferences — they reflect quotations split across paragraphs, added italics for Latin and normalized references; no defect on inspection
+Verdict: 1 meaning-level, 4 minor. Full read of 16-abandonment, 17-good-zeal, 18-peace-of-christ and preface: one meaning error ('Ainda não' for 'Again no') and four minor slips (a dropped superlative, an added word, a wrong noun, a spacing artifact).
+- `pt-BR/18-peace-of-christ.md` [42]: “Pelos sofrimentos? Ainda não.” → “Pelos sofrimentos? Também não.” — source 'Again no' is a further denial, like the earlier ones; 'Ainda não' means 'not yet' and suggests trials will later destroy peace *(meaning)*
+- `pt-BR/16-abandonment.md` [58]: “salvando Isaac e cumprindo suas promessas magníficas” → “salvando Isaac e cumprindo suas mais magníficas promessas” — source 'His most magnificent promises'; the superlative was dropped
+- `pt-BR/16-abandonment.md` [65]: “regnum Dei ; et dedit” → “regnum Dei; et dedit” — space before the semicolon is an OCR spacing artifact; the translation removes it in other Latin quotations
+- `pt-BR/17-good-zeal.md` [43]: “exige também demasiada abnegação” → “exige demasiada abnegação” — source 'requires too much abnegation'; 'too' is already rendered by 'demasiada', so 'também' adds a word that is not in the source
+- `pt-BR/17-good-zeal.md` [104]: “que se tornou nossa Redenção” → “que se tornou nosso Redentor” — source 'become our Redeemer'; the source names the person, not the act
+- Rejected: pt-BR/17-good-zeal.md [31] — parenthesis '(at least, in most cases)' missing — the content is kept as an apposition ('ao menos na maioria dos casos'); nothing is lost
+- Rejected: pt-BR/17-good-zeal.md [110]-[112] — unbalanced quotes — multi-paragraph quotation convention: each paragraph opens with a quote mark and only the last one closes
+- Rejected: pt-BR/16-abandonment.md [16] — 'cadeia interrompida' may be a source slip for 'uninterrupted' — already handled in the journal; it follows the source and is flagged for editorial check
+- Rejected: pt-BR/16-abandonment.md [54], 18 [12], preface — emphasis marker counts differ — a stray source asterisk was removed and retained Latin was italicized, as the journal states
 
 ### Part 6 of 6, Round 2 (codex, full read)
-Verdict: 1 meaning-level, 1 minor. Leitura integral dos 347 parágrafos dos quatro arquivos, com conferência do aparato, metadados e diário: um defeito de sentido e um erro ortográfico.
-- `pt-BR/18-peace-of-christ.md` [13]: “devemos haurí-la” → “devemos hauri-la” — A forma hauri-la não recebe acento: o i tônico não forma hiato com a vogal anterior. A correção da rodada anterior introduziu esse erro ortográfico.
-- `pt-BR/18-peace-of-christ.md` [60]: “farei o peso pender sobre todos os meus pecados” → “superarei o peso de todos os meus pecados” — A fonte diz “outweigh all my sins”: o cálice supera na balança o peso dos pecados. A tradução faz o peso pender sobre os pecados, obscurecendo a relação entre os pratos. *(meaning)*
-- Rejected: pt-BR/18-peace-of-christ.md [27–28] — Possível omissão indicada pelo alerta de extensão do parágrafo 27. — A oração interrompida em “por” continua integralmente no parágrafo 28; não há conteúdo omitido.
+Verdict: 3 meaning-level, 1 minor. Leitura integral dos 545 parágrafos dos quatro arquivos, com conferência dos metadados, diário e auditoria: três defeitos de sentido e um de espaçamento.
+- `pt-BR/16-abandonment.md` [65]: “scientiam sanctorum ; honestavit” → “scientiam sanctorum; honestavit” — Espaço indevido antes do ponto e vírgula, remanescente do artefato já corrigido na mesma citação.
+- `pt-BR/17-good-zeal.md` [101]: “para se tornar fonte de oração, e não apenas aumentar um conhecimento friamente intelectual” → “para se tornar fonte de oração, e não para aumentar um conhecimento friamente intelectual” — A fonte exclui a finalidade de aumentar um conhecimento friamente intelectual; 'não apenas' passa a admiti-la como finalidade adicional. *(meaning)*
+- `pt-BR/18-peace-of-christ.md` [49]: “farei contrapeso a todos os meus pecados” → “superarei o peso de todos os meus pecados” — A fonte diz 'outweigh': superar o peso dos pecados, e não simplesmente contrabalançá-los. *(meaning)*
+- `pt-BR/18-peace-of-christ.md` [49]: “farei infinitamente contrapeso a toda a minha indignidade” → “superarei infinitamente o peso de toda a minha indignidade” — A fonte diz 'infinitely overbalance': ultrapassar infinitamente o peso da indignidade, não apenas fazer-lhe contrapeso. *(meaning)*
+- Rejected: pt-BR/17-good-zeal.md [94] — A construção 'Não é deixar Cristo dar-nos a seus membros por obediência' parece atribuir a Cristo o ato de dar-nos. — É possível analisar 'dar-nos a seus membros por obediência' como sujeito infinitivo posposto de 'não é deixar Cristo'; o contexto sustenta o sentido correto.
+- Rejected: Referências bíblicas sinalizadas pela auditoria nos quatro arquivos — As referências numéricas aparecem apenas na tradução segundo o detector. — Correspondem às referências da fonte em algarismos romanos, convertidas para capítulos arábicos e dois-pontos; as anomalias herdadas da fonte foram preservadas.
 
-### Part 6 of 6, Round 3 (claude, delta read)
-Verdict: 0 meaning-level, 0 minor. Delta read of 18-peace-of-christ [12]–[14] and [59]–[61]: both fixes (“hauri-la” and “superarei o peso”) are correct and the shown paragraphs have no defects.
-- Rejected: pt-BR/18-peace-of-christ.md [13] — Check that “hauri-la” is right without the accent — In “hau-ri” the stressed i follows a consonant and forms no hiatus, so it takes no accent (compare “puni-la”, “parti-la”). The previous round's fix is correct.
-- Rejected: pt-BR/18-peace-of-christ.md [60] — “superarei” appears in two consecutive sentences (“superarei o peso”, “superarei infinitamente todo o peso”) — The source also uses near-synonyms here (“outweigh”, “overbalance”). The repetition is a defensible style choice and the sense is correct.
-- Rejected: pt-BR/18-peace-of-christ.md [60]–[61] — Audit flag: unbalanced quotes — St. Gertrude's quotation is split by the apparatus and continues into [61], where it is closed, as in the source.
+### Part 6 of 6, Round 3 (codex, full read)
+Verdict: 1 meaning-level, 0 minor. Leitura integral dos 545 parágrafos dos quatro arquivos, com conferência da auditoria, dos metadados e do diário: encontrado um defeito de sentido.
+- `pt-BR/17-good-zeal.md` [109]: “filho de Deus, seu homem de confiança e seu vassalo” → “filho de Deus, seu súdito juramentado e seu vassalo” — “Liege-man” designa alguém vinculado por juramento de fidelidade ao soberano; “homem de confiança” substitui esse vínculo de submissão pela confiança pessoal. *(meaning)*
+
+### Part 6 of 6, Round 4 (claude, delta read)
+Verdict: 0 meaning-level, 0 minor. Delta read of 17-good-zeal [108]–[110]: the “liege-man” fix is correct and the paragraphs have no defects.
+- Rejected: pt-BR/17-good-zeal.md [109] — “súdito juramentado” for “liege-man” — This is correct. A liege-man is bound to his lord by an oath of fidelity, and the phrase sits well beside “seu vassalo” with correct concord.
+- Rejected: pt-BR/17-good-zeal.md [109] — “Rei” is capitalized where the source has lowercase “king” — The capital is a reverential choice for God as King. House rules say not to normalize reverential capitalization.
+- Rejected: pt-BR/17-good-zeal.md [110] — Unbalanced opening quotation mark — The quotation continues across several paragraphs: each opens with a mark and only the last one closes it. Round 1 already rejected this finding.

@@ -2,13 +2,16 @@
   "id": "hippolytus-refutation-of-all-heresies",
   "cover": "quarter",
   "name": {
-    "en-US": "The Refutation of All Heresies"
+    "en-US": "The Refutation of All Heresies",
+    "pt-BR": "Refutação de Todas as Heresias"
   },
   "author": {
-    "en-US": "Hippolytus"
+    "en-US": "Hippolytus",
+    "pt-BR": "Hipólito"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,53 +24,68 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "BOOK 1"
+        "en-US": "BOOK 1",
+        "pt-BR": "LIVRO 1"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "BOOK 4"
+        "en-US": "BOOK 4",
+        "pt-BR": "LIVRO 4"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "BOOK 5"
+        "en-US": "BOOK 5",
+        "pt-BR": "LIVRO 5"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "BOOK 6"
+        "en-US": "BOOK 6",
+        "pt-BR": "LIVRO 6"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "BOOK 7"
+        "en-US": "BOOK 7",
+        "pt-BR": "LIVRO 7"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "BOOK 8"
+        "en-US": "BOOK 8",
+        "pt-BR": "LIVRO 8"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "en-US": "BOOK 9"
+        "en-US": "BOOK 9",
+        "pt-BR": "LIVRO 9"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "en-US": "BOOK 10"
+        "en-US": "BOOK 10",
+        "pt-BR": "LIVRO 10"
       }
     }
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }

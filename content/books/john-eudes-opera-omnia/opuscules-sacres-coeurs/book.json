@@ -18,13 +18,19 @@
   },
   "composed": "1650–1672",
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "john-eudes/opuscules-sacres-coeurs",
   "editions": {
     "fr-FR": {
       "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
       "year": 1905
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,181 +47,211 @@
     {
       "id": "op-01",
       "title": {
-        "fr-FR": "Introduction (1)"
+        "fr-FR": "Introduction (1)",
+        "pt-BR": "Introdução (1)"
       }
     },
     {
       "id": "op-02",
       "title": {
-        "fr-FR": "Introduction (2)"
+        "fr-FR": "Introduction (2)",
+        "pt-BR": "Introdução (2)"
       }
     },
     {
       "id": "op-03",
       "title": {
-        "fr-FR": "Première partie (1): L'Origine et le Fondement de cette Dévotion 1"
+        "fr-FR": "Première partie (1): L'Origine et le Fondement de cette Dévotion 1",
+        "pt-BR": "Primeira parte (1): A Origem e o Fundamento desta Devoção 1"
       }
     },
     {
       "id": "op-04",
       "title": {
-        "fr-FR": "Première partie (2): Le nom de cœur est employé, dans les saintes Écritures,"
+        "fr-FR": "Première partie (2): Le nom de cœur est employé, dans les saintes Écritures,",
+        "pt-BR": "Primeira parte (2): O nome de coração é empregado, nas Sagradas Escrituras,"
       }
     },
     {
       "id": "op-05",
       "title": {
-        "fr-FR": "Première partie (3): Jacob. I, 2"
+        "fr-FR": "Première partie (3): Jacob. I, 2",
+        "pt-BR": "Primeira parte (3): Tiago 1:2"
       }
     },
     {
       "id": "op-06",
       "title": {
-        "fr-FR": "Deuxième partie (1): Avis sur cette Dévotion"
+        "fr-FR": "Deuxième partie (1): Avis sur cette Dévotion",
+        "pt-BR": "Segunda parte (1): Orientações sobre esta Devoção"
       }
     },
     {
       "id": "op-07",
       "title": {
-        "fr-FR": "Troisième partie (1): Salutation au très saint cœur"
+        "fr-FR": "Troisième partie (1): Salutation au très saint cœur",
+        "pt-BR": "Terceira parte (1): Saudação ao santíssimo coração"
       }
     },
     {
       "id": "op-08",
       "title": {
-        "fr-FR": "Troisième partie (2): D'une autre salutation à la très sainte vierge marie"
+        "fr-FR": "Troisième partie (2): D'une autre salutation à la très sainte vierge marie",
+        "pt-BR": "Terceira parte (2): De outra saudação à santíssima Virgem Maria"
       }
     },
     {
       "id": "op-09",
       "title": {
-        "fr-FR": "Introduction (3): Blouet de than"
+        "fr-FR": "Introduction (3): Blouet de than",
+        "pt-BR": "Introdução (3): Blouet de Than"
       }
     },
     {
       "id": "op-10",
       "title": {
-        "fr-FR": "Introduction (4): Plusieurs autres raisons"
+        "fr-FR": "Introduction (4): Plusieurs autres raisons",
+        "pt-BR": "Introdução (4): Várias outras razões"
       }
     },
     {
       "id": "op-11",
       "title": {
-        "fr-FR": "Introduction (5): La même Salutation en français"
+        "fr-FR": "Introduction (5): La même Salutation en français",
+        "pt-BR": "Introdução (5): A mesma Saudação em português"
       }
     },
     {
       "id": "op-12",
       "title": {
-        "fr-FR": "Introduction (6)"
+        "fr-FR": "Introduction (6)",
+        "pt-BR": "Introdução (6)"
       }
     },
     {
       "id": "op-13",
       "title": {
-        "fr-FR": "Première partie (4): Bulle"
+        "fr-FR": "Première partie (4): Bulle",
+        "pt-BR": "Primeira parte (4): Bula"
       }
     },
     {
       "id": "op-14",
       "title": {
-        "fr-FR": "Première partie (5): Dispositions"
+        "fr-FR": "Première partie (5): Dispositions",
+        "pt-BR": "Primeira parte (5): Disposições"
       }
     },
     {
       "id": "op-15",
       "title": {
-        "fr-FR": "Deuxième partie (2): Exercices de piété"
+        "fr-FR": "Deuxième partie (2): Exercices de piété",
+        "pt-BR": "Segunda parte (2): Exercícios de piedade"
       }
     },
     {
       "id": "op-16",
       "title": {
-        "fr-FR": "Troisième partie (3): Briève instruction sur l'excellence du cœur sacré"
+        "fr-FR": "Troisième partie (3): Briève instruction sur l'excellence du cœur sacré",
+        "pt-BR": "Terceira parte (3): Breve instrução sobre a excelência do coração sagrado"
       }
     },
     {
       "id": "op2-01",
       "title": {
-        "fr-FR": "Manuel des Écoliers de Lisieux: À jésus et marie"
+        "fr-FR": "Manuel des Écoliers de Lisieux: À jésus et marie",
+        "pt-BR": "Manual dos Escolares de Lisieux: A Jesus e Maria"
       }
     },
     {
       "id": "op2-02",
       "title": {
-        "fr-FR": "Introduction (1): Manuel de la congrégation"
+        "fr-FR": "Introduction (1): Manuel de la congrégation",
+        "pt-BR": "Introdução (1): Manual da congregação"
       }
     },
     {
       "id": "op2-03",
       "title": {
-        "fr-FR": "Introduction (2): XIX. --RÈGLES DE LA CONGRÉGATiON DE LA GLORIEUSE VIERGE"
+        "fr-FR": "Introduction (2): XIX. --RÈGLES DE LA CONGRÉGATiON DE LA GLORIEUSE VIERGE",
+        "pt-BR": "Introdução (2): XIX. — REGRAS DA CONGREGAÇÃO DA GLORIOSA VIRGEM"
       }
     },
     {
       "id": "op2-04",
       "title": {
-        "fr-FR": "Introduction (3): I. --nature et organisation de la société"
+        "fr-FR": "Introduction (3): I. --nature et organisation de la société",
+        "pt-BR": "Introdução (3): I. — natureza e organização da sociedade"
       }
     },
     {
       "id": "op2-05",
       "title": {
-        "fr-FR": "Introduction (4): Livres des Vierges et des pieuses Veuves, p. 5"
+        "fr-FR": "Introduction (4): Livres des Vierges et des pieuses Veuves, p. 5",
+        "pt-BR": "Introdução (4): Livros das Virgens e das piedosas Viúvas, p. 5"
       }
     },
     {
       "id": "op2-06",
       "title": {
-        "fr-FR": "Introduction (5): Approbations et Indulgences"
+        "fr-FR": "Introduction (5): Approbations et Indulgences",
+        "pt-BR": "Introdução (5): Aprovações e Indulgências"
       }
     },
     {
       "id": "op2-07",
       "title": {
-        "fr-FR": "Introduction (6): Le règlement et les manuels"
+        "fr-FR": "Introduction (6): Le règlement et les manuels",
+        "pt-BR": "Introdução (6): O regulamento e os manuais"
       }
     },
     {
       "id": "op3-01",
       "title": {
-        "fr-FR": "Règlement de la Société: Règlement de la société du très saint cœur"
+        "fr-FR": "Règlement de la Société: Règlement de la société du très saint cœur",
+        "pt-BR": "Regulamento da Sociedade: Regulamento da sociedade do santíssimo coração"
       }
     },
     {
       "id": "op3-02",
       "title": {
-        "fr-FR": "Première partie (1): Règles de la société"
+        "fr-FR": "Première partie (1): Règles de la société",
+        "pt-BR": "Primeira parte (1): Regras da sociedade"
       }
     },
     {
       "id": "op3-03",
       "title": {
-        "fr-FR": "Première partie (2)"
+        "fr-FR": "Première partie (2)",
+        "pt-BR": "Primeira parte (2)"
       }
     },
     {
       "id": "op3-04",
       "title": {
-        "fr-FR": "Première partie (3): On trouvera dans la seconde partie, ch. 1, § 6, une prière composée"
+        "fr-FR": "Première partie (3): On trouvera dans la seconde partie, ch. 1, § 6, une prière composée",
+        "pt-BR": "Primeira parte (3): Encontrar-se-á na segunda parte, cap. 1, § 6, uma oração composta"
       }
     },
     {
       "id": "op3-05",
       "title": {
-        "fr-FR": "Seconde partie (1): Pratique de la dévOtion au Sacré Cœur de Jésus"
+        "fr-FR": "Seconde partie (1): Pratique de la dévOtion au Sacré Cœur de Jésus",
+        "pt-BR": "Segunda parte (1): Prática da devoção ao Sagrado Coração de Jesus"
       }
     },
     {
       "id": "op3-06",
       "title": {
-        "fr-FR": "Seconde partie (2): Litanies"
+        "fr-FR": "Seconde partie (2): Litanies",
+        "pt-BR": "Segunda parte (2): Ladainhas"
       }
     },
     {
       "id": "op3-07",
       "title": {
-        "fr-FR": "Seconde partie (3): Bénédictions"
+        "fr-FR": "Seconde partie (3): Bénédictions",
+        "pt-BR": "Segunda parte (3): Bênçãos"
       }
     }
   ]

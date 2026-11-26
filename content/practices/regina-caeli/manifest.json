@@ -1,5 +1,6 @@
 {
 	"id": "regina-caeli",
+	"dayPrayer": "midday",
 	"form": "prayer",
 	"liturgical": true,
 	"icon": "mary",

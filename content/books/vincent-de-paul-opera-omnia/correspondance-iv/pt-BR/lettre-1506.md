@@ -1,0 +1,7 @@
+# Carta 1506. A Aquiles le Vazeux, Padre da Missão, em Roma
+
+Junho de 1652.
+
+A respeito do que me dizeis das intrigas de que se faz uso atualmente para tratar dos assuntos, e que até são empregadas contra nós, peçamos a Deus que nos guarde desse espírito; já que o censuramos nos outros, é ainda mais razoável afastá-lo de nós como uma falta contra a Providência divina, que torna aqueles que a cometem indignos dos cuidados que ela tem por cada coisa. Estabeleçamo-nos na inteira dependência de Deus e na confiança de que, assim procedendo, tudo o que os homens disserem ou fizerem contra nós se converterá em bem. Sim, Senhor, e, ainda que toda a terra se levantasse para nos destruir, só acontecerá o que aprouver a Deus, em quem pusemos nossa esperança. Peço-vos que entreis nesse sentimento e nele permaneçais tão firmemente que nunca mais ocupeis vosso espírito com essas apreensões inúteis, tendo por certo que Deus se servirá, para nos defender, dessas mesmas intrigas pelas quais os outros poderão tentar prejudicar-nos para conseguir suas fundações. Quanto a mim, peço perdão à sua bondade se até agora dei ouvidos às coisas que me escrevestes sobre esse assunto, e pelas respostas que vos possa ter dado que não tenham tendido inteiramente a esse abandono a Deus em que devemos viver. Peço-lhe que doravante nos conceda a graça de não temer nem desejar senão a ele somente, em quem sou, Senhor, vosso… [^1]
+
+[^1]: Reg. 2, p. 258.

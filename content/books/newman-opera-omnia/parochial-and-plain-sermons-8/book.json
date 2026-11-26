@@ -15,13 +15,19 @@
   },
   "composed": "1843",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "newman/parochial-and-plain-sermons-8",
   "editions": {
     "en-US": {
       "editor": "John Henry Newman, ed. William John Copeland (Rivingtons, 1868; Newman Reader)",
       "year": 1868
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,109 +44,127 @@
     {
       "id": "sermon-1",
       "title": {
-        "en-US": "Sermon 1. Reverence in Worship"
+        "en-US": "Sermon 1. Reverence in Worship",
+        "pt-BR": "Sermão 1. Reverência no culto"
       }
     },
     {
       "id": "sermon-2",
       "title": {
-        "en-US": "Sermon 2. Divine Calls"
+        "en-US": "Sermon 2. Divine Calls",
+        "pt-BR": "Sermão 2. Chamados divinos"
       }
     },
     {
       "id": "sermon-3",
       "title": {
-        "en-US": "Sermon 3. The Trial of Saul"
+        "en-US": "Sermon 3. The Trial of Saul",
+        "pt-BR": "Sermão 3. A provação de Saul"
       }
     },
     {
       "id": "sermon-4",
       "title": {
-        "en-US": "Sermon 4. The Call of David"
+        "en-US": "Sermon 4. The Call of David",
+        "pt-BR": "Sermão 4. O chamado de Davi"
       }
     },
     {
       "id": "sermon-5",
       "title": {
-        "en-US": "Sermon 5. Curiosity a Temptation to Sin"
+        "en-US": "Sermon 5. Curiosity a Temptation to Sin",
+        "pt-BR": "Sermão 5. A curiosidade como tentação ao pecado"
       }
     },
     {
       "id": "sermon-6",
       "title": {
-        "en-US": "Sermon 6. Miracles no Remedy for Unbelief"
+        "en-US": "Sermon 6. Miracles no Remedy for Unbelief",
+        "pt-BR": "Sermão 6. Os milagres não são remédio para a incredulidade"
       }
     },
     {
       "id": "sermon-7",
       "title": {
-        "en-US": "Sermon 7. Josiah, a Pattern for the Ignorant"
+        "en-US": "Sermon 7. Josiah, a Pattern for the Ignorant",
+        "pt-BR": "Sermão 7. Josias, modelo para os ignorantes"
       }
     },
     {
       "id": "sermon-8",
       "title": {
-        "en-US": "Sermon 8. Inward Witness to the Truth of the Gospel"
+        "en-US": "Sermon 8. Inward Witness to the Truth of the Gospel",
+        "pt-BR": "Sermão 8. O testemunho interior da verdade do Evangelho"
       }
     },
     {
       "id": "sermon-9",
       "title": {
-        "en-US": "Sermon 9. Jeremiah, a Lesson for the Disappointed"
+        "en-US": "Sermon 9. Jeremiah, a Lesson for the Disappointed",
+        "pt-BR": "Sermão 9. Jeremias, uma lição para os decepcionados"
       }
     },
     {
       "id": "sermon-10",
       "title": {
-        "en-US": "Sermon 10. Endurance of the World's Censure"
+        "en-US": "Sermon 10. Endurance of the World's Censure",
+        "pt-BR": "Sermão 10. Suportar a censura do mundo"
       }
     },
     {
       "id": "sermon-11",
       "title": {
-        "en-US": "Sermon 11. Doing Glory to God in Pursuits of the World"
+        "en-US": "Sermon 11. Doing Glory to God in Pursuits of the World",
+        "pt-BR": "Sermão 11. Dar glória a Deus nas ocupações do mundo"
       }
     },
     {
       "id": "sermon-12",
       "title": {
-        "en-US": "Sermon 12. Vanity of Human Glory"
+        "en-US": "Sermon 12. Vanity of Human Glory",
+        "pt-BR": "Sermão 12. A vaidade da glória humana"
       }
     },
     {
       "id": "sermon-13",
       "title": {
-        "en-US": "Sermon 13. Truth Hidden when not Sought After"
+        "en-US": "Sermon 13. Truth Hidden when not Sought After",
+        "pt-BR": "Sermão 13. A verdade oculta quando não é procurada"
       }
     },
     {
       "id": "sermon-14",
       "title": {
-        "en-US": "Sermon 14. Obedience to God the Way to Faith in Christ"
+        "en-US": "Sermon 14. Obedience to God the Way to Faith in Christ",
+        "pt-BR": "Sermão 14. A obediência a Deus, caminho para a fé em Cristo"
       }
     },
     {
       "id": "sermon-15",
       "title": {
-        "en-US": "Sermon 15. Sudden Conversions"
+        "en-US": "Sermon 15. Sudden Conversions",
+        "pt-BR": "Sermão 15. Conversões repentinas"
       }
     },
     {
       "id": "sermon-16",
       "title": {
-        "en-US": "Sermon 16. The Shepherd of Our Souls"
+        "en-US": "Sermon 16. The Shepherd of Our Souls",
+        "pt-BR": "Sermão 16. O Pastor de nossas almas"
       }
     },
     {
       "id": "sermon-17",
       "title": {
-        "en-US": "Sermon 17. Religious Joy"
+        "en-US": "Sermon 17. Religious Joy",
+        "pt-BR": "Sermão 17. A alegria religiosa"
       }
     },
     {
       "id": "sermon-18",
       "title": {
-        "en-US": "Sermon 18. Ignorance of Evil"
+        "en-US": "Sermon 18. Ignorance of Evil",
+        "pt-BR": "Sermão 18. A ignorância do mal"
       }
     }
   ]

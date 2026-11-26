@@ -46,10 +46,40 @@ export function usePracticeCompletion(
   const [showCompleteModal, setShowCompleteModal] = useState(false)
 
   // `checkInAt`: the church this Mass was prayed at, from "Amém and check in". The check-in only
-  // says where; the completion logged here is the Mass's one count.
+  // says where; the completion logged here is the Mass's one count. `asMass`: the daily liturgy
+  // followed at Mass, which marks the Mass instead of the reading.
   const handleComplete = useCallback(
-    (checkInAt?: { id: string; name: string }) => {
+    ({
+      checkInAt,
+      asMass,
+    }: {
+      checkInAt?: { id: string; name: string }
+      asMass?: boolean
+    } = {}) => {
       const date = dayDate ?? format(getToday(), 'yyyy-MM-dd')
+      if (asMass) {
+        completePractice.mutate(
+          { prayedId: 'mass', date },
+          {
+            onSuccess: async () => {
+              successBuzz()
+              try {
+                if (checkInAt) await checkIn(checkInAt, { kind: 'mass' }, { massMarked: true })
+                router.back()
+                setTimeout(() => void askForReviewIfDue(2), 1200)
+              } catch (err) {
+                console.error('[practice] post-completion sync failed', err)
+                confirm({
+                  title: t('practice.completionSyncFailed'),
+                  description: t('practice.completionSyncFailedDesc'),
+                  singleAction: true,
+                })
+              }
+            },
+          },
+        )
+        return
+      }
 
       // What the flow's pinnable selects stood at: the tab switched to, else the
       // engine's pick. It says which of an office's hours this was.

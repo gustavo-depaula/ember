@@ -18,13 +18,19 @@
   },
   "composed": "1630–1680",
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "john-eudes/opuscules",
   "editions": {
     "fr-FR": {
       "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
       "year": 1905
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,199 +47,232 @@
     {
       "id": "op-01",
       "title": {
-        "fr-FR": "Memoriale beneficiorum Dei"
+        "fr-FR": "Memoriale beneficiorum Dei",
+        "pt-BR": "Memoriale beneficiorum Dei"
       }
     },
     {
       "id": "op-02",
       "title": {
-        "fr-FR": "Introduction (1)"
+        "fr-FR": "Introduction (1)",
+        "pt-BR": "Introdução (1)"
       }
     },
     {
       "id": "op-03",
       "title": {
-        "fr-FR": "Introduction (2)"
+        "fr-FR": "Introduction (2)",
+        "pt-BR": "Introdução (2)"
       }
     },
     {
       "id": "op-04",
       "title": {
-        "fr-FR": "II. voeu"
+        "fr-FR": "II. voeu",
+        "pt-BR": "II. voto"
       }
     },
     {
       "id": "op-05",
       "title": {
-        "fr-FR": "III. mémoires aux peres de l'oratoire"
+        "fr-FR": "III. mémoires aux peres de l'oratoire",
+        "pt-BR": "III. memoriais aos padres do Oratório"
       }
     },
     {
       "id": "op-06",
       "title": {
-        "fr-FR": "IV. REQUETE à l'Assemblée du Clergé de France"
+        "fr-FR": "IV. REQUETE à l'Assemblée du Clergé de France",
+        "pt-BR": "IV. PETIÇÃO à Assembleia do Clero da França"
       }
     },
     {
       "id": "op-07",
       "title": {
-        "fr-FR": "V. statutorum congregationis jesu et mariae"
+        "fr-FR": "V. statutorum congregationis jesu et mariae",
+        "pt-BR": "V. dos estatutos da Congregação de Jesus e Maria"
       }
     },
     {
       "id": "op-08",
       "title": {
-        "fr-FR": "VI. requête a monseigneur d'angennes"
+        "fr-FR": "VI. requête a monseigneur d'angennes",
+        "pt-BR": "VI. petição a Dom d'Angennes"
       }
     },
     {
       "id": "op-09",
       "title": {
-        "fr-FR": "VII. requete a l'archeveque de rouen 10"
+        "fr-FR": "VII. requete a l'archeveque de rouen 10",
+        "pt-BR": "VII. petição ao arcebispo de Rouen 10"
       }
     },
     {
       "id": "op-10",
       "title": {
-        "fr-FR": "VIII. EXHORTATION A SES PRÊTRES au temps de la Fronde"
+        "fr-FR": "VIII. EXHORTATION A SES PRÊTRES au temps de la Fronde",
+        "pt-BR": "VIII. EXORTAÇÃO A SEUS SACERDOTES no tempo da Fronda"
       }
     },
     {
       "id": "op-11",
       "title": {
-        "fr-FR": "IX. SUR LA VÉN. MARGUERITE DE BEAUNE qui venait de mourir"
+        "fr-FR": "IX. SUR LA VÉN. MARGUERITE DE BEAUNE qui venait de mourir",
+        "pt-BR": "IX. SOBRE A VEN. MARGARIDA DE BEAUNE que acabava de morrer"
       }
     },
     {
       "id": "op-12",
       "title": {
-        "fr-FR": "XI. REQUÊTE A MONSEIGNEUR MOLÉ, Évêque de Bayeux"
+        "fr-FR": "XI. REQUÊTE A MONSEIGNEUR MOLÉ, Évêque de Bayeux",
+        "pt-BR": "XI. PETIÇÃO A DOM MOLÉ, Bispo de Bayeux"
       }
     },
     {
       "id": "op-13",
       "title": {
-        "fr-FR": "XII. sur la soeur marie des vallées 17"
+        "fr-FR": "XII. sur la soeur marie des vallées 17",
+        "pt-BR": "XII. sobre a irmã Marie des Vallées 17"
       }
     },
     {
       "id": "op-14",
       "title": {
-        "fr-FR": "XIII. protestation de haine contre le péché 18"
+        "fr-FR": "XIII. protestation de haine contre le péché 18",
+        "pt-BR": "XIII. protesto de ódio ao pecado 18"
       }
     },
     {
       "id": "op-15",
       "title": {
-        "fr-FR": "XIV. élévation a jésus pendant un orage 19"
+        "fr-FR": "XIV. élévation a jésus pendant un orage 19",
+        "pt-BR": "XIV. elevação a Jesus durante uma tempestade 19"
       }
     },
     {
       "id": "op-16",
       "title": {
-        "fr-FR": "XV. EXHORTATION aux Religieuses de Notre-Dame de Charité, à l'occasion du renouvellement de leurs vœux"
+        "fr-FR": "XV. EXHORTATION aux Religieuses de Notre-Dame de Charité, à l'occasion du renouvellement de leurs vœux",
+        "pt-BR": "XV. EXORTAÇÃO às Religiosas de Nossa Senhora da Caridade, por ocasião da renovação de seus votos"
       }
     },
     {
       "id": "op-17",
       "title": {
-        "fr-FR": "XVI. CONTRAT d'une sainte Alliance avec la très sacrée Vierge Marie, Mère de Dieu"
+        "fr-FR": "XVI. CONTRAT d'une sainte Alliance avec la très sacrée Vierge Marie, Mère de Dieu",
+        "pt-BR": "XVI. CONTRATO de uma santa Aliança com a sacratíssima Virgem Maria, Mãe de Deus"
       }
     },
     {
       "id": "op-18",
       "title": {
-        "fr-FR": "XVII. lettre a la tres sainte vierge 24"
+        "fr-FR": "XVII. lettre a la tres sainte vierge 24",
+        "pt-BR": "XVII. carta à Santíssima Virgem 24"
       }
     },
     {
       "id": "op-19",
       "title": {
-        "fr-FR": "XVIII. testament du bienheureux jean eudes 25"
+        "fr-FR": "XVIII. testament du bienheureux jean eudes 25",
+        "pt-BR": "XVIII. testamento do bem-aventurado João Eudes 25"
       }
     },
     {
       "id": "op-20",
       "title": {
-        "fr-FR": "XIX. MÉMOIRE Sur la Congrégation de Jésus et Marie"
+        "fr-FR": "XIX. MÉMOIRE Sur la Congrégation de Jésus et Marie",
+        "pt-BR": "XIX. MEMORIAL Sobre a Congregação de Jesus e Maria"
       }
     },
     {
       "id": "op-21",
       "title": {
-        "fr-FR": "XX. ACTE D'ASSOCIATION Aux prières de la Congrégation de Jésus et M arie"
+        "fr-FR": "XX. ACTE D'ASSOCIATION Aux prières de la Congrégation de Jésus et M arie",
+        "pt-BR": "XX. ATO DE ASSOCIAÇÃO Às orações da Congregação de Jesus e Maria"
       }
     },
     {
       "id": "op-22",
       "title": {
-        "fr-FR": "XXI. ACCORD Entre les Prêtres de la Congrégation de Jésus et Marie et les Religieuses de Notre-Dame de"
+        "fr-FR": "XXI. ACCORD Entre les Prêtres de la Congrégation de Jésus et Marie et les Religieuses de Notre-Dame de",
+        "pt-BR": "XXI. ACORDO Entre os Sacerdotes da Congregação de Jesus e Maria e as Religiosas de Nossa Senhora da"
       }
     },
     {
       "id": "op-23",
       "title": {
-        "fr-FR": "XXII. FORMULE DE VOEU DE CHASTETÉ Pour une personne du monde"
+        "fr-FR": "XXII. FORMULE DE VOEU DE CHASTETÉ Pour une personne du monde",
+        "pt-BR": "XXII. FÓRMULA DE VOTO DE CASTIDADE Para uma pessoa que vive no mundo"
       }
     },
     {
       "id": "op-24",
       "title": {
-        "fr-FR": "XXIII. EXHORTATION Du B. Jean Eudes à ses Missionnaires"
+        "fr-FR": "XXIII. EXHORTATION Du B. Jean Eudes à ses Missionnaires",
+        "pt-BR": "XXIII. EXORTAÇÃO Do B. João Eudes a seus Missionários"
       }
     },
     {
       "id": "op-25",
       "title": {
-        "fr-FR": "XXIV. sur le saint nom de jésus 41"
+        "fr-FR": "XXIV. sur le saint nom de jésus 41",
+        "pt-BR": "XXIV. sobre o santo nome de Jesus 41"
       }
     },
     {
       "id": "op-26",
       "title": {
-        "fr-FR": "XXV. maximes sur la supériorité 42"
+        "fr-FR": "XXV. maximes sur la supériorité 42",
+        "pt-BR": "XXV. máximas sobre o ofício de superior 42"
       }
     },
     {
       "id": "op-27",
       "title": {
-        "fr-FR": "XXVI. CONSEILS Sur l'admission des sujets à N. D. de Charité"
+        "fr-FR": "XXVI. CONSEILS Sur l'admission des sujets à N. D. de Charité",
+        "pt-BR": "XXVI. CONSELHOS Sobre a admissão de candidatas em N. S. da Caridade"
       }
     },
     {
       "id": "op-28",
       "title": {
-        "fr-FR": "XXVIII. EXTRAITS Du Registre des Fondateurs et Bienfaiteurs signalés de la Congrégation de Jésus et Marie"
+        "fr-FR": "XXVIII. EXTRAITS Du Registre des Fondateurs et Bienfaiteurs signalés de la Congrégation de Jésus et Marie",
+        "pt-BR": "XXVIII. EXCERTOS Do Registro dos Fundadores e Benfeitores insignes da Congregação de Jesus e Maria"
       }
     },
     {
       "id": "op-29",
       "title": {
-        "fr-FR": "XXIX. NOTE Pour mettre en tête du Régistre des Bienfaiteurs de chaque 44 Hérambourg, I, ch. 5; Costil"
+        "fr-FR": "XXIX. NOTE Pour mettre en tête du Régistre des Bienfaiteurs de chaque 44 Hérambourg, I, ch. 5; Costil",
+        "pt-BR": "XXIX. NOTA Para colocar no início do Registro dos Benfeitores de cada 44 Hérambourg, I, cap. 5; Costil"
       }
     },
     {
       "id": "op-30",
       "title": {
-        "fr-FR": "XXX. DEUX ARTICLES NÉCROLOGIQUES Écrits de la main du B. Jean Eudes dans un Nécrologe général de la"
+        "fr-FR": "XXX. DEUX ARTICLES NÉCROLOGIQUES Écrits de la main du B. Jean Eudes dans un Nécrologe général de la",
+        "pt-BR": "XXX. DOIS ARTIGOS NECROLÓGICOS Escritos pela mão do B. João Eudes num Necrológio geral da"
       }
     },
     {
       "id": "op-31",
       "title": {
-        "fr-FR": "XXXII. EXTRAITS Du Livre des Visites du Séminaire de Rouen"
+        "fr-FR": "XXXII. EXTRAITS Du Livre des Visites du Séminaire de Rouen",
+        "pt-BR": "XXXII. EXCERTOS Do Livro das Visitas do Seminário de Rouen"
       }
     },
     {
       "id": "op-32",
       "title": {
-        "fr-FR": "XXXIII. PENSÉES ET MAXIMES du Bienheureux Jean Eudes qui nous ont été conservées par ses biographes (1)"
+        "fr-FR": "XXXIII. PENSÉES ET MAXIMES du Bienheureux Jean Eudes qui nous ont été conservées par ses biographes (1)",
+        "pt-BR": "XXXIII. PENSAMENTOS E MÁXIMAS do Bem-aventurado João Eudes que nos foram conservados por seus biógrafos (1)"
       }
     },
     {
       "id": "op-33",
       "title": {
-        "fr-FR": "XXXIII. PENSÉES ET MAXIMES du Bienheureux Jean Eudes qui nous ont été conservées par ses biographes (2)"
+        "fr-FR": "XXXIII. PENSÉES ET MAXIMES du Bienheureux Jean Eudes qui nous ont été conservées par ses biographes (2)",
+        "pt-BR": "XXXIII. PENSAMENTOS E MÁXIMAS do Bem-aventurado João Eudes que nos foram conservados por seus biógrafos (2)"
       }
     }
   ]

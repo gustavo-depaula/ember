@@ -1,0 +1,17 @@
+# Carta 2847. A Lucas Plunket, Padre da Missão em Saint-Méen
+
+De Paris, em 21 de maio de 1659
+
+Senhor,
+
+A graça de N. S. esteja convosco para sempre!
+
+Não recebi tua resposta à carta que te escrevi, nem qualquer notícia de que tenhas feito o que te pedi, que é te deixares conduzir; pelo contrário, soube que não queres ensinar o canto nem assistir ao ofício, por mais necessidade que haja disso e por mais que te peçam, e isso porque tens afeição por ir às missões. Mas, Senhor, que faremos para remediar essa desordem? Quanto a mim, receio que o próprio Deus a remedie com algum castigo sobre tua pessoa; eu ficaria muito triste, porque, na verdade, meu coração te estima e te ama. Por isso, peço à sua divina bondade que te abra os olhos para veres o mal que fazes e o perigo em que ele te põe, a fim de te levantares e, por esse meio, mereceres que Deus te conserve em tua vocação e continue a conceder-te as graças necessárias ao serviço de sua Igreja. Não sabes, Senhor, que estamos igualmente obrigados a formar bons eclesiásticos e a instruir os povos do campo, e que um padre da Missão que quer fazer uma coisa e não a outra é missionário apenas pela metade, pois é enviado para ambas? Digo mais: não o é de modo algum quando se recusa a obedecer numa coisa para se intrometer num ofício ao qual não se julga conveniente destiná-lo. É coisa bem estranha que, mal te tornaste padre pelo favor da companhia, comeces a resistir-lhe, e que, quando tens maior obrigação de praticar a humildade, a obediência e a gratidão, cometas as maiores faltas contra essas virtudes, para grande escândalo da casa e meu pesar.
+
+Meu Deus! Senhor, que pretendes fazer? Quanto a ir às missões, não estás apto para isso no momento, pois não tens suficiente domínio de nossa língua para falar em público. Tínhamos dificuldade para te entender aqui; como, então, a pobre gente te entenderia? E depois, pensas que, não sendo submisso num ofício, alguém ousará fazer-te passar a outro em que não se exige menos submissão? Pensas que não é dever dos superiores conter um indivíduo que se desmanda e negar-lhe os ofícios de maior visibilidade que procura, quando rejeita os que lhe foram confiados?
+
+Em nome de N. S., Senhor, humilha-te, pede-lhe perdão pelo mau exemplo que dás ao seminário e aos teus confrades, e fica certo de que a companhia é suficientemente indulgente para esquecer o passado e dar-te a satisfação que desejas, quando te vir indiferente aos ofícios e muito exato nas coisas que te recomendam. Trata-se agora de cantares no coro quando for preciso e ensinares o canto e as cerimônias aos eclesiásticos que estão em Saint-Méen para aprendê-los. É o que te peço, Senhor, com toda a ternura de meu coração. Já te tiraram de Tréguier, pensando que procederias melhor no lugar onde estás. Se não o fizeres, que esperança nos darás de que, enviando-te a outra casa, serás melhor! Pois a mudança de lugar não muda o homem. E, se estás resolvido a ser sempre o mesmo, apegado aos teus pareceres e inflexível às ordens daqueles por quem Deus quer que sejas conduzido, para que servirás? E que fará uma comunidade, que só se mantém pela correção e pela dependência, de um espírito que não quer nenhuma delas? Peço-te, Senhor, que penses nisso e me comuniques tua disposição. A minha é ser toda a vida, no amor de N. S., Senhor, teu muito humilde servidor.
+
+VICENTE DE PAULO, i. p. d. M. [^1]
+
+[^1]: Dossiê da Missão, cópia do século XVII.

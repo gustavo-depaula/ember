@@ -1,0 +1,35 @@
+# Carta 3191. A João du Haut de Salies, — Bispo de Lescar
+
+11 de agosto de 1660.
+
+Soube que Vossa Grandeza não recebeu a carta que tive a honra de lhe escrever no ano passado, em resposta à ordem que me havia dado de lhe enviar quatro de nossos padres para Bétharram; mas só tive certeza disso há poucos dias, quando me foi assegurado pelo Senhor primeiro presidente de Pau [^1], para quem havia uma carta no mesmo maço, que ele também não recebeu. Estou muito aflito, Monsenhor, pelo transtorno que tivestes com a perda desse maço e pelo motivo que tivestes para duvidar de minha obediência. Certamente eu seria um ingrato se tivesse deixado de vo-la demonstrar nesta ocasião em que vossa bondade nos faz a graça de nos chamar não somente à vossa diocese, mas a um dos postos mais favoráveis do reino, para ali prestar algum serviço a Deus; pelo que, Monsenhor, somos infinitamente obrigados a Vossa Grandeza.
+
+É verdade que me falou disso em termos obscuros, que, tomados ao pé da letra, nos impossibilitariam de aproveitar vossa boa vontade. É que, Monsenhor, depois de me dizerdes que obtivestes o consentimento desses Senhores de Bétharram, acrescentais que nossos padres serão ali recebidos como membros do referido corpo. Isso me obrigou, e ainda me obriga, a representar muito humildemente a Vossa Grandeza que essa proposta de entrar como membros desse corpo é incompatível com aquilo que somos, nós que constituímos um corpo de missionários, porque aqueles que enviássemos não poderiam ser ao mesmo tempo membros da Missão e membros da comunidade de Bétharram; seria necessário que saíssem de uma para entrar na outra, pois são dois corpos diferentes, a menos que dos dois se faça um só, unindo o corpo da Missão à comunidade de Bétharram ou o corpo de Bétharram à companhia da Missão.
+
+Esta, Monsenhor, de bom grado se uniria à outra, se pudesse, e deixaria a qualidade de congregação da Missão para tomar o nome da comunidade de Bétharram. Mas, como nosso pequeno Instituto foi aprovado pelos Papas, pelos reis da França, pelo parlamento de Paris e por outros tribunais soberanos sob o nome da Missão, não podemos deixar esse nome para tomar outro sem o consentimento de todos esses poderes e o de nossos benfeitores, que trataram conosco, que constituímos o corpo da Missão. E penso também, Monsenhor, que não é vossa intenção que isso se faça. Tampouco poderíamos fazê-lo sem o consentimento das casas que compõem nossa mesma companhia, e até das pessoas; o que é muito difícil.
+
+Dizer agora que somente esses quatro padres se desligarão da Missão para se incorporar à comunidade de Bétharram é, Monsenhor, o que eles não podem fazer, tendo-se dado a Deus para viver e morrer missionários na mesma congregação da Missão.
+
+Dizer também que a comunidade de Bétharram, tão considerável por sua instituição, pela aprovação dos senhores bispos de Lescar, pela santidade do lugar e pela graça dos milagres que ali se fazem, se unirá à nossa referida congregação e tomará seu nome, suas regras e sua maneira de agir é coisa que esses Senhores teriam dificuldade em fazer e Vossa Grandeza em aprovar, não sem motivo, dada nossa pequenez.
+
+Eis, Monsenhor, como se procedeu à união que se fez da casa de Saint-Lazare, junto de Paris, à nossa congregação. Havia ali cônegos regulares de Santo Agostinho, e o prior, com o consentimento deles, veio oferecer-me sua casa, no colégio dos Bons-Enfants, onde morávamos; o que aceitamos; e, tendo tratado com eles sob o beneplácito de Monsenhor o arcebispo, que era seu colador, ele mesmo fez a união e nos deu posse dessa casa e de todos os bens dela dependentes, com a condição de pagar ao referido prior e a cada um dos religiosos a pensão que havíamos combinado, de celebrar o serviço divino e cumprir todos os encargos, como também de lhes ser permitido morar conosco e retirar-se quando bem lhes parecesse; e, embora no início essa união fosse contrariada por um mosteiro da mesma Ordem [^2], foi, contudo, confirmada por cartas patentes do rei, dois acórdãos do parlamento e depois por nosso Santo Padre o Papa.
+
+Parece, pois, Monsenhor, que se poderia proceder dessa maneira à união de Bétharram, se desejam estabelecer-nos ali solidamente.
+
+Talvez se diga que, supondo-se a referida união de Bétharram à Missão, os exercícios de devoção já não serão ali praticados como agora e que só se verão ali as práticas das outras casas da Missão. Mas responde-se que os padres da Missão se obrigarão a exercer no referido Bétharram todos os deveres de piedade habituais: recitar o ofício divino, manter a música, receber os peregrinos, cumprir os encargos das fundações e conservar os edifícios, enfim, satisfazer a todas as obrigações e particularmente pagar aos Senhores eclesiásticos que nos tiverem colocado em seu lugar a pensão que vós, Monsenhor, determinardes. Para isso, seria oportuno apresentar-nos uma relação de toda a renda fixa e eventual e de todos os encargos antigos e novos que nos quiserem impor.
+
+Poder-se-á objetar também que, feita essa união, os Senhores eclesiásticos de Bétharram que não quiserem tornar-se missionários serão obrigados a retirar-se. Mas isso não acontecerá, pois, se quiserem permanecer na casa e nela trabalhar com os mesmos encargos e condições que tiveram até agora, isso lhes será permitido.
+
+Poder-se-á, finalmente, objetar que Monsenhor o bispo já não terá a autoridade que tinha sobre a referida capela. A isso respondo, Monsenhor, que sempre tereis ali o mesmo poder que tendes quanto ao serviço divino e à administração dos santos sacramentos, e que tereis muito mais sobre os referidos padres da Missão do que tendes sobre esses Senhores de Bétharram ou sobre quaisquer outros de vossa diocese, porque os missionários se deram a Deus e aos Senhores prelados para lhes obedecer como os servidores do Evangelho ao seu senhor, de modo que, quando lhes dizem: “Ide a tal lugar pregar, catequizar e exercer as outras funções da Missão”, são obrigados a ir, e, quando os chamam de volta, a voltar; e, quando lhes dizem: “Fazei isto”, devem fazê-lo, segundo nosso Instituto.
+
+Mas, quanto ao governo interior das famílias e das pessoas de nossa congregação, em qualquer lugar onde estejam, ele permanece com seu superior-geral. A ele compete transferi-las, chamá-las e fazê-las voltar de uma casa para outra, nomear os superiores locais e os outros oficiais, enviar de tempos em tempos visitadores de sua parte a cada lugar, para ali manter a caridade e a observância das regras, receber as contas das despesas e das receitas etc. [^3]
+
+Eis, Monsenhor, o que continha minha primeira carta. Tenho vergonha de vos fazer uma repetição tão longa e tão enfadonha. O desejo que temos de que tudo fique bem esclarecido, para prevenir as dificuldades que poderiam nascer do contrário, obrigou-me a estender-me dessa maneira. Suplico muito humildemente a Vossa Grandeza que não leve isso a mal e creia que, seja como for que lhe aprouver receber as coisas acima ditas, serei para sempre... [^4]
+
+[^1]: Teobaldo de la Vie.
+
+[^2]: A abadia de Saint-Victor.
+
+[^3]: O projeto de fundação em Bétharram não se concretizou.
+
+[^4]: Reg. 2, p. 89.

@@ -1,9 +1,57 @@
 {
   "sections": [
     {
-      "type": "include",
-      "ref": "producer/mass-proper-of",
-      "params": {}
+      "type": "select",
+      "as": "view",
+      "label": {
+        "en-US": "Daily Liturgy",
+        "pt-BR": "Liturgia Diária"
+      },
+      "default": "liturgy",
+      "options": [
+        {
+          "id": "liturgy",
+          "label": {
+            "en-US": "Liturgy",
+            "pt-BR": "Liturgia"
+          },
+          "sections": [
+            {
+              "type": "include",
+              "ref": "producer/mass-proper-of",
+              "params": {
+                "layout": "parts"
+              }
+            }
+          ]
+        },
+        {
+          "id": "opusdei",
+          "label": {
+            "en-US": "Reflection",
+            "pt-BR": "Reflexão"
+          },
+          "sections": [
+            {
+              "type": "include",
+              "ref": "producer/opus-dei-gospel-commentary"
+            }
+          ]
+        },
+        {
+          "id": "pope",
+          "label": {
+            "en-US": "Word of the Pope",
+            "pt-BR": "Palavra do Papa"
+          },
+          "sections": [
+            {
+              "type": "include",
+              "ref": "producer/word-of-the-pope"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

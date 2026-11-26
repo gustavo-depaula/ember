@@ -1,0 +1,9 @@
+# Carta 3126. Aos superiores
+
+1660.
+
+Peço-vos que mandeis fazer em vossa casa, se ainda não foi feito, um registro de todas as missões que nela se realizarem no futuro, e mesmo das que já se realizaram, anotando as seguintes circunstâncias da melhor maneira possível: 1° quantas missões foram realizadas por vossa casa desde sua fundação; 2° o mês e o ano em que cada uma se realizou; 3° o lugar e a diocese de cada missão e se tendes obrigação de realizá-la e dotação para isso; 4° a que distância fica o referido lugar da cidade onde vossa casa está estabelecida; 5° quantos comungantes havia; 6° quantos operários e quem tinha a direção; 7° quanto tempo durou sua realização; 8° se teve bom ou mau resultado, e por quê; 9° em que época é melhor realizá-la; 10° se a Caridade está estabelecida ali; 11° se há hereges; 12° quais são os lugares mais abandonados e que mais precisam de missão em vossa diocese e nas redondezas; e outras circunstâncias relevantes.
+
+Isso deve ser entendido principalmente para o futuro, anotando-se exatamente tudo o que foi dito acima ao voltar de cada missão. Quanto ao passado, se, depois de uma diligência razoável durante algum tempo, não se puder reunir tudo, não se deixará de escrevê-lo como for possível. Para conhecer melhor as missões realizadas no passado, basta consultar o registro das despesas da casa e outros, e consultar, tanto dentro como fora da companhia, aqueles que possam ter conhecimento delas. Com um pouco de cuidado, será fácil levar a cabo esse empreendimento, mesmo que tenha sido inteiramente negligenciado. Antes de passar as do passado para um livro destinado a isso, convém reuni-las por algum tempo num papel de rascunho, até que se tenha posto tudo na melhor ordem possível; e também será conveniente deixar uma grande margem no registro principal, para que se possa escrever algo nela, conforme a necessidade. [^1]
+
+[^1]: Arq. da Missão, coletânea das circulares.

@@ -1,0 +1,21 @@
+# Carta 1416. A Cristóvão Monchia
+
+20 de outubro de 1651.
+
+Ilustríssimo e Reverendíssimo Senhor,
+
+Como o coração de Vossa Senhoria transborda de singular benevolência e bondade para com os membros de nossa congregação que permanecem em Gênova, também o meu, por sua vez, lhe deve infinitas ações de graças. O Sr. Blatiron comunicou-me muitas vezes por carta que Vossa Senhoria se conta entre seus mais insignes benfeitores e que, há poucos dias, lhes proporcionou novos meios de promover a glória de Deus e o bem da diocese, os quais tornam nossa pequenina congregação eternamente devedora a [Vossa] [^1] Senhoria. Eu, porém, em meu nome e no dela, apresento com toda a humildade os agradecimentos de que sou capaz; mas, como vossa caridade está acima de toda ação de graças, peço ardentemente a Deus, ótimo e máximo, que supra minha fraqueza e seja para Vossa Senhoria uma recompensa grande e sobremaneira abundante. Ele o será, certamente o será, pois ele próprio é a finalidade das ações de Vossa Senhoria e lhe atribuirá boa parte dos frutos que os nossos produzirão pela divina misericórdia, sustentados pelos auxílios extraordinários que nos mantêm estreitamente ligados a Vossa Senhoria e aos vossos por especial reverência e dedicação. São esses, de fato, meus sentimentos, inteiramente dedicado à vossa bondade. Oh, quão grande e de que natureza será a alegria que experimentareis pela salvação das almas que, por vosso excelente modo de agir, tereis conquistado em número quase infinito! Ó feliz senhorio, que emprega seus bens e sua vida na maior glória de Deus, de quem os recebeu! À bondade eterna seja dado louvor contínuo! Que essa alma amada se encha cada vez mais daquele santo espírito, para o bem de toda a Igreja e a particular consolação daqueles que desfrutam de sua convivência. Se Deus permitisse que os modestos serviços de nossa boa vontade lhe fossem agradáveis, seria para nós uma honra e uma grande alegria prestá-los com a maior frequência; contudo, tais como são, oferece-os o muito humilde e dedicadíssimo servidor de Vossa Senhoria.
+
+TRADUÇÃO
+
+Ilustríssimo e Respeitável Senhor,
+
+A extrema benevolência e bondade de coração de Vossa Senhoria para com os membros de nossa congregação que estão em Gênova impõem-me o dever de vir testemunhar-lhe toda a minha gratidão. O Sr. Blatiron repetiu-me muitas vezes em suas cartas que Vossa Senhoria devia ser contado entre seus mais insignes benfeitores e que ainda recentemente havia contribuído para a glória de Deus e para o bem da diocese por atos que lhe merecem, de nossa pequena companhia, eterno reconhecimento. Assim, venho em meu nome e no dela oferecer-vos minhas humildes ações de graças; mas, como vossa caridade está acima de todo agradecimento, suplico insistentemente ao Deus tão grande e tão bom que supra minha fraqueza e seja ele próprio vossa recompensa, uma recompensa magnífica e superabundante. Sim, ele o será com toda a certeza, pois é o fim para o qual tendem todas as ações de Vossa Senhoria, e lhe atribuirá o mérito de grande parte dos frutos que os nossos obterão por seu trabalho, com a ajuda de Deus, graças aos consideráveis auxílios que vêm de vós e estreitam os laços de especial veneração e particular respeito que devem a Vossa Senhoria e aos vossos.
+
+Tais são os sentimentos que animam meu coração para com vossa bondade. Oh, que alegria experimentará Vossa Senhoria por tantas almas conquistadas para Deus, em número quase infinito! Feliz o poderoso que emprega seus bens e sua vida na maior glória de Deus, de quem tudo recebeu! Que a bondade eterna seja por isso incessantemente glorificada! Que essa alma bem-amada se encha cada vez mais desse santo espírito, para o bem da Igreja universal e a particular consolação daqueles que vivem com ela! Se Deus permitisse que nossas humildes homenagens vos fossem agradáveis, ficaríamos muito honrados e muito felizes em oferecê-las frequentemente. Que Vossa Senhoria as receba tais como são, de seu muito humilde e muito dedicado servidor! [^2] [^3]
+
+[^1]: Palavra esquecida na cópia.
+
+[^2]: Reg. I, f. 57 v., cópia da “minuta não assinada”.
+
+[^3]: Padre genovês de origem nobre. Havia contribuído com sua fortuna para a fundação da casa de Gênova e continuava a assisti-la com seus benefícios. (Cf. Abelly, *op. cit.*, l. I, cap. XLVI, p. 223.)

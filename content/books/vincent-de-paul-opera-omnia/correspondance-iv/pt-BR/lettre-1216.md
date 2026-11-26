@@ -1,0 +1,15 @@
+# Carta 1216. A um Religioso
+
+[Entre 1643 e 1652] [^1]
+
+Não duvido que Vossa Reverência faria maravilhas na prelatura, se a ela fosse chamado por Deus; mas, tendo ele mostrado que vos queria no cargo em que estais, pelo bom êxito que deu a vossas ocupações e a vossa direção, não parece que vos queira tirar dele; pois, se sua Providência vos chamasse ao episcopado, não se dirigiria a vós para vos fazer buscá-lo; antes inspiraria àqueles em quem reside o poder de nomear para os cargos e dignidades eclesiásticas que vos escolhessem para essa dignidade, sem que désseis passo algum nesse sentido, e então vossa vocação seria pura e segura; mas, ao vos apresentardes por vós mesmo, parece que haveria algo a censurar e que não teríeis motivo para esperar as bênçãos de Deus numa mudança assim, que não pode ser desejada nem buscada por uma alma verdadeiramente humilde como a vossa.
+
+E depois, meu Reverendo Padre, que prejuízo causaríeis à vossa santa Ordem, privando-a de uma de suas principais colunas, que a sustenta e lhe dá crédito por sua doutrina e seus exemplos! Se abrísseis essa porta, daríeis a outros ocasião de sair depois de vós, ou pelo menos de perder o gosto pelos exercícios da penitência; não lhes faltariam pretextos para abrandá-los e diminuí-los em prejuízo da regra, pois a natureza se cansa das austeridades; e, se a consultamos, dirá que é demais, que é preciso poupar-se para viver muito tempo e servir mais a Deus; ao passo que Nosso Senhor diz: “Quem ama sua alma a perderá, e quem a odeia a salvará [^2].” Sabeis melhor do que eu tudo o que se pode dizer sobre isso, e eu não ousaria escrever-vos meu pensamento se não mo tivésseis ordenado. Mas talvez não estejais atento à coroa que vos espera. Ó Deus, como será bela! Já fizestes tanto, meu Reverendo Padre, para alcançá-la felizmente, e talvez vos reste apenas pouca coisa a fazer. É preciso perseverar no caminho estreito em que entrastes, o qual conduz à vida. Já superastes as maiores dificuldades. Deveis, portanto, tomar coragem e esperar que Deus vos conceda a graça de vencer as menores. Se me derdes ouvidos, interrompereis por algum tempo os trabalhos da pregação, a fim de restabelecer vossa saúde. Ainda tendes muito serviço a prestar a Deus e à vossa ordem religiosa, que é uma das mais santas e edificantes da Igreja de Jesus Cristo. [^3] [^4]
+
+[^1]: Período durante o qual São Vicente foi membro do conselho de consciência.
+
+[^2]: Evangelho de São João 12:25.
+
+[^3]: Abelly, *op. cit.*, l. II, cap. XIII, seç. VII, p. 461.
+
+[^4]: Esse religioso, que se tornara conhecido por suas virtudes e suas pregações, desejava tornar-se sufragâneo do arcebispo de Reims. Havia tomado providências para isso e solicitado o apoio de São Vicente. Segundo ele, não tinha outra ambição senão a de se dedicar por mais tempo ao bem da Igreja; pois, dizia, o jejum e as outras austeridades de sua Ordem o esgotavam, e a dignidade episcopal, isentando-o dessas penitências, lhe permitiria conservar as forças. São Vicente era perspicaz demais para se deixar enganar por esses pretextos.

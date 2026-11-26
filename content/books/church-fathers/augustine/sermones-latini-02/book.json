@@ -18,13 +18,19 @@
   },
   "composed": "date varies",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/sermones",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,187 +47,218 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Sermo 22"
+        "la": "Sermo 22",
+        "pt-BR": "Sermão 22"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "Sermo 22/A"
+        "la": "Sermo 22/A",
+        "pt-BR": "Sermão 22/A"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "la": "Sermo 23"
+        "la": "Sermo 23",
+        "pt-BR": "Sermão 23"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "la": "Sermo 23/A"
+        "la": "Sermo 23/A",
+        "pt-BR": "Sermão 23/A"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "la": "Sermo 24"
+        "la": "Sermo 24",
+        "pt-BR": "Sermão 24"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "la": "Sermo 25"
+        "la": "Sermo 25",
+        "pt-BR": "Sermão 25"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "la": "Sermo 25/A"
+        "la": "Sermo 25/A",
+        "pt-BR": "Sermão 25/A"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "la": "Sermo 26"
+        "la": "Sermo 26",
+        "pt-BR": "Sermão 26"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "la": "Sermo 27"
+        "la": "Sermo 27",
+        "pt-BR": "Sermão 27"
       }
     },
     {
       "id": "ch010",
       "title": {
-        "la": "Sermo 28"
+        "la": "Sermo 28",
+        "pt-BR": "Sermão 28"
       }
     },
     {
       "id": "ch011",
       "title": {
-        "la": "Sermo 28/A"
+        "la": "Sermo 28/A",
+        "pt-BR": "Sermão 28/A"
       }
     },
     {
       "id": "ch012",
       "title": {
-        "la": "Sermo 29"
+        "la": "Sermo 29",
+        "pt-BR": "Sermão 29"
       }
     },
     {
       "id": "ch013",
       "title": {
-        "la": "Sermo 29/A"
+        "la": "Sermo 29/A",
+        "pt-BR": "Sermão 29/A"
       }
     },
     {
       "id": "ch014",
       "title": {
-        "la": "Sermo 30"
+        "la": "Sermo 30",
+        "pt-BR": "Sermão 30"
       }
     },
     {
       "id": "ch015",
       "title": {
-        "la": "Sermo 31"
+        "la": "Sermo 31",
+        "pt-BR": "Sermão 31"
       }
     },
     {
       "id": "ch016",
       "title": {
-        "la": "Sermo 32"
+        "la": "Sermo 32",
+        "pt-BR": "Sermão 32"
       }
     },
     {
       "id": "ch017",
       "title": {
-        "la": "Sermo 33"
+        "la": "Sermo 33",
+        "pt-BR": "Sermão 33"
       }
     },
     {
       "id": "ch018",
       "title": {
-        "la": "Sermo 33/A"
+        "la": "Sermo 33/A",
+        "pt-BR": "Sermão 33/A"
       }
     },
     {
       "id": "ch019",
       "title": {
-        "la": "Sermo 34"
+        "la": "Sermo 34",
+        "pt-BR": "Sermão 34"
       }
     },
     {
       "id": "ch020",
       "title": {
-        "la": "Sermo 35"
+        "la": "Sermo 35",
+        "pt-BR": "Sermão 35"
       }
     },
     {
       "id": "ch021",
       "title": {
-        "la": "Sermo 36"
+        "la": "Sermo 36",
+        "pt-BR": "Sermão 36"
       }
     },
     {
       "id": "ch022",
       "title": {
-        "la": "Sermo 37"
+        "la": "Sermo 37",
+        "pt-BR": "Sermão 37"
       }
     },
     {
       "id": "ch023",
       "title": {
-        "la": "Sermo 38"
+        "la": "Sermo 38",
+        "pt-BR": "Sermão 38"
       }
     },
     {
       "id": "ch024",
       "title": {
-        "la": "Sermo 39"
+        "la": "Sermo 39",
+        "pt-BR": "Sermão 39"
       }
     },
     {
       "id": "ch025",
       "title": {
-        "la": "Sermo 40"
+        "la": "Sermo 40",
+        "pt-BR": "Sermão 40"
       }
     },
     {
       "id": "ch026",
       "title": {
-        "la": "Sermo 41"
+        "la": "Sermo 41",
+        "pt-BR": "Sermão 41"
       }
     },
     {
       "id": "ch027",
       "title": {
-        "la": "Sermo 42"
+        "la": "Sermo 42",
+        "pt-BR": "Sermão 42"
       }
     },
     {
       "id": "ch028",
       "title": {
-        "la": "Sermo 43"
+        "la": "Sermo 43",
+        "pt-BR": "Sermão 43"
       }
     },
     {
       "id": "ch029",
       "title": {
-        "la": "Sermo 44"
+        "la": "Sermo 44",
+        "pt-BR": "Sermão 44"
       }
     },
     {
       "id": "ch030",
       "title": {
-        "la": "Sermo 45"
+        "la": "Sermo 45",
+        "pt-BR": "Sermão 45"
       }
     },
     {
       "id": "ch031",
       "title": {
-        "la": "Sermo 46"
+        "la": "Sermo 46",
+        "pt-BR": "Sermão 46"
       }
     }
   ],

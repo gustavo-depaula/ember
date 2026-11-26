@@ -17,13 +17,19 @@
   },
   "composed": 1858,
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "gueranger/annee-liturgique",
   "editions": {
     "fr-FR": {
       "editor": "Dom Prosper Guéranger, abbé de Solesmes (14th ed., Oudin)",
       "year": 1900
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -64,139 +70,162 @@
     {
       "id": "001-la-passion-et-la-semaine-sainte",
       "title": {
-        "fr-FR": "La Passion et la Semaine sainte"
+        "fr-FR": "La Passion et la Semaine sainte",
+        "pt-BR": "A Paixão e a Semana Santa"
       }
     },
     {
       "id": "002-chapitre-premier-historique-du-temps-de-i-a-pass",
       "title": {
-        "fr-FR": "Chapitre premier — Historique du temps de i.a Passion et de la semaine Sainte"
+        "fr-FR": "Chapitre premier — Historique du temps de i.a Passion et de la semaine Sainte",
+        "pt-BR": "Capítulo primeiro — Histórico do tempo da Paixão e da Semana Santa"
       }
     },
     {
       "id": "003-chapitre-ii-mystique-du-temps-de-la-passion-et-d",
       "title": {
-        "fr-FR": "Chapitre II — Mystique du temps de la Passion et de la semaine Sainte"
+        "fr-FR": "Chapitre II — Mystique du temps de la Passion et de la semaine Sainte",
+        "pt-BR": "Capítulo II — Mística do tempo da Paixão e da Semana Santa"
       }
     },
     {
       "id": "004-chapitre-iii-pratique-du-temps-de-la-passion-et",
       "title": {
-        "fr-FR": "Chapitre III — Pratique du temps de la Passion et de la semaine Sainte"
+        "fr-FR": "Chapitre III — Pratique du temps de la Passion et de la semaine Sainte",
+        "pt-BR": "Capítulo III — Prática do tempo da Paixão e da Semana Santa"
       }
     },
     {
       "id": "005-chapitre-iv-prieres-du-matin-et-du-soir-au-temps",
       "title": {
-        "fr-FR": "Chapitre IV — Prières du matin et du soir au temps de la Passion et dans la semaine Sainte"
+        "fr-FR": "Chapitre IV — Prières du matin et du soir au temps de la Passion et dans la semaine Sainte",
+        "pt-BR": "Capítulo IV — Orações da manhã e da noite no tempo da Paixão e na Semana Santa"
       }
     },
     {
       "id": "006-chapitre-v-de-lassistance-a-la-sainte-messe-au-t",
       "title": {
-        "fr-FR": "Chapitre V — De l’assistance à la Sainte Messe au temps de la Passion et dans la semaine Sainte"
+        "fr-FR": "Chapitre V — De l’assistance à la Sainte Messe au temps de la Passion et dans la semaine Sainte",
+        "pt-BR": "Capítulo V — Da assistência à Santa Missa no tempo da Paixão e na Semana Santa"
       }
     },
     {
       "id": "007-chapitre-vi-pratique-de-la-sainte-communion-au-t",
       "title": {
-        "fr-FR": "Chapitre VI — Pratique de la Sainte Communion au temps de la Passion et dans la semaine Sainte"
+        "fr-FR": "Chapitre VI — Pratique de la Sainte Communion au temps de la Passion et dans la semaine Sainte",
+        "pt-BR": "Capítulo VI — Prática da Santa Comunhão no tempo da Paixão e na Semana Santa"
       }
     },
     {
       "id": "008-chapitre-vii-de-loffice-des-vepres-les-dimanches",
       "title": {
-        "fr-FR": "Chapitre VII — De l’office des vêpres, les dimanches et fêtes, au temps de la Passion et dans la semaine Sainte"
+        "fr-FR": "Chapitre VII — De l’office des vêpres, les dimanches et fêtes, au temps de la Passion et dans la semaine Sainte",
+        "pt-BR": "Capítulo VII — Do ofício das Vésperas, nos domingos e festas, no tempo da Paixão e na Semana Santa"
       }
     },
     {
       "id": "009-chapitre-viii-de-loffice-des-complies-au-temps-d",
       "title": {
-        "fr-FR": "Chapitre VIII — De l’office des complies au temps de la Passion et dans la semaine Sainte"
+        "fr-FR": "Chapitre VIII — De l’office des complies au temps de la Passion et dans la semaine Sainte",
+        "pt-BR": "Capítulo VIII — Do ofício das Completas no tempo da Paixão e na Semana Santa"
       }
     },
     {
       "id": "010-le-dimanche-de-la-passion",
       "title": {
-        "fr-FR": "Le dimanche de la Passion"
+        "fr-FR": "Le dimanche de la Passion",
+        "pt-BR": "O Domingo da Paixão"
       }
     },
     {
       "id": "011-le-lundi-de-la-semaine-de-la-passion",
       "title": {
-        "fr-FR": "Le lundi de la semaine de la Passion"
+        "fr-FR": "Le lundi de la semaine de la Passion",
+        "pt-BR": "A segunda-feira da Semana da Paixão"
       }
     },
     {
       "id": "012-le-mardi-de-la-semaine-de-la-passion",
       "title": {
-        "fr-FR": "Le mardi de la semaine de la Passion"
+        "fr-FR": "Le mardi de la semaine de la Passion",
+        "pt-BR": "A terça-feira da Semana da Paixão"
       }
     },
     {
       "id": "013-le-mercredi-de-la-semaine-de-la-passion",
       "title": {
-        "fr-FR": "Le mercredi de la semaine de la Passion"
+        "fr-FR": "Le mercredi de la semaine de la Passion",
+        "pt-BR": "A quarta-feira da Semana da Paixão"
       }
     },
     {
       "id": "014-le-jeudi-de-la-semaine-de-la-passion",
       "title": {
-        "fr-FR": "Le jeudi de la semaine de la Passion"
+        "fr-FR": "Le jeudi de la semaine de la Passion",
+        "pt-BR": "A quinta-feira da Semana da Paixão"
       }
     },
     {
       "id": "015-le-vendredi-de-la-passion-les-sept-douleurs-de-l",
       "title": {
-        "fr-FR": "Le vendredi de la Passion les sept douleurs de la très Sainte Vierge"
+        "fr-FR": "Le vendredi de la Passion les sept douleurs de la très Sainte Vierge",
+        "pt-BR": "A sexta-feira da Paixão: as sete dores da Santíssima Virgem"
       }
     },
     {
       "id": "016-le-samedi-de-la-semaine-de-la-passion",
       "title": {
-        "fr-FR": "Le samedi de la semaine de la Passion"
+        "fr-FR": "Le samedi de la semaine de la Passion",
+        "pt-BR": "O sábado da Semana da Paixão"
       }
     },
     {
       "id": "017-le-dimanche-des-rameaux",
       "title": {
-        "fr-FR": "Le dimanche des Rameaux.\u0003 \u0004"
+        "fr-FR": "Le dimanche des Rameaux.\u0003 \u0004",
+        "pt-BR": "O Domingo de Ramos."
       }
     },
     {
       "id": "018-le-lundi-saint",
       "title": {
-        "fr-FR": "Le lundi Saint"
+        "fr-FR": "Le lundi Saint",
+        "pt-BR": "A Segunda-feira Santa"
       }
     },
     {
       "id": "019-le-mardi-saint",
       "title": {
-        "fr-FR": "Le mardi Saint"
+        "fr-FR": "Le mardi Saint",
+        "pt-BR": "A Terça-feira Santa"
       }
     },
     {
       "id": "020-le-mercredi-saint",
       "title": {
-        "fr-FR": "Le mercredi Saint"
+        "fr-FR": "Le mercredi Saint",
+        "pt-BR": "A Quarta-feira Santa"
       }
     },
     {
       "id": "021-le-jeudi-saint",
       "title": {
-        "fr-FR": "Le jeudi Saint"
+        "fr-FR": "Le jeudi Saint",
+        "pt-BR": "A Quinta-feira Santa"
       }
     },
     {
       "id": "022-le-vendredi-saint",
       "title": {
-        "fr-FR": "Le vendredi Saint"
+        "fr-FR": "Le vendredi Saint",
+        "pt-BR": "A Sexta-feira Santa"
       }
     },
     {
       "id": "023-le-samedi-saint",
       "title": {
-        "fr-FR": "Le samedi Saint"
+        "fr-FR": "Le samedi Saint",
+        "pt-BR": "O Sábado Santo"
       }
     }
   ]

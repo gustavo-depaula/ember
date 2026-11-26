@@ -15,13 +15,19 @@
   },
   "composed": "1837-1838",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "newman/parochial-and-plain-sermons-4",
   "editions": {
     "en-US": {
       "editor": "John Henry Newman, ed. William John Copeland (Rivingtons, 1868; Newman Reader)",
       "year": 1868
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,139 +44,162 @@
     {
       "id": "sermon-1",
       "title": {
-        "en-US": "Sermon 1. The Strictness of the Law of Christ"
+        "en-US": "Sermon 1. The Strictness of the Law of Christ",
+        "pt-BR": "Sermão 1. O Rigor da Lei de Cristo"
       }
     },
     {
       "id": "sermon-2",
       "title": {
-        "en-US": "Sermon 2. Obedience without Love, as instanced in the Character of Balaam"
+        "en-US": "Sermon 2. Obedience without Love, as instanced in the Character of Balaam",
+        "pt-BR": "Sermão 2. A Obediência sem Amor, Exemplificada no Caráter de Balaão"
       }
     },
     {
       "id": "sermon-3",
       "title": {
-        "en-US": "Sermon 3. Moral Consequences of Single Sins"
+        "en-US": "Sermon 3. Moral Consequences of Single Sins",
+        "pt-BR": "Sermão 3. Consequências Morais de Pecados Isolados"
       }
     },
     {
       "id": "sermon-4",
       "title": {
-        "en-US": "Sermon 4. Acceptance of Religious Privileges Compulsory"
+        "en-US": "Sermon 4. Acceptance of Religious Privileges Compulsory",
+        "pt-BR": "Sermão 4. A Obrigatoriedade de Aceitar os Privilégios Religiosos"
       }
     },
     {
       "id": "sermon-5",
       "title": {
-        "en-US": "Sermon 5. Reliance on Religious Observances"
+        "en-US": "Sermon 5. Reliance on Religious Observances",
+        "pt-BR": "Sermão 5. A Confiança nas Práticas Religiosas"
       }
     },
     {
       "id": "sermon-6",
       "title": {
-        "en-US": "Sermon 6. The Individuality of the Soul"
+        "en-US": "Sermon 6. The Individuality of the Soul",
+        "pt-BR": "Sermão 6. A Individualidade da Alma"
       }
     },
     {
       "id": "sermon-7",
       "title": {
-        "en-US": "Sermon 7. Chastisement amid Mercy"
+        "en-US": "Sermon 7. Chastisement amid Mercy",
+        "pt-BR": "Sermão 7. O Castigo em Meio à Misericórdia"
       }
     },
     {
       "id": "sermon-8",
       "title": {
-        "en-US": "Sermon 8. Peace and Joy amid Chastisement"
+        "en-US": "Sermon 8. Peace and Joy amid Chastisement",
+        "pt-BR": "Sermão 8. Paz e Alegria em Meio ao Castigo"
       }
     },
     {
       "id": "sermon-9",
       "title": {
-        "en-US": "Sermon 9. The State of Grace"
+        "en-US": "Sermon 9. The State of Grace",
+        "pt-BR": "Sermão 9. O Estado de Graça"
       }
     },
     {
       "id": "sermon-10",
       "title": {
-        "en-US": "Sermon 10. The Visible Church for the Sake of the Elect."
+        "en-US": "Sermon 10. The Visible Church for the Sake of the Elect.",
+        "pt-BR": "Sermão 10. A Igreja Visível em Favor dos Eleitos."
       }
     },
     {
       "id": "sermon-11",
       "title": {
-        "en-US": "Sermon 11. The Communion of Saints"
+        "en-US": "Sermon 11. The Communion of Saints",
+        "pt-BR": "Sermão 11. A Comunhão dos Santos"
       }
     },
     {
       "id": "sermon-12",
       "title": {
-        "en-US": "Sermon 12. The Church a Home for the Lonely"
+        "en-US": "Sermon 12. The Church a Home for the Lonely",
+        "pt-BR": "Sermão 12. A Igreja, um Lar para os Solitários"
       }
     },
     {
       "id": "sermon-13",
       "title": {
-        "en-US": "Sermon 13. The Invisible World"
+        "en-US": "Sermon 13. The Invisible World",
+        "pt-BR": "Sermão 13. O Mundo Invisível"
       }
     },
     {
       "id": "sermon-14",
       "title": {
-        "en-US": "Sermon 14. The Greatness and Littleness of Human Life"
+        "en-US": "Sermon 14. The Greatness and Littleness of Human Life",
+        "pt-BR": "Sermão 14. A Grandeza e a Pequenez da Vida Humana"
       }
     },
     {
       "id": "sermon-15",
       "title": {
-        "en-US": "Sermon 15. Moral Effects of Communion with God"
+        "en-US": "Sermon 15. Moral Effects of Communion with God",
+        "pt-BR": "Sermão 15. Efeitos Morais da Comunhão com Deus"
       }
     },
     {
       "id": "sermon-16",
       "title": {
-        "en-US": "Sermon 16. Christ Hidden from the World"
+        "en-US": "Sermon 16. Christ Hidden from the World",
+        "pt-BR": "Sermão 16. Cristo Oculto ao Mundo"
       }
     },
     {
       "id": "sermon-17",
       "title": {
-        "en-US": "Sermon 17. Christ Manifested in Remembrance"
+        "en-US": "Sermon 17. Christ Manifested in Remembrance",
+        "pt-BR": "Sermão 17. Cristo Manifestado na Recordação"
       }
     },
     {
       "id": "sermon-18",
       "title": {
-        "en-US": "Sermon 18. The Gainsaying of Korah"
+        "en-US": "Sermon 18. The Gainsaying of Korah",
+        "pt-BR": "Sermão 18. A Contestação de Coré"
       }
     },
     {
       "id": "sermon-19",
       "title": {
-        "en-US": "Sermon 19. The Mysteriousness of our Present Being"
+        "en-US": "Sermon 19. The Mysteriousness of our Present Being",
+        "pt-BR": "Sermão 19. O Mistério de Nossa Existência Presente"
       }
     },
     {
       "id": "sermon-20",
       "title": {
-        "en-US": "Sermon 20. The Ventures of Faith"
+        "en-US": "Sermon 20. The Ventures of Faith",
+        "pt-BR": "Sermão 20. Os Riscos da Fé"
       }
     },
     {
       "id": "sermon-21",
       "title": {
-        "en-US": "Sermon 21. Faith and Love"
+        "en-US": "Sermon 21. Faith and Love",
+        "pt-BR": "Sermão 21. Fé e Amor"
       }
     },
     {
       "id": "sermon-22",
       "title": {
-        "en-US": "Sermon 22. Watching"
+        "en-US": "Sermon 22. Watching",
+        "pt-BR": "Sermão 22. A Vigilância"
       }
     },
     {
       "id": "sermon-23",
       "title": {
-        "en-US": "Sermon 23. Keeping Fast and Festival"
+        "en-US": "Sermon 23. Keeping Fast and Festival",
+        "pt-BR": "Sermão 23. A Observância do Jejum e da Festa"
       }
     }
   ]

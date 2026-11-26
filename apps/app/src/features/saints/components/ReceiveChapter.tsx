@@ -71,7 +71,12 @@ export function ReceiveChapter({
               <RoundRow key={way.door} practice={way.practice} round={way.ember} />
             ) : null
           }
-          if (way.door === 'prayedDay') return <PrayedDayRow key={way.door} date={way.date} />
+          if (way.door === 'prayedDay') {
+            return [
+              <RosaryRow key="rosary" date={way.date} />,
+              <PrayedDayRow key={way.door} date={way.date} />,
+            ]
+          }
           return <WayRow key={way.door} way={way} saint={saint} />
         })}
       </YStack>
@@ -213,14 +218,8 @@ function RoundRow({ practice, round: key }: { practice: string; round: string })
   )
 }
 
-/**
- * A prayed day, the Office of those who don't pray it: the morning offering,
- * the rosary and the examination of conscience along the arc of the day, lit
- * as far as today's are prayed. It only says what is asked and what is done;
- * the prayers are reached from where they are always prayed.
- */
-function PrayedDayRow({ date }: { date: string }) {
-  const { t } = useTranslation()
+/** The day's prayers marked so far, when `date` is today; none on another day. */
+function usePrayedOn(date: string): { today: string; prayed: Set<DayPrayer> } {
   const today = format(useToday(), 'yyyy-MM-dd')
   const completions = useCompletionRange(today, today)
   const prayed = useMemo(
@@ -229,10 +228,48 @@ function PrayedDayRow({ date }: { date: string }) {
       new Set<DayPrayer>(),
     [completions, date, today],
   )
+  return { today, prayed }
+}
+
+/** The rosary on the feast, which alone keeps the day as the Office does; a tap opens it. */
+function RosaryRow({ date }: { date: string }) {
+  const { t } = useTranslation()
+  const router = useRouter()
+  const day = useToday()
+  const { today, prayed } = usePrayedOn(date)
+  const title = t('saints.receive.rosary')
+  const done = prayed.has('rosary')
+  return (
+    <AnimatedPressable
+      onPress={() => router.push(practiceHref('rosary'))}
+      accessibilityRole="link"
+      accessibilityLabel={title}
+    >
+      <Row
+        glyph="beads"
+        title={title}
+        when={done ? t('saints.receive.rosaryDone') : dayAndDistance(date, day, t)}
+        soon={date === today}
+        action={done ? undefined : t('saints.page.pray')}
+      />
+    </AnimatedPressable>
+  )
+}
+
+/**
+ * A prayed day, the Office of those who don't pray it: the morning offering,
+ * a midday prayer and the examination of conscience along the arc of the day,
+ * lit as far as today's are prayed. It only says what is asked and what is
+ * done; the prayers are reached from where they are always prayed.
+ */
+function PrayedDayRow({ date }: { date: string }) {
+  const { t } = useTranslation()
+  const { today, prayed } = usePrayedOn(date)
   const when = (() => {
     if (date !== today) return t('saints.receive.prayedDayWhen')
-    if (prayed.size === dayPrayers.length) return t('saints.receive.prayedDayDone')
-    return t('saints.receive.prayedDaySoFar', { done: prayed.size, total: dayPrayers.length })
+    if (dayPrayers.every((p) => prayed.has(p))) return t('saints.receive.prayedDayDone')
+    const done = dayPrayers.filter((p) => prayed.has(p)).length
+    return t('saints.receive.prayedDaySoFar', { done, total: dayPrayers.length })
   })()
   return (
     <Row glyph="day" title={t('saints.receive.prayedDay')} when={when} soon={date === today}>
@@ -245,12 +282,12 @@ function PrayedDayRow({ date }: { date: string }) {
 // units; each prayer's place on it, and the stretch of sky lit once it and
 // those before it are prayed.
 const arc = 'M20 70Q140 -20 260 70'
-const stations: Record<DayPrayer, { x: number; y: number; lit: string }> = {
+const stations: Record<(typeof dayPrayers)[number], { x: number; y: number; lit: string }> = {
   offering: { x: 48.8, y: 51, lit: 'M20 70Q34.4 59.2 48.8 51' },
-  rosary: { x: 140, y: 25, lit: 'M20 70Q80 25 140 25' },
+  midday: { x: 140, y: 25, lit: 'M20 70Q80 25 140 25' },
   examen: { x: 231.2, y: 51, lit: arc },
 }
-const stationAlign = { offering: 'flex-start', rosary: 'center', examen: 'flex-end' } as const
+const stationAlign = { offering: 'flex-start', midday: 'center', examen: 'flex-end' } as const
 
 function DayArc({ prayed }: { prayed: Set<DayPrayer> }) {
   const { t } = useTranslation()

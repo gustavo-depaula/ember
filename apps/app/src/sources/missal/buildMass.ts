@@ -678,6 +678,69 @@ export function buildProper(plan: MassPlan, lang: LangPrefs): Primitive[] {
   ]
 }
 
+// The short tab names of the daily liturgy's parts; the part's own heading still
+// heads its text.
+const tabWords = {
+  collect: { la: 'Collecta', 'en-US': 'Collect', 'pt-BR': 'Coleta' },
+  firstReading: { la: 'Lectio I', 'en-US': '1st reading', 'pt-BR': '1ª leitura' },
+  psalm: { la: 'Psalmus', 'en-US': 'Psalm', 'pt-BR': 'Salmo' },
+  secondReading: { la: 'Lectio II', 'en-US': '2nd reading', 'pt-BR': '2ª leitura' },
+  gospel: { la: 'Evangelium', 'en-US': 'Gospel', 'pt-BR': 'Evangelho' },
+  readings: { la: 'Lectiones', 'en-US': 'Readings', 'pt-BR': 'Leituras' },
+} satisfies Record<string, Words>
+
+/**
+ * The daily liturgy: the collect and each reading under its own tab, opening
+ * on the Gospel. The antiphons are left out; the Gospel tab carries the
+ * sequence and the acclamation that lead into it.
+ */
+export function buildProperParts(plan: MassPlan, lang: LangPrefs): Primitive[] {
+  const ctx: RenderContext = { lang, conditions: new Set(plan.conditions), titled: true }
+  const tab = (id: keyof typeof tabWords, children: Primitive[]): ContainerOption[] =>
+    children.length > 0 ? [{ id, label: say(tabWords[id], lang), children }] : []
+  const block = (...parts: Part[]) => parts.flatMap((part) => partBlock(part, plan, ctx))
+  const gospel = block('sequence', 'acclamation', 'gospel')
+  const options: ContainerOption[] = [
+    ...tab('collect', block('collect')),
+    ...(gospel.length > 0
+      ? [
+          ...tab('firstReading', block('firstReading')),
+          ...tab('psalm', block('psalm')),
+          ...tab('secondReading', block('secondReading')),
+          ...tab('gospel', gospel),
+        ]
+      : // The Easter Vigil's readings are not parts: its rite places each one.
+        tab(
+          'readings',
+          withAlternatives((plan.lectionary?.items ?? []).filter(ofCycle(plan)), ctx),
+        )),
+  ]
+  const opening = options.find((o) => o.id === 'gospel') ?? options.at(-1)
+  return [
+    {
+      type: 'container',
+      behavior: { kind: 'color-scope', color: plan.celebration.color },
+      children: [
+        ...banner(plan, lang),
+        ...(options.length > 1 && opening
+          ? [
+              {
+                type: 'container' as const,
+                behavior: {
+                  kind: 'select' as const,
+                  label: say(tabWords.readings, lang),
+                  overrideKey: 'missal.part',
+                  selectedId: opening.id,
+                  options,
+                },
+              },
+            ]
+          : options.flatMap((o) => o.children)),
+      ],
+    },
+  ]
+}
+
 // Whether an item is read this year: one filed under a cycle is read in that cycle only.
 function ofCycle(plan: MassPlan): (item: Item) => boolean {
   const cycles = new Set<string>([plan.day.cycle, plan.day.weekdayCycle])

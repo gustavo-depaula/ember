@@ -1,0 +1,11 @@
+# Carta 1426. A Pedro Watebled, Superior, em Saintes
+
+De 26 de novembro de 1651.
+
+Sinto grande pesar pelas perturbações que surgem aí e peço a Nosso Senhor que mude para melhor o estado das coisas [^1]. Entretanto, é preciso honrar sua paciência e fazer muitos atos de abandono a seu beneplácito e de aceitação dos efeitos de sua justiça. Louvo a Deus pela paz interior que conservais em vós e em vossa família; não duvido de que lha peçais insistentemente para toda a região e para todo o reino, assim como a graça de que o pobre povo faça bom uso das aflições da guerra.
+
+Vejo que estais em dúvida sobre o que deveis fazer. É preciso permanecer firme, Senhor; seria um grande mal partir e um escândalo irreparável para a cidade e para a companhia. Não creio que, se abandonásseis a casa, quisessem algum dia voltar a receber-nos ali. Não temais: a tranquilidade seguirá a tempestade, e talvez em breve. Se já não desfrutais da renda, não sereis abandonados; não morrereis de fome; nós vos assistiremos tanto quanto for possível. Certamente tendes algumas provisões e ainda recebeis alguma coisa de vossa renda; a princípio nos assustamos, mas Deus nem sempre permite que aconteça o mal que tememos. Desde que há guerras na Lorena, na Flandres e em nossas fronteiras, as casas religiosas se mantêm firmes. Não é que não sofram, mas sobrevivem e muito merecem por sua paciência. Nenhum de vós tem ainda motivo para perder o ânimo. Peço a Nosso Senhor que seja vosso protetor e vossa consolação, que vos una entre vós e vos dê a fidelidade necessária à prática das virtudes, sobretudo da oração, do recolhimento, da mortificação e da conformidade com a vontade de Deus. Confiai muito nele e tende coragem. Nossas casas de Agen e de La Rose passam pela mesma dificuldade que vós, e a de Cahors também, ou quase. [^2]
+
+[^1]: Saintes, então em poder do partido da Fronda, era governada por Chambois. À aproximação do exército real comandado por d’Harcourt, Chambois, para tornar mais fácil a defesa da praça, havia incendiado os arrabaldes, poupando apenas as habitações dos Beneditinos e das irmãs de Santa Clara, que serviram de refúgio aos moradores desabrigados. A miséria era grande na cidade, e os alarmes, contínuos.
+
+[^2]: Reg. 2, p. 316.

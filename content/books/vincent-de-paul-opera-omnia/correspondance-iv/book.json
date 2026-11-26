@@ -14,17 +14,23 @@
   "description": {
     "fr-FR": "Les lettres 1206 à 1645 de la Correspondance de saint Vincent, tome IV de l’édition de Pierre Coste (1650-1653), une lettre par chapitre, groupées par année, avec les lettres adressées à Vincent que Coste y a intercalées, ses notices de sources et ses notes.",
     "en-US": "Letters 1206 to 1645 of St. Vincent’s Correspondence, vol. IV of Pierre Coste’s edition (1650-1653), one letter per chapter and grouped by year, with the letters addressed to Vincent that Coste interleaves, his source notices and notes.",
-    "pt-BR": "As cartas 1206 a 1645 da Correspondência de São Vicente, tomo IV da edição de Pierre Coste (1650-1653)."
+    "pt-BR": "As cartas 1206 a 1645 da Correspondência de São Vicente, tomo IV da edição de Pierre Coste (1650-1653), uma carta por capítulo, agrupadas por ano, com as cartas dirigidas a Vicente que Coste intercalou, suas indicações de fontes e suas notas."
   },
   "composed": "1650-1653",
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "vincent-de-paul/correspondance-iv",
   "editions": {
     "fr-FR": {
       "editor": "Pierre Coste, C.M.",
       "year": 1921
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,571 +47,666 @@
     {
       "id": "groupe-01",
       "title": {
-        "fr-FR": "Année 1650"
+        "fr-FR": "Année 1650",
+        "pt-BR": "Ano de 1650"
       },
       "children": [
         {
           "id": "lettre-1206",
           "title": {
-            "fr-FR": "Lettre 1206. À Monsieur Horcholle"
+            "fr-FR": "Lettre 1206. À Monsieur Horcholle",
+            "pt-BR": "Carta 1206. Ao Senhor Horcholle"
           }
         },
         {
           "id": "lettre-1207",
           "title": {
-            "fr-FR": "Lettre 1207. À Jacques Chiroye, Supérieur, à Luçon"
+            "fr-FR": "Lettre 1207. À Jacques Chiroye, Supérieur, à Luçon",
+            "pt-BR": "Carta 1207. A Tiago Chiroye, Superior, em Luçon"
           }
         },
         {
           "id": "lettre-1208",
           "title": {
-            "fr-FR": "Lettre 1208. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 1208. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 1208. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-1209",
           "title": {
-            "fr-FR": "Lettre 1209. À Bernard Codoing, Supérieur, à Richelieu"
+            "fr-FR": "Lettre 1209. À Bernard Codoing, Supérieur, à Richelieu",
+            "pt-BR": "Carta 1209. A Bernardo Codoing, Superior, em Richelieu"
           }
         },
         {
           "id": "lettre-1210",
           "title": {
-            "fr-FR": "Lettre 1210. À Benoît Bécu, Prêtre de la Mission, à Richelieu"
+            "fr-FR": "Lettre 1210. À Benoît Bécu, Prêtre de la Mission, à Richelieu",
+            "pt-BR": "Carta 1210. A Bento Bécu, Padre da Missão, em Richelieu"
           }
         },
         {
           "id": "lettre-1211",
           "title": {
-            "fr-FR": "Lettre 1211. À Louis Thibault, Supérieur, à Saint-Méen"
+            "fr-FR": "Lettre 1211. À Louis Thibault, Supérieur, à Saint-Méen",
+            "pt-BR": "Carta 1211. A Luís Thibault, Superior, em Saint-Méen"
           }
         },
         {
           "id": "lettre-1212",
           "title": {
-            "fr-FR": "Lettre 1212. À Gabriel Delespiney"
+            "fr-FR": "Lettre 1212. À Gabriel Delespiney",
+            "pt-BR": "Carta 1212. A Gabriel Delespiney"
           }
         },
         {
           "id": "lettre-1213",
           "title": {
-            "fr-FR": "Lettre 1213. À Gérald Brin, Prêtre de la Mission, à Limerick"
+            "fr-FR": "Lettre 1213. À Gérald Brin, Prêtre de la Mission, à Limerick",
+            "pt-BR": "Carta 1213. A Geraldo Brin, Padre da Missão, em Limerick"
           }
         },
         {
           "id": "lettre-1214",
           "title": {
-            "fr-FR": "Lettre 1214. À Gabriel Delespiney, Supérieur, à Toul"
+            "fr-FR": "Lettre 1214. À Gabriel Delespiney, Supérieur, à Toul",
+            "pt-BR": "Carta 1214. A Gabriel Delespiney, Superior, em Toul"
           }
         },
         {
           "id": "lettre-1216",
           "title": {
-            "fr-FR": "Lettre 1216. À un Religieux"
+            "fr-FR": "Lettre 1216. À un Religieux",
+            "pt-BR": "Carta 1216. A um Religioso"
           }
         },
         {
           "id": "lettre-1217",
           "title": {
-            "fr-FR": "Lettre 1217. À la Sœur Anne Hardemont, Supérieure,"
+            "fr-FR": "Lettre 1217. À la Sœur Anne Hardemont, Supérieure,",
+            "pt-BR": "Carta 1217. À Irmã Ana Hardemont, Superiora,"
           }
         },
         {
           "id": "lettre-1220",
           "title": {
-            "fr-FR": "Lettre 1220. À Montreuil-sur-Mer"
+            "fr-FR": "Lettre 1220. À Montreuil-sur-Mer",
+            "pt-BR": "Carta 1220. A Montreuil-sur-Mer"
           }
         },
         {
           "id": "lettre-1221",
           "title": {
-            "fr-FR": "Lettre 1221. Alain de Solminihac à Saint Vincent"
+            "fr-FR": "Lettre 1221. Alain de Solminihac à Saint Vincent",
+            "pt-BR": "Carta 1221. Alano de Solminihac a São Vicente"
           }
         },
         {
           "id": "lettre-1222",
           "title": {
-            "fr-FR": "Lettre 1222. Un Prêtre de la Mission à Saint Vincent"
+            "fr-FR": "Lettre 1222. Un Prêtre de la Mission à Saint Vincent",
+            "pt-BR": "Carta 1222. Um Padre da Missão a São Vicente"
           }
         },
         {
           "id": "lettre-1223",
           "title": {
-            "fr-FR": "Lettre 1223. À Denis Gautier, Prêtre de la Mission, à Saintes"
+            "fr-FR": "Lettre 1223. À Denis Gautier, Prêtre de la Mission, à Saintes",
+            "pt-BR": "Carta 1223. A Dinis Gautier, Padre da Missão, em Saintes"
           }
         },
         {
           "id": "lettre-1224",
           "title": {
-            "fr-FR": "Lettre 1224. À Marc Coglée, Supérieur, à Sedan"
+            "fr-FR": "Lettre 1224. À Marc Coglée, Supérieur, à Sedan",
+            "pt-BR": "Carta 1224. A Marcos Coglée, Superior, em Sedan"
           }
         },
         {
           "id": "lettre-1225",
           "title": {
-            "fr-FR": "Lettre 1225. À Jean Midot, Grand Vicaire de Toul"
+            "fr-FR": "Lettre 1225. À Jean Midot, Grand Vicaire de Toul",
+            "pt-BR": "Carta 1225. A João Midot, Vigário-Geral de Toul"
           }
         },
         {
           "id": "lettre-1226",
           "title": {
-            "fr-FR": "Lettre 1226. Au Supérieur de la Maison de Gênes"
+            "fr-FR": "Lettre 1226. Au Supérieur de la Maison de Gênes",
+            "pt-BR": "Carta 1226. Ao Superior da Casa de Gênova"
           }
         },
         {
           "id": "lettre-1227",
           "title": {
-            "fr-FR": "Lettre 1227. À un Évêque"
+            "fr-FR": "Lettre 1227. À un Évêque",
+            "pt-BR": "Carta 1227. A um Bispo"
           }
         },
         {
           "id": "lettre-1228",
           "title": {
-            "fr-FR": "Lettre 1228. À Guillaume Cornaire, Prêtre de la Mission, au Mans"
+            "fr-FR": "Lettre 1228. À Guillaume Cornaire, Prêtre de la Mission, au Mans",
+            "pt-BR": "Carta 1228. A Guilherme Cornaire, Padre da Missão, em Le Mans"
           }
         },
         {
           "id": "lettre-1229",
           "title": {
-            "fr-FR": "Lettre 1229. À Marc Coglée, Supérieur, à Sedan"
+            "fr-FR": "Lettre 1229. À Marc Coglée, Supérieur, à Sedan",
+            "pt-BR": "Carta 1229. A Marcos Coglée, Superior, em Sedan"
           }
         },
         {
           "id": "lettre-1230",
           "title": {
-            "fr-FR": "Lettre 1230. À Bernard Codoing, Supérieur, à Richelieu"
+            "fr-FR": "Lettre 1230. À Bernard Codoing, Supérieur, à Richelieu",
+            "pt-BR": "Carta 1230. A Bernardo Codoing, Superior, em Richelieu"
           }
         },
         {
           "id": "lettre-1231",
           "title": {
-            "fr-FR": "Lettre 1231. À Marc Coglée, Supérieur, à Sedan"
+            "fr-FR": "Lettre 1231. À Marc Coglée, Supérieur, à Sedan",
+            "pt-BR": "Carta 1231. A Marcos Coglée, Superior, em Sedan"
           }
         },
         {
           "id": "lettre-1232",
           "title": {
-            "fr-FR": "Lettre 1232. À René Alméras, Supérieur, à Rome"
+            "fr-FR": "Lettre 1232. À René Alméras, Supérieur, à Rome",
+            "pt-BR": "Carta 1232. A Renato Alméras, Superior, em Roma"
           }
         },
         {
           "id": "lettre-1233",
           "title": {
-            "fr-FR": "Lettre 1233. Au Cardinal François Barberini"
+            "fr-FR": "Lettre 1233. Au Cardinal François Barberini",
+            "pt-BR": "Carta 1233. Ao Cardeal Francisco Barberini"
           }
         },
         {
           "id": "lettre-1234",
           "title": {
-            "fr-FR": "Lettre 1234. À Bernard Codoing, Supérieur, à Richelieu"
+            "fr-FR": "Lettre 1234. À Bernard Codoing, Supérieur, à Richelieu",
+            "pt-BR": "Carta 1234. A Bernardo Codoing, Superior, em Richelieu"
           }
         },
         {
           "id": "lettre-1235",
           "title": {
-            "fr-FR": "Lettre 1235. Le Père Vitet à Saint Vincent"
+            "fr-FR": "Lettre 1235. Le Père Vitet à Saint Vincent",
+            "pt-BR": "Carta 1235. O Padre Vitet a São Vicente"
           }
         },
         {
           "id": "lettre-1236",
           "title": {
-            "fr-FR": "Lettre 1236. À Philibert de Brandon, Évêque de Périgueux"
+            "fr-FR": "Lettre 1236. À Philibert de Brandon, Évêque de Périgueux",
+            "pt-BR": "Carta 1236. A Filiberto de Brandon, Bispo de Périgueux"
           }
         },
         {
           "id": "lettre-1237",
           "title": {
-            "fr-FR": "Lettre 1237. À Barthélemy d’Elbene, Évêque d’Agen"
+            "fr-FR": "Lettre 1237. À Barthélemy d’Elbene, Évêque d’Agen",
+            "pt-BR": "Carta 1237. A Bartolomeu d’Elbene, Bispo de Agen"
           }
         },
         {
           "id": "lettre-1238",
           "title": {
-            "fr-FR": "Lettre 1238. À Monsieur Pasquier"
+            "fr-FR": "Lettre 1238. À Monsieur Pasquier",
+            "pt-BR": "Carta 1238. Ao Senhor Pasquier"
           }
         },
         {
           "id": "lettre-1239",
           "title": {
-            "fr-FR": "Lettre 1239. À René Alméras, Supérieur, à Rome"
+            "fr-FR": "Lettre 1239. À René Alméras, Supérieur, à Rome",
+            "pt-BR": "Carta 1239. A Renato Alméras, Superior, em Roma"
           }
         },
         {
           "id": "lettre-1240",
           "title": {
-            "fr-FR": "Lettre 1240. À Louise de Marillac"
+            "fr-FR": "Lettre 1240. À Louise de Marillac",
+            "pt-BR": "Carta 1240. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-1241",
           "title": {
-            "fr-FR": "Lettre 1241. À un Évêque"
+            "fr-FR": "Lettre 1241. À un Évêque",
+            "pt-BR": "Carta 1241. A um Bispo"
           }
         },
         {
           "id": "lettre-1242",
           "title": {
-            "fr-FR": "Lettre 1242. À Marc Coglée, Supérieur, à Sedan"
+            "fr-FR": "Lettre 1242. À Marc Coglée, Supérieur, à Sedan",
+            "pt-BR": "Carta 1242. A Marcos Coglée, Superior, em Sedan"
           }
         },
         {
           "id": "lettre-1243",
           "title": {
-            "fr-FR": "Lettre 1243. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 1243. À un Prêtre de la Mission",
+            "pt-BR": "Carta 1243. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-1244",
           "title": {
-            "fr-FR": "Lettre 1244. À Mathurin Gentil, Prêtre de la Mission, au Mans"
+            "fr-FR": "Lettre 1244. À Mathurin Gentil, Prêtre de la Mission, au Mans",
+            "pt-BR": "Carta 1244. A Maturino Gentil, Padre da Missão, em Le Mans"
           }
         },
         {
           "id": "lettre-1245",
           "title": {
-            "fr-FR": "Lettre 1245. À René Alméras, Supérieur, à Rome"
+            "fr-FR": "Lettre 1245. À René Alméras, Supérieur, à Rome",
+            "pt-BR": "Carta 1245. A Renato Alméras, Superior, em Roma"
           }
         },
         {
           "id": "lettre-1246",
           "title": {
-            "fr-FR": "Lettre 1246. À François de Fleury"
+            "fr-FR": "Lettre 1246. À François de Fleury",
+            "pt-BR": "Carta 1246. A Francisco de Fleury"
           }
         },
         {
           "id": "lettre-1247",
           "title": {
-            "fr-FR": "Lettre 1247. À Nicolas Pavillon, Évêque d’Alet"
+            "fr-FR": "Lettre 1247. À Nicolas Pavillon, Évêque d’Alet",
+            "pt-BR": "Carta 1247. A Nicolau Pavillon, Bispo de Alet"
           }
         },
         {
           "id": "lettre-1248",
           "title": {
-            "fr-FR": "Lettre 1248. À Louis Thibault, Supérieur, à Saint-Méen"
+            "fr-FR": "Lettre 1248. À Louis Thibault, Supérieur, à Saint-Méen",
+            "pt-BR": "Carta 1248. A Luís Thibault, Superior, em Saint-Méen"
           }
         },
         {
           "id": "lettre-1249",
           "title": {
-            "fr-FR": "Lettre 1249. Le Père Vitet à Saint Vincent"
+            "fr-FR": "Lettre 1249. Le Père Vitet à Saint Vincent",
+            "pt-BR": "Carta 1249. O Padre Vitet a São Vicente"
           }
         },
         {
           "id": "lettre-1250",
           "title": {
-            "fr-FR": "Lettre 1250. À Bernard Codoing, Supérieur, à Richelieu"
+            "fr-FR": "Lettre 1250. À Bernard Codoing, Supérieur, à Richelieu",
+            "pt-BR": "Carta 1250. A Bernardo Codoing, Superior, em Richelieu"
           }
         },
         {
           "id": "lettre-1251",
           "title": {
-            "fr-FR": "Lettre 1251. Au Pape Innocent X"
+            "fr-FR": "Lettre 1251. Au Pape Innocent X",
+            "pt-BR": "Carta 1251. Ao Papa Inocêncio X"
           }
         },
         {
           "id": "lettre-1252",
           "title": {
-            "fr-FR": "Lettre 1252. Le Père Vitet à Saint Vincent"
+            "fr-FR": "Lettre 1252. Le Père Vitet à Saint Vincent",
+            "pt-BR": "Carta 1252. O Padre Vitet a São Vicente"
           }
         },
         {
           "id": "lettre-1253",
           "title": {
-            "fr-FR": "Lettre 1253. À Monsieur Horcholle"
+            "fr-FR": "Lettre 1253. À Monsieur Horcholle",
+            "pt-BR": "Carta 1253. Ao Senhor Horcholle"
           }
         },
         {
           "id": "lettre-1254",
           "title": {
-            "fr-FR": "Lettre 1254. À Etienne Blatiron, Supérieur, à Gênes"
+            "fr-FR": "Lettre 1254. À Etienne Blatiron, Supérieur, à Gênes",
+            "pt-BR": "Carta 1254. A Estêvão Blatiron, Superior, em Gênova"
           }
         },
         {
           "id": "lettre-1255",
           "title": {
-            "fr-FR": "Lettre 1255. La Ferrière-Sorin à Saint Vincent"
+            "fr-FR": "Lettre 1255. La Ferrière-Sorin à Saint Vincent",
+            "pt-BR": "Carta 1255. La Ferrière-Sorin a São Vicente"
           }
         },
         {
           "id": "lettre-1256",
           "title": {
-            "fr-FR": "Lettre 1256. Le Père Vitet à Saint Vincent"
+            "fr-FR": "Lettre 1256. Le Père Vitet à Saint Vincent",
+            "pt-BR": "Carta 1256. O Padre Vitet a São Vicente"
           }
         },
         {
           "id": "lettre-1257",
           "title": {
-            "fr-FR": "Lettre 1257. À Etienne Blatiron, Supérieur, à Gênes"
+            "fr-FR": "Lettre 1257. À Etienne Blatiron, Supérieur, à Gênes",
+            "pt-BR": "Carta 1257. A Estêvão Blatiron, Superior, em Gênova"
           }
         },
         {
           "id": "lettre-1258",
           "title": {
-            "fr-FR": "Lettre 1258. — à la Mère Marie-Agnes le Roy"
+            "fr-FR": "Lettre 1258. — à la Mère Marie-Agnes le Roy",
+            "pt-BR": "Carta 1258. — à Madre Maria-Inês le Roy"
           }
         },
         {
           "id": "lettre-1259",
           "title": {
-            "fr-FR": "Lettre 1259. À un Aumônier du Roi"
+            "fr-FR": "Lettre 1259. À un Aumônier du Roi",
+            "pt-BR": "Carta 1259. A um Capelão do Rei"
           }
         },
         {
           "id": "lettre-1260",
           "title": {
-            "fr-FR": "Lettre 1260. Au Cardinal Mazarin"
+            "fr-FR": "Lettre 1260. Au Cardinal Mazarin",
+            "pt-BR": "Carta 1260. Ao Cardeal Mazarino"
           }
         },
         {
           "id": "lettre-1261",
           "title": {
-            "fr-FR": "Lettre 1261. À Bernard Codoing, Supérieur, à Richelieu"
+            "fr-FR": "Lettre 1261. À Bernard Codoing, Supérieur, à Richelieu",
+            "pt-BR": "Carta 1261. A Bernardo Codoing, Superior, em Richelieu"
           }
         },
         {
           "id": "lettre-1262",
           "title": {
-            "fr-FR": "Lettre 1262. Au Frère Jean Barreau"
+            "fr-FR": "Lettre 1262. Au Frère Jean Barreau",
+            "pt-BR": "Carta 1262. Ao Irmão João Barreau"
           }
         },
         {
           "id": "lettre-1263",
           "title": {
-            "fr-FR": "Lettre 1263. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 1263. À un Prêtre de la Mission",
+            "pt-BR": "Carta 1263. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-1264",
           "title": {
-            "fr-FR": "Lettre 1264. À Guillaume Cornaire, Prêtre de la Mission, au Mans"
+            "fr-FR": "Lettre 1264. À Guillaume Cornaire, Prêtre de la Mission, au Mans",
+            "pt-BR": "Carta 1264. A Guilherme Cornaire, Padre da Missão, em Le Mans"
           }
         },
         {
           "id": "lettre-1265",
           "title": {
-            "fr-FR": "Lettre 1265. À la Propagande"
+            "fr-FR": "Lettre 1265. À la Propagande",
+            "pt-BR": "Carta 1265. À Propaganda"
           }
         },
         {
           "id": "lettre-1266",
           "title": {
-            "fr-FR": "Lettre 1266. Un Prêtre de la Mission à Saint Vincent"
+            "fr-FR": "Lettre 1266. Un Prêtre de la Mission à Saint Vincent",
+            "pt-BR": "Carta 1266. Um Padre da Missão a São Vicente"
           }
         },
         {
           "id": "lettre-1267",
           "title": {
-            "fr-FR": "Lettre 1267. Le Cardinal Mazarin à Saint Vincent"
+            "fr-FR": "Lettre 1267. Le Cardinal Mazarin à Saint Vincent",
+            "pt-BR": "Carta 1267. O Cardeal Mazarino a São Vicente"
           }
         },
         {
           "id": "lettre-1268",
           "title": {
-            "fr-FR": "Lettre 1268. À Jacques Chiroye, Prêtre de la Mission, à Luçon"
+            "fr-FR": "Lettre 1268. À Jacques Chiroye, Prêtre de la Mission, à Luçon",
+            "pt-BR": "Carta 1268. A Tiago Chiroye, Padre da Missão, em Luçon"
           }
         },
         {
           "id": "lettre-1269",
           "title": {
-            "fr-FR": "Lettre 1269. À Marc Coglée, Supérieur, à Sedan"
+            "fr-FR": "Lettre 1269. À Marc Coglée, Supérieur, à Sedan",
+            "pt-BR": "Carta 1269. A Marcos Coglée, Superior, em Sedan"
           }
         },
         {
           "id": "lettre-1270",
           "title": {
-            "fr-FR": "Lettre 1270. À Antoine Lucas, Supérieur, au Mans"
+            "fr-FR": "Lettre 1270. À Antoine Lucas, Supérieur, au Mans",
+            "pt-BR": "Carta 1270. A Antônio Lucas, Superior, em Le Mans"
           }
         },
         {
           "id": "lettre-1271",
           "title": {
-            "fr-FR": "Lettre 1271. Au Cardinal Antoine Barberini, — Préfet de la Propagande"
+            "fr-FR": "Lettre 1271. Au Cardinal Antoine Barberini, — Préfet de la Propagande",
+            "pt-BR": "Carta 1271. Ao Cardeal Antônio Barberini, — Prefeito da Propaganda"
           }
         },
         {
           "id": "lettre-1272",
           "title": {
-            "fr-FR": "Lettre 1272. Alain de Solminihac à Saint Vincent"
+            "fr-FR": "Lettre 1272. Alain de Solminihac à Saint Vincent",
+            "pt-BR": "Carta 1272. Alano de Solminihac a São Vicente"
           }
         },
         {
           "id": "lettre-1273",
           "title": {
-            "fr-FR": "Lettre 1273. A Etienne Blatiron, Supérieur, à Gênes"
+            "fr-FR": "Lettre 1273. A Etienne Blatiron, Supérieur, à Gênes",
+            "pt-BR": "Carta 1273. A Estêvão Blatiron, Superior, em Gênova"
           }
         },
         {
           "id": "lettre-1274",
           "title": {
-            "fr-FR": "Lettre 1274. Des Prêtres de la Mission à Saint Vincent"
+            "fr-FR": "Lettre 1274. Des Prêtres de la Mission à Saint Vincent",
+            "pt-BR": "Carta 1274. Padres da Missão a São Vicente"
           }
         },
         {
           "id": "lettre-1275",
           "title": {
-            "fr-FR": "Lettre 1275. Au Pape Innocent X"
+            "fr-FR": "Lettre 1275. Au Pape Innocent X",
+            "pt-BR": "Carta 1275. Ao Papa Inocêncio X"
           }
         },
         {
           "id": "lettre-1276",
           "title": {
-            "fr-FR": "Lettre 1276. Au Cardinal Pamphili"
+            "fr-FR": "Lettre 1276. Au Cardinal Pamphili",
+            "pt-BR": "Carta 1276. Ao Cardeal Pamphili"
           }
         },
         {
           "id": "lettre-1277",
           "title": {
-            "fr-FR": "Lettre 1277. Au Cardinal d’Este"
+            "fr-FR": "Lettre 1277. Au Cardinal d’Este",
+            "pt-BR": "Carta 1277. Ao Cardeal d’Este"
           }
         },
         {
           "id": "lettre-1278",
           "title": {
-            "fr-FR": "Lettre 1278. À Claude Dufour"
+            "fr-FR": "Lettre 1278. À Claude Dufour",
+            "pt-BR": "Carta 1278. A Cláudio Dufour"
           }
         },
         {
           "id": "lettre-1279",
           "title": {
-            "fr-FR": "Lettre 1279. À un Évêque"
+            "fr-FR": "Lettre 1279. À un Évêque",
+            "pt-BR": "Carta 1279. A um Bispo"
           }
         },
         {
           "id": "lettre-1280",
           "title": {
-            "fr-FR": "Lettre 1280. 4280 — des Prêtres de la Mission à Saint Vincent"
+            "fr-FR": "Lettre 1280. 4280 — des Prêtres de la Mission à Saint Vincent",
+            "pt-BR": "Carta 1280. 4280 — padres da Missão a São Vicente"
           }
         },
         {
           "id": "lettre-1281",
           "title": {
-            "fr-FR": "Lettre 1281. Un Prêtre de la Mission à Saint Vincent"
+            "fr-FR": "Lettre 1281. Un Prêtre de la Mission à Saint Vincent",
+            "pt-BR": "Carta 1281. Um Padre da Missão a São Vicente"
           }
         },
         {
           "id": "lettre-1282",
           "title": {
-            "fr-FR": "Lettre 1282. Un Prêtre de la Mission à Saint Vincent"
+            "fr-FR": "Lettre 1282. Un Prêtre de la Mission à Saint Vincent",
+            "pt-BR": "Carta 1282. Um Padre da Missão a São Vicente"
           }
         },
         {
           "id": "lettre-1283",
           "title": {
-            "fr-FR": "Lettre 1283. Un Ecclésiastique d’Orléans à Saint Vincent"
+            "fr-FR": "Lettre 1283. Un Ecclésiastique d’Orléans à Saint Vincent",
+            "pt-BR": "Carta 1283. Um Eclesiástico de Orléans a São Vicente"
           }
         },
         {
           "id": "lettre-1284",
           "title": {
-            "fr-FR": "Lettre 1284. Un Prêtre de la Mission à Saint Vincent"
+            "fr-FR": "Lettre 1284. Un Prêtre de la Mission à Saint Vincent",
+            "pt-BR": "Carta 1284. Um Padre da Missão a São Vicente"
           }
         },
         {
           "id": "lettre-1285",
           "title": {
-            "fr-FR": "Lettre 1285. À la Duchesse d’Aiguillon"
+            "fr-FR": "Lettre 1285. À la Duchesse d’Aiguillon",
+            "pt-BR": "Carta 1285. À Duquesa de Aiguillon"
           }
         },
         {
           "id": "lettre-1286",
           "title": {
-            "fr-FR": "Lettre 1286. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 1286. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 1286. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-1287",
           "title": {
-            "fr-FR": "Lettre 1287. À Etienne Blatiron, Supérieur, à Gênes"
+            "fr-FR": "Lettre 1287. À Etienne Blatiron, Supérieur, à Gênes",
+            "pt-BR": "Carta 1287. A Estêvão Blatiron, Superior, em Gênova"
           }
         },
         {
           "id": "lettre-1288",
           "title": {
-            "fr-FR": "Lettre 1288. À Marc Coglée, Supérieur, à Sedan"
+            "fr-FR": "Lettre 1288. À Marc Coglée, Supérieur, à Sedan",
+            "pt-BR": "Carta 1288. A Marcos Coglée, Superior, em Sedan"
           }
         },
         {
           "id": "lettre-1289",
           "title": {
-            "fr-FR": "Lettre 1289. À Claude Dufour, Prêtre de la Mission, à Sedan"
+            "fr-FR": "Lettre 1289. À Claude Dufour, Prêtre de la Mission, à Sedan",
+            "pt-BR": "Carta 1289. A Cláudio Dufour, Padre da Missão, em Sedan"
           }
         },
         {
           "id": "lettre-1290",
           "title": {
-            "fr-FR": "Lettre 1290. À Jacques Chiroye, Prêtre de la Mission, à Luçon"
+            "fr-FR": "Lettre 1290. À Jacques Chiroye, Prêtre de la Mission, à Luçon",
+            "pt-BR": "Carta 1290. A Tiago Chiroye, Padre da Missão, em Luçon"
           }
         },
         {
           "id": "lettre-1291",
           "title": {
-            "fr-FR": "Lettre 1291. 1291. Nicolas Pavillon, Évêque d’Alet, à Saint Vincent"
+            "fr-FR": "Lettre 1291. 1291. Nicolas Pavillon, Évêque d’Alet, à Saint Vincent",
+            "pt-BR": "Carta 1291. 1291. Nicolau Pavillon, Bispo de Alet, a São Vicente"
           }
         },
         {
           "id": "lettre-1292",
           "title": {
-            "fr-FR": "Lettre 1292. A Etienne Blatiron, Supérieur, à Gênes"
+            "fr-FR": "Lettre 1292. A Etienne Blatiron, Supérieur, à Gênes",
+            "pt-BR": "Carta 1292. A Estêvão Blatiron, Superior, em Gênova"
           }
         },
         {
           "id": "lettre-1293",
           "title": {
-            "fr-FR": "Lettre 1293. À Marc Coglée, Supérieur, à Sedan"
+            "fr-FR": "Lettre 1293. À Marc Coglée, Supérieur, à Sedan",
+            "pt-BR": "Carta 1293. A Marcos Coglée, Superior, em Sedan"
           }
         },
         {
           "id": "lettre-1294",
           "title": {
-            "fr-FR": "Lettre 1294. Le Cardinal d’Este à Saint Vincent"
+            "fr-FR": "Lettre 1294. Le Cardinal d’Este à Saint Vincent",
+            "pt-BR": "Carta 1294. O Cardeal d’Este a São Vicente"
           }
         },
         {
           "id": "lettre-1295",
           "title": {
-            "fr-FR": "Lettre 1295. Jean Dehorgny Prêtre de la Mission, à Saint Vincent"
+            "fr-FR": "Lettre 1295. Jean Dehorgny Prêtre de la Mission, à Saint Vincent",
+            "pt-BR": "Carta 1295. João Dehorgny Padre da Missão, a São Vicente"
           }
         },
         {
           "id": "lettre-1296",
           "title": {
-            "fr-FR": "Lettre 1296. Alain de Solminihac à Saint Vincent"
+            "fr-FR": "Lettre 1296. Alain de Solminihac à Saint Vincent",
+            "pt-BR": "Carta 1296. Alano de Solminihac a São Vicente"
           }
         },
         {
           "id": "lettre-1298",
           "title": {
-            "fr-FR": "Lettre 1298. À une Abbesse"
+            "fr-FR": "Lettre 1298. À une Abbesse",
+            "pt-BR": "Carta 1298. A uma Abadessa"
           }
         },
         {
           "id": "lettre-1299",
           "title": {
-            "fr-FR": "Lettre 1299. À un Religieux, Docteur en Théologie"
+            "fr-FR": "Lettre 1299. À un Religieux, Docteur en Théologie",
+            "pt-BR": "Carta 1299. A um Religioso, Doutor em Teologia"
           }
         },
         {
           "id": "lettre-1300",
           "title": {
-            "fr-FR": "Lettre 1300. À Etienne Blatiron, Supérieur, à Gênes"
+            "fr-FR": "Lettre 1300. À Etienne Blatiron, Supérieur, à Gênes",
+            "pt-BR": "Carta 1300. A Estêvão Blatiron, Superior, em Gênova"
           }
         },
         {
           "id": "lettre-1304",
           "title": {
-            "fr-FR": "Lettre 1304. À un Prêtre de la Mission de la Maison de Saintes"
+            "fr-FR": "Lettre 1304. À un Prêtre de la Mission de la Maison de Saintes",
+            "pt-BR": "Carta 1304. A um Padre da Missão da Casa de Saintes"
           }
         },
         {
           "id": "lettre-1305",
           "title": {
-            "fr-FR": "Lettre 1305. Des Prêtres de la Mission à Saint Vincent"
+            "fr-FR": "Lettre 1305. Des Prêtres de la Mission à Saint Vincent",
+            "pt-BR": "Carta 1305. Padres da Missão a São Vicente"
           }
         },
         {
           "id": "lettre-1306",
           "title": {
-            "fr-FR": "Lettre 1306. Des Prêtres de la Mission à Saint Vincent"
+            "fr-FR": "Lettre 1306. Des Prêtres de la Mission à Saint Vincent",
+            "pt-BR": "Carta 1306. Padres da Missão a São Vicente"
           }
         }
       ]
@@ -613,775 +714,904 @@
     {
       "id": "groupe-02",
       "title": {
-        "fr-FR": "Année 1651"
+        "fr-FR": "Année 1651",
+        "pt-BR": "Ano de 1651"
       },
       "children": [
         {
           "id": "lettre-1307",
           "title": {
-            "fr-FR": "Lettre 1307. À René Alméras, Supérieur, à Rome"
+            "fr-FR": "Lettre 1307. À René Alméras, Supérieur, à Rome",
+            "pt-BR": "Carta 1307. A Renato Alméras, Superior, em Roma"
           }
         },
         {
           "id": "lettre-1308",
           "title": {
-            "fr-FR": "Lettre 1308. Alain de Solminihac à Saint Vincent"
+            "fr-FR": "Lettre 1308. Alain de Solminihac à Saint Vincent",
+            "pt-BR": "Carta 1308. Alano de Solminihac a São Vicente"
           }
         },
         {
           "id": "lettre-1309",
           "title": {
-            "fr-FR": "Lettre 1309. Un Prêtre de la Mission à Saint Vincent"
+            "fr-FR": "Lettre 1309. Un Prêtre de la Mission à Saint Vincent",
+            "pt-BR": "Carta 1309. Um Padre da Missão a São Vicente"
           }
         },
         {
           "id": "lettre-1310",
           "title": {
-            "fr-FR": "Lettre 1310. A Etienne Blatiron, Supérieur, à Gênes"
+            "fr-FR": "Lettre 1310. A Etienne Blatiron, Supérieur, à Gênes",
+            "pt-BR": "Carta 1310. A Estêvão Blatiron, Superior, em Gênova"
           }
         },
         {
           "id": "lettre-1311",
           "title": {
-            "fr-FR": "Lettre 1311. À Charles de Montchal, Archevêque, de Toulouse"
+            "fr-FR": "Lettre 1311. À Charles de Montchal, Archevêque, de Toulouse",
+            "pt-BR": "Carta 1311. A Carlos de Montchal, Arcebispo, de Toulouse"
           }
         },
         {
           "id": "lettre-1312",
           "title": {
-            "fr-FR": "Lettre 1312. À René Alméras, Supérieur, à Rome"
+            "fr-FR": "Lettre 1312. À René Alméras, Supérieur, à Rome",
+            "pt-BR": "Carta 1312. A Renato Alméras, Superior, em Roma"
           }
         },
         {
           "id": "lettre-1313",
           "title": {
-            "fr-FR": "Lettre 1313. À Jean Barreau, Consul de France, à Alger"
+            "fr-FR": "Lettre 1313. À Jean Barreau, Consul de France, à Alger",
+            "pt-BR": "Carta 1313. A João Barreau, Cônsul da França, em Argel"
           }
         },
         {
           "id": "lettre-1314",
           "title": {
-            "fr-FR": "Lettre 1314. À Christophe d’Authier"
+            "fr-FR": "Lettre 1314. À Christophe d’Authier",
+            "pt-BR": "Carta 1314. A Cristóvão d’Authier"
           }
         },
         {
           "id": "lettre-1315",
           "title": {
-            "fr-FR": "Lettre 1315. À Lambert aux Couteaux, Supérieur, à Richelieu"
+            "fr-FR": "Lettre 1315. À Lambert aux Couteaux, Supérieur, à Richelieu",
+            "pt-BR": "Carta 1315. A Lamberto aux Couteaux, Superior, em Richelieu"
           }
         },
         {
           "id": "lettre-1316",
           "title": {
-            "fr-FR": "Lettre 1316. Edme Deschamps, Prêtre de la Mission à Saint Vincent"
+            "fr-FR": "Lettre 1316. Edme Deschamps, Prêtre de la Mission à Saint Vincent",
+            "pt-BR": "Carta 1316. Edmundo Deschamps, Padre da Missão a São Vicente"
           }
         },
         {
           "id": "lettre-1317",
           "title": {
-            "fr-FR": "Lettre 1317. Alain de Solminihac, Évêque de Cahors, — À Saint Vincent"
+            "fr-FR": "Lettre 1317. Alain de Solminihac, Évêque de Cahors, — À Saint Vincent",
+            "pt-BR": "Carta 1317. Alano de Solminihac, Bispo de Cahors, — A São Vicente"
           }
         },
         {
           "id": "lettre-1318",
           "title": {
-            "fr-FR": "Lettre 1318. Alain de Solminihac à Saint Vincent"
+            "fr-FR": "Lettre 1318. Alain de Solminihac à Saint Vincent",
+            "pt-BR": "Carta 1318. Alano de Solminihac a São Vicente"
           }
         },
         {
           "id": "lettre-1319",
           "title": {
-            "fr-FR": "Lettre 1319. Au Comte de Chavigny"
+            "fr-FR": "Lettre 1319. Au Comte de Chavigny",
+            "pt-BR": "Carta 1319. Ao Conde de Chavigny"
           }
         },
         {
           "id": "lettre-1320",
           "title": {
-            "fr-FR": "Lettre 1320. À Quelques Évêques de France"
+            "fr-FR": "Lettre 1320. À Quelques Évêques de France",
+            "pt-BR": "Carta 1320. A Alguns Bispos da França"
           }
         },
         {
           "id": "lettre-1321",
           "title": {
-            "fr-FR": "Lettre 1321. À Gabriel Delespiney, Supérieur, à Toul"
+            "fr-FR": "Lettre 1321. À Gabriel Delespiney, Supérieur, à Toul",
+            "pt-BR": "Carta 1321. A Gabriel Delespiney, Superior, em Toul"
           }
         },
         {
           "id": "lettre-1322",
           "title": {
-            "fr-FR": "Lettre 1322. . N*"
+            "fr-FR": "Lettre 1322. . N*",
+            "pt-BR": "Carta 1322. . N*"
           }
         },
         {
           "id": "lettre-1323",
           "title": {
-            "fr-FR": "Lettre 1323. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 1323. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 1323. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-1324",
           "title": {
-            "fr-FR": "Lettre 1324. Alain de Solminihac, Évêque de Cahors, — À Saint Vincent"
+            "fr-FR": "Lettre 1324. Alain de Solminihac, Évêque de Cahors, — À Saint Vincent",
+            "pt-BR": "Carta 1324. Alano de Solminihac, Bispo de Cahors, — A São Vicente"
           }
         },
         {
           "id": "lettre-1325",
           "title": {
-            "fr-FR": "Lettre 1325. À Alain de Solminihac, Évêque de Cahors"
+            "fr-FR": "Lettre 1325. À Alain de Solminihac, Évêque de Cahors",
+            "pt-BR": "Carta 1325. A Alano de Solminihac, Bispo de Cahors"
           }
         },
         {
           "id": "lettre-1326",
           "title": {
-            "fr-FR": "Lettre 1326. Alain de Solminihac, Évêque de Cahors, — À Saint Vincent"
+            "fr-FR": "Lettre 1326. Alain de Solminihac, Évêque de Cahors, — À Saint Vincent",
+            "pt-BR": "Carta 1326. Alano de Solminihac, Bispo de Cahors, — A São Vicente"
           }
         },
         {
           "id": "lettre-1327",
           "title": {
-            "fr-FR": "Lettre 1327. À Etienne Blatiron, Supérieur, à Gênes"
+            "fr-FR": "Lettre 1327. À Etienne Blatiron, Supérieur, à Gênes",
+            "pt-BR": "Carta 1327. A Estêvão Blatiron, Superior, em Gênova"
           }
         },
         {
           "id": "lettre-1328",
           "title": {
-            "fr-FR": "Lettre 1328. À Marc Coglée"
+            "fr-FR": "Lettre 1328. À Marc Coglée",
+            "pt-BR": "Carta 1328. A Marcos Coglée"
           }
         },
         {
           "id": "lettre-1329",
           "title": {
-            "fr-FR": "Lettre 1329. À Lambert aux Couteaux, Supérieur, à Richelieu"
+            "fr-FR": "Lettre 1329. À Lambert aux Couteaux, Supérieur, à Richelieu",
+            "pt-BR": "Carta 1329. A Lamberto aux Couteaux, Superior, em Richelieu"
           }
         },
         {
           "id": "lettre-1330",
           "title": {
-            "fr-FR": "Lettre 1330. Aux Filles de la Charité de Saint-Etienne-a-Arnes"
+            "fr-FR": "Lettre 1330. Aux Filles de la Charité de Saint-Etienne-a-Arnes",
+            "pt-BR": "Carta 1330. Às Filhas da Caridade de Saint-Etienne-a-Arnes"
           }
         },
         {
           "id": "lettre-1331",
           "title": {
-            "fr-FR": "Lettre 1331. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 1331. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 1331. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-1332",
           "title": {
-            "fr-FR": "Lettre 1332. À la Sœur Jeanne Lepeintre, Supérieure, à Nantes"
+            "fr-FR": "Lettre 1332. À la Sœur Jeanne Lepeintre, Supérieure, à Nantes",
+            "pt-BR": "Carta 1332. À Irmã Joana Lepeintre, Superiora, em Nantes"
           }
         },
         {
           "id": "lettre-1333",
           "title": {
-            "fr-FR": "Lettre 1333. Aux Administrateurs du Grand Hôpital du Mans"
+            "fr-FR": "Lettre 1333. Aux Administrateurs du Grand Hôpital du Mans",
+            "pt-BR": "Carta 1333. Aos Administradores do Grande Hospital de Le Mans"
           }
         },
         {
           "id": "lettre-1334",
           "title": {
-            "fr-FR": "Lettre 1334. À un Évêque"
+            "fr-FR": "Lettre 1334. À un Évêque",
+            "pt-BR": "Carta 1334. A um Bispo"
           }
         },
         {
           "id": "lettre-1335",
           "title": {
-            "fr-FR": "Lettre 1335. À Philibert de Brandon, Évêque de Périgueux"
+            "fr-FR": "Lettre 1335. À Philibert de Brandon, Évêque de Périgueux",
+            "pt-BR": "Carta 1335. A Filiberto de Brandon, Bispo de Périgueux"
           }
         },
         {
           "id": "lettre-1336",
           "title": {
-            "fr-FR": "Lettre 1336. À Balthazar Brandon de Bassancourt"
+            "fr-FR": "Lettre 1336. À Balthazar Brandon de Bassancourt",
+            "pt-BR": "Carta 1336. A Baltasar Brandon de Bassancourt"
           }
         },
         {
           "id": "lettre-1337",
           "title": {
-            "fr-FR": "Lettre 1337. Aux Supérieurs des Maisons de la Mission"
+            "fr-FR": "Lettre 1337. Aux Supérieurs des Maisons de la Mission",
+            "pt-BR": "Carta 1337. Aos Superiores das Casas da Missão"
           }
         },
         {
           "id": "lettre-1338",
           "title": {
-            "fr-FR": "Lettre 1338. À Louise de Marillac"
+            "fr-FR": "Lettre 1338. À Louise de Marillac",
+            "pt-BR": "Carta 1338. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-1339",
           "title": {
-            "fr-FR": "Lettre 1339. Le Cardinal Spada (1) à Saint Vincent"
+            "fr-FR": "Lettre 1339. Le Cardinal Spada (1) à Saint Vincent",
+            "pt-BR": "Carta 1339. O Cardeal Spada (1) a São Vicente"
           }
         },
         {
           "id": "lettre-1340",
           "title": {
-            "fr-FR": "Lettre 1340. À un Évêque"
+            "fr-FR": "Lettre 1340. À un Évêque",
+            "pt-BR": "Carta 1340. A um Bispo"
           }
         },
         {
           "id": "lettre-1341",
           "title": {
-            "fr-FR": "Lettre 1341. Au Père Dinet"
+            "fr-FR": "Lettre 1341. Au Père Dinet",
+            "pt-BR": "Carta 1341. Ao Padre Dinet"
           }
         },
         {
           "id": "lettre-1342",
           "title": {
-            "fr-FR": "Lettre 1342. À la Sœur Anne Hardemont"
+            "fr-FR": "Lettre 1342. À la Sœur Anne Hardemont",
+            "pt-BR": "Carta 1342. À Irmã Ana Hardemont"
           }
         },
         {
           "id": "lettre-1343",
           "title": {
-            "fr-FR": "Lettre 1343. À N*"
+            "fr-FR": "Lettre 1343. À N*",
+            "pt-BR": "Carta 1343. A N*"
           }
         },
         {
           "id": "lettre-1344",
           "title": {
-            "fr-FR": "Lettre 1344. À un Supérieur"
+            "fr-FR": "Lettre 1344. À un Supérieur",
+            "pt-BR": "Carta 1344. A um Superior"
           }
         },
         {
           "id": "lettre-1345",
           "title": {
-            "fr-FR": "Lettre 1345. À Pierre Nivelle, Évêque de Luçon"
+            "fr-FR": "Lettre 1345. À Pierre Nivelle, Évêque de Luçon",
+            "pt-BR": "Carta 1345. A Pedro Nivelle, Bispo de Luçon"
           }
         },
         {
           "id": "lettre-1346",
           "title": {
-            "fr-FR": "Lettre 1346. Des Prêtres de la Mission à Saint Vincent"
+            "fr-FR": "Lettre 1346. Des Prêtres de la Mission à Saint Vincent",
+            "pt-BR": "Carta 1346. Padres da Missão a São Vicente"
           }
         },
         {
           "id": "lettre-1347",
           "title": {
-            "fr-FR": "Lettre 1347. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 1347. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 1347. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-1348",
           "title": {
-            "fr-FR": "Lettre 1348. À Louise de Marillac"
+            "fr-FR": "Lettre 1348. À Louise de Marillac",
+            "pt-BR": "Carta 1348. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-1349",
           "title": {
-            "fr-FR": "Lettre 1349. À Marc Coglée, Supérieur, à Sedan"
+            "fr-FR": "Lettre 1349. À Marc Coglée, Supérieur, à Sedan",
+            "pt-BR": "Carta 1349. A Marcos Coglée, Superior, em Sedan"
           }
         },
         {
           "id": "lettre-1350",
           "title": {
-            "fr-FR": "Lettre 1350. Alain de Solminihac, à Saint Vincent"
+            "fr-FR": "Lettre 1350. Alain de Solminihac, à Saint Vincent",
+            "pt-BR": "Carta 1350. Alano de Solminihac, a São Vicente"
           }
         },
         {
           "id": "lettre-1351",
           "title": {
-            "fr-FR": "Lettre 1351. À N *"
+            "fr-FR": "Lettre 1351. À N *",
+            "pt-BR": "Carta 1351. A N *"
           }
         },
         {
           "id": "lettre-1352",
           "title": {
-            "fr-FR": "Lettre 1352. À Louise de Marillac"
+            "fr-FR": "Lettre 1352. À Louise de Marillac",
+            "pt-BR": "Carta 1352. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-1353",
           "title": {
-            "fr-FR": "Lettre 1353. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 1353. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 1353. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-1354",
           "title": {
-            "fr-FR": "Lettre 1354. À Marc Coglée, Supérieur, à Sedan"
+            "fr-FR": "Lettre 1354. À Marc Coglée, Supérieur, à Sedan",
+            "pt-BR": "Carta 1354. A Marcos Coglée, Superior, em Sedan"
           }
         },
         {
           "id": "lettre-1355",
           "title": {
-            "fr-FR": "Lettre 1355. Au Supérieur Général de la Congrégation — De Saint-Maur"
+            "fr-FR": "Lettre 1355. Au Supérieur Général de la Congrégation — De Saint-Maur",
+            "pt-BR": "Carta 1355. Ao Superior Geral da Congregação — De Saint-Maur"
           }
         },
         {
           "id": "lettre-1356",
           "title": {
-            "fr-FR": "Lettre 1356. À un Curé du Mans"
+            "fr-FR": "Lettre 1356. À un Curé du Mans",
+            "pt-BR": "Carta 1356. A um Pároco de Le Mans"
           }
         },
         {
           "id": "lettre-1358",
           "title": {
-            "fr-FR": "Lettre 1358. Un Supérieur à Saint Vincent"
+            "fr-FR": "Lettre 1358. Un Supérieur à Saint Vincent",
+            "pt-BR": "Carta 1358. Um Superior a São Vicente"
           }
         },
         {
           "id": "lettre-1359",
           "title": {
-            "fr-FR": "Lettre 1359. Les Échevins de Rethel à Saint Vincent"
+            "fr-FR": "Lettre 1359. Les Échevins de Rethel à Saint Vincent",
+            "pt-BR": "Carta 1359. Os Vereadores de Rethel a São Vicente"
           }
         },
         {
           "id": "lettre-1360",
           "title": {
-            "fr-FR": "Lettre 1360. Aux Échevins de Rethel"
+            "fr-FR": "Lettre 1360. Aux Échevins de Rethel",
+            "pt-BR": "Carta 1360. Aos Vereadores de Rethel"
           }
         },
         {
           "id": "lettre-1361",
           "title": {
-            "fr-FR": "Lettre 1361. À Jacques Desclaux, Évêque de Dax"
+            "fr-FR": "Lettre 1361. À Jacques Desclaux, Évêque de Dax",
+            "pt-BR": "Carta 1361. A Tiago Desclaux, Bispo de Dax"
           }
         },
         {
           "id": "lettre-1362",
           "title": {
-            "fr-FR": "Lettre 1362. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 1362. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 1362. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-1363",
           "title": {
-            "fr-FR": "Lettre 1363. Les Échevins de Rethel à Saint Vincent"
+            "fr-FR": "Lettre 1363. Les Échevins de Rethel à Saint Vincent",
+            "pt-BR": "Carta 1363. Os Vereadores de Rethel a São Vicente"
           }
         },
         {
           "id": "lettre-1364",
           "title": {
-            "fr-FR": "Lettre 1364. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 1364. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 1364. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-1365",
           "title": {
-            "fr-FR": "Lettre 1365. À Jean Martin"
+            "fr-FR": "Lettre 1365. À Jean Martin",
+            "pt-BR": "Carta 1365. A João Martin"
           }
         },
         {
           "id": "lettre-1366",
           "title": {
-            "fr-FR": "Lettre 1366. À un Supérieur"
+            "fr-FR": "Lettre 1366. À un Supérieur",
+            "pt-BR": "Carta 1366. A um Superior"
           }
         },
         {
           "id": "lettre-1367",
           "title": {
-            "fr-FR": "Lettre 1367. À Nicolas Pavillon et Etienne Caulet"
+            "fr-FR": "Lettre 1367. À Nicolas Pavillon et Etienne Caulet",
+            "pt-BR": "Carta 1367. A Nicolau Pavillon e Estêvão Caulet"
           }
         },
         {
           "id": "lettre-1368",
           "title": {
-            "fr-FR": "Lettre 1368. À Jean Martin"
+            "fr-FR": "Lettre 1368. À Jean Martin",
+            "pt-BR": "Carta 1368. A João Martin"
           }
         },
         {
           "id": "lettre-1369",
           "title": {
-            "fr-FR": "Lettre 1369. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 1369. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 1369. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-1370",
           "title": {
-            "fr-FR": "Lettre 1370. À Louise de Marillac"
+            "fr-FR": "Lettre 1370. À Louise de Marillac",
+            "pt-BR": "Carta 1370. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-1374",
           "title": {
-            "fr-FR": "Lettre 1374. Un Prêtre de la Mission à Saint Vincent"
+            "fr-FR": "Lettre 1374. Un Prêtre de la Mission à Saint Vincent",
+            "pt-BR": "Carta 1374. Um Padre da Missão a São Vicente"
           }
         },
         {
           "id": "lettre-1375",
           "title": {
-            "fr-FR": "Lettre 1375. À Gabriel Delespiney, Supérieur, à Toul"
+            "fr-FR": "Lettre 1375. À Gabriel Delespiney, Supérieur, à Toul",
+            "pt-BR": "Carta 1375. A Gabriel Delespiney, Superior, em Toul"
           }
         },
         {
           "id": "lettre-1376",
           "title": {
-            "fr-FR": "Lettre 1376. Alain de Solminihac, à Saint Vincent"
+            "fr-FR": "Lettre 1376. Alain de Solminihac, à Saint Vincent",
+            "pt-BR": "Carta 1376. Alano de Solminihac, a São Vicente"
           }
         },
         {
           "id": "lettre-1377",
           "title": {
-            "fr-FR": "Lettre 1377. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 1377. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 1377. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-1378",
           "title": {
-            "fr-FR": "Lettre 1378. À Jean Martin"
+            "fr-FR": "Lettre 1378. À Jean Martin",
+            "pt-BR": "Carta 1378. A João Martin"
           }
         },
         {
           "id": "lettre-1379",
           "title": {
-            "fr-FR": "Lettre 1379. À Jean Barreau, Consul, à Alger"
+            "fr-FR": "Lettre 1379. À Jean Barreau, Consul, à Alger",
+            "pt-BR": "Carta 1379. A João Barreau, Cônsul, em Argel"
           }
         },
         {
           "id": "lettre-1380",
           "title": {
-            "fr-FR": "Lettre 1380. À Jean Martin"
+            "fr-FR": "Lettre 1380. À Jean Martin",
+            "pt-BR": "Carta 1380. A João Martin"
           }
         },
         {
           "id": "lettre-1381",
           "title": {
-            "fr-FR": "Lettre 1381. Les Échevins de Rethel à Saint Vincent"
+            "fr-FR": "Lettre 1381. Les Échevins de Rethel à Saint Vincent",
+            "pt-BR": "Carta 1381. Os Vereadores de Rethel a São Vicente"
           }
         },
         {
           "id": "lettre-1382",
           "title": {
-            "fr-FR": "Lettre 1382. À Jean Martin"
+            "fr-FR": "Lettre 1382. À Jean Martin",
+            "pt-BR": "Carta 1382. A João Martin"
           }
         },
         {
           "id": "lettre-1383",
           "title": {
-            "fr-FR": "Lettre 1383. À Jacques le Soudier, Prêtre de la Mission, — À Saint-Quentin"
+            "fr-FR": "Lettre 1383. À Jacques le Soudier, Prêtre de la Mission, — À Saint-Quentin",
+            "pt-BR": "Carta 1383. A Tiago le Soudier, Padre da Missão, — Em Saint-Quentin"
           }
         },
         {
           "id": "lettre-1384",
           "title": {
-            "fr-FR": "Lettre 1384. À Nicolas Bonichon, Prêtre de la Mission, à Cahors"
+            "fr-FR": "Lettre 1384. À Nicolas Bonichon, Prêtre de la Mission, à Cahors",
+            "pt-BR": "Carta 1384. A Nicolau Bonichon, Padre da Missão, em Cahors"
           }
         },
         {
           "id": "lettre-1385",
           "title": {
-            "fr-FR": "Lettre 1385. Edme Jolly, Prêtre de la Mission, à Saint Vincent"
+            "fr-FR": "Lettre 1385. Edme Jolly, Prêtre de la Mission, à Saint Vincent",
+            "pt-BR": "Carta 1385. Edmundo Jolly, Padre da Missão, a São Vicente"
           }
         },
         {
           "id": "lettre-1386",
           "title": {
-            "fr-FR": "Lettre 1386. À la Sœur Marie-Madeleine, à Valpuiseaux"
+            "fr-FR": "Lettre 1386. À la Sœur Marie-Madeleine, à Valpuiseaux",
+            "pt-BR": "Carta 1386. À Irmã Maria Madalena, em Valpuiseaux"
           }
         },
         {
           "id": "lettre-1387",
           "title": {
-            "fr-FR": "Lettre 1387. M. Simonet, Président et Lieutenant Général — De Rethel, à Saint Vincent"
+            "fr-FR": "Lettre 1387. M. Simonet, Président et Lieutenant Général — De Rethel, à Saint Vincent",
+            "pt-BR": "Carta 1387. Sr. Simonet, Presidente e Tenente-General — De Rethel, a São Vicente"
           }
         },
         {
           "id": "lettre-1388",
           "title": {
-            "fr-FR": "Lettre 1388. À Jean Martin"
+            "fr-FR": "Lettre 1388. À Jean Martin",
+            "pt-BR": "Carta 1388. A João Martin"
           }
         },
         {
           "id": "lettre-1389",
           "title": {
-            "fr-FR": "Lettre 1389. À la Sœur Anne Hardemont"
+            "fr-FR": "Lettre 1389. À la Sœur Anne Hardemont",
+            "pt-BR": "Carta 1389. À Irmã Ana Hardemont"
           }
         },
         {
           "id": "lettre-1390",
           "title": {
-            "fr-FR": "Lettre 1390. À Jean Martin"
+            "fr-FR": "Lettre 1390. À Jean Martin",
+            "pt-BR": "Carta 1390. A João Martin"
           }
         },
         {
           "id": "lettre-1391",
           "title": {
-            "fr-FR": "Lettre 1391. À Antoine Sconin, Supérieur Général — De Sainte-Geneviève"
+            "fr-FR": "Lettre 1391. À Antoine Sconin, Supérieur Général — De Sainte-Geneviève",
+            "pt-BR": "Carta 1391. A Antônio Sconin, Superior Geral — De Sainte-Geneviève"
           }
         },
         {
           "id": "lettre-1392",
           "title": {
-            "fr-FR": "Lettre 1392. À François de Saint-Remy, Archidiacre de Langres"
+            "fr-FR": "Lettre 1392. À François de Saint-Remy, Archidiacre de Langres",
+            "pt-BR": "Carta 1392. A Francisco de Saint-Remy, Arquidiácono de Langres"
           }
         },
         {
           "id": "lettre-1393",
           "title": {
-            "fr-FR": "Lettre 1393. À Pierre de Saint-Remy"
+            "fr-FR": "Lettre 1393. À Pierre de Saint-Remy",
+            "pt-BR": "Carta 1393. A Pedro de Saint-Remy"
           }
         },
         {
           "id": "lettre-1394",
           "title": {
-            "fr-FR": "Lettre 1394. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 1394. À un Prêtre de la Mission",
+            "pt-BR": "Carta 1394. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-1395",
           "title": {
-            "fr-FR": "Lettre 1395. À la Sœur Henriette Gesseaume"
+            "fr-FR": "Lettre 1395. À la Sœur Henriette Gesseaume",
+            "pt-BR": "Carta 1395. À Irmã Henriqueta Gesseaume"
           }
         },
         {
           "id": "lettre-1396",
           "title": {
-            "fr-FR": "Lettre 1396. Au Père. François Boulart"
+            "fr-FR": "Lettre 1396. Au Père. François Boulart",
+            "pt-BR": "Carta 1396. Ao Padre. Francisco Boulart"
           }
         },
         {
           "id": "lettre-1397",
           "title": {
-            "fr-FR": "Lettre 1397. À Jean Martin"
+            "fr-FR": "Lettre 1397. À Jean Martin",
+            "pt-BR": "Carta 1397. A João Martin"
           }
         },
         {
           "id": "lettre-1398",
           "title": {
-            "fr-FR": "Lettre 1398. Alain de Solminihac, à Saint Vincent"
+            "fr-FR": "Lettre 1398. Alain de Solminihac, à Saint Vincent",
+            "pt-BR": "Carta 1398. Alano de Solminihac, a São Vicente"
           }
         },
         {
           "id": "lettre-1399",
           "title": {
-            "fr-FR": "Lettre 1399. À la Sœur Marie-Madeleine à Valpuiseaux"
+            "fr-FR": "Lettre 1399. À la Sœur Marie-Madeleine à Valpuiseaux",
+            "pt-BR": "Carta 1399. À Irmã Maria Madalena em Valpuiseaux"
           }
         },
         {
           "id": "lettre-1400",
           "title": {
-            "fr-FR": "Lettre 1400. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 1400. À un Prêtre de la Mission",
+            "pt-BR": "Carta 1400. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-1401",
           "title": {
-            "fr-FR": "Lettre 1401. À Louise-Marie de Gonzague, Reine de Pologne"
+            "fr-FR": "Lettre 1401. À Louise-Marie de Gonzague, Reine de Pologne",
+            "pt-BR": "Carta 1401. A Luísa Maria de Gonzaga, Rainha da Polônia"
           }
         },
         {
           "id": "lettre-1402",
           "title": {
-            "fr-FR": "Lettre 1402. Au Cardinal Durazzo, Archevêque de Gênes"
+            "fr-FR": "Lettre 1402. Au Cardinal Durazzo, Archevêque de Gênes",
+            "pt-BR": "Carta 1402. Ao Cardeal Durazzo, Arcebispo de Gênova"
           }
         },
         {
           "id": "lettre-1403",
           "title": {
-            "fr-FR": "Lettre 1403. À Etienne Blatiron, Supérieur, à Gênes"
+            "fr-FR": "Lettre 1403. À Etienne Blatiron, Supérieur, à Gênes",
+            "pt-BR": "Carta 1403. A Estêvão Blatiron, Superior, em Gênova"
           }
         },
         {
           "id": "lettre-1404",
           "title": {
-            "fr-FR": "Lettre 1404. À Jean Martin"
+            "fr-FR": "Lettre 1404. À Jean Martin",
+            "pt-BR": "Carta 1404. A João Martin"
           }
         },
         {
           "id": "lettre-1405",
           "title": {
-            "fr-FR": "Lettre 1405. À Louise de Marillac"
+            "fr-FR": "Lettre 1405. À Louise de Marillac",
+            "pt-BR": "Carta 1405. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-1406",
           "title": {
-            "fr-FR": "Lettre 1406. À Louise de Marillac"
+            "fr-FR": "Lettre 1406. À Louise de Marillac",
+            "pt-BR": "Carta 1406. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-1407",
           "title": {
-            "fr-FR": "Lettre 1407. À Louise de Marillac"
+            "fr-FR": "Lettre 1407. À Louise de Marillac",
+            "pt-BR": "Carta 1407. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-1408",
           "title": {
-            "fr-FR": "Lettre 1408. Un Prêtre de la Mission à Saint Vincent"
+            "fr-FR": "Lettre 1408. Un Prêtre de la Mission à Saint Vincent",
+            "pt-BR": "Carta 1408. Um Padre da Missão a São Vicente"
           }
         },
         {
           "id": "lettre-1409",
           "title": {
-            "fr-FR": "Lettre 1409. À Louis Thibault, Supérieur, à Saint-Méen"
+            "fr-FR": "Lettre 1409. À Louis Thibault, Supérieur, à Saint-Méen",
+            "pt-BR": "Carta 1409. A Luís Thibault, Superior, em Saint-Méen"
           }
         },
         {
           "id": "lettre-1410",
           "title": {
-            "fr-FR": "Lettre 1410. À la Sœur Anne Hardemont"
+            "fr-FR": "Lettre 1410. À la Sœur Anne Hardemont",
+            "pt-BR": "Carta 1410. À Irmã Ana Hardemont"
           }
         },
         {
           "id": "lettre-1411",
           "title": {
-            "fr-FR": "Lettre 1411. À la Sœur Henriette Gesseaume"
+            "fr-FR": "Lettre 1411. À la Sœur Henriette Gesseaume",
+            "pt-BR": "Carta 1411. À Irmã Henriqueta Gesseaume"
           }
         },
         {
           "id": "lettre-1412",
           "title": {
-            "fr-FR": "Lettre 1412. M. Souyn, Bailli de Reims, à Saint Vincent"
+            "fr-FR": "Lettre 1412. M. Souyn, Bailli de Reims, à Saint Vincent",
+            "pt-BR": "Carta 1412. Sr. Souyn, Bailio de Reims, a São Vicente"
           }
         },
         {
           "id": "lettre-1413",
           "title": {
-            "fr-FR": "Lettre 1413. À Claude Dufour, Prêtre de la Mission, à Sedan"
+            "fr-FR": "Lettre 1413. À Claude Dufour, Prêtre de la Mission, à Sedan",
+            "pt-BR": "Carta 1413. A Cláudio Dufour, Padre da Missão, em Sedan"
           }
         },
         {
           "id": "lettre-1414",
           "title": {
-            "fr-FR": "Lettre 1414. À Hugues Perraud"
+            "fr-FR": "Lettre 1414. À Hugues Perraud",
+            "pt-BR": "Carta 1414. A Hugo Perraud"
           }
         },
         {
           "id": "lettre-1415",
           "title": {
-            "fr-FR": "Lettre 1415. À Marc Coglée, Supérieur, à Sedan"
+            "fr-FR": "Lettre 1415. À Marc Coglée, Supérieur, à Sedan",
+            "pt-BR": "Carta 1415. A Marcos Coglée, Superior, em Sedan"
           }
         },
         {
           "id": "lettre-1416",
           "title": {
-            "fr-FR": "Lettre 1416. À Christophe Monchia"
+            "fr-FR": "Lettre 1416. À Christophe Monchia",
+            "pt-BR": "Carta 1416. A Cristóvão Monchia"
           }
         },
         {
           "id": "lettre-1417",
           "title": {
-            "fr-FR": "Lettre 1417. Nicolas Pavillon, Évêque d’Alet, à Saint Vincent"
+            "fr-FR": "Lettre 1417. Nicolas Pavillon, Évêque d’Alet, à Saint Vincent",
+            "pt-BR": "Carta 1417. Nicolau Pavillon, Bispo de Alet, a São Vicente"
           }
         },
         {
           "id": "lettre-1418",
           "title": {
-            "fr-FR": "Lettre 1418. À Nicolas Bagni, Nonce en France"
+            "fr-FR": "Lettre 1418. À Nicolas Bagni, Nonce en France",
+            "pt-BR": "Carta 1418. A Nicolau Bagni, Núncio na França"
           }
         },
         {
           "id": "lettre-1419",
           "title": {
-            "fr-FR": "Lettre 1419. Alain de Solminihac, à Saint Vincent"
+            "fr-FR": "Lettre 1419. Alain de Solminihac, à Saint Vincent",
+            "pt-BR": "Carta 1419. Alano de Solminihac, a São Vicente"
           }
         },
         {
           "id": "lettre-1420",
           "title": {
-            "fr-FR": "Lettre 1420. À la Reine Anne d’Autriche"
+            "fr-FR": "Lettre 1420. À la Reine Anne d’Autriche",
+            "pt-BR": "Carta 1420. À Rainha Ana de Áustria"
           }
         },
         {
           "id": "lettre-1421",
           "title": {
-            "fr-FR": "Lettre 1421. À N*"
+            "fr-FR": "Lettre 1421. À N*",
+            "pt-BR": "Carta 1421. A N*"
           }
         },
         {
           "id": "lettre-1422",
           "title": {
-            "fr-FR": "Lettre 1422. Alain de Solminihac, à Saint Vincent"
+            "fr-FR": "Lettre 1422. Alain de Solminihac, à Saint Vincent",
+            "pt-BR": "Carta 1422. Alano de Solminihac, a São Vicente"
           }
         },
         {
           "id": "lettre-1423",
           "title": {
-            "fr-FR": "Lettre 1423. Louise-Marie, Reine de Pologne, à Saint Vincent"
+            "fr-FR": "Lettre 1423. Louise-Marie, Reine de Pologne, à Saint Vincent",
+            "pt-BR": "Carta 1423. Luísa Maria, Rainha da Polônia, a São Vicente"
           }
         },
         {
           "id": "lettre-1424",
           "title": {
-            "fr-FR": "Lettre 1424. À Mathurin Gentil, Prêtre de la Mission, au Mans"
+            "fr-FR": "Lettre 1424. À Mathurin Gentil, Prêtre de la Mission, au Mans",
+            "pt-BR": "Carta 1424. A Maturino Gentil, Padre da Missão, em Le Mans"
           }
         },
         {
           "id": "lettre-1425",
           "title": {
-            "fr-FR": "Lettre 1425. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 1425. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 1425. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-1426",
           "title": {
-            "fr-FR": "Lettre 1426. À Pierre Watebled, Supérieur, à Saintes"
+            "fr-FR": "Lettre 1426. À Pierre Watebled, Supérieur, à Saintes",
+            "pt-BR": "Carta 1426. A Pedro Watebled, Superior, em Saintes"
           }
         },
         {
           "id": "lettre-1427",
           "title": {
-            "fr-FR": "Lettre 1427. À Jean-Baptiste Gilles"
+            "fr-FR": "Lettre 1427. À Jean-Baptiste Gilles",
+            "pt-BR": "Carta 1427. A João Batista Gilles"
           }
         },
         {
           "id": "lettre-1428",
           "title": {
-            "fr-FR": "Lettre 1428. À la Sœur Jeanne le Peintre, Supérieure, à Nantes"
+            "fr-FR": "Lettre 1428. À la Sœur Jeanne le Peintre, Supérieure, à Nantes",
+            "pt-BR": "Carta 1428. À Irmã Joana le Peintre, Superiora, em Nantes"
           }
         },
         {
           "id": "lettre-1429",
           "title": {
-            "fr-FR": "Lettre 1429. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 1429. À un Prêtre de la Mission",
+            "pt-BR": "Carta 1429. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-1430",
           "title": {
-            "fr-FR": "Lettre 1430. À Gilbert Cuissot, Supérieur, à Cahors"
+            "fr-FR": "Lettre 1430. À Gilbert Cuissot, Supérieur, à Cahors",
+            "pt-BR": "Carta 1430. A Gilberto Cuissot, Superior, em Cahors"
           }
         },
         {
           "id": "lettre-1431",
           "title": {
-            "fr-FR": "Lettre 1431. Un Évêque à Saint Vincent"
+            "fr-FR": "Lettre 1431. Un Évêque à Saint Vincent",
+            "pt-BR": "Carta 1431. Um Bispo a São Vicente"
           }
         },
         {
           "id": "lettre-1432",
           "title": {
-            "fr-FR": "Lettre 1432. À une Religieuse"
+            "fr-FR": "Lettre 1432. À une Religieuse",
+            "pt-BR": "Carta 1432. A uma Religiosa"
           }
         },
         {
           "id": "lettre-1433",
           "title": {
-            "fr-FR": "Lettre 1433. Au Frère Jean-Pascal Goret, à Bazoches"
+            "fr-FR": "Lettre 1433. Au Frère Jean-Pascal Goret, à Bazoches",
+            "pt-BR": "Carta 1433. Ao Irmão João Pascoal Goret, em Bazoches"
           }
         },
         {
           "id": "lettre-1434",
           "title": {
-            "fr-FR": "Lettre 1434. À Marguerite Deniac, Supérieure des Filles — De Notre-Dame, à Richelieu"
+            "fr-FR": "Lettre 1434. À Marguerite Deniac, Supérieure des Filles — De Notre-Dame, à Richelieu",
+            "pt-BR": "Carta 1434. A Margarida Deniac, Superiora das Filhas — De Nossa Senhora, em Richelieu"
           }
         },
         {
           "id": "lettre-1435",
           "title": {
-            "fr-FR": "Lettre 1435. À Lambert aux Couteaux, Supérieur, à Varsovie"
+            "fr-FR": "Lettre 1435. À Lambert aux Couteaux, Supérieur, à Varsovie",
+            "pt-BR": "Carta 1435. A Lamberto aux Couteaux, Superior, em Varsóvia"
           }
         },
         {
           "id": "lettre-1436",
           "title": {
-            "fr-FR": "Lettre 1436. À Achille le Vazeux, Prêtre de la Mission, à Rome"
+            "fr-FR": "Lettre 1436. À Achille le Vazeux, Prêtre de la Mission, à Rome",
+            "pt-BR": "Carta 1436. A Aquiles le Vazeux, Padre da Missão, em Roma"
           }
         },
         {
           "id": "lettre-1437",
           "title": {
-            "fr-FR": "Lettre 1437. À un Père de la Congrégation de Sainte-Geneviève"
+            "fr-FR": "Lettre 1437. À un Père de la Congrégation de Sainte-Geneviève",
+            "pt-BR": "Carta 1437. A um Padre da Congregação de Sainte-Geneviève"
           }
         },
         {
           "id": "lettre-1438",
           "title": {
-            "fr-FR": "Lettre 1438. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 1438. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 1438. Luísa de Marillac a São Vicente"
           }
         }
       ]
@@ -1389,841 +1619,981 @@
     {
       "id": "groupe-03",
       "title": {
-        "fr-FR": "Année 1652"
+        "fr-FR": "Année 1652",
+        "pt-BR": "Ano de 1652"
       },
       "children": [
         {
           "id": "lettre-1440",
           "title": {
-            "fr-FR": "Lettre 1440. À N *"
+            "fr-FR": "Lettre 1440. À N *",
+            "pt-BR": "Carta 1440. A N *"
           }
         },
         {
           "id": "lettre-1441",
           "title": {
-            "fr-FR": "Lettre 1441. Des Prêtres de la Mission à Saint Vincent"
+            "fr-FR": "Lettre 1441. Des Prêtres de la Mission à Saint Vincent",
+            "pt-BR": "Carta 1441. Padres da Missão a São Vicente"
           }
         },
         {
           "id": "lettre-1442",
           "title": {
-            "fr-FR": "Lettre 1442. À un Prêtre de la Mission, à Marseille"
+            "fr-FR": "Lettre 1442. À un Prêtre de la Mission, à Marseille",
+            "pt-BR": "Carta 1442. A um Padre da Missão, em Marselha"
           }
         },
         {
           "id": "lettre-1443",
           "title": {
-            "fr-FR": "Lettre 1443. À la Propagande"
+            "fr-FR": "Lettre 1443. À la Propagande",
+            "pt-BR": "Carta 1443. À Propaganda"
           }
         },
         {
           "id": "lettre-1444",
           "title": {
-            "fr-FR": "Lettre 1444. À la Reine Anne d’Autriche"
+            "fr-FR": "Lettre 1444. À la Reine Anne d’Autriche",
+            "pt-BR": "Carta 1444. À Rainha Ana de Áustria"
           }
         },
         {
           "id": "lettre-1445",
           "title": {
-            "fr-FR": "Lettre 1445. À Jean Martin"
+            "fr-FR": "Lettre 1445. À Jean Martin",
+            "pt-BR": "Carta 1445. A João Martin"
           }
         },
         {
           "id": "lettre-1447",
           "title": {
-            "fr-FR": "Lettre 1447. À Jean Gicquel, Supérieur, au Mans"
+            "fr-FR": "Lettre 1447. À Jean Gicquel, Supérieur, au Mans",
+            "pt-BR": "Carta 1447. A João Gicquel, Superior, em Le Mans"
           }
         },
         {
           "id": "lettre-1448",
           "title": {
-            "fr-FR": "Lettre 1448. Au Père Boulart"
+            "fr-FR": "Lettre 1448. Au Père Boulart",
+            "pt-BR": "Carta 1448. Ao Padre Boulart"
           }
         },
         {
           "id": "lettre-1449",
           "title": {
-            "fr-FR": "Lettre 1449. Au Père Georges Barny, — Supérieur Général de l’Ordre de Grandnont"
+            "fr-FR": "Lettre 1449. Au Père Georges Barny, — Supérieur Général de l’Ordre de Grandnont",
+            "pt-BR": "Carta 1449. Ao Padre Jorge Barny, — Superior Geral da Ordem de Grandnont"
           }
         },
         {
           "id": "lettre-1450",
           "title": {
-            "fr-FR": "Lettre 1450. Alain de Solminihac à Saint Vincent"
+            "fr-FR": "Lettre 1450. Alain de Solminihac à Saint Vincent",
+            "pt-BR": "Carta 1450. Alano de Solminihac a São Vicente"
           }
         },
         {
           "id": "lettre-1452",
           "title": {
-            "fr-FR": "Lettre 1452. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 1452. À un Prêtre de la Mission",
+            "pt-BR": "Carta 1452. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-1453",
           "title": {
-            "fr-FR": "Lettre 1453. À Balthazar Grangier de Liverdi, Évêque de Tréguier"
+            "fr-FR": "Lettre 1453. À Balthazar Grangier de Liverdi, Évêque de Tréguier",
+            "pt-BR": "Carta 1453. A Baltasar Grangier de Liverdi, Bispo de Tréguier"
           }
         },
         {
           "id": "lettre-1454",
           "title": {
-            "fr-FR": "Lettre 1454. À Lambert aux Couteaux"
+            "fr-FR": "Lettre 1454. À Lambert aux Couteaux",
+            "pt-BR": "Carta 1454. A Lamberto aux Couteaux"
           }
         },
         {
           "id": "lettre-1455",
           "title": {
-            "fr-FR": "Lettre 1455. À Louis Thibault, à Saint-Méen"
+            "fr-FR": "Lettre 1455. À Louis Thibault, à Saint-Méen",
+            "pt-BR": "Carta 1455. A Luís Thibault, em Saint-Méen"
           }
         },
         {
           "id": "lettre-1456",
           "title": {
-            "fr-FR": "Lettre 1456. À un Ecclésiastique"
+            "fr-FR": "Lettre 1456. À un Ecclésiastique",
+            "pt-BR": "Carta 1456. A um Eclesiástico"
           }
         },
         {
           "id": "lettre-1457",
           "title": {
-            "fr-FR": "Lettre 1457. À Lambert aux Couteaux"
+            "fr-FR": "Lettre 1457. À Lambert aux Couteaux",
+            "pt-BR": "Carta 1457. A Lamberto aux Couteaux"
           }
         },
         {
           "id": "lettre-1458",
           "title": {
-            "fr-FR": "Lettre 1458. - à Etienne Blatiron, Supérieur, à Gênes"
+            "fr-FR": "Lettre 1458. - à Etienne Blatiron, Supérieur, à Gênes",
+            "pt-BR": "Carta 1458. - a Estêvão Blatiron, Superior, em Gênova"
           }
         },
         {
           "id": "lettre-1459",
           "title": {
-            "fr-FR": "Lettre 1459. Les Échevins de Rethel à Saint Vincent"
+            "fr-FR": "Lettre 1459. Les Échevins de Rethel à Saint Vincent",
+            "pt-BR": "Carta 1459. Os Vereadores de Rethel a São Vicente"
           }
         },
         {
           "id": "lettre-1460",
           "title": {
-            "fr-FR": "Lettre 1460. À Jean Gicquel, Supérieur, au Mans"
+            "fr-FR": "Lettre 1460. À Jean Gicquel, Supérieur, au Mans",
+            "pt-BR": "Carta 1460. A João Gicquel, Superior, em Le Mans"
           }
         },
         {
           "id": "lettre-1461",
           "title": {
-            "fr-FR": "Lettre 1461. Nicolas Pavillon, Évêques d’Alet, à Saint Vincent"
+            "fr-FR": "Lettre 1461. Nicolas Pavillon, Évêques d’Alet, à Saint Vincent",
+            "pt-BR": "Carta 1461. Nicolau Pavillon, Bispos de Alet, a São Vicente"
           }
         },
         {
           "id": "lettre-1462",
           "title": {
-            "fr-FR": "Lettre 1462. À Jacques Delville, Supérieur, à Montmirail"
+            "fr-FR": "Lettre 1462. À Jacques Delville, Supérieur, à Montmirail",
+            "pt-BR": "Carta 1462. A Tiago Delville, Superior, em Montmirail"
           }
         },
         {
           "id": "lettre-1463",
           "title": {
-            "fr-FR": "Lettre 1463. À Lambert aux Couteaux"
+            "fr-FR": "Lettre 1463. À Lambert aux Couteaux",
+            "pt-BR": "Carta 1463. A Lamberto aux Couteaux"
           }
         },
         {
           "id": "lettre-1464",
           "title": {
-            "fr-FR": "Lettre 1464. Au Vicaire Général des Prémontrés Reformes, — À Verdun"
+            "fr-FR": "Lettre 1464. Au Vicaire Général des Prémontrés Reformes, — À Verdun",
+            "pt-BR": "Carta 1464. Ao Vigário-Geral dos Premonstratenses Reformados, — Em Verdun"
           }
         },
         {
           "id": "lettre-1465",
           "title": {
-            "fr-FR": "Lettre 1465. À Nicolas Bagni, Nonce en France"
+            "fr-FR": "Lettre 1465. À Nicolas Bagni, Nonce en France",
+            "pt-BR": "Carta 1465. A Nicolau Bagni, Núncio na França"
           }
         },
         {
           "id": "lettre-1466",
           "title": {
-            "fr-FR": "Lettre 1466. À Marc Coglée, Supérieur, à Sedan"
+            "fr-FR": "Lettre 1466. À Marc Coglée, Supérieur, à Sedan",
+            "pt-BR": "Carta 1466. A Marcos Coglée, Superior, em Sedan"
           }
         },
         {
           "id": "lettre-1467",
           "title": {
-            "fr-FR": "Lettre 1467. À Emerand Bajoue, Prêtre de la Mission"
+            "fr-FR": "Lettre 1467. À Emerand Bajoue, Prêtre de la Mission",
+            "pt-BR": "Carta 1467. A Emerando Bajoue, Padre da Missão"
           }
         },
         {
           "id": "lettre-1468",
           "title": {
-            "fr-FR": "Lettre 1468. À un Évêque"
+            "fr-FR": "Lettre 1468. À un Évêque",
+            "pt-BR": "Carta 1468. A um Bispo"
           }
         },
         {
           "id": "lettre-1469",
           "title": {
-            "fr-FR": "Lettre 1469. À la Propagande"
+            "fr-FR": "Lettre 1469. À la Propagande",
+            "pt-BR": "Carta 1469. À Propaganda"
           }
         },
         {
           "id": "lettre-1470",
           "title": {
-            "fr-FR": "Lettre 1470. À la Propagande"
+            "fr-FR": "Lettre 1470. À la Propagande",
+            "pt-BR": "Carta 1470. À Propaganda"
           }
         },
         {
           "id": "lettre-1471",
           "title": {
-            "fr-FR": "Lettre 1471. À Lambert aux Couteaux"
+            "fr-FR": "Lettre 1471. À Lambert aux Couteaux",
+            "pt-BR": "Carta 1471. A Lamberto aux Couteaux"
           }
         },
         {
           "id": "lettre-1472",
           "title": {
-            "fr-FR": "Lettre 1472. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 1472. À un Prêtre de la Mission",
+            "pt-BR": "Carta 1472. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-1473",
           "title": {
-            "fr-FR": "Lettre 1473. À Lambert aux Couteaux"
+            "fr-FR": "Lettre 1473. À Lambert aux Couteaux",
+            "pt-BR": "Carta 1473. A Lamberto aux Couteaux"
           }
         },
         {
           "id": "lettre-1474",
           "title": {
-            "fr-FR": "Lettre 1474. À Nicolas Sevin, Évêque de Sarlat"
+            "fr-FR": "Lettre 1474. À Nicolas Sevin, Évêque de Sarlat",
+            "pt-BR": "Carta 1474. A Nicolau Sevin, Bispo de Sarlat"
           }
         },
         {
           "id": "lettre-1475",
           "title": {
-            "fr-FR": "Lettre 1475. À Marc Coglée, Supérieur, à Sedan"
+            "fr-FR": "Lettre 1475. À Marc Coglée, Supérieur, à Sedan",
+            "pt-BR": "Carta 1475. A Marcos Coglée, Superior, em Sedan"
           }
         },
         {
           "id": "lettre-1476",
           "title": {
-            "fr-FR": "Lettre 1476. À N*"
+            "fr-FR": "Lettre 1476. À N*",
+            "pt-BR": "Carta 1476. A N*"
           }
         },
         {
           "id": "lettre-1477",
           "title": {
-            "fr-FR": "Lettre 1477. À Jean Dehorgny, Supérieur, à Rome"
+            "fr-FR": "Lettre 1477. À Jean Dehorgny, Supérieur, à Rome",
+            "pt-BR": "Carta 1477. A João Dehorgny, Superior, em Roma"
           }
         },
         {
           "id": "lettre-1478",
           "title": {
-            "fr-FR": "Lettre 1478. À Achille le Vazeux, Assistant, à Rome"
+            "fr-FR": "Lettre 1478. À Achille le Vazeux, Assistant, à Rome",
+            "pt-BR": "Carta 1478. A Aquiles le Vazeux, Assistente, em Roma"
           }
         },
         {
           "id": "lettre-1479",
           "title": {
-            "fr-FR": "Lettre 1479. À Lambert aux Couteaux"
+            "fr-FR": "Lettre 1479. À Lambert aux Couteaux",
+            "pt-BR": "Carta 1479. A Lamberto aux Couteaux"
           }
         },
         {
           "id": "lettre-1480",
           "title": {
-            "fr-FR": "Lettre 1480. Au Frère Léonard Lamirois (1) à Gênes"
+            "fr-FR": "Lettre 1480. Au Frère Léonard Lamirois (1) à Gênes",
+            "pt-BR": "Carta 1480. Ao Irmão Leonardo Lamirois (1) em Gênova"
           }
         },
         {
           "id": "lettre-1481",
           "title": {
-            "fr-FR": "Lettre 1481. À un Prêtre de la Mission, à Troyes"
+            "fr-FR": "Lettre 1481. À un Prêtre de la Mission, à Troyes",
+            "pt-BR": "Carta 1481. A um Padre da Missão, em Troyes"
           }
         },
         {
           "id": "lettre-1482",
           "title": {
-            "fr-FR": "Lettre 1482. À Lambert aux Couteaux, Supérieur, à Varsovie"
+            "fr-FR": "Lettre 1482. À Lambert aux Couteaux, Supérieur, à Varsovie",
+            "pt-BR": "Carta 1482. A Lamberto aux Couteaux, Superior, em Varsóvia"
           }
         },
         {
           "id": "lettre-1483",
           "title": {
-            "fr-FR": "Lettre 1483. À Achille le Vazeux, Assistant, à Rome"
+            "fr-FR": "Lettre 1483. À Achille le Vazeux, Assistant, à Rome",
+            "pt-BR": "Carta 1483. A Aquiles le Vazeux, Assistente, em Roma"
           }
         },
         {
           "id": "lettre-1484",
           "title": {
-            "fr-FR": "Lettre 1484. À un Prêtre de la Mission, à Saint-Méen"
+            "fr-FR": "Lettre 1484. À un Prêtre de la Mission, à Saint-Méen",
+            "pt-BR": "Carta 1484. A um Padre da Missão, em Saint-Méen"
           }
         },
         {
           "id": "lettre-1485",
           "title": {
-            "fr-FR": "Lettre 1485. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 1485. À un Prêtre de la Mission",
+            "pt-BR": "Carta 1485. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-1486",
           "title": {
-            "fr-FR": "Lettre 1486. À Jean Dehorgny, Supérieur, à Rome"
+            "fr-FR": "Lettre 1486. À Jean Dehorgny, Supérieur, à Rome",
+            "pt-BR": "Carta 1486. A João Dehorgny, Superior, em Roma"
           }
         },
         {
           "id": "lettre-1487",
           "title": {
-            "fr-FR": "Lettre 1487. À Philippe le Vacher et au Frère Jean Barreau"
+            "fr-FR": "Lettre 1487. À Philippe le Vacher et au Frère Jean Barreau",
+            "pt-BR": "Carta 1487. A Filipe le Vacher e ao Irmão João Barreau"
           }
         },
         {
           "id": "lettre-1488",
           "title": {
-            "fr-FR": "Lettre 1488. À Marc Coglée, Supérieur, à Sedan"
+            "fr-FR": "Lettre 1488. À Marc Coglée, Supérieur, à Sedan",
+            "pt-BR": "Carta 1488. A Marcos Coglée, Superior, em Sedan"
           }
         },
         {
           "id": "lettre-1489",
           "title": {
-            "fr-FR": "Lettre 1489. À Claude Dufour, Prêtre de la Mission, à Sedan"
+            "fr-FR": "Lettre 1489. À Claude Dufour, Prêtre de la Mission, à Sedan",
+            "pt-BR": "Carta 1489. A Cláudio Dufour, Padre da Missão, em Sedan"
           }
         },
         {
           "id": "lettre-1490",
           "title": {
-            "fr-FR": "Lettre 1490. À la Supérieure de l’Hôtel-dieu de Québec"
+            "fr-FR": "Lettre 1490. À la Supérieure de l’Hôtel-dieu de Québec",
+            "pt-BR": "Carta 1490. À Superiora do Hôtel-Dieu de Quebec"
           }
         },
         {
           "id": "lettre-1491",
           "title": {
-            "fr-FR": "Lettre 1491. * Jean le Vacher, Prêtre de la Mission, *a Saint Vincent"
+            "fr-FR": "Lettre 1491. * Jean le Vacher, Prêtre de la Mission, *a Saint Vincent",
+            "pt-BR": "Carta 1491. * João le Vacher, Padre da Missão, *a São Vicente"
           }
         },
         {
           "id": "lettre-1492",
           "title": {
-            "fr-FR": "Lettre 1492. À Jean Dehorgny, Supérieur, à Rome"
+            "fr-FR": "Lettre 1492. À Jean Dehorgny, Supérieur, à Rome",
+            "pt-BR": "Carta 1492. A João Dehorgny, Superior, em Roma"
           }
         },
         {
           "id": "lettre-1493",
           "title": {
-            "fr-FR": "Lettre 1493. Au Cardinal Antoine Barberini, — Préfet de la Propagande"
+            "fr-FR": "Lettre 1493. Au Cardinal Antoine Barberini, — Préfet de la Propagande",
+            "pt-BR": "Carta 1493. Ao Cardeal Antônio Barberini, — Prefeito da Propaganda"
           }
         },
         {
           "id": "lettre-1494",
           "title": {
-            "fr-FR": "Lettre 1494. À Lambert aux Couteaux"
+            "fr-FR": "Lettre 1494. À Lambert aux Couteaux",
+            "pt-BR": "Carta 1494. A Lamberto aux Couteaux"
           }
         },
         {
           "id": "lettre-1495",
           "title": {
-            "fr-FR": "Lettre 1495. À Pierre de Bertier, — Coadjuteur de l’Évêque de Montauban"
+            "fr-FR": "Lettre 1495. À Pierre de Bertier, — Coadjuteur de l’Évêque de Montauban",
+            "pt-BR": "Carta 1495. A Pedro de Bertier, — Coadjutor do Bispo de Montauban"
           }
         },
         {
           "id": "lettre-1496",
           "title": {
-            "fr-FR": "Lettre 1496. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 1496. À un Prêtre de la Mission",
+            "pt-BR": "Carta 1496. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-1497",
           "title": {
-            "fr-FR": "Lettre 1497. À Lambert aux Couteaux, Supérieur, à Varsovie"
+            "fr-FR": "Lettre 1497. À Lambert aux Couteaux, Supérieur, à Varsovie",
+            "pt-BR": "Carta 1497. A Lamberto aux Couteaux, Superior, em Varsóvia"
           }
         },
         {
           "id": "lettre-1498",
           "title": {
-            "fr-FR": "Lettre 1498. À Mademoiselle de Lamoignon"
+            "fr-FR": "Lettre 1498. À Mademoiselle de Lamoignon",
+            "pt-BR": "Carta 1498. À Senhorita de Lamoignon"
           }
         },
         {
           "id": "lettre-1499",
           "title": {
-            "fr-FR": "Lettre 1499. À la Présidente du Sault"
+            "fr-FR": "Lettre 1499. À la Présidente du Sault",
+            "pt-BR": "Carta 1499. À Presidenta du Sault"
           }
         },
         {
           "id": "lettre-1500",
           "title": {
-            "fr-FR": "Lettre 1500. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 1500. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 1500. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-1502",
           "title": {
-            "fr-FR": "Lettre 1502. À Lambert aux Couteaux, Supérieur, à Varsovie"
+            "fr-FR": "Lettre 1502. À Lambert aux Couteaux, Supérieur, à Varsovie",
+            "pt-BR": "Carta 1502. A Lamberto aux Couteaux, Superior, em Varsóvia"
           }
         },
         {
           "id": "lettre-1503",
           "title": {
-            "fr-FR": "Lettre 1503. Une Fille de la Charité à Saint Vincent"
+            "fr-FR": "Lettre 1503. Une Fille de la Charité à Saint Vincent",
+            "pt-BR": "Carta 1503. Uma Filha da Caridade a São Vicente"
           }
         },
         {
           "id": "lettre-1504",
           "title": {
-            "fr-FR": "Lettre 1504. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 1504. À un Prêtre de la Mission",
+            "pt-BR": "Carta 1504. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-1505",
           "title": {
-            "fr-FR": "Lettre 1505. À Philippe Vageot, Supérieur, à Saintes"
+            "fr-FR": "Lettre 1505. À Philippe Vageot, Supérieur, à Saintes",
+            "pt-BR": "Carta 1505. A Filipe Vageot, Superior, em Saintes"
           }
         },
         {
           "id": "lettre-1506",
           "title": {
-            "fr-FR": "Lettre 1506. À Achille le Vazeux, Prêtre de la Mission, à Rome"
+            "fr-FR": "Lettre 1506. À Achille le Vazeux, Prêtre de la Mission, à Rome",
+            "pt-BR": "Carta 1506. A Aquiles le Vazeux, Padre da Missão, em Roma"
           }
         },
         {
           "id": "lettre-1507",
           "title": {
-            "fr-FR": "Lettre 1507. À Monsieur Maurisse"
+            "fr-FR": "Lettre 1507. À Monsieur Maurisse",
+            "pt-BR": "Carta 1507. Ao Senhor Maurisse"
           }
         },
         {
           "id": "lettre-1508",
           "title": {
-            "fr-FR": "Lettre 1508. À un Frère Coadjuteur de la Maison de Richelieu"
+            "fr-FR": "Lettre 1508. À un Frère Coadjuteur de la Maison de Richelieu",
+            "pt-BR": "Carta 1508. A um Irmão Coadjutor da Casa de Richelieu"
           }
         },
         {
           "id": "lettre-1509",
           "title": {
-            "fr-FR": "Lettre 1509. À Jean Dehorgny, Supérieur, à Rome"
+            "fr-FR": "Lettre 1509. À Jean Dehorgny, Supérieur, à Rome",
+            "pt-BR": "Carta 1509. A João Dehorgny, Superior, em Roma"
           }
         },
         {
           "id": "lettre-1510",
           "title": {
-            "fr-FR": "Lettre 1510. À François Hallier (1) et Jérome Lagault (2) à Rome"
+            "fr-FR": "Lettre 1510. À François Hallier (1) et Jérome Lagault (2) à Rome",
+            "pt-BR": "Carta 1510. A Francisco Hallier (1) e Jerônimo Lagault (2) em Roma"
           }
         },
         {
           "id": "lettre-1511",
           "title": {
-            "fr-FR": "Lettre 1511. À Lambert aux Couteaux, Supérieur, à Varsovie"
+            "fr-FR": "Lettre 1511. À Lambert aux Couteaux, Supérieur, à Varsovie",
+            "pt-BR": "Carta 1511. A Lamberto aux Couteaux, Superior, em Varsóvia"
           }
         },
         {
           "id": "lettre-1512",
           "title": {
-            "fr-FR": "Lettre 1512. Aux Sœurs de Valpuiseaux"
+            "fr-FR": "Lettre 1512. Aux Sœurs de Valpuiseaux",
+            "pt-BR": "Carta 1512. Às Irmãs de Valpuiseaux"
           }
         },
         {
           "id": "lettre-1513",
           "title": {
-            "fr-FR": "Lettre 1513. À une Religieuse du Second Monastère — De la Visitation"
+            "fr-FR": "Lettre 1513. À une Religieuse du Second Monastère — De la Visitation",
+            "pt-BR": "Carta 1513. A uma Religiosa do Segundo Mosteiro — Da Visitação"
           }
         },
         {
           "id": "lettre-1514",
           "title": {
-            "fr-FR": "Lettre 1514. Etienne Blatiron, Supérieur à Gênes, — À Saint Vincent"
+            "fr-FR": "Lettre 1514. Etienne Blatiron, Supérieur à Gênes, — À Saint Vincent",
+            "pt-BR": "Carta 1514. Estêvão Blatiron, Superior em Gênova, — A São Vicente"
           }
         },
         {
           "id": "lettre-1515",
           "title": {
-            "fr-FR": "Lettre 1515. — à Etienne Blatiron, Supérieur, à Gênes"
+            "fr-FR": "Lettre 1515. — à Etienne Blatiron, Supérieur, à Gênes",
+            "pt-BR": "Carta 1515. — a Estêvão Blatiron, Superior, em Gênova"
           }
         },
         {
           "id": "lettre-1516",
           "title": {
-            "fr-FR": "Lettre 1516. À Lambert aux Couteaux"
+            "fr-FR": "Lettre 1516. À Lambert aux Couteaux",
+            "pt-BR": "Carta 1516. A Lamberto aux Couteaux"
           }
         },
         {
           "id": "lettre-1517",
           "title": {
-            "fr-FR": "Lettre 1517. À François Hallier et Jérôme Lagault"
+            "fr-FR": "Lettre 1517. À François Hallier et Jérôme Lagault",
+            "pt-BR": "Carta 1517. A Francisco Hallier e Jerônimo Lagault"
           }
         },
         {
           "id": "lettre-1518",
           "title": {
-            "fr-FR": "Lettre 1518. Au Cardinal Mazarin"
+            "fr-FR": "Lettre 1518. Au Cardinal Mazarin",
+            "pt-BR": "Carta 1518. Ao Cardeal Mazarino"
           }
         },
         {
           "id": "lettre-1519",
           "title": {
-            "fr-FR": "Lettre 1519. À la Duchesse d’Aiguillon"
+            "fr-FR": "Lettre 1519. À la Duchesse d’Aiguillon",
+            "pt-BR": "Carta 1519. À Duquesa de Aiguillon"
           }
         },
         {
           "id": "lettre-1520",
           "title": {
-            "fr-FR": "Lettre 1520. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 1520. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 1520. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-1521",
           "title": {
-            "fr-FR": "Lettre 1521. À Patrice Valois"
+            "fr-FR": "Lettre 1521. À Patrice Valois",
+            "pt-BR": "Carta 1521. A Patrício Valois"
           }
         },
         {
           "id": "lettre-1522",
           "title": {
-            "fr-FR": "Lettre 1522. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 1522. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 1522. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-1523",
           "title": {
-            "fr-FR": "Lettre 1523. À Jacques Raoul de la Guibourgére, — Évêque de la Rochelle"
+            "fr-FR": "Lettre 1523. À Jacques Raoul de la Guibourgére, — Évêque de la Rochelle",
+            "pt-BR": "Carta 1523. A Tiago Raoul de la Guibourgére, — Bispo de La Rochelle"
           }
         },
         {
           "id": "lettre-1524",
           "title": {
-            "fr-FR": "Lettre 1524. À la Reine Anne d’Autriche"
+            "fr-FR": "Lettre 1524. À la Reine Anne d’Autriche",
+            "pt-BR": "Carta 1524. À Rainha Ana de Áustria"
           }
         },
         {
           "id": "lettre-1525",
           "title": {
-            "fr-FR": "Lettre 1525. À Monsieur de Rameville"
+            "fr-FR": "Lettre 1525. À Monsieur de Rameville",
+            "pt-BR": "Carta 1525. Ao Senhor de Rameville"
           }
         },
         {
           "id": "lettre-1526",
           "title": {
-            "fr-FR": "Lettre 1526. Au Maréchal de Turenne"
+            "fr-FR": "Lettre 1526. Au Maréchal de Turenne",
+            "pt-BR": "Carta 1526. Ao Marechal de Turenne"
           }
         },
         {
           "id": "lettre-1527",
           "title": {
-            "fr-FR": "Lettre 1527. À Jean Gicquel"
+            "fr-FR": "Lettre 1527. À Jean Gicquel",
+            "pt-BR": "Carta 1527. A João Gicquel"
           }
         },
         {
           "id": "lettre-1528",
           "title": {
-            "fr-FR": "Lettre 1528. À Patrice Valois"
+            "fr-FR": "Lettre 1528. À Patrice Valois",
+            "pt-BR": "Carta 1528. A Patrício Valois"
           }
         },
         {
           "id": "lettre-1529",
           "title": {
-            "fr-FR": "Lettre 1529. À Balthazar Brandon de Bassancourt"
+            "fr-FR": "Lettre 1529. À Balthazar Brandon de Bassancourt",
+            "pt-BR": "Carta 1529. A Baltasar Brandon de Bassancourt"
           }
         },
         {
           "id": "lettre-1530",
           "title": {
-            "fr-FR": "Lettre 1530. À Mademoiselle David"
+            "fr-FR": "Lettre 1530. À Mademoiselle David",
+            "pt-BR": "Carta 1530. À Senhorita David"
           }
         },
         {
           "id": "lettre-1531",
           "title": {
-            "fr-FR": "Lettre 1531. Jean le Vacher, Prêtre de la Mission, à Saint Vincent"
+            "fr-FR": "Lettre 1531. Jean le Vacher, Prêtre de la Mission, à Saint Vincent",
+            "pt-BR": "Carta 1531. João le Vacher, Padre da Missão, a São Vicente"
           }
         },
         {
           "id": "lettre-1532",
           "title": {
-            "fr-FR": "Lettre 1532. À Claude Dufour, Prêtre de la Mission, à Sedan"
+            "fr-FR": "Lettre 1532. À Claude Dufour, Prêtre de la Mission, à Sedan",
+            "pt-BR": "Carta 1532. A Cláudio Dufour, Padre da Missão, em Sedan"
           }
         },
         {
           "id": "lettre-1533",
           "title": {
-            "fr-FR": "Lettre 1533. À Mademoiselle de Lamoignon"
+            "fr-FR": "Lettre 1533. À Mademoiselle de Lamoignon",
+            "pt-BR": "Carta 1533. À Senhorita de Lamoignon"
           }
         },
         {
           "id": "lettre-1534",
           "title": {
-            "fr-FR": "Lettre 1534. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 1534. À un Prêtre de la Mission",
+            "pt-BR": "Carta 1534. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-1535",
           "title": {
-            "fr-FR": "Lettre 1535. À Jean Martin"
+            "fr-FR": "Lettre 1535. À Jean Martin",
+            "pt-BR": "Carta 1535. A João Martin"
           }
         },
         {
           "id": "lettre-1536",
           "title": {
-            "fr-FR": "Lettre 1536. À Etienne Blatiron, Supérieur, à Gênes"
+            "fr-FR": "Lettre 1536. À Etienne Blatiron, Supérieur, à Gênes",
+            "pt-BR": "Carta 1536. A Estêvão Blatiron, Superior, em Gênova"
           }
         },
         {
           "id": "lettre-1537",
           "title": {
-            "fr-FR": "Lettre 1537. -a un Frère Coadjuteur de la Maison de Gênes"
+            "fr-FR": "Lettre 1537. -a un Frère Coadjuteur de la Maison de Gênes",
+            "pt-BR": "Carta 1537. -a um Irmão Coadjutor da Casa de Gênova"
           }
         },
         {
           "id": "lettre-1538",
           "title": {
-            "fr-FR": "Lettre 1538. Au Cardinal Antoine Baaberini, — Préfet de la Propagande"
+            "fr-FR": "Lettre 1538. Au Cardinal Antoine Baaberini, — Préfet de la Propagande",
+            "pt-BR": "Carta 1538. Ao Cardeal Antônio Baaberini, — Prefeito da Propaganda"
           }
         },
         {
           "id": "lettre-1539",
           "title": {
-            "fr-FR": "Lettre 1539. Au Pape Innocent X"
+            "fr-FR": "Lettre 1539. Au Pape Innocent X",
+            "pt-BR": "Carta 1539. Ao Papa Inocêncio X"
           }
         },
         {
           "id": "lettre-1540",
           "title": {
-            "fr-FR": "Lettre 1540. À Nicolas Bonichon"
+            "fr-FR": "Lettre 1540. À Nicolas Bonichon",
+            "pt-BR": "Carta 1540. A Nicolau Bonichon"
           }
         },
         {
           "id": "lettre-1541",
           "title": {
-            "fr-FR": "Lettre 1541. Au Chevalier de Chandenier"
+            "fr-FR": "Lettre 1541. Au Chevalier de Chandenier",
+            "pt-BR": "Carta 1541. Ao Cavaleiro de Chandenier"
           }
         },
         {
           "id": "lettre-1542",
           "title": {
-            "fr-FR": "Lettre 1542. À Etienne Blatiron"
+            "fr-FR": "Lettre 1542. À Etienne Blatiron",
+            "pt-BR": "Carta 1542. A Estêvão Blatiron"
           }
         },
         {
           "id": "lettre-1543",
           "title": {
-            "fr-FR": "Lettre 1543. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 1543. À un Prêtre de la Mission",
+            "pt-BR": "Carta 1543. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-1544",
           "title": {
-            "fr-FR": "Lettre 1544. À Nicolas Bonichon, Prêtre de la Mission, à Cahors"
+            "fr-FR": "Lettre 1544. À Nicolas Bonichon, Prêtre de la Mission, à Cahors",
+            "pt-BR": "Carta 1544. A Nicolau Bonichon, Padre da Missão, em Cahors"
           }
         },
         {
           "id": "lettre-1545",
           "title": {
-            "fr-FR": "Lettre 1545. Au Père Césaire de Saint-Bonaventure"
+            "fr-FR": "Lettre 1545. Au Père Césaire de Saint-Bonaventure",
+            "pt-BR": "Carta 1545. Ao Padre Cesário de São Boaventura"
           }
         },
         {
           "id": "lettre-1546",
           "title": {
-            "fr-FR": "Lettre 1546. Bertrand Ducournau à Saint Vincent — Et Réponse du Saint"
+            "fr-FR": "Lettre 1546. Bertrand Ducournau à Saint Vincent — Et Réponse du Saint",
+            "pt-BR": "Carta 1546. Bertrando Ducournau a São Vicente — E Resposta do Santo"
           }
         },
         {
           "id": "lettre-1547",
           "title": {
-            "fr-FR": "Lettre 1547. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 1547. À un Prêtre de la Mission",
+            "pt-BR": "Carta 1547. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-1548",
           "title": {
-            "fr-FR": "Lettre 1548. À Louise-Marie de Gonzague, Reine de Pologne"
+            "fr-FR": "Lettre 1548. À Louise-Marie de Gonzague, Reine de Pologne",
+            "pt-BR": "Carta 1548. A Luísa Maria de Gonzaga, Rainha da Polônia"
           }
         },
         {
           "id": "lettre-1549",
           "title": {
-            "fr-FR": "Lettre 1549. À la Reine Anne d’Autriche"
+            "fr-FR": "Lettre 1549. À la Reine Anne d’Autriche",
+            "pt-BR": "Carta 1549. À Rainha Ana de Áustria"
           }
         },
         {
           "id": "lettre-1550",
           "title": {
-            "fr-FR": "Lettre 1550. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 1550. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 1550. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-1551",
           "title": {
-            "fr-FR": "Lettre 1551. Au Cardinal Mazarin"
+            "fr-FR": "Lettre 1551. Au Cardinal Mazarin",
+            "pt-BR": "Carta 1551. Ao Cardeal Mazarino"
           }
         },
         {
           "id": "lettre-1552",
           "title": {
-            "fr-FR": "Lettre 1552. À Louis de Chandenier"
+            "fr-FR": "Lettre 1552. À Louis de Chandenier",
+            "pt-BR": "Carta 1552. A Luís de Chandenier"
           }
         },
         {
           "id": "lettre-1553",
           "title": {
-            "fr-FR": "Lettre 1553. À Jean Dehorgny, Supérieur, à Rome"
+            "fr-FR": "Lettre 1553. À Jean Dehorgny, Supérieur, à Rome",
+            "pt-BR": "Carta 1553. A João Dehorgny, Superior, em Roma"
           }
         },
         {
           "id": "lettre-1554",
           "title": {
-            "fr-FR": "Lettre 1554. À Gérald Brin, Prêtre de la Mission, à Dax"
+            "fr-FR": "Lettre 1554. À Gérald Brin, Prêtre de la Mission, à Dax",
+            "pt-BR": "Carta 1554. A Geraldo Brin, Padre da Missão, em Dax"
           }
         },
         {
           "id": "lettre-1555",
           "title": {
-            "fr-FR": "Lettre 1555. À Marc Coglée, Supérieur, à Sedan"
+            "fr-FR": "Lettre 1555. À Marc Coglée, Supérieur, à Sedan",
+            "pt-BR": "Carta 1555. A Marcos Coglée, Superior, em Sedan"
           }
         },
         {
           "id": "lettre-1556",
           "title": {
-            "fr-FR": "Lettre 1556. Louise-Marie de Gonzague, Reine de Pologne, — À Saint Vincent"
+            "fr-FR": "Lettre 1556. Louise-Marie de Gonzague, Reine de Pologne, — À Saint Vincent",
+            "pt-BR": "Carta 1556. Luísa Maria de Gonzaga, Rainha da Polônia, — A São Vicente"
           }
         },
         {
           "id": "lettre-1557",
           "title": {
-            "fr-FR": "Lettre 1557. À Philippe Vageot, Supérieur, à Saintes"
+            "fr-FR": "Lettre 1557. À Philippe Vageot, Supérieur, à Saintes",
+            "pt-BR": "Carta 1557. A Filipe Vageot, Superior, em Saintes"
           }
         },
         {
           "id": "lettre-1558",
           "title": {
-            "fr-FR": "Lettre 1558. Alain de Solminihac, à Saint Vincent"
+            "fr-FR": "Lettre 1558. Alain de Solminihac, à Saint Vincent",
+            "pt-BR": "Carta 1558. Alano de Solminihac, a São Vicente"
           }
         },
         {
           "id": "lettre-1559",
           "title": {
-            "fr-FR": "Lettre 1559. À Louis Thibault, Supérieur, à Saint-Méen"
+            "fr-FR": "Lettre 1559. À Louis Thibault, Supérieur, à Saint-Méen",
+            "pt-BR": "Carta 1559. A Luís Thibault, Superior, em Saint-Méen"
           }
         },
         {
           "id": "lettre-1560",
           "title": {
-            "fr-FR": "Lettre 1560. À la Propagande"
+            "fr-FR": "Lettre 1560. À la Propagande",
+            "pt-BR": "Carta 1560. À Propaganda"
           }
         },
         {
           "id": "lettre-1561",
           "title": {
-            "fr-FR": "Lettre 1561. À Marc Coglée, Supérieur, à Sedan"
+            "fr-FR": "Lettre 1561. À Marc Coglée, Supérieur, à Sedan",
+            "pt-BR": "Carta 1561. A Marcos Coglée, Superior, em Sedan"
           }
         },
         {
           "id": "lettre-1562",
           "title": {
-            "fr-FR": "Lettre 1562. Alain de Solminihac, à Saint Vincent"
+            "fr-FR": "Lettre 1562. Alain de Solminihac, à Saint Vincent",
+            "pt-BR": "Carta 1562. Alano de Solminihac, a São Vicente"
           }
         },
         {
           "id": "lettre-1563",
           "title": {
-            "fr-FR": "Lettre 1563. À Thomas Berthe"
+            "fr-FR": "Lettre 1563. À Thomas Berthe",
+            "pt-BR": "Carta 1563. A Tomás Berthe"
           }
         },
         {
           "id": "lettre-1564",
           "title": {
-            "fr-FR": "Lettre 1564. Au Cardinal Antoine Barberini, — Texte Français"
+            "fr-FR": "Lettre 1564. Au Cardinal Antoine Barberini, — Texte Français",
+            "pt-BR": "Carta 1564. Ao Cardeal Antônio Barberini, — Texto Francês"
           }
         },
         {
           "id": "lettre-1565",
           "title": {
-            "fr-FR": "Lettre 1565. À Etienne Blatiron"
+            "fr-FR": "Lettre 1565. À Etienne Blatiron",
+            "pt-BR": "Carta 1565. A Estêvão Blatiron"
           }
         },
         {
           "id": "lettre-1566",
           "title": {
-            "fr-FR": "Lettre 1566. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 1566. À un Prêtre de la Mission",
+            "pt-BR": "Carta 1566. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-1567",
           "title": {
-            "fr-FR": "Lettre 1567. Dermot Duigin, Prêtre de la Mission, à Saint Vincent"
+            "fr-FR": "Lettre 1567. Dermot Duigin, Prêtre de la Mission, à Saint Vincent",
+            "pt-BR": "Carta 1567. Dermot Duigin, Padre da Missão, a São Vicente"
           }
         },
         {
           "id": "lettre-1568",
           "title": {
-            "fr-FR": "Lettre 1568. À Louis Doni d’Attichy, Évêque d’Autun"
+            "fr-FR": "Lettre 1568. À Louis Doni d’Attichy, Évêque d’Autun",
+            "pt-BR": "Carta 1568. A Luís Doni d’Attichy, Bispo de Autun"
           }
         },
         {
           "id": "lettre-1569",
           "title": {
-            "fr-FR": "Lettre 1569. Alain de Solminihac, à Saint Vincent"
+            "fr-FR": "Lettre 1569. Alain de Solminihac, à Saint Vincent",
+            "pt-BR": "Carta 1569. Alano de Solminihac, a São Vicente"
           }
         },
         {
           "id": "lettre-1570",
           "title": {
-            "fr-FR": "Lettre 1570. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 1570. À un Prêtre de la Mission",
+            "pt-BR": "Carta 1570. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-1571",
           "title": {
-            "fr-FR": "Lettre 1571. Mademoiselle Pollalion à Saint Vincent"
+            "fr-FR": "Lettre 1571. Mademoiselle Pollalion à Saint Vincent",
+            "pt-BR": "Carta 1571. A Senhorita Pollalion a São Vicente"
           }
         },
         {
           "id": "lettre-1572",
           "title": {
-            "fr-FR": "Lettre 1572. À Alain de Solminihac, Évêque de Cahors"
+            "fr-FR": "Lettre 1572. À Alain de Solminihac, Évêque de Cahors",
+            "pt-BR": "Carta 1572. A Alano de Solminihac, Bispo de Cahors"
           }
         },
         {
           "id": "lettre-1573",
           "title": {
-            "fr-FR": "Lettre 1573. Alain de Solminihac, à Saint Vincent"
+            "fr-FR": "Lettre 1573. Alain de Solminihac, à Saint Vincent",
+            "pt-BR": "Carta 1573. Alano de Solminihac, a São Vicente"
           }
         },
         {
           "id": "lettre-1574",
           "title": {
-            "fr-FR": "Lettre 1574. À la Duchesse d’Aiguillon"
+            "fr-FR": "Lettre 1574. À la Duchesse d’Aiguillon",
+            "pt-BR": "Carta 1574. À Duquesa de Aiguillon"
           }
         },
         {
           "id": "lettre-1575",
           "title": {
-            "fr-FR": "Lettre 1575. À la Duchesse d’Aiguillon"
+            "fr-FR": "Lettre 1575. À la Duchesse d’Aiguillon",
+            "pt-BR": "Carta 1575. À Duquesa de Aiguillon"
           }
         },
         {
           "id": "lettre-1576",
           "title": {
-            "fr-FR": "Lettre 1576. Alain de Solminihac, à Saint Vincent"
+            "fr-FR": "Lettre 1576. Alain de Solminihac, à Saint Vincent",
+            "pt-BR": "Carta 1576. Alano de Solminihac, a São Vicente"
           }
         },
         {
           "id": "lettre-1577",
           "title": {
-            "fr-FR": "Lettre 1577. Au Frère Nicolas Sené"
+            "fr-FR": "Lettre 1577. Au Frère Nicolas Sené",
+            "pt-BR": "Carta 1577. Ao Irmão Nicolau Sené"
           }
         },
         {
           "id": "lettre-1578",
           "title": {
-            "fr-FR": "Lettre 1578. Au Marquis de Chateauneuf"
+            "fr-FR": "Lettre 1578. Au Marquis de Chateauneuf",
+            "pt-BR": "Carta 1578. Ao Marquês de Chateauneuf"
           }
         },
         {
           "id": "lettre-1579",
           "title": {
-            "fr-FR": "Lettre 1579. À Marc Coglée, Supérieur, à Sedan"
+            "fr-FR": "Lettre 1579. À Marc Coglée, Supérieur, à Sedan",
+            "pt-BR": "Carta 1579. A Marcos Coglée, Superior, em Sedan"
           }
         },
         {
           "id": "lettre-1580",
           "title": {
-            "fr-FR": "Lettre 1580. À François Hallier"
+            "fr-FR": "Lettre 1580. À François Hallier",
+            "pt-BR": "Carta 1580. A Francisco Hallier"
           }
         },
         {
           "id": "lettre-1581",
           "title": {
-            "fr-FR": "Lettre 1581. À N *"
+            "fr-FR": "Lettre 1581. À N *",
+            "pt-BR": "Carta 1581. A N *"
           }
         }
       ]
@@ -2231,361 +2601,421 @@
     {
       "id": "groupe-04",
       "title": {
-        "fr-FR": "Année 1653"
+        "fr-FR": "Année 1653",
+        "pt-BR": "Ano de 1653"
       },
       "children": [
         {
           "id": "lettre-1582",
           "title": {
-            "fr-FR": "Lettre 1582. Au Marquis de Poyanne"
+            "fr-FR": "Lettre 1582. Au Marquis de Poyanne",
+            "pt-BR": "Carta 1582. Ao Marquês de Poyanne"
           }
         },
         {
           "id": "lettre-1583",
           "title": {
-            "fr-FR": "Lettre 1583. À Louise de Marillac"
+            "fr-FR": "Lettre 1583. À Louise de Marillac",
+            "pt-BR": "Carta 1583. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-1584",
           "title": {
-            "fr-FR": "Lettre 1584. À Lambert aux Couteaux"
+            "fr-FR": "Lettre 1584. À Lambert aux Couteaux",
+            "pt-BR": "Carta 1584. A Lamberto aux Couteaux"
           }
         },
         {
           "id": "lettre-1585",
           "title": {
-            "fr-FR": "Lettre 1585. À Marc Coglée, Supérieur, à Sedan"
+            "fr-FR": "Lettre 1585. À Marc Coglée, Supérieur, à Sedan",
+            "pt-BR": "Carta 1585. A Marcos Coglée, Superior, em Sedan"
           }
         },
         {
           "id": "lettre-1586",
           "title": {
-            "fr-FR": "Lettre 1586. À Jean le Vacher, Prêtre de la Mission, à Tunis"
+            "fr-FR": "Lettre 1586. À Jean le Vacher, Prêtre de la Mission, à Tunis",
+            "pt-BR": "Carta 1586. A João le Vacher, Padre da Missão, em Túnis"
           }
         },
         {
           "id": "lettre-1587",
           "title": {
-            "fr-FR": "Lettre 1587. Au Père Jean Garat"
+            "fr-FR": "Lettre 1587. Au Père Jean Garat",
+            "pt-BR": "Carta 1587. Ao Padre João Garat"
           }
         },
         {
           "id": "lettre-1588",
           "title": {
-            "fr-FR": "Lettre 1588. À la Propagande"
+            "fr-FR": "Lettre 1588. À la Propagande",
+            "pt-BR": "Carta 1588. À Propaganda"
           }
         },
         {
           "id": "lettre-1589",
           "title": {
-            "fr-FR": "Lettre 1589. À Etienne Blatiron, Supérieur, à Gênes"
+            "fr-FR": "Lettre 1589. À Etienne Blatiron, Supérieur, à Gênes",
+            "pt-BR": "Carta 1589. A Estêvão Blatiron, Superior, em Gênova"
           }
         },
         {
           "id": "lettre-1590",
           "title": {
-            "fr-FR": "Lettre 1590. À Etienne Blatiron, Supérieur. à Gênes"
+            "fr-FR": "Lettre 1590. À Etienne Blatiron, Supérieur. à Gênes",
+            "pt-BR": "Carta 1590. A Estêvão Blatiron, Superior. em Gênova"
           }
         },
         {
           "id": "lettre-1591",
           "title": {
-            "fr-FR": "Lettre 1591. À Lambert aux Couteaux"
+            "fr-FR": "Lettre 1591. À Lambert aux Couteaux",
+            "pt-BR": "Carta 1591. A Lamberto aux Couteaux"
           }
         },
         {
           "id": "lettre-1592",
           "title": {
-            "fr-FR": "Lettre 1592. À Etienne Blatiron, Supérieur, à Gênes"
+            "fr-FR": "Lettre 1592. À Etienne Blatiron, Supérieur, à Gênes",
+            "pt-BR": "Carta 1592. A Estêvão Blatiron, Superior, em Gênova"
           }
         },
         {
           "id": "lettre-1593",
           "title": {
-            "fr-FR": "Lettre 1593. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 1593. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 1593. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-1594",
           "title": {
-            "fr-FR": "Lettre 1594. Au Frère Léonard Lamirois, à Gênes"
+            "fr-FR": "Lettre 1594. Au Frère Léonard Lamirois, à Gênes",
+            "pt-BR": "Carta 1594. Ao Irmão Leonardo Lamirois, em Gênova"
           }
         },
         {
           "id": "lettre-1595",
           "title": {
-            "fr-FR": "Lettre 1595. François Charles, Prêtre de la Mission, — À Saint Vincent"
+            "fr-FR": "Lettre 1595. François Charles, Prêtre de la Mission, — À Saint Vincent",
+            "pt-BR": "Carta 1595. Francisco Charles, Padre da Missão, — A São Vicente"
           }
         },
         {
           "id": "lettre-1596",
           "title": {
-            "fr-FR": "Lettre 1596. Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 1596. Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 1596. Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-1597",
           "title": {
-            "fr-FR": "Lettre 1597. À Edme Menestrier"
+            "fr-FR": "Lettre 1597. À Edme Menestrier",
+            "pt-BR": "Carta 1597. A Edmundo Menestrier"
           }
         },
         {
           "id": "lettre-1598",
           "title": {
-            "fr-FR": "Lettre 1598. Alain de Solminihac, à Saint Vincent"
+            "fr-FR": "Lettre 1598. Alain de Solminihac, à Saint Vincent",
+            "pt-BR": "Carta 1598. Alano de Solminihac, a São Vicente"
           }
         },
         {
           "id": "lettre-1599",
           "title": {
-            "fr-FR": "Lettre 1599. 1598. — Louise de Marillac à Saint Vincent"
+            "fr-FR": "Lettre 1599. 1598. — Louise de Marillac à Saint Vincent",
+            "pt-BR": "Carta 1599. 1598. — Luísa de Marillac a São Vicente"
           }
         },
         {
           "id": "lettre-1600",
           "title": {
-            "fr-FR": "Lettre 1600. À Antoine Drago"
+            "fr-FR": "Lettre 1600. À Antoine Drago",
+            "pt-BR": "Carta 1600. A Antônio Drago"
           }
         },
         {
           "id": "lettre-1601",
           "title": {
-            "fr-FR": "Lettre 1601. À Gérald Brin, Supérieur, à la Rose"
+            "fr-FR": "Lettre 1601. À Gérald Brin, Supérieur, à la Rose",
+            "pt-BR": "Carta 1601. A Geraldo Brin, Superior, em La Rose"
           }
         },
         {
           "id": "lettre-1602",
           "title": {
-            "fr-FR": "Lettre 1602. À François Fournier, Prêtre de la Mission, à Agen"
+            "fr-FR": "Lettre 1602. À François Fournier, Prêtre de la Mission, à Agen",
+            "pt-BR": "Carta 1602. A Francisco Fournier, Padre da Missão, em Agen"
           }
         },
         {
           "id": "lettre-1603",
           "title": {
-            "fr-FR": "Lettre 1603. À Nicolas Talec, Prêtre de la Mission, à Tréguier"
+            "fr-FR": "Lettre 1603. À Nicolas Talec, Prêtre de la Mission, à Tréguier",
+            "pt-BR": "Carta 1603. A Nicolau Talec, Padre da Missão, em Tréguier"
           }
         },
         {
           "id": "lettre-1604",
           "title": {
-            "fr-FR": "Lettre 1604. À Jean-Jacques Olier"
+            "fr-FR": "Lettre 1604. À Jean-Jacques Olier",
+            "pt-BR": "Carta 1604. A João Tiago Olier"
           }
         },
         {
           "id": "lettre-1605",
           "title": {
-            "fr-FR": "Lettre 1605. À la Duchesse d’Aiguillon"
+            "fr-FR": "Lettre 1605. À la Duchesse d’Aiguillon",
+            "pt-BR": "Carta 1605. À Duquesa de Aiguillon"
           }
         },
         {
           "id": "lettre-1606",
           "title": {
-            "fr-FR": "Lettre 1606. Au Père Philippe-Emmanuel de Gondi"
+            "fr-FR": "Lettre 1606. Au Père Philippe-Emmanuel de Gondi",
+            "pt-BR": "Carta 1606. Ao Padre Filipe Emanuel de Gondi"
           }
         },
         {
           "id": "lettre-1607",
           "title": {
-            "fr-FR": "Lettre 1607. À Etienne Blatiron, Supérieur, à Gênes"
+            "fr-FR": "Lettre 1607. À Etienne Blatiron, Supérieur, à Gênes",
+            "pt-BR": "Carta 1607. A Estêvão Blatiron, Superior, em Gênova"
           }
         },
         {
           "id": "lettre-1608",
           "title": {
-            "fr-FR": "Lettre 1608. Jean le Vacher, Prêtre de la Mission, à Saint Vincent"
+            "fr-FR": "Lettre 1608. Jean le Vacher, Prêtre de la Mission, à Saint Vincent",
+            "pt-BR": "Carta 1608. João le Vacher, Padre da Missão, a São Vicente"
           }
         },
         {
           "id": "lettre-1609",
           "title": {
-            "fr-FR": "Lettre 1609. À un Chartreux"
+            "fr-FR": "Lettre 1609. À un Chartreux",
+            "pt-BR": "Carta 1609. A um Cartuxo"
           }
         },
         {
           "id": "lettre-1610",
           "title": {
-            "fr-FR": "Lettre 1610. À Thomas Berthe"
+            "fr-FR": "Lettre 1610. À Thomas Berthe",
+            "pt-BR": "Carta 1610. A Tomás Berthe"
           }
         },
         {
           "id": "lettre-1611",
           "title": {
-            "fr-FR": "Lettre 1611. À un Supérieur"
+            "fr-FR": "Lettre 1611. À un Supérieur",
+            "pt-BR": "Carta 1611. A um Superior"
           }
         },
         {
           "id": "lettre-1614",
           "title": {
-            "fr-FR": "Lettre 1614. À la Duchesse d’Aiguillon"
+            "fr-FR": "Lettre 1614. À la Duchesse d’Aiguillon",
+            "pt-BR": "Carta 1614. À Duquesa de Aiguillon"
           }
         },
         {
           "id": "lettre-1615",
           "title": {
-            "fr-FR": "Lettre 1615. Alain de Solminihac, à Saint Vincent"
+            "fr-FR": "Lettre 1615. Alain de Solminihac, à Saint Vincent",
+            "pt-BR": "Carta 1615. Alano de Solminihac, a São Vicente"
           }
         },
         {
           "id": "lettre-1616",
           "title": {
-            "fr-FR": "Lettre 1616. À Mathurin Gentil, Prêtre de la Mission au Mans"
+            "fr-FR": "Lettre 1616. À Mathurin Gentil, Prêtre de la Mission au Mans",
+            "pt-BR": "Carta 1616. A Maturino Gentil, Padre da Missão em Le Mans"
           }
         },
         {
           "id": "lettre-1617",
           "title": {
-            "fr-FR": "Lettre 1617. À Louise de Marillac"
+            "fr-FR": "Lettre 1617. À Louise de Marillac",
+            "pt-BR": "Carta 1617. A Luísa de Marillac"
           }
         },
         {
           "id": "lettre-1618",
           "title": {
-            "fr-FR": "Lettre 1618. Etienne Blatiron, Supérieur à Gênes, à Saint Vincent"
+            "fr-FR": "Lettre 1618. Etienne Blatiron, Supérieur à Gênes, à Saint Vincent",
+            "pt-BR": "Carta 1618. Estêvão Blatiron, Superior em Gênova, a São Vicente"
           }
         },
         {
           "id": "lettre-1619",
           "title": {
-            "fr-FR": "Lettre 1619. À un Frère Coadjuteur"
+            "fr-FR": "Lettre 1619. À un Frère Coadjuteur",
+            "pt-BR": "Carta 1619. A um Irmão Coadjutor"
           }
         },
         {
           "id": "lettre-1620",
           "title": {
-            "fr-FR": "Lettre 1620. À un Grand Vicaire de Chartres"
+            "fr-FR": "Lettre 1620. À un Grand Vicaire de Chartres",
+            "pt-BR": "Carta 1620. A um Vigário-Geral de Chartres"
           }
         },
         {
           "id": "lettre-1621",
           "title": {
-            "fr-FR": "Lettre 1621. À la Sœur Cécile Angiboust"
+            "fr-FR": "Lettre 1621. À la Sœur Cécile Angiboust",
+            "pt-BR": "Carta 1621. À Irmã Cecília Angiboust"
           }
         },
         {
           "id": "lettre-1622",
           "title": {
-            "fr-FR": "Lettre 1622. À un Prêtre de la Mission"
+            "fr-FR": "Lettre 1622. À un Prêtre de la Mission",
+            "pt-BR": "Carta 1622. A um Padre da Missão"
           }
         },
         {
           "id": "lettre-1623",
           "title": {
-            "fr-FR": "Lettre 1623. À un Supérieur de Séminaire"
+            "fr-FR": "Lettre 1623. À un Supérieur de Séminaire",
+            "pt-BR": "Carta 1623. A um Superior de Seminário"
           }
         },
         {
           "id": "lettre-1624",
           "title": {
-            "fr-FR": "Lettre 1624. À Nicolas Guillot, Prêtre de la Mission, à Varsovie"
+            "fr-FR": "Lettre 1624. À Nicolas Guillot, Prêtre de la Mission, à Varsovie",
+            "pt-BR": "Carta 1624. A Nicolau Guillot, Padre da Missão, em Varsóvia"
           }
         },
         {
           "id": "lettre-1625",
           "title": {
-            "fr-FR": "Lettre 1625. Etienne Blatiron, Supérieur à Gênes, à Saint Vincent"
+            "fr-FR": "Lettre 1625. Etienne Blatiron, Supérieur à Gênes, à Saint Vincent",
+            "pt-BR": "Carta 1625. Estêvão Blatiron, Superior em Gênova, a São Vicente"
           }
         },
         {
           "id": "lettre-1626",
           "title": {
-            "fr-FR": "Lettre 1626. Les Filles de la Charité de Pologne à Saint Vincent"
+            "fr-FR": "Lettre 1626. Les Filles de la Charité de Pologne à Saint Vincent",
+            "pt-BR": "Carta 1626. As Filhas da Caridade da Polônia a São Vicente"
           }
         },
         {
           "id": "lettre-1627",
           "title": {
-            "fr-FR": "Lettre 1627. À Marc Coglée"
+            "fr-FR": "Lettre 1627. À Marc Coglée",
+            "pt-BR": "Carta 1627. A Marcos Coglée"
           }
         },
         {
           "id": "lettre-1628",
           "title": {
-            "fr-FR": "Lettre 1628. À Jacques le Soudier, Supérieur, à Crécy"
+            "fr-FR": "Lettre 1628. À Jacques le Soudier, Supérieur, à Crécy",
+            "pt-BR": "Carta 1628. A Tiago le Soudier, Superior, em Crécy"
           }
         },
         {
           "id": "lettre-1629",
           "title": {
-            "fr-FR": "Lettre 1629. Jérôme Lagault, Docteur de Sorbonne,"
+            "fr-FR": "Lettre 1629. Jérôme Lagault, Docteur de Sorbonne,",
+            "pt-BR": "Carta 1629. Jerônimo Lagault, Doutor da Sorbonne,"
           }
         },
         {
           "id": "lettre-1632",
           "title": {
-            "fr-FR": "Lettre 1632. À Saint Vincent"
+            "fr-FR": "Lettre 1632. À Saint Vincent",
+            "pt-BR": "Carta 1632. A São Vicente"
           }
         },
         {
           "id": "lettre-1633",
           "title": {
-            "fr-FR": "Lettre 1633. À Jean Dehorgny, Supérieur, à Rome"
+            "fr-FR": "Lettre 1633. À Jean Dehorgny, Supérieur, à Rome",
+            "pt-BR": "Carta 1633. A João Dehorgny, Superior, em Roma"
           }
         },
         {
           "id": "lettre-1634",
           "title": {
-            "fr-FR": "Lettre 1634. Jean le Vacher, Prêtre de la Mission, à Saint Vincent"
+            "fr-FR": "Lettre 1634. Jean le Vacher, Prêtre de la Mission, à Saint Vincent",
+            "pt-BR": "Carta 1634. João le Vacher, Padre da Missão, a São Vicente"
           }
         },
         {
           "id": "lettre-1635",
           "title": {
-            "fr-FR": "Lettre 1635. À Philippe Vageot, Supérieur, à Saintes"
+            "fr-FR": "Lettre 1635. À Philippe Vageot, Supérieur, à Saintes",
+            "pt-BR": "Carta 1635. A Filipe Vageot, Superior, em Saintes"
           }
         },
         {
           "id": "lettre-1636",
           "title": {
-            "fr-FR": "Lettre 1636. À Alain de Solminihac, Évêque de Cahors"
+            "fr-FR": "Lettre 1636. À Alain de Solminihac, Évêque de Cahors",
+            "pt-BR": "Carta 1636. A Alano de Solminihac, Bispo de Cahors"
           }
         },
         {
           "id": "lettre-1637",
           "title": {
-            "fr-FR": "Lettre 1637. Au Pape Innocent X"
+            "fr-FR": "Lettre 1637. Au Pape Innocent X",
+            "pt-BR": "Carta 1637. Ao Papa Inocêncio X"
           }
         },
         {
           "id": "lettre-1638",
           "title": {
-            "fr-FR": "Lettre 1638. À Jean le Vacher, à Tunis"
+            "fr-FR": "Lettre 1638. À Jean le Vacher, à Tunis",
+            "pt-BR": "Carta 1638. A João le Vacher, em Túnis"
           }
         },
         {
           "id": "lettre-1640",
           "title": {
-            "fr-FR": "Lettre 1640. À Thomas Berthe, Prêtre de la Mission, à Rome"
+            "fr-FR": "Lettre 1640. À Thomas Berthe, Prêtre de la Mission, à Rome",
+            "pt-BR": "Carta 1640. A Tomás Berthe, Padre da Missão, em Roma"
           }
         },
         {
           "id": "lettre-1641",
           "title": {
-            "fr-FR": "Lettre 1641. Alain de Solminihac, à Saint Vincent"
+            "fr-FR": "Lettre 1641. Alain de Solminihac, à Saint Vincent",
+            "pt-BR": "Carta 1641. Alano de Solminihac, a São Vicente"
           }
         },
         {
           "id": "lettre-1642",
           "title": {
-            "fr-FR": "Lettre 1642. À un Supérieur"
+            "fr-FR": "Lettre 1642. À un Supérieur",
+            "pt-BR": "Carta 1642. A um Superior"
           }
         },
         {
           "id": "lettre-1643",
           "title": {
-            "fr-FR": "Lettre 1643. À Marc Coglée, Supérieur, à Sedan"
+            "fr-FR": "Lettre 1643. À Marc Coglée, Supérieur, à Sedan",
+            "pt-BR": "Carta 1643. A Marcos Coglée, Superior, em Sedan"
           }
         },
         {
           "id": "lettre-1644",
           "title": {
-            "fr-FR": "Lettre 1644. À Philippe Vageot, Supérieur, à Saintes"
+            "fr-FR": "Lettre 1644. À Philippe Vageot, Supérieur, à Saintes",
+            "pt-BR": "Carta 1644. A Filipe Vageot, Superior, em Saintes"
           }
         },
         {
           "id": "lettre-1645",
           "title": {
-            "fr-FR": "Lettre 1645. À la Duchesse d’Aiguillon"
+            "fr-FR": "Lettre 1645. À la Duchesse d’Aiguillon",
+            "pt-BR": "Carta 1645. À Duquesa de Aiguillon"
           }
         }
       ]

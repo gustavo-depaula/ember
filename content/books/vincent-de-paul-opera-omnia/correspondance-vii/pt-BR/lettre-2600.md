@@ -1,0 +1,13 @@
+# Carta 2600. A Tiago Chiroye, Superior, em Luçon
+
+5 de junho de 1658.
+
+Recebi o contrato de fundação do Sr. Pignay. Tenho grande respeito por sua pessoa, que é tão boa para conosco, e igual gratidão por seus benefícios, que vão aumentando. Não posso expressar-te os sentimentos que tenho a esse respeito, nem o desejo ardente que Deus me dá de agradar e obedecer a esse seu servidor, que proporciona à tua pequena família os meios de prestar algum pequeno serviço à pobre gente; por isso, peço a Nosso Senhor que seja ele seu agradecimento e sua recompensa.
+
+Informas-me que ele te deu 25 boisselées de terra isenta de encargos, que adquiriu por mil e cem libras, que recebeste dele mil e oitocentas libras em dinheiro e que deves receber ainda mil e trezentas libras, que te deu para cobrar de seus devedores, e que com essas duas somas queres comprar outras terras. Não sei que rendimento se poderá tirar dessas propriedades; mas bem vejo que são necessários quase cinquenta escudos de renda para cumprir os encargos da fundação. Eu teria, contudo, ratificado o contrato para a consolação desse bom doutor, se não fosse o usufruto que aceitaste desses bens adquiridos e dados para teu proveito pessoal durante tua vida, a começar depois da morte dele; coisa que não posso aprovar.
+
+Que tenha reservado para si a renda, muito bem, devia fazê-lo; e, se não o tivesse feito, eu estaria sempre pronto a dar por escrito nosso consentimento, tão justo isso me parece. Mas, quanto a ti, Senhor, que te deste a Nosso Senhor para segui-lo em sua pobreza e servi-lo em nossa companhia, segundo os votos que nela fizeste, longe de teres algum motivo para te valer dessa reserva, tens várias razões para nada possuir de próprio. Se fossem bens que a natureza te houvesse dado por herança, poderias nesse caso reservar-te sua disposição, segundo nossa regra; mas receber outros por doação ou usufruto particular é algo de que deves fazer caso de consciência, assim como dar tal exemplo à companhia, à qual tu e eu abriríamos uma brecha irreparável, se essa fundação se efetivasse da maneira que estipulaste.
+
+Talvez me digas que essa condição, que te diz respeito, só vale em caso de necessidade; mas que necessidade terás, Senhor, tu que queres viver apostolicamente e tens a certeza de ser sempre sustentado pela renda comum, de usufruir ainda daquela em teu proveito pessoal? Peço-te que não penses nisso e que não resolvas mais nenhum assunto de alguma importância sem antes teres pedido e recebido nosso parecer; pois observei que só me dás conhecimento das coisas depois de feitas. Escrevo ao Sr. Pignay minha objeção e retenho o contrato até que ele me faça saber se deseja que eu lho devolva. [^1]
+
+[^1]: Reg. 2, p. 118.

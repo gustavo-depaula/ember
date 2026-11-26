@@ -48,6 +48,7 @@ import {
   warmCriticalManifests,
   warmDeferredManifests,
 } from '@/content/resolver'
+import { foldMergedPractices } from '@/db/canonicalizePracticeIds'
 import { useDbInit } from '@/db/client'
 import { useNeedsOnboarding } from '@/features/onboarding/gate'
 import { rehydratePinned } from '@/features/pinning/pinningManager'
@@ -212,6 +213,7 @@ export default function RootLayout() {
 
         setBootStatus(i18n.t('boot.almostReady'))
         await straightenPlanOnce()
+        await foldMergedPractices()
         mark('plan settled')
       } catch (err) {
         console.error('[startup] initCorpus failed:', err)
@@ -224,6 +226,8 @@ export default function RootLayout() {
 
         InteractionManager.runAfterInteractions(() => {
           loadCatalogFromHearth()
+            // A fresher catalog may bring a merge the plan hasn't followed yet.
+            .then(() => foldMergedPractices())
             .then(() => Promise.all([warmCriticalManifests(), warmDeferredManifests()]))
             .then(() =>
               maybeRunCacheEviction().catch((err) =>

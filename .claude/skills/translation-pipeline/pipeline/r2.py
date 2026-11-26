@@ -127,6 +127,48 @@ def journal(book):
     return head.rstrip() + "\n\n## Review log (this part's rounds)\n" + ("\n".join(keep) or "(none yet)") + "\n"
 
 
+def journalFor(book, chs, text):
+    """The journal trimmed for a delta read, which checks a few passages: the key
+    terms that occur in them (table header kept), the decisions that name one of
+    their chapter files, the rest of the journal's head, and this part's review
+    log. The whole journal was four fifths of a delta prompt (Nov 2026: 12.7M of
+    16.1M Claude input tokens over 391 delta calls)."""
+    full = journal(book)
+    if full == "(no journal)": return full
+    head, sep, log = full.partition("\n## Review log")
+    low = text.lower()
+    stems = [c[:-3] for c in chs]
+    def termHit(row):
+        cells = [c.strip() for c in row.strip().strip("|").split("|")]
+        for cell in cells[:2]:
+            for v in re.split(r"\s*[/;,]\s*|\s+\(|\)", re.sub(r"[*_`“”\"]", "", cell)):
+                v = v.strip().lower()
+                if len(v) >= 3 and v in low: return True
+        return False
+    out = []
+    for sec in re.split(r"(?m)^(?=## )", head):
+        h = sec.split("\n", 1)[0].lower()
+        if h.startswith(("## termos", "## key terms", "## glossário", "## terms")):
+            keep, seenHeader = [], False
+            for l in sec.split("\n"):
+                if not l.startswith("|"):
+                    keep.append(l); seenHeader = False  # prose; a later table has its own header
+                elif set(l.strip()) <= set("|-: "):
+                    keep.append(l)  # a table's separator row
+                elif not seenHeader:
+                    keep.append(l); seenHeader = True  # the table's header row
+                elif termHit(l):
+                    keep.append(l)
+            out.append("\n".join(keep).rstrip() + "\n(only the terms that occur in these passages)\n")
+        elif h.startswith(("## decis", "## translation decisions")):
+            bl = re.split(r"(?m)^(?=- )", sec)
+            mine = [b for b in bl[1:] if any(re.search(r"(?<![\w-])%s(?![\w-])" % re.escape(s), b) for s in stems)]
+            out.append(bl[0].rstrip() + "\n" + ("".join(mine) if mine else "(none about these chapters)\n") + "\n")
+        else:
+            out.append(sec)
+    return "".join(out).rstrip() + "\n" + (sep + log if sep else "")
+
+
 def audit(book, only=()):
     """The mechanical audit report, from audit.py (its reading copies are not used here)."""
     import subprocess, tempfile
@@ -181,7 +223,7 @@ def prompt(book, out, rnd, mode, prev=None):
         bj = ["## book.json", "", "```json", bookJson(book), "```", ""] if any(c["file"] == "book.json" for c in changes["changed"]) else []
         parts += ["## The changes to verify (made by the previous round's reviewer)", "", fixes or "(none)", "",
                   "## The paragraphs those changes touched, with their neighbours, as they now stand", "", "\n\n".join(body) or "(no chapter paragraph changed)", "",
-                  "## The mechanical audit of the touched chapters", "", audit(book, sorted(want)), ""] + bj + ["## The translation journal", "", journal(book)]
+                  "## The mechanical audit of the touched chapters", "", audit(book, sorted(want)), ""] + bj + ["## The translation journal (trimmed to these passages)", "", journalFor(book, sorted(want), "\n".join(body))]
     open(out, "w").write("\n".join(parts) + "\n")
 
 

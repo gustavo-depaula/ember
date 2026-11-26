@@ -122,19 +122,29 @@ describe('roundActs', () => {
 describe('prayedDayActs', () => {
   const day = (...ids: string[]) => prayedDayActs(ids.map((id) => prayed(id)))
 
-  it('counts a day with the offering, the rosary and the examen, in any of their forms', () => {
-    const kept = [{ kind: 'prayedDay', date: '2026-10-04' }]
-    expect(day('morning-offering', 'rosary', 'examination-of-conscience')).toEqual(kept)
-    expect(day('morning-offering-carmelite', 'rosary', 'examination-of-conscience')).toEqual(kept)
+  const kept = [{ kind: 'prayedDay', date: '2026-10-04' }]
+
+  it('counts a day with the rosary alone', () => {
+    expect(day('rosary')).toEqual(kept)
+  })
+
+  it('counts a day with the offering, a midday prayer and the examen, in any of their forms', () => {
+    expect(day('morning-offering', 'angelus', 'examination-of-conscience')).toEqual(kept)
+    expect(day('morning-offering-carmelite', 'regina-caeli', 'examination-of-conscience')).toEqual(
+      kept,
+    )
+    expect(day('morning-offering', 'daily-liturgy', 'examination-of-conscience')).toEqual(kept)
   })
 
   it('does not count a day missing one, or one made up by a backfill', () => {
-    expect(day('morning-offering', 'rosary', 'rosary-54-day-novena')).toEqual([])
+    expect(day('morning-offering', 'angelus', 'rosary-54-day-novena')).toEqual([])
+    expect(day('morning-offering', 'examination-of-conscience')).toEqual([])
     const backfilled = [
       prayed('morning-offering'),
-      prayed('rosary'),
+      prayed('angelus'),
       prayed('examination-of-conscience', 'backfill'),
     ]
     expect(prayedDayActs(backfilled)).toEqual([])
+    expect(prayedDayActs([prayed('rosary', 'backfill')])).toEqual([])
   })
 })

@@ -18,13 +18,19 @@
   },
   "composed": 1639,
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "john-eudes/meditations-sur-l-humilite",
   "editions": {
     "fr-FR": {
       "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
       "year": 1905
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,31 +47,36 @@
     {
       "id": "hum-01",
       "title": {
-        "fr-FR": "Méditations sur l’humilité (1): Méditations sur l'humilité"
+        "fr-FR": "Méditations sur l’humilité (1): Méditations sur l'humilité",
+        "pt-BR": "Meditações sobre a humildade (1): Meditações sobre a humildade"
       }
     },
     {
       "id": "hum-02",
       "title": {
-        "fr-FR": "Méditations sur l’humilité (2): Troisieme méditation"
+        "fr-FR": "Méditations sur l’humilité (2): Troisieme méditation",
+        "pt-BR": "Meditações sobre a humildade (2): Terceira meditação"
       }
     },
     {
       "id": "hum-03",
       "title": {
-        "fr-FR": "Méditations sur l’humilité (3): Huitieme méditation"
+        "fr-FR": "Méditations sur l’humilité (3): Huitieme méditation",
+        "pt-BR": "Meditações sobre a humildade (3): Oitava meditação"
       }
     },
     {
       "id": "hum-04",
       "title": {
-        "fr-FR": "Méditations sur l’humilité (4): Douzieme méditation"
+        "fr-FR": "Méditations sur l’humilité (4): Douzieme méditation",
+        "pt-BR": "Meditações sobre a humildade (4): Décima segunda meditação"
       }
     },
     {
       "id": "hum-05",
       "title": {
-        "fr-FR": "Méditations sur l’humilité (5): Seizieme méditation"
+        "fr-FR": "Méditations sur l’humilité (5): Seizieme méditation",
+        "pt-BR": "Meditações sobre a humildade (5): Décima sexta meditação"
       }
     }
   ]

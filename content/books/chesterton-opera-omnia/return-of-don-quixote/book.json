@@ -15,13 +15,19 @@
   },
   "composed": "1927",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/return-of-don-quixote",
   "editions": {
     "en-US": {
       "editor": "Chatto & Windus",
       "year": 1927
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,115 +44,134 @@
     {
       "id": "ch01-a-hole-in-the-caste",
       "title": {
-        "en-US": "A Hole in the Caste"
+        "en-US": "A Hole in the Caste",
+        "pt-BR": "Uma brecha na casta"
       }
     },
     {
       "id": "ch02-a-dangerous-man",
       "title": {
-        "en-US": "A Dangerous Man"
+        "en-US": "A Dangerous Man",
+        "pt-BR": "Um homem perigoso"
       }
     },
     {
       "id": "ch03-the-ladder-in-the-library",
       "title": {
-        "en-US": "The Ladder in the Library"
+        "en-US": "The Ladder in the Library",
+        "pt-BR": "A escada na biblioteca"
       }
     },
     {
       "id": "ch04-the-first-trial-of-john-braintree",
       "title": {
-        "en-US": "The First Trial of John Braintree"
+        "en-US": "The First Trial of John Braintree",
+        "pt-BR": "O primeiro julgamento de John Braintree"
       }
     },
     {
       "id": "ch05-the-second-trial-of-john-braintree",
       "title": {
-        "en-US": "The Second Trial of John Braintree"
+        "en-US": "The Second Trial of John Braintree",
+        "pt-BR": "O segundo julgamento de John Braintree"
       }
     },
     {
       "id": "ch06-a-commission-as-colourman",
       "title": {
-        "en-US": "A Commission as Colourman"
+        "en-US": "A Commission as Colourman",
+        "pt-BR": "Uma incumbência como vendedor de tintas"
       }
     },
     {
       "id": "ch07-blondel-the-troubadour",
       "title": {
-        "en-US": "\"Blondel the Troubadour\""
+        "en-US": "\"Blondel the Troubadour\"",
+        "pt-BR": "“Blondel, o Trovador”"
       }
     },
     {
       "id": "ch08-the-misadventures-of-monkey",
       "title": {
-        "en-US": "The Misadventures of Monkey"
+        "en-US": "The Misadventures of Monkey",
+        "pt-BR": "As desventuras de Monkey"
       }
     },
     {
       "id": "ch09-the-mystery-of-a-hansom-cab",
       "title": {
-        "en-US": "The Mystery of a Hansom Cab"
+        "en-US": "The Mystery of a Hansom Cab",
+        "pt-BR": "O mistério de um cabriolé"
       }
     },
     {
       "id": "ch10-when-doctors-disagree",
       "title": {
-        "en-US": "When Doctors Disagree"
+        "en-US": "When Doctors Disagree",
+        "pt-BR": "Quando os doutores discordam"
       }
     },
     {
       "id": "ch11-the-lunacy-of-the-librarian",
       "title": {
-        "en-US": "The Lunacy of the Librarian"
+        "en-US": "The Lunacy of the Librarian",
+        "pt-BR": "A loucura do bibliotecário"
       }
     },
     {
       "id": "ch12-the-statesman-and-the-summer-house",
       "title": {
-        "en-US": "The Statesman and the Summer-house"
+        "en-US": "The Statesman and the Summer-house",
+        "pt-BR": "O estadista e o caramanchão"
       }
     },
     {
       "id": "ch13-the-victorian-and-the-arrow",
       "title": {
-        "en-US": "The Victorian and the Arrow"
+        "en-US": "The Victorian and the Arrow",
+        "pt-BR": "O vitoriano e a flecha"
       }
     },
     {
       "id": "ch14-the-return-of-the-knight-errant",
       "title": {
-        "en-US": "The Return of the Knight-errant"
+        "en-US": "The Return of the Knight-errant",
+        "pt-BR": "O retorno do cavaleiro andante"
       }
     },
     {
       "id": "ch15-the-parting-of-the-ways",
       "title": {
-        "en-US": "The Parting of the Ways"
+        "en-US": "The Parting of the Ways",
+        "pt-BR": "A bifurcação dos caminhos"
       }
     },
     {
       "id": "ch16-the-judgment-of-the-king",
       "title": {
-        "en-US": "The Judgment of the King"
+        "en-US": "The Judgment of the King",
+        "pt-BR": "O julgamento do rei"
       }
     },
     {
       "id": "ch17-the-departure-of-don-quixote",
       "title": {
-        "en-US": "The Departure of Don Quixote"
+        "en-US": "The Departure of Don Quixote",
+        "pt-BR": "A partida de Dom Quixote"
       }
     },
     {
       "id": "ch18-the-secret-of-seawood",
       "title": {
-        "en-US": "The Secret of Seawood"
+        "en-US": "The Secret of Seawood",
+        "pt-BR": "O segredo de Seawood"
       }
     },
     {
       "id": "ch19-the-return-of-don-quixote",
       "title": {
-        "en-US": "The Return of Don Quixote"
+        "en-US": "The Return of Don Quixote",
+        "pt-BR": "O Retorno de Dom Quixote"
       }
     }
   ]

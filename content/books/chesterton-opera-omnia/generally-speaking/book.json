@@ -15,13 +15,19 @@
   },
   "composed": 1928,
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/generally-speaking",
   "editions": {
     "en-US": {
       "editor": "Methuen & Co.",
       "year": 1928
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,241 +44,281 @@
     {
       "id": "chapter-01",
       "title": {
-        "en-US": "On Detective Novels"
+        "en-US": "On Detective Novels",
+        "pt-BR": "Sobre os romances policiais"
       }
     },
     {
       "id": "chapter-02",
       "title": {
-        "en-US": "On the Young Idea"
+        "en-US": "On the Young Idea",
+        "pt-BR": "Sobre a ideia jovem"
       }
     },
     {
       "id": "chapter-03",
       "title": {
-        "en-US": "On a Negation"
+        "en-US": "On a Negation",
+        "pt-BR": "Sobre uma negação"
       }
     },
     {
       "id": "chapter-04",
       "title": {
-        "en-US": "On Europe and Asia"
+        "en-US": "On Europe and Asia",
+        "pt-BR": "Sobre a Europa e a Ásia"
       }
     },
     {
       "id": "chapter-05",
       "title": {
-        "en-US": "On Broadcasting"
+        "en-US": "On Broadcasting",
+        "pt-BR": "Sobre a radiodifusão"
       }
     },
     {
       "id": "chapter-06",
       "title": {
-        "en-US": "On Aids to Golf"
+        "en-US": "On Aids to Golf",
+        "pt-BR": "Sobre os auxílios ao golfe"
       }
     },
     {
       "id": "chapter-07",
       "title": {
-        "en-US": "On the Englishman Abroad"
+        "en-US": "On the Englishman Abroad",
+        "pt-BR": "Sobre o inglês no exterior"
       }
     },
     {
       "id": "chapter-08",
       "title": {
-        "en-US": "Two Words From Poland"
+        "en-US": "Two Words From Poland",
+        "pt-BR": "Duas palavras da Polônia"
       }
     },
     {
       "id": "chapter-09",
       "title": {
-        "en-US": "On New Capitals"
+        "en-US": "On New Capitals",
+        "pt-BR": "Sobre as novas capitais"
       }
     },
     {
       "id": "chapter-10",
       "title": {
-        "en-US": "On the Movies"
+        "en-US": "On the Movies",
+        "pt-BR": "Sobre o cinema"
       }
     },
     {
       "id": "chapter-11",
       "title": {
-        "en-US": "On Helen's Babies"
+        "en-US": "On Helen's Babies",
+        "pt-BR": "Sobre Os bebês de Helen"
       }
     },
     {
       "id": "chapter-12",
       "title": {
-        "en-US": "On Electric Houses"
+        "en-US": "On Electric Houses",
+        "pt-BR": "Sobre as casas elétricas"
       }
     },
     {
       "id": "chapter-13",
       "title": {
-        "en-US": "On the Pillory"
+        "en-US": "On the Pillory",
+        "pt-BR": "Sobre o pelourinho"
       }
     },
     {
       "id": "chapter-14",
       "title": {
-        "en-US": "On Flags"
+        "en-US": "On Flags",
+        "pt-BR": "Sobre as bandeiras"
       }
     },
     {
       "id": "chapter-15",
       "title": {
-        "en-US": "On Misunderstanding"
+        "en-US": "On Misunderstanding",
+        "pt-BR": "Sobre o mal-entendido"
       }
     },
     {
       "id": "chapter-16",
       "title": {
-        "en-US": "On Buddhism"
+        "en-US": "On Buddhism",
+        "pt-BR": "Sobre o budismo"
       }
     },
     {
       "id": "chapter-17",
       "title": {
-        "en-US": "On Funeral Customs"
+        "en-US": "On Funeral Customs",
+        "pt-BR": "Sobre os costumes funerários"
       }
     },
     {
       "id": "chapter-18",
       "title": {
-        "en-US": "On Leisure"
+        "en-US": "On Leisure",
+        "pt-BR": "Sobre o lazer"
       }
     },
     {
       "id": "chapter-19",
       "title": {
-        "en-US": "On Holland"
+        "en-US": "On Holland",
+        "pt-BR": "Sobre a Holanda"
       }
     },
     {
       "id": "chapter-20",
       "title": {
-        "en-US": "On Bath"
+        "en-US": "On Bath",
+        "pt-BR": "Sobre Bath"
       }
     },
     {
       "id": "chapter-21",
       "title": {
-        "en-US": "On Egyptian Influence"
+        "en-US": "On Egyptian Influence",
+        "pt-BR": "Sobre a influência egípcia"
       }
     },
     {
       "id": "chapter-22",
       "title": {
-        "en-US": "On Archaeology"
+        "en-US": "On Archaeology",
+        "pt-BR": "Sobre a arqueologia"
       }
     },
     {
       "id": "chapter-23",
       "title": {
-        "en-US": "On Maltreating Words"
+        "en-US": "On Maltreating Words",
+        "pt-BR": "Sobre maltratar as palavras"
       }
     },
     {
       "id": "chapter-24",
       "title": {
-        "en-US": "On Pleasure-seeking"
+        "en-US": "On Pleasure-seeking",
+        "pt-BR": "Sobre a busca do prazer"
       }
     },
     {
       "id": "chapter-25",
       "title": {
-        "en-US": "On Domestic Servants"
+        "en-US": "On Domestic Servants",
+        "pt-BR": "Sobre os empregados domésticos"
       }
     },
     {
       "id": "chapter-26",
       "title": {
-        "en-US": "On the Writing of History"
+        "en-US": "On the Writing of History",
+        "pt-BR": "Sobre a escrita da história"
       }
     },
     {
       "id": "chapter-27",
       "title": {
-        "en-US": "On Christmas"
+        "en-US": "On Christmas",
+        "pt-BR": "Sobre o Natal"
       }
     },
     {
       "id": "chapter-28",
       "title": {
-        "en-US": "On Carols"
+        "en-US": "On Carols",
+        "pt-BR": "Sobre os cantos natalinos"
       }
     },
     {
       "id": "chapter-29",
       "title": {
-        "en-US": "On the Comic Spirit"
+        "en-US": "On the Comic Spirit",
+        "pt-BR": "Sobre o espírito cômico"
       }
     },
     {
       "id": "chapter-30",
       "title": {
-        "en-US": "On Changes in Taste"
+        "en-US": "On Changes in Taste",
+        "pt-BR": "Sobre as mudanças de gosto"
       }
     },
     {
       "id": "chapter-31",
       "title": {
-        "en-US": "On Impartiality"
+        "en-US": "On Impartiality",
+        "pt-BR": "Sobre a imparcialidade"
       }
     },
     {
       "id": "chapter-32",
       "title": {
-        "en-US": "On American Morals"
+        "en-US": "On American Morals",
+        "pt-BR": "Sobre a moral americana"
       }
     },
     {
       "id": "chapter-33",
       "title": {
-        "en-US": "On Prohibition"
+        "en-US": "On Prohibition",
+        "pt-BR": "Sobre a Lei Seca"
       }
     },
     {
       "id": "chapter-34",
       "title": {
-        "en-US": "On Total Abstinence"
+        "en-US": "On Total Abstinence",
+        "pt-BR": "Sobre a abstinência total"
       }
     },
     {
       "id": "chapter-35",
       "title": {
-        "en-US": "On Good King Arthur"
+        "en-US": "On Good King Arthur",
+        "pt-BR": "Sobre o bom rei Artur"
       }
     },
     {
       "id": "chapter-36",
       "title": {
-        "en-US": "On Architecture"
+        "en-US": "On Architecture",
+        "pt-BR": "Sobre a arquitetura"
       }
     },
     {
       "id": "chapter-37",
       "title": {
-        "en-US": "On Edwin Drood"
+        "en-US": "On Edwin Drood",
+        "pt-BR": "Sobre Edwin Drood"
       }
     },
     {
       "id": "chapter-38",
       "title": {
-        "en-US": "On Byron and Tom Moore"
+        "en-US": "On Byron and Tom Moore",
+        "pt-BR": "Sobre Byron e Tom Moore"
       }
     },
     {
       "id": "chapter-39",
       "title": {
-        "en-US": "On R. L. S"
+        "en-US": "On R. L. S",
+        "pt-BR": "Sobre R. L. S."
       }
     },
     {
       "id": "chapter-40",
       "title": {
-        "en-US": "On Thomas Hardy"
+        "en-US": "On Thomas Hardy",
+        "pt-BR": "Sobre Thomas Hardy"
       }
     }
   ]

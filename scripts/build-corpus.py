@@ -714,6 +714,19 @@ def build_practices(b: Builder) -> None:
                 catalog_entry[key] = act
         b.add_catalog(f"practice/{pid}", catalog_entry)
 
+        # A practice merged into this one keeps its id as an alias: the same
+        # practice published under the old id, so plans and refs that name it
+        # open this one in every app, even one from before aliases. A current
+        # app follows `aliasOf`, leaves the alias out of search and folds the
+        # plan's practice into the new id.
+        for former in manifest_data.get("formerIds") or []:
+            alias_manifest = {**item_manifest, "id": f"practice/{former}", "aliasOf": f"practice/{pid}"}
+            ah, asize = b.write_json_blob(alias_manifest)
+            alias_entry = {**catalog_entry, "hash": ah, "size": asize, "aliasOf": f"practice/{pid}"}
+            # Tags would list it twice in an older app's search; the name alone finds it.
+            alias_entry.pop("tags", None)
+            b.add_catalog(f"practice/{former}", alias_entry)
+
 
 def build_chapters(b: Builder) -> None:
     src = CONTENT / "chapters"

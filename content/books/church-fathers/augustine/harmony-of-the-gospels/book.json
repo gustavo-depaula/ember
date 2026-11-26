@@ -3,15 +3,18 @@
   "cover": "quarter",
   "name": {
     "la": "De consensu evangelistarum",
-    "en-US": "The Harmony of the Gospels"
+    "en-US": "The Harmony of the Gospels",
+    "pt-BR": "A concordância dos evangelistas"
   },
   "author": {
     "la": "Aurelius Augustinus Hipponensis (354-430)",
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -33,1071 +36,1224 @@
       "id": "ch001",
       "title": {
         "la": "Liber I, Caput 1",
-        "en-US": "Chapter 1"
+        "en-US": "Chapter 1",
+        "pt-BR": "Livro I, Capítulo 1"
       }
     },
     {
       "id": "ch002",
       "title": {
         "la": "Liber I, Caput 2",
-        "en-US": "Chapter 2"
+        "en-US": "Chapter 2",
+        "pt-BR": "Livro I, Capítulo 2"
       }
     },
     {
       "id": "ch003",
       "title": {
         "la": "Liber I, Caput 3",
-        "en-US": "Chapter 3"
+        "en-US": "Chapter 3",
+        "pt-BR": "Livro I, Capítulo 3"
       }
     },
     {
       "id": "ch004",
       "title": {
         "la": "Liber I, Caput 4",
-        "en-US": "Chapter 4"
+        "en-US": "Chapter 4",
+        "pt-BR": "Livro I, Capítulo 4"
       }
     },
     {
       "id": "ch005",
       "title": {
         "la": "Liber I, Caput 5",
-        "en-US": "Chapter 5"
+        "en-US": "Chapter 5",
+        "pt-BR": "Livro I, Capítulo 5"
       }
     },
     {
       "id": "ch006",
       "title": {
         "la": "Liber I, Caput 6",
-        "en-US": "Chapter 6"
+        "en-US": "Chapter 6",
+        "pt-BR": "Livro I, Capítulo 6"
       }
     },
     {
       "id": "ch007",
       "title": {
         "la": "Liber I, Caput 7",
-        "en-US": "Chapter 7"
+        "en-US": "Chapter 7",
+        "pt-BR": "Livro I, Capítulo 7"
       }
     },
     {
       "id": "ch008",
       "title": {
         "la": "Liber I, Caput 8",
-        "en-US": "Chapter 8"
+        "en-US": "Chapter 8",
+        "pt-BR": "Livro I, Capítulo 8"
       }
     },
     {
       "id": "ch009",
       "title": {
         "la": "Liber I, Caput 9",
-        "en-US": "Chapter 9"
+        "en-US": "Chapter 9",
+        "pt-BR": "Livro I, Capítulo 9"
       }
     },
     {
       "id": "ch010",
       "title": {
         "la": "Liber I, Caput 10",
-        "en-US": "Chapter 10"
+        "en-US": "Chapter 10",
+        "pt-BR": "Livro I, Capítulo 10"
       }
     },
     {
       "id": "ch011",
       "title": {
         "la": "Liber I, Caput 11",
-        "en-US": "Chapter 11"
+        "en-US": "Chapter 11",
+        "pt-BR": "Livro I, Capítulo 11"
       }
     },
     {
       "id": "ch012",
       "title": {
         "la": "Liber I, Caput 12",
-        "en-US": "Chapter 12"
+        "en-US": "Chapter 12",
+        "pt-BR": "Livro I, Capítulo 12"
       }
     },
     {
       "id": "ch013",
       "title": {
         "la": "Liber I, Caput 13",
-        "en-US": "Chapter 13"
+        "en-US": "Chapter 13",
+        "pt-BR": "Livro I, Capítulo 13"
       }
     },
     {
       "id": "ch014",
       "title": {
         "la": "Liber I, Caput 14",
-        "en-US": "Chapter 14"
+        "en-US": "Chapter 14",
+        "pt-BR": "Livro I, Capítulo 14"
       }
     },
     {
       "id": "ch015",
       "title": {
         "la": "Liber I, Caput 15",
-        "en-US": "Chapter 15"
+        "en-US": "Chapter 15",
+        "pt-BR": "Livro I, Capítulo 15"
       }
     },
     {
       "id": "ch016",
       "title": {
         "la": "Liber I, Caput 16",
-        "en-US": "Chapter 16"
+        "en-US": "Chapter 16",
+        "pt-BR": "Livro I, Capítulo 16"
       }
     },
     {
       "id": "ch017",
       "title": {
         "la": "Liber I, Caput 17",
-        "en-US": "Chapter 17"
+        "en-US": "Chapter 17",
+        "pt-BR": "Livro I, Capítulo 17"
       }
     },
     {
       "id": "ch018",
       "title": {
         "la": "Liber I, Caput 18",
-        "en-US": "Chapter 18"
+        "en-US": "Chapter 18",
+        "pt-BR": "Livro I, Capítulo 18"
       }
     },
     {
       "id": "ch019",
       "title": {
         "la": "Liber I, Caput 19",
-        "en-US": "Chapter 19"
+        "en-US": "Chapter 19",
+        "pt-BR": "Livro I, Capítulo 19"
       }
     },
     {
       "id": "ch020",
       "title": {
         "la": "Liber I, Caput 20",
-        "en-US": "Chapter 20"
+        "en-US": "Chapter 20",
+        "pt-BR": "Livro I, Capítulo 20"
       }
     },
     {
       "id": "ch021",
       "title": {
         "la": "Liber I, Caput 21",
-        "en-US": "Chapter 21"
+        "en-US": "Chapter 21",
+        "pt-BR": "Livro I, Capítulo 21"
       }
     },
     {
       "id": "ch022",
       "title": {
         "la": "Liber I, Caput 22",
-        "en-US": "Chapter 22"
+        "en-US": "Chapter 22",
+        "pt-BR": "Livro I, Capítulo 22"
       }
     },
     {
       "id": "ch023",
       "title": {
         "la": "Liber I, Caput 23",
-        "en-US": "Chapter 23"
+        "en-US": "Chapter 23",
+        "pt-BR": "Livro I, Capítulo 23"
       }
     },
     {
       "id": "ch024",
       "title": {
         "la": "Liber I, Caput 24",
-        "en-US": "Chapter 24"
+        "en-US": "Chapter 24",
+        "pt-BR": "Livro I, Capítulo 24"
       }
     },
     {
       "id": "ch025",
       "title": {
         "la": "Liber I, Caput 25",
-        "en-US": "Chapter 25"
+        "en-US": "Chapter 25",
+        "pt-BR": "Livro I, Capítulo 25"
       }
     },
     {
       "id": "ch026",
       "title": {
         "la": "Liber I, Caput 26",
-        "en-US": "Chapter 26"
+        "en-US": "Chapter 26",
+        "pt-BR": "Livro I, Capítulo 26"
       }
     },
     {
       "id": "ch027",
       "title": {
         "la": "Liber I, Caput 27",
-        "en-US": "Chapter 27"
+        "en-US": "Chapter 27",
+        "pt-BR": "Livro I, Capítulo 27"
       }
     },
     {
       "id": "ch028",
       "title": {
         "la": "Liber I, Caput 28",
-        "en-US": "Chapter 28"
+        "en-US": "Chapter 28",
+        "pt-BR": "Livro I, Capítulo 28"
       }
     },
     {
       "id": "ch029",
       "title": {
         "la": "Liber I, Caput 29",
-        "en-US": "Chapter 29"
+        "en-US": "Chapter 29",
+        "pt-BR": "Livro I, Capítulo 29"
       }
     },
     {
       "id": "ch030",
       "title": {
         "la": "Liber I, Caput 30",
-        "en-US": "Chapter 30"
+        "en-US": "Chapter 30",
+        "pt-BR": "Livro I, Capítulo 30"
       }
     },
     {
       "id": "ch031",
       "title": {
         "la": "Liber I, Caput 31",
-        "en-US": "Chapter 31"
+        "en-US": "Chapter 31",
+        "pt-BR": "Livro I, Capítulo 31"
       }
     },
     {
       "id": "ch032",
       "title": {
         "la": "Liber I, Caput 32",
-        "en-US": "Chapter 32"
+        "en-US": "Chapter 32",
+        "pt-BR": "Livro I, Capítulo 32"
       }
     },
     {
       "id": "ch033",
       "title": {
         "la": "Liber I, Caput 33",
-        "en-US": "Chapter 33"
+        "en-US": "Chapter 33",
+        "pt-BR": "Livro I, Capítulo 33"
       }
     },
     {
       "id": "ch034",
       "title": {
         "la": "Liber I, Caput 34",
-        "en-US": "Chapter 34"
+        "en-US": "Chapter 34",
+        "pt-BR": "Livro I, Capítulo 34"
       }
     },
     {
       "id": "ch035",
       "title": {
         "la": "Liber I, Caput 35",
-        "en-US": "Chapter 35"
+        "en-US": "Chapter 35",
+        "pt-BR": "Livro I, Capítulo 35"
       }
     },
     {
       "id": "ch036",
       "title": {
         "la": "Prologus",
-        "en-US": "Prologue"
+        "en-US": "Prologue",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "ch037",
       "title": {
         "la": "Liber II, Caput 1",
-        "en-US": "Chapter 1"
+        "en-US": "Chapter 1",
+        "pt-BR": "Livro II, Capítulo 1"
       }
     },
     {
       "id": "ch038",
       "title": {
         "la": "Liber II, Caput 2",
-        "en-US": "Chapter 2"
+        "en-US": "Chapter 2",
+        "pt-BR": "Livro II, Capítulo 2"
       }
     },
     {
       "id": "ch039",
       "title": {
         "la": "Liber II, Caput 3",
-        "en-US": "Chapter 3"
+        "en-US": "Chapter 3",
+        "pt-BR": "Livro II, Capítulo 3"
       }
     },
     {
       "id": "ch040",
       "title": {
         "la": "Liber II, Caput 4",
-        "en-US": "Chapter 4"
+        "en-US": "Chapter 4",
+        "pt-BR": "Livro II, Capítulo 4"
       }
     },
     {
       "id": "ch041",
       "title": {
         "la": "Liber II, Caput 5",
-        "en-US": "Chapter 5"
+        "en-US": "Chapter 5",
+        "pt-BR": "Livro II, Capítulo 5"
       }
     },
     {
       "id": "ch042",
       "title": {
         "la": "Liber II, Caput 6",
-        "en-US": "Chapter 6"
+        "en-US": "Chapter 6",
+        "pt-BR": "Livro II, Capítulo 6"
       }
     },
     {
       "id": "ch043",
       "title": {
         "la": "Liber II, Caput 7",
-        "en-US": "Chapter 7"
+        "en-US": "Chapter 7",
+        "pt-BR": "Livro II, Capítulo 7"
       }
     },
     {
       "id": "ch044",
       "title": {
         "la": "Liber II, Caput 8",
-        "en-US": "Chapter 8"
+        "en-US": "Chapter 8",
+        "pt-BR": "Livro II, Capítulo 8"
       }
     },
     {
       "id": "ch045",
       "title": {
         "la": "Liber II, Caput 9",
-        "en-US": "Chapter 9"
+        "en-US": "Chapter 9",
+        "pt-BR": "Livro II, Capítulo 9"
       }
     },
     {
       "id": "ch046",
       "title": {
         "la": "Liber II, Caput 10",
-        "en-US": "Chapter 10"
+        "en-US": "Chapter 10",
+        "pt-BR": "Livro II, Capítulo 10"
       }
     },
     {
       "id": "ch047",
       "title": {
         "la": "Liber II, Caput 11",
-        "en-US": "Chapter 11"
+        "en-US": "Chapter 11",
+        "pt-BR": "Livro II, Capítulo 11"
       }
     },
     {
       "id": "ch048",
       "title": {
         "la": "Liber II, Caput 12",
-        "en-US": "Chapter 12"
+        "en-US": "Chapter 12",
+        "pt-BR": "Livro II, Capítulo 12"
       }
     },
     {
       "id": "ch049",
       "title": {
         "la": "Liber II, Caput 13",
-        "en-US": "Chapter 13"
+        "en-US": "Chapter 13",
+        "pt-BR": "Livro II, Capítulo 13"
       }
     },
     {
       "id": "ch050",
       "title": {
         "la": "Liber II, Caput 14",
-        "en-US": "Chapter 14"
+        "en-US": "Chapter 14",
+        "pt-BR": "Livro II, Capítulo 14"
       }
     },
     {
       "id": "ch051",
       "title": {
         "la": "Liber II, Caput 15",
-        "en-US": "Chapter 15"
+        "en-US": "Chapter 15",
+        "pt-BR": "Livro II, Capítulo 15"
       }
     },
     {
       "id": "ch052",
       "title": {
         "la": "Liber II, Caput 16",
-        "en-US": "Chapter 16"
+        "en-US": "Chapter 16",
+        "pt-BR": "Livro II, Capítulo 16"
       }
     },
     {
       "id": "ch053",
       "title": {
         "la": "Liber II, Caput 17",
-        "en-US": "Chapter 17"
+        "en-US": "Chapter 17",
+        "pt-BR": "Livro II, Capítulo 17"
       }
     },
     {
       "id": "ch054",
       "title": {
         "la": "Liber II, Caput 18",
-        "en-US": "Chapter 18"
+        "en-US": "Chapter 18",
+        "pt-BR": "Livro II, Capítulo 18"
       }
     },
     {
       "id": "ch055",
       "title": {
         "la": "Liber II, Caput 19",
-        "en-US": "Chapter 19"
+        "en-US": "Chapter 19",
+        "pt-BR": "Livro II, Capítulo 19"
       }
     },
     {
       "id": "ch056",
       "title": {
         "la": "Liber II, Caput 20",
-        "en-US": "Chapter 20"
+        "en-US": "Chapter 20",
+        "pt-BR": "Livro II, Capítulo 20"
       }
     },
     {
       "id": "ch057",
       "title": {
         "la": "Liber II, Caput 21",
-        "en-US": "Chapter 21"
+        "en-US": "Chapter 21",
+        "pt-BR": "Livro II, Capítulo 21"
       }
     },
     {
       "id": "ch058",
       "title": {
         "la": "Liber II, Caput 22",
-        "en-US": "Chapter 22"
+        "en-US": "Chapter 22",
+        "pt-BR": "Livro II, Capítulo 22"
       }
     },
     {
       "id": "ch059",
       "title": {
         "la": "Liber II, Caput 23",
-        "en-US": "Chapter 23"
+        "en-US": "Chapter 23",
+        "pt-BR": "Livro II, Capítulo 23"
       }
     },
     {
       "id": "ch060",
       "title": {
         "la": "Liber II, Caput 24",
-        "en-US": "Chapter 24"
+        "en-US": "Chapter 24",
+        "pt-BR": "Livro II, Capítulo 24"
       }
     },
     {
       "id": "ch061",
       "title": {
         "la": "Liber II, Caput 25",
-        "en-US": "Chapter 25"
+        "en-US": "Chapter 25",
+        "pt-BR": "Livro II, Capítulo 25"
       }
     },
     {
       "id": "ch062",
       "title": {
         "la": "Liber II, Caput 26",
-        "en-US": "Chapter 26"
+        "en-US": "Chapter 26",
+        "pt-BR": "Livro II, Capítulo 26"
       }
     },
     {
       "id": "ch063",
       "title": {
         "la": "Liber II, Caput 27",
-        "en-US": "Chapter 27"
+        "en-US": "Chapter 27",
+        "pt-BR": "Livro II, Capítulo 27"
       }
     },
     {
       "id": "ch064",
       "title": {
         "la": "Liber II, Caput 28",
-        "en-US": "Chapter 28"
+        "en-US": "Chapter 28",
+        "pt-BR": "Livro II, Capítulo 28"
       }
     },
     {
       "id": "ch065",
       "title": {
         "la": "Liber II, Caput 29",
-        "en-US": "Chapter 29"
+        "en-US": "Chapter 29",
+        "pt-BR": "Livro II, Capítulo 29"
       }
     },
     {
       "id": "ch066",
       "title": {
         "la": "Liber II, Caput 30",
-        "en-US": "Chapter 30"
+        "en-US": "Chapter 30",
+        "pt-BR": "Livro II, Capítulo 30"
       }
     },
     {
       "id": "ch067",
       "title": {
         "la": "Liber II, Caput 31",
-        "en-US": "Chapter 31"
+        "en-US": "Chapter 31",
+        "pt-BR": "Livro II, Capítulo 31"
       }
     },
     {
       "id": "ch068",
       "title": {
         "la": "Liber II, Caput 32",
-        "en-US": "Chapter 32"
+        "en-US": "Chapter 32",
+        "pt-BR": "Livro II, Capítulo 32"
       }
     },
     {
       "id": "ch069",
       "title": {
         "la": "Liber II, Caput 33",
-        "en-US": "Chapter 33"
+        "en-US": "Chapter 33",
+        "pt-BR": "Livro II, Capítulo 33"
       }
     },
     {
       "id": "ch070",
       "title": {
         "la": "Liber II, Caput 34",
-        "en-US": "Chapter 34"
+        "en-US": "Chapter 34",
+        "pt-BR": "Livro II, Capítulo 34"
       }
     },
     {
       "id": "ch071",
       "title": {
         "la": "Liber II, Caput 35",
-        "en-US": "Chapter 35"
+        "en-US": "Chapter 35",
+        "pt-BR": "Livro II, Capítulo 35"
       }
     },
     {
       "id": "ch072",
       "title": {
         "la": "Liber II, Caput 36",
-        "en-US": "Chapter 36"
+        "en-US": "Chapter 36",
+        "pt-BR": "Livro II, Capítulo 36"
       }
     },
     {
       "id": "ch073",
       "title": {
         "la": "Liber II, Caput 37",
-        "en-US": "Chapter 37"
+        "en-US": "Chapter 37",
+        "pt-BR": "Livro II, Capítulo 37"
       }
     },
     {
       "id": "ch074",
       "title": {
         "la": "Liber II, Caput 38",
-        "en-US": "Chapter 38"
+        "en-US": "Chapter 38",
+        "pt-BR": "Livro II, Capítulo 38"
       }
     },
     {
       "id": "ch075",
       "title": {
         "la": "Liber II, Caput 39",
-        "en-US": "Chapter 39"
+        "en-US": "Chapter 39",
+        "pt-BR": "Livro II, Capítulo 39"
       }
     },
     {
       "id": "ch076",
       "title": {
         "la": "Liber II, Caput 40",
-        "en-US": "Chapter 40"
+        "en-US": "Chapter 40",
+        "pt-BR": "Livro II, Capítulo 40"
       }
     },
     {
       "id": "ch077",
       "title": {
         "la": "Liber II, Caput 41",
-        "en-US": "Chapter 41"
+        "en-US": "Chapter 41",
+        "pt-BR": "Livro II, Capítulo 41"
       }
     },
     {
       "id": "ch078",
       "title": {
         "la": "Liber II, Caput 42",
-        "en-US": "Chapter 42"
+        "en-US": "Chapter 42",
+        "pt-BR": "Livro II, Capítulo 42"
       }
     },
     {
       "id": "ch079",
       "title": {
         "la": "Liber II, Caput 43",
-        "en-US": "Chapter 43"
+        "en-US": "Chapter 43",
+        "pt-BR": "Livro II, Capítulo 43"
       }
     },
     {
       "id": "ch080",
       "title": {
         "la": "Liber II, Caput 44",
-        "en-US": "Chapter 44"
+        "en-US": "Chapter 44",
+        "pt-BR": "Livro II, Capítulo 44"
       }
     },
     {
       "id": "ch081",
       "title": {
         "la": "Liber II, Caput 45",
-        "en-US": "Chapter 45"
+        "en-US": "Chapter 45",
+        "pt-BR": "Livro II, Capítulo 45"
       }
     },
     {
       "id": "ch082",
       "title": {
         "la": "Liber II, Caput 46",
-        "en-US": "Chapter 46"
+        "en-US": "Chapter 46",
+        "pt-BR": "Livro II, Capítulo 46"
       }
     },
     {
       "id": "ch083",
       "title": {
         "la": "Liber II, Caput 47",
-        "en-US": "Chapter 47"
+        "en-US": "Chapter 47",
+        "pt-BR": "Livro II, Capítulo 47"
       }
     },
     {
       "id": "ch084",
       "title": {
         "la": "Liber II, Caput 48",
-        "en-US": "Chapter 48"
+        "en-US": "Chapter 48",
+        "pt-BR": "Livro II, Capítulo 48"
       }
     },
     {
       "id": "ch085",
       "title": {
         "la": "Liber II, Caput 49",
-        "en-US": "Chapter 49"
+        "en-US": "Chapter 49",
+        "pt-BR": "Livro II, Capítulo 49"
       }
     },
     {
       "id": "ch086",
       "title": {
         "la": "Liber II, Caput 50",
-        "en-US": "Chapter 50"
+        "en-US": "Chapter 50",
+        "pt-BR": "Livro II, Capítulo 50"
       }
     },
     {
       "id": "ch087",
       "title": {
         "la": "Liber II, Caput 51",
-        "en-US": "Chapter 51"
+        "en-US": "Chapter 51",
+        "pt-BR": "Livro II, Capítulo 51"
       }
     },
     {
       "id": "ch088",
       "title": {
         "la": "Liber II, Caput 52",
-        "en-US": "Chapter 52"
+        "en-US": "Chapter 52",
+        "pt-BR": "Livro II, Capítulo 52"
       }
     },
     {
       "id": "ch089",
       "title": {
         "la": "Liber II, Caput 53",
-        "en-US": "Chapter 53"
+        "en-US": "Chapter 53",
+        "pt-BR": "Livro II, Capítulo 53"
       }
     },
     {
       "id": "ch090",
       "title": {
         "la": "Liber II, Caput 54",
-        "en-US": "Chapter 54"
+        "en-US": "Chapter 54",
+        "pt-BR": "Livro II, Capítulo 54"
       }
     },
     {
       "id": "ch091",
       "title": {
         "la": "Liber II, Caput 55",
-        "en-US": "Chapter 55"
+        "en-US": "Chapter 55",
+        "pt-BR": "Livro II, Capítulo 55"
       }
     },
     {
       "id": "ch092",
       "title": {
         "la": "Liber II, Caput 56",
-        "en-US": "Chapter 56"
+        "en-US": "Chapter 56",
+        "pt-BR": "Livro II, Capítulo 56"
       }
     },
     {
       "id": "ch093",
       "title": {
         "la": "Liber II, Caput 57",
-        "en-US": "Chapter 57"
+        "en-US": "Chapter 57",
+        "pt-BR": "Livro II, Capítulo 57"
       }
     },
     {
       "id": "ch094",
       "title": {
         "la": "Liber II, Caput 58",
-        "en-US": "Chapter 58"
+        "en-US": "Chapter 58",
+        "pt-BR": "Livro II, Capítulo 58"
       }
     },
     {
       "id": "ch095",
       "title": {
         "la": "Liber II, Caput 59",
-        "en-US": "Chapter 59"
+        "en-US": "Chapter 59",
+        "pt-BR": "Livro II, Capítulo 59"
       }
     },
     {
       "id": "ch096",
       "title": {
         "la": "Liber II, Caput 60",
-        "en-US": "Chapter 60"
+        "en-US": "Chapter 60",
+        "pt-BR": "Livro II, Capítulo 60"
       }
     },
     {
       "id": "ch097",
       "title": {
         "la": "Liber II, Caput 61",
-        "en-US": "Chapter 61"
+        "en-US": "Chapter 61",
+        "pt-BR": "Livro II, Capítulo 61"
       }
     },
     {
       "id": "ch098",
       "title": {
         "la": "Liber II, Caput 62",
-        "en-US": "Chapter 62"
+        "en-US": "Chapter 62",
+        "pt-BR": "Livro II, Capítulo 62"
       }
     },
     {
       "id": "ch099",
       "title": {
         "la": "Liber II, Caput 63",
-        "en-US": "Chapter 63"
+        "en-US": "Chapter 63",
+        "pt-BR": "Livro II, Capítulo 63"
       }
     },
     {
       "id": "ch100",
       "title": {
         "la": "Liber II, Caput 64",
-        "en-US": "Chapter 64"
+        "en-US": "Chapter 64",
+        "pt-BR": "Livro II, Capítulo 64"
       }
     },
     {
       "id": "ch101",
       "title": {
         "la": "Liber II, Caput 65",
-        "en-US": "Chapter 65"
+        "en-US": "Chapter 65",
+        "pt-BR": "Livro II, Capítulo 65"
       }
     },
     {
       "id": "ch102",
       "title": {
         "la": "Liber II, Caput 66",
-        "en-US": "Chapter 66"
+        "en-US": "Chapter 66",
+        "pt-BR": "Livro II, Capítulo 66"
       }
     },
     {
       "id": "ch103",
       "title": {
         "la": "Liber II, Caput 67",
-        "en-US": "Chapter 67"
+        "en-US": "Chapter 67",
+        "pt-BR": "Livro II, Capítulo 67"
       }
     },
     {
       "id": "ch104",
       "title": {
         "la": "Liber II, Caput 68",
-        "en-US": "Chapter 68"
+        "en-US": "Chapter 68",
+        "pt-BR": "Livro II, Capítulo 68"
       }
     },
     {
       "id": "ch105",
       "title": {
         "la": "Liber II, Caput 69",
-        "en-US": "Chapter 69"
+        "en-US": "Chapter 69",
+        "pt-BR": "Livro II, Capítulo 69"
       }
     },
     {
       "id": "ch106",
       "title": {
         "la": "Liber II, Caput 70",
-        "en-US": "Chapter 70"
+        "en-US": "Chapter 70",
+        "pt-BR": "Livro II, Capítulo 70"
       }
     },
     {
       "id": "ch107",
       "title": {
         "la": "Liber II, Caput 71",
-        "en-US": "Chapter 71"
+        "en-US": "Chapter 71",
+        "pt-BR": "Livro II, Capítulo 71"
       }
     },
     {
       "id": "ch108",
       "title": {
         "la": "Liber II, Caput 72",
-        "en-US": "Chapter 72"
+        "en-US": "Chapter 72",
+        "pt-BR": "Livro II, Capítulo 72"
       }
     },
     {
       "id": "ch109",
       "title": {
         "la": "Liber II, Caput 73",
-        "en-US": "Chapter 73"
+        "en-US": "Chapter 73",
+        "pt-BR": "Livro II, Capítulo 73"
       }
     },
     {
       "id": "ch110",
       "title": {
         "la": "Liber II, Caput 74",
-        "en-US": "Chapter 74"
+        "en-US": "Chapter 74",
+        "pt-BR": "Livro II, Capítulo 74"
       }
     },
     {
       "id": "ch111",
       "title": {
         "la": "Liber II, Caput 75",
-        "en-US": "Chapter 75"
+        "en-US": "Chapter 75",
+        "pt-BR": "Livro II, Capítulo 75"
       }
     },
     {
       "id": "ch112",
       "title": {
         "la": "Liber II, Caput 76",
-        "en-US": "Chapter 76"
+        "en-US": "Chapter 76",
+        "pt-BR": "Livro II, Capítulo 76"
       }
     },
     {
       "id": "ch113",
       "title": {
         "la": "Liber II, Caput 77",
-        "en-US": "Chapter 77"
+        "en-US": "Chapter 77",
+        "pt-BR": "Livro II, Capítulo 77"
       }
     },
     {
       "id": "ch114",
       "title": {
         "la": "Liber II, Caput 78",
-        "en-US": "Chapter 78"
+        "en-US": "Chapter 78",
+        "pt-BR": "Livro II, Capítulo 78"
       }
     },
     {
       "id": "ch115",
       "title": {
         "la": "Liber II, Caput 79",
-        "en-US": "Chapter 79"
+        "en-US": "Chapter 79",
+        "pt-BR": "Livro II, Capítulo 79"
       }
     },
     {
       "id": "ch116",
       "title": {
         "la": "Liber II, Caput 80",
-        "en-US": "Chapter 80"
+        "en-US": "Chapter 80",
+        "pt-BR": "Livro II, Capítulo 80"
       }
     },
     {
       "id": "ch117",
       "title": {
         "la": "Prologus",
-        "en-US": "Prologue"
+        "en-US": "Prologue",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "ch118",
       "title": {
         "la": "Liber III, Caput 1",
-        "en-US": "Chapter 1"
+        "en-US": "Chapter 1",
+        "pt-BR": "Livro III, Capítulo 1"
       }
     },
     {
       "id": "ch119",
       "title": {
         "la": "Liber III, Caput 2",
-        "en-US": "Chapter 2"
+        "en-US": "Chapter 2",
+        "pt-BR": "Livro III, Capítulo 2"
       }
     },
     {
       "id": "ch120",
       "title": {
         "la": "Liber III, Caput 3",
-        "en-US": "Chapter 3"
+        "en-US": "Chapter 3",
+        "pt-BR": "Livro III, Capítulo 3"
       }
     },
     {
       "id": "ch121",
       "title": {
         "la": "Liber III, Caput 4",
-        "en-US": "Chapter 4"
+        "en-US": "Chapter 4",
+        "pt-BR": "Livro III, Capítulo 4"
       }
     },
     {
       "id": "ch122",
       "title": {
         "la": "Liber III, Caput 5",
-        "en-US": "Chapter 5"
+        "en-US": "Chapter 5",
+        "pt-BR": "Livro III, Capítulo 5"
       }
     },
     {
       "id": "ch123",
       "title": {
         "la": "Liber III, Caput 6",
-        "en-US": "Chapter 6"
+        "en-US": "Chapter 6",
+        "pt-BR": "Livro III, Capítulo 6"
       }
     },
     {
       "id": "ch124",
       "title": {
         "la": "Liber III, Caput 7",
-        "en-US": "Chapter 7"
+        "en-US": "Chapter 7",
+        "pt-BR": "Livro III, Capítulo 7"
       }
     },
     {
       "id": "ch125",
       "title": {
         "la": "Liber III, Caput 8",
-        "en-US": "Chapter 8"
+        "en-US": "Chapter 8",
+        "pt-BR": "Livro III, Capítulo 8"
       }
     },
     {
       "id": "ch126",
       "title": {
         "la": "Liber III, Caput 9",
-        "en-US": "Chapter 9"
+        "en-US": "Chapter 9",
+        "pt-BR": "Livro III, Capítulo 9"
       }
     },
     {
       "id": "ch127",
       "title": {
         "la": "Liber III, Caput 10",
-        "en-US": "Chapter 10"
+        "en-US": "Chapter 10",
+        "pt-BR": "Livro III, Capítulo 10"
       }
     },
     {
       "id": "ch128",
       "title": {
         "la": "Liber III, Caput 11",
-        "en-US": "Chapter 11"
+        "en-US": "Chapter 11",
+        "pt-BR": "Livro III, Capítulo 11"
       }
     },
     {
       "id": "ch129",
       "title": {
         "la": "Liber III, Caput 12",
-        "en-US": "Chapter 12"
+        "en-US": "Chapter 12",
+        "pt-BR": "Livro III, Capítulo 12"
       }
     },
     {
       "id": "ch130",
       "title": {
         "la": "Liber III, Caput 13",
-        "en-US": "Chapter 13"
+        "en-US": "Chapter 13",
+        "pt-BR": "Livro III, Capítulo 13"
       }
     },
     {
       "id": "ch131",
       "title": {
         "la": "Liber III, Caput 14",
-        "en-US": "Chapter 14"
+        "en-US": "Chapter 14",
+        "pt-BR": "Livro III, Capítulo 14"
       }
     },
     {
       "id": "ch132",
       "title": {
         "la": "Liber III, Caput 15",
-        "en-US": "Chapter 15"
+        "en-US": "Chapter 15",
+        "pt-BR": "Livro III, Capítulo 15"
       }
     },
     {
       "id": "ch133",
       "title": {
         "la": "Liber III, Caput 16",
-        "en-US": "Chapter 16"
+        "en-US": "Chapter 16",
+        "pt-BR": "Livro III, Capítulo 16"
       }
     },
     {
       "id": "ch134",
       "title": {
         "la": "Liber III, Caput 17",
-        "en-US": "Chapter 17"
+        "en-US": "Chapter 17",
+        "pt-BR": "Livro III, Capítulo 17"
       }
     },
     {
       "id": "ch135",
       "title": {
         "la": "Liber III, Caput 18",
-        "en-US": "Chapter 18"
+        "en-US": "Chapter 18",
+        "pt-BR": "Livro III, Capítulo 18"
       }
     },
     {
       "id": "ch136",
       "title": {
         "la": "Liber III, Caput 19",
-        "en-US": "Chapter 19"
+        "en-US": "Chapter 19",
+        "pt-BR": "Livro III, Capítulo 19"
       }
     },
     {
       "id": "ch137",
       "title": {
         "la": "Liber III, Caput 20",
-        "en-US": "Chapter 20"
+        "en-US": "Chapter 20",
+        "pt-BR": "Livro III, Capítulo 20"
       }
     },
     {
       "id": "ch138",
       "title": {
         "la": "Liber III, Caput 21",
-        "en-US": "Chapter 21"
+        "en-US": "Chapter 21",
+        "pt-BR": "Livro III, Capítulo 21"
       }
     },
     {
       "id": "ch139",
       "title": {
         "la": "Liber III, Caput 22",
-        "en-US": "Chapter 22"
+        "en-US": "Chapter 22",
+        "pt-BR": "Livro III, Capítulo 22"
       }
     },
     {
       "id": "ch140",
       "title": {
         "la": "Liber III, Caput 23",
-        "en-US": "Chapter 23"
+        "en-US": "Chapter 23",
+        "pt-BR": "Livro III, Capítulo 23"
       }
     },
     {
       "id": "ch141",
       "title": {
         "la": "Liber III, Caput 24",
-        "en-US": "Chapter 24"
+        "en-US": "Chapter 24",
+        "pt-BR": "Livro III, Capítulo 24"
       }
     },
     {
       "id": "ch142",
       "title": {
         "la": "Liber III, Caput 25",
-        "en-US": "Chapter 25"
+        "en-US": "Chapter 25",
+        "pt-BR": "Livro III, Capítulo 25"
       }
     },
     {
       "id": "ch143",
       "title": {
         "la": "Prologus",
-        "en-US": "Prologue"
+        "en-US": "Prologue",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "ch144",
       "title": {
         "la": "Liber IV, Caput 1",
-        "en-US": "Chapter 1"
+        "en-US": "Chapter 1",
+        "pt-BR": "Livro IV, Capítulo 1"
       }
     },
     {
       "id": "ch145",
       "title": {
         "la": "Liber IV, Caput 2",
-        "en-US": "Chapter 2"
+        "en-US": "Chapter 2",
+        "pt-BR": "Livro IV, Capítulo 2"
       }
     },
     {
       "id": "ch146",
       "title": {
         "la": "Liber IV, Caput 3",
-        "en-US": "Chapter 3"
+        "en-US": "Chapter 3",
+        "pt-BR": "Livro IV, Capítulo 3"
       }
     },
     {
       "id": "ch147",
       "title": {
         "la": "Liber IV, Caput 4",
-        "en-US": "Chapter 4"
+        "en-US": "Chapter 4",
+        "pt-BR": "Livro IV, Capítulo 4"
       }
     },
     {
       "id": "ch148",
       "title": {
         "la": "Liber IV, Caput 5",
-        "en-US": "Chapter 5"
+        "en-US": "Chapter 5",
+        "pt-BR": "Livro IV, Capítulo 5"
       }
     },
     {
       "id": "ch149",
       "title": {
         "la": "Liber IV, Caput 6",
-        "en-US": "Chapter 6"
+        "en-US": "Chapter 6",
+        "pt-BR": "Livro IV, Capítulo 6"
       }
     },
     {
       "id": "ch150",
       "title": {
         "la": "Liber IV, Caput 7",
-        "en-US": "Chapter 7"
+        "en-US": "Chapter 7",
+        "pt-BR": "Livro IV, Capítulo 7"
       }
     },
     {
       "id": "ch151",
       "title": {
         "la": "Liber IV, Caput 8",
-        "en-US": "Chapter 8"
+        "en-US": "Chapter 8",
+        "pt-BR": "Livro IV, Capítulo 8"
       }
     },
     {
       "id": "ch152",
       "title": {
         "la": "Liber IV, Caput 9",
-        "en-US": "Chapter 9"
+        "en-US": "Chapter 9",
+        "pt-BR": "Livro IV, Capítulo 9"
       }
     },
     {
       "id": "ch153",
       "title": {
         "la": "Liber IV, Caput 10",
-        "en-US": "Chapter 10"
+        "en-US": "Chapter 10",
+        "pt-BR": "Livro IV, Capítulo 10"
       }
     }
   ],
@@ -1120,6 +1276,11 @@
     "en-US": {
       "translator": "S",
       "year": 1888
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   }
 }

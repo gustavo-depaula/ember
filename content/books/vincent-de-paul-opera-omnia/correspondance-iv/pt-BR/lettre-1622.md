@@ -1,0 +1,15 @@
+# Carta 1622. A um Padre da Missão
+
+De 4 de junho de 1653.
+
+Em resposta ao que me comunicais, eu vos direi, primeiramente, que não deveis estranhar se tendes movimentos de impaciência nas confissões e de vaidade em vossas pregações e em vossos estudos, porque sois homem e, por conseguinte, pecador; mas também exagerais um pouco essas coisas, pois há diferença entre o ato, o consentimento e a tentação, e tomais um pelo outro. Por serdes tentado de soberba em vossas pregações, nem por isso pregais por esse motivo; nem, quando sois acometido pela impaciência no tribunal da penitência, se porventura consentis nela em alguma medida, se segue que chegueis a praticá-la. Quanto à alimentação, não deveis ter nenhum escrúpulo dos desejos que vos vêm, nem julgar que cometeis excessos, pois tenho notícia do contrário. E, a esse propósito, peço-vos que vos alimenteis melhor do que o fazeis.
+
+Em segundo lugar, a ideia que tendes de ser capuchinho não me parece vir de Deus; primeiramente, porque vos encontrais em outro estado no qual sua providência vos colocou; 2º porque trabalhais com bênçãos na companhia; 3º porque a ordem dos Capuchinhos exige grande submissão de juízo e de vontade, e maior flexibilidade diante das opiniões alheias do que talvez vós e eu tenhamos; 4º não tendes nenhuma obrigação de passar a essa ordem religiosa, pois o que dissestes a São Francisco não é um voto, mas uma expressão do movimento que tivestes de vos entregar a ele; e, mesmo que lhe tivésseis prometido ser seu religioso, isso não seria um voto, porque os votos se fazem somente a Deus, e não aos santos; além disso, sabeis, Senhor, que os votos se devem fazer após madura e longa deliberação, e não por um impulso súbito, como foi aquele.
+
+Encontro outro sinal que me faz crer que Deus não vos chama aos Capuchinhos: os movimentos que vos vêm a esse respeito vos perturbam e inquietam por sua violência, como fazem habitualmente aqueles que o espírito maligno sugere; ao contrário, as inspirações de Deus são suaves e pacíficas, inclinando-nos amorosamente para o bem que ele deseja de nós.
+
+Por todas essas razões, Senhor, fareis bem em vos entregar a Deus para perseverar na vocação em que estais, tanto mais que nela podeis praticar as mesmas virtudes que entre os Capuchinhos, e pelo menos tantas mortificações do corpo e do espírito. Se eles fazem voto de pobreza, castidade e obediência, é o que também podeis fazer na companhia; se pregam e confessam, como começam a fazer em vários lugares, não é isso o que fazeis, graças a Deus? Não vejo, portanto, nada entre eles que não possais fazer conosco, a não ser o rigor do hábito e andar de pés descalços. Digo isso sem comparar esta pobre companhia com essa grande e santa Ordem.
+
+Quanto a dizer que, servindo ao próximo, não trabalhais por vossa salvação, é o que não se deve crer, mas antes esperar o contrário, pois esse é o melhor caminho que temos para chegar ao nosso fim, que é Deus, e para atrair os outros a ele, seguindo os mesmos modos que Nosso Senhor e os Apóstolos observaram. [^1]
+
+[^1]: Reg. 2, p. 326.

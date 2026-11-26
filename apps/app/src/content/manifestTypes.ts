@@ -116,6 +116,9 @@ export type CatalogEntry = {
   // Praying this practice is one of the three prayers of a prayed day (holy
   // cards); carried to forms as `liturgicalAct` is.
   dayPrayer?: DayPrayer
+  // A former id of a practice merged into another: this entry is that practice
+  // published again under the old id, so older apps still open it.
+  aliasOf?: string
 }
 
 export type LiturgicalAct = 'mass' | 'office'
@@ -130,8 +133,12 @@ export type PracticeDuration =
   | { type: 'chosen'; default: number; choices: number[] }
   | { type: 'by-day'; weekday: number; sunday: number }
 
-/** The morning offering, the rosary and the examination of conscience: all three prayed on one day give what the Office gives. */
-export type DayPrayer = 'offering' | 'rosary' | 'examen'
+/**
+ * The prayers of a prayed day, which gives what the Office gives: the rosary
+ * alone, or the morning offering, a midday prayer (the Angelus, Regina Caeli
+ * or the daily liturgy) and the examination of conscience, all three.
+ */
+export type DayPrayer = 'offering' | 'rosary' | 'midday' | 'examen'
 
 export type Catalog = {
   version: 2
@@ -222,6 +229,9 @@ export type PracticeManifest = {
   completion?: 'flow-end' | 'manual'
   program?: ProgramConfig
   theme?: 'office'
+  // Read with the day's Mass (the daily liturgy): its end also offers "I went
+  // to Mass", which marks the Mass instead of this practice.
+  followsMass?: boolean
   // Praying this counts as attending Mass or praying the Divine Office (holy
   // cards). Set on a form group's primary; the build gives it to every form.
   liturgicalAct?: LiturgicalAct

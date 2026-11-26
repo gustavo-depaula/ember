@@ -1,0 +1,21 @@
+# Carta 1234. A Bernardo Codoing, Superior, em Richelieu
+
+De 17 de julho de 1650.
+
+O Senhor primeiro presidente [^1] me disse anteontem que o rei deve ir a Richelieu, se é que já não está lá [^2]; isso me obriga a vos comunicar meus pensamentos sobre o que tereis de fazer, caso a presente vos seja entregue a tempo.
+
+Ireis, por favor, saudá-lo no castelo com 3 ou 4 de vossos padres. Ele não gosta de discursos; por isso, não devereis fazer-lhe nenhum; mas lhe direis que viestes apresentar a Sua Majestade os serviços da companhia e assegurar-lhe suas orações, para que apraza a Deus abençoar sua pessoa e suas armas e conservá-lo por um século inteiro, conceder-lhe a graça de subjugar os rebeldes e estender seu império até os confins da terra, enfim, de fazer Deus reinar em seus Estados. Em seguida, será preciso dirigir-vos à rainha regente e dizer-lhe algo semelhante, e depois a Monsieur [^3], e, ao sair, procurar ver Monsenhor o cardeal [^4] para lhe fazer a reverência, as ofertas, os votos etc., muito brevemente. Sobretudo, Senhor, guardai-vos de pedir qualquer coisa e de fazer qualquer queixa. E, caso vos perguntem se estais bem satisfeito com vossos paroquianos, dizei que sim, que são boa gente, que teme a Deus; pois isso se pode dizer em geral; que são bons servidores do rei e que tiveram um senhor e têm uma senhora que lhes deram esse exemplo etc. Basta uma palavra assim para mover Suas Majestades a lhes conceder alguma graça, como confirmar seus privilégios. Informai-vos com algum dos capelães sobre a maneira como deveis receber o rei na igreja: se com a cruz ou não; se lhe dareis a beijar essa mesma cruz ou não; se lhe apresentareis o aspersório. Se passar algum domingo em Richelieu, fareis vós mesmo a alocução paroquial ou a pregação e combinareis de antemão as cerimônias da missa e das vésperas, mandareis manter a casa limpa e tudo em ordem; e, como é costume alojar os capelães nas casas dos eclesiásticos e nas comunidades dos lugares onde a corte se detém, talvez os tenhais todos, e talvez também Monsenhor o bispo de Rodez, preceptor do rei [^5], o Padre Paulin, seu confessor [^6], e vários outros. Por isso, mandareis preparar muitas camas, das mais decentes. Os membros da companhia poderão alojar-se todos juntos em alguma sala, para deixar os quartos livres. Peço-vos que acolhais bem a todos, ofereçais tudo o que tendes ou podeis e dispenseis a cada um o melhor tratamento possível, sem poupar nada. Se tiverdes tempo, podereis mandar alguém a Tours comprar o necessário; e, se houver algum domingo antes da vinda do rei, fareis prudentemente em exortar a cidade a recebê-lo bem, a lhe demonstrar grande alegria e grande afeição por meio de aclamações e louvores a Suas Majestades, e de todas as boas maneiras possíveis. Peço a Nosso Senhor que vos inspire as outras coisas que tereis de fazer em tudo isso. [^7]
+
+[^1]: Mateus Molé.
+
+[^2]: Luís XIV dirigia-se a Bordeaux, onde a princesa de Condé havia sublevado o parlamento e o povo contra a corte. Chegou a Richelieu no dia 18 à noite, antes de Bernardo Codoing ter recebido esta carta. “O clero da localidade…, escreve o abade Bossebœuf (*História de Richelieu e arredores*, Tours, 1890, in-8º, p. 344), não havia esperado as ordens do superior de Saint-Lazare para apresentar essas homenagens ao rei. Toda a corporação municipal, em traje de gala, fez o mesmo; e, se houve algo a lamentar nessa bela cerimônia, foi não se ter conhecido a tempo a observação de São Vicente: *ele não gosta de discursos*.”
+
+[^3]: Filipe de Orléans, irmão de Luís XIV. Tinha apenas dez anos.
+
+[^4]: O cardeal Mazarino.
+
+[^5]: Hardouin de Beaumont de Péréfixe, doutor em teologia, pregador afamado, bispo de Rodez desde 1648. Renunciou ao bispado em 1662, devido à impossibilidade de residir em sua diocese, e dois anos depois subiu à sé de Paris, que ocupou até 31 de dezembro de 1670, dia de sua morte.
+
+[^6]: Carlos Paulin, ou antes Poulain, nascido em Orléans em 3 de junho de 1593, recebido na Companhia de Jesus em 30 de setembro de 1610. Foi reitor do colégio de Blois, depois superior da casa professa de Paris, preparou para a primeira comunhão o rei, de quem era confessor, e morreu em 12 de abril de 1653.
+
+[^7]: Reg. 2, p. 181.

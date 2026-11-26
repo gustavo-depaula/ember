@@ -16,13 +16,19 @@
   },
   "composed": 1948,
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "john-eudes/letters-and-shorter-works",
   "editions": {
     "en-US": {
       "translator": "Ruth Hauser",
       "year": 1948
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -39,169 +45,197 @@
     {
       "id": "letters-01",
       "title": {
-        "en-US": "Letter I"
+        "en-US": "Letter I",
+        "pt-BR": "Carta I"
       }
     },
     {
       "id": "letters-02",
       "title": {
-        "en-US": "Letters 2–10"
+        "en-US": "Letters 2–10",
+        "pt-BR": "Cartas 2–10"
       }
     },
     {
       "id": "letters-03",
       "title": {
-        "en-US": "Letters 11–18"
+        "en-US": "Letters 11–18",
+        "pt-BR": "Cartas 11–18"
       }
     },
     {
       "id": "letters-04",
       "title": {
-        "en-US": "Letters 19–26"
+        "en-US": "Letters 19–26",
+        "pt-BR": "Cartas 19–26"
       }
     },
     {
       "id": "letters-05",
       "title": {
-        "en-US": "Letters 27–40"
+        "en-US": "Letters 27–40",
+        "pt-BR": "Cartas 27–40"
       }
     },
     {
       "id": "letters-06",
       "title": {
-        "en-US": "Letters 41–50"
+        "en-US": "Letters 41–50",
+        "pt-BR": "Cartas 41–50"
       }
     },
     {
       "id": "letters-07",
       "title": {
-        "en-US": "Letters 51–55"
+        "en-US": "Letters 51–55",
+        "pt-BR": "Cartas 51–55"
       }
     },
     {
       "id": "letters-08",
       "title": {
-        "en-US": "Letters 56–62"
+        "en-US": "Letters 56–62",
+        "pt-BR": "Cartas 56–62"
       }
     },
     {
       "id": "letters-09",
       "title": {
-        "en-US": "Letters 63–74"
+        "en-US": "Letters 63–74",
+        "pt-BR": "Cartas 63–74"
       }
     },
     {
       "id": "letters-10",
       "title": {
-        "en-US": "Letters 75–88"
+        "en-US": "Letters 75–88",
+        "pt-BR": "Cartas 75–88"
       }
     },
     {
       "id": "letters-11",
       "title": {
-        "en-US": "Letters 89–98"
+        "en-US": "Letters 89–98",
+        "pt-BR": "Cartas 89–98"
       }
     },
     {
       "id": "letters-12",
       "title": {
-        "en-US": "Letters 99–108"
+        "en-US": "Letters 99–108",
+        "pt-BR": "Cartas 99–108"
       }
     },
     {
       "id": "letters-13",
       "title": {
-        "en-US": "Letters 109–114"
+        "en-US": "Letters 109–114",
+        "pt-BR": "Cartas 109–114"
       }
     },
     {
       "id": "letters-14",
       "title": {
-        "en-US": "Letters 115–121"
+        "en-US": "Letters 115–121",
+        "pt-BR": "Cartas 115–121"
       }
     },
     {
       "id": "letters-15",
       "title": {
-        "en-US": "Letters 122–138"
+        "en-US": "Letters 122–138",
+        "pt-BR": "Cartas 122–138"
       }
     },
     {
       "id": "letters-16",
       "title": {
-        "en-US": "Letters 139–157"
+        "en-US": "Letters 139–157",
+        "pt-BR": "Cartas 139–157"
       }
     },
     {
       "id": "letters-17",
       "title": {
-        "en-US": "Letters 158–180"
+        "en-US": "Letters 158–180",
+        "pt-BR": "Cartas 158–180"
       }
     },
     {
       "id": "letters-18",
       "title": {
-        "en-US": "Letters 181–205"
+        "en-US": "Letters 181–205",
+        "pt-BR": "Cartas 181–205"
       }
     },
     {
       "id": "letters-19",
       "title": {
-        "en-US": "Letters 206–220"
+        "en-US": "Letters 206–220",
+        "pt-BR": "Cartas 206–220"
       }
     },
     {
       "id": "letters-20",
       "title": {
-        "en-US": "Letters 221–243"
+        "en-US": "Letters 221–243",
+        "pt-BR": "Cartas 221–243"
       }
     },
     {
       "id": "shorter-01",
       "title": {
-        "en-US": "Shorter Works"
+        "en-US": "Shorter Works",
+        "pt-BR": "Obras menores"
       }
     },
     {
       "id": "shorter-02",
       "title": {
-        "en-US": "Memoriale Beneficiorum Dei: Memoir of the principal favors which I have received from God (1)"
+        "en-US": "Memoriale Beneficiorum Dei: Memoir of the principal favors which I have received from God (1)",
+        "pt-BR": "Memoriale Beneficiorum Dei: Memória dos principais favores que recebi de Deus (1)"
       }
     },
     {
       "id": "shorter-03",
       "title": {
-        "en-US": "Memoriale Beneficiorum Dei: Memoir of the principal favors which I have received from God (2)"
+        "en-US": "Memoriale Beneficiorum Dei: Memoir of the principal favors which I have received from God (2)",
+        "pt-BR": "Memoriale Beneficiorum Dei: Memória dos principais favores que recebi de Deus (2)"
       }
     },
     {
       "id": "shorter-04",
       "title": {
-        "en-US": "Vow(1): or Prayer to Jesus, to offer himself as a sacrifice and victim"
+        "en-US": "Vow(1): or Prayer to Jesus, to offer himself as a sacrifice and victim",
+        "pt-BR": "Voto(1): ou Oração a Jesus, para oferecer-se como sacrifício e vítima"
       }
     },
     {
       "id": "shorter-05",
       "title": {
-        "en-US": "Contract(1): of Holy Matrimony"
+        "en-US": "Contract(1): of Holy Matrimony",
+        "pt-BR": "Contrato(1): de Santo Matrimônio"
       }
     },
     {
       "id": "shorter-06",
       "title": {
-        "en-US": "Letter to the Most Holy Virgin"
+        "en-US": "Letter to the Most Holy Virgin",
+        "pt-BR": "Carta à Santíssima Virgem"
       }
     },
     {
       "id": "shorter-07",
       "title": {
-        "en-US": "Last Will and Testament: Of Saint John Eudes"
+        "en-US": "Last Will and Testament: Of Saint John Eudes",
+        "pt-BR": "Última vontade e testamento: de São João Eudes"
       }
     },
     {
       "id": "shorter-08",
       "title": {
-        "en-US": "Prayer to the Blessed Virgin Mary"
+        "en-US": "Prayer to the Blessed Virgin Mary",
+        "pt-BR": "Oração à bem-aventurada Virgem Maria"
       }
     }
   ]
