@@ -2,13 +2,16 @@
   "id": "cyprian-treatises",
   "cover": "quarter",
   "name": {
-    "en-US": "The Treatises of Cyprian"
+    "en-US": "The Treatises of Cyprian",
+    "pt-BR": "Os Tratados de Cipriano"
   },
   "author": {
-    "en-US": "Cyprian of Carthage"
+    "en-US": "Cyprian of Carthage",
+    "pt-BR": "Cipriano de Cartago"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,71 +24,89 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Treatise I"
+        "en-US": "Treatise I",
+        "pt-BR": "Tratado I"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Treatise II"
+        "en-US": "Treatise II",
+        "pt-BR": "Tratado II"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Treatise III"
+        "en-US": "Treatise III",
+        "pt-BR": "Tratado III"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Treatise IV"
+        "en-US": "Treatise IV",
+        "pt-BR": "Tratado IV"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "Treatise V"
+        "en-US": "Treatise V",
+        "pt-BR": "Tratado V"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "Treatise VI"
+        "en-US": "Treatise VI",
+        "pt-BR": "Tratado VI"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "en-US": "Treatise VII"
+        "en-US": "Treatise VII",
+        "pt-BR": "Tratado VII"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "en-US": "Treatise VIII"
+        "en-US": "Treatise VIII",
+        "pt-BR": "Tratado VIII"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "en-US": "Treatise IX"
+        "en-US": "Treatise IX",
+        "pt-BR": "Tratado IX"
       }
     },
     {
       "id": "ch010",
       "title": {
-        "en-US": "Treatise X"
+        "en-US": "Treatise X",
+        "pt-BR": "Tratado X"
       }
     },
     {
       "id": "ch011",
       "title": {
-        "en-US": "Treatise XI"
+        "en-US": "Treatise XI",
+        "pt-BR": "Tratado XI"
       }
     }
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
