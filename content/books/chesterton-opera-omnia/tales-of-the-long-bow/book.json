@@ -15,13 +15,19 @@
   },
   "composed": "1925",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/tales-of-the-long-bow",
   "editions": {
     "en-US": {
       "editor": "Cassell and Company",
       "year": 1925
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,49 +44,57 @@
     {
       "id": "ch01-the-unpresentable-appearance-of-colonel-crane",
       "title": {
-        "en-US": "The Unpresentable Appearance of Colonel Crane"
+        "en-US": "The Unpresentable Appearance of Colonel Crane",
+        "pt-BR": "A Aparência Inapresentável do Coronel Crane"
       }
     },
     {
       "id": "ch02-the-improbable-success-of-mr-owen-hood",
       "title": {
-        "en-US": "The Improbable Success of Mr. Owen Hood"
+        "en-US": "The Improbable Success of Mr. Owen Hood",
+        "pt-BR": "O Improvável Sucesso do Sr. Owen Hood"
       }
     },
     {
       "id": "ch03-the-unobtrusive-traffic-of-captain-pierce",
       "title": {
-        "en-US": "The Unobtrusive Traffic of Captain Pierce"
+        "en-US": "The Unobtrusive Traffic of Captain Pierce",
+        "pt-BR": "O Discreto Tráfego do Capitão Pierce"
       }
     },
     {
       "id": "ch04-the-elusive-companion-of-parson-white",
       "title": {
-        "en-US": "The Elusive Companion of Parson White"
+        "en-US": "The Elusive Companion of Parson White",
+        "pt-BR": "O Esquivo Companheiro do Pastor White"
       }
     },
     {
       "id": "ch05-the-exclusive-luxury-of-enoch-oates",
       "title": {
-        "en-US": "The Exclusive Luxury of Enoch Oates"
+        "en-US": "The Exclusive Luxury of Enoch Oates",
+        "pt-BR": "O Luxo Exclusivo de Enoch Oates"
       }
     },
     {
       "id": "ch06-the-unthinkable-theory-of-professor-green",
       "title": {
-        "en-US": "The Unthinkable Theory of Professor Green"
+        "en-US": "The Unthinkable Theory of Professor Green",
+        "pt-BR": "A Teoria Impensável do Professor Green"
       }
     },
     {
       "id": "ch07-the-unprecedented-architecture-of-commander-blair",
       "title": {
-        "en-US": "The Unprecedented Architecture of Commander Blair"
+        "en-US": "The Unprecedented Architecture of Commander Blair",
+        "pt-BR": "A Arquitetura Sem Precedentes do Comandante Blair"
       }
     },
     {
       "id": "ch08-the-ultimate-ultimatum-of-the-league-of",
       "title": {
-        "en-US": "The Ultimate Ultimatum of the League of the Long Bow"
+        "en-US": "The Ultimate Ultimatum of the League of the Long Bow",
+        "pt-BR": "O Último Ultimato da Liga do Arco Longo"
       }
     }
   ]
