@@ -18,13 +18,19 @@
   },
   "composed": 1650,
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "john-eudes/servir-la-messe",
   "editions": {
     "fr-FR": {
       "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
       "year": 1905
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,49 +47,57 @@
     {
       "id": "messe-01",
       "title": {
-        "fr-FR": "La Manière de bien servir: La manière de bien servir a la sainte messe"
+        "fr-FR": "La Manière de bien servir: La manière de bien servir a la sainte messe",
+        "pt-BR": "A maneira de servir bem: A maneira de servir bem à santa Missa"
       }
     },
     {
       "id": "messe-02",
       "title": {
-        "fr-FR": "Introduction: F. g. hubert,"
+        "fr-FR": "Introduction: F. g. hubert,",
+        "pt-BR": "Introdução: F. g. hubert,"
       }
     },
     {
       "id": "messe-03",
       "title": {
-        "fr-FR": "Préface"
+        "fr-FR": "Préface",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "messe-04",
       "title": {
-        "fr-FR": "CHAPITRE PREMIER.--Combien c'est une chose grande et sainte que de servir la sainte Messe"
+        "fr-FR": "CHAPITRE PREMIER.--Combien c'est une chose grande et sainte que de servir la sainte Messe",
+        "pt-BR": "CAPÍTULO PRIMEIRO.--Quão grande e santo é servir à santa Missa"
       }
     },
     {
       "id": "messe-05",
       "title": {
-        "fr-FR": "CHAPITRE II.--Ce que doit faire à l'extérieur celui qui sert la sainte Messe"
+        "fr-FR": "CHAPITRE II.--Ce que doit faire à l'extérieur celui qui sert la sainte Messe",
+        "pt-BR": "CAPÍTULO II.--O que deve fazer exteriormente aquele que serve à santa Missa"
       }
     },
     {
       "id": "messe-06",
       "title": {
-        "fr-FR": "CHAPITRE III.--Quand il y a deux Clercs à servir la sainte Messe, ce qu'ils doivent faire"
+        "fr-FR": "CHAPITRE III.--Quand il y a deux Clercs à servir la sainte Messe, ce qu'ils doivent faire",
+        "pt-BR": "CAPÍTULO III.--O que devem fazer dois Clérigos quando servem à santa Missa"
       }
     },
     {
       "id": "messe-07",
       "title": {
-        "fr-FR": "CHAPITRE IV.--Des choses qu'il faut répondre à la sainte Messe"
+        "fr-FR": "CHAPITRE IV.--Des choses qu'il faut répondre à la sainte Messe",
+        "pt-BR": "CAPÍTULO IV.--O que é preciso responder na santa Missa"
       }
     },
     {
       "id": "messe-08",
       "title": {
-        "fr-FR": "CHAPITRE V.--Dispositions intérieures pour bien servir la sainte Messe 2 8 2"
+        "fr-FR": "CHAPITRE V.--Dispositions intérieures pour bien servir la sainte Messe 2 8 2",
+        "pt-BR": "CAPÍTULO V.--Disposições interiores para servir bem à santa Missa 2 8 2"
       }
     }
   ]
