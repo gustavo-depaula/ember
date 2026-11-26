@@ -12,17 +12,23 @@
   },
   "description": {
     "en-US": "The 1947 English selection from the Memorial of the Ecclesiastical Life, the Apostolic Preacher and the Good Confessor, translated by W. Leo Murphy, in seven parts.",
-    "pt-BR": "A seleção inglesa de 1947 do Memorial da vida eclesiástica, do Pregador apostólico e do Bom Confessor, em sete partes."
+    "pt-BR": "A seleção inglesa de 1947 do Memorial da vida eclesiástica, do Pregador apostólico e do Bom Confessor, traduzida por W. Leo Murphy, em sete partes."
   },
   "composed": 1947,
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "john-eudes/the-priest",
   "editions": {
     "en-US": {
       "translator": "W. Leo Murphy",
       "year": 1947
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -39,313 +45,365 @@
     {
       "id": "pr-01",
       "title": {
-        "en-US": "Part I: A Memorial"
+        "en-US": "Part I: A Memorial",
+        "pt-BR": "Parte I: Um Memorial"
       }
     },
     {
       "id": "pr-02",
       "title": {
-        "en-US": "Part I: A Memorial of the Ecclesiastical Life'"
+        "en-US": "Part I: A Memorial of the Ecclesiastical Life'",
+        "pt-BR": "Parte I: Um Memorial da vida eclesiástica'"
       }
     },
     {
       "id": "pr-03",
       "title": {
-        "en-US": "Part I, Chapter 1( 2 ): The Dignity of the Priesthood( 3 )"
+        "en-US": "Part I, Chapter 1( 2 ): The Dignity of the Priesthood( 3 )",
+        "pt-BR": "Parte I, Capítulo I( 2 ): A dignidade do sacerdócio( 3 )"
       }
     },
     {
       "id": "pr-04",
       "title": {
-        "en-US": "Part I, Chapter 11: Qualities of a Holy Priest"
+        "en-US": "Part I, Chapter 11: Qualities of a Holy Priest",
+        "pt-BR": "Parte I, Capítulo II: Qualidades de um santo sacerdote"
       }
     },
     {
       "id": "pr-05",
       "title": {
-        "en-US": "Part I, Chapter III: Duties of the Priestly State"
+        "en-US": "Part I, Chapter III: Duties of the Priestly State",
+        "pt-BR": "Parte I, Capítulo III: Deveres do estado sacerdotal"
       }
     },
     {
       "id": "pr-06",
       "title": {
-        "en-US": "Part I, Chapter IV: The Spiritual Life of the Priest (1): I. Morning Exercise (1)"
+        "en-US": "Part I, Chapter IV: The Spiritual Life of the Priest (1): I. Morning Exercise (1)",
+        "pt-BR": "Parte I, Capítulo IV: A vida espiritual do sacerdote (1): I. Exercício da manhã (1)"
       }
     },
     {
       "id": "pr-07",
       "title": {
-        "en-US": "Part I, Chapter IV: The Spiritual Life of the Priest (1): I. Morning Exercise (2)"
+        "en-US": "Part I, Chapter IV: The Spiritual Life of the Priest (1): I. Morning Exercise (2)",
+        "pt-BR": "Parte I, Capítulo IV: A vida espiritual do sacerdote (1): I. Exercício da manhã (2)"
       }
     },
     {
       "id": "pr-08",
       "title": {
-        "en-US": "Part I, Chapter V: 1. General Dispositions for the Administration of the: Sacraments (1)"
+        "en-US": "Part I, Chapter V: 1. General Dispositions for the Administration of the: Sacraments (1)",
+        "pt-BR": "Parte I, Capítulo V: 1. Disposições gerais para a administração dos sacramentos (1)"
       }
     },
     {
       "id": "pr-09",
       "title": {
-        "en-US": "Part I, Chapter V: 1. General Dispositions for the Administration of the: Sacraments (2)"
+        "en-US": "Part I, Chapter V: 1. General Dispositions for the Administration of the: Sacraments (2)",
+        "pt-BR": "Parte I, Capítulo V: 1. Disposições gerais para a administração dos sacramentos (2)"
       }
     },
     {
       "id": "pr-10",
       "title": {
-        "en-US": "Part I, Chapter V: 1. General Dispositions for the Administration of the: Sacraments (3)"
+        "en-US": "Part I, Chapter V: 1. General Dispositions for the Administration of the: Sacraments (3)",
+        "pt-BR": "Parte I, Capítulo V: 1. Disposições gerais para a administração dos sacramentos (3)"
       }
     },
     {
       "id": "pr-11",
       "title": {
-        "en-US": "Part I, Chapter VI: The Annual Retreat"
+        "en-US": "Part I, Chapter VI: The Annual Retreat",
+        "pt-BR": "Parte I, Capítulo VI: O retiro anual"
       }
     },
     {
       "id": "pr-12",
       "title": {
-        "en-US": "Part 11: The Apostolic Preacher( 1 )"
+        "en-US": "Part 11: The Apostolic Preacher( 1 )",
+        "pt-BR": "Parte II: O Pregador apostólico( 1 )"
       }
     },
     {
       "id": "pr-13",
       "title": {
-        "en-US": "Part II: The Apostolic Preacher'"
+        "en-US": "Part II: The Apostolic Preacher'",
+        "pt-BR": "Parte II: O Pregador apostólico'"
       }
     },
     {
       "id": "pr-14",
       "title": {
-        "en-US": "Part II, Chapter I: Excellence and Importance of: The Office of Preaching"
+        "en-US": "Part II, Chapter I: Excellence and Importance of: The Office of Preaching",
+        "pt-BR": "Parte II, Capítulo I: Excelência e importância do ofício da pregação"
       }
     },
     {
       "id": "pr-15",
       "title": {
-        "en-US": "Part II, Chapter 2: Interior Dispositions for Preaching"
+        "en-US": "Part II, Chapter 2: Interior Dispositions for Preaching",
+        "pt-BR": "Parte II, Capítulo 2: Disposições interiores para a pregação"
       }
     },
     {
       "id": "pr-16",
       "title": {
-        "en-US": "Part II, Chapter III: Edification and Example to be: Given by Preachers"
+        "en-US": "Part II, Chapter III: Edification and Example to be: Given by Preachers",
+        "pt-BR": "Parte II, Capítulo III: Edificação e exemplo que os pregadores devem dar"
       }
     },
     {
       "id": "pr-17",
       "title": {
-        "en-US": "Part II, Chapter IV (*): Books for Sermon Material"
+        "en-US": "Part II, Chapter IV (*): Books for Sermon Material",
+        "pt-BR": "Parte II, Capítulo IV (*): Livros como fontes para os sermões"
       }
     },
     {
       "id": "pr-18",
       "title": {
-        "en-US": "Part II, Chapter V: Sermon Topics"
+        "en-US": "Part II, Chapter V: Sermon Topics",
+        "pt-BR": "Parte II, Capítulo V: Temas para os sermões"
       }
     },
     {
       "id": "pr-19",
       "title": {
-        "en-US": "Part II, Chapter VI: Further Suggestions on Sermon Topics"
+        "en-US": "Part II, Chapter VI: Further Suggestions on Sermon Topics",
+        "pt-BR": "Parte II, Capítulo VI: Outras sugestões sobre temas para os sermões"
       }
     },
     {
       "id": "pr-20",
       "title": {
-        "en-US": "Part II, Chapter VII: Sermon Plans: 1 The Mysteries of Religion"
+        "en-US": "Part II, Chapter VII: Sermon Plans: 1 The Mysteries of Religion",
+        "pt-BR": "Parte II, Capítulo VII: Planos de sermões: 1 Os mistérios da religião"
       }
     },
     {
       "id": "pr-21",
       "title": {
-        "en-US": "Part II, Chapter VIII(*): Composition of the Sermon"
+        "en-US": "Part II, Chapter VIII(*): Composition of the Sermon",
+        "pt-BR": "Parte II, Capítulo VIII(*): Composição do sermão"
       }
     },
     {
       "id": "pr-22",
       "title": {
-        "en-US": "Part II, Chapter IX(*): Delivery of the Sermon"
+        "en-US": "Part II, Chapter IX(*): Delivery of the Sermon",
+        "pt-BR": "Parte II, Capítulo IX(*): Apresentação do sermão"
       }
     },
     {
       "id": "pr-23",
       "title": {
-        "en-US": "Part II, Chapter X"
+        "en-US": "Part II, Chapter X",
+        "pt-BR": "Parte II, Capítulo X"
       }
     },
     {
       "id": "pr-24",
       "title": {
-        "en-US": "Part II, Chapter XI (*): Further Advice to Preachers"
+        "en-US": "Part II, Chapter XI (*): Further Advice to Preachers",
+        "pt-BR": "Parte II, Capítulo XI (*): Outros conselhos aos pregadores"
       }
     },
     {
       "id": "pr-25",
       "title": {
-        "en-US": "Part II, Chapter XII: Touching the Hearts of the Faithful"
+        "en-US": "Part II, Chapter XII: Touching the Hearts of the Faithful",
+        "pt-BR": "Parte II, Capítulo XII: Tocar os corações dos fiéis"
       }
     },
     {
       "id": "pr-26",
       "title": {
-        "en-US": "Part II, Chapter XIV: The Teaching of Catechism"
+        "en-US": "Part II, Chapter XIV: The Teaching of Catechism",
+        "pt-BR": "Parte II, Capítulo XIV: O ensino do catecismo"
       }
     },
     {
       "id": "pr-27",
       "title": {
-        "en-US": "Part III: The Good Confessor"
+        "en-US": "Part III: The Good Confessor",
+        "pt-BR": "Parte III: O Bom Confessor"
       }
     },
     {
       "id": "pr-28",
       "title": {
-        "en-US": "Part 111: The Good Confessor(1)"
+        "en-US": "Part 111: The Good Confessor(1)",
+        "pt-BR": "Parte III: O Bom Confessor(1)"
       }
     },
     {
       "id": "pr-29",
       "title": {
-        "en-US": "Part 111, Chapter I: Excellence and Importance of the Office: Of Confessor"
+        "en-US": "Part 111, Chapter I: Excellence and Importance of the Office: Of Confessor",
+        "pt-BR": "Parte III, Capítulo I: Excelência e importância do ofício de confessor"
       }
     },
     {
       "id": "pr-30",
       "title": {
-        "en-US": "Part 111, Chapter II (1)"
+        "en-US": "Part 111, Chapter II (1)",
+        "pt-BR": "Parte III, Capítulo II (1)"
       }
     },
     {
       "id": "pr-31",
       "title": {
-        "en-US": "Part 111, Chapter II (2)"
+        "en-US": "Part 111, Chapter II (2)",
+        "pt-BR": "Parte III, Capítulo II (2)"
       }
     },
     {
       "id": "pr-32",
       "title": {
-        "en-US": "Part 111, Chapter III(*): Science of the Confessor"
+        "en-US": "Part 111, Chapter III(*): Science of the Confessor",
+        "pt-BR": "Parte III, Capítulo III(*): Ciência do confessor"
       }
     },
     {
       "id": "pr-33",
       "title": {
-        "en-US": "Part 111, Chapter IV(*): Charity of the Confessor"
+        "en-US": "Part 111, Chapter IV(*): Charity of the Confessor",
+        "pt-BR": "Parte III, Capítulo IV(*): Caridade do confessor"
       }
     },
     {
       "id": "pr-34",
       "title": {
-        "en-US": "Part 111, Chapter V: Prudence of the Confessor"
+        "en-US": "Part 111, Chapter V: Prudence of the Confessor",
+        "pt-BR": "Parte III, Capítulo V: Prudência do confessor"
       }
     },
     {
       "id": "pr-35",
       "title": {
-        "en-US": "Part 111, Chapter VI: Piety of the Confessor"
+        "en-US": "Part 111, Chapter VI: Piety of the Confessor",
+        "pt-BR": "Parte III, Capítulo VI: Piedade do confessor"
       }
     },
     {
       "id": "pr-36",
       "title": {
-        "en-US": "Part 111, Chapter V11(1): Fidelity to the Secrecy of Confession"
+        "en-US": "Part 111, Chapter V11(1): Fidelity to the Secrecy of Confession",
+        "pt-BR": "Parte III, Capítulo VII(1): Fidelidade ao sigilo da confissão"
       }
     },
     {
       "id": "pr-37",
       "title": {
-        "en-US": "Part 111, Chapter VIII: Seven Points to be Observed by Confessors"
+        "en-US": "Part 111, Chapter VIII: Seven Points to be Observed by Confessors",
+        "pt-BR": "Parte III, Capítulo VIII: Sete pontos a serem observados pelos confessores"
       }
     },
     {
       "id": "pr-38",
       "title": {
-        "en-US": "Part 111, Chapter IX: Further Advice to Confessors"
+        "en-US": "Part 111, Chapter IX: Further Advice to Confessors",
+        "pt-BR": "Parte III, Capítulo IX: Outros conselhos aos confessores"
       }
     },
     {
       "id": "pr-39",
       "title": {
-        "en-US": "Part 111, Chapter X (*): An Effective Way to Convert Sinners"
+        "en-US": "Part 111, Chapter X (*): An Effective Way to Convert Sinners",
+        "pt-BR": "Parte III, Capítulo X (*): Um meio eficaz de converter os pecadores"
       }
     },
     {
       "id": "pr-40",
       "title": {
-        "en-US": "Part IV: Meditations"
+        "en-US": "Part IV: Meditations",
+        "pt-BR": "Parte IV: Meditações"
       }
     },
     {
       "id": "pr-41",
       "title": {
-        "en-US": "Part IV: Meditations on the Priestly Obligations': First Meditation (1)"
+        "en-US": "Part IV: Meditations on the Priestly Obligations': First Meditation (1)",
+        "pt-BR": "Parte IV: Meditações sobre as obrigações sacerdotais': Primeira meditação (1)"
       }
     },
     {
       "id": "pr-42",
       "title": {
-        "en-US": "Part IV: Meditations on the Priestly Obligations': First Meditation (2)"
+        "en-US": "Part IV: Meditations on the Priestly Obligations': First Meditation (2)",
+        "pt-BR": "Parte IV: Meditações sobre as obrigações sacerdotais': Primeira meditação (2)"
       }
     },
     {
       "id": "pr-43",
       "title": {
-        "en-US": "Part IV: Meditations on the Priestly Obligations': First Meditation (3)"
+        "en-US": "Part IV: Meditations on the Priestly Obligations': First Meditation (3)",
+        "pt-BR": "Parte IV: Meditações sobre as obrigações sacerdotais': Primeira meditação (3)"
       }
     },
     {
       "id": "pr-44",
       "title": {
-        "en-US": "Part V: Meditations on: Tonsure and Holy Orders"
+        "en-US": "Part V: Meditations on: Tonsure and Holy Orders",
+        "pt-BR": "Parte V: Meditações sobre a tonsura e as santas Ordens"
       }
     },
     {
       "id": "pr-45",
       "title": {
-        "en-US": "Part V: Meditations on Tonsure and Holy Orders(1) (1)"
+        "en-US": "Part V: Meditations on Tonsure and Holy Orders(1) (1)",
+        "pt-BR": "Parte V: Meditações sobre a tonsura e as santas Ordens(1) (1)"
       }
     },
     {
       "id": "pr-46",
       "title": {
-        "en-US": "Part V: Meditations on Tonsure and Holy Orders(1) (2)"
+        "en-US": "Part V: Meditations on Tonsure and Holy Orders(1) (2)",
+        "pt-BR": "Parte V: Meditações sobre a tonsura e as santas Ordens(1) (2)"
       }
     },
     {
       "id": "pr-47",
       "title": {
-        "en-US": "Part VI: Meditations"
+        "en-US": "Part VI: Meditations",
+        "pt-BR": "Parte VI: Meditações"
       }
     },
     {
       "id": "pr-48",
       "title": {
-        "en-US": "Part VI: Meditations for the Annual Retreat((1): First Meditation (1)"
+        "en-US": "Part VI: Meditations for the Annual Retreat((1): First Meditation (1)",
+        "pt-BR": "Parte VI: Meditações para o retiro anual((1): Primeira meditação (1)"
       }
     },
     {
       "id": "pr-49",
       "title": {
-        "en-US": "Part VI: Meditations for the Annual Retreat((1): First Meditation (2)"
+        "en-US": "Part VI: Meditations for the Annual Retreat((1): First Meditation (2)",
+        "pt-BR": "Parte VI: Meditações para o retiro anual((1): Primeira meditação (2)"
       }
     },
     {
       "id": "pr-50",
       "title": {
-        "en-US": "Part VII: Mass and Office (1)"
+        "en-US": "Part VII: Mass and Office (1)",
+        "pt-BR": "Parte VII: Missa e Ofício (1)"
       }
     },
     {
       "id": "pr-51",
       "title": {
-        "en-US": "Part VII: Mass and Office (2)"
+        "en-US": "Part VII: Mass and Office (2)",
+        "pt-BR": "Parte VII: Missa e Ofício (2)"
       }
     },
     {
       "id": "pr-52",
       "title": {
-        "en-US": "Part VII: Mass and Office (3)"
+        "en-US": "Part VII: Mass and Office (3)",
+        "pt-BR": "Parte VII: Missa e Ofício (3)"
       }
     }
   ]
