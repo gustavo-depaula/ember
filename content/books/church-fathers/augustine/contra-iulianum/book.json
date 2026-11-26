@@ -18,13 +18,19 @@
   },
   "composed": "421-422",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/contra-iulianum",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,73 +47,85 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Epistula ad Claudium"
+        "la": "Epistula ad Claudium",
+        "pt-BR": "Carta a Cláudio"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "Liber I"
+        "la": "Liber I",
+        "pt-BR": "Livro I"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "la": "Liber II"
+        "la": "Liber II",
+        "pt-BR": "Livro II"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "la": "Liber III, Capita 1–18"
+        "la": "Liber III, Capita 1–18",
+        "pt-BR": "Livro III, Capítulos 1–18"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "la": "Liber III, Capita 19–26"
+        "la": "Liber III, Capita 19–26",
+        "pt-BR": "Livro III, Capítulos 19–26"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "la": "Liber IV, Capita 1–3"
+        "la": "Liber IV, Capita 1–3",
+        "pt-BR": "Livro IV, Capítulos 1–3"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "la": "Liber IV, Capita 4–16"
+        "la": "Liber IV, Capita 4–16",
+        "pt-BR": "Livro IV, Capítulos 4–16"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "la": "Liber V, Capita 1–7"
+        "la": "Liber V, Capita 1–7",
+        "pt-BR": "Livro V, Capítulos 1–7"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "la": "Liber V, Capita 8–16"
+        "la": "Liber V, Capita 8–16",
+        "pt-BR": "Livro V, Capítulos 8–16"
       }
     },
     {
       "id": "ch010",
       "title": {
-        "la": "Liber VI, Capita 1–10"
+        "la": "Liber VI, Capita 1–10",
+        "pt-BR": "Livro VI, Capítulos 1–10"
       }
     },
     {
       "id": "ch011",
       "title": {
-        "la": "Liber VI, Capita 11–19"
+        "la": "Liber VI, Capita 11–19",
+        "pt-BR": "Livro VI, Capítulos 11–19"
       }
     },
     {
       "id": "ch012",
       "title": {
-        "la": "Liber VI, Capita 20–26"
+        "la": "Liber VI, Capita 20–26",
+        "pt-BR": "Livro VI, Capítulos 20–26"
       }
     }
   ],
