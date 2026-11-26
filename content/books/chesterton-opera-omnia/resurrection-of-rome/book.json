@@ -15,13 +15,19 @@
   },
   "composed": 1930,
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/resurrection-of-rome",
   "editions": {
     "en-US": {
       "editor": "Hodder and Stoughton",
       "year": 1930
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,49 +44,57 @@
     {
       "id": "chapter-01",
       "title": {
-        "en-US": "Part I: The Outline of a City"
+        "en-US": "Part I: The Outline of a City",
+        "pt-BR": "Parte I: O esboço de uma cidade"
       }
     },
     {
       "id": "chapter-02",
       "title": {
-        "en-US": "Part II: The Story of the Statues"
+        "en-US": "Part II: The Story of the Statues",
+        "pt-BR": "Parte II: A história das estátuas"
       }
     },
     {
       "id": "chapter-03",
       "title": {
-        "en-US": "Part III: The Pillar of the Lateran"
+        "en-US": "Part III: The Pillar of the Lateran",
+        "pt-BR": "Parte III: O pilar do Latrão"
       }
     },
     {
       "id": "chapter-04",
       "title": {
-        "en-US": "Part IV: The Return of the Gods"
+        "en-US": "Part IV: The Return of the Gods",
+        "pt-BR": "Parte IV: O retorno dos deuses"
       }
     },
     {
       "id": "chapter-05",
       "title": {
-        "en-US": "Part V: The Return of the Romans"
+        "en-US": "Part V: The Return of the Romans",
+        "pt-BR": "Parte V: O retorno dos romanos"
       }
     },
     {
       "id": "chapter-06",
       "title": {
-        "en-US": "Part VI: The Holy Island"
+        "en-US": "Part VI: The Holy Island",
+        "pt-BR": "Parte VI: A Ilha Santa"
       }
     },
     {
       "id": "chapter-07",
       "title": {
-        "en-US": "Appendix A"
+        "en-US": "Appendix A",
+        "pt-BR": "Apêndice A"
       }
     },
     {
       "id": "chapter-08",
       "title": {
-        "en-US": "Appendix B"
+        "en-US": "Appendix B",
+        "pt-BR": "Apêndice B"
       }
     }
   ]
