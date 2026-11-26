@@ -18,13 +18,19 @@
   },
   "composed": 1640,
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "work": "john-eudes/entretiens-interieurs",
   "editions": {
     "fr-FR": {
       "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
       "year": 1905
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "fr-FR",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,31 +47,36 @@
     {
       "id": "ent-01",
       "title": {
-        "fr-FR": "Entretiens intérieurs (1): Entretiens intérieurs"
+        "fr-FR": "Entretiens intérieurs (1): Entretiens intérieurs",
+        "pt-BR": "Colóquios interiores (1): Colóquios interiores"
       }
     },
     {
       "id": "ent-02",
       "title": {
-        "fr-FR": "Entretiens intérieurs (2): Troisieme entretien"
+        "fr-FR": "Entretiens intérieurs (2): Troisieme entretien",
+        "pt-BR": "Colóquios interiores (2): Terceiro colóquio"
       }
     },
     {
       "id": "ent-03",
       "title": {
-        "fr-FR": "Entretiens intérieurs (3): Sixieme entretien"
+        "fr-FR": "Entretiens intérieurs (3): Sixieme entretien",
+        "pt-BR": "Colóquios interiores (3): Sexto colóquio"
       }
     },
     {
       "id": "ent-04",
       "title": {
-        "fr-FR": "Entretiens intérieurs (4): Neuvieme entretien"
+        "fr-FR": "Entretiens intérieurs (4): Neuvieme entretien",
+        "pt-BR": "Colóquios interiores (4): Nono colóquio"
       }
     },
     {
       "id": "ent-05",
       "title": {
-        "fr-FR": "Entretiens intérieurs (5): Douzieme entretien"
+        "fr-FR": "Entretiens intérieurs (5): Douzieme entretien",
+        "pt-BR": "Colóquios interiores (5): Décimo segundo colóquio"
       }
     }
   ]
