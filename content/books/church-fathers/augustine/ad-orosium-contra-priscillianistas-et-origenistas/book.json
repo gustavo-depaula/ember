@@ -18,13 +18,19 @@
   },
   "composed": "415",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/ad-orosium-contra-priscillianistas-et-origenistas",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,13 +47,15 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Commonitorium Orosii"
+        "la": "Commonitorium Orosii",
+        "pt-BR": "Memorial de Orósio"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "Liber ad Orosium"
+        "la": "Liber ad Orosium",
+        "pt-BR": "Livro a Orósio"
       }
     }
   ],
