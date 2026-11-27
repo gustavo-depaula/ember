@@ -15,13 +15,19 @@
   },
   "composed": "1922",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/ballad-of-st-barbara",
   "editions": {
     "en-US": {
       "editor": "Cecil Palmer",
       "year": 1922
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,217 +44,253 @@
     {
       "id": "ch01-the-ballad-of-st-barbara",
       "title": {
-        "en-US": "The Ballad of St. Barbara"
+        "en-US": "The Ballad of St. Barbara",
+        "pt-BR": "A Balada de Santa Bárbara"
       }
     },
     {
       "id": "ch02-elegy-in-a-country-churchyard",
       "title": {
-        "en-US": "Elegy in a Country Churchyard"
+        "en-US": "Elegy in a Country Churchyard",
+        "pt-BR": "Elegia num Cemitério de Aldeia"
       }
     },
     {
       "id": "ch03-the-sword-of-surprise",
       "title": {
-        "en-US": "The Sword of Surprise"
+        "en-US": "The Sword of Surprise",
+        "pt-BR": "A Espada da Surpresa"
       }
     },
     {
       "id": "ch04-a-wedding-in-war-time",
       "title": {
-        "en-US": "A Wedding in War-time"
+        "en-US": "A Wedding in War-time",
+        "pt-BR": "Um Casamento em Tempo de Guerra"
       }
     },
     {
       "id": "ch05-the-mystery",
       "title": {
-        "en-US": "The Mystery"
+        "en-US": "The Mystery",
+        "pt-BR": "O Mistério"
       }
     },
     {
       "id": "ch06-the-myth-of-arthur",
       "title": {
-        "en-US": "\"The Myth of Arthur\""
+        "en-US": "\"The Myth of Arthur\"",
+        "pt-BR": "“O Mito de Artur”"
       }
     },
     {
       "id": "ch07-the-old-song",
       "title": {
-        "en-US": "The Old Song"
+        "en-US": "The Old Song",
+        "pt-BR": "A Velha Canção"
       }
     },
     {
       "id": "ch08-the-trinkets",
       "title": {
-        "en-US": "The Trinkets"
+        "en-US": "The Trinkets",
+        "pt-BR": "As Pequenas Joias"
       }
     },
     {
       "id": "ch09-the-philanthropist",
       "title": {
-        "en-US": "The Philanthropist"
+        "en-US": "The Philanthropist",
+        "pt-BR": "O Filantropo"
       }
     },
     {
       "id": "ch10-on-the-downs",
       "title": {
-        "en-US": "On the Downs"
+        "en-US": "On the Downs",
+        "pt-BR": "Nas Colinas"
       }
     },
     {
       "id": "ch11-the-red-sea",
       "title": {
-        "en-US": "The Red Sea"
+        "en-US": "The Red Sea",
+        "pt-BR": "O Mar Vermelho"
       }
     },
     {
       "id": "ch12-for-a-war-memorial",
       "title": {
-        "en-US": "For a War Memorial"
+        "en-US": "For a War Memorial",
+        "pt-BR": "Para um Memorial de Guerra"
       }
     },
     {
       "id": "ch13-memory",
       "title": {
-        "en-US": "Memory"
+        "en-US": "Memory",
+        "pt-BR": "Memória"
       }
     },
     {
       "id": "ch14-the-english-graves",
       "title": {
-        "en-US": "The English Graves"
+        "en-US": "The English Graves",
+        "pt-BR": "Os Túmulos Ingleses"
       }
     },
     {
       "id": "ch15-nightmare",
       "title": {
-        "en-US": "Nightmare"
+        "en-US": "Nightmare",
+        "pt-BR": "Pesadelo"
       }
     },
     {
       "id": "ch16-a-second-childhood",
       "title": {
-        "en-US": "A Second Childhood"
+        "en-US": "A Second Childhood",
+        "pt-BR": "Uma Segunda Infância"
       }
     },
     {
       "id": "ch17-medivalism",
       "title": {
-        "en-US": "\"Mediævalism\""
+        "en-US": "\"Mediævalism\"",
+        "pt-BR": "“Medievalismo”"
       }
     },
     {
       "id": "ch18-poland",
       "title": {
-        "en-US": "Poland"
+        "en-US": "Poland",
+        "pt-BR": "Polônia"
       }
     },
     {
       "id": "ch19-the-hunting-of-the-dragon",
       "title": {
-        "en-US": "The Hunting of the Dragon"
+        "en-US": "The Hunting of the Dragon",
+        "pt-BR": "A Caça ao Dragão"
       }
     },
     {
       "id": "ch20-sonnet",
       "title": {
-        "en-US": "Sonnet"
+        "en-US": "Sonnet",
+        "pt-BR": "Soneto"
       }
     },
     {
       "id": "ch21-fantasia",
       "title": {
-        "en-US": "Fantasia"
+        "en-US": "Fantasia",
+        "pt-BR": "Fantasia"
       }
     },
     {
       "id": "ch22-a-christmas-carol",
       "title": {
-        "en-US": "A Christmas Carol"
+        "en-US": "A Christmas Carol",
+        "pt-BR": "Um Cântico de Natal"
       }
     },
     {
       "id": "ch23-to-captain-fryatt",
       "title": {
-        "en-US": "To Captain Fryatt"
+        "en-US": "To Captain Fryatt",
+        "pt-BR": "Ao Capitão Fryatt"
       }
     },
     {
       "id": "ch24-for-four-guilds",
       "title": {
-        "en-US": "For Four Guilds:"
+        "en-US": "For Four Guilds:",
+        "pt-BR": "Para Quatro Corporações de Ofício:"
       }
     },
     {
       "id": "ch25-the-glass-stainers",
       "title": {
-        "en-US": "I. The Glass-Stainers"
+        "en-US": "I. The Glass-Stainers",
+        "pt-BR": "I. Os Vitraleiros"
       }
     },
     {
       "id": "ch26-the-bridge-builders",
       "title": {
-        "en-US": "II. The Bridge-Builders"
+        "en-US": "II. The Bridge-Builders",
+        "pt-BR": "II. Os Construtores de Pontes"
       }
     },
     {
       "id": "ch27-the-stone-masons",
       "title": {
-        "en-US": "III. The Stone-Masons"
+        "en-US": "III. The Stone-Masons",
+        "pt-BR": "III. Os Pedreiros"
       }
     },
     {
       "id": "ch28-the-bell-ringers",
       "title": {
-        "en-US": "IV. The Bell-Ringers"
+        "en-US": "IV. The Bell-Ringers",
+        "pt-BR": "IV. Os Sineiros"
       }
     },
     {
       "id": "ch29-the-convert",
       "title": {
-        "en-US": "The Convert"
+        "en-US": "The Convert",
+        "pt-BR": "O Convertido"
       }
     },
     {
       "id": "ch30-songs-of-education",
       "title": {
-        "en-US": "Songs of Education:"
+        "en-US": "Songs of Education:",
+        "pt-BR": "Canções da Educação:"
       }
     },
     {
       "id": "ch31-history",
       "title": {
-        "en-US": "I. History"
+        "en-US": "I. History",
+        "pt-BR": "I. História"
       }
     },
     {
       "id": "ch32-geography",
       "title": {
-        "en-US": "II. Geography"
+        "en-US": "II. Geography",
+        "pt-BR": "II. Geografia"
       }
     },
     {
       "id": "ch33-for-the-creche",
       "title": {
-        "en-US": "III. For the Crêche"
+        "en-US": "III. For the Crêche",
+        "pt-BR": "III. Para a Creche"
       }
     },
     {
       "id": "ch34-citizenship",
       "title": {
-        "en-US": "IV. Citizenship"
+        "en-US": "IV. Citizenship",
+        "pt-BR": "IV. Cidadania"
       }
     },
     {
       "id": "ch35-the-higher-mathematics",
       "title": {
-        "en-US": "V. The Higher Mathematics"
+        "en-US": "V. The Higher Mathematics",
+        "pt-BR": "V. A Matemática Superior"
       }
     },
     {
       "id": "ch36-hygiene",
       "title": {
-        "en-US": "VI. Hygiene"
+        "en-US": "VI. Hygiene",
+        "pt-BR": "VI. Higiene"
       }
     }
   ]
