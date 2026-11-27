@@ -19,7 +19,8 @@
   "composed": "1870",
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "councils/vatican-i",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "Authorized English translation (H. E. Manning, 1871), ed. Vincent McNabb, O.P.",
       "year": 1907
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -55,14 +61,16 @@
       "id": "dei-filius",
       "title": {
         "la": "Constitutio dogmatica Dei Filius de fide catholica",
-        "en-US": "Dogmatic Constitution Dei Filius on the Catholic Faith"
+        "en-US": "Dogmatic Constitution Dei Filius on the Catholic Faith",
+        "pt-BR": "Constituição dogmática Dei Filius sobre a fé católica"
       }
     },
     {
       "id": "pastor-aeternus",
       "title": {
         "la": "Constitutio dogmatica prima Pastor aeternus de Ecclesia Christi",
-        "en-US": "First Dogmatic Constitution Pastor Aeternus on the Church of Christ"
+        "en-US": "First Dogmatic Constitution Pastor Aeternus on the Church of Christ",
+        "pt-BR": "Primeira constituição dogmática Pastor aeternus sobre a Igreja de Cristo"
       }
     }
   ]
