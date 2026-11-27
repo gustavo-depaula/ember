@@ -15,13 +15,19 @@
   },
   "composed": "1937",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/paradoxes-of-mr-pond",
   "editions": {
     "en-US": {
       "editor": "Cassell & Co.",
       "year": 1937
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,49 +44,57 @@
     {
       "id": "ch01-the-three-horsemen-of-apocalypse",
       "title": {
-        "en-US": "The Three Horsemen of Apocalypse"
+        "en-US": "The Three Horsemen of Apocalypse",
+        "pt-BR": "Os Três Cavaleiros do Apocalipse"
       }
     },
     {
       "id": "ch02-the-crime-of-captain-gahagan",
       "title": {
-        "en-US": "The Crime of Captain Gahagan"
+        "en-US": "The Crime of Captain Gahagan",
+        "pt-BR": "O Crime do Capitão Gahagan"
       }
     },
     {
       "id": "ch03-when-doctors-agree",
       "title": {
-        "en-US": "When Doctors Agree"
+        "en-US": "When Doctors Agree",
+        "pt-BR": "Quando os Médicos Concordam"
       }
     },
     {
       "id": "ch04-pond-the-pantaloon",
       "title": {
-        "en-US": "Pond the Pantaloon"
+        "en-US": "Pond the Pantaloon",
+        "pt-BR": "Pond o Pantalone"
       }
     },
     {
       "id": "ch05-the-unmentionable-man",
       "title": {
-        "en-US": "The Unmentionable Man"
+        "en-US": "The Unmentionable Man",
+        "pt-BR": "O Homem Impronunciável"
       }
     },
     {
       "id": "ch06-ring-of-lovers",
       "title": {
-        "en-US": "Ring of Lovers"
+        "en-US": "Ring of Lovers",
+        "pt-BR": "Anel de Amantes"
       }
     },
     {
       "id": "ch07-the-terrible-troubadour",
       "title": {
-        "en-US": "The Terrible Troubadour"
+        "en-US": "The Terrible Troubadour",
+        "pt-BR": "O Trovador Terrível"
       }
     },
     {
       "id": "ch08-a-tall-story",
       "title": {
-        "en-US": "A Tall Story"
+        "en-US": "A Tall Story",
+        "pt-BR": "Uma História Alta"
       }
     }
   ]
