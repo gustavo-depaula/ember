@@ -18,13 +18,19 @@
   },
   "composed": "418",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/gesta-cum-emerito",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,7 +47,8 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Gesta cum Emerito Donatistarum episcopo"
+        "la": "Gesta cum Emerito Donatistarum episcopo",
+        "pt-BR": "Atas com Emérito, bispo donatista"
       }
     }
   ],
