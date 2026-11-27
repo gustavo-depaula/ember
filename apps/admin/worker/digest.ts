@@ -48,7 +48,7 @@ export async function buildDigest(env: Env): Promise<Digest> {
   ])
   const { pulse, newcomers } = overview
   const worstBuild = [...health.builds]
-    .filter((b) => b.installs >= 5)
+    .filter((b) => b.installs >= 5 && b.erring > 0)
     .sort((a, b) => b.erring / b.installs - a.erring / a.installs)[0]
 
   const all: { heading: string; lines: Line[] }[] = [
