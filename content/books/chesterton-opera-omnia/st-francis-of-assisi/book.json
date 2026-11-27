@@ -11,17 +11,23 @@
   },
   "description": {
     "en-US": "Chesterton's biography of the Poverello, written, in his own phrase, neither as secular history nor as a collection of pious tales but as the story of a man who was a troubadour of God. Ten chapters follow Francis from the merchant's house to the Testament, set against the medieval world he found and changed.",
-    "pt-BR": "A biografia do Poverello escrita por Chesterton, não como história secular nem como coletânea de relatos piedosos, mas como a história de um homem que foi o jogral de Deus. Dez capítulos acompanham Francisco da casa do mercador ao Testamento, diante do mundo medieval que ele encontrou e transformou."
+    "pt-BR": "A biografia do Poverello escrita por Chesterton, não como história secular nem como coletânea de relatos piedosos, mas como a história de um homem que foi um trovador de Deus. Dez capítulos acompanham Francisco da casa do mercador ao Testamento, diante do mundo medieval que ele encontrou e transformou."
   },
   "composed": "1923",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/st-francis-of-assisi",
   "editions": {
     "en-US": {
       "publisher": "Hodder & Stoughton, London (People's Library)",
       "year": 1923
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,61 +44,71 @@
     {
       "id": "ch01-the-problem-of-st-francis",
       "title": {
-        "en-US": "I. The Problem of St. Francis"
+        "en-US": "I. The Problem of St. Francis",
+        "pt-BR": "I. O Problema de São Francisco"
       }
     },
     {
       "id": "ch02-the-world-st-francis-found",
       "title": {
-        "en-US": "II. The World St. Francis Found"
+        "en-US": "II. The World St. Francis Found",
+        "pt-BR": "II. O Mundo que São Francisco Encontrou"
       }
     },
     {
       "id": "ch03-francis-the-fighter",
       "title": {
-        "en-US": "III. Francis the Fighter"
+        "en-US": "III. Francis the Fighter",
+        "pt-BR": "III. Francisco, o Combatente"
       }
     },
     {
       "id": "ch04-francis-the-builder",
       "title": {
-        "en-US": "IV. Francis the Builder"
+        "en-US": "IV. Francis the Builder",
+        "pt-BR": "IV. Francisco, o Construtor"
       }
     },
     {
       "id": "ch05-le-jongleur-de-dieu",
       "title": {
-        "en-US": "V. Le Jongleur de Dieu"
+        "en-US": "V. Le Jongleur de Dieu",
+        "pt-BR": "V. O Jogral de Deus"
       }
     },
     {
       "id": "ch06-the-little-poor-man",
       "title": {
-        "en-US": "VI. The Little Poor Man"
+        "en-US": "VI. The Little Poor Man",
+        "pt-BR": "VI. O Pobrezinho"
       }
     },
     {
       "id": "ch07-the-three-orders",
       "title": {
-        "en-US": "VII. The Three Orders"
+        "en-US": "VII. The Three Orders",
+        "pt-BR": "VII. As Três Ordens"
       }
     },
     {
       "id": "ch08-the-mirror-of-christ",
       "title": {
-        "en-US": "VIII. The Mirror of Christ"
+        "en-US": "VIII. The Mirror of Christ",
+        "pt-BR": "VIII. O Espelho de Cristo"
       }
     },
     {
       "id": "ch09-miracles-and-death",
       "title": {
-        "en-US": "IX. Miracles and Death"
+        "en-US": "IX. Miracles and Death",
+        "pt-BR": "IX. Milagres e Morte"
       }
     },
     {
       "id": "ch10-the-testament-of-st-francis",
       "title": {
-        "en-US": "X. The Testament of St. Francis"
+        "en-US": "X. The Testament of St. Francis",
+        "pt-BR": "X. O Testamento de São Francisco"
       }
     }
   ]
