@@ -1,0 +1,5 @@
+# Nota
+
+ESTA peça foi apresentada sob a direção de Kenelm Foss no The Little Theatre, em Londres, em 7 de novembro de 1913, com o seguinte elenco:
+
+O DESCONHECIDO FRANKLIN DYALL PATRICIA CARLEON SRTA. GRACE CROFT O REV. CYRIL SMITH O.P. HEGGIE DR. GRIMTHORPE WILLIAM FARREN O DUQUE FRED LEWIS HASTINGS FRANK RANDELL MORRIS CARLEON LYONEL WATTS

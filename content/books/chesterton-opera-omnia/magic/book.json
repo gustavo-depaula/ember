@@ -11,17 +11,23 @@
   },
   "description": {
     "en-US": "Chesterton's stage comedy: a conjuror, a duke's sister who believes in fairies and a sceptical doctor, set at a tea-party in an English country house, with the question underneath of whether the supernatural is real.",
-    "pt-BR": "A comédia teatral de Chesterton: um ilusionista, a irmã de um duque que acredita em fadas e um médico cético, num chá numa casa de campo inglesa, com a pergunta de fundo sobre se o sobrenatural é real."
+    "pt-BR": "A comédia teatral de Chesterton: um ilusionista, a sobrinha de um duque que acredita em fadas e um médico cético, num chá numa casa de campo inglesa, com a pergunta de fundo sobre se o sobrenatural é real."
   },
   "composed": "1913",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/magic",
   "editions": {
     "en-US": {
       "editor": "Dodd, Mead and Company",
       "year": 1913
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,25 +44,29 @@
     {
       "id": "ch01-note",
       "title": {
-        "en-US": "Note"
+        "en-US": "Note",
+        "pt-BR": "Nota"
       }
     },
     {
       "id": "ch02-the-prelude",
       "title": {
-        "en-US": "The Prelude"
+        "en-US": "The Prelude",
+        "pt-BR": "O Prelúdio"
       }
     },
     {
       "id": "ch03-act-ii",
       "title": {
-        "en-US": "Act II"
+        "en-US": "Act II",
+        "pt-BR": "Ato II"
       }
     },
     {
       "id": "ch04-act-iii",
       "title": {
-        "en-US": "Act III"
+        "en-US": "Act III",
+        "pt-BR": "Ato III"
       }
     }
   ]
