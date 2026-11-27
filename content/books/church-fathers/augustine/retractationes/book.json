@@ -18,13 +18,19 @@
   },
   "composed": "426-427",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/retractationes",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,25 +47,29 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Prologus"
+        "la": "Prologus",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "Liber I, Capita 1–13"
+        "la": "Liber I, Capita 1–13",
+        "pt-BR": "Livro I, Capítulos 1–13"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "la": "Liber I, Capita 14–27"
+        "la": "Liber I, Capita 14–27",
+        "pt-BR": "Livro I, Capítulos 14–27"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "la": "Liber II"
+        "la": "Liber II",
+        "pt-BR": "Livro II"
       }
     }
   ],
