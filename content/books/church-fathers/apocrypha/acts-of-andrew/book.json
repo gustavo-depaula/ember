@@ -2,13 +2,16 @@
   "id": "apocrypha-acts-of-andrew",
   "cover": "quarter",
   "name": {
-    "en-US": "Acts of Andrew (c. 260)"
+    "en-US": "Acts of Andrew (c. 260)",
+    "pt-BR": "Atos de André (c. 260)"
   },
   "author": {
-    "en-US": "Apocrypha"
+    "en-US": "Apocrypha",
+    "pt-BR": "Apócrifos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,11 +24,19 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Acts of Andrew (c. 260)"
+        "en-US": "Acts of Andrew (c. 260)",
+        "pt-BR": "Atos de André (c. 260)"
       }
     }
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
