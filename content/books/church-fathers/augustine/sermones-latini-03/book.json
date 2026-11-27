@@ -18,13 +18,19 @@
   },
   "composed": "date varies",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/sermones",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,235 +47,274 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Sermo 47"
+        "la": "Sermo 47",
+        "pt-BR": "Sermão 47"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "Sermo 48"
+        "la": "Sermo 48",
+        "pt-BR": "Sermão 48"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "la": "Sermo 49"
+        "la": "Sermo 49",
+        "pt-BR": "Sermão 49"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "la": "Sermo 49/A"
+        "la": "Sermo 49/A",
+        "pt-BR": "Sermão 49/A"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "la": "Sermo 50"
+        "la": "Sermo 50",
+        "pt-BR": "Sermão 50"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "la": "Sermo 53/A"
+        "la": "Sermo 53/A",
+        "pt-BR": "Sermão 53/A"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "la": "Sermo 60/A"
+        "la": "Sermo 60/A",
+        "pt-BR": "Sermão 60/A"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "la": "Sermo 61/A"
+        "la": "Sermo 61/A",
+        "pt-BR": "Sermão 61/A"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "la": "Sermo 62/A"
+        "la": "Sermo 62/A",
+        "pt-BR": "Sermão 62/A"
       }
     },
     {
       "id": "ch010",
       "title": {
-        "la": "Sermo 63/A"
+        "la": "Sermo 63/A",
+        "pt-BR": "Sermão 63/A"
       }
     },
     {
       "id": "ch011",
       "title": {
-        "la": "Sermo 63/B"
+        "la": "Sermo 63/B",
+        "pt-BR": "Sermão 63/B"
       }
     },
     {
       "id": "ch012",
       "title": {
-        "la": "Sermo 64/A"
+        "la": "Sermo 64/A",
+        "pt-BR": "Sermão 64/A"
       }
     },
     {
       "id": "ch013",
       "title": {
-        "la": "Sermo 65/A"
+        "la": "Sermo 65/A",
+        "pt-BR": "Sermão 65/A"
       }
     },
     {
       "id": "ch014",
       "title": {
-        "la": "Sermo 70/A"
+        "la": "Sermo 70/A",
+        "pt-BR": "Sermão 70/A"
       }
     },
     {
       "id": "ch015",
       "title": {
-        "la": "Sermo 72/A"
+        "la": "Sermo 72/A",
+        "pt-BR": "Sermão 72/A"
       }
     },
     {
       "id": "ch016",
       "title": {
-        "la": "Sermo 73/A"
+        "la": "Sermo 73/A",
+        "pt-BR": "Sermão 73/A"
       }
     },
     {
       "id": "ch017",
       "title": {
-        "la": "Sermo 77/A"
+        "la": "Sermo 77/A",
+        "pt-BR": "Sermão 77/A"
       }
     },
     {
       "id": "ch018",
       "title": {
-        "la": "Sermo 77/B"
+        "la": "Sermo 77/B",
+        "pt-BR": "Sermão 77/B"
       }
     },
     {
       "id": "ch019",
       "title": {
-        "la": "Sermo 77/C"
+        "la": "Sermo 77/C",
+        "pt-BR": "Sermão 77/C"
       }
     },
     {
       "id": "ch020",
       "title": {
-        "la": "Sermo 79/A"
+        "la": "Sermo 79/A",
+        "pt-BR": "Sermão 79/A"
       }
     },
     {
       "id": "ch021",
       "title": {
-        "la": "Sermo 94/A"
+        "la": "Sermo 94/A",
+        "pt-BR": "Sermão 94/A"
       }
     },
     {
       "id": "ch022",
       "title": {
-        "la": "Sermo 97/A"
+        "la": "Sermo 97/A",
+        "pt-BR": "Sermão 97/A"
       }
     },
     {
       "id": "ch023",
       "title": {
-        "la": "Sermo 105/A"
+        "la": "Sermo 105/A",
+        "pt-BR": "Sermão 105/A"
       }
     },
     {
       "id": "ch024",
       "title": {
-        "la": "Sermo 107/A"
+        "la": "Sermo 107/A",
+        "pt-BR": "Sermão 107/A"
       }
     },
     {
       "id": "ch025",
       "title": {
-        "la": "Sermo 112/A"
+        "la": "Sermo 112/A",
+        "pt-BR": "Sermão 112/A"
       }
     },
     {
       "id": "ch026",
       "title": {
-        "la": "Sermo 113/A"
+        "la": "Sermo 113/A",
+        "pt-BR": "Sermão 113/A"
       }
     },
     {
       "id": "ch027",
       "title": {
-        "la": "Sermo 113/B"
+        "la": "Sermo 113/B",
+        "pt-BR": "Sermão 113/B"
       }
     },
     {
       "id": "ch028",
       "title": {
-        "la": "Sermo 114/A"
+        "la": "Sermo 114/A",
+        "pt-BR": "Sermão 114/A"
       }
     },
     {
       "id": "ch029",
       "title": {
-        "la": "Sermo 125/A"
+        "la": "Sermo 125/A",
+        "pt-BR": "Sermão 125/A"
       }
     },
     {
       "id": "ch030",
       "title": {
-        "la": "Sermo 132/A"
+        "la": "Sermo 132/A",
+        "pt-BR": "Sermão 132/A"
       }
     },
     {
       "id": "ch031",
       "title": {
-        "la": "Sermo 136/A"
+        "la": "Sermo 136/A",
+        "pt-BR": "Sermão 136/A"
       }
     },
     {
       "id": "ch032",
       "title": {
-        "la": "Sermo 136/B"
+        "la": "Sermo 136/B",
+        "pt-BR": "Sermão 136/B"
       }
     },
     {
       "id": "ch033",
       "title": {
-        "la": "Sermo 136/C"
+        "la": "Sermo 136/C",
+        "pt-BR": "Sermão 136/C"
       }
     },
     {
       "id": "ch034",
       "title": {
-        "la": "Sermo 139/A"
+        "la": "Sermo 139/A",
+        "pt-BR": "Sermão 139/A"
       }
     },
     {
       "id": "ch035",
       "title": {
-        "la": "Sermo 140/A"
+        "la": "Sermo 140/A",
+        "pt-BR": "Sermão 140/A"
       }
     },
     {
       "id": "ch036",
       "title": {
-        "la": "Sermo 145/A"
+        "la": "Sermo 145/A",
+        "pt-BR": "Sermão 145/A"
       }
     },
     {
       "id": "ch037",
       "title": {
-        "la": "Sermo 147/A"
+        "la": "Sermo 147/A",
+        "pt-BR": "Sermão 147/A"
       }
     },
     {
       "id": "ch038",
       "title": {
-        "la": "Sermo 148"
+        "la": "Sermo 148",
+        "pt-BR": "Sermão 148"
       }
     },
     {
       "id": "ch039",
       "title": {
-        "la": "Sermo 149"
+        "la": "Sermo 149",
+        "pt-BR": "Sermão 149"
       }
     }
   ],
