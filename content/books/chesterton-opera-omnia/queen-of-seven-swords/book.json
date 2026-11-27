@@ -15,13 +15,19 @@
   },
   "composed": "1926",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/queen-of-seven-swords",
   "editions": {
     "en-US": {
       "editor": "Cecil Palmer",
       "year": 1926
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,151 +44,176 @@
     {
       "id": "ch01-in-memoriam",
       "title": {
-        "en-US": "In Memoriam"
+        "en-US": "In Memoriam",
+        "pt-BR": "In Memoriam"
       }
     },
     {
       "id": "ch02-the-white-witch",
       "title": {
-        "en-US": "The White Witch"
+        "en-US": "The White Witch",
+        "pt-BR": "A Bruxa Branca"
       }
     },
     {
       "id": "ch03-the-return-of-eve",
       "title": {
-        "en-US": "The Return of Eve"
+        "en-US": "The Return of Eve",
+        "pt-BR": "O Retorno de Eva"
       }
     },
     {
       "id": "ch04-a-party-question",
       "title": {
-        "en-US": "A Party Question"
+        "en-US": "A Party Question",
+        "pt-BR": "Uma Questão de Partido"
       }
     },
     {
       "id": "ch05-a-little-litany",
       "title": {
-        "en-US": "A Little Litany"
+        "en-US": "A Little Litany",
+        "pt-BR": "Uma Pequena Ladainha"
       }
     },
     {
       "id": "ch06-the-ballad-of-king-arthur",
       "title": {
-        "en-US": "The Ballad of King Arthur"
+        "en-US": "The Ballad of King Arthur",
+        "pt-BR": "A Balada do Rei Artur"
       }
     },
     {
       "id": "ch07-regina-angelorum",
       "title": {
-        "en-US": "Regina Angelorum"
+        "en-US": "Regina Angelorum",
+        "pt-BR": "Regina Angelorum"
       }
     },
     {
       "id": "ch08-the-paradox",
       "title": {
-        "en-US": "The Paradox"
+        "en-US": "The Paradox",
+        "pt-BR": "O Paradoxo"
       }
     },
     {
       "id": "ch09-the-towers-of-time",
       "title": {
-        "en-US": "The Towers of Time"
+        "en-US": "The Towers of Time",
+        "pt-BR": "As Torres do Tempo"
       }
     },
     {
       "id": "ch10-the-two-maidens",
       "title": {
-        "en-US": "The Two Maidens"
+        "en-US": "The Two Maidens",
+        "pt-BR": "As Duas Donzelas"
       }
     },
     {
       "id": "ch11-an-agreement",
       "title": {
-        "en-US": "An Agreement"
+        "en-US": "An Agreement",
+        "pt-BR": "Um Acordo"
       }
     },
     {
       "id": "ch12-in-october",
       "title": {
-        "en-US": "In October"
+        "en-US": "In October",
+        "pt-BR": "Em Outubro"
       }
     },
     {
       "id": "ch13-laughter",
       "title": {
-        "en-US": "Laughter"
+        "en-US": "Laughter",
+        "pt-BR": "Riso"
       }
     },
     {
       "id": "ch14-the-black-virgin",
       "title": {
-        "en-US": "The Black Virgin"
+        "en-US": "The Black Virgin",
+        "pt-BR": "A Virgem Negra"
       }
     },
     {
       "id": "ch15-images",
       "title": {
-        "en-US": "Images"
+        "en-US": "Images",
+        "pt-BR": "Imagens"
       }
     },
     {
       "id": "ch16-the-trinkets",
       "title": {
-        "en-US": "The Trinkets"
+        "en-US": "The Trinkets",
+        "pt-BR": "As Bugigangas"
       }
     },
     {
       "id": "ch17-the-queen-of-seven-swords",
       "title": {
-        "en-US": "The Queen of Seven Swords"
+        "en-US": "The Queen of Seven Swords",
+        "pt-BR": "A Rainha das Sete Espadas"
       }
     },
     {
       "id": "ch18-saint-james-of-spain",
       "title": {
-        "en-US": "Saint James of Spain"
+        "en-US": "Saint James of Spain",
+        "pt-BR": "São Tiago da Espanha"
       }
     },
     {
       "id": "ch19-saint-denys-of-france",
       "title": {
-        "en-US": "Saint Denys of France"
+        "en-US": "Saint Denys of France",
+        "pt-BR": "São Dionísio da França"
       }
     },
     {
       "id": "ch20-saint-anthony-of-italy",
       "title": {
-        "en-US": "Saint Anthony of Italy"
+        "en-US": "Saint Anthony of Italy",
+        "pt-BR": "Santo Antônio da Itália"
       }
     },
     {
       "id": "ch21-saint-patrick-of-ireland",
       "title": {
-        "en-US": "Saint Patrick of Ireland"
+        "en-US": "Saint Patrick of Ireland",
+        "pt-BR": "São Patrício da Irlanda"
       }
     },
     {
       "id": "ch22-saint-andrew-of-scotland",
       "title": {
-        "en-US": "Saint Andrew of Scotland"
+        "en-US": "Saint Andrew of Scotland",
+        "pt-BR": "Santo André da Escócia"
       }
     },
     {
       "id": "ch23-saint-david-of-wales",
       "title": {
-        "en-US": "Saint David of Wales"
+        "en-US": "Saint David of Wales",
+        "pt-BR": "São Davi de Gales"
       }
     },
     {
       "id": "ch24-saint-george-of-england",
       "title": {
-        "en-US": "Saint George of England"
+        "en-US": "Saint George of England",
+        "pt-BR": "São Jorge da Inglaterra"
       }
     },
     {
       "id": "ch25-all-the-seven",
       "title": {
-        "en-US": "All the Seven"
+        "en-US": "All the Seven",
+        "pt-BR": "Todos os Sete"
       }
     }
   ]
