@@ -2,13 +2,16 @@
   "id": "aphrahat-aphraates-demonstrations",
   "cover": "quarter",
   "name": {
-    "en-US": "Demonstrations"
+    "en-US": "Demonstrations",
+    "pt-BR": "Demonstrações"
   },
   "author": {
-    "en-US": "Aphrahat/Aphraates (c. 280-367)"
+    "en-US": "Aphrahat/Aphraates (c. 280-367)",
+    "pt-BR": "Afrahat/Afraates (c. 280-367)"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,53 +24,68 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Demonstration I"
+        "en-US": "Demonstration I",
+        "pt-BR": "Demonstração I"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Demonstration V"
+        "en-US": "Demonstration V",
+        "pt-BR": "Demonstração V"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Demonstration VI"
+        "en-US": "Demonstration VI",
+        "pt-BR": "Demonstração VI"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Demonstration VIII"
+        "en-US": "Demonstration VIII",
+        "pt-BR": "Demonstração VIII"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "Demonstration X"
+        "en-US": "Demonstration X",
+        "pt-BR": "Demonstração X"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "Demonstration XVII"
+        "en-US": "Demonstration XVII",
+        "pt-BR": "Demonstração XVII"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "en-US": "Demonstration XXI"
+        "en-US": "Demonstration XXI",
+        "pt-BR": "Demonstração XXI"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "en-US": "Demonstration XXII"
+        "en-US": "Demonstration XXII",
+        "pt-BR": "Demonstração XXII"
       }
     }
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
