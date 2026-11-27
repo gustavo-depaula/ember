@@ -1,5 +1,12 @@
 export { AdoptSheet } from './AdoptSheet'
-export { adoptTemplate, type Proposal, practicesInRule, proposalsOf } from './adopt'
+export {
+  adoptTemplate,
+  customsInRule,
+  type Proposal,
+  practicesInRule,
+  proposalsOf,
+  withCustoms,
+} from './adopt'
 export { cadenceLabel } from './cadence'
 export {
   type TemplateListItem,

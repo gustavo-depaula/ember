@@ -170,9 +170,11 @@ describe('the plan of the Work', () => {
   it('moves confession to Friday, silences one norm, and schedules the rest', async () => {
     const { screen, user } = await boot({ language: 'pt-BR' })
     await user.click(await screen.findByTestId('onboarding-reason-obra'))
-    await user.click(await screen.findByRole('button', { name: 'Adotar este plano' }))
+    // One custom picked beside the norms: Psalm 2 on Tuesdays.
+    await user.click(await screen.findByTestId('template-custom-psalm-2'))
+    await user.click(await screen.findByRole('button', { name: 'Adotar este plano e 1 costume' }))
     await expect.poll(currentPath).toBe('/onboarding/reminders')
-    expect(plan()).toHaveLength(14)
+    expect(plan()).toHaveLength(16)
 
     await user.click(await screen.findByTestId('reminder-day-practice/confession'))
     await user.click(await screen.findByTestId('reminder-weekday-5'))
@@ -185,11 +187,16 @@ describe('the plan of the Work', () => {
     await expect.poll(currentPath).toBe('/onboarding/pray')
 
     expect(parseNotifyConfig(slotOf('practice/preces-opus-dei')?.notify)).toBeUndefined()
-    // Twelve daily norms ring, the muted one does not; confession rings on Friday.
-    expect(slotsRinging('daily')).toBe(12)
-    const [confession] = triggersOfType('weekly')
-    expect(triggersOfType('weekly')).toHaveLength(1)
-    expect(confession.trigger).toMatchObject({ weekday: 6, hour: 10, minute: 0 })
+    // Thirteen daily norms ring, the muted one does not; confession rings on
+    // Friday, the psalm on Tuesday.
+    expect(slotsRinging('daily')).toBe(13)
+    expect(triggersOfType('weekly').map((r) => r.trigger)).toEqual(
+      expect.arrayContaining([
+        expect.objectContaining({ weekday: 6, hour: 10, minute: 0 }),
+        expect.objectContaining({ weekday: 3, hour: 6, minute: 30 }),
+      ]),
+    )
+    expect(triggersOfType('weekly')).toHaveLength(2)
     expect(scheduled().some((r) => r.content.title?.match(/Preces/))).toBe(false)
   }, 60_000)
 })

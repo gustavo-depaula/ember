@@ -483,6 +483,11 @@ export type PlanOfLifeTemplateManifest = {
   icon?: string
   tags?: string[]
   practices: PlanOfLifeTemplatePractice[]
+  /**
+   * What the tradition keeps beside its rule (Opus Dei's customs): offered one
+   * by one on its page, adopted only when picked.
+   */
+  customs?: PlanOfLifeTemplatePracticeRef[]
   /** Collection refs (e.g. `collection/carmelite`) to pre-pin alongside the plan. */
   collections?: string[]
 }

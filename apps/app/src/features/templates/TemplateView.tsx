@@ -1,4 +1,5 @@
-import type { ReactNode } from 'react'
+import { type ReactNode, useState } from 'react'
+import { useTranslation } from 'react-i18next'
 import Animated, { useAnimatedScrollHandler, useSharedValue } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme, YStack } from 'tamagui'
@@ -13,15 +14,20 @@ import type { PlanOfLifeTemplateManifest } from '@/content/manifestTypes'
 import { PrologueProse } from '@/features/collections'
 import { artFor } from '@/features/explore/artMap'
 import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
+import { useSlots } from '@/features/plan-of-life'
 import { localizeContent } from '@/lib/i18n'
 
+import { customsInRule, withCustoms } from './adopt'
+import { TemplateCustoms } from './TemplateCustoms'
 import { TemplateHero } from './TemplateHero'
 import { TemplateString } from './TemplateString'
 
 /**
  * A tradition's page, alike in onboarding and the plan sheet: its painting and
  * name, the manifesto's opening paragraph, the rule as the string it will make,
- * and the one way in (`action`), with an optional `footer` under it.
+ * the customs to pick beside it (when it keeps any), and the one way in
+ * (`action`, handed the template with the picked customs joined to its rule),
+ * with an optional `footer` under it.
  */
 export function TemplateView({
   manifest,
@@ -29,10 +35,27 @@ export function TemplateView({
   footer,
 }: {
   manifest: PlanOfLifeTemplateManifest
-  action: { label: string; onPress: () => void; busy?: boolean }
+  action: {
+    label: string
+    onPress: (template: PlanOfLifeTemplateManifest) => void
+    busy?: boolean
+  }
   footer?: ReactNode
 }) {
+  const { t } = useTranslation()
   const theme = useTheme()
+  const slots = useSlots()
+  // Customs the plan keeps already show on; the rest wait to be picked.
+  const [chosen, setChosen] = useState(() =>
+    customsInRule(manifest, new Set(slots.map((s) => s.practice_id))),
+  )
+  const toggle = (index: number) =>
+    setChosen((prev) => {
+      const next = new Set(prev)
+      if (next.has(index)) next.delete(index)
+      else next.add(index)
+      return next
+    })
   const insets = useSafeAreaInsets()
   const bottomClearance = useBottomClearance()
   const { expanded } = useWidthClass()
@@ -49,9 +72,16 @@ export function TemplateView({
   const proposal = (
     <>
       <TemplateString template={manifest} />
+      {manifest.customs?.length ? (
+        <TemplateCustoms customs={manifest.customs} chosen={chosen} onToggle={toggle} />
+      ) : null}
       <Slab
-        label={action.label}
-        onPress={action.onPress}
+        label={
+          chosen.size
+            ? t('templates.adoptWithCustoms', { label: action.label, count: chosen.size })
+            : action.label
+        }
+        onPress={() => action.onPress(withCustoms(manifest, chosen))}
         busy={action.busy}
         testID="template-adopt"
       />

@@ -22,9 +22,9 @@ export function AdoptStep({ templateId }: { templateId: string }) {
       action={{
         label: t('onboarding.adopt'),
         busy: adopt.isPending,
-        onPress: () =>
+        onPress: (template) =>
           adopt.mutate(
-            { template: manifest },
+            { template },
             {
               onSuccess: () => router.push('/onboarding/reminders'),
               onError: reportFailure,

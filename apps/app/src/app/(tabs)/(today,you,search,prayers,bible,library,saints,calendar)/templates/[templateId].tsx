@@ -3,8 +3,8 @@ import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { YStack } from 'tamagui'
-
 import { Typography } from '@/components/typography'
+import type { PlanOfLifeTemplateManifest } from '@/content/manifestTypes'
 import { AdoptSheet, TemplateView, useTemplateManifest } from '@/features/templates'
 
 export default function TemplateDetailScreen() {
@@ -12,7 +12,8 @@ export default function TemplateDetailScreen() {
   const { t } = useTranslation()
   const insets = useSafeAreaInsets()
   const router = useRouter()
-  const [adopting, setAdopting] = useState(false)
+  // The template to adopt, with the customs picked on the page; none while the sheet is shut.
+  const [adopting, setAdopting] = useState<PlanOfLifeTemplateManifest>()
 
   const { data: manifest, entryExists, catalogReady } = useTemplateManifest(templateId)
 
@@ -34,12 +35,14 @@ export default function TemplateDetailScreen() {
     <>
       <TemplateView
         manifest={manifest}
-        action={{ label: t('templates.adopt'), onPress: () => setAdopting(true) }}
+        action={{ label: t('onboarding.adopt'), onPress: setAdopting }}
       />
       <AdoptSheet
-        template={manifest}
-        open={adopting}
-        onClose={() => setAdopting(false)}
+        // Its picks start from the template it opens with, customs included.
+        key={adopting?.practices.length ?? 0}
+        template={adopting ?? manifest}
+        open={!!adopting}
+        onClose={() => setAdopting(undefined)}
         onAdopted={() => router.push('/you')}
       />
     </>

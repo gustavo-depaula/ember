@@ -157,6 +157,78 @@
         "en-US": "Three Hail Marys before sleep, asking Our Lady for the gift of holy purity to guard the day just ended and the one to come.",
         "pt-BR": "Três Ave-Marias antes de dormir, pedindo a Nossa Senhora o dom da santa pureza para guardar o dia que termina e o que há de vir."
       }
+    },
+    {
+      "ref": "holy-water-opus-dei",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "22:35",
+      "note": {
+        "en-US": "On going to bed, the sign of the cross with holy water, the night placed under Our Lady's protection.",
+        "pt-BR": "Ao deitar, o sinal da cruz com água benta, pondo a noite sob a proteção de Nossa Senhora."
+      }
+    }
+  ],
+  "customs": [
+    {
+      "ref": "memorare",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "time": "07:40",
+      "note": {
+        "en-US": "The Memorare each morning, entrusting the day to Our Lady.",
+        "pt-BR": "O Lembrai-vos a cada manhã, confiando o dia a Nossa Senhora."
+      }
+    },
+    {
+      "ref": "psalm-2",
+      "tier": "ideal",
+      "schedule": { "type": "days-of-week", "days": [2] },
+      "time": "06:30",
+      "note": {
+        "en-US": "On Tuesdays, the second Psalm: the nations rage, and the Son is given them as his inheritance.",
+        "pt-BR": "Às terças, o Salmo 2: as nações se agitam, e ao Filho são dadas em herança."
+      }
+    },
+    {
+      "ref": "adoro-te-devote",
+      "tier": "ideal",
+      "schedule": { "type": "days-of-week", "days": [4] },
+      "time": "06:30",
+      "note": {
+        "en-US": "On Thursdays, the day of the Last Supper, the hymn of St Thomas to Christ hidden in the Host.",
+        "pt-BR": "Às quintas, dia da Última Ceia, o hino de Santo Tomás a Cristo escondido na Hóstia."
+      }
+    },
+    {
+      "ref": "benediction-blessed-sacrament",
+      "tier": "ideal",
+      "schedule": { "type": "days-of-week", "days": [6] },
+      "time": "12:45",
+      "note": {
+        "en-US": "On Saturdays, Benediction, readying the soul for Sunday.",
+        "pt-BR": "Aos sábados, a bênção com o Santíssimo, que prepara a alma para o domingo."
+      }
+    },
+    {
+      "ref": "way-of-the-cross-opus-dei",
+      "tier": "ideal",
+      "schedule": { "type": "nth-weekday", "n": [3], "day": 0 },
+      "time": "10:00",
+      "note": {
+        "en-US": "Once a month, the Way of the Cross, keeping company with Christ on the road to Calvary.",
+        "pt-BR": "Uma vez por mês, a Via-Sacra, acompanhando Cristo no caminho do Calvário."
+      }
+    },
+    {
+      "ref": "athanasian-creed",
+      "tier": "ideal",
+      "schedule": { "type": "nth-weekday", "n": [3], "day": 0 },
+      "time": "08:00",
+      "note": {
+        "en-US": "Once a month, the Athanasian Creed, the faith in the Trinity confessed at length.",
+        "pt-BR": "Uma vez por mês, o Símbolo Atanasiano, a fé na Trindade confessada por extenso."
+      }
     }
   ],
   "collections": ["collection/opus-dei", "collection/mental-prayer"]

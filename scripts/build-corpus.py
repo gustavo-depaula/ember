@@ -1778,6 +1778,7 @@ def build_templates(b: Builder) -> None:
     Each lives in `content/plan-of-life-templates/<id>.json`:
       - name / description / manifesto (localized)
       - practices[] with ref + tier + schedule (+ optional time / enabled)
+      - optional customs[], shaped as practices: offered to pick one by one
       - optional collections[] to pre-pin
 
     Published as `plan-of-life-template/<id>` corpus items; warmed like
@@ -1795,7 +1796,12 @@ def build_templates(b: Builder) -> None:
             raise ValueError(
                 f"plan-of-life-template {tid}: `practices[]` is required and non-empty"
             )
-        for p in data["practices"]:
+        # Customs are offered one by one beside the rule, never adopted with it,
+        # so each must be a real practice (no placeholders).
+        for p in data.get("customs", []):
+            if not isinstance(p, dict) or not p.get("ref") or p.get("placeholder"):
+                raise ValueError(f"plan-of-life-template {tid}: each custom needs a `ref`")
+        for p in data["practices"] + data.get("customs", []):
             if not isinstance(p, dict):
                 raise ValueError(f"plan-of-life-template {tid}: each practice must be an object")
             # A placeholder names a prescribed practice the corpus doesn't host

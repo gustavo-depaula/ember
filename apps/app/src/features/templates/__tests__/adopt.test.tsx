@@ -7,7 +7,7 @@ import { createPracticeWithSlot } from '@/db/repositories'
 import { parseSchedule } from '@/features/plan-of-life/schedule'
 import { renderApp } from '@/test/renderApp'
 import { AdoptSheet } from '../AdoptSheet'
-import { adoptTemplate } from '../adopt'
+import { adoptTemplate, withCustoms } from '../adopt'
 
 async function template(id: string) {
   const entry = getEntry(`plan-of-life-template/${id}`)
@@ -35,7 +35,9 @@ describe('adoptTemplate', () => {
     const { slotKeys } = await adoptTemplate(opusDei)
 
     expect(slotKeys).toHaveLength(opusDei.practices.length)
-    expect(slots()).toHaveLength(14)
+    expect(slots()).toHaveLength(15)
+    // Customs wait to be picked: none comes with the rule.
+    expect(slotsOf('practice/memorare')).toEqual([])
     // One practice listed twice keeps two times.
     expect(slotsOf('practice/mental-prayer-opus-dei').map((s) => s.time)).toEqual([
       '07:30',
@@ -82,6 +84,25 @@ describe('adoptTemplate', () => {
     expect(
       useEventStore.getState().practices.get('practice/morning-offering')?.active_variant,
     ).toBe('practice/morning-offering-opus-dei')
+  }, 30_000)
+
+  it('adopts the picked customs with the rule, on their own days', async () => {
+    const opusDei = await template('opus-dei')
+    const psalm2 = opusDei.customs?.findIndex((c) => c.ref === 'psalm-2') ?? -1
+    const via = opusDei.customs?.findIndex((c) => c.ref === 'way-of-the-cross-opus-dei') ?? -1
+    await adoptTemplate(withCustoms(opusDei, new Set([psalm2, via])))
+
+    expect(slots()).toHaveLength(17)
+    expect(parseSchedule(slotsOf('practice/psalm-2')[0].schedule)).toMatchObject({
+      type: 'days-of-week',
+      days: [2],
+    })
+    expect(parseSchedule(slotsOf('practice/way-of-the-cross-opus-dei')[0].schedule)).toMatchObject({
+      type: 'nth-weekday',
+      n: [3],
+      day: 0,
+    })
+    expect(slotsOf('practice/memorare')).toEqual([])
   }, 30_000)
 
   it('adopts only the chosen rows', async () => {

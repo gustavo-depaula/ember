@@ -39,7 +39,8 @@ export function TemplateString({ template }: { template: PlanOfLifeTemplateManif
         { label: t('onboarding.essential'), practices: essential },
         { label: t('onboarding.beyond'), practices: beyond },
       ]
-    : [{ label: undefined, practices: essential }]
+    : // Beside customs to pick, the rule is named for what it is.
+      [{ label: template.customs?.length ? t('templates.norms') : undefined, practices: essential }]
 
   return (
     <YStack gap="$md">

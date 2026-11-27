@@ -11,7 +11,8 @@ import { beadRowHeight, beadX, railWidth, threadPath } from './BeadRow'
 /**
  * An hour of the Office as a bead on the string it will make: in the hue of its
  * time when kept, the open bead when not. `index` and `count` place it on a
- * string of `count` hours; `hint` is a line under the name.
+ * string of `count` hours; `hint` is a line under the name; `days` names the
+ * days it falls on when not every day.
  */
 export function HourToggle({
   testID,
@@ -19,6 +20,7 @@ export function HourToggle({
   count,
   label,
   time,
+  days,
   hint,
   on,
   onToggle,
@@ -28,6 +30,7 @@ export function HourToggle({
   count: number
   label: string
   time?: string
+  days?: string
   hint?: string
   on: boolean
   onToggle: () => void
@@ -69,7 +72,15 @@ export function HourToggle({
             fill="none"
           />
           {on ? (
-            <Circle cx={x} cy={y} r={9} fill={hue} />
+            // Kept only on some days, it is hollow, as on the plan's string.
+            <Circle
+              cx={x}
+              cy={y}
+              r={9}
+              fill={days ? theme.background.val : hue}
+              stroke={hue}
+              strokeWidth={days ? 1.6 : 0}
+            />
           ) : (
             <>
               <Circle
@@ -97,7 +108,7 @@ export function HourToggle({
           {hint ? <Typography variant="caption">{hint}</Typography> : null}
         </YStack>
         <Typography tone="muted" fontSize={15}>
-          {time ? formatSlotTime(time, i18n.language) : ''}
+          {[days, time && formatSlotTime(time, i18n.language)].filter(Boolean).join(' ')}
         </Typography>
       </XStack>
     </AnimatedPressable>

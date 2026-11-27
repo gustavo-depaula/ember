@@ -1679,8 +1679,14 @@ export default {
   },
 
   templates: {
+    norms: 'As normas',
+    customs: 'Os costumes',
+    customsLede:
+      'Ao longo da semana e do mês, a Obra vive também alguns costumes. Toque nos que quiser trazer para o seu plano.',
+    customsGroup: { daily: 'Cada dia', weekly: 'Na semana', monthly: 'No mês' },
+    adoptWithCustoms_one: '{{label}} e {{count}} costume',
+    adoptWithCustoms_other: '{{label}} e {{count}} costumes',
     proposedPractices: 'O que ela propõe',
-    adopt: 'Adotar',
     adoptTitle: 'Adotar · {{name}}',
     adoptHint: 'Marque o que deseja acrescentar à sua regra.',
     alreadyInRule: 'já na sua regra',

@@ -1675,8 +1675,14 @@ export default {
   },
 
   templates: {
+    norms: 'The norms',
+    customs: 'The customs',
+    customsLede:
+      'Through the week and the month, the Work also keeps some customs. Tap the ones you want to bring into your plan.',
+    customsGroup: { daily: 'Each day', weekly: 'In the week', monthly: 'In the month' },
+    adoptWithCustoms_one: '{{label}} and {{count}} custom',
+    adoptWithCustoms_other: '{{label}} and {{count}} customs',
     proposedPractices: 'What it proposes',
-    adopt: 'Adopt',
     adoptTitle: 'Adopt · {{name}}',
     adoptHint: 'Check what you wish to add to your rule.',
     alreadyInRule: 'already in your rule',

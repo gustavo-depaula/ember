@@ -86,3 +86,24 @@ export async function adoptTemplate(
   }
   return { slotKeys, added }
 }
+
+/** The template with the customs at `chosen`'s indexes joined to its rule, to adopt together. */
+export function withCustoms(
+  template: PlanOfLifeTemplateManifest,
+  chosen: ReadonlySet<number>,
+): PlanOfLifeTemplateManifest {
+  const customs = (template.customs ?? []).filter((_, i) => chosen.has(i))
+  return customs.length ? { ...template, practices: [...template.practices, ...customs] } : template
+}
+
+/** The indexes of the template's customs the rule already keeps. */
+export function customsInRule(
+  template: PlanOfLifeTemplateManifest,
+  inRule: ReadonlySet<string>,
+): Set<number> {
+  return new Set(
+    (template.customs ?? []).flatMap((c, i) =>
+      inRule.has(canonicalize(c.ref, 'practice') ?? c.ref) ? [i] : [],
+    ),
+  )
+}
