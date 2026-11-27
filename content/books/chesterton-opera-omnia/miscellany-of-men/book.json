@@ -15,13 +15,19 @@
   },
   "composed": "1912",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/miscellany-of-men",
   "editions": {
     "en-US": {
       "editor": "Methuen & Co.",
       "year": 1912
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -29,7 +35,7 @@
       "language": "en-US",
       "url": "https://www.gutenberg.org/ebooks/2015",
       "edition": "A Miscellany of Men (Methuen & Co., 1912), Project Gutenberg #2015.",
-      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em-dashes. Raw text in sources/en-US-originals/.",
       "tier": "A",
       "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1912 (public domain in the US)."
     }
@@ -38,229 +44,267 @@
     {
       "id": "ch01-the-suffragist",
       "title": {
-        "en-US": "The Suffragist"
+        "en-US": "The Suffragist",
+        "pt-BR": "O Sufragista"
       }
     },
     {
       "id": "ch02-the-poet-and-the-cheese",
       "title": {
-        "en-US": "The Poet and the Cheese"
+        "en-US": "The Poet and the Cheese",
+        "pt-BR": "O Poeta e o Queijo"
       }
     },
     {
       "id": "ch03-the-thing",
       "title": {
-        "en-US": "The Thing"
+        "en-US": "The Thing",
+        "pt-BR": "A Coisa"
       }
     },
     {
       "id": "ch04-the-man-who-thinks-backwards",
       "title": {
-        "en-US": "The Man Who Thinks Backwards"
+        "en-US": "The Man Who Thinks Backwards",
+        "pt-BR": "O Homem que Pensa às Avessas"
       }
     },
     {
       "id": "ch05-the-nameless-man",
       "title": {
-        "en-US": "The Nameless Man"
+        "en-US": "The Nameless Man",
+        "pt-BR": "O Homem sem Nome"
       }
     },
     {
       "id": "ch06-the-gardener-and-the-guinea",
       "title": {
-        "en-US": "The Gardener and the Guinea"
+        "en-US": "The Gardener and the Guinea",
+        "pt-BR": "O Jardineiro e o Guinéu"
       }
     },
     {
       "id": "ch07-the-voter-and-the-two-voices",
       "title": {
-        "en-US": "The Voter and the Two Voices"
+        "en-US": "The Voter and the Two Voices",
+        "pt-BR": "O Eleitor e as Duas Vozes"
       }
     },
     {
       "id": "ch08-the-mad-official",
       "title": {
-        "en-US": "The Mad Official"
+        "en-US": "The Mad Official",
+        "pt-BR": "O Funcionário Louco"
       }
     },
     {
       "id": "ch09-the-enchanted-man",
       "title": {
-        "en-US": "The Enchanted Man"
+        "en-US": "The Enchanted Man",
+        "pt-BR": "O Homem Encantado"
       }
     },
     {
       "id": "ch10-the-sun-worshipper",
       "title": {
-        "en-US": "The Sun Worshipper"
+        "en-US": "The Sun Worshipper",
+        "pt-BR": "O Adorador do Sol"
       }
     },
     {
       "id": "ch11-the-wrong-incendiary",
       "title": {
-        "en-US": "The Wrong Incendiary"
+        "en-US": "The Wrong Incendiary",
+        "pt-BR": "O Incendiário Errado"
       }
     },
     {
       "id": "ch12-the-free-man",
       "title": {
-        "en-US": "The Free Man"
+        "en-US": "The Free Man",
+        "pt-BR": "O Homem Livre"
       }
     },
     {
       "id": "ch13-the-hypothetical-householder",
       "title": {
-        "en-US": "The Hypothetical Householder"
+        "en-US": "The Hypothetical Householder",
+        "pt-BR": "O Hipotético Dono da Casa"
       }
     },
     {
       "id": "ch14-the-priest-of-spring",
       "title": {
-        "en-US": "The Priest of Spring"
+        "en-US": "The Priest of Spring",
+        "pt-BR": "O Sacerdote da Primavera"
       }
     },
     {
       "id": "ch15-the-real-journalist",
       "title": {
-        "en-US": "The Real Journalist"
+        "en-US": "The Real Journalist",
+        "pt-BR": "O Verdadeiro Jornalista"
       }
     },
     {
       "id": "ch16-the-sentimental-scot",
       "title": {
-        "en-US": "The Sentimental Scot"
+        "en-US": "The Sentimental Scot",
+        "pt-BR": "O Escocês Sentimental"
       }
     },
     {
       "id": "ch17-the-sectarian-of-society",
       "title": {
-        "en-US": "The Sectarian of Society"
+        "en-US": "The Sectarian of Society",
+        "pt-BR": "O Sectário da Sociedade"
       }
     },
     {
       "id": "ch18-the-fool",
       "title": {
-        "en-US": "The Fool"
+        "en-US": "The Fool",
+        "pt-BR": "O Tolo"
       }
     },
     {
       "id": "ch19-the-conscript-and-the-crisis",
       "title": {
-        "en-US": "The Conscript and the Crisis"
+        "en-US": "The Conscript and the Crisis",
+        "pt-BR": "O Recruta e a Crise"
       }
     },
     {
       "id": "ch20-the-miser-and-his-friends",
       "title": {
-        "en-US": "The Miser and his Friends"
+        "en-US": "The Miser and his Friends",
+        "pt-BR": "O Avarento e seus Amigos"
       }
     },
     {
       "id": "ch21-the-mystagogue",
       "title": {
-        "en-US": "The Mystagogue"
+        "en-US": "The Mystagogue",
+        "pt-BR": "O Mistagogo"
       }
     },
     {
       "id": "ch22-the-red-reactionary",
       "title": {
-        "en-US": "The Red Reactionary"
+        "en-US": "The Red Reactionary",
+        "pt-BR": "O Reacionário Vermelho"
       }
     },
     {
       "id": "ch23-the-separatist-and-sacred-things",
       "title": {
-        "en-US": "The Separatist and Sacred Things"
+        "en-US": "The Separatist and Sacred Things",
+        "pt-BR": "O Separatista e as Coisas Sagradas"
       }
     },
     {
       "id": "ch24-the-mummer",
       "title": {
-        "en-US": "The Mummer"
+        "en-US": "The Mummer",
+        "pt-BR": "O Saltimbanco"
       }
     },
     {
       "id": "ch25-the-aristocratic-arry",
       "title": {
-        "en-US": "The Aristocratic 'Arry"
+        "en-US": "The Aristocratic 'Arry",
+        "pt-BR": "O Aristocrático ‘Arry"
       }
     },
     {
       "id": "ch26-the-new-theologian",
       "title": {
-        "en-US": "The New Theologian"
+        "en-US": "The New Theologian",
+        "pt-BR": "O Novo Teólogo"
       }
     },
     {
       "id": "ch27-the-romantic-in-the-rain",
       "title": {
-        "en-US": "The Romantic in the Rain"
+        "en-US": "The Romantic in the Rain",
+        "pt-BR": "O Romântico na Chuva"
       }
     },
     {
       "id": "ch28-the-false-photographer",
       "title": {
-        "en-US": "The False Photographer"
+        "en-US": "The False Photographer",
+        "pt-BR": "O Falso Fotógrafo"
       }
     },
     {
       "id": "ch29-the-sultan",
       "title": {
-        "en-US": "The Sultan"
+        "en-US": "The Sultan",
+        "pt-BR": "O Sultão"
       }
     },
     {
       "id": "ch30-the-architect-of-spears",
       "title": {
-        "en-US": "The Architect of Spears"
+        "en-US": "The Architect of Spears",
+        "pt-BR": "O Arquiteto de Lanças"
       }
     },
     {
       "id": "ch31-the-man-on-top",
       "title": {
-        "en-US": "The Man on Top"
+        "en-US": "The Man on Top",
+        "pt-BR": "O Homem no Topo"
       }
     },
     {
       "id": "ch32-the-other-kind-of-man",
       "title": {
-        "en-US": "The Other Kind of Man"
+        "en-US": "The Other Kind of Man",
+        "pt-BR": "O Outro Tipo de Homem"
       }
     },
     {
       "id": "ch33-the-medival-villain",
       "title": {
-        "en-US": "The Mediæval Villain"
+        "en-US": "The Mediæval Villain",
+        "pt-BR": "O Vilão Medieval"
       }
     },
     {
       "id": "ch34-the-divine-detective",
       "title": {
-        "en-US": "The Divine Detective"
+        "en-US": "The Divine Detective",
+        "pt-BR": "O Detetive Divino"
       }
     },
     {
       "id": "ch35-the-elf-of-japan",
       "title": {
-        "en-US": "The Elf of Japan"
+        "en-US": "The Elf of Japan",
+        "pt-BR": "O Elfo do Japão"
       }
     },
     {
       "id": "ch36-the-chartered-libertine",
       "title": {
-        "en-US": "The Chartered Libertine"
+        "en-US": "The Chartered Libertine",
+        "pt-BR": "O Libertino Autorizado"
       }
     },
     {
       "id": "ch37-the-contented-man",
       "title": {
-        "en-US": "The Contented Man"
+        "en-US": "The Contented Man",
+        "pt-BR": "O Homem Satisfeito"
       }
     },
     {
       "id": "ch38-the-angry-author-his-farewell",
       "title": {
-        "en-US": "The Angry Author: his Farewell"
+        "en-US": "The Angry Author: his Farewell",
+        "pt-BR": "O Autor Zangado: sua Despedida"
       }
     }
   ]
