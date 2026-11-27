@@ -2,13 +2,16 @@
   "id": "tertullian-treatise-on-the-soul",
   "cover": "quarter",
   "name": {
-    "en-US": "A Treatise on the Soul"
+    "en-US": "A Treatise on the Soul",
+    "pt-BR": "Tratado sobre a alma"
   },
   "author": {
-    "en-US": "Tertullian"
+    "en-US": "Tertullian",
+    "pt-BR": "Tertuliano"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,11 +24,19 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "A Treatise on the Soul"
+        "en-US": "A Treatise on the Soul",
+        "pt-BR": "Tratado sobre a alma"
       }
     }
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
