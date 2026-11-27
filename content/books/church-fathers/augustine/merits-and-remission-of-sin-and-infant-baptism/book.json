@@ -3,15 +3,18 @@
   "cover": "quarter",
   "name": {
     "la": "De peccatorum meritis et remissione et de baptismo parvulorum",
-    "en-US": "Merits and Remission of Sin, and Infant Baptism"
+    "en-US": "Merits and Remission of Sin, and Infant Baptism",
+    "pt-BR": "Sobre os méritos e a remissão dos pecados e sobre o batismo das crianças"
   },
   "author": {
     "la": "Aurelius Augustinus Hipponensis (354-430)",
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -33,21 +36,24 @@
       "id": "ch001",
       "title": {
         "la": "Liber I",
-        "en-US": "Book 1"
+        "en-US": "Book 1",
+        "pt-BR": "Livro I"
       }
     },
     {
       "id": "ch002",
       "title": {
         "la": "Liber II",
-        "en-US": "Book 2"
+        "en-US": "Book 2",
+        "pt-BR": "Livro II"
       }
     },
     {
       "id": "ch003",
       "title": {
         "la": "Liber III",
-        "en-US": "Book 3"
+        "en-US": "Book 3",
+        "pt-BR": "Livro III"
       }
     }
   ],
@@ -64,6 +70,11 @@
     "en-US": {
       "translator": "Peter Holmes and Robert Ernest Wallis, and revised by Benjamin B",
       "year": 1887
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   }
 }
