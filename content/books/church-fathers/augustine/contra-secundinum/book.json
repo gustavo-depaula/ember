@@ -18,13 +18,19 @@
   },
   "composed": "399",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/contra-secundinum",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,13 +47,15 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Secundini epistula ad Augustinum"
+        "la": "Secundini epistula ad Augustinum",
+        "pt-BR": "Carta de Secundino a Agostinho"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "Contra Secundinum"
+        "la": "Contra Secundinum",
+        "pt-BR": "Contra Secundino"
       }
     }
   ],
