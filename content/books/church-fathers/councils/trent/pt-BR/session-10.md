@@ -1,0 +1,7 @@
+# Sessão X
+
+*2 de junho de 1547*
+
+## Decreto de adiamento da sessão
+
+Embora este sacrossanto Sínodo ecumênico e geral tenha julgado que a sessão que deveria celebrar-se no dia 21 do mês de abril passado, nesta ilustre cidade de Bolonha, sobre as matérias dos sacramentos e da reforma, conforme o decreto promulgado na cidade de Trento em sessão pública no dia onze do mês de março, devia ser adiada e prorrogada até o presente dia, por algumas causas e sobretudo pela ausência de certos padres que esperava estarem presentes em breve, querendo, porém, ainda agora tratar benignamente os que não vieram, o mesmo sacrossanto Sínodo, legitimamente reunido no Espírito Santo, sob a presidência dos mesmos cardeais da Santa Igreja Romana e legados da Sé Apostólica, estabeleceu e decretou que essa mesma sessão, que havia decretado celebrar neste dia dois do mês de junho do presente ano de mil quinhentos e quarenta e sete, seja adiada e prorrogada, quanto à resolução das matérias referidas e de outras, para a quinta-feira depois da festa da Natividade da bem-aventurada Virgem Maria, que será o dia quinze do próximo mês de setembro, como de fato a adia e prorroga; de modo, porém, que, nesse intervalo, não se deixe de prosseguir a discussão e o exame tanto das matérias relativas aos dogmas como das relativas à reforma, e que o próprio santo Sínodo possa livremente, a seu arbítrio e vontade, encurtar ou prorrogar esse prazo, mesmo em congregação privada.

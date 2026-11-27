@@ -19,7 +19,8 @@
   "composed": "1545–1563",
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "councils/trent",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "J. Waterworth",
       "year": 1848
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -55,175 +61,200 @@
       "id": "session-01",
       "title": {
         "la": "Sessio I",
-        "en-US": "Session I"
+        "en-US": "Session I",
+        "pt-BR": "Sessão I"
       }
     },
     {
       "id": "session-02",
       "title": {
         "la": "Sessio II",
-        "en-US": "Session II"
+        "en-US": "Session II",
+        "pt-BR": "Sessão II"
       }
     },
     {
       "id": "session-03",
       "title": {
         "la": "Sessio III",
-        "en-US": "Session III"
+        "en-US": "Session III",
+        "pt-BR": "Sessão III"
       }
     },
     {
       "id": "session-04",
       "title": {
         "la": "Sessio IV",
-        "en-US": "Session IV"
+        "en-US": "Session IV",
+        "pt-BR": "Sessão IV"
       }
     },
     {
       "id": "session-05",
       "title": {
         "la": "Sessio V",
-        "en-US": "Session V"
+        "en-US": "Session V",
+        "pt-BR": "Sessão V"
       }
     },
     {
       "id": "session-06",
       "title": {
         "la": "Sessio VI",
-        "en-US": "Session VI"
+        "en-US": "Session VI",
+        "pt-BR": "Sessão VI"
       }
     },
     {
       "id": "session-07",
       "title": {
         "la": "Sessio VII",
-        "en-US": "Session VII"
+        "en-US": "Session VII",
+        "pt-BR": "Sessão VII"
       }
     },
     {
       "id": "session-08",
       "title": {
         "la": "Sessio VIII",
-        "en-US": "Session VIII"
+        "en-US": "Session VIII",
+        "pt-BR": "Sessão VIII"
       }
     },
     {
       "id": "session-09",
       "title": {
         "la": "Sessio IX",
-        "en-US": "Session IX"
+        "en-US": "Session IX",
+        "pt-BR": "Sessão IX"
       }
     },
     {
       "id": "session-10",
       "title": {
         "la": "Sessio X",
-        "en-US": "Session X"
+        "en-US": "Session X",
+        "pt-BR": "Sessão X"
       }
     },
     {
       "id": "session-11",
       "title": {
         "la": "Sessio XI",
-        "en-US": "Session XI"
+        "en-US": "Session XI",
+        "pt-BR": "Sessão XI"
       }
     },
     {
       "id": "session-12",
       "title": {
         "la": "Sessio XII",
-        "en-US": "Session XII"
+        "en-US": "Session XII",
+        "pt-BR": "Sessão XII"
       }
     },
     {
       "id": "session-13",
       "title": {
         "la": "Sessio XIII",
-        "en-US": "Session XIII"
+        "en-US": "Session XIII",
+        "pt-BR": "Sessão XIII"
       }
     },
     {
       "id": "session-14",
       "title": {
         "la": "Sessio XIV",
-        "en-US": "Session XIV"
+        "en-US": "Session XIV",
+        "pt-BR": "Sessão XIV"
       }
     },
     {
       "id": "session-15",
       "title": {
         "la": "Sessio XV",
-        "en-US": "Session XV"
+        "en-US": "Session XV",
+        "pt-BR": "Sessão XV"
       }
     },
     {
       "id": "session-16",
       "title": {
         "la": "Sessio XVI",
-        "en-US": "Session XVI"
+        "en-US": "Session XVI",
+        "pt-BR": "Sessão XVI"
       }
     },
     {
       "id": "session-17",
       "title": {
         "la": "Sessio XVII",
-        "en-US": "Session XVII"
+        "en-US": "Session XVII",
+        "pt-BR": "Sessão XVII"
       }
     },
     {
       "id": "session-18",
       "title": {
         "la": "Sessio XVIII",
-        "en-US": "Session XVIII"
+        "en-US": "Session XVIII",
+        "pt-BR": "Sessão XVIII"
       }
     },
     {
       "id": "session-19",
       "title": {
         "la": "Sessio XIX",
-        "en-US": "Session XIX"
+        "en-US": "Session XIX",
+        "pt-BR": "Sessão XIX"
       }
     },
     {
       "id": "session-20",
       "title": {
         "la": "Sessio XX",
-        "en-US": "Session XX"
+        "en-US": "Session XX",
+        "pt-BR": "Sessão XX"
       }
     },
     {
       "id": "session-21",
       "title": {
         "la": "Sessio XXI",
-        "en-US": "Session XXI"
+        "en-US": "Session XXI",
+        "pt-BR": "Sessão XXI"
       }
     },
     {
       "id": "session-22",
       "title": {
         "la": "Sessio XXII",
-        "en-US": "Session XXII"
+        "en-US": "Session XXII",
+        "pt-BR": "Sessão XXII"
       }
     },
     {
       "id": "session-23",
       "title": {
         "la": "Sessio XXIII",
-        "en-US": "Session XXIII"
+        "en-US": "Session XXIII",
+        "pt-BR": "Sessão XXIII"
       }
     },
     {
       "id": "session-24",
       "title": {
         "la": "Sessio XXIV",
-        "en-US": "Session XXIV"
+        "en-US": "Session XXIV",
+        "pt-BR": "Sessão XXIV"
       }
     },
     {
       "id": "session-25",
       "title": {
         "la": "Sessio XXV",
-        "en-US": "Session XXV"
+        "en-US": "Session XXV",
+        "pt-BR": "Sessão XXV"
       }
     }
   ]
