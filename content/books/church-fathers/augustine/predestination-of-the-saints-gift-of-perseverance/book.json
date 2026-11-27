@@ -3,15 +3,18 @@
   "cover": "quarter",
   "name": {
     "la": "De praedestinatione sanctorum et de dono perseverantiae",
-    "en-US": "The Predestination of the Saints/Gift of Perseverance"
+    "en-US": "The Predestination of the Saints/Gift of Perseverance",
+    "pt-BR": "Sobre a predestinação dos santos e sobre o dom da perseverança"
   },
   "author": {
     "la": "Aurelius Augustinus Hipponensis (354-430)",
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -33,14 +36,16 @@
       "id": "ch001",
       "title": {
         "la": "De praedestinatione sanctorum",
-        "en-US": "BOOK I"
+        "en-US": "BOOK I",
+        "pt-BR": "Sobre a predestinação dos santos"
       }
     },
     {
       "id": "ch002",
       "title": {
         "la": "De dono perseverantiae",
-        "en-US": "BOOK II"
+        "en-US": "BOOK II",
+        "pt-BR": "Sobre o dom da perseverança"
       }
     }
   ],
@@ -57,6 +62,11 @@
     "en-US": {
       "translator": "Peter Holmes and Robert Ernest Wallis, and revised by Benjamin B",
       "year": 1887
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   }
 }
