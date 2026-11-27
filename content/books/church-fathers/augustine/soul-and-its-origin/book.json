@@ -3,15 +3,18 @@
   "cover": "quarter",
   "name": {
     "la": "De anima et eius origine",
-    "en-US": "On the Soul and its Origin"
+    "en-US": "On the Soul and its Origin",
+    "pt-BR": "A alma e sua origem"
   },
   "author": {
     "la": "Aurelius Augustinus Hipponensis (354-430)",
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -33,28 +36,32 @@
       "id": "ch001",
       "title": {
         "la": "Liber I",
-        "en-US": "Book I"
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
       }
     },
     {
       "id": "ch002",
       "title": {
         "la": "Liber II",
-        "en-US": "Book II"
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
       }
     },
     {
       "id": "ch003",
       "title": {
         "la": "Liber III",
-        "en-US": "Book III"
+        "en-US": "Book III",
+        "pt-BR": "Livro III"
       }
     },
     {
       "id": "ch004",
       "title": {
         "la": "Liber IV",
-        "en-US": "Book IV"
+        "en-US": "Book IV",
+        "pt-BR": "Livro IV"
       }
     }
   ],
@@ -71,6 +78,11 @@
     "en-US": {
       "translator": "Peter Holmes and Robert Ernest Wallis, and revised by Benjamin B",
       "year": 1887
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   }
 }
