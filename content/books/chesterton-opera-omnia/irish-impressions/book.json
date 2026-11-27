@@ -11,17 +11,23 @@
   },
   "description": {
     "en-US": "Chesterton's account of a visit to Ireland in 1918, during the conscription crisis: two stones in a square, the root of reality, the family and the feud, the paradox of labour, the mistakes of England and of Ireland, and Belfast and the religious problem.",
-    "pt-BR": "O relato de Chesterton sobre uma visita à Irlanda em 1918, durante a crise do recrutamento: duas pedras numa praça, a raiz da realidade, a família e a vendeta, o paradoxo do trabalho, os erros da Inglaterra e da Irlanda, e Belfast e o problema religioso."
+    "pt-BR": "O relato de Chesterton sobre uma visita à Irlanda em 1918, durante a crise do recrutamento obrigatório: duas pedras numa praça, a raiz da realidade, a família e a vendeta, o paradoxo do trabalho, os erros da Inglaterra e da Irlanda, e Belfast e o problema religioso."
   },
   "composed": "1919",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/irish-impressions",
   "editions": {
     "en-US": {
       "editor": "W. Collins Sons & Co.",
       "year": 1919
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,55 +44,64 @@
     {
       "id": "ch01-two-stones-in-a-square",
       "title": {
-        "en-US": "I. Two Stones in a Square"
+        "en-US": "I. Two Stones in a Square",
+        "pt-BR": "I. Duas Pedras numa Praça"
       }
     },
     {
       "id": "ch02-the-root-of-reality",
       "title": {
-        "en-US": "II. The Root of Reality"
+        "en-US": "II. The Root of Reality",
+        "pt-BR": "II. A Raiz da Realidade"
       }
     },
     {
       "id": "ch03-the-family-and-the-feud",
       "title": {
-        "en-US": "III. The Family and the Feud"
+        "en-US": "III. The Family and the Feud",
+        "pt-BR": "III. A Família e a Vendeta"
       }
     },
     {
       "id": "ch04-the-paradox-of-labour",
       "title": {
-        "en-US": "IV. The Paradox of Labour"
+        "en-US": "IV. The Paradox of Labour",
+        "pt-BR": "IV. O Paradoxo do Trabalho"
       }
     },
     {
       "id": "ch05-the-englishman-in-ireland",
       "title": {
-        "en-US": "V. The Englishman in Ireland"
+        "en-US": "V. The Englishman in Ireland",
+        "pt-BR": "V. O Inglês na Irlanda"
       }
     },
     {
       "id": "ch06-the-mistake-of-england",
       "title": {
-        "en-US": "VI. The Mistake of England"
+        "en-US": "VI. The Mistake of England",
+        "pt-BR": "VI. O Erro da Inglaterra"
       }
     },
     {
       "id": "ch07-the-mistake-of-ireland",
       "title": {
-        "en-US": "VII. The Mistake of Ireland"
+        "en-US": "VII. The Mistake of Ireland",
+        "pt-BR": "VII. O Erro da Irlanda"
       }
     },
     {
       "id": "ch08-an-example-and-a-question",
       "title": {
-        "en-US": "VIII. An Example and a Question"
+        "en-US": "VIII. An Example and a Question",
+        "pt-BR": "VIII. Um Exemplo e uma Pergunta"
       }
     },
     {
       "id": "ch09-belfast-and-the-religious-problem",
       "title": {
-        "en-US": "IX. Belfast and the Religious Problem"
+        "en-US": "IX. Belfast and the Religious Problem",
+        "pt-BR": "IX. Belfast e o Problema Religioso"
       }
     }
   ]
