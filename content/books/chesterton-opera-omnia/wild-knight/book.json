@@ -11,17 +11,23 @@
   },
   "description": {
     "en-US": "Chesterton's first collection of verse: poems of wonder and of the strangeness of being alive, among them By the Babe Unborn, The Donkey, The Mirror of Madmen and The Ballad of the Battle of Gibeon, in which a young romantic discovers that the world is a gift.",
-    "pt-BR": "A primeira coletânea de versos de Chesterton: poemas de assombro e da estranheza de estar vivo, entre eles By the Babe Unborn, O Burro, O Espelho dos Loucos e A Balada da Batalha de Gibeão, em que um jovem romântico descobre que o mundo é um dom."
+    "pt-BR": "A primeira coletânea de versos de Chesterton: poemas de assombro e da estranheza de estar vivo, entre eles Pela Criança Ainda Não Nascida, O Burro, O Espelho dos Loucos e A Balada da Batalha de Gibeão, em que um jovem romântico descobre que o mundo é um dom."
   },
   "composed": "1900",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/wild-knight",
   "editions": {
     "en-US": {
       "editor": "J. M. Dent",
       "year": 1900
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,307 +44,358 @@
     {
       "id": "ch01-by-the-babe-unborn",
       "title": {
-        "en-US": "By the Babe Unborn"
+        "en-US": "By the Babe Unborn",
+        "pt-BR": "Pela Criança Ainda Não Nascida"
       }
     },
     {
       "id": "ch02-the-world-s-lover",
       "title": {
-        "en-US": "The World's Lover"
+        "en-US": "The World's Lover",
+        "pt-BR": "O Amante do Mundo"
       }
     },
     {
       "id": "ch03-the-skeleton",
       "title": {
-        "en-US": "The Skeleton"
+        "en-US": "The Skeleton",
+        "pt-BR": "O Esqueleto"
       }
     },
     {
       "id": "ch04-a-chord-of-colour",
       "title": {
-        "en-US": "A Chord of Colour"
+        "en-US": "A Chord of Colour",
+        "pt-BR": "Um Acorde de Cor"
       }
     },
     {
       "id": "ch05-the-happy-man",
       "title": {
-        "en-US": "The Happy Man"
+        "en-US": "The Happy Man",
+        "pt-BR": "O Homem Feliz"
       }
     },
     {
       "id": "ch06-the-unpardonable-sin",
       "title": {
-        "en-US": "The Unpardonable Sin"
+        "en-US": "The Unpardonable Sin",
+        "pt-BR": "O Pecado Imperdoável"
       }
     },
     {
       "id": "ch07-a-novelty",
       "title": {
-        "en-US": "A Novelty"
+        "en-US": "A Novelty",
+        "pt-BR": "Uma Novidade"
       }
     },
     {
       "id": "ch08-ultimate",
       "title": {
-        "en-US": "Ultimate"
+        "en-US": "Ultimate",
+        "pt-BR": "Derradeiro"
       }
     },
     {
       "id": "ch09-the-donkey",
       "title": {
-        "en-US": "The Donkey"
+        "en-US": "The Donkey",
+        "pt-BR": "O Burro"
       }
     },
     {
       "id": "ch10-the-beatific-vision",
       "title": {
-        "en-US": "The Beatific Vision"
+        "en-US": "The Beatific Vision",
+        "pt-BR": "A Visão Beatífica"
       }
     },
     {
       "id": "ch11-the-hope-of-the-streets",
       "title": {
-        "en-US": "The Hope of the Streets"
+        "en-US": "The Hope of the Streets",
+        "pt-BR": "A Esperança das Ruas"
       }
     },
     {
       "id": "ch12-ecclesiastes",
       "title": {
-        "en-US": "Ecclesiastes"
+        "en-US": "Ecclesiastes",
+        "pt-BR": "Eclesiastes"
       }
     },
     {
       "id": "ch13-the-fish",
       "title": {
-        "en-US": "The Fish"
+        "en-US": "The Fish",
+        "pt-BR": "O Peixe"
       }
     },
     {
       "id": "ch14-gold-leaves",
       "title": {
-        "en-US": "Gold Leaves"
+        "en-US": "Gold Leaves",
+        "pt-BR": "Folhas de Ouro"
       }
     },
     {
       "id": "ch15-a-man-and-his-image",
       "title": {
-        "en-US": "A Man and his Image"
+        "en-US": "A Man and his Image",
+        "pt-BR": "Um Homem e sua Imagem"
       }
     },
     {
       "id": "ch16-the-mariner",
       "title": {
-        "en-US": "The Mariner"
+        "en-US": "The Mariner",
+        "pt-BR": "O Marinheiro"
       }
     },
     {
       "id": "ch17-the-triumph-of-man",
       "title": {
-        "en-US": "The Triumph of Man"
+        "en-US": "The Triumph of Man",
+        "pt-BR": "O Triunfo do Homem"
       }
     },
     {
       "id": "ch18-cyclopean",
       "title": {
-        "en-US": "Cyclopean"
+        "en-US": "Cyclopean",
+        "pt-BR": "Ciclópico"
       }
     },
     {
       "id": "ch19-joseph",
       "title": {
-        "en-US": "Joseph"
+        "en-US": "Joseph",
+        "pt-BR": "José"
       }
     },
     {
       "id": "ch20-modern-elfland",
       "title": {
-        "en-US": "Modern Elfland"
+        "en-US": "Modern Elfland",
+        "pt-BR": "A Terra Moderna das Fadas"
       }
     },
     {
       "id": "ch21-eternities",
       "title": {
-        "en-US": "Eternities"
+        "en-US": "Eternities",
+        "pt-BR": "Eternidades"
       }
     },
     {
       "id": "ch22-a-christmas-carol",
       "title": {
-        "en-US": "A Christmas Carol"
+        "en-US": "A Christmas Carol",
+        "pt-BR": "Uma Canção de Natal"
       }
     },
     {
       "id": "ch23-alone",
       "title": {
-        "en-US": "Alone"
+        "en-US": "Alone",
+        "pt-BR": "Só"
       }
     },
     {
       "id": "ch24-king-s-cross-station",
       "title": {
-        "en-US": "King's Cross Station"
+        "en-US": "King's Cross Station",
+        "pt-BR": "A Estação de King's Cross"
       }
     },
     {
       "id": "ch25-the-human-tree",
       "title": {
-        "en-US": "The Human Tree"
+        "en-US": "The Human Tree",
+        "pt-BR": "A Árvore Humana"
       }
     },
     {
       "id": "ch26-to-them-that-mourn",
       "title": {
-        "en-US": "To Them That Mourn"
+        "en-US": "To Them That Mourn",
+        "pt-BR": "Aos que Choram"
       }
     },
     {
       "id": "ch27-the-outlaw",
       "title": {
-        "en-US": "The Outlaw"
+        "en-US": "The Outlaw",
+        "pt-BR": "O Proscrito"
       }
     },
     {
       "id": "ch28-behind",
       "title": {
-        "en-US": "Behind"
+        "en-US": "Behind",
+        "pt-BR": "Por Trás"
       }
     },
     {
       "id": "ch29-the-end-of-fear",
       "title": {
-        "en-US": "The End of Fear"
+        "en-US": "The End of Fear",
+        "pt-BR": "O Fim do Medo"
       }
     },
     {
       "id": "ch30-the-holy-of-holies",
       "title": {
-        "en-US": "The Holy of Holies"
+        "en-US": "The Holy of Holies",
+        "pt-BR": "O Santo dos Santos"
       }
     },
     {
       "id": "ch31-the-mirror-of-madmen",
       "title": {
-        "en-US": "The Mirror of Madmen"
+        "en-US": "The Mirror of Madmen",
+        "pt-BR": "O Espelho dos Loucos"
       }
     },
     {
       "id": "ch32-the-desecraters",
       "title": {
-        "en-US": "The Desecraters"
+        "en-US": "The Desecraters",
+        "pt-BR": "Os Profanadores"
       }
     },
     {
       "id": "ch33-an-alliance",
       "title": {
-        "en-US": "An Alliance"
+        "en-US": "An Alliance",
+        "pt-BR": "Uma Aliança"
       }
     },
     {
       "id": "ch34-the-ancient-of-days",
       "title": {
-        "en-US": "The Ancient of Days"
+        "en-US": "The Ancient of Days",
+        "pt-BR": "O Ancião dos Dias"
       }
     },
     {
       "id": "ch35-the-last-masquerade",
       "title": {
-        "en-US": "The Last Masquerade"
+        "en-US": "The Last Masquerade",
+        "pt-BR": "A Última Mascarada"
       }
     },
     {
       "id": "ch36-the-earth-s-shame",
       "title": {
-        "en-US": "The Earth's Shame"
+        "en-US": "The Earth's Shame",
+        "pt-BR": "A Vergonha da Terra"
       }
     },
     {
       "id": "ch37-vanity",
       "title": {
-        "en-US": "Vanity"
+        "en-US": "Vanity",
+        "pt-BR": "Vaidade"
       }
     },
     {
       "id": "ch38-the-lamp-post",
       "title": {
-        "en-US": "The Lamp Post"
+        "en-US": "The Lamp Post",
+        "pt-BR": "O Poste de Luz"
       }
     },
     {
       "id": "ch39-the-pessimist",
       "title": {
-        "en-US": "The Pessimist"
+        "en-US": "The Pessimist",
+        "pt-BR": "O Pessimista"
       }
     },
     {
       "id": "ch40-a-fairy-tale",
       "title": {
-        "en-US": "A Fairy Tale"
+        "en-US": "A Fairy Tale",
+        "pt-BR": "Um Conto de Fadas"
       }
     },
     {
       "id": "ch41-a-portrait",
       "title": {
-        "en-US": "A Portrait"
+        "en-US": "A Portrait",
+        "pt-BR": "Um Retrato"
       }
     },
     {
       "id": "ch42-femina-contra-mundum",
       "title": {
-        "en-US": "Femina Contra Mundum"
+        "en-US": "Femina Contra Mundum",
+        "pt-BR": "Femina Contra Mundum"
       }
     },
     {
       "id": "ch43-to-a-certain-nation",
       "title": {
-        "en-US": "To a Certain Nation"
+        "en-US": "To a Certain Nation",
+        "pt-BR": "A Certa Nação"
       }
     },
     {
       "id": "ch44-the-praise-of-dust",
       "title": {
-        "en-US": "The Praise of Dust"
+        "en-US": "The Praise of Dust",
+        "pt-BR": "O Louvor do Pó"
       }
     },
     {
       "id": "ch45-the-ballad-of-the-battle-of-gibeon",
       "title": {
-        "en-US": "The Ballad of the Battle of Gibeon"
+        "en-US": "The Ballad of the Battle of Gibeon",
+        "pt-BR": "A Balada da Batalha de Gibeão"
       }
     },
     {
       "id": "ch46-vulgarised",
       "title": {
-        "en-US": "'Vulgarised'"
+        "en-US": "'Vulgarised'",
+        "pt-BR": "“Vulgarizado”"
       }
     },
     {
       "id": "ch47-the-ballad-of-god-makers",
       "title": {
-        "en-US": "The Ballad of God-makers"
+        "en-US": "The Ballad of God-makers",
+        "pt-BR": "A Balada dos Fabricantes de Deuses"
       }
     },
     {
       "id": "ch48-at-night",
       "title": {
-        "en-US": "At Night"
+        "en-US": "At Night",
+        "pt-BR": "À Noite"
       }
     },
     {
       "id": "ch49-art-colours",
       "title": {
-        "en-US": "Art Colours"
+        "en-US": "Art Colours",
+        "pt-BR": "As Cores da Arte"
       }
     },
     {
       "id": "ch50-the-two-women",
       "title": {
-        "en-US": "The Two Women"
+        "en-US": "The Two Women",
+        "pt-BR": "As Duas Mulheres"
       }
     },
     {
       "id": "ch51-the-wild-knight",
       "title": {
-        "en-US": "The Wild Knight"
+        "en-US": "The Wild Knight",
+        "pt-BR": "O Cavaleiro Selvagem"
       }
     }
   ]
