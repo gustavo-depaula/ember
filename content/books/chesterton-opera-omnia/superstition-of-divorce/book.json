@@ -15,13 +15,19 @@
   },
   "composed": "1920",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/superstition-of-divorce",
   "editions": {
     "en-US": {
       "editor": "Chatto & Windus",
       "year": 1920
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,55 +44,64 @@
     {
       "id": "ch01-the-superstition-of-divorce",
       "title": {
-        "en-US": "I. The Superstition of Divorce"
+        "en-US": "I. The Superstition of Divorce",
+        "pt-BR": "I. A Superstição do Divórcio"
       }
     },
     {
       "id": "ch02-the-superstition-of-divorce",
       "title": {
-        "en-US": "II. The Superstition of Divorce"
+        "en-US": "II. The Superstition of Divorce",
+        "pt-BR": "II. A Superstição do Divórcio"
       }
     },
     {
       "id": "ch03-the-superstition-of-divorce",
       "title": {
-        "en-US": "III. The Superstition of Divorce"
+        "en-US": "III. The Superstition of Divorce",
+        "pt-BR": "III. A Superstição do Divórcio"
       }
     },
     {
       "id": "ch04-the-superstition-of-divorce",
       "title": {
-        "en-US": "IV. The Superstition of Divorce"
+        "en-US": "IV. The Superstition of Divorce",
+        "pt-BR": "IV. A Superstição do Divórcio"
       }
     },
     {
       "id": "ch05-the-story-of-the-family",
       "title": {
-        "en-US": "V. The Story of the Family"
+        "en-US": "V. The Story of the Family",
+        "pt-BR": "V. A História da Família"
       }
     },
     {
       "id": "ch06-the-story-of-the-vow",
       "title": {
-        "en-US": "VI. The Story of the Vow"
+        "en-US": "VI. The Story of the Vow",
+        "pt-BR": "VI. A História do Voto"
       }
     },
     {
       "id": "ch07-the-tragedies-of-marriage",
       "title": {
-        "en-US": "VII. The Tragedies of Marriage"
+        "en-US": "VII. The Tragedies of Marriage",
+        "pt-BR": "VII. As Tragédias do Casamento"
       }
     },
     {
       "id": "ch08-the-vista-of-divorce",
       "title": {
-        "en-US": "VIII. The Vista of Divorce"
+        "en-US": "VIII. The Vista of Divorce",
+        "pt-BR": "VIII. A Perspectiva do Divórcio"
       }
     },
     {
       "id": "ch09-conclusion",
       "title": {
-        "en-US": "IX. Conclusion"
+        "en-US": "IX. Conclusion",
+        "pt-BR": "IX. Conclusão"
       }
     }
   ]
