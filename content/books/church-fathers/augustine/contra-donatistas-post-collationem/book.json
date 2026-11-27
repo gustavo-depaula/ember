@@ -18,13 +18,19 @@
   },
   "composed": "412",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/contra-donatistas-post-collationem",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,13 +47,15 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Contra Donatistas post collationem, Capita 1–20"
+        "la": "Contra Donatistas post collationem, Capita 1–20",
+        "pt-BR": "Aos donatistas depois da conferência, Capítulos 1–20"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "Contra Donatistas post collationem, Capita 21–35"
+        "la": "Contra Donatistas post collationem, Capita 21–35",
+        "pt-BR": "Aos donatistas depois da conferência, Capítulos 21–35"
       }
     }
   ],
