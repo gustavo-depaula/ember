@@ -15,13 +15,19 @@
   },
   "composed": "1927",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/robert-louis-stevenson",
   "editions": {
     "en-US": {
       "editor": "Hodder & Stoughton",
       "year": 1927
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,61 +44,71 @@
     {
       "id": "ch01-the-myth-of-stevenson",
       "title": {
-        "en-US": "\"The Myth of Stevenson\""
+        "en-US": "\"The Myth of Stevenson\"",
+        "pt-BR": "“O mito de Stevenson”"
       }
     },
     {
       "id": "ch02-in-the-country-of-skelt",
       "title": {
-        "en-US": "In the Country of Skelt"
+        "en-US": "In the Country of Skelt",
+        "pt-BR": "No país de Skelt"
       }
     },
     {
       "id": "ch03-youth-and-edinburgh",
       "title": {
-        "en-US": "Youth and Edinburgh"
+        "en-US": "Youth and Edinburgh",
+        "pt-BR": "Juventude e Edimburgo"
       }
     },
     {
       "id": "ch04-the-reaction-to-romance",
       "title": {
-        "en-US": "The Reaction to Romance"
+        "en-US": "The Reaction to Romance",
+        "pt-BR": "A reação ao espírito romanesco"
       }
     },
     {
       "id": "ch05-the-scottish-stories",
       "title": {
-        "en-US": "The Scottish Stories"
+        "en-US": "The Scottish Stories",
+        "pt-BR": "As histórias escocesas"
       }
     },
     {
       "id": "ch06-the-style-of-stevenson",
       "title": {
-        "en-US": "The Style of Stevenson"
+        "en-US": "The Style of Stevenson",
+        "pt-BR": "O estilo de Stevenson"
       }
     },
     {
       "id": "ch07-experiment-and-range",
       "title": {
-        "en-US": "Experiment and Range"
+        "en-US": "Experiment and Range",
+        "pt-BR": "Experimentação e amplitude"
       }
     },
     {
       "id": "ch08-the-limits-of-a-craft",
       "title": {
-        "en-US": "The Limits of a Craft"
+        "en-US": "The Limits of a Craft",
+        "pt-BR": "Os limites de um ofício"
       }
     },
     {
       "id": "ch09-the-philosophy-of-gesture",
       "title": {
-        "en-US": "The Philosophy of Gesture"
+        "en-US": "The Philosophy of Gesture",
+        "pt-BR": "A filosofia do gesto"
       }
     },
     {
       "id": "ch10-the-moral-of-stevenson",
       "title": {
-        "en-US": "The Moral of Stevenson"
+        "en-US": "The Moral of Stevenson",
+        "pt-BR": "A moral de Stevenson"
       }
     }
   ]
