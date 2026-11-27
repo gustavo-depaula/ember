@@ -2,13 +2,16 @@
   "id": "archelaus-acts-of-the-disputation-with-the-heresiarch-manes",
   "cover": "quarter",
   "name": {
-    "en-US": "Acts of the Disputation with the Heresiarch Manes"
+    "en-US": "Acts of the Disputation with the Heresiarch Manes",
+    "pt-BR": "Atas da disputa com o heresiarca Manes"
   },
   "author": {
-    "en-US": "Archelaus"
+    "en-US": "Archelaus",
+    "pt-BR": "Arquelau"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,11 +24,19 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Acts of the Disputation with the Heresiarch Manes"
+        "en-US": "Acts of the Disputation with the Heresiarch Manes",
+        "pt-BR": "Atas da disputa com o heresiarca Manes"
       }
     }
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
