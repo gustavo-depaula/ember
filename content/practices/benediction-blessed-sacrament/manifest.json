@@ -1,0 +1,52 @@
+{
+	"id": "benediction-blessed-sacrament",
+	"form": "prayer",
+	"icon": "eucharist",
+	"source": {
+		"en-US": "The hymn, versicle and collect as the *Tantum Ergo*; the Divine Praises. A Saturday custom of Opus Dei, together with the Marian antiphon: opusdei.org, *The dawn of the day of the Sun*.",
+		"pt-BR": "O hino, o versículo e a oração como no *Tantum Ergo*; os Louvores Divinos. Costume do Opus Dei aos sábados, junto com a antífona mariana: opusdei.org, *A aurora do dia do Sol: a exposição eucarística e a antífona mariana*."
+	},
+	"name": {
+		"en-US": "Benediction of the Blessed Sacrament",
+		"pt-BR": "Bênção com o Santíssimo"
+	},
+	"categories": ["weekly", "eucharistic"],
+	"estimatedMinutes": 10,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"description": {
+		"en-US": "The Blessed Sacrament exposed and the blessing given with it: the Tantum Ergo, its collect, and the Divine Praises. Saturday's custom, readying the soul for Sunday.",
+		"pt-BR": "O Santíssimo exposto e a bênção dada com Ele: o Tão sublime sacramento, a sua oração e os Louvores Divinos. O costume do sábado, que prepara a alma para o domingo."
+	},
+	"tags": ["opus-dei", "eucharistic", "adoration", "saturday"],
+	"defaults": {
+		"sortOrder": 20,
+		"slots": [
+			{
+				"schedule": { "type": "days-of-week", "days": [6] },
+				"time": "12:45",
+				"tier": "ideal"
+			}
+		]
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "rubric",
+				"text": {
+					"en-US": "Before the Blessed Sacrament exposed. The priest incenses the Host while the hymn is sung, then blesses the people with the monstrance.",
+					"pt-BR": "Diante do Santíssimo exposto. O sacerdote incensa a Hóstia enquanto se canta o hino e depois abençoa o povo com o ostensório."
+				}
+			},
+			{ "type": "prayer", "ref": "tantum-ergo" },
+			{
+				"type": "rubric",
+				"text": {
+					"en-US": "After the blessing:",
+					"pt-BR": "Depois da bênção:"
+				}
+			},
+			{ "type": "prayer", "ref": "divine-praises" }
+		]
+	}
+}

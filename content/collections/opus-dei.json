@@ -115,7 +115,8 @@
 				}
 			},
 			"blocks": [
-				{ "kind": "item", "ref": "practice/examination-of-conscience" }
+				{ "kind": "item", "ref": "practice/examination-of-conscience" },
+				{ "kind": "item", "ref": "practice/holy-water-opus-dei" }
 			]
 		},
 		{

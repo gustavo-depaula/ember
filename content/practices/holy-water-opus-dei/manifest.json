@@ -1,0 +1,44 @@
+{
+	"id": "holy-water-opus-dei",
+	"form": "prayer",
+	"icon": "cross",
+	"source": {
+		"en-US": "A norm of the plan of life of Opus Dei, kept at the bedside after the three Hail Marys. On sacramentals: *Catechism of the Catholic Church* §§ 1667–1670.",
+		"pt-BR": "Norma do plano de vida do Opus Dei, guardada à cabeceira depois das três Ave-Marias. Sobre os sacramentais: *Catecismo da Igreja Católica* §§ 1667–1670."
+	},
+	"name": {
+		"en-US": "Holy Water at Bedtime",
+		"pt-BR": "Água Benta ao Deitar"
+	},
+	"categories": ["daily"],
+	"estimatedMinutes": 1,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"description": {
+		"en-US": "On going to bed, the sign of the cross with holy water: a sacramental at the day's close, under Our Lady's protection through the night.",
+		"pt-BR": "Ao deitar-se, o sinal da cruz com água benta: um sacramental no fecho do dia, sob a proteção de Nossa Senhora durante a noite."
+	},
+	"tags": ["opus-dei", "night", "sacramental", "josemaria"],
+	"defaults": {
+		"sortOrder": 10,
+		"slots": [
+			{
+				"schedule": { "type": "daily" },
+				"time": "22:35",
+				"tier": "ideal"
+			}
+		]
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "rubric",
+				"text": {
+					"en-US": "On going to bed, bless yourself with holy water — a sacramental at the day's close, under Our Lady's protection through the night.",
+					"pt-BR": "Ao deitar-se, benza-se com água benta — um sacramental no fecho do dia, sob a proteção de Nossa Senhora durante a noite."
+				}
+			},
+			{ "type": "prayer", "ref": "sign-of-cross" }
+		]
+	}
+}
