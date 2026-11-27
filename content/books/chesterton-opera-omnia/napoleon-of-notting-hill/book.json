@@ -11,17 +11,23 @@
   },
   "description": {
     "en-US": "Chesterton's first novel: in a London of 1984 grown grey and bureaucratic, a boy who loves his neighbourhood is made king by a joke and takes the joke seriously, and the little streets of Notting Hill go to war for their honour. A fantasy of local patriotism and the lost romance of small things.",
-    "pt-BR": "O primeiro romance de Chesterton: numa Londres de 1984 cinzenta e burocrática, um menino que ama o seu bairro é feito rei por uma brincadeira e leva a brincadeira a sério, e as ruazinhas de Notting Hill vão à guerra pela sua honra. Uma fantasia de patriotismo local e do romance perdido das coisas pequenas."
+    "pt-BR": "O primeiro romance de Chesterton: numa Londres de 1984 cinzenta e burocrática, um rei institui por brincadeira o patriotismo dos bairros, e um rapaz que ama Notting Hill leva a brincadeira a sério, e as ruazinhas de Notting Hill vão à guerra pela sua honra. Uma fantasia de patriotismo local e do romance perdido das coisas pequenas."
   },
   "composed": "1904",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/napoleon-of-notting-hill",
   "editions": {
     "en-US": {
       "editor": "John Lane",
       "year": 1904
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,25 +44,29 @@
     {
       "id": "part01-book-i",
       "title": {
-        "en-US": "Book I"
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
       },
       "children": [
         {
           "id": "ch01-introductory-remarks-on-the-art-of-prophecy",
           "title": {
-            "en-US": "I. Introductory Remarks on the Art of Prophecy"
+            "en-US": "I. Introductory Remarks on the Art of Prophecy",
+            "pt-BR": "I. Observações Introdutórias sobre a Arte da Profecia"
           }
         },
         {
           "id": "ch02-the-man-in-green",
           "title": {
-            "en-US": "II. The Man in Green"
+            "en-US": "II. The Man in Green",
+            "pt-BR": "II. O Homem de Verde"
           }
         },
         {
           "id": "ch03-the-hill-of-humour",
           "title": {
-            "en-US": "III. The Hill of Humour"
+            "en-US": "III. The Hill of Humour",
+            "pt-BR": "III. A Colina do Humor"
           }
         }
       ]
@@ -64,25 +74,29 @@
     {
       "id": "part02-book-ii",
       "title": {
-        "en-US": "Book II"
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
       },
       "children": [
         {
           "id": "ch04-the-charter-of-the-cities",
           "title": {
-            "en-US": "I. The Charter of the Cities"
+            "en-US": "I. The Charter of the Cities",
+            "pt-BR": "I. A Carta das Cidades"
           }
         },
         {
           "id": "ch05-the-council-of-the-provosts",
           "title": {
-            "en-US": "II. The Council of the Provosts"
+            "en-US": "II. The Council of the Provosts",
+            "pt-BR": "II. O Conselho dos Prebostes"
           }
         },
         {
           "id": "ch06-enter-a-lunatic",
           "title": {
-            "en-US": "III. Enter a Lunatic"
+            "en-US": "III. Enter a Lunatic",
+            "pt-BR": "III. Entra um Lunático"
           }
         }
       ]
@@ -90,25 +104,29 @@
     {
       "id": "part03-book-iii",
       "title": {
-        "en-US": "Book III"
+        "en-US": "Book III",
+        "pt-BR": "Livro III"
       },
       "children": [
         {
           "id": "ch07-the-mental-condition-of-adam-wayne",
           "title": {
-            "en-US": "I. The Mental Condition of Adam Wayne"
+            "en-US": "I. The Mental Condition of Adam Wayne",
+            "pt-BR": "I. A Condição Mental de Adam Wayne"
           }
         },
         {
           "id": "ch08-the-remarkable-mr-turnbull",
           "title": {
-            "en-US": "II. The Remarkable Mr. Turnbull"
+            "en-US": "II. The Remarkable Mr. Turnbull",
+            "pt-BR": "II. O Notável Sr. Turnbull"
           }
         },
         {
           "id": "ch09-the-experiment-of-mr-buck",
           "title": {
-            "en-US": "III. The Experiment of Mr. Buck"
+            "en-US": "III. The Experiment of Mr. Buck",
+            "pt-BR": "III. A Experiência do Sr. Buck"
           }
         }
       ]
@@ -116,25 +134,29 @@
     {
       "id": "part04-book-iv",
       "title": {
-        "en-US": "Book IV"
+        "en-US": "Book IV",
+        "pt-BR": "Livro IV"
       },
       "children": [
         {
           "id": "ch10-the-battle-of-the-lamps",
           "title": {
-            "en-US": "I. The Battle of the Lamps"
+            "en-US": "I. The Battle of the Lamps",
+            "pt-BR": "I. A Batalha dos Lampiões"
           }
         },
         {
           "id": "ch11-the-correspondent-of-the-court-journal",
           "title": {
-            "en-US": "II. The Correspondent of the Court Journal"
+            "en-US": "II. The Correspondent of the Court Journal",
+            "pt-BR": "II. O Correspondente do Jornal da Corte"
           }
         },
         {
           "id": "ch12-the-great-army-of-south-kensington",
           "title": {
-            "en-US": "III. The Great Army of South Kensington"
+            "en-US": "III. The Great Army of South Kensington",
+            "pt-BR": "III. O Grande Exército de South Kensington"
           }
         }
       ]
@@ -142,25 +164,29 @@
     {
       "id": "part05-book-v",
       "title": {
-        "en-US": "Book V"
+        "en-US": "Book V",
+        "pt-BR": "Livro V"
       },
       "children": [
         {
           "id": "ch13-the-empire-of-notting-hill",
           "title": {
-            "en-US": "I. The Empire of Notting Hill"
+            "en-US": "I. The Empire of Notting Hill",
+            "pt-BR": "I. O Império de Notting Hill"
           }
         },
         {
           "id": "ch14-the-last-battle",
           "title": {
-            "en-US": "II. The Last Battle"
+            "en-US": "II. The Last Battle",
+            "pt-BR": "II. A Última Batalha"
           }
         },
         {
           "id": "ch15-two-voices",
           "title": {
-            "en-US": "III. Two Voices"
+            "en-US": "III. Two Voices",
+            "pt-BR": "III. Duas Vozes"
           }
         }
       ]
