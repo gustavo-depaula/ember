@@ -11,17 +11,23 @@
   },
   "description": {
     "en-US": "A book of essays: on seriousness, lamp-posts, spirits, Tennyson, detectives, Meredith, the Irishman, the Japanese, Christian Science, pigs as pets, Rostand, the Futurists, the humour of King Herod, Mormonism, Christmas, Dickens and Shaw.",
-    "pt-BR": "Um livro de ensaios: sobre a seriedade, os postes de luz, os espíritos, Tennyson, os detetives, Meredith, o irlandês, os japoneses, a Christian Science, porcos como animais de estimação, Rostand, os futuristas, o humor do rei Herodes, o mormonismo, o Natal, Dickens e Shaw."
+    "pt-BR": "Um livro de ensaios: sobre a seriedade, os postes de luz, os espíritos, Tennyson, os detetives, Meredith, o irlandês, os japoneses, a Ciência Cristã, porcos como animais de estimação, Rostand, os futuristas, o humor do rei Herodes, o mormonismo, o Natal, Dickens e Shaw."
   },
   "composed": "1920",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/uses-of-diversity",
   "editions": {
     "en-US": {
       "editor": "Methuen & Co.",
       "year": 1920
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,211 +44,246 @@
     {
       "id": "ch01-on-seriousness",
       "title": {
-        "en-US": "On Seriousness"
+        "en-US": "On Seriousness",
+        "pt-BR": "Sobre a Seriedade"
       }
     },
     {
       "id": "ch02-lamp-posts",
       "title": {
-        "en-US": "Lamp-Posts"
+        "en-US": "Lamp-Posts",
+        "pt-BR": "Postes de Luz"
       }
     },
     {
       "id": "ch03-the-spirits",
       "title": {
-        "en-US": "The Spirits"
+        "en-US": "The Spirits",
+        "pt-BR": "Os Espíritos"
       }
     },
     {
       "id": "ch04-tennyson",
       "title": {
-        "en-US": "Tennyson"
+        "en-US": "Tennyson",
+        "pt-BR": "Tennyson"
       }
     },
     {
       "id": "ch05-the-domesticity-of-detectives",
       "title": {
-        "en-US": "The Domesticity of Detectives"
+        "en-US": "The Domesticity of Detectives",
+        "pt-BR": "A Domesticidade dos Detetives"
       }
     },
     {
       "id": "ch06-george-meredith",
       "title": {
-        "en-US": "George Meredith"
+        "en-US": "George Meredith",
+        "pt-BR": "George Meredith"
       }
     },
     {
       "id": "ch07-the-irishman",
       "title": {
-        "en-US": "The Irishman"
+        "en-US": "The Irishman",
+        "pt-BR": "O Irlandês"
       }
     },
     {
       "id": "ch08-ireland-and-the-domestic-drama",
       "title": {
-        "en-US": "Ireland and the Domestic Drama"
+        "en-US": "Ireland and the Domestic Drama",
+        "pt-BR": "A Irlanda e o Drama Doméstico"
       }
     },
     {
       "id": "ch09-the-japanese",
       "title": {
-        "en-US": "The Japanese"
+        "en-US": "The Japanese",
+        "pt-BR": "Os Japoneses"
       }
     },
     {
       "id": "ch10-christian-science",
       "title": {
-        "en-US": "Christian Science"
+        "en-US": "Christian Science",
+        "pt-BR": "Ciência Cristã"
       }
     },
     {
       "id": "ch11-the-lawlessness-of-lawyers",
       "title": {
-        "en-US": "The Lawlessness of Lawyers"
+        "en-US": "The Lawlessness of Lawyers",
+        "pt-BR": "A Ilegalidade dos Advogados"
       }
     },
     {
       "id": "ch12-our-latin-relations",
       "title": {
-        "en-US": "Our Latin Relations"
+        "en-US": "Our Latin Relations",
+        "pt-BR": "Nossos Parentes Latinos"
       }
     },
     {
       "id": "ch13-on-pigs-as-pets",
       "title": {
-        "en-US": "On Pigs as Pets"
+        "en-US": "On Pigs as Pets",
+        "pt-BR": "Sobre Porcos como Animais de Estimação"
       }
     },
     {
       "id": "ch14-the-romance-of-rostand",
       "title": {
-        "en-US": "The Romance of Rostand"
+        "en-US": "The Romance of Rostand",
+        "pt-BR": "O Espírito Romanesco de Rostand"
       }
     },
     {
       "id": "ch15-wishes",
       "title": {
-        "en-US": "Wishes"
+        "en-US": "Wishes",
+        "pt-BR": "Desejos"
       }
     },
     {
       "id": "ch16-the-futurists",
       "title": {
-        "en-US": "The Futurists"
+        "en-US": "The Futurists",
+        "pt-BR": "Os Futuristas"
       }
     },
     {
       "id": "ch17-the-evolution-of-emma",
       "title": {
-        "en-US": "The Evolution of Emma"
+        "en-US": "The Evolution of Emma",
+        "pt-BR": "A Evolução de Emma"
       }
     },
     {
       "id": "ch18-the-pseudo-scientific-books",
       "title": {
-        "en-US": "The Pseudo-Scientific Books"
+        "en-US": "The Pseudo-Scientific Books",
+        "pt-BR": "Os Livros Pseudocientíficos"
       }
     },
     {
       "id": "ch19-the-humour-of-king-herod",
       "title": {
-        "en-US": "The Humour of King Herod"
+        "en-US": "The Humour of King Herod",
+        "pt-BR": "O Humor do Rei Herodes"
       }
     },
     {
       "id": "ch20-the-silver-goblets",
       "title": {
-        "en-US": "The Silver Goblets"
+        "en-US": "The Silver Goblets",
+        "pt-BR": "As Taças de Prata"
       }
     },
     {
       "id": "ch21-the-duty-of-the-historian",
       "title": {
-        "en-US": "The Duty of the Historian"
+        "en-US": "The Duty of the Historian",
+        "pt-BR": "O Dever do Historiador"
       }
     },
     {
       "id": "ch22-questions-of-divorce",
       "title": {
-        "en-US": "Questions of Divorce"
+        "en-US": "Questions of Divorce",
+        "pt-BR": "Questões de Divórcio"
       }
     },
     {
       "id": "ch23-mormonism",
       "title": {
-        "en-US": "Mormonism"
+        "en-US": "Mormonism",
+        "pt-BR": "O Mormonismo"
       }
     },
     {
       "id": "ch24-pageants-and-dress",
       "title": {
-        "en-US": "Pageants and Dress"
+        "en-US": "Pageants and Dress",
+        "pt-BR": "Cortejos e Vestuário"
       }
     },
     {
       "id": "ch25-on-stage-costume",
       "title": {
-        "en-US": "On Stage Costume"
+        "en-US": "On Stage Costume",
+        "pt-BR": "Sobre o Figurino Teatral"
       }
     },
     {
       "id": "ch26-the-yule-log-and-the-democrat",
       "title": {
-        "en-US": "The Yule Log and the Democrat"
+        "en-US": "The Yule Log and the Democrat",
+        "pt-BR": "A Tora de Natal e o Democrata"
       }
     },
     {
       "id": "ch27-more-thoughts-on-christmas",
       "title": {
-        "en-US": "More Thoughts on Christmas"
+        "en-US": "More Thoughts on Christmas",
+        "pt-BR": "Mais Reflexões sobre o Natal"
       }
     },
     {
       "id": "ch28-dickens-again",
       "title": {
-        "en-US": "Dickens Again"
+        "en-US": "Dickens Again",
+        "pt-BR": "Dickens Outra Vez"
       }
     },
     {
       "id": "ch29-taffy",
       "title": {
-        "en-US": "Taffy"
+        "en-US": "Taffy",
+        "pt-BR": "Taffy"
       }
     },
     {
       "id": "ch30-ego-et-shavius-meus",
       "title": {
-        "en-US": "“Ego et Shavius Meus”"
+        "en-US": "“Ego et Shavius Meus”",
+        "pt-BR": "“Ego et Shavius Meus”"
       }
     },
     {
       "id": "ch31-the-plan-for-a-new-universe",
       "title": {
-        "en-US": "The Plan for a New Universe"
+        "en-US": "The Plan for a New Universe",
+        "pt-BR": "O Plano para um Novo Universo"
       }
     },
     {
       "id": "ch32-george-wyndham",
       "title": {
-        "en-US": "George Wyndham"
+        "en-US": "George Wyndham",
+        "pt-BR": "George Wyndham"
       }
     },
     {
       "id": "ch33-four-stupidities",
       "title": {
-        "en-US": "Four Stupidities"
+        "en-US": "Four Stupidities",
+        "pt-BR": "Quatro Estupidezes"
       }
     },
     {
       "id": "ch34-on-historical-novels",
       "title": {
-        "en-US": "On Historical Novels"
+        "en-US": "On Historical Novels",
+        "pt-BR": "Sobre Romances Históricos"
       }
     },
     {
       "id": "ch35-on-monsters",
       "title": {
-        "en-US": "On Monsters"
+        "en-US": "On Monsters",
+        "pt-BR": "Sobre Monstros"
       }
     }
   ]
