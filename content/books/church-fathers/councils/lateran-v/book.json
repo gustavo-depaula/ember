@@ -18,13 +18,19 @@
   },
   "composed": "1512–1517",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "councils/lateran-v",
   "editions": {
     "la": {
       "editor": "Conciliorum Oecumenicorum Decreta (Bologna 1962), via Latin Wikisource / Documenta Catholica Omnia",
       "year": 1962
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,7 +47,8 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Concilium Lateranense V (1512–1517)"
+        "la": "Concilium Lateranense V (1512–1517)",
+        "pt-BR": "Quinto Concílio de Latrão (1512–1517)"
       }
     }
   ]
