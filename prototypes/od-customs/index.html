@@ -18,16 +18,14 @@ h1 { font: 500 italic clamp(34px, 5vw, 50px)/1.05 var(--body); margin: 0; }
 h2 { font: 500 italic 28px/1.15 var(--body); margin: 0; }
 p { margin: 0; }
 .lede { color: var(--muted); }
-.variants { display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap: 40px 32px; }
-.variant { display: grid; gap: 14px; align-content: start; }
-.variant > p { color: var(--muted); font-size: 17px; max-width: 46ch; }
+.main { display: grid; grid-template-columns: minmax(300px, 380px) 1fr; gap: 40px; align-items: start; }
+@media (max-width: 820px) { .main { grid-template-columns: 1fr; } }
 
-/* The phone: the app's dark theme, as on the device. */
 .phone {
-  --bg: #0E0D0C; --fg: #EDE4D8; --fg2: #A89A8C; --accent: #D4A63A; --surface: #252220;
-  width: 100%; max-width: 380px; height: 760px; border-radius: 34px; overflow: hidden;
+  --bg: #0E0D0C; --fg: #EDE4D8; --fg2: #A89A8C; --accent: #D4A63A;
+  width: 100%; max-width: 380px; height: 780px; border-radius: 34px; overflow: hidden;
   background: var(--bg); color: var(--fg); border: 8px solid #050505;
-  box-shadow: 0 2px 4px rgba(0,0,0,.15), 0 18px 40px rgba(0,0,0,.22); position: relative;
+  box-shadow: 0 2px 4px rgba(0,0,0,.15), 0 18px 40px rgba(0,0,0,.22);
 }
 .screen { height: 100%; overflow-y: auto; scrollbar-width: none; }
 .screen::-webkit-scrollbar { display: none; }
@@ -38,98 +36,99 @@ p { margin: 0; }
 .hero small { font: italic 15px/1.3 var(--body); color: var(--fg2); }
 .col { padding: 16px 22px 40px; display: grid; gap: 22px; }
 .prose { font-size: 17px; line-height: 1.55; }
-.divider { text-align: center; color: var(--accent); font-size: 14px; letter-spacing: .6em; opacity: .8; }
+.divider { text-align: center; color: var(--accent); font-size: 14px; opacity: .8; }
 .label { font: 500 12px/1 var(--body); letter-spacing: .16em; text-transform: uppercase; color: var(--fg2); }
+.sub { margin-top: 10px; }
 .sec { display: grid; gap: 6px; }
 .sec .lede2 { font-size: 15px; line-height: 1.4; color: var(--fg2); }
 .string { display: grid; }
-.row { display: flex; align-items: center; gap: 10px; min-height: 46px; cursor: default; }
+.row { display: flex; align-items: center; gap: 10px; min-height: 46px; }
 .row.tap { cursor: pointer; -webkit-tap-highlight-color: transparent; }
 .row svg { flex: none; align-self: stretch; }
 .row .name { flex: 1; font-size: 17px; line-height: 1.2; padding: 4px 0; }
-.row .name i { display: block; font-size: 13.5px; color: var(--fg2); font-style: italic; }
+.row.new .name::after { content: " · nova"; color: var(--accent); font-size: 13px; font-style: italic; }
 .row.off .name { color: var(--fg2); }
-.row .when { color: var(--fg2); font-size: 14.5px; white-space: nowrap; }
-.row.custom .name::after { content: ""; }
-.slab {
-  display: block; width: 100%; border: 0; border-radius: 6px; padding: 15px 12px; cursor: pointer;
-  background: var(--accent); color: #17130E; font: 600 15px/1.2 var(--display); letter-spacing: .08em;
-}
+.row .when { color: var(--fg2); font-size: 14px; text-align: right; max-width: 40%; line-height: 1.2; }
+.slab { display: block; width: 100%; border: 0; border-radius: 6px; padding: 15px 12px; cursor: pointer;
+  background: var(--accent); color: #17130E; font: 600 15px/1.2 var(--display); letter-spacing: .08em; }
 .slab small { display: block; font: italic 14px/1.3 var(--body); letter-spacing: 0; margin-top: 3px; opacity: .8; }
 .other { text-align: center; color: var(--fg2); font-size: 15px; font-style: italic; }
-.notes { display: grid; gap: 12px; max-width: 70ch; border-top: 1px solid var(--rule); padding-top: 24px; }
-.notes ul { margin: 0; padding-left: 1.1em; display: grid; gap: 8px; }
+
+.side { display: grid; gap: 28px; }
+.side section { display: grid; gap: 10px; }
+.side ul { margin: 0; padding-left: 1.1em; display: grid; gap: 8px; }
 table { border-collapse: collapse; width: 100%; font-size: 16px; }
-th, td { text-align: left; padding: 7px 10px 7px 0; border-bottom: 1px solid var(--rule); vertical-align: top; }
+th, td { text-align: left; padding: 6px 10px 6px 0; border-bottom: 1px solid var(--rule); vertical-align: top; }
 th { font: 500 12px/1.2 var(--body); letter-spacing: .14em; text-transform: uppercase; color: var(--muted); }
 code { font: 13.5px ui-monospace, Menlo, monospace; color: var(--gold); }
-.flag { color: #C0651E; }
+.flag { color: #C0651E; font-style: italic; }
 .tablewrap { overflow-x: auto; }
 </style>
 
 <div class="wrap">
   <header>
-    <span class="kicker">Protótipo · página do Opus Dei · onboarding e Plano de Vida</span>
+    <span class="kicker">Protótipo · versão A · lista do planodevida.app</span>
     <h1>Os costumes, em contas</h1>
-    <p class="lede">As normas continuam vindo inteiras. Logo abaixo vêm os costumes, cada um como uma conta vazia com um +. Toque para trazer um para o fio, e toque de novo para soltar. O botão conta o que vai entrar. A página é a mesma no onboarding e no Plano de Vida; só o botão muda.</p>
+    <p class="lede">Esta é a versão A, agora com a lista de verdade. Os costumes são os que o planodevida.app marca como "Costumes", e os dias e horários também vêm de lá. Toque numa conta para trazer o costume para o fio, e toque de novo para soltar. A água benta ao deitar virou uma norma própria, separada das Três Ave-Marias.</p>
   </header>
 
-  <div class="variants">
-    <div class="variant">
-      <h2>A · Um fio para os costumes</h2>
-      <p>Os costumes ficam num fio só deles, depois das normas: primeiro os de todo dia, depois os da semana. Fica claro o que é norma e o que é costume.</p>
-      <div class="phone"><div class="screen" id="a"></div></div>
-    </div>
-    <div class="variant">
-      <h2>B · Costurados nas normas</h2>
-      <p>Os costumes entram no mesmo fio, cada um na sua hora, como contas vazias entre as normas. Mostra como o dia fica, mas o fio fica mais comprido.</p>
-      <div class="phone"><div class="screen" id="b"></div></div>
-    </div>
-  </div>
+  <div class="main">
+    <div class="phone"><div class="screen" id="a"></div></div>
 
-  <div class="notes">
-    <h2>Que costumes, e de onde vêm</h2>
-    <p>Não consegui abrir o planodevida.app, porque o site bloqueia acesso automático. Por isso a lista abaixo é uma proposta minha, montada com as orações que já estão no acervo. Vale conferir com a lista do app do seu amigo, ou com o que a Obra vive de fato. Todas, menos uma, já existem como oração no Ember.</p>
-    <div class="tablewrap"><table>
-      <tr><th>Costume</th><th>Quando</th><th>Oração no acervo</th></tr>
-      <tbody id="table"></tbody>
-    </table></div>
-    <ul>
-      <li>Água benta ao deitar não tem oração no acervo. Seria uma conta sem texto, só para marcar o gesto, ou fica de fora.</li>
-      <li>Recolhimento mensal e retiro anual também são da Obra, mas não são orações. Ficam para outra vez.</li>
-      <li>Nenhum costume vem marcado, então quem adota leva só as normas. Se você preferir, alguns podem já vir marcados, como a comunhão espiritual e a bênção à mesa.</li>
-      <li>Os costumes entram no plano como "Para ir além": aparecem no Hoje, mas faltar a um não quebra o dia. As normas continuam essenciais.</li>
-    </ul>
+    <div class="side">
+      <section>
+        <h2>Os costumes, um a um</h2>
+        <div class="tablewrap"><table>
+          <tr><th>Costume</th><th>Quando</th><th>Oração no acervo</th></tr>
+          <tbody id="table"></tbody>
+        </table></div>
+      </section>
+      <section>
+        <h2>Para você decidir</h2>
+        <ul>
+          <li><b>Te Deum e Responso caem em datas do ano.</b> O Te Deum é em 14 fev, 2 out, 28 nov e 31 dez; o Responso, em 2 nov. O Ember ainda não tem agenda por data do ano, então isso seria um tipo de agenda novo, com lembrete e rótulo próprios.</li>
+          <li><b>Bênção com o Santíssimo</b> é ir à bênção, não uma oração. Pode virar uma conta sem texto, como a água benta.</li>
+          <li><b>"Tempo da Tarde" e "Tempo da Noite"</b> aparecem como costumes de todo dia, às 14:00 e 21:30. Não sei o que são, por isso deixei de fora.</li>
+          <li><b>Extrato e Conta de gastos</b>, no 1º domingo do mês, não são orações. Também deixei de fora.</li>
+          <li><b>Via-Sacra:</b> no app dele cai no 3º domingo do mês. Mantive assim, mas confira se é isso mesmo.</li>
+        </ul>
+      </section>
+      <section>
+        <h2>Outras coisas que faltam</h2>
+        <p class="lede">O app dele também tem normas que o modelo do Ember ainda não tem: Ação de Graças depois da Missa, Comunhão espiritual, Presença de Deus, Ato de Desagravo, Antífona Mariana aos sábados e Contemplação dos mistérios. E tem mais dois grupos além de normas e costumes:</p>
+        <ul>
+          <li><b>Mortificações:</b> Minuto heroico, mortificação pelo Padre, dia de guarda e abstinência às sextas.</li>
+          <li><b>Formação:</b> conversa fraterna, círculo, recolhimento mensal, curso anual e retiro.</li>
+        </ul>
+        <p class="lede">Ficaram fora deste protótipo, que é só sobre os costumes. Se quiser, entram depois.</p>
+      </section>
+    </div>
   </div>
 </div>
 
 <script>
 const hue = (t) => { const h = +t.slice(0, 2);
   return h >= 21 ? '#6F95D8' : h >= 18 ? '#B07FD0' : h >= 14 ? '#DE8F48' : h >= 12 ? '#F0DC8C' : h >= 8 ? '#E3B04B' : '#E2849A' };
-const days = ['dom', 'seg', 'ter', 'qua', 'qui', 'sex', 'sáb'];
 const norms = [
   ['Oferecimento de obras', '06:30'], ['Santa Missa', '07:00'], ['Oração mental', '07:30'],
   ['Preces', '08:00'], ['Ângelus', '12:00'], ['Exame particular', '12:05'],
   ['Visita ao Santíssimo', '13:30'], ['Rosário', '18:00'], ['Oração mental', '19:00'],
   ['Novo Testamento', '21:00'], ['Leitura espiritual', '21:30'], ['Exame de consciência', '22:00'],
-  ['Três Ave-Marias', '22:30'], ['Confissão', '10:00', 6],
+  ['Três Ave-Marias', '22:30'], ['Água benta ao deitar', '22:35', null, true], ['Confissão', '10:00', 'sáb'],
 ];
 const customs = [
-  { id: 'angel', name: 'Saudar o Anjo da Guarda', time: '07:05', ref: 'guardian-angel' },
-  { id: 'comm', name: 'Comunhão espiritual', hint: 'muitas vezes ao dia', time: '10:30', ref: 'spiritual-communion-opus-dei' },
-  { id: 'grace', name: 'Bênção à mesa', time: '12:30', ref: 'grace-meals' },
-  { id: 'memo', name: 'Lembrai-vos', time: '20:30', ref: 'memorare' },
-  { id: 'water', name: 'Água benta ao deitar', time: '22:35', ref: null },
-  { id: 'trisag', name: 'Triságio Angélico', time: '09:00', day: 0, ref: 'angelic-trisagion' },
-  { id: 'souls', name: 'Pelas almas do purgatório', time: '20:30', day: 1, ref: 'monday-souls' },
-  { id: 'angels', name: 'Os Santos Anjos', time: '20:30', day: 2, ref: 'tuesday-angels' },
-  { id: 'joseph', name: 'São José', time: '20:30', day: 3, ref: 'wednesday-joseph' },
-  { id: 'adoro', name: 'Adoro-Te devotamente', time: '13:35', day: 4, ref: 'adoro-te-devote' },
-  { id: 'via', name: 'Via-Sacra', time: '15:00', day: 5, ref: 'way-of-the-cross-opus-dei' },
-  { id: 'salve', name: 'Salve Rainha', time: '22:40', day: 6, ref: 'hail-holy-queen' },
+  { group: 'Cada dia', name: 'Lembrai-vos', time: '07:40', ref: 'memorare' },
+  { group: 'Na semana', name: 'Salmo 2', time: '06:30', when: 'ter', ref: 'psalm-2' },
+  { group: 'Na semana', name: 'Adoro-Te devotamente', time: '06:30', when: 'qui', ref: 'adoro-te-devote' },
+  { group: 'Na semana', name: 'Bênção com o Santíssimo', time: '12:45', when: 'sáb', ref: null },
+  { group: 'No mês', name: 'Via-Sacra', time: '10:00', when: '3º dom', ref: 'way-of-the-cross-opus-dei' },
+  { group: 'No mês', name: 'Símbolo Atanasiano', time: '08:00', when: '3º dom', ref: 'athanasian-creed' },
+  { group: 'No ano', name: 'Te Deum', time: '06:30', when: '14 fev · 2 out · 28 nov · 31 dez', ref: 'te-deum', needs: 'datas do ano' },
+  { group: 'No ano', name: 'Responso pelos defuntos', time: '06:30', when: '2 nov', ref: 'responsory-for-the-dead', needs: 'datas do ano' },
 ];
+customs.forEach((c, i) => c.id = i);
 document.getElementById('table').innerHTML = customs.map(c =>
-  `<tr><td>${c.name}</td><td>${c.day !== undefined ? days[c.day] + ' ' : 'todo dia '}${c.time}</td><td>${c.ref ? `<code>${c.ref}</code>` : '<span class="flag">nenhuma</span>'}</td></tr>`).join('');
+  `<tr><td>${c.name}</td><td>${c.when ?? 'todo dia'} ${c.time}</td><td>${c.ref ? `<code>${c.ref}</code>` : '<span class="flag">nenhuma (gesto)</span>'}${c.needs ? ` <span class="flag">· precisa de ${c.needs}</span>` : ''}</td></tr>`).join('');
 
 const rail = 52, sway = 12, bx = (i) => rail / 2 + sway * Math.sin(i * 1.1);
 function bead(i, n, b, h = 46) {
@@ -140,55 +139,42 @@ function bead(i, n, b, h = 46) {
   const thread = `<path d="${from}${x},${y}${to}" stroke="${col}" stroke-opacity="${b.on ? .55 : .4}" stroke-width="1.3" fill="none"/>`;
   let dot;
   if (!b.on) dot = `<circle cx="${x}" cy="${y}" r="11" fill="#0E0D0C" stroke="#D4A63A" stroke-width="1.2" stroke-dasharray="3 3"/><path d="M${x - 4},${y}h8M${x},${y - 4}v8" stroke="#D4A63A" stroke-width="1.4" stroke-linecap="round"/>`;
-  else if (b.day !== undefined) dot = `<circle cx="${x}" cy="${y}" r="${b.r}" fill="#0E0D0C" stroke="${col}" stroke-width="1.6"/>`;
+  else if (b.when) dot = `<circle cx="${x}" cy="${y}" r="${b.r}" fill="#0E0D0C" stroke="${col}" stroke-width="1.6"/>`;
   else dot = `<circle cx="${x}" cy="${y}" r="${b.r}" fill="${col}"/>`;
-  return `<svg width="${rail}" height="${h}" viewBox="0 0 ${rail} ${h}" preserveAspectRatio="none">${thread}${dot}</svg>`;
+  return `<svg width="${rail}" height="${h}" viewBox="0 0 ${rail} ${h}">${thread}${dot}</svg>`;
 }
-const when = (b) => `${b.day !== undefined ? days[b.day] + ' ' : ''}${b.time}`;
-function row(b, i, n) {
-  const tap = b.custom ? ` tap" data-id="${b.id}` : '';
-  return `<div class="row ${b.on ? '' : 'off'}${tap}" ${b.custom ? 'role="checkbox" aria-checked="' + b.on + '"' : ''}>
-    ${bead(i, n, b)}<span class="name">${b.name}${b.hint ? `<i>${b.hint}</i>` : ''}</span><span class="when">${when(b)}</span></div>`;
-}
-const order = (a, b) => (a.day !== undefined) - (b.day !== undefined) || (a.day ?? 0) - (b.day ?? 0) || a.time.localeCompare(b.time);
+const row = (b, i, n) => `<div class="row ${b.on ? '' : 'off'} ${b.isNew ? 'new' : ''} ${b.custom ? 'tap' : ''}" ${b.custom ? `data-id="${b.id}" role="checkbox" aria-checked="${b.on}"` : ''}>
+  ${bead(i, n, b)}<span class="name">${b.name}</span><span class="when">${b.when ? b.when + ' ' : ''}${b.time}</span></div>`;
 const string = (beads) => `<div class="string">${beads.map((b, i) => row(b, i, beads.length)).join('')}</div>`;
 
-const state = { a: new Set(), b: new Set() };
-const normBeads = norms.map(([name, time, day]) => ({ name, time, day, on: true, r: 9 }));
-const customBeads = (k) => customs.map(c => ({ ...c, custom: true, on: state[k].has(c.id), r: 7 }));
+const chosen = new Set();
+const normBeads = norms.map(([name, time, when, isNew]) => ({ name, time, when, isNew, on: true, r: 9 }))
+  .sort((a, b) => !!a.when - !!b.when || a.time.localeCompare(b.time));
 
-function hero() {
-  return `<div class="hero" style="background-image:url(od.webp)"><div class="t"><h3>Opus Dei</h3><small>São Josemaria Escrivá, Caminho; É Cristo que Passa</small></div></div>`;
+function render() {
+  const cs = customs.map(c => ({ ...c, custom: true, on: chosen.has(c.id), r: 7 }));
+  const groups = [...new Set(cs.map(c => c.group))];
+  const n = chosen.size;
+  document.getElementById('a').innerHTML = `
+    <div class="hero" style="background-image:url(od.webp)"><div class="t"><h3>Opus Dei</h3><small>São Josemaria Escrivá, Caminho; É Cristo que Passa</small></div></div>
+    <div class="col">
+      <p class="prose">As normas de piedade são um plano de vida concreto, com práticas para cada dia, semana, mês e ano, feito para leigos que buscam a santidade no trabalho de todos os dias. O seu fundamento é a filiação divina: você é filho de Deus, e por isso não há uma vida sagrada e outra profana, mas uma só vida, oferecida a Deus por inteiro.</p>
+      <div class="divider">✠</div>
+      <div class="sec"><span class="label">As normas</span>${string(normBeads)}</div>
+      <div class="sec"><span class="label">Os costumes</span>
+        <p class="lede2">Ao longo da semana, do mês e do ano, a Obra vive também alguns costumes. Toque nos que quiser trazer.</p>
+        ${groups.map(g => `<span class="label sub">${g}</span>${string(cs.filter(c => c.group === g))}`).join('')}
+      </div>
+      <button class="slab">ADOTAR O PLANO<small>15 normas${n ? ` e ${n} ${n === 1 ? 'costume' : 'costumes'}` : ''}</small></button>
+      <p class="other">⊕ E qualquer outra oração…</p>
+    </div>`;
 }
-const prose = `<p class="prose">As normas de piedade são um plano de vida concreto, com práticas para cada dia, semana, mês e ano, feito para leigos que buscam a santidade no trabalho de todos os dias. O seu fundamento é a filiação divina: você é filho de Deus, e por isso não há uma vida sagrada e outra profana, mas uma só vida, oferecida a Deus por inteiro.</p><div class="divider">✠</div>`;
-function slab(k) {
-  const n = state[k].size;
-  return `<button class="slab">ADOTAR O PLANO<small>14 normas${n ? ` e ${n} ${n === 1 ? 'costume' : 'costumes'}` : ''}</small></button><p class="other">⊕ E qualquer outra oração…</p>`;
-}
-function renderA() {
-  const cs = customBeads('a');
-  const daily = cs.filter(c => c.day === undefined), weekly = cs.filter(c => c.day !== undefined);
-  document.getElementById('a').innerHTML = hero() + `<div class="col">${prose}
-    <div class="sec"><span class="label">As normas</span>${string(normBeads.slice().sort(order))}</div>
-    <div class="sec"><span class="label">Os costumes</span><p class="lede2">Pequenos gestos que a Obra vive ao longo do dia e da semana. Toque nos que quiser trazer.</p>
-      <span class="label" style="margin-top:8px">Cada dia</span>${string(daily)}
-      <span class="label" style="margin-top:8px">Na semana</span>${string(weekly)}</div>
-    ${slab('a')}</div>`;
-}
-function renderB() {
-  const all = normBeads.concat(customBeads('b')).sort(order);
-  document.getElementById('b').innerHTML = hero() + `<div class="col">${prose}
-    <div class="sec"><span class="label">As normas e os costumes</span><p class="lede2">As normas já estão no fio. As contas vazias são costumes da Obra: toque nos que quiser trazer.</p>${string(all)}</div>
-    ${slab('b')}</div>`;
-}
-for (const k of ['a', 'b']) {
-  const el = document.getElementById(k);
-  el.addEventListener('click', (e) => {
-    const r = e.target.closest('.row.tap'); if (!r) return;
-    const s = state[k], id = r.dataset.id; s.has(id) ? s.delete(id) : s.add(id);
-    const top = el.scrollTop; (k === 'a' ? renderA : renderB)(); el.scrollTop = top;
-  });
-}
-renderA(); renderB();
-document.getElementById('a').scrollTop = 520; document.getElementById('b').scrollTop = 520;
+const el = document.getElementById('a');
+el.addEventListener('click', (e) => {
+  const r = e.target.closest('.row.tap'); if (!r) return;
+  const id = +r.dataset.id; chosen.has(id) ? chosen.delete(id) : chosen.add(id);
+  const top = el.scrollTop; render(); el.scrollTop = top;
+});
+render();
+el.scrollTop = 560;
 </script>
