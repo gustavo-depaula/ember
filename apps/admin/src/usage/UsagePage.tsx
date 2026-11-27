@@ -3,6 +3,7 @@ import { type ReactNode, useEffect, useState } from 'react'
 import { type UsageFilter, type UsageOf, type UsageTab, usageTabs } from '../../worker/types'
 import { CardsTab } from './CardsTab'
 import { FeaturesTab } from './FeaturesTab'
+import { HealthTab } from './HealthTab'
 import { LibraryTab } from './LibraryTab'
 import { MassTab } from './MassTab'
 import { OnboardingTab } from './OnboardingTab'
@@ -24,6 +25,7 @@ const labels: Record<UsageTab, string> = {
   library: 'Library',
   search: 'Search',
   features: 'Features',
+  health: 'Health',
 }
 
 const tabAt = (pathname: string): UsageTab =>
@@ -137,6 +139,8 @@ function Tab({ tab, data }: { tab: UsageTab; data: UsageOf[UsageTab] }): ReactNo
       return <SearchTab usage={data as UsageOf['search']} />
     case 'features':
       return <FeaturesTab usage={data as UsageOf['features']} />
+    case 'health':
+      return <HealthTab usage={data as UsageOf['health']} />
   }
 }
 

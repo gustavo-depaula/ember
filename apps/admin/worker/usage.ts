@@ -1,6 +1,7 @@
 import type {
   ChurchUse,
   Features,
+  Health,
   HolyCards,
   Library,
   MassTimes,
@@ -88,6 +89,7 @@ export async function loadUsage<T extends UsageTab>(
     library: () => library(dbs.relay, params, period),
     search: () => search(dbs, params, period),
     features: () => features(dbs.relay, params, period, today),
+    health: () => health(dbs.relay, params, period),
   }
   return loaders[tab]() as Promise<UsageOf[T]>
 }
@@ -105,6 +107,58 @@ const pulse = `${scoped}, ${prayer}
     (SELECT COUNT(DISTINCT install) FROM p WHERE day >= ?4 AND amen) AS amen,
     (SELECT COUNT(DISTINCT install) FROM p WHERE day < ?4 AND amen) AS amenBefore,
     (SELECT COUNT(DISTINCT install) FROM a) AS ever`
+
+// What a newcomer might do in their first week, each as a condition on the counts of that week.
+const firstWeek: [string, string][] = [
+  ['Added a practice to the plan', "MAX(a.name = 'SlotAdded')"],
+  ['Turned reminders on', `MAX(a.name = 'onboarding_reminders' AND ${prop('reminders')} = 'on')`],
+  [
+    'Said Amen on 3 or more days',
+    `COUNT(DISTINCT CASE WHEN a.name = 'CompletionLogged' AND ${prop('via')} = 'amen'
+      THEN a.day END) >= 3`,
+  ],
+  ['Opened a holy card', "MAX(a.name = 'HolyCardRedeemed')"],
+  ['Opened Mass times', `MAX(a.name = 'screen' AND ${prop('route')} = '/mass-times')`],
+  ['Checked in at Mass', "MAX(a.name = 'CheckInLogged')"],
+  ['Read a book', "MAX(a.name IN ('ReadingLogged', 'book_chapter'))"],
+  ['Read the Bible', "MAX(a.name = 'bible_chapter')"],
+  ['Saved something', "MAX(a.name IN ('ItemSaved', 'CollectionItemAdded'))"],
+  ['Searched', "MAX(a.name = 'search')"],
+  ['Tapped a reminder', "MAX(a.name = 'reminder_opened')"],
+  ['Changed a prayer’s language', "MAX(a.name = 'prayer_language')"],
+]
+
+// Installs first seen between four and seventeen weeks before today: old enough to have had a
+// fourth week. `kept` is being seen at all in days 21 to 27 after the first.
+const predictors = `${scoped},
+  f AS (SELECT install, MIN(day) AS first FROM a GROUP BY install),
+  c AS (SELECT install, first FROM f
+    WHERE first BETWEEN date(?3, '-118 days') AND date(?3, '-28 days')),
+  w AS (SELECT c.install,
+      ${firstWeek.map(([, flag], i) => `(${flag}) AS b${i}`).join(',\n      ')}
+    FROM c JOIN a ON a.install = c.install AND a.day BETWEEN c.first AND date(c.first, '+6 days')
+    GROUP BY c.install),
+  k AS (SELECT DISTINCT c.install FROM c JOIN a ON a.install = c.install
+    AND a.day BETWEEN date(c.first, '+21 days') AND date(c.first, '+27 days')),
+  r AS (SELECT w.*, w.install IN (SELECT install FROM k) AS kept FROM w)
+  SELECT COUNT(*) AS total, COALESCE(SUM(kept), 0) AS totalKept,
+    ${firstWeek
+      .map((_, i) => `COALESCE(SUM(b${i}), 0) AS d${i}, COALESCE(SUM(b${i} AND kept), 0) AS k${i}`)
+      .join(',\n    ')}
+  FROM r`
+
+// The one row of sums, as a row for each act. D1 caps how many SELECTs a UNION may join, so the
+// sums come back side by side.
+function predictorRows(row: Row | undefined): Overview['predictors'] {
+  const n = (key: string) => Number(row?.[key] ?? 0)
+  return firstWeek.map(([behavior], i) => ({
+    behavior,
+    did: n(`d${i}`),
+    didKept: n(`k${i}`),
+    didNot: n('total') - n(`d${i}`),
+    didNotKept: n('totalKept') - n(`k${i}`),
+  }))
+}
 
 async function overview(db: D1Database, params: unknown[], period: PeriodOf): Promise<Overview> {
   const rows = await read(
@@ -140,11 +194,13 @@ async function overview(db: D1Database, params: unknown[], period: PeriodOf): Pr
         UNION ALL SELECT 'version', version, COUNT(DISTINCT install) FROM w GROUP BY 2
         UNION ALL SELECT 'update', COALESCE(build, 'not sent'), COUNT(DISTINCT install)
           FROM w GROUP BY 2`,
+      predictors,
     },
     params,
   )
   return {
     ...period,
+    predictors: predictorRows(rows.predictors[0]),
     pulse: rows.pulse[0] as Pulse,
     newcomers: rows.newcomers[0] as Overview['newcomers'],
     daily: rows.daily as Overview['daily'],
@@ -296,6 +352,20 @@ async function prayerTab(db: D1Database, params: unknown[], period: PeriodOf): P
           SUM(EXISTS (SELECT 1 FROM a x WHERE x.install = r.install AND x.day = r.day
             AND x.name = 'CompletionLogged' AND json_extract(x.props, '$.id') = r.id)) AS prayed
         FROM r GROUP BY 1 ORDER BY installs DESC LIMIT 20`,
+      reading: `${scoped}
+        SELECT ${prop('id')} AS id, COUNT(*) AS sessions, COUNT(DISTINCT install) AS installs,
+          ROUND(AVG(CAST(${prop('depth')} AS INTEGER))) AS depth,
+          SUM(${prop('depth')} = '100') AS whole,
+          SUM(${prop('end')} = 'amen') AS amen,
+          SUM(${prop('end')} IN ('mass', 'mass-check-in', 'check-in')) AS mass,
+          SUM(${prop('end')} = 'left') AS left
+        FROM a WHERE name = 'prayer_read' AND day >= ?4 GROUP BY 1
+        ORDER BY sessions DESC LIMIT 30`,
+      languages: `${scoped}
+        SELECT ${prop('action')} AS action, COALESCE(${prop('value')}, '') AS value,
+          COUNT(*) AS times, COUNT(DISTINCT install) AS installs
+        FROM a WHERE name = 'prayer_language' AND day >= ?4 GROUP BY 1, 2
+        ORDER BY times DESC LIMIT 20`,
     },
     params,
   )
@@ -309,6 +379,8 @@ async function prayerTab(db: D1Database, params: unknown[], period: PeriodOf): P
     arc: rows.arc as Prayer['arc'],
     stations: rows.stations[0] as Prayer['stations'],
     reminders: rows.reminders as Prayer['reminders'],
+    reading: rows.reading as Prayer['reading'],
+    languages: rows.languages as Prayer['languages'],
   }
 }
 
@@ -713,6 +785,20 @@ async function search({ relay, mass }: Dbs, params: unknown[], period: PeriodOf)
   }
 }
 
+// Each install's latest daily plan count in the period.
+const lastPlan = `l AS (SELECT install, props,
+    ROW_NUMBER() OVER (PARTITION BY install ORDER BY day DESC, id DESC) AS n
+  FROM a WHERE name = 'plan' AND day >= ?4)`
+const latestPlan = {
+  plans: `${scoped}, ${lastPlan}
+    SELECT CAST(${prop('practices')} AS INTEGER) AS practices,
+      CAST(${prop('reminders')} AS INTEGER) AS reminders, COUNT(*) AS installs
+    FROM l WHERE n = 1 GROUP BY 1, 2`,
+  permissions: `${scoped}, ${lastPlan}
+    SELECT ${prop('notifications')} AS status, COUNT(*) AS installs FROM l
+    WHERE n = 1 GROUP BY 1 ORDER BY installs DESC`,
+}
+
 async function features(
   db: D1Database,
   params: unknown[],
@@ -744,6 +830,20 @@ async function features(
       appStore: `${scoped}
         SELECT ${prop('action')} AS action, COUNT(DISTINCT install) AS installs, COUNT(*) AS times
         FROM a WHERE name = 'app_store_sheet' AND day >= ?4 GROUP BY 1`,
+      links: `${scoped}
+        SELECT COALESCE(${prop('id')}, 'another page') AS id,
+          SUM(${prop('start')} = 'cold') AS cold, SUM(${prop('start')} = 'warm') AS warm,
+          COUNT(DISTINCT install) AS installs
+        FROM a WHERE name = 'link_opened' AND day >= ?4 GROUP BY 1
+        ORDER BY installs DESC LIMIT 20`,
+      notifications: `${scoped}
+        SELECT ${prop('asked')} AS asked, COUNT(DISTINCT install) AS installs FROM a
+        WHERE name = 'notifications' AND day >= ?4 GROUP BY 1`,
+      ...latestPlan,
+      planDaily: `${scoped}
+        SELECT day, ROUND(AVG(CAST(${prop('practices')} AS REAL)), 1) AS practices,
+          ROUND(AVG(CAST(${prop('reminders')} AS REAL)), 1) AS reminders
+        FROM a WHERE name = 'plan' AND day >= ?4 GROUP BY day ORDER BY day`,
     },
     params,
   )
@@ -754,7 +854,66 @@ async function features(
     preferences: rows.preferences as Features['preferences'],
     shared: rows.shared as Features['shared'],
     appStore: rows.appStore as Features['appStore'],
+    links: rows.links as Features['links'],
+    notifications: rows.notifications as Features['notifications'],
+    plans: rows.plans as Features['plans'],
+    permissions: rows.permissions as Features['permissions'],
+    planDaily: rows.planDaily as Features['planDaily'],
     accounts: await loadAccounts(db, today),
+  }
+}
+
+async function health(db: D1Database, params: unknown[], period: PeriodOf): Promise<Health> {
+  // A crash is counted on the launch after it, so it names the update that crashed itself.
+  const ran = `COALESCE(CASE WHEN name = 'error' THEN ${prop('build')} END, build, 'not sent')`
+  const rows = await read(
+    db,
+    {
+      totals: `${scoped}, s AS (SELECT * FROM a WHERE day >= ?4)
+        SELECT SUM(name = 'error') AS errors,
+          COUNT(DISTINCT CASE WHEN name = 'error' THEN install END) AS erring,
+          COUNT(DISTINCT install) AS active,
+          SUM(name = 'error' AND ${prop('where')} = 'fatal') AS fatal
+        FROM s`,
+      daily: `${scoped}
+        SELECT day, COUNT(DISTINCT install) AS active,
+          COUNT(DISTINCT CASE WHEN name = 'error' THEN install END) AS erring,
+          SUM(name = 'error') AS errors
+        FROM a WHERE day >= ?4 GROUP BY day ORDER BY day`,
+      builds: `${scoped}
+        SELECT ${ran} AS build, COUNT(DISTINCT install) AS installs,
+          COUNT(DISTINCT CASE WHEN name = 'error' THEN install END) AS erring,
+          SUM(name = 'error') AS errors,
+          SUM(name = 'error' AND ${prop('where')} = 'fatal') AS fatal,
+          COUNT(DISTINCT CASE WHEN name = 'CompletionLogged' AND ${prop('via')} = 'amen'
+            THEN install END) AS amen
+        FROM a WHERE day >= ?4 GROUP BY 1 ORDER BY build DESC LIMIT 12`,
+      kinds: `${scoped}
+        SELECT ${prop('where')} AS "where", ${prop('kind')} AS kind, ${prop('status')} AS status,
+          COUNT(*) AS times, COUNT(DISTINCT install) AS installs
+        FROM a WHERE name = 'error' AND day >= ?4 GROUP BY 1, 2, 3
+        ORDER BY installs DESC, times DESC LIMIT 25`,
+      sources: `${scoped}
+        SELECT COALESCE(${prop('source')}, 'not named') AS source, ${prop('where')} AS "where",
+          COUNT(*) AS times, COUNT(DISTINCT install) AS installs
+        FROM a WHERE name = 'error' AND day >= ?4 GROUP BY 1, 2
+        ORDER BY installs DESC, times DESC LIMIT 25`,
+      routes: `${scoped}
+        SELECT COALESCE(${prop('route')}, 'before any screen') AS route, COUNT(*) AS times,
+          COUNT(DISTINCT install) AS installs
+        FROM a WHERE name = 'error' AND day >= ?4 GROUP BY 1
+        ORDER BY installs DESC, times DESC LIMIT 25`,
+    },
+    params,
+  )
+  return {
+    ...period,
+    totals: rows.totals[0] as Health['totals'],
+    daily: rows.daily as Health['daily'],
+    builds: rows.builds as Health['builds'],
+    kinds: rows.kinds as Health['kinds'],
+    sources: rows.sources as Health['sources'],
+    routes: rows.routes as Health['routes'],
   }
 }
 

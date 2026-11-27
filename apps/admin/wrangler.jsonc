@@ -41,7 +41,11 @@
     "bindings": [{ "name": "REVIEWER", "class_name": "Reviewer" }]
   },
   "migrations": [{ "tag": "v1", "new_sqlite_classes": ["Reviewer"] }],
+  // The weekly usage digest (worker/digest.ts), Monday morning in Brazil. DIGEST_TO is a secret.
+  "triggers": { "crons": ["0 11 * * 1"] },
+  "send_email": [{ "name": "EMAIL" }],
   "vars": {
+    "DIGEST_FROM": "usage@dpgu.me",
     // Cloudflare Access: the team's domain (<team>.cloudflareaccess.com) and the application's
     // audience tag. While either is empty the Worker answers on localhost only, which is how
     // `pnpm admin` runs it (the dev script blanks both).

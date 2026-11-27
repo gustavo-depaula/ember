@@ -76,6 +76,31 @@ export function PrayerTab({ usage }: { usage: Prayer }) {
         ]}
       />
 
+      <Table
+        heading="How far they read"
+        lede={
+          <>
+            Each time a prayer's page was left: how far down it was read on average, how often to
+            its end, and how it was left. <em>Mass</em> is the daily liturgy marked as the Mass, or
+            a check-in.
+          </>
+        }
+        rows={usage.reading}
+        rowKey={(r) => r.id}
+        name={{ label: 'Prayer', value: (r) => <Item id={r.id} /> }}
+        meter={(r) => r.sessions}
+        columns={[
+          { label: 'Times', value: (r) => r.sessions },
+          { label: 'Installs', value: (r) => r.installs },
+          { label: 'Read', value: (r) => `${r.depth}%` },
+          { label: 'To the end', value: (r) => percent(r.whole, r.sessions) },
+          { label: 'Amen', value: (r) => percent(r.amen, r.sessions) },
+          { label: 'Mass', value: (r) => (r.mass ? percent(r.mass, r.sessions) : '') },
+          { label: 'Just left', value: (r) => percent(r.left, r.sessions) },
+        ]}
+        empty="Nothing counted yet: builds before December 2026 don't send it."
+      />
+
       <div className="columns">
         <Hours usage={usage} />
         <Table
@@ -93,6 +118,20 @@ export function PrayerTab({ usage }: { usage: Prayer }) {
           empty="No reminder tapped yet: builds before November 2026 don't count them."
         />
       </div>
+
+      <Table
+        heading="Languages changed"
+        lede="What people do in a prayer's language sheet: what they pray in, the companion beside it, and whether it is for this prayer or every one."
+        rows={usage.languages}
+        rowKey={(l) => `${l.action}|${l.value}`}
+        name={{ label: 'Change', value: (l) => `${l.action}${l.value ? ` → ${l.value}` : ''}` }}
+        meter={(l) => l.times}
+        columns={[
+          { label: 'Times', value: (l) => l.times },
+          { label: 'Installs', value: (l) => l.installs },
+        ]}
+        empty="No language changed in this period."
+      />
     </>
   )
 }

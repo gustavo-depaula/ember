@@ -97,6 +97,7 @@ export const usageTabs = [
   'library',
   'search',
   'features',
+  'health',
 ] as const
 export type UsageTab = (typeof usageTabs)[number]
 
@@ -131,6 +132,15 @@ export type Overview = Period & {
     facet: 'platform' | 'language' | 'version' | 'update'
     value: string
     installs: number
+  }[]
+  // Installs first seen 4 to 17 weeks ago, and for each thing they might have done in their first
+  // week, how many did it and how many of those were still around in their fourth week.
+  predictors: {
+    behavior: string
+    did: number
+    didKept: number
+    didNot: number
+    didNotKept: number
   }[]
 }
 
@@ -169,6 +179,18 @@ export type Prayer = Period & {
   arc: { stations: number; rosary: number; days: number; installs: number }[]
   stations: { offering: number; midday: number; examen: number }
   reminders: { id: string; installs: number; times: number; prayed: number }[]
+  // How far down each prayer is read, and how it is left.
+  reading: {
+    id: string
+    sessions: number
+    installs: number
+    depth: number
+    whole: number
+    amen: number
+    mass: number
+    left: number
+  }[]
+  languages: { action: string; value: string; times: number; installs: number }[]
 }
 
 export type Place = {
@@ -269,6 +291,12 @@ export type Features = Period & {
   preferences: { key: string; value: string; installs: number }[]
   shared: ({ id: string } & Ranked)[]
   appStore: { action: string; installs: number; times: number }[]
+  links: { id: string; cold: number; warm: number; installs: number }[]
+  notifications: { asked: string; installs: number }[]
+  // Each install's latest plan in the period.
+  plans: { practices: number; reminders: number; installs: number }[]
+  permissions: { status: string; installs: number }[]
+  planDaily: { day: string; practices: number; reminders: number }[]
   accounts: {
     accounts: number
     reachable: number
@@ -281,6 +309,24 @@ export type Features = Period & {
   }
 }
 
+export type Health = Period & {
+  totals: { errors: number; erring: number; active: number; fatal: number }
+  daily: { day: string; active: number; erring: number; errors: number }[]
+  // Each update: installs that ran it, those that met an error, the errors and crashes, and the
+  // installs that said an Amen on it.
+  builds: {
+    build: string
+    installs: number
+    erring: number
+    errors: number
+    fatal: number
+    amen: number
+  }[]
+  kinds: { where: string; kind: string; status: string | null; times: number; installs: number }[]
+  sources: { source: string; where: string; times: number; installs: number }[]
+  routes: { route: string; times: number; installs: number }[]
+}
+
 export type UsageOf = {
   overview: Overview
   onboarding: Onboarding
@@ -290,4 +336,5 @@ export type UsageOf = {
   library: Library
   search: Search
   features: Features
+  health: Health
 }

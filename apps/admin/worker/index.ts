@@ -2,6 +2,7 @@ import { resolutionSchema } from '@ember/api/src/moderation'
 import { Hono } from 'hono'
 import { identify } from './access'
 import { createDesk, issues, message } from './desk'
+import { buildDigest, sendDigest } from './digest'
 import type { Env } from './env'
 import { type Seen, usageTabs } from './types'
 import { loadUsage } from './usage'
@@ -82,6 +83,10 @@ app.post('/history/:id/shared', async (c) => {
   return c.json(await desk(c).markShared(c.req.param('id'), shared === true))
 })
 
+// The digest as it would go out this week, to read before it is sent, and a way to send it now.
+app.get('/usage/digest', async (c) => c.html((await buildDigest(c.env)).html))
+app.post('/usage/digest', async (c) => c.json(await sendDigest(c.env)))
+
 app.get('/usage/:tab', async (c) => {
   const tab = usageTabs.find((t) => t === c.req.param('tab'))
   if (!tab) return c.json({ error: `No usage tab ${c.req.param('tab')}` }, 404)
@@ -97,4 +102,10 @@ app.get('/usage/:tab', async (c) => {
 
 app.all('*', (c) => c.json({ error: `No route for ${c.req.method} ${c.req.path}` }, 404))
 
-export default app
+export default {
+  fetch: app.fetch,
+  // Mondays: the week's digest.
+  async scheduled(_controller, env, ctx) {
+    ctx.waitUntil(sendDigest(env))
+  },
+} satisfies ExportedHandler<Env>

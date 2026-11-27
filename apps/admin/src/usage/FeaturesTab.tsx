@@ -114,8 +114,104 @@ export function FeaturesTab({ usage }: { usage: Features }) {
         </section>
       </div>
 
+      <Plans usage={usage} />
+
+      <div className="columns">
+        <Table
+          heading="Opened from a link"
+          lede="The website's prayer pages and shared links, opening the app: at launch (cold) or while it ran (warm)."
+          rows={usage.links}
+          rowKey={(l) => l.id}
+          name={{ label: 'Prayer', value: (l) => <Item id={l.id} /> }}
+          meter={(l) => l.installs}
+          columns={[
+            { label: 'Installs', value: (l) => l.installs },
+            { label: 'Cold', value: (l) => l.cold },
+            { label: 'Warm', value: (l) => l.warm },
+          ]}
+          empty="No link opened the app in this period."
+        />
+        <section>
+          <h2>Notifications</h2>
+          <p className="lede">
+            Asked for in the period, and how each install's notifications stand on its latest day:
+            reminders that cannot be shown look the same as none set.
+          </p>
+          <div className="tiles tiles--small">
+            {usage.notifications.map((n) => (
+              <Tile key={n.asked} label={`Asked, ${n.asked}`} value={n.installs}>
+                installs
+              </Tile>
+            ))}
+            {usage.permissions.map((p) => (
+              <Tile key={p.status} label={`Now ${p.status}`} value={p.installs}>
+                installs
+              </Tile>
+            ))}
+          </div>
+        </section>
+      </div>
+
       <Accounts usage={usage} />
     </>
+  )
+}
+
+const sizeBands = [
+  [0, 0],
+  [1, 1],
+  [2, 3],
+  [4, 6],
+  [7, 10],
+  [11, Number.POSITIVE_INFINITY],
+] as const
+
+const band = (n: number) => {
+  const [from, to] = sizeBands.find(([f, t]) => n >= f && n <= t) ?? [n, n]
+  if (from === to) return String(from)
+  return to === Number.POSITIVE_INFINITY ? `${from}+` : `${from}–${to}`
+}
+
+// The plans people keep: how many practices and how many of them remind, on each install's
+// latest day, and the average of both day by day.
+function Plans({ usage }: { usage: Features }) {
+  const by = (key: 'practices' | 'reminders') => {
+    const counts = new Map<string, number>()
+    for (const p of usage.plans)
+      counts.set(band(p[key]), (counts.get(band(p[key])) ?? 0) + p.installs)
+    return sizeBands
+      .map(([f]) => band(f))
+      .map((label) => ({ label, installs: counts.get(label) ?? 0 }))
+  }
+  const daily = usage.planDaily
+  return (
+    <section>
+      <h2>The plan of life · {usage.filter.days} days</h2>
+      <div className="columns">
+        {(['practices', 'reminders'] as const).map((key) => (
+          <Table
+            key={key}
+            rows={by(key)}
+            rowKey={(r) => r.label}
+            name={{
+              label: key === 'practices' ? 'Practices kept' : 'Reminders',
+              value: (r) => r.label,
+            }}
+            meter={(r) => r.installs}
+            columns={[{ label: 'Installs', value: (r) => r.installs }]}
+            empty="No plan counted yet: builds before December 2026 don't send it."
+          />
+        ))}
+      </div>
+      {daily.length > 0 ? (
+        <DayChart
+          height={90}
+          days={daily.map((d) => d.day)}
+          bars={{ values: daily.map((d) => d.practices), label: 'practices per install' }}
+          line={{ values: daily.map((d) => d.reminders), label: 'reminders per install' }}
+        />
+      ) : null}
+    </section>
   )
 }
 

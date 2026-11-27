@@ -1,6 +1,6 @@
 import type { Overview } from '../../worker/types'
 import { Change, DayChart, Meter, shade } from './charts'
-import { percent, Tile } from './parts'
+import { percent, Table, Tile } from './parts'
 
 export function OverviewTab({ usage }: { usage: Overview }) {
   const { pulse, newcomers, daily } = usage
@@ -59,6 +59,7 @@ export function OverviewTab({ usage }: { usage: Overview }) {
       </section>
 
       <Cohorts usage={usage} />
+      <Predictors usage={usage} />
       <Audience usage={usage} />
     </>
   )
@@ -112,6 +113,50 @@ function Cohorts({ usage }: { usage: Overview }) {
         </tbody>
       </table>
     </section>
+  )
+}
+
+// Which first-week acts go with staying. Correlation, not cause: the devout do more of
+// everything, so read the gap between rows, not one row's lift alone.
+function Predictors({ usage }: { usage: Overview }) {
+  const rows = usage.predictors
+    .map((p) => {
+      const kept = p.did ? p.didKept / p.did : 0
+      const others = p.didNot ? p.didNotKept / p.didNot : 0
+      // A difference needs both sides: an act everyone did, or no one, compares with nothing.
+      const lift = p.did && p.didNot ? kept - others : undefined
+      return { ...p, kept, others, lift }
+    })
+    .sort((a, b) => (b.lift ?? -2) - (a.lift ?? -2))
+  const total = (rows[0]?.did ?? 0) + (rows[0]?.didNot ?? 0)
+  return (
+    <Table
+      heading="What their first week predicts"
+      lede={
+        <>
+          Of the {total} installs first seen four to seventeen weeks ago, the share still here in
+          their fourth week, by what they did in their first. Whatever the period; the platform and
+          language filters apply.
+        </>
+      }
+      rows={rows}
+      rowKey={(r) => r.behavior}
+      name={{ label: 'In the first week', value: (r) => r.behavior }}
+      meter={(r) => Math.max(0, r.lift ?? 0)}
+      columns={[
+        { label: 'Did it', value: (r) => r.did },
+        { label: 'Week 4, did', value: (r) => percent(r.didKept, r.did) },
+        { label: 'Week 4, didn’t', value: (r) => percent(r.didNotKept, r.didNot) },
+        {
+          label: 'Difference',
+          value: (r) =>
+            r.lift === undefined
+              ? '—'
+              : `${r.lift >= 0 ? '+' : '−'}${Math.round(Math.abs(r.lift) * 100)}`,
+        },
+      ]}
+      empty="No installs old enough yet."
+    />
   )
 }
 

@@ -192,7 +192,12 @@ for (let n = 0; n < 700; n++) {
       add('screen', hour, { route: '/pray/[practiceId]', id })
       // Some are opened and left. Builds before 1.1.0 don't say how a completion was made.
       const via = version === '1.0.0' ? {} : { via: 'amen' }
-      if (random() < 0.7) add('CompletionLogged', hour, { id, ...via })
+      const said = random() < 0.7
+      if (said) add('CompletionLogged', hour, { id, ...via })
+      if (ago <= 14) {
+        const depth = said ? 100 : pick([0, 25, 25, 50, 75])
+        add('prayer_read', hour, { id, depth: String(depth), end: said ? 'amen' : 'left' })
+      }
     }
     // A tick on the plan, with no prayer opened.
     if (random() < 0.12) add('CompletionLogged', morning, { id: weighted(), via: 'checklist' })
@@ -299,6 +304,63 @@ for (let n = 0; n < 700; n++) {
       })
     }
     if (version === '1.1.0' && random() < 0.01) add('review_asked', evening)
+    // The health counts and the plan arrived with the latest update.
+    if (ago <= 14) {
+      if (random() < 0.06)
+        add(
+          'error',
+          morning,
+          pick([
+            {
+              where: 'query',
+              kind: 'TypeError',
+              source: 'book-chapter',
+              route: '/browse/book/[bookId]/read',
+            },
+            {
+              where: 'query',
+              kind: 'HttpError',
+              status: '503',
+              source: 'mass-times',
+              route: '/mass-times',
+            },
+            { where: 'query', kind: 'Error', source: 'ccc', route: '/pray/[practiceId]' },
+            { where: 'mutation', kind: 'Error', source: 'unnamed', route: '/plan/[practiceId]' },
+            { where: 'uncaught', kind: 'TypeError', route: '/saints/[index]' },
+          ]),
+        )
+      if (random() < 0.004)
+        add('error', morning, {
+          where: 'fatal',
+          kind: 'TypeError',
+          route: '/',
+          build: build ?? 'embedded',
+        })
+      if (random() < 0.5) {
+        const practices = kept.length + Math.floor(random() * 3)
+        add('plan', morning, {
+          practices: String(practices),
+          slots: String(practices),
+          reminders: String(Math.floor(practices * random())),
+          notifications: random() < 0.7 ? 'granted' : 'denied',
+        })
+      }
+      if (random() < 0.02)
+        add('link_opened', morning, { id: weighted(), start: random() < 0.6 ? 'cold' : 'warm' })
+      if (random() < 0.02)
+        add(
+          'prayer_language',
+          evening,
+          pick([
+            { action: 'pray', id: 'practice/rosary', value: 'la' },
+            { action: 'follow', id: 'practice/angelus', value: 'pt-BR' },
+            { action: 'every-prayer' },
+            { action: 'layout', id: 'practice/mass', value: 'columns' },
+          ]),
+        )
+    }
+    if (fresh && ago <= 21 && random() < 0.6)
+      add('notifications', morning, { asked: random() < 0.75 ? 'granted' : 'denied' })
   }
 
   if (devotion > 0.55 && random() < 0.4) {
