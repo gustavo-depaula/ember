@@ -20,7 +20,8 @@
   "composed": "431",
   "languages": [
     "grc",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "councils/ephesus",
   "editions": {
@@ -31,6 +32,11 @@
     "la": {
       "editor": "Conciliorum Oecumenicorum Decreta (Bologna 1962), ancient Latin versions, via Latin Wikisource / Documenta Catholica Omnia",
       "year": 1962
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -56,7 +62,8 @@
       "id": "ch001",
       "title": {
         "grc": "Γ΄ Οικουμενική Σύνοδος (Έφεσος, 431)",
-        "la": "Concilium Ephesinum (431)"
+        "la": "Concilium Ephesinum (431)",
+        "pt-BR": "Concílio de Éfeso (431)"
       }
     }
   ]
