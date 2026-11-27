@@ -2,13 +2,16 @@
   "id": "apocrypha-acts-of-andrew-and-matthias",
   "cover": "quarter",
   "name": {
-    "en-US": "Acts of Andrew and Matthias"
+    "en-US": "Acts of Andrew and Matthias",
+    "pt-BR": "Atos de André e Matias"
   },
   "author": {
-    "en-US": "Apocrypha"
+    "en-US": "Apocrypha",
+    "pt-BR": "Apócrifos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,11 +24,19 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Acts of Andrew and Matthias"
+        "en-US": "Acts of Andrew and Matthias",
+        "pt-BR": "Atos de André e Matias"
       }
     }
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
