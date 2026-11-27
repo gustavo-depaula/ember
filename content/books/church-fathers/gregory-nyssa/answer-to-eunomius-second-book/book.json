@@ -2,13 +2,16 @@
   "id": "gregory-nyssa-answer-to-eunomius-second-book",
   "cover": "quarter",
   "name": {
-    "en-US": "Answer to Eunomius' Second Book"
+    "en-US": "Answer to Eunomius' Second Book",
+    "pt-BR": "Resposta ao Segundo Livro de Eunômio"
   },
   "author": {
-    "en-US": "Gregory of Nyssa"
+    "en-US": "Gregory of Nyssa",
+    "pt-BR": "Gregório de Nissa"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,11 +24,19 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Answer to Eunomius' Second Book"
+        "en-US": "Answer to Eunomius' Second Book",
+        "pt-BR": "Resposta ao Segundo Livro de Eunômio"
       }
     }
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
