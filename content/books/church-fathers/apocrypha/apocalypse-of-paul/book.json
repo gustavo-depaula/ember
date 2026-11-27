@@ -2,13 +2,16 @@
   "id": "apocrypha-apocalypse-of-paul",
   "cover": "quarter",
   "name": {
-    "en-US": "Apocalypse of Paul (c. 380)"
+    "en-US": "Apocalypse of Paul (c. 380)",
+    "pt-BR": "Apocalipse de Paulo (c. 380)"
   },
   "author": {
-    "en-US": "Apocrypha"
+    "en-US": "Apocrypha",
+    "pt-BR": "Apócrifos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,11 +24,19 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Apocalypse of Paul (c. 380)"
+        "en-US": "Apocalypse of Paul (c. 380)",
+        "pt-BR": "Apocalipse de Paulo (c. 380)"
       }
     }
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
