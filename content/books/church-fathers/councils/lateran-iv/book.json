@@ -19,7 +19,8 @@
   "composed": "1215",
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "councils/lateran-iv",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "H. J. Schroeder, O.P.",
       "year": 1937
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -55,7 +61,8 @@
       "id": "ch001",
       "title": {
         "la": "Concilium Lateranum IV (1215)",
-        "en-US": "Fourth Lateran Council (1215)"
+        "en-US": "Fourth Lateran Council (1215)",
+        "pt-BR": "Quarto Concílio de Latrão (1215)"
       }
     }
   ]
