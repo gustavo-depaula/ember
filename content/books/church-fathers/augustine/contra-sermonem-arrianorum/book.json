@@ -18,13 +18,19 @@
   },
   "composed": "419-420",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/contra-sermonem-arrianorum",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,13 +47,15 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Sermo Arrianorum"
+        "la": "Sermo Arrianorum",
+        "pt-BR": "Sermão dos arianos"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "Contra sermonem Arrianorum"
+        "la": "Contra sermonem Arrianorum",
+        "pt-BR": "Contra o sermão dos arianos"
       }
     }
   ],
