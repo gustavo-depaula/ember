@@ -23,6 +23,6 @@ Reviews need a Claude token: run `claude setup-token` and put it in `apps/admin/
 3. Create a Cloudflare Access application for the Worker's address, and set `ACCESS_TEAM_DOMAIN` and `ACCESS_AUD` in `wrangler.jsonc`. Until both are set the deployed Worker refuses every request.
 4. `pnpm --filter @ember/admin run deploy`
 
-The weekly usage digest (`worker/digest.ts`) also needs the sending domain of `DIGEST_FROM` (in `wrangler.jsonc`) onboarded to Cloudflare Email Sending, and the address it goes to as a secret: `pnpm --filter @ember/admin exec wrangler secret put DIGEST_TO`. Until both are in place the Monday run sends nothing. `GET /api/usage/digest` shows this week's; `POST` sends it now.
+The weekly usage digest (`worker/digest.ts`) is sent from `DIGEST_FROM` (in `wrangler.jsonc`), whose domain must be onboarded to Cloudflare Email Sending, to the address in the `DIGEST_TO` secret (`pnpm --filter @ember/admin exec wrangler secret put DIGEST_TO`). Without the secret the Monday run sends nothing. `GET /api/usage/digest` shows this week's; `POST` sends it now.
 
 After that, pushes to `main` deploy it (`.github/workflows/deploy-admin.yml`).

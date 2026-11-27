@@ -42,10 +42,12 @@
   },
   "migrations": [{ "tag": "v1", "new_sqlite_classes": ["Reviewer"] }],
   // The weekly usage digest (worker/digest.ts), Monday morning in Brazil. DIGEST_TO is a secret.
+  // It is sent from treco.ai, the account's domain onboarded to Email Sending: dpgu.me carries
+  // personal mail with a strict DMARC record that onboarding would add a second one beside.
   "triggers": { "crons": ["0 11 * * 1"] },
   "send_email": [{ "name": "EMAIL" }],
   "vars": {
-    "DIGEST_FROM": "usage@dpgu.me",
+    "DIGEST_FROM": "usage@treco.ai",
     // Cloudflare Access: the team's domain (<team>.cloudflareaccess.com) and the application's
     // audience tag. While either is empty the Worker answers on localhost only, which is how
     // `pnpm admin` runs it (the dev script blanks both).
