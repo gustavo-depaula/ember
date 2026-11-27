@@ -31,6 +31,7 @@ export {
   ruleProblem,
 } from './moderation'
 export { type OpenApiDocument, openApiDocument } from './openapi'
+export { describeService } from './schedule'
 export {
   type Attachment,
   attachment,

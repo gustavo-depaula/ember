@@ -37,9 +37,12 @@ export function App() {
   const desk = useDesk()
   const refresh = useRefresh()
   const reviewAll = useReviewAll()
-  const [selected, setSelected] = useState<string>()
+  // A fix request's email links here with `?church=`, opening that church.
+  const [selected, setSelected] = useState(
+    () => new URLSearchParams(location.search).get('church') ?? undefined,
+  )
   // A phone shows one pane at a time: the queue, then the church picked from it.
-  const [caseOpen, setCaseOpen] = useState(false)
+  const [caseOpen, setCaseOpen] = useState(selected !== undefined)
   const [logOpen, setLogOpen] = useState(false)
   const open = (churchId: string) => {
     setLogOpen(false)

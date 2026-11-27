@@ -13,6 +13,11 @@ export type RateLimitBinding = {
 export type Env = {
   DB: D1Database
   WRITE_LIMITER: RateLimitBinding
+  // A fix request emailed to the admin as it arrives (features/corrections/notify.ts): the
+  // binding, who it goes to (a secret) and the address it comes from.
+  EMAIL?: SendEmail
+  NOTIFY_TO?: string
+  NOTIFY_FROM?: string
   // Note: correction attachments are stored as base64 in D1 for now (R2 not enabled on the
   // account). Swap to an R2Bucket binding here when R2 is turned on.
 }

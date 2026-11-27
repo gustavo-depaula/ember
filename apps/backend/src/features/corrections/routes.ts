@@ -4,6 +4,7 @@ import { Hono } from 'hono'
 import type { Env } from '../../app'
 import { createDb } from '../../db'
 import { writeGuard } from '../../lib/writeGuard'
+import { notifyCorrection } from './notify'
 import { insertAttachment } from './queries'
 import { submitCorrection, submitVerification } from './service'
 
@@ -24,12 +25,16 @@ function bytesToBase64(buffer: ArrayBuffer): string {
 export const correctionsRouter = new Hono<{ Bindings: Env; Variables: { fingerprint: string } }>()
   .use('*', writeGuard)
   .post('/:id/corrections', zValidator('json', correctionBodySchema), async (c) => {
+    const body = c.req.valid('json')
     const result = await submitCorrection(
       createDb(c.env.DB),
       c.req.param('id'),
       c.get('fingerprint'),
-      c.req.valid('json'),
+      body,
     )
+    // The admin hears of it by email, after the answer: a mail that fails is the Worker's error
+    // to log, not the person's to see.
+    if (c.env.NOTIFY_TO) c.executionCtx.waitUntil(notifyCorrection(c.env, c.req.param('id'), body))
     return c.json(result, 201)
   })
   .post('/:id/verify', zValidator('json', verifyBodySchema), async (c) => {
