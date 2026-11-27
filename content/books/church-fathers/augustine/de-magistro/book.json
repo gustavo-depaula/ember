@@ -19,7 +19,8 @@
   "composed": "389",
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "augustine/de-magistro",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "Francis E. Tourscher, O.S.A.",
       "year": 1924
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -55,7 +61,8 @@
       "id": "ch001",
       "title": {
         "la": "De magistro",
-        "en-US": "The Philosophy of Teaching"
+        "en-US": "The Philosophy of Teaching",
+        "pt-BR": "O mestre"
       }
     }
   ],
