@@ -2,13 +2,16 @@
   "id": "gregory-nazianzen-letters",
   "cover": "quarter",
   "name": {
-    "en-US": "Letters"
+    "en-US": "Letters",
+    "pt-BR": "Cartas"
   },
   "author": {
-    "en-US": "Gregory Nazianzen"
+    "en-US": "Gregory Nazianzen",
+    "pt-BR": "São Gregório Nazianzeno"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,37 +24,43 @@
     {
       "id": "d1",
       "title": {
-        "en-US": "Division I. Letters on the Apollinarian Controversy"
+        "en-US": "Division I. Letters on the Apollinarian Controversy",
+        "pt-BR": "Divisão I. Cartas sobre a controvérsia apolinarista"
       },
       "children": [
         {
           "id": "d1-01",
           "title": {
-            "en-US": "Introduction"
+            "en-US": "Introduction",
+            "pt-BR": "Introdução"
           }
         },
         {
           "id": "d1-02",
           "title": {
-            "en-US": "To Nectarius, Bishop of Constantinople. (Ep. CCII.)"
+            "en-US": "To Nectarius, Bishop of Constantinople. (Ep. CCII.)",
+            "pt-BR": "A Nectário, bispo de Constantinopla. (Ep. CCII.)"
           }
         },
         {
           "id": "d1-03",
           "title": {
-            "en-US": "To Cledonius the Priest Against Apollinarius. (Ep. CI.)"
+            "en-US": "To Cledonius the Priest Against Apollinarius. (Ep. CI.)",
+            "pt-BR": "Ao presbítero Cledônio, contra Apolinário. (Ep. CI.)"
           }
         },
         {
           "id": "d1-04",
           "title": {
-            "en-US": "Against Apollinarius; The Second Letter to Cledonius. (Ep. CII.)"
+            "en-US": "Against Apollinarius; The Second Letter to Cledonius. (Ep. CII.)",
+            "pt-BR": "Contra Apolinário; segunda carta a Cledônio. (Ep. CII.)"
           }
         },
         {
           "id": "d1-05",
           "title": {
-            "en-US": "Epistle 125. To Olympius"
+            "en-US": "Epistle 125. To Olympius",
+            "pt-BR": "Epístola 125. A Olímpio"
           }
         }
       ]
@@ -59,145 +68,169 @@
     {
       "id": "d2",
       "title": {
-        "en-US": "Division II. Correspondence with St. Basil the Great"
+        "en-US": "Division II. Correspondence with St. Basil the Great",
+        "pt-BR": "Divisão II. Correspondência com São Basílio Magno"
       },
       "children": [
         {
           "id": "d2-01",
           "title": {
-            "en-US": "Epistle 1. To Basil His Comrade"
+            "en-US": "Epistle 1. To Basil His Comrade",
+            "pt-BR": "Epístola 1. A Basílio, seu companheiro"
           }
         },
         {
           "id": "d2-02",
           "title": {
-            "en-US": "Epistle 2"
+            "en-US": "Epistle 2",
+            "pt-BR": "Epístola 2"
           }
         },
         {
           "id": "d2-03",
           "title": {
-            "en-US": "Epistle 4"
+            "en-US": "Epistle 4",
+            "pt-BR": "Epístola 4"
           }
         },
         {
           "id": "d2-04",
           "title": {
-            "en-US": "Epistle 5"
+            "en-US": "Epistle 5",
+            "pt-BR": "Epístola 5"
           }
         },
         {
           "id": "d2-05",
           "title": {
-            "en-US": "Epistle 6"
+            "en-US": "Epistle 6",
+            "pt-BR": "Epístola 6"
           }
         },
         {
           "id": "d2-06",
           "title": {
-            "en-US": "Epistle 8"
+            "en-US": "Epistle 8",
+            "pt-BR": "Epístola 8"
           }
         },
         {
           "id": "d2-07",
           "title": {
-            "en-US": "Epistle 19"
+            "en-US": "Epistle 19",
+            "pt-BR": "Epístola 19"
           }
         },
         {
           "id": "d2-08",
           "title": {
-            "en-US": "Epistle 16. To Eusebius, Bishop of Cæsarea"
+            "en-US": "Epistle 16. To Eusebius, Bishop of Cæsarea",
+            "pt-BR": "Epístola 16. A Eusébio, bispo de Cesareia"
           }
         },
         {
           "id": "d2-09",
           "title": {
-            "en-US": "Epistle 17. To Eusebius, Archbishop of Cæsarea"
+            "en-US": "Epistle 17. To Eusebius, Archbishop of Cæsarea",
+            "pt-BR": "Epístola 17. A Eusébio, arcebispo de Cesareia"
           }
         },
         {
           "id": "d2-10",
           "title": {
-            "en-US": "Epistle 18. To Eusebius of Cæsarea"
+            "en-US": "Epistle 18. To Eusebius of Cæsarea",
+            "pt-BR": "Epístola 18. A Eusébio de Cesareia"
           }
         },
         {
           "id": "d2-11",
           "title": {
-            "en-US": "Epistle 40. To the Great Basil"
+            "en-US": "Epistle 40. To the Great Basil",
+            "pt-BR": "Epístola 40. A Basílio Magno"
           }
         },
         {
           "id": "d2-12",
           "title": {
-            "en-US": "Epistle 41. To the People of Cæsarea, in His Father's Name"
+            "en-US": "Epistle 41. To the People of Cæsarea, in His Father's Name",
+            "pt-BR": "Epístola 41. Ao povo de Cesareia, em nome de seu pai"
           }
         },
         {
           "id": "d2-13",
           "title": {
-            "en-US": "Epistle 43. To the Bishops"
+            "en-US": "Epistle 43. To the Bishops",
+            "pt-BR": "Epístola 43. Aos bispos"
           }
         },
         {
           "id": "d2-14",
           "title": {
-            "en-US": "Epistle 42. To Eusebius, Bishop of Samosata"
+            "en-US": "Epistle 42. To Eusebius, Bishop of Samosata",
+            "pt-BR": "Epístola 42. A Eusébio, bispo de Samósata"
           }
         },
         {
           "id": "d2-15",
           "title": {
-            "en-US": "Epistle 45. To Basil"
+            "en-US": "Epistle 45. To Basil",
+            "pt-BR": "Epístola 45. A Basílio"
           }
         },
         {
           "id": "d2-16",
           "title": {
-            "en-US": "Epistle 46. To Basil"
+            "en-US": "Epistle 46. To Basil",
+            "pt-BR": "Epístola 46. A Basílio"
           }
         },
         {
           "id": "d2-17",
           "title": {
-            "en-US": "Epistle 47. To Basil"
+            "en-US": "Epistle 47. To Basil",
+            "pt-BR": "Epístola 47. A Basílio"
           }
         },
         {
           "id": "d2-18",
           "title": {
-            "en-US": "Epistle 48. To Basil"
+            "en-US": "Epistle 48. To Basil",
+            "pt-BR": "Epístola 48. A Basílio"
           }
         },
         {
           "id": "d2-19",
           "title": {
-            "en-US": "Epistle 49. To Basil. (The Praises of Quiet.)"
+            "en-US": "Epistle 49. To Basil. (The Praises of Quiet.)",
+            "pt-BR": "Epístola 49. A Basílio. (Elogios da quietude.)"
           }
         },
         {
           "id": "d2-20",
           "title": {
-            "en-US": "Epistle 50. To Basil"
+            "en-US": "Epistle 50. To Basil",
+            "pt-BR": "Epístola 50. A Basílio"
           }
         },
         {
           "id": "d2-21",
           "title": {
-            "en-US": "Epistle 58. To Basil"
+            "en-US": "Epistle 58. To Basil",
+            "pt-BR": "Epístola 58. A Basílio"
           }
         },
         {
           "id": "d2-22",
           "title": {
-            "en-US": "Epistle 59. To Basil"
+            "en-US": "Epistle 59. To Basil",
+            "pt-BR": "Epístola 59. A Basílio"
           }
         },
         {
           "id": "d2-23",
           "title": {
-            "en-US": "Epistle 60. To Basil"
+            "en-US": "Epistle 60. To Basil",
+            "pt-BR": "Epístola 60. A Basílio"
           }
         }
       ]
@@ -205,55 +238,64 @@
     {
       "id": "d3",
       "title": {
-        "en-US": "Division III. Miscellaneous Letters"
+        "en-US": "Division III. Miscellaneous Letters",
+        "pt-BR": "Divisão III. Cartas diversas"
       },
       "children": [
         {
           "id": "d3-01",
           "title": {
-            "en-US": "Letters to His Brother Cæsarius"
+            "en-US": "Letters to His Brother Cæsarius",
+            "pt-BR": "Cartas a seu irmão Cesário"
           }
         },
         {
           "id": "d3-02",
           "title": {
-            "en-US": "To S. Gregory of Nyssa"
+            "en-US": "To S. Gregory of Nyssa",
+            "pt-BR": "A São Gregório de Nissa"
           }
         },
         {
           "id": "d3-03",
           "title": {
-            "en-US": "To Eusebius Bishop of Samosata"
+            "en-US": "To Eusebius Bishop of Samosata",
+            "pt-BR": "A Eusébio, bispo de Samósata"
           }
         },
         {
           "id": "d3-04",
           "title": {
-            "en-US": "To Sophronius, Prefect of Constantinople"
+            "en-US": "To Sophronius, Prefect of Constantinople",
+            "pt-BR": "A Sofrônio, prefeito de Constantinopla"
           }
         },
         {
           "id": "d3-05",
           "title": {
-            "en-US": "To Amphilochius the Younger"
+            "en-US": "To Amphilochius the Younger",
+            "pt-BR": "A Anfilóquio, o Jovem"
           }
         },
         {
           "id": "d3-06",
           "title": {
-            "en-US": "To Nectarius Archbishop of Constantinople"
+            "en-US": "To Nectarius Archbishop of Constantinople",
+            "pt-BR": "A Nectário, arcebispo de Constantinopla"
           }
         },
         {
           "id": "d3-07",
           "title": {
-            "en-US": "To Theodore, Bishop of Tyana"
+            "en-US": "To Theodore, Bishop of Tyana",
+            "pt-BR": "A Teodoro, bispo de Tiana"
           }
         },
         {
           "id": "d3-08",
           "title": {
-            "en-US": "To Nicobulus"
+            "en-US": "To Nicobulus",
+            "pt-BR": "A Nicóbulo"
           }
         }
       ]
@@ -261,5 +303,12 @@
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
