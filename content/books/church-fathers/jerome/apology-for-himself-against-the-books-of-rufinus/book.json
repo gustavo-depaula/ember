@@ -2,13 +2,16 @@
   "id": "jerome-apology-for-himself-against-the-books-of-rufinus",
   "cover": "quarter",
   "name": {
-    "en-US": "Apology for himself against the Books of Rufinus"
+    "en-US": "Apology for himself against the Books of Rufinus",
+    "pt-BR": "Apologia em defesa de si mesmo contra os livros de Rufino"
   },
   "author": {
-    "en-US": "Jerome"
+    "en-US": "Jerome",
+    "pt-BR": "São Jerônimo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,23 +24,33 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Book I"
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Book II"
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Book III"
+        "en-US": "Book III",
+        "pt-BR": "Livro III"
       }
     }
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
