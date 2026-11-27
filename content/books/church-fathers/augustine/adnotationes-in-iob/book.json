@@ -18,13 +18,19 @@
   },
   "composed": "399",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/adnotationes-in-iob",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,25 +47,29 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Adnotationes in Iob, Capita 1–16"
+        "la": "Adnotationes in Iob, Capita 1–16",
+        "pt-BR": "Anotações sobre Jó, Capítulos 1–16"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "Adnotationes in Iob, Capita 17–31"
+        "la": "Adnotationes in Iob, Capita 17–31",
+        "pt-BR": "Anotações sobre Jó, Capítulos 17–31"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "la": "Adnotationes in Iob, Capita 32–38"
+        "la": "Adnotationes in Iob, Capita 32–38",
+        "pt-BR": "Anotações sobre Jó, Capítulos 32–38"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "la": "Adnotationes in Iob, Capita 39"
+        "la": "Adnotationes in Iob, Capita 39",
+        "pt-BR": "Anotações sobre Jó, Capítulo 39"
       }
     }
   ],
