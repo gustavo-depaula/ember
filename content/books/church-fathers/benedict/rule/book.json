@@ -19,7 +19,8 @@
   "composed": "c. 530–547",
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "benedict/rule",
   "editions": {
@@ -30,6 +31,11 @@
       "translator": "Boniface Verheyen, OSB",
       "year": 1949,
       "from": "la"
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -65,511 +71,584 @@
       "id": "ch01",
       "title": {
         "la": "Caput 1: De generibus monachorum",
-        "en-US": "Chapter I: Of the Kinds or the Life of Monks"
+        "en-US": "Chapter I: Of the Kinds or the Life of Monks",
+        "pt-BR": "Capítulo 1: Das espécies de monges"
       }
     },
     {
       "id": "ch02",
       "title": {
         "la": "Caput 2: Qualis debeat esse abbas",
-        "en-US": "Chapter II: What Kind of Man the Abbot Ought to Be"
+        "en-US": "Chapter II: What Kind of Man the Abbot Ought to Be",
+        "pt-BR": "Capítulo 2: Como deve ser o abade"
       }
     },
     {
       "id": "ch03",
       "title": {
         "la": "Caput 3: De adhibendis ad consilium fratribus",
-        "en-US": "Chapter III: Of Calling the Brethren for Counsel"
+        "en-US": "Chapter III: Of Calling the Brethren for Counsel",
+        "pt-BR": "Capítulo 3: Da convocação dos irmãos para o conselho"
       }
     },
     {
       "id": "ch04",
       "title": {
         "la": "Caput 4: Quæ sunt instrumenta bonorum operum",
-        "en-US": "Chapter IV: The Instruments of Good Works"
+        "en-US": "Chapter IV: The Instruments of Good Works",
+        "pt-BR": "Capítulo 4: Quais são os instrumentos das boas obras"
       }
     },
     {
       "id": "ch05",
       "title": {
         "la": "Caput 5: De oboedientia",
-        "en-US": "Chapter V: Of Obedience"
+        "en-US": "Chapter V: Of Obedience",
+        "pt-BR": "Capítulo 5: Da obediência"
       }
     },
     {
       "id": "ch06",
       "title": {
         "la": "Caput 6: De taciturnitate",
-        "en-US": "Chapter VI: Of Silence"
+        "en-US": "Chapter VI: Of Silence",
+        "pt-BR": "Capítulo 6: Do silêncio"
       }
     },
     {
       "id": "ch07",
       "title": {
         "la": "Caput 7: De humilitate",
-        "en-US": "Chapter VII: Of Humility"
+        "en-US": "Chapter VII: Of Humility",
+        "pt-BR": "Capítulo 7: Da humildade"
       }
     },
     {
       "id": "ch08",
       "title": {
         "la": "Caput 8: De officiis divinis in noctibus",
-        "en-US": "Chapter VIII: Of the Divine Office during the Night"
+        "en-US": "Chapter VIII: Of the Divine Office during the Night",
+        "pt-BR": "Capítulo 8: Dos ofícios divinos durante a noite"
       }
     },
     {
       "id": "ch09",
       "title": {
         "la": "Caput 9: Quanti psalmi dicendi sunt nocturni",
-        "en-US": "Chapter IX: How Many Psalms Are to Be Said at the Night Office"
+        "en-US": "Chapter IX: How Many Psalms Are to Be Said at the Night Office",
+        "pt-BR": "Capítulo 9: Quantos salmos se devem dizer no ofício noturno"
       }
     },
     {
       "id": "ch10",
       "title": {
         "la": "Caput 10: Qualiter æstatis tempore agatur nocturna laus",
-        "en-US": "Chapter X: How the Office Is to Be Said during the Summer Season"
+        "en-US": "Chapter X: How the Office Is to Be Said during the Summer Season",
+        "pt-BR": "Capítulo 10: Como se celebra o louvor noturno no verão"
       }
     },
     {
       "id": "ch11",
       "title": {
         "la": "Caput 11: Qualiter diebus dominicis vigiliæ agantur",
-        "en-US": "Chapter XI: How the Night Office Is to Be Said on Sundays"
+        "en-US": "Chapter XI: How the Night Office Is to Be Said on Sundays",
+        "pt-BR": "Capítulo 11: Como se celebram as Vigílias aos domingos"
       }
     },
     {
       "id": "ch12",
       "title": {
         "la": "Caput 12: Quomodo matutinorum sollemnitas agatur",
-        "en-US": "Chapter XII: How Lauds Are to Be Said"
+        "en-US": "Chapter XII: How Lauds Are to Be Said",
+        "pt-BR": "Capítulo 12: Como se celebra o ofício solene das Laudes"
       }
     },
     {
       "id": "ch13",
       "title": {
         "la": "Caput 13: Privatis diebus qualiter agantur matutini",
-        "en-US": "Chapter XIII: How Lauds Are to Be Said on Week Days"
+        "en-US": "Chapter XIII: How Lauds Are to Be Said on Week Days",
+        "pt-BR": "Capítulo 13: Como se celebram as Laudes nos dias de semana"
       }
     },
     {
       "id": "ch14",
       "title": {
         "la": "Caput 14: In nataliciis sanctorum qualiter agantur vigiliæ",
-        "en-US": "Chapter XIV: How the Night Office Is to Be Said on the Feasts of the Saints"
+        "en-US": "Chapter XIV: How the Night Office Is to Be Said on the Feasts of the Saints",
+        "pt-BR": "Capítulo 14: Como se celebram as Vigílias nas festas dos santos"
       }
     },
     {
       "id": "ch15",
       "title": {
         "la": "Caput 15: Alleluia quibus temporibus dicatur",
-        "en-US": "Chapter XV: At What Times the Alleluia Is to Be Said"
+        "en-US": "Chapter XV: At What Times the Alleluia Is to Be Said",
+        "pt-BR": "Capítulo 15: Em que tempos se diz Aleluia"
       }
     },
     {
       "id": "ch16",
       "title": {
         "la": "Caput 16: Qualiter divina opera per diem agantur",
-        "en-US": "Chapter XVI: How the Work of God Is to Be Performed during the Day"
+        "en-US": "Chapter XVI: How the Work of God Is to Be Performed during the Day",
+        "pt-BR": "Capítulo 16: Como se celebram os ofícios divinos durante o dia"
       }
     },
     {
       "id": "ch17",
       "title": {
         "la": "Caput 17: Quot psalmi per easdem horas dicendi sunt",
-        "en-US": "Chapter XVII: How Many Psalms Are to Be Sung at These Hours"
+        "en-US": "Chapter XVII: How Many Psalms Are to Be Sung at These Hours",
+        "pt-BR": "Capítulo 17: Quantos salmos se devem dizer nessas Horas"
       }
     },
     {
       "id": "ch18",
       "title": {
         "la": "Caput 18: Quo ordine ipsi psalmi dicendi sunt",
-        "en-US": "Chapter XVIII: In What Order the Psalms Are to Be Said"
+        "en-US": "Chapter XVIII: In What Order the Psalms Are to Be Said",
+        "pt-BR": "Capítulo 18: Em que ordem se devem dizer os salmos"
       }
     },
     {
       "id": "ch19",
       "title": {
         "la": "Caput 19: De disciplina psallendi",
-        "en-US": "Chapter XIX: Of the Manner of Reciting the Psalter"
+        "en-US": "Chapter XIX: Of the Manner of Reciting the Psalter",
+        "pt-BR": "Capítulo 19: Da disciplina da salmodia"
       }
     },
     {
       "id": "ch20",
       "title": {
         "la": "Caput 20: De reverentia orationis",
-        "en-US": "Chapter XX: Of Reverence at Prayer"
+        "en-US": "Chapter XX: Of Reverence at Prayer",
+        "pt-BR": "Capítulo 20: Da reverência na oração"
       }
     },
     {
       "id": "ch21",
       "title": {
         "la": "Caput 21: De decanis monasterii",
-        "en-US": "Chapter XXI: Of the Deans of the Monastery"
+        "en-US": "Chapter XXI: Of the Deans of the Monastery",
+        "pt-BR": "Capítulo 21: Dos decanos do mosteiro"
       }
     },
     {
       "id": "ch22",
       "title": {
         "la": "Caput 22: Quomodo dormiant monachi",
-        "en-US": "Chapter XXII: How the Monks Are to Sleep"
+        "en-US": "Chapter XXII: How the Monks Are to Sleep",
+        "pt-BR": "Capítulo 22: Como dormem os monges"
       }
     },
     {
       "id": "ch23",
       "title": {
         "la": "Caput 23: De excommunicatione culparum",
-        "en-US": "Chapter XXIII: Of Excommunication for Faults"
+        "en-US": "Chapter XXIII: Of Excommunication for Faults",
+        "pt-BR": "Capítulo 23: Da excomunhão pelas faltas"
       }
     },
     {
       "id": "ch24",
       "title": {
         "la": "Caput 24: Qualis debet esse modus excommunicationis",
-        "en-US": "Chapter XXIV: What the Manner of Excommunication Should Be"
+        "en-US": "Chapter XXIV: What the Manner of Excommunication Should Be",
+        "pt-BR": "Capítulo 24: Qual deve ser a medida da excomunhão"
       }
     },
     {
       "id": "ch25",
       "title": {
         "la": "Caput 25: De gravioribus culpis",
-        "en-US": "Chapter XXV: Of Graver Faults"
+        "en-US": "Chapter XXV: Of Graver Faults",
+        "pt-BR": "Capítulo 25: Das faltas mais graves"
       }
     },
     {
       "id": "ch26",
       "title": {
         "la": "Caput 26: De his qui sine iussione iungunt se excommunicatis",
-        "en-US": "Chapter XXVI: Of Those Who without the Command of the Abbot Associate with the Excommunicated"
+        "en-US": "Chapter XXVI: Of Those Who without the Command of the Abbot Associate with the Excommunicated",
+        "pt-BR": "Capítulo 26: Daqueles que sem ordem se juntam aos excomungados"
       }
     },
     {
       "id": "ch27",
       "title": {
         "la": "Caput 27: Qualiter debeat abbas sollicitus esse circa excommunicatos",
-        "en-US": "Chapter XXVII: How Concerned the Abbot Should Be about the Excommunicated"
+        "en-US": "Chapter XXVII: How Concerned the Abbot Should Be about the Excommunicated",
+        "pt-BR": "Capítulo 27: Como o abade deve cuidar dos excomungados"
       }
     },
     {
       "id": "ch28",
       "title": {
         "la": "Caput 28: De his qui sæpius correpti emendare noluerint",
-        "en-US": "Chapter XXVIII: Of Those Who Having Often Been Corrected Do Not Amend"
+        "en-US": "Chapter XXVIII: Of Those Who Having Often Been Corrected Do Not Amend",
+        "pt-BR": "Capítulo 28: Daqueles que, muitas vezes corrigidos, não querem emendar-se"
       }
     },
     {
       "id": "ch29",
       "title": {
         "la": "Caput 29: Si debeant fratres exeuntes de monasterio item recipi",
-        "en-US": "Chapter XXIX: Whether Brethren Who Leave the Monastery Ought to Be Received Again"
+        "en-US": "Chapter XXIX: Whether Brethren Who Leave the Monastery Ought to Be Received Again",
+        "pt-BR": "Capítulo 29: Se os irmãos que saem do mosteiro devem ser recebidos novamente"
       }
     },
     {
       "id": "ch30",
       "title": {
         "la": "Caput 30: De pueris minori ætate qualiter corripiantur",
-        "en-US": "Chapter XXX: How Young Boys Are to Be Corrected"
+        "en-US": "Chapter XXX: How Young Boys Are to Be Corrected",
+        "pt-BR": "Capítulo 30: Como se corrigem os meninos de pouca idade"
       }
     },
     {
       "id": "ch31",
       "title": {
         "la": "Caput 31: De cellarario monasterii qualis sit",
-        "en-US": "Chapter XXXI: The Kind of Man the Cellarer of the Monastery Ought to Be"
+        "en-US": "Chapter XXXI: The Kind of Man the Cellarer of the Monastery Ought to Be",
+        "pt-BR": "Capítulo 31: Como deve ser o celeireiro do mosteiro"
       }
     },
     {
       "id": "ch32",
       "title": {
         "la": "Caput 32: De ferramentis vel rebus monasterii",
-        "en-US": "Chapter XXXII: Of the Tools and Goods of the Monastery"
+        "en-US": "Chapter XXXII: Of the Tools and Goods of the Monastery",
+        "pt-BR": "Capítulo 32: Das ferramentas e dos bens do mosteiro"
       }
     },
     {
       "id": "ch33",
       "title": {
         "la": "Caput 33: Si quid debeant monachi proprium habere",
-        "en-US": "Chapter XXXIII: Whether Monks Ought to Have Anything of Their Own"
+        "en-US": "Chapter XXXIII: Whether Monks Ought to Have Anything of Their Own",
+        "pt-BR": "Capítulo 33: Se os monges devem ter algo de próprio"
       }
     },
     {
       "id": "ch34",
       "title": {
         "la": "Caput 34: Si omnes æqualiter debeant necessaria accipere",
-        "en-US": "Chapter XXXIV: Whether All Should Receive in Equal Measure What Is Necessary"
+        "en-US": "Chapter XXXIV: Whether All Should Receive in Equal Measure What Is Necessary",
+        "pt-BR": "Capítulo 34: Se todos devem receber igualmente o necessário"
       }
     },
     {
       "id": "ch35",
       "title": {
         "la": "Caput 35: De septimanariis coquinæ",
-        "en-US": "Chapter XXXV: Of the Weekly Servers in the Kitchen"
+        "en-US": "Chapter XXXV: Of the Weekly Servers in the Kitchen",
+        "pt-BR": "Capítulo 35: Dos semanários da cozinha"
       }
     },
     {
       "id": "ch36",
       "title": {
         "la": "Caput 36: De infirmis fratribus",
-        "en-US": "Chapter XXXVI: Of the Sick Brethren"
+        "en-US": "Chapter XXXVI: Of the Sick Brethren",
+        "pt-BR": "Capítulo 36: Dos irmãos enfermos"
       }
     },
     {
       "id": "ch37",
       "title": {
         "la": "Caput 37: De senibus vel infantibus",
-        "en-US": "Chapter XXXVII: Of the Aged and Children"
+        "en-US": "Chapter XXXVII: Of the Aged and Children",
+        "pt-BR": "Capítulo 37: Dos idosos e das crianças"
       }
     },
     {
       "id": "ch38",
       "title": {
         "la": "Caput 38: De ebdomadario lectore",
-        "en-US": "Chapter XXXVIII: Of the Weekly Reader"
+        "en-US": "Chapter XXXVIII: Of the Weekly Reader",
+        "pt-BR": "Capítulo 38: Do leitor semanário"
       }
     },
     {
       "id": "ch39",
       "title": {
         "la": "Caput 39: De mensura cibi",
-        "en-US": "Chapter XXXIX: Of the Quantity of Food"
+        "en-US": "Chapter XXXIX: Of the Quantity of Food",
+        "pt-BR": "Capítulo 39: Da medida da comida"
       }
     },
     {
       "id": "ch40",
       "title": {
         "la": "Caput 40: De mensura potus",
-        "en-US": "Chapter XL: Of the Quantity of Drink"
+        "en-US": "Chapter XL: Of the Quantity of Drink",
+        "pt-BR": "Capítulo 40: Da medida da bebida"
       }
     },
     {
       "id": "ch41",
       "title": {
         "la": "Caput 41: Quibus horis oportet reficere fratres",
-        "en-US": "Chapter XLI: At What Times the Brethren Should Take Their Refection"
+        "en-US": "Chapter XLI: At What Times the Brethren Should Take Their Refection",
+        "pt-BR": "Capítulo 41: Em que horas os irmãos devem tomar as refeições"
       }
     },
     {
       "id": "ch42",
       "title": {
         "la": "Caput 42: Ut post conpletorium nemo loquatur",
-        "en-US": "Chapter XLII: That No One Speak after Complin"
+        "en-US": "Chapter XLII: That No One Speak after Complin",
+        "pt-BR": "Capítulo 42: Que ninguém fale depois das Completas"
       }
     },
     {
       "id": "ch43",
       "title": {
         "la": "Caput 43: De his qui ad opus Dei vel ad mensam tarde occurrunt",
-        "en-US": "Chapter XLIII: Of Those Who Are Tardy in Coming to the Work of God or to Table"
+        "en-US": "Chapter XLIII: Of Those Who Are Tardy in Coming to the Work of God or to Table",
+        "pt-BR": "Capítulo 43: Daqueles que chegam tarde à Obra de Deus ou à mesa"
       }
     },
     {
       "id": "ch44",
       "title": {
         "la": "Caput 44: De his qui excommunicantur quomodo satisfaciant",
-        "en-US": "Chapter XLIV: Of Those Who Are Excommunicated—How They Make Satisfaction"
+        "en-US": "Chapter XLIV: Of Those Who Are Excommunicated—How They Make Satisfaction",
+        "pt-BR": "Capítulo 44: Como fazem reparação os excomungados"
       }
     },
     {
       "id": "ch45",
       "title": {
         "la": "Caput 45: De his qui falluntur in oratorio",
-        "en-US": "Chapter XLV: Of Those Who Commit a Fault in the Oratory"
+        "en-US": "Chapter XLV: Of Those Who Commit a Fault in the Oratory",
+        "pt-BR": "Capítulo 45: Daqueles que erram no oratório"
       }
     },
     {
       "id": "ch46",
       "title": {
         "la": "Caput 46: De his qui in aliis quibuslibet rebus delinquunt",
-        "en-US": "Chapter XLVI: Of Those Who Fail in Any Other Matters"
+        "en-US": "Chapter XLVI: Of Those Who Fail in Any Other Matters",
+        "pt-BR": "Capítulo 46: Daqueles que cometem faltas em quaisquer outras coisas"
       }
     },
     {
       "id": "ch47",
       "title": {
         "la": "Caput 47: De significanda hora operis Dei",
-        "en-US": "Chapter XLVII: Of Giving the Signal for the Time of the Work of God"
+        "en-US": "Chapter XLVII: Of Giving the Signal for the Time of the Work of God",
+        "pt-BR": "Capítulo 47: Do sinal para a hora da Obra de Deus"
       }
     },
     {
       "id": "ch48",
       "title": {
         "la": "Caput 48: De opera manuum cotidiana",
-        "en-US": "Chapter XLVIII: Of the Daily Work"
+        "en-US": "Chapter XLVIII: Of the Daily Work",
+        "pt-BR": "Capítulo 48: Do trabalho manual cotidiano"
       }
     },
     {
       "id": "ch49",
       "title": {
         "la": "Caput 49: De quadragesimæ observatione",
-        "en-US": "Chapter XLIX: On the Keeping of Lent"
+        "en-US": "Chapter XLIX: On the Keeping of Lent",
+        "pt-BR": "Capítulo 49: Da observância da Quaresma"
       }
     },
     {
       "id": "ch50",
       "title": {
         "la": "Caput 50: De fratribus qui longe ab oratorio laborant aut in via sunt",
-        "en-US": "Chapter L: Of Brethren Who Work a Long Distance from the Oratory or Are on a Journey"
+        "en-US": "Chapter L: Of Brethren Who Work a Long Distance from the Oratory or Are on a Journey",
+        "pt-BR": "Capítulo 50: Dos irmãos que trabalham longe do oratório ou estão em viagem"
       }
     },
     {
       "id": "ch51",
       "title": {
         "la": "Caput 51: De fratribus qui non longe satis proficiscuntur",
-        "en-US": "Chapter LI: Of the Brethren Who Do Not Go Very Far Away"
+        "en-US": "Chapter LI: Of the Brethren Who Do Not Go Very Far Away",
+        "pt-BR": "Capítulo 51: Dos irmãos que não viajam para muito longe"
       }
     },
     {
       "id": "ch52",
       "title": {
         "la": "Caput 52: De oratorio monasterii",
-        "en-US": "Chapter LII: Of the Oratory of the Monastery"
+        "en-US": "Chapter LII: Of the Oratory of the Monastery",
+        "pt-BR": "Capítulo 52: Do oratório do mosteiro"
       }
     },
     {
       "id": "ch53",
       "title": {
         "la": "Caput 53: De hospitibus suscipiendis",
-        "en-US": "Chapter LIII: Of the Reception of Guests"
+        "en-US": "Chapter LIII: Of the Reception of Guests",
+        "pt-BR": "Capítulo 53: Da recepção dos hóspedes"
       }
     },
     {
       "id": "ch54",
       "title": {
         "la": "Caput 54: Si debeat monachus litteras vel aliquid suscipere",
-        "en-US": "Chapter LIV: Whether a Monk Should Receive Letters or Anything Else"
+        "en-US": "Chapter LIV: Whether a Monk Should Receive Letters or Anything Else",
+        "pt-BR": "Capítulo 54: Se o monge deve receber cartas ou alguma coisa"
       }
     },
     {
       "id": "ch55",
       "title": {
         "la": "Caput 55: De vestiario vel calciario fratrum",
-        "en-US": "Chapter LV: Of the Clothing and the Footgear of the Brethren"
+        "en-US": "Chapter LV: Of the Clothing and the Footgear of the Brethren",
+        "pt-BR": "Capítulo 55: Das roupas e dos calçados dos irmãos"
       }
     },
     {
       "id": "ch56",
       "title": {
         "la": "Caput 56: De mensa abbatis",
-        "en-US": "Chapter LVI: Of the Abbot's Table"
+        "en-US": "Chapter LVI: Of the Abbot's Table",
+        "pt-BR": "Capítulo 56: Da mesa do abade"
       }
     },
     {
       "id": "ch57",
       "title": {
         "la": "Caput 57: De artificibus monasterii",
-        "en-US": "Chapter LVII: Of the Artists of the Monastery"
+        "en-US": "Chapter LVII: Of the Artists of the Monastery",
+        "pt-BR": "Capítulo 57: Dos artesãos do mosteiro"
       }
     },
     {
       "id": "ch58",
       "title": {
         "la": "Caput 58: De disciplina suscipiendorum fratrum",
-        "en-US": "Chapter LVIII: Of the Manner of Admitting Brethren"
+        "en-US": "Chapter LVIII: Of the Manner of Admitting Brethren",
+        "pt-BR": "Capítulo 58: Da disciplina para a admissão dos irmãos"
       }
     },
     {
       "id": "ch59",
       "title": {
         "la": "Caput 59: De filiis nobilium aut pauperum qui offeruntur",
-        "en-US": "Chapter LIX: Of the Children of the Noble and of the Poor Who Are Offered"
+        "en-US": "Chapter LIX: Of the Children of the Noble and of the Poor Who Are Offered",
+        "pt-BR": "Capítulo 59: Dos filhos de nobres ou de pobres que são oferecidos"
       }
     },
     {
       "id": "ch60",
       "title": {
         "la": "Caput 60: De sacerdotibus qui forte voluerint in monasterio habitare",
-        "en-US": "Chapter LX: Of Priests Who May Wish to Live in the Monastery"
+        "en-US": "Chapter LX: Of Priests Who May Wish to Live in the Monastery",
+        "pt-BR": "Capítulo 60: Dos sacerdotes que porventura quiserem habitar no mosteiro"
       }
     },
     {
       "id": "ch61",
       "title": {
         "la": "Caput 61: De monachis peregrinis qualiter suscipiantur",
-        "en-US": "Chapter LXI: How Stranger Monks Are to Be Received"
+        "en-US": "Chapter LXI: How Stranger Monks Are to Be Received",
+        "pt-BR": "Capítulo 61: Como se recebem os monges de fora"
       }
     },
     {
       "id": "ch62",
       "title": {
         "la": "Caput 62: De sacerdotibus monasterii",
-        "en-US": "Chapter LXII: Of the Priests of the Monastery"
+        "en-US": "Chapter LXII: Of the Priests of the Monastery",
+        "pt-BR": "Capítulo 62: Dos sacerdotes do mosteiro"
       }
     },
     {
       "id": "ch63",
       "title": {
         "la": "Caput 63: De ordine congregationis",
-        "en-US": "Chapter LXIII: Of the Order in the Monastery"
+        "en-US": "Chapter LXIII: Of the Order in the Monastery",
+        "pt-BR": "Capítulo 63: Da ordem da comunidade"
       }
     },
     {
       "id": "ch64",
       "title": {
         "la": "Caput 64: De ordinando abbate",
-        "en-US": "Chapter LXIV: Of the Election of the Abbot"
+        "en-US": "Chapter LXIV: Of the Election of the Abbot",
+        "pt-BR": "Capítulo 64: Da instituição do abade"
       }
     },
     {
       "id": "ch65",
       "title": {
         "la": "Caput 65: De præposito monasterii",
-        "en-US": "Chapter LXV: Of the Prior of the Monastery"
+        "en-US": "Chapter LXV: Of the Prior of the Monastery",
+        "pt-BR": "Capítulo 65: Do prior do mosteiro"
       }
     },
     {
       "id": "ch66",
       "title": {
         "la": "Caput 66: De hostiariis monasterii",
-        "en-US": "Chapter LXVI: Of the Porter of the Monastery"
+        "en-US": "Chapter LXVI: Of the Porter of the Monastery",
+        "pt-BR": "Capítulo 66: Dos porteiros do mosteiro"
       }
     },
     {
       "id": "ch67",
       "title": {
         "la": "Caput 67: De fratribus in viam directis",
-        "en-US": "Chapter LXVII: Of the Brethren Who Are Sent on a Journey"
+        "en-US": "Chapter LXVII: Of the Brethren Who Are Sent on a Journey",
+        "pt-BR": "Capítulo 67: Dos irmãos enviados em viagem"
       }
     },
     {
       "id": "ch68",
       "title": {
         "la": "Caput 68: Si fratri inpossibilia iniungantur",
-        "en-US": "Chapter LXVIII: If a Brother Is Commanded to Do Impossible Things"
+        "en-US": "Chapter LXVIII: If a Brother Is Commanded to Do Impossible Things",
+        "pt-BR": "Capítulo 68: Se a um irmão forem ordenadas coisas impossíveis"
       }
     },
     {
       "id": "ch69",
       "title": {
         "la": "Caput 69: Ut in monasterio non præsumat alter alterum defendere",
-        "en-US": "Chapter LXIX: That in the Monastery No One Presume to Defend Another"
+        "en-US": "Chapter LXIX: That in the Monastery No One Presume to Defend Another",
+        "pt-BR": "Capítulo 69: Que ninguém ouse defender outro no mosteiro"
       }
     },
     {
       "id": "ch70",
       "title": {
         "la": "Caput 70: Ut non præsumat passim aliquis cædere",
-        "en-US": "Chapter LXX: That No One Presume to Strike Another"
+        "en-US": "Chapter LXX: That No One Presume to Strike Another",
+        "pt-BR": "Capítulo 70: Que ninguém ouse bater indiscriminadamente"
       }
     },
     {
       "id": "ch71",
       "title": {
         "la": "Caput 71: Ut oboedientes sibi sint invicem",
-        "en-US": "Chapter LXXI: That the Brethren Be Obedient to One Another"
+        "en-US": "Chapter LXXI: That the Brethren Be Obedient to One Another",
+        "pt-BR": "Capítulo 71: Que obedeçam uns aos outros"
       }
     },
     {
       "id": "ch72",
       "title": {
         "la": "Caput 72: De zelo bono quod debent monachi habere",
-        "en-US": "Chapter LXXII: Of the Virtuous Zeal Which the Monks Ought to Have"
+        "en-US": "Chapter LXXII: Of the Virtuous Zeal Which the Monks Ought to Have",
+        "pt-BR": "Capítulo 72: Do bom zelo que os monges devem ter"
       }
     },
     {
       "id": "ch73",
       "title": {
         "la": "Caput 73: De hoc quod non omnis iustitiæ observatio in hac sit regula constituta",
-        "en-US": "Chapter LXXIII: Of This, that Not the Whole Observance of Righteousness Is Laid Down in this Rule"
+        "en-US": "Chapter LXXIII: Of This, that Not the Whole Observance of Righteousness Is Laid Down in this Rule",
+        "pt-BR": "Capítulo 73: De que nem toda a observância da justiça está estabelecida nesta Regra"
       }
     }
   ]
