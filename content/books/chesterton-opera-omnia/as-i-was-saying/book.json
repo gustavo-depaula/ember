@@ -11,17 +11,23 @@
   },
   "description": {
     "en-US": "Thirty-six essays from the Illustrated London News in Chesterton's last year, each beginning About: mad metaphors, loving Germans, impenitence, traffic, the censor, Voltaire, beliefs, shockers, beggars and soldiers, sacrifice and royal weddings.",
-    "pt-BR": "Trinta e seis ensaios do Illustrated London News do último ano de Chesterton, cada um começando com Sobre: metáforas loucas, amar os alemães, impenitência, tráfego, o censor, Voltaire, crenças, chocantes, mendigos e soldados, sacrifício e casamentos reais."
+    "pt-BR": "Trinta e seis ensaios do Illustrated London News do último ano de Chesterton, cada um começando com Sobre: metáforas loucas, amar os alemães, impenitência, tráfego, o censor, Voltaire, crenças, romances de arrepiar, mendigos e soldados, sacrifício e casamentos reais."
   },
   "composed": "1936",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/as-i-was-saying",
   "editions": {
     "en-US": {
       "editor": "Methuen & Co.",
       "year": 1936
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -29,7 +35,7 @@
       "language": "en-US",
       "url": "https://www.gutenberg.net.au/ebooks09/0900741h.html",
       "edition": "As I Was Saying (Methuen & Co., 1936), Project Gutenberg Australia, ebooks09/0900741h.",
-      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em-dashes. Raw text in sources/en-US-originals/.",
       "tier": "A",
       "tierEvidence": "Public domain in Brazil, the UK and the EU (Chesterton died in 1936). Published in 1936; text taken from Project Gutenberg Australia, which carries it under Australian law."
     }
@@ -38,217 +44,253 @@
     {
       "id": "ch01-about-mad-metaphors",
       "title": {
-        "en-US": "About Mad Metaphors"
+        "en-US": "About Mad Metaphors",
+        "pt-BR": "Sobre metáforas loucas"
       }
     },
     {
       "id": "ch02-about-loving-germans",
       "title": {
-        "en-US": "About Loving Germans"
+        "en-US": "About Loving Germans",
+        "pt-BR": "Sobre amar os alemães"
       }
     },
     {
       "id": "ch03-about-impenitence",
       "title": {
-        "en-US": "About Impenitence"
+        "en-US": "About Impenitence",
+        "pt-BR": "Sobre a impenitência"
       }
     },
     {
       "id": "ch04-about-traffic",
       "title": {
-        "en-US": "About Traffic"
+        "en-US": "About Traffic",
+        "pt-BR": "Sobre o trânsito"
       }
     },
     {
       "id": "ch05-about-the-censor",
       "title": {
-        "en-US": "About the Censor"
+        "en-US": "About the Censor",
+        "pt-BR": "Sobre o censor"
       }
     },
     {
       "id": "ch06-about-shamelessness",
       "title": {
-        "en-US": "About Shamelessness"
+        "en-US": "About Shamelessness",
+        "pt-BR": "Sobre a falta de vergonha"
       }
     },
     {
       "id": "ch07-about-puritanism",
       "title": {
-        "en-US": "About Puritanism"
+        "en-US": "About Puritanism",
+        "pt-BR": "Sobre o puritanismo"
       }
     },
     {
       "id": "ch08-about-sir-james-jeans",
       "title": {
-        "en-US": "About Sir James Jeans"
+        "en-US": "About Sir James Jeans",
+        "pt-BR": "Sobre Sir James Jeans"
       }
     },
     {
       "id": "ch09-about-voltaire",
       "title": {
-        "en-US": "About Voltaire"
+        "en-US": "About Voltaire",
+        "pt-BR": "Sobre Voltaire"
       }
     },
     {
       "id": "ch10-about-beliefs",
       "title": {
-        "en-US": "About Beliefs"
+        "en-US": "About Beliefs",
+        "pt-BR": "Sobre as crenças"
       }
     },
     {
       "id": "ch11-about-modern-girls",
       "title": {
-        "en-US": "About Modern Girls"
+        "en-US": "About Modern Girls",
+        "pt-BR": "Sobre as moças modernas"
       }
     },
     {
       "id": "ch12-about-poetry",
       "title": {
-        "en-US": "About Poetry"
+        "en-US": "About Poetry",
+        "pt-BR": "Sobre a poesia"
       }
     },
     {
       "id": "ch13-about-blondes",
       "title": {
-        "en-US": "About Blondes"
+        "en-US": "About Blondes",
+        "pt-BR": "Sobre as loiras"
       }
     },
     {
       "id": "ch14-about-s-t-c",
       "title": {
-        "en-US": "About S.t.c"
+        "en-US": "About S.t.c",
+        "pt-BR": "Sobre S. T. C."
       }
     },
     {
       "id": "ch15-about-the-past",
       "title": {
-        "en-US": "About the Past"
+        "en-US": "About the Past",
+        "pt-BR": "Sobre o passado"
       }
     },
     {
       "id": "ch16-about-meredith",
       "title": {
-        "en-US": "About Meredith"
+        "en-US": "About Meredith",
+        "pt-BR": "Sobre Meredith"
       }
     },
     {
       "id": "ch17-about-political-creeds",
       "title": {
-        "en-US": "About Political Creeds"
+        "en-US": "About Political Creeds",
+        "pt-BR": "Sobre os credos políticos"
       }
     },
     {
       "id": "ch18-about-shirts",
       "title": {
-        "en-US": "About Shirts"
+        "en-US": "About Shirts",
+        "pt-BR": "Sobre as camisas"
       }
     },
     {
       "id": "ch19-about-white-fronts",
       "title": {
-        "en-US": "About White Fronts"
+        "en-US": "About White Fronts",
+        "pt-BR": "Sobre os peitilhos brancos"
       }
     },
     {
       "id": "ch20-about-impermanence",
       "title": {
-        "en-US": "About Impermanence"
+        "en-US": "About Impermanence",
+        "pt-BR": "Sobre a impermanência"
       }
     },
     {
       "id": "ch21-about-morris",
       "title": {
-        "en-US": "About Morris"
+        "en-US": "About Morris",
+        "pt-BR": "Sobre Morris"
       }
     },
     {
       "id": "ch22-about-widows",
       "title": {
-        "en-US": "About Widows"
+        "en-US": "About Widows",
+        "pt-BR": "Sobre as viúvas"
       }
     },
     {
       "id": "ch23-about-relativity",
       "title": {
-        "en-US": "About Relativity"
+        "en-US": "About Relativity",
+        "pt-BR": "Sobre a relatividade"
       }
     },
     {
       "id": "ch24-about-changing-human-nature",
       "title": {
-        "en-US": "About Changing Human Nature"
+        "en-US": "About Changing Human Nature",
+        "pt-BR": "Sobre mudar a natureza humana"
       }
     },
     {
       "id": "ch25-about-historians",
       "title": {
-        "en-US": "About Historians"
+        "en-US": "About Historians",
+        "pt-BR": "Sobre os historiadores"
       }
     },
     {
       "id": "ch26-about-bad-comparisons",
       "title": {
-        "en-US": "About Bad Comparisons"
+        "en-US": "About Bad Comparisons",
+        "pt-BR": "Sobre as más comparações"
       }
     },
     {
       "id": "ch27-about-change",
       "title": {
-        "en-US": "About Change"
+        "en-US": "About Change",
+        "pt-BR": "Sobre a mudança"
       }
     },
     {
       "id": "ch28-about-the-workers",
       "title": {
-        "en-US": "About the Workers"
+        "en-US": "About the Workers",
+        "pt-BR": "Sobre os trabalhadores"
       }
     },
     {
       "id": "ch29-about-education",
       "title": {
-        "en-US": "About Education"
+        "en-US": "About Education",
+        "pt-BR": "Sobre a educação"
       }
     },
     {
       "id": "ch30-about-the-telephone",
       "title": {
-        "en-US": "About the Telephone"
+        "en-US": "About the Telephone",
+        "pt-BR": "Sobre o telefone"
       }
     },
     {
       "id": "ch31-about-the-films",
       "title": {
-        "en-US": "About the Films"
+        "en-US": "About the Films",
+        "pt-BR": "Sobre os filmes"
       }
     },
     {
       "id": "ch32-about-darwinism",
       "title": {
-        "en-US": "About Darwinism"
+        "en-US": "About Darwinism",
+        "pt-BR": "Sobre o darwinismo"
       }
     },
     {
       "id": "ch33-about-shockers",
       "title": {
-        "en-US": "About Shockers"
+        "en-US": "About Shockers",
+        "pt-BR": "Sobre os romances de arrepiar"
       }
     },
     {
       "id": "ch34-about-beggars-and-soldiers",
       "title": {
-        "en-US": "About Beggars and Soldiers"
+        "en-US": "About Beggars and Soldiers",
+        "pt-BR": "Sobre mendigos e soldados"
       }
     },
     {
       "id": "ch35-about-sacrifice",
       "title": {
-        "en-US": "About Sacrifice"
+        "en-US": "About Sacrifice",
+        "pt-BR": "Sobre o sacrifício"
       }
     },
     {
       "id": "ch36-about-royal-weddings",
       "title": {
-        "en-US": "About Royal Weddings"
+        "en-US": "About Royal Weddings",
+        "pt-BR": "Sobre os casamentos reais"
       }
     }
   ]
