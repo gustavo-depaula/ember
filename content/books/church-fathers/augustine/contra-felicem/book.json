@@ -18,13 +18,19 @@
   },
   "composed": "404",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/contra-felicem",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,13 +47,15 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Liber I"
+        "la": "Liber I",
+        "pt-BR": "Livro I"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "Liber II"
+        "la": "Liber II",
+        "pt-BR": "Livro II"
       }
     }
   ],
