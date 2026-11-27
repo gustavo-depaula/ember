@@ -11,17 +11,23 @@
   },
   "description": {
     "en-US": "Chesterton's study of the poet in the English Men of Letters series: Browning's early life, Sordello, the plays, the dramatic lyrics, The Ring and the Book and the last poems. A book more about Browning's optimism and his philosophy of the love of life than about his biography.",
-    "pt-BR": "O estudo de Chesterton sobre o poeta, na série English Men of Letters: a juventude de Browning, Sordello, as peças, as liricas dramáticas, O Anel e o Livro e os últimos poemas. Um livro mais sobre o otimismo de Browning e sua filosofia do amor à vida do que sobre sua biografia."
+    "pt-BR": "O estudo de Chesterton sobre o poeta, na série English Men of Letters: a juventude de Browning, Sordello, as peças, as líricas dramáticas, O Anel e o Livro e os últimos poemas. Um livro mais sobre o otimismo de Browning e sua filosofia do amor à vida do que sobre sua biografia."
   },
   "composed": "1903",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/robert-browning",
   "editions": {
     "en-US": {
       "editor": "Macmillan and Co.",
       "year": 1903
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,49 +44,57 @@
     {
       "id": "ch01-browning-in-early-life",
       "title": {
-        "en-US": "I. Browning in Early Life"
+        "en-US": "I. Browning in Early Life",
+        "pt-BR": "I. Browning na juventude"
       }
     },
     {
       "id": "ch02-early-works",
       "title": {
-        "en-US": "II. Early Works"
+        "en-US": "II. Early Works",
+        "pt-BR": "II. Primeiras obras"
       }
     },
     {
       "id": "ch03-browning-and-his-marriage",
       "title": {
-        "en-US": "III. Browning and his Marriage"
+        "en-US": "III. Browning and his Marriage",
+        "pt-BR": "III. Browning e seu casamento"
       }
     },
     {
       "id": "ch04-browning-in-italy",
       "title": {
-        "en-US": "IV. Browning in Italy"
+        "en-US": "IV. Browning in Italy",
+        "pt-BR": "IV. Browning na Itália"
       }
     },
     {
       "id": "ch05-browning-in-later-life",
       "title": {
-        "en-US": "V. Browning in Later Life"
+        "en-US": "V. Browning in Later Life",
+        "pt-BR": "V. Browning na maturidade"
       }
     },
     {
       "id": "ch06-browning-as-a-literary-artist",
       "title": {
-        "en-US": "VI. Browning as a Literary Artist"
+        "en-US": "VI. Browning as a Literary Artist",
+        "pt-BR": "VI. Browning como artista literário"
       }
     },
     {
       "id": "ch07-the-ring-and-the-book",
       "title": {
-        "en-US": "VII. The Ring and the Book"
+        "en-US": "VII. The Ring and the Book",
+        "pt-BR": "VII. O Anel e o Livro"
       }
     },
     {
       "id": "ch08-the-philosophy-of-browning",
       "title": {
-        "en-US": "VIII. The Philosophy of Browning"
+        "en-US": "VIII. The Philosophy of Browning",
+        "pt-BR": "VIII. A filosofia de Browning"
       }
     }
   ]
