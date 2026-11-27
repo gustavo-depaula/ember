@@ -18,13 +18,19 @@
   },
   "composed": "1431–1445",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "councils/basel-ferrara-florence",
   "editions": {
     "la": {
       "editor": "Conciliorum Oecumenicorum Decreta (Bologna 1962), via Latin Wikisource / Documenta Catholica Omnia",
       "year": 1962
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,7 +47,8 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Concilium Basiliense, Ferrariense, Florentinum (1431–1445)"
+        "la": "Concilium Basiliense, Ferrariense, Florentinum (1431–1445)",
+        "pt-BR": "Concílio de Basileia, Ferrara e Florença (1431–1445)"
       }
     }
   ]
