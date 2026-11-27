@@ -15,13 +15,19 @@
   },
   "composed": "1922",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/eugenics-and-other-evils",
   "editions": {
     "en-US": {
       "editor": "Cassell and Company",
       "year": 1922
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,55 +44,64 @@
     {
       "id": "part01-part-i-the-false-theory",
       "title": {
-        "en-US": "Part I: The False Theory"
+        "en-US": "Part I: The False Theory",
+        "pt-BR": "Parte I: A Falsa Teoria"
       },
       "children": [
         {
           "id": "ch01-what-is-eugenics",
           "title": {
-            "en-US": "1. What Is Eugenics?"
+            "en-US": "1. What Is Eugenics?",
+            "pt-BR": "1. O que é a Eugenia?"
           }
         },
         {
           "id": "ch02-the-first-obstacles",
           "title": {
-            "en-US": "2. The First Obstacles"
+            "en-US": "2. The First Obstacles",
+            "pt-BR": "2. Os Primeiros Obstáculos"
           }
         },
         {
           "id": "ch03-the-anarchy-from-above",
           "title": {
-            "en-US": "3. The Anarchy from Above"
+            "en-US": "3. The Anarchy from Above",
+            "pt-BR": "3. A Anarquia que Vem de Cima"
           }
         },
         {
           "id": "ch04-the-lunatic-and-the-law",
           "title": {
-            "en-US": "4. The Lunatic and the Law"
+            "en-US": "4. The Lunatic and the Law",
+            "pt-BR": "4. O Lunático e a Lei"
           }
         },
         {
           "id": "ch05-the-flying-authority",
           "title": {
-            "en-US": "5. The Flying Authority"
+            "en-US": "5. The Flying Authority",
+            "pt-BR": "5. A Autoridade Volante"
           }
         },
         {
           "id": "ch06-the-unanswered-challenge",
           "title": {
-            "en-US": "6. The Unanswered Challenge"
+            "en-US": "6. The Unanswered Challenge",
+            "pt-BR": "6. O Desafio sem Resposta"
           }
         },
         {
           "id": "ch07-the-established-church-of-doubt",
           "title": {
-            "en-US": "7. The Established Church of Doubt"
+            "en-US": "7. The Established Church of Doubt",
+            "pt-BR": "7. A Igreja Estabelecida da Dúvida"
           }
         },
         {
           "id": "ch08-a-summary-of-a-false-theory",
           "title": {
-            "en-US": "8. A Summary of a False Theory"
+            "en-US": "8. A Summary of a False Theory",
+            "pt-BR": "8. Um Resumo de uma Falsa Teoria"
           }
         }
       ]
@@ -94,61 +109,71 @@
     {
       "id": "part02-part-ii-the-real-aim",
       "title": {
-        "en-US": "Part II: The Real Aim"
+        "en-US": "Part II: The Real Aim",
+        "pt-BR": "Parte II: O Verdadeiro Objetivo"
       },
       "children": [
         {
           "id": "ch09-the-impotence-of-impenitence",
           "title": {
-            "en-US": "1. The Impotence of Impenitence"
+            "en-US": "1. The Impotence of Impenitence",
+            "pt-BR": "1. A Impotência da Impenitência"
           }
         },
         {
           "id": "ch10-true-history-of-a-tramp",
           "title": {
-            "en-US": "2. True History of a Tramp"
+            "en-US": "2. True History of a Tramp",
+            "pt-BR": "2. História Verdadeira de um Andarilho"
           }
         },
         {
           "id": "ch11-true-history-of-a-eugenist",
           "title": {
-            "en-US": "3. True History of a Eugenist"
+            "en-US": "3. True History of a Eugenist",
+            "pt-BR": "3. História Verdadeira de um Eugenista"
           }
         },
         {
           "id": "ch12-the-vengeance-of-the-flesh",
           "title": {
-            "en-US": "4. The Vengeance of the Flesh"
+            "en-US": "4. The Vengeance of the Flesh",
+            "pt-BR": "4. A Vingança da Carne"
           }
         },
         {
           "id": "ch13-the-meanness-of-the-motive",
           "title": {
-            "en-US": "5. The Meanness of the Motive"
+            "en-US": "5. The Meanness of the Motive",
+            "pt-BR": "5. A Mesquinhez do Motivo"
           }
         },
         {
           "id": "ch14-the-eclipse-of-liberty",
           "title": {
-            "en-US": "6. The Eclipse of Liberty"
+            "en-US": "6. The Eclipse of Liberty",
+            "pt-BR": "6. O Eclipse da Liberdade"
           }
         },
         {
           "id": "ch15-the-transformation-of-socialism",
           "title": {
-            "en-US": "7. The Transformation of Socialism"
+            "en-US": "7. The Transformation of Socialism",
+            "pt-BR": "7. A Transformação do Socialismo"
           }
         },
         {
           "id": "ch16-the-end-of-the-household-gods",
           "title": {
-            "en-US": "8. The End of the Household Gods"
+            "en-US": "8. The End of the Household Gods",
+            "pt-BR": "8. O Fim dos Deuses do Lar"
           }
         },
         {
           "id": "ch17-a-short-chapter",
           "title": {
-            "en-US": "9. A Short Chapter"
+            "en-US": "9. A Short Chapter",
+            "pt-BR": "9. Um Capítulo Curto"
           }
         }
       ]
