@@ -15,13 +15,19 @@
   },
   "composed": "1902",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/twelve-types",
   "editions": {
     "en-US": {
       "editor": "Arthur L. Humphreys",
       "year": 1902
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,73 +44,85 @@
     {
       "id": "ch01-charlotte-bronte",
       "title": {
-        "en-US": "Charlotte Brontë"
+        "en-US": "Charlotte Brontë",
+        "pt-BR": "Charlotte Brontë"
       }
     },
     {
       "id": "ch02-william-morris-and-his-school",
       "title": {
-        "en-US": "William Morris and his School"
+        "en-US": "William Morris and his School",
+        "pt-BR": "William Morris e sua Escola"
       }
     },
     {
       "id": "ch03-the-optimism-of-byron",
       "title": {
-        "en-US": "The Optimism of Byron"
+        "en-US": "The Optimism of Byron",
+        "pt-BR": "O Otimismo de Byron"
       }
     },
     {
       "id": "ch04-pope-and-the-art-of-satire",
       "title": {
-        "en-US": "Pope and the Art of Satire"
+        "en-US": "Pope and the Art of Satire",
+        "pt-BR": "Pope e a Arte da Sátira"
       }
     },
     {
       "id": "ch05-st-francis-of-assisi",
       "title": {
-        "en-US": "St. Francis of Assisi"
+        "en-US": "St. Francis of Assisi",
+        "pt-BR": "São Francisco de Assis"
       }
     },
     {
       "id": "ch06-rostand",
       "title": {
-        "en-US": "Rostand"
+        "en-US": "Rostand",
+        "pt-BR": "Rostand"
       }
     },
     {
       "id": "ch07-charles-ii",
       "title": {
-        "en-US": "Charles II"
+        "en-US": "Charles II",
+        "pt-BR": "Carlos II"
       }
     },
     {
       "id": "ch08-stevenson",
       "title": {
-        "en-US": "Stevenson"
+        "en-US": "Stevenson",
+        "pt-BR": "Stevenson"
       }
     },
     {
       "id": "ch09-thomas-carlyle",
       "title": {
-        "en-US": "Thomas Carlyle"
+        "en-US": "Thomas Carlyle",
+        "pt-BR": "Thomas Carlyle"
       }
     },
     {
       "id": "ch10-tolstoy-and-the-cult-of-simplicity",
       "title": {
-        "en-US": "Tolstoy and the Cult of Simplicity"
+        "en-US": "Tolstoy and the Cult of Simplicity",
+        "pt-BR": "Tolstói e o Culto da Simplicidade"
       }
     },
     {
       "id": "ch11-savonarola",
       "title": {
-        "en-US": "Savonarola"
+        "en-US": "Savonarola",
+        "pt-BR": "Savonarola"
       }
     },
     {
       "id": "ch12-the-position-of-sir-walter-scott",
       "title": {
-        "en-US": "The Position of Sir Walter Scott"
+        "en-US": "The Position of Sir Walter Scott",
+        "pt-BR": "A Posição de Sir Walter Scott"
       }
     }
   ]
