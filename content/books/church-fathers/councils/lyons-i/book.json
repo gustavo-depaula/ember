@@ -19,7 +19,8 @@
   "composed": "1245",
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "councils/lyons-i",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "H. J. Schroeder, O.P.",
       "year": 1937
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -55,7 +61,8 @@
       "id": "ch001",
       "title": {
         "la": "Concilium Lugdunense I (1245)",
-        "en-US": "First Council of Lyons (1245)"
+        "en-US": "First Council of Lyons (1245)",
+        "pt-BR": "Primeiro Concílio de Lião (1245)"
       }
     }
   ]
