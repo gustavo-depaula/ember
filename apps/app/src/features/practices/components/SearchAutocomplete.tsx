@@ -7,6 +7,7 @@ import { XStack, YStack } from 'tamagui'
 import { Typography } from '@/components/typography'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { useHolyCards } from '@/features/saints/useHolyCards'
+import { useSearchUsage } from '@/lib/searchUsage'
 import { practiceHref } from '../practiceHref'
 import {
   buildSearchIndex,
@@ -32,6 +33,9 @@ export function SearchAutocomplete({ query }: { query: string }) {
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion bumps as manifests warm; titles localize per language.
   const index = useMemo(() => buildSearchIndex(cards), [catalogVersion, i18n.language, cards])
   const results = useMemo(() => searchIndex(index, deferredQuery), [index, deferredQuery])
+  const ids = useMemo(() => results.map(({ result }) => resultId(result)), [results])
+  const positions = useMemo(() => new Map(results.map((hit, i) => [hit, i + 1])), [results])
+  const opened = useSearchUsage('corpus', deferredQuery, ids)
 
   const [shown, setShown] = useState(firstRows)
   const [shownFor, setShownFor] = useState(results)
@@ -88,6 +92,8 @@ export function SearchAutocomplete({ query }: { query: string }) {
                   result={result}
                   caption={caption}
                   isLast={i === groupSize - 1}
+                  onOpen={opened}
+                  position={positions.get(group[i]) ?? 0}
                 />
               ))}
             </YStack>
@@ -98,6 +104,11 @@ export function SearchAutocomplete({ query }: { query: string }) {
   )
 }
 
+// How a result is counted: corpus items by their corpus id, holy cards by theirs.
+function resultId(result: SearchResult): string {
+  return `${result.kind}/${result.id}`
+}
+
 // An index entry, not a card: a serif title over a hairline, with the author
 // of a book, or the words that matched when the title is not them. No icons: a one-letter query renders hundreds of these, and each
 // SVG glyph was most of a row's cost. Memoized — results are stable objects
@@ -106,10 +117,14 @@ const ResultRow = memo(function ResultRow({
   result,
   caption,
   isLast,
+  onOpen,
+  position,
 }: {
   result: SearchResult
   caption?: string
   isLast: boolean
+  onOpen: (id: string, position: number) => void
+  position: number
 }) {
   const subtitle =
     caption ??
@@ -117,6 +132,7 @@ const ResultRow = memo(function ResultRow({
   const router = useRouter()
 
   function handlePress() {
+    onOpen(resultId(result), position)
     if (result.kind === 'practice') {
       router.push(practiceHref(result.id))
       return

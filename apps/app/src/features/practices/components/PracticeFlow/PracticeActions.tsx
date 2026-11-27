@@ -30,6 +30,7 @@ import { ReadingSettingsSheet } from '@/features/practices/components/ReadingSet
 import { LanguageChip, LanguageSheet } from '@/features/practices/language/LanguageSheet'
 import { lightTap } from '@/lib/haptics'
 import { localizeContent } from '@/lib/i18n'
+import { corpusRef, track } from '@/lib/usage'
 import { practiceWebUrl } from '@/lib/webLinks'
 import { PracticePlanEditor, usePracticePlan } from '../PracticePlan'
 
@@ -91,6 +92,8 @@ export function usePracticeActions(manifest: PracticeManifest) {
     onShare: () => {
       lightTap()
       const url = practiceWebUrl(manifest.id, i18n.language)
+      const shared = corpusRef(manifest.id, 'practice')
+      track('shared', shared ? { id: shared } : {})
       // iOS previews a `url` in the share sheet; Android's intent carries text.
       const content =
         Platform.OS === 'ios' ? { url } : { message: url, title: localizeContent(manifest.name) }

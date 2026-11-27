@@ -1,7 +1,7 @@
-import { addDays, differenceInCalendarDays, format, parseISO } from 'date-fns'
+import { addDays, differenceInCalendarDays, format, isToday, parseISO } from 'date-fns'
 import { Image, type ImageSource } from 'expo-image'
 import { useRouter } from 'expo-router'
-import { type ReactNode, useState } from 'react'
+import { type ReactNode, useEffect, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import Animated, { FadeIn, useAnimatedStyle, withTiming } from 'react-native-reanimated'
 import { Text, View, XStack, YStack } from 'tamagui'
@@ -23,6 +23,7 @@ import {
 import { useViewedDay } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
+import { track } from '@/lib/usage'
 
 import type { ProgramEvent } from '../programEvents'
 import { cardFace, useProgramCard } from './eventCard'
@@ -99,6 +100,29 @@ export function EventPanel({
 
 const actGlyph = { mass: 'chalice', officeOrRosary: 'book' } as const
 
+// Each card Today offers is counted once a day, still to win or won and waiting
+// to be opened, so the desk can set what is offered against what is opened.
+const offered = new Set<string>()
+
+function useOfferUsage(cards: TodayCard[], day: string | undefined) {
+  const shown = cards
+    .filter((card) => card.state !== 'redeemed')
+    .map(
+      (card) =>
+        `${card.acts[0] === 'mass' ? 'mass' : 'officeOrRosary'}|${card.state === 'won' ? '1' : '0'}`,
+    )
+    .join(',')
+  useEffect(() => {
+    if (!day || !shown) return
+    for (const line of shown.split(',')) {
+      const [act, won] = line.split('|') as [string, '1' | '0']
+      if (offered.has(`${day}|${line}`)) continue
+      offered.add(`${day}|${line}`)
+      track('card_offer', { act, won })
+    }
+  }, [day, shown])
+}
+
 /**
  * A day's holy cards as a ledger: a line per card, what to do on the left and
  * the card it gives on the right. A card won opens its envelope; one still to
@@ -117,6 +141,8 @@ export function TodayPanel({ cards, date }: { cards: TodayCard[]; date?: string 
   })()
   const { byId } = useSaintsCatalog()
   const held = useHeldCards()
+  // Only the day itself: Today paged back to another day offers nothing.
+  useOfferUsage(cards, !date && isToday(today) ? format(today, 'yyyy-MM-dd') : undefined)
 
   return (
     <YStack>

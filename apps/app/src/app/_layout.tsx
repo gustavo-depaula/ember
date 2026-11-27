@@ -16,6 +16,7 @@ import {
   useQueryClient,
 } from '@tanstack/react-query'
 import { useFonts } from 'expo-font'
+import * as Notifications from 'expo-notifications'
 import {
   DarkTheme,
   DefaultTheme,
@@ -124,12 +125,45 @@ function Usage() {
     manifestId?: string
     practiceId?: string
     bookId?: string
+    collectionId?: string
+    chapterId?: string
+    chantId?: string
+    authorId?: string
+    index?: string
+    chapter?: string
   }>()
-  const id = corpusRef(params.manifestId ?? params.practiceId ?? params.bookId)
+  // What the screen shows, when it is public: the corpus item its route names,
+  // the holy card on a saint's page, the chapter a book opens at.
+  const id =
+    corpusRef(params.manifestId ?? params.practiceId, 'practice') ??
+    corpusRef(params.bookId, 'book') ??
+    corpusRef(params.collectionId, 'collection') ??
+    corpusRef(params.chapterId, 'chapter') ??
+    corpusRef(params.chantId, 'chant') ??
+    corpusRef(params.authorId, 'author')
+  const card = route === 'saints/[index]' ? params.index : undefined
+  const chapter = params.bookId ? params.chapter : undefined
   useEffect(() => startUsage(), [])
   useEffect(() => {
-    track('screen', { route: `/${route}`, ...(id ? { id } : {}) })
-  }, [route, id])
+    track('screen', {
+      route: `/${route}`,
+      ...(id ? { id } : {}),
+      ...(card ? { card } : {}),
+      ...(chapter ? { chapter } : {}),
+    })
+  }, [route, id, card, chapter])
+  // A reminder tapped: the practice it was for, so the desk can tell which
+  // reminders bring people in. The app opened from one counts it at launch.
+  useEffect(() => {
+    const opened = (response: Notifications.NotificationResponse | null) => {
+      if (!response) return
+      const practice = corpusRef(response.notification.request.content.data?.practiceId, 'practice')
+      track('reminder_opened', practice ? { id: practice } : {})
+    }
+    void Notifications.getLastNotificationResponseAsync().then(opened)
+    const sub = Notifications.addNotificationResponseReceivedListener(opened)
+    return () => sub.remove()
+  }, [])
   return null
 }
 

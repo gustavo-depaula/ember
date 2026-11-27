@@ -14,6 +14,7 @@ import {
   wallClockNow,
   weeklySchedule,
 } from '@/lib/mass-times'
+import { track } from '@/lib/usage'
 import {
   dayLabel,
   daysAway,
@@ -294,7 +295,11 @@ function ContactActions({ church, children }: { church: ChurchDetailData; childr
   return (
     <XStack gap="$sm">
       {actions.map(({ id, ...action }) => (
-        <ContactButton key={id} {...action} />
+        <ContactButton
+          key={id}
+          {...action}
+          onOpen={() => track('church_action', { church: church.id, action: id })}
+        />
       ))}
       {children}
     </XStack>
@@ -305,15 +310,18 @@ function ContactButton({
   label,
   icon: Icon,
   url,
+  onOpen,
 }: {
   label: string
   icon: IconComponent
   url: string
+  onOpen: () => void
 }) {
   const { t } = useTranslation()
   const theme = useTheme()
   const open = () => {
     void lightTap()
+    onOpen()
     // No mail account, no dialer (iPad), a malformed parish URL — say so rather than do nothing.
     Linking.openURL(url).catch(() =>
       confirm({ title: t('error.somethingWrong'), description: url, singleAction: true }),

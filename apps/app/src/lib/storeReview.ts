@@ -4,6 +4,7 @@ import { requireOptionalNativeModule } from 'expo'
 import { useEventStore } from '@/db/events'
 import { getPreference, setPreference } from '@/db/repositories/preferences'
 import { getToday } from '@/hooks/useToday'
+import { track } from '@/lib/usage'
 
 // The review sheet arrived in a later build than the runtime it ships on, so
 // one bundle serves every install: one without the native module never asks.
@@ -64,6 +65,7 @@ export async function askForReviewIfDue(afterDays: number): Promise<void> {
     if (Date.now() - askedAt < daysBetweenAsks * 86_400_000) return
     if (!(await storeReview.hasAction())) return
     await setPreference(askedKey, String(Date.now()))
+    track('review_asked')
     await storeReview.requestReview()
   } finally {
     asking = false

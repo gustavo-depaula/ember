@@ -8,6 +8,7 @@ import { AnimatedPressable, confirm } from '@/components'
 import { createSheet, NativeSheet } from '@/components/NativeSheet'
 import { Typography } from '@/components/typography'
 import { appStoreUrl, isTestFlight } from '@/lib/installSource'
+import { track } from '@/lib/usage'
 
 const sheet = createSheet()
 
@@ -25,11 +26,13 @@ export function AppStoreSheet() {
   useEffect(() => {
     if (askedThisLaunch || !appStoreUrl || !isTestFlight()) return
     askedThisLaunch = true
+    track('app_store_sheet', { action: 'shown' })
     sheet.open()
   }, [])
 
   const openStore = async () => {
     if (!appStoreUrl) return
+    track('app_store_sheet', { action: 'open' })
     try {
       await Linking.openURL(appStoreUrl)
       sheet.close()
@@ -72,7 +75,10 @@ export function AppStoreSheet() {
               </YStack>
             </AnimatedPressable>
             <AnimatedPressable
-              onPress={() => sheet.close()}
+              onPress={() => {
+                track('app_store_sheet', { action: 'later' })
+                sheet.close()
+              }}
               accessibilityRole="button"
               accessibilityLabel={t('appStore.later')}
               hitSlop={12}

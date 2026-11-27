@@ -10,6 +10,8 @@ import { useMinuteOfDay } from '@/hooks/useCurrentHour'
 import { selectionTick } from '@/lib/haptics'
 import type { NearbyChurch } from '@/lib/mass-times'
 import { useChurch, useChurchSearch } from '@/lib/mass-times'
+import { useSearchUsage } from '@/lib/searchUsage'
+import { type Counts, track } from '@/lib/usage'
 import { useDebounced } from '@/lib/useDebounced'
 import { type AgendaRow, agenda, type Bucket, bucketOf, type TravelMode } from '../agenda'
 import { useCheckInCount } from '../checkins'
@@ -31,6 +33,7 @@ import { SheetLiftContext } from './sheetLift'
 import { VisitListItem } from './VisitListItem'
 
 type Selected = { id: string; name: string; lat?: number; lng?: number }
+type OpenedFrom = Counts['church_opened']['from']
 type SheetView = { kind: 'browse' } | { kind: 'detail'; church: Selected } | { kind: 'log' }
 
 // The whole map + sheet surface, the Apple Maps way: the live map behind, a sheet riding over it that
@@ -55,7 +58,8 @@ export function ChurchSheet({
   const [detent, setDetent] = useState<SheetDetent>('peek')
   const [query, setQuery] = useState('')
 
-  const openDetail = (church: Selected) => {
+  const openDetail = (church: Selected, from: OpenedFrom) => {
+    track('church_opened', { church: church.id, from })
     setView({ kind: 'detail', church })
     setDetent('half') // lift the sheet so the detail is visible
   }
@@ -103,7 +107,9 @@ export function ChurchSheet({
         <ChurchesMap
           nearby={nearby}
           focused={focused}
-          onSelectChurch={(c) => openDetail({ id: c.id, name: c.name, lat: c.lat, lng: c.lng })}
+          onSelectChurch={(c) =>
+            openDetail({ id: c.id, name: c.name, lat: c.lat, lng: c.lng }, 'map')
+          }
           onDismiss={browse}
           onRegionChange={onRegionChange}
         />
@@ -116,7 +122,10 @@ export function ChurchSheet({
           <ChurchDetailPane key={view.church.id} churchId={view.church.id} onBack={browse} />
         </SheetLiftContext.Provider>
       ) : view.kind === 'log' ? (
-        <LogPane onBack={browse} onSelectChurch={(c) => openDetail({ id: c.id, name: c.name })} />
+        <LogPane
+          onBack={browse}
+          onSelectChurch={(c) => openDetail({ id: c.id, name: c.name }, 'log')}
+        />
       ) : (
         <BrowseSearch
           nearby={nearby}
@@ -130,8 +139,10 @@ export function ChurchSheet({
             setView({ kind: 'log' })
             setDetent('half')
           }}
-          onSelectNearby={(c) => openDetail({ id: c.id, name: c.name, lat: c.lat, lng: c.lng })}
-          onSelectRow={(c) => openDetail({ id: c.id, name: c.name })}
+          onSelectNearby={(c) =>
+            openDetail({ id: c.id, name: c.name, lat: c.lat, lng: c.lng }, 'list')
+          }
+          onSelectRow={(c, from) => openDetail({ id: c.id, name: c.name }, from)}
         />
       )}
     </MapSheet>
@@ -250,7 +261,7 @@ function BrowseSearch({
   onFocusSearch: () => void
   onOpenLog: () => void
   onSelectNearby: (church: NearbyChurch) => void
-  onSelectRow: (church: ChurchRowData) => void
+  onSelectRow: (church: ChurchRowData, from: 'saved' | 'search') => void
 }) {
   const { t } = useTranslation()
   const theme = useTheme()
@@ -265,6 +276,13 @@ function BrowseSearch({
   const searching = debounced.length >= 2
   // Search finds a church by name whatever it holds, so it ignores the sentence's kind.
   const search = useChurchSearch(debounced, undefined, nearby.center)
+  const found = useMemo(() => (search.data ?? []).map((c) => c.id), [search.data])
+  const openedFound = useSearchUsage(
+    'churches',
+    searching ? debounced : '',
+    found,
+    !searching || search.isSuccess,
+  )
 
   const { intent, when } = filter
   // The timetable is cut from now, so it is recut as each minute turns.
@@ -352,7 +370,13 @@ function BrowseSearch({
               return (
                 <YStack>
                   {ruled ? <Hairline /> : null}
-                  <ChurchSearchRow church={item.church} onSelect={onSelectRow} />
+                  <ChurchSearchRow
+                    church={item.church}
+                    onSelect={(c) => {
+                      openedFound(c.id, found.indexOf(c.id) + 1)
+                      onSelectRow(c, 'search')
+                    }}
+                  />
                 </YStack>
               )
             case 'visit':
@@ -393,7 +417,7 @@ function BrowseSearch({
           searching ? null : (
             <YStack gap="$lg" paddingTop="$sm" paddingBottom={4}>
               <LocationBar location={nearby.location} />
-              <SavedChurches onSelect={onSelectRow} />
+              <SavedChurches onSelect={(c) => onSelectRow(c, 'saved')} />
               {checkInCount > 0 ? (
                 <AnimatedPressable
                   onPress={onOpenLog}

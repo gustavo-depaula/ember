@@ -14,6 +14,7 @@ import { type BiblePlace, recordPlace } from '@/features/bible/recents'
 import { isReferenceKind } from '@/features/bible/references'
 import { type Book, getDrbBooks } from '@/lib/content'
 import type { HebrewMarks } from '@/lib/typography/hebrew'
+import { track } from '@/lib/usage'
 
 /**
  * How an edition in the original languages is laid out on the page. One set
@@ -119,6 +120,7 @@ export const useBibleStore = create<BibleState>()(
     recordReading: (books) => {
       const { places, bookId, chapter } = get()
       const next = recordPlace(places, books, bookId, chapter, Date.now())
+      track('bible_chapter', { book: bookId, chapter: String(chapter) })
       set((state) => {
         state.places = next
       })

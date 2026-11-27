@@ -1,3 +1,4 @@
+export { useAreaUsage } from './areaUsage'
 export {
   type CheckIn,
   checkIn,

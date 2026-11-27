@@ -16,8 +16,8 @@ import { useBookManifest } from '@/features/books/hooks'
 import { lightTap, selectionTick, successBuzz } from '@/lib/haptics'
 import { stripHtml } from '@/lib/html'
 import { localizeContent } from '@/lib/i18n'
+import { corpusRef, track } from '@/lib/usage'
 import { usePreferencesStore } from '@/stores/preferencesStore'
-
 import { bookLang, buildTitleLookup, openBookSession } from './bookContent'
 import { addBookmark, type Bookmark, listBookmarks, removeBookmark } from './bookmarks'
 import {
@@ -340,6 +340,16 @@ export function BookReader({ bookId, chapter, lang: edition }: Props) {
   const refreshBookmarks = useCallback(() => {
     setBookmarks(listBookmarks(bookId))
   }, [bookId])
+  // A chapter stayed in, counted so the desk can see how far into a book its
+  // readers get. A chapter only paged through on the way elsewhere is not one.
+  const chapterId = leaves[chapterIndex]?.id
+  useEffect(() => {
+    const book = corpusRef(bookId, 'book')
+    if (!book || !chapterId) return
+    const timer = setTimeout(() => track('book_chapter', { id: book, chapter: chapterId }), 20_000)
+    return () => clearTimeout(timer)
+  }, [bookId, chapterId])
+
   const bookmarkFractions = useMemo(() => {
     const id = leaves[chapterIndex]?.id
     if (!id) return undefined

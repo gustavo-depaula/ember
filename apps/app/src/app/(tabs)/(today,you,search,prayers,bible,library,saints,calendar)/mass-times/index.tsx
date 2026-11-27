@@ -10,6 +10,7 @@ import {
   emptyFilter,
   type MapRegion,
   type MassFilter,
+  useAreaUsage,
   useMassTimesNearby,
 } from '@/features/mass-times'
 
@@ -25,6 +26,7 @@ export default function MassTimesScreen() {
   // The viewed map region (undefined until the user pans) — lets the nearby results follow the map.
   const [region, setRegion] = useState<MapRegion>()
   const nearby = useMassTimesNearby(filter, region)
+  useAreaUsage(nearby, filter, region !== undefined)
 
   // Ask for location up front: lights the blue dot + pulls real nearby results. iOS shows the dialog
   // only once; later calls just read status, so a guarded single fire.

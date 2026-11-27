@@ -7,6 +7,7 @@ import { Input, useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedCheckbox, AnimatedPressable, confirm, Typography } from '@/components'
 import { lightTap, selectionTick, successBuzz } from '@/lib/haptics'
 import { useSubmitCorrection, useUploadAttachment, useVerifyChurch } from '@/lib/mass-times'
+import { track } from '@/lib/usage'
 import { pickCorrectionPhotos } from '../attachments'
 import { ChipButton } from './ChipButton'
 import { SectionLabel } from './SheetType'
@@ -74,6 +75,7 @@ export function ChurchFeedback({ churchId }: { churchId: string }) {
     correction.mutate(body, {
       onSuccess: () => {
         void successBuzz()
+        track('church_correction', { church: churchId, kind: body.kind })
         setEditing(false)
         setComment('')
         setClosed(false)
@@ -103,7 +105,14 @@ export function ChurchFeedback({ churchId }: { churchId: string }) {
         ) : (
           <ChipButton
             label={t('massTimes.timesCorrect')}
-            onPress={() => verify.mutate(undefined, { onSuccess: () => void successBuzz() })}
+            onPress={() =>
+              verify.mutate(undefined, {
+                onSuccess: () => {
+                  void successBuzz()
+                  track('church_verified', { church: churchId })
+                },
+              })
+            }
             disabled={verify.isPending}
           />
         )}

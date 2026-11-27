@@ -21,39 +21,124 @@ const installKey = 'usage.install'
 
 type Counted = AnalyticsBatch['events'][number]
 
+/**
+ * What the app counts besides its own log, and what each count names. Every
+ * value is a corpus id, a public church or card id, a fixed choice, a number,
+ * or a search as typed, cleaned by `searchUsage`. The admin's usage desk reads
+ * these names; a change here is a change there.
+ */
+export type Counts = {
+  app_opened: { start?: 'warm' }
+  screen: { route: string; id?: string; card?: string; chapter?: string }
+  onboarding_reason: { reason: string }
+  onboarding_reminders: { reminders: string }
+  onboarding_done: { path?: string; reminders?: string }
+  // `results` how many were found, `top` the first few ids shown, `opened` the
+  // one tapped and `at` its place in the list (from 1).
+  search: {
+    scope: 'corpus' | 'churches'
+    q: string
+    results: string
+    top?: string
+    opened?: string
+    at?: string
+  }
+  church_opened: { church: string; from: 'map' | 'list' | 'search' | 'saved' | 'log' }
+  church_action: { church: string; action: string }
+  church_verified: { church: string }
+  church_correction: { church: string; kind: string }
+  // A map view settled on: the geohash cell of its center (about 5 km), what
+  // the sentence asked for, how many churches it listed, and whether it was
+  // around the person (`here`) or somewhere they looked up.
+  mass_area: { cell: string; intent: string; when: string; churches: string; here: '1' | '0' }
+  // Today offered a holy card: `won` once it waits to be opened.
+  card_offer: { act: string; won: '1' | '0' }
+  book_chapter: { id: string; chapter: string }
+  bible_chapter: { book: string; chapter: string }
+  reminder_opened: { id?: string }
+  shared: { id?: string }
+  review_asked: Record<string, never>
+  app_store_sheet: { action: 'shown' | 'open' | 'later' }
+}
+
 let waiting: Counted[] = []
 
-export function track(name: string, props?: Record<string, string>): void {
+function count(name: string, props?: Record<string, string>): void {
   // Beyond this the oldest go: a device long offline is not owed a full record.
   if (waiting.length >= 200) waiting.shift()
   const now = new Date()
   waiting.push({ name, props, day: format(now, 'yyyy-MM-dd'), hour: now.getHours() })
 }
 
-const corpusId = /^(practice|book|chapter|collection|saint)\//
-
-/** The corpus id `value` names, or undefined for anything else — a practice
- * someone made has a random id, and that never leaves the device. Plans and
- * links still carry practices by bare slug (`mass`), so those are looked up. */
-export function corpusRef(value: unknown): string | undefined {
-  if (typeof value !== 'string') return undefined
-  if (corpusId.test(value)) return value
-  return getCatalog().items[`practice/${value}`] ? `practice/${value}` : undefined
+export function track<N extends keyof Counts>(name: N, props?: Counts[N]): void {
+  count(name, props as Record<string, string> | undefined)
 }
 
-// What an action names, when it is something in the corpus, and for a sitting
-// with a book, how long it was.
+const corpusKinds = ['practice', 'book', 'chapter', 'collection', 'chant', 'author'] as const
+type CorpusKind = (typeof corpusKinds)[number]
+const prefixed = new RegExp(`^(${corpusKinds.join('|')})/`)
+
+/** The corpus id `value` names, or undefined for anything else — a practice
+ * someone made has a random id, and that never leaves the device. The app
+ * mostly carries ids bare (`mass`, `morrow-my-catholic-faith`), so a bare one
+ * is looked up under `kind` first, then under each kind the corpus has. */
+export function corpusRef(value: unknown, kind?: CorpusKind): string | undefined {
+  if (typeof value !== 'string' || !value) return undefined
+  if (prefixed.test(value)) return value
+  const items = getCatalog().items
+  const kinds = kind ? [kind, ...corpusKinds.filter((k) => k !== kind)] : corpusKinds
+  return kinds.map((k) => `${k}/${value}`).find((id) => items[id])
+}
+
+// Synced preferences hold only fixed choices (a translation, a language, a
+// calendar), so the value goes with the key.
+const shortValue = (value: string | null) => (value ?? '').slice(0, 40)
+
+// What an action names when it is something public — a corpus item, a church,
+// a holy card — and for a sitting with a book, how long it was.
 function named(event: AppEvent): Record<string, string> | undefined {
-  const fields = event as { practiceId?: unknown; bookId?: unknown; itemId?: unknown }
-  const id = [fields.practiceId, fields.bookId, fields.itemId].map(corpusRef).find(Boolean)
-  // How a practice was marked done: the Amen that ends its prayer, a tick on the plan, a Mass
-  // check-in. Only the first is praying in Ember, and the counts are read apart by it.
-  const via = event.type === 'CompletionLogged' && event.via ? { via: event.via } : undefined
-  if (!id) return via
-  if (event.type === 'ReadingLogged' && event.ms > 0) {
-    return { id, minutes: String(Math.round(event.ms / 60_000)) }
+  switch (event.type) {
+    case 'CompletionLogged': {
+      const id = corpusRef(event.practiceId, 'practice')
+      // How a practice was marked done: the Amen that ends its prayer, a tick on the plan, a Mass
+      // check-in. Only the first is praying in Ember, and the counts are read apart by it.
+      const via = event.via ? { via: event.via } : undefined
+      return id ? { id, ...via } : via
+    }
+    case 'ReadingLogged': {
+      const id = corpusRef(event.bookId, 'book')
+      if (!id) return undefined
+      return event.ms > 0 ? { id, minutes: String(Math.round(event.ms / 60_000)) } : { id }
+    }
+    case 'HolyCardRedeemed':
+      return { card: event.card, door: event.door }
+    case 'ItemSaved': {
+      const id = corpusRef(
+        event.itemId,
+        corpusKinds.find((k) => k === event.kind),
+      )
+      return id ? { id, kind: event.kind } : { kind: event.kind }
+    }
+    case 'ItemUnsaved':
+    case 'CollectionItemAdded':
+    case 'CollectionItemRemoved': {
+      const id = corpusRef('itemId' in event ? event.itemId : event.ref)
+      return id ? { id } : undefined
+    }
+    case 'ChurchFavorited':
+      return { church: event.church.id }
+    case 'ChurchUnfavorited':
+      return { church: event.churchId }
+    case 'CheckInLogged':
+      return { church: event.checkIn.churchId, kind: event.checkIn.kind }
+    case 'PreferenceSet':
+      return { key: event.key, value: shortValue(event.value) }
+    default: {
+      const fields = event as { practiceId?: unknown }
+      const id = corpusRef(fields.practiceId, 'practice')
+      return id ? { id } : undefined
+    }
   }
-  return { id, ...via }
 }
 
 // Which update the app runs, so the reach of each one shows.
@@ -114,7 +199,7 @@ async function send(): Promise<void> {
 export function startUsage(): () => void {
   track('app_opened')
   const stopListening = onEventsWritten((events) => {
-    for (const event of events) track(event.type, named(event))
+    for (const event of events) count(event.type, named(event))
   })
   const everyMinute = setInterval(send, 60_000)
   let last = AppState.currentState
