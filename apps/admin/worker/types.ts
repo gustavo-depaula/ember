@@ -85,47 +85,190 @@ export type Progress = { runs: Record<string, Run>; reviewedAt: Record<string, s
 // is refused instead of overwritten.
 export type Seen = Record<string, string | null>
 
-// The usage desk. Every count is of installs unless it says otherwise.
+// The usage desk. Every count is of installs unless it says otherwise. The desk reads one tab at
+// a time; each has its own counts.
+
+export const usageTabs = [
+  'overview',
+  'onboarding',
+  'prayer',
+  'mass',
+  'cards',
+  'library',
+  'search',
+  'features',
+] as const
+export type UsageTab = (typeof usageTabs)[number]
 
 export type UsageFilter = { days: number; platform: string; language: string }
 
-export type Usage = {
+type Period = {
   // The latest day any install has reached, which the periods end on.
   today: string
   filter: UsageFilter
-  pulse: {
-    today: number
-    yesterday: number
-    period: number
-    periodBefore: number
-    opened: number
-    openedBefore: number
-    amen: number
-    amenBefore: number
-    ever: number
-  }
+}
+
+type Ranked = { installs: number; times: number }
+
+export type Pulse = {
+  today: number
+  yesterday: number
+  period: number
+  periodBefore: number
+  opened: number
+  openedBefore: number
+  amen: number
+  amenBefore: number
+  ever: number
+}
+
+export type Overview = Period & {
+  pulse: Pulse
   newcomers: { period: number; before: number }
-  daily: {
-    day: string
-    active: number
-    opened: number
-    amen: number
-    new: number
-    opens: number
-  }[]
+  daily: { day: string; active: number; opened: number; amen: number; new: number; opens: number }[]
   cohorts: { cohort: string; week: number; installs: number }[]
-  habit: { what: 'opened' | 'amen'; days: number; installs: number }[]
-  unfinished: { openedDays: number; amenDays: number; neverAmen: number }
-  practices: { id: string; times: number; installs: number; before: number; opened?: number }[]
-  books: { id: string; installs: number; sittings: number; minutes: number }[]
-  hours: { weekday: number; hour: number; times: number }[]
-  screens: { route: string; views: number; installs: number }[]
-  actions: { name: string; times: number; installs: number }[]
   audience: {
     facet: 'platform' | 'language' | 'version' | 'update'
     value: string
     installs: number
   }[]
+}
+
+export type Onboarding = Period & {
+  funnel: {
+    started: number
+    reasoned: number
+    reminders: number
+    finished: number
+    skipped: number
+  }
+  steps: { route: string; installs: number }[]
+  // Each reason, and what its installs did in their first week. `judged` are those old enough
+  // to have had a week.
+  reasons: {
+    reason: string
+    installs: number
+    finished: number
+    remindersOn: number
+    judged: number
+    returned: number
+    prayed: number
+    amen: number
+  }[]
+  daily: { day: string; started: number; finished: number }[]
+}
+
+export type Prayer = Period & {
+  pulse: Pulse
+  habit: { what: 'opened' | 'amen'; days: number; installs: number }[]
+  unfinished: { openedDays: number; amenDays: number; neverAmen: number }
+  practices: { id: string; times: number; installs: number; before: number; opened?: number }[]
+  hours: { weekday: number; hour: number; times: number }[]
+  // A day's prayers, by install-day: how many of the offering, the midday and the examen were
+  // marked, and whether the Rosary was.
+  arc: { stations: number; rosary: number; days: number; installs: number }[]
+  stations: { offering: number; midday: number; examen: number }
+  reminders: { id: string; installs: number; times: number; prayed: number }[]
+}
+
+export type Place = {
+  city: string
+  region: string
+  installs: number
+  views: number
+  here: number
+  empty: number
+}
+
+export type ChurchUse = {
+  id: string
+  name?: string
+  city?: string
+  region?: string
+  scheduled?: boolean
+  services?: number
+  verified?: string
+  openers: number
+  opens: number
+  checkers: number
+  checkins: number
+  favorites: number
+  directions: number
+  contact: number
+}
+
+export type MassTimes = Period & {
+  totals: {
+    visitors: number
+    opened: number
+    openers: number
+    checkins: number
+    checkers: number
+    favorites: number
+    verified: number
+    corrections: number
+  }
+  daily: { day: string; visitors: number; checkins: number }[]
+  places: Place[]
+  churches: ChurchUse[]
+  from: { from: string; times: number }[]
+  kinds: { kind: string; times: number; installs: number }[]
+  asked: { intent: string; when: string; times: number }[]
+}
+
+export type HolyCards = Period & {
+  totals: {
+    collectors: number
+    redeemed: number
+    offerDays: number
+    wonDays: number
+    openedDays: number
+  }
+  daily: { day: string; offered: number; won: number; redeemed: number }[]
+  doors: ({ door: string } & Ranked)[]
+  saints: { card: string; redeemed: number; viewers: number }[]
+  // All the cards each install holds, whatever the period.
+  held: { cards: number; installs: number }[]
+}
+
+export type Library = Period & {
+  books: { id: string; installs: number; sittings: number; minutes: number }[]
+  reach: {
+    id: string
+    readers: number
+    chapters: number
+    average: number
+    most: number
+    far: number
+  }[]
+  bible: { book: string; installs: number; chapters: number }[]
+  bibleTotals: { installs: number; chapters: number }
+  saved: { kind: string; installs: number; times: number }[]
+  savedItems: ({ id: string } & Ranked)[]
+  collections: { made: number; makers: number; added: number; adders: number }
+  collected: ({ id: string } & Ranked)[]
+}
+
+export type SearchScope = {
+  totals: { searches: number; installs: number; opened: number; empty: number }
+  queries: { q: string; installs: number; times: number; results: number; opened: number }[]
+  empty: { q: string; installs: number; times: number }[]
+  opened: { id: string; times: number; installs: number; at: number }[]
+  positions: { at: number; times: number }[]
+}
+
+export type Search = Period & {
+  corpus: SearchScope
+  churches: SearchScope
+  names: Record<string, string>
+}
+
+export type Features = Period & {
+  screens: { route: string; views: number; installs: number }[]
+  actions: ({ name: string } & Ranked)[]
+  preferences: { key: string; value: string; installs: number }[]
+  shared: ({ id: string } & Ranked)[]
+  appStore: { action: string; installs: number; times: number }[]
   accounts: {
     accounts: number
     reachable: number
@@ -136,4 +279,15 @@ export type Usage = {
     devices: { devices: number; accounts: number }[]
     weekly: { week: string; created: number; deleted: number }[]
   }
+}
+
+export type UsageOf = {
+  overview: Overview
+  onboarding: Onboarding
+  prayer: Prayer
+  mass: MassTimes
+  cards: HolyCards
+  library: Library
+  search: Search
+  features: Features
 }

@@ -1155,6 +1155,41 @@ button.reject:not(:disabled) {
   color: var(--bg);
 }
 
+.usage-tabs {
+  position: sticky;
+  top: 57px;
+  z-index: 1;
+  display: flex;
+  gap: 4px;
+  overflow-x: auto;
+  padding: 0 24px;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg);
+}
+
+.usage-tabs a {
+  padding: 10px 12px;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+  font: 500 13px var(--ui);
+  color: var(--text-2);
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.usage-tabs a:hover {
+  color: var(--text);
+}
+
+.usage-tabs a.on {
+  border-bottom-color: var(--accent);
+  color: var(--text);
+}
+
+.funnel td:first-child {
+  width: 22%;
+}
+
 .usage-body {
   display: grid;
   gap: 28px;
@@ -1235,6 +1270,11 @@ button.reject:not(:disabled) {
 .change {
   font-weight: 600;
   color: var(--muted);
+}
+
+/* The Mass-times desk's change log also has a `.change`, a grid row; here it is a figure. */
+.usage-body .change {
+  display: inline;
 }
 
 .change--up {

@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite build && wrangler dev --persist-to ../backend/.wrangler/state --var ACCESS_AUD: --var ACCESS_TEAM_DOMAIN:",
     "deploy": "vite build && wrangler deploy",
-    "seed:usage": "mkdir -p .wrangler && node scripts/seed-usage.ts > .wrangler/seed-usage.sql && wrangler d1 execute RELAY --local --persist-to ../backend/.wrangler/state --file .wrangler/seed-usage.sql",
+    "seed:usage": "mkdir -p .wrangler && wrangler d1 execute DB --local --persist-to ../backend/.wrangler/state --json --command \"SELECT id, geohash FROM church ORDER BY id LIMIT 400\" | node -e \"process.stdout.write(JSON.stringify(JSON.parse(require('fs').readFileSync(0))[0].results))\" > .wrangler/seed-churches.json && SEED_CHURCHES=.wrangler/seed-churches.json node scripts/seed-usage.ts > .wrangler/seed-usage.sql && wrangler d1 execute RELAY --local --persist-to ../backend/.wrangler/state --file .wrangler/seed-usage.sql",
     "db:migrate:local": "wrangler d1 migrations apply ember-mass-times --local --persist-to ../backend/.wrangler/state",
     "typecheck": "tsc -p tsconfig.json && tsc -p tsconfig.worker.json"
   },

@@ -3,7 +3,7 @@ import { Hono } from 'hono'
 import { identify } from './access'
 import { createDesk, issues, message } from './desk'
 import type { Env } from './env'
-import type { Seen } from './types'
+import { type Seen, usageTabs } from './types'
 import { loadUsage } from './usage'
 
 // Ember's admin panel. Its first desk is Mass-times moderation, under /api; the page is the static
@@ -82,10 +82,12 @@ app.post('/history/:id/shared', async (c) => {
   return c.json(await desk(c).markShared(c.req.param('id'), shared === true))
 })
 
-app.get('/usage', async (c) => {
+app.get('/usage/:tab', async (c) => {
+  const tab = usageTabs.find((t) => t === c.req.param('tab'))
+  if (!tab) return c.json({ error: `No usage tab ${c.req.param('tab')}` }, 404)
   const days = Number(c.req.query('days'))
   return c.json(
-    await loadUsage(c.env.RELAY, {
+    await loadUsage({ relay: c.env.RELAY, mass: c.env.DB }, tab, {
       days: [7, 28, 90].includes(days) ? days : 28,
       platform: c.req.query('platform') ?? '',
       language: c.req.query('language') ?? '',
