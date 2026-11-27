@@ -15,13 +15,19 @@
   },
   "composed": "1908",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/man-who-was-thursday",
   "editions": {
     "en-US": {
       "editor": "Arrowsmith",
       "year": 1908
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,91 +44,106 @@
     {
       "id": "ch01-the-two-poets-of-saffron-park",
       "title": {
-        "en-US": "I. The Two Poets of Saffron Park"
+        "en-US": "I. The Two Poets of Saffron Park",
+        "pt-BR": "I. Os Dois Poetas de Saffron Park"
       }
     },
     {
       "id": "ch02-the-secret-of-gabriel-syme",
       "title": {
-        "en-US": "II. The Secret of Gabriel Syme"
+        "en-US": "II. The Secret of Gabriel Syme",
+        "pt-BR": "II. O Segredo de Gabriel Syme"
       }
     },
     {
       "id": "ch03-the-man-who-was-thursday",
       "title": {
-        "en-US": "III. The Man Who Was Thursday"
+        "en-US": "III. The Man Who Was Thursday",
+        "pt-BR": "III. O Homem que Foi Quinta-Feira"
       }
     },
     {
       "id": "ch04-the-tale-of-a-detective",
       "title": {
-        "en-US": "IV. The Tale of a Detective"
+        "en-US": "IV. The Tale of a Detective",
+        "pt-BR": "IV. A História de um Detetive"
       }
     },
     {
       "id": "ch05-the-feast-of-fear",
       "title": {
-        "en-US": "V. The Feast of Fear"
+        "en-US": "V. The Feast of Fear",
+        "pt-BR": "V. O Banquete do Medo"
       }
     },
     {
       "id": "ch06-the-exposure",
       "title": {
-        "en-US": "VI. The Exposure"
+        "en-US": "VI. The Exposure",
+        "pt-BR": "VI. O Desmascaramento"
       }
     },
     {
       "id": "ch07-the-unaccountable-conduct-of-professor-de-worms",
       "title": {
-        "en-US": "VII. The Unaccountable Conduct of Professor De Worms"
+        "en-US": "VII. The Unaccountable Conduct of Professor De Worms",
+        "pt-BR": "VII. A Conduta Inexplicável do Professor De Worms"
       }
     },
     {
       "id": "ch08-the-professor-explains",
       "title": {
-        "en-US": "VIII. The Professor Explains"
+        "en-US": "VIII. The Professor Explains",
+        "pt-BR": "VIII. O Professor se Explica"
       }
     },
     {
       "id": "ch09-the-man-in-spectacles",
       "title": {
-        "en-US": "IX. The Man in Spectacles"
+        "en-US": "IX. The Man in Spectacles",
+        "pt-BR": "IX. O Homem de Óculos"
       }
     },
     {
       "id": "ch10-the-duel",
       "title": {
-        "en-US": "X. The Duel"
+        "en-US": "X. The Duel",
+        "pt-BR": "X. O Duelo"
       }
     },
     {
       "id": "ch11-the-criminals-chase-the-police",
       "title": {
-        "en-US": "XI. The Criminals Chase the Police"
+        "en-US": "XI. The Criminals Chase the Police",
+        "pt-BR": "XI. Os Criminosos Perseguem a Polícia"
       }
     },
     {
       "id": "ch12-the-earth-in-anarchy",
       "title": {
-        "en-US": "XII. The Earth in Anarchy"
+        "en-US": "XII. The Earth in Anarchy",
+        "pt-BR": "XII. A Terra em Anarquia"
       }
     },
     {
       "id": "ch13-the-pursuit-of-the-president",
       "title": {
-        "en-US": "XIII. The Pursuit of the President"
+        "en-US": "XIII. The Pursuit of the President",
+        "pt-BR": "XIII. A Perseguição ao Presidente"
       }
     },
     {
       "id": "ch14-the-six-philosophers",
       "title": {
-        "en-US": "XIV. The Six Philosophers"
+        "en-US": "XIV. The Six Philosophers",
+        "pt-BR": "XIV. Os Seis Filósofos"
       }
     },
     {
       "id": "ch15-the-accuser",
       "title": {
-        "en-US": "XV. The Accuser"
+        "en-US": "XV. The Accuser",
+        "pt-BR": "XV. O Acusador"
       }
     }
   ]
