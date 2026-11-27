@@ -18,13 +18,19 @@
   },
   "composed": "date varies",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/sermones",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,91 +47,106 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Sermo 360/A"
+        "la": "Sermo 360/A",
+        "pt-BR": "Sermão 360/A"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "Sermo 360/B"
+        "la": "Sermo 360/B",
+        "pt-BR": "Sermão 360/B"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "la": "Sermo 198 (aucta)"
+        "la": "Sermo 198 (aucta)",
+        "pt-BR": "Sermão 198 (ampliado)"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "la": "Sermo 360/C"
+        "la": "Sermo 360/C",
+        "pt-BR": "Sermão 360/C"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "la": "Sermo 20/B"
+        "la": "Sermo 20/B",
+        "pt-BR": "Sermão 20/B"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "la": "Sermo 348/A (aucta)"
+        "la": "Sermo 348/A (aucta)",
+        "pt-BR": "Sermão 348/A (ampliado)"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "la": "Sermo 272/B (aucta)"
+        "la": "Sermo 272/B (aucta)",
+        "pt-BR": "Sermão 272/B (ampliado)"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "la": "Sermo 204/A"
+        "la": "Sermo 204/A",
+        "pt-BR": "Sermão 204/A"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "la": "Sermo 218 (aucta)"
+        "la": "Sermo 218 (aucta)",
+        "pt-BR": "Sermão 218 (ampliado)"
       }
     },
     {
       "id": "ch010",
       "title": {
-        "la": "Sermo (Erfurt 1 = Serm. 282 (aucta))"
+        "la": "Sermo (Erfurt 1 = Serm. 282 (aucta))",
+        "pt-BR": "Sermão (Erfurt 1 = Serm. 282 (ampliado))"
       }
     },
     {
       "id": "ch011",
       "title": {
-        "la": "Sermo ("
+        "la": "Sermo (",
+        "pt-BR": "Sermão ("
       }
     },
     {
       "id": "ch012",
       "title": {
-        "la": "Sermo (Erfurt 3 = Sermo 350/E)"
+        "la": "Sermo (Erfurt 3 = Sermo 350/E)",
+        "pt-BR": "Sermão (Erfurt 3 = Sermão 350/E)"
       }
     },
     {
       "id": "ch013",
       "title": {
-        "la": "Sermo (Erfurt 4 = Sermo 350/F)"
+        "la": "Sermo (Erfurt 4 = Sermo 350/F)",
+        "pt-BR": "Sermão (Erfurt 4 = Sermão 350/F)"
       }
     },
     {
       "id": "ch014",
       "title": {
-        "la": "Sermo (Erfurt 5 = Sermo 362/A)"
+        "la": "Sermo (Erfurt 5 = Sermo 362/A)",
+        "pt-BR": "Sermão (Erfurt 5 = Sermão 362/A)"
       }
     },
     {
       "id": "ch015",
       "title": {
-        "la": "Sermo (Erfurt 6 = Sermo 313/G)"
+        "la": "Sermo (Erfurt 6 = Sermo 313/G)",
+        "pt-BR": "Sermão (Erfurt 6 = Sermão 313/G)"
       }
     }
   ],
