@@ -15,13 +15,19 @@
   },
   "composed": "1912",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/manalive",
   "editions": {
     "en-US": {
       "editor": "Thomas Nelson and Sons",
       "year": 1912
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,37 +44,43 @@
     {
       "id": "part01-part-i-the-enigmas-of-innocent-smith",
       "title": {
-        "en-US": "Part I: The Enigmas of Innocent Smith"
+        "en-US": "Part I: The Enigmas of Innocent Smith",
+        "pt-BR": "Parte I: Os Enigmas de Innocent Smith"
       },
       "children": [
         {
           "id": "ch01-how-the-great-wind-came-to-beacon",
           "title": {
-            "en-US": "I. How the Great Wind Came to Beacon House"
+            "en-US": "I. How the Great Wind Came to Beacon House",
+            "pt-BR": "I. Como o Grande Vento Chegou à Casa Beacon"
           }
         },
         {
           "id": "ch02-the-luggage-of-an-optimist",
           "title": {
-            "en-US": "II. The Luggage of an Optimist"
+            "en-US": "II. The Luggage of an Optimist",
+            "pt-BR": "II. A Bagagem de um Otimista"
           }
         },
         {
           "id": "ch03-the-banner-of-beacon",
           "title": {
-            "en-US": "III. The Banner of Beacon"
+            "en-US": "III. The Banner of Beacon",
+            "pt-BR": "III. A Bandeira de Beacon"
           }
         },
         {
           "id": "ch04-the-garden-of-the-god",
           "title": {
-            "en-US": "IV. The Garden of the God"
+            "en-US": "IV. The Garden of the God",
+            "pt-BR": "IV. O Jardim do Deus"
           }
         },
         {
           "id": "ch05-the-allegorical-practical-joker",
           "title": {
-            "en-US": "V. The Allegorical Practical Joker"
+            "en-US": "V. The Allegorical Practical Joker",
+            "pt-BR": "V. O Pregador de Peças Alegóricas"
           }
         }
       ]
@@ -76,37 +88,43 @@
     {
       "id": "part02-part-ii-the-explanations-of-innocent-smith",
       "title": {
-        "en-US": "Part II: The Explanations of Innocent Smith"
+        "en-US": "Part II: The Explanations of Innocent Smith",
+        "pt-BR": "Parte II: As Explicações de Innocent Smith"
       },
       "children": [
         {
           "id": "ch06-the-eye-of-death-or-the-murder",
           "title": {
-            "en-US": "I. The Eye of Death; or, the Murder Charge"
+            "en-US": "I. The Eye of Death; or, the Murder Charge",
+            "pt-BR": "I. O Olho da Morte; ou, a Acusação de Assassinato"
           }
         },
         {
           "id": "ch07-the-two-curates-or-the-burglary-charge",
           "title": {
-            "en-US": "II. The Two Curates; or, the Burglary Charge"
+            "en-US": "II. The Two Curates; or, the Burglary Charge",
+            "pt-BR": "II. Os Dois Coadjutores; ou, a Acusação de Roubo"
           }
         },
         {
           "id": "ch08-the-round-road-or-the-desertion-charge",
           "title": {
-            "en-US": "III. The Round Road; or, the Desertion Charge"
+            "en-US": "III. The Round Road; or, the Desertion Charge",
+            "pt-BR": "III. A Estrada Circular; ou, a Acusação de Abandono"
           }
         },
         {
           "id": "ch09-the-wild-weddings-or-the-polygamy-charge",
           "title": {
-            "en-US": "IV. The Wild Weddings; or, the Polygamy Charge"
+            "en-US": "IV. The Wild Weddings; or, the Polygamy Charge",
+            "pt-BR": "IV. Os Casamentos Desvairados; ou, a Acusação de Poligamia"
           }
         },
         {
           "id": "ch10-how-the-great-wind-went-from-beacon",
           "title": {
-            "en-US": "V. How the Great Wind Went from Beacon House"
+            "en-US": "V. How the Great Wind Went from Beacon House",
+            "pt-BR": "V. Como o Grande Vento Partiu da Casa Beacon"
           }
         }
       ]
