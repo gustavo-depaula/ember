@@ -15,13 +15,19 @@
   },
   "composed": "1901",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/defendant",
   "editions": {
     "en-US": {
       "editor": "R. Brimley Johnson",
       "year": 1901
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,109 +44,127 @@
     {
       "id": "ch01-in-defence-of-a-new-edition",
       "title": {
-        "en-US": "In Defence of a New Edition"
+        "en-US": "In Defence of a New Edition",
+        "pt-BR": "Em defesa de uma nova edição"
       }
     },
     {
       "id": "ch02-introduction",
       "title": {
-        "en-US": "Introduction"
+        "en-US": "Introduction",
+        "pt-BR": "Introdução"
       }
     },
     {
       "id": "ch03-a-defence-of-penny-dreadfuls",
       "title": {
-        "en-US": "A Defence of Penny Dreadfuls"
+        "en-US": "A Defence of Penny Dreadfuls",
+        "pt-BR": "Em defesa dos romances baratos"
       }
     },
     {
       "id": "ch04-a-defence-of-rash-vows",
       "title": {
-        "en-US": "A Defence of Rash Vows"
+        "en-US": "A Defence of Rash Vows",
+        "pt-BR": "Em defesa dos votos temerários"
       }
     },
     {
       "id": "ch05-a-defence-of-skeletons",
       "title": {
-        "en-US": "A Defence of Skeletons"
+        "en-US": "A Defence of Skeletons",
+        "pt-BR": "Em defesa dos esqueletos"
       }
     },
     {
       "id": "ch06-a-defence-of-publicity",
       "title": {
-        "en-US": "A Defence of Publicity"
+        "en-US": "A Defence of Publicity",
+        "pt-BR": "Em defesa da publicidade"
       }
     },
     {
       "id": "ch07-a-defence-of-nonsense",
       "title": {
-        "en-US": "A Defence of Nonsense"
+        "en-US": "A Defence of Nonsense",
+        "pt-BR": "Em defesa do absurdo"
       }
     },
     {
       "id": "ch08-a-defence-of-planets",
       "title": {
-        "en-US": "A Defence of Planets"
+        "en-US": "A Defence of Planets",
+        "pt-BR": "Em defesa dos planetas"
       }
     },
     {
       "id": "ch09-a-defence-of-china-shepherdesses",
       "title": {
-        "en-US": "A Defence of China Shepherdesses"
+        "en-US": "A Defence of China Shepherdesses",
+        "pt-BR": "Em defesa das pastoras de porcelana"
       }
     },
     {
       "id": "ch10-a-defence-of-useful-information",
       "title": {
-        "en-US": "A Defence of Useful Information"
+        "en-US": "A Defence of Useful Information",
+        "pt-BR": "Em defesa das informações úteis"
       }
     },
     {
       "id": "ch11-a-defence-of-heraldry",
       "title": {
-        "en-US": "A Defence of Heraldry"
+        "en-US": "A Defence of Heraldry",
+        "pt-BR": "Em defesa da heráldica"
       }
     },
     {
       "id": "ch12-a-defence-of-ugly-things",
       "title": {
-        "en-US": "A Defence of Ugly Things"
+        "en-US": "A Defence of Ugly Things",
+        "pt-BR": "Em defesa das coisas feias"
       }
     },
     {
       "id": "ch13-a-defence-of-farce",
       "title": {
-        "en-US": "A Defence of Farce"
+        "en-US": "A Defence of Farce",
+        "pt-BR": "Em defesa da farsa"
       }
     },
     {
       "id": "ch14-a-defence-of-humility",
       "title": {
-        "en-US": "A Defence of Humility"
+        "en-US": "A Defence of Humility",
+        "pt-BR": "Em defesa da humildade"
       }
     },
     {
       "id": "ch15-a-defence-of-slang",
       "title": {
-        "en-US": "A Defence of Slang"
+        "en-US": "A Defence of Slang",
+        "pt-BR": "Em defesa da gíria"
       }
     },
     {
       "id": "ch16-a-defence-of-baby-worship",
       "title": {
-        "en-US": "A Defence of Baby-worship"
+        "en-US": "A Defence of Baby-worship",
+        "pt-BR": "Em defesa do culto aos bebês"
       }
     },
     {
       "id": "ch17-a-defence-of-detective-stories",
       "title": {
-        "en-US": "A Defence of Detective Stories"
+        "en-US": "A Defence of Detective Stories",
+        "pt-BR": "Em defesa das histórias de detetive"
       }
     },
     {
       "id": "ch18-a-defence-of-patriotism",
       "title": {
-        "en-US": "A Defence of Patriotism"
+        "en-US": "A Defence of Patriotism",
+        "pt-BR": "Em defesa do patriotismo"
       }
     }
   ]
