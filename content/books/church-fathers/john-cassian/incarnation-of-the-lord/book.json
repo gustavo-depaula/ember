@@ -2,13 +2,16 @@
   "id": "john-cassian-incarnation-of-the-lord",
   "cover": "quarter",
   "name": {
-    "en-US": "On the Incarnation of the Lord (Against Nestorius)"
+    "en-US": "On the Incarnation of the Lord (Against Nestorius)",
+    "pt-BR": "Sobre a Encarnação do Senhor (Contra Nestório)"
   },
   "author": {
-    "en-US": "John Cassian (c. 360-c. 435)"
+    "en-US": "John Cassian (c. 360-c. 435)",
+    "pt-BR": "João Cassiano (c. 360-c. 435)"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,47 +24,61 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Book I"
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Book II"
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Book III"
+        "en-US": "Book III",
+        "pt-BR": "Livro III"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Book IV"
+        "en-US": "Book IV",
+        "pt-BR": "Livro IV"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "Book V"
+        "en-US": "Book V",
+        "pt-BR": "Livro V"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "Book VI"
+        "en-US": "Book VI",
+        "pt-BR": "Livro VI"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "en-US": "Book VII"
+        "en-US": "Book VII",
+        "pt-BR": "Livro VII"
       }
     }
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
