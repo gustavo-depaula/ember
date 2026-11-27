@@ -18,13 +18,19 @@
   },
   "composed": "427-428",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/collatio-cum-maximino",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,7 +47,8 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Collatio cum Maximino Arianorum episcopo, Capita 1–15"
+        "la": "Collatio cum Maximino Arianorum episcopo, Capita 1–15",
+        "pt-BR": "Conferência com Maximino, bispo ariano, Capítulos 1–15"
       }
     }
   ],
