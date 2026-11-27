@@ -18,13 +18,19 @@
   },
   "composed": "388-396",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/de-diversis-quaestionibus-octoginta-tribus",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,31 +47,36 @@
     {
       "id": "ch001",
       "title": {
-        "la": "De diversis quaestionibus octoginta tribus, Quaestiones 1–46"
+        "la": "De diversis quaestionibus octoginta tribus, Quaestiones 1–46",
+        "pt-BR": "Oitenta e três questões diversas, Questões 1–46"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "De diversis quaestionibus octoginta tribus, Quaestiones 47–61"
+        "la": "De diversis quaestionibus octoginta tribus, Quaestiones 47–61",
+        "pt-BR": "Oitenta e três questões diversas, Questões 47–61"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "la": "De diversis quaestionibus octoginta tribus, Quaestiones 62–68"
+        "la": "De diversis quaestionibus octoginta tribus, Quaestiones 62–68",
+        "pt-BR": "Oitenta e três questões diversas, Questões 62–68"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "la": "De diversis quaestionibus octoginta tribus, Quaestiones 69–79"
+        "la": "De diversis quaestionibus octoginta tribus, Quaestiones 69–79",
+        "pt-BR": "Oitenta e três questões diversas, Questões 69–79"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "la": "De diversis quaestionibus octoginta tribus, Quaestiones 80–83"
+        "la": "De diversis quaestionibus octoginta tribus, Quaestiones 80–83",
+        "pt-BR": "Oitenta e três questões diversas, Questões 80–83"
       }
     }
   ],
