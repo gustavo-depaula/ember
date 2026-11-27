@@ -59,9 +59,49 @@ export type Counts = {
   shared: { id?: string }
   review_asked: Record<string, never>
   app_store_sheet: { action: 'shown' | 'open' | 'later' }
+  // How far down a prayer was read, in quarters of the page, and how it was left.
+  prayer_read: {
+    id: string
+    depth: string
+    end: 'amen' | 'mass' | 'check-in' | 'mass-check-in' | 'left'
+  }
+  prayer_language: {
+    action: 'pray' | 'follow' | 'layout' | 'swap' | 'only-this' | 'every-prayer' | 'restore'
+    id?: string
+    value?: string
+  }
+  // An error, never its message: where it was caught, its kind (the error's
+  // name), what failed (a query's first key, a content source), the screen, an
+  // HTTP status, and for a crash, the update that crashed.
+  error: {
+    where: 'query' | 'mutation' | 'uncaught' | 'fatal'
+    kind: string
+    source?: string
+    route?: string
+    status?: string
+    build?: string
+  }
+  // The app opened from a link: the prayer it named, at launch or while running.
+  link_opened: { id?: string; start: 'cold' | 'warm' }
+  // Notifications asked for, and the answer.
+  notifications: { asked: 'granted' | 'denied' }
+  // Once a day, the shape of the plan: practices kept, their slots, how many
+  // remind, and whether notifications may be shown at all.
+  plan: { practices: string; slots: string; reminders: string; notifications: string }
 }
 
 let waiting: Counted[] = []
+
+// The screen open now, for an error to say where it happened.
+let route = ''
+
+export function setUsageRoute(next: string): void {
+  route = next
+}
+
+export function usageRoute(): string {
+  return route
+}
 
 function count(name: string, props?: Record<string, string>): void {
   // Beyond this the oldest go: a device long offline is not owed a full record.
@@ -142,7 +182,7 @@ function named(event: AppEvent): Record<string, string> | undefined {
 }
 
 // Which update the app runs, so the reach of each one shows.
-function build(): string | undefined {
+export function build(): string | undefined {
   if (Updates.isEmbeddedLaunch) return 'embedded'
   return Updates.createdAt?.toISOString().slice(0, 16)
 }

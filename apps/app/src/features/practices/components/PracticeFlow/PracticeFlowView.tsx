@@ -35,6 +35,7 @@ import { useToday, useViewedDay } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 import { useTurnsWhileFocused } from '@/lib/screenOrientation'
+import { type Counts, corpusRef, track } from '@/lib/usage'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import { usePractice } from './hooks/usePractice'
 import type { usePracticeCompletion } from './hooks/usePracticeCompletion'
@@ -191,6 +192,7 @@ function PracticeReady({
   const { rails } = useWidthClass()
   const scroller = useRef<ScrollView>(null)
   const { registry, entries: outline, jumpTo } = useOutline(scroller, rails)
+  const read = useReadDepth(practiceId)
 
   return (
     <PreprocessProvider value={preprocessCtx}>
@@ -201,7 +203,7 @@ function PracticeReady({
             right={<PracticeToolsRail actions={actions} />}
           >
             <YStack flex={1}>
-              <ScreenLayout scrollRef={scroller}>
+              <ScreenLayout scrollRef={scroller} onReach={read.onReach}>
                 <YStack gap="$lg" paddingVertical="$lg">
                   <PracticeHeader
                     name={practiceName}
@@ -232,13 +234,19 @@ function PracticeReady({
                         label={completion.isCompleting ? t('office.completing') : t('office.amen')}
                         accessibilityLabel={t('office.amen')}
                         busy={completion.isCompleting}
-                        onPress={() => completion.handleComplete()}
+                        onPress={() => {
+                          read.end('amen')
+                          completion.handleComplete()
+                        }}
                       />
                       {followsMass && (
                         <EndButton
                           label={t('practice.wentToMass')}
                           busy={completion.isCompleting}
-                          onPress={() => completion.handleComplete({ asMass: true })}
+                          onPress={() => {
+                            read.end('mass')
+                            completion.handleComplete({ asMass: true })
+                          }}
                         />
                       )}
                       {church ? (
@@ -256,9 +264,10 @@ function PracticeReady({
                             { name: church.name },
                           )}
                           busy={completion.isCompleting}
-                          onPress={() =>
+                          onPress={() => {
+                            read.end(followsMass ? 'mass-check-in' : 'check-in')
                             completion.handleComplete({ checkInAt: church, asMass: followsMass })
-                          }
+                          }}
                         />
                       ) : null}
                     </YStack>
@@ -479,5 +488,37 @@ function EndButton({
         ) : null}
       </YStack>
     </AnimatedPressable>
+  )
+}
+
+// How far down a prayer someone read, and how they left it: by its Amen, by
+// marking the Mass it follows, by checking in, or just leaving. Counted once,
+// as the screen closes, in quarters of the page. The page mounts in chunks, so
+// the furthest point seen is measured against the page as it finally stood: a
+// first chunk shorter than the screen is not the whole prayer read.
+function useReadDepth(practiceId: string) {
+  const furthest = useRef(0)
+  const height = useRef(0)
+  const ended = useRef<Counts['prayer_read']['end']>('left')
+  useEffect(() => {
+    const id = corpusRef(practiceId, 'practice')
+    return () => {
+      if (!id || height.current <= 0) return
+      const seen = Math.min(1, furthest.current / height.current)
+      const depth = seen >= 0.97 ? 100 : Math.floor(seen * 4) * 25
+      track('prayer_read', { id, depth: String(depth), end: ended.current })
+    }
+  }, [practiceId])
+  return useMemo(
+    () => ({
+      onReach: (seenTo: number, pageHeight: number) => {
+        furthest.current = Math.max(furthest.current, seenTo)
+        height.current = pageHeight
+      },
+      end: (how: Counts['prayer_read']['end']) => {
+        ended.current = how
+      },
+    }),
+    [],
   )
 }

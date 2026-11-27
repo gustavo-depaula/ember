@@ -105,8 +105,9 @@ export function SearchAutocomplete({ query }: { query: string }) {
 }
 
 // How a result is counted: corpus items by their corpus id, holy cards by theirs.
+// Practices come from the index already prefixed; the rest come bare.
 function resultId(result: SearchResult): string {
-  return `${result.kind}/${result.id}`
+  return result.id.includes('/') ? result.id : `${result.kind}/${result.id}`
 }
 
 // An index entry, not a card: a serif title over a hairline, with the author

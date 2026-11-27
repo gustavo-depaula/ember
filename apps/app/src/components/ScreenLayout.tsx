@@ -1,4 +1,4 @@
-import type { ReactNode, RefObject } from 'react'
+import { type ReactNode, type RefObject, useRef } from 'react'
 import { type ScrollView as NativeScrollView, RefreshControl } from 'react-native'
 import { KeyboardAvoidingView } from 'react-native-keyboard-controller'
 import Animated, { FadeIn } from 'react-native-reanimated'
@@ -23,6 +23,7 @@ export function ScreenLayout({
   modal = false,
   measure = 'column',
   scrollRef,
+  onReach,
 }: {
   children: ReactNode
   scroll?: boolean
@@ -38,6 +39,9 @@ export function ScreenLayout({
   measure?: PageMeasure
   /** The page's own scroller, for a rail or an index that jumps within it. */
   scrollRef?: RefObject<NativeScrollView | null>
+  /** Told how far down the page has been on screen, and how tall the page is,
+   * as it lays out (a short page is all seen at once), grows, and is scrolled. */
+  onReach?: (seenTo: number, height: number) => void
 }) {
   const insets = useSafeAreaInsets()
   const outerWidth = pageOuterWidth(useFrameWidth(), measure)
@@ -46,6 +50,12 @@ export function ScreenLayout({
   // The tabs disable automatic content insets so this manual padding is the
   // single source of truth (lets the home flourish bleed into the notch).
   const bottomClearance = modal ? 0 : tabClearance
+  const metrics = useRef({ offset: 0, viewport: 0, content: 0 })
+  const reach = (change: Partial<typeof metrics.current>) => {
+    if (!onReach) return
+    const m = Object.assign(metrics.current, change)
+    if (m.content > 0 && m.viewport > 0) onReach(m.offset + m.viewport, m.content)
+  }
 
   const inner = (
     <YStack
@@ -93,6 +103,18 @@ export function ScreenLayout({
           keyboardShouldPersistTaps="handled"
           contentInsetAdjustmentBehavior="never"
           refreshControl={refreshControl}
+          // On Android this page's onScroll never arrived in testing, while the
+          // end of a drag and of its momentum did: all three report.
+          onScroll={onReach ? (e) => reach({ offset: e.nativeEvent.contentOffset.y }) : undefined}
+          scrollEventThrottle={onReach ? 250 : undefined}
+          onScrollEndDrag={
+            onReach ? (e) => reach({ offset: e.nativeEvent.contentOffset.y }) : undefined
+          }
+          onMomentumScrollEnd={
+            onReach ? (e) => reach({ offset: e.nativeEvent.contentOffset.y }) : undefined
+          }
+          onLayout={onReach ? (e) => reach({ viewport: e.nativeEvent.layout.height }) : undefined}
+          onContentSizeChange={onReach ? (_w, h) => reach({ content: h }) : undefined}
         >
           {inner}
         </ScrollView>

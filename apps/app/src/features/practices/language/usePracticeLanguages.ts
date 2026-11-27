@@ -16,6 +16,7 @@ import {
   promotedDefaults,
   resolveLanguages,
 } from '@/lib/practiceLanguages'
+import { type Counts, corpusRef, track } from '@/lib/usage'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 // Wide enough for two columns of prayer: a phone on its side (the prayer page
@@ -68,27 +69,50 @@ export function usePracticeLanguageActions(manifest: PracticeManifest) {
 
   const patch = (change: LanguageOverride) =>
     setPracticeLanguage(manifest.id, patchOverride(traits, defaults, override, change))
+  // Which prayers have their languages changed, and to what: Latin, the
+  // vernacular, a companion beside it.
+  const count = (action: Counts['prayer_language']['action'], value?: string) => {
+    const id = corpusRef(manifest.id, 'practice')
+    track('prayer_language', { action, ...(id ? { id } : {}), ...(value ? { value } : {}) })
+  }
 
   return {
     resolved,
     defaults,
-    choosePray: (lang: ContentLanguage) => patch(prayPatch(resolved, lang)),
-    chooseFollow: (lang: ContentLanguage | undefined) => patch({ follow: lang ?? 'none' }),
-    chooseLayout: (layout: BilingualLayout) => patch({ layout }),
+    choosePray: (lang: ContentLanguage) => {
+      count('pray', lang)
+      patch(prayPatch(resolved, lang))
+    },
+    chooseFollow: (lang: ContentLanguage | undefined) => {
+      count('follow', lang ?? 'none')
+      patch({ follow: lang ?? 'none' })
+    },
+    chooseLayout: (layout: BilingualLayout) => {
+      count('layout', layout)
+      patch({ layout })
+    },
     swap: () => {
-      if (resolved.follow) patch({ pray: resolved.follow, follow: resolved.pray })
+      if (!resolved.follow) return
+      count('swap')
+      patch({ pray: resolved.follow, follow: resolved.pray })
     },
     onlyThisPrayer: () => {
-      if (!override) setPracticeLanguage(manifest.id, pinnedOverride(resolved))
+      if (override) return
+      count('only-this')
+      setPracticeLanguage(manifest.id, pinnedOverride(resolved))
     },
     everyPrayer: () => {
       if (!override) return
+      count('every-prayer')
       const next = promotedDefaults(defaults, resolved)
       if (next.stance !== defaults.stance) setLatinStance(next.stance)
       if (next.vernacular !== defaults.vernacular) setContentLanguage(next.vernacular)
       if (next.layout !== defaults.layout) setBilingualLayout(next.layout)
       setPracticeLanguage(manifest.id, undefined)
     },
-    restore: () => setPracticeLanguage(manifest.id, undefined),
+    restore: () => {
+      count('restore')
+      setPracticeLanguage(manifest.id, undefined)
+    },
   }
 }

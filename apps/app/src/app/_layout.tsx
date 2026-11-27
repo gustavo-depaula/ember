@@ -11,6 +11,7 @@ featureFlags.experiment.ios26AllowInteractionsDuringTransition = true
 import {
   MutationCache,
   notifyManager,
+  QueryCache,
   QueryClient,
   QueryClientProvider,
   useQueryClient,
@@ -65,7 +66,8 @@ import {
   setupNotifications,
 } from '@/lib/notifications'
 import { startStallMonitor } from '@/lib/stallMonitor'
-import { corpusRef, startUsage, track } from '@/lib/usage'
+import { corpusRef, setUsageRoute, startUsage, track } from '@/lib/usage'
+import { countError, startHealth } from '@/lib/usageHealth'
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
@@ -84,8 +86,15 @@ LogBox.ignoreLogs(['props.pointerEvents is deprecated'])
 notifyManager.setScheduler(queueMicrotask)
 
 const queryClient = new QueryClient({
+  // Every read goes through a query, so a query's failure is how a source that
+  // cannot be reached, or a parser that breaks, shows on the usage desk: named
+  // by the query's first key.
+  queryCache: new QueryCache({
+    onError: (error, query) => countError('query', error, String(query.queryKey[0])),
+  }),
   mutationCache: new MutationCache({
     onError: (error, _variables, _context, mutation) => {
+      countError('mutation', error, String(mutation.options.mutationKey?.[0] ?? 'unnamed'))
       if (mutation.options.onError) return
       const description =
         error instanceof Error && error.message ? error.message : i18n.t('error.tryAgainLater')
@@ -143,8 +152,13 @@ function Usage() {
     corpusRef(params.authorId, 'author')
   const card = route === 'saints/[index]' ? params.index : undefined
   const chapter = params.bookId ? params.chapter : undefined
-  useEffect(() => startUsage(), [])
   useEffect(() => {
+    const stop = startUsage()
+    startHealth()
+    return stop
+  }, [])
+  useEffect(() => {
+    setUsageRoute(`/${route}`)
     track('screen', {
       route: `/${route}`,
       ...(id ? { id } : {}),

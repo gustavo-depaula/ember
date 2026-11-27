@@ -34,6 +34,7 @@ import {
   transfersForJurisdiction,
 } from '@/lib/missal/loaders'
 import { parseSlotKey } from '@/lib/slotKey'
+import { track } from '@/lib/usage'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 // expo-notifications is native-only
@@ -52,6 +53,7 @@ export async function requestNotificationPermission(): Promise<boolean> {
   if (existing === 'granted') return true
 
   const { status } = await Notifications.requestPermissionsAsync()
+  track('notifications', { asked: status === 'granted' ? 'granted' : 'denied' })
   return status === 'granted'
 }
 
