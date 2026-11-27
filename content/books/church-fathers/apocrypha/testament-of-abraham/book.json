@@ -2,13 +2,16 @@
   "id": "apocrypha-testament-of-abraham",
   "cover": "quarter",
   "name": {
-    "en-US": "Testament of Abraham (unknown date)"
+    "en-US": "Testament of Abraham (unknown date)",
+    "pt-BR": "Testamento de Abraão (data desconhecida)"
   },
   "author": {
-    "en-US": "Apocrypha"
+    "en-US": "Apocrypha",
+    "pt-BR": "Apócrifos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,11 +24,19 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Testament of Abraham (unknown date)"
+        "en-US": "Testament of Abraham (unknown date)",
+        "pt-BR": "Testamento de Abraão (data desconhecida)"
       }
     }
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
