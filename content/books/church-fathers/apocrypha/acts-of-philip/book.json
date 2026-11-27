@@ -2,13 +2,16 @@
   "id": "apocrypha-acts-of-philip",
   "cover": "quarter",
   "name": {
-    "en-US": "Acts of Philip (c. 350)"
+    "en-US": "Acts of Philip (c. 350)",
+    "pt-BR": "Atos de Filipe (c. 350)"
   },
   "author": {
-    "en-US": "Apocrypha"
+    "en-US": "Apocrypha",
+    "pt-BR": "Apócrifos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,11 +24,19 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Acts of Philip (c. 350)"
+        "en-US": "Acts of Philip (c. 350)",
+        "pt-BR": "Atos de Filipe (c. 350)"
       }
     }
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
