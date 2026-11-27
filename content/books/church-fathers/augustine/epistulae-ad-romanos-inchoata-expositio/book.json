@@ -18,13 +18,19 @@
   },
   "composed": "394-395",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/epistulae-ad-romanos-inchoata-expositio",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,7 +47,8 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Epistulae ad Romanos inchoata expositio"
+        "la": "Epistulae ad Romanos inchoata expositio",
+        "pt-BR": "Exposição inacabada da Carta aos Romanos"
       }
     }
   ],
