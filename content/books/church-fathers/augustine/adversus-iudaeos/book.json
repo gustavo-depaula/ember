@@ -18,13 +18,19 @@
   },
   "composed": "428-429",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/adversus-iudaeos",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,7 +47,8 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Tractatus adversus Iudaeos"
+        "la": "Tractatus adversus Iudaeos",
+        "pt-BR": "Tratado contra os judeus"
       }
     }
   ],
