@@ -11,17 +11,23 @@
   },
   "description": {
     "en-US": "Six linked stories about a club whose members all earn their living by a trade of their own invention, and the baffled narrators and the retired judge, Basil Grant, who stumble on them. Chesterton's light romance of ingenious absurdity, in the vein of Father Brown's world before the priest.",
-    "pt-BR": "Seis histórias ligadas sobre um clube cujos membros vivem de ofícios de sua própria invenção, e sobre os narradores desconcertados e o juiz aposentado Basil Grant que tropeçam neles. O leve romance de Chesterton de absurdo engenhoso, no ar do mundo do Padre Brown antes do padre."
+    "pt-BR": "Seis histórias ligadas sobre um clube cujos membros vivem de ofícios de sua própria invenção, e sobre os narradores desconcertados e o juiz aposentado Basil Grant que tropeçam neles. O leve romance de Chesterton de absurdo engenhoso, na linha do mundo do Padre Brown antes do padre."
   },
   "composed": "1905",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/club-of-queer-trades",
   "editions": {
     "en-US": {
       "editor": "Harper & Brothers",
       "year": 1905
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,37 +44,43 @@
     {
       "id": "ch01-the-tremendous-adventures-of-major-brown",
       "title": {
-        "en-US": "The Tremendous Adventures of Major Brown"
+        "en-US": "The Tremendous Adventures of Major Brown",
+        "pt-BR": "As Tremendas Aventuras do Major Brown"
       }
     },
     {
       "id": "ch02-the-painful-fall-of-a-great-reputation",
       "title": {
-        "en-US": "The Painful Fall of a Great Reputation"
+        "en-US": "The Painful Fall of a Great Reputation",
+        "pt-BR": "A Dolorosa Queda de uma Grande Reputação"
       }
     },
     {
       "id": "ch03-the-awful-reason-of-the-vicar-s",
       "title": {
-        "en-US": "The Awful Reason of the Vicar's Visit"
+        "en-US": "The Awful Reason of the Vicar's Visit",
+        "pt-BR": "A Terrível Razão da Visita do Vigário"
       }
     },
     {
       "id": "ch04-the-singular-speculation-of-the-house-agent",
       "title": {
-        "en-US": "The Singular Speculation of the House-Agent"
+        "en-US": "The Singular Speculation of the House-Agent",
+        "pt-BR": "A Singular Especulação do Agente Imobiliário"
       }
     },
     {
       "id": "ch05-the-noticeable-conduct-of-professor-chadd",
       "title": {
-        "en-US": "The Noticeable Conduct of Professor Chadd"
+        "en-US": "The Noticeable Conduct of Professor Chadd",
+        "pt-BR": "A Notável Conduta do Professor Chadd"
       }
     },
     {
       "id": "ch06-the-eccentric-seclusion-of-the-old-lady",
       "title": {
-        "en-US": "The Eccentric Seclusion of the Old Lady"
+        "en-US": "The Eccentric Seclusion of the Old Lady",
+        "pt-BR": "A Excêntrica Reclusão da Velha Senhora"
       }
     }
   ]

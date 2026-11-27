@@ -134,7 +134,7 @@ Basil laughed heartily.
 
 “That's very forcible,” he said. “As a matter of fact, though, I know it's all right in this case. And there comes the green omnibus.”
 
-“How do you know it's all right in this ease?” persisted his brother angrily.
+“How do you know it's all right in this case?” persisted his brother angrily.
 
 “My dear chap, the thing's obvious,” answered Basil, holding a return ticket between his teeth while he fumbled in his waistcoat pocket. “Those two fellows never committed a crime in their lives. They're not the kind. Have either of you chaps got a halfpenny? I want to get a paper before the omnibus comes.”
 
