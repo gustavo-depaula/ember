@@ -2,13 +2,16 @@
   "id": "apocrypha-narrative-of-joseph-of-arimathea",
   "cover": "quarter",
   "name": {
-    "en-US": "Narrative of Joseph of Arimathea (unknown date; late)"
+    "en-US": "Narrative of Joseph of Arimathea (unknown date; late)",
+    "pt-BR": "Narrativa de José de Arimateia (data desconhecida; tardia)"
   },
   "author": {
-    "en-US": "Apocrypha"
+    "en-US": "Apocrypha",
+    "pt-BR": "Apócrifos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,11 +24,19 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Narrative of Joseph of Arimathea (unknown date; late)"
+        "en-US": "Narrative of Joseph of Arimathea (unknown date; late)",
+        "pt-BR": "Narrativa de José de Arimateia (data desconhecida; tardia)"
       }
     }
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
