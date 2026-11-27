@@ -15,13 +15,19 @@
   },
   "composed": "1909",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/tremendous-trifles",
   "editions": {
     "en-US": {
       "editor": "Methuen & Co.",
       "year": 1909
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,241 +44,281 @@
     {
       "id": "preface",
       "title": {
-        "en-US": "Preface"
+        "en-US": "Preface",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "ch01-tremendous-trifles",
       "title": {
-        "en-US": "I. Tremendous Trifles"
+        "en-US": "I. Tremendous Trifles",
+        "pt-BR": "I. Ninharias Tremendas"
       }
     },
     {
       "id": "ch02-a-piece-of-chalk",
       "title": {
-        "en-US": "II. A Piece of Chalk"
+        "en-US": "II. A Piece of Chalk",
+        "pt-BR": "II. Um Pedaço de Giz"
       }
     },
     {
       "id": "ch03-the-secret-of-a-train",
       "title": {
-        "en-US": "III. The Secret of a Train"
+        "en-US": "III. The Secret of a Train",
+        "pt-BR": "III. O Segredo de um Trem"
       }
     },
     {
       "id": "ch04-the-perfect-game",
       "title": {
-        "en-US": "IV. The Perfect Game"
+        "en-US": "IV. The Perfect Game",
+        "pt-BR": "IV. O Jogo Perfeito"
       }
     },
     {
       "id": "ch05-the-extraordinary-cabman",
       "title": {
-        "en-US": "V. The Extraordinary Cabman"
+        "en-US": "V. The Extraordinary Cabman",
+        "pt-BR": "V. O Cocheiro Extraordinário"
       }
     },
     {
       "id": "ch06-an-accident",
       "title": {
-        "en-US": "VI. An Accident"
+        "en-US": "VI. An Accident",
+        "pt-BR": "VI. Um Acidente"
       }
     },
     {
       "id": "ch07-the-advantages-of-having-one-leg",
       "title": {
-        "en-US": "VII. The Advantages of Having One Leg"
+        "en-US": "VII. The Advantages of Having One Leg",
+        "pt-BR": "VII. As Vantagens de Ter uma Só Perna"
       }
     },
     {
       "id": "ch08-the-end-of-the-world",
       "title": {
-        "en-US": "VIII. The End of the World"
+        "en-US": "VIII. The End of the World",
+        "pt-BR": "VIII. O Fim do Mundo"
       }
     },
     {
       "id": "ch09-in-the-place-de-la-bastille",
       "title": {
-        "en-US": "IX. In the Place de La Bastille"
+        "en-US": "IX. In the Place de La Bastille",
+        "pt-BR": "IX. Na Praça da Bastilha"
       }
     },
     {
       "id": "ch10-on-lying-in-bed",
       "title": {
-        "en-US": "X. On Lying in Bed"
+        "en-US": "X. On Lying in Bed",
+        "pt-BR": "X. Sobre Ficar na Cama"
       }
     },
     {
       "id": "ch11-the-twelve-men",
       "title": {
-        "en-US": "XI. The Twelve Men"
+        "en-US": "XI. The Twelve Men",
+        "pt-BR": "XI. Os Doze Homens"
       }
     },
     {
       "id": "ch12-the-wind-and-the-trees",
       "title": {
-        "en-US": "XII. The Wind and the Trees"
+        "en-US": "XII. The Wind and the Trees",
+        "pt-BR": "XII. O Vento e as Árvores"
       }
     },
     {
       "id": "ch13-the-dickensian",
       "title": {
-        "en-US": "XIII. The Dickensian"
+        "en-US": "XIII. The Dickensian",
+        "pt-BR": "XIII. O Dickensiano"
       }
     },
     {
       "id": "ch14-in-topsy-turvy-land",
       "title": {
-        "en-US": "XIV. In Topsy-Turvy Land"
+        "en-US": "XIV. In Topsy-Turvy Land",
+        "pt-BR": "XIV. Na Terra às Avessas"
       }
     },
     {
       "id": "ch15-what-i-found-in-my-pocket",
       "title": {
-        "en-US": "XV. What I Found in My Pocket"
+        "en-US": "XV. What I Found in My Pocket",
+        "pt-BR": "XV. O Que Encontrei no Bolso"
       }
     },
     {
       "id": "ch16-the-dragons-grandmother",
       "title": {
-        "en-US": "XVI. The Dragon’s Grandmother"
+        "en-US": "XVI. The Dragon’s Grandmother",
+        "pt-BR": "XVI. A Avó do Dragão"
       }
     },
     {
       "id": "ch17-the-red-angel",
       "title": {
-        "en-US": "XVII. The Red Angel"
+        "en-US": "XVII. The Red Angel",
+        "pt-BR": "XVII. O Anjo Vermelho"
       }
     },
     {
       "id": "ch18-the-tower",
       "title": {
-        "en-US": "XVIII. The Tower"
+        "en-US": "XVIII. The Tower",
+        "pt-BR": "XVIII. A Torre"
       }
     },
     {
       "id": "ch19-how-i-met-the-president",
       "title": {
-        "en-US": "XIX. How I Met the President"
+        "en-US": "XIX. How I Met the President",
+        "pt-BR": "XIX. Como Conheci o Presidente"
       }
     },
     {
       "id": "ch20-the-giant",
       "title": {
-        "en-US": "XX. The Giant"
+        "en-US": "XX. The Giant",
+        "pt-BR": "XX. O Gigante"
       }
     },
     {
       "id": "ch21-a-great-man",
       "title": {
-        "en-US": "XXI. A Great Man"
+        "en-US": "XXI. A Great Man",
+        "pt-BR": "XXI. Um Grande Homem"
       }
     },
     {
       "id": "ch22-the-orthodox-barber",
       "title": {
-        "en-US": "XXII. The Orthodox Barber"
+        "en-US": "XXII. The Orthodox Barber",
+        "pt-BR": "XXII. O Barbeiro Ortodoxo"
       }
     },
     {
       "id": "ch23-the-toy-theatre",
       "title": {
-        "en-US": "XXIII. The Toy Theatre"
+        "en-US": "XXIII. The Toy Theatre",
+        "pt-BR": "XXIII. O Teatro de Brinquedo"
       }
     },
     {
       "id": "ch24-a-tragedy-of-twopence",
       "title": {
-        "en-US": "XXIV. A Tragedy of Twopence"
+        "en-US": "XXIV. A Tragedy of Twopence",
+        "pt-BR": "XXIV. Uma Tragédia de Dois Pence"
       }
     },
     {
       "id": "ch25-a-cab-ride-across-country",
       "title": {
-        "en-US": "XXV. A Cab Ride Across Country"
+        "en-US": "XXV. A Cab Ride Across Country",
+        "pt-BR": "XXV. Um Passeio de Carro de Aluguel pelo Campo"
       }
     },
     {
       "id": "ch26-the-two-noises",
       "title": {
-        "en-US": "XXVI. The Two Noises"
+        "en-US": "XXVI. The Two Noises",
+        "pt-BR": "XXVI. Os Dois Ruídos"
       }
     },
     {
       "id": "ch27-some-policemen-and-a-moral",
       "title": {
-        "en-US": "XXVII. Some Policemen and a Moral"
+        "en-US": "XXVII. Some Policemen and a Moral",
+        "pt-BR": "XXVII. Alguns Policiais e uma Moral"
       }
     },
     {
       "id": "ch28-the-lion",
       "title": {
-        "en-US": "XXVIII. The Lion"
+        "en-US": "XXVIII. The Lion",
+        "pt-BR": "XXVIII. O Leão"
       }
     },
     {
       "id": "ch29-humanity-an-interlude",
       "title": {
-        "en-US": "XXIX. Humanity: an Interlude"
+        "en-US": "XXIX. Humanity: an Interlude",
+        "pt-BR": "XXIX. Humanidade: um Interlúdio"
       }
     },
     {
       "id": "ch30-the-little-birds-who-wont-sing",
       "title": {
-        "en-US": "XXX. The Little Birds Who Won’t Sing"
+        "en-US": "XXX. The Little Birds Who Won’t Sing",
+        "pt-BR": "XXX. Os Passarinhos Que Não Querem Cantar"
       }
     },
     {
       "id": "ch31-the-riddle-of-the-ivy",
       "title": {
-        "en-US": "XXXI. The Riddle of the Ivy"
+        "en-US": "XXXI. The Riddle of the Ivy",
+        "pt-BR": "XXXI. O Enigma da Hera"
       }
     },
     {
       "id": "ch32-the-travellers-in-state",
       "title": {
-        "en-US": "XXXII. The Travellers in State"
+        "en-US": "XXXII. The Travellers in State",
+        "pt-BR": "XXXII. Os Viajantes em Pompa"
       }
     },
     {
       "id": "ch33-the-prehistoric-railway-station",
       "title": {
-        "en-US": "XXXIII. The Prehistoric Railway Station"
+        "en-US": "XXXIII. The Prehistoric Railway Station",
+        "pt-BR": "XXXIII. A Estação Ferroviária Pré-Histórica"
       }
     },
     {
       "id": "ch34-the-diabolist",
       "title": {
-        "en-US": "XXXIV. The Diabolist"
+        "en-US": "XXXIV. The Diabolist",
+        "pt-BR": "XXXIV. O Diabolista"
       }
     },
     {
       "id": "ch35-a-glimpse-of-my-country",
       "title": {
-        "en-US": "XXXV. A Glimpse of My Country"
+        "en-US": "XXXV. A Glimpse of My Country",
+        "pt-BR": "XXXV. Um Vislumbre de Meu País"
       }
     },
     {
       "id": "ch36-a-somewhat-improbable-story",
       "title": {
-        "en-US": "XXXVI. A Somewhat Improbable Story"
+        "en-US": "XXXVI. A Somewhat Improbable Story",
+        "pt-BR": "XXXVI. Uma História um Tanto Improvável"
       }
     },
     {
       "id": "ch37-the-shop-of-ghosts",
       "title": {
-        "en-US": "XXXVII. The Shop Of Ghosts"
+        "en-US": "XXXVII. The Shop Of Ghosts",
+        "pt-BR": "XXXVII. A Loja de Fantasmas"
       }
     },
     {
       "id": "ch38-the-ballade-of-a-strange-town",
       "title": {
-        "en-US": "XXXVIII. The Ballade of a Strange Town"
+        "en-US": "XXXVIII. The Ballade of a Strange Town",
+        "pt-BR": "XXXVIII. A Balada de uma Cidade Estranha"
       }
     },
     {
       "id": "ch39-the-mystery-of-a-pageant",
       "title": {
-        "en-US": "XXXIX. The Mystery of a Pageant"
+        "en-US": "XXXIX. The Mystery of a Pageant",
+        "pt-BR": "XXXIX. O Mistério de um Cortejo"
       }
     }
   ]

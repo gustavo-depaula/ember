@@ -1,0 +1,40 @@
+# XXX. Os Passarinhos Que Não Querem Cantar
+
+Em minha última manhã na costa flamenga, quando sabia que dentro de poucas horas estaria na Inglaterra, meus olhos pousaram num dos detalhes de escultura gótica de que Flandres está cheia. Não sei se a peça é antiga, embora certamente estivesse maltratada e indecifrável, mas ao menos era com certeza do estilo e da tradição dos primeiros tempos da Idade Média. Parecia representar homens curvados — para não dizer retorcidos — em certas ocupações elementares. Alguns pareciam marinheiros puxando cordas; outros, creio, estavam ceifando; outros despejavam energicamente alguma coisa dentro de outra. Isso é inteiramente característico das pinturas e esculturas do início do século XIII, talvez a época de vigor mais puro em toda a história. Os grandes gregos preferiam esculpir seus deuses e heróis sem fazer nada. Por esplêndida e filosófica que seja sua serenidade, há sempre nela algo que denuncia o senhor de muitos escravos. Mas, se havia uma coisa de que os homens do início da Idade Média gostavam, era representar pessoas fazendo alguma coisa: caçando ou praticando falcoaria, remando barcos, pisando uvas, fazendo sapatos ou cozinhando alguma coisa numa panela. “*Quicquid agunt homines, votum, timor, ira voluptas*.” (Cito de memória.) A Idade Média está cheia desse espírito em todos os seus monumentos e manuscritos. Chaucer o conserva em sua alegre insistência no tipo de ofício e trabalho de cada um. Foi a primeira e mais jovem ressurreição da Europa, o tempo em que a ordem social se fortalecia, mas ainda não se tornara opressiva; o tempo em que as crenças religiosas eram fortes, mas ainda não tinham sido exasperadas. Por isso o efeito geral da escultura grega e da gótica é diferente. As figuras dos Mármores de Elgin, embora muitas vezes refreiem seus corcéis por um instante no ar, parecem congeladas para sempre naquele instante perfeito. Mas um conjunto de esculturas medievais parece realmente uma espécie de agitação ou alvoroço em pedra. Às vezes não se pode deixar de sentir que os grupos de fato se movem e se misturam, e toda a fachada de uma grande catedral tem o zumbido de uma colmeia imensa.
+
+.....
+
+Mas havia naquelas figuras em particular uma peculiaridade da qual eu não podia ter certeza. As que ainda tinham cabeça possuíam cabeças muito curiosas, e me parecia que estavam de boca aberta. Não sei se isso realmente significava alguma coisa ou se era um acaso da arte nascente; mas, enquanto me interrogava, lembrei-me de que o canto estava ligado a muitas das tarefas ali sugeridas, de que havia canções para ceifeiros e canções para marinheiros que puxavam cordas. Ainda pensava nesse pequeno problema quando caminhei pelo píer de Ostende; e ouvi alguns marinheiros soltando um grito cadenciado enquanto trabalhavam, e me lembrei de que os marinheiros ainda cantam em coro durante o trabalho e até cantam canções diferentes conforme a parte do trabalho que estão fazendo. E, pouco depois, terminada minha viagem marítima, a visão de homens trabalhando nos campos ingleses me lembrou novamente de que ainda há canções para a colheita e para muitas rotinas agrícolas. E, de repente, perguntei-me por que, sendo assim, era algo inteiramente desconhecido que qualquer ofício moderno tivesse uma poesia ritual. Como as pessoas passaram a entoar poemas rudes enquanto puxavam certas cordas ou colhiam certas frutas, e por que ninguém fazia nada parecido ao produzir qualquer uma das coisas modernas? Por que um jornal moderno nunca é impresso por pessoas cantando em coro? Por que os empregados do comércio raramente cantam, se é que cantam alguma vez?
+
+.....
+
+Se os ceifeiros cantam enquanto ceifam, por que os auditores não haveriam de cantar enquanto auditam, e os banqueiros enquanto exercem seu ofício? Se há canções para todas as tarefas distintas que precisam ser feitas num barco, por que não há canções para todas as tarefas distintas que precisam ser feitas num banco? Enquanto o trem de Dover voava pelos jardins de Kent, tentei escrever algumas canções adequadas aos cavalheiros do comércio. Assim, o trabalho dos funcionários de banco ao somar colunas poderia começar com um coro retumbante em louvor da Adição Simples.
+
+“De pé, rapazes, erguei os livros-caixa, acabaram-se o sono e o repouso. Ouvi as Estrelas da Manhã gritando: ‘Dois e Dois são Quatro.’ Ainda que credos e reinos cambaleiem, ainda que os sofistas bramem, Ainda que choremos e penhoremos os relógios, Dois e Dois são Quatro.”
+
+“Há uma corrida ao Banco — Afastai-vos! Pois o Gerente é um excêntrico, o Secretário bebeu, e o
+
+Banco de Upper Tooting  
+Resiste acuado!  
+Cerrai fileiras: há uma corrida  
+Ao Banco.  
+De nosso navio, nosso navio real, que ressoe a legenda,  
+Que disparou todos os canhões  
+Antes de afundar.”
+
+.....
+
+E, quando entrei na nuvem de Londres, encontrei um amigo meu que de fato trabalha num banco e lhe submeti essas sugestões em rima para uso entre seus colegas. Mas ele não estava muito esperançoso a respeito. Não era, garantiu-me, que menosprezasse os versos ou, em qualquer sentido, lamentasse sua falta de polimento. Não; era antes, sentia ele, algo indefinível na própria atmosfera da sociedade em que vivemos que torna espiritualmente difícil cantar nos bancos. E creio que ele deve ter razão, embora a questão seja muito misteriosa. Posso observar aqui que acho que deve haver algum erro nos cálculos dos Socialistas. Eles atribuem toda a nossa aflição, não a um tom moral, mas ao caos da iniciativa privada. Ora, os bancos são privados; mas os correios são Socialistas: portanto, eu naturalmente esperava que o correio aderisse à ideia coletivista de um coro. Julgai minha surpresa quando a senhora da agência de correios de meu bairro, com quem insisti para que cantasse, rejeitou a ideia com muito mais frieza do que o funcionário do banco. De fato, ela parecia estar num estado de depressão consideravelmente maior que o dele. Caso alguém suponha que esse tenha sido o efeito dos próprios versos, é justo dizer que a estrofe apresentada como amostra do Hino dos Correios era assim:
+
+“Sobre Londres nossas cartas se espalham como neve,  
+Nossos fios pelo mundo vão como raios.  
+A notícia que pode casar uma donzela em Sark,  
+Ou matar uma velhinha em Finsbury Park.”
+
+Coro (com um balanço de alegria e energia):
+
+“Ou matar uma velhinha em Finsbury Park.”
+
+E, quanto mais eu pensava no assunto, mais dolorosamente certo me parecia que as coisas modernas mais importantes e típicas não podiam ser feitas em coro. Não se podia, por exemplo, ser um grande financista e cantar, porque a essência de ser um grande financista é ficar calado. Não se podia sequer, em muitos círculos modernos, ser um homem público e cantar, porque nesses círculos a essência de ser um homem público é fazer quase tudo em particular. Ninguém imaginaria um coro de agiotas. Todos conhecem a história do corpo de voluntários formado por advogados que, quando o Coronel gritou no campo de batalha “Carregar!”, disseram todos ao mesmo tempo: “Seis xelins e oito pence.” Os homens podem cantar ao carregar em sentido militar, mas dificilmente ao cobrar em sentido jurídico.[^14] E, ao fim de minhas reflexões, eu realmente não havia ido além do sentimento subconsciente de meu amigo funcionário de banco: de que há algo espiritualmente sufocante em nossa vida; não apenas em nossas leis, mas em nossa vida. Os funcionários de banco não têm canções porque são tristes, não porque são pobres. Os marinheiros são muito mais pobres. Ao voltar para casa, passei por uma pequena construção de chapas metálicas destinada a algum uso religioso, que tremia com os gritos, como uma trombeta é dilacerada pela própria língua. ELES, de qualquer modo, estavam cantando; e tive por um instante uma fantasia que já tivera muitas vezes: a de que, entre nós, o sobre-humano é o único lugar onde se pode encontrar o humano. A natureza humana está sendo caçada e fugiu para o santuário.
+
+[^14]: *Nota do tradutor:* Em inglês, “charge” significa tanto dar uma carga militar quanto cobrar honorários. A resposta dos advogados toma a ordem do coronel nesse segundo sentido.
