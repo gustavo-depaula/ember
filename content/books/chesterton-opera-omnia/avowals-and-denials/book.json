@@ -15,13 +15,19 @@
   },
   "composed": 1934,
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/avowals-and-denials",
   "editions": {
     "en-US": {
       "editor": "Methuen & Co.",
       "year": 1934
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,199 +44,232 @@
     {
       "id": "chapter-01",
       "title": {
-        "en-US": "On Monsters and Logic"
+        "en-US": "On Monsters and Logic",
+        "pt-BR": "Sobre Monstros e Lógica"
       }
     },
     {
       "id": "chapter-02",
       "title": {
-        "en-US": "On Christmas That Is Coming"
+        "en-US": "On Christmas That Is Coming",
+        "pt-BR": "Sobre o Natal que se Aproxima"
       }
     },
     {
       "id": "chapter-03",
       "title": {
-        "en-US": "On the Man on the Spot"
+        "en-US": "On the Man on the Spot",
+        "pt-BR": "Sobre o Homem no Local"
       }
     },
     {
       "id": "chapter-04",
       "title": {
-        "en-US": "On Shaw and His Black Girl"
+        "en-US": "On Shaw and His Black Girl",
+        "pt-BR": "Sobre Shaw e sua Menina Negra"
       }
     },
     {
       "id": "chapter-05",
       "title": {
-        "en-US": "On the Atheist Museum"
+        "en-US": "On the Atheist Museum",
+        "pt-BR": "Sobre o Museu Ateu"
       }
     },
     {
       "id": "chapter-06",
       "title": {
-        "en-US": "On the New Prudery"
+        "en-US": "On the New Prudery",
+        "pt-BR": "Sobre o Novo Pudor"
       }
     },
     {
       "id": "chapter-07",
       "title": {
-        "en-US": "On the Return of the Barbarian"
+        "en-US": "On the Return of the Barbarian",
+        "pt-BR": "Sobre o Retorno do Bárbaro"
       }
     },
     {
       "id": "chapter-08",
       "title": {
-        "en-US": "On Women Who Vote"
+        "en-US": "On Women Who Vote",
+        "pt-BR": "Sobre as Mulheres que Votam"
       }
     },
     {
       "id": "chapter-09",
       "title": {
-        "en-US": "On the Fallacy of Eugenics"
+        "en-US": "On the Fallacy of Eugenics",
+        "pt-BR": "Sobre a Falácia da Eugenia"
       }
     },
     {
       "id": "chapter-10",
       "title": {
-        "en-US": "On the Classicism of the Terror"
+        "en-US": "On the Classicism of the Terror",
+        "pt-BR": "Sobre o Classicismo do Terror"
       }
     },
     {
       "id": "chapter-11",
       "title": {
-        "en-US": "On the Return to the Land"
+        "en-US": "On the Return to the Land",
+        "pt-BR": "Sobre o Retorno à Terra"
       }
     },
     {
       "id": "chapter-12",
       "title": {
-        "en-US": "On Dialect and Decency"
+        "en-US": "On Dialect and Decency",
+        "pt-BR": "Sobre o Dialeto e a Decência"
       }
     },
     {
       "id": "chapter-13",
       "title": {
-        "en-US": "On the Real Animal"
+        "en-US": "On the Real Animal",
+        "pt-BR": "Sobre o Animal Real"
       }
     },
     {
       "id": "chapter-14",
       "title": {
-        "en-US": "On Dogs With Bad Names"
+        "en-US": "On Dogs With Bad Names",
+        "pt-BR": "Sobre os Cães de Nomes Ruins"
       }
     },
     {
       "id": "chapter-15",
       "title": {
-        "en-US": "On the Prison of Jazz"
+        "en-US": "On the Prison of Jazz",
+        "pt-BR": "Sobre a Prisão do Jazz"
       }
     },
     {
       "id": "chapter-16",
       "title": {
-        "en-US": "On the Deceptibility of Youth"
+        "en-US": "On the Deceptibility of Youth",
+        "pt-BR": "Sobre a Facilidade de Enganar a Juventude"
       }
     },
     {
       "id": "chapter-17",
       "title": {
-        "en-US": "On the Duke of Marlborough"
+        "en-US": "On the Duke of Marlborough",
+        "pt-BR": "Sobre o Duque de Marlborough"
       }
     },
     {
       "id": "chapter-18",
       "title": {
-        "en-US": "On the Crank and the Cad"
+        "en-US": "On the Crank and the Cad",
+        "pt-BR": "Sobre o Excêntrico e o Grosseirão"
       }
     },
     {
       "id": "chapter-19",
       "title": {
-        "en-US": "On Dreams"
+        "en-US": "On Dreams",
+        "pt-BR": "Sobre os Sonhos"
       }
     },
     {
       "id": "chapter-20",
       "title": {
-        "en-US": "On the Fossil of a Fanatic"
+        "en-US": "On the Fossil of a Fanatic",
+        "pt-BR": "Sobre o Fóssil de um Fanático"
       }
     },
     {
       "id": "chapter-21",
       "title": {
-        "en-US": "On Blake and His Critics"
+        "en-US": "On Blake and His Critics",
+        "pt-BR": "Sobre Blake e seus Críticos"
       }
     },
     {
       "id": "chapter-22",
       "title": {
-        "en-US": "On the Instability of the State"
+        "en-US": "On the Instability of the State",
+        "pt-BR": "Sobre a Instabilidade do Estado"
       }
     },
     {
       "id": "chapter-23",
       "title": {
-        "en-US": "On a Melodrama"
+        "en-US": "On a Melodrama",
+        "pt-BR": "Sobre um Melodrama"
       }
     },
     {
       "id": "chapter-24",
       "title": {
-        "en-US": "On the One-party System"
+        "en-US": "On the One-party System",
+        "pt-BR": "Sobre o Sistema de Partido Único"
       }
     },
     {
       "id": "chapter-25",
       "title": {
-        "en-US": "On Books for Pessimists"
+        "en-US": "On Books for Pessimists",
+        "pt-BR": "Sobre os Livros para Pessimistas"
       }
     },
     {
       "id": "chapter-26",
       "title": {
-        "en-US": "On the Letter-bag Novel"
+        "en-US": "On the Letter-bag Novel",
+        "pt-BR": "Sobre o Romance Epistolar"
       }
     },
     {
       "id": "chapter-27",
       "title": {
-        "en-US": "On the Touchy Realist"
+        "en-US": "On the Touchy Realist",
+        "pt-BR": "Sobre o Realista Suscetível"
       }
     },
     {
       "id": "chapter-28",
       "title": {
-        "en-US": "On Wordsworth"
+        "en-US": "On Wordsworth",
+        "pt-BR": "Sobre Wordsworth"
       }
     },
     {
       "id": "chapter-29",
       "title": {
-        "en-US": "On Facing Facts . . . "
+        "en-US": "On Facing Facts . . . ",
+        "pt-BR": "Sobre Encarar os Fatos . . . "
       }
     },
     {
       "id": "chapter-30",
       "title": {
-        "en-US": "On Free Verse"
+        "en-US": "On Free Verse",
+        "pt-BR": "Sobre o Verso Livre"
       }
     },
     {
       "id": "chapter-31",
       "title": {
-        "en-US": "On Prussian Paganism"
+        "en-US": "On Prussian Paganism",
+        "pt-BR": "Sobre o Paganismo Prussiano"
       }
     },
     {
       "id": "chapter-32",
       "title": {
-        "en-US": "On the Great Relapse"
+        "en-US": "On the Great Relapse",
+        "pt-BR": "Sobre a Grande Recaída"
       }
     },
     {
       "id": "chapter-33",
       "title": {
-        "en-US": "On the Next Hundred Years . . . "
+        "en-US": "On the Next Hundred Years . . . ",
+        "pt-BR": "Sobre os Próximos Cem Anos . . . "
       }
     }
   ]
