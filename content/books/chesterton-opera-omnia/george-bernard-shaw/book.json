@@ -15,13 +15,19 @@
   },
   "composed": "1909",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/george-bernard-shaw",
   "editions": {
     "en-US": {
       "editor": "John Lane",
       "year": 1909
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,43 +44,50 @@
     {
       "id": "ch01-the-problem-of-a-preface",
       "title": {
-        "en-US": "The Problem of a Preface"
+        "en-US": "The Problem of a Preface",
+        "pt-BR": "O Problema de um Prefácio"
       }
     },
     {
       "id": "ch02-the-irishman",
       "title": {
-        "en-US": "The Irishman"
+        "en-US": "The Irishman",
+        "pt-BR": "O Irlandês"
       }
     },
     {
       "id": "ch03-the-puritan",
       "title": {
-        "en-US": "The Puritan"
+        "en-US": "The Puritan",
+        "pt-BR": "O Puritano"
       }
     },
     {
       "id": "ch04-the-progressive",
       "title": {
-        "en-US": "The Progressive"
+        "en-US": "The Progressive",
+        "pt-BR": "O Progressista"
       }
     },
     {
       "id": "ch05-the-critic",
       "title": {
-        "en-US": "The Critic"
+        "en-US": "The Critic",
+        "pt-BR": "O Crítico"
       }
     },
     {
       "id": "ch06-the-dramatist",
       "title": {
-        "en-US": "The Dramatist"
+        "en-US": "The Dramatist",
+        "pt-BR": "O Dramaturgo"
       }
     },
     {
       "id": "ch07-the-philosopher",
       "title": {
-        "en-US": "The Philosopher"
+        "en-US": "The Philosopher",
+        "pt-BR": "O Filósofo"
       }
     }
   ]
