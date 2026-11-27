@@ -18,13 +18,19 @@
   },
   "composed": "387-391",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/de-musica",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,37 +47,43 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Liber I"
+        "la": "Liber I",
+        "pt-BR": "Livro I"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "Liber II"
+        "la": "Liber II",
+        "pt-BR": "Livro II"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "la": "Liber III"
+        "la": "Liber III",
+        "pt-BR": "Livro III"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "la": "Liber IV"
+        "la": "Liber IV",
+        "pt-BR": "Livro IV"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "la": "Liber V"
+        "la": "Liber V",
+        "pt-BR": "Livro V"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "la": "Liber VI"
+        "la": "Liber VI",
+        "pt-BR": "Livro VI"
       }
     }
   ],
