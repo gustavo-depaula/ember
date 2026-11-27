@@ -15,13 +15,19 @@
   },
   "composed": "1922",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/trees-of-pride",
   "editions": {
     "en-US": {
       "editor": "Cassell and Company",
       "year": 1922
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,25 +44,29 @@
     {
       "id": "ch01-the-tale-of-the-peacock-trees",
       "title": {
-        "en-US": "The Tale of the Peacock Trees"
+        "en-US": "The Tale of the Peacock Trees",
+        "pt-BR": "A História das Árvores-Pavão"
       }
     },
     {
       "id": "ch02-the-wager-of-squire-vane",
       "title": {
-        "en-US": "The Wager of Squire Vane"
+        "en-US": "The Wager of Squire Vane",
+        "pt-BR": "A Aposta do Fidalgo Vane"
       }
     },
     {
       "id": "ch03-the-mystery-of-the-well",
       "title": {
-        "en-US": "The Mystery of the Well"
+        "en-US": "The Mystery of the Well",
+        "pt-BR": "O Mistério do Poço"
       }
     },
     {
       "id": "ch04-the-chase-after-the-truth",
       "title": {
-        "en-US": "The Chase After the Truth"
+        "en-US": "The Chase After the Truth",
+        "pt-BR": "A Busca da Verdade"
       }
     }
   ]
