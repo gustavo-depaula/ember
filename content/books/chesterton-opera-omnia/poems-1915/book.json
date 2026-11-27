@@ -15,13 +15,19 @@
   },
   "composed": "1915",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/poems-1915",
   "editions": {
     "en-US": {
       "editor": "John Lane",
       "year": 1915
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,19 +44,22 @@
     {
       "id": "part01-three-dedications",
       "title": {
-        "en-US": "Three Dedications"
+        "en-US": "Three Dedications",
+        "pt-BR": "Três Dedicatórias"
       },
       "children": [
         {
           "id": "ch01-to-edmund-clerihew-bentley",
           "title": {
-            "en-US": "To Edmund Clerihew Bentley"
+            "en-US": "To Edmund Clerihew Bentley",
+            "pt-BR": "A Edmund Clerihew Bentley"
           }
         },
         {
           "id": "ch02-to-hilaire-belloc",
           "title": {
-            "en-US": "To Hilaire Belloc"
+            "en-US": "To Hilaire Belloc",
+            "pt-BR": "A Hilaire Belloc"
           }
         }
       ]
@@ -58,31 +67,36 @@
     {
       "id": "part02-war-poems",
       "title": {
-        "en-US": "War Poems"
+        "en-US": "War Poems",
+        "pt-BR": "Poemas de Guerra"
       },
       "children": [
         {
           "id": "ch03-lepanto",
           "title": {
-            "en-US": "Lepanto"
+            "en-US": "Lepanto",
+            "pt-BR": "Lepanto"
           }
         },
         {
           "id": "ch04-blessed-are-the-peacemakers",
           "title": {
-            "en-US": "Blessed Are the Peacemakers"
+            "en-US": "Blessed Are the Peacemakers",
+            "pt-BR": "Bem-aventurados os Pacificadores"
           }
         },
         {
           "id": "ch05-the-wife-of-flanders",
           "title": {
-            "en-US": "The Wife of Flanders"
+            "en-US": "The Wife of Flanders",
+            "pt-BR": "A Mulher de Flandres"
           }
         },
         {
           "id": "ch06-the-crusader-returns-from-captivity",
           "title": {
-            "en-US": "The Crusader Returns from Captivity"
+            "en-US": "The Crusader Returns from Captivity",
+            "pt-BR": "O Cruzado Volta do Cativeiro"
           }
         }
       ]
@@ -90,67 +104,78 @@
     {
       "id": "part03-love-poems",
       "title": {
-        "en-US": "Love Poems"
+        "en-US": "Love Poems",
+        "pt-BR": "Poemas de Amor"
       },
       "children": [
         {
           "id": "ch07-glencoe",
           "title": {
-            "en-US": "Glencoe"
+            "en-US": "Glencoe",
+            "pt-BR": "Glencoe"
           }
         },
         {
           "id": "ch08-love-s-trappist",
           "title": {
-            "en-US": "Love's Trappist"
+            "en-US": "Love's Trappist",
+            "pt-BR": "O Trapista do Amor"
           }
         },
         {
           "id": "ch09-confessional",
           "title": {
-            "en-US": "Confessional"
+            "en-US": "Confessional",
+            "pt-BR": "Confessionário"
           }
         },
         {
           "id": "ch10-music",
           "title": {
-            "en-US": "Music"
+            "en-US": "Music",
+            "pt-BR": "Música"
           }
         },
         {
           "id": "ch11-the-deluge",
           "title": {
-            "en-US": "The Deluge"
+            "en-US": "The Deluge",
+            "pt-BR": "O Dilúvio"
           }
         },
         {
           "id": "ch12-the-strange-music",
           "title": {
-            "en-US": "The Strange Music"
+            "en-US": "The Strange Music",
+            "pt-BR": "A Estranha Música"
           }
         },
         {
           "id": "ch13-the-great-minimum",
           "title": {
-            "en-US": "The Great Minimum"
+            "en-US": "The Great Minimum",
+            "pt-BR": "O Grande Mínimo"
           }
         },
         {
           "id": "ch14-the-mortal-answers",
           "title": {
-            "en-US": "The Mortal Answers"
+            "en-US": "The Mortal Answers",
+            "pt-BR": "O Mortal Responde"
           }
         },
         {
           "id": "ch15-a-marriage-song",
           "title": {
-            "en-US": "A Marriage Song"
+            "en-US": "A Marriage Song",
+            "pt-BR": "Uma Canção de Casamento"
           }
         },
         {
           "id": "ch16-bay-combe",
           "title": {
-            "en-US": "Bay Combe"
+            "en-US": "Bay Combe",
+            "pt-BR": "Bay Combe"
           }
         }
       ]
@@ -158,79 +183,92 @@
     {
       "id": "part04-religious-poems",
       "title": {
-        "en-US": "Religious Poems"
+        "en-US": "Religious Poems",
+        "pt-BR": "Poemas Religiosos"
       },
       "children": [
         {
           "id": "ch17-the-wise-men",
           "title": {
-            "en-US": "The Wise Men"
+            "en-US": "The Wise Men",
+            "pt-BR": "Os Reis Magos"
           }
         },
         {
           "id": "ch18-the-house-of-christmas",
           "title": {
-            "en-US": "The House of Christmas"
+            "en-US": "The House of Christmas",
+            "pt-BR": "A Casa do Natal"
           }
         },
         {
           "id": "ch19-a-song-of-gifts-to-god",
           "title": {
-            "en-US": "A Song of Gifts to God"
+            "en-US": "A Song of Gifts to God",
+            "pt-BR": "Uma Canção de Presentes a Deus"
           }
         },
         {
           "id": "ch20-the-kingdom-of-heaven",
           "title": {
-            "en-US": "The Kingdom of Heaven"
+            "en-US": "The Kingdom of Heaven",
+            "pt-BR": "O Reino do Céu"
           }
         },
         {
           "id": "ch21-a-hymn-for-the-church-militant",
           "title": {
-            "en-US": "A Hymn for the Church Militant"
+            "en-US": "A Hymn for the Church Militant",
+            "pt-BR": "Um Hino para a Igreja Militante"
           }
         },
         {
           "id": "ch22-the-beatific-vision",
           "title": {
-            "en-US": "The Beatific Vision"
+            "en-US": "The Beatific Vision",
+            "pt-BR": "A Visão Beatífica"
           }
         },
         {
           "id": "ch23-the-truce-of-christmas",
           "title": {
-            "en-US": "The Truce of Christmas"
+            "en-US": "The Truce of Christmas",
+            "pt-BR": "A Trégua de Natal"
           }
         },
         {
           "id": "ch24-a-hymn",
           "title": {
-            "en-US": "A Hymn"
+            "en-US": "A Hymn",
+            "pt-BR": "Um Hino"
           }
         },
         {
           "id": "ch25-a-christmas-song-for-three-guilds",
           "title": {
-            "en-US": "A Christmas Song for Three Guilds"
+            "en-US": "A Christmas Song for Three Guilds",
+            "pt-BR": "Uma Canção de Natal para Três Corporações de Ofício"
           }
         },
         {
           "id": "ch26-the-nativity",
           "title": {
-            "en-US": "The Nativity"
+            "en-US": "The Nativity",
+            "pt-BR": "A Natividade"
           }
         },
         {
           "id": "ch27-a-child-of-the-snows",
           "title": {
-            "en-US": "A Child of the Snows"
+            "en-US": "A Child of the Snows",
+            "pt-BR": "Um Menino das Neves"
           }
         },
         {
           "id": "ch28-a-word",
           "title": {
-            "en-US": "A Word"
+            "en-US": "A Word",
+            "pt-BR": "Uma Palavra"
           }
         }
       ]
@@ -238,85 +276,99 @@
     {
       "id": "part05-rhymes-for-the-times",
       "title": {
-        "en-US": "Rhymes for the Times"
+        "en-US": "Rhymes for the Times",
+        "pt-BR": "Rimas para os Tempos"
       },
       "children": [
         {
           "id": "ch29-antichrist-or-the-reunion-of-christendom-an",
           "title": {
-            "en-US": "Antichrist, or the Reunion of Christendom: An Ode"
+            "en-US": "Antichrist, or the Reunion of Christendom: An Ode",
+            "pt-BR": "Anticristo, ou a Reunião da Cristandade: Uma Ode"
           }
         },
         {
           "id": "ch30-the-shakespeare-memorial",
           "title": {
-            "en-US": "The Shakespeare Memorial"
+            "en-US": "The Shakespeare Memorial",
+            "pt-BR": "O Memorial de Shakespeare"
           }
         },
         {
           "id": "ch31-the-horrible-history-of-jones",
           "title": {
-            "en-US": "The Horrible History of Jones"
+            "en-US": "The Horrible History of Jones",
+            "pt-BR": "A Horrível História de Jones"
           }
         },
         {
           "id": "ch32-the-new-freethinker",
           "title": {
-            "en-US": "The New Freethinker"
+            "en-US": "The New Freethinker",
+            "pt-BR": "O Novo Livre-Pensador"
           }
         },
         {
           "id": "ch33-in-memoriam-p-d",
           "title": {
-            "en-US": "In Memoriam P.d"
+            "en-US": "In Memoriam P.d",
+            "pt-BR": "Em Memória de P.d"
           }
         },
         {
           "id": "ch34-sonnet-with-the-compliments-of-the-season",
           "title": {
-            "en-US": "Sonnet with the Compliments of the Season"
+            "en-US": "Sonnet with the Compliments of the Season",
+            "pt-BR": "Soneto com Votos de Boas-Festas"
           }
         },
         {
           "id": "ch35-a-song-of-swords",
           "title": {
-            "en-US": "A Song of Swords"
+            "en-US": "A Song of Swords",
+            "pt-BR": "Uma Canção de Espadas"
           }
         },
         {
           "id": "ch36-a-song-of-defeat",
           "title": {
-            "en-US": "A Song of Defeat"
+            "en-US": "A Song of Defeat",
+            "pt-BR": "Uma Canção de Derrota"
           }
         },
         {
           "id": "ch37-sonnet",
           "title": {
-            "en-US": "Sonnet"
+            "en-US": "Sonnet",
+            "pt-BR": "Soneto"
           }
         },
         {
           "id": "ch38-africa",
           "title": {
-            "en-US": "Africa"
+            "en-US": "Africa",
+            "pt-BR": "África"
           }
         },
         {
           "id": "ch39-the-dead-hero",
           "title": {
-            "en-US": "The Dead Hero"
+            "en-US": "The Dead Hero",
+            "pt-BR": "O Herói Morto"
           }
         },
         {
           "id": "ch40-the-song-of-the-wheels",
           "title": {
-            "en-US": "The Song of the Wheels"
+            "en-US": "The Song of the Wheels",
+            "pt-BR": "A Canção das Rodas"
           }
         },
         {
           "id": "ch41-the-secret-people",
           "title": {
-            "en-US": "The Secret People"
+            "en-US": "The Secret People",
+            "pt-BR": "O Povo Secreto"
           }
         }
       ]
@@ -324,97 +376,113 @@
     {
       "id": "part06-miscellaneous-poems",
       "title": {
-        "en-US": "Miscellaneous Poems"
+        "en-US": "Miscellaneous Poems",
+        "pt-BR": "Poemas Diversos"
       },
       "children": [
         {
           "id": "ch42-lost",
           "title": {
-            "en-US": "Lost"
+            "en-US": "Lost",
+            "pt-BR": "Perdido"
           }
         },
         {
           "id": "ch43-ballad-of-the-sun",
           "title": {
-            "en-US": "Ballad of the Sun"
+            "en-US": "Ballad of the Sun",
+            "pt-BR": "Balada do Sol"
           }
         },
         {
           "id": "ch44-translation-from-du-bellay",
           "title": {
-            "en-US": "Translation from Du Bellay"
+            "en-US": "Translation from Du Bellay",
+            "pt-BR": "Tradução de Du Bellay"
           }
         },
         {
           "id": "ch45-the-higher-unity",
           "title": {
-            "en-US": "The Higher Unity"
+            "en-US": "The Higher Unity",
+            "pt-BR": "A Unidade Superior"
           }
         },
         {
           "id": "ch46-the-earth-s-vigil",
           "title": {
-            "en-US": "The Earth's Vigil"
+            "en-US": "The Earth's Vigil",
+            "pt-BR": "A Vigília da Terra"
           }
         },
         {
           "id": "ch47-on-righteous-indignation",
           "title": {
-            "en-US": "On Righteous Indignation"
+            "en-US": "On Righteous Indignation",
+            "pt-BR": "Sobre a Justa Indignação"
           }
         },
         {
           "id": "ch48-when-i-came-back-to-fleet-street",
           "title": {
-            "en-US": "When I Came Back to Fleet Street"
+            "en-US": "When I Came Back to Fleet Street",
+            "pt-BR": "Quando Voltei a Fleet Street"
           }
         },
         {
           "id": "ch49-a-cider-song",
           "title": {
-            "en-US": "A Cider Song"
+            "en-US": "A Cider Song",
+            "pt-BR": "Uma Canção de Sidra"
           }
         },
         {
           "id": "ch50-the-last-hero",
           "title": {
-            "en-US": "The Last Hero"
+            "en-US": "The Last Hero",
+            "pt-BR": "O Último Herói"
           }
         },
         {
           "id": "ch51-ballades",
           "title": {
-            "en-US": "Ballades"
+            "en-US": "Ballades",
+            "pt-BR": "Baladas"
           }
         },
         {
           "id": "ch52-ballade-d-une-grande-dame",
           "title": {
-            "en-US": "Ballade D'une Grande Dame"
+            "en-US": "Ballade D'une Grande Dame",
+            "pt-BR": "Balada de uma Grande Dama"
           }
         },
         {
           "id": "ch53-a-ballade-of-an-anti-puritan",
           "title": {
-            "en-US": "A Ballade of an Anti-puritan"
+            "en-US": "A Ballade of an Anti-puritan",
+            "pt-BR": "Uma Balada de um Antipuritano"
           }
         },
         {
           "id": "ch54-a-ballade-of-a-book-reviewer",
           "title": {
-            "en-US": "A Ballade of a Book-reviewer"
+            "en-US": "A Ballade of a Book-reviewer",
+            "pt-BR": "Uma Balada de um Resenhista de Livros"
           }
         },
         {
           "id": "ch55-a-ballade-of-suicide",
           "title": {
-            "en-US": "A Ballade of Suicide"
+            "en-US": "A Ballade of Suicide",
+            "pt-BR": "Uma Balada do Suicídio"
           }
         },
         {
           "id": "ch56-a-ballade-of-the-first-rain",
           "title": {
-            "en-US": "A Ballade of the First Rain"
+            "en-US": "A Ballade of the First Rain",
+            "pt-BR": "Uma Balada da Primeira Chuva"
           }
         }
       ]
