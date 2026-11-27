@@ -2,13 +2,16 @@
   "id": "athanasius-letters",
   "cover": "quarter",
   "name": {
-    "en-US": "Letters"
+    "en-US": "Letters",
+    "pt-BR": "Cartas"
   },
   "author": {
-    "en-US": "Athanasius"
+    "en-US": "Athanasius",
+    "pt-BR": "Atanásio"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,263 +24,313 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Letter 1"
+        "en-US": "Letter 1",
+        "pt-BR": "Carta 1"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Letter 2"
+        "en-US": "Letter 2",
+        "pt-BR": "Carta 2"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Letter 3"
+        "en-US": "Letter 3",
+        "pt-BR": "Carta 3"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Letter 4"
+        "en-US": "Letter 4",
+        "pt-BR": "Carta 4"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "Letter 5"
+        "en-US": "Letter 5",
+        "pt-BR": "Carta 5"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "Letter 10"
+        "en-US": "Letter 10",
+        "pt-BR": "Carta 10"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "en-US": "Letter 11"
+        "en-US": "Letter 11",
+        "pt-BR": "Carta 11"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "en-US": "Letter 13"
+        "en-US": "Letter 13",
+        "pt-BR": "Carta 13"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "en-US": "Letter 14"
+        "en-US": "Letter 14",
+        "pt-BR": "Carta 14"
       }
     },
     {
       "id": "ch010",
       "title": {
-        "en-US": "Letter 17"
+        "en-US": "Letter 17",
+        "pt-BR": "Carta 17"
       }
     },
     {
       "id": "ch011",
       "title": {
-        "en-US": "Letter 18"
+        "en-US": "Letter 18",
+        "pt-BR": "Carta 18"
       }
     },
     {
       "id": "ch012",
       "title": {
-        "en-US": "Letter 19"
+        "en-US": "Letter 19",
+        "pt-BR": "Carta 19"
       }
     },
     {
       "id": "ch013",
       "title": {
-        "en-US": "Letter 20"
+        "en-US": "Letter 20",
+        "pt-BR": "Carta 20"
       }
     },
     {
       "id": "ch014",
       "title": {
-        "en-US": "Letter 22"
+        "en-US": "Letter 22",
+        "pt-BR": "Carta 22"
       }
     },
     {
       "id": "ch015",
       "title": {
-        "en-US": "Letter 24"
+        "en-US": "Letter 24",
+        "pt-BR": "Carta 24"
       }
     },
     {
       "id": "ch016",
       "title": {
-        "en-US": "Letter 27"
+        "en-US": "Letter 27",
+        "pt-BR": "Carta 27"
       }
     },
     {
       "id": "ch017",
       "title": {
-        "en-US": "Letter 28"
+        "en-US": "Letter 28",
+        "pt-BR": "Carta 28"
       }
     },
     {
       "id": "ch018",
       "title": {
-        "en-US": "Letter 29"
+        "en-US": "Letter 29",
+        "pt-BR": "Carta 29"
       }
     },
     {
       "id": "ch019",
       "title": {
-        "en-US": "Letter 39"
+        "en-US": "Letter 39",
+        "pt-BR": "Carta 39"
       }
     },
     {
       "id": "ch020",
       "title": {
-        "en-US": "Letter 40"
+        "en-US": "Letter 40",
+        "pt-BR": "Carta 40"
       }
     },
     {
       "id": "ch021",
       "title": {
-        "en-US": "Letter 42"
+        "en-US": "Letter 42",
+        "pt-BR": "Carta 42"
       }
     },
     {
       "id": "ch022",
       "title": {
-        "en-US": "Letter 43"
+        "en-US": "Letter 43",
+        "pt-BR": "Carta 43"
       }
     },
     {
       "id": "ch023",
       "title": {
-        "en-US": "Letter 44"
+        "en-US": "Letter 44",
+        "pt-BR": "Carta 44"
       }
     },
     {
       "id": "ch024",
       "title": {
-        "en-US": "Letter 45"
+        "en-US": "Letter 45",
+        "pt-BR": "Carta 45"
       }
     },
     {
       "id": "ch025",
       "title": {
-        "en-US": "Letter 46"
+        "en-US": "Letter 46",
+        "pt-BR": "Carta 46"
       }
     },
     {
       "id": "ch026",
       "title": {
-        "en-US": "Letter 47"
+        "en-US": "Letter 47",
+        "pt-BR": "Carta 47"
       }
     },
     {
       "id": "ch027",
       "title": {
-        "en-US": "Letter 48"
+        "en-US": "Letter 48",
+        "pt-BR": "Carta 48"
       }
     },
     {
       "id": "ch028",
       "title": {
-        "en-US": "Letter 49"
+        "en-US": "Letter 49",
+        "pt-BR": "Carta 49"
       }
     },
     {
       "id": "ch029",
       "title": {
-        "en-US": "Letter 50"
+        "en-US": "Letter 50",
+        "pt-BR": "Carta 50"
       }
     },
     {
       "id": "ch030",
       "title": {
-        "en-US": "Letter 51"
+        "en-US": "Letter 51",
+        "pt-BR": "Carta 51"
       }
     },
     {
       "id": "ch031",
       "title": {
-        "en-US": "Letter 52"
+        "en-US": "Letter 52",
+        "pt-BR": "Carta 52"
       }
     },
     {
       "id": "ch032",
       "title": {
-        "en-US": "Letter 53"
+        "en-US": "Letter 53",
+        "pt-BR": "Carta 53"
       }
     },
     {
       "id": "ch033",
       "title": {
-        "en-US": "Letter 54"
+        "en-US": "Letter 54",
+        "pt-BR": "Carta 54"
       }
     },
     {
       "id": "ch034",
       "title": {
-        "en-US": "Letter 55"
+        "en-US": "Letter 55",
+        "pt-BR": "Carta 55"
       }
     },
     {
       "id": "ch035",
       "title": {
-        "en-US": "Letter 56"
+        "en-US": "Letter 56",
+        "pt-BR": "Carta 56"
       }
     },
     {
       "id": "ch036",
       "title": {
-        "en-US": "Letter 57"
+        "en-US": "Letter 57",
+        "pt-BR": "Carta 57"
       }
     },
     {
       "id": "ch037",
       "title": {
-        "en-US": "Letter 58"
+        "en-US": "Letter 58",
+        "pt-BR": "Carta 58"
       }
     },
     {
       "id": "ch038",
       "title": {
-        "en-US": "Letter 59"
+        "en-US": "Letter 59",
+        "pt-BR": "Carta 59"
       }
     },
     {
       "id": "ch039",
       "title": {
-        "en-US": "Letter 60"
+        "en-US": "Letter 60",
+        "pt-BR": "Carta 60"
       }
     },
     {
       "id": "ch040",
       "title": {
-        "en-US": "Letter 61"
+        "en-US": "Letter 61",
+        "pt-BR": "Carta 61"
       }
     },
     {
       "id": "ch041",
       "title": {
-        "en-US": "Letter 62"
+        "en-US": "Letter 62",
+        "pt-BR": "Carta 62"
       }
     },
     {
       "id": "ch042",
       "title": {
-        "en-US": "Letter 63"
+        "en-US": "Letter 63",
+        "pt-BR": "Carta 63"
       }
     },
     {
       "id": "ch043",
       "title": {
-        "en-US": "Letter 64"
+        "en-US": "Letter 64",
+        "pt-BR": "Carta 64"
       }
     }
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
