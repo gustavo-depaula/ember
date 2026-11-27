@@ -1,0 +1,194 @@
+<title>Opus Dei Customs</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap">
+<style>
+:root {
+  --page: #F3EEE4; --ink: #2C2418; --muted: #6B5D4F; --rule: #E0D6C4; --gold: #A8872E;
+  --display: "Cinzel", Georgia, serif; --body: "EB Garamond", Georgia, serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { --page: #17140F; --ink: #EDE4D8; --muted: #A89A8C; --rule: #3A3126; --gold: #D4A63A; color-scheme: dark; }
+}
+:root[data-theme="dark"] { --page: #17140F; --ink: #EDE4D8; --muted: #A89A8C; --rule: #3A3126; --gold: #D4A63A; color-scheme: dark; }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--page); color: var(--ink); font: 400 18px/1.5 var(--body); padding: 0 16px; }
+.wrap { max-width: 1100px; margin: 0 auto; padding: 40px 0 72px; display: grid; gap: 40px; }
+header { display: grid; gap: 10px; max-width: 66ch; }
+.kicker { font: 500 12px/1 var(--body); letter-spacing: .18em; text-transform: uppercase; color: var(--gold); }
+h1 { font: 500 italic clamp(34px, 5vw, 50px)/1.05 var(--body); margin: 0; }
+h2 { font: 500 italic 28px/1.15 var(--body); margin: 0; }
+p { margin: 0; }
+.lede { color: var(--muted); }
+.variants { display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap: 40px 32px; }
+.variant { display: grid; gap: 14px; align-content: start; }
+.variant > p { color: var(--muted); font-size: 17px; max-width: 46ch; }
+
+/* The phone: the app's dark theme, as on the device. */
+.phone {
+  --bg: #0E0D0C; --fg: #EDE4D8; --fg2: #A89A8C; --accent: #D4A63A; --surface: #252220;
+  width: 100%; max-width: 380px; height: 760px; border-radius: 34px; overflow: hidden;
+  background: var(--bg); color: var(--fg); border: 8px solid #050505;
+  box-shadow: 0 2px 4px rgba(0,0,0,.15), 0 18px 40px rgba(0,0,0,.22); position: relative;
+}
+.screen { height: 100%; overflow-y: auto; scrollbar-width: none; }
+.screen::-webkit-scrollbar { display: none; }
+.hero { position: relative; height: 300px; background: #3a2c1e center 30% / cover; }
+.hero::after { content: ""; position: absolute; inset: 0; background: linear-gradient(to bottom, rgba(14,13,12,0) 40%, var(--bg) 100%); }
+.hero .t { position: absolute; left: 22px; right: 22px; bottom: 14px; z-index: 1; }
+.hero h3 { margin: 0; font: 600 28px/1.1 var(--display); letter-spacing: .04em; }
+.hero small { font: italic 15px/1.3 var(--body); color: var(--fg2); }
+.col { padding: 16px 22px 40px; display: grid; gap: 22px; }
+.prose { font-size: 17px; line-height: 1.55; }
+.divider { text-align: center; color: var(--accent); font-size: 14px; letter-spacing: .6em; opacity: .8; }
+.label { font: 500 12px/1 var(--body); letter-spacing: .16em; text-transform: uppercase; color: var(--fg2); }
+.sec { display: grid; gap: 6px; }
+.sec .lede2 { font-size: 15px; line-height: 1.4; color: var(--fg2); }
+.string { display: grid; }
+.row { display: flex; align-items: center; gap: 10px; min-height: 46px; cursor: default; }
+.row.tap { cursor: pointer; -webkit-tap-highlight-color: transparent; }
+.row svg { flex: none; align-self: stretch; }
+.row .name { flex: 1; font-size: 17px; line-height: 1.2; padding: 4px 0; }
+.row .name i { display: block; font-size: 13.5px; color: var(--fg2); font-style: italic; }
+.row.off .name { color: var(--fg2); }
+.row .when { color: var(--fg2); font-size: 14.5px; white-space: nowrap; }
+.row.custom .name::after { content: ""; }
+.slab {
+  display: block; width: 100%; border: 0; border-radius: 6px; padding: 15px 12px; cursor: pointer;
+  background: var(--accent); color: #17130E; font: 600 15px/1.2 var(--display); letter-spacing: .08em;
+}
+.slab small { display: block; font: italic 14px/1.3 var(--body); letter-spacing: 0; margin-top: 3px; opacity: .8; }
+.other { text-align: center; color: var(--fg2); font-size: 15px; font-style: italic; }
+.notes { display: grid; gap: 12px; max-width: 70ch; border-top: 1px solid var(--rule); padding-top: 24px; }
+.notes ul { margin: 0; padding-left: 1.1em; display: grid; gap: 8px; }
+table { border-collapse: collapse; width: 100%; font-size: 16px; }
+th, td { text-align: left; padding: 7px 10px 7px 0; border-bottom: 1px solid var(--rule); vertical-align: top; }
+th { font: 500 12px/1.2 var(--body); letter-spacing: .14em; text-transform: uppercase; color: var(--muted); }
+code { font: 13.5px ui-monospace, Menlo, monospace; color: var(--gold); }
+.flag { color: #C0651E; }
+.tablewrap { overflow-x: auto; }
+</style>
+
+<div class="wrap">
+  <header>
+    <span class="kicker">Protótipo · página do Opus Dei · onboarding e Plano de Vida</span>
+    <h1>Os costumes, em contas</h1>
+    <p class="lede">As normas continuam vindo inteiras. Logo abaixo vêm os costumes, cada um como uma conta vazia com um +. Toque para trazer um para o fio, e toque de novo para soltar. O botão conta o que vai entrar. A página é a mesma no onboarding e no Plano de Vida; só o botão muda.</p>
+  </header>
+
+  <div class="variants">
+    <div class="variant">
+      <h2>A · Um fio para os costumes</h2>
+      <p>Os costumes ficam num fio só deles, depois das normas: primeiro os de todo dia, depois os da semana. Fica claro o que é norma e o que é costume.</p>
+      <div class="phone"><div class="screen" id="a"></div></div>
+    </div>
+    <div class="variant">
+      <h2>B · Costurados nas normas</h2>
+      <p>Os costumes entram no mesmo fio, cada um na sua hora, como contas vazias entre as normas. Mostra como o dia fica, mas o fio fica mais comprido.</p>
+      <div class="phone"><div class="screen" id="b"></div></div>
+    </div>
+  </div>
+
+  <div class="notes">
+    <h2>Que costumes, e de onde vêm</h2>
+    <p>Não consegui abrir o planodevida.app, porque o site bloqueia acesso automático. Por isso a lista abaixo é uma proposta minha, montada com as orações que já estão no acervo. Vale conferir com a lista do app do seu amigo, ou com o que a Obra vive de fato. Todas, menos uma, já existem como oração no Ember.</p>
+    <div class="tablewrap"><table>
+      <tr><th>Costume</th><th>Quando</th><th>Oração no acervo</th></tr>
+      <tbody id="table"></tbody>
+    </table></div>
+    <ul>
+      <li>Água benta ao deitar não tem oração no acervo. Seria uma conta sem texto, só para marcar o gesto, ou fica de fora.</li>
+      <li>Recolhimento mensal e retiro anual também são da Obra, mas não são orações. Ficam para outra vez.</li>
+      <li>Nenhum costume vem marcado, então quem adota leva só as normas. Se você preferir, alguns podem já vir marcados, como a comunhão espiritual e a bênção à mesa.</li>
+      <li>Os costumes entram no plano como "Para ir além": aparecem no Hoje, mas faltar a um não quebra o dia. As normas continuam essenciais.</li>
+    </ul>
+  </div>
+</div>
+
+<script>
+const hue = (t) => { const h = +t.slice(0, 2);
+  return h >= 21 ? '#6F95D8' : h >= 18 ? '#B07FD0' : h >= 14 ? '#DE8F48' : h >= 12 ? '#F0DC8C' : h >= 8 ? '#E3B04B' : '#E2849A' };
+const days = ['dom', 'seg', 'ter', 'qua', 'qui', 'sex', 'sáb'];
+const norms = [
+  ['Oferecimento de obras', '06:30'], ['Santa Missa', '07:00'], ['Oração mental', '07:30'],
+  ['Preces', '08:00'], ['Ângelus', '12:00'], ['Exame particular', '12:05'],
+  ['Visita ao Santíssimo', '13:30'], ['Rosário', '18:00'], ['Oração mental', '19:00'],
+  ['Novo Testamento', '21:00'], ['Leitura espiritual', '21:30'], ['Exame de consciência', '22:00'],
+  ['Três Ave-Marias', '22:30'], ['Confissão', '10:00', 6],
+];
+const customs = [
+  { id: 'angel', name: 'Saudar o Anjo da Guarda', time: '07:05', ref: 'guardian-angel' },
+  { id: 'comm', name: 'Comunhão espiritual', hint: 'muitas vezes ao dia', time: '10:30', ref: 'spiritual-communion-opus-dei' },
+  { id: 'grace', name: 'Bênção à mesa', time: '12:30', ref: 'grace-meals' },
+  { id: 'memo', name: 'Lembrai-vos', time: '20:30', ref: 'memorare' },
+  { id: 'water', name: 'Água benta ao deitar', time: '22:35', ref: null },
+  { id: 'trisag', name: 'Triságio Angélico', time: '09:00', day: 0, ref: 'angelic-trisagion' },
+  { id: 'souls', name: 'Pelas almas do purgatório', time: '20:30', day: 1, ref: 'monday-souls' },
+  { id: 'angels', name: 'Os Santos Anjos', time: '20:30', day: 2, ref: 'tuesday-angels' },
+  { id: 'joseph', name: 'São José', time: '20:30', day: 3, ref: 'wednesday-joseph' },
+  { id: 'adoro', name: 'Adoro-Te devotamente', time: '13:35', day: 4, ref: 'adoro-te-devote' },
+  { id: 'via', name: 'Via-Sacra', time: '15:00', day: 5, ref: 'way-of-the-cross-opus-dei' },
+  { id: 'salve', name: 'Salve Rainha', time: '22:40', day: 6, ref: 'hail-holy-queen' },
+];
+document.getElementById('table').innerHTML = customs.map(c =>
+  `<tr><td>${c.name}</td><td>${c.day !== undefined ? days[c.day] + ' ' : 'todo dia '}${c.time}</td><td>${c.ref ? `<code>${c.ref}</code>` : '<span class="flag">nenhuma</span>'}</td></tr>`).join('');
+
+const rail = 52, sway = 12, bx = (i) => rail / 2 + sway * Math.sin(i * 1.1);
+function bead(i, n, b, h = 46) {
+  const y = h / 2, x = bx(i);
+  const from = i > 0 ? `M${(bx(i - 1) + x) / 2},0 L` : 'M';
+  const to = i < n - 1 ? ` L${(x + bx(i + 1)) / 2},${h}` : '';
+  const col = b.on ? hue(b.time) : '#D4A63A';
+  const thread = `<path d="${from}${x},${y}${to}" stroke="${col}" stroke-opacity="${b.on ? .55 : .4}" stroke-width="1.3" fill="none"/>`;
+  let dot;
+  if (!b.on) dot = `<circle cx="${x}" cy="${y}" r="11" fill="#0E0D0C" stroke="#D4A63A" stroke-width="1.2" stroke-dasharray="3 3"/><path d="M${x - 4},${y}h8M${x},${y - 4}v8" stroke="#D4A63A" stroke-width="1.4" stroke-linecap="round"/>`;
+  else if (b.day !== undefined) dot = `<circle cx="${x}" cy="${y}" r="${b.r}" fill="#0E0D0C" stroke="${col}" stroke-width="1.6"/>`;
+  else dot = `<circle cx="${x}" cy="${y}" r="${b.r}" fill="${col}"/>`;
+  return `<svg width="${rail}" height="${h}" viewBox="0 0 ${rail} ${h}" preserveAspectRatio="none">${thread}${dot}</svg>`;
+}
+const when = (b) => `${b.day !== undefined ? days[b.day] + ' ' : ''}${b.time}`;
+function row(b, i, n) {
+  const tap = b.custom ? ` tap" data-id="${b.id}` : '';
+  return `<div class="row ${b.on ? '' : 'off'}${tap}" ${b.custom ? 'role="checkbox" aria-checked="' + b.on + '"' : ''}>
+    ${bead(i, n, b)}<span class="name">${b.name}${b.hint ? `<i>${b.hint}</i>` : ''}</span><span class="when">${when(b)}</span></div>`;
+}
+const order = (a, b) => (a.day !== undefined) - (b.day !== undefined) || (a.day ?? 0) - (b.day ?? 0) || a.time.localeCompare(b.time);
+const string = (beads) => `<div class="string">${beads.map((b, i) => row(b, i, beads.length)).join('')}</div>`;
+
+const state = { a: new Set(), b: new Set() };
+const normBeads = norms.map(([name, time, day]) => ({ name, time, day, on: true, r: 9 }));
+const customBeads = (k) => customs.map(c => ({ ...c, custom: true, on: state[k].has(c.id), r: 7 }));
+
+function hero() {
+  return `<div class="hero" style="background-image:url(od.webp)"><div class="t"><h3>Opus Dei</h3><small>São Josemaria Escrivá, Caminho; É Cristo que Passa</small></div></div>`;
+}
+const prose = `<p class="prose">As normas de piedade são um plano de vida concreto, com práticas para cada dia, semana, mês e ano, feito para leigos que buscam a santidade no trabalho de todos os dias. O seu fundamento é a filiação divina: você é filho de Deus, e por isso não há uma vida sagrada e outra profana, mas uma só vida, oferecida a Deus por inteiro.</p><div class="divider">✠</div>`;
+function slab(k) {
+  const n = state[k].size;
+  return `<button class="slab">ADOTAR O PLANO<small>14 normas${n ? ` e ${n} ${n === 1 ? 'costume' : 'costumes'}` : ''}</small></button><p class="other">⊕ E qualquer outra oração…</p>`;
+}
+function renderA() {
+  const cs = customBeads('a');
+  const daily = cs.filter(c => c.day === undefined), weekly = cs.filter(c => c.day !== undefined);
+  document.getElementById('a').innerHTML = hero() + `<div class="col">${prose}
+    <div class="sec"><span class="label">As normas</span>${string(normBeads.slice().sort(order))}</div>
+    <div class="sec"><span class="label">Os costumes</span><p class="lede2">Pequenos gestos que a Obra vive ao longo do dia e da semana. Toque nos que quiser trazer.</p>
+      <span class="label" style="margin-top:8px">Cada dia</span>${string(daily)}
+      <span class="label" style="margin-top:8px">Na semana</span>${string(weekly)}</div>
+    ${slab('a')}</div>`;
+}
+function renderB() {
+  const all = normBeads.concat(customBeads('b')).sort(order);
+  document.getElementById('b').innerHTML = hero() + `<div class="col">${prose}
+    <div class="sec"><span class="label">As normas e os costumes</span><p class="lede2">As normas já estão no fio. As contas vazias são costumes da Obra: toque nos que quiser trazer.</p>${string(all)}</div>
+    ${slab('b')}</div>`;
+}
+for (const k of ['a', 'b']) {
+  const el = document.getElementById(k);
+  el.addEventListener('click', (e) => {
+    const r = e.target.closest('.row.tap'); if (!r) return;
+    const s = state[k], id = r.dataset.id; s.has(id) ? s.delete(id) : s.add(id);
+    const top = el.scrollTop; (k === 'a' ? renderA : renderB)(); el.scrollTop = top;
+  });
+}
+renderA(); renderB();
+document.getElementById('a').scrollTop = 520; document.getElementById('b').scrollTop = 520;
+</script>
