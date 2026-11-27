@@ -19,7 +19,8 @@
   "composed": "869–870",
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "councils/constantinople-iv",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "H. J. Schroeder, O.P.",
       "year": 1937
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -55,7 +61,8 @@
       "id": "ch001",
       "title": {
         "la": "Concilium Constantinopolitanum IV (869–870)",
-        "en-US": "Constantinople IV (869–870)"
+        "en-US": "Constantinople IV (869–870)",
+        "pt-BR": "Constantinopla IV (869–870)"
       }
     }
   ]
