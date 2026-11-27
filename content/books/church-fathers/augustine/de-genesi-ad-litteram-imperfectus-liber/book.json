@@ -18,13 +18,19 @@
   },
   "composed": "393-394",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/de-genesi-ad-litteram-imperfectus-liber",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,7 +47,8 @@
     {
       "id": "ch001",
       "title": {
-        "la": "De Genesi ad litteram imperfectus liber"
+        "la": "De Genesi ad litteram imperfectus liber",
+        "pt-BR": "Comentário literal ao Gênesis, inacabado"
       }
     }
   ],
