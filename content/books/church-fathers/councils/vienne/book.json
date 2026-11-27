@@ -19,7 +19,8 @@
   "composed": "1311–1312",
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "councils/vienne",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "H. J. Schroeder, O.P.",
       "year": 1937
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -55,7 +61,8 @@
       "id": "ch001",
       "title": {
         "la": "Concilium Viennense (1311–1312)",
-        "en-US": "Council of Vienne (1311–1312)"
+        "en-US": "Council of Vienne (1311–1312)",
+        "pt-BR": "Concílio de Viena (1311–1312)"
       }
     }
   ]
