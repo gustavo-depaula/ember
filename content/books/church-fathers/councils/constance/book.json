@@ -18,13 +18,19 @@
   },
   "composed": "1414–1418",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "councils/constance",
   "editions": {
     "la": {
       "editor": "Conciliorum Oecumenicorum Decreta (Bologna 1962), via Latin Wikisource / Documenta Catholica Omnia",
       "year": 1962
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,7 +47,8 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Concilium Constantiense (1414–1418)"
+        "la": "Concilium Constantiense (1414–1418)",
+        "pt-BR": "Concílio de Constança (1414–1418)"
       }
     }
   ]
