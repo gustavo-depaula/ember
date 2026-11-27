@@ -1,7 +1,5 @@
 # The Correspondence between the Author and Mr. G. G. Coulton
 
-oe WG Pe a pya
-
 THE CORRESPONDENCE between
 
 The Author and Mr. G. G. Coulton
@@ -104,8 +102,6 @@ Coulton really cannot recognise common sense as useful in history, I will leave 
 
 This debate arose as follows. I said the Puritan was narrower than the Catholic; I never said a word about dance-prohibition being “invented in the sixteenth century.”’ Mr. Coulton invented the dancing test; and said he could hardly find the most grudging medieval toleration of dances. At the most, he could not find anything more than that. In other words, he could not find St. Thomas Aquinas in his famous medieval library. When that little-known writer was discovered for him, the authority flatly contradicted him. St.
 
-bd
-
 Thomas does not condemn dancing in any sense whatever. He does not allow it grudgingly. He does not confine it to weddings. He does not do anything that all medievals were described by Mr. Coulton as doing. He recommends it as normally necessary and sometimes meritorious, both in the common and the mystical sense; and that not only as a mystical exercise, but as done with the common motive of refreshing men for their duty. For the rest, all sane men would say dancing should be done at appropriate times and with appropriate people; most would say a Bishop had better not copy the Bishop of Rumtifoo.
 
 When a man uses so general a phrase as “ times of joy, thanksgivings for liberty, weddings and things of that sort,” it is obvious that he means “‘ Don’t be always dancing, but dance on due occasions.’”’ Why say “hujusmodi”’ at all, if he does not mean that?
@@ -131,8 +127,6 @@ Mr. CHESTERTON’S FINAL REPLY
 I may well depart with warm thanks to Mr. Coulton for confirming my views. It is part of the fun, of course, that he should split two more of his strange straws. The Viscount never mentioned dignity: I never said he did. For the rest, Mr. Coulton argued that even Puritans might permit dancing on occasions that were religious. He now says the occasions named were rare. I say St. Thomas was manifestly not talking of dances that were religious and not thinking of things that were rare. He plainly says we should “‘intersperse’’ or scatter these things through our lives, to avoid fatigue. A man could not avert a nervous breakdown by having been married twenty years ago. Joanna Southcote could not open her box for the first time whenever she felt tired. Mr. Coulton now says that the saint can only mean all the other sports: but if he meant this strange distinction, why did he not say so? Why in the world should he defend a dance which he wished to be rare by an argument that would encourage it to be frequent?
 
 So with his weird evolutions about the word “‘like.” Whenever we say ‘‘Dance at weddings and such like,’
-
-Ly.
 
 there does remain the abstract ambiguity “Like in what respect?” But the most natural sense would seem to be “Like in being ordinary occasions for dancing.’”’ Mr. _ Coulton passionately asserts that it must mean “At certain long intervals of time.” Why?
 
