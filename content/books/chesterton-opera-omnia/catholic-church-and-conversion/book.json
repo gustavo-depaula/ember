@@ -15,7 +15,8 @@
   },
   "composed": "1926",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/catholic-church-and-conversion",
   "editions": {
@@ -23,6 +24,11 @@
       "editor": "Hilaire Belloc (general editor, Calvert Series)",
       "publisher": "The Macmillan Company, New York",
       "year": 1926
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -39,43 +45,50 @@
     {
       "id": "editors-note",
       "title": {
-        "en-US": "Editor’s Note"
+        "en-US": "Editor’s Note",
+        "pt-BR": "Nota do Editor"
       }
     },
     {
       "id": "ch01-introductory-a-new-religion",
       "title": {
-        "en-US": "I. Introductory: A New Religion"
+        "en-US": "I. Introductory: A New Religion",
+        "pt-BR": "I. Introdução: Uma Nova Religião"
       }
     },
     {
       "id": "ch02-the-obvious-blunders",
       "title": {
-        "en-US": "II. The Obvious Blunders"
+        "en-US": "II. The Obvious Blunders",
+        "pt-BR": "II. Os Erros Óbvios"
       }
     },
     {
       "id": "ch03-the-real-obstacles",
       "title": {
-        "en-US": "III. The Real Obstacles"
+        "en-US": "III. The Real Obstacles",
+        "pt-BR": "III. Os Obstáculos Reais"
       }
     },
     {
       "id": "ch04-the-world-inside-out",
       "title": {
-        "en-US": "IV. The World Inside Out"
+        "en-US": "IV. The World Inside Out",
+        "pt-BR": "IV. O Mundo pelo Avesso"
       }
     },
     {
       "id": "ch05-the-exception-proves-the-rule",
       "title": {
-        "en-US": "V. The Exception Proves the Rule"
+        "en-US": "V. The Exception Proves the Rule",
+        "pt-BR": "V. A Exceção Confirma a Regra"
       }
     },
     {
       "id": "ch06-a-note-on-present-prospects",
       "title": {
-        "en-US": "VI. A Note on Present Prospects"
+        "en-US": "VI. A Note on Present Prospects",
+        "pt-BR": "VI. Uma Nota sobre as Perspectivas Atuais"
       }
     }
   ]
