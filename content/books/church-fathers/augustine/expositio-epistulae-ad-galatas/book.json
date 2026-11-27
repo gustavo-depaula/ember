@@ -18,13 +18,19 @@
   },
   "composed": "394-395",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/expositio-epistulae-ad-galatas",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,13 +47,15 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Expositio epistulae ad Galatas, Capita 1–26"
+        "la": "Expositio epistulae ad Galatas, Capita 1–26",
+        "pt-BR": "Exposição da Carta aos Gálatas, Capítulos 1–26"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "Expositio epistulae ad Galatas, Capita 27–65"
+        "la": "Expositio epistulae ad Galatas, Capita 27–65",
+        "pt-BR": "Exposição da Carta aos Gálatas, Capítulos 27–65"
       }
     }
   ],
