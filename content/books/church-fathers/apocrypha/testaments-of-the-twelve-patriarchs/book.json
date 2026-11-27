@@ -2,13 +2,16 @@
   "id": "apocrypha-testaments-of-the-twelve-patriarchs",
   "cover": "quarter",
   "name": {
-    "en-US": "The Testaments of the Twelve Patriarchs (c. 192)"
+    "en-US": "The Testaments of the Twelve Patriarchs (c. 192)",
+    "pt-BR": "Os Testamentos dos Doze Patriarcas (c. 192)"
   },
   "author": {
-    "en-US": "Apocrypha"
+    "en-US": "Apocrypha",
+    "pt-BR": "Apócrifos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,11 +24,19 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Testaments of the Twelve Patriarchs (c. 192)"
+        "en-US": "The Testaments of the Twelve Patriarchs (c. 192)",
+        "pt-BR": "Os Testamentos dos Doze Patriarcas (c. 192)"
       }
     }
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
