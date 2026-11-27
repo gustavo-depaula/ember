@@ -101,7 +101,14 @@ export const usageTabs = [
 ] as const
 export type UsageTab = (typeof usageTabs)[number]
 
-export type UsageFilter = { days: number; platform: string; language: string }
+export type UsageFilter = {
+  days: number
+  platform: string
+  language: string
+  // The last day of the period, when not the latest any install has reached: the digest reads
+  // whole days, ending yesterday.
+  until?: string
+}
 
 type Period = {
   // The latest day any install has reached, which the periods end on.

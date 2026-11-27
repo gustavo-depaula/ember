@@ -30,7 +30,8 @@ import type {
 // the first day of the period, ?5 the first day of the period before it. D1 refuses a binding its
 // statement never names, so `bounds` names all five for the statements that don't.
 const scoped = `WITH bounds AS (SELECT ?3, ?4, ?5),
-  a AS (SELECT * FROM analytics WHERE (?1 = '' OR platform = ?1) AND (?2 = '' OR language = ?2))`
+  a AS (SELECT * FROM analytics
+    WHERE (?1 = '' OR platform = ?1) AND (?2 = '' OR language = ?2) AND day <= ?3)`
 
 const prop = (name: string) => `json_extract(props, '$.${name}')`
 
@@ -71,7 +72,7 @@ export async function loadUsage<T extends UsageTab>(
   const latest = await dbs.relay
     .prepare('SELECT MAX(day) AS day FROM analytics')
     .first<{ day: string }>()
-  const today = latest?.day ?? new Date().toISOString().slice(0, 10)
+  const today = filter.until ?? latest?.day ?? new Date().toISOString().slice(0, 10)
   const params = [
     filter.platform,
     filter.language,
