@@ -12,18 +12,24 @@
     "pt-BR": "Concílios"
   },
   "description": {
-    "en-US": "The original texts of Constantinople II (553): the the ancient Latin version of its decrees. The English translation of Percival (NPNF, 1900) is the book Councils: Constantinople II (553).",
+    "en-US": "The original texts of Constantinople II (553): the ancient Latin version of its decrees. The English translation of Percival (NPNF, 1900) is the book Councils: Constantinople II (553).",
     "pt-BR": "Os textos originais de Constantinopla II (553): a antiga versão latina de seus decretos."
   },
   "composed": "553",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "councils/constantinople-ii",
   "editions": {
     "la": {
       "editor": "Conciliorum Oecumenicorum Decreta (Bologna 1962), ancient Latin versions, via Latin Wikisource / Documenta Catholica Omnia",
       "year": 1962
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -40,7 +46,8 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Concilium Constantinopolitanum II (553)"
+        "la": "Concilium Constantinopolitanum II (553)",
+        "pt-BR": "Concílio de Constantinopla II (553)"
       }
     }
   ]
