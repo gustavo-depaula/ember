@@ -15,13 +15,19 @@
   },
   "composed": "1911",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/ballad-of-the-white-horse",
   "editions": {
     "en-US": {
       "editor": "Methuen & Co.",
       "year": 1911
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,61 +44,71 @@
     {
       "id": "ch01-prefatory-note",
       "title": {
-        "en-US": "Prefatory Note:"
+        "en-US": "Prefatory Note:",
+        "pt-BR": "Nota Prévia:"
       }
     },
     {
       "id": "ch02-dedication",
       "title": {
-        "en-US": "Dedication"
+        "en-US": "Dedication",
+        "pt-BR": "Dedicatória"
       }
     },
     {
       "id": "ch03-book-i-the-vision-of-the-king",
       "title": {
-        "en-US": "Book I. The Vision of the King"
+        "en-US": "Book I. The Vision of the King",
+        "pt-BR": "Livro I. A Visão do Rei"
       }
     },
     {
       "id": "ch04-book-ii-the-gathering-of-the-chiefs",
       "title": {
-        "en-US": "Book II. The Gathering of the Chiefs"
+        "en-US": "Book II. The Gathering of the Chiefs",
+        "pt-BR": "Livro II. A Reunião dos Chefes"
       }
     },
     {
       "id": "ch05-book-iii-the-harp-of-alfred",
       "title": {
-        "en-US": "Book III. The Harp of Alfred"
+        "en-US": "Book III. The Harp of Alfred",
+        "pt-BR": "Livro III. A Harpa de Alfredo"
       }
     },
     {
       "id": "ch06-book-iv-the-woman-in-the-forest",
       "title": {
-        "en-US": "Book IV. The Woman in the Forest"
+        "en-US": "Book IV. The Woman in the Forest",
+        "pt-BR": "Livro IV. A Mulher na Floresta"
       }
     },
     {
       "id": "ch07-book-v-ethandune-the-first-stroke",
       "title": {
-        "en-US": "Book V. Ethandune: The First Stroke"
+        "en-US": "Book V. Ethandune: The First Stroke",
+        "pt-BR": "Livro V. Ethandune: O Primeiro Golpe"
       }
     },
     {
       "id": "ch08-book-vi-ethandune-the-slaying-of-the",
       "title": {
-        "en-US": "Book VI. Ethandune: The Slaying of the Chiefs"
+        "en-US": "Book VI. Ethandune: The Slaying of the Chiefs",
+        "pt-BR": "Livro VI. Ethandune: A Morte dos Chefes"
       }
     },
     {
       "id": "ch09-book-vii-ethandune-the-last-charge",
       "title": {
-        "en-US": "Book VII. Ethandune: The Last Charge"
+        "en-US": "Book VII. Ethandune: The Last Charge",
+        "pt-BR": "Livro VII. Ethandune: A Última Carga"
       }
     },
     {
       "id": "ch10-book-viii-the-scouring-of-the-horse",
       "title": {
-        "en-US": "Book VIII. The Scouring of the Horse"
+        "en-US": "Book VIII. The Scouring of the Horse",
+        "pt-BR": "Livro VIII. A Limpeza do Cavalo"
       }
     }
   ]
