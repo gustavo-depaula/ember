@@ -18,13 +18,19 @@
   },
   "composed": "394",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/contra-adimantum",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,13 +47,15 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Contra Adimantum Manichaei discipulum, Capita 1–13"
+        "la": "Contra Adimantum Manichaei discipulum, Capita 1–13",
+        "pt-BR": "Contra Adimanto, discípulo de Mani, Capítulos 1–13"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "Contra Adimantum Manichaei discipulum, Capita 14–28"
+        "la": "Contra Adimantum Manichaei discipulum, Capita 14–28",
+        "pt-BR": "Contra Adimanto, discípulo de Mani, Capítulos 14–28"
       }
     }
   ],
