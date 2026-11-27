@@ -2,13 +2,16 @@
   "id": "apocrypha-avenging-of-the-saviour",
   "cover": "quarter",
   "name": {
-    "en-US": "Avenging of the Saviour (c. 700)"
+    "en-US": "Avenging of the Saviour (c. 700)",
+    "pt-BR": "Vingança do Salvador (c. 700)"
   },
   "author": {
-    "en-US": "Apocrypha"
+    "en-US": "Apocrypha",
+    "pt-BR": "Apócrifos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,11 +24,19 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Avenging of the Saviour (c. 700)"
+        "en-US": "Avenging of the Saviour (c. 700)",
+        "pt-BR": "Vingança do Salvador (c. 700)"
       }
     }
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
