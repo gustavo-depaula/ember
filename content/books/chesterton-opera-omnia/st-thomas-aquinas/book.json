@@ -15,13 +15,19 @@
   },
   "composed": "1933",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/st-thomas-aquinas",
   "editions": {
     "en-US": {
       "publisher": "Hodder & Stoughton, London",
       "year": 1933
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,55 +44,64 @@
     {
       "id": "introductory-note",
       "title": {
-        "en-US": "Introductory Note"
+        "en-US": "Introductory Note",
+        "pt-BR": "Nota Introdutória"
       }
     },
     {
       "id": "ch01-on-two-friars",
       "title": {
-        "en-US": "I. On Two Friars"
+        "en-US": "I. On Two Friars",
+        "pt-BR": "I. Sobre Dois Frades"
       }
     },
     {
       "id": "ch02-the-runaway-abbot",
       "title": {
-        "en-US": "II. The Runaway Abbot"
+        "en-US": "II. The Runaway Abbot",
+        "pt-BR": "II. O Abade Fugitivo"
       }
     },
     {
       "id": "ch03-the-aristotelian-revolution",
       "title": {
-        "en-US": "III. The Aristotelian Revolution"
+        "en-US": "III. The Aristotelian Revolution",
+        "pt-BR": "III. A Revolução Aristotélica"
       }
     },
     {
       "id": "ch04-a-meditation-on-the-manichees",
       "title": {
-        "en-US": "IV. A Meditation on the Manichees"
+        "en-US": "IV. A Meditation on the Manichees",
+        "pt-BR": "IV. Uma Meditação sobre os Maniqueus"
       }
     },
     {
       "id": "ch05-the-real-life-of-st-thomas",
       "title": {
-        "en-US": "V. The Real Life of St. Thomas"
+        "en-US": "V. The Real Life of St. Thomas",
+        "pt-BR": "V. A Verdadeira Vida de São Tomás"
       }
     },
     {
       "id": "ch06-the-approach-to-thomism",
       "title": {
-        "en-US": "VI. The Approach to Thomism"
+        "en-US": "VI. The Approach to Thomism",
+        "pt-BR": "VI. A Aproximação ao Tomismo"
       }
     },
     {
       "id": "ch07-the-permanent-philosophy",
       "title": {
-        "en-US": "VII. The Permanent Philosophy"
+        "en-US": "VII. The Permanent Philosophy",
+        "pt-BR": "VII. A Filosofia Perene"
       }
     },
     {
       "id": "ch08-the-sequel-to-st-thomas",
       "title": {
-        "en-US": "VIII. The Sequel to St. Thomas"
+        "en-US": "VIII. The Sequel to St. Thomas",
+        "pt-BR": "VIII. A Continuação de São Tomás"
       }
     }
   ]
