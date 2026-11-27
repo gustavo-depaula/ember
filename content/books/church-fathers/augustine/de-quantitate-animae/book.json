@@ -18,13 +18,19 @@
   },
   "composed": "387-388",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/de-quantitate-animae",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,19 +47,22 @@
     {
       "id": "ch001",
       "title": {
-        "la": "De quantitate animae, Capita 1–18"
+        "la": "De quantitate animae, Capita 1–18",
+        "pt-BR": "A grandeza da alma, Capítulos 1–18"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "De quantitate animae, Capita 19–31"
+        "la": "De quantitate animae, Capita 19–31",
+        "pt-BR": "A grandeza da alma, Capítulos 19–31"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "la": "De quantitate animae, Capita 32–36"
+        "la": "De quantitate animae, Capita 32–36",
+        "pt-BR": "A grandeza da alma, Capítulos 32–36"
       }
     }
   ],
