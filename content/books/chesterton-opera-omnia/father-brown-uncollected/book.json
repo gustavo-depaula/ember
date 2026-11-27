@@ -15,13 +15,19 @@
   },
   "composed": "1914",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/father-brown-uncollected",
   "editions": {
     "en-US": {
       "editor": "The Premier / posthumous",
       "year": 1914
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,13 +44,15 @@
     {
       "id": "ch01-the-donnington-affair",
       "title": {
-        "en-US": "The Donnington Affair"
+        "en-US": "The Donnington Affair",
+        "pt-BR": "O Caso Donnington"
       }
     },
     {
       "id": "ch02-the-mask-of-midas",
       "title": {
-        "en-US": "The Mask of Midas"
+        "en-US": "The Mask of Midas",
+        "pt-BR": "A Máscara de Midas"
       }
     }
   ]
