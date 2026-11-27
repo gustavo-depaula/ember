@@ -2,13 +2,16 @@
   "id": "apocrypha-apocalypse-of-esdras",
   "cover": "quarter",
   "name": {
-    "en-US": "Apocalypse of Esdras (unknown date)"
+    "en-US": "Apocalypse of Esdras (unknown date)",
+    "pt-BR": "Apocalipse de Esdras (data desconhecida)"
   },
   "author": {
-    "en-US": "Apocrypha"
+    "en-US": "Apocrypha",
+    "pt-BR": "Apócrifos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,11 +24,19 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Apocalypse of Esdras (unknown date)"
+        "en-US": "Apocalypse of Esdras (unknown date)",
+        "pt-BR": "Apocalipse de Esdras (data desconhecida)"
       }
     }
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
