@@ -18,13 +18,19 @@
   },
   "composed": "date varies",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/epistulae",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,283 +47,330 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Epistula 200"
+        "la": "Epistula 200",
+        "pt-BR": "Carta 200"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "Epistula 202/A"
+        "la": "Epistula 202/A",
+        "pt-BR": "Carta 202/A"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "la": "Epistula 204"
+        "la": "Epistula 204",
+        "pt-BR": "Carta 204"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "la": "Epistula 205"
+        "la": "Epistula 205",
+        "pt-BR": "Carta 205"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "la": "Epistula 206"
+        "la": "Epistula 206",
+        "pt-BR": "Carta 206"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "la": "Epistula 207"
+        "la": "Epistula 207",
+        "pt-BR": "Carta 207"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "la": "Epistula 212/A"
+        "la": "Epistula 212/A",
+        "pt-BR": "Carta 212/A"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "la": "Epistula 215/A"
+        "la": "Epistula 215/A",
+        "pt-BR": "Carta 215/A"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "la": "Epistula 216"
+        "la": "Epistula 216",
+        "pt-BR": "Carta 216"
       }
     },
     {
       "id": "ch010",
       "title": {
-        "la": "Epistula 217"
+        "la": "Epistula 217",
+        "pt-BR": "Carta 217"
       }
     },
     {
       "id": "ch011",
       "title": {
-        "la": "Epistula 221"
+        "la": "Epistula 221",
+        "pt-BR": "Carta 221"
       }
     },
     {
       "id": "ch012",
       "title": {
-        "la": "Epistula 222"
+        "la": "Epistula 222",
+        "pt-BR": "Carta 222"
       }
     },
     {
       "id": "ch013",
       "title": {
-        "la": "Epistula 223"
+        "la": "Epistula 223",
+        "pt-BR": "Carta 223"
       }
     },
     {
       "id": "ch014",
       "title": {
-        "la": "Epistula 224"
+        "la": "Epistula 224",
+        "pt-BR": "Carta 224"
       }
     },
     {
       "id": "ch015",
       "title": {
-        "la": "Epistula 225"
+        "la": "Epistula 225",
+        "pt-BR": "Carta 225"
       }
     },
     {
       "id": "ch016",
       "title": {
-        "la": "Epistula 226"
+        "la": "Epistula 226",
+        "pt-BR": "Carta 226"
       }
     },
     {
       "id": "ch017",
       "title": {
-        "la": "Epistula 230"
+        "la": "Epistula 230",
+        "pt-BR": "Carta 230"
       }
     },
     {
       "id": "ch018",
       "title": {
-        "la": "Epistula 233"
+        "la": "Epistula 233",
+        "pt-BR": "Carta 233"
       }
     },
     {
       "id": "ch019",
       "title": {
-        "la": "Epistula 234"
+        "la": "Epistula 234",
+        "pt-BR": "Carta 234"
       }
     },
     {
       "id": "ch020",
       "title": {
-        "la": "Epistula 235"
+        "la": "Epistula 235",
+        "pt-BR": "Carta 235"
       }
     },
     {
       "id": "ch021",
       "title": {
-        "la": "Epistula 236"
+        "la": "Epistula 236",
+        "pt-BR": "Carta 236"
       }
     },
     {
       "id": "ch022",
       "title": {
-        "la": "Epistula 237"
+        "la": "Epistula 237",
+        "pt-BR": "Carta 237"
       }
     },
     {
       "id": "ch023",
       "title": {
-        "la": "Epistula 238"
+        "la": "Epistula 238",
+        "pt-BR": "Carta 238"
       }
     },
     {
       "id": "ch024",
       "title": {
-        "la": "Epistula 239"
+        "la": "Epistula 239",
+        "pt-BR": "Carta 239"
       }
     },
     {
       "id": "ch025",
       "title": {
-        "la": "Epistula 240"
+        "la": "Epistula 240",
+        "pt-BR": "Carta 240"
       }
     },
     {
       "id": "ch026",
       "title": {
-        "la": "Epistula 241"
+        "la": "Epistula 241",
+        "pt-BR": "Carta 241"
       }
     },
     {
       "id": "ch027",
       "title": {
-        "la": "Epistula 242"
+        "la": "Epistula 242",
+        "pt-BR": "Carta 242"
       }
     },
     {
       "id": "ch028",
       "title": {
-        "la": "Epistula 243"
+        "la": "Epistula 243",
+        "pt-BR": "Carta 243"
       }
     },
     {
       "id": "ch029",
       "title": {
-        "la": "Epistula 244"
+        "la": "Epistula 244",
+        "pt-BR": "Carta 244"
       }
     },
     {
       "id": "ch030",
       "title": {
-        "la": "Epistula 247"
+        "la": "Epistula 247",
+        "pt-BR": "Carta 247"
       }
     },
     {
       "id": "ch031",
       "title": {
-        "la": "Epistula 248"
+        "la": "Epistula 248",
+        "pt-BR": "Carta 248"
       }
     },
     {
       "id": "ch032",
       "title": {
-        "la": "Epistula 249"
+        "la": "Epistula 249",
+        "pt-BR": "Carta 249"
       }
     },
     {
       "id": "ch033",
       "title": {
-        "la": "Epistula 250/A"
+        "la": "Epistula 250/A",
+        "pt-BR": "Carta 250/A"
       }
     },
     {
       "id": "ch034",
       "title": {
-        "la": "Epistula 251"
+        "la": "Epistula 251",
+        "pt-BR": "Carta 251"
       }
     },
     {
       "id": "ch035",
       "title": {
-        "la": "Epistula 252"
+        "la": "Epistula 252",
+        "pt-BR": "Carta 252"
       }
     },
     {
       "id": "ch036",
       "title": {
-        "la": "Epistula 253"
+        "la": "Epistula 253",
+        "pt-BR": "Carta 253"
       }
     },
     {
       "id": "ch037",
       "title": {
-        "la": "Epistula 255"
+        "la": "Epistula 255",
+        "pt-BR": "Carta 255"
       }
     },
     {
       "id": "ch038",
       "title": {
-        "la": "Epistula 256"
+        "la": "Epistula 256",
+        "pt-BR": "Carta 256"
       }
     },
     {
       "id": "ch039",
       "title": {
-        "la": "Epistula 257"
+        "la": "Epistula 257",
+        "pt-BR": "Carta 257"
       }
     },
     {
       "id": "ch040",
       "title": {
-        "la": "Epistula 258"
+        "la": "Epistula 258",
+        "pt-BR": "Carta 258"
       }
     },
     {
       "id": "ch041",
       "title": {
-        "la": "Epistula 259"
+        "la": "Epistula 259",
+        "pt-BR": "Carta 259"
       }
     },
     {
       "id": "ch042",
       "title": {
-        "la": "Epistula 260"
+        "la": "Epistula 260",
+        "pt-BR": "Carta 260"
       }
     },
     {
       "id": "ch043",
       "title": {
-        "la": "Epistula 261"
+        "la": "Epistula 261",
+        "pt-BR": "Carta 261"
       }
     },
     {
       "id": "ch044",
       "title": {
-        "la": "Epistula 262"
+        "la": "Epistula 262",
+        "pt-BR": "Carta 262"
       }
     },
     {
       "id": "ch045",
       "title": {
-        "la": "Epistula 264"
+        "la": "Epistula 264",
+        "pt-BR": "Carta 264"
       }
     },
     {
       "id": "ch046",
       "title": {
-        "la": "Epistula 265"
+        "la": "Epistula 265",
+        "pt-BR": "Carta 265"
       }
     },
     {
       "id": "ch047",
       "title": {
-        "la": "Epistula 266"
+        "la": "Epistula 266",
+        "pt-BR": "Carta 266"
       }
     }
   ],
