@@ -18,13 +18,19 @@
   },
   "composed": "422-425",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/de-octo-dulcitii-quaestionibus",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,7 +47,8 @@
     {
       "id": "ch001",
       "title": {
-        "la": "De octo Dulcitii quaestionibus"
+        "la": "De octo Dulcitii quaestionibus",
+        "pt-BR": "As oito questões de Dulcício"
       }
     }
   ],
