@@ -18,13 +18,19 @@
   },
   "composed": "ca. 387",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/de-grammatica",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,7 +47,8 @@
     {
       "id": "ch001",
       "title": {
-        "la": "De grammatica (Ars breviata)"
+        "la": "De grammatica (Ars breviata)",
+        "pt-BR": "Gramática (Arte breve)"
       }
     }
   ],
