@@ -18,13 +18,19 @@
   },
   "composed": "388-395",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/de-libero-arbitrio",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,31 +47,36 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Liber I"
+        "la": "Liber I",
+        "pt-BR": "Livro I"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "Liber II, Capita 1–10"
+        "la": "Liber II, Capita 1–10",
+        "pt-BR": "Livro II, Capítulos 1–10"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "la": "Liber II, Capita 11–20"
+        "la": "Liber II, Capita 11–20",
+        "pt-BR": "Livro II, Capítulos 11–20"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "la": "Liber III, Capita 1–11"
+        "la": "Liber III, Capita 1–11",
+        "pt-BR": "Livro III, Capítulos 1–11"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "la": "Liber III, Capita 12–25"
+        "la": "Liber III, Capita 12–25",
+        "pt-BR": "Livro III, Capítulos 12–25"
       }
     }
   ],
