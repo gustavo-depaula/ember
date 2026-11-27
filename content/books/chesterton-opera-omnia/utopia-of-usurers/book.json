@@ -11,17 +11,23 @@
   },
   "description": {
     "en-US": "A Song of Swords, the title essay against the servile state of the plutocrats, and a run of newspaper articles from the Daily News and the Illustrated London News on the war on holidays, the lash for labour, the mask of socialism, the tyranny of bad journalism and the poetry of revolution.",
-    "pt-BR": "A Song of Swords, o ensaio-título contra o Estado servil dos plutocratas, e uma série de artigos do Daily News e do Illustrated London News sobre a guerra às festas, o chicote para o trabalho, a máscara do socialismo, a tirania do mau jornalismo e a poesia da revolução."
+    "pt-BR": "Uma Canção de Espadas, o ensaio-título contra o Estado servil dos plutocratas, e uma série de artigos do Daily News e do Illustrated London News sobre a guerra às festas, o chicote para o trabalho, a máscara do socialismo, a tirania do mau jornalismo e a poesia da revolução."
   },
   "composed": "1917",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/utopia-of-usurers",
   "editions": {
     "en-US": {
       "editor": "Boni and Liveright",
       "year": 1917
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,391 +44,456 @@
     {
       "id": "ch01-a-song-of-swords",
       "title": {
-        "en-US": "A Song of Swords"
+        "en-US": "A Song of Swords",
+        "pt-BR": "Uma Canção de Espadas"
       }
     },
     {
       "id": "ch02-utopia-of-usurers",
       "title": {
-        "en-US": "Utopia of Usurers"
+        "en-US": "Utopia of Usurers",
+        "pt-BR": "A Utopia dos Usurários"
       }
     },
     {
       "id": "ch03-art-and-advertisement",
       "title": {
-        "en-US": "I. Art and Advertisement"
+        "en-US": "I. Art and Advertisement",
+        "pt-BR": "I. Arte e Publicidade"
       }
     },
     {
       "id": "ch04-the-example-of-the-arts",
       "title": {
-        "en-US": "The Example of the Arts"
+        "en-US": "The Example of the Arts",
+        "pt-BR": "O Exemplo das Artes"
       }
     },
     {
       "id": "ch05-the-first-effect",
       "title": {
-        "en-US": "The First Effect"
+        "en-US": "The First Effect",
+        "pt-BR": "O Primeiro Efeito"
       }
     },
     {
       "id": "ch06-letters-and-the-new-laureates",
       "title": {
-        "en-US": "II. Letters and the New Laureates"
+        "en-US": "II. Letters and the New Laureates",
+        "pt-BR": "II. As Letras e os Novos Poetas Laureados"
       }
     },
     {
       "id": "ch07-a-dance-of-degradation",
       "title": {
-        "en-US": "A Dance of Degradation"
+        "en-US": "A Dance of Degradation",
+        "pt-BR": "Uma Dança de Degradação"
       }
     },
     {
       "id": "ch08-haloes-for-employers",
       "title": {
-        "en-US": "Haloes for Employers"
+        "en-US": "Haloes for Employers",
+        "pt-BR": "Auréolas para os Patrões"
       }
     },
     {
       "id": "ch09-unbusinesslike-business",
       "title": {
-        "en-US": "III. Unbusinesslike Business"
+        "en-US": "III. Unbusinesslike Business",
+        "pt-BR": "III. Negócios sem Competência Comercial"
       }
     },
     {
       "id": "ch10-the-war-on-holidays",
       "title": {
-        "en-US": "IV. The War on Holidays"
+        "en-US": "IV. The War on Holidays",
+        "pt-BR": "IV. A Guerra aos Dias de Festa"
       }
     },
     {
       "id": "ch11-the-great-holiday",
       "title": {
-        "en-US": "The Great Holiday"
+        "en-US": "The Great Holiday",
+        "pt-BR": "O Grande Dia de Festa"
       }
     },
     {
       "id": "ch12-the-supreme-adventure",
       "title": {
-        "en-US": "The Supreme Adventure"
+        "en-US": "The Supreme Adventure",
+        "pt-BR": "A Suprema Aventura"
       }
     },
     {
       "id": "ch13-the-church-of-the-servile-state",
       "title": {
-        "en-US": "V. The Church of the Servile State"
+        "en-US": "V. The Church of the Servile State",
+        "pt-BR": "V. A Igreja do Estado Servil"
       }
     },
     {
       "id": "ch14-science-and-the-eugenists",
       "title": {
-        "en-US": "VI. Science and the Eugenists"
+        "en-US": "VI. Science and the Eugenists",
+        "pt-BR": "VI. A Ciência e os Eugenistas"
       }
     },
     {
       "id": "ch15-the-evolution-of-the-prison",
       "title": {
-        "en-US": "VII. The Evolution of the Prison"
+        "en-US": "VII. The Evolution of the Prison",
+        "pt-BR": "VII. A Evolução da Prisão"
       }
     },
     {
       "id": "ch16-the-evolutionists-error",
       "title": {
-        "en-US": "The Evolutionists’ Error"
+        "en-US": "The Evolutionists’ Error",
+        "pt-BR": "O Erro dos Evolucionistas"
       }
     },
     {
       "id": "ch17-prisons-for-all",
       "title": {
-        "en-US": "Prisons for All"
+        "en-US": "Prisons for All",
+        "pt-BR": "Prisões para Todos"
       }
     },
     {
       "id": "ch18-the-lash-for-labour",
       "title": {
-        "en-US": "VIII. The Lash for Labour"
+        "en-US": "VIII. The Lash for Labour",
+        "pt-BR": "VIII. O Chicote para o Trabalho"
       }
     },
     {
       "id": "ch19-the-sultan-and-the-sack",
       "title": {
-        "en-US": "The Sultan and the Sack"
+        "en-US": "The Sultan and the Sack",
+        "pt-BR": "O Sultão e o Saco"
       }
     },
     {
       "id": "ch20-the-barbarous-revival",
       "title": {
-        "en-US": "The Barbarous Revival"
+        "en-US": "The Barbarous Revival",
+        "pt-BR": "O Renascimento da Barbárie"
       }
     },
     {
       "id": "ch21-the-mask-of-socialism",
       "title": {
-        "en-US": "IX. The Mask of Socialism"
+        "en-US": "IX. The Mask of Socialism",
+        "pt-BR": "IX. A Máscara do Socialismo"
       }
     },
     {
       "id": "ch22-the-escape",
       "title": {
-        "en-US": "The Escape"
+        "en-US": "The Escape",
+        "pt-BR": "A Fuga"
       }
     },
     {
       "id": "ch23-the-new-raid",
       "title": {
-        "en-US": "The New Raid"
+        "en-US": "The New Raid",
+        "pt-BR": "A Nova Investida"
       }
     },
     {
       "id": "ch24-the-new-name",
       "title": {
-        "en-US": "The New Name"
+        "en-US": "The New Name",
+        "pt-BR": "O Novo Nome"
       }
     },
     {
       "id": "ch25-our-lawless-enemies",
       "title": {
-        "en-US": "Our Lawless Enemies"
+        "en-US": "Our Lawless Enemies",
+        "pt-BR": "Nossos Inimigos sem Lei"
       }
     },
     {
       "id": "ch26-captured-our-standards",
       "title": {
-        "en-US": "Captured Our Standards"
+        "en-US": "Captured Our Standards",
+        "pt-BR": "Capturaram Nossos Estandartes"
       }
     },
     {
       "id": "ch27-a-workmans-history-of-england",
       "title": {
-        "en-US": "A Workman’s History of England"
+        "en-US": "A Workman’s History of England",
+        "pt-BR": "Uma História da Inglaterra Escrita por um Operário"
       }
     },
     {
       "id": "ch28-that-great-reform-bill",
       "title": {
-        "en-US": "That Great Reform Bill"
+        "en-US": "That Great Reform Bill",
+        "pt-BR": "Aquele Grande Projeto de Reforma"
       }
     },
     {
       "id": "ch29-the-capitalist-is-in-the-dock",
       "title": {
-        "en-US": "The Capitalist Is in the Dock"
+        "en-US": "The Capitalist Is in the Dock",
+        "pt-BR": "O Capitalista Está no Banco dos Réus"
       }
     },
     {
       "id": "ch30-the-french-revolution-and-the-irish",
       "title": {
-        "en-US": "The French Revolution and the Irish"
+        "en-US": "The French Revolution and the Irish",
+        "pt-BR": "A Revolução Francesa e os Irlandeses"
       }
     },
     {
       "id": "ch31-revolution-by-snap-division",
       "title": {
-        "en-US": "Revolution by Snap Division"
+        "en-US": "Revolution by Snap Division",
+        "pt-BR": "Revolução por Votação de Surpresa"
       }
     },
     {
       "id": "ch32-the-revival-of-reality",
       "title": {
-        "en-US": "The Revival of Reality"
+        "en-US": "The Revival of Reality",
+        "pt-BR": "O Renascimento da Realidade"
       }
     },
     {
       "id": "ch33-mental-breakdown-in-fleet-street",
       "title": {
-        "en-US": "Mental Breakdown in Fleet Street"
+        "en-US": "Mental Breakdown in Fleet Street",
+        "pt-BR": "Colapso Mental em Fleet Street"
       }
     },
     {
       "id": "ch34-when-the-journalist-is-ruined",
       "title": {
-        "en-US": "When the Journalist Is Ruined"
+        "en-US": "When the Journalist Is Ruined",
+        "pt-BR": "Quando o Jornalista Está Arruinado"
       }
     },
     {
       "id": "ch35-the-fatigue-of-fleet-street",
       "title": {
-        "en-US": "The Fatigue of Fleet Street"
+        "en-US": "The Fatigue of Fleet Street",
+        "pt-BR": "A Fadiga de Fleet Street"
       }
     },
     {
       "id": "ch36-insane-exaggeration",
       "title": {
-        "en-US": "Insane Exaggeration"
+        "en-US": "Insane Exaggeration",
+        "pt-BR": "Exagero Insano"
       }
     },
     {
       "id": "ch37-their-load-of-lies",
       "title": {
-        "en-US": "Their Load of Lies"
+        "en-US": "Their Load of Lies",
+        "pt-BR": "Sua Carga de Mentiras"
       }
     },
     {
       "id": "ch38-the-amnesty-for-aggression",
       "title": {
-        "en-US": "The Amnesty for Aggression"
+        "en-US": "The Amnesty for Aggression",
+        "pt-BR": "A Anistia para a Agressão"
       }
     },
     {
       "id": "ch39-ought-to-be-hammered",
       "title": {
-        "en-US": "Ought to Be Hammered"
+        "en-US": "Ought to Be Hammered",
+        "pt-BR": "Deveria Ser Martelado"
       }
     },
     {
       "id": "ch40-the-whole-loathsome-load",
       "title": {
-        "en-US": "The Whole Loathsome Load"
+        "en-US": "The Whole Loathsome Load",
+        "pt-BR": "Toda a Repugnante Carga"
       }
     },
     {
       "id": "ch41-crying-over-spilt-blood",
       "title": {
-        "en-US": "Crying Over Spilt Blood"
+        "en-US": "Crying Over Spilt Blood",
+        "pt-BR": "Chorar sobre o Sangue Derramado"
       }
     },
     {
       "id": "ch42-revive-the-court-jester",
       "title": {
-        "en-US": "Revive the Court Jester"
+        "en-US": "Revive the Court Jester",
+        "pt-BR": "Tragam de Volta o Bobo da Corte"
       }
     },
     {
       "id": "ch43-praise-and-prophecy-impossible",
       "title": {
-        "en-US": "Praise and Prophecy Impossible"
+        "en-US": "Praise and Prophecy Impossible",
+        "pt-BR": "Louvor e Profecia Impossíveis"
       }
     },
     {
       "id": "ch44-the-field-for-a-fool",
       "title": {
-        "en-US": "The Field for a Fool"
+        "en-US": "The Field for a Fool",
+        "pt-BR": "O Campo de Atuação de um Bobo"
       }
     },
     {
       "id": "ch45-carsons-dilemma",
       "title": {
-        "en-US": "Carson’s Dilemma"
+        "en-US": "Carson’s Dilemma",
+        "pt-BR": "O Dilema de Carson"
       }
     },
     {
       "id": "ch46-belated-chattiness-by-wireless",
       "title": {
-        "en-US": "Belated Chattiness by Wireless"
+        "en-US": "Belated Chattiness by Wireless",
+        "pt-BR": "Conversa Fiada Tardia pelo Rádio"
       }
     },
     {
       "id": "ch47-a-fool-who-shall-be-free",
       "title": {
-        "en-US": "A Fool Who Shall Be Free"
+        "en-US": "A Fool Who Shall Be Free",
+        "pt-BR": "Um Bobo que Será Livre"
       }
     },
     {
       "id": "ch48-the-art-of-missing-the-point",
       "title": {
-        "en-US": "The Art of Missing the Point"
+        "en-US": "The Art of Missing the Point",
+        "pt-BR": "A Arte de Não Entender a Questão"
       }
     },
     {
       "id": "ch49-the-candid-candidate",
       "title": {
-        "en-US": "The Candid Candidate"
+        "en-US": "The Candid Candidate",
+        "pt-BR": "O Candidato Franco"
       }
     },
     {
       "id": "ch50-tyranny-and-head-dress",
       "title": {
-        "en-US": "Tyranny and Head-Dress"
+        "en-US": "Tyranny and Head-Dress",
+        "pt-BR": "Tirania e Adornos de Cabeça"
       }
     },
     {
       "id": "ch51-the-servile-state-again",
       "title": {
-        "en-US": "The Servile State Again"
+        "en-US": "The Servile State Again",
+        "pt-BR": "O Estado Servil Outra Vez"
       }
     },
     {
       "id": "ch52-the-empire-of-the-ignorant",
       "title": {
-        "en-US": "The Empire of the Ignorant"
+        "en-US": "The Empire of the Ignorant",
+        "pt-BR": "O Império dos Ignorantes"
       }
     },
     {
       "id": "ch53-literally-illiterate",
       "title": {
-        "en-US": "Literally Illiterate"
+        "en-US": "Literally Illiterate",
+        "pt-BR": "Literalmente Analfabetos"
       }
     },
     {
       "id": "ch54-but-they-know",
       "title": {
-        "en-US": "But They Know"
+        "en-US": "But They Know",
+        "pt-BR": "Mas Eles Sabem"
       }
     },
     {
       "id": "ch55-smile-and-smile",
       "title": {
-        "en-US": "Smile and Smile"
+        "en-US": "Smile and Smile",
+        "pt-BR": "Sorrir e Sorrir"
       }
     },
     {
       "id": "ch56-the-symbolism-of-krupp",
       "title": {
-        "en-US": "The Symbolism of Krupp"
+        "en-US": "The Symbolism of Krupp",
+        "pt-BR": "O Simbolismo de Krupp"
       }
     },
     {
       "id": "ch57-the-tower-of-bebel",
       "title": {
-        "en-US": "The Tower of Bebel"
+        "en-US": "The Tower of Bebel",
+        "pt-BR": "A Torre de Bebel"
       }
     },
     {
       "id": "ch58-a-real-danger",
       "title": {
-        "en-US": "A Real Danger"
+        "en-US": "A Real Danger",
+        "pt-BR": "Um Perigo Real"
       }
     },
     {
       "id": "ch59-must-be-a-mystery",
       "title": {
-        "en-US": "Must Be a Mystery"
+        "en-US": "Must Be a Mystery",
+        "pt-BR": "Deve Ser um Mistério"
       }
     },
     {
       "id": "ch60-the-plain-difference",
       "title": {
-        "en-US": "The Plain Difference"
+        "en-US": "The Plain Difference",
+        "pt-BR": "A Diferença Evidente"
       }
     },
     {
       "id": "ch61-the-dregs-of-puritanism",
       "title": {
-        "en-US": "The Dregs of Puritanism"
+        "en-US": "The Dregs of Puritanism",
+        "pt-BR": "A Borra do Puritanismo"
       }
     },
     {
       "id": "ch62-the-tyranny-of-bad-journalism",
       "title": {
-        "en-US": "The Tyranny of Bad Journalism"
+        "en-US": "The Tyranny of Bad Journalism",
+        "pt-BR": "A Tirania do Mau Jornalismo"
       }
     },
     {
       "id": "ch63-the-poetry-of-the-revolution",
       "title": {
-        "en-US": "The Poetry of the Revolution"
+        "en-US": "The Poetry of the Revolution",
+        "pt-BR": "A Poesia da Revolução"
       }
     },
     {
       "id": "ch64-the-symbolism-of-the-badge",
       "title": {
-        "en-US": "The Symbolism of the Badge"
+        "en-US": "The Symbolism of the Badge",
+        "pt-BR": "O Simbolismo do Distintivo"
       }
     },
     {
       "id": "ch65-the-beastly-individualist",
       "title": {
-        "en-US": "The Beastly Individualist"
+        "en-US": "The Beastly Individualist",
+        "pt-BR": "O Bestial Individualista"
       }
     }
   ]

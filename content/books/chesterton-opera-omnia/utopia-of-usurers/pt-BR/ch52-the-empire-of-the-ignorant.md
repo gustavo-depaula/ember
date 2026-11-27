@@ -1,0 +1,5 @@
+# O Império dos Ignorantes
+
+Aquele futuro anárquico que os Tories mais tímidos declaravam temer já se abateu sobre nós. Somos governados por pessoas ignorantes. Mas as pessoas mais ignorantes da Grã-Bretanha moderna encontram-se na classe alta, na classe média e, especialmente, na classe média alta. Não o digo com a menor petulância ou sequer aversão; essas classes são muitas vezes realmente benéficas por sua boa educação, sua hospitalidade ou sua humanidade para com os animais.
+
+Ainda não há companhia melhor do que a dos jovens das duas Universidades, ou a dos melhores entre os velhos do Exército ou de alguns dos outros serviços. Também há, é claro, exceções em matéria de saber; verdadeiros eruditos como o Professor Gilbert Murray ou o Professor Phillimore não são ignorantes, embora *sejam* cavalheiros. Mas, quando erguemos os olhos para qualquer aglomeração das classes mais ricas e poderosas, para a Tribuna de Honra em Epsom, para as janelas de Park Lane, para os presentes num debate de gala ou num casamento elegante, podemos dizer com segurança que são, em sua maioria, as criaturas mais mal instruídas, ou mais desprovidas de instrução, destas ilhas.
