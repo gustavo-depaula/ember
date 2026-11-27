@@ -18,13 +18,19 @@
   },
   "composed": "390",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/de-vera-religione",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,19 +47,22 @@
     {
       "id": "ch001",
       "title": {
-        "la": "De vera religione, Capita 1–25"
+        "la": "De vera religione, Capita 1–25",
+        "pt-BR": "A verdadeira religião, Capítulos 1–25"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "De vera religione, Capita 26–46"
+        "la": "De vera religione, Capita 26–46",
+        "pt-BR": "A verdadeira religião, Capítulos 26–46"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "la": "De vera religione, Capita 47–55"
+        "la": "De vera religione, Capita 47–55",
+        "pt-BR": "A verdadeira religião, Capítulos 47–55"
       }
     }
   ],
