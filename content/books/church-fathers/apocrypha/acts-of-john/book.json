@@ -2,13 +2,16 @@
   "id": "apocrypha-acts-of-john",
   "cover": "quarter",
   "name": {
-    "en-US": "Acts of John"
+    "en-US": "Acts of John",
+    "pt-BR": "Atos de João"
   },
   "author": {
-    "en-US": "Apocrypha"
+    "en-US": "Apocrypha",
+    "pt-BR": "Apócrifos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,11 +24,19 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Acts of John"
+        "en-US": "Acts of John",
+        "pt-BR": "Atos de João"
       }
     }
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
