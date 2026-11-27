@@ -19,7 +19,8 @@
   "composed": "396",
   "languages": [
     "la",
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "augustine/de-agone-christiano",
   "editions": {
@@ -30,6 +31,11 @@
     "en-US": {
       "translator": "C. L. Cornish",
       "year": 1847
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -55,7 +61,8 @@
       "id": "ch001",
       "title": {
         "la": "De agone christiano",
-        "en-US": "On the Christian Conflict"
+        "en-US": "On the Christian Conflict",
+        "pt-BR": "O combate cristão"
       }
     }
   ],
