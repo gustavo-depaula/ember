@@ -11,17 +11,23 @@
   },
   "description": {
     "en-US": "Chesterton's survey for the Home University Library: the Victorian compromise and its enemies, the great Victorian novelists, the great Victorian poets, and the break-up of the compromise. A free and personal statement of impressions, as the editors say, rather than a manual.",
-    "pt-BR": "A panorama de Chesterton para a Home University Library: o compromisso vitoriano e seus inimigos, os grandes romancistas vitorianos, os grandes poetas vitorianos e o fim do compromisso. Uma exposição livre e pessoal de impressões, como dizem os editores, e não um manual."
+    "pt-BR": "Um panorama de Chesterton para a Home University Library: o compromisso vitoriano e seus inimigos, os grandes romancistas vitorianos, os grandes poetas vitorianos e o fim do compromisso. Uma exposição livre e pessoal de impressões, como dizem os editores, e não um manual."
   },
   "composed": "1913",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/victorian-age-in-literature",
   "editions": {
     "en-US": {
       "editor": "Williams and Norgate",
       "year": 1913
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,31 +44,36 @@
     {
       "id": "ch01-introduction",
       "title": {
-        "en-US": "Introduction"
+        "en-US": "Introduction",
+        "pt-BR": "Introdução"
       }
     },
     {
       "id": "ch02-the-victorian-compromise-and-its-enemies",
       "title": {
-        "en-US": "I. The Victorian Compromise and its Enemies"
+        "en-US": "I. The Victorian Compromise and its Enemies",
+        "pt-BR": "I. O Compromisso Vitoriano e seus Inimigos"
       }
     },
     {
       "id": "ch03-the-great-victorian-novelists",
       "title": {
-        "en-US": "II. The Great Victorian Novelists"
+        "en-US": "II. The Great Victorian Novelists",
+        "pt-BR": "II. Os Grandes Romancistas Vitorianos"
       }
     },
     {
       "id": "ch04-the-great-victorian-poets",
       "title": {
-        "en-US": "III. The Great Victorian Poets"
+        "en-US": "III. The Great Victorian Poets",
+        "pt-BR": "III. Os Grandes Poetas Vitorianos"
       }
     },
     {
       "id": "ch05-the-break-up-of-the-compromise",
       "title": {
-        "en-US": "IV. The Break-up of the Compromise"
+        "en-US": "IV. The Break-up of the Compromise",
+        "pt-BR": "IV. A Dissolução do Compromisso"
       }
     }
   ]
