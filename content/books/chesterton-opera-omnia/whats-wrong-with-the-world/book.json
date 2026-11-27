@@ -15,13 +15,19 @@
   },
   "composed": "1910",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/whats-wrong-with-the-world",
   "editions": {
     "en-US": {
       "editor": "Cassell and Company",
       "year": 1910
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,73 +44,85 @@
     {
       "id": "part01-part-one-the-homelessness-of-man",
       "title": {
-        "en-US": "Part One. The Homelessness of Man"
+        "en-US": "Part One. The Homelessness of Man",
+        "pt-BR": "Primeira parte. O homem sem lar"
       },
       "children": [
         {
           "id": "ch01-the-medical-mistake",
           "title": {
-            "en-US": "I. The Medical Mistake"
+            "en-US": "I. The Medical Mistake",
+            "pt-BR": "I. O erro médico"
           }
         },
         {
           "id": "ch02-wanted-an-unpractical-man",
           "title": {
-            "en-US": "II. Wanted, an Unpractical Man"
+            "en-US": "II. Wanted, an Unpractical Man",
+            "pt-BR": "II. Procura-se um homem sem senso prático"
           }
         },
         {
           "id": "ch03-the-new-hypocrite",
           "title": {
-            "en-US": "III. The New Hypocrite"
+            "en-US": "III. The New Hypocrite",
+            "pt-BR": "III. O novo hipócrita"
           }
         },
         {
           "id": "ch04-the-fear-of-the-past",
           "title": {
-            "en-US": "IV. The Fear of the Past"
+            "en-US": "IV. The Fear of the Past",
+            "pt-BR": "IV. O medo do passado"
           }
         },
         {
           "id": "ch05-the-unfinished-temple",
           "title": {
-            "en-US": "V. The Unfinished Temple"
+            "en-US": "V. The Unfinished Temple",
+            "pt-BR": "V. O templo inacabado"
           }
         },
         {
           "id": "ch06-the-enemies-of-property",
           "title": {
-            "en-US": "VI. The Enemies of Property"
+            "en-US": "VI. The Enemies of Property",
+            "pt-BR": "VI. Os inimigos da propriedade"
           }
         },
         {
           "id": "ch07-the-free-family",
           "title": {
-            "en-US": "VII. The Free Family"
+            "en-US": "VII. The Free Family",
+            "pt-BR": "VII. A família livre"
           }
         },
         {
           "id": "ch08-the-wildness-of-domesticity",
           "title": {
-            "en-US": "VIII. The Wildness of Domesticity"
+            "en-US": "VIII. The Wildness of Domesticity",
+            "pt-BR": "VIII. O caráter selvagem da vida doméstica"
           }
         },
         {
           "id": "ch09-history-of-hudge-and-gudge",
           "title": {
-            "en-US": "IX. History of Hudge and Gudge"
+            "en-US": "IX. History of Hudge and Gudge",
+            "pt-BR": "IX. História de Hudge e Gudge"
           }
         },
         {
           "id": "ch10-oppression-by-optimism",
           "title": {
-            "en-US": "X. Oppression by Optimism"
+            "en-US": "X. Oppression by Optimism",
+            "pt-BR": "X. A opressão pelo otimismo"
           }
         },
         {
           "id": "ch11-the-homelessness-of-jones",
           "title": {
-            "en-US": "XI. The Homelessness of Jones"
+            "en-US": "XI. The Homelessness of Jones",
+            "pt-BR": "XI. Jones sem lar"
           }
         }
       ]
@@ -112,31 +130,36 @@
     {
       "id": "part02-part-two-imperialism-or-the-mistake-about",
       "title": {
-        "en-US": "Part Two. Imperialism, or the Mistake About Man"
+        "en-US": "Part Two. Imperialism, or the Mistake About Man",
+        "pt-BR": "Segunda parte. Imperialismo, ou o erro a respeito do homem"
       },
       "children": [
         {
           "id": "ch12-the-charm-of-jingoism",
           "title": {
-            "en-US": "I. The Charm of Jingoism"
+            "en-US": "I. The Charm of Jingoism",
+            "pt-BR": "I. O encanto do chauvinismo"
           }
         },
         {
           "id": "ch13-wisdom-and-the-weather",
           "title": {
-            "en-US": "II. Wisdom and the Weather"
+            "en-US": "II. Wisdom and the Weather",
+            "pt-BR": "II. A sabedoria e o tempo"
           }
         },
         {
           "id": "ch14-the-common-vision",
           "title": {
-            "en-US": "III. The Common Vision"
+            "en-US": "III. The Common Vision",
+            "pt-BR": "III. A visão comum"
           }
         },
         {
           "id": "ch15-the-insane-necessity",
           "title": {
-            "en-US": "IV. The Insane Necessity"
+            "en-US": "IV. The Insane Necessity",
+            "pt-BR": "IV. A necessidade insana"
           }
         }
       ]
@@ -144,79 +167,92 @@
     {
       "id": "part03-part-three-feminism-or-the-mistake-about",
       "title": {
-        "en-US": "Part Three. Feminism, or the Mistake About Woman"
+        "en-US": "Part Three. Feminism, or the Mistake About Woman",
+        "pt-BR": "Terceira parte. Feminismo, ou o erro a respeito da mulher"
       },
       "children": [
         {
           "id": "ch16-the-unmilitary-suffragette",
           "title": {
-            "en-US": "I. The Unmilitary Suffragette"
+            "en-US": "I. The Unmilitary Suffragette",
+            "pt-BR": "I. A sufragista sem espírito militar"
           }
         },
         {
           "id": "ch17-the-universal-stick",
           "title": {
-            "en-US": "II. The Universal Stick"
+            "en-US": "II. The Universal Stick",
+            "pt-BR": "II. O bastão universal"
           }
         },
         {
           "id": "ch18-the-emancipation-of-domesticity",
           "title": {
-            "en-US": "III. The Emancipation of Domesticity"
+            "en-US": "III. The Emancipation of Domesticity",
+            "pt-BR": "III. A emancipação da vida doméstica"
           }
         },
         {
           "id": "ch19-the-romance-of-thrift",
           "title": {
-            "en-US": "IV. The Romance of Thrift"
+            "en-US": "IV. The Romance of Thrift",
+            "pt-BR": "IV. O espírito romanesco da economia doméstica"
           }
         },
         {
           "id": "ch20-the-coldness-of-chloe",
           "title": {
-            "en-US": "V. The Coldness of Chloe"
+            "en-US": "V. The Coldness of Chloe",
+            "pt-BR": "V. A frieza de Cloé"
           }
         },
         {
           "id": "ch21-the-pedant-and-the-savage",
           "title": {
-            "en-US": "VI. The Pedant and the Savage"
+            "en-US": "VI. The Pedant and the Savage",
+            "pt-BR": "VI. O pedante e o selvagem"
           }
         },
         {
           "id": "ch22-the-modern-surrender-of-woman",
           "title": {
-            "en-US": "VII. The Modern Surrender of Woman"
+            "en-US": "VII. The Modern Surrender of Woman",
+            "pt-BR": "VII. A rendição moderna da mulher"
           }
         },
         {
           "id": "ch23-the-brand-of-the-fleur-de-lis",
           "title": {
-            "en-US": "VIII. The Brand of the Fleur-de-lis"
+            "en-US": "VIII. The Brand of the Fleur-de-lis",
+            "pt-BR": "VIII. A marca da flor-de-lis"
           }
         },
         {
           "id": "ch24-sincerity-and-the-gallows",
           "title": {
-            "en-US": "IX. Sincerity and the Gallows"
+            "en-US": "IX. Sincerity and the Gallows",
+            "pt-BR": "IX. A sinceridade e a forca"
           }
         },
         {
           "id": "ch25-the-higher-anarchy",
           "title": {
-            "en-US": "X. The Higher Anarchy"
+            "en-US": "X. The Higher Anarchy",
+            "pt-BR": "X. A anarquia superior"
           }
         },
         {
           "id": "ch26-the-queen-and-the-suffragettes",
           "title": {
-            "en-US": "XI. The Queen and the Suffragettes"
+            "en-US": "XI. The Queen and the Suffragettes",
+            "pt-BR": "XI. A rainha e as sufragistas"
           }
         },
         {
           "id": "ch27-the-modern-slave",
           "title": {
-            "en-US": "XII. The Modern Slave"
+            "en-US": "XII. The Modern Slave",
+            "pt-BR": "XII. A escrava moderna"
           }
         }
       ]
@@ -224,91 +260,106 @@
     {
       "id": "part04-part-four-education-or-the-mistake-about",
       "title": {
-        "en-US": "Part Four. Education: Or the Mistake About the Child"
+        "en-US": "Part Four. Education: Or the Mistake About the Child",
+        "pt-BR": "Quarta parte. Educação: ou o erro a respeito da criança"
       },
       "children": [
         {
           "id": "ch28-the-calvinism-of-to-day",
           "title": {
-            "en-US": "I. The Calvinism of To-day"
+            "en-US": "I. The Calvinism of To-day",
+            "pt-BR": "I. O calvinismo de hoje"
           }
         },
         {
           "id": "ch29-the-tribal-terror",
           "title": {
-            "en-US": "II. The Tribal Terror"
+            "en-US": "II. The Tribal Terror",
+            "pt-BR": "II. O terror tribal"
           }
         },
         {
           "id": "ch30-the-tricks-of-environment",
           "title": {
-            "en-US": "III. The Tricks of Environment"
+            "en-US": "III. The Tricks of Environment",
+            "pt-BR": "III. Os truques do ambiente"
           }
         },
         {
           "id": "ch31-the-truth-about-education",
           "title": {
-            "en-US": "IV. The Truth About Education"
+            "en-US": "IV. The Truth About Education",
+            "pt-BR": "IV. A verdade sobre a educação"
           }
         },
         {
           "id": "ch32-an-evil-cry",
           "title": {
-            "en-US": "V. An Evil Cry"
+            "en-US": "V. An Evil Cry",
+            "pt-BR": "V. Um clamor maligno"
           }
         },
         {
           "id": "ch33-authority-the-unavoidable",
           "title": {
-            "en-US": "VI. Authority the Unavoidable"
+            "en-US": "VI. Authority the Unavoidable",
+            "pt-BR": "VI. A autoridade inevitável"
           }
         },
         {
           "id": "ch34-the-humility-of-mrs-grundy",
           "title": {
-            "en-US": "VII. The Humility of Mrs. Grundy"
+            "en-US": "VII. The Humility of Mrs. Grundy",
+            "pt-BR": "VII. A humildade da sra. Grundy"
           }
         },
         {
           "id": "ch35-the-broken-rainbow",
           "title": {
-            "en-US": "VIII. The Broken Rainbow"
+            "en-US": "VIII. The Broken Rainbow",
+            "pt-BR": "VIII. O arco-íris partido"
           }
         },
         {
           "id": "ch36-the-need-for-narrowness",
           "title": {
-            "en-US": "IX. The Need for Narrowness"
+            "en-US": "IX. The Need for Narrowness",
+            "pt-BR": "IX. A necessidade de estreiteza"
           }
         },
         {
           "id": "ch37-the-case-for-the-public-schools",
           "title": {
-            "en-US": "X. The Case for the Public Schools"
+            "en-US": "X. The Case for the Public Schools",
+            "pt-BR": "X. Em defesa dos colégios particulares tradicionais"
           }
         },
         {
           "id": "ch38-the-school-for-hypocrites",
           "title": {
-            "en-US": "XI. The School for Hypocrites"
+            "en-US": "XI. The School for Hypocrites",
+            "pt-BR": "XI. A escola de hipócritas"
           }
         },
         {
           "id": "ch39-the-staleness-of-the-new-schools",
           "title": {
-            "en-US": "XII. The Staleness of the New Schools"
+            "en-US": "XII. The Staleness of the New Schools",
+            "pt-BR": "XII. A falta de novidade das escolas novas"
           }
         },
         {
           "id": "ch40-the-outlawed-parent",
           "title": {
-            "en-US": "XIII. The Outlawed Parent"
+            "en-US": "XIII. The Outlawed Parent",
+            "pt-BR": "XIII. O pai posto fora da lei"
           }
         },
         {
           "id": "ch41-folly-and-female-education",
           "title": {
-            "en-US": "XIV. Folly and Female Education"
+            "en-US": "XIV. Folly and Female Education",
+            "pt-BR": "XIV. A insensatez e a educação feminina"
           }
         }
       ]
@@ -316,37 +367,43 @@
     {
       "id": "part05-part-five-the-home-of-man",
       "title": {
-        "en-US": "Part Five. The Home of Man"
+        "en-US": "Part Five. The Home of Man",
+        "pt-BR": "Quinta parte. O lar do homem"
       },
       "children": [
         {
           "id": "ch42-the-empire-of-the-insect",
           "title": {
-            "en-US": "I. The Empire of the Insect"
+            "en-US": "I. The Empire of the Insect",
+            "pt-BR": "I. O império do inseto"
           }
         },
         {
           "id": "ch43-the-fallacy-of-the-umbrella-stand",
           "title": {
-            "en-US": "II. The Fallacy of the Umbrella Stand"
+            "en-US": "II. The Fallacy of the Umbrella Stand",
+            "pt-BR": "II. A falácia do porta-guarda-chuvas"
           }
         },
         {
           "id": "ch44-the-dreadful-duty-of-gudge",
           "title": {
-            "en-US": "III. The Dreadful Duty of Gudge"
+            "en-US": "III. The Dreadful Duty of Gudge",
+            "pt-BR": "III. O terrível dever de Gudge"
           }
         },
         {
           "id": "ch45-a-last-instance",
           "title": {
-            "en-US": "IV. A Last Instance"
+            "en-US": "IV. A Last Instance",
+            "pt-BR": "IV. Um último exemplo"
           }
         },
         {
           "id": "ch46-conclusion",
           "title": {
-            "en-US": "V. Conclusion"
+            "en-US": "V. Conclusion",
+            "pt-BR": "V. Conclusão"
           }
         }
       ]
@@ -354,25 +411,29 @@
     {
       "id": "part06-three-notes",
       "title": {
-        "en-US": "Three Notes"
+        "en-US": "Three Notes",
+        "pt-BR": "Três notas"
       },
       "children": [
         {
           "id": "ch47-on-female-suffrage",
           "title": {
-            "en-US": "I. On Female Suffrage"
+            "en-US": "I. On Female Suffrage",
+            "pt-BR": "I. Sobre o sufrágio feminino"
           }
         },
         {
           "id": "ch48-on-cleanliness-in-education",
           "title": {
-            "en-US": "II. On Cleanliness in Education"
+            "en-US": "II. On Cleanliness in Education",
+            "pt-BR": "II. Sobre o asseio na educação"
           }
         },
         {
           "id": "ch49-on-peasant-proprietorship",
           "title": {
-            "en-US": "III. On Peasant Proprietorship"
+            "en-US": "III. On Peasant Proprietorship",
+            "pt-BR": "III. Sobre a propriedade camponesa"
           }
         }
       ]
