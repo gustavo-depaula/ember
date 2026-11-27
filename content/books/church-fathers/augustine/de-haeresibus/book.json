@@ -18,13 +18,19 @@
   },
   "composed": "428",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "work": "augustine/de-haeresibus",
   "editions": {
     "la": {
       "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
       "year": 1841
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "la",
+      "year": 2026
     }
   },
   "sources": [
@@ -41,19 +47,22 @@
     {
       "id": "ch001",
       "title": {
-        "la": "Praefatio"
+        "la": "Praefatio",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "la": "De haeresibus"
+        "la": "De haeresibus",
+        "pt-BR": "As heresias"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "la": "Epilogus"
+        "la": "Epilogus",
+        "pt-BR": "Epílogo"
       }
     }
   ],
