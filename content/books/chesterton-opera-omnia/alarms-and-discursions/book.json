@@ -15,13 +15,19 @@
   },
   "composed": "1910",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "work": "chesterton/alarms-and-discursions",
   "editions": {
     "en-US": {
       "editor": "Methuen & Co.",
       "year": 1910
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
     }
   },
   "sources": [
@@ -38,235 +44,274 @@
     {
       "id": "ch01-introductory-on-gargoyles",
       "title": {
-        "en-US": "Introductory: On Gargoyles"
+        "en-US": "Introductory: On Gargoyles",
+        "pt-BR": "Introdução: Sobre as Gárgulas"
       }
     },
     {
       "id": "ch02-the-surrender-of-a-cockney",
       "title": {
-        "en-US": "The Surrender of a Cockney"
+        "en-US": "The Surrender of a Cockney",
+        "pt-BR": "A Rendição de um Londrino"
       }
     },
     {
       "id": "ch03-the-nightmare",
       "title": {
-        "en-US": "The Nightmare"
+        "en-US": "The Nightmare",
+        "pt-BR": "O Pesadelo"
       }
     },
     {
       "id": "ch04-the-telegraph-poles",
       "title": {
-        "en-US": "The Telegraph Poles"
+        "en-US": "The Telegraph Poles",
+        "pt-BR": "Os Postes Telegráficos"
       }
     },
     {
       "id": "ch05-a-drama-of-dolls",
       "title": {
-        "en-US": "A Drama of Dolls"
+        "en-US": "A Drama of Dolls",
+        "pt-BR": "Um Drama de Bonecos"
       }
     },
     {
       "id": "ch06-the-man-and-his-newspaper",
       "title": {
-        "en-US": "The Man and His Newspaper"
+        "en-US": "The Man and His Newspaper",
+        "pt-BR": "O Homem e Seu Jornal"
       }
     },
     {
       "id": "ch07-the-appetite-of-earth",
       "title": {
-        "en-US": "The Appetite of Earth"
+        "en-US": "The Appetite of Earth",
+        "pt-BR": "O Apetite da Terra"
       }
     },
     {
       "id": "ch08-simmons-and-the-social-tie",
       "title": {
-        "en-US": "Simmons and the Social Tie"
+        "en-US": "Simmons and the Social Tie",
+        "pt-BR": "Simmons e o Vínculo Social"
       }
     },
     {
       "id": "ch09-cheese",
       "title": {
-        "en-US": "Cheese"
+        "en-US": "Cheese",
+        "pt-BR": "Queijo"
       }
     },
     {
       "id": "ch10-the-red-town",
       "title": {
-        "en-US": "The Red Town"
+        "en-US": "The Red Town",
+        "pt-BR": "A Cidade Vermelha"
       }
     },
     {
       "id": "ch11-the-furrows",
       "title": {
-        "en-US": "The Furrows"
+        "en-US": "The Furrows",
+        "pt-BR": "Os Sulcos"
       }
     },
     {
       "id": "ch12-the-philosophy-of-sight-seeing",
       "title": {
-        "en-US": "The Philosophy of Sight-seeing"
+        "en-US": "The Philosophy of Sight-seeing",
+        "pt-BR": "A Filosofia do Turismo"
       }
     },
     {
       "id": "ch13-a-criminal-head",
       "title": {
-        "en-US": "A Criminal Head"
+        "en-US": "A Criminal Head",
+        "pt-BR": "Uma Cabeça Criminosa"
       }
     },
     {
       "id": "ch14-the-wrath-of-the-roses",
       "title": {
-        "en-US": "The Wrath of the Roses"
+        "en-US": "The Wrath of the Roses",
+        "pt-BR": "A Ira das Rosas"
       }
     },
     {
       "id": "ch15-the-gold-of-glastonbury",
       "title": {
-        "en-US": "The Gold of Glastonbury"
+        "en-US": "The Gold of Glastonbury",
+        "pt-BR": "O Ouro de Glastonbury"
       }
     },
     {
       "id": "ch16-the-futurists",
       "title": {
-        "en-US": "The Futurists"
+        "en-US": "The Futurists",
+        "pt-BR": "Os Futuristas"
       }
     },
     {
       "id": "ch17-dukes",
       "title": {
-        "en-US": "Dukes"
+        "en-US": "Dukes",
+        "pt-BR": "Duques"
       }
     },
     {
       "id": "ch18-the-glory-of-grey",
       "title": {
-        "en-US": "The Glory of Grey"
+        "en-US": "The Glory of Grey",
+        "pt-BR": "A Glória do Cinzento"
       }
     },
     {
       "id": "ch19-the-anarchist",
       "title": {
-        "en-US": "The Anarchist"
+        "en-US": "The Anarchist",
+        "pt-BR": "O Anarquista"
       }
     },
     {
       "id": "ch20-how-i-found-the-superman",
       "title": {
-        "en-US": "How I found the Superman"
+        "en-US": "How I found the Superman",
+        "pt-BR": "Como Encontrei o Super-Homem"
       }
     },
     {
       "id": "ch21-the-new-house",
       "title": {
-        "en-US": "The New House"
+        "en-US": "The New House",
+        "pt-BR": "A Casa Nova"
       }
     },
     {
       "id": "ch22-the-wings-of-stone",
       "title": {
-        "en-US": "The Wings of Stone"
+        "en-US": "The Wings of Stone",
+        "pt-BR": "As Asas de Pedra"
       }
     },
     {
       "id": "ch23-the-three-kinds-of-men",
       "title": {
-        "en-US": "The Three Kinds of Men"
+        "en-US": "The Three Kinds of Men",
+        "pt-BR": "Os Três Tipos de Homens"
       }
     },
     {
       "id": "ch24-the-steward-of-the-chiltern-hundreds",
       "title": {
-        "en-US": "The Steward of the Chiltern Hundreds"
+        "en-US": "The Steward of the Chiltern Hundreds",
+        "pt-BR": "O Administrador dos Chiltern Hundreds"
       }
     },
     {
       "id": "ch25-the-field-of-blood",
       "title": {
-        "en-US": "The Field of Blood"
+        "en-US": "The Field of Blood",
+        "pt-BR": "O Campo de Sangue"
       }
     },
     {
       "id": "ch26-the-strangeness-of-luxury",
       "title": {
-        "en-US": "The Strangeness of Luxury"
+        "en-US": "The Strangeness of Luxury",
+        "pt-BR": "A Estranheza do Luxo"
       }
     },
     {
       "id": "ch27-the-triumph-of-the-donkey",
       "title": {
-        "en-US": "The Triumph of the Donkey"
+        "en-US": "The Triumph of the Donkey",
+        "pt-BR": "O Triunfo do Burro"
       }
     },
     {
       "id": "ch28-the-wheel",
       "title": {
-        "en-US": "The Wheel"
+        "en-US": "The Wheel",
+        "pt-BR": "A Roda"
       }
     },
     {
       "id": "ch29-five-hundred-and-fifty-five",
       "title": {
-        "en-US": "Five Hundred and Fifty-five"
+        "en-US": "Five Hundred and Fifty-five",
+        "pt-BR": "Quinhentos e Cinquenta e Cinco"
       }
     },
     {
       "id": "ch30-ethandune",
       "title": {
-        "en-US": "Ethandune"
+        "en-US": "Ethandune",
+        "pt-BR": "Ethandune"
       }
     },
     {
       "id": "ch31-the-flat-freak",
       "title": {
-        "en-US": "The Flat Freak"
+        "en-US": "The Flat Freak",
+        "pt-BR": "A Aberração Plana"
       }
     },
     {
       "id": "ch32-the-garden-of-the-sea",
       "title": {
-        "en-US": "The Garden of the Sea"
+        "en-US": "The Garden of the Sea",
+        "pt-BR": "O Jardim do Mar"
       }
     },
     {
       "id": "ch33-the-sentimentalist",
       "title": {
-        "en-US": "The Sentimentalist"
+        "en-US": "The Sentimentalist",
+        "pt-BR": "O Sentimentalista"
       }
     },
     {
       "id": "ch34-the-white-horses",
       "title": {
-        "en-US": "The White Horses"
+        "en-US": "The White Horses",
+        "pt-BR": "Os Cavalos Brancos"
       }
     },
     {
       "id": "ch35-the-long-bow",
       "title": {
-        "en-US": "The Long Bow"
+        "en-US": "The Long Bow",
+        "pt-BR": "O Arco Longo"
       }
     },
     {
       "id": "ch36-the-modern-scrooge",
       "title": {
-        "en-US": "The Modern Scrooge"
+        "en-US": "The Modern Scrooge",
+        "pt-BR": "O Scrooge Moderno"
       }
     },
     {
       "id": "ch37-the-high-plains",
       "title": {
-        "en-US": "The High Plains"
+        "en-US": "The High Plains",
+        "pt-BR": "As Planícies Altas"
       }
     },
     {
       "id": "ch38-the-chorus",
       "title": {
-        "en-US": "The Chorus"
+        "en-US": "The Chorus",
+        "pt-BR": "O Coro"
       }
     },
     {
       "id": "ch39-a-romance-of-the-marshes",
       "title": {
-        "en-US": "A Romance of the Marshes"
+        "en-US": "A Romance of the Marshes",
+        "pt-BR": "Um Romance dos Pântanos"
       }
     }
   ]
