@@ -2,13 +2,16 @@
   "id": "eusebius-life-of-constantine",
   "cover": "quarter",
   "name": {
-    "en-US": "Life of Constantine"
+    "en-US": "Life of Constantine",
+    "pt-BR": "Vida de Constantino"
   },
   "author": {
-    "en-US": "Eusebius of Caesarea (c. 265-c. 340)"
+    "en-US": "Eusebius of Caesarea (c. 265-c. 340)",
+    "pt-BR": "Eusébio de Cesareia (c. 265-c. 340)"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,29 +24,40 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Book I"
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Book II"
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Book III"
+        "en-US": "Book III",
+        "pt-BR": "Livro III"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Book IV"
+        "en-US": "Book IV",
+        "pt-BR": "Livro IV"
       }
     }
   ],
   "arrived": {
     "en-US": "2026-06-04"
+  },
+  "editions": {
+    "pt-BR": {
+      "translator": "Ember",
+      "from": "en-US",
+      "year": 2026
+    }
   }
 }
